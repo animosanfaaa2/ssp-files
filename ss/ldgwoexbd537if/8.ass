@@ -1,0 +1,309 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: sign_generic,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: Main_Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: Italics_Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00730200,&H00730200,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:29.14,0:00:30.24,Main,Ruche,0,0,0,,Eh?
+Dialogue: 0,0:00:30.93,0:00:32.88,Main,Ruche,0,0,0,,La porta è aperta.
+Dialogue: 0,0:00:32.05,0:00:35.26,Main_Top,Hilde,0,0,0,,Ho ragione io, non capisci\Nun fico secco, vecchio.
+Dialogue: 0,0:00:35.26,0:00:37.66,Main,Hilde,0,0,0,,Non sono venuta a elemosinare qualcosa.
+Dialogue: 0,0:00:37.66,0:00:40.23,Main,Hilde,0,0,0,,Voglio solo che mi vendi quella spada.
+Dialogue: 0,0:00:40.23,0:00:42.84,Main,Veruga,0,0,0,,Non ho nessun'arma da venderti!
+Dialogue: 0,0:00:42.34,0:00:43.88,Main_Top,Elymas,0,0,0,,Non promette bene.
+Dialogue: 0,0:00:42.84,0:00:45.23,Main,Veruga,0,0,0,,Tra l'altro,\Nquesta mi è stata commissionata.
+Dialogue: 0,0:00:43.88,0:00:44.71,Main_Top,Ruche,0,0,0,,Già.
+Dialogue: 0,0:00:46.21,0:00:47.53,Main,Elymas,0,0,0,,Signore, va tutto bene?
+Dialogue: 0,0:00:47.53,0:00:50.22,Main,Veruga,0,0,0,,Mi hai proprio stufato,\NSpadaccina Magica.
+Dialogue: 0,0:00:50.22,0:00:53.07,Main,Hilde,0,0,0,,Eh?! Quindi saresti tu il cliente?
+Dialogue: 0,0:00:56.51,0:00:58.76,Main,Hilde,0,0,0,,Ero proprio curiosa di scoprirlo.
+Dialogue: 0,0:00:58.76,0:01:04.12,Main,Hilde,0,0,0,,Vecchio, hai davvero forgiato una Spada\Ndi Mithril per questa mezza calzetta?
+Dialogue: 0,0:01:01.54,0:01:04.12,Italics_Top,Elymas,0,0,0,,Sento la sua voce,\Nma non riesco a vederla.
+Dialogue: 0,0:01:04.12,0:01:07.55,Main,Hilde,0,0,0,,Eri così disperato\Nda svenderti per due spicci, Veruga?
+Dialogue: 0,0:01:07.55,0:01:08.55,Italics,Elymas,0,0,0,,È un'abilità?
+Dialogue: 0,0:01:08.55,0:01:10.77,Main,Ruche,0,0,0,,S-Signor Elymas, guarda in basso!
+Dialogue: 0,0:01:11.18,0:01:12.57,Main,Ruche,0,0,0,,In basso!
+Dialogue: 0,0:01:18.03,0:01:22.48,Main,Hilde,0,0,0,,Ehi, merdina.\NMi stai prendendo per il culo?
+Dialogue: 0,0:01:22.48,0:01:25.82,Main,Elymas,0,0,0,,Eh?! Ma chi è questa ragazzina?
+Dialogue: 0,0:02:58.16,0:03:02.62,sign_generic,Sign,0,0,0,,{\b1\fnTimes New Roman\an3\bord1\shad1.5\fs18\fad(935,480)\3c&H0E0B09&\4c&H0E0B09&\pos(601,304)\c&HF0F3F0&}Episodio 20\h\h\hLa Spadaccina Magica Hilde
+Dialogue: 0,0:02:58.66,0:02:59.86,Main_Top,Hilde,0,0,0,,Ehi, merdina.
+Dialogue: 0,0:03:00.16,0:03:03.12,Main_Top,Hilde,0,0,0,,Mi stai prendendo per il culo?
+Dialogue: 0,0:03:03.12,0:03:05.37,Main,Hilde,0,0,0,,Se hai qualcosa da dire,\Ndimmela in faccia.
+Dialogue: 0,0:03:05.84,0:03:06.98,Main,Elymas,0,0,0,,Una bambina?
+Dialogue: 0,0:03:06.98,0:03:09.28,Main,Elymas,0,0,0,,No, di sicuro ha già una classe.
+Dialogue: 0,0:03:09.28,0:03:11.55,Main,Elymas,0,0,0,,Se ha fatto il rituale,\Navrà una quindicina d'anni.
+Dialogue: 0,0:03:11.55,0:03:13.10,Main,Hilde,0,0,0,,Ne ho diciassette.
+Dialogue: 0,0:03:14.10,0:03:15.75,Italics,Elymas,0,0,0,,Non ci credo, è più grande di me.
+Dialogue: 0,0:03:15.75,0:03:18.22,Main,Hilde,0,0,0,,A quanto pare\Nnon ti ho impressionato più di tanto.
+Dialogue: 0,0:03:18.48,0:03:19.47,Main,Hilde,0,0,0,,Dimmi, merdina.
+Dialogue: 0,0:03:19.47,0:03:24.23,Main,Hilde,0,0,0,,Mai sentito dello Spadaccino Magico\Nsoprannominato la Lama della Fiamma Nera?
+Dialogue: 0,0:03:27.17,0:03:30.73,Italics,Elymas,0,0,0,,Certo che sì. È successo\Nquando cercavo informazioni a Lacoryna.
+Dialogue: 0,0:03:31.26,0:03:32.72,Italics,Elymas,0,0,0,,La Lama della Fiamma Nera.
+Dialogue: 0,0:03:33.17,0:03:38.70,Italics,Elymas,0,0,0,,Pare essere uno dei pochi avventurieri\Ndi rango A che si trovano in questa città.
+Dialogue: 0,0:03:42.39,0:03:43.88,Main,Hilde,0,0,0,,Per vostra informazione,
+Dialogue: 0,0:03:43.88,0:03:47.47,Main,Hilde,0,0,0,,avete davanti il celebre avventuriero\Nche tutti chiamano
+Dialogue: 0,0:03:47.47,0:03:48.87,Main,Hilde,0,0,0,,la Lama della Fiamma Nera!
+Dialogue: 0,0:03:51.12,0:03:54.00,Main,Hilde,0,0,0,,O meglio, la sua discepola numero uno!
+Dialogue: 0,0:03:58.63,0:04:02.22,Main,Elymas,0,0,0,,Ce… Certo.\NÈ davvero impressionante…
+Dialogue: 0,0:04:03.18,0:04:06.38,Main,Hilde,0,0,0,,Beh, ora che è sbucato il committente,\Nme la sbrigherò in un attimo.
+Dialogue: 0,0:04:06.38,0:04:09.76,Main,Hilde,0,0,0,,Di sicuro è più facile parlare con te\Nche con questo vecchio testardo.
+Dialogue: 0,0:04:10.78,0:04:13.47,Main,Hilde,0,0,0,,Tanto c'è solo una cosa che devo dirti.
+Dialogue: 0,0:04:13.83,0:04:16.07,Main,Hilde,0,0,0,,Vendimi la tua Spada di Mithril.
+Dialogue: 0,0:04:16.38,0:04:17.71,Main,Elymas,0,0,0,,Scordatelo.
+Dialogue: 0,0:04:17.71,0:04:20.86,Main,Elymas,0,0,0,,Se gliel'ho commissionata\Nè perché mi serve.
+Dialogue: 0,0:04:20.86,0:04:23.49,Main,Hilde,0,0,0,,Non scaldarti tanto,\NCavaliere Corazzato.
+Dialogue: 0,0:04:23.49,0:04:29.24,Main,Hilde,0,0,0,,Un'arma del genere è sprecata nelle mani\Ndi chi ha una classe scadente come la tua.
+Dialogue: 0,0:04:29.24,0:04:32.10,Main,Hilde,0,0,0,,Non sarà certo una bella spada\Na renderti qualcuno!
+Dialogue: 0,0:04:32.10,0:04:34.50,Main,Hilde,0,0,0,,Si vede che non sai come gira il mondo.
+Dialogue: 0,0:04:34.78,0:04:37.65,Main,Hilde,0,0,0,,Non ti sto mica dicendo di vendermela\Na un prezzo stracciato.
+Dialogue: 0,0:04:37.65,0:04:40.51,Main,Hilde,0,0,0,,Trenta milioni di monete d'oro\Nbastano e avanzano, no?
+Dialogue: 0,0:04:40.84,0:04:44.10,Main,Hilde,0,0,0,,Già! Dubito tu abbai mai visto\Ntutti 'sti soldi in vita tua.
+Dialogue: 0,0:04:44.10,0:04:45.51,Main,Elymas,0,0,0,,Ti ho detto di no.
+Dialogue: 0,0:04:45.89,0:04:48.52,Main,Elymas,0,0,0,,Trenta milioni sono\Npraticamente una miseria.
+Dialogue: 0,0:04:49.57,0:04:51.44,Main,Veruga,0,0,0,,E-Ehi, giovanotto.
+Dialogue: 0,0:04:51.44,0:04:55.78,Main,Veruga,0,0,0,,Questa piccoletta ha l'aria di una fessa,\Nma è molto più forte di quanto sembri!
+Dialogue: 0,0:04:55.78,0:04:57.03,Main,Hilde,0,0,0,,Come osi, vecchiaccio!
+Dialogue: 0,0:04:57.34,0:05:02.01,Main,Veruga,0,0,0,,È un'avventuriera di rango B e detiene\Nil record di master uccisi in solitaria.
+Dialogue: 0,0:05:03.11,0:05:04.53,Main,Hilde,0,0,0,,S-Sì, è vero…
+Dialogue: 0,0:05:05.11,0:05:09.48,Main,Veruga,0,0,0,,Peccato che sia marcia fino al midollo,\Nperciò è meglio non mettersela contro.
+Dialogue: 0,0:05:09.48,0:05:10.50,Main,Hilde,0,0,0,,Ehi!
+Dialogue: 0,0:05:10.79,0:05:13.12,Main,Elymas,0,0,0,,Non avevi rifiutato la sua richiesta
+Dialogue: 0,0:05:13.12,0:05:16.38,Main,Elymas,0,0,0,,proprio perché non tolleri\Nle persone come lei?
+Dialogue: 0,0:05:16.69,0:05:18.95,Main,Elymas,0,0,0,,Sappi che non la sopporto manco io.
+Dialogue: 0,0:05:18.95,0:05:20.47,Main,Elymas,0,0,0,,Non ho intenzione di trattare.
+Dialogue: 0,0:05:20.47,0:05:21.38,Main,Hilde,0,0,0,,Ehi!
+Dialogue: 0,0:05:21.38,0:05:26.48,Main,Veruga,0,0,0,,Io sono pronto a pagarne le conseguenze,\Nma voi due siete ancora giovani.
+Dialogue: 0,0:05:26.48,0:05:29.82,Main,Veruga,0,0,0,,Evitate di inimicarvi persone\Nproblematiche nella gilda, se potete.
+Dialogue: 0,0:05:29.82,0:05:32.14,Main,Veruga,0,0,0,,Lasciate che me ne occupi io.
+Dialogue: 0,0:05:32.14,0:05:33.90,Italics,Elymas,0,0,0,,Sotto sotto è un tenerone.
+Dialogue: 0,0:05:34.16,0:05:36.02,Main,Elymas,0,0,0,,Non deve preoccuparsi per noi.
+Dialogue: 0,0:05:36.02,0:05:37.88,Main,Elymas,0,0,0,,Siamo avventurieri.
+Dialogue: 0,0:05:37.88,0:05:38.90,Main,Elymas,0,0,0,,Alle brutte,
+Dialogue: 0,0:05:38.90,0:05:41.28,Main,Elymas,0,0,0,,basterà spostarci in un'altra città.
+Dialogue: 0,0:05:42.52,0:05:45.49,Main,Elymas,0,0,0,,Comunque dubito\Ndi essere più debole di lei.
+Dialogue: 0,0:06:02.52,0:06:05.22,Main,Hilde,0,0,0,,Ma guarda…\NVedo che hai i riflessi pronti.
+Dialogue: 0,0:06:05.22,0:06:07.90,Main,Hilde,0,0,0,,Peccato che le tue statistiche\Nfacciano schifo.
+Dialogue: 0,0:06:07.90,0:06:10.34,Main,Hilde,0,0,0,,Sono il limite del Cavaliere Corazzato.
+Dialogue: 0,0:06:10.34,0:06:11.64,Main,Hilde,0,0,0,,Ti ha detto bene, sai?
+Dialogue: 0,0:06:11.64,0:06:15.41,Main,Hilde,0,0,0,,Se fossi stata più incazzata,\Nti avrei fatto fuori senza farmi scrupoli.
+Dialogue: 0,0:06:15.41,0:06:18.48,Main,Hilde,0,0,0,,Un'arma superiore alle tue capacità\Nnon ti impedirà di schiattare.
+Dialogue: 0,0:06:19.29,0:06:21.99,Main,Hilde,0,0,0,,Perciò vendimela senza fare storie.
+Dialogue: 0,0:06:21.99,0:06:24.80,Main,Ruche,0,0,0,,S-Stai bene, signor Elymas?
+Dialogue: 0,0:06:24.80,0:06:28.62,Main,Ruche,0,0,0,,S-S-Si può sapere\Nche cavolo ti è passato per la testa?!
+Dialogue: 0,0:06:28.62,0:06:32.25,Main,Hilde,0,0,0,,Gli ho solo sbattuto in faccia\Nla sua debolezza.
+Dialogue: 0,0:06:32.61,0:06:36.38,Main,Elymas,0,0,0,,Prendermi alla sprovvista\Nnon dimostra che sei più forte di me.
+Dialogue: 0,0:06:36.38,0:06:37.08,Main,Hilde,0,0,0,,Che?
+Dialogue: 0,0:06:37.40,0:06:40.56,Main,Hilde,0,0,0,,Beh, allora? Vogliamo\Nregolare i conti con un duello?
+Dialogue: 0,0:06:40.56,0:06:42.84,Main,Hilde,0,0,0,,Se metti in palio la Spada di Mithril,
+Dialogue: 0,0:06:42.84,0:06:44.74,Main,Hilde,0,0,0,,accetto volentieri la sfida.
+Dialogue: 0,0:06:45.13,0:06:47.09,Main,Elymas,0,0,0,,E tu cosa sei disposta a giocarti?
+Dialogue: 0,0:06:47.77,0:06:50.60,Main,Hilde,0,0,0,,Figurati se io posso perdere contro di te!
+Dialogue: 0,0:06:50.88,0:06:54.98,Main,Hilde,0,0,0,,In ogni caso, rinuncerò alla spada\Ne ti pagherò il suo valore di mercato.
+Dialogue: 0,0:06:55.28,0:06:59.11,Main,Hilde,0,0,0,,Come la vedi? Adesso\Nnon hai più scuse per svignartela.
+Dialogue: 0,0:06:59.11,0:07:01.50,Main,Veruga,0,0,0,,Lascia perdere, giovanotto!
+Dialogue: 0,0:07:01.50,0:07:04.86,Main,Veruga,0,0,0,,Gli Spadaccini Magici sono formidabili\Nnegli scontri individuali!
+Dialogue: 0,0:07:04.86,0:07:09.07,Main,Veruga,0,0,0,,Ti assicuro che sarebbe tutto\Nfuorché uno scontro alla pari.
+Dialogue: 0,0:07:10.63,0:07:14.87,Main,Elymas,0,0,0,,Sicura che ti vanno bene le condizioni?\NPerché accetto volentieri la sfida.
+Dialogue: 0,0:07:17.29,0:07:19.91,Main,Ruche,0,0,0,,M-Mi sembra una pessima idea!
+Dialogue: 0,0:07:19.91,0:07:22.30,Main,Ruche,0,0,0,,È una Spadaccina Magica di rango B!
+Dialogue: 0,0:07:22.30,0:07:26.30,Main,Ruche,0,0,0,,Persino io so che\Nnon hanno rivali nei duelli!
+Dialogue: 0,0:07:26.61,0:07:29.08,Main,Elymas,0,0,0,,In realtà volevo essere più diplomatico,
+Dialogue: 0,0:07:29.08,0:07:31.19,Main,Elymas,0,0,0,,ma mi ha fatto salire\Nil sangue al cervello.
+Dialogue: 0,0:07:31.19,0:07:32.31,Main,Ruche,0,0,0,,Signor Elymas?
+Dialogue: 0,0:07:32.31,0:07:35.90,Main,Elymas,0,0,0,,Non capita tutti i giorni di poter\Nintascare 30.000.000 così facilmente.
+Dialogue: 0,0:07:35.90,0:07:38.56,Main,Elymas,0,0,0,,Ti darò una bella lezione, Hilde.
+Dialogue: 0,0:07:38.56,0:07:41.01,Main,Hilde,0,0,0,,Per fortuna sei un imbecille patentato.
+Dialogue: 0,0:07:41.01,0:07:42.46,Main,Hilde,0,0,0,,Chiederò a un membro della gilda
+Dialogue: 0,0:07:42.46,0:07:45.84,Main,Hilde,0,0,0,,di assistere al duello,\Ncosì non potrai rimangiarti la parola.
+Dialogue: 0,0:07:45.84,0:07:47.57,Main,Hilde,0,0,0,,Poi non venire a piangere da me!
+Dialogue: 0,0:08:02.57,0:08:05.49,Italics,Elymas,0,0,0,,Hilde dovrebbe tornare qui a momenti.
+Dialogue: 0,0:08:08.55,0:08:10.02,Main,Elymas,0,0,0,,Scudo Vitale!
+Dialogue: 0,0:08:08.97,0:08:10.47,sign_generic,Sign,0,0,0,,{\fad(685,0)\c&H68E7FE&\bord1\blur0.5\3c&H6B5176&\b1\an7\pos(340.8,188.2)}\h\h\h\h\h\h\hScudo Vitale {\fs13\bord2\blur1.5\c&HF0EEE6&\3c&HFAE15E&}[Abilità comune]\NConsuma il 20% degli HP massimi all'attivazione\NCrea uno scudo sull'utilizzatore la cui potenza\Nè pari agli HP consumati
+Dialogue: 0,0:08:13.99,0:08:17.98,Main,Veruga,0,0,0,,Giovanotto, si può sapere\Ncosa stai facendo?
+Dialogue: 0,0:08:17.98,0:08:22.48,Main,Veruga,0,0,0,,Che senso ha disattivare un'abilità\Nche hai appena attivato?
+Dialogue: 0,0:08:22.78,0:08:24.26,Main,Veruga,0,0,0,,Sinceramente non capisco.
+Dialogue: 0,0:08:24.73,0:08:26.31,Main,Elymas,0,0,0,,Mi serve a gestire gli HP.
+Dialogue: 0,0:08:26.31,0:08:27.99,Main,Veruga,0,0,0,,È ancora meno chiaro di prima.
+Dialogue: 0,0:08:28.42,0:08:30.99,Main,Ruche,0,0,0,,Senti, signor Elymas…\Npuoi davvero sconfiggerla?
+Dialogue: 0,0:08:31.24,0:08:35.16,Main,Ruche,0,0,0,,Per vincere lo scontro stai puntando su\NSguardo Mortale del Drago Furente, vero?
+Dialogue: 0,0:08:36.25,0:08:40.46,Main,Ruche,0,0,0,,Dubito che Fede Cieca possa esserti\Ndi qualche aiuto in questo caso.
+Dialogue: 0,0:08:40.46,0:08:41.50,Main,Elymas,0,0,0,,Esatto.
+Dialogue: 0,0:08:43.07,0:08:45.04,Flashback,Elymas,0,0,0,,Fede Cieca!
+Dialogue: 0,0:08:57.52,0:09:01.10,Italics,Elymas,0,0,0,,Non vale la pena aumentare\Nla potenza d'attacco di sei volte
+Dialogue: 0,0:09:01.10,0:09:03.08,Italics,Elymas,0,0,0,,se poi subisco più danni.
+Dialogue: 0,0:09:03.74,0:09:08.00,Main,Elymas,0,0,0,,Portare la mia difesa a zero contro\Nun avversario che usa attacchi a distanza
+Dialogue: 0,0:09:07.15,0:09:11.03,sign_generic,Sign,0,0,0,,{\b1\blur1\fad(897,0)\c&HFCF5D7&\3c&HF1DF69&\pos(315.2,210)}Difesa 0
+Dialogue: 0,0:09:08.00,0:09:10.15,Main,Elymas,0,0,0,,sarebbe un vero suicidio.
+Dialogue: 0,0:09:11.52,0:09:15.03,Main,Elymas,0,0,0,,Uno Spadaccino Magico è persino\Npiù ostico di un Maestro Spadaccino.
+Dialogue: 0,0:09:15.57,0:09:18.04,Main,Elymas,0,0,0,,Oltre a essere fortissimo\Ne abile con la spada,
+Dialogue: 0,0:09:18.39,0:09:21.43,Main,Elymas,0,0,0,,dispone anche\Ndi pratici attacchi magici a distanza.
+Dialogue: 0,0:09:24.54,0:09:28.06,Main,Veruga,0,0,0,,Sei ancora in tempo per tirarti indietro.
+Dialogue: 0,0:09:28.06,0:09:29.70,Main,Elymas,0,0,0,,Guardi che posso vincere.
+Dialogue: 0,0:09:30.50,0:09:33.40,Main,Elymas,0,0,0,,Giocare sporco\Nnon è proprio nelle mie corde…
+Dialogue: 0,0:09:33.40,0:09:36.05,Main,Elymas,0,0,0,,ma gli Spadaccini Magici\Nhanno una mentalità distorta.
+Dialogue: 0,0:09:36.05,0:09:39.31,Main,Ruche,0,0,0,,Aspetta, cos'è quel ghigno malefico?!
+Dialogue: 0,0:09:43.02,0:09:45.61,Main,Hilde,0,0,0,,Ho portato una persona con me,\NCavaliere Corazzato!
+Dialogue: 0,0:09:46.43,0:09:49.15,Main,Hilde,0,0,0,,Spero che tu non abbia\Nmanomesso la mia spada!
+Dialogue: 0,0:09:50.49,0:09:53.91,Main,Matilda,0,0,0,,Se mi trovo qui è per colpa\Ndi un "Cavaliere Corazzato strafottente".
+Dialogue: 0,0:09:53.91,0:09:58.50,Main,Matilda,0,0,0,,Sapevo che avrei trovato voi due,\Nsignor Elymas e signorina Ruche.
+Dialogue: 0,0:10:08.25,0:10:10.93,Main,Hilde,0,0,0,,Iniziamo, Cavaliere Corazzato.
+Dialogue: 0,0:10:13.43,0:10:14.76,Italics,Elymas,0,0,0,,Spadaccino Magico
+Dialogue: 0,0:10:14.76,0:10:15.92,Italics,Elymas,0,0,0,,e Cavaliere Corazzato.
+Dialogue: 0,0:10:16.69,0:10:19.14,Italics,Elymas,0,0,0,,È la combinazione peggiore per un duello.
+Dialogue: 0,0:10:19.14,0:10:22.06,Italics,Elymas,0,0,0,,Mantenendo le distanze,\Nridurrà i miei HP a suon di magie.
+Dialogue: 0,0:10:22.06,0:10:24.63,Italics,Elymas,0,0,0,,Se mi avvicinerò,\Nmi sconfiggerà a colpi di spada.
+Dialogue: 0,0:10:26.42,0:10:27.52,Italics,Elymas,0,0,0,,Però
+Dialogue: 0,0:10:27.52,0:10:30.36,Italics,Elymas,0,0,0,,gli Spadaccini Magici\Nhanno una mentalità distorta
+Dialogue: 0,0:10:30.92,0:10:34.66,Italics,Elymas,0,0,0,,e Hilde probabilmente\Nne è l'esempio più lampante.
+Dialogue: 0,0:10:47.71,0:10:51.67,Main,Elymas,0,0,0,,Testimone, prima di iniziare,\Nvorrei accertarmi di una cosa.
+Dialogue: 0,0:10:51.67,0:10:53.65,Main,Matilda,0,0,0,,Di che si tratta, signor Elymas?
+Dialogue: 0,0:10:53.65,0:10:57.05,Main,Elymas,0,0,0,,Considerato che useremo le nostre abilità,\Npotrebbe finire male.
+Dialogue: 0,0:10:57.74,0:11:00.51,Main,Elymas,0,0,0,,E se dovessimo ferire\No uccidere il nostro avversario?
+Dialogue: 0,0:11:01.39,0:11:06.20,Main,Matilda,0,0,0,,Quando si accetta un duello, si è\Nconsapevoli dei rischi che si corrono.
+Dialogue: 0,0:11:06.20,0:11:09.77,Main,Matilda,0,0,0,,Quantomeno, questo è il presupposto\Nda cui partiamo noi testimoni.
+Dialogue: 0,0:11:09.77,0:11:12.54,Main,Matilda,0,0,0,,Se siete preoccupati,\Npotete ancora ritirarvi.
+Dialogue: 0,0:11:12.54,0:11:15.41,Main,Elymas,0,0,0,,No, è proprio la conferma che cercavo.
+Dialogue: 0,0:11:15.41,0:11:17.66,Main,Elymas,0,0,0,,Possiamo cominciare, Hilde.
+Dialogue: 0,0:11:18.87,0:11:21.20,Main,Hilde,0,0,0,,Che c'è, volevi provocarmi?
+Dialogue: 0,0:11:21.20,0:11:23.50,Main,Hilde,0,0,0,,Anche io non ho nulla da ridire.
+Dialogue: 0,0:11:28.21,0:11:30.13,Italics,Elymas,0,0,0,,Siamo piuttosto distanti.
+Dialogue: 0,0:11:30.13,0:11:32.88,Italics,Elymas,0,0,0,,D'altronde la sua classe usa molte magie.
+Dialogue: 0,0:11:35.87,0:11:38.39,Main,Matilda,0,0,0,,Bene, si comincia!
+Dialogue: 0,0:11:43.13,0:11:44.65,Main,Elymas,0,0,0,,Scudo Vitale!
+Dialogue: 0,0:11:43.35,0:11:45.31,sign_generic,Sign,0,0,0,,{\bord0\fnGeorgia\b1\pos(463.2,68.4)\fs26\c&HFDFF34&\fad(770,0)}Scudo\NVitale
+Dialogue: 0,0:12:23.55,0:12:26.14,Main,Hilde,0,0,0,,E quella? Che abilità strana…
+Dialogue: 0,0:12:42.28,0:12:43.95,Main,Ruche,0,0,0,,N-Non avevi detto
+Dialogue: 0,0:12:44.18,0:12:47.30,Main,Ruche,0,0,0,,che era troppo pericoloso\Nusare quell'abilità in duello?
+Dialogue: 0,0:12:48.12,0:12:50.17,sign_generic,Sign,0,0,0,,{\an7\b1\bord1.5\fad(648,0)\blur0.5\c&H857F9D&\3c&HDDEAFD&\pos(311,276)}\h\h\h\h\h\hFede Cieca {\fs13\bord2\blur1.5\c&HF0EEE6&\3c&HFAE15E&}[Abilità comune]\NUtilizzabile solo al di sotto del 50% degli HP\NRiduce la difesa a zero e aumenta\Nla potenza d'attacco in base alla difesa persa\NConsuma MP mentre è attiva
+Dialogue: 0,0:12:51.15,0:12:53.08,Italics,Hilde,0,0,0,,Un'altra abilità misteriosa…
+Dialogue: 0,0:12:53.41,0:12:56.56,Italics,Hilde,0,0,0,,Per non parlare\Ndella reazione di quella ragazza.
+Dialogue: 0,0:12:57.88,0:12:59.05,Italics,Hilde,0,0,0,,Ora come ora…
+Dialogue: 0,0:13:15.23,0:13:17.32,Italics,Hilde,0,0,0,,Mi limiterò a osservarlo da lontano!
+Dialogue: 0,0:13:57.22,0:14:00.21,Main,Elymas,0,0,0,,Beh, direi niente male.
+Dialogue: 0,0:14:04.67,0:14:06.30,Main,Hilde,0,0,0,,Aspetta, aspetta, aspetta!
+Dialogue: 0,0:14:06.30,0:14:08.84,Main,Hilde,0,0,0,,C-Chiedo una pausa!\NInterrompete il duello!
+Dialogue: 0,0:14:09.29,0:14:10.62,Main,Hilde,0,0,0,,Fermati!
+Dialogue: 0,0:14:10.94,0:14:11.87,Main,Hilde,0,0,0,,Fermati!
+Dialogue: 0,0:14:11.87,0:14:13.95,Main,Hilde,0,0,0,,Guarda, ho pure mollato l'arma!
+Dialogue: 0,0:14:13.95,0:14:15.33,Main,Hilde,0,0,0,,Ma mi senti o no?!
+Dialogue: 0,0:14:15.33,0:14:16.88,Main,Hilde,0,0,0,,Fermati! Fermati, ho detto!
+Dialogue: 0,0:14:17.46,0:14:19.39,Main,Hilde,0,0,0,,Dico sul serio, fermati!
+Dialogue: 0,0:14:20.16,0:14:23.38,Main,Hilde,0,0,0,,A-Alzo bandiera bianca! Mi arrendo!
+Dialogue: 0,0:14:23.38,0:14:26.39,Main,Hilde,0,0,0,,Riconosco la sconfitta!\NHo perso, contento?
+Dialogue: 0,0:14:27.23,0:14:31.96,Italics,Elymas,0,0,0,,Di base, gli Spadaccini Magici\Nnon amano correre rischi inutili.
+Dialogue: 0,0:14:32.82,0:14:34.69,Italics,Elymas,0,0,0,,Vantano una potenza offensiva devastante,
+Dialogue: 0,0:14:34.69,0:14:38.43,Italics,Elymas,0,0,0,,ma c'è da dire che le loro abilità\Ncomportano anche degli svantaggi
+Dialogue: 0,0:14:38.88,0:14:42.90,Italics,Elymas,0,0,0,,e avendo scarsa resistenza, uno scontro\Nprolungato può costare loro la vita.
+Dialogue: 0,0:14:42.90,0:14:47.41,Italics,Elymas,0,0,0,,Ero sicuro che si sarebbe arresa\Nse avessi continuato a minacciarla.
+Dialogue: 0,0:14:48.71,0:14:50.63,Main,Elymas,0,0,0,,La pregherei di dichiarare il vincitore.
+Dialogue: 0,0:14:50.63,0:14:51.91,Main,Matilda,0,0,0,,G-Giusto.
+Dialogue: 0,0:14:52.22,0:14:55.10,Main,Matilda,0,0,0,,I-Il vincitore è il signor Elymas!
+Dialogue: 0,0:14:58.18,0:15:00.48,Main,Hilde,0,0,0,,Eh?! Mi prendi per il culo?
+Dialogue: 0,0:15:00.48,0:15:02.67,Main,Hilde,0,0,0,,Ti ho solo chiesto di fermarti!
+Dialogue: 0,0:15:03.01,0:15:07.26,Main,Hilde,0,0,0,,Se ho detto che mi arrendevo\Nè perché tu continuavi ad avanzare!
+Dialogue: 0,0:15:07.26,0:15:09.22,Main,Elymas,0,0,0,,Resta il fatto che lo hai detto.
+Dialogue: 0,0:15:09.54,0:15:13.58,Main,Matilda,0,0,0,,Signorina Hilde, la gilda non ritiene\Nlegittimo interrompere un duello
+Dialogue: 0,0:15:13.58,0:15:15.91,Main,Matilda,0,0,0,,perché uno dei contendenti\Nsi è reso conto
+Dialogue: 0,0:15:16.36,0:15:21.23,Main,Matilda,0,0,0,,di essere in netto svantaggio dopo\Naver visto le abilità dell'avversario.
+Dialogue: 0,0:15:21.60,0:15:23.86,Main,Matilda,0,0,0,,Sono stata convocata\Nper fare da testimone.
+Dialogue: 0,0:15:23.86,0:15:25.27,Main,Matilda,0,0,0,,Se non si atterrà alle regole,
+Dialogue: 0,0:15:25.27,0:15:28.76,Main,Matilda,0,0,0,,mi vedrò costretta\Nad adottare le misure necessarie.
+Dialogue: 0,0:15:28.76,0:15:31.66,Main,Hilde,0,0,0,,N-Non serve dirmelo, lo so benissimo.
+Dialogue: 0,0:15:31.66,0:15:36.33,Main,Hilde,0,0,0,,Pensi di avere a che fare con una morta\Ndi fame che si rimangia la parola data?
+Dialogue: 0,0:15:36.66,0:15:40.50,Main,Hilde,0,0,0,,Ascoltami bene, Elymas.\NTi avevo detto di fermarti.
+Dialogue: 0,0:15:40.82,0:15:45.51,Main,Hilde,0,0,0,,Considerato questo, ti stanno bene\N20.000.000 di monete d'oro?
+Dialogue: 0,0:15:47.77,0:15:50.26,Main,Hilde,0,0,0,,Trenta milioni sono un po' troppi…
+Dialogue: 0,0:15:50.72,0:15:51.76,Main,Elymas,0,0,0,,No.
+Dialogue: 0,0:15:51.76,0:15:55.39,Main,Ruche,0,0,0,,Che braccino corto…\NPerò capisco come si sente.
+Dialogue: 0,0:15:55.66,0:16:00.40,Main,Hilde,0,0,0,,È-È solo che mi serviva a tutti i costi\Nun'arma adatta al mio livello!
+Dialogue: 0,0:16:00.76,0:16:03.05,Main,Hilde,0,0,0,,I progressi di un avventuriero potente
+Dialogue: 0,0:16:03.05,0:16:07.15,Main,Hilde,0,0,0,,aiutano a proteggere la città\Ne a ridurre i danni causati dai mostri.
+Dialogue: 0,0:16:07.15,0:16:10.28,Main,Hilde,0,0,0,,Riconosco di aver usato\Nl'approccio sbagliato.
+Dialogue: 0,0:16:10.28,0:16:12.99,Main,Hilde,0,0,0,,Giuro che non farò mai più\Nuna cosa simile.
+Dialogue: 0,0:16:13.34,0:16:14.64,Main,Elymas,0,0,0,,Basta che tu abbia capito.
+Dialogue: 0,0:16:15.83,0:16:19.50,Main,Hilde,0,0,0,,Q-Quindi affare fatto? Accetti\N20.000.000 di monete d'oro?
+Dialogue: 0,0:16:19.96,0:16:21.00,Main,Elymas,0,0,0,,Ti ho detto di no.
+Dialogue: 0,0:16:25.97,0:16:28.19,Main,Veruga,0,0,0,,A-Ascolta, giovanotto.
+Dialogue: 0,0:16:30.22,0:16:33.44,Main,Veruga,0,0,0,,A dire il vero, ero un po' restio a dirlo,
+Dialogue: 0,0:16:33.44,0:16:38.00,Main,Veruga,0,0,0,,ma il valore di mercato di questa spada\Nnon ammonta a 30.000.000 di monete d'oro.
+Dialogue: 0,0:16:39.27,0:16:40.79,Main,Elymas,0,0,0,,Davvero?
+Dialogue: 0,0:16:40.79,0:16:43.36,Main,Hilde,0,0,0,,Stai dicendo che è una taroccata?
+Dialogue: 0,0:16:44.70,0:16:48.86,Main,Hilde,0,0,0,,La mia scommessa si basava\Nsul valore di mercato di quella spada.
+Dialogue: 0,0:16:50.10,0:16:52.37,Main,Hilde,0,0,0,,Ho rischiato l'infarto per nulla.
+Dialogue: 0,0:16:52.37,0:16:56.37,Main,Veruga,0,0,0,,B-Beh, potete controllare\Ndirettamente voi stessi.
+Dialogue: 0,0:16:56.58,0:17:09.38,sign_generic,Sign,0,0,0,,{\b1\bord1.5\blur0.5\fad(1145,0)\c&H443672&\an1\3c&HADCAE8&\pos(276,150)}Spada di Mithril {\fs13\bord2\blur1\3c&HAE893F&\c&HFFFED5&}Livello consigliato: 70\NAttacco: +46\NValore di mercato: 51.500.000 monete d'oro\NUna spada magica che sprigiona un intenso bagliore di mana\NIncantata con la Runa della Distruzione
+Dialogue: 0,0:16:57.03,0:16:58.37,Italics,Computer,0,0,0,,Spada di Mithril.
+Dialogue: 0,0:16:58.37,0:17:00.87,Italics,Computer,0,0,0,,Aumenta l'attacco di 46 punti.
+Dialogue: 0,0:17:00.87,0:17:04.09,Italics,Computer,0,0,0,,Valore di mercato,\N51.500.000 monete d'oro.
+Dialogue: 0,0:17:04.09,0:17:07.01,Italics,Computer,0,0,0,,Una spada magica che sprigiona\Nun intenso bagliore di mana.
+Dialogue: 0,0:17:07.01,0:17:09.38,Italics,Computer,0,0,0,,Incantata con la Runa della Distruzione.
+Dialogue: 0,0:17:10.23,0:17:14.64,Main,Hilde,0,0,0,,C-C-Cinquantuno milioni\Ne cinquecento mila monete d'oro?!
+Dialogue: 0,0:17:14.64,0:17:16.00,Main,Elymas,0,0,0,,Giusto.
+Dialogue: 0,0:17:16.00,0:17:18.15,Main,Elymas,0,0,0,,Non avevo considerato\Nil valore della Runa.
+Dialogue: 0,0:17:18.15,0:17:19.57,Main,Elymas,0,0,0,,Che rimbambito.
+Dialogue: 0,0:17:20.19,0:17:21.02,Main,Elymas,0,0,0,,Hilde.
+Dialogue: 0,0:17:21.02,0:17:24.69,Main,Elymas,0,0,0,,Il valore di mercato\Nammonta a 51.500.000 monete d'oro.
+Dialogue: 0,0:17:25.06,0:17:28.03,Main,Hilde,0,0,0,,Sei impazzito?! Non ho tutti quei soldi!
+Dialogue: 0,0:17:28.47,0:17:31.40,Main,Hilde,0,0,0,,Non crederai mica\Nche accetti 'sta cifra?!
+Dialogue: 0,0:17:31.67,0:17:35.91,Main,Hilde,0,0,0,,Ti prego, vienimi incontro!\NScendi a 40.000.000 di monete d'oro!
+Dialogue: 0,0:17:35.91,0:17:39.91,Main,Elymas,0,0,0,,Fai pace col cervello.\NO mi urli contro o abbassi la testa.
+Dialogue: 0,0:17:36.35,0:17:39.91,Main_Top,Hilde,0,0,0,,Pietà! Abbi pietà di me!
+Dialogue: 0,0:17:40.30,0:17:43.26,Main_Top,Hilde,0,0,0,,Pietà! Abbi pietà di me!
+Dialogue: 0,0:17:40.48,0:17:43.93,Main,Ruche,0,0,0,,Poveretta, comincia quasi a farmi pena.
+Dialogue: 0,0:17:43.93,0:17:45.17,Main,Elymas,0,0,0,,Anche a me.
+Dialogue: 0,0:17:45.49,0:17:50.92,Main,Elymas,0,0,0,,A dire il vero, ho accettato di duellare\Ncon lei soprattutto per darle una lezione.
+Dialogue: 0,0:17:46.07,0:17:50.92,Main_Top,Hilde,0,0,0,,Abbi pietààà!
+Dialogue: 0,0:17:52.29,0:17:56.04,Main,Elymas,0,0,0,,Ok, ti tolgo 1.500.000.\NChiudiamola a 50.000.000 monete d'oro.
+Dialogue: 0,0:18:12.99,0:18:17.58,Main,Matilda,0,0,0,,La gilda concede prestiti\Nagli avventurieri di rango B.
+Dialogue: 0,0:19:05.33,0:19:06.89,Main,Matilda,0,0,0,,Signor Elymas, giusto?
+Dialogue: 0,0:19:06.89,0:19:08.91,Main,Matilda,0,0,0,,A seguito del duello dell'altro giorno,
+Dialogue: 0,0:19:08.91,0:19:13.09,Main,Matilda,0,0,0,,la signorina Hilde ha versato\Ni 50.000.000 di monete d'oro pattuiti.
+Dialogue: 0,0:19:13.45,0:19:15.36,Main,Elymas,0,0,0,,Li ha rimediati davvero?
+Dialogue: 0,0:19:15.36,0:19:17.39,Main,Elymas,0,0,0,,Ma sono passati solo due giorni…
+Dialogue: 0,0:19:17.69,0:19:21.26,Main,Matilda,0,0,0,,Siamo abituati a gestire\Nle controversie tra avventurieri.
+Dialogue: 0,0:19:21.66,0:19:24.12,Main,Matilda,0,0,0,,Quando la gilda vuole qualcosa…
+Dialogue: 0,0:19:25.53,0:19:29.15,Flashback,Hilde,0,0,0,,F-Facciamo 40.000.000?\NAnzi, chiudiamola a 45.000.000, ok?
+Dialogue: 0,0:19:31.15,0:19:35.40,Flashback,Hilde,0,0,0,,V-Va bene, 50.000.000 siano!\NPagherò i 50.000.000 pattuiti!
+Dialogue: 0,0:19:40.33,0:19:42.95,Main,Hilde,0,0,0,,Guarda chi si vede, le due merdine!
+Dialogue: 0,0:19:42.95,0:19:47.21,Main,Hilde,0,0,0,,Ridatemi i 50.000.000 di monete d'oro\Nche mi avete fregato!
+Dialogue: 0,0:19:51.22,0:19:53.64,Main,Elymas,0,0,0,,Adesso è chiaro.\NHai venduto la tua arma.
+Dialogue: 0,0:19:53.64,0:19:54.88,Main,Elymas,0,0,0,,Filiamocela, Ruche!
+Dialogue: 0,0:19:54.88,0:19:55.67,Main,Ruche,0,0,0,,Sì!
+Dialogue: 0,0:19:57.64,0:19:58.68,Main,Hilde,0,0,0,,Non mi sfuggirete!
+Dialogue: 0,0:20:05.23,0:20:06.23,Main,Carlos,0,0,0,,Hilde.
+Dialogue: 0,0:20:16.89,0:20:19.20,Main,Carlos,0,0,0,,È lui il Cavaliere Corazzato?
+Dialogue: 0,0:20:31.38,0:20:33.05,Italics,Elymas,0,0,0,,Che aura…
+Dialogue: 0,0:20:33.05,0:20:34.32,Italics,Elymas,0,0,0,,Trasuda potenza.
+Dialogue: 0,0:20:39.01,0:20:40.19,Italics,Elymas,0,0,0,,Dev'essere lui
+Dialogue: 0,0:20:40.71,0:20:44.01,Italics,Elymas,0,0,0,,la vera Lama della Fiamma Nera.
+Dialogue: 0,0:20:49.88,0:20:52.02,Main,Hilde,0,0,0,,Già, sono loro, Maestro!
+Dialogue: 0,0:20:52.39,0:20:56.92,Main,Hilde,0,0,0,,Questi infami mi hanno ripulito\Ncoi loro sporchi trucchetti!
+Dialogue: 0,0:21:03.79,0:21:04.92,Italics,Elymas,0,0,0,,Ho indovinato.
+Dialogue: 0,0:21:06.55,0:21:08.13,Main,Carlos,0,0,0,,Sono uno Spadaccino Magico.
+Dialogue: 0,0:21:09.09,0:21:11.39,Main,Carlos,0,0,0,,Mi chiamo Carlos\Ne sono un avventuriero di rango A.
+Dialogue: 0,0:21:12.60,0:21:16.71,Main,Carlos,0,0,0,,Hilde mi ha parlato molto di te.\NNon vedevo l'ora di incontrarti…
+Dialogue: 0,0:21:21.80,0:21:23.72,Main,Carlos,0,0,0,,Elymas, il Cavaliere Corazzato.
+Dialogue: 0,0:23:11.45,0:23:15.80,Italics,Elymas Narr,0,0,0,,E così ci siamo trovati faccia a faccia\Ncon Carlos, lo Spadaccino Magico.
+Dialogue: 0,0:23:15.80,0:23:19.76,Italics,Elymas Narr,0,0,0,,È il maestro di Hilde e uno\Ndegli avventurieri di rango A di Lacoryna.
+Dialogue: 0,0:23:20.38,0:23:22.80,Italics,Elymas Narr,0,0,0,,È anche noto come\Nla Lama della Fiamma Nera.
+Dialogue: 0,0:23:23.75,0:23:27.82,Italics,Elymas Narr,0,0,0,,Onestamente credevo si fosse fatto vivo\Nper parlare di Hilde,
+Dialogue: 0,0:23:27.82,0:23:29.51,Italics,Elymas Narr,0,0,0,,ma la questione è più seria.
+Dialogue: 0,0:23:29.51,0:23:32.52,Italics,Elymas Narr,0,0,0,,Ci ha proposto una missione\Nche non possiamo rifiutare.
+Dialogue: 0,0:23:33.19,0:23:35.44,Italics,Elymas Narr,0,0,0,,A seguire, "La Lama della Fiamma Nera".
+Dialogue: 0,0:23:35.98,0:23:38.86,Italics,Elymas Narr,0,0,0,,Stiamo per affrontare\Nla nostra battaglia più grande!
+
