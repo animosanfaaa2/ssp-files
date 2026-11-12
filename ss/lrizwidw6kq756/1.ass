@@ -1,0 +1,40 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Main,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Flashback,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Flashback_Italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Narration,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Main - Top,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: Italics - Top,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: Flashback - Top,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: Flashback_Italics - Top,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: ep title,Arial,18,&H00FFFFFF,&H000000FF,&H00B35427,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:03:50.83,0:03:57.59,Sign_Basic,pants,0,0,0,,{\move(480,150,885,150)\fnTimes New Roman\b1\c&H0E297A&\3c&HB8FFF9&\shad0}Butt
+Dialogue: 0,0:03:50.83,0:03:57.59,Sign_Basic,pants,0,0,0,,{\move(220,102,625,102)\fnTimes New Roman\b1\bord.5\4c&H5DFEF8&\shad2\3c&H93D0D2&}Mochi
+Dialogue: 0,0:03:50.83,0:03:57.59,Sign_Basic,pants,0,0,0,,{\move(-160,95,245,95)\fnTimes New Roman\b1\bord.5\3c&H6A798F&\shad2\4c&HB39DF5&}Theory
+Dialogue: 0,0:04:02.47,0:04:06.89,Sign_Basic,Title,0,0,0,,{\fad(0,700)\an8\fnTimes New Roman\b1\shad0\3c&HB25813&\blur3}T{\3c&HB3571A&}h{\3c&HB35621&}e{\3c&HB45529&} {\3c&HB45430&}I{\3c&HB55337&}c{\3c&HB5513E&}e{\3c&HB65045&}b{\3c&HB64F4C&}l{\3c&HB74E54&}a{\3c&HB74D5B&}d{\3c&HB84C62&}e {\fnArial\b1\shad0\3c&HFFFFFF&\blur3\c&HB3571A&}S{\c&HB54F25&}o{\c&HB8482F&}r{\c&HBA403A&}c{\c&HBD3944&}e{\c&HBF314F&}r{\c&HC22A59&}e{\c&HC42264&}r\N{\fnGeorgia\b0\c&H000000&}Shall {\fnArial\b1\shad0\3c&HFFFFFF&\blur3\c&HB3571A&}R{\c&HB94533&}u{\c&HBE344B&}l{\c&HC42264&}e {\fnGeorgia\b0\c&H000000&}the {\fnTimes New Roman\b1\shad0\3c&HB25813&\blur3\c&HFFFFFF&}W{\3c&HB65428&}o{\3c&HB94F3C&}r{\3c&HBD4B51&}l{\3c&HC04665&}d
+Dialogue: 0,0:04:07.18,0:04:10.97,ep title,title,0,0,0,,Episode 4\NThe Boy Who Is the World’s Strongest Sorcerer\Nand His Friends Converse With Their Fists
+Dialogue: 0,0:23:48.82,0:23:53.87,ep title,txt,0,0,0,,{\pos(320,228)\3c&HED4CA1&\clip(0,225,640,236)\blur2}~ Next Episode Preview ~
+Dialogue: 0,0:23:48.82,0:23:53.87,ep title,txt,0,0,0,,{\pos(320,228)\3c&HDA9D66&\clip(0,236,640,360)\blur2}~ Next Episode Preview ~
+Dialogue: 0,0:24:05.38,0:24:09.17,Sign_Basic,Title,0,0,0,,{\an8\fnTimes New Roman\b1\shad0\3c&HB25813&\blur3}T{\3c&HB3571A&}h{\3c&HB35621&}e{\3c&HB45529&} {\3c&HB45430&}I{\3c&HB55337&}c{\3c&HB5513E&}e{\3c&HB65045&}b{\3c&HB64F4C&}l{\3c&HB74E54&}a{\3c&HB74D5B&}d{\3c&HB84C62&}e {\fnArial\b1\shad0\3c&HFFFFFF&\blur3\c&HB3571A&}S{\c&HB54F25&}o{\c&HB8482F&}r{\c&HBA403A&}c{\c&HBD3944&}e{\c&HBF314F&}r{\c&HC22A59&}e{\c&HC42264&}r\N{\fnGeorgia\b0\c&H000000&}Shall {\fnArial\b1\shad0\3c&HFFFFFF&\blur3\c&HB3571A&}R{\c&HB94533&}u{\c&HBE344B&}l{\c&HC42264&}e {\fnGeorgia\b0\c&H000000&}the {\fnTimes New Roman\b1\shad0\3c&HB25813&\blur3\c&HFFFFFF&}W{\3c&HB65428&}o{\3c&HB94F3C&}r{\3c&HBD4B51&}l{\3c&HC04665&}d
+Dialogue: 0,0:24:09.17,0:24:15.08,ep title,title,0,0,0,,Episode 5\NThe Boy Who Is the World's Strongest Sorcerer\NGoes on a Date With That Girl in a Foreign Land
+
