@@ -1,0 +1,290 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,20,20,20,1
+Style: Italique,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,2,20,20,20,1
+Style: TiretsDefault,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,1,20,20,20,1
+Style: Titre,Tahoma,13,&H00F5F6F3,&H000000FF,&H001B1816,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Sign,Arial,21,&H00FFFFFF,&H000000FF,&H00292929,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,20,20,20,1
+Style: Compétences,Georgia,28,&H00FFFEDF,&H000000FF,&H00E4D62C,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:29.13,0:00:30.21,Default,Ruche,0,0,0,,Tiens ?
+Dialogue: 0,0:00:31.05,0:00:31.96,Default,Ruche,0,0,0,,C’est ouvert.
+Dialogue: 0,0:00:32.09,0:00:35.26,Default,Hilde,0,0,0,E19 20:47,T’es bouché, le vieux ?\NJe te l’ai répété cent fois !
+Dialogue: 0,0:00:35.43,0:00:40.22,Default,Hilde,0,0,0,,Je te demande pas la charité.\NJe veux que tu me vendes cette épée !
+Dialogue: 0,0:00:40.35,0:00:42.18,Default,Veruga,0,0,0,,J’ai aucune arme pour toi !
+Dialogue: 0,0:00:42.31,0:00:44.64,TiretsDefault,Elymas + Ruche,217,0,0,,– Ça sent pas bon, ça !\N– En effet !
+Dialogue: 0,0:00:46.31,0:00:47.40,Default,Elymas,0,0,0,,Vous allez bien ?
+Dialogue: 0,0:00:47.52,0:00:49.94,Default,Veruga,0,0,0,,Allez, débarrasse-moi le plancher,\Nmagelame.
+Dialogue: 0,0:00:50.15,0:00:53.07,Default,Hilde,0,0,0,,Ah, c’est vous\Nqui avez passé commande ?
+Dialogue: 0,0:00:56.53,0:00:58.53,Default,Hilde,0,0,0,E19 21:08,Moi qui me demandais\Nqui ça pouvait être.
+Dialogue: 0,0:00:58.70,0:01:01.54,Default,Hilde,0,0,0,,Le vieux,\Npour des faiblards pareils…
+Dialogue: 0,0:01:01.66,0:01:04.00,Italique,Elymas,0,0,0,,Je l’entends,\Nmais je ne la vois pas !
+Dialogue: 0,0:01:04.12,0:01:07.37,Default,Hilde,0,0,0,,Alors, même l’éminent Veruga\Na cédé face à la misère ?
+Dialogue: 0,0:01:07.50,0:01:08.54,Italique,Elymas,0,0,0,,C’est une compétence ?
+Dialogue: 0,0:01:08.67,0:01:10.67,Default,Ruche,0,0,0,,Elymas, en dessous !
+Dialogue: 0,0:01:11.30,0:01:12.46,Default,Ruche,0,0,0,,Elle est en bas !
+Dialogue: 0,0:01:18.09,0:01:22.47,Default,Hilde,0,0,0,,Morveux,\Nt’es en train de te foutre de moi ?
+Dialogue: 0,0:01:23.77,0:01:25.81,Default,Elymas,0,0,0,,C’est… C’est qui, cette gamine ?
+Dialogue: 0,0:01:40.78,0:01:43.79,Titre,Sign,0,0,0,,{\an8\fad(522,0)\fs26\bord2\3c&H000000&}THE EXILED {\blur1\c&H854507&\3c&HFFFFFF&}HEAVY KNIGHT\N{\c&H000000&}KNOWS HOW TO {\c&H2500A6&}GAME {\c&H000000&}THE SYSTEM
+Dialogue: 0,0:02:58.15,0:03:02.62,Titre,Sign,0,0,0,,{\fad(500,500)\fs14\shad0\bord1.5\an4\blur1\3c&H000506&\4c&H0C1213&\3a&H27&\pos(331.83,298.29)}ÉPISODE 20 :            HILDE, LA MAGELAME
+Dialogue: 0,0:02:58.65,0:02:59.86,Default,Hilde,0,0,0,,{\an8}Morveux,
+Dialogue: 0,0:03:00.20,0:03:02.91,Default,Hilde,0,0,0,,{\an8}t’es en train de te foutre de moi ?
+Dialogue: 0,0:03:03.12,0:03:05.37,Default,Hilde,0,0,0,,Si t’as un truc à dire, je t’écoute.
+Dialogue: 0,0:03:05.87,0:03:09.12,Default,Elymas,0,0,0,,Une gamine ? Non,\Nelle a l’air de posséder une classe,
+Dialogue: 0,0:03:09.29,0:03:11.56,Default,Elymas,0,0,0,,et il faut avoir 15 ans\Npour la cérémonie.
+Dialogue: 0,0:03:11.67,0:03:13.08,Default,Hilde,0,0,0,,J’ai 17 ans.
+Dialogue: 0,0:03:14.13,0:03:15.63,Italique,Elymas,0,0,0,,C’est carrément mon aînée !
+Dialogue: 0,0:03:15.79,0:03:18.21,Default,Hilde,0,0,0,,Tu me sous-estimes, hein ?
+Dialogue: 0,0:03:18.51,0:03:21.34,Default,Hilde,0,0,0,!!!!,Blanc-bec,\Nt’as jamais entendu parler du magelame
+Dialogue: 0,0:03:21.47,0:03:24.22,Default,Hilde,0,0,0,!!!!,surnommé\Nla Lame de flammes d’ébène ?
+Dialogue: 0,0:03:27.18,0:03:30.73,Italique,Elymas,0,0,0,,J’ai eu vent de ce nom\Nquand on rassemblait des infos.
+Dialogue: 0,0:03:31.23,0:03:32.73,Italique,Elymas,0,0,0,,La Lame de flammes d’ébène…
+Dialogue: 0,0:03:33.19,0:03:36.36,Italique,Elymas,0,0,0,,Les rangs A se comptent\Nsur les doigts d’une main, ici.
+Dialogue: 0,0:03:36.48,0:03:38.69,Italique,Elymas,0,0,0,,Elle ferait partie\Nde cette minorité.
+Dialogue: 0,0:03:42.32,0:03:43.78,Default,Hilde,0,0,0,,Tu sais quoi, morveux ?
+Dialogue: 0,0:03:43.91,0:03:48.87,Default,Hilde,0,0,0,,Figure-toi que moi,\Nla célèbre Lame de flamme d’ébène…
+Dialogue: 0,0:03:50.96,0:03:51.83,Default,Hilde,0,0,0,,eh ben,
+Dialogue: 0,0:03:52.25,0:03:53.96,Default,Hilde,0,0,0,,je suis sa première disciple !
+Dialogue: 0,0:03:58.63,0:04:02.17,Default,Elymas,0,0,0,,Ah, je vois… D’accord.
+Dialogue: 0,0:04:03.26,0:04:06.26,Default,Hilde,0,0,0,,Bon, maintenant que t’es là,\Nça ira plus vite.
+Dialogue: 0,0:04:06.39,0:04:09.68,Default,Hilde,0,0,0,,Tu m’as l’air moins têtu\Nque ce vieux schnock.
+Dialogue: 0,0:04:10.81,0:04:13.56,Default,Hilde,0,0,0,,J’ai qu’une seule chose à dire :
+Dialogue: 0,0:04:13.81,0:04:16.06,Default,Hilde,0,0,0,,vends-moi\Nta fichue épée en mithril.
+Dialogue: 0,0:04:16.36,0:04:17.44,Default,Elymas,0,0,0,,Sûrement pas.
+Dialogue: 0,0:04:17.77,0:04:20.73,Default,Elymas,0,0,0,!,Si je l’ai commandée,\Nc’est que j’en ai besoin.
+Dialogue: 0,0:04:20.86,0:04:23.32,Default,Hilde,0,0,0,,Redescends, le chevalier cuirassé.
+Dialogue: 0,0:04:23.45,0:04:26.78,Default,Hilde,0,0,0,,Y a aucun intérêt\Nà ce que t’aies une arme pareille,
+Dialogue: 0,0:04:26.91,0:04:29.03,Default,Hilde,0,0,0,,avec ta classe toute pourrie.
+Dialogue: 0,0:04:29.29,0:04:31.91,Default,Hilde,0,0,0,,C’est pas une épée\Nqui rattrapera le coup.
+Dialogue: 0,0:04:32.08,0:04:34.50,Default,Hilde,0,0,0,,Tu piges vraiment rien à rien.
+Dialogue: 0,0:04:34.71,0:04:37.50,Default,Hilde,0,0,0,,En plus, je compte pas t’arnaquer.
+Dialogue: 0,0:04:37.71,0:04:40.50,Default,Hilde,0,0,0,,Je t’en donne 30 000 000,\Nce sera suffisant.
+Dialogue: 0,0:04:40.88,0:04:43.88,Default,Hilde,0,0,0,,Jolie somme, hein ?\NT’as sûrement jamais touché autant.
+Dialogue: 0,0:04:44.01,0:04:45.38,Default,Elymas,0,0,0,,J’ai dit non.
+Dialogue: 0,0:04:46.01,0:04:48.43,Default,Elymas,0,0,0,,Et 30 000 000, c’est dérisoire.
+Dialogue: 0,0:04:49.56,0:04:51.31,Default,Veruga,0,0,0,,Hé ! Méfie-toi, p’tit gars !
+Dialogue: 0,0:04:51.47,0:04:55.56,Default,Veruga,0,0,0,,Elle est haute comme trois pommes,\Nmais elle cogne dur !
+Dialogue: 0,0:04:55.69,0:04:57.02,Default,Hilde,0,0,0,,Oh, vieux schnock !
+Dialogue: 0,0:04:57.31,0:05:01.98,Default,Veruga,0,0,0,,C’te bougresse de rang B\Na d’jà vaincu un boss à elle seule !
+Dialogue: 0,0:05:03.15,0:05:04.53,Default,Hilde,0,0,0,,Ouais, c’est vrai, ça.
+Dialogue: 0,0:05:05.15,0:05:09.28,Default,Veruga,0,0,0,,Mais elle a un vrai caractère d’cochon.\NVaut mieux pas la chercher.
+Dialogue: 0,0:05:09.41,0:05:10.49,Default,Hilde,0,0,0,,Ça va, oh !
+Dialogue: 0,0:05:10.74,0:05:13.04,Default,Elymas,0,0,0,,Vous avez refusé ses demandes\Npar principe
+Dialogue: 0,0:05:13.16,0:05:16.37,Default,Elymas,0,0,0,,parce que vous détestez\Nles gens comme elle, non ?
+Dialogue: 0,0:05:16.71,0:05:20.21,Default,Elymas,0,0,0,,Je ne peux pas me les voir non plus.\NJe refuse de négocier avec.
+Dialogue: 0,0:05:20.34,0:05:21.38,Default,Hilde,0,0,0,,Non mais oh !
+Dialogue: 0,0:05:21.59,0:05:26.09,Default,Veruga,0,0,0,,J’suis prêt à en payer l’prix, mais toi,\Nt’as encore toute la vie d’vant toi.
+Dialogue: 0,0:05:26.47,0:05:29.68,Default,Veruga,0,0,0,,Mieux vaut pas t’mettre à dos\Nceux d’la guilde.
+Dialogue: 0,0:05:29.80,0:05:31.97,Default,Veruga,0,0,0,,Laisse-moi plutôt gérer l’bazar.
+Dialogue: 0,0:05:32.14,0:05:33.89,Italique,Elymas,0,0,0,,Il a un bon fond, finalement.
+Dialogue: 0,0:05:34.18,0:05:37.60,Default,Elymas,0,0,0,,Ne vous inquiétez pas,\Non est des aventuriers.
+Dialogue: 0,0:05:37.85,0:05:38.90,Default,Elymas,0,0,0,,Au pire des cas,
+Dialogue: 0,0:05:39.10,0:05:41.27,Default,Elymas,0,0,0,,on repartira simplement ailleurs.
+Dialogue: 0,0:05:42.52,0:05:45.32,Default,Elymas,0,0,0,,Je ne m’estime pas\Nplus faible qu’elle.
+Dialogue: 0,0:06:02.50,0:06:05.21,Default,Hilde,0,0,0,,Eh bien, tu as de beaux réflexes.
+Dialogue: 0,0:06:05.38,0:06:07.80,Default,Hilde,0,0,0,,Mais tes statistiques sont minables.
+Dialogue: 0,0:06:07.93,0:06:10.22,Default,Hilde,0,0,0,,C’est la limite de ta classe.
+Dialogue: 0,0:06:10.34,0:06:15.27,Default,Hilde,0,0,0,,T’as du pot. Si j’avais été plus furax,\Ntu serais mort, à l’heure qu’il est.
+Dialogue: 0,0:06:15.43,0:06:18.14,Default,Hilde,0,0,0,,Une arme trop puissante pour toi\Ncausera ta mort.
+Dialogue: 0,0:06:19.31,0:06:21.86,Default,Hilde,0,0,0,,Alors tu vas être gentil\Net me la vendre.
+Dialogue: 0,0:06:22.15,0:06:24.61,Default,Ruche,0,0,0,,Tu… Tu n’as rien, Elymas ?
+Dialogue: 0,0:06:24.73,0:06:28.61,Default,Ruche,0,0,0,,Non mais ça va pas bien ?\NQu’est-ce qui te prend de l’attaquer ?
+Dialogue: 0,0:06:28.82,0:06:32.24,Default,Hilde,0,0,0,,Je lui fais simplement comprendre\Nl’écart de puissance.
+Dialogue: 0,0:06:32.57,0:06:36.37,Default,Elymas,0,0,0,,Une attaque en traître\Nne prouve strictement rien.
+Dialogue: 0,0:06:37.41,0:06:40.42,Default,Hilde,0,0,0,,Alors quoi ?\NTu veux qu’on règle ça dehors ?
+Dialogue: 0,0:06:40.54,0:06:44.67,Default,Hilde,0,0,0,,Ça me va totalement,\Ntant que tu paries ton épée en mithril.
+Dialogue: 0,0:06:45.13,0:06:47.09,Default,Elymas,0,0,0,,Et qu’est-ce que tu mises, toi ?
+Dialogue: 0,0:06:47.80,0:06:50.59,Default,Hilde,0,0,0,,Y a aucune chance\Npour que la grande Hilde perde !
+Dialogue: 0,0:06:50.84,0:06:54.97,Default,Hilde,0,0,0,,Mais disons que j’abandonnerai l’épée\Ntout en te payant.
+Dialogue: 0,0:06:55.18,0:06:59.10,Default,Hilde,0,0,0,,Alors ? T’as plus aucune raison\Nde fuir la queue entre les jambes.
+Dialogue: 0,0:06:59.27,0:07:01.31,Default,Veruga,0,0,0,,Te laisse pas avoir, p’tit gars !
+Dialogue: 0,0:07:01.44,0:07:04.65,Default,Veruga,0,0,0,,Les magelames\Nsont spécialisés dans les duels.
+Dialogue: 0,0:07:04.82,0:07:09.03,Default,Veruga,0,0,0,,Jouer sur c’terrain avec eux,\Nc’est jamais équitable !
+Dialogue: 0,0:07:10.61,0:07:14.87,Default,Elymas,0,0,0,,Si ce sont là tes conditions,\Nj’accepte volontiers.
+Dialogue: 0,0:07:17.45,0:07:19.75,Default,Ruche,0,0,0,,Non, c’est de la folie !
+Dialogue: 0,0:07:19.87,0:07:22.29,Default,Ruche,0,0,0,,C’est une magelame de rang B !
+Dialogue: 0,0:07:22.46,0:07:26.30,Default,Ruche,0,0,0,,Même moi, je sais cette classe imbattable\Nen un contre un !
+Dialogue: 0,0:07:26.55,0:07:31.01,Default,Elymas,0,0,0,,Je comptais l’ignorer,\Nmais elle m’a tapé sur les nerfs.
+Dialogue: 0,0:07:31.13,0:07:32.30,Default,Ruche,0,0,0,,Elymas ?
+Dialogue: 0,0:07:32.47,0:07:35.72,Default,Elymas,0,0,0,,Je ne vais pas non plus cracher\Nsur quelques millions.
+Dialogue: 0,0:07:35.93,0:07:38.22,Default,Elymas,0,0,0,,Je vais te remettre à ta place,\NHilde.
+Dialogue: 0,0:07:38.64,0:07:40.91,Default,Hilde,0,0,0,,Quelle veine d’être tombée\Nsur un débile !
+Dialogue: 0,0:07:41.02,0:07:45.61,Default,Hilde,0,0,0,,Je vais demander à quelqu’un de la guilde\Nd’arbitrer pour que tu te débines pas.
+Dialogue: 0,0:07:45.81,0:07:47.57,Default,Hilde,0,0,0,,Tu vas t’en mordre les doigts !
+Dialogue: 0,0:08:02.54,0:08:05.29,Italique,Elymas,0,0,0,,Elle ne devrait pas tarder\Nà revenir.
+Dialogue: 0,0:08:08.55,0:08:09.92,Default,Elymas,0,0,0,,Barrière vitale !
+Dialogue: 0,0:08:09.00,0:08:10.46,Sign,Sign,0,0,0,,{\fad(655,0)\fs18\c&H57D2F8&\pos(447,41)}BARRIÈRE VITALE
+Dialogue: 0,0:08:14.01,0:08:17.97,Default,Veruga,0,0,0,,P’tits gars, qu’est-ce que tu fiches,\Ndepuis tantôt ?
+Dialogue: 0,0:08:18.10,0:08:22.48,Default,Veruga,0,0,0,,T’actives puis désactives en boucle\Nune de tes compétences.
+Dialogue: 0,0:08:22.73,0:08:24.23,Default,Veruga,0,0,0,,J’y comprends rien.
+Dialogue: 0,0:08:24.81,0:08:26.15,Default,Elymas,0,0,0,,J’ajuste mes PV.
+Dialogue: 0,0:08:26.27,0:08:27.98,Default,Veruga,0,0,0,,Ça m’éclaire pas.
+Dialogue: 0,0:08:28.48,0:08:30.98,Default,Ruche,0,0,0,,Dis, t’as une chance, Elymas ?
+Dialogue: 0,0:08:31.24,0:08:34.95,Default,Ruche,0,0,0,,Tu comptes utiliser\NFurie du dragon agonisant, pas vrai ?
+Dialogue: 0,0:08:36.24,0:08:40.29,Default,Ruche,0,0,0,,Je ne vois pas l’intérêt\Nd’utiliser Dévotion implacable ici…
+Dialogue: 0,0:08:40.41,0:08:41.50,Default,Elymas,0,0,0,,Tu n’as pas tort.
+Dialogue: 0,0:08:43.12,0:08:44.87,Italique,Elymas,0,0,0,,Dévotion implacable !
+Dialogue: 0,0:08:57.68,0:09:00.93,Italique,Elymas,0,0,0,,Même si elle multiplie mon attaque\Npar six,
+Dialogue: 0,0:09:01.06,0:09:03.02,Italique,Elymas,0,0,0,,elle ne fait rien de plus.
+Dialogue: 0,0:09:03.73,0:09:07.81,Default,Elymas,0,0,0,,Faire tomber ma défense à 0\Nface à un ennemi attaquant à distance,
+Dialogue: 0,0:09:07.15,0:09:11.02,Sign,Sign,0,0,0,,{\fad(897,0)\fs26\c&HEAEDB9&\3c&HEFD060&\blur2\pos(315,187)}DÉFENSE : 0
+Dialogue: 0,0:09:08.05,0:09:10.11,Default,Elymas,0,0,0,,c’est risquer de s’entre-tuer,\Nou pire.
+Dialogue: 0,0:09:11.53,0:09:15.03,Default,Elymas,0,0,0,,Les magelames sont bien plus dangereux\Nque les maîtres épéistes.
+Dialogue: 0,0:09:15.57,0:09:18.03,Default,Elymas,0,0,0,,En plus de pouvoir frapper\Nvite et fort,
+Dialogue: 0,0:09:18.49,0:09:21.45,Default,Elymas,0,0,0,,ces talentueux bretteurs\Nont des sorts à longue portée.
+Dialogue: 0,0:09:24.54,0:09:27.87,Default,Veruga,0,0,0,,Tu devrais fuir\Ntant qu’tu l’peux encore.
+Dialogue: 0,0:09:28.00,0:09:29.75,Default,Elymas,0,0,0,,Détrompez-vous, j’ai mes chances.
+Dialogue: 0,0:09:30.42,0:09:33.13,Default,Elymas,0,0,0,,C’est déloyal,\Nalors j’aurais préféré éviter,
+Dialogue: 0,0:09:33.34,0:09:36.05,Default,Elymas,0,0,0,C ?,mais je vais exploiter\Nleur principale faille…
+Dialogue: 0,0:09:36.17,0:09:39.09,Default,Ruche,0,0,0,,Elymas…\NTu fais une tête effrayante.
+Dialogue: 0,0:09:43.02,0:09:45.60,Default,Hilde,0,0,0,,J’ai trouvé un arbitre,\Nchevalier cuirassé !
+Dialogue: 0,0:09:46.48,0:09:49.15,Default,Hilde,0,0,0,,T’as pas abîmé mon épée, j’espère !
+Dialogue: 0,0:09:50.52,0:09:53.90,Default,Matilda,0,0,0,,Elle m’a traînée jusqu’ici\Nen parlant d’un chevalier arrogant,
+Dialogue: 0,0:09:54.03,0:09:56.36,Default,Matilda,0,0,0,,et voilà\Nque je tombe encore sur vous,
+Dialogue: 0,0:09:56.49,0:09:58.32,Default,Matilda,0,0,0,,Elymas et Ruche.
+Dialogue: 0,0:10:08.46,0:10:10.96,Default,Hilde,0,0,0,,On s’y met,\NM. le chevalier cuirassé ?
+Dialogue: 0,0:10:13.42,0:10:15.84,Italique,Elymas,0,0,0,,Une magelame\Ncontre un chevalier cuirassé…
+Dialogue: 0,0:10:16.72,0:10:18.88,Italique,Elymas,0,0,0,!!!,Je suis totalement désavantagé.
+Dialogue: 0,0:10:19.34,0:10:21.89,Italique,Elymas,0,0,0,,Ses sorts grignoteront mes PV\Nà distance,
+Dialogue: 0,0:10:22.01,0:10:24.64,Italique,Elymas,0,0,0,,et elle me punira à l’épée\Nsi je me rapproche.
+Dialogue: 0,0:10:26.39,0:10:27.35,Italique,Elymas,0,0,0,,Mais heureusement,
+Dialogue: 0,0:10:27.64,0:10:30.06,Italique,Elymas,0,0,0,,les magelames\Nont tous un vilain défaut.
+Dialogue: 0,0:10:30.94,0:10:34.57,Italique,Elymas,0,0,0,,Et à mon avis,\Nc’est particulièrement vrai pour elle.
+Dialogue: 0,0:10:47.70,0:10:51.50,Default,Elymas,0,0,0,,Avant le combat,\Nj’aimerais confirmer quelques points.
+Dialogue: 0,0:10:51.63,0:10:53.34,Default,Matilda,0,0,0,,Je t’écoute, Elymas.
+Dialogue: 0,0:10:53.67,0:10:57.05,Default,Elymas,0,0,0,,On va utiliser des compétences,\Nil faut donc envisager le pire.
+Dialogue: 0,0:10:57.71,0:11:00.30,Default,Elymas,0,0,0,,Qu’arrivera-t-il\Nsi on tue l’adversaire ?
+Dialogue: 0,0:11:01.39,0:11:05.85,Default,Matilda,0,0,0,,Lorsque nous servons de témoin\Nà des duels entre aventuriers,
+Dialogue: 0,0:11:06.22,0:11:09.64,Default,Matilda,0,0,0,,nous partons du principe\Nqu’ils ont conscience des risques.
+Dialogue: 0,0:11:09.77,0:11:12.40,Default,Matilda,0,0,0,,Tu peux toujours annuler,\Nsi tu as des doutes.
+Dialogue: 0,0:11:12.56,0:11:15.07,Default,Elymas,0,0,0,,Non, je voulais juste vérifier.
+Dialogue: 0,0:11:15.32,0:11:17.36,Default,Elymas,0,0,0,,On peut y aller, Hilde.
+Dialogue: 0,0:11:18.86,0:11:20.99,Default,Hilde,0,0,0,,Ta provocation grossière\Nprend pas.
+Dialogue: 0,0:11:21.15,0:11:23.45,Default,Hilde,0,0,0,,Ces conditions\Nme vont parfaitement.
+Dialogue: 0,0:11:28.33,0:11:29.79,Italique,Elymas,0,0,0,,Elle se tient à distance.
+Dialogue: 0,0:11:30.08,0:11:32.87,Italique,Elymas,0,0,0,,Une position idéale\Npour une classe de mage.
+Dialogue: 0,0:11:35.84,0:11:38.38,Default,Matilda,0,0,0,,Bien… Commencez !
+Dialogue: 0,0:11:43.14,0:11:44.30,Default,Elymas + Ruche,0,0,0,,Barrière vitale !
+Dialogue: 0,0:11:43.34,0:11:45.30,Compétences,Sign,0,0,0,IMPORTANT,{\c&HC7FF15&\3c&HFAA92F&)\clip(164.444,11.556,475.556,27.556)\t(0,752,\clip(174.222,7.111,472.889,54.222)\blur2}BARRIÈRE VITALE
+Dialogue: 0,0:12:23.76,0:12:26.09,Default,Hilde,0,0,0,!!!,C’est quoi,\Ncette compétence bizarre ?
+Dialogue: 0,0:12:42.36,0:12:43.95,Default,Ruche,0,0,0,,Pas celle-là !
+Dialogue: 0,0:12:44.24,0:12:47.20,Default,Ruche,0,0,0,,T’avais dit qu’elle était risquée,\Nen duel !
+Dialogue: 0,0:12:48.12,0:12:50.16,Sign,Sign,0,0,0,,{\fad(655,0)\blur1\bord2\fs16\c&H8675A7&\3c&HCBE0F6&\pos(395.667,103.222)}DÉVOTION IMPLACABLE
+Dialogue: 0,0:12:51.16,0:12:53.08,Italique,Hilde,0,0,0,,Encore une compétence inconnue.
+Dialogue: 0,0:12:53.46,0:12:56.37,Italique,Hilde,0,0,0,,Et en plus, vu comme elle a réagi…
+Dialogue: 0,0:12:57.92,0:12:58.96,Italique,Hilde,0,0,0,,le mieux à faire…
+Dialogue: 0,0:13:15.23,0:13:17.31,Italique,Hilde,0,0,0,,c’est d’observer gentiment\Nde loin !
+Dialogue: 0,0:13:50.72,0:13:52.76,Default,Hilde,0,0,0,,Euh… Hein ?
+Dialogue: 0,0:13:57.23,0:14:00.19,Default,Elymas,0,0,0,,Mouais, c’est plutôt correct.
+Dialogue: 0,0:14:04.90,0:14:07.11,Default,Hilde,0,0,0,,Attends, attends, attends !\NTemps mort !
+Dialogue: 0,0:14:07.49,0:14:08.70,Default,Hilde,0,0,0,,Arrête deux secondes !
+Dialogue: 0,0:14:09.28,0:14:10.62,Default,Hilde,0,0,0,,M’approche pas !
+Dialogue: 0,0:14:10.95,0:14:13.79,Default,Hilde,0,0,0,,Stop !\NJ’ai jeté mon arme, t’as vu ?
+Dialogue: 0,0:14:13.95,0:14:16.87,Default,Hilde,0,0,0,,T’es bouché, ou quoi ?\NArrête, j’ai dit ! Stop !
+Dialogue: 0,0:14:17.46,0:14:19.21,Default,Hilde,0,0,0,,Temps mort, bon sang !
+Dialogue: 0,0:14:20.13,0:14:23.38,Default,Hilde,0,0,0,,Je… Je me rends… J’abandonne !
+Dialogue: 0,0:14:23.50,0:14:26.38,Default,Hilde,0,0,0,,J’admets ma défaite ! J’ai perdu !
+Dialogue: 0,0:14:27.26,0:14:31.72,Italique,Elymas,0,0,0,,Le vilain défaut des magelames\Nest de toujours privilégier la sécurité.
+Dialogue: 0,0:14:32.76,0:14:34.64,Italique,Elymas,0,0,0,,Pour pallier leur faible endurance,
+Dialogue: 0,0:14:34.76,0:14:38.35,Italique,Elymas,0,0,0,,ils misent sur des compétences explosives\Nayant des contreparties.
+Dialogue: 0,0:14:38.89,0:14:42.90,Italique,Elymas,0,0,0,,S’ils tardent à battre en retraite,\Nc’est la mort assurée.
+Dialogue: 0,0:14:43.11,0:14:47.40,Italique,Elymas,0,0,0,,J’en étais sûr,\Nils ploient sous la menace.
+Dialogue: 0,0:14:48.78,0:14:50.53,Default,Elymas,0,0,0,,Le verdict, s’il vous plaît.
+Dialogue: 0,0:14:50.66,0:14:51.91,Default,Matilda,0,0,0,,Euh, eh bien,
+Dialogue: 0,0:14:52.20,0:14:54.95,Default,Matilda,0,0,0,,La victoire revient à Elymas !
+Dialogue: 0,0:14:58.16,0:15:02.67,Default,Hilde,0,0,0,,Hein ? Et puis quoi encore ?\NJe voulais juste une pause, moi !
+Dialogue: 0,0:15:03.00,0:15:07.13,Default,Hilde,0,0,0,C ??,Tu m’as poussée à dire que j’abandonnais,\Nvu que tu t’arrêtais pas !
+Dialogue: 0,0:15:07.26,0:15:09.22,Default,Elymas,0,0,0,,Je t’y ai poussée, tu dis ?
+Dialogue: 0,0:15:09.55,0:15:13.43,Default,Matilda,0,0,0,,Hilde, pour la guilde,\Nil n’est pas acceptable
+Dialogue: 0,0:15:13.55,0:15:16.01,Default,Matilda,0,0,0,C ??,que vous coupiez court à un duel
+Dialogue: 0,0:15:16.22,0:15:20.89,Default,Matilda,0,0,0,,sous prétexte que vous avez pris peur\Nen découvrant les compétences adverses.
+Dialogue: 0,0:15:21.56,0:15:23.69,Default,Matilda,0,0,0,,En ma qualité de témoin,
+Dialogue: 0,0:15:23.81,0:15:28.49,Default,Matilda,0,0,0,,si vous refusez de tenir parole,\Nje devrai prendre les mesures adéquates.
+Dialogue: 0,0:15:28.74,0:15:31.40,Default,Hilde,0,0,0,,Je… Je le sais très bien !
+Dialogue: 0,0:15:31.57,0:15:36.33,Default,Hilde,0,0,0,,Faire ma pingre et revenir sur ma parole\Nserait indigne de ma personne !
+Dialogue: 0,0:15:36.62,0:15:40.50,Default,Hilde,0,0,0,,Écoute, Elymas,\Nj’ai juste demandé un temps mort.
+Dialogue: 0,0:15:40.79,0:15:42.42,Default,Hilde,0,0,0,,Tu veux bien en tenir compte
+Dialogue: 0,0:15:42.58,0:15:45.50,Default,Hilde,0,0,0,,et faire baisser le prix\Nà 20 000 000 ?
+Dialogue: 0,0:15:47.75,0:15:50.26,Default,Hilde,0,0,0,,C’est trop pour moi, 30 000 000…
+Dialogue: 0,0:15:50.76,0:15:51.76,Default,Elymas,0,0,0,,Tu rêves.
+Dialogue: 0,0:15:52.05,0:15:55.39,Default,Ruche,0,0,0,,Faire la pingre…\NJe la comprends, en même temps.
+Dialogue: 0,0:15:55.60,0:16:00.39,Default,Hilde,0,0,0,,En fait, je devais absolument trouver\Nune arme qui soit à mon niveau !
+Dialogue: 0,0:16:00.81,0:16:02.89,Default,Hilde,0,0,0,!!!,Faire progresser\Nun aventurier avancé
+Dialogue: 0,0:16:03.02,0:16:07.15,Default,Hilde,0,0,0,,peut sauver une ville\Net limiter les ravages des monstres !
+Dialogue: 0,0:16:07.27,0:16:10.15,Default,Hilde,0,0,0,,J’ai compris\Nque je m’y étais mal prise.
+Dialogue: 0,0:16:10.28,0:16:12.99,Default,Hilde,0,0,0,,Je recommencerai plus jamais.
+Dialogue: 0,0:16:13.32,0:16:14.61,Default,Elymas,0,0,0,,Tant mieux, alors.
+Dialogue: 0,0:16:15.78,0:16:19.49,Default,Hilde,0,0,0,,Du coup,\Nt’es d’accord pour les 20 000 000 ?
+Dialogue: 0,0:16:19.95,0:16:21.00,Default,Elymas,0,0,0,,C’est mort !
+Dialogue: 0,0:16:26.00,0:16:28.00,Default,Veruga,0,0,0,,Euh, dis, mon p’tit gars…
+Dialogue: 0,0:16:30.21,0:16:33.30,Default,Veruga,0,0,0,,J’aurais préféré\Nen parler plus tard,
+Dialogue: 0,0:16:33.43,0:16:38.01,Default,Veruga,0,0,0,,mais cette épée\Nvaut pas 30 000 000 pièces d’or.
+Dialogue: 0,0:16:38.56,0:16:40.39,Default,Elymas,0,0,0,,Tiens ? Ah bon ?
+Dialogue: 0,0:16:40.85,0:16:43.35,Default,Hilde,0,0,0,,Me dis pas que c’était du toc !
+Dialogue: 0,0:16:44.64,0:16:48.86,Default,Hilde,0,0,0,,Je te rappelle que notre pari\Nse basait sur sa valeur.
+Dialogue: 0,0:16:50.28,0:16:52.24,Default,Hilde,0,0,0,,Purée, j’ai flippé pour rien !
+Dialogue: 0,0:16:52.36,0:16:56.36,Default,Veruga,0,0,0,,Le plus simple,\Nc’est qu’vous r’gardiez vous-mêmes.
+Dialogue: 0,0:16:57.03,0:17:00.74,Italique,Système,0,0,0,,Épée en mithril. Attaque + 46.
+Dialogue: 0,0:17:00.87,0:17:03.87,Italique,Système,0,0,0,,Valeur : 51 500 000 pièces d’or.
+Dialogue: 0,0:17:04.08,0:17:06.75,Italique,Système,0,0,0,!!!,Une épée magique\Nauréolée d’un puissant mana.
+Dialogue: 0,0:17:06.96,0:17:09.13,Italique,Système,0,0,0,,Une rune de destruction\Ny est incrustée.
+Dialogue: 0,0:17:10.17,0:17:14.63,Default,Hilde,0,0,0,,Pardon ? C’est une blague ?\N51 500 000 pièces d’or ?
+Dialogue: 0,0:17:14.80,0:17:18.01,Default,Elymas,0,0,0,,Ah, c’est vrai,\Nj’avais complètement oublié la rune.
+Dialogue: 0,0:17:18.14,0:17:19.68,Default,Elymas,0,0,0,,C’est ma faute.
+Dialogue: 0,0:17:20.14,0:17:21.01,Default,Elymas,0,0,0,,Hilde,
+Dialogue: 0,0:17:21.14,0:17:24.68,Default,Elymas,0,0,0,,elle vaut finalement\N51 500 000 pièces d’or.
+Dialogue: 0,0:17:25.06,0:17:28.02,Default,Hilde,0,0,0,,N’importe quoi !\NComment tu veux que je paie autant ?
+Dialogue: 0,0:17:28.48,0:17:31.40,Default,Hilde,0,0,0,,Si tu crois que\Nje vais gentiment accepter, tu rêves !
+Dialogue: 0,0:17:31.65,0:17:35.90,Default,Hilde,0,0,0,,S’il te plaît,\Nbaisse au moins jusqu’à 40 000 000 !
+Dialogue: 0,0:17:36.07,0:17:39.91,Default,Elymas,0,0,0,,T’es en rogne, ou tu me supplies ?\NFaut choisir, à un moment…
+Dialogue: 0,0:17:40.28,0:17:43.79,TiretsDefault,Hilde + Ruche,135,0,0,,– Aie pitié de moi…\N– Elle commence à me faire de la peine.
+Dialogue: 0,0:17:43.91,0:17:45.16,Default,Elymas,0,0,0,,J’avoue.
+Dialogue: 0,0:17:45.58,0:17:50.92,Default,Elymas,0,0,0,,Bon, c’est vrai qu’à la base,\Nc’était juste pour te donner une leçon.
+Dialogue: 0,0:17:52.30,0:17:55.80,Default,Elymas,0,0,0,,Je te fais une remise d’un million cinq.\NPlus que cinquante.
+Dialogue: 0,0:18:13.02,0:18:17.57,Default,Matilda,0,0,0,,Comme vous êtes rang B,\Nnous pouvons vous faire un crédit…
+Dialogue: 0,0:19:05.37,0:19:08.79,Default,Matilda,0,0,0,,Ah, Elymas.\NAu sujet du duel de l’autre jour,
+Dialogue: 0,0:19:08.91,0:19:13.08,Default,Matilda,0,0,0,,je vous confirme avoir reçu un paiement\Nde 50 000 000 de la part de Hilde.
+Dialogue: 0,0:19:13.42,0:19:17.38,Default,Elymas,0,0,0,,Elle a déjà réuni la somme ?\NÇa fait à peine deux jours, pourtant.
+Dialogue: 0,0:19:17.63,0:19:21.26,Default,Matilda,0,0,0,,Nous sommes habitués\Nà régler les litiges entre aventuriers,
+Dialogue: 0,0:19:21.59,0:19:24.01,Default,Matilda,0,0,0,,et quand nous sommes motivés…
+Dialogue: 0,0:19:25.43,0:19:29.14,Italique,Hilde,0,0,0,,Quarante millions…\NNon, quarante-cinq millions, c’est bon ?
+Dialogue: 0,0:19:31.27,0:19:35.40,Italique,Hilde,0,0,0,,J’ai compris, cinquante millions !\NJe vais les payer !
+Dialogue: 0,0:19:40.53,0:19:42.95,Default,Hilde,0,0,0,,Vous voilà, raclures !
+Dialogue: 0,0:19:43.07,0:19:47.20,Default,Hilde,0,0,0,,Tu vas me rendre les 50 000 000\Nque tu m’as piqués, je te le dis !
+Dialogue: 0,0:19:51.21,0:19:54.67,Default,Elymas,0,0,0,,Je vois, elle a vendu son arme.\NOn y va, Ruche.
+Dialogue: 0,0:19:54.79,0:19:55.67,Default,Ruche,0,0,0,,J’arrive !
+Dialogue: 0,0:19:57.63,0:19:58.67,Default,Hilde,0,0,0,,Tu partiras pas !
+Dialogue: 0,0:20:05.18,0:20:06.14,Default,Carlos,0,0,0,,Hilde…
+Dialogue: 0,0:20:16.90,0:20:19.19,Default,Carlos,0,0,0,,C’est le chevalier\Ndont tu m’as parlé ?
+Dialogue: 0,0:20:31.33,0:20:34.21,Italique,Elymas,0,0,0,,Cette prestance… Et cette aura…
+Dialogue: 0,0:20:39.13,0:20:44.01,Italique,Elymas,0,0,0,C ??,À mon avis, c’est lui,\Nla Lame de flammes d’ébène.
+Dialogue: 0,0:20:49.89,0:20:52.02,Default,Hilde,0,0,0,,Ouais, c’est eux, maître !
+Dialogue: 0,0:20:52.39,0:20:56.77,Default,Hilde,0,0,0,,Ils m’ont tendu un piège\Npour me piquer mes sous !
+Dialogue: 0,0:21:03.82,0:21:04.99,Italique,Elymas,0,0,0,,Pas de doute…
+Dialogue: 0,0:21:06.53,0:21:08.12,Default,Carlos,0,0,0,,Je suis Carlos,
+Dialogue: 0,0:21:09.08,0:21:11.29,Default,Carlos,0,0,0,,maître épéiste de rang A.
+Dialogue: 0,0:21:12.62,0:21:16.71,Default,Carlos,0,0,0,,Elle m’a raconté son histoire,\Nqui m’a donné envie de te rencontrer…
+Dialogue: 0,0:21:21.80,0:21:23.59,Default,Carlos,0,0,0,,Elymas, le chevalier cuirassé.
+Dialogue: 0,0:23:05.90,0:23:07.90,Default,Credits,0,0,0,,{\an8}Traduction : Sami Ghalleb\NAdaptation : Corentin Le Corre
+Dialogue: 0,0:23:08.03,0:23:10.03,Default,Credits,0,0,0,,{\an8}Repérage : Nolan Fond\NRelecture : Stéphanie Noardo
+Dialogue: 0,0:23:11.49,0:23:15.54,Italique,Elymas,0,0,0,,Cet homme n’est autre que Carlos,\Nun épéiste émérite.
+Dialogue: 0,0:23:15.83,0:23:19.71,Italique,Elymas,0,0,0,,C’est le maître de Hilde,\Net le rang A dont Lacoryna est si fier.
+Dialogue: 0,0:23:20.37,0:23:22.79,Italique,Elymas,0,0,0,!!!,On le surnomme\Nla Lame de flammes d’ébène.
+Dialogue: 0,0:23:23.75,0:23:27.67,Italique,Elymas,0,0,0,,Je pensais qu’il venait\Npour cette histoire avec Hilde,
+Dialogue: 0,0:23:27.80,0:23:29.34,Italique,Elymas,0,0,0,,mais c’était plus important.
+Dialogue: 0,0:23:29.59,0:23:32.51,Italique,Elymas,0,0,0,,Je ne pouvais pas refuser\Nune demande pareille.
+Dialogue: 0,0:23:33.18,0:23:35.26,Italique,Elymas,0,0,0,,À suivre :\NLa Lame de flammes d’ébène.
+Dialogue: 0,0:23:35.97,0:23:38.85,Italique,Elymas,0,0,0,,Le plus grand combat de ma vie\Nne fait que commencer.
+
