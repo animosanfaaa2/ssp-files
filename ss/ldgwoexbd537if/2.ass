@@ -1,0 +1,284 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,15,1
+Style: top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,10,10,15,0
+Style: italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,10,10,15,0
+Style: italicstop,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,10,10,15,0
+Style: flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,15,1
+Style: sign_generic,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:29.14,0:00:30.24,Default,RUCHE,0,0,0,,Ué?
+Dialogue: 0,0:00:30.93,0:00:32.88,Default,RUCHE,0,0,0,,A porta está aberta.
+Dialogue: 0,0:00:32.05,0:00:35.26,top,HILDE,0,0,0,,Você simplesmente não entende, velho.
+Dialogue: 0,0:00:35.26,0:00:37.66,Default,HILDE,0,0,0,,Não estou dizendo para você me dar nada.
+Dialogue: 0,0:00:37.66,0:00:40.23,Default,HILDE,0,0,0,,Estou dizendo para você\Nme vender aquela espada.
+Dialogue: 0,0:00:40.23,0:00:42.84,Default,VERUGA,0,0,0,,Não tenho armas para te vender.
+Dialogue: 0,0:00:42.84,0:00:45.23,Default,VERUGA,0,0,0,,Além disso, esta aqui foi encomendada.
+Dialogue: 0,0:00:42.34,0:00:43.88,top,ELYMAS,0,0,0,,A coisa parece feia.
+Dialogue: 0,0:00:43.88,0:00:44.71,top,RUCHE,0,0,0,,Sim!
+Dialogue: 0,0:00:46.21,0:00:47.53,Default,ELYMAS,0,0,0,,Está tudo bem, senhor?!
+Dialogue: 0,0:00:47.53,0:00:50.22,Default,VERUGA,0,0,0,,Já chega, Espadachim Mágica.
+Dialogue: 0,0:00:50.22,0:00:53.07,Default,HILDE,0,0,0,,Oh! Você é o cliente?
+Dialogue: 0,0:00:56.51,0:00:58.76,Default,HILDE,0,0,0,,Fiquei me perguntando\Nque tipo de cara era…
+Dialogue: 0,0:00:58.76,0:01:04.12,Default,HILDE,0,0,0,,Velho, você forjou uma Espada\Nde Mithril para esse cara fracote?
+Dialogue: 0,0:01:01.54,0:01:04.12,italicstop,ELYMAS/ID,0,0,0,,Eu a ouço, mas não consigo vê-la.
+Dialogue: 0,0:01:04.12,0:01:07.55,Default,HILDE,0,0,0,,Você estava tão desesperado\Npor dinheiro, Veruga?
+Dialogue: 0,0:01:07.55,0:01:08.55,italics,ELYMAS/ID,0,0,0,,Ela usa uma habilidade?!
+Dialogue: 0,0:01:08.55,0:01:10.77,Default,RUCHE,0,0,0,,Sr. Elma, olhe para baixo!
+Dialogue: 0,0:01:11.18,0:01:12.57,Default,RUCHE,0,0,0,,Está ali embaixo!
+Dialogue: 0,0:01:18.03,0:01:22.48,Default,HILDE,0,0,0,,Ei, idiota.\NVocê está tirando sarro de mim?
+Dialogue: 0,0:01:22.48,0:01:25.82,Default,ELYMAS,0,0,0,,O-O que há com essa criança?
+Dialogue: 0,0:02:58.16,0:03:02.62,sign_generic,EPTITLE; sign,0,0,0,,{\b1\fnTimes New Roman\an7\bord1\shad0\fade(820,482)\alphaH&0&\3c&H000000&\c&HFFFFFF&\4c&H383735&\fs18\pos(327.24,288.66)}Episódio 20\h\h\h\h{\fs18.5}Espadachim Mágica Hilde
+Dialogue: 0,0:02:58.66,0:03:03.12,top,HILDE,0,0,0,,Ei, idiota.\NVocê está tirando sarro de mim?
+Dialogue: 0,0:03:03.12,0:03:05.37,Default,HILDE,0,0,0,,Se você tem algo a dizer, desembucha.
+Dialogue: 0,0:03:05.84,0:03:09.30,Default,ELYMAS,0,0,0,,Uma criança? Não, ela já tem uma classe.
+Dialogue: 0,0:03:09.30,0:03:11.55,Default,ELYMAS,0,0,0,,Se já passou pelo ritual, você tem 15 anos?
+Dialogue: 0,0:03:11.55,0:03:13.10,Default,HILDE,0,0,0,,Tenho 17 anos.
+Dialogue: 0,0:03:14.10,0:03:15.75,italics,ELYMAS/ID,0,0,0,,Não esperava.\NEla é mais velha que eu!
+Dialogue: 0,0:03:15.75,0:03:18.22,Default,HILDE,0,0,0,,Parece que está me subestimando.
+Dialogue: 0,0:03:18.53,0:03:24.23,Default,HILDE,0,0,0,,Você já ouviu falar do Espadachim Mágico\Nconhecido como Lâmina Flamejante Enegrecida?
+Dialogue: 0,0:03:27.17,0:03:30.73,italics,ELYMAS/ID,0,0,0,,Ouvi esse apelido enquanto\Nreunia informações em Lacoryna.
+Dialogue: 0,0:03:31.26,0:03:32.72,italics,ELYMAS/ID,0,0,0,,O Lâmina Flamejante Enegrecida.
+Dialogue: 0,0:03:33.17,0:03:38.70,italics,ELYMAS/ID,0,0,0,,É um dos poucos aventureiros\Nde Rank A em Lacoryna.
+Dialogue: 0,0:03:42.39,0:03:48.87,Default,HILDE,0,0,0,,Na verdade, eu e o famoso aventureiro,\No Lâmina Flamejante Enegrecida…
+Dialogue: 0,0:03:51.12,0:03:54.00,Default,HILDE,0,0,0,,…eu sou a melhor aprendiz dele!
+Dialogue: 0,0:03:58.63,0:04:02.22,Default,ELYMAS,0,0,0,,E-Entendi! Nossa, que incrível!
+Dialogue: 0,0:04:03.18,0:04:06.38,Default,HILDE,0,0,0,,Bem, é mais fácil de resolvermos\Naqui se o dono da espada apareceu.
+Dialogue: 0,0:04:06.38,0:04:09.76,Default,HILDE,0,0,0,,Deve ser mais fácil conversar com você\Ndo que com aquele velho teimoso.
+Dialogue: 0,0:04:10.78,0:04:13.47,Default,HILDE,0,0,0,,O que quero dizer é apenas uma coisa:
+Dialogue: 0,0:04:13.83,0:04:16.07,Default,HILDE,0,0,0,,Venda-me a Espada de Mithril.
+Dialogue: 0,0:04:16.38,0:04:20.86,Default,ELYMAS,0,0,0,,Não. Eu o contratei para\Nforjá-la porque preciso dela.
+Dialogue: 0,0:04:20.86,0:04:23.49,Default,HILDE,0,0,0,,Acalme-se, Cavaleiro Pesado.
+Dialogue: 0,0:04:23.49,0:04:29.24,Default,HILDE,0,0,0,,Não faz sentido uma classe falha\Ncomo a sua empunhar essa espada.
+Dialogue: 0,0:04:29.24,0:04:32.10,Default,HILDE,0,0,0,,O que um fracote quer fazer\Ncom uma espada sofisticada?
+Dialogue: 0,0:04:32.10,0:04:34.50,Default,HILDE,0,0,0,,Você não entende como\Neste mundo funciona.
+Dialogue: 0,0:04:34.78,0:04:37.65,Default,HILDE,0,0,0,,Não estou dizendo para\Nvocê vender barato.
+Dialogue: 0,0:04:37.65,0:04:40.51,Default,HILDE,0,0,0,,Trinta milhões de ouros\Ndevem ser suficientes.
+Dialogue: 0,0:04:40.84,0:04:44.10,Default,HILDE,0,0,0,,Isso provavelmente é mais dinheiro\Ndo que você consegue imaginar.
+Dialogue: 0,0:04:44.10,0:04:45.51,Default,ELYMAS,0,0,0,,Eu já disse que não.
+Dialogue: 0,0:04:45.89,0:04:48.52,Default,ELYMAS,0,0,0,,Apenas 30 milhões estão\Nlonge de ser suficientes.
+Dialogue: 0,0:04:49.57,0:04:55.78,Default,VERUGA,0,0,0,,Ei, garoto. Essa aí pode até parecer\Numa pirralha, mas o poder dela é real.
+Dialogue: 0,0:04:55.78,0:04:57.03,Default,HILDE,0,0,0,,O que disse, velhote?!
+Dialogue: 0,0:04:57.34,0:05:02.01,Default,VERUGA,0,0,0,,Ela é de Rank B e detém o recorde de\Neliminações solo de Senhores dos Sonhos.
+Dialogue: 0,0:05:03.11,0:05:04.53,Default,HILDE,0,0,0,,P-Pois é!
+Dialogue: 0,0:05:05.11,0:05:09.48,Default,VERUGA,0,0,0,,Por outro lado, ela tem uma personalidade\Nterrível, melhor você não tê-la como inimiga.
+Dialogue: 0,0:05:09.48,0:05:10.50,Default,HILDE,0,0,0,,Ei!
+Dialogue: 0,0:05:10.79,0:05:16.38,Default,ELYMAS,0,0,0,,Não se recusou a trabalhar com ela porque\Nnão gosta de pessoas desse tipo?
+Dialogue: 0,0:05:16.69,0:05:18.95,Default,ELYMAS,0,0,0,,Bem, eu também não gosto dela.
+Dialogue: 0,0:05:18.95,0:05:20.47,Default,ELYMAS,0,0,0,,Nem tenho interesse em negociar.
+Dialogue: 0,0:05:20.47,0:05:21.38,Default,HILDE,0,0,0,,Ei!
+Dialogue: 0,0:05:21.38,0:05:26.48,Default,VERUGA,0,0,0,,Estou preparado para as consequências,\Nmas vocês dois ainda são jovens.
+Dialogue: 0,0:05:26.48,0:05:29.82,Default,VERUGA,0,0,0,,Não arranje inimigos problemáticos\Nna guilda sem necessidade.
+Dialogue: 0,0:05:29.82,0:05:32.14,Default,VERUGA,0,0,0,,Deixe aqui comigo.
+Dialogue: 0,0:05:32.14,0:05:33.90,italics,ELYMAS/ID,0,0,0,,Acho que, no fundo, ele é um cara bom.
+Dialogue: 0,0:05:34.20,0:05:36.02,Default,ELYMAS,0,0,0,,Não se preocupe conosco.
+Dialogue: 0,0:05:36.02,0:05:37.88,Default,ELYMAS,0,0,0,,Somos aventureiros.
+Dialogue: 0,0:05:37.88,0:05:41.28,Default,ELYMAS,0,0,0,,Se for preciso, simplesmente\Niremos para outra cidade.
+Dialogue: 0,0:05:42.52,0:05:45.49,Default,ELYMAS,0,0,0,,E não acho que sou mais fraco do que ela.
+Dialogue: 0,0:06:02.52,0:06:05.22,Default,HILDE,0,0,0,,Oh! Você tem bons reflexos.
+Dialogue: 0,0:06:05.22,0:06:07.90,Default,HILDE,0,0,0,,Mas as suas estatísticas são deploráveis.
+Dialogue: 0,0:06:07.90,0:06:10.34,Default,HILDE,0,0,0,,Esses são os limites de\Num Cavaleiro Pesado.
+Dialogue: 0,0:06:10.34,0:06:15.41,Default,HILDE,0,0,0,,Você tem sorte. Eu teria te matado se\Neu estivesse um pouco mais irritada.
+Dialogue: 0,0:06:15.41,0:06:18.48,Default,HILDE,0,0,0,,Empunhar uma arma boa demais\Npara você não vai te salvar da morte.
+Dialogue: 0,0:06:19.29,0:06:21.99,Default,HILDE,0,0,0,,Agora, apenas venda a espada.
+Dialogue: 0,0:06:21.99,0:06:24.80,Default,RUCHE,0,0,0,,V-Você está bem, Sr. Elma?!
+Dialogue: 0,0:06:24.80,0:06:28.62,Default,RUCHE,0,0,0,,O-O-O que você estava pensando?!
+Dialogue: 0,0:06:28.62,0:06:32.25,Default,HILDE,0,0,0,,Acabei de mostrar como ele é fraco.
+Dialogue: 0,0:06:32.61,0:06:36.38,Default,ELYMAS,0,0,0,,Me pegar de surpresa não prova\Nque você é mais forte do que eu.
+Dialogue: 0,0:06:36.38,0:06:37.08,Default,HILDE,0,0,0,,Quê?
+Dialogue: 0,0:06:37.40,0:06:40.56,Default,HILDE,0,0,0,,O que é então? Quer duelar?
+Dialogue: 0,0:06:40.56,0:06:45.13,Default,HILDE,0,0,0,,Se você apostar essa Espada de Mithril,\Neu aceito o desafio que quiser.
+Dialogue: 0,0:06:45.13,0:06:47.09,Default,ELYMAS,0,0,0,,E você, vai apostar o quê?
+Dialogue: 0,0:06:47.77,0:06:50.60,Default,HILDE,0,0,0,,É impensável que eu perca!
+Dialogue: 0,0:06:50.88,0:06:54.98,Default,HILDE,0,0,0,,Mas eu abrirei mão da espada e pagarei\Na você o preço de mercado dela.
+Dialogue: 0,0:06:55.28,0:06:59.11,Default,HILDE,0,0,0,,Que tal? Agora você não\Ntem motivo para fugir.
+Dialogue: 0,0:06:59.11,0:07:01.50,Default,VERUGA,0,0,0,,Não aceite a oferta dela, garoto.
+Dialogue: 0,0:07:01.50,0:07:04.86,Default,VERUGA,0,0,0,,Espadachins mágicos são habilidosos\Nem combate mano a mano.
+Dialogue: 0,0:07:04.86,0:07:09.07,Default,VERUGA,0,0,0,,Um duelo contra ela não\Nseria uma luta justa.
+Dialogue: 0,0:07:10.63,0:07:14.87,Default,ELYMAS,0,0,0,,Você concorda com esses termos?\NEntão, eu aceito com prazer.
+Dialogue: 0,0:07:17.29,0:07:19.91,Default,RUCHE,0,0,0,,I-Isso é má ideia!
+Dialogue: 0,0:07:19.91,0:07:22.30,Default,RUCHE,0,0,0,,Ela é uma Espadachim Mágica de Rank B!
+Dialogue: 0,0:07:22.30,0:07:26.30,Default,RUCHE,0,0,0,,Até eu sei que eles são\Nduelistas inigualáveis!
+Dialogue: 0,0:07:26.61,0:07:31.19,Default,ELYMAS,0,0,0,,Eu tinha planejado lidar com isso de forma mais\Ninteligente, mas acabei ficando um pouco irritado.
+Dialogue: 0,0:07:31.19,0:07:32.31,Default,RUCHE,0,0,0,,Sr. Elma?
+Dialogue: 0,0:07:32.31,0:07:35.90,Default,ELYMAS,0,0,0,,Não vou deixar escapar 30 milhões fáceis.
+Dialogue: 0,0:07:35.90,0:07:38.56,Default,ELYMAS,0,0,0,,Acho que vou te dar uma liçãozinha, Hilde.
+Dialogue: 0,0:07:38.56,0:07:41.09,Default,HILDE,0,0,0,,Tenho sorte de você ser tão burro.
+Dialogue: 0,0:07:41.09,0:07:45.84,Default,HILDE,0,0,0,,Vou chamar alguém da guilda para testemunhar nosso\Nduelo, assim você não vai conseguir escapar dessa.
+Dialogue: 0,0:07:45.84,0:07:47.57,Default,HILDE,0,0,0,,Tente não se arrepender!
+Dialogue: 0,0:08:02.57,0:08:05.49,italics,ELYMAS/ID,0,0,0,,A Hilde deve voltar em breve.
+Dialogue: 0,0:08:08.55,0:08:10.02,Default,ELYMAS,0,0,0,,Escudo Vital!
+Dialogue: 0,0:08:08.97,0:08:10.47,sign_generic,SIGN,0,0,0,,{\fade(685,1)\c&H68E7FE&\bord1\blur0.5\3c&H6B5176&\b1\an8\pos(470.8,189.2)}Escudo Vital {\fs13\bord2\blur1.5\c&HF0EEE6&\3c&HEA9B4C&}[Habilidade Comum] \NCusta 20% do HP máximo para ativar. \NEnvolve o usuário em um escudo com \Nforça equivalente ao custo de HP.
+Dialogue: 0,0:08:13.99,0:08:17.98,Default,VERUGA,0,0,0,,Garoto, o que você está fazendo?
+Dialogue: 0,0:08:17.98,0:08:22.48,Default,VERUGA,0,0,0,,Qual é a vantagem de ativar\Ne desativar sua habilidade?
+Dialogue: 0,0:08:22.78,0:08:24.26,Default,VERUGA,0,0,0,,Não entendi nada!
+Dialogue: 0,0:08:24.73,0:08:26.31,Default,ELYMAS,0,0,0,,Estou gerenciando meu HP.
+Dialogue: 0,0:08:26.31,0:08:27.99,Default,VERUGA,0,0,0,,Entendo ainda menos.
+Dialogue: 0,0:08:28.42,0:08:30.99,Default,RUCHE,0,0,0,,Você consegue vencê-la, Sr. Elma?
+Dialogue: 0,0:08:31.24,0:08:35.16,Default,RUCHE,0,0,0,,Você está contando com o Olhar da Morte da\NFúria do Dragão para vencer este duelo, certo?
+Dialogue: 0,0:08:36.25,0:08:40.46,Default,RUCHE,0,0,0,,Acho que a "Nenhuma Defesa Será\NPoupada" não ajudaria desta vez.
+Dialogue: 0,0:08:40.46,0:08:41.50,Default,ELYMAS,0,0,0,,Você tem razão.
+Dialogue: 0,0:08:43.07,0:08:45.04,flashback,ELYMAS,0,0,0,,Nenhuma Defesa Será Poupada!
+Dialogue: 0,0:08:57.52,0:09:03.08,Default,ELYMAS,0,0,0,,Ter seis vezes o valor de Ataque não\Ncompensa o dano extra que eu receberia.
+Dialogue: 0,0:09:03.74,0:09:08.00,Default,ELYMAS,0,0,0,,Reduzir minha Defesa a zero contra\Num oponente com ataques à distância
+Dialogue: 0,0:09:08.00,0:09:10.15,Default,ELYMAS,0,0,0,,nos mataria.
+Dialogue: 0,0:09:07.15,0:09:11.03,sign_generic,SIGN,0,0,0,,{\b1\blur1\fade(855,1)\c&HFCF5D7&\3c&HF1DF69&\pos(315.2,210)}Defesa 0
+Dialogue: 0,0:09:11.52,0:09:15.03,Default,ELYMAS,0,0,0,,Um Espadachim Mágico é um oponente ainda\Nmais difícil do que um Mestre Espadachim.
+Dialogue: 0,0:09:15.57,0:09:18.04,Default,ELYMAS,0,0,0,,Além de explosões de poder\Ne habilidades com a espada,
+Dialogue: 0,0:09:18.39,0:09:21.43,Default,ELYMAS,0,0,0,,eles possuem ataques mágicos\Nde longo alcance práticos.
+Dialogue: 0,0:09:24.54,0:09:28.06,Default,VERUGA,0,0,0,,Não é tarde demais para fugir.
+Dialogue: 0,0:09:28.06,0:09:29.70,Default,ELYMAS,0,0,0,,Claro, existe uma maneira de eu vencer.
+Dialogue: 0,0:09:30.50,0:09:33.40,Default,ELYMAS,0,0,0,,Não gosto de como isso é dissimulado,
+Dialogue: 0,0:09:33.40,0:09:36.05,Default,ELYMAS,0,0,0,,mas os Espadachins Mágicos têm\Numa maneira distorcida de pensar.
+Dialogue: 0,0:09:36.05,0:09:39.31,Default,RUCHE,0,0,0,,E-Esse sorriso malvado!
+Dialogue: 0,0:09:43.02,0:09:45.61,Default,HILDE,0,0,0,,Eu trouxe alguém, Cavaleiro Pesado!
+Dialogue: 0,0:09:46.43,0:09:49.15,Default,HILDE,0,0,0,,É bom você não ter feito\Nnada com a minha espada!
+Dialogue: 0,0:09:50.49,0:09:53.91,Default,MATILDA,0,0,0,,Fui arrastada para cá por causa de\Num "Cavaleiro Pesado insolente".
+Dialogue: 0,0:09:53.91,0:09:58.50,Default,MATILDA,0,0,0,,Eu sabia que eram vocês,\NSr. Elma e Sra. Luche.
+Dialogue: 0,0:10:08.25,0:10:10.93,Default,HILDE,0,0,0,,Vamos começar, Cavaleiro Pesado.
+Dialogue: 0,0:10:13.43,0:10:15.92,italics,ELYMAS/ID,0,0,0,,Uma Espadachim Mágica\Ncontra um Cavaleiro Pesado.
+Dialogue: 0,0:10:16.69,0:10:19.14,italics,ELYMAS/ID,0,0,0,,É a pior combinação para um duelo.
+Dialogue: 0,0:10:19.14,0:10:22.06,italics,ELYMAS/ID,0,0,0,,À distância, ela vai desgastar\Nmeu HP com feitiços.
+Dialogue: 0,0:10:22.06,0:10:24.63,italics,ELYMAS/ID,0,0,0,,Se me aproximar, sou derrotado\Npor suas habilidades com a espada.
+Dialogue: 0,0:10:26.42,0:10:30.36,italics,ELYMAS/ID,0,0,0,,Mas os Espadachins Mágicos\Ntêm um certo modo de pensar.
+Dialogue: 0,0:10:30.92,0:10:34.66,italics,ELYMAS/ID,0,0,0,,E a Hilde deve exagerar nessa mania.
+Dialogue: 0,0:10:47.71,0:10:51.67,Default,ELYMAS,0,0,0,,Testemunha, gostaria de confirmar\Nalgo antes de começarmos.
+Dialogue: 0,0:10:51.67,0:10:53.65,Default,MATILDA,0,0,0,,O que é, Sr. Elma?
+Dialogue: 0,0:10:53.65,0:10:57.05,Default,ELYMAS,0,0,0,,Já que vamos lutar usando habilidades,\No pior pode acontecer.
+Dialogue: 0,0:10:57.74,0:11:00.51,Default,ELYMAS,0,0,0,,O que acontece se ferirmos\Nou matarmos o oponente?
+Dialogue: 0,0:11:01.39,0:11:06.20,Default,MATILDA,0,0,0,,Vocês sabiam dos riscos\Nquando aceitaram o duelo.
+Dialogue: 0,0:11:06.20,0:11:09.77,Default,MATILDA,0,0,0,,É essa a nossa compreensão quando\Natuamos como testemunhas.
+Dialogue: 0,0:11:09.77,0:11:12.54,Default,MATILDA,0,0,0,,Se você está inseguro,\Nque tal cancelarmos o duelo?
+Dialogue: 0,0:11:12.54,0:11:15.41,Default,ELYMAS,0,0,0,,Não, fico feliz que você tenha\Nconfirmado isso para mim.
+Dialogue: 0,0:11:15.41,0:11:17.66,Default,ELYMAS,0,0,0,,Vamos começar, Hilde.
+Dialogue: 0,0:11:18.87,0:11:21.20,Default,HILDE,0,0,0,,Você está tentando me provocar?
+Dialogue: 0,0:11:21.20,0:11:23.50,Default,HILDE,0,0,0,,Tudo bem para mim\Nsobre o que foi explicado.
+Dialogue: 0,0:11:28.21,0:11:30.13,italics,ELYMAS/ID,0,0,0,,Estamos bem distantes um do outro.
+Dialogue: 0,0:11:30.13,0:11:32.88,italics,ELYMAS/ID,0,0,0,,Faz sentido, já que ela pertence\Na uma classe que lança feitiços.
+Dialogue: 0,0:11:35.87,0:11:38.39,Default,MATILDA,0,0,0,,Então… comecem!
+Dialogue: 0,0:11:43.13,0:11:44.65,Default,ELYMAS,0,0,0,,Escudo Vital!
+Dialogue: 0,0:11:43.35,0:11:45.31,sign_generic,SIGN,0,0,0,,{\bord0\fnGeorgia\b1\pos(463.2,68.4)\c&HFDFF34&\fade(400,1)}Escudo Vital
+Dialogue: 0,0:12:23.55,0:12:26.14,Default,HILDE,0,0,0,,O que é isso? Que habilidade peculiar.
+Dialogue: 0,0:12:42.28,0:12:47.30,Default,RUCHE,0,0,0,,V-Você disse que essa habilidade era\Nperigosa demais para ser usada em um duelo!
+Dialogue: 0,0:12:48.12,0:12:50.17,sign_generic,SIGN,0,0,0,,{\pos(448,347.6)\b1\fs-2\bord1.5\fade(650,1)\blur0.5\c&H857F9D&\3c&HDDEAFD&}Nenhuma Defesa Será Poupada {\fs-3\bord2\blur1.5\c&HF0EEE6&\3c&HE48C44&}[Habilidade Comum] \N Utilizável apenas com menos de 50% de HP \N Reduz a Defesa a zero e aumenta o Ataque com base na Defesa perdida  \NConsome MP enquanto ativa
+Dialogue: 0,0:12:51.15,0:12:53.08,italics,HILDE/ID,0,0,0,,Outra habilidade misteriosa.
+Dialogue: 0,0:12:53.41,0:12:56.56,italics,HILDE/ID,0,0,0,,Fora a reação daquela menina.
+Dialogue: 0,0:12:57.88,0:12:59.05,italics,HILDE/ID,0,0,0,,Por enquanto…
+Dialogue: 0,0:13:15.23,0:13:17.32,italics,HILDE/ID,0,0,0,,Vou observá-lo à distância.
+Dialogue: 0,0:13:57.22,0:14:00.21,Default,ELYMAS,0,0,0,,Ótimo. Nada mal.
+Dialogue: 0,0:14:04.67,0:14:06.30,Default,HILDE,0,0,0,,Espera, espera, espera!
+Dialogue: 0,0:14:06.30,0:14:08.84,Default,HILDE,0,0,0,,T-Tempo! Parem o duelo!
+Dialogue: 0,0:14:09.29,0:14:10.62,Default,HILDE,0,0,0,,Pare!
+Dialogue: 0,0:14:10.94,0:14:11.87,Default,HILDE,0,0,0,,Pare!
+Dialogue: 0,0:14:11.87,0:14:13.95,Default,HILDE,0,0,0,,Eu larguei minha arma!
+Dialogue: 0,0:14:13.95,0:14:15.33,Default,HILDE,0,0,0,,Não está ouvindo?
+Dialogue: 0,0:14:15.33,0:14:16.88,Default,HILDE,0,0,0,,Para aí! Cancele!
+Dialogue: 0,0:14:17.46,0:14:19.39,Default,HILDE,0,0,0,,Sério, pare!
+Dialogue: 0,0:14:20.16,0:14:23.38,Default,HILDE,0,0,0,,Eu… Eu desisto! Eu me rendo!
+Dialogue: 0,0:14:23.38,0:14:26.39,Default,HILDE,0,0,0,,Eu admito a derrota! Eu perdi!
+Dialogue: 0,0:14:27.23,0:14:31.96,italics,ELYMAS/ID,0,0,0,,Espadachins mágicos tendem a\Njogar com margem de segurança.
+Dialogue: 0,0:14:32.82,0:14:38.43,italics,ELYMAS/ID,0,0,0,,Usando habilidades de baixa resistência e alto\Npoder de ataque que apresentam desvantagens,
+Dialogue: 0,0:14:38.88,0:14:42.90,italics,ELYMAS/ID,0,0,0,,Espadachins Mágicos facilmente perdem a\Nvida se permanecerem nessa luta por muito tempo.
+Dialogue: 0,0:14:42.90,0:14:47.41,italics,ELYMAS/ID,0,0,0,,Eu tinha certeza de que ela se renderia\Nse eu continuasse a ameaçá-la.
+Dialogue: 0,0:14:48.71,0:14:50.63,Default,ELYMAS,0,0,0,,Declare um vencedor.
+Dialogue: 0,0:14:50.63,0:14:51.91,Default,MATILDA,0,0,0,,C-Certo!
+Dialogue: 0,0:14:52.22,0:14:55.10,Default,MATILDA,0,0,0,,O-O vencedor é o Sr. Elma!
+Dialogue: 0,0:14:58.18,0:15:00.48,Default,HILDE,0,0,0,,V-Você não pode estar falando sério!
+Dialogue: 0,0:15:00.48,0:15:02.67,Default,HILDE,0,0,0,,Eu acabei de te dizer para parar!
+Dialogue: 0,0:15:03.01,0:15:07.26,Default,HILDE,0,0,0,,Eu só disse que me rendia\Nporque você não parava!
+Dialogue: 0,0:15:07.26,0:15:09.22,Default,ELYMAS,0,0,0,,De qualquer forma, você disse.
+Dialogue: 0,0:15:09.54,0:15:16.24,Default,MATILDA,0,0,0,,Srta. Hilde, a guilda não\Nreconhece a mudança de ideia
+Dialogue: 0,0:15:16.24,0:15:21.23,Default,MATILDA,0,0,0,,ao considerar as habilidades do seu oponente como\Num motivo válido para interromper um duelo.
+Dialogue: 0,0:15:21.60,0:15:23.86,Default,MATILDA,0,0,0,,Já que fui chamada como testemunha,
+Dialogue: 0,0:15:23.86,0:15:28.76,Default,MATILDA,0,0,0,,medidas cabíveis serão tomadas\Ncaso você não cumpra as regras.
+Dialogue: 0,0:15:28.76,0:15:31.66,Default,HILDE,0,0,0,,E-Eu sei disso!
+Dialogue: 0,0:15:31.66,0:15:36.33,Default,HILDE,0,0,0,,Eu não vou ser covarde e\Ndesistir de um acordo agora.
+Dialogue: 0,0:15:36.66,0:15:40.50,Default,HILDE,0,0,0,,Escute aqui, Elma.\NEu disse para você parar.
+Dialogue: 0,0:15:40.82,0:15:45.51,Default,HILDE,0,0,0,,Diante disso, você aceitaria\N20.000.000 de ouros?
+Dialogue: 0,0:15:47.77,0:15:50.26,Default,HILDE,0,0,0,,Trinta milhões de ouros é coisa demais!
+Dialogue: 0,0:15:50.72,0:15:51.76,Default,ELYMAS,0,0,0,,Não.
+Dialogue: 0,0:15:51.76,0:15:55.39,Default,RUCHE,0,0,0,,Que mesquinho! Mas eu o entendo.
+Dialogue: 0,0:15:55.66,0:16:00.40,Default,HILDE,0,0,0,,Eu… Eu só precisava de uma\Narma adequada para o meu nível.
+Dialogue: 0,0:16:00.76,0:16:03.05,Default,HILDE,0,0,0,,O crescimento de um\Naventureiro de alto nível
+Dialogue: 0,0:16:03.05,0:16:07.15,Default,HILDE,0,0,0,,mantém a cidade segura e reduz\Nos danos causados ​​por monstros.
+Dialogue: 0,0:16:07.15,0:16:10.28,Default,HILDE,0,0,0,,Vou admitir que meus\Nmétodos estavam errados.
+Dialogue: 0,0:16:10.28,0:16:12.99,Default,HILDE,0,0,0,,Prometo nunca mais fazer algo assim.
+Dialogue: 0,0:16:13.34,0:16:14.64,Default,ELYMAS,0,0,0,,Tudo bem se entendeu.
+Dialogue: 0,0:16:15.83,0:16:19.50,Default,HILDE,0,0,0,,E-Então, você estaria disposto\Na aceitar 20.000.000 de ouros?
+Dialogue: 0,0:16:19.96,0:16:21.00,Default,ELYMAS,0,0,0,,Não!
+Dialogue: 0,0:16:25.97,0:16:28.19,Default,VERUGA,0,0,0,,E-Ei, garoto.
+Dialogue: 0,0:16:30.22,0:16:33.44,Default,VERUGA,0,0,0,,Eu estava hesitante em dizer isso agora,
+Dialogue: 0,0:16:33.44,0:16:38.00,Default,VERUGA,0,0,0,,mas o preço de mercado desta espada\Nnão é de 30.000.000 de ouros.
+Dialogue: 0,0:16:39.27,0:16:40.79,Default,ELYMAS,0,0,0,,É mesmo?
+Dialogue: 0,0:16:40.79,0:16:43.36,Default,HILDE,0,0,0,,Vai dizer que é falsa?!
+Dialogue: 0,0:16:44.70,0:16:48.86,Default,HILDE,0,0,0,,O combinado era que eu pagaria\No valor de mercado dessa espada.
+Dialogue: 0,0:16:50.10,0:16:52.37,Default,HILDE,0,0,0,,Você me fez entrar em pânico por nada.
+Dialogue: 0,0:16:52.37,0:16:56.37,Default,VERUGA,0,0,0,,Vocês mesmos podem conferir.
+Dialogue: 0,0:16:57.03,0:16:58.37,italics,SYSTEM VOICE,0,0,0,,Espada de Mithril.
+Dialogue: 0,0:16:58.37,0:17:00.87,italics,SYSTEM VOICE,0,0,0,,Ataque: +46.
+Dialogue: 0,0:17:00.87,0:17:04.09,italics,SYSTEM VOICE,0,0,0,,Preço de mercado: 51.500.000 de ouros.
+Dialogue: 0,0:17:04.09,0:17:07.01,italics,SYSTEM VOICE,0,0,0,,Uma espada mágica que brilha\Nintensamente com mana.
+Dialogue: 0,0:17:07.01,0:17:09.38,italics,SYSTEM VOICE,0,0,0,,Encantada com a Runa da Destruição.
+Dialogue: 0,0:16:56.58,0:17:09.38,sign_generic,SIGN,0,0,0,,{\b1\bord1.5\blur0.5\fade(1050,1)\c&H443672&\an7\3c&HADCAE8&\pos(307.2,74.8)}Espada de Mithril\N{\fs13\bord2\blur1\3c&HAE893F&\c&HFFFED5&}Nível recomendado: 70\NAtaque: +46 \N Preço de mercado: 51.500.000 de ouros \N Uma espada mágica que brilha intensamente com mana \N Encantada com a Runa da Destruição
+Dialogue: 0,0:17:10.23,0:17:14.64,Default,HILDE,0,0,0,,Cin… Cinquenta e um milhões\Ne quinhentos mil de ouros?!
+Dialogue: 0,0:17:14.64,0:17:18.15,Default,ELYMAS,0,0,0,,É mesmo. Eu tinha esquecido\Nde incluir o valor da Runa.
+Dialogue: 0,0:17:18.15,0:17:20.19,Default,ELYMAS,0,0,0,,Que descuido o meu.
+Dialogue: 0,0:17:20.19,0:17:21.02,Default,ELYMAS,0,0,0,,Hilde.
+Dialogue: 0,0:17:21.02,0:17:24.69,Default,ELYMAS,0,0,0,,O preço de mercado é\Nde 51.500.000 de ouros.
+Dialogue: 0,0:17:25.06,0:17:28.03,Default,HILDE,0,0,0,,Não seja ridículo!\NComo vou pagar isso?!
+Dialogue: 0,0:17:28.47,0:17:31.40,Default,HILDE,0,0,0,,Você não pode esperar que eu aceite isso!
+Dialogue: 0,0:17:31.67,0:17:35.91,Default,HILDE,0,0,0,,Por favor! Pelo menos baixe\Npara 40.000.000 de ouros!
+Dialogue: 0,0:17:35.91,0:17:39.91,Default,ELYMAS,0,0,0,,Você não consegue escolher entre\Ngritar comigo e baixar a cabeça?
+Dialogue: 0,0:17:36.35,0:17:39.91,top,HILDE,0,0,0,,Piedade, piedade!
+Dialogue: 0,0:17:40.30,0:17:43.26,top,HILDE,0,0,0,,Piedade, piedade!
+Dialogue: 0,0:17:40.48,0:17:43.93,Default,RUCHE,0,0,0,,E-Estou começando a sentir pena dela.
+Dialogue: 0,0:17:43.93,0:17:45.17,Default,ELYMAS,0,0,0,,Pois é…
+Dialogue: 0,0:17:46.07,0:17:50.92,top,HILDE,0,0,0,,Piedade!
+Dialogue: 0,0:17:45.49,0:17:50.92,Default,ELYMAS,0,0,0,,Para ser sincero, o meu principal motivo\Npara duelar com ela foi para dar uma lição…
+Dialogue: 0,0:17:52.29,0:17:56.04,Default,ELYMAS,0,0,0,,Vou te dar um desconto de 1.500.000\Ne aceitar 50.000.000 de ouros.
+Dialogue: 0,0:18:12.99,0:18:17.58,Default,MATILDA,0,0,0,,Oferecemos empréstimos\Na aventureiros de Rank B.
+Dialogue: 0,0:19:05.33,0:19:06.89,Default,MATILDA,0,0,0,,Ah, Sr. Elma.
+Dialogue: 0,0:19:06.89,0:19:13.09,Default,MATILDA,0,0,0,,Você recebeu um pagamento de 50.000.000\Nde ouros da Sra. Hilde pelo seu duelo recente.
+Dialogue: 0,0:19:13.45,0:19:15.36,Default,ELYMAS,0,0,0,,Ela realmente conseguiu o dinheiro?
+Dialogue: 0,0:19:15.36,0:19:17.39,Default,ELYMAS,0,0,0,,Faz apenas dois dias.
+Dialogue: 0,0:19:17.69,0:19:21.26,Default,MATILDA,0,0,0,,Estamos acostumados a lidar com\Ndesentendimentos entre aventureiros.
+Dialogue: 0,0:19:21.66,0:19:24.12,Default,MATILDA,0,0,0,,Basta a guilda querer e…
+Dialogue: 0,0:19:25.53,0:19:29.15,flashback,HILDE,0,0,0,,Q-Que tal 40.000.000… \NNão, 45.000.000?
+Dialogue: 0,0:19:31.15,0:19:35.40,flashback,HILDE,0,0,0,,T-Tá bom, 50.000.000!\NEu pago os 50.000.000!
+Dialogue: 0,0:19:40.33,0:19:42.95,Default,HILDE,0,0,0,,Aí estão vocês, seus malditos!
+Dialogue: 0,0:19:42.95,0:19:47.21,Default,HILDE,0,0,0,,Farei com que devolvam os 50.000.000\Nde ouros que tiraram de mim!
+Dialogue: 0,0:19:51.22,0:19:53.64,Default,ELYMAS,0,0,0,,Entendi. Você vendeu sua arma.
+Dialogue: 0,0:19:53.64,0:19:54.88,Default,ELYMAS,0,0,0,,Vamos fugir, Luche!
+Dialogue: 0,0:19:54.88,0:19:55.67,Default,RUCHE,0,0,0,,Está bem!
+Dialogue: 0,0:19:57.64,0:19:58.68,Default,HILDE,0,0,0,,Não vão escapar!
+Dialogue: 0,0:20:05.23,0:20:06.23,Default,CARLOS,0,0,0,,Hilde.
+Dialogue: 0,0:20:16.89,0:20:19.20,Default,CARLOS,0,0,0,,Aquele é o Cavaleiro Pesado?
+Dialogue: 0,0:20:31.38,0:20:34.32,italics,ELYMAS/ID,0,0,0,,Essa aura, essa intensidade…
+Dialogue: 0,0:20:39.01,0:20:44.01,italics,ELYMAS/ID,0,0,0,,Ele deve ser o verdadeiro\NLâmina Flamejante Enegrecida.
+Dialogue: 0,0:20:49.88,0:20:52.02,Default,HILDE,0,0,0,,São eles, Mestre!
+Dialogue: 0,0:20:52.39,0:20:56.92,Default,HILDE,0,0,0,,Eles usaram métodos suspeitos\Npara roubar o meu dinheiro!
+Dialogue: 0,0:21:03.79,0:21:04.92,italics,ELYMAS/ID,0,0,0,,Eu sabia.
+Dialogue: 0,0:21:06.55,0:21:08.13,Default,CARLOS,0,0,0,,Minha classe é Espadachim Mágico.
+Dialogue: 0,0:21:09.09,0:21:11.32,Default,CARLOS,0,0,0,,Sou um aventureiro de\NRank A. Meu nome é Carlos.
+Dialogue: 0,0:21:12.60,0:21:16.71,Default,CARLOS,0,0,0,,Eu queria conhecê-lo, depois\Nque a Hilde me falou sobre você…
+Dialogue: 0,0:21:21.80,0:21:23.72,Default,CARLOS,0,0,0,,Elma, o Cavaleiro Pesado.
+Dialogue: 0,0:23:11.45,0:23:15.80,italics,ELYMAS/NA,0,0,0,,Carlos, o Espadachim Mágico,\Napareceu diante de nós.
+Dialogue: 0,0:23:15.80,0:23:19.76,italics,ELYMAS/NA,0,0,0,,Ele é o mentor de Hilde e um dos\Naventureiros de Rank A de Lacoryna.
+Dialogue: 0,0:23:20.38,0:23:22.80,italics,ELYMAS/NA,0,0,0,,Ele também é conhecido como\NLâmina Flamejante Enegrecida.
+Dialogue: 0,0:23:23.75,0:23:27.82,italics,ELYMAS/NA,0,0,0,,Achei que Carlos tinha \Nvindo por causa da Hilde,
+Dialogue: 0,0:23:27.82,0:23:32.52,italics,ELYMAS/NA,0,0,0,,mas na verdade ele nos ofereceu algo muito mais\Nimportante: um trabalho que não podemos evitar.
+Dialogue: 0,0:23:33.19,0:23:35.44,italics,ELYMAS/NA,0,0,0,,A seguir: “Lâmina\NFlamejante Enegrecida”.
+Dialogue: 0,0:23:35.98,0:23:38.86,italics,ELYMAS/NA,0,0,0,,Nossa maior batalha\Nestá prestes a começar.
+
