@@ -1,0 +1,282 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:29.14,0:00:30.24,Gen_Main,Ruche,0,0,0,,¿Eh?
+Dialogue: 0,0:00:30.93,0:00:32.88,Gen_Main,Ruche,0,0,0,,La puerta está abierta.
+Dialogue: 0,0:00:32.05,0:00:35.16,Gen_Main_Up,Hilde,0,0,0,,Tú es que no lo pillas, carcamal.
+Dialogue: 0,0:00:35.26,0:00:37.56,Gen_Main_Up,Hilde,0,0,0,,No te estoy pidiendo que me des nada.
+Dialogue: 0,0:00:37.66,0:00:40.13,Gen_Main_Up,Hilde,0,0,0,,Te estoy diciendo\Nque me vendas esa espada.
+Dialogue: 0,0:00:40.23,0:00:42.74,Gen_Main_Up,Berga,0,0,0,,No tengo ninguna arma que venderte.
+Dialogue: 0,0:00:42.34,0:00:43.78,Gen_Main,Elymas,0,0,0,,Esto me da muy mala espina.
+Dialogue: 0,0:00:42.84,0:00:45.23,Gen_Main_Up,Berga,0,0,0,,Además, esto fue un encargo.
+Dialogue: 0,0:00:43.88,0:00:44.88,Gen_Main,Ruche,0,0,0,,¡Pues sí!
+Dialogue: 0,0:00:46.09,0:00:47.42,Gen_Main,Elymas,0,0,0,,¿Se encuentra bien, señor?
+Dialogue: 0,0:00:47.53,0:00:49.97,Gen_Main,Berga,0,0,0,,Me tienes harto, espadachina mágica.
+Dialogue: 0,0:00:50.22,0:00:53.07,Gen_Main,Hilde,0,0,0,,Vaya, ¿eres tú el maldito cliente?
+Dialogue: 0,0:00:56.51,0:00:58.66,Gen_Main,Hilde,0,0,0,,Y yo que me preguntaba quién era.
+Dialogue: 0,0:00:58.76,0:01:04.12,Gen_Main,Hilde,0,0,0,,Viejo, ¿forjaste una espada de mitrilo\Npara este tío que parece tan enclenque?
+Dialogue: 0,0:01:01.54,0:01:04.02,Gen_Italics_top,Elymas/Id,0,0,0,,La oigo, pero no la veo.
+Dialogue: 0,0:01:04.12,0:01:07.45,Gen_Main,Hilde,0,0,0,,¿Tan desesperado estabas\Npor sacarte unos cuartos, Berga?
+Dialogue: 0,0:01:07.55,0:01:08.55,Gen_Italics,Elymas/Id,0,0,0,,¿Es su habilidad?
+Dialogue: 0,0:01:08.65,0:01:10.77,Gen_Main,Ruche,0,0,0,,¡Elymas, abajo!
+Dialogue: 0,0:01:11.18,0:01:12.57,Gen_Main,Ruche,0,0,0,,¡Ahí abajo!
+Dialogue: 0,0:01:18.03,0:01:22.38,Gen_Main,Hilde,0,0,0,,Eh, capullo.\N¿Te estás choteando de mí?
+Dialogue: 0,0:01:22.48,0:01:25.82,Gen_Main,Elymas,0,0,0,,¿Quién demonios es esta cría?
+Dialogue: 0,0:02:58.16,0:03:02.62,Cart_A_Tre,CARTEL,0,0,0,,{\b1\an2\bord1\shad1.25\fs18\fade(557,557)\3c&H0E0B09&\4c&H0E0B09&\pos(369.867,302.2)}Episodio 20
+Dialogue: 0,0:02:58.16,0:03:02.62,Cart_A_Tre,CARTEL,0,0,0,,{\b1\an3\bord1\shad1.25\fs18\fade(557,557)\3c&H0E0B09&\4c&H0E0B09&\pos(599.867,302.2)}Hilde,\Nla espadachina mágica
+Dialogue: 0,0:02:58.66,0:03:03.02,Gen_Main_Up,Hilde,0,0,0,,Eh, capullo.\N¿Te estás choteando de mí?
+Dialogue: 0,0:03:03.12,0:03:05.37,Gen_Main,Hilde,0,0,0,,Si tienes algo que decir, escúpelo ya.
+Dialogue: 0,0:03:05.84,0:03:09.20,Gen_Main,Elymas,0,0,0,,¿Una niña? No, tiene una clase.
+Dialogue: 0,0:03:09.30,0:03:11.45,Gen_Main,Elymas,0,0,0,,Si se ha sometido al ritual,\N¿tiene 15 años?
+Dialogue: 0,0:03:11.55,0:03:13.10,Gen_Main,Hilde,0,0,0,,Tengo 17 años.
+Dialogue: 0,0:03:14.10,0:03:15.65,Gen_Italics,Elymas/Id,0,0,0,,¿Es mayor que yo?\NNo puede ser.
+Dialogue: 0,0:03:15.75,0:03:18.22,Gen_Main,Hilde,0,0,0,,Parece que me subestimas.
+Dialogue: 0,0:03:18.53,0:03:24.23,Gen_Main,Hilde,0,0,0,,¿Conoces a un espadachín mágico\Napodado Filo Ígneo Negro?
+Dialogue: 0,0:03:27.20,0:03:30.73,Gen_Italics,Elymas/Id,0,0,0,,Oí ese apodo mientras\Nrecopilaba información en Lacoryna.
+Dialogue: 0,0:03:31.26,0:03:32.72,Gen_Italics,Elymas,0,0,0,,El Filo Ígneo Negro.
+Dialogue: 0,0:03:33.17,0:03:38.70,Gen_Italics,Elymas,0,0,0,,Es de los pocos aventureros de rango A\Nque hay en Lacoryna.
+Dialogue: 0,0:03:42.39,0:03:48.87,Gen_Main,Hilde,0,0,0,,Pues resulta que soy discípula\Ndel famoso Filo Ígneo Negro…
+Dialogue: 0,0:03:51.12,0:03:54.00,Gen_Main,Ruche; Hilde,0,0,0,,-¿Cómo?\N-¡Soy su primera discípula!
+Dialogue: 0,0:03:58.63,0:04:02.22,Gen_Main,Elymas,0,0,0,,Ah, ya veo…\NEs realmente impresionante.
+Dialogue: 0,0:04:03.18,0:04:06.41,Gen_Main,Hilde,0,0,0,,Esto se resolverá enseguida\Nahora que está el dueño de la espada.
+Dialogue: 0,0:04:06.54,0:04:09.92,Gen_Main,Hilde,0,0,0,,Seguro que es más fácil hablar contigo\Nque con este viejo cabezota.
+Dialogue: 0,0:04:10.78,0:04:13.47,Gen_Main,Hilde,0,0,0,,Solo intento decir una cosa:
+Dialogue: 0,0:04:13.83,0:04:16.07,Gen_Main,Hilde,0,0,0,,véndeme la espada de mitrilo.
+Dialogue: 0,0:04:16.38,0:04:20.76,Gen_Main,Elymas,0,0,0,,No, lo contraté para que la forjara\Nporque la necesito.
+Dialogue: 0,0:04:20.86,0:04:23.39,Gen_Main,Hilde,0,0,0,,Echa el freno, caballero pesado.
+Dialogue: 0,0:04:23.49,0:04:29.14,Gen_Main,Hilde,0,0,0,,A una clase defectuosa como la tuya\Nno le sirve de nada un arma tan buena.
+Dialogue: 0,0:04:29.24,0:04:32.00,Gen_Main,Hilde,0,0,0,,¿Qué crees que puedes hacer\Ncon una espada tan elegante?
+Dialogue: 0,0:04:32.10,0:04:34.50,Gen_Main,Hilde,0,0,0,,Tú es que no entiendes\Ncómo funciona este mundo.
+Dialogue: 0,0:04:34.78,0:04:37.55,Gen_Main,Hilde,0,0,0,,No te estoy diciendo\Nque la vendas barata.
+Dialogue: 0,0:04:37.65,0:04:40.51,Gen_Main,Hilde,0,0,0,,30 millones de monedas de oro\Ndeberían bastar.
+Dialogue: 0,0:04:40.84,0:04:44.00,Gen_Main,Hilde,0,0,0,,Probablemente sea más dinero\Ndel que puedas imaginar.
+Dialogue: 0,0:04:44.10,0:04:45.51,Gen_Main,Elymas,0,0,0,,He dicho que no.
+Dialogue: 0,0:04:45.89,0:04:48.52,Gen_Main,Elymas,0,0,0,,30 millones no es suficiente\Nni de lejos.
+Dialogue: 0,0:04:49.57,0:04:55.68,Gen_Main,Berga,0,0,0,,Oye, chico, esta niña parecerá tonta,\Npero su poder es real.
+Dialogue: 0,0:04:55.78,0:04:57.03,Gen_Main,Hilde,0,0,0,,¿Qué has dicho, carcamal?
+Dialogue: 0,0:04:57.34,0:05:02.01,Gen_Main,Berga,0,0,0,,Tiene rango B y un récord por derrotar\Na jefes oníricos en solitario.
+Dialogue: 0,0:05:03.11,0:05:04.53,Gen_Main,Hilde,0,0,0,,Bueno, sí…
+Dialogue: 0,0:05:05.11,0:05:09.38,Gen_Main,Berga,0,0,0,,Pero tiene un carácter horrible,\Nasí que más te vale no meterte con ella.
+Dialogue: 0,0:05:09.48,0:05:10.50,Gen_Main,Hilde,0,0,0,,¡Oye!
+Dialogue: 0,0:05:10.79,0:05:16.38,Gen_Main,Elymas,0,0,0,,Creía que no quería trabajar para ella\Nporque no te gusta la gente así.
+Dialogue: 0,0:05:16.69,0:05:18.85,Gen_Main,Elymas,0,0,0,,El asunto es que a mí\Ntampoco me cae bien.
+Dialogue: 0,0:05:18.95,0:05:21.40,Gen_Main,Elymas; Hilde,0,0,0,,-No me interesa negociar.\N-¡Oye!
+Dialogue: 0,0:05:21.57,0:05:26.38,Gen_Main,Berga,0,0,0,,Yo estoy listo para las consecuencias,\Npero vosotros dos aún sois jóvenes.
+Dialogue: 0,0:05:26.48,0:05:29.72,Gen_Main,Berga,0,0,0,,Si es evitable, no os hagáis\Nenemigos problemáticos en el gremio.
+Dialogue: 0,0:05:29.82,0:05:32.04,Gen_Main,Berga,0,0,0,,Dejad que yo me encargue de esto.
+Dialogue: 0,0:05:32.14,0:05:33.90,Gen_Italics,Elymas/Id,0,0,0,,En el fondo, parece buena persona.
+Dialogue: 0,0:05:34.20,0:05:35.92,Gen_Main,Elymas,0,0,0,,No se preocupe por nosotros.
+Dialogue: 0,0:05:36.02,0:05:37.78,Gen_Main,Elymas,0,0,0,,Somos aventureros.
+Dialogue: 0,0:05:37.88,0:05:41.28,Gen_Main,Elymas,0,0,0,,Si se da el caso,\Nnos iremos a otra ciudad.
+Dialogue: 0,0:05:42.52,0:05:45.49,Gen_Main,Elymas,0,0,0,,Y no creo que yo sea más débil que ella.
+Dialogue: 0,0:06:02.52,0:06:05.12,Gen_Main,Hilde,0,0,0,,Vaya, tienes buenos reflejos.
+Dialogue: 0,0:06:05.22,0:06:07.80,Gen_Main,Hilde,0,0,0,,Pero tus estadísticas son pésimas.
+Dialogue: 0,0:06:07.90,0:06:10.24,Gen_Main,Hilde,0,0,0,,El caballero pesado tiene sus límites.
+Dialogue: 0,0:06:10.34,0:06:15.31,Gen_Main,Hilde,0,0,0,,Estás de suerte. Si me hubieras pillado\Nun poco más cabreada, te habría matado.
+Dialogue: 0,0:06:15.41,0:06:18.48,Gen_Main,Hilde,0,0,0,,Empuñar un arma demasiado buena para ti\Nno te evitará morir.
+Dialogue: 0,0:06:19.29,0:06:21.89,Gen_Main,Hilde,0,0,0,,Así que véndeme la espada.
+Dialogue: 0,0:06:21.99,0:06:24.70,Gen_Main,Ruche,0,0,0,,¿Te encuentras bien, Elymas?
+Dialogue: 0,0:06:24.80,0:06:28.52,Gen_Main,Ruche,0,0,0,,Pero ¿qué se te ha pasado por la cabeza?
+Dialogue: 0,0:06:28.62,0:06:32.25,Gen_Main,Hilde,0,0,0,,Acabo de demostrarle lo débil que es.
+Dialogue: 0,0:06:32.61,0:06:36.28,Gen_Main,Elymas,0,0,0,,Pillarme desprevenido no demuestra\Nque seas más fuerte que yo.
+Dialogue: 0,0:06:37.48,0:06:40.46,Gen_Main,Hilde,0,0,0,,¿Qué pasa, entonces?\N¿Quieres batirte en duelo?
+Dialogue: 0,0:06:40.56,0:06:45.03,Gen_Main,Hilde,0,0,0,,Si apuestas esa espada de mitrilo,\Nacepto el desafío.
+Dialogue: 0,0:06:45.13,0:06:47.09,Gen_Main,Elymas,0,0,0,,¿Y tú qué vas a apostar?
+Dialogue: 0,0:06:47.77,0:06:50.60,Gen_Main,Hilde,0,0,0,,No voy a perder en la vida,
+Dialogue: 0,0:06:50.88,0:06:54.98,Gen_Main,Hilde,0,0,0,,pero renunciaré a la espada\Ny te pagaré su precio de mercado.
+Dialogue: 0,0:06:55.28,0:06:59.01,Gen_Main,Hilde,0,0,0,,¿Qué te parece?\NAhora ya no tienes motivo para huir.
+Dialogue: 0,0:06:59.11,0:07:01.30,Gen_Main,Berga,0,0,0,,No le hagas caso, chico.
+Dialogue: 0,0:07:01.42,0:07:04.80,Gen_Main,Berga,0,0,0,,Los espadachines mágicos destacan\Nen los combates uno contra uno.
+Dialogue: 0,0:07:04.93,0:07:09.07,Gen_Main,Berga,0,0,0,,Un duelo contra ella\Nno sería una lucha justa.
+Dialogue: 0,0:07:10.63,0:07:14.87,Gen_Main,Elymas,0,0,0,,¿Te parecen bien esas condiciones?\NEntonces, las acepto encantado.
+Dialogue: 0,0:07:17.29,0:07:19.81,Gen_Main,Ruche,0,0,0,,Esto es una mala idea…
+Dialogue: 0,0:07:19.91,0:07:22.20,Gen_Main,Ruche,0,0,0,,Es una espadachina mágica de rango B.
+Dialogue: 0,0:07:22.30,0:07:26.30,Gen_Main,Ruche,0,0,0,,Hasta yo sé que son duelistas sin igual.
+Dialogue: 0,0:07:26.61,0:07:31.09,Gen_Main,Elymas,0,0,0,,Quería manejar esto con más tacto,\Npero al final me ha cabreado.
+Dialogue: 0,0:07:31.19,0:07:32.21,Gen_Main,Ruche,0,0,0,,¿Elymas?
+Dialogue: 0,0:07:32.31,0:07:35.80,Gen_Main,Elymas,0,0,0,,No pienso dejar escapar tan fácilmente\Nun montón de millones.
+Dialogue: 0,0:07:35.90,0:07:38.46,Gen_Main,Elymas,0,0,0,,Creo que te voy a dar\Nuna pequeña lección, Hilde.
+Dialogue: 0,0:07:38.56,0:07:40.99,Gen_Main,Hilde,0,0,0,,Tengo suerte de que seas tan tonto.
+Dialogue: 0,0:07:41.09,0:07:45.74,Gen_Main,Hilde,0,0,0,,Un trabajador del gremio será testigo\Ndel duelo para que no te escabullas.
+Dialogue: 0,0:07:45.84,0:07:47.57,Gen_Main,Hilde,0,0,0,,Más te vale no arrepentirte.
+Dialogue: 0,0:08:02.57,0:08:05.49,Gen_Italics,Elymas/Id,0,0,0,,Hilde debería volver pronto.
+Dialogue: 0,0:08:08.55,0:08:10.02,Gen_Main,Elymas,0,0,0,,¡Escudo vital!
+Dialogue: 0,0:08:08.97,0:08:10.47,Cart_A_Tre,CARTEL,0,0,0,,{\fade(685,1)\c&H68E7FE&\bord1\blur0.5\3c&H6B5176&\b1\an7\pos(355.8,202.2)\be1}Escudo vital      {\fs13\bord2\blur1.5\c&HF0EEE6&\3c&HFAE15E&}[Habilidad común]\NActivarlo cuesta un 20 % de tus PV máximos\NCubre al usuario con un escudo\Ncuya durabilidad son los PV consumidos
+Dialogue: 0,0:08:13.99,0:08:17.88,Gen_Main,Berga,0,0,0,,Chico, ¿qué estás haciendo?
+Dialogue: 0,0:08:17.98,0:08:22.48,Gen_Main,Berga,0,0,0,,¿De qué sirve\Nactivar y desactivar tu habilidad?
+Dialogue: 0,0:08:22.78,0:08:24.26,Gen_Main,Berga,0,0,0,,No lo entiendo.
+Dialogue: 0,0:08:24.73,0:08:26.21,Gen_Main,Elymas,0,0,0,,Estoy controlando mis PV.
+Dialogue: 0,0:08:26.31,0:08:27.99,Gen_Main,Berga,0,0,0,,Eso lo entiendo aún menos.
+Dialogue: 0,0:08:28.42,0:08:30.99,Gen_Main,Ruche,0,0,0,,¿Podrás vencerla, Elymas?
+Dialogue: 0,0:08:31.24,0:08:35.16,Gen_Main,Ruche,0,0,0,,Te la ibas a jugar con tu habilidad\NDragón moribundo desbocado, ¿verdad?
+Dialogue: 0,0:08:36.25,0:08:40.36,Gen_Main,Ruche,0,0,0,,No creo que A vida o muerte\Nte sirva de ayuda en este caso.
+Dialogue: 0,0:08:40.46,0:08:41.50,Gen_Main,Elymas,0,0,0,,Tienes razón.
+Dialogue: 0,0:08:43.07,0:08:45.04,Gen_Main,Elymas,0,0,0,,¡A vida o muerte!
+Dialogue: 0,0:08:57.52,0:09:03.08,Gen_Main,Elymas,0,0,0,,Multiplicar por seis mi ataque\Nsolo serviría para causar daño de más.
+Dialogue: 0,0:09:03.74,0:09:07.90,Gen_Main,Elymas,0,0,0,,Si reduzco mi defensa a cero\Ncontra un rival con ataques a distancia,
+Dialogue: 0,0:09:07.15,0:09:11.03,Cart_A_Tre,CARTEL,0,0,0,,{\b1\blur1\an2\fade(855,1)\c&HFCF5D7&\3c&HF1DF69&\pos(315.2,210)}Defensa: 0
+Dialogue: 0,0:09:08.00,0:09:10.15,Gen_Main,Elymas,0,0,0,,podríamos acabar muriendo los dos.
+Dialogue: 0,0:09:11.52,0:09:15.03,Gen_Main,Elymas,0,0,0,,Los espadachines mágicos son aún peores\Nque los maestros espadachines.
+Dialogue: 0,0:09:15.51,0:09:18.04,Gen_Main,Elymas,0,0,0,,Además de su enorme potencia ofensiva\Ny su esgrima,
+Dialogue: 0,0:09:18.39,0:09:21.43,Gen_Main,Elymas,0,0,0,,tienen ataques de magia prácticos\Nde largo alcance.
+Dialogue: 0,0:09:24.54,0:09:27.96,Gen_Main,Berga,0,0,0,,Aún no es demasiado tarde para largarse.
+Dialogue: 0,0:09:28.06,0:09:29.70,Gen_Main,Elymas,0,0,0,,Pues hay una forma de ganar.
+Dialogue: 0,0:09:30.50,0:09:33.24,Gen_Main,Elymas,0,0,0,,No me gusta nada lo deshonesto que es,
+Dialogue: 0,0:09:33.37,0:09:36.08,Gen_Main,Elymas,0,0,0,,pero los espadachines mágicos\Ntienden a pensar igual.
+Dialogue: 0,0:09:36.24,0:09:39.31,Gen_Main,Ruche,0,0,0,,Qué mueca más malvada…
+Dialogue: 0,0:09:43.02,0:09:45.61,Gen_Main,Hilde,0,0,0,,¡He traído a alguien, caballero pesado!
+Dialogue: 0,0:09:46.43,0:09:49.15,Gen_Main,Hilde,0,0,0,,¡Más te vale que no le hayas hecho nada\Na mi espada!
+Dialogue: 0,0:09:50.49,0:09:53.81,Gen_Main,Matilda,0,0,0,,Me han arrastrado hasta aquí\Npor un "descarado caballero pesado".
+Dialogue: 0,0:09:53.91,0:09:58.50,Gen_Main,Matilda,0,0,0,,Sabía que eran ustedes, Elymas, Ruche.
+Dialogue: 0,0:10:08.25,0:10:10.93,Gen_Main,Hilde,0,0,0,,Empecemos, caballero pesado.
+Dialogue: 0,0:10:13.43,0:10:15.92,Gen_Italics,Elymas/Id,0,0,0,,Una espadachina mágica\Ncontra un caballero pesado.
+Dialogue: 0,0:10:16.69,0:10:19.04,Gen_Italics,Elymas/Id,0,0,0,,Es el peor duelo que me podía tocar.
+Dialogue: 0,0:10:19.14,0:10:22.08,Gen_Italics,Elymas/Id,0,0,0,,Desde media distancia,\Nme irá quitando PV con sus hechizos.
+Dialogue: 0,0:10:22.21,0:10:24.67,Gen_Italics,Elymas/Id,0,0,0,,Si me acerco,\Nme derrotará con su esgrima.
+Dialogue: 0,0:10:26.42,0:10:30.36,Gen_Italics,Elymas/Id,0,0,0,,Aun así, estos espadachines\Ntienden a pensar igual,
+Dialogue: 0,0:10:30.92,0:10:34.66,Gen_Italics,Elymas/Id,0,0,0,,y es probable que Hilde\Nsea un ejemplo clarísimo.
+Dialogue: 0,0:10:47.71,0:10:51.57,Gen_Main,Elymas,0,0,0,,Testigo, me gustaría confirmar una cosa\Nantes de empezar.
+Dialogue: 0,0:10:51.67,0:10:53.55,Gen_Main,Matilda,0,0,0,,¿Qué ocurre, Elymas?
+Dialogue: 0,0:10:53.65,0:10:57.05,Gen_Main,Elymas,0,0,0,,Como vamos a luchar con habilidades,\Npodría pasar lo peor.
+Dialogue: 0,0:10:57.74,0:11:00.51,Gen_Main,Elymas,0,0,0,,¿Y si herimos o matamos al oponente?
+Dialogue: 0,0:11:01.39,0:11:06.10,Gen_Main,Matilda,0,0,0,,Se entiende que, al participar\Nen el duelo, todos aceptan los riesgos.
+Dialogue: 0,0:11:06.20,0:11:09.67,Gen_Main,Matilda,0,0,0,,Eso es lo que sobreentendemos\Ncuando actuamos como testigos.
+Dialogue: 0,0:11:09.77,0:11:12.44,Gen_Main,Matilda,0,0,0,,Si está tan nervioso,\N¿prefiere cancelar el duelo?
+Dialogue: 0,0:11:12.54,0:11:15.31,Gen_Main,Elymas,0,0,0,,No, me alegro\Nde que me lo hayas confirmado.
+Dialogue: 0,0:11:15.41,0:11:17.66,Gen_Main,Elymas,0,0,0,,Empecemos, Hilde.
+Dialogue: 0,0:11:18.87,0:11:21.10,Gen_Main,Hilde,0,0,0,,¿Intentas vacilarme o qué te pasa?
+Dialogue: 0,0:11:21.20,0:11:23.50,Gen_Main,Hilde,0,0,0,,A mí también me parece bien.
+Dialogue: 0,0:11:28.21,0:11:30.03,Gen_Italics,Elymas/Id,0,0,0,,Hay cierta distancia entre nosotros.
+Dialogue: 0,0:11:30.13,0:11:32.88,Gen_Italics,Elymas/Id,0,0,0,,Tiene sentido:\Nsu clase se especializa en magia.
+Dialogue: 0,0:11:35.87,0:11:38.39,Gen_Main,Matilda,0,0,0,,Bien. ¡Que empiece el combate!
+Dialogue: 0,0:11:43.13,0:11:44.65,Gen_Main,Elymas,0,0,0,,¡Escudo vital!
+Dialogue: 0,0:11:43.35,0:11:45.31,Cart_A_Tre,CARTEL,0,0,0,,{\bord0\fnGeorgia\b1\c&HFDFF34&\fade(400,1)\fscx151\fscy151\pos(462.2,17.4)}Escudo\Nvital
+Dialogue: 0,0:12:23.55,0:12:26.14,Gen_Main,Hilde,0,0,0,,¿Qué es eso?\NQué habilidad más rara.
+Dialogue: 0,0:12:42.28,0:12:47.30,Gen_Main,Ruche,0,0,0,,¡Dijiste que esa habilidad\Nera demasiado peligrosa para un duelo!
+Dialogue: 0,0:12:48.12,0:12:50.17,Cart_A_Tre,CARTEL,0,0,0,,{\b1\bord1.5\fade(650,1)\an7\blur0.5\c&H857F9D&\3c&HDDEAFD&\pos(301,280.6)}A vida o muerte      {\fs13\bord2\blur1.5\c&HFFFFF3&\3c&HFAE15E&}[Habilidad común]\NSolo se puede usar si tienes el 50 % o menos de PV.\NReduce la Defensa a cero\Ny suma la Defensa perdida al Ataque.\NConsume PM mientras está activa.
+Dialogue: 0,0:12:51.15,0:12:53.08,Gen_Italics,Hilde/Id,0,0,0,,Otra habilidad misteriosa.
+Dialogue: 0,0:12:53.41,0:12:56.56,Gen_Italics,Hilde/Id,0,0,0,,Y con la reacción de esa tía…
+Dialogue: 0,0:12:57.88,0:12:59.05,Gen_Italics,Hilde/Id,0,0,0,,Por ahora…
+Dialogue: 0,0:13:15.23,0:13:17.32,Gen_Italics,Hilde/Id,0,0,0,,Lo observaré desde lejos.
+Dialogue: 0,0:13:57.22,0:14:00.21,Gen_Main,Elymas,0,0,0,,Vale, no está mal.
+Dialogue: 0,0:14:04.67,0:14:06.20,Gen_Main,Hilde,0,0,0,,¡Un momento!
+Dialogue: 0,0:14:06.30,0:14:08.84,Gen_Main,Hilde,0,0,0,,¡Tiempo muerto! ¡Parad el duelo!
+Dialogue: 0,0:14:09.29,0:14:10.62,Gen_Main,Hilde,0,0,0,,¡Alto!
+Dialogue: 0,0:14:10.94,0:14:11.94,Gen_Main,Hilde,0,0,0,,¡Alto!
+Dialogue: 0,0:14:12.04,0:14:13.85,Gen_Main,Hilde,0,0,0,,¡He tirado el arma!
+Dialogue: 0,0:14:13.95,0:14:15.23,Gen_Main,Hilde,0,0,0,,¿No me oyes o qué?
+Dialogue: 0,0:14:15.33,0:14:16.88,Gen_Main,Hilde,0,0,0,,¡Para de una vez!
+Dialogue: 0,0:14:17.46,0:14:19.39,Gen_Main,Hilde,0,0,0,,¡En serio, para ya!
+Dialogue: 0,0:14:20.16,0:14:23.28,Gen_Main,Hilde,0,0,0,,¡Me rindo! ¡Me doy por vencida!
+Dialogue: 0,0:14:23.38,0:14:26.39,Gen_Main,Hilde,0,0,0,,¡Me rindo! He perdido, ¿vale?
+Dialogue: 0,0:14:27.23,0:14:31.96,Gen_Italics,Elymas/Id,0,0,0,,Los espadachines mágicos\Ntienden a ir a lo seguro.
+Dialogue: 0,0:14:32.82,0:14:38.43,Gen_Italics,Elymas/Id,0,0,0,,Tienen poca resistencia y dependen\Nde habilidades potentes con desventajas.
+Dialogue: 0,0:14:38.88,0:14:42.80,Gen_Italics,Elymas/Id,0,0,0,,Si no saben cuándo retirarse,\Npueden morir fácilmente.
+Dialogue: 0,0:14:42.90,0:14:47.41,Gen_Italics,Elymas/Id,0,0,0,,Estaba convencido de que se rendiría\Nsi seguía amenazándola.
+Dialogue: 0,0:14:48.71,0:14:50.53,Gen_Main,Elymas,0,0,0,,Declara al ganador.
+Dialogue: 0,0:14:50.63,0:14:51.91,Gen_Main,Matilda,0,0,0,,De acuerdo…
+Dialogue: 0,0:14:52.22,0:14:55.10,Gen_Main,Matilda,0,0,0,,¡Vencedor: Elymas!
+Dialogue: 0,0:14:58.18,0:15:00.38,Gen_Main,Hilde,0,0,0,,¿Eh? ¡No me lo puedo creer!
+Dialogue: 0,0:15:00.48,0:15:02.67,Gen_Main,Hilde,0,0,0,,¡Yo solo te dije que pararas!
+Dialogue: 0,0:15:03.01,0:15:07.16,Gen_Main,Hilde,0,0,0,,¡Solo dije que me rendía\Nporque no parabas!
+Dialogue: 0,0:15:07.26,0:15:09.22,Gen_Main,Elymas,0,0,0,,Sea como sea, lo dijiste.
+Dialogue: 0,0:15:09.54,0:15:16.14,Gen_Main,Matilda,0,0,0,,Señorita Hilde, el gremio no admite\Nque ahora se eche hacia atrás
+Dialogue: 0,0:15:16.24,0:15:21.23,Gen_Main,Matilda,0,0,0,,al ver las habilidades de su rival\Ncomo una razón para detener un duelo.
+Dialogue: 0,0:15:21.60,0:15:23.76,Gen_Main,Matilda,0,0,0,,Como se me pidió que fuera testigo,
+Dialogue: 0,0:15:23.86,0:15:28.66,Gen_Main,Matilda,0,0,0,,si no respeta nuestras normas,\Nse tomarán las medidas oportunas.
+Dialogue: 0,0:15:28.76,0:15:31.56,Gen_Main,Hilde,0,0,0,,Eso ya lo sé…
+Dialogue: 0,0:15:31.66,0:15:36.33,Gen_Main,Hilde,0,0,0,,No soy tan mezquina.\NNo me echaría atrás ahora en un duelo.
+Dialogue: 0,0:15:36.66,0:15:40.50,Gen_Main,Hilde,0,0,0,,¡Escúchame, Elymas!\NTe dije que pararas.
+Dialogue: 0,0:15:40.82,0:15:45.51,Gen_Main,Hilde,0,0,0,,Teniendo esto en cuenta,\N¿aceptarías 20 millones de monedas?
+Dialogue: 0,0:15:47.77,0:15:50.26,Gen_Main,Hilde,0,0,0,,30 millones es un poquito demasiado…
+Dialogue: 0,0:15:50.72,0:15:51.72,Gen_Main,Elymas,0,0,0,,No.
+Dialogue: 0,0:15:51.82,0:15:55.39,Gen_Main,Ruche,0,0,0,,Qué cutre. Aunque lo entiendo.
+Dialogue: 0,0:15:55.66,0:16:00.40,Gen_Main,Hilde,0,0,0,,¡Es que realmente necesitaba un arma\Nadecuada para mi nivel!
+Dialogue: 0,0:16:00.71,0:16:02.95,Gen_Main,Hilde,0,0,0,,El crecimiento de un aventurero\Nde rango alto
+Dialogue: 0,0:16:03.05,0:16:07.05,Gen_Main,Hilde,0,0,0,,puede salvar ciudades de una crisis\Ny reducir los daños de monstruos.
+Dialogue: 0,0:16:07.15,0:16:10.18,Gen_Main,Hilde,0,0,0,,Reconozco que mis métodos eran erróneos.
+Dialogue: 0,0:16:10.28,0:16:12.99,Gen_Main,Hilde,0,0,0,,Nunca volveré a hacer algo así.
+Dialogue: 0,0:16:13.34,0:16:14.64,Gen_Main,Elymas,0,0,0,,Si lo entiendes, vale.
+Dialogue: 0,0:16:15.83,0:16:19.50,Gen_Main,Hilde,0,0,0,,Entonces, ¿estarías dispuesto a aceptar\N20 millones de monedas de oro?
+Dialogue: 0,0:16:19.96,0:16:21.00,Gen_Main,Elymas,0,0,0,,He dicho que no.
+Dialogue: 0,0:16:25.97,0:16:28.19,Gen_Main,Berga,0,0,0,,Oye, chico…
+Dialogue: 0,0:16:30.22,0:16:33.34,Gen_Main,Berga,0,0,0,,No sabía muy bien si decir esto ahora,
+Dialogue: 0,0:16:33.44,0:16:38.00,Gen_Main,Berga,0,0,0,,pero el precio de mercado de esta espada\Nno es de 30 millones de monedas de oro.
+Dialogue: 0,0:16:39.27,0:16:40.69,Gen_Main,Elymas,0,0,0,,¿En serio?
+Dialogue: 0,0:16:40.79,0:16:43.36,Gen_Main,Hilde,0,0,0,,¿Es una falsificación?
+Dialogue: 0,0:16:44.70,0:16:48.86,Gen_Main,Hilde,0,0,0,,Aposté el precio de mercado\Nde esa espada.
+Dialogue: 0,0:16:50.10,0:16:52.27,Gen_Main,Hilde,0,0,0,,Me has hecho asustarme para nada.
+Dialogue: 0,0:16:52.37,0:16:56.37,Gen_Main,Berga,0,0,0,,Podéis comprobarlo vosotros mismos.
+Dialogue: 0,0:16:56.58,0:17:09.38,Cart_A_Tre,CARTEL,0,0,0,,{\b1\bord1.5\blur0.5\fade(1050,1)\c&H443672&\an7\3c&HADCAE8&\pos(303.2,74.8)\be1}Espada de mitrilo   {\fs13\bord2\blur1\3c&HAE893F&\c&HFFFED5&}(Nivel recomendado: 70)\NAtaque: +46\NPrecio de mercado: 51 500 000 monedas de oro\NEspada mágica que brilla intensamente con maná\NLleva incrustada una runa de destrucción
+Dialogue: 0,0:16:57.03,0:16:58.27,Gen_Italics,Voz del sistema,0,0,0,,Espada de mitrilo.
+Dialogue: 0,0:16:58.37,0:17:00.77,Gen_Italics,Voz del sistema,0,0,0,,Ataque: +46.
+Dialogue: 0,0:17:00.87,0:17:03.99,Gen_Italics,Voz del sistema,0,0,0,,Precio de mercado:\N51,5 millones de monedas de oro.
+Dialogue: 0,0:17:04.09,0:17:06.91,Gen_Italics,Voz del sistema,0,0,0,,Espada mágica\Nque brilla intensamente con maná.
+Dialogue: 0,0:17:07.01,0:17:09.38,Gen_Italics,Voz del sistema,0,0,0,,Lleva incrustada\Nuna runa de destrucción.
+Dialogue: 0,0:17:10.23,0:17:14.54,Gen_Main,Hilde,0,0,0,,¿51,5 millones de monedas de oro?
+Dialogue: 0,0:17:14.64,0:17:18.05,Gen_Main,Elymas,0,0,0,,Ya veo. Se me había olvidado\Nincluir el valor de la runa.
+Dialogue: 0,0:17:18.15,0:17:19.94,Gen_Main,Elymas,0,0,0,,Qué descuidado por mi parte.
+Dialogue: 0,0:17:20.04,0:17:21.04,Gen_Main,Elymas,0,0,0,,Hilde.
+Dialogue: 0,0:17:21.29,0:17:24.69,Gen_Main,Elymas,0,0,0,,El precio de mercado\Nes de 51,5 millones de monedas de oro.
+Dialogue: 0,0:17:25.06,0:17:28.03,Gen_Main,Hilde,0,0,0,,¡A la mierda con esto!\N¡No me lo puedo permitir!
+Dialogue: 0,0:17:28.47,0:17:31.40,Gen_Main,Hilde,0,0,0,,¡No puedes esperar que acepte eso!
+Dialogue: 0,0:17:31.67,0:17:35.81,Gen_Main,Hilde,0,0,0,,¡Te lo ruego, al menos baja el precio\Na 40 millones de monedas de oro!
+Dialogue: 0,0:17:35.91,0:17:39.91,Gen_Main,Elymas,0,0,0,,¿No puedes decidirte\Nentre gritarme o agachar la cabeza?
+Dialogue: 0,0:17:36.35,0:17:39.91,Gen_Main_Up,Hilde,0,0,0,,¡Piedad, piedad!
+Dialogue: 0,0:17:40.30,0:17:43.26,Gen_Main_Up,Hilde,0,0,0,,¡Piedad, piedad!
+Dialogue: 0,0:17:40.48,0:17:43.83,Gen_Main,Ruche,0,0,0,,Empiezo a sentir lástima por ella…
+Dialogue: 0,0:17:43.93,0:17:45.17,Gen_Main,Elymas,0,0,0,,Yo también.
+Dialogue: 0,0:17:45.49,0:17:50.92,Gen_Main,Elymas,0,0,0,,Francamente, acepté el duelo\Nprincipalmente para darle una lección.
+Dialogue: 0,0:17:46.07,0:17:50.92,Gen_Main_Up,Hilde,0,0,0,,¡Piedad, por favor!
+Dialogue: 0,0:17:52.29,0:17:56.04,Gen_Main,Elymas,0,0,0,,Te descontaré un millón y medio\Ny aceptaré 50 millones.
+Dialogue: 0,0:18:12.99,0:18:17.58,Gen_Main,Matilda,0,0,0,,Ofrecemos préstamos\Na aventureros de rango B.
+Dialogue: 0,0:19:05.33,0:19:06.79,Gen_Main,Matilda,0,0,0,,Elymas, ¿verdad?
+Dialogue: 0,0:19:06.89,0:19:13.09,Gen_Main,Matilda,0,0,0,,Tras su último duelo ha recibido un pago\Nde 50 millones de la señorita Hilde.
+Dialogue: 0,0:19:13.45,0:19:15.26,Gen_Main,Elymas,0,0,0,,¿De verdad consiguió el dinero?
+Dialogue: 0,0:19:15.36,0:19:17.39,Gen_Main,Elymas,0,0,0,,Solo han pasado dos días.
+Dialogue: 0,0:19:17.69,0:19:21.26,Gen_Main,Matilda,0,0,0,,Estamos acostumbrados a resolver\Ndesacuerdos entre aventureros.
+Dialogue: 0,0:19:21.66,0:19:24.12,Gen_Main,Matilda,0,0,0,,Si el gremio se lo propone…
+Dialogue: 0,0:19:25.53,0:19:29.15,Gen_Main,Hilde,0,0,0,,¿Y qué tal 40 millones…?\NNo, ¿45 millones?
+Dialogue: 0,0:19:31.15,0:19:35.40,Gen_Main,Hilde,0,0,0,,¡Vale, 50 millones!\N¡Pagaré los 50 millones!
+Dialogue: 0,0:19:40.33,0:19:42.85,Gen_Main,Hilde,0,0,0,,¡Ahí estáis, cabrones!
+Dialogue: 0,0:19:42.95,0:19:47.21,Gen_Main,Hilde,0,0,0,,¡Devolvedme los 50 millones\Nque me habéis robado!
+Dialogue: 0,0:19:51.22,0:19:53.54,Gen_Main,Elymas,0,0,0,,Ya veo. Vendiste tu arma.
+Dialogue: 0,0:19:53.64,0:19:55.70,Gen_Main,Elymas; Ruche,0,0,0,,-¡Corre, Ruche!\N-¡Vale!
+Dialogue: 0,0:19:57.64,0:19:58.68,Gen_Main,Hilde,0,0,0,,¡No escaparéis!
+Dialogue: 0,0:20:05.23,0:20:06.23,Gen_Main,Carlos,0,0,0,,Hilde.
+Dialogue: 0,0:20:16.89,0:20:19.20,Gen_Main,Carlos,0,0,0,,¿Ese es el caballero pesado?
+Dialogue: 0,0:20:31.38,0:20:34.32,Gen_Italics,Elymas/Id,0,0,0,,Este aura…\NEsta sensación tan intensa…
+Dialogue: 0,0:20:39.01,0:20:44.01,Gen_Italics,Elymas/Id,0,0,0,,Debe de ser el auténtico\NFilo Ígneo Negro.
+Dialogue: 0,0:20:49.88,0:20:52.02,Gen_Main,Hilde,0,0,0,,¡Son ellos, maestro!
+Dialogue: 0,0:20:52.39,0:20:56.92,Gen_Main,Hilde,0,0,0,,¡Me robaron el dinero\Ncon una sarta de triquiñuelas!
+Dialogue: 0,0:21:03.79,0:21:04.92,Gen_Italics,Elymas/Id,0,0,0,,Ya me lo imaginaba.
+Dialogue: 0,0:21:06.55,0:21:08.13,Gen_Main,Carlos,0,0,0,,Soy un espadachín mágico.
+Dialogue: 0,0:21:09.09,0:21:11.32,Gen_Main,Carlos,0,0,0,,Soy aventurero de rango A.\NMe llamo Carlos.
+Dialogue: 0,0:21:12.60,0:21:16.71,Gen_Main,Carlos,0,0,0,,Tenía ganas de conocerte\Ndesde que Hilde me habló de ti.
+Dialogue: 0,0:21:21.80,0:21:23.72,Gen_Main,Carlos,0,0,0,,Elymas, el caballero pesado.
+Dialogue: 0,0:23:07.03,0:23:10.03,Cart_A_Tre,CARTEL,0,0,0,,Traducción y edición: Álvaro Jimeno\NControl de calidad: Jana Pardo
+Dialogue: 0,0:23:11.45,0:23:15.70,Gen_Italics,Elymas/Na,0,0,0,,Carlos, el espadachín mágico,\Napareció ante nosotros.
+Dialogue: 0,0:23:15.80,0:23:19.76,Gen_Italics,Elymas/Na,0,0,0,,Es el maestro de Hilde y un aventurero\Nde rango A de Lacoryna.
+Dialogue: 0,0:23:20.38,0:23:22.80,Gen_Italics,Elymas/Na,0,0,0,,También conocido\Ncomo el Filo Ígneo Negro.
+Dialogue: 0,0:23:23.75,0:23:27.72,Gen_Italics,Elymas/Na,0,0,0,,Creía que Carlos había venido por Hilde,
+Dialogue: 0,0:23:27.82,0:23:32.52,Gen_Italics,Elymas/Na,0,0,0,,pero nos dio algo mucho más importante:\Nuna tarea que no podemos eludir.
+Dialogue: 0,0:23:33.19,0:23:35.44,Gen_Italics,Elymas/Na,0,0,0,,Próximamente:\NEl Filo Ígneo Negro.
+Dialogue: 0,0:23:35.98,0:23:38.86,Gen_Italics,Elymas/Na,0,0,0,,Nuestra mayor batalla\Nestá a punto de comenzar.
+
