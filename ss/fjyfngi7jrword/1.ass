@@ -1,0 +1,505 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: sign_Arial,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_ArialBlack,Arial Black,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_CourierNew,Courier New,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_ComicSansMS,Comic Sans MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Georgia,Georgia,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Impact,Impact,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_TimesNewRoman,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_TrebuchetMS,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Verdana,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.98,sign_Arial,text (top section),0,0,0,,{\an8\c&HCECECE&\bord0\shad0\fs12\pos(321,94)}This is a work of fiction.
+Dialogue: 0,0:00:00.00,0:00:04.98,sign_Arial,text (2nd section),0,0,0,,{\an8\c&HCECECE&\bord0\shad0\fs12\pos(319,142)\q2}Forex (foreign exchange margin trading) is a high-risk venture, and it's possible for losses to exceed margin payments.
+Dialogue: 0,0:00:00.00,0:00:04.98,sign_Arial,text (3rd section),0,0,0,,{\an8\c&HCECECE&\bord0\shad0\fs11\q2\pos(316,193)}There is a risk that excessive trading can interfere with one's daily life, so please think it over carefully and proceed with caution.
+Dialogue: 0,0:00:00.00,0:00:04.98,sign_Arial,text (4th section),0,0,0,,{\an8\c&HCECECE&\bord5\shad0\fs8\q2\pos(318,242)}The story contains depictions of foreign forex brokers and high-leverage transactions not in accordance with Japanese law,\N but there is risk involved in trading with parties not registered with the Financial Services Agency. Please do not attempt it.
+Dialogue: 0,0:00:00.00,0:00:04.98,sign_Arial,text (bottom section),0,0,0,,{\an8\c&HCECECE&\bord5\shad0\fs8\q2\pos(316,309)}Furthermore, when actually engaging in trading, read all pre-contractual documentation carefully.\N Once you understand the contents therein, please be aware that engaging in forex trading is your own decision, and you assume total responsibility.
+Dialogue: 0,0:00:07.24,0:00:09.57,sign_Arial,text (top line),0,0,0,,{\pos(365,65)\3c&H6526EA&\shad0\fs8}Unveiling of New Terminals Postponed - Supply Chain Delays Could Be the Cause
+Dialogue: 0,0:00:07.24,0:00:09.57,sign_Arial,text (2nd line),0,0,0,,{\3c&H6526EA&\shad0\fs8\pos(366,107)}Popular Chain Reduces Late Night Hours - Labor Shortage Intensifies
+Dialogue: 0,0:00:07.24,0:00:09.57,italics,newscaster,0,0,0,,We now move on to our next segment.
+Dialogue: 0,0:00:09.57,0:00:11.57,italics,hostess,0,0,0,,It's your morning zodiac rankings!
+Dialogue: 0,0:00:11.57,0:00:13.83,italics,hostess,0,0,0,,Today's best luck belongs to...
+Dialogue: 0,0:00:13.83,0:00:15.77,italics,hostess,0,0,0,,all you Pisces!
+Dialogue: 0,0:00:15.77,0:00:17.29,main,Mebuki,0,0,0,,Me, huh?
+Dialogue: 0,0:00:17.29,0:00:23.29,sign_Verdana,text (blue),0,0,0,,{\an8\3c&HFBA858&\shad0\fs30\bord4}Today's 12 Zodiac Rankings
+Dialogue: 0,0:00:17.29,0:00:23.29,sign_Verdana,text (gold),0,0,0,,{\pos(144,115)\c&H4F9BB3&\3c&HFFFFFF&\bord4\shad0f\fs25}1st Place: Pisces
+Dialogue: 0,0:00:17.29,0:00:23.29,sign_Verdana,text (2nd),0,0,0,,{\an9\i1\c&HF8CCDD&\3c&H995D65&\bord3\shad0\pos(602,93)\fs15}2nd Place: Taurus\N 3rd Place: Gemini\N 4th Place: Leo\N 5th Place: Cancer\N 6th Place: Scorpio\N 7th Place: Aries\N 8th Place: Virgo\N 9th Place: Capricorn\N 10th Place: Libra\N 11th Place: Sagittarius\N{\c&HC69098&\3c&H832827&} 12th Place: Aquarius
+Dialogue: 1,0:00:17.29,0:00:20.25,italics,hostess,0,0,0,,I think there's a big \Nopportunity coming your way!
+Dialogue: 0,0:00:20.25,0:00:23.29,italics,hostess,0,0,0,,Your lucky item is... a bracelet!
+Dialogue: 0,0:00:23.72,0:00:26.15,main,Mebuki,0,0,0,,Bracelet, my butt.
+Dialogue: 0,0:00:27.92,0:00:30.71,main,Mebuki,0,0,0,,At this point, I'll rely on anything.
+Dialogue: 0,0:00:31.11,0:00:35.43,main,,0,0,0,,Time to begin Operation: Living \NExpenses Full Power Deposit!
+Dialogue: 0,0:00:36.06,0:00:40.06,sign_Arial,text (left side),0,0,0,,{\c&H4E4B54&\3c&HF6F6F6&\shad0\bord4\frz32.01\pos(74,147)}Deposit
+Dialogue: 0,0:00:36.06,0:00:40.06,sign_Arial,text (right side; next to slider),0,0,0,,{\c&H494552&\bord0\shad0\fs15\pos(500,125)\frx38\fry356}Post-Trade Balance
+Dialogue: 0,0:00:36.06,0:00:40.06,sign_Arial,text (right side; bottom left),0,0,0,,{\c&H39363F&\bord0\shad0\fs15\frx34\fry344\pos(340,224)}Foreign Account
+Dialogue: 0,0:00:36.06,0:00:40.06,sign_Arial,text (right side; bottom right),0,0,0,,{\c&H383341&\bord0\shad0\frx44\fry354\pos(593,222)}yen
+Dialogue: 0,0:00:36.06,0:00:40.06,italics,Mebuki,0,0,0,,I'll deposit all my monthly \Nstudent aid into my forex account.
+Dialogue: 0,0:00:40.49,0:00:43.81,italics,Mebuki,0,0,0,,That'll raise my dead line, \Nand I'll be able to survive!
+Dialogue: 0,0:00:44.09,0:00:45.87,italics,Mebuki,0,0,0,,I can get by on one meal a day!
+Dialogue: 0,0:00:45.87,0:00:48.69,italics,Mebuki,0,0,0,,As long as I have tap water \Nand bread crusts, I'll be fine.
+Dialogue: 0,0:00:48.69,0:00:53.32,sign_Arial,text (red boxes),0,0,0,,{\an7\3c&H06003C&\bord4}Ramen\N{\c&H3A4D58&\3c&H043850&}Sukiyaki Fixings\N{\c&H251828&\3c&H605C63&} Seafood Gratin\N{\c&H76676B&\3c&H0D2450&} Spring Curry\N{\c&H6B6370&\3c&H363C67&}Curry
+Dialogue: 0,0:00:48.69,0:00:53.32,italics,Mebuki,0,0,0,,If I mix in the food they sometimes \Nsend from home, that'll cover nutrition!
+Dialogue: 0,0:00:53.32,0:00:55.58,italics,Mebuki,0,0,0,,It's an iron wall defense.
+Dialogue: 0,0:00:59.44,0:01:00.47,main,Mebuki,0,0,0,,Yay!
+Dialogue: 0,0:00:59.71,0:01:04.46,sign_TimesNewRoman,text,0,0,0,,{\an8\fs40\c&H444D54&\bord0\shad0}Iron wall
+Dialogue: 0,0:01:00.47,0:01:04.46,italics,Mebuki,0,0,0,,It's a surefire way to win, so \Nlong as I'm not force-liquidated.
+Dialogue: 0,0:01:05.04,0:01:08.01,italics,Mebuki,0,0,0,,{\i0}This{\i1} is my unbeatable plan!
+Dialogue: 0,0:02:42.07,0:02:44.44,main,Mebuki,0,0,0,,This strategy was supposed to work.
+Dialogue: 0,0:02:44.44,0:02:46.50,main,Mebuki,0,0,0,,It really was.
+Dialogue: 0,0:02:46.50,0:02:48.68,main,Mebuki,0,0,0,,I thought I'd made it foolproof.
+Dialogue: 0,0:02:49.19,0:02:51.94,main,Mebuki,0,0,0,,Oh no, I'm doomed.
+Dialogue: 0,0:02:51.94,0:02:56.45,sign_Arial,text (right),0,0,0,,{\an8\3c&H77904D&\shad0\frz-9.6\pos(500,101)\c&HBABFAD&\bord0\fs12}Account Balance
+Dialogue: 0,0:02:51.94,0:02:54.44,italics,Mebuki,0,0,0,,Even if I deposit a hundred \Nthousand yen each month,
+Dialogue: 0,0:02:54.44,0:02:56.45,italics,Mebuki,0,0,0,,I can only extend my life by 0.5 yen.
+Dialogue: 0,0:02:56.80,0:03:00.62,italics,Mebuki,0,0,0,,But it's already gone up \Nnearly four yen in two weeks.
+Dialogue: 0,0:03:00.62,0:03:03.51,italics,Mebuki,0,0,0,,At this pace, the deposits won't keep up!
+Dialogue: 0,0:03:03.51,0:03:05.60,italics,Mebuki,0,0,0,,I don't have enough money at all!
+Dialogue: 0,0:03:06.14,0:03:07.50,italics,Mebuki,0,0,0,,I'm screwed!
+Dialogue: 0,0:03:16.68,0:03:20.19,main,Mebuki,0,0,0,,Ten yen... No, one yen apiece \Nwould be enough.
+Dialogue: 0,0:03:20.19,0:03:24.04,main,Mebuki,0,0,0,,If everyone in Japan donated \Nthat much, I'd get through this.
+Dialogue: 0,0:03:24.97,0:03:27.77,main,Mebuki,0,0,0,,Why can't you do that in this country?!
+Dialogue: 0,0:03:31.19,0:03:33.69,sign_Arial,text (green),0,0,0,,{\an1\c&H6C8A79&\bord0\shad0\move(100,59,100,44,1,146)\fad(146,1)}Incoming Message
+Dialogue: 0,0:03:31.19,0:03:33.69,sign_Arial,text (white),0,0,0,,{\an1\fs12\move(170,145,170,135,1,146)\c&H6C8A79&\bord0\shad0\fad(146,1)}Long time no talk!\NSchool starts soon, but before that, you want to hang out\Nand compare notes on where we are so far with the Forex Investment(?) Battle?
+Dialogue: 0,0:03:38.42,0:03:41.41,main,Yasuko,0,0,0,,Oh, these? I came up with them.
+Dialogue: 0,0:03:41.75,0:03:45.03,main,Kurumi,0,0,0,,Wow, you made those \Nbarrettes yourself too!
+Dialogue: 0,0:03:45.03,0:03:46.10,main,Yasuko,0,0,0,,Yeah.
+Dialogue: 0,0:03:46.10,0:03:50.50,main,Yasuko,0,0,0,,I even tried selling them online, \Nbut that went nowhere.
+Dialogue: 0,0:03:50.50,0:03:54.25,main,Mochiko,0,0,0,,How do you expect to sell merch \Nwhen there's no brand strength?
+Dialogue: 0,0:03:54.25,0:03:55.74,main,Yasuko,0,0,0,,You got that right.
+Dialogue: 0,0:03:55.74,0:03:58.80,main,Yasuko,0,0,0,,That's why I've decided \Nto try drawing manga next time.
+Dialogue: 0,0:03:58.80,0:04:00.70,main,Yasuko,0,0,0,,I'll make it more popular on social media,
+Dialogue: 0,0:04:00.70,0:04:02.76,main,Yasuko,0,0,0,,and maybe sell it at COMITIA.
+Dialogue: 0,0:04:02.76,0:04:05.10,main,Mochiko,0,0,0,,Hmm, well, sounds like \Nit'd be worth a try.
+Dialogue: 0,0:04:05.10,0:04:09.23,sign_Arial,text (green; left),0,0,0,,{\an4\c&H231D43&\3c&H3D4B3C&\shad0}Duck Onion Ramen\N {\c&H1E1115&\3c&HA18489&}Seafood Gratin\N {\c&H110A10&\3c&H3E4370&}Sukiyaki Fixings
+Dialogue: 0,0:04:05.37,0:04:09.23,italics,Mebuki,0,0,0,,Normally, at a time like this, \NI'd offer some sweets, too.
+Dialogue: 0,0:04:05.37,0:04:08.82,top,Kurumi,0,0,0,,Oh, yeah, I'm sure you \Ncan do it, Yasuko-chan.
+Dialogue: 0,0:04:08.82,0:04:12.15,top,Yasuko,0,0,0,,Hey, thanks! Sure, I'll give it a shot!
+Dialogue: 0,0:04:09.23,0:04:13.36,italics,Mebuki,0,0,0,,But nope! Sorry, \Nit's all my emergency food!
+Dialogue: 0,0:04:15.73,0:04:17.44,main,Mebuki,0,0,0,,Here's tea for everyone.
+Dialogue: 0,0:04:17.44,0:04:18.66,main,Kurumi,0,0,0,,Thank you.
+Dialogue: 0,0:04:18.66,0:04:20.82,main,Yasuko,0,0,0,,I was waiting for this!
+Dialogue: 0,0:04:25.95,0:04:27.70,italics,Mebuki (to herself),0,0,0,,Think again, Yasuko-chan.
+Dialogue: 0,0:04:27.70,0:04:31.35,italics,Mebuki (to herself),0,0,0,,You better not expect sweets \Nevery time you come here!
+Dialogue: 0,0:04:31.73,0:04:33.88,main,Kurumi,0,0,0,,Let's get down to business, then.
+Dialogue: 0,0:04:33.96,0:04:37.63,sign_ComicSansMS,text (upper left),0,0,0,,{\an7\c&H363636&\3c&HFCFAFA&\shad0\bord4\fs15}giraffe\N{\c&HCB182F&\fs20} Investment Battle Rules\N{\c&H514F4F&\gs15} by Kurumi
+Dialogue: 0,0:04:33.88,0:04:34.98,main,Kurumi,0,0,0,,Ta-dah!
+Dialogue: 0,0:04:34.98,0:04:37.63,main,Kurumi,0,0,0,,I made some rules \Nfor the investor battle!
+Dialogue: 0,0:04:37.63,0:04:38.80,main,Kurumi,0,0,0,,What do you think?
+Dialogue: 0,0:04:38.80,0:04:41.33,main,Mochiko,0,0,0,,It's true, we never really settled on any.
+Dialogue: 0,0:04:41.33,0:04:44.20,main,Yasuko,0,0,0,,Mebuki, you need to hear this too.
+Dialogue: 0,0:04:44.20,0:04:46.22,italics,Mebuki,0,0,0,,I've got no time for that.
+Dialogue: 0,0:04:46.22,0:04:48.10,main,Kurumi,0,0,0,,It's just simple agreements.
+Dialogue: 0,0:04:48.10,0:04:51.56,sign_ComicSansMS,text (upper left),0,0,0,,{\pos(86,37)\shad0\c&H414141&\3c&HFFFFFF&}giraffe
+Dialogue: 0,0:04:48.10,0:04:51.56,sign_ComicSansMS,text (blue),0,0,0,,{\an7\shad0\c&HEE2D42&\3c&HFAFAFA&\bord4\pos(226,195)}Investment Battle Rules
+Dialogue: 0,0:04:48.10,0:04:51.56,sign_ComicSansMS,text (under blue),0,0,0,,{\pos(444,230)\c&H171717&\3c&HCFCFCF&\shad0}by Kurumi
+Dialogue: 0,0:04:48.10,0:04:51.56,sign_ComicSansMS,text (1),0,0,0,,{\an1\fs15\pos(138,258)\c&H161616&\shad0\bord0}Starting now in September, until 12/25.
+Dialogue: 0,0:04:48.10,0:04:49.73,main,Kurumi,0,0,0,, Number one, the term!
+Dialogue: 0,0:04:49.73,0:04:51.56,main,Kurumi,0,0,0,,Until this upcoming Christmas.
+Dialogue: 0,0:04:51.83,0:04:53.48,main,,0,0,0,,Number two, the outcome.
+Dialogue: 0,0:04:53.48,0:04:58.11,sign_ComicSansMS,text (top),0,0,0,,{\an7\c&H191718&\3c&HFFFFFF&\fs15\shad0\pos(368,64)}Outcome: Not a competition of total money,\N but of rate of increase
+Dialogue: 0,0:04:53.48,0:04:58.11,sign_ComicSansMS,text (list left; 1st),0,0,0,,{\an1\bord0\shad0\c&H3E3D3E&\pos(71,198)}Yasuko
+Dialogue: 0,0:04:53.48,0:04:58.11,sign_ComicSansMS,text (list right; 1st),0,0,0,,{\an8\c&H464654&\3c&H9A9DB7&\shad0\pos(544,220)}1st place
+Dialogue: 0,0:04:53.48,0:04:58.11,sign_ComicSansMS,text (list left; 2nd),0,0,0,,{\an1\bord0\shad0\c&H3E3D3E&\pos(70,238)}Kurumi
+Dialogue: 0,0:04:53.48,0:04:58.11,sign_ComicSansMS,text (list right; 2nd),0,0,0,,{\bord0\shad0\c&H262325&\pos(454,220)}4th place
+Dialogue: 0,0:04:53.48,0:04:58.11,sign_ComicSansMS,text (list left; 3rd),0,0,0,,{\an1\bord0\shad0\c&H3E3D3E&\pos(65,279)}Mebuki
+Dialogue: 0,0:04:53.48,0:04:58.11,sign_ComicSansMS,text (list right; 3rd),0,0,0,,{\bord0\shad0\c&H262325&\pos(460,252)}3rd place
+Dialogue: 0,0:04:53.48,0:04:58.11,sign_ComicSansMS,text (list left; 4th),0,0,0,,{\an1\bord0\shad0\c&H3E3D3E&\pos(69,321)}Mochiko
+Dialogue: 0,0:04:53.48,0:04:58.11,sign_ComicSansMS,text (list right; 4th),0,0,0,,{\an8\c&H464654&\3c&H9A9DB7&\shad0\pos(503,300)}2nd place
+Dialogue: 0,0:04:53.48,0:04:55.88,main,Kurumi,0,0,0,,We'll compete based on what percentage \Nyour forex account increases
+Dialogue: 0,0:04:55.88,0:04:58.11,main,Kurumi,0,0,0,,from the starting point.
+Dialogue: 0,0:04:58.11,0:05:01.79,main,Kurumi,0,0,0,,Then, whoever wins the most can \Ntreat the rest of us to a meal.
+Dialogue: 0,0:05:01.79,0:05:02.75,main,Kurumi,0,0,0,,Yay!
+Dialogue: 0,0:05:02.75,0:05:04.26,main,Yasuko,0,0,0,,You mean, any kind of food?!
+Dialogue: 0,0:05:04.26,0:05:06.01,main,Yasuko,0,0,0,,Even ramen topped with roast pork?!
+Dialogue: 0,0:05:06.01,0:05:07.77,main,Yasuko,0,0,0,,Or fancy seafood?!
+Dialogue: 0,0:05:07.77,0:05:09.31,main,Kurumi,0,0,0,,Yep, anything.
+Dialogue: 0,0:05:09.31,0:05:10.96,main,Yasuko,0,0,0,,You hear that, Mebuki?!
+Dialogue: 0,0:05:10.96,0:05:13.44,main,Yasuko,0,0,0,,We get to eat on someone else's tab!
+Dialogue: 0,0:05:13.44,0:05:15.71,main,Mebuki,0,0,0,,Yeah, sounds good.
+Dialogue: 0,0:05:15.71,0:05:18.09,sign_Arial,text (top line),0,0,0,,{\an4\shad0\bord0\frz-10.5\pos(225,55)\fax-0.02\fs15}Balance:
+Dialogue: 0,0:05:15.71,0:05:18.09,sign_Arial,text (2nd line),0,0,0,,{\an4\shad0\bord0\frz-10.5\fax-0.02\pos(255,81)\fs15}Equity:
+Dialogue: 0,0:05:15.71,0:05:18.09,sign_Arial,text (3rd line),0,0,0,,{\an4\shad0\bord0\frz-10.5\fax-0.02\pos(230,97)\fs15}Margin:
+Dialogue: 0,0:05:15.71,0:05:18.09,sign_Arial,text (4th line),0,0,0,,{\an4\shad0\bord0\frz-10.5\fax-0.02\pos(248,120)\fs15}Free Margin
+Dialogue: 0,0:05:15.71,0:05:18.09,sign_Arial,text (5th line),0,0,0,,{\an4\shad0\bord0\frz-10.5\fax-0.02\pos(286,148)\fs15}Margin Level (%)
+Dialogue: 0,0:05:15.71,0:05:18.09,sign_Arial,text (6th line),0,0,0,,{\an4\shad0\bord0\frz-10.5\fax-0.02\fs15\pos(171,145)}Position
+Dialogue: 0,0:05:15.71,0:05:18.09,italics,Mebuki,0,0,0,,Negative 550,000 yen...
+Dialogue: 0,0:05:18.40,0:05:22.34,italics,Mebuki,0,0,0,,If this goes up another yen, \NI'll lose 700,000!
+Dialogue: 0,0:05:22.34,0:05:24.60,italics,Mebuki,0,0,0,,It'll take more than \Nfree food to recoup that!
+Dialogue: 0,0:05:24.98,0:05:27.55,italics,Mebuki,0,0,0,,And why are they all \Nhaving such a good time?
+Dialogue: 0,0:05:27.55,0:05:30.06,italics,Mebuki,0,0,0,,Am I the only one losing?!
+Dialogue: 0,0:05:30.06,0:05:32.19,sign_ComicSansMS,text (top),0,0,0,,{\an7\c&H4C4A4B&\3c&HF4F3F5&\shad0}Outcome: Not a competition of total money,\N but of rate of increase\N Yasuko: {\c&H434047&\3c&HD5D7ED&}1st place\N{\c&H4C4A4B&\3c&HF4F3F5&}Kurumi: 4th place\N Mebuki: 3rd place\N Mochiko: {\c&H434047&\3c&HD5D7ED&}2nd place
+Dialogue: 0,0:05:30.06,0:05:32.19,main,Kurumi,0,0,0,,Okay, that decides the rules.
+Dialogue: 0,0:05:32.19,0:05:34.79,main,Kurumi,0,0,0,,If you win, you buy food for everyone.
+Dialogue: 0,0:05:34.79,0:05:37.41,main,Yasuko,0,0,0,,No worries. I'm losing.
+Dialogue: 0,0:05:37.41,0:05:38.82,italics,Mebuki,0,0,0,,Yasuko-chan is too?
+Dialogue: 0,0:05:39.30,0:05:42.17,main,Yasuko,0,0,0,,I'm at -7% from the start.
+Dialogue: 0,0:05:39.44,0:05:45.41,sign_Georgia,text (top),0,0,0,,{\fad(482,1)\an8}Forex account balance\N 71,052 yen (7.2% decrease)\N (Starting point: 76,573 yen)
+Dialogue: 0,0:05:42.74,0:05:44.67,main,Yasuko,0,0,0,,I've lost five thousand yen.
+Dialogue: 0,0:05:44.67,0:05:46.91,main,Yasuko,0,0,0,,I seriously can't win at forex.
+Dialogue: 0,0:05:46.91,0:05:49.15,italics,Mebuki,0,0,0,,What a tiny-ass amount!
+Dialogue: 0,0:05:49.15,0:05:51.33,italics,Mebuki,0,0,0,,It's practically a win!
+Dialogue: 0,0:05:51.65,0:05:54.10,main,Mochiko,0,0,0,,In that case, I'm losing the most.
+Dialogue: 0,0:05:54.10,0:05:55.77,italics,Mebuki,0,0,0,,Mochiko-senpai is?!
+Dialogue: 0,0:05:56.36,0:06:00.79,top,Mochiko,0,0,0,,I'm down 10% from the start. \NI've lost 1,200,000 yen.
+Dialogue: 0,0:05:56.50,0:06:01.55,sign_Georgia,text (top),0,0,0,,{\fad(482,481)\pos(444,224)}Forex account balance\N 13,302,630 yen (10.7% increase)\N (Starting point: 12,014,110 yen)
+Dialogue: 0,0:06:02.15,0:06:04.84,italics,Mochiko,0,0,0,,There's no point \Nin being honest about this.
+Dialogue: 0,0:06:04.84,0:06:07.97,main,Kurumi,0,0,0,,Huh? Weren't you winning \Nuntil a few days ago?
+Dialogue: 0,0:06:07.97,0:06:10.37,main,Mochiko,0,0,0,,I was with the euro, then it crashed.
+Dialogue: 0,0:06:10.37,0:06:12.45,main,Yasuko,0,0,0,,How are you so calm about it?
+Dialogue: 0,0:06:12.45,0:06:14.60,main,Yasuko,0,0,0,,If that were me,\NI wouldn't get out of bed for a year.
+Dialogue: 0,0:06:14.95,0:06:16.76,main,Mochiko,0,0,0,,I'm used to cutting my losses.
+Dialogue: 0,0:06:16.76,0:06:19.77,italics,Mebuki,0,0,0,,So, even Mochiko-senpai loses sometimes.
+Dialogue: 0,0:06:19.77,0:06:21.07,italics,Mebuki,0,0,0,,I feel a little better.
+Dialogue: 0,0:06:21.07,0:06:23.10,main,Mochiko,0,0,0,,Aren't you winning, Kurumi?
+Dialogue: 0,0:06:23.10,0:06:27.12,main,Kurumi,0,0,0,,Let's see. I haven't locked it in yet.
+Dialogue: 0,0:06:27.12,0:06:29.45,main,Kurumi,0,0,0,,I might as well do it now.
+Dialogue: 0,0:06:29.45,0:06:31.66,main,Mochiko,0,0,0,,Don't tell me...
+Dialogue: 0,0:06:37.74,0:06:40.64,main,Mochiko,0,0,0,,You were still holding the \NUSD/JPY position from back then?
+Dialogue: 0,0:06:40.64,0:06:43.22,main,Kurumi,0,0,0,,Yeah, I got greedy this time.
+Dialogue: 0,0:06:43.22,0:06:47.76,main,Mochiko,0,0,0,,Then, just from this one time, \Nyou made about 1,500,000 yen?
+Dialogue: 0,0:06:48.04,0:06:48.85,main,Mebuki,0,0,0,,Huh?
+Dialogue: 0,0:06:50.12,0:06:52.19,italics,Mebuki,0,0,0,,What the heck?
+Dialogue: 0,0:06:52.19,0:06:56.60,italics,Mebuki,0,0,0,,Kurumi-senpai did the exact opposite \Nof me, and went long on USD/JPY?
+Dialogue: 0,0:06:56.60,0:06:59.66,main,Kurumi,0,0,0,,I'm over 70% up from the start!
+Dialogue: 0,0:06:56.98,0:07:01.86,sign_Georgia,text (top),0,0,0,,{\fad(482,1)\an8}Forex account balance\N 4,611,715 yen (73.5% increase)\N (Starting point: 2,656,690 yen)
+Dialogue: 0,0:06:59.66,0:07:02.19,main,Kurumi,0,0,0,,The gain this time was huge!
+Dialogue: 0,0:07:02.19,0:07:07.16,italics,Mebuki,0,0,0,,Then, if I had kept on imitating \NKurumi-senpai, I'd have been winning?
+Dialogue: 0,0:07:07.55,0:07:10.15,italics,Mebuki,0,0,0,,Th-That's so annoying!
+Dialogue: 0,0:07:11.56,0:07:14.10,main,Mochiko,0,0,0,,I think we can assume Kurumi will win.
+Dialogue: 0,0:07:14.10,0:07:15.83,main,Mochiko,0,0,0,,I might as well drop out.
+Dialogue: 0,0:07:15.83,0:07:18.11,main,Yasuko,0,0,0,,Yeah, I'll say.
+Dialogue: 0,0:07:18.11,0:07:20.50,main,Yasuko,0,0,0,,Oh, what about you, Mebuki?
+Dialogue: 0,0:07:22.84,0:07:27.91,main,Yasuko,0,0,0,,W-Well, look at it this way. \NAt least we both get a treat.
+Dialogue: 0,0:07:27.91,0:07:28.87,main,Yasuko,0,0,0,,Right?
+Dialogue: 0,0:07:28.87,0:07:31.24,main,Mebuki,0,0,0,,No, I'm going to fight.
+Dialogue: 0,0:07:31.24,0:07:34.85,main,Mebuki,0,0,0,,Right now, I've got \Nthe strongest position!
+Dialogue: 0,0:07:35.24,0:07:38.18,main,Mebuki,0,0,0,,I'll be the one who wins in the end!
+Dialogue: 0,0:07:38.98,0:07:41.08,main,Kurumi,0,0,0,,H-Huh?
+Dialogue: 0,0:07:41.48,0:07:43.64,main,Yasuko,0,0,0,,Give it a rest, dummy.
+Dialogue: 0,0:07:46.61,0:07:48.29,main,Yasuko,0,0,0,,See ya!
+Dialogue: 0,0:07:48.29,0:07:51.12,main,Kurumi,0,0,0,,See you Monday at school.
+Dialogue: 0,0:07:51.12,0:07:53.85,main,Yasuko,0,0,0,,I've got to head to work now.
+Dialogue: 0,0:07:53.85,0:07:55.54,main,Kurumi,0,0,0,,Do what you've gotta do.
+Dialogue: 0,0:08:00.17,0:08:01.92,sign_ComicSansMS,text (note),0,0,0,,{\c&H262320&\3c&H776B63&\frz13.83\shad0\fs15\pos(300,36)}To Mebuki: Be sure you eat up.
+Dialogue: 0,0:08:11.49,0:08:15.32,italics,Mochiko,0,0,0,,Huh, I guess not all parents suck.
+Dialogue: 0,0:08:16.02,0:08:18.56,main,Mebuki,0,0,0,,Sorry to keep you here late.
+Dialogue: 0,0:08:18.56,0:08:21.73,main,Mebuki,0,0,0,,I've actually got some \Nhorrible unrealized losses.
+Dialogue: 0,0:08:21.73,0:08:24.81,main,Mochiko,0,0,0,,That's bad, when you've \Ngot the strongest position.
+Dialogue: 0,0:08:24.81,0:08:26.35,main,Mochiko,0,0,0,,By how much are you in the red?
+Dialogue: 0,0:08:31.25,0:08:33.65,main,Mochiko,0,0,0,,Five hundred thousand or so yen, huh?
+Dialogue: 0,0:08:33.65,0:08:36.67,main,Mochiko,0,0,0,,USD/JPY climbed, and you got burned.
+Dialogue: 0,0:08:36.67,0:08:38.87,main,Mebuki,0,0,0,,Yes, scorched all over.
+Dialogue: 0,0:08:39.19,0:08:43.35,italics,Mochiko,0,0,0,,A pig who's shorting USD/JPY right now? \NMore like the {\i0}weakest{\i1} position.
+Dialogue: 0,0:08:43.86,0:08:45.95,main,Mochiko,0,0,0,,But didn't you go from \Ntwo hundred thousand yen
+Dialogue: 0,0:08:45.95,0:08:48.66,main,Mochiko,0,0,0,,to nearly seven hundred thousand?
+Dialogue: 0,0:08:48.66,0:08:52.34,main,Mebuki,0,0,0,,Th-The seven hundred thousand yen \Nis for next year's school expenses!
+Dialogue: 0,0:08:52.34,0:08:55.99,main,Mebuki,0,0,0,,I lost it all on the pound, \Nthen I made a second deposit.
+Dialogue: 0,0:08:56.33,0:08:57.98,main,Mochiko,0,0,0,,O-Oh yeah?
+Dialogue: 0,0:08:57.98,0:08:59.49,italics,Mochiko,0,0,0,,What the heck?
+Dialogue: 0,0:08:59.49,0:09:02.23,italics,Mochiko,0,0,0,,This is turning into some \Ndelicious-looking roasted pork.
+Dialogue: 0,0:09:02.23,0:09:03.57,main,Mebuki,0,0,0,,What...
+Dialogue: 0,0:09:03.57,0:09:05.72,main,Mebuki,0,0,0,,What do I do?!
+Dialogue: 0,0:09:07.19,0:09:10.80,main,Mochiko,0,0,0,,Come on, calm down. \NLet me tell you two things.
+Dialogue: 0,0:09:11.86,0:09:15.23,main,Mochiko,0,0,0,,First, you were right to add \Nyour school money as a deposit.
+Dialogue: 0,0:09:15.23,0:09:18.25,main,Mochiko,0,0,0,,Had you not, you wouldn't even \Nhave a chance of turning this around.
+Dialogue: 0,0:09:19.59,0:09:22.65,main,Mochiko,0,0,0,,Remember, even if you fail, \Nyour parents will pay for it.
+Dialogue: 0,0:09:22.65,0:09:26.28,main,Mebuki,0,0,0,,B-But my family isn't rich.
+Dialogue: 0,0:09:26.28,0:09:29.46,main,Mochiko,0,0,0,,You're their darling daughter. \NThey'll figure something out.
+Dialogue: 0,0:09:30.21,0:09:31.97,italics,Mochiko,0,0,0,,If they're normal parents...
+Dialogue: 0,0:09:32.48,0:09:34.14,main,Mochiko,0,0,0,,Here's the other thing.
+Dialogue: 0,0:09:34.14,0:09:35.96,main,Mochiko,0,0,0,,USD/JPY will drop at some point.
+Dialogue: 0,0:09:35.96,0:09:37.51,main,Mebuki,0,0,0,,I-I knew it!
+Dialogue: 0,0:09:37.51,0:09:39.21,main,Mebuki,0,0,0,,How far will it fall?!
+Dialogue: 0,0:09:39.97,0:09:41.31,main,Mochiko,0,0,0,,Down to the one hundred yen range?
+Dialogue: 0,0:09:41.31,0:09:43.10,main,Mebuki,0,0,0,,Really?!
+Dialogue: 0,0:09:43.43,0:09:46.11,italics,Mochiko,0,0,0,,Not that I know when that will happen.
+Dialogue: 0,0:09:46.42,0:09:49.14,main,Mebuki,0,0,0,,I wasn't wrong after all.
+Dialogue: 0,0:09:49.14,0:09:52.51,main,Mochiko,0,0,0,,One more thing. \NShall I tell you, as a bonus?
+Dialogue: 0,0:09:52.51,0:09:53.99,main,Mebuki,0,0,0,,I-I want to hear it!
+Dialogue: 0,0:09:53.99,0:09:55.67,main,Mochiko,0,0,0,,This is special:
+Dialogue: 0,0:09:55.67,0:10:01.16,main,Mochiko,0,0,0,,The secret of how Kurumi made her \Nexplosive gains prior to meeting you.
+Dialogue: 0,0:10:02.41,0:10:04.75,main,Mochiko,0,0,0,,Kurumi won trading AUD/JPY,
+Dialogue: 0,0:10:05.44,0:10:07.50,main,Mochiko,0,0,0,,and she borrowed money to do it.
+Dialogue: 0,0:10:08.37,0:10:09.67,main,Mebuki,0,0,0,,She borrowed money?!
+Dialogue: 0,0:10:10.00,0:10:12.21,main,Mebuki,0,0,0,,She really went that far?
+Dialogue: 0,0:10:12.21,0:10:15.29,main,Mochiko,0,0,0,,I suspect she borrowed over a million yen.
+Dialogue: 0,0:10:15.29,0:10:18.43,main,Mochiko,0,0,0,,She's quite the gambler, \Ngiven her sweet face.
+Dialogue: 0,0:10:18.43,0:10:22.69,main,Mebuki,0,0,0,,Gambling?! That means \Nshe won based solely on luck.
+Dialogue: 0,0:10:34.45,0:10:36.70,sign_Arial,text (green),0,0,0,,{\c&H5E866E&\3c&H7AF5AA&\bord4\an7\shad0\pos(281,54)\fs9}I'm thinking of showing up for the lecture tomorrow
+Dialogue: 0,0:10:34.45,0:10:36.70,sign_Arial,text (blue),0,0,0,,{\an8\3c&HBA7C76&\shad0\bord4\fs8\pos(325,125)}Today
+Dialogue: 0,0:10:34.45,0:10:36.70,sign_Arial,text (white),0,0,0,,{\an7\c&H717171&\3c&HF7F7F7&\shad0\fs8\pos(207,202)}Taking another day off from school?
+Dialogue: 0,0:10:36.70,0:10:39.57,main,Mebuki,0,0,0,,Ignore! No time for school right now!
+Dialogue: 0,0:10:39.93,0:10:42.17,main,Mebuki,0,0,0,,Little miss Lady Luck.
+Dialogue: 0,0:10:42.17,0:10:45.00,main,Mebuki,0,0,0,,I read through that {\i1}whole{\i0} book, too...
+Dialogue: 0,0:10:45.00,0:10:47.62,italics,Mebuki,0,0,0,,You need more than luck in this situation.
+Dialogue: 0,0:10:48.43,0:10:51.46,main,Mebuki,0,0,0,,This is getting on my nerves!
+Dialogue: 0,0:10:54.30,0:10:56.59,sign_TimesNewRoman,text (headline),0,0,0,,{\an8\fs30\c&H171619&\3c&HDCDFE2&\shad0\bord4}Financial Crisis\N{\fs15} Emergency-Measure Conference Held to Deal with Financial Crisis
+Dialogue: 0,0:10:56.59,0:10:59.09,italics,Mebuki,0,0,0,,No way can I go to a beauty parlor.
+Dialogue: 0,0:10:59.09,0:11:00.55,italics,Mebuki,0,0,0,,I've got no money.
+Dialogue: 0,0:11:01.51,0:11:02.85,italics,Mebuki,0,0,0,,That reminds me.
+Dialogue: 0,0:11:03.65,0:11:07.91,italics,Mebuki,0,0,0,,I've heard that cutting your own hair \Ncan drive away bad luck.
+Dialogue: 0,0:11:10.67,0:11:11.67,main,Mebuki,0,0,0,,There.
+Dialogue: 0,0:11:11.98,0:11:13.74,italics,Mebuki,0,0,0,,And next...
+Dialogue: 0,0:11:20.85,0:11:25.94,italics,Mebuki,0,0,0,,By cleansing my body, \NI'll summon good luck.
+Dialogue: 0,0:11:27.41,0:11:31.50,italics,Mebuki,0,0,0,,So by now, USD/JPY should be dropping.
+Dialogue: 0,0:11:29.00,0:11:31.50,sign_Arial,text (white heading),0,0,0,,{\an1\c&H6D6D6F&\3c&HF6F3F3&\shad0\pos(175,143)\fs8\fad(188,1)}Please select your account
+Dialogue: 0,0:11:33.22,0:11:34.72,main,Mebuki,0,0,0,,110 yen?!
+Dialogue: 0,0:11:34.72,0:11:36.72,sign_Arial,text,0,0,0,,{\an8\c&H38334A&\3c&H5F5797&\shad0\pos(104,196)\fs40\fax-0.13\frz24.04\frx350\fry16}Balance
+Dialogue: 0,0:11:36.72,0:11:38.51,main,Mebuki,0,0,0,,I was totally careless.
+Dialogue: 0,0:11:38.51,0:11:40.53,main,Mebuki,0,0,0,,Th-Thirty thousand yen left to live...
+Dialogue: 0,0:11:40.53,0:11:43.47,main,Mebuki,0,0,0,,If it goes up another 0.1 yen, \Nit'll be forced liquidation?!
+Dialogue: 0,0:11:44.64,0:11:48.31,flashback,Mochiko,0,0,0,,Remember, even if you fail, \Nyour parents will pay for it.
+Dialogue: 0,0:11:49.65,0:11:51.23,italics,Mebuki,0,0,0,,Calm down.
+Dialogue: 0,0:11:51.23,0:11:55.44,italics,Mebuki,0,0,0,,Start by calmly analyzing \Nwhy it's climbing.
+Dialogue: 0,0:11:55.44,0:11:57.46,italics,Mebuki,0,0,0,,If I win, there's no problem.
+Dialogue: 0,0:11:57.46,0:11:59.62,italics,Mebuki,0,0,0,,And I haven't lost yet!
+Dialogue: 0,0:12:02.78,0:12:06.12,main,Mebuki,0,0,0,,Aha! It's rising because I'm watching it!
+Dialogue: 0,0:12:06.12,0:12:08.71,main,Mebuki,0,0,0,,In that case, I'll look away!
+Dialogue: 0,0:12:08.97,0:12:10.99,italics,Mebuki,0,0,0,,It might actually be the truth.
+Dialogue: 0,0:12:10.99,0:12:12.66,italics,Mebuki,0,0,0,,Now it should fall.
+Dialogue: 0,0:12:15.55,0:12:16.77,main,Mebuki,0,0,0,,There we go!
+Dialogue: 0,0:12:16.77,0:12:19.38,main,Mebuki,0,0,0,,Way to take advantage of bad luck!
+Dialogue: 0,0:12:21.70,0:12:24.19,main,Mebuki,0,0,0,,Uh-oh! I looked and now it's back up!
+Dialogue: 0,0:12:24.19,0:12:25.72,main,Mebuki,0,0,0,,I'll avert my eyes again!
+Dialogue: 0,0:12:27.43,0:12:28.44,italics,Mebuki,0,0,0,,One more time!
+Dialogue: 0,0:12:28.69,0:12:30.19,italics,Mebuki,0,0,0,,One more time!
+Dialogue: 0,0:12:30.49,0:12:31.82,italics,Mebuki,0,0,0,,One more time!
+Dialogue: 0,0:12:34.94,0:12:38.70,sign_Georgia,text,0,0,0,,{\pos(319,299)}9 Hours Later
+Dialogue: 0,0:12:42.48,0:12:45.62,main,Mebuki,0,0,0,,Looking away... \Ndoesn't really mean anything.
+Dialogue: 0,0:12:45.62,0:12:47.37,main,Mebuki,0,0,0,,I'm just tiring myself out.
+Dialogue: 0,0:12:48.05,0:12:54.04,italics,Mebuki,0,0,0,,USD/JPY dropped for seven hours, \Nand came right back up in two.
+Dialogue: 0,0:12:56.16,0:12:57.51,main,Mebuki,0,0,0,,Just...
+Dialogue: 0,0:13:00.51,0:13:02.26,main,Mebuki,0,0,0,,stop already...
+Dialogue: 0,0:13:05.08,0:13:07.18,main,Mebuki,0,0,0,,It's going over 110 yen a second time!
+Dialogue: 0,0:13:15.12,0:13:16.23,main,Mebuki,0,0,0,,Huh?
+Dialogue: 0,0:13:23.78,0:13:26.02,main,Mochiko,0,0,0,,USD/JPY will drop at some point.
+Dialogue: 0,0:13:42.67,0:13:44.02,italics,Mebuki,0,0,0,,It's dropping!
+Dialogue: 0,0:13:44.02,0:13:45.72,italics,Mebuki,0,0,0,,It's still dropping!
+Dialogue: 0,0:13:46.03,0:13:49.26,italics,Mebuki,0,0,0,,If I get through this, \NI'll be beyond saved!
+Dialogue: 0,0:13:49.26,0:13:51.85,italics,Mebuki,0,0,0,,Heaven's luck is finally upon me!
+Dialogue: 0,0:13:51.85,0:13:54.73,italics,Mebuki,0,0,0,,God gave me this miracle crash!
+Dialogue: 0,0:13:55.08,0:13:59.23,italics,Mebuki,0,0,0,,I'm not going to let go \Nof this short position!
+Dialogue: 0,0:14:00.24,0:14:07.33,italics,narration,0,0,0,,Thus, the rise in the USD/JPY market \Nfound its {\i1}temporary{\i0} ceiling this day,
+Dialogue: 0,0:14:07.98,0:14:10.63,italics,narration,0,0,0,,at $1 = 110 yen.
+Dialogue: 0,0:14:19.71,0:14:23.84,main,Kurumi,0,0,0,,I haven't seen you at school lately. \NAre your grades okay?
+Dialogue: 0,0:14:23.84,0:14:25.04,main,Mebuki,0,0,0,,Yeah.
+Dialogue: 0,0:14:25.64,0:14:29.03,italics,Mebuki,0,0,0,,My grades'll be fine, \Nas long as you let me copy your notes.
+Dialogue: 0,0:14:29.70,0:14:30.77,main,Mebuki,0,0,0,,Yum!
+Dialogue: 0,0:14:30.77,0:14:33.83,main,Kurumi,0,0,0,,I'm glad you're in a better mood, though.
+Dialogue: 0,0:14:35.31,0:14:37.65,sign_Georgia,text (1st line),0,0,0,,{\an3\shad0\pos(605,188)\fs15\fad(2316,1)}Kurumi\N Forex account balance\N 3,611,715 yen\N (1,000,000 yen defrayed)
+Dialogue: 0,0:14:37.65,0:14:39.48,main,Kurumi,0,0,0,,So, Mochiko.
+Dialogue: 0,0:14:39.48,0:14:43.07,main,Kurumi,0,0,0,,I set aside a million yen to cover taxes,
+Dialogue: 0,0:14:43.07,0:14:45.51,main,Kurumi,0,0,0,,but I still think USD/JPY \Nhas room to rise.
+Dialogue: 0,0:14:48.33,0:14:51.29,main,Kurumi,0,0,0,,I think geopolitical risk has waned,
+Dialogue: 0,0:14:51.29,0:14:54.76,main,Kurumi,0,0,0,,and once the dollar correction \Nfrom QE3 is over,
+Dialogue: 0,0:14:54.76,0:14:56.83,main,Kurumi,0,0,0,,maybe it'll finally climb.
+Dialogue: 0,0:14:57.32,0:14:59.91,italics,Mebuki,0,0,0,,I have no clue what she's saying.
+Dialogue: 0,0:14:59.91,0:15:01.95,italics,Mebuki,0,0,0,,I bet she's making stuff up.
+Dialogue: 0,0:15:01.95,0:15:05.25,main,Mochiko,0,0,0,,I view the recent USD/JPY \Ndrop as an adjustment.
+Dialogue: 0,0:15:05.25,0:15:08.41,main,Mochiko,0,0,0,,But isn't this an appreciating yen \Nrather than a depreciating dollar?
+Dialogue: 0,0:15:08.41,0:15:11.43,main,Mochiko,0,0,0,,Feels like the BOJ's monetary \Neasing is at its limit too.
+Dialogue: 0,0:15:11.43,0:15:14.34,main,Mochiko,0,0,0,,Hard to say which way \Nit'll play out, though.
+Dialogue: 0,0:15:15.11,0:15:17.12,italics,Mebuki,0,0,0,,Mochiko-senpai's so smart!
+Dialogue: 0,0:15:17.12,0:15:19.81,italics,Mebuki,0,0,0,,I don't understand, but it sounds \Nlike she's pushing back!
+Dialogue: 0,0:15:20.13,0:15:24.27,main,Kurumi,0,0,0,,Well, I still think it's due for a rise.
+Dialogue: 0,0:15:24.27,0:15:26.99,main,Kurumi,0,0,0,,Oh, I've got class starting soon.
+Dialogue: 0,0:15:28.03,0:15:29.09,main,Kurumi,0,0,0,,Got to go.
+Dialogue: 0,0:15:30.49,0:15:32.52,main,Mebuki,0,0,0,,Don't work {\i1}too{\i0} hard.
+Dialogue: 0,0:15:35.85,0:15:39.76,main,Mebuki,0,0,0,,If Kurumi-senpai wants to go long \Non USD/JPY, she's going to lose.
+Dialogue: 0,0:15:40.34,0:15:41.61,main,Mochiko,0,0,0,,Why's that?
+Dialogue: 0,0:15:41.61,0:15:43.79,main,Mebuki,0,0,0,,Because she's used up all her luck.
+Dialogue: 0,0:15:44.21,0:15:47.81,main,Mebuki,0,0,0,,She's won too much so far, \Nall thanks to luck.
+Dialogue: 0,0:15:47.81,0:15:52.41,main,Mebuki,0,0,0,,In terms of probability, there's \Na strong chance she'll lose next time.
+Dialogue: 0,0:15:52.41,0:15:55.69,main,Mebuki,0,0,0,,And given all the bad luck I've had,
+Dialogue: 0,0:15:55.69,0:15:58.85,main,Mebuki,0,0,0,,I think there's a strong chance \NI'll win big by being short.
+Dialogue: 0,0:15:59.15,0:16:02.80,main,Mebuki,0,0,0,,If you flip a coin ten times, and \Nit comes up heads ten times in a row,
+Dialogue: 0,0:16:02.80,0:16:06.31,main,Mebuki,0,0,0,,doesn't that raise the chances \Nyou'll get a series of tails?
+Dialogue: 0,0:16:06.73,0:16:08.10,main,Mebuki,0,0,0,,It's the same thing here!
+Dialogue: 0,0:16:17.04,0:16:19.17,italics,Mochiko,0,0,0,,How dumb can you get?!
+Dialogue: 0,0:16:19.57,0:16:21.74,italics,Mochiko,0,0,0,,She's talking at way too low a level.
+Dialogue: 0,0:16:21.74,0:16:24.18,italics,Mochiko,0,0,0,,And she's totally wrong \Nabout probability theory.
+Dialogue: 0,0:16:24.18,0:16:26.53,italics,Mochiko,0,0,0,,She managed to graduate \Nhigh school like this?
+Dialogue: 0,0:16:26.92,0:16:30.59,italics,Mochiko,0,0,0,,I'll admit that Kurumi's dumb luck is \Nexceptional, but to say it's {\i0}all{\i1} luck?
+Dialogue: 0,0:16:30.59,0:16:32.97,italics,Mochiko,0,0,0,,She's not giving her enough credit.
+Dialogue: 0,0:16:34.10,0:16:35.97,italics,Mochiko,0,0,0,,But I think I'll take this approach.
+Dialogue: 0,0:16:36.58,0:16:39.11,main,Mochiko,0,0,0,,Right, I couldn't agree more.
+Dialogue: 0,0:16:41.98,0:16:44.86,sign_Arial,text (top left blue bg header),0,0,0,,{\an4\c&HFECFC5&\bord4\shad0\3c&HDA735B&\pos(161,37)}Daily News
+Dialogue: 0,0:16:41.98,0:16:44.86,sign_Arial,text (header; white bg),0,0,0,,{\an1\c&H623B34&\3c&HF7F7F7&\shad0\fs8\pos(20,112)}[Indicators] Economic Indicator Federal Reserve Bank of New York's Manufacturing Report on Business
+Dialogue: 0,0:16:46.82,0:16:48.99,main,Mebuki,0,0,0,,I-It finally happened!
+Dialogue: 0,0:16:48.99,0:16:50.61,sign_Arial,text,0,0,0,,{\an8\c&H26222C&\3c&H5F5797&\shad0\fs40\fax-0.13\frx350\fry16\pos(66,206)\frz20.68\bord0}Balance
+Dialogue: 0,0:16:50.92,0:16:54.38,main,Mebuki,0,0,0,,I'm back in the black. I'm safe now.
+Dialogue: 0,0:16:55.60,0:16:58.50,main,Mebuki,0,0,0,,Safe? What am I babbling about?
+Dialogue: 0,0:16:59.83,0:17:02.22,main,Mebuki,0,0,0,,I stuck it out through those hellish days,
+Dialogue: 0,0:17:02.22,0:17:05.05,main,Mebuki,0,0,0,,and I have a few thousand yen \Nin profit to show for it?
+Dialogue: 0,0:17:02.63,0:17:03.75,sign_Arial,text (top line),0,0,0,,{\an4\shad0\bord0\frz-10.5\fax-0.02\fs15\pos(228,49)\c&HA99A98&}Balance:
+Dialogue: 0,0:17:02.63,0:17:03.75,sign_Arial,text (2nd line),0,0,0,,{\an4\shad0\bord0\frz-10.5\fax-0.02\fs15\pos(262,75)\c&HA99A98&}Equity:
+Dialogue: 0,0:17:02.63,0:17:03.75,sign_Arial,text (3rd line),0,0,0,,{\an4\shad0\bord0\frz-10.5\fax-0.02\fs15\pos(236,89)\c&HA99A98&}Margin:
+Dialogue: 0,0:17:02.63,0:17:03.75,sign_Arial,text (4th line),0,0,0,,{\an4\shad0\bord0\frz-10.5\fax-0.02\fs15\pos(258,113)\c&HA99A98&}Free Margin
+Dialogue: 0,0:17:02.63,0:17:03.75,sign_Arial,text (5th line),0,0,0,,{\an4\shad0\bord0\frz-10.5\fax-0.02\fs15\pos(289,135)\c&HA99A98&}Margin Level (%)
+Dialogue: 0,0:17:02.63,0:17:03.75,sign_Arial,text (6th line),0,0,0,,{\an4\shad0\bord0\frz-10.5\fax-0.02\fs15\pos(185,132)\c&HA99A98&}Position
+Dialogue: 0,0:17:06.45,0:17:08.18,main,Mebuki,0,0,0,,That's not worth it!
+Dialogue: 0,0:17:08.18,0:17:10.72,main,Mebuki,0,0,0,,I didn't go short for \Nmeasly earnings like these!
+Dialogue: 0,0:17:10.72,0:17:12.93,main,Mebuki,0,0,0,,I'll hold on to this short position.
+Dialogue: 0,0:17:14.00,0:17:16.45,main,Mebuki,0,0,0,,With gorilla-grip strength!
+Dialogue: 0,0:17:17.52,0:17:19.68,main,Mebuki,0,0,0,,I swear I'll make mad profits!
+Dialogue: 0,0:17:20.44,0:17:24.44,italics,narration,0,0,0,,The idea of retreat \Ndidn't even occur to Mebuki.
+Dialogue: 0,0:17:25.54,0:17:32.22,italics,narration,0,0,0,,She perceived her delivery from an \Nextreme situation to be a divine miracle.
+Dialogue: 0,0:17:33.32,0:17:37.71,italics,narration,0,0,0,,Therefore, this drop in \NUSD/JPY was God's will.
+Dialogue: 0,0:17:38.20,0:17:42.65,italics,narration,0,0,0,,She was convinced that, \Nas long as she believed,
+Dialogue: 0,0:17:42.65,0:17:44.75,italics,narration,0,0,0,,a great victory was sure to be hers.
+Dialogue: 0,0:17:46.40,0:17:48.59,italics,Mebuki,0,0,0,,Can't help this rise here.
+Dialogue: 0,0:17:48.59,0:17:51.46,italics,Mebuki,0,0,0,,If it suddenly drops too far, \Nit's gonna climb again.
+Dialogue: 0,0:17:51.93,0:17:54.76,italics,Mebuki,0,0,0,,Don't be fooled by a temporary rise.
+Dialogue: 0,0:17:54.76,0:17:57.42,italics,Mebuki,0,0,0,,I've {\i0}got{\i1} to get my money back.
+Dialogue: 0,0:18:01.23,0:18:02.81,sign_Arial,text (green),0,0,0,,{\an1\c&H6C8A79&\bord0\shad0\move(100,59,100,44,1,146)\fad(146,1)}Incoming Message
+Dialogue: 0,0:18:01.23,0:18:02.81,sign_Arial,text (white),0,0,0,,{\an1\fs19\move(170,145,170,135,1,146)\c&H4B494E&\bord0\shad0\fad(146,1)}I went long on USD/JPY! Sixty lots fired!
+Dialogue: 0,0:18:03.07,0:18:04.39,italics,Mebuki,0,0,0,,You don't say.
+Dialogue: 0,0:18:05.20,0:18:08.98,italics,Mebuki,0,0,0,,Kurumi-senpai, you got \Ntricked into going long.
+Dialogue: 0,0:18:10.32,0:18:11.78,sign_Arial,text (green),0,0,0,,{\an1\c&H6C8A79&\bord0\shad0\pos(99,46)}Incoming Message
+Dialogue: 0,0:18:10.32,0:18:11.78,sign_Arial,text (white),0,0,0,,{\an1\fs19\c&H4B494E&\bord0\shad0\fad(146,1)\pos(171,138)}USD/JPY, huh...? It does look like it'll climb...
+Dialogue: 0,0:18:11.78,0:18:14.09,main,Mebuki,0,0,0,,What?! You too, Yasuko-chan?!
+Dialogue: 0,0:18:15.16,0:18:16.74,main,Yasuko,0,0,0,,Huh?
+Dialogue: 0,0:18:16.74,0:18:19.75,main,Yasuko,0,0,0,,You mean that's what \Nbrought you over here?
+Dialogue: 0,0:18:17.28,0:18:20.08,sign_Verdana,text (upper right),0,0,0,,{\an7\c&H405050&\3c&HB7FDF4&\shad0\fs15}For Beginners!\N{\fs20\c&HF17963&\3c&HFFF6F1&} How to Draw {\c&HE2ACF6&}Viral Manga\N{\c&H3C3B3C&\fs15} Chunino Yoshiko\N{\c&H403E40&\3c&HF9F9F9&\fs15} Like\N{\3c&HA4F5EB&\fs20} I got 10,000 retweets!
+Dialogue: 0,0:18:20.56,0:18:23.00,main,Yasuko,0,0,0,,USD/JPY will probably climb, \Nbut I'm not buying.
+Dialogue: 0,0:18:23.00,0:18:26.63,main,Yasuko,0,0,0,,I'm busy, unlike college students \Nwith all their free time.
+Dialogue: 0,0:18:26.63,0:18:28.10,main,Mebuki,0,0,0,,That's fine.
+Dialogue: 0,0:18:28.10,0:18:31.26,main,Mebuki,0,0,0,,But I was worried you \Nmight incur another loss.
+Dialogue: 0,0:18:31.26,0:18:33.04,main,Yasuko,0,0,0,,No need to fret.
+Dialogue: 0,0:18:33.04,0:18:36.01,main,Yasuko,0,0,0,,Are you saying you think \NUSD/JPY will fall?
+Dialogue: 0,0:18:36.01,0:18:37.09,main,Mebuki,0,0,0,,It sure will!
+Dialogue: 0,0:18:37.09,0:18:39.41,main,Mebuki,0,0,0,,I believe in staying short on USD/JPY!
+Dialogue: 0,0:18:39.41,0:18:42.46,main,Mebuki,0,0,0,,That position and I \Ncame through a crisis together!
+Dialogue: 0,0:18:42.46,0:18:46.29,main,Yasuko,0,0,0,,Hold on, you're already short? Since when?
+Dialogue: 0,0:18:46.29,0:18:48.39,main,Mebuki,0,0,0,,Since the start of last month.
+Dialogue: 0,0:18:48.39,0:18:50.94,main,Yasuko,0,0,0,,Isn't that... before \Nit did that big climb?!
+Dialogue: 0,0:18:50.94,0:18:52.69,main,Yasuko,0,0,0,,How strong a grip have you got?!
+Dialogue: 0,0:18:53.16,0:18:55.36,main,Yasuko,0,0,0,,Mebuki, take some friendly advice.
+Dialogue: 0,0:18:55.36,0:18:57.32,main,Yasuko,0,0,0,,Cut yourself loose from that right now.
+Dialogue: 0,0:18:57.32,0:18:59.63,main,Mebuki,0,0,0,,Wh-What makes you say that?!
+Dialogue: 0,0:18:59.63,0:19:01.66,main,Yasuko,0,0,0,,Because you're being too emotional!
+Dialogue: 0,0:19:01.66,0:19:04.09,main,Yasuko,0,0,0,,If it goes up now, \Nyou're gonna lose everything!
+Dialogue: 0,0:19:04.09,0:19:05.97,main,Mebuki,0,0,0,,What would you know, Yasuko-chan?!
+Dialogue: 0,0:19:05.97,0:19:09.43,main,Mebuki,0,0,0,,You're more of a forex beginner \Nthan I am, aren't you?!
+Dialogue: 0,0:19:10.86,0:19:14.90,main,Yasuko,0,0,0,,Uh, no, I actually got \Nstarted with it a while back.
+Dialogue: 0,0:19:14.90,0:19:16.73,main,Mebuki,0,0,0,,Don't bother trying to lie!
+Dialogue: 0,0:19:16.73,0:19:18.78,main,Mebuki,0,0,0,,You've never turned a single profit!
+Dialogue: 0,0:19:18.78,0:19:20.97,main,Yasuko,0,0,0,,Th-That part's true...
+Dialogue: 0,0:19:20.97,0:19:24.40,main,Yasuko,0,0,0,,but I don't want to see you \Nmake the same mistakes!
+Dialogue: 0,0:19:25.09,0:19:27.57,main,Mebuki,0,0,0,,Thanks. I'll take it under advisement.
+Dialogue: 0,0:19:27.57,0:19:29.14,main,Mebuki,0,0,0,,Good luck with the manga.
+Dialogue: 0,0:19:34.50,0:19:35.68,main,Yasuko,0,0,0,,That fool.
+Dialogue: 0,0:19:39.62,0:19:42.33,main,Mochiko,0,0,0,,Mebuki-chan? What's up?
+Dialogue: 0,0:19:42.33,0:19:44.26,italics,Mebuki,0,0,0,,I'll get straight to the point.
+Dialogue: 0,0:19:44.26,0:19:46.58,italics,Mebuki,0,0,0,,Which way do you think USD/JPY will move?
+Dialogue: 0,0:19:46.58,0:19:48.39,italics,Mochiko,0,0,0,,What a pain.
+Dialogue: 0,0:19:48.39,0:19:50.34,main,Mochiko,0,0,0,,Let's take a quick look.
+Dialogue: 0,0:19:51.42,0:19:58.18,sign_Arial,text (top; pink),0,0,0,,{\an7\c&H8F7BB6&\3c&HB299E4&\shad0\fs15}Speed Order\N{\c&H969790&\3c&H31322F&} Straddle Liquidate and Order Simultaneously\N{\c&H85828B&\3c&HBEBEBD&} Liquidate All\N{\c&HDCB6A2&\3c&HD85A2D&} Short Positions {\c&HA89FE3&\3c&H553EE3&}Long Positions\N{\c&HC3B19B&\3c&H85502A&} Open Volume\N Average Rate\N Profit/Loss (pips)\N Valuation Profit/Loss\N Trade Volume
+Dialogue: 0,0:19:51.90,0:19:54.57,italics,Mochiko,0,0,0,,Is this severe drop due to panic selling?
+Dialogue: 0,0:19:54.57,0:19:58.18,italics,Mochiko,0,0,0,,Is the V-shaped recovery because \Nthey ran out of bagholders?
+Dialogue: 0,0:19:58.18,0:20:01.65,italics,Mochiko,0,0,0,,I can see the price climb slowed \Ndown when the festering stopped.
+Dialogue: 0,0:20:01.65,0:20:03.89,italics,Mochiko,0,0,0,,If I had to pick one, I'd go long.
+Dialogue: 0,0:20:03.89,0:20:06.35,main,Mochiko,0,0,0,,Hmm, this isn't easy.
+Dialogue: 0,0:20:06.72,0:20:08.51,main,Mochiko,0,0,0,,What's your take on it, Mebuki-chan?
+Dialogue: 0,0:20:08.51,0:20:11.02,italics,Mebuki,0,0,0,,I think it's still going to fall.
+Dialogue: 0,0:20:11.02,0:20:15.44,main,Mebuki,0,0,0,,But Kurumi-senpai and Yasuko-chan \Nwere both saying it'd rise.
+Dialogue: 0,0:20:15.44,0:20:18.83,italics,Mebuki,0,0,0,,So... is it going to rise?
+Dialogue: 0,0:20:18.83,0:20:22.71,italics,Mochiko,0,0,0,,Aha, she still has that shitty position.
+Dialogue: 0,0:20:23.05,0:20:24.79,main,Mochiko,0,0,0,,No, it'll drop.
+Dialogue: 0,0:20:26.07,0:20:27.96,main,Mebuki,0,0,0,,Th-That means...
+Dialogue: 0,0:20:28.89,0:20:30.96,main,Mochiko,0,0,0,,I'm with you on this.
+Dialogue: 0,0:20:30.96,0:20:34.09,sign_Arial,text (top black; left),0,0,0,,{\an7\c&HC2C6BC&\3c&H383739&\shad0}Straddle Liquidate and Order Simultaneously\N{\c&H272335&\3c&HAAA9AB&} Liquidate All\N{\c&H9A8778&\3c&HAE4221&} Short Positions {\c&HADAEC0&\3c&H422EC0&}Long Positions
+Dialogue: 0,0:20:30.96,0:20:33.59,main,Mochiko,0,0,0,,I'm going short on USD/JPY too.
+Dialogue: 0,0:20:35.33,0:20:36.37,main,Mochiko,0,0,0,,Just did it.
+Dialogue: 0,0:20:36.37,0:20:38.46,italics,Mebuki,0,0,0,,That puts us on the same side!
+Dialogue: 0,0:20:38.46,0:20:40.68,main,Mochiko,0,0,0,,It sure does.
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (top line; l-2-r),0,0,0,,{\an7\pos(56,26)\c&H686161&\3c&HC9C3B4&\shad0\fsp4}Filter
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (top line; l-2-r),0,0,0,,{\an7\pos(179,27)\c&H7D7B7D&\3c&HD9D8D9&\shad0}Trades: {\3c&HB8B8B9&}All
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (top line; l-2-r),0,0,0,,{\an7\c&H7D7B7D&\3c&HD9D8D9&\shad0\pos(385,30)}Symbol; {\3c&HB8B8B9&}All
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (2nd line),0,0,0,,{\an1\bord0\shad0\c&H484449&\pos(48,65)\fs15}Position Summary
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (3rd line; l-2-r),0,0,0,,{\c&H67625F&\3c&HD3CCBA&\shad0\pos(71,117)}Symbol
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (3rd line; l-2-r),0,0,0,,{\c&H67625F&\3c&HD3CCBA&\shad0\pos(166,117)}Trade
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (3rd line; l-2-r),0,0,0,,{\c&H67625F&\3c&HD3CCBA&\shad0\pos(271,121)}Position Size
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (3rd line; l-2-r),0,0,0,,{\c&H67625F&\3c&HD3CCBA&\shad0\pos(416,117)\fs15}Quantity on Order
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (3rd line; l-2-r),0,0,0,,{\c&H67625F&\3c&HD3CCBA&\shad0\fs15\pos(560,119)}Average Position Rate
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (4th line (red)),0,0,0,,{\an8\c&H8C83D0&\bord4\shad0\pos(164,186)\3c&HF0EFF1&}Short
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (5th line),0,0,0,,{\c&H464348&\bord0\shad0\pos(94,232)}Position List
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (6th line),0,0,0,,{\c&H605E63&\fs8\bord0\shad0\pos(39,268)}Position Number
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (7th line; l-2-r),0,0,0,,{\c&H44423B&\bord0\shad0\pos(69,308)}Symbol
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (7th line; l-2-r),0,0,0,,{\c&H44423B&\bord0\shad0\pos(158,308)}Trade
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (7th line; l-2-r),0,0,0,,{\c&H44423B&\bord0\shad0\pos(273,308)}Position Size
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (7th line; l-2-r),0,0,0,,{\c&H44423B&\bord0\shad0\pos(417,307)\fs15}Quantity on Order
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (7th line; l-2-r),0,0,0,,{\c&H44423B&\bord0\shad0\fs15\pos(558,303)}Position Rate
+Dialogue: 0,0:20:42.96,0:20:44.43,main,Mebuki,0,0,0,,Yes!
+Dialogue: 0,0:20:44.43,0:20:46.45,main,Mebuki,0,0,0,,Yes! Yes!
+Dialogue: 0,0:20:46.45,0:20:48.35,main,Mebuki,0,0,0,,Shorting USD/JPY is the right call!
+Dialogue: 0,0:20:48.93,0:20:53.52,italics,Mebuki,0,0,0,,I've got a market pro \Non my side: Mochiko-senpai.
+Dialogue: 0,0:20:54.16,0:20:57.80,italics,Mebuki,0,0,0,,Kurumi-senpai, now it's my turn to win.
+Dialogue: 0,0:20:58.65,0:21:00.70,sign_TrebuchetMS,text (header),0,0,0,,{\an8\pos(319,53)\3c&HF1DB98&\shad0}Yasuko
+Dialogue: 0,0:20:58.65,0:21:00.70,sign_TrebuchetMS,text (white bg),0,0,0,,{\an8\pos(320,124)\c&HB59E7B&\bord0\shad0}Position Status
+Dialogue: 0,0:20:58.65,0:21:00.70,sign_TrebuchetMS,text (blue on blue),0,0,0,,{\an8\c&HC6AC8B&\bord0\shad0\pos(316,202)}No Positions
+Dialogue: 0,0:20:58.65,0:21:00.70,sign_TrebuchetMS,text (purple),0,0,0,,{\an7\pos(314,275)\c&HC58C8C&\shad0\3c&HFEEBEB&\fs13}I wonder if Mebuki's okay...
+Dialogue: 0,0:21:00.95,0:21:02.95,sign_TrebuchetMS,text (header),0,0,0,,{\an8\pos(319,53)\3c&H73DFEF&\shad0}Mebuki
+Dialogue: 0,0:21:00.95,0:21:02.95,sign_TrebuchetMS,text (white bg),0,0,0,,{\an8\c&H80ADB7&\bord0\shad0\pos(317,122)}Position Status
+Dialogue: 0,0:21:00.95,0:21:02.95,sign_TrebuchetMS,text (yellow on yellow; 1),0,0,0,,{\an8\c&H8EB6BF&\bord4\shad0\pos(316,202)\fs15\3c&HDAF6F8&}USD/JPY short 20 lots\N Average Purchase Price 106.632 yen
+Dialogue: 0,0:21:00.95,0:21:02.95,sign_TrebuchetMS,text (yellow),0,0,0,,{\an7\c&H6EABC7&\shad0\3c&HD0FFFD&\fs13\pos(324,283)}I'm sure it's gonna drop!
+Dialogue: 0,0:21:01.13,0:21:06.15,italics,narration,0,0,0,,The USD/JPY market was again \Ntrending toward a depreciating yen.
+Dialogue: 0,0:21:03.20,0:21:05.20,sign_TrebuchetMS,text (header),0,0,0,,{\an8\pos(319,53)\3c&H9667E0&\shad0}Kurumi
+Dialogue: 0,0:21:03.20,0:21:05.20,sign_TrebuchetMS,text (white bg),0,0,0,,{\an8\c&HA299BA&\bord0\shad0\pos(317,122)}Position Status
+Dialogue: 0,0:21:03.20,0:21:05.20,sign_TrebuchetMS,text (pink on pink; 1),0,0,0,,{\an8\c&H8EB6BF&\bord4\shad0\pos(316,202)\fs15\3c&HF0EFF6&}USD/JPY long 60 lots\N Average Purchase Price 106.789 yen
+Dialogue: 0,0:21:03.20,0:21:05.20,sign_TrebuchetMS,text (pink),0,0,0,,{\an7\c&HAB5BC0&\shad0\3c&HFADAFC&\fs13\pos(212,268)}Cliiimb
+Dialogue: 0,0:21:05.45,0:21:07.45,sign_TrebuchetMS,text (header),0,0,0,,{\an8\pos(319,53)\3c&HE561E1&\shad0}Mochiko
+Dialogue: 0,0:21:05.45,0:21:07.45,sign_TrebuchetMS,text (white bg),0,0,0,,{\an8\c&HC9A4CE&\bord0\shad0\pos(317,122)}Position Status
+Dialogue: 0,0:21:05.45,0:21:07.45,sign_TrebuchetMS,text (purple on purple; 1),0,0,0,,{\an8\c&HA37BA3&\bord4\shad0\pos(316,202)\fs15\3c&HF0EFF6&}USD/JPY long 50 lots\N Average Purchase Price 106.832 yen
+Dialogue: 0,0:21:05.45,0:21:07.45,sign_TrebuchetMS,text (purple),0,0,0,,{\an7\c&HAF57A0&\shad0\3c&HF5D8EB&\fs13\pos(211,275)}I doubt it'll drop any further...
+Dialogue: 0,0:21:07.70,0:21:09.83,sign_Arial,text (on monitor),0,0,0,,{\an1\pos(2,184)\fs8\c&H646366&\3c&HF3F2F5&\shad0\fs9}Thank you very much.
+Dialogue: 0,0:21:07.70,0:21:09.83,sign_Arial,text (shelves on right),0,0,0,,{\an8\c&H79D4D8&\3c&H445F5F&\shad0\fs10\pos(561,136)}Buy 2 or more and get 50 yen off
+Dialogue: 0,0:21:08.57,0:21:10.85,italics,narration,0,0,0,,Kurumi has a long position.
+Dialogue: 0,0:21:09.83,0:21:11.83,sign_Georgia,text (top),0,0,0,,{\an3\pos(605,259)}Kurumi\N{\fs19}Unrealized loss/gain +456,600 yen
+Dialogue: 0,0:21:12.73,0:21:16.73,italics,narration,0,0,0,,Likewise, Mochiko feels calm and assured.
+Dialogue: 0,0:21:15.46,0:21:17.46,sign_Georgia,text (top),0,0,0,,{\an1\pos(29,255)}Mochiko\N Unrealized loss/gain +359,000 yen
+Dialogue: 0,0:21:17.79,0:21:22.58,italics,narration,0,0,0,,Yasuko has no position, \Nas she's staying out of the market.
+Dialogue: 0,0:21:20.97,0:21:22.97,sign_Georgia,text (top),0,0,0,,{\an3\pos(592,256)}Yasuko\NUnrealized loss/gain 0 yen
+Dialogue: 0,0:21:22.97,0:21:28.35,sign_TimesNewRoman,text,0,0,0,,{\c&H506487&\3c&H6899AD&\shad0\pos(181,201)\frz-8.53\fax0.13}Shinto Univ
+Dialogue: 0,0:21:23.56,0:21:28.35,italics,narration,0,0,0,,And only Mebuki clings \Nto her short position.
+Dialogue: 0,0:21:28.35,0:21:34.36,sign_Arial,text (top line),0,0,0,,{\an7\fs10\3c&HF2F3F4&\shad0\c&H9E95E6&\pos(26,107)}Y = {\c&HB9B9B9&}GDP (national income)\N{\c&HF1A5A4&} C = {\c&HB9B9B9&}private consumption (consumer spending, private consumption)\N{\c&HDDF3D6&} I = {\c&HB9B9B9&}private investment (corporate capital investment, housing investment, etc.)\N{\c&HB7FFF0&} G = {\c&HB9B9B9&}government expenditure (public works, civil servant wages, etc.)\N{\c&HF790E2&} X - {\c&HF9DFFB&}M = {\c&HB9B9B9&}net exports (exports - imports)
+Dialogue: 0,0:21:28.73,0:21:34.36,italics,narration,0,0,0,,She's surprisingly calm, perhaps out of \Nrelief for having an ally in Mochiko.
+Dialogue: 0,0:21:34.36,0:21:39.36,sign_Georgia,text (top),0,0,0,,{\an1\pos(34,259)}Mebuki\N Unrealized loss/gain -258,100 yen
+Dialogue: 0,0:21:34.77,0:21:40.86,italics,narration,0,0,0,,On a random peaceful afternoon, there was \Nshocking news that rocked the markets.
+Dialogue: 0,0:21:44.64,0:21:49.18,italics,narration,0,0,0,,A giant blazing column emerged \Nin the USD/JPY market.
+Dialogue: 0,0:23:20.29,0:23:22.62,main,Mebuki,0,0,0,,M-M-Mochiko-senpai!
+Dialogue: 0,0:23:21.13,0:23:34.98,sign_Arial,text (top),0,0,0,,{\pos(320,105)\fad(1397,1)\c&HFCEAB0&\bord\shad0}Episode Eight
+Dialogue: 0,0:23:21.13,0:23:34.98,sign_Arial,text (bottom),0,0,0,,{\fad(1397,1)\c&HFCEAB0&\bord\shad0\an8\pos(313,201)}Monetary Easing Is a Wild Party
+Dialogue: 0,0:23:22.62,0:23:24.67,main,Mebuki,0,0,0,,What is "panic selling"?!
+Dialogue: 0,0:23:24.67,0:23:27.33,main,Mochiko,0,0,0,,It's when a sudden market \Ndrop causes a panic,
+Dialogue: 0,0:23:27.33,0:23:29.51,main,Mochiko,0,0,0,,and people rush to liquidate positions.
+Dialogue: 0,0:23:29.51,0:23:31.07,main,Mochiko,0,0,0,,Like you right now, Mebuki?
+Dialogue: 0,0:23:31.07,0:23:34.64,main,Mebuki,0,0,0,,I-I'm as calm as a gorilla!
+Dialogue: 0,0:23:34.98,0:23:44.99,sign_TrebuchetMS,text,0,0,0,,{\an1\c&H010000&\3c&HFFFFFF&\shad0\fs13\fscx85\pos(32,324)}Illustration: Igarashi Masakuni
+
