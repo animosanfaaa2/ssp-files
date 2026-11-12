@@ -1,0 +1,320 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Italic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Signs,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:14.86,0:00:17.41,Signs,Sign,0,0,0,,{\fade(400,000)\fs15\blur0\bord0\shad1\3c&H2D0B06&\4c&H252527&\pos(160,167)}1969: First Human Landing on the Moon
+Dialogue: 0,0:00:17.45,0:00:19.79,Signs,Sign,0,0,0,,{\fade(400,000)\fs15\blur0\bord0\shad1\3c&H2D0B06&\4c&H0A0A0B&\pos(136,168)}2111: Mars Colonization Begins
+Dialogue: 0,0:00:19.83,0:00:22.08,Signs,Sign,0,0,0,,{\fade(400,000)\fs15\blur0\bord0\shad1\3c&H2D0B06&\4c&H252527&\pos(152,167)}2191: Gamilas Invades Solar System
+Dialogue: 0,0:00:22.66,0:00:24.46,Signs,Sign,0,0,0,,{\fade(400,000)\fs15\blur0\bord0\shad1\3c&H2D0B06&\4c&H252527&\pos(169,167)}2199: Yamato Launches towards Iscandar
+Dialogue: 0,0:00:39.39,0:00:41.47,Signs,Sign,0,0,0,,{\fade(400,000)\fs15\blur0\bord0\shad1\3c&H2D0B06&\4c&H252527&\pos(114,166)}2199: Arrival at Iscandar
+Dialogue: 0,0:00:41.56,0:00:43.98,Signs,Sign,0,0,0,,{\fade(400,000)\fs15\blur0\bord0\shad1\3c&H2D0B06&\4c&H252527&\pos(211,166)}2199: Yamato Returns, Earth Rebuilding Project Begins
+Dialogue: 0,0:00:44.06,0:00:46.06,Signs,Sign,0,0,0,,{\fade(400,000)\fs15\blur1\bord1\shad1\3c&H343332&\4c&H676767&\pos(207,167)}2201: Peace Treaty Signed Between Earth and Gamilas
+Dialogue: 0,0:00:53.19,0:00:55.61,Signs,Sign,0,0,0,,{\fade(400,000)\fs15\blur0\bord0\shad1\3c&H2D0B06&\4c&H252527&\pos(197,167)}2203: Battle of the Saturn Sector, Saturn Destroyed
+Dialogue: 0,0:00:55.70,0:00:57.91,Signs,Sign,0,0,0,,{\fade(400,000)\fs15\blur0\bord0\shad1\3c&H2D0B06&\4c&H252527&\pos(169,167)}2203: Gatlantis Invades Earth, Yamato Lost
+Dialogue: 0,0:00:57.99,0:00:59.78,Signs,Sign,0,0,0,,{\fade(400,000)\fs15\blur0\bord0\shad1\3c&H2D0B06&\4c&H252527&\pos(231,166)}2203: National Vote, Yamato Returns From Higher Dimensions
+Dialogue: 0,0:00:59.87,0:01:02.83,Signs,Sign,0,0,0,,{\fade(400,000)\fs15\blur0\bord0\shad1\3c&H2D0B06&\4c&H252527&\pos(122,165)}2205: Garmann War Begins
+Dialogue: 0,0:01:03.91,0:01:06.58,Signs,Sign,0,0,0,,{\fade(400,000)\fs15\blur0\bord0\shad1\3c&H2D0B06&\4c&H252527&\pos(162,167)}2205: Dezarium Destroys Planet Gamilas
+Dialogue: 0,0:01:06.67,0:01:09.59,Signs,Sign,0,0,0,,{\fade(400,000)\fs15\blur0\bord0\shad1\3c&H2D0B06&\4c&H252527&\pos(95,166)}2205: Iscandar Lost
+Dialogue: 0,0:01:10.71,0:01:12.96,Signs,Sign,0,0,0,,{\fade(400,000)\fs15\blur0\bord0\shad1\3c&H2D0B06&\4c&H252527&\pos(151,165)}2206: Founding of Garmann-Gamilas
+Dialogue: 0,0:01:35.66,0:01:40.54,Italic,NanbuDad,0,0,0,,Earth lost 70% of its population \Nin the war with the Gamilas.
+Dialogue: 0,0:01:42.89,0:01:47.80,Italic,NanbuDad,0,0,0,,It was hoped that after the war concluded,
+Dialogue: 0,0:01:48.37,0:01:52.56,Italic,NanbuDad,0,0,0,,we would see a baby boom \Nand a quick rebuilding,
+Dialogue: 0,0:01:53.05,0:01:57.26,Italic,NanbuDad,0,0,0,,but the Earth's environment \Nno longer made that possible.
+Dialogue: 0,0:01:58.57,0:02:01.57,Italic,NanbuDad,0,0,0,,The natural world that was restored \Nby the Cosmo Reverse
+Dialogue: 0,0:02:01.57,0:02:04.77,Italic,NanbuDad,0,0,0,,was not kind to humans, \Nwho were used to civilized life.
+Dialogue: 0,0:02:05.43,0:02:08.15,Italic,NanbuDad,0,0,0,,Even the new capital, which was \Nintended to be a model for reconstruction,
+Dialogue: 0,0:02:08.57,0:02:11.24,Italic,NanbuDad,0,0,0,,is surrounded by empty wilderness.
+Dialogue: 0,0:02:11.85,0:02:15.96,Italic,NanbuDad,0,0,0,,And after that, we clashed with \Nother civilizations multiple times.
+Dialogue: 0,0:02:15.96,0:02:21.81,Italic,NanbuDad,0,0,0,,Our problem is neither poverty nor inequality. \NIt's that we lack hope for the future.
+Dialogue: 0,0:02:22.14,0:02:24.74,Italic,NanbuDad,0,0,0,,That another war\Ncould break out at any time…
+Dialogue: 0,0:02:24.74,0:02:28.25,Italic,NanbuDad,0,0,0,,That 50 years from now,\Nthe population could be even smaller,
+Dialogue: 0,0:02:28.25,0:02:31.76,Italic,NanbuDad,0,0,0,,and the Earth will no longer exist \Nas an interstellar nation…
+Dialogue: 0,0:02:31.76,0:02:34.18,Italic,NanbuDad,0,0,0,,These concerns have\Nbrought despair to mankind,
+Dialogue: 0,0:02:34.18,0:02:38.43,Italic,NanbuDad,0,0,0,,and started a vicious cycle that makes \Npeople afraid to raise children.
+Dialogue: 0,0:02:39.73,0:02:41.60,Italic,NanbuDad,0,0,0,,So… I didn't care if it was a lie.
+Dialogue: 0,0:02:42.18,0:02:43.85,Italic,NanbuDad,0,0,0,,I don't care if you're devils.
+Dialogue: 0,0:02:44.60,0:02:48.24,Italic,NanbuDad,0,0,0,,I needed something to bring hope.
+Dialogue: 0,0:02:49.81,0:02:53.11,Italic,NanbuDad,0,0,0,,People from the future \Nwho have come to the past…
+Dialogue: 0,0:02:53.79,0:02:56.13,Italic,NanbuDad,0,0,0,,A powerful race that we could \Nentrust with our hopes,
+Dialogue: 0,0:02:56.58,0:03:00.44,Italic,NanbuDad,0,0,0,,no matter how implausible \Nthe things they said.
+Dialogue: 0,0:03:04.51,0:03:07.37,Default,Skulldart,0,0,0,,But then what are we?
+Dialogue: 0,0:03:07.81,0:03:10.56,Default,Skulldart,0,0,0,,If the intent is not to change history,
+Dialogue: 0,0:03:10.56,0:03:14.13,Default,Skulldart,0,0,0,,then why did we Dezarium come to the past?
+Dialogue: 0,0:03:14.46,0:03:17.62,Default,Alphon,0,0,0,,I think the actual objective \Nremains the same…
+Dialogue: 0,0:03:17.62,0:03:21.18,Default,Alphon,0,0,0,,Acquiring the Iscandarian \Npure wave motion core.
+Dialogue: 0,0:03:21.18,0:03:24.39,Default,Alphon,0,0,0,,The only difference is \Nthe reason it's needed.
+Dialogue: 0,0:03:25.59,0:03:27.69,Default,Alphon,0,0,0,,An Iscandarian pure wave motion core
+Dialogue: 0,0:03:28.07,0:03:32.06,Default,Alphon,0,0,0,,activates its true power in response \Nto the unique wave motion
+Dialogue: 0,0:03:32.06,0:03:34.27,Default,Alphon,0,0,0,,possessed by all life: their element.
+Dialogue: 0,0:03:35.40,0:03:40.31,Default,Alphon,0,0,0,,And only an Earthling's element \Ncan affect the Yamato's core.
+Dialogue: 0,0:03:40.90,0:03:46.75,Default,Alphon,0,0,0,,That's something we've lost \Nafter becoming Homo Dezarium.
+Dialogue: 0,0:03:47.67,0:03:50.92,Default,Alphon,0,0,0,,Unless the collective will of \Nhumanity accepts the Dezarium,
+Dialogue: 0,0:03:51.76,0:03:55.44,Default,Alphon,0,0,0,,the pure wave motion core \Nwill reject us as outsiders.
+Dialogue: 0,0:03:55.92,0:03:57.34,Signs,Sign,0,0,0,,{\fs16\3c&H0F1094&\pos(371.111,23.155)}Breaking News: {\c&H000000&\3c&HFFFFFF&}Bomb in Ichigyo, New Capital
+Dialogue: 0,0:03:55.92,0:03:57.34,Signs,Sign,0,0,0,,{\fs18\3c&H0F1094&\pos(514.311,112.222)}Over 100 fatalities
+Dialogue: 0,0:03:55.92,0:03:57.34,Signs,Sign,0,0,0,,{\fs18\3c&HFFFFFF&\c&H000000&\pos(187.911,290.622)}Was it the Gamilas?
+Dialogue: 0,0:03:55.92,0:03:58.65,Default,Alphon,0,0,0,,That's why we've attempted \Nto win the Earthlings over.
+Dialogue: 0,0:03:57.36,0:03:58.36,Signs,Sign,0,0,0,,{\fs16\3c&H0F1094&\pos(424.444,27.155)}Breaking News: {\c&H000000&\3c&HFFFFFF&}Terrorist Bombing at New Capital
+Dialogue: 0,0:03:57.36,0:03:58.36,Signs,Sign,0,0,0,,{\fs16\3c&H0F1094&\pos(465.777,107.155)}Dezarium Colonization Center Targeted?
+Dialogue: 0,0:03:57.36,0:03:58.36,Signs,Sign,0,0,0,,{\fs18\3c&HFFFFFF&\c&H000000&\pos(322.578,290.622)}\NLocal Daycare Caught in Blast, Casualties Above 1000\N
+Dialogue: 0,0:03:58.65,0:04:02.69,Default,Alphon,0,0,0,,Why we've deceived them and \Ntricked them into joining our side.
+Dialogue: 0,0:04:03.77,0:04:08.26,Default,Alphon,0,0,0,,Right now, most of them accept \Nthe Dezarium as their rulers.
+Dialogue: 0,0:04:08.85,0:04:12.80,Default,Alphon,0,0,0,,But only at the level \Nof mass psychology.
+Dialogue: 0,0:04:13.59,0:04:16.94,Default,Alphon,0,0,0,,We've failed to capture their hearts\N on an individual level.
+Dialogue: 0,0:04:17.35,0:04:18.79,Default,Skulldart,0,0,0,,The hearts?
+Dialogue: 0,0:04:19.11,0:04:21.20,Default,Alphon,0,0,0,,The unique wave motion \Nof each living creature
+Dialogue: 0,0:04:21.95,0:04:24.17,Default,Alphon,0,0,0,,is not something they can fully control.
+Dialogue: 0,0:04:24.17,0:04:26.92,Default,Alphon,0,0,0,,It's a complex, moving body \Nthat makes them who they are.
+Dialogue: 0,0:04:27.47,0:04:31.33,Default,Alphon,0,0,0,,And that's what forms the element. \NTheir unified will.
+Dialogue: 0,0:04:33.03,0:04:36.09,Default,Alphon,0,0,0,,We can't even control \Na single human heart.
+Dialogue: 0,0:04:37.35,0:04:41.04,Default,Alphon,0,0,0,,Controlling the hearts of over a billion people \Nand making them want the same thing
+Dialogue: 0,0:04:42.19,0:04:44.01,Default,Alphon,0,0,0,,is impossible for us.
+Dialogue: 0,0:04:44.01,0:04:48.60,Default,Alphon,0,0,0,,If anything, the tighter our grip, \Nthe more their hearts will reject us.
+Dialogue: 0,0:04:49.31,0:04:51.69,Default,Alphon,0,0,0,,But you knew this.
+Dialogue: 0,0:04:52.09,0:04:54.71,Default,Alphon,0,0,0,,Hence, the Grand Reverse.
+Dialogue: 0,0:04:54.71,0:04:55.85,Default,Alphon,0,0,0,,The hyperon bomb.
+Dialogue: 0,0:04:55.85,0:05:01.26,Default,Skulldart,0,0,0,,But if we reset the humans, \Ntheir hearts will be lost.
+Dialogue: 0,0:05:01.78,0:05:06.81,Default,Skulldart,0,0,0,,Their element will disappear, and the \Npure wave motion core will be lost to us.
+Dialogue: 0,0:05:06.81,0:05:08.47,Default,Skulldart,0,0,0,,And that's useless.
+Dialogue: 0,0:05:08.47,0:05:09.37,Default,Alphon,0,0,0,,The Yamato.
+Dialogue: 0,0:05:10.71,0:05:14.75,Default,Alphon,0,0,0,,Yes… its existence explains everything.
+Dialogue: 0,0:05:15.58,0:05:17.42,Default,Alphon,0,0,0,,Controlling the entire \Nhuman race is impossible.
+Dialogue: 0,0:05:17.42,0:05:21.71,Default,Alphon,0,0,0,,But bringing the Yamato crew, which \Nnumber just over a hundred, together,
+Dialogue: 0,0:05:21.71,0:05:23.18,Default,Alphon,0,0,0,,is not impossible at all.
+Dialogue: 0,0:05:26.15,0:05:29.53,Default,Alphon,0,0,0,,Then the bomb erases the minds \Nof everyone on Earth.
+Dialogue: 0,0:05:29.97,0:05:35.94,Default,Alphon,0,0,0,,That would make the crew's element \Nthe embodiment of mankind's unified will.
+Dialogue: 0,0:05:36.87,0:05:42.44,Default,Alphon,0,0,0,,What I don't know is why you want \Nthe pure wave motion core so badly.
+Dialogue: 0,0:05:43.87,0:05:48.08,Default,Alphon,0,0,0,,The answer to that will also be \Nthe answer to your first question.
+Dialogue: 0,0:05:48.78,0:05:51.36,Default,Alphon,0,0,0,,Who are we?
+Dialogue: 0,0:05:53.36,0:05:54.79,Default,Niimi,0,0,0,,Sasha?
+Dialogue: 0,0:05:55.27,0:05:58.34,Default,Niimi,0,0,0,,You're saying that you're Sasha?
+Dialogue: 0,0:05:59.01,0:06:00.30,Default,Niimi,0,0,0,,Impossible.
+Dialogue: 0,0:06:00.30,0:06:02.21,Default,Niimi,0,0,0,,Sasha is two years old.
+Dialogue: 0,0:06:02.21,0:06:05.72,Default,Niimi,0,0,0,,It hasn't even been two months \Nsince she was taken from me.
+Dialogue: 0,0:06:06.39,0:06:08.26,Default,Sasha,0,0,0,,What are you saying, Auntie?
+Dialogue: 0,0:06:10.02,0:06:14.92,Default,Sasha,0,0,0,,We lived together for years after \Nbeing taken to the Dezarium Earth.
+Dialogue: 0,0:06:14.92,0:06:16.08,Default,Sasha,0,0,0,,You remember, right?
+Dialogue: 0,0:06:16.08,0:06:19.82,Default,Sasha,0,0,0,,Our home was rebuilt \Nin what used to be Japan.
+Dialogue: 0,0:06:19.82,0:06:21.02,Default,Analyzer,0,0,0,,Sasha-san.
+Dialogue: 0,0:06:22.08,0:06:25.43,Default,Analyzer,0,0,0,,Analysis indicates that it has \Nonly been approximately 60 days
+Dialogue: 0,0:06:25.43,0:06:29.32,Default,Analyzer,0,0,0,,since Niimi-san's body \Nhas left the Yamato.
+Dialogue: 0,0:06:30.11,0:06:35.16,Default,Analyzer,0,0,0,,There is nothing to prove that the \N15 years you spent with her were real.
+Dialogue: 0,0:06:40.14,0:06:45.02,Default,Sasha,0,0,0,,But then… how did I…
+Dialogue: 0,0:06:45.83,0:06:48.45,Default,Sasha,0,0,0,,What am I?
+Dialogue: 0,0:06:49.13,0:06:51.05,Default,Mother,0,0,0,,You're my daughter.
+Dialogue: 0,0:06:52.51,0:06:54.69,Default,Mother,0,0,0,,Isn't that enough?
+Dialogue: 0,0:06:56.99,0:06:59.41,Default,Sasha,0,0,0,,Mother Dezarium…
+Dialogue: 0,0:07:02.02,0:07:05.73,Default,Mother,0,0,0,,I left her alive because I thought \Nshe'd be useful someday.
+Dialogue: 0,0:07:05.73,0:07:08.04,Default,Mother,0,0,0,,But this woman means nothing.
+Dialogue: 0,0:07:08.04,0:07:10.04,Default,Mother,0,0,0,,Let's go.
+Dialogue: 0,0:07:10.75,0:07:13.00,Default,Sasha,0,0,0,,If we're going, we're taking Aunt Niimi!
+Dialogue: 0,0:07:14.31,0:07:15.50,Default,Mother,0,0,0,,Sasha!
+Dialogue: 0,0:07:15.50,0:07:17.36,Default,Sasha,0,0,0,,I threw away my com-medal!
+Dialogue: 0,0:07:17.36,0:07:19.46,Default,Sasha,0,0,0,,I won't be your slave anymore!
+Dialogue: 0,0:07:19.46,0:07:21.25,Default,Sasha,0,0,0,,Tell me the truth!
+Dialogue: 0,0:07:29.18,0:07:31.80,Default,Mother,0,0,0,,I put a phase transition device in you
+Dialogue: 0,0:07:31.80,0:07:35.60,Default,Mother,0,0,0,,so that you could serve \Nyour role as priestess.
+Dialogue: 0,0:07:35.95,0:07:39.81,Default,Mother,0,0,0,,I can make as many com-medals as I need.
+Dialogue: 0,0:07:40.30,0:07:44.17,Default,Niimi,0,0,0,,Then you made… this girl?
+Dialogue: 0,0:07:44.17,0:07:45.52,Default,Analyzer,0,0,0,,That doesn't make sense.
+Dialogue: 0,0:07:45.52,0:07:51.30,Default,Analyzer,0,0,0,,Sasha has used her powers \Nas a child of Iscandar many times.
+Dialogue: 0,0:07:51.30,0:07:53.79,Default,Analyzer,0,0,0,,She could not have been\N artificially created!
+Dialogue: 0,0:07:53.79,0:07:56.08,Default,Mother,0,0,0,,I'm quite curious about that, too.
+Dialogue: 0,0:07:56.71,0:07:59.83,Default,Mother,0,0,0,,How do you have the power of Iscandar?
+Dialogue: 0,0:08:04.56,0:08:06.87,Default,Mother,0,0,0,,Oh, I see.
+Dialogue: 0,0:08:06.87,0:08:09.34,Default,Mother,0,0,0,,I didn't realize until\NI saw them in person.
+Dialogue: 0,0:08:09.71,0:08:11.36,Default,Mother,0,0,0,,Those stones…
+Dialogue: 0,0:08:11.36,0:08:16.15,Default,Mother,0,0,0,,Those stones function as a communicator, \Nallowing you to resonate with it.
+Dialogue: 0,0:08:16.60,0:08:19.56,Default,Mother,0,0,0,,They are a source of noise. \NGive them to me.
+Dialogue: 0,0:08:19.56,0:08:20.23,Default,Mother,0,0,0,,Now…
+Dialogue: 0,0:08:20.23,0:08:24.58,Default,Sasha,0,0,0,,No! Never…
+Dialogue: 0,0:08:24.58,0:08:25.65,Default,Sasha,0,0,0,,I won't!
+Dialogue: 0,0:08:39.90,0:08:42.42,Default,Mother,0,0,0,,Sasha!
+Dialogue: 0,0:08:53.14,0:08:54.77,Default,Niimi,0,0,0,,Wh-Where are we?
+Dialogue: 0,0:08:54.77,0:08:56.06,Default,Niimi,0,0,0,,What's going on?
+Dialogue: 0,0:08:57.56,0:08:59.33,Default,Crowd,0,0,0,,That's some amazing cosplay!
+Dialogue: 0,0:08:59.33,0:09:00.28,Default,Crowd,0,0,0,,What are they promoting?
+Dialogue: 0,0:09:00.28,0:09:02.10,Default,Crowd,0,0,0,,Was this in some fall anime?
+Dialogue: 0,0:09:02.42,0:09:04.02,Default,Crowd,0,0,0,,What's this? It's so cute!
+Dialogue: 0,0:09:04.02,0:09:05.48,Default,Crowd,0,0,0,,It's glowing!
+Dialogue: 0,0:09:08.41,0:09:11.20,Default,Ageha,0,0,0,,Is that… Analyzer?
+Dialogue: 0,0:09:15.70,0:09:17.74,Default,Ageha,0,0,0,,If you think you can catch me…
+Dialogue: 0,0:09:20.79,0:09:22.54,Default,Ageha,0,0,0,,Pulse lasers?!
+Dialogue: 0,0:09:22.54,0:09:23.70,Default,Ageha,0,0,0,,What's going on?
+Dialogue: 0,0:09:34.12,0:09:36.00,Default,Rei,0,0,0,,Sawamura, bring them down.
+Dialogue: 0,0:09:36.00,0:09:36.89,Default,Sawamura,0,0,0,,Roger!
+Dialogue: 0,0:09:36.89,0:09:38.41,Default,Sawamura,0,0,0,,All units, descend!
+Dialogue: 0,0:09:45.27,0:09:47.92,Default,Ageha,0,0,0,,What are they doing? This means…
+Dialogue: 0,0:09:47.92,0:09:49.36,Default,Rei,0,0,0,,History won't change.
+Dialogue: 0,0:09:50.31,0:09:51.64,Default,Rei,0,0,0,,This world is…
+Dialogue: 0,0:09:57.24,0:09:59.16,Default,Domon,0,0,0,,The sea has split open.
+Dialogue: 0,0:09:59.16,0:10:01.37,Default,Shima,0,0,0,,Sanada-san, what is this?
+Dialogue: 0,0:10:02.65,0:10:04.44,Default,Mikage,0,0,0,,Phase energy detected!
+Dialogue: 0,0:10:18.73,0:10:20.60,Default,Mother,0,0,0,,Capture Sasha.
+Dialogue: 0,0:10:21.20,0:10:23.60,Default,Mother,0,0,0,,Do not let her near the Yamato.
+Dialogue: 0,0:10:24.17,0:10:29.24,Default,Mother,0,0,0,,Hurry! Before she learns \Nhow to phase transition!
+Dialogue: 0,0:10:34.84,0:10:36.99,Default,Sanada,0,0,0,,This isn't our Earth.
+Dialogue: 0,0:10:36.99,0:10:39.56,Default,Sanada,0,0,0,,We are not 200 years in the past.
+Dialogue: 0,0:10:40.14,0:10:41.92,Default,Sanada,0,0,0,,It was all a deception.
+Dialogue: 0,0:10:41.92,0:10:45.59,Default,Sanada,0,0,0,,Dezarium camouflage.
+Dialogue: 0,0:10:48.08,0:10:49.40,Default,Domon,0,0,0,,Camouflage?
+Dialogue: 0,0:10:49.40,0:10:51.86,Default,Yamanami,0,0,0,,The spacetime-connection point\Nwas never real.
+Dialogue: 0,0:10:51.86,0:10:55.44,Default,Yamanami,0,0,0,,They wanted us to think\Nwe'd traveled through time,
+Dialogue: 0,0:10:55.44,0:10:58.01,Default,Yamanami,0,0,0,,but they actually trapped us \Nin an special subspace.
+Dialogue: 0,0:10:58.51,0:11:02.56,Default,Kodai,0,0,0,,If that's true, then the real Earth…
+Dialogue: 0,0:11:16.20,0:11:17.94,Default,Sakamoto,0,0,0,,Hey, this is bad!
+Dialogue: 0,0:11:17.94,0:11:21.02,Default,Raiden,0,0,0,,I think the Cosmo Reverse is at its limit!
+Dialogue: 0,0:11:21.02,0:11:23.38,Default,Barel,0,0,0,,We can't even get close?!
+Dialogue: 0,0:11:26.59,0:11:28.10,Default,Barel,0,0,0,,Everyone, get down!
+Dialogue: 0,0:11:32.75,0:11:34.36,Default,Ichise,0,0,0,,Engine power dropping!
+Dialogue: 0,0:11:34.36,0:11:35.88,Default,Kusakabe,0,0,0,,Cosmo Reverse offline!
+Dialogue: 0,0:11:36.23,0:11:37.22,Default,Shinohara,0,0,0,,What about the FCS?
+Dialogue: 0,0:11:37.62,0:11:40.68,Default,Kitano,0,0,0,,It's up, but the main gun is at 30% power!
+Dialogue: 0,0:11:47.31,0:11:50.73,Default,Scarla,0,0,0,,The hated wave motion power is gone.
+Dialogue: 0,0:11:52.86,0:11:54.69,Default,Scarla,0,0,0,,We'll sink them right now!
+Dialogue: 0,0:12:11.53,0:12:12.61,Default,Saki,0,0,0,,XO!
+Dialogue: 0,0:12:15.65,0:12:16.80,Default,Kanzaki,0,0,0,,Don't worry.
+Dialogue: 0,0:12:17.60,0:12:21.17,Default,Kanzaki,0,0,0,,Many of the connections you've made \Nare protecting you and the Ginga.
+Dialogue: 0,0:12:21.59,0:12:24.08,Default,Saki,0,0,0,,Kanzaki-senpai!
+Dialogue: 0,0:12:57.05,0:12:58.95,Default,Ichise,0,0,0,,Thruster output still dropping!
+Dialogue: 0,0:12:58.95,0:13:00.56,Default,Ichise,0,0,0,,The helm isn't responding!
+Dialogue: 0,0:13:00.56,0:13:02.59,Default,Kitano,0,0,0,,Wave motion shields are failing!
+Dialogue: 0,0:13:06.02,0:13:09.96,Default,Barel,0,0,0,,I've finally saved you, but at this rate…
+Dialogue: 0,0:13:10.86,0:13:12.16,Default,Saki,0,0,0,,It's okay.
+Dialogue: 0,0:13:13.52,0:13:15.57,Default,Kusakabe,0,0,0,,Explosive compression \Nin extra-dimensional space!
+Dialogue: 0,0:13:15.57,0:13:16.81,Default,Kusakabe,0,0,0,,Multiple signals detected!
+Dialogue: 0,0:13:20.57,0:13:21.32,Default,Scarla,0,0,0,,What?!
+Dialogue: 0,0:13:22.99,0:13:25.80,Default,Aihara,0,0,0,,All Ajax ships have rebooted perfectly!
+Dialogue: 0,0:13:26.25,0:13:27.83,Default,Tada,0,0,0,,We can do this, Captain Nanbu!
+Dialogue: 0,0:13:27.83,0:13:29.66,Default,Nanbu,0,0,0,,Second wave, attack!
+Dialogue: 0,0:13:37.83,0:13:39.63,Italic,Nanbu,0,0,0,,Gladiator to Ginga!
+Dialogue: 0,0:13:39.63,0:13:40.94,Italic,Nanbu,0,0,0,,Prepare for impact!
+Dialogue: 0,0:13:41.93,0:13:43.13,Default,Shinohara,0,0,0,,Nanbu-san?!
+Dialogue: 0,0:13:43.77,0:13:46.25,Default,Nanbu,0,0,0,,Electronic Cross gauge display \Nbrightness twenty.
+Dialogue: 0,0:13:47.04,0:13:48.54,Default,Nanbu,0,0,0,,Target locked.
+Dialogue: 0,0:13:48.54,0:13:49.64,Default,Nanbu,0,0,0,,Countdown.
+Dialogue: 0,0:13:49.97,0:13:52.64,Default,Nanbu,0,0,0,,10… 9… 8…
+Dialogue: 0,0:13:52.94,0:13:55.28,Default,Nanbu,0,0,0,,7… 6… 5…
+Dialogue: 0,0:13:55.28,0:13:58.44,Italic,Kazan,0,0,0,,Call off your attack immediately.
+Dialogue: 0,0:13:58.44,0:14:00.12,Italic,Kazan,0,0,0,,Or…
+Dialogue: 0,0:14:00.61,0:14:05.20,Italic,Kazan,0,0,0,,I don't need to finish my sentence, \Ndo I, Nanbu-kun?
+Dialogue: 0,0:14:05.77,0:14:07.11,Default,Alphon,0,0,0,,How cowardly!
+Dialogue: 0,0:14:07.95,0:14:11.83,Default,Skulldart,0,0,0,,The president of Nanbu Heavy Industries,
+Dialogue: 0,0:14:11.83,0:14:16.53,Default,Skulldart,0,0,0,,who was the first to receive \Nour message and take action.
+Dialogue: 0,0:14:17.29,0:14:19.05,Italic,Skulldart,0,0,0,,The first to betray…
+Dialogue: 0,0:14:19.50,0:14:24.06,Italic,Skulldart,0,0,0,,would be the first to turn traitor\Nagain when circumstances shift.
+Dialogue: 0,0:14:24.84,0:14:26.97,Italic,Skulldart,0,0,0,,Which of us is a coward?
+Dialogue: 0,0:14:27.48,0:14:31.52,Italic,NanbuDad,0,0,0,,Yasuo, you've already made your decision.
+Dialogue: 0,0:14:32.16,0:14:33.89,Italic,NanbuDad,0,0,0,,Commit to it.
+Dialogue: 0,0:14:34.26,0:14:38.90,Italic,NanbuDad,0,0,0,,Sometimes, you must make \Ndifficult choices in order to survive.
+Dialogue: 0,0:14:39.31,0:14:42.86,Italic,NanbuDad,0,0,0,,This will be your first time\Nexperiencing that.
+Dialogue: 0,0:14:42.86,0:14:46.02,Default,NanbuDad,0,0,0,,But for now, you don't\Nneed to bear the guilt.
+Dialogue: 0,0:14:47.23,0:14:50.79,Default,NanbuDad,0,0,0,,The situation for\Nhumanity on Earth is dire.
+Dialogue: 0,0:14:51.58,0:14:55.84,Italic,NanbuDad,0,0,0,,All the data indicates that \Nwe will soon meet our end.
+Dialogue: 0,0:14:57.00,0:14:59.76,Italic,NanbuDad,0,0,0,,But I was wrong to let the data decide,
+Dialogue: 0,0:14:59.76,0:15:04.52,Italic,NanbuDad,0,0,0,,instead of trying to see \Nthe future for myself.
+Dialogue: 0,0:15:05.44,0:15:07.44,Italic,NanbuDad,0,0,0,,The future lies before us.
+Dialogue: 0,0:15:08.05,0:15:12.24,Italic,NanbuDad,0,0,0,,It was there all along,\Njust waiting for us to reach out.
+Dialogue: 0,0:15:14.36,0:15:15.48,Default,Nanbu,0,0,0,,Dad…
+Dialogue: 0,0:15:16.31,0:15:18.45,Italic,NanbuDad,0,0,0,,This is my last gift to you.
+Dialogue: 0,0:15:18.45,0:15:21.12,Italic,NanbuDad,0,0,0,,Yasuo, take care of your mother.
+Dialogue: 0,0:15:32.49,0:15:34.20,Default,Nanbu,0,0,0,,Reinitiating countdown!
+Dialogue: 0,0:15:35.15,0:15:38.01,Italic,Nanbu,0,0,0,,8… 7… 6…
+Dialogue: 0,0:15:38.38,0:15:41.29,Italic,Nanbu,0,0,0,,5… 4… 3…
+Dialogue: 0,0:15:41.29,0:15:43.55,Italic,Nanbu,0,0,0,,2… 1…
+Dialogue: 0,0:15:43.55,0:15:45.20,Default,Nanbu,0,0,0,,Fire!
+Dialogue: 0,0:16:11.10,0:16:12.66,Default,Yuria,0,0,0,,Golba Satox has been destroyed.
+Dialogue: 0,0:16:13.01,0:16:15.34,Default,Yuria,0,0,0,,Phase energy has been cut off.
+Dialogue: 0,0:16:15.34,0:16:17.37,Default,Hoshina,0,0,0,,Wave motion core loaded!
+Dialogue: 0,0:16:17.75,0:16:20.66,Default,Hoshina,0,0,0,,Engine shifting from external power \Nto normal operation.
+Dialogue: 0,0:16:22.24,0:16:25.67,Default,Hoshina,0,0,0,,CEO Nanbu was planning \Nto do this from the start.
+Dialogue: 0,0:16:28.97,0:16:33.38,Default,Yuki,0,0,0,,We will carry on his hopes for the future.
+Dialogue: 0,0:16:34.99,0:16:38.35,Default,Yuki,0,0,0,,All that remains is the phase cell \Nin the Grand Reverse.
+Dialogue: 0,0:16:39.14,0:16:42.03,Default,Yuki,0,0,0,,We will destroy the cell, \Nwhich also functions as a spare battery,
+Dialogue: 0,0:16:42.03,0:16:45.36,Default,Yuki,0,0,0,,and neutralize \Nall Dezarium forces on Earth.
+Dialogue: 0,0:16:46.55,0:16:48.72,Default,Yuki,0,0,0,,Arizona, launch!
+Dialogue: 0,0:17:08.00,0:17:10.68,Default,Yuki,0,0,0,,Deploy spatial magnetic coating!
+Dialogue: 0,0:17:24.11,0:17:25.20,Default,Hoshina,0,0,0,,Pressure looks good!
+Dialogue: 0,0:17:25.20,0:17:26.19,Default,Hoshina,0,0,0,,We're ready to go!
+Dialogue: 0,0:17:26.19,0:17:27.94,Default,Yuki,0,0,0,,Amplify and reflect!
+Dialogue: 0,0:17:33.03,0:17:34.41,Default,Yuki,0,0,0,,We'll pay you back double.
+Dialogue: 0,0:18:01.99,0:18:04.81,Default,Nagakura,0,0,0,,If this goes south, Kurata and \NAmagi are to cover the kid.
+Dialogue: 0,0:18:05.14,0:18:07.34,Default,Nagakura,0,0,0,,We can't lose our guide!
+Dialogue: 0,0:18:07.34,0:18:08.47,Default,Amagi,0,0,0,,Roger that!
+Dialogue: 0,0:18:08.47,0:18:10.49,Default,Amagi,0,0,0,,The kid's our lifeline!
+Dialogue: 0,0:18:10.49,0:18:13.43,Default,Kurata,0,0,0,,We'll keep you safe, kid.
+Dialogue: 0,0:18:14.06,0:18:15.66,Default,Isidor,0,0,0,,My name is Isidor!
+Dialogue: 0,0:18:35.11,0:18:36.38,Default,Makoto,0,0,0,,Jiro-kun…
+Dialogue: 0,0:18:40.56,0:18:42.20,Default,Jiro,0,0,0,,We can escape if we leave now.
+Dialogue: 0,0:18:42.85,0:18:45.08,Default,Jiro,0,0,0,,I'm going to save Tsubasa.
+Dialogue: 0,0:18:45.95,0:18:47.56,Default,Jiro,0,0,0,,You hurry, too.
+Dialogue: 0,0:18:47.56,0:18:50.29,Default,Makoto,0,0,0,,Are you sure? \NAren't you with the Dezarium?
+Dialogue: 0,0:18:50.29,0:18:51.03,Default,Jiro,0,0,0,,I don't know!
+Dialogue: 0,0:18:52.56,0:18:55.68,Default,Jiro,0,0,0,,I don't know. I don't know…
+Dialogue: 0,0:18:56.17,0:18:59.45,Default,Jiro,0,0,0,,I don't know what's right or wrong.
+Dialogue: 0,0:18:59.88,0:19:01.95,Default,Jiro,0,0,0,,Everybody says something different.
+Dialogue: 0,0:19:02.72,0:19:04.58,Default,Jiro,0,0,0,,It wasn't like this before!
+Dialogue: 0,0:19:05.26,0:19:09.60,Default,Jiro,0,0,0,,When we were waiting for the Yamato \Nto come back, we all felt the same way!
+Dialogue: 0,0:19:10.57,0:19:11.75,Default,Jiro,0,0,0,,But now…
+Dialogue: 0,0:19:14.37,0:19:16.80,Default,Jiro,0,0,0,,Auntie, can you remember?
+Dialogue: 0,0:19:17.31,0:19:19.00,Default,Jiro,0,0,0,,I can't!
+Dialogue: 0,0:19:19.00,0:19:20.40,Default,Jiro,0,0,0,,How I felt then…
+Dialogue: 0,0:19:22.06,0:19:24.20,Default,Jiro,0,0,0,,Why did this happen?
+Dialogue: 0,0:19:25.31,0:19:28.20,Default,Jiro,0,0,0,,Auntie, tell me.
+Dialogue: 0,0:19:33.09,0:19:37.76,Default,Skulldart,0,0,0,,We can control the minds of\Nthe masses, but not their hearts?
+Dialogue: 0,0:19:38.35,0:19:44.16,Default,Skulldart,0,0,0,,It appears you overestimated \Nthe strength of the Earthlings' element.
+Dialogue: 0,0:19:44.48,0:19:47.11,Italic,Mother,0,0,0,,We can still perform the ritual.
+Dialogue: 0,0:19:47.11,0:19:52.10,Italic,Mother,0,0,0,,And the Grand Reverse is the key. \NWe cannot lose it.
+Dialogue: 0,0:19:52.10,0:19:55.39,Italic,Mother,0,0,0,,Take action before \Nthe phase energy runs out.
+Dialogue: 0,0:19:55.39,0:19:56.93,Default,Skulldart,0,0,0,,As you wish.
+Dialogue: 0,0:19:57.31,0:20:01.39,Default,Mother,0,0,0,,I'm counting on you, Father 7038.
+Dialogue: 0,0:20:44.23,0:20:46.47,Italic,Mother,0,0,0,,Stop the Yamato's advance.
+Dialogue: 0,0:20:47.11,0:20:51.04,Italic,Mother,0,0,0,,Sasha must not be allowed \Nto reach the Yamato!
+Dialogue: 0,0:20:56.99,0:20:59.60,Default,Saito,0,0,0,,What's going on here?!
+Dialogue: 0,0:21:16.29,0:21:18.42,Default,Analyzer,0,0,0,,This way! This way!
+Dialogue: 0,0:21:18.81,0:21:21.34,Default,Analyzer,0,0,0,,Be careful with your touchdown!
+Dialogue: 0,0:21:23.83,0:21:25.95,Default,Kodai,0,0,0,,Sasha! Analyzer!
+Dialogue: 0,0:21:26.72,0:21:27.96,Default,Niimi,0,0,0,,Kodai-san!
+Dialogue: 0,0:21:27.96,0:21:29.21,Default,Niimi,0,0,0,,And Mikage, too?!
+Dialogue: 0,0:21:31.19,0:21:33.14,Default,Mikage,0,0,0,,Niimi-san? You're alive?
+Dialogue: 0,0:21:33.14,0:21:34.24,Default,Mikage,0,0,0,,How?
+Dialogue: 0,0:21:37.55,0:21:38.59,Default,Kodai,0,0,0,,Sasha.
+Dialogue: 0,0:21:39.92,0:21:41.55,Italic,Rei,0,0,0,,Yankee 1 to Seagull.
+Dialogue: 0,0:21:42.87,0:21:45.16,Default,Rei,0,0,0,,The six-legged things \Nare heading your way.
+Dialogue: 0,0:21:45.77,0:21:47.45,Italic,Rei,0,0,0,,I can't intervene like this.
+Dialogue: 0,0:21:48.22,0:21:49.49,Italic,Rei,0,0,0,,Take off, now.
+Dialogue: 0,0:21:50.17,0:21:51.91,Default,Kodai,0,0,0,,We'll talk later, Sasha.
+Dialogue: 0,0:21:51.91,0:21:52.79,Default,Kodai,0,0,0,,For now, we'll head to the Yamato.
+Dialogue: 0,0:21:54.11,0:21:57.17,Default,Sasha,0,0,0,,I… I'll stay here.
+Dialogue: 0,0:21:58.62,0:21:59.55,Default,Kodai,0,0,0,,Sasha!
+Dialogue: 0,0:22:00.01,0:22:02.87,Default,Sasha,0,0,0,,No… No…
+Dialogue: 0,0:22:03.38,0:22:04.45,Default,Sasha,0,0,0,,I…
+Dialogue: 0,0:22:05.34,0:22:06.56,Default,Kodai,0,0,0,,Sasha, this place is dangerous.
+Dialogue: 0,0:22:06.56,0:22:07.51,Default,Sasha,0,0,0,,I'm not Sasha!
+Dialogue: 0,0:22:08.50,0:22:10.98,Default,Sasha,0,0,0,,I… I…
+Dialogue: 0,0:22:12.08,0:22:14.44,Default,Sasha,0,0,0,,I wasn't part of your family, Uncle.
+Dialogue: 0,0:22:15.63,0:22:17.94,Default,Sasha,0,0,0,,I'm sorry, Uncle.
+Dialogue: 0,0:22:18.65,0:22:19.73,Default,Sasha,0,0,0,,Goodbye.
+Dialogue: 0,0:22:25.53,0:22:29.49,Default,Sasha,0,0,0,,Mikage-san, thanks for letting me \Nhang out with the other girls.
+Dialogue: 0,0:22:29.49,0:22:30.71,Default,Sasha,0,0,0,,Take care of my uncle!
+Dialogue: 0,0:22:30.71,0:22:32.12,Default,Sasha,0,0,0,,And Aunt Niimi, too!
+Dialogue: 0,0:22:33.04,0:22:34.67,Default,Mikage,0,0,0,,Sasha?!
+Dialogue: 0,0:22:34.97,0:22:36.31,Default,Analyzer,0,0,0,,Sasha-san!
+Dialogue: 0,0:22:39.79,0:22:41.45,Default,Kodai,0,0,0,,Sasha…
+Dialogue: 0,0:22:41.34,0:22:44.97,Signs,Sign,0,0,0,,{\an1\fad(700,000)\fs15\blur2\3c&H39322D&\pos(49.301,287.889)}Episode 23:\N Launch the Arizona! Defeat the Grand Reverse!
+Dialogue: 0,0:22:45.05,0:22:49.97,Signs,Sign,0,0,0,,{\fad(500,000)\fs15\bord1\blur2\3c&H242424&\pos(317.171,233.499)}Next Time:\NAll-Out Attack! Gather the Partisan Fleet!
+
