@@ -1,0 +1,151 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: main,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: top,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: italicstop,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: flashback,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: flashback italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: flashbacktop,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: flashbackitalicstop,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: overlap,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: overlaptop,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: overlap italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: sign_Arial,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_ArialBlack,Arial Black,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_CourierNew,Courier New,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_ComicSansMS,Comic Sans MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Georgia,Georgia,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Impact,Impact,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_TimesNewRoman,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_TrebuchetMS,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Verdana,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.98,sign_Arial,text (top section),0,0,0,,{\an8\c&HCECECE&\bord0\shad0\fs12\pos(321,94)}This is a work of fiction.
+Dialogue: 0,0:00:00.00,0:00:04.98,sign_Arial,text (2nd section),0,0,0,,{\an8\c&HCECECE&\bord0\shad0\fs12\pos(319,142)\q2}Forex (foreign exchange margin trading) is a high-risk venture, and it's possible for losses to exceed margin payments.
+Dialogue: 0,0:00:00.00,0:00:04.98,sign_Arial,text (3rd section),0,0,0,,{\an8\c&HCECECE&\bord0\shad0\fs11\q2\pos(316,193)}There is a risk that excessive trading can interfere with one's daily life, so please think it over carefully and proceed with caution.
+Dialogue: 0,0:00:00.00,0:00:04.98,sign_Arial,text (4th section),0,0,0,,{\an8\c&HCECECE&\bord5\shad0\fs8\q2\pos(318,242)}The story contains depictions of foreign forex brokers and high-leverage transactions not in accordance with Japanese law,\N but there is risk involved in trading with parties not registered with the Financial Services Agency. Please do not attempt it.
+Dialogue: 0,0:00:00.00,0:00:04.98,sign_Arial,text (bottom section),0,0,0,,{\an8\c&HCECECE&\bord5\shad0\fs8\q2\pos(316,309)}Furthermore, when actually engaging in trading, read all pre-contractual documentation carefully.\N Once you understand the contents therein, please be aware that engaging in forex trading is your own decision, and you assume total responsibility.
+Dialogue: 0,0:00:07.24,0:00:09.57,sign_Arial,text (top line),0,0,0,,{\pos(365,65)\3c&H6526EA&\shad0\fs8}Unveiling of New Terminals Postponed - Supply Chain Delays Could Be the Cause
+Dialogue: 0,0:00:07.24,0:00:09.57,sign_Arial,text (2nd line),0,0,0,,{\3c&H6526EA&\shad0\fs8\pos(366,107)}Popular Chain Reduces Late Night Hours - Labor Shortage Intensifies
+Dialogue: 0,0:00:17.29,0:00:23.29,sign_Verdana,text (blue),0,0,0,,{\an8\3c&HFBA858&\shad0\fs30\bord4}Today's 12 Zodiac Rankings
+Dialogue: 0,0:00:17.29,0:00:23.29,sign_Verdana,text (gold),0,0,0,,{\pos(144,115)\c&H4F9BB3&\3c&HFFFFFF&\bord4\shad0f\fs25}1st Place: Pisces
+Dialogue: 0,0:00:17.29,0:00:23.29,sign_Verdana,text (2nd),0,0,0,,{\an9\i1\c&HF8CCDD&\3c&H995D65&\bord3\shad0\pos(602,93)\fs15}2nd Place: Taurus\N 3rd Place: Gemini\N 4th Place: Leo\N 5th Place: Cancer\N 6th Place: Scorpio\N 7th Place: Aries\N 8th Place: Virgo\N 9th Place: Capricorn\N 10th Place: Libra\N 11th Place: Sagittarius\N{\c&HC69098&\3c&H832827&} 12th Place: Aquarius
+Dialogue: 0,0:00:36.06,0:00:40.06,sign_Arial,text (left side),0,0,0,,{\c&H4E4B54&\3c&HF6F6F6&\shad0\bord4\frz32.01\pos(74,147)}Deposit
+Dialogue: 0,0:00:36.06,0:00:40.06,sign_Arial,text (right side; next to slider),0,0,0,,{\c&H494552&\bord0\shad0\fs15\pos(500,125)\frx38\fry356}Post-Trade Balance
+Dialogue: 0,0:00:36.06,0:00:40.06,sign_Arial,text (right side; bottom left),0,0,0,,{\c&H39363F&\bord0\shad0\fs15\frx34\fry344\pos(340,224)}Foreign Account
+Dialogue: 0,0:00:36.06,0:00:40.06,sign_Arial,text (right side; bottom right),0,0,0,,{\c&H383341&\bord0\shad0\frx44\fry354\pos(593,222)}yen
+Dialogue: 0,0:00:48.69,0:00:53.32,sign_Arial,text (red boxes),0,0,0,,{\an7\3c&H06003C&\bord4}Ramen\N{\c&H3A4D58&\3c&H043850&}Sukiyaki Fixings\N{\c&H251828&\3c&H605C63&} Seafood Gratin\N{\c&H76676B&\3c&H0D2450&} Spring Curry\N{\c&H6B6370&\3c&H363C67&}Curry
+Dialogue: 0,0:00:59.71,0:01:04.46,sign_TimesNewRoman,text,0,0,0,,{\an8\fs40\c&H444D54&\bord0\shad0}Iron wall
+Dialogue: 0,0:02:51.94,0:02:56.45,sign_Arial,text (right),0,0,0,,{\an8\3c&H77904D&\shad0\frz-9.6\pos(500,101)\c&HBABFAD&\bord0\fs12}Account Balance
+Dialogue: 0,0:03:31.19,0:03:33.69,sign_Arial,text (green),0,0,0,,{\an1\c&H6C8A79&\bord0\shad0\move(100,59,100,44,1,146)\fad(146,1)}Incoming Message
+Dialogue: 0,0:03:31.19,0:03:33.69,sign_Arial,text (white),0,0,0,,{\an1\fs12\move(170,145,170,135,1,146)\c&H6C8A79&\bord0\shad0\fad(146,1)}Long time no talk!\NSchool starts soon, but before that, you want to hang out\Nand compare notes on where we are so far with the Forex Investment(?) Battle?
+Dialogue: 0,0:04:05.10,0:04:09.23,sign_Arial,text (green; left),0,0,0,,{\an4\c&H231D43&\3c&H3D4B3C&\shad0}Duck Onion Ramen\N {\c&H1E1115&\3c&HA18489&}Seafood Gratin\N {\c&H110A10&\3c&H3E4370&}Sukiyaki Fixings
+Dialogue: 0,0:04:33.96,0:04:37.63,sign_ComicSansMS,text (upper left),0,0,0,,{\an7\c&H363636&\3c&HFCFAFA&\shad0\bord4\fs15}giraffe\N{\c&HCB182F&\fs20} Investment Battle Rules\N{\c&H514F4F&\gs15} by Kurumi
+Dialogue: 0,0:04:48.10,0:04:51.56,sign_ComicSansMS,text (upper left),0,0,0,,{\pos(86,37)\shad0\c&H414141&\3c&HFFFFFF&}giraffe
+Dialogue: 0,0:04:48.10,0:04:51.56,sign_ComicSansMS,text (blue),0,0,0,,{\an7\shad0\c&HEE2D42&\3c&HFAFAFA&\bord4\pos(226,195)}Investment Battle Rules
+Dialogue: 0,0:04:48.10,0:04:51.56,sign_ComicSansMS,text (under blue),0,0,0,,{\pos(444,230)\c&H171717&\3c&HCFCFCF&\shad0}by Kurumi
+Dialogue: 0,0:04:48.10,0:04:51.56,sign_ComicSansMS,text (1),0,0,0,,{\an1\fs15\pos(138,258)\c&H161616&\shad0\bord0}Starting now in September, until 12/25.
+Dialogue: 0,0:04:53.48,0:04:58.11,sign_ComicSansMS,text (top),0,0,0,,{\an7\c&H191718&\3c&HFFFFFF&\fs15\shad0\pos(368,64)}Outcome: Not a competition of total money,\N but of rate of increase
+Dialogue: 0,0:04:53.48,0:04:58.11,sign_ComicSansMS,text (list left; 1st),0,0,0,,{\an1\bord0\shad0\c&H3E3D3E&\pos(71,198)}Yasuko
+Dialogue: 0,0:04:53.48,0:04:58.11,sign_ComicSansMS,text (list right; 1st),0,0,0,,{\an8\c&H464654&\3c&H9A9DB7&\shad0\pos(544,220)}1st place
+Dialogue: 0,0:04:53.48,0:04:58.11,sign_ComicSansMS,text (list left; 2nd),0,0,0,,{\an1\bord0\shad0\c&H3E3D3E&\pos(70,238)}Kurumi
+Dialogue: 0,0:04:53.48,0:04:58.11,sign_ComicSansMS,text (list right; 2nd),0,0,0,,{\bord0\shad0\c&H262325&\pos(454,220)}4th place
+Dialogue: 0,0:04:53.48,0:04:58.11,sign_ComicSansMS,text (list left; 3rd),0,0,0,,{\an1\bord0\shad0\c&H3E3D3E&\pos(65,279)}Mebuki
+Dialogue: 0,0:04:53.48,0:04:58.11,sign_ComicSansMS,text (list right; 3rd),0,0,0,,{\bord0\shad0\c&H262325&\pos(460,252)}3rd place
+Dialogue: 0,0:04:53.48,0:04:58.11,sign_ComicSansMS,text (list left; 4th),0,0,0,,{\an1\bord0\shad0\c&H3E3D3E&\pos(69,321)}Mochiko
+Dialogue: 0,0:04:53.48,0:04:58.11,sign_ComicSansMS,text (list right; 4th),0,0,0,,{\an8\c&H464654&\3c&H9A9DB7&\shad0\pos(503,300)}2nd place
+Dialogue: 0,0:05:15.71,0:05:18.09,sign_Arial,text (top line),0,0,0,,{\an4\shad0\bord0\frz-10.5\pos(225,55)\fax-0.02\fs15}Balance:
+Dialogue: 0,0:05:15.71,0:05:18.09,sign_Arial,text (2nd line),0,0,0,,{\an4\shad0\bord0\frz-10.5\fax-0.02\pos(255,81)\fs15}Equity:
+Dialogue: 0,0:05:15.71,0:05:18.09,sign_Arial,text (3rd line),0,0,0,,{\an4\shad0\bord0\frz-10.5\fax-0.02\pos(230,97)\fs15}Margin:
+Dialogue: 0,0:05:15.71,0:05:18.09,sign_Arial,text (4th line),0,0,0,,{\an4\shad0\bord0\frz-10.5\fax-0.02\pos(248,120)\fs15}Free Margin
+Dialogue: 0,0:05:15.71,0:05:18.09,sign_Arial,text (5th line),0,0,0,,{\an4\shad0\bord0\frz-10.5\fax-0.02\pos(286,148)\fs15}Margin Level (%)
+Dialogue: 0,0:05:15.71,0:05:18.09,sign_Arial,text (6th line),0,0,0,,{\an4\shad0\bord0\frz-10.5\fax-0.02\fs15\pos(171,145)}Position
+Dialogue: 0,0:05:30.06,0:05:32.19,sign_ComicSansMS,text (top),0,0,0,,{\an7\c&H4C4A4B&\3c&HF4F3F5&\shad0}Outcome: Not a competition of total money,\N but of rate of increase\N Yasuko: {\c&H434047&\3c&HD5D7ED&}1st place\N{\c&H4C4A4B&\3c&HF4F3F5&}Kurumi: 4th place\N Mebuki: 3rd place\N Mochiko: {\c&H434047&\3c&HD5D7ED&}2nd place
+Dialogue: 0,0:05:39.44,0:05:45.41,sign_Georgia,text (top),0,0,0,,{\fad(482,1)\an8}Forex account balance\N 71,052 yen (7.2% decrease)\N (Starting point: 76,573 yen)
+Dialogue: 0,0:05:56.50,0:06:01.55,sign_Georgia,text (top),0,0,0,,{\fad(482,481)\pos(444,224)}Forex account balance\N 13,302,630 yen (10.7% increase)\N (Starting point: 12,014,110 yen)
+Dialogue: 0,0:06:56.98,0:07:01.86,sign_Georgia,text (top),0,0,0,,{\fad(482,1)\an8}Forex account balance\N 4,611,715 yen (73.5% increase)\N (Starting point: 2,656,690 yen)
+Dialogue: 0,0:08:00.17,0:08:01.92,sign_ComicSansMS,text (note),0,0,0,,{\c&H262320&\3c&H776B63&\frz13.83\shad0\fs15\pos(300,36)}To Mebuki: Be sure you eat up.
+Dialogue: 0,0:10:34.45,0:10:36.70,sign_Arial,text (green),0,0,0,,{\c&H5E866E&\3c&H7AF5AA&\bord4\an7\shad0\pos(281,54)\fs9}I'm thinking of showing up for the lecture tomorrow
+Dialogue: 0,0:10:34.45,0:10:36.70,sign_Arial,text (blue),0,0,0,,{\an8\3c&HBA7C76&\shad0\bord4\fs8\pos(325,125)}Today
+Dialogue: 0,0:10:34.45,0:10:36.70,sign_Arial,text (white),0,0,0,,{\an7\c&H717171&\3c&HF7F7F7&\shad0\fs8\pos(207,202)}Taking another day off from school?
+Dialogue: 0,0:10:54.30,0:10:56.59,sign_TimesNewRoman,text (headline),0,0,0,,{\an8\fs30\c&H171619&\3c&HDCDFE2&\shad0\bord4}Financial Crisis\N{\fs15} Emergency-Measure Conference Held to Deal with Financial Crisis
+Dialogue: 0,0:11:29.00,0:11:31.50,sign_Arial,text (white heading),0,0,0,,{\an1\c&H6D6D6F&\3c&HF6F3F3&\shad0\pos(175,143)\fs8\fad(188,1)}Please select your account
+Dialogue: 0,0:11:34.72,0:11:36.72,sign_Arial,text,0,0,0,,{\an8\c&H38334A&\3c&H5F5797&\shad0\pos(104,196)\fs40\fax-0.13\frz24.04\frx350\fry16}Balance
+Dialogue: 0,0:12:34.94,0:12:38.70,sign_Georgia,text,0,0,0,,{\pos(319,299)}9 Hours Later
+Dialogue: 0,0:14:35.31,0:14:37.65,sign_Georgia,text (1st line),0,0,0,,{\an3\shad0\pos(605,188)\fs15\fad(2316,1)}Kurumi\N Forex account balance\N 3,611,715 yen\N (1,000,000 yen defrayed)
+Dialogue: 0,0:16:41.98,0:16:44.86,sign_Arial,text (top left blue bg header),0,0,0,,{\an4\c&HFECFC5&\bord4\shad0\3c&HDA735B&\pos(161,37)}Daily News
+Dialogue: 0,0:16:41.98,0:16:44.86,sign_Arial,text (header; white bg),0,0,0,,{\an1\c&H623B34&\3c&HF7F7F7&\shad0\fs8\pos(20,112)}[Indicators] Economic Indicator Federal Reserve Bank of New York's Manufacturing Report on Business
+Dialogue: 0,0:16:48.99,0:16:50.61,sign_Arial,text,0,0,0,,{\an8\c&H26222C&\3c&H5F5797&\shad0\fs40\fax-0.13\frx350\fry16\pos(66,206)\frz20.68\bord0}Balance
+Dialogue: 0,0:17:02.63,0:17:03.75,sign_Arial,text (top line),0,0,0,,{\an4\shad0\bord0\frz-10.5\fax-0.02\fs15\pos(228,49)\c&HA99A98&}Balance:
+Dialogue: 0,0:17:02.63,0:17:03.75,sign_Arial,text (2nd line),0,0,0,,{\an4\shad0\bord0\frz-10.5\fax-0.02\fs15\pos(262,75)\c&HA99A98&}Equity:
+Dialogue: 0,0:17:02.63,0:17:03.75,sign_Arial,text (3rd line),0,0,0,,{\an4\shad0\bord0\frz-10.5\fax-0.02\fs15\pos(236,89)\c&HA99A98&}Margin:
+Dialogue: 0,0:17:02.63,0:17:03.75,sign_Arial,text (4th line),0,0,0,,{\an4\shad0\bord0\frz-10.5\fax-0.02\fs15\pos(258,113)\c&HA99A98&}Free Margin
+Dialogue: 0,0:17:02.63,0:17:03.75,sign_Arial,text (5th line),0,0,0,,{\an4\shad0\bord0\frz-10.5\fax-0.02\fs15\pos(289,135)\c&HA99A98&}Margin Level (%)
+Dialogue: 0,0:17:02.63,0:17:03.75,sign_Arial,text (6th line),0,0,0,,{\an4\shad0\bord0\frz-10.5\fax-0.02\fs15\pos(185,132)\c&HA99A98&}Position
+Dialogue: 0,0:18:01.23,0:18:02.81,sign_Arial,text (green),0,0,0,,{\an1\c&H6C8A79&\bord0\shad0\move(100,59,100,44,1,146)\fad(146,1)}Incoming Message
+Dialogue: 0,0:18:01.23,0:18:02.81,sign_Arial,text (white),0,0,0,,{\an1\fs19\move(170,145,170,135,1,146)\c&H4B494E&\bord0\shad0\fad(146,1)}I went long on USD/JPY! Sixty lots fired!
+Dialogue: 0,0:18:10.32,0:18:11.78,sign_Arial,text (green),0,0,0,,{\an1\c&H6C8A79&\bord0\shad0\pos(99,46)}Incoming Message
+Dialogue: 0,0:18:10.32,0:18:11.78,sign_Arial,text (white),0,0,0,,{\an1\fs19\c&H4B494E&\bord0\shad0\fad(146,1)\pos(171,138)}USD/JPY, huh...? It does look like it'll climb...
+Dialogue: 0,0:18:17.28,0:18:20.08,sign_Verdana,text (upper right),0,0,0,,{\an7\c&H405050&\3c&HB7FDF4&\shad0\fs15}For Beginners!\N{\fs20\c&HF17963&\3c&HFFF6F1&} How to Draw {\c&HE2ACF6&}Viral Manga\N{\c&H3C3B3C&\fs15} Chunino Yoshiko\N{\c&H403E40&\3c&HF9F9F9&\fs15} Like\N{\3c&HA4F5EB&\fs20} I got 10,000 retweets!
+Dialogue: 0,0:19:51.42,0:19:58.18,sign_Arial,text (top; pink),0,0,0,,{\an7\c&H8F7BB6&\3c&HB299E4&\shad0\fs15}Speed Order\N{\c&H969790&\3c&H31322F&} Straddle Liquidate and Order Simultaneously\N{\c&H85828B&\3c&HBEBEBD&} Liquidate All\N{\c&HDCB6A2&\3c&HD85A2D&} Short Positions {\c&HA89FE3&\3c&H553EE3&}Long Positions\N{\c&HC3B19B&\3c&H85502A&} Open Volume\N Average Rate\N Profit/Loss (pips)\N Valuation Profit/Loss\N Trade Volume
+Dialogue: 0,0:20:30.96,0:20:34.09,sign_Arial,text (top black; left),0,0,0,,{\an7\c&HC2C6BC&\3c&H383739&\shad0}Straddle Liquidate and Order Simultaneously\N{\c&H272335&\3c&HAAA9AB&} Liquidate All\N{\c&H9A8778&\3c&HAE4221&} Short Positions {\c&HADAEC0&\3c&H422EC0&}Long Positions
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (top line; l-2-r),0,0,0,,{\an7\pos(56,26)\c&H686161&\3c&HC9C3B4&\shad0\fsp4}Filter
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (top line; l-2-r),0,0,0,,{\an7\pos(179,27)\c&H7D7B7D&\3c&HD9D8D9&\shad0}Trades: {\3c&HB8B8B9&}All
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (top line; l-2-r),0,0,0,,{\an7\c&H7D7B7D&\3c&HD9D8D9&\shad0\pos(385,30)}Symbol; {\3c&HB8B8B9&}All
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (2nd line),0,0,0,,{\an1\bord0\shad0\c&H484449&\pos(48,65)\fs15}Position Summary
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (3rd line; l-2-r),0,0,0,,{\c&H67625F&\3c&HD3CCBA&\shad0\pos(71,117)}Symbol
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (3rd line; l-2-r),0,0,0,,{\c&H67625F&\3c&HD3CCBA&\shad0\pos(166,117)}Trade
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (3rd line; l-2-r),0,0,0,,{\c&H67625F&\3c&HD3CCBA&\shad0\pos(271,121)}Position Size
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (3rd line; l-2-r),0,0,0,,{\c&H67625F&\3c&HD3CCBA&\shad0\pos(416,117)\fs15}Quantity on Order
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (3rd line; l-2-r),0,0,0,,{\c&H67625F&\3c&HD3CCBA&\shad0\fs15\pos(560,119)}Average Position Rate
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (4th line (red)),0,0,0,,{\an8\c&H8C83D0&\bord4\shad0\pos(164,186)\3c&HF0EFF1&}Short
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (5th line),0,0,0,,{\c&H464348&\bord0\shad0\pos(94,232)}Position List
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (6th line),0,0,0,,{\c&H605E63&\fs8\bord0\shad0\pos(39,268)}Position Number
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (7th line; l-2-r),0,0,0,,{\c&H44423B&\bord0\shad0\pos(69,308)}Symbol
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (7th line; l-2-r),0,0,0,,{\c&H44423B&\bord0\shad0\pos(158,308)}Trade
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (7th line; l-2-r),0,0,0,,{\c&H44423B&\bord0\shad0\pos(273,308)}Position Size
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (7th line; l-2-r),0,0,0,,{\c&H44423B&\bord0\shad0\pos(417,307)\fs15}Quantity on Order
+Dialogue: 0,0:20:40.68,0:20:42.68,sign_Arial,text (7th line; l-2-r),0,0,0,,{\c&H44423B&\bord0\shad0\fs15\pos(558,303)}Position Rate
+Dialogue: 0,0:20:58.65,0:21:00.70,sign_TrebuchetMS,text (header),0,0,0,,{\an8\pos(319,53)\3c&HF1DB98&\shad0}Yasuko
+Dialogue: 0,0:20:58.65,0:21:00.70,sign_TrebuchetMS,text (white bg),0,0,0,,{\an8\pos(320,124)\c&HB59E7B&\bord0\shad0}Position Status
+Dialogue: 0,0:20:58.65,0:21:00.70,sign_TrebuchetMS,text (blue on blue),0,0,0,,{\an8\c&HC6AC8B&\bord0\shad0\pos(316,202)}No Positions
+Dialogue: 0,0:20:58.65,0:21:00.70,sign_TrebuchetMS,text (purple),0,0,0,,{\an7\pos(314,275)\c&HC58C8C&\shad0\3c&HFEEBEB&\fs13}I wonder if Mebuki's okay...
+Dialogue: 0,0:21:00.95,0:21:02.95,sign_TrebuchetMS,text (header),0,0,0,,{\an8\pos(319,53)\3c&H73DFEF&\shad0}Mebuki
+Dialogue: 0,0:21:00.95,0:21:02.95,sign_TrebuchetMS,text (white bg),0,0,0,,{\an8\c&H80ADB7&\bord0\shad0\pos(317,122)}Position Status
+Dialogue: 0,0:21:00.95,0:21:02.95,sign_TrebuchetMS,text (yellow on yellow; 1),0,0,0,,{\an8\c&H8EB6BF&\bord4\shad0\pos(316,202)\fs15\3c&HDAF6F8&}USD/JPY short 20 lots\N Average Purchase Price 106.632 yen
+Dialogue: 0,0:21:00.95,0:21:02.95,sign_TrebuchetMS,text (yellow),0,0,0,,{\an7\c&H6EABC7&\shad0\3c&HD0FFFD&\fs13\pos(324,283)}I'm sure it's gonna drop!
+Dialogue: 0,0:21:03.20,0:21:05.20,sign_TrebuchetMS,text (header),0,0,0,,{\an8\pos(319,53)\3c&H9667E0&\shad0}Kurumi
+Dialogue: 0,0:21:03.20,0:21:05.20,sign_TrebuchetMS,text (white bg),0,0,0,,{\an8\c&HA299BA&\bord0\shad0\pos(317,122)}Position Status
+Dialogue: 0,0:21:03.20,0:21:05.20,sign_TrebuchetMS,text (pink on pink; 1),0,0,0,,{\an8\c&H8EB6BF&\bord4\shad0\pos(316,202)\fs15\3c&HF0EFF6&}USD/JPY long 60 lots\N Average Purchase Price 106.789 yen
+Dialogue: 0,0:21:03.20,0:21:05.20,sign_TrebuchetMS,text (pink),0,0,0,,{\an7\c&HAB5BC0&\shad0\3c&HFADAFC&\fs13\pos(212,268)}Cliiimb
+Dialogue: 0,0:21:05.45,0:21:07.45,sign_TrebuchetMS,text (header),0,0,0,,{\an8\pos(319,53)\3c&HE561E1&\shad0}Mochiko
+Dialogue: 0,0:21:05.45,0:21:07.45,sign_TrebuchetMS,text (white bg),0,0,0,,{\an8\c&HC9A4CE&\bord0\shad0\pos(317,122)}Position Status
+Dialogue: 0,0:21:05.45,0:21:07.45,sign_TrebuchetMS,text (purple on purple; 1),0,0,0,,{\an8\c&HA37BA3&\bord4\shad0\pos(316,202)\fs15\3c&HF0EFF6&}USD/JPY long 50 lots\N Average Purchase Price 106.832 yen
+Dialogue: 0,0:21:05.45,0:21:07.45,sign_TrebuchetMS,text (purple),0,0,0,,{\an7\c&HAF57A0&\shad0\3c&HF5D8EB&\fs13\pos(211,275)}I doubt it'll drop any further...
+Dialogue: 0,0:21:07.70,0:21:09.83,sign_Arial,text (on monitor),0,0,0,,{\an1\pos(2,184)\fs8\c&H646366&\3c&HF3F2F5&\shad0\fs9}Thank you very much.
+Dialogue: 0,0:21:07.70,0:21:09.83,sign_Arial,text (shelves on right),0,0,0,,{\an8\c&H79D4D8&\3c&H445F5F&\shad0\fs10\pos(561,136)}Buy 2 or more and get 50 yen off
+Dialogue: 0,0:21:09.83,0:21:11.83,sign_Georgia,text (top),0,0,0,,{\an3\pos(605,259)}Kurumi\N{\fs19}Unrealized loss/gain +456,600 yen
+Dialogue: 0,0:21:15.46,0:21:17.46,sign_Georgia,text (top),0,0,0,,{\an1\pos(29,255)}Mochiko\N Unrealized loss/gain +359,000 yen
+Dialogue: 0,0:21:20.97,0:21:22.97,sign_Georgia,text (top),0,0,0,,{\an3\pos(592,256)}Yasuko\NUnrealized loss/gain 0 yen
+Dialogue: 0,0:21:22.97,0:21:28.35,sign_TimesNewRoman,text,0,0,0,,{\c&H506487&\3c&H6899AD&\shad0\pos(181,201)\frz-8.53\fax0.13}Shinto Univ
+Dialogue: 0,0:21:28.35,0:21:34.36,sign_Arial,text (top line),0,0,0,,{\an7\fs10\3c&HF2F3F4&\shad0\c&H9E95E6&\pos(26,107)}Y = {\c&HB9B9B9&}GDP (national income)\N{\c&HF1A5A4&} C = {\c&HB9B9B9&}private consumption (consumer spending, private consumption)\N{\c&HDDF3D6&} I = {\c&HB9B9B9&}private investment (corporate capital investment, housing investment, etc.)\N{\c&HB7FFF0&} G = {\c&HB9B9B9&}government expenditure (public works, civil servant wages, etc.)\N{\c&HF790E2&} X - {\c&HF9DFFB&}M = {\c&HB9B9B9&}net exports (exports - imports)
+Dialogue: 0,0:21:34.36,0:21:39.36,sign_Georgia,text (top),0,0,0,,{\an1\pos(34,259)}Mebuki\N Unrealized loss/gain -258,100 yen
+Dialogue: 0,0:23:21.13,0:23:34.98,sign_Arial,text (top),0,0,0,,{\pos(320,105)\fad(1397,1)\c&HFCEAB0&\bord\shad0}Episode Eight
+Dialogue: 0,0:23:21.13,0:23:34.98,sign_Arial,text (bottom),0,0,0,,{\fad(1397,1)\c&HFCEAB0&\bord\shad0\an8\pos(313,201)}Monetary Easing Is a Wild Party
+Dialogue: 0,0:23:34.98,0:23:44.99,sign_TrebuchetMS,text,0,0,0,,{\an1\c&H010000&\3c&HFFFFFF&\shad0\fs13\fscx85\pos(32,324)}Illustration: Igarashi Masakuni
+
