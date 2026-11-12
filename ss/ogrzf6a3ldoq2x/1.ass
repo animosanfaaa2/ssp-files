@@ -1,0 +1,55 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: top,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: italicstop,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: flashback,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: flashback italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: flashbacktop,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: flashbackitalicstop,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: overlap,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: overlaptop,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: overlap italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: main,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Narration,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: sign_generic,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:32.17,0:02:36.72,sign_generic,EPTITLE; sign,0,0,0,,{\b1\fnTimes New Roman\an7\bord1\shad1.25\fade(1358,482)\alphaalphaH&0&\3c&H000000&\c&HF3F8F7&\4c&H000000&\fs18\pos(322.802,289.964)}Episode 18\h\h\h\h Blacksmith Veruga
+Dialogue: 0,0:12:14.17,0:12:16.38,sign_generic,SIGN,0,0,0,,{\an7\b1\fade(675,1)\fs16\bord1.5\blur0.5\3c&HCAD4F9&\c&H153E7C&\pos(300.493,83.039)}Poisonous Chilopoda Dagger {\fs10\b1\blur1\bord2\3c&HDDC361&\c&HFDFDE3&}[Recommended Level: 70]\N {\fs13}Attack: +28\N Market Price: 28,000,000G\N A dagger coated in centipede poison\N Has a low chance to poison enemies
+Dialogue: 0,0:12:44.91,0:12:45.61,sign_generic,SIGN,0,0,0,,{\bord1\blur1\c&H392C41&\b1\3c&H828EB7&\move(341.714,156.143,341.714,3.429)}Mythril Ingot\N\N\N\N\N\N\N{\bord2\3c&HEACD4C&\c&HFFFFBF&}25,000,000G
+Dialogue: 0,0:12:44.91,0:12:46.41,sign_generic,SIGN,0,0,0,,{\bord1\blur1\c&H392C41&\b1\3c&H828EB7&\move(334.857,295.143,334.857,-10.429)}Blacksteel Ingot\N\N\N\N\N\N\N{\bord2\3c&HEACD4C&\c&HFFFFBF&}4,000,000G
+Dialogue: 0,0:12:46.24,0:12:52.00,sign_generic,SIGN,0,0,0,,{\bord1\b1\fade(200,1)\pos(320,250)\fs35\c&H42D2F2&}30,000,000G
+Dialogue: 0,0:12:46.54,0:12:52.00,sign_generic,SIGN,0,0,0,,{\bord1\blur1\b1\fs15\pos(358.857,47.143)\fade(200,1)\c&H3A282C&\3c&HA0C4CD&}Blacksmithing Cost
+Dialogue: 0,0:12:54.75,0:12:56.21,sign_generic,SIGN,0,0,0,,{\fnComic Sans MS\bord1\b1\fs25\c&H90FFFB&\3c&H499D8D&\pos(155.429,128.286)\frz11.56\fade(200,1)}Roughly 30,000,000G
+Dialogue: 0,0:12:54.75,0:12:56.21,sign_generic,SIGN,0,0,0,,{\fnComic Sans MS\bord1\b1\fs25\c&H6CBFB9&\3c&H36766B&\fade(200,1)\pos(187.429,287.143)\frz13.3}28,000,000G
+Dialogue: 0,0:15:28.49,0:15:28.94,sign_generic,sign,0,0,0,,{\b1\bord1.5\shad2\fs15\pos(390.524,182.83)\frz23.13\c&H534890&\fade(1,263)}swing
+Dialogue: 0,0:15:28.99,0:15:29.44,sign_generic,sign,0,0,0,,{\b1\bord1.5\shad2\fs15\c&H534890&\fade(150,263)\frz14.16\pos(366.01,221.32)}swing
+Dialogue: 0,0:15:29.49,0:15:29.90,sign_generic,sign,0,0,0,,{\b1\bord1.5\shad2\fs15\pos(390.524,182.83)\frz23.13\c&H534890&\fade(150,263)}swing
+Dialogue: 0,0:15:29.99,0:15:30.45,sign_generic,sign,0,0,0,,{\b1\bord1.5\shad2\fs15\c&H534890&\fade(150,263)\frz14.16\pos(370.159,218.678)}swing
+Dialogue: 0,0:15:30.49,0:15:30.90,sign_generic,sign,0,0,0,,{\b1\bord1.5\shad2\fs15\pos(390.524,182.83)\frz23.13\c&H534890&\fade(150,263)}swing
+Dialogue: 0,0:15:30.99,0:15:31.45,sign_generic,sign,0,0,0,,{\b1\bord1.5\shad2\fs15\c&H534890&\fade(150,263)\frz14.16\pos(373.176,217.923)}swing
+Dialogue: 0,0:15:31.49,0:15:31.86,sign_generic,sign,0,0,0,,{\b1\bord1.5\shad2\fs15\frz23.13\c&H534890&\fade(150,263)\pos(398.821,180.943)}swing
+Dialogue: 0,0:15:31.99,0:15:32.36,sign_generic,sign,0,0,0,,{\b1\bord1.5\shad2\fs15\c&H534890&\fade(150,263)\frz14.16\pos(374.307,217.546)}swing
+Dialogue: 0,0:15:32.49,0:15:32.57,sign_generic,sign,0,0,0,,{\b1\bord1.5\shad2\fs15\frz23.13\c&H534890&\fade(150,263)\pos(398.821,180.943)}swing
+Dialogue: 0,0:16:04.64,0:16:05.09,sign_generic,sign,0,0,0,,{\b1\bord1.5\shad2\fs15\pos(390.524,182.83)\frz23.13\c&H534890&\fade(1,263)}swing
+Dialogue: 0,0:16:05.14,0:16:05.59,sign_generic,sign,0,0,0,,{\b1\bord1.5\shad2\fs15\c&H534890&\fade(150,263)\frz14.16\pos(366.01,221.32)}swing
+Dialogue: 0,0:16:05.64,0:16:06.05,sign_generic,sign,0,0,0,,{\b1\bord1.5\shad2\fs15\pos(390.524,182.83)\frz23.13\c&H534890&\fade(150,263)}swing
+Dialogue: 0,0:16:06.14,0:16:06.60,sign_generic,sign,0,0,0,,{\b1\bord1.5\shad2\fs15\c&H534890&\fade(150,263)\frz14.16\pos(370.159,218.678)}swing
+Dialogue: 0,0:16:06.64,0:16:07.05,sign_generic,sign,0,0,0,,{\b1\bord1.5\shad2\fs15\pos(390.524,182.83)\frz23.13\c&H534890&\fade(150,263)}swing
+Dialogue: 0,0:19:31.77,0:19:42.66,sign_generic,SIGN,0,0,0,,{\an7\b1\bord1.5\blur0.5\c&H826349&\3c&H8F9CB0&\fade(357,1)\pos(58.416,190.052)}Rune of Destruction\N{\fs15\blur1.5\bord1.5\3c&HEFE57A&\c&HFEFCEA&}Market Price: 20,000,000G\NA destructive Rune\NBoosts weapon Attack by 30%
+Dialogue: 0,0:21:49.91,0:21:56.54,sign_generic,SIGN,0,0,0,,{\an9\fs15\b1\c&HEDEAEB&\3c&H0B1211&\blur1}Translator:\N{\fs17.5}Sho Stifler\N\N{\fs15}Timer:\N{\fs17.5}Krzysztof Kunc\N\N{\fs15}Editor:\N{\fs17.5}Salem Alabanza\N\N{\fs15}Quality Control:\N{\fs17.5}Gabriella Alabanza\N\N{\fs15}Final Quality Control:\N{\fs17.5}Sriram Gurunathan
+
