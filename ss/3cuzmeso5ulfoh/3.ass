@@ -1,0 +1,316 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Cart_Nota,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00262626,&H6F000000,-1,0,0,0,100,100,0,0,1,0,2,2,10,10,50,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:14.87,0:00:17.43,Cart_Nota,CARTEL,0,0,0,,{\fad(1000,0)\pos(320,340)}1969: La humanidad aterriza en la superficie de la Luna con éxito
+Dialogue: 0,0:00:17.46,0:00:19.79,Cart_Nota,CARTEL,0,0,0,,{\fad(1000,0)\pos(320,340)}2111: Comienza la colonización de Marte
+Dialogue: 0,0:00:19.85,0:00:22.10,Cart_Nota,CARTEL,0,0,0,,{\fad(1000,0)\pos(320,340)}2191: Los extraterrestres de Gamilas invaden el Sistema Solar
+Dialogue: 0,0:00:22.67,0:00:24.48,Cart_Nota,CARTEL,0,0,0,,{\fad(1000,0)\pos(320,340)}2199: El Yamato parte hacia Iscandar
+Dialogue: 0,0:00:39.41,0:00:41.48,Cart_Nota,CARTEL,0,0,0,,{\fad(1000,0)\pos(320,340)}Mismo año: Llegada a Iscandar
+Dialogue: 0,0:00:41.58,0:00:44.00,Cart_Nota,CARTEL,0,0,0,,{\fad(1000,0)\pos(320,340)}Mismo año: El Yamato regresa, comienza el plan de restauración de la Tierra
+Dialogue: 0,0:00:44.07,0:00:46.07,Cart_Nota,CARTEL,0,0,0,,{\fad(1000,0)\pos(320,340)}2201: Se firma el tratado de paz entre la Tierra y Gamilas
+Dialogue: 0,0:00:53.20,0:00:55.62,Cart_Nota,CARTEL,0,0,0,,{\fad(1000,0)\pos(320,340)}2203: Batalla en el mar de Saturno, Saturno es destruido
+Dialogue: 0,0:00:55.72,0:00:57.93,Cart_Nota,CARTEL,0,0,0,,{\fad(1000,0)\pos(320,340)}Mismo año: Gatlantis invade la Tierra, el Yamato desaparece
+Dialogue: 0,0:00:58.00,0:00:59.79,Cart_Nota,CARTEL,0,0,0,,{\fad(1000,0)\pos(320,340)}Mismo año: Referéndum ciudadano,\Nel Yamato regresa de la alta dimensión espacial
+Dialogue: 0,0:00:59.89,0:01:02.85,Cart_Nota,CARTEL,0,0,0,,{\fad(1000,0)\pos(320,340)}2205: Comienza la guerra de Galman
+Dialogue: 0,0:01:03.92,0:01:06.59,Cart_Nota,CARTEL,0,0,0,,{\fad(1000,0)\pos(320,340)}Mismo año: Dezariam destruye el planeta Gamilas
+Dialogue: 0,0:01:06.67,0:01:09.59,Cart_Nota,CARTEL,0,0,0,,{\fad(1000,0)\pos(320,340)}Mismo año: Iscandar desaparece
+Dialogue: 0,0:01:10.72,0:01:12.97,Cart_Nota,CARTEL,0,0,0,,{\fad(500,0)\pos(320,340)}2206: Establecimiento de la nación Galman-Gamilas
+Dialogue: 0,0:01:35.57,0:01:37.59,Gen_Main,Nanbu Padre,0,0,0,,En la guerra contra Gamilas,
+Dialogue: 0,0:01:37.69,0:01:40.54,Gen_Main,Nanbu Padre,0,0,0,,la Tierra perdió\Nel 70 % de su población.
+Dialogue: 0,0:01:42.79,0:01:47.80,Gen_Main,Nanbu Padre,0,0,0,,Tras una gran guerra suele producirse\Nun auge de la natalidad como reacción,
+Dialogue: 0,0:01:48.30,0:01:52.51,Gen_Main,Nanbu Padre,0,0,0,,y el bono demográfico\Nimpulsa la reconstrucción,
+Dialogue: 0,0:01:53.22,0:01:57.33,Gen_Main,Nanbu Padre,0,0,0,,pero el entorno de la Tierra\Nera demasiado hostil para esperar eso.
+Dialogue: 0,0:01:58.47,0:02:00.89,Gen_Main,Nanbu Padre,0,0,0,,La naturaleza restaurada\Npor el Cosmo Reverse
+Dialogue: 0,0:02:01.42,0:02:04.84,Gen_Main,Nanbu Padre,0,0,0,,no fue benévola con los humanos,\Ntan acostumbrados a la civilización.
+Dialogue: 0,0:02:05.15,0:02:08.15,Gen_Main,Nanbu Padre,0,0,0,,Incluso la Nueva Capital,\Nciudad modelo de la reconstrucción,
+Dialogue: 0,0:02:08.52,0:02:11.24,Gen_Main,Nanbu Padre,0,0,0,,está rodeada de páramos inhóspitos.
+Dialogue: 0,0:02:11.82,0:02:15.56,Gen_Main,Nanbu Padre,0,0,0,,A eso se sumaron los constantes\Nconflictos con otras civilizaciones,
+Dialogue: 0,0:02:15.71,0:02:18.32,Gen_Main,Nanbu Padre,0,0,0,,pero el problema no era\Nla desigualdad ni la pobreza,
+Dialogue: 0,0:02:18.43,0:02:21.71,Gen_Main,Nanbu Padre,0,0,0,,sino que ya no había\Nesperanza en el futuro.
+Dialogue: 0,0:02:22.00,0:02:24.57,Gen_Main,Nanbu Padre,0,0,0,,Guerras que pueden estallar\Nen cualquier momento,
+Dialogue: 0,0:02:24.67,0:02:26.98,Gen_Main,Nanbu Padre,0,0,0,,aún menos población en 50 años
+Dialogue: 0,0:02:27.08,0:02:31.76,Gen_Main,Nanbu Padre,0,0,0,,y el hecho de que la Tierra ya no podrá\Nfuncionar como un Estado interestelar…
+Dialogue: 0,0:02:31.92,0:02:34.16,Gen_Main,Nanbu Padre,0,0,0,,Todo eso sume a la gente\Nen la desesperación
+Dialogue: 0,0:02:34.26,0:02:38.44,Gen_Main,Nanbu Padre,0,0,0,,y crea un círculo vicioso que los hace\Ndudar incluso de tener hijos.
+Dialogue: 0,0:02:39.64,0:02:41.60,Gen_Main,Nanbu Padre,0,0,0,,Por eso, no importaba si era mentira.
+Dialogue: 0,0:02:42.14,0:02:43.85,Gen_Main,Nanbu Padre,0,0,0,,Incluso el diablo habría servido.
+Dialogue: 0,0:02:44.56,0:02:48.29,Gen_Main,Nanbu Padre,0,0,0,,Necesitábamos algo\Nque nos diera esperanza:
+Dialogue: 0,0:02:49.73,0:02:53.11,Gen_Main,Nanbu Padre,0,0,0,,esos viajeros del futuro\Nque vinieron a cambiar la historia.
+Dialogue: 0,0:02:53.69,0:02:56.13,Gen_Main,Nanbu Padre,0,0,0,,Por muy descabellado que parezca,
+Dialogue: 0,0:02:56.53,0:03:00.51,Gen_Main,Nanbu Padre,0,0,0,,una presencia poderosa\Nen la que depositar nuestra esperanza…
+Dialogue: 0,0:03:04.46,0:03:07.37,Gen_Main,Skulldart,0,0,0,,Entonces, ¿qué somos nosotros?
+Dialogue: 0,0:03:07.79,0:03:10.36,Gen_Main,Skulldart,0,0,0,,Si no pensamos corregir la historia,
+Dialogue: 0,0:03:10.46,0:03:14.13,Gen_Main,Skulldart,0,0,0,,¿para qué vinimos al pasado\Nlos Dezariam?
+Dialogue: 0,0:03:14.42,0:03:17.24,Gen_Main,Alphon,0,0,0,,Probablemente,\Nel objetivo siga siendo el mismo:
+Dialogue: 0,0:03:17.55,0:03:21.04,Gen_Main,Alphon,0,0,0,,obtener un núcleo puro de olas\Nfabricado en Iscandar.
+Dialogue: 0,0:03:21.14,0:03:24.39,Gen_Main,Alphon,0,0,0,,Lo que cambia es el motivo\Npor el que lo necesitamos.
+Dialogue: 0,0:03:25.52,0:03:27.69,Gen_Main,Alphon,0,0,0,,Los núcleos de olas\Nfabricados en Iscandar
+Dialogue: 0,0:03:28.02,0:03:30.54,Gen_Main,Alphon,0,0,0,,responden a la onda única\Nque posee todo ser vivo,
+Dialogue: 0,0:03:30.64,0:03:34.18,Gen_Main,Alphon,0,0,0,,su elemento,\Ny así liberan su verdadero poder.
+Dialogue: 0,0:03:35.40,0:03:40.29,Gen_Main,Alphon,0,0,0,,Solo el elemento de los terrícolas puede\Ninfluir en el núcleo de olas del Yamato.
+Dialogue: 0,0:03:40.80,0:03:46.80,Gen_Main,Alphon,0,0,0,,Es algo que perdimos\Nal evolucionar en {\i1}Homo dezariam{\i0}.
+Dialogue: 0,0:03:47.58,0:03:51.61,Gen_Main,Alphon,0,0,0,,Mientras los terrícolas no acepten\Na Dezariam por voluntad colectiva,
+Dialogue: 0,0:03:51.71,0:03:55.36,Gen_Main,Alphon,0,0,0,,el núcleo puro de olas rechazará\Nla fusión con un cuerpo extraño.
+Dialogue: 0,0:03:55.92,0:03:57.34,Cart_C_Tre,CARTEL,0,0,0,,{\be1\fs15\pos(186,272)}¿Fue obra de los gamilanos residentes?
+Dialogue: 0,0:03:55.92,0:03:57.34,Cart_A_Tre,CARTEL,0,0,0,,{\3c&H0A00AD&\pos(246,66)\fs16\be1}ÚLTIMA\NHORA
+Dialogue: 0,0:03:55.92,0:03:57.34,Cart_C_Tre,CARTEL,0,0,0,,{\fs16\be1\pos(389,9)}Atentado terrorista con bomba en la ciudad de Ichigyo, en la Nueva Capital
+Dialogue: 0,0:03:55.92,0:03:57.34,Cart_A_Tre,CARTEL,0,0,0,,{\3c&H0900AC&\fs15\be1\pos(512,95)}Más de 1000 muertos y heridos
+Dialogue: 1,0:03:55.92,0:03:59.34,Gen_Main,Alphon,0,0,0,,Por eso nos ganamos la confianza\Nde los terrícolas, los engañamos
+Dialogue: 0,0:03:57.34,0:03:58.34,Cart_A_Tre,CARTEL,0,0,0,,{\3c&H0A00AD&\fs16\be1\pos(286,70)}ÚLTIMA\NHORA
+Dialogue: 0,0:03:57.34,0:03:58.34,Cart_C_Tre,CARTEL,0,0,0,,{\fs18\be1\pos(464,9)}Atentado con bomba en la Nueva Capital
+Dialogue: 0,0:03:57.34,0:03:58.34,Cart_A_Tre,CARTEL,0,0,0,,{\3c&H0900AC&\fs14\be1\pos(457,93)}¿El objetivo era el Centro\Nde Asentamiento de Dezariam?
+Dialogue: 0,0:03:57.34,0:03:58.34,Cart_C_Tre,CARTEL,0,0,0,,{\be1\fs15\pos(219,260)}Jardines de niños y otros lugares cercanos\Ntambién resultaron afectados
+Dialogue: 0,0:03:57.34,0:03:58.34,Cart_C_Tre,CARTEL,0,0,0,,{\be1\fs15\pos(460,272)}Más de 1000 muertos
+Dialogue: 0,0:03:59.80,0:04:02.76,Gen_Main,Alphon,0,0,0,,y maniobramos\Npara ponerlos de nuestra parte.
+Dialogue: 1,0:04:03.72,0:04:08.27,Gen_Main,Alphon,0,0,0,,Ahora casi todos los terrícolas\Naceptan el dominio de Dezariam,
+Dialogue: 0,0:04:05.06,0:04:06.43,Cart_A_Tre,CARTEL,0,0,0,,{\3c&HB378F1&\c&HE3DFF2&\fs16\be1\pos(103,3)}ACTUALIDAD
+Dialogue: 0,0:04:05.06,0:04:06.43,Cart_A_Tre,CARTEL,0,0,0,,{\3c&HECE5F2&\c&HD58F79&\fs15\an9\be1\pos(222,61)}Ceremonia de fundación\Ndel Club de Simpatizantes\Nde Dezariam
+Dialogue: 0,0:04:05.06,0:04:06.43,Cart_A_Tre,CARTEL,0,0,0,,{\3c&HD5D5E5&\c&HA33EE1&\an3\be1\pos(612,303)}Participan\N50 representantes\Nde la población civil
+Dialogue: 0,0:04:05.06,0:04:06.43,Cart_A_Tre,CARTEL,0,0,0,,{\3c&HA563EA&\fs15\fnVerdana\i1\be1\pos(605,43)\c&HE3DFF2&}EN VIVO
+Dialogue: 0,0:04:09.06,0:04:12.84,Gen_Main,Alphon,0,0,0,,pero solo manipulamos\Nla psicología de las masas.
+Dialogue: 0,0:04:13.52,0:04:16.94,Gen_Main,Alphon,0,0,0,,No logramos dominar\Nel corazón de cada individuo.
+Dialogue: 0,0:04:17.32,0:04:18.97,Gen_Main,Skulldart,0,0,0,,El corazón…
+Dialogue: 0,0:04:19.07,0:04:21.19,Gen_Main,Alphon,0,0,0,,Esa onda única que posee cada ser vivo
+Dialogue: 0,0:04:21.81,0:04:24.02,Gen_Main,Alphon,0,0,0,,y que ni siquiera uno mismo\Npuede controlar
+Dialogue: 0,0:04:24.12,0:04:26.89,Gen_Main,Alphon,0,0,0,,es el complejo sistema\Nque hace humano al ser humano.
+Dialogue: 0,0:04:27.41,0:04:31.33,Gen_Main,Alphon,0,0,0,,Eso es lo que forma el elemento\Ny la voluntad colectiva de la humanidad.
+Dialogue: 0,0:04:33.00,0:04:36.09,Gen_Main,Alphon,0,0,0,,Si ni siquiera se puede controlar\Nun solo corazón,
+Dialogue: 0,0:04:37.30,0:04:40.96,Gen_Main,Alphon,0,0,0,,manipular a miles de millones de seres\Npara que sientan lo mismo…
+Dialogue: 0,0:04:42.14,0:04:43.83,Gen_Main,Alphon,0,0,0,,es imposible.
+Dialogue: 0,0:04:43.93,0:04:48.60,Gen_Main,Alphon,0,0,0,,Al contrario, cuanto más se les reprime,\Nmayor es la reacción en su corazón.
+Dialogue: 0,0:04:49.23,0:04:51.67,Gen_Main,Alphon,0,0,0,,Ustedes lo sabían desde el principio.
+Dialogue: 0,0:04:52.02,0:04:55.67,Gen_Main,Alphon,0,0,0,,Por eso, este Grand Reverse,\Nla bomba de nucleones pesados…
+Dialogue: 0,0:04:55.77,0:05:01.18,Gen_Main,Skulldart,0,0,0,,Pero, si formatean a los terrícolas,\Nperderán su corazón.
+Dialogue: 0,0:05:01.74,0:05:06.64,Gen_Main,Skulldart,0,0,0,,El elemento desaparecerá y, con él,\Nel poder del núcleo puro de olas.
+Dialogue: 0,0:05:06.74,0:05:09.37,Gen_Main,Skulldart; Alphon,0,0,0,,-Entonces, no tendría sentido…\N-Está el Yamato.
+Dialogue: 0,0:05:10.71,0:05:14.75,Gen_Main,Alphon,0,0,0,,Sí. Visto así, todo encaja.
+Dialogue: 0,0:05:15.50,0:05:19.26,Gen_Main,Alphon,0,0,0,,Aunque no puedan unir\Na toda la humanidad,
+Dialogue: 0,0:05:19.63,0:05:23.18,Gen_Main,Alphon,0,0,0,,no es imposible unir a los poco más\Nde 100 tripulantes del Yamato.
+Dialogue: 0,0:05:26.10,0:05:29.44,Gen_Main,Alphon,0,0,0,,Después, se formatearía\Na todos los humanos de la Tierra.
+Dialogue: 0,0:05:29.89,0:05:32.87,Gen_Main,Alphon,0,0,0,,Así, ellos serían el elemento
+Dialogue: 0,0:05:33.23,0:05:35.94,Gen_Main,Alphon,0,0,0,,y encarnarían\Nla voluntad colectiva de la humanidad.
+Dialogue: 0,0:05:36.77,0:05:42.38,Gen_Main,Alphon,0,0,0,,Lo que no entiendo es por qué\Ndesean tanto el núcleo puro de olas.
+Dialogue: 0,0:05:43.82,0:05:48.08,Gen_Main,Alphon,0,0,0,,Esa respuesta servirá también\Npara responder a tu primera pregunta.
+Dialogue: 0,0:05:48.74,0:05:51.29,Gen_Main,Alphon,0,0,0,,¿Qué somos nosotros en realidad?
+Dialogue: 0,0:05:53.21,0:05:54.71,Gen_Main,Niimi,0,0,0,,¿Sasha?
+Dialogue: 0,0:05:55.21,0:05:58.20,Gen_Main,Niimi,0,0,0,,¿Me estás diciendo que eres Sasha?
+Dialogue: 0,0:05:58.92,0:06:00.30,Gen_Main,Niimi,0,0,0,,Es imposible.
+Dialogue: 0,0:06:00.46,0:06:01.99,Gen_Main,Niimi,0,0,0,,Sasha es una niña de dos años.
+Dialogue: 0,0:06:02.09,0:06:05.62,Gen_Main,Niimi,0,0,0,,Apenas han pasado dos meses\Ndesde que nos separaron.
+Dialogue: 0,0:06:06.30,0:06:08.60,Gen_Main,Sasha,0,0,0,,¿Qué estás diciendo, tía?
+Dialogue: 0,0:06:09.93,0:06:14.71,Gen_Main,Sasha,0,0,0,,¡Nos trajeron a la Tierra de Dezariam\Ny hemos vivido juntas todo este tiempo!
+Dialogue: 0,0:06:14.81,0:06:15.95,Gen_Main,Sasha,0,0,0,,¿Lo recuerdas?
+Dialogue: 0,0:06:16.05,0:06:19.51,Gen_Main,Sasha,0,0,0,,¡Nuestra casa, en la zona reconstruida\Ndonde antes estaba Japón!
+Dialogue: 0,0:06:19.61,0:06:21.07,Gen_Main,Analyzer,0,0,0,,¡Señorita Sasha!
+Dialogue: 0,0:06:21.99,0:06:25.22,Gen_Main,Analyzer,0,0,0,,Desde que la señora Niimi\Ndejó el Yamato,
+Dialogue: 0,0:06:25.32,0:06:28.99,Gen_Main,Analyzer,0,0,0,,su cuerpo solo ha envejecido\Nunos 60 días.
+Dialogue: 0,0:06:30.04,0:06:35.13,Gen_Main,Analyzer,0,0,0,,Nada demuestra que haya pasado\N15 años con usted.
+Dialogue: 0,0:06:40.00,0:06:42.51,Gen_Main,Sasha,0,0,0,,Pero, entonces…
+Dialogue: 0,0:06:43.05,0:06:45.00,Gen_Main,Sasha,0,0,0,,¿por qué yo…?
+Dialogue: 0,0:06:45.76,0:06:48.38,Gen_Main,Sasha,0,0,0,,¿Qué soy yo?
+Dialogue: 0,0:06:49.05,0:06:51.07,Gen_Main,Sada,0,0,0,,Mi hija.
+Dialogue: 0,0:06:52.43,0:06:54.69,Gen_Main,Sada; Madre Dezariam,0,0,0,,Con eso basta, ¿no crees?
+Dialogue: 0,0:06:56.90,0:06:59.42,Gen_Main,Sasha,0,0,0,,Madre… Dezariam…
+Dialogue: 0,0:07:01.98,0:07:05.55,Gen_Main,Sada,0,0,0,,La mantuve aquí\Npor si algún día resultaba útil,
+Dialogue: 0,0:07:05.65,0:07:07.93,Gen_Main,Sada,0,0,0,,pero una mujer así no sirve de nada.
+Dialogue: 0,0:07:08.03,0:07:10.37,Gen_Main,Sada,0,0,0,,Vamos, en marcha.
+Dialogue: 0,0:07:10.70,0:07:13.00,Gen_Main,Sasha,0,0,0,,¡Si yo me voy,\Nla tía Niimi viene también!
+Dialogue: 0,0:07:14.20,0:07:15.50,Gen_Main,Sada,0,0,0,,¿Sasha?
+Dialogue: 0,0:07:15.71,0:07:19.44,Gen_Main,Sasha,0,0,0,,¡Tiré la com-medal!\N¡Ya no voy a obedecerte!
+Dialogue: 0,0:07:19.54,0:07:21.25,Gen_Main,Sasha,0,0,0,,¡Dime la verdad!
+Dialogue: 0,0:07:29.05,0:07:31.62,Gen_Main,Sada,0,0,0,,Para que cumplas tu gran misión\Ncomo sacerdotisa,
+Dialogue: 0,0:07:31.72,0:07:35.60,Gen_Main,Sada,0,0,0,,tu cuerpo lleva integrado\Nun dispositivo de conversión fásica.
+Dialogue: 0,0:07:35.93,0:07:39.81,Gen_Main,Sada,0,0,0,,Puedes generar una com-medal\Ncuantas veces sea necesario.
+Dialogue: 0,0:07:40.23,0:07:43.93,Gen_Main,Niimi,0,0,0,,Entonces, ¿ustedes crearon a esta niña?
+Dialogue: 0,0:07:44.03,0:07:45.58,Gen_Main,Analyzer,0,0,0,,Es absurdo.
+Dialogue: 0,0:07:45.68,0:07:48.39,Gen_Main,Analyzer,0,0,0,,Sasha, como descendiente\Nde los iscandarianos,
+Dialogue: 0,0:07:48.49,0:07:51.10,Gen_Main,Analyzer,0,0,0,,ha demostrado muchas veces\Nsus poderes especiales.
+Dialogue: 0,0:07:51.20,0:07:53.60,Gen_Main,Analyzer,0,0,0,,Es imposible que sea\Nuna creación artificial.
+Dialogue: 0,0:07:53.70,0:07:56.08,Gen_Main,Sada,0,0,0,,Eso quisiera saber yo también.
+Dialogue: 0,0:07:56.62,0:07:59.93,Gen_Main,Sada,0,0,0,,¿Por qué posees el poder de Iscandar?
+Dialogue: 0,0:08:04.46,0:08:06.66,Gen_Main,Sada,0,0,0,,Vaya, ya veo.
+Dialogue: 0,0:08:06.76,0:08:09.34,Gen_Main,Sada,0,0,0,,No lo entendí hasta verlo en persona.
+Dialogue: 0,0:08:09.68,0:08:11.29,Gen_Main,Sada,0,0,0,,Es esa piedra…
+Dialogue: 0,0:08:11.39,0:08:16.27,Gen_Main,Sada,0,0,0,,Esa piedra hace las veces de comunicador\Ny entra en resonancia con aquello.
+Dialogue: 0,0:08:16.81,0:08:20.23,Gen_Main,Sada,0,0,0,,Esa es la fuente de las interferencias.\NDámela, vamos.
+Dialogue: 0,0:08:20.40,0:08:21.47,Gen_Main,Sasha,0,0,0,,No…
+Dialogue: 0,0:08:22.36,0:08:25.65,Gen_Main,Sasha,0,0,0,,¡Jamás te la daré!
+Dialogue: 0,0:08:39.83,0:08:42.42,Gen_Main,Sada,0,0,0,,¡Sasha!
+Dialogue: 0,0:08:53.05,0:08:55.91,Gen_Main,Niimi,0,0,0,,¿Dónde estamos?\N¿Qué significa esto?
+Dialogue: 0,0:08:57.56,0:09:00.04,Gen_Main,Otaku A,0,0,0,,¡Qué bien hecho está!\N¿De qué es esta promoción?
+Dialogue: 0,0:09:00.14,0:09:02.10,Gen_Main,Otaku B,0,0,0,,¿Hay algún anime así este otoño?
+Dialogue: 0,0:09:02.40,0:09:05.44,Gen_Main,Estudiante A; Estudiante B,0,0,0,,-¡Qué lindo!\N-¡Brilla!
+Dialogue: 0,0:09:08.32,0:09:11.20,Gen_Main,Ageha,0,0,0,,Esto es… ¿Analyzer?
+Dialogue: 0,0:09:15.87,0:09:18.14,Gen_Main,Ageha,0,0,0,,A ver si puedes seguirme… ¿Qué?
+Dialogue: 0,0:09:20.96,0:09:23.78,Gen_Main,Ageha,0,0,0,,¿Láseres de pulsos? ¿Qué está pasando?
+Dialogue: 0,0:09:34.01,0:09:36.89,Gen_Italics,Yamamoto; Sawamura,0,0,0,,-¡Sawamura, acaba con él!\N{\i0}-¡Recibido!
+Dialogue: 0,0:09:37.01,0:09:38.51,Gen_Italics,Sawamura,0,0,0,,¡A todas las unidades, atrás!
+Dialogue: 0,0:09:45.23,0:09:47.67,Gen_Main,Ageha,0,0,0,,¿Qué hiciste? ¡A este paso…!
+Dialogue: 0,0:09:47.77,0:09:49.53,Gen_Italics,Yamamoto,0,0,0,,La historia no se alterará.
+Dialogue: 0,0:09:50.19,0:09:51.64,Gen_Main,Yamamoto,0,0,0,,Este mundo…
+Dialogue: 0,0:09:57.20,0:09:59.02,Gen_Main,Domon,0,0,0,,El mar se está abriendo.
+Dialogue: 0,0:09:59.12,0:10:01.42,Gen_Main,Shima,0,0,0,,Señor Sanada, esto es…
+Dialogue: 0,0:10:02.58,0:10:04.51,Gen_Main,Mikage,0,0,0,,¡Energía fásica detectada!
+Dialogue: 0,0:10:18.60,0:10:20.60,Gen_Italics,Madre Dezariam,0,0,0,,Capturen a Sasha.
+Dialogue: 0,0:10:21.14,0:10:23.60,Gen_Italics,Madre Dezariam,0,0,0,,No dejen que se acerque al Yamato.
+Dialogue: 0,0:10:24.19,0:10:29.22,Gen_Italics,Madre Dezariam,0,0,0,,¡Rápido, antes de que Sasha aprenda\Na realizar la conversión fásica!
+Dialogue: 0,0:10:34.74,0:10:36.99,Gen_Main,Sanada,0,0,0,,Esto no es la Tierra.
+Dialogue: 0,0:10:37.12,0:10:39.71,Gen_Main,Sanada,0,0,0,,Y tampoco estamos 200 años en el pasado.
+Dialogue: 0,0:10:40.08,0:10:41.81,Gen_Main,Sanada,0,0,0,,Todo es una mentira.
+Dialogue: 0,0:10:41.91,0:10:45.69,Gen_Main,Sanada,0,0,0,,Es una simulación de Dezariam.
+Dialogue: 0,0:10:47.96,0:10:49.28,Gen_Main,Domon,0,0,0,,¿Una simulación?
+Dialogue: 0,0:10:49.38,0:10:51.74,Gen_Main,Yamanami,0,0,0,,El nodo espacio-tiempo\Ntambién era una farsa.
+Dialogue: 0,0:10:51.84,0:10:53.98,Gen_Main,Yamanami,0,0,0,,Fingieron que viajábamos en el tiempo,
+Dialogue: 0,0:10:54.08,0:10:58.01,Gen_Main,Yamanami,0,0,0,,pero, al parecer, nos atraparon\Nen una especie de subespacio.
+Dialogue: 0,0:10:58.43,0:11:02.58,Gen_Main,Kodai,0,0,0,,En ese caso, ahora mismo,\Nla Tierra verdadera…
+Dialogue: 0,0:11:16.20,0:11:17.76,Gen_Main,Sakamoto,0,0,0,,¡Oigan, esto se ve muy mal!
+Dialogue: 0,0:11:17.86,0:11:20.81,Gen_Main,Raiden,0,0,0,,¿El Cosmo Reverse no está ya al límite?
+Dialogue: 0,0:11:20.91,0:11:23.42,Gen_Main,Barrel,0,0,0,,Ni siquiera podemos acercarnos.
+Dialogue: 0,0:11:26.54,0:11:28.29,Gen_Main,Barrel,0,0,0,,¡Todos al suelo!
+Dialogue: 0,0:11:32.75,0:11:35.88,Gen_Main,Ichinose; Kusakabe,0,0,0,,-¡Potencia del motor decreciendo!\N-¡Cosmo Reverse inactivo!
+Dialogue: 0,0:11:36.05,0:11:37.22,Gen_Main,Shinohara,0,0,0,,¿Y el control de fuego?
+Dialogue: 0,0:11:37.51,0:11:40.51,Gen_Main,Kitano,0,0,0,,¡Funciona, pero el cañón principal\Nestá al 30 % de potencia!
+Dialogue: 0,0:11:47.27,0:11:50.71,Gen_Main,Skara,0,0,0,,El abominable poder de olas\Nya no existe.
+Dialogue: 0,0:11:52.77,0:11:54.69,Gen_Main,Skara,0,0,0,,¡Destrúyanlos de una vez!
+Dialogue: 0,0:12:11.42,0:12:12.84,Gen_Main,Saki,0,0,0,,Subcapitana…
+Dialogue: 0,0:12:15.51,0:12:16.84,Gen_Main,Kanzaki,0,0,0,,No te preocupes.
+Dialogue: 0,0:12:17.51,0:12:21.11,Gen_Main,Kanzaki,0,0,0,,Muchos lazos te protegen\Ntanto a ti como al Ginga.
+Dialogue: 0,0:12:21.47,0:12:24.18,Gen_Main,Saki,0,0,0,,Kanzaki…
+Dialogue: 0,0:12:57.01,0:13:00.37,Gen_Main,Ichinose,0,0,0,,¡La potencia de los propulsores cae más!\N¡El timón ya no responde!
+Dialogue: 0,0:13:00.47,0:13:02.59,Gen_Main,Kitano,0,0,0,,¡El escudo de olas se está disipando!
+Dialogue: 0,0:13:05.97,0:13:09.96,Gen_Main,Barrel,0,0,0,,Ahora que por fin logré rescatarte,\Nsi esto sigue así…
+Dialogue: 0,0:13:10.69,0:13:12.29,Gen_Main,Saki,0,0,0,,No pasa nada…
+Dialogue: 0,0:13:13.44,0:13:16.73,Gen_Main,Kusakabe,0,0,0,,¡Detectadas múltiples\Nimplosiones de dimensiones adicionales!
+Dialogue: 0,0:13:20.32,0:13:21.32,Gen_Main,Skara,0,0,0,,¿Qué fue eso?
+Dialogue: 0,0:13:22.86,0:13:25.89,Gen_Main,Aihara,0,0,0,,¡Todos los Ajax reiniciados al 100 %!
+Dialogue: 0,0:13:26.17,0:13:27.83,Gen_Main,Ota,0,0,0,,¡Podemos lograrlo, capitán Nanbu!
+Dialogue: 0,0:13:27.95,0:13:29.66,Gen_Main,Nanbu,0,0,0,,¡Segunda oleada, al ataque!
+Dialogue: 0,0:13:37.80,0:13:40.91,Gen_Main,Nanbu,0,0,0,,¡Gladiator al Ginga,\Nprepárense para el impacto!
+Dialogue: 0,0:13:41.80,0:13:43.13,Gen_Main,Shinohara; Kitano,0,0,0,,¿Señor Nanbu?
+Dialogue: 0,0:13:43.64,0:13:46.64,Gen_Main,Nanbu,0,0,0,,Retícula de tiro, luminosidad a 20.
+Dialogue: 0,0:13:47.01,0:13:49.64,Gen_Main,Nanbu,0,0,0,,Blanco fijado.\NInicien la cuenta regresiva.
+Dialogue: 0,0:13:49.85,0:13:52.64,Gen_Main,Nanbu,0,0,0,,Diez, nueve, ocho,
+Dialogue: 0,0:13:52.85,0:13:55.11,Gen_Main,Nanbu,0,0,0,,siete, seis, cinco…
+Dialogue: 0,0:13:55.21,0:13:58.47,Gen_Italics,Kazan,0,0,0,,Cesen el ataque de inmediato.
+Dialogue: 0,0:13:58.57,0:14:00.18,Gen_Italics,Kazan,0,0,0,,De lo contrario…
+Dialogue: 0,0:14:00.61,0:14:05.20,Gen_Italics,Kazan,0,0,0,,no hace falta que diga lo que sigue,\N¿verdad, Nanbu?
+Dialogue: 0,0:14:05.74,0:14:07.45,Gen_Main,Alphon,0,0,0,,¡Cobardes!
+Dialogue: 0,0:14:07.91,0:14:11.73,Gen_Main,Skulldart,0,0,0,,El primero en responder\Na nuestro mensaje
+Dialogue: 0,0:14:11.83,0:14:16.47,Gen_Main,Skulldart,0,0,0,,fue el presidente de Industrias Nanbu,\Nque actuó para acoger a Dezariam.
+Dialogue: 0,0:14:17.29,0:14:21.45,Gen_Italics,Skulldart,0,0,0,,Quien fue el primero en traicionar\Nvolverá a hacerlo antes que nadie
+Dialogue: 0,0:14:21.55,0:14:24.11,Gen_Italics,Skulldart,0,0,0,,si cambian las circunstancias.
+Dialogue: 0,0:14:24.80,0:14:26.97,Gen_Italics,Skulldart,0,0,0,,¿Quién es el cobarde aquí?
+Dialogue: 0,0:14:27.35,0:14:28.64,Gen_Italics,Nanbu Padre,0,0,0,,Yasuo.
+Dialogue: 0,0:14:28.85,0:14:31.56,Gen_Italics,Nanbu Padre,0,0,0,,Seguro que ya tomaste una decisión.
+Dialogue: 0,0:14:32.10,0:14:33.89,Gen_Italics,Nanbu Padre,0,0,0,,Actúa en consecuencia.
+Dialogue: 0,0:14:34.19,0:14:38.90,Gen_Italics,Nanbu Padre,0,0,0,,Para sobrevivir, a veces hay que tomar\Ndecisiones despiadadas.
+Dialogue: 0,0:14:39.23,0:14:42.68,Gen_Italics,Nanbu Padre,0,0,0,,Para ti,\Neste es el primer bautismo de fuego,
+Dialogue: 0,0:14:42.78,0:14:45.93,Gen_Main,Nanbu Padre,0,0,0,,pero aún no tienes que cargar\Ncon ese peso.
+Dialogue: 0,0:14:47.16,0:14:50.87,Gen_Main,Nanbu Padre,0,0,0,,La humanidad de la Tierra\Nvive una situación atroz.
+Dialogue: 0,0:14:51.58,0:14:55.76,Gen_Italics,Nanbu Padre,0,0,0,,Todos los datos predicen su destrucción\Nen un futuro cercano,
+Dialogue: 0,0:14:56.96,0:14:59.53,Gen_Italics,Nanbu Padre,0,0,0,,pero me aferré a los datos
+Dialogue: 0,0:14:59.63,0:15:02.54,Gen_Italics,Nanbu Padre,0,0,0,,y mi error fue no intentar ver el futuro
+Dialogue: 0,0:15:02.64,0:15:04.60,Gen_Italics,Nanbu Padre,0,0,0,,con mis propios ojos.
+Dialogue: 0,0:15:05.43,0:15:07.58,Gen_Italics,Nanbu Padre,0,0,0,,El futuro estaba ante mis ojos.
+Dialogue: 0,0:15:07.97,0:15:12.29,Gen_Main,Nanbu Padre,0,0,0,,Siempre estuvo ahí,\Nal alcance de mi mano.
+Dialogue: 0,0:15:14.23,0:15:15.85,Gen_Main,Nanbu,0,0,0,,Papá…
+Dialogue: 0,0:15:16.23,0:15:18.26,Gen_Italics,Nanbu Padre,0,0,0,,Esto es mi último regalo.
+Dialogue: 0,0:15:18.36,0:15:21.11,Gen_Italics,Nanbu Padre,0,0,0,,¡Yasuo, cuida de mamá!
+Dialogue: 0,0:15:32.37,0:15:34.22,Gen_Main,Nanbu,0,0,0,,¡Reanuden la cuenta regresiva!
+Dialogue: 0,0:15:35.04,0:15:38.96,Gen_Main,Nanbu,0,0,0,,Ocho, siete, seis, cinco,
+Dialogue: 0,0:15:39.38,0:15:43.53,Gen_Main,Nanbu,0,0,0,,cuatro, tres, dos, uno…
+Dialogue: 0,0:15:43.63,0:15:45.16,Gen_Main,Nanbu,0,0,0,,¡Fuego!
+Dialogue: 0,0:16:10.99,0:16:12.66,Gen_Main,Yuria,0,0,0,,El Golba Satu ha sido destruido.
+Dialogue: 0,0:16:12.91,0:16:15.19,Gen_Main,Yuria,0,0,0,,Confirmado el cese de energía fásica.
+Dialogue: 0,0:16:15.29,0:16:17.37,Gen_Main,Hoshina,0,0,0,,Núcleo de olas instalado.
+Dialogue: 0,0:16:17.64,0:16:20.69,Gen_Main,Hoshina,0,0,0,,Motor pasando de alimentación externa\Na funcionamiento normal.
+Dialogue: 0,0:16:22.17,0:16:25.69,Gen_Main,Hoshina,0,0,0,,Presidente Nanbu…\NLo tenía pensado desde el principio.
+Dialogue: 0,0:16:28.80,0:16:33.38,Gen_Main,Mori,0,0,0,,Asumiré la voluntad\Nque usted confió al futuro, presidente.
+Dialogue: 0,0:16:34.93,0:16:38.35,Gen_Main,Mori,0,0,0,,Solo queda la celda fásica\Ninstalada en el Grand Reverse.
+Dialogue: 0,0:16:39.07,0:16:42.03,Gen_Main,Mori,0,0,0,,La destruiremos, ya que también sirve\Nde energía de reserva,
+Dialogue: 0,0:16:42.13,0:16:45.43,Gen_Main,Mori,0,0,0,,y neutralizaremos a las fuerzas Dezariam\Nque invadieron la Tierra.
+Dialogue: 0,0:16:46.48,0:16:48.71,Gen_Main,Mori,0,0,0,,¡Lancen el Arizona!
+Dialogue: 0,0:17:07.96,0:17:10.82,Gen_Main,Mori,0,0,0,,¡Desplieguen\Nel revestimiento magnético espacial!
+Dialogue: 0,0:17:24.11,0:17:25.97,Gen_Main,Hoshina,0,0,0,,Presión correcta.\N¡Podemos avanzar!
+Dialogue: 0,0:17:26.07,0:17:27.94,Gen_Main,Mori,0,0,0,,¡Amplifiquen la energía y refléjenla!
+Dialogue: 0,0:17:32.85,0:17:34.41,Gen_Main,Mori,0,0,0,,¡Se lo devolveremos con creces!
+Dialogue: 0,0:18:01.89,0:18:04.81,Gen_Main,Nagakura,0,0,0,,En caso de emergencia,\NKurata y Amagi protegerán al chico.
+Dialogue: 0,0:18:05.02,0:18:07.22,Gen_Main,Nagakura,0,0,0,,¡No podemos perder a nuestro guía!
+Dialogue: 0,0:18:07.32,0:18:10.30,Gen_Main,Amagi,0,0,0,,¡Recibido!\N¡El chico es nuestro salvavidas!
+Dialogue: 0,0:18:10.40,0:18:13.42,Gen_Main,Kurata,0,0,0,,¡Yo me encargo de protegerte, chico!
+Dialogue: 0,0:18:13.86,0:18:15.66,Gen_Main,Isidor,0,0,0,,¡Me llamo Isidor!
+Dialogue: 0,0:18:35.05,0:18:36.51,Gen_Main,Makoto,0,0,0,,¡Jiro!
+Dialogue: 0,0:18:40.47,0:18:42.33,Gen_Main,Jiro,0,0,0,,Ahora podemos escapar.
+Dialogue: 0,0:18:43.02,0:18:45.00,Gen_Main,Jiro,0,0,0,,Voy a rescatar a Tsubasa.
+Dialogue: 0,0:18:45.85,0:18:47.59,Gen_Main,Jiro,0,0,0,,Usted también debe irse, señora.
+Dialogue: 0,0:18:47.69,0:18:49.90,Gen_Main,Makoto,0,0,0,,¿Seguro? Tú eres de Dezariam…
+Dialogue: 0,0:18:50.07,0:18:51.60,Gen_Main,Jiro,0,0,0,,¡Eso no lo sé!
+Dialogue: 0,0:18:52.44,0:18:53.91,Gen_Main,Jiro,0,0,0,,No lo sé…
+Dialogue: 0,0:18:54.24,0:18:59.38,Gen_Main,Jiro,0,0,0,,No sé qué está bien y qué está mal.
+Dialogue: 0,0:18:59.70,0:19:01.95,Gen_Main,Jiro,0,0,0,,Cada uno dice algo distinto…
+Dialogue: 0,0:19:02.66,0:19:04.67,Gen_Main,Jiro,0,0,0,,Antes no era así.
+Dialogue: 0,0:19:05.21,0:19:07.57,Gen_Main,Jiro,0,0,0,,Cuando esperábamos\Nel regreso del Yamato,
+Dialogue: 0,0:19:07.67,0:19:09.56,Gen_Main,Jiro,0,0,0,,todos estábamos unidos,
+Dialogue: 0,0:19:10.34,0:19:11.75,Gen_Main,Jiro,0,0,0,,¡pero ahora…!
+Dialogue: 0,0:19:14.30,0:19:17.08,Gen_Main,Jiro,0,0,0,,Señora, ¿usted lo recuerda?
+Dialogue: 0,0:19:17.18,0:19:20.38,Gen_Main,Jiro,0,0,0,,Yo ya no recuerdo\Nlo que sentía entonces…
+Dialogue: 0,0:19:21.93,0:19:24.20,Gen_Main,Jiro,0,0,0,,¿Por qué ha acabado todo así?
+Dialogue: 0,0:19:25.19,0:19:28.13,Gen_Main,Jiro,0,0,0,,Dígame, señora, ¿por qué…?
+Dialogue: 0,0:19:33.07,0:19:37.73,Gen_Main,Skulldart,0,0,0,,Se puede manipular a las masas,\Npero no dominar sus corazones.
+Dialogue: 0,0:19:38.24,0:19:44.16,Gen_Main,Skulldart,0,0,0,,¿Acaso subestimamos la fuerza\Ndel elemento de los terrícolas?
+Dialogue: 0,0:19:44.39,0:19:46.94,Gen_Main,Madre Dezariam,0,0,0,,Aún podemos llevar a cabo el ritual.
+Dialogue: 0,0:19:47.04,0:19:51.90,Gen_Main,Madre Dezariam,0,0,0,,No podemos perder su pieza clave:\Nel Grand Reverse.
+Dialogue: 0,0:19:52.00,0:19:55.16,Gen_Main,Madre Dezariam,0,0,0,,Debemos actuar\Nantes de que se agote la energía fásica.
+Dialogue: 0,0:19:55.26,0:19:56.93,Gen_Main,Skulldart,0,0,0,,A la orden.
+Dialogue: 0,0:19:57.26,0:20:01.13,Gen_Main,Madre Dezariam,0,0,0,,Cuento contigo, Padre 7038.
+Dialogue: 0,0:20:44.06,0:20:46.47,Gen_Italics,Madre Dezariam,0,0,0,,¡Detengan el avance del Yamato!
+Dialogue: 0,0:20:47.06,0:20:50.89,Gen_Italics,Madre Dezariam,0,0,0,,¡No permitan que Sasha\Nentre en contacto con el Yamato!
+Dialogue: 0,0:20:56.99,0:20:59.95,Gen_Main,Saito,0,0,0,,Pero ¿qué demonios está pasando aquí?
+Dialogue: 0,0:21:16.25,0:21:18.42,Gen_Main,Analyzer,0,0,0,,¡Por aquí! ¡Es por aquí!
+Dialogue: 0,0:21:18.72,0:21:21.27,Gen_Main,Analyzer,0,0,0,,¡Aterricen con cuidado!
+Dialogue: 0,0:21:23.72,0:21:25.93,Gen_Main,Kodai,0,0,0,,¡Sasha! ¡Analyzer!
+Dialogue: 0,0:21:26.72,0:21:29.16,Gen_Main,Niimi,0,0,0,,¿Kodai? ¿Y Mikage también?
+Dialogue: 0,0:21:31.06,0:21:34.20,Gen_Main,Mikage,0,0,0,,¿Niimi? ¡Estás viva! Pero ¿cómo…?
+Dialogue: 0,0:21:37.48,0:21:38.73,Gen_Main,Kodai,0,0,0,,Sasha…
+Dialogue: 0,0:21:39.82,0:21:41.67,Gen_Italics,Yamamoto,0,0,0,,Yankee 1 a Seagull.
+Dialogue: 0,0:21:42.78,0:21:45.16,Gen_Main,Yamamoto,0,0,0,,El bicho de seis patas\Nse dirige hacia ustedes.
+Dialogue: 0,0:21:45.70,0:21:47.91,Gen_Italics,Yamamoto,0,0,0,,No podemos intervenir\Nen estas condiciones.
+Dialogue: 0,0:21:48.16,0:21:49.73,Gen_Italics,Yamamoto,0,0,0,,¡Rápido, despeguen!
+Dialogue: 0,0:21:50.12,0:21:52.79,Gen_Main,Kodai,0,0,0,,Ya hablaremos luego, Sasha.\NAhora, al Yamato.
+Dialogue: 0,0:21:54.00,0:21:57.17,Gen_Main,Sasha,0,0,0,,Yo… me quedo…
+Dialogue: 0,0:21:58.42,0:21:59.55,Gen_Main,Kodai,0,0,0,,¿Sasha?
+Dialogue: 0,0:21:59.92,0:22:02.80,Gen_Main,Sasha,0,0,0,,No, te equivocas…
+Dialogue: 0,0:22:03.22,0:22:04.58,Gen_Main,Sasha,0,0,0,,Yo…
+Dialogue: 0,0:22:05.15,0:22:07.51,Gen_Main,Kodai; Sasha,0,0,0,,-¡Sasha, aquí corres peligro!\N-¡Yo no soy Sasha!
+Dialogue: 0,0:22:08.43,0:22:10.98,Gen_Main,Sasha,0,0,0,,Yo… yo…
+Dialogue: 0,0:22:11.98,0:22:14.44,Gen_Main,Sasha,0,0,0,,Yo no era parte de tu familia, tío…
+Dialogue: 0,0:22:15.48,0:22:17.94,Gen_Main,Sasha,0,0,0,,Lo siento, tío.
+Dialogue: 0,0:22:18.52,0:22:19.82,Gen_Main,Sasha,0,0,0,,Adiós…
+Dialogue: 0,0:22:25.41,0:22:29.23,Gen_Main,Sasha,0,0,0,,Señorita Mikage, gracias por incluirme\Nen el grupo de chicas.
+Dialogue: 0,0:22:29.33,0:22:32.12,Gen_Main,Sasha,0,0,0,,Cuide de mi tío. ¡Y de la tía Niimi!
+Dialogue: 0,0:22:32.96,0:22:34.67,Gen_Main,Mikage,0,0,0,,¡Sasha!
+Dialogue: 0,0:22:34.92,0:22:36.33,Gen_Main,Analyzer,0,0,0,,¡Señorita Sasha!
+Dialogue: 0,0:22:39.71,0:22:41.34,Gen_Main,Kodai,0,0,0,,Sasha…
+Dialogue: 0,0:22:41.34,0:22:44.97,Cart_A_Tim,CARTEL,0,0,0,,{\an1\fs14\fad(1000,0)\bord0.1\shad1.5\blur2\3c&H000000&\4c&H000000&\4a&H05&\pos(49.2,282.4)}Episodio 23\N{\fs18}¡Lancen el Arizona! ¡Venzan al Grand Reverse!
+Dialogue: 0,0:22:45.05,0:22:49.97,Cart_A_Tim,CARTEL,0,0,0,,{\fs14\fad(1000,0)\bord0.1\shad1.5\blur2\3c&H000000&\4c&H000000&\4a&H05&\pos(320,139.5)}Próximo episodio
+Dialogue: 0,0:22:45.05,0:22:49.97,Cart_A_Tim,CARTEL,0,0,0,,{\fad(1000,0)\bord0.1\shad1.5\blur2\3c&H000000&\4c&H000000&\4a&H05&\fs18\pos(315,206.5)}¡Ataque total! ¡Formen la flota de los partisanos!
+Dialogue: 0,0:24:10.68,0:24:14.93,Cart_A_Tre,CARTEL,0,0,0,,Traducción: Álvaro Jimeno y Nicolás Sepúlveda\NPautado: Thomas Benaissa
+
