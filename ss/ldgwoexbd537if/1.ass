@@ -1,0 +1,285 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: overlap,Trebuchet MS,24,&H007FD3F2,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: sign_generic,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:29.14,0:00:30.24,Default,RUCHE,0,0,0,,Huh?
+Dialogue: 0,0:00:30.93,0:00:32.88,Default,RUCHE,0,0,0,,The door's open.
+Dialogue: 0,0:00:32.05,0:00:35.26,overlap,HILDE,0,0,0,,You just don't get it, old man.
+Dialogue: 0,0:00:35.26,0:00:37.66,Default,HILDE,0,0,0,,I'm not telling you to give me anything.
+Dialogue: 0,0:00:37.66,0:00:40.23,Default,HILDE,0,0,0,,I'm telling you to sell me that sword.
+Dialogue: 0,0:00:40.23,0:00:42.84,Default,VERUGA,0,0,0,,I don't have any weapons to sell you.
+Dialogue: 0,0:00:42.84,0:00:45.23,Default,VERUGA,0,0,0,,Besides, this piece was commissioned.
+Dialogue: 0,0:00:42.34,0:00:43.88,top,ELYMAS,0,0,0,,This sounds bad.
+Dialogue: 0,0:00:43.88,0:00:44.71,top,RUCHE,0,0,0,,Yeah.
+Dialogue: 0,0:00:46.21,0:00:47.53,Default,ELYMAS,0,0,0,,Are you okay, sir?
+Dialogue: 0,0:00:47.53,0:00:50.22,Default,VERUGA,0,0,0,,I've had enough, Magic Swordsman.
+Dialogue: 0,0:00:50.22,0:00:53.07,Default,HILDE,0,0,0,,Oh? Are you the client?
+Dialogue: 0,0:00:56.51,0:00:58.76,Default,HILDE,0,0,0,,I was wondering who the client was.
+Dialogue: 0,0:00:58.76,0:01:04.12,Default,HILDE,0,0,0,,Old man, you forged a Mythril Sword \Nfor this feeble-looking guy?
+Dialogue: 0,0:01:01.54,0:01:04.12,italicstop,ELYMAS/ID,0,0,0,,I hear her, but I can't see her.
+Dialogue: 0,0:01:04.12,0:01:07.55,Default,HILDE,0,0,0,,Were you that desperate \Nfor the money, Veruga?
+Dialogue: 0,0:01:07.55,0:01:08.55,italics,ELYMAS/ID,0,0,0,,Is she using a skill?
+Dialogue: 0,0:01:08.55,0:01:10.77,Default,RUCHE,0,0,0,,Mr. Elymas, down!
+Dialogue: 0,0:01:11.18,0:01:12.57,Default,RUCHE,0,0,0,,Down there!
+Dialogue: 0,0:01:18.03,0:01:22.48,Default,HILDE,0,0,0,,Hey, asshole. Are you making fun of me?
+Dialogue: 0,0:01:22.48,0:01:25.82,Default,ELYMAS,0,0,0,,Wh-What's with this kid?
+Dialogue: 0,0:02:58.16,0:03:02.62,sign_generic,EPTITLE; sign,0,0,0,,{\b1\fnTimes New Roman\an7\bord1\shad1.25\fade(820,482)\alphaalphaH&0&\3c&H000000&\c&HFEFCFD&\4c&H000000&\fs18\pos(333.002,289.564)}Episode 20\h\h\h\h\hMagic Swordsman Hilde
+Dialogue: 0,0:02:58.66,0:03:03.12,top,HILDE,0,0,0,,Hey, asshole. Are you making fun of me?
+Dialogue: 0,0:03:03.12,0:03:05.37,Default,HILDE,0,0,0,,If you've got \Nsomething to say, spit it out.
+Dialogue: 0,0:03:05.84,0:03:09.30,Default,ELYMAS,0,0,0,,A child? No, she has a class.
+Dialogue: 0,0:03:09.30,0:03:11.55,Default,ELYMAS,0,0,0,,If she underwent the ritual,\Nis she fifteen?
+Dialogue: 0,0:03:11.55,0:03:13.10,Default,HILDE,0,0,0,,I'm seventeen.
+Dialogue: 0,0:03:14.10,0:03:15.75,italics,ELYMAS/ID,0,0,0,,She's older than me? No way.
+Dialogue: 0,0:03:15.75,0:03:18.22,Default,HILDE,0,0,0,,You don't seem too impressed by me.
+Dialogue: 0,0:03:18.53,0:03:24.23,Default,HILDE,0,0,0,,Have you ever heard of the Magic Swordsman \Nthey call the Blackened Flameblade?
+Dialogue: 0,0:03:27.17,0:03:30.73,italics,ELYMAS/ID,0,0,0,,I heard that nickname while \Ngathering information in Lacoryna.
+Dialogue: 0,0:03:31.26,0:03:32.72,italics,ELYMAS/ID,0,0,0,,The Blackened Flameblade.
+Dialogue: 0,0:03:33.17,0:03:38.70,italics,ELYMAS/ID,0,0,0,,They're one of only a handful of \NA-rank adventurers in Lacoryna.
+Dialogue: 0,0:03:42.39,0:03:48.87,Default,HILDE,0,0,0,,As a matter of fact, I am the famed \Nadventurer, the Blackened Flameblade…
+Dialogue: 0,0:03:51.12,0:03:54.00,Default,HILDE,0,0,0,,…'s top apprentice!
+Dialogue: 0,0:03:58.63,0:04:02.22,Default,ELYMAS,0,0,0,,I-I see. That's certainly impressive.
+Dialogue: 0,0:04:03.18,0:04:06.38,Default,HILDE,0,0,0,,This'll go quickly now that \Nthe blade's owner turned up.
+Dialogue: 0,0:04:06.38,0:04:09.76,Default,HILDE,0,0,0,,I'm sure you're easier to talk to \Nthan that stubborn old man.
+Dialogue: 0,0:04:10.78,0:04:13.47,Default,HILDE,0,0,0,,I'm just trying to say one thing.
+Dialogue: 0,0:04:13.83,0:04:16.07,Default,HILDE,0,0,0,,Sell me the Mythril Sword.
+Dialogue: 0,0:04:16.38,0:04:20.86,Default,ELYMAS,0,0,0,,No. I hired him \Nto forge it because I need it.
+Dialogue: 0,0:04:20.86,0:04:23.49,Default,HILDE,0,0,0,,Chill out, Heavy Knight.
+Dialogue: 0,0:04:23.49,0:04:29.24,Default,HILDE,0,0,0,,There's no point in a defective class \Nlike yours wielding that sword.
+Dialogue: 0,0:04:29.24,0:04:32.10,Default,HILDE,0,0,0,,What do you think you can do \Nwith a fancy sword?
+Dialogue: 0,0:04:32.10,0:04:34.50,Default,HILDE,0,0,0,,You just don't get how this world works.
+Dialogue: 0,0:04:34.78,0:04:37.65,Default,HILDE,0,0,0,,I'm not telling you to sell it for cheap.
+Dialogue: 0,0:04:37.65,0:04:40.51,Default,HILDE,0,0,0,,Thirty million gold should be enough.
+Dialogue: 0,0:04:40.84,0:04:44.10,Default,HILDE,0,0,0,,That's probably more money \Nthan you can imagine.
+Dialogue: 0,0:04:44.10,0:04:45.51,Default,ELYMAS,0,0,0,,I said no.
+Dialogue: 0,0:04:45.89,0:04:48.52,Default,ELYMAS,0,0,0,,A mere thirty million isn't nearly enough.
+Dialogue: 0,0:04:49.57,0:04:55.78,Default,VERUGA,0,0,0,,H-Hey, boy. That kid may look like \Na twerp, but her power's real.
+Dialogue: 0,0:04:55.78,0:04:57.03,Default,HILDE,0,0,0,,What was that, you old fart?
+Dialogue: 0,0:04:57.34,0:05:02.01,Default,VERUGA,0,0,0,,She's rank B and holds the record \Nfor solo Dreamlord kills.
+Dialogue: 0,0:05:03.11,0:05:04.53,Default,HILDE,0,0,0,,W-Well, yeah.
+Dialogue: 0,0:05:05.11,0:05:09.48,Default,VERUGA,0,0,0,,But she's got a rotten personality, \Nso you'd best not antagonize her.
+Dialogue: 0,0:05:09.48,0:05:10.50,Default,HILDE,0,0,0,,Hey!
+Dialogue: 0,0:05:10.79,0:05:16.38,Default,ELYMAS,0,0,0,,I thought you refused to work for her \Nbecause you don't like people like her.
+Dialogue: 0,0:05:16.69,0:05:18.95,Default,ELYMAS,0,0,0,,Well, I don't like her either.
+Dialogue: 0,0:05:18.95,0:05:20.47,Default,ELYMAS,0,0,0,,I'm not interested in negotiating.
+Dialogue: 0,0:05:20.47,0:05:21.38,Default,HILDE,0,0,0,,Hey!
+Dialogue: 0,0:05:21.38,0:05:26.48,Default,VERUGA,0,0,0,,I'm prepared for the consequences, \Nbut you two are still young.
+Dialogue: 0,0:05:26.48,0:05:29.82,Default,VERUGA,0,0,0,,Don't make troublesome foes \Nin the guild if you don't have to.
+Dialogue: 0,0:05:29.82,0:05:32.14,Default,VERUGA,0,0,0,,Let me handle this.
+Dialogue: 0,0:05:32.14,0:05:33.90,italics,ELYMAS/ID,0,0,0,,I guess he's a softie at heart.
+Dialogue: 0,0:05:34.20,0:05:36.02,Default,ELYMAS,0,0,0,,Don't worry about us.
+Dialogue: 0,0:05:36.02,0:05:37.88,Default,ELYMAS,0,0,0,,We're adventurers.
+Dialogue: 0,0:05:37.88,0:05:41.28,Default,ELYMAS,0,0,0,,If it comes to it, \Nwe'll just go to another city.
+Dialogue: 0,0:05:42.52,0:05:45.49,Default,ELYMAS,0,0,0,,And I don't think I'm weaker than her.
+Dialogue: 0,0:06:02.52,0:06:05.22,Default,HILDE,0,0,0,,Oh? You've got good reflexes.
+Dialogue: 0,0:06:05.22,0:06:07.90,Default,HILDE,0,0,0,,But your stats are miserable.
+Dialogue: 0,0:06:07.90,0:06:10.34,Default,HILDE,0,0,0,,Such are the limits of the Heavy Knight.
+Dialogue: 0,0:06:10.34,0:06:15.41,Default,HILDE,0,0,0,,You're lucky. If I were a little bit \Nangrier, I would've killed you.
+Dialogue: 0,0:06:15.41,0:06:18.48,Default,HILDE,0,0,0,,Wielding a weapon that's too good \Nfor you won't save you from dying.
+Dialogue: 0,0:06:19.29,0:06:21.99,Default,HILDE,0,0,0,,Now sell me the sword.
+Dialogue: 0,0:06:21.99,0:06:24.80,Default,RUCHE,0,0,0,,A-Are you okay, Mr. Elymas?
+Dialogue: 0,0:06:24.80,0:06:28.62,Default,RUCHE,0,0,0,,Wh-Wh-What were you thinking?!
+Dialogue: 0,0:06:28.62,0:06:32.25,Default,HILDE,0,0,0,,I just showed him how weak he is.
+Dialogue: 0,0:06:32.61,0:06:36.38,Default,ELYMAS,0,0,0,,Catching me off guard doesn't prove \Nyou're stronger than me.
+Dialogue: 0,0:06:36.38,0:06:37.08,Default,HILDE,0,0,0,,What?
+Dialogue: 0,0:06:37.40,0:06:40.56,Default,HILDE,0,0,0,,What, then? Do you want to duel?
+Dialogue: 0,0:06:40.56,0:06:45.13,Default,HILDE,0,0,0,,If you'll wager that Mythril Sword, \NI'll accept your challenge.
+Dialogue: 0,0:06:45.13,0:06:47.09,Default,ELYMAS,0,0,0,,What will you wager?
+Dialogue: 0,0:06:47.77,0:06:50.60,Default,HILDE,0,0,0,,It's not like {\i1}I'd{\i0} ever lose,
+Dialogue: 0,0:06:50.88,0:06:54.98,Default,HILDE,0,0,0,,but I'll give up on the sword \Nand pay you its market price.
+Dialogue: 0,0:06:55.28,0:06:59.11,Default,HILDE,0,0,0,,How's that? Now you \Ndon't have a reason to run.
+Dialogue: 0,0:06:59.11,0:07:01.50,Default,VERUGA,0,0,0,,Don't take her up on it, boy.
+Dialogue: 0,0:07:01.50,0:07:04.86,Default,VERUGA,0,0,0,,Magic Swordsmen are skilled \Nin one-on-one combat.
+Dialogue: 0,0:07:04.86,0:07:09.07,Default,VERUGA,0,0,0,,A duel against her \Nwouldn't be a fair fight.
+Dialogue: 0,0:07:10.63,0:07:14.87,Default,ELYMAS,0,0,0,,You're okay with those terms? \NThen I gladly accept.
+Dialogue: 0,0:07:17.29,0:07:19.91,Default,RUCHE,0,0,0,,Th-This is a bad idea.
+Dialogue: 0,0:07:19.91,0:07:22.30,Default,RUCHE,0,0,0,,She's a B-rank Magic Swordsman.
+Dialogue: 0,0:07:22.30,0:07:26.30,Default,RUCHE,0,0,0,,Even I know they're unparalleled duelists.
+Dialogue: 0,0:07:26.61,0:07:31.19,Default,ELYMAS,0,0,0,,I'd planned to handle this with\Na little more tact, but I got a little angry.
+Dialogue: 0,0:07:31.19,0:07:32.31,Default,RUCHE,0,0,0,,Mr. Elymas?
+Dialogue: 0,0:07:32.31,0:07:35.90,Default,ELYMAS,0,0,0,,I'm not letting an easy \N30,000,000 walk away.
+Dialogue: 0,0:07:35.90,0:07:38.56,Default,ELYMAS,0,0,0,,I think I'll teach you \Na little lesson, Hilde.
+Dialogue: 0,0:07:38.56,0:07:41.09,Default,HILDE,0,0,0,,I'm lucky you're so stupid.
+Dialogue: 0,0:07:41.09,0:07:45.84,Default,HILDE,0,0,0,,I'll get a guild employee to witness our\Nduel so you can't wriggle out of this.
+Dialogue: 0,0:07:45.84,0:07:47.57,Default,HILDE,0,0,0,,You'd better not regret this.
+Dialogue: 0,0:08:02.57,0:08:05.49,italics,ELYMAS/ID,0,0,0,,Hilde should be back soon.
+Dialogue: 0,0:08:08.55,0:08:10.02,Default,ELYMAS,0,0,0,,Life Shield!
+Dialogue: 0,0:08:08.97,0:08:10.47,sign_generic,SIGN,0,0,0,,{\fade(685,1)\c&H68E7FE&\bord1\blur0.5\3c&H6B5176&\b1\an8\pos(470.8,189.2)}Life Shield {\fs13\bord2\blur1.5\c&HF0EEE6&\3c&HFAE15E&}[Common Skill]\N Costs 20% of maximum HP to activate\N Envelops the caster in a shield equal\Nin strength to the HP cost
+Dialogue: 0,0:08:13.99,0:08:17.98,Default,VERUGA,0,0,0,,Boy, what are you doing?
+Dialogue: 0,0:08:17.98,0:08:22.48,Default,VERUGA,0,0,0,,What's the point of activating \Nand deactivating your skill?
+Dialogue: 0,0:08:22.78,0:08:24.26,Default,VERUGA,0,0,0,,I don't get it.
+Dialogue: 0,0:08:24.73,0:08:26.31,Default,ELYMAS,0,0,0,,I'm managing my HP.
+Dialogue: 0,0:08:26.31,0:08:27.99,Default,VERUGA,0,0,0,,I understand that even less.
+Dialogue: 0,0:08:28.42,0:08:30.99,Default,RUCHE,0,0,0,,Can you beat her, Mr. Elymas?
+Dialogue: 0,0:08:31.24,0:08:35.16,Default,RUCHE,0,0,0,,You're counting on Dragonrage Deathgaze \Nto win you this duel, right?
+Dialogue: 0,0:08:36.25,0:08:40.46,Default,RUCHE,0,0,0,,I don't think No Defense Spared \Nwould help you here.
+Dialogue: 0,0:08:40.46,0:08:41.50,Default,ELYMAS,0,0,0,,You're right.
+Dialogue: 0,0:08:43.07,0:08:45.04,flashback,ELYMAS,0,0,0,,No Defense Spared!
+Dialogue: 0,0:08:57.52,0:09:03.08,Default,ELYMAS,0,0,0,,Six times the Attack isn't worth \Nthe extra damage I'd take.
+Dialogue: 0,0:09:03.74,0:09:08.00,Default,ELYMAS,0,0,0,,Reducing my Defense to zero against \Nan opponent with ranged attacks
+Dialogue: 0,0:09:08.00,0:09:10.15,Default,ELYMAS,0,0,0,,would get us killed.
+Dialogue: 0,0:09:07.15,0:09:11.03,sign_generic,SIGN,0,0,0,,{\b1\blur1\fade(855,1)\c&HFCF5D7&\3c&HF1DF69&\pos(315.2,210)}Defense 0
+Dialogue: 0,0:09:11.52,0:09:15.03,Default,ELYMAS,0,0,0,,A Magic Swordsman's an even more difficult \Nopponent than a Master Swordsman.
+Dialogue: 0,0:09:15.57,0:09:18.04,Default,ELYMAS,0,0,0,,On top of bursts of power \Nand sword skills,
+Dialogue: 0,0:09:18.39,0:09:21.43,Default,ELYMAS,0,0,0,,they have practical, \Nlong-range magic attacks.
+Dialogue: 0,0:09:24.54,0:09:28.06,Default,VERUGA,0,0,0,,It's not too late to run.
+Dialogue: 0,0:09:28.06,0:09:29.70,Default,ELYMAS,0,0,0,,Of course, there's a way I can win.
+Dialogue: 0,0:09:30.50,0:09:33.40,Default,ELYMAS,0,0,0,,I don't love how underhanded it is,
+Dialogue: 0,0:09:33.40,0:09:36.05,Default,ELYMAS,0,0,0,,but Magic Swordsmen have \Na biased way of thinking.
+Dialogue: 0,0:09:36.05,0:09:39.31,Default,RUCHE,0,0,0,,Th-That's a wicked grin.
+Dialogue: 0,0:09:43.02,0:09:45.61,Default,HILDE,0,0,0,,I brought someone, Heavy Knight!
+Dialogue: 0,0:09:46.43,0:09:49.15,Default,HILDE,0,0,0,,You better not have done \Nanything to my sword!
+Dialogue: 0,0:09:50.49,0:09:53.91,Default,MATILDA,0,0,0,,I was dragged here because of \Nan "impudent Heavy Knight."
+Dialogue: 0,0:09:53.91,0:09:58.50,Default,MATILDA,0,0,0,,I knew it was you, \NMr. Elymas and Ms. Ruche.
+Dialogue: 0,0:10:08.25,0:10:10.93,Default,HILDE,0,0,0,,Let's get started, Heavy Knight.
+Dialogue: 0,0:10:13.43,0:10:15.92,italics,ELYMAS/ID,0,0,0,,Magic Swordsman against Heavy Knight.
+Dialogue: 0,0:10:16.69,0:10:19.14,italics,ELYMAS/ID,0,0,0,,It's my worst matchup for a duel.
+Dialogue: 0,0:10:19.14,0:10:22.06,italics,ELYMAS/ID,0,0,0,,From a distance, she'll chip away \Nat my HP with spells.
+Dialogue: 0,0:10:22.06,0:10:24.63,italics,ELYMAS/ID,0,0,0,,If I get close, she'll defeat me \Nwith sword skills.
+Dialogue: 0,0:10:26.42,0:10:30.36,italics,ELYMAS/ID,0,0,0,,But Magic Swordsmen \Nhave a biased way of thinking.
+Dialogue: 0,0:10:30.92,0:10:34.66,italics,ELYMAS/ID,0,0,0,,And Hilde's probably got a bad case of it.
+Dialogue: 0,0:10:47.71,0:10:51.67,Default,ELYMAS,0,0,0,,Witness, I'd like to confirm \Nsomething before we begin.
+Dialogue: 0,0:10:51.67,0:10:53.65,Default,MATILDA,0,0,0,,What is it, Mr. Elymas?
+Dialogue: 0,0:10:53.65,0:10:57.05,Default,ELYMAS,0,0,0,,Since we're fighting with skills, \Nthe worst could happen.
+Dialogue: 0,0:10:57.74,0:11:00.51,Default,ELYMAS,0,0,0,,What if we injure or kill our opponent?
+Dialogue: 0,0:11:01.39,0:11:06.20,Default,MATILDA,0,0,0,,You knew the risks \Nwhen you accepted the duel.
+Dialogue: 0,0:11:06.20,0:11:09.77,Default,MATILDA,0,0,0,,That's our understanding \Nwhen we serve as witnesses.
+Dialogue: 0,0:11:09.77,0:11:12.54,Default,MATILDA,0,0,0,,If you're anxious, \Nshall we cancel the duel?
+Dialogue: 0,0:11:12.54,0:11:15.41,Default,ELYMAS,0,0,0,,No, I'm glad you confirmed that for me.
+Dialogue: 0,0:11:15.41,0:11:17.66,Default,ELYMAS,0,0,0,,Let's begin, Hilde.
+Dialogue: 0,0:11:18.87,0:11:21.20,Default,HILDE,0,0,0,,Are you trying to taunt me?
+Dialogue: 0,0:11:21.20,0:11:23.50,Default,HILDE,0,0,0,,I'm fine with that as well.
+Dialogue: 0,0:11:28.21,0:11:30.13,italics,ELYMAS/ID,0,0,0,,We're pretty far apart.
+Dialogue: 0,0:11:30.13,0:11:32.88,italics,ELYMAS/ID,0,0,0,,That figures since \Nshe's a spellcasting class.
+Dialogue: 0,0:11:35.87,0:11:38.39,Default,MATILDA,0,0,0,,Begin!
+Dialogue: 0,0:11:43.13,0:11:44.65,Default,ELYMAS,0,0,0,,Life Shield!
+Dialogue: 0,0:11:43.35,0:11:45.31,sign_generic,SIGN,0,0,0,,{\bord0\fnGeorgia\b1\pos(463.2,68.4)\c&HFDFF34&\fade(400,1)}Life Shield
+Dialogue: 0,0:12:23.55,0:12:26.14,Default,HILDE,0,0,0,,What's that? That's an odd skill.
+Dialogue: 0,0:12:42.28,0:12:47.30,Default,RUCHE,0,0,0,,Y-You said that skill was \Ntoo dangerous to use in a duel!
+Dialogue: 0,0:12:48.12,0:12:50.17,sign_generic,SIGN,0,0,0,,{\pos(448,347.6)\b1\bord1.5\fade(650,1)\blur0.5\c&H857F9D&\3c&HDDEAFD&}No Defense Spared {\fs13\bord2\blur1.5\c&HF0EEE6&\3c&HFAE15E&}[Common Skill]\N Only usable below 50% HP\N Reduce Defense to zero and \Nboost Attack by Defense lost\N Consumes MP while active
+Dialogue: 0,0:12:51.15,0:12:53.08,italics,HILDE/ID,0,0,0,,Another mystery skill.
+Dialogue: 0,0:12:53.41,0:12:56.56,italics,HILDE/ID,0,0,0,,Plus that girl's reaction.
+Dialogue: 0,0:12:57.88,0:12:59.05,italics,HILDE/ID,0,0,0,,For now…
+Dialogue: 0,0:13:15.23,0:13:17.32,italics,HILDE/ID,0,0,0,,I'll observe him from a distance.
+Dialogue: 0,0:13:57.22,0:14:00.21,Default,ELYMAS,0,0,0,,Okay, not bad.
+Dialogue: 0,0:14:04.67,0:14:06.30,Default,HILDE,0,0,0,,Wait, wait, wait!
+Dialogue: 0,0:14:06.30,0:14:08.84,Default,HILDE,0,0,0,,T-Time out! Call off the duel!
+Dialogue: 0,0:14:09.29,0:14:10.62,Default,HILDE,0,0,0,,Stop!
+Dialogue: 0,0:14:10.94,0:14:11.87,Default,HILDE,0,0,0,,Stop!
+Dialogue: 0,0:14:11.87,0:14:13.95,Default,HILDE,0,0,0,,I dropped my weapon!
+Dialogue: 0,0:14:13.95,0:14:15.33,Default,HILDE,0,0,0,,Can't you hear me?
+Dialogue: 0,0:14:15.33,0:14:16.88,Default,HILDE,0,0,0,,Stop, stop!
+Dialogue: 0,0:14:17.46,0:14:19.39,Default,HILDE,0,0,0,,Seriously, stop!
+Dialogue: 0,0:14:20.16,0:14:23.38,Default,HILDE,0,0,0,,I-I give up! I surrender!
+Dialogue: 0,0:14:23.38,0:14:26.39,Default,HILDE,0,0,0,,I admit defeat! I lose, okay?
+Dialogue: 0,0:14:27.23,0:14:31.96,italics,ELYMAS/ID,0,0,0,,Magic Swordsmen have \Na tendency to play it safe.
+Dialogue: 0,0:14:32.82,0:14:38.43,italics,ELYMAS/ID,0,0,0,,With low endurance and high \Nfirepower skills with trade-offs,
+Dialogue: 0,0:14:38.88,0:14:42.90,italics,ELYMAS/ID,0,0,0,,Magic Swordsmen can easily lose their \Nlives if they stay in a fight too long.
+Dialogue: 0,0:14:42.90,0:14:47.41,italics,ELYMAS/ID,0,0,0,,I was certain she'd surrender \Nif I kept threatening her.
+Dialogue: 0,0:14:48.71,0:14:50.63,Default,ELYMAS,0,0,0,,Declare a winner.
+Dialogue: 0,0:14:50.63,0:14:51.91,Default,MATILDA,0,0,0,,R-Right.
+Dialogue: 0,0:14:52.22,0:14:55.10,Default,MATILDA,0,0,0,,Th-The winner is Mr. Elymas!
+Dialogue: 0,0:14:58.18,0:15:00.48,Default,HILDE,0,0,0,,Y-You can't be serious!
+Dialogue: 0,0:15:00.48,0:15:02.67,Default,HILDE,0,0,0,,All I said was to call off the duel!
+Dialogue: 0,0:15:03.01,0:15:07.26,Default,HILDE,0,0,0,,I only said I surrendered \Nbecause you wouldn't stop!
+Dialogue: 0,0:15:07.26,0:15:09.22,Default,ELYMAS,0,0,0,,Either way, you said it.
+Dialogue: 0,0:15:09.54,0:15:16.24,Default,MATILDA,0,0,0,,Ms. Hilde, the guild does not \Nrecognize having second thoughts
+Dialogue: 0,0:15:16.24,0:15:21.23,Default,MATILDA,0,0,0,,upon seeing your opponent's skills \Nas a valid reason to call off a duel.
+Dialogue: 0,0:15:21.60,0:15:23.86,Default,MATILDA,0,0,0,,Since I was called to witness,
+Dialogue: 0,0:15:23.86,0:15:28.76,Default,MATILDA,0,0,0,,appropriate measures will be taken \Nif you cannot follow our rules.
+Dialogue: 0,0:15:28.76,0:15:31.66,Default,HILDE,0,0,0,,I-I know that.
+Dialogue: 0,0:15:31.66,0:15:36.33,Default,HILDE,0,0,0,,I'm not a cheapskate. \NI wouldn't back out of a deal now.
+Dialogue: 0,0:15:36.66,0:15:40.50,Default,HILDE,0,0,0,,Listen here, Elymas. I called off the duel.
+Dialogue: 0,0:15:40.82,0:15:45.51,Default,HILDE,0,0,0,,Given that, would you \Naccept 20,000,000 gold?
+Dialogue: 0,0:15:47.77,0:15:50.26,Default,HILDE,0,0,0,,Thirty million gold is a bit much.
+Dialogue: 0,0:15:50.72,0:15:51.76,Default,ELYMAS,0,0,0,,No.
+Dialogue: 0,0:15:51.76,0:15:55.39,Default,RUCHE,0,0,0,,That's so cheap. I get it, though.
+Dialogue: 0,0:15:55.66,0:16:00.40,Default,HILDE,0,0,0,,I-I just really needed a weapon \Nsuitable for my level.
+Dialogue: 0,0:16:00.76,0:16:03.05,Default,HILDE,0,0,0,,The growth of a high-level adventurer
+Dialogue: 0,0:16:03.05,0:16:07.15,Default,HILDE,0,0,0,,keeps the city safe and reduces \Nharm from monsters.
+Dialogue: 0,0:16:07.15,0:16:10.28,Default,HILDE,0,0,0,,I'll admit that my methods were wrong.
+Dialogue: 0,0:16:10.28,0:16:12.99,Default,HILDE,0,0,0,,I'll never do anything like this again.
+Dialogue: 0,0:16:13.34,0:16:14.64,Default,ELYMAS,0,0,0,,As long as you understand that.
+Dialogue: 0,0:16:15.83,0:16:19.50,Default,HILDE,0,0,0,,S-So would you be willing \Nto accept 20,000,000 gold?
+Dialogue: 0,0:16:19.96,0:16:21.00,Default,ELYMAS,0,0,0,,No.
+Dialogue: 0,0:16:25.97,0:16:28.19,Default,VERUGA,0,0,0,,L-Listen, boy.
+Dialogue: 0,0:16:30.22,0:16:33.44,Default,VERUGA,0,0,0,,I was hesitant to say this now,
+Dialogue: 0,0:16:33.44,0:16:38.00,Default,VERUGA,0,0,0,,but the market price of this sword \Nisn't 30,000,000 gold.
+Dialogue: 0,0:16:39.27,0:16:40.79,Default,ELYMAS,0,0,0,,Really?
+Dialogue: 0,0:16:40.79,0:16:43.36,Default,HILDE,0,0,0,,It's a fake?
+Dialogue: 0,0:16:44.70,0:16:48.86,Default,HILDE,0,0,0,,I wagered the market price of that sword.
+Dialogue: 0,0:16:50.10,0:16:52.37,Default,HILDE,0,0,0,,You had me panicking for nothing.
+Dialogue: 0,0:16:52.37,0:16:56.37,Default,VERUGA,0,0,0,,You can see for yourselves.
+Dialogue: 0,0:16:57.03,0:16:58.37,italics,SYSTEM VOICE,0,0,0,,Mythril Sword.
+Dialogue: 0,0:16:58.37,0:17:00.87,italics,SYSTEM VOICE,0,0,0,,Attack: +46.
+Dialogue: 0,0:17:00.87,0:17:04.09,italics,SYSTEM VOICE,0,0,0,,Market price: 51,500,000 gold.
+Dialogue: 0,0:17:04.09,0:17:07.01,italics,SYSTEM VOICE,0,0,0,,A magic sword that \Nglows brightly with mana.
+Dialogue: 0,0:17:07.01,0:17:09.38,italics,SYSTEM VOICE,0,0,0,,Enchanted with Rune of Destruction.
+Dialogue: 0,0:16:56.58,0:17:09.38,sign_generic,SIGN,0,0,0,,{\b1\bord1.5\blur0.5\fade(1050,1)\c&H443672&\an7\3c&HADCAE8&\pos(307.2,74.8)}Mythril Sword {\fs13\bord2\blur1\3c&HAE893F&\c&HFFFED5&}Recommended Level: 70\N Attack: +46\N Market Price: 51,500,000G\N A magic sword that glows brightly with mana\N Enchanted with Rune of Destruction
+Dialogue: 0,0:17:10.23,0:17:14.64,Default,HILDE,0,0,0,,F-F-Fifty-one million gold?!
+Dialogue: 0,0:17:14.64,0:17:18.15,Default,ELYMAS,0,0,0,,I see. I'd forgotten to include \Nthe rune's value.
+Dialogue: 0,0:17:18.15,0:17:20.19,Default,ELYMAS,0,0,0,,How careless of me.
+Dialogue: 0,0:17:20.19,0:17:21.02,Default,ELYMAS,0,0,0,,Hilde.
+Dialogue: 0,0:17:21.02,0:17:24.69,Default,ELYMAS,0,0,0,,The market price is 51,500,000 gold.
+Dialogue: 0,0:17:25.06,0:17:28.03,Default,HILDE,0,0,0,,Screw this! I can't afford that!
+Dialogue: 0,0:17:28.47,0:17:31.40,Default,HILDE,0,0,0,,You can't expect me to accept that!
+Dialogue: 0,0:17:31.67,0:17:35.91,Default,HILDE,0,0,0,,Please! At least come down \Nto 40,000,000 gold!
+Dialogue: 0,0:17:35.91,0:17:39.91,Default,ELYMAS,0,0,0,,Can't you choose either yelling \Nat me or bowing your head?
+Dialogue: 0,0:17:36.35,0:17:39.91,top,HILDE,0,0,0,,Mercy, mercy!
+Dialogue: 0,0:17:40.30,0:17:43.26,top,HILDE,0,0,0,,Mercy, mercy!
+Dialogue: 0,0:17:40.48,0:17:43.93,Default,RUCHE,0,0,0,,I-I'm starting to feel sorry for her.
+Dialogue: 0,0:17:43.93,0:17:45.17,Default,ELYMAS,0,0,0,,Me, too.
+Dialogue: 0,0:17:46.07,0:17:50.92,top,HILDE,0,0,0,,Mercy!
+Dialogue: 0,0:17:45.49,0:17:50.92,Default,ELYMAS,0,0,0,,To be honest, my biggest reason for \Ndueling her was to teach her a lesson.
+Dialogue: 0,0:17:52.29,0:17:56.04,Default,ELYMAS,0,0,0,,I'll give you a 1,500,000 discount \Nand accept 50,000,000 gold.
+Dialogue: 0,0:18:12.99,0:18:17.58,Default,MATILDA,0,0,0,,We offer loans to B-rank adventurers.
+Dialogue: 0,0:19:05.33,0:19:06.89,Default,MATILDA,0,0,0,,Mr. Elymas, yes?
+Dialogue: 0,0:19:06.89,0:19:13.09,Default,MATILDA,0,0,0,,You received a payment of 50,000,000 gold \Nfrom Ms. Hilde for your recent duel.
+Dialogue: 0,0:19:13.45,0:19:15.36,Default,ELYMAS,0,0,0,,She actually got the money?
+Dialogue: 0,0:19:15.36,0:19:17.39,Default,ELYMAS,0,0,0,,It's only been two days.
+Dialogue: 0,0:19:17.69,0:19:21.26,Default,MATILDA,0,0,0,,We're used to handling \Ndisagreements between adventurers.
+Dialogue: 0,0:19:21.66,0:19:24.12,Default,MATILDA,0,0,0,,If the guild felt so inclined…
+Dialogue: 0,0:19:25.53,0:19:29.15,flashback,HILDE,0,0,0,,H-How about 40,000,000—no, 45,000,000?
+Dialogue: 0,0:19:31.15,0:19:35.40,flashback,HILDE,0,0,0,,F-Fine, 50,000,000! \NI'll pay the 50,000,000!
+Dialogue: 0,0:19:40.33,0:19:42.95,Default,HILDE,0,0,0,,There you are, you bastards!
+Dialogue: 0,0:19:42.95,0:19:47.21,Default,HILDE,0,0,0,,Give back the 50,000,000 gold \Nyou took from me!
+Dialogue: 0,0:19:51.22,0:19:53.64,Default,ELYMAS,0,0,0,,I see. You sold your weapon.
+Dialogue: 0,0:19:53.64,0:19:54.88,Default,ELYMAS,0,0,0,,Run for it, Ruche!
+Dialogue: 0,0:19:54.88,0:19:55.67,Default,RUCHE,0,0,0,,Okay!
+Dialogue: 0,0:19:57.64,0:19:58.68,Default,HILDE,0,0,0,,You're not getting away.
+Dialogue: 0,0:20:05.23,0:20:06.23,Default,CARLOS,0,0,0,,Hilde.
+Dialogue: 0,0:20:16.89,0:20:19.20,Default,CARLOS,0,0,0,,Is that the Heavy Knight?
+Dialogue: 0,0:20:31.38,0:20:34.32,italics,ELYMAS/ID,0,0,0,,This aura, this intensity.
+Dialogue: 0,0:20:39.01,0:20:44.01,italics,ELYMAS/ID,0,0,0,,This must be the real \NBlackened Flameblade.
+Dialogue: 0,0:20:49.88,0:20:52.02,Default,HILDE,0,0,0,,This is them, Master!
+Dialogue: 0,0:20:52.39,0:20:56.92,Default,HILDE,0,0,0,,They used underhanded methods \Nto steal my money!
+Dialogue: 0,0:21:03.79,0:21:04.92,italics,ELYMAS/ID,0,0,0,,I knew it.
+Dialogue: 0,0:21:06.55,0:21:08.13,Default,CARLOS,0,0,0,,My class is Magic Swordsman.
+Dialogue: 0,0:21:09.09,0:21:11.32,Default,CARLOS,0,0,0,,I'm an A-rank adventurer.\NMy name is Carlos.
+Dialogue: 0,0:21:12.60,0:21:16.71,Default,CARLOS,0,0,0,,I wanted to meet you \Nafter Hilde told me about you.
+Dialogue: 0,0:21:21.80,0:21:23.72,Default,CARLOS,0,0,0,,Elymas the Heavy Knight.
+Dialogue: 0,0:23:11.45,0:23:15.80,italics,ELYMAS/NA,0,0,0,,Carlos the Magic Swordsman \Nappeared before us.
+Dialogue: 0,0:23:15.80,0:23:19.76,italics,ELYMAS/NA,0,0,0,,He's Hilde's master and one of \NLacoryna's A-rank adventurers.
+Dialogue: 0,0:23:20.38,0:23:22.80,italics,ELYMAS/NA,0,0,0,,He's also known \Nas the Blackened Flameblade.
+Dialogue: 0,0:23:23.75,0:23:27.82,italics,ELYMAS/NA,0,0,0,,I thought Carlos came because of Hilde,
+Dialogue: 0,0:23:27.82,0:23:32.52,italics,ELYMAS/NA,0,0,0,,but he actually offered us something \Nfar more important: a job we can't avoid.
+Dialogue: 0,0:23:33.19,0:23:35.44,italics,ELYMAS/NA,0,0,0,,Next time, "Blackened Flameblade."
+Dialogue: 0,0:23:35.98,0:23:38.86,italics,ELYMAS/NA,0,0,0,,Our biggest battle is about to begin.
+
