@@ -1,0 +1,324 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Bold,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,0,0,20,1
+Style: Internal,Arial Bold,23,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,2,0,0,20,0
+Style: Top,Arial Bold,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,8,0,0,20,1
+Style: Overlap,Arial Bold,23,&H00F3EDE3,&H000000FF,&H00362B17,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,0,0,20,0
+Style: Overlap Internal,Arial Bold,23,&H00F3EDE3,&H000000FF,&H00362B17,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,2,0,0,20,0
+Style: Flashback,Arial Bold,23,&H00F7ECEB,&H000000FF,&H004D0701,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,0,0,20,0
+Style: Type epititel,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00192023,&H00192023,0,0,0,0,100,100,0,0,1,1,2,3,10,40,58,1
+Style: Type Credits,Arial Bold,19,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+Style: Type comic sans bold,Comic Sans MS,19,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,8,10,10,20,1
+Style: Type  Status,Tahoma Bold,19,&H00F7FAC8,&H000000FF,&H00D7E72E,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,1,0,7,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:29.21,0:00:30.20,Default,Luce,0,0,0,,Nanu?
+Dialogue: 0,0:00:30.93,0:00:32.20,Default,Luce,0,0,0,,Die Tür steht offen …?
+Dialogue: 0,0:00:32.20,0:00:35.26,Default,Hilde,0,0,0,,Weil du gar nichts kapierst, Alter!
+Dialogue: 0,0:00:35.26,0:00:37.61,Default,Hilde,0,0,0,,Ich habe nicht verlangt,\Ndass du es mir geben sollst!
+Dialogue: 0,0:00:37.61,0:00:40.23,Default,Hilde,0,0,0,,Sondern nur,\Ndass du mir das Schwert verkaufst!
+Dialogue: 0,0:00:40.23,0:00:42.56,Default,Veruga,0,0,0,,Dir verkaufe ich keine Waffe!
+Dialogue: 0,0:00:42.56,0:00:45.23,Default,Veruga,0,0,0,,Und das Schwert ist nicht für dich bestimmt!
+Dialogue: 0,0:00:42.56,0:00:43.90,Overlap,Elymas,0,0,0,,Das klingt nach Ärger!
+Dialogue: 0,0:00:43.90,0:00:45.23,Overlap,Luce,0,0,0,,Stimmt!
+Dialogue: 0,0:00:46.28,0:00:47.53,Default,Elymas,0,0,0,,Alles in Ordnung?
+Dialogue: 0,0:00:47.53,0:00:49.95,Default,Veruga,0,0,0,,Schwertmagierin!\NTreib es nicht zu weit!
+Dialogue: 0,0:00:49.95,0:00:53.07,Default,Hilde,0,0,0,,Ach, bist du der Auftraggeber?
+Dialogue: 0,0:00:56.52,0:00:58.77,Default,Hilde,0,0,0,,Den hatte ich mir ganz anders vorgestellt!
+Dialogue: 0,0:00:58.77,0:01:01.54,Default,Hilde,0,0,0,,Alter, für so einen Schwächling
+Dialogue: 0,0:01:01.54,0:01:04.21,Default,Hilde,0,0,0,,hast du ein Mithrilschwert geschmiedet?
+Dialogue: 0,0:01:01.54,0:01:04.21,Overlap Internal,Elymas,0,0,0,,Ich höre die Stimme aber sehe niemanden!
+Dialogue: 0,0:01:04.21,0:01:07.47,Default,Hilde,0,0,0,,Konnte der Meisterschmied Veruga\Ndie Armut nicht länger ertragen, was?
+Dialogue: 0,0:01:07.47,0:01:08.55,Internal,Elymas,0,0,0,,Ist das eine Fähigkeit?
+Dialogue: 0,0:01:08.55,0:01:11.18,Default,Luce,0,0,0,,E-Elymas, dort unten!
+Dialogue: 0,0:01:11.18,0:01:12.57,Default,Luce,0,0,0,,Schau nach unten!
+Dialogue: 0,0:01:18.06,0:01:19.60,Default,Hilde,0,0,0,,Du Mistkerl!
+Dialogue: 0,0:01:19.60,0:01:22.48,Default,Hilde,0,0,0,,Siehst du etwa auf mich herab?
+Dialogue: 0,0:01:22.48,0:01:25.87,Default,Elymas,0,0,0,,W-Was will denn dieses Kind hier …?
+Dialogue: 0,0:02:58.20,0:03:02.62,Type epititel,TYPE,0,0,0,,{\fad(895,520)\3c&H000000&\4c&H000000&}Folge 20   Hilde, die Schwertmagierin
+Dialogue: 0,0:02:58.74,0:02:59.87,Top,Hilde,0,0,0,,Du Mistkerl!
+Dialogue: 0,0:02:59.87,0:03:03.14,Top,Hilde,0,0,0,,Siehst du etwa auf mich herab?
+Dialogue: 0,0:03:03.14,0:03:05.37,Top,Hilde,0,0,0,,Wenn du etwas zu sagen hast,\Ndann raus damit!
+Dialogue: 0,0:03:05.92,0:03:06.92,Default,Elymas,0,0,0,,Ein Kind?
+Dialogue: 0,0:03:06.92,0:03:09.27,Default,Elymas,0,0,0,,Nein, eine Klasse wurde zugewiesen.
+Dialogue: 0,0:03:09.27,0:03:11.55,Default,Elymas,0,0,0,,Wenn das „Ritual der Gnade“\Nvollzogen wurde, bist du 15 …?
+Dialogue: 0,0:03:11.55,0:03:13.14,Default,Hilde,0,0,0,,Ich bin 17!
+Dialogue: 0,0:03:14.12,0:03:15.78,Internal,Elymas,0,0,0,,Sie ist älter als ich?!
+Dialogue: 0,0:03:15.78,0:03:18.22,Default,Hilde,0,0,0,,Du scheinst mich\Nauf die leichte Schulter zu nehmen.
+Dialogue: 0,0:03:18.22,0:03:19.47,Default,Hilde,0,0,0,,Mistkerl,
+Dialogue: 0,0:03:19.47,0:03:24.23,Default,Hilde,0,0,0,,hast du vom Schwertmagier mit dem Beinamen\N„Schwarze Flammenklinge“ gehört?
+Dialogue: 0,0:03:27.23,0:03:30.73,Internal,Elymas,0,0,0,,Der Name tauchte auf,\Nals ich mich in Lacoryna umhörte!
+Dialogue: 0,0:03:31.30,0:03:32.82,Internal,Elymas,0,0,0,,Schwarze Flammenklinge.
+Dialogue: 0,0:03:33.20,0:03:38.70,Internal,Elymas,0,0,0,,Ein Abenteurer im A-Rang, deren Zahl man\Nselbst in Lacoryna an einer Hand abzählen kann.
+Dialogue: 0,0:03:42.12,0:03:43.92,Default,Hilde,0,0,0,,Es verhält sich nämlich so,
+Dialogue: 0,0:03:43.92,0:03:48.87,Default,Hilde,0,0,0,,dass ich, Hilde, des ruhmreichen\NAbenteurers Schwarze Flammenklinge, …
+Dialogue: 0,0:03:51.16,0:03:51.84,Default,Hilde,0,0,0,,seine …
+Dialogue: 0,0:03:52.20,0:03:54.34,Default,Hilde,0,0,0,,beste Schülerin bin!
+Dialogue: 0,0:03:58.34,0:04:02.31,Default,Elymas,0,0,0,,A-Ach so? Ist ja enorm …
+Dialogue: 0,0:04:03.18,0:04:06.40,Default,Hilde,0,0,0,,Nun, wenn der Eigentümer schon hier ist,\Nbeschleunigt das die Sache.
+Dialogue: 0,0:04:06.40,0:04:10.10,Default,Hilde,0,0,0,,Sicher kann man mit dir leichter reden\Nals mit dem alten Esel dort!
+Dialogue: 0,0:04:10.82,0:04:13.72,Default,Hilde,0,0,0,,Ich habe dir nur\Neine einzige Sache zu sagen!
+Dialogue: 0,0:04:13.72,0:04:16.07,Default,Hilde,0,0,0,,Verkaufe mir das Mithrilschwert,\Nsonst nichts!
+Dialogue: 0,0:04:16.07,0:04:17.42,Default,Elymas,0,0,0,,Abgelehnt.
+Dialogue: 0,0:04:17.79,0:04:20.86,Default,Elymas,0,0,0,,Ich gab es in Auftrag,\Nweil ich es selbst benötige.
+Dialogue: 0,0:04:20.86,0:04:23.49,Default,Hilde,0,0,0,,Bleib mal geschmeidig, Schwerer Ritter!
+Dialogue: 0,0:04:23.49,0:04:29.01,Default,Hilde,0,0,0,,Ergibt doch gar keinen Sinn, wenn eine\NVersagerklasse solch eine Ausrüstung hat!
+Dialogue: 0,0:04:29.01,0:04:32.04,Default,Hilde,0,0,0,,Was willst du Hänfling denn\Nmit dem Schwert anfangen?
+Dialogue: 0,0:04:32.04,0:04:34.50,Default,Hilde,0,0,0,,Hast wohl keine Ahnung,\Nwie es in dieser Welt läuft?
+Dialogue: 0,0:04:34.50,0:04:37.63,Default,Hilde,0,0,0,,Ich will dich auch gar nicht\Nübers Ohr hauen.
+Dialogue: 0,0:04:37.63,0:04:40.51,Default,Hilde,0,0,0,,30.000.000 Gold\Nsollten doch genug sein?
+Dialogue: 0,0:04:40.80,0:04:44.07,Default,Hilde,0,0,0,,Ha! Kannst dir so einen Betrag\Ngar nicht vorstellen, was?
+Dialogue: 0,0:04:44.07,0:04:45.22,Default,Elymas,0,0,0,,Wie gesagt, abgelehnt!
+Dialogue: 0,0:04:45.22,0:04:45.89,Default,Hilde,0,0,0,,Hä?
+Dialogue: 0,0:04:45.89,0:04:48.53,Default,Elymas,0,0,0,,Über lumpige 30.000.000\Nbrauchen wir nicht reden.
+Dialogue: 0,0:04:49.60,0:04:51.50,Default,Veruga,0,0,0,,H-He, Bursche!
+Dialogue: 0,0:04:51.50,0:04:55.71,Default,Veruga,0,0,0,,Die Göre sieht zwar aus wie ein Dreikäsehoch,\Naber ihre Kampfkraft ist nicht ohne!
+Dialogue: 0,0:04:55.71,0:04:57.03,Default,Hilde,0,0,0,,Wie war das, alter Sack?
+Dialogue: 0,0:04:57.03,0:05:02.14,Default,Veruga,0,0,0,,Als Abenteurerin im B-Rang hat sie\Nnachweislich Meister im Alleingang besiegt!
+Dialogue: 0,0:05:03.24,0:05:04.53,Default,Hilde,0,0,0,,I-Isso …
+Dialogue: 0,0:05:04.99,0:05:09.40,Default,Veruga,0,0,0,,Dafür ist ihr Charakter gänzlich verdorben,\Nmach sie dir besser nicht zum Feind!
+Dialogue: 0,0:05:09.40,0:05:10.50,Default,Hilde,0,0,0,,Alter!
+Dialogue: 0,0:05:10.50,0:05:13.14,Default,Elymas,0,0,0,,Weil du solche Leute nicht leiden kannst,
+Dialogue: 0,0:05:13.14,0:05:16.38,Default,Elymas,0,0,0,,hast du doch aus Überzeugung\Ndie Arbeit für sie abgelehnt?
+Dialogue: 0,0:05:16.38,0:05:18.87,Default,Elymas,0,0,0,,Mir geht die auch gegen den Strich.
+Dialogue: 0,0:05:18.87,0:05:20.46,Default,Elymas,0,0,0,,Darum wird auch nicht verhandelt.
+Dialogue: 0,0:05:20.46,0:05:21.38,Default,Hilde,0,0,0,,Sachma!
+Dialogue: 0,0:05:21.38,0:05:26.40,Default,Veruga,0,0,0,,Ich bin auf alles gefasst,\Naber ihr seid noch jung.
+Dialogue: 0,0:05:26.40,0:05:29.80,Default,Veruga,0,0,0,,Macht euch in der Gilde\Nlieber keine lästigen Feinde!
+Dialogue: 0,0:05:29.80,0:05:32.20,Default,Veruga,0,0,0,,Überlasst das hier besser mir!
+Dialogue: 0,0:05:32.20,0:05:33.90,Internal,Elymas,0,0,0,,Im Grunde ist er ein gutmütiger Kerl.
+Dialogue: 0,0:05:33.90,0:05:35.99,Default,Elymas,0,0,0,,Nur keine Sorge!
+Dialogue: 0,0:05:35.99,0:05:37.82,Default,Elymas,0,0,0,,Wir sind Abenteurer.
+Dialogue: 0,0:05:37.82,0:05:41.61,Default,Elymas,0,0,0,,Sollte es so kommen,\Nziehen wir einfach weiter zur nächsten Stadt.
+Dialogue: 0,0:05:42.54,0:05:45.54,Default,Elymas,0,0,0,,Ich glaube auch nicht,\Nschwächer als die zu sein.
+Dialogue: 0,0:06:02.59,0:06:05.22,Default,Hilde,0,0,0,,Oho, gute Reaktion!
+Dialogue: 0,0:06:05.22,0:06:07.92,Default,Hilde,0,0,0,,Aber die Statuswerte\Nsind zu minderwertig!
+Dialogue: 0,0:06:07.92,0:06:10.39,Default,Hilde,0,0,0,,Einem Schweren Ritter\Nsind Grenzen gesetzt!
+Dialogue: 0,0:06:10.39,0:06:11.64,Default,Hilde,0,0,0,,Kannst dich freuen!
+Dialogue: 0,0:06:11.64,0:06:15.39,Default,Hilde,0,0,0,,Hätte ich etwas mehr die Fassung verloren,\Nhätte ich dich einfach niedergestreckt.
+Dialogue: 0,0:06:15.39,0:06:18.48,Default,Hilde,0,0,0,,Mit einer unpassenden Waffe in der Hand\Nstirbst du auch nur.
+Dialogue: 0,0:06:19.41,0:06:21.99,Default,Hilde,0,0,0,,Und jetzt verkaufe mir artig das Schwert!
+Dialogue: 0,0:06:21.99,0:06:24.75,Default,Luce,0,0,0,,A-Alles in Ordnung, Elymas?!
+Dialogue: 0,0:06:24.75,0:06:28.62,Default,Luce,0,0,0,,W-Was denkst du dir bloß dabei?
+Dialogue: 0,0:06:28.62,0:06:32.25,Default,Hilde,0,0,0,,Ich zeige ihm nur leicht verständlich\Nseinen Mangel an Können auf!
+Dialogue: 0,0:06:32.25,0:06:36.32,Default,Elymas,0,0,0,,Nur wegen eines Überraschungsschlages\Nist ein Leistungsunterschied nicht erwiesen!
+Dialogue: 0,0:06:36.32,0:06:37.08,Default,Hilde,0,0,0,,Ha?
+Dialogue: 0,0:06:37.08,0:06:40.42,Default,Hilde,0,0,0,,Na, was denn?\NWillste etwa ein Duell mit mir?
+Dialogue: 0,0:06:40.42,0:06:45.05,Default,Hilde,0,0,0,,Kannste gerne haben,\Nmit dem Mithrilschwert als Einsatz!
+Dialogue: 0,0:06:45.05,0:06:47.09,Default,Elymas,0,0,0,,Was ist dein Einsatz?
+Dialogue: 0,0:06:47.09,0:06:50.60,Default,Hilde,0,0,0,,Pah! Völlig ausgeschlossen,\Ndass ich verliere!
+Dialogue: 0,0:06:50.60,0:06:54.98,Default,Hilde,0,0,0,,Ich gebe das Schwert auf\Nund bezahle dir den Marktpreis davon!
+Dialogue: 0,0:06:54.98,0:06:59.11,Default,Hilde,0,0,0,,Wie schaut’s aus?\NDamit hast du keinen Grund zum Kneifen mehr!
+Dialogue: 0,0:06:59.11,0:07:01.46,Default,Veruga,0,0,0,,Lasse dich nicht darauf ein, Bursche!
+Dialogue: 0,0:07:01.46,0:07:05.11,Default,Veruga,0,0,0,,Schwertmagier sind\Nprädestiniert für Einzelkämpfe!
+Dialogue: 0,0:07:05.11,0:07:09.12,Default,Veruga,0,0,0,,Ein Duell zum Vergleich der Kampfkraft\Nwäre komplett unfair.
+Dialogue: 0,0:07:10.37,0:07:12.66,Default,Elymas,0,0,0,,Du bist mit\Ndieser Bedingung einverstanden?
+Dialogue: 0,0:07:12.66,0:07:14.87,Default,Elymas,0,0,0,,In dem Fall nehme ich mit Freuden an!
+Dialogue: 0,0:07:17.29,0:07:19.88,Default,Luce,0,0,0,,D-Das ist aber gar nicht gut!
+Dialogue: 0,0:07:19.88,0:07:22.30,Default,Luce,0,0,0,,Der Gegner ist\Nein Schwertmagier im B-Rang!
+Dialogue: 0,0:07:22.30,0:07:26.30,Default,Luce,0,0,0,,Selbst ich weiß, dass diese Klasse\Nin Duellen konkurrenzlos ist!
+Dialogue: 0,0:07:26.30,0:07:29.08,Default,Elymas,0,0,0,,Ich wollte sie eigentlich\Nnur links liegen lassen,
+Dialogue: 0,0:07:29.08,0:07:31.18,Default,Elymas,0,0,0,,aber ein wenig verärgert bin ich doch.
+Dialogue: 0,0:07:31.18,0:07:32.31,Default,Luce,0,0,0,,Elymas?
+Dialogue: 0,0:07:32.31,0:07:35.93,Default,Elymas,0,0,0,,So einfach an mehrere Millionen zu kommen,\Ndarf man sich auch nicht entgehen lassen.
+Dialogue: 0,0:07:35.93,0:07:38.56,Default,Elymas,0,0,0,,Ich verpasse dir\Neine kleine Abreibung, Hilde!
+Dialogue: 0,0:07:38.56,0:07:41.03,Default,Hilde,0,0,0,,Schön, dass du so ein Trottel bist!
+Dialogue: 0,0:07:41.03,0:07:45.81,Default,Hilde,0,0,0,,Ich hole einen Gildenmitarbeiter als Zeugen,\Ndamit du dich nicht herausreden kannst!
+Dialogue: 0,0:07:45.81,0:07:47.57,Default,Hilde,0,0,0,,Heul später nicht rum!
+Dialogue: 0,0:08:02.59,0:08:05.58,Internal,Elymas,0,0,0,,Hilde sollte in Bälde zurückkommen.
+Dialogue: 0,0:08:08.72,0:08:10.47,Default,Elymas,0,0,0,,Lebensschild!
+Dialogue: 0,0:08:09.01,0:08:10.47,Type  Status,TYPE,0,0,0,,{\fad(355,0)\fs18\c&H3DD3EE&\3c&H6E6543&\blur1\pos(330,190.66)}Lebensschild {\fs15\c&HFFFCE0&\3c&HF3CF4D&}(Gewöhnliche Fähigkeit)\N\N{\fs12}Wird ausgelöst, wenn dafür 20 % der maximalen\NLebenspunkte eingelöst werden.\NDer gesamte Körper wird mit einem Schild bedeckt, dessen\NHaltbarkeit analog zu den eingelösten Lebenspunkten ist.
+Dialogue: 0,0:08:13.84,0:08:17.98,Default,Veruga,0,0,0,,Bursche, was treibst du denn da\Ndie ganze Zeit?
+Dialogue: 0,0:08:17.98,0:08:22.48,Default,Veruga,0,0,0,,Was willst du damit bezwecken,\Nausgelöste Fähigkeiten wieder aufzuheben?
+Dialogue: 0,0:08:22.48,0:08:24.58,Default,Veruga,0,0,0,,Verstehe ich überhaupt nicht!
+Dialogue: 0,0:08:24.58,0:08:26.34,Default,Elymas,0,0,0,,Ich verwalte meine Lebenspunkte.
+Dialogue: 0,0:08:26.34,0:08:27.99,Default,Veruga,0,0,0,,Verstehe ich noch weniger!
+Dialogue: 0,0:08:28.51,0:08:30.99,Default,Luce,0,0,0,,Und … kannst du gewinnen, Elymas?
+Dialogue: 0,0:08:30.99,0:08:35.15,Default,Luce,0,0,0,,Du setzt dieses Mal auf\N„Rasender Drache an der Todesschwelle“, oder?
+Dialogue: 0,0:08:36.25,0:08:40.43,Default,Luce,0,0,0,,„Noble Selbstaufopferung“\Nscheint hier keinen Nutzen zu haben …
+Dialogue: 0,0:08:40.43,0:08:41.50,Default,Elymas,0,0,0,,Das stimmt.
+Dialogue: 0,0:08:43.10,0:08:45.25,Flashback,Elymas,0,0,0,,Noble Selbstaufopferung!
+Dialogue: 0,0:08:57.52,0:09:01.01,Internal,Elymas,0,0,0,,Mit Nobler Selbstaufopferung das Sechsfache\Nmeines Angriffswertes herauszuholen,
+Dialogue: 0,0:09:01.01,0:09:03.14,Internal,Elymas,0,0,0,,würde nur exzessiven\NSchaden verursachen.
+Dialogue: 0,0:09:03.82,0:09:07.86,Default,Elymas,0,0,0,,Da gegen einen Gegner mit Fernangriff\Nmeine Verteidigung auf Null sinken würde
+Dialogue: 0,0:09:07.19,0:09:11.03,Type  Status,TYPE,0,0,0,,{\fs30\fad(105,0)\c&HFDF7FB&\3c&HF1FD9E&\bord2\blur2\t(232,565,\fs26)\t(648,857,\bord0.5,\blur0,\c&HE0DCB1&)\move(189.33,184,204.66,188,106,565)}Verteidigungswert 0
+Dialogue: 0,0:09:07.86,0:09:10.16,Default,Elymas,0,0,0,,hätte das gegenseitige\NUnfalltode zur Folge.
+Dialogue: 0,0:09:11.57,0:09:15.03,Default,Elymas,0,0,0,,Schwertmagier sind deutlich unangenehmere\NGegner als selbst Schwertheilige.
+Dialogue: 0,0:09:15.60,0:09:18.04,Default,Elymas,0,0,0,,Nicht nur sofortige Feuerkraft\Nund Schwerttechniken, …
+Dialogue: 0,0:09:18.39,0:09:21.37,Default,Elymas,0,0,0,,auch über praktische\Nmagische Fernangriffe verfügen sie.
+Dialogue: 0,0:09:24.54,0:09:27.96,Default,Veruga,0,0,0,,Vielleicht solltest du doch lieber\Nschnell das Weite suchen?
+Dialogue: 0,0:09:27.96,0:09:29.78,Default,Elymas,0,0,0,,Natürlich bin ich siegesgewiss!
+Dialogue: 0,0:09:30.17,0:09:33.36,Default,Elymas,0,0,0,,Es ist zwar etwas fies,\Ndarum mag ich es nicht so …
+Dialogue: 0,0:09:33.36,0:09:36.05,Default,Elymas,0,0,0,,Aber Schwertmagier denken zu einseitig!
+Dialogue: 0,0:09:36.05,0:09:39.31,Default,Luce,0,0,0,,E-Elymas mit bösem Gesichtsausdruck!
+Dialogue: 0,0:09:42.69,0:09:45.61,Default,Hilde,0,0,0,,Habe wen mitgebracht, Schwerer Ritter!
+Dialogue: 0,0:09:46.54,0:09:49.15,Default,Hilde,0,0,0,,Du hast doch nicht an\Nmeinem Schwert herumgefummelt, oder?
+Dialogue: 0,0:09:50.50,0:09:53.90,Default,Matilda,0,0,0,,Sie hat mich wegen eines vorlauten\NSchweren Ritters hierher verschleppt.
+Dialogue: 0,0:09:53.90,0:09:56.43,Default,Matilda,0,0,0,,Ich dachte mir schon,\Num wen es sich dabei handeln wird.
+Dialogue: 0,0:09:56.43,0:09:58.56,Default,Matilda,0,0,0,,Elymas und Luce!
+Dialogue: 0,0:10:08.25,0:10:11.26,Default,Hilde,0,0,0,,Fangen wir sogleich an, Schwerer Ritter!
+Dialogue: 0,0:10:13.45,0:10:16.06,Internal,Elymas,0,0,0,,Schwertmagier gegen Schwerer Ritter!
+Dialogue: 0,0:10:16.77,0:10:19.14,Internal,Elymas,0,0,0,,Für ein Duell könnte es\Nnicht schlechter passen!
+Dialogue: 0,0:10:19.14,0:10:22.04,Internal,Elymas,0,0,0,,Mit Reichweitenmagie\Nzieht sie mir LPs ab
+Dialogue: 0,0:10:22.04,0:10:24.94,Internal,Elymas,0,0,0,,und im Nahkampf kontert sie\Nmeine Schwertattacken aus.
+Dialogue: 0,0:10:26.38,0:10:27.52,Internal,Elymas,0,0,0,,Jedoch …
+Dialogue: 0,0:10:27.52,0:10:30.36,Internal,Elymas,0,0,0,,haben Schwertmagier\Nein festes Denkschemata!
+Dialogue: 0,0:10:30.94,0:10:34.68,Internal,Elymas,0,0,0,,Und vermutlich ist es bei Hilde\Nbesonders ausgeprägt!
+Dialogue: 0,0:10:47.72,0:10:48.86,Default,Elymas,0,0,0,,Zeugin!
+Dialogue: 0,0:10:49.23,0:10:51.75,Default,Elymas,0,0,0,,Vor dem Duell will ich\Netwas geklärt wissen!
+Dialogue: 0,0:10:51.75,0:10:53.61,Default,Matilda,0,0,0,,Was wäre das, Elymas?
+Dialogue: 0,0:10:53.61,0:10:57.05,Default,Elymas,0,0,0,,Beim Verwenden von Fähigkeiten\Nkommt es auch zu Unvorhergesehenem.
+Dialogue: 0,0:10:57.78,0:11:00.51,Default,Elymas,0,0,0,,Was passiert, wenn der Gegner\Ntödlich verwundet wird?
+Dialogue: 0,0:11:01.42,0:11:06.11,Default,Matilda,0,0,0,,Beide Duellanten sind sich dieses Risikos\Nbewusst, wenn sie sich dem Duell stellen.
+Dialogue: 0,0:11:06.11,0:11:09.77,Default,Matilda,0,0,0,,Unter dieser Prämisse\Nstehen wir als Zeugen parat.
+Dialogue: 0,0:11:09.77,0:11:12.52,Default,Matilda,0,0,0,,Falls du dir unsicher bist,\Ndann trete jetzt zurück.
+Dialogue: 0,0:11:12.52,0:11:15.27,Default,Elymas,0,0,0,,Nein. Gut, dass das geklärt ist!
+Dialogue: 0,0:11:15.27,0:11:17.66,Default,Elymas,0,0,0,,Fangen wir gleich an, Hilde!
+Dialogue: 0,0:11:18.87,0:11:21.22,Default,Hilde,0,0,0,,Läppische Sticheleien!
+Dialogue: 0,0:11:21.22,0:11:23.46,Default,Hilde,0,0,0,,Ich bin mit dieser Prämisse einverstanden!
+Dialogue: 0,0:11:28.21,0:11:30.02,Internal,Elymas,0,0,0,,Sie hält etwas Abstand.
+Dialogue: 0,0:11:30.02,0:11:32.88,Internal,Elymas,0,0,0,,Passend für auf Magie\Nspezialisierte Klassen.
+Dialogue: 0,0:11:35.90,0:11:38.39,Default,Matilda,0,0,0,,Dann … beginnt!
+Dialogue: 0,0:11:42.97,0:11:44.50,Default,Elymas,0,0,0,,Lebensschild!
+Dialogue: 0,0:11:43.35,0:11:45.31,Type comic sans bold,TYPE,0,0,0,,{\fs30\bord0.5\c&HD0FF1C&\3c&HF36D04&\alpha&HFF&\t(0,40,\alpha&H00&)\pos(444.67,22.67)}L{\alpha&HFF&\t(66,106,\alpha&H00&)}e{\alpha&HFF&\t(132,172,\alpha&H00&)}b{\alpha&HFF&\t(198,238,\alpha&H00&)}e{\alpha&HFF&\t(264,304,\alpha&H00&)}n{\alpha&HFF&\t(330,370,\alpha&H00&)}s{\alpha&HFF&\t(397,437,\alpha&H00&)}s{\alpha&HFF&\t(463,503,\alpha&H00&)}c{\alpha&HFF&\t(529,569,\alpha&H00&)}h{\alpha&HFF&\t(595,635,\alpha&H00&)}i{\alpha&HFF&\t(661,701,\alpha&H00&)}l{\alpha&HFF&\t(728,768,\alpha&H00&)}d
+Dialogue: 0,0:12:23.81,0:12:26.27,Default,Hilde,0,0,0,,Was ist das denn\Nfür eine sonderbare Fähigkeit?
+Dialogue: 0,0:12:41.95,0:12:43.95,Default,Luce,0,0,0,,D-Diese Fähigkeit …!
+Dialogue: 0,0:12:43.95,0:12:47.37,Default,Luce,0,0,0,,Du sagtest doch,\Ndie ist für ein Duell zu gefährlich!
+Dialogue: 0,0:12:48.25,0:12:50.17,Type  Status,TYPE,0,0,0,,{\fad(520,0)\c&H9393A7&\3c&HDCEAF8&\fs16\pos(280.67,276.66)}„Noble Selbstaufopferung“{\fs14\c&HFFFFE3&\3c&HFEF214&\bord1\blur3} (Gewöhnliche Fähigkeit)\N{\fs12}Kann nur bei höchstens 50 % verbleibender LP ausgelöst werden\NSenkt den Verteidigungswert auf 0 und fügt den abgezogenen Wert\Ndem Angriffswert zu.\NVerbraucht während der Anwendung stetig MP
+Dialogue: 0,0:12:51.19,0:12:53.08,Internal,Hilde,0,0,0,,Die nächste rätselhafte Fähigkeit!
+Dialogue: 0,0:12:53.08,0:12:56.55,Internal,Hilde,0,0,0,,Dazu die Reaktion von diesem Weib …
+Dialogue: 0,0:12:57.82,0:12:58.92,Internal,Hilde,0,0,0,,Besser, …
+Dialogue: 0,0:13:15.19,0:13:17.32,Internal,Hilde,0,0,0,,… ich schaue mir das\Naus der Distanz an!
+Dialogue: 0,0:13:57.22,0:14:00.61,Default,Elymas,0,0,0,,Gut! Das fühlt sich nicht schlecht an!
+Dialogue: 0,0:14:04.89,0:14:06.38,Default,Hilde,0,0,0,,W-Warte! Warte!
+Dialogue: 0,0:14:06.38,0:14:07.63,Default,Hilde,0,0,0,,A-Auszeit!
+Dialogue: 0,0:14:07.63,0:14:09.12,Default,Hilde,0,0,0,,Bleib mal stehen!
+Dialogue: 0,0:14:09.12,0:14:10.62,Default,Hilde,0,0,0,,Stopp!
+Dialogue: 0,0:14:10.62,0:14:13.99,Default,Hilde,0,0,0,,Bleib stehen!\NIch habe meine Waffe weggeschmissen!
+Dialogue: 0,0:14:13.99,0:14:16.88,Default,Hilde,0,0,0,,Hörst du nicht?\NAuszeit! Auszeit!
+Dialogue: 0,0:14:17.38,0:14:19.38,Default,Hilde,0,0,0,,Jetzt bleib doch mal stehen!
+Dialogue: 0,0:14:19.88,0:14:22.20,Default,Hilde,0,0,0,,I-Ich kapituliere!
+Dialogue: 0,0:14:22.20,0:14:23.38,Default,Hilde,0,0,0,,Kapitulation!
+Dialogue: 0,0:14:23.38,0:14:24.98,Default,Hilde,0,0,0,,Ich gestehe die Niederlage ein!
+Dialogue: 0,0:14:24.98,0:14:26.39,Default,Hilde,0,0,0,,Ich gestehe sie ja ein!
+Dialogue: 0,0:14:27.27,0:14:29.69,Internal,Elymas,0,0,0,,Das feste Denkschemata der Schwertmagier:
+Dialogue: 0,0:14:29.69,0:14:31.95,Internal,Elymas,0,0,0,,Sicherheit hat Priorität!
+Dialogue: 0,0:14:32.85,0:14:34.58,Internal,Elymas,0,0,0,,Wegen mangelhafter Ausdauer
+Dialogue: 0,0:14:34.58,0:14:38.65,Internal,Elymas,0,0,0,,kann der Schwertmagier, der seine Feuerkraft\Ndurch nachteilbehaftete Fähigkeiten erkauft,
+Dialogue: 0,0:14:38.65,0:14:42.90,Internal,Elymas,0,0,0,,leicht das Leben verlieren,\Nwenn er den Zeitpunkt zum Rückzug verpasst.
+Dialogue: 0,0:14:42.90,0:14:45.29,Internal,Elymas,0,0,0,,Wenn man ihr droht, gibt sie nach.
+Dialogue: 0,0:14:45.29,0:14:47.41,Internal,Elymas,0,0,0,,Davon war ich überzeugt.
+Dialogue: 0,0:14:48.78,0:14:50.77,Default,Elymas,0,0,0,,Ich bitte um den Schiedsspruch!
+Dialogue: 0,0:14:51.15,0:14:51.91,Default,Matilda,0,0,0,,Jawohl …
+Dialogue: 0,0:14:51.91,0:14:55.13,Default,Matilda,0,0,0,,D-Der Sieger ist Elymas!
+Dialogue: 0,0:14:57.92,0:15:00.54,Default,Hilde,0,0,0,,W-Willst du mich veräppeln?
+Dialogue: 0,0:15:00.54,0:15:02.67,Default,Hilde,0,0,0,,Ich hatte Auszeit gesagt!
+Dialogue: 0,0:15:02.67,0:15:07.32,Default,Hilde,0,0,0,,Ich habe gezwungenermaßen kapituliert,\Nweil du einfach nicht stehenbliebst!
+Dialogue: 0,0:15:07.32,0:15:09.22,Default,Elymas,0,0,0,,Gezwungenermaßen, wie du schon sagst.
+Dialogue: 0,0:15:09.22,0:15:13.55,Default,Matilda,0,0,0,,Hilde, dir wurde beim Anblick\Nder gegnerischen Fähigkeiten bange.
+Dialogue: 0,0:15:13.55,0:15:16.15,Default,Matilda,0,0,0,,Eine Auszeit beim Duell zu verlangen,
+Dialogue: 0,0:15:16.15,0:15:21.23,Default,Matilda,0,0,0,,wird von der Gilde\Nnicht als legitimer Grund anerkannt.
+Dialogue: 0,0:15:21.59,0:15:23.86,Default,Matilda,0,0,0,,Solltest du dem Schiedsspruch nicht folgen,
+Dialogue: 0,0:15:23.86,0:15:28.68,Default,Matilda,0,0,0,,müssten entsprechende Maßnahmen\Nergriffen werden!
+Dialogue: 0,0:15:28.68,0:15:31.63,Default,Hilde,0,0,0,,D-Das weiß ich selbst!
+Dialogue: 0,0:15:31.63,0:15:36.33,Default,Hilde,0,0,0,,Ich würde nie knauserig herummosern\Nund das Duell nicht einhalten!
+Dialogue: 0,0:15:36.33,0:15:38.22,Default,Hilde,0,0,0,,Pass auf, Elymas!
+Dialogue: 0,0:15:38.22,0:15:40.50,Default,Hilde,0,0,0,,Ich hatte Auszeit gesagt!
+Dialogue: 0,0:15:40.50,0:15:42.68,Default,Hilde,0,0,0,,Unter Berücksichtigung dieses Punktes
+Dialogue: 0,0:15:42.68,0:15:45.51,Default,Hilde,0,0,0,,können wir uns doch auf\N20.000.000 Gold einigen, okay?
+Dialogue: 0,0:15:47.82,0:15:50.26,Default,Hilde,0,0,0,,30.000.000 Gold sind etwas happig …
+Dialogue: 0,0:15:50.26,0:15:51.76,Default,Elymas,0,0,0,,Können wir nicht!
+Dialogue: 0,0:15:51.76,0:15:53.53,Default,Luce,0,0,0,,Knauserig …
+Dialogue: 0,0:15:53.53,0:15:55.39,Default,Luce,0,0,0,,Wenngleich ich es nachvollziehen kann …
+Dialogue: 0,0:15:55.39,0:16:00.40,Default,Hilde,0,0,0,,I-Ich brauche nun mal eine Waffe,\Ndie zu meiner Stufe passt!
+Dialogue: 0,0:16:00.40,0:16:03.00,Default,Hilde,0,0,0,,Der Fortschritt hin zu einem\Nerstklassigen Abenteurer
+Dialogue: 0,0:16:03.00,0:16:07.15,Default,Hilde,0,0,0,,führt dazu, Städte aus Krisen zu erretten\Nund die Schäden durch Monster zu verringern!
+Dialogue: 0,0:16:07.15,0:16:10.39,Default,Hilde,0,0,0,,Ich gebe ja zu,\Ndass meine Vorgehensweise nicht gut war.
+Dialogue: 0,0:16:10.39,0:16:12.99,Default,Hilde,0,0,0,,Ich gelobe, so etwas nie wieder zu tun!
+Dialogue: 0,0:16:12.99,0:16:14.69,Default,Elymas,0,0,0,,Gut, wenn du das einsiehst.
+Dialogue: 0,0:16:15.73,0:16:19.50,Default,Hilde,0,0,0,,D-Dann können wir uns doch\Nirgendwie auf 20.000.000 Gold einigen?
+Dialogue: 0,0:16:19.91,0:16:21.00,Default,Elymas,0,0,0,,Können wir nicht!
+Dialogue: 0,0:16:26.01,0:16:28.30,Default,Veruga,0,0,0,,H-Hör mal, Bursche.
+Dialogue: 0,0:16:30.26,0:16:33.45,Default,Veruga,0,0,0,,Ich weiß nicht,\Nwie ich das jetzt sagen soll …
+Dialogue: 0,0:16:33.45,0:16:38.35,Default,Veruga,0,0,0,,Aber der Marktwert dieses Schwertes\Nbeträgt nicht 30.000.000 Gold.
+Dialogue: 0,0:16:39.34,0:16:40.46,Default,Elymas,0,0,0,,Ach so?
+Dialogue: 0,0:16:40.46,0:16:43.36,Default,Hilde,0,0,0,,Ist das etwa nur eine Fälschung?
+Dialogue: 0,0:16:43.91,0:16:44.71,Default,Hilde,0,0,0,,Pah!
+Dialogue: 0,0:16:44.71,0:16:48.86,Default,Hilde,0,0,0,,Die Abmachung war,\Nden Marktwert dieses Schwertes zu zahlen!
+Dialogue: 0,0:16:50.16,0:16:52.36,Default,Hilde,0,0,0,,Jetzt spanne uns nicht auf die Folter!
+Dialogue: 0,0:16:52.36,0:16:56.37,Default,Veruga,0,0,0,,N-Nun, du kannst es auch\Neinfach selbst überprüfen.
+Dialogue: 0,0:16:56.70,0:17:09.38,Type  Status,,0,0,0,,{\fad(520,0)\c&H9393A7&\3c&HDCEAF8&\fs16\pos(278,82.66)}Mithrilschwert {\fs14\c&HFFFFE3&\3c&HFEF214&\bord1\blur3}(Empfohlene Stufe: 70)\N{\fs12}Angriffswert: + 46\NMarktpreis: 51.500.000 Gold\NMagisches Schwert, von dem ein starkes Mana-Strahlen ausgeht.\NDie Rune der Zerstörung ist eingebettet.
+Dialogue: 0,0:16:57.05,0:16:58.38,Default,Systemstimme,0,0,0,,Mithrilschwert.
+Dialogue: 0,0:16:58.38,0:17:00.91,Default,Systemstimme,0,0,0,,Angriffswert: + 46.
+Dialogue: 0,0:17:00.91,0:17:04.07,Default,Systemstimme,0,0,0,,Marktpreis: 51.500.000 Gold.
+Dialogue: 0,0:17:04.07,0:17:06.96,Default,Systemstimme,0,0,0,,Magisches Schwert,\Nvon dem ein starkes Mana-Strahlen ausgeht.
+Dialogue: 0,0:17:06.96,0:17:09.38,Default,Systemstimme,0,0,0,,Die Rune der Zerstörung ist eingebettet.
+Dialogue: 0,0:17:09.88,0:17:14.64,Default,Hilde,0,0,0,,51.500.000 Gold?!
+Dialogue: 0,0:17:14.64,0:17:16.06,Default,Elymas,0,0,0,,Ach ja.
+Dialogue: 0,0:17:16.06,0:17:18.10,Default,Elymas,0,0,0,,Ich hatte den Betrag der Rune vergessen.
+Dialogue: 0,0:17:18.10,0:17:19.70,Default,Elymas,0,0,0,,Wie nachlässig.
+Dialogue: 0,0:17:20.21,0:17:21.02,Default,Elymas,0,0,0,,Hilde!
+Dialogue: 0,0:17:21.02,0:17:24.69,Default,Elymas,0,0,0,,Der Marktpreis belief sich\Nauf 51.500.000 Gold.
+Dialogue: 0,0:17:24.69,0:17:28.03,Default,Hilde,0,0,0,,Ja, leck mich doch!\NWie soll ich das bezahlen können?
+Dialogue: 0,0:17:28.42,0:17:31.40,Default,Hilde,0,0,0,,Das kann ich unmöglich\Neinfach so hinnehmen!
+Dialogue: 0,0:17:31.79,0:17:35.91,Default,Hilde,0,0,0,,Ich bitte dich!\NGib mir 40.000.000 Rabatt!
+Dialogue: 0,0:17:35.91,0:17:39.91,Default,Elymas,0,0,0,,Entweder sauer sein oder zu Staube kriechen,\Nist das alles, was du kannst?
+Dialogue: 0,0:17:40.49,0:17:43.87,Default,Luce,0,0,0,,Irgendwo tut sie mir nun leid.
+Dialogue: 0,0:17:43.87,0:17:45.17,Default,Elymas,0,0,0,,Tja …
+Dialogue: 0,0:17:45.17,0:17:50.92,Default,Elymas,0,0,0,,Ich wollte ihr eigentlich auch nur\Neine kleine Abreibung verpassen …
+Dialogue: 0,0:17:52.31,0:17:55.70,Default,Elymas,0,0,0,,Ich gebe dir 1.500.000 Rabatt\Nund Hand drauf auf 50.000.000, ja?
+Dialogue: 0,0:17:55.70,0:17:56.89,Default,Hilde,0,0,0,,Pardauz!
+Dialogue: 0,0:18:13.03,0:18:17.58,Default,Matilda,0,0,0,,Einem Abenteurer im B-Rang\Nkönnen wir auch einen Kredit gewähren.
+Dialogue: 0,0:19:05.36,0:19:06.91,Default,Matilda,0,0,0,,Elymas, richtig?
+Dialogue: 0,0:19:06.91,0:19:08.92,Default,Matilda,0,0,0,,Es geht um das Duell neulich.
+Dialogue: 0,0:19:08.92,0:19:13.09,Default,Matilda,0,0,0,,Ich kann berichten. dass es eine Zahlung\Nvon Hilde über 50.000.000 Gold gegeben hat.
+Dialogue: 0,0:19:13.09,0:19:15.29,Default,Elymas,0,0,0,,Sie konnte das wirklich besorgen?
+Dialogue: 0,0:19:15.29,0:19:17.39,Default,Elymas,0,0,0,,Das ist doch erst zwei Tage her?
+Dialogue: 0,0:19:17.39,0:19:21.26,Default,Matilda,0,0,0,,Wir sind erfahren im Umgang\Nmit Zwistigkeiten zwischen Abenteurern.
+Dialogue: 0,0:19:21.65,0:19:24.15,Default,Matilda,0,0,0,,Denn wenn die Gilde will, dann …!
+Dialogue: 0,0:19:25.27,0:19:29.15,Flashback,Hilde,0,0,0,,40.000.000 Gold!\NHalt, sagen wir 45.000.000, okay?
+Dialogue: 0,0:19:31.15,0:19:35.40,Flashback,Hilde,0,0,0,,Okay, okay!\NIch bezahle ja die 50.000.000 Gold!
+Dialogue: 0,0:19:40.33,0:19:41.73,Default,Hilde,0,0,0,,Da sind die ja!
+Dialogue: 0,0:19:41.73,0:19:42.97,Default,Hilde,0,0,0,,Ihr Penner!
+Dialogue: 0,0:19:42.97,0:19:47.21,Default,Hilde,0,0,0,,Die geklauten 50.000.000 Gold\Nhole ich mir wieder zurück!
+Dialogue: 0,0:19:50.92,0:19:53.67,Default,Elymas,0,0,0,,Verstehe.\NSie hat ihre Waffen verkauft.
+Dialogue: 0,0:19:53.67,0:19:54.55,Default,Elymas,0,0,0,,Schnell weg, Luce!
+Dialogue: 0,0:19:54.55,0:19:55.67,Default,Luce,0,0,0,,J-Ja …!
+Dialogue: 0,0:19:57.78,0:19:58.68,Default,Hilde,0,0,0,,Hiergeblieben!
+Dialogue: 0,0:20:05.30,0:20:06.21,Default,Carlos,0,0,0,,Hilde!
+Dialogue: 0,0:20:16.91,0:20:19.20,Default,Carlos,0,0,0,,Ist er der besagte Schwere Ritter?
+Dialogue: 0,0:20:31.32,0:20:33.03,Internal,Elymas,0,0,0,,Dieses Auftreten.
+Dialogue: 0,0:20:33.03,0:20:34.37,Internal,Elymas,0,0,0,,Diese Energie.
+Dialogue: 0,0:20:39.01,0:20:44.01,Internal,Elymas,0,0,0,,Das wird die wahre\NSchwarze Flammenklinge sein!
+Dialogue: 0,0:20:49.91,0:20:52.02,Default,Hilde,0,0,0,,Genau, die waren das, Meister!
+Dialogue: 0,0:20:52.02,0:20:56.94,Default,Hilde,0,0,0,,Die haben auf perfide Weise\Nmeine Ersparnisse geraubt!
+Dialogue: 0,0:21:03.83,0:21:04.99,Internal,Elymas,0,0,0,,Also doch!
+Dialogue: 0,0:21:06.57,0:21:08.20,Default,Carlos,0,0,0,,Meine Klasse ist Schwertmagier.
+Dialogue: 0,0:21:09.12,0:21:11.71,Default,Carlos,0,0,0,,Ich bin Carlos, Abenteurer im A-Rang.
+Dialogue: 0,0:21:12.68,0:21:16.71,Default,Carlos,0,0,0,,Nachdem mir Hilde von dir erzählte,\Nwollte ich dich gerne treffen.
+Dialogue: 0,0:21:21.84,0:21:23.64,Default,Carlos,0,0,0,,Schwerer Ritter Elymas!
+Dialogue: 0,0:21:40.07,0:21:47.74,Type Credits,TYPE,0,0,0,,Übersetzung & Spotting:\NChristoph Zeller
+Dialogue: 0,0:21:49.95,0:21:56.59,Type Credits,TYPE,0,0,0,,Revision & Typesetting:\NKonrad Walter
+Dialogue: 0,0:22:04.68,0:22:07.64,Type Credits,TYPE,0,0,0,,Qualitätskontrolle:\NJanik Aurich
+Dialogue: 0,0:22:07.64,0:22:10.64,Type Credits,TYPE,0,0,0,,Projektleitung:\NTobias Philippi
+Dialogue: 0,0:23:11.51,0:23:15.72,Default,Elymas,0,0,0,,Vor uns tauchte\Nder Schwertmagier Carlos auf.
+Dialogue: 0,0:23:15.72,0:23:16.97,Default,Elymas,0,0,0,,Hildes Meister.
+Dialogue: 0,0:23:16.97,0:23:19.84,Default,Elymas,0,0,0,,Abenteurer im A-Rang\Nund Stolz Lacorynas!
+Dialogue: 0,0:23:20.38,0:23:22.80,Default,Elymas,0,0,0,,Auch Schwarze Flammenklinge genannt.
+Dialogue: 0,0:23:23.77,0:23:25.72,Default,Elymas,0,0,0,,Ich dachte, es würde um Hilde gehen,
+Dialogue: 0,0:23:25.72,0:23:29.48,Default,Elymas,0,0,0,,doch was Carlos zur Sprache brachte,\Nwar weitaus gewichtiger.
+Dialogue: 0,0:23:29.48,0:23:32.52,Default,Elymas,0,0,0,,Ein Auftrag, den auch ich\Nnicht ausschlagen konnte.
+Dialogue: 0,0:23:33.26,0:23:35.35,Default,Elymas,0,0,0,,Nächstes Mal:\N„Die Schwarze Flammenklinge“!
+Dialogue: 0,0:23:36.02,0:23:38.77,Default,Elymas,0,0,0,,Mein bislang größter Kampf beginnt!
+
