@@ -1,0 +1,269 @@
+[Script Info]
+Title:
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+ScriptType: V4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Font1,Arial,20,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0.00,0,1,2,0,2,64,64,36,0
+Style: Font2,Arial,20,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0.00,0,1,2,0,2,64,64,36,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.33,Font1,,0000,0000,0000,,{\an1}
+Dialogue: 0,0:00:29.15,0:00:30.23,Font1,,0000,0000,0000,,Co?\n
+Dialogue: 0,0:00:30.94,0:00:32.86,Font1,,0000,0000,0000,,Drzwi są otwarte.\n
+Dialogue: 0,0:00:32.03,0:00:35.20,Font1,,0000,0000,0000,,{\an8}Nic nie rozumiesz, staruchu.\n
+Dialogue: 0,0:00:35.28,0:00:37.57,Font1,,0000,0000,0000,,Nie każę ci niczego mi oddawać.\n
+Dialogue: 0,0:00:37.66,0:00:40.16,Font1,,0000,0000,0000,,Mówię, żebyś sprzedał mi ten miecz.\n
+Dialogue: 0,0:00:40.24,0:00:42.20,Font1,,0000,0000,0000,,Nie mam broni na sprzedaż.\n
+Dialogue: 0,0:00:42.29,0:00:44.71,Font1,,0000,0000,0000,,- To źle brzmi.\n- Tak.\n
+Dialogue: 0,0:00:42.83,0:00:45.17,Font1,,0000,0000,0000,,{\an8}Ten miecz jest już zamówiony.\n
+Dialogue: 0,0:00:46.21,0:00:47.46,Font1,,0000,0000,0000,,Wszystko w porządku?\n
+Dialogue: 0,0:00:47.54,0:00:49.88,Font1,,0000,0000,0000,,Mam cię dość, wojowniczko.\n
+Dialogue: 0,0:00:49.96,0:00:53.01,Font1,,0000,0000,0000,,Tak? To ty jesteś klientem?\n
+Dialogue: 0,0:00:56.51,0:00:58.68,Font1,,0000,0000,0000,,Zastanawiałam się, dla kogo go robisz.\n
+Dialogue: 0,0:00:58.76,0:01:01.47,Font1,,0000,0000,0000,,Wykułeś mithrilowy miecz\ndla tego cherlaka?\n
+Dialogue: 0,0:01:01.56,0:01:04.02,Font1,,0000,0000,0000,,{\i1}Słyszę ją, ale jej nie widzę.\n
+Dialogue: 0,0:01:04.10,0:01:07.48,Font1,,0000,0000,0000,,Aż tak potrzebowałeś pieniędzy, Veruga?\n
+Dialogue: 0,0:01:07.56,0:01:08.48,Font1,,0000,0000,0000,,{\i1}To sztuczka?\n
+Dialogue: 0,0:01:08.56,0:01:10.44,Font1,,0000,0000,0000,,Panie Elymasie, na dole!\n
+Dialogue: 0,0:01:11.19,0:01:12.57,Font1,,0000,0000,0000,,Jest na dole!\n
+Dialogue: 0,0:01:18.03,0:01:22.41,Font1,,0000,0000,0000,,Hej, dupku. Robisz sobie ze mnie jaja?\n
+Dialogue: 0,0:01:22.49,0:01:25.83,Font1,,0000,0000,0000,,Co jest nie tak z tym dzieciakiem?\n
+Dialogue: 0,0:02:58.05,0:03:02.26,Font1,,0000,0000,0000,,{\an8}ODCINEK 20. HILDE - MAGICZNY SZERMIERZ\n
+Dialogue: 0,0:02:58.67,0:03:03.01,Font1,,0000,0000,0060,,Hej, dupku. Robisz sobie ze mnie jaja?\n
+Dialogue: 0,0:03:03.09,0:03:05.31,Font1,,0000,0000,0000,,Chcesz coś powiedzieć, to gadaj.\n
+Dialogue: 0,0:03:05.85,0:03:11.48,Font1,,0000,0000,0000,,Dziecko? Nie, ma już klasę.\nSkoro przeszła rytuał, ma 15 lat?\n
+Dialogue: 0,0:03:11.56,0:03:13.10,Font1,,0000,0000,0000,,Mam 17.\n
+Dialogue: 0,0:03:14.11,0:03:15.86,Font1,,0000,0000,0000,,{\i1}Starsza ode mnie? Niemożliwe.\n
+Dialogue: 0,0:03:15.94,0:03:18.15,Font1,,0000,0000,0000,,Nie zaimponowałam ci.\n
+Dialogue: 0,0:03:18.23,0:03:24.16,Font1,,0000,0000,0000,,Słyszałeś kiedyś o magicznym szermierzu\nzwanym Ostrzem Czarnego Płomienia?\n
+Dialogue: 0,0:03:27.16,0:03:30.66,Font1,,0000,0000,0000,,{\i1}Słyszałem ten przydomek,\nzbierając informacje w Lacorynie.\n
+Dialogue: 0,0:03:31.25,0:03:32.71,Font1,,0000,0000,0000,,{\i1}Ostrze Czarnego Płomienia.\n
+Dialogue: 0,0:03:33.17,0:03:38.63,Font1,,0000,0000,0000,,{\i1}To jeden z zaledwie kilku\nposzukiwaczy rangi A w Lacorynie.\n
+Dialogue: 0,0:03:42.55,0:03:48.81,Font1,,0000,0000,0000,,Jestem słynną poszukiwaczką,\nOstrze Czarnego Płomienia…\n
+Dialogue: 0,0:03:51.10,0:03:53.98,Font1,,0000,0000,0000,,…jestem jego najlepszą uczennicą!\n
+Dialogue: 0,0:03:58.78,0:04:02.20,Font1,,0000,0000,0000,,Rozumiem. To rzeczywiście imponujące.\n
+Dialogue: 0,0:04:03.20,0:04:06.28,Font1,,0000,0000,0000,,Skoro jest właściciel miecza,\nszybko to załatwimy.\n
+Dialogue: 0,0:04:06.37,0:04:09.74,Font1,,0000,0000,0000,,Z tobą na pewno łatwiej się dogadać\nniż z tym uparciuchem.\n
+Dialogue: 0,0:04:10.79,0:04:13.29,Font1,,0000,0000,0000,,Powiem tylko jedno.\n
+Dialogue: 0,0:04:13.83,0:04:16.00,Font1,,0000,0000,0000,,Sprzedaj mi mithrilowy miecz.\n
+Dialogue: 0,0:04:16.08,0:04:17.00,Font1,,0000,0000,0000,,Nie.\n
+Dialogue: 0,0:04:17.84,0:04:20.80,Font1,,0000,0000,0000,,Zleciłem jego wykucie, bo go potrzebuję.\n
+Dialogue: 0,0:04:20.88,0:04:23.38,Font1,,0000,0000,0000,,Wyluzuj, ciężki rycerzu.\n
+Dialogue: 0,0:04:23.47,0:04:29.01,Font1,,0000,0000,0000,,Taka słaba klasa jak twoja\ni tak nie wykorzysta tego miecza.\n
+Dialogue: 0,0:04:29.10,0:04:32.02,Font1,,0000,0000,0000,,Co niby zrobisz z takim wymyślnym mieczem?\n
+Dialogue: 0,0:04:32.10,0:04:34.44,Font1,,0000,0000,0000,,Nie rozumiesz, jak działa ten świat.\n
+Dialogue: 0,0:04:34.52,0:04:37.56,Font1,,0000,0000,0000,,Nie każę ci go sprzedać za grosze.\n
+Dialogue: 0,0:04:37.65,0:04:40.44,Font1,,0000,0000,0000,,Trzydzieści milionów powinno wystarczyć.\n
+Dialogue: 0,0:04:40.53,0:04:44.03,Font1,,0000,0000,0000,,To pewnie więcej pieniędzy,\nniż potrafisz sobie wyobrazić.\n
+Dialogue: 0,0:04:44.11,0:04:45.82,Font1,,0000,0000,0000,,Powiedziałem: nie.\n
+Dialogue: 0,0:04:45.91,0:04:48.53,Font1,,0000,0000,0000,,Trzydzieści milionów\nto zdecydowanie za mało.\n
+Dialogue: 0,0:04:49.58,0:04:51.16,Font1,,0000,0000,0000,,Hej, chłopcze.\n
+Dialogue: 0,0:04:51.24,0:04:55.71,Font1,,0000,0000,0000,,Może wygląda jak kurdupel,\nale naprawdę jest silna.\n
+Dialogue: 0,0:04:55.79,0:04:56.96,Font1,,0000,0000,0000,,Co, dziadu?!\n
+Dialogue: 0,0:04:57.38,0:05:02.01,Font1,,0000,0000,0000,,Ma rangę B i rekord\nw samotnym zabijaniu władców snu.\n
+Dialogue: 0,0:05:03.09,0:05:04.47,Font1,,0000,0000,0000,,No, tak.\n
+Dialogue: 0,0:05:05.09,0:05:09.39,Font1,,0000,0000,0000,,Ale ma paskudny charakter,\nwięc lepiej jej nie prowokować.\n
+Dialogue: 0,0:05:09.47,0:05:10.43,Font1,,0000,0000,0000,,Hej!\n
+Dialogue: 0,0:05:10.93,0:05:16.31,Font1,,0000,0000,0000,,Myślałem, że nie chcesz dla niej pracować,\nbo nie cierpisz takich ludzi.\n
+Dialogue: 0,0:05:16.81,0:05:20.40,Font1,,0000,0000,0000,,Ja też jej nie lubię. Nie będę negocjować.\n
+Dialogue: 0,0:05:20.48,0:05:21.32,Font1,,0000,0000,0000,,Hej!\n
+Dialogue: 0,0:05:21.40,0:05:26.03,Font1,,0000,0000,0000,,Ja liczę się z konsekwencjami,\nale wy jesteście jeszcze młodzi.\n
+Dialogue: 0,0:05:26.49,0:05:29.74,Font1,,0000,0000,0000,,Nie róbcie sobie wrogów w gildii,\njeśli nie musicie.\n
+Dialogue: 0,0:05:29.82,0:05:31.74,Font1,,0000,0000,0000,,Zostawcie to mnie.\n
+Dialogue: 0,0:05:32.12,0:05:33.83,Font1,,0000,0000,0000,,{\i1}Chyba ma miękkie serce.\n
+Dialogue: 0,0:05:34.25,0:05:37.79,Font1,,0000,0000,0000,,Nie martw się o nas.\nJesteśmy poszukiwaczami.\n
+Dialogue: 0,0:05:37.87,0:05:41.29,Font1,,0000,0000,0000,,W razie czego\nprzeniesiemy się do innego miasta.\n
+Dialogue: 0,0:05:42.50,0:05:45.47,Font1,,0000,0000,0000,,Poza tym nie sądzę,\nżebym był od niej słabszy.\n
+Dialogue: 0,0:06:02.23,0:06:05.15,Font1,,0000,0000,0000,,Och? Niezły refleks.\n
+Dialogue: 0,0:06:05.24,0:06:07.82,Font1,,0000,0000,0000,,Ale statystyki masz żałosne.\n
+Dialogue: 0,0:06:07.90,0:06:10.24,Font1,,0000,0000,0000,,Ograniczenia ciężkiego rycerza.\n
+Dialogue: 0,0:06:10.32,0:06:15.33,Font1,,0000,0000,0000,,Masz szczęście.\nGdybym była wkurzona, zabiłabym cię.\n
+Dialogue: 0,0:06:15.41,0:06:18.42,Font1,,0000,0000,0000,,Za dobra broń wcale nie uratuje ci życia.\n
+Dialogue: 0,0:06:19.29,0:06:21.92,Font1,,0000,0000,0000,,A teraz sprzedaj mi miecz.\n
+Dialogue: 0,0:06:22.00,0:06:24.71,Font1,,0000,0000,0000,,Wszystko dobrze, panie Elymasie?\n
+Dialogue: 0,0:06:24.80,0:06:28.55,Font1,,0000,0000,0000,,Co ty sobie myślałaś?!\n
+Dialogue: 0,0:06:28.63,0:06:32.18,Font1,,0000,0000,0000,,Tylko pokazałam mu, jaki jest słaby.\n
+Dialogue: 0,0:06:32.64,0:06:36.10,Font1,,0000,0000,0000,,Atak z zaskoczenia\nnie dowodzi, że jesteś silniejsza.\n
+Dialogue: 0,0:06:36.18,0:06:37.02,Font1,,0000,0000,0000,,Co?\n
+Dialogue: 0,0:06:37.52,0:06:40.48,Font1,,0000,0000,0000,,To co? Chcesz się pojedynkować?\n
+Dialogue: 0,0:06:40.56,0:06:44.65,Font1,,0000,0000,0000,,Jeśli postawisz mithrilowy miecz,\nprzyjmę wyzwanie.\n
+Dialogue: 0,0:06:45.11,0:06:47.03,Font1,,0000,0000,0000,,A ty co postawisz?\n
+Dialogue: 0,0:06:47.78,0:06:50.53,Font1,,0000,0000,0000,,I tak nie ma szans, żebym przegrała,\n
+Dialogue: 0,0:06:50.61,0:06:54.91,Font1,,0000,0000,0000,,ale odpuszczę miecz\ni zapłacę ci jego wartość rynkową.\n
+Dialogue: 0,0:06:54.99,0:06:59.04,Font1,,0000,0000,0000,,I co? Teraz nie masz powodu do ucieczki.\n
+Dialogue: 0,0:06:59.12,0:07:01.42,Font1,,0000,0000,0000,,Nie zgadzaj się, chłopcze.\n
+Dialogue: 0,0:07:01.50,0:07:05.05,Font1,,0000,0000,0000,,Magiczni szermierze specjalizują się\nw walce jeden na jednego.\n
+Dialogue: 0,0:07:05.13,0:07:08.88,Font1,,0000,0000,0000,,Pojedynek z nią nie byłby równą walką.\n
+Dialogue: 0,0:07:10.80,0:07:14.80,Font1,,0000,0000,0000,,Odpowiadają ci takie warunki?\nW takim razie chętnie przyjmuję.\n
+Dialogue: 0,0:07:17.31,0:07:22.23,Font1,,0000,0000,0000,,To zły pomysł.\nJest magicznym szermierzem z rangą B.\n
+Dialogue: 0,0:07:22.31,0:07:26.23,Font1,,0000,0000,0000,,Nawet ja wiem,\nże w pojedynkach nie mają sobie równych.\n
+Dialogue: 0,0:07:26.32,0:07:31.11,Font1,,0000,0000,0000,,Planowałem załatwić to subtelniej,\nale trochę się zdenerwowałem.\n
+Dialogue: 0,0:07:31.20,0:07:32.24,Font1,,0000,0000,0000,,Panie Elymasie?\n
+Dialogue: 0,0:07:32.32,0:07:35.83,Font1,,0000,0000,0000,,Nie pozwolę,\nżeby przeszło mi koło nosa 30 milionów.\n
+Dialogue: 0,0:07:35.91,0:07:38.50,Font1,,0000,0000,0000,,Chyba dam ci małą nauczkę, Hilde.\n
+Dialogue: 0,0:07:38.58,0:07:41.00,Font1,,0000,0000,0000,,Mam szczęście, że jesteś tak głupi.\n
+Dialogue: 0,0:07:41.08,0:07:45.75,Font1,,0000,0000,0000,,Wezmę pracownika gildii na świadka,\nżebyś nie mógł się z tego wykręcić.\n
+Dialogue: 0,0:07:45.84,0:07:47.50,Font1,,0000,0000,0000,,Obyś nie żałował.\n
+Dialogue: 0,0:08:02.56,0:08:05.48,Font1,,0000,0000,0000,,{\i1}Hilde powinna zaraz wrócić.\n
+Dialogue: 0,0:08:08.53,0:08:10.03,Font1,,0000,0000,0000,,Tarcza Życia!\n
+Dialogue: 0,0:08:13.99,0:08:17.91,Font1,,0000,0000,0000,,Chłopcze, co ty robisz?\n
+Dialogue: 0,0:08:17.99,0:08:22.41,Font1,,0000,0000,0000,,Po co ciągle aktywujesz\ni wyłączasz tę umiejętność?\n
+Dialogue: 0,0:08:22.50,0:08:24.25,Font1,,0000,0000,0000,,Nie rozumiem.\n
+Dialogue: 0,0:08:24.71,0:08:27.92,Font1,,0000,0000,0000,,- Reguluję poziom życia.\n- Tym bardziej nie rozumiem.\n
+Dialogue: 0,0:08:28.42,0:08:30.92,Font1,,0000,0000,0000,,Dasz radę ją pokonać, panie Elymasie?\n
+Dialogue: 0,0:08:31.01,0:08:35.14,Font1,,0000,0000,0000,,Liczysz na Smoczy Szał:\nSpojrzenie Śmierci, prawda?\n
+Dialogue: 0,0:08:36.26,0:08:40.39,Font1,,0000,0000,0000,,Obrona w Atak raczej ci tutaj nie pomoże.\n
+Dialogue: 0,0:08:40.47,0:08:41.43,Font1,,0000,0000,0000,,Racja.\n
+Dialogue: 0,0:08:43.06,0:08:45.02,Font1,,0000,0000,0000,,Obrona w Atak!\n
+Dialogue: 0,0:08:57.53,0:09:03.08,Font1,,0000,0000,0000,,Sześciokrotny Atak nie jest wart\ndodatkowych obrażeń, które bym otrzymał.\n
+Dialogue: 0,0:09:03.75,0:09:07.96,Font1,,0000,0000,0000,,Obniżenie Obrony do zera przeciw\nprzeciwnikowi z atakami dystansowymi\n
+Dialogue: 0,0:09:07.13,0:09:10.96,Font2,,0000,0000,0000,,{\an8}OBRONA: 0\n
+Dialogue: 0,0:09:08.04,0:09:10.13,Font1,,0000,0000,0000,,skończyłoby się śmiercią.\n
+Dialogue: 0,0:09:11.05,0:09:14.97,Font1,,0000,0000,0000,,Magiczny szermierz jest trudniejszym\nprzeciwnikiem niż mistrz szermierki.\n
+Dialogue: 0,0:09:15.55,0:09:18.51,Font1,,0000,0000,0000,,Oprócz nagłych przypływów siły\ni technik szermierki\n
+Dialogue: 0,0:09:18.60,0:09:21.43,Font1,,0000,0000,0000,,mają też użyteczne\nataki magiczne na dystans.\n
+Dialogue: 0,0:09:24.56,0:09:27.98,Font1,,0000,0000,0000,,Jeszcze nie jest za późno, żeby uciec.\n
+Dialogue: 0,0:09:28.06,0:09:29.69,Font1,,0000,0000,0000,,Wiem, jak wygrać.\n
+Dialogue: 0,0:09:30.19,0:09:33.32,Font1,,0000,0000,0000,,Sposób jest trochę nieczysty,\n
+Dialogue: 0,0:09:33.40,0:09:35.99,Font1,,0000,0000,0000,,ale magiczni szermierze\nmyślą schematycznie.\n
+Dialogue: 0,0:09:36.07,0:09:39.24,Font1,,0000,0000,0000,,Co za złowieszczy uśmiech.\n
+Dialogue: 0,0:09:42.70,0:09:45.54,Font1,,0000,0000,0000,,Przyprowadziłam kogoś, ciężki rycerzu!\n
+Dialogue: 0,0:09:46.41,0:09:49.08,Font1,,0000,0000,0000,,Lepiej żebyś nie uszkodził mojego miecza!\n
+Dialogue: 0,0:09:50.50,0:09:53.84,Font1,,0000,0000,0000,,Ściągnięto mnie tu przez\n„bezczelnego ciężkiego rycerza”.\n
+Dialogue: 0,0:09:53.92,0:09:58.51,Font1,,0000,0000,0000,,Wiedziałam, że chodzi\no pana Elymasa i panią Ruche.\n
+Dialogue: 0,0:10:08.27,0:10:10.94,Font1,,0000,0000,0000,,Zaczynajmy, ciężki rycerzu.\n
+Dialogue: 0,0:10:13.44,0:10:15.90,Font1,,0000,0000,0000,,{\i1}Magiczny szermierz kontra ciężki rycerz.\n
+Dialogue: 0,0:10:16.70,0:10:19.07,Font1,,0000,0000,0000,,{\i1}Najgorszy możliwy przeciwnik do pojedynku.\n
+Dialogue: 0,0:10:19.16,0:10:21.99,Font1,,0000,0000,0000,,{\i1}Z dystansu będzie\nodbierać mi życie zaklęciami.\n
+Dialogue: 0,0:10:22.08,0:10:24.62,Font1,,0000,0000,0000,,{\i1}A jeśli się zbliżę,\npokona mnie szermierką.\n
+Dialogue: 0,0:10:26.41,0:10:30.29,Font1,,0000,0000,0000,,{\i1}Ale magiczni szermierze\nmyślą w schematyczny sposób.\n
+Dialogue: 0,0:10:30.92,0:10:34.67,Font1,,0000,0000,0000,,{\i1}A Hilde pewnie\njest tego podręcznikowym przykładem.\n
+Dialogue: 0,0:10:47.68,0:10:51.56,Font1,,0000,0000,0000,,Zanim zaczniemy,\nchciałbym coś potwierdzić ze świadkiem.\n
+Dialogue: 0,0:10:51.65,0:10:53.57,Font1,,0000,0000,0000,,O co chodzi, panie Elymasie?\n
+Dialogue: 0,0:10:53.65,0:10:56.99,Font1,,0000,0000,0000,,Walczymy z użyciem umiejętności,\nmoże dojść do najgorszego.\n
+Dialogue: 0,0:10:57.74,0:11:00.45,Font1,,0000,0000,0000,,Co jeśli zranimy\nalbo zabijemy przeciwnika?\n
+Dialogue: 0,0:11:01.36,0:11:06.12,Font1,,0000,0000,0000,,Podjęliście to ryzyko,\nzgadzając się na pojedynek.\n
+Dialogue: 0,0:11:06.20,0:11:09.71,Font1,,0000,0000,0000,,Tak traktujemy takie sytuacje,\ngdy występujemy jako świadkowie.\n
+Dialogue: 0,0:11:09.79,0:11:12.46,Font1,,0000,0000,0000,,Jeśli masz obawy,\nmożemy odwołać pojedynek.\n
+Dialogue: 0,0:11:12.54,0:11:15.34,Font1,,0000,0000,0000,,Nie. Cieszę się, że to potwierdziłaś.\n
+Dialogue: 0,0:11:15.42,0:11:17.26,Font1,,0000,0000,0000,,Zaczynajmy, Hilde.\n
+Dialogue: 0,0:11:18.88,0:11:21.09,Font1,,0000,0000,0000,,Chcesz mnie sprowokować?\n
+Dialogue: 0,0:11:21.18,0:11:23.51,Font1,,0000,0000,0000,,Mnie też to odpowiada.\n
+Dialogue: 0,0:11:28.22,0:11:30.06,Font1,,0000,0000,0000,,{\i1}Dzieli nas spory dystans.\n
+Dialogue: 0,0:11:30.14,0:11:32.81,Font1,,0000,0000,0000,,{\i1}Nic dziwnego, skoro jej klasa używa magii.\n
+Dialogue: 0,0:11:35.86,0:11:38.32,Font1,,0000,0000,0000,,Zaczynajcie!\n
+Dialogue: 0,0:11:42.82,0:11:44.66,Font1,,0000,0000,0000,,Tarcza Życia!\n
+Dialogue: 0,0:12:23.53,0:12:26.12,Font1,,0000,0000,0000,,Co to było? Dziwna umiejętność.\n
+Dialogue: 0,0:12:41.97,0:12:47.30,Font1,,0000,0000,0000,,Mówiłeś, że ta umiejętność\njest zbyt niebezpieczna na pojedynek!\n
+Dialogue: 0,0:12:48.10,0:12:50.18,Font1,,0000,0000,0000,,OBRONA W ATAK\n
+Dialogue: 0,0:12:51.14,0:12:53.02,Font1,,0000,0000,0000,,{\i1}Kolejna tajemnicza umiejętność.\n
+Dialogue: 0,0:12:53.10,0:12:56.56,Font1,,0000,0000,0000,,{\i1}Do tego reakcja tej dziewczyny…\n
+Dialogue: 0,0:12:57.61,0:12:59.07,Font1,,0000,0000,0000,,{\i1}Na razie…\n
+Dialogue: 0,0:13:15.21,0:13:17.25,Font1,,0000,0000,0000,,{\i1}będę go obserwować z dystansu.\n
+Dialogue: 0,0:13:57.21,0:14:00.21,Font1,,0000,0000,0000,,Dobra, nie jest źle.\n
+Dialogue: 0,0:14:04.67,0:14:06.22,Font1,,0000,0000,0000,,Czekaj, czekaj!\n
+Dialogue: 0,0:14:06.30,0:14:08.84,Font1,,0000,0000,0000,,Przerwa! Odwołajmy pojedynek!\n
+Dialogue: 0,0:14:09.30,0:14:10.55,Font1,,0000,0000,0000,,Stop!\n
+Dialogue: 0,0:14:11.05,0:14:13.85,Font1,,0000,0000,0000,,Stop! Rzuciłam broń!\n
+Dialogue: 0,0:14:13.93,0:14:15.23,Font1,,0000,0000,0000,,Nie słyszysz mnie?!\n
+Dialogue: 0,0:14:15.31,0:14:16.81,Font1,,0000,0000,0000,,Zatrzymaj się!\n
+Dialogue: 0,0:14:17.44,0:14:19.40,Font1,,0000,0000,0000,,Serio, przestań!\n
+Dialogue: 0,0:14:19.90,0:14:23.32,Font1,,0000,0000,0000,,Poddaję się! Kapituluję!\n
+Dialogue: 0,0:14:23.40,0:14:26.32,Font1,,0000,0000,0000,,Przyznaję się do porażki!\nPrzegrałam, jasne?!\n
+Dialogue: 0,0:14:27.24,0:14:31.95,Font1,,0000,0000,0000,,{\i1}Magiczni szermierze\nmają skłonność do ostrożnej walki.\n
+Dialogue: 0,0:14:32.83,0:14:38.42,Font1,,0000,0000,0000,,{\i1}Mają niską wytrzymałość i potężne\numiejętności z kosztownymi wadami,\n
+Dialogue: 0,0:14:38.87,0:14:42.84,Font1,,0000,0000,0000,,{\i1}więc przy dłuższej walce\nłatwo mogą zginąć.\n
+Dialogue: 0,0:14:42.92,0:14:47.34,Font1,,0000,0000,0000,,{\i1}Byłem pewien, że jeśli będę ją naciskał,\nw końcu się podda.\n
+Dialogue: 0,0:14:48.72,0:14:50.55,Font1,,0000,0000,0000,,Ogłoś zwycięzcę.\n
+Dialogue: 0,0:14:50.64,0:14:51.85,Font1,,0000,0000,0000,,Dobrze.\n
+Dialogue: 0,0:14:52.39,0:14:55.10,Font1,,0000,0000,0000,,Zwycięża pan Elymas!\n
+Dialogue: 0,0:14:58.27,0:15:02.61,Font1,,0000,0000,0000,,Chyba żartujesz! Powiedziałam tylko,\nżeby przerwać pojedynek!\n
+Dialogue: 0,0:15:03.06,0:15:07.15,Font1,,0000,0000,0000,,Powiedziałam, że się poddaję,\nbo nie chciałeś przestać!\n
+Dialogue: 0,0:15:07.24,0:15:09.15,Font1,,0000,0000,0000,,Ale to powiedziałaś.\n
+Dialogue: 0,0:15:09.24,0:15:10.45,Font1,,0000,0000,0000,,Pani Hilde,\n
+Dialogue: 0,0:15:10.53,0:15:16.16,Font1,,0000,0000,0000,,gildia nie uznaje zmiany zdania\npo zobaczeniu umiejętności przeciwnika\n
+Dialogue: 0,0:15:16.24,0:15:20.62,Font1,,0000,0000,0000,,za ważny powód do przerwania pojedynku.\n
+Dialogue: 0,0:15:21.25,0:15:23.75,Font1,,0000,0000,0000,,Skoro wezwano mnie w charakterze świadka,\n
+Dialogue: 0,0:15:23.84,0:15:28.67,Font1,,0000,0000,0000,,jeśli nie zastosuje się pani do zasad,\nzostaną wyciągnięte konsekwencje.\n
+Dialogue: 0,0:15:28.76,0:15:31.55,Font1,,0000,0000,0000,,Wiem o tym.\n
+Dialogue: 0,0:15:31.63,0:15:36.26,Font1,,0000,0000,0000,,Nie jestem skąpcem.\nNie wycofam się teraz z umowy.\n
+Dialogue: 0,0:15:36.35,0:15:40.44,Font1,,0000,0000,0000,,Słuchaj, Elymasie.\nTo ja przerwałam pojedynek.\n
+Dialogue: 0,0:15:40.89,0:15:45.44,Font1,,0000,0000,0000,,Więc może zgodzisz się\nna 20 milionów sztuk złota?\n
+Dialogue: 0,0:15:47.78,0:15:50.20,Font1,,0000,0000,0000,,30 milionów to trochę dużo.\n
+Dialogue: 0,0:15:50.70,0:15:51.70,Font1,,0000,0000,0000,,Nie.\n
+Dialogue: 0,0:15:52.20,0:15:55.33,Font1,,0000,0000,0000,,Ale z ciebie sknera. Chociaż rozumiem.\n
+Dialogue: 0,0:15:55.41,0:16:00.33,Font1,,0000,0000,0000,,Po prostu naprawdę potrzebuję broni\nodpowiedniej do mojego poziomu.\n
+Dialogue: 0,0:16:00.87,0:16:02.71,Font1,,0000,0000,0000,,Rozwój poszukiwacza wysokiej rangi\n
+Dialogue: 0,0:16:02.79,0:16:07.09,Font1,,0000,0000,0000,,zwiększa bezpieczeństwo miasta i zmniejsza\nstraty powodowane przez potwory.\n
+Dialogue: 0,0:16:07.17,0:16:10.17,Font1,,0000,0000,0000,,Przyznaję, że wybrałam złą metodę.\n
+Dialogue: 0,0:16:10.26,0:16:12.93,Font1,,0000,0000,0000,,Już nigdy czegoś takiego nie zrobię.\n
+Dialogue: 0,0:16:13.01,0:16:14.64,Font1,,0000,0000,0000,,Skoro to rozumiesz…\n
+Dialogue: 0,0:16:15.85,0:16:19.43,Font1,,0000,0000,0000,,Więc może jednak przyjmiesz 20 milionów?\n
+Dialogue: 0,0:16:19.97,0:16:20.93,Font1,,0000,0000,0000,,Nie.\n
+Dialogue: 0,0:16:25.98,0:16:28.19,Font1,,0000,0000,0000,,Posłuchaj, chłopcze.\n
+Dialogue: 0,0:16:30.24,0:16:33.36,Font1,,0000,0000,0000,,Nie chciałem mówić o tym akurat teraz,\n
+Dialogue: 0,0:16:33.45,0:16:37.99,Font1,,0000,0000,0000,,ale wartość rynkowa tego miecza\nnie wynosi 30 milionów.\n
+Dialogue: 0,0:16:39.24,0:16:40.70,Font1,,0000,0000,0000,,Naprawdę?\n
+Dialogue: 0,0:16:40.79,0:16:42.96,Font1,,0000,0000,0000,,Co?! To podróbka?\n
+Dialogue: 0,0:16:44.71,0:16:48.80,Font1,,0000,0000,0000,,Postawiłam wartość rynkową tego miecza.\n
+Dialogue: 0,0:16:50.09,0:16:52.30,Font1,,0000,0000,0000,,Niepotrzebnie spanikowałam.\n
+Dialogue: 0,0:16:52.88,0:16:56.30,Font1,,0000,0000,0000,,Sami zobaczcie.\n
+Dialogue: 0,0:16:57.01,0:17:00.77,Font1,,0000,0000,0000,,{\i1}Mithrilowy miecz. Atak: +46.\n
+Dialogue: 0,0:17:00.85,0:17:04.02,Font1,,0000,0000,0000,,{\i1}Cena rynkowa: 51 500 000 sztuk złota.\n
+Dialogue: 0,0:17:04.10,0:17:06.94,Font1,,0000,0000,0000,,{\i1}Magiczny miecz, który jasno lśni maną.\n
+Dialogue: 0,0:17:07.02,0:17:09.32,Font1,,0000,0000,0000,,{\i1}Zaklęty Runą Zniszczenia.\n
+Dialogue: 0,0:17:11.90,0:17:14.57,Font1,,0000,0000,0000,,51 milionów?!\n
+Dialogue: 0,0:17:14.65,0:17:18.07,Font1,,0000,0000,0000,,Rozumiem.\nZapomniałem doliczyć wartość runy.\n
+Dialogue: 0,0:17:18.16,0:17:20.95,Font1,,0000,0000,0000,,Ależ ze mnie gapa. Hilde.\n
+Dialogue: 0,0:17:21.04,0:17:24.62,Font1,,0000,0000,0000,,Wartość rynkowa to 51 500 000 sztuk złota.\n
+Dialogue: 0,0:17:25.12,0:17:27.96,Font1,,0000,0000,0000,,Pieprzyć to! Nie stać mnie!\n
+Dialogue: 0,0:17:28.46,0:17:31.34,Font1,,0000,0000,0000,,Nie możecie oczekiwać,\nże się na to zgodzę!\n
+Dialogue: 0,0:17:31.42,0:17:35.84,Font1,,0000,0000,0000,,Proszę! Zejdźcie chociaż do 40 milionów!\n
+Dialogue: 0,0:17:35.93,0:17:39.85,Font1,,0000,0000,0000,,Możesz się zdecydować,\nczy na mnie krzyczysz, czy się kłaniasz?\n
+Dialogue: 0,0:17:36.34,0:17:39.85,Font1,,0000,0000,0000,,{\an8}Litości! Miej litość!\n
+Dialogue: 0,0:17:40.47,0:17:43.85,Font1,,0000,0000,0000,,Zaczyna mi jej być żal.\n
+Dialogue: 0,0:17:43.93,0:17:45.10,Font1,,0000,0000,0000,,Mnie też.\n
+Dialogue: 0,0:17:45.73,0:17:50.86,Font1,,0000,0000,0000,,Szczerze mówiąc, wyzwałem ją\nna pojedynek, by dać jej nauczkę.\n
+Dialogue: 0,0:17:46.06,0:17:50.02,Font1,,0000,0000,0000,,{\an8}Litości…\n
+Dialogue: 0,0:17:52.28,0:17:56.03,Font1,,0000,0000,0000,,Dam ci 1 500 000 zniżki\ni przyjmę 50 milionów.\n
+Dialogue: 0,0:18:13.00,0:18:17.51,Font1,,0000,0000,0000,,Udzielamy pożyczek poszukiwaczom rangi B.\n
+Dialogue: 0,0:19:05.31,0:19:06.81,Font1,,0000,0000,0000,,Pan Elymas, zgadza się?\n
+Dialogue: 0,0:19:06.89,0:19:13.02,Font1,,0000,0000,0000,,Otrzymał pan od pani Hilde\n50 milionów za ostatni pojedynek.\n
+Dialogue: 0,0:19:13.52,0:19:17.32,Font1,,0000,0000,0000,,Zdobyła pieniądze? Minęły dopiero dwa dni.\n
+Dialogue: 0,0:19:17.40,0:19:21.20,Font1,,0000,0000,0000,,Przywykliśmy do rozstrzygania\nsporów między poszukiwaczami.\n
+Dialogue: 0,0:19:21.78,0:19:24.12,Font1,,0000,0000,0000,,Gdyby gildia miała taką wolę…\n
+Dialogue: 0,0:19:25.29,0:19:29.08,Font1,,0000,0000,0000,,Może 40 milionów… nie, 45 milionów?\n
+Dialogue: 0,0:19:31.17,0:19:35.34,Font1,,0000,0000,0000,,Dobra, 50 milionów! Zapłacę 50 milionów!\n
+Dialogue: 0,0:19:40.34,0:19:42.89,Font1,,0000,0000,0000,,Tu jesteście, dranie!\n
+Dialogue: 0,0:19:42.97,0:19:47.14,Font1,,0000,0000,0000,,Oddawajcie moje 50 milionów,\nktóre mi zabraliście!\n
+Dialogue: 0,0:19:51.35,0:19:53.56,Font1,,0000,0000,0000,,Rozumiem. Sprzedałaś swoją broń.\n
+Dialogue: 0,0:19:53.65,0:19:55.61,Font1,,0000,0000,0000,,- Wiejemy, Ruche!\n- Dobrze!\n
+Dialogue: 0,0:19:57.65,0:19:58.61,Font1,,0000,0000,0000,,Nie uciekniecie.\n
+Dialogue: 0,0:20:05.24,0:20:06.24,Font1,,0000,0000,0000,,Hilde.\n
+Dialogue: 0,0:20:16.88,0:20:19.13,Font1,,0000,0000,0000,,To ten ciężki rycerz?\n
+Dialogue: 0,0:20:31.39,0:20:34.31,Font1,,0000,0000,0000,,{\i1}Ta aura, ta presja…\n
+Dialogue: 0,0:20:39.03,0:20:43.95,Font1,,0000,0000,0000,,{\i1}To musi być prawdziwy\nOstrze Czarnego Płomienia.\n
+Dialogue: 0,0:20:49.87,0:20:51.96,Font1,,0000,0000,0000,,To oni, mistrzu!\n
+Dialogue: 0,0:20:52.41,0:20:56.63,Font1,,0000,0000,0000,,Podstępem ukradli mi pieniądze!\n
+Dialogue: 0,0:21:03.80,0:21:04.93,Font1,,0000,0000,0000,,{\i1}Wiedziałem.\n
+Dialogue: 0,0:21:06.51,0:21:08.30,Font1,,0000,0000,0000,,Mam klasę magicznego szermierza.\n
+Dialogue: 0,0:21:09.10,0:21:11.64,Font1,,0000,0000,0000,,Jestem poszukiwaczem rangi A.\nNazywam się Carlos.\n
+Dialogue: 0,0:21:12.60,0:21:16.65,Font1,,0000,0000,0000,,Chciałem cię poznać,\nodkąd Hilde mi o tobie opowiedziała,\n
+Dialogue: 0,0:21:21.78,0:21:23.74,Font1,,0000,0000,0000,,Elymasie, ciężki rycerzu.\n
+Dialogue: 0,0:21:49.93,0:21:52.18,Font1,,0000,0000,0000,,TEKST: JAN BRONIATOWSKI\n
+Dialogue: 0,0:23:11.43,0:23:15.72,Font1,,0000,0000,0000,,{\i1}Pojawił się przed nami\nmagiczny szermierz Carlos.\n
+Dialogue: 0,0:23:15.81,0:23:19.77,Font1,,0000,0000,0000,,{\i1}To mistrz Hilde i jeden\nz poszukiwaczy rangi A w Lacorynie.\n
+Dialogue: 0,0:23:20.40,0:23:22.73,Font1,,0000,0000,0000,,{\i1}Znany również\njako Ostrze Czarnego Płomienia.\n
+Dialogue: 0,0:23:23.73,0:23:27.74,Font1,,0000,0000,0000,,{\i1}Myślałem, że Carlos przyszedł przez Hilde,\n
+Dialogue: 0,0:23:27.82,0:23:32.53,Font1,,0000,0000,0000,,{\i1}ale zaproponował nam coś ważniejszego:\nzadanie którego nie mogliśmy uniknąć.\n
+Dialogue: 0,0:23:33.20,0:23:35.58,Font1,,0000,0000,0000,,{\i1}Następny odcinek:\n„Ostrze Czarnego Płomienia”.\n
+Dialogue: 0,0:23:35.99,0:23:39.04,Font1,,0000,0000,0000,,{\i1}To początek naszej największej walki.\n
+
