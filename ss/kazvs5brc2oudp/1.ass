@@ -1,0 +1,266 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Italic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Signs,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:14.86,0:00:17.41,Signs,Sign,0,0,0,,{\fade(400,000)\fs15\blur0\bord0\shad1\3c&H2D0B06&\4c&H252527&\pos(160,167)}1969: First Human Landing on the Moon
+Dialogue: 0,0:00:17.45,0:00:19.79,Signs,Sign,0,0,0,,{\fade(400,000)\fs15\blur0\bord0\shad1\3c&H2D0B06&\4c&H0A0A0B&\pos(136,168)}2111: Mars Colonization Begins
+Dialogue: 0,0:00:19.83,0:00:22.08,Signs,Sign,0,0,0,,{\fade(400,000)\fs15\blur0\bord0\shad1\3c&H2D0B06&\4c&H252527&\pos(152,167)}2191: Gamilas Invades Solar System
+Dialogue: 0,0:00:22.66,0:00:24.46,Signs,Sign,0,0,0,,{\fade(400,000)\fs15\blur0\bord0\shad1\3c&H2D0B06&\4c&H252527&\pos(169,167)}2199: Yamato Launches towards Iscandar
+Dialogue: 0,0:00:39.39,0:00:41.47,Signs,Sign,0,0,0,,{\fade(400,000)\fs15\blur0\bord0\shad1\3c&H2D0B06&\4c&H252527&\pos(114,166)}2199: Arrival at Iscandar
+Dialogue: 0,0:00:41.56,0:00:43.98,Signs,Sign,0,0,0,,{\fade(400,000)\fs15\blur0\bord0\shad1\3c&H2D0B06&\4c&H252527&\pos(211,166)}2199: Yamato Returns, Earth Rebuilding Project Begins
+Dialogue: 0,0:00:44.06,0:00:46.06,Signs,Sign,0,0,0,,{\fade(400,000)\fs15\blur1\bord1\shad1\3c&H343332&\4c&H676767&\pos(207,167)}2201: Peace Treaty Signed Between Earth and Gamilas
+Dialogue: 0,0:00:53.19,0:00:55.61,Signs,Sign,0,0,0,,{\fade(400,000)\fs15\blur0\bord0\shad1\3c&H2D0B06&\4c&H252527&\pos(197,167)}2203: Battle of the Saturn Sector, Saturn Destroyed
+Dialogue: 0,0:00:55.70,0:00:57.91,Signs,Sign,0,0,0,,{\fade(400,000)\fs15\blur0\bord0\shad1\3c&H2D0B06&\4c&H252527&\pos(169,167)}2203: Gatlantis Invades Earth, Yamato Lost
+Dialogue: 0,0:00:57.99,0:00:59.78,Signs,Sign,0,0,0,,{\fade(400,000)\fs15\blur0\bord0\shad1\3c&H2D0B06&\4c&H252527&\pos(231,166)}2203: National Vote, Yamato Returns From Higher Dimensions
+Dialogue: 0,0:00:59.87,0:01:02.83,Signs,Sign,0,0,0,,{\fade(400,000)\fs15\blur0\bord0\shad1\3c&H2D0B06&\4c&H252527&\pos(122,165)}2205: Garmann War Begins
+Dialogue: 0,0:01:03.91,0:01:06.58,Signs,Sign,0,0,0,,{\fade(400,000)\fs15\blur0\bord0\shad1\3c&H2D0B06&\4c&H252527&\pos(162,167)}2205: Dezarium Destroys Planet Gamilas
+Dialogue: 0,0:01:06.67,0:01:09.59,Signs,Sign,0,0,0,,{\fade(400,000)\fs15\blur0\bord0\shad1\3c&H2D0B06&\4c&H252527&\pos(95,166)}2205: Iscandar Lost
+Dialogue: 0,0:01:10.71,0:01:12.96,Signs,Sign,0,0,0,,{\fade(400,000)\fs15\blur0\bord0\shad1\3c&H2D0B06&\4c&H252527&\pos(151,165)}2206: Founding of Garmann-Gamilas
+Dialogue: 0,0:01:33.79,0:01:35.27,Italic,Mother,0,0,0,,Ranbel!
+Dialogue: 0,0:01:35.27,0:01:36.49,Italic,Mother,0,0,0,,Ranbel?
+Dialogue: 0,0:01:37.99,0:01:41.37,Italic,Mother,0,0,0,,Set course for our \Nhome planet immediately.
+Dialogue: 0,0:01:41.37,0:01:43.29,Italic,Mother,0,0,0,,Stop the Yamato's incursion,
+Dialogue: 0,0:01:43.58,0:01:47.31,Italic,Mother,0,0,0,,and this time, \Nacquire the fragment of Iscandar.
+Dialogue: 0,0:01:47.31,0:01:49.24,Default,Ranbel,0,0,0,,Yes. I will not fail.
+Dialogue: 0,0:01:54.57,0:01:57.66,Default,Ranbel,0,0,0,,Stop the Yamato's incursion?
+Dialogue: 0,0:02:08.64,0:02:11.74,Default,Ranbel,0,0,0,,What happened to that talk about them
+Dialogue: 0,0:02:11.74,0:02:14.81,Default,Ranbel,0,0,0,,disappearing into the\Nspacetime connection point?
+Dialogue: 0,0:02:16.22,0:02:17.96,Default,Ranbel,0,0,0,,Well, Mom?
+Dialogue: 0,0:02:23.75,0:02:26.40,Default,Ranbel,0,0,0,,I never cared about it before…
+Dialogue: 0,0:02:26.79,0:02:29.55,Default,Ranbel,0,0,0,,But you've all got the same damn face.
+Dialogue: 0,0:02:30.88,0:02:34.25,Default,Ranbel,0,0,0,,Sleeping Beauty, where are you now?
+Dialogue: 0,0:02:46.47,0:02:48.73,Italic,Maxim,0,0,0,,The Grand Reverse \Nis heading to the new capital.
+Dialogue: 0,0:02:49.68,0:02:53.57,Italic,Maxim,0,0,0,,They're planning to land in \Nthe heart of the city and regroup.
+Dialogue: 0,0:02:54.91,0:02:58.80,Italic,Maxim,0,0,0,,If they take the city hostage, \Nthe partisans won't be able to attack them.
+Dialogue: 0,0:03:00.19,0:03:01.16,Default,Frulul,0,0,0,,Daddy…
+Dialogue: 0,0:03:14.31,0:03:16.51,Default,Man,0,0,0,,Ma'am, you need to get out of here!
+Dialogue: 0,0:03:18.78,0:03:21.01,Italic,Maxim,0,0,0,,We need to change its course somehow.
+Dialogue: 0,0:03:21.01,0:03:25.02,Italic,Maxim,0,0,0,,Or destroy it before it arrives \Nat the capital.
+Dialogue: 0,0:03:26.67,0:03:30.36,Italic,Alphon,0,0,0,,If we're not careful, destroying it \Ncould activate the hyperon bomb.
+Dialogue: 0,0:03:30.93,0:03:33.82,Italic,Alphon,0,0,0,,We need to get it \Noutside the atmosphere first.
+Dialogue: 0,0:03:37.22,0:03:39.28,Italic,Alphon,0,0,0,,You're here, right, Isidor?
+Dialogue: 0,0:03:39.28,0:03:40.24,Italic,Isidor,0,0,0,,By your side.
+Dialogue: 0,0:03:40.82,0:03:41.90,Italic,Alphon,0,0,0,,Come meet me.
+Dialogue: 0,0:03:42.55,0:03:45.28,Default,Alphon,0,0,0,,From now on, we're not holding back!
+Dialogue: 0,0:04:01.95,0:04:02.98,Default,Isidor,0,0,0,,This way!
+Dialogue: 0,0:04:05.72,0:04:07.52,Default,Nagakura,0,0,0,,Everyone, form ranks!
+Dialogue: 0,0:04:08.52,0:04:10.02,Default,Soldiers,0,0,0,,Ha-yah!
+Dialogue: 0,0:04:12.30,0:04:13.71,Default,Alphon,0,0,0,,To the parietal lobe hall!
+Dialogue: 0,0:04:13.71,0:04:14.69,Default,Alphon,0,0,0,,Hurry!
+Dialogue: 0,0:04:21.71,0:04:25.62,Default,Yuira,0,0,0,,The Ginga and Gladiator, \Nas well as the Ajax fleet, are en route.
+Dialogue: 0,0:04:26.05,0:04:27.87,Default,Yuira,0,0,0,,But it will take time for them to arrive!
+Dialogue: 0,0:04:28.41,0:04:30.29,Default,Yuki,0,0,0,,We cannot wait for them.
+Dialogue: 0,0:04:30.75,0:04:32.13,Default,Yuki,0,0,0,,Open all gun ports!
+Dialogue: 0,0:04:32.75,0:04:37.26,Default,Yuki,0,0,0,,We will use all available firepower \Nto stop the Grand Reverse's advance!
+Dialogue: 0,0:04:37.26,0:04:39.84,Default,Hoshina,0,0,0,,Replating the spatial magnetic coating!
+Dialogue: 0,0:04:44.99,0:04:47.16,Default,Kohei,0,0,0,,All gun ports, attack formation!
+Dialogue: 0,0:04:50.58,0:04:53.73,Default,Wada,0,0,0,,All guided rounds have targets set!
+Dialogue: 0,0:04:54.03,0:04:55.98,Default,Yoshida,0,0,0,,All guns at normal output!
+Dialogue: 0,0:04:56.38,0:04:57.74,Default,Yuki,0,0,0,,Begin firing!
+Dialogue: 0,0:04:58.21,0:04:59.18,Default,Yuki,0,0,0,,Fire!
+Dialogue: 0,0:05:34.95,0:05:37.32,Default,Yuki,0,0,0,,The citizens haven't been evacuated yet!
+Dialogue: 0,0:05:37.61,0:05:39.82,Default,Yuki,0,0,0,,We won't fall back another step!
+Dialogue: 0,0:05:57.59,0:05:59.53,Default,Yuki,0,0,0,,Get the ship righted!
+Dialogue: 0,0:05:59.53,0:06:01.59,Default,Kohama,0,0,0,,Momentum control is at its limits!
+Dialogue: 0,0:06:01.59,0:06:02.84,Default,Kohama,0,0,0,,The helm's not responding!
+Dialogue: 0,0:06:04.84,0:06:06.76,Default,Wada,0,0,0,,Spatial magnetic coating, down!
+Dialogue: 0,0:06:06.76,0:06:09.59,Default,Yuria,0,0,0,,Detecting phase energy concentration!
+Dialogue: 0,0:06:09.59,0:06:10.43,Default,Yuria,0,0,0,,Here it comes!
+Dialogue: 0,0:06:34.99,0:06:39.05,Italic,Kitano,0,0,0,,This is the 38th Mixed Group, \Nthe Asuka fleet.
+Dialogue: 0,0:06:39.82,0:06:42.90,Default,Kitano,0,0,0,,We 57 volunteers are under the \Ncommand of Commander Kitano.
+Dialogue: 0,0:06:42.90,0:06:44.51,Default,Kitano,0,0,0,,We are joining up with the partisans.
+Dialogue: 0,0:06:45.40,0:06:48.26,Italic,Kitano,0,0,0,,Captain Mori, the repairs took time,
+Dialogue: 0,0:06:48.71,0:06:52.10,Italic,Kitano,0,0,0,,but what CEO Nanbu left us \Nis functioning perfectly.
+Dialogue: 0,0:06:55.77,0:06:58.31,Italic,Kitano,0,0,0,,Captain Nanbu with the Gladiator.
+Dialogue: 0,0:06:59.24,0:07:03.32,Italic,Kitano,0,0,0,,Both Captains Todo and Shinohara \Nof the Ginga. Listen to me.
+Dialogue: 0,0:07:03.75,0:07:08.45,Italic,Kitano,0,0,0,,The entire Asuka fleet will now gather \Nactivated wave motion resonance waves
+Dialogue: 0,0:07:08.85,0:07:10.92,Italic,Kitano,0,0,0,,into a single shot to be fired \Nat the Grand Reverse.
+Dialogue: 0,0:07:11.51,0:07:12.45,Default,Tetsuya,0,0,0,,Brother…
+Dialogue: 0,0:07:12.92,0:07:16.21,Italic,Kitano,0,0,0,,After the shot, we must all \Nfire our main guns.
+Dialogue: 0,0:07:16.21,0:07:18.17,Italic,Kitano,0,0,0,,Watch for our signal.
+Dialogue: 0,0:07:37.19,0:07:39.20,Italic,Kitano,0,0,0,,Converge resonance waves!
+Dialogue: 0,0:07:44.48,0:07:46.31,Default,Shiromi,0,0,0,,Matching targeting data.
+Dialogue: 0,0:07:46.31,0:07:47.20,Default,Kitano,0,0,0,,Prepare to open fire!
+Dialogue: 0,0:07:58.65,0:08:00.75,Default,Kitano,0,0,0,,Now! Fire!
+Dialogue: 0,0:08:20.67,0:08:21.82,Default,Shino,0,0,0,,Kitano-kun…
+Dialogue: 0,0:08:24.59,0:08:26.29,Default,Kosaka,0,0,0,,What's going on here?
+Dialogue: 0,0:08:26.29,0:08:28.62,Default,Kosaka,0,0,0,,Everyone's betrayed us!
+Dialogue: 0,0:08:28.62,0:08:31.24,Default,Kosaka,0,0,0,,Hey, we're in the right, right?
+Dialogue: 0,0:08:31.64,0:08:33.33,Default,Kosaka,0,0,0,,We're going to change the future, right?
+Dialogue: 0,0:08:36.08,0:08:37.75,Default,Kosaka,0,0,0,,Say something!
+Dialogue: 0,0:08:38.02,0:08:39.96,Default,Kosaka,0,0,0,,Take responsibility, damn you!
+Dialogue: 0,0:09:06.85,0:09:09.86,Default,Operator,0,0,0,,The Grand Reverse's speed is dropping!
+Dialogue: 0,0:09:10.18,0:09:11.29,Default,Serizawa,0,0,0,,Did we get it?
+Dialogue: 0,0:09:26.24,0:09:29.51,Default,Kitano,0,0,0,,All that and we only took down one leg?
+Dialogue: 0,0:09:33.53,0:09:34.39,Default,Yuria,0,0,0,,Captain!
+Dialogue: 0,0:09:34.39,0:09:36.26,Default,Yuria,0,0,0,,Message from Major Alphon!
+Dialogue: 0,0:09:36.82,0:09:38.91,Default,Alphon,0,0,0,,Captain Yuki, do you hear me?
+Dialogue: 0,0:09:39.51,0:09:41.10,Default,Alphon,0,0,0,,I have an idea.
+Dialogue: 0,0:09:41.56,0:09:43.60,Default,Alphon,0,0,0,,I want you to share it \Nwith the partisan fleet.
+Dialogue: 0,0:09:51.74,0:09:56.24,Signs,Sign,0,0,0,,{\bord0\c&HEEF6FF&\frx20\fry344\frz11.28\pos(400,74)}Old Manseibashi Station
+Dialogue: 0,0:09:54.53,0:09:56.24,Default,Analyzer,0,0,0,,Sasha-san.
+Dialogue: 0,0:09:57.39,0:09:58.72,Default,Analyzer,0,0,0,,Where are you?
+Dialogue: 0,0:10:32.65,0:10:37.49,Italic,Mother,0,0,0,,That girl's power is awakening quickly.
+Dialogue: 0,0:10:38.07,0:10:41.81,Italic,Mother,0,0,0,,That thing interfered \Nvia the Iscandar stones,
+Dialogue: 0,0:10:41.81,0:10:45.25,Italic,Mother,0,0,0,,which resulted in an unexpected reaction.
+Dialogue: 0,0:10:45.25,0:10:48.88,Italic,Skulldart,0,0,0,,The battle isn't decided here, either.
+Dialogue: 0,0:10:49.57,0:10:52.57,Italic,Skulldart,0,0,0,,Why don't we just get rid of that thing?
+Dialogue: 0,0:10:55.20,0:10:59.79,Italic,Mother,0,0,0,,We can't tell what that would do to Sasha.
+Dialogue: 0,0:10:59.79,0:11:03.81,Italic,Mother,0,0,0,,If we can't perform the ritual, \Nall this will have been for nothing.
+Dialogue: 0,0:11:04.41,0:11:08.81,Italic,Mother,0,0,0,,I've finally found a groom after \Nthousands of years of searching.
+Dialogue: 0,0:11:09.11,0:11:16.14,Italic,Mother,0,0,0,,This is the last chance for the Dezarium \Nto pass through the gates of heaven.
+Dialogue: 0,0:11:17.32,0:11:21.33,Italic,Mother,0,0,0,,We must get the Yamato.
+Dialogue: 0,0:11:22.32,0:11:24.06,Default,Sanada,0,0,0,,Omnidirectional radar room!
+Dialogue: 0,0:11:24.45,0:11:28.17,Default,Sanada,0,0,0,,Can you find Sasha? Or Analyzer?
+Dialogue: 0,0:11:28.64,0:11:29.92,Italic,Saijo,0,0,0,,Nothing!
+Dialogue: 0,0:11:30.18,0:11:34.63,Italic,Saijo,0,0,0,,The whole Earth is covered in phase \Nenergy! We can't see a thing!
+Dialogue: 0,0:11:38.85,0:11:41.30,Italic,Saijo,0,0,0,,Can you bring Kodai-san here?
+Dialogue: 0,0:11:41.60,0:11:44.98,Default,Saijo,0,0,0,,Even if I can't do it, \Nmaybe his connection to Sasha…
+Dialogue: 0,0:11:44.98,0:11:46.73,Italic,Sanada,0,0,0,,That's not the problem.
+Dialogue: 0,0:11:47.28,0:11:48.46,Default,Sanada,0,0,0,,Sasha…
+Dialogue: 0,0:11:48.92,0:11:52.32,Default,Sanada,0,0,0,,The woman we thought was Sasha…
+Dialogue: 0,0:11:52.74,0:11:54.56,Default,Sanada,0,0,0,,wasn't her at all.
+Dialogue: 0,0:11:56.06,0:12:02.18,Default,Sanada,0,0,0,,The real Sasha is probably being used \Nas one of the parts that make her up.
+Dialogue: 0,0:12:04.19,0:12:06.12,Default,Mikage,0,0,0,,Detecting warp out signal!
+Dialogue: 0,0:12:09.47,0:12:11.12,Default,Mikage,0,0,0,,This size…
+Dialogue: 0,0:12:12.82,0:12:15.84,Default,Operator,0,0,0,,Connection established \Nto home planet's phase engine.
+Dialogue: 0,0:12:15.84,0:12:18.76,Default,Operator,0,0,0,,Phase cells at 450% charge.
+Dialogue: 0,0:12:19.88,0:12:22.13,Default,Ranbel,0,0,0,,No matter how full our belly is,
+Dialogue: 0,0:12:22.13,0:12:24.18,Default,Ranbel,0,0,0,,this won't end until we've \Nripped out their throats!
+Dialogue: 0,0:12:24.80,0:12:28.00,Default,Ranbel,0,0,0,,Let's finish this, Yamato!
+Dialogue: 0,0:12:36.23,0:12:38.15,Default,Isidor,0,0,0,,The subsystem's still up.
+Dialogue: 0,0:12:41.22,0:12:43.74,Default,Isidor,0,0,0,,We can access the core program \Nfrom the trapdoor.
+Dialogue: 0,0:12:43.74,0:12:47.67,Default,Alphon,0,0,0,,Hurry. We need to do this \Nbefore it reaches the capital.
+Dialogue: 0,0:12:47.67,0:12:48.50,Default,Isidor,0,0,0,,Right.
+Dialogue: 0,0:12:53.55,0:12:56.88,Italic,Maxim,0,0,0,,There's an elevator \Naround the next corner.
+Dialogue: 0,0:12:58.27,0:13:02.81,Italic,Maxim,0,0,0,,Get to the lowest deck and have \Nthe partisan assault team protect you.
+Dialogue: 0,0:13:03.39,0:13:06.06,Italic,Maxim,0,0,0,,Alphon and Isidor \Nwill begin their plan soon.
+Dialogue: 0,0:13:06.59,0:13:07.75,Italic,Maxim,0,0,0,,Until then…
+Dialogue: 0,0:13:09.64,0:13:11.35,Default,Jiro,0,0,0,,Captain Kosaka?
+Dialogue: 0,0:13:13.19,0:13:16.12,Default,Kosaka,0,0,0,,Shima-kun? You, too?
+Dialogue: 0,0:13:17.46,0:13:18.61,Default,Makoto,0,0,0,,Sensei!
+Dialogue: 0,0:13:19.51,0:13:22.74,Default,Kosaka,0,0,0,,Why are you so selfish?
+Dialogue: 0,0:13:23.15,0:13:28.75,Default,Kosaka,0,0,0,,Sometimes grown-ups have to shut up and obey, \Neven when they think something's wrong!
+Dialogue: 0,0:13:29.42,0:13:31.03,Default,Kosaka,0,0,0,,But you…
+Dialogue: 0,0:13:31.44,0:13:32.75,Default,Kosaka,0,0,0,,The Yamato…
+Dialogue: 0,0:13:37.71,0:13:40.26,Default,Kosaka,0,0,0,,Kato-kun, you understand, right?
+Dialogue: 0,0:13:40.26,0:13:42.50,Default,Kosaka,0,0,0,,The Dezarium are in the right here!
+Dialogue: 0,0:13:42.50,0:13:45.83,Default,Kosaka,0,0,0,,We're trying to save the future!
+Dialogue: 0,0:13:45.83,0:13:48.30,Default,Kosaka,0,0,0,,Your mom doesn't understand that.
+Dialogue: 0,0:13:48.30,0:13:49.85,Default,Kosaka,0,0,0,,Now, come with me.
+Dialogue: 0,0:13:59.24,0:14:02.32,Default,Kosaka,0,0,0,,The kid's no better than his mom, huh?
+Dialogue: 0,0:14:05.08,0:14:07.66,Default,Kosaka,0,0,0,,You're both hopeless.
+Dialogue: 0,0:14:09.54,0:14:11.58,Default,Makoto,0,0,0,,Wake up, damn it!
+Dialogue: 0,0:14:12.24,0:14:16.33,Default,Makoto,0,0,0,,A kind teacher like you, \Npointing a gun at his own student?
+Dialogue: 0,0:14:16.94,0:14:21.55,Default,Makoto,0,0,0,,Do you really think the people who \Nwould make you do that are in the right?
+Dialogue: 0,0:14:31.11,0:14:34.73,Default,Makoto,0,0,0,,It doesn't matter what's right.
+Dialogue: 0,0:14:35.51,0:14:39.11,Default,Makoto,0,0,0,,We've all lost so much.
+Dialogue: 0,0:14:39.92,0:14:42.67,Default,Makoto,0,0,0,,After all that loss, all that pain…
+Dialogue: 0,0:14:42.67,0:14:44.73,Default,Makoto,0,0,0,,We've lost the ability \Nto believe in anything.
+Dialogue: 0,0:14:45.57,0:14:47.99,Default,Makoto,0,0,0,,We're clinging to a "right" \Nthat doesn't even exist!
+Dialogue: 0,0:14:49.24,0:14:51.29,Default,Makoto,0,0,0,,But fighting to deny what \Nsomeone else thinks is right…
+Dialogue: 0,0:14:51.69,0:14:53.54,Default,Makoto,0,0,0,,doesn't prove that you are!
+Dialogue: 0,0:14:54.01,0:14:55.54,Default,Makoto,0,0,0,,You'll just lose even more.
+Dialogue: 0,0:14:55.85,0:14:58.29,Default,Makoto,0,0,0,,You won't gain a single thing.
+Dialogue: 0,0:15:03.09,0:15:05.76,Default,Makoto,0,0,0,,Let's end this.
+Dialogue: 0,0:15:08.93,0:15:11.14,Default,Makoto,0,0,0,,There is no "right" future.
+Dialogue: 0,0:15:11.57,0:15:14.93,Default,Makoto,0,0,0,,Everyone can have a future of their own.
+Dialogue: 0,0:15:15.47,0:15:19.48,Default,Makoto,0,0,0,,Your heart knows the way to go.
+Dialogue: 0,0:15:20.75,0:15:22.52,Default,Makoto,0,0,0,,Walking into an uncertain tomorrow…
+Dialogue: 0,0:15:23.09,0:15:26.32,Default,Makoto,0,0,0,,is what humanity has always done.
+Dialogue: 0,0:15:41.38,0:15:43.00,Default,Isidor,0,0,0,,I have access.
+Dialogue: 0,0:15:43.00,0:15:43.91,Default,Alphon,0,0,0,,Execute the plan!
+Dialogue: 0,0:16:16.29,0:16:17.94,Default,Nagakura,0,0,0,,All units, jump!
+Dialogue: 0,0:16:30.39,0:16:33.44,Default,Yuki,0,0,0,,Captain Kitano, deploy barrier rounds!
+Dialogue: 0,0:16:33.44,0:16:34.10,Italic,Kitano,0,0,0,,Roger!
+Dialogue: 0,0:16:39.96,0:16:41.40,Italic,Yuki,0,0,0,,Captain Nanbu!
+Dialogue: 0,0:16:41.40,0:16:43.61,Default,Nanbu,0,0,0,,All ships, charge!
+Dialogue: 0,0:16:43.61,0:16:44.86,Default,Nanbu,0,0,0,,Fire!
+Dialogue: 0,0:16:52.37,0:16:54.58,Default,Nanbu,0,0,0,,Go!
+Dialogue: 0,0:17:02.88,0:17:04.34,Default,Aihara,0,0,0,,All ships have made contact!
+Dialogue: 0,0:17:04.34,0:17:06.09,Default,Nanbu,0,0,0,,Push it into space!
+Dialogue: 0,0:17:06.09,0:17:07.80,Default,Tada,0,0,0,,Full power!
+Dialogue: 0,0:17:26.66,0:17:29.01,Default,Nanbu,0,0,0,,First, we get it into space!
+Dialogue: 0,0:17:29.01,0:17:32.32,Default,Shinohara,0,0,0,,Then we surround it with every ship \Nwe've got and do a force warp!
+Dialogue: 0,0:17:32.32,0:17:34.37,Default,Saki,0,0,0,,And drive it out of the solar system!
+Dialogue: 0,0:17:36.56,0:17:40.08,Italic,Yuki,0,0,0,,Ginga! Gladiator! Both ships, fall back!
+Dialogue: 0,0:17:44.35,0:17:47.39,Default,Yuki,0,0,0,,We've calculated a point that \Nwon't get the Ajax caught in the blast.
+Dialogue: 0,0:17:48.13,0:17:50.41,Italic,Hoshina,0,0,0,,Countdown! Ten seconds to fire!
+Dialogue: 0,0:17:50.88,0:17:55.14,Default,Yuki,0,0,0,,Captain Kitano, I'm taking \Nthe Asuka fleet's energy.
+Dialogue: 0,0:17:55.47,0:17:56.64,Default,Kitano,0,0,0,,Fire!
+Dialogue: 0,0:17:58.87,0:18:01.75,Default,Hoshina,0,0,0,,3… 2… 1!
+Dialogue: 0,0:18:01.75,0:18:05.77,Default,Yuki,0,0,0,,Get off our planet!
+Dialogue: 0,0:18:21.85,0:18:24.07,Italic,Mother,0,0,0,,They work together so splendidly.
+Dialogue: 0,0:18:24.07,0:18:25.54,Italic,Mother,0,0,0,,They have such power.
+Dialogue: 0,0:18:26.54,0:18:28.71,Italic,Skulldart,0,0,0,,Like cornered animals.
+Dialogue: 0,0:18:28.71,0:18:31.66,Italic,Skulldart,0,0,0,,Humans always react \Nlike that in dire straits.
+Dialogue: 0,0:18:31.66,0:18:33.93,Italic,Skulldart,0,0,0,,You've seen it many times.
+Dialogue: 0,0:18:34.19,0:18:38.07,Italic,Mother,0,0,0,,Yes. A human pushed into \Na corner will sometimes
+Dialogue: 0,0:18:38.07,0:18:41.35,Italic,Mother,0,0,0,,demonstrate power beyond \Nwhat their data would suggest.
+Dialogue: 0,0:18:42.10,0:18:48.44,Italic,Mother,0,0,0,,That's why I made all the terminals\Nthink they were human.
+Dialogue: 0,0:18:49.06,0:18:52.25,Italic,Mother,0,0,0,,People of Earth from the year 3199 A.D.,
+Dialogue: 0,0:18:52.25,0:18:56.20,Italic,Mother,0,0,0,,who lost their physical \Nbodies in the Great Loss.
+Dialogue: 0,0:18:56.64,0:18:59.50,Italic,Mother,0,0,0,,Just giving them that backstory
+Dialogue: 0,0:18:59.50,0:19:03.66,Italic,Mother,0,0,0,,made them work far harder \Nthan was possible before.
+Dialogue: 0,0:19:04.16,0:19:10.05,Italic,Mother,0,0,0,,Entirely on their own, they would cry, \Nget angry, let their false blood boil…
+Dialogue: 0,0:19:13.06,0:19:15.24,Default,Alphon,0,0,0,,Neutralize all propulsion systems.
+Dialogue: 0,0:19:16.49,0:19:19.74,Default,Alphon,0,0,0,,There's a chance that Mother \Ncould use her priority code
+Dialogue: 0,0:19:19.74,0:19:22.18,Default,Alphon,0,0,0,,to bring the Grand Reverse back to Earth.
+Dialogue: 0,0:19:24.25,0:19:25.58,Default,Alphon,0,0,0,,What's wrong, Isidor?
+Dialogue: 0,0:19:25.58,0:19:26.99,Default,Alphon,0,0,0,,You're falling behind.
+Dialogue: 0,0:19:31.33,0:19:32.32,Default,Alphon,0,0,0,,Isidor?
+Dialogue: 0,0:19:41.11,0:19:43.02,Italic,Mother,0,0,0,,Poor fool.
+Dialogue: 0,0:19:43.02,0:19:47.87,Italic,Mother,0,0,0,,It's just a doll that does what it's told.
+Dialogue: 0,0:19:50.79,0:19:54.24,Default,Ranbel,0,0,0,,Fire the infinite beta cannon!
+Dialogue: 0,0:20:06.60,0:20:08.56,Default,Yamazaki,0,0,0,,Unlock the supercharger!
+Dialogue: 0,0:20:08.56,0:20:10.56,Default,Yamazaki,0,0,0,,Deploy the focused wave motion shields!
+Dialogue: 0,0:20:15.71,0:20:17.42,Default,Domon,0,0,0,,Such power…
+Dialogue: 0,0:20:17.42,0:20:19.60,Default,Domon,0,0,0,,It's not like the invisible whale \Nwe've seen before!
+Dialogue: 0,0:20:19.60,0:20:22.83,Default,Shima,0,0,0,,Maybe because it's getting power \Ndirectly from its home planet.
+Dialogue: 0,0:20:25.11,0:20:25.94,Default,Sanada,0,0,0,,Kodai!
+Dialogue: 0,0:20:26.66,0:20:30.21,Default,Sanada,0,0,0,,Let's focus the supercharger's \Npower on a single point.
+Dialogue: 0,0:20:31.26,0:20:33.97,Default,Sanada,0,0,0,,Deploying the quantum virtual bodies
+Dialogue: 0,0:20:33.97,0:20:38.16,Default,Sanada,0,0,0,,will allow the Yamato to reset \Nits charged energy six times.
+Dialogue: 0,0:20:39.04,0:20:40.41,Default,Sanada,0,0,0,,We have five charges left.
+Dialogue: 0,0:20:40.84,0:20:44.58,Default,Sanada,0,0,0,,If we focus them in a single attack…
+Dialogue: 0,0:20:45.22,0:20:48.23,Default,Sanada,0,0,0,,The virtual bodies' energy \Nwill be amplified,
+Dialogue: 0,0:20:48.62,0:20:53.21,Default,Sanada,0,0,0,,and perhaps we'll see an effect \Nlike the transit wave motion gun.
+Dialogue: 0,0:20:53.21,0:20:55.38,Default,Sanada,0,0,0,,It's just a hypothesis, though.
+Dialogue: 0,0:20:57.76,0:20:58.95,Default,Kodai,0,0,0,,Let's do it.
+Dialogue: 0,0:21:07.64,0:21:10.19,Default,Sanada,0,0,0,,Lamination charging the virtual bodies!
+Dialogue: 0,0:21:12.77,0:21:14.09,Default,Domon,0,0,0,,10 seconds to fire!
+Dialogue: 0,0:21:14.58,0:21:16.46,Default,Domon,0,0,0,,8… 7… 6…
+Dialogue: 0,0:21:16.46,0:21:17.85,Default,Ranbel,0,0,0,,The Yamato?
+Dialogue: 0,0:21:17.85,0:21:19.72,Default,Ranbel,0,0,0,,Something seems wrong.
+Dialogue: 0,0:21:19.72,0:21:22.72,Default,Domon,0,0,0,,3… 2… 1!
+Dialogue: 0,0:21:22.98,0:21:24.16,Default,Domon,0,0,0,,Fire!
+Dialogue: 0,0:21:55.63,0:21:56.85,Default,Domon,0,0,0,,What the hell?
+Dialogue: 0,0:21:57.35,0:21:59.70,Default,Sanada,0,0,0,,An activated wave motion resonance.
+Dialogue: 0,0:22:00.52,0:22:04.38,Default,Sanada,0,0,0,,The same function \Nthe Asuka and Ginga have.
+Dialogue: 0,0:22:04.84,0:22:08.40,Default,Sanada,0,0,0,,Resonance waves that activate \Nthe wave motion energy.
+Dialogue: 0,0:22:08.80,0:22:11.07,Default,Sanada,0,0,0,,And the supercharger has that power, too.
+Dialogue: 0,0:22:12.07,0:22:16.32,Default,Sanada,0,0,0,,Activated wave motion resonance \Ncuts off phase energy
+Dialogue: 0,0:22:16.65,0:22:20.23,Default,Sanada,0,0,0,,and breaks the bonds of \Nmatter formed of phases…
+Dialogue: 0,0:22:22.03,0:22:24.61,Default,Sanada,0,0,0,,The dirt, the water…
+Dialogue: 0,0:22:24.61,0:22:26.38,Default,Sanada,0,0,0,,Even the atmosphere…
+Dialogue: 0,0:22:26.38,0:22:31.04,Default,Sanada,0,0,0,,It's all torn apart in turn, and reacts \Nwith the wave motion energy.
+Dialogue: 0,0:22:32.28,0:22:33.33,Default,Sanada,0,0,0,,Why…
+Dialogue: 0,0:22:33.76,0:22:36.04,Default,Sanada,0,0,0,,Why didn't I realize?
+Dialogue: 0,0:22:38.04,0:22:39.43,Default,Kodai,0,0,0,,Sasha…
+Dialogue: 0,0:22:41.34,0:22:44.97,Signs,Sign,0,0,0,,{\an1\fad(700,000)\fs15\blur2\3c&H39322D&\pos(49.301,287.889)}Episode 24:\NAll-Out Attack! Gather the Partisan Fleet!
+Dialogue: 0,0:22:45.05,0:22:49.97,Signs,Sign,0,0,0,,{\fad(500,000)\fs15\bord1\blur2\3c&H242424&\pos(317.171,233.499)}Next Time:\NRise up, Sasha! For the Sake of Love!
+
