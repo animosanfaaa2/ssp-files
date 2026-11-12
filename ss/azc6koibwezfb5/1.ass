@@ -1,0 +1,518 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
+Style: Q0,Arial,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q1,Arial,21,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q2,Roboto Medium,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q3,Arial,27,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q4,Arial,27,&H00E9D2BE,&H00E9D2BE,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q5,Arial,27,&H00FEC754,&H00FEC754,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q6,Arial,27,&H00FFA953,&H00FFA953,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q7,Arial,27,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q8,Arial,27,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q9,Arial,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q10,Arial,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q11,Arial,21,&H00FEC754,&H00FEC754,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q12,Arial,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q13,Arial,27,&H00FEC754,&H00FEC754,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q14,Arial,27,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q15,Arial,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q16,Arial,27,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q17,Arial,27,&H008080FF,&H008080FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q18,Arial,27,&H0057ADFB,&H0057ADFB,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q19,Arial,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q20,Arial,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q21,Arial,21,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q22,Arial,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q23,Arial,34,&H0080FFFF,&H0080FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q24,Arial,27,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q25,Arial,27,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q26,Arial,27,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q27,Arial,21,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q28,Arial,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q29,Arial,27,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q30,Arial,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q31,Arial,40,&H00FEC754,&H00FEC754,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q32,Roboto Medium,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q33,Arial,27,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q34,Arial,34,&H008080FF,&H008080FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:07.08,0:00:11.58,Q2,,0,0,0,,Now that I'm taking another look,\Nthere really are so many train stations!
+Dialogue: 1,0:00:11.58,0:00:14.00,Q2,,0,0,0,,Looking at this gets me so fired up.
+Dialogue: 1,0:00:14.17,0:00:17.54,Q2,,0,0,0,,So have you been to most of them?
+Dialogue: 1,0:00:17.54,0:00:21.13,Q2,,0,0,0,,Yep. I've been to about seventy percent\Nof the ones in this area.
+Dialogue: 1,0:00:21.13,0:00:21.96,Q2,,0,0,0,,Whoa!
+Dialogue: 1,0:00:22.17,0:00:25.63,Q2,,0,0,0,,It's Kodama's dream to go to every\Ntrain station in Japan, ya know!
+Dialogue: 1,0:00:25.63,0:00:27.33,Q2,,0,0,0,,I want to get off at every station.
+Dialogue: 1,0:00:27.33,0:00:31.17,Q2,,0,0,0,,What? Every single one? How many even are there?
+Dialogue: 1,0:00:31.17,0:00:34.21,Q2,,0,0,0,,I'd say there are over 9,600 stations.
+Dialogue: 1,0:00:34.21,0:00:36.29,Q2,,0,0,0,,N-nine thousand six hundred?!
+Dialogue: 1,0:00:36.29,0:00:38.79,Q2,,0,0,0,,Is that even possible?
+Dialogue: 1,0:00:38.79,0:00:40.25,Q2,,0,0,0,,It's absolutely feasible!
+Dialogue: 1,0:00:40.25,0:00:43.42,Q2,,0,0,0,,Actually, the Guinness World Records recognized\Nsomeone who accomplished it.
+Dialogue: 1,0:00:43.63,0:00:46.88,Q2,,0,0,0,,If I remember correctly,\Nit took them four and a half years.
+Dialogue: 1,0:00:46.88,0:00:49.38,Q2,,0,0,0,,They set the record for the fastest time to get\Noff at every station in Japan.
+Dialogue: 1,0:00:49.38,0:00:53.58,Q2,,0,0,0,,Plus, I'm pretty sure they even broke their own\Nrecord.
+Dialogue: 1,0:00:53.71,0:00:56.25,Q2,,0,0,0,,So Kodama-san, your goal is to do that too?
+Dialogue: 1,0:00:56.25,0:01:02.58,Q2,,0,0,0,,Nope. If anything, I want to enjoy\Nthe whole journey as well as the destination.
+Dialogue: 1,0:01:02.88,0:01:06.17,Q2,,0,0,0,,I hope I can achieve my dream during my lifetime.
+Dialogue: 1,0:01:06.50,0:01:09.38,Q2,,0,0,0,,So where do ya wanna go next, Misaki-chan?
+Dialogue: 1,0:01:10.00,0:01:12.00,Q2,,0,0,0,,Hmm… Um…
+Dialogue: 1,0:01:12.00,0:01:15.42,Q2,,0,0,0,,I'd like to go to the ocean again\Nor maybe an amusement park.
+Dialogue: 1,0:01:15.58,0:01:18.46,Q2,,0,0,0,,You're also the type who enjoys sightseeing, huh?
+Dialogue: 1,0:01:18.46,0:01:21.54,Q2,,0,0,0,,Why not go as far as you can\Nsince you're already hittin' the road?
+Dialogue: 1,0:01:21.54,0:01:24.17,Q2,,0,0,0,,They've got seafood bowls and\Njingisukan barbecue in Hokkaido!
+Dialogue: 1,0:01:24.17,0:01:27.21,Q2,,0,0,0,,That might be too expensive since she just started\Nher part-time job, though.
+Dialogue: 1,0:01:28.88,0:01:31.00,Q2,,0,0,0,,I'm a fan of secluded hikyo stations.
+Dialogue: 1,0:01:31.33,0:01:33.46,Q2,,0,0,0,,Local food… Hikyo stations…
+Dialogue: 1,0:01:33.88,0:01:35.88,Q2,,0,0,0,,It all sounds so fun!
+Dialogue: 1,0:01:38.96,0:01:40.42,Q2,,0,0,0,,Misakiguchi?
+Dialogue: 1,0:01:40.42,0:01:42.58,Q2,,0,0,0,,Misakiguchi Station is on the Keikyu Line.
+Dialogue: 1,0:01:42.58,0:01:44.71,Q2,,0,0,0,,It's the southernmost station on the Keikyu Line.
+Dialogue: 1,0:01:44.71,0:01:47.58,Q2,,0,0,0,,Oh, it's Keikyu's corner!
+Dialogue: 1,0:01:47.71,0:01:51.29,Q2,,0,0,0,,I guess you've set your sights\Non visiting every corner, eh?
+Dialogue: 1,0:01:51.71,0:01:56.46,Q2,,0,0,0,,It's more because this place has\Nthe same name as me than anything.
+Dialogue: 1,0:01:56.46,0:01:59.04,Q2,,0,0,0,,Excellent observation, Misaki-chan!
+Dialogue: 1,0:01:59.21,0:02:02.92,Q2,,0,0,0,,But this isn't the only station\Nwith the name Misaki in it!
+Dialogue: 1,0:02:03.21,0:02:07.04,Q2,,0,0,0,,There's a Misaki Station close to here\Non the Keisei Electric Railway,
+Dialogue: 1,0:02:07.04,0:02:12.17,Q2,,0,0,0,,and we'll visit Nagasaki soon, where they have\NOmisaki Station on Shimabara Railway,
+Dialogue: 1,0:02:12.17,0:02:14.54,Q2,,0,0,0,,which is well known for its Happy Yellow Train.
+Dialogue: 1,0:02:15.38,0:02:16.96,Q2,,0,0,0,,Omisaki, a big Misaki...
+Dialogue: 1,0:02:23.17,0:02:25.46,Q2,,0,0,0,,Their Café Train's real famous.
+Dialogue: 1,0:02:25.96,0:02:28.50,Q2,,0,0,0,,A meal at the station closest\Nto the ocean in Japan!
+Dialogue: 1,0:02:28.92,0:02:31.38,Q2,,0,0,0,,I've been curious about it 'cuz it looks\Nlike it'd be great content for a video!
+Dialogue: 1,0:02:33.88,0:02:37.71,Q2,,0,0,0,,Additionally, there's Nankai Electric\NRailway's Misaki-Koen Station!
+Dialogue: 1,0:02:37.71,0:02:38.54,Q2,,0,0,0,,Whoa!
+Dialogue: 1,0:02:38.54,0:02:40.88,Q2,,0,0,0,,You've found your own unique journey\Nin the world of trains!
+Dialogue: 1,0:02:40.88,0:02:45.29,Q2,,0,0,0,,I never thought you'd reach this state\Nof enlightenment so quickly!
+Dialogue: 1,0:02:45.29,0:02:47.46,Q2,,0,0,0,,I'm so moved!
+Dialogue: 1,0:02:47.67,0:02:50.13,Q2,,0,0,0,,So, which station? Where will you start?
+Dialogue: 1,0:02:50.46,0:02:52.92,Q2,,0,0,0,,I guess I would start with Misakiguchi?
+Dialogue: 1,0:02:52.92,0:02:55.21,Q2,,0,0,0,,Since it was the first place I found…
+Dialogue: 1,0:02:55.21,0:02:57.25,Q2,,0,0,0,,Ten out of ten choice! They got tuna bowls!
+Dialogue: 1,0:02:57.25,0:03:00.08,Q2,,0,0,0,,You can name the local specialities\Nof any place on the spot, huh?
+Dialogue: 1,0:03:02.04,0:03:04.75,Q2,,0,0,0,,If I were to travel from\Nthe station closest to my home…
+Dialogue: 1,0:03:04.75,0:03:05.54,Q2,,0,0,0,,Huh?
+Dialogue: 1,0:03:05.83,0:03:10.21,Q2,,0,0,0,,It's true that the app shows you both the fastest\Nand cheapest routes in a snap…
+Dialogue: 1,0:03:10.21,0:03:14.33,Q2,,0,0,0,,But merely reaching our destination isn't what\Nbeing a train enthusiast is about!
+Dialogue: 1,0:03:14.33,0:03:20.38,Q2,,0,0,0,,You joined the Tetsuryo Club, where\Nwe carve out our own routes ourselves!
+Dialogue: 1,0:03:20.67,0:03:22.54,Q2,,0,0,0,,Y-yes, ma'am!
+Dialogue: 1,0:03:23.04,0:03:27.71,Q2,,0,0,0,,Let's make this fun. We can all plan\Nour own routes to Misakiguchi.
+Dialogue: 1,0:03:28.00,0:03:32.38,Q2,,0,0,0,,Personally, I'd go out of my way to ride from\NSeibu-Yagisawa Station to Haijima Station,
+Dialogue: 1,0:03:32.38,0:03:35.63,Q2,,0,0,0,,then I'd make a big loop all the way from\NHachioji to Higashi-Kanagawa Station!
+Dialogue: 1,0:03:35.63,0:03:37.92,Q2,,0,0,0,,A route that goes all over the place!
+Dialogue: 1,0:03:38.25,0:03:39.75,Q2,,0,0,0,,Hachioji…
+Dialogue: 1,0:03:40.08,0:03:43.17,Q2,,0,0,0,,Wasn't the Goryo Line around there?
+Dialogue: 1,0:03:43.33,0:03:44.58,Q2,,0,0,0,,The Goryo Line?
+Dialogue: 1,0:03:45.00,0:03:48.83,Q2,,0,0,0,,It was a railway line that closed in 1945.
+Dialogue: 1,0:03:49.33,0:03:52.83,Q2,,0,0,0,,I'm pretty sure… you can find it\Non old transit maps.
+Dialogue: 1,0:03:53.00,0:03:54.96,Q2,,0,0,0,,What? You guys still have some?
+Dialogue: 1,0:03:54.96,0:03:58.00,Q2,,0,0,0,,Alumni left them here for us…
+Dialogue: 1,0:03:58.33,0:04:03.04,Q2,,0,0,0,,You can have tons of fun if you hang on\Nto old maps and whatnot!
+Dialogue: 1,0:04:03.04,0:04:06.08,Q2,,0,0,0,,As for ya girl here, I'd take the shortest route\Nvia Shinagawa on purpose!
+Dialogue: 1,0:04:06.08,0:04:09.33,Q2,,0,0,0,,I'm gunning to achieve my goal to eat from all\Nthe station bento shops at Shinagawa Station!
+Dialogue: 1,0:04:09.75,0:04:14.96,Q2,,0,0,0,,When ya think of Shinagawa, ya think of\Nits kaizukushi bento with all sorts of shellfish!
+Dialogue: 1,0:04:14.96,0:04:17.21,Q2,,0,0,0,,But since I've had that before,
+Dialogue: 1,0:04:17.21,0:04:20.50,Q2,,0,0,0,,maybe I'll try sumthin' new, like a famous\Nrestaurant collab or deluxe makunouchi bento!
+Dialogue: 1,0:04:20.71,0:04:24.79,Q2,,0,0,0,,I might even go outta my way to take\Na local train and eat, like, three of 'em!
+Dialogue: 1,0:04:25.04,0:04:29.38,Q2,,0,0,0,,Hmm, I'd like to try taking\Nan interesting route too…
+Dialogue: 1,0:04:29.83,0:04:33.38,Q2,,0,0,0,,But now that I'm really thinking about it,\NI'm torn by all the possibilities.
+Dialogue: 1,0:04:33.38,0:04:34.50,Q2,,0,0,0,,What should I do?
+Dialogue: 1,0:04:34.96,0:04:39.58,Q2,,0,0,0,,If you look at the transit map, you can see the\Nstations you can transfer to other lines at.
+Dialogue: 1,0:04:39.92,0:04:43.67,Q2,,0,0,0,,For example, if you follow the usual route between\NMisakiguchi Station and our college,
+Dialogue: 1,0:04:43.67,0:04:46.58,Q2,,0,0,0,,you would transfer at Shinagawa, but if you take a\Ncloser look,
+Dialogue: 1,0:04:46.58,0:04:49.92,Q2,,0,0,0,,you'll find other stations where you can transfer\Nas well.
+Dialogue: 1,0:04:50.33,0:04:53.75,Q2,,0,0,0,,Keikyu Kurihama, Kanazawa-hakkei…
+Dialogue: 1,0:04:53.75,0:04:58.13,Q2,,0,0,0,,Oh! You and I went\Nto Shin-Sugita the other day, huh?
+Dialogue: 1,0:04:58.67,0:05:02.46,Q2,,0,0,0,,The Yokohama Tram Museum… was fun.
+Dialogue: 1,0:05:02.75,0:05:05.71,Q2,,0,0,0,,Since you're goin' anyway, wouldn't it be better\Nto pick a station ya never been to before?
+Dialogue: 1,0:05:05.88,0:05:12.25,Q2,,0,0,0,,So… Higashi-Kanagawa, Tsurumi, Kawasaki, Kamata…
+Dialogue: 1,0:05:12.50,0:05:15.04,Q2,,0,0,0,,I've heard of Kamata before!
+Dialogue: 1,0:05:15.04,0:05:17.58,Q2,,0,0,0,,Oh! That's a fantastic choice!
+Dialogue: 1,0:05:17.58,0:05:20.50,Q2,,0,0,0,,Kamata is the last station on the\NJR Keihin-Tohoku Line and Negishi Line,
+Dialogue: 1,0:05:20.50,0:05:23.63,Q2,,0,0,0,,as well as on the Tokyu Ikegami Line\Nand Tamagawa Line,
+Dialogue: 1,0:05:23.63,0:05:27.00,Q2,,0,0,0,,so I think it's perfect for\Na corner lover like you!
+Dialogue: 1,0:05:27.13,0:05:29.46,Q2,,0,0,0,,It's a bit of a walk from the Keikyu Line,
+Dialogue: 1,0:05:29.46,0:05:31.96,Q2,,0,0,0,,but you can take a stroll around town while\Nwaiting to transfer.
+Dialogue: 1,0:05:31.96,0:05:35.25,Q2,,0,0,0,,When ya think of Kamata, ya think\Nof the birthplace of winged gyoza!
+Dialogue: 1,0:05:35.42,0:05:39.17,Q2,,0,0,0,,It tastes mind-blowing when\Nya eat it straight off the griddle!
+Dialogue: 1,0:05:39.17,0:05:42.17,Q2,,0,0,0,,Winged gyoza… I want to try some!
+Dialogue: 1,0:05:42.58,0:05:45.96,Q2,,0,0,0,,So if you'll travel from Keikyu Kamata\Nto Kamata Station…
+Dialogue: 1,0:05:46.29,0:05:47.75,Q2,,0,0,0,,Which train will you take?
+Dialogue: 1,0:05:47.75,0:05:51.46,Q2,,0,0,0,,Um, the next place where it's easy to transfer is…
+Dialogue: 1,0:05:51.46,0:05:56.71,Q2,,0,0,0,,Oh, if you don't mind getting off along the way,\NI recommend Togoshi Ginza.
+Dialogue: 1,0:05:57.29,0:05:59.58,Q2,,0,0,0,,It has an old-fashioned shopping district,
+Dialogue: 1,0:05:59.88,0:06:01.21,Q2,,0,0,0,,and even a hot spring.
+Dialogue: 1,0:06:01.75,0:06:05.71,Q2,,0,0,0,,I've walked from Togoshi Ginza\Nto Musashi-Koyama before.
+Dialogue: 1,0:06:05.83,0:06:09.00,Q2,,0,0,0,,There's a huge shopping arcade\Nthere that's really cool!
+Dialogue: 1,0:06:09.00,0:06:10.50,Q2,,0,0,0,,That's Shopping Street Palm!
+Dialogue: 1,0:06:10.83,0:06:14.58,Q2,,0,0,0,,They say it's the longest\Nshopping arcade in Tokyo,
+Dialogue: 1,0:06:14.58,0:06:17.58,Q2,,0,0,0,,and there's actually a good number of eat-and-walk\Nvideos filmed there on T-Tube.
+Dialogue: 1,0:06:17.71,0:06:21.29,Q2,,0,0,0,,Eating… Soaking in the hot spring… Relaxing…
+Dialogue: 1,0:06:21.29,0:06:22.21,Q2,,0,0,0,,Ahhh…
+Dialogue: 1,0:06:22.54,0:06:25.58,Q2,,0,0,0,,W-wait, this was supposed\Nto be a train enthusiast trip,
+Dialogue: 1,0:06:25.58,0:06:28.21,Q2,,0,0,0,,but it seems like this route\Nis turning into quite the hike.
+Dialogue: 1,0:06:28.21,0:06:30.92,Q2,,0,0,0,,You don't have to be so rigid about it.
+Dialogue: 1,0:06:30.92,0:06:36.54,Q2,,0,0,0,,Just hop on a train and have some fun! That's\Nwhat makes every train enthusiast's trip unique.
+Dialogue: 1,0:06:36.88,0:06:40.29,Q2,,0,0,0,,She's spot on! Food's literally\Nthe whole point of some of my trips.
+Dialogue: 1,0:06:40.67,0:06:41.71,Q2,,0,0,0,,Retro…
+Dialogue: 1,0:06:41.71,0:06:45.50,Q2,,0,0,0,,Misaki-chan, you should go somewhere that makes\Nyou excited too.
+Dialogue: 1,0:06:45.88,0:06:47.08,Q2,,0,0,0,,Makes me excited!
+Dialogue: 1,0:06:47.21,0:06:50.88,Q2,,0,0,0,,If ya have literally any questions, don't be\Nafraid to speak up… and ask Kodama!
+Dialogue: 1,0:06:50.96,0:06:52.17,Q2,,0,0,0,,Me? Seriously?
+Dialogue: 1,0:06:52.17,0:06:53.58,Q2,,0,0,0,,But bring it on!
+Dialogue: 1,0:06:54.21,0:06:56.58,Q2,,0,0,0,,All right then, let's try making routes!
+Dialogue: 1,0:06:57.00,0:06:58.04,Q2,,0,0,0,,Okay!
+Dialogue: 1,0:07:04.58,0:07:05.75,Q2,,0,0,0,,I did it!
+Dialogue: 1,0:07:07.25,0:07:09.63,Q2,,0,0,0,,It will take close to three hours.
+Dialogue: 1,0:07:09.88,0:07:14.04,Q2,,0,0,0,,But I'll try and get off at every stop as much as\NI can. I'm seeing all the corners on this trip!
+Dialogue: 1,0:07:14.04,0:07:15.17,Q2,,0,0,0,,Ah, I see!
+Dialogue: 1,0:07:15.46,0:07:18.79,Q2,,0,0,0,,This is pretty much the route\Nyou guys recommended though.
+Dialogue: 1,0:07:18.79,0:07:20.92,Q2,,0,0,0,,It's killer! This is so you, Misaki-chan!
+Dialogue: 1,0:07:21.96,0:07:25.58,Q2,,0,0,0,,It's kind of fun, like I'm blazing my own trail!
+Dialogue: 1,0:07:26.13,0:07:29.13,Q2,,0,0,0,,I'd like to try this out with lots\Nof other places too!
+Dialogue: 1,0:07:31.17,0:07:35.92,Q2,,0,0,0,,Actually, I've been doing a bit of brainstorming\Nabout our upcoming trip to Matsuura Railway.
+Dialogue: 1,0:07:38.58,0:07:39.75,Q2,,0,0,0,,Ta-da!
+Dialogue: 1,0:07:39.75,0:07:45.58,Q2,,0,0,0,,I call it, "Relishing Big Cities! A Kyushu Tour\Ngoing through Tokyo, Nagoya, and Osaka!"
+Dialogue: 1,0:07:46.00,0:07:47.21,Q2,,0,0,0,,Whoa!
+Dialogue: 1,0:07:47.21,0:07:49.50,Q2,,0,0,0,,This is strictly the most direct route.
+Dialogue: 1,0:07:49.71,0:07:54.58,Q2,,0,0,0,,Once we arrive in Nagoya, we'll head to\NYakusa Station and experience Linimo,
+Dialogue: 1,0:07:54.58,0:07:59.71,Q2,,0,0,0,,Aichi Rapid Transit's first\Nmagnetic-levitated linear motor car!
+Dialogue: 1,0:07:59.71,0:08:03.08,Q2,,0,0,0,,Magnetic levitated? Linear motor car?
+Dialogue: 1,0:08:03.25,0:08:06.75,Q2,,0,0,0,,So does that mean it's a car\Nthat flies or something?
+Dialogue: 1,0:08:07.00,0:08:07.88,Q2,,0,0,0,,Nope!
+Dialogue: 1,0:08:08.13,0:08:10.46,Q2,,0,0,0,,It's a genuine railway vehicle!
+Dialogue: 1,0:08:10.63,0:08:14.79,Q2,,0,0,0,,It's a new-generation system capable of high-speed\Ntravel by levitating using magnetic force
+Dialogue: 1,0:08:14.79,0:08:18.17,Q2,,0,0,0,,while propelling itself\Nforward using linear motors!
+Dialogue: 1,0:08:18.17,0:08:23.42,Q2,,0,0,0,,Since the stations are so close together,\Nit's actually not going too fast, though.
+Dialogue: 1,0:08:23.75,0:08:26.88,Q2,,0,0,0,,Next, once we arrive in Osaka, we'll want\Nto check out the Osaka Monorail,
+Dialogue: 1,0:08:26.88,0:08:32.13,Q2,,0,0,0,,which boasts the longest operating route\Namong all monorails in Japan!
+Dialogue: 1,0:08:32.58,0:08:34.33,Q2,,0,0,0,,We'll stop by Saito-nishi Station
+Dialogue: 1,0:08:34.33,0:08:39.04,Q2,,0,0,0,,and take a daruma fortune slip at a temple full of\Nhistory–that's sure to get Usa-chan excited!
+Dialogue: 1,0:08:39.21,0:08:42.17,Q2,,0,0,0,,Wow! That sounds like a tourist hot spot!
+Dialogue: 1,0:08:42.54,0:08:47.83,Q2,,0,0,0,,Speaking of hot spots, there's also the Keihan\NKeishin Line that runs all along Lake Biwa,
+Dialogue: 1,0:08:47.83,0:08:50.50,Q2,,0,0,0,,the water source of the Kansai region.
+Dialogue: 1,0:08:50.63,0:08:52.79,Q2,,0,0,0,,We really can't miss out on that either.
+Dialogue: 1,0:08:53.29,0:08:55.54,Q2,,0,0,0,,One minute you're going through the city,
+Dialogue: 1,0:08:55.54,0:08:59.58,Q2,,0,0,0,,and the next thing you know, you're\Nin the mountains or on the subway!
+Dialogue: 1,0:09:00.00,0:09:03.38,Q2,,0,0,0,,I never got tired of looking out the window!
+Dialogue: 1,0:09:03.71,0:09:04.54,Q2,,0,0,0,,Stop!
+Dialogue: 1,0:09:04.54,0:09:05.04,Q2,,0,0,0,,Huh?
+Dialogue: 1,0:09:05.29,0:09:09.54,Q2,,0,0,0,,The first leg alone to Nagoya and Osaka takes\N16 hours, even according to the app.
+Dialogue: 1,0:09:09.75,0:09:11.29,Q2,,0,0,0,,How many nights were ya planning on us staying?
+Dialogue: 1,0:09:11.29,0:09:17.08,Q2,,0,0,0,,I-I thought since we're going on such a long trip\Nanyway, it'd be more fun to take detours.
+Dialogue: 1,0:09:17.29,0:09:21.08,Q2,,0,0,0,,Last year, we also had lots\Nof grand plans, didn't we?
+Dialogue: 1,0:09:21.25,0:09:23.17,Q2,,0,0,0,,And we ran into difficulties because of them.
+Dialogue: 1,0:09:24.75,0:09:26.67,Q2,,0,0,0,,First problem: the long lines at restrooms!
+Dialogue: 1,0:09:26.67,0:09:30.33,Q2,,0,0,0,,The lines were way longer expected, and\Nwe lost a boat load of time during transfers!
+Dialogue: 1,0:09:30.92,0:09:36.38,Q2,,0,0,0,,Or how Kodama-san got so excited when a train\Npasses by that she left things behind…
+Dialogue: 1,0:09:36.79,0:09:41.75,Q2,,0,0,0,,It was just one thing after the other, and we\Nended up missing the train we had booked,
+Dialogue: 1,0:09:41.75,0:09:43.75,Q2,,0,0,0,,so we just headed home…
+Dialogue: 1,0:09:44.13,0:09:45.33,Q2,,0,0,0,,What?
+Dialogue: 1,0:09:45.96,0:09:48.42,Q2,,0,0,0,,Kodama's routes are always too greedy.
+Dialogue: 1,0:09:48.42,0:09:53.00,Q2,,0,0,0,,If ya run late by even one minute,\Nthe whole thing crashes and burns!
+Dialogue: 1,0:09:54.88,0:09:58.58,Q2,,0,0,0,,But I just wanted everyone to have fuuun!
+Dialogue: 1,0:09:59.63,0:10:00.54,Q2,,0,0,0,,Kodama…
+Dialogue: 1,0:10:00.71,0:10:03.08,Q2,,0,0,0,,Complications go hand in hand with traveling.
+Dialogue: 1,0:10:03.42,0:10:07.17,Q2,,0,0,0,,Course, I wanna respect your thoughtfulness\Nand effort to make sure everyone's happy…
+Dialogue: 1,0:10:07.54,0:10:08.50,Q2,,0,0,0,,But…
+Dialogue: 1,0:10:08.79,0:10:11.79,Q2,,0,0,0,,The important thing is not forgettin'\Nour original goal!
+Dialogue: 1,0:10:12.08,0:10:15.04,Q2,,0,0,0,,The one and only purpose of this trip\Nis the Matsuura Railway!
+Dialogue: 1,0:10:15.04,0:10:17.29,Q2,,0,0,0,,First off, no detours to Nagoya or anywhere else!
+Dialogue: 1,0:10:17.92,0:10:21.00,Q2,,0,0,0,,We're goin' straight from Tokyo Station\Nto Shin-Osaka on the shinkansen!
+Dialogue: 1,0:10:21.29,0:10:24.13,Q2,,0,0,0,,We'll stop by Osaka and respect\Nyour wish to ride a variety of trains,
+Dialogue: 1,0:10:24.13,0:10:27.71,Q2,,0,0,0,,but from there, we're takin'\Nthe Mizuho to Hataka Station!
+Dialogue: 1,0:10:27.71,0:10:28.50,Q2,,0,0,0,,What?!
+Dialogue: 1,0:10:29.21,0:10:32.13,Q2,,0,0,0,,At least let us smell the roses a tiny bit-\Njust a teeny-tiny bit!
+Dialogue: 1,0:10:33.38,0:10:41.29,Q2,,0,0,0,,Long story short, we adjusted our travel itinerary\Nunder Ushio-senpai's supervision.
+Dialogue: 1,0:10:44.88,0:10:47.33,Q2,,0,0,0,,A tour of stations that share your name, huh?
+Dialogue: 1,0:10:47.33,0:10:48.33,Q2,,0,0,0,,Uh-huh!
+Dialogue: 1,0:10:48.63,0:10:52.29,Q2,,0,0,0,,I've added a bunch of stations to\Nmy bucket list in my notebook.
+Dialogue: 1,0:10:52.46,0:10:55.50,Q2,,0,0,0,,Oh, you still haven't dropped that, huh?
+Dialogue: 1,0:10:55.75,0:10:59.96,Q2,,0,0,0,,H-how rude! I've been updating it, you know.
+Dialogue: 1,0:10:59.96,0:11:04.54,Q2,,0,0,0,,Look, I even wrote down the route everybody\Nin the club came up with the other day!
+Dialogue: 1,0:11:05.25,0:11:07.92,Q2,,0,0,0,,It's hard putting this out there\Nwhen you're so excited about this,
+Dialogue: 1,0:11:08.17,0:11:11.13,Q2,,0,0,0,,but you're going to Misakiguchi\Non one of your days off, right?
+Dialogue: 1,0:11:11.75,0:11:12.71,Q2,,0,0,0,,Yeah.
+Dialogue: 1,0:11:12.92,0:11:16.38,Q2,,0,0,0,,Then isn't it weird for your\Nstarting point to be the college?
+Dialogue: 1,0:11:18.08,0:11:19.04,Q2,,0,0,0,,Oh!
+Dialogue: 1,0:11:19.92,0:11:24.13,Q2,,0,0,0,,Sorry about that, the thought\Ndidn't occur to us either.
+Dialogue: 1,0:11:24.46,0:11:27.46,Q2,,0,0,0,,Well, we were going to have to pick a meet-up spot\Nanyways,
+Dialogue: 1,0:11:27.46,0:11:29.88,Q2,,0,0,0,,so let's find a fun route\Nto take together from there.
+Dialogue: 1,0:11:29.88,0:11:30.75,Q2,,0,0,0,,Okay!
+Dialogue: 1,0:11:31.08,0:11:35.08,Q2,,0,0,0,,We don't always gotta stick together and\Ngo places as a group, do we?
+Dialogue: 1,0:11:37.08,0:11:39.83,Q2,,0,0,0,,Why don't we play a little game for a change?
+Dialogue: 1,0:11:39.83,0:11:43.58,Q2,,0,0,0,,Let's call it: The Tetsuryo Club Photo Shiritori\NBattle!
+Dialogue: 1,0:11:44.00,0:11:46.25,Q2,,0,0,0,,Th-this reeks of your scheming!
+Dialogue: 1,0:11:46.42,0:11:48.96,Q2,,0,0,0,,Could it be that you're planning on\Nturning this into a video?
+Dialogue: 1,0:11:48.96,0:11:51.71,Q2,,0,0,0,,Putting out too many solo vids was starting to\Ndrag my channel down.
+Dialogue: 1,0:11:52.33,0:11:54.29,Q2,,0,0,0,,So could ya give me a hand here?
+Dialogue: 1,0:11:54.29,0:11:57.13,Q2,,0,0,0,,I already told you I don't want to be in any\Nvideos!
+Dialogue: 1,0:11:57.13,0:12:00.13,Q2,,0,0,0,,I'll just use screenshots of our chats,\Nso no worries there!
+Dialogue: 1,0:12:00.54,0:12:03.54,Q2,,0,0,0,,What exactly is… photo shiritori?
+Dialogue: 1,0:12:03.54,0:12:07.63,Q2,,0,0,0,,For example, take a pic of something that starts\Nwith a "O" for the last letter of Tetsuryo.
+Dialogue: 1,0:12:08.00,0:12:09.42,Q2,,0,0,0,,Lookie, here…
+Dialogue: 1,0:12:09.42,0:12:12.58,Q2,,0,0,0,,Ya could take a pic of one yen\Nand send it to the group.
+Dialogue: 1,0:12:13.42,0:12:15.96,Q2,,0,0,0,,Ushio-san… That ends with an "N."
+Dialogue: 1,0:12:16.25,0:12:17.00,Q2,,0,0,0,,Oh…
+Dialogue: 1,0:12:17.00,0:12:18.50,Q2,,0,0,0,,O-one yen in change!
+Dialogue: 1,0:12:18.50,0:12:20.58,Q2,,0,0,0,,Phrasing it like that won't break\Nthe not ending with an "N" rule, eh?
+Dialogue: 1,0:12:20.58,0:12:24.25,Q2,,0,0,0,,To think that Ushio's defeat was already fated\Nfrom the moment her explanation began…
+Dialogue: 1,0:12:24.25,0:12:27.83,Q2,,0,0,0,,Oh, come on! That was just a demonstration!
+Dialogue: 1,0:12:28.29,0:12:31.79,Q2,,0,0,0,,Anyway, whoever sends the most photos wins!
+Dialogue: 1,0:12:31.79,0:12:33.46,Q2,,0,0,0,,And posting multiple photos in a row is A-okay\Ntoo!
+Dialogue: 1,0:12:33.46,0:12:36.46,Q2,,0,0,0,,So if you can snap pictures of an apple,\Nan elephant, and a trumpet in one go,
+Dialogue: 1,0:12:36.46,0:12:38.83,Q2,,0,0,0,,then you'd have a pretty big advantage, huh?
+Dialogue: 1,0:12:38.83,0:12:41.33,Q2,,0,0,0,,I-is there a place ya can find all those things?
+Dialogue: 1,0:12:41.75,0:12:46.92,Q2,,0,0,0,,Since it's a contest, that means you're going\Nto offer some kind of prize for the winner, right?
+Dialogue: 1,0:12:46.92,0:12:49.83,Q2,,0,0,0,,B-but I don't really have the budget for that…
+Dialogue: 1,0:12:50.08,0:12:55.04,Q2,,0,0,0,,Oh, in that case, why not the prize be getting\Nto keep all the souvenirs everyone buys?
+Dialogue: 1,0:12:55.04,0:12:57.75,Q2,,0,0,0,,Oh, I can get down with that! There ya have it!
+Dialogue: 1,0:12:58.17,0:13:03.54,Q2,,0,0,0,,It's decided: This week we'll hold the Tetsuryo\NClub's Inaugural Photo Shiritori Battle!
+Dialogue: 1,0:13:08.71,0:13:11.29,Q2,,0,0,0,,Okay! The game plan for today is…
+Dialogue: 1,0:13:12.96,0:13:15.50,Q2,,0,0,0,,Anyway, my first stop is Misakiguchi!
+Dialogue: 1,0:13:17.38,0:13:19.13,Q2,,0,0,0,,Let the Shiritori Battle commence!
+Dialogue: 1,0:13:19.13,0:13:22.25,Q2,,0,0,0,,We're gonna start with the letter "M!"
+Dialogue: 1,0:13:22.25,0:13:23.92,Q2,,0,0,0,,"M…" Mmm…
+Dialogue: 1,0:13:26.29,0:13:27.96,Q2,,0,0,0,,Oh! Melon bun!
+Dialogue: 1,0:13:27.96,0:13:29.58,Q2,,0,0,0,,Wait, that ends with an "N," doesn't it?
+Dialogue: 1,0:13:30.92,0:13:32.96,Q2,,0,0,0,,Metro Morning Way!
+Dialogue: 1,0:13:32.96,0:13:34.58,Q2,,0,0,0,,She beat me to it!
+Dialogue: 1,0:13:37.50,0:13:38.63,Q2,,0,0,0,,Yummy Inarizushi feast!
+Dialogue: 1,0:13:39.50,0:13:40.67,Q2,,0,0,0,,Tailor.
+Dialogue: 1,0:13:40.83,0:13:42.88,Q2,,0,0,0,,Huh? It's like she traveled back in time...
+Dialogue: 1,0:13:43.33,0:13:45.17,Q2,,0,0,0,,Where exactly is Usa-san?
+Dialogue: 1,0:13:49.42,0:13:51.79,Q2,,0,0,0,,"R" is the next letter… Rrrr…
+Dialogue: 1,0:13:57.54,0:13:58.79,Q2,,0,0,0,,Railway arrow!
+Dialogue: 1,0:14:07.33,0:14:10.50,Q2,,0,0,0,,Oh my gosh, I didn't realize how\Nmany lines stop at Shinagawa Station...
+Dialogue: 1,0:14:13.17,0:14:17.88,Q2,,0,0,0,,Oh, right. Ushio-san did mention they sell all\Nkinds of train station bentos here.
+Dialogue: 1,0:14:18.29,0:14:20.75,Q2,,0,0,0,,They look delicious…
+Dialogue: 1,0:14:21.42,0:14:22.75,Q2,,0,0,0,,Hey! Wait a sec!
+Dialogue: 1,0:14:22.75,0:14:25.29,Q2,,0,0,0,,One of the whole points of today\Nis eating tuna donburi!
+Dialogue: 1,0:14:25.29,0:14:26.67,Q2,,0,0,0,,Misakiguchi is on…
+Dialogue: 1,0:14:27.29,0:14:28.21,Q2,,0,0,0,,the Keikyu Line!
+Dialogue: 1,0:14:28.96,0:14:30.88,Q2,,0,0,0,,Where is the Keikyu Line?!
+Dialogue: 1,0:14:35.33,0:14:38.29,Q2,,0,0,0,,I don't have time to send anything for our game!
+Dialogue: 1,0:14:38.38,0:14:39.50,Q2,,0,0,0,,Excuse me.
+Dialogue: 1,0:14:39.92,0:14:41.79,Q2,,0,0,0,,Huh? Oh! Hi!
+Dialogue: 1,0:14:42.21,0:14:43.38,Q2,,0,0,0,,Someone from overseas!
+Dialogue: 1,0:14:43.38,0:14:45.79,Q2,,0,0,0,,I would like to go to Haneda Airport.
+Dialogue: 1,0:14:46.58,0:14:48.08,Q2,,0,0,0,,H-Haneda?
+Dialogue: 1,0:14:48.08,0:14:49.29,Q2,,0,0,0,,Ah, um…
+Dialogue: 1,0:14:49.67,0:14:51.13,Q2,,0,0,0,,Oh, Keikyu!
+Dialogue: 1,0:14:51.33,0:14:54.17,Q2,,0,0,0,,The same! Um, how do you\Nsay that in English again?
+Dialogue: 1,0:14:54.17,0:14:55.58,Q2,,0,0,0,,The saaaame.
+Dialogue: 1,0:14:55.58,0:14:56.79,Q2,,0,0,0,,The saaa…me?
+Dialogue: 1,0:14:56.92,0:14:57.92,Q2,,0,0,0,,Um!
+Dialogue: 1,0:14:58.33,0:14:59.21,Q2,,0,0,0,,Go!
+Dialogue: 1,0:14:59.21,0:15:00.71,Q2,,0,0,0,,"Together" in English… Um…
+Dialogue: 1,0:15:01.08,0:15:03.08,Q2,,0,0,0,,I'm lost too!
+Dialogue: 1,0:15:03.08,0:15:04.21,Q2,,0,0,0,,Uh…
+Dialogue: 1,0:15:05.08,0:15:06.67,Q2,,0,0,0,,Together!
+Dialogue: 1,0:15:06.92,0:15:08.46,Q2,,0,0,0,,Oh! Thank you!
+Dialogue: 1,0:15:12.38,0:15:13.42,Q2,,0,0,0,,We made it!
+Dialogue: 1,0:15:13.42,0:15:16.13,Q2,,0,0,0,,Sorry, that was a huge time loss.
+Dialogue: 1,0:15:16.13,0:15:18.29,Q2,,0,0,0,,That was helpful, thanks!
+Dialogue: 1,0:15:18.54,0:15:20.25,Q2,,0,0,0,,You are welcome!
+Dialogue: 1,0:15:24.21,0:15:26.21,Q2,,0,0,0,,Hold on, that's where I'm going too!
+Dialogue: 1,0:15:29.42,0:15:31.71,Q2,,0,0,0,,Hmm? Same direction?
+Dialogue: 1,0:15:32.21,0:15:33.54,Q2,,0,0,0,,Yes, yes!
+Dialogue: 1,0:15:34.46,0:15:35.42,Q2,,0,0,0,,Picnic lunch!
+Dialogue: 1,0:15:36.13,0:15:37.42,Q2,,0,0,0,,"H…" Huh…
+Dialogue: 1,0:15:37.42,0:15:38.50,Q2,,0,0,0,,Where are you going?
+Dialogue: 1,0:15:38.50,0:15:41.08,Q2,,0,0,0,,Huh? Oh, Misakiguchi.
+Dialogue: 1,0:15:41.38,0:15:43.04,Q2,,0,0,0,,Oh, Misakiguchi!
+Dialogue: 1,0:15:43.42,0:15:44.96,Q2,,0,0,0,,Yes, yes.
+Dialogue: 1,0:15:44.96,0:15:45.92,Q2,,0,0,0,,Where is it?
+Dialogue: 1,0:15:46.25,0:15:49.63,Q2,,0,0,0,,It's just past Kamata and Yokohama from here.
+Dialogue: 1,0:15:50.17,0:15:51.46,Q2,,0,0,0,,Kamata is…
+Dialogue: 1,0:15:51.46,0:15:54.42,Q2,,0,0,0,,Oh, right! Wing gyoza!
+Dialogue: 1,0:15:54.46,0:15:56.04,Q2,,0,0,0,,Wing gyoza?
+Dialogue: 1,0:15:56.04,0:15:59.00,Q2,,0,0,0,,We'll probably see signs for it soon.
+Dialogue: 1,0:16:01.75,0:16:02.67,Q2,,0,0,0,,Huh?
+Dialogue: 1,0:16:02.67,0:16:04.92,Q2,,0,0,0,,We didn't stop at Kamata?
+Dialogue: 1,0:16:07.13,0:16:10.17,Q2,,0,0,0,,The next stop is Haneda Airport Terminal 3.
+Dialogue: 1,0:16:12.04,0:16:14.67,Q2,,0,0,0,,Haneda Airpoooort?!
+Dialogue: 1,0:16:16.88,0:16:18.88,Q2,,0,0,0,,Why don't we wait in the station office?
+Dialogue: 1,0:16:18.88,0:16:19.75,Q2,,0,0,0,,Okay!
+Dialogue: 1,0:16:24.92,0:16:27.38,Q2,,0,0,0,,Places that'll make for good videos...
+Dialogue: 1,0:16:29.54,0:16:31.13,Q2,,0,0,0,,What've we got next?
+Dialogue: 1,0:16:31.92,0:16:34.13,Q2,,0,0,0,,H-Haneda Airport…
+Dialogue: 1,0:16:34.42,0:16:37.13,Q2,,0,0,0,,What the heck has she gotten herself into?
+Dialogue: 1,0:16:40.96,0:16:42.83,Q2,,0,0,0,,I… I finally made it.
+Dialogue: 1,0:16:50.88,0:16:52.17,Q2,,0,0,0,,Tuna donburi!
+Dialogue: 1,0:16:53.79,0:16:55.00,Q2,,0,0,0,,What?!
+Dialogue: 1,0:16:55.50,0:16:58.00,Q2,,0,0,0,,Y-you're already sold out?
+Dialogue: 1,0:16:58.00,0:17:02.29,Q2,,0,0,0,,I apologize. We've been really busy since\Nthis morning because it's a holiday.
+Dialogue: 1,0:17:05.25,0:17:09.17,Q2,,0,0,0,,If I head to the ocean, I should be able\Nfind some touristy food to eat…
+Dialogue: 1,0:17:09.79,0:17:12.13,Q2,,0,0,0,,Or something with tuna in it, at least!
+Dialogue: 1,0:17:12.63,0:17:14.88,Q2,,0,0,0,,How do I get to the ocean from here?
+Dialogue: 1,0:17:15.71,0:17:16.21,Q2,,0,0,0,,It's that far?!
+Dialogue: 1,0:17:16.21,0:17:17.71,Q2,,0,0,0,,Huh? What?
+Dialogue: 1,0:17:17.71,0:17:20.17,Q2,,0,0,0,,The station before this one is closer?
+Dialogue: 1,0:17:20.63,0:17:24.17,Q2,,0,0,0,,I went all this way for nothing…\Nand have to turn around.
+Dialogue: 1,0:17:26.38,0:17:27.96,Q2,,0,0,0,,Cat getting some shut-eye…
+Dialogue: 1,0:17:28.50,0:17:30.46,Q2,,0,0,0,,"E…" Eee…
+Dialogue: 1,0:17:33.79,0:17:34.92,Q2,,0,0,0,,Eeee!
+Dialogue: 1,0:17:40.96,0:17:42.21,Q2,,0,0,0,,Eating…
+Dialogue: 1,0:17:42.92,0:17:44.38,Q2,,0,0,0,,What happened to the tuna donburi?
+Dialogue: 1,0:17:48.83,0:17:51.21,Q2,,0,0,0,,Things aren't going how I planned at all…
+Dialogue: 1,0:17:51.21,0:17:55.17,Q2,,0,0,0,,It's my first time coming here,\Nand I've just had one problem after the other…
+Dialogue: 1,0:17:55.17,0:17:57.96,Q2,,0,0,0,,All the mishaps the others talked\Nabout don't seem like a joke now.
+Dialogue: 1,0:17:58.79,0:18:01.88,Q2,,0,0,0,,I'm telling ya, that's a huge detour too!
+Dialogue: 1,0:18:02.00,0:18:05.29,Q2,,0,0,0,,Y-you're right, but if we only\Ngo to our destination,
+Dialogue: 1,0:18:05.29,0:18:07.29,Q2,,0,0,0,,it wouldn't be Tetsuryo Club trip, now would it?
+Dialogue: 1,0:18:07.29,0:18:09.63,Q2,,0,0,0,,I guess ya got a point, but…
+Dialogue: 1,0:18:09.63,0:18:11.38,Q2,,0,0,0,,I'll give us some buffer time, naturally!
+Dialogue: 1,0:18:11.67,0:18:15.08,Q2,,0,0,0,,But I still think it's a waste\Nto just plow straight ahead!
+Dialogue: 1,0:18:15.42,0:18:17.79,Q2,,0,0,0,,I want so badly to see all sorts\Nof places with everyone!
+Dialogue: 1,0:18:20.63,0:18:21.83,Q2,,0,0,0,,Last year…
+Dialogue: 1,0:18:22.04,0:18:23.96,Q2,,0,0,0,,…we ran into all sorts of problems.
+Dialogue: 1,0:18:24.21,0:18:27.79,Q2,,0,0,0,,But I think that's partly why\Nit's such a good memory.
+Dialogue: 1,0:18:28.33,0:18:32.29,Q2,,0,0,0,,Even after that, Kodama-san\Ncame up with other ideas,
+Dialogue: 1,0:18:32.83,0:18:36.33,Q2,,0,0,0,,so things didn't go exactly as we originally\Nplanned, but we got to see so many things.
+Dialogue: 1,0:18:36.88,0:18:38.00,Q2,,0,0,0,,Usa-chan!
+Dialogue: 1,0:18:38.29,0:18:39.88,Q2,,0,0,0,,Even if there are mishaps…
+Dialogue: 1,0:18:39.88,0:18:43.83,Q2,,0,0,0,,…whether you have fun or not\Nis up to you, don't you think?
+Dialogue: 1,0:18:45.42,0:18:48.50,Q2,,0,0,0,,Whether I have fun or not is… up to me!
+Dialogue: 1,0:18:55.33,0:18:58.13,Q2,,0,0,0,,Everyone went out of their way\Nto teach me about train trips!
+Dialogue: 1,0:18:58.38,0:19:01.79,Q2,,0,0,0,,This is where my fun begins! My very own route!
+Dialogue: 1,0:19:02.83,0:19:05.71,Q2,,0,0,0,,U-Uraga? Wait, that place?
+Dialogue: 1,0:19:06.38,0:19:08.00,Q2,,0,0,0,,Open up the country!
+Dialogue: 1,0:19:08.92,0:19:09.92,Q2,,0,0,0,,Oh!
+Dialogue: 1,0:19:09.92,0:19:13.00,Q2,,0,0,0,,I can't believe a place from Japanese history\NI learned about is so close by!
+Dialogue: 1,0:19:13.29,0:19:16.21,Q2,,0,0,0,,Perry came by ship, right?
+Dialogue: 1,0:19:16.88,0:19:18.08,Q2,,0,0,0,,Maybe I can do it!
+Dialogue: 1,0:19:18.08,0:19:19.71,Q2,,0,0,0,,A second chance to see the ocean!
+Dialogue: 1,0:19:21.83,0:19:23.08,Q2,,0,0,0,,I'm here!
+Dialogue: 1,0:19:27.71,0:19:29.21,Q2,,0,0,0,,The smell of the ocean!
+Dialogue: 1,0:19:30.92,0:19:33.38,Q2,,0,0,0,,Wow! The ocean!
+Dialogue: 1,0:19:35.08,0:19:37.92,Q2,,0,0,0,,There isn't a sandy beach since this is a harbor.
+Dialogue: 1,0:19:41.21,0:19:44.00,Q2,,0,0,0,,If you want to ride the boat,\Njust press the button.
+Dialogue: 1,0:19:44.00,0:19:47.04,Q2,,0,0,0,,Huh? Y-you can ride the boat?
+Dialogue: 1,0:19:47.63,0:19:49.63,Q2,,0,0,0,,Just press the button there.
+Dialogue: 1,0:19:50.00,0:19:50.96,Q2,,0,0,0,,The button?
+Dialogue: 1,0:19:51.79,0:19:53.08,Q2,,0,0,0,,This one?
+Dialogue: 1,0:20:11.25,0:20:16.63,Q2,,0,0,0,,I got on the wrong train and\Ndidn't get to eat tuna donburi,
+Dialogue: 1,0:20:17.04,0:20:19.96,Q2,,0,0,0,,but I've sure come a long way all by myself.
+Dialogue: 1,0:20:20.29,0:20:24.13,Q2,,0,0,0,,I feel like I've grown up a little.
+Dialogue: 1,0:20:24.96,0:20:25.88,Q2,,0,0,0,,Hmm?
+Dialogue: 1,0:20:25.88,0:20:29.38,Q2,,0,0,0,,Thinking about it, I feel like I'm forgetting\Nsomething…
+Dialogue: 1,0:20:30.04,0:20:31.50,Q2,,0,0,0,,The way home.
+Dialogue: 1,0:20:32.04,0:20:33.17,Q2,,0,0,0,,Just kidding.
+Dialogue: 1,0:20:33.75,0:20:36.00,Q2,,0,0,0,,That reminds me, after that picture\Nshe took from the convenience store,
+Dialogue: 1,0:20:36.00,0:20:38.88,Q2,,0,0,0,,Misaki-chan hasn't been participating\Nin the shiritori game.
+Dialogue: 1,0:20:38.88,0:20:40.96,Q2,,0,0,0,,But she must be okay, right?
+Dialogue: 1,0:20:45.58,0:20:49.54,Q2,,0,0,0,,I-I forgot to buy a souvenir!
+Dialogue: 1,0:21:04.25,0:21:09.79,Q32,,0,0,0,,Madobe ni yureru watashi o sotto mitsumeta
+Dialogue: 1,0:21:09.79,0:21:13.50,Q32,,0,0,0,,Ima o tsuredashite daijoubu
+Dialogue: 1,0:21:13.50,0:21:16.42,Q32,,0,0,0,,Hohoe mikakete miru
+Dialogue: 1,0:21:16.96,0:21:22.46,Q32,,0,0,0,,Kawaribae no nai hibi to kawaritai kimochi
+Dialogue: 1,0:21:22.46,0:21:28.75,Q32,,0,0,0,,Ima wa sagashiteiru watashi dake no mita koto nai keshiki
+Dialogue: 1,0:21:29.21,0:21:35.42,Q32,,0,0,0,,Atama no naka ni shimatteita omoi kotoba ni shite
+Dialogue: 1,0:21:35.42,0:21:42.04,Q32,,0,0,0,,Kawashita hibi no kazu dake kimi o suki ni natta
+Dialogue: 1,0:21:42.33,0:21:45.50,Q32,,0,0,0,,Hashiridashita kimochi tomaranainda
+Dialogue: 1,0:21:46.08,0:21:52.83,Q32,,0,0,0,,Takaramono nante namae ja kitto tarinai yo kimi to no omoide
+Dialogue: 1,0:21:53.13,0:21:58.88,Q32,,0,0,0,,Ikisaki wa chigau kedo mirai e to tsunagu kono kiseki
+Dialogue: 1,0:21:59.38,0:22:05.13,Q32,,0,0,0,,Ima o kakenukete shiranai basho e iku yo
+Dialogue: 1,0:22:05.67,0:22:11.25,Q32,,0,0,0,,Togireru koto nai mirai yureru omoi nosete ikou
+Dialogue: 1,0:22:12.00,0:22:17.38,Q32,,0,0,0,,Kimi ga itekureta kara watashi wa koko ni iru
+Dialogue: 1,0:22:25.42,0:22:27.38,Q2,,0,0,0,,Haru-chan! Hello!
+Dialogue: 1,0:22:27.38,0:22:29.04,Q2,,0,0,0,,So you came by again today, huh?
+Dialogue: 1,0:22:30.25,0:22:32.46,Q2,,0,0,0,,It feels like today is going to be a good day!
+Dialogue: 1,0:22:32.46,0:22:35.92,Q2,,0,0,0,,Arisa-chan! Your work brought you here today, huh?
+Dialogue: 1,0:22:35.92,0:22:37.63,Q2,,0,0,0,,Oh, hello!
+Dialogue: 1,0:22:37.75,0:22:40.17,Q2,,0,0,0,,Yes, I'm gathering info for the event train.
+Dialogue: 1,0:22:40.92,0:22:45.96,Q2,,0,0,0,,Huh? I thought autumn event trains\Ndidn't come out here?
+Dialogue: 1,0:22:46.33,0:22:47.63,Q2,,0,0,0,,No, they don't.
+Dialogue: 1,0:22:47.63,0:22:51.38,Q2,,0,0,0,,But honestly, I wish they'd come out here too.
+Dialogue: 1,0:22:51.38,0:22:57.13,Q2,,0,0,0,,Even if it's difficult to change the operating\Nroute, since this is an event train,
+Dialogue: 1,0:22:57.13,0:23:01.38,Q2,,0,0,0,,I hope passengers can learn more about\Nthe station house that's been here for ages,
+Dialogue: 1,0:23:01.71,0:23:04.63,Q2,,0,0,0,,and about Haru-chan who comes here to hang out,
+Dialogue: 1,0:23:04.63,0:23:09.75,Q2,,0,0,0,,and discover each and every single thing\Nthe Matsuura Railway has to offer!
+Dialogue: 1,0:23:10.04,0:23:11.79,Q2,,0,0,0,,Doesn't that make you happy, Haru-chan!
+Dialogue: 1,0:23:13.71,0:23:18.25,Q2,,0,0,0,,Haru-chan says you'll be able to get\Nyour message across. No doubt about it.
+Dialogue: 1,0:23:19.79,0:23:23.25,Q2,,0,0,0,,I'm counting on you too, Ms. Publicity Officer!
+Dialogue: 1,0:23:23.83,0:23:24.83,Q2,,0,0,0,,Okay!
+Dialogue: 1,0:23:26.54,0:23:29.38,Q2,,0,0,0,,I never would've guessed that everyone's\Nsouvenirs ended up being manju.
+Dialogue: 1,0:23:29.38,0:23:31.08,Q2,,0,0,0,,Why don't we all share them?
+Dialogue: 1,0:23:31.08,0:23:32.04,Q2,,0,0,0,,What? Are you sure?
+Dialogue: 1,0:23:32.04,0:23:33.75,Q2,,0,0,0,,It's more fun… that way.
+Dialogue: 1,0:23:33.75,0:23:34.96,Q2,,0,0,0,,What a darling girl!
+Dialogue: 1,0:23:34.96,0:23:37.33,Q2,,0,0,0,,Next episode: I Want to Make Lots of Memories!
+Dialogue: 1,0:23:37.42,0:23:40.38,Q2,,0,0,0,,I guess there's not much time left where we can\Nall hang out like this.
+Dialogue: 0,0:00:01.00,0:00:03.42,Q0,,0,0,0,,{\pos(473.6,57.6)}{\an7}Railway Travel Club
+Dialogue: 0,0:00:01.00,0:00:03.42,Q1,,0,0,0,,{\pos(371.2,525.6)}{\an7}Tetsuryo Club
+Dialogue: 0,0:01:28.67,0:01:31.25,Q3,,0,0,0,,{\pos(563.2,388.8)}{\an7}Railway Life
+Dialogue: 0,0:01:28.67,0:01:31.25,Q4,,0,0,0,,{\pos(512,453.6)}{\an7}Hikyo Stations
+Dialogue: 0,0:01:36.67,0:01:38.83,Q5,,0,0,0,,{\pos(460.8,302.4)}{\an7}Misakiguchi
+Dialogue: 0,0:01:40.71,0:01:47.25,Q6,,0,0,0,,{\pos(256,619.2)}{\an7}Episode 6: Sometimes, Misaki Has to Try Her Best Alone!
+Dialogue: 0,0:02:17.92,0:02:19.17,Q7,,0,0,0,,{\pos(1088,525.6)}{\an7}Omisaki
+Dialogue: 0,0:03:20.67,0:03:22.83,Q0,,0,0,0,,{\pos(473.6,57.6)}{\an7}Railway Travel Club
+Dialogue: 0,0:03:20.67,0:03:22.83,Q1,,0,0,0,,{\pos(371.2,525.6)}{\an7}Tetsuryo Club
+Dialogue: 0,0:05:11.17,0:05:27.00,Q8,,0,0,0,,{\pos(550.4,288)}{\an7}Kamata
+Dialogue: 0,0:06:53.58,0:06:57.58,Q0,,0,0,0,,{\pos(473.6,57.6)}{\an7}Railway Travel Club
+Dialogue: 0,0:06:53.58,0:06:57.58,Q1,,0,0,0,,{\pos(371.2,525.6)}{\an7}Tetsuryo Club
+Dialogue: 0,0:07:38.38,0:07:45.88,Q9,,0,0,0,,{\pos(448,129.6)}{\an7}Relishing Big Cities!
+Dialogue: 0,0:07:38.38,0:07:45.88,Q9,,0,0,0,,{\pos(460.8,230.4)}{\an7}A Kyushu Tour
+Dialogue: 0,0:07:38.38,0:07:45.88,Q9,,0,0,0,,{\pos(307.2,338.4)}{\an7}going through Tokyo, Nagoya, and Osaka!
+Dialogue: 0,0:07:49.71,0:07:51.08,Q10,,0,0,0,,{\pos(524.8,295.2)}{\an7}Nagoya
+Dialogue: 0,0:07:51.83,0:07:55.21,Q11,,0,0,0,,{\pos(1113.6,288)}{\an7}Yakusa
+Dialogue: 0,0:08:25.29,0:08:25.88,Q12,,0,0,0,,{\pos(550.4,424.8)}{\an7}Shin-Osaka
+Dialogue: 0,0:08:26.88,0:08:28.38,Q13,,0,0,0,,{\pos(627.2,280.8)}{\an7}Saito-nishi
+Dialogue: 0,0:09:30.71,0:09:36.33,Q14,,0,0,0,,{\pos(729.6,115.2)}{\an7}Akayu-Arato
+Dialogue: 0,0:09:30.71,0:09:36.33,Q14,,0,0,0,,{\pos(691.2,165.6)}{\an7}Conductorless Train
+Dialogue: 0,0:10:14.46,0:10:16.92,Q15,,0,0,0,,{\pos(512,158.4)}{\an7}Relishing Big Cities!
+Dialogue: 0,0:10:14.46,0:10:16.92,Q15,,0,0,0,,{\pos(537.6,280.8)}{\an7}A Kyushu Tour
+Dialogue: 0,0:10:14.46,0:10:16.92,Q15,,0,0,0,,{\pos(345.6,396)}{\an7}going through Tokyo, Nagoya, and Osaka!
+Dialogue: 0,0:13:08.71,0:13:11.29,Q16,,0,0,0,,{\pos(588.8,518.4)}{\an7}Wish List
+Dialogue: 0,0:13:08.71,0:13:11.29,Q16,,0,0,0,,{\pos(588.8,568.8)}{\an7}Notebook
+Dialogue: 0,0:13:11.29,0:13:12.96,Q17,,0,0,0,,{\pos(448,208.8)}{\an7}Eat tuna donburi
+Dialogue: 0,0:13:11.29,0:13:12.96,Q17,,0,0,0,,{\pos(448,475.2)}{\an7}Win the Shiritori Battle
+Dialogue: 0,0:13:11.29,0:13:12.96,Q18,,0,0,0,,{\pos(448,532.8)}{\an7}Try taking a detour on the way home
+Dialogue: 0,0:13:17.13,0:13:22.25,Q9,,0,0,0,,{\pos(473.6,93.6)}{\an7}Let the Shiritori Battle commence!
+Dialogue: 0,0:13:19.21,0:13:22.25,Q19,,0,0,0,,{\pos(435.2,309.6)}{\an7}We're gonna start with
+Dialogue: 0,0:13:20.46,0:13:22.25,Q20,,0,0,0,,{\pos(473.6,540)}{\an7}the letter M
+Dialogue: 0,0:13:24.17,0:13:26.08,Q21,,0,0,0,,{\pos(179.2,331.2)}{\an7}Melon buns
+Dialogue: 0,0:13:31.21,0:13:32.96,Q22,,0,0,0,,{\pos(499.2,554.4)}{\an7}Metro Morning Way!
+Dialogue: 0,0:13:35.38,0:13:37.17,Q7,,0,0,0,,{\pos(294.4,43.2)}{\an7}Bound for Mitaka
+Dialogue: 0,0:13:35.38,0:13:37.17,Q23,,0,0,0,,{\pos(268.8,93.6)}{\an7}Next stop:                       Ichikawa
+Dialogue: 0,0:13:37.63,0:13:39.04,Q24,,0,0,0,,{\pos(409.6,540)}{\an7}Yummy Inarizushi feast!
+Dialogue: 0,0:13:39.54,0:13:40.83,Q24,,0,0,0,,{\pos(486.4,540)}{\an7}Tailor.
+Dialogue: 0,0:13:57.71,0:13:59.67,Q25,,0,0,0,,{\pos(819.2,561.6)}{\an7}Railway Arrow!
+Dialogue: 0,0:15:34.46,0:15:35.92,Q15,,0,0,0,,{\pos(537.6,511.2)}{\an7}Picnic lunch!
+Dialogue: 0,0:16:00.29,0:16:01.75,Q26,,0,0,0,,{\pos(499.2,230.4)}{\an7}Keikyu
+Dialogue: 0,0:16:00.29,0:16:01.75,Q26,,0,0,0,,{\pos(499.2,280.8)}{\an7}Kamata
+Dialogue: 0,0:16:31.88,0:16:34.08,Q7,,0,0,0,,{\pos(384,568.8)}{\an7}H-Haneda Airport…
+Dialogue: 0,0:16:45.33,0:16:48.25,Q9,,0,0,0,,{\pos(550.4,72)}{\an7}Mis(tun)akiguchi Station
+Dialogue: 0,0:16:45.33,0:16:48.25,Q27,,0,0,0,,{\pos(640,201.6)}{\an7}Misaki Tuna Station
+Dialogue: 0,0:16:48.25,0:16:50.67,Q0,,0,0,0,,{\pos(640,180)}{\an7}Mis(tun)akiguchi Station
+Dialogue: 0,0:16:48.25,0:16:50.67,Q25,,0,0,0,,{\pos(729.6,403.2)}{\an7}Misaki Tuna Station
+Dialogue: 0,0:16:53.08,0:16:55.50,Q28,,0,0,0,,{\pos(742.4,86.4)}{\an7}Tuna Eatery
+Dialogue: 0,0:16:53.08,0:16:55.50,Q28,,0,0,0,,{\pos(870.4,187.2)}{\an7}Uogashi
+Dialogue: 0,0:16:53.09,0:16:55.50,Q29,,0,0,0,,{\pos(358.4,259.2)}{\an7}Piled high donburi
+Dialogue: 0,0:16:53.09,0:16:55.50,Q29,,0,0,0,,{\pos(691.2,417.6)}{\an7}Spring onion tuna donburi
+Dialogue: 0,0:17:26.67,0:17:28.13,Q30,,0,0,0,,{\pos(371.2,554.4)}{\an7}Cat getting some shut-eye…
+Dialogue: 0,0:17:40.79,0:17:42.54,Q30,,0,0,0,,{\pos(460.8,547.2)}{\an7}Eating…
+Dialogue: 0,0:17:44.71,0:17:46.63,Q0,,0,0,0,,{\pos(473.6,201.6)}{\an7}Mis(tun)akiguchi Station
+Dialogue: 0,0:17:44.71,0:17:46.63,Q25,,0,0,0,,{\pos(563.2,439.2)}{\an7}Misaki Tuna Station
+Dialogue: 0,0:18:55.33,0:18:57.29,Q31,,0,0,0,,{\pos(460.8,403.2)}{\an7}Misakiguchi
+Dialogue: 0,0:19:02.75,0:19:06.00,Q16,,0,0,0,,{\pos(768,518.4)}{\an7}Wish List
+Dialogue: 0,0:19:02.75,0:19:06.00,Q16,,0,0,0,,{\pos(768,568.8)}{\an7}Notebook
+Dialogue: 0,0:20:30.04,0:20:32.00,Q25,,0,0,0,,{\pos(435.2,554.4)}{\an7}The way home
+Dialogue: 0,0:22:20.08,0:22:22.46,Q33,,0,0,0,,{\pos(512,201.6)}{\an7}Zoshuku
+Dialogue: 0,0:22:20.08,0:22:22.46,Q33,,0,0,0,,{\pos(524.8,252)}{\an7}Station
+Dialogue: 0,0:22:57.13,0:23:01.38,Q30,,0,0,0,,{\pos(371.2,50.4)}{\an7}Zoshuku
+Dialogue: 0,0:22:57.13,0:23:01.38,Q30,,0,0,0,,{\pos(384,100.8)}{\an7}Station
+Dialogue: 0,0:23:26.08,0:23:41.04,Q34,,0,0,0,,{\pos(102.4,57.6)}{\an7}Next Episode Preview
+
