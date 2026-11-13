@@ -1,0 +1,327 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,0
+Style: flashback italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Ep_Title,Times New Roman,20,&H00FFFFFF,&H000000FF,&HD2000000,&HD2000000,0,0,0,0,100,100,0,0,1,1,1,3,18,44,56,0
+Style: Next_Time,Times New Roman,22,&H00FFFFFF,&H000000FF,&HD2000000,&HD2000000,0,0,0,0,100,100,0,0,1,1,1,7,36,18,43,0
+Style: Next_Ep_Title,Times New Roman,20,&H00FFFFFF,&H000000FF,&HBE000000,&HBE000000,0,0,0,0,100,100,0,0,1,1,1,3,18,43,51,0
+Style: Title,Times New Roman,22,&H00FFFFFF,&H000000FF,&H001F38B6,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,18,18,18,0
+Style: Fiction_Disclaimer,Arial,10,&H00FFFFFF,&H000000FF,&HA7000000,&HAE000000,0,0,0,0,100,100,0,0,1,0.8,0.8,1,143,18,49,0
+Style: sign_12448_106_Wife,Arial,12,&H00FFFFFF,&H000000FF,&H00201F1F,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,220,393,291,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.40,0:00:13.53,Title,Text,0,0,0,,{\fad(439,436)\bord0\clip(210,14.714,357.572,44)\t(773,4485,\clip(210,15,430,44))}Zapiski zielarki
+Dialogue: 1,0:00:06.40,0:00:13.53,Title,Text,0,0,0,,{\fad(0,436)\blur3\1a&HFF&\clip(210,15,211,44)\t(400,4902,\clip(210,15,430,44))}Zapiski {\bord1\blur2\c&H000000&\1a&H00&\3c&HFFFFFF&\3a&H56&}zielarki
+Dialogue: 0,0:01:30.99,0:01:33.99,Fiction_Disclaimer,Text,0,0,0,,{\fad(277,260)\blur1}To fikcja. Podobieństwo\Ndo rzeczywistości jest przypadkowe.
+Dialogue: 0,0:01:33.27,0:01:38.66,italicstop,Maomao,0,0,0,,Na rozkaz Jinshiego towarzyszę Guenowi\Nw odwiedzinach u rodziny, ale…
+Dialogue: 0,0:01:39.30,0:01:43.64,italics,Maomao,0,0,0,,Po co im te przebrania?\NCzyżby w tej wiosce coś się kryło?
+Dialogue: 0,0:01:45.28,0:01:46.09,Default,Maomao,0,0,0,,Proszę.
+Dialogue: 0,0:01:56.42,0:02:00.68,Default,Maomao,0,0,0,,Możemy normalnie rozmawiać.\NTen pokój jest oddalony od reszty.
+Dialogue: 0,0:02:01.19,0:02:02.87,Default,Jinshi,0,0,0,,Byłaś w trakcie kąpieli?
+Dialogue: 0,0:02:02.87,0:02:07.15,Default,Maomao,0,0,0,,Tylko myłam włosy. Przepraszam\Nza ten niechlujny wygląd.
+Dialogue: 0,0:02:08.14,0:02:09.53,italics,Maomao,0,0,0,,Po co on tu przylazł?
+Dialogue: 0,0:02:10.70,0:02:13.46,Default,Jinshi,0,0,0,,Potrafisz odtworzyć ten makijaż?
+Dialogue: 0,0:02:13.87,0:02:17.12,Default,Maomao,0,0,0,,Raczej tak. Potrzebuję tylko narzędzi.
+Dialogue: 0,0:02:17.12,0:02:18.18,Default,Jinshi,0,0,0,,W takim razie proszę.
+Dialogue: 0,0:02:24.41,0:02:26.85,Default,Maomao,0,0,0,,Przyniosę nową wodę.
+Dialogue: 0,0:02:26.85,0:02:29.42,Default,Jinshi,0,0,0,,Szkoda zachodu, ta wystarczy.
+Dialogue: 0,0:02:31.28,0:02:34.43,italics,Maomao,0,0,0,,Tyle że po umyciu włosów\Nwymoczyłam w niej też stopy…
+Dialogue: 0,0:02:34.74,0:02:35.78,Default,Jinshi,0,0,0,,Coś nie tak?
+Dialogue: 0,0:02:35.78,0:02:37.70,Default,Maomao,0,0,0,,Nie, nic takiego.
+Dialogue: 0,0:02:37.70,0:02:41.77,italics,Maomao,0,0,0,,Jeśli mu nie przeszkadza,\Nto nie będę się odzywać.
+Dialogue: 0,0:02:51.91,0:02:54.82,italics,Maomao,0,0,0,,Blizny bledną z czasem,
+Dialogue: 0,0:02:55.57,0:02:57.70,Default,Maomao,0,0,0,,ale nigdy całkowicie nie znikają.
+Dialogue: 0,0:02:58.78,0:03:00.46,Default,Maomao,0,0,0,,Swoją drogą, panie Jinshi.
+Dialogue: 0,0:03:00.46,0:03:01.70,Default,Jinshi,0,0,0,,Tak?
+Dialogue: 0,0:03:01.70,0:03:05.29,Default,Maomao,0,0,0,,Dlaczego pofatygował się pan aż\Ndo rodzinnego domu naszego medyka?
+Dialogue: 0,0:03:06.08,0:03:09.79,Default,Jinshi,0,0,0,,To tylko przystanek, ale pewna\Nsprawa nie dawała mi spokoju.
+Dialogue: 0,0:03:09.79,0:03:11.60,italics,Maomao,0,0,0,,Przystanek?
+Dialogue: 0,0:03:11.60,0:03:14.05,Default,Maomao,0,0,0,,Cóż to za sprawa?
+Dialogue: 0,0:03:14.55,0:03:18.68,Default,Jinshi,0,0,0,,Twój kuzyn dokonał obliczeń\Ni dostrzegł, że coś tu się nie zgadza.
+Dialogue: 0,0:03:19.71,0:03:21.18,Default,Maomao,0,0,0,,Lahan?
+Dialogue: 0,0:03:21.63,0:03:25.99,Default,Jinshi,0,0,0,,Ilość ryżu wysyłanego z tego regionu\Nw ostatnich latach jest podejrzana.
+Dialogue: 0,0:03:26.31,0:03:30.10,italics,Maomao,0,0,0,,Obsesja Lahana na punkcie\Nliczb nie zna granic.
+Dialogue: 0,0:03:30.10,0:03:32.84,italics,Maomao,0,0,0,,Faktycznie, warto się temu przyjrzeć.
+Dialogue: 0,0:03:33.31,0:03:37.45,Default,Jinshi,0,0,0,,Nie spodziewałem się jednak,\Nże usłyszymy tu taką historię…
+Dialogue: 0,0:03:38.05,0:03:40.90,Default,Maomao,0,0,0,,Obecny właściciel tych ziem
+Dialogue: 0,0:03:40.90,0:03:45.96,Default,Maomao,0,0,0,,chce przepędzić rzemieślników\Ni samemu zająć się wyrobem papieru.
+Dialogue: 0,0:03:48.13,0:03:52.32,Default,Jinshi,0,0,0,,Produkcja papieru to gałąź gospodarki,\Nna której rozwój musimy teraz stawiać.
+Dialogue: 0,0:03:53.08,0:03:55.80,Default,Jinshi,0,0,0,,Nie pozwolimy, by amatorzy\Nzastąpili rzemieślników.
+Dialogue: 0,0:03:56.27,0:03:58.50,italics,Maomao,0,0,0,,Ależ z tym zachodu.
+Dialogue: 0,0:03:58.50,0:04:02.49,Default,Maomao,0,0,0,,Mam nałożyć ten makijaż teraz\Nczy zrobić to rano?
+Dialogue: 0,0:04:02.89,0:04:04.10,Default,Jinshi,0,0,0,,Zrób to teraz.
+Dialogue: 0,0:04:04.53,0:04:08.62,italics,Maomao,0,0,0,,Gdyby wyszedł tak z tego pokoju,\Nwybuchłaby niezła afera…
+Dialogue: 0,0:04:10.76,0:04:13.27,Default,Maomao,0,0,0,,Pan Basen nie mógłby się tym zająć?
+Dialogue: 0,0:04:13.52,0:04:16.03,Default,Jinshi,0,0,0,,On się na tym nie zna.
+Dialogue: 0,0:04:16.03,0:04:18.99,Default,Maomao,0,0,0,,Czy to dlatego\Nzabrał mnie pan ze sobą?
+Dialogue: 0,0:04:19.25,0:04:20.61,Default,Jinshi,0,0,0,,Nie tylko dlatego.
+Dialogue: 0,0:04:29.17,0:04:33.50,Default,Maomao,0,0,0,,Proszę nie zasypiać,\Nalbo zawołam pana Basena.
+Dialogue: 0,0:04:33.50,0:04:36.93,Default,Jinshi,0,0,0,,Nawet jeśli go zawołasz, myślisz,\Nże we dwójkę coś wskóracie?
+Dialogue: 0,0:04:36.93,0:04:40.74,italics,Maomao,0,0,0,,Pewnie nie.\NW przeciwieństwie do swojego ojca,
+Dialogue: 0,0:04:40.74,0:04:42.90,italics,Maomao,0,0,0,,wciąż brakuje mu obycia.
+Dialogue: 0,0:04:42.90,0:04:44.81,Default,Maomao,0,0,0,,Dlaczego właściwie wziął pan Basena?
+Dialogue: 0,0:04:46.03,0:04:53.18,Default,Jinshi,0,0,0,,Bo widzisz… Jakby to powiedzieć…\NMa swoje mocne strony.
+Dialogue: 0,0:04:53.18,0:04:54.92,Default,Maomao,0,0,0,,Mało przekonujące.
+Dialogue: 0,0:04:56.40,0:05:00.51,italics,Maomao,0,0,0,,Chociaż sam fakt, że będąc u boku\NJinshiego, nie traci dla niego głowy,
+Dialogue: 0,0:05:00.51,0:05:02.61,italics,Maomao,0,0,0,,czyni z niego rzadki okaz.
+Dialogue: 0,0:05:04.62,0:05:06.74,italics,Maomao,0,0,0,,Proszę, gotowe.
+Dialogue: 0,0:05:19.66,0:05:22.21,Default,Jinshi,0,0,0,,Już skończyłaś?
+Dialogue: 0,0:05:25.63,0:05:26.68,Default,Jinshi,0,0,0,,Wyglądasz strasznie!
+Dialogue: 0,0:05:31.15,0:05:33.35,Default,Jinshi,0,0,0,,Przestań, błagam…
+Dialogue: 0,0:05:33.35,0:05:37.69,italics,Maomao,0,0,0,,To tylko sprawia, że jeszcze\Nbardziej chcę się powygłupiać.
+Dialogue: 0,0:05:38.78,0:05:39.54,Default,Basen,0,0,0,,Wchodzę.
+Dialogue: 0,0:05:39.54,0:05:41.15,Default,Jinshi,0,0,0,,No daj już spokój…
+Dialogue: 0,0:05:56.79,0:06:00.04,italics,Maomao,0,0,0,,Jeszcze nigdy nie byliśmy tak zgrani…
+Dialogue: 0,0:06:02.97,0:06:06.85,Ep_Title,Text,0,0,0,,{\fad(430,470)\fscx95}Odcinek 55: Zakład
+Dialogue: 0,0:06:12.45,0:06:15.44,italics,Maomao,0,0,0,,Rozmowy, dobre sobie…
+Dialogue: 0,0:06:16.17,0:06:18.55,italics,Maomao,0,0,0,,Ten pośrodku to pewnie właściciel ziemi.
+Dialogue: 0,0:06:22.56,0:06:24.99,Default,Basen,0,0,0,,Musiałaś przychodzić z nami?
+Dialogue: 0,0:06:24.99,0:06:27.16,Default,Maomao,0,0,0,,Guen mnie o to poprosił.
+Dialogue: 0,0:06:27.16,0:06:29.71,Default,Maomao,0,0,0,,Gdybym nie przyszła,\Nbyłoby mi go szkoda.
+Dialogue: 0,0:06:30.11,0:06:32.26,Default,Basen,0,0,0,,Nie musisz mówić tego w ten sposób…
+Dialogue: 0,0:06:35.09,0:06:38.59,Default,Basen,0,0,0,,Swoją drogą, jak na tak\Nniewielki lokal, mają tu sporo alkoholu.
+Dialogue: 0,0:06:39.67,0:06:43.30,italics,Maomao,0,0,0,,Serwują tu głównie mętne sake,\Nktóre widać na półkach.
+Dialogue: 0,0:06:43.30,0:06:46.22,italics,Maomao,0,0,0,,Klarowane znajduje się\Nw wielkich beczkach na tyłach.
+Dialogue: 0,0:06:46.77,0:06:50.79,italics,Maomao,0,0,0,,W stolicy większym wzięciem\Ncieszy się sake klarowane i destylaty
+Dialogue: 0,0:06:50.79,0:06:54.71,italics,Maomao,0,0,0,,Tutaj z kolei pija się\Ngłównie mętny trunek.
+Dialogue: 0,0:06:54.71,0:06:57.32,Default,Landlord,0,0,0,,Rozumiem, że pieniądze\Nmacie przygotowane?
+Dialogue: 0,0:06:57.32,0:06:59.86,italics,Maomao,0,0,0,,Mają przewagę liczebną.
+Dialogue: 0,0:06:59.86,0:07:01.98,italics,Maomao,0,0,0,,Dokąd uciec,\Ngdyby doszło do bójki…
+Dialogue: 0,0:07:01.98,0:07:04.09,Default,Husband,0,0,0,,Przecież termin spłaty\Njeszcze nie minął.
+Dialogue: 0,0:07:04.09,0:07:07.30,Default,Landlord,0,0,0,,Jeśli nie macie z czego zapłacić,\Nwynoście się z tej ziemi.
+Dialogue: 0,0:07:07.30,0:07:09.95,Default,Husband,0,0,0,,Nie mógłby pan tego\Njeszcze przemyśleć?
+Dialogue: 0,0:07:09.95,0:07:12.05,italics,Maomao,0,0,0,,To jest ta umowa?
+Dialogue: 0,0:07:12.45,0:07:16.14,Default,Landlord,0,0,0,,Tak jak mówiłem,\Nmogę poczekać jeszcze rok.
+Dialogue: 0,0:07:16.14,0:07:19.71,Default,Landlord,0,0,0,,Musicie tylko nauczyć\Nmoich ludzi wyrobu papieru.
+Dialogue: 0,0:07:20.12,0:07:21.88,italics,Maomao,0,0,0,,Co za cyrk…
+Dialogue: 0,0:07:21.88,0:07:26.44,italics,Maomao,0,0,0,,Nawet jeśli odroczy im spłatę,\Nto jeśli nauczą ich wyrobu papieru,
+Dialogue: 0,0:07:26.44,0:07:28.89,italics,Maomao,0,0,0,,po prostu ukradnie im fach.
+Dialogue: 0,0:07:29.41,0:07:32.81,italics,Maomao,0,0,0,,Potem przejmie status cesarskiego\Ndostawcy, przepędzi rzemieślników
+Dialogue: 0,0:07:32.81,0:07:36.21,italics,Maomao,0,0,0,,i obsadzi warsztaty swoimi ludźmi.
+Dialogue: 0,0:07:37.39,0:07:40.30,italics,Maomao,0,0,0,,Tylko że… Po co aż tak kombinować,
+Dialogue: 0,0:07:40.30,0:07:43.61,italics,Maomao,0,0,0,,skoro mógłby użyć długu\Ni zmusić ich do pracy dla siebie?
+Dialogue: 0,0:07:43.61,0:07:45.86,italics,Maomao,0,0,0,,Aż tak nie cierpi przyjezdnych?
+Dialogue: 0,0:07:58.40,0:08:02.67,italics,Maomao,0,0,0,,Dokument ma podobno ponad dziesięć lat,\Na papier wciąż jest w świetnym stanie.
+Dialogue: 0,0:08:03.20,0:08:06.42,italics,Maomao,0,0,0,,Gdyby był marnej jakości,\Njuż dawno by się rozpadł.
+Dialogue: 0,0:08:06.88,0:08:09.26,italics,Maomao,0,0,0,,Zapisano tu dwudziestoletni\Nokres spłaty,
+Dialogue: 0,0:08:09.26,0:08:12.12,italics,Maomao,0,0,0,,oraz wysokość miesięcznych rat.
+Dialogue: 0,0:08:12.82,0:08:16.95,italics,Maomao,0,0,0,,Skoro mają tak porządnie sporządzoną\Numowę, o co w ogóle cały ten spór?
+Dialogue: 0,0:08:17.47,0:08:20.16,Default,Younger Son,0,0,0,,Twierdzi, że ta umowa jest nieważna.
+Dialogue: 0,0:08:20.16,0:08:21.62,Default,Maomao,0,0,0,,Przez pieczęć?
+Dialogue: 0,0:08:22.03,0:08:24.60,Default,Maomao,0,0,0,,Powinna być warta tyle, co podpis.
+Dialogue: 0,0:08:25.10,0:08:26.82,Default,Younger Son,0,0,0,,To prawda, ale…
+Dialogue: 0,0:08:26.82,0:08:30.07,Default,Younger Son,0,0,0,,Mówi, że poprzedni dziedzic\Nnie umiał czytać ani pisać.
+Dialogue: 0,0:08:30.07,0:08:33.39,italics,Maomao,0,0,0,,Jako właściciel ziemski musiał\Nczęsto przeglądać dokumenty,
+Dialogue: 0,0:08:33.39,0:08:36.50,italics,Maomao,0,0,0,,więc powinien posiadać\Nchociaż podstawowe wykształcenie…
+Dialogue: 0,0:08:36.50,0:08:38.82,Default,Younger Son,0,0,0,,Poprzedni właściciel\Nwżenił się w tę rodzinę.
+Dialogue: 0,0:08:38.82,0:08:41.43,italics,Maomao,0,0,0,,Teraz rozumiem.
+Dialogue: 0,0:08:39.16,0:08:44.62,sign_12448_106_Wife,Text,0,0,0,,{\pos(235,47)}Żona
+Dialogue: 0,0:08:42.29,0:08:44.62,sign_12448_106_Wife,Text,0,0,0,,{\move(0,35,145,35,0,774)\frz4\fs10}Mąż
+Dialogue: 0,0:08:44.62,0:08:47.26,sign_12448_106_Wife,Text,0,0,0,,{\an8\pos(218.667,17.333)}Mąż
+Dialogue: 0,0:08:41.43,0:08:45.00,italics,Maomao,0,0,0,,Czyli pewnie był pracowitym\Nchłopem, którego wzięli na zięcia.
+Dialogue: 0,0:08:45.00,0:08:47.26,italics,Maomao,0,0,0,,W takim razie mógł\Nnie mieć okazji do nauki.
+Dialogue: 0,0:08:47.53,0:08:51.63,Default,Younger Son,0,0,0,,Normalnie umowę spisałaby\Njego żona, ale wtedy już nie żyła.
+Dialogue: 0,0:08:51.63,0:08:55.47,Default,Younger Son,0,0,0,,Poproszono więc skrybę\No pomoc w spisaniu tej umowy.
+Dialogue: 0,0:08:55.47,0:08:56.45,Default,Maomao,0,0,0,,Hmm.
+Dialogue: 0,0:08:56.96,0:09:01.77,Default,Maomao,0,0,0,,Ale przy zawieraniu umowy musiał być\Nobecny jakiś świadek, prawda?
+Dialogue: 0,0:09:01.77,0:09:04.77,sign_12448_106_Wife,Text,0,0,0,,{\fad(0,936)\frz6.556\pos(161,42.334)}Świadek
+Dialogue: 0,0:09:01.77,0:09:03.76,sign_12448_106_Wife,Text,0,0,0,,{\fad(0,927)\fs10\pos(315.666,132)}Skryba
+Dialogue: 0,0:09:01.77,0:09:08.81,sign_12448_106_Wife,Text,0,0,0,,{\fs10\pos(476.667,139.667)\frx358\fry342}Mąż
+Dialogue: 0,0:09:02.04,0:09:05.46,Default,Younger Son,0,0,0,,Zarówno świadek,\Njak i skryba już nie żyją.
+Dialogue: 0,0:09:05.46,0:09:08.82,Default,Younger Son,0,0,0,,Już wtedy, piętnaście lat temu,\Nobaj byli w podeszłym wieku.
+Dialogue: 0,0:09:09.12,0:09:11.21,italics,Maomao,0,0,0,,Co za bałagan…
+Dialogue: 0,0:09:12.06,0:09:15.67,Default,Landlord,0,0,0,,Cóż począć.\NSkoro nie chcecie się wynieść,
+Dialogue: 0,0:09:15.67,0:09:17.58,Default,Landlord,0,0,0,,przyślę wam moich młodych pracowników.
+Dialogue: 0,0:09:17.58,0:09:20.56,Default,Landlord,0,0,0,,Dopilnujcie, by nauczyli się\Nfachu do końca roku.
+Dialogue: 0,0:09:21.62,0:09:24.06,Default,Landlord,0,0,0,,Dobra, skoro sprawa załatwiona,
+Dialogue: 0,0:09:24.06,0:09:26.83,Default,Landlord,0,0,0,,dajcie no tu alkoholu! Im też nalej!
+Dialogue: 0,0:09:32.67,0:09:33.30,Default,Maomao,0,0,0,,Hmm?
+Dialogue: 0,0:09:35.89,0:09:38.89,italics,Maomao,0,0,0,,Piją klarowne zamiast mętnego?
+Dialogue: 0,0:09:45.22,0:09:47.37,italics,Maomao,0,0,0,,A właściciel pije destylat…
+Dialogue: 0,0:09:47.37,0:09:49.65,italics,Maomao,0,0,0,,Musi mieć naprawdę mocną głowę.
+Dialogue: 0,0:09:50.44,0:09:56.58,italics,Maomao,0,0,0,,Swoją drogą, stawia wszystkim\Nklarowane sake? Ale ma gest.
+Dialogue: 0,0:09:56.86,0:09:59.60,italics,Maomao,0,0,0,,Przecież mają tu znacznie tańsze trunki.
+Dialogue: 0,0:10:00.22,0:10:01.54,Default,Maomao,0,0,0,,Przepraszam!
+Dialogue: 0,0:10:01.54,0:10:02.37,Default,Madam,0,0,0,,O co chodzi?
+Dialogue: 0,0:10:02.37,0:10:05.33,Default,Maomao,0,0,0,,Poproszę czarkę tego samego.
+Dialogue: 0,0:10:07.26,0:10:09.41,italics,Maomao,0,0,0,,Pan Jinshi też to zauważył…
+Dialogue: 0,0:10:15.42,0:10:18.02,italics,Maomao,0,0,0,,Łagodny, słodki smak.
+Dialogue: 0,0:10:18.02,0:10:21.54,italics,Maomao,0,0,0,,Całkiem niezłe, choć nie tak dobrze\Noczyszczone jak trunki ze stolicy.
+Dialogue: 0,0:10:21.54,0:10:25.14,italics,Maomao,0,0,0,,Mimo łagodnego smaku,\Nalkohol daje o sobie znać.
+Dialogue: 0,0:10:25.81,0:10:29.77,Default,Maomao,0,0,0,,Przepraszam, czy w tej\Nokolicy jest jakaś destylarnia?
+Dialogue: 0,0:10:29.77,0:10:33.52,Default,Madam,0,0,0,,Nie, nie przypominam sobie.
+Dialogue: 0,0:10:33.52,0:10:34.45,Default,Maomao,0,0,0,,Tak myślałam…
+Dialogue: 0,0:10:36.35,0:10:40.63,flashback italics,Jinshi,0,0,0,,Ilość ryżu wysyłanego z tego regionu\Nw ostatnich latach jest podejrzana.
+Dialogue: 0,0:10:48.75,0:10:51.26,Default,Landlord,0,0,0,,Czego chcesz, panienko?
+Dialogue: 0,0:10:51.26,0:10:53.13,Default,Landlord,0,0,0,,Przyszłaś mi polać?
+Dialogue: 0,0:10:54.03,0:10:56.76,Default,Guen,0,0,0,,Panienko! Co ty wyprawiasz?
+Dialogue: 0,0:11:02.12,0:11:04.96,Default,Maomao,0,0,0,,Może sprawdzimy, kto wypije więcej?
+Dialogue: 0,0:11:09.33,0:11:12.78,Default,Landlord,0,0,0,,Zawody w piciu? Niezły masz tupet, mała!
+Dialogue: 0,0:11:18.10,0:11:20.77,Default,Maomao,0,0,0,,Ile zostało wam jeszcze\Ndługu do spłacenia?
+Dialogue: 0,0:11:21.92,0:11:24.12,Default,Husband,0,0,0,,Płacimy 1000 srebrników co roku.
+Dialogue: 0,0:11:24.12,0:11:29.09,Default,Husband,0,0,0,,W tym roku zapłaciliśmy\Njuż połowę, więc zostało 4500.
+Dialogue: 0,0:11:29.09,0:11:30.00,Default,Maomao,0,0,0,,Rozumiem.
+Dialogue: 0,0:11:33.38,0:11:35.97,Default,Maomao,0,0,0,,Skoro już przy tym\Njesteśmy, zróbmy mały zakład.
+Dialogue: 0,0:11:35.97,0:11:39.22,Default,Landlord,0,0,0,,Ciekawe. I co niby postawisz na szali?
+Dialogue: 0,0:11:39.22,0:11:40.85,Default,Maomao,0,0,0,,Siebie, oczywiście!
+Dialogue: 0,0:11:42.38,0:11:45.52,Default,Maomao,0,0,0,,Gdyby mnie sprzedać, spokojnie\Ndostałby pan ze 300 srebrników.
+Dialogue: 0,0:11:49.74,0:11:53.50,Default,Farmer 1,0,0,0,,Panienko, masz ty w ogóle\Npojęcie o cenach na rynku?
+Dialogue: 0,0:11:53.50,0:11:58.57,italics,Maomao,0,0,0,,Myślisz, że mało sprzedanych\Ndziewczyn widziałam w życiu?
+Dialogue: 0,0:11:58.57,0:12:01.56,Default,Farmer 1,0,0,0,,Nawet za najlepszą sztukę\Nnikt nie da stu srebrników!
+Dialogue: 0,0:12:01.56,0:12:03.78,Default,Farmer 1,0,0,0,,A ta wyskakuje z trzystoma!
+Dialogue: 0,0:12:08.53,0:12:15.38,Default,Maomao,0,0,0,,Nic dziwnego, że za brudną rzepę\Nnie dostajesz nawet 50 srebrników.
+Dialogue: 0,0:12:15.38,0:12:17.92,Default,Maomao,0,0,0,,Żeby nie wiedzieć tak\Noczywistych rzeczy…
+Dialogue: 0,0:12:17.92,0:12:19.41,Default,Farmer 1,0,0,0,,Coś ty powiedziała?
+Dialogue: 0,0:12:23.57,0:12:28.19,italics,Maomao,0,0,0,,Chyba zrozumiał, że ta rzepa\Nmiała symbolizować wiejską dziewuchę.
+Dialogue: 0,0:12:28.72,0:12:30.70,Default,Farmer 1,0,0,0,,Powtórz to jeszcze raz!
+Dialogue: 0,0:12:30.70,0:12:35.38,Default,Maomao,0,0,0,,Skoro nie umiecie czytać ani pisać,\Npapier i tak na nic się wam nie przyda.
+Dialogue: 0,0:12:35.38,0:12:38.55,Default,Maomao,0,0,0,,Nawet jeśli nauczą was procesu,\Nwątpię, że sobie poradzicie.
+Dialogue: 0,0:12:39.71,0:12:41.36,Default,Farmer 1,0,0,0,,Ty mała…
+Dialogue: 0,0:12:49.24,0:12:53.62,Default,Jinshi,0,0,0,,Trzysta srebrników za tę\Ndziewczynę to jak za darmo.
+Dialogue: 0,0:12:53.89,0:12:57.41,italics,Maomao,0,0,0,,Normalnie powiedziałabym, żeby nie\Nobnosił się tak swoim bogactwem,
+Dialogue: 0,0:12:57.41,0:12:58.84,italics,Maomao,0,0,0,,ale muszę iść za ciosem.
+Dialogue: 0,0:13:01.71,0:13:04.76,Default,Maomao,0,0,0,,Proszę bardzo,\Nwidać, kto tu ma dobre oko.
+Dialogue: 0,0:13:05.93,0:13:09.74,Default,Farmer 1,0,0,0,,Pokażmy im, na co nas stać!
+Dialogue: 0,0:13:10.66,0:13:12.60,Default,Landlord,0,0,0,,A ty co się tak nagle rządzisz?
+Dialogue: 0,0:13:13.58,0:13:17.98,Default,Landlord,0,0,0,,Ale skoro macie zabezpieczenie\Nw postaci srebra, to mnie pasuje.
+Dialogue: 0,0:13:18.80,0:13:20.57,italics,Maomao,0,0,0,,Połknął haczyk.
+Dialogue: 0,0:13:24.08,0:13:27.29,Default,Maomao,0,0,0,,No dobrze, to od kogo zaczynamy?
+Dialogue: 0,0:13:32.38,0:13:34.50,Default,Farmer 1,0,0,0,,Ja pójdę na pierwszy ogień!
+Dialogue: 0,0:13:34.97,0:13:37.31,Default,Maomao,0,0,0,,W takim razie zaczynajmy.
+Dialogue: 0,0:13:50.44,0:13:51.85,Default,Younger Son,0,0,0,,To jakiś żart…
+Dialogue: 0,0:13:52.57,0:13:54.31,Default,Maomao,0,0,0,,Tylko na tyle cię stać?
+Dialogue: 0,0:13:55.51,0:13:57.90,Default,Husband,0,0,0,,Przecież to mocny destylat…
+Dialogue: 0,0:14:00.02,0:14:05.02,italics,Maomao,0,0,0,,Wyciągnęli wysokoprocentowy trunek,\Nżeby szybko zwalić mnie z nóg.
+Dialogue: 0,0:14:05.02,0:14:07.08,italics,Maomao,0,0,0,,Do takich alkoholi\Njestem przyzwyczajona.
+Dialogue: 0,0:14:07.99,0:14:11.39,Default,Jinshi,0,0,0,,Trzysta srebrników, powiadasz?\NCałkiem niezły interes.
+Dialogue: 0,0:14:11.39,0:14:15.32,italics,Maomao,0,0,0,,Nie mogę pozwolić,\Nżeby ten gość znowu mnie wykupił…
+Dialogue: 0,0:14:16.71,0:14:18.13,italics,Maomao,0,0,0,,To już czwarty.
+Dialogue: 0,0:14:18.60,0:14:21.43,italics,Maomao,0,0,0,,300 od głowy, a potem podwajam\Nstawkę za kolejnych:
+Dialogue: 0,0:14:21.43,0:14:25.13,italics,Maomao,0,0,0,,600, 1200, 2400…
+Dialogue: 0,0:14:25.55,0:14:30.20,italics,Maomao,0,0,0,,Skoro zostało 4500 długu,\Nwystarczy, że położę jeszcze jednego.
+Dialogue: 0,0:14:30.69,0:14:34.87,italics,Maomao,0,0,0,,Na wszelki wypadek kazałam im\Nspisać pokwitowanie odciskiem dłoni.
+Dialogue: 0,0:14:37.30,0:14:39.02,Default,Landlord,0,0,0,,A może teraz zmierzysz się ze mną?
+Dialogue: 0,0:14:39.48,0:14:45.02,italics,Maomao,0,0,0,,Dam jeszcze radę? Po czterech rundach\Nalkohol zaczyna dawać się we znaki.
+Dialogue: 0,0:14:45.48,0:14:47.99,Default,Landlord,0,0,0,,Nie myśl, że jestem taki jak reszta.
+Dialogue: 0,0:14:49.89,0:14:52.70,Default,Landlord,0,0,0,,A ty nawet nie waż się teraz wycofać.
+Dialogue: 0,0:14:57.15,0:14:59.39,Default,Farmer 2,0,0,0,,Ej, co ty tam kombinujesz?
+Dialogue: 0,0:14:59.39,0:15:01.17,Default,Maomao,0,0,0,,Troszkę zmieniam smak.
+Dialogue: 0,0:15:05.63,0:15:08.14,Default,Landlord,0,0,0,,Czekaj no, mnie też tego polej.
+Dialogue: 0,0:15:12.82,0:15:13.60,Default,Farmer 2,0,0,0,,Proszę.
+Dialogue: 0,0:15:15.55,0:15:19.56,Default,Landlord,0,0,0,,To nie jakieś lekarstwo,\Nżebyś wolniej się upijała, co?
+Dialogue: 0,0:15:42.07,0:15:43.61,Default,Farmers,0,0,0,,Proszę pana!
+Dialogue: 0,0:15:44.35,0:15:46.69,Default,Farmer 2,0,0,0,,Dosypałaś mu czegoś?
+Dialogue: 0,0:15:46.69,0:15:52.43,Default,Maomao,0,0,0,,Niby czego? Piłam dokładnie to samo.\NSami widzieliście.
+Dialogue: 0,0:15:52.43,0:15:54.33,Default,Farmer 2,0,0,0,,To prawda, ale…
+Dialogue: 0,0:15:54.33,0:15:56.88,Default,Maomao,0,0,0,,Wygląda na to, że wygrałam zakład.
+Dialogue: 0,0:16:01.39,0:16:03.24,Default,Maomao,0,0,0,,Gdzie tu jest wychodek?
+Dialogue: 0,0:16:03.83,0:16:05.56,Default,Madam,0,0,0,,Jak wyjdziesz, to w prawo.
+Dialogue: 0,0:16:05.56,0:16:06.93,Default,Maomao,0,0,0,,Dziękuję.
+Dialogue: 0,0:16:19.78,0:16:22.31,Default,Husband,0,0,0,,Coś ty tam właściwie dolała?
+Dialogue: 0,0:16:22.31,0:16:27.59,Default,Maomao,0,0,0,,Nic specjalnego.\NDolałam po prostu czystego alkoholu.
+Dialogue: 0,0:16:28.58,0:16:33.05,italics,Maomao,0,0,0,,Na wszelki wypadek zawsze noszę\Nprzy sobie spirytus do odkażania ran.
+Dialogue: 0,0:16:33.05,0:16:35.57,italics,Maomao,0,0,0,,Ma znacznie wyższe\Nstężenie niż zwykłe trunki,
+Dialogue: 0,0:16:35.57,0:16:38.13,italics,Maomao,0,0,0,,więc przeciętna osoba\Nod razu po nim padnie.
+Dialogue: 0,0:16:38.13,0:16:39.99,Default,Husband,0,0,0,,Mogę o coś zapytać?
+Dialogue: 0,0:16:39.99,0:16:41.14,Default,Maomao,0,0,0,,Co takiego?
+Dialogue: 0,0:16:41.14,0:16:45.77,Default,Husband,0,0,0,,Ty też się tego napiłaś, prawda?
+Dialogue: 0,0:16:46.05,0:16:48.02,Default,Maomao,0,0,0,,Tyle to dla mnie nic.
+Dialogue: 0,0:16:48.02,0:16:50.11,Default,Maomao,0,0,0,,Chciałam mieć to już z głowy.
+Dialogue: 0,0:16:53.42,0:16:55.98,Default,Maomao,0,0,0,,Całe szczęście, że zdążyłam do wychodka.
+Dialogue: 0,0:16:57.03,0:17:02.47,Default,Husband,0,0,0,,Nawet jeśli byłaś pewna swego, stawianie\Nsiebie w zakładzie to lekka przesada.
+Dialogue: 0,0:17:02.47,0:17:04.54,Default,Husband,0,0,0,,A w szczególności dla naszego dobra…
+Dialogue: 0,0:17:06.23,0:17:08.99,Default,Maomao,0,0,0,,Chyba doszło tu do nieporozumienia.
+Dialogue: 0,0:17:09.72,0:17:11.63,Default,Maomao,0,0,0,,Te pieniądze są moje.
+Dialogue: 0,0:17:12.71,0:17:16.79,Default,Guen,0,0,0,,Zaczekaj no, panienko…\NNie bądź taka bezduszna.
+Dialogue: 0,0:17:16.79,0:17:19.01,Default,Landlord,0,0,0,,Ej, chwileczkę!
+Dialogue: 0,0:17:19.01,0:17:21.14,Default,Maomao,0,0,0,,Powinien pan jeszcze chwilę poleżeć.
+Dialogue: 0,0:17:21.14,0:17:22.94,Default,Landlord,0,0,0,,Ten cały zakład jest nieważny!
+Dialogue: 0,0:17:23.33,0:17:27.14,Default,Maomao,0,0,0,,Mam tutaj pokwitowanie.\NJest odcisk dłoni i podpis.
+Dialogue: 0,0:17:27.14,0:17:29.19,Default,Maomao,0,0,0,,Co, może nagle nie potrafisz czytać?
+Dialogue: 0,0:17:29.19,0:17:31.29,Default,Landlord,0,0,0,,A co mnie to obchodzi!
+Dialogue: 0,0:17:31.29,0:17:35.00,Default,Landlord,0,0,0,,To były tylko pijackie wygłupy!\NZakład się nie liczy, koniec kropka!
+Dialogue: 0,0:17:35.00,0:17:37.36,Default,Maomao,0,0,0,,W takim razie chyba nie mam wyboru.
+Dialogue: 0,0:17:37.36,0:17:42.66,Default,Maomao,0,0,0,,Chyba będę musiała donieść,\Nże oszukujecie na podatkach.
+Dialogue: 0,0:17:50.17,0:17:52.38,Default,Older Son,0,0,0,,Oszukują na podatkach?
+Dialogue: 0,0:17:52.38,0:17:54.02,Default,Husband,0,0,0,,O czym ty mówisz?
+Dialogue: 0,0:17:54.02,0:17:57.26,Default,Maomao,0,0,0,,Na wyrób alkoholu potrzebne\Njest państwowe zezwolenie.
+Dialogue: 0,0:17:57.56,0:17:59.07,Default,Maomao,0,0,0,,Co innego na własny użytek,
+Dialogue: 0,0:17:59.07,0:18:03.22,Default,Maomao,0,0,0,,ale jeśli trunek idzie na sprzedaż,\Npodlega to opodatkowaniu.
+Dialogue: 0,0:18:03.72,0:18:09.36,italics,Maomao,0,0,0,,Zastanawiałam się, dlaczego\Nta gospoda gości takie spotkania.
+Dialogue: 0,0:18:10.07,0:18:14.78,italics,Maomao,0,0,0,,Stałe dostawy taniego, dobrego trunku\Nto dla gospody duże wsparcie.
+Dialogue: 0,0:18:14.78,0:18:16.78,italics,Maomao,0,0,0,,Jeśli o przysługę poprosił sam dostawca,
+Dialogue: 0,0:18:16.78,0:18:19.78,italics,Maomao,0,0,0,,właściciele na pewno\Nzgodziliby się udostępnić mu lokal.
+Dialogue: 0,0:18:20.45,0:18:24.78,italics,Maomao,0,0,0,,Skoro właściciel zatrudniał\Nchłopów do warzenia mętnego sake,
+Dialogue: 0,0:18:24.78,0:18:27.32,italics,Maomao,0,0,0,,zamówił tu dla nich\Nklarowane sake.
+Dialogue: 0,0:18:27.32,0:18:30.92,italics,Maomao,0,0,0,,Nikt przecież nie zamawiałby trunku,\Nktóry sam warzy i pije na co dzień.
+Dialogue: 0,0:18:31.35,0:18:36.00,Default,Maomao,0,0,0,,Czyżbyś oszczędzał również\Nna składnikach do produkcji alkoholu?
+Dialogue: 0,0:18:36.00,0:18:39.68,Default,Maomao,0,0,0,,Do produkcji alkoholu potrzeba\Nogromnych ilości ryżu i jęczmienia.
+Dialogue: 0,0:18:39.68,0:18:42.44,Default,Maomao,0,0,0,,Podobno wmawiał pan papiernikom,
+Dialogue: 0,0:18:42.74,0:18:47.18,Default,Maomao,0,0,0,,że zanieczyszczana przez nich woda\Nobniżyła wam plony ryżu…
+Dialogue: 0,0:18:47.18,0:18:49.47,Default,Maomao,0,0,0,,To kłamstwo, prawda?
+Dialogue: 0,0:18:49.47,0:18:52.94,Default,Maomao,0,0,0,,W rzeczywistości plony ryżu\Nsą większe niż dawniej, prawda?
+Dialogue: 0,0:18:53.38,0:18:57.46,italics,Maomao,0,0,0,,Do wyrobu papieru używa się\Notrębów ryżowych i wiórów drzewnych.
+Dialogue: 0,0:18:57.46,0:19:01.41,italics,Maomao,0,0,0,,Woda powstała w wyniku produkcji\Ndziała wręcz jak doskonały nawóz.
+Dialogue: 0,0:19:02.31,0:19:05.31,italics,Maomao,0,0,0,,Poprzedni właściciel musiał\Nzdawać sobie z tego sprawę.
+Dialogue: 0,0:19:05.31,0:19:10.92,italics,Maomao,0,0,0,,Obecny jednak, chcąc ukryć nadwyżkę\Nzbiorów, zaczął produkować alkohol.
+Dialogue: 0,0:19:11.59,0:19:14.34,Default,Maomao,0,0,0,,Podwójne oszustwo podatkowe\Nto ciężkie przestępstwo.
+Dialogue: 0,0:19:16.10,0:19:19.30,italics,Maomao,0,0,0,,Sądząc po jego reakcji,\Ntrafiłam w dziesiątkę.
+Dialogue: 0,0:19:19.30,0:19:21.71,Default,Farmer 3,0,0,0,,Masz jakieś dowody?
+Dialogue: 0,0:19:21.71,0:19:24.38,Default,Maomao,0,0,0,,Proszę się nie martwić.\NJeśli jesteście niewinni,
+Dialogue: 0,0:19:24.38,0:19:27.52,Default,Maomao,0,0,0,,to przeszukanie waszych domów\Nniczego nie wykaże.
+Dialogue: 0,0:19:29.15,0:19:31.91,Default,Landlord,0,0,0,,Wyszczekana jesteś, panienko.
+Dialogue: 0,0:19:31.91,0:19:35.19,Default,Landlord,0,0,0,,Myślisz, że takie pogrywanie\Nze mną ujdzie ci na sucho?
+Dialogue: 0,0:19:35.19,0:19:38.53,Default,Maomao,0,0,0,,Mogę odpowiedzieć\Ndokładnie tym samym.
+Dialogue: 0,0:19:38.53,0:19:40.65,Default,Maomao,0,0,0,,Radzę najpierw ocenić swoją sytuację.
+Dialogue: 0,0:19:47.84,0:19:50.39,Default,Maomao,0,0,0,,Może pan śmiało wołać na pomoc.
+Dialogue: 0,0:19:50.39,0:19:53.71,Default,Maomao,0,0,0,,Ja w odpowiedzi zwołam urzędników.
+Dialogue: 0,0:19:54.19,0:19:58.59,italics,Maomao,0,0,0,,Prawdę mówiąc, siedzą tu ludzie\Nznacznie groźniejsi niż byle urzędnicy.
+Dialogue: 0,0:20:00.33,0:20:04.46,Default,Guen,0,0,0,,Panienko, zachowujesz się\Ndzisiaj inaczej niż zwykle…
+Dialogue: 0,0:20:05.67,0:20:09.39,Default,Maomao,0,0,0,,Jeśli komuś grozisz,\Nmusisz być gotów na odwet.
+Dialogue: 0,0:20:13.14,0:20:16.95,Default,Maomao,0,0,0,,Miałeś w ogóle jakiś powód,\Nżeby aż tak uprzykrzać im życie?
+Dialogue: 0,0:20:21.62,0:20:23.66,Default,Daughter,0,0,0,,Proszę przestać! To okrutne!
+Dialogue: 0,0:20:25.71,0:20:27.58,Default,Younger Son,0,0,0,,Ale to wcale nie my…
+Dialogue: 0,0:20:27.58,0:20:32.10,Default,Daughter,0,0,0,,Przepraszam! Mój ojciec pewnie\Nznów postawił wam niedorzeczne żądania.
+Dialogue: 0,0:20:32.10,0:20:34.88,Default,Daughter,0,0,0,,Błagam, wybaczcie mojemu głupiemu ojcu!
+Dialogue: 0,0:20:36.19,0:20:39.75,Default,Older Son,0,0,0,,Nie zamierzamy\Nskrzywdzić twojego ojca.
+Dialogue: 0,0:20:41.27,0:20:44.28,Default,Landlord,0,0,0,,Ej, ty! Łapy precz od mojej córki!
+Dialogue: 0,0:20:44.28,0:20:45.14,Default,Daughter,0,0,0,,Ojcze!
+Dialogue: 0,0:20:45.14,0:20:45.88,Default,Older Son,0,0,0,,Tato!
+Dialogue: 0,0:20:45.88,0:20:48.62,Default,Landlord,0,0,0,,Nie jestem twoim ojcem!
+Dialogue: 0,0:20:48.62,0:20:51.10,italics,Maomao,0,0,0,,Co to za dziwna atmosfera?
+Dialogue: 0,0:20:51.10,0:20:52.52,Default,Maomao,0,0,0,,Czyżby…
+Dialogue: 0,0:20:53.01,0:20:55.44,Default,Younger Son,0,0,0,,Jest tak, jak myślisz.
+Dialogue: 0,0:20:56.04,0:20:59.16,italics,Maomao,0,0,0,,Teraz rozumiem, dlaczego starszy\Nsyn trzymał stronę rolników
+Dialogue: 0,0:20:59.16,0:21:03.43,italics,Maomao,0,0,0,,i dlaczego właściciel nie cierpi\Nprzyjezdnych i próbuje się ich pozbyć.
+Dialogue: 0,0:21:05.65,0:21:06.86,Default,Maomao,0,0,0,,Co za głupota…
+Dialogue: 0,0:21:07.24,0:21:09.52,Default,Younger Son,0,0,0,,Mój brat, jak już się\Nzakocha, to na zabój.
+Dialogue: 0,0:21:10.75,0:21:14.75,Default,Jinshi,0,0,0,,To nie powód, by niszczyć całą wieś.
+Dialogue: 0,0:21:14.75,0:21:19.92,italics,Maomao,0,0,0,,W sumie ten starszy syn\Njest spokrewniony z naszym lekarzyną.
+Dialogue: 0,0:21:21.88,0:21:25.49,italics,Maomao,0,0,0,,Chyba wypadałoby przymknąć na to oko…
+Dialogue: 0,0:21:25.91,0:21:27.80,italics,Maomao,0,0,0,,Akurat!
+Dialogue: 0,0:21:27.80,0:21:30.30,Default,Maomao,0,0,0,,Przepraszam. Poproszę następną kolejkę!
+Dialogue: 0,0:21:30.64,0:21:32.27,Default,Madam,0,0,0,,Jeszcze będziesz pić?
+Dialogue: 0,0:21:32.27,0:21:34.18,Default,Maomao,0,0,0,,Dopiero się rozkręcam.
+Dialogue: 0,0:21:45.21,0:21:49.70,italics,Maomao,0,0,0,,Stanęło na tym, że dług będzie\Nspłacany przez kolejne pięć lat.
+Dialogue: 0,0:21:50.61,0:21:52.84,italics,Maomao,0,0,0,,Jeśli zaś chodzi o zakład z dziedzicem,
+Dialogue: 0,0:21:52.84,0:21:57.87,italics,Maomao,0,0,0,,dogadaliśmy się, że przez najbliższe\Ndziesięć lat będą wysyłać do nas ryż.
+Dialogue: 0,0:21:59.39,0:22:04.61,italics,Maomao,0,0,0,,A co do dalszych losów starszego\Nsyna i córki właściciela ziemskiego…
+Dialogue: 0,0:22:06.05,0:22:07.64,Default,Maomao,0,0,0,,A co mnie to obchodzi.
+Dialogue: 0,0:22:14.98,0:22:18.98,italics,proof_credits,0,0,0,,Tłumaczenie: Jakub Siodłak\NKorekta: Michał Sienkiewicz; FORCE MEDIA
+Dialogue: 0,0:23:45.07,0:24:00.00,Next_Time,Text,0,0,0,,{\fscx105\fsp0.2\blur1}W następnym odcinku
+Dialogue: 0,0:23:53.51,0:23:57.44,italicstop,Narrator,0,0,0,,W następnym odcinku:\N„Konopie i wierzenia ludowe”.
+Dialogue: 0,0:23:53.58,0:24:00.00,Next_Ep_Title,Text,0,0,0,,{\fad(479,1)\fscx90}Odcinek 56: Konopie i wierzenia ludowe
+
