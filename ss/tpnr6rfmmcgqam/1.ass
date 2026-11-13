@@ -1,0 +1,225 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
+Style: Q0,Roboto Medium,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q1,Roboto Medium,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q2,Arial,21,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q3,Arial,21,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:02.00,0:00:07.42,Q0,,0,0,0,,For Some Reason, the Dark Summoner's a Pre-Schooler
+Dialogue: 1,0:00:02.83,0:00:06.83,Q1,,0,0,0,,"For Some Reason,\Nthe Dark Summoner's a Pre-Schooler."
+Dialogue: 1,0:00:08.50,0:00:12.29,Q1,,0,0,0,,This is Daikusamona Preschool.
+Dialogue: 1,0:00:12.29,0:00:17.67,Q1,,0,0,0,,Many types of children find\Nthemselves here again today,
+Dialogue: 1,0:00:17.67,0:00:20.50,Q1,,0,0,0,,brimming with unique personality.
+Dialogue: 1,0:00:22.08,0:00:24.67,Q1,,0,0,0,,So, is anything worrying you, Haru-chan?
+Dialogue: 1,0:00:24.67,0:00:31.67,Q1,,0,0,0,,Today, it would seem that Roni-sensei\Nis playing counselor with the children.
+Dialogue: 1,0:00:32.67,0:00:34.75,Q1,,0,0,0,,My worry?
+Dialogue: 1,0:00:34.75,0:00:37.00,Q1,,0,0,0,,That I don't get enough candy!
+Dialogue: 1,0:00:37.00,0:00:38.17,Q1,,0,0,0,,Wait, really?
+Dialogue: 1,0:00:38.17,0:00:39.25,Q1,,0,0,0,,Yeah!
+Dialogue: 1,0:00:39.25,0:00:43.42,Q1,,0,0,0,,Candy's tasty, so why does everybody\Nonly get to eat a little bit?
+Dialogue: 1,0:00:44.13,0:00:48.79,Q1,,0,0,0,,It'd be great to eat lots and lots of\Nyummy stuff, so why can't we?
+Dialogue: 1,0:00:48.79,0:00:51.17,Q1,,0,0,0,,Is holding back fun somehow?
+Dialogue: 1,0:00:51.17,0:00:54.04,Q1,,0,0,0,,Ah, I mean, it's because of\Ncalories and everything...
+Dialogue: 1,0:00:54.04,0:00:56.63,Q1,,0,0,0,,People who like holding back\Nare perverts, right?
+Dialogue: 1,0:00:57.17,0:00:58.71,Q1,,0,0,0,,I don't think I can just let that one slide...
+Dialogue: 1,0:00:58.71,0:01:04.00,Q1,,0,0,0,,We should get to eat candy for\Nbreakfast, lunch, and dinner!
+Dialogue: 1,0:01:04.00,0:01:06.88,Q1,,0,0,0,,Listen, it's true that candy is yummy,
+Dialogue: 1,0:01:06.88,0:01:09.83,Q1,,0,0,0,,but it doesn't have much of\Nthe nutrients you need to grow.
+Dialogue: 1,0:01:09.83,0:01:12.38,Q1,,0,0,0,,You've got to eat right if you want to\Ngrow up big and strong.
+Dialogue: 1,0:01:12.38,0:01:14.04,Q1,,0,0,0,,Really?!
+Dialogue: 1,0:01:14.04,0:01:15.29,Q1,,0,0,0,,That's right.
+Dialogue: 1,0:01:15.29,0:01:18.17,Q1,,0,0,0,,Haru, don't go causing trouble\Nfor the teacher.
+Dialogue: 1,0:01:18.17,0:01:19.38,Q1,,0,0,0,,Okay!
+Dialogue: 1,0:01:19.38,0:01:22.92,Q1,,0,0,0,,That's Eury-chan for you.\NHaru-chan trusts her a lot more than me.
+Dialogue: 1,0:01:23.04,0:01:24.71,Q1,,0,0,0,,I have something worrying me.
+Dialogue: 1,0:01:24.71,0:01:25.38,Q1,,0,0,0,,Huh?!
+Dialogue: 1,0:01:25.38,0:01:30.08,Q1,,0,0,0,,Why am I not on that side?\NIt's seriously bugging me.
+Dialogue: 1,0:01:30.08,0:01:31.50,Q1,,0,0,0,,Wh-why's that?
+Dialogue: 1,0:01:31.50,0:01:36.29,Q1,,0,0,0,,I'm easily the most mature of all of us,\Nso why am I a pre-schooler?
+Dialogue: 1,0:01:36.29,0:01:37.13,Q1,,0,0,0,,Why?!
+Dialogue: 1,0:01:37.13,0:01:40.54,Q1,,0,0,0,,I feel like I'm going to go crazy,\Nbeing surrounded by little kids day after day!
+Dialogue: 1,0:01:40.54,0:01:42.38,Q1,,0,0,0,,Hold on! You're getting too meta!
+Dialogue: 1,0:01:42.38,0:01:47.13,Q1,,0,0,0,,Why?! Tell me! Why are you\Nan adult, Roni, and I'm a kid?!
+Dialogue: 1,0:01:47.13,0:01:49.25,Q1,,0,0,0,,You've got to call me Roni-sensei, Eury-chan!
+Dialogue: 1,0:01:49.25,0:01:52.21,Q1,,0,0,0,,What am I lacking...?!
+Dialogue: 1,0:01:53.63,0:01:55.92,Q1,,0,0,0,,Could it be... my lack of mature charm...?
+Dialogue: 1,0:01:55.92,0:01:56.83,Q1,,0,0,0,,No way!
+Dialogue: 1,0:01:56.83,0:02:00.25,Q1,,0,0,0,,If that was the case, it wouldn't make sense\Nfor Amona to be a pre-schooler too!
+Dialogue: 1,0:02:02.38,0:02:03.17,Q1,,0,0,0,,Ah...!
+Dialogue: 1,0:02:03.17,0:02:07.79,Q1,,0,0,0,,True, Amona's got much bigger charms than me,
+Dialogue: 1,0:02:07.79,0:02:11.17,Q1,,0,0,0,,but she's a pre-schooler like me, huh?
+Dialogue: 1,0:02:12.13,0:02:13.42,Q1,,0,0,0,,U-um...
+Dialogue: 1,0:02:13.42,0:02:16.21,Q1,,0,0,0,,I was a fool, asking you!
+Dialogue: 1,0:02:16.67,0:02:18.29,Q1,,0,0,0,,Ah, Eury-chan!
+Dialogue: 1,0:02:20.71,0:02:21.75,Q1,,0,0,0,,Roni-sensei.
+Dialogue: 1,0:02:21.75,0:02:23.29,Q1,,0,0,0,,Ack! A-Amona-chan?
+Dialogue: 1,0:02:23.29,0:02:26.33,Q1,,0,0,0,,It's my turn to have you\Nlisten to my worries, isn't it?
+Dialogue: 1,0:02:26.33,0:02:27.58,Q1,,0,0,0,,Oh, worries?
+Dialogue: 1,0:02:27.58,0:02:30.50,Q1,,0,0,0,,What sort of worries do you have, Amona-chan?
+Dialogue: 1,0:02:30.50,0:02:32.17,Q1,,0,0,0,,I want to hurry and grow up.
+Dialogue: 1,0:02:32.71,0:02:33.63,Q1,,0,0,0,,Really?
+Dialogue: 1,0:02:33.63,0:02:35.71,Q1,,0,0,0,,What do I need to do to become an adult?
+Dialogue: 1,0:02:35.71,0:02:39.38,Q1,,0,0,0,,U-um, why exactly do you\Nwant to be an adult, Amona-chan?
+Dialogue: 1,0:02:39.38,0:02:42.83,Q1,,0,0,0,,I've gotta be an adult or\NI can't have any fun!
+Dialogue: 1,0:02:44.33,0:02:47.29,Q1,,0,0,0,,Yikes. I get the feeling asking for\Nmore details could be bad.
+Dialogue: 1,0:02:47.29,0:02:49.83,Q1,,0,0,0,,I mean, I can't ride rollercoasters!
+Dialogue: 1,0:02:49.83,0:02:52.88,Q1,,0,0,0,,Oh, because you're still not tall enough?
+Dialogue: 1,0:02:52.88,0:02:54.75,Q1,,0,0,0,,And I can't see whatever movies I want!
+Dialogue: 1,0:02:54.75,0:02:56.71,Q1,,0,0,0,,I wanna watch "The Blood-Soaked Manor!"
+Dialogue: 1,0:02:56.71,0:02:59.00,Q1,,0,0,0,,Wait, that famous gory horror film?!
+Dialogue: 1,0:02:59.00,0:02:59.88,Q1,,0,0,0,,You can't!
+Dialogue: 1,0:02:59.88,0:03:01.96,Q1,,0,0,0,,Kid's like you won't be able to\Nsleep at night after watching that.
+Dialogue: 1,0:03:01.96,0:03:05.67,Q1,,0,0,0,,I'm so frustrated I can't see it\Nthat I can only sleep at night!
+Dialogue: 1,0:03:05.67,0:03:07.33,Q1,,0,0,0,,I'm begging you, take your naps too.
+Dialogue: 1,0:03:07.33,0:03:10.21,Q1,,0,0,0,,So how can I hurry up and\Nbecome an adult?
+Dialogue: 1,0:03:10.21,0:03:12.75,Q1,,0,0,0,,But there are things you can\Nonly do when you're a kid,
+Dialogue: 1,0:03:12.75,0:03:14.38,Q1,,0,0,0,,so it's best to do that stuff now.
+Dialogue: 1,0:03:14.38,0:03:15.13,Q1,,0,0,0,,Why?!
+Dialogue: 1,0:03:15.13,0:03:18.54,Q1,,0,0,0,,You know, your teacher has\Na lot of regrets himself nowadays.
+Dialogue: 1,0:03:18.54,0:03:21.08,Q1,,0,0,0,,Every single day, I think about\Nhow I wish I was a kid.
+Dialogue: 1,0:03:21.46,0:03:23.54,Q1,,0,0,0,,Oh? What sort of regrets?
+Dialogue: 1,0:03:23.83,0:03:25.42,Q1,,0,0,0,,Um...
+Dialogue: 1,0:03:25.42,0:03:30.08,Q1,,0,0,0,,Like how it'd be nice to go to the mall and\Nget a balloon from somebody in a costume.
+Dialogue: 1,0:03:30.08,0:03:31.83,Q1,,0,0,0,,Huh? Are you a pervert?
+Dialogue: 1,0:03:31.83,0:03:34.83,Q1,,0,0,0,,See! If I did that now,\NI'd get reported for sure!
+Dialogue: 1,0:03:34.83,0:03:36.38,Q1,,0,0,0,,That's why you need to do it\Nwhile you're a kid!
+Dialogue: 1,0:03:36.38,0:03:40.00,Q1,,0,0,0,,You're all grown up and still want balloons?\NDon't even try to pretend that's normal.
+Dialogue: 1,0:03:40.00,0:03:43.21,Q1,,0,0,0,,Only kids get away with saying\Nthat sort of mean stuff too, Amona-chan.
+Dialogue: 1,0:03:43.21,0:03:45.96,Q1,,0,0,0,,That's the only good stuff\Nabout being a kid, right?
+Dialogue: 1,0:03:45.96,0:03:47.29,Q1,,0,0,0,,No, there are other things too.
+Dialogue: 1,0:03:47.29,0:03:49.33,Q1,,0,0,0,,Like sometimes, I want to eat a kid's meal.
+Dialogue: 1,0:03:49.33,0:03:54.63,Q1,,0,0,0,,But it's real sad, since most places\Nwon't even allow adults to order one.
+Dialogue: 1,0:03:54.63,0:03:58.79,Q1,,0,0,0,,I really should've gotten my fill of them\Nback when I had the chance.
+Dialogue: 1,0:03:58.96,0:04:01.08,Q1,,0,0,0,,Huh? A kid's meal...?
+Dialogue: 1,0:04:01.08,0:04:04.75,Q1,,0,0,0,,Then you've got stuff like taking lessons,\Nplus baseball and soccer.
+Dialogue: 1,0:04:04.75,0:04:08.75,Q1,,0,0,0,,Becoming an adult means you end up with\Nno time, no money, and no stamina.
+Dialogue: 1,0:04:08.75,0:04:10.58,Q1,,0,0,0,,It's a triple whammy.
+Dialogue: 1,0:04:11.92,0:04:14.46,Q1,,0,0,0,,That sounds really rough, being an adult.
+Dialogue: 1,0:04:14.46,0:04:17.96,Q1,,0,0,0,,Right? So there's no need to hurry to grow up.
+Dialogue: 1,0:04:17.96,0:04:20.96,Q1,,0,0,0,,But I don't need balloons\Nsince they deflate so quickly anyway,
+Dialogue: 1,0:04:20.96,0:04:23.71,Q1,,0,0,0,,and I like yakiniku and sushi\Nbetter than kid's meals anyway.
+Dialogue: 1,0:04:23.71,0:04:25.29,Q1,,0,0,0,,I've got no interest in lessons, either!
+Dialogue: 1,0:04:25.29,0:04:26.75,Q1,,0,0,0,,I see!
+Dialogue: 1,0:04:26.75,0:04:28.83,Q1,,0,0,0,,So I want to hurry up and become an adult!
+Dialogue: 1,0:04:28.83,0:04:31.79,Q1,,0,0,0,,How can I do it? How?
+Dialogue: 1,0:04:31.79,0:04:35.04,Q1,,0,0,0,,Well, you have to live to 18\Nto become an adult...
+Dialogue: 1,0:04:35.04,0:04:36.46,Q1,,0,0,0,,That's it?
+Dialogue: 1,0:04:36.46,0:04:38.92,Q1,,0,0,0,,But some people are still\Nkids on the inside at that point!
+Dialogue: 1,0:04:38.92,0:04:41.71,Q1,,0,0,0,,And some people are really mature\Nbefore they're fully grown, too!
+Dialogue: 1,0:04:41.71,0:04:43.17,Q1,,0,0,0,,I suppose that's true...
+Dialogue: 1,0:04:43.17,0:04:45.00,Q1,,0,0,0,,Then am I an adult on the inside?!
+Dialogue: 1,0:04:45.00,0:04:46.29,Q1,,0,0,0,,Um...
+Dialogue: 1,0:04:46.29,0:04:48.96,Q1,,0,0,0,,I mean, let's be real.\NI was an adult to begin with.
+Dialogue: 1,0:04:48.96,0:04:51.79,Q1,,0,0,0,,What's fun about pretending\Nto be a child like this?
+Dialogue: 1,0:04:51.79,0:04:54.04,Q1,,0,0,0,,Hey! Don't you go getting all meta on me too!
+Dialogue: 1,0:04:54.04,0:04:55.88,Q1,,0,0,0,,Are you trying to wreck the whole\Npreschool facade?!
+Dialogue: 1,0:04:55.88,0:04:57.25,Q1,,0,0,0,,You hate this setting that much?!
+Dialogue: 1,0:04:57.25,0:04:58.83,Q1,,0,0,0,,It's not that I hate it!
+Dialogue: 1,0:04:58.83,0:05:00.50,Q1,,0,0,0,,But becoming a kid got me thinking...
+Dialogue: 1,0:05:00.50,0:05:03.08,Q1,,0,0,0,,How does someone actually become an adult?!
+Dialogue: 1,0:05:03.08,0:05:05.17,Q1,,0,0,0,,Well, u-um...
+Dialogue: 1,0:05:05.17,0:05:07.13,Q1,,0,0,0,,You know you're an adult\Nwhen you catch yourself saying,
+Dialogue: 1,0:05:07.13,0:05:08.75,Q1,,0,0,0,,"I wish I could be a kid again."
+Dialogue: 1,0:05:13.58,0:05:17.71,Q1,,0,0,0,,You said you wanted to be a kid,\Ndidn't you, Roni-sensei?
+Dialogue: 1,0:05:17.71,0:05:19.25,Q1,,0,0,0,,Oh, are you back in pre-schooler mode?
+Dialogue: 1,0:05:19.25,0:05:21.75,Q1,,0,0,0,,Yeah. I realized I must still be green,
+Dialogue: 1,0:05:21.75,0:05:25.29,Q1,,0,0,0,,since I never thought about\Nwanting to be a kid again.
+Dialogue: 1,0:05:25.96,0:05:27.17,Q1,,0,0,0,,I see...
+Dialogue: 1,0:05:28.46,0:05:32.46,Q1,,0,0,0,,Just another peaceful day at the pre-school.
+Dialogue: 1,0:05:38.46,0:05:43.29,Q0,,0,0,0,,Dating a Dark Summoner at a Themed Cafe
+Dialogue: 1,0:05:39.29,0:05:42.50,Q1,,0,0,0,,"Dating a Dark Summoner at a Themed Cafe."
+Dialogue: 1,0:05:44.33,0:05:47.75,Q1,,0,0,0,,This is a cafe known as Mofu Mofu Paradise.
+Dialogue: 1,0:05:48.17,0:05:53.13,Q1,,0,0,0,,Today, Roni is testing the waitresses\Non how they serve customers.
+Dialogue: 1,0:05:55.92,0:05:57.71,Q1,,0,0,0,,W-welcome.
+Dialogue: 1,0:05:57.71,0:05:59.21,Q1,,0,0,0,,How many in your party?
+Dialogue: 1,0:06:00.63,0:06:02.08,Q1,,0,0,0,,What?!
+Dialogue: 1,0:06:02.08,0:06:05.33,Q1,,0,0,0,,That's not how you\Nusually do it, is it, Eury-san?
+Dialogue: 1,0:06:06.25,0:06:09.33,Q1,,0,0,0,,I-it's just weird when it's somebody I know!
+Dialogue: 1,0:06:09.33,0:06:12.00,Q1,,0,0,0,,You need to serve all customers equally.
+Dialogue: 1,0:06:12.00,0:06:13.21,Q1,,0,0,0,,That's the job, isn't it?
+Dialogue: 1,0:06:14.04,0:06:16.71,Q1,,0,0,0,,Damn serious manager...
+Dialogue: 1,0:06:18.04,0:06:19.67,Q1,,0,0,0,,Okay, okay.
+Dialogue: 1,0:06:20.29,0:06:22.42,Q1,,0,0,0,,Welcome! A party of one, is it?
+Dialogue: 1,0:06:22.42,0:06:23.83,Q1,,0,0,0,,Please have a seat here!
+Dialogue: 1,0:06:26.04,0:06:28.00,Q1,,0,0,0,,Do you know what you would like to order?
+Dialogue: 1,0:06:28.00,0:06:29.50,Q1,,0,0,0,,Hmm, let's see...
+Dialogue: 1,0:06:29.50,0:06:31.29,Q1,,0,0,0,,Do you have any recommendations for today?
+Dialogue: 1,0:06:31.29,0:06:34.63,Q1,,0,0,0,,If you're looking for a drink,\Nhow about an iced coffee?
+Dialogue: 1,0:06:34.63,0:06:35.63,Q1,,0,0,0,,Hmm...
+Dialogue: 1,0:06:35.63,0:06:37.96,Q1,,0,0,0,,Well? You don't have any complaints, right?
+Dialogue: 1,0:06:37.96,0:06:40.04,Q1,,0,0,0,,I wouldn't say that, but...
+Dialogue: 1,0:06:40.04,0:06:41.38,Q1,,0,0,0,,how should I put it...?
+Dialogue: 1,0:06:41.38,0:06:42.88,Q1,,0,0,0,,Wh-what?
+Dialogue: 1,0:06:43.67,0:06:45.46,Q1,,0,0,0,,It was so normal that it\Njust wasn't interesting.
+Dialogue: 1,0:06:45.46,0:06:48.46,Q1,,0,0,0,,Aw, shut it! Do you want me to\Nput you into a Boston crab?!
+Dialogue: 1,0:06:49.13,0:06:51.21,Q1,,0,0,0,,I'm up next, right?
+Dialogue: 1,0:06:51.21,0:06:53.17,Q1,,0,0,0,,Okay, time to give it my all!
+Dialogue: 1,0:06:54.63,0:06:57.29,Q1,,0,0,0,,Come in and take an open seat!
+Dialogue: 1,0:06:58.88,0:06:59.71,Q1,,0,0,0,,Huh?
+Dialogue: 1,0:06:59.71,0:07:03.21,Q1,,0,0,0,,Haru-san, that's for a ramen shop!\NNot a theme cafe!
+Dialogue: 1,0:07:03.21,0:07:06.67,Q1,,0,0,0,,But the customers said\Nthey like it when I'm energetic!
+Dialogue: 1,0:07:06.67,0:07:07.79,Q1,,0,0,0,,Huh?
+Dialogue: 1,0:07:07.79,0:07:12.50,Q1,,0,0,0,,Well, if the customers said so,\Nthen maybe it could work...?
+Dialogue: 1,0:07:14.21,0:07:16.21,Q1,,0,0,0,,What're ya having?
+Dialogue: 1,0:07:16.21,0:07:19.04,Q1,,0,0,0,,A-a deluxe soda, then.
+Dialogue: 1,0:07:19.04,0:07:21.83,Q1,,0,0,0,,Gotcha, boss!\NOne special soda, coming right up!
+Dialogue: 1,0:07:27.63,0:07:29.46,Q1,,0,0,0,,So she's the klutzy character?
+Dialogue: 1,0:07:29.46,0:07:31.79,Q1,,0,0,0,,Well, it's true that we may need one...
+Dialogue: 1,0:07:31.79,0:07:33.75,Q1,,0,0,0,,I guess I'll just keep an eye\Non things for now.
+Dialogue: 1,0:07:37.00,0:07:39.21,Q1,,0,0,0,,Actually, I don't think that'd be cost effective!
+Dialogue: 1,0:07:39.21,0:07:41.04,Q1,,0,0,0,,I mean, it's not like glasses grow on trees!
+Dialogue: 1,0:07:41.50,0:07:43.58,Q1,,0,0,0,,You're up last, Amona.
+Dialogue: 1,0:07:43.58,0:07:44.71,Q1,,0,0,0,,What?!
+Dialogue: 1,0:07:44.71,0:07:45.79,Q1,,0,0,0,,Well...
+Dialogue: 1,0:07:45.79,0:07:48.33,Q1,,0,0,0,,She's the one that worries me most.
+Dialogue: 1,0:07:48.33,0:07:50.13,Q1,,0,0,0,,Can she really do it properly?
+Dialogue: 1,0:07:51.29,0:07:55.00,Q1,,0,0,0,,Okay, Amona. Please go ahead\Nwhen I reenter the shop.
+Dialogue: 1,0:07:55.00,0:07:56.08,Q1,,0,0,0,,Understood.
+Dialogue: 1,0:08:02.63,0:08:05.04,Q1,,0,0,0,,Welcome. Are you on your own?
+Dialogue: 1,0:08:05.04,0:08:07.38,Q1,,0,0,0,,Huh? Y-yeah...
+Dialogue: 1,0:08:07.38,0:08:10.21,Q1,,0,0,0,,In that case, I'll show you to your seat.\NPlease sit here.
+Dialogue: 1,0:08:13.29,0:08:15.50,Q1,,0,0,0,,Wow, she's better than I expected...
+Dialogue: 1,0:08:15.92,0:08:17.38,Q1,,0,0,0,,A-Amona?!
+Dialogue: 1,0:08:17.38,0:08:19.54,Q1,,0,0,0,,Why are you so flustered?
+Dialogue: 1,0:08:19.54,0:08:20.96,Q1,,0,0,0,,W-well, I mean...
+Dialogue: 1,0:08:20.96,0:08:24.25,Q1,,0,0,0,,You said you wanted me to show you\Nhow I serve customers, right?
+Dialogue: 1,0:08:24.25,0:08:26.79,Q1,,0,0,0,,Th-that's true, but still...
+Dialogue: 1,0:08:28.92,0:08:30.54,Q1,,0,0,0,,Wh-what is it?
+Dialogue: 1,0:08:30.54,0:08:32.96,Q1,,0,0,0,,A-are you always doing stuff like that?!
+Dialogue: 1,0:08:32.96,0:08:34.46,Q1,,0,0,0,,Of course not!
+Dialogue: 1,0:08:34.46,0:08:35.79,Q1,,0,0,0,,I'm just doing it for you.
+Dialogue: 1,0:08:36.33,0:08:40.04,Q1,,0,0,0,,You seemed to be questioning my service,
+Dialogue: 1,0:08:40.04,0:08:42.88,Q1,,0,0,0,,but I can do it when I try.
+Dialogue: 1,0:08:42.88,0:08:45.21,Q1,,0,0,0,,Well? That was a full hundred points, right?
+Dialogue: 1,0:08:47.21,0:08:48.25,Q1,,0,0,0,,Zero points.
+Dialogue: 1,0:08:48.25,0:08:50.25,Q1,,0,0,0,,Huh?! Wh-why?!
+Dialogue: 1,0:08:50.25,0:08:51.83,Q1,,0,0,0,,I'm the one who should be asking that!
+Dialogue: 1,0:08:51.83,0:08:55.88,Q1,,0,0,0,,The whole point of the test is to see how\Nyou normally deal with customers, not me!
+Dialogue: 1,0:08:55.88,0:08:58.08,Q1,,0,0,0,,But right now, you are the customer!
+Dialogue: 1,0:08:58.08,0:08:59.67,Q1,,0,0,0,,Besides, you were totally into it!
+Dialogue: 1,0:08:59.67,0:09:01.75,Q1,,0,0,0,,N-no way...!
+Dialogue: 1,0:09:01.75,0:09:04.13,Q1,,0,0,0,,What, so you weren't happy, then?!
+Dialogue: 1,0:09:05.00,0:09:09.00,Q1,,0,0,0,,Do you think we passed, Eury?
+Dialogue: 1,0:09:09.00,0:09:12.83,Q1,,0,0,0,,More importantly, shouldn't we\Nopen for work already?
+Dialogue: 1,0:09:14.04,0:09:18.67,Q1,,0,0,0,,It's often said that it's best\Nto just leave a lovers' quarrel be.
+Dialogue: 1,0:09:18.96,0:09:20.38,Q1,,0,0,0,,To be continued...
+Dialogue: 0,0:05:43.67,0:05:48.17,Q2,,0,0,0,,{\pos(409.6,316.8)}{\an7}Mofu Mofu Paradise
+Dialogue: 0,0:05:43.67,0:05:48.17,Q3,,0,0,0,,{\pos(384,345.6)}{\an7}Charge: 500 yen for 30 mins
+Dialogue: 0,0:05:43.67,0:05:48.17,Q3,,0,0,0,,{\pos(371.2,374.4)}{\an7}One order minimum per person
+Dialogue: 0,0:05:43.67,0:05:48.17,Q3,,0,0,0,,{\pos(371.2,403.2)}{\an7}10 minute extension, 100 yen
+Dialogue: 0,0:05:43.67,0:05:48.17,Q2,,0,0,0,,{\pos(473.6,453.6)}{\an7}Drinks
+Dialogue: 0,0:05:43.67,0:05:48.17,Q3,,0,0,0,,{\pos(396.8,482.4)}{\an7}Coffee (Hot/Ice) 650 yen
+Dialogue: 0,0:05:43.67,0:05:48.17,Q3,,0,0,0,,{\pos(384,511.2)}{\an7}Black Tea (Hot/Ice) 600 yen
+Dialogue: 0,0:05:43.67,0:05:48.17,Q3,,0,0,0,,{\pos(384,540)}{\an7}Assorted soda and alcohol
+
