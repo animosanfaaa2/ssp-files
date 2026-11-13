@@ -1,0 +1,388 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,15,0
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,15,0
+Style: Italics top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,15,1
+Style: Cartelli Times,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,11,1
+Style: EPSpeziale,Times New Roman,18,&H00FFFFFF,&H000000FF,&H00000000,&H007D7E83,0,0,0,0,100,100,0,0,1,0,1,3,10,10,11,1
+Style: Cartelli,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,0
+Style: Narratore,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0007077B,&H00050516,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,15,1
+Style: Flashback - Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00730200,&H00730200,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.40,0:00:13.53,Cartelli Times,sign,0,0,0,,{\fad(554,476)\an7\pos(336,218.667)\c&HFAFBFD&}Il\Ndella {\bord0\blur0\t(513,2556,\bord2\blur2)\3c&H3352C1&}speziale
+Dialogue: 0,0:00:06.90,0:00:13.53,Cartelli Times,sign,0,0,0,,{\fad(0,476)\an7\c&HFAFBFD&\pos(352,218)\clip(352,218,354,238)\t(0,3944,1,\clip(352,218,425.3,238))}monologo
+Dialogue: 1,0:00:07.82,0:00:13.53,Cartelli Times,sign,0,0,0,,{\fad(0,476)\an7\bord1.5\blur1\c&H0E0D0F&\pos(352,218)\3c&HABA5A7&\clip(350.5,216.5,352.5,239.5)\t(0,3399,1,\clip(350.5,216.5,426.8,239.5))}monologo
+Dialogue: 0,0:01:31.02,0:01:33.94,Cartelli Times,sign,0,0,0,,{\fad(237,222)\q2\fs11\an1\shad1\4c&H575756&\pos(142.857,309.143)}Questa è un'opera di finzione. Nomi di persone e organizzazioni sono frutto di fantasia.\NOgni legame con eventi realmente accaduti è del tutto casuale.
+Dialogue: 0,0:01:33.23,0:01:35.19,Italics top,Maomao,0,0,0,,Su richiesta del signor Renshi,
+Dialogue: 0,0:01:35.19,0:01:38.66,Italics,Maomao,0,0,0,,l'ho accompagnato in visita\Nal villaggio del ciarlatano.
+Dialogue: 0,0:01:39.24,0:01:41.33,Italics,Maomao,0,0,0,,Lui però è venuto in incognito.
+Dialogue: 0,0:01:41.33,0:01:43.49,Italics,Maomao,0,0,0,,Cosa c'è di particolare qui?
+Dialogue: 0,0:01:45.25,0:01:46.08,Main,Maomao,0,0,0,,Avanti.
+Dialogue: 0,0:01:56.42,0:01:58.63,Main,Maomao,0,0,0,,Credo possa parlare senza problemi.
+Dialogue: 0,0:01:58.63,0:02:00.76,Main,Maomao,0,0,0,,Le altre stanze sono distanti.
+Dialogue: 0,0:02:01.10,0:02:02.85,Main,Renshi,0,0,0,,Stavi facendo un bagno?
+Dialogue: 0,0:02:02.85,0:02:04.52,Main,Maomao,0,0,0,,Ho solo lavato i capelli.
+Dialogue: 0,0:02:04.52,0:02:07.14,Main,Maomao,0,0,0,,Scusi per l'aspetto indecoroso.
+Dialogue: 0,0:02:08.14,0:02:09.52,Italics,Maomao,0,0,0,,Perché è qui?
+Dialogue: 0,0:02:10.65,0:02:13.36,Main,Renshi,0,0,0,,Sei in grado di replicare questo trucco?
+Dialogue: 0,0:02:13.36,0:02:15.57,Main,Maomao,0,0,0,,Sì, credo di farcela,
+Dialogue: 0,0:02:15.57,0:02:17.11,Main,Maomao,0,0,0,,purché abbia gli strumenti.
+Dialogue: 0,0:02:17.11,0:02:18.40,Main,Renshi,0,0,0,,Allora conto su di te.
+Dialogue: 0,0:02:24.42,0:02:26.91,Main,Maomao,0,0,0,,Le scaldo dell'acqua pulita!
+Dialogue: 0,0:02:26.91,0:02:28.41,Main,Renshi,0,0,0,,Ci vorrebbe del tempo.
+Dialogue: 0,0:02:28.41,0:02:29.42,Main,Renshi,0,0,0,,Va bene questa.
+Dialogue: 0,0:02:31.25,0:02:34.42,Italics,Maomao,0,0,0,,Però dopo i capelli\Nho lavato anche i piedi.
+Dialogue: 0,0:02:34.71,0:02:35.71,Main,Renshi,0,0,0,,Cosa c'è?
+Dialogue: 0,0:02:35.71,0:02:36.34,Main,Maomao,0,0,0,,Niente.
+Dialogue: 0,0:02:36.34,0:02:37.76,Main,Maomao,0,0,0,,Non è nulla.
+Dialogue: 0,0:02:37.76,0:02:41.76,Italics,Maomao,0,0,0,,Se a lui non disturba,\Nmeglio farmi gli affari miei.
+Dialogue: 0,0:02:51.94,0:02:55.32,Italics,Maomao,0,0,0,,La cicatrice sbiadisce\Ncon il passare del tempo,
+Dialogue: 0,0:02:55.57,0:02:57.78,Italics,Maomao,0,0,0,,ma non sparirà mai del tutto.
+Dialogue: 0,0:02:58.82,0:03:00.40,Main,Maomao,0,0,0,,A proposito, mio signore…
+Dialogue: 0,0:03:00.40,0:03:01.45,Main,Renshi,0,0,0,,Dimmi.
+Dialogue: 0,0:03:01.74,0:03:05.33,Main,Maomao,0,0,0,,Perché siamo venuti\Nal villaggio del medico?
+Dialogue: 0,0:03:06.08,0:03:09.79,Main,Renshi,0,0,0,,Era lungo il tragitto.\NE volevo verificare qualcosa.
+Dialogue: 0,0:03:09.79,0:03:11.58,Italics,Maomao,0,0,0,,Il tragitto per dove?
+Dialogue: 0,0:03:11.58,0:03:14.13,Main,Maomao,0,0,0,,Cosa c'è che non va?
+Dialogue: 0,0:03:14.54,0:03:18.67,Main,Renshi,0,0,0,,Tuo cugino ha detto che qualcosa non torna\Ne ha tirato fuori l'abaco.
+Dialogue: 0,0:03:19.72,0:03:21.18,Italics,Maomao,0,0,0,,Quindi è opera di Luoban.
+Dialogue: 0,0:03:21.63,0:03:26.01,Main,Renshi,0,0,0,,C'è qualcosa di strano nella quantità\Ndi riso che questa regione spedisce.
+Dialogue: 0,0:03:26.51,0:03:30.06,Italics,Maomao,0,0,0,,L'ossessione di Luoban per i numeri\Nè spaventosa.
+Dialogue: 0,0:03:30.06,0:03:32.98,Italics,Maomao,0,0,0,,È decisamente il caso\Ndi indagare sulla questione.
+Dialogue: 0,0:03:33.35,0:03:34.69,Main,Renshi,0,0,0,,Però non immaginavo
+Dialogue: 0,0:03:34.69,0:03:37.44,Main,Renshi,0,0,0,,di trovarmi a sentire simili discorsi.
+Dialogue: 0,0:03:38.03,0:03:40.86,Italics,Maomao,0,0,0,,L'attuale proprietario di queste terre
+Dialogue: 0,0:03:40.86,0:03:42.36,Italics,Maomao,0,0,0,,vuole cacciare i lavoratori
+Dialogue: 0,0:03:42.36,0:03:45.95,Italics,Maomao,0,0,0,,e mettersi a produrre carta in proprio.
+Dialogue: 0,0:03:48.12,0:03:52.46,Main,Renshi,0,0,0,,L'industria della carta è importante\Ne richiederà sempre più sforzi.
+Dialogue: 0,0:03:53.04,0:03:55.79,Main,Renshi,0,0,0,,Sarebbe un problema se passasse\Nnelle mani di dilettanti.
+Dialogue: 0,0:03:56.29,0:03:58.00,Italics,Maomao,0,0,0,,Una bella seccatura.
+Dialogue: 0,0:03:58.50,0:04:00.71,Main,Maomao,0,0,0,,Le faccio adesso la bruciatura?
+Dialogue: 0,0:04:00.71,0:04:02.51,Main,Maomao,0,0,0,,O vuole pensarci domattina?
+Dialogue: 0,0:04:02.93,0:04:04.09,Main,Renshi,0,0,0,,Falla ora.
+Dialogue: 0,0:04:04.55,0:04:08.64,Italics,Maomao,0,0,0,,Causerei un guaio\Nse lo cacciassi adesso dalla stanza.
+Dialogue: 0,0:04:10.72,0:04:13.27,Main,Maomao,0,0,0,,Non può fargliela il signor Ma Shan?
+Dialogue: 0,0:04:13.52,0:04:15.65,Main,Renshi,0,0,0,,Non possiede questa abilità.
+Dialogue: 0,0:04:16.06,0:04:18.98,Main,Maomao,0,0,0,,È per questo che mi ha portata con sé?
+Dialogue: 0,0:04:19.19,0:04:20.61,Main,Renshi,0,0,0,,Non solo per questo.
+Dialogue: 0,0:04:29.12,0:04:31.00,Main,Maomao,0,0,0,,Per favore, non si addormenti.
+Dialogue: 0,0:04:31.00,0:04:33.41,Main,Maomao,0,0,0,,Altrimenti chiamo Ma Shan.
+Dialogue: 0,0:04:33.41,0:04:36.63,Main,Renshi,0,0,0,,Credi che servirebbe a qualcosa?
+Dialogue: 0,0:04:36.85,0:04:38.38,Italics,Maomao,0,0,0,,Probabilmente no.
+Dialogue: 0,0:04:38.38,0:04:42.84,Italics,Maomao,0,0,0,,A differenza di suo padre Gaoshun,\Nnon sa ancora come gestirlo.
+Dialogue: 0,0:04:42.84,0:04:44.88,Main,Maomao,0,0,0,,Perché portare lui come suo aiutante?
+Dialogue: 0,0:04:46.05,0:04:47.80,Main,Renshi,0,0,0,,Ecco…
+Dialogue: 0,0:04:47.80,0:04:49.26,Main,Renshi,0,0,0,,Forse non sembra, ma…
+Dialogue: 0,0:04:50.06,0:04:51.85,Main,Renshi,0,0,0,,a modo suo è abile in certe cose.
+Dialogue: 0,0:04:53.23,0:04:55.02,Main,Maomao,0,0,0,,Non mi sembra molto convinto.
+Dialogue: 0,0:04:56.40,0:05:00.48,Italics,Maomao,0,0,0,,In un certo senso, anche\Nessere a suo agio con il signor Renshi
+Dialogue: 0,0:05:00.48,0:05:02.61,Italics,Maomao,0,0,0,,è un talento eccezionale.
+Dialogue: 0,0:05:04.61,0:05:06.74,Italics,Maomao,0,0,0,,Bene, ho fatto.
+Dialogue: 0,0:05:20.92,0:05:22.25,Main,Renshi,0,0,0,,Hai finito?
+Dialogue: 0,0:05:25.63,0:05:26.68,Main,Renshi,0,0,0,,È davvero tremendo!
+Dialogue: 0,0:05:31.51,0:05:33.35,Main,Renshi,0,0,0,,Dai, smettila!
+Dialogue: 0,0:05:33.35,0:05:34.81,Italics,Maomao,0,0,0,,Se dice così,
+Dialogue: 0,0:05:34.81,0:05:37.69,Italics,Maomao,0,0,0,,mi viene voglia di insistere!
+Dialogue: 0,0:05:38.77,0:05:39.81,Main,Ma Shan,0,0,0,,Sto entrando.
+Dialogue: 0,0:05:40.36,0:05:41.15,Main,Renshi,0,0,0,,Dai, piantala!
+Dialogue: 0,0:05:56.79,0:05:59.88,Italics,Maomao,0,0,0,,Mai stati così coordinati come ora.
+Dialogue: 0,0:06:02.96,0:06:06.88,EPSpeziale,sign,0,0,0,,{\fad(486,473)\an1\pos(456,304.615)}Episodio 55\h\h\h\h{\fscx70}La scommessa
+Dialogue: 0,0:06:12.47,0:06:13.81,Italics,Maomao,0,0,0,,È ora dell'incontro.
+Dialogue: 0,0:06:14.31,0:06:15.47,Italics,Maomao,0,0,0,,Ci siamo.
+Dialogue: 0,0:06:16.10,0:06:18.56,Italics,Maomao,0,0,0,,Quello al centro è il proprietario?
+Dialogue: 0,0:06:22.48,0:06:24.94,Main,Ma Shan,0,0,0,,La tua presenza è proprio necessaria?
+Dialogue: 0,0:06:24.94,0:06:27.15,Main,Maomao,0,0,0,,Me l'ha chiesto il nostro medico,
+Dialogue: 0,0:06:27.15,0:06:29.78,Main,Maomao,0,0,0,,che farebbe se l'abbandonassi?
+Dialogue: 0,0:06:30.07,0:06:32.24,Main,Ma Shan,0,0,0,,Quel tono non è molto rispettoso.
+Dialogue: 0,0:06:35.08,0:06:38.71,Main,Ma Shan,0,0,0,,Comunque vedo parecchi alcolici\Nper le dimensioni del locale.
+Dialogue: 0,0:06:39.58,0:06:43.25,Italics,Maomao,0,0,0,,La taverna offre soprattutto vino opaco,
+Dialogue: 0,0:06:43.25,0:06:46.21,Italics,Maomao,0,0,0,,mentre nei grandi otri c'è quello limpido.
+Dialogue: 0,0:06:46.80,0:06:50.76,Italics,Maomao,0,0,0,,Nella Capitale si preferiscono\Nvino limpido e altri distillati.
+Dialogue: 0,0:06:50.76,0:06:54.47,Italics,Maomao,0,0,0,,Immagino che quello opaco\Nsia per i clienti del posto.
+Dialogue: 0,0:06:54.76,0:06:57.31,Main,Proprietario,0,0,0,,Avete trovato il denaro?
+Dialogue: 0,0:06:57.31,0:06:59.73,Italics,Maomao,0,0,0,,Numericamente siamo in svantaggio.
+Dialogue: 0,0:06:59.73,0:07:01.98,Italics,Maomao,0,0,0,,Se si mette male dove possiamo scappare?
+Dialogue: 0,0:07:02.19,0:07:04.02,Main,Marito,0,0,0,,Abbiamo ancora tempo!
+Dialogue: 0,0:07:04.02,0:07:07.28,Main,Proprietario,0,0,0,,Se non potete pagare,\Nlasciate questa terra.
+Dialogue: 0,0:07:07.28,0:07:09.95,Main,Marito,0,0,0,,Non vuole ripensarci un attimo?
+Dialogue: 0,0:07:10.24,0:07:12.16,Italics,Maomao,0,0,0,,Quello è il contratto?
+Dialogue: 0,0:07:12.45,0:07:16.12,Main,Proprietario,0,0,0,,Ti ho detto che posso aspettare\Nfino al nuovo anno.
+Dialogue: 0,0:07:16.12,0:07:19.71,Main,Proprietario,0,0,0,,Nel frattempo potete insegnarci\Ni trucchi del mestiere.
+Dialogue: 0,0:07:20.12,0:07:21.87,Italics,Maomao,0,0,0,,Brutta situazione.
+Dialogue: 0,0:07:21.87,0:07:24.08,Italics,Maomao,0,0,0,,Anche ottenendo più tempo,
+Dialogue: 0,0:07:24.08,0:07:26.42,Italics,Maomao,0,0,0,,se insegnano loro come fare la carta,
+Dialogue: 0,0:07:26.42,0:07:28.88,Italics,Maomao,0,0,0,,si vedranno rubare tutti i loro segreti.
+Dialogue: 0,0:07:29.42,0:07:32.72,Italics,Maomao,0,0,0,,Probabilmente sperano di ottenere\Nla commessa del Palazzo,
+Dialogue: 0,0:07:32.72,0:07:36.22,Italics,Maomao,0,0,0,,scacciare i lavoratori\Ne sostituirli nel settore.
+Dialogue: 0,0:07:37.39,0:07:40.23,Italics,Maomao,0,0,0,,Però non hanno bisogno di tutto questo,
+Dialogue: 0,0:07:40.23,0:07:43.56,Italics,Maomao,0,0,0,,potrebbero sfruttarne il lavoro\Nin cambio dell'affitto.
+Dialogue: 0,0:07:43.56,0:07:45.73,Italics,Maomao,0,0,0,,Odiano così tanto gli estranei?
+Dialogue: 0,0:07:58.37,0:08:00.66,Italics,Maomao,0,0,0,,Questo dovrebbe risalire a dieci anni fa,
+Dialogue: 0,0:08:00.66,0:08:02.66,Italics,Maomao,0,0,0,,ma la qualità della carta è ottima.
+Dialogue: 0,0:08:03.17,0:08:06.42,Italics,Maomao,0,0,0,,Una di qualità inferiore\Nsarebbe già andata in pezzi.
+Dialogue: 0,0:08:06.88,0:08:09.21,Italics,Maomao,0,0,0,,Qui parla del pagamento dilazionato
+Dialogue: 0,0:08:09.21,0:08:12.42,Italics,Maomao,0,0,0,,in rate mensili nel corso di vent'anni.
+Dialogue: 0,0:08:12.84,0:08:17.01,Italics,Maomao,0,0,0,,Perché tante pressioni\Nnonostante un contratto così chiaro?
+Dialogue: 0,0:08:17.47,0:08:20.18,Main,Secondogenito,0,0,0,,Dicono che il contratto non è valido.
+Dialogue: 0,0:08:20.18,0:08:21.68,Main,Maomao,0,0,0,,Nonostante i marchi?
+Dialogue: 0,0:08:22.06,0:08:24.60,Main,Maomao,0,0,0,,Quelli valgono come firme.
+Dialogue: 0,0:08:25.02,0:08:26.77,Main,Secondogenito,0,0,0,,Sì, è vero.
+Dialogue: 0,0:08:26.77,0:08:30.07,Main,Secondogenito,0,0,0,,Ma secondo loro il vecchio proprietario\Nnon sapeva leggere.
+Dialogue: 0,0:08:30.07,0:08:33.36,Italics,Maomao,0,0,0,,A un possidente capita spesso\Ndi maneggiare documenti,
+Dialogue: 0,0:08:33.36,0:08:36.49,Italics,Maomao,0,0,0,,dovrebbe sapere almeno\Nleggere e scrivere.
+Dialogue: 0,0:08:36.70,0:08:38.83,Main,Secondogenito,0,0,0,,La proprietà era\Ndella famiglia di sua moglie.
+Dialogue: 0,0:08:39.16,0:08:44.62,Cartelli,sign,0,0,0,,{\fnTimes New Roman\bord3\fs13\b1\i1\c&HD2D2D2&\3c&H1F1F1F&\pos(231.68,88.32)}Figlia
+Dialogue: 0,0:08:39.66,0:08:41.33,Italics,Maomao,0,0,0,,Ora capisco.
+Dialogue: 0,0:08:41.33,0:08:44.96,Italics,Maomao,0,0,0,,Se era un fittavolo capace\Nche ha sposato la figlia dei padroni,
+Dialogue: 0,0:08:42.29,0:08:44.62,Cartelli,sign,0,0,0,,{\fad(851,0)\fnTimes New Roman\bord3\fs13\b1\i1\c&HD2D2D2&\3c&H20201E&\pos(144,88.571)}Genero
+Dialogue: 0,0:08:44.62,0:08:45.12,Cartelli,sign,0,0,0,,{\fnTimes New Roman\bord3\fs13\b1\i1\c&HD2D2D2&\3c&H1E1E1E&\pos(235.368,78.737)}Genero
+Dialogue: 0,0:08:44.96,0:08:47.25,Italics,Maomao,0,0,0,,non avrà avuto occasione di studiare.
+Dialogue: 0,0:08:45.12,0:08:45.62,Cartelli,sign,0,0,0,,{\fnTimes New Roman\bord3\fs13\b1\i1\c&HD2D2D2&\3c&H1E1E1E&\frz23.35\pos(168.727,145.455)}Genero
+Dialogue: 0,0:08:45.62,0:08:46.12,Cartelli,sign,0,0,0,,{\fnTimes New Roman\bord3\fs13\b1\i1\c&HD2D2D2&\3c&H1E1E1E&\pos(235.368,78.737)}Genero
+Dialogue: 0,0:08:46.12,0:08:46.63,Cartelli,sign,0,0,0,,{\fnTimes New Roman\bord3\fs13\b1\i1\c&HD2D2D2&\3c&H1E1E1E&\frz23.35\pos(168.727,145.455)}Genero
+Dialogue: 0,0:08:46.63,0:08:47.13,Cartelli,sign,0,0,0,,{\fnTimes New Roman\bord3\fs13\b1\i1\c&HD2D2D2&\3c&H1E1E1E&\pos(235.368,78.737)}Genero
+Dialogue: 0,0:08:47.13,0:08:47.25,Cartelli,sign,0,0,0,,{\fnTimes New Roman\bord3\fs13\b1\i1\c&HD2D2D2&\3c&H1E1E1E&\frz23.35\pos(168.727,145.455)}Genero
+Dialogue: 0,0:08:47.46,0:08:49.67,Main,Secondogenito,0,0,0,,Prima se ne occupava la moglie,
+Dialogue: 0,0:08:49.67,0:08:51.59,Main,Secondogenito,0,0,0,,ma dalla sua morte,
+Dialogue: 0,0:08:51.59,0:08:55.51,Main,Secondogenito,0,0,0,,si è affidato a uno scriba professionista\Nanche per questo contratto.
+Dialogue: 0,0:08:56.93,0:09:00.06,Main,Maomao,0,0,0,,Nessuno ha assistito\Nalla firma del contratto?
+Dialogue: 0,0:09:00.06,0:09:01.77,Main,Maomao,0,0,0,,Quantomeno lo scriba?
+Dialogue: 0,0:09:01.77,0:09:04.77,Cartelli,sign,0,0,0,,{\fad(0,977)\fnTimes New Roman\bord3\fs13\b1\i1\c&HD2D2D2&\3c&H1E1E1E&\pos(166.769,97.231)}Testi\Nmone
+Dialogue: 0,0:09:01.77,0:09:03.77,Cartelli,sign,0,0,0,,{\fad(0,978)\fnTimes New Roman\bord3\fs12\b1\i1\c&HD2D2D2&\3c&H1E1E1E&\pos(314.526,185.684)}Scriba
+Dialogue: 0,0:09:01.77,0:09:08.81,Main,sign,0,0,0,,{\fnTimes New Roman\bord3\fs13\b1\i1\c&HD2D2D2&\3c&H1E1E1E&\pos(472.615,192)}Genero
+Dialogue: 0,0:09:02.02,0:09:05.44,Main,Secondogenito,0,0,0,,Sia il testimone che lo scriba\Normai sono morti.
+Dialogue: 0,0:09:05.44,0:09:08.81,Main,Secondogenito,0,0,0,,Erano già anziani vent'anni fa,\Nall'epoca della firma.
+Dialogue: 0,0:09:09.11,0:09:11.19,Italics,Maomao,0,0,0,,È proprio un bel problema.
+Dialogue: 0,0:09:12.03,0:09:15.61,Main,Proprietario,0,0,0,,Se non ve ne andate subito,\Nnon mi lasciate scelta.
+Dialogue: 0,0:09:15.61,0:09:17.49,Main,Proprietario,0,0,0,,Vi mando i miei ragazzi,
+Dialogue: 0,0:09:17.49,0:09:20.45,Main,Proprietario,0,0,0,,insegnate loro il mestiere\Nentro la fine dell'anno.
+Dialogue: 0,0:09:21.62,0:09:22.70,Main,Proprietario,0,0,0,,Bene!
+Dialogue: 0,0:09:22.70,0:09:25.29,Main,Proprietario,0,0,0,,Ora che è tutto deciso, portateci da bere!
+Dialogue: 0,0:09:25.29,0:09:26.50,Main,Proprietario,0,0,0,,Anche a loro!
+Dialogue: 0,0:09:32.67,0:09:33.30,Italics,Maomao,0,0,0,,Cosa?
+Dialogue: 0,0:09:35.88,0:09:37.63,Italics,Maomao,0,0,0,,Non è vino opaco.
+Dialogue: 0,0:09:37.88,0:09:38.89,Italics,Maomao,0,0,0,,È vino raffinato.
+Dialogue: 0,0:09:45.14,0:09:47.35,Italics,Maomao,0,0,0,,Il proprietario beve quello distillato.
+Dialogue: 0,0:09:47.35,0:09:49.69,Italics,Maomao,0,0,0,,A quanto pare regge bene l'alcol.
+Dialogue: 0,0:09:50.44,0:09:54.57,Italics,Maomao,0,0,0,,Ma ordinare quello raffinato per tutti
+Dialogue: 0,0:09:54.57,0:09:56.57,Italics,Maomao,0,0,0,,è molto generoso da parte sua.
+Dialogue: 0,0:09:56.82,0:09:59.66,Italics,Maomao,0,0,0,,Qui hanno vino molto più a buon mercato.
+Dialogue: 0,0:10:00.20,0:10:01.58,Main,Maomao,0,0,0,,Locandiera!
+Dialogue: 0,0:10:01.58,0:10:02.37,Main,Locandiera,0,0,0,,Cosa c'è?
+Dialogue: 0,0:10:02.58,0:10:05.33,Main,Maomao,0,0,0,,Una tazza anche a me, dello stesso vino.
+Dialogue: 0,0:10:07.21,0:10:09.37,Italics,Maomao,0,0,0,,Se ne sarà accorto anche il signor Renshi.
+Dialogue: 0,0:10:15.42,0:10:18.01,Italics,Maomao,0,0,0,,Lascia un sapore dolce sulla lingua.
+Dialogue: 0,0:10:18.01,0:10:21.51,Italics,Maomao,0,0,0,,Non sarà come quello della Capitale,\Nma non è niente male.
+Dialogue: 0,0:10:21.51,0:10:25.14,Italics,Maomao,0,0,0,,Ma nonostante la morbidezza del gusto,\Nl'alcol è bello concentrato.
+Dialogue: 0,0:10:25.81,0:10:27.10,Main,Maomao,0,0,0,,Chiedo scusa.
+Dialogue: 0,0:10:27.10,0:10:29.48,Main,Maomao,0,0,0,,C'è una distilleria da queste parti?
+Dialogue: 0,0:10:29.81,0:10:33.52,Main,Locandiera,0,0,0,,No, non mi pare\Nci sia mai stato niente del genere.
+Dialogue: 0,0:10:33.52,0:10:34.44,Main,Maomao,0,0,0,,Lo immaginavo.
+Dialogue: 0,0:10:36.36,0:10:40.57,Flashback - Italics,Renshi,0,0,0,,C'è qualcosa di strano nella quantità\Ndi riso che questa regione spedisce.
+Dialogue: 0,0:10:48.96,0:10:51.25,Main,Proprietario,0,0,0,,Cosa c'è, signorina?
+Dialogue: 0,0:10:51.25,0:10:53.13,Main,Proprietario,0,0,0,,Vuoi versarci qualche giro?
+Dialogue: 0,0:10:54.04,0:10:56.76,Main,Yuyuan,0,0,0,,S-Signorina, cosa succede?
+Dialogue: 0,0:11:02.09,0:11:04.97,Main,Maomao,0,0,0,,Le va una sfida di bevute?
+Dialogue: 0,0:11:09.31,0:11:12.65,Main,Proprietario,0,0,0,,Ne hai di fegato per sfidarmi sull'alcol.
+Dialogue: 0,0:11:18.07,0:11:20.78,Main,Maomao,0,0,0,,Quanto vi resta di affitto non pagato?
+Dialogue: 0,0:11:21.95,0:11:24.07,Main,Marito,0,0,0,,Sono 1000 pezzi d'argento all'anno,
+Dialogue: 0,0:11:24.07,0:11:26.20,Main,Marito,0,0,0,,quest'anno ne abbiamo pagato metà,
+Dialogue: 0,0:11:26.20,0:11:29.08,Main,Marito,0,0,0,,poi restano altri quattro anni,\Nquindi 4500 pezzi.
+Dialogue: 0,0:11:29.08,0:11:30.00,Main,Maomao,0,0,0,,Capisco.
+Dialogue: 0,0:11:33.33,0:11:35.96,Main,Maomao,0,0,0,,Vista l'occasione,\Npropongo una scommessa.
+Dialogue: 0,0:11:35.96,0:11:37.46,Main,Proprietario,0,0,0,,Interessante.
+Dialogue: 0,0:11:37.46,0:11:39.17,Main,Proprietario,0,0,0,,Cosa metti in palio?
+Dialogue: 0,0:11:39.17,0:11:40.84,Main,Maomao,0,0,0,,Beh, eccomi qua.
+Dialogue: 0,0:11:42.26,0:11:45.51,Main,Maomao,0,0,0,,Se mi vende a un pappone,\Nne ricava 300 pezzi d'argento.
+Dialogue: 0,0:11:49.73,0:11:53.52,Main,Contadino 1,0,0,0,,Signorinella,\Nsai come funziona il mercato?
+Dialogue: 0,0:11:53.52,0:11:54.77,Italics,Maomao,0,0,0,,Certo che sì.
+Dialogue: 0,0:11:54.77,0:11:58.57,Italics,Maomao,0,0,0,,Sai quante ragazze ho visto vendere?
+Dialogue: 0,0:11:58.57,0:12:01.45,Main,Contadino 1,0,0,0,,Neanche il miglior gioiellino\Nfrutta più di 100!
+Dialogue: 0,0:12:01.45,0:12:03.78,Main,Contadino 1,0,0,0,,E tu pensi di valerne 300…
+Dialogue: 0,0:12:08.54,0:12:12.21,Main,Maomao,0,0,0,,Certo, un rafano venduto\Nancora sporco di terra
+Dialogue: 0,0:12:12.21,0:12:15.13,Main,Maomao,0,0,0,,non ne vale sicuramente più di 50.
+Dialogue: 0,0:12:15.42,0:12:17.92,Main,Maomao,0,0,0,,Non sai neanche questo?
+Dialogue: 0,0:12:17.92,0:12:19.38,Main,Contadino 1,0,0,0,,Che hai detto?!
+Dialogue: 0,0:12:23.51,0:12:28.14,Italics,Maomao,0,0,0,,A quanto pare sa che il rafano\Nè una metafora per le ragazze di campagna.
+Dialogue: 0,0:12:28.72,0:12:30.64,Main,Contadino 1,0,0,0,,Prova a ripeterlo!
+Dialogue: 0,0:12:30.64,0:12:32.89,Main,Maomao,0,0,0,,Se non sai neanche leggere o scrivere,
+Dialogue: 0,0:12:32.89,0:12:35.35,Main,Maomao,0,0,0,,nella vita non userai mai la carta.
+Dialogue: 0,0:12:35.35,0:12:38.48,Main,Maomao,0,0,0,,Pensi che sapresti imparare a fabbricarla?
+Dialogue: 0,0:12:39.69,0:12:41.32,Main,Contadino 1,0,0,0,,Brutta stronzetta…
+Dialogue: 0,0:12:49.45,0:12:50.87,Main,Renshi,0,0,0,,Per questa ragazza
+Dialogue: 0,0:12:50.87,0:12:53.62,Main,Renshi,0,0,0,,300 pezzi d'argento sono anche pochi.
+Dialogue: 0,0:12:53.87,0:12:57.33,Italics,Maomao,0,0,0,,Non dovrebbe mettere in mostra\Ngrosse somme,
+Dialogue: 0,0:12:57.33,0:12:58.84,Italics,Maomao,0,0,0,,ma ne approfitterò.
+Dialogue: 0,0:13:01.71,0:13:05.01,Main,Maomao,0,0,0,,Sentito? Chi ha occhio ci arriva.
+Dialogue: 0,0:13:05.93,0:13:09.18,Main,Contadino 1,0,0,0,,Ehi! Insegniamo\Na questi qui a stare al loro posto!
+Dialogue: 0,0:13:09.47,0:13:10.68,Main,Contadini,0,0,0,,Sì!
+Dialogue: 0,0:13:10.68,0:13:12.60,Main,Proprietario,0,0,0,,Non prendete iniziative!
+Dialogue: 0,0:13:13.60,0:13:15.27,Main,Proprietario,0,0,0,,Ma sì, d'accordo.
+Dialogue: 0,0:13:15.27,0:13:17.98,Main,Proprietario,0,0,0,,Se avete contanti per la scommessa,\Na me sta bene.
+Dialogue: 0,0:13:18.77,0:13:20.57,Italics,Maomao,0,0,0,,Quindi ha accettato.
+Dialogue: 0,0:13:24.07,0:13:24.78,Main,Maomao,0,0,0,,Bene.
+Dialogue: 0,0:13:25.11,0:13:27.28,Main,Maomao,0,0,0,,Con chi cominciamo?
+Dialogue: 0,0:13:32.33,0:13:34.50,Main,Contadino 1,0,0,0,,Sarò io il tuo primo avversario.
+Dialogue: 0,0:13:35.00,0:13:37.37,Main,Maomao,0,0,0,,Allora iniziamo.
+Dialogue: 0,0:13:50.39,0:13:51.89,Main,Secondogenito,0,0,0,,Stiamo scherzando?
+Dialogue: 0,0:13:52.60,0:13:54.31,Main,Maomao,0,0,0,,Hai già finito?
+Dialogue: 0,0:13:55.52,0:13:57.60,Main,Marito,0,0,0,,Quello è vino distillato, giusto?
+Dialogue: 0,0:14:00.02,0:14:01.65,Italics,Maomao,0,0,0,,È stato un errore pensare
+Dialogue: 0,0:14:01.65,0:14:04.99,Italics,Maomao,0,0,0,,di potermi mandare subito al tappeto\Ncon il distillato altamente alcolico.
+Dialogue: 0,0:14:04.99,0:14:07.07,Italics,Maomao,0,0,0,,Sono abituata a berne.
+Dialogue: 0,0:14:07.95,0:14:09.53,Main,Renshi,0,0,0,,300, eh?
+Dialogue: 0,0:14:09.53,0:14:11.28,Main,Renshi,0,0,0,,Non è male come prezzo.
+Dialogue: 0,0:14:11.28,0:14:15.37,Italics,Maomao,0,0,0,,Se questo pensa di comprarmi di nuovo,\Nnon posso assolutamente perdere.
+Dialogue: 0,0:14:16.79,0:14:18.12,Italics,Maomao,0,0,0,,Con questo siamo a quattro.
+Dialogue: 0,0:14:18.58,0:14:20.63,Italics,Maomao,0,0,0,,Con 300 pezzi a testa,
+Dialogue: 0,0:14:20.63,0:14:22.38,Italics,Maomao,0,0,0,,la posta è salita a 600,
+Dialogue: 0,0:14:22.38,0:14:23.71,Italics,Maomao,0,0,0,,poi a 1200
+Dialogue: 0,0:14:23.71,0:14:25.13,Italics,Maomao,0,0,0,,e ora a 2400 pezzi.
+Dialogue: 0,0:14:25.55,0:14:28.47,Italics,Maomao,0,0,0,,Se per l'affitto mancano\N4500 pezzi d'argento,
+Dialogue: 0,0:14:28.47,0:14:30.26,Italics,Maomao,0,0,0,,mi basta batterne un altro.
+Dialogue: 0,0:14:30.68,0:14:34.89,Italics,Maomao,0,0,0,,Per sicurezza, ho fatto firmare loro\Nun semplice accordo.
+Dialogue: 0,0:14:37.35,0:14:39.02,Main,Proprietario,0,0,0,,Mi accetti come sfidante?
+Dialogue: 0,0:14:39.48,0:14:41.23,Italics,Maomao,0,0,0,,Non so se ce la faccio.
+Dialogue: 0,0:14:41.23,0:14:45.03,Italics,Maomao,0,0,0,,Dopo quattro avversari,\Nl'alcol comincia a farsi sentire.
+Dialogue: 0,0:14:45.40,0:14:47.99,Main,Proprietario,0,0,0,,Non pensare che sarà facile\Ncome con loro.
+Dialogue: 0,0:14:49.86,0:14:52.70,Main,Proprietario,0,0,0,,Ragazzo, meglio che ti prepari a sborsare.
+Dialogue: 0,0:14:57.20,0:14:59.33,Main,Contadino 2,0,0,0,,Ehi, cosa fai?
+Dialogue: 0,0:14:59.33,0:15:01.17,Main,Maomao,0,0,0,,Pensavo di cambiare un po'.
+Dialogue: 0,0:15:05.59,0:15:08.13,Main,Proprietario,0,0,0,,Aspetta, lo metto anche nella mia.
+Dialogue: 0,0:15:12.84,0:15:13.60,Main,Contadino 2,0,0,0,,Prego.
+Dialogue: 0,0:15:15.56,0:15:19.27,Main,Proprietario,0,0,0,,Non sarà qualche medicina\Nper rallentare la sbornia, eh?
+Dialogue: 0,0:15:42.08,0:15:43.00,Main,Contadino,0,0,0,,C-Capo!
+Dialogue: 0,0:15:44.33,0:15:46.63,Main,Contadino 2,0,0,0,,Ehi, cosa gli hai fatto?
+Dialogue: 0,0:15:46.63,0:15:50.97,Main,Maomao,0,0,0,,Assolutamente niente.\NHo bevuto la stessa identica cosa.
+Dialogue: 0,0:15:50.97,0:15:52.38,Main,Maomao,0,0,0,,L'avete visto tutti, no?
+Dialogue: 0,0:15:52.38,0:15:54.26,Main,Contadino 2,0,0,0,,Sì, però…
+Dialogue: 0,0:15:54.26,0:15:56.85,Main,Maomao,0,0,0,,La scommessa l'ho vinta io.
+Dialogue: 0,0:16:01.39,0:16:03.23,Main,Maomao,0,0,0,,Dove trovo il bagno?
+Dialogue: 0,0:16:03.81,0:16:05.56,Main,Locandiera,0,0,0,,Qui fuori a destra.
+Dialogue: 0,0:16:05.56,0:16:06.86,Main,Maomao,0,0,0,,Grazie mille.
+Dialogue: 0,0:16:19.79,0:16:22.29,Main,Marito,0,0,0,,Si può sapere cos'hai fatto?
+Dialogue: 0,0:16:22.29,0:16:23.50,Main,Maomao,0,0,0,,Niente di che.
+Dialogue: 0,0:16:23.50,0:16:25.71,Main,Maomao,0,0,0,,Volevo cambiare sapore
+Dialogue: 0,0:16:25.71,0:16:27.59,Main,Maomao,0,0,0,,e ho aggiunto dell'alcol.
+Dialogue: 0,0:16:28.59,0:16:30.17,Italics,Maomao,0,0,0,,Non si sa mai quando può servire,
+Dialogue: 0,0:16:30.17,0:16:33.05,Italics,Maomao,0,0,0,,perciò porto sempre con me\Ndell'alcol disinfettante.
+Dialogue: 0,0:16:33.26,0:16:35.51,Italics,Maomao,0,0,0,,La concentrazione di alcol è diversa,
+Dialogue: 0,0:16:35.51,0:16:37.93,Italics,Maomao,0,0,0,,una persona comune non lo regge.
+Dialogue: 0,0:16:38.14,0:16:39.97,Main,Marito,0,0,0,,Posso farti una domanda?
+Dialogue: 0,0:16:39.97,0:16:41.14,Main,Maomao,0,0,0,,Di che si tratta?
+Dialogue: 0,0:16:41.14,0:16:44.23,Main,Marito,0,0,0,,Anche tu hai messo quell'alcol\Nnella tua tazza,
+Dialogue: 0,0:16:44.23,0:16:45.77,Main,Marito,0,0,0,,non è così?
+Dialogue: 0,0:16:46.02,0:16:48.02,Main,Maomao,0,0,0,,Così poco non mi dà problemi.
+Dialogue: 0,0:16:48.02,0:16:50.11,Main,Maomao,0,0,0,,Volevo sbrigarmi a farla finita.
+Dialogue: 0,0:16:53.45,0:16:55.91,Main,Maomao,0,0,0,,Per fortuna\Nho raggiunto il bagno in tempo.
+Dialogue: 0,0:16:56.99,0:16:58.74,Main,Marito,0,0,0,,Capisco che tu abbia fiducia in te,
+Dialogue: 0,0:16:58.74,0:17:02.45,Main,Marito,0,0,0,,ma non credo sia il caso\Ndi scommettere sulla tua salute.
+Dialogue: 0,0:17:02.45,0:17:04.54,Main,Marito,0,0,0,,Per di più, l'hai fatto per noi.
+Dialogue: 0,0:17:06.21,0:17:09.04,Main,Maomao,0,0,0,,Non avrai frainteso qualcosa?
+Dialogue: 0,0:17:09.75,0:17:11.63,Main,Maomao,0,0,0,,Questa è la mia parte.
+Dialogue: 0,0:17:12.63,0:17:16.72,Main,Yuyuan,0,0,0,,M-Ma signorina! Non essere così crudele!
+Dialogue: 0,0:17:16.72,0:17:19.01,Main,Proprietario,0,0,0,,Ehi! Un momento!
+Dialogue: 0,0:17:19.01,0:17:21.06,Main,Maomao,0,0,0,,Farebbe meglio a dormire ancora.
+Dialogue: 0,0:17:21.06,0:17:22.93,Main,Proprietario,0,0,0,,La scommessa non è valida!
+Dialogue: 0,0:17:23.35,0:17:25.31,Main,Maomao,0,0,0,,Qui ci sono le vostre firme.
+Dialogue: 0,0:17:25.31,0:17:27.10,Main,Maomao,0,0,0,,Fatte di vostro pugno.
+Dialogue: 0,0:17:27.10,0:17:29.19,Main,Maomao,0,0,0,,Non vorrà dirmi che non ha letto!
+Dialogue: 0,0:17:29.19,0:17:31.23,Main,Proprietario,0,0,0,,Chi se ne importa di quella roba?!
+Dialogue: 0,0:17:31.23,0:17:33.36,Main,Proprietario,0,0,0,,Era soltanto per divertirsi!
+Dialogue: 0,0:17:33.36,0:17:34.90,Main,Proprietario,0,0,0,,Non conta, non conta!
+Dialogue: 0,0:17:34.90,0:17:37.03,Main,Maomao,0,0,0,,Allora non mi lascia scelta.
+Dialogue: 0,0:17:37.36,0:17:42.66,Main,Maomao,0,0,0,,Mi tocca riferire al governo\Nche state truccando le tasse!
+Dialogue: 0,0:17:50.17,0:17:52.38,Main,Primogenito,0,0,0,,Truccando… le tasse?
+Dialogue: 0,0:17:52.38,0:17:53.96,Main,Marito,0,0,0,,Che storia è questa?
+Dialogue: 0,0:17:53.96,0:17:57.26,Main,Maomao,0,0,0,,Per produrre alcolici,\Nci vuole il permesso dello Stato.
+Dialogue: 0,0:17:57.55,0:17:59.01,Main,Maomao,0,0,0,,Una cosa è l'uso personale,
+Dialogue: 0,0:17:59.01,0:18:03.22,Main,Maomao,0,0,0,,ma venderlo in un locale\Nè assolutamente soggetto a tassazione.
+Dialogue: 0,0:18:03.72,0:18:07.69,Italics,Maomao,0,0,0,,Mi sono chiesta perché la taverna\Nospitasse questo incontro.
+Dialogue: 0,0:18:07.69,0:18:09.40,Italics,Maomao,0,0,0,,Era effettivamente strano.
+Dialogue: 0,0:18:10.02,0:18:12.98,Italics,Maomao,0,0,0,,Una grande fornitura\Ndi buon vino a poco prezzo
+Dialogue: 0,0:18:12.98,0:18:14.57,Italics,Maomao,0,0,0,,è un grosso aiuto per loro.
+Dialogue: 0,0:18:14.78,0:18:16.78,Italics,Maomao,0,0,0,,Se è il fornitore a chiederlo,
+Dialogue: 0,0:18:16.78,0:18:18.28,Italics,Maomao,0,0,0,,la taverna deve prestarsi,
+Dialogue: 0,0:18:18.28,0:18:19.78,Italics,Maomao,0,0,0,,anche se porta seccature.
+Dialogue: 0,0:18:20.49,0:18:22.12,Italics,Maomao,0,0,0,,Se questo tizio produce
+Dialogue: 0,0:18:22.12,0:18:24.74,Italics,Maomao,0,0,0,,vino opaco sfruttando i contadini…
+Dialogue: 0,0:18:24.74,0:18:27.25,Italics,Maomao,0,0,0,,capisco perché\Noffra loro quello raffinato.
+Dialogue: 0,0:18:27.25,0:18:30.75,Italics,Maomao,0,0,0,,Non ordinerebbe qualcosa\Nche sono tutti stufi di bere.
+Dialogue: 0,0:18:31.29,0:18:35.71,Main,Maomao,0,0,0,,E forse mente anche\Nsui prezzi degli ingredienti, vero?
+Dialogue: 0,0:18:36.01,0:18:39.68,Main,Maomao,0,0,0,,Il vino richiede\Ngrandi quantità di acqua e riso.
+Dialogue: 0,0:18:39.93,0:18:42.43,Main,Maomao,0,0,0,,Ricordo cosa ha detto\Nai fabbricanti di carta.
+Dialogue: 0,0:18:42.72,0:18:47.18,Main,Maomao,0,0,0,,Che si è ridotta la produzione di riso\Nperché inquinano l'acqua.
+Dialogue: 0,0:18:47.18,0:18:49.44,Main,Maomao,0,0,0,,Era una bugia, vero?
+Dialogue: 0,0:18:49.44,0:18:52.27,Main,Maomao,0,0,0,,Anzi, il raccolto\Nè più abbondante di prima, no?
+Dialogue: 0,0:18:53.36,0:18:57.44,Main,Maomao,0,0,0,,Per la carta servono\Ncrusca di riso e kuzu.
+Dialogue: 0,0:18:57.44,0:19:01.41,Main,Maomao,0,0,0,,L'acqua contenente queste sostanze\Nè un buon fertilizzante.
+Dialogue: 0,0:19:02.24,0:19:05.29,Main,Maomao,0,0,0,,Sicuramente lo sapeva anche\Nil vecchio proprietario.
+Dialogue: 0,0:19:05.29,0:19:09.21,Main,Maomao,0,0,0,,Ma quello attuale,\Nper nascondere l'aumento del raccolto,
+Dialogue: 0,0:19:09.21,0:19:10.92,Main,Maomao,0,0,0,,ha cominciato a produrre vino.
+Dialogue: 0,0:19:11.54,0:19:14.09,Main,Maomao,0,0,0,,Doppia evasione fiscale,\Nun grave crimine.
+Dialogue: 0,0:19:16.05,0:19:19.30,Italics,Maomao,0,0,0,,Da come ha reagito,\Ncredo di averci preso.
+Dialogue: 0,0:19:19.30,0:19:21.72,Main,Contadino 3,0,0,0,,H-Hai le prove di ciò che dici?
+Dialogue: 0,0:19:21.72,0:19:23.55,Main,Maomao,0,0,0,,State tranquilli.
+Dialogue: 0,0:19:23.55,0:19:27.52,Main,Maomao,0,0,0,,Se siete innocenti,\Ni funzionari non troveranno nulla.
+Dialogue: 0,0:19:29.35,0:19:31.85,Main,Proprietario,0,0,0,,Sei molto sicura di te.
+Dialogue: 0,0:19:31.85,0:19:35.19,Main,Proprietario,0,0,0,,Credi di comportarti così\Ne passarla liscia?
+Dialogue: 0,0:19:35.19,0:19:38.40,Main,Maomao,0,0,0,,Rispedisco al mittente la domanda.
+Dialogue: 0,0:19:38.40,0:19:40.65,Main,Maomao,0,0,0,,Guardi la situazione e giudichi lei.
+Dialogue: 0,0:19:47.79,0:19:50.37,Main,Maomao,0,0,0,,Può chiamare aiuto se vuole!
+Dialogue: 0,0:19:50.37,0:19:53.71,Main,Maomao,0,0,0,,Io invece chiamo i funzionari.
+Dialogue: 0,0:19:54.13,0:19:58.59,Italics,Maomao,0,0,0,,Anche se quello di cui\Ndovrebbero aver paura è già qui.
+Dialogue: 0,0:20:00.26,0:20:02.59,Main,Yuyuan,0,0,0,,Signorina, mi sembri molto…
+Dialogue: 0,0:20:02.59,0:20:04.47,Main,Yuyuan,0,0,0,,diversa dal solito.
+Dialogue: 0,0:20:05.64,0:20:06.89,Main,Maomao,0,0,0,,Se vuoi farlo,
+Dialogue: 0,0:20:06.89,0:20:09.39,Main,Maomao,0,0,0,,dovresti essere pronto alle conseguenze.
+Dialogue: 0,0:20:13.10,0:20:17.07,Main,Maomao,0,0,0,,Ma poi a che serve tutto questo astio?
+Dialogue: 0,0:20:21.61,0:20:23.66,Main,Figlia proprietario,0,0,0,,Basta con queste assurde pretese!
+Dialogue: 0,0:20:25.74,0:20:27.58,Main,Secondogenito,0,0,0,,Ma non siamo stati noi…
+Dialogue: 0,0:20:27.78,0:20:28.99,Main,Figlia proprietario,0,0,0,,Chiedo perdono!
+Dialogue: 0,0:20:28.99,0:20:32.04,Main,Figlia proprietario,0,0,0,,So che ha di nuovo\Navanzato richieste irragionevoli!
+Dialogue: 0,0:20:32.04,0:20:34.96,Main,Figlia proprietario,0,0,0,,Vi prego, perdonate il mio sciocco padre!
+Dialogue: 0,0:20:36.21,0:20:37.71,Main,Primogenito,0,0,0,,Ti prego, alzati!
+Dialogue: 0,0:20:38.17,0:20:39.80,Main,Primogenito,0,0,0,,Non faremmo questo a tuo padre.
+Dialogue: 0,0:20:41.26,0:20:44.13,Main,Proprietario,0,0,0,,Ehi, tu! Non avvicinarti a mia figlia!
+Dialogue: 0,0:20:44.13,0:20:45.05,Main,Figlia proprietario,0,0,0,,Papà!
+Dialogue: 0,0:20:45.05,0:20:45.94,Main,Primogenito,0,0,0,,Padre…
+Dialogue: 0,0:20:45.94,0:20:48.55,Main,Proprietario,0,0,0,,Non ho intenzione\Ndi diventare tuo suocero!
+Dialogue: 0,0:20:48.55,0:20:50.77,Italics,Maomao,0,0,0,,Ma che sta succedendo?
+Dialogue: 0,0:20:51.10,0:20:52.52,Main,Maomao,0,0,0,,Non mi dite che…
+Dialogue: 0,0:20:53.02,0:20:55.44,Main,Secondogenito,0,0,0,,Credo che sia proprio come pensa.
+Dialogue: 0,0:20:57.15,0:20:59.15,Italics,Maomao,0,0,0,,Ora so perché il primogenito\Nsta coi contadini
+Dialogue: 0,0:20:59.15,0:21:03.44,Italics,Maomao,0,0,0,,e perché il proprietario\Nli odia e vuole cacciarli da qui.
+Dialogue: 0,0:21:05.66,0:21:06.86,Main,Maomao,0,0,0,,Che stupidaggine.
+Dialogue: 0,0:21:07.28,0:21:09.49,Main,Secondogenito,0,0,0,,Mio fratello è molto determinato.
+Dialogue: 0,0:21:10.70,0:21:14.75,Main,Renshi,0,0,0,,E per questo stavano per mandare\Nin rovina il villaggio, bella storia.
+Dialogue: 0,0:21:14.75,0:21:19.92,Italics,Maomao,0,0,0,,A ben pensarci, il ragazzo\Nè pur sempre parente del ciarlatano.
+Dialogue: 0,0:21:23.01,0:21:25.55,Italics,Maomao,0,0,0,,Immagino non ci sia molto da fare allora.
+Dialogue: 0,0:21:25.88,0:21:27.80,Italics,Maomao,0,0,0,,Ma io dovrei rassegnarmi?!
+Dialogue: 0,0:21:27.80,0:21:28.93,Main,Maomao,0,0,0,,Chiedo scusa!
+Dialogue: 0,0:21:28.93,0:21:30.35,Main,Maomao,0,0,0,,Altro vino, per favore.
+Dialogue: 0,0:21:30.64,0:21:32.27,Main,Locandiera,0,0,0,,Vuoi bere ancora?
+Dialogue: 0,0:21:32.47,0:21:34.18,Main,Maomao,0,0,0,,Ho appena iniziato.
+Dialogue: 0,0:21:45.19,0:21:46.90,Italics,Maomao,0,0,0,,Alla fine hanno concluso
+Dialogue: 0,0:21:47.24,0:21:49.70,Italics,Maomao,0,0,0,,che i lavoratori finiranno di pagare\Nin cinque anni.
+Dialogue: 0,0:21:50.58,0:21:52.74,Italics,Maomao,0,0,0,,Per quanto riguarda la scommessa,
+Dialogue: 0,0:21:52.74,0:21:54.20,Italics,Maomao,0,0,0,,per i prossimi dieci anni
+Dialogue: 0,0:21:54.20,0:21:57.87,Italics,Maomao,0,0,0,,il proprietario dovrà mandare del riso\Nal Padiglione Lüqing.
+Dialogue: 0,0:21:59.29,0:22:00.21,Italics,Maomao,0,0,0,,E poi,
+Dialogue: 0,0:22:00.71,0:22:04.59,Italics,Maomao,0,0,0,,per quanto riguarda la storia\Ncon la figlia del proprietario…
+Dialogue: 0,0:22:06.01,0:22:07.63,Main,Maomao,0,0,0,,Che cosa me ne frega?
+Dialogue: 0,0:23:45.06,0:24:00.00,EPSpeziale,sign,0,0,0,,{\fs15\shad1\fscx85\pos(135.2,58.6)}Nel prossimo episodio
+Dialogue: 0,0:23:53.49,0:23:57.62,Narratore,Narratrice,0,0,0,,{\an8}Nel prossimo episodio,\N"Canapa e credenze popolari".
+Dialogue: 0,0:23:53.57,0:24:00.00,EPSpeziale,sign,0,0,0,,{\fad(487,0)\an1\pos(353,309.818)}Episodio 56\h\h\h{\fscx90}Canapa e credenze popolari
+
