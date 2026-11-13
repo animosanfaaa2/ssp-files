@@ -1,0 +1,348 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,20,20,20,1
+Style: Italique,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,2,20,20,20,1
+Style: TiretsDefault,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,1,20,20,20,1
+Style: Sign,Arial,21,&H00FFFFFF,&H000000FF,&H00292929,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,20,20,20,1
+Style: Titre_Ép,Times New Roman,26,&H0FFFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,25,25,25,1
+Style: À_suivre,Georgia,18,&H05FFFFFF,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,1,0,1,0,0,7,25,25,25,1
+Style: À_suivre_BG,Georgia,18,&HFFFFF8FF,&H000000FF,&H27202021,&H00000000,-1,0,0,0,100,100,1,0,1,0.5,0,7,25,25,25,1
+Style: Titre_Ép_fin_BG,Times New Roman,26,&HFFFFFFFF,&H000000FF,&H27202021,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,25,25,25,1
+Style: Titre_Ép_BG,Times New Roman,26,&HFFFFFFFF,&H000000FF,&H27202021,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,25,25,25,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.40,0:00:13.53,Titre_Ép,SIGN,0,0,0,,{\blur4\fad(4859,434)\bord2\3c&H765A5E&}L{\fs26}ES {\fs}C{\fs26}ARNETS DE {\3c&H3C24B7&\bord2.8\blur2.2}L’APOTHICAIRE
+Dialogue: 1,0:06:02.97,0:06:06.89,Titre_Ép,SIGN,0,0,0,,{\blur0.5\fad(479,484)\fscx85\pos(528,280)}É{\fs20}PISODE {\fs24}55{\fsp10} {\fsp\fs}L{\fs20}E{\fs} P{\fs20}ARI
+Dialogue: 0,0:06:02.97,0:06:06.89,Titre_Ép_BG,SIGN,0,0,0,,{\blur0.5\fad(479,484)\fscx85\pos(528,280)}É{\fs20}PISODE {\fs24}55{\fsp10} {\fsp\fs}L{\fs20}E{\fs} P{\fs20}ARI
+Dialogue: 0,0:01:33.20,0:01:35.10,Italique,Mao Mao,0,0,0,,Sur demande de maître Jinshi,
+Dialogue: 0,0:01:35.24,0:01:38.45,Italique,Mao Mao,0,0,0,,je l’ai suivi au village\Nde ce brave charlatan.
+Dialogue: 0,0:01:39.27,0:01:41.18,Italique,Mao Mao,0,0,0,,Pourquoi il se déplace incognito ?
+Dialogue: 0,0:01:41.33,0:01:43.46,Italique,Mao Mao,0,0,0,,Il se passe quoi, dans ce village ?
+Dialogue: 0,0:01:45.19,0:01:46.09,Default,Mao Mao,0,0,0,,J’arrive.
+Dialogue: 0,0:01:56.39,0:01:58.47,Default,Mao Mao,0,0,0,,Vous pouvez parler librement.
+Dialogue: 0,0:01:58.64,0:02:00.77,Default,Mao Mao,0,0,0,,Les autres chambres sont loin.
+Dialogue: 0,0:02:01.10,0:02:02.67,Default,Jinshi,0,0,0,,Tu faisais ta toilette ?
+Dialogue: 0,0:02:02.80,0:02:04.45,Default,Mao Mao,0,0,0,,Je me suis lavé les cheveux.
+Dialogue: 0,0:02:04.59,0:02:07.15,Default,Mao Mao,0,0,0,,Désolée de ne pas être\Nplus présentable.
+Dialogue: 0,0:02:08.15,0:02:09.52,Italique,Mao Mao,0,0,0,,Il vient faire quoi ?
+Dialogue: 0,0:02:10.69,0:02:13.45,Default,Jinshi,0,0,0,,Serais-tu capable\Nde répliquer ce grimage ?
+Dialogue: 0,0:02:13.86,0:02:15.36,Default,Mao Mao,0,0,0,,Je pense, oui.
+Dialogue: 0,0:02:15.57,0:02:16.91,Default,Mao Mao,0,0,0,,Si j’ai le nécessaire.
+Dialogue: 0,0:02:17.07,0:02:18.32,Default,Jinshi,0,0,0,,Je compte sur toi.
+Dialogue: 0,0:02:24.43,0:02:26.79,Default,Mao Mao,0,0,0,,Je vais vous chercher\Nde l’eau propre.
+Dialogue: 0,0:02:26.92,0:02:29.44,Default,Jinshi,0,0,0,,Ne t’embête donc pas.\NÇa suffira bien.
+Dialogue: 0,0:02:31.20,0:02:34.43,Italique,Mao Mao,0,0,0,,J’ai pris un bain de pieds\Naprès m’être lavé les cheveux.
+Dialogue: 0,0:02:34.65,0:02:35.66,Default,Jinshi,0,0,0,,Il y a un souci ?
+Dialogue: 0,0:02:35.80,0:02:37.51,Default,Mao Mao,0,0,0,,Non, faites donc.
+Dialogue: 0,0:02:37.71,0:02:41.76,Italique,Mao Mao,0,0,0,,S’il ne s’en formalise pas,\Nje vais bien me garder de lui dire.
+Dialogue: 0,0:02:51.87,0:02:54.82,Italique,Mao Mao,0,0,0,,Sa cicatrice s’atténue peu à peu\Navec le temps.
+Dialogue: 0,0:02:55.53,0:02:57.70,Italique,Mao Mao,0,0,0,,Mais il la gardera toute sa vie.
+Dialogue: 0,0:02:58.74,0:03:00.24,Default,Mao Mao,0,0,0,,Au fait, maître Jinshi.
+Dialogue: 0,0:03:00.37,0:03:01.50,Default,Jinshi,0,0,0,,Oui ?
+Dialogue: 0,0:03:01.63,0:03:05.36,Default,Mao Mao,0,0,0,,Pourquoi sommes-nous venus\Ndans le village du docteur de la cour ?
+Dialogue: 0,0:03:06.08,0:03:09.79,Default,Jinshi,0,0,0,,Ce n’est qu’une étape.\NJ’aimerais vérifier quelque chose.
+Dialogue: 0,0:03:09.95,0:03:11.34,Italique,Mao Mao,0,0,0,,Rien qu’une étape ?
+Dialogue: 0,0:03:11.59,0:03:14.09,Default,Mao Mao,0,0,0,,Puis-je vous demander\Nde quoi il s’agit ?
+Dialogue: 0,0:03:14.46,0:03:18.58,Default,Jinshi,0,0,0,,Ton cousin a tiqué sur quelque chose,\Nen passant les chiffres au boulier.
+Dialogue: 0,0:03:19.73,0:03:21.18,Italique,Mao Mao,0,0,0,,Lahan a levé un lièvre ?
+Dialogue: 0,0:03:21.54,0:03:22.91,Default,Jinshi,0,0,0,,Depuis quelques années,
+Dialogue: 0,0:03:23.06,0:03:26.13,Default,Jinshi,0,0,0,,il semble y avoir ici\Ndes irrégularités sur le riz.
+Dialogue: 0,0:03:26.52,0:03:29.90,Italique,Mao Mao,0,0,0,,Lahan a une affinité particulière\Navec les nombres.
+Dialogue: 0,0:03:30.04,0:03:32.82,Italique,Mao Mao,0,0,0,,S’il décèle une incohérence,\Nil faut enquêter.
+Dialogue: 0,0:03:33.28,0:03:37.46,Default,Jinshi,0,0,0,,Je n’imaginais toutefois pas\Nque ce serait une telle histoire.
+Dialogue: 0,0:03:37.99,0:03:40.78,Italique,Mao Mao,0,0,0,,Le bailleur actuel\Ndes terres de la papeterie
+Dialogue: 0,0:03:40.91,0:03:45.95,Italique,Mao Mao,0,0,0,,semble décidé à chasser les artisans\Npour faire le papier lui-même.
+Dialogue: 0,0:03:48.04,0:03:52.32,Default,Jinshi,0,0,0,,Nous devons nous consacrer\Nau développement de l’industrie du papier.
+Dialogue: 0,0:03:52.98,0:03:55.80,Default,Jinshi,0,0,0,,Impossible que des amateurs\Nremplacent nos artisans.
+Dialogue: 0,0:03:56.25,0:03:58.05,Italique,Mao Mao,0,0,0,,Oui, c’est délicat.
+Dialogue: 0,0:03:58.45,0:04:00.55,Default,Mao Mao,0,0,0,,Je vous maquille maintenant,
+Dialogue: 0,0:04:00.72,0:04:02.55,Default,Mao Mao,0,0,0,,ou vous préférez demain matin ?
+Dialogue: 0,0:04:02.83,0:04:04.10,Default,Jinshi,0,0,0,,Fais-le maintenant.
+Dialogue: 0,0:04:04.42,0:04:08.66,Italique,Mao Mao,0,0,0,,C’est vrai qu’on court à l’émeute\Nsi je le jette dehors comme ça.
+Dialogue: 0,0:04:10.73,0:04:13.27,Default,Mao Mao,0,0,0,,Maître Basen\Nn’aurait pas pu le faire ?
+Dialogue: 0,0:04:13.48,0:04:15.65,Default,Jinshi,0,0,0,,Il n’est pas assez soigneux.
+Dialogue: 0,0:04:16.07,0:04:18.86,Default,Mao Mao,0,0,0,,Si je suis du voyage,\Nc’est pour m’en charger ?
+Dialogue: 0,0:04:19.15,0:04:20.62,Default,Jinshi,0,0,0,,Pas seulement, non.
+Dialogue: 0,0:04:29.08,0:04:30.75,Default,Mao Mao,0,0,0,,Ne vous endormez pas ici.
+Dialogue: 0,0:04:30.98,0:04:33.34,Default,Mao Mao,0,0,0,,Ou j’appelle maître Basen.
+Dialogue: 0,0:04:33.50,0:04:36.73,Default,Jinshi,0,0,0,,Crois-tu qu’il puisse\Nme contraindre à quoi que ce soit ?
+Dialogue: 0,0:04:36.88,0:04:38.26,Italique,Mao Mao,0,0,0,,Non, clairement.
+Dialogue: 0,0:04:38.42,0:04:42.64,Italique,Mao Mao,0,0,0,,Contrairement à Gaoshun, son père,\NBasen est encore mal dégrossi.
+Dialogue: 0,0:04:42.80,0:04:44.85,Default,Mao Mao,0,0,0,,Pourquoi l’avoir choisi, alors ?
+Dialogue: 0,0:04:46.78,0:04:49.36,Default,Jinshi,0,0,0,,Oh, tu sais… Il a ses qualités.
+Dialogue: 0,0:04:49.94,0:04:51.90,Default,Jinshi,0,0,0,,Dans certains domaines.
+Dialogue: 0,0:04:53.06,0:04:55.01,Default,Mao Mao,0,0,0,,Vos paroles n’ont ni queue ni tête.
+Dialogue: 0,0:04:56.36,0:05:00.39,Italique,Mao Mao,0,0,0,,Enfin, il peut côtoyer maître Jinshi\Nsans devenir fou de désir.
+Dialogue: 0,0:05:00.53,0:05:02.48,Italique,Mao Mao,0,0,0,,C’est déjà un bon point.
+Dialogue: 0,0:05:04.61,0:05:06.75,Italique,Mao Mao,0,0,0,,Voilà. C’est fait.
+Dialogue: 0,0:05:20.84,0:05:22.26,Default,Jinshi,0,0,0,,Tu as terminé ?
+Dialogue: 0,0:05:25.55,0:05:26.68,Default,Jinshi,0,0,0,,Quelle tête !
+Dialogue: 0,0:05:31.69,0:05:33.23,Default,Jinshi,0,0,0,,Arrête, tu vas m’achever !
+Dialogue: 0,0:05:33.36,0:05:37.69,Italique,Mao Mao,0,0,0,,Plus il demande grâce,\Nplus j’ai envie de continuer.
+Dialogue: 0,0:05:38.78,0:05:41.15,TiretsDefault,Basen/Jinshi,243,0,0,,– J’entre.\N– Ne fais pas ça…
+Dialogue: 0,0:05:56.75,0:06:00.09,Italique,Mao Mao,0,0,0,,On n’avait jamais été\Nautant en phase…
+Dialogue: 0,0:06:12.43,0:06:15.48,Italique,Mao Mao,0,0,0,,Nous voilà à la concertation.
+Dialogue: 0,0:06:16.04,0:06:18.64,Italique,Mao Mao,0,0,0,,Je suppose qu’au milieu,\Nc’est le bailleur.
+Dialogue: 0,0:06:22.44,0:06:24.78,Default,Basen,0,0,0,,Avais-tu vraiment besoin de venir ?
+Dialogue: 0,0:06:24.95,0:06:27.03,Default,Mao Mao,0,0,0,,Le bon docteur me l’a demandé.
+Dialogue: 0,0:06:27.17,0:06:29.70,Default,Mao Mao,0,0,0,,Je ne peux tout de même pas\Nl’abandonner.
+Dialogue: 0,0:06:30.01,0:06:32.37,Default,Basen,0,0,0,,Tu en parles\Ncomme si c’était un chien.
+Dialogue: 0,0:06:35.00,0:06:38.67,Default,Basen,0,0,0,,Ça fait beaucoup d’alcool,\Nmême pour une taverne.
+Dialogue: 0,0:06:39.55,0:06:43.13,Italique,Mao Mao,0,0,0,,Ils doivent surtout vendre\Nle vin trouble sur les étagères.
+Dialogue: 0,0:06:43.30,0:06:46.22,Italique,Mao Mao,0,0,0,,Dans les grandes jarres, au fond,\Nil y a du vin clair.
+Dialogue: 0,0:06:46.77,0:06:50.60,Italique,Mao Mao,0,0,0,,À la capitale, on préfère le vin clair\Net les spiritueux.
+Dialogue: 0,0:06:50.81,0:06:54.41,Italique,Mao Mao,0,0,0,,Je suppose que le vin trouble\Nest bu par les clients du cru.
+Dialogue: 0,0:06:54.60,0:06:57.20,Default,Bailleur,0,0,0,,Bon, vous avez de quoi\Nrégler votre dette ?
+Dialogue: 0,0:06:57.34,0:06:59.81,Italique,Mao Mao,0,0,0,,Les papetiers\Nn’ont pas l’avantage du nombre.
+Dialogue: 0,0:06:59.94,0:07:02.00,Italique,Mao Mao,0,0,0,,Si ça dégénère, impossible de fuir.
+Dialogue: 0,0:07:02.14,0:07:03.98,Default,Beau-frère,0,0,0,,Il reste des échéances !
+Dialogue: 0,0:07:04.11,0:07:07.20,Default,Bailleur,0,0,0,,Si vous ne pouvez pas payer,\Nfaites vos bagages.
+Dialogue: 0,0:07:07.35,0:07:09.94,Default,Beau-frère,0,0,0,,Laissez-nous réfléchir\Nencore un peu.
+Dialogue: 0,0:07:10.12,0:07:12.08,Italique,Mao Mao,0,0,0,,C’est leur contrat ?
+Dialogue: 0,0:07:12.45,0:07:15.91,Default,Bailleur,0,0,0,,Justement ! Je vous ai proposé\Nune année de rab.
+Dialogue: 0,0:07:16.08,0:07:19.72,Default,Bailleur,0,0,0,,En échange,\Nil suffit de nous apprendre les ficelles.
+Dialogue: 0,0:07:20.09,0:07:21.88,Italique,Mao Mao,0,0,0,,C’est absurde, comme demande.
+Dialogue: 0,0:07:22.01,0:07:23.86,Italique,Mao Mao,0,0,0,,En échange d’un moratoire,
+Dialogue: 0,0:07:23.99,0:07:26.22,Italique,Mao Mao,0,0,0,,ils doivent partager\Nleur savoir-faire.
+Dialogue: 0,0:07:26.35,0:07:28.89,Italique,Mao Mao,0,0,0,,Ils vont se faire dépouiller\Nde leur expertise.
+Dialogue: 0,0:07:29.32,0:07:32.64,Italique,Mao Mao,0,0,0,,Le but est de rafler\Nle titre de fournisseur de la cour
+Dialogue: 0,0:07:32.81,0:07:36.31,Italique,Mao Mao,0,0,0,,après avoir expulsé les artisans\Net pris leur place.
+Dialogue: 0,0:07:37.39,0:07:40.15,Italique,Mao Mao,0,0,0,,Pourquoi le bailleur\Ns’embête autant ?
+Dialogue: 0,0:07:40.28,0:07:43.51,Italique,Mao Mao,0,0,0,,Il pourrait les rendre corvéables\Nen se servant de la dette.
+Dialogue: 0,0:07:43.63,0:07:45.84,Italique,Mao Mao,0,0,0,,Il a l’air de haïr les papetiers.
+Dialogue: 0,0:07:58.29,0:08:02.67,Italique,Mao Mao,0,0,0,,Le contrat est vieux d’au moins dix ans,\Nmais le papier est remarquable.
+Dialogue: 0,0:08:03.12,0:08:06.42,Italique,Mao Mao,0,0,0,,S’il était de piètre qualité,\Nil tomberait en lambeaux.
+Dialogue: 0,0:08:06.84,0:08:09.13,Italique,Mao Mao,0,0,0,,L’échéance à vingt ans
+Dialogue: 0,0:08:09.26,0:08:12.26,Italique,Mao Mao,0,0,0,,et les montants mensuels\Nsont stipulés.
+Dialogue: 0,0:08:12.72,0:08:16.93,Italique,Mao Mao,0,0,0,,Ce contrat est en règle.\NPourquoi ils le contestent ?
+Dialogue: 0,0:08:17.48,0:08:19.90,Default,Cadet,0,0,0,,Ils disent que le contrat\Nest invalide.
+Dialogue: 0,0:08:20.10,0:08:21.73,Default,Mao Mao,0,0,0,,Des sceaux sont apposés.
+Dialogue: 0,0:08:21.98,0:08:24.86,Default,Mao Mao,0,0,0,,C’est un cachet officiel\Nqui tient lieu de signature.
+Dialogue: 0,0:08:25.03,0:08:26.75,Default,Cadet,0,0,0,,Certes…
+Dialogue: 0,0:08:26.82,0:08:30.08,Default,Cadet,0,0,0,,Mais l’ancien bailleur\Nne savait pas lire.
+Dialogue: 0,0:08:30.21,0:08:33.33,Italique,Mao Mao,0,0,0,,Les propriétaires terriens\Nmanipulent plein de documents.
+Dialogue: 0,0:08:33.49,0:08:36.50,Italique,Mao Mao,0,0,0,,En général, ils sont assez éduqués\Npour lire et écrire.
+Dialogue: 0,0:08:36.66,0:08:39.04,Default,Cadet,0,0,0,,Il avait rejoint la famille\Npar mariage.
+Dialogue: 0,0:08:39.16,0:08:44.62,Sign,SIGN,0,0,0,,{\blur0.5\pos(235,12)\fnGeorgia\fs24\c&HE8E8E9&\bord1\3c&H201F1F&\fscx80\fscy90}F{\fs18}ILLE\NDE LA MAISON
+Dialogue: 0,0:08:42.29,0:08:44.62,Sign,SIGN,0,0,0,,{\blur0.5\fad(772,0)\pos(140,22)\fnGeorgia\fs24\c&HE8E8E9&\bord1\3c&H201F1F&\fscx80\fscy90}G{\fs18}ENDRE
+Dialogue: 0,0:08:39.58,0:08:41.25,Italique,Mao Mao,0,0,0,,Ça explique bien des choses.
+Dialogue: 0,0:08:41.38,0:08:44.76,Italique,Mao Mao,0,0,0,,Si c’était un métayer\Nayant épousé la fille de la maison,
+Dialogue: 0,0:08:44.89,0:08:47.26,Italique,Mao Mao,0,0,0,,il n’avait sûrement jamais reçu\Nd’éducation.
+Dialogue: 0,0:08:47.46,0:08:49.55,Default,Cadet,0,0,0,,Sa femme s’occupait des papiers.
+Dialogue: 0,0:08:49.68,0:08:53.64,Default,Cadet,0,0,0,,Après le décès de son épouse,\Nil a eu recours à une agence de scribes,
+Dialogue: 0,0:08:53.79,0:08:55.43,Default,Cadet,0,0,0,,notamment pour ce contrat.
+Dialogue: 0,0:08:56.85,0:09:00.03,Default,Mao Mao,0,0,0,,Il ne reste aucun témoin\Nde la signature de l’époque ?
+Dialogue: 0,0:09:00.16,0:09:01.65,Default,Mao Mao,0,0,0,,Qu’en est-il du scribe ?
+Dialogue: 0,0:09:01.98,0:09:05.27,Default,Cadet,0,0,0,,Il est décédé,\Nainsi que le témoin.
+Dialogue: 0,0:09:01.77,0:09:04.77,Sign,SIGN,0,0,0,,{\fad(0,876)\blur0.5\fnGeorgia\fs24\c&HE8E8E9&\bord1\3c&H201F1F&\fscx80\fscy90\pos(158,15)}T{\fs18}ÉMOIN
+Dialogue: 0,0:09:01.77,0:09:03.81,Sign,SIGN,0,0,0,,{\fad(0,876)\blur0.5\fnGeorgia\fs24\c&HE8E8E9&\bord1\3c&H201F1F&\fscx80\fscy90\pos(314,52)}S{\fs18}CRIBE
+Dialogue: 0,0:09:01.77,0:09:08.82,Sign,SIGN,0,0,0,,{\blur0.5\fnGeorgia\fs24\c&HE8E8E9&\bord1\3c&H201F1F&\fscx80\fscy90\pos(475,82)}B{\fs18}AILLEUR
+Dialogue: 0,0:09:05.40,0:09:08.82,Default,Cadet,0,0,0,,Le contrat a été signé il y a vingt ans,\Net ils étaient âgés.
+Dialogue: 0,0:09:09.07,0:09:11.20,Italique,Mao Mao,0,0,0,,Toute cette histoire est absurde.
+Dialogue: 0,0:09:11.90,0:09:15.49,Default,Bailleur,0,0,0,,Vous n’êtes pas prêts à lever le camp,\Non dirait. Ça me va !
+Dialogue: 0,0:09:15.66,0:09:20.46,Default,Bailleur,0,0,0,,Je vais vous prêter quelques jeunots.\NFormez-les bien d’ici la fin d’année !
+Dialogue: 0,0:09:21.56,0:09:25.13,Default,Bailleur,0,0,0,,Bon, maintenant que c’est réglé,\Nservez-moi à boire !
+Dialogue: 0,0:09:25.25,0:09:26.80,Default,Bailleur,0,0,0,,Tournée générale !
+Dialogue: 0,0:09:32.59,0:09:33.59,Italique,Mao Mao,0,0,0,,Tiens ?
+Dialogue: 0,0:09:35.89,0:09:38.89,Italique,Mao Mao,0,0,0,,Ce n’est pas du vin trouble ?\NC’est du vin clair.
+Dialogue: 0,0:09:45.08,0:09:47.19,Italique,Mao Mao,0,0,0,,Et le bailleur\Ntourne au spiritueux.
+Dialogue: 0,0:09:47.36,0:09:49.61,Italique,Mao Mao,0,0,0,,Il a l’air de tenir l’alcool.
+Dialogue: 0,0:09:50.45,0:09:54.41,Italique,Mao Mao,0,0,0,,Tout de même,\Noffrir du vin clair à tout le monde…
+Dialogue: 0,0:09:54.57,0:09:56.58,Italique,Mao Mao,0,0,0,,Il est généreux.
+Dialogue: 0,0:09:56.83,0:09:59.62,Italique,Mao Mao,0,0,0,,Une tournée de vin trouble\Naurait été moins chère.
+Dialogue: 0,0:10:00.16,0:10:01.29,Default,Mao Mao,0,0,0,,Madame !
+Dialogue: 0,0:10:01.47,0:10:02.37,Default,Patronne,0,0,0,,Quoi donc ?
+Dialogue: 0,0:10:02.50,0:10:05.33,Default,Mao Mao,0,0,0,,Je prendrai une coupe aussi.\NLe même vin qu’eux.
+Dialogue: 0,0:10:07.21,0:10:09.46,Italique,Mao Mao,0,0,0,,Maître Jinshi a remarqué aussi.
+Dialogue: 0,0:10:15.39,0:10:17.85,Italique,Mao Mao,0,0,0,,Il a une belle attaque sucrée !
+Dialogue: 0,0:10:18.01,0:10:21.39,Italique,Mao Mao,0,0,0,,Ça ne vaut pas les vins de la capitale,\Nmais ça se défend.
+Dialogue: 0,0:10:21.56,0:10:25.16,Italique,Mao Mao,0,0,0,,Par contre, il est fort en alcool,\Npour un vin aussi doux.
+Dialogue: 0,0:10:25.81,0:10:29.44,Default,Mao Mao,0,0,0,,Excusez-moi,\Nil y a une distillerie, par ici ?
+Dialogue: 0,0:10:29.78,0:10:33.27,Default,Patronne,0,0,0,,Non, il n’y a rien de la sorte.
+Dialogue: 0,0:10:33.43,0:10:34.44,Default,Mao Mao,0,0,0,,Je me disais bien…
+Dialogue: 0,0:10:36.24,0:10:37.49,Italique,Jinshi,0,0,0,,Depuis quelques années,
+Dialogue: 0,0:10:37.62,0:10:40.51,Italique,Jinshi,0,0,0,,il semble y avoir ici\Ndes irrégularités sur le riz.
+Dialogue: 0,0:10:48.92,0:10:53.13,Default,Bailleur,0,0,0,,Tu veux quoi, ma petite ?\NTu te proposes pour me verser à boire ?
+Dialogue: 0,0:10:54.59,0:10:56.77,Default,Mao Mao,0,0,0,,Ma petite demoiselle !\NQue fais-tu ?
+Dialogue: 0,0:11:02.06,0:11:04.94,Default,Mao Mao,0,0,0,,Que diriez-vous\Nd’un duel à la bouteille ?
+Dialogue: 0,0:11:09.19,0:11:12.79,Default,Bailleur,0,0,0,,Un duel à la bouteille ?\NT’as pas froid aux yeux, dis donc !
+Dialogue: 0,0:11:18.04,0:11:20.70,Default,Mao Mao,0,0,0,,Il vous reste combien à payer ?
+Dialogue: 0,0:11:21.84,0:11:23.91,Default,Beau-frère,0,0,0,,C’est 1 000 pièces d’argent par an.
+Dialogue: 0,0:11:24.04,0:11:26.11,Default,Beau-frère,0,0,0,,Et on a payé la moitié,\Ncette année.
+Dialogue: 0,0:11:26.25,0:11:28.88,Default,Beau-frère,0,0,0,,Il nous reste 4 500.
+Dialogue: 0,0:11:29.02,0:11:30.01,Default,Mao Mao,0,0,0,,Je vois.
+Dialogue: 0,0:11:33.24,0:11:35.92,Default,Mao Mao,0,0,0,,Et si nous pimentions les choses\Navec un pari ?
+Dialogue: 0,0:11:36.05,0:11:38.97,Default,Bailleur,0,0,0,,Tu m’intéresses. Tu mises quoi ?
+Dialogue: 0,0:11:39.14,0:11:40.84,Default,Mao Mao,0,0,0,,Moi-même, évidemment !
+Dialogue: 0,0:11:42.01,0:11:45.53,Default,Mao Mao,0,0,0,,Si vous me vendez à un souteneur,\Nje vous rapporterai 300 pièces.
+Dialogue: 0,0:11:49.54,0:11:53.02,Default,Paysan,0,0,0,,Dis donc, la midinette,\Nt’as une idée des cours du marché ?
+Dialogue: 0,0:11:53.37,0:11:54.68,Italique,Mao Mao,0,0,0,,Évidemment.
+Dialogue: 0,0:11:54.82,0:11:58.57,Italique,Mao Mao,0,0,0,,À ton avis, j’ai vu combien\Nde filles vendues, dans ma vie ?
+Dialogue: 0,0:11:58.71,0:12:01.40,Default,Paysan,0,0,0,,Même une beauté\Nne rapporterait pas 100 pièces.
+Dialogue: 0,0:12:01.53,0:12:03.79,Default,Paysan,0,0,0,,Alors 300, pour toi…
+Dialogue: 0,0:12:08.50,0:12:12.13,Default,Mao Mao,0,0,0,,Ne mélange pas les serviettes brodées\Net les torchons bouseux.
+Dialogue: 0,0:12:12.29,0:12:15.17,Default,Mao Mao,0,0,0,,Pour une cul-terreuse,\N50 pièces c’est déjà beau.
+Dialogue: 0,0:12:15.38,0:12:17.78,Default,Mao Mao,0,0,0,,Tu sais pas comment ça marche,\Nou quoi ?
+Dialogue: 0,0:12:18.07,0:12:19.38,Default,Paysan,0,0,0,,T’as dit quoi ?
+Dialogue: 0,0:12:23.51,0:12:28.14,Italique,Mao Mao,0,0,0,,Il a bien compris\Nque j’insultais les filles de la campagne.
+Dialogue: 0,0:12:28.69,0:12:30.52,Default,Paysan,0,0,0,,Répète, si tu l’oses !
+Dialogue: 0,0:12:30.69,0:12:35.15,Default,Mao Mao,0,0,0,,Vous savez même pas lire ou écrire.\NQue feriez-vous avec du papier ?
+Dialogue: 0,0:12:35.29,0:12:38.57,Default,Mao Mao,0,0,0,,Même avec une formation,\Nvous serez pas fichus d’en faire.
+Dialogue: 0,0:12:39.65,0:12:41.32,Default,Paysan,0,0,0,,Saleté !
+Dialogue: 0,0:12:49.37,0:12:53.63,Default,Jinshi,0,0,0,,Pour cette fille, 300 pièces d’argent,\Nce n’est pas cher payé.
+Dialogue: 0,0:12:53.79,0:12:57.21,Italique,Mao Mao,0,0,0,,Je lui dirais bien\Nqu’il ne faut pas étaler sa richesse,
+Dialogue: 0,0:12:57.38,0:12:58.84,Italique,Mao Mao,0,0,0,,mais là, ça m’arrange.
+Dialogue: 0,0:13:01.68,0:13:04.93,Default,Mao Mao,0,0,0,,Voilà ! Lui, il sait juger\Nde la valeur des choses.
+Dialogue: 0,0:13:05.94,0:13:09.19,Default,Paysan,0,0,0,,Venez, les gars !\NOn va leur donner une bonne leçon !
+Dialogue: 0,0:13:10.74,0:13:12.60,Default,Bailleur,0,0,0,,J’ai pas donné mon autorisation !
+Dialogue: 0,0:13:13.61,0:13:17.99,Default,Bailleur,0,0,0,,Enfin, pourquoi pas ?\NAprès tout, l’argent est sur la table.
+Dialogue: 0,0:13:18.74,0:13:20.57,Italique,Mao Mao,0,0,0,,Je les tiens.
+Dialogue: 0,0:13:24.03,0:13:27.29,Default,Mao Mao,0,0,0,,Bien ! Qui veut commencer ?
+Dialogue: 0,0:13:32.30,0:13:34.51,Default,Paysan,0,0,0,,Je serai le premier.
+Dialogue: 0,0:13:34.92,0:13:37.25,Default,Mao Mao,0,0,0,,Très bien. Commençons.
+Dialogue: 0,0:13:50.39,0:13:51.85,Default,Cadet,0,0,0,,C’est une blague ?
+Dialogue: 0,0:13:52.60,0:13:54.23,Default,Mao Mao,0,0,0,,C’est déjà fini ?
+Dialogue: 0,0:13:55.48,0:13:57.74,Default,Beau-frère,0,0,0,,C’est du spiritueux ?
+Dialogue: 0,0:14:00.03,0:14:04.87,Italique,Mao Mao,0,0,0,,Ils ont voulu se débarrasser de moi\Nen sortant l’alcool fort. Erreur fatale.
+Dialogue: 0,0:14:05.03,0:14:07.16,Italique,Mao Mao,0,0,0,,J’ai l’habitude de boire.
+Dialogue: 0,0:14:07.86,0:14:11.14,Default,Jinshi,0,0,0,,Pour 300 pièces d’argent,\Nc’est un bon investissement.
+Dialogue: 0,0:14:11.28,0:14:15.40,Italique,Mao Mao,0,0,0,,Il espère me racheter encore une fois ?\NC’est décidé, je dois gagner.
+Dialogue: 0,0:14:16.71,0:14:18.13,Italique,Mao Mao,0,0,0,,C’était le quatrième.
+Dialogue: 0,0:14:18.55,0:14:20.44,Italique,Mao Mao,0,0,0,,Le premier a misé 300 aussi,
+Dialogue: 0,0:14:20.59,0:14:23.59,Italique,Mao Mao,0,0,0,,je double à chaque fois,\Ndonc ça donne 600, 1 200…
+Dialogue: 0,0:14:23.76,0:14:25.13,Italique,Mao Mao,0,0,0,,J’en suis à 2 400.
+Dialogue: 0,0:14:25.52,0:14:30.18,Italique,Mao Mao,0,0,0,,Si la dette est fixée à 4 500,\Nje n’ai plus qu’un duel à remporter.
+Dialogue: 0,0:14:30.72,0:14:34.85,Italique,Mao Mao,0,0,0,,J’ai fait dresser un contrat\Net un billet à ordre par précaution.
+Dialogue: 0,0:14:37.23,0:14:39.02,Default,Bailleur,0,0,0,,Que dirais-tu de m’affronter ?
+Dialogue: 0,0:14:39.44,0:14:41.07,Italique,Mao Mao,0,0,0,,Est-ce que ça va aller ?
+Dialogue: 0,0:14:41.22,0:14:45.02,Italique,Mao Mao,0,0,0,,J’en ai fait rouler quatre sous la table,\Nça fait pas mal d’alcool.
+Dialogue: 0,0:14:45.41,0:14:47.99,Default,Bailleur,0,0,0,,Ne me mets pas\Ndans le même sac qu’eux.
+Dialogue: 0,0:14:49.83,0:14:52.70,Default,Bailleur,0,0,0,,Gamin, j’espère\Nque t’as les poches profondes.
+Dialogue: 0,0:14:57.08,0:14:59.20,Default,Paysan 2,0,0,0,,Hé ! Tu fais quoi, là ?
+Dialogue: 0,0:14:59.33,0:15:01.18,Default,Mao Mao,0,0,0,,Je veux simplement varier un peu.
+Dialogue: 0,0:15:05.39,0:15:08.14,Default,Bailleur,0,0,0,,Pas si vite.\NVerse-m’en une lampée aussi.
+Dialogue: 0,0:15:12.66,0:15:13.61,Default,Paysan 2,0,0,0,,Tenez, monsieur.
+Dialogue: 0,0:15:15.56,0:15:19.44,Default,Bailleur,0,0,0,,C’est un remède pour empêcher l’alcool\Nde te tourner la tête ?
+Dialogue: 0,0:15:42.11,0:15:43.01,Default,Paysan 3,0,0,0,,Chef !
+Dialogue: 0,0:15:44.34,0:15:46.51,Default,Paysan 2,0,0,0,,Hé ! Tu l’as empoisonné ?
+Dialogue: 0,0:15:46.68,0:15:50.68,Default,Mao Mao,0,0,0,,Et puis quoi encore ?\NJ’ai bu la même chose !
+Dialogue: 0,0:15:50.93,0:15:52.31,Default,Mao Mao,0,0,0,,Vous l’avez tous vu.
+Dialogue: 0,0:15:52.47,0:15:53.81,Default,Paysan 3,0,0,0,,N’empêche…
+Dialogue: 0,0:15:54.31,0:15:56.81,Default,Mao Mao,0,0,0,,On dirait bien\Nque je remporte le pari.
+Dialogue: 0,0:16:01.27,0:16:03.15,Default,Mao Mao,0,0,0,,Où sont les commodités ?
+Dialogue: 0,0:16:03.78,0:16:05.40,Default,Patronne,0,0,0,,À droite en sortant.
+Dialogue: 0,0:16:05.54,0:16:06.99,Default,Mao Mao,0,0,0,,Mille mercis.
+Dialogue: 0,0:16:19.79,0:16:22.13,Default,Beau-frère,0,0,0,,Que lui as-tu fait, jeune fille ?
+Dialogue: 0,0:16:22.28,0:16:23.34,Default,Mao Mao,0,0,0,,Rien du tout.
+Dialogue: 0,0:16:23.49,0:16:27.59,Default,Mao Mao,0,0,0,,Je voulais varier un peu,\Nalors j’ai ajouté de l’alcool distillé.
+Dialogue: 0,0:16:28.59,0:16:33.06,Italique,Mao Mao,0,0,0,,J’ai toujours une bouteille\Nd’alcool à désinfecter sur moi, au cas où.
+Dialogue: 0,0:16:33.22,0:16:35.47,Italique,Mao Mao,0,0,0,,C’est plus fort\Nque les alcools à boire.
+Dialogue: 0,0:16:35.60,0:16:37.81,Italique,Mao Mao,0,0,0,,Quelqu’un de normal\Nfinit par terre.
+Dialogue: 0,0:16:38.03,0:16:40.90,TiretsDefault,Beau-grère/Mao Mao,165,0,0,,– Je peux te poser une question ?\N– Quoi donc ?
+Dialogue: 0,0:16:41.15,0:16:45.78,Default,Beau-frère,0,0,0,,Cet alcool était dans ta coupe aussi\Net tu l’as bu, si je ne m’abuse.
+Dialogue: 0,0:16:46.00,0:16:50.12,Default,Mao Mao,0,0,0,,Je ne risquais rien avec une gorgée !\NJe voulais en finir rapidement.
+Dialogue: 0,0:16:53.31,0:16:56.04,Default,Mao Mao,0,0,0,,Heureusement,\Nj’ai pu courir me purger après.
+Dialogue: 0,0:16:56.91,0:16:58.71,Default,Beau-frère,0,0,0,,Certes, tu avais confiance en toi,
+Dialogue: 0,0:16:58.87,0:17:02.29,Default,Beau-frère,0,0,0,,mais c’était de la folie\Nde te mettre en gage.
+Dialogue: 0,0:17:02.43,0:17:04.55,Default,Beau-frère,0,0,0,,Surtout pour des inconnus\Ncomme nous.
+Dialogue: 0,0:17:06.25,0:17:09.01,Default,Mao Mao,0,0,0,,Je crois qu’il y a méprise, là.
+Dialogue: 0,0:17:09.62,0:17:11.64,Default,Mao Mao,0,0,0,,Cet argent est à moi, pas à vous.
+Dialogue: 0,0:17:12.76,0:17:16.64,Default,Guen,0,0,0,,Mais enfin, ma petite demoiselle !\NNe sois pas si cruelle !
+Dialogue: 0,0:17:16.81,0:17:18.77,Default,Bailleur,0,0,0,,Hé ! Pas si vite !
+Dialogue: 0,0:17:19.14,0:17:21.02,Default,Mao Mao,0,0,0,,Vous devriez rester allongé.
+Dialogue: 0,0:17:21.15,0:17:22.94,Default,Bailleur,0,0,0,,Le pari ne tient pas !
+Dialogue: 0,0:17:23.31,0:17:26.94,Default,Mao Mao,0,0,0,,Vous avez signé un contrat.\NEt un billet à ordre.
+Dialogue: 0,0:17:27.10,0:17:29.19,Default,Mao Mao,0,0,0,,Vous savez pas lire,\Nvous non plus ?
+Dialogue: 0,0:17:29.32,0:17:31.07,Default,Bailleur,0,0,0,,J’en ai rien à faire !
+Dialogue: 0,0:17:31.24,0:17:34.66,Default,Bailleur,0,0,0,,C’était juste un jeu de taverne !\NÇa ne compte pas !
+Dialogue: 0,0:17:34.87,0:17:37.06,Default,Mao Mao,0,0,0,,Si vous le prenez comme ça…
+Dialogue: 0,0:17:37.49,0:17:42.67,Default,Mao Mao,0,0,0,,Je vais devoir signaler aux autorités\Nque vous trichez sur les taxes.
+Dialogue: 0,0:17:50.26,0:17:52.39,Default,Aîné,0,0,0,,Comment ça ?
+Dialogue: 0,0:17:52.52,0:17:53.80,Default,Beau-frère,0,0,0,,De quoi tu parles ?
+Dialogue: 0,0:17:53.93,0:17:57.27,Default,Mao Mao,0,0,0,,Pour produire de l’alcool,\Nil faut l’autorisation du trône.
+Dialogue: 0,0:17:57.40,0:17:59.06,Default,Mao Mao,0,0,0,,Si encore c’était pour soi…
+Dialogue: 0,0:17:59.19,0:18:03.23,Default,Mao Mao,0,0,0,,Mais si on veut les écouler sur le marché,\Nles produits seront taxés.
+Dialogue: 0,0:18:03.66,0:18:07.57,Italique,Mao Mao,0,0,0,,Quelle taverne prêterait ses locaux\Nà une réunion qui peut mal tourner ?
+Dialogue: 0,0:18:07.70,0:18:09.36,Italique,Mao Mao,0,0,0,,Ça me travaillait.
+Dialogue: 0,0:18:09.92,0:18:12.98,Italique,Mao Mao,0,0,0,,Si la taverne a un fournisseur\Nde bon vin pas cher,
+Dialogue: 0,0:18:13.12,0:18:14.49,Italique,Mao Mao,0,0,0,,c’est différent.
+Dialogue: 0,0:18:14.78,0:18:18.16,Italique,Mao Mao,0,0,0,,Si ce fameux fournisseur\Nleur demande un service, même risqué,
+Dialogue: 0,0:18:18.30,0:18:19.79,Italique,Mao Mao,0,0,0,,les taverniers accepteront.
+Dialogue: 0,0:18:20.45,0:18:24.50,Italique,Mao Mao,0,0,0,,Et si ce sont les cultivateurs\Nqui produisent le vin trouble,
+Dialogue: 0,0:18:24.71,0:18:27.00,Italique,Mao Mao,0,0,0,,normal qu’on leur offre\Ndu vin clair.
+Dialogue: 0,0:18:27.17,0:18:30.66,Italique,Mao Mao,0,0,0,,Ils doivent boire le vin trouble\Nà longueur d’année, après tout.
+Dialogue: 0,0:18:31.30,0:18:32.55,Default,Mao Mao,0,0,0,,Laissez-moi deviner,
+Dialogue: 0,0:18:32.68,0:18:35.76,Default,Mao Mao,0,0,0,,vous ne déclarez même pas\Nles ingrédients de ces vins.
+Dialogue: 0,0:18:35.93,0:18:39.69,Default,Mao Mao,0,0,0,,Ces alcools nécessitent\Ndu riz et de l’orge en grande quantité.
+Dialogue: 0,0:18:39.87,0:18:42.43,Default,Mao Mao,0,0,0,,Vous disiez quoi\Naux papetiers, déjà ?
+Dialogue: 0,0:18:42.73,0:18:47.19,Default,Mao Mao,0,0,0,,« Vous souillez l’eau,\Nla récolte de riz diminue. »
+Dialogue: 0,0:18:47.36,0:18:49.32,Default,Mao Mao,0,0,0,,C’était un mensonge, pas vrai ?
+Dialogue: 0,0:18:49.48,0:18:52.40,Default,Mao Mao,0,0,0,,Je parie qu’au contraire,\Nla production a augmenté.
+Dialogue: 0,0:18:53.26,0:18:57.30,Italique,Mao Mao,0,0,0,,Pour faire du papier, on utilise\Ndu son de riz et de la sciure de bois.
+Dialogue: 0,0:18:57.45,0:19:01.41,Italique,Mao Mao,0,0,0,,De l’eau qui contient cela\Nconstitue un excellent engrais.
+Dialogue: 0,0:19:02.20,0:19:05.08,Italique,Mao Mao,0,0,0,,L’ancien bailleur\Nl’avait bien compris.
+Dialogue: 0,0:19:05.25,0:19:09.04,Italique,Mao Mao,0,0,0,,Le nouveau bailleur,\Nafin de cacher l’excédent de récolte,
+Dialogue: 0,0:19:09.21,0:19:10.92,Italique,Mao Mao,0,0,0,,s’est lancé dans l’alcool.
+Dialogue: 0,0:19:11.46,0:19:14.22,Default,Mao Mao,0,0,0,,Double fraude fiscale,\Nça va chercher loin.
+Dialogue: 0,0:19:15.97,0:19:19.14,Italique,Mao Mao,0,0,0,,Vu sa réaction,\Nj’ai tapé dans le mille.
+Dialogue: 0,0:19:19.97,0:19:21.56,Default,Paysan 3,0,0,0,,T’as des preuves ?
+Dialogue: 0,0:19:21.72,0:19:23.39,Default,Mao Mao,0,0,0,,Vous n’avez rien à craindre.
+Dialogue: 0,0:19:23.56,0:19:27.52,Default,Mao Mao,0,0,0,,Si vous êtes innocents, les inspecteurs\Nne trouveront rien chez vous.
+Dialogue: 0,0:19:29.23,0:19:31.77,Default,Bailleur,0,0,0,,T’as l’air bien sûre de toi,\Nla gamine.
+Dialogue: 0,0:19:31.94,0:19:35.07,Default,Bailleur,0,0,0,,Tu crois pouvoir\Nt’en tirer comme ça ?
+Dialogue: 0,0:19:35.21,0:19:38.36,Default,Mao Mao,0,0,0,,Je vous renvoie ces paroles.
+Dialogue: 0,0:19:38.53,0:19:40.67,Default,Mao Mao,0,0,0,,Regardez autour de vous.
+Dialogue: 0,0:19:47.71,0:19:50.21,Default,Mao Mao,0,0,0,,Allez-y, appelez des renforts.
+Dialogue: 0,0:19:50.38,0:19:53.71,Default,Mao Mao,0,0,0,,Pendant ce temps,\Nmoi, j’appellerai les autorités.
+Dialogue: 0,0:19:54.00,0:19:58.59,Italique,Mao Mao,0,0,0,,À vrai dire, il y a bien plus terrifiant\Nque les fonctionnaires de l’empire, ici.
+Dialogue: 0,0:20:00.26,0:20:04.47,Default,Guen,0,0,0,,Ma petite demoiselle, qu’as-tu donc ?\NTu es bien différente de d’habitude.
+Dialogue: 0,0:20:05.56,0:20:09.41,Default,Mao Mao,0,0,0,,Si tu veux jouer au plus malin,\Nattends-toi à tomber sur pire que toi.
+Dialogue: 0,0:20:13.11,0:20:16.99,Default,Mao Mao,0,0,0,,Ils vous ont fait quoi,\Npour que vous leur en vouliez autant ?
+Dialogue: 0,0:20:21.50,0:20:23.67,Default,Fille bailleur,0,0,0,,Je vous en prie,\Nne vous acharnez pas !
+Dialogue: 0,0:20:25.57,0:20:27.58,Default,Cadet,0,0,0,,Il y a méprise, on n’a rien fait.
+Dialogue: 0,0:20:27.72,0:20:31.87,Default,Bailleur,0,0,0,,Pardonnez-le ! Je sais que mon père\Nvous fait des demandes insensées.
+Dialogue: 0,0:20:32.04,0:20:34.92,Default,Bailleur,0,0,0,,Pardonnez-lui, c’est un idiot.
+Dialogue: 0,0:20:36.12,0:20:37.72,Default,Aîné,0,0,0,,Personne ne lui fera de mal.
+Dialogue: 0,0:20:38.09,0:20:39.72,Default,Aîné,0,0,0,,Ton père est sauf.
+Dialogue: 0,0:20:41.22,0:20:44.04,Default,Bailleur,0,0,0,,Toi !\NT’approche pas de ma fille !
+Dialogue: 0,0:20:44.18,0:20:45.72,TiretsDefault,Fille Bailleur/Aîné,261,0,0,,– Papa !\N– Beau-papa.
+Dialogue: 0,0:20:45.85,0:20:47.98,Default,Bailleur,0,0,0,,Je suis pas ton beau-père,\Nbon sang !
+Dialogue: 0,0:20:48.52,0:20:50.73,Italique,Mao Mao,0,0,0,,J’ai la berlue, ou quoi ?
+Dialogue: 0,0:20:50.93,0:20:52.53,Default,Mao Mao,0,0,0,,C’est bien ce que je crois ?
+Dialogue: 0,0:20:53.00,0:20:55.44,Default,Cadet,0,0,0,,Oui, je pense\Nque vous avez compris.
+Dialogue: 0,0:20:55.97,0:20:59.01,Italique,Mao Mao,0,0,0,,D’accord. Je vois pourquoi l’aîné\Ndéfendait les paysans
+Dialogue: 0,0:20:59.15,0:21:03.45,Italique,Mao Mao,0,0,0,,et pourquoi le bailleur\Nvoulait se débarrasser des papetiers.
+Dialogue: 0,0:21:05.50,0:21:06.87,Default,Mao Mao,0,0,0,,C’est complètement idiot.
+Dialogue: 0,0:21:07.24,0:21:09.50,Default,Cadet,0,0,0,,Mon frère\Nest un indécrottable galant.
+Dialogue: 0,0:21:10.66,0:21:14.76,Default,Jinshi,0,0,0,,Si le village est détruit à cause de ça,\Non sera bien avancés.
+Dialogue: 0,0:21:15.25,0:21:19.72,Italique,Mao Mao,0,0,0,,C’est vrai que cette tête de pioche\Nest le neveu du charlatan.
+Dialogue: 0,0:21:21.89,0:21:25.51,Italique,Mao Mao,0,0,0,,Ils sont de la même famille,\Non n’y peut rien.
+Dialogue: 0,0:21:25.85,0:21:27.56,Italique,Mao Mao,0,0,0,,Et puis quoi encore ?
+Dialogue: 0,0:21:27.82,0:21:30.40,Default,Mao Mao,0,0,0,,S’il vous plaît !\NUne coupe de vin.
+Dialogue: 0,0:21:30.65,0:21:32.27,Default,Patronne,0,0,0,,Tu peux continuer à boire ?
+Dialogue: 0,0:21:32.44,0:21:34.18,Default,Mao Mao,0,0,0,,Je m’échauffe à peine.
+Dialogue: 0,0:21:45.12,0:21:49.70,Italique,Mao Mao,0,0,0,,Finalement, les papetiers ont pu reprendre\Nleurs paiements sur cinq ans.
+Dialogue: 0,0:21:50.58,0:21:52.62,Italique,Mao Mao,0,0,0,,À la suite de notre petit pari,
+Dialogue: 0,0:21:52.79,0:21:57.88,Italique,Mao Mao,0,0,0,,le bailleur s’est engagé à envoyer du riz\Nau palais Vert-de-gris pendant dix ans.
+Dialogue: 0,0:21:59.24,0:22:00.22,Italique,Mao Mao,0,0,0,,Et puis…
+Dialogue: 0,0:22:00.66,0:22:04.68,Italique,Mao Mao,0,0,0,,Quant à l’amourette entre l’aîné\Ndes papetiers et la fille du bailleur…
+Dialogue: 0,0:22:05.82,0:22:07.64,Default,Mao Mao,0,0,0,,Qui s’intéresse à ça, franchement.
+Dialogue: 0,0:23:36.94,0:23:40.94,Default,crédits,0,0,0,,Traduction, adaptation : Aloïs Siblisth
+Dialogue: 1,0:23:41.07,0:23:45.07,Default,crédits,0,0,0,,Repérage : Enjiniatsu\NRelecture : Stéphanie Noardo
+Dialogue: 0,0:23:45.07,0:24:00.00,À_suivre_BG,SIGN,0,0,0,,{\blur0.5\pos(37,48)}À SUIVRE
+Dialogue: 1,0:23:45.07,0:24:00.00,À_suivre,SIGN,0,0,0,,{\blur0.5\pos(37,48)}À SUIVRE
+Dialogue: 0,0:23:53.62,0:24:00.00,Titre_Ép_fin_BG,SIGN,0,0,0,,{\blur0.5\fad(473,0)\fscx85\pos(481,256.667)}É{\fs20}PISODE {\fs24}5{\fsp8}6\N{\fs\fsp}C{\fs20}HANVRE ET{\fs} S{\fs20}UPERSTITIONS
+Dialogue: 1,0:23:53.59,0:24:00.00,Titre_Ép,SIGN,0,0,0,,{\blur0.5\fad(473,0)\fscx85\pos(481,256.667)}É{\fs20}PISODE {\fs24}5{\fsp8}6\N{\fs\fsp}C{\fs20}HANVRE ET{\fs} S{\fs20}UPERSTITIONS
+Dialogue: 0,0:23:53.55,0:23:57.33,Italique,Narratrice,0,0,0,,{\pos(225.334,340)}À suivre :\NChanvre et Superstitions.
+
