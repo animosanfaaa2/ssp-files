@@ -1,0 +1,328 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_EpiTitle,Times New Roman,20,&H00FFFFFF,&H000000FF,&HD2000000,&HD2000000,0,0,0,0,100,100,0,0,1,1,1,3,18,42,56,0
+Style: Cart_SeriesTitle,Times New Roman,20,&H00FFFFFF,&H000000FF,&H001F38B6,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,18,18,18,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:06.40,0:00:13.53,Cart_SeriesTitle,CARTEL,0,0,0,,{\fad(0,436)\blur3\1a&HFF&\clip(210,15,211,44)\t(400,4902,\clip(210,15,430,44))}Los diarios {\bord1\blur2\c&H000000&\1a&H00&\3c&HFFFFFF&\3a&H56&}de la boticaria
+Dialogue: 1,0:00:06.40,0:00:13.53,Cart_SeriesTitle,CARTEL,0,0,0,,{\fad(439,436)\bord0\clip(194,10.67,310,50.67)\t(873,4485,\clip(207.33,12,518.67,57.33))}Los diarios {\c&HFFFFFF&}de la boticaria
+Dialogue: 2,0:01:30.99,0:01:33.99,Cart_A_Tre,CARTEL,0,0,0,,{\fad(277,260)\bord0.2\shad0.3\blur1\fs11\an1\pos(145.78,310.22)\b1}Esta historia es ficción. Tanto los nombres de los personajes como los de las\Norganizaciones son ficticios. No tienen relación con la realidad.{\b0}
+Dialogue: 0,0:01:33.36,0:01:38.70,Gen_Italics_top,Maomao,0,0,0,,Por petición de Jinshi,\Nhe acompañado al matasanos a su casa.
+Dialogue: 0,0:01:39.37,0:01:43.57,Gen_Italics,Maomao,0,0,0,,Pero ¿por qué él viene de incógnito?\N¿Pasa algo en esta aldea?
+Dialogue: 0,0:01:44.96,0:01:46.09,Gen_Main,Maomao,0,0,0,,Voy.
+Dialogue: 0,0:01:56.51,0:02:00.63,Gen_Main,Maomao,0,0,0,,Creo que aquí puede hablar.\NEste cuarto queda alejado de los demás.
+Dialogue: 0,0:02:01.27,0:02:02.80,Gen_Main,Jinshi,0,0,0,,¿Te estabas bañando?
+Dialogue: 0,0:02:02.94,0:02:07.15,Gen_Main,Maomao,0,0,0,,Me estaba lavando el pelo.\NDisculpe mi aspecto desaliñado.
+Dialogue: 0,0:02:08.23,0:02:09.53,Gen_Italics,Maomao,0,0,0,,¿Qué hace aquí?
+Dialogue: 0,0:02:10.78,0:02:13.39,Gen_Main,Jinshi,0,0,0,,Oye, ¿tú puedes copiar este maquillaje?
+Dialogue: 0,0:02:13.95,0:02:17.06,Gen_Main,Maomao,0,0,0,,Con los utensilios adecuados,\Ncreo que sí.
+Dialogue: 0,0:02:17.20,0:02:18.27,Gen_Main,Jinshi,0,0,0,,Pues hazlo.
+Dialogue: 0,0:02:24.50,0:02:26.78,Gen_Main,Maomao,0,0,0,,Iré a por más agua caliente.
+Dialogue: 0,0:02:26.92,0:02:29.42,Gen_Main,Jinshi,0,0,0,,No pasa nada, con esta me vale.
+Dialogue: 0,0:02:31.15,0:02:34.43,Gen_Italics,Maomao,0,0,0,,Cuando he acabado con el pelo,\Nme he lavado los pies.
+Dialogue: 0,0:02:34.51,0:02:35.71,Gen_Main,Jinshi,0,0,0,,¿Ocurre algo?
+Dialogue: 0,0:02:35.84,0:02:37.67,Gen_Main,Maomao,0,0,0,,No, nada.
+Dialogue: 0,0:02:37.76,0:02:41.77,Gen_Italics,Maomao,0,0,0,,Si le da igual,\Nno hace falta que se lo diga.
+Dialogue: 0,0:02:51.83,0:02:55.19,Gen_Italics,Maomao,0,0,0,,Cuanto más tiempo pasa,\Nmenos se ve una cicatriz.
+Dialogue: 0,0:02:55.44,0:02:57.70,Gen_Italics,Maomao,0,0,0,,Pero nunca se va del todo.
+Dialogue: 0,0:02:58.75,0:03:00.40,Gen_Main,Maomao,0,0,0,,Por cierto, maestro Jinshi.
+Dialogue: 0,0:03:00.53,0:03:01.65,Gen_Main,Jinshi,0,0,0,,Dime.
+Dialogue: 0,0:03:01.79,0:03:05.24,Gen_Main,Maomao,0,0,0,,¿Por qué ha hecho una parada\Nen casa de la familia del doctor?
+Dialogue: 0,0:03:06.17,0:03:09.79,Gen_Main,Jinshi,0,0,0,,Es solo un sitio de paso,\Npero hay algo que me preocupa.
+Dialogue: 0,0:03:09.88,0:03:11.53,Gen_Italics,Maomao,0,0,0,,¿Un sitio de paso?
+Dialogue: 0,0:03:11.67,0:03:13.99,Gen_Main,Maomao,0,0,0,,¿Qué le preocupa?
+Dialogue: 0,0:03:14.63,0:03:18.72,Gen_Main,Jinshi,0,0,0,,Tu querido primo lo señaló\Nmientras jugaba con su ábaco.
+Dialogue: 0,0:03:19.80,0:03:21.18,Gen_Italics,Maomao,0,0,0,,¿Lahan?
+Dialogue: 0,0:03:21.72,0:03:25.92,Gen_Main,Jinshi,0,0,0,,Algo no cuadra con la cantidad de arroz\Nque procede de esta región.
+Dialogue: 0,0:03:26.39,0:03:30.05,Gen_Italics,Maomao,0,0,0,,La obsesión de Lahan\Npor los números es enfermiza.
+Dialogue: 0,0:03:30.19,0:03:32.81,Gen_Italics,Maomao,0,0,0,,Es algo digno de investigar.
+Dialogue: 0,0:03:33.40,0:03:37.39,Gen_Main,Jinshi,0,0,0,,Pero no me esperaba esta historia.
+Dialogue: 0,0:03:38.11,0:03:40.85,Gen_Italics,Maomao,0,0,0,,El actual propietario,\Ndueño de este terreno,
+Dialogue: 0,0:03:40.99,0:03:45.96,Gen_Italics,Maomao,0,0,0,,quiere echar a los fabricantes\Npara producir el papel él mismo.
+Dialogue: 0,0:03:48.21,0:03:52.28,Gen_Main,Jinshi,0,0,0,,La fabricación de papel\Nmerece mucha más atención.
+Dialogue: 0,0:03:53.09,0:03:55.80,Gen_Main,Jinshi,0,0,0,,No podemos permitir\Nque sustituya a los maestros.
+Dialogue: 0,0:03:56.34,0:03:58.46,Gen_Italics,Maomao,0,0,0,,Menudo problemón.
+Dialogue: 0,0:03:58.59,0:04:02.42,Gen_Main,Maomao,0,0,0,,¿Le hago la herida ahora\No mañana por la mañana?
+Dialogue: 0,0:04:02.97,0:04:04.10,Gen_Main,Jinshi,0,0,0,,Ahora, por favor.
+Dialogue: 0,0:04:04.60,0:04:08.55,Gen_Italics,Maomao,0,0,0,,Si lo echo del cuarto ahora,\Nserá un desastre.
+Dialogue: 0,0:04:10.85,0:04:13.27,Gen_Main,Maomao,0,0,0,,¿Por qué no se la hace\Nel maestro Basen?
+Dialogue: 0,0:04:13.36,0:04:15.97,Gen_Main,Jinshi,0,0,0,,No tiene esa habilidad.
+Dialogue: 0,0:04:16.11,0:04:18.99,Gen_Main,Maomao,0,0,0,,¿Por eso me ha pedido que viniera?
+Dialogue: 0,0:04:19.07,0:04:20.61,Gen_Main,Jinshi,0,0,0,,No es el único motivo.
+Dialogue: 0,0:04:29.25,0:04:33.45,Gen_Main,Maomao,0,0,0,,Por favor, no se duerma.\NTendré que ir a buscar al maestro Basen.
+Dialogue: 0,0:04:33.59,0:04:36.87,Gen_Main,Jinshi,0,0,0,,Aunque él estuviera aquí,\N¿podríais conmigo?
+Dialogue: 0,0:04:37.01,0:04:40.71,Gen_Italics,Maomao,0,0,0,,Seguramente no.\NBasen no es como Gaoshun, su padre.
+Dialogue: 0,0:04:40.80,0:04:42.55,Gen_Italics,Maomao,0,0,0,,Es bastante torpe.
+Dialogue: 0,0:04:42.69,0:04:44.83,Gen_Main,Maomao,0,0,0,,¿Por qué ha venido el maestro Basen?
+Dialogue: 0,0:04:46.10,0:04:47.63,Gen_Main,Jinshi,0,0,0,,Bueno, a ver…
+Dialogue: 0,0:04:47.77,0:04:51.80,Gen_Main,Jinshi,0,0,0,,Sabe encargarse de ciertas cosas.
+Dialogue: 0,0:04:53.27,0:04:54.89,Gen_Main,Maomao,0,0,0,,No me ha respondido.
+Dialogue: 0,0:04:56.48,0:05:00.48,Gen_Italics,Maomao,0,0,0,,En fin, supongo que no todo el mundo\Npuede estar cerca de él
+Dialogue: 0,0:05:00.57,0:05:02.61,Gen_Italics,Maomao,0,0,0,,sin perder la cabeza.
+Dialogue: 0,0:05:04.70,0:05:06.74,Gen_Italics,Maomao,0,0,0,,Ya está.
+Dialogue: 0,0:05:20.67,0:05:22.16,Gen_Main,Jinshi,0,0,0,,¿Ya está?
+Dialogue: 0,0:05:25.55,0:05:26.68,Gen_Main,Jinshi,0,0,0,,¡Estás horrible!
+Dialogue: 0,0:05:31.23,0:05:33.35,Gen_Main,Jinshi,0,0,0,,¡Para, por favor!
+Dialogue: 0,0:05:33.44,0:05:37.64,Gen_Italics,Maomao,0,0,0,,Naturalmente, eso me anima a seguir.
+Dialogue: 0,0:05:38.86,0:05:41.15,Gen_Main,Basen; Jinshi,0,0,0,,-Entro.\N-Ya basta, por favor.
+Dialogue: 0,0:05:56.88,0:05:59.99,Gen_Italics,Maomao,0,0,0,,Nunca habíamos estado tan compenetrados.
+Dialogue: 0,0:06:02.97,0:06:06.85,Cart_EpiTitle,CARTEL,0,0,0,,{\fad(430,470)}Episodio 55: La apuesta
+Dialogue: 0,0:06:12.52,0:06:15.38,Gen_Italics,Maomao,0,0,0,,¿Esto es una reunión?
+Dialogue: 0,0:06:16.23,0:06:18.51,Gen_Italics,Maomao,0,0,0,,¿El del centro es el propietario?
+Dialogue: 0,0:06:22.65,0:06:24.94,Gen_Main,Basen,0,0,0,,¿Tú también tenías que venir?
+Dialogue: 0,0:06:25.07,0:06:27.10,Gen_Main,Maomao,0,0,0,,Me lo ha pedido el doctor.
+Dialogue: 0,0:06:27.24,0:06:29.65,Gen_Main,Maomao,0,0,0,,No querrá que se sienta solo, ¿verdad?
+Dialogue: 0,0:06:30.20,0:06:32.19,Gen_Main,Basen,0,0,0,,Oye, no me hagas quedar mal.
+Dialogue: 0,0:06:35.17,0:06:38.53,Gen_Main,Basen,0,0,0,,Para ser un local tan pequeño,\Nhay muchas bebidas.
+Dialogue: 0,0:06:39.29,0:06:43.25,Gen_Italics,Maomao,0,0,0,,Aquí, principalmente, se sirve\Nla bebida turbia de las estanterías.
+Dialogue: 0,0:06:43.38,0:06:46.22,Gen_Italics,Maomao,0,0,0,,La bebida de esa tinaja es transparente.
+Dialogue: 0,0:06:46.68,0:06:50.75,Gen_Italics,Maomao,0,0,0,,En la ciudad, las bebidas transparentes\Ny las destiladas gustan más.
+Dialogue: 0,0:06:50.85,0:06:54.67,Gen_Italics,Maomao,0,0,0,,La bebida turbia debe de gustarle\Na la gente de aquí.
+Dialogue: 0,0:06:54.77,0:06:57.26,Gen_Main,Landlord,0,0,0,,¿Tenéis el dinero?
+Dialogue: 0,0:06:57.40,0:06:59.80,Gen_Italics,Maomao,0,0,0,,Nos superan en número.
+Dialogue: 0,0:06:59.94,0:07:01.98,Gen_Italics,Maomao,0,0,0,,Si se pelean, ¿por dónde huyo?
+Dialogue: 0,0:07:02.07,0:07:04.02,Gen_Main,Husband,0,0,0,,Aún no es la fecha límite.
+Dialogue: 0,0:07:04.15,0:07:07.23,Gen_Main,Landlord,0,0,0,,Si no podéis pagar, os tendréis que ir.
+Dialogue: 0,0:07:07.36,0:07:09.95,Gen_Main,Husband,0,0,0,,¿Puede darnos algo más de tiempo?
+Dialogue: 0,0:07:10.03,0:07:11.98,Gen_Italics,Maomao,0,0,0,,¿Eso es el contrato?
+Dialogue: 0,0:07:12.54,0:07:16.07,Gen_Main,Landlord,0,0,0,,Ya te he dicho que no puedo esperar\Nhasta el año que viene.
+Dialogue: 0,0:07:16.21,0:07:19.71,Gen_Main,Landlord,0,0,0,,Mientras tanto,\Nnos gustaría que nos enseñaras.
+Dialogue: 0,0:07:20.21,0:07:21.88,Gen_Italics,Maomao,0,0,0,,Qué follón.
+Dialogue: 0,0:07:21.96,0:07:23.92,Gen_Italics,Maomao,0,0,0,,Aunque le diera más tiempo,
+Dialogue: 0,0:07:24.01,0:07:26.37,Gen_Italics,Maomao,0,0,0,,si se dedica a enseñarles\Na fabricar papel,
+Dialogue: 0,0:07:26.51,0:07:28.89,Gen_Italics,Maomao,0,0,0,,le van a robar todas sus técnicas.
+Dialogue: 0,0:07:29.40,0:07:32.75,Gen_Italics,Maomao,0,0,0,,Intentarán arrebatarles\Nel puesto de proveedores imperiales,
+Dialogue: 0,0:07:32.89,0:07:36.17,Gen_Italics,Maomao,0,0,0,,expulsar a los artesanos y sustituirlos.
+Dialogue: 0,0:07:37.48,0:07:40.26,Gen_Italics,Maomao,0,0,0,,Pero ¿para qué esforzarse tanto?
+Dialogue: 0,0:07:40.36,0:07:43.56,Gen_Italics,Maomao,0,0,0,,Si usan el préstamo,\Npodrían trabajar bajo sus órdenes.
+Dialogue: 0,0:07:43.69,0:07:45.81,Gen_Italics,Maomao,0,0,0,,¿Tanto odia a los forasteros?
+Dialogue: 0,0:07:58.25,0:08:02.67,Gen_Italics,Maomao,0,0,0,,Se supone que tiene más de diez años,\Npero el papel sigue intacto.
+Dialogue: 0,0:08:03.30,0:08:06.42,Gen_Italics,Maomao,0,0,0,,Si fuera de mala calidad,\Nya estaría hecho trizas.
+Dialogue: 0,0:08:06.85,0:08:09.21,Gen_Italics,Maomao,0,0,0,,Indica que el pago finalizará en 20 años
+Dialogue: 0,0:08:09.34,0:08:12.08,Gen_Italics,Maomao,0,0,0,,y especifica la cuota mensual.
+Dialogue: 0,0:08:12.89,0:08:16.88,Gen_Italics,Maomao,0,0,0,,Parece un contrato sólido.\N¿Cómo puede haber un conflicto?
+Dialogue: 0,0:08:17.56,0:08:20.09,Gen_Main,Younger Son,0,0,0,,Dicen que el contrato no es válido.
+Dialogue: 0,0:08:20.23,0:08:21.55,Gen_Main,Maomao,0,0,0,,Pero si está sellado.
+Dialogue: 0,0:08:22.11,0:08:24.56,Gen_Main,Maomao,0,0,0,,Es igual de válido que una firma.
+Dialogue: 0,0:08:25.19,0:08:26.77,Gen_Main,Younger Son,0,0,0,,Sí, pero…
+Dialogue: 0,0:08:26.90,0:08:30.07,Gen_Main,Younger Son,0,0,0,,Dicen que el anterior propietario\Nno sabía leer.
+Dialogue: 0,0:08:30.16,0:08:33.36,Gen_Italics,Maomao,0,0,0,,Con la cantidad de documentos\Nque tendría que revisar,
+Dialogue: 0,0:08:33.45,0:08:36.50,Gen_Italics,Maomao,0,0,0,,dudo mucho que no supiera leer.
+Dialogue: 0,0:08:36.58,0:08:38.78,Gen_Main,Younger Son,0,0,0,,Entró en la familia por matrimonio.
+Dialogue: 0,0:08:38.91,0:08:41.36,Gen_Italics,Maomao,0,0,0,,Ah, ahora lo entiendo.
+Dialogue: 0,0:08:39.16,0:08:44.62,Cart_A_Tre,CARTEL,0,0,0,,{\b0\blur1\fs16\pos(230,50.67)}Esposa{\b1}
+Dialogue: 0,0:08:41.50,0:08:44.95,Gen_Italics,Maomao,0,0,0,,Uno de los jornaleros se casó\Ncon una de las chicas de la familia.
+Dialogue: 0,0:08:42.29,0:08:44.62,Cart_A_Tre,CARTEL,0,0,0,,{\frz4\b0\blur1\fs16\move(0,51.75,145,51.75,0,774)}Marido
+Dialogue: 0,0:08:44.62,0:08:45.13,Cart_A_Tre,CARTEL,0,0,0,,{\b0\blur1\fs16\pos(231.62,41.86)}Marido
+Dialogue: 0,0:08:45.09,0:08:47.26,Gen_Italics,Maomao,0,0,0,,Nunca pudo estudiar.
+Dialogue: 0,0:08:45.13,0:08:45.63,Cart_A_Tre,CARTEL,0,0,0,,{\b0\blur1\fs16\pos(150.86,112.64)\frz25.53}Marido
+Dialogue: 0,0:08:45.63,0:08:46.13,Cart_A_Tre,CARTEL,0,0,0,,{\b0\blur1\fs16\pos(231.62,41.86)}Marido
+Dialogue: 0,0:08:46.13,0:08:46.63,Cart_A_Tre,CARTEL,0,0,0,,{\b0\blur1\fs16\pos(150.86,112.64)\frz25.53}Marido
+Dialogue: 0,0:08:46.63,0:08:47.13,Cart_A_Tre,CARTEL,0,0,0,,{\b0\blur1\fs16\pos(231.62,41.86)}Marido
+Dialogue: 0,0:08:47.13,0:08:47.26,Cart_A_Tre,CARTEL,0,0,0,,{\b0\blur1\fs16\pos(150.86,112.64)\frz25.53}Marido
+Dialogue: 0,0:08:47.34,0:08:51.58,Gen_Main,Younger Son,0,0,0,,Su mujer se lo leía todo,\Npero cuando falleció,
+Dialogue: 0,0:08:51.72,0:08:55.42,Gen_Main,Younger Son,0,0,0,,contrataron a un escribano\Npara que redactara el contrato.
+Dialogue: 0,0:08:57.02,0:09:01.77,Gen_Main,Maomao,0,0,0,,¿En la firma hubo algún testigo?\N¿El escribano, por ejemplo?
+Dialogue: 0,0:09:01.77,0:09:03.76,Cart_A_Tre,CARTEL,0,0,0,,{\fad(0,927)\fs14\b0\pos(315.43,156.03)}Escribano{\b1}
+Dialogue: 0,0:09:01.77,0:09:08.81,Cart_A_Tre,CARTEL,0,0,0,,{\fs14\frx358\fry342\pos(464.76,156.03)\b0}Marido{\b1}
+Dialogue: 0,0:09:01.77,0:09:04.77,Cart_A_Tre,CARTEL,0,0,0,,{\fad(0,936)\frz6.556\b0\fs16\pos(162.29,50.23)}Testigo{\b1}
+Dialogue: 0,0:09:01.85,0:09:05.39,Gen_Main,Younger Son,0,0,0,,Tanto el escribano\Ncomo el testigo fallecieron.
+Dialogue: 0,0:09:05.52,0:09:08.82,Gen_Main,Younger Son,0,0,0,,Ya eran mayores\Ncuando se firmó hace 15 años.
+Dialogue: 0,0:09:08.90,0:09:11.14,Gen_Italics,Maomao,0,0,0,,Sí, es un follón grande.
+Dialogue: 0,0:09:11.86,0:09:15.61,Gen_Main,Landlord,0,0,0,,Si no os vais, no tenemos otra opción.
+Dialogue: 0,0:09:15.74,0:09:17.52,Gen_Main,Landlord,0,0,0,,Enviaremos a nuestros jóvenes.
+Dialogue: 0,0:09:17.66,0:09:20.49,Gen_Main,Landlord,0,0,0,,Que aprendan el oficio\Nantes de que acabe el año.
+Dialogue: 0,0:09:21.71,0:09:23.99,Gen_Main,Landlord,0,0,0,,¡Bien! Está decidido.
+Dialogue: 0,0:09:24.13,0:09:26.78,Gen_Main,Landlord,0,0,0,,¡Traed la bebida! Una ronda para todos.
+Dialogue: 0,0:09:32.76,0:09:33.83,Gen_Main,Maomao,0,0,0,,Anda.
+Dialogue: 0,0:09:35.97,0:09:38.89,Gen_Italics,Maomao,0,0,0,,Es la bebida transparente, no la turbia.
+Dialogue: 0,0:09:45.02,0:09:47.30,Gen_Italics,Maomao,0,0,0,,El propietario\Ntoma una bebida destilada.
+Dialogue: 0,0:09:47.44,0:09:49.60,Gen_Italics,Maomao,0,0,0,,Aguantará bien el alcohol.
+Dialogue: 0,0:09:50.53,0:09:52.93,Gen_Italics,Maomao,0,0,0,,Es todo un detalle por su parte
+Dialogue: 0,0:09:53.03,0:09:56.58,Gen_Italics,Maomao,0,0,0,,invitar a todo el grupo\Na esa bebida transparente.
+Dialogue: 0,0:09:56.95,0:09:59.57,Gen_Italics,Maomao,0,0,0,,Y, además, aquí está más barata.
+Dialogue: 0,0:10:00.29,0:10:02.37,Gen_Main,Maomao,0,0,0,,-Señora.\N-¿Sí?
+Dialogue: 0,0:10:02.46,0:10:05.33,Gen_Main,Maomao,0,0,0,,Yo también quiero probarla.
+Dialogue: 0,0:10:07.21,0:10:09.37,Gen_Italics,Maomao,0,0,0,,Jinshi también se ha dado cuenta.
+Dialogue: 0,0:10:15.51,0:10:17.79,Gen_Italics,Maomao,0,0,0,,Está buena, te deja un regusto dulce.
+Dialogue: 0,0:10:17.97,0:10:21.51,Gen_Italics,Maomao,0,0,0,,No es tan refinada\Ncomo las de la ciudad, pero no está mal.
+Dialogue: 0,0:10:21.60,0:10:25.09,Gen_Italics,Maomao,0,0,0,,Aunque tenga un sabor suave,\Nel alcohol es fuerte.
+Dialogue: 0,0:10:25.90,0:10:29.72,Gen_Main,Maomao,0,0,0,,Disculpen, ¿hay alguna destilería cerca?
+Dialogue: 0,0:10:29.86,0:10:33.14,Gen_Main,Madam,0,0,0,,No que yo sepa.
+Dialogue: 0,0:10:33.32,0:10:34.45,Gen_Main,Maomao,0,0,0,,Vaya.
+Dialogue: 0,0:10:36.16,0:10:40.04,Gen_Italics,Jinshi,0,0,0,,Algo no cuadra con la cantidad de arroz\Nque procede de esta región.
+Dialogue: 0,0:10:48.84,0:10:51.20,Gen_Main,Landlord,0,0,0,,¿Qué te pasa, joven?
+Dialogue: 0,0:10:51.34,0:10:53.13,Gen_Main,Landlord,0,0,0,,¿Serás mi camarera esta noche?
+Dialogue: 0,0:10:54.09,0:10:56.76,Gen_Main,Guen,0,0,0,,Jovencita, ¿qué haces?
+Dialogue: 0,0:11:02.06,0:11:04.92,Gen_Main,Maomao,0,0,0,,¿Quiere jugar a quién aguanta más?
+Dialogue: 0,0:11:09.40,0:11:12.72,Gen_Main,Landlord,0,0,0,,¿Quieres ponerme a prueba?\NQué valor tienes.
+Dialogue: 0,0:11:18.16,0:11:20.73,Gen_Main,Maomao,0,0,0,,¿Cuánto os falta por pagar?
+Dialogue: 0,0:11:21.99,0:11:24.07,Gen_Main,Husband,0,0,0,,Mil monedas de plata al año.
+Dialogue: 0,0:11:24.20,0:11:28.78,Gen_Main,Husband,0,0,0,,Este año hemos pagado la mitad,\Nasí que faltan 4500 en cuatro años.
+Dialogue: 0,0:11:28.88,0:11:30.00,Gen_Main,Maomao,0,0,0,,De acuerdo.
+Dialogue: 0,0:11:33.37,0:11:35.91,Gen_Main,Maomao,0,0,0,,¿Y si le damos un poco de emoción?\N¿Apostamos?
+Dialogue: 0,0:11:36.05,0:11:39.17,Gen_Main,Landlord,0,0,0,,Interesante. ¿Qué te apuestas?
+Dialogue: 0,0:11:39.30,0:11:40.85,Gen_Main,Maomao,0,0,0,,A mí misma.
+Dialogue: 0,0:11:42.25,0:11:45.52,Gen_Main,Maomao,0,0,0,,Véndame a un proxeneta.\NSe llevará 300 monedas de plata.
+Dialogue: 0,0:11:49.81,0:11:53.29,Gen_Main,Farmer 1,0,0,0,,Jovencita, ¿sabes cuánto vale una mujer?
+Dialogue: 0,0:11:53.37,0:11:54.81,Gen_Italics,Maomao,0,0,0,,Pues claro que lo sé.
+Dialogue: 0,0:11:54.90,0:11:58.57,Gen_Italics,Maomao,0,0,0,,Ni te imaginas la de chicas\Nque he visto vender.
+Dialogue: 0,0:11:58.66,0:12:01.52,Gen_Main,Farmer 1,0,0,0,,La chica más impresionante\Nno llega ni a 100.
+Dialogue: 0,0:12:01.62,0:12:03.79,Gen_Main,Farmer 1,0,0,0,,¿Te crees que vales 300?
+Dialogue: 0,0:12:08.53,0:12:12.12,Gen_Main,Maomao,0,0,0,,Un rábano lleno de tierra\Nno se vendería por 50 monedas de plata.
+Dialogue: 0,0:12:12.29,0:12:14.87,Gen_Main,Maomao,0,0,0,,Eso es más que evidente.
+Dialogue: 0,0:12:15.46,0:12:17.92,Gen_Main,Maomao,0,0,0,,El que no sabe nada es usted.
+Dialogue: 0,0:12:18.01,0:12:19.37,Gen_Main,Farmer 1,0,0,0,,¿Qué has dicho?
+Dialogue: 0,0:12:23.64,0:12:28.13,Gen_Italics,Maomao,0,0,0,,Al menos han entendido\Nque el rábano son las chicas de campo.
+Dialogue: 0,0:12:28.81,0:12:30.63,Gen_Main,Farmer 1,0,0,0,,¡Repítelo si te atreves!
+Dialogue: 0,0:12:30.77,0:12:35.35,Gen_Main,Maomao,0,0,0,,Quien no sepa leer ni escribir\Nnunca sabrá valorar el papel.
+Dialogue: 0,0:12:35.44,0:12:38.52,Gen_Main,Maomao,0,0,0,,Aunque les enseñaran,\Nno harían nada decente.
+Dialogue: 0,0:12:39.78,0:12:41.31,Gen_Main,Farmer 1,0,0,0,,¡Niñata!
+Dialogue: 0,0:12:49.33,0:12:53.63,Gen_Main,Jinshi,0,0,0,,Por esta chica,\N300 monedas de plata es una ganga.
+Dialogue: 0,0:12:53.71,0:12:57.20,Gen_Italics,Maomao,0,0,0,,Normalmente le aconsejaría\Nno alardear de su riqueza,
+Dialogue: 0,0:12:57.30,0:12:58.84,Gen_Italics,Maomao,0,0,0,,pero le seguiré el juego.
+Dialogue: 0,0:13:01.80,0:13:04.71,Gen_Main,Maomao,0,0,0,,¿Lo ven? Quien sabe, sabe.
+Dialogue: 0,0:13:06.01,0:13:09.18,Gen_Main,Farmer 1,0,0,0,,¡Chicos!\N¡Demostremos quién manda aquí!
+Dialogue: 0,0:13:10.64,0:13:12.60,Gen_Main,Landlord,0,0,0,,¿Ahora eres la voz cantante?
+Dialogue: 0,0:13:13.65,0:13:17.98,Gen_Main,Landlord,0,0,0,,Bueno, si tienes dinero, acepto.
+Dialogue: 0,0:13:18.74,0:13:20.57,Gen_Italics,Maomao,0,0,0,,Genial, ha caído.
+Dialogue: 0,0:13:24.16,0:13:27.29,Gen_Main,Maomao,0,0,0,,Bien, ¿quién quiere ser el primero?
+Dialogue: 0,0:13:32.33,0:13:34.50,Gen_Main,Farmer 1,0,0,0,,Yo seré el primero.
+Dialogue: 0,0:13:35.04,0:13:37.24,Gen_Main,Maomao,0,0,0,,De acuerdo, empecemos.
+Dialogue: 0,0:13:50.43,0:13:51.80,Gen_Main,Younger Son,0,0,0,,No me lo creo.
+Dialogue: 0,0:13:52.64,0:13:54.26,Gen_Main,Maomao,0,0,0,,Qué poco ha aguantado.
+Dialogue: 0,0:13:55.61,0:13:57.90,Gen_Main,Husband,0,0,0,,Es la bebida destilada, ¿no?
+Dialogue: 0,0:14:00.11,0:14:04.85,Gen_Italics,Maomao,0,0,0,,Han intentado emborracharme\Ncon una bebida con más graduación.
+Dialogue: 0,0:14:04.99,0:14:07.12,Gen_Italics,Maomao,0,0,0,,Peor para ellos, estoy acostumbrada.
+Dialogue: 0,0:14:08.08,0:14:11.32,Gen_Main,Jinshi,0,0,0,,Trescientas monedas no es un mal precio.
+Dialogue: 0,0:14:11.45,0:14:15.28,Gen_Italics,Maomao,0,0,0,,No quiero que me vuelva a comprar.\NNo puedo perder.
+Dialogue: 0,0:14:16.79,0:14:18.13,Gen_Italics,Maomao,0,0,0,,Ya llevo cuatro.
+Dialogue: 0,0:14:18.50,0:14:21.24,Gen_Italics,Maomao,0,0,0,,A 300 por persona\Ny duplicando la apuesta cada vez…
+Dialogue: 0,0:14:21.41,0:14:25.14,Gen_Italics,Maomao,0,0,0,,600, 1200, 2400…
+Dialogue: 0,0:14:25.64,0:14:30.13,Gen_Italics,Maomao,0,0,0,,Para llegar a los 4500\Nsolo tengo que ganar a uno más.
+Dialogue: 0,0:14:30.68,0:14:34.80,Gen_Italics,Maomao,0,0,0,,Hemos firmado un acuerdo informal,\Ncon nuestra huella como garantía.
+Dialogue: 0,0:14:37.36,0:14:39.02,Gen_Main,Landlord,0,0,0,,¿Me concederías el honor?
+Dialogue: 0,0:14:39.57,0:14:45.03,Gen_Italics,Maomao,0,0,0,,¿Voy a poder aguantar?\NLas cuatro rondas se empiezan a notar.
+Dialogue: 0,0:14:45.57,0:14:47.99,Gen_Main,Landlord,0,0,0,,Yo no soy como los demás.
+Dialogue: 0,0:14:49.95,0:14:52.70,Gen_Main,Landlord,0,0,0,,Y tú no intentes recuperar ese dinero.
+Dialogue: 0,0:14:57.21,0:14:59.32,Gen_Main,Farmer 2,0,0,0,,¡Eh! ¿Qué haces?
+Dialogue: 0,0:14:59.46,0:15:01.17,Gen_Main,Maomao,0,0,0,,Cambiar un poco el sabor.
+Dialogue: 0,0:15:05.47,0:15:08.14,Gen_Main,Landlord,0,0,0,,Espera, yo también quiero.
+Dialogue: 0,0:15:12.43,0:15:13.60,Gen_Main,Farmer 2,0,0,0,,Aquí tiene.
+Dialogue: 0,0:15:15.64,0:15:19.51,Gen_Main,Landlord,0,0,0,,No será una medicina\Npara no emborracharse, ¿verdad?
+Dialogue: 0,0:15:42.13,0:15:43.58,Gen_Main,Farmers,0,0,0,,¡Señor!
+Dialogue: 0,0:15:44.42,0:15:46.62,Gen_Main,Farmer 2,0,0,0,,¡Oye! ¿Qué llevaba eso?
+Dialogue: 0,0:15:46.76,0:15:52.38,Gen_Main,Maomao,0,0,0,,Lo mismo que me he echado yo.\NHa visto cómo me lo he bebido.
+Dialogue: 0,0:15:52.51,0:15:54.30,Gen_Main,Farmer 2,0,0,0,,Ya, pero…
+Dialogue: 0,0:15:54.39,0:15:56.84,Gen_Main,Maomao,0,0,0,,Supongo que he ganado.
+Dialogue: 0,0:16:01.48,0:16:03.18,Gen_Main,Maomao,0,0,0,,¿Dónde está el baño?
+Dialogue: 0,0:16:03.90,0:16:05.52,Gen_Main,Madam,0,0,0,,Al fondo a la derecha.
+Dialogue: 0,0:16:05.65,0:16:06.89,Gen_Main,Maomao,0,0,0,,Gracias.
+Dialogue: 0,0:16:19.87,0:16:22.24,Gen_Main,Husband,0,0,0,,Perdona, ¿qué le has echado?
+Dialogue: 0,0:16:22.38,0:16:27.59,Gen_Main,Maomao,0,0,0,,Solo un poco más de alcohol\Npara cambiar el sabor.
+Dialogue: 0,0:16:28.68,0:16:33.05,Gen_Italics,Maomao,0,0,0,,Siempre llevo\Nalcohol desinfectante por si acaso.
+Dialogue: 0,0:16:33.14,0:16:35.50,Gen_Italics,Maomao,0,0,0,,Es más fuerte que una bebida normal.
+Dialogue: 0,0:16:35.64,0:16:38.09,Gen_Italics,Maomao,0,0,0,,Cualquier persona normal caería redonda.
+Dialogue: 0,0:16:38.18,0:16:41.09,Gen_Main,Husband; Maomao,0,0,0,,-¿Puedo preguntarte algo?\N-Claro.
+Dialogue: 0,0:16:41.23,0:16:45.78,Gen_Main,Husband,0,0,0,,Tú has bebido lo mismo, ¿verdad?
+Dialogue: 0,0:16:45.86,0:16:47.97,Gen_Main,Maomao,0,0,0,,A mí esto no me tumba.
+Dialogue: 0,0:16:48.11,0:16:50.11,Gen_Main,Maomao,0,0,0,,Quería terminar rápido.
+Dialogue: 0,0:16:53.49,0:16:55.94,Gen_Main,Maomao,0,0,0,,Menos mal que he llegado al baño.
+Dialogue: 0,0:16:57.12,0:17:02.29,Gen_Main,Husband,0,0,0,,Por muy segura que estés,\Nno deberías apostarte a ti misma.
+Dialogue: 0,0:17:02.38,0:17:04.54,Gen_Main,Husband,0,0,0,,Y encima lo has hecho por nosotros.
+Dialogue: 0,0:17:06.30,0:17:08.95,Gen_Main,Maomao,0,0,0,,Creo que lo ha malinterpretado.
+Dialogue: 0,0:17:09.80,0:17:11.63,Gen_Main,Maomao,0,0,0,,Esto es mío.
+Dialogue: 0,0:17:12.80,0:17:16.75,Gen_Main,Guen,0,0,0,,¿Qué?\NJovencita, no seas mala, por favor.
+Dialogue: 0,0:17:16.85,0:17:19.02,Gen_Main,Landlord,0,0,0,,¡Eh, un momento!
+Dialogue: 0,0:17:19.10,0:17:21.09,Gen_Main,Maomao,0,0,0,,Debería quedarse tumbado un rato.
+Dialogue: 0,0:17:21.23,0:17:22.94,Gen_Main,Landlord,0,0,0,,¡La apuesta no es válida!
+Dialogue: 0,0:17:23.40,0:17:27.10,Gen_Main,Maomao,0,0,0,,Ha firmado el acuerdo.\NEscrito a mano y con su huella.
+Dialogue: 0,0:17:27.23,0:17:29.19,Gen_Main,Maomao,0,0,0,,¿Va a decirme que no sabe leer?
+Dialogue: 0,0:17:29.28,0:17:31.23,Gen_Main,Landlord,0,0,0,,¿Eso a quién le importa?
+Dialogue: 0,0:17:31.36,0:17:34.66,Gen_Main,Landlord,0,0,0,,¡Hemos apostado por diversión!\N¡No cuenta!
+Dialogue: 0,0:17:35.08,0:17:37.37,Gen_Main,Maomao,0,0,0,,Entonces no me queda otra opción.
+Dialogue: 0,0:17:37.45,0:17:42.67,Gen_Main,Maomao,0,0,0,,Tendré que informar a las autoridades\Nde que está evadiendo impuestos.
+Dialogue: 0,0:17:50.26,0:17:52.38,Gen_Main,Older Son,0,0,0,,¿Está evadiendo impuestos?
+Dialogue: 0,0:17:52.47,0:17:53.96,Gen_Main,Husband,0,0,0,,¿Por qué dices eso?
+Dialogue: 0,0:17:54.09,0:17:57.26,Gen_Main,Maomao,0,0,0,,Para fabricar alcohol,\Nse necesita un permiso.
+Dialogue: 0,0:17:57.35,0:17:59.00,Gen_Main,Maomao,0,0,0,,Quizá no para uso personal,
+Dialogue: 0,0:17:59.14,0:18:03.17,Gen_Main,Maomao,0,0,0,,pero si se vende en un establecimiento,\Nhay que declararlo.
+Dialogue: 0,0:18:03.81,0:18:09.31,Gen_Italics,Maomao,0,0,0,,Me preguntaba por qué este sitio\Npermitía estas "reuniones".
+Dialogue: 0,0:18:10.15,0:18:14.78,Gen_Italics,Maomao,0,0,0,,Tener bebidas buenas y baratas\Nbeneficia al negocio.
+Dialogue: 0,0:18:14.86,0:18:16.78,Gen_Italics,Maomao,0,0,0,,Si el proveedor lo pidiera,
+Dialogue: 0,0:18:16.87,0:18:19.79,Gen_Italics,Maomao,0,0,0,,le dejarían usar el local,\Npese a los inconvenientes.
+Dialogue: 0,0:18:20.54,0:18:24.74,Gen_Italics,Maomao,0,0,0,,Si usan a los agricultores\Npara producir alcohol turbio,
+Dialogue: 0,0:18:24.87,0:18:27.08,Gen_Italics,Maomao,0,0,0,,les servirían el licor transparente.
+Dialogue: 0,0:18:27.20,0:18:30.92,Gen_Italics,Maomao,0,0,0,,¿Quién se pediría el alcohol\Nque elabora y bebe todos los días?
+Dialogue: 0,0:18:31.42,0:18:35.96,Gen_Main,Maomao,0,0,0,,¿Quizás también escatime en el coste\Nde los ingredientes del alcohol?
+Dialogue: 0,0:18:36.09,0:18:39.68,Gen_Main,Maomao,0,0,0,,Se necesita mucho arroz y cebada\Npara hacer alcohol.
+Dialogue: 0,0:18:39.76,0:18:42.43,Gen_Main,Maomao,0,0,0,,Les dijo a los artesanos del papel
+Dialogue: 0,0:18:42.81,0:18:47.19,Gen_Main,Maomao,0,0,0,,que ensuciaban el agua\Ny disminuían la cosecha del arroz.
+Dialogue: 0,0:18:47.27,0:18:49.43,Gen_Main,Maomao,0,0,0,,Era mentira, ¿verdad?
+Dialogue: 0,0:18:49.52,0:18:52.94,Gen_Main,Maomao,0,0,0,,De hecho, ¿no está produciendo\Nmás arroz que antes?
+Dialogue: 0,0:18:53.44,0:18:57.15,Gen_Italics,Maomao,0,0,0,,El papel se hace con salvado de arroz\Ny virutas de madera.
+Dialogue: 0,0:18:57.35,0:19:01.41,Gen_Italics,Maomao,0,0,0,,El agua que transporta esas sustancias\Ndebería ser un buen fertilizante.
+Dialogue: 0,0:19:02.37,0:19:05.24,Gen_Italics,Maomao,0,0,0,,El anterior propietario\Ndebía de saberlo.
+Dialogue: 0,0:19:05.37,0:19:08.29,Gen_Italics,Maomao,0,0,0,,Pero el de ahora\Nempezó a elaborar alcohol
+Dialogue: 0,0:19:08.38,0:19:10.92,Gen_Italics,Maomao,0,0,0,,para ocultar el aumento de la cosecha.
+Dialogue: 0,0:19:11.55,0:19:14.34,Gen_Main,Maomao,0,0,0,,¿Doble evasión fiscal?\NEso es un delito grave.
+Dialogue: 0,0:19:15.93,0:19:19.25,Gen_Italics,Maomao,0,0,0,,A juzgar por su reacción,\Nestoy bastante segura.
+Dialogue: 0,0:19:19.39,0:19:21.67,Gen_Main,Farmer 3,0,0,0,,¿Tienes pruebas?
+Dialogue: 0,0:19:21.76,0:19:24.04,Gen_Main,Maomao,0,0,0,,Tranquilidad. Si son inocentes,
+Dialogue: 0,0:19:24.16,0:19:27.52,Gen_Main,Maomao,0,0,0,,no deberían temer\Na los inspectores del Gobierno.
+Dialogue: 0,0:19:29.23,0:19:31.85,Gen_Main,Landlord,0,0,0,,Vaya humos gastas, niña.
+Dialogue: 0,0:19:31.98,0:19:35.20,Gen_Main,Landlord,0,0,0,,¿Qué te hace pensar\Nque vas a salir de aquí de una pieza?
+Dialogue: 0,0:19:35.28,0:19:38.48,Gen_Main,Maomao,0,0,0,,Lo mismo le digo a usted.
+Dialogue: 0,0:19:38.62,0:19:40.66,Gen_Main,Maomao,0,0,0,,Piense antes de hablar.
+Dialogue: 0,0:19:47.92,0:19:50.32,Gen_Main,Maomao,0,0,0,,Venga, pida ayuda.
+Dialogue: 0,0:19:50.46,0:19:53.71,Gen_Main,Maomao,0,0,0,,Yo llamaré a las autoridades.
+Dialogue: 0,0:19:54.26,0:19:58.54,Gen_Italics,Maomao,0,0,0,,Aunque los que hay aquí dan más miedo\Nque las autoridades locales.
+Dialogue: 0,0:20:00.39,0:20:04.42,Gen_Main,Guen,0,0,0,,Jovencita, no pareces tú.
+Dialogue: 0,0:20:05.73,0:20:09.40,Gen_Main,Maomao,0,0,0,,Si amenaza a alguien,\Nprepárese para ser amenazado.
+Dialogue: 0,0:20:13.23,0:20:16.89,Gen_Main,Maomao,0,0,0,,¿Por qué se empeña tanto\Nen ser desagradable?
+Dialogue: 0,0:20:21.70,0:20:23.66,Gen_Main,Daughter,0,0,0,,¡Por favor, no sean crueles!
+Dialogue: 0,0:20:25.79,0:20:27.58,Gen_Main,Younger Son,0,0,0,,No hemos hecho nada.
+Dialogue: 0,0:20:27.66,0:20:32.03,Gen_Main,Daughter,0,0,0,,¡Lo siento!\NMi padre ha vuelto a pasarse de la raya.
+Dialogue: 0,0:20:32.17,0:20:34.83,Gen_Main,Daughter,0,0,0,,¡Por favor, perdonen su idiotez!
+Dialogue: 0,0:20:36.26,0:20:39.71,Gen_Main,Older Son,0,0,0,,No le haremos nada a tu padre.
+Dialogue: 0,0:20:41.34,0:20:45.09,Gen_Main,Landlord,0,0,0,,-¡Oye, tú! ¡Apártate de mi hija!\N-¡Papá!
+Dialogue: 0,0:20:45.22,0:20:48.55,Gen_Main,Older Son; Older Son,0,0,0,,-¡Suegro!\N-¡Yo no soy tu suegro!
+Dialogue: 0,0:20:48.69,0:20:51.05,Gen_Italics,Maomao,0,0,0,,¿Qué está pasando aquí?
+Dialogue: 0,0:20:51.19,0:20:52.52,Gen_Main,Maomao,0,0,0,,No será que…
+Dialogue: 0,0:20:53.06,0:20:55.44,Gen_Main,Younger Son,0,0,0,,Sí, es lo que estás pensando.
+Dialogue: 0,0:20:56.11,0:20:59.10,Gen_Italics,Maomao,0,0,0,,Ahora entiendo\Npor qué él va con los granjeros
+Dialogue: 0,0:20:59.24,0:21:03.40,Gen_Italics,Maomao,0,0,0,,y el propietario\Nquiere echar a los forasteros.
+Dialogue: 0,0:21:05.95,0:21:06.95,Gen_Main,Maomao,0,0,0,,Qué imbéciles.
+Dialogue: 0,0:21:07.33,0:21:09.49,Gen_Main,Younge Son,0,0,0,,Mi hermano ama con todo su corazón.
+Dialogue: 0,0:21:10.83,0:21:14.75,Gen_Main,Jinshi,0,0,0,,Pero ese no es motivo\Npara cargarse toda una aldea.
+Dialogue: 0,0:21:14.84,0:21:19.92,Gen_Italics,Maomao,0,0,0,,A ver, el hijo mayor\Nestá emparentado con el matasanos.
+Dialogue: 0,0:21:21.97,0:21:25.42,Gen_Italics,Maomao,0,0,0,,Bueno, esta vez haré la vista gorda.
+Dialogue: 0,0:21:25.97,0:21:27.81,Gen_Italics,Maomao,0,0,0,,¡O no! ¿Qué se ha creído?
+Dialogue: 0,0:21:27.89,0:21:30.26,Gen_Main,Maomao,0,0,0,,¡Disculpe! Una por aquí.
+Dialogue: 0,0:21:30.73,0:21:32.27,Gen_Main,Madam,0,0,0,,¿Vas a seguir bebiendo?
+Dialogue: 0,0:21:32.35,0:21:34.19,Gen_Main,Maomao,0,0,0,,Tengo mucho aguante.
+Dialogue: 0,0:21:45.28,0:21:49.70,Gen_Italics,Maomao,0,0,0,,Al final, acordaron pagar el préstamo\Nen un plazo de cinco años.
+Dialogue: 0,0:21:50.71,0:21:52.78,Gen_Italics,Maomao,0,0,0,,Y en cuanto a mi apuesta,
+Dialogue: 0,0:21:52.92,0:21:57.88,Gen_Italics,Maomao,0,0,0,,me conformé con que enviaran arroz\Na la Casa Verdigris durante diez años.
+Dialogue: 0,0:21:59.46,0:22:04.54,Gen_Italics,Maomao,0,0,0,,Y el hijo mayor\Ny la hija del propietario…
+Dialogue: 0,0:22:06.14,0:22:07.64,Gen_Main,Maomao,0,0,0,,Allá ellos.
+Dialogue: 0,0:23:37.48,0:23:44.87,Cart_A_Tre,CARTEL,0,0,0,,Traducción: Arantxa Ragel\NControl de calidad: Daniel Ruiz Arjona
+Dialogue: 0,0:23:45.07,0:24:00.00,Cart_EpiTitle,CARTEL,0,0,0,,{\fscx105\fsp0.2\an8\blur1\fs16\pos(83.333,45.333)}Próximo episodio
+Dialogue: 2,0:23:53.58,0:23:57.33,Gen_Italics_top,Narrator,0,0,0,,Próximo episodio:\N"El cáñamo y la religión popular".
+Dialogue: 0,0:23:53.58,0:24:00.00,Cart_EpiTitle,CARTEL,0,0,0,,{\fad(479,0)\fscx96\fs24\pos(600.73,308.36)}Episodio 56: El cáñamo y la religión popular
+
