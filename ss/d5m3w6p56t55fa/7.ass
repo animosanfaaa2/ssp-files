@@ -1,0 +1,333 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Bold,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,0,0,20,1
+Style: Internal,Arial Bold,23,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,2,0,0,20,0
+Style: Top Internal,Arial Bold,23,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,8,0,0,20,1
+Style: Flashback,Arial Bold,23,&H00F7ECEB,&H000000FF,&H004D0701,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,0,0,20,0
+Style: Narrator,Arial Bold,23,&H00F2F2F9,&H000000FF,&H00000050,&H00000050,-1,-1,0,0,100,100,0,0,1,2.5,0,2,0,0,20,1
+Style: TypePlaceholder,Arial Bold,19,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.39,0:00:13.52,TypePlaceholder,,0,0,0,,{\c&HFFFFFF&\clip(195,4,214.5,59.5)\t(0,4496,\clip(195,4,460,59.5))\bord1\blur2\t(3397,4735,)\fscy120\fad(0,475)\fnGeorgia\i1\fax0.2\\t(1482,4705,\1c&H000000&\pos(325.57,13.56))}Die Tagebücher der {\fnTimes New Roman\i0\fax0\fscy140\fscx110\b1\bord2\blur2)\c&HFDFEFC&\3c&H3F39B9&}Apothekerin
+Dialogue: 0,0:01:30.97,0:01:33.97,TypePlaceholder,,0,0,0,,{\an1\fs12\fscy110\shad0.5\bord0.5\fad(275,300)\pos(144.62,309.91)\fnTimes New Roman\c&HFFFFFF&\3c&H4A4A4A&\4c&H4A4A4A&}Dieses Werk ist fiktiv. Namen, Charaktere, Orte\Nund Begebenheiten sind entweder frei erfunden oder fiktiv erzählt.
+Dialogue: 0,0:01:33.15,0:01:38.65,Top Internal,Maomao,0,0,0,,Auf Wunsch Seiner Exzellenz habe ich\Nden Quacksalber in seine Heimat begleitet.
+Dialogue: 0,0:01:39.22,0:01:43.37,Internal,Maomao,0,0,0,,Wenn er inkognito reist, muss\Ndas Dorf von großer Bedeutung sein.
+Dialogue: 0,0:01:45.15,0:01:46.07,Default,Maomao,0,0,0,,Ja, bitte?
+Dialogue: 0,0:01:56.35,0:02:00.97,Default,Maomao,0,0,0,,Ihr könnt gern offen sprechen.\NDiese Kammer liegt abseits genug.
+Dialogue: 0,0:02:00.97,0:02:02.75,Default,Jinshi,0,0,0,,Hast du gerade gebadet?
+Dialogue: 0,0:02:02.75,0:02:07.13,Default,Maomao,0,0,0,,Nein, ich habe nur mein Haar gewaschen.\NBitte verzeiht mein Aussehen.
+Dialogue: 0,0:02:08.10,0:02:09.51,Internal,Maomao,0,0,0,,Was will er hier?
+Dialogue: 0,0:02:10.55,0:02:13.37,Default,Jinshi,0,0,0,,Kannst du Schminke\Nauch so auftragen?
+Dialogue: 0,0:02:13.37,0:02:17.07,Default,Maomao,0,0,0,,Ich denke schon. Wenn ich\Ndie passenden Werkzeuge habe.
+Dialogue: 0,0:02:17.07,0:02:18.32,Default,Jinshi,0,0,0,,Dann tu es bitte.
+Dialogue: 0,0:02:24.40,0:02:26.77,Default,Maomao,0,0,0,,Ich bringe Euch frisches Wasser.
+Dialogue: 0,0:02:26.77,0:02:29.41,Default,Jinshi,0,0,0,,Das dauert zu lange.\NDieses reicht völlig.
+Dialogue: 0,0:02:31.30,0:02:34.41,Internal,Maomao,0,0,0,,Nach meinem Haar hatte ich\Nauch meine Füße darin gewaschen …
+Dialogue: 0,0:02:34.70,0:02:35.67,Default,Jinshi,0,0,0,,Was hast du?
+Dialogue: 0,0:02:35.67,0:02:37.62,Default,Maomao,0,0,0,,Ach, nichts weiter.
+Dialogue: 0,0:02:37.62,0:02:41.75,Internal,Maomao,0,0,0,,Wenn es ihn nicht schert, werde ich\Nkein weiteres Wort darüber verlieren.
+Dialogue: 0,0:02:51.85,0:02:54.81,Internal,Maomao,0,0,0,,Die Narbe wird mit der Zeit verheilen, …
+Dialogue: 0,0:02:55.45,0:02:57.67,Internal,Maomao,0,0,0,,doch ganz verschwinden wird sie nie.
+Dialogue: 0,0:02:58.82,0:03:00.42,Default,Maomao,0,0,0,,Aber sagt, Eure Exzellenz.
+Dialogue: 0,0:03:00.42,0:03:01.52,Default,Jinshi,0,0,0,,Was gibt es?
+Dialogue: 0,0:03:01.52,0:03:05.27,Default,Maomao,0,0,0,,Weshalb stattet Ihr der Familie\Ndes Hofarztes einen Besuch ab?
+Dialogue: 0,0:03:05.97,0:03:09.78,Default,Jinshi,0,0,0,,Es ist nur ein Zwischenhalt.\NDoch hier stimmt etwas nicht.
+Dialogue: 0,0:03:09.78,0:03:11.44,Internal,Maomao,0,0,0,,Nur ein Zwischenhalt?
+Dialogue: 0,0:03:11.44,0:03:14.02,Default,Maomao,0,0,0,,Was genau stimmt denn nicht?
+Dialogue: 0,0:03:14.55,0:03:18.70,Default,Jinshi,0,0,0,,Dein Vetter hat sich gewundert, als er\Ndie Kugeln des Abakus verschoben hat.
+Dialogue: 0,0:03:19.62,0:03:21.17,Internal,Maomao,0,0,0,,Rahan …?
+Dialogue: 0,0:03:21.55,0:03:26.30,Default,Jinshi,0,0,0,,Etwas stimmt nicht mit der Reismenge,\Ndie das Dorf in den letzten Jahren liefert.
+Dialogue: 0,0:03:26.30,0:03:29.97,Internal,Maomao,0,0,0,,Angesichts Rahans\NBesessenheit mit Zahlen
+Dialogue: 0,0:03:29.97,0:03:32.77,Internal,Maomao,0,0,0,,muss man dem\Nin der Tat nachgehen.
+Dialogue: 0,0:03:33.30,0:03:37.43,Default,Jinshi,0,0,0,,Mit dieser Art von Verwicklungen\Nhatte ich allerdings nicht gerechnet.
+Dialogue: 0,0:03:38.05,0:03:40.87,Internal,Maomao,0,0,0,,Der derzeitige Grundherr\Ndes hiesigen Bodens
+Dialogue: 0,0:03:40.87,0:03:45.94,Internal,Maomao,0,0,0,,versucht, die Handwerker zu verjagen\Nund das Papier selbst herzustellen.
+Dialogue: 0,0:03:48.12,0:03:52.27,Default,Jinshi,0,0,0,,Die Papierherstellung ist ein Gewerbe,\Ndem wir weitere Aufmerksamkeit widmen müssen.
+Dialogue: 0,0:03:53.00,0:03:55.78,Default,Jinshi,0,0,0,,Es wäre sehr misslich,\Nwürde sie durch Laien erfolgen.
+Dialogue: 0,0:03:56.20,0:03:57.95,Internal,Maomao,0,0,0,,Ich bin es leid …
+Dialogue: 0,0:03:58.40,0:04:02.70,Default,Maomao,0,0,0,,Soll ich Euch die Brandnarbe jetzt schminken?\NOder lieber morgen früh?
+Dialogue: 0,0:04:02.70,0:04:04.08,Default,Jinshi,0,0,0,,Jetzt, bitte.
+Dialogue: 0,0:04:04.47,0:04:08.60,Internal,Maomao,0,0,0,,Es wäre verheerend,\Nihn so vor die Tür zu setzen.
+Dialogue: 0,0:04:10.70,0:04:13.26,Default,Maomao,0,0,0,,Kann der gnädige Basen\Ndas nicht übernehmen?
+Dialogue: 0,0:04:13.26,0:04:16.00,Default,Jinshi,0,0,0,,Es mangelt ihm an Geschick.
+Dialogue: 0,0:04:16.00,0:04:18.97,Default,Maomao,0,0,0,,Sollte ich Euch deshalb begleiten?
+Dialogue: 0,0:04:18.97,0:04:20.60,Default,Jinshi,0,0,0,,Nicht nur deshalb.
+Dialogue: 0,0:04:29.00,0:04:33.37,Default,Maomao,0,0,0,,Bitte schlaft nicht ein. Sonst muss ich\Nden gnädigen Basen holen.
+Dialogue: 0,0:04:33.37,0:04:36.72,Default,Jinshi,0,0,0,,Was könnte er\Ndenn schon ausrichten?
+Dialogue: 0,0:04:36.72,0:04:38.37,Internal,Maomao,0,0,0,,Nichts, natürlich.
+Dialogue: 0,0:04:38.37,0:04:42.67,Internal,Maomao,0,0,0,,Anders als sein Vater Gaoshun\Nist er noch sehr unbeholfen.
+Dialogue: 0,0:04:42.67,0:04:44.75,Default,Maomao,0,0,0,,Warum ist er nun Euer Adjutant?
+Dialogue: 0,0:04:46.72,0:04:53.10,Default,Jinshi,0,0,0,,Nun … Man merkt es nicht sofort, aber …\NEr … ist schon sehr fähig … Ja …
+Dialogue: 0,0:04:53.10,0:04:54.92,Default,Maomao,0,0,0,,Ihr klingt nicht sehr überzeugt.
+Dialogue: 0,0:04:56.25,0:05:00.52,Internal,Maomao,0,0,0,,Na, an der Seite Seiner Exzellenz\Nnicht auf dumme Gedanken zu kommen,
+Dialogue: 0,0:05:00.52,0:05:02.60,Internal,Maomao,0,0,0,,ist vermutlich bereits\Nein Talent für sich.
+Dialogue: 0,0:05:04.60,0:05:06.73,Internal,Maomao,0,0,0,,So, fertig.
+Dialogue: 0,0:05:20.77,0:05:22.17,Default,Jinshi,0,0,0,,Bist du fertig?
+Dialogue: 0,0:05:25.47,0:05:26.67,Default,Jinshi,0,0,0,,Du siehst grausig aus!
+Dialogue: 0,0:05:31.65,0:05:33.34,Default,Jinshi,0,0,0,,M-Mach das wieder weg!
+Dialogue: 0,0:05:33.34,0:05:37.82,Internal,Maomao,0,0,0,,Da bekomme ich glatt Lust,\Nmich noch weiter zu bemalen!
+Dialogue: 0,0:05:38.76,0:05:39.75,Default,Basen,0,0,0,,Verzeihung.
+Dialogue: 0,0:05:40.22,0:05:41.14,Default,Jinshi,0,0,0,,Bitte hör auf …
+Dialogue: 0,0:05:56.67,0:05:59.82,Internal,Maomao,0,0,0,,So gut haben wir beide\Nnoch nie harmoniert.
+Dialogue: 0,0:06:02.91,0:06:06.85,TypePlaceholder,,0,0,0,,{\fnTimes New Roman\fad(450,475)\fscy120\an1\shad1\bord0.5\4c&H2E2E2E&\c&HD9D7DC&\3c&H2E2E2E&\pos(38,335)}Episode 55:\n\n\nDie Wette
+Dialogue: 0,0:06:12.42,0:06:15.22,Internal,Maomao,0,0,0,,Ein Gespräch verlangt\Nso viele Anwesende?
+Dialogue: 0,0:06:15.84,0:06:18.55,Internal,Maomao,0,0,0,,Der Mann in der Mitte\Nist wohl der Grundherr?
+Dialogue: 0,0:06:22.52,0:06:24.77,Default,Basen,0,0,0,,War es nötig,\Ndass auch du teilnimmst?
+Dialogue: 0,0:06:24.77,0:06:29.85,Default,Maomao,0,0,0,,Der gnädige Hofarzt hat mich darum gebeten.\NEs wäre grausam gewesen, abzulehnen.
+Dialogue: 0,0:06:29.85,0:06:32.30,Default,Basen,0,0,0,,Mäßige deinen Ton!
+Dialogue: 0,0:06:35.05,0:06:38.55,Default,Basen,0,0,0,,Die Vorräte an Reiswein\Nin diesem kleinen Gasthof sind beachtlich.
+Dialogue: 0,0:06:39.57,0:06:43.02,Internal,Maomao,0,0,0,,Man schenkt hier hauptsächlich\Nden trüben Reiswein aus dem Regal aus.
+Dialogue: 0,0:06:43.02,0:06:46.20,Internal,Maomao,0,0,0,,In den großen Krügen\Nim Hinterzimmer ist klarer Reiswein.
+Dialogue: 0,0:06:46.75,0:06:50.65,Internal,Maomao,0,0,0,,In der Hauptstadt bevorzugt man\Nklaren Reiswein und Branntwein.
+Dialogue: 0,0:06:50.65,0:06:54.75,Internal,Maomao,0,0,0,,Den trüben Reiswein\Ntrinken also die Einheimischen.
+Dialogue: 0,0:06:54.75,0:06:57.30,Default,Grundherr,0,0,0,,Nun, hast du das Geld?
+Dialogue: 0,0:06:57.30,0:06:59.83,Internal,Maomao,0,0,0,,Sie sind uns zahlenmäßig\Nweit überlegen.
+Dialogue: 0,0:06:59.83,0:07:01.97,Internal,Maomao,0,0,0,,Wohin könnten wir im Falle\Neiner Prügelei flüchten?
+Dialogue: 0,0:07:01.97,0:07:04.07,Default,Ehemann,0,0,0,,Das Geld ist noch nicht fällig.
+Dialogue: 0,0:07:04.07,0:07:07.25,Default,Grundherr,0,0,0,,Wenn du nicht zahlen kannst,\Npack deine Sachen.
+Dialogue: 0,0:07:07.25,0:07:09.94,Default,Ehemann,0,0,0,,Könntet Ihr die Sache\Nnicht noch einmal überdenken?
+Dialogue: 0,0:07:09.94,0:07:11.97,Internal,Maomao,0,0,0,,Das ist also der Vertrag.
+Dialogue: 0,0:07:12.44,0:07:16.10,Default,Grundherr,0,0,0,,Du kennst mein Angebot.\NIch warte noch bis nächstes Jahr,
+Dialogue: 0,0:07:16.10,0:07:19.70,Default,Grundherr,0,0,0,,wenn du uns so lange ein,\Nzwei Dinge beibringst.
+Dialogue: 0,0:07:20.07,0:07:21.86,Internal,Maomao,0,0,0,,Ein wahrer Schlamassel.
+Dialogue: 0,0:07:21.86,0:07:26.32,Internal,Maomao,0,0,0,,Er erhält einen Aufschub, doch wenn er ihm\Nunterdessen die Papierherstellung zeigt,
+Dialogue: 0,0:07:26.32,0:07:28.87,Internal,Maomao,0,0,0,,wird ihm seine\NKunstfertigkeit gestohlen.
+Dialogue: 0,0:07:29.40,0:07:32.81,Internal,Maomao,0,0,0,,Der Grundherr will sich\Nden Titel Hoflieferant sichern,
+Dialogue: 0,0:07:32.81,0:07:34.52,Internal,Maomao,0,0,0,,die Handwerker verjagen
+Dialogue: 0,0:07:34.52,0:07:36.65,Internal,Maomao,0,0,0,,und durch seine eigenen Leute ersetzen.
+Dialogue: 0,0:07:37.38,0:07:40.27,Internal,Maomao,0,0,0,,Aber weshalb sollte er sich\Ndiese Mühe machen?
+Dialogue: 0,0:07:40.27,0:07:43.40,Internal,Maomao,0,0,0,,Er könnte sie das Geld\Ndoch einfach abarbeiten lassen.
+Dialogue: 0,0:07:43.40,0:07:45.70,Internal,Maomao,0,0,0,,Ist sein Hass auf Fremde so groß?
+Dialogue: 0,0:07:58.15,0:08:02.65,Internal,Maomao,0,0,0,,Der Vertrag ist über zehn Jahre alt,\Ndoch das Papier sieht immer noch gut aus.
+Dialogue: 0,0:08:03.17,0:08:06.41,Internal,Maomao,0,0,0,,Schlechtes Papier\Nwäre längst zerfleddert.
+Dialogue: 0,0:08:06.82,0:08:09.17,Internal,Maomao,0,0,0,,Hier steht, dass die Zahlungen\Nnach 20 Jahren enden
+Dialogue: 0,0:08:09.17,0:08:12.41,Internal,Maomao,0,0,0,,und welche Summe jeden Monat fällig ist.
+Dialogue: 0,0:08:12.75,0:08:16.92,Internal,Maomao,0,0,0,,Warum streiten sie,\Nwenn der Vertrag so eindeutig ist?
+Dialogue: 0,0:08:17.45,0:08:20.05,Default,Zweiter Sohn,0,0,0,,Er behauptet, der Vertrag sei ungültig.
+Dialogue: 0,0:08:20.05,0:08:21.57,Default,Maomao,0,0,0,,Trotz des Namenssiegels?
+Dialogue: 0,0:08:22.10,0:08:24.57,Default,Maomao,0,0,0,,Dieses Siegel ersetzt doch die Unterschrift.
+Dialogue: 0,0:08:25.10,0:08:30.06,Default,Zweiter Sohn,0,0,0,,Das schon. Doch der vorherige Grundherr\Nkonnte nicht lesen.
+Dialogue: 0,0:08:30.06,0:08:33.40,Internal,Maomao,0,0,0,,Ein Grundherr muss sehr viele\NSchriftstücke durchsehen.
+Dialogue: 0,0:08:33.40,0:08:36.48,Internal,Maomao,0,0,0,,Da hätte er doch lesen\Nund schreiben können müssen.
+Dialogue: 0,0:08:36.48,0:08:39.15,Default,Zweiter Sohn,0,0,0,,Vermutlich, weil er adoptiert wurde.
+Dialogue: 0,0:08:39.15,0:08:44.63,TypePlaceholder,,0,0,0,,{\fnTimes New Roman\bord2\blur1\fs13\fscy110\c&HDFDFDF&\3c&H212121&\pos(233.2,95.2)}Braut
+Dialogue: 0,0:08:39.55,0:08:41.35,Internal,Maomao,0,0,0,,Nun verstehe ich.
+Dialogue: 0,0:08:41.35,0:08:44.92,Internal,Maomao,0,0,0,,Wenn ein tüchtiger Pächter vom Grundherren\Nfür die Heirat adoptiert wurde,
+Dialogue: 0,0:08:42.25,0:08:44.63,TypePlaceholder,,0,0,0,,{\fnTimes New Roman\bord2\blur1\fs13\fscy110\c&HDFDFDF&\3c&H212121&\move(-11.2,100,142.8,98.4,21,855)}Adoptierter
+Dialogue: 0,0:08:44.63,0:08:45.13,TypePlaceholder,,0,0,0,,{\fnTimes New Roman\bord2\blur1\fs13\fscy110\c&HDFDFDF&\3c&H212121&\pos(239.2,87.2)\frx2\fry340}Adoptierter
+Dialogue: 0,0:08:44.92,0:08:47.24,Internal,Maomao,0,0,0,,konnte er nie lesen und schreiben lernen.
+Dialogue: 0,0:08:45.13,0:08:45.63,TypePlaceholder,,0,0,0,,{\fnTimes New Roman\bord2\blur1\fs13\fscy110\c&HDFDFDF&\3c&H212121&\frx2\fry340\frz19.92\pos(167.2,152)}Adoptierter
+Dialogue: 0,0:08:45.63,0:08:46.13,TypePlaceholder,,0,0,0,,{\fnTimes New Roman\bord2\blur1\fs13\fscy110\c&HDFDFDF&\3c&H212121&\pos(239.2,87.2)\frx2\fry340}Adoptierter
+Dialogue: 0,0:08:46.13,0:08:46.63,TypePlaceholder,,0,0,0,,{\fnTimes New Roman\bord2\blur1\fs13\fscy110\c&HDFDFDF&\3c&H212121&\frx2\fry340\frz19.92\pos(167.2,152)}Adoptierter
+Dialogue: 0,0:08:46.63,0:08:47.13,TypePlaceholder,,0,0,0,,{\fnTimes New Roman\bord2\blur1\fs13\fscy110\c&HDFDFDF&\3c&H212121&\pos(239.2,87.2)\frx2\fry340}Adoptierter
+Dialogue: 0,0:08:47.13,0:08:47.26,TypePlaceholder,,0,0,0,,{\fnTimes New Roman\bord2\blur1\fs13\fscy110\c&HDFDFDF&\3c&H212121&\frx2\fry340\frz19.92\pos(167.2,152)}Adoptierter
+Dialogue: 0,0:08:47.24,0:08:51.50,Default,Zweiter Sohn,0,0,0,,Früher hat seine Frau alles für ihn gelesen\Nund geschrieben, doch nach ihrem Tod
+Dialogue: 0,0:08:51.50,0:08:55.37,Default,Zweiter Sohn,0,0,0,,hat er seine Verträge\Nmithilfe eines Schreibers geschlossen.
+Dialogue: 0,0:08:56.85,0:09:01.76,Default,Maomao,0,0,0,,War bei Vertragsschluss denn\Nniemand sonst als Zeuge zugegen?
+Dialogue: 0,0:09:01.76,0:09:05.37,Default,Zweiter Sohn,0,0,0,,Sowohl der Zeuge als auch\Nder Schreiber sind inzwischen verstorben.
+Dialogue: 0,0:09:01.76,0:09:04.77,TypePlaceholder,,0,0,0,,{\fnTimes New Roman\fad(0,975)\bord2\blur1\fs13\fscy110\c&HDFDFDF&\3c&H212121&\pos(165.2,106)\b1}Zeuge
+Dialogue: 0,0:09:01.76,0:09:03.77,TypePlaceholder,,0,0,0,,{\fnTimes New Roman\fad(0,975)\bord2\blur1\fs13\fscy110\c&HDFDFDF&\3c&H212121&\pos(312,198.8)\b1}Schreiber
+Dialogue: 0,0:09:01.76,0:09:08.82,TypePlaceholder,,0,0,0,,{\fnTimes New Roman\fad(0,0)\bord2\blur1\fs13\fscy110\c&HDFDFDF&\3c&H212121&\pos(476,202.4)\b1}Adoptierter
+Dialogue: 0,0:09:05.37,0:09:08.80,Default,Zweiter Sohn,0,0,0,,Sie waren beim Vertragsschluss\Nvor 15 Jahren schon sehr betagt.
+Dialogue: 0,0:09:08.80,0:09:11.07,Internal,Maomao,0,0,0,,Ein wahrer Schlamassel.
+Dialogue: 0,0:09:11.77,0:09:15.57,Default,Grundherr,0,0,0,,Wenn ihr nicht gehen wollt,\Nbleibt euch nur eine Wahl.
+Dialogue: 0,0:09:15.57,0:09:17.52,Default,Grundherr,0,0,0,,Ich schicke euch meine Jungen
+Dialogue: 0,0:09:17.52,0:09:20.32,Default,Grundherr,0,0,0,,und denen bringt ihr\Nbis Jahresende alles bei.
+Dialogue: 0,0:09:21.60,0:09:25.20,Default,Grundherr,0,0,0,,Sehr schön, wir sind uns einig!\NBringt Reiswein!
+Dialogue: 0,0:09:25.20,0:09:26.60,Default,Grundherr,0,0,0,,Denen hier auch!
+Dialogue: 0,0:09:32.42,0:09:33.29,Default,Maomao,0,0,0,,Nanu?
+Dialogue: 0,0:09:35.87,0:09:38.88,Internal,Maomao,0,0,0,,Das ist kein trüber Reiswein,\Nsondern klarer.
+Dialogue: 0,0:09:44.92,0:09:49.55,Internal,Maomao,0,0,0,,Der Grundherr trinkt Branntwein.\NEr muss einiges an Schnaps vertragen.
+Dialogue: 0,0:09:50.43,0:09:54.57,Internal,Maomao,0,0,0,,Aber dass er sogar seine Begleiter\Nmit klarem Reiswein bewirten lässt …
+Dialogue: 0,0:09:54.57,0:09:56.56,Internal,Maomao,0,0,0,,Er zeigt sich äußerst freigiebig.
+Dialogue: 0,0:09:56.56,0:09:59.56,Internal,Maomao,0,0,0,,Dabei gäbe es hier\Nweit preiswerteren Reiswein.
+Dialogue: 0,0:10:00.15,0:10:01.35,Default,Maomao,0,0,0,,Frau Wirtin!
+Dialogue: 0,0:10:01.35,0:10:02.36,Default,Wirtin,0,0,0,,Was gibt es?
+Dialogue: 0,0:10:02.36,0:10:05.32,Default,Maomao,0,0,0,,Gib mir auch einen\NBecher klaren Reiswein.
+Dialogue: 0,0:10:07.15,0:10:09.43,Internal,Maomao,0,0,0,,Seine Exzellenz\Nhat es ebenfalls bemerkt.
+Dialogue: 0,0:10:15.30,0:10:17.92,Internal,Maomao,0,0,0,,Er ist süß und wohlschmeckend.
+Dialogue: 0,0:10:17.92,0:10:21.42,Internal,Maomao,0,0,0,,Er ist nicht so rein wie der Reiswein\Nder Hauptstadt, aber dennoch gut.
+Dialogue: 0,0:10:21.42,0:10:25.13,Internal,Maomao,0,0,0,,Doch trotz des milden Geschmacks\Nist er sehr stark.
+Dialogue: 0,0:10:25.82,0:10:29.30,Default,Maomao,0,0,0,,Verzeihung.\NGibt es in dieser Gegend eine Brauerei?
+Dialogue: 0,0:10:29.72,0:10:33.35,Default,Wirtin,0,0,0,,Nein. Und auch nichts,\Ndas einer ähnelt.
+Dialogue: 0,0:10:33.35,0:10:34.43,Default,Maomao,0,0,0,,Das dachte ich mir …
+Dialogue: 0,0:10:36.27,0:10:39.90,Flashback,Jinshi,0,0,0,,Etwas stimmt nicht mit der Reismenge,\Ndie das Dorf in den letzten Jahren liefert.
+Dialogue: 0,0:10:48.74,0:10:53.13,Default,Grundherr,0,0,0,,Was gibt es, Fräulein?\NWillst du uns wohl nachschenken?
+Dialogue: 0,0:10:53.95,0:10:56.75,Default,Guen,0,0,0,,F-Fräulein! Was hast du vor?!
+Dialogue: 0,0:11:02.02,0:11:04.87,Default,Maomao,0,0,0,,Wollen wir nicht um die Wette trinken?
+Dialogue: 0,0:11:09.34,0:11:12.69,Default,Grundherr,0,0,0,,Ein Wetttrinken?\NDu bist aber mutig.
+Dialogue: 0,0:11:18.01,0:11:20.64,Default,Maomao,0,0,0,,Wie viel schuldet ihr ihm noch?
+Dialogue: 0,0:11:21.89,0:11:26.16,Default,Ehemann,0,0,0,,Pro Jahr zahlen wir 1.000 Silberstücke.\NDie Hälfte für dieses Jahr ist getilgt,
+Dialogue: 0,0:11:26.16,0:11:28.94,Default,Ehemann,0,0,0,,daher bleiben für die übrigen vier Jahre\N4.500 Silberstücke.
+Dialogue: 0,0:11:28.94,0:11:29.99,Default,Maomao,0,0,0,,Aha.
+Dialogue: 0,0:11:33.31,0:11:35.86,Default,Maomao,0,0,0,,Nutzen wir die Gelegenheit\Ndoch für eine Wette.
+Dialogue: 0,0:11:35.86,0:11:39.01,Default,Grundherr,0,0,0,,Ein guter Vorschlag.\NAber was ist dein Einsatz?
+Dialogue: 0,0:11:39.01,0:11:40.84,Default,Maomao,0,0,0,,Na ich selbst.
+Dialogue: 0,0:11:42.36,0:11:45.51,Default,Maomao,0,0,0,,Ein Kuppler zahlt\Nfür mich 300 Silberstücke.
+Dialogue: 0,0:11:49.71,0:11:53.01,Default,Bauer 1,0,0,0,,Mädchen, du weißt doch gar nicht,\Nwovon du sprichst!
+Dialogue: 0,0:11:53.36,0:11:54.74,Internal,Maomao,0,0,0,,Das tue ich sehr wohl.
+Dialogue: 0,0:11:54.74,0:11:58.56,Internal,Maomao,0,0,0,,Ich habe oft genug gesehen,\Nwie Mädchen verkauft wurden.
+Dialogue: 0,0:11:58.56,0:12:01.54,Default,Bauer 1,0,0,0,,Selbst die größte Schönheit\Nbringt keine 100.
+Dialogue: 0,0:12:01.54,0:12:03.78,Default,Bauer 1,0,0,0,,Und du willst 300 wert sein?!
+Dialogue: 0,0:12:08.56,0:12:12.11,Default,Maomao,0,0,0,,Dass du für einen Rettich,\Nan dem noch die Erde klebt,
+Dialogue: 0,0:12:12.11,0:12:14.94,Default,Maomao,0,0,0,,keine 50 Silberstücke bekommst,\Nversteht sich von selbst.
+Dialogue: 0,0:12:15.39,0:12:17.91,Default,Maomao,0,0,0,,Diese Binsenwahrheit kennst du nicht?
+Dialogue: 0,0:12:17.91,0:12:19.46,Default,Bauer 1,0,0,0,,Wie bitte?!
+Dialogue: 0,0:12:23.46,0:12:27.96,Internal,Maomao,0,0,0,,Hat er also verstanden, dass ich\Nmit „Rettich“ Mädchen vom Land meine.
+Dialogue: 0,0:12:28.66,0:12:30.54,Default,Bauer 1,0,0,0,,Sag das noch mal!
+Dialogue: 0,0:12:30.54,0:12:35.21,Default,Maomao,0,0,0,,Da du nicht lesen und schreiben kannst,\Nwirst du nie Papier brauchen.
+Dialogue: 0,0:12:35.21,0:12:38.36,Default,Maomao,0,0,0,,Und du glaubst,\Nseine Herstellung lernen zu können?
+Dialogue: 0,0:12:39.71,0:12:41.06,Default,Bauer 1,0,0,0,,Du kleine …!
+Dialogue: 0,0:12:49.24,0:12:53.62,Default,Jinshi,0,0,0,,Dieses Mädchen für 300 Silberstücke\Nzu erstehen, wäre ein Schnäppchen.
+Dialogue: 0,0:12:53.62,0:12:57.37,Internal,Maomao,0,0,0,,Was muss er seinen Reichtum\Nso zur Schau stellen?
+Dialogue: 0,0:12:57.37,0:12:58.83,Internal,Maomao,0,0,0,,Da muss ich wohl mitspielen.
+Dialogue: 0,0:13:01.64,0:13:05.03,Default,Maomao,0,0,0,,Seht ihr? Da spricht einer,\Nder ein Auge dafür hat!
+Dialogue: 0,0:13:05.92,0:13:09.17,Default,Bauer 1,0,0,0,,Los! Zeit, ihr die Leviten zu lesen!
+Dialogue: 0,0:13:10.64,0:13:12.59,Default,Grundherr,0,0,0,,Was fällt dir ein,\Neinfach vorzupreschen?!
+Dialogue: 0,0:13:13.46,0:13:17.97,Default,Grundherr,0,0,0,,Na schön. Den Einsatz\Nhätten wir. Ich bin dabei.
+Dialogue: 0,0:13:18.76,0:13:20.56,Internal,Maomao,0,0,0,,Die Wette gilt.
+Dialogue: 0,0:13:23.99,0:13:27.28,Default,Maomao,0,0,0,,Nun? Wer will beginnen?
+Dialogue: 0,0:13:32.03,0:13:34.49,Default,Bauer 1,0,0,0,,Ich trinke als erster gegen dich!
+Dialogue: 0,0:13:34.86,0:13:37.26,Default,Maomao,0,0,0,,Gut. Dann fangen wir an.
+Dialogue: 0,0:13:50.36,0:13:51.74,Default,Zweiter Sohn,0,0,0,,Das ist ein Scherz.
+Dialogue: 0,0:13:52.46,0:13:54.11,Default,Maomao,0,0,0,,Das war es schon?
+Dialogue: 0,0:13:55.41,0:13:57.89,Default,Ehemann,0,0,0,,Das ist Branntwein, oder?
+Dialogue: 0,0:13:59.99,0:14:04.96,Internal,Maomao,0,0,0,,Es war ein Fehler, mir sofort den starken Wein\Nzu geben, damit ich schnell umfalle.
+Dialogue: 0,0:14:04.96,0:14:07.11,Internal,Maomao,0,0,0,,Ich bin das Trinken gewohnt.
+Dialogue: 0,0:14:07.86,0:14:11.24,Default,Jinshi,0,0,0,,300 wäre ein gutes Geschäft.
+Dialogue: 0,0:14:11.24,0:14:15.24,Internal,Maomao,0,0,0,,Die Aussicht darauf, noch einmal sein Eigentum\Nzu werden, befeuert meinen Siegeswillen.
+Dialogue: 0,0:14:16.64,0:14:18.12,Internal,Maomao,0,0,0,,Das war der vierte.
+Dialogue: 0,0:14:18.56,0:14:22.36,Internal,Maomao,0,0,0,,Mit dem ersten habe ich 300 gewonnen. Die\Nhabe ich wieder eingesetzt, so wurden es 600,
+Dialogue: 0,0:14:22.36,0:14:25.13,Internal,Maomao,0,0,0,,dann 1.200 und schließlich 2.400.
+Dialogue: 0,0:14:25.56,0:14:30.04,Internal,Maomao,0,0,0,,Die Schulden betragen 4.500, also muss ich\Nnur noch gegen einen gewinnen.
+Dialogue: 0,0:14:30.59,0:14:34.97,Internal,Maomao,0,0,0,,Zur Sicherheit hat mir jeder einen simplen\NKontrakt mit Daumenabdruck unterzeichnet.
+Dialogue: 0,0:14:37.19,0:14:39.01,Default,Grundherr,0,0,0,,Darf ich nun antreten?
+Dialogue: 0,0:14:39.54,0:14:41.21,Internal,Maomao,0,0,0,,Ob das gutgeht?
+Dialogue: 0,0:14:41.21,0:14:45.02,Internal,Maomao,0,0,0,,Nach vier Duellen habe ich\Nnun doch schon sehr viel intus.
+Dialogue: 0,0:14:45.46,0:14:47.98,Default,Grundherr,0,0,0,,Glaub nicht, mit mir\Nhättest du’s genauso leicht.
+Dialogue: 0,0:14:49.81,0:14:52.69,Default,Grundherr,0,0,0,,Und wag du es ja nicht,\Nmir mein Geld vorzuenthalten.
+Dialogue: 0,0:14:57.04,0:14:59.31,Default,Bauer 2,0,0,0,,He! Was hast du da?!
+Dialogue: 0,0:14:59.31,0:15:01.16,Default,Maomao,0,0,0,,Ich will nur den Geschmack\Netwas verändern.
+Dialogue: 0,0:15:05.37,0:15:08.13,Default,Grundherr,0,0,0,,Halt. Gib mir etwas davon ab.
+Dialogue: 0,0:15:12.59,0:15:13.59,Default,Bauer 2,0,0,0,,Bitte sehr.
+Dialogue: 0,0:15:15.44,0:15:19.54,Default,Grundherr,0,0,0,,Ist das wohl das Mittel, das dich\Nlangsamer betrunken macht?
+Dialogue: 0,0:15:41.96,0:15:42.99,Default,Bauer,0,0,0,,M-Mein Herr!
+Dialogue: 0,0:15:44.33,0:15:46.54,Default,Bauer 2,0,0,0,,He! Was hast du in den Wein getan?!
+Dialogue: 0,0:15:46.54,0:15:50.94,Default,Maomao,0,0,0,,Gar nichts. Ich habe\Ngenau das Gleiche getrunken wie er.
+Dialogue: 0,0:15:50.94,0:15:52.26,Default,Maomao,0,0,0,,Du hast es doch gesehen.
+Dialogue: 0,0:15:52.26,0:15:53.80,Default,Bauer 2,0,0,0,,Ja, aber …
+Dialogue: 0,0:15:54.21,0:15:56.71,Default,Maomao,0,0,0,,Die Wette habe ich gewonnen.
+Dialogue: 0,0:16:01.29,0:16:03.11,Default,Maomao,0,0,0,,Wo finde ich den Abort?
+Dialogue: 0,0:16:03.74,0:16:05.46,Default,Wirtin,0,0,0,,Da hinaus und dann rechts.
+Dialogue: 0,0:16:05.46,0:16:06.64,Default,Maomao,0,0,0,,Vielen Dank.
+Dialogue: 0,0:16:19.66,0:16:22.16,Default,Ehemann,0,0,0,,Was hast du gemacht?
+Dialogue: 0,0:16:22.16,0:16:23.39,Default,Maomao,0,0,0,,Gar nichts weiter.
+Dialogue: 0,0:16:23.39,0:16:27.58,Default,Maomao,0,0,0,,Ich habe nur Alkohol hinzugegeben,\Num den Geschmack zu verändern.
+Dialogue: 0,0:16:28.49,0:16:33.04,Internal,Maomao,0,0,0,,Für den Notfall habe ich immer\NEthanol zum Desinfizieren dabei.
+Dialogue: 0,0:16:33.04,0:16:37.66,Internal,Maomao,0,0,0,,Er ist weit stärker als gewöhnlicher Wein.\NNormale Menschen haut er um.
+Dialogue: 0,0:16:38.11,0:16:39.89,Default,Ehemann,0,0,0,,Dürfte ich dich etwas fragen?
+Dialogue: 0,0:16:39.89,0:16:40.99,Default,Maomao,0,0,0,,Aber sicher.
+Dialogue: 0,0:16:40.99,0:16:45.77,Default,Ehemann,0,0,0,,Du hast doch auch den Reiswein\Nmit diesem … Ethanol getrunken.
+Dialogue: 0,0:16:45.77,0:16:50.10,Default,Maomao,0,0,0,,Das bisschen macht mir nichts. Ich wollte\Ndie Sache schlicht schnell zu Ende bringen.
+Dialogue: 0,0:16:53.36,0:16:55.89,Default,Maomao,0,0,0,,Ein Glück habe ich es\Nnoch zum Abort geschafft.
+Dialogue: 0,0:16:56.84,0:16:58.81,Default,Ehemann,0,0,0,,Mag sein, dass du zuversichtlich warst,
+Dialogue: 0,0:16:58.81,0:17:02.39,Default,Ehemann,0,0,0,,doch du hättest dich dennoch nicht\Nselbst einsetzen sollen.
+Dialogue: 0,0:17:02.39,0:17:04.53,Default,Ehemann,0,0,0,,Noch dazu uns zuliebe.
+Dialogue: 0,0:17:06.11,0:17:08.81,Default,Maomao,0,0,0,,Ich fürchte, du sitzt\Neinem Missverständnis auf.
+Dialogue: 0,0:17:09.69,0:17:11.62,Default,Maomao,0,0,0,,Der hier gehört nun mir.
+Dialogue: 0,0:17:12.61,0:17:16.71,Default,Guen,0,0,0,,A-Aber Fräulein! Wie kannst du\Nnur so herzlos sein?!
+Dialogue: 0,0:17:16.71,0:17:19.01,Default,Grundherr,0,0,0,,Halt! Einen Moment!
+Dialogue: 0,0:17:19.01,0:17:21.11,Default,Maomao,0,0,0,,Schlaf dich besser aus.
+Dialogue: 0,0:17:21.11,0:17:22.93,Default,Grundherr,0,0,0,,Die Wette ist ungültig!
+Dialogue: 0,0:17:23.24,0:17:27.04,Default,Maomao,0,0,0,,Ich habe hier unseren Kontrakt.\NVon dir mit Fingerabdruck unterzeichnet.
+Dialogue: 0,0:17:27.04,0:17:29.18,Default,Maomao,0,0,0,,Oder willst du behaupten,\Ndu kannst nicht lesen?
+Dialogue: 0,0:17:29.18,0:17:31.26,Default,Grundherr,0,0,0,,Das schert mich einen Dreck!
+Dialogue: 0,0:17:31.26,0:17:34.65,Default,Grundherr,0,0,0,,Es diente nur der Unterhaltung!\NDie Wette gilt nicht!
+Dialogue: 0,0:17:34.65,0:17:36.81,Default,Maomao,0,0,0,,Dann lässt du mir keine andere Wahl.
+Dialogue: 0,0:17:37.36,0:17:42.66,Default,Maomao,0,0,0,,Ich muss den Beamten melden,\Ndass du Abgaben unterschlägst!
+Dialogue: 0,0:17:50.16,0:17:52.37,Default,Ältester Sohn,0,0,0,,Wie bitte?
+Dialogue: 0,0:17:52.37,0:17:53.94,Default,Ehemann,0,0,0,,Wovon sprichst du?
+Dialogue: 0,0:17:53.94,0:17:57.25,Default,Maomao,0,0,0,,Um brauen zu dürfen,\Nbraucht man eine staatliche Lizenz.
+Dialogue: 0,0:17:57.51,0:17:59.06,Default,Maomao,0,0,0,,Beim Verkauf der Erzeugnisse,
+Dialogue: 0,0:17:59.06,0:18:03.14,Default,Maomao,0,0,0,,zum Beispiel von großen Mengen an Gasthöfe,\Nwerden natürlich Steuern fällig.
+Dialogue: 0,0:18:03.69,0:18:09.16,Internal,Maomao,0,0,0,,Ich habe mich gewundert, warum ein Gasthof\Ndem Grundherren seinen Gastraum überlässt.
+Dialogue: 0,0:18:09.93,0:18:14.77,Internal,Maomao,0,0,0,,Ein Gasthof freut sich, wenn er viel guten\NWein zu einem kleinen Preis erstehen kann.
+Dialogue: 0,0:18:14.77,0:18:19.78,Internal,Maomao,0,0,0,,Natürlich wird er dem Verkäufer jeden Wunsch\Nerfüllen, selbst wenn er ihm Umstände macht.
+Dialogue: 0,0:18:20.31,0:18:24.61,Internal,Maomao,0,0,0,,Vermutlich hat er den trüben Reiswein\Nvon den Bauern brauen lassen …
+Dialogue: 0,0:18:24.61,0:18:27.16,Internal,Maomao,0,0,0,,Das erklärt, warum er klaren Wein\Nhat ausschenken lassen.
+Dialogue: 0,0:18:27.16,0:18:30.92,Internal,Maomao,0,0,0,,Warum sollte er Wein bestellen,\Nder ihm sattsam bekannt ist?
+Dialogue: 0,0:18:31.31,0:18:36.01,Default,Maomao,0,0,0,,Vermutlich behältst du\Nsogar Brauzutaten ein.
+Dialogue: 0,0:18:36.01,0:18:39.67,Default,Maomao,0,0,0,,Zum Brauen braucht man\Ngroße Mengen Reis und Weizen.
+Dialogue: 0,0:18:39.67,0:18:42.42,Default,Maomao,0,0,0,,Was hast du doch\Nzu den Papiermachern gesagt?
+Dialogue: 0,0:18:42.42,0:18:47.18,Default,Maomao,0,0,0,,Sie würden das Wasser verschmutzen\Nund dadurch die Reisernte verschlechtern.
+Dialogue: 0,0:18:47.18,0:18:49.39,Default,Maomao,0,0,0,,Das ist eine Lüge, nicht wahr?
+Dialogue: 0,0:18:49.39,0:18:52.31,Default,Maomao,0,0,0,,Tatsächlich erntet ihr\Nweit mehr Reis als früher.
+Dialogue: 0,0:18:53.31,0:18:57.34,Default,Maomao,0,0,0,,Zur Papierherstellung benötigt man\NReiskleie und Holzspäne.
+Dialogue: 0,0:18:57.34,0:19:01.40,Default,Maomao,0,0,0,,Wasser, in dem sie gelöst sind,\Nist ein hervorragender Dünger.
+Dialogue: 0,0:19:02.26,0:19:05.16,Default,Maomao,0,0,0,,Der frühere Grundherr\Nwird das erkannt haben.
+Dialogue: 0,0:19:05.16,0:19:09.31,Default,Maomao,0,0,0,,Der jetzige hingegen begann zu brauen,\Num die gestiegene Ernte
+Dialogue: 0,0:19:09.31,0:19:10.91,Default,Maomao,0,0,0,,zu verschleiern.
+Dialogue: 0,0:19:11.51,0:19:14.33,Default,Maomao,0,0,0,,Doppelte Steuerumgehung\Nwird schwer bestraft.
+Dialogue: 0,0:19:15.83,0:19:19.21,Internal,Maomao,0,0,0,,Seiner Reaktion nach zu schließen\Nliege ich richtig.
+Dialogue: 0,0:19:19.21,0:19:21.61,Default,Bauer 3,0,0,0,,K-Kannst du das auch beweisen?!
+Dialogue: 0,0:19:21.61,0:19:23.51,Default,Maomao,0,0,0,,Keine Sorge.
+Dialogue: 0,0:19:23.51,0:19:27.51,Default,Maomao,0,0,0,,Wenn er unschuldig ist, werden die Beamten\Nin seinem Haus nichts finden.
+Dialogue: 0,0:19:29.07,0:19:31.79,Default,Grundherr,0,0,0,,D-Du bist ja sehr von dir überzeugt.
+Dialogue: 0,0:19:31.79,0:19:35.18,Default,Grundherr,0,0,0,,Du glaubst doch nicht,\Ndass du so leicht davonkommst.
+Dialogue: 0,0:19:35.18,0:19:38.36,Default,Maomao,0,0,0,,Dieselbe Frage könnte ich dir stellen.
+Dialogue: 0,0:19:38.36,0:19:40.65,Default,Maomao,0,0,0,,Sieh dich doch einmal um.
+Dialogue: 0,0:19:47.74,0:19:50.26,Default,Maomao,0,0,0,,Lass ruhig Hilfe kommen.
+Dialogue: 0,0:19:50.26,0:19:53.70,Default,Maomao,0,0,0,,Dann gebe ich den Beamten Bescheid.
+Dialogue: 0,0:19:54.04,0:19:58.41,Default,Maomao,0,0,0,,Wobei du vor den Männern hier weit mehr\NAngst haben solltest als vor den Beamten.
+Dialogue: 0,0:20:00.24,0:20:04.34,Default,Guen,0,0,0,,Fräulein … Du bist\Nganz anders als sonst …
+Dialogue: 0,0:20:05.56,0:20:09.39,Default,Maomao,0,0,0,,Wenn du mir drohst,\Ndann leb auch mit den Konsequenzen.
+Dialogue: 0,0:20:13.11,0:20:16.81,Default,Maomao,0,0,0,,Warum musstest du die Papiermacher\Nüberhaupt schikanieren?
+Dialogue: 0,0:20:21.56,0:20:23.65,Default,Tochter,0,0,0,,Bitte lasst diesen Unsinn!
+Dialogue: 0,0:20:25.61,0:20:27.57,Default,Zweiter Sohn,0,0,0,,Wir haben nichts getan …!
+Dialogue: 0,0:20:27.57,0:20:32.01,Default,Tochter,0,0,0,,Es tut mir leid! Ich weiß, dass Vater\Nwieder überzogene Forderungen stellt!
+Dialogue: 0,0:20:32.01,0:20:34.81,Default,Tochter,0,0,0,,Bitte verzeiht ihm\Nsein törichtes Verhalten!
+Dialogue: 0,0:20:36.11,0:20:37.71,Default,Ältester Sohn,0,0,0,,Wir würden ihm nie etwas tun!
+Dialogue: 0,0:20:38.06,0:20:39.66,Default,Ältester Sohn,0,0,0,,Er ist doch dein Vater.
+Dialogue: 0,0:20:41.16,0:20:44.09,Default,Grundherr,0,0,0,,He! Finger weg\Nvon meiner Tochter!
+Dialogue: 0,0:20:44.09,0:20:45.06,Default,Tochter,0,0,0,,Vater!
+Dialogue: 0,0:20:45.06,0:20:45.91,Default,Ältester Sohn,0,0,0,,Schwiegervater!
+Dialogue: 0,0:20:45.91,0:20:47.97,Default,Grundherr,0,0,0,,Ich bin nicht dein Vater,\Nhast du gehört?!
+Dialogue: 0,0:20:48.51,0:20:50.94,Internal,Maomao,0,0,0,,Was ist denn das für ein Theater?
+Dialogue: 0,0:20:50.94,0:20:52.51,Default,Maomao,0,0,0,,Könnte es sein …?
+Dialogue: 0,0:20:52.99,0:20:55.43,Default,Zweiter Sohn,0,0,0,,Ich fürchte, du hast\Nes richtig erkannt.
+Dialogue: 0,0:20:55.96,0:20:59.16,Internal,Maomao,0,0,0,,Ach. Warum der Älteste\Naufseiten der Bauern ist
+Dialogue: 0,0:20:59.16,0:21:03.26,Internal,Maomao,0,0,0,,und warum der Grundherr Fremde hasst\Nund sie verjagen will, erklärt sich so.
+Dialogue: 0,0:21:05.54,0:21:06.86,Default,Maomao,0,0,0,,Es ist so absurd …
+Dialogue: 0,0:21:07.19,0:21:09.41,Default,Zweiter Sohn,0,0,0,,Mein Bruder ist ihr in Liebe ergeben.
+Dialogue: 0,0:21:10.69,0:21:14.74,Default,Jinshi,0,0,0,,Es wäre aber doch jammerschade, wenn\Ndas ganze Dorf daran zugrunde gehen würde …
+Dialogue: 0,0:21:14.74,0:21:19.91,Internal,Maomao,0,0,0,,Ach ja, der Älteste ist ja\Nein Verwandter des Quacksalbers.
+Dialogue: 0,0:21:21.87,0:21:25.34,Internal,Maomao,0,0,0,,Da konnten sie ihn nicht ausladen …
+Dialogue: 0,0:21:25.81,0:21:27.80,Default,Maomao,0,0,0,,Wo kommen wir denn da hin!
+Dialogue: 0,0:21:27.80,0:21:30.14,Default,Maomao,0,0,0,,Verzeihung! Reiswein, bitte.
+Dialogue: 0,0:21:30.14,0:21:30.63,Default,Basen,0,0,0,,Was?!
+Dialogue: 0,0:21:30.63,0:21:32.26,Default,Wirtin,0,0,0,,Du trinkst noch weiter?
+Dialogue: 0,0:21:32.26,0:21:34.18,Default,Maomao,0,0,0,,Ich habe noch lange nicht genug.
+Dialogue: 0,0:21:45.11,0:21:47.11,Internal,Maomao,0,0,0,,Man einigte sich darauf,\Ndass die Papiermacher
+Dialogue: 0,0:21:47.11,0:21:49.69,Internal,Maomao,0,0,0,,das Geld über fünf Jahre\Nabzahlen würden.
+Dialogue: 0,0:21:50.54,0:21:52.76,Internal,Maomao,0,0,0,,Statt meines gewonnenen Geldes
+Dialogue: 0,0:21:52.76,0:21:57.87,Internal,Maomao,0,0,0,,wird der Grundherr zehn Jahre lang\NReis an das Rokushokan schicken.
+Dialogue: 0,0:21:59.26,0:22:04.66,Internal,Maomao,0,0,0,,Und was den ältesten Sohn\Nund die Tochter des Grundherrn angeht …
+Dialogue: 0,0:22:05.99,0:22:07.63,Default,Maomao,0,0,0,,Das schert mich einen Dreck.
+Dialogue: 0,0:22:15.60,0:22:19.10,TypePlaceholder,,0,0,0,,{\fad(275,275)\fnTimes New Roman\fs17\fscy115\c&HFFFFFF&\3c&H3B383B&\bord1\blur2\b1}Übersetzung: Verena Maser\NSpotting: Michael Gohl
+Dialogue: 0,0:22:19.90,0:22:23.40,TypePlaceholder,,0,0,0,,{\fad(275,275)\fnTimes New Roman\fs17\fscy115\c&HFFFFFF&\3c&H3B383B&\bord1\blur2\b1}Revision & Typesetting: Sandra Ritzer\NQualitätskontrolle: Ruben Grest
+Dialogue: 0,0:22:24.19,0:22:27.70,TypePlaceholder,,0,0,0,,{\fad(275,275)\fnTimes New Roman\fs17\fscy115\c&HFFFFFF&\3c&H3B383B&\bord1\blur2\b1}Projektleitung: Tobias Philippi
+Dialogue: 0,0:23:45.06,0:24:00.10,TypePlaceholder,,0,0,0,,{\fnTimes New Roman\fs19\shad1\bord0\4c&H414141&\pos(81.41,48.12)\c&HFFFFFF&}Nächstes Mal
+Dialogue: 0,0:23:53.42,0:23:57.33,Narrator,Erzählerin,0,0,0,,{\an8}Nächstes Mal:\N„Hanf und Volksglauben“.
+Dialogue: 0,0:23:53.57,0:24:00.10,TypePlaceholder,,0,0,0,,{\fnTimes New Roman\shad1\bord0\4c&H414141&\fad(475,0)\fscy120\an1\4c&H474747&\c&HFFFFFF&\pos(36.94,338.28)}Episode 56\n\n\nHanf und Volksglauben
+
