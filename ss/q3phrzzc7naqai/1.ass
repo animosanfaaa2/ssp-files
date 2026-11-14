@@ -1,0 +1,387 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: sign_generic,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.06,0:00:08.06,Default,Fia,0,0,0,,Thanks for protecting me.
+Dialogue: 0,0:00:08.06,0:00:11.07,Default,Fia,0,0,0,,The knights and I will take it from here.
+Dialogue: 0,0:00:11.07,0:00:13.45,Default,Knight 1,0,0,0,,B-Black Dragon King?!
+Dialogue: 0,0:00:13.45,0:00:15.32,Default,Knight 2,0,0,0,,The legendary dragon?!
+Dialogue: 0,0:00:15.32,0:00:18.37,Default,Quentin,0,0,0,,What... What magnificence!
+Dialogue: 0,0:00:18.37,0:00:21.17,Default,Quentin,0,0,0,,I never thought I'd behold it \Nwith my own eyes!
+Dialogue: 0,0:00:22.80,0:00:26.44,Default,Knight 1,0,0,0,,Crap, I'm so freaked out \Nthat I'm starting to hallucinate.
+Dialogue: 0,0:00:26.44,0:00:30.92,Default,Knight 1,0,0,0,,Fia's talking to the Black \NDragon King and patting him.
+Dialogue: 0,0:00:30.92,0:00:32.13,Default,Fia,0,0,0,,Zavilia.
+Dialogue: 0,0:00:32.13,0:00:39.09,italics,Zavilia,0,0,0,,Fia, thanks for entertaining my silly \Nwish not to fight the blue dragons.
+Dialogue: 0,0:00:39.80,0:00:41.68,italics,Zavilia,0,0,0,,I was out of my mind.
+Dialogue: 0,0:00:42.50,0:00:46.68,italics,Zavilia,0,0,0,,Protecting you has always been my desire.
+Dialogue: 0,0:02:19.03,0:02:23.99,top,Text,0,0,0,,EPISODE 8\N MY ADORABLE FRIEND
+Dialogue: 0,0:03:03.52,0:03:06.46,Default,Fia,0,0,0,,I never knew Zavilia was so strong.
+Dialogue: 0,0:03:07.52,0:03:10.48,Default,Fia,0,0,0,,Isn't he still a child?
+Dialogue: 0,0:03:11.66,0:03:12.63,italics,Fia (M),0,0,0,,Huh?
+Dialogue: 0,0:03:12.63,0:03:16.05,Default,Fia,0,0,0,,Zavilia, did you always have a horn?
+Dialogue: 0,0:03:16.54,0:03:20.05,italics,Zavilia,0,0,0,,Fia, I'm thinking of becoming king.
+Dialogue: 0,0:03:20.05,0:03:22.64,Default,Fia,0,0,0,,Huh? K-King?
+Dialogue: 0,0:03:22.64,0:03:23.55,italics,Zavilia,0,0,0,,Yeah.
+Dialogue: 0,0:03:23.89,0:03:26.90,italics,Zavilia,0,0,0,,There are a lot of monsters \Nthat roam in packs,
+Dialogue: 0,0:03:26.90,0:03:29.93,italics,Zavilia,0,0,0,,so I'm going to get overwhelmed someday.
+Dialogue: 0,0:03:30.31,0:03:35.20,italics,Zavilia,0,0,0,,That's why I'm going to become king \Nand lead all dragonkind.
+Dialogue: 0,0:03:35.20,0:03:39.45,Default,Fia,0,0,0,,Err, okay, sure, if that's what you want.
+Dialogue: 0,0:03:39.67,0:03:43.95,italics,Zavilia,0,0,0,,Black dragons grow three horns \Nwhen they become king.
+Dialogue: 0,0:03:44.31,0:03:48.08,italics,Zavilia,0,0,0,,I'd never thought about becoming a king,
+Dialogue: 0,0:03:48.08,0:03:51.30,italics,Zavilia,0,0,0,,but I grew a horn \Nwhen I tried to protect you.
+Dialogue: 0,0:03:51.97,0:03:54.57,italics,Zavilia,0,0,0,,No one can be a king without a kingdom.
+Dialogue: 0,0:03:54.57,0:03:59.25,italics,Zavilia,0,0,0,,So I'll finally become king when\NI command a large number of dragons,
+Dialogue: 0,0:03:59.25,0:04:02.14,italics,Zavilia,0,0,0,,and I'll grow a third horn.
+Dialogue: 0,0:04:04.40,0:04:08.36,italics,Zavilia,0,0,0,,You're always a lot more reckless \Nthan I expect you to be, Fia.
+Dialogue: 0,0:04:08.36,0:04:12.23,italics,Zavilia,0,0,0,,I'll come back when \NI'm powerful enough to protect you.
+Dialogue: 0,0:04:12.23,0:04:14.89,Default,Fia,0,0,0,,Wha?! Zavilia, what are you—
+Dialogue: 0,0:04:13.10,0:04:17.99,top,Quentin,0,0,0,,Oh, no! The Black Dragon King's horn!
+Dialogue: 0,0:04:18.96,0:04:21.12,italics,Zavilia,0,0,0,,I'm leaving Fia in your hands.
+Dialogue: 0,0:04:21.12,0:04:25.04,italics,Zavilia,0,0,0,,Keep her safe until I'm back.
+Dialogue: 0,0:04:26.12,0:04:28.00,italics,Zavilia,0,0,0,,Take that as a small gift.
+Dialogue: 0,0:04:28.00,0:04:32.88,italics,Zavilia,0,0,0,,Use it in place of your blunt swords \Nwhen you need to protect Fia.
+Dialogue: 0,0:04:32.88,0:04:36.19,Default,Quentin,0,0,0,,Th-The Black Dragon \NKing's horn? My sword?!
+Dialogue: 0,0:04:36.19,0:04:40.99,Default,Quentin,0,0,0,,I promise I will protect\NLady Fia with my life!
+Dialogue: 0,0:04:42.50,0:04:43.80,italics,Zavilia,0,0,0,,Fia...
+Dialogue: 0,0:04:44.40,0:04:46.86,italics,Zavilia,0,0,0,,You and I are connected.
+Dialogue: 0,0:04:46.86,0:04:50.04,italics,Zavilia,0,0,0,,If something were to ever happen \Nto you, I will die immediately.
+Dialogue: 0,0:04:51.16,0:04:55.24,italics,Zavilia,0,0,0,,There's so much I want to \Ndo with you still.
+Dialogue: 0,0:04:55.24,0:04:57.56,italics,Zavilia,0,0,0,,Please try not to get yourself \Ninto too much trouble.
+Dialogue: 0,0:04:57.56,0:05:00.48,Default,Fia,0,0,0,,I won't! I promise I'll stay safe!
+Dialogue: 0,0:05:01.76,0:05:05.28,italics,Zavilia,0,0,0,,I'm happiest when you're yourself, Fia.
+Dialogue: 0,0:05:05.28,0:05:08.16,italics,Zavilia,0,0,0,,I'll be here as soon as you call for me.
+Dialogue: 0,0:05:08.16,0:05:12.11,italics,Zavilia,0,0,0,,I'll be back before you forget about me.
+Dialogue: 0,0:05:13.35,0:05:14.39,italics,Zavilia,0,0,0,,Bye.
+Dialogue: 0,0:05:18.77,0:05:19.92,Default,Fia,0,0,0,,Yes.
+Dialogue: 0,0:05:20.81,0:05:30.34,Default,Fia,0,0,0,,My clingy, sleepy, jealous, sarcastic, \Nunwavering ally and dear friend...
+Dialogue: 0,0:05:30.34,0:05:33.12,Default,Fia,0,0,0,,I love you, Zavilia.
+Dialogue: 0,0:05:33.12,0:05:36.11,Default,Fia,0,0,0,,I'll be waiting for you to return.
+Dialogue: 0,0:05:51.09,0:05:54.91,Default,Fia,0,0,0,,Sh-Shoot! Captain Quentin, \Nwe have to throw the rocks!
+Dialogue: 0,0:05:54.91,0:05:57.04,Default,Fia,0,0,0,,Throw the rocks from Blackpeak Mountain!
+Dialogue: 0,0:05:57.04,0:05:58.16,Default,Quentin,0,0,0,,Y-Yessir!
+Dialogue: 0,0:05:58.16,0:05:59.60,Default,Quentin,0,0,0,,Wait...
+Dialogue: 0,0:06:05.34,0:06:08.30,Default,Fia,0,0,0,,W-Well, that wasn't quite \Nthe right order,
+Dialogue: 0,0:06:08.30,0:06:11.13,Default,Fia,0,0,0,,but I think we completed all \Nthe steps, right?
+Dialogue: 0,0:06:11.13,0:06:13.31,Default,Zackary,0,0,0,,Get a grip, everyone!
+Dialogue: 0,0:06:13.31,0:06:15.36,Default,Zackary,0,0,0,,Do you not hear me?!
+Dialogue: 0,0:06:16.72,0:06:18.76,Default,Zackary,0,0,0,,You seem to be confused \Nfrom having witnessed
+Dialogue: 0,0:06:18.76,0:06:20.98,Default,Zackary,0,0,0,,the terror that is \Nthe Black Dragon King.
+Dialogue: 0,0:06:20.98,0:06:21.83,Default,Zackary,0,0,0,,Listen up!
+Dialogue: 0,0:06:21.83,0:06:26.90,Default,Zackary,0,0,0,,Everything you thought you saw or \Nheard was a hallucination caused by fear!
+Dialogue: 0,0:06:27.06,0:06:28.41,Default,Knights,0,0,0,,Sorry?
+Dialogue: 0,0:06:28.41,0:06:32.57,Default,Zackary,0,0,0,,I'll sort out everything that was real \Nfrom what wasn't for each of you,
+Dialogue: 0,0:06:32.57,0:06:35.53,Default,Zackary,0,0,0,,so do not speak to anyone \Nabout any of this. Understood?
+Dialogue: 0,0:06:35.53,0:06:36.53,Default,Knights,0,0,0,,Yes, sir.
+Dialogue: 0,0:06:36.53,0:06:37.41,Default,Zackary,0,0,0,,Good.
+Dialogue: 0,0:06:37.41,0:06:40.10,Default,Zackary,0,0,0,,You three on the right, \Ngo look for the saints.
+Dialogue: 0,0:06:40.10,0:06:42.04,Default,Zackary,0,0,0,,Everyone else, rendezvous \Nwith the other units.
+Dialogue: 0,0:06:42.04,0:06:44.30,Default,Zackary,0,0,0,,We'll rest up and leave the forest.
+Dialogue: 0,0:06:44.30,0:06:45.92,Default,Knights,0,0,0,,Understood.
+Dialogue: 0,0:06:44.30,0:06:45.92,top,Fia,0,0,0,,Understood.
+Dialogue: 0,0:06:45.92,0:06:49.19,Default,Zackary,0,0,0,,Fia, you're especially confused.
+Dialogue: 0,0:06:49.19,0:06:50.17,Default,Zackary,0,0,0,,This isn't normal.
+Dialogue: 0,0:06:50.17,0:06:51.95,Default,Fia,0,0,0,,Huh? Me?!
+Dialogue: 0,0:07:01.16,0:07:03.64,Default,Zackary,0,0,0,,All right, you two.
+Dialogue: 0,0:07:03.64,0:07:05.84,Default,Zackary,0,0,0,,I know you have something to tell me.
+Dialogue: 0,0:07:05.84,0:07:09.66,Default,Zackary,0,0,0,,I'll spend as long as it takes \Nto hear everything you have to say. Speak!
+Dialogue: 0,0:07:09.66,0:07:13.43,Default,Quentin,0,0,0,,I don't remember the last time \Nyou've ever wanted to hear {\i1}me{\i0} talk.
+Dialogue: 0,0:07:14.74,0:07:17.83,Default,Quentin,0,0,0,,You saw it, too! The Black \NDragon King in all his glory!
+Dialogue: 0,0:07:17.83,0:07:22.08,Default,Quentin,0,0,0,,To witness a dragon evolve into \Nsuch a beautiful, perfect ancient form—
+Dialogue: 0,0:07:20.60,0:07:22.08,top,Zackary,0,0,0,,Okay, got it.
+Dialogue: 0,0:07:22.08,0:07:25.75,Default,Zackary,0,0,0,,You didn't understand a word I just said.
+Dialogue: 0,0:07:25.75,0:07:28.20,Default,Zackary,0,0,0,,Fia, you start, then.
+Dialogue: 0,0:07:28.20,0:07:30.00,Default,Zackary,0,0,0,,You have something to tell me, don't you?
+Dialogue: 0,0:07:30.00,0:07:32.46,Default,Fia,0,0,0,,I do. I was delirious.
+Dialogue: 0,0:07:32.46,0:07:33.18,Default,Zackary,0,0,0,,Wha?
+Dialogue: 0,0:07:33.18,0:07:36.64,Default,Fia,0,0,0,,I was in a state of confusion. \NYou said it yourself, Captain Zackary.
+Dialogue: 0,0:07:36.64,0:07:39.50,Default,Fia,0,0,0,,That's why I'm having delusions about me,
+Dialogue: 0,0:07:39.50,0:07:43.27,Default,Fia,0,0,0,,a low-level newbie knight, \Ndining with the captains!
+Dialogue: 0,0:07:43.27,0:07:46.93,Default,Zackary,0,0,0,,No, hang on, that's not \Nwhat I meant by confused.
+Dialogue: 0,0:07:46.93,0:07:48.95,Default,Zackary,0,0,0,,What I mean is, uh...
+Dialogue: 0,0:07:48.36,0:07:52.20,top,Quentin,0,0,0,,He appears to be making the case that \Nhe wants to worship you like a goddess
+Dialogue: 0,0:07:52.20,0:07:56.11,Default,Quentin,0,0,0,,for commanding the breathtakingly \Nmarvelous, magnificent Black Dragon King.
+Dialogue: 0,0:07:56.11,0:07:57.20,Default,Zackary,0,0,0,,Wha?!
+Dialogue: 0,0:07:57.20,0:07:59.05,Default,Zackary,0,0,0,,What's gotten into you?!
+Dialogue: 0,0:07:59.05,0:08:01.25,Default,Zackary,0,0,0,,Is this what the grand master \Nwas talking about?
+Dialogue: 0,0:08:01.25,0:08:04.79,Default,Zackary,0,0,0,,That capable knights lose their minds \Nwhen they talk to Fia?!
+Dialogue: 0,0:08:04.79,0:08:06.95,Default,Quentin,0,0,0,,Zackary, until now, you could never feel.
+Dialogue: 0,0:08:06.95,0:08:09.47,Default,Quentin,0,0,0,,You've only ever accepted \Nthat which you could see.
+Dialogue: 0,0:08:09.47,0:08:11.58,Default,Quentin,0,0,0,,But now, you're about \Nto make great progress.
+Dialogue: 0,0:08:11.58,0:08:14.01,Default,Zackary,0,0,0,,Shut up! Stay out of this!
+Dialogue: 0,0:08:14.01,0:08:15.97,Default,Quentin,0,0,0,,Take in and accept Lady Fia's greatness!
+Dialogue: 0,0:08:15.97,0:08:17.79,Default,Zackary,0,0,0,,No, again...
+Dialogue: 0,0:08:16.92,0:08:19.14,top,Fia,0,0,0,,Please, enough, you two.
+Dialogue: 0,0:08:20.64,0:08:24.52,Default,Fia,0,0,0,,We're just going to have to \Neat lunch, I guess!
+Dialogue: 0,0:08:25.89,0:08:28.80,Default,Fia,0,0,0,,You're both on edge \Nbecause you're hungry.
+Dialogue: 0,0:08:29.17,0:08:30.91,Default,Fia,0,0,0,,You're such children, aren't you?
+Dialogue: 0,0:08:39.16,0:08:40.18,Default,Zackary,0,0,0,,Fia.
+Dialogue: 0,0:08:40.18,0:08:41.08,Default,Fia,0,0,0,,Yes?
+Dialogue: 0,0:08:47.15,0:08:49.33,Default,Zackary,0,0,0,,I need to thank you.
+Dialogue: 0,0:08:50.92,0:08:53.97,Default,Zackary,0,0,0,,I should have mentioned this\Nbefore I questioned you...
+Dialogue: 0,0:08:53.97,0:08:59.32,Default,Zackary,0,0,0,,But thanks to you, we didn't lose a \Nsingle man amid the onslaught of monsters.
+Dialogue: 0,0:08:59.32,0:09:02.22,Default,Zackary,0,0,0,,As captain, I'm in your debt.
+Dialogue: 0,0:09:02.22,0:09:05.44,Default,Fia,0,0,0,,No, I didn't do anything, \NCaptain Zackary.
+Dialogue: 0,0:09:05.44,0:09:06.03,Default,Fia,0,0,0,,Zavi...
+Dialogue: 0,0:09:06.03,0:09:08.44,Default,Fia,0,0,0,,The black dragon and the\N knights did all the work.
+Dialogue: 0,0:09:08.44,0:09:09.98,Default,Fia,0,0,0,,Please, raise your head.
+Dialogue: 0,0:09:12.49,0:09:13.68,Default,Zackary,0,0,0,,Fia...
+Dialogue: 0,0:09:13.68,0:09:16.99,Default,Zackary,0,0,0,,You used your secret powers \Nto protect the knights, didn't you?
+Dialogue: 0,0:09:16.99,0:09:22.67,Default,Fia,0,0,0,,Sorry?! A-Am I hiding something?!
+Dialogue: 0,0:09:22.67,0:09:24.53,Default,Fia,0,0,0,,And did I use that?
+Dialogue: 0,0:09:24.53,0:09:27.22,Default,Quentin,0,0,0,,You've been hiding \Nyour powers, Lady Fia?!
+Dialogue: 0,0:09:27.22,0:09:29.11,Default,Quentin,0,0,0,,I've always thought her openness and
+Dialogue: 0,0:09:29.11,0:09:31.64,Default,Quentin,0,0,0,,willingness to share \Nher thoughts commendable.
+Dialogue: 0,0:09:31.64,0:09:34.00,Default,Quentin,0,0,0,,What were you hiding, then?!
+Dialogue: 0,0:09:34.00,0:09:35.79,italics,Fia (M),0,0,0,,Wait, what's happening?
+Dialogue: 0,0:09:35.79,0:09:37.68,italics,Fia (M),0,0,0,,What does Captain Zackary know?
+Dialogue: 0,0:09:37.68,0:09:39.76,italics,Fia (M),0,0,0,,Whose side is Captain Quentin on?
+Dialogue: 0,0:09:39.76,0:09:42.48,Default,Zackary,0,0,0,,You knew the monsters' characteristics.
+Dialogue: 0,0:09:43.01,0:09:45.90,Default,Zackary,0,0,0,,You knew how many monsters \Nthe other unit was facing.
+Dialogue: 0,0:09:46.20,0:09:48.98,Default,Zackary,0,0,0,,You took command \Nof the other knights' familiars.
+Dialogue: 0,0:09:48.98,0:09:52.05,Default,Zackary,0,0,0,,And the black dragon \Nfollowed your orders.
+Dialogue: 0,0:09:52.88,0:09:55.12,Default,Zackary,0,0,0,,No one else could have done any of that.
+Dialogue: 0,0:09:55.56,0:09:59.58,italics,Fia (M),0,0,0,,Oh, they haven't figured out \Nthat I'm a saint.
+Dialogue: 0,0:09:59.58,0:10:03.16,Default,Zackary,0,0,0,,You hadn't revealed such \Nspecial abilities until now,
+Dialogue: 0,0:10:03.16,0:10:04.78,Default,Zackary,0,0,0,,so I assume that you've been hiding it.
+Dialogue: 0,0:10:05.45,0:10:10.10,Default,Zackary,0,0,0,,And yet, this time, you chose not to \Nhide it. You chose to save the knights.
+Dialogue: 0,0:10:10.46,0:10:14.28,Default,Zackary,0,0,0,,Fia, I respect your decision.
+Dialogue: 0,0:10:14.28,0:10:16.46,Default,Zackary,0,0,0,,You don't need to tell me everything.
+Dialogue: 0,0:10:16.46,0:10:18.72,Default,Zackary,0,0,0,,Just tell me what you want to.
+Dialogue: 0,0:10:19.13,0:10:21.13,Default,Fia,0,0,0,,Captain Zackary...
+Dialogue: 0,0:10:21.13,0:10:23.77,Default,Zackary,0,0,0,,I'm nothing if not a knight.
+Dialogue: 0,0:10:23.77,0:10:28.66,Default,Zackary,0,0,0,,So, as a captain \Nof the Náv Black Dragon Knights,
+Dialogue: 0,0:10:28.66,0:10:31.11,Default,Zackary,0,0,0,,I swear that I will protect \Nanything you wish to keep secret.
+Dialogue: 0,0:10:31.87,0:10:32.98,Default,Quentin,0,0,0,,Zackary,
+Dialogue: 0,0:10:32.98,0:10:36.49,Default,Quentin,0,0,0,,I believe that the many \Nmiraculous feats you listed
+Dialogue: 0,0:10:36.49,0:10:39.65,Default,Quentin,0,0,0,,were the doings \Nof the great Black Dragon King.
+Dialogue: 0,0:10:39.65,0:10:41.40,Default,Zackary,0,0,0,,The black dragon?
+Dialogue: 0,0:10:41.40,0:10:42.28,Default,Quentin,0,0,0,,Yes.
+Dialogue: 0,0:10:42.28,0:10:47.92,Default,Quentin,0,0,0,,The blue monster Fia had on her shoulder \Nwas the Black Dragon King in disguise.
+Dialogue: 0,0:10:48.21,0:10:50.70,Default,Quentin,0,0,0,,Her knowledge of the monsters \Nand her ability to command
+Dialogue: 0,0:10:50.70,0:10:53.55,Default,Quentin,0,0,0,,them must all have come \Nfrom the Black Dragon King.
+Dialogue: 0,0:10:53.78,0:10:55.43,Default,Zackary,0,0,0,,Is that true, Fia?
+Dialogue: 0,0:10:55.43,0:10:57.20,Default,Fia,0,0,0,,W-Well...
+Dialogue: 0,0:10:57.20,0:10:59.41,Default,Fia,0,0,0,,I'm sure Zavi—
+Dialogue: 0,0:10:59.41,0:11:01.58,Default,Fia,0,0,0,,the black dragon knows\N all about the monsters.
+Dialogue: 0,0:11:01.58,0:11:03.86,Default,Fia,0,0,0,,The black dragon told me \Nabout the monsters
+Dialogue: 0,0:11:03.86,0:11:06.47,Default,Fia,0,0,0,,we encountered and \Nhow many of them there were.
+Dialogue: 0,0:11:06.47,0:11:11.46,Default,Fia,0,0,0,,As for the familiars, the black \Ndragon helped by using a special taunt.
+Dialogue: 0,0:11:12.41,0:11:15.98,Default,Zackary,0,0,0,,If that's your answer, \NI'll accept it as such.
+Dialogue: 0,0:11:15.98,0:11:19.40,italics,Fia (M),0,0,0,,Huh? That sounded a bit skeptical.
+Dialogue: 0,0:11:19.40,0:11:24.42,italics,Fia (M),0,0,0,,It's the truth, though, \Nsetting aside the fact that I'm a saint.
+Dialogue: 0,0:11:24.72,0:11:30.00,italics,Fia (M),0,0,0,,Or is this my moment \Nto confess to being a saint?
+Dialogue: 0,0:11:31.70,0:11:33.19,Default,Fia,0,0,0,,Captain Zackary...
+Dialogue: 0,0:11:34.38,0:11:35.50,Default,Quentin,0,0,0,,Huh?!
+Dialogue: 0,0:11:35.50,0:11:36.70,Default,Zackary,0,0,0,,Fia!
+Dialogue: 0,0:11:39.84,0:11:43.92,italics,Fia (M),0,0,0,,It's hopeless... He's too strong.
+Dialogue: 0,0:11:44.18,0:11:46.32,italics,Fia (M),0,0,0,,Captain Zackary is strong.
+Dialogue: 0,0:11:46.32,0:11:48.19,italics,Fia (M),0,0,0,,So is Captain Quentin.
+Dialogue: 0,0:11:48.54,0:11:55.44,italics,Fia (M),0,0,0,,Zavilia, Grand Master Saviz, \NCaptain Cyril... They're all strong.
+Dialogue: 0,0:11:55.90,0:12:00.29,italics,Fia (M),0,0,0,,But they're no match for \Nthe Demon Lord's right-hand man.
+Dialogue: 0,0:12:00.83,0:12:06.73,italics,Fia (M),0,0,0,,The moment he knows I'm a saint, \Nhe'll come to kill me.
+Dialogue: 0,0:12:07.45,0:12:10.99,italics,Fia (M),0,0,0,,And if the captains try to protect me...
+Dialogue: 0,0:12:17.14,0:12:19.99,italics,Fia (M),0,0,0,,They promised to protect \Nmy secret, and yet,
+Dialogue: 0,0:12:19.99,0:12:22.55,italics,Fia (M),0,0,0,,I've done nothing \Nto show my appreciation.
+Dialogue: 0,0:12:23.02,0:12:25.19,italics,Fia (M),0,0,0,,This is so painful.
+Dialogue: 0,0:12:26.93,0:12:27.98,Default,Zackary,0,0,0,,Fia...
+Dialogue: 0,0:12:29.72,0:12:32.98,Default,Zackary,0,0,0,,Can you hear my heart beating?
+Dialogue: 0,0:12:34.78,0:12:36.24,Default,Zackary,0,0,0,,Good girl.
+Dialogue: 0,0:12:36.24,0:12:39.15,Default,Zackary,0,0,0,,Match your heartbeat to mine.
+Dialogue: 0,0:12:40.54,0:12:42.73,Default,Zackary,0,0,0,,Breathe out more slowly.
+Dialogue: 0,0:12:43.86,0:12:46.16,Default,Zackary,0,0,0,,That's it, you're doing great.
+Dialogue: 0,0:12:47.21,0:12:48.68,italics,Fia (M),0,0,0,,I'm sorry.
+Dialogue: 0,0:12:49.02,0:12:54.04,italics,Fia (M),0,0,0,,I would make the same choice \Na hundred times.
+Dialogue: 0,0:12:54.28,0:12:59.18,italics,Fia (M),0,0,0,,I will never reveal that I'm a saint.
+Dialogue: 0,0:13:05.08,0:13:07.29,Default,Zackary,0,0,0,,Sorry, Fia.
+Dialogue: 0,0:13:07.80,0:13:11.31,Default,Zackary,0,0,0,,I put you through too much. \NLet's leave it there.
+Dialogue: 0,0:13:11.31,0:13:15.55,Default,Zackary,0,0,0,,I still need to report to Grand Master \NSaviz about what happened, though.
+Dialogue: 0,0:13:15.90,0:13:18.31,Default,Zackary,0,0,0,,I'll be careful about what I tell him.
+Dialogue: 0,0:13:18.52,0:13:20.46,Default,Zackary,0,0,0,,You have nothing to worry about.
+Dialogue: 0,0:13:23.56,0:13:26.15,Default,Zackary,0,0,0,,The black dragon appears \Nto have returned to its roost
+Dialogue: 0,0:13:26.15,0:13:28.55,Default,Zackary,0,0,0,,after we threw the rock \Nfrom Blackpeak Mountain.
+Dialogue: 0,0:13:28.55,0:13:30.87,Default,Zackary,0,0,0,,I will follow up with more details later.
+Dialogue: 0,0:13:30.87,0:13:32.48,Default,Saviz,0,0,0,,Well done.
+Dialogue: 0,0:13:32.48,0:13:35.37,Default,Saviz,0,0,0,,Please continue your \Ninvestigation thoroughly.
+Dialogue: 0,0:13:35.37,0:13:36.24,Default,Zackary; Quentin,0,0,0,,Sir.
+Dialogue: 0,0:13:37.31,0:13:41.64,Default,Quentin,0,0,0,,I believe it's safe to assume \Nthat the Black Dragon King's horn
+Dialogue: 0,0:13:41.64,0:13:44.63,Default,Quentin,0,0,0,,is a token of its friendly intentions.
+Dialogue: 0,0:13:44.63,0:13:47.73,Default,Quentin,0,0,0,,Perhaps we have permission \Nto inform others that the Black
+Dialogue: 0,0:13:47.73,0:13:51.19,Default,Quentin,0,0,0,,Dragon King is Lady Fia's familiar, \Non a need-to-know basis.
+Dialogue: 0,0:13:51.19,0:13:52.26,Default,Zackary,0,0,0,,Yeah.
+Dialogue: 0,0:13:52.26,0:13:57.98,Default,Zackary,0,0,0,,Cyril and Desmond, who need to be \Nin the know, can assume all the risk.
+Dialogue: 0,0:13:59.78,0:14:03.48,Default,Zackary,0,0,0,,So there you have it. It turns out \Nthat Fia's familiar is a black dragon.
+Dialogue: 0,0:14:03.48,0:14:04.44,Default,Cyril,0,0,0,,Sorry?
+Dialogue: 0,0:14:04.44,0:14:08.56,Default,Desmond,0,0,0,,Zackary, sorry, but I'm not in the mood \Nfor your jokes right now.
+Dialogue: 0,0:14:08.56,0:14:10.45,Default,Desmond,0,0,0,,Especially not lame ones.
+Dialogue: 0,0:14:10.45,0:14:13.36,Default,Quentin,0,0,0,,Desmond, Zackary is speaking the truth.
+Dialogue: 0,0:14:13.36,0:14:14.24,Default,Desmond,0,0,0,,No way.
+Dialogue: 0,0:14:14.24,0:14:15.96,Default,Desmond,0,0,0,,One needs to be several times stronger
+Dialogue: 0,0:14:15.96,0:14:19.00,Default,Desmond,0,0,0,,than the monster they're taming in order \Nto make them a familiar.
+Dialogue: 0,0:14:19.00,0:14:21.54,Default,Desmond,0,0,0,,You mean to tell me that Fia's \Nstronger than a black dragon?!
+Dialogue: 0,0:14:26.80,0:14:28.76,Default,Quentin,0,0,0,,The Black Dragon King's horn.
+Dialogue: 0,0:14:28.76,0:14:34.44,Default,Quentin,0,0,0,,He bestowed this upon Zackary and I \Nin exchange for our protecting Lady Fia.
+Dialogue: 0,0:14:35.64,0:14:38.68,Default,Zackary,0,0,0,,I don't expect you \Nto believe us immediately.
+Dialogue: 0,0:14:38.68,0:14:41.69,Default,Zackary,0,0,0,,But it's a fact that Fia's \Nfamiliar is a black dragon.
+Dialogue: 0,0:14:41.69,0:14:47.78,Default,Quentin,0,0,0,,Lady Fia has subdued the Black Dragon \NKing by some other means than might.
+Dialogue: 0,0:14:50.53,0:14:54.72,Default,Cyril,0,0,0,,She commands the legendary \Nancient black dragon?
+Dialogue: 0,0:14:54.72,0:14:58.66,Default,Cyril,0,0,0,,Sure, maybe Fia was sent to test me.
+Dialogue: 0,0:14:58.66,0:15:00.40,Default,Desmond,0,0,0,,No, but if that's true, how are we
+Dialogue: 0,0:15:00.40,0:15:02.60,Default,Desmond,0,0,0,,supposed to even talk \Nto her going forward?
+Dialogue: 0,0:15:02.60,0:15:05.66,Default,Desmond,0,0,0,,Wait, so did the black \Ndragon return to its roost?
+Dialogue: 0,0:15:05.66,0:15:07.29,Default,Desmond,0,0,0,,Away from its master?
+Dialogue: 0,0:15:07.29,0:15:12.25,Default,Quentin,0,0,0,,About that. Lady Fia is completely \Nconnected to the Black Dragon King.
+Dialogue: 0,0:15:12.25,0:15:17.40,Default,Zackary,0,0,0,,It seems that, having been subdued \Nabsolutely, he can receive Fia's thoughts.
+Dialogue: 0,0:15:17.40,0:15:22.11,Default,Zackary,0,0,0,,In other words, as soon as the black \Ndragon thinks Fia {\i1}might{\i0} be angry at you,
+Dialogue: 0,0:15:22.76,0:15:26.64,Default,Zackary,0,0,0,,you could be on his hit list.
+Dialogue: 0,0:15:26.64,0:15:29.06,Default,Desmond,0,0,0,,W-Wait, wait, wait.
+Dialogue: 0,0:15:29.06,0:15:31.12,Default,Desmond,0,0,0,,I know I've pledged my life \Nto my work as captain,
+Dialogue: 0,0:15:31.12,0:15:34.52,Default,Desmond,0,0,0,,but I have no intention of being \Nhunted down for the sake of Fia's
+Dialogue: 0,0:15:34.52,0:15:36.79,Default,Desmond,0,0,0,,and some black dragon's \Nlittle friendship!
+Dialogue: 0,0:15:36.79,0:15:40.54,Default,Desmond,0,0,0,,Cyril, you need to keep her in line!
+Dialogue: 0,0:15:40.54,0:15:45.29,Default,Desmond,0,0,0,,Maybe she never talked to you about it \Nfirst because she doesn't trust you!
+Dialogue: 0,0:15:45.29,0:15:46.68,Default,Cyril,0,0,0,,Understood.
+Dialogue: 0,0:15:46.68,0:15:48.66,Default,Cyril,0,0,0,,Going forward, I will strive to become
+Dialogue: 0,0:15:48.66,0:15:50.74,Default,Cyril,0,0,0,,someone worthy \Nof providing her counsel.
+Dialogue: 0,0:15:50.74,0:15:52.43,Default,Desmond,0,0,0,,Good, that's what I—
+Dialogue: 0,0:15:51.73,0:15:55.72,top,Desmond,0,0,0,,So I ask you to carry \Nout your duties as well.
+Dialogue: 0,0:15:55.72,0:15:58.45,Default,Cyril,0,0,0,,Please put your own \Nbody on the line to test
+Dialogue: 0,0:15:58.45,0:16:01.74,Default,Cyril,0,0,0,,the extent of Fia's relationship \Nwith her familiar.
+Dialogue: 0,0:16:01.74,0:16:04.10,Default,Cyril,0,0,0,,Understood, Desmond?
+Dialogue: 0,0:16:04.68,0:16:07.56,Default,Desmond,0,0,0,,A-All right! I'm sorry! \NI was just lashing out!
+Dialogue: 0,0:16:07.56,0:16:08.95,Default,Desmond,0,0,0,,That was childish of me.
+Dialogue: 0,0:16:08.95,0:16:10.83,Default,Gideon,0,0,0,,C-Captain Cyril!
+Dialogue: 0,0:16:12.16,0:16:13.32,Default,Cyril,0,0,0,,What's that?
+Dialogue: 0,0:16:13.32,0:16:15.51,Default,Gideon,0,0,0,,My letter of resignation.
+Dialogue: 0,0:16:15.51,0:16:17.35,Default,Gideon,0,0,0,,I wish to resign from my \Nposition of Vice-Captain
+Dialogue: 0,0:16:17.35,0:16:19.05,Default,Gideon,0,0,0,,of the Fourth Monster \NTamer Knight Brigade!
+Dialogue: 0,0:16:19.05,0:16:20.04,Default,Quentin,0,0,0,,Hold it, Gideon.
+Dialogue: 0,0:16:20.04,0:16:21.56,Default,Quentin,0,0,0,,What are you doing?
+Dialogue: 0,0:16:21.56,0:16:26.00,Default,Gideon,0,0,0,,I-I've treated Lady Fia and the Black \NDragon King with grave impudence.
+Dialogue: 0,0:16:26.00,0:16:29.63,Default,Gideon,0,0,0,,To think that that little blue monster \Nwas the Black Dragon King...
+Dialogue: 0,0:16:29.63,0:16:31.28,Default,Desmond,0,0,0,,I mean, I can't blame you.
+Dialogue: 0,0:16:31.28,0:16:36.64,Default,Cyril,0,0,0,,Indeed, though I did think it was too \Nlong-necked and ugly to be a blue dove.
+Dialogue: 0,0:16:36.64,0:16:40.14,Default,Gideon,0,0,0,,I am not fit to serve as vice-captain.
+Dialogue: 0,0:16:41.48,0:16:43.36,Default,Cyril,0,0,0,,You heard him.
+Dialogue: 0,0:16:43.36,0:16:45.03,Default,Cyril,0,0,0,,What shall we do, Quentin?
+Dialogue: 0,0:16:45.80,0:16:48.47,Default,Quentin,0,0,0,,I get where you're coming from Gideon.
+Dialogue: 0,0:16:48.47,0:16:51.15,Default,Quentin,0,0,0,,Resigning might not even \Nbe inappropriate for now.
+Dialogue: 0,0:16:51.40,0:16:52.77,Default,Cyril,0,0,0,,Quentin?
+Dialogue: 0,0:16:52.77,0:16:54.35,Default,Quentin,0,0,0,,I'm equally guilty.
+Dialogue: 0,0:16:54.35,0:16:58.04,Default,Quentin,0,0,0,,I'm considering resigning from my post \Nand demoting to vice-captain.
+Dialogue: 0,0:16:58.04,0:16:59.51,Default,Desmond,0,0,0,,That's nonsense!
+Dialogue: 0,0:16:59.51,0:17:02.79,Default,Desmond,0,0,0,,No one will be left to take \Nthe position of captain!
+Dialogue: 0,0:17:02.79,0:17:07.67,Default,Quentin,0,0,0,,I nominate Lady Fia for Captain of \Nthe Fourth Monster Tamer Knight Brigade.
+Dialogue: 0,0:17:09.92,0:17:12.44,Default,Quentin,0,0,0,,Not only is Lady Fia's familiar \N the Black Dragon King,
+Dialogue: 0,0:17:12.44,0:17:15.26,Default,Quentin,0,0,0,,she's able to command \Nother familiars as well.
+Dialogue: 0,0:17:15.26,0:17:17.31,Default,Quentin,0,0,0,,She's far more capable than I.
+Dialogue: 0,0:17:17.31,0:17:20.93,Default,Zackary,0,0,0,,Wait, Quentin, \Nshe's incredibly unqualified.
+Dialogue: 0,0:17:20.93,0:17:24.18,Default,Quentin,0,0,0,,Which is why I intend to dedicate myself \Nto supporting her as the vice-captain,
+Dialogue: 0,0:17:24.18,0:17:25.24,Default,Quentin,0,0,0,,Cyril.
+Dialogue: 0,0:17:25.24,0:17:29.29,Default,Quentin,0,0,0,,Have this added to the agenda \Nfor the next meeting.
+Dialogue: 0,0:17:29.81,0:17:31.27,top,Gideon,0,0,0,,No, {\i1}I'm{\i0} quitting!
+Dialogue: 0,0:17:31.27,0:17:33.14,top,Quentin,0,0,0,,No, {\i1}I{\i0} am!
+Dialogue: 0,0:17:33.14,0:17:34.56,top,Gideon,0,0,0,,No, me!
+Dialogue: 0,0:17:29.82,0:17:31.69,Default,Zackary,0,0,0,,Wait, guys, chill out for a second.
+Dialogue: 0,0:17:32.06,0:17:36.08,Default,Cyril,0,0,0,,Shred this form.
+Dialogue: 0,0:17:36.08,0:17:37.20,Default,Cyril,0,0,0,,Gale.
+Dialogue: 0,0:17:40.40,0:17:43.12,Default,Cyril,0,0,0,,Now, where were we?
+Dialogue: 0,0:17:43.12,0:17:48.76,Default,Cyril,0,0,0,,Right, Quentin and Gideon were talking \Nabout training even harder.
+Dialogue: 0,0:17:48.76,0:17:50.84,Default,Cyril,0,0,0,,I commend your enthusiasm.
+Dialogue: 0,0:17:51.45,0:17:55.25,Default,Desmond,0,0,0,,Cyril, I thought you weren't going to \Nuse magic outside of combat.
+Dialogue: 0,0:17:55.25,0:17:59.43,Default,Desmond,0,0,0,,Of course. What evidence \Ndo you have that I did?
+Dialogue: 0,0:17:59.43,0:18:01.58,Default,Desmond,0,0,0,,I mean, you just used wind magic to...
+Dialogue: 0,0:18:04.36,0:18:05.87,Default,Desmond,0,0,0,,Forget it, Quentin.
+Dialogue: 0,0:18:05.87,0:18:07.82,Default,Desmond,0,0,0,,Nothing's going to change \Nhis mind at this point.
+Dialogue: 0,0:18:07.82,0:18:09.14,Default,Quentin,0,0,0,,But...
+Dialogue: 0,0:18:09.14,0:18:12.56,Default,Desmond,0,0,0,,Whatever. Let's forget \Neverything and drink!
+Dialogue: 0,0:18:12.56,0:18:15.64,Default,Desmond,0,0,0,,We're having blue dragon meat \Nfor dinner tonight!
+Dialogue: 0,0:18:43.13,0:18:45.64,Default,Cyril,0,0,0,,Have you had too much to drink, Fia?
+Dialogue: 0,0:18:46.52,0:18:48.02,Default,Cyril,0,0,0,,Careful not to get too drunk.
+Dialogue: 0,0:18:48.02,0:18:49.56,Default,Cyril,0,0,0,,You'll get sick.
+Dialogue: 0,0:18:49.56,0:18:51.05,Default,Fia,0,0,0,,Captain Cyril.
+Dialogue: 0,0:18:51.05,0:18:52.83,Default,Cyril,0,0,0,,May I take a seat?
+Dialogue: 0,0:18:52.83,0:18:54.52,Default,Fia,0,0,0,,S-Sure.
+Dialogue: 0,0:18:55.80,0:18:57.42,Default,Cyril,0,0,0,,Sit, Fia.
+Dialogue: 0,0:18:57.42,0:18:58.34,Default,Fia,0,0,0,,Okay.
+Dialogue: 0,0:19:04.28,0:19:05.76,Default,Fia,0,0,0,,Captain...
+Dialogue: 0,0:19:06.55,0:19:10.12,Default,Fia,0,0,0,,Have you ever been separated \Nfrom a dear friend?
+Dialogue: 0,0:19:10.12,0:19:12.71,Default,Cyril,0,0,0,,A friend?
+Dialogue: 0,0:19:12.71,0:19:16.67,Default,Fia,0,0,0,,I have a strong, adorable friend.
+Dialogue: 0,0:19:16.67,0:19:20.68,Default,Fia,0,0,0,,He left today, saying \Nhe wants to become king.
+Dialogue: 0,0:19:22.36,0:19:27.43,Default,Cyril,0,0,0,,Well, then, Fia, how about you \Nbecome friends with me instead?
+Dialogue: 0,0:19:27.60,0:19:30.44,Default,Fia,0,0,0,,Friends with you, Captain Cyril?
+Dialogue: 0,0:19:30.44,0:19:31.32,Default,Cyril,0,0,0,,Yes.
+Dialogue: 0,0:19:31.32,0:19:32.68,Default,Fia,0,0,0,,Well, then...
+Dialogue: 0,0:19:32.68,0:19:36.36,Default,Fia,0,0,0,,Will you put up with my silly talking?
+Dialogue: 0,0:19:36.36,0:19:39.56,Default,Fia,0,0,0,,Will you go shopping \Nwith me, laugh, get angry,
+Dialogue: 0,0:19:39.56,0:19:42.28,Default,Fia,0,0,0,,and sometimes sleep on my belly?
+Dialogue: 0,0:19:42.28,0:19:45.87,Default,Cyril,0,0,0,,Some of those demands \Naren't entirely reasonable.
+Dialogue: 0,0:19:45.87,0:19:48.91,Default,Cyril,0,0,0,,Especially that last one \Nabout sleeping on your belly.
+Dialogue: 0,0:19:48.91,0:19:54.46,Default,Cyril,0,0,0,,That would no doubt crush you. \NWe should forego that one.
+Dialogue: 0,0:19:54.46,0:19:56.12,Default,Fia,0,0,0,,You're right.
+Dialogue: 0,0:19:56.12,0:19:59.00,Default,Fia,0,0,0,,No one can do the things he can.
+Dialogue: 0,0:19:59.00,0:20:01.75,Default,Fia,0,0,0,,His seat belongs to him alone.
+Dialogue: 0,0:20:01.75,0:20:03.04,Default,Cyril,0,0,0,,You're right.
+Dialogue: 0,0:20:03.38,0:20:06.94,Default,Cyril,0,0,0,,But maybe your table \Nhas space for more seats.
+Dialogue: 0,0:20:06.94,0:20:10.64,Default,Cyril,0,0,0,,May I ask you to prepare \Nanother one for me?
+Dialogue: 0,0:20:10.64,0:20:11.55,Default,Fia,0,0,0,,Err...
+Dialogue: 0,0:20:11.55,0:20:14.27,Default,Fia,0,0,0,,You're too smart and put-together.
+Dialogue: 0,0:20:14.27,0:20:16.44,Default,Fia,0,0,0,,I don't think we'd be a good match.
+Dialogue: 0,0:20:16.44,0:20:18.73,Default,Cyril,0,0,0,,It's the age of diversity.
+Dialogue: 0,0:20:18.73,0:20:23.28,Default,Cyril,0,0,0,,We'll create nothing new unless we \Ninteract with other kinds of people.
+Dialogue: 0,0:20:25.53,0:20:29.47,Default,Cyril,0,0,0,,It's true that I have all sorts \Nof responsibilities and duties.
+Dialogue: 0,0:20:29.47,0:20:33.44,Default,Cyril,0,0,0,,Still, there are times when I don't \Nhave confidence in my own decisions.
+Dialogue: 0,0:20:33.44,0:20:37.92,Default,Cyril,0,0,0,,I'd appreciate your advice \Nwhen that happens.
+Dialogue: 0,0:20:40.80,0:20:43.59,Default,Fia,0,0,0,,Maybe I'm drunk.
+Dialogue: 0,0:20:43.59,0:20:47.17,Default,Fia,0,0,0,,I'm starting to want to be your friend.
+Dialogue: 0,0:20:47.17,0:20:49.67,Default,Cyril,0,0,0,,I don't quite understand why your wanting
+Dialogue: 0,0:20:49.67,0:20:52.86,Default,Cyril,0,0,0,,to become my friend proves \Nthat you're drunk.
+Dialogue: 0,0:20:52.86,0:20:56.52,Default,Fia,0,0,0,,You want to become {\i1}my{\i0} \Nfriend, Captain Cyril.
+Dialogue: 0,0:20:56.52,0:20:58.13,Default,Fia,0,0,0,,Maybe you're the one who's drunk.
+Dialogue: 0,0:20:58.13,0:20:59.65,Default,Cyril,0,0,0,,Do you think so?
+Dialogue: 0,0:20:59.65,0:21:00.84,Default,Fia,0,0,0,,Captain,
+Dialogue: 0,0:21:00.84,0:21:05.00,Default,Fia,0,0,0,,if you still feel the same \Nway tomorrow when you're sober,
+Dialogue: 0,0:21:05.00,0:21:07.44,Default,Fia,0,0,0,,I'd be honored to be your friend.
+Dialogue: 0,0:21:07.44,0:21:08.86,Default,Cyril,0,0,0,,Is that all right?
+Dialogue: 0,0:21:08.86,0:21:10.33,Default,Cyril,0,0,0,,We have a deal, then.
+Dialogue: 0,0:21:11.54,0:21:15.46,Default,Fia,0,0,0,,I'm starting to feel nice \Nand warm inside.
+Dialogue: 0,0:21:16.41,0:21:20.72,Default,Fia,0,0,0,,Oh, I know how to \Nexpress this this feeling.
+Dialogue: 0,0:21:20.92,0:21:23.23,Default,Fia,0,0,0,,I read it in a book a while back.
+Dialogue: 0,0:21:27.18,0:21:28.72,Default,Fia,0,0,0,,"The moon's so pretty."
+Dialogue: 0,0:21:29.43,0:21:30.76,Default,Fia,0,0,0,,That's the phrase.
+Dialogue: 0,0:21:32.97,0:21:35.26,Default,Cyril,0,0,0,,You ought to be glad.
+Dialogue: 0,0:21:35.26,0:21:38.58,Default,Cyril,0,0,0,,You misunderstand words \Nand use them out of context.
+Dialogue: 0,0:21:38.58,0:21:43.40,Default,Cyril,0,0,0,,There aren't that many people \Nwho can understand you.
+Dialogue: 0,0:21:44.08,0:21:47.56,Default,Cyril,0,0,0,,So, how do you feel right now?
+Dialogue: 0,0:21:47.56,0:21:49.04,Default,Fia,0,0,0,,Let's see...
+Dialogue: 0,0:21:49.72,0:21:53.83,Default,Fia,0,0,0,,The glimmering moonlight \Ngot rid of the bad people.
+Dialogue: 0,0:21:54.71,0:21:57.52,Default,Cyril,0,0,0,,You're always so happy, aren't you?
+Dialogue: 0,0:21:57.52,0:21:59.31,Default,Fia,0,0,0,,Thanks to you, Captain.
+Dialogue: 0,0:21:59.88,0:22:01.89,Default,Cyril,0,0,0,,Thank you very much.
+Dialogue: 0,0:22:01.89,0:22:04.15,Default,Cyril,0,0,0,,The moon is pretty, isn't it?
+Dialogue: 0,0:23:34.97,0:23:40.36,top,Text,0,0,0,,EPISODE 9\NFIA, TO SUTHERLAND
+
