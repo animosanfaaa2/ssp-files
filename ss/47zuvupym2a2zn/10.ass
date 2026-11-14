@@ -1,0 +1,499 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: sign_generic,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: stats,Verdana,20,&H00FDFFDE,&H000000FF,&H00C3D297,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.64,0:00:04.48,italics,Sei,0,0,0,,Po odparciu Mercuriusa,\Njednego z Siedmiu Luminarzy
+Dialogue: 0,0:00:04.93,0:00:07.44,italics,Sei,0,0,0,,i odzyskaniu Eliksiru,\No który nas proszono,
+Dialogue: 0,0:00:07.79,0:00:11.62,italics,Sei,0,0,0,,dostaliśmy nagrodę od kraju\Ni zdobyliśmy sławę.
+Dialogue: 0,0:00:12.77,0:00:15.44,italics,Sei,0,0,0,,Choć prawie nic nie zrobiliśmy…
+Dialogue: 0,0:00:16.36,0:00:17.31,flashback,Lufas,0,0,0,,Sławę?
+Dialogue: 0,0:00:17.77,0:00:20.95,flashback,Lufas,0,0,0,,Nie potrzebujemy jej.\NPodzielcie się nią z Virgo.
+Dialogue: 0,0:00:21.42,0:00:23.81,italics,Sei,0,0,0,,Pozwoliła nam ją przyjąć,
+Dialogue: 0,0:00:23.81,0:00:25.86,italics,Sei,0,0,0,,ale nie czułem się z tym dobrze.
+Dialogue: 0,0:00:26.54,0:00:30.00,italics,Sei,0,0,0,,Wezwano nas też przed cesarza,\Nktóry rządzi tym krajem
+Dialogue: 0,0:00:30.28,0:00:33.88,italics,Sei,0,0,0,,i niemal zmuszono mnie\Ndo ślubu z cesarską księżniczką.
+Dialogue: 0,0:00:33.88,0:00:35.82,italics,Sei,0,0,0,,Było dość niebezpiecznie.
+Dialogue: 0,0:00:40.53,0:00:42.64,Default,Virgo,0,0,0,,Wszystko dobrze, Sei?
+Dialogue: 0,0:00:43.03,0:00:43.74,Default,Sei,0,0,0,,Hm?
+Dialogue: 0,0:00:43.74,0:00:46.36,Default,Sei,0,0,0,,Ach, nic mi nie jest.
+Dialogue: 0,0:00:46.36,0:00:47.35,Default,Gantz,0,0,0,,Dobrze!
+Dialogue: 0,0:00:47.35,0:00:51.60,Default,Gantz,0,0,0,,Teraz wystarczy użyć Eliksiru,\Nby uleczyć smoka strażnika!
+Dialogue: 0,0:00:52.41,0:00:56.11,Default,Petto,0,0,0,,Smok strażnik jest\Ntuż za tym lasem.
+Dialogue: 0,0:00:56.11,0:00:58.08,Default,Petto,0,0,0,,Poprowadzę was!
+Dialogue: 0,0:00:58.08,0:00:59.19,Default,All,0,0,0,,Tak!
+Dialogue: 0,0:02:32.65,0:02:32.68,sign_generic,Sign,0,0,0,,{\shad1\bord0\an2\fnTimes New Roman\b1\4c&H453F67&\c&HC6C9D2&\pos(360,309.667)}ODCINEK 20
+Dialogue: 0,0:02:32.65,0:02:32.68,sign_generic,Sign,0,0,0,,{\fs16\shad1\bord0\an1\fnTimes New Roman\b1\4c&H453F67&\c&HC6C9D2&\pos(438,307)}NADESZŁY „POTWORY”!
+Dialogue: 0,0:02:32.65,0:02:32.68,sign_generic,Sign,0,0,0,,{\shad1\bord0\4c&H564C4E&\c&H11CE1A&\an2\fnTimes New Roman\b1\3c&H0C4108&\pos(360,285.667)}ODCINEK 20
+Dialogue: 0,0:02:32.65,0:02:32.68,sign_generic,Sign,0,0,0,,{\fs16\shad1\bord0\4c&H564C4E&\c&H11CE1A&\an1\fnTimes New Roman\b1\3c&H0C4108&\pos(438,283)}NADESZŁY „POTWORY”!
+Dialogue: 0,0:02:32.68,0:02:32.72,sign_generic,Sign,0,0,0,,{\c&HFEFDFE&\3c&H595C8B&\shad1\bord0\4c&H646F97&\an2\fnTimes New Roman\b1\pos(370,333.8)}ODCINEK 20
+Dialogue: 0,0:02:32.68,0:02:32.72,sign_generic,Sign,0,0,0,,{\fs16\c&HFEFDFE&\3c&H595C8B&\shad1\bord0\4c&H646F97&\an1\fnTimes New Roman\b1\pos(447,330)}NADESZŁY „POTWORY”!
+Dialogue: 0,0:02:32.72,0:02:32.76,sign_generic,Sign,0,0,0,,{\c&HFEFDFE&\3c&H595C8B&\shad1\bord0\4c&H646F97&\an2\fnTimes New Roman\b1\pos(370,321.164)}ODCINEK 20
+Dialogue: 0,0:02:32.72,0:02:32.76,sign_generic,Sign,0,0,0,,{\fs16\c&HFEFDFE&\3c&H595C8B&\shad1\bord0\4c&H646F97&\an1\fnTimes New Roman\b1\pos(444,318)}NADESZŁY „POTWORY”!
+Dialogue: 0,0:02:32.76,0:02:34.50,sign_generic,Sign,0,0,0,,{\an2\c&HFEFDFE&\shad1\bord0\4c&H564C4E&\fnTimes New Roman\b1\pos(363,317.001)}ODCINEK {\t(320,612,\c&H0600A9&)}20
+Dialogue: 0,0:02:32.76,0:02:34.50,sign_generic,Sign,0,0,0,,{\an1\fs16\c&HFEFDFE&\shad1\bord0\4c&H564C4E&\fnTimes New Roman\b1\pos(444,316)\t(320,612,\c&H0600A9&)\c&HFEFDFE&}NADESZŁY „{\t(320,612,\c&H0600A9&)}POT{\c&HFEFDFE&}WORY”!
+Dialogue: 0,0:02:34.50,0:02:34.54,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\fs16\pos(448,314)\c&HFEFDFE&}NADESZŁY „{\c&H0600A9&}POT{\c&HFEFDFE&}WORY”!
+Dialogue: 0,0:02:34.50,0:02:34.54,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\i1\fs16\pos(456,315)\c&HFEFDFE&}NADESZŁY „{\c&H0600A9&}POT{\c&HFEFDFE&}WORY”!
+Dialogue: 0,0:02:34.50,0:02:34.54,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\pos(356,315.467)}ODCINEK {\c&H0600A9&)}20
+Dialogue: 0,0:02:34.50,0:02:34.54,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\i1\pos(360,315.467)}ODCINEK {\c&H0600A9&)}20
+Dialogue: 0,0:02:34.54,0:02:34.58,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\i1\fs16\pos(454,314)\c&HFEFDFE&}NADESZŁY „{\c&H0600A9&}POT{\c&HFEFDFE&}WORY”!
+Dialogue: 0,0:02:34.54,0:02:34.58,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\i1\fs16\pos(452,315)\c&HFEFDFE&}NADESZŁY „{\c&H0600A9&}POT{\c&HFEFDFE&}WORY”!
+Dialogue: 0,0:02:34.54,0:02:34.58,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\i1\pos(371,316.667)}ODCINEK {\c&H0600A9&)}20
+Dialogue: 0,0:02:34.54,0:02:34.58,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\i1\pos(368,316.667)}ODCINEK {\c&H0600A9&)}20
+Dialogue: 0,0:02:34.58,0:02:34.66,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\fs16\pos(465,316)\c&HFEFDFE&}NADESZŁY „{\c&H0600A9&}POT{\c&HFEFDFE&}WORY”!
+Dialogue: 0,0:02:34.58,0:02:34.66,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\i1\fs16\pos(459,315)\c&HFEFDFE&}NADESZŁY „{\c&H0600A9&}POT{\c&HFEFDFE&}WORY”!
+Dialogue: 0,0:02:34.58,0:02:34.66,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\pos(384,317.733)}ODCINEK {\c&H0600A9&)}20
+Dialogue: 0,0:02:34.58,0:02:34.66,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\i1\pos(378,317.733)}ODCINEK {\c&H0600A9&)}20
+Dialogue: 0,0:02:34.66,0:02:34.71,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\fs16\pos(458,315)\c&HFEFDFE&}NADESZŁY „{\c&H0600A9&}POT{\c&HFEFDFE&}WORY”!
+Dialogue: 0,0:02:34.66,0:02:34.71,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\i1\fs16\pos(458,314)\c&HFEFDFE&}NADESZŁY „{\c&H0600A9&}POT{\c&HFEFDFE&}WORY”!
+Dialogue: 0,0:02:34.66,0:02:34.71,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\pos(383,316.8)}ODCINEK {\c&H0600A9&)}20
+Dialogue: 0,0:02:34.66,0:02:34.71,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\i1\pos(382,316.8)}ODCINEK {\c&H0600A9&)}20
+Dialogue: 0,0:02:34.71,0:02:34.75,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\fs16\pos(455,316)\c&HFEFDFE&}NADESZŁY „{\c&H0600A9&}POT{\c&HFEFDFE&}WORY”!
+Dialogue: 0,0:02:34.71,0:02:34.75,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\i1\fs16\pos(458,315)\c&HFEFDFE&}NADESZŁY „{\c&H0600A9&}POT{\c&HFEFDFE&}WORY”!
+Dialogue: 0,0:02:34.71,0:02:34.75,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\pos(384,316.933)}ODCINEK {\c&H0600A9&)}20
+Dialogue: 0,0:02:34.71,0:02:34.75,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\i1\pos(385,316.933)}ODCINEK {\c&H0600A9&)}20
+Dialogue: 0,0:02:34.75,0:02:35.50,sign_generic,Sign,0,0,0,,{\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\fs16\pos(443,315)\c&HFEFDFE&}NADESZŁY „{\c&H0600A9&}POT{\c&HFEFDFE&}WORY”!
+Dialogue: 0,0:02:34.75,0:02:35.50,sign_generic,Sign,0,0,0,,{\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\pos(366,315.467)}ODCINEK {\c&H0600A9&)}20
+Dialogue: 0,0:02:35.50,0:02:35.54,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\fs16\pos(464,315)\c&HFEFDFE&}NADESZŁY „{\c&H0600A9&}POT{\c&HFEFDFE&}WORY”!
+Dialogue: 0,0:02:35.50,0:02:35.54,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\i1\fs16\pos(464,314)\c&HFEFDFE&}NADESZŁY „{\c&H0600A9&}POT{\c&HFEFDFE&}WORY”!
+Dialogue: 0,0:02:35.50,0:02:35.54,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\i1\pos(385,317.6)}ODCINEK {\c&H0600A9&)}20
+Dialogue: 0,0:02:35.50,0:02:35.54,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\pos(385,317.6)}ODCINEK {\c&H0600A9&)}20
+Dialogue: 0,0:02:35.54,0:02:35.58,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\fs16\pos(455,314)\c&HFEFDFE&}NADESZŁY „{\c&H0600A9&}POT{\c&HFEFDFE&}WORY”!
+Dialogue: 0,0:02:35.54,0:02:35.58,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\i1\fs16\pos(451,315)\c&HFEFDFE&}NADESZŁY „{\c&H0600A9&}POT{\c&HFEFDFE&}WORY”!
+Dialogue: 0,0:02:35.54,0:02:35.58,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\pos(380,316)}ODCINEK {\c&H0600A9&)}20
+Dialogue: 0,0:02:35.54,0:02:35.58,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\i1\pos(376,316)}ODCINEK {\c&H0600A9&)}20
+Dialogue: 0,0:02:35.58,0:02:35.66,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\i1\fs16\pos(452,315)\c&HFEFDFE&}NADESZŁY „{\c&H0600A9&}POT{\c&HFEFDFE&}WORY”!
+Dialogue: 0,0:02:35.58,0:02:35.66,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\fs16\pos(450,314)\c&HFEFDFE&}NADESZŁY „{\c&H0600A9&}POT{\c&HFEFDFE&}WORY”!
+Dialogue: 0,0:02:35.58,0:02:35.66,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\i1\pos(372,318.267)}ODCINEK {\c&H0600A9&)}20
+Dialogue: 0,0:02:35.58,0:02:35.66,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\pos(370,318.267)}ODCINEK {\c&H0600A9&)}20
+Dialogue: 0,0:02:35.66,0:02:35.71,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\fs16\pos(458,316)\c&HFEFDFE&}NADESZŁY „{\c&H0600A9&}POT{\c&HFEFDFE&}WORY”!
+Dialogue: 0,0:02:35.66,0:02:35.71,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\i1\fs16\pos(458,315)\c&HFEFDFE&}NADESZŁY „{\c&H0600A9&}POT{\c&HFEFDFE&}WORY”!
+Dialogue: 0,0:02:35.66,0:02:35.71,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\pos(379,318.533)}ODCINEK {\c&H0600A9&)}20
+Dialogue: 0,0:02:35.66,0:02:35.71,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\i1\pos(379,318.533)}ODCINEK {\c&H0600A9&)}20
+Dialogue: 0,0:02:35.71,0:02:35.75,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\i1\fs16\pos(460,315)\c&HFEFDFE&}NADESZŁY „{\c&H0600A9&}POT{\c&HFEFDFE&}WORY”!
+Dialogue: 0,0:02:35.71,0:02:35.75,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\fs16\pos(461,314)\c&HFEFDFE&}NADESZŁY „{\c&H0600A9&}POT{\c&HFEFDFE&}WORY”!
+Dialogue: 0,0:02:35.71,0:02:35.75,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\i1\pos(385,316.666)}ODCINEK {\c&H0600A9&)}20
+Dialogue: 0,0:02:35.71,0:02:35.75,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\pos(386,316.666)}ODCINEK {\c&H0600A9&)}20
+Dialogue: 0,0:02:35.75,0:02:37.51,sign_generic,Sign,0,0,0,,{\fad(0,538)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\fs16\pos(444,315)\c&HFEFDFE&}NADESZŁY „{\c&H0600A9&}POT{\c&HFEFDFE&}WORY”!
+Dialogue: 0,0:02:35.75,0:02:37.51,sign_generic,Sign,0,0,0,,{\fad(0,538)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\pos(365,316.667)}ODCINEK {\c&H0600A9&)}20
+Dialogue: 0,0:02:48.17,0:02:48.97,Default,Sei,0,0,0,,Pani Virgo.
+Dialogue: 0,0:02:48.97,0:02:50.35,Default,Virgo,0,0,0,,Hm? O co chodzi?
+Dialogue: 0,0:02:50.81,0:02:52.46,Default,Sei,0,0,0,,Lubi pani lasy?
+Dialogue: 0,0:02:53.86,0:02:55.88,Default,Virgo,0,0,0,,Mów mi po prostu Virgo.
+Dialogue: 0,0:02:55.88,0:02:57.98,Default,Virgo,0,0,0,,Krępuje mnie, gdy jesteś\Ntaki uprzejmy.
+Dialogue: 0,0:02:57.98,0:02:59.66,Default,Sei,0,0,0,,Dobrze!
+Dialogue: 0,0:03:00.53,0:03:05.09,Default,Virgo,0,0,0,,Odkąd pamiętam,\Nmieszkałam w lesie.
+Dialogue: 0,0:03:05.44,0:03:08.58,Default,Virgo,0,0,0,,Dlatego las mnie uspokaja.
+Dialogue: 0,0:03:09.62,0:03:11.76,Default,Kross,0,0,0,,To nietypowe.
+Dialogue: 0,0:03:11.76,0:03:12.48,Default,Sei,0,0,0,,Hm?
+Dialogue: 0,0:03:12.48,0:03:13.58,Default,Kross,0,0,0,,Niebioskrzydli zwykle
+Dialogue: 0,0:03:13.84,0:03:17.14,Default,Kross,0,0,0,,nie przepadają za lasami,\Nbo jest w nich dużo many.
+Dialogue: 0,0:03:17.95,0:03:20.14,Default,Virgo,0,0,0,,Mnie to nie przeszkadza.
+Dialogue: 0,0:03:20.14,0:03:22.96,Default,Virgo,0,0,0,,Słyszałam jednak,\Nże zwykli niebioskrzydli
+Dialogue: 0,0:03:22.96,0:03:25.60,Default,Virgo,0,0,0,,żyją na szczytach gór,\Ngdzie mana się nie gromadzi.
+Dialogue: 0,0:03:25.60,0:03:26.34,Default,Kross,0,0,0,,Hm…
+Dialogue: 0,0:03:26.77,0:03:27.92,Default,Kross,0,0,0,,W takim razie
+Dialogue: 0,0:03:27.92,0:03:30.71,Default,Kross,0,0,0,,może to wpływ twoich rodziców.
+Dialogue: 0,0:03:31.08,0:03:33.69,Default,Kross,0,0,0,,Gdy rodzice wchłoną dużo many,
+Dialogue: 0,0:03:33.69,0:03:35.28,Default,Kross,0,0,0,,czasem rodzi się niebioskrzydły,
+Dialogue: 0,0:03:35.28,0:03:37.94,Default,Kross,0,0,0,,któremu mana nie przeszkadza.
+Dialogue: 0,0:03:38.32,0:03:40.90,Default,Kross,0,0,0,,Na przykład Lufas Maphaahl.
+Dialogue: 0,0:03:43.00,0:03:45.95,Default,Kross,0,0,0,,Są zapisy, według których\Nweszła nawet do Helheimu
+Dialogue: 0,0:03:46.38,0:03:50.03,Default,Kross,0,0,0,,pełnego gęstej many\Ni nawet się nie skrzywiła.
+Dialogue: 0,0:03:51.41,0:03:54.42,Default,Sei,0,0,0,,Ale Virgo ma śnieżnobiałe skrzydła?
+Dialogue: 0,0:03:54.42,0:03:55.13,Default,Kross,0,0,0,,Tak.
+Dialogue: 0,0:03:55.41,0:03:57.05,Default,Kross,0,0,0,,Zmiany wywołane przez manę
+Dialogue: 0,0:03:57.05,0:04:00.35,Default,Kross,0,0,0,,nie zawsze widać na zewnątrz.
+Dialogue: 0,0:04:00.35,0:04:02.65,Default,Kross,0,0,0,,Podobno oboje rodzice Lufas
+Dialogue: 0,0:04:02.65,0:04:04.98,Default,Kross,0,0,0,,również mieli białe skrzydła.
+Dialogue: 0,0:04:06.13,0:04:08.08,Default,Sei,0,0,0,,Czyli, w przeciwieństwie do Lufas,
+Dialogue: 0,0:04:08.08,0:04:10.88,Default,Sei,0,0,0,,u Virgo nie zmienił się wygląd
+Dialogue: 0,0:04:10.88,0:04:13.52,Default,Sei,0,0,0,,i zachowała śnieżnobiałe skrzydła?
+Dialogue: 0,0:04:13.84,0:04:15.84,Default,Kross,0,0,0,,To jedna z możliwości.
+Dialogue: 0,0:04:17.74,0:04:19.18,italics,Sei,0,0,0,,Jeśli tak,
+Dialogue: 0,0:04:19.18,0:04:23.15,italics,Sei,0,0,0,,rodzice Virgo musieli\Nwchłonąć mnóstwo many.
+Dialogue: 0,0:04:23.38,0:04:26.08,italics,Sei,0,0,0,,Virgo jest wnuczką jednej\Nz Dwunastu Gwiazd, prawda?
+Dialogue: 0,0:04:26.08,0:04:29.54,italics,Sei,0,0,0,,Ale mówiła też, że\Nprzygarnęła ją Parthenos.
+Dialogue: 0,0:04:30.73,0:04:33.21,italics,Sei,0,0,0,,Czyli kim byli jej rodzice?
+Dialogue: 0,0:04:34.19,0:04:36.00,Default,Sei,0,0,0,,Hm…
+Dialogue: 0,0:04:36.46,0:04:37.66,Default,Petto,0,0,0,,Już niedaleko!
+Dialogue: 0,0:04:37.66,0:04:39.42,Default,Petto,0,0,0,,Smok strażnik jest tam!
+Dialogue: 0,0:04:39.82,0:04:40.71,Default,All,0,0,0,,Tak!
+Dialogue: 0,0:04:52.60,0:04:55.45,Default,Petto,0,0,0,,S-smok strażnik?
+Dialogue: 0,0:04:57.26,0:04:58.96,Default,Petto,0,0,0,,Jak to możliwe?
+Dialogue: 0,0:04:59.85,0:05:01.75,Default,Petto,0,0,0,,K-kto…
+Dialogue: 0,0:05:01.75,0:05:03.99,Default,Petto,0,0,0,,Kto mógł to zrobić?
+Dialogue: 0,0:05:03.99,0:05:05.05,Default,Lamia,0,0,0,,Hm?
+Dialogue: 0,0:05:05.05,0:05:08.45,Default,Lamia,0,0,0,,Rzadko ktoś odwiedza ten las.
+Dialogue: 0,0:05:11.17,0:05:15.12,Default,Merman,0,0,0,,Wygląda na to, że przyszliście\Nuleczyć smoka strażnika.
+Dialogue: 0,0:05:15.12,0:05:17.46,Default,Merman,0,0,0,,Ale teraz to już bez sensu!
+Dialogue: 0,0:05:18.04,0:05:19.63,Default,Petto,0,0,0,,Przeklęte potwory!
+Dialogue: 0,0:05:19.63,0:05:21.50,Default,Petto,0,0,0,,Odejdźcie od smoka strażnika!
+Dialogue: 0,0:05:22.65,0:05:23.46,Default,Sei,0,0,0,,„Potwory”?
+Dialogue: 0,0:05:23.92,0:05:25.09,Default,Sei,0,0,0,,Ci ludzie?
+Dialogue: 0,0:05:25.85,0:05:26.73,Default,Sargess,0,0,0,,Hm…
+Dialogue: 0,0:05:26.73,0:05:28.06,Default,Sargess,0,0,0,,Potwory, co?
+Dialogue: 0,0:05:28.06,0:05:29.37,Default,Sargess,0,0,0,,Można tak powiedzieć.
+Dialogue: 0,0:05:29.37,0:05:32.09,Default,Sargess,0,0,0,,W obecnym świecie jesteśmy potworami.
+Dialogue: 0,0:05:32.09,0:05:34.89,Default,Sargess,0,0,0,,Tak określają nas inni.
+Dialogue: 0,0:05:34.89,0:05:35.53,Default,Lamia,0,0,0,,Tsk!
+Dialogue: 0,0:05:35.53,0:05:40.61,Default,Sargess,0,0,0,,Ale czym właściwie\Nróżnimy się od was?
+Dialogue: 0,0:05:41.36,0:05:44.95,Default,Sargess,0,0,0,,Potrafimy rozmawiać.
+Dialogue: 0,0:05:44.95,0:05:47.95,Default,Sargess,0,0,0,,Możemy się porozumieć\Ni zbliżyć do siebie.
+Dialogue: 0,0:05:47.95,0:05:51.53,Default,Sargess,0,0,0,,Poza wyglądem niczym się nie różnimy.
+Dialogue: 0,0:05:52.47,0:05:54.04,italics,Sei,0,0,0,,Ci ludzie…
+Dialogue: 0,0:05:54.04,0:05:55.87,Default,Petto,0,0,0,,Sss!
+Dialogue: 0,0:05:55.87,0:05:57.32,Default,Petto,0,0,0,,Milczeć, potwory!
+Dialogue: 0,0:05:57.32,0:05:59.72,Default,Petto,0,0,0,,Żartujecie, mówiąc,\Nże możemy żyć w zgodzie
+Dialogue: 0,0:05:59.72,0:06:01.59,Default,Petto,0,0,0,,po zranieniu smoka strażnika!
+Dialogue: 0,0:06:05.38,0:06:07.06,Default,Lamia,0,0,0,,Przestań, Sarge.
+Dialogue: 0,0:06:07.40,0:06:11.85,Default,Lamia,0,0,0,,Postanowiliśmy działać, bo od wieków\Nignorują takie argumenty.
+Dialogue: 0,0:06:11.85,0:06:15.01,Default,Lamia,0,0,0,,Teraz tylko lord Leon\Nmoże nas uratować!
+Dialogue: 0,0:06:15.01,0:06:17.53,Default,Lamia,0,0,0,,Nie możemy już liczyć na ludzi!
+Dialogue: 0,0:06:18.06,0:06:19.12,Default,Kross,0,0,0,,Niemożliwe!
+Dialogue: 0,0:06:19.43,0:06:21.37,Default,Sei,0,0,0,,Kross, kim jest Leon?
+Dialogue: 0,0:06:21.86,0:06:24.78,Default,Kross,0,0,0,,Leon Lew z Dwunastu Niebiańskich Gwiazd.
+Dialogue: 0,0:06:25.45,0:06:28.74,Default,Kross,0,0,0,,Zanim Lufas Maphaahl\Ndoszła do władzy,
+Dialogue: 0,0:06:28.74,0:06:31.22,Default,Kross,0,0,0,,był w czwórce najsilniejszych\Ni strzegł równowagi!
+Dialogue: 0,0:06:31.22,0:06:33.05,Default,Kross,0,0,0,,Jest najsilniejszy\Nz Dwunastu Gwiazd,
+Dialogue: 0,0:06:33.05,0:06:36.00,Default,Kross,0,0,0,,to Król Lwów,\Nwładca wszystkich potworów!
+Dialogue: 0,0:06:36.98,0:06:39.76,Default,Dryad,0,0,0,,Lord Leon opuścił już\NDwanaście Niebiańskich Gwiazd
+Dialogue: 0,0:06:39.76,0:06:41.98,Default,Dryad,0,0,0,,i wrócił na poziom 1000!
+Dialogue: 0,0:06:41.98,0:06:44.06,Default,Dryad,0,0,0,,Gdyby lord Leon walczył na serio,
+Dialogue: 0,0:06:44.06,0:06:46.18,Default,Dryad,0,0,0,,rozgromiłby ludzi i demony,
+Dialogue: 0,0:06:46.18,0:06:48.42,Default,Dryad,0,0,0,,otwierając dla nas nową epokę!
+Dialogue: 0,0:06:50.88,0:06:54.60,Default,Sargess,0,0,0,,To my chcemy\Nzmienić ten świat!
+Dialogue: 0,0:06:54.60,0:06:58.68,Default,Merman,0,0,0,,Przyszliśmy zabić smoka strażnika\Nna znak wypowiedzenia wojny!
+Dialogue: 0,0:06:58.68,0:06:59.52,Default,Lamia,0,0,0,,Hej!
+Dialogue: 0,0:06:59.52,0:07:01.78,Default,Lamia,0,0,0,,Nie wygaduj rzeczy,\Nktórych nie powinieneś!
+Dialogue: 0,0:07:01.78,0:07:03.48,Default,Dryad,0,0,0,,Spokojnie!
+Dialogue: 0,0:07:03.48,0:07:05.69,Default,Dryad,0,0,0,,Wystarczy ich uciszyć
+Dialogue: 0,0:07:06.33,0:07:07.65,Default,Dryad,0,0,0,,tu i teraz!
+Dialogue: 0,0:07:08.24,0:07:09.48,Default,Petto,0,0,0,,Miau!
+Dialogue: 0,0:07:21.50,0:07:23.38,Default,Dryad,0,0,0,,Tak jak mówił lord Leon,
+Dialogue: 0,0:07:23.38,0:07:26.17,Default,Dryad,0,0,0,,z dzisiejszą ludzkością koniec!
+Dialogue: 0,0:07:26.17,0:07:28.32,italics,Sei,0,0,0,,K-koniec?
+Dialogue: 0,0:07:28.32,0:07:30.67,italics,Sei,0,0,0,,To najlepszy wojownik\Nludzkości, Święty Miecza!
+Dialogue: 0,0:07:31.07,0:07:33.39,italics,Sei,0,0,0,,A oni radzą sobie z nim tak łatwo?
+Dialogue: 0,0:07:31.32,0:07:33.39,stats,Sign,0,0,0,,{\fs9\c&HFCFDFF&\fad(90,0)\t(90,257,\c&HFCFFDF&)\4c&HFAFE7F&\t(90,257,\4c&HB9C45F&)\3c&HFAFE7F&\t(90,257,\3c&HB9C45F&)\bord1.5\shad\pos(129.286,275.429)}Owadoludzie
+Dialogue: 0,0:07:31.32,0:07:33.39,stats,Sign,0,0,0,,{\fs12\c&HFCFDFF&\fad(90,0)\t(90,257,\c&HFCFFDF&)\4c&HFAFE7F&\t(90,257,\4c&HB9C45F&)\3c&HFAFE7F&\t(90,257,\3c&HB9C45F&)\bord1.5\shad\pos(115.571,307.571)}Sargess
+Dialogue: 0,0:07:31.32,0:07:33.39,stats,Sign,0,0,0,,{\fs9\c&HFCFDFF&\fad(90,0)\t(90,257,\c&HFCFFDF&)\4c&HFAFE7F&\t(90,257,\4c&HB9C45F&)\3c&HFAFE7F&\t(90,257,\3c&HB9C45F&)\bord1.5\shad\pos(489.286,61.714)}Roślinoludzie
+Dialogue: 0,0:07:31.32,0:07:33.39,stats,Sign,0,0,0,,{\fs12\c&HFCFDFF&\fad(90,0)\t(90,257,\c&HFCFFDF&)\4c&HFAFE7F&\t(90,257,\4c&HB9C45F&)\3c&HFAFE7F&\t(90,257,\3c&HB9C45F&)\bord1.5\shad\pos(461.857,93.857)}Dryad
+Dialogue: 0,0:07:33.39,0:07:35.85,Default,Gantz,0,0,0,,Nie oszczędzajcie się!
+Dialogue: 0,0:07:37.24,0:07:38.06,stats,Sign,0,0,0,,{\fs9\c&HFCFDFF&\fad(90,0)\t(90,257,\c&HFCFFDF&)\4c&HFAFE7F&\t(90,257,\4c&HB9C45F&)\3c&HFAFE7F&\t(90,257,\3c&HB9C45F&)\bord1.5\shad\pos(481.285,293.714)}Ryboludzie
+Dialogue: 0,0:07:37.24,0:07:38.06,stats,Sign,0,0,0,,{\fs12\c&HFCFDFF&\fad(90,0)\t(90,257,\c&HFCFFDF&)\4c&HFAFE7F&\t(90,257,\4c&HB9C45F&)\3c&HFAFE7F&\t(90,257,\3c&HB9C45F&)\bord1.5\shad\pos(466.429,326.857)}Merman
+Dialogue: 0,0:07:46.71,0:07:48.53,stats,Sign,0,0,0,,{\fs9\c&HFCFDFF&\fad(90,0)\t(90,257,\c&HFCFFDF&)\4c&HFAFE7F&\t(90,257,\4c&HB9C45F&)\3c&HFAFE7F&\t(90,257,\3c&HB9C45F&)\bord1.5\shad\pos(160.714,70.286)}Wężoludzie
+Dialogue: 0,0:07:46.71,0:07:48.53,stats,Sign,0,0,0,,{\fs12\c&HFCFDFF&\fad(90,0)\t(90,257,\c&HFCFFDF&)\4c&HFAFE7F&\t(90,257,\4c&HB9C45F&)\3c&HFAFE7F&\t(90,257,\3c&HB9C45F&)\bord1.5\shad\pos(132.714,106.286)}Lamia
+Dialogue: 0,0:08:08.92,0:08:11.38,Default,Gantz,0,0,0,,Pomóż im, nie nam!
+Dialogue: 0,0:08:11.38,0:08:14.09,Default,Virgo,0,0,0,,Wasze rany też są poważne!
+Dialogue: 0,0:08:14.09,0:08:14.89,Default,Virgo,0,0,0,,Muszę leczyć!
+Dialogue: 0,0:08:20.98,0:08:23.56,Default,Dryad,0,0,0,,Nieźle.
+Dialogue: 0,0:08:25.27,0:08:27.92,Default,Lamia,0,0,0,,Ta dziewczyna ma\Nwyższy poziom od nas.
+Dialogue: 0,0:08:28.48,0:08:31.69,Default,Lamia,0,0,0,,Ale nie jest przyzwyczajona do walki.
+Dialogue: 0,0:08:38.14,0:08:39.71,Default,Dryad,0,0,0,,Teraz!
+Dialogue: 0,0:08:41.46,0:08:42.04,Default,Sei,0,0,0,,Virgo!
+Dialogue: 0,0:08:44.96,0:08:46.11,Default,Sei,0,0,0,,Nic ci nie jest?
+Dialogue: 0,0:08:46.11,0:08:47.24,Default,Virgo,0,0,0,,N-nie.
+Dialogue: 0,0:08:47.67,0:08:49.94,Default,Lamia,0,0,0,,Wybacz, ale zginiesz!
+Dialogue: 0,0:08:50.92,0:08:52.05,Default,Lamia,0,0,0,,Wodny Wybuch!
+Dialogue: 0,0:08:57.39,0:08:58.35,Default,Lamia,0,0,0,,Kim jesteś?
+Dialogue: 0,0:08:59.69,0:09:00.68,Default,Castor,0,0,0,,Kim jestem?
+Dialogue: 0,0:09:01.56,0:09:03.53,Default,Castor,0,0,0,,Nikim godnym uwagi.
+Dialogue: 0,0:09:03.96,0:09:08.07,Default,Castor,0,0,0,,Tylko żałosnym człowiekiem,\Nktóry rozbił się w pobliżu
+Dialogue: 0,0:09:08.07,0:09:09.72,Default,Castor,0,0,0,,po małym wypadku.
+Dialogue: 0,0:09:10.62,0:09:11.89,Default,Castor,0,0,0,,Jednak…
+Dialogue: 0,0:09:11.89,0:09:14.94,Default,Castor,0,0,0,,tej sytuacji nie mogę zignorować.
+Dialogue: 0,0:09:16.54,0:09:18.08,Default,Castor,0,0,0,,Nie wiem, co tu się dzieje,
+Dialogue: 0,0:09:18.08,0:09:20.58,Default,Castor,0,0,0,,ale na razie się wtrącę.
+Dialogue: 0,0:09:32.92,0:09:35.45,Default,Sargess,0,0,0,,Ten człowiek jest silny!
+Dialogue: 0,0:09:35.88,0:09:38.78,Default,Dryad,0,0,0,,Ale wygląda na rannego!
+Dialogue: 0,0:09:38.78,0:09:40.06,Default,Dryad,0,0,0,,Ktoś na wpół martwy
+Dialogue: 0,0:09:40.06,0:09:42.03,Default,Dryad,0,0,0,,będzie dla nas łatwym celem!
+Dialogue: 0,0:09:42.03,0:09:42.68,Default,Sargess,0,0,0,,Hej!
+Dialogue: 0,0:09:44.08,0:09:47.29,Default,Merman,0,0,0,,We czwórkę damy radę!
+Dialogue: 0,0:09:53.15,0:09:54.36,Default,Castor,0,0,0,,Pardwa!
+Dialogue: 0,0:10:01.79,0:10:04.32,Default,Castor,0,0,0,,Celowo darowałem wam życie.
+Dialogue: 0,0:10:04.73,0:10:07.29,Default,Castor,0,0,0,,Ale jeśli nadal chcecie walczyć,
+Dialogue: 0,0:10:08.50,0:10:11.30,Default,Castor,0,0,0,,musicie liczyć się z tym,\Nże to się zmieni.
+Dialogue: 0,0:10:14.59,0:10:17.07,Default,Castor,0,0,0,,No więc? Walczycie dalej?
+Dialogue: 0,0:10:18.47,0:10:19.59,Default,Sargess,0,0,0,,Wycofujemy się.
+Dialogue: 0,0:10:19.59,0:10:20.89,Default,Dryad,0,0,0,,Serio?
+Dialogue: 0,0:10:20.89,0:10:22.77,Default,Dryad,0,0,0,,Następnym razem nie stracę czujności!
+Dialogue: 0,0:10:22.77,0:10:24.57,Default,Sargess,0,0,0,,Osiągnęliśmy już nasz cel.
+Dialogue: 0,0:10:24.57,0:10:26.78,Default,Sargess,0,0,0,,Nie ma sensu dłużej tu zostawać.
+Dialogue: 0,0:10:28.28,0:10:29.10,Default,Lamia,0,0,0,,Idziemy.
+Dialogue: 0,0:10:29.10,0:10:30.23,Default,Dryad,0,0,0,,Dobra.
+Dialogue: 0,0:10:32.52,0:10:33.84,Default,Sei,0,0,0,,Cz-czekajcie!
+Dialogue: 0,0:10:33.84,0:10:35.10,Default,Sei,0,0,0,,Czy wy…
+Dialogue: 0,0:10:48.41,0:10:50.12,Default,Kross,0,0,0,,Ich rany są zbyt głębokie.
+Dialogue: 0,0:10:51.50,0:10:53.10,Default,Kross,0,0,0,,Mogę tylko opatrzyć rany.
+Dialogue: 0,0:10:54.49,0:10:56.01,Default,Virgo,0,0,0,,Wielkie Leczenie.
+Dialogue: 0,0:11:07.24,0:11:08.93,Default,Virgo,0,0,0,,N-niemożliwe!
+Dialogue: 0,0:11:09.20,0:11:11.40,Default,Virgo,0,0,0,,Rany… się nie goją?
+Dialogue: 0,0:11:11.40,0:11:12.57,Default,Petto,0,0,0,,Tak.
+Dialogue: 0,0:11:12.57,0:11:15.77,Default,Petto,0,0,0,,Są tak głębokie, że nawet\Nniebiańskie sztuki ich nie uleczą.
+Dialogue: 0,0:11:16.28,0:11:17.90,Default,Petto,0,0,0,,Ale z Eliksirem…
+Dialogue: 0,0:11:18.21,0:11:21.49,Default,Petto,0,0,0,,Jeśli podamy\Nsmokowi strażnikowi cały Eliksir,
+Dialogue: 0,0:11:21.49,0:11:22.65,Default,Petto,0,0,0,,na pewno!
+Dialogue: 0,0:11:34.13,0:11:35.29,Default,Virgo,0,0,0,,Sei…
+Dialogue: 0,0:11:55.67,0:11:58.59,Default,Petto,0,0,0,,Dlaczego… nie zdrowieje?
+Dialogue: 0,0:12:00.07,0:12:01.19,Default,Kross,0,0,0,,Wszyscy,
+Dialogue: 0,0:12:01.59,0:12:03.26,Default,Kross,0,0,0,,posłuchajcie uważnie.
+Dialogue: 0,0:12:03.26,0:12:04.56,Default,Kross,0,0,0,,Eliksir…
+Dialogue: 0,0:12:05.34,0:12:08.33,Default,Kross,0,0,0,,działa tylko na żywych.
+Dialogue: 0,0:12:08.89,0:12:11.32,Default,Kross,0,0,0,,Smok strażnik już…
+Dialogue: 0,0:12:14.87,0:12:17.21,Default,Petto,0,0,0,,Niemożliwe! To…
+Dialogue: 0,0:12:19.78,0:12:21.17,Default,Petto,0,0,0,,Pani Virgo,
+Dialogue: 0,0:12:21.17,0:12:24.38,Default,Petto,0,0,0,,jesteś sojuszniczką Lufas, prawda?
+Dialogue: 0,0:12:24.38,0:12:25.76,Default,Petto,0,0,0,,Możesz coś zrobić?
+Dialogue: 0,0:12:25.76,0:12:27.64,Default,Petto,0,0,0,,Z mocą, którą posiadasz…
+Dialogue: 0,0:12:27.64,0:12:28.94,Default,Virgo,0,0,0,,Przepraszam!
+Dialogue: 0,0:12:28.94,0:12:30.14,Default,Virgo,0,0,0,,Ja…
+Dialogue: 0,0:12:30.14,0:12:33.69,Default,Virgo,0,0,0,,mam najniższy poziom\Ni jestem najsłabsza z nas.
+Dialogue: 0,0:12:36.68,0:12:37.90,Default,Petto,0,0,0,,Do diabła!
+Dialogue: 0,0:12:37.90,0:12:40.62,Default,Petto,0,0,0,,Przeklęte potwory!
+Dialogue: 0,0:12:47.44,0:12:50.24,Default,Castor,0,0,0,,Znasz panią Lufas?
+Dialogue: 0,0:12:52.50,0:12:53.58,Default,Virgo,0,0,0,,Tak.
+Dialogue: 0,0:12:55.69,0:12:56.93,Default,Castor,0,0,0,,Rozumiem.
+Dialogue: 0,0:13:05.96,0:13:07.72,Default,Virgo,0,0,0,,Um… co to?
+Dialogue: 0,0:13:08.25,0:13:09.56,Default,Castor,0,0,0,,Amrita.
+Dialogue: 0,0:13:09.95,0:13:11.91,Default,Kross,0,0,0,,A-Amrita?
+Dialogue: 0,0:13:11.91,0:13:13.52,Default,Kross,0,0,0,,Masz na myśli {\i1}tę{\i0} Amritę?
+Dialogue: 0,0:13:13.76,0:13:14.68,Default,Castor,0,0,0,,Tak.
+Dialogue: 0,0:13:14.68,0:13:17.47,Default,Castor,0,0,0,,Jest skuteczniejsza niż Eliksir,
+Dialogue: 0,0:13:17.47,0:13:19.42,Default,Castor,0,0,0,,a użyta krótko\Npo śmierci
+Dialogue: 0,0:13:19.81,0:13:22.42,Default,Castor,0,0,0,,może nawet wskrzesić zmarłego.
+Dialogue: 0,0:13:22.43,0:13:26.66,Default,Castor,0,0,0,,Nawet pani Lufas stworzyła\Ntylko kilka takich arcydzieł.
+Dialogue: 0,0:13:22.65,0:13:24.16,top,Kross,0,0,0,,A-Amrita?
+Dialogue: 0,0:13:36.29,0:13:37.75,Default,Petto,0,0,0,,Łał!
+Dialogue: 0,0:13:38.96,0:13:40.00,Default,Virgo,0,0,0,,Łał!
+Dialogue: 0,0:13:44.88,0:13:46.84,Default,Petto,0,0,0,,Smok strażnik!
+Dialogue: 0,0:13:46.84,0:13:47.96,Default,Both,0,0,0,,Łał!
+Dialogue: 0,0:13:47.96,0:13:49.30,Default,Vicecaptain,0,0,0,,Piękny!
+Dialogue: 0,0:13:49.57,0:13:51.57,Default,Castor,0,0,0,,To tylko drobny prezent,
+Dialogue: 0,0:13:51.57,0:13:54.25,Default,Castor,0,0,0,,ale przyjmij go\Njako wyraz moich gratulacji.
+Dialogue: 0,0:13:54.25,0:13:55.10,Default,Virgo,0,0,0,,Hm?
+Dialogue: 0,0:13:55.10,0:13:58.77,Default,Castor,0,0,0,,Wygląda na to, że jesteś\Nmoją nową towarzyszką.
+Dialogue: 0,0:13:58.77,0:13:59.69,Default,Virgo,0,0,0,,Och, więc…
+Dialogue: 0,0:13:59.69,0:14:01.31,Default,Petto,0,0,0,,O rany!
+Dialogue: 0,0:14:01.31,0:14:02.31,Default,Petto,0,0,0,,Dziękuję ci!
+Dialogue: 0,0:14:02.31,0:14:03.69,Default,Petto,0,0,0,,Nie wiem, kim jesteś,
+Dialogue: 0,0:14:03.69,0:14:05.74,Default,Petto,0,0,0,,ale uratowałeś nasz kraj!
+Dialogue: 0,0:14:05.74,0:14:08.62,Default,Castor,0,0,0,,Wybacz, że tak późno się przedstawiam.
+Dialogue: 0,0:14:08.62,0:14:09.61,Default,Castor,0,0,0,,Jestem…
+Dialogue: 0,0:14:09.70,0:14:13.56,Default,Castor,0,0,0,,Jestem Castor z Bliźniąt,\Nz Dwunastu Niebiańskich Gwiazd.
+Dialogue: 0,0:14:13.85,0:14:15.91,stats,Sign,0,0,0,,{\fs10\c&HFCFDFF&\fad(90,0)\t(90,257,\c&HFCFFDF&)\4c&HFAFE7F&\t(90,257,\4c&HB9C45F&)\3c&HFAFE7F&\t(90,257,\3c&HB9C45F&)\bord2\shad1\pos(320,283)}JEDNA Z DWUNASTU NIEBIAŃSKICH GWIAZD
+Dialogue: 0,0:14:13.85,0:14:15.91,stats,Sign,0,0,0,,{\fs12\c&HFCFDFF&\fad(90,0)\t(90,257,\c&HFCFFDF&)\4c&HFAFE7F&\t(90,257,\4c&HB9C45F&)\3c&HFAFE7F&\t(90,257,\3c&HB9C45F&)\bord2\shad1\pos(320,337)}Castor z Bliźniąt
+Dialogue: 0,0:14:16.71,0:14:18.38,Default,Virgo,0,0,0,,Łał! Wiedziałam!
+Dialogue: 0,0:14:25.72,0:14:28.34,Default,Scorpius,0,0,0,,O proszę! Castor!
+Dialogue: 0,0:14:28.61,0:14:31.02,Default,Scorpius,0,0,0,,Co tutaj robisz?
+Dialogue: 0,0:14:31.02,0:14:32.80,Default,Karkinos,0,0,0,,Dawno się nie widzieliśmy!
+Dialogue: 0,0:14:32.80,0:14:34.33,Default,Libra,0,0,0,,Minęło dwieście lat.
+Dialogue: 0,0:14:34.33,0:14:35.17,Default,Aigokeros,0,0,0,,Tak.
+Dialogue: 0,0:14:35.17,0:14:36.27,Default,Aries,0,0,0,,Hej!
+Dialogue: 0,0:14:36.27,0:14:37.16,Default,Castor,0,0,0,,Tak.
+Dialogue: 0,0:14:37.16,0:14:38.48,Default,Castor,0,0,0,,Wszyscy macie się dobrze?
+Dialogue: 0,0:14:38.48,0:14:39.02,Default,Aries,0,0,0,,Tak!
+Dialogue: 0,0:14:39.77,0:14:41.89,Default,Castor,0,0,0,,Dawno się nie widzieliśmy, pani Lufas.
+Dialogue: 0,0:14:42.35,0:14:45.14,Default,Castor,0,0,0,,Zawsze wierzyłem,\Nże kiedyś pani wróci.
+Dialogue: 0,0:14:45.14,0:14:45.73,Default,Lufas,0,0,0,,Tak.
+Dialogue: 0,0:14:46.01,0:14:49.94,Default,Lufas,0,0,0,,Cieszymy się, że ty też\Nżyjesz i masz się dobrze, Castor.
+Dialogue: 0,0:14:49.94,0:14:50.63,Default,Castor,0,0,0,,Tak!
+Dialogue: 0,0:14:57.68,0:14:59.16,sign_generic,Sign,0,0,0,,{\b1\fs18\fnTimes New Roman\bord0\blur1.5\t(0,464,\blur0)\t(0,464,\bord0.75)\c&HF6FDFC&\t(0,464,\c&HC7BB7B&)\3c&HD9E5BB&\pos(320,299.333)}CASTOR DOŁĄCZYŁ DO DRUŻYNY
+Dialogue: 0,0:14:59.85,0:15:00.97,italics,Lufas,0,0,0,,Castor.
+Dialogue: 0,0:15:01.28,0:15:04.10,italics,Lufas,0,0,0,,W grze występował w duecie\Nz młodszą siostrą pod nazwą
+Dialogue: 0,0:15:04.10,0:15:05.79,italics,Lufas,0,0,0,,„Wróżkowe Rodzeństwo”.
+Dialogue: 0,0:15:06.24,0:15:07.36,italics,Lufas,0,0,0,,Ale w tym świecie
+Dialogue: 0,0:15:07.36,0:15:09.92,italics,Lufas,0,0,0,,działa całkiem sam?
+Dialogue: 1,0:15:08.03,0:15:11.34,stats,Sign,0,0,0,,{\frz270\fs8\move(356,-95,356,157.847,0,3310)}Niebiańska Gwiazda Castor
+Dialogue: 0,0:15:08.03,0:15:11.34,stats,Sign,0,0,0,,{\c&HA1B75D&\an7\blur4\bord0\shad0\fscx100\fscy100\p1\move(350,-95,350,157.847,0,3310)}m 0 -55 l 16 -55 16 55 0 55
+Dialogue: 0,0:15:10.40,0:15:11.77,italics,Lufas,0,0,0,,Za to jego statystyki
+Dialogue: 0,0:15:11.77,0:15:13.69,italics,Lufas,0,0,0,,są teraz zupełnie inne niż pamiętam.
+Dialogue: 0,0:15:14.54,0:15:17.81,Default,Lufas,0,0,0,,Hm, wyglądasz na wyczerpanego.
+Dialogue: 0,0:15:19.28,0:15:20.77,Default,Castor,0,0,0,,W tej sprawie…
+Dialogue: 0,0:15:22.23,0:15:23.52,Default,Castor,0,0,0,,Przepraszam!
+Dialogue: 0,0:15:23.96,0:15:26.73,Default,Castor,0,0,0,,Niedawno Król Demonów\Nzdołał ukraść
+Dialogue: 0,0:15:26.73,0:15:29.19,Default,Castor,0,0,0,,Klucz do Niebios,\Nktóry mi powierzyłaś!
+Dialogue: 0,0:15:29.19,0:15:31.02,italics,Lufas,0,0,0,,Klucz do Niebios?
+Dialogue: 0,0:15:31.02,0:15:32.33,italics,Lufas,0,0,0,,Co to jest?
+Dialogue: 0,0:15:32.33,0:15:33.93,italics,Lufas,0,0,0,,Tego nie było w grze!
+Dialogue: 0,0:15:34.40,0:15:36.39,italics,Lufas,0,0,0,,Później zapytam Dinę.
+Dialogue: 0,0:15:37.16,0:15:38.93,Default,Lufas,0,0,0,,W porządku. Nie martw się.
+Dialogue: 0,0:15:38.93,0:15:39.51,Default,Castor,0,0,0,,Tak!
+Dialogue: 0,0:15:39.51,0:15:40.25,Default,Lufas,0,0,0,,Dina.
+Dialogue: 0,0:15:40.25,0:15:41.00,Default,Dina,0,0,0,,Tak!
+Dialogue: 0,0:15:41.59,0:15:43.21,Default,Lufas,0,0,0,,Zajmij się nim.
+Dialogue: 0,0:15:43.21,0:15:43.99,Default,Dina,0,0,0,,Tak!
+Dialogue: 0,0:15:45.01,0:15:46.27,Default,Castor,0,0,0,,A ty jesteś?
+Dialogue: 0,0:15:46.27,0:15:50.90,top,Dina,0,0,0,,Jestem doradczynią pani Lufas\Ni zawsze stoję u jej boku!
+Dialogue: 0,0:15:47.44,0:15:48.34,Default,Lufas,0,0,0,,No dobrze,
+Dialogue: 0,0:15:48.34,0:15:50.46,Default,Lufas,0,0,0,,posłuchajmy, co się stało.
+Dialogue: 0,0:15:50.90,0:15:51.80,Default,Virgo,0,0,0,,Tak.
+Dialogue: 0,0:15:54.14,0:15:55.13,Default,Lufas,0,0,0,,Hm…
+Dialogue: 0,0:15:55.13,0:15:57.48,Default,Lufas,0,0,0,,Sagittarius stanął po stronie Leona…
+Dialogue: 0,0:15:57.48,0:15:59.18,Default,Lufas,0,0,0,,Co o tym myślicie?
+Dialogue: 0,0:15:59.18,0:16:00.48,Default,Karkinos,0,0,0,,Co za głupiec.
+Dialogue: 0,0:16:00.48,0:16:01.77,Default,Aigokeros,0,0,0,,To lekkomyślne.
+Dialogue: 0,0:16:01.77,0:16:03.43,Default,Libra,0,0,0,,To beznadziejny idiota.
+Dialogue: 0,0:16:03.43,0:16:05.98,Default,Aries,0,0,0,,Też uważam, że to absurdalne.
+Dialogue: 0,0:16:05.98,0:16:07.69,Default,Scorpius,0,0,0,,Powinien po prostu umrzeć.
+Dialogue: 0,0:16:07.95,0:16:08.89,italics,Lufas,0,0,0,,No już…
+Dialogue: 0,0:16:08.89,0:16:15.04,Default,Aigokeros,0,0,0,,Choroba smoka strażnika\Nteż może mieć z tym związek.
+Dialogue: 0,0:16:18.17,0:16:19.62,Default,Karkinos,0,0,0,,Nie mów, że to ty…
+Dialogue: 0,0:16:19.62,0:16:20.44,Default,Scorpius,0,0,0,,Tsk!
+Dialogue: 0,0:16:20.44,0:16:21.83,Default,Scorpius,0,0,0,,To nie ja!
+Dialogue: 0,0:16:21.83,0:16:23.58,Default,Scorpius,0,0,0,,Gdy planowałam zaatakować Draupnir,
+Dialogue: 0,0:16:23.58,0:16:25.36,Default,Scorpius,0,0,0,,wiedziałam, że smok\Nbędzie kłopotem,
+Dialogue: 0,0:16:25.36,0:16:28.21,Default,Scorpius,0,0,0,,więc chciałam tylko go otruć,\Nosłabić chorobą
+Dialogue: 0,0:16:28.21,0:16:30.59,Default,Scorpius,0,0,0,,i potem spokojnie go zabić!
+Dialogue: 0,0:16:30.59,0:16:31.92,Default,Viro,0,0,0,,N-niemożliwe!
+Dialogue: 0,0:16:32.20,0:16:33.38,Default,Karkinos,0,0,0,,Ale głupia.
+Dialogue: 0,0:16:33.38,0:16:34.60,Default,Aigokeros,0,0,0,,To lekkomyślne.
+Dialogue: 0,0:16:34.60,0:16:36.33,Default,Libra,0,0,0,,Beznadziejna idiotka.
+Dialogue: 0,0:16:36.33,0:16:39.35,Default,Aries,0,0,0,,Też uważam, że to absurdalne.
+Dialogue: 0,0:16:39.35,0:16:41.64,Default,Scorpius,0,0,0,,No co wy!
+Dialogue: 0,0:16:42.23,0:16:43.85,Default,Scorpius,0,0,0,,M-mimo wszystko to dziwne!
+Dialogue: 0,0:16:43.85,0:16:44.98,Default,Scorpius,0,0,0,,Leon to jedno,
+Dialogue: 0,0:16:44.98,0:16:48.07,Default,Scorpius,0,0,0,,ale czy Sagittarius zrobiłby\Ncoś aż tak głupiego?
+Dialogue: 0,0:16:48.07,0:16:52.28,Default,Karkinos,0,0,0,,Sagittarius, którego znam,\Nbył ostrożniejszy i spokojniejszy.
+Dialogue: 0,0:16:52.28,0:16:55.88,italics,Lufas,0,0,0,,Czyli w tle\Ndzieje się coś jeszcze.
+Dialogue: 0,0:16:56.28,0:16:59.68,italics,Lufas,0,0,0,,Wiadomość, którą zostawił Librze,\Nteż nie ma sensu.
+Dialogue: 0,0:17:00.01,0:17:04.12,italics,Lufas,0,0,0,,Jakby mówił: „Jestem z Leonem,\Nwięc uważajcie”.
+Dialogue: 0,0:17:04.96,0:17:06.36,Default,Lufas,0,0,0,,Zdecydowaliśmy.
+Dialogue: 0,0:17:06.36,0:17:09.47,Default,Lufas,0,0,0,,Następny cel to odzyskanie\NLeona i Sagittariusa!
+Dialogue: 0,0:17:09.88,0:17:13.23,Default,Lufas,0,0,0,,Jeszcze raz poznamy\Nich prawdziwe zamiary.
+Dialogue: 0,0:17:13.23,0:17:14.10,Default,All,0,0,0,,Tak!
+Dialogue: 0,0:17:13.23,0:17:14.10,top,Libra,0,0,0,,Przyjęłam.
+Dialogue: 0,0:17:14.10,0:17:15.09,Default,Lufas,0,0,0,,Dina,
+Dialogue: 0,0:17:15.09,0:17:17.01,Default,Lufas,0,0,0,,wiesz, gdzie jest Leon?
+Dialogue: 0,0:17:17.01,0:17:19.19,Default,Dina,0,0,0,,Najpewniej w Tyrving!
+Dialogue: 0,0:17:19.19,0:17:21.19,Default,Dina,0,0,0,,To federacja,\Ngdzie żyją półludzie
+Dialogue: 0,0:17:21.19,0:17:23.31,Default,Dina,0,0,0,,uznawani za potwory.
+Dialogue: 0,0:17:23.86,0:17:28.54,Default,Dina,0,0,0,,Tyrving leży w najniebezpieczniejszym\Nrejonie ludzkich ziem.
+Dialogue: 0,0:17:28.89,0:17:30.82,Default,Lufas,0,0,0,,Niebezpieczny rejon?
+Dialogue: 0,0:17:30.82,0:17:31.42,Default,Dina,0,0,0,,Tak.
+Dialogue: 0,0:17:31.42,0:17:34.38,Default,Dina,0,0,0,,Blisko siedzib demonów.
+Dialogue: 0,0:17:34.38,0:17:36.93,Default,Dina,0,0,0,,Półludzie zbudowali tam wioski
+Dialogue: 0,0:17:36.93,0:17:39.66,Default,Dina,0,0,0,,i żyją z dala od ludzi.
+Dialogue: 0,0:17:39.66,0:17:43.40,Default,Dina,0,0,0,,Są tam ryboludzie, owadoludzie,\Nroślinoludzie, wężoludzie
+Dialogue: 0,0:17:43.40,0:17:45.02,Default,Dina,0,0,0,,i wiele innych ras.
+Dialogue: 0,0:17:45.02,0:17:48.80,Default,Dina,0,0,0,,Jest tam też wioska centaurów,\Nz której pochodzi Sagittarius.
+Dialogue: 0,0:17:48.80,0:17:49.58,Default,Lufas,0,0,0,,Hm…
+Dialogue: 0,0:17:50.12,0:17:54.01,italics,Lufas,0,0,0,,Sagittarius może wiedzieć,\Njak radzą sobie centaury.
+Dialogue: 0,0:17:55.23,0:17:57.01,Default,Virgo,0,0,0,,Och, pani Lufas!
+Dialogue: 0,0:17:57.01,0:17:59.00,Default,Virgo,0,0,0,,Sei i reszta są tutaj!
+Dialogue: 0,0:17:59.00,0:17:59.91,Default,Jean,0,0,0,,Hej!
+Dialogue: 0,0:17:59.91,0:18:01.05,Default,Sei,0,0,0,,Przepraszam.
+Dialogue: 0,0:18:01.05,0:18:02.47,Default,Gantz,0,0,0,,Trochę się spóźniliśmy.
+Dialogue: 0,0:18:02.47,0:18:04.11,Default,Virgo,0,0,0,,Gdzie Nick i reszta?
+Dialogue: 0,0:18:04.11,0:18:09.11,Default,Jean,0,0,0,,Ich rany były zbyt głębokie,\Nwięc dochodzą do siebie w Draupnirze.
+Dialogue: 0,0:18:09.11,0:18:10.10,Default,Petto,0,0,0,,Zgadza się.
+Dialogue: 0,0:18:10.10,0:18:10.83,Default,Petto,0,0,0,,Dlatego
+Dialogue: 0,0:18:11.69,0:18:14.98,Default,Petto,0,0,0,,przybyłem wypełnić\Npowstałą po nich lukę!
+Dialogue: 0,0:18:14.98,0:18:17.46,Default,Petto,0,0,0,,Gdybyśmy mieli więcej Eliksiru,
+Dialogue: 0,0:18:17.46,0:18:19.85,Default,Petto,0,0,0,,może udałoby się\Nuleczyć także ich rany.
+Dialogue: 0,0:18:20.72,0:18:24.44,Default,Jean,0,0,0,,Ale to legendarny\Ncudowny lek, prawda?
+Dialogue: 0,0:18:24.44,0:18:26.56,Default,Jean,0,0,0,,Szkoda używać go na nich!
+Dialogue: 0,0:18:28.42,0:18:32.46,italics,Lufas,0,0,0,,Jeśli potrzebują Eliksiru,\Nw Grobowcu Króla mam go mnóstwo.
+Dialogue: 0,0:18:33.93,0:18:35.45,Default,Lufas,0,0,0,,Dobrze, że jesteś, Bohaterze.
+Dialogue: 0,0:18:36.55,0:18:38.38,Default,Lufas,0,0,0,,Chcesz nas o coś zapytać?
+Dialogue: 0,0:18:38.86,0:18:40.35,Default,Sei,0,0,0,,T-tak!
+Dialogue: 0,0:18:42.39,0:18:43.61,Default,Lufas,0,0,0,,Oczywiście.
+Dialogue: 0,0:18:43.61,0:18:47.68,Default,Lufas,0,0,0,,Przyszedłeś, by sprawdzić,\Nczy naprawdę jesteśmy
+Dialogue: 0,0:18:47.68,0:18:50.98,Default,Lufas,0,0,0,,wrogiem świata, jak głosi legenda.
+Dialogue: 0,0:18:50.98,0:18:51.91,Default,Sei,0,0,0,,Tak.
+Dialogue: 0,0:18:51.91,0:18:52.57,Default,Lufas,0,0,0,,Hm…
+Dialogue: 0,0:18:53.19,0:18:56.99,Default,Lufas,0,0,0,,Obecnie nie zamierzamy\Nsię wam przeciwstawiać.
+Dialogue: 0,0:18:56.99,0:19:02.66,Default,Lufas,0,0,0,,Mówiliśmy to już,\Ngdy przyzwano nas do tego świata.
+Dialogue: 0,0:19:05.95,0:19:11.15,Default,Sei,0,0,0,,Czyli pomożecie nam\Nwalczyć z demonami?
+Dialogue: 0,0:19:11.15,0:19:12.66,Default,Lufas,0,0,0,,To też nie byłoby złe,
+Dialogue: 0,0:19:12.66,0:19:14.34,Default,Lufas,0,0,0,,ale najpierw mamy inne sprawy.
+Dialogue: 0,0:19:14.34,0:19:15.31,Default,Sei,0,0,0,,Inne sprawy?
+Dialogue: 0,0:19:15.31,0:19:19.13,Default,Lufas,0,0,0,,Leon podburza potwory i półludzi
+Dialogue: 0,0:19:19.13,0:19:22.51,Default,Lufas,0,0,0,,i podobno prowadzi ich ku zagładzie.
+Dialogue: 0,0:19:22.51,0:19:25.61,Default,Lufas,0,0,0,,Błędy podwładnych są też\Nbłędami ich pana.
+Dialogue: 0,0:19:25.92,0:19:28.52,Default,Lufas,0,0,0,,Dlatego musimy powstrzymać tego idiotę.
+Dialogue: 0,0:19:28.52,0:19:29.14,Default,Jean,0,0,0,,Więc…
+Dialogue: 0,0:19:29.14,0:19:31.13,Default,Jean,0,0,0,,to ma związek także z nami!
+Dialogue: 0,0:19:31.13,0:19:34.73,Default,Jean,0,0,0,,Jeśli potwory się zjednoczą\Ni ruszą na wojnę, będzie źle!
+Dialogue: 0,0:19:34.73,0:19:38.65,Default,Gantz,0,0,0,,Wspólnie powstrzymajmy Leona, Lufas!
+Dialogue: 0,0:19:38.65,0:19:39.57,Default,Lufas,0,0,0,,Nie…
+Dialogue: 0,0:19:39.57,0:19:41.22,italics,Lufas,0,0,0,,Cieszy mnie ta propozycja,
+Dialogue: 0,0:19:41.22,0:19:43.14,italics,Lufas,0,0,0,,ale przy ich poziomie…
+Dialogue: 0,0:19:43.98,0:19:46.45,Default,Lufas,0,0,0,,Tam, gdzie jest Leon,\Nbędzie pole bitwy.
+Dialogue: 0,0:19:46.45,0:19:48.90,Default,Lufas,0,0,0,,Ruszamy tam z Dwunastoma\NNiebiańskimi Gwiazdami.
+Dialogue: 0,0:19:48.90,0:19:49.49,Default,Sei,0,0,0,,Ale…
+Dialogue: 0,0:19:49.49,0:19:50.95,Default,Lufas,0,0,0,,Zamiast iść z nami,
+Dialogue: 0,0:19:50.95,0:19:55.71,Default,Lufas,0,0,0,,sprawdźcie rodzinną wioskę\Ncentaurów Sagittariusa.
+Dialogue: 0,0:19:55.71,0:19:56.63,Default,Dina,0,0,0,,Mhm!
+Dialogue: 0,0:19:56.63,0:19:58.79,Default,Lufas,0,0,0,,Virgo i Castor pójdą z wami.
+Dialogue: 0,0:19:59.78,0:20:02.62,Default,Lufas,0,0,0,,Łatwiej wam będzie z nieco\Nznajomymi twarzami, prawda?
+Dialogue: 0,0:20:03.03,0:20:06.35,Default,Lufas,0,0,0,,Castor, wybacz, że tak szybko\Npo naszym ponownym spotkaniu,
+Dialogue: 0,0:20:06.35,0:20:08.52,Default,Lufas,0,0,0,,ale zajmij się Virgo\Ni drużyną Bohatera.
+Dialogue: 0,0:20:08.52,0:20:11.06,Default,Castor,0,0,0,,Zostaw to mnie, pani Lufas!
+Dialogue: 0,0:20:12.49,0:20:16.11,Default,Lufas,0,0,0,,Dina, wiesz, czym jest\NKlucz do Niebios?
+Dialogue: 0,0:20:17.16,0:20:19.01,Default,Dina,0,0,0,,Nie znam wszystkich szczegółów,
+Dialogue: 0,0:20:19.01,0:20:20.83,Default,Dina,0,0,0,,ale podobno jego posiadacz
+Dialogue: 0,0:20:20.83,0:20:24.07,Default,Dina,0,0,0,,zyskuje moc zmiany\Nzasad tego świata.
+Dialogue: 0,0:20:24.07,0:20:26.11,Default,Lufas,0,0,0,,Zasad tego świata?
+Dialogue: 0,0:20:26.11,0:20:29.22,Default,Lufas,0,0,0,,Czyli może naginać reguły?
+Dialogue: 0,0:20:29.22,0:20:31.29,Default,Lufas,0,0,0,,Brzmi niemal jak administrator.
+Dialogue: 0,0:20:31.29,0:20:35.39,Default,Dina,0,0,0,,Albo Mistrz Gry\Nz takimi uprawnieniami.
+Dialogue: 0,0:20:36.75,0:20:40.66,italics,Lufas,0,0,0,,Czemu powierzyłam to\NCastorowi zamiast użyć go
+Dialogue: 0,0:20:40.66,0:20:42.25,italics,Lufas,0,0,0,,w walce z Siedmioma Bohaterami?
+Dialogue: 0,0:20:42.69,0:20:43.51,Default,Sei,0,0,0,,Co?
+Dialogue: 0,0:20:44.72,0:20:46.57,Default,Sei,0,0,0,,Co?
+Dialogue: 0,0:20:45.11,0:20:48.18,stats,Sign,0,0,0,,{\bord1.5\blur2\an1\frz270\fs10\3c&HC6D052&\move(642.524,84.571,384,84.571,0,3053)}Rasa
+Dialogue: 1,0:20:45.11,0:20:48.18,stats,Sign,0,0,0,,{\bord1.5\blur2\an1\frz270\fs6\3c&HC6D052&\move(644.524,120.571,385.5,120.571,0,3053)}Sztuczna forma życia
+Dialogue: 0,0:20:45.11,0:20:48.18,stats,Sign,0,0,0,,{\c&H979F26&\an7\blur4\bord0\shad0\fscx100\fscy100\p1\move(640.524,120.571,380.5,120.571,0,3053)}m 0 -10 l 10 -10 10 45 0 45
+Dialogue: 0,0:20:45.24,0:20:48.18,stats,Sign,0,0,0,,{\bord1.5\blur2\an1\frz270\fs10\3c&HC6D052&\move(642.524,84.571,384,84.571,0,3053)}Poziom
+Dialogue: 0,0:20:45.86,0:20:48.18,stats,Sign,0,0,0,,{\bord1.5\blur2\an1\frz270\fs10\3c&HC6D052&\move(643.524,85,385,85,0,3053)}Suzuki
+Dialogue: 0,0:20:48.58,0:20:49.89,Default,Lufas,0,0,0,,Co się stało, Bohaterze?
+Dialogue: 0,0:20:49.89,0:20:51.34,Default,Sei,0,0,0,,Lufas, co to jest?
+Dialogue: 0,0:20:51.34,0:20:52.22,Default,Lufas,0,0,0,,Suzuki.
+Dialogue: 0,0:20:52.22,0:20:53.45,Default,Sei,0,0,0,,Nie o to mi chodzi!
+Dialogue: 0,0:20:53.45,0:20:54.90,Default,Sei,0,0,0,,Czemu masz kampera?
+Dialogue: 0,0:20:54.90,0:20:56.58,Default,Lufas,0,0,0,,Pasował do długich podróży.
+Dialogue: 0,0:20:56.58,0:20:58.49,Default,Lufas,0,0,0,,Wolałbyś ciężarówkę?
+Dialogue: 0,0:20:58.49,0:21:00.69,Default,Sei,0,0,0,,Nie, nie o to chodzi. Chodzi mi…
+Dialogue: 0,0:21:00.69,0:21:02.07,Default,Luafs,0,0,0,,Rozumiemy.
+Dialogue: 0,0:21:02.07,0:21:03.90,Default,Luafs,0,0,0,,Nie możemy zdradzić szczegółów,
+Dialogue: 0,0:21:03.90,0:21:08.03,Default,Luafs,0,0,0,,ale trochę wiemy\No tamtym świecie.
+Dialogue: 0,0:21:08.03,0:21:09.98,Default,Sei,0,0,0,,Co? Rozumiem…
+Dialogue: 0,0:21:15.51,0:21:18.15,Default,Lufas,0,0,0,,My też powinniśmy ruszać.
+Dialogue: 0,0:21:18.96,0:21:21.08,Default,Lufas,0,0,0,,Naszym celem był Tyrving, prawda?
+Dialogue: 0,0:21:21.08,0:21:22.01,Default,Dina,0,0,0,,Tak!
+Dialogue: 0,0:21:22.01,0:21:22.97,Default,Dina,0,0,0,,Ale…
+Dialogue: 0,0:21:22.97,0:21:25.93,Default,Aigokeros,0,0,0,,To może być trochę kłopotliwe.
+Dialogue: 0,0:21:26.72,0:21:29.92,Default,Dina,0,0,0,,Mjolnir leży tuż obok Tyrving.
+Dialogue: 0,0:21:29.92,0:21:32.74,Default,Dina,0,0,0,,To kraj rządzony przez Benetnasch\Nz Siedmiu Bohaterów.
+Dialogue: 0,0:21:33.18,0:21:36.43,Default,Dina,0,0,0,,Benetnasch różni się\Nod pozostałych.
+Dialogue: 0,0:21:36.84,0:21:37.97,Default,Dina,0,0,0,,Jako jedyna
+Dialogue: 0,0:21:37.97,0:21:40.16,Default,Dina,0,0,0,,zachowała moc ze szczytu formy.
+Dialogue: 0,0:21:40.51,0:21:42.90,Default,Dina,0,0,0,,Ma na twoim punkcie obsesję, pani Lufas,
+Dialogue: 0,0:21:43.16,0:21:47.38,Default,Dina,0,0,0,,a zabicie cię własnymi rękami\Njest jej największym celem.
+Dialogue: 0,0:21:47.38,0:21:49.37,Default,Dina,0,0,0,,To najgroźniejsza istota\Nna świecie.
+Dialogue: 0,0:21:51.52,0:21:52.89,italics,Lufas,0,0,0,,Benetnasch…
+Dialogue: 0,0:21:54.45,0:21:55.83,Default,Benetnasch,0,0,0,,Czuję cię!
+Dialogue: 0,0:21:56.11,0:21:58.81,Default,Benetnasch,0,0,0,,Dokończmy walkę z tamtego dnia,
+Dialogue: 0,0:21:58.81,0:22:00.55,Default,Benetnasch,0,0,0,,moja odwieczna rywalko!
+Dialogue: 0,0:22:00.92,0:22:04.05,Default,Benetnasch,0,0,0,,Tym razem cię zabiję,
+Dialogue: 0,0:22:06.23,0:22:08.40,Default,Benetnasch,0,0,0,,Lufas Maphaahl!
+Dialogue: 0,0:22:12.93,0:22:17.60,sign_generic,Credits,0,0,0,WIĘCEJ NIŻ 1 \N,{\fad(170,246)\an7\bord1.25\fs15\b1\c&H8B6C5F&\3c&HFFFFFF&\blur2}Tłumaczenie:\N{\fs17.5}Marta Łojek\N\N{\fs15}Korekta:\N{\fs17.5}Emilia Stachowska\N\NForce Media
+
