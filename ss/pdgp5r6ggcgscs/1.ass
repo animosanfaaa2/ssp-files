@@ -1,0 +1,487 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Narration - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Sign_Basic,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Ep_Title,Trebuchet MS,25,&H0039CF4D,&H000000FF,&H0090F5DA,&H00000000,0,0,0,0,120,120,0,0,1,1.5,0,8,10,10,200,1
+Style: sign_19957_289_One_Week_Later_,Trebuchet MS,24,&H00000000,&H000000FF,&H00F2ECEB,&H00D6B1B4,0,0,0,0,100,100,0,0,3,2,2,5,10,10,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:16.80,0:00:19.93,Sign_Basic,text,0,0,0,,{\fad(125,325)\c&H1C68D0&\fnArial\b1\fs40\bord0\shad0\t(2680,2845,1\c&HFFFFFF&)}2{\c&H2E8ADB&\t(2680,2845,1\c&HFFFFFF&)}0{\c&H3FACE5&\t(2680,2845,1\c&HFFFFFF&)}X{\c&H51CEF0&\t(2680,2845,1\c&HFFFFFF&)}X{\c&H62F0FA&\t(2680,2845,1\c&HFFFFFF&)} {\c&H51CEF0&\t(2680,2845,1\c&HFFFFFF&)}A{\c&H3FACE5&\t(2680,2845,1\c&HFFFFFF&)}.{\c&H2E8ADB&\t(2680,2845,1\c&HFFFFFF&)}D{\c&H1C68D0&\t(2680,2845,1\c&HFFFFFF&)}.
+Dialogue: 0,0:00:17.51,0:00:20.70,Narration,Narrator,0,0,0,,The year is 20XX A.D.
+Dialogue: 0,0:00:21.41,0:00:23.12,Narration,Narrator,0,0,0,,When mysterious \Nextraterrestrial lifeforms
+Dialogue: 0,0:00:23.12,0:00:25.08,Narration,Narrator,0,0,0,,appeared in the Earth's atmosphere,
+Dialogue: 0,0:00:26.88,0:00:31.84,Narration,Narrator,0,0,0,,we humans were forced to face \Nan unprecedented threat.
+Dialogue: 0,0:00:42.45,0:00:49.86,Sign_Basic,text,0,0,0,,{\an5\fnArial\b1\shad0\c&H47A446&\3c&H81DC91&\bord1.5}gero gero gero gero
+Dialogue: 0,0:00:42.45,0:00:49.86,Sign_Basic,text,0,0,0,,{\an9\fad(500,1)\fnArial\b1\shad0\c&H4417AB&\3c&H8B69D5&\bord1.5}giro giro giro giro
+Dialogue: 0,0:00:42.45,0:00:49.86,Sign_Basic,text,0,0,0,,{\an7\fad(500,1)\fnArial\b1\shad0\c&HBA8A72&\3c&HE4DCB0&\bord1.5}doro doro doro doro
+Dialogue: 0,0:00:42.45,0:00:49.86,Sign_Basic,text,0,0,0,,{\an3\fad(500,1)\fnArial\b1\shad0\c&H92395C&\3c&HEBA0B1&\bord1.5}tama tama tama tama
+Dialogue: 0,0:00:42.45,0:00:49.86,Sign_Basic,text,0,0,0,,{\an1\fad(500,1)\fnArial\b1\shad0\c&H64CCE6&\3c&H62D7EC&\bord1.5}kulu kulu kulu kulu
+Dialogue: 0,0:01:03.96,0:01:09.89,Sign_Basic,text,0,0,0,,{\fad(950,175)\fnArial\b1\fs30\c&H2EFFF3&\3c&H54C509&\shad0}Keroro ☆
+Dialogue: 0,0:01:10.51,0:01:17.35,Sign_Basic,text,0,0,0,,{\fad(550,0)\fnArial\b1\fs30\c&H2EFFF3&\3c&H54C509&\shad0}Keroro ☆
+Dialogue: 0,0:02:23.18,0:02:28.84,Ep_Title,text,0,0,0,,{\b1\c&HFFFFFF&\3c&H000000&\pos(320,180)}The Dangerous {\c&H05E1F8&\3c&H1794E4&}Duo
+Dialogue: 0,0:02:24.19,0:02:25.80,Main,Keroro,0,0,0,,"The Dangerous Duo!"
+Dialogue: 0,0:02:26.31,0:02:27.74,Main,Keroro,0,0,0,,Yes sir!
+Dialogue: 0,0:02:27.74,0:02:28.86,Main,Keroro,0,0,0,,Gero gero!
+Dialogue: 0,0:02:31.16,0:02:37.39,Main,Fuyuki,0,0,0,,Oh, really? So you like to come to \Nthis park to look for skyfish too?
+Dialogue: 0,0:02:37.39,0:02:38.63,Main,Momoka,0,0,0,,S-Sure.
+Dialogue: 0,0:02:38.63,0:02:42.58,Main,Fuyuki,0,0,0,,But isn't it a neat coincidence to run \Ninto a friend on the weekend like this?
+Dialogue: 0,0:02:42.58,0:02:44.58,Main,Fuyuki,0,0,0,,I guess we're just lucky.
+Dialogue: 0,0:02:44.58,0:02:47.00,Main,Momoka,0,0,0,,Y-Yes, what a coincidence.
+Dialogue: 0,0:02:47.38,0:02:49.23,Narration,Narrator,0,0,0,,It was absolutely not a coincidence!
+Dialogue: 0,0:02:49.62,0:02:54.33,Narration,Narrator,0,0,0,,With the Nishizawa Group's satellites and \Ndata infrastructure at her fingertips...
+Dialogue: 0,0:02:54.65,0:02:57.74,Narration,Narrator,0,0,0,,Due to privacy concerns, \Nperhaps I'll leave it there.
+Dialogue: 0,0:02:58.65,0:03:03.11,Main,Mutsumi,0,0,0,,"Even a setup can seem a miracle \Nif you aren't aware it was staged."
+Dialogue: 0,0:03:03.11,0:03:04.25,Main,Mutsumi,0,0,0,,By Mutsumi.
+Dialogue: 0,0:03:05.50,0:03:07.02,Main,Mutsumi,0,0,0,,Won't you buy one?
+Dialogue: 0,0:03:08.65,0:03:09.71,Main,Mutsumi,0,0,0,,One of my drawings?
+Dialogue: 0,0:03:09.71,0:03:10.90,Main,Fuyuki,0,0,0,,Huh?!
+Dialogue: 0,0:03:10.25,0:03:11.73,Sign_Basic,text,0,0,0,,{\fad(925,550)\pos(30,158)\an7\b1\fs40\fnArial\c&H418FF4&\3c&HD2FFF5&\shad0\bord3\be1}Zing!
+Dialogue: 0,0:03:11.31,0:03:13.76,Italics,Fuyuki (M),0,0,0,,Wh-Why is my heart pounding?
+Dialogue: 0,0:03:11.77,0:03:13.76,Sign_Basic,text,0,0,0,,{\fad(450,0)\pos(496,18)\an9\fnArial\b1\c&H8785F5&\bord0\shad0}Ba-dump\NBa-dump
+Dialogue: 0,0:03:14.66,0:03:16.88,Main,Fuyuki,0,0,0,,D-Did you draw these?
+Dialogue: 0,0:03:18.12,0:03:19.14,Main,Fuyuki,0,0,0,,Wow!
+Dialogue: 0,0:03:18.47,0:03:22.39,Sign_Basic,text,0,0,0,,{\an7\fnArial\b1\fs18\c&H3D4337&\3c&HF5F1EF&\shad0}It ain't Donkey Hotay,\Nit's Don Quixote, okay?
+Dialogue: 0,0:03:19.72,0:03:24.39,Main,Fuyuki,0,0,0,,How can you make such fantastic art? \NYou must be really talented.
+Dialogue: 0,0:03:24.85,0:03:27.75,Main,Mutsumi,0,0,0,,Talented? No, not exactly.
+Dialogue: 0,0:03:27.75,0:03:31.52,Main,Mutsumi,0,0,0,,I just close my eyes and \Nwait to pick up the signal.
+Dialogue: 0,0:03:31.97,0:03:34.65,Main,Mutsumi,0,0,0,,And then I smash that onto the page.
+Dialogue: 0,0:03:36.49,0:03:39.40,Main,Mutsumi,0,0,0,,The fact that you and I are talking now
+Dialogue: 0,0:03:40.14,0:03:42.92,Main,Mutsumi,0,0,0,,must mean that you received my signal too!
+Dialogue: 0,0:03:42.95,0:03:46.04,Sign_Basic,text,0,0,0,,{\fad(1300,0)\move(570,82,570,54,23,1356)\an2\b1\bord5\shad0\fs28\c&H4F5CE5&\3c&HC07561&}Mutsumi
+Dialogue: 0,0:03:42.95,0:03:46.04,Sign_Basic,text,0,0,0,,{\fad(1300,0)\move(570,82,570,54,23,1356)\an2\b1\bord3\shad0\fs28\c&H4F5CE5&\3c&HFCFCFC&}Mutsumi
+Dialogue: 0,0:03:43.01,0:03:46.04,Sign_Basic,text,0,0,0,,{\fad(1350,0)\3c&HEC6370&\shad0\pos(516,136)\fs20}Mu
+Dialogue: 0,0:03:43.01,0:03:46.04,Sign_Basic,text,0,0,0,,{\fad(1350,0)\3c&HEC6370&\shad0\pos(516,193)\fs20}Tsu
+Dialogue: 0,0:03:43.01,0:03:46.04,Sign_Basic,text,0,0,0,,{\fad(1350,0)\3c&HEC6370&\shad0\pos(516,276)\fs20}Mi
+Dialogue: 0,0:03:43.45,0:03:45.02,Main,Mutsumi,0,0,0,,My name is Mutsumi.
+Dialogue: 0,0:03:45.02,0:03:46.04,Main,Mutsumi,0,0,0,,Nice to meet ya.
+Dialogue: 0,0:03:47.91,0:03:50.79,Main,Fuyuki,0,0,0,,He seems really suspicious. \NWe should split.
+Dialogue: 0,0:03:50.79,0:03:52.23,Main,Momoka,0,0,0,,Uh, s-sure.
+Dialogue: 0,0:03:52.61,0:03:55.84,Main,Mutsumi,0,0,0,,Huh... You guys make a great couple.
+Dialogue: 0,0:03:55.84,0:03:57.80,Main,Momoka,0,0,0,,How much for all of them?!
+Dialogue: 0,0:03:57.80,0:04:00.97,Main,Paul,0,0,0,,If you take cash, you can name your price.
+Dialogue: 0,0:04:02.59,0:04:04.08,Main,Mutsumi,0,0,0,,Come back anytime.
+Dialogue: 0,0:04:06.31,0:04:08.07,Main,Fuyuki,0,0,0,,Well, see you later, Nishizawa-san.
+Dialogue: 0,0:04:08.07,0:04:10.69,Main,Momoka,0,0,0,,S-S-See you later, Hinata-kun!
+Dialogue: 0,0:04:16.03,0:04:17.56,Main,Fuyuki,0,0,0,,I can't put my finger on it,
+Dialogue: 0,0:04:17.56,0:04:20.92,Main,Fuyuki,0,0,0,,but there's something really \Nsuspicious about that guy.
+Dialogue: 0,0:04:21.37,0:04:25.38,Main,Mutsumi,0,0,0,,"Reunited with," times "suspicious guy," \Ndivided by "coincidence"...
+Dialogue: 0,0:04:26.00,0:04:28.26,Main,Mutsumi,0,0,0,,could that possibly equal destiny?
+Dialogue: 0,0:04:28.26,0:04:29.46,Main,Fuyuki,0,0,0,,Huh?!
+Dialogue: 0,0:04:28.26,0:04:29.46,Main - Top,Mutsumi,0,0,0,,By Mutsumi.
+Dialogue: 0,0:04:30.27,0:04:32.33,Main,Mutsumi,0,0,0,,Well, I wish it were that simple...
+Dialogue: 0,0:04:33.59,0:04:37.59,Main,Mutsumi,0,0,0,,but I was actually waiting to catch \Nyou alone, Hinata Fuyuki-kun.
+Dialogue: 0,0:04:37.59,0:04:40.41,Main,Fuyuki,0,0,0,,H-How do you know my name?
+Dialogue: 0,0:04:41.47,0:04:42.39,Main,Mutsumi,0,0,0,,That's my little secret.
+Dialogue: 0,0:04:43.04,0:04:46.73,Main,Mutsumi,0,0,0,,Yeah. I have little secrets, \Njust like I know you do too.
+Dialogue: 0,0:04:46.73,0:04:47.81,Main,Fuyuki,0,0,0,,Whoa!
+Dialogue: 0,0:04:46.86,0:04:47.81,Sign_Basic,text,0,0,0,,{\fad(375,0)\c&H7B7C13&\fnArial\b1\fs30\bord0\shad0\pos(445.333,6)}Jolt!
+Dialogue: 0,0:04:48.06,0:04:53.17,Main,Mutsumi,0,0,0,,You're hiding something really big that \Nyou can't tell anybody about.
+Dialogue: 0,0:04:53.17,0:04:54.02,Main,Mutsumi,0,0,0,,Am I right?
+Dialogue: 0,0:04:54.02,0:04:58.03,Sign_Basic,text,0,0,0,,{\fad(200,0)\an9\fnArial\b1\fs22\c&H7DB1CB&\bord1\4c&HC2CEDB&}Yes, I am a top breeder\Nof space aliens!
+Dialogue: 0,0:04:54.02,0:04:58.03,Main,Fuyuki,0,0,0,,R-Ridiculous! Why would \Nyou say such a thing?
+Dialogue: 0,0:04:58.03,0:05:02.03,Main,Mutsumi,0,0,0,,Because you keep sending signals that \Nset my radar buzzing like crazy...
+Dialogue: 0,0:05:02.68,0:05:06.79,Main,Mutsumi,0,0,0,,signals saying your life right now is \Nfull of dangers and wild mysteries!
+Dialogue: 0,0:05:07.04,0:05:08.95,Main,Fuyuki,0,0,0,,Kaboom!
+Dialogue: 0,0:05:07.29,0:05:08.79,Sign_Basic,text,0,0,0,,{\fad(200,0)\an8\fnArial\b1\c&H3894F3&\3c&HD2F4F7&\shad0}Full of dangers and wild mysteries!!
+Dialogue: 0,0:05:07.47,0:05:08.95,Main,Giroro,0,0,0,,Take that!
+Dialogue: 0,0:05:09.55,0:05:13.40,Italics,Fuyuki (M),0,0,0,,Who is this guy? \NDoes he really know what's going on?
+Dialogue: 0,0:05:13.40,0:05:15.96,Italics,Fuyuki (M),0,0,0,,Is he a secret government spy?
+Dialogue: 0,0:05:15.96,0:05:19.94,Main,Mutsumi,0,0,0,,To be straight with you, I know \Nthere's something in your house—
+Dialogue: 0,0:05:22.04,0:05:23.39,Main,Mutsumi,0,0,0,,You won't get away that easy.
+Dialogue: 0,0:05:23.93,0:05:25.93,Sign_Basic,text,0,0,0,,{\pos(68,218)\frz326.2\fax-.1\fs12\b1\c&H989898&\3c&HFFFDFF&\shad0}Hinata
+Dialogue: 0,0:05:26.27,0:05:29.11,Main,Natsumi,0,0,0,,Warm 'n' fuzzy, cozy-dozy.
+Dialogue: 0,0:05:28.68,0:05:34.98,Sign_Basic,text,0,0,0,,{\pos(487.333,24)\frz7.688\b1\fs22\c&HC49FE6&\3c&HB25AE8&\shad0\bord1.5}cozy-dozy
+Dialogue: 0,0:05:29.11,0:05:30.94,Main,Keroro,0,0,0,,Warm 'n' fuzzy? Cozy-dozy?
+Dialogue: 0,0:05:31.50,0:05:32.68,Main,Giroro,0,0,0,,What is that?
+Dialogue: 0,0:05:33.39,0:05:34.98,Main,Giroro,0,0,0,,Some kind of Pekoponian ciphertext?
+Dialogue: 0,0:05:35.20,0:05:38.01,Main,Natsumi,0,0,0,,Hey! Nobody said you could touch those!
+Dialogue: 0,0:05:38.01,0:05:41.36,Main,Natsumi,0,0,0,,Illustrated poems are really hot right \Nnow. You've never heard of them?
+Dialogue: 0,0:05:41.98,0:05:46.38,Main,Natsumi,0,0,0,,They're drawn by Mutsumi-san, \Na really popular illustrated poemer.
+Dialogue: 0,0:05:46.38,0:05:48.87,Main,Natsumi,0,0,0,,He even hosts radio shows now!
+Dialogue: 0,0:05:48.87,0:05:50.46,Main,Natsumi,0,0,0,,The rain will always end.
+Dialogue: 0,0:05:49.26,0:05:56.02,Sign_Basic,text,0,0,0,,{\an7\c&HF0A985&\fnArial\b1\3c&HF6F2F1&\shad0\fs18}The rain {\c&HF6E291&}will always end
+Dialogue: 0,0:05:50.46,0:05:51.95,Main,Natsumi,0,0,0,,The sun will always rise.
+Dialogue: 0,0:05:50.72,0:05:56.02,Sign_Basic,text,0,0,0,,{\an7\c&HF06FE5&\fnArial\b1\3c&HF6F2F1&\shad0\fs18}The sun {\c&HF277A7&}will always rise
+Dialogue: 0,0:05:51.95,0:05:53.96,Main,Natsumi,0,0,0,,The bus will always be late.
+Dialogue: 0,0:05:52.26,0:05:56.02,Sign_Basic,text,0,0,0,,{\an7\c&H46CAF6&\fnArial\b1\3c&HF6F2F1&\shad0\fs18\frz0}The bus will {\c&HA078ED&}always be late
+Dialogue: 0,0:05:53.96,0:05:55.67,Main,Natsumi,0,0,0,,By Mutsumi.
+Dialogue: 0,0:05:56.02,0:06:00.34,Main,Natsumi,0,0,0,,Oh, he's just so deep! \NMutsumi blows my mind!
+Dialogue: 0,0:06:00.34,0:06:02.00,Main,Tamama,0,0,0,,If ya say so.
+Dialogue: 0,0:06:02.00,0:06:04.60,Main,Keroro,0,0,0,,Sounds fairly shallow to my ears.
+Dialogue: 0,0:06:04.60,0:06:07.13,Main,Keroro,0,0,0,,Gero! Something's happening \Nto Corporal Giroro!
+Dialogue: 0,0:06:07.92,0:06:10.59,Main,Giroro,0,0,0,,This "Mutsumi" or "Chatsumi" \Nor whatever is a joke!
+Dialogue: 0,0:06:11.10,0:06:16.98,Main,Giroro,0,0,0,,I'll show you what a real \Nman's poem looks like!
+Dialogue: 0,0:06:16.98,0:06:20.86,Sign_Basic,text,0,0,0,,{\an7\fnTimes New Roman\b1\c&H42493D&\3c&HF6F2F1&\shad0}Big Gun Battleship Doctrine
+Dialogue: 0,0:06:17.63,0:06:19.99,Main,Giroro,0,0,0,,Big canon battleship doctrine.
+Dialogue: 0,0:06:19.99,0:06:20.86,Main,Giroro,0,0,0,,By Giroro.
+Dialogue: 0,0:06:20.86,0:06:23.63,Sign_Basic,text,0,0,0,,{\pos(358,15)\frz13.83\fnArial\b1\fs18\shad0\c&H38E0E6&\3c&HCCF1F3&}Nervous
+Dialogue: 0,0:06:24.20,0:06:25.64,Main,Tamama,0,0,0,,There, there.
+Dialogue: 0,0:06:24.58,0:06:26.97,Main - Top,Giroro,0,0,0,,No, not like this!
+Dialogue: 0,0:06:26.97,0:06:28.99,Main,Keroro,0,0,0,,I decided to write one myself!
+Dialogue: 0,0:06:28.99,0:06:35.00,Sign_Basic,text,0,0,0,,{\an9\c&H413C36&\3c&HF6F2F1&\shad0\b1\fs18}Dear Shizuoka Factory,\Nplease release a\NMaster Grade Big Zam model.
+Dialogue: 0,0:06:29.33,0:06:34.01,Main,Keroro,0,0,0,,Dear Shizuoka Factory, please release \Na Master Grade Big Zam model.
+Dialogue: 0,0:06:34.01,0:06:34.98,Main,Keroro,0,0,0,,By Keroro.
+Dialogue: 0,0:06:34.98,0:06:37.33,Main,Natsumi,0,0,0,,That's just a request letter.
+Dialogue: 0,0:06:38.20,0:06:39.01,Main,Keroro,0,0,0,,Gero!
+Dialogue: 0,0:06:41.96,0:06:44.05,Main,Keroro,0,0,0,,This alert... Oh dear!
+Dialogue: 0,0:06:44.05,0:06:46.10,Main,Keroro,0,0,0,,It's picking up \Na faint mind control signal, yes sir!
+Dialogue: 0,0:06:46.10,0:06:46.76,Main,Giroro,0,0,0,,What?!
+Dialogue: 0,0:06:46.76,0:06:48.80,Main,Keroro,0,0,0,,The source is...
+Dialogue: 0,0:06:51.49,0:06:53.48,Main,Keroro,0,0,0,,It's coming from the poems!
+Dialogue: 0,0:06:54.35,0:06:56.60,Main,Fuyuki,0,0,0,,Everyone hide! The Black-Clad Men are coming!
+Dialogue: 0,0:06:56.60,0:06:57.01,Main,Keroro,0,0,0,,Gero!
+Dialogue: 0,0:06:57.01,0:06:58.24,Main,Tamama,0,0,0,,What?!
+Dialogue: 0,0:07:03.80,0:07:05.53,Main,Mutsumi,0,0,0,,I've finally found you.
+Dialogue: 0,0:07:05.79,0:07:08.74,Sign_Basic,text,0,0,0,,{\fad(500,0)\pos(320,295)\an2\fnArial\b1\shad0\bord1\fs20}Secret Underground Base Command Center
+Dialogue: 0,0:07:06.40,0:07:09.76,Main - Top,Keroro,0,0,0,,Gero... So who are these "Black-Clad Men"?
+Dialogue: 0,0:07:09.76,0:07:11.20,Narration,Narrator,0,0,0,,Allow me to explain!
+Dialogue: 0,0:07:11.20,0:07:12.41,Narration,Narrator,0,0,0,,The Black-Clad Men are
+Dialogue: 0,0:07:13.14,0:07:15.48,Narration,Narrator,0,0,0,,mysterious special agents who \Noperate behind the scenes
+Dialogue: 0,0:07:15.48,0:07:19.24,Narration,Narrator,0,0,0,,to suppress information about incidents \Ninvolving contact with aliens.
+Dialogue: 0,0:07:17.25,0:07:19.75,Sign_Basic,Sign,0,0,0,,{\fs40\b1\fnArial\fscx120\fscy140\frz10.92\c&H3A26D4&\3c&H272830&\bord4\shad0\move(529,-70,529,0)}C{\fs44}L{\fs40}A{\fs46}D
+Dialogue: 0,0:07:19.24,0:07:21.99,Narration,Narrator,0,0,0,,They are prepared to use any \Nmeans to achieve their goals,
+Dialogue: 0,0:07:19.75,0:07:21.38,Sign_Basic,Sign,0,0,0,,{\fs40\b1\fnArial\fscx120\fscy140\frz10.92\c&H3A26D4&\3c&H272830&\bord4\shad0\move(529,0,529,46)}C{\fs44}L{\fs40}A{\fs46}D
+Dialogue: 0,0:07:20.21,0:07:26.88,Sign_Basic,Sign,0,0,0,,{\fs40\b1\fnArial\fscx120\fscy140\frz10.92\c&H3A26D4&\3c&H272830&\bord4\shad0\move(598,-50,598,49,20,4859)}-
+Dialogue: 0,0:07:21.38,0:07:23.51,Sign_Basic,Sign,0,0,0,,{\fs40\b1\fnArial\fscx120\fscy140\frz10.92\c&H3A26D4&\3c&H272830&\bord4\shad0\move(529,46,529,96)}C{\fs44}L{\fs40}A{\fs46}D
+Dialogue: 0,0:07:21.99,0:07:25.35,Narration,Narrator,0,0,0,,including eliminating those \Ninvolved when necessary.
+Dialogue: 0,0:07:23.63,0:07:23.67,Sign_Basic,Sign,0,0,0,,{\fs40\b1\fnArial\fscx120\fscy140\frz10.92\c&H3A26D4&\3c&H272830&\bord4\shad0\pos(529,100)}C{\fs44}L{\fs40}A{\fs46}D
+Dialogue: 0,0:07:23.67,0:07:23.80,Sign_Basic,Sign,0,0,0,,{\fs40\b1\fnArial\fscx120\fscy140\frz10.92\c&H3A26D4&\3c&H272830&\bord4\shad0\pos(529,100)\clip(m 440 127.33 l 622 71.33 620.67 92 568.67 112.67 477.33 148 480 150 451.33 162.67 452.67 166 547.33 130 546.67 132 553.33 131.33 638 97.33 637.33 197.33 436 196)}C{\fs44}L{\fs40}A{\fs46}D
+Dialogue: 0,0:07:23.80,0:07:23.92,Sign_Basic,Sign,0,0,0,,{\fs40\b1\fnArial\fscx120\fscy140\frz10.92\c&H3A26D4&\3c&H272830&\bord4\shad0\pos(529,102)\clip(m 640 70.67 l 481.33 132 544 94 423.33 129.33 429.33 222 636.67 213.33)}C{\fs44}L{\fs40}A{\fs46}D
+Dialogue: 0,0:07:23.80,0:07:24.17,Sign_Basic,Sign,0,0,0,,{\fs40\b1\fnArial\fscx120\fscy140\frz10.92\c&H3A26D4&\3c&H272830&\bord4\shad0\pos(529,104)}C{\fs44}L{\fs40}A{\fs46}D
+Dialogue: 0,0:07:24.17,0:07:24.30,Sign_Basic,Sign,0,0,0,,{\fs40\b1\fnArial\fscx120\fscy140\frz10.92\c&H3A26D4&\3c&H272830&\bord4\shad0\pos(529,107)\clip(m 638.67 97.33 l 563.33 128.67 553.33 132 547.33 133.33 547.33 130.67 443.33 168.67 453.33 162.67 454 160.67 478 150 478 147.33 638 88 638 64.67 410 88 410 264 638.67 254)}C{\fs44}L{\fs40}A{\fs46}D
+Dialogue: 0,0:07:24.30,0:07:24.55,Sign_Basic,Sign,0,0,0,,{\fs40\b1\fnArial\fscx120\fscy140\frz10.92\c&H3A26D4&\3c&H272830&\bord4\shad0\move(529,109,529,112)}C{\fs44}L{\fs40}A{\fs46}D
+Dialogue: 0,0:07:24.55,0:07:24.63,Sign_Basic,Sign,0,0,0,,{\fs40\b1\fnArial\fscx120\fscy140\frz10.92\c&H3A26D4&\3c&H272830&\bord4\shad0\pos(529,113)\clip(m 484.67 105.33 l 489.33 114 490.67 118 492.67 126.67 495.33 136.67 496.67 145.33 496.67 156 496 164.67 496 172.67 493.33 182 492 189.33 637.33 194.67 637.33 92)}C{\fs44}L{\fs40}A{\fs46}D
+Dialogue: 0,0:07:24.63,0:07:24.72,Sign_Basic,Sign,0,0,0,,{\fs40\b1\fnArial\fscx120\fscy140\frz10.92\c&H3A26D4&\3c&H272830&\bord4\shad0\pos(529,114)\clip(m 500 108.67 l 503.33 117.33 505.33 122 505.34 130.67 506 138 508 144.67 508 155.33 508 167.33 508 174.67 504.67 188 502 202.67 637.33 207.33 637.33 99.33)}C{\fs44}L{\fs40}A{\fs46}D
+Dialogue: 0,0:07:24.72,0:07:24.84,Sign_Basic,Sign,0,0,0,,{\fs40\b1\fnArial\fscx120\fscy140\frz10.92\c&H3A26D4&\3c&H272830&\bord4\shad0\pos(529,115)\clip(m 532.67 108 l 536 116.67 536.67 124 538 133.33 538.67 141.33 538 155.33 538 166 535.33 181.33 531.33 198 638 201.33 637.33 100)}C{\fs44}L{\fs40}A{\fs46}D
+Dialogue: 0,0:07:24.84,0:07:24.97,Sign_Basic,Sign,0,0,0,,{\fs40\b1\fnArial\fscx120\fscy140\frz10.92\c&H3A26D4&\3c&H272830&\bord4\shad0\pos(529,115)\1a&HFF&\3a&HFF&\clip(m 554.67 110.67 l 555.33 120 554 130 553.33 140.67 551.33 150 549.33 162 546.67 173.33 544 186 542.67 196.67 540.67 203.33 638.67 208 638 107.33)}C{\fs44}L{\fs40\1a&H00&\3a&H00&}A{\fs46}D
+Dialogue: 0,0:07:25.26,0:07:25.51,Sign_Basic,Sign,0,0,0,,{\fad(0,50)\fs40\b1\fnArial\fscx120\fscy140\frz10.92\c&H3A26D4&\3c&H272830&\bord4\shad0\pos(529,117)}C{\fs44}L{\fs40\1a&H00&\3a&H00&}A{\fs46}D
+Dialogue: 0,0:07:25.35,0:07:26.87,Main,Keroro,0,0,0,,No!
+Dialogue: 0,0:07:26.87,0:07:30.39,Main,Ura-Tamama,0,0,0,,Time to turn on those security \Ncameras you shamelessly installed
+Dialogue: 0,0:07:30.39,0:07:33.37,Main,Ura-Tamama,0,0,0,,after that pretentious speech \Nyou gave last time, sir!
+Dialogue: 0,0:07:33.37,0:07:35.27,Main,Mois,0,0,0,,Switch on! Image incoming!
+Dialogue: 0,0:07:36.38,0:07:39.44,Main,Natsumi,0,0,0,,I know him! That's Mutsumi-san!
+Dialogue: 0,0:07:39.44,0:07:41.42,Main,Fuyuki,0,0,0,,Y-You know him, Sis?
+Dialogue: 0,0:07:41.42,0:07:42.19,Main,Keroro,0,0,0,,Gero!
+Dialogue: 0,0:07:42.61,0:07:44.86,Main,Keroro,0,0,0,,This scoundrel used poem signals
+Dialogue: 0,0:07:45.13,0:07:47.40,Main,Keroro,0,0,0,,to make contact with \NOfficers Natsumi and Fuyuki
+Dialogue: 0,0:07:47.40,0:07:49.91,Main,Keroro,0,0,0,,and then track them all the way here!
+Dialogue: 0,0:07:49.91,0:07:52.62,Main,Natsumi,0,0,0,,No way! Are you serious?
+Dialogue: 0,0:07:52.62,0:07:56.31,Italics,Giroro (M),0,0,0,,You're gonna pay for using radio \Nwaves on Natsumi's feelings...
+Dialogue: 0,0:07:56.31,0:07:58.83,Italics,Giroro,0,0,0,,...and leading her on like this!
+Dialogue: 0,0:07:58.83,0:07:59.61,Main,Natsumi,0,0,0,,Giroro?
+Dialogue: 0,0:07:59.61,0:08:01.21,Main,Keroro,0,0,0,,Wait! Don't throw your life away!
+Dialogue: 0,0:08:01.46,0:08:05.27,Main,Mois,0,0,0,,Target has stopped at front door \Nand is displaying suspicious behavior!
+Dialogue: 0,0:08:05.27,0:08:07.47,Main,Fuyuki,0,0,0,,Don't worry. The door is locked.
+Dialogue: 0,0:08:07.47,0:08:10.42,Main,Fuyuki,0,0,0,,I don't think he'd destroy it or \Ndo anything to draw attention.
+Dialogue: 0,0:08:14.40,0:08:16.85,Main,Keroro,0,0,0,,You gotta be kidding me!
+Dialogue: 0,0:08:17.71,0:08:19.59,Main,Keroro,0,0,0,,Fire the defense missiles!
+Dialogue: 0,0:08:19.59,0:08:20.35,Main,Mois,0,0,0,,Roger!
+Dialogue: 0,0:08:21.66,0:08:24.44,Main,Natsumi,0,0,0,,When in the world did you install those?
+Dialogue: 0,0:08:25.65,0:08:27.05,Main,Mois,0,0,0,,Direct hit.
+Dialogue: 0,0:08:25.98,0:08:27.05,Main - Top,Keroro,0,0,0,,Nice one!
+Dialogue: 0,0:08:27.05,0:08:29.53,Main,Keroro,0,0,0,,Yuss! Take that!
+Dialogue: 0,0:08:30.52,0:08:31.79,Main,Mutsumi,0,0,0,,What a bangin' welcome.
+Dialogue: 0,0:08:31.79,0:08:32.28,Main,All,0,0,0,,Huh?
+Dialogue: 0,0:08:31.79,0:08:32.28,Main - Top,All,0,0,0,,Huh?
+Dialogue: 0,0:08:33.67,0:08:34.81,Main,Mois,0,0,0,,He's unharmed!
+Dialogue: 0,0:08:34.81,0:08:37.21,Main,Keroro,0,0,0,,No way! Are you kidding me?
+Dialogue: 0,0:08:37.97,0:08:39.24,Main,Mutsumi,0,0,0,,You must be...
+Dialogue: 0,0:08:41.08,0:08:43.00,Main,Mutsumi,0,0,0,,It looks like I'm in the right place.
+Dialogue: 0,0:08:43.00,0:08:44.66,Main,Giroro,0,0,0,,Shut up, you punk!
+Dialogue: 0,0:08:44.66,0:08:46.76,Main,Giroro,0,0,0,,I'm never gonna let you...
+Dialogue: 0,0:08:46.76,0:08:49.68,Main,Giroro,0,0,0,,take her away from me!
+Dialogue: 0,0:08:49.68,0:08:52.12,Main,Tamama,0,0,0,,Yay, Giroro! Go get him!
+Dialogue: 0,0:08:52.12,0:08:54.66,Main,Keroro,0,0,0,,Our very own red dreadnought!
+Dialogue: 0,0:08:54.66,0:08:56.57,Main,Natsumi,0,0,0,,The house is done for!
+Dialogue: 0,0:09:01.43,0:09:04.96,Main,Keroro,0,0,0,,Does it seem to you like Giroro \Nis only here to lose fights?
+Dialogue: 0,0:09:04.96,0:09:07.28,Main,Tamama,0,0,0,,I don't think you're allowed to say that!
+Dialogue: 0,0:09:09.12,0:09:10.19,Main,Mutsumi,0,0,0,,Downstairs, huh.
+Dialogue: 0,0:09:14.79,0:09:16.99,Main,Natsumi,0,0,0,,Hey! Will you stop?!
+Dialogue: 0,0:09:23.46,0:09:27.67,Main,Mutsumi,0,0,0,,I never would have expected you to \Nassimilate to life with humans already.
+Dialogue: 0,0:09:34.71,0:09:37.89,Main,Mutsumi,0,0,0,,Now, time for your disappearing act.
+Dialogue: 0,0:09:38.83,0:09:40.18,Main,Fuyuki,0,0,0,,No! We're done for!
+Dialogue: 0,0:09:41.70,0:09:42.59,Main,Keroro,0,0,0,,Gero!
+Dialogue: 0,0:09:42.59,0:09:43.40,Main,Tamama,0,0,0,,Tama!
+Dialogue: 0,0:09:46.32,0:09:48.23,Main,Keroro,0,0,0,,I-Is everyone all right s—
+Dialogue: 0,0:09:48.23,0:09:49.15,Main,Keroro,0,0,0,,Whoa?!
+Dialogue: 0,0:09:49.44,0:09:52.63,Main,Kululu,0,0,0,,Ku, ku ku ku ku ku ku!
+Dialogue: 0,0:09:52.63,0:09:56.31,Main,Kululu,0,0,0,,Nice to see you, Commander Keroro.
+Dialogue: 0,0:09:56.31,0:09:59.83,Main - Top,Kululu,0,0,0,,Ku ku ku ku ku ku ku ku!
+Dialogue: 0,0:09:57.95,0:09:59.83,Main,Keroro,0,0,0,,S-Sergeant Major Kululu?
+Dialogue: 0,0:09:57.95,0:09:59.83,Main,Tamama,0,0,0,,S-Sergeant Major Kululu?
+Dialogue: 0,0:09:59.83,0:10:04.42,Main,Keroro,0,0,0,,I had no idea you were also working \Nundercover among the Pekoponians!
+Dialogue: 0,0:10:04.42,0:10:08.46,Main,Kululu,0,0,0,,Ku, ku ku! Well, this guy \Nand I kinda hit it off.
+Dialogue: 0,0:10:08.91,0:10:11.51,Main,Mutsumi,0,0,0,,In exchange for helping \Nhim find his friends,
+Dialogue: 0,0:10:11.51,0:10:15.15,Main,Mutsumi,0,0,0,,he lets me use all sorts \Nof mysterious powers!
+Dialogue: 0,0:10:13.43,0:10:15.15,Main - Top,Kululu,0,0,0,,Ku ku ku!
+Dialogue: 0,0:10:15.15,0:10:18.10,Main,Kululu,0,0,0,,What's a little give-and-take \Nbetween pals, ya know?
+Dialogue: 0,0:10:18.10,0:10:20.54,Main,Fuyuki,0,0,0,,U-Um, Sergeant?
+Dialogue: 0,0:10:20.54,0:10:22.02,Main,Keroro,0,0,0,,Allow me to introduce him.
+Dialogue: 0,0:10:22.02,0:10:23.77,Sign_Basic,text,0,0,0,,{\pos(106,6)\b1\fnArial\c&HBEC328&\3c&HF6F9D7&\4c&HB5BB9E&}Kululu
+Dialogue: 0,0:10:22.02,0:10:23.77,Sign_Basic,text,0,0,0,,{\b1\fnArial\c&HBEC328&\3c&HF6F9D7&\4c&HB5BB9E&\pos(507,40)}Sergeant Major
+Dialogue: 0,0:10:22.45,0:10:26.15,Main,Keroro,0,0,0,,Sergeant Major Kululu here is our \Nofficer in charge of communications,
+Dialogue: 0,0:10:26.15,0:10:29.00,Main,Keroro,0,0,0,,weapons procurement, and information \Nwarfare. He's our staff officer.
+Dialogue: 0,0:10:29.00,0:10:34.28,Main,Keroro,0,0,0,,Or in other words, the big brain \Nbehind the Keroro Platoon, yes sir!
+Dialogue: 0,0:10:34.42,0:10:42.04,Sign_Basic,text,0,0,0,,{\c&H3B3935&\fnArial\b1\bord0\shad0\fs30}boom-tss
+Dialogue: 0,0:10:34.63,0:10:38.85,Narration,Narrator,0,0,0,,At long, long last, the fourth member \Nof the Keroro Platoon has arrived,
+Dialogue: 0,0:10:38.85,0:10:42.04,Narration,Narrator,0,0,0,,and the unit takes one more step forward \Nin their invasion of the planet!
+Dialogue: 0,0:10:42.04,0:10:43.87,Italics,Natsumi (M),0,0,0,,There's a fourth one?
+Dialogue: 0,0:10:43.87,0:10:46.11,Italics,Natsumi (M),0,0,0,,How am I gonna \Nkeep up with all of them?
+Dialogue: 0,0:10:46.11,0:10:48.38,Main,Kululu,0,0,0,,Hey over there, honey girl-chan!
+Dialogue: 0,0:10:48.38,0:10:52.67,Main,Kululu,0,0,0,,I can see you mellowin' out to \Nmy waves! You lookin' good, babe!
+Dialogue: 0,0:10:52.67,0:10:55.23,Main,Kululu,0,0,0,,You and I are gonna have \Na real good time together.
+Dialogue: 0,0:10:55.23,0:10:58.73,Main,Kululu,0,0,0,,Let's get our groove on, baby! Ku, ku ku!
+Dialogue: 0,0:11:01.02,0:11:02.93,Main,Tamama,0,0,0,,One step forward, one step back.
+Dialogue: 0,0:11:03.24,0:11:04.68,Main,Mutsumi,0,0,0,,Yikes.
+Dialogue: 0,0:11:04.68,0:11:06.91,Narration,Narrator,0,0,0,,Invasion is like multiplication.
+Dialogue: 0,0:11:06.91,0:11:08.95,Narration,Narrator,0,0,0,,No matter how many comrades you assemble,
+Dialogue: 0,0:11:08.95,0:11:11.23,Narration,Narrator,0,0,0,,if one of them is a zero, \Nyou end up with nothing.
+Dialogue: 0,0:11:11.23,0:11:12.82,Narration,Narrator,0,0,0,,By Mutsumi.
+Dialogue: 0,0:11:15.35,0:11:16.45,Main,Kululu,0,0,0,,Ku ku.
+Dialogue: 0,0:11:21.07,0:11:24.06,Main,Keroro,0,0,0,,"How About Some Radio Tonight?"
+Dialogue: 0,0:11:21.08,0:11:26.83,Ep_Title,text,0,0,0,,{\fad(925,0)\c&HFFFFFF&\3c&H000000&\b1\pos(320,190)}How About Some {\c&HD7D8D9&}Radio {\c&H6B3708&\3c&HB1D1C2&}Tonight{\c&HFFFFFF&\3c&H000000&}?
+Dialogue: 0,0:11:24.06,0:11:25.23,Main,Keroro,0,0,0,,Yes sir.
+Dialogue: 0,0:11:27.57,0:11:28.58,Italics,Mutsumi,0,0,0,,Well, that's about it for me.
+Dialogue: 0,0:11:29.04,0:11:32.74,Italics,Mutsumi,0,0,0,,{\i0}Mutsumi's Me Radio{\i1} will be \Nback again next week for sure!
+Dialogue: 0,0:11:34.13,0:11:39.53,Main,Natsumi,0,0,0,,Even after everything that happened, \NMutsumi-san's DJ poems are so awesome!
+Dialogue: 0,0:11:39.53,0:11:41.94,Main,Keroro,0,0,0,,So as you can see, yes sir,
+Dialogue: 0,0:11:41.94,0:11:44.14,Main,Keroro,0,0,0,,we will take this device that has so \Neasily captured Officer Natsumi's heart,
+Dialogue: 0,0:11:44.14,0:11:46.41,Sign_Basic,text,0,0,0,,{\fnArial\b1\3c&HF9FFA7&\shad0\c&HD2C6AD&}Ray-dee-oh
+Dialogue: 0,0:11:44.14,0:11:48.68,Main,Keroro,0,0,0,,this "ray-dee-oh" or what have you, \Nand use it to send mind-control waves
+Dialogue: 0,0:11:48.68,0:11:51.77,Main,Keroro,0,0,0,,that will render the Pekoponians \Ntotally spineless!
+Dialogue: 0,0:11:51.77,0:11:53.78,Main,Giroro,0,0,0,,I-I wish to file my objections!
+Dialogue: 0,0:11:53.78,0:11:56.09,Main,Giroro,0,0,0,,You can't put c-cameras in \NNatsumi's room like that—
+Dialogue: 0,0:11:56.09,0:11:57.33,Main,Keroro,0,0,0,,Shaddap and listen!
+Dialogue: 0,0:11:57.95,0:12:00.22,Main,Giroro,0,0,0,,N-Natsumi!
+Dialogue: 0,0:12:00.84,0:12:03.45,Main,Tamama,0,0,0,,So where do we get the equipment we need?
+Dialogue: 0,0:12:03.78,0:12:06.47,Main,Keroro,0,0,0,,We'll leave that to our decorated \Noperations staff officer.
+Dialogue: 0,0:12:06.47,0:12:09.90,Main,Keroro,0,0,0,,Show us what you've got, \NSergeant Major Kululu!
+Dialogue: 0,0:12:08.72,0:12:11.59,Sign_Basic,text,0,0,0,,{\pos(557.333,14)\3c&HD6AB82&\shad0\b1}Tss-tss
+Dialogue: 0,0:12:08.72,0:12:11.59,Sign_Basic,text,0,0,0,,{\3c&HD6AB82&\shad0\b1\pos(200.667,96.667)}Tss-tss
+Dialogue: 0,0:12:08.72,0:12:11.59,Sign_Basic,text,0,0,0,,{\pos(70,234)\an5\fnArial\b1\c&HCA73BD&\3c&H8C4E93&\shad0}Boom\NBoom\NBoom
+Dialogue: 0,0:12:11.59,0:12:14.00,Italics,Tamama (M),0,0,0,,H-He's got such bad manners!
+Dialogue: 0,0:12:11.59,0:12:14.00,Italics - Top,Keroro (M),0,0,0,,H-He's got such bad manners!
+Dialogue: 0,0:12:16.53,0:12:17.76,Main,Keroro,0,0,0,,Um, Corporal Giroro?
+Dialogue: 0,0:12:17.76,0:12:18.68,Main,Kululu,0,0,0,,Yes?!
+Dialogue: 0,0:12:19.88,0:12:22.30,Main,Mois,0,0,0,,They're going through, \Nlike, some downs and ups!
+Dialogue: 0,0:12:23.28,0:12:26.81,Main,Keroro,0,0,0,,Giroro's always been about as friendly \Nto him as a pooch to a primate!
+Dialogue: 0,0:12:27.05,0:12:32.11,Main,Giroro,0,0,0,,I can accept the utility of music on \Nthe battlefield as a morale booster.
+Dialogue: 0,0:12:32.43,0:12:32.94,Main,Giroro,0,0,0,,That said,
+Dialogue: 0,0:12:32.94,0:12:37.69,Sign_Basic,text,0,0,0,,{\pos(186,114)\b1\c&HD5BEFC&\3c&HFFFEFE&\4c&HE3A5F1&\fay-.05\fax.2\fs18\frz0.7747}Romance
+Dialogue: 0,0:12:32.94,0:12:37.69,Sign_Basic,text,0,0,0,,{\pos(231.333,238.667)\b1\c&H88F1FD&\3c&HFFFEFE&\4c&HE3A5F1&\fay-.05\fax.2\fs18\frz0.7747}I Love You
+Dialogue: 0,0:12:33.51,0:12:36.34,Main,Giroro,0,0,0,,what kind of namby-pamby, \Nreprobate garbage is this?!
+Dialogue: 0,0:12:36.34,0:12:39.46,Main,Giroro,0,0,0,,Romance and love, my ass! Put on \Na damn marching song instead!
+Dialogue: 0,0:12:39.46,0:12:42.39,Main,Kululu,0,0,0,,Yeah, take a chill pill, old man.
+Dialogue: 0,0:12:42.39,0:12:45.17,Main,Kululu,0,0,0,,Isn't it past your bedtime anyway?
+Dialogue: 0,0:12:45.17,0:12:47.29,Main,Kululu,0,0,0,,Ku, ku ku!
+Dialogue: 0,0:12:48.26,0:12:55.92,Sign_Basic,text,0,0,0,,{\fad(225,0)\pos(186,6)\fnTimes New Roman\b1\c&H0BB4DA&\3c&HE2E0DE&\shad0}Screech!
+Dialogue: 0,0:12:49.66,0:12:54.11,Main,Kululu,0,0,0,,Here's a little lullaby to accompany \Nyou on your flight to heaven, dude!
+Dialogue: 0,0:12:57.71,0:13:00.21,Main,Keroro,0,0,0,,That's Kululu's special attack!
+Dialogue: 0,0:13:00.21,0:13:02.99,Main,Keroro,0,0,0,,He transmits the audio frequencies \Nhis opponents are most sensitive to
+Dialogue: 0,0:13:02.99,0:13:04.80,Main,Keroro,0,0,0,,directly into their brains, yes sir!
+Dialogue: 0,0:13:04.80,0:13:06.47,Main,Keroro,0,0,0,,For me, that would be...
+Dialogue: 0,0:13:06.65,0:13:09.62,Sign_Basic,text,0,0,0,,{\fad(275,0)\fnTimes New Roman\b1\c&H1604B4&\3c&H69AFD5&\shad0\pos(518.667,190)}Squeak!
+Dialogue: 0,0:13:06.65,0:13:09.62,Main,text,0,0,0,,{\fad(275,0)\fnTimes New Roman\b1\c&H1604B4&\3c&H69AFD5&\shad0\pos(116.667,206.667)}Squeak!
+Dialogue: 0,0:13:06.74,0:13:09.39,Main,Keroro,0,0,0,,the sound of styrofoam on styrofoam!
+Dialogue: 0,0:13:09.39,0:13:10.79,Main,Keroro,0,0,0,,Agh! I can't take it!
+Dialogue: 0,0:13:10.79,0:13:14.15,Main,Tamama,0,0,0,,F-For me, it's the sound of \Nnails on a chalkboard!
+Dialogue: 0,0:13:10.79,0:13:15.75,Sign_Basic,text,0,0,0,,{\fad(50,0)\fnTimes New Roman\b1\c&H32A5BD&\3c&HBAE5EB&\shad0\pos(474.667,122.667)}Skree!
+Dialogue: 0,0:13:14.15,0:13:15.77,Main,Tamama,0,0,0,,Make it stop!
+Dialogue: 0,0:13:17.06,0:13:18.49,Main,Kululu,0,0,0,,By the way, Commander,
+Dialogue: 0,0:13:19.24,0:13:22.14,Main,Kululu,0,0,0,,that operation of yours \Ndoesn't sound too shabby.
+Dialogue: 0,0:13:22.14,0:13:25.67,Main,Keroro,0,0,0,,It doesn't? So you were \Nlistening after all, yes sir?
+Dialogue: 0,0:13:25.67,0:13:26.95,Main,Kululu,0,0,0,,Ku, ku ku!
+Dialogue: 0,0:13:27.32,0:13:31.21,Main,Kululu,0,0,0,,I'll get everything ready \Nfor ya in a week, dude.
+Dialogue: 0,0:13:31.21,0:13:33.67,Sign_Basic,text,0,0,0,,{\pos(295,120)\b1\c&HAD27DC&\bord0\4c&H1B1164&}He... He's on top of things...
+Dialogue: 0,0:13:31.21,0:13:33.67,Italics,Tamama (M),0,0,0,,He... He's on top of things...
+Dialogue: 0,0:13:31.21,0:13:33.67,Italics - Top,Mois (M),0,0,0,,He... He's on top of things...
+Dialogue: 0,0:13:34.04,0:13:36.56,Main,Kululu,0,0,0,,You're countin' on my skills, right?
+Dialogue: 0,0:13:36.56,0:13:39.63,Main,Kululu,0,0,0,,You can't get crap done without me, right?
+Dialogue: 0,0:13:39.63,0:13:42.87,Main,Kululu,0,0,0,,Such is the burden of genius!
+Dialogue: 0,0:13:42.87,0:13:44.09,Main,Kululu,0,0,0,,Ku ku ku!
+Dialogue: 0,0:13:44.09,0:13:47.31,Sign_Basic,text,0,0,0,,{\pos(295,135)\b1\c&H294CB1&\shad2\bord0\4c&HE9E1F0&}He... He's a total jerk...
+Dialogue: 0,0:13:44.09,0:13:47.31,Italics,Tamama (M),0,0,0,,He... He's a total jerk...
+Dialogue: 0,0:13:44.09,0:13:47.31,Italics - Top,Keroro (M),0,0,0,,He... He's a total jerk...
+Dialogue: 0,0:13:47.31,0:13:49.55,Narration,Narrator,0,0,0,,A total jerk who is on top of everything.
+Dialogue: 0,0:13:49.55,0:13:52.35,Narration,Narrator,0,0,0,,That's Sergeant Major \NKululu in a nutshell.
+Dialogue: 0,0:13:52.35,0:13:54.60,sign_19957_289_One_Week_Later_,text,0,0,0,,{\pos(320,250)}One Week Later
+Dialogue: 0,0:13:52.84,0:13:57.16,Italics - Top,Radio,0,0,0,,Heard about that cold going around now? \NYou get a fever out of nowhere, man!
+Dialogue: 0,0:13:57.55,0:14:00.05,Italics - Top,Radio,0,0,0,,Listen up, guys. You all gotta \Nwatch yourselves out there. Got it?
+Dialogue: 0,0:14:00.05,0:14:01.77,Italics - Top,Radio,0,0,0,,Okay then. See you next week?
+Dialogue: 0,0:14:03.12,0:14:06.32,Main,Natsumi,0,0,0,,It's almost time for \NMutsumi-san's radio show.
+Dialogue: 0,0:14:10.40,0:14:15.00,Italics - Top,Keroro,0,0,0,,It's time for {\i0}Sergeant Keroro's \NExtraordinary Dopamine!{\i1}
+Dialogue: 0,0:14:15.00,0:14:18.21,Italics - Top,Keroro,0,0,0,,Well, I guess we've started, haven't we?
+Dialogue: 0,0:14:18.56,0:14:22.75,Italics - Top,Keroro,0,0,0,,Good evening, ladies and gentlemen! \NI am radio personality Sergeant Keroro,
+Dialogue: 0,0:14:22.75,0:14:23.47,Italics - Top,Keroro,0,0,0,,yes sir!
+Dialogue: 0,0:14:23.94,0:14:25.78,Main,Kululu,0,0,0,,Ku, ku ku ku ku!
+Dialogue: 0,0:14:25.78,0:14:28.07,Italics - Top,Mois,0,0,0,,And I'm his assistant, Princess Mois!
+Dialogue: 0,0:14:28.07,0:14:30.81,Italics - Top,Tamama,0,0,0,,I'm radio producer Tamamacchi!
+Dialogue: 0,0:14:28.07,0:14:30.81,Sign_Basic,text,0,0,0,,{\pos(320,210)\fnTimes New Roman\b1\c&H292725&\3c&HE4DDDA&\shad0}A Kululu Custom: Hinata Residence \NOffensive Radio Wave Broadcast Antenna
+Dialogue: 0,0:14:31.09,0:14:36.91,Italics - Top,Keroro,0,0,0,,And we've got quite a show \Ncoming your way soon!
+Dialogue: 0,0:14:36.91,0:14:39.11,Italics - Top,Mois,0,0,0,,You sure are dramatic tonight, Keroro!
+Dialogue: 0,0:14:39.11,0:14:42.32,Italics - Top,Tamama,0,0,0,,Come on, Giroro-senpai! \NStart dancing to pump everyone up!
+Dialogue: 0,0:14:40.50,0:14:42.32,Main,Staff,0,0,0,,Hey, they've hijacked the \Nbroadcast! Shut it down!
+Dialogue: 0,0:14:43.35,0:14:49.16,Italics - Top,Giroro,0,0,0,,Get pumped up now! Get pumped up now!
+Dialogue: 0,0:14:45.35,0:14:46.96,Main,Mutsumi,0,0,0,,Yeah, that's Kululu and the boys.
+Dialogue: 0,0:14:46.96,0:14:49.16,Main,Mutsumi,0,0,0,,Gotta hand it to them. \NThis is pretty cool!
+Dialogue: 0,0:14:49.68,0:14:52.26,Italics - Top,Keroro,0,0,0,,All righty, so, if you've got a \Nrequest or comment or something,
+Dialogue: 0,0:14:52.26,0:14:54.02,Italics - Top,Keroro,0,0,0,,feel free to send us a message!
+Dialogue: 0,0:14:54.02,0:14:55.47,Italics - Top,Keroro,0,0,0,,Great! See you next week!
+Dialogue: 0,0:14:55.47,0:14:57.38,Italics - Top,Keroro,0,0,0,,Muphwomp!
+Dialogue: 0,0:14:58.17,0:14:59.99,Main,Tamama,0,0,0,,Nice job, guys!
+Dialogue: 0,0:14:58.17,0:14:59.21,Main,Keroro,0,0,0,,Yahoo!
+Dialogue: 0,0:14:59.99,0:15:01.80,Main,Keroro,0,0,0,,To a job well done!
+Dialogue: 0,0:15:01.80,0:15:04.82,Main,Keroro,0,0,0,,It's such a good feeling when \Nwe put our heads together and
+Dialogue: 0,0:15:03.57,0:15:06.38,Main - Top,Giroro,0,0,0,,Why the hell am I the \None who has to dance?
+Dialogue: 0,0:15:04.82,0:15:06.38,Main,Keroro,0,0,0,,accomplish a big goal!
+Dialogue: 0,0:15:06.38,0:15:07.75,Main,Keroro,0,0,0,,Radio is...
+Dialogue: 0,0:15:06.79,0:15:09.11,Main - Top,Giroro,0,0,0,,Don't treat me like the stooge, damn it!
+Dialogue: 0,0:15:07.75,0:15:08.77,Main,Keroro,0,0,0,,so cool!
+Dialogue: 0,0:15:09.85,0:15:10.56,Main,Keroro,0,0,0,,Gero!
+Dialogue: 0,0:15:10.56,0:15:12.15,Main,Giroro,0,0,0,,N-Natsumi!
+Dialogue: 0,0:15:12.15,0:15:18.47,Main,Natsumi,0,0,0,,You know, I {\i1}really{\i0} look forward \Nto Mutsumi-san's show every week.
+Dialogue: 0,0:15:18.47,0:15:24.32,Main,Natsumi,0,0,0,,I even saved up my allowance to buy a \Nradio so I could listen in real time.
+Dialogue: 0,0:15:25.36,0:15:28.53,Main,Keroro,0,0,0,,Once {\i1}Sergeant Keroro's \NExtraordinary Dopamine!{\i0} succeeds
+Dialogue: 0,0:15:28.53,0:15:31.25,Main,Keroro,0,0,0,,in rendering all Pekoponian \Nlisteners completely spineless,
+Dialogue: 0,0:15:31.25,0:15:33.79,Main,Keroro,0,0,0,,Pekopon will be ours for \Nthe taking, yes sir!
+Dialogue: 0,0:15:33.79,0:15:35.24,Main,Keroro,0,0,0,,Since that's happening no matter what,
+Dialogue: 0,0:15:35.24,0:15:38.65,Main,Keroro,0,0,0,,you might wanna start kissing up \Nto me now while you can, yes sir!
+Dialogue: 0,0:15:38.65,0:15:41.27,Main,Keroro,0,0,0,,Gero, gero gero gero gero gero ge—
+Dialogue: 0,0:15:45.69,0:15:47.53,Main,Keroro,0,0,0,,Officer... Natsumi?
+Dialogue: 0,0:15:50.18,0:15:53.26,Main,Mois,0,0,0,,She's, like, a blazing inferno!
+Dialogue: 0,0:15:57.52,0:16:01.27,Main,Fuyuki,0,0,0,,Mom's out of town for work and won't \Nbe back until tomorrow evening.
+Dialogue: 0,0:16:01.64,0:16:03.93,Main,Fuyuki,0,0,0,,And it's too late to go to a doctor.
+Dialogue: 0,0:16:05.60,0:16:09.20,Main,Natsumi,0,0,0,,If you dare call an ambulance, \NI'll beat you to a pulp.
+Dialogue: 0,0:16:09.99,0:16:13.05,Main,Natsumi,0,0,0,,I totally hate hospitals!
+Dialogue: 0,0:16:14.46,0:16:19.50,Main,Natsumi,0,0,0,,Who do you think I am, anyway? \NI'm still your big sis, aren't I?
+Dialogue: 0,0:16:21.55,0:16:22.61,Main,Fuyuki,0,0,0,,Sis...
+Dialogue: 0,0:16:23.28,0:16:26.02,Italics,Fuyuki (M),0,0,0,,You're right, Sis.
+Dialogue: 0,0:16:26.02,0:16:28.53,Italics,Fuyuki (M),0,0,0,,You're always the one watching out for me.
+Dialogue: 0,0:16:28.53,0:16:31.01,Italics,Fuyuki (M),0,0,0,,This time it's my turn to watch over you.
+Dialogue: 0,0:16:31.31,0:16:35.35,Main,Giroro,0,0,0,,Hmph! I guess you aren't such a hotshot \Nif that's all it takes to knock you out.
+Dialogue: 0,0:16:35.35,0:16:39.25,Main,Giroro,0,0,0,,There's no way you'd survive \Nall-out galactic war.
+Dialogue: 0,0:16:42.46,0:16:44.52,Main,Kululu,0,0,0,,Ku, ku ku ku ku ku ku ku ku ku ku!
+Dialogue: 0,0:16:53.43,0:16:58.64,Main,Giroro,0,0,0,,Don't you dare die on me, Natsumi!
+Dialogue: 0,0:16:59.55,0:17:01.92,Main,Fuyuki,0,0,0,,It's getting late, so why don't \Nyou guys go get some rest?
+Dialogue: 0,0:17:02.45,0:17:05.71,Main,Fuyuki,0,0,0,,Thanks. But don't worry, \NI'll keep an eye on her.
+Dialogue: 0,0:17:13.83,0:17:15.26,Main,Keroro,0,0,0,,Officer Fuyuki.
+Dialogue: 0,0:17:15.64,0:17:17.35,Main,Keroro,0,0,0,,As representative of those responsible
+Dialogue: 0,0:17:17.35,0:17:19.34,Main,Keroro,0,0,0,,for causing Officer Natsumi such distress,
+Dialogue: 0,0:17:19.34,0:17:23.22,Main,Keroro,0,0,0,,I would like your permission \Nto assist in her care, yes sir.
+Dialogue: 0,0:17:23.86,0:17:25.38,Italics,Fuyuki (M),0,0,0,,Sergeant...
+Dialogue: 0,0:17:25.38,0:17:26.90,Main,Fuyuki,0,0,0,,Very well! You have my permission!
+Dialogue: 0,0:17:27.27,0:17:30.36,Main,Keroro,0,0,0,,Much obliged, Commanding Officer Fuyuki!
+Dialogue: 0,0:17:47.75,0:17:50.69,Main,Fuyuki,0,0,0,,Nothing's working. \NThe fever isn't going down.
+Dialogue: 0,0:17:52.98,0:17:54.06,Main,Fuyuki,0,0,0,,Giroro?
+Dialogue: 0,0:17:54.06,0:17:59.29,Main,Giroro,0,0,0,,I brought the liver of a space kerberos. \NThey say it can cure any ailment.
+Dialogue: 0,0:17:59.29,0:18:00.64,Main,Giroro,0,0,0,,I... got it for her.
+Dialogue: 0,0:18:01.01,0:18:03.68,Main,Keroro,0,0,0,,What is that delicious smell?
+Dialogue: 0,0:18:03.68,0:18:07.52,Main,Keroro,0,0,0,,Oh! You prepared my breakfast, yes sir?
+Dialogue: 0,0:18:11.28,0:18:15.91,Main,Keroro,0,0,0,,Whoa! My back pain, stiff shoulders, \Nchronic fatigue, and eye strain
+Dialogue: 0,0:18:12.34,0:18:17.01,Sign_Basic,text,0,0,0,,{\fad(450,900)\pos(540,229.333)\an5\b1\c&H116F49&\3c&H97DDD7&\shad0\frx30\fry0\frz346.1}Back Pain
+Dialogue: 0,0:18:12.84,0:18:17.01,Sign_Basic,text,0,0,0,,{\fad(450,900)\an5\b1\c&H80474B&\3c&HC2D7E1&\shad0\frz7.385\frx10\fry12\pos(142,221.34)}Stiff Shoulders
+Dialogue: 0,0:18:13.84,0:18:17.01,Sign_Basic,text,0,0,0,,{\fad(450,900)\an5\b1\c&H756812&\3c&HD2F3DE&\shad0\frx30\fry0\pos(108.67,111.33)\frz16.16}Chronic Fatigue
+Dialogue: 0,0:18:14.84,0:18:17.01,Sign_Basic,text,0,0,0,,{\fad(450,900)\an5\b1\c&H0A5378&\3c&HECE3D7&\shad0\frx30\fry0\frz342.7\pos(424,74.67)}Eye Strain
+Dialogue: 0,0:18:15.91,0:18:17.74,Main,Keroro,0,0,0,,are all disappearing!
+Dialogue: 0,0:18:17.74,0:18:20.72,Sign_Basic,text,0,0,0,,{\fad(0,775)\pos(320,350)\an2\fnArial\b1\c&HA52578&\3c&HDBE1D2&\4c&H59B551&\shad2}An unexpected super power up!
+Dialogue: 0,0:18:18.01,0:18:19.29,Main - Top,Giroro,0,0,0,,How dare...
+Dialogue: 0,0:18:19.79,0:18:21.89,Main - Top,Giroro,0,0,0,,Damn you! Damn you! Damn you!
+Dialogue: 0,0:18:21.76,0:18:22.26,Sign_Basic,text,0,0,0,,{\fad(75,0)\pos(139.33,116.67)\fnTimes New Roman\b1\c&H262424&\3c&HDAD6E2&\shad0}Pop!
+Dialogue: 0,0:18:23.60,0:18:28.14,Main,Fuyuki,0,0,0,,Sergeant! Giroro went out and got \Nthat to help my sister get better!
+Dialogue: 0,0:18:28.14,0:18:29.75,Main,Keroro,0,0,0,,What did you say?!
+Dialogue: 0,0:18:30.27,0:18:34.22,Main,Keroro,0,0,0,,I did think it was a little \Nextravagant for breakfast.
+Dialogue: 0,0:18:34.51,0:18:37.63,Main,Keroro,0,0,0,,I didn't have any idea! \NI didn't mean to cause trouble!
+Dialogue: 0,0:18:37.63,0:18:40.59,Main,Keroro,0,0,0,,My best wishes for Officer \NNatsumi to be better
+Dialogue: 0,0:18:40.59,0:18:43.67,Main,Keroro,0,0,0,,are even crazier than a \Ncaptured kerberos's liver!
+Dialogue: 0,0:18:43.67,0:18:46.73,Main,Fuyuki,0,0,0,,There's no way the wishes \Nof the frog-shaped alien
+Dialogue: 0,0:18:46.94,0:18:51.15,Main,Fuyuki,0,0,0,,who scarfed down Natsumi's medicine in \None bite would ever help her feel better.
+Dialogue: 0,0:18:51.15,0:18:53.37,Main,Keroro,0,0,0,,Gah!
+Dialogue: 0,0:19:00.76,0:19:06.62,Sign_Basic,text,0,0,0,,{\fad(650,0)\c&H836561&\3c&HF8F6F4&\shad0\fs16\frx10\fry18\fay.18\move(308,138,308,98)\t(\fs12)}Please leave me alone
+Dialogue: 0,0:19:01.34,0:19:04.57,Main,Mois,0,0,0,,He's locked in there with Kululu-san.
+Dialogue: 0,0:19:04.57,0:19:06.62,Main,Mois,0,0,0,,I guess, like, barricaded?
+Dialogue: 0,0:19:06.62,0:19:11.71,Main,Tamama,0,0,0,,Or maybe planning the next stage of \Nthe radio brainwashing operation?
+Dialogue: 0,0:19:12.55,0:19:14.89,Italics - Top,Mutsumi,0,0,0,,It's {\i0}Mutsumi's Me Radio{\i1}!
+Dialogue: 0,0:19:14.89,0:19:15.55,Main,Fuyuki,0,0,0,,Hey Sis!
+Dialogue: 0,0:19:16.03,0:19:18.18,Main,Fuyuki,0,0,0,,They're airing a make-up \Nbroadcast of Mutsumi-san's show
+Dialogue: 0,0:19:18.18,0:19:20.47,Main,Fuyuki,0,0,0,,since it was hijacked yesterday.
+Dialogue: 0,0:19:21.31,0:19:23.19,Main,Fuyuki,0,0,0,,This ought to make you feel better.
+Dialogue: 0,0:19:23.79,0:19:27.09,Italics - Top,Mutsumi,0,0,0,,All right, since we're broadcasting \Nat a special time today,
+Dialogue: 0,0:19:27.09,0:19:30.23,Italics - Top,Mutsumi,0,0,0,,let's start off with a special version \Nof our kick-off poem as well!
+Dialogue: 0,0:19:31.17,0:19:33.65,Italics - Top,Keroro,0,0,0,,Since it's too late for I'm sorry,
+Dialogue: 0,0:19:33.65,0:19:37.49,Italics - Top,Keroro,0,0,0,,at least today let me give you a smile \Nand say thanks for dinner. Yes sir.
+Dialogue: 0,0:19:37.81,0:19:39.78,Italics - Top,Fuyuki,0,0,0,,Huh? That sounds like...
+Dialogue: 0,0:19:39.78,0:19:42.63,Main,Mutsumi,0,0,0,,Right off the bat, you're \Ndropping truth bombs!
+Dialogue: 0,0:19:42.63,0:19:44.08,Main,Mutsumi,0,0,0,,That poem sounded like
+Dialogue: 0,0:19:44.08,0:19:47.37,Main,Mutsumi,0,0,0,,it was written with your feelings \Nfor someone very special.
+Dialogue: 0,0:19:48.03,0:19:52.79,Main,Keroro,0,0,0,,Yes. I did something very \Ncruel to that person.
+Dialogue: 0,0:19:53.12,0:19:57.30,Main,Keroro,0,0,0,,I could apologize all day, but I \Ndon't think she would accept it.
+Dialogue: 0,0:19:57.93,0:20:00.55,Italics - Top,Keroro,0,0,0,,I don't think she would listen at all.
+Dialogue: 0,0:20:00.98,0:20:05.06,Italics - Top,Keroro,0,0,0,,But I still want her to \Nunderstand that I mean it!
+Dialogue: 0,0:20:05.06,0:20:09.87,Main,Keroro,0,0,0,,That person actually loves this \Nradio show, Officer Mutsumi.
+Dialogue: 0,0:20:09.87,0:20:13.05,Main,Keroro,0,0,0,,So I thought, maybe, if I'm lucky...
+Dialogue: 0,0:20:13.05,0:20:15.63,Main,Mutsumi,0,0,0,,If you wanna get through, you gotta \Nopen up more than that, right?
+Dialogue: 0,0:20:15.63,0:20:16.41,Main,Keroro,0,0,0,,Huh?
+Dialogue: 0,0:20:18.50,0:20:22.44,Main,Keroro,0,0,0,,The small words "thank you" hiding in my \Nheart, as they grow bigger and bigger,
+Dialogue: 0,0:20:22.44,0:20:24.93,Main,Keroro,0,0,0,,start to tickle me relentlessly.
+Dialogue: 0,0:20:25.27,0:20:29.25,Main,Keroro,0,0,0,,It can be hard to bring words out of \Ntheir shell, don't you think? Yes sir.
+Dialogue: 0,0:20:29.93,0:20:34.00,Italics - Top,Keroro,0,0,0,,If all of the lights in the universe \Ncould join as one and shine together,
+Dialogue: 0,0:20:34.28,0:20:38.70,Italics - Top,Keroro,0,0,0,,they would still not shine as \Nbrightly as the precious miracle
+Dialogue: 0,0:20:38.70,0:20:42.19,Italics - Top,Keroro,0,0,0,,that brought us together on this \Npuny little planet. Yes sir.
+Dialogue: 0,0:20:42.83,0:20:45.35,Italics - Top,Keroro,0,0,0,,The "N" in Natsumi means \Nyou're a natural winner.
+Dialogue: 0,0:20:45.35,0:20:48.08,Italics - Top,Keroro,0,0,0,,The "S" means you're surely \Nstrong enough to recover.
+Dialogue: 0,0:20:48.08,0:20:51.19,Italics - Top,Keroro,0,0,0,,The "M" is for Matilda dying on the Medea!
+Dialogue: 0,0:20:51.59,0:20:56.22,Italics - Top,Keroro,0,0,0,,Dear Shizuoka Factory, please \Nrelease an EX model of the FanFan.
+Dialogue: 0,0:20:56.22,0:21:00.19,Main,Natsumi,0,0,0,,I told you that's a product \Nrequest, not a poem.
+Dialogue: 0,0:21:00.62,0:21:01.78,Main,Natsumi,0,0,0,,Don't be silly.
+Dialogue: 0,0:21:05.14,0:21:06.62,Main,Aki,0,0,0,,I'm home!
+Dialogue: 0,0:21:06.62,0:21:08.77,Main,Aki,0,0,0,,Well? How is Natsumi doing?
+Dialogue: 0,0:21:09.52,0:21:11.71,Main,Natsumi,0,0,0,,You totally hijacked \NMutsumi-san's radio show
+Dialogue: 0,0:21:12.14,0:21:15.04,Main,Natsumi,0,0,0,,and I'm not gonna let you get \Naway with it! Stupid frog!
+Dialogue: 0,0:21:15.39,0:21:17.92,Main,Keroro,0,0,0,,Gero gero ge, yes sir!
+Dialogue: 0,0:21:17.92,0:21:20.69,Main,Aki,0,0,0,,Um, what about your cold?
+Dialogue: 0,0:21:21.03,0:21:24.10,Main,Fuyuki,0,0,0,,One of the sergeant's friends \Ncooked up a special cold medicine.
+Dialogue: 0,0:21:24.47,0:21:26.61,Main,Kululu,0,0,0,,You must be the honey girl's pretty mommy!
+Dialogue: 0,0:21:26.61,0:21:31.77,Main,Kululu,0,0,0,,Wanna surf my cool grooves and start \Nvibin', babe? Ku, ku ku ku ku ku!
+Dialogue: 0,0:21:31.77,0:21:35.97,Main,Giroro,0,0,0,,It seems like Kululu set up \NKeroro's radio appearance as well.
+Dialogue: 0,0:21:35.97,0:21:36.82,Main,Giroro,0,0,0,,Darn it.
+Dialogue: 0,0:21:36.82,0:21:39.94,Main,Giroro,0,0,0,,And here I thought you were diligently \Nplanning out our next operation.
+Dialogue: 0,0:21:40.16,0:21:43.35,Main,Keroro,0,0,0,,I'll even ask Kululu to get \NOfficer Mutsumi's autograph for you,
+Dialogue: 0,0:21:43.35,0:21:44.86,Main,Keroro,0,0,0,,so please don't hurt me!
+Dialogue: 0,0:21:44.86,0:21:48.20,Main,Natsumi,0,0,0,,I hate it so much when you try to weasel \Nyour way out of things like that!
+Dialogue: 0,0:21:48.20,0:21:50.79,Main,Natsumi,0,0,0,,Stop running from me!
+Dialogue: 0,0:21:49.00,0:21:50.79,Main - Top,Keroro,0,0,0,,I know you really want it though!
+Dialogue: 0,0:21:50.79,0:21:54.55,Sign_Basic,Credits,0,0,0,,{\pos(320,10)\fs16\fnArial\b1\shad0}Translation: Michael Arnold\NTiming: Andy Ellis\NEditing: Zachary Carlysle\NQuality Control: S. Bilyeu\NFinal Quality Control: Elizabeth Ellis
+Dialogue: 0,0:23:21.46,0:23:25.34,Italics - Top,Keroro,0,0,0,,It's time for {\i0}Sergeant Keroro's \NExtraordinary Dopamine!{\i1}
+Dialogue: 0,0:23:25.34,0:23:29.51,Italics - Top,Keroro,0,0,0,,All right. Our next letter is from \NNat-chan in Tokyo who just loves frogs.
+Dialogue: 0,0:23:29.93,0:23:33.06,Italics - Top,Keroro,0,0,0,,"Recently, my roommate isn't \Nhelping out with chores at all
+Dialogue: 0,0:23:33.06,0:23:35.69,Italics - Top,Keroro,0,0,0,,but I don't know the best way \Nto talk to him about it."
+Dialogue: 0,0:23:35.69,0:23:38.99,Italics - Top,Keroro,0,0,0,,Ah, of course, of course. \NI know that feeling well.
+Dialogue: 0,0:23:38.99,0:23:43.93,Italics - Top,Keroro,0,0,0,,Okay, next time is "Is it a Cavity? \NNo, It's the Caries War"
+Dialogue: 0,0:23:39.31,0:23:50.74,Sign_Basic,text,0,0,0,,{\pos(66,65)\shad0\bord1.5\fs20}Next Time
+Dialogue: 0,0:23:39.31,0:23:50.74,Ep_Title,text,0,0,0,,{\b1\c&HFFFFFF&\3c&H000000&\pos(320,160)}Is It a {\c&HFB93E0&\3c&HA51072&}Cavity{\c&HFFFFFF&\3c&H000000&}? No, It's {\c&HFB93E0&\3c&HA51072&}the Caries War
+Dialogue: 0,0:23:39.31,0:23:50.74,Ep_Title,text,0,0,0,,{\c&H2870F4&\3c&H2AC7ED&\b1\pos(320,215)}Aki {\c&HFFFFFF&\3c&H000000&}Becomes a Middle Schooler
+Dialogue: 0,0:23:43.93,0:23:46.20,Italics - Top,Keroro,0,0,0,,along with "Aki Becomes \Na Middle Schooler."
+Dialogue: 0,0:23:46.20,0:23:49.69,Italics - Top,Keroro,0,0,0,,Ah, of course! She becomes one. \NShe really does!
+
