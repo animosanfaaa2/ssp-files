@@ -1,0 +1,325 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:14.37,0:00:17.74,Default,SONA,0,0,0,,Mok, you took your\Nbandages off, didn't you?
+Dialogue: 0,0:00:17.74,0:00:21.12,Default,MOK,0,0,0,,I was never that badly \Nhurt to begin with.
+Dialogue: 0,0:00:21.12,0:00:22.71,Default,MOK,0,0,0,,I'm fine now.
+Dialogue: 0,0:00:23.89,0:00:25.08,Default,SONA,0,0,0,,Peru!
+Dialogue: 0,0:00:26.31,0:00:29.68,Default,SONA,0,0,0,,Hey, Peru, what's gotten into you?
+Dialogue: 0,0:00:29.68,0:00:32.39,Default,SONA,0,0,0,,Uh, what's that place called again?
+Dialogue: 0,0:00:32.39,0:00:33.66,Default,PERU,0,0,0,,Iris.
+Dialogue: 0,0:00:33.66,0:00:35.54,Default,SONA,0,0,0,,I mean, you know...
+Dialogue: 0,0:00:35.54,0:00:38.58,Default,MOK,0,0,0,,It's clearly a trap.
+Dialogue: 0,0:00:38.58,0:00:41.13,Default,MOK,0,0,0,,I'm not interested in \Nfighting them again.
+Dialogue: 0,0:00:41.53,0:00:46.35,Default,PERU,0,0,0,,If they really wanted to kill us, \Nthey wouldn't need to use a trap.
+Dialogue: 0,0:00:47.04,0:00:49.06,Default,MOK,0,0,0,,I guess not.
+Dialogue: 0,0:00:51.04,0:00:52.95,Default,PERU,0,0,0,,I was born there.
+Dialogue: 0,0:00:53.69,0:00:56.25,Default,MOK,0,0,0,,All the more reason not to go.
+Dialogue: 0,0:00:56.25,0:00:59.15,Default,MOK,0,0,0,,I don't know what they want \Nto show you, but still.
+Dialogue: 0,0:00:59.15,0:01:01.99,Default,PERU,0,0,0,,Sorry. I lost my cool.
+Dialogue: 0,0:01:01.99,0:01:05.73,Default,PERU,0,0,0,,You're right. It's possible \Nthat nothing is going on.
+Dialogue: 0,0:01:05.73,0:01:07.94,Default,MOK,0,0,0,,It's not too late to go somewhere else.
+Dialogue: 0,0:01:07.94,0:01:10.48,Default,MOK,0,0,0,,We could visit that \Nmask remover you know...
+Dialogue: 0,0:01:10.48,0:01:13.15,Default,WOMAN,0,0,0,,Excuse me, is this seat taken?
+Dialogue: 0,0:01:13.15,0:01:15.67,Default,WOMAN,0,0,0,,My child is motion sick.
+Dialogue: 0,0:01:15.67,0:01:18.80,Default,SONA,0,0,0,,Go ahead. You can have the window seat.
+Dialogue: 0,0:01:18.80,0:01:20.52,Default,WOMAN,0,0,0,,Thank you.
+Dialogue: 0,0:01:20.52,0:01:22.60,Default,WOMAN,0,0,0,,Go on, say thank you.
+Dialogue: 0,0:01:22.60,0:01:24.31,Default,CHILD,0,0,0,,Thank you.
+Dialogue: 0,0:01:32.80,0:01:35.03,Default,MOK,0,0,0,,I'm going for a smoke.
+Dialogue: 0,0:01:35.39,0:01:39.18,Default,WOMAN,0,0,0,,But... I'm sorry. Thank you.
+Dialogue: 0,0:01:39.18,0:01:42.81,Default,WOMAN,0,0,0,,Are you going to the \Nfestival in Iris as well?
+Dialogue: 0,0:01:42.81,0:01:43.90,Default,MOK,0,0,0,,Festival?
+Dialogue: 0,0:01:44.13,0:01:48.91,Default,WOMAN,0,0,0,,Yes, to celebrate the birthday of Gaston, \None of the three greatest mask makers.
+Dialogue: 0,0:01:48.91,0:01:50.77,Default,MOK,0,0,0,,Oh, really?
+Dialogue: 0,0:01:51.34,0:01:53.45,Default,SONA,0,0,0,,What's the festival like?
+Dialogue: 0,0:01:53.45,0:01:56.13,Default,WOMAN,0,0,0,,People wear masks and have fun.
+Dialogue: 0,0:01:56.13,0:01:58.97,Default,WOMAN,0,0,0,,My son looks forward to it every year.
+Dialogue: 0,0:02:02.04,0:02:03.43,flashback,ZENT,0,0,0,,It's glowing.
+Dialogue: 0,0:02:03.75,0:02:05.15,flashback,APPRENTICES,0,0,0,,Wow!
+Dialogue: 0,0:02:07.69,0:02:09.87,flashback,TANNAN,0,0,0,,Kanna's mask is glowing!
+Dialogue: 0,0:02:10.35,0:02:13.56,flashback,TANNAN,0,0,0,,She's the youngest \Nmask-making prodigy ever!
+Dialogue: 0,0:02:14.11,0:02:19.58,flashback,ZENT,0,0,0,,Kanna, you could be chosen to join our \Nmaster at this year's birthday festival.
+Dialogue: 0,0:02:23.32,0:02:25.53,italics,PERU/NA,0,0,0,,I hadn't thought about it in a while...
+Dialogue: 0,0:02:27.03,0:02:30.86,italics,PERU/NA,0,0,0,,but it was an important memory to me.
+Dialogue: 0,0:04:04.63,0:04:07.97,top,EPTITLE; sign,0,0,0,,EPISODE 6\NSHADOWS OF SNOWDROP
+Dialogue: 0,0:04:08.22,0:04:10.68,top,SIGN,0,0,0,,IRIS
+Dialogue: 0,0:04:20.09,0:04:22.73,Default,PERU,0,0,0,,Sorry we ended up here.
+Dialogue: 0,0:04:22.73,0:04:26.52,Default,SONA,0,0,0,,It's fine. You wanted to see \Nyour hometown again, right?
+Dialogue: 0,0:04:28.20,0:04:29.56,Default,PERU,0,0,0,,I'm not sure about that.
+Dialogue: 0,0:04:30.56,0:04:33.50,Default,SONA,0,0,0,,Peru, is this where...
+Dialogue: 0,0:04:33.50,0:04:34.42,Default,PERU,0,0,0,,Yeah.
+Dialogue: 0,0:04:35.12,0:04:39.33,Default,PERU,0,0,0,,This is where I donned \Nthe Mask of the War God
+Dialogue: 0,0:04:39.33,0:04:42.98,Default,PERU,0,0,0,,and killed my master and \Nfellow apprentices.
+Dialogue: 0,0:04:44.01,0:04:49.14,Default,MOK,0,0,0,,I asked around, and nothing \Nmajor's happened here recently.
+Dialogue: 0,0:04:49.14,0:04:52.47,Default,PERU,0,0,0,,Yeah? First, we should find an inn.
+Dialogue: 0,0:04:52.47,0:04:54.23,Default,PERU,0,0,0,,We can start investigating tomorrow.
+Dialogue: 0,0:04:56.59,0:04:59.37,Default,SONA,0,0,0,,Peru seems hung up on something.
+Dialogue: 0,0:04:59.37,0:05:01.46,Default,MOK,0,0,0,,He's such a serious guy.
+Dialogue: 0,0:05:03.08,0:05:05.75,Default,MOK,0,0,0,,Who knows what's on his mind?
+Dialogue: 0,0:05:08.99,0:05:12.74,top,sign,0,0,0,,ONE OF THE THREE GREAT MASK MAKERS\N GASTON ROUX
+Dialogue: 0,0:05:09.10,0:05:12.75,flashback,GASTON,0,0,0,,There's definitely power in this mask.
+Dialogue: 0,0:05:13.09,0:05:17.46,flashback,GASTON,0,0,0,,You're doing well, Kanna, \Nespecially for someone so young.
+Dialogue: 0,0:05:17.75,0:05:19.92,top,sign,0,0,0,,GASTON'S APPRENTICE\NKANNA
+Dialogue: 0,0:05:19.91,0:05:21.99,flashback,GASTON,0,0,0,,But the real work begins now.
+Dialogue: 0,0:05:22.47,0:05:27.39,flashback,GASTON,0,0,0,,Creating masks with abilities \Nwill require even more study.
+Dialogue: 0,0:05:27.69,0:05:29.67,flashback,GASTON,0,0,0,,Do you understand, Tannan?
+Dialogue: 0,0:05:29.64,0:05:29.68,top,SIGN LEFT,0,0,0,,GASTON'S APPRENTICE: ZENT
+Dialogue: 0,0:05:29.64,0:05:29.68,top,SIGN RIGHT,0,0,0,,GASTON'S APPRENTICE: TANNAN
+Dialogue: 0,0:05:29.67,0:05:34.42,flashback,GASTON,0,0,0,,I get that you're excited,\Nbut Kanna isn't a mask maker yet.
+Dialogue: 0,0:05:34.42,0:05:36.34,flashback,GASTON,0,0,0,,She's just on the verge of becoming one.
+Dialogue: 0,0:05:36.34,0:05:38.06,flashback,TANNAN,0,0,0,,Sorry!
+Dialogue: 0,0:05:38.46,0:05:45.19,flashback,GASTON,0,0,0,,As you know, this year's birthday \Nfestival will be a little different.
+Dialogue: 0,0:05:45.19,0:05:50.79,flashback,GASTON,0,0,0,,The mayor has asked me to introduce \Nmy apprentices at my exhibit.
+Dialogue: 0,0:05:50.79,0:05:52.12,flashback,TANNAN,0,0,0,,Mr. Gaston!
+Dialogue: 0,0:05:52.12,0:05:56.62,flashback,GASTON,0,0,0,,That said, I can only \Nbring a handful of you.
+Dialogue: 0,0:05:56.62,0:05:59.38,flashback,TANNAN,0,0,0,,Who are you gonna take? Zent?
+Dialogue: 0,0:05:59.38,0:06:01.73,flashback,GASTON,0,0,0,,Calm down, Tannan.
+Dialogue: 0,0:06:01.73,0:06:03.43,flashback,GASTON,0,0,0,,I haven't decided yet.
+Dialogue: 0,0:06:03.71,0:06:11.01,flashback,GASTON,0,0,0,,But I'm planning to take those who\Nhave been training the hardest.
+Dialogue: 0,0:06:11.65,0:06:15.06,flashback,GASTON,0,0,0,,It'll be my first time showing my \Napprentices to the rest of the world.
+Dialogue: 0,0:06:15.63,0:06:19.15,flashback,GASTON,0,0,0,,I hope you'll make me proud.
+Dialogue: 0,0:06:20.44,0:06:23.02,flashback,TANNAN,0,0,0,,Well, Peru won't be chosen.
+Dialogue: 0,0:06:23.02,0:06:25.27,flashback,TANNAN,0,0,0,,None of his masks have shone yet.
+Dialogue: 0,0:06:27.71,0:06:31.31,flashback,GASTON,0,0,0,,Enough, Tannan. Peru is still young.
+Dialogue: 0,0:06:31.31,0:06:32.85,flashback,GASTON,0,0,0,,He's got time to learn.
+Dialogue: 0,0:06:36.97,0:06:39.93,flashback,MALE STUDENT,0,0,0,,See you next week, Master.
+Dialogue: 0,0:06:39.93,0:06:41.72,flashback,GASTON,0,0,0,,See you then.
+Dialogue: 0,0:06:45.49,0:06:50.13,flashback,TANNAN,0,0,0,,Are you gonna ask the master \Nfor a new one? No fair.
+Dialogue: 0,0:06:50.13,0:06:50.99,flashback,YOUNG PERU,0,0,0,,I wouldn't—
+Dialogue: 0,0:06:50.99,0:06:55.97,flashback,TANNAN,0,0,0,,I bet you'll get taken to the \Nfestival even if you're not chosen.
+Dialogue: 0,0:06:55.97,0:06:59.92,flashback,TANNAN,0,0,0,,I wish I'd been abandoned \Nand raised by the master.
+Dialogue: 0,0:07:00.62,0:07:04.68,flashback,ZENT,0,0,0,,Idiot, your mom would kill you \Nif she heard you say that.
+Dialogue: 0,0:07:04.68,0:07:06.31,flashback,TANNAN,0,0,0,,Zent...
+Dialogue: 0,0:07:06.31,0:07:09.90,flashback,ZENT,0,0,0,,Peru, you're always moping around.
+Dialogue: 0,0:07:10.27,0:07:13.27,flashback,YOUNG PERU,0,0,0,,Because I suck.
+Dialogue: 0,0:07:15.52,0:07:18.41,flashback,ZENT,0,0,0,,You carved this nicely. Good job.
+Dialogue: 0,0:07:18.82,0:07:20.43,flashback,ZENT,0,0,0,,You could learn from him, Tannan.
+Dialogue: 0,0:07:20.43,0:07:22.05,flashback,TANNAN,0,0,0,,Seriously?
+Dialogue: 0,0:07:23.03,0:07:25.79,flashback,ZENT,0,0,0,,Your masks won't respond \Nto a face like that.
+Dialogue: 0,0:07:25.79,0:07:27.21,flashback,YOUNG PERU,0,0,0,,My face?
+Dialogue: 0,0:07:28.97,0:07:31.94,flashback,ZENT,0,0,0,,Look up, crybaby.
+Dialogue: 0,0:07:32.42,0:07:34.72,flashback,ZENT,0,0,0,,Mask makers aren't crybabies.
+Dialogue: 0,0:07:35.76,0:07:39.06,flashback,ZENT,0,0,0,,Don't let people walk all over you.
+Dialogue: 0,0:07:39.06,0:07:43.03,flashback,ZENT,0,0,0,,Stare down anyone who tries \Nto treat you like a fool.
+Dialogue: 0,0:07:47.31,0:07:50.35,flashback,ZENT,0,0,0,,You're shocked Kanna's \Nmask glowed, aren't you?
+Dialogue: 0,0:07:50.84,0:07:53.77,flashback,YOUNG PERU,0,0,0,,We're the same age.
+Dialogue: 0,0:07:53.77,0:07:57.16,flashback,YOUNG PERU,0,0,0,,I even started training earlier.
+Dialogue: 0,0:07:58.60,0:08:01.06,flashback,ZENT,0,0,0,,Did you know the masks of Darma,
+Dialogue: 0,0:08:01.06,0:08:04.75,flashback,ZENT,0,0,0,,one of the three great mask makers, \Nare on display in the next town over?
+Dialogue: 0,0:08:04.75,0:08:07.76,flashback,ZENT,0,0,0,,A few of us are thinking about \Ntaking the train to see them.
+Dialogue: 0,0:08:07.76,0:08:09.08,flashback,ZENT,0,0,0,,Do you want to come?
+Dialogue: 0,0:08:09.08,0:08:11.57,flashback,TANNAN,0,0,0,,What? Are you serious, Zent?
+Dialogue: 0,0:08:11.57,0:08:14.92,flashback,ZENT,0,0,0,,Master said he's still learning.
+Dialogue: 0,0:08:14.92,0:08:17.58,flashback,YOUNG PERU,0,0,0,,But I can't afford a train ticket.
+Dialogue: 0,0:08:17.58,0:08:23.78,flashback,ZENT,0,0,0,,Don't worry. We can afford tickets \Nif we pool our money. Okay?
+Dialogue: 0,0:08:25.31,0:08:28.37,flashback,ZENT,0,0,0,,Then it's a plan. Don't tell the master.
+Dialogue: 0,0:08:30.77,0:08:32.84,flashback,TANNAN,0,0,0,,Are you seriously taking Peru?
+Dialogue: 0,0:08:32.84,0:08:36.75,flashback,ZENT,0,0,0,,We can't gather enough \Nmoney unless we take Peru.
+Dialogue: 0,0:08:36.75,0:08:38.72,flashback,ZENT,0,0,0,,You should invite more people, too.
+Dialogue: 0,0:08:38.72,0:08:39.46,flashback,TANNAN,0,0,0,,What?!
+Dialogue: 0,0:08:40.51,0:08:44.30,italics,PERU/NA,0,0,0,,Zent was an exceptionally \Ntalented student.
+Dialogue: 0,0:08:44.91,0:08:49.96,italics,PERU/NA,0,0,0,,He was a popular, mischievous, \Nand scary jokester...
+Dialogue: 0,0:08:50.63,0:08:52.27,italics,PERU/NA,0,0,0,,but he was nice sometimes.
+Dialogue: 0,0:08:56.01,0:08:58.09,flashback,KANNA,0,0,0,,Where are you going, Peru?
+Dialogue: 0,0:08:58.57,0:09:01.80,flashback,YOUNG PERU,0,0,0,,What, Kanna? I'm not going anywhere.
+Dialogue: 0,0:09:01.80,0:09:04.53,flashback,KANNA,0,0,0,,Liar. I overheard your conversation.
+Dialogue: 0,0:09:04.53,0:09:06.69,flashback,KANNA,0,0,0,,I'm going with you. Tell me.
+Dialogue: 0,0:09:06.69,0:09:07.61,flashback,YOUNG PERU,0,0,0,,No way.
+Dialogue: 0,0:09:07.61,0:09:08.76,flashback,KANNA,0,0,0,,I'm going!
+Dialogue: 0,0:09:08.76,0:09:11.02,flashback,KANNA,0,0,0,,I'm. Going. Too!
+Dialogue: 0,0:09:56.44,0:09:58.68,flashback,YOUNG PERU,0,0,0,,Come on, wake up.
+Dialogue: 0,0:09:58.68,0:10:00.58,flashback,YOUNG PERU,0,0,0,,You'll hurt yourself if you trip.
+Dialogue: 0,0:10:02.27,0:10:05.36,flashback,AKANE,0,0,0,,Peru? And Kanna, too...
+Dialogue: 0,0:10:05.36,0:10:08.34,flashback,AKANE,0,0,0,,You're up early. Are you going somewhere?
+Dialogue: 0,0:10:08.34,0:10:10.16,flashback,YOUNG PERU,0,0,0,,Uh, um...
+Dialogue: 0,0:10:10.16,0:10:11.48,flashback,KANNA,0,0,0,,Akane!
+Dialogue: 0,0:10:11.48,0:10:16.22,flashback,KANNA,0,0,0,,We're taking the train to the next \Ntown over with Zent and Tannan!
+Dialogue: 0,0:10:16.22,0:10:18.90,flashback,AKANE,0,0,0,,Just the four of you?\NAre any adults going?
+Dialogue: 0,0:10:18.90,0:10:21.05,flashback,KANNA,0,0,0,,We didn't tell Mr. Gaston. It's a secret.
+Dialogue: 0,0:10:28.54,0:10:30.32,flashback,AKANE,0,0,0,,What naughty children.
+Dialogue: 0,0:10:32.49,0:10:34.66,flashback,AKANE,0,0,0,,Hold out your hands.
+Dialogue: 0,0:10:35.60,0:10:36.49,flashback,AKANE,0,0,0,,Here.
+Dialogue: 0,0:10:38.04,0:10:39.90,flashback,KANNA,0,0,0,,Thanks, Akane!
+Dialogue: 0,0:10:40.18,0:10:43.71,flashback,AKANE,0,0,0,,Don't get hurt, and come back safe.
+Dialogue: 0,0:10:43.71,0:10:48.50,flashback,AKANE,0,0,0,,Peru, you're a boy.\N It's your job to protect Kanna.
+Dialogue: 0,0:10:52.28,0:10:53.55,Default,SONA,0,0,0,,Are you going somewhere?
+Dialogue: 0,0:10:53.93,0:10:56.37,Default,PERU,0,0,0,,To visit some graves. \NNot interested, are you?
+Dialogue: 0,0:10:56.95,0:10:59.56,Default,SONA,0,0,0,,Peru, are you okay?
+Dialogue: 0,0:10:59.56,0:11:01.89,Default,SONA,0,0,0,,You don't have to go \Nif it hurts too much.
+Dialogue: 0,0:11:02.32,0:11:08.35,Default,PERU,0,0,0,,I used to see everyone's faces in my \Ndreams every night. It'd keep me up.
+Dialogue: 0,0:11:08.68,0:11:11.19,Default,PERU,0,0,0,,But lately, that's stopped.
+Dialogue: 0,0:11:12.73,0:11:14.82,Default,PERU,0,0,0,,I have to go now that I'm back.
+Dialogue: 0,0:11:14.82,0:11:17.01,Default,PERU,0,0,0,,They'd be angry if I didn't.
+Dialogue: 0,0:11:17.70,0:11:18.74,Default,PERU,0,0,0,,I'll be back.
+Dialogue: 0,0:11:19.58,0:11:22.19,Default,SONA,0,0,0,,Okay. See you later.
+Dialogue: 0,0:11:23.90,0:11:26.05,flashback,ZENT,0,0,0,,What? Is this all?
+Dialogue: 0,0:11:26.05,0:11:28.45,flashback,KANNA,0,0,0,,This isn't enough to take the train.
+Dialogue: 0,0:11:28.77,0:11:31.51,flashback,ZENT,0,0,0,,Tannan, isn't anyone else coming?
+Dialogue: 0,0:11:31.51,0:11:34.48,flashback,TANNAN,0,0,0,,C'mon, Zent, everyone said they're busy.
+Dialogue: 0,0:11:35.30,0:11:37.51,flashback,TANNAN,0,0,0,,What should we do? Go home?
+Dialogue: 0,0:11:38.35,0:11:39.99,flashback,YOUNG PERU,0,0,0,,Let's walk there.
+Dialogue: 0,0:11:41.40,0:11:43.11,flashback,TANNAN,0,0,0,,What are you talking about?
+Dialogue: 0,0:11:43.11,0:11:45.34,flashback,TANNAN,0,0,0,,Do you have any idea how far it is?
+Dialogue: 0,0:11:48.52,0:11:50.73,flashback,ZENT,0,0,0,,No, let's go.
+Dialogue: 0,0:11:50.73,0:11:52.52,flashback,ZENT,0,0,0,,Peru's right.
+Dialogue: 0,0:11:52.52,0:11:55.02,flashback,ZENT,0,0,0,,We can walk there in half a day \Nif we follow the tracks.
+Dialogue: 0,0:11:55.02,0:11:56.90,flashback,ZENT,0,0,0,,We can be back by tonight.
+Dialogue: 0,0:11:56.90,0:11:58.30,flashback,TANNA,0,0,0,,Seriously?
+Dialogue: 0,0:11:59.08,0:12:00.78,flashback,ZENT,0,0,0,,Okay, let's go!
+Dialogue: 0,0:12:15.58,0:12:17.96,top,sign,0,0,0,,MASK OF THE CAT
+Dialogue: 0,0:12:20.59,0:12:22.97,top,sign,0,0,0,,MASK OF THE KITE
+Dialogue: 0,0:12:24.12,0:12:26.93,flashback,TANNAN,0,0,0,,Peru, have you ever seen her?
+Dialogue: 0,0:12:27.13,0:12:31.85,flashback,TANNAN,0,0,0,,There's a woman with huge boobs at \Nthe café at the bottom of the hill.
+Dialogue: 0,0:12:32.19,0:12:36.43,flashback,YOUNG PERU,0,0,0,,I've never seen her. I don't get out much.
+Dialogue: 0,0:12:36.43,0:12:39.13,flashback,TANNAN,0,0,0,,The master doesn't take you anywhere?
+Dialogue: 0,0:12:39.13,0:12:42.93,flashback,YOUNG PERU,0,0,0,,Mr. Gaston always goes \Nsomewhere on our days off.
+Dialogue: 0,0:12:42.93,0:12:47.49,flashback,TANNAN,0,0,0,,Oh, yeah? Then let's \Ngo together sometime.
+Dialogue: 0,0:12:47.77,0:12:49.94,flashback,TANNAN,0,0,0,,I've actually never been either.
+Dialogue: 0,0:12:50.58,0:12:54.38,italics,PERU/NA,0,0,0,,I remember thinking Tannan was just \Na mean older apprentice,
+Dialogue: 0,0:12:54.38,0:12:57.41,italics,PERU/NA,0,0,0,,but sometimes feeling \Nlike he might not be.
+Dialogue: 0,0:12:57.67,0:13:00.13,flashback,ZENT,0,0,0,,What? You ran into Ms. Akane?
+Dialogue: 0,0:13:00.13,0:13:00.75,flashback,KANNA,0,0,0,,Yeah.
+Dialogue: 0,0:13:01.04,0:13:03.49,flashback,ZENT,0,0,0,,Well, shit. She'll tell our master.
+Dialogue: 0,0:13:03.49,0:13:05.14,flashback,ZENT,0,0,0,,We'd better hurry back.
+Dialogue: 0,0:13:37.51,0:13:38.71,flashback,ZENT,0,0,0,,Race you!
+Dialogue: 0,0:13:39.33,0:13:41.40,flashback,KANNA,0,0,0,,Hey, wait!
+Dialogue: 0,0:13:48.72,0:13:49.81,flashback,YOUNG PERU,0,0,0,,Kanna!
+Dialogue: 0,0:13:56.19,0:13:58.24,flashback,KANNA,0,0,0,,Ow!
+Dialogue: 0,0:14:21.43,0:14:24.43,italics,PERU/NA,0,0,0,,Zent didn't want to get in \Ntrouble with the adults,
+Dialogue: 0,0:14:24.43,0:14:29.37,italics,PERU/NA,0,0,0,,so he decided we'd leave the tracks and \Ntake a shortcut to the neighboring town.
+Dialogue: 0,0:14:33.86,0:14:35.79,flashback,TANNAN,0,0,0,,Mask of the Fire Dragon!
+Dialogue: 0,0:14:37.84,0:14:40.18,flashback,TANNAN,0,0,0,,Yes! It caught fire!
+Dialogue: 0,0:14:40.18,0:14:43.74,flashback,KANNA,0,0,0,,Mr. Gaston's Fire Dragon is \Nmore impressive than that.
+Dialogue: 0,0:14:44.03,0:14:47.69,flashback,ZENT,0,0,0,,Sorry, I screwed up. \NI didn't think we'd get lost.
+Dialogue: 0,0:14:48.51,0:14:52.35,flashback,ZENT,0,0,0,,When dawn breaks, we'll retrace \Nour steps and head back to Iris.
+Dialogue: 0,0:14:52.35,0:14:53.15,flashback,YOUNG PERU,0,0,0,,Okay.
+Dialogue: 0,0:14:54.62,0:14:56.44,flashback,KANNA,0,0,0,,I'm hungry.
+Dialogue: 0,0:14:58.11,0:14:59.60,flashback,YOUNG PERU,0,0,0,,You can have this.
+Dialogue: 0,0:14:59.60,0:15:00.54,flashback,KANNA,0,0,0,,I don't want it.
+Dialogue: 0,0:15:00.54,0:15:01.11,flashback,YOUNG PERU,0,0,0,,Huh?
+Dialogue: 0,0:15:01.11,0:15:02.70,flashback,KANNA,0,0,0,,You eat it.
+Dialogue: 0,0:15:04.23,0:15:06.40,flashback,ZENT,0,0,0,,Tannan, where'd you get that bread?
+Dialogue: 0,0:15:06.40,0:15:10.00,flashback,TANNAN,0,0,0,,Huh? I brought it from home \Nin case I got hungry.
+Dialogue: 0,0:15:10.00,0:15:11.52,flashback,ZENT,0,0,0,,Give me some of that!
+Dialogue: 0,0:15:11.52,0:15:12.47,flashback,TANNAN,0,0,0,,No way!
+Dialogue: 0,0:15:12.97,0:15:15.23,flashback,TANNAN,0,0,0,,Hell no!
+Dialogue: 0,0:15:23.57,0:15:26.28,flashback,ZENT,0,0,0,,Kanna, you live in the dorm, right?
+Dialogue: 0,0:15:26.65,0:15:27.90,flashback,ZENT,0,0,0,,Is your home far away?
+Dialogue: 0,0:15:27.90,0:15:30.53,flashback,KANNA,0,0,0,,Yeah, two days by train.
+Dialogue: 0,0:15:30.53,0:15:34.20,flashback,ZENT,0,0,0,,Seriously? I can't believe \Nyour parents allowed that.
+Dialogue: 0,0:15:34.20,0:15:40.72,flashback,KANNA,0,0,0,,My dad wanted to be a mask maker, \Nso he wants me to become one.
+Dialogue: 0,0:15:40.72,0:15:42.22,flashback,ZENT,0,0,0,,You've got a promising future.
+Dialogue: 0,0:15:44.59,0:15:45.66,flashback,TANNAN,0,0,0,,What was that?
+Dialogue: 0,0:15:45.66,0:15:46.84,flashback,ZENT,0,0,0,,Probably a stray dog.
+Dialogue: 0,0:15:46.84,0:15:48.70,flashback,ZENT,0,0,0,,They're afraid of fire.
+Dialogue: 0,0:15:48.70,0:15:50.34,flashback,ZENT,0,0,0,,We'll be fine if we keep the fire going.
+Dialogue: 0,0:15:54.78,0:15:59.47,flashback,ZENT,0,0,0,,I haven't told this to anyone. \NDon't tell the others, okay?
+Dialogue: 0,0:15:59.76,0:16:00.92,flashback,TANNAN,0,0,0,,What is it?
+Dialogue: 0,0:16:00.92,0:16:04.91,flashback,ZENT,0,0,0,,My dream is to become the \Nworld's best mask maker.
+Dialogue: 0,0:16:04.91,0:16:06.76,flashback,YOUNG PERU,0,0,0,,Like Mr. Gaston?
+Dialogue: 0,0:16:06.76,0:16:09.59,flashback,ZENT,0,0,0,,Idiot. Then I wouldn't be the best.
+Dialogue: 0,0:16:11.12,0:16:13.17,flashback,ZENT,0,0,0,,I'm going to surpass him.
+Dialogue: 0,0:16:13.17,0:16:18.23,flashback,ZENT,0,0,0,,I'll surpass all three of the greats \Nand become the number one mask maker.
+Dialogue: 0,0:16:18.23,0:16:22.68,flashback,TANNAN,0,0,0,,That's amazing. I bet no one \Nelse has thought of that.
+Dialogue: 0,0:16:23.94,0:16:28.34,italics,PERU/NA,0,0,0,,Starting with Zent, we began \Ntelling each other our dreams.
+Dialogue: 0,0:16:28.67,0:16:32.19,italics,PERU/NA,0,0,0,,I'd never heard anyone's dreams before,
+Dialogue: 0,0:16:32.19,0:16:36.30,italics,PERU/NA,0,0,0,,so I wanted this moment to \Nlast as long as possible.
+Dialogue: 0,0:16:36.83,0:16:40.38,flashback,TANNAN,0,0,0,,I want to make a dragon \Nand use it to fly.
+Dialogue: 0,0:16:40.38,0:16:42.48,flashback,YOUNG PERU,0,0,0,,That's awesome, Tannan!
+Dialogue: 0,0:16:42.48,0:16:45.46,flashback,TANNAN,0,0,0,,Then I can get away when \Nmy mom gets mad at me.
+Dialogue: 0,0:16:45.46,0:16:48.65,flashback,ZENT,0,0,0,,You'll never make it in a hundred \Nyears if that's your reason.
+Dialogue: 0,0:16:49.10,0:16:50.02,flashback,ZENT,0,0,0,,What about you, Peru?
+Dialogue: 0,0:16:50.02,0:16:51.00,flashback,YOUNG PERU,0,0,0,,Huh?
+Dialogue: 0,0:16:55.57,0:16:58.16,flashback,YOUNG PERU,0,0,0,,Mine's actually the same as yours, Zent.
+Dialogue: 0,0:16:58.16,0:17:02.37,flashback,YOUNG PERU,0,0,0,,I want to surpass our master and become \Nthe world's best mask maker.
+Dialogue: 0,0:17:02.37,0:17:03.65,flashback,TANNAN,0,0,0,,Seriously?
+Dialogue: 0,0:17:03.65,0:17:05.29,flashback,ZENT,0,0,0,,Then we're rivals.
+Dialogue: 0,0:17:09.99,0:17:12.01,flashback,ZENT,0,0,0,,The three of us will take \Nturns standing watch.
+Dialogue: 0,0:17:12.88,0:17:14.00,flashback,ZENT,0,0,0,,Can you do that?
+Dialogue: 0,0:17:14.34,0:17:15.38,flashback,YOUNG PERU,0,0,0,,Yeah.
+Dialogue: 0,0:17:25.72,0:17:28.00,flashback,YOUNG PERU,0,0,0,,Zent, are you awake?
+Dialogue: 0,0:17:28.00,0:17:29.80,flashback,ZENT,0,0,0,,Can't sleep?
+Dialogue: 0,0:17:29.80,0:17:33.05,flashback,YOUNG PERU,0,0,0,,My head feels fuzzy.
+Dialogue: 0,0:17:36.61,0:17:40.19,flashback,ZENT,0,0,0,,Sorry. You wanted to see \NDarma's masks, didn't you?
+Dialogue: 0,0:17:42.65,0:17:46.56,flashback,YOUNG PERU,0,0,0,,What do you think about \Nwhen you make masks?
+Dialogue: 0,0:17:46.56,0:17:49.13,flashback,ZENT,0,0,0,,You want to know my tricks?
+Dialogue: 0,0:17:49.33,0:17:51.16,flashback,ZENT,0,0,0,,There are no shortcuts.
+Dialogue: 0,0:17:51.16,0:17:54.64,flashback,ZENT,0,0,0,,I'm just too good at it. That's all.
+Dialogue: 0,0:17:55.05,0:17:59.51,flashback,ZENT,0,0,0,,Also, I guess I observe \Nliving things closely.
+Dialogue: 0,0:17:59.51,0:18:01.64,flashback,ZENT,0,0,0,,It makes it easier to imagine them.
+Dialogue: 0,0:18:01.64,0:18:04.82,flashback,YOUNG PERU,0,0,0,,You're amazing, Zent.
+Dialogue: 0,0:18:04.82,0:18:07.19,flashback,YOUNG PERU,0,0,0,,The master praised you the other day, too.
+Dialogue: 0,0:18:15.64,0:18:16.70,flashback,YOUNG PERU,0,0,0,,Zent!
+Dialogue: 0,0:18:46.06,0:18:47.50,flashback,ZENT,0,0,0,,Whew.
+Dialogue: 0,0:18:47.50,0:18:48.78,flashback,YOUNG PERU,0,0,0,,Zent...
+Dialogue: 0,0:18:48.78,0:18:52.79,flashback,ZENT,0,0,0,,All this thing does is make noise.
+Dialogue: 0,0:18:52.79,0:18:54.77,flashback,ZENT,0,0,0,,We would've been dead if it attacked us.
+Dialogue: 0,0:18:57.23,0:19:00.02,flashback,ZENT,0,0,0,,H-Hey, why are you crying?
+Dialogue: 0,0:19:00.02,0:19:05.58,flashback,YOUNG PERU,0,0,0,,I don't actually want to \Nbe the best mask maker.
+Dialogue: 0,0:19:05.58,0:19:07.77,flashback,YOUNG PERU,0,0,0,,I don't have any big dreams.
+Dialogue: 0,0:19:07.77,0:19:10.59,flashback,YOUNG PERU,0,0,0,,I just want Mr. Gaston's approval!
+Dialogue: 0,0:19:10.59,0:19:11.90,flashback,ZENT,0,0,0,,Peru.
+Dialogue: 0,0:19:11.90,0:19:14.64,flashback,YOUNG PERU,0,0,0,,I can't do anything right.
+Dialogue: 0,0:19:15.04,0:19:21.18,flashback,YOUNG PERU,0,0,0,,Maybe that's why my parents abandoned me.
+Dialogue: 0,0:19:23.34,0:19:27.29,flashback,ZENT,0,0,0,,You'll learn to make masks, too.\NReal soon, I bet.
+Dialogue: 0,0:19:28.05,0:19:30.41,flashback,ZENT,0,0,0,,So don't cry, crybaby.
+Dialogue: 0,0:19:32.02,0:19:37.19,flashback,ZENT,0,0,0,,I'm not getting along with \Nmy mom. We don't talk much.
+Dialogue: 0,0:19:37.77,0:19:41.95,flashback,ZENT,0,0,0,,But she praised me once \Nwhile I was making a mask.
+Dialogue: 0,0:19:42.86,0:19:46.70,flashback,ZENT,0,0,0,,Seriously, don't tell anyone. \NI'll kill you if you do.
+Dialogue: 0,0:19:48.49,0:19:50.70,flashback,ZENT,0,0,0,,Here. Yours was broken, right?
+Dialogue: 0,0:19:53.01,0:19:54.19,Default,YOUNG PERU,0,0,0,,Are you sure?
+Dialogue: 0,0:19:54.75,0:20:00.09,flashback,ZENT,0,0,0,,After class, you always sneak the master's \Nmasks out and practice carving, right?
+Dialogue: 0,0:20:00.94,0:20:05.20,flashback,ZENT,0,0,0,,Out of all his students,\Nyou study his masks the most.
+Dialogue: 0,0:20:05.20,0:20:08.01,flashback,ZENT,0,0,0,,So your masks will glow, too.
+Dialogue: 0,0:20:08.64,0:20:10.80,flashback,ZENT,0,0,0,,I guarantee it.
+Dialogue: 0,0:20:12.62,0:20:13.74,flashback,YOUNG PERU,0,0,0,,Yeah.
+Dialogue: 0,0:20:19.43,0:20:24.27,italics,PERU/NA,0,0,0,,In the end, we didn't get more than a few \Nkilometers from town before heading home.
+Dialogue: 0,0:20:24.65,0:20:26.42,italics,PERU/NA,0,0,0,,It was a tiny adventure.
+Dialogue: 0,0:20:27.09,0:20:32.63,italics,PERU/NA,0,0,0,,But that day changed my life.
+Dialogue: 0,0:20:33.04,0:20:35.59,italics,PERU/NA,0,0,0,,The master was furious with us.
+Dialogue: 0,0:20:36.22,0:20:41.41,italics,PERU/NA,0,0,0,,It was the only time I \Never saw him that angry.
+Dialogue: 0,0:20:44.46,0:20:47.93,italics,PERU/NA,0,0,0,,Looking back, I think Zent only saw me
+Dialogue: 0,0:20:47.93,0:20:51.52,italics,PERU/NA,0,0,0,,as just another younger apprentice.
+Dialogue: 0,0:20:52.31,0:20:56.43,italics,PERU/NA,0,0,0,,But it was Zent who found me that day.
+Dialogue: 0,0:21:02.52,0:21:03.93,flashback,YOUNG PERU,0,0,0,,Zent!
+Dialogue: 0,0:21:13.35,0:21:15.50,Default,PERU,0,0,0,,I should buy flowers.
+Dialogue: 0,0:21:17.20,0:21:18.71,Default,PERU,0,0,0,,Aw, shit.
+Dialogue: 0,0:21:19.46,0:21:23.22,Default,PERU,0,0,0,,Look up, crybaby.
+Dialogue: 0,0:21:43.52,0:21:45.78,Default,MASTER,0,0,0,,Someone else came.
+Dialogue: 0,0:21:47.44,0:21:49.09,Default,MASTER,0,0,0,,I wonder who it is.
+Dialogue: 0,0:23:20.80,0:23:23.02,italics,SONA/NA,0,0,0,,We arrived in Iris.
+Dialogue: 0,0:23:23.02,0:23:27.46,italics,SONA/NA,0,0,0,,Gaston's birthday festival had \Nthe whole town in high spirits,
+Dialogue: 0,0:23:27.46,0:23:30.33,italics,SONA/NA,0,0,0,,but Peru had something on his mind.
+Dialogue: 0,0:23:30.82,0:23:35.28,italics,SONA/NA,0,0,0,,A mysterious group dressed in \Nblack appeared before us,
+Dialogue: 0,0:23:35.28,0:23:37.59,italics,SONA/NA,0,0,0,,but behind their masks...
+Dialogue: 0,0:23:37.59,0:23:40.93,italics,SONA/NA,0,0,0,,What? Peru, you know that woman?
+Dialogue: 0,0:23:41.31,0:23:45.59,italics,SONA/NA,0,0,0,,Next time, {\i0}The Vermilion Mask {\i1}\NEpisode 7, "The Mask of Spirits."
+Dialogue: 0,0:23:46.61,0:23:49.98,top,sign,0,0,0,,EPISODE 7\NTHE MASK OF NECROMANCY
+Dialogue: 0,0:23:46.03,0:23:48.47,italics,SONA/NA,0,0,0,,The journey of masks begins!
+
