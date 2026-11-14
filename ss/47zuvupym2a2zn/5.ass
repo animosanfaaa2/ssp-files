@@ -1,0 +1,479 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Adobe Arabic,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,10,10,20,1
+Style: italics,Adobe Arabic,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,2,10,10,20,0
+Style: top,Adobe Arabic,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,20,0
+Style: flashback,Adobe Arabic,26,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,1,0,2,10,10,20,1
+Style: sign_generic,Adobe Arabic,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: stats,Courier New,20,&H00FDFFDE,&H000000FF,&H00C3D297,&H00000000,-1,0,0,0,80,100,0,0,1,0,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.64,0:00:04.48,italics,Sei,0,0,0,,،بعد هزيمة ميركوريوس\N،أحد الأنوار السبعة
+Dialogue: 0,0:00:04.93,0:00:07.44,italics,Sei,0,0,0,,،وإعادة الإكسير الذي طلبوه
+Dialogue: 0,0:00:07.79,0:00:11.62,italics,Sei,0,0,0,,.كافأتنا الدولة ومنحتنا المجد والتقدير
+Dialogue: 0,0:00:12.77,0:00:15.44,italics,Sei,0,0,0,,…رغم أنَّنا لم نفعل شيئًا يُذكر
+Dialogue: 0,0:00:16.36,0:00:17.31,flashback,Lufas,0,0,0,,مجد؟
+Dialogue: 0,0:00:17.77,0:00:20.95,flashback,Lufas,0,0,0,,لسنا بحاجة إلى شيء منه\N.لذا شاركوه مع فيرغو
+Dialogue: 0,0:00:21.42,0:00:23.81,italics,Sei,0,0,0,,،وافقت على أن نحظى به
+Dialogue: 0,0:00:23.81,0:00:25.86,italics,Sei,0,0,0,,.لكن ذلك لم يرق لي كثيرًا
+Dialogue: 0,0:00:26.54,0:00:30.00,italics,Sei,0,0,0,,استُدعينا أيضًا لمقابلة\N،الإمبراطور الذي يحكم هذه البلاد
+Dialogue: 0,0:00:30.28,0:00:33.88,italics,Sei,0,0,0,,وكدتُ أُجبَر على الزواج\N.من الأميرة الإمبراطورية
+Dialogue: 0,0:00:33.88,0:00:35.82,italics,Sei,0,0,0,,.كان الأمر على شفا كارثة
+Dialogue: 0,0:00:40.53,0:00:42.64,Default,Virgo,0,0,0,,هل أنت بخير يا سِي-سان؟
+Dialogue: 0,0:00:43.74,0:00:46.36,Default,Sei,0,0,0,,.نعم، لا شيء يُذكر
+Dialogue: 0,0:00:46.36,0:00:47.35,Default,Gantz,0,0,0,,!حسنًا
+Dialogue: 0,0:00:47.35,0:00:51.60,Default,Gantz,0,0,0,,لم يبقَ أمامنا سوى استخدام\N!الإكسير لعلاج التنين الحارس
+Dialogue: 0,0:00:52.41,0:00:56.11,Default,Petto,0,0,0,,.التنين الحارس موجود بعد هذه الغابة مباشرة
+Dialogue: 0,0:00:56.11,0:00:58.08,Default,Petto,0,0,0,,!سأتولّى إرشادكم
+Dialogue: 0,0:00:58.08,0:00:59.19,Default,All,0,0,0,,!حسنًا
+Dialogue: 0,0:02:32.65,0:02:32.68,sign_generic,Sign,0,0,0,,{\shad1\bord0\an2\b1\4c&H453F67&\c&HC6C9D2&\pos(360,309.667)}الحلقة 20
+Dialogue: 0,0:02:32.65,0:02:32.68,sign_generic,Sign,0,0,0,,{\fs16\shad1\bord0\an1\b1\4c&H453F67&\c&HC6C9D2&\pos(438,307)}"ظهرت "الوحوش
+Dialogue: 0,0:02:32.65,0:02:32.68,sign_generic,Sign,0,0,0,,{\shad1\bord0\4c&H564C4E&\c&H11CE1A&\an2\b1\3c&H0C4108&\pos(360,285.667)}الحلقة 20
+Dialogue: 0,0:02:32.65,0:02:32.68,sign_generic,Sign,0,0,0,,{\fs16\shad1\bord0\4c&H564C4E&\c&H11CE1A&\an1\b1\3c&H0C4108&\pos(438,283)}"ظهرت "الوحوش
+Dialogue: 0,0:02:32.68,0:02:32.72,sign_generic,Sign,0,0,0,,{\c&HFEFDFE&\3c&H595C8B&\shad1\bord0\4c&H646F97&\an2\b1\pos(370,333.8)}الحلقة 20
+Dialogue: 0,0:02:32.68,0:02:32.72,sign_generic,Sign,0,0,0,,{\fs16\c&HFEFDFE&\3c&H595C8B&\shad1\bord0\4c&H646F97&\an1\b1\pos(447,330)}"ظهرت "الوحوش
+Dialogue: 0,0:02:32.72,0:02:32.76,sign_generic,Sign,0,0,0,,{\c&HFEFDFE&\3c&H595C8B&\shad1\bord0\4c&H646F97&\an2\b1\pos(370,321.164)}الحلقة 20
+Dialogue: 0,0:02:32.72,0:02:32.76,sign_generic,Sign,0,0,0,,{\fs16\c&HFEFDFE&\3c&H595C8B&\shad1\bord0\4c&H646F97&\an1\b1\pos(444,318)}"ظهرت "الوحوش
+Dialogue: 0,0:02:32.76,0:02:34.50,sign_generic,Sign,0,0,0,,{\an2\c&HFEFDFE&\shad1\bord0\4c&H564C4E&\b1\pos(363,317.001)}20 {\t(3الحلقة,612,\c&H0600A9&)}الحلقة
+Dialogue: 0,0:02:32.76,0:02:34.50,sign_generic,Sign,0,0,0,,{\an1\fs16\c&HFEFDFE&\shad1\bord0\4c&H564C4E&\b1\pos(444,316)\t(3الحلقة,612,\c&H0600A9&)\c&HFEFDFE&}"{\t(3الحلقة,612,\c&H0600A9&)}حوش{\c&HFEFDFE&}ظهرت "الو
+Dialogue: 0,0:02:34.50,0:02:34.54,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\b1\3c&H180E2D&\fs16\pos(448,314)\c&HFEFDFE&}"{\c&H0600A9&}حوش{\c&HFEFDFE&}ظهرت "الو
+Dialogue: 0,0:02:34.50,0:02:34.54,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\b1\3c&H180E2D&\i1\fs16\pos(456,315)\c&HFEFDFE&}"{\c&H0600A9&}حوش{\c&HFEFDFE&}ظهرت "الو
+Dialogue: 0,0:02:34.50,0:02:34.54,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\b1\3c&H5A5455&\pos(356,315.467)}20 {\c&H0600A9&)}الحلقة
+Dialogue: 0,0:02:34.50,0:02:34.54,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\b1\3c&H5A5455&\i1\pos(360,315.467)}20 {\c&H0600A9&)}الحلقة
+Dialogue: 0,0:02:34.54,0:02:34.58,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\b1\3c&H180E2D&\i1\fs16\pos(454,314)\c&HFEFDFE&}"{\c&H0600A9&}حوش{\c&HFEFDFE&}ظهرت "الو
+Dialogue: 0,0:02:34.54,0:02:34.58,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\b1\3c&H180E2D&\i1\fs16\pos(452,315)\c&HFEFDFE&}"{\c&H0600A9&}حوش{\c&HFEFDFE&}ظهرت "الو
+Dialogue: 0,0:02:34.54,0:02:34.58,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\b1\3c&H5A5455&\i1\pos(371,316.667)}20 {\c&H0600A9&)}الحلقة
+Dialogue: 0,0:02:34.54,0:02:34.58,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\b1\3c&H5A5455&\i1\pos(368,316.667)}20 {\c&H0600A9&)}الحلقة
+Dialogue: 0,0:02:34.58,0:02:34.66,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\b1\3c&H180E2D&\fs16\pos(465,316)\c&HFEFDFE&}"{\c&H0600A9&}حوش{\c&HFEFDFE&}ظهرت "الو
+Dialogue: 0,0:02:34.58,0:02:34.66,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\b1\3c&H180E2D&\i1\fs16\pos(459,315)\c&HFEFDFE&}"{\c&H0600A9&}حوش{\c&HFEFDFE&}ظهرت "الو
+Dialogue: 0,0:02:34.58,0:02:34.66,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\b1\3c&H5A5455&\pos(384,317.733)}20 {\c&H0600A9&)}الحلقة
+Dialogue: 0,0:02:34.58,0:02:34.66,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\b1\3c&H5A5455&\i1\pos(378,317.733)}20 {\c&H0600A9&)}الحلقة
+Dialogue: 0,0:02:34.66,0:02:34.71,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\b1\3c&H180E2D&\fs16\pos(458,315)\c&HFEFDFE&}"{\c&H0600A9&}حوش{\c&HFEFDFE&}ظهرت "الو
+Dialogue: 0,0:02:34.66,0:02:34.71,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\b1\3c&H180E2D&\i1\fs16\pos(458,314)\c&HFEFDFE&}"{\c&H0600A9&}حوش{\c&HFEFDFE&}ظهرت "الو
+Dialogue: 0,0:02:34.66,0:02:34.71,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\b1\3c&H5A5455&\pos(383,316.8)}20 {\c&H0600A9&)}الحلقة
+Dialogue: 0,0:02:34.66,0:02:34.71,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\b1\3c&H5A5455&\i1\pos(382,316.8)}20 {\c&H0600A9&)}الحلقة
+Dialogue: 0,0:02:34.71,0:02:34.75,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\b1\3c&H180E2D&\fs16\pos(455,316)\c&HFEFDFE&}"{\c&H0600A9&}حوش{\c&HFEFDFE&}ظهرت "الو
+Dialogue: 0,0:02:34.71,0:02:34.75,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\b1\3c&H180E2D&\i1\fs16\pos(458,315)\c&HFEFDFE&}"{\c&H0600A9&}حوش{\c&HFEFDFE&}ظهرت "الو
+Dialogue: 0,0:02:34.71,0:02:34.75,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\b1\3c&H5A5455&\pos(384,316.933)}20 {\c&H0600A9&)}الحلقة
+Dialogue: 0,0:02:34.71,0:02:34.75,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\b1\3c&H5A5455&\i1\pos(385,316.933)}20 {\c&H0600A9&)}الحلقة
+Dialogue: 0,0:02:34.75,0:02:35.50,sign_generic,Sign,0,0,0,,{\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\b1\3c&H180E2D&\fs16\pos(443,315)\c&HFEFDFE&}"{\c&H0600A9&}حوش{\c&HFEFDFE&}ظهرت "الو
+Dialogue: 0,0:02:34.75,0:02:35.50,sign_generic,Sign,0,0,0,,{\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\b1\3c&H5A5455&\pos(366,315.467)}20 {\c&H0600A9&)}الحلقة
+Dialogue: 0,0:02:35.50,0:02:35.54,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\b1\3c&H180E2D&\fs16\pos(464,315)\c&HFEFDFE&}"{\c&H0600A9&}حوش{\c&HFEFDFE&}ظهرت "الو
+Dialogue: 0,0:02:35.50,0:02:35.54,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\b1\3c&H180E2D&\i1\fs16\pos(464,314)\c&HFEFDFE&}"{\c&H0600A9&}حوش{\c&HFEFDFE&}ظهرت "الو
+Dialogue: 0,0:02:35.50,0:02:35.54,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\b1\3c&H5A5455&\i1\pos(385,317.6)}20 {\c&H0600A9&)}الحلقة
+Dialogue: 0,0:02:35.50,0:02:35.54,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\b1\3c&H5A5455&\pos(385,317.6)}20 {\c&H0600A9&)}الحلقة
+Dialogue: 0,0:02:35.54,0:02:35.58,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\b1\3c&H180E2D&\fs16\pos(455,314)\c&HFEFDFE&}"{\c&H0600A9&}حوش{\c&HFEFDFE&}ظهرت "الو
+Dialogue: 0,0:02:35.54,0:02:35.58,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\b1\3c&H180E2D&\i1\fs16\pos(451,315)\c&HFEFDFE&}"{\c&H0600A9&}حوش{\c&HFEFDFE&}ظهرت "الو
+Dialogue: 0,0:02:35.54,0:02:35.58,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\b1\3c&H5A5455&\pos(380,316)}20 {\c&H0600A9&)}الحلقة
+Dialogue: 0,0:02:35.54,0:02:35.58,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\b1\3c&H5A5455&\i1\pos(376,316)}20 {\c&H0600A9&)}الحلقة
+Dialogue: 0,0:02:35.58,0:02:35.66,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\b1\3c&H180E2D&\i1\fs16\pos(452,315)\c&HFEFDFE&}"{\c&H0600A9&}حوش{\c&HFEFDFE&}ظهرت "الو
+Dialogue: 0,0:02:35.58,0:02:35.66,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\b1\3c&H180E2D&\fs16\pos(450,314)\c&HFEFDFE&}"{\c&H0600A9&}حوش{\c&HFEFDFE&}ظهرت "الو
+Dialogue: 0,0:02:35.58,0:02:35.66,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\b1\3c&H5A5455&\i1\pos(372,318.267)}20 {\c&H0600A9&)}الحلقة
+Dialogue: 0,0:02:35.58,0:02:35.66,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\b1\3c&H5A5455&\pos(370,318.267)}20 {\c&H0600A9&)}الحلقة
+Dialogue: 0,0:02:35.66,0:02:35.71,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\b1\3c&H180E2D&\fs16\pos(458,316)\c&HFEFDFE&}"{\c&H0600A9&}حوش{\c&HFEFDFE&}ظهرت "الو
+Dialogue: 0,0:02:35.66,0:02:35.71,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\b1\3c&H180E2D&\i1\fs16\pos(458,315)\c&HFEFDFE&}"{\c&H0600A9&}حوش{\c&HFEFDFE&}ظهرت "الو
+Dialogue: 0,0:02:35.66,0:02:35.71,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\b1\3c&H5A5455&\pos(379,318.533)}20 {\c&H0600A9&)}الحلقة
+Dialogue: 0,0:02:35.66,0:02:35.71,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\b1\3c&H5A5455&\i1\pos(379,318.533)}20 {\c&H0600A9&)}الحلقة
+Dialogue: 0,0:02:35.71,0:02:35.75,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\b1\3c&H180E2D&\i1\fs16\pos(460,315)\c&HFEFDFE&}"{\c&H0600A9&}حوش{\c&HFEFDFE&}ظهرت "الو
+Dialogue: 0,0:02:35.71,0:02:35.75,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\b1\3c&H180E2D&\fs16\pos(461,314)\c&HFEFDFE&}"{\c&H0600A9&}حوش{\c&HFEFDFE&}ظهرت "الو
+Dialogue: 0,0:02:35.71,0:02:35.75,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\b1\3c&H5A5455&\i1\pos(385,316.666)}20 {\c&H0600A9&)}الحلقة
+Dialogue: 0,0:02:35.71,0:02:35.75,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\b1\3c&H5A5455&\pos(386,316.666)}20 {\c&H0600A9&)}الحلقة
+Dialogue: 0,0:02:35.75,0:02:37.51,sign_generic,Sign,0,0,0,,{\fad(0,538)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\b1\3c&H180E2D&\fs16\pos(444,315)\c&HFEFDFE&}"{\c&H0600A9&}حوش{\c&HFEFDFE&}ظهرت "الو
+Dialogue: 0,0:02:35.75,0:02:37.51,sign_generic,Sign,0,0,0,,{\fad(0,538)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\b1\3c&H5A5455&\pos(365,316.667)}20 {\c&H0600A9&)}الحلقة
+Dialogue: 0,0:02:48.17,0:02:48.97,Default,Sei,0,0,0,,.فيرغو-سان
+Dialogue: 0,0:02:48.97,0:02:50.35,Default,Virgo,0,0,0,,ما الأمر؟
+Dialogue: 0,0:02:50.81,0:02:52.46,Default,Sei,0,0,0,,هل تحبّين الغابات؟
+Dialogue: 0,0:02:53.86,0:02:55.88,Default,Virgo,0,0,0,,.يكفي أن تناديني فيرغو
+Dialogue: 0,0:02:55.88,0:02:57.98,Default,Virgo,0,0,0,,.يحرجني أن تخاطبني بهذه الرسمية
+Dialogue: 0,0:02:57.98,0:02:59.66,Default,Sei,0,0,0,,!حسنًا
+Dialogue: 0,0:03:00.53,0:03:05.09,Default,Virgo,0,0,0,,عشتُ في الغابة منذ\N.أن فتحتُ عينيّ على الدنيا
+Dialogue: 0,0:03:05.44,0:03:08.58,Default,Virgo,0,0,0,,.لذا أجد الغابة مكانًا مريحًا جدًا
+Dialogue: 0,0:03:09.62,0:03:11.76,Default,Kross,0,0,0,,.هذا غير مألوف
+Dialogue: 0,0:03:12.48,0:03:13.58,Default,Kross,0,0,0,,ذوي الأجنحة السماوية
+Dialogue: 0,0:03:13.84,0:03:17.14,Default,Kross,0,0,0,,لا يحبّون الغابات كثيرًا\N.لأنّها مشبعة بالمانا
+Dialogue: 0,0:03:17.95,0:03:20.14,Default,Virgo,0,0,0,,.لا يزعجني ذلك
+Dialogue: 0,0:03:20.14,0:03:22.96,Default,Virgo,0,0,0,,لكنّني سمعتُ أنَّ \Nالمجنّحين السماويين العاديين
+Dialogue: 0,0:03:22.96,0:03:25.60,Default,Virgo,0,0,0,,يعيشون فوق قمم الجبال\N.حيث يصعب تراكم المانا
+Dialogue: 0,0:03:26.77,0:03:27.92,Default,Kross,0,0,0,,،في هذه الحالة
+Dialogue: 0,0:03:27.92,0:03:30.71,Default,Kross,0,0,0,,.لعلّ ذلك يعود إلى تأثير والديكِ
+Dialogue: 0,0:03:31.08,0:03:33.69,Default,Kross,0,0,0,,،عندما يمتص الوالدان الكثير من المانا
+Dialogue: 0,0:03:33.69,0:03:35.28,Default,Kross,0,0,0,,يؤدّي ذلك أحيانًا لظهور مجنّح سماوي
+Dialogue: 0,0:03:35.28,0:03:37.94,Default,Kross,0,0,0,,.لا ينفر من المانا
+Dialogue: 0,0:03:38.32,0:03:40.90,Default,Kross,0,0,0,,.مثل لوفاس مافاهل
+Dialogue: 0,0:03:43.00,0:03:45.95,Default,Kross,0,0,0,,لا تزال هناك سجلات\N.تذكُر أنَّها دخلت هيلهيم
+Dialogue: 0,0:03:46.38,0:03:50.03,Default,Kross,0,0,0,,التي تفيض بمانا كثيفة\N.دون أن يرفّ لها جفن
+Dialogue: 0,0:03:51.41,0:03:54.42,Default,Sei,0,0,0,,لكن جناحي فيرغو أبيضان ناصعان؟
+Dialogue: 0,0:03:54.42,0:03:55.13,Default,Kross,0,0,0,,.نعم
+Dialogue: 0,0:03:55.41,0:03:57.05,Default,Kross,0,0,0,,التغييرات التي تُسبّبها المانا
+Dialogue: 0,0:03:57.05,0:04:00.35,Default,Kross,0,0,0,,.لا تظهر بالضرورة على المظهر الخارجي
+Dialogue: 0,0:04:00.35,0:04:02.65,Default,Kross,0,0,0,,يُقال أنَّ والدي لوفاس كليهما
+Dialogue: 0,0:04:02.65,0:04:04.98,Default,Kross,0,0,0,,.كانا يمتلكان جناحين أبيضين أيضًا
+Dialogue: 0,0:04:06.13,0:04:08.08,Default,Sei,0,0,0,,،إذًا، بخلاف لوفاس
+Dialogue: 0,0:04:08.08,0:04:10.88,Default,Sei,0,0,0,,،لم يطرأ أيّ تغيير على هيئة فيرغو
+Dialogue: 0,0:04:10.88,0:04:13.52,Default,Sei,0,0,0,,لذا احتفظت بجناحيها الأبيضين الناصعين؟
+Dialogue: 0,0:04:13.84,0:04:15.84,Default,Kross,0,0,0,,.هذا أحد الاحتمالات
+Dialogue: 0,0:04:17.74,0:04:19.18,italics,Sei,0,0,0,,،إن صحّ ذلك
+Dialogue: 0,0:04:19.18,0:04:23.15,italics,Sei,0,0,0,,فهذا يعني أنَّ والدي فيرغو\N.امتصّا كمية كبيرة من المانا
+Dialogue: 0,0:04:23.38,0:04:26.08,italics,Sei,0,0,0,,فيرغو حفيدة أحد النجوم\Nالسماوية الاثني عشر، صحيح؟
+Dialogue: 0,0:04:26.08,0:04:29.54,italics,Sei,0,0,0,,لحظة، لكنّها قالت أيضًا أنّها\Nنشأت تحت  رعاية بارثينوس، صحيح؟
+Dialogue: 0,0:04:30.73,0:04:33.21,italics,Sei,0,0,0,,هذا يعني أنَّ والديها…؟
+Dialogue: 0,0:04:36.46,0:04:37.66,Default,Petto,0,0,0,,!إنّه على مقربة من هنا
+Dialogue: 0,0:04:37.66,0:04:39.42,Default,Petto,0,0,0,,!التنين الحارس موجود هناك
+Dialogue: 0,0:04:39.82,0:04:40.71,Default,All,0,0,0,,!نعم
+Dialogue: 0,0:04:52.60,0:04:55.45,Default,Petto,0,0,0,,ا-التنين الحارس؟
+Dialogue: 0,0:04:57.26,0:04:58.96,Default,Petto,0,0,0,,كيف يعقل هذا؟
+Dialogue: 0,0:04:59.85,0:05:01.75,Default,Petto,0,0,0,,…مـ-مَن
+Dialogue: 0,0:05:01.75,0:05:03.99,Default,Petto,0,0,0,,!من الذي فعل هذا؟
+Dialogue: 0,0:05:03.99,0:05:05.05,Default,Lamia,0,0,0,,عجبًا؟
+Dialogue: 0,0:05:05.05,0:05:08.45,Default,Lamia,0,0,0,,.قلّما يزورنا أحد في هذه الغابة
+Dialogue: 0,0:05:11.17,0:05:15.12,Default,Merman,0,0,0,,يبدو أنَّكم أتيتم لعلاج\N.مرض التنين الحارس
+Dialogue: 0,0:05:15.12,0:05:17.46,Default,Merman,0,0,0,,!لكن لا جدوى الآن
+Dialogue: 0,0:05:18.04,0:05:19.63,Default,Petto,0,0,0,,!اللّعنة عليكم يا وحوش
+Dialogue: 0,0:05:19.63,0:05:21.50,Default,Petto,0,0,0,,!ابتعدوا عن التنين الحارس
+Dialogue: 0,0:05:22.65,0:05:23.46,Default,Sei,0,0,0,,وحوش"؟"
+Dialogue: 0,0:05:23.92,0:05:25.09,Default,Sei,0,0,0,,!هؤلاء؟
+Dialogue: 0,0:05:26.73,0:05:28.06,Default,Sargess,0,0,0,,وحوش إذًا؟
+Dialogue: 0,0:05:28.06,0:05:29.37,Default,Sargess,0,0,0,,.أظنّ هذا صحيحًا
+Dialogue: 0,0:05:29.37,0:05:32.09,Default,Sargess,0,0,0,,.نحن وحوش في نظر العالم الحالي
+Dialogue: 0,0:05:32.09,0:05:34.89,Default,Sargess,0,0,0,,.هكذا صنّفنا الآخرون
+Dialogue: 0,0:05:35.53,0:05:40.61,Default,Sargess,0,0,0,,لكن ما الفرق بيننا وبينكم؟
+Dialogue: 0,0:05:41.36,0:05:44.95,Default,Sargess,0,0,0,,.نحن قادرون على التحدث معكم
+Dialogue: 0,0:05:44.95,0:05:47.95,Default,Sargess,0,0,0,,نستطيع التفاهم فيما بيننا والتقارب
+Dialogue: 0,0:05:47.95,0:05:51.53,Default,Sargess,0,0,0,,نحن مثلكم ولا اختلاف\N.بيننا سوى المظهر
+Dialogue: 0,0:05:52.47,0:05:54.04,italics,Sei,0,0,0,,…هؤلاء الأشخاص
+Dialogue: 0,0:05:55.87,0:05:57.32,Default,Petto,0,0,0,,!اصمتوا يا وحوش
+Dialogue: 0,0:05:57.32,0:05:59.72,Default,Petto,0,0,0,,أتمزحون بادعائكم أنّكم\Nقادرون على التعايش معنا
+Dialogue: 0,0:05:59.72,0:06:01.59,Default,Petto,0,0,0,,بعد أن آذيتم التنين\N!الحارس إلى هذا الحدّ؟
+Dialogue: 0,0:06:05.38,0:06:07.06,Default,Lamia,0,0,0,,.كفى يا رقيب
+Dialogue: 0,0:06:07.40,0:06:11.85,Default,Lamia,0,0,0,,بادرنا للتحرّك لأنّهم ظلوا يتجاهلون\N.تلك المطالبات قرونًا طويلة
+Dialogue: 0,0:06:11.85,0:06:15.01,Default,Lamia,0,0,0,,السيّد ليون هو الوحيد القادر\N!على إنقاذنا الآن
+Dialogue: 0,0:06:15.01,0:06:17.53,Default,Lamia,0,0,0,,!لم يعد بوسعنا الاعتماد على البشر
+Dialogue: 0,0:06:18.06,0:06:19.12,Default,Kross,0,0,0,,!محال
+Dialogue: 0,0:06:19.43,0:06:21.37,Default,Sei,0,0,0,,من هو ليون يا كروس-سان؟
+Dialogue: 0,0:06:21.86,0:06:24.78,Default,Kross,0,0,0,,أحد النجوم السماوية الاثني\N.عشر، ليون الأسد
+Dialogue: 0,0:06:25.45,0:06:28.74,Default,Kross,0,0,0,,في العالم الذي سبق صعود\Nلوفاس مافاهل إلى السلطة
+Dialogue: 0,0:06:28.74,0:06:31.22,Default,Kross,0,0,0,,كان أحد الأربعة الأبرز الذين\N!حافظوا على توازن القوّة
+Dialogue: 0,0:06:31.22,0:06:33.05,Default,Kross,0,0,0,,إنّه الأقوى بين النجوم \N،السماوية الاثني عشر
+Dialogue: 0,0:06:33.05,0:06:36.00,Default,Kross,0,0,0,,!الملك الأسد الذي يحكم كلّ الوحوش
+Dialogue: 0,0:06:36.98,0:06:39.76,Default,Dryad,0,0,0,,لم يعد السيّد ليون واحدًا\N،من النجوم السماوية الاثني عشر
+Dialogue: 0,0:06:39.76,0:06:41.98,Default,Dryad,0,0,0,,!وعاد مستواه إلى ألف
+Dialogue: 0,0:06:41.98,0:06:44.06,Default,Dryad,0,0,0,,،لو صار السيّد ليون جادًا
+Dialogue: 0,0:06:44.06,0:06:46.18,Default,Dryad,0,0,0,,،لسحق البشر وقوم الشياطين معًا
+Dialogue: 0,0:06:46.18,0:06:48.42,Default,Dryad,0,0,0,,!فاتحًا لنا بذلك عهدًا جديدًا
+Dialogue: 0,0:06:50.88,0:06:54.60,Default,Sargess,0,0,0,,!نحن من نسعى إلى إصلاح هذا العالم
+Dialogue: 0,0:06:54.60,0:06:58.68,Default,Merman,0,0,0,,وقد أتينا إلى هنا لقتل\N!التنين الحارس، إعلانًا للحرب
+Dialogue: 0,0:06:58.68,0:06:59.52,Default,Lamia,0,0,0,,!مهلًا
+Dialogue: 0,0:06:59.52,0:07:01.78,Default,Lamia,0,0,0,,!لا تتفوه بما لا ينبغي لك قوله
+Dialogue: 0,0:07:01.78,0:07:03.48,Default,Dryad,0,0,0,,!لا بأس
+Dialogue: 0,0:07:03.48,0:07:05.69,Default,Dryad,0,0,0,,يكفي أن نخرسهم
+Dialogue: 0,0:07:06.33,0:07:07.65,Default,Dryad,0,0,0,,!هنا والآن
+Dialogue: 0,0:07:21.50,0:07:23.38,Default,Dryad,0,0,0,,،تمامًا كما قال السيّد ليون
+Dialogue: 0,0:07:23.38,0:07:26.17,Default,Dryad,0,0,0,,!البشرية المعاصرة ضعيفة جدًا
+Dialogue: 0,0:07:26.17,0:07:28.32,italics,Sei,0,0,0,,ضـ-ضعيفة؟
+Dialogue: 0,0:07:28.32,0:07:30.67,italics,Sei,0,0,0,,!هذا أقوى مقاتلي البشرية، قديس السيف
+Dialogue: 0,0:07:31.07,0:07:33.39,italics,Sei,0,0,0,,!وتغلّبوا عليه بهذه السهولة؟
+Dialogue: 0,0:07:31.32,0:07:33.39,stats,Sign,0,0,0,,{\fs9\c&HFCFDFF&\fad(90,0)\t(90,257,\c&HFCFFDF&)\4c&HFAFE7F&\t(90,257,\4c&HB9C45F&)\3c&HFAFE7F&\t(90,257,\3c&HB9C45F&)\bord1.5\shad\pos(129.286,275.429)}قوم الحشرات
+Dialogue: 0,0:07:31.32,0:07:33.39,stats,Sign,0,0,0,,{\fs12\c&HFCFDFF&\fad(90,0)\t(90,257,\c&HFCFFDF&)\4c&HFAFE7F&\t(90,257,\4c&HB9C45F&)\3c&HFAFE7F&\t(90,257,\3c&HB9C45F&)\bord1.5\shad\pos(115.571,307.571)}سارجيس
+Dialogue: 0,0:07:31.32,0:07:33.39,stats,Sign,0,0,0,,{\fs9\c&HFCFDFF&\fad(90,0)\t(90,257,\c&HFCFFDF&)\4c&HFAFE7F&\t(90,257,\4c&HB9C45F&)\3c&HFAFE7F&\t(90,257,\3c&HB9C45F&)\bord1.5\shad\pos(489.286,61.714)}قوم النباتات
+Dialogue: 0,0:07:31.32,0:07:33.39,stats,Sign,0,0,0,,{\fs12\c&HFCFDFF&\fad(90,0)\t(90,257,\c&HFCFFDF&)\4c&HFAFE7F&\t(90,257,\4c&HB9C45F&)\3c&HFAFE7F&\t(90,257,\3c&HB9C45F&)\bord1.5\shad\pos(461.857,93.857)}جنية غابة
+Dialogue: 0,0:07:33.39,0:07:35.85,Default,Gantz,0,0,0,,!لا تتهاونوا
+Dialogue: 0,0:07:37.24,0:07:38.06,stats,Sign,0,0,0,,{\fs9\c&HFCFDFF&\fad(90,0)\t(90,257,\c&HFCFFDF&)\4c&HFAFE7F&\t(90,257,\4c&HB9C45F&)\3c&HFAFE7F&\t(90,257,\3c&HB9C45F&)\bord1.5\shad\pos(481.285,293.714)}قوم السمك
+Dialogue: 0,0:07:37.24,0:07:38.06,stats,Sign,0,0,0,,{\fs12\c&HFCFDFF&\fad(90,0)\t(90,257,\c&HFCFFDF&)\4c&HFAFE7F&\t(90,257,\4c&HB9C45F&)\3c&HFAFE7F&\t(90,257,\3c&HB9C45F&)\bord1.5\shad\pos(466.429,326.857)}حوري بحر
+Dialogue: 0,0:07:46.71,0:07:48.53,stats,Sign,0,0,0,,{\fs9\c&HFCFDFF&\fad(90,0)\t(90,257,\c&HFCFFDF&)\4c&HFAFE7F&\t(90,257,\4c&HB9C45F&)\3c&HFAFE7F&\t(90,257,\3c&HB9C45F&)\bord1.5\shad\pos(160.714,70.286)}قوم الأفاعي
+Dialogue: 0,0:07:46.71,0:07:48.53,stats,Sign,0,0,0,,{\fs12\c&HFCFDFF&\fad(90,0)\t(90,257,\c&HFCFFDF&)\4c&HFAFE7F&\t(90,257,\4c&HB9C45F&)\3c&HFAFE7F&\t(90,257,\3c&HB9C45F&)\bord1.5\shad\pos(132.714,106.286)}لاميا
+Dialogue: 0,0:08:08.92,0:08:11.38,Default,Gantz,0,0,0,,!عالجيهم أولًا قبل أن تعالجينا
+Dialogue: 0,0:08:11.38,0:08:14.09,Default,Virgo,0,0,0,,!جروحكم ليست بالهينة
+Dialogue: 0,0:08:14.09,0:08:14.89,Default,Virgo,0,0,0,,…إن لم أعالجكم
+Dialogue: 0,0:08:20.98,0:08:23.56,Default,Dryad,0,0,0,,.أنتِ ماهرة جدًا
+Dialogue: 0,0:08:25.27,0:08:27.92,Default,Lamia,0,0,0,,.مستوى تلك الفتاة أعلى من مستوانا
+Dialogue: 0,0:08:28.48,0:08:31.69,Default,Lamia,0,0,0,,.لكنّها تبدو غير معتادة على القتال
+Dialogue: 0,0:08:41.46,0:08:42.04,Default,Sei,0,0,0,,!فيرغو
+Dialogue: 0,0:08:44.96,0:08:46.11,Default,Sei,0,0,0,,!هل أنت بخير؟
+Dialogue: 0,0:08:46.11,0:08:47.24,Default,Virgo,0,0,0,,.نـ-نعم
+Dialogue: 0,0:08:47.67,0:08:49.94,Default,Lamia,0,0,0,,!آسفة لكن حان وقت موتك
+Dialogue: 0,0:08:50.92,0:08:52.05,Default,Lamia,0,0,0,,!قذيفة الماء
+Dialogue: 0,0:08:57.39,0:08:58.35,Default,Lamia,0,0,0,,!من أنت؟
+Dialogue: 0,0:08:59.69,0:09:00.68,Default,Castor,0,0,0,,من أنا؟
+Dialogue: 0,0:09:01.56,0:09:03.53,Default,Castor,0,0,0,,.لستُ شخصًا يستحق الذكر
+Dialogue: 0,0:09:03.96,0:09:08.07,Default,Castor,0,0,0,,مجرد رجل بائس تحطمت\Nسفينته بمقربة
+Dialogue: 0,0:09:08.07,0:09:09.72,Default,Castor,0,0,0,,.إثر حادث بسيط
+Dialogue: 0,0:09:10.62,0:09:11.89,Default,Castor,0,0,0,,،مع ذلك
+Dialogue: 0,0:09:11.89,0:09:14.94,Default,Castor,0,0,0,,يبدو أنَّ هذا موقف\N.لا يمكنني تجاهله
+Dialogue: 0,0:09:16.54,0:09:18.08,Default,Castor,0,0,0,,،لا أعلم ما الذي يجري
+Dialogue: 0,0:09:18.08,0:09:20.58,Default,Castor,0,0,0,,.لكنّني قرّرتُ التدخل حاليًا
+Dialogue: 0,0:09:32.92,0:09:35.45,Default,Sargess,0,0,0,,!هذا الرجل قوي
+Dialogue: 0,0:09:35.88,0:09:38.78,Default,Dryad,0,0,0,,!لكنّه يبدو مصابًا
+Dialogue: 0,0:09:38.78,0:09:40.06,Default,Dryad,0,0,0,,رجل يحتضر مثله
+Dialogue: 0,0:09:40.06,0:09:42.03,Default,Dryad,0,0,0,,!سيسهل علينا القضاء عليه
+Dialogue: 0,0:09:42.03,0:09:42.68,Default,Sargess,0,0,0,,!مهلًا
+Dialogue: 0,0:09:44.08,0:09:47.29,Default,Merman,0,0,0,,!بوسعنا الفوز عليه نحن الأربعة مجتمعين
+Dialogue: 0,0:09:53.15,0:09:54.36,Default,Castor,0,0,0,,!بتارميغان
+Dialogue: 0,0:10:01.79,0:10:04.32,Default,Castor,0,0,0,,.تعمّدتُ الإبقاء على حياتكم
+Dialogue: 0,0:10:04.73,0:10:07.29,Default,Castor,0,0,0,,،لكن إن أصررتم على مواصلة القتال
+Dialogue: 0,0:10:08.50,0:10:11.30,Default,Castor,0,0,0,,.فعليكم أن تستعدوا لأن أغيّر قراري
+Dialogue: 0,0:10:14.59,0:10:17.07,Default,Castor,0,0,0,,والآن، هل ستواصلون القتال؟
+Dialogue: 0,0:10:18.47,0:10:19.59,Default,Sargess,0,0,0,,.سننسحب
+Dialogue: 0,0:10:19.59,0:10:20.89,Default,Dryad,0,0,0,,!جديًا؟
+Dialogue: 0,0:10:20.89,0:10:22.77,Default,Dryad,0,0,0,,!لن أتهاون المرّة القادمة
+Dialogue: 0,0:10:22.77,0:10:24.57,Default,Sargess,0,0,0,,.حقّقنا هدفنا بالفعل
+Dialogue: 0,0:10:24.57,0:10:26.78,Default,Sargess,0,0,0,,.لا فائدة من إطالة بقائنا هنا
+Dialogue: 0,0:10:28.28,0:10:29.10,Default,Lamia,0,0,0,,.لنذهب
+Dialogue: 0,0:10:29.10,0:10:30.23,Default,Dryad,0,0,0,,.حسنًا
+Dialogue: 0,0:10:32.52,0:10:33.84,Default,Sei,0,0,0,,!مـ-مهلًا
+Dialogue: 0,0:10:33.84,0:10:35.10,Default,Sei,0,0,0,,!هل أنتم…؟
+Dialogue: 0,0:10:48.41,0:10:50.12,Default,Kross,0,0,0,,.جروحهم عميقة جدًا
+Dialogue: 0,0:10:51.50,0:10:53.10,Default,Kross,0,0,0,,.أستطيع تقديم إسعافات أولية فقط
+Dialogue: 0,0:10:54.49,0:10:56.01,Default,Virgo,0,0,0,,.شفاء أعظم
+Dialogue: 0,0:11:07.24,0:11:08.93,Default,Virgo,0,0,0,,!لـ-لا يعقل
+Dialogue: 0,0:11:09.20,0:11:11.40,Default,Virgo,0,0,0,,جروحه… لا تلتئم؟
+Dialogue: 0,0:11:11.40,0:11:12.57,Default,Petto,0,0,0,,.نعم
+Dialogue: 0,0:11:12.57,0:11:15.77,Default,Petto,0,0,0,,جروحه عميقة جدًا حتّى أنَّ\N.فنون السماء تعجز عن شفائها
+Dialogue: 0,0:11:16.28,0:11:17.90,Default,Petto,0,0,0,,…لكن باستخدام الإكسير
+Dialogue: 0,0:11:18.21,0:11:21.49,Default,Petto,0,0,0,,إن أعطينا التنين الحارس\N،جرعة الإكسير كاملة
+Dialogue: 0,0:11:21.49,0:11:22.65,Default,Petto,0,0,0,,!…فلا بدّ أنّه
+Dialogue: 0,0:11:34.13,0:11:35.29,Default,Virgo,0,0,0,,…سِي
+Dialogue: 0,0:11:55.67,0:11:58.59,Default,Petto,0,0,0,,لِم… لا يتعافى؟
+Dialogue: 0,0:12:00.07,0:12:01.19,Default,Kross,0,0,0,,،يا جماعة
+Dialogue: 0,0:12:01.59,0:12:03.26,Default,Kross,0,0,0,,.أنصتوا إليّ جيدًا
+Dialogue: 0,0:12:03.26,0:12:04.56,Default,Kross,0,0,0,,…الإكسير
+Dialogue: 0,0:12:05.34,0:12:08.33,Default,Kross,0,0,0,,.لا يؤثر إلّا في الأحياء
+Dialogue: 0,0:12:08.89,0:12:11.32,Default,Kross,0,0,0,,…أمّا التنين الحارس فقد
+Dialogue: 0,0:12:14.87,0:12:17.21,Default,Petto,0,0,0,,!…لا يعقل! هذا
+Dialogue: 0,0:12:19.78,0:12:21.17,Default,Petto,0,0,0,,،يا سيّدة فيرغو
+Dialogue: 0,0:12:21.17,0:12:24.38,Default,Petto,0,0,0,,أنتِ إحدى حليفات لوفاس، صحيح؟
+Dialogue: 0,0:12:24.38,0:12:25.76,Default,Petto,0,0,0,,!ألا يمكنك فعل أيّ شيء؟
+Dialogue: 0,0:12:25.76,0:12:27.64,Default,Petto,0,0,0,,…بالقوّة التي تملكينها
+Dialogue: 0,0:12:27.64,0:12:28.94,Default,Virgo,0,0,0,,!أنا آسفة
+Dialogue: 0,0:12:28.94,0:12:30.14,Default,Virgo,0,0,0,,…أنا
+Dialogue: 0,0:12:30.14,0:12:33.69,Default,Virgo,0,0,0,,.الأقل مستوى والأضعف بين جميعهم
+Dialogue: 0,0:12:36.68,0:12:37.90,Default,Petto,0,0,0,,!اللّعنة
+Dialogue: 0,0:12:37.90,0:12:40.62,Default,Petto,0,0,0,,!اللّعنة عليكم يا وحوش
+Dialogue: 0,0:12:47.44,0:12:50.24,Default,Castor,0,0,0,,هل أنت من معارف سيّدتي لوفاس؟
+Dialogue: 0,0:12:52.50,0:12:53.58,Default,Virgo,0,0,0,,.نعم
+Dialogue: 0,0:12:55.69,0:12:56.93,Default,Castor,0,0,0,,.فهمت
+Dialogue: 0,0:13:05.96,0:13:07.72,Default,Virgo,0,0,0,,عفوًا، ما هذا؟
+Dialogue: 0,0:13:08.25,0:13:09.56,Default,Castor,0,0,0,,.أمريتا
+Dialogue: 0,0:13:09.95,0:13:11.91,Default,Kross,0,0,0,,!أ-أمريتا
+Dialogue: 0,0:13:11.91,0:13:13.52,Default,Kross,0,0,0,,!أتعني أمريتا تلك؟
+Dialogue: 0,0:13:13.76,0:13:14.68,Default,Castor,0,0,0,,.نعم
+Dialogue: 0,0:13:14.68,0:13:17.47,Default,Castor,0,0,0,,،تأثيرها يفوق تأثير الإكسير
+Dialogue: 0,0:13:17.47,0:13:19.42,Default,Castor,0,0,0,,،وإن استُخدمت بعد الوفاة بوقت قصير
+Dialogue: 0,0:13:19.81,0:13:22.65,Default,Castor,0,0,0,,.فإنّها قادرة حتّى على إعادة الميت
+Dialogue: 0,0:13:22.65,0:13:26.66,Default,Castor,0,0,0,,إنّها تحفة لم تستطع حتّى سيّدتي لوفاس\N.صنع سوى عدد قليل منها
+Dialogue: 0,0:13:22.65,0:13:24.16,top,Kross,0,0,0,,!أمـ-أمريتا؟
+Dialogue: 0,0:13:44.88,0:13:46.84,Default,Petto,0,0,0,,!التنين الحارس
+Dialogue: 0,0:13:47.96,0:13:49.30,Default,Vicecaptain,0,0,0,,!جميل
+Dialogue: 0,0:13:49.57,0:13:51.57,Default,Castor,0,0,0,,،هذه هدية متواضعة لا أكثر
+Dialogue: 0,0:13:51.57,0:13:54.25,Default,Castor,0,0,0,,لكن أرجو أن تقبليها\N.تعبيرًا عن تهنئتي لكِ
+Dialogue: 0,0:13:55.10,0:13:58.77,Default,Castor,0,0,0,,.يبدو أنّك إحدى رفاقي الجدد
+Dialogue: 0,0:13:58.77,0:13:59.69,Default,Virgo,0,0,0,,…هذا يعني أنّك
+Dialogue: 0,0:13:59.69,0:14:01.31,Default,Petto,0,0,0,,!يا رجل
+Dialogue: 0,0:14:01.31,0:14:02.31,Default,Petto,0,0,0,,!أنا ممتن لك
+Dialogue: 0,0:14:02.31,0:14:03.69,Default,Petto,0,0,0,,،لا أعرف من تكون
+Dialogue: 0,0:14:03.69,0:14:05.74,Default,Petto,0,0,0,,!لكنّك أنقذتَ وطننا
+Dialogue: 0,0:14:05.74,0:14:08.62,Default,Castor,0,0,0,,.عذرًا على تأخري في تقديم نفسي
+Dialogue: 0,0:14:08.62,0:14:09.61,Default,Castor,0,0,0,,…أنا
+Dialogue: 0,0:14:09.70,0:14:13.56,Default,Castor,0,0,0,,أحد النجوم السماوية الاثني\N.عشر، كاستور التوأم
+Dialogue: 0,0:14:13.85,0:14:15.91,stats,Sign,0,0,0,,{\fs10\c&HFCFDFF&\fad(90,0)\t(90,257,\c&HFCFFDF&)\4c&HFAFE7F&\t(90,257,\4c&HB9C45F&)\3c&HFAFE7F&\t(90,257,\3c&HB9C45F&)\bord2\shad1\pos(320,283)}أحد النجوم السماوية الاثنا عشر القاهرين
+Dialogue: 0,0:14:13.85,0:14:15.91,stats,Sign,0,0,0,,{\fs12\c&HFCFDFF&\fad(90,0)\t(90,257,\c&HFCFFDF&)\4c&HFAFE7F&\t(90,257,\4c&HB9C45F&)\3c&HFAFE7F&\t(90,257,\3c&HB9C45F&)\bord2\shad1\pos(320,337)}كاستور التوأم
+Dialogue: 0,0:14:16.71,0:14:18.38,Default,Virgo,0,0,0,,!كما توقعت
+Dialogue: 0,0:14:25.72,0:14:28.34,Default,Scorpius,0,0,0,,!عجبًا! أليس هذا كاستور
+Dialogue: 0,0:14:28.61,0:14:31.02,Default,Scorpius,0,0,0,,ماذا تفعل هنا؟
+Dialogue: 0,0:14:31.02,0:14:32.80,Default,Karkinos,0,0,0,,!لم نلتقِ منذ زمن
+Dialogue: 0,0:14:32.80,0:14:34.33,Default,Libra,0,0,0,,.لم نلتقِ منذ مئتي سنة
+Dialogue: 0,0:14:34.33,0:14:35.17,Default,Aigokeros,0,0,0,,.نعم
+Dialogue: 0,0:14:35.17,0:14:36.27,Default,Aries,0,0,0,,!مرحبًا
+Dialogue: 0,0:14:36.27,0:14:37.16,Default,Castor,0,0,0,,.نعم
+Dialogue: 0,0:14:37.16,0:14:38.48,Default,Castor,0,0,0,,هل كنتُم بخير جميعًا؟
+Dialogue: 0,0:14:38.48,0:14:39.02,Default,Aries,0,0,0,,!نعم
+Dialogue: 0,0:14:39.77,0:14:41.89,Default,Castor,0,0,0,,.لم أركِ منذ زمن يا سيّدتي لوفاس
+Dialogue: 0,0:14:42.35,0:14:45.14,Default,Castor,0,0,0,,.لطالما آمنتُ بأنّك ستعودين يومًا ما
+Dialogue: 0,0:14:45.14,0:14:45.73,Default,Lufas,0,0,0,,.نعم
+Dialogue: 0,0:14:46.01,0:14:49.94,Default,Lufas,0,0,0,,يسرّنا رؤيتك سالمًا\N.وبخير أيضًا يا كاستور
+Dialogue: 0,0:14:49.94,0:14:50.63,Default,Castor,0,0,0,,!نعم
+Dialogue: 0,0:14:57.68,0:14:59.16,sign_generic,Sign,0,0,0,,{\b1\fs18\fnTimes New Roman\bord0\blur1.5\t(0,464,\blur0)\t(0,464,\bord0.75)\c&HF6FDFC&\t(0,464,\c&HC7BB7B&)\3c&HD9E5BB&\pos(320,299.333)}انضمّ كاستور إلى فرقتك
+Dialogue: 0,0:14:59.85,0:15:00.97,italics,Lufas,0,0,0,,.كاستور
+Dialogue: 0,0:15:01.28,0:15:04.10,italics,Lufas,0,0,0,,في اللّعبة، قُدِّم مع أخته الصغيرة في\Nحزمة واحدة تحت تصنيف
+Dialogue: 0,0:15:04.10,0:15:05.79,italics,Lufas,0,0,0,,الوحوش المعروفة\N"باسم "الشقيقين الجنيين
+Dialogue: 0,0:15:06.24,0:15:07.36,italics,Lufas,0,0,0,,،لكن في هذا العالم
+Dialogue: 0,0:15:07.36,0:15:09.92,italics,Lufas,0,0,0,,أهو يعمل بمفرده تمامًا؟
+Dialogue: 1,0:15:08.03,0:15:11.34,stats,Sign,0,0,0,,{\frz270\fs8\move(356,-95,356,157.847,0,3310)}كاستور من النجوم السماوية الاثني عشر
+Dialogue: 0,0:15:08.03,0:15:11.34,stats,Sign,0,0,0,,{\c&HA1B75D&\an7\blur4\bord0\shad0\fscx100\fscy100\p1\move(350,-95,350,157.847,0,3310)}m 0 -55 l 16 -55 16 55 0 55
+Dialogue: 0,0:15:10.40,0:15:11.77,italics,Lufas,0,0,0,,لكن في المقابل، تبدو بياناته أيضًا
+Dialogue: 0,0:15:11.77,0:15:13.69,italics,Lufas,0,0,0,,.مختلفة عمّا أعرفه
+Dialogue: 0,0:15:14.54,0:15:17.81,Default,Lufas,0,0,0,,.تبدو مرهقًا جدًا
+Dialogue: 0,0:15:19.28,0:15:20.77,Default,Castor,0,0,0,,…بشأن هذا الأمر
+Dialogue: 0,0:15:22.23,0:15:23.52,Default,Castor,0,0,0,,!أعتذر
+Dialogue: 0,0:15:23.96,0:15:26.73,Default,Castor,0,0,0,,قبل أيّام، استطاع ملك\Nالشياطين سرقة
+Dialogue: 0,0:15:26.73,0:15:29.19,Default,Castor,0,0,0,,مفتاح بلوغ السماوات\N!الذي ائتمنتني عليه
+Dialogue: 0,0:15:29.19,0:15:31.02,italics,Lufas,0,0,0,,!مفتاح بلوغ السماوات؟
+Dialogue: 0,0:15:31.02,0:15:32.33,italics,Lufas,0,0,0,,!ما هذا؟
+Dialogue: 0,0:15:32.33,0:15:33.93,italics,Lufas,0,0,0,,!لم يكن في اللّعبة
+Dialogue: 0,0:15:34.40,0:15:36.39,italics,Lufas,0,0,0,,.عليّ أن أسأل دينا لاحقًا
+Dialogue: 0,0:15:37.16,0:15:38.93,Default,Lufas,0,0,0,,.لا بأس. لا تقلق
+Dialogue: 0,0:15:38.93,0:15:39.51,Default,Castor,0,0,0,,!نعم
+Dialogue: 0,0:15:39.51,0:15:40.25,Default,Lufas,0,0,0,,.دينا
+Dialogue: 0,0:15:40.25,0:15:41.00,Default,Dina,0,0,0,,!نعم
+Dialogue: 0,0:15:41.59,0:15:43.21,Default,Lufas,0,0,0,,.تولّي علاجه
+Dialogue: 0,0:15:43.21,0:15:43.99,Default,Dina,0,0,0,,!نعم
+Dialogue: 0,0:15:45.01,0:15:46.27,Default,Castor,0,0,0,,ومن أنتِ؟
+Dialogue: 0,0:15:46.27,0:15:50.90,top,Dina,0,0,0,,نعم! أنا مستشارة السيّدة\N!لوفاس وقد لازمتُها طيلة الوقت
+Dialogue: 0,0:15:47.44,0:15:48.34,Default,Lufas,0,0,0,,،والآن
+Dialogue: 0,0:15:48.34,0:15:50.46,Default,Lufas,0,0,0,,.لنستمع إلى ما حدث
+Dialogue: 0,0:15:50.90,0:15:51.80,Default,Virgo,0,0,0,,.نعم
+Dialogue: 0,0:15:55.13,0:15:57.48,Default,Lufas,0,0,0,,…تحالف ساجيتاريوس مع ليون
+Dialogue: 0,0:15:57.48,0:15:59.18,Default,Lufas,0,0,0,,ما رأيكم جميعًا؟
+Dialogue: 0,0:15:59.18,0:16:00.48,Default,Karkinos,0,0,0,,.يا له من أحمق
+Dialogue: 0,0:16:00.48,0:16:01.77,Default,Aigokeros,0,0,0,,.لا أرى في تصرّفه سوى قِصر نظر
+Dialogue: 0,0:16:01.77,0:16:03.43,Default,Libra,0,0,0,,.إنّه أحمق ميؤوس من أمره
+Dialogue: 0,0:16:03.43,0:16:05.98,Default,Aries,0,0,0,,.أجد تصرفه غير معقول بعض الشيء أيضًا
+Dialogue: 0,0:16:05.98,0:16:07.69,Default,Scorpius,0,0,0,,.عليه أن يموت
+Dialogue: 0,0:16:07.95,0:16:08.89,italics,Lufas,0,0,0,,…مهلًا
+Dialogue: 0,0:16:08.89,0:16:15.04,Default,Aigokeros,0,0,0,,قد يكون مرض التنين الحارس\N.مرتبطًا بهذا الأمر أيضًا
+Dialogue: 0,0:16:18.17,0:16:19.62,Default,Karkinos,0,0,0,,…أيعقل أنّك
+Dialogue: 0,0:16:20.44,0:16:21.83,Default,Scorpius,0,0,0,,!لستُ الفاعلة
+Dialogue: 0,0:16:21.83,0:16:23.58,Default,Scorpius,0,0,0,,،عندما كنتُ أخطّط لمهاجمة دراوبنير
+Dialogue: 0,0:16:23.58,0:16:25.36,Default,Scorpius,0,0,0,,،أدركتُ أنَّ قتال التنين سيكون مزعجًا
+Dialogue: 0,0:16:25.36,0:16:28.21,Default,Scorpius,0,0,0,,لذا خططتُ فقط لنشر السم\Nكي أمرضه وأوهن قوّته
+Dialogue: 0,0:16:28.21,0:16:30.59,Default,Scorpius,0,0,0,,!قبل أن آخذ وقتي في قتله بنفسي
+Dialogue: 0,0:16:30.59,0:16:31.92,Default,Viro,0,0,0,,!مـ-محال
+Dialogue: 0,0:16:32.20,0:16:33.38,Default,Karkinos,0,0,0,,.يا لكِ من حمقاء
+Dialogue: 0,0:16:33.38,0:16:34.60,Default,Aigokeros,0,0,0,,.لا أرى في تصرّفها سوى قصر نظر
+Dialogue: 0,0:16:34.60,0:16:36.33,Default,Libra,0,0,0,,.إنّها حمقاء ميؤوس من أمرها
+Dialogue: 0,0:16:36.33,0:16:39.35,Default,Aries,0,0,0,,.أجد تصرّفها غير معقول بعض الشيء أيضًا
+Dialogue: 0,0:16:39.35,0:16:41.64,Default,Scorpius,0,0,0,,!بحقّكم
+Dialogue: 0,0:16:42.23,0:16:43.85,Default,Scorpius,0,0,0,,!لـ-لكن ذلك  غريب
+Dialogue: 0,0:16:43.85,0:16:44.98,Default,Scorpius,0,0,0,,،أستطيع تفهّم تصرف ليون
+Dialogue: 0,0:16:44.98,0:16:48.07,Default,Scorpius,0,0,0,,لكن أيعقل أن يفعل\Nساجيتاريوس مثل تلك الحماقة؟
+Dialogue: 0,0:16:48.07,0:16:52.28,Default,Karkinos,0,0,0,,ساجيتاريوس الذي أعرفه\N.كان أكثر حذرًا واتزانًا
+Dialogue: 0,0:16:52.28,0:16:55.88,italics,Lufas,0,0,0,,أي أنَّ ثمة أمرًا آخر\N.يجري في الخفاء
+Dialogue: 0,0:16:56.28,0:16:59.68,italics,Lufas,0,0,0,,كما أنَّ الرسالة التي تركها\N.لليبرا لا تبدو منطقية
+Dialogue: 0,0:17:00.01,0:17:04.12,italics,Lufas,0,0,0,,كأنّه يقول لنا\N"أنا مع ليون لذا توخوا الحذر"
+Dialogue: 0,0:17:04.96,0:17:06.36,Default,Lufas,0,0,0,,.اتخذنا قرارنا
+Dialogue: 0,0:17:06.36,0:17:09.47,Default,Lufas,0,0,0,,!هدفنا التالي هو استعادة ليون وساجيتاريوس
+Dialogue: 0,0:17:09.88,0:17:13.23,Default,Lufas,0,0,0,,.سنتحقق مجددًا من نواياهُما الحقيقية
+Dialogue: 0,0:17:13.23,0:17:14.10,Default,All,0,0,0,,!نعم
+Dialogue: 0,0:17:13.23,0:17:14.10,top,Libra,0,0,0,,.مفهوم
+Dialogue: 0,0:17:14.10,0:17:15.09,Default,Lufas,0,0,0,,،دينا
+Dialogue: 0,0:17:15.09,0:17:17.01,Default,Lufas,0,0,0,,هل تعرفين أين يوجد ليون؟
+Dialogue: 0,0:17:17.01,0:17:19.19,Default,Dina,0,0,0,,!في تيرفينغ على الأرجح
+Dialogue: 0,0:17:19.19,0:17:21.19,Default,Dina,0,0,0,,إنّها في الأساس اتحاد\Nيضم أشباه البشر
+Dialogue: 0,0:17:21.19,0:17:23.31,Default,Dina,0,0,0,,.الذين يُصنّفون كوحوش
+Dialogue: 0,0:17:23.86,0:17:28.54,Default,Dina,0,0,0,,تقع تيرفينغ في المنطقة التي\N.تُعدّ الأخطر ضمن أراضي البشر
+Dialogue: 0,0:17:28.89,0:17:30.82,Default,Lufas,0,0,0,,منطقة خطيرة؟
+Dialogue: 0,0:17:30.82,0:17:31.42,Default,Dina,0,0,0,,.نعم
+Dialogue: 0,0:17:31.42,0:17:34.38,Default,Dina,0,0,0,,.إنّها قريبة من موطن قوم الشياطين
+Dialogue: 0,0:17:34.38,0:17:36.93,Default,Dina,0,0,0,,بنى أشباه البشر قراهم واستقرّوا هناك
+Dialogue: 0,0:17:36.93,0:17:39.66,Default,Dina,0,0,0,,.هربًا من أعين البشر
+Dialogue: 0,0:17:39.66,0:17:43.40,Default,Dina,0,0,0,,،قوم السمك، قوم الحشرات\N،قوم النباتات، قوم الأفاعي
+Dialogue: 0,0:17:43.40,0:17:45.02,Default,Dina,0,0,0,,.إلى جانب أجناس أخرى متنوعة
+Dialogue: 0,0:17:45.02,0:17:48.80,Default,Dina,0,0,0,,.وهناك أيضًا موطن ساجيتاريوس، قرية القنطور
+Dialogue: 0,0:17:50.12,0:17:54.01,italics,Lufas,0,0,0,,ربّما يعرف ساجيتاريوس أحوال\N.أبناء قومه من القناطير
+Dialogue: 0,0:17:55.23,0:17:57.01,Default,Virgo,0,0,0,,!سيّدتي لوفاس
+Dialogue: 0,0:17:57.01,0:17:59.00,Default,Virgo,0,0,0,,!وصل سي والآخرون
+Dialogue: 0,0:17:59.00,0:17:59.91,Default,Jean,0,0,0,,!مرحبًا
+Dialogue: 0,0:17:59.91,0:18:01.05,Default,Sei,0,0,0,,.آسف
+Dialogue: 0,0:18:01.05,0:18:02.47,Default,Gantz,0,0,0,,.تأخرنا قليلًا
+Dialogue: 0,0:18:02.47,0:18:04.11,Default,Virgo,0,0,0,,أين نيك والبقية؟
+Dialogue: 0,0:18:04.11,0:18:09.11,Default,Jean,0,0,0,,جروحهم عميقة قليلًا لذا\N.يتعافون في دراوبنير
+Dialogue: 0,0:18:09.11,0:18:10.10,Default,Petto,0,0,0,,.صحيح
+Dialogue: 0,0:18:10.10,0:18:10.83,Default,Petto,0,0,0,,!لهذا
+Dialogue: 0,0:18:11.69,0:18:14.98,Default,Petto,0,0,0,,أتيتُ لأحلّ محلّهم\N!لأعوض غيابهم
+Dialogue: 0,0:18:14.98,0:18:17.46,Default,Petto,0,0,0,,،لكن لو كان لدينا المزيد من الإكسير
+Dialogue: 0,0:18:17.46,0:18:19.85,Default,Petto,0,0,0,,.لربّما استطعنا معالجة جروحهم أيضًا
+Dialogue: 0,0:18:20.72,0:18:24.44,Default,Jean,0,0,0,,مع ذلك! إنّه دواء أسطوري، صحيح؟
+Dialogue: 0,0:18:24.44,0:18:26.56,Default,Jean,0,0,0,,!لا ينبغي إهداره عليهم
+Dialogue: 0,0:18:28.42,0:18:32.46,italics,Lufas,0,0,0,,إن كانُوا بحاجة إلى الإكسير، فلديّ\N.في مرقد الملك ما يزيد عن حاجتي
+Dialogue: 0,0:18:33.93,0:18:35.45,Default,Lufas,0,0,0,,.يسعدنا  قدومك يا بطل
+Dialogue: 0,0:18:36.55,0:18:38.38,Default,Lufas,0,0,0,,يبدو أنّ لديك أسئلة لنا؟
+Dialogue: 0,0:18:38.86,0:18:40.35,Default,Sei,0,0,0,,!نـ-نعم
+Dialogue: 0,0:18:42.39,0:18:43.61,Default,Lufas,0,0,0,,.بالطبع
+Dialogue: 0,0:18:43.61,0:18:47.68,Default,Lufas,0,0,0,,أتيتَ للقائنا لتتأكد\Nما إن كنّا حقًا
+Dialogue: 0,0:18:47.68,0:18:50.98,Default,Lufas,0,0,0,,.أعداء هذا العالم كما تصفنا الأسطورة
+Dialogue: 0,0:18:50.98,0:18:51.91,Default,Sei,0,0,0,,.نعم
+Dialogue: 0,0:18:53.19,0:18:56.99,Default,Lufas,0,0,0,,لا ننوي حاليًا معارضتك
+Dialogue: 0,0:18:56.99,0:19:02.66,Default,Lufas,0,0,0,,رغم أنّنا سبق وصرّحنا بذلك منذ\N.استدعائنا إلى هذا العالم أوّل مرة
+Dialogue: 0,0:19:05.95,0:19:11.15,Default,Sei,0,0,0,,أهذا يعني أنّكم ستتعاونون\Nمعنا لقتال قوم الشياطين؟
+Dialogue: 0,0:19:11.15,0:19:12.66,Default,Lufas,0,0,0,,،لن يكون هذا خيارًا سيئًا
+Dialogue: 0,0:19:12.66,0:19:14.34,Default,Lufas,0,0,0,,.لكن لدينا أمورًا أخرى تتطلب اهتمامنا أولًا
+Dialogue: 0,0:19:14.34,0:19:15.31,Default,Sei,0,0,0,,أمور أخرى؟
+Dialogue: 0,0:19:15.31,0:19:19.13,Default,Lufas,0,0,0,,،ليون يحرّض الوحوش وأشباه البشر
+Dialogue: 0,0:19:19.13,0:19:22.51,Default,Lufas,0,0,0,,.ويبدو أنّه يسعى لجرّهم نحو الهلاك
+Dialogue: 0,0:19:22.51,0:19:25.61,Default,Lufas,0,0,0,,إنَّ أخطاء أتباعنا تعدّ أخطائنا\N.نحن بصفتنا سيّدتهم
+Dialogue: 0,0:19:25.92,0:19:28.52,Default,Lufas,0,0,0,,.ولهذا، علينا إيقاف ذلك الأحمق
+Dialogue: 0,0:19:28.52,0:19:29.14,Default,Jean,0,0,0,,…في هذه الحالة
+Dialogue: 0,0:19:29.14,0:19:31.13,Default,Jean,0,0,0,,!هذا الأمر مرتبط بما نفعله أيضًا
+Dialogue: 0,0:19:31.13,0:19:34.73,Default,Jean,0,0,0,,إن اتحدت تلك الوحوش وشنّت\N!الحرب، فستكون العواقب وخيمة
+Dialogue: 0,0:19:34.73,0:19:38.65,Default,Gantz,0,0,0,,!لنتعاون معًا لإيقاف ليون ذاك يا لوفاس
+Dialogue: 0,0:19:38.65,0:19:39.57,Default,Lufas,0,0,0,,…لا
+Dialogue: 0,0:19:39.57,0:19:41.22,italics,Lufas,0,0,0,,،أقدّر حماسكم
+Dialogue: 0,0:19:41.22,0:19:43.14,italics,Lufas,0,0,0,,…لكن بمستواهم هذا
+Dialogue: 0,0:19:43.98,0:19:46.45,Default,Lufas,0,0,0,,سيتحول موقع تواجد\N.ليون إلى ساحة معركة
+Dialogue: 0,0:19:46.45,0:19:48.90,Default,Lufas,0,0,0,,نودّ التوجه إلى هناك برفقة\N.النجوم السماوية الاثني عشر
+Dialogue: 0,0:19:48.90,0:19:49.49,Default,Sei,0,0,0,,…لكن
+Dialogue: 0,0:19:49.49,0:19:50.95,Default,Lufas,0,0,0,,،بدلًا من مرافقتنا
+Dialogue: 0,0:19:50.95,0:19:55.71,Default,Lufas,0,0,0,,نريد منكم أن تتحرّوا أمر\N.موطن ساجيتاريوس، قرية القناطير
+Dialogue: 0,0:19:55.71,0:19:56.63,Default,Dina,0,0,0,,!نعم
+Dialogue: 0,0:19:56.63,0:19:58.79,Default,Lufas,0,0,0,,.سنكلّف فيرغو وكاستور بمرافقتكم
+Dialogue: 0,0:19:59.78,0:20:02.62,Default,Lufas,0,0,0,,سيكون العمل أيسر بوجود\Nأشخاص مألوفين لكم، صحيح؟
+Dialogue: 0,0:20:03.03,0:20:06.35,Default,Lufas,0,0,0,,كاستور، نعتذر لتكليفك بهذه المهمة\N،بعد لقائنا مجددًا بوقت قصير
+Dialogue: 0,0:20:06.35,0:20:08.52,Default,Lufas,0,0,0,,.لكن أرجو أن تعتني بفيرغو وفرقة البطل
+Dialogue: 0,0:20:08.52,0:20:11.06,Default,Castor,0,0,0,,!اتركي الأمر لي يا سيّدتي لوفاس
+Dialogue: 0,0:20:12.49,0:20:16.11,Default,Lufas,0,0,0,,هل تعرفين ما هو مفتاح\Nبلوغ السماوات يا دينا؟
+Dialogue: 0,0:20:17.16,0:20:19.01,Default,Dina,0,0,0,,،لا أعرف كلّ التفاصيل
+Dialogue: 0,0:20:19.01,0:20:20.83,Default,Dina,0,0,0,,لكن يُقال أنّ من يمتلكه
+Dialogue: 0,0:20:20.83,0:20:24.07,Default,Dina,0,0,0,,سينال القدرة على تغيير \N.أُسس هذا العالم
+Dialogue: 0,0:20:24.07,0:20:26.11,Default,Lufas,0,0,0,,أُسس هذا العالم؟
+Dialogue: 0,0:20:26.11,0:20:29.22,Default,Lufas,0,0,0,,يمتلك القدرة على ثني القوانين إذًا؟
+Dialogue: 0,0:20:29.22,0:20:31.29,Default,Lufas,0,0,0,,يبدو هذا شبيهًا\N.بصلاحيات مدير النظام
+Dialogue: 0,0:20:31.29,0:20:35.39,Default,Dina,0,0,0,,.أو مدير لعبة مُنح مثل تلك السلطة
+Dialogue: 0,0:20:36.75,0:20:40.66,italics,Lufas,0,0,0,,لِم أعهد بشيء كهذا إلى\Nكاستور بدلًا من استخدامه أثناء
+Dialogue: 0,0:20:40.66,0:20:42.25,italics,Lufas,0,0,0,,المعركة ضد الأبطال السبعة؟
+Dialogue: 0,0:20:45.11,0:20:48.18,stats,Sign,0,0,0,,{\bord1.5\blur2\an1\frz270\fs10\3c&HC6D052&\move(642.524,84.571,384,84.571,0,3053)}عرق
+Dialogue: 1,0:20:45.11,0:20:48.18,stats,Sign,0,0,0,,{\bord1.5\blur2\an1\frz270\fs6\3c&HC6D052&\move(644.524,120.571,385.5,120.571,0,3053)}كائن اصطناعي
+Dialogue: 0,0:20:45.11,0:20:48.18,stats,Sign,0,0,0,,{\c&H979F26&\an7\blur4\bord0\shad0\fscx100\fscy100\p1\move(640.524,120.571,380.5,120.571,0,3053)}m 0 -10 l 10 -10 10 45 0 45
+Dialogue: 0,0:20:45.24,0:20:48.18,stats,Sign,0,0,0,,{\bord1.5\blur2\an1\frz270\fs10\3c&HC6D052&\move(642.524,84.571,384,84.571,0,3053)}المستوى
+Dialogue: 0,0:20:45.86,0:20:48.18,stats,Sign,0,0,0,,{\bord1.5\blur2\an1\frz270\fs10\3c&HC6D052&\move(643.524,85,385,85,0,3053)}سوزوكي
+Dialogue: 0,0:20:48.58,0:20:49.89,Default,Lufas,0,0,0,,ما الأمر يا بطل؟
+Dialogue: 0,0:20:49.89,0:20:51.34,Default,Sei,0,0,0,,ما هذا يا لوفاس-سان؟
+Dialogue: 0,0:20:51.34,0:20:52.22,Default,Lufas,0,0,0,,.سوزوكي
+Dialogue: 0,0:20:52.22,0:20:53.45,Default,Sei,0,0,0,,!لم أقصد هذا
+Dialogue: 0,0:20:53.45,0:20:54.90,Default,Sei,0,0,0,,!لِم تملكين عربة سكنية؟
+Dialogue: 0,0:20:54.90,0:20:56.58,Default,Lufas,0,0,0,,.بدا لي أنّها مناسبة للرحلات الطويلة
+Dialogue: 0,0:20:56.58,0:20:58.49,Default,Lufas,0,0,0,,أكنتَ تفضّل شاحنة بدلًا منها؟
+Dialogue: 0,0:20:58.49,0:21:00.69,Default,Sei,0,0,0,,…لا، هذه ليست المشكلة. ما أعنيه
+Dialogue: 0,0:21:00.69,0:21:02.07,Default,Luafs,0,0,0,,.نحن نفهم
+Dialogue: 0,0:21:02.07,0:21:03.90,Default,Luafs,0,0,0,,،حسنًا، لا يمكننا الخوض في التفاصيل
+Dialogue: 0,0:21:03.90,0:21:08.03,Default,Luafs,0,0,0,,لكن تصادف أنَّ لدينا بعض\N.المعرفة عن ذلك العالم أيضًا
+Dialogue: 0,0:21:08.03,0:21:09.98,Default,Sei,0,0,0,,…ماذا؟ فهمت
+Dialogue: 0,0:21:15.51,0:21:18.15,Default,Lufas,0,0,0,,.والآن، علينا أن نذهب أيضًا
+Dialogue: 0,0:21:18.96,0:21:21.08,Default,Lufas,0,0,0,,وجهتنا هي تيرفينغ، صحيح؟
+Dialogue: 0,0:21:21.08,0:21:22.01,Default,Dina,0,0,0,,!نعم
+Dialogue: 0,0:21:22.01,0:21:22.97,Default,Dina,0,0,0,,…لكن
+Dialogue: 0,0:21:22.97,0:21:25.93,Default,Aigokeros,0,0,0,,.قد يُسبّب ذلك بعض المتاعب
+Dialogue: 0,0:21:26.72,0:21:29.92,Default,Dina,0,0,0,,.تقع ميولنير مباشرة بجوار تيرفينغ
+Dialogue: 0,0:21:29.92,0:21:32.74,Default,Dina,0,0,0,,وهي الدولة التي تحكمها\N.بينيتناش، إحدى الأبطال السبعة
+Dialogue: 0,0:21:33.18,0:21:36.43,Default,Dina,0,0,0,,.تختلف بينيتناش عن بقية الأبطال السبعة
+Dialogue: 0,0:21:36.84,0:21:37.97,Default,Dina,0,0,0,,إنّها الوحيدة
+Dialogue: 0,0:21:37.97,0:21:40.16,Default,Dina,0,0,0,,التي حافظت على القوة\N.التي امتلكتها في أوج مجدها
+Dialogue: 0,0:21:40.51,0:21:42.90,Default,Dina,0,0,0,,إنّها مهووسة بك على نحو\Nغير مألوف يا سيّدتي لوفاس
+Dialogue: 0,0:21:43.16,0:21:47.38,Default,Dina,0,0,0,,.وهدفها الأعظم هو قتلكِ بيديها
+Dialogue: 0,0:21:47.38,0:21:49.37,Default,Dina,0,0,0,,.إنّها أخطر كائن موجود
+Dialogue: 0,0:21:51.52,0:21:52.89,italics,Lufas,0,0,0,,…بينيتناش
+Dialogue: 0,0:21:54.45,0:21:55.83,Default,Benetnasch,0,0,0,,!أشعر بحضوركِ
+Dialogue: 0,0:21:56.11,0:21:58.81,Default,Benetnasch,0,0,0,,،لنكمل من حيث توقفنا ذلك اليوم
+Dialogue: 0,0:21:58.81,0:22:00.55,Default,Benetnasch,0,0,0,,!يا عدوّتي اللدودة
+Dialogue: 0,0:22:00.92,0:22:04.05,Default,Benetnasch,0,0,0,,سأقتلك هذه المرّة
+Dialogue: 0,0:22:06.23,0:22:08.40,Default,Benetnasch,0,0,0,,!يا لوفاس مافاهل
+
