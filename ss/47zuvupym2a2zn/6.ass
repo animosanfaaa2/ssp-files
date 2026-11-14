@@ -1,0 +1,358 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,20,20,20,1
+Style: Italique,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,2,20,20,20,1
+Style: TiretsDefault,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,1,20,20,20,1
+Style: Sign,Arial,21,&H00FFFFFF,&H000000FF,&H00292929,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.70,0:00:04.48,Italique,Sei,0,0,0,,Nous avons vaincu Mercure,\Nun des Sept Astres,
+Dialogue: 0,0:00:04.89,0:00:07.45,Italique,Sei,0,0,0,,et ainsi pu récupérer l’élixir.
+Dialogue: 0,0:00:07.78,0:00:11.69,Italique,Sei,0,0,0,,Le royaume nous a alors couverts\Nde richesses et d’honneurs,
+Dialogue: 0,0:00:12.67,0:00:15.55,Italique,Sei,0,0,0,,même si nous n’avons\Npresque rien fait…
+Dialogue: 0,0:00:16.34,0:00:17.39,Italique,Luphas,0,0,0,,Les honneurs ?
+Dialogue: 0,0:00:17.73,0:00:20.72,Italique,Luphas,0,0,0,,Ça m’est égal.\NPartage plutôt avec Virgo.
+Dialogue: 0,0:00:21.34,0:00:23.70,Italique,Sei,0,0,0,,Luphas a choisi\Nde nous laisser festoyer,
+Dialogue: 0,0:00:23.83,0:00:25.94,Italique,Sei,0,0,0,,mais ça m’a mis\Nun peu mal à l’aise.
+Dialogue: 0,0:00:26.67,0:00:30.01,Italique,Sei,0,0,0,,Ensuite, nous avons rencontré\Nl’empereur en personne.
+Dialogue: 0,0:00:30.22,0:00:33.70,Italique,Sei,0,0,0,,J’ai même failli me retrouver\Nà épouser sa fille.
+Dialogue: 0,0:00:33.90,0:00:35.91,Italique,Sei,0,0,0,,Quelle aventure !
+Dialogue: 0,0:00:40.54,0:00:42.65,Default,Virgo,0,0,0,,Tout va bien, Sei ?
+Dialogue: 0,0:00:43.71,0:00:46.23,Default,Sei,0,0,0,,Oui, ce n’est rien !
+Dialogue: 0,0:00:46.36,0:00:48.95,Default,Gantz,0,0,0,,Bon, il ne reste plus\Nqu’à utiliser l’élixir
+Dialogue: 0,0:00:49.07,0:00:51.70,Default,Gantz,0,0,0,,pour guérir le dragon gardien.
+Dialogue: 0,0:00:52.34,0:00:53.70,Default,Chatounet,0,0,0,,Il se trouve
+Dialogue: 0,0:00:53.82,0:00:55.90,Default,Chatounet,0,0,0,,de l’autre côté de cette forêt.
+Dialogue: 0,0:00:56.12,0:00:57.94,Default,Chatounet,0,0,0,,Suivez le guide !
+Dialogue: 0,0:00:58.07,0:00:59.17,Default,Tous,0,0,0,,Oui !
+Dialogue: 0,0:02:32.63,0:02:37.51,Sign,SIGN,0,0,0,,{\an1\fad(100,385)\b1\pos(314.685,308.943)}ÉPISODE {\c&H0500AE&}20{\c} :\NDES MONSTRES APPARAISSENT !
+Dialogue: 0,0:02:48.12,0:02:49.11,Default,Sei,0,0,0,,Virgo !
+Dialogue: 0,0:02:49.41,0:02:50.36,Default,Virgo,0,0,0,,Quoi ?
+Dialogue: 0,0:02:50.73,0:02:52.54,Default,Sei,0,0,0,,Euh… tu aimes la forêt ?
+Dialogue: 0,0:02:53.95,0:02:58.03,Default,Virgo,0,0,0,,Ne sois pas si timide.\NNous sommes amis, désormais.
+Dialogue: 0,0:03:00.47,0:03:05.12,Default,Virgo,0,0,0,,Aussi loin que je me souvienne,\Nj’ai toujours vécu dans la forêt.
+Dialogue: 0,0:03:05.38,0:03:06.29,Default,Virgo,0,0,0,,C’est pour ça
+Dialogue: 0,0:03:06.76,0:03:08.70,Default,Virgo,0,0,0,,que je m’y sens si apaisée.
+Dialogue: 0,0:03:09.73,0:03:11.80,Default,Cruz,0,0,0,,Ce n’est vraiment pas commun.
+Dialogue: 0,0:03:12.48,0:03:13.59,Default,Cruz,0,0,0,,Les ailés célestes
+Dialogue: 0,0:03:13.80,0:03:17.21,Default,Cruz,0,0,0,,aiment rarement les forêts,\Ntrop concentrées en mana.
+Dialogue: 0,0:03:17.90,0:03:20.01,Default,Virgo,0,0,0,,Moi, ça ne me dérange pas.
+Dialogue: 0,0:03:20.17,0:03:21.55,Default,Virgo,0,0,0,,J’ai cru comprendre
+Dialogue: 0,0:03:21.68,0:03:25.32,Default,Virgo,0,0,0,,que les autres préféraient\Nles hauteurs pauvres en mana.
+Dialogue: 0,0:03:26.72,0:03:27.73,Default,Cruz,0,0,0,,Dans ce cas,
+Dialogue: 0,0:03:27.89,0:03:30.72,Default,Cruz,0,0,0,,c’est peut-être dû à tes parents.
+Dialogue: 0,0:03:31.03,0:03:33.56,Default,Cruz,0,0,0,,Quand des ailés absorbent\Nbeaucoup de mana,
+Dialogue: 0,0:03:33.70,0:03:34.82,Default,Cruz,0,0,0,,il arrive parfois
+Dialogue: 0,0:03:35.23,0:03:37.99,Default,Cruz,0,0,0,,que leur progéniture y soit\Nplus tolérante.
+Dialogue: 0,0:03:38.23,0:03:39.28,Default,Cruz,0,0,0,,Par exemple,
+Dialogue: 0,0:03:39.50,0:03:41.04,Default,Cruz,0,0,0,,Luphas Mafahl.
+Dialogue: 0,0:03:42.93,0:03:45.96,Default,Cruz,0,0,0,,Helheim a beau être\Nhautement concentré en mana,
+Dialogue: 0,0:03:46.37,0:03:50.14,Default,Cruz,0,0,0,,on raconte qu’elle a pu y pénétrer\Nsans broncher.
+Dialogue: 0,0:03:51.55,0:03:54.25,Default,Sei,0,0,0,,Pourtant,\Nles ailes de Virgo sont blanches.
+Dialogue: 0,0:03:54.38,0:03:55.13,Default,Cruz,0,0,0,,C’est vrai.
+Dialogue: 0,0:03:55.43,0:03:56.88,Default,Cruz,0,0,0,,Les effets du mana
+Dialogue: 0,0:03:57.01,0:04:00.12,Default,Cruz,0,0,0,,ne sont pas systématiquement\Nvisibles à l’extérieur.
+Dialogue: 0,0:04:00.38,0:04:02.47,Default,Cruz,0,0,0,,Il est dit que les parents de Luphas
+Dialogue: 0,0:04:02.63,0:04:05.08,Default,Cruz,0,0,0,,avaient des ailes\Ncomplètement blanches.
+Dialogue: 0,0:04:06.07,0:04:09.59,Default,Sei,0,0,0,,Virgo aurait donc gardé\Ndes ailes d’un blanc immaculé
+Dialogue: 0,0:04:09.73,0:04:13.58,Default,Sei,0,0,0,,sans aucune mutation visible,\Ncontrairement à Luphas ?
+Dialogue: 0,0:04:13.83,0:04:15.96,Default,Cruz,0,0,0,,C’est tout à fait possible.
+Dialogue: 0,0:04:17.68,0:04:19.03,Italique,Sei,0,0,0,,Ça voudrait dire
+Dialogue: 0,0:04:19.17,0:04:23.16,Italique,Sei,0,0,0,,que ses parents ont absorbé\Nune quantité phénoménale de mana.
+Dialogue: 0,0:04:23.35,0:04:25.91,Italique,Sei,0,0,0,,C’est la petite-fille\Nd’une constellation.
+Dialogue: 0,0:04:26.04,0:04:29.63,Italique,Sei,0,0,0,,Non, Parthénos l’a recueillie,\Nil me semble.
+Dialogue: 0,0:04:30.73,0:04:33.28,Italique,Sei,0,0,0,,Dans ce cas,\Nqui sont ses parents ?
+Dialogue: 0,0:04:36.46,0:04:39.43,Default,Chatounet,0,0,0,,Nous y sommes.\NLe dragon est juste là, venez !
+Dialogue: 0,0:04:39.73,0:04:40.73,Default,Tous,0,0,0,,Oui !
+Dialogue: 0,0:04:53.72,0:04:55.51,Default,Chatounet,0,0,0,,Le dragon gardien…
+Dialogue: 0,0:04:57.17,0:04:59.02,Default,Chatounet,0,0,0,,Qu’est-ce que ça veut dire ?
+Dialogue: 0,0:05:00.52,0:05:03.77,Default,Chatounet,0,0,0,,Qui a osé…\NQui a pu faire une chose pareille ?
+Dialogue: 0,0:05:03.99,0:05:08.45,Default,Lamia,0,0,0,,Tiens donc, les visiteurs sont rares,\Ndans cette forêt.
+Dialogue: 0,0:05:11.10,0:05:14.94,Default,Homme-poisson,0,0,0,,On dirait que vous venez\Npour soigner le dragon gardien,
+Dialogue: 0,0:05:15.13,0:05:17.73,Default,Homme-poisson,0,0,0,,mais ça ne servira à rien !
+Dialogue: 0,0:05:18.05,0:05:21.51,Default,Chatounet,0,0,0,,Saletés de monstres !\NÉloignez-vous de lui !
+Dialogue: 0,0:05:22.52,0:05:23.47,Default,Sei,0,0,0,,Des monstres ?
+Dialogue: 0,0:05:23.82,0:05:25.13,Default,Sei,0,0,0,,Vraiment ?
+Dialogue: 0,0:05:26.69,0:05:29.20,Default,Sargus,0,0,0,,Des monstres ? Oui, forcément…
+Dialogue: 0,0:05:29.33,0:05:31.95,Default,Sargus,0,0,0,,C’est ce que nous sommes\Ndans le monde actuel.
+Dialogue: 0,0:05:32.09,0:05:34.90,Default,Sargus,0,0,0,,Vous nous placez\Ndans cette catégorie.
+Dialogue: 0,0:05:35.48,0:05:37.73,Default,Sargus,0,0,0,,Pourtant,\Nquelles différences y a-t-il
+Dialogue: 0,0:05:37.87,0:05:40.61,Default,Sargus,0,0,0,,entre nous\Net des gens comme vous ?
+Dialogue: 0,0:05:41.31,0:05:42.57,Default,Sargus,0,0,0,,Comme vous le voyez,
+Dialogue: 0,0:05:42.68,0:05:44.81,Default,Sargus,0,0,0,,nous sommes doués de parole.
+Dialogue: 0,0:05:44.95,0:05:47.80,Default,Sargus,0,0,0,,Nous pouvons communiquer\Net même négocier.
+Dialogue: 0,0:05:47.93,0:05:51.54,Default,Sargus,0,0,0,,Hormis notre apparence,\Nnous sommes semblables à vous.
+Dialogue: 0,0:05:52.44,0:05:54.04,Italique,Sei,0,0,0,,Ces gens sont…
+Dialogue: 0,0:05:55.88,0:05:59.54,Default,Chatounet,0,0,0,,Silence, sales monstres !\NVous avez osé blesser le dragon !
+Dialogue: 0,0:05:59.67,0:06:01.59,Default,Chatounet,0,0,0,,Négocier ? Et puis quoi, encore ?
+Dialogue: 0,0:06:05.47,0:06:07.15,Default,Lamia,0,0,0,,Ça suffit, sergent.
+Dialogue: 0,0:06:07.33,0:06:11.85,Default,Lamia,0,0,0,,On se soulève parce qu’ils ont ignoré\Ncet argument pendant des siècles.
+Dialogue: 0,0:06:12.04,0:06:14.86,Default,Lamia,0,0,0,,Seul Leon sera en mesure\Nde nous sauver !
+Dialogue: 0,0:06:15.01,0:06:17.63,Default,Lamia,0,0,0,,Il n’y a rien à attendre\Nde l’humanité !
+Dialogue: 0,0:06:18.07,0:06:19.16,Default,Cruz,0,0,0,,C’est pas vrai !
+Dialogue: 0,0:06:19.38,0:06:21.41,Default,Sei,0,0,0,,Cruz, qui est ce Leon ?
+Dialogue: 0,0:06:21.77,0:06:24.78,Default,Cruz,0,0,0,,Il s’agit du lion\Ndes Douze Constellations.
+Dialogue: 0,0:06:25.40,0:06:28.63,Default,Cruz,0,0,0,,Dans l’ancien monde,\Navant l’avènement de Luphas,
+Dialogue: 0,0:06:28.77,0:06:31.09,Default,Cruz,0,0,0,,il était l’un\Ndes quatre grands piliers,
+Dialogue: 0,0:06:31.26,0:06:34.39,Default,Cruz,0,0,0,,la plus puissante constellation,\Nle maître des monstres,
+Dialogue: 0,0:06:34.52,0:06:36.00,Default,Cruz,0,0,0,,le grand Roi Lion !
+Dialogue: 0,0:06:36.94,0:06:41.83,Default,Dryade,0,0,0,,Il a désormais quitté les constellations\Net a retrouvé le niveau 1 000 !
+Dialogue: 0,0:06:41.96,0:06:43.93,Default,Dryade,0,0,0,,Quand Leon se décidera,
+Dialogue: 0,0:06:44.07,0:06:48.43,Default,Dryade,0,0,0,,il pulvérisera l’humanité et les démons,\Net ce sera le début de notre ère !
+Dialogue: 0,0:06:50.97,0:06:54.46,Default,Sargus,0,0,0,,Nous allons transformer ce monde\Nen profondeur.
+Dialogue: 0,0:06:54.60,0:06:58.31,Default,Homme-poisson,0,0,0,,Et comme déclaration de guerre,\Non est venus tuer le dragon !
+Dialogue: 0,0:06:58.62,0:06:59.52,Default,Lamia,0,0,0,,Minute !
+Dialogue: 0,0:06:59.64,0:07:01.69,Default,Lamia,0,0,0,,Ne commence pas à tout dévoiler !
+Dialogue: 0,0:07:01.83,0:07:05.70,Default,Dryade,0,0,0,,C’est pas grave !\NIl suffit de les faire taire à jamais,
+Dialogue: 0,0:07:06.26,0:07:07.66,Default,Dryade,0,0,0,,pas vrai ?
+Dialogue: 0,0:07:21.35,0:07:23.38,Default,Dryade,0,0,0,,N’empêche, Leon avait raison.
+Dialogue: 0,0:07:23.51,0:07:26.02,Default,Dryade,0,0,0,,L’humanité actuelle\Nest super faible.
+Dialogue: 0,0:07:26.15,0:07:28.17,Italique,Sei,0,0,0,,Comment ça, « faible » ?
+Dialogue: 0,0:07:28.36,0:07:30.68,Italique,Sei,0,0,0,,C’est le plus puissant épéiste !
+Dialogue: 0,0:07:31.06,0:07:33.39,Italique,Sei,0,0,0,,Il a perdu aussi facilement ?
+Dialogue: 0,0:07:31.43,0:07:33.39,Sign,SIGN,0,0,0,,{\an8\fad(150,0)\3c&H92B311&\fnCourier New\fs22}SARGUS, HOMME-INSECTE\NDRYADE, FEMME-VÉGÉTAL
+Dialogue: 0,0:07:33.54,0:07:35.85,TiretsDefault,Gantz/Jean,228,0,0,,– Faut tout donner !\N– Allez !
+Dialogue: 0,0:07:37.35,0:07:38.06,Sign,SIGN,0,0,0,,{\an8\fad(150,0)\3c&H92B311&\fnCourier New\fs22\pos(499,225)}TRITON\NHOMME-POISSON
+Dialogue: 0,0:07:46.74,0:07:48.53,Sign,SIGN,0,0,0,,{\an1\fad(150,0)\3c&H92B311&\fnCourier New\fs22\pos(104,44)}LAMIA\NFEMME-SERPENT
+Dialogue: 0,0:08:08.93,0:08:11.39,Default,Gantz,0,0,0,,Occupe-toi d’abord de l’ennemi…
+Dialogue: 0,0:08:11.51,0:08:14.10,Default,Virgo,0,0,0,,Vous êtes tous\Ngrièvement blessés !
+Dialogue: 0,0:08:14.22,0:08:15.10,Default,Virgo,0,0,0,,Je dois…
+Dialogue: 0,0:08:20.93,0:08:23.31,Default,Dryade,0,0,0,,Tu te débrouilles.
+Dialogue: 0,0:08:25.28,0:08:28.01,Default,Lamia,0,0,0,,Cette fille a un niveau\Nplus élevé que le nôtre,
+Dialogue: 0,0:08:28.49,0:08:31.70,Default,Lamia,0,0,0,,mais elle semble manquer\Nd’expérience en combat réel.
+Dialogue: 0,0:08:41.31,0:08:42.04,Default,Sei,0,0,0,,Virgo !
+Dialogue: 0,0:08:45.13,0:08:47.29,TiretsDefault,Sei/Virgo,248,0,0,,– Tout va bien ?\N– Oui…
+Dialogue: 0,0:08:47.67,0:08:49.97,Default,Lamia,0,0,0,,Navrée,\Nmais votre heure est venue !
+Dialogue: 0,0:08:50.93,0:08:52.47,Default,Lamia,0,0,0,,Souffle aqueux !
+Dialogue: 0,0:08:57.39,0:08:58.35,Default,Lamia,0,0,0,,Qui va là ?
+Dialogue: 0,0:08:59.56,0:09:00.94,Default,Castor,0,0,0,,Je ne suis personne,
+Dialogue: 0,0:09:01.52,0:09:03.59,Default,Castor,0,0,0,,pas de quoi en faire tout un foin.
+Dialogue: 0,0:09:03.93,0:09:07.83,Default,Castor,0,0,0,,Je suis juste tombé dans les environs\Nà cause d’un petit accident,
+Dialogue: 0,0:09:07.98,0:09:09.76,Default,Castor,0,0,0,,ce qui n’est pas glorieux.
+Dialogue: 0,0:09:10.60,0:09:11.80,Default,Castor,0,0,0,,Cela dit,
+Dialogue: 0,0:09:12.20,0:09:15.02,Default,Castor,0,0,0,,je ne peux pas fermer les yeux\Nsur la situation.
+Dialogue: 0,0:09:16.41,0:09:20.58,Default,Castor,0,0,0,,J’ignore les détails,\Nmais je me permets d’intervenir.
+Dialogue: 0,0:09:33.00,0:09:35.50,Default,Sargus,0,0,0,,Cet homme est fort, c’est sûr !
+Dialogue: 0,0:09:35.89,0:09:38.66,Default,Dryade,0,0,0,,Il a quand même l’air\Nsacrément amoché.
+Dialogue: 0,0:09:38.79,0:09:41.65,Default,Dryade,0,0,0,,Allons-y,\Nil est plus mort que vif !
+Dialogue: 0,0:09:41.78,0:09:42.65,Default,Sargus,0,0,0,,Hé !
+Dialogue: 0,0:09:44.05,0:09:46.82,Default,Homme-poisson,0,0,0,,À nous quatre, c’est jouable !
+Dialogue: 0,0:09:53.16,0:09:54.36,Default,Castor,0,0,0,,Ptarmigan !
+Dialogue: 0,0:10:01.65,0:10:04.27,Default,Castor,0,0,0,,Je ne vous ai pas tués\Ndu premier coup,
+Dialogue: 0,0:10:04.65,0:10:07.29,Default,Castor,0,0,0,,mais si vous vous entêtez,
+Dialogue: 0,0:10:08.27,0:10:11.51,Default,Castor,0,0,0,,il faudra être prêts\Nà en assumer les conséquences.
+Dialogue: 0,0:10:14.50,0:10:17.11,Default,Castor,0,0,0,,Alors, vous voulez continuer ?
+Dialogue: 0,0:10:18.41,0:10:19.45,Default,Sargus,0,0,0,,On se retire.
+Dialogue: 0,0:10:19.59,0:10:22.58,Default,Dryade,0,0,0,,Tu es sérieux ?\NIl suffit de faire plus attention !
+Dialogue: 0,0:10:22.71,0:10:26.90,Default,Sargus,0,0,0,,Nous avons déjà accompli\Nnotre objectif.
+Dialogue: 0,0:10:28.17,0:10:29.11,Default,Lamia,0,0,0,,Partons.
+Dialogue: 0,0:10:33.20,0:10:35.14,Default,Sei,0,0,0,,Attendez ! Expliquez-vous !
+Dialogue: 0,0:10:48.52,0:10:50.27,Default,Cruz,0,0,0,,Ses blessures sont profondes.
+Dialogue: 0,0:10:51.44,0:10:53.19,Default,Cruz,0,0,0,,Je ne peux pas faire mieux.
+Dialogue: 0,0:10:54.40,0:10:56.03,Default,Virgo,0,0,0,,Haute guérison !
+Dialogue: 0,0:11:07.17,0:11:08.78,Default,Virgo,0,0,0,,Ce n’est pas possible…
+Dialogue: 0,0:11:09.12,0:11:11.11,Default,Virgo,0,0,0,,Ses blessures\Nne se referment pas ?
+Dialogue: 0,0:11:12.51,0:11:15.87,Default,Chatounet,0,0,0,,C’est si grave que\Nmême la magie céleste est inefficace ?
+Dialogue: 0,0:11:16.24,0:11:17.93,Default,Chatounet,0,0,0,,Heureusement, il reste l’élixir.
+Dialogue: 0,0:11:18.18,0:11:21.49,Default,Chatounet,0,0,0,,Si on lui donne\Nla totalité du flacon,
+Dialogue: 0,0:11:21.68,0:11:22.70,Default,Chatounet,0,0,0,,ça le sauvera !
+Dialogue: 0,0:11:34.06,0:11:35.30,Default,Virgo,0,0,0,,Sei…
+Dialogue: 0,0:11:55.61,0:11:58.67,Default,Chatounet,0,0,0,,Pourquoi… il ne se régénère pas ?
+Dialogue: 0,0:12:00.16,0:12:01.23,Default,Cruz,0,0,0,,Mes amis,
+Dialogue: 0,0:12:01.55,0:12:04.66,Default,Cruz,0,0,0,,écoutez-moi attentivement.\NL’élixir
+Dialogue: 0,0:12:05.29,0:12:08.33,Default,Cruz,0,0,0,,ne fonctionne\Nque sur les êtres vivants.
+Dialogue: 0,0:12:08.85,0:12:11.38,Default,Cruz,0,0,0,,Le dragon gardien n’est plus…
+Dialogue: 0,0:12:14.84,0:12:17.22,Default,Chatounet,0,0,0,,C’est impossible ! Non !
+Dialogue: 0,0:12:19.69,0:12:20.72,Default,Chatounet,0,0,0,,Hé, Virgo !
+Dialogue: 0,0:12:21.14,0:12:24.19,Default,Chatounet,0,0,0,,Tu es amie avec la fameuse Luphas,\Npas vrai ?
+Dialogue: 0,0:12:24.39,0:12:27.43,Default,Chatounet,0,0,0,,Tu peux faire quelque chose,\Navec tous tes pouvoirs ?
+Dialogue: 0,0:12:27.57,0:12:29.98,Default,Virgo,0,0,0,,Non, je suis désolée !\NEn fin de compte,
+Dialogue: 0,0:12:30.13,0:12:33.69,Default,Virgo,0,0,0,,j’ai le niveau le plus bas du groupe.\NJe suis trop faible !
+Dialogue: 0,0:12:36.58,0:12:41.10,Default,Chatounet,0,0,0,,Ces misérables…\NSaletés de monstres !
+Dialogue: 0,0:12:47.38,0:12:50.31,Default,Castor,0,0,0,,Alors comme ça,\Ntu connais dame Luphas ?
+Dialogue: 0,0:12:52.62,0:12:53.63,Default,Virgo,0,0,0,,Oui.
+Dialogue: 0,0:12:55.67,0:12:56.92,Default,Castor,0,0,0,,Je vois…
+Dialogue: 0,0:13:05.90,0:13:07.72,Default,Virgo,0,0,0,,Qu’est-ce que c’est ?
+Dialogue: 0,0:13:08.25,0:13:09.61,Default,Castor,0,0,0,,De l’amrita.
+Dialogue: 0,0:13:10.59,0:13:13.52,Default,Cruz,0,0,0,,De l’amrita ?\NLe légendaire nectar ?
+Dialogue: 0,0:13:13.74,0:13:17.31,Default,Castor,0,0,0,,Oui. Son efficacité\Nsupplante celle de l’élixir.
+Dialogue: 0,0:13:17.47,0:13:19.60,Default,Castor,0,0,0,,Si on l’utilise assez rapidement,
+Dialogue: 0,0:13:19.77,0:13:22.36,Default,Castor,0,0,0,,il peut même\Nramener les morts à la vie.
+Dialogue: 0,0:13:22.66,0:13:26.66,Default,Castor,0,0,0,,Dame Luphas n’a pu en fabriquer\Nqu’une infime quantité.
+Dialogue: 0,0:13:44.89,0:13:46.85,Default,Chatounet,0,0,0,,Le dragon gardien !
+Dialogue: 0,0:13:47.65,0:13:49.31,Default,Vice-commandante,0,0,0,,Quelle grâce !
+Dialogue: 0,0:13:49.49,0:13:51.45,Default,Castor,0,0,0,,Ce n’est pas grand-chose.
+Dialogue: 0,0:13:51.60,0:13:54.16,Default,Castor,0,0,0,,Vois ça comme\Nun cadeau de bienvenue.
+Dialogue: 0,0:13:55.00,0:13:58.63,Default,Castor,0,0,0,,On dirait que\Ntu es notre nouvelle camarade.
+Dialogue: 0,0:13:58.78,0:13:59.57,Default,Virgo,0,0,0,,Mais alors…
+Dialogue: 0,0:13:59.70,0:14:02.19,Default,Chatounet,0,0,0,,Ça par exemple ! Mille mercis !
+Dialogue: 0,0:14:02.33,0:14:05.74,Default,Chatounet,0,0,0,,J’ignore qui tu es,\Nmais tu viens de sauver le pays.
+Dialogue: 0,0:14:05.89,0:14:09.70,Default,Castor,0,0,0,,Ah oui, navré,\Nje ne me suis toujours pas présenté.
+Dialogue: 0,0:14:09.99,0:14:13.60,Default,Castor,0,0,0,,Je suis Castor, un des gémeaux\Ndes Douze Constellations.
+Dialogue: 0,0:14:13.83,0:14:15.92,Sign,SIGN,0,0,0,,{\an8\fad(250,0)\3c&H92B311&\fnCourier New\fs18\b1\pos(320.778,248.356)}CASTOR DES GÉMEAUX
+Dialogue: 0,0:14:16.66,0:14:18.47,Default,Virgo,0,0,0,,Je m’en doutais !
+Dialogue: 0,0:14:25.70,0:14:28.35,Default,Scorpius,0,0,0,,Tiens ? C’est ce bon vieux Castor !
+Dialogue: 0,0:14:28.54,0:14:30.77,Default,Scorpius,0,0,0,,Qu’est-ce que tu fais là ?
+Dialogue: 0,0:14:30.91,0:14:32.81,Italique,Karkinos,0,0,0,,Long time no see.
+Dialogue: 0,0:14:32.94,0:14:34.41,Default,Libra,0,0,0,,Cela fait 200 ans.
+Dialogue: 0,0:14:35.14,0:14:36.11,Default,Aries,0,0,0,,Coucou !
+Dialogue: 0,0:14:36.25,0:14:39.02,TiretsDefault,Castor/Aries,172,0,0,,– Salut. Tout le monde va bien ?\N– Oui !
+Dialogue: 0,0:14:39.75,0:14:41.92,Default,Castor,0,0,0,,Vous m’avez manqué,\Ndame Luphas.
+Dialogue: 0,0:14:42.32,0:14:45.15,Default,Castor,0,0,0,,J’étais sûr\Nque vous reviendriez un jour.
+Dialogue: 0,0:14:46.04,0:14:48.45,Default,Luphas,0,0,0,,Je suis ravie\Nde te savoir en forme,
+Dialogue: 0,0:14:48.59,0:14:49.77,Default,Luphas,0,0,0,,mon cher Castor.
+Dialogue: 0,0:14:49.93,0:14:50.81,Default,Castor,0,0,0,,Merci.
+Dialogue: 0,0:14:57.88,0:14:59.17,Sign,SIGN,0,0,0,,{\an8\fad(450,0)\pos(322.4,209)\shad1\blur1\bord1\c&HBEE062&\3c&H1C3E1B&\fnTimes New Roman\4c&HD88447&\fs21}CASTOR REJOINT VOTRE ÉQUIPE
+Dialogue: 0,0:14:59.81,0:15:01.00,Italique,Luphas,0,0,0,,Castor…
+Dialogue: 0,0:15:01.24,0:15:05.86,Italique,Luphas,0,0,0,,Dans le jeu, il formait avec sa sœur\Nun inséparable duo de lutins,
+Dialogue: 0,0:15:06.17,0:15:09.97,Italique,Luphas,0,0,0,,mais dans ce monde,\Non dirait qu’il agit en solo.
+Dialogue: 0,0:15:10.36,0:15:13.84,Italique,Luphas,0,0,0,,En tout cas,\Nses stats ont drôlement changé.
+Dialogue: 0,0:15:15.54,0:15:17.81,Default,Luphas,0,0,0,,Tu m’as l’air très affaibli.
+Dialogue: 0,0:15:19.26,0:15:20.77,Default,Castor,0,0,0,,À ce propos…
+Dialogue: 0,0:15:22.23,0:15:23.56,Default,Castor,0,0,0,,je suis vraiment navré.
+Dialogue: 0,0:15:23.94,0:15:26.59,Default,Castor,0,0,0,,Vous m’aviez confié\Nla clé des cieux,
+Dialogue: 0,0:15:26.73,0:15:29.20,Default,Castor,0,0,0,,mais le Roi-démon me l’a dérobée.
+Dialogue: 0,0:15:29.32,0:15:30.85,Italique,Luphas,0,0,0,,La clé des cieux !
+Dialogue: 0,0:15:30.99,0:15:34.01,Italique,Luphas,0,0,0,,C’est quoi, encore ?\NCe n’était pas dans le jeu.
+Dialogue: 0,0:15:34.34,0:15:36.40,Italique,Luphas,0,0,0,,Il faudra que je demande à Dina.
+Dialogue: 0,0:15:37.25,0:15:39.33,TiretsDefault,Luphas/Castor,238,0,0,,– Ne t’en fais pas.\N– Soit.
+Dialogue: 0,0:15:39.47,0:15:41.01,TiretsDefault,Luphas/Dina,289,0,0,,– Dina.\N– Oui !
+Dialogue: 0,0:15:41.50,0:15:44.02,TiretsDefault,Luphas/Dina,216,0,0,,– Soigne ses blessures.\N– Bien !
+Dialogue: 0,0:15:44.98,0:15:47.31,TiretsDefault,Castor/Dina,243,0,0,,– On se connaît ?\N– Alors…
+Dialogue: 0,0:15:47.45,0:15:50.49,Default,Luphas,0,0,0,,Bien, raconte-moi un peu\Nce qui s’est passé.
+Dialogue: 0,0:15:50.85,0:15:51.81,Default,Virgo,0,0,0,,Oui.
+Dialogue: 0,0:15:55.10,0:15:57.27,Default,Luphas,0,0,0,,Sagittarius est donc avec Leon…
+Dialogue: 0,0:15:57.47,0:15:59.06,Default,Luphas,0,0,0,,Qu’en pensez-vous ?
+Dialogue: 0,0:15:59.19,0:16:00.48,Default,Karkinos,0,0,0,,Ce n’est qu’un {\i1}fool{\i0} !
+Dialogue: 0,0:16:00.61,0:16:03.29,TiretsDefault,Aigokeros/Libra,200,0,0,,– C’est un sot.\N– Un crétin irrécupérable.
+Dialogue: 0,0:16:03.41,0:16:05.88,Default,Aries,0,0,0,,Moi aussi, je trouve ça limite…
+Dialogue: 0,0:16:05.99,0:16:07.70,Default,Scorpius,0,0,0,,Qu’il crève !
+Dialogue: 0,0:16:07.90,0:16:08.76,Italique,Luphas,0,0,0,,Du calme !
+Dialogue: 0,0:16:08.89,0:16:11.41,Default,Aigokeros,0,0,0,,La maladie du dragon gardien
+Dialogue: 0,0:16:11.60,0:16:15.13,Default,Aigokeros,0,0,0,,était peut-être même\Ndéjà liée à cette affaire.
+Dialogue: 0,0:16:18.14,0:16:19.55,Default,Karkinos,0,0,0,,C’est ton œuvre ?
+Dialogue: 0,0:16:19.69,0:16:21.65,Default,Scorpius,0,0,0,,Pas du tout !
+Dialogue: 0,0:16:21.79,0:16:25.15,Default,Scorpius,0,0,0,,J’ai cru que le dragon gênerait\Nmon attaque sur Draupnir,
+Dialogue: 0,0:16:25.29,0:16:27.08,Default,Scorpius,0,0,0,,donc je l’ai empoisonné
+Dialogue: 0,0:16:27.21,0:16:30.47,Default,Scorpius,0,0,0,,pour l’affaiblir\Net le tuer tranquillement plus tard !
+Dialogue: 0,0:16:30.59,0:16:31.93,Default,Virgo,0,0,0,,C’est terrible !
+Dialogue: 0,0:16:32.05,0:16:33.39,Default,Karkinos,0,0,0,,Tu n’es qu’une {\i1}fool{\i0}.
+Dialogue: 0,0:16:33.51,0:16:36.22,TiretsDefault,Aigokeros/Libra,189,0,0,,– C’est une sotte.\N– Une crétine irrécupérable.
+Dialogue: 0,0:16:36.34,0:16:39.23,Default,Aries,0,0,0,,Moi aussi, je trouve ça limite…
+Dialogue: 0,0:16:39.35,0:16:41.60,Default,Scorpius,0,0,0,,J’ai rien fait de mal !
+Dialogue: 0,0:16:42.20,0:16:44.84,Default,Scorpius,0,0,0,,N’empêche, c’est bizarre.\NLeon, passe encore,
+Dialogue: 0,0:16:44.97,0:16:47.93,Default,Scorpius,0,0,0,,mais depuis quand\NSagittarius est aussi stupide ?
+Dialogue: 0,0:16:48.06,0:16:52.28,Default,Karkinos,0,0,0,,Dans mes souvenirs,\Nil était plus cool et prudent.
+Dialogue: 0,0:16:52.42,0:16:55.92,Italique,Luphas,0,0,0,,Tout ceci cache donc encore\Nquelque chose ?
+Dialogue: 0,0:16:56.20,0:16:59.66,Italique,Luphas,0,0,0,,Le message qu’il a laissé à Libra\Nest incompréhensible.
+Dialogue: 0,0:16:59.96,0:17:04.13,Italique,Luphas,0,0,0,,Une sorte d’avertissement comme quoi\Nil se serait rangé du côté de Leon…
+Dialogue: 0,0:17:04.88,0:17:06.08,Default,Luphas,0,0,0,,Ma décision est prise.
+Dialogue: 0,0:17:06.39,0:17:09.50,Default,Luphas,0,0,0,,Il faut récupérer\NLeon et Sagittarius.
+Dialogue: 0,0:17:09.88,0:17:13.11,Default,Luphas,0,0,0,,Je dois m’assurer moi-même\Nde leurs intentions.
+Dialogue: 0,0:17:13.25,0:17:14.85,TiretsDefault,Tous/Luphas,269,0,0,,– Compris !\N– Dina,
+Dialogue: 0,0:17:15.10,0:17:16.84,Default,Luphas,0,0,0,,sais-tu où trouver Leon ?
+Dialogue: 0,0:17:17.01,0:17:19.06,Default,Dina,0,0,0,,Il doit être à Tyrfing !
+Dialogue: 0,0:17:19.20,0:17:23.31,Default,Dina,0,0,0,,C’est le lieu de la coalition\Ndes demi-humains classés comme monstres.
+Dialogue: 0,0:17:23.81,0:17:28.52,Default,Dina,0,0,0,,Tyrfing est la zone la plus dangereuse\Nau sein du territoire de l’humanité.
+Dialogue: 0,0:17:28.85,0:17:30.42,Default,Luphas,0,0,0,,À ce point-là ?
+Dialogue: 0,0:17:30.57,0:17:34.22,Default,Dina,0,0,0,,Oui, c’est tout proche\Ndu territoire des démons.
+Dialogue: 0,0:17:34.39,0:17:36.81,Default,Dina,0,0,0,,Les demi-humains\Ns’y sont réfugiés
+Dialogue: 0,0:17:36.95,0:17:39.37,Default,Dina,0,0,0,,pour échapper\Nau regard de l’humanité.
+Dialogue: 0,0:17:39.74,0:17:43.24,Default,Dina,0,0,0,,Hommes croisés avec poissons,\Ninsectes, végétaux, serpents…
+Dialogue: 0,0:17:43.37,0:17:44.82,Default,Dina,0,0,0,,toutes sortes d’espèces !
+Dialogue: 0,0:17:44.96,0:17:48.87,Default,Dina,0,0,0,,Il y a aussi le village des centaures,\Nd’où vient Sagittarius.
+Dialogue: 0,0:17:50.07,0:17:54.04,Italique,Luphas,0,0,0,,Peut-être que ses congénères\Nauront des informations sur lui.
+Dialogue: 0,0:17:55.86,0:17:58.79,Default,Virgo,0,0,0,,Dame Luphas,\Nle groupe de Sei est arrivé.
+Dialogue: 0,0:17:58.96,0:17:59.79,Default,Jean,0,0,0,,Salut !
+Dialogue: 0,0:17:59.92,0:18:02.48,TiretsDefault,Sei/Gantz,221,0,0,,– Désolé.\N– On a mis du temps !
+Dialogue: 0,0:18:02.61,0:18:03.98,Default,Virgo,0,0,0,,Et Nick et les autres ?
+Dialogue: 0,0:18:04.11,0:18:06.40,Default,Jean,0,0,0,,Ils étaient gravement blessés,
+Dialogue: 0,0:18:06.53,0:18:08.97,Default,Jean,0,0,0,,donc ils restent en convalescence\Nà Draupnir.
+Dialogue: 0,0:18:09.10,0:18:10.83,Default,Chatounet,0,0,0,,Tout à fait !
+Dialogue: 0,0:18:11.66,0:18:15.05,Default,Chatounet,0,0,0,,Par conséquent, je viens combler\Nle vide laissé dans l’équipe.
+Dialogue: 0,0:18:15.20,0:18:19.86,Default,Chatounet,0,0,0,,Dommage. S’il restait de l’élixir,\Nnous aurions pu les soigner.
+Dialogue: 0,0:18:20.69,0:18:23.92,Default,Jean,0,0,0,,Quand même,\Nça reste un remède légendaire.
+Dialogue: 0,0:18:24.37,0:18:26.68,Default,Jean,0,0,0,,On n’allait pas le gâcher\Npour eux !
+Dialogue: 0,0:18:28.38,0:18:32.54,Italique,Luphas,0,0,0,,Il y en avait des litres et des litres,\Ndans mon tombeau…
+Dialogue: 0,0:18:33.86,0:18:35.51,Default,Luphas,0,0,0,,Te voilà donc, héros.
+Dialogue: 0,0:18:36.47,0:18:38.39,Default,Luphas,0,0,0,,Tu voulais me parler ?
+Dialogue: 0,0:18:39.52,0:18:40.49,Default,Sei,0,0,0,,Oui !
+Dialogue: 0,0:18:42.32,0:18:43.49,Default,Luphas,0,0,0,,Je comprends.
+Dialogue: 0,0:18:43.65,0:18:47.31,Default,Luphas,0,0,0,,Tu es venu exprès\Npour vérifier si j’étais vraiment
+Dialogue: 0,0:18:47.60,0:18:50.85,Default,Luphas,0,0,0,,l’ennemie du monde\Ntelle que décrite dans les légendes ?
+Dialogue: 0,0:18:51.00,0:18:51.78,Default,Sei,0,0,0,,Oui.
+Dialogue: 0,0:18:53.13,0:18:56.70,Default,Luphas,0,0,0,,Pour l’instant,\Nje n’ai aucune intention hostile.
+Dialogue: 0,0:18:57.06,0:18:58.16,Default,Luphas,0,0,0,,D’ailleurs,
+Dialogue: 0,0:18:58.30,0:19:02.70,Default,Luphas,0,0,0,,je croyais l’avoir dit\Ndès le jour où j’ai été invoquée.
+Dialogue: 0,0:19:05.90,0:19:07.29,Default,Sei,0,0,0,,Est-ce que ça veut dire
+Dialogue: 0,0:19:07.43,0:19:10.84,Default,Sei,0,0,0,,que tu vas nous aider\Nà combattre les démons ?
+Dialogue: 0,0:19:11.10,0:19:14.18,Default,Luphas,0,0,0,,Pourquoi pas,\Nmais j’ai quelque chose à faire avant.
+Dialogue: 0,0:19:14.33,0:19:17.29,TiretsDefault,Sei/Luphas,197,0,0,,– C’est-à-dire ?\N– Leon attire les monstres,
+Dialogue: 0,0:19:17.46,0:19:19.01,Default,Luphas,0,0,0,,ou plutôt les demi-humains,
+Dialogue: 0,0:19:19.13,0:19:22.52,Default,Luphas,0,0,0,,dans une entreprise\Nqui les mènera à leur perte.
+Dialogue: 0,0:19:22.67,0:19:25.65,Default,Luphas,0,0,0,,Je suis responsable\Ndes erreurs de mon subordonné.
+Dialogue: 0,0:19:25.89,0:19:28.36,Default,Luphas,0,0,0,,Je dois donc arrêter cet imbécile.
+Dialogue: 0,0:19:28.52,0:19:30.97,Default,Jean,0,0,0,,Dans ce cas,\Nnous sommes concernés aussi !
+Dialogue: 0,0:19:31.09,0:19:34.57,Default,Jean,0,0,0,,Si les monstres déclenchent une guerre,\Nce sera terrible !
+Dialogue: 0,0:19:34.69,0:19:38.45,Default,Gantz,0,0,0,,On va t’aider à stopper ce Leon,\NLuphas !
+Dialogue: 0,0:19:38.67,0:19:39.44,Default,Luphas,0,0,0,,Non…
+Dialogue: 0,0:19:39.57,0:19:43.14,Italique,Luphas,0,0,0,,J’apprécie l’intention,\Nmais ils n’ont pas le niveau.
+Dialogue: 0,0:19:43.92,0:19:46.21,Default,Luphas,0,0,0,,Ça pourrait vite\Ntourner au carnage.
+Dialogue: 0,0:19:46.46,0:19:48.71,Default,Luphas,0,0,0,,Ce sera moi,\Navec mes constellations.
+Dialogue: 0,0:19:48.85,0:19:52.60,TiretsDefault,Sei/Luphas,166,0,0,,– Mais…\N– Enquêtez plutôt sur Sagittarius.
+Dialogue: 0,0:19:52.73,0:19:55.81,Default,Luphas,0,0,0,,Le village des centaures\Ndevrait pouvoir vous aider.
+Dialogue: 0,0:19:56.63,0:19:59.03,Default,Luphas,0,0,0,,Virgo et Castor\Nvous accompagneront.
+Dialogue: 0,0:19:59.74,0:20:02.73,Default,Luphas,0,0,0,,Au moins,\Nce sont des visages familiers.
+Dialogue: 0,0:20:02.99,0:20:06.35,Default,Luphas,0,0,0,,Désolée, Castor,\Nnous venons à peine de nous retrouver.
+Dialogue: 0,0:20:06.51,0:20:08.35,Default,Luphas,0,0,0,,Je te confie Virgo et le héros.
+Dialogue: 0,0:20:08.51,0:20:10.85,Default,Castor,0,0,0,,Vous pouvez compter sur moi,\Ndame Luphas.
+Dialogue: 0,0:20:12.47,0:20:16.20,Default,Luphas,0,0,0,,Dina, tu sais ce qu’est\Ncette « clé des cieux » ?
+Dialogue: 0,0:20:17.09,0:20:18.81,Default,Dina,0,0,0,,Je ne suis pas sûre,
+Dialogue: 0,0:20:19.05,0:20:23.93,Default,Dina,0,0,0,,mais il paraît que celui qui la détient\Npeut changer les lois du monde.
+Dialogue: 0,0:20:24.08,0:20:25.92,Default,Luphas,0,0,0,,Les lois du monde…
+Dialogue: 0,0:20:26.11,0:20:29.05,Default,Luphas,0,0,0,,Le pouvoir de tordre les règles,\Nen gros.
+Dialogue: 0,0:20:29.27,0:20:31.29,Default,Luphas,0,0,0,,Un peu comme un admin.
+Dialogue: 0,0:20:31.43,0:20:32.33,Default,Dina,0,0,0,,Ou alors,
+Dialogue: 0,0:20:32.75,0:20:35.41,Default,Dina,0,0,0,,un maître du jeu\Ndoté des pleins pouvoirs.
+Dialogue: 0,0:20:36.76,0:20:38.02,Italique,Luphas,0,0,0,,Pourquoi est-ce que
+Dialogue: 0,0:20:38.20,0:20:42.29,Italique,Luphas,0,0,0,,j’aurais confié ça à Castor\Nsans m’en servir contre les Sept Héros ?
+Dialogue: 0,0:20:48.51,0:20:49.72,Default,Luphas,0,0,0,,Qu’y a-t-il, héros ?
+Dialogue: 0,0:20:49.86,0:20:52.09,TiretsDefault,Sei/Luphas,244,0,0,,– Luphas, c’est…\N– Suzuki.
+Dialogue: 0,0:20:52.23,0:20:54.72,Default,Sei,0,0,0,,Non !\NPourquoi il y a un camping-car ?
+Dialogue: 0,0:20:54.85,0:20:58.28,Default,Luphas,0,0,0,,C’est plus facile pour voyager.\NTu aurais voulu un camion ?
+Dialogue: 0,0:20:58.54,0:21:00.46,Default,Sei,0,0,0,,Ce n’est pas la question…
+Dialogue: 0,0:21:00.59,0:21:01.87,Default,Luphas,0,0,0,,J’ai compris.
+Dialogue: 0,0:21:02.17,0:21:03.78,Default,Luphas,0,0,0,,Sans trop en dire,
+Dialogue: 0,0:21:03.91,0:21:08.04,Default,Luphas,0,0,0,,disons que j’ai quelques connaissances\Nconcernant l’autre monde.
+Dialogue: 0,0:21:08.99,0:21:10.05,Default,Sei,0,0,0,,Ah bon…
+Dialogue: 0,0:21:15.48,0:21:18.14,Default,Luphas,0,0,0,,Bien, mettons-nous en route aussi.
+Dialogue: 0,0:21:18.91,0:21:20.89,Default,Luphas,0,0,0,,Direction Tyrfing, c’est bien ça ?
+Dialogue: 0,0:21:21.04,0:21:22.82,Default,Dina,0,0,0,,Oui. Cependant…
+Dialogue: 0,0:21:22.94,0:21:26.00,Default,Aigokeros,0,0,0,,Il y a peut-être un problème.
+Dialogue: 0,0:21:26.72,0:21:29.72,Default,Dina,0,0,0,,Tyrfing se trouve\Nà proximité de Mjöllnir.
+Dialogue: 0,0:21:29.92,0:21:32.79,Default,Dina,0,0,0,,C’est le pays dirigé par Benetnash.
+Dialogue: 0,0:21:33.19,0:21:36.46,Default,Dina,0,0,0,,Elle n’est pas comme\Nles autres membres des Sept Héros.
+Dialogue: 0,0:21:36.83,0:21:40.22,Default,Dina,0,0,0,,Elle a conservé sa puissance maximale\Nde l’époque.
+Dialogue: 0,0:21:40.46,0:21:42.91,Default,Dina,0,0,0,,Son obsession pour vous\Nest sans pareille,
+Dialogue: 0,0:21:43.16,0:21:47.22,Default,Dina,0,0,0,,et son seul but est de vous tuer\Nde ses propres mains.
+Dialogue: 0,0:21:47.39,0:21:49.45,Default,Dina,0,0,0,,Elle est très dangereuse.
+Dialogue: 0,0:21:51.46,0:21:52.84,Default,Luphas,0,0,0,,Benetnash…
+Dialogue: 0,0:21:54.35,0:21:55.84,Default,Benetnash,0,0,0,,Je te sens…
+Dialogue: 0,0:21:56.28,0:21:58.64,Default,Benetnash,0,0,0,,On va enfin pouvoir continuer.
+Dialogue: 0,0:21:58.84,0:22:00.55,Default,Benetnash,0,0,0,,Viens donc, mon ennemie jurée.
+Dialogue: 0,0:22:00.87,0:22:04.08,Default,Benetnash,0,0,0,,Cette fois,\Nje vais te tuer pour de bon…
+Dialogue: 0,0:22:06.10,0:22:08.39,Default,Benetnash,0,0,0,,Luphas Mafahl…
+Dialogue: 0,0:23:34.88,0:23:36.88,Default,Crédits,0,0,0,,{\an8}Traduction : Éric Figuière\NAdaptation : DW512ZC
+Dialogue: 0,0:23:37.56,0:23:39.56,Default,Crédits,0,0,0,,{\an8}Repérage : Matt Wayne\NRelecture : Corentin Le Corre
+
