@@ -1,0 +1,397 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_A_Ari,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.64,0:00:04.48,Gen_Italics,Sei,0,0,0,,Tras repeler a Mercurio,\Nuno de los siete luminares,
+Dialogue: 0,0:00:04.93,0:00:07.44,Gen_Italics,Sei,0,0,0,,y volver con el elixir que nos pidieron,
+Dialogue: 0,0:00:07.79,0:00:11.62,Gen_Italics,Sei,0,0,0,,recibimos la recompensa del país\Ny hasta nos llevamos los honores.
+Dialogue: 0,0:00:12.77,0:00:15.44,Gen_Italics,Sei,0,0,0,,Aunque casi no hicimos nada…
+Dialogue: 0,0:00:16.36,0:00:17.36,Gen_Main,Lufas,0,0,0,,¿Honores?
+Dialogue: 0,0:00:17.77,0:00:20.95,Gen_Main,Lufas,0,0,0,,No me hacen falta,\Nasí que repártelos con Virgo.
+Dialogue: 0,0:00:21.42,0:00:25.86,Gen_Italics,Sei,0,0,0,,Ella aprobó que nos los quedáramos,\Npero no me siento muy cómodo.
+Dialogue: 0,0:00:26.54,0:00:30.00,Gen_Italics,Sei,0,0,0,,Además, nos llamó el emperador\Nque gobierna el país,
+Dialogue: 0,0:00:30.28,0:00:33.78,Gen_Italics,Sei,0,0,0,,y casi me obligan a casarme\Ncon la princesa imperial.
+Dialogue: 0,0:00:33.88,0:00:35.82,Gen_Italics,Sei,0,0,0,,Digamos que fue complicado.
+Dialogue: 0,0:00:40.53,0:00:42.64,Gen_Main,Virgo,0,0,0,,¿Estás bien, Sei?
+Dialogue: 0,0:00:43.80,0:00:46.25,Gen_Main,Sei,0,0,0,,Ah, no, no es nada.
+Dialogue: 0,0:00:46.35,0:00:47.35,Gen_Main,Gantz,0,0,0,,¡Muy bien!
+Dialogue: 0,0:00:47.43,0:00:51.60,Gen_Main,Gantz,0,0,0,,¡Solo falta usar el elixir\Npara curar al dragón guardián!
+Dialogue: 0,0:00:52.41,0:00:56.11,Gen_Main,Kaineko,0,0,0,,El dragón guardián\Nestá al otro lado de este bosque.
+Dialogue: 0,0:00:56.19,0:00:58.08,Gen_Main,Kaineko,0,0,0,,¡Yo los guiaré!
+Dialogue: 0,0:00:58.15,0:00:59.19,Gen_Main,All,0,0,0,,¡Sí!
+Dialogue: 0,0:02:32.65,0:02:37.51,Cart_A_Tim,CARTEL,0,0,0,,{\fad(133,493)\bord0\shad1\4a&H60&\pos(444.55,295.66)}Episodio {\t(425,717,\c&H0900B7&)}20 {\c&HFFFFFF&}¡Aparecieron los "{\t(425,717,\c&H0900B7&)}monstruos{\c&HFFFFFF&}"!
+Dialogue: 0,0:02:47.97,0:02:48.97,Gen_Main,Sei,0,0,0,,Señorita Virgo.
+Dialogue: 0,0:02:49.05,0:02:50.35,Gen_Main,Virgo,0,0,0,,¿Sí?
+Dialogue: 0,0:02:50.81,0:02:52.46,Gen_Main,Sei,0,0,0,,¿Te gustan los bosques?
+Dialogue: 0,0:02:53.86,0:02:55.75,Gen_Main,Virgo,0,0,0,,Puedes decirme Virgo, a secas.
+Dialogue: 0,0:02:55.88,0:02:57.98,Gen_Main,Virgo,0,0,0,,Me da vergüenza que seas tan formal.
+Dialogue: 0,0:02:58.06,0:02:59.66,Gen_Main,Sei,0,0,0,,¡Está bien!
+Dialogue: 0,0:03:00.53,0:03:05.09,Gen_Main,Virgo,0,0,0,,Viví en el bosque\Ndesde que tengo memoria.
+Dialogue: 0,0:03:05.44,0:03:08.58,Gen_Main,Virgo,0,0,0,,Por eso me relaja más el bosque.
+Dialogue: 0,0:03:09.62,0:03:11.65,Gen_Main,Kross,0,0,0,,Pero qué curioso.
+Dialogue: 0,0:03:12.53,0:03:13.58,Gen_Main,Kross,0,0,0,,Por lo general,
+Dialogue: 0,0:03:13.84,0:03:17.14,Gen_Main,Kross,0,0,0,,a los alados no les gustan mucho\Nlos bosques llenos de maná.
+Dialogue: 0,0:03:17.95,0:03:20.03,Gen_Main,Virgo,0,0,0,,A mí no me molesta.
+Dialogue: 0,0:03:20.14,0:03:22.87,Gen_Main,Virgo,0,0,0,,Aunque oí que los alados comunes
+Dialogue: 0,0:03:22.96,0:03:25.49,Gen_Main,Virgo,0,0,0,,prefieren las cumbres,\Ndonde hay menos maná.
+Dialogue: 0,0:03:25.59,0:03:26.59,Gen_Main,Kross,0,0,0,,Mmm…
+Dialogue: 0,0:03:26.77,0:03:30.71,Gen_Main,Kross,0,0,0,,En ese caso,\Nquizá sea por influencia de tus padres.
+Dialogue: 0,0:03:31.08,0:03:35.28,Gen_Main,Kross,0,0,0,,Si los padres absorben mucho maná,\Na veces nace un alado
+Dialogue: 0,0:03:35.35,0:03:37.94,Gen_Main,Kross,0,0,0,,que no rechaza el maná.
+Dialogue: 0,0:03:38.32,0:03:40.90,Gen_Main,Kross,0,0,0,,Como Lufas Maphaahl, por ejemplo.
+Dialogue: 0,0:03:43.00,0:03:45.95,Gen_Main,Kross,0,0,0,,Hay registros de que entró a Helheim,
+Dialogue: 0,0:03:46.38,0:03:50.03,Gen_Main,Kross,0,0,0,,repleto de maná denso, sin inmutarse.
+Dialogue: 0,0:03:51.41,0:03:55.15,Gen_Main,Sei/Kross,0,0,0,,-Pero Virgo tiene las alas blancas, ¿no?\N-Sí.
+Dialogue: 0,0:03:55.41,0:04:00.24,Gen_Main,Kross,0,0,0,,Los cambios que provoca el maná\Nno siempre se notan por fuera.
+Dialogue: 0,0:04:00.35,0:04:04.98,Gen_Main,Kross,0,0,0,,Dicen que los padres de Lufas\Ntambién tenían alas blancas normales.
+Dialogue: 0,0:04:06.13,0:04:10.88,Gen_Main,Sei,0,0,0,,Entonces, a diferencia de Lufas,\N¿en Virgo no se nota por fuera
+Dialogue: 0,0:04:10.96,0:04:13.52,Gen_Main,Sei,0,0,0,,y por eso conserva sus alas blancas?
+Dialogue: 0,0:04:13.84,0:04:15.84,Gen_Main,Kross,0,0,0,,Es una posibilidad.
+Dialogue: 0,0:04:17.74,0:04:19.09,Gen_Italics,Sei,0,0,0,,Si es así,
+Dialogue: 0,0:04:19.18,0:04:23.15,Gen_Italics,Sei,0,0,0,,los padres de Virgo habrían absorbido\Nuna cantidad enorme de maná.
+Dialogue: 0,0:04:23.38,0:04:26.08,Gen_Italics,Sei,0,0,0,,La abuela de Virgo\Nes una de los doce astros, ¿no?
+Dialogue: 0,0:04:26.15,0:04:29.54,Gen_Italics,Sei,0,0,0,,Espera, pero también dijo\Nque Parthenos la acogió.
+Dialogue: 0,0:04:30.73,0:04:33.21,Gen_Italics,Sei,0,0,0,,¿Entonces sus padres…?
+Dialogue: 0,0:04:36.46,0:04:37.56,Gen_Main,Kaineko,0,0,0,,¡Es más adelante!
+Dialogue: 0,0:04:37.66,0:04:39.42,Gen_Main,Kaineko,0,0,0,,¡Ahí está el dragón guardián!
+Dialogue: 0,0:04:39.79,0:04:40.79,Gen_Main,All,0,0,0,,¡Sí!
+Dialogue: 0,0:04:52.60,0:04:55.45,Gen_Main,Kaineko,0,0,0,,¿Dragón guardián…?
+Dialogue: 0,0:04:57.26,0:04:58.96,Gen_Main,Kaineko,0,0,0,,¡¿Cómo es posible?!
+Dialogue: 0,0:04:59.85,0:05:01.63,Gen_Main,Kaineko,0,0,0,,¿Quién…?
+Dialogue: 0,0:05:01.75,0:05:03.92,Gen_Main,Kaineko,0,0,0,,¡¿Quién pudo hacer esto?!
+Dialogue: 0,0:05:04.05,0:05:05.05,Gen_Main,Lamia,0,0,0,,Vaya…
+Dialogue: 0,0:05:05.10,0:05:08.45,Gen_Main,Lamia,0,0,0,,¡Qué raro tener visitas en este bosque!
+Dialogue: 0,0:05:11.17,0:05:15.12,Gen_Main,Merman,0,0,0,,Parece que vinieron a curar\Nla enfermedad del dragón guardián.
+Dialogue: 0,0:05:15.19,0:05:17.46,Gen_Main,Merman,0,0,0,,Pero ya no sirve de nada.
+Dialogue: 0,0:05:18.04,0:05:19.52,Gen_Main,Kaineko,0,0,0,,¡Malditos monstruos!
+Dialogue: 0,0:05:19.63,0:05:21.50,Gen_Main,Kaineko,0,0,0,,¡Aléjense del dragón guardián!
+Dialogue: 0,0:05:22.48,0:05:23.48,Gen_Main,Sei,0,0,0,,¿"Monstruos"?
+Dialogue: 0,0:05:23.92,0:05:25.09,Gen_Main,Sei,0,0,0,,¡¿Esas personas?!
+Dialogue: 0,0:05:26.79,0:05:28.06,Gen_Main,Sargess,0,0,0,,Monstruos, ¿eh?
+Dialogue: 0,0:05:28.12,0:05:29.24,Gen_Main,Sargess,0,0,0,,Supongo que sí.
+Dialogue: 0,0:05:29.37,0:05:32.09,Gen_Main,Sargess,0,0,0,,En el mundo de hoy, somos monstruos.
+Dialogue: 0,0:05:32.17,0:05:34.90,Gen_Main,Sargess,0,0,0,,Así nos han clasificado.
+Dialogue: 0,0:05:35.59,0:05:40.61,Gen_Main,Sargess,0,0,0,,Pero ¿qué nos diferencia de ustedes?
+Dialogue: 0,0:05:41.36,0:05:44.84,Gen_Main,Sargess,0,0,0,,Podemos comunicarnos con palabras.
+Dialogue: 0,0:05:44.95,0:05:47.95,Gen_Main,Sargess,0,0,0,,Podemos entendernos y acercarnos.
+Dialogue: 0,0:05:48.02,0:05:51.53,Gen_Main,Sargess,0,0,0,,Solo nos vemos distintos,\Npero somos iguales a ustedes.
+Dialogue: 0,0:05:52.47,0:05:54.04,Gen_Italics,Sei,0,0,0,,Estas personas…
+Dialogue: 0,0:05:54.11,0:05:55.87,Gen_Main,Kaineko,0,0,0,,¡Fsss!
+Dialogue: 0,0:05:55.94,0:05:57.23,Gen_Main,Kaineko,0,0,0,,¡Silencio, monstruos!
+Dialogue: 0,0:05:57.32,0:06:01.59,Gen_Main,Kaineko,0,0,0,,¡No me hagan reír! ¿Entendernos\Ntras herir así al dragón guardián?
+Dialogue: 0,0:06:05.38,0:06:07.06,Gen_Main,Lamia,0,0,0,,Ya basta, sargento.
+Dialogue: 0,0:06:07.40,0:06:11.85,Gen_Main,Lamia,0,0,0,,Nos alzamos porque por siglos\Nignoraron lo que decíamos.
+Dialogue: 0,0:06:11.92,0:06:14.91,Gen_Main,Lamia,0,0,0,,¡Solo el señor Leo puede salvarnos!
+Dialogue: 0,0:06:15.01,0:06:17.53,Gen_Main,Lamia,0,0,0,,¡Ya no debemos confiar en la humanidad!
+Dialogue: 0,0:06:18.06,0:06:19.12,Gen_Main,Kross,0,0,0,,¡No puede ser!
+Dialogue: 0,0:06:19.43,0:06:21.37,Gen_Main,Sei,0,0,0,,Kross, ¿quién es Leo?
+Dialogue: 0,0:06:21.86,0:06:24.78,Gen_Main,Kross,0,0,0,,Leo, el león, de los doce astros…
+Dialogue: 0,0:06:25.45,0:06:28.63,Gen_Main,Kross,0,0,0,,¡En el mundo anterior a Lufas Maphaahl,
+Dialogue: 0,0:06:28.74,0:06:31.10,Gen_Main,Kross,0,0,0,,era uno de los cuatro\Nque lo equilibraban!
+Dialogue: 0,0:06:31.22,0:06:36.00,Gen_Main,Kross,0,0,0,,¡El más fuerte de los doce astros,\Nel rey león que domina a los monstruos!
+Dialogue: 0,0:06:36.98,0:06:41.98,Gen_Main,Dryad,0,0,0,,¡El señor Leo dejó a los doce astros\Ny su nivel volvió a ser 1000!
+Dialogue: 0,0:06:42.03,0:06:46.18,Gen_Main,Dryad,0,0,0,,¡Si el señor Leo se pone serio,\Nbarrerá a la humanidad y a los demonios
+Dialogue: 0,0:06:46.24,0:06:48.42,Gen_Main,Dryad,0,0,0,,y llegará nuestra era!
+Dialogue: 0,0:06:50.88,0:06:54.60,Gen_Main,Sargess,0,0,0,,¡Somos quienes desean cambiar el mundo!
+Dialogue: 0,0:06:54.67,0:06:58.30,Gen_Main,Merman,0,0,0,,¡Y vinimos a matar al dragón guardián\Ncomo declaración de guerra!
+Dialogue: 0,0:06:58.52,0:06:59.52,Gen_Main,Lamia,0,0,0,,¡Oye!
+Dialogue: 0,0:06:59.59,0:07:01.78,Gen_Main,Lamia,0,0,0,,¡No hables de más!
+Dialogue: 0,0:07:01.84,0:07:03.48,Gen_Main,Dryad,0,0,0,,¡No pasa nada!
+Dialogue: 0,0:07:03.55,0:07:05.69,Gen_Main,Dryad,0,0,0,,Solo tenemos que callarlos
+Dialogue: 0,0:07:06.33,0:07:07.65,Gen_Main,Dryad,0,0,0,,¡y ya!
+Dialogue: 0,0:07:21.50,0:07:26.17,Gen_Main,Dryad,0,0,0,,¡Tal como dijo el señor Leo,\Nla humanidad de hoy es superdébil!
+Dialogue: 0,0:07:26.24,0:07:28.19,Gen_Italics,Sei,0,0,0,,¿Débil?
+Dialogue: 0,0:07:28.32,0:07:30.67,Gen_Italics,Sei,0,0,0,,¡El humano más fuerte,\Nel santo de la espada!
+Dialogue: 1,0:07:31.07,0:07:33.39,Gen_Italics,Sei,0,0,0,,¡¿Y lo derrotan así de fácil?!
+Dialogue: 0,0:07:31.32,0:07:33.39,Cart_A_Tre,CARTEL,0,0,0,,{\an2\fad(170,0)\bord1.5\blur2\fs16\3c&H99B91A&\pos(447.2,112.4)}Dryad
+Dialogue: 0,0:07:31.32,0:07:33.39,Cart_A_Tre,CARTEL,0,0,0,,{\an2\fad(170,0)\bord1.5\blur2\fs16\3c&H99B91A&\pos(102.8,325.68)}Sargess
+Dialogue: 0,0:07:31.32,0:07:33.39,Cart_A_Tre,CARTEL,0,0,0,,{\an2\fad(170,0)\bord1.5\blur2\fs16\3c&H99B91A&\pos(468.4,36.8)}Mujer planta
+Dialogue: 0,0:07:31.32,0:07:33.39,Cart_A_Tre,CARTEL,0,0,0,,{\an2\fad(170,0)\bord1.5\blur2\fs16\3c&H99B91A&\pos(129.6,250.08)}Hombre insecto
+Dialogue: 0,0:07:33.46,0:07:35.85,Gen_Main,Gantz,0,0,0,,¡Con todo!
+Dialogue: 0,0:07:37.24,0:07:38.06,Cart_A_Tre,CARTEL,0,0,0,,{\an2\fad(170,0)\bord1.5\blur2\fs16\3c&H99B91A&\pos(452.8,344.8)}Merman
+Dialogue: 0,0:07:37.24,0:07:38.06,Cart_A_Tre,CARTEL,0,0,0,,{\an2\fad(170,0)\bord1.5\blur2\fs16\3c&H99B91A&\pos(470,268.8)}Hombre pez
+Dialogue: 0,0:07:46.71,0:07:48.53,Cart_A_Tre,CARTEL,0,0,0,,{\an2\fad(170,0)\bord1.5\blur2\fs16\3c&H99B91A&\pos(156.4,40.8)}Mujer serpiente
+Dialogue: 0,0:07:46.71,0:07:48.53,Cart_A_Tre,CARTEL,0,0,0,,{\an2\fad(170,0)\bord1.5\blur2\fs16\3c&H99B91A&\pos(128,127.2)}Lamia
+Dialogue: 0,0:08:08.92,0:08:11.38,Gen_Main,Gantz,0,0,0,,¡Cúralos a ellos antes que a nosotros!
+Dialogue: 0,0:08:11.45,0:08:13.99,Gen_Main,Virgo,0,0,0,,¡Sus heridas tampoco son leves!
+Dialogue: 0,0:08:14.08,0:08:15.08,Gen_Main,Virgo,0,0,0,,¡Si no los curo…!
+Dialogue: 0,0:08:20.98,0:08:23.56,Gen_Main,Dryad,0,0,0,,Eres bastante buena.
+Dialogue: 0,0:08:25.27,0:08:27.92,Gen_Main,Lamia,0,0,0,,Esa chica tiene más nivel que nosotros.
+Dialogue: 0,0:08:28.48,0:08:31.69,Gen_Main,Lamia,0,0,0,,Pero no parece acostumbrada a pelear.
+Dialogue: 0,0:08:38.14,0:08:39.71,Gen_Main,Dryad,0,0,0,,¡Toma!
+Dialogue: 0,0:08:41.06,0:08:42.06,Gen_Main,Sei,0,0,0,,¡Virgo!
+Dialogue: 0,0:08:44.96,0:08:46.11,Gen_Main,Sei,0,0,0,,¡¿Estás bien?!
+Dialogue: 0,0:08:46.20,0:08:47.24,Gen_Main,Virgo,0,0,0,,Sí.
+Dialogue: 0,0:08:47.67,0:08:49.94,Gen_Main,Lamia,0,0,0,,¡Lo siento, pero vas a morir!
+Dialogue: 0,0:08:50.92,0:08:52.05,Gen_Main,Lamia,0,0,0,,¡Ráfaga acuática!
+Dialogue: 0,0:08:57.37,0:08:58.37,Gen_Main,Lamia,0,0,0,,¡¿Quién eres?!
+Dialogue: 0,0:08:59.68,0:09:00.68,Gen_Main,Castor,0,0,0,,¿Que quién soy?
+Dialogue: 0,0:09:01.56,0:09:03.53,Gen_Main,Castor,0,0,0,,Nadie digno de mención.
+Dialogue: 0,0:09:03.96,0:09:07.96,Gen_Main,Castor,0,0,0,,Solo un hombre patético\Nque se estrelló por aquí
+Dialogue: 0,0:09:08.07,0:09:09.72,Gen_Main,Castor,0,0,0,,tras un pequeño accidente.
+Dialogue: 0,0:09:10.62,0:09:14.94,Gen_Main,Castor,0,0,0,,Sin embargo,\Nparece que no puedo pasar esto por alto.
+Dialogue: 0,0:09:16.54,0:09:20.58,Gen_Main,Castor,0,0,0,,No sé qué está pasando,\Npero decidí intervenir por ahora.
+Dialogue: 0,0:09:32.92,0:09:35.45,Gen_Main,Sargess,0,0,0,,¡Este hombre es fuerte!
+Dialogue: 0,0:09:35.88,0:09:38.66,Gen_Main,Dryad,0,0,0,,¡Será fuerte, pero está herido!
+Dialogue: 0,0:09:38.78,0:09:41.91,Gen_Main,Dryad,0,0,0,,¡Venceremos fácilmente\Na un moribundo como este!
+Dialogue: 0,0:09:42.00,0:09:43.00,Gen_Main,Sargess,0,0,0,,¡Oye!
+Dialogue: 0,0:09:44.08,0:09:47.29,Gen_Main,Merman,0,0,0,,¡Si vamos los cuatro, podemos!
+Dialogue: 0,0:09:53.15,0:09:54.36,Gen_Main,Castor,0,0,0,,¡Ptarmigan!
+Dialogue: 0,0:10:01.79,0:10:04.32,Gen_Main,Castor,0,0,0,,Les perdoné la vida a propósito.
+Dialogue: 0,0:10:04.73,0:10:07.29,Gen_Main,Castor,0,0,0,,Pero si deciden continuar,
+Dialogue: 0,0:10:08.50,0:10:11.30,Gen_Main,Castor,0,0,0,,tendrán que estar preparados\Npara que eso cambie.
+Dialogue: 0,0:10:14.59,0:10:17.07,Gen_Main,Castor,0,0,0,,Y bien, ¿van a seguir?
+Dialogue: 0,0:10:18.47,0:10:19.59,Gen_Main,Sargess,0,0,0,,Nos retiramos.
+Dialogue: 0,0:10:19.67,0:10:20.78,Gen_Main,Dryad,0,0,0,,¡¿En serio?!
+Dialogue: 0,0:10:20.89,0:10:22.66,Gen_Main,Dryad,0,0,0,,¡La próxima vez no me confiaré!
+Dialogue: 0,0:10:22.77,0:10:24.57,Gen_Main,Sargess,0,0,0,,Ya cumplimos nuestro objetivo.
+Dialogue: 0,0:10:24.63,0:10:26.78,Gen_Main,Sargess,0,0,0,,No tiene sentido quedarnos más.
+Dialogue: 0,0:10:28.10,0:10:29.10,Gen_Main,Lamia,0,0,0,,Vámonos.
+Dialogue: 0,0:10:29.18,0:10:30.23,Gen_Main,Dryad,0,0,0,,Bueno…
+Dialogue: 0,0:10:32.52,0:10:33.71,Gen_Main,Sei,0,0,0,,¡Esperen!
+Dialogue: 0,0:10:33.84,0:10:35.10,Gen_Main,Sei,0,0,0,,¡¿Ustedes son…?!
+Dialogue: 0,0:10:48.41,0:10:50.12,Gen_Main,Kross,0,0,0,,Sus heridas son muy profundas.
+Dialogue: 0,0:10:51.50,0:10:53.10,Gen_Main,Kross,0,0,0,,Solo puedo estabilizarlos…
+Dialogue: 0,0:10:54.49,0:10:56.01,Gen_Main,Virgo,0,0,0,,Curación superior.
+Dialogue: 0,0:11:07.24,0:11:08.93,Gen_Main,Virgo,0,0,0,,No puede ser…
+Dialogue: 0,0:11:09.20,0:11:11.40,Gen_Main,Virgo,0,0,0,,Sus heridas… no se curan…
+Dialogue: 0,0:11:11.47,0:11:12.57,Gen_Main,Kaineko,0,0,0,,Sí…
+Dialogue: 0,0:11:12.64,0:11:15.77,Gen_Main,Kaineko,0,0,0,,Ni las artes divinas pueden curar\Nheridas tan profundas.
+Dialogue: 0,0:11:16.28,0:11:17.90,Gen_Main,Kaineko,0,0,0,,Pero con el elixir…
+Dialogue: 0,0:11:18.21,0:11:21.49,Gen_Main,Kaineko,0,0,0,,si le damos todo el elixir\Nal dragón guardián,
+Dialogue: 0,0:11:21.56,0:11:22.65,Gen_Main,Kaineko,0,0,0,,¡seguro que…!
+Dialogue: 0,0:11:34.13,0:11:35.29,Gen_Main,Virgo,0,0,0,,Sei…
+Dialogue: 0,0:11:55.67,0:11:58.59,Gen_Main,Kaineko,0,0,0,,¿Por qué… no se recupera?
+Dialogue: 0,0:12:00.07,0:12:01.19,Gen_Main,Kross,0,0,0,,Chicos,
+Dialogue: 0,0:12:01.59,0:12:03.26,Gen_Main,Kross,0,0,0,,escuchen con atención.
+Dialogue: 0,0:12:03.31,0:12:04.56,Gen_Main,Kross,0,0,0,,El elixir…
+Dialogue: 0,0:12:05.34,0:12:08.33,Gen_Main,Kross,0,0,0,,solo funciona con los vivos.
+Dialogue: 0,0:12:08.89,0:12:11.32,Gen_Main,Kross,0,0,0,,El dragón guardián ya…
+Dialogue: 0,0:12:14.87,0:12:17.21,Gen_Main,Kaineko,0,0,0,,¡No puede ser! Es imposible…
+Dialogue: 0,0:12:19.78,0:12:21.07,Gen_Main,Kaineko,0,0,0,,Señorita Virgo,
+Dialogue: 0,0:12:21.17,0:12:24.38,Gen_Main,Kaineko,0,0,0,,eres aliada de Lufas, ¿verdad?
+Dialogue: 0,0:12:24.46,0:12:25.76,Gen_Main,Kaineko,0,0,0,,¡¿No puedes hacer algo?!
+Dialogue: 0,0:12:25.83,0:12:27.64,Gen_Main,Kaineko,0,0,0,,Con tu poder…
+Dialogue: 0,0:12:27.71,0:12:28.94,Gen_Main,Virgo,0,0,0,,¡Lo siento!
+Dialogue: 0,0:12:29.00,0:12:30.04,Gen_Main,Virgo,0,0,0,,Yo…
+Dialogue: 0,0:12:30.14,0:12:33.69,Gen_Main,Virgo,0,0,0,,soy la de menor nivel\Ny la más débil de todos.
+Dialogue: 0,0:12:36.68,0:12:37.90,Gen_Main,Kaineko,0,0,0,,Malditos…
+Dialogue: 0,0:12:37.97,0:12:40.62,Gen_Main,Kaineko,0,0,0,,¡Malditos monstruos!
+Dialogue: 0,0:12:47.44,0:12:50.24,Gen_Main,Castor,0,0,0,,¿Conoces a la señora Lufas?
+Dialogue: 0,0:12:52.50,0:12:53.58,Gen_Main,Virgo,0,0,0,,Sí.
+Dialogue: 0,0:12:55.69,0:12:56.93,Gen_Main,Castor,0,0,0,,Ya veo.
+Dialogue: 0,0:13:05.96,0:13:07.72,Gen_Main,Virgo,0,0,0,,Oye… ¿Qué es eso?
+Dialogue: 0,0:13:08.25,0:13:09.56,Gen_Main,Castor,0,0,0,,Es amrita.
+Dialogue: 0,0:13:09.95,0:13:11.79,Gen_Main,Kross,0,0,0,,¡¿Amrita?!
+Dialogue: 0,0:13:11.91,0:13:13.52,Gen_Main,Kross,0,0,0,,¡¿La famosa amrita?!
+Dialogue: 0,0:13:13.68,0:13:14.68,Gen_Main,Castor,0,0,0,,Sí.
+Dialogue: 0,0:13:14.76,0:13:19.42,Gen_Main,Castor,0,0,0,,Su efecto supera incluso al del elixir,\Ny si se usa poco después de morir,
+Dialogue: 0,0:13:19.81,0:13:22.57,Gen_Main,Castor,0,0,0,,hasta puede resucitar a los muertos.
+Dialogue: 0,0:13:22.66,0:13:26.66,Gen_Main,Castor,0,0,0,,Es una joya de la que ni la señora Lufas\Npudo producir mucho.
+Dialogue: 0,0:13:22.72,0:13:24.16,Gen_Main_Up,Kross,0,0,0,,¡¿Amrita?!
+Dialogue: 0,0:13:44.88,0:13:46.84,Gen_Main,Kaineko,0,0,0,,¡Dragón guardián!
+Dialogue: 0,0:13:48.04,0:13:49.30,Gen_Main,Vicecaptain,0,0,0,,Qué hermoso…
+Dialogue: 0,0:13:49.57,0:13:54.12,Gen_Main,Castor,0,0,0,,Es un regalo modesto,\Npero tómalo como mi felicitación.
+Dialogue: 0,0:13:55.17,0:13:58.67,Gen_Main,Castor,0,0,0,,Al parecer, eres mi nueva compañera.
+Dialogue: 0,0:13:58.72,0:14:01.21,Gen_Main,Virgo/Kaineko,0,0,0,,-Ah, entonces…\N-¡Vaya!
+Dialogue: 0,0:14:01.31,0:14:02.31,Gen_Main,Kaineko,0,0,0,,¡Muchas gracias!
+Dialogue: 0,0:14:02.39,0:14:05.74,Gen_Main,Kaineko,0,0,0,,No sé quién es usted,\Npero ¡salvó a nuestro país!
+Dialogue: 0,0:14:05.81,0:14:08.51,Gen_Main,Castor,0,0,0,,Ah, perdón por no presentarme antes.
+Dialogue: 0,0:14:08.61,0:14:09.61,Gen_Main,Castor,0,0,0,,Soy…
+Dialogue: 0,0:14:09.70,0:14:13.56,Gen_Main,Castor,0,0,0,,Castor, uno de los gemelos Géminis,\Nde los doce astros.
+Dialogue: 0,0:14:13.85,0:14:15.91,Cart_A_Tre,CARTEL,0,0,0,,{\an2\fad(170,0)\bord1.5\blur2\fs16\3c&H99B91A&\pos(320,266.8)}Los doce astros celestiales de la conquistadora
+Dialogue: 0,0:14:13.85,0:14:15.91,Cart_A_Tre,CARTEL,0,0,0,,{\an2\fad(170,0)\bord1.5\blur2\fs16\3c&H99B91A&\pos(320,358)}Cástor, uno de los gemelos
+Dialogue: 0,0:14:16.71,0:14:18.38,Gen_Main,Virgo,0,0,0,,¡Lo suponía!
+Dialogue: 0,0:14:25.72,0:14:28.34,Gen_Main,Scorpius,0,0,0,,¡Vaya, pero si es Castor!
+Dialogue: 0,0:14:28.61,0:14:31.02,Gen_Main,Scorpius,0,0,0,,¿Qué haces por aquí?
+Dialogue: 0,0:14:31.08,0:14:32.80,Gen_Main,Karkinos,0,0,0,,{\i1}Long time no see!{\i0}
+Dialogue: 0,0:14:32.88,0:14:35.17,Gen_Main,Libra/Aigokeros,0,0,0,,-Han pasado doscientos años.\N-Ajá.
+Dialogue: 0,0:14:35.25,0:14:37.16,Gen_Main,Aries/Castor,0,0,0,,-¡Yuju!\N-Hola.
+Dialogue: 0,0:14:37.21,0:14:39.04,Gen_Main,Castor/Aries,0,0,0,,-¿Han estado bien todos?\N-¡Sí!
+Dialogue: 0,0:14:39.77,0:14:41.89,Gen_Main,Castor,0,0,0,,Cuánto tiempo, mi señora.
+Dialogue: 0,0:14:42.35,0:14:45.75,Gen_Main,Castor/Lufas,0,0,0,,-Siempre creí que algún día volvería.\N-Sí.
+Dialogue: 0,0:14:46.01,0:14:49.84,Gen_Main,Lufas,0,0,0,,Me alegra ver\Nque tú también estás bien, Castor.
+Dialogue: 0,0:14:49.94,0:14:50.94,Gen_Main,Castor,0,0,0,,¡Sí!
+Dialogue: 0,0:14:57.68,0:14:59.16,Cart_A_Ari,CARTEL,0,0,0,,{\bord1.2\blur0.5\b0\fs18\fad(93,0)\3a&H20&\pos(321.54,266.84)\c&HFFFFFF&\3c&HFFFFFF&\t(0,469,\c&H9FA760&\3c&HFFFBE0&)}Cástor se ha unido a tu grupo
+Dialogue: 0,0:14:59.85,0:15:00.97,Gen_Italics,Lufas,0,0,0,,Castor…
+Dialogue: 0,0:15:01.28,0:15:04.10,Gen_Italics,Lufas,0,0,0,,En el juego,\Nél y su hermana menor eran un monstruo
+Dialogue: 0,0:15:04.16,0:15:05.79,Gen_Italics,Lufas,0,0,0,,llamado "Hermanos hada".
+Dialogue: 0,0:15:06.24,0:15:07.36,Gen_Italics,Lufas,0,0,0,,Pero en este mundo,
+Dialogue: 2,0:15:07.41,0:15:09.92,Gen_Italics,Lufas,0,0,0,,¿actúa totalmente por su cuenta?
+Dialogue: 0,0:15:08.03,0:15:11.34,Cart_A_Tre,CARTEL,0,0,0,,{\an1\bord1.5\blur2\fs11\3c&H99B91A&\move(354.28,-146.187,354.28,106.66,0,3310)}Cástor,\Nde los doce astros
+Dialogue: 0,0:15:08.03,0:15:11.34,Cart_A_Tre,CARTEL,0,0,0,,{\an2\bord1.5\blur2\fs10\3c&H99B91A&\move(211.93,-119.617,211.93,133.23,0,3310)}I\NN\NT
+Dialogue: 0,0:15:08.03,0:15:11.34,Cart_A_Tre,CARTEL,0,0,0,,{\an2\bord1.5\blur2\fs10\3c&H99B91A&\move(201.72,-119.617,201.72,133.23,0,3310)}A\NG\NI
+Dialogue: 0,0:15:08.03,0:15:11.34,Cart_A_Tre,CARTEL,0,0,0,,{\an2\bord1.5\blur2\fs10\3c&H99B91A&\move(238.96,-119.617,238.96,133.23,0,3310)}F\NU\NE
+Dialogue: 0,0:15:08.03,0:15:11.34,Cart_A_Tre,CARTEL,0,0,0,,{\an2\bord1.5\blur2\fs10\3c&H99B91A&\move(230.41,-119.617,230.41,133.23,0,3310)}D\NE\NS
+Dialogue: 0,0:15:08.03,0:15:11.34,Cart_A_Tre,CARTEL,0,0,0,,{\an2\bord1.5\blur2\fs10\3c&H99B91A&\move(192.62,-119.617,192.62,133.23,0,3310)}E\NS\NP
+Dialogue: 0,0:15:08.03,0:15:11.34,Cart_A_Tre,CARTEL,0,0,0,,{\an2\bord1.5\blur2\fs11\3c&H99B91A&\move(311.24,-130.557,311.24,122.29,0,3310)}Nivel: 800\NRaza: Hada
+Dialogue: 0,0:15:08.03,0:15:11.34,Cart_A_Tre,CARTEL,0,0,0,,{\an2\bord1.5\blur2\fs10\3c&H99B91A&\move(182.41,-119.617,182.41,133.23,0,3310)}S\NU\NE
+Dialogue: 0,0:15:08.03,0:15:11.34,Cart_A_Tre,CARTEL,0,0,0,,{\an2\bord1.5\blur2\fs10\3c&H99B91A&\move(220.75,-119.617,220.75,133.23,0,3310)}V\NI\NT
+Dialogue: 2,0:15:10.40,0:15:13.69,Gen_Italics,Lufas,0,0,0,,Por eso, sus estadísticas\Nya no son las que conozco.
+Dialogue: 0,0:15:15.61,0:15:17.81,Gen_Main,Lufas,0,0,0,,Te ves muy agotado.
+Dialogue: 0,0:15:19.28,0:15:20.77,Gen_Main,Castor,0,0,0,,Sobre eso…
+Dialogue: 0,0:15:22.23,0:15:23.52,Gen_Main,Castor,0,0,0,,¡Perdóneme!
+Dialogue: 0,0:15:23.96,0:15:26.63,Gen_Main,Castor,0,0,0,,¡Hace unos días, el rey demonio me robó
+Dialogue: 0,0:15:26.73,0:15:29.19,Gen_Main,Castor,0,0,0,,la "llave para alcanzar el cielo"\Nque me confió!
+Dialogue: 0,0:15:29.27,0:15:31.02,Gen_Italics,Lufas,0,0,0,,¿La llave para alcanzar el cielo?
+Dialogue: 0,0:15:31.10,0:15:32.22,Gen_Italics,Lufas,0,0,0,,¿Qué es eso?
+Dialogue: 0,0:15:32.33,0:15:33.93,Gen_Italics,Lufas,0,0,0,,No existía en el juego.
+Dialogue: 0,0:15:34.40,0:15:36.39,Gen_Italics,Lufas,0,0,0,,Luego le preguntaré a Dina.
+Dialogue: 0,0:15:37.16,0:15:38.81,Gen_Main,Lufas,0,0,0,,Está bien. No te preocupes.
+Dialogue: 0,0:15:38.93,0:15:40.14,Gen_Main,Castor/Lufas,0,0,0,,-¡Sí!\N-Dina.
+Dialogue: 0,0:15:40.24,0:15:41.24,Gen_Main,Dina,0,0,0,,¡Sí!
+Dialogue: 0,0:15:41.59,0:15:43.10,Gen_Main,Lufas,0,0,0,,Atiende sus heridas.
+Dialogue: 0,0:15:43.20,0:15:44.20,Gen_Main,Dina,0,0,0,,¡Sí!
+Dialogue: 0,0:15:45.01,0:15:46.15,Gen_Main,Castor,0,0,0,,¿Y tú eres…?
+Dialogue: 0,0:15:46.27,0:15:50.90,Gen_Main_Up,Dina,0,0,0,,Ah, yo soy consejera de la señora Lufas\Ny siempre he estado a su lado…
+Dialogue: 0,0:15:47.44,0:15:50.46,Gen_Main,Lufas,0,0,0,,Muy bien, veamos qué pasó.
+Dialogue: 0,0:15:50.82,0:15:51.82,Gen_Main,Virgo,0,0,0,,Sí.
+Dialogue: 0,0:15:55.21,0:15:57.48,Gen_Main,Lufas,0,0,0,,Así que Sagitario está con Leo…
+Dialogue: 0,0:15:57.54,0:15:59.18,Gen_Main,Lufas,0,0,0,,¿Ustedes qué opinan?
+Dialogue: 0,0:15:59.25,0:16:00.48,Gen_Main,Karkinos,0,0,0,,Qué {\i1}fool{\i0}.
+Dialogue: 0,0:16:00.55,0:16:01.77,Gen_Main,Aigokeros,0,0,0,,Una insensatez.
+Dialogue: 0,0:16:01.84,0:16:03.43,Gen_Main,Libra,0,0,0,,Es un idiota sin remedio.
+Dialogue: 0,0:16:03.51,0:16:05.98,Gen_Main,Aries,0,0,0,,Yo también creo que es un poco absurdo.
+Dialogue: 0,0:16:06.05,0:16:07.69,Gen_Main,Scorpius,0,0,0,,Está mejor muerto.
+Dialogue: 0,0:16:07.89,0:16:08.89,Gen_Italics,Lufas,0,0,0,,Oigan, oigan…
+Dialogue: 0,0:16:08.97,0:16:15.04,Gen_Main,Aigokeros,0,0,0,,Quizá la enfermedad del dragón guardián\Ntambién tenga que ver con esto.
+Dialogue: 0,0:16:18.17,0:16:19.52,Gen_Main,Karkinos,0,0,0,,¿Acaso {\i1}you{\i0}…?
+Dialogue: 0,0:16:19.57,0:16:21.73,Gen_Main,Scorpius,0,0,0,,¡No es lo que creen!
+Dialogue: 0,0:16:21.83,0:16:25.36,Gen_Main,Scorpius,0,0,0,,¡Cuando quise atacar Draupnir,\Npelear con el dragón era molesto,
+Dialogue: 0,0:16:25.45,0:16:28.21,Gen_Main,Scorpius,0,0,0,,así que solo lo envenené\Npara enfermarlo, debilitarlo
+Dialogue: 0,0:16:28.28,0:16:30.59,Gen_Main,Scorpius,0,0,0,,y luego matarlo con calma yo misma!
+Dialogue: 0,0:16:30.66,0:16:31.92,Gen_Main,Virgo,0,0,0,,¡No puede ser!
+Dialogue: 0,0:16:32.20,0:16:33.38,Gen_Main,Karkinos,0,0,0,,Qué {\i1}fool{\i0}.
+Dialogue: 0,0:16:33.46,0:16:34.60,Gen_Main,Aigokeros,0,0,0,,Una insensatez.
+Dialogue: 0,0:16:34.67,0:16:36.33,Gen_Main,Libra,0,0,0,,Es una idiota sin remedio.
+Dialogue: 0,0:16:36.42,0:16:39.35,Gen_Main,Aries,0,0,0,,Yo también creo que es un poco absurdo.
+Dialogue: 0,0:16:39.42,0:16:41.64,Gen_Main,Scorpius,0,0,0,,¡Es que…!
+Dialogue: 0,0:16:42.23,0:16:43.75,Gen_Main,Scorpius,0,0,0,,Aun así, qué raro…
+Dialogue: 0,0:16:43.85,0:16:48.07,Gen_Main,Scorpius,0,0,0,,De Leo, me lo creo,\Npero ¿Sagitario era tan tonto?
+Dialogue: 0,0:16:48.14,0:16:52.28,Gen_Main,Karkinos,0,0,0,,El Sagitario que conozco\Nera más prudente y {\i1}cool{\i0}.
+Dialogue: 0,0:16:52.35,0:16:55.88,Gen_Italics,Lufas,0,0,0,,Es decir, aún hay algo más detrás.
+Dialogue: 0,0:16:56.28,0:16:59.68,Gen_Italics,Lufas,0,0,0,,El mensaje que le dejó a Libra\Ntampoco tiene sentido.
+Dialogue: 0,0:17:00.01,0:17:04.12,Gen_Italics,Lufas,0,0,0,,Es como si dijera:\N"Estoy con Leo, así que tengan cuidado".
+Dialogue: 0,0:17:04.96,0:17:06.27,Gen_Main,Lufas,0,0,0,,Está decidido.
+Dialogue: 0,0:17:06.36,0:17:09.47,Gen_Main,Lufas,0,0,0,,¡El próximo objetivo\Nes recuperar a Leo y a Sagitario!
+Dialogue: 0,0:17:09.88,0:17:13.11,Gen_Main,Lufas,0,0,0,,Yo misma comprobaré\Nsus verdaderas intenciones.
+Dialogue: 0,0:17:13.23,0:17:15.09,Gen_Main,All/Lufas,0,0,0,,-¡Sí!\N-Dina,
+Dialogue: 0,0:17:13.23,0:17:14.26,Gen_Main_Up,Libra,0,0,0,,Entendido.
+Dialogue: 0,0:17:15.16,0:17:17.01,Gen_Main,Lufas,0,0,0,,¿sabes dónde está Leo?
+Dialogue: 0,0:17:17.08,0:17:19.08,Gen_Main,Dina,0,0,0,,¡Seguramente en Tyrving!
+Dialogue: 0,0:17:19.19,0:17:23.31,Gen_Main,Dina,0,0,0,,Es como una federación de semihumanos\Nclasificados como monstruos.
+Dialogue: 0,0:17:23.86,0:17:28.54,Gen_Main,Dina,0,0,0,,De todo el territorio humano,\NTyrving está en la zona más peligrosa.
+Dialogue: 0,0:17:28.89,0:17:31.42,Gen_Main,Lufas/Dina,0,0,0,,-¿Una zona peligrosa?\N-Sí.
+Dialogue: 0,0:17:31.47,0:17:34.26,Gen_Main,Dina,0,0,0,,Está muy cerca de los demonios.
+Dialogue: 0,0:17:34.38,0:17:39.66,Gen_Main,Dina,0,0,0,,Los semihumanos viven allí en aldeas\Npara esconderse de los humanos.
+Dialogue: 0,0:17:39.73,0:17:43.31,Gen_Main,Dina,0,0,0,,Hay gente pez, gente insecto,\Ngente planta, gente serpiente
+Dialogue: 0,0:17:43.40,0:17:45.02,Gen_Main,Dina,0,0,0,,y muchas otras razas.
+Dialogue: 0,0:17:45.07,0:17:48.69,Gen_Main,Dina,0,0,0,,También está la aldea de los centauros,\Nel hogar de Sagitario.
+Dialogue: 0,0:17:50.12,0:17:54.01,Gen_Italics,Lufas,0,0,0,,Sagitario quizá sepa\Ncómo les va a los suyos.
+Dialogue: 0,0:17:55.23,0:17:57.01,Gen_Main,Virgo,0,0,0,,¡Ah, mi señora!
+Dialogue: 0,0:17:57.08,0:17:58.91,Gen_Main,Virgo,0,0,0,,¡Ya llegaron Sei y los demás!
+Dialogue: 0,0:17:58.96,0:18:01.05,Gen_Main,Jean/Sei,0,0,0,,-¡Qué tal!\N-Perdón.
+Dialogue: 0,0:18:01.13,0:18:02.47,Gen_Main,Gantz,0,0,0,,Llegamos un poco tarde.
+Dialogue: 0,0:18:02.54,0:18:04.11,Gen_Main,Virgo,0,0,0,,¿Y Nick y los demás?
+Dialogue: 0,0:18:04.17,0:18:09.00,Gen_Main,Jean,0,0,0,,Sus heridas eran algo profundas,\Nasí que se recuperan en Draupnir.
+Dialogue: 0,0:18:09.12,0:18:10.83,Gen_Main,Kaineko,0,0,0,,Así es. Y por eso…
+Dialogue: 0,0:18:11.69,0:18:14.98,Gen_Main,Kaineko,0,0,0,,¡Vine a ocupar su lugar!
+Dialogue: 0,0:18:15.06,0:18:17.34,Gen_Main,Kaineko,0,0,0,,Aunque, con más elixir,
+Dialogue: 0,0:18:17.46,0:18:19.85,Gen_Main,Kaineko,0,0,0,,quizá habríamos podido curarlos.
+Dialogue: 0,0:18:20.72,0:18:24.35,Gen_Main,Jean,0,0,0,,Pero oye, es un remedio legendario, ¿no?
+Dialogue: 0,0:18:24.44,0:18:26.56,Gen_Main,Jean,0,0,0,,¡Sería un desperdicio usarlo en ellos!
+Dialogue: 0,0:18:28.42,0:18:32.46,Gen_Italics,Lufas,0,0,0,,En la tumba del monarca\Nhabía elixir a montones…
+Dialogue: 0,0:18:33.93,0:18:35.45,Gen_Main,Lufas,0,0,0,,Bienvenido, héroe.
+Dialogue: 0,0:18:36.55,0:18:38.38,Gen_Main,Lufas,0,0,0,,¿Querías hablar conmigo?
+Dialogue: 0,0:18:38.86,0:18:40.35,Gen_Main,Sei,0,0,0,,¡Sí!
+Dialogue: 0,0:18:42.39,0:18:43.49,Gen_Main,Lufas,0,0,0,,Ya veo.
+Dialogue: 0,0:18:43.61,0:18:47.58,Gen_Main,Lufas,0,0,0,,Viniste hasta aquí\Npara ver si de verdad soy
+Dialogue: 0,0:18:47.68,0:18:50.88,Gen_Main,Lufas,0,0,0,,la "enemiga del mundo"\Nque cuentan las leyendas.
+Dialogue: 0,0:18:50.98,0:18:51.99,Gen_Main,Sei,0,0,0,,Sí.
+Dialogue: 0,0:18:53.19,0:18:56.99,Gen_Main,Lufas,0,0,0,,Por ahora,\Nno pienso enfrentarme a ustedes.
+Dialogue: 0,0:18:57.06,0:19:02.66,Gen_Main,Lufas,0,0,0,,Aunque creo que ya lo dije\Ncuando me invocaron la primera vez.
+Dialogue: 0,0:19:05.95,0:19:11.02,Gen_Main,Sei,0,0,0,,¿Quiere decir que luchará\Ncon nosotros contra los demonios?
+Dialogue: 0,0:19:11.15,0:19:14.23,Gen_Main,Lufas,0,0,0,,Eso tampoco estaría mal,\Npero antes debo hacer algo.
+Dialogue: 0,0:19:14.31,0:19:15.31,Gen_Main,Sei,0,0,0,,¿Hacer qué?
+Dialogue: 0,0:19:15.37,0:19:19.03,Gen_Main,Lufas,0,0,0,,Leo está incitando a los monstruos…\Ndigo, a los semihumanos,
+Dialogue: 0,0:19:19.13,0:19:22.51,Gen_Main,Lufas,0,0,0,,y parece que los arrastra a la ruina.
+Dialogue: 0,0:19:22.58,0:19:25.61,Gen_Main,Lufas,0,0,0,,Las faltas de mis subordinados\Nson también mías.
+Dialogue: 0,0:19:25.92,0:19:29.14,Gen_Main,Lufas/Jean,0,0,0,,-Por eso, debo detener a ese idiota.\N-Entonces…
+Dialogue: 0,0:19:29.21,0:19:31.13,Gen_Main,Jean,0,0,0,,¡A nosotros también nos concierne!
+Dialogue: 0,0:19:31.22,0:19:34.73,Gen_Main,Jean,0,0,0,,¡Si los monstruos se unen\Ny declaran la guerra, será terrible!
+Dialogue: 0,0:19:34.80,0:19:38.55,Gen_Main,Gantz,0,0,0,,¡Te ayudaremos a detener\Na ese tal Leo, Lufas!
+Dialogue: 0,0:19:38.60,0:19:39.61,Gen_Main,Lufas,0,0,0,,No…
+Dialogue: 0,0:19:39.70,0:19:43.14,Gen_Italics,Lufas,0,0,0,,Agradezco la intención,\Npero con su nivel…
+Dialogue: 0,0:19:43.98,0:19:46.45,Gen_Main,Lufas,0,0,0,,Donde esté Leo, habrá una gran batalla.
+Dialogue: 0,0:19:46.52,0:19:48.81,Gen_Main,Lufas,0,0,0,,Quiero ir allá con los doce astros.
+Dialogue: 0,0:19:48.86,0:19:50.95,Gen_Main,Sei/Lufas,0,0,0,,-Pero…\N-Ustedes, en cambio,
+Dialogue: 0,0:19:51.03,0:19:55.61,Gen_Main,Lufas,0,0,0,,investiguen a Sagitario en su tierra,\Nla aldea de los centauros.
+Dialogue: 0,0:19:56.70,0:19:58.79,Gen_Main,Lufas,0,0,0,,Virgo y Castor irán con ustedes.
+Dialogue: 0,0:19:59.78,0:20:02.62,Gen_Main,Lufas,0,0,0,,Será más fácil con caras conocidas, ¿no?
+Dialogue: 0,0:20:03.03,0:20:06.35,Gen_Main,Lufas,0,0,0,,Castor, lamento interrumpir\Nnuestro reencuentro,
+Dialogue: 0,0:20:06.42,0:20:08.52,Gen_Main,Lufas,0,0,0,,pero cuida a Virgo y a los del héroe.
+Dialogue: 0,0:20:08.59,0:20:11.06,Gen_Main,Castor,0,0,0,,¡Déjemelo a mí, mi señora Lufas!
+Dialogue: 0,0:20:12.49,0:20:16.11,Gen_Main,Lufas,0,0,0,,Dina, ¿sabes qué es\Nla llave para alcanzar el cielo?
+Dialogue: 0,0:20:17.16,0:20:20.83,Gen_Main,Dina,0,0,0,,No sé bien los detalles,\Npero dicen que quien la obtenga
+Dialogue: 0,0:20:20.89,0:20:24.07,Gen_Main,Dina,0,0,0,,tendrá el poder de cambiar\Nhasta las leyes del mundo.
+Dialogue: 0,0:20:24.14,0:20:26.11,Gen_Main,Lufas,0,0,0,,¿Las leyes del mundo?
+Dialogue: 0,0:20:26.19,0:20:29.10,Gen_Main,Lufas,0,0,0,,O sea, ¿un poder para torcer las reglas?
+Dialogue: 0,0:20:29.22,0:20:31.29,Gen_Main,Lufas,0,0,0,,Eso suena casi a un administrador.
+Dialogue: 0,0:20:31.36,0:20:35.39,Gen_Main,Dina,0,0,0,,O un {\i1}game master{\i0} con esa autoridad…
+Dialogue: 0,0:20:36.75,0:20:40.57,Gen_Italics,Lufas,0,0,0,,¿Por qué le confié algo así a Castor\Nen vez de usarlo
+Dialogue: 0,0:20:40.66,0:20:42.25,Gen_Italics,Lufas,0,0,0,,contra los siete héroes?
+Dialogue: 0,0:20:44.22,0:20:48.18,Cart_A_Tre,CARTEL,0,0,0,,{\an2\bord1.5\blur2\fs10\3c&H99B91A&\move(621.52,72,290.33,72,23,3960)}D\NE\NS
+Dialogue: 0,0:20:44.22,0:20:48.18,Cart_A_Tre,CARTEL,0,0,0,,{\an2\bord1.5\blur2\fs10\3c&H99B91A&\move(611.19,72,280,72,23,3960)}V\NI\NT
+Dialogue: 0,0:20:44.22,0:20:48.18,Cart_A_Tre,CARTEL,0,0,0,,{\an2\bord1.5\blur2\fs10\3c&H99B91A&\move(631.19,72,300,72,23,3960)}F\NU\NE
+Dialogue: 0,0:20:44.22,0:20:48.18,Cart_A_Tre,CARTEL,0,0,0,,{\an2\bord1.5\blur2\fs10\3c&H99B91A&\move(601.53,72,270.34,72,23,3960)}I\NN\NT
+Dialogue: 0,0:20:44.22,0:20:48.18,Cart_A_Tre,CARTEL,0,0,0,,{\an2\bord1.5\blur2\fs10\3c&H99B91A&\move(580.52,72,249.33,72,23,3960)}E\NS\NP
+Dialogue: 0,0:20:44.22,0:20:48.18,Cart_A_Tre,CARTEL,0,0,0,,{\an2\bord1.5\blur2\fs10\3c&H99B91A&\move(569.86,72,238.67,72,23,3960)}S\NU\NE
+Dialogue: 0,0:20:44.22,0:20:48.18,Cart_A_Tre,CARTEL,0,0,0,,{\an2\bord1.5\blur2\fs10\3c&H99B91A&\move(590.86,72,259.67,72,23,3960)}A\NG\NI
+Dialogue: 0,0:20:45.11,0:20:48.18,Cart_A_Tre,CARTEL,0,0,0,,{\bord1.5\blur2\an2\fs10\3c&HC6D052&\move(652.184,61.33,393.66,61.33,0,3053)}Nivel: 350\NRaza: Forma de vida artificial
+Dialogue: 0,0:20:45.86,0:20:48.18,Cart_A_Tre,CARTEL,0,0,0,,{\bord1.5\blur2\an1\fs10\3c&HC6D052&\move(643.524,85,385,85,0,3053)}Suzuki
+Dialogue: 0,0:20:48.58,0:20:49.79,Gen_Main,Lufas,0,0,0,,¿Qué pasa, héroe?
+Dialogue: 0,0:20:49.89,0:20:52.22,Gen_Main,Sei/Lufas,0,0,0,,-Lufas, ¿qué es esto?\N-Es Suzuki.
+Dialogue: 0,0:20:52.30,0:20:53.45,Gen_Main,Sei,0,0,0,,¡No me refiero a eso!
+Dialogue: 0,0:20:53.51,0:20:54.79,Gen_Main,Sei,0,0,0,,¡¿Y esta casa rodante?!
+Dialogue: 0,0:20:54.90,0:20:56.58,Gen_Main,Lufas,0,0,0,,Me pareció ideal para viajar.
+Dialogue: 0,0:20:56.64,0:20:58.49,Gen_Main,Lufas,0,0,0,,¿Prefieres los camiones?
+Dialogue: 0,0:20:58.55,0:21:00.69,Gen_Main,Sei,0,0,0,,No, ese no es el problema. Verá…
+Dialogue: 0,0:21:00.76,0:21:02.07,Gen_Main,Lufas,0,0,0,,Ya lo sé.
+Dialogue: 0,0:21:02.14,0:21:03.90,Gen_Main,Lufas,0,0,0,,No puedo entrar en detalles,
+Dialogue: 0,0:21:03.98,0:21:08.03,Gen_Main,Lufas,0,0,0,,pero digamos que yo también sé\Nalgo de ese otro mundo.
+Dialogue: 0,0:21:08.11,0:21:09.98,Gen_Main,Sei,0,0,0,,¿Eh? Sí…
+Dialogue: 0,0:21:15.51,0:21:18.15,Gen_Main,Lufas,0,0,0,,Muy bien, nosotros también nos vamos.
+Dialogue: 0,0:21:18.96,0:21:20.98,Gen_Main,Lufas,0,0,0,,El destino era Tyrving, ¿verdad?
+Dialogue: 0,0:21:21.08,0:21:22.97,Gen_Main,Dina,0,0,0,,Sí. Sin embargo…
+Dialogue: 0,0:21:23.04,0:21:25.93,Gen_Main,Aigokeros,0,0,0,,Podría ser algo problemático.
+Dialogue: 0,0:21:26.72,0:21:29.83,Gen_Main,Dina,0,0,0,,Justo al lado de Tyrving está Mjolnir,
+Dialogue: 0,0:21:29.92,0:21:32.74,Gen_Main,Dina,0,0,0,,el país de Benetnasch,\Nde los siete héroes.
+Dialogue: 0,0:21:33.18,0:21:36.43,Gen_Main,Dina,0,0,0,,Benetnasch no es como los otros héroes.
+Dialogue: 0,0:21:36.84,0:21:40.16,Gen_Main,Dina,0,0,0,,Ella es la única\Nque conserva el poder de su apogeo.
+Dialogue: 0,0:21:40.51,0:21:42.90,Gen_Main,Dina,0,0,0,,Su obsesión con usted es enfermiza,
+Dialogue: 0,0:21:43.16,0:21:47.26,Gen_Main,Dina,0,0,0,,y su mayor objetivo\Nes matarla con sus propias manos.
+Dialogue: 0,0:21:47.38,0:21:49.37,Gen_Main,Dina,0,0,0,,Es el ser más peligroso que hay.
+Dialogue: 0,0:21:51.52,0:21:52.89,Gen_Italics,Lufas,0,0,0,,Benetnasch…
+Dialogue: 0,0:21:54.45,0:21:55.83,Gen_Main,Benetnasch,0,0,0,,¡Puedo sentirte!
+Dialogue: 0,0:21:56.11,0:22:00.55,Gen_Main,Benetnasch,0,0,0,,¡Continuemos lo que dejamos aquel día,\Nmi archienemiga!
+Dialogue: 0,0:22:00.92,0:22:04.05,Gen_Main,Benetnasch,0,0,0,,¡Esta vez te mataré,
+Dialogue: 0,0:22:06.23,0:22:08.40,Gen_Main,Benetnasch,0,0,0,,Lufas Maphaahl!
+Dialogue: 0,0:23:35.73,0:23:40.06,Cart_A_Tre,CARTEL,0,0,0,,{\fs16\bord1}Traducción: Nicolás Sepúlveda\NEdición: Antonio LB\NControl de calidad: Néstor Rubio
+
