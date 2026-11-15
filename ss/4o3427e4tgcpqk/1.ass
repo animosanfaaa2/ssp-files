@@ -1,0 +1,461 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Top Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00300618,&H96000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,20,0
+Style: Default Raised,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:14.30,0:00:16.24,Default,FUKUDA,0,0,0,,All right, missy. Go right ahead.
+Dialogue: 0,0:01:53.51,0:01:58.03,Default,SIGN,0,0,0,,{\fad(500,500)\fnArial\shad0.7\fs22\fscx90\b1\bord1.6\fsp0.5\blur0.2\3c&HA95C35&\4c&H744B35&\c&HFFFFFF&\pos(98,318)}Notebook
+Dialogue: 0,0:02:08.41,0:02:09.28,Default,TAKESHIMA,0,0,0,,Damn it.
+Dialogue: 0,0:02:11.88,0:02:15.19,Italics,ASHITO/I,0,0,0,,What is this? Seriously, what the heck?
+Dialogue: 0,0:02:15.57,0:02:20.13,Italics,ASHITO/I,0,0,0,,I-If one of the defenders moves even a bit, \NI'm forced to move as well.
+Dialogue: 0,0:02:20.13,0:02:21.45,Italics,ASHITO/I,0,0,0,,Otherwise...
+Dialogue: 0,0:02:27.12,0:02:28.16,Default,ASHITO,0,0,0,,C-Crap.
+Dialogue: 0,0:02:46.79,0:02:51.52,Default,FUKUDA,0,0,0,,C'mon. If you don't block my view of the goal,\N I'll just take a shot at a distance.
+Dialogue: 0,0:02:53.75,0:02:55.65,Italics,MIYAKO/I,0,0,0,,H-He's so good.
+Dialogue: 0,0:02:56.01,0:02:58.15,Italics,ASHITO/I,0,0,0,,A-And he's {\i0}retired?!{\i1}
+Dialogue: 0,0:02:58.42,0:03:03.13,Italics,ASHITO/I,0,0,0,,I only saw him play once in Futami, \Nbut his ball control is insane.
+Dialogue: 0,0:03:04.10,0:03:06.05,Italics,ASHITO/I,0,0,0,,N-No, that's not the point.
+Dialogue: 0,0:03:06.05,0:03:06.91,Default,ASHITO,0,0,0,,Manager.
+Dialogue: 0,0:03:07.37,0:03:10.00,Default,ASHITO,0,0,0,,There's no way playing rope train\N is gonna do anything—
+Dialogue: 0,0:03:10.00,0:03:10.91,Default,FUKUDA,0,0,0,,Takeshima.
+Dialogue: 0,0:03:11.78,0:03:15.92,Default,FUKUDA,0,0,0,,The way your pelvis is facing \Nreveals which way you're going to move.
+Dialogue: 0,0:03:16.61,0:03:18.34,Default,FUKUDA,0,0,0,,And your eyeline gives you away.
+Dialogue: 0,0:03:18.97,0:03:20.59,Default,FUKUDA,0,0,0,,Try to be craftier.
+Dialogue: 0,0:03:20.93,0:03:21.72,Default,FUKUDA,0,0,0,,Togashi.
+Dialogue: 0,0:03:22.22,0:03:25.35,Default,FUKUDA,0,0,0,,Attempting to widen \Nyour field of vision is a good idea.
+Dialogue: 0,0:03:25.83,0:03:28.33,Default,FUKUDA,0,0,0,,Observe Ashito closely \Nand give stuff a try.
+Dialogue: 0,0:03:26.24,0:03:29.60,Top,ASHITO,0,0,0,,Uh... H-H-Hey. Hello?
+Dialogue: 0,0:03:28.75,0:03:31.10,Default,FUKUDA,0,0,0,,Asari. And this goes \Nfor you, too, Takeshima.
+Dialogue: 0,0:03:31.96,0:03:34.97,Default,FUKUDA,0,0,0,,Maybe you two should help \NAshito practice defending
+Dialogue: 0,0:03:34.97,0:03:37.45,Default,FUKUDA,0,0,0,,until you can explain it all\N in simple language.
+Dialogue: 0,0:03:38.22,0:03:41.60,Default,FUKUDA,0,0,0,,Tachibana, you're not timing \Nyour eye contact quite right.
+Dialogue: 0,0:03:42.03,0:03:43.05,Default,FUKUDA,0,0,0,,Be more decisive.
+Dialogue: 0,0:03:43.05,0:03:44.36,Default,TACHIBANA,0,0,0,,Y-Yes, sir!
+Dialogue: 0,0:03:44.97,0:03:46.18,Default,TACHIBANA,0,0,0,,As for you, Yuma...
+Dialogue: 0,0:03:47.31,0:03:48.67,Default,TACHIBANA,0,0,0,,Keep doing what you're doing.
+Dialogue: 0,0:03:48.67,0:03:49.37,Default,YUMA,0,0,0,,Huh?!
+Dialogue: 0,0:03:49.71,0:03:52.12,Top,ASHITO,0,0,0,,Old man, listen to me—
+Dialogue: 0,0:03:51.19,0:03:55.55,Default,FUKUDA,0,0,0,,Ashito. You're the only one \Nwho let go of the rope.
+Dialogue: 0,0:03:57.95,0:04:01.28,Default,FUKUDA,0,0,0,,I like to take a walk around here\N on Thursday nights.
+Dialogue: 0,0:04:02.18,0:04:04.81,Default,FUKUDA,0,0,0,,I'll come train with you \Nat this time every week.
+Dialogue: 0,0:04:05.28,0:04:08.39,Default,FUKUDA,0,0,0,,Keep doing this drill\N until you can do it properly, boys.
+Dialogue: 0,0:04:13.64,0:04:18.65,Default,SIGN,0,0,0,,{\bord0\shad0\blur0.2\b1\fs7.5\fscx90\fay0.02\fnArial\c&H666447&\move(231,150,524,150)}Esperion\N{\fay0.056}Town
+Dialogue: 0,0:04:13.64,0:04:18.65,Default,SIGN,0,0,0,,{\bord0\shad0\blur0.2\b1\fs7.5\fscx90\fnArial\c&H40442C&\frz345\fax0.3\move(239,299,532,299)}Shuttle Bus Stop
+Dialogue: 0,0:04:16.02,0:04:18.65,Default,DATE,0,0,0,,Kuroda, in my opinion...
+Dialogue: 0,0:04:19.06,0:04:21.53,Default,DATE,0,0,0,,You are the quintessential\N club youth product.
+Dialogue: 0,0:04:22.21,0:04:23.78,Default,DATE,0,0,0,,That's your defining quality.
+Dialogue: 0,0:04:25.27,0:04:29.29,Default,KURODA,0,0,0,,Do you mean that\N in a good way or a bad way?
+Dialogue: 0,0:04:30.11,0:04:33.04,Default,KURODA,0,0,0,,Please don't hold back. \NI came to hear all of it.
+Dialogue: 0,0:04:34.66,0:04:37.85,Default,DATE,0,0,0,,I've known you since you were\Non the junior youth team,
+Dialogue: 0,0:04:38.33,0:04:41.80,Default,DATE,0,0,0,,but I've never seen you \Nso openly vulnerable.
+Dialogue: 0,0:04:42.53,0:04:45.61,Default,DATE,0,0,0,,Very well. I respect your \Ndetermination, so I'll tell you.
+Dialogue: 0,0:04:47.33,0:04:49.06,Default,DATE,0,0,0,,First, let me ask you a question.
+Dialogue: 0,0:04:49.06,0:04:52.96,Default,DATE,0,0,0,,Who seems the least like a club youth \Nproduct on the current Esperion team?
+Dialogue: 0,0:04:53.69,0:04:54.81,Default,KURODA,0,0,0,,That'd be Aoi-kun.
+Dialogue: 0,0:04:55.14,0:04:57.66,Default,DATE,0,0,0,,You're right. But there's one more.
+Dialogue: 0,0:04:57.66,0:04:58.37,Default,KURODA,0,0,0,,Huh?
+Dialogue: 0,0:04:58.37,0:05:03.42,Default,DATE,0,0,0,,When Aoi was selected at the tryouts,\Nto be frank, he wasn't up to our standard.
+Dialogue: 0,0:05:03.42,0:05:06.57,Default,DATE,0,0,0,,But Fukuda had a different standard.
+Dialogue: 0,0:05:07.18,0:05:10.70,Flashback,FUKUDA,0,0,0,,It's the same standard that saw Akutsu\Npicked at the tryouts.
+Dialogue: 0,0:05:10.70,0:05:11.66,Flashback,DATE,0,0,0,,Akutsu?
+Dialogue: 0,0:05:12.26,0:05:17.14,Flashback,FUKUDA,0,0,0,,Youth teams tend to get model students\N or elitist players.
+Dialogue: 0,0:05:17.60,0:05:20.08,Flashback,FUKUDA,0,0,0,,The type good at applying theory.
+Dialogue: 0,0:05:20.08,0:05:25.42,Flashback,DATE,0,0,0,,Right. That's what they lack compared to those \Nof us who took the high school soccer route.
+Dialogue: 0,0:05:26.42,0:05:29.31,Flashback,FUKUDA,0,0,0,,Elitism is absolutely useless.
+Dialogue: 0,0:05:29.31,0:05:31.78,Flashback,FUKUDA,0,0,0,,When you're in a match\N that's life or death,
+Dialogue: 0,0:05:31.78,0:05:34.81,Flashback,FUKUDA,0,0,0,,all it does is make you \Nlose heart quickly.
+Dialogue: 0,0:05:35.61,0:05:37.53,Flashback,FUKUDA,0,0,0,,What we need is some sediment.
+Dialogue: 0,0:05:37.96,0:05:42.65,Flashback,FUKUDA,0,0,0,,Impurities in the crystal-clear stream\N that is the youth team's environment.
+Dialogue: 0,0:05:44.06,0:05:46.10,Flashback,FUKUDA,0,0,0,,Ashito and Akutsu are alike.
+Dialogue: 0,0:05:46.10,0:05:50.07,Flashback,FUKUDA,0,0,0,,Their chemistry will benefit\N Esperion Youth.
+Dialogue: 0,0:05:53.92,0:05:56.66,Flashback,KURODA,0,0,0,,Maybe those of us \Npromoted from junior youth
+Dialogue: 0,0:05:56.66,0:05:59.68,Flashback,KURODA,0,0,0,,do think about soccer \Nbased only on theory.
+Dialogue: 0,0:06:00.40,0:06:04.43,Flashback,KURODA,0,0,0,,But you're not bound by theories. \NI think I can learn a lot from you.
+Dialogue: 0,0:06:05.57,0:06:10.78,Default,KURODA,0,0,0,,I had an inkling quite early on about \Nwhat Manager Fukuda expressed.
+Dialogue: 0,0:06:11.18,0:06:16.26,Default,KURODA,0,0,0,,But it never occurred to me to use it\Nas an opportunity to reflect on my own play.
+Dialogue: 0,0:06:17.69,0:06:20.41,Default,KURODA,0,0,0,,There's no denying that \NI looked down on Aoi-kun.
+Dialogue: 0,0:06:21.37,0:06:26.19,Default,KURODA,0,0,0,,It was my stupid elitism holding me back.
+Dialogue: 0,0:06:28.84,0:06:29.70,Default,DATE,0,0,0,,Ohtomo.
+Dialogue: 0,0:06:30.15,0:06:33.62,Default,DATE,0,0,0,,Of the first-years, \Nyou are the strongest mentally.
+Dialogue: 0,0:06:34.01,0:06:35.20,Default,DATE,0,0,0,,You outshine everyone.
+Dialogue: 0,0:06:37.29,0:06:38.00,Default,OHTOMO,0,0,0,,Wha...
+Dialogue: 0,0:06:39.00,0:06:41.19,Default,OHTOMO,0,0,0,,What?!
+Dialogue: 0,0:06:41.19,0:06:44.43,Italics,OHTOMO/I,0,0,0,,But I'm always scared stiff before games.
+Dialogue: 0,0:06:45.45,0:06:48.12,Default,DATE,0,0,0,,Have more confidence \Nwhen you're playing.
+Dialogue: 0,0:06:48.12,0:06:51.43,Default,DATE,0,0,0,,I think you have the \Ntemperament to be captain.
+Dialogue: 0,0:06:51.93,0:06:52.99,Default,OHTOMO,0,0,0,,What?
+Dialogue: 0,0:06:55.09,0:06:58.68,Default,OHTOMO,0,0,0,,M-Manager Fukuda trained with you?
+Dialogue: 0,0:06:59.10,0:07:01.69,Default,TAKESHIMA,0,0,0,,What a blissful time it was.
+Dialogue: 0,0:07:01.69,0:07:07.23,Default,ASARI,0,0,0,,And he promised he'd train with us\N like that every Thursday night.
+Dialogue: 0,0:07:07.23,0:07:11.86,Default,ASARI,0,0,0,,Always thought I had to be established in\Nthe A team to be personally coached by him.
+Dialogue: 0,0:07:11.86,0:07:15.20,Default,YUMA,0,0,0,,He didn't have anything \Nmeaningful to say to me.
+Dialogue: 0,0:07:15.20,0:07:20.15,Default,OHTOMO,0,0,0,,I-I'm jealous, of course.\NBut aren't you overworking?
+Dialogue: 0,0:07:20.15,0:07:22.96,Default,OHTOMO,0,0,0,,You guys have matches for the B team, too.
+Dialogue: 0,0:07:30.09,0:07:31.45,Default,TOGASHI,0,0,0,,Yo, Kuroda.
+Dialogue: 0,0:07:31.45,0:07:33.97,Default,TOGASHI,0,0,0,,We're gonna train at night\N startin' tomorrow.
+Dialogue: 0,0:07:34.31,0:07:37.60,Default,TOGASHI,0,0,0,,We need more attackers, \Nso come train with us.
+Dialogue: 0,0:07:40.20,0:07:43.56,Flashback,TACHIBANA,0,0,0,,Our regular training won't be enough. \NLet's practice it together now!
+Dialogue: 0,0:07:43.56,0:07:44.66,Flashback,TACHIBANA,0,0,0,,Kuroda!
+Dialogue: 0,0:07:45.28,0:07:46.88,Flashback,KURODA,0,0,0,,That's overworking yourself.
+Dialogue: 0,0:07:48.28,0:07:49.24,Default,KURODA,0,0,0,,Okay.
+Dialogue: 0,0:07:54.24,0:07:55.37,Default,KURODA,0,0,0,,I'll do anything.
+Dialogue: 0,0:07:57.04,0:07:58.54,Default,ASHITO,0,0,0,,Kuroda.
+Dialogue: 0,0:07:58.54,0:08:00.01,Default,OHTOMO,0,0,0,,All righty.
+Dialogue: 0,0:08:00.33,0:08:01.79,Default,SIGN,0,0,0,,{\fad(300,0)\an1\b1\bord0\shad0\fs15\blur0.2\pos(518,292)\c&H0B555A&\frz333}Rustle\NRustle\NRustle
+Dialogue: 0,0:08:00.33,0:08:01.79,Default,SIGN,0,0,0,,{\fad(300,0)\an3\b1\bord0\shad0\fs15\blur0.2\c&H0B555A&\frz20\pos(382,198)}Rustle\NRustle
+Dialogue: 0,0:08:00.81,0:08:01.79,Default,TOGASHI,0,0,0,,Huh?
+Dialogue: 0,0:08:02.04,0:08:03.88,Default,OHTOMO,0,0,0,,I discovered something.
+Dialogue: 0,0:08:02.68,0:08:08.05,Default,SIGN,0,0,0,,{\fad(260,0)\bord0\shad0\b1\blur0.2\an8\fnVerdana\fay0.08\fscx85\fax0.2\fs12\c&H364937&\frz27.35\pos(402.85,142.28)}Bathroom
+Dialogue: 0,0:08:02.68,0:08:08.05,Default,SIGN,0,0,0,,{\fad(260,0)\bord0\shad0\b1\blur0.2\an8\fs18\fay0.005\fnVerdana\fscx85\fax0.2\c&H364937&\frz27.35\pos(297.72,253.15)}Conference Room
+Dialogue: 0,0:08:02.68,0:08:08.05,Default,SIGN,0,0,0,,{\fad(260,0)\bord0\shad0\b1\blur0.2\an9\fnVerdana\fscx85\fax0.2\c&H364937&\frz27.35\pos(414,234)}Entrance
+Dialogue: 0,0:08:03.88,0:08:08.05,Default,OHTOMO,0,0,0,,Forget the window. It's easier \Nto sneak out the unalarmed fire exit.
+Dialogue: 0,0:08:08.05,0:08:10.35,Default,TAKESHIMA,0,0,0,,A hand-drawn map?
+Dialogue: 0,0:08:10.35,0:08:13.80,Default,OHTOMO,0,0,0,,If we take too many people, \Nwe'll get caught breaking curfew.
+Dialogue: 0,0:08:14.18,0:08:17.83,Default,OHTOMO,0,0,0,,So let's keep it to just us\N for the first week.
+Dialogue: 0,0:08:17.83,0:08:18.52,Default,TAKESHIMA,0,0,0,,Sure.
+Dialogue: 0,0:08:19.02,0:08:22.10,Default,ASARI,0,0,0,,If it goes well, maybe the other \NB team members can join us.
+Dialogue: 0,0:08:34.32,0:08:36.69,Default,ASHITO,0,0,0,,W-W-Wait, T-T-Togashi!
+Dialogue: 0,0:08:36.69,0:08:38.25,Default,ASHITO,0,0,0,,I'm falling! I'm falling!
+Dialogue: 0,0:08:38.25,0:08:40.33,Default,TOGASHI,0,0,0,,I'm tellin' you, you're too slow!
+Dialogue: 0,0:08:42.20,0:08:44.29,Italics,ASHITO/I,0,0,0,,Damn it all.
+Dialogue: 0,0:08:44.29,0:08:47.46,Italics,ASHITO/I,0,0,0,,How do you guys react so quickly?
+Dialogue: 0,0:08:47.83,0:08:49.17,Italics,ASHITO/I,0,0,0,,Incredible.
+Dialogue: 0,0:08:49.17,0:08:51.09,Italics,ASHITO/I,0,0,0,,You're all incredible.
+Dialogue: 0,0:08:51.09,0:08:55.59,Italics,ASHITO/I,0,0,0,,Without using words, you understand\N each other and instantly plug any gaps.
+Dialogue: 0,0:08:56.33,0:08:59.37,Italics,ASHITO/I,0,0,0,,I called it "playing rope train," \Nbut this rope exercise...
+Dialogue: 0,0:08:59.86,0:09:03.33,Italics,ASHITO/I,0,0,0,,makes it obvious who \Ndoesn't have a defensive foundation.
+Dialogue: 0,0:09:03.33,0:09:08.11,Italics,ASHITO/I,0,0,0,,What an innovative training drill\Ndesigned to single out a weak player.
+Dialogue: 0,0:09:14.01,0:09:15.95,Default,TAKESHIMA,0,0,0,,You idiot, Togashi. \NWhy'd you look away?
+Dialogue: 0,0:09:18.70,0:09:20.30,Default,TOGASHI,0,0,0,,Damn it!
+Dialogue: 0,0:09:20.30,0:09:20.78,Default,ASHITO,0,0,0,,Togashi.
+Dialogue: 0,0:09:21.08,0:09:22.00,Default,TOGASHI,0,0,0,,What?
+Dialogue: 0,0:09:22.00,0:09:24.11,Default,ASHITO,0,0,0,,Um, well, you see...
+Dialogue: 0,0:09:24.11,0:09:26.54,Default,ASHITO,0,0,0,,I don't think you need \Nto scan the field there.
+Dialogue: 0,0:09:27.12,0:09:29.44,Default,ASHITO,0,0,0,,With your current positioning,
+Dialogue: 0,0:09:29.44,0:09:34.30,Default,ASHITO,0,0,0,,you can already see the ball carrier\Nand the guy you need to mark.
+Dialogue: 0,0:09:34.79,0:09:37.31,Default,ASHITO,0,0,0,,So you don't need \Nto force yourself to scan there.
+Dialogue: 0,0:09:37.31,0:09:38.78,Default,ASHITO,0,0,0,,You'll lose one of them.
+Dialogue: 0,0:09:43.74,0:09:44.89,Default,TOGASHI,0,0,0,,Okay.
+Dialogue: 0,0:10:02.47,0:10:09.02,Italics,ASHITO/I,0,0,0,,I'm not sure what this rope exercise \Nwill do for me, but I'll give it my all.
+Dialogue: 0,0:10:10.62,0:10:11.93,Italics,ASHITO/I,0,0,0,,I won't get left behind.
+Dialogue: 0,0:10:14.01,0:10:15.55,Default,ASHITO,0,0,0,,All right. Let's do this.
+Dialogue: 0,0:10:16.64,0:10:17.77,Default,ASHITO,0,0,0,,One more time.
+Dialogue: 0,0:10:18.11,0:10:19.03,Default,OHTOMO/TACHIBANA/YUMA,0,0,0,,Right.
+Dialogue: 0,0:10:24.68,0:10:27.93,Default,SIGN,0,0,0,,{\fnTimes New Roman\shad0\blur0.2\b1\fs6\fay0.02\bord1.5\pos(464,297)\3c&H5A636A&\c&HA7ABAF&}Tokyo Myosen High School
+Dialogue: 0,0:10:26.33,0:10:27.93,Default,TEACHER,0,0,0,,So as you can see...
+Dialogue: 0,0:10:27.93,0:10:33.69,Default,SIGN,0,0,0,,{\an8\bord0\shad0\blur0.2\fs12\fnGeorgia\b1\fscx90\move(168,40,155,40)\c&HBABDA3&}Making sense\N of how he feels
+Dialogue: 0,0:10:27.93,0:10:33.69,Default,SIGN,0,0,0,,{\an8\bord0\shad0\blur0.2\fs12\fnGeorgia\b1\fscx90\c&HBABDA3&\move(264,22.29,251,22.29)}Sanshiro
+Dialogue: 0,0:10:27.93,0:10:33.69,Default,SIGN,0,0,0,,{\an8\bord0\shad0\blur0.2\fs12\fnGeorgia\b1\fscx90\c&HBABDA3&\move(362.86,17.14,349.86,17.14)}Refreshing
+Dialogue: 0,0:10:27.93,0:10:33.69,Default,SIGN,0,0,0,,{\an8\bord0\shad0\blur0.2\fs12\fnGeorgia\b1\fscx90\c&HBABDA3&\move(454.29,20,441.29,20)}Mineko
+Dialogue: 0,0:10:27.93,0:10:33.69,Default,SIGN,0,0,0,,{\an8\bord0\shad0\blur0.2\fs10\fnGeorgia\b1\fscx90\c&HBABDA3&\move(517.14,72,504.14,72)}Only these two \Nshare silent moments
+Dialogue: 0,0:10:27.93,0:10:33.69,Default,SIGN,0,0,0,,{\an8\bord0\shad0\blur0.2\fs10\fnGeorgia\b1\fscx90\c&HBABDA3&\move(437.14,174.86,424.14,174.86)}Close yet distant presence
+Dialogue: 0,0:10:28.34,0:10:34.15,Default,TEACHER,0,0,0,,this is where Sanshiro starts to see \NSatomi Mineko as a romantic interest.
+Dialogue: 0,0:10:34.70,0:10:38.95,Default,TEACHER,0,0,0,,To Sanshiro, who has just moved to Tokyo, \NMineko is utterly captivating.
+Dialogue: 0,0:10:41.20,0:10:43.45,Default,SIGN,0,0,0,,{\fnTimes New Roman\b1\bord0\shad0\fs6\fax0.5\blur0.2\an8\c&H918C8D&\frz336\move(228,281,228,291)\frx352\fry352}Integrated\h\h\h\h\NJapanese Language
+Dialogue: 1,0:10:38.95,0:10:40.45,Default,TEACHER,0,0,0,,Whenever Mineko appears,
+Dialogue: 1,0:10:40.45,0:10:45.70,Default,TEACHER,0,0,0,,the vocabulary and grammatical expression\N become especially vibrant.
+Dialogue: 0,0:10:46.06,0:10:50.08,Top,TEACHER,0,0,0,,Now, let's see... \NMotoki, read the next passage.
+Dialogue: 0,0:10:50.50,0:10:51.12,Top,YUMA,0,0,0,,Huh?
+Dialogue: 0,0:11:03.20,0:11:06.18,Default,ASHITO,0,0,0,,The old man's gonna train\N with us today, right?
+Dialogue: 0,0:11:06.44,0:11:08.74,Default,OHTOMO,0,0,0,,Yeah. It's Thursday.
+Dialogue: 0,0:11:08.74,0:11:10.41,Default,TACHIBANA,0,0,0,,I'm getting nervous.
+Dialogue: 0,0:11:13.55,0:11:14.55,Default,TACHIBANA,0,0,0,,Miyako?
+Dialogue: 0,0:11:14.55,0:11:15.63,Default,TACHIBANA,0,0,0,,What's up?
+Dialogue: 0,0:11:16.64,0:11:18.19,Default,TACHIBANA,0,0,0,,You're coming here again?
+Dialogue: 0,0:11:18.19,0:11:20.01,Italics,MIYAKO/I,0,0,0,,Is that a problem?
+Dialogue: 0,0:11:20.01,0:11:22.62,Italics,MIYAKO/I,0,0,0,,Training at Musashino finished early.
+Dialogue: 0,0:11:19.45,0:11:28.20,Top Italics,OHTOMO,0,0,0,,Oh me, oh my.
+Dialogue: 0,0:11:22.62,0:11:24.50,Default,TACHIBANA,0,0,0,,I-I don't need more underwear.
+Dialogue: 0,0:11:24.50,0:11:26.37,Italics,MIYAKO/I,0,0,0,,I didn't bring any today.
+Dialogue: 0,0:11:26.37,0:11:28.20,Italics,MIYAKO/I,0,0,0,,Okay, see you later.
+Dialogue: 0,0:11:28.20,0:11:28.33,Default,SIGN,0,0,0,,{\fnArial\bord0\shad0\blur0.2\an8\fax0.4\fay-0.03\fs22\pos(318.5,40.5)\frx4\fry8\c&HDED2D0&}Soichiro
+Dialogue: 0,0:11:28.33,0:11:28.46,Default,SIGN,0,0,0,,{\fnArial\bord0\shad0\blur0.2\an8\fax0.4\fay-0.03\fs22\pos(318.5,32)\frx4\fry8\c&HDED2D0&}Soichiro
+Dialogue: 0,0:11:28.46,0:11:28.58,Default,SIGN,0,0,0,,{\fnArial\bord0\shad0\blur0.2\an8\fax0.4\fay-0.03\fs22\pos(318,22)\frx4\fry8\c&HDED2D0&}Soichiro
+Dialogue: 0,0:11:28.58,0:11:28.71,Default,SIGN,0,0,0,,{\fnArial\bord0\shad0\blur0.2\an8\fax0.43\fay-0.03\fs22\pos(318,3)\frx4\fry8\c&HDED2D0&}Soichiro
+Dialogue: 0,0:11:28.72,0:11:28.83,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs13\fax0.4\fay-0.002\pos(273,76)}Soichiro
+Dialogue: 0,0:11:28.83,0:11:28.96,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs13\fax0.4\fay-0.002\pos(273,90)}Soichiro
+Dialogue: 0,0:11:28.96,0:11:29.08,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs13\fax0.4\fay-0.002\pos(273,82)}Soichiro
+Dialogue: 0,0:11:29.08,0:11:29.21,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs13\fax0.4\fay-0.002\pos(273,71)}Soichiro
+Dialogue: 0,0:11:29.21,0:11:29.33,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs13\fax0.4\fay-0.002\pos(273,54)}Soichiro
+Dialogue: 0,0:11:29.33,0:11:29.46,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs13\fax0.4\fay-0.002\pos(273,76)}Soichiro
+Dialogue: 0,0:11:29.46,0:11:29.58,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs13\fax0.4\fay-0.002\pos(273,90)}Soichiro
+Dialogue: 0,0:11:29.58,0:11:29.71,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs13\fax0.4\fay-0.002\pos(273,82)}Soichiro
+Dialogue: 0,0:11:28.72,0:11:28.83,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs10\fax0.4\fay-0.06\pos(155.5,45)}Today
+Dialogue: 0,0:11:28.83,0:11:28.96,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs10\fax0.4\fay-0.06\pos(155.5,59)}Today
+Dialogue: 0,0:11:28.96,0:11:29.08,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs10\fax0.4\fay-0.06\pos(155.5,51)}Today
+Dialogue: 0,0:11:29.08,0:11:29.21,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs10\fax0.4\fay-0.06\pos(155.5,40)}Today
+Dialogue: 0,0:11:29.21,0:11:29.33,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs10\fax0.4\fay-0.06\pos(155.5,23)}Today
+Dialogue: 0,0:11:29.33,0:11:29.46,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs10\fax0.4\fay-0.06\pos(155.5,45)}Today
+Dialogue: 0,0:11:29.46,0:11:29.58,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs10\fax0.4\fay-0.06\pos(155.5,59)}Today
+Dialogue: 0,0:11:29.58,0:11:29.71,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs10\fax0.4\fay-0.06\pos(155.5,51)}Today
+Dialogue: 0,0:11:28.72,0:11:28.83,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs8.5\fax0.4\fay-0.02\pos(235.5,103)\c&H848786&}Cell phone — Just now
+Dialogue: 0,0:11:28.83,0:11:28.96,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs8.5\fax0.4\fay-0.02\pos(235.5,117)\c&H848786&}Cell phone — Just now
+Dialogue: 0,0:11:28.96,0:11:29.08,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs8.5\fax0.4\fay-0.02\pos(235.5,109)\c&H848786&}Cell phone — Just now
+Dialogue: 0,0:11:29.08,0:11:29.21,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs8.5\fax0.4\fay-0.02\pos(235.5,98)\c&H848786&}Cell phone — Just now
+Dialogue: 0,0:11:29.21,0:11:29.33,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs8.5\fax0.4\fay-0.02\pos(235.5,81)\c&H848786&}Cell phone — Just now
+Dialogue: 0,0:11:29.33,0:11:29.46,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs8.5\fax0.4\fay-0.02\pos(235.5,103)\c&H848786&}Cell phone — Just now
+Dialogue: 0,0:11:29.46,0:11:29.58,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs8.5\fax0.4\fay-0.02\pos(235.5,117)\c&H848786&}Cell phone — Just now
+Dialogue: 0,0:11:29.58,0:11:29.71,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs8.5\fax0.4\fay-0.02\pos(235.5,109)\c&H848786&}Cell phone — Just now
+Dialogue: 0,0:11:28.72,0:11:28.83,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs9\fax0.4\fay-0.04\pos(178,117)}Yesterday
+Dialogue: 0,0:11:28.83,0:11:28.96,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs9\fax0.4\fay-0.04\pos(178,131)}Yesterday
+Dialogue: 0,0:11:28.96,0:11:29.08,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs9\fax0.4\fay-0.04\pos(178,123)}Yesterday
+Dialogue: 0,0:11:29.08,0:11:29.21,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs9\fax0.4\fay-0.04\pos(178,112)}Yesterday
+Dialogue: 0,0:11:29.21,0:11:29.33,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs9\fax0.4\fay-0.04\pos(178,95)}Yesterday
+Dialogue: 0,0:11:29.33,0:11:29.46,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs9\fax0.4\fay-0.04\pos(178,117)}Yesterday
+Dialogue: 0,0:11:29.46,0:11:29.58,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs9\fax0.4\fay-0.04\pos(178,131)}Yesterday
+Dialogue: 0,0:11:29.58,0:11:29.71,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs9\fax0.4\fay-0.04\pos(178,123)}Yesterday
+Dialogue: 0,0:11:28.72,0:11:28.83,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs13\fax0.5\fay-0.002\pos(301.5,147)}Mom
+Dialogue: 0,0:11:28.83,0:11:28.96,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs13\fax0.5\fay-0.002\pos(301.5,161)}Mom
+Dialogue: 0,0:11:28.96,0:11:29.08,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs13\fax0.5\fay-0.002\pos(301.5,153)}Mom
+Dialogue: 0,0:11:29.08,0:11:29.21,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs13\fax0.5\fay-0.002\pos(301.5,142)}Mom
+Dialogue: 0,0:11:29.21,0:11:29.33,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs13\fax0.5\fay-0.002\pos(301.5,125)}Mom
+Dialogue: 0,0:11:29.33,0:11:29.46,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs13\fax0.5\fay-0.002\pos(301.5,147)}Mom
+Dialogue: 0,0:11:29.46,0:11:29.58,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs13\fax0.5\fay-0.002\pos(301.5,161)}Mom
+Dialogue: 0,0:11:29.58,0:11:29.71,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs13\fax0.5\fay-0.002\pos(301.5,153)}Mom
+Dialogue: 0,0:11:28.72,0:11:28.83,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs8.5\fax0.45\fay-0.02\c&H848786&\pos(263.5,173)}Cell phone
+Dialogue: 0,0:11:28.83,0:11:28.96,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs8.5\fax0.45\fay-0.02\c&H848786&\pos(263.5,187)}Cell phone
+Dialogue: 0,0:11:28.96,0:11:29.08,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs8.5\fax0.45\fay-0.02\c&H848786&\pos(263.5,179)}Cell phone
+Dialogue: 0,0:11:29.08,0:11:29.21,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs8.5\fax0.45\fay-0.02\c&H848786&\pos(263.5,168)}Cell phone
+Dialogue: 0,0:11:29.21,0:11:29.33,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs8.5\fax0.45\fay-0.02\c&H848786&\pos(263.5,151)}Cell phone
+Dialogue: 0,0:11:29.33,0:11:29.46,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs8.5\fax0.45\fay-0.02\c&H848786&\pos(263.5,173)}Cell phone
+Dialogue: 0,0:11:29.46,0:11:29.58,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs8.5\fax0.45\fay-0.02\c&H848786&\pos(263.5,187)}Cell phone
+Dialogue: 0,0:11:29.58,0:11:29.71,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs8.5\fax0.45\fay-0.02\c&H848786&\pos(263.5,179)}Cell phone
+Dialogue: 0,0:11:28.72,0:11:28.83,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs13\fax0.5\fay-0.002\pos(305.5,193)}Mizuki
+Dialogue: 0,0:11:28.83,0:11:28.96,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs13\fax0.5\fay-0.002\pos(305.5,207)}Mizuki
+Dialogue: 0,0:11:28.96,0:11:29.08,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs13\fax0.5\fay-0.002\pos(305.5,199)}Mizuki
+Dialogue: 0,0:11:29.08,0:11:29.21,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs13\fax0.5\fay-0.002\pos(305.5,188)}Mizuki
+Dialogue: 0,0:11:29.21,0:11:29.33,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs13\fax0.5\fay-0.002\pos(305.5,171)}Mizuki
+Dialogue: 0,0:11:29.33,0:11:29.46,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs13\fax0.5\fay-0.002\pos(305.5,193)}Mizuki
+Dialogue: 0,0:11:29.46,0:11:29.58,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs13\fax0.5\fay-0.002\pos(305.5,207)}Mizuki
+Dialogue: 0,0:11:29.58,0:11:29.71,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs13\fax0.5\fay-0.002\pos(305.5,199)}Mizuki
+Dialogue: 0,0:11:28.72,0:11:28.83,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs8.5\fax0.45\fay-0.02\c&H848786&\pos(283,220)}Cell phone
+Dialogue: 0,0:11:28.83,0:11:28.96,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs8.5\fax0.45\fay-0.02\c&H848786&\pos(283,234)}Cell phone
+Dialogue: 0,0:11:28.96,0:11:29.08,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs8.5\fax0.45\fay-0.02\c&H848786&\pos(283,226)}Cell phone
+Dialogue: 0,0:11:29.08,0:11:29.21,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs8.5\fax0.45\fay-0.02\c&H848786&\pos(283,215)}Cell phone
+Dialogue: 0,0:11:29.21,0:11:29.33,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs8.5\fax0.45\fay-0.02\c&H848786&\pos(283,198)}Cell phone
+Dialogue: 0,0:11:29.33,0:11:29.46,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs8.5\fax0.45\fay-0.02\c&H848786&\pos(283,220)}Cell phone
+Dialogue: 0,0:11:29.46,0:11:29.58,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs8.5\fax0.45\fay-0.02\c&H848786&\pos(283,234)}Cell phone
+Dialogue: 0,0:11:29.58,0:11:29.71,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs8.5\fax0.45\fay-0.02\c&H848786&\pos(283,226)}Cell phone
+Dialogue: 0,0:11:28.72,0:11:28.83,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs13\fax0.5\fay-0.002\pos(337,237)}Kanako
+Dialogue: 0,0:11:28.83,0:11:28.96,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs13\fax0.5\fay-0.002\pos(337,251)}Kanako
+Dialogue: 0,0:11:28.96,0:11:29.08,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs13\fax0.5\fay-0.002\pos(337,243)}Kanako
+Dialogue: 0,0:11:29.08,0:11:29.21,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs13\fax0.5\fay-0.002\pos(337,232)}Kanako
+Dialogue: 0,0:11:29.21,0:11:29.33,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs13\fax0.5\fay-0.002\pos(337,215)}Kanako
+Dialogue: 0,0:11:29.33,0:11:29.46,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs13\fax0.5\fay-0.002\pos(337,237)}Kanako
+Dialogue: 0,0:11:29.46,0:11:29.58,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs13\fax0.5\fay-0.002\pos(337,251)}Kanako
+Dialogue: 0,0:11:29.58,0:11:29.71,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs13\fax0.5\fay-0.002\pos(337,243)}Kanako
+Dialogue: 0,0:11:28.72,0:11:28.83,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs8.5\fax0.45\fay-0.02\c&H848786&\pos(300.5,264.5)}Cell phone
+Dialogue: 0,0:11:28.83,0:11:28.96,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs8.5\fax0.45\fay-0.02\c&H848786&\pos(300.5,278.5)}Cell phone
+Dialogue: 0,0:11:28.96,0:11:29.08,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs8.5\fax0.45\fay-0.02\c&H848786&\pos(300.5,270.5)}Cell phone
+Dialogue: 0,0:11:29.08,0:11:29.21,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs8.5\fax0.45\fay-0.02\c&H848786&\pos(300.5,259.5)}Cell phone
+Dialogue: 0,0:11:29.21,0:11:29.33,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs8.5\fax0.45\fay-0.02\c&H848786&\pos(300.5,242.5)}Cell phone
+Dialogue: 0,0:11:29.33,0:11:29.46,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs8.5\fax0.45\fay-0.02\c&H848786&\pos(300.5,264.5)}Cell phone
+Dialogue: 0,0:11:29.46,0:11:29.58,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs8.5\fax0.45\fay-0.02\c&H848786&\pos(300.5,278.5)}Cell phone
+Dialogue: 0,0:11:29.58,0:11:29.71,Default,SIGN,0,0,0,,{\b1\an7\bord0\shad0\blur0.2\fs8.5\fax0.45\fay-0.02\c&H848786&\pos(300.5,270.5)}Cell phone
+Dialogue: 0,0:11:30.04,0:11:31.43,Default,MIYAKO,0,0,0,,Hi, Anri.
+Dialogue: 0,0:11:31.43,0:11:33.28,Default,ANRI,0,0,0,,You really came.
+Dialogue: 0,0:11:33.28,0:11:34.89,Default,MIYAKO,0,0,0,,Well, of course I did.
+Dialogue: 0,0:11:34.89,0:11:37.96,Default,MIYAKO,0,0,0,,Manager Fukuda's \Ngoing to be coaching today.
+Dialogue: 0,0:11:38.41,0:11:42.47,Default,MIYAKO,0,0,0,,I could only join in with their \Ntraining on that first day,
+Dialogue: 0,0:11:42.47,0:11:46.35,Default,MIYAKO,0,0,0,,but I hear Ohtomo-kun and the others\Njoined in and they trained all week.
+Dialogue: 0,0:11:46.58,0:11:50.18,Default,MIYAKO,0,0,0,,I'm interested to see what \NManager Fukuda is going to teach us all.
+Dialogue: 0,0:11:50.57,0:11:53.98,Default,MIYAKO,0,0,0,,Maybe he'll even give me \Na piece of advice or two.
+Dialogue: 0,0:11:54.33,0:11:58.48,Default,ANRI,0,0,0,,I don't know about you, \Nbut I think I'll just watch today.
+Dialogue: 0,0:12:00.61,0:12:02.24,Default,MIYAKO,0,0,0,,What are you talking about?
+Dialogue: 0,0:12:02.55,0:12:05.14,Default,MIYAKO,0,0,0,,Your clothes scream "easy to move around in."
+Dialogue: 0,0:12:10.82,0:12:11.45,Default,MIYAKO,0,0,0,,Oh?
+Dialogue: 0,0:12:20.16,0:12:22.37,Default,FUKUDA,0,0,0,,Okay! Your turn, Ohtomo.
+Dialogue: 0,0:12:22.37,0:12:23.51,Default,OHTOMO,0,0,0,,All righty!
+Dialogue: 0,0:12:32.23,0:12:33.23,Default,KURODA,0,0,0,,Ohtomo!
+Dialogue: 0,0:12:42.20,0:12:42.98,Default,FUKUDA,0,0,0,,Kuroda!
+Dialogue: 0,0:12:48.58,0:12:50.76,Default,FUKUDA,0,0,0,,The rope is taut, Ashito.
+Dialogue: 0,0:12:56.63,0:12:58.57,Top,ASHITO,0,0,0,,Damn it!
+Dialogue: 0,0:12:57.23,0:13:00.96,Default,TOGASHI,0,0,0,,Ashito! Why'd you let\Nthe princess run through?
+Dialogue: 0,0:13:02.56,0:13:07.02,Default,YUMA,0,0,0,,Nice, Anri. I haven't seen you \Nscore a goal since we were little.
+Dialogue: 0,0:13:07.02,0:13:08.57,Default,TAKESHIMA,0,0,0,,The rope was taut.
+Dialogue: 0,0:13:08.57,0:13:10.72,Default,TAKESHIMA,0,0,0,,You let Manager Fukuda lure you out.
+Dialogue: 0,0:13:10.94,0:13:13.60,Default,TACHIBANA,0,0,0,,But you're really improving, Ashito.
+Dialogue: 0,0:13:13.60,0:13:18.48,Default,YUMA,0,0,0,,Yeah, the synchronization of the \Nfour defenders is way better now.
+Dialogue: 0,0:13:19.14,0:13:21.06,Default,ASHITO,0,0,0,,M-Manager Fukuda.
+Dialogue: 0,0:13:21.06,0:13:23.24,Default,ASHITO,0,0,0,,This rope exercise is great.
+Dialogue: 0,0:13:23.53,0:13:27.29,Default,ASHITO,0,0,0,,I called it "playing rope train," \Nbut it really works.
+Dialogue: 0,0:13:27.29,0:13:31.09,Default,ASHITO,0,0,0,,If the four of us don't move the\N same way, the rope pulls on us.
+Dialogue: 0,0:13:31.09,0:13:34.20,Default,ASHITO,0,0,0,,It teaches my body how to move,\N whether I like it or not.
+Dialogue: 0,0:13:34.20,0:13:35.39,Default,ASHITO,0,0,0,,Listen, old man—
+Dialogue: 0,0:13:35.39,0:13:36.98,Default,FUKUDA,0,0,0,,Togashi, a question for you.
+Dialogue: 0,0:13:37.52,0:13:40.35,Default,FUKUDA,0,0,0,,On your way to school from the dorm,
+Dialogue: 0,0:13:40.35,0:13:43.05,Default,FUKUDA,0,0,0,,you pass several stores with red signs.
+Dialogue: 0,0:13:43.05,0:13:44.01,Default,FUKUDA,0,0,0,,How many are there?
+Dialogue: 0,0:13:44.01,0:13:46.74,Default,TOGASHI,0,0,0,,What? R-Red signs?
+Dialogue: 0,0:13:46.74,0:13:48.71,Default,TOGASHI,0,0,0,,Like that ramen place on the corner?
+Dialogue: 0,0:13:48.71,0:13:49.51,Default,FUKUDA,0,0,0,,Yeah.
+Dialogue: 0,0:13:49.97,0:13:50.93,Default,TOGASHI,0,0,0,,Let's see...
+Dialogue: 0,0:13:51.70,0:13:54.19,Default,TOGASHI,0,0,0,,Oh, the pharmacy by the river has one, too.
+Dialogue: 0,0:13:54.19,0:13:55.52,Default,TOGASHI,0,0,0,,And...
+Dialogue: 0,0:13:56.21,0:13:57.13,Default,TOGASHI,0,0,0,,Three?
+Dialogue: 0,0:13:58.25,0:13:58.83,Default,FUKUDA,0,0,0,,Ashito.
+Dialogue: 0,0:13:59.52,0:14:02.36,Default,ASHITO,0,0,0,,W-Well, um...
+Dialogue: 0,0:14:03.29,0:14:09.24,Default,ASHITO,0,0,0,,The DVD rental store.\NThe manga café. The BBQ place.
+Dialogue: 0,0:14:03.03,0:14:10.47,Default,SIGN,0,0,0,,{\fad(480,700)\fnImpact\bord1.2\fsp6\shad0\fax0.12\blur0.2\pos(129,112)\frz354.8\3c&H827287&\c&H4C2F3F&}RENTAL
+Dialogue: 0,0:14:04.78,0:14:10.04,Default,SIGN,0,0,0,,{\fad(480,320)\bord1.6\shad0\blur0.2\fnArial Black\fay-0.055\fs18\pos(479,155)\3c&H5DCDFC&\c&H3E3FDB&}Manga\N{\fay-0.04}Café
+Dialogue: 0,0:14:07.05,0:14:10.04,Default,SIGN,0,0,0,,{\fad(480,320)\an7\fnGeorgia\b1\blur0.2\fs12.5\fscy140\bord0\shad0\fscx90\fax-0.3\pos(448,214)\c&HEEF0F5&\frz12.63}BBQ Kokuou
+Dialogue: 0,0:14:09.85,0:14:13.91,Default,ASHITO,0,0,0,,And the pharmacy sign has red letters,\Nbut it's actually white, Togashi.
+Dialogue: 0,0:14:09.80,0:14:13.91,Default,SIGN,0,0,0,,{\fad(720,0)\fnArial\fry12\b1\blur0.2\bord0\shad0\fax0.45\fs14\c&H543BD4&\frz337.1\pos(236.5,72)}Myosen
+Dialogue: 0,0:14:09.80,0:14:13.91,Default,SIGN,0,0,0,,{\fad(720,0)\fnArial\fry12\b1\blur0.2\bord0\shad0\fay-0.04\fax0.47\fs12\c&H543BD4&\frz337.1\pos(265,96)}Drug
+Dialogue: 0,0:14:09.80,0:14:13.91,Default,SIGN,0,0,0,,{\fad(720,0)\an8\fnArial\b1\shad0\blur0.2\fs11\bord1.1\fax0.2\3c&HACBAB2&\c&H59605C&\frz348\pos(256,223.5)\fry12}Prescriptions
+Dialogue: 0,0:14:16.86,0:14:18.97,Default,ASHITO,0,0,0,,And that one. Plus that one.
+Dialogue: 0,0:14:20.36,0:14:21.42,Default,ASHITO,0,0,0,,Seven.
+Dialogue: 0,0:14:23.16,0:14:24.42,Default,FUKUDA,0,0,0,,Correct.
+Dialogue: 0,0:14:31.70,0:14:36.01,Default,FUKUDA,0,0,0,,If you're registering a white sign as red,\Nyou've got a long way to go, Togashi.
+Dialogue: 0,0:14:36.01,0:14:38.44,Default,TOGASHI,0,0,0,,But Fukuda-san, that's a bit, uh...
+Dialogue: 0,0:14:38.86,0:14:42.80,Default,FUKUDA,0,0,0,,For the next 24 hours, note anything\Nand everything you see in detail.
+Dialogue: 0,0:14:43.41,0:14:45.88,Default,FUKUDA,0,0,0,,I'll ask you another question next week.
+Dialogue: 0,0:14:47.69,0:14:50.32,Default,FUKUDA,0,0,0,,Kuroda, here's my advice for you.
+Dialogue: 0,0:14:50.32,0:14:51.48,Default,FUKUDA,0,0,0,,I wrote it down.
+Dialogue: 0,0:14:51.48,0:14:52.65,Default,KURODA,0,0,0,,Th-Thank you.
+Dialogue: 0,0:14:52.96,0:14:53.78,Default,FUKUDA,0,0,0,,Tachibana.
+Dialogue: 0,0:14:53.78,0:14:54.20,Default,TACHIBANA,0,0,0,,Yes, sir.
+Dialogue: 0,0:14:54.60,0:14:56.43,Default,FUKUDA,0,0,0,,Oh, and the girl from the ladies' team.
+Dialogue: 0,0:14:56.43,0:14:58.46,Default,FUKUDA,0,0,0,,I wrote down what I noticed.
+Dialogue: 0,0:14:58.46,0:15:01.21,Default,MIYAKO,0,0,0,,Th-Thank you very much.
+Dialogue: 0,0:15:01.57,0:15:02.94,Default,FUKUDA,0,0,0,,Takeshima. Asari.
+Dialogue: 0,0:15:03.99,0:15:05.91,Default,FUKUDA,0,0,0,,I can't promote you to the A team yet,
+Dialogue: 0,0:15:05.91,0:15:09.18,Default,FUKUDA,0,0,0,,but in tomorrow's intrasquad game, \Nwanna play on the squad team?
+Dialogue: 0,0:15:09.18,0:15:10.47,Default,ASARI,0,0,0,,Y-Yes, sir.
+Dialogue: 0,0:15:10.93,0:15:13.29,Italics,ASHITO/I,0,0,0,,Oh, so the four of us can play together?
+Dialogue: 0,0:15:13.97,0:15:15.52,Default,FUKUDA,0,0,0,,Okay, that's all for today.
+Dialogue: 0,0:15:16.30,0:15:17.22,Default,ASHITO,0,0,0,,Huh?
+Dialogue: 0,0:15:17.65,0:15:21.52,Default,ASHITO,0,0,0,,Huh?! H-H-Hold on a second,\N Manager Fukuda!
+Dialogue: 0,0:15:21.52,0:15:24.12,Default,ASHITO,0,0,0,,Wh-What about me?\NDon't I get any advice?
+Dialogue: 0,0:15:28.33,0:15:30.35,Default,FUKUDA,0,0,0,,Nope. Nothing in particular.
+Dialogue: 0,0:15:32.68,0:15:34.95,Default,ASHITO,0,0,0,,Damn it.
+Dialogue: 0,0:15:34.95,0:15:39.42,Default,ANRI,0,0,0,,Aoi. I think that's enough\N sports drink now.
+Dialogue: 0,0:15:39.42,0:15:42.32,Default,ASHITO,0,0,0,,How can I {\i1}not{\i0} hit the bottle?
+Dialogue: 0,0:15:42.32,0:15:46.64,Default,ASHITO,0,0,0,,I was looking forward to his feedback \Nall week while training hard.
+Dialogue: 0,0:15:47.01,0:15:47.88,Default,ASHITO,0,0,0,,Damn it.
+Dialogue: 0,0:15:48.24,0:15:49.77,Default,OHTOMO,0,0,0,,Same here.
+Dialogue: 0,0:15:49.77,0:15:53.13,Default,ANRI,0,0,0,,You did get wrapped up\Nin your training, Aoi.
+Dialogue: 0,0:15:53.39,0:15:56.42,Default,ANRI,0,0,0,,So much so, in fact, \Nthat you're looking a little thinner.
+Dialogue: 0,0:15:56.42,0:15:58.73,Default,ASHITO,0,0,0,,Huh? Y-You think so?
+Dialogue: 0,0:16:02.38,0:16:03.31,Default,ANRI,0,0,0,,Well...
+Dialogue: 0,0:16:03.31,0:16:07.90,Default,ASHITO,0,0,0,,I guess my food intake was fine, \Nbut I did get less sleep.
+Dialogue: 0,0:16:10.67,0:16:11.90,Default,ANRI,0,0,0,,If you'd like...
+Dialogue: 0,0:16:12.40,0:16:15.35,Default,ANRI,0,0,0,,Do you want me to make lunches for you?
+Dialogue: 0,0:16:15.89,0:16:17.16,Default,ANRI,0,0,0,,From now on.
+Dialogue: 0,0:16:19.18,0:16:19.79,Default,ASHITO,0,0,0,,Huh?
+Dialogue: 0,0:16:22.66,0:16:24.77,Default,ASHITO,0,0,0,,Uh, I can't ask you to do that.
+Dialogue: 0,0:16:24.77,0:16:28.33,Default,ASHITO,0,0,0,,The daughter of our sponsor \Nhas to do stuff like that?
+Dialogue: 0,0:16:29.06,0:16:32.65,Default,ASHITO,0,0,0,,Anyway, I have the meal plans\N Hana made for me.
+Dialogue: 0,0:16:32.65,0:16:35.09,Default,ASHITO,0,0,0,,They go all the way to July.
+Dialogue: 0,0:16:36.81,0:16:41.93,Default,ASHITO,0,0,0,,Speaking of Hana, \NI haven't really seen her since then.
+Dialogue: 0,0:16:42.30,0:16:45.15,Default,MIYAKO,0,0,0,,Huh? Did you say "Hana"?
+Dialogue: 0,0:16:45.15,0:16:49.30,Default,MIYAKO,0,0,0,,On my way here, \NI spotted her at the train station.
+Dialogue: 0,0:16:49.30,0:16:51.82,Default,MIYAKO,0,0,0,,It was just her and Kuribayashi-san.
+Dialogue: 0,0:16:51.82,0:16:53.42,Default,ANRI,0,0,0,,M-Miyako-san.
+Dialogue: 0,0:16:53.42,0:16:55.70,Default,MIYAKO,0,0,0,,Anri, you saw her, too, right?
+Dialogue: 0,0:16:56.37,0:16:58.53,Default,MIYAKO,0,0,0,,Meeting up alone like that...
+Dialogue: 0,0:16:58.53,0:17:01.29,Default,MIYAKO,0,0,0,,Are those two dating?
+Dialogue: 0,0:17:05.45,0:17:07.09,Default,KURIBAYASHI,0,0,0,,Oh, there you are.
+Dialogue: 0,0:17:08.54,0:17:10.73,Default,MIYAKO,0,0,0,,K-Kuribayashi-san?
+Dialogue: 0,0:17:10.73,0:17:13.05,Default,KURIBAYASHI,0,0,0,,Aoi, do you have a minute?
+Dialogue: 0,0:17:13.05,0:17:14.68,Default,ASHITO,0,0,0,,Wh-What is it?
+Dialogue: 0,0:17:14.68,0:17:16.71,Default,KURIBAYASHI,0,0,0,,Hana-san asked me to do her a favor.
+Dialogue: 0,0:17:18.09,0:17:20.81,Default,KURIBAYASHI,0,0,0,,I'll give you some advice.
+Dialogue: 0,0:17:31.98,0:17:36.28,Flashback,MIYAKO,0,0,0,,Did you say Hana? I spotted her\Nat the train station with Kuribayashi-san.
+Dialogue: 0,0:17:36.86,0:17:38.97,Flashback,MIYAKO,0,0,0,,Are those two dating?
+Dialogue: 0,0:17:41.63,0:17:43.78,Default,KURIBAYASHI,0,0,0,,Let's see... Advice...
+Dialogue: 0,0:17:51.07,0:17:52.92,Default,ASHITO,0,0,0,,K-Kuribayashi-san.
+Dialogue: 0,0:17:53.38,0:17:57.40,Default,ASHITO,0,0,0,,Why are you trying to give me \Nadvice all of a sudden?
+Dialogue: 0,0:17:57.40,0:17:59.43,Default,ASHITO,0,0,0,,And what's Hana's part in it?
+Dialogue: 0,0:18:00.65,0:18:03.12,Default,ASHITO,0,0,0,,Did you run into her in town?
+Dialogue: 0,0:18:04.43,0:18:06.99,Default,ASHITO,0,0,0,,I mean, you two know each other, yeah?
+Dialogue: 0,0:18:07.44,0:18:10.69,Default,KURIBAYASHI,0,0,0,,She took care of me once\N when I was a kid.
+Dialogue: 0,0:18:12.43,0:18:15.31,Default,KURIBAYASHI,0,0,0,,She's managing my nutrition\N at the moment.
+Dialogue: 0,0:18:16.41,0:18:21.00,Default,KURIBAYASHI,0,0,0,,When I asked her to produce\N a nutrition plan for me,
+Dialogue: 0,0:18:21.00,0:18:23.35,Default,KURIBAYASHI,0,0,0,,she asked me to give you\N advice in exchange.
+Dialogue: 0,0:18:23.35,0:18:25.37,Default,ASHITO,0,0,0,,Sh-She asked for something like that?
+Dialogue: 0,0:18:26.88,0:18:28.64,Default,ASHITO,0,0,0,,Wh-What is this?
+Dialogue: 0,0:18:29.17,0:18:31.57,Default,KURIBAYASHI,0,0,0,,A soccer notebook. It's mine.
+Dialogue: 0,0:18:32.84,0:18:35.79,Default,KURIBAYASHI,0,0,0,,I'm not cut out for coaching\N or giving advice.
+Dialogue: 0,0:18:36.15,0:18:38.09,Default,KURIBAYASHI,0,0,0,,So you can have that.
+Dialogue: 0,0:18:44.39,0:18:46.02,Default,ASHITO,0,0,0,,Wait, what?
+Dialogue: 0,0:18:46.54,0:18:49.98,Default,ASHITO,0,0,0,,But this is the notebook you wrote in\Nduring the Kashiwa game.
+Dialogue: 0,0:18:50.29,0:18:52.06,Default,ASHITO,0,0,0,,Isn't it important?
+Dialogue: 0,0:18:52.64,0:18:53.37,Default,KURIBAYASHI,0,0,0,,It's fine.
+Dialogue: 0,0:18:54.17,0:18:56.11,Default,KURIBAYASHI,0,0,0,,I memorized the whole thing.
+Dialogue: 0,0:18:56.39,0:18:58.65,Default,MIYAKO,0,0,0,,N-Not cut out for coaching?
+Dialogue: 0,0:18:58.65,0:19:01.19,Default,MIYAKO,0,0,0,,A player of Kuribayashi-san's\N caliber? No way.
+Dialogue: 0,0:19:01.19,0:19:05.24,Default,OHTOMO,0,0,0,,Manager Fukuda also said not being able\N to coach others was a bad thing.
+Dialogue: 0,0:19:05.71,0:19:07.93,Default,ANRI,0,0,0,,No, not in his case.
+Dialogue: 0,0:19:07.93,0:19:11.92,Default,ANRI,0,0,0,,Because he's on a whole other level,\Nno one else can understand him.
+Dialogue: 0,0:19:11.92,0:19:17.76,Default,ANRI,0,0,0,,That's why I'm even more curious \Nabout what's in that notebook.
+Dialogue: 0,0:19:21.70,0:19:25.69,Italics,ASHITO/I,0,0,0,,Why would he give away \Nsomething so important?
+Dialogue: 0,0:19:26.17,0:19:28.97,Italics,ASHITO/I,0,0,0,,He seems like the type that \Ndoesn't listen to others.
+Dialogue: 0,0:19:30.02,0:19:32.90,Italics,ASHITO/I,0,0,0,,So why's he doing what Hana asked?
+Dialogue: 0,0:19:33.47,0:19:35.00,Italics,ASHITO/I,0,0,0,,What is she to him?
+Dialogue: 0,0:19:35.63,0:19:39.19,Italics,ASHITO/I,0,0,0,,Actually, why am I thinking \Nabout something like that {\i0}now{\i1}?
+Dialogue: 0,0:19:39.19,0:19:41.59,Italics,ASHITO/I,0,0,0,,I've got a mountain of stuff\N I need to work on,
+Dialogue: 0,0:19:42.17,0:19:44.13,Italics,ASHITO/I,0,0,0,,and I'm aiming to go pro.
+Dialogue: 0,0:19:46.10,0:19:47.54,Italics,ASHITO/I,0,0,0,,It's pathetic.
+Dialogue: 0,0:19:49.55,0:19:52.73,Default,KURIBAYASHI,0,0,0,,All right. I'm heading off now. \NBut there's one more thing.
+Dialogue: 0,0:19:54.77,0:19:58.64,Default,KURIBAYASHI,0,0,0,,I wrote all that in a way\N that made sense to me.
+Dialogue: 0,0:19:59.43,0:20:01.26,Default,KURIBAYASHI,0,0,0,,Especially the tactical stuff.
+Dialogue: 0,0:20:01.26,0:20:04.53,Default,KURIBAYASHI,0,0,0,,But few people understand it\Nwhen I show them.
+Dialogue: 0,0:20:16.02,0:20:17.94,Default,SIGN,0,0,0,,{\q2\bord0\shad0\b1\blur0.2\an7\fs18\c&H292720&\pos(88,45)}With the presence of one ideal full-back,
+Dialogue: 0,0:20:16.02,0:20:17.94,Default,SIGN,0,0,0,,{\q2\bord0\shad0\b1\blur0.2\an7\fs18\c&H292720&\pos(305,71.5)}this situation turns into a chance.
+Dialogue: 0,0:20:16.02,0:20:17.94,Default,SIGN,0,0,0,,{\q2\bord0\shad0\b1\blur0.2\an7\fs12\c&H292720&\pos(65,115)}Superb in attack and defense
+Dialogue: 0,0:20:16.02,0:20:17.94,Default,SIGN,0,0,0,,{\q2\bord0\shad0\b1\blur0.2\an7\fs18\c&H292720&\pos(67,143.5)}Doesn't meet the conditions. Needs a teammate
+Dialogue: 0,0:20:16.02,0:20:17.94,Default,SIGN,0,0,0,,{\q2\bord0\shad0\b1\blur0.2\an7\fs18\c&H292720&\pos(67,230)}who can cover the whole left-hand side of the field.
+Dialogue: 0,0:20:41.88,0:20:45.73,Default,ASHITO,0,0,0,,Kuribayashi-san. Can you really do this?
+Dialogue: 0,0:20:46.81,0:20:51.49,Default,ASHITO,0,0,0,,I don't get a lot of chances to talk to you,\N so I want to ask you something.
+Dialogue: 0,0:20:52.60,0:20:55.17,Default,ASHITO,0,0,0,,I really want to go pro.
+Dialogue: 0,0:20:56.26,0:21:01.41,Default,ASHITO,0,0,0,,And to achieve that, I'm desperately\Ndoing all I can, every single day. But...
+Dialogue: 0,0:21:02.78,0:21:05.53,Default,ASHITO,0,0,0,,For you, going pro is inevitable.
+Dialogue: 0,0:21:06.56,0:21:08.16,Default,ASHITO,0,0,0,,You're in a league of your own.
+Dialogue: 0,0:21:08.75,0:21:13.29,Default,ASHITO,0,0,0,,For a guy like you, \Nwhat's your goal in soccer?
+Dialogue: 0,0:21:14.37,0:21:17.13,Default,ASHITO,0,0,0,,What kind of view do you see?
+Dialogue: 0,0:21:25.32,0:21:28.48,Default,KURIBAYASHI,0,0,0,,You play soccer to get to the pro level?
+Dialogue: 0,0:21:28.48,0:21:29.60,Default,ASHITO,0,0,0,,Well, yeah.
+Dialogue: 0,0:21:29.60,0:21:31.27,Default,KURIBAYASHI,0,0,0,,At this moment in time...
+Dialogue: 0,0:21:33.47,0:21:36.94,Default,KURIBAYASHI,0,0,0,,Who is the best player in the world, Aoi?
+Dialogue: 0,0:21:37.23,0:21:37.98,Default,ASHITO,0,0,0,,Huh?
+Dialogue: 0,0:21:39.21,0:21:43.94,Default,KURIBAYASHI,0,0,0,,In every era, if you ask that question\N anywhere in the world,
+Dialogue: 0,0:21:44.32,0:21:46.48,Default,KURIBAYASHI,0,0,0,,a specific player will come to mind, right?
+Dialogue: 0,0:21:49.52,0:21:52.62,Default,KURIBAYASHI,0,0,0,,I want that player...
+Dialogue: 0,0:21:53.71,0:21:54.95,Default,KURIBAYASHI,0,0,0,,to be me.
+Dialogue: 0,0:22:03.80,0:22:06.99,Default,KURIBAYASHI,0,0,0,,If you've decided to devote \Nthe only life you get to soccer,
+Dialogue: 0,0:22:07.53,0:22:11.46,Default,KURIBAYASHI,0,0,0,,I don't get why that {\i1}wouldn't{\i0} be your goal.
+Dialogue: 0,0:22:12.84,0:22:16.45,Default,KURIBAYASHI,0,0,0,,But you managed to read it, huh?
+Dialogue: 0,0:22:19.77,0:22:20.90,Default,KURIBAYASHI,0,0,0,,That makes me happy.
+Dialogue: 0,0:22:34.00,0:22:37.50,Default,CREDITS,0,0,0,,{\fad(500,500)\an7\fnArial\b1\fs16\4a&H00&\shad1.5\bord1.2\3c&H2D1718&\4c&H2D1718&\c&HC5969E&\pos(365,20)}Translation: Tomoko Takedani Sater\NTiming: Andy Ellis\NEditing: SMR\NQuality Control: William Haggard\NTranslation Check: David Saylor
+Dialogue: 0,0:24:14.97,0:24:16.85,Default,AKUTSU,0,0,0,,I'll crush you, you little shit.
+Dialogue: 0,0:24:16.85,0:24:17.54,Default,TOGASHI,0,0,0,,I see it.
+Dialogue: 0,0:24:17.54,0:24:19.35,Default,FUKUDA,0,0,0,,That's convenient for you.
+Dialogue: 0,0:24:19.35,0:24:21.85,Default,NAE,0,0,0,,The strongest youth player is in top form.
+Dialogue: 0,0:24:21.00,0:24:22.68,Top,TAKASUGI,0,0,0,,Why are you two so indifferent?
+Dialogue: 0,0:24:22.68,0:24:23.23,Default,TACHIBANA,0,0,0,,Good luck.
+Dialogue: 0,0:24:23.23,0:24:26.02,Top,FUKUDA,0,0,0,,I hope you boys can keep up.
+Dialogue: 0,0:24:23.97,0:24:28.18,Top Italics,ASHITO,0,0,0,,{\pos(460,247.5)}I've got to look up.\NLook up. Look up!
+Dialogue: 0,0:24:26.02,0:24:30.25,Default,SIGN,0,0,0,,{\fnArial\fs16\b1\fsp0.5\shad1.1\bord1.5\fscy105\blur0.2\3c&H954823&\4c&H954823&\pos(320,127)}Next Episode
+Dialogue: 0,0:24:26.02,0:24:30.25,Default,SIGN,0,0,0,,{\fnArial\fs22\b1\fsp0.5\shad1.1\bord1.5\fscy105\blur0.32\3c&H954823&\4c&H954823&\pos(320,226)}Aim Higher
+Dialogue: 0,0:24:26.02,0:24:30.25,Default,SIGN,0,0,0,,{\fs12\pos(320,326)\bord1.2\shad0\blur0.2}This is a work of fiction, and bears no relation to any actual persons, organizations, or names.
+
