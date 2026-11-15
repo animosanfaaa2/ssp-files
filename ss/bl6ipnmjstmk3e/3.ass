@@ -1,0 +1,284 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.73,0:00:03.98,Cart_A_Tre,CARTEL,0,0,0,,{\fad(500,500)\fs16\an3\shad0.7\bord1\blur0.5\c&HD0D0D0&\3c&H434343&\4c&H393939&\pos(601.04,315.96)}Episodio 32\NLo que necesita un rey
+Dialogue: 0,0:00:04.00,0:00:05.98,Gen_Main,Ars,0,0,0,,Si puedo ser el señor de un dominio…
+Dialogue: 0,0:00:06.72,0:00:09.48,Gen_Main,Ars,0,0,0,,es porque tengo gente\Nque cree que puedo serlo.
+Dialogue: 0,0:00:09.57,0:00:13.74,Gen_Main,Ars,0,0,0,,¡Así que no dejaré\Nque dañes a mis vasallos!
+Dialogue: 0,0:00:16.88,0:00:19.87,Gen_Main,Rikuya,0,0,0,,¿Gente que cree que puedes?
+Dialogue: 0,0:00:27.23,0:00:29.13,Gen_Main,Bandit 1,0,0,0,,¡Jefe Vigo, tenemos problemas!
+Dialogue: 0,0:00:29.13,0:00:32.55,Cart_A_Tre,CARTEL,0,0,0,,{\fad(500,450)\fnGeorgia\fscx85\shad1\bord0\c&HC8C8C8&\pos(174,286)}Empieza el contraataque
+Dialogue: 1,0:00:29.39,0:00:32.55,Gen_Main_Up,Vigo,0,0,0,,¿Qué demonios pasa?\NLes dije que no entraran…
+Dialogue: 0,0:00:35.37,0:00:38.82,Gen_Main,Vigo,0,0,0,,Está bien. Quédense a vigilarlos.
+Dialogue: 0,0:00:39.35,0:00:40.35,Gen_Main,Bandits,0,0,0,,¡A la orden!
+Dialogue: 0,0:00:43.39,0:00:44.94,Gen_Main,Vigo,0,0,0,,Regresaré enseguida.
+Dialogue: 0,0:01:00.01,0:01:01.14,Gen_Main,Ars,0,0,0,,Rietz…
+Dialogue: 0,0:01:03.21,0:01:04.21,Gen_Main,Rietz,0,0,0,,¡Señorito Ars!
+Dialogue: 0,0:01:09.24,0:01:11.35,Gen_Main,Rietz,0,0,0,,Tiene heridas muy graves.
+Dialogue: 0,0:01:11.43,0:01:13.51,Gen_Main,Ars,0,0,0,,Estoy bien.
+Dialogue: 0,0:01:14.00,0:01:15.89,Gen_Main,Rietz,0,0,0,,¡¿Por qué me protegió?!
+Dialogue: 0,0:01:17.46,0:01:21.58,Gen_Main,Ars,0,0,0,,Necesitamos tu fuerza\Npara salir de aquí.
+Dialogue: 0,0:01:22.22,0:01:23.35,Gen_Main,Ars,0,0,0,,Además…
+Dialogue: 0,0:01:23.74,0:01:27.66,Gen_Main,Ars,0,0,0,,de verdad me importas mucho.
+Dialogue: 0,0:01:28.21,0:01:29.94,Gen_Main,Ars,0,0,0,,Qué bueno que estás bien.
+Dialogue: 0,0:01:31.96,0:01:33.07,Gen_Main,Rietz,0,0,0,,Señorito Ars…
+Dialogue: 0,0:01:41.52,0:01:43.80,Gen_Main,Rikuya,0,0,0,,Creo que pasó algo afuera.
+Dialogue: 0,0:01:43.87,0:01:45.29,Gen_Main,Rikuya,0,0,0,,Es nuestra oportunidad.
+Dialogue: 0,0:01:48.97,0:01:53.31,Gen_Main,Rikuya,0,0,0,,¡Salvemos a Maika y a Takao\Ny salgamos de aquí!
+Dialogue: 0,0:03:30.27,0:03:35.98,Cart_A_Tre,CARTEL,0,0,0,,{\q2\fnGeorgia\fs18\fscy110\blur2\3c&HD3C573&\pos(320,289.57)}A{\3c&HD2C574&}s {\3c&HCFC475&}a {\3c&HCCC476&}R{\3c&HCAC476&}e{\3c&HC9C377&}i{\3c&HC8C378&}n{\3c&HC6C378&}c{\3c&HC5C379&}a{\3c&HC3C279&}r{\3c&HC2C27A&}n{\3c&HC0C27A&}a{\3c&HBFC27B&}t{\3c&HBEC17C&}e{\3c&HBCC17C&}d {\3c&HB9C17D&}A{\3c&HB8C07E&}r{\3c&HB6C07E&}i{\3c&HB5C07F&}s{\3c&HB4C080&}t{\3c&HB2BF80&}o{\3c&HB1BF81&}c{\3c&HAFBF81&}r{\3c&HAEBF82&}a{\3c&HACBE82&}t{\3c&HABBE83&}, {\3c&HA8BE84&}I{\3c&HA7BD85&}'{\3c&HA5BD85&}l{\3c&HA4BD86&}l {\3c&HA1BC87&}U{\3c&HA0BC88&}s{\3c&H9EBC88&}e {\3c&H9BBB89&}M{\3c&H9ABB8A&}y {\3c&H97BB8B&}A{\3c&H96BA8C&}p{\3c&H94BA8C&}p{\3c&H93BA8D&}r{\3c&H91BA8D&}a{\3c&H90B98E&}i{\3c&H8EB98E&}s{\3c&H8DB98F&}a{\3c&H8CB990&}l {\3c&H89B891&}S{\3c&H87B891&}k{\3c&H86B892&}i{\3c&H84B792&}l{\3c&H83B793&}l {\3c&H80B794&}t{\3c&H7FB695&}o {\3c&H7CB696&}R{\3c&H7AB696&}i{\3c&H79B597&}s{\3c&H78B598&}e {\3c&H75B599&}i{\3c&H73B499&}n {\3c&H70B49A&}t{\3c&H6FB49B&}h{\3c&H6EB39C&}e {\3c&H6BB39D&}W{\3c&H69B39D&}o{\3c&H68B29E&}r{\3c&H66B29E&}l{\3c&H65B29F&}d\N{\c&H13142B&\3c&HFFFFFF&}Temporada {\c&H28C6E1&}3
+Dialogue: 0,0:03:36.73,0:03:40.15,Cart_A_Tre,CARTEL,0,0,0,,{\fad(500,500)\bord1.5\blur0.5\fnArial Black\c&HDCDCDC&\pos(320,270)\3c&H242424&\fs22}Unas horas antes
+Dialogue: 0,0:03:42.72,0:03:43.96,Gen_Main,Bandit B,0,0,0,,¿Qué miras, novato?
+Dialogue: 0,0:03:44.58,0:03:46.41,Gen_Main,Zaht,0,0,0,,No, nada.
+Dialogue: 0,0:03:50.27,0:03:52.08,Gen_Main,Thomas,0,0,0,,Este es el plan.
+Dialogue: 0,0:03:52.53,0:03:57.64,Gen_Main,Thomas,0,0,0,,Al infiltrarte, pondrás explosivos\Npor varios puntos de la base.
+Dialogue: 0,0:03:58.16,0:04:03.59,Gen_Main,Thomas,0,0,0,,Cuando saques a Ars de su celda,\Ndetónalos para darnos la señal.
+Dialogue: 0,0:04:04.05,0:04:06.47,Gen_Main,Zaht,0,0,0,,Muy llamativo\Npara una señal de humo.
+Dialogue: 0,0:04:06.82,0:04:13.23,Gen_Main,Thomas,0,0,0,,Cuando entremos, aprovecha el caos\Npara escapar con Ars.
+Dialogue: 0,0:04:13.75,0:04:16.84,Gen_Main,Thomas,0,0,0,,Memorízate el plano del castillo.
+Dialogue: 0,0:04:21.01,0:04:23.49,Gen_Main,Zaht,0,0,0,,Por cierto, el calabozo\Nestá en el sótano, ¿no?
+Dialogue: 0,0:04:23.58,0:04:24.72,Gen_Main,Bandit B,0,0,0,,Sí.
+Dialogue: 0,0:04:24.79,0:04:27.33,Gen_Main,Bandit B,0,0,0,,¡¿Cómo lo sabes?!
+Dialogue: 0,0:04:28.40,0:04:30.32,Gen_Main,Bandit B,0,0,0,,¿Eh? ¿Adónde se fue?
+Dialogue: 0,0:04:33.00,0:04:34.21,Gen_Main,Zaht,0,0,0,,¡Señor Ars!
+Dialogue: 0,0:04:38.72,0:04:41.88,Gen_Main,Zaht,0,0,0,,¿Quiénes son ustedes?\N¿Dónde está el señor Ars?
+Dialogue: 0,0:04:41.97,0:04:45.51,Gen_Main,Maika,0,0,0,,¡Disculpa! ¡¿Tú eres la ayuda\Nque prometió Ars?!
+Dialogue: 0,0:04:46.09,0:04:47.77,Gen_Main,Zaht,0,0,0,,¿Conocen al señor Ars?
+Dialogue: 0,0:04:47.85,0:04:53.24,Gen_Main,Maika,0,0,0,,¡Sí! ¡Lo llevaron ante su jefe\Njunto con mi hermano y Rietz!
+Dialogue: 0,0:04:53.31,0:04:55.14,Gen_Main,Zaht,0,0,0,,Entendido. Iré a buscarlos.
+Dialogue: 0,0:04:55.23,0:04:56.23,Gen_Main,Maika,0,0,0,,¡Espera!
+Dialogue: 0,0:04:56.32,0:04:58.19,Gen_Main,Maika,0,0,0,,¡Te lo ruego! ¡Llévanos contigo!
+Dialogue: 0,0:04:59.76,0:05:01.03,Gen_Main,Zaht,0,0,0,,No, ni hablar.
+Dialogue: 0,0:05:01.11,0:05:04.02,Gen_Main,Zaht,0,0,0,,Llamaría mucho la atención\Nsi llevara a dos prisioneros.
+Dialogue: 0,0:05:05.03,0:05:06.06,Gen_Main,Maika,0,0,0,,Te lo suplico.
+Dialogue: 0,0:05:07.45,0:05:11.70,Gen_Main,Maika,0,0,0,,Nuestro hermano es la única familia\Nque nos queda en el mundo.
+Dialogue: 0,0:05:19.83,0:05:20.97,Gen_Main,Zaht,0,0,0,,Está bien.
+Dialogue: 0,0:05:21.40,0:05:24.56,Gen_Main,Zaht,0,0,0,,Al menos el grandulón\Nparece bueno peleando.
+Dialogue: 0,0:05:25.35,0:05:26.69,Gen_Main,Zaht,0,0,0,,Me vendrá bien su ayuda.
+Dialogue: 0,0:05:38.97,0:05:41.18,Gen_Main,Maika,0,0,0,,Los tres deben estar\Nen el cuarto del jefe.
+Dialogue: 0,0:05:41.28,0:05:43.98,Gen_Main,Zaht,0,0,0,,¿El cuarto del jefe? ¿En esa torre?
+Dialogue: 0,0:05:51.44,0:05:53.58,Gen_Main,Bandit B,0,0,0,,¡Se escaparon de la celda!\N¡Atrápenlos!
+Dialogue: 0,0:05:57.28,0:06:00.00,Gen_Main,Maika,0,0,0,,¡Takao! ¡Salta al tejado!
+Dialogue: 0,0:06:05.30,0:06:07.13,Gen_Main,Bandit B,0,0,0,,¡Están escapando por los tejados!
+Dialogue: 0,0:06:07.68,0:06:10.32,Gen_Main,Bandit B,0,0,0,,¡Atrápenlos! ¡Oigan, atrápenlos!
+Dialogue: 0,0:06:10.39,0:06:11.89,Gen_Main,Maika,0,0,0,,¡Takao, salta!
+Dialogue: 0,0:06:22.43,0:06:24.90,Gen_Main,Bandit 3,0,0,0,,¡Son solo tres! ¡Acaben con ellos!
+Dialogue: 0,0:06:34.37,0:06:38.21,Cart_A_Tre,CARTEL,0,0,0,,{\fad(500,450)\fnGeorgia\fscx85\shad1\bord0\c&HC8C8C8&\pos(174,286)}El verdadero poder de la familia Fujimiya
+Dialogue: 0,0:06:41.44,0:06:44.42,Gen_Main,Bandit 4,0,0,0,,No escaparán de aquí tan fácilmente.
+Dialogue: 0,0:06:46.53,0:06:48.25,Gen_Main,Zaht,0,0,0,,Creo que esto me supera.
+Dialogue: 0,0:06:48.85,0:06:49.85,Gen_Main,Maika,0,0,0,,Takao.
+Dialogue: 0,0:06:51.20,0:06:53.76,Gen_Main,Maika,0,0,0,,¡Muéstrales el poder\Nde la familia Fujimiya!
+Dialogue: 0,0:06:53.85,0:06:54.85,Gen_Main,Takao,0,0,0,,¡Sí!
+Dialogue: 0,0:07:11.81,0:07:14.16,Gen_Main,Bandits,0,0,0,,¡No puedo creerlo! ¡¿De un solo golpe?!
+Dialogue: 0,0:07:14.59,0:07:18.56,Gen_Main,Zaht,0,0,0,,Nada mal.\NTe quiero en mi unidad.
+Dialogue: 0,0:07:20.20,0:07:23.54,Gen_Main,Bandits,0,0,0,,¡Estos tipos son unos monstruos!
+Dialogue: 0,0:07:29.85,0:07:32.26,Gen_Main,Vigo,0,0,0,,Quieren ver a los rehenes, ¿eh?
+Dialogue: 0,0:07:33.43,0:07:37.56,Gen_Main,Vigo,0,0,0,,Pero antes tendrán que jugar conmigo.
+Dialogue: 0,0:07:37.64,0:07:38.97,Gen_Main,Bandits,0,0,0,,¡Es el jefe Vigo!
+Dialogue: 0,0:07:39.06,0:07:40.32,Gen_Main,Bandits,0,0,0,,¡Llegó el jefe!
+Dialogue: 0,0:07:47.82,0:07:50.61,Gen_Italics,Zaht,0,0,0,,¡No solo es rápido,\Ntambién es muy fuerte!
+Dialogue: 0,0:07:59.48,0:08:02.10,Gen_Main,Maika,0,0,0,,¡Si te acercas, no podrá usarla!
+Dialogue: 0,0:08:02.17,0:08:03.17,Gen_Main,Takao,0,0,0,,¡Entendido!
+Dialogue: 0,0:08:07.25,0:08:08.26,Gen_Main,Maika,0,0,0,,¡Takao!
+Dialogue: 0,0:08:10.13,0:08:11.39,Gen_Main,Vigo,0,0,0,,¡Muere!
+Dialogue: 0,0:08:11.84,0:08:13.03,Gen_Main,Maika,0,0,0,,¡Takao!
+Dialogue: 0,0:08:18.31,0:08:20.08,Gen_Main,Vigo,0,0,0,,¿Qué les pasa?
+Dialogue: 0,0:08:20.15,0:08:23.31,Gen_Main,Vigo,0,0,0,,Esto no me sirve ni de calentamiento.
+Dialogue: 0,0:08:29.96,0:08:34.22,Gen_Main,Zaht,0,0,0,,Vaya, sí que me hiciste sudar.
+Dialogue: 0,0:08:35.43,0:08:38.14,Gen_Main,Vigo,0,0,0,,¿Qué pasa? ¿Ya te rindes?
+Dialogue: 0,0:08:39.12,0:08:42.58,Gen_Main,Zaht,0,0,0,,El señor Ars y Rietz\Nestán ahí dentro, ¿no?
+Dialogue: 0,0:08:42.95,0:08:45.44,Gen_Main,Vigo,0,0,0,,Lo sabía. Eres un soldado de Canarre.
+Dialogue: 0,0:08:45.50,0:08:48.84,Gen_Main,Vigo,0,0,0,,Pero te quedaste a un paso\Nde convertirte en héroe.
+Dialogue: 0,0:08:49.18,0:08:50.30,Gen_Main,Zaht,0,0,0,,Sí.
+Dialogue: 0,0:08:51.62,0:08:54.24,Gen_Main,Zaht,0,0,0,,Tendré que dejárselo a los demás.
+Dialogue: 0,0:09:04.01,0:09:06.23,Gen_Main,Bandits,0,0,0,,¡Hay explosiones por todos lados!
+Dialogue: 0,0:09:06.53,0:09:10.11,Gen_Main,Zaht,0,0,0,,Una unidad de élite de cien hombres\Nestá entrando ahora mismo.
+Dialogue: 0,0:09:10.20,0:09:12.78,Gen_Main,Zaht,0,0,0,,Ya están acabados.
+Dialogue: 0,0:09:13.21,0:09:16.03,Gen_Main,Vigo,0,0,0,,¿Qué dices? ¿Apenas cien?
+Dialogue: 0,0:09:16.40,0:09:20.15,Gen_Main,Vigo,0,0,0,,¡Nosotros somos quinientos!\N¡No tienen oportunidad!
+Dialogue: 0,0:09:22.04,0:09:24.29,Gen_Main,Zaht,0,0,0,,¿Crees que te bastará\Ncon quinientos?
+Dialogue: 0,0:09:25.28,0:09:26.30,Gen_Main,Vigo,0,0,0,,¿Qué?
+Dialogue: 0,0:09:26.38,0:09:31.30,Gen_Main,Zaht,0,0,0,,Es la fuerza que protegió Canarre\Nde ochenta mil soldados de Seitz.
+Dialogue: 0,0:09:31.55,0:09:34.97,Cart_A_Tre,CARTEL,0,0,0,,{\fad(500,450)\fnGeorgia\fscx85\shad1\bord0\c&HC8C8C8&\pos(174,286)}Escape
+Dialogue: 0,0:09:42.56,0:09:45.47,Gen_Main,Braham,0,0,0,,¡Llegó la unidad de élite de Canarre!
+Dialogue: 0,0:09:45.56,0:09:48.06,Gen_Main,Braham,0,0,0,,¡Más les vale largarse\Nsi no quieren morir!
+Dialogue: 0,0:09:54.12,0:09:58.24,Gen_Main,Braham,0,0,0,,Se me entumeció el cuerpo\Nde tanto usar la cabeza.
+Dialogue: 0,0:09:58.33,0:10:00.21,Gen_Main,Braham,0,0,0,,¡Por fin podré descontrolarme!
+Dialogue: 0,0:10:00.29,0:10:04.04,Gen_Main,Thomas,0,0,0,,Está bien tener confianza,\Npero no olvides tu objetivo.
+Dialogue: 0,0:10:04.58,0:10:08.29,Gen_Main,Thomas,0,0,0,,El único objetivo de este plan\Nes salvar a Ars Louvent.
+Dialogue: 0,0:10:08.78,0:10:10.00,Gen_Main,Thomas,0,0,0,,¡¿Está claro?!
+Dialogue: 0,0:10:10.38,0:10:11.63,Gen_Main,Braham,0,0,0,,¡Déjalo en mis manos!
+Dialogue: 0,0:10:12.03,0:10:13.55,Gen_Main,Bandit Z,0,0,0,,¡Están en la puerta principal!
+Dialogue: 0,0:10:13.63,0:10:15.82,Gen_Main,Bandit X,0,0,0,,¡¿Crees que llegarán hasta aquí?!
+Dialogue: 0,0:10:16.32,0:10:20.57,Gen_Main,Zaht,0,0,0,,Si fuiste soldado de Seitz,\Ndeberías saber lo buenos que son.
+Dialogue: 0,0:10:21.72,0:10:25.06,Gen_Main,Vigo,0,0,0,,¡Esto no ha terminado!\N¡Todavía tengo a los rehenes!
+Dialogue: 0,0:10:29.81,0:10:31.56,Gen_Main,Vigo,0,0,0,,Son ustedes…
+Dialogue: 0,0:10:31.65,0:10:33.98,Gen_Main,Zaht,0,0,0,,Ya te estabas tardando, Rietz.
+Dialogue: 0,0:10:34.07,0:10:35.07,Gen_Main,Maika/Takao,0,0,0,,¡Hermano!
+Dialogue: 0,0:10:35.16,0:10:37.28,Gen_Main,Rikuya,0,0,0,,¡Maika! ¡Takao!
+Dialogue: 0,0:10:38.00,0:10:40.78,Gen_Main,Rietz,0,0,0,,Sí que nos hiciste pasar\Nun muy mal rato.
+Dialogue: 0,0:10:41.18,0:10:43.76,Gen_Main,Rietz,0,0,0,,Te atreviste a lastimar\Nal señorito Ars…
+Dialogue: 0,0:10:44.56,0:10:46.24,Gen_Main,Rietz,0,0,0,,¡Me las vas a pagar!
+Dialogue: 0,0:10:50.98,0:10:54.30,Gen_Main,Rietz,0,0,0,,¡Enorme pedazo de escoria!
+Dialogue: 0,0:11:03.48,0:11:06.14,Gen_Main,Rietz,0,0,0,,Hasta tocarte me resulta repugnante.
+Dialogue: 0,0:11:06.94,0:11:08.00,Gen_Main,Bandits,0,0,0,,¡Jefe!
+Dialogue: 0,0:11:08.06,0:11:10.65,Gen_Main,Bandits,0,0,0,,¿El jefe Vigo perdió?
+Dialogue: 0,0:11:14.13,0:11:16.40,Gen_Main,Ars,0,0,0,,¡Muchas gracias, Zaht!
+Dialogue: 0,0:11:16.49,0:11:18.39,Gen_Main,Ars,0,0,0,,Viniste a salvarnos, ¿verdad?
+Dialogue: 0,0:11:18.49,0:11:19.49,Gen_Main,Zaht,0,0,0,,Cuidado.
+Dialogue: 0,0:11:20.01,0:11:22.58,Gen_Main,Zaht,0,0,0,,Parece que la pasó bastante mal.
+Dialogue: 0,0:11:22.66,0:11:25.28,Gen_Main,Zaht,0,0,0,,Ni quiero imaginarme\Nlo que dirá la señora Licia.
+Dialogue: 0,0:11:27.01,0:11:29.21,Gen_Main,Rietz,0,0,0,,Gracias por la ayuda, Zaht.
+Dialogue: 0,0:11:29.29,0:11:33.29,Gen_Main,Rietz,0,0,0,,La distracción que creaste\Nfacilitó nuestro escape.
+Dialogue: 0,0:11:33.38,0:11:35.23,Gen_Main,Zaht,0,0,0,,No fue nada.
+Dialogue: 0,0:11:35.30,0:11:38.36,Gen_Main,Zaht,0,0,0,,Se me hace raro que tú\Nme agradezcas, Rietz.
+Dialogue: 0,0:11:38.43,0:11:39.80,Gen_Main,Maika,0,0,0,,¡Hermano!
+Dialogue: 0,0:11:40.19,0:11:42.10,Gen_Main,Maika,0,0,0,,¡Estás herido!
+Dialogue: 0,0:11:42.18,0:11:45.31,Gen_Main,Rikuya,0,0,0,,No es nada grave.\NMe alegra que estén a salvo.
+Dialogue: 0,0:11:46.07,0:11:48.31,Gen_Main,Maika,0,0,0,,¡Y recuperaste la espada!
+Dialogue: 0,0:11:49.12,0:11:50.62,Gen_Main,Rikuya,0,0,0,,Sí…
+Dialogue: 0,0:11:56.01,0:11:58.57,Gen_Main,Rietz,0,0,0,,Ríndete de una vez, Vigo.
+Dialogue: 0,0:12:00.88,0:12:03.82,Gen_Main,Vigo,0,0,0,,No crean que saldrán vivos de aquí.
+Dialogue: 0,0:12:10.28,0:12:12.07,Gen_Main,Braham,0,0,0,,¡¿Qué fue eso?!
+Dialogue: 0,0:12:12.17,0:12:13.17,Gen_Main,Thomas,0,0,0,,No me digas que…
+Dialogue: 0,0:12:13.68,0:12:15.29,Gen_Main,Ars,0,0,0,,¿Otra serie de explosiones?
+Dialogue: 0,0:12:15.38,0:12:16.71,Gen_Main,Zaht,0,0,0,,¡Esas no fueron mías!
+Dialogue: 0,0:12:20.22,0:12:22.99,Gen_Main,Vigo,0,0,0,,¡Si voy a caer,\Nme los llevaré conmigo!
+Dialogue: 0,0:12:23.05,0:12:25.82,Gen_Main,Vigo,0,0,0,,¡Mueran todos aquí mismo!
+Dialogue: 0,0:12:34.06,0:12:35.48,Gen_Main,Bandits,0,0,0,,¡El castillo se viene abajo!
+Dialogue: 0,0:12:35.76,0:12:37.22,Gen_Main,Bandits,0,0,0,,¡Corran!
+Dialogue: 0,0:12:37.32,0:12:38.77,Gen_Main,Rietz,0,0,0,,¡Zaht! ¡Vámonos!
+Dialogue: 0,0:12:38.86,0:12:41.02,Gen_Main,Zaht,0,0,0,,¡Entendido! ¡Dense prisa!
+Dialogue: 0,0:13:05.42,0:13:06.43,Gen_Main,Rietz,0,0,0,,A este paso…
+Dialogue: 0,0:13:06.95,0:13:09.31,Gen_Main,Zaht,0,0,0,,¡Por aquí! ¡Saldremos por este lado!
+Dialogue: 0,0:13:17.95,0:13:20.04,Gen_Main,Maika,0,0,0,,¡¿Tenemos que pasar por ahí?!
+Dialogue: 0,0:13:20.11,0:13:21.36,Gen_Main,Zaht,0,0,0,,¡No hay otro camino!
+Dialogue: 0,0:13:21.45,0:13:22.45,Gen_Main,Zaht,0,0,0,,¡Rápido!
+Dialogue: 0,0:13:26.25,0:13:27.36,Gen_Main,Maika,0,0,0,,¡Takao!
+Dialogue: 0,0:13:28.27,0:13:30.12,Gen_Main,Takao,0,0,0,,¡Cuidado, hermano!
+Dialogue: 0,0:13:33.83,0:13:35.00,Gen_Main,Zaht,0,0,0,,¿Están bien?
+Dialogue: 0,0:13:49.39,0:13:50.97,Gen_Main,Rikuya,0,0,0,,¡La espada!
+Dialogue: 0,0:13:52.11,0:13:53.81,Gen_Main,Zaht,0,0,0,,¡¿Qué haces?! ¡Vas a morir!
+Dialogue: 0,0:13:57.06,0:13:58.15,Gen_Main,Rietz,0,0,0,,¡Señorito Ars!
+Dialogue: 0,0:14:19.40,0:14:22.54,Gen_Main,Zaht,0,0,0,,¡Vamos! ¡Todo va a derrumbarse!
+Dialogue: 0,0:14:28.02,0:14:29.60,Gen_Main,Maika,0,0,0,,Nosotros no iremos.
+Dialogue: 0,0:14:31.84,0:14:34.06,Gen_Main,Maika,0,0,0,,¡No podemos dejar atrás la espada!
+Dialogue: 0,0:14:34.14,0:14:36.93,Gen_Main,Rikuya,0,0,0,,¡¿Qué están diciendo?!\N¡Vengan aquí los dos!
+Dialogue: 0,0:14:37.02,0:14:41.44,Gen_Main,Maika,0,0,0,,¡Si la dejamos ahí,\Nse perderá en el derrumbe!
+Dialogue: 0,0:14:41.83,0:14:45.94,Gen_Main,Takao,0,0,0,,¡Recuperaremos la espada\Ny escaparemos por otro camino!
+Dialogue: 0,0:14:46.03,0:14:49.70,Gen_Main,Zaht,0,0,0,,¡Van a morir si hacen eso!\N¡Vengan aquí de una vez!
+Dialogue: 0,0:14:51.74,0:14:55.99,Gen_Main,Maika,0,0,0,,¡La supervivencia del reino de Yoh\Nimporta más que nuestras vidas!
+Dialogue: 0,0:14:56.55,0:15:01.39,Gen_Main,Maika,0,0,0,,¡Necesitamos esa espada\Npara que vuelvas y reclames el trono!
+Dialogue: 0,0:15:02.00,0:15:04.76,Gen_Main,Rikuya,0,0,0,,¡Maika! ¡Takao! Yo…
+Dialogue: 0,0:15:04.85,0:15:05.86,Gen_Main,Maika,0,0,0,,¡Hermano!
+Dialogue: 0,0:15:07.36,0:15:10.50,Gen_Main,Maika,0,0,0,,Ars es un líder maravilloso.
+Dialogue: 0,0:15:10.60,0:15:12.72,Gen_Main,Maika,0,0,0,,Estoy segura de que te ayudará.
+Dialogue: 0,0:15:13.48,0:15:17.73,Gen_Main,Maika,0,0,0,,Desde que éramos niños,\Nsiempre fuiste generoso con nosotros.
+Dialogue: 0,0:15:18.61,0:15:23.10,Gen_Main,Maika,0,0,0,,Siempre deseamos\Npoder convertirte en rey.
+Dialogue: 0,0:15:25.91,0:15:30.92,Gen_Main,Maika,0,0,0,,Fue un honor haberte servido.
+Dialogue: 0,0:15:39.36,0:15:41.40,Gen_Main,Maika,0,0,0,,¿Hermano? ¡¿Por qué?!
+Dialogue: 0,0:15:43.90,0:15:46.02,Gen_Main,Rikuya,0,0,0,,Fui un necio.
+Dialogue: 0,0:15:46.09,0:15:48.95,Gen_Main,Rikuya,0,0,0,,Lo que necesito no es\Nuna prueba de que soy rey.
+Dialogue: 0,0:15:50.45,0:15:52.86,Gen_Main,Rikuya,0,0,0,,Perdón por haber tardado tanto\Nen darme cuenta.
+Dialogue: 0,0:15:53.40,0:15:55.36,Gen_Main,Rikuya,0,0,0,,Pero Ars me enseñó…
+Dialogue: 0,0:15:55.86,0:16:01.14,Gen_Main,Rikuya,0,0,0,,que, incluso sin la espada,\Nsi los tengo a ustedes, ya soy rey.
+Dialogue: 0,0:16:02.63,0:16:08.11,Gen_Main,Rikuya,0,0,0,,¿Se quedarán a mi lado\Ny me servirán para siempre?
+Dialogue: 0,0:16:13.87,0:16:16.36,Gen_Main,Maika,0,0,0,,Por supuesto que sí, hermano.
+Dialogue: 0,0:16:16.45,0:16:18.34,Gen_Main,Maika,0,0,0,,Te seguiremos sirviendo por siempre.
+Dialogue: 0,0:16:24.08,0:16:26.14,Gen_Main,Zaht,0,0,0,,¡Vengan aquí!
+Dialogue: 0,0:16:57.37,0:16:59.08,Gen_Main,Braham,0,0,0,,¡Oigan!
+Dialogue: 0,0:17:04.82,0:17:07.34,Gen_Italics,Ars,0,0,0,,El castillo se derrumbó por completo
+Dialogue: 0,0:17:07.42,0:17:09.84,Gen_Italics,Ars,0,0,0,,y el fuego siguió ardiendo\Ndurante todo un día.
+Dialogue: 0,0:17:10.93,0:17:15.37,Gen_Italics,Ars,0,0,0,,Detuvieron a los bandidos.\NHasta a Vigo lo capturaron con vida.
+Dialogue: 0,0:17:17.59,0:17:19.52,Gen_Italics,Ars,0,0,0,,Y luego…
+Dialogue: 0,0:17:26.34,0:17:27.65,Gen_Main,Maika,0,0,0,,¡Hermano!
+Dialogue: 0,0:17:33.73,0:17:38.15,Gen_Italics,Ars,0,0,0,,"Incluso si se pierde,\Nvolverá ante el rey digno…"
+Dialogue: 0,0:17:38.74,0:17:42.38,Gen_Italics,Ars,0,0,0,,Al parecer, eso decía la leyenda\Nsobre la Espada Matadragones.
+Dialogue: 0,0:17:43.29,0:17:46.29,Cart_A_Tre,CARTEL,0,0,0,,{\fad(500,500)\bord1.5\blur0.5\fnArial Black\c&HDCDCDC&\pos(320,270)\3c&H242424&\fs22}Castillo de Canarre
+Dialogue: 0,0:17:47.60,0:17:48.79,Gen_Main,Rikuya,0,0,0,,¡Ars!
+Dialogue: 0,0:17:48.79,0:17:52.17,Cart_A_Tre,CARTEL,0,0,0,,{\fad(500,450)\fnGeorgia\fscx85\shad1\bord0\c&HC8C8C8&\pos(174,286)}El porvenir de la familia Fujimiya
+Dialogue: 1,0:17:49.57,0:17:52.86,Gen_Main_Up,Rikuya,0,0,0,,¡Mi más profunda gratitud\Npor la ayuda que nos brindaste!
+Dialogue: 0,0:17:53.42,0:17:56.17,Gen_Main,Ars,0,0,0,,¡Para nada!\N¡Por favor, no hagas eso!
+Dialogue: 0,0:17:56.66,0:18:01.36,Gen_Main,Ars,0,0,0,,Les agradezco mucho su ayuda\Npara acabar con los bandidos.
+Dialogue: 0,0:18:01.43,0:18:04.34,Gen_Main,Ars,0,0,0,,Como señor de este dominio,\Nno sé cómo agradecérselo…
+Dialogue: 0,0:18:04.82,0:18:07.69,Gen_Main,Ars,0,0,0,,Estoy profundamente agradecido.
+Dialogue: 0,0:18:09.42,0:18:10.90,Gen_Main,Maika,0,0,0,,¡Perdónanos!
+Dialogue: 0,0:18:11.82,0:18:16.19,Gen_Main,Maika,0,0,0,,Cuando nos conocimos,\Nfui muy descortés.
+Dialogue: 0,0:18:16.49,0:18:21.87,Gen_Main,Maika,0,0,0,,Pero estamos en deuda contigo\Ny también con tus vasallos.
+Dialogue: 0,0:18:22.49,0:18:27.37,Gen_Main,Maika,0,0,0,,Déjame agradecerte por salvarnos\Na nosotros y a nuestro hermano.
+Dialogue: 0,0:18:29.30,0:18:31.92,Gen_Main,Maika,0,0,0,,¡Takao, muestra tu gratitud!
+Dialogue: 0,0:18:33.21,0:18:34.96,Gen_Main,Takao,0,0,0,,¡Gracias, Ars!
+Dialogue: 0,0:18:35.23,0:18:39.12,Gen_Main,Takao,0,0,0,,¡Y también a toda la gente del castillo\Nque nos dio ese banquete!
+Dialogue: 0,0:18:39.22,0:18:41.47,Gen_Main,Maika,0,0,0,,¡Tú solo piensas en comer!
+Dialogue: 0,0:18:42.76,0:18:44.77,Gen_Main,Rikuya,0,0,0,,No tengo palabras para agradecértelo.
+Dialogue: 0,0:18:45.62,0:18:49.48,Gen_Main,Rikuya,0,0,0,,Me enseñaste cómo ser\Nun verdadero líder.
+Dialogue: 0,0:18:49.91,0:18:54.56,Gen_Main,Rikuya,0,0,0,,Y también que mis hermanos\Nimportan más que cualquier espada.
+Dialogue: 0,0:18:54.65,0:18:57.43,Gen_Main,Ars,0,0,0,,No, yo no te enseñé nada…
+Dialogue: 0,0:18:57.53,0:19:02.74,Gen_Main,Ars,0,0,0,,Pero espero que, como líderes,\Naprendamos el uno del otro.
+Dialogue: 0,0:19:03.05,0:19:08.50,Gen_Main,Rikuya,0,0,0,,Sí, quiero convertirme\Nen un rey digno de ellos dos.
+Dialogue: 0,0:19:10.64,0:19:12.78,Gen_Main,Rietz,0,0,0,,¿Qué harán de ahora en adelante?
+Dialogue: 0,0:19:13.60,0:19:18.76,Gen_Main,Rikuya,0,0,0,,Escuché que Ars recluta gente\Npara la guerra que se avecina.
+Dialogue: 0,0:19:19.31,0:19:22.79,Gen_Main,Rikuya,0,0,0,,Cuando nos conocimos,\Nmostraste interés en nosotros
+Dialogue: 0,0:19:22.89,0:19:26.08,Gen_Main,Rikuya,0,0,0,,para evaluar nuestras capacidades\Ncomo posibles vasallos, ¿no?
+Dialogue: 0,0:19:26.14,0:19:30.35,Gen_Main,Ars,0,0,0,,¡Lo siento! ¡Mi intención\Nera solo hacerles una oferta!
+Dialogue: 0,0:19:30.44,0:19:33.65,Gen_Main,Ars,0,0,0,,En ese entonces no imaginaba\Nque fueran de la realeza…
+Dialogue: 0,0:19:33.98,0:19:36.99,Gen_Main,Rikuya,0,0,0,,Por supuesto, sé que no tenías\Nintención de ofendernos.
+Dialogue: 0,0:19:37.47,0:19:39.93,Gen_Main,Rikuya,0,0,0,,Pero yo también soy un rey.
+Dialogue: 0,0:19:40.03,0:19:42.16,Gen_Main,Rikuya,0,0,0,,No puedo ser tu vasallo.
+Dialogue: 0,0:19:42.92,0:19:46.66,Gen_Main,Rikuya,0,0,0,,Sin embargo, sí creo\Nque puedo aprender mucho de ti.
+Dialogue: 0,0:19:46.75,0:19:50.91,Gen_Main,Rikuya,0,0,0,,Para aumentar nuestra fuerza\Ny restaurar el reino de Yoh…
+Dialogue: 0,0:19:51.66,0:19:56.92,Gen_Main,Rikuya,0,0,0,,¿me dejarías colaborar contigo\Ncomo comandante auxiliar?
+Dialogue: 0,0:19:59.42,0:20:04.23,Gen_Main,Ars,0,0,0,,¡Será un placer recibirlos\Na todos aquí en Canarre!
+Dialogue: 0,0:20:04.31,0:20:05.93,Gen_Main,Ars,0,0,0,,¡Por favor, quédense!
+Dialogue: 0,0:20:07.19,0:20:08.19,Gen_Main,Rikuya,0,0,0,,Gracias.
+Dialogue: 0,0:20:13.84,0:20:16.69,Gen_Main,Rikuya,0,0,0,,Hasta el día en que volvamos a Yoh…
+Dialogue: 0,0:20:17.44,0:20:22.72,Gen_Main,Rikuya,0,0,0,,¡Pongo mi vida y mi espada\Na tu servicio!
+Dialogue: 0,0:20:27.98,0:20:29.68,Gen_Main,Ars,0,0,0,,¡Me alegra mucho contar contigo!
+Dialogue: 0,0:20:33.97,0:20:36.11,Gen_Main,Rikuya/Ars,0,0,0,,-¡Será un honor!\N-¡El honor es mío!
+Dialogue: 0,0:20:36.20,0:20:37.42,Gen_Main,Rikuya,0,0,0,,No, el honor es mío.
+Dialogue: 0,0:20:37.51,0:20:39.71,Gen_Main,Ars,0,0,0,,No, no, sin duda es mío.
+Dialogue: 0,0:20:40.07,0:20:42.34,Gen_Main,Licia,0,0,0,,¿No es maravilloso, Ars?
+Dialogue: 0,0:20:42.69,0:20:45.59,Gen_Main,Ars,0,0,0,,¡Sí! Me alegra que todos estén…
+Dialogue: 0,0:20:45.68,0:20:50.10,Gen_Italics,Ars,0,0,0,,¿Eh? ¿Qué pasó al final con Vigo,\Nel jefe de los bandidos?
+Dialogue: 0,0:20:51.01,0:20:53.44,Gen_Main,Zaht,0,0,0,,Parece que la pasó bastante mal.
+Dialogue: 0,0:20:53.52,0:20:56.27,Gen_Main,Zaht,0,0,0,,Ni quiero imaginarme\Nlo que dirá la señora Licia.
+Dialogue: 0,0:20:58.43,0:20:59.81,Gen_Main,Ars,0,0,0,,Por cierto…
+Dialogue: 0,0:20:59.90,0:21:02.44,Gen_Main,Ars,0,0,0,,¿qué pasó con el prisionero Vigo?
+Dialogue: 0,0:21:03.00,0:21:07.03,Gen_Main,Licia,0,0,0,,No tienes por qué preocuparte\Npor eso, Ars.
+Dialogue: 0,0:21:07.12,0:21:08.58,Gen_Italics,Ars,0,0,0,,No me digas que…
+Dialogue: 0,0:21:08.66,0:21:10.79,Gen_Main,Licia,0,0,0,,¿Qué voy a hacer contigo?
+Dialogue: 0,0:21:12.59,0:21:14.25,Gen_Main,Rietz,0,0,0,,¡Señorito Ars! ¡Espere!
+Dialogue: 0,0:21:14.93,0:21:16.00,Gen_Main,Ars,0,0,0,,¡Vigo!
+Dialogue: 0,0:21:19.92,0:21:22.73,Gen_Main,Ars,0,0,0,,¡¿No te cortó en pedazos?!
+Dialogue: 0,0:21:25.58,0:21:27.21,Gen_Main,Licia,0,0,0,,Por supuesto que no.
+Dialogue: 0,0:21:27.31,0:21:31.20,Gen_Main,Licia,0,0,0,,Jamás haría algo tan salvaje.
+Dialogue: 0,0:21:31.27,0:21:34.48,Gen_Main,Licia,0,0,0,,Solo tuvimos una pequeña charla.
+Dialogue: 0,0:21:34.87,0:21:36.48,Gen_Main,Licia,0,0,0,,Vamos, Vigo…
+Dialogue: 0,0:21:36.57,0:21:38.85,Gen_Main,Licia,0,0,0,,¿Qué era lo que querías decir?
+Dialogue: 0,0:21:38.94,0:21:40.06,Gen_Main,Vigo,0,0,0,,¡Sí, señora!
+Dialogue: 0,0:21:40.15,0:21:44.38,Gen_Main,Vigo,0,0,0,,¡Lamento muchísimo haberlo tratado\Nde forma tan irrespetuosa, señor!
+Dialogue: 0,0:21:44.45,0:21:47.55,Gen_Main,Licia,0,0,0,,¡Vaya, qué chico\Ntan bueno y obediente!
+Dialogue: 0,0:21:48.80,0:21:52.94,Gen_Italics,Ars,0,0,0,,¡Licia de verdad es aterradora!
+Dialogue: 0,0:23:17.75,0:23:24.97,Cart_A_Tre,CARTEL,0,0,0,,{\fs16\bord1}Traducción: Edward\NEdición: Antonio LB\NControl de calidad: Néstor Rubio
+Dialogue: 0,0:23:25.60,0:23:29.21,Gen_Main,Ars,0,0,0,,Este, Licia, esa sonrisa tuya\Nme da un poco de miedo…
+Dialogue: 0,0:23:29.30,0:23:33.54,Gen_Main,Licia,0,0,0,,¡Qué malo, Ars!\NEsta es mi sonrisa normal.
+Dialogue: 0,0:23:33.64,0:23:35.60,Gen_Main,Ars,0,0,0,,¡Pero si se te ve el aura!
+Dialogue: 0,0:23:35.69,0:23:37.49,Gen_Main,Licia,0,0,0,,Mientras sea solo el aura…
+Dialogue: 0,0:23:37.60,0:23:40.02,Cart_A_Tre,CARTEL,0,0,0,,{\fad(500,0)\fs16\an3\shad0.7\bord1\blur0.5\c&HD0D0D0&\3c&H434343&\4c&H393939&\pos(600.8,167.2)}Próximo episodio\NSentimientos de tantos años
+Dialogue: 1,0:23:37.62,0:23:40.08,Gen_Main,Licia,0,0,0,,Próximo episodio:\N"Sentimientos de tantos años".
+
