@@ -1,0 +1,285 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,18,1
+Style: Main - Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,10,10,18,0
+Style: Main - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,18,0
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.79,0:00:03.96,Default,Sign,0,0,0,,{\fad(520,480)\fs14\an3\shad1\bord1\fnTimes New Roman\b1\c&HCACAC9&\3c&H302F2E&\4c&H302F2E&\pos(605.83,316.351)}Episode 32   {\fs16}What a King Needs
+Dialogue: 0,0:00:04.00,0:00:05.98,Default,Ars,0,0,0,,The only reason I can be a lord…
+Dialogue: 0,0:00:06.72,0:00:09.48,Default,Ars,0,0,0,,is because people believe I can!
+Dialogue: 0,0:00:09.48,0:00:13.74,Default,Ars,0,0,0,,So I can't let you harm my retainers!
+Dialogue: 0,0:00:16.88,0:00:19.87,Default,Rikuya,0,0,0,,People believe you can?
+Dialogue: 0,0:00:27.23,0:00:29.13,Default,Bandit 1,0,0,0,,Boss Vigo! Bad news!
+Dialogue: 0,0:00:29.13,0:00:32.55,Default,sign,0,0,0,,{\fad(500,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(175,307)}The Counterattack Begins
+Dialogue: 0,0:00:29.39,0:00:32.55,Main - Top,Vigo,0,0,0,,What now? I told you to stay—
+Dialogue: 0,0:00:35.37,0:00:38.82,Default,Vigo,0,0,0,,Fine. Keep an eye on them, then.
+Dialogue: 0,0:00:39.37,0:00:40.25,Default,Bandits,0,0,0,,Sir!
+Dialogue: 0,0:00:43.39,0:00:44.94,Default,Vigo,0,0,0,,I'll be back soon.
+Dialogue: 0,0:01:00.01,0:01:01.14,Default,Ars,0,0,0,,Rietz…
+Dialogue: 0,0:01:03.21,0:01:04.17,Default,Rietz,0,0,0,,Lord Ars!
+Dialogue: 0,0:01:09.24,0:01:11.35,Default,Rietz,0,0,0,,Such terrible injuries…
+Dialogue: 0,0:01:11.35,0:01:13.51,Default,Ars,0,0,0,,I'm fine.
+Dialogue: 0,0:01:14.00,0:01:15.89,Default,Rietz,0,0,0,,Why did you protect me?!
+Dialogue: 0,0:01:17.46,0:01:21.58,Default,Ars,0,0,0,,To get out of here, \Nwe'll need you in top form.
+Dialogue: 0,0:01:22.22,0:01:23.35,Default,Ars,0,0,0,,And…
+Dialogue: 0,0:01:23.74,0:01:27.66,Default,Ars,0,0,0,,I truly do care about you.
+Dialogue: 0,0:01:28.21,0:01:29.94,Default,Ars,0,0,0,,I'm glad you're all right.
+Dialogue: 0,0:01:31.96,0:01:33.07,Default,Rietz,0,0,0,,Lord Ars…
+Dialogue: 0,0:01:41.52,0:01:43.80,Default,Rikuya,0,0,0,,I think something's happened outside.
+Dialogue: 0,0:01:43.80,0:01:45.29,Default,Rikuya,0,0,0,,This could be our chance.
+Dialogue: 0,0:01:48.97,0:01:53.31,Default,Rikuya,0,0,0,,Let's save Maika and Takao, \Nthen get out of here!
+Dialogue: 0,0:03:36.73,0:03:40.15,Default,sign,0,0,0,,{\fad(500,500)\shad0\bord1\blur1\fnArial Black\c&HD6D1D2&\pos(320,292)\3c&H161B1A&}Hours Earlier
+Dialogue: 0,0:03:42.72,0:03:43.96,Default,Bandit B,0,0,0,,What is it, newbie?
+Dialogue: 0,0:03:44.58,0:03:46.41,Default,Zaht,0,0,0,,Nothing.
+Dialogue: 0,0:03:50.27,0:03:52.08,Flashback,Thomas,0,0,0,,Here's the plan.
+Dialogue: 0,0:03:52.53,0:03:57.64,Flashback,Thomas,0,0,0,,After you infiltrate, you'll plant \Nexplosives here and there around the base.
+Dialogue: 0,0:03:58.16,0:04:03.59,Flashback,Thomas,0,0,0,,Once you've got Ars out of his cell, \Ndetonate them to signal us.
+Dialogue: 0,0:04:04.05,0:04:06.47,Flashback,Zaht,0,0,0,,Awfully flashy for a smoke signal.
+Dialogue: 0,0:04:06.82,0:04:13.23,Flashback,Thomas,0,0,0,,Once we're in, take advantage \Nof the chaos to escape with Ars.
+Dialogue: 0,0:04:13.75,0:04:16.84,Flashback,Thomas,0,0,0,,Here's the castle layout. \NI want you to memorize it.
+Dialogue: 0,0:04:21.01,0:04:23.49,Default,Zaht,0,0,0,,By the way, the dungeon's \Nin the basement, right?
+Dialogue: 0,0:04:23.49,0:04:24.72,Default,Bandit B,0,0,0,,Yeah.
+Dialogue: 0,0:04:24.72,0:04:27.33,Default,Bandit B,0,0,0,,Hey, how d'ya know that?!
+Dialogue: 0,0:04:28.40,0:04:30.32,Default,Bandit B,0,0,0,,Huh? Where is he?
+Dialogue: 0,0:04:33.00,0:04:34.21,Default,Zaht,0,0,0,,Lord Ars!
+Dialogue: 0,0:04:38.72,0:04:41.88,Default,Zaht,0,0,0,,Who are you people? Where's Lord Ars?
+Dialogue: 0,0:04:41.88,0:04:45.51,Default,Maika,0,0,0,,Sir! Are you the aid that Ars promised?!
+Dialogue: 0,0:04:46.09,0:04:47.77,Default,Zaht,0,0,0,,You know Lord Ars?
+Dialogue: 0,0:04:47.77,0:04:53.24,Default,Maika,0,0,0,,Yes! He was taken to their boss\N alongside our brother and Rietz!
+Dialogue: 0,0:04:53.24,0:04:55.19,Default,Zaht,0,0,0,,Got it. I'll find 'em.
+Dialogue: 0,0:04:55.19,0:04:56.22,Default,Maika,0,0,0,,Wait!
+Dialogue: 0,0:04:56.22,0:04:58.19,Default,Maika,0,0,0,,I beg you! Take us with you!
+Dialogue: 0,0:04:59.76,0:05:01.03,Default,Zaht,0,0,0,,No way.
+Dialogue: 0,0:05:01.03,0:05:04.02,Default,Zaht,0,0,0,,Me with two prisoners?\N I'll attract too much attention.
+Dialogue: 0,0:05:05.03,0:05:06.06,Default,Maika,0,0,0,,I beg of you.
+Dialogue: 0,0:05:07.45,0:05:11.70,Default,Maika,0,0,0,,Our brother is our \Nonly family in the world.
+Dialogue: 0,0:05:19.83,0:05:20.97,Default,Zaht,0,0,0,,Fine.
+Dialogue: 0,0:05:21.40,0:05:24.56,Default,Zaht,0,0,0,,The guy there looks like he'd \Nbe good in a fight, at least.
+Dialogue: 0,0:05:25.35,0:05:26.69,Default,Zaht,0,0,0,,I'll take the help.
+Dialogue: 0,0:05:39.02,0:05:41.18,Default,Maika,0,0,0,,All three should be in the boss's room!
+Dialogue: 0,0:05:41.18,0:05:43.98,Default,Zaht,0,0,0,,The boss's room? You mean that tower?
+Dialogue: 0,0:05:51.44,0:05:53.58,Default,Bandit B,0,0,0,,It's a jailbreak! Get them!
+Dialogue: 0,0:05:57.28,0:06:00.00,Default,Maika,0,0,0,,Takao! Jump onto the roof!
+Dialogue: 0,0:06:05.30,0:06:07.13,Default,Bandit B,0,0,0,,They're escaping over the rooftops!
+Dialogue: 0,0:06:07.68,0:06:10.32,Default,Bandit B,0,0,0,,Catch them! Hey, catch them!
+Dialogue: 0,0:06:10.32,0:06:11.89,Default,Maika,0,0,0,,Takao, jump!
+Dialogue: 0,0:06:22.43,0:06:24.90,Default,Bandit 3,0,0,0,,There's only three of 'em! Take 'em down!
+Dialogue: 0,0:06:34.37,0:06:38.21,Default,sign,0,0,0,,{\fad(500,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(175,307)}The Talents of House Fujimiya
+Dialogue: 0,0:06:41.44,0:06:44.42,Default,Bandit 4,0,0,0,,You're not gettin' out of here so easy.
+Dialogue: 0,0:06:46.53,0:06:48.25,Default,Zaht,0,0,0,,Might be out of my league here.
+Dialogue: 0,0:06:48.85,0:06:49.77,Default,Maika,0,0,0,,Takao.
+Dialogue: 0,0:06:51.20,0:06:53.76,Default,Maika,0,0,0,,Show them the power of House Fujimiya!
+Dialogue: 0,0:06:53.76,0:06:54.66,Default,Takao,0,0,0,,Right!
+Dialogue: 0,0:07:11.81,0:07:14.16,Default,Bandits,0,0,0,,No way! In one punch?!
+Dialogue: 0,0:07:14.59,0:07:18.56,Default,Zaht,0,0,0,,Nice work. I'd love to have you in my unit.
+Dialogue: 0,0:07:20.20,0:07:23.54,Default,Bandits,0,0,0,,These guys are monsters!
+Dialogue: 0,0:07:29.85,0:07:32.26,Default,Vigo,0,0,0,,You wanna see the hostages, huh?
+Dialogue: 0,0:07:33.43,0:07:37.56,Default,Vigo,0,0,0,,But you'll have to play with me first.
+Dialogue: 0,0:07:37.56,0:07:38.97,Default,Bandits,0,0,0,,It's Boss Vigo!
+Dialogue: 0,0:07:38.97,0:07:40.32,Default,Bandits,0,0,0,,The boss is here!
+Dialogue: 0,0:07:47.82,0:07:50.61,Main - Italics,Zaht,0,0,0,,He's fast… not to mention strong!
+Dialogue: 0,0:07:59.48,0:08:02.10,Default,Maika,0,0,0,,He can't use it if you get in close!
+Dialogue: 0,0:08:02.10,0:08:02.87,Default,Takao,0,0,0,,Got it!
+Dialogue: 0,0:08:07.25,0:08:07.96,Default,Maika,0,0,0,,Takao!
+Dialogue: 0,0:08:10.13,0:08:11.39,Default,Vigo,0,0,0,,Die!
+Dialogue: 0,0:08:11.84,0:08:13.03,Default,Maika,0,0,0,,Takao!
+Dialogue: 0,0:08:18.31,0:08:20.08,Default,Vigo,0,0,0,,What's the matter?
+Dialogue: 0,0:08:20.08,0:08:23.31,Default,Vigo,0,0,0,,For me, this barely counts as a warm-up.
+Dialogue: 0,0:08:29.96,0:08:34.22,Default,Zaht,0,0,0,,Sheesh. You really gave me a workout here.
+Dialogue: 0,0:08:35.43,0:08:38.14,Default,Vigo,0,0,0,,What, giving up already?
+Dialogue: 0,0:08:39.12,0:08:42.58,Default,Zaht,0,0,0,,Lord Ars and Rietz are in there, right?
+Dialogue: 0,0:08:42.95,0:08:45.44,Default,Vigo,0,0,0,,I figured. You're a Canarre stooge.
+Dialogue: 0,0:08:45.44,0:08:48.84,Default,Vigo,0,0,0,,You fell short of finishing \Nyour hero run, though.
+Dialogue: 0,0:08:49.18,0:08:50.30,Default,Zaht,0,0,0,,Yeah.
+Dialogue: 0,0:08:51.62,0:08:54.24,Default,Zaht,0,0,0,,Guess I'll have to leave \Nthat to the others.
+Dialogue: 0,0:09:04.01,0:09:06.23,Default,Bandits,0,0,0,,There are explosions all over!
+Dialogue: 0,0:09:06.53,0:09:10.11,Default,Zaht,0,0,0,,A hundred-man elite unit\N is on their way in now.
+Dialogue: 0,0:09:10.11,0:09:12.78,Default,Zaht,0,0,0,,You're all doomed.
+Dialogue: 0,0:09:13.21,0:09:16.03,Default,Vigo,0,0,0,,What's that? Just a hundred?
+Dialogue: 0,0:09:16.40,0:09:20.15,Default,Vigo,0,0,0,,We've got five hundred here! \NYou don't stand a chance!
+Dialogue: 0,0:09:22.04,0:09:24.29,Default,Zaht,0,0,0,,You think five hundred's enough?
+Dialogue: 0,0:09:25.28,0:09:26.29,Default,Vigo,0,0,0,,What's that?
+Dialogue: 0,0:09:26.29,0:09:31.30,Default,Zaht,0,0,0,,This is the force that protected\N Canarre from 80,000 Seitz troops.
+Dialogue: 0,0:09:31.50,0:09:34.97,Default,sign,0,0,0,,{\fad(500,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(172,307)}Escape
+Dialogue: 0,0:09:42.56,0:09:45.47,Default,Braham,0,0,0,,Canarre's elite unit is on the scene!
+Dialogue: 0,0:09:45.47,0:09:48.06,Default,Braham,0,0,0,,Better make tracks \Nif you don't wanna die!
+Dialogue: 0,0:09:54.12,0:09:58.24,Default,Braham,0,0,0,,I need to blow off some steam \Nafter all that thinking.
+Dialogue: 0,0:09:58.24,0:10:00.21,Default,Braham,0,0,0,,Time to go nuts!
+Dialogue: 0,0:10:00.21,0:10:04.27,Default,Thomas,0,0,0,,It's good to be confident, \Nbut don't forget your objective.
+Dialogue: 0,0:10:04.55,0:10:08.29,Default,Thomas,0,0,0,,This plan is ultimately \Nabout saving Ars Louvent.
+Dialogue: 0,0:10:08.78,0:10:10.00,Default,Thomas,0,0,0,,Got it?
+Dialogue: 0,0:10:10.38,0:10:11.63,Default,Braham,0,0,0,,No prob!
+Dialogue: 0,0:10:12.12,0:10:13.54,Default,Bandit Z,0,0,0,,They're at the front gate!
+Dialogue: 0,0:10:13.54,0:10:15.82,Default,Bandit X,0,0,0,,You think they'll make it this far?!
+Dialogue: 0,0:10:16.32,0:10:20.57,Default,Zaht,0,0,0,,You were once a Seitz soldier, \Nso you'd know how good they are.
+Dialogue: 0,0:10:21.72,0:10:22.82,Default,Vigo,0,0,0,,This isn't over!
+Dialogue: 0,0:10:22.82,0:10:25.06,Default,Vigo,0,0,0,,I've still got my hostages!
+Dialogue: 0,0:10:29.81,0:10:31.56,Default,Vigo,0,0,0,,You three!
+Dialogue: 0,0:10:31.56,0:10:34.04,Default,Zaht,0,0,0,,Took you long enough, Rietz.
+Dialogue: 0,0:10:34.04,0:10:35.07,Default,Maika/Takao,0,0,0,,Elder Brother!
+Dialogue: 0,0:10:35.07,0:10:37.28,Default,Rikuya,0,0,0,,Maika! Takao!
+Dialogue: 0,0:10:38.00,0:10:40.78,Default,Rietz,0,0,0,,You've certainly put us\N through the wringer.
+Dialogue: 0,0:10:41.14,0:10:43.76,Default,Rietz,0,0,0,,It was a foolish thing\N to go and harm Lord Ars.
+Dialogue: 0,0:10:44.56,0:10:46.24,Default,Rietz,0,0,0,,Now you'll get what you deserve!
+Dialogue: 0,0:10:50.98,0:10:54.30,Default,Rietz,0,0,0,,You overgrown filth!
+Dialogue: 0,0:11:03.48,0:11:06.14,Default,Rietz,0,0,0,,Even touching you makes me feel filthy.
+Dialogue: 0,0:11:06.94,0:11:08.00,Default,Bandits,0,0,0,,Boss!
+Dialogue: 0,0:11:08.00,0:11:10.65,Default,Bandits,0,0,0,,Boss Vigo… lost?!
+Dialogue: 0,0:11:14.13,0:11:16.40,Default,Ars,0,0,0,,Thank you so much, Zaht!
+Dialogue: 0,0:11:16.40,0:11:18.39,Default,Ars,0,0,0,,You came to save us, right?
+Dialogue: 0,0:11:18.39,0:11:19.28,Default,Zaht,0,0,0,,Hey, now.
+Dialogue: 0,0:11:20.01,0:11:22.58,Default,Zaht,0,0,0,,Looks like you've had a rough go of it.
+Dialogue: 0,0:11:22.58,0:11:25.28,Default,Zaht,0,0,0,,Don't even wanna think \Nabout what Lady Licia'll say.
+Dialogue: 0,0:11:27.01,0:11:29.21,Default,Rietz,0,0,0,,Thank you for the help, Zaht.
+Dialogue: 0,0:11:29.21,0:11:33.29,Default,Rietz,0,0,0,,The distraction you provided \Nfacilitated our escape.
+Dialogue: 0,0:11:33.29,0:11:35.23,Default,Zaht,0,0,0,,No problem.
+Dialogue: 0,0:11:35.23,0:11:38.36,Default,Zaht,0,0,0,,Feels weird to have you\N thanking me, Rietz.
+Dialogue: 0,0:11:38.36,0:11:39.80,Default,Maika,0,0,0,,Elder Brother!
+Dialogue: 0,0:11:40.19,0:11:42.10,Default,Maika,0,0,0,,You're hurt!
+Dialogue: 0,0:11:42.10,0:11:45.31,Default,Rikuya,0,0,0,,I'm fine. I'm glad you're both safe, too.
+Dialogue: 0,0:11:46.07,0:11:48.31,Default,Maika,0,0,0,,And you recovered the sword!
+Dialogue: 0,0:11:49.12,0:11:50.62,Default,Rikuya,0,0,0,,Y-Yes…
+Dialogue: 0,0:11:56.01,0:11:58.57,Default,Rietz,0,0,0,,Give up already, Vigo.
+Dialogue: 0,0:12:00.88,0:12:03.82,Default,Vigo,0,0,0,,Don't think you're\N getting out of here alive.
+Dialogue: 0,0:12:10.28,0:12:12.07,Default,Braham,0,0,0,,Wh-What was that?!
+Dialogue: 0,0:12:12.07,0:12:13.00,Default,Thomas,0,0,0,,Don't tell me…
+Dialogue: 0,0:12:13.25,0:12:15.29,Default,Ars,0,0,0,,M-More explosions?
+Dialogue: 0,0:12:15.29,0:12:16.71,Default,Zaht,0,0,0,,Those weren't mine!
+Dialogue: 0,0:12:20.22,0:12:22.99,Default,Vigo,0,0,0,,If I'm going down, I'm taking you with me!
+Dialogue: 0,0:12:22.99,0:12:25.82,Default,Vigo,0,0,0,,You can all die here!
+Dialogue: 0,0:12:34.08,0:12:35.48,Default,Bandits,0,0,0,,The castle's coming down!
+Dialogue: 0,0:12:35.76,0:12:37.22,Default,Bandits,0,0,0,,Run!
+Dialogue: 0,0:12:37.22,0:12:38.77,Default,Rietz,0,0,0,,Zaht! Let's go!
+Dialogue: 0,0:12:38.77,0:12:41.02,Default,Zaht,0,0,0,,Right! Hurry, everyone!
+Dialogue: 0,0:13:05.42,0:13:06.39,Default,Rietz,0,0,0,,At this rate…
+Dialogue: 0,0:13:06.95,0:13:09.31,Default,Zaht,0,0,0,,Over here! We'll get out this way!
+Dialogue: 0,0:13:17.95,0:13:20.04,Default,Maika,0,0,0,,W-We have to go through there?
+Dialogue: 0,0:13:20.04,0:13:21.36,Default,Zaht,0,0,0,,There's no other way!
+Dialogue: 0,0:13:21.36,0:13:22.44,Default,Zaht,0,0,0,,Hurry!
+Dialogue: 0,0:13:26.25,0:13:27.36,Default,Maika,0,0,0,,Takao!
+Dialogue: 0,0:13:28.27,0:13:30.12,Default,Takao,0,0,0,,Elder Brother, look out!
+Dialogue: 0,0:13:33.83,0:13:35.00,Default,Zaht,0,0,0,,Are you all right?
+Dialogue: 0,0:13:49.39,0:13:50.97,Default,Rikuya,0,0,0,,The sword!
+Dialogue: 0,0:13:52.11,0:13:53.81,Default,Zaht,0,0,0,,What are you doing? You'll die!
+Dialogue: 0,0:13:57.06,0:13:58.15,Default,Rietz,0,0,0,,Lord Ars!
+Dialogue: 0,0:14:19.40,0:14:22.54,Default,Zaht,0,0,0,,Come on! It's all going to come down!
+Dialogue: 0,0:14:28.02,0:14:29.60,Default,Maika,0,0,0,,We shall not go.
+Dialogue: 0,0:14:31.84,0:14:34.06,Default,Maika,0,0,0,,We must not leave the sword!
+Dialogue: 0,0:14:34.06,0:14:36.93,Default,Rikuya,0,0,0,,What are you talking about? \NGet over here, both of you!
+Dialogue: 0,0:14:36.93,0:14:41.44,Default,Maika,0,0,0,,If we leave it, the sword \Nwill be lost in the collapse!
+Dialogue: 0,0:14:41.83,0:14:45.94,Default,Takao,0,0,0,,We will recover the sword \Nand escape another way!
+Dialogue: 0,0:14:45.94,0:14:49.70,Default,Zaht,0,0,0,,That's suicide, damn it! \NJust get over here!
+Dialogue: 0,0:14:51.74,0:14:55.99,Default,Maika,0,0,0,,The survival of the Yoh Kingdom \Nmeans more than our lives!
+Dialogue: 0,0:14:56.55,0:15:01.39,Default,Maika,0,0,0,,We must have that sword so you \Nmay return and claim the throne!
+Dialogue: 0,0:15:02.00,0:15:04.85,Default,Rikuya,0,0,0,,Maika! Takao! I—
+Dialogue: 0,0:15:04.85,0:15:05.86,Default,Maika,0,0,0,,Elder Brother!
+Dialogue: 0,0:15:07.36,0:15:10.50,Default,Maika,0,0,0,,Ars is a fabulous leader.
+Dialogue: 0,0:15:10.50,0:15:12.72,Default,Maika,0,0,0,,I'm sure he will help you.
+Dialogue: 0,0:15:13.48,0:15:17.73,Default,Maika,0,0,0,,Ever since we were children,\N you were always generous with us.
+Dialogue: 0,0:15:18.61,0:15:23.10,Default,Maika,0,0,0,,We've always wished \Nwe could make you king.
+Dialogue: 0,0:15:25.91,0:15:30.92,Default,Maika,0,0,0,,It was our pleasure to have served you.
+Dialogue: 0,0:15:39.36,0:15:41.40,Default,Maika,0,0,0,,Elder Brother? Why?!
+Dialogue: 0,0:15:43.90,0:15:46.02,Default,Rikuya,0,0,0,,I've been a fool.
+Dialogue: 0,0:15:46.02,0:15:48.95,Default,Rikuya,0,0,0,,What I need isn't proof of my kingship.
+Dialogue: 0,0:15:50.65,0:15:52.86,Default,Rikuya,0,0,0,,I'm sorry it took me\N so long to realize it.
+Dialogue: 0,0:15:53.40,0:15:55.36,Default,Rikuya,0,0,0,,But Ars taught me…
+Dialogue: 0,0:15:55.86,0:16:01.14,Default,Rikuya,0,0,0,,even without the sword, \Nif I have you, I'm already a king!
+Dialogue: 0,0:16:02.63,0:16:08.11,Default,Rikuya,0,0,0,,Will you remain by my side \Nand serve me forever?
+Dialogue: 0,0:16:13.87,0:16:16.36,Default,Maika,0,0,0,,Of course we will, Elder Brother.
+Dialogue: 0,0:16:16.36,0:16:18.34,Default,Maika,0,0,0,,We'll serve you forever onward.
+Dialogue: 0,0:16:24.08,0:16:26.14,Default,Zaht,0,0,0,,Get over here, you three!
+Dialogue: 0,0:16:57.37,0:16:59.08,Default,Braham,0,0,0,,Hey!
+Dialogue: 0,0:17:04.82,0:17:07.34,Main - Italics,Ars,0,0,0,,The castle collapsed completely,
+Dialogue: 0,0:17:07.34,0:17:09.71,Main - Italics,Ars,0,0,0,,and the fire continued to \Nburn the whole day after.
+Dialogue: 0,0:17:10.89,0:17:15.37,Main - Italics,Ars,0,0,0,,The bandits were detained.\N Even Vigo was taken alive.
+Dialogue: 0,0:17:17.59,0:17:19.52,Main - Italics,Ars,0,0,0,,And then…
+Dialogue: 0,0:17:26.34,0:17:27.65,Default,Maika,0,0,0,,Elder Brother!
+Dialogue: 0,0:17:33.73,0:17:38.15,Main - Italics,Ars,0,0,0,,"Even if lost, it would \Nreturn to the worthy king."
+Dialogue: 0,0:17:38.74,0:17:42.38,Main - Italics,Ars,0,0,0,,Apparently, that was a legend \Ntied to the Dragonslayer Blade.
+Dialogue: 0,0:17:43.29,0:17:46.29,Default,sign,0,0,0,,{\fad(500,500)\shad0\bord1\blur1\fnArial Black\c&HD6D1D2&\pos(320,292)\3c&H161B1A&}Castle Canarre
+Dialogue: 0,0:17:47.60,0:17:48.79,Default,Rikuya,0,0,0,,Ars!
+Dialogue: 0,0:17:48.79,0:17:52.17,Default,sign,0,0,0,,{\fad(500,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(175,307)}The House Fujimiya Aftermath
+Dialogue: 0,0:17:49.57,0:17:52.86,Main - Top,Rikuya,0,0,0,,You have my deepest gratitude \Nfor the aid you've granted us!
+Dialogue: 0,0:17:53.42,0:17:56.17,Default,Ars,0,0,0,,Not at all! Cease this at once!
+Dialogue: 0,0:17:56.66,0:18:01.36,Default,Ars,0,0,0,,I greatly appreciate your help \Nin disposing of the bandits.
+Dialogue: 0,0:18:01.36,0:18:04.34,Default,Ars,0,0,0,,As lord of this realm, I don't \Nknow how to thank you.
+Dialogue: 0,0:18:04.82,0:18:07.69,Default,Ars,0,0,0,,I am profoundly grateful.
+Dialogue: 0,0:18:09.42,0:18:10.90,Default,Maika,0,0,0,,Forgive us!
+Dialogue: 0,0:18:11.82,0:18:16.19,Default,Maika,0,0,0,,When we first met,\N my behavior was untoward.
+Dialogue: 0,0:18:16.49,0:18:21.87,Default,Maika,0,0,0,,But we are in your debt, \Nand that of your retainers, as well.
+Dialogue: 0,0:18:22.49,0:18:27.37,Default,Maika,0,0,0,,Allow me to express my thanks \Nfor saving us and our elder brother.
+Dialogue: 0,0:18:29.30,0:18:31.92,Default,Maika,0,0,0,,Takao, show your gratitude!
+Dialogue: 0,0:18:33.21,0:18:34.96,Default,Takao,0,0,0,,Thank you, Ars!
+Dialogue: 0,0:18:35.23,0:18:39.12,Default,Takao,0,0,0,,And hurrah for all your castle \Nstaff who gave us that feast!
+Dialogue: 0,0:18:39.12,0:18:41.47,Default,Maika,0,0,0,,Food is all you think about!
+Dialogue: 0,0:18:42.76,0:18:44.77,Default,Rikuya,0,0,0,,I can't possibly thank you enough.
+Dialogue: 0,0:18:45.62,0:18:49.48,Default,Rikuya,0,0,0,,You've taught me how to be a true leader.
+Dialogue: 0,0:18:49.91,0:18:54.56,Default,Rikuya,0,0,0,,Also, that my siblings are more \Nimportant than any sword.
+Dialogue: 0,0:18:54.56,0:18:57.43,Default,Ars,0,0,0,,No, I didn't teach you anything…
+Dialogue: 0,0:18:57.43,0:19:02.74,Default,Ars,0,0,0,,But as fellow leaders,\N I hope we can learn from each other.
+Dialogue: 0,0:19:03.05,0:19:08.50,Default,Rikuya,0,0,0,,Yes. I wish to become a king\N worthy of these two.
+Dialogue: 0,0:19:10.64,0:19:12.78,Default,Rietz,0,0,0,,What will you do moving forward?
+Dialogue: 0,0:19:13.60,0:19:18.76,Default,Rikuya,0,0,0,,I heard that Ars is recruiting \Npeople for the upcoming war.
+Dialogue: 0,0:19:19.31,0:19:22.79,Default,Rikuya,0,0,0,,When we first met, \Nyou expressed interest in us because
+Dialogue: 0,0:19:22.79,0:19:26.08,Default,Rikuya,0,0,0,,you wished to appraise our capabilities\N as potential retainers, correct?
+Dialogue: 0,0:19:26.08,0:19:30.35,Default,Ars,0,0,0,,I'm sorry! I only meant to \Nmake the offer, of course!
+Dialogue: 0,0:19:30.35,0:19:33.65,Default,Ars,0,0,0,,I certainly didn't realize you \Nwere royalty at the time…
+Dialogue: 0,0:19:33.98,0:19:36.99,Default,Rikuya,0,0,0,,Of course, I know that \Nyou meant no offense.
+Dialogue: 0,0:19:37.47,0:19:39.93,Default,Rikuya,0,0,0,,But I am also a king.
+Dialogue: 0,0:19:39.93,0:19:42.16,Default,Rikuya,0,0,0,,I cannot be your vassal.
+Dialogue: 0,0:19:42.92,0:19:46.66,Default,Rikuya,0,0,0,,However, I do believe there \Nis much I can learn from you.
+Dialogue: 0,0:19:46.66,0:19:50.91,Default,Rikuya,0,0,0,,To build up our strength and \Nrestore the Yoh Kingdom, as well…
+Dialogue: 0,0:19:51.66,0:19:56.92,Default,Rikuya,0,0,0,,might I work with you in the \Ncapacity of auxiliary commander?
+Dialogue: 0,0:19:59.42,0:20:04.23,Default,Ars,0,0,0,,I'd be delighted to host \Nyou all here in Canarre!
+Dialogue: 0,0:20:04.23,0:20:05.93,Default,Ars,0,0,0,,By all means, please stay!
+Dialogue: 0,0:20:07.20,0:20:08.16,Default,Rikuya,0,0,0,,Thank you.
+Dialogue: 0,0:20:13.84,0:20:16.69,Default,Rikuya,0,0,0,,Until the day we return to Yoh…
+Dialogue: 0,0:20:17.44,0:20:22.72,Default,Rikuya,0,0,0,,I offer my strength and \Nmy sword in your service!
+Dialogue: 0,0:20:27.98,0:20:29.68,Default,Ars,0,0,0,,I'm so glad to have you!
+Dialogue: 0,0:20:33.97,0:20:35.10,Default,Rikuya,0,0,0,,I look forward to our alliance!
+Dialogue: 0,0:20:35.10,0:20:36.10,Default,Ars,0,0,0,,The pleasure's all mine!
+Dialogue: 0,0:20:36.10,0:20:37.42,Default,Rikuya,0,0,0,,No, it's mine!
+Dialogue: 0,0:20:37.42,0:20:39.71,Default,Ars,0,0,0,,No, it's absolutely all mine!
+Dialogue: 0,0:20:40.07,0:20:42.34,Default,Licia,0,0,0,,Isn't that lovely, Lord Ars?
+Dialogue: 0,0:20:42.69,0:20:45.59,Default,Ars,0,0,0,,Yes! I'm so glad everyone is sa—
+Dialogue: 0,0:20:45.59,0:20:50.10,Main - Italics,Ars,0,0,0,,Wait, what ended up happening \Nto that bandit boss, Vigo?
+Dialogue: 0,0:20:51.01,0:20:53.44,Flashback,Zaht,0,0,0,,Looks like you've had a rough go of it.
+Dialogue: 0,0:20:53.44,0:20:56.27,Flashback,Zaht,0,0,0,,Don't even wanna think \Nabout what Lady Licia'll say.
+Dialogue: 0,0:20:58.43,0:20:59.81,Default,Ars,0,0,0,,S-Say…
+Dialogue: 0,0:20:59.81,0:21:02.44,Default,Ars,0,0,0,,What happened to Vigo the prisoner?
+Dialogue: 0,0:21:03.00,0:21:07.03,Default,Licia,0,0,0,,That is nothing you need concern \Nyourself with, Lord Ars.
+Dialogue: 0,0:21:07.03,0:21:08.58,Main - Italics,Ars,0,0,0,,D-Don't tell me…
+Dialogue: 0,0:21:08.58,0:21:10.79,Default,Licia,0,0,0,,Whatever shall we do with you?
+Dialogue: 0,0:21:12.59,0:21:14.25,Default,Rietz,0,0,0,,Lord Ars! Wait!
+Dialogue: 0,0:21:14.93,0:21:16.00,Default,Ars,0,0,0,,Vigo!
+Dialogue: 0,0:21:19.92,0:21:22.73,Default,Ars,0,0,0,,Has she been hacking away at you?!
+Dialogue: 0,0:21:23.22,0:21:24.05,Default,Vigo,0,0,0,,Huh?
+Dialogue: 0,0:21:25.58,0:21:27.21,Default,Licia,0,0,0,,Certainly not.
+Dialogue: 0,0:21:27.21,0:21:31.20,Default,Licia,0,0,0,,I would never do anything so barbaric.
+Dialogue: 0,0:21:31.20,0:21:34.48,Default,Licia,0,0,0,,We've merely been having a little chat.
+Dialogue: 0,0:21:34.87,0:21:36.48,Default,Licia,0,0,0,,Now, Vigo…
+Dialogue: 0,0:21:36.48,0:21:38.85,Default,Licia,0,0,0,,What was it you wanted to say?
+Dialogue: 0,0:21:38.85,0:21:40.06,Default,Vigo,0,0,0,,Yes'm!
+Dialogue: 0,0:21:40.06,0:21:44.38,Default,Vigo,0,0,0,,Sir, I'm terribly sorry for my \Ninappropriate treatment of you!
+Dialogue: 0,0:21:44.38,0:21:47.55,Default,Licia,0,0,0,,Why, what a good, obedient boy!
+Dialogue: 0,0:21:48.80,0:21:52.94,Main - Italics,Ars,0,0,0,,Licia truly is terrifying!
+Dialogue: 0,0:23:25.60,0:23:29.21,Default,Ars,0,0,0,,Um, Licia, that smile of yours \Nis scaring me a little…
+Dialogue: 0,0:23:29.21,0:23:33.54,Default,Licia,0,0,0,,Oh, how mean, Lord Ars! \NThis is my normal smile.
+Dialogue: 0,0:23:33.54,0:23:35.60,Default,Ars,0,0,0,,I can see your aura!
+Dialogue: 0,0:23:35.60,0:23:37.62,Default,Licia,0,0,0,,As long as it's just aura.
+Dialogue: 0,0:23:37.62,0:23:39.76,Default,Licia,0,0,0,,Next time: "Long-Standing Feelings."
+Dialogue: 0,0:23:37.62,0:23:39.99,Default,Sign,0,0,0,,{\fad(480,1)\fs12\an3\shad1\bord1\fnTimes New Roman\b1\c&HC8CCC9&\3c&H232C28&\4c&H232C28&\fs14\pos(605,165.957)}Next Time   {\fs16}Long-Standing Feelings
+
