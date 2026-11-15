@@ -1,0 +1,572 @@
+[Script Info]
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1920
+LayoutResX: 1920
+PlayResY: 1080
+LayoutResY: 1080
+YCbCr Matrix: TV.601
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans PL,72,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,100,100,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.33,0:00:08.25,Default,,0,0,0,,{\a6}EVEN THE STUDENT COUNCIL\NHAS ITS HOLES!
+Dialogue: 0,0:00:12.22,0:00:13.76,Default,,0,0,0,,Pierwowzór: Muchimaro\Nw „Weekly Shonen Magazine”
+Dialogue: 0,0:00:14.55,0:00:17.01,Default,,0,0,0,,Planowanie:\NAtsuhiro Iwakami, Yuichiro Takashima
+Dialogue: 0,0:00:18.60,0:00:19.64,Default,,0,0,0,,{\a1}Projekt postaci: Ryo Imamura
+Dialogue: 0,0:00:19.81,0:00:22.64,Default,,0,0,0,,Animatorzy:\NKay Yu, Konaming, Mockingbird
+Dialogue: 0,0:00:22.93,0:00:24.64,Default,,0,0,0,,Kompozycja serii:\NMasahiro Yokotani
+Dialogue: 0,0:00:29.48,0:00:30.61,Default,,0,0,0,,{\a6}Kolory: Arisa Komatsu
+Dialogue: 0,0:00:30.78,0:00:33.03,Default,,0,0,0,,Zdjęcia: Junpei Takatsu\NMontaż: Michi Takigawa
+Dialogue: 0,0:00:34.61,0:00:36.20,Default,,0,0,0,,Projekt artystyczny: Manami Takizawa
+Dialogue: 0,0:00:42.54,0:00:47.71,Default,,0,0,0,,Utwór otwierający:\N„Kaze no naka wa hashirukkya nai!”
+Dialogue: 0,0:00:48.34,0:00:50.42,Default,,0,0,0,,Efekty dźwiękowe: Ryuuta Nakahara
+Dialogue: 0,0:00:50.59,0:00:53.21,Default,,0,0,0,,Muzyka: Tomoki Kikuya
+Dialogue: 0,0:00:53.38,0:00:56.84,Default,,0,0,0,,Producenci wykonawczy:\NOsamu Nishimoto, Hiroyuki Shimizu
+Dialogue: 0,0:00:57.01,0:00:59.68,Default,,0,0,0,,Współproducenci:\NSoto Kano, Yuki Onoue
+Dialogue: 0,0:00:59.85,0:01:02.47,Default,,0,0,0,,{\a1}Współpraca przy adaptacji\NRedakcja „Weekly Shonen Magazine”
+Dialogue: 0,0:01:02.72,0:01:05.06,Default,,0,0,0,,Produkcja animacji: Passione
+Dialogue: 0,0:01:21.58,0:01:25.66,Default,,0,0,0,,Reżyseria: Naoyuki Tatsuwa
+Dialogue: 0,0:01:27.29,0:01:29.83,Default,,0,0,0,,Produkcja: Komitet produkcyjny\NEven the Student Council Has Its Holes!
+Dialogue: 0,0:01:37.09,0:01:38.01,Default,,0,0,0,,Siup.
+Dialogue: 0,0:01:38.64,0:01:40.72,Default,,0,0,0,,{\a6}POKÓJ SAMORZĄDU
+Dialogue: 0,0:01:39.64,0:01:40.72,Default,,0,0,0,,{\i1}Następny dzień.{\i0}
+Dialogue: 0,0:01:41.39,0:01:43.47,Default,,0,0,0,,Pora na odpoczynek.
+Dialogue: 0,0:01:44.02,0:01:46.14,Default,,0,0,0,,Komaro, masz jakieś plany na obiad?
+Dialogue: 0,0:01:46.85,0:01:48.69,Default,,0,0,0,,No mam.
+Dialogue: 0,0:01:54.98,0:01:55.99,Default,,0,0,0,,Onigiri.
+Dialogue: 0,0:01:57.40,0:01:58.32,Default,,0,0,0,,Częstujcie się.
+Dialogue: 0,0:01:59.78,0:02:02.62,Default,,0,0,0,,{\a6}WYZWANIE KOMARO
+Dialogue: 0,0:02:03.20,0:02:05.95,Default,,0,0,0,,Masz zamiar je sprzedawać?
+Dialogue: 0,0:02:06.12,0:02:07.96,Default,,0,0,0,,Tak. Spróbuj.
+Dialogue: 0,0:02:08.12,0:02:22.55,Default,,0,0,0,,{\a1}{\i1}Skrzynka na uwagi{\i0}
+Dialogue: 0,0:02:08.75,0:02:13.04,Default,,0,0,0,,{\a6}Było w skrzynce na uwagi.\NChcieli tańszego jedzenia.
+Dialogue: 0,0:02:13.34,0:02:14.55,Default,,0,0,0,,{\a6}Więc to tak...
+Dialogue: 0,0:02:14.92,0:02:19.26,Default,,0,0,0,,{\a6}Faktycznie, ostatnio\Nceny w stołówce poszły w górę.
+Dialogue: 0,0:02:19.47,0:02:21.14,Default,,0,0,0,,{\a6}Bejsboliści o tym mówili.
+Dialogue: 0,0:02:21.30,0:02:22.55,Default,,0,0,0,,{\a6}Racja.
+Dialogue: 0,0:02:22.93,0:02:26.81,Default,,0,0,0,,Ale przez chwilę myślałam, że to\Nlunch zrobiony z miłością dla ciebie.
+Dialogue: 0,0:02:27.14,0:02:28.14,Default,,0,0,0,,Nie, nie!
+Dialogue: 0,0:02:29.19,0:02:30.40,Default,,0,0,0,,{\i1}Myślała o tym.{\i0}
+Dialogue: 0,0:02:30.90,0:02:34.61,Default,,0,0,0,,Ale jak planujesz je sprzedawać, Koma?
+Dialogue: 0,0:02:34.86,0:02:35.53,Default,,0,0,0,,No...
+Dialogue: 0,0:02:35.69,0:02:42.78,Default,,0,0,0,,{\a7}{\i1}Onigiri{\i0}
+Dialogue: 0,0:02:36.03,0:02:37.86,Default,,0,0,0,,Przygotuję je z rana.
+Dialogue: 0,0:02:38.03,0:02:40.99,Default,,0,0,0,,A w trakcie lunchu\Notworzę stoisko na parterze.
+Dialogue: 0,0:02:41.16,0:02:42.78,Default,,0,0,0,,Na własną rękę? Nieźle...
+Dialogue: 0,0:02:43.32,0:02:46.79,Default,,0,0,0,,Można zawsze poprosić\Nlokalne firmy o wsparcie.
+Dialogue: 0,0:02:46.95,0:02:50.79,Default,,0,0,0,,Przygotowanie jednego onigiri\Nkosztuje około 40 jenów...
+Dialogue: 0,0:02:51.29,0:02:53.04,Default,,0,0,0,,{\a3}Więc sprzedam je po 40 jenów.
+Dialogue: 0,0:02:52.88,0:02:55.17,Default,,0,0,0,,{\a7}ZYSK: 0 JENÓW
+Dialogue: 0,0:02:53.38,0:02:55.17,Default,,0,0,0,,Chcesz wyjść na zero?
+Dialogue: 0,0:02:56.21,0:02:59.72,Default,,0,0,0,,Zostawmy na razie\Nszczegóły i ich spróbujmy.
+Dialogue: 0,0:03:00.05,0:03:00.88,Default,,0,0,0,,Dobrze.
+Dialogue: 0,0:03:02.34,0:03:04.51,Default,,0,0,0,,Ciekawe czy mnie usatysfakcjonują!
+Dialogue: 0,0:03:04.68,0:03:05.51,Default,,0,0,0,,{\i1}Znowu ty.{\i0}
+Dialogue: 0,0:03:06.10,0:03:09.14,Default,,0,0,0,,Dużo gadasz jak na kogoś\Nz dziecięcym podniebieniem.
+Dialogue: 0,0:03:09.31,0:03:12.81,Default,,0,0,0,,O czym ty mówisz?\NMoje podniebienie jest bardzo dojrzałe!
+Dialogue: 0,0:03:12.15,0:03:12.81,Default,,0,0,0,,{\a6}JĘZOR
+Dialogue: 0,0:03:13.73,0:03:15.11,Default,,0,0,0,,Jest w tym majonez?
+Dialogue: 0,0:03:15.27,0:03:18.61,Default,,0,0,0,,Sorki, cała kasa poszła na kurczaka.
+Dialogue: 0,0:03:18.82,0:03:19.90,Default,,0,0,0,,{\i1}Dzieciak.{\i0}
+Dialogue: 0,0:03:20.20,0:03:21.74,Default,,0,0,0,,{\a6}DZISIEJSZY WZÓR
+Dialogue: 0,0:03:20.53,0:03:21.65,Default,,0,0,0,,{\a3}{\i1}Degustacja.{\i0}
+Dialogue: 0,0:03:22.07,0:03:24.07,Default,,0,0,0,,Ale dobre!
+Dialogue: 0,0:03:24.24,0:03:27.70,Default,,0,0,0,,Prawda, idealnie posolone, ale...
+Dialogue: 0,0:03:28.62,0:03:29.91,Default,,0,0,0,,Co to jest?
+Dialogue: 0,0:03:30.83,0:03:33.29,Default,,0,0,0,,{\a6}Suszony kalmar. Namoczony.
+Dialogue: 0,0:03:30.87,0:03:34.29,Default,,0,0,0,,{\a1}SUSZONY KALMAR
+Dialogue: 0,0:03:33.46,0:03:34.29,Default,,0,0,0,,{\a6}Suszony kalmar?
+Dialogue: 0,0:03:34.63,0:03:38.34,Default,,0,0,0,,Żeby było taniej, brałam\Nto, co było u nauczycielki.
+Dialogue: 0,0:03:38.51,0:03:40.30,Default,,0,0,0,,O, zostały?
+Dialogue: 0,0:03:41.01,0:03:42.26,Default,,0,0,0,,To na pewno jadalne?
+Dialogue: 0,0:03:43.05,0:03:44.68,Default,,0,0,0,,Dziękujemy za posiłek!
+Dialogue: 0,0:03:44.97,0:03:46.89,Default,,0,0,0,,- Dlatego ci mówię,\N- Było naprawdę dobre, ale...
+Dialogue: 0,0:03:47.14,0:03:49.93,Default,,0,0,0,,- więcej kurczaka!\N- czy się sprzeda?
+Dialogue: 0,0:03:50.10,0:03:50.98,Default,,0,0,0,,- Mhm.\N- Właśnie.
+Dialogue: 0,0:03:51.43,0:03:55.02,Default,,0,0,0,,Poza sponsorami, musimy\Npomyśleć o cenie i składnikach.
+Dialogue: 0,0:03:55.19,0:03:56.69,Default,,0,0,0,,Bo ten kalmar to...
+Dialogue: 0,0:03:58.11,0:04:00.90,Default,,0,0,0,,Tani i smaczny farsz...
+Dialogue: 0,0:04:01.07,0:04:02.74,Default,,0,0,0,,Trzeba pomyśleć...
+Dialogue: 0,0:04:02.90,0:04:03.82,Default,,0,0,0,,Hejka!
+Dialogue: 0,0:04:04.24,0:04:06.95,Default,,0,0,0,,Co się dzieje? Co to za ponure miny?
+Dialogue: 0,0:04:07.37,0:04:09.41,Default,,0,0,0,,Właściwie to to i tamto.
+Dialogue: 0,0:04:10.33,0:04:12.75,Default,,0,0,0,,Mhm. Faktycznie trzeba coś ustalić.
+Dialogue: 0,0:04:12.91,0:04:15.71,Default,,0,0,0,,{\a5}HMM
+Dialogue: 0,0:04:13.16,0:04:15.71,Default,,0,0,0,,Chciałabym to zrobić dla Komaro...
+Dialogue: 0,0:04:16.75,0:04:18.00,Default,,0,0,0,,Może pójdziemy do mnie?
+Dialogue: 0,0:04:19.09,0:04:20.01,Default,,0,0,0,,Dlaczego?
+Dialogue: 0,0:04:20.51,0:04:21.51,Default,,0,0,0,,Co to znaczy?
+Dialogue: 0,0:04:21.84,0:04:24.68,Default,,0,0,0,,Ach, wybaczcie! Nie mówiłam wam.
+Dialogue: 0,0:04:24.68,0:04:30.10,Default,,0,0,0,,{\a6}RESTAURACJA KOTOBUKI
+Dialogue: 0,0:04:24.84,0:04:29.22,Default,,0,0,0,,Koło dworca jest restauracja Kotobuki.\NMieszkam tam.
+Dialogue: 0,0:04:30.47,0:04:32.85,Default,,0,0,0,,Są tam wszystkie składniki i przyrządy,
+Dialogue: 0,0:04:33.02,0:04:35.56,Default,,0,0,0,,a na dodatek łatwiej nam\Nbędzie je przygotować!
+Dialogue: 0,0:04:35.73,0:04:37.31,Default,,0,0,0,,To świetny pomysł!
+Dialogue: 0,0:04:37.81,0:04:39.61,Default,,0,0,0,,Udało się, Komaro!
+Dialogue: 0,0:04:39.77,0:04:40.94,Default,,0,0,0,,Dziękuję.
+Dialogue: 0,0:04:41.11,0:04:42.28,Default,,0,0,0,,A wyżywienie dla nas?
+Dialogue: 0,0:04:42.74,0:04:46.36,Default,,0,0,0,,To w najbliższym czasie\Nskorzystamy z propozycji i spotkamy się!
+Dialogue: 0,0:04:46.53,0:04:47.62,Default,,0,0,0,,Tak jest!
+Dialogue: 0,0:04:47.78,0:04:52.00,Default,,0,0,0,,{\a6}ZACIESZ
+Dialogue: 0,0:04:48.12,0:04:49.95,Default,,0,0,0,,Nawet kiedyś tam byłam...
+Dialogue: 0,0:04:50.12,0:04:52.00,Default,,0,0,0,,- Ja nie byłem.\N- To co z wyżywieniem?
+Dialogue: 0,0:04:52.29,0:04:59.34,Default,,0,0,0,,{\a6}STRES
+Dialogue: 0,0:04:52.54,0:04:56.00,Default,,0,0,0,,No tak, Mizunoe też tutaj będzie...
+Dialogue: 0,0:04:56.67,0:04:59.34,Default,,0,0,0,,- Co mam zrobić? O nie...\N- Siostra, cicho!
+Dialogue: 0,0:04:59.50,0:05:08.18,Default,,0,0,0,,{\a5}EVEN THE STUDENT COUNCIL\NHAS ITS HOLES
+Dialogue: 0,0:04:59.92,0:05:02.63,Default,,0,0,0,,Próbowałam też ze słonymi cukierkami.
+Dialogue: 0,0:05:03.92,0:05:06.05,Default,,0,0,0,,Są dobre na udary cieplne.
+Dialogue: 0,0:05:06.30,0:05:07.80,Default,,0,0,0,,Ale jest zimno...
+Dialogue: 0,0:05:08.35,0:05:11.56,Default,,0,0,0,,{\a7}RESTAURACJA KOTOBUKI
+Dialogue: 0,0:05:08.55,0:05:11.56,Default,,0,0,0,,{\i1}Nadszedł dzień\Nspotkania na robienie onigiri.{\i0}
+Dialogue: 0,0:05:11.72,0:05:18.65,Default,,0,0,0,,SZPERANIE
+Dialogue: 0,0:05:11.93,0:05:14.43,Default,,0,0,0,,{\a6}Dobra, tyle składników wystarczy.
+Dialogue: 0,0:05:14.64,0:05:18.31,Default,,0,0,0,,{\a6}Jeszcze posprzątać na dole,\Nzałatwić taboret dla Komaro, nóż...
+Dialogue: 0,0:05:19.77,0:05:22.69,Default,,0,0,0,,{\a7}MAMA PRZEWODNICZĄCEJ (38 LAT)\NMAYUKI KOTOBUKI
+Dialogue: 0,0:05:19.90,0:05:22.19,Default,,0,0,0,,Co ty tam robisz, mamo?
+Dialogue: 0,0:05:22.86,0:05:31.66,Default,,0,0,0,,{\a5}SZPERANIE
+Dialogue: 0,0:05:23.19,0:05:26.36,Default,,0,0,0,,Jak to? Przychodzą twoi przyjaciele.
+Dialogue: 0,0:05:26.53,0:05:29.24,Default,,0,0,0,,Muszę wystawić jakieś przekąski!
+Dialogue: 0,0:05:29.41,0:05:31.66,Default,,0,0,0,,Teraz nie ma czasu, zrobisz to później.
+Dialogue: 0,0:05:31.95,0:05:33.37,Default,,0,0,0,,Na razie przygotuję...
+Dialogue: 0,0:05:34.29,0:05:36.79,Default,,0,0,0,,Galaretki z Unrindo i Kurayi!
+Dialogue: 0,0:05:36.96,0:05:39.63,Default,,0,0,0,,Pomieszały mi się!\NMuszę je uporządkować!
+Dialogue: 0,0:05:39.79,0:05:40.84,Default,,0,0,0,,Zrób to później!
+Dialogue: 0,0:05:42.05,0:05:46.47,Default,,0,0,0,,Wybacz, Hisako.\NZnowu się podekscytowałam.
+Dialogue: 0,0:05:47.01,0:05:50.39,Default,,0,0,0,,Weź się w garść!\NDzisiaj jest ważny dzień!
+Dialogue: 0,0:05:50.60,0:05:51.30,Default,,0,0,0,,Dobrze.
+Dialogue: 0,0:05:52.14,0:05:58.44,Default,,0,0,0,,{\a5}ECH...
+Dialogue: 0,0:05:52.64,0:05:57.06,Default,,0,0,0,,A ostatnio nawet\Nklienci mnie chwalili...
+Dialogue: 0,0:05:57.60,0:05:58.44,Default,,0,0,0,,Ciebie?
+Dialogue: 0,0:05:58.60,0:06:03.78,Default,,0,0,0,,{\a7}ZAJĘTA\NCUDOWNA
+Dialogue: 0,0:05:59.65,0:06:01.90,Default,,0,0,0,,Tak. Mówili\N„Jaka pani Mayuki jest cudowna".
+Dialogue: 0,0:06:02.15,0:06:03.78,Default,,0,0,0,,Nie chodziło o twoją pracę...
+Dialogue: 0,0:06:04.03,0:06:06.49,Default,,0,0,0,,Skoro sama mówiłaś,\Nże pomożesz, to mi pomóż!
+Dialogue: 0,0:06:06.65,0:06:10.07,Default,,0,0,0,,Muszę się dobrze zaprezentować!\NUmyj ryż!
+Dialogue: 0,0:06:10.24,0:06:11.28,Default,,0,0,0,,Dobrze.
+Dialogue: 0,0:06:11.62,0:06:14.87,Default,,0,0,0,,Nawet nieśmiała Komaro się stara...
+Dialogue: 0,0:06:15.04,0:06:15.87,Default,,0,0,0,,Och?
+Dialogue: 0,0:06:16.12,0:06:19.79,Default,,0,0,0,,Brzmisz zupełnie jak twój ojciec.
+Dialogue: 0,0:06:19.96,0:06:21.25,Default,,0,0,0,,Taka przykładna.
+Dialogue: 0,0:06:21.50,0:06:25.96,Default,,0,0,0,,Właśnie to mi się w nim spodobało.\NBył po prostu taki troskliwy...
+Dialogue: 0,0:06:26.13,0:06:27.97,Default,,0,0,0,,Nie przestawaj myć!
+Dialogue: 0,0:06:28.63,0:06:32.93,Default,,0,0,0,,Ale pewnie\Nnie stresujesz się samym spotkaniem.
+Dialogue: 0,0:06:33.68,0:06:35.18,Default,,0,0,0,,Tylko przez Ume.
+Dialogue: 0,0:06:35.64,0:06:36.27,Default,,0,0,0,,Skąd ty...
+Dialogue: 0,0:06:36.64,0:06:38.52,Default,,0,0,0,,Taiga mi powiedział!
+Dialogue: 0,0:06:38.69,0:06:39.81,Default,,0,0,0,,Taiga?
+Dialogue: 0,0:06:39.98,0:06:42.81,Default,,0,0,0,,Ostatnio siostra cały czas\Ngada o tym Ume!
+Dialogue: 0,0:06:42.98,0:06:43.61,Default,,0,0,0,,Na dodatek...
+Dialogue: 0,0:06:44.27,0:06:47.19,Default,,0,0,0,,czuję miłość w powietrzu!
+Dialogue: 0,0:06:48.40,0:06:50.78,Default,,0,0,0,,Nie, to nie tak!
+Dialogue: 0,0:06:51.95,0:06:55.12,Default,,0,0,0,,Ale słyszałam, że narozrabiałaś...
+Dialogue: 0,0:06:54.28,0:06:55.62,Default,,0,0,0,,{\a6}SZOK
+Dialogue: 0,0:06:55.99,0:06:57.83,Default,,0,0,0,,Czyli jednak!
+Dialogue: 0,0:06:58.12,0:06:59.71,Default,,0,0,0,,- Coś was łączy!\N- Nieprawda!
+Dialogue: 0,0:07:01.37,0:07:02.71,Default,,0,0,0,,Zrobiliście {\i1}to{\i0} razem?
+Dialogue: 0,0:07:02.88,0:07:04.46,Default,,0,0,0,,Słuchaj, co mówię!
+Dialogue: 0,0:07:04.79,0:07:06.09,Default,,0,0,0,,{\i1}Wszystko wyjaśniła.{\i0}
+Dialogue: 0,0:07:06.42,0:07:10.30,Default,,0,0,0,,Czyli nie rozrabialiście...
+Dialogue: 0,0:07:10.47,0:07:11.72,Default,,0,0,0,,Czemu jesteś smutna?
+Dialogue: 0,0:07:12.09,0:07:15.72,Default,,0,0,0,,Kiedy byłam w twoim wieku,\Nwyszłam już za mąż.
+Dialogue: 0,0:07:15.89,0:07:19.68,Default,,0,0,0,,Myślałam, że też już\Nkogoś sobie znalazłaś...
+Dialogue: 0,0:07:20.06,0:07:22.77,Default,,0,0,0,,Ucieszyłam się... Przepraszam.
+Dialogue: 0,0:07:23.56,0:07:27.11,Default,,0,0,0,,Jak o tym mówimy,\Nto całkiem lubię Ume...
+Dialogue: 0,0:07:27.28,0:07:28.28,Default,,0,0,0,,Och!
+Dialogue: 0,0:07:28.65,0:07:29.90,Default,,0,0,0,,Całe szczęście!
+Dialogue: 0,0:07:30.07,0:07:34.12,Default,,0,0,0,,Przygotuję się, żeby\Nzaprzyjaźnić się z przyszłym zięciem!
+Dialogue: 0,0:07:34.78,0:07:37.12,Default,,0,0,0,,Proszę! Wybrane zdjęcia z albumu!
+Dialogue: 0,0:07:37.29,0:07:38.08,Default,,0,0,0,,Błagam, nie!
+Dialogue: 0,0:07:38.24,0:07:43.33,Default,,0,0,0,,{\a7}WALKA
+Dialogue: 0,0:07:38.37,0:07:41.54,Default,,0,0,0,,Siedziałam do późna\Nwybierając te zdjęcia...
+Dialogue: 0,0:07:41.71,0:07:43.33,Default,,0,0,0,,Zawstydzisz mnie przy nim!
+Dialogue: 0,0:07:43.71,0:07:46.34,Default,,0,0,0,,Mam jeszcze jedną rzecz!
+Dialogue: 0,0:07:44.08,0:07:47.05,Default,,0,0,0,,{\a6}RUMIENIEC
+Dialogue: 0,0:07:47.46,0:07:51.68,Default,,0,0,0,,{\a6}SZELEST
+Dialogue: 0,0:07:47.55,0:07:50.09,Default,,0,0,0,,Nie musisz się z nim zaprzyjaźniać.
+Dialogue: 0,0:07:50.26,0:07:52.38,Default,,0,0,0,,Po prostu go lubię...
+Dialogue: 0,0:07:54.14,0:07:55.64,Default,,0,0,0,,Tada!
+Dialogue: 0,0:07:56.35,0:08:00.06,Default,,0,0,0,,Żeby wtopić się w tłum,\Nmuszę założyć mundurek!
+Dialogue: 0,0:08:00.35,0:08:02.56,Default,,0,0,0,,Może jestem na niego ciut za stara,
+Dialogue: 0,0:08:02.73,0:08:05.23,Default,,0,0,0,,ale specjalnie go wyprasowałam!
+Dialogue: 0,0:08:06.02,0:08:07.19,Default,,0,0,0,,Przestań.
+Dialogue: 0,0:08:07.94,0:08:11.28,Default,,0,0,0,,Masz rację...\NDopiero skończyłam 30 lat...
+Dialogue: 0,0:08:08.44,0:08:16.53,Default,,0,0,0,,{\a5}SMUTEK
+Dialogue: 0,0:08:12.11,0:08:14.32,Default,,0,0,0,,Przecież wiem...
+Dialogue: 0,0:08:14.49,0:08:16.53,Default,,0,0,0,,Masz 38 lat.
+Dialogue: 0,0:08:16.70,0:08:21.79,Default,,0,0,0,,{\a6}MIESZU MIESZU
+Dialogue: 0,0:08:16.95,0:08:19.95,Default,,0,0,0,,I nie chodzi o wiek.\NTo po prostu trochę wstydliwe.
+Dialogue: 0,0:08:20.12,0:08:22.29,Default,,0,0,0,,- Muszę wracać do...\N- Dzień dobry!
+Dialogue: 0,0:08:22.54,0:08:23.42,Default,,0,0,0,,Już tu są?
+Dialogue: 0,0:08:24.17,0:08:25.63,Default,,0,0,0,,Mamo, chowaj się!
+Dialogue: 0,0:08:24.71,0:08:25.63,Default,,0,0,0,,{\a6}SMUTEK
+Dialogue: 0,0:08:25.83,0:08:27.96,Default,,0,0,0,,- Mamo!\N- Już otwieram!
+Dialogue: 0,0:08:28.25,0:08:31.63,Default,,0,0,0,,Nie wychodź do nich!\NPoza tym, już nie jest ci przykro?
+Dialogue: 0,0:08:31.80,0:08:34.84,Default,,0,0,0,,Nie możemy pozwolić\Nim czekać przed drzwiami.
+Dialogue: 0,0:08:35.01,0:08:36.80,Default,,0,0,0,,Spójrz na siebie! Jak ty wyglądasz!
+Dialogue: 0,0:08:37.80,0:08:41.14,Default,,0,0,0,,Tyle się przygotowywałam!\NMogą chociaż raz mnie zobaczyć.
+Dialogue: 0,0:08:41.31,0:08:42.39,Default,,0,0,0,,Bo będzie mi przykro.
+Dialogue: 0,0:08:42.56,0:08:44.98,Default,,0,0,0,,Ten jeden raz mnie zabije!
+Dialogue: 0,0:08:45.15,0:08:46.40,Default,,0,0,0,,- Mówię ci!\N- Wchodzimy!
+Dialogue: 0,0:09:00.99,0:09:03.20,Default,,0,0,0,,To nie tak!
+Dialogue: 0,0:09:03.71,0:09:05.04,Default,,0,0,0,,{\a6}{\i1}Pierwszy dzień szkoły podstawowej{\i0}
+Dialogue: 0,0:09:05.21,0:09:06.54,Default,,0,0,0,,{\a6}{\i1}Pierwszy dzień gimnazjum{\i0}
+Dialogue: 0,0:09:06.71,0:09:08.79,Default,,0,0,0,,{\a6}{\i1}Pierwszy dzień liceum{\i0}
+Dialogue: 0,0:09:07.04,0:09:07.96,Default,,0,0,0,,{\i1}Nie zmienia się.{\i0}
+Dialogue: 0,0:09:08.96,0:09:10.46,Default,,0,0,0,,{\a6}RESTAURACJA KOTOBUKI
+Dialogue: 0,0:09:09.17,0:09:10.46,Default,,0,0,0,,W każdym razie...
+Dialogue: 0,0:09:10.63,0:09:15.72,Default,,0,0,0,,{\a6}KOMARO
+Dialogue: 0,0:09:10.75,0:09:14.42,Default,,0,0,0,,Jestem Mayuki, mama Hisako.\NMiło mi was poznać!
+Dialogue: 0,0:09:14.67,0:09:15.72,Default,,0,0,0,,Nam również!
+Dialogue: 0,0:09:16.01,0:09:18.43,Default,,0,0,0,,Przepraszam za wcześniej.
+Dialogue: 0,0:09:18.60,0:09:21.43,Default,,0,0,0,,Za bardzo się\Npodekscytowałam waszym przyjściem.
+Dialogue: 0,0:09:21.60,0:09:24.77,Default,,0,0,0,,Nie szkodzi! Nic nie widziałem!
+Dialogue: 0,0:09:24.93,0:09:26.39,Default,,0,0,0,,{\a6}MINA DZIEWCZYNY, KTÓRA\NDOŚWIADCZYŁA WIDOKU SWOJEJ MAMY
+Dialogue: 0,0:09:26.06,0:09:27.44,Default,,0,0,0,,{\a1}Ale przewodnicząca...
+Dialogue: 0,0:09:26.56,0:09:27.52,Default,,0,0,0,,{\a6}W COSPLAYU UCZENNICY PRZED KOLEGAMI
+Dialogue: 0,0:09:27.98,0:09:29.19,Default,,0,0,0,,Wszystko w porządku?
+Dialogue: 0,0:09:29.73,0:09:31.36,Default,,0,0,0,,Tak, dziękuję!
+Dialogue: 0,0:09:32.36,0:09:33.99,Default,,0,0,0,,Hej, Arisu.
+Dialogue: 0,0:09:34.28,0:09:35.28,Default,,0,0,0,,Słucham.
+Dialogue: 0,0:09:35.65,0:09:39.32,Default,,0,0,0,,Czy między tą dwójką... coś jest?
+Dialogue: 0,0:09:39.57,0:09:42.49,Default,,0,0,0,,{\a7}PODEKSCYTOWANA
+Dialogue: 0,0:09:40.16,0:09:42.49,Default,,0,0,0,,{\a3}No cóż...
+Dialogue: 0,0:09:42.95,0:09:44.95,Default,,0,0,0,,{\i1}Wtedy Terui pomyślała:{\i0}
+Dialogue: 0,0:09:45.16,0:09:48.67,Default,,0,0,0,,{\i1}Czy pani Mayuki coś pomyliła?{\i0}
+Dialogue: 0,0:09:49.00,0:09:51.92,Default,,0,0,0,,{\i1}Pewnie coś źle zrozumiała.{\i0}
+Dialogue: 0,0:09:52.09,0:09:52.59,Default,,0,0,0,,{\i1}Tak.{\i0}
+Dialogue: 0,0:09:52.75,0:09:54.80,Default,,0,0,0,,{\a7}EKSCYTACJA
+Dialogue: 0,0:09:52.88,0:09:54.01,Default,,0,0,0,,{\a3}- Tak?\N- {\i1}Ale...{\i0}
+Dialogue: 0,0:09:54.17,0:09:54.80,Default,,0,0,0,,{\a3}Tak.
+Dialogue: 0,0:09:55.34,0:09:57.26,Default,,0,0,0,,Właśnie tak. Na pewno.
+Dialogue: 0,0:09:58.22,0:10:00.80,Default,,0,0,0,,{\i1}Skłamała, bo chciała się pośmiać.{\i0}
+Dialogue: 0,0:10:00.97,0:10:07.81,Default,,0,0,0,,{\a6}FASOLA
+Dialogue: 0,0:10:01.68,0:10:02.89,Default,,0,0,0,,{\i1}Początek gotowania.{\i0}
+Dialogue: 0,0:10:03.47,0:10:06.27,Default,,0,0,0,,Zebrałam wszystko, co może\Nposłużyć jako składniki!
+Dialogue: 0,0:10:06.43,0:10:07.81,Default,,0,0,0,,Jest ich aż tyle?
+Dialogue: 0,0:10:08.35,0:10:09.73,Default,,0,0,0,,To łosoś?
+Dialogue: 0,0:10:10.02,0:10:12.86,Default,,0,0,0,,Tak. Wybrałam środkowe\Nkawałki, żeby było taniej.
+Dialogue: 0,0:10:13.19,0:10:17.20,Default,,0,0,0,,Rozumiem. Widać, że\Ndobrze znasz się na kuchni!
+Dialogue: 0,0:10:17.90,0:10:19.82,Default,,0,0,0,,Ha. Nie tak dobrze jak ty.
+Dialogue: 0,0:10:20.16,0:10:21.62,Default,,0,0,0,,Arisu! Spójrz!
+Dialogue: 0,0:10:21.78,0:10:24.79,Default,,0,0,0,,Widzę. Wyglądają jak małżeństwo.
+Dialogue: 0,0:10:25.58,0:10:26.75,Default,,0,0,0,,{\i1}Degustacja.{\i0}
+Dialogue: 0,0:10:27.58,0:10:29.75,Default,,0,0,0,,Dobry wywar. Moja krew.
+Dialogue: 0,0:10:29.92,0:10:30.75,Default,,0,0,0,,Zgadzam się.
+Dialogue: 0,0:10:31.17,0:10:33.75,Default,,0,0,0,,Cała przewodnicząca... Świetnie smakuje.
+Dialogue: 0,0:10:33.92,0:10:34.80,Default,,0,0,0,,Ona?
+Dialogue: 0,0:10:35.21,0:10:38.13,Default,,0,0,0,,Tak ci ona smakuje?
+Dialogue: 0,0:10:37.17,0:10:39.26,Default,,0,0,0,,{\a6}CHICHOT
+Dialogue: 0,0:10:38.72,0:10:39.26,Default,,0,0,0,,Tak!
+Dialogue: 0,0:10:39.51,0:10:40.93,Default,,0,0,0,,Ha.
+Dialogue: 0,0:10:40.01,0:10:43.51,Default,,0,0,0,,{\a6}CHICHOT
+Dialogue: 0,0:10:41.80,0:10:42.89,Default,,0,0,0,,No tak.
+Dialogue: 0,0:10:43.93,0:10:44.68,Default,,0,0,0,,Ume.
+Dialogue: 0,0:10:45.02,0:10:46.14,Default,,0,0,0,,{\a3}Tak jest.
+Dialogue: 0,0:10:45.10,0:10:46.14,Default,,0,0,0,,{\a6}ZAKASAŁ\NRĘKAWY
+Dialogue: 0,0:10:46.35,0:10:47.52,Default,,0,0,0,,Uważajcie.
+Dialogue: 0,0:10:48.73,0:10:51.60,Default,,0,0,0,,{\a6}SZOK
+Dialogue: 0,0:10:48.89,0:10:50.81,Default,,0,0,0,,Arisu! Patrz!
+Dialogue: 0,0:10:50.98,0:10:51.60,Default,,0,0,0,,Widzę.
+Dialogue: 0,0:10:51.98,0:10:54.23,Default,,0,0,0,,Wygląda jak ich córeczka.
+Dialogue: 0,0:10:55.40,0:10:56.74,Default,,0,0,0,,Córeczka?
+Dialogue: 0,0:10:57.07,0:11:00.66,Default,,0,0,0,,Tak. To Komaro.\NNiektórzy tak ich nazywają.
+Dialogue: 0,0:11:00.82,0:11:04.87,Default,,0,0,0,,TYLKO ARISU
+Dialogue: 0,0:11:01.11,0:11:03.70,Default,,0,0,0,,{\a6}Mamusia Hisako, Tatuś Ume\Ni Córeczka Komaro.
+Dialogue: 0,0:11:04.28,0:11:07.29,Default,,0,0,0,,{\a6}To znaczy... Że to moja wnuczka?
+Dialogue: 0,0:11:07.45,0:11:09.21,Default,,0,0,0,,Tak, naturalnie.
+Dialogue: 0,0:11:09.37,0:11:10.25,Default,,0,0,0,,Hihi.
+Dialogue: 0,0:11:09.37,0:11:14.42,Default,,0,0,0,,{\a6}UŚMIECH
+Dialogue: 0,0:11:10.42,0:11:13.38,Default,,0,0,0,,Komaro! Chcesz pogotować razem z babcią?
+Dialogue: 0,0:11:13.71,0:11:14.42,Default,,0,0,0,,Tak.
+Dialogue: 0,0:11:14.59,0:11:18.13,Default,,0,0,0,,{\a6}PAC PAC
+Dialogue: 0,0:11:14.84,0:11:17.59,Default,,0,0,0,,{\a1}Pac, pac.
+Dialogue: 0,0:11:18.47,0:11:22.47,Default,,0,0,0,,Komaro, jak będziesz ugniatać\Nw ten sposób, wyjdą ładniejsze.
+Dialogue: 0,0:11:24.10,0:11:26.68,Default,,0,0,0,,Właśnie tak, pod kątem prostym.
+Dialogue: 0,0:11:27.47,0:11:29.10,Default,,0,0,0,,Rozumiem.
+Dialogue: 0,0:11:31.52,0:11:33.27,Default,,0,0,0,,Tak to jest mieć wnuczkę?
+Dialogue: 0,0:11:33.44,0:11:34.19,Default,,0,0,0,,{\a7}WIEPRZOWINA, ŁOSOŚ,\NPIERŚ Z KURCZAKA
+Dialogue: 0,0:11:33.98,0:11:35.32,Default,,0,0,0,,Gotowe!
+Dialogue: 0,0:11:34.36,0:11:35.36,Default,,0,0,0,,{\a7}CEBULA I NATTO, KAŁAMARNICA,\NSKWARKI I SZCZYPIOR
+Dialogue: 0,0:11:35.73,0:11:36.82,Default,,0,0,0,,Śliczne.
+Dialogue: 0,0:11:37.15,0:11:38.40,Default,,0,0,0,,Pysznie wyglądają.
+Dialogue: 0,0:11:38.57,0:11:39.82,Default,,0,0,0,,Nieźle, co?
+Dialogue: 0,0:11:39.99,0:11:41.36,Default,,0,0,0,,No to zaczynajmy!
+Dialogue: 0,0:11:41.57,0:11:42.07,Default,,0,0,0,,Tak!
+Dialogue: 0,0:11:43.45,0:11:44.78,Default,,0,0,0,,Smacznego!
+Dialogue: 0,0:11:45.16,0:11:47.95,Default,,0,0,0,,Pycha! Świetne wykończenie!
+Dialogue: 0,0:11:48.79,0:11:49.79,Default,,0,0,0,,Cieszę się!
+Dialogue: 0,0:11:50.62,0:11:52.17,Default,,0,0,0,,Koma, ubrudziłaś się.
+Dialogue: 0,0:11:52.33,0:11:53.38,Default,,0,0,0,,Dziękuję.
+Dialogue: 0,0:11:53.75,0:11:55.46,Default,,0,0,0,,Arisu. To...
+Dialogue: 0,0:11:55.75,0:11:56.34,Default,,0,0,0,,Tak.
+Dialogue: 0,0:11:56.80,0:11:58.46,Default,,0,0,0,,Jak w dwupokoleniowym domu.
+Dialogue: 0,0:11:58.63,0:12:00.59,Default,,0,0,0,,Wiedziałam! I co teraz?
+Dialogue: 0,0:12:01.34,0:12:03.26,Default,,0,0,0,,Dziękujemy za dzisiaj.
+Dialogue: 0,0:12:03.55,0:12:06.68,Default,,0,0,0,,Dzięki waszej dwójce,\Nudało nam się ruszyć do przodu!
+Dialogue: 0,0:12:07.01,0:12:09.06,Default,,0,0,0,,Nie, to zasługa wszystkich.
+Dialogue: 0,0:12:09.22,0:12:11.14,Default,,0,0,0,,Nie ma sprawy.
+Dialogue: 0,0:12:12.27,0:12:13.40,Default,,0,0,0,,A, pani Mayuki.
+Dialogue: 0,0:12:15.23,0:12:19.61,Default,,0,0,0,,{\a6}Następnym razem chętnie\Nspróbuję pani potraw.
+Dialogue: 0,0:12:19.40,0:12:19.90,Default,,0,0,0,,{\a3}MÓWI O WIZYCIE\NW RESTAURACJI
+Dialogue: 0,0:12:23.03,0:12:25.53,Default,,0,0,0,,{\a7}RESTAURACJA KOTOBUKI
+Dialogue: 0,0:12:23.66,0:12:25.37,Default,,0,0,0,,Mężu...
+Dialogue: 0,0:12:25.87,0:12:29.70,Default,,0,0,0,,Dzisiaj dowiedziałam się, że mam\Nwnuczkę i ktoś wyznał mi miłość!
+Dialogue: 0,0:12:30.00,0:12:38.84,Default,,0,0,0,,{\a6}EVEN THE STUDENT COUNCIL\NHAS ITS HOLES
+Dialogue: 0,0:12:30.54,0:12:34.25,Default,,0,0,0,,{\i1}Gdy 18-letnia Mayuki wyszła\Nza 25-letniego męża,{\i0}
+Dialogue: 0,0:12:34.62,0:12:38.29,Default,,0,0,0,,{\i1}rzuciła pracę i przejęła\Nrodzinny biznes.{\i0}
+Dialogue: 0,0:12:39.75,0:12:40.42,Default,,0,0,0,,W porządku.
+Dialogue: 0,0:12:40.59,0:12:44.76,Default,,0,0,0,,{\a6}{\i1}Menu{\i0}
+Dialogue: 0,0:12:40.88,0:12:43.17,Default,,0,0,0,,Mamy to! Projekt produkcji onigiri!
+Dialogue: 0,0:12:43.63,0:12:46.85,Default,,0,0,0,,Udało się go przygotować\Ndzięki przewodniczącej i pani Mayuki.
+Dialogue: 0,0:12:47.18,0:12:49.56,Default,,0,0,0,,Zgodzili się na zająć produkcją,
+Dialogue: 0,0:12:49.76,0:12:51.56,Default,,0,0,0,,więc mamy u nich dług wdzięczności.
+Dialogue: 0,0:12:51.93,0:12:55.10,Default,,0,0,0,,{\i1}Nie przejmuj się. Dla mojego\NUme i wnusi zrobię wszystko!{\i0}
+Dialogue: 0,0:12:55.27,0:12:57.61,Default,,0,0,0,,- {\i1}Reklamą też się zajmę!\N{\i0}- {\i1}Wnusi?{\i0}
+Dialogue: 0,0:12:58.02,0:13:00.40,Default,,0,0,0,,Wliczając pracę,\Nwychodzi 70 jenów za sztukę.
+Dialogue: 0,0:13:00.78,0:13:03.70,Default,,0,0,0,,W ten sposób damy radę\Nspełnić marzenie Komaro!
+Dialogue: 0,0:13:03.86,0:13:05.32,Default,,0,0,0,,Każdy kupi tak tanie onigiri.
+Dialogue: 0,0:13:05.74,0:13:08.16,Default,,0,0,0,,Teraz potrzebujemy pomysłu na sprzedaż.
+Dialogue: 0,0:13:08.62,0:13:09.91,Default,,0,0,0,,POKÓJ SŁUŻBOWY
+Dialogue: 0,0:13:10.08,0:13:13.00,Default,,0,0,0,,{\a6}PRACOWNICA\NYOSHINO SAEGUSA
+Dialogue: 0,0:13:10.45,0:13:13.00,Default,,0,0,0,,{\a3}Może być z tym problem.
+Dialogue: 0,0:13:15.25,0:13:15.96,Default,,0,0,0,,Dlaczego?
+Dialogue: 0,0:13:16.29,0:13:19.88,Default,,0,0,0,,Dział sprzedaży ma umowę\Nz zewnętrznymi firmami.
+Dialogue: 0,0:13:20.05,0:13:23.38,Default,,0,0,0,,Więc ingerencja uczniów\Njest nieodpowiednia.
+Dialogue: 0,0:13:23.63,0:13:26.51,Default,,0,0,0,,Nasza szkoła ceni niezależność uczniów
+Dialogue: 0,0:13:26.93,0:13:30.10,Default,,0,0,0,,i powinna wspierać\Ntakie projekty, prawda?
+Dialogue: 0,0:13:30.43,0:13:32.31,Default,,0,0,0,,Myślę, że to dobry pomysł.
+Dialogue: 0,0:13:32.77,0:13:35.48,Default,,0,0,0,,Opracowaliśmy już konkretne menu.
+Dialogue: 0,0:13:35.64,0:13:38.98,Default,,0,0,0,,Wiem, wiem. Rozumiem wasz zapał.
+Dialogue: 0,0:13:39.52,0:13:42.40,Default,,0,0,0,,Ale co jeśli inne rzeczy\Nprzestaną się sprzedawać?
+Dialogue: 0,0:13:42.86,0:13:47.36,Default,,0,0,0,,Gospodarka kuleje...\NTo problem dla naszych kontrahentów.
+Dialogue: 0,0:13:48.03,0:13:48.82,Default,,0,0,0,,Cóż...
+Dialogue: 0,0:13:49.24,0:13:52.58,Default,,0,0,0,,Na marginesie, jeśli chodzi\No ceny na stołówce,
+Dialogue: 0,0:13:52.74,0:13:57.04,Default,,0,0,0,,są wyższe niż średnia rynkowa, prawda?\NWiadomo dlaczego tak jest?
+Dialogue: 0,0:13:58.38,0:14:01.59,Default,,0,0,0,,Faktycznie, może są trochę wyższe.
+Dialogue: 0,0:14:01.96,0:14:04.88,Default,,0,0,0,,Ale ceny zależą od\Nproduktów i lokalizacji,
+Dialogue: 0,0:14:05.05,0:14:07.93,Default,,0,0,0,,więc to producent ustala ceny?\NNie znam się.
+Dialogue: 0,0:14:08.59,0:14:10.68,Default,,0,0,0,,Więc, wybaczcie.
+Dialogue: 0,0:14:11.01,0:14:11.72,Default,,0,0,0,,Przepraszam.
+Dialogue: 0,0:14:12.22,0:14:14.43,Default,,0,0,0,,Przepraszam, ten dokument...
+Dialogue: 0,0:14:17.02,0:14:18.35,Default,,0,0,0,,No to kłopot...
+Dialogue: 0,0:14:18.56,0:14:19.60,Default,,0,0,0,,Tak...
+Dialogue: 0,0:14:19.94,0:14:22.32,Default,,0,0,0,,Może jest inny sposób?
+Dialogue: 0,0:14:22.61,0:14:24.44,Default,,0,0,0,,Taki, na którym nikt nie straci...
+Dialogue: 0,0:14:24.61,0:14:27.32,Default,,0,0,0,,Jakiś trik, jakiś cud...
+Dialogue: 0,0:14:28.07,0:14:29.95,Default,,0,0,0,,{\a6}Wpadnę na coś przed końcem zajęć...
+Dialogue: 0,0:14:29.61,0:14:30.95,Default,,0,0,0,,ZASPANA
+Dialogue: 0,0:14:31.12,0:14:33.16,Default,,0,0,0,,{\a5}ROZKŁADANIE
+Dialogue: 0,0:14:31.32,0:14:32.20,Default,,0,0,0,,Michinoku?
+Dialogue: 0,0:14:32.49,0:14:33.16,Default,,0,0,0,,Hej.
+Dialogue: 0,0:14:33.70,0:14:36.37,Default,,0,0,0,,Kiedy ty... Chwila, co to za materiał?
+Dialogue: 0,0:14:36.54,0:14:37.87,Default,,0,0,0,,Nasze próbki.
+Dialogue: 0,0:14:38.83,0:14:42.00,Default,,0,0,0,,Dałam je klubowi baseballa.\NMówili, że pyszne.
+Dialogue: 0,0:14:42.92,0:14:44.67,Default,,0,0,0,,To... bardzo dobrze.
+Dialogue: 0,0:14:45.05,0:14:47.80,Default,,0,0,0,,Zrobiłam ich trzydzieści.
+Dialogue: 0,0:14:47.97,0:14:48.84,Default,,0,0,0,,Aż tyle?
+Dialogue: 0,0:14:49.26,0:14:51.76,Default,,0,0,0,,- Wyszły w pół minuty.\N- {\i1}Biały ryż i farsz?{\i0}
+Dialogue: 0,0:14:51.93,0:14:53.10,Default,,0,0,0,,- {\i1}Pyszne!\N{\i0}- {\i1}Głodni...{\i0}
+Dialogue: 0,0:14:53.60,0:14:54.97,Default,,0,0,0,,A tak w ogóle...
+Dialogue: 0,0:14:56.39,0:14:58.31,Default,,0,0,0,,Komaro, a twój obiad?
+Dialogue: 0,0:14:58.56,0:15:00.44,Default,,0,0,0,,Zapomniałam.
+Dialogue: 0,0:15:00.65,0:15:02.81,Default,,0,0,0,,A zrobiłaś 30 onigiri...
+Dialogue: 0,0:15:03.15,0:15:05.28,Default,,0,0,0,,No nic, podzielę się swoim.
+Dialogue: 0,0:15:05.44,0:15:09.28,Default,,0,0,0,,Ume, czy moje onigiri sprawia ci...\Nproblem?
+Dialogue: 0,0:15:12.53,0:15:13.41,Default,,0,0,0,,Tak.
+Dialogue: 0,0:15:15.12,0:15:18.00,Default,,0,0,0,,Ale dopiero porozmawiałem\Nz działem sprzedaży.
+Dialogue: 0,0:15:18.20,0:15:19.83,Default,,0,0,0,,Trafiłem po prostu na ścianę...
+Dialogue: 0,0:15:20.00,0:15:22.17,Default,,0,0,0,,Ale niedługo sobie z tym poradzę...
+Dialogue: 0,0:15:26.34,0:15:27.46,Default,,0,0,0,,Przepraszam.
+Dialogue: 0,0:15:32.01,0:15:32.55,Default,,0,0,0,,Nie.
+Dialogue: 0,0:15:33.22,0:15:34.97,Default,,0,0,0,,Nie masz za co.
+Dialogue: 0,0:15:35.31,0:15:37.64,Default,,0,0,0,,Dopiero spotkaliśmy się\Nz nimi pierwszy raz.
+Dialogue: 0,0:15:38.02,0:15:40.98,Default,,0,0,0,,A ja znam się na negocjacji.
+Dialogue: 0,0:15:41.44,0:15:43.77,Default,,0,0,0,,Jak z nimi znów porozmawiam, to się uda.
+Dialogue: 0,0:15:44.40,0:15:46.52,Default,,0,0,0,,Jeśli powiem im wszystko...
+Dialogue: 0,0:15:46.98,0:15:48.86,Default,,0,0,0,,{\a3}{\i1}Sprzedam je po 40 jenów...{\i0}
+Dialogue: 0,0:15:47.82,0:15:48.53,Default,,0,0,0,,{\a6}UŚMIECH
+Dialogue: 0,0:15:49.40,0:15:52.03,Default,,0,0,0,,{\i1}Skoro dostałam szansę...{\i0}
+Dialogue: 0,0:15:56.91,0:15:58.95,Default,,0,0,0,,Na pewno nam się uda!
+Dialogue: 0,0:16:03.21,0:16:04.08,Default,,0,0,0,,Ume.
+Dialogue: 0,0:16:05.34,0:16:08.59,Default,,0,0,0,,Masz rację. Na pewno {\i1}nam{\i0} się uda.
+Dialogue: 0,0:16:09.05,0:16:10.72,Default,,0,0,0,,{\i1}Arisu? Co tam?{\i0}
+Dialogue: 0,0:16:11.17,0:16:13.97,Default,,0,0,0,,To jak? Pora na cud?
+Dialogue: 0,0:16:13.64,0:16:14.68,Default,,0,0,0,,{\a6}WIERSZYK?
+Dialogue: 0,0:16:14.84,0:16:18.77,Default,,0,0,0,,{\a6}EVEN THE STUDENT COUNCIL\NHAS ITS HOLES
+Dialogue: 0,0:16:18.93,0:16:20.10,Default,,0,0,0,,POKÓJ SŁUŻBOWY
+Dialogue: 0,0:16:22.35,0:16:23.23,Default,,0,0,0,,Przepraszam.
+Dialogue: 0,0:16:23.52,0:16:24.56,Default,,0,0,0,,Tak, słucham.
+Dialogue: 0,0:16:24.90,0:16:25.52,Default,,0,0,0,,Och.
+Dialogue: 0,0:16:26.06,0:16:27.77,Default,,0,0,0,,To wy.
+Dialogue: 0,0:16:27.98,0:16:30.61,Default,,0,0,0,,Możemy prosić o momencik?
+Dialogue: 0,0:16:31.78,0:16:35.12,Default,,0,0,0,,Administracja ma dzisiaj wolne.\NMoże przyjdziecie...
+Dialogue: 0,0:16:37.58,0:16:40.87,Default,,0,0,0,,Pieniądze ze sprzedaży...\NDefrauduje je pani, prawda?
+Dialogue: 0,0:16:39.12,0:16:41.66,Default,,0,0,0,,{\a6}DO PANI SAEGUSA\NDZIĘKUJEMY ZA WSPÓŁPRACĘ
+Dialogue: 0,0:16:43.62,0:16:49.88,Default,,0,0,0,,{\a6}POKÓJ SAMORZĄDU
+Dialogue: 0,0:16:43.96,0:16:44.87,Default,,0,0,0,,{\i1}Defraudacja?{\i0}
+Dialogue: 0,0:16:45.13,0:16:45.79,Default,,0,0,0,,{\i1}Tak.{\i0}
+Dialogue: 0,0:16:46.04,0:16:49.80,Default,,0,0,0,,{\i1}Chleb z naszej stołówki.\NJuż dawno jest drogi, prawda?{\i0}
+Dialogue: 0,0:16:50.05,0:16:53.13,Default,,0,0,0,,DO PANI SAEGUSA
+Dialogue: 0,0:16:50.42,0:16:51.84,Default,,0,0,0,,{\a6}{\i1}Oto powód.{\i0}
+Dialogue: 0,0:16:52.01,0:16:53.13,Default,,0,0,0,,{\a6}{\i1}Karty podarunkowe?{\i0}
+Dialogue: 0,0:16:53.55,0:16:55.84,Default,,0,0,0,,{\i1}Wygląda na to, że ona się dogadała,{\i0}
+Dialogue: 0,0:16:56.14,0:17:00.02,Default,,0,0,0,,{\i1}ale zamiast podpisania umowy,\Nwzięła karty podarunkowe.{\i0}
+Dialogue: 0,0:17:00.77,0:17:01.89,Default,,0,0,0,,{\i1}Podłość...{\i0}
+Dialogue: 0,0:17:02.60,0:17:03.35,Default,,0,0,0,,{\i1}Ale...{\i0}
+Dialogue: 0,0:17:03.89,0:17:05.35,Default,,0,0,0,,{\i1}Jeśli o tym powiemy...{\i0}
+Dialogue: 0,0:17:05.85,0:17:07.65,Default,,0,0,0,,NADĘCIE
+Dialogue: 0,0:17:08.69,0:17:09.90,Default,,0,0,0,,Wkurzacie mnie.
+Dialogue: 0,0:17:10.44,0:17:14.99,Default,,0,0,0,,Myślałam, że coś na mnie macie,\Na to zwykły przypadek.
+Dialogue: 0,0:17:15.16,0:17:18.45,Default,,0,0,0,,Przypadek! Po prostu\Nzapomniałam to wpisać do raportu.
+Dialogue: 0,0:17:18.62,0:17:20.74,Default,,0,0,0,,Ale to żaden problem.
+Dialogue: 0,0:17:20.91,0:17:22.58,Default,,0,0,0,,Nie mogę cię słuchać.
+Dialogue: 0,0:17:23.00,0:17:25.42,Default,,0,0,0,,Naprawdę jesteście tacy głupi?
+Dialogue: 0,0:17:23.46,0:17:25.04,Default,,0,0,0,,{\a6}STUK STUK
+Dialogue: 0,0:17:25.75,0:17:29.17,Default,,0,0,0,,Jestem naprawdę lubiana\Nwśród nauczycieli.
+Dialogue: 0,0:17:29.46,0:17:30.88,Default,,0,0,0,,Nie wiecie o tym?
+Dialogue: 0,0:17:31.34,0:17:32.26,Default,,0,0,0,,O nie...
+Dialogue: 0,0:17:32.42,0:17:34.34,Default,,0,0,0,,Nie wiem, jak to zrobiliście,
+Dialogue: 0,0:17:34.51,0:17:35.47,Default,,0,0,0,,{\a6}SZUR
+Dialogue: 0,0:17:34.76,0:17:36.80,Default,,0,0,0,,ale musieliście mi się włamać na maila.
+Dialogue: 0,0:17:36.97,0:17:39.80,Default,,0,0,0,,Pozwólcie, że opowiem\No tym reszcie kadry.
+Dialogue: 0,0:17:40.64,0:17:42.89,Default,,0,0,0,,Co za... Jak tak dalej pójdzie...
+Dialogue: 0,0:17:43.06,0:17:44.73,Default,,0,0,0,,Chyba nie mamy wyjścia.
+Dialogue: 0,0:17:46.44,0:17:48.94,Default,,0,0,0,,„Ach, chciałabym zrobić\N*** panu Tanace.”
+Dialogue: 0,0:17:50.44,0:17:51.19,Default,,0,0,0,,Terui?
+Dialogue: 0,0:17:51.36,0:17:54.15,Default,,0,0,0,,„Łysina dyrektora jest tak piękna,\Nże aż się kłaniam.”
+Dialogue: 0,0:17:54.32,0:17:58.74,Default,,0,0,0,,„Gdy spojrzała się na mnie małpa,\Npoprawiłam biust. Podniecające.”
+Dialogue: 0,0:17:58.91,0:18:01.41,Default,,0,0,0,,„W tej szkole faceci mają wielkie ***.\NCudownie.”
+Dialogue: 0,0:18:01.91,0:18:04.04,Default,,0,0,0,,Większość zapostowała pani późno w nocy.
+Dialogue: 0,0:18:04.20,0:18:06.67,Default,,0,0,0,,Po alkoholu robi się pani samotna?
+Dialogue: 0,0:18:07.29,0:18:08.17,Default,,0,0,0,,Czyli to są jej...
+Dialogue: 0,0:18:10.59,0:18:13.88,Default,,0,0,0,,- Ale skąd ty...\N- Musi pani bardziej uważać.
+Dialogue: 0,0:18:14.05,0:18:16.59,Default,,0,0,0,,Lokalne marki łatwo rozpoznać, więc...
+Dialogue: 0,0:18:16.97,0:18:21.30,Default,,0,0,0,,Jeszcze to. „Pe**s, siu**ak, ***as”...
+Dialogue: 0,0:18:21.55,0:18:22.43,Default,,0,0,0,,Och!
+Dialogue: 0,0:18:23.14,0:18:27.23,Default,,0,0,0,,Niby taka piękna, ale\Nnikt z nią do łóżka nie pójdzie...
+Dialogue: 0,0:18:29.23,0:18:47.29,Default,,0,0,0,,{\a1}WSTYD
+Dialogue: 0,0:18:29.44,0:18:32.40,Default,,0,0,0,,{\a6}To jak, powie pani kadrze?
+Dialogue: 0,0:18:33.07,0:18:34.44,Default,,0,0,0,,{\a6}Nic nie powiem.
+Dialogue: 0,0:18:34.61,0:18:36.78,Default,,0,0,0,,{\a6}Będziemy mogli sprzedać onigiri?
+Dialogue: 0,0:18:37.15,0:18:38.49,Default,,0,0,0,,{\a6}Tak.
+Dialogue: 0,0:18:38.66,0:18:41.32,Default,,0,0,0,,{\a6}I będzie nas pani teraz słuchać?
+Dialogue: 0,0:18:41.49,0:18:42.45,Default,,0,0,0,,{\a6}Będę.
+Dialogue: 0,0:18:42.74,0:18:43.41,Default,,0,0,0,,{\a6}No już.
+Dialogue: 0,0:18:43.58,0:18:47.29,Default,,0,0,0,,{\a6}{\i1}Mizunoe uznał, że nigdy\Nnie chce mieć Arisu za wroga.{\i0}
+Dialogue: 0,0:18:47.46,0:18:55.30,Default,,0,0,0,,{\a6}EVEN THE STUDENT COUNCIL\NHAS ITS HOLES
+Dialogue: 0,0:18:48.04,0:18:49.37,Default,,0,0,0,,Przepraszam.
+Dialogue: 0,0:18:49.54,0:18:51.84,Default,,0,0,0,,Czego... Tak, słucham?
+Dialogue: 0,0:18:52.54,0:18:53.42,Default,,0,0,0,,Hę?
+Dialogue: 0,0:18:53.59,0:18:55.30,Default,,0,0,0,,Mam dużo do dźwigania...
+Dialogue: 0,0:18:56.21,0:18:57.76,Default,,0,0,0,,Pomoże mi pani?
+Dialogue: 0,0:18:59.18,0:19:00.01,Default,,0,0,0,,DZIAŁ SPRZEDAŻY
+Dialogue: 0,0:19:00.30,0:19:01.64,Default,,0,0,0,,W końcu!
+Dialogue: 0,0:19:01.80,0:19:04.97,Default,,0,0,0,,{\i1}Trzypokoleniowe onigiri{\i0}
+Dialogue: 0,0:19:02.18,0:19:03.56,Default,,0,0,0,,{\a6}Nasze stoisko z onigiri!
+Dialogue: 0,0:19:03.72,0:19:04.97,Default,,0,0,0,,{\a6}Sukces!
+Dialogue: 0,0:19:05.35,0:19:09.56,Default,,0,0,0,,Mayuki nazwała je trzypokoleniowym...\NNie wiem dlaczego, ale brzmi dobrze!
+Dialogue: 0,0:19:09.94,0:19:11.48,Default,,0,0,0,,Sama ulepiłam!
+Dialogue: 0,0:19:11.65,0:19:13.31,Default,,0,0,0,,Trzypokoleniowe onigiri...
+Dialogue: 0,0:19:13.48,0:19:16.03,Default,,0,0,0,,Wolałam Komaronigiri...
+Dialogue: 0,0:19:17.24,0:19:17.99,Default,,0,0,0,,A tak w ogóle...
+Dialogue: 0,0:19:18.15,0:19:23.45,Default,,0,0,0,,{\a6}KASJERKA
+Dialogue: 0,0:19:18.36,0:19:20.91,Default,,0,0,0,,Pani Saegusa zgodziła się\Nzostać kasjerką, dzięki!
+Dialogue: 0,0:19:21.07,0:19:23.45,Default,,0,0,0,,Zamknij się. Nie mów tak do mnie.
+Dialogue: 0,0:19:23.95,0:19:25.58,Default,,0,0,0,,Dlaczego mnie to spotyka?
+Dialogue: 0,0:19:25.74,0:19:27.66,Default,,0,0,0,,Nie mamy wielu rąk do pracy...
+Dialogue: 0,0:19:27.83,0:19:35.13,Default,,0,0,0,,{\a6}ONIGIRI
+Dialogue: 0,0:19:28.12,0:19:31.00,Default,,0,0,0,,Nie ma kogoś bardziej odpowiedniego?
+Dialogue: 0,0:19:31.17,0:19:33.79,Default,,0,0,0,,Jestem absolwentką\Npaństwowego uniwersytetu.
+Dialogue: 0,0:19:33.96,0:19:35.13,Default,,0,0,0,,Racja.
+Dialogue: 0,0:19:35.34,0:19:37.67,Default,,0,0,0,,Nas też może pani okraść...
+Dialogue: 0,0:19:37.84,0:19:39.34,Default,,0,0,0,,Nie okradnę! Cisza!
+Dialogue: 0,0:19:39.51,0:19:46.22,Default,,0,0,0,,{\a6}ONIGIRI
+Dialogue: 0,0:19:40.09,0:19:42.84,Default,,0,0,0,,Brakuje mi 10-jenówek do wydania reszty!
+Dialogue: 0,0:19:43.01,0:19:43.80,Default,,0,0,0,,Proszę.
+Dialogue: 0,0:19:43.97,0:19:45.97,Default,,0,0,0,,Mimo wszystko się stara.
+Dialogue: 0,0:19:46.39,0:19:52.23,Default,,0,0,0,,{\a5}DUDNIENIE
+Dialogue: 0,0:19:46.93,0:19:47.81,Default,,0,0,0,,{\i1}Otwarcie.{\i0}
+Dialogue: 0,0:19:48.39,0:19:50.44,Default,,0,0,0,,Ruszyło? Musimy coś kupić!
+Dialogue: 0,0:19:50.60,0:19:52.23,Default,,0,0,0,,- O, klub pływacki!\N- Nasz wkład!
+Dialogue: 0,0:19:53.06,0:19:55.90,Default,,0,0,0,,Pycha! Musimy wszystko wykupić!
+Dialogue: 0,0:19:56.07,0:19:57.07,Default,,0,0,0,,Dziękujemy bardzo!
+Dialogue: 0,0:19:57.23,0:19:59.24,Default,,0,0,0,,TYLKO TYLE
+Dialogue: 0,0:20:00.36,0:20:01.49,Default,,0,0,0,,Zapisać wam na kreskę?
+Dialogue: 0,0:20:01.65,0:20:02.66,Default,,0,0,0,,- Hurra!\N- Hej.
+Dialogue: 0,0:20:02.82,0:20:03.82,Default,,0,0,0,,Cześć.
+Dialogue: 0,0:20:04.20,0:20:05.45,Default,,0,0,0,,Co tu robicie?
+Dialogue: 0,0:20:05.62,0:20:07.99,Default,,0,0,0,,Sprzedajemy onigiri z naszej inicjatywy.
+Dialogue: 0,0:20:09.70,0:20:10.91,Default,,0,0,0,,To wezmę dwa.
+Dialogue: 0,0:20:11.58,0:20:13.00,Default,,0,0,0,,Powodzenia.
+Dialogue: 0,0:20:13.17,0:20:14.63,Default,,0,0,0,,Dziękujemy!
+Dialogue: 0,0:20:15.13,0:20:18.13,Default,,0,0,0,,Kupiła już sobie bułkę.
+Dialogue: 0,0:20:18.30,0:20:21.09,Default,,0,0,0,,Chce im pomóc? Ale się popisuje...
+Dialogue: 0,0:20:21.26,0:20:22.68,Default,,0,0,0,,{\i1}Nie mówcie tak...{\i0}
+Dialogue: 0,0:20:23.13,0:20:24.97,Default,,0,0,0,,Zebrał się tłum.
+Dialogue: 0,0:20:25.14,0:20:26.85,Default,,0,0,0,,To świetnie, prawda, Komaro?
+Dialogue: 0,0:20:27.14,0:20:28.47,Default,,0,0,0,,Hej, Ume.
+Dialogue: 0,0:20:28.85,0:20:30.48,Default,,0,0,0,,Mogę dostać trzy?
+Dialogue: 0,0:20:30.73,0:20:31.60,Default,,0,0,0,,Batsunosuke?
+Dialogue: 0,0:20:31.98,0:20:34.27,Default,,0,0,0,,Aż trzy? No pewnie! Dzięki.
+Dialogue: 0,0:20:34.44,0:20:35.36,Default,,0,0,0,,Nie ma za co.
+Dialogue: 0,0:20:35.56,0:20:38.94,Default,,0,0,0,,Biorę też dla robotyków...
+Dialogue: 0,0:20:39.32,0:20:40.99,Default,,0,0,0,,Przepraszam.
+Dialogue: 0,0:20:41.19,0:20:44.61,Default,,0,0,0,,Kupowanie za innych to oszustwo, prawda?
+Dialogue: 0,0:20:44.78,0:20:47.87,Default,,0,0,0,,Poza tym trzy to chyba za dużo...
+Dialogue: 0,0:20:48.03,0:20:49.20,Default,,0,0,0,,To będzie 210 jenów.
+Dialogue: 0,0:20:49.58,0:20:52.12,Default,,0,0,0,,{\a6}SZARŻA
+Dialogue: 0,0:20:50.54,0:20:52.12,Default,,0,0,0,,- Onigiri!\N- Klub baseballa!
+Dialogue: 0,0:20:52.37,0:20:54.08,Default,,0,0,0,,- Wezmę pięć!\N- Ja sześć!
+Dialogue: 0,0:20:54.25,0:20:55.08,Default,,0,0,0,,Dobrze!
+Dialogue: 0,0:20:55.25,0:20:57.09,Default,,0,0,0,,- Pyszne!\N- Cudowne!
+Dialogue: 0,0:20:55.25,0:20:57.09,Default,,0,0,0,,{\a6}WCINAJĄ ZE SMAKIEM
+Dialogue: 0,0:20:57.46,0:20:58.88,Default,,0,0,0,,Ten ryż... Pycha.
+Dialogue: 0,0:20:59.09,0:21:00.51,Default,,0,0,0,,Muszę jeść więcej...
+Dialogue: 0,0:21:00.67,0:21:01.80,Default,,0,0,0,,{\i1}Głodują?{\i0}
+Dialogue: 0,0:21:02.17,0:21:02.67,Default,,0,0,0,,{\a6}HAPS
+Dialogue: 0,0:21:02.72,0:21:04.13,Default,,0,0,0,,Dobre są.
+Dialogue: 0,0:21:04.30,0:21:05.01,Default,,0,0,0,,Proszę pani!
+Dialogue: 0,0:21:05.18,0:21:08.72,Default,,0,0,0,,Jeszcze w dobrej cenie. Powodzi się wam.
+Dialogue: 0,0:21:05.18,0:21:08.72,Default,,0,0,0,,{\a6}{\i1}Wieprzowina{\i0}
+Dialogue: 0,0:21:09.22,0:21:13.44,Default,,0,0,0,,Do tego przegadaliście\Nbabkę z administracji... Nieźle.
+Dialogue: 0,0:21:10.39,0:21:13.44,Default,,0,0,0,,{\a6}SZELEST
+Dialogue: 0,0:21:13.60,0:21:16.15,Default,,0,0,0,,- Też was wesprę.\N- A co z zapłatą?
+Dialogue: 0,0:21:16.31,0:21:18.48,Default,,0,0,0,,- Ma coś z głową?\N- Powodzenia!
+Dialogue: 0,0:21:19.32,0:21:22.49,Default,,0,0,0,,RESTAURACJA KOTOBUKI
+Dialogue: 0,0:21:19.44,0:21:21.40,Default,,0,0,0,,{\a6}Wszystko wyprzedane!
+Dialogue: 0,0:21:21.57,0:21:22.49,Default,,0,0,0,,{\a6}Serio!
+Dialogue: 0,0:21:22.99,0:21:25.03,Default,,0,0,0,,Ale to było męczące...
+Dialogue: 0,0:21:25.20,0:21:28.20,Default,,0,0,0,,Fakt. Komaro, zaraz możemy odpocząć...
+Dialogue: 0,0:21:28.37,0:21:29.66,Default,,0,0,0,,Onigiri?
+Dialogue: 0,0:21:30.24,0:21:32.50,Default,,0,0,0,,Dobre! Mogę je kupić?
+Dialogue: 0,0:21:32.66,0:21:33.37,Default,,0,0,0,,Tak.
+Dialogue: 0,0:21:33.79,0:21:37.13,Default,,0,0,0,,- Dalej sprzedajemy, więc śmiało.\N- Dobrze!
+Dialogue: 0,0:21:43.47,0:21:45.51,Default,,0,0,0,,Dobrze, że się udało.
+Dialogue: 0,0:21:46.22,0:21:46.80,Default,,0,0,0,,Tak.
+Dialogue: 0,0:21:47.43,0:21:52.68,Default,,0,0,0,,{\a6}BUŁKA
+Dialogue: 0,0:21:47.55,0:21:48.72,Default,,0,0,0,,A ta bułka?
+Dialogue: 0,0:21:48.89,0:21:50.64,Default,,0,0,0,,Nie chcę. Sama zjedz.
+Dialogue: 0,0:21:50.81,0:21:52.72,Default,,0,0,0,,Już się nie popisuj.
+Dialogue: 0,0:21:52.89,0:21:54.43,Default,,0,0,0,,Ale jestem pełna.
+Dialogue: 0,0:21:54.60,0:21:56.31,Default,,0,0,0,,Masz jeszcze dolne usta.
+Dialogue: 0,0:21:54.60,0:21:58.94,Default,,0,0,0,,{\a6}HAHAHA
+Dialogue: 0,0:21:56.48,0:21:57.98,Default,,0,0,0,,Haha, o fuj!
+Dialogue: 0,0:21:59.11,0:22:04.82,Default,,0,0,0,,{\a6}PÓŹNIEJ ZJADŁA ZE SMAKIEM
+Dialogue: 0,0:21:59.19,0:22:00.82,Default,,0,0,0,,Będziesz nimi coś jadła?
+Dialogue: 0,0:22:00.98,0:22:02.94,Default,,0,0,0,,Chyba musimy ci pomóc!
+Dialogue: 0,0:22:03.11,0:22:04.74,Default,,0,0,0,,Wezmę na wynos.
+Dialogue: 0,0:22:16.67,0:22:19.54,Default,,0,0,0,,Ume Mizunoe: Shogo Sakata\NSatomi Hiratsuka: Yumi Uchiyama
+Dialogue: 0,0:22:20.21,0:22:22.67,Default,,0,0,0,,Arisu Terui: Shizuka Ishigami\NHisako Kotobuki: Haruka Shiraishi
+Dialogue: 0,0:22:22.84,0:22:25.92,Default,,0,0,0,,Tan Otori: Hiyori Kono\NSatomi Hiratsuka: Yumi Uchiyama
+Dialogue: 0,0:23:28.49,0:23:30.28,Default,,0,0,0,,Tłumaczenie: Bartłomiej Sowa
+Dialogue: 0,0:23:33.70,0:23:34.83,Default,,0,0,0,,Synchronizacja napisów: Baptiste Martin\NKorekta: Weronika Gotowicz; FORCE MEDIA
+Dialogue: 0,0:23:34.99,0:23:35.83,Default,,0,0,0,,ZAPOWIEDŹ ODCINKA
+Dialogue: 0,0:23:35.99,0:23:39.96,Default,,0,0,0,,{\a6}ŚWIAT SATOMI, PORZĄDKI I PIERSI,\NODLATUJ BÓLU, UME PODRYWACZ,\NINTRYGA TANA, JEŚLI SIĘ ZBIERZEMY
+
