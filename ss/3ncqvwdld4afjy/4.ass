@@ -1,0 +1,403 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_C_Tim,Times New Roman,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.31,0:00:04.94,Cart_A_Tim,CARTEL,0,0,0,,{\fad(400,0)\an9\bord1.2\shad1.5\4a&H90&\pos(567,31.5)}Alta de la sexta
+Dialogue: 0,0:00:04.94,0:00:06.91,Gen_Italics,Kuramochi,0,0,0,,El campocorto está en segunda base.
+Dialogue: 0,0:00:07.26,0:00:09.02,Gen_Italics,Miyuki,0,0,0,,La defensa interior se ha movido.
+Dialogue: 0,0:00:09.22,0:00:10.87,Gen_Italics,Miyuki,0,0,0,,La línea de primera está cortada.
+Dialogue: 0,0:00:11.07,0:00:14.83,Gen_Italics,Miyuki,0,0,0,,Ignoraré las bolas bajas\Nhasta tener dos strikes.
+Dialogue: 0,0:00:15.09,0:00:17.41,Gen_Italics,Commentator,0,0,0,,¡Un out y corredores en las esquinas!
+Dialogue: 0,0:00:17.79,0:00:19.80,Gen_Italics,Commentator,0,0,0,,¡Es el crucial primer lanzamiento!
+Dialogue: 0,0:00:23.15,0:00:25.46,Gen_Italics,Commentator,0,0,0,,¡Va baja y hacia dentro! ¡Es bola!
+Dialogue: 0,0:00:25.72,0:00:29.92,Gen_Main,Kawabata,0,0,0,,Después de golpear a Shirasu,\Nva y lanza un cutter hacia dentro.
+Dialogue: 0,0:00:30.13,0:00:32.82,Gen_Italics,Narumiya,0,0,0,,Parece que te he asustado, ¿eh?
+Dialogue: 0,0:00:33.25,0:00:35.46,Gen_Italics,Miyuki,0,0,0,,No me esperaba eso para nada.
+Dialogue: 0,0:00:36.09,0:00:37.56,Gen_Italics,Narumiya,0,0,0,,En ese caso…
+Dialogue: 0,0:00:39.34,0:00:41.68,Gen_Italics,Commentator,0,0,0,,¡El segundo es una rápida hacia fuera!
+Dialogue: 0,0:00:41.81,0:00:44.21,Gen_Italics,Narumiya,0,0,0,,Lo sabía, estás tenso.
+Dialogue: 0,0:00:48.27,0:00:52.43,Gen_Italics,Narumiya,0,0,0,,Me fijé en ti\Ndesde el primer momento en que te vi.
+Dialogue: 0,0:00:58.69,0:01:04.00,Gen_Italics,Narumiya,0,0,0,,Eras el único bateador\Nque no abanicaba a lo loco
+Dialogue: 0,0:01:04.09,0:01:05.95,Gen_Italics,Narumiya,0,0,0,,desde el primer lanzamiento.
+Dialogue: 0,0:01:06.25,0:01:09.37,Gen_Italics,Narumiya,0,0,0,,No abanicaste con este\Nen tu anterior turno,
+Dialogue: 0,0:01:09.47,0:01:10.93,Gen_Italics,Narumiya,0,0,0,,así que no puedes darle, ¿no?
+Dialogue: 0,0:01:15.48,0:01:16.64,Gen_Main,Narumiya,0,0,0,,¡Eh!
+Dialogue: 0,0:01:16.78,0:01:18.87,Gen_Main,Narumiya,0,0,0,,Ese primer lanzamiento\Nen tu tercer turno…
+Dialogue: 0,0:01:18.95,0:01:20.50,Gen_Main,Narumiya,0,0,0,,¿Estabas esperando eso?
+Dialogue: 0,0:01:20.60,0:01:23.85,Gen_Main,Narumiya,0,0,0,,No había visto nunca a nadie\Ndarle tan limpiamente.
+Dialogue: 0,0:01:23.94,0:01:25.46,Gen_Main,Miyuki,0,0,0,,No te lo voy a decir.
+Dialogue: 0,0:01:25.57,0:01:28.44,Gen_Main,Miyuki,0,0,0,,Nos volveremos a enfrentar.\NNo te diré tus puntos débiles.
+Dialogue: 0,0:01:28.53,0:01:30.82,Gen_Main,Narumiya,0,0,0,,¿Mis puntos débiles? ¿De qué vas?
+Dialogue: 0,0:01:31.03,0:01:34.94,Gen_Main,Narumiya,0,0,0,,¡Esto no ha terminado! ¡Vuelve aquí!
+Dialogue: 0,0:01:35.26,0:01:38.99,Gen_Italics,Narumiya,0,0,0,,Ese fue el primer día que vi a Kazuya.
+Dialogue: 0,0:03:09.66,0:03:13.79,Cart_A_Tim,CARTEL,0,0,0,,{\fs20\bord2\shad1\pos(479.09,271.61)}El equipo que admiro
+Dialogue: 0,0:03:12.59,0:03:16.29,Gen_Italics_top,Commentator,0,0,0,,¡Le rebota la pelota al catcher!\N¡Shirasu lo ve y sale corriendo!
+Dialogue: 0,0:03:16.58,0:03:19.71,Gen_Italics,Commentator,0,0,0,,¡Ni la lanza! ¡El corredor\Nllega a segunda base!
+Dialogue: 0,0:03:19.80,0:03:21.21,Gen_Main,Kawakami,0,0,0,,¡Sí!
+Dialogue: 0,0:03:21.31,0:03:22.71,Gen_Main,Yamaguchi,0,0,0,,¡Buena, Shirasu!
+Dialogue: 0,0:03:22.81,0:03:24.06,Gen_Italics,Tadano,0,0,0,,Lo siento.
+Dialogue: 0,0:03:24.23,0:03:28.51,Gen_Italics,Narumiya,0,0,0,,No pasa nada.\NNo puedo dejar que batee, ¿verdad?
+Dialogue: 0,0:03:28.86,0:03:31.10,Gen_Italics,Commentator,0,0,0,,¡La defensa interior se adelanta más!
+Dialogue: 0,0:03:41.66,0:03:43.32,Gen_Italics,Kuramochi,0,0,0,,¡Mándala por los aires!
+Dialogue: 0,0:03:43.62,0:03:45.39,Gen_Italics,Shirasu,0,0,0,,¡Esa es tu labor!
+Dialogue: 0,0:03:45.83,0:03:49.29,Gen_Main,Sawamura,0,0,0,,¡Qué duelo tan apasionante!\N¡Es el clímax para el capi!
+Dialogue: 0,0:03:49.54,0:03:51.11,Gen_Italics,Miyuki,0,0,0,,La cuenta va 2-1.
+Dialogue: 0,0:03:51.45,0:03:53.30,Gen_Italics,Miyuki,0,0,0,,Mei no se va a rajar.
+Dialogue: 0,0:03:56.46,0:03:58.39,Gen_Main,Miyuki,0,0,0,,Quiero ir a Seidou.
+Dialogue: 0,0:03:58.68,0:04:02.03,Gen_Main,Miyuki,0,0,0,,Quiero jugar en un buen equipo\Nlleno de jugadores increíbles.
+Dialogue: 0,0:04:02.24,0:04:03.72,Gen_Main,Miyuki,0,0,0,,Y entonces, algún día…
+Dialogue: 0,0:04:03.98,0:04:05.48,Gen_Main,Miyuki's Dad,0,0,0,,¿No quieres ir a Inashiro?
+Dialogue: 0,0:04:05.56,0:04:06.79,Gen_Main,Miyuki,0,0,0,,Pasa de ellos.
+Dialogue: 0,0:04:06.89,0:04:09.68,Gen_Main,Miyuki,0,0,0,,Los niños también tenemos\Nnuestros motivos, ¿no?
+Dialogue: 0,0:04:30.29,0:04:33.59,Gen_Italics,Narumiya,0,0,0,,Ahora tenemos una carga mucho mayor.
+Dialogue: 0,0:04:34.21,0:04:38.80,Gen_Italics,Narumiya,0,0,0,,Dejemos claro quién de los dos\Npuede soportarla.
+Dialogue: 0,0:04:38.88,0:04:41.16,Gen_Italics,Miyuki,0,0,0,,Quieres acabar\Ncon un cambio de velocidad.
+Dialogue: 0,0:04:42.04,0:04:43.96,Gen_Italics,Miyuki,0,0,0,,¿Verdad, Mei?
+Dialogue: 0,0:04:47.41,0:04:49.93,Gen_Italics,Tadano,0,0,0,,Aunque bote, la pararé sin falta.
+Dialogue: 0,0:04:50.71,0:04:52.65,Gen_Italics,Tadano,0,0,0,,Ataquemos los límites de la zona.
+Dialogue: 0,0:04:56.43,0:04:59.39,Gen_Italics,Miyuki,0,0,0,,No te gires muy pronto.\NDale con todo el cuerpo.
+Dialogue: 0,0:04:59.67,0:05:03.24,Gen_Italics,Miyuki,0,0,0,,Dale a la pelota\Ncomo siempre lo has visualizado.
+Dialogue: 0,0:05:09.16,0:05:11.87,Gen_Italics,Commentator,0,0,0,,¡El cambio de velocidad\Nse va por arriba!
+Dialogue: 0,0:05:13.75,0:05:15.00,Gen_Main,Tadano,0,0,0,,¡Jardín derecho!
+Dialogue: 0,0:05:15.09,0:05:16.09,Gen_Italics,Tadano,0,0,0,,¿Le ha dado?
+Dialogue: 0,0:05:16.66,0:05:18.30,Gen_Italics,Saotome,0,0,0,,Estaba lo más atrás posible…
+Dialogue: 0,0:05:18.38,0:05:20.50,Gen_Italics,Ezaki,0,0,0,,¡Le ha dado con la punta! ¡No va fuerte!
+Dialogue: 0,0:05:21.47,0:05:24.43,Gen_Main,Ono,0,0,0,,¡Kuramochi, corre!\N¡Llegarás a home cuando caiga!
+Dialogue: 0,0:05:24.51,0:05:27.39,Gen_Italics,Commentator,0,0,0,,¿Llegarán a tiempo? ¡Van dos a por ella!
+Dialogue: 0,0:05:35.61,0:05:37.94,Gen_Italics,Commentator,0,0,0,,¡El corredor de tercera base\Nllega a home!
+Dialogue: 0,0:05:38.03,0:05:41.11,Gen_Italics,Commentator,0,0,0,,¡Han empatado!\N¡Eso hacen los limpiadores!
+Dialogue: 0,0:05:41.20,0:05:44.59,Gen_Italics,Commentator,0,0,0,,¡Le ha robado una impulsada a Narumiya,
+Dialogue: 0,0:05:44.67,0:05:47.42,Gen_Italics,Commentator,0,0,0,,quien no había cedido una carrera\Nen todo el torneo!
+Dialogue: 0,0:05:48.49,0:05:50.45,Gen_Main,Sawamura,0,0,0,,¡Sí! ¡Eso es!
+Dialogue: 0,0:05:58.99,0:06:02.01,Gen_Main,Miyuki,0,0,0,,En parte es porque fueron\Nlos primeros que me lo ofrecieron,
+Dialogue: 0,0:06:02.09,0:06:04.23,Gen_Main,Miyuki,0,0,0,,pero miré sus instalaciones\Ny son geniales
+Dialogue: 0,0:06:04.31,0:06:06.05,Gen_Main,Miyuki,0,0,0,,y sus campos son enormes.
+Dialogue: 0,0:06:06.14,0:06:09.23,Gen_Main,Miyuki,0,0,0,,He elegido a Seidou\Ndespués de pensarlo mucho.
+Dialogue: 0,0:06:10.01,0:06:14.19,Gen_Main,Miyuki,0,0,0,,Aunque tienen residencia,\Nasí que tendré que dejarte solo aquí.
+Dialogue: 0,0:06:17.12,0:06:21.57,Gen_Main,Miyuki,0,0,0,,Quiero llegar a ser profesional.
+Dialogue: 0,0:06:21.87,0:06:24.45,Gen_Main,Miyuki,0,0,0,,Quiero ganarme la vida\Ncomo jugador de béisbol
+Dialogue: 0,0:06:24.53,0:06:28.34,Gen_Main,Miyuki,0,0,0,,y compensar a mi padre por toda\Nla libertad que me ha dado.
+Dialogue: 0,0:06:29.71,0:06:33.46,Gen_Main,Sawamura,0,0,0,,¡Por fin golpea el capi!\N¡Lo estábamos esperando!
+Dialogue: 0,0:06:33.81,0:06:35.25,Gen_Main,Sawamura,0,0,0,,¡Okumura!
+Dialogue: 0,0:06:36.81,0:06:39.16,Gen_Main,Sawamura,0,0,0,,¡Vale, ya vamos empatados!
+Dialogue: 0,0:06:39.25,0:06:41.13,Gen_Main,Sawamura,0,0,0,,¡Ahora empieza el partido!
+Dialogue: 0,0:06:43.21,0:06:45.27,Gen_Main,Sawamura,0,0,0,,¡Zono, haz lo tuyo!
+Dialogue: 0,0:06:48.01,0:06:49.34,Gen_Main,Narumiya,0,0,0,,¡Itsuki!
+Dialogue: 0,0:06:49.90,0:06:52.77,Gen_Main,Narumiya,0,0,0,,¡Con un hit así no se puede hacer nada!
+Dialogue: 0,0:06:52.85,0:06:53.93,Gen_Main,Narumiya,0,0,0,,¡No te rayes!
+Dialogue: 0,0:06:54.37,0:06:55.68,Gen_Italics,Tadano,0,0,0,,Mei…
+Dialogue: 0,0:06:56.31,0:06:58.37,Gen_Main,Narumiya,0,0,0,,¡Incluso diría que ni es mi culpa!
+Dialogue: 0,0:06:58.52,0:07:01.11,Gen_Main,Tadano,0,0,0,,¡Sí! ¡Eso es! ¡No te agobies!
+Dialogue: 0,0:07:01.30,0:07:03.06,Gen_Main,Ezaki,0,0,0,,¡Mei, un out!
+Dialogue: 0,0:07:03.20,0:07:04.78,Gen_Main,Fukui,0,0,0,,¡Ve de uno en uno!
+Dialogue: 0,0:07:04.93,0:07:06.23,Gen_Main,Yamaoka,0,0,0,,¡Un out!
+Dialogue: 0,0:07:06.34,0:07:07.74,Gen_Italics,Miyuki,0,0,0,,No dejaré que se acabe aquí.
+Dialogue: 0,0:07:10.40,0:07:14.48,Gen_Italics,Tadano,0,0,0,,Ya han bateado su arma secreta,\Nel cambio de velocidad.
+Dialogue: 0,0:07:14.81,0:07:16.66,Gen_Italics,Tadano,0,0,0,,Eso lo afectará seguro.
+Dialogue: 0,0:07:17.31,0:07:19.75,Gen_Italics,Commentator,0,0,0,,¡Hay un out y corredores\Nen las esquinas!
+Dialogue: 0,0:07:19.84,0:07:22.05,Gen_Italics,Commentator,0,0,0,,¿Podrá remontar Seidou?
+Dialogue: 0,0:07:23.76,0:07:25.36,Gen_Main,Higasa,0,0,0,,¡Zono, que siga la racha!
+Dialogue: 0,0:07:25.44,0:07:26.97,Gen_Main,Nakata,0,0,0,,¡Es hora de que brilles!
+Dialogue: 0,0:07:27.27,0:07:30.92,Gen_Italics,Commentator,0,0,0,,¡Llega para batear el quinto de Seidou,\NKenta Maezono!
+Dialogue: 0,0:07:31.25,0:07:33.05,Gen_Italics,Miyuki,0,0,0,,No lo dejes ni respirar.
+Dialogue: 0,0:07:33.14,0:07:34.49,Gen_Italics,Shirasu,0,0,0,,Remátalo.
+Dialogue: 0,0:07:34.80,0:07:38.01,Gen_Italics,Maezono,0,0,0,,Que consigamos la siguiente carrera o no
+Dialogue: 0,0:07:38.10,0:07:40.52,Gen_Italics,Maezono,0,0,0,,marcará el ritmo del resto del partido.
+Dialogue: 0,0:07:40.89,0:07:43.44,Gen_Italics,Tadano,0,0,0,,Va a abanicar con el primer lanzamiento.
+Dialogue: 0,0:07:43.78,0:07:46.13,Gen_Italics,Tadano,0,0,0,,Busca un double play con un cutter.
+Dialogue: 0,0:07:46.92,0:07:48.15,Gen_Italics,Narumiya,0,0,0,,Sí.
+Dialogue: 0,0:07:48.63,0:07:52.08,Gen_Italics,Narumiya,0,0,0,,Ya me desquitaré\Ncuando los haya eliminado.
+Dialogue: 0,0:07:52.08,0:07:55.53,Cart_C_Tim,CARTEL,0,0,0,,Un pez grande en un estanque pequeño
+Dialogue: 0,0:07:52.79,0:07:54.79,Gen_Italics,Maezono,0,0,0,,Un pez grande en un estanque pequeño.
+Dialogue: 0,0:07:55.85,0:07:59.69,Gen_Italics,Maezono,0,0,0,,Cuando llegué aquí,\Nvi que siempre había sido eso.
+Dialogue: 0,0:08:00.16,0:08:03.55,Gen_Italics,Maezono,0,0,0,,Era un niñato ignorante e imbécil.
+Dialogue: 0,0:08:03.82,0:08:05.93,Gen_Main,Kid Maezono,0,0,0,,¿Qué, a Tokio?
+Dialogue: 0,0:08:06.30,0:08:09.51,Gen_Main,Coach,0,0,0,,Conozco a gente en Seidou.\NPuedo presentártelos.
+Dialogue: 0,0:08:09.79,0:08:12.46,Gen_Main,Kid Maezono,0,0,0,,Tokio… Eso está superlejos.
+Dialogue: 0,0:08:12.72,0:08:16.82,Gen_Italics,Maezono,0,0,0,,Nadie de los institutos de Kansai\Nvino a buscarme.
+Dialogue: 0,0:08:17.10,0:08:21.69,Gen_Italics,Maezono,0,0,0,,Pero estaba seguro\Nde que me labraría un nombre en Tokio.
+Dialogue: 0,0:08:21.88,0:08:23.44,Gen_Main,Higasa,0,0,0,,¿Osaka?
+Dialogue: 0,0:08:23.52,0:08:24.53,Gen_Main,Maezono,0,0,0,,¡Sí!
+Dialogue: 0,0:08:24.61,0:08:26.15,Gen_Main,Yamaguchi,0,0,0,,Pareces emocionado.
+Dialogue: 0,0:08:26.24,0:08:27.65,Gen_Main,Maezono,0,0,0,,¡Es que lo estoy!
+Dialogue: 0,0:08:27.74,0:08:31.48,Gen_Main,Maezono,0,0,0,,¡Demostraré lo que valgo\Ny seré titular desde primero!
+Dialogue: 0,0:08:33.04,0:08:34.86,Gen_Italics,Miyuki,0,0,0,,Cómo usa el acento de Kansai.
+Dialogue: 0,0:08:34.95,0:08:36.58,Gen_Italics,Kuramochi,0,0,0,,Es insoportable.
+Dialogue: 0,0:08:36.85,0:08:38.33,Gen_Italics,Maezono,0,0,0,,Era un idiota.
+Dialogue: 0,0:08:41.29,0:08:43.02,Gen_Main,Yoshizawa,0,0,0,,¿Un toque?
+Dialogue: 0,0:08:46.50,0:08:48.42,Gen_Italics,Commentator,0,0,0,,¡Se va por la línea de tercera!
+Dialogue: 0,0:08:50.22,0:08:51.22,Gen_Main,Tadano,0,0,0,,¡Mei!
+Dialogue: 0,0:08:51.30,0:08:52.30,Gen_Italics,Tadano,0,0,0,,Esa postura…
+Dialogue: 0,0:09:05.19,0:09:06.57,Gen_Italics,Commentator,0,0,0,,¡Safe!
+Dialogue: 0,0:09:06.65,0:09:08.65,Gen_Italics,Commentator,0,0,0,,¡El Instituto Seidou se pone en cabeza!
+Dialogue: 0,0:09:10.65,0:09:11.85,Gen_Main,Higasa/Yamaguchi/Nakata,0,0,0,,¡Sí!
+Dialogue: 0,0:09:11.95,0:09:13.24,Gen_Main,Miyuki/Shirasu/Kuramochi/Haruichi,0,0,0,,-¡Sí!\N-¡Eso es!
+Dialogue: 0,0:09:13.24,0:09:15.70,Cart_C_Tim,CARTEL,0,0,0,,{\fs35\be2}Puta madre
+Dialogue: 0,0:09:13.66,0:09:15.70,Gen_Main,Maezono,0,0,0,,¡Puta madre!
+Dialogue: 1,0:09:15.78,0:09:19.76,Gen_Main_Up,Maezono,0,0,0,,¡A mamar, gilipollas!
+Dialogue: 0,0:09:16.01,0:09:21.91,Gen_Italics,Commentator,0,0,0,,¡Después de la impulsada de Miyuki,\NMaezono abre la brecha con un toque!
+Dialogue: 0,0:09:22.14,0:09:26.87,Gen_Italics,Commentator,0,0,0,,Y anotan una segunda carrera\Ncontra Narumiya, la estrella indomable.
+Dialogue: 0,0:09:27.18,0:09:29.38,Gen_Main,Fan A,0,0,0,,¡Bien pensado, Zono!
+Dialogue: 0,0:09:29.46,0:09:31.50,Gen_Main,Fan B,0,0,0,,¿Cuándo aprendiste ese truco?
+Dialogue: 0,0:09:31.59,0:09:33.35,Gen_Main,Fan C,0,0,0,,¿Estabas practicándolo?
+Dialogue: 0,0:09:33.55,0:09:35.05,Gen_Main,Sawamura,0,0,0,,¡Sí!
+Dialogue: 0,0:09:35.35,0:09:37.51,Gen_Main,Aso,0,0,0,,¿Hemos anotado?
+Dialogue: 0,0:09:37.60,0:09:40.31,Gen_Main,Carlos/Fan E,0,0,0,,-Vaya liada.\N-¡Buena carrera, Shirasu!
+Dialogue: 0,0:09:40.43,0:09:42.48,Gen_Main,Fan F/Fan G,0,0,0,,-¡Qué pasada!\N-¡Estoy temblando!
+Dialogue: 0,0:09:42.56,0:09:43.58,Gen_Main,Kunitomo,0,0,0,,Tadano.
+Dialogue: 0,0:09:44.44,0:09:46.15,Gen_Main,Kunitomo,0,0,0,,Fukui, es una orden.
+Dialogue: 0,0:09:46.29,0:09:47.61,Gen_Main,Kunitomo,0,0,0,,Ve a tranquilizarlo.
+Dialogue: 0,0:09:47.69,0:09:48.90,Gen_Main,Fukui,0,0,0,,¡Sí!
+Dialogue: 0,0:09:49.12,0:09:51.63,Gen_Italics,Commentator,0,0,0,,Los defensas de Inashiro\Npiden tiempo muerto.
+Dialogue: 0,0:09:51.77,0:09:54.37,Gen_Italics,Commentator,0,0,0,,Fukui transmite el mensaje\Ndesde el banquillo.
+Dialogue: 0,0:09:54.64,0:09:56.74,Gen_Main,Owada,0,0,0,,Dos carreras en un instante.
+Dialogue: 0,0:09:56.83,0:09:58.96,Gen_Main,Owada,0,0,0,,Y solo llevan un out.
+Dialogue: 0,0:09:59.04,0:10:01.53,Gen_Main,Owada,0,0,0,,Seguro que Seidou\Nquiere seguir haciendo sangre.
+Dialogue: 0,0:10:01.62,0:10:02.76,Gen_Main,Mine,0,0,0,,Sí.
+Dialogue: 0,0:10:02.84,0:10:06.34,Gen_Main,Mine,0,0,0,,Es la primera vez en el torneo\Nque Inashiro no va ganando.
+Dialogue: 0,0:10:06.91,0:10:10.51,Gen_Main,Mine,0,0,0,,Llevan dominándolo todo desde primavera.
+Dialogue: 0,0:10:10.84,0:10:13.43,Gen_Main,Mine,0,0,0,,Hacía tiempo\Nque no se veían en esa situación.
+Dialogue: 0,0:10:13.80,0:10:15.76,Gen_Main,Sawamura,0,0,0,,Furuya, ¿vas a poder?
+Dialogue: 0,0:10:15.91,0:10:19.22,Gen_Main,Sawamura,0,0,0,,¡Date el gustazo con un buen hit!
+Dialogue: 0,0:10:19.45,0:10:21.68,Gen_Main,Furui,0,0,0,,Repasemos la situación actual.
+Dialogue: 0,0:10:21.81,0:10:23.92,Gen_Main,Furui,0,0,0,,Es la alta de la sexta y hay un out.
+Dialogue: 0,0:10:24.02,0:10:25.69,Gen_Main,Furui,0,0,0,,Corredores en primera y segunda.
+Dialogue: 0,0:10:26.10,0:10:28.49,Gen_Main,Furui,0,0,0,,Va Furuya, quien ya hizo un hit antes.
+Dialogue: 0,0:10:28.78,0:10:32.36,Gen_Main,Furui,0,0,0,,Viendo cómo está lanzando,\Nes un bateador peligroso.
+Dialogue: 0,0:10:32.59,0:10:35.07,Gen_Main,Narumiya,0,0,0,,Ya lo sé. No voy a bajar la guardia.
+Dialogue: 0,0:10:35.27,0:10:37.93,Gen_Main,Fukui,0,0,0,,Sí, solo quiero darte\Nun poco de descanso.
+Dialogue: 0,0:10:38.27,0:10:40.66,Gen_Main,Fukui,0,0,0,,Sé que podéis salir de esta.
+Dialogue: 0,0:10:42.37,0:10:44.04,Gen_Main,Fukui,0,0,0,,Vamos a buscar un out.
+Dialogue: 0,0:10:44.12,0:10:46.38,Gen_Main,Fukui,0,0,0,,Haced lo posible por eliminar a Furuya.
+Dialogue: 0,0:10:46.83,0:10:49.76,Gen_Main,Fukui,0,0,0,,Tranquilos. Puedo verlo.
+Dialogue: 0,0:10:49.90,0:10:54.09,Gen_Main,Fukui,0,0,0,,Os veo volviendo al banquillo sonriendo\Ndespués de superar esto.
+Dialogue: 0,0:10:55.71,0:10:57.38,Gen_Main,Narumiya,0,0,0,,¿Esa es tu predicción?
+Dialogue: 0,0:10:57.47,0:11:01.17,Gen_Main,Fukui,0,0,0,,Sí, perdón.\NHa aparecido mi lado de aficionado.
+Dialogue: 0,0:11:01.28,0:11:02.47,Gen_Main,Narumiya,0,0,0,,¿Qué?
+Dialogue: 0,0:11:02.77,0:11:05.82,Gen_Main,Fukui,0,0,0,,¡Vamos a luchar! ¡A nuestra manera!
+Dialogue: 0,0:11:05.90,0:11:07.00,Gen_Main,All,0,0,0,,¡Sí!
+Dialogue: 0,0:11:13.60,0:11:17.92,Gen_Italics,Narumiya,0,0,0,,¿Su lado de aficionado? Así es Fuku…
+Dialogue: 0,0:11:18.74,0:11:21.52,Gen_Main,Narumiya,0,0,0,,Itsuki, vas a ver cómo se hace.
+Dialogue: 0,0:11:21.61,0:11:23.70,Gen_Main,Tadano,0,0,0,,Vale, lo tendré en cuenta.
+Dialogue: 0,0:11:23.95,0:11:26.84,Gen_Italics,Fukui,0,0,0,,Este es el equipo que admiraba\Ndesde pequeño.
+Dialogue: 0,0:11:26.92,0:11:30.91,Gen_Italics,Fukui,0,0,0,,Y tras unirme, nunca me decepcionó.
+Dialogue: 0,0:11:31.81,0:11:34.38,Gen_Italics,Fukui,0,0,0,,Tiene a los mejores jugadores del país,
+Dialogue: 0,0:11:34.63,0:11:38.69,Gen_Italics,Fukui,0,0,0,,con los mejores entrenamientos\Ny las mejores estrategias.
+Dialogue: 0,0:11:40.27,0:11:43.23,Gen_Main,Fukui,0,0,0,,¡Cuidado con las rutas de lanzamiento!
+Dialogue: 0,0:11:43.31,0:11:47.31,Gen_Italics,Fukui,0,0,0,,¡Me alegro de estar en este equipo!
+Dialogue: 0,0:11:47.51,0:11:49.58,Gen_Italics,Commentator,0,0,0,,¡Un out y corredores\Nen primera y segunda!
+Dialogue: 0,0:11:49.66,0:11:52.02,Gen_Italics,Commentator,0,0,0,,¡Satoru Furuya, el sexto, va a batear!
+Dialogue: 0,0:11:53.65,0:11:56.60,Gen_Main,Maezono,0,0,0,,¡Dale duro, Furuya! ¡Es tu momento!
+Dialogue: 0,0:11:57.29,0:11:59.62,Gen_Italics,Commentator,0,0,0,,¿Podrá Narumiya salir de esta?
+Dialogue: 0,0:11:59.76,0:12:02.57,Gen_Italics,Commentator,0,0,0,,¿Podrá Seidou seguir anotando?
+Dialogue: 0,0:12:02.78,0:12:05.31,Gen_Italics,Furuya,0,0,0,,Han remontado para mí.
+Dialogue: 0,0:12:05.46,0:12:07.54,Gen_Italics,Furuya,0,0,0,,Han logrado dos carreras para mí…
+Dialogue: 0,0:12:07.99,0:12:09.14,Gen_Italics,Furuya,0,0,0,,No dejaré que pare esto.
+Dialogue: 0,0:12:09.58,0:12:11.25,Gen_Italics,Furuya,0,0,0,,No me quedaré atrás.
+Dialogue: 0,0:12:16.12,0:12:18.84,Gen_Italics,Commentator,0,0,0,,¡El primero es una rápida por dentro!
+Dialogue: 0,0:12:18.93,0:12:20.08,Gen_Main,Yoshizawa,0,0,0,,¡Sí!
+Dialogue: 0,0:12:20.18,0:12:21.30,Gen_Italics,Tadano,0,0,0,,¡Qué lanzamiento!
+Dialogue: 0,0:12:21.49,0:12:24.27,Gen_Main,Fukui,0,0,0,,¡Eso es, dale duro, Mei!
+Dialogue: 0,0:12:24.79,0:12:26.88,Gen_Italics,Fukui,0,0,0,,Aún no ha cambiado.
+Dialogue: 0,0:12:27.41,0:12:29.68,Gen_Italics,Fukui,0,0,0,,¡Este es el equipo que admiro!
+Dialogue: 0,0:12:29.94,0:12:32.40,Gen_Italics,Miyuki,0,0,0,,¿Va a lanzar eso ahora?
+Dialogue: 0,0:12:32.61,0:12:35.40,Gen_Italics,Furuya,0,0,0,,No dejaré que se pase esta fiebre.
+Dialogue: 0,0:12:37.82,0:12:39.86,Gen_Italics,Commentator,0,0,0,,¡El cambio de velocidad! ¡Falla!
+Dialogue: 0,0:12:40.08,0:12:41.82,Gen_Main,Fukui,0,0,0,,¡Bien hecho, Mei!
+Dialogue: 0,0:12:41.91,0:12:43.06,Gen_Main,Sugi,0,0,0,,¡Solo uno más!
+Dialogue: 0,0:12:43.28,0:12:45.53,Gen_Main,Bench A/Bench B,0,0,0,,-¡Acaba con él!\N-¡Narumiya!
+Dialogue: 0,0:12:45.81,0:12:48.76,Gen_Italics,Furuya,0,0,0,,No hemos acabado. Ahora verás.
+Dialogue: 0,0:12:49.00,0:12:51.95,Gen_Main,Higasa/Yamaguchi,0,0,0,,-¡Vamos, Furuya!\N-¡Tienes que rematarlo!
+Dialogue: 0,0:12:52.04,0:12:55.41,Gen_Italics,Commentator,0,0,0,,Tiene dos strikes.\N¿Cuál será el tercer lanzamiento?
+Dialogue: 0,0:13:02.27,0:13:03.88,Gen_Italics,Commentator,0,0,0,,¡Abanica y falla!
+Dialogue: 0,0:13:03.97,0:13:05.01,Gen_Main,Yoshizawa,0,0,0,,¡Sí!
+Dialogue: 0,0:13:05.10,0:13:06.97,Gen_Main,Yoshizawa,0,0,0,,¡Bien lanzado, Mei!
+Dialogue: 0,0:13:07.43,0:13:08.80,Gen_Main,Tadano,0,0,0,,¡Bien!
+Dialogue: 0,0:13:08.89,0:13:10.97,Gen_Italics,Tadano,0,0,0,,¡Su cambio de velocidad!
+Dialogue: 0,0:13:11.06,0:13:12.68,Gen_Italics,Tadano,0,0,0,,¡No hay mejor lanzamiento!
+Dialogue: 0,0:13:12.84,0:13:15.36,Gen_Main,Chris,0,0,0,,Dos cambios de velocidad seguidos…
+Dialogue: 0,0:13:15.44,0:13:17.65,Gen_Main,Yuki,0,0,0,,Narumiya quiere enseñar quién manda.
+Dialogue: 0,0:13:17.87,0:13:20.23,Gen_Main,Miyauchi,0,0,0,,Esa es complicada para un diestro.
+Dialogue: 0,0:13:20.44,0:13:22.39,Gen_Main,Tadano,0,0,0,,¡Mei, queda uno!
+Dialogue: 0,0:13:22.49,0:13:23.69,Gen_Main,Yabe,0,0,0,,¡Dos outs!
+Dialogue: 0,0:13:24.51,0:13:26.16,Gen_Main,Tojo,0,0,0,,No hemos acabado aún.
+Dialogue: 0,0:13:28.05,0:13:29.70,Gen_Italics,Furuya,0,0,0,,Me jode admitirlo, pero…
+Dialogue: 0,0:13:30.43,0:13:31.71,Gen_Italics,Furuya,0,0,0,,son tremendos.
+Dialogue: 0,0:13:32.91,0:13:34.58,Gen_Italics,Furuya,0,0,0,,Todos son tremendos.
+Dialogue: 0,0:13:40.67,0:13:44.27,Gen_Italics,Commentator,0,0,0,,Tojo aguanta el tipo, pero lo eliminan\Ndespués de darle a la pelota.
+Dialogue: 0,0:13:44.64,0:13:47.34,Gen_Italics,Commentator,0,0,0,,¡Inashiro cierra la entrada\Nencajando dos carreras!
+Dialogue: 0,0:13:47.77,0:13:51.05,Gen_Main,Fukui,0,0,0,,¡Eres un hacha!\N¡Sabía que los frenarías!
+Dialogue: 0,0:13:53.92,0:13:57.13,Gen_Main,Narumiya,0,0,0,,No podía decepcionar\Na esa sonrisa de tonto.
+Dialogue: 0,0:13:57.25,0:13:58.33,Gen_Main,Fukui,0,0,0,,¡Perdón!
+Dialogue: 0,0:13:58.41,0:13:59.78,Gen_Main,Narumiya,0,0,0,,Ya te vale.
+Dialogue: 0,0:14:00.18,0:14:02.49,Gen_Main,Fukui,0,0,0,,Pero podremos recuperarnos enseguida.
+Dialogue: 0,0:14:06.39,0:14:08.64,Gen_Main,Narumiya,0,0,0,,La voy a sacar del estadio.
+Dialogue: 0,0:14:08.95,0:14:11.91,Cart_C_Tim,CARTEL,0,0,0,,{\an9\3c&H497AA6&}Instituto Ugumori\NSala del club de béisbol
+Dialogue: 0,0:14:11.90,0:14:14.04,Gen_Main_Up,Inufushi,0,0,0,,Esto se pone interesante.
+Dialogue: 0,0:14:12.00,0:14:15.87,Cart_A_Tim,CARTEL,0,0,0,,{\fad(500,0)\fs15\an7\bord1.2\shad1.5\4a&H90&\pos(40.5,232.5)}Instituto Ugumori\N{\fs24}Daiki Kondo
+Dialogue: 0,0:14:12.00,0:14:15.87,Cart_A_Tim,CARTEL,0,0,0,,{\fad(500,0)\fs15\an7\bord1.2\shad1.5\4a&H90&\pos(447.25,232.5)}Instituto Ugumori\N{\fs24}Kota Inufushi
+Dialogue: 0,0:14:14.12,0:14:15.87,Gen_Main_Up,Inufushi,0,0,0,,Le han hecho dos hits a Narumiya.
+Dialogue: 0,0:14:15.96,0:14:19.96,Cart_A_Tim,CARTEL,0,0,0,,{\fad(500,500)\fs15\an7\bord1.2\shad1.5\4a&H90&\pos(40.5,232.5)}Instituto Ugumori\N{\fs24}Seiichi Umemiya
+Dialogue: 0,0:14:15.96,0:14:19.96,Cart_A_Tim,CARTEL,0,0,0,,{\fad(500,500)\fs15\an7\bord1.2\shad1.5\4a&H90&\pos(445,232.5)}Instituto Ugumori\N{\fs24}Nao Matsubara
+Dialogue: 0,0:14:16.15,0:14:18.90,Gen_Main_Up,Matsubara,0,0,0,,Eso solo pueden hacerlo los de Seidou.
+Dialogue: 0,0:14:19.00,0:14:22.34,Gen_Main_Up,Umemiya,0,0,0,,Sí, Inashiro no dejará\Nque se repita fácilmente.
+Dialogue: 0,0:14:24.55,0:14:26.06,Gen_Main,Miyagawa,0,0,0,,¿Qué pasa, Hosshan?
+Dialogue: 0,0:14:26.14,0:14:27.43,Gen_Main,Hoshida,0,0,0,,Quiero batear.
+Dialogue: 0,0:14:27.51,0:14:28.53,Gen_Main,Miyagawa,0,0,0,,¿Ahora?
+Dialogue: 0,0:14:28.61,0:14:29.75,Gen_Main,Mori,0,0,0,,¿Aquí?
+Dialogue: 0,0:14:29.94,0:14:33.72,Gen_Main,Kawabata,0,0,0,,¿Cuánto aguantará Furuya en la sexta?
+Dialogue: 0,0:14:34.02,0:14:36.51,Gen_Main,Fan B,0,0,0,,¿Y qué pasa en la izquierda?\N¿Lo sustituirán?
+Dialogue: 0,0:14:36.61,0:14:38.68,Gen_Main,Fan C,0,0,0,,¡Se ha ido en camilla, no podrá jugar!
+Dialogue: 0,0:14:39.33,0:14:40.92,Gen_Main,Kataoka,0,0,0,,¿Seguro que vas a poder?
+Dialogue: 0,0:14:41.10,0:14:42.66,Gen_Main,Aso,0,0,0,,Claro.
+Dialogue: 0,0:14:42.74,0:14:45.22,Gen_Main,Kataoka,0,0,0,,Tu defensa ha hecho\Nque esto sea posible.
+Dialogue: 0,0:14:45.37,0:14:47.12,Gen_Main,Kataoka,0,0,0,,Si te ves para jugar, juega.
+Dialogue: 0,0:14:47.62,0:14:49.58,Gen_Main,Aso,0,0,0,,¡Sí! ¡Yo me encargo!
+Dialogue: 0,0:14:49.84,0:14:51.20,Gen_Main,Aso,0,0,0,,¡Vamos allá!
+Dialogue: 0,0:14:51.29,0:14:52.50,Gen_Main,Higasa,0,0,0,,¡Vale, vamos!
+Dialogue: 0,0:14:52.58,0:14:54.84,Gen_Main,Fan A/Fan B,0,0,0,,-¿Aso?\N-¿Puede jugar?
+Dialogue: 0,0:14:54.92,0:14:56.46,Gen_Main,Fan C,0,0,0,,¡No me jodas!
+Dialogue: 0,0:14:56.54,0:14:59.19,Gen_Main,Fan A,0,0,0,,¡Ha vuelto el séptimo!
+Dialogue: 0,0:14:59.29,0:15:00.83,Gen_Main,Fan B,0,0,0,,¡Me alegro de verte bien!
+Dialogue: 0,0:15:00.92,0:15:02.03,Gen_Main,Fan B,0,0,0,,¡Qué huevos tienes!
+Dialogue: 0,0:15:02.43,0:15:03.93,Gen_Italics,Aso,0,0,0,,Cómo me alegro…
+Dialogue: 0,0:15:04.01,0:15:06.64,Gen_Italics,Aso,0,0,0,,¡Cómo me alegro de jugar al béisbol!
+Dialogue: 0,0:15:07.69,0:15:09.56,Gen_Main,Kataoka/Sawamura,0,0,0,,-¡Sawamura!\N-¡Sí!
+Dialogue: 0,0:15:09.69,0:15:11.79,Gen_Main,Kataoka,0,0,0,,Furuya se acerca a los 100 lanzamientos.
+Dialogue: 0,0:15:11.94,0:15:14.35,Gen_Main,Kataoka,0,0,0,,Estará agotado de ir con todo.
+Dialogue: 0,0:15:14.62,0:15:17.32,Gen_Main,Kataoka,0,0,0,,Si empieza a bajar el ritmo, saldrás tú.
+Dialogue: 0,0:15:21.85,0:15:24.55,Gen_Italics,Ochiai,0,0,0,,En este partido\Nno hay ningún ángel guardián.
+Dialogue: 0,0:15:24.78,0:15:28.22,Gen_Italics,Ochiai,0,0,0,,Si quieres que Furuya\Nvuelva a subir al montículo,
+Dialogue: 0,0:15:28.37,0:15:31.44,Gen_Italics,Ochiai,0,0,0,,lo natural es usarlo\Nen el jardín izquierdo.
+Dialogue: 0,0:15:32.35,0:15:36.58,Gen_Italics,Furuya,0,0,0,,Pero todo dependerá\Nde cómo lance en esta entrada.
+Dialogue: 0,0:15:36.76,0:15:39.50,Gen_Italics,Commentator,0,0,0,,¡Va a batear Inashiro\Nen la baja de la sexta!
+Dialogue: 0,0:15:39.58,0:15:42.03,Gen_Italics,Commentator,0,0,0,,¡Ya está colocado el quinto, Narumiya!
+Dialogue: 0,0:15:42.53,0:15:45.16,Gen_Italics,Commentator,0,0,0,,¡Su media de bateo\Nes de 0,532 en este torneo!
+Dialogue: 0,0:15:45.26,0:15:48.01,Gen_Italics,Commentator,0,0,0,,¡También da miedo\Nenfrentarse a él como bateador!
+Dialogue: 0,0:15:48.16,0:15:52.69,Gen_Italics,Miyuki,0,0,0,,Seguro que querrá desquitarse\Npor permitir la remontada.
+Dialogue: 0,0:15:52.97,0:15:54.47,Gen_Italics,Miyuki,0,0,0,,No lo permitiré.
+Dialogue: 0,0:15:57.04,0:15:58.81,Gen_Main,Maezono,0,0,0,,¡Cárgatelos de uno en uno!
+Dialogue: 0,0:15:58.90,0:16:00.77,Gen_Main,Haruichi,0,0,0,,¡Furuya, pasa al ataque!
+Dialogue: 0,0:16:01.01,0:16:02.23,Gen_Main,Kuramochi,0,0,0,,¡Deja que batee!
+Dialogue: 0,0:16:02.46,0:16:04.69,Gen_Main,Aso,0,0,0,,¡Estoy aquí! ¡Yo me encargo!
+Dialogue: 0,0:16:04.93,0:16:07.93,Gen_Italics,Narumiya,0,0,0,,No dejaré que me elimines\Na base de strikes.
+Dialogue: 0,0:16:08.03,0:16:09.16,Gen_Italics,Narumiya,0,0,0,,Ven aquí, Furuya.
+Dialogue: 0,0:16:13.49,0:16:16.20,Gen_Italics,Commentator,0,0,0,,Empieza con una rápida\Nque acaba en foul.
+Dialogue: 0,0:16:16.39,0:16:18.71,Gen_Main,Miyuki,0,0,0,,Tiene pillado el ritmo.
+Dialogue: 0,0:16:18.89,0:16:21.67,Gen_Italics,Narumiya,0,0,0,,Qué cabrón. No voy a caer.
+Dialogue: 0,0:16:23.66,0:16:28.66,Gen_Main,Miyuki,0,0,0,,Furuya, ¿has pensado alguna vez\Nen el mundo que hay después de este?
+Dialogue: 0,0:16:28.76,0:16:32.06,Gen_Main,Miyuki,0,0,0,,¿Has pensado en lanzar como profesional?
+Dialogue: 0,0:16:43.44,0:16:45.65,Gen_Italics,Narumiya,0,0,0,,Está desbocado.
+Dialogue: 0,0:16:45.97,0:16:50.32,Gen_Italics,Miyuki,0,0,0,,No fuerces la maquinaria.\NLanza más abajo y más despacio…
+Dialogue: 0,0:16:54.20,0:16:57.70,Gen_Italics,Commentator,0,0,0,,¡Un batazo fuerte hacia la izquierda!\N¡Fácil para Aso!
+Dialogue: 0,0:16:58.51,0:17:00.42,Gen_Italics,Commentator,0,0,0,,¡La atrapa, es el primer out!
+Dialogue: 0,0:17:00.72,0:17:03.88,Gen_Italics,Commentator,0,0,0,,¡Es su segundo intento\Ny vuelve a perder contra Furuya!
+Dialogue: 0,0:17:06.52,0:17:07.75,Gen_Italics,Furuya,0,0,0,,Voy a seguir.
+Dialogue: 0,0:17:08.04,0:17:11.63,Gen_Italics,Furuya,0,0,0,,Mientras pueda jugar al béisbol,\Nseguiré por este camino.
+Dialogue: 0,0:17:15.45,0:17:17.47,Gen_Main,Tanba,0,0,0,,¿Furuya ha hecho una pose?
+Dialogue: 0,0:17:17.71,0:17:19.36,Gen_Main,Yeung,0,0,0,,Está yendo con todo.
+Dialogue: 0,0:17:19.44,0:17:21.44,Gen_Main,Yeung,0,0,0,,Sabe que no terminará el partido.
+Dialogue: 0,0:17:21.67,0:17:24.40,Gen_Main,Kawabata,0,0,0,,Porque Seidou\Ntiene un bullpen increíble.
+Dialogue: 0,0:17:24.59,0:17:26.60,Gen_Italics,Umemoto,0,0,0,,Ya van 92 lanzamientos.
+Dialogue: 0,0:17:26.89,0:17:30.02,Gen_Main,Tada,0,0,0,,Sus rápidas\Nsiguen llegando a los 150 km/h.
+Dialogue: 0,0:17:30.11,0:17:32.57,Gen_Main,Tada,0,0,0,,¡Aún le quedan energías!
+Dialogue: 0,0:17:32.86,0:17:34.49,Gen_Italics,Furuya,0,0,0,,Uno menos.
+Dialogue: 0,0:17:36.05,0:17:38.24,Gen_Main,Miyuki,0,0,0,,Disculpe. Tiempo muerto.
+Dialogue: 0,0:17:39.58,0:17:41.12,Gen_Main,Furuya,0,0,0,,¿Ocurre algo?
+Dialogue: 0,0:17:41.21,0:17:43.20,Gen_Main,Miyuki,0,0,0,,Te noto algo fatigado.
+Dialogue: 0,0:17:44.83,0:17:47.13,Gen_Italics,Miyuki,0,0,0,,No parece haberse dado cuenta.
+Dialogue: 0,0:17:47.42,0:17:51.00,Gen_Main,Miyuki,0,0,0,,No podrán batear\Nun lanzamiento potente y bajo.
+Dialogue: 0,0:17:51.09,0:17:53.24,Gen_Main,Miyuki,0,0,0,,Sé preciso. Ve a tu ritmo.
+Dialogue: 0,0:17:53.41,0:17:54.59,Gen_Main,Furuya,0,0,0,,Entendido.
+Dialogue: 0,0:17:56.36,0:17:59.62,Gen_Main,Miyuki,0,0,0,,A ambos nos jode lo que pasó\Nen el Koshien en primavera.
+Dialogue: 0,0:18:01.18,0:18:04.39,Gen_Main,Miyuki,0,0,0,,Recuperémonos de eso sin olvidarlo.
+Dialogue: 0,0:18:04.99,0:18:07.76,Gen_Main,Furuya,0,0,0,,¡Sí! ¡Llegaremos allí con este equipo!
+Dialogue: 0,0:18:10.41,0:18:12.93,Gen_Main,Sawamura,0,0,0,,¡Eso! ¡Es importante hablar las cosas!
+Dialogue: 0,0:18:13.16,0:18:15.12,Gen_Main,Sawamura,0,0,0,,¡Decíos lo que sentís!
+Dialogue: 0,0:18:15.51,0:18:17.33,Gen_Main,Sawamura,0,0,0,,¡Sin guardaros nada!
+Dialogue: 0,0:18:18.48,0:18:20.75,Gen_Italics,Miyuki,0,0,0,,Con este equipo, ¿eh?
+Dialogue: 0,0:18:21.73,0:18:24.53,Gen_Italics,Miyuki,0,0,0,,Esos lanzamientos\Nque atrapé en primavera…
+Dialogue: 0,0:18:26.72,0:18:31.01,Gen_Italics,Miyuki,0,0,0,,me hicieron querer ver\Nhasta dónde podrías llegar.
+Dialogue: 0,0:18:31.58,0:18:35.33,Gen_Italics,Miyuki,0,0,0,,Y, al mismo tiempo,\Nyo quería estar a tu nivel.
+Dialogue: 0,0:18:35.92,0:18:39.43,Gen_Main,Sawamura,0,0,0,,¡No intentes acabar con él tú solo!\N¡Que te ayuden los defensas!
+Dialogue: 0,0:18:39.82,0:18:42.96,Gen_Italics,Miyuki,0,0,0,,Siempre me estáis sorprendiendo.
+Dialogue: 0,0:18:43.61,0:18:47.36,Gen_Italics,Miyuki,0,0,0,,¡Vamos, supera mis expectativas!
+Dialogue: 0,0:18:47.61,0:18:50.03,Gen_Italics,Tadano,0,0,0,,Ya estará llegando a su límite.
+Dialogue: 0,0:18:50.37,0:18:52.32,Gen_Italics,Tadano,0,0,0,,Haré que lance mucho y…
+Dialogue: 0,0:19:02.10,0:19:05.46,Gen_Italics,Furuya,0,0,0,,Encontré mi camino\Ngracias a que vine a Seidou.
+Dialogue: 0,0:19:06.01,0:19:09.71,Gen_Main,Miyuki,0,0,0,,Pero tampoco me parece mal que seas así.
+Dialogue: 0,0:19:09.94,0:19:13.34,Gen_Main,Miyuki,0,0,0,,Eres el tipo de pitcher\Nque tira del equipo con su fuerza.
+Dialogue: 0,0:19:16.58,0:19:19.08,Gen_Italics,Furuya,0,0,0,,Porque él está atrapando\Nmis lanzamientos.
+Dialogue: 0,0:19:21.30,0:19:22.56,Gen_Main,Sawamura,0,0,0,,¡Vamos!
+Dialogue: 0,0:19:23.10,0:19:25.78,Gen_Italics,Furuya,0,0,0,,Porque tengo un compañero\Ncontra el que competir.
+Dialogue: 0,0:19:29.43,0:19:31.97,Gen_Italics,Furuya,0,0,0,,En el béisbol puedo ser yo mismo.
+Dialogue: 0,0:19:32.46,0:19:33.85,Gen_Italics,Furuya,0,0,0,,Puedo ser egoísta.
+Dialogue: 0,0:19:36.28,0:19:39.29,Gen_Italics,Furuya,0,0,0,,Puedo pelear\Ngracias a que existe este sitio.
+Dialogue: 0,0:19:46.75,0:19:49.11,Gen_Italics,Furuya,0,0,0,,¡Puedo lanzar con todas mis fuerzas!
+Dialogue: 0,0:19:51.17,0:19:53.13,Gen_Italics,Commentator,0,0,0,,¡Strike! ¡Bateador eliminado!
+Dialogue: 0,0:19:53.40,0:19:54.95,Gen_Italics,Commentator,0,0,0,,¡Lo ha eliminado!
+Dialogue: 0,0:19:55.04,0:19:59.55,Gen_Italics,Commentator,0,0,0,,¡Sus poderosos lanzamientos no pierden\Nfuelle y elimina a tres seguidos!
+Dialogue: 0,0:19:59.64,0:20:02.34,Gen_Main,Fan A,0,0,0,,¡Te cagas! ¡Todos eran de 150 km/h!
+Dialogue: 0,0:20:02.43,0:20:03.59,Gen_Main,Fan B,0,0,0,,¡No tiene fin!
+Dialogue: 0,0:20:03.68,0:20:04.97,Gen_Main,Fan D,0,0,0,,¡Qué animalada!
+Dialogue: 0,0:20:05.31,0:20:08.28,Gen_Main,Furuya's Mother,0,0,0,,Iremos a Tokio los fines de semana.
+Dialogue: 0,0:20:08.36,0:20:10.61,Gen_Main,Furuya's Mother,0,0,0,,Avísanos cuando hayas llegado.
+Dialogue: 0,0:20:11.07,0:20:13.31,Gen_Main,Furuya's Mother,0,0,0,,Le diré a tu abuelo que vas para allá.
+Dialogue: 0,0:20:13.53,0:20:15.34,Gen_Main,Furuya,0,0,0,,Vale. Hasta luego.
+Dialogue: 0,0:20:16.54,0:20:18.23,Gen_Main,Furuya's Mother,0,0,0,,¿Eso es todo?
+Dialogue: 0,0:20:18.79,0:20:23.08,Gen_Main,Furuya's Mother,0,0,0,,Ya veo.\N¿Era él quien quería irse a Tokio?
+Dialogue: 0,0:20:24.37,0:20:26.55,Gen_Main,Furuya's Mother,0,0,0,,Y al Instituto Seidou…
+Dialogue: 0,0:20:27.04,0:20:30.56,Gen_Main,Furuya's Grandpa,0,0,0,,Dijo cosas que no gustaron\Na los equipos de allí.
+Dialogue: 0,0:20:30.84,0:20:34.14,Gen_Main,Furuya's Grandpa,0,0,0,,Si esta ha sido su decisión,\Ndebemos respetarla.
+Dialogue: 0,0:20:34.38,0:20:36.26,Gen_Main,Furuya's Grandpa,0,0,0,,Yo cuidaré de él.
+Dialogue: 0,0:20:36.47,0:20:38.26,Gen_Main,Furuya's Mother,0,0,0,,Pero vivirá en una residencia.
+Dialogue: 0,0:20:38.34,0:20:40.02,Gen_Main,Furuya's Mother,0,0,0,,¿Será capaz?
+Dialogue: 0,0:20:40.17,0:20:42.56,Gen_Main,Furuya's Mother,0,0,0,,Siempre le costó expresar lo que siente
+Dialogue: 0,0:20:42.64,0:20:44.66,Gen_Main,Furuya's Mother,0,0,0,,y eso causa malentendidos.
+Dialogue: 0,0:20:44.82,0:20:46.72,Gen_Main,Furuya's Mother,0,0,0,,Y a veces es muy terco con tonterías.
+Dialogue: 0,0:20:49.70,0:20:50.93,Gen_Main,Fans,0,0,0,,¡Furuya!
+Dialogue: 0,0:20:51.02,0:20:52.31,Gen_Main,Fans,0,0,0,,¡Furuya!
+Dialogue: 0,0:20:52.41,0:20:54.77,Gen_Main,Fans,0,0,0,,¡Furuya!
+Dialogue: 0,0:20:54.95,0:20:56.48,Gen_Main,Tojo,0,0,0,,¡Bien hecho!
+Dialogue: 0,0:20:56.57,0:20:58.19,Gen_Main,Maezono,0,0,0,,¡Bien lanzado!
+Dialogue: 0,0:20:58.28,0:21:01.91,Gen_Main,Kuramochi,0,0,0,,¡No hemos hecho nada!\N¡Vas a hacer que me enfríe!
+Dialogue: 0,0:21:02.33,0:21:06.64,Gen_Main,Kataoka,0,0,0,,Has protegido la ventaja.\NNo tengo ninguna queja.
+Dialogue: 0,0:21:06.78,0:21:07.99,Gen_Main,Tada,0,0,0,,¡Buen trabajo!
+Dialogue: 0,0:21:08.29,0:21:11.20,Gen_Italics,Umemoto,0,0,0,,Ha lanzado 99 veces\Ncon todas sus fuerzas.
+Dialogue: 0,0:21:14.04,0:21:16.87,Gen_Main,Kataoka,0,0,0,,Furuya, en la séptima\Njugarás en la izquierda.
+Dialogue: 0,0:21:17.89,0:21:19.38,Gen_Main,Kataoka,0,0,0,,Te toca, Sawamura.
+Dialogue: 0,0:21:19.69,0:21:20.84,Gen_Main,Sawamura,0,0,0,,¡Sí, señor!
+Dialogue: 0,0:21:21.03,0:21:22.74,Gen_Italics,Ochiai,0,0,0,,No es tan bueno como Aso,
+Dialogue: 0,0:21:22.84,0:21:26.18,Gen_Italics,Ochiai,0,0,0,,pero tiene experiencia jugando ahí\Ndesde el año pasado.
+Dialogue: 0,0:21:26.26,0:21:29.45,Gen_Italics,Ochiai,0,0,0,,Y si pasa algo\Ny todavía le quedan fuerzas,
+Dialogue: 0,0:21:29.53,0:21:31.31,Gen_Italics,Ochiai,0,0,0,,puede volver al montículo.
+Dialogue: 0,0:21:31.98,0:21:34.86,Gen_Italics,Miyuki,0,0,0,,Si ha podido lanzar así\Ndesde el principio
+Dialogue: 0,0:21:35.26,0:21:37.06,Gen_Italics,Miyuki,0,0,0,,ha sido gracias a Sawamura.
+Dialogue: 0,0:21:37.53,0:21:40.99,Gen_Italics,Miyuki,0,0,0,,Podemos cederle el testigo\Nen las mejores condiciones posibles.
+Dialogue: 0,0:21:44.48,0:21:45.68,Gen_Main,Furuya,0,0,0,,Es tu turno.
+Dialogue: 0,0:21:46.02,0:21:48.54,Gen_Main,Sawamura,0,0,0,,Claro. ¡Yo me encargo!
+Dialogue: 0,0:23:18.54,0:23:21.96,Cart_A_Tre,CARTEL,0,0,0,,{\fs18\b0}Traducción: Abraham Gayuvas\NEdición: María Gálvez\NControl de calidad: Daniel Ruiz Arjona
+Dialogue: 0,0:23:27.11,0:23:30.80,Gen_Main,Sawamura,0,0,0,,Próximamente en {\i1}Ace of the Diamond\NAct II{\i0}, temporada dos:
+Dialogue: 0,0:23:30.93,0:23:36.89,Cart_A_Tim,CARTEL,0,0,0,,{\fs16\an1\fad(500,0)\pos(132.5,133)}Próximo episodio
+Dialogue: 0,0:23:30.93,0:23:36.89,Cart_A_Tim,CARTEL,0,0,0,,{\fad(500,0)\pos(320,225.5)}{\fs36}El testigo
+Dialogue: 0,0:23:31.31,0:23:32.37,Gen_Main,Sawamura,0,0,0,,"El testigo".
+Dialogue: 0,0:23:32.61,0:23:34.63,Gen_Main,Sawamura,0,0,0,,¡Ganaremos el nacional!
+
