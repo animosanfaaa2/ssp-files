@@ -1,0 +1,65 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: main,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: top,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: italicstop,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: flashback,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: flashback italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: flashbacktop,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: flashbackitalicstop,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: overlap,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: overlaptop,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: overlap italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: sign_generic,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,18,1
+Style: high,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,50,1
+Style: highitalics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: screen_text,Verdana,20,&H00F0E8E4,&H000000FF,&H006F635C,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:18.28,0:01:19.81,sign_generic,Sign,0,0,0,,{\fad(51,0)\bord3\blur2\an1\fs17\b1\fnGeorgia\c&H095DF8&\3c&HBFBEC1&\t(0,1469,\fs16)\move(365.999,253.999,359.333,248.667,0,1450)}O{\c&H0A27EB&}v{\c&H1828CE&}e{\c&H1026F3&\}r{\c&H1705C3&}g{\c&H1306A0&}e{\c&H0F028F&}a{\c&H090544&}r{\c&H211D2F&}e{\c&H000000&}d
+Dialogue: 0,0:01:19.81,0:01:22.91,sign_generic,Sign,0,0,0,,{\fad(0,1080)\bord3\blur2\an1\fs16\b1\fnGeorgia\c&H095DF8&\3c&HBFBEC1&\t(0,273,\3c&HFEFEFE&)\t(0,273,\c&H252525&)\pos(359.333,248.667)}O{\c&H0A27EB&\t(0,273,\c&H666767&)}v{\c&H1828CE&\t(0,273,\c&H363636&)}e{\c&H1026F3&\t(0,273,\c&H7E7E7E&)}r{\c&H1705C3&\t(0,273,\c&H5E5E5E&)}g{\c&H1306A0&\t(0,273,\c&H252525&)}e{\c&H0F028F&\t(0,273,\c&H666767&)}a{\c&H090544&\t(0,273,\c&H363636&)}r{\c&H211D2F&\t(0,273,\c&H7E7E7E&)}e{\c&H000000&\t(0,273,\c&H5E5E5E&)}d
+Dialogue: 0,0:02:32.06,0:02:33.21,screen_text,Sign,0,0,0,,{\fs10\fad(133,0)\c&H6756A9&\3c&H4A4663&\pos(320.667,230)}Dainsleif (Replica)
+Dialogue: 0,0:04:14.75,0:04:17.31,screen_text,Sign,0,0,0,,{\fad(129,0)\fs10\b0\pos(320,121.333)}Quest
+Dialogue: 0,0:04:14.75,0:04:17.31,screen_text,Sign,0,0,0,,{\fs10\fad(129,0)\pos(320,159.333)\3c&H7A7471&}A Deal with the Administrator 2 (AA)
+Dialogue: 1,0:04:14.75,0:04:17.31,screen_text,Sign,0,0,0,,{\fs14\bord0.75\fad(129,0)\b0\c&HD3D0CC&\pos(320,170)}Construct and turn in the "Divine Shield"\Nto stop the Yatan Church's invasion.\N\NClear Condition: Create and turn in a "Divine Shield"\Nof epic class or greater within two days.\NClear Reward: Depends on quality.\N\NFailure: Deal is canceled.\NConnected quests will be lost.
+Dialogue: 0,0:04:14.75,0:04:17.31,screen_text,Sign,0,0,0,,{\fad(129,0)\an8\bord0\p1\fscy220\alpha&H5&\c&H8B7261&\pos(320,170.667)}m 0 0 l 320 0 320 58 0 58
+Dialogue: 0,0:06:13.24,0:06:14.60,screen_text,Sign,0,0,0,,{\blur2.5\fad(133,0)\c&HD4C56B&\frx346\fry26\pos(222,116.666)\frz21.05\3c&H574A43&}Divine Shield
+Dialogue: 0,0:06:13.24,0:06:14.60,screen_text,Sign,0,0,0,,{\b0\blur1\bord0.5\fad(133,0)\frx346\fry26\3c&H6E6764&\frz23.03\c&HD7D6CA&\pos(238,177.999)}Class: {\c&HCAA06D&}Rare
+Dialogue: 1,0:06:13.24,0:06:14.60,screen_text,Sign,0,0,0,,{\b0\fad(133,0)\c&HE5E5E5&\3c&H6C6D64&\frz24.17\frx346\fry20\pos(206.667,214)}Durability
+Dialogue: 1,0:06:13.24,0:06:14.60,screen_text,Sign,0,0,0,,{\b0\fad(133,0)\c&HE5E5E5&\3c&H6C6D64&\frz24.17\frx346\fry20\pos(219.334,238)}Defense
+Dialogue: 1,0:06:13.24,0:06:14.60,screen_text,Sign,0,0,0,,{\b0\fad(133,0)\c&HE5E5E5&\3c&H6C6D64&\frz24.17\frx346\fry20\pos(208,274.667)}Magic Resistance
+Dialogue: 0,0:06:13.24,0:06:14.60,screen_text,Sign,0,0,0,,{\blur3\an8\bord0\p1\fscy220\frx6\fry10\alpha&H0&\c&H737764&\fad(133,0)\frz24.77\pos(201.334,211)}m 0 0 l 90 0 90 12 0 12
+Dialogue: 0,0:06:13.24,0:06:14.60,screen_text,Sign,0,0,0,,{\blur3\an8\bord0\p1\fscy220\frx6\fry10\alpha&H0&\c&H737764&\fad(133,0)\frz24.77\pos(210.667,239)}m 0 0 l 90 0 90 12 0 12
+Dialogue: 0,0:06:13.24,0:06:14.60,screen_text,Sign,0,0,0,,{\blur3\an8\bord0\p1\fscy220\frx6\fry10\alpha&H0&\c&H666B56&\fad(133,0)\frz24.77\pos(219.334,264)}m 0 0 l 112 0 112 12 0 13
+Dialogue: 0,0:06:25.71,0:06:27.07,screen_text,Sign,0,0,0,,{\fs15\bord0.5\fad(133,0)\c&H3994C2&\pos(212,140)\3c&H4D4540&\frx16\fry350\frz1.03}Perfect Divine Shield
+Dialogue: 0,0:08:13.95,0:08:16.18,screen_text,Sign,0,0,0,,{\bord3\blur3\fad(252,185)\c&H0FF2F1&\3c&H4FC1E2&\move(320,41.333,320,60,0,1920))}Isabel
+Dialogue: 0,0:09:21.58,0:09:25.79,screen_text,Sign,0,0,0,,{\fscy120\c&HD8D3D3&\frx6\fry10\frz5.579\pos(271.999,42.001)}Guild
+Dialogue: 1,0:09:21.58,0:09:25.79,screen_text,Sign,0,0,0,,{\bord0.75\fs12\c&HD8D3D3&\frx6\fry10\frz8.375\pos(335.999,113.334)}Main Quests
+Dialogue: 0,0:09:21.58,0:09:25.79,screen_text,Sign,0,0,0,,{\an8\bord0\p1\fscy220\frx6\fry10\frz8.375\alpha&H0&\c&HA48C7A&\pos(338.667,112)}m 0 0 l 100 0 100 6 0 6
+Dialogue: 1,0:09:21.58,0:09:25.79,screen_text,Sign,0,0,0,,{\b0\bord0.75\fs12\c&HD8D3D3&\frx6\fry10\frz8.375\pos(339.332,148.667)}Quest
+Dialogue: 1,0:09:21.58,0:09:25.79,screen_text,Sign,0,0,0,,{\bord0.75\fs12\c&HD8D3D3&\frx6\fry10\frz8.375\pos(343.332,166.667)}Find the Blacksmith
+Dialogue: 1,0:09:21.58,0:09:25.79,screen_text,Sign,0,0,0,,{\b0\bord0.75\fs8\c&HD8D3D3&\frx6\fry10\pos(345.332,186.668)\frz8.991}Find and Recruit the Nameless Master
+Dialogue: 1,0:09:21.58,0:09:25.79,screen_text,Sign,0,0,0,,{\b0\bord0.75\fs12\c&HD8D3D3&\frx6\fry10\frz8.375\pos(351.999,225.334)}Quest
+Dialogue: 1,0:09:21.58,0:09:25.79,screen_text,Sign,0,0,0,,{\bord0.75\fs12\c&HD8D3D3&\frx6\fry10\frz10.61\pos(355.332,243.334)}Eliminate Euphemina
+Dialogue: 0,0:09:21.58,0:09:25.79,screen_text,Sign,0,0,0,,{\blur2\an8\bord0\p1\fscy220\frx6\fry10\frz8.375\alpha&H0&\c&HA48C7A&\pos(339.334,149.334)}m 0 0 l 32 0 32 6 0 6
+Dialogue: 0,0:09:21.58,0:09:25.79,screen_text,Sign,0,0,0,,{\blur2\an8\bord0\p1\fscy220\frx6\fry10\alpha&H0&\c&HA48C7A&\frz10.01\pos(354.667,238.666)}m 0 0 l 120 0 120 10 0 10
+Dialogue: 0,0:09:21.58,0:09:25.79,screen_text,Sign,0,0,0,,{\blur2\an8\bord0\p1\fscy220\frx6\fry10\frz8.375\alpha&H0&\c&HA48C7A&\pos(343.334,162)}m 0 0 l 120 0 120 18 0 18
+Dialogue: 0,0:09:21.58,0:09:25.79,screen_text,Sign,0,0,0,,{\blur2\an8\bord0\p1\fscy220\frx6\fry10\frz8.375\alpha&H0&\c&HA48C7A&\pos(352.001,224)}m 0 0 l 32 0 32 6 0 6
+Dialogue: 0,0:12:51.22,0:12:53.66,screen_text,Sign,0,0,0,,{\fs18\fad(259,0)\pos(117.333,14.5)\c&HD5CBC1&\3c&H766C65&}Map
+Dialogue: 0,0:12:51.22,0:12:53.66,screen_text,Sign,0,0,0,,{\fs10\fad(259,0)\c&HE2CCC1&\3c&H807369&\pos(201.333,22.5)}Luluf Mountain
+Dialogue: 0,0:13:34.85,0:13:37.00,screen_text,Sign,0,0,0,,{\fad(130,0)\move(309.333,85.333,330,85.333,0,2150))\c&HD7D6E4&\3c&H534F68&\frz1.409\frx20\fry20}Sixth Servant of Yatan Malaxus\Nhas appeared.
+
