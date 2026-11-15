@@ -1,0 +1,298 @@
+[Script Info]
+Title:
+Script Type: 4.00+
+Collisions: Normal
+PlayResY: 360
+PlayResX: 640
+PlayDepth: 0
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Font1,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Font2,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Font1_OutlineShadow,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Font2_OutlineShadow,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Layer1_Font1,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Layer1_Font2,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Layer1_Font1_Outline,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.54,0:00:05.46,Layer1_Font1,,0,0,0,,{\an8}THIS IS A WORK OF FICTION. IT HAS NO\NCONNECTION TO ANY REAL-LIFE EVENTS OR ORGS
+Dialogue: 0,0:00:01.08,0:00:04.34,Font1_OutlineShadow,,0,0,0,,{\i1}EDVA was planning the destruction{\i0}\N{\i1}of all intelligent life,{\i0}
+Dialogue: 0,0:00:04.34,0:00:07.01,Font1_OutlineShadow,,0,0,0,,{\i1}and then it finally attacked{\i0}\N{\i1}with a nuclear missile.{\i0}
+Dialogue: 0,0:00:07.38,0:00:09.43,Font1_OutlineShadow,,0,0,0,,{\i1}The moment I saw the explosion,{\i0}\N{\i1}ENIA unleashed a punch{\i0}
+Dialogue: 0,0:00:09.43,0:00:13.39,Font1_OutlineShadow,,0,0,0,,{\i1}that slashed right through{\i0}\N{\i1}the nuclear shock waves.{\i0}
+Dialogue: 0,0:00:14.10,0:00:16.56,Font1_OutlineShadow,,0,0,0,,{\i1}As amazed as I was by ENIA's sheer power,{\i0}
+Dialogue: 0,0:00:16.56,0:00:20.27,Font1_OutlineShadow,,0,0,0,,{\i1}I was also reminded that EDVA would{\i0}\N{\i1}stop at nothing to achieve its goal.{\i0}
+Dialogue: 0,0:01:51.57,0:01:54.20,Font1_OutlineShadow,,0,0,0,,{\an8}EPISODE 7: TODAY IS THE DAY
+Dialogue: 0,0:02:13.09,0:02:16.47,Font1_OutlineShadow,,0,0,0,,I never thought it'd attack\Nwith a nuclear missile.
+Dialogue: 0,0:02:16.47,0:02:20.14,Font1_OutlineShadow,,0,0,0,,I thought things like that\Nonly happened in movies.
+Dialogue: 0,0:02:20.14,0:02:24.06,Font1_OutlineShadow,,0,0,0,,And despite how huge the blast was,\Nit only caused panic locally.
+Dialogue: 0,0:02:24.44,0:02:26.90,Font1_OutlineShadow,,0,0,0,,Seems like the Power Down\Nis still in effect.
+Dialogue: 0,0:02:27.81,0:02:30.65,Font1_OutlineShadow,,0,0,0,,{\i1}That might be for the better{\i0}\N{\i1}in this case, though.{\i0}
+Dialogue: 0,0:02:30.65,0:02:34.32,Font1_OutlineShadow,,0,0,0,,{\i1}It's best if word doesn't get out{\i0}\N{\i1}about a nuclear attack.{\i0}
+Dialogue: 0,0:02:34.32,0:02:38.07,Font1_OutlineShadow,,0,0,0,,You don't think EDVA made\Na bunch of nuclear missiles
+Dialogue: 0,0:02:38.07,0:02:40.24,Font1_OutlineShadow,,0,0,0,,and plans to use them on populated areas?
+Dialogue: 0,0:02:40.24,0:02:41.41,Font1_OutlineShadow,,0,0,0,,That won't happen.
+Dialogue: 0,0:02:41.41,0:02:42.58,Font1_OutlineShadow,,0,0,0,,How do you know?
+Dialogue: 0,0:02:42.58,0:02:45.96,Font1_OutlineShadow,,0,0,0,,If innocent people are\Nlost in a nuclear strike,
+Dialogue: 0,0:02:46.58,0:02:49.67,Font1_OutlineShadow,,0,0,0,,Akira-kun will be convinced\Nit was his fault.
+Dialogue: 0,0:02:50.30,0:02:54.09,Font1_OutlineShadow,,0,0,0,,His belief in doing what's right is\Ntoo strong. He couldn't bear it.
+Dialogue: 0,0:02:54.09,0:02:54.92,Font1_OutlineShadow,,0,0,0,,What?
+Dialogue: 0,0:02:54.92,0:02:56.72,Font1_OutlineShadow,,0,0,0,,Couldn't bear it, as in...
+Dialogue: 0,0:02:56.72,0:02:58.18,Font1_OutlineShadow,,0,0,0,,That's what she means.
+Dialogue: 0,0:02:58.60,0:03:00.97,Font1_OutlineShadow,,0,0,0,,But if Akira-kun chooses death,
+Dialogue: 0,0:03:00.97,0:03:04.02,Font1_OutlineShadow,,0,0,0,,ENIA will be sealed away\Nin Theiarid space forever.
+Dialogue: 0,0:03:04.39,0:03:06.39,Font1_OutlineShadow,,0,0,0,,EDVA understands that.
+Dialogue: 0,0:03:06.81,0:03:11.32,Font1_OutlineShadow,,0,0,0,,So it won't kill humans en masse\Nbefore it gets its hands on ENIA.
+Dialogue: 0,0:03:11.69,0:03:14.19,Font1_OutlineShadow,,0,0,0,,I'm sure today's nuclear\Nattack was a bluff, too.
+Dialogue: 0,0:03:14.19,0:03:17.91,Font1_OutlineShadow,,0,0,0,,{\i1}So the kid's life is the key{\i0}\N{\i1}to protecting Earth, huh?{\i0}
+Dialogue: 0,0:03:18.49,0:03:20.99,Font1_OutlineShadow,,0,0,0,,{\i1}What a weight for a kid to have to bear.{\i0}
+Dialogue: 0,0:03:25.04,0:03:26.87,Font1_OutlineShadow,,0,0,0,,Huh? What is it?
+Dialogue: 0,0:03:28.21,0:03:31.04,Font1_OutlineShadow,,0,0,0,,The more important topic\Nhere is ENIA's insane power!
+Dialogue: 0,0:03:31.04,0:03:35.63,Font1_OutlineShadow,,0,0,0,,R-Right, right! It punched right through\Nthe shock waves from a nuclear blast!
+Dialogue: 0,0:03:35.63,0:03:39.26,Font1_OutlineShadow,,0,0,0,,With that kind of power,\Nwe can take on any Battlenoid!
+Dialogue: 0,0:03:39.26,0:03:40.89,Font1_OutlineShadow,,0,0,0,,Yeah, but at the time...
+Dialogue: 0,0:03:41.64,0:03:43.64,Font1_OutlineShadow,,0,0,0,,I only thought that\NI needed to protect them,
+Dialogue: 0,0:03:43.64,0:03:47.35,Font1_OutlineShadow,,0,0,0,,and I suddenly felt power welling\Nup from deep inside ENIA.
+Dialogue: 0,0:03:47.85,0:03:50.81,Font1_OutlineShadow,,0,0,0,,Perhaps ENIA's true power was set free.
+Dialogue: 0,0:03:50.81,0:03:51.81,Font1_OutlineShadow,,0,0,0,,Huh?
+Dialogue: 0,0:03:51.81,0:03:52.65,Font1_OutlineShadow,,0,0,0,,Say what?
+Dialogue: 0,0:03:52.65,0:03:53.52,Font1_OutlineShadow,,0,0,0,,Its true power?
+Dialogue: 0,0:03:54.40,0:03:55.94,Font1_OutlineShadow,,0,0,0,,The power of Theiatron.
+Dialogue: 0,0:03:55.94,0:03:57.28,Font1_OutlineShadow,,0,0,0,,Theiatron?
+Dialogue: 0,0:03:57.65,0:04:00.87,Font1_OutlineShadow,,0,0,0,,According to the information\Non this device my dad left me,
+Dialogue: 0,0:04:00.87,0:04:03.62,Font1_OutlineShadow,,0,0,0,,it's something that existed Theia's core.
+Dialogue: 0,0:04:03.62,0:04:04.70,Font1_OutlineShadow,,0,0,0,,"Something"?
+Dialogue: 0,0:04:04.70,0:04:06.79,Font1_OutlineShadow,,0,0,0,,If this record is true,
+Dialogue: 0,0:04:06.79,0:04:11.04,Font1_OutlineShadow,,0,0,0,,it's a conglomeration of all the time,\Nspace, resources, and energy
+Dialogue: 0,0:04:11.04,0:04:15.34,Font1_OutlineShadow,,0,0,0,,that didn't become part of the\Nuniverse when it was formed.
+Dialogue: 0,0:04:15.34,0:04:16.80,Font1_OutlineShadow,,0,0,0,,What the heck?
+Dialogue: 0,0:04:16.80,0:04:19.43,Font1_OutlineShadow,,0,0,0,,In any case, it holds unfathomable power.
+Dialogue: 0,0:04:19.43,0:04:23.18,Font1_OutlineShadow,,0,0,0,,And this "Theiatron" is inside ENIA?
+Dialogue: 0,0:04:23.18,0:04:27.60,Font1_OutlineShadow,,0,0,0,,Yes. EDVA used it to make ENIA
+Dialogue: 0,0:04:28.18,0:04:31.73,Font1_OutlineShadow,,0,0,0,,for the purpose of wiping out\Nall intelligent life in the universe.
+Dialogue: 0,0:04:32.06,0:04:34.94,Font1_OutlineShadow,,0,0,0,,That's why our parents took ENIA from it.
+Dialogue: 0,0:04:35.98,0:04:39.07,Font1_OutlineShadow,,0,0,0,,ENIA has something that dangerous in it?
+Dialogue: 0,0:04:39.07,0:04:42.95,Font1_OutlineShadow,,0,0,0,,Lala, why didn't you tell us\Nabout Theiatron before?
+Dialogue: 0,0:04:42.95,0:04:45.99,Font1_OutlineShadow,,0,0,0,,I doubted its existence\Nmyself until today.
+Dialogue: 0,0:04:46.33,0:04:49.21,Font1_OutlineShadow,,0,0,0,,I thought it was utter nonsense\Nthat couldn't be real.
+Dialogue: 0,0:04:50.37,0:04:53.00,Font1_OutlineShadow,,0,0,0,,But poison can sometimes work as medicine.
+Dialogue: 0,0:04:54.09,0:04:57.09,Font1_OutlineShadow,,0,0,0,,You think we can use\NTheiatron to defeat EDVA?
+Dialogue: 0,0:04:57.09,0:05:00.59,Font1_OutlineShadow,,0,0,0,,But I thought physical attacks\Ndidn't work on EDVA.
+Dialogue: 0,0:05:01.26,0:05:03.34,Font1_OutlineShadow,,0,0,0,,If they don't work, we'll make them work.
+Dialogue: 0,0:05:03.34,0:05:08.22,Font1_OutlineShadow,,0,0,0,,With a weapon made using Theiatron,\Na mass of universe itself,
+Dialogue: 0,0:05:08.22,0:05:10.18,Font1_OutlineShadow,,0,0,0,,we should be able to take EDVA out.
+Dialogue: 0,0:05:10.18,0:05:14.36,Font1_OutlineShadow,,0,0,0,,That's incredible! Even if I don't\Nreally get it! Right, Yoko-chan?
+Dialogue: 0,0:05:14.36,0:05:15.61,Font1_OutlineShadow,,0,0,0,,Y-Yeah...
+Dialogue: 0,0:05:16.02,0:05:19.90,Font1_OutlineShadow,,0,0,0,,The question is whether Akira-kun\Ncould use such a weapon or not.
+Dialogue: 0,0:05:20.40,0:05:21.86,Font1_OutlineShadow,,0,0,0,,What do you say, Akira?
+Dialogue: 0,0:05:22.24,0:05:27.08,Font1_OutlineShadow,,0,0,0,,When I'm piloting ENIA, the weapons\NI can use sort of show up in my head,
+Dialogue: 0,0:05:27.45,0:05:28.79,Font1_OutlineShadow,,0,0,0,,but not one like that...
+Dialogue: 0,0:05:28.79,0:05:30.83,Font1_OutlineShadow,,0,0,0,,There must be one.
+Dialogue: 0,0:05:30.83,0:05:34.67,Font1_OutlineShadow,,0,0,0,,An energy weapon that uses Theiatron.\NTry to remember!
+Dialogue: 0,0:05:36.34,0:05:38.21,Font1_OutlineShadow,,0,0,0,,That's not good enough!
+Dialogue: 0,0:05:38.76,0:05:40.97,Font1_OutlineShadow,,0,0,0,,Hey, Lalacchi! What's gotten into you?
+Dialogue: 0,0:05:41.51,0:05:45.14,Font1_OutlineShadow,,0,0,0,,Well, no matter how great the\Npower is, if Akira can't use it...
+Dialogue: 0,0:05:46.01,0:05:51.43,Font1_OutlineShadow,,0,0,0,,Um, Akira-kun seems able to use ENIA\Nbetter than before. Maybe in time...
+Dialogue: 0,0:05:51.43,0:05:53.48,Font1_OutlineShadow,,0,0,0,,EDVA won't wait that long.
+Dialogue: 0,0:05:55.61,0:06:00.53,Font1_OutlineShadow,,0,0,0,,{\i1}Back then... it was only for an instant,{\i0}\N{\i1}but EDVA definitely took damage.{\i0}
+Dialogue: 0,0:06:01.74,0:06:05.07,Font1_OutlineShadow,,0,0,0,,I thought maybe we could use Theiatron\Nto create an electromagnetic pulse.
+Dialogue: 0,0:06:05.07,0:06:06.57,Font1_OutlineShadow,,0,0,0,,Electromagnetic pulse?
+Dialogue: 0,0:06:06.57,0:06:10.24,Font1_OutlineShadow,,0,0,0,,A nuclear explosion generates a\Npowerful electromagnetic pulse
+Dialogue: 0,0:06:10.24,0:06:12.91,Font1_OutlineShadow,,0,0,0,,that causes serious damage\Nto electronic devices.
+Dialogue: 0,0:06:12.91,0:06:15.92,Font1_OutlineShadow,,0,0,0,,What? So even a mass of data like EDVA...
+Dialogue: 0,0:06:15.92,0:06:19.46,Font1_OutlineShadow,,0,0,0,,W-Wait a minute! Are you talking\Nabout causing a nuclear explosion?
+Dialogue: 0,0:06:19.46,0:06:20.67,Font1_OutlineShadow,,0,0,0,,You're kidding, right?
+Dialogue: 0,0:06:21.09,0:06:23.63,Font1_OutlineShadow,,0,0,0,,We don't necessarily need\Na nuclear explosion.
+Dialogue: 0,0:06:24.34,0:06:28.51,Font1_OutlineShadow,,0,0,0,,On a smaller scale, there's a kind\Nof lightning called a "superbolt"
+Dialogue: 0,0:06:28.51,0:06:31.27,Font1_OutlineShadow,,0,0,0,,that generates electromagnetic power\Ncomparable to a nuclear explosion.
+Dialogue: 0,0:06:31.27,0:06:34.06,Font1_OutlineShadow,,0,0,0,,They only occur in very\Nspecific conditions, though.
+Dialogue: 0,0:06:34.64,0:06:36.98,Font1_OutlineShadow,,0,0,0,,So with a superbolt, we can defeat EDVA!
+Dialogue: 0,0:06:37.52,0:06:40.23,Font1_OutlineShadow,,0,0,0,,No. It won't have enough energy.
+Dialogue: 0,0:06:40.23,0:06:45.15,Font1_OutlineShadow,,0,0,0,,But if we can create a hyperbolt, which is\Nfar more powerful than even a superbolt...
+Dialogue: 0,0:06:45.15,0:06:48.37,Font1_OutlineShadow,,0,0,0,,Hold up! Why didn't you\Nbring this up this sooner?
+Dialogue: 0,0:06:48.37,0:06:51.49,Font1_OutlineShadow,,0,0,0,,If you need an electromagnetic attack,\Nyou've got my Photon Engine!
+Dialogue: 0,0:06:51.91,0:06:55.92,Font1_OutlineShadow,,0,0,0,,A hyperbolt requires\N180,000,000 kilowatts of energy.
+Dialogue: 0,0:06:56.25,0:06:57.75,Font1_OutlineShadow,,0,0,0,,That's impossible for Engine.
+Dialogue: 0,0:06:57.75,0:06:58.63,Font1_OutlineShadow,,0,0,0,,Damn!
+Dialogue: 0,0:07:15.56,0:07:16.73,Font1_OutlineShadow,,0,0,0,,Eleanor-san...
+Dialogue: 0,0:07:19.73,0:07:20.82,Font1_OutlineShadow,,0,0,0,,Eleanor-san!
+Dialogue: 0,0:07:21.23,0:07:23.28,Font1_OutlineShadow,,0,0,0,,Where are you going? Eleanor-san!
+Dialogue: 0,0:07:23.28,0:07:24.44,Font1_OutlineShadow,,0,0,0,,Don't follow me.
+Dialogue: 0,0:07:43.59,0:07:45.21,Font1_OutlineShadow,,0,0,0,,What's she doing?
+Dialogue: 0,0:08:18.16,0:08:21.33,Font1_OutlineShadow,,0,0,0,,I'll be the one to defeat EDVA!
+Dialogue: 0,0:08:47.15,0:08:47.99,Font2_OutlineShadow,,0,0,0,,Too slow!
+Dialogue: 0,0:08:49.40,0:08:53.03,Font2_OutlineShadow,,0,0,0,,Do you think you'll be able to\Navenge your father like that?
+Dialogue: 0,0:08:53.03,0:08:55.03,Font2_OutlineShadow,,0,0,0,,I-I'm sorry.
+Dialogue: 0,0:08:55.03,0:08:57.41,Font2_OutlineShadow,,0,0,0,,Get stronger before you apologize!
+Dialogue: 0,0:08:57.41,0:09:01.87,Font2_OutlineShadow,,0,0,0,,As one who bears the blood of\Nthe Vertex, you must be stronger!
+Dialogue: 0,0:09:01.87,0:09:03.42,Font2_OutlineShadow,,0,0,0,,Yes, Mother.
+Dialogue: 0,0:09:03.75,0:09:06.92,Font2_OutlineShadow,,0,0,0,,EDVA, your father's killer,\Nwill undoubtedly return.
+Dialogue: 0,0:09:07.26,0:09:10.05,Font2_OutlineShadow,,0,0,0,,You are the only one who\Ncan fight it when it does!
+Dialogue: 0,0:09:10.05,0:09:13.09,Font2_OutlineShadow,,0,0,0,,Eleanor, you must defeat EDVA!
+Dialogue: 0,0:09:13.09,0:09:14.22,Font2_OutlineShadow,,0,0,0,,Yes, Mother!
+Dialogue: 0,0:09:14.22,0:09:15.68,Font2_OutlineShadow,,0,0,0,,{\i1}Defeat EDVA...{\i0}
+Dialogue: 0,0:09:15.68,0:09:17.43,Font2_OutlineShadow,,0,0,0,,{\i1}I will defeat EDVA!{\i0}
+Dialogue: 0,0:09:20.27,0:09:24.19,Font2_OutlineShadow,,0,0,0,,Spirits of the earth and air,\Nye of great will and strength,
+Dialogue: 0,0:09:24.69,0:09:28.36,Font2_OutlineShadow,,0,0,0,,I offer my deepest gratitude and reverence\Nfor your mercy and wisdom.
+Dialogue: 0,0:09:33.07,0:09:36.53,Font2_OutlineShadow,,0,0,0,,Hey, the spirits have\Namazing power, right?
+Dialogue: 0,0:09:36.53,0:09:39.37,Font2_OutlineShadow,,0,0,0,,So we should get them to defeat EDVA.
+Dialogue: 0,0:09:39.37,0:09:43.54,Font2_OutlineShadow,,0,0,0,,No. We must never seek\Nthe power of the spirits.
+Dialogue: 0,0:09:43.54,0:09:47.13,Font2_OutlineShadow,,0,0,0,,We may only offer them\Nour thanks and prayers.
+Dialogue: 0,0:09:47.13,0:09:48.50,Font2_OutlineShadow,,0,0,0,,Why can't we?
+Dialogue: 0,0:09:48.50,0:09:52.34,Font2_OutlineShadow,,0,0,0,,They are sublime beings\Nthat far surpass humans.
+Dialogue: 0,0:09:53.59,0:09:57.72,Font2_OutlineShadow,,0,0,0,,If you seek their power,\Nyou must pay a great price.
+Dialogue: 0,0:09:57.72,0:09:58.85,Font2_OutlineShadow,,0,0,0,,A price?
+Dialogue: 0,0:10:00.02,0:10:01.93,Font2_OutlineShadow,,0,0,0,,The life of the one who makes the request.
+Dialogue: 0,0:10:06.11,0:10:10.44,Font1_OutlineShadow,,0,0,0,,{\i1}Spirits, if you'll grant me{\i0}\N{\i1}the power to defeat EDVA,{\i0}
+Dialogue: 0,0:10:10.90,0:10:13.11,Font1_OutlineShadow,,0,0,0,,{\i1}my life is yours!{\i0}
+Dialogue: 0,0:10:15.78,0:10:16.87,Font1_OutlineShadow,,0,0,0,,Eleanor-san.
+Dialogue: 0,0:10:17.83,0:10:20.37,Font1_OutlineShadow,,0,0,0,,What? Got tired of just watching?
+Dialogue: 0,0:10:20.37,0:10:22.12,Font1_OutlineShadow,,0,0,0,,Here. Have some water.
+Dialogue: 0,0:10:22.58,0:10:24.33,Font1_OutlineShadow,,0,0,0,,No need. Move.
+Dialogue: 0,0:10:24.33,0:10:26.50,Font1_OutlineShadow,,0,0,0,,Um, what is all this, anyway?
+Dialogue: 0,0:10:26.50,0:10:28.17,Font1_OutlineShadow,,0,0,0,,A way to defeat EDVA.
+Dialogue: 0,0:10:28.17,0:10:29.00,Font1_OutlineShadow,,0,0,0,,Huh?
+Dialogue: 0,0:10:30.25,0:10:31.21,Font1_OutlineShadow,,0,0,0,,This?
+Dialogue: 0,0:10:32.59,0:10:34.63,Font1_OutlineShadow,,0,0,0,,My mother was a shaman.
+Dialogue: 0,0:10:35.01,0:10:38.51,Font1_OutlineShadow,,0,0,0,,She'd build altars and commune with\Nthe spirits that dwell in nature.
+Dialogue: 0,0:10:39.01,0:10:43.52,Font1_OutlineShadow,,0,0,0,,If I use her secret art, I should be able\Nto borrow immense spirit powers.
+Dialogue: 0,0:10:43.52,0:10:45.39,Font1_OutlineShadow,,0,0,0,,Spirit powers...
+Dialogue: 0,0:10:45.39,0:10:48.40,Font1_OutlineShadow,,0,0,0,,Yeah. And if I can do that,
+Dialogue: 0,0:10:48.40,0:10:51.28,Font1_OutlineShadow,,0,0,0,,I'm sure I can gain the energy\Nneeded for a hyperbolt.
+Dialogue: 0,0:10:51.65,0:10:53.40,Font1_OutlineShadow,,0,0,0,,It's my ace in the hole.
+Dialogue: 0,0:10:53.82,0:10:58.24,Font2_OutlineShadow,,0,0,0,,If you seek their power,\Nyou must pay a great price.
+Dialogue: 0,0:10:59.53,0:11:02.79,Font1_OutlineShadow,,0,0,0,,{\i1}I know, Mother. But...{\i0}
+Dialogue: 0,0:11:05.16,0:11:07.79,Font1_OutlineShadow,,0,0,0,,Um, I'll help you build it.
+Dialogue: 0,0:11:07.79,0:11:08.67,Font1_OutlineShadow,,0,0,0,,No, you won't.
+Dialogue: 0,0:11:09.34,0:11:11.67,Font1_OutlineShadow,,0,0,0,,I have to build the altar myself.
+Dialogue: 0,0:11:12.55,0:11:15.97,Font1_OutlineShadow,,0,0,0,,If anyone helps me,\Nthe spirits won't answer my plea.
+Dialogue: 0,0:11:17.64,0:11:19.01,Font1_OutlineShadow,,0,0,0,,Eleanor-san...
+Dialogue: 0,0:11:19.43,0:11:24.02,Font1_OutlineShadow,,0,0,0,,You can't ask a higher power for help\Nuntil you've done all that must be done.
+Dialogue: 0,0:11:29.94,0:11:31.52,Font1_OutlineShadow,,0,0,0,,Akira!
+Dialogue: 0,0:11:31.90,0:11:34.24,Font1_OutlineShadow,,0,0,0,,Darn it, where did he go?
+Dialogue: 0,0:11:34.24,0:11:35.78,Font1_OutlineShadow,,0,0,0,,Eleanor-san's gone, too.
+Dialogue: 0,0:11:35.78,0:11:38.36,Font1_OutlineShadow,,0,0,0,,Akira's gone delinquent on me!
+Dialogue: 0,0:11:38.36,0:11:39.41,Font1_OutlineShadow,,0,0,0,,Alan, any ideas?
+Dialogue: 0,0:11:39.41,0:11:43.41,Font1_OutlineShadow,,0,0,0,,I ain't the kid's babysitter. Bye now.
+Dialogue: 0,0:11:43.79,0:11:46.62,Font1_OutlineShadow,,0,0,0,,Eleanor must've taken him somewhere!
+Dialogue: 0,0:11:46.62,0:11:49.67,Font1_OutlineShadow,,0,0,0,,Grr! What's she thinking?!
+Dialogue: 0,0:11:49.67,0:11:53.25,Font1_OutlineShadow,,0,0,0,,At a time like this, it's best to\Nstay put and await their return.
+Dialogue: 0,0:11:53.25,0:11:54.88,Font1_OutlineShadow,,0,0,0,,Oh, for crying out loud!
+Dialogue: 0,0:12:03.51,0:12:08.06,Font1_OutlineShadow,,0,0,0,,Eleanor-san, you should take a break.\NAt least drink some water...
+Dialogue: 0,0:12:08.06,0:12:08.94,Font1_OutlineShadow,,0,0,0,,I can't.
+Dialogue: 0,0:12:09.65,0:12:13.65,Font1_OutlineShadow,,0,0,0,,It's forbidden to eat or drink\Nuntil the altar is complete.
+Dialogue: 0,0:12:13.65,0:12:15.11,Font1_OutlineShadow,,0,0,0,,But you'll die!
+Dialogue: 0,0:12:15.11,0:12:16.61,Font1_OutlineShadow,,0,0,0,,It's a test.
+Dialogue: 0,0:12:17.74,0:12:21.20,Font1_OutlineShadow,,0,0,0,,To find out whether I'm worthy\Nof the spirits' power or not.
+Dialogue: 0,0:12:21.82,0:12:23.58,Font1_OutlineShadow,,0,0,0,,Then I won't drink, either!
+Dialogue: 0,0:12:23.58,0:12:26.91,Font1_OutlineShadow,,0,0,0,,Don't be dumb.\NWhat good is that going to do?
+Dialogue: 0,0:12:26.91,0:12:30.46,Font1_OutlineShadow,,0,0,0,,Still, if you won't drink anything,\Nneither will I!
+Dialogue: 0,0:12:30.83,0:12:32.21,Font1_OutlineShadow,,0,0,0,,Have it your way.
+Dialogue: 0,0:12:45.72,0:12:46.93,Font1_OutlineShadow,,0,0,0,,Don't push yourself.
+Dialogue: 0,0:12:49.85,0:12:53.23,Font1_OutlineShadow,,0,0,0,,The spirits won't get angry\Nwith you for drinking water.
+Dialogue: 0,0:12:54.02,0:12:54.86,Font1_OutlineShadow,,0,0,0,,So drink.
+Dialogue: 0,0:12:54.86,0:12:56.03,Font1_OutlineShadow,,0,0,0,,N-No...
+Dialogue: 0,0:12:56.03,0:12:59.61,Font1_OutlineShadow,,0,0,0,,Besides, Haruka's gonna\Nget real scary if you die.
+Dialogue: 0,0:13:01.41,0:13:05.16,Font1_OutlineShadow,,0,0,0,,{\i1}Damn it! Eleanor-san must feel so{\i0}\N{\i1}much worse than I do, and yet...{\i0}
+Dialogue: 0,0:13:05.74,0:13:08.37,Font1_OutlineShadow,,0,0,0,,{\an8}DAY 2
+Dialogue: 0,0:13:24.14,0:13:25.39,Font1_OutlineShadow,,0,0,0,,Eleanor-san...
+Dialogue: 0,0:13:25.39,0:13:28.14,Font1_OutlineShadow,,0,0,0,,You didn't stay up all night, did you?
+Dialogue: 0,0:13:32.48,0:13:33.56,Font1_OutlineShadow,,0,0,0,,Still not ready...
+Dialogue: 0,0:13:58.30,0:13:59.42,Font1_OutlineShadow,,0,0,0,,Eleanor-san!
+Dialogue: 0,0:13:59.80,0:14:01.13,Font1_OutlineShadow,,0,0,0,,Are you all right?!
+Dialogue: 0,0:14:01.47,0:14:02.42,Font1_OutlineShadow,,0,0,0,,Don't butt in!
+Dialogue: 0,0:14:05.93,0:14:07.01,Font1_OutlineShadow,,0,0,0,,You're bleeding.
+Dialogue: 0,0:14:07.93,0:14:10.60,Font1_OutlineShadow,,0,0,0,,This won't count as\Nhelping you build, right?
+Dialogue: 0,0:14:11.14,0:14:14.10,Font1_OutlineShadow,,0,0,0,,Why are you so fixated on\Nbeing the one to beat EDVA?
+Dialogue: 0,0:14:14.52,0:14:18.61,Font1_OutlineShadow,,0,0,0,,Because... this is everything to me!
+Dialogue: 0,0:14:21.99,0:14:24.11,Font2_OutlineShadow,,0,0,0,,Engine, Ignition!
+Dialogue: 0,0:14:25.36,0:14:30.24,Font1_OutlineShadow,,0,0,0,,Ever since my father died,\Nmy mother raised me as a soldier.
+Dialogue: 0,0:14:31.79,0:14:36.79,Font1_OutlineShadow,,0,0,0,,Our whole life together revolved\Naround defeating EDVA.
+Dialogue: 0,0:14:38.92,0:14:41.84,Font1_OutlineShadow,,0,0,0,,It was hard, but I wasn't lonely.
+Dialogue: 0,0:14:42.42,0:14:48.30,Font1_OutlineShadow,,0,0,0,,My mother and I were bound more tightly\Nthan anyone else by our unwavering goal.
+Dialogue: 0,0:14:49.47,0:14:51.39,Font1_OutlineShadow,,0,0,0,,Then she died, too, from an illness.
+Dialogue: 0,0:14:51.39,0:14:53.68,Font1_OutlineShadow,,0,0,0,,I was left behind alone.
+Dialogue: 0,0:14:53.68,0:14:57.69,Font1_OutlineShadow,,0,0,0,,But that feeling still lives within me:
+Dialogue: 0,0:14:58.48,0:15:00.57,Font1_OutlineShadow,,0,0,0,,"I have to avenge my father."
+Dialogue: 0,0:15:01.03,0:15:05.99,Font1_OutlineShadow,,0,0,0,,I will defeat EDVA with my own hands.\NThat is my only reason for living.
+Dialogue: 0,0:15:10.95,0:15:14.41,Font1_OutlineShadow,,0,0,0,,Eleanor, you big dummy!
+Dialogue: 0,0:15:14.41,0:15:17.83,Font1_OutlineShadow,,0,0,0,,It's been two whole days! I'm done!\NI'm going to look for them!
+Dialogue: 0,0:15:17.83,0:15:19.04,Font1_OutlineShadow,,0,0,0,,Me, too!
+Dialogue: 0,0:15:19.04,0:15:22.34,Font1_OutlineShadow,,0,0,0,,Going where? No matter where\Nyou look, it's pointless.
+Dialogue: 0,0:15:22.34,0:15:24.01,Font1_OutlineShadow,,0,0,0,,Aren't you worried about them, too?
+Dialogue: 0,0:15:24.01,0:15:27.68,Font1_OutlineShadow,,0,0,0,,I am. If anything were to happen\Nto ENIA and Theiatron...
+Dialogue: 0,0:15:28.18,0:15:31.76,Font1_OutlineShadow,,0,0,0,,But I know Eleanor would never\Nput Akira-kun in danger.
+Dialogue: 0,0:15:32.14,0:15:33.39,Font1_OutlineShadow,,0,0,0,,I really believe that.
+Dialogue: 0,0:15:35.31,0:15:38.27,Font1_OutlineShadow,,0,0,0,,{\an8}DAY 3
+Dialogue: 0,0:15:41.69,0:15:44.03,Font1_OutlineShadow,,0,0,0,,One more... level...
+Dialogue: 0,0:15:44.57,0:15:46.70,Font1_OutlineShadow,,0,0,0,,One... more...
+Dialogue: 0,0:15:53.66,0:15:57.50,Font1_OutlineShadow,,0,0,0,,{\i1}Huh? Am I lying on the ground?{\i0}
+Dialogue: 0,0:15:58.21,0:15:59.46,Font1_OutlineShadow,,0,0,0,,{\i1}Why?{\i0}
+Dialogue: 0,0:16:04.84,0:16:05.80,Font1_OutlineShadow,,0,0,0,,Akira?!
+Dialogue: 0,0:16:07.59,0:16:09.34,Font1_OutlineShadow,,0,0,0,,Hey! Are you okay?
+Dialogue: 0,0:16:09.34,0:16:12.10,Font1_OutlineShadow,,0,0,0,,You're dehydrated, you idiot!
+Dialogue: 0,0:16:14.18,0:16:18.19,Font1_OutlineShadow,,0,0,0,,D-Don't. I made a promise.
+Dialogue: 0,0:16:19.23,0:16:22.90,Font1_OutlineShadow,,0,0,0,,I won't drink anything... until you do.
+Dialogue: 0,0:16:22.90,0:16:25.78,Font1_OutlineShadow,,0,0,0,,Then if I drink, you will, right?
+Dialogue: 0,0:16:25.78,0:16:27.11,Font1_OutlineShadow,,0,0,0,,That's not the point!
+Dialogue: 0,0:16:28.28,0:16:33.91,Font1_OutlineShadow,,0,0,0,,I'll be waiting... until you\Nfinish what you need to do.
+Dialogue: 0,0:16:36.37,0:16:38.33,Font1_OutlineShadow,,0,0,0,,You complete idiot...
+Dialogue: 0,0:17:11.70,0:17:12.78,Font1_OutlineShadow,,0,0,0,,Rain?
+Dialogue: 0,0:17:14.41,0:17:15.70,Font1_OutlineShadow,,0,0,0,,Eleanor-san...
+Dialogue: 0,0:17:16.33,0:17:20.21,Font1_OutlineShadow,,0,0,0,,I can hear the spirits' footsteps...
+Dialogue: 0,0:17:20.21,0:17:22.21,Font1_OutlineShadow,,0,0,0,,Just you wait, Akira!
+Dialogue: 0,0:17:28.01,0:17:29.47,Font1_OutlineShadow,,0,0,0,,With this...
+Dialogue: 0,0:17:29.47,0:17:32.18,Font1_OutlineShadow,,0,0,0,,it's done!
+Dialogue: 0,0:17:33.39,0:17:38.47,Font1_OutlineShadow,,0,0,0,,Spirits of the earth and air,\Nlend me your power!
+Dialogue: 0,0:17:40.06,0:17:41.39,Font1_OutlineShadow,,0,0,0,,Engine, Ignition!
+Dialogue: 0,0:17:57.66,0:18:00.33,Font1_OutlineShadow,,0,0,0,,You did it... Eleanor-san...
+Dialogue: 0,0:18:07.71,0:18:09.59,Font1_OutlineShadow,,0,0,0,,Here. Your turn.
+Dialogue: 0,0:18:12.38,0:18:15.34,Font1_OutlineShadow,,0,0,0,,You really are a major idiot.
+Dialogue: 0,0:18:25.60,0:18:26.44,Font1_OutlineShadow,,0,0,0,,It's here.
+Dialogue: 0,0:18:30.82,0:18:32.07,Font1_OutlineShadow,,0,0,0,,A Battlenoid!
+Dialogue: 0,0:18:34.74,0:18:39.74,Font1_OutlineShadow,,0,0,0,,I cannot comprehend why you\Nwould disclose your location.
+Dialogue: 0,0:18:39.74,0:18:41.08,Font1_OutlineShadow,,0,0,0,,EDVA!
+Dialogue: 0,0:18:41.58,0:18:43.96,Font1_OutlineShadow,,0,0,0,,A most foolish thing to do.
+Dialogue: 0,0:18:43.96,0:18:48.42,Font1_OutlineShadow,,0,0,0,,Buy me time!\NI'll start preparing the hyperbolt!
+Dialogue: 0,0:18:48.42,0:18:49.75,Font1_OutlineShadow,,0,0,0,,Can you do that, Akira?
+Dialogue: 0,0:18:49.75,0:18:50.59,Font1_OutlineShadow,,0,0,0,,Yes!
+Dialogue: 0,0:18:50.59,0:18:54.93,Font1_OutlineShadow,,0,0,0,,But that itself is the\Ndefect in intelligent life.
+Dialogue: 0,0:18:55.34,0:18:58.10,Font1_OutlineShadow,,0,0,0,,It proves you must be eliminated.
+Dialogue: 0,0:18:58.10,0:18:59.93,Font1_OutlineShadow,,0,0,0,,Here we go!
+Dialogue: 0,0:19:00.35,0:19:02.93,Font1_OutlineShadow,,0,0,0,,ENIA, Activation!
+Dialogue: 0,0:19:06.31,0:19:08.23,Font1_OutlineShadow,,0,0,0,,Engine, Overdrive!
+Dialogue: 0,0:19:13.03,0:19:15.40,Font1_OutlineShadow,,0,0,0,,I won't let you stop Eleanor-san!
+Dialogue: 0,0:19:15.40,0:19:19.83,Font1_OutlineShadow,,0,0,0,,All I want is ENIA.\NI have no interest in anything else.
+Dialogue: 0,0:19:26.29,0:19:28.29,Font1_OutlineShadow,,0,0,0,,My head's gonna split open!
+Dialogue: 0,0:19:28.29,0:19:31.92,Font1_OutlineShadow,,0,0,0,,Can you endure pain like\Nneedles piercing your eardrums?
+Dialogue: 0,0:19:37.09,0:19:38.01,Font1_OutlineShadow,,0,0,0,,Akira!
+Dialogue: 0,0:19:39.93,0:19:42.14,Font1_OutlineShadow,,0,0,0,,Damn it!
+Dialogue: 0,0:20:13.21,0:20:16.05,Font1_OutlineShadow,,0,0,0,,You erased your pain with more pain?
+Dialogue: 0,0:20:17.38,0:20:22.22,Font1_OutlineShadow,,0,0,0,,Compared to how thirsty\NI was earlier, this is nothing!
+Dialogue: 0,0:20:23.97,0:20:25.64,Font1_OutlineShadow,,0,0,0,,Nice going, Akira!
+Dialogue: 0,0:20:27.27,0:20:29.02,Font1_OutlineShadow,,0,0,0,,I have no use for you.
+Dialogue: 0,0:20:29.44,0:20:33.36,Font1_OutlineShadow,,0,0,0,,I will avenge my father! That's the only\Nthing I've lived for all these years!
+Dialogue: 0,0:20:33.36,0:20:34.90,Font1_OutlineShadow,,0,0,0,,Today is the day!
+Dialogue: 0,0:20:38.45,0:20:41.62,Font1_OutlineShadow,,0,0,0,,Don't underestimate me!\NI've received the spirits' blessing!
+Dialogue: 0,0:20:45.62,0:20:49.62,Font1_OutlineShadow,,0,0,0,,Take this! Hyperbolt!
+Dialogue: 0,0:20:50.12,0:20:51.38,Font1_OutlineShadow,,0,0,0,,That is...
+Dialogue: 0,0:20:55.80,0:20:56.76,Font1_OutlineShadow,,0,0,0,,Impossible!
+Dialogue: 0,0:20:57.59,0:21:00.88,Font1_OutlineShadow,,0,0,0,,Die, EDVA!
+Dialogue: 0,0:21:15.40,0:21:17.44,Font1_OutlineShadow,,0,0,0,,Is that an aurora?
+Dialogue: 0,0:21:17.44,0:21:19.15,Font1_OutlineShadow,,0,0,0,,What in the world...
+Dialogue: 0,0:21:28.79,0:21:30.00,Font1_OutlineShadow,,0,0,0,,Eleanor-san!
+Dialogue: 0,0:21:31.83,0:21:34.67,Font1_OutlineShadow,,0,0,0,,Eleanor-san! Eleanor-san!
+Dialogue: 0,0:21:36.04,0:21:37.05,Font1_OutlineShadow,,0,0,0,,Not so loud.
+Dialogue: 0,0:21:37.05,0:21:38.38,Font1_OutlineShadow,,0,0,0,,Eleanor-san!
+Dialogue: 0,0:21:39.42,0:21:42.84,Font1_OutlineShadow,,0,0,0,,Did you see that, Akira?\NI defeated EDVA!
+Dialogue: 0,0:21:47.72,0:21:50.18,Font1_OutlineShadow,,0,0,0,,Yes, I saw! You did it!
+Dialogue: 0,0:21:50.64,0:21:53.19,Font1_OutlineShadow,,0,0,0,,You defeated EDVA!
+Dialogue: 0,0:21:56.36,0:22:00.44,Font1_OutlineShadow,,0,0,0,,{\i1}Father... Mother... I did it.{\i0}
+Dialogue: 0,0:23:35.04,0:23:40.04,Font1_OutlineShadow,,0,0,0,,{\an8}EPISODE 8: SUMMER BREAK FOR THE FIVE
+
