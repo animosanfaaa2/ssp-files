@@ -1,0 +1,314 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,15,1
+Style: sign,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,12,1
+Style: Main_Overlap,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H006C6C6C,&H006C6C6C,0,0,0,0,100,100,0,0,1,2,1,2,10,10,15,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,15,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00730200,&H00730200,0,0,0,0,100,100,0,0,1,2,1,2,10,10,15,1
+Style: EpTitle,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,3,0,1,0,1,1,184,10,70,1
+Style: TitoloNext,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,3,0,1,0,1,7,10,10,215,1
+Style: NextEp,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,1,2,10,10,220,1
+Style: Disclaimer,Arial,11,&H00ECF4F5,&H000000FF,&H00747474,&H00747474,0,0,0,0,100,100,0,0,1,1,1,2,329,2,31,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:17.06,0:01:20.18,sign,sign,0,0,0,,{\fsp2\frz8.24\fnComic Sans MS\bord3\b1\fs40\t(\fs30)\move(52,-3,94,32)\c&H000000&\3c&HF0EEF0&}Leone
+Dialogue: 0,0:01:20.18,0:01:23.15,sign,sign,0,0,0,,{\fsp2\frz8.24\fs26\t(\fs16)\fnComic Sans MS\bord2\b1\move(590,252,487,266)\c&H000000&\3c&HF0EEF0&}Giraffa
+Dialogue: 0,0:01:30.29,0:01:31.85,Italics,Hikaru,0,0,0,,Che nostalgia.
+Dialogue: 0,0:01:32.28,0:01:35.81,Italics,Hikaru,0,0,0,,Fino a quando abbiamo scritto\Nquesto diario condiviso?
+Dialogue: 0,0:01:35.36,0:01:36.16,sign,sign,0,0,0,,{\fad(400,0)\bord0\fnComic Sans MS\fax0.2\fs20\fsp1.5\frz74.75\c&H606066&\pos(450,115)}Casa di nonna
+Dialogue: 0,0:01:36.41,0:01:40.12,Italics,Hikaru,0,0,0,,Aspettavo con impazienza\Nle risposte di mia sorella.
+Dialogue: 0,0:01:40.85,0:01:42.54,Flashback,Mitsuru,0,0,0,,Come li hai disegnati bene!
+Dialogue: 0,0:01:44.44,0:01:48.05,Flashback,Mitsuru,0,0,0,,Disegniamo anche di oggi,\Nquando siamo arrivate al mare?
+Dialogue: 0,0:01:48.63,0:01:50.35,Flashback,Mitsuru,0,0,0,,Che ne dici, Hikaru?
+Dialogue: 0,0:01:50.60,0:01:52.98,Italics,Hikaru,0,0,0,,Mitsuru sta sorridendo.
+Dialogue: 0,0:01:52.98,0:01:54.40,Italics,Hikaru,0,0,0,,Quindi questo è…
+Dialogue: 0,0:01:57.33,0:01:58.87,Italics,Hikaru,0,0,0,,Quindi questo è…
+Dialogue: 0,0:01:59.33,0:02:00.39,Italics,Hikaru,0,0,0,,un sogno.
+Dialogue: 1,0:02:08.07,0:02:11.07,sign,sign,0,0,0,,{\fax-0.5\b1\fnVerdana\fscx90\fs15\bord0\frz18.43\c&H000000&\move(484,107,216,107)}Part-time
+Dialogue: 0,0:02:08.07,0:02:11.07,sign,sign,0,0,0,,{\b0\fnCourier NEW\fs15\bord0\frz18.43\c&H000000&)\fs40\move(476,96,208,96)\fscx446\fscy111}O
+Dialogue: 0,0:02:08.07,0:02:11.07,sign,sign,0,0,0,,{\fax-0.5\b1\fnVerdana\fscx90\fs15\bord0\frz18.43\c&H000000&\move(272,151,-2,151)}Ospedale
+Dialogue: 0,0:02:08.07,0:02:11.07,sign,sign,0,0,0,,{\fax-0.5\b1\fnVerdana\fscx90\fs15\bord0\frz18.43\c&H000000&\move(272,241,-2,241)}Ospedale
+Dialogue: 0,0:02:08.07,0:02:11.07,sign,sign,0,0,0,,{\fax-0.5\b1\fnVerdana\fscx90\fs15\bord0\c&H000000&\move(472,261,198,261)\frz14.87}Dimissioni temporanee
+Dialogue: 0,0:02:08.07,0:02:11.07,sign,sign,0,0,0,,{\fax-0.5\b1\fnVerdana\fscx90\fs15\bord0\frz18.43\c&H000000&\move(272,331,-2,331)}Ospedale
+Dialogue: 0,0:02:16.77,0:02:17.67,Main,Hikaru,0,0,0,,Oh issa.
+Dialogue: 1,0:02:22.66,0:02:25.96,sign,sign,0,0,0,,{\fad(1500,0)\fs13\fscy80\fscx90\3c&H93A8AB&\c&H000000&\b1\pos(136,10)}Attestato di riconoscimento\N\NSecondo posto  Matsuki Hikaru\N{\b0}Ha ottenuto la suddetta valutazione\Nper la 20ª edizione del concorso di disegno\Norganizzato dall'Associazione Nazionale di Disegno.\N\NLe viene perciò conferito tale riconoscimento.\N\N15 luglio del 4° anno Reiwa\N\NPresidente\NTanahashi Eiji
+Dialogue: 0,0:02:22.66,0:02:25.96,sign,sign,0,0,0,,{\fad(1500,0)\an7\p1\3c&H3F5F6A&\c&H93A8AB&\1a&H72&\3a&H76&\pos(10,6)\fscx255\fscy120}m 0 0 l 100 0 100 100 0 100
+Dialogue: 0,0:02:25.96,0:02:28.96,sign,sign,0,0,0,,{\an2\bord0\fs40\fnTimes New Roman\pos(320,56.667)}Inhuman
+Dialogue: 0,0:02:25.96,0:02:28.96,sign,sign,0,0,0,,{\an2\bord0\fnTimes New Roman\fs25\pos(306,134)}[agg.]
+Dialogue: 0,0:02:25.96,0:02:28.96,sign,sign,0,0,0,,{\an7\bord0\fnTimes New Roman\fs22\pos(127.334,172)}1. disumano, come un mostro\N\N\N2. privo di umanità\N\N\N3. freddo, crudele
+Dialogue: 0,0:04:10.02,0:04:14.44,EpTitle,sign,0,0,0,,{\fad(250,432)\pos(162,310)}Motorcycle diaries 1
+Dialogue: 0,0:04:20.93,0:04:22.78,Main,Hikaru,0,0,0,,Grazie mille.
+Dialogue: 0,0:04:25.56,0:04:27.64,Main,Koshiba,0,0,0,,Il prezzo delle sigarette\Nè salito ancora?
+Dialogue: 0,0:04:29.20,0:04:32.84,Main,Koshiba,0,0,0,,Sul serio, che fine sta facendo\Nil costo della vita? Datemi tregua.
+Dialogue: 0,0:04:35.31,0:04:37.41,Main,Koshiba,0,0,0,,Il numero 27, grazie.
+Dialogue: 0,0:04:37.41,0:04:38.72,Main,Hikaru,0,0,0,,Subito.
+Dialogue: 0,0:04:38.97,0:04:41.47,sign,sign,0,0,0,,{\fad(1400,0)\an4\b0\fax0.1\bord1\fs30\fnImpact\frz351.9\pos(224,37)\3c&H4E4E4E&\c&H552FF2&}Detective \Nassassino
+Dialogue: 0,0:04:38.97,0:04:41.47,sign,sign,0,0,0,,{\fad(1400,0)\an4\b0\fax0.4\bord1\fs20\fnImpact\3c&H4E4E4E&\c&H361CE7&\frz355.3\pos(411,183)}Consigliato\N\h\h\h{\c&H21FF32&}dallo staff!
+Dialogue: 0,0:04:38.97,0:04:41.47,sign,sign,0,0,0,,{\fad(1400,0)\an4\b0\fscx70\fax0.1\bord1\fs40\fnImpact\3c&H4E4E4E&\c&H361CE7&\frz355.3\pos(295,199)}Estrazione\N{\c&H21FF32&}personaggio
+Dialogue: 0,0:04:41.86,0:04:43.56,Main,Koshiba,0,0,0,,E faccio anche un'estrazione.
+Dialogue: 0,0:04:44.34,0:04:45.48,Main,Koshiba,0,0,0,,Andiamo con questo.
+Dialogue: 0,0:04:45.76,0:04:46.60,Main,Hikaru,0,0,0,,Prego.
+Dialogue: 0,0:04:49.79,0:04:53.02,Main,Koshiba,0,0,0,,Che, scherziamo?!\NHo dimenticato il portafogli!
+Dialogue: 0,0:04:55.79,0:04:57.70,Main,Koshiba,0,0,0,,Il mio intero patrimonio
+Dialogue: 0,0:04:57.70,0:04:58.86,Main,Koshiba,0,0,0,,è tutto qui?
+Dialogue: 0,0:05:00.86,0:05:02.95,Main,Koshiba,0,0,0,,Quale scelgo?
+Dialogue: 0,0:05:04.85,0:05:06.28,Main,Hikaru,0,0,0,,Mi scusi.
+Dialogue: 0,0:05:06.28,0:05:08.91,Main,Hikaru,0,0,0,,Le piace davvero tanto\Nil Detective assassino, eh?
+Dialogue: 0,0:05:11.12,0:05:12.35,Main,Koshiba,0,0,0,,Non particolarmente.
+Dialogue: 0,0:05:12.79,0:05:15.75,sign,sign,0,0,0,,{\an4\b0\fax0.1\bord1\fs30\fnImpact\frz351.9\3c&H4E4E4E&\c&H552FF2&\pos(119,50)}Detective \Nassassino
+Dialogue: 0,0:05:12.79,0:05:15.75,sign,sign,0,0,0,,{\an4\b0\fax0.4\bord1\fs20\fnImpact\3c&H4E4E4E&\c&H361CE7&\frz355.3\pos(346,237)}Consigliato\N\h\h\h{\c&H21FF32&}dallo staff!
+Dialogue: 0,0:05:12.79,0:05:15.75,sign,sign,0,0,0,,{\an4\b0\fscx110\fscy130\fax0.1\bord1\fs40\fnImpact\3c&H4E4E4E&\c&H361CE7&\frz355.3\pos(151,234)}Estrazione\N{\c&H21FF32&}personaggio
+Dialogue: 0,0:05:13.19,0:05:15.34,Main,Koshiba,0,0,0,,È che ho trovato carino il POP.
+Dialogue: 0,0:05:17.50,0:05:20.60,Main,Koshiba,0,0,0,,Ho proprio un debole\Nper le cose carine.
+Dialogue: 0,0:05:21.52,0:05:23.00,Main,Koshiba,0,0,0,,Che faccio?
+Dialogue: 0,0:05:26.59,0:05:28.85,Main,Koshiba,0,0,0,,Come non detto per le sigarette.\NPrendo solo qu—
+Dialogue: 0,0:05:28.85,0:05:29.77,Main,Hikaru,0,0,0,,Prego.
+Dialogue: 0,0:05:31.72,0:05:34.73,Main,Hikaru,0,0,0,,Non glieli sto regalando,\Nè un prestito.
+Dialogue: 0,0:05:37.73,0:05:41.61,Main,Hikaru,0,0,0,,Sono stata io a disegnare il POP.\NQuindi è responsabilità mia, tipo.
+Dialogue: 0,0:05:43.70,0:05:45.24,Main,Koshiba,0,0,0,,Allora, non faccio complimenti.
+Dialogue: 0,0:05:45.82,0:05:48.70,sign,sign,0,0,0,,{\fad(700,0)\bord0\fnVerdana\pos(269,139)\frx40\fry358\frz23.75\c&H000000&}Congratulazioni!
+Dialogue: 0,0:05:45.82,0:05:48.70,sign,sign,0,0,0,,{\fad(700,0)\b1\fscy280\frz20.94\bord0\fax0.4\c&H000000&\pos(401,136)}Premio
+Dialogue: 0,0:05:45.82,0:05:48.70,sign,sign,0,0,0,,{\fad(700,0)\fs15\fax0.1\bord0\fnVerdana\c&H000000&\frz22.35\pos(361,268)}Scambialo con l'articolo\N\hall'entrata del negozio
+Dialogue: 0,0:05:47.66,0:05:48.70,Main,Koshiba,0,0,0,,Il premio SS!
+Dialogue: 0,0:05:48.70,0:05:50.70,sign,sign,0,0,0,,{\fad(200,0)\b1\fnCourier New\fsp-1\fscx80\fs20\fs18)\frz25.87\move(118,56,127,61)\3c&H40F6FC&\c&H6E6E78&}Premio SS  Peluche
+Dialogue: 0,0:05:51.07,0:05:54.05,Main,Koshiba,0,0,0,,Che carino! È troppo adorabile!
+Dialogue: 0,0:05:54.05,0:05:56.07,Main,Koshiba,0,0,0,,Grazie!
+Dialogue: 0,0:05:56.34,0:05:57.58,Main,Koshiba,0,0,0,,Ecco…
+Dialogue: 0,0:05:58.60,0:06:00.80,sign,sign,0,0,0,,{\fad(500,0)\b1\fax0.3\bord0\fs13\fsp1\pos(370,207)\frz353.8\c&H121213&}Matsuki
+Dialogue: 0,0:05:59.16,0:06:00.80,Main,Koshiba,0,0,0,,Matsuki?
+Dialogue: 0,0:06:01.05,0:06:02.85,Main,Koshiba,0,0,0,,Sono troppo felice!
+Dialogue: 0,0:06:03.12,0:06:04.36,Main,Koshiba,0,0,0,,Allora…
+Dialogue: 0,0:06:07.76,0:06:10.47,Main,Koshiba,0,0,0,,Intanto, devo ripagarti\Ncome posso in questo momento.
+Dialogue: 0,0:06:11.57,0:06:13.75,Main,Hikaru,0,0,0,,Ma ora non ha soldi, o sbaglio?
+Dialogue: 0,0:06:13.75,0:06:15.91,Main,Koshiba,0,0,0,,Infatti. In cambio…
+Dialogue: 0,0:06:17.01,0:06:17.87,Main,Koshiba,0,0,0,,Oplà.
+Dialogue: 0,0:06:25.33,0:06:28.33,Main,Bambina 1,0,0,0,,Mi scusi! Lei fa sempre di testa sua!
+Dialogue: 0,0:06:28.58,0:06:30.98,Main,Bambina 1,0,0,0,,Non puoi aprirlo\Nse non l'hai prima comprato!
+Dialogue: 0,0:06:33.71,0:06:35.84,Main,Bambina 1,0,0,0,,Mi dispiace davve…
+Dialogue: 0,0:06:34.68,0:06:35.84,Main_Overlap,Koshiba,0,0,0,,Allora…
+Dialogue: 0,0:06:38.00,0:06:40.96,Main,Koshiba,0,0,0,,questo ve lo compro io,\Ntanto ho il resto preciso.
+Dialogue: 0,0:06:41.53,0:06:42.53,Main,Bambina 1,0,0,0,,Ecco…
+Dialogue: 0,0:06:41.83,0:06:43.45,Main_Overlap,Koshiba,0,0,0,,Non preoccupatevi.
+Dialogue: 0,0:06:45.44,0:06:49.10,Main,Koshiba,0,0,0,,D'ora in poi cerca di tenerla\Npiù stretta possibile.
+Dialogue: 0,0:06:50.27,0:06:51.05,Main,Bambina 1,0,0,0,,Sì.
+Dialogue: 0,0:06:51.31,0:06:52.06,Main,Bambina 2,0,0,0,,Sì!
+Dialogue: 0,0:06:52.96,0:06:55.71,Main,Bambina 2,0,0,0,,Ehi, dai, tienila stretta!
+Dialogue: 0,0:06:55.96,0:06:57.06,Main,Bambina 1,0,0,0,,Ma sentiti.
+Dialogue: 0,0:06:58.35,0:07:00.00,Main,Hikaru,0,0,0,,Quanti ricordi.
+Dialogue: 0,0:07:00.32,0:07:02.55,Main,Hikaru,0,0,0,,Anch'io ero così, un tempo.
+Dialogue: 0,0:07:03.78,0:07:05.08,Main,Hikaru,0,0,0,,Mia sorella
+Dialogue: 0,0:07:05.08,0:07:08.49,Main,Hikaru,0,0,0,,mi teneva la mano strettissima\Ncosì che non mi allontanassi.
+Dialogue: 0,0:07:15.55,0:07:17.31,Main,Hikaru,0,0,0,,Ah, grazie.
+Dialogue: 0,0:07:17.31,0:07:19.60,Main,Hikaru,0,0,0,,Non me n'ero per niente accorta.
+Dialogue: 0,0:07:20.00,0:07:24.36,Main,Koshiba,0,0,0,,Ascolta, Matsuki, non dovresti\Nprestare soldi così a cuor leggero.
+Dialogue: 0,0:07:26.05,0:07:30.35,Main,Koshiba,0,0,0,,Non è detto che siano tutte\Nbrave persone come me.
+Dialogue: 0,0:07:36.84,0:07:38.44,Main,Hikaru,0,0,0,,Che tipo strano.
+Dialogue: 0,0:07:53.70,0:07:55.27,Main,Koshiba,0,0,0,,Adorabile, vero?
+Dialogue: 0,0:07:55.27,0:07:57.74,Main,Ikuro,0,0,0,,Che? Cosa sarebbe, questo?
+Dialogue: 0,0:07:57.99,0:07:59.24,Main,Koshiba,0,0,0,,Non si tocca!
+Dialogue: 0,0:07:59.24,0:08:00.38,Main,Ikuro,0,0,0,,Ok!
+Dialogue: 0,0:08:05.10,0:08:06.87,Main,Hikaru,0,0,0,,Buonasera.
+Dialogue: 0,0:08:11.66,0:08:13.31,Main,Koshiba,0,0,0,,Questi 500 yen…
+Dialogue: 0,0:08:13.83,0:08:16.09,Main,Koshiba,0,0,0,,prestameli finché\Nnon li finisco tutti.
+Dialogue: 0,0:08:16.34,0:08:18.49,Main,Hikaru,0,0,0,,Va bene, ma perché?
+Dialogue: 0,0:08:18.97,0:08:20.19,Main,Koshiba,0,0,0,,Per superstizione.
+Dialogue: 0,0:08:21.63,0:08:22.61,Main,Koshiba,0,0,0,,Il premio A?
+Dialogue: 0,0:08:22.61,0:08:25.57,sign,sign,0,0,0,,{\fad(200,0)\b1\fnCourier New\fsp-1\fscx80\fs20\fs18)\3c&HFAF8DB&\c&H6C7029&\frz39.52\move(93,64,98,67,0,1800)}Premio A  Peluche
+Dialogue: 0,0:08:24.72,0:08:26.36,Main,Hikaru,0,0,0,,Congratulazioni.
+Dialogue: 0,0:08:26.36,0:08:28.53,Main,Koshiba,0,0,0,,Evviva! Che carino!
+Dialogue: 0,0:08:36.54,0:08:39.54,sign,sign,0,0,0,,{\fsp1\fscy80\b1\fs16\frz358.3\move(215,26,118,26)\3c&HD1E6EF&\c&HBBBBDD&}Festival dei dolci
+Dialogue: 0,0:08:45.38,0:08:46.81,Main,Koshiba,0,0,0,,Hai finito per oggi?
+Dialogue: 0,0:08:46.81,0:08:47.84,Main,Hikaru,0,0,0,,Sì.
+Dialogue: 0,0:08:47.84,0:08:49.53,Main,Koshiba,0,0,0,,Vuoi un passaggio?
+Dialogue: 0,0:08:50.31,0:08:53.22,Main,Hikaru,0,0,0,,Come potrei mai salire\Nin moto con qualcuno
+Dialogue: 0,0:08:53.22,0:08:54.89,Main,Hikaru,0,0,0,,di cui non so nemmeno il nome?
+Dialogue: 0,0:08:55.32,0:08:56.88,Main,Koshiba,0,0,0,,Shiba Kirihara.
+Dialogue: 0,0:08:57.97,0:09:00.88,Main,Koshiba,0,0,0,,La gente mi chiama Koshiba.
+Dialogue: 0,0:09:01.88,0:09:03.36,Main,Hikaru,0,0,0,,Koshiba, eh?
+Dialogue: 0,0:09:03.36,0:09:05.32,Main,Koshiba,0,0,0,,Tu invece ti chiamavi\NMatsuki, giusto?
+Dialogue: 0,0:09:10.90,0:09:12.11,Main,Koshiba,0,0,0,,Ehi!
+Dialogue: 0,0:09:13.35,0:09:15.13,Main,Hikaru,0,0,0,,Che tipo strano.
+Dialogue: 0,0:09:25.42,0:09:27.80,sign,sign,0,0,0,,{\fad(700,0)\bord0\fnVerdana\pos(269,139)\frx40\fry358\frz23.75\c&H000000&}Congratulazioni!
+Dialogue: 0,0:09:25.42,0:09:27.80,sign,sign,0,0,0,,{\fad(700,0)\b1\fscy280\frz20.94\bord0\fax0.4\c&H000000&\pos(401,136)}Premio
+Dialogue: 0,0:09:25.42,0:09:27.80,sign,sign,0,0,0,,{\fad(700,0)\fs15\fax0.1\bord0\fnVerdana\c&H000000&\frz22.35\pos(361,268)}Scambialo con l'articolo\N\hall'entrata del negozio
+Dialogue: 0,0:09:26.64,0:09:27.80,Main,Koshiba,0,0,0,,Il premio D?
+Dialogue: 0,0:09:27.80,0:09:37.60,sign,sign,0,0,0,,{\b1\fnCourier New\fsp-1\fscx90\fs20\fs18)\3c&HFFFFFF&\c&H1A1A1B&\pos(95,65)\frz39.2\t(2811,2813,\bord0)\t(2813,3230,\blur2}Premio D  Peluche
+Dialogue: 0,0:09:28.93,0:09:31.13,Main,Hikaru,0,0,0,,Congratulazioni.
+Dialogue: 0,0:09:33.20,0:09:36.40,Main,Koshiba,0,0,0,,Matsuki. Questo sarebbe carino?
+Dialogue: 0,0:09:37.60,0:09:39.70,Main,Koshiba,0,0,0,,Ma sì, facciamo che è carino.
+Dialogue: 0,0:09:40.64,0:09:41.83,Main,Hikaru,0,0,0,,Hikaru.
+Dialogue: 0,0:09:44.39,0:09:45.86,Main,Hikaru,0,0,0,,Mi chiamo Hikaru Matsuki.
+Dialogue: 0,0:09:47.38,0:09:49.36,Main,Koshiba,0,0,0,,Hikaru, eh?
+Dialogue: 0,0:09:57.15,0:09:59.37,Main,Hikaru,0,0,0,,Ma dai, ne hai uno.
+Dialogue: 0,0:10:00.93,0:10:02.26,Main,Hikaru,0,0,0,,Parlo del posacenere.
+Dialogue: 0,0:10:02.51,0:10:03.87,Main,Koshiba,0,0,0,,È buon senso, no?
+Dialogue: 0,0:10:07.36,0:10:08.41,Main,Hikaru,0,0,0,,Senti.
+Dialogue: 0,0:10:10.32,0:10:12.76,Main,Hikaru,0,0,0,,Tu che cosa fai, Koshiba?
+Dialogue: 0,0:10:14.38,0:10:18.10,Main,Koshiba,0,0,0,,Lavoro in un hotel.\NMi prendo cura dei nostri ospiti.
+Dialogue: 0,0:10:18.40,0:10:19.68,Main,Hikaru,0,0,0,,Non me l'aspettavo!
+Dialogue: 0,0:10:20.55,0:10:21.68,Main,Koshiba,0,0,0,,E perché?
+Dialogue: 0,0:10:22.29,0:10:24.84,Main,Hikaru,0,0,0,,Non immaginavo fossi uno stipendiato.
+Dialogue: 0,0:10:24.84,0:10:26.03,Main,Koshiba,0,0,0,,Davvero?
+Dialogue: 0,0:10:26.28,0:10:28.27,Main,Hikaru,0,0,0,,Insomma, vieni sempre qui,\Nche sia giorno o notte.
+Dialogue: 0,0:10:29.84,0:10:33.66,Main,Koshiba,0,0,0,,Beh, lavoro a turni.\NNe ho di diurni come di notturni.
+Dialogue: 0,0:10:33.66,0:10:35.78,Main,Hikaru,0,0,0,,Proprio come il konbini, quindi.
+Dialogue: 0,0:10:39.68,0:10:42.79,Main,Koshiba,0,0,0,,Sei sempre stata brava a disegnare?
+Dialogue: 0,0:10:43.85,0:10:45.96,Main,Hikaru,0,0,0,,In passato boh, non saprei.
+Dialogue: 0,0:10:46.95,0:10:49.53,Main,Hikaru,0,0,0,,Mia sorella, però,\Nmi faceva i complimenti.
+Dialogue: 0,0:10:50.24,0:10:51.93,Main,Koshiba,0,0,0,,Quindi eri brava, no?
+Dialogue: 0,0:10:52.55,0:10:55.18,Main,Capo konbini,0,0,0,,Matsuki! Vieni in cassa!
+Dialogue: 0,0:10:55.18,0:10:56.34,Main,Hikaru,0,0,0,,Arrivo!
+Dialogue: 0,0:10:59.68,0:11:00.68,Main,Hikaru,0,0,0,,Ci vediamo.
+Dialogue: 0,0:11:10.65,0:11:12.00,Main,Ikuro,0,0,0,,Senti un po',
+Dialogue: 0,0:11:12.00,0:11:14.36,Main,Ikuro,0,0,0,,l'altra volta c'era solo questo, giusto?
+Dialogue: 0,0:11:14.36,0:11:16.76,Main,Ikuro,0,0,0,,Stanno aumentando\Ngiorno dopo giorno.
+Dialogue: 0,0:11:17.13,0:11:21.24,Main,Sara,0,0,0,,A quanto pare adori ancora\Nle cose carine, eh?
+Dialogue: 0,0:11:22.74,0:11:26.82,Main,Koshiba,0,0,0,,Quindi te lo ricordavi?!\NSei fantastica, signorina Sara!
+Dialogue: 0,0:11:27.82,0:11:29.17,Main,Koshiba,0,0,0,,Ehi, Ikuro!
+Dialogue: 0,0:11:30.42,0:11:33.04,Main,Koshiba,0,0,0,,Ti avevo detto che non si tocca!
+Dialogue: 0,0:11:33.04,0:11:36.13,Main,Ikuro,0,0,0,,Koshiba, dove li stai comprando?
+Dialogue: 0,0:11:36.83,0:11:39.72,Main,Koshiba,0,0,0,,Li sto prendendo\Ndal mio konbini preferito.
+Dialogue: 0,0:11:39.72,0:11:41.71,Main,Koshiba,0,0,0,,Ha un POP adorabile.
+Dialogue: 0,0:11:46.64,0:11:48.17,Main,Hikaru,0,0,0,,Scusi un secondo.
+Dialogue: 0,0:11:50.81,0:11:51.72,Main,Hikaru,0,0,0,,Sì.
+Dialogue: 0,0:12:26.56,0:12:30.06,sign,sign,0,0,0,,{\b1\fscy80\frz17.73\move(228,31,253,31)\bord1\c&H5D5BC7&\3c&H404040&}Diario illustrato
+Dialogue: 0,0:12:26.56,0:12:30.06,sign,sign,0,0,0,,{\fnComic Sans MS\fs17\frz18.15\move(313,309,335,309)\3c&HB6C0D8&\c&H343437&}Matsuki  Mit{\3c&H565C6E&\c&H1F1F20&}suru - Hikaru
+Dialogue: 0,0:12:31.73,0:12:33.64,Main,Koshiba,0,0,0,,Hotel Inhumans.
+Dialogue: 0,0:12:41.30,0:12:42.54,Main,Koshiba,0,0,0,,Io vado.
+Dialogue: 0,0:12:53.36,0:12:54.67,Main,Commessa,0,0,0,,Buonasera.
+Dialogue: 0,0:12:58.80,0:13:01.80,sign,sign,0,0,0,,{\fax-0.4\b1\fnComic Sans MS\bord1\fsp2\frz14.7\move(374,11,374,30)\fs30\t(\fs23)\c&H40F6FC&}Buonissimi!
+Dialogue: 0,0:12:58.80,0:13:01.80,sign,sign,0,0,0,,{\bord1\fnImpact\fs35\t(\fs28)\fax-0.2\frz8.922\move(378,155,378,147)\3c&H242425&\c&H5146DE&}Nikuman{\fscx50\fscy50}-kun
+Dialogue: 0,0:13:05.73,0:13:06.85,Main,Koshiba,0,0,0,,Che freddo.
+Dialogue: 0,0:13:19.59,0:13:21.70,Main,Hikaru,0,0,0,,Eh? Koshiba?
+Dialogue: 0,0:13:25.48,0:13:27.29,Main,Hikaru,0,0,0,,Sei venuto di nuovo?
+Dialogue: 0,0:13:27.29,0:13:29.68,Main,Hikaru,0,0,0,,Eppure hai preso tutti\Ngli articoli dell'estrazione.
+Dialogue: 0,0:13:29.68,0:13:32.06,Main,Koshiba,0,0,0,,Già. Proprio per quello
+Dialogue: 0,0:13:32.06,0:13:34.71,Main,Koshiba,0,0,0,,volevo restituirti\Ni soldi che mi hai prestato.
+Dialogue: 0,0:13:34.96,0:13:36.28,Main,Hikaru,0,0,0,,Capisco.
+Dialogue: 0,0:13:36.67,0:13:37.98,Main,Hikaru,0,0,0,,Anche per me…
+Dialogue: 0,0:13:39.52,0:13:41.34,Main,Hikaru,0,0,0,,è tutto finito.
+Dialogue: 0,0:13:43.25,0:13:45.97,Main,Hikaru,0,0,0,,Sono andata alla cremazione\Ndi mia sorella.
+Dialogue: 0,0:13:46.38,0:13:49.34,Main,Hikaru,0,0,0,,Insomma, sono vestita a lutto,\Ndev'essere difficile commentare.
+Dialogue: 0,0:13:50.46,0:13:52.51,Main,Hikaru,0,0,0,,Perciò ho preferito spoilerartelo io.
+Dialogue: 0,0:13:56.90,0:13:58.52,Main,Hikaru,0,0,0,,Sto bene, eh.
+Dialogue: 0,0:13:58.82,0:14:02.17,Main,Hikaru,0,0,0,,Sapevo che non le restava molto.
+Dialogue: 0,0:14:02.17,0:14:04.09,Main,Hikaru,0,0,0,,Ero pronta da un pezzo.
+Dialogue: 0,0:14:04.63,0:14:08.15,Main,Hikaru,0,0,0,,Però, tornata a casa\Ndopo la cremazione…
+Dialogue: 0,0:14:09.53,0:14:11.79,Main,Hikaru,0,0,0,,ho avuto come una sensazione di vuoto.
+Dialogue: 0,0:14:13.06,0:14:15.75,Main,Hikaru,0,0,0,,Facevo spesso avanti e indietro\Ndall'ospedale.
+Dialogue: 0,0:14:16.37,0:14:20.26,Main,Hikaru,0,0,0,,I cambi per quando era ricoverata,\Nle medicine per via orale…
+Dialogue: 0,0:14:20.76,0:14:24.06,Main,Hikaru,0,0,0,,Ora che non devo fare più\Nnulla di tutto quello,
+Dialogue: 0,0:14:24.06,0:14:26.80,Main,Hikaru,0,0,0,,mi sento persa.
+Dialogue: 0,0:14:27.83,0:14:29.11,Main,Hikaru,0,0,0,,Così
+Dialogue: 0,0:14:29.11,0:14:32.52,Main,Hikaru,0,0,0,,ho pensato di fare altro part-time,\N giusto per muovermi un po'.
+Dialogue: 0,0:14:34.94,0:14:35.06,sign,sign,0,0,0,,{\bord1\fscx90\fs10\b1\3c&HDF6D48&\frz359.9\pos(444,337)}Hai un nuovo messaggio
+Dialogue: 0,0:14:35.06,0:14:35.18,sign,sign,0,0,0,,{\bord1\fscx90\fs10\b1\3c&HDF6D48&\pos(410,263)\frz4.397}Hai un nuovo messaggio
+Dialogue: 0,0:14:35.18,0:14:35.31,sign,sign,0,0,0,,{\bord1\fscx90\fs10\b1\3c&HDF6D48&\frz8.044\pos(368,204)}Hai un nuovo messaggio
+Dialogue: 0,0:14:35.31,0:14:35.43,sign,sign,0,0,0,,{\bord1\fscx90\fs10\b1\3c&HDF6D48&\frz10.5\pos(323,166)}Hai un nuovo messaggio
+Dialogue: 0,0:14:35.43,0:14:35.56,sign,sign,0,0,0,,{\bord1\fscx90\fs10\b1\3c&HDF6D48&\frz12.7\pos(297,145)}Hai un nuovo messaggio
+Dialogue: 0,0:14:35.56,0:14:36.48,sign,sign,0,0,0,,{\bord1\fscx90\fs10\b1\3c&HDF6D48&\frz12.7\pos(295,144)}Hai un nuovo messaggio
+Dialogue: 0,0:14:44.88,0:14:46.24,sign,sign,0,0,0,,{\fad(400,0)\b1\fax0.5\fs30\fscy80\bord1\c&H413C88&\3c&H010101&\pos(342,131)\frz332.7\clip(m 255 118 l 263 107 272 90 304 98 316 158 349 166 335 99 479 164 467 246)}Diario illustrato
+Dialogue: 0,0:14:50.08,0:14:51.58,Main,Hikaru,0,0,0,,Senti, Koshiba.
+Dialogue: 0,0:14:53.38,0:14:55.71,Main,Hikaru,0,0,0,,Tieniti pure quei soldi.
+Dialogue: 0,0:14:55.96,0:14:59.32,Main,Hikaru,0,0,0,,In cambio, avrei\Nun favore da chiederti.
+Dialogue: 0,0:15:00.62,0:15:01.72,Main,Hikaru,0,0,0,,Il mare…
+Dialogue: 0,0:15:02.48,0:15:03.36,Main,Koshiba,0,0,0,,Il mare?
+Dialogue: 0,0:15:03.61,0:15:05.97,Main,Hikaru,0,0,0,,Portami al mare.
+Dialogue: 0,0:15:18.10,0:15:19.25,Main,Koshiba,0,0,0,,Andiamo.
+Dialogue: 0,0:15:50.76,0:15:51.83,Main,Koshiba,0,0,0,,Ehi!
+Dialogue: 0,0:15:51.83,0:15:53.59,Main,Koshiba,0,0,0,,Perché proprio al mare?
+Dialogue: 0,0:15:54.18,0:15:55.72,Main,Hikaru,0,0,0,,Eh? Che hai detto?
+Dialogue: 0,0:15:55.72,0:15:56.98,Main,Hikaru,0,0,0,,Non ti sento!
+Dialogue: 0,0:15:58.66,0:16:02.21,Main,Koshiba,0,0,0,,Per-ché pro-prio al ma-re?
+Dialogue: 0,0:16:02.48,0:16:05.00,Main,Hikaru,0,0,0,,Il vento è troppo piacevole!
+Dialogue: 0,0:16:06.47,0:16:09.51,Main,Koshiba,0,0,0,,Ehi! Mi stai ascoltando?!
+Dialogue: 0,0:16:11.34,0:16:12.81,Main,Hikaru,0,0,0,,Il diario illustrato.
+Dialogue: 0,0:16:14.15,0:16:15.63,Main,Koshiba,0,0,0,,Non ti sento!
+Dialogue: 0,0:16:15.92,0:16:17.54,Main,Hikaru,0,0,0,,Il diario illustrato!
+Dialogue: 0,0:16:18.54,0:16:20.96,Main,Hikaru,0,0,0,,Quando eravamo piccole
+Dialogue: 0,0:16:20.96,0:16:23.55,Main,Hikaru,0,0,0,,avevamo un diario condiviso.
+Dialogue: 0,0:16:23.92,0:16:27.52,Main,Hikaru,0,0,0,,Abbiamo smesso di scriverlo\Nquando siamo andate al mare…
+Dialogue: 0,0:16:29.56,0:16:33.93,Main,Hikaru,0,0,0,,e ho ricordato perché\Nè successo proprio lì!
+Dialogue: 0,0:16:35.75,0:16:36.89,Main,Koshiba,0,0,0,,C'è mancato un pelo!
+Dialogue: 0,0:16:37.14,0:16:37.93,Main,Hikaru,0,0,0,,Scusa!
+Dialogue: 0,0:16:38.37,0:16:40.58,Main,Koshiba,0,0,0,,Così è per questo che vuoi andare al mare.
+Dialogue: 0,0:16:40.58,0:16:44.94,Main,Hikaru,0,0,0,,Insomma, non posso più chiederle\Ndel diario illustrato, no?
+Dialogue: 0,0:16:45.22,0:16:46.60,Main,Koshiba,0,0,0,,Beh, sì…
+Dialogue: 0,0:16:49.68,0:16:53.54,Main,Hikaru,0,0,0,,Che poi, Koshiba, sono sorpresa\Nche tu abbia accettato di farlo.
+Dialogue: 0,0:16:53.79,0:16:56.35,Main,Hikaru,0,0,0,,È notte fonda e stiamo andando al mare.
+Dialogue: 0,0:16:56.35,0:16:58.33,Main,Hikaru,0,0,0,,Credo che di norma uno si rifiuterebbe.
+Dialogue: 0,0:16:58.33,0:17:00.80,Main,Koshiba,0,0,0,,Sto solo ripagando il mio debito.
+Dialogue: 0,0:17:01.32,0:17:02.57,Main,Koshiba,0,0,0,,Più che altro,
+Dialogue: 0,0:17:02.57,0:17:06.30,Main,Koshiba,0,0,0,,ti rendi conto anche tu\Nche questo non è normale, eh?
+Dialogue: 0,0:17:09.32,0:17:10.99,Main,Hikaru,0,0,0,,Che tipo strano.
+Dialogue: 0,0:17:09.32,0:17:10.99,Main_Overlap,Koshiba,0,0,0,,Che tipa strana.
+Dialogue: 0,0:17:18.52,0:17:20.52,Flashback,Koshiba,0,0,0,,È che ho trovato carino il POP.
+Dialogue: 0,0:17:18.52,0:17:20.52,sign,sign,0,0,0,,{\an4\b0\fax0.1\bord1\fs30\fnImpact\frz351.9\3c&H4E4E4E&\c&H552FF2&\pos(119,50)}Detective \Nassassino
+Dialogue: 0,0:17:18.52,0:17:20.52,sign,sign,0,0,0,,{\an4\b0\fax0.4\bord1\fs20\fnImpact\3c&H4E4E4E&\c&H361CE7&\frz355.3\pos(346,237)}Consigliato\N\h\h\h{\c&H21FF32&}dallo staff!
+Dialogue: 0,0:17:18.52,0:17:20.52,sign,sign,0,0,0,,{\an4\b0\fscx110\fscy130\fax0.1\bord1\fs40\fnImpact\3c&H4E4E4E&\c&H361CE7&\frz355.3\pos(151,234)}Estrazione\N{\c&H21FF32&}personaggio
+Dialogue: 0,0:17:22.03,0:17:25.32,Flashback,Koshiba,0,0,0,,Ho proprio un debole\Nper le cose carine.
+Dialogue: 0,0:17:25.94,0:17:27.56,Flashback,Koshiba,0,0,0,,Che faccio?
+Dialogue: 0,0:17:29.34,0:17:30.72,Main,Hikaru,0,0,0,,Senti…
+Dialogue: 0,0:17:30.72,0:17:33.64,Main,Hikaru,0,0,0,,Non ascoltare quello\Ndi cui sto per parlare.
+Dialogue: 0,0:17:35.82,0:17:38.66,Main,Koshiba,0,0,0,,Cosa? Non ti sento proprio.
+Dialogue: 0,0:17:41.51,0:17:44.46,Main,Hikaru,0,0,0,,Mia sorella si chiamava Mitsuru.
+Dialogue: 0,0:17:45.64,0:17:48.27,Main,Hikaru,0,0,0,,Era bravissima a disegnare.
+Dialogue: 0,0:17:49.74,0:17:51.21,Flashback,Mitsuru,0,0,0,,Sono a casa.
+Dialogue: 0,0:17:51.46,0:17:53.09,Flashback,Hikaru,0,0,0,,Mitsuru, Mitsuru!
+Dialogue: 0,0:17:54.48,0:17:56.28,Flashback,Hikaru,0,0,0,,Guarda! Ho vinto!
+Dialogue: 0,0:17:56.28,0:17:58.35,Flashback,Hikaru,0,0,0,,Sono seconda\Nal concorso di disegno!
+Dialogue: 1,0:17:54.48,0:17:58.35,sign,sign,0,0,0,,{\fad(200,0)\fs13\fscy80\fscx90\3c&HC2F5FD&\c&H000000&\b1\pos(136,10)}Attestato di riconoscimento\N\NSecondo posto  Matsuki Hikaru\N{\b0}Ha ottenuto la suddetta valutazione\Nper la 20ª edizione del concorso di disegno\Norganizzato dall'Associazione Nazionale di Disegno.\N\NLe viene perciò conferito tale riconoscimento.\N\N15 luglio del 4° anno Reiwa\N\NPresidente\NTanahashi Eiji
+Dialogue: 0,0:17:54.48,0:17:58.35,sign,sign,0,0,0,,{\fad(200,0)\an7\p1\3c&H69C7D6&\c&HC2F5FD&\1a&H72&\3a&H76&\pos(10,6)\fscx255\fscy120}m 0 0 l 100 0 100 100 0 100
+Dialogue: 0,0:18:03.10,0:18:04.72,Flashback,Mitsuru,0,0,0,,Ce l'hai fatta!
+Dialogue: 0,0:18:04.72,0:18:07.61,Flashback,Hikaru,0,0,0,,Ma tu sei arrivata prima,\Nquindi contro di te ho perso.
+Dialogue: 0,0:18:07.61,0:18:10.57,Flashback,Mitsuru,0,0,0,,Te l'ho detto, nel disegno\Nnon si vince né si perde.
+Dialogue: 0,0:18:10.57,0:18:14.47,Flashback,Hikaru,0,0,0,,Guarda che è solo sarcasmo\Nse lo dice chi è arrivata prima.
+Dialogue: 0,0:18:14.47,0:18:15.63,Flashback,Mitsuru,0,0,0,,Davvero?
+Dialogue: 0,0:18:15.63,0:18:17.51,Flashback,Hikaru,0,0,0,,Ovvio!
+Dialogue: 0,0:18:19.66,0:18:22.00,Flashback,Mitsuru,0,0,0,,A me piacciono di più\Ni tuoi disegni, Hikaru.
+Dialogue: 0,0:18:24.28,0:18:26.46,Flashback,Mitsuru,0,0,0,,Continua a disegnare tantissimo!
+Dialogue: 0,0:18:37.80,0:18:38.88,sign,sign,0,0,0,,{\fad(0,420)\fax0.3\fs15\fsp1\fscx98\frz12.66\3c&HEBDFD5&\c&H0E0E0F&\pos(292,78)}Versi dell'alchechengi
+Dialogue: 0,0:18:42.05,0:18:42.18,sign,sign,0,0,0,,{\b1\fscx90\fs18\fscy70\bord0\frz25.97\c&H000000&\pos(326,131)\clip(m 424 81 l 405 102 392 111 357 143 329 176 293 213 509 146)}Copertina - Illustrazioni\N{\fs30}Matsuki Mitsuru
+Dialogue: 0,0:18:42.18,0:18:44.31,sign,sign,0,0,0,,{\b1\fscx90\fs18\fscy70\bord0\frz25.97\c&H000000&\pos(326,131)}Copertina - Illustrazioni\N{\fs30}Matsuki Mitsuru
+Dialogue: 0,0:18:45.93,0:18:47.65,Flashback,Hikaru,0,0,0,,Ce la metterò tutta anch'io.
+Dialogue: 0,0:18:50.61,0:18:53.40,Flashback,Hikaru,0,0,0,,Mitsuru, sta suonando il telefono.
+Dialogue: 0,0:18:57.45,0:18:58.58,Flashback,Hikaru,0,0,0,,Mitsuru?
+Dialogue: 0,0:19:08.05,0:19:09.75,Flashback,Dottore,0,0,0,,La prospettiva più lunga è di due anni.
+Dialogue: 0,0:19:10.07,0:19:11.53,Flashback,Dottore,0,0,0,,La più corta…
+Dialogue: 0,0:19:13.31,0:19:14.78,Main,Hikaru,0,0,0,,Da quell'estate
+Dialogue: 0,0:19:15.05,0:19:18.30,Main,Hikaru,0,0,0,,Mitsuru ha fatto avanti e indietro\Nfra casa e l'ospedale.
+Dialogue: 0,0:19:33.78,0:19:36.63,Main,Hikaru,0,0,0,,I risparmi sono diminuiti sempre di più.
+Dialogue: 0,0:19:37.42,0:19:40.53,Main,Hikaru,0,0,0,,Così ho iniziato a lavorare part-time.
+Dialogue: 0,0:19:46.37,0:19:49.10,Main,Hikaru,0,0,0,,Scuola, part-time, cure di mia sorella.
+Dialogue: 0,0:19:49.10,0:19:51.38,Main,Hikaru,0,0,0,,Scuola, part-time, cure di mia sorella.
+Dialogue: 0,0:19:52.12,0:19:54.20,Main,Hikaru,0,0,0,,E fra una cosa e l'altra…
+Dialogue: 0,0:20:18.15,0:20:20.18,Main,Hikaru,0,0,0,,Poi quest'anno
+Dialogue: 0,0:20:20.18,0:20:22.70,Main,Hikaru,0,0,0,,la malattia di mia sorella\Nsi è aggravata…
+Dialogue: 0,0:20:36.84,0:20:38.10,Main,Hikaru,0,0,0,,Che c'è?
+Dialogue: 0,0:20:39.92,0:20:41.63,Main,Mitsuru,0,0,0,,Credo che…
+Dialogue: 0,0:20:42.00,0:20:43.02,Main,Mitsuru,0,0,0,,sarà…
+Dialogue: 0,0:20:43.66,0:20:45.66,Main,Mitsuru,0,0,0,,l'ultima volta che riuscirò…
+Dialogue: 0,0:20:45.66,0:20:46.76,Main,Mitsuru,0,0,0,,a tornare…
+Dialogue: 0,0:20:46.76,0:20:47.81,Main,Mitsuru,0,0,0,,a casa…
+Dialogue: 0,0:21:07.75,0:21:10.81,Main,Hikaru,0,0,0,,Koshiba, grazie per non aver ascoltato.
+Dialogue: 0,0:21:11.42,0:21:12.25,Main,Koshiba,0,0,0,,Di che parli?
+Dialogue: 0,0:21:19.08,0:21:21.22,Main,Hikaru,0,0,0,,Ti offro un caffè.
+Dialogue: 0,0:21:26.78,0:21:28.32,Main,Koshiba,0,0,0,,Signorina Sara.
+Dialogue: 0,0:21:28.32,0:21:31.19,Main,Koshiba,0,0,0,,Grazie per avermi coperto\Nper il turno di notte.
+Dialogue: 0,0:21:34.12,0:21:36.52,Main,Sara,0,0,0,,Mi raccomando, Koshiba.
+Dialogue: 0,0:21:57.05,0:22:00.05,EpTitle,sign,0,0,0,,{\fs20\pos(370,249)}Motorcycle diaries
+Dialogue: 0,0:23:30.05,0:23:35.18,Disclaimer,sign,0,0,0,,Questa è un’opera di fantasia. Ogni riferimento\Na persone o cose esistenti è puramente casuale.
+Dialogue: 0,0:23:30.05,0:23:35.18,NextEp,sign,0,0,0,,Prossimo episodio
+Dialogue: 0,0:23:30.05,0:23:35.18,TitoloNext,sign,0,0,0,,{\pos(234,215)}Motorcycle diaries 2
+
