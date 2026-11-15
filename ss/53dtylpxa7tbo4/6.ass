@@ -1,0 +1,304 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,20,20,20,1
+Style: Italique,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,2,20,20,20,1
+Style: page1,Arial,15,&H00FCFDFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,10,33,90,1
+Style: asatayuno,Arial,20,&H00FFFEFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,240,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:15.04,0:00:18.25,Italique,Nozel,0,0,0,,Mère !
+Dialogue: 0,0:01:48.55,0:01:53.97,page1,sign,0,0,0,,PAGE 177
+Dialogue: 0,0:01:48.55,0:01:53.97,asatayuno,sign,0,0,0,,TÉNACITÉ
+Dialogue: 0,0:01:57.51,0:01:59.97,Default,Megicula,0,0,0,,Maintenant que ton échelon sacré\Nest dissipé,
+Dialogue: 0,0:02:00.35,0:02:02.98,Default,Megicula,0,0,0,,tu n’as plus aucun moyen\Nde me battre.
+Dialogue: 0,0:02:03.27,0:02:06.56,Default,Megicula,0,0,0,,Même si tu parvenais encore\Nà lancer une attaque,
+Dialogue: 0,0:02:06.70,0:02:09.28,Default,Megicula,0,0,0,,elle ne m’atteindrait pas.
+Dialogue: 0,0:02:09.78,0:02:11.28,Default,Megicula,0,0,0,,Mon sort Monde décrépit
+Dialogue: 0,0:02:11.40,0:02:14.49,Default,Megicula,0,0,0,,s’est déjà répandu\Ndans toute cette zone.
+Dialogue: 0,0:02:15.24,0:02:19.95,Default,Megicula,0,0,0,,Personne ne viendra vous aider.\NEt si c’était le cas, ce serait vain.
+Dialogue: 0,0:02:20.74,0:02:23.00,Default,Megicula,0,0,0,,Tu en as assez vu\Npour abandonner, non ?
+Dialogue: 0,0:02:23.50,0:02:25.83,Default,Megicula,0,0,0,,Ce fut très divertissant, humaine.
+Dialogue: 0,0:02:32.28,0:02:33.35,Italique,Noelle,0,0,0,,Gadjah !
+Dialogue: 0,0:02:36.43,0:02:37.44,Default,Ondine,0,0,0,,Gadjah…
+Dialogue: 0,0:02:40.81,0:02:42.60,Default,Gadjah,0,0,0,,Ce sera sans douleur.
+Dialogue: 0,0:02:42.89,0:02:45.48,Default,Gadjah,0,0,0,,Pardonnez-moi, Votre Majesté.
+Dialogue: 0,0:02:46.23,0:02:48.98,Italique,Gadjah,0,0,0,,Magie de foudre. Pulsaranta !
+Dialogue: 0,0:02:54.57,0:02:56.91,Italique,Gadjah,0,0,0,,Ça l’immobilisera\Nquelques secondes.
+Dialogue: 0,0:03:01.49,0:03:02.91,Italique,Gadjah,0,0,0,,Ce jour-là,
+Dialogue: 0,0:03:03.70,0:03:06.25,Italique,Gadjah,0,0,0,,j’ai décidé\Nd’anéantir nos ennemis
+Dialogue: 0,0:03:06.37,0:03:08.33,Italique,Gadjah,0,0,0,,et de protéger notre royaume.
+Dialogue: 0,0:03:09.13,0:03:10.92,Italique,Gadjah,0,0,0,,Et pourtant, il y a six mois,
+Dialogue: 0,0:03:11.63,0:03:14.42,Italique,Gadjah,0,0,0,,j’ai laissé Megicula et Vanika\Nnous attaquer
+Dialogue: 0,0:03:14.67,0:03:16.59,Italique,Gadjah,0,0,0,,et vous lancer une malédiction.
+Dialogue: 0,0:03:17.64,0:03:19.11,Italique,Gadjah,0,0,0,,Je suis impardonnable.
+Dialogue: 0,0:03:19.24,0:03:21.77,Italique,Gadjah,0,0,0,,Je suis indigne\Nd’être un gardien des esprits.
+Dialogue: 0,0:03:21.91,0:03:24.85,Italique,Lolopechka,0,0,0,,Mais non, voyons !\NJe suis toujours en vie !
+Dialogue: 0,0:03:25.52,0:03:28.10,Italique,Lolopechka,0,0,0,,Sans toi,\Nje ne serais plus de ce monde.
+Dialogue: 0,0:03:28.35,0:03:31.52,Italique,Lolopechka,0,0,0,,Et puis, ce qui me réjouit le plus,
+Dialogue: 0,0:03:31.65,0:03:33.61,Italique,Lolopechka,0,0,0,,c’est que notre peuple\Nsoit indemne.
+Dialogue: 0,0:03:33.98,0:03:35.61,Italique,Lolopechka,0,0,0,,C’est grâce à toi, Gadjah.
+Dialogue: 0,0:03:38.07,0:03:41.03,Italique,Gadjah,0,0,0,,J’ai voulu défendre notre peuple\Net notre royaume.
+Dialogue: 0,0:03:41.28,0:03:45.62,Italique,Gadjah,0,0,0,,Et à force de vouloir tout protéger,\Nje vous ai réduite à cet état.
+Dialogue: 0,0:03:46.87,0:03:49.50,Italique,Gadjah,0,0,0,,Vous voilà forcée\Nde faire ce que vous détestez.
+Dialogue: 0,0:03:50.54,0:03:54.55,Italique,Gadjah,0,0,0,,Je suis vraiment\Nun piètre gardien des esprits !
+Dialogue: 0,0:03:55.21,0:03:56.38,Italique,Gadjah,0,0,0,,Plus que ma patrie,
+Dialogue: 0,0:03:56.80,0:03:58.80,Italique,Gadjah,0,0,0,,c’est vous que je voulais protéger.
+Dialogue: 0,0:03:59.76,0:04:01.64,Italique,Gadjah,0,0,0,,Personne ne vous tuera !
+Dialogue: 0,0:04:01.97,0:04:03.89,Italique,Gadjah,0,0,0,,Et vous ne tuerez personne !
+Dialogue: 0,0:04:04.52,0:04:08.39,Italique,Gadjah,0,0,0,,Je ne mourrai pas des blessures\Nque vous m’avez infligées !
+Dialogue: 0,0:04:08.94,0:04:10.27,Italique,Gadjah,0,0,0,,Ma vie,
+Dialogue: 0,0:04:10.40,0:04:13.57,Italique,Gadjah,0,0,0,,je vais la convertir en magie\Net l’anéantir !
+Dialogue: 0,0:04:13.98,0:04:15.07,Italique,Gadjah,0,0,0,,Cette fois,
+Dialogue: 0,0:04:15.78,0:04:18.07,Italique,Gadjah,0,0,0,,je vais vous sauver pour de bon !
+Dialogue: 0,0:04:19.07,0:04:20.91,Italique,Gadjah,0,0,0,,Magie ultime de foudre.
+Dialogue: 0,0:04:21.16,0:04:22.78,Italique,Gadjah,0,0,0,,Apocalypra…
+Dialogue: 0,0:04:23.87,0:04:25.37,Italique,Gadjah,0,0,0,,astrauza !
+Dialogue: 0,0:04:29.54,0:04:32.71,Italique,Megicula,0,0,0,,Monde décrépit ne suffit pas\Nà dissiper son sort !
+Dialogue: 0,0:04:47.27,0:04:48.68,Italique,Noelle,0,0,0,,Encore une attaque !
+Dialogue: 0,0:04:49.14,0:04:53.15,Italique,Noelle,0,0,0,,Même une faible attaque suffira\Nà transpercer son cœur à découvert,
+Dialogue: 0,0:04:53.44,0:04:55.61,Italique,Noelle,0,0,0,,avec l’échelon sacré !
+Dialogue: 0,0:04:58.19,0:05:00.90,Default,Megicula,0,0,0,,Voilà donc un sort\Nqui consume la vie.
+Dialogue: 0,0:05:04.28,0:05:06.70,Default,Megicula,0,0,0,,Sa puissance a dépassé\Nmes prévisions.
+Dialogue: 0,0:05:07.70,0:05:09.41,Default,Megicula,0,0,0,,C’était remarquable,
+Dialogue: 0,0:05:10.12,0:05:11.33,Default,Megicula,0,0,0,,humain,
+Dialogue: 0,0:05:11.83,0:05:13.00,Default,Megicula,0,0,0,,mais totalement vain.
+Dialogue: 0,0:05:13.17,0:05:14.54,Default,Megicula,0,0,0,,Mon corps est entièrement
+Dialogue: 0,0:05:14.67,0:05:18.13,Default,Megicula,0,0,0,,recouvert de talismans\Nde régénération instantanée.
+Dialogue: 0,0:05:18.71,0:05:19.76,Default,Ondine,0,0,0,,Gadjah…
+Dialogue: 0,0:05:23.47,0:05:24.60,Default,Noelle,0,0,0,,Ondine !
+Dialogue: 0,0:05:25.35,0:05:27.85,Default,Megicula,0,0,0,,Le résultat est le même\Nque tout à l’heure.
+Dialogue: 0,0:05:28.77,0:05:32.31,Default,Megicula,0,0,0,,Tu ne pourras plus utiliser\Nle pouvoir de l’échelon sacré.
+Dialogue: 0,0:05:32.69,0:05:34.90,Default,Megicula,0,0,0,,Cette fois,\Nc’est bel et bien fini.
+Dialogue: 0,0:05:42.49,0:05:43.57,Default,Noelle,0,0,0,,Toujours pas !
+Dialogue: 0,0:05:50.75,0:05:51.87,Default,Megicula,0,0,0,,Tu disais ?
+Dialogue: 0,0:05:52.66,0:05:55.50,Default,Megicula,0,0,0,,Tu n’as aucune chance\Nde l’emporter.
+Dialogue: 0,0:05:56.00,0:05:57.88,Default,Megicula,0,0,0,,Pourquoi résistes-tu ?
+Dialogue: 0,0:05:58.05,0:06:01.63,Default,Megicula,0,0,0,,Cette volonté permettrait donc\Naux humains de créer parfois
+Dialogue: 0,0:06:01.76,0:06:03.26,Default,Megicula,0,0,0,,des sorts hors du commun ?
+Dialogue: 0,0:06:04.09,0:06:06.72,Default,Megicula,0,0,0,,Toutefois,\Ndans Monde décrépit,
+Dialogue: 0,0:06:06.85,0:06:10.89,Default,Megicula,0,0,0,,aucun humain n’est capable\Nde lancer un sort pour me détruire.
+Dialogue: 0,0:06:11.52,0:06:15.40,Default,Megicula,0,0,0,,Les démons ne défient jamais\Nceux qui leur sont supérieurs,
+Dialogue: 0,0:06:15.52,0:06:16.94,Default,Megicula,0,0,0,,parce que c’est insensé.
+Dialogue: 0,0:06:17.15,0:06:21.03,Default,Megicula,0,0,0,,Mais vous, les humains,\Ndéfendez des idéaux qui m’échappent
+Dialogue: 0,0:06:21.19,0:06:23.65,Default,Megicula,0,0,0,,et risquez vos vies\Npour des causes absurdes.
+Dialogue: 0,0:06:24.61,0:06:28.20,Default,Megicula,0,0,0,,Acier Silva m’avait tenu tête\Npar amour pour ses enfants.
+Dialogue: 0,0:06:28.41,0:06:29.87,Default,Megicula,0,0,0,,Et cet homme,
+Dialogue: 0,0:06:30.01,0:06:33.41,Default,Megicula,0,0,0,,par dévouement envers la reine\Nà qui il avait juré fidélité.
+Dialogue: 0,0:06:33.87,0:06:38.17,Default,Megicula,0,0,0,,Enfin, toi, tu résistes\Nen t’accrochant à un vain espoir.
+Dialogue: 0,0:06:38.50,0:06:40.13,Default,Megicula,0,0,0,,Pourquoi les humains
+Dialogue: 0,0:06:40.27,0:06:44.34,Default,Megicula,0,0,0,,refusent-ils d’abandonner\Nen s’attachant à de telles futilités ?
+Dialogue: 0,0:06:47.80,0:06:49.43,Italique,Noelle,0,0,0,,Aucune chance de gagner ?
+Dialogue: 0,0:06:50.22,0:06:52.68,Italique,Noelle,0,0,0,,Ça, on l’a bien compris !
+Dialogue: 0,0:06:55.48,0:06:59.06,Default,Noelle,0,0,0,,C’est vrai, c’est quelque chose\Nqui m’appartient,
+Dialogue: 0,0:06:59.36,0:07:01.69,Default,Noelle,0,0,0,,et je n’ai pas besoin\Nque tu me comprennes.
+Dialogue: 0,0:07:03.28,0:07:06.86,Italique,Noelle,0,0,0,,C’est quoi, ce monstre ?\NC’est complètement insensé !
+Dialogue: 0,0:07:09.28,0:07:10.78,Default,Noelle,0,0,0,,Nous, les humains,
+Dialogue: 0,0:07:11.45,0:07:15.91,Default,Noelle,0,0,0,,on doit parfois se battre,\Nmême quand la victoire est improbable !
+Dialogue: 0,0:07:16.71,0:07:20.54,Italique,Noelle,0,0,0,,J’ai envie de m’effondrer à genoux\Net de pleurer, en vérité.
+Dialogue: 0,0:07:21.30,0:07:24.05,Default,Noelle,0,0,0,,Refuser d’abandonner\Nne garantit pas la victoire,
+Dialogue: 0,0:07:24.38,0:07:27.59,Default,Noelle,0,0,0,,mais si je renonce,\Njamais on ne l’emportera !
+Dialogue: 0,0:07:27.89,0:07:30.22,Default,Noelle,0,0,0,,Et surtout, dans cette situation,
+Dialogue: 0,0:07:30.72,0:07:33.93,Default,Noelle,0,0,0,,notre force,\Nc’est de ne rien lâcher !
+Dialogue: 0,0:07:37.31,0:07:39.61,Default,Megicula,0,0,0,,Je ne vous comprends\Nvraiment pas.
+Dialogue: 0,0:07:39.77,0:07:41.19,Default,Megicula,0,0,0,,Vous m’intéressez,
+Dialogue: 0,0:07:41.36,0:07:44.63,Default,Megicula,0,0,0,,mais je ne peux pas perdre\Ndavantage de temps.
+Dialogue: 0,0:07:47.86,0:07:49.38,Default,Megicula,0,0,0,,Magie de malédiction.
+Dialogue: 0,0:07:50.32,0:07:52.41,Default,Megicula,0,0,0,,Déflagration vitale.
+Dialogue: 0,0:07:54.12,0:07:55.83,Default,Megicula,0,0,0,,Je ferai exploser Lolopechka,
+Dialogue: 0,0:07:55.95,0:07:59.46,Default,Megicula,0,0,0,,et ceux à l’intérieur du château\Nmourront main dans la main.
+Dialogue: 0,0:08:00.00,0:08:01.75,Default,Megicula,0,0,0,,Ainsi, je me manifesterai
+Dialogue: 0,0:08:02.34,0:08:05.05,Default,Megicula,0,0,0,,dans ce monde\Nsous ma forme complète.
+Dialogue: 0,0:08:13.43,0:08:16.68,Default,Noelle,0,0,0,,Lolopechka !
+Dialogue: 0,0:08:31.20,0:08:32.87,Default,Asta,0,0,0,,Chaud devant !
+Dialogue: 0,0:08:34.16,0:08:35.54,Default,Asta,0,0,0,,C’était moins une !
+Dialogue: 0,0:08:36.29,0:08:37.29,Italique,Noelle,0,0,0,,C’est juste…
+Dialogue: 0,0:08:37.79,0:08:40.79,Default,Asta,0,0,0,,On se retrouve enfin !\NTout va bien, Noelle ?
+Dialogue: 0,0:08:41.12,0:08:43.13,Italique,Noelle,0,0,0,,Tu m’as appris\Nà ne jamais renoncer.
+Dialogue: 0,0:08:44.96,0:08:48.55,Default,Noelle,0,0,0,,Ça ne va pas du tout, Astabruti !
+Dialogue: 0,0:08:53.43,0:08:55.06,Default,Megicula,0,0,0,,Cet humain…
+Dialogue: 0,0:08:55.85,0:08:59.35,Default,Asta,0,0,0,,J’ai empêché que Lolopechka\Nserve de bombe,
+Dialogue: 0,0:08:59.48,0:09:01.94,Default,Asta,0,0,0,,mais elle subit encore\Nquelques malédictions.
+Dialogue: 0,0:09:02.15,0:09:05.44,Default,Liebe,0,0,0,,Il n’y a qu’une seule porte ouverte,\Npourtant.
+Dialogue: 0,0:09:05.73,0:09:08.07,Default,Liebe,0,0,0,,Que fait un démon\Nde plus haut rang ici ?
+Dialogue: 0,0:09:08.69,0:09:10.03,Default,Liebe,0,0,0,,Franchement,
+Dialogue: 0,0:09:10.20,0:09:14.00,Default,Liebe,0,0,0,,on n’a pas l’ombre d’une chance,\Nsans l’union.
+Dialogue: 0,0:09:14.83,0:09:18.33,Default,Megicula,0,0,0,,Il a réussi un tel exploit\Nau sein de Monde décrépit…
+Dialogue: 0,0:09:18.66,0:09:19.87,Default,Megicula,0,0,0,,Je vois.
+Dialogue: 0,0:09:20.00,0:09:24.46,Default,Megicula,0,0,0,,C’est l’humain à l’anti-magie\Ndont parlaient Vanika et les autres.
+Dialogue: 0,0:09:25.21,0:09:26.63,Italique,Megicula,0,0,0,,Intrigant,
+Dialogue: 0,0:09:26.75,0:09:30.72,Italique,Megicula,0,0,0,,mais cet être peut se révéler\Ndes plus imprévisibles.
+Dialogue: 0,0:09:31.47,0:09:33.72,Default,Megicula,0,0,0,,Fini de jouer, maintenant.
+Dialogue: 0,0:09:35.64,0:09:37.14,Default,Megicula,0,0,0,,Je vais commencer
+Dialogue: 0,0:09:37.72,0:09:40.48,Default,Megicula,0,0,0,,par tuer Vanika et Lolopechka
+Dialogue: 0,0:09:40.60,0:09:42.98,Default,Megicula,0,0,0,,pour achever aussitôt\Nma manifestation.
+Dialogue: 0,0:09:45.15,0:09:47.73,Italique,Megicula,0,0,0,,Comment ?\NMes incantations ont disparu ?
+Dialogue: 0,0:09:56.49,0:09:58.12,Default,Charlotte,0,0,0,,Je suis
+Dialogue: 0,0:09:58.91,0:10:00.62,Default,Charlotte,0,0,0,,toujours debout !
+Dialogue: 0,0:10:01.29,0:10:05.58,Default,Megicula,0,0,0,,Comment fait-elle ?\NElle était censée être hors combat.
+Dialogue: 0,0:10:06.08,0:10:08.63,Italique,Megicula,0,0,0,,Sa puissance magique\Na même augmenté.
+Dialogue: 0,0:10:10.51,0:10:14.76,Default,Rill,0,0,0,,Cette magie fonctionne autrement,\Net j’ai mis du temps à l’activer.
+Dialogue: 0,0:10:22.02,0:10:24.35,Italique,Rill,0,0,0,,Le crépuscule du Valhalla\Naugmente
+Dialogue: 0,0:10:24.52,0:10:26.81,Italique,Rill,0,0,0,,la puissance magique\Nde mes camarades
+Dialogue: 0,0:10:26.98,0:10:31.07,Italique,Rill,0,0,0,,et les empêche de mourir,\Nquels que soient les dégâts subis.
+Dialogue: 0,0:10:31.28,0:10:33.03,Default,Rill,0,0,0,,Vous voilà invincibles !
+Dialogue: 0,0:10:33.65,0:10:38.62,Italique,Rill,0,0,0,,Ils en subiront les effets après,\Nmais ça en aura valu la peine !
+Dialogue: 0,0:10:40.04,0:10:44.21,Default,Asta,0,0,0,,Tu déchires, Rill !\NJe suis content que tu sois en vie !
+Dialogue: 0,0:10:44.33,0:10:48.71,Italique,Rill,0,0,0,,Sans l’arrivée d’Asta,\Non n’aurait pas pu éviter l’explosion.
+Dialogue: 0,0:10:49.25,0:10:52.38,Default,Rill,0,0,0,,Grâce à toi, je vais peut-être\Npeindre mon chef-d’œuvre !
+Dialogue: 0,0:10:52.80,0:10:56.51,Italique,Megicula,0,0,0,,Pris séparément,\Nils sont insignifiants,
+Dialogue: 0,0:10:56.68,0:10:59.68,Italique,Megicula,0,0,0,,mais en s’unissant,\Nils arrivent à de tels résultats.
+Dialogue: 0,0:11:00.18,0:11:03.35,Default,Megicula,0,0,0,,Décidément, vous êtes fascinants.
+Dialogue: 0,0:11:08.73,0:11:10.23,Default,Megicula,0,0,0,,Aux sombres disciples
+Dialogue: 0,0:11:10.36,0:11:14.19,Default,Megicula,0,0,0,,qui reposent sous cette tour,\Nmorts pour nous distraire, Vanika et moi,
+Dialogue: 0,0:11:14.78,0:11:18.73,Default,Megicula,0,0,0,,je vais insuffler\Nmon pouvoir démoniaque
+Dialogue: 0,0:11:18.89,0:11:22.58,Default,Megicula,0,0,0,,et celui d’Acier Silva et Vanika,\Ndont je possède les âmes.
+Dialogue: 0,0:11:24.71,0:11:27.83,Default,Megicula,0,0,0,,Voici des morts-vivants\Nde sang et d’acier…
+Dialogue: 0,0:11:32.05,0:11:34.51,Default,Megicula,0,0,0,,au nombre de cent.
+Dialogue: 0,0:11:53.65,0:11:55.86,Default,Asta,0,0,0,,J’ai vraiment mal partout !
+Dialogue: 0,0:11:56.03,0:11:58.36,Default,Asta,0,0,0,,On va être pris dans la mêlée !
+Dialogue: 0,0:12:04.66,0:12:07.04,Default,Ondine,0,0,0,,Merci d’avoir sauvé Lolopechka !
+Dialogue: 0,0:12:07.21,0:12:09.88,Default,Asta,0,0,0,,De rien !\NC’est moi qui te remercie !
+Dialogue: 0,0:12:10.04,0:12:14.05,Default,Asta,0,0,0,,Désolé, mais pour le moment,\Nje vais pas vous servir à grand-chose !
+Dialogue: 0,0:12:14.30,0:12:16.09,Default,Asta,0,0,0,,Occupez-vous du reste !
+Dialogue: 0,0:12:16.92,0:12:19.26,Default,Noelle,0,0,0,,Tu viens à peine d’arriver !
+Dialogue: 0,0:12:19.38,0:12:21.80,Default,Asta,0,0,0,,Je sais que t’en es capable,\NNoelle !
+Dialogue: 0,0:12:22.55,0:12:24.18,Italique,Noelle,0,0,0,,J’ai compris.
+Dialogue: 0,0:12:24.47,0:12:27.89,Italique,Noelle,0,0,0,,Tu as encore dû faire des folies,\Ncomme d’habitude.
+Dialogue: 0,0:12:28.60,0:12:29.98,Italique,Noelle,0,0,0,,Tu as assez donné.
+Dialogue: 0,0:12:30.69,0:12:32.77,Italique,Noelle,0,0,0,,Ta simple présence…
+Dialogue: 0,0:12:33.90,0:12:36.11,Italique,Noelle,0,0,0,,et le fait de penser à toi…
+Dialogue: 0,0:12:37.40,0:12:39.40,Italique,Noelle,0,0,0,,me donnent de la force.
+Dialogue: 0,0:12:40.70,0:12:43.62,Italique,Noelle,0,0,0,,Ah, je m’en doutais.
+Dialogue: 0,0:12:44.20,0:12:48.83,Italique,Noelle,0,0,0,,Jusqu’ici, je me voilais la face,\Nmais maintenant, j’y vois plus clair.
+Dialogue: 0,0:12:50.25,0:12:53.75,Italique,Noelle,0,0,0,,Je suis amoureuse de toi, Asta !
+Dialogue: 0,0:12:54.21,0:12:56.42,Italique,Noelle,0,0,0,,Mais on est\Nsur un champ de bataille,
+Dialogue: 0,0:12:56.84,0:12:59.26,Italique,Noelle,0,0,0,,et j’ai des comptes à régler !
+Dialogue: 0,0:12:59.76,0:13:01.51,Default,Noelle,0,0,0,,On y va, Ondine !
+Dialogue: 0,0:13:01.97,0:13:03.76,Default,Noelle,0,0,0,,L’ultime échelon sacré !
+Dialogue: 0,0:13:12.15,0:13:13.44,Default,Asta,0,0,0,,Trop classe !
+Dialogue: 0,0:13:14.11,0:13:16.53,Default,Noelle,0,0,0,,Je te confie Lolopechka, Asta !
+Dialogue: 0,0:13:16.69,0:13:18.44,Default,Asta,0,0,0,,Ah… Ouille ! Ouais !
+Dialogue: 0,0:13:21.82,0:13:25.62,Default,Ondine,0,0,0,,Il ne nous reste pas assez de forces\Npour tous les combattre !
+Dialogue: 0,0:13:27.24,0:13:30.12,Default,Rill,0,0,0,,Magie picturale !\NLe maître du Valhalla !
+Dialogue: 0,0:13:32.00,0:13:33.88,Italique,Rill,0,0,0,,L’échelon sacré de Noelle
+Dialogue: 0,0:13:34.00,0:13:37.50,Italique,Rill,0,0,0,,et l’anti-malédiction de Charlotte\Nsont indispensables !
+Dialogue: 0,0:13:39.01,0:13:41.84,Default,Rill,0,0,0,,À moi de leur apporter\Ntout le soutien nécessaire !
+Dialogue: 0,0:13:41.97,0:13:45.55,Italique,Charlotte,0,0,0,,Magie de ronces véritable.\NLance pourpre !
+Dialogue: 0,0:13:48.22,0:13:52.06,Default,Megicula,0,0,0,,Vous continuez à progresser\Nen plein combat.
+Dialogue: 0,0:13:54.69,0:13:55.86,Default,Megicula,0,0,0,,Vous êtes vraiment…
+Dialogue: 0,0:14:03.57,0:14:06.99,Default,Megicula,0,0,0,,les créatures idéales\Npour me divertir.
+Dialogue: 0,0:14:12.58,0:14:13.58,Default,Rill,0,0,0,,Noelle !
+Dialogue: 0,0:14:24.22,0:14:25.14,Default,Noelle,0,0,0,,Luck !
+Dialogue: 0,0:14:25.34,0:14:27.76,Default,Luck,0,0,0,,Je vais t’ouvrir la voie,\Nalors suis-moi !
+Dialogue: 0,0:14:27.97,0:14:32.52,Default,Rill,0,0,0,,Oui, continuez comme ça, tout le monde !\NVous m’inspirez de plus en plus !
+Dialogue: 0,0:14:33.18,0:14:37.73,Italique,Rill,0,0,0,,Avec une autre source de foudre\Npour te guider, ce serait encore mieux !
+Dialogue: 0,0:14:47.28,0:14:49.99,Italique,Gadjah,0,0,0,,Je me croyais déjà mort.
+Dialogue: 0,0:14:53.12,0:14:54.62,Italique,Gadjah,0,0,0,,En tout cas,
+Dialogue: 0,0:14:55.21,0:14:57.88,Italique,Gadjah,0,0,0,,je suis reconnaissant\Nde pouvoir encore me battre
+Dialogue: 0,0:14:58.25,0:14:59.50,Italique,Gadjah,0,0,0,,pour Lolopechka !
+Dialogue: 0,0:15:00.50,0:15:02.38,Default,Luck,0,0,0,,Gadjah !
+Dialogue: 0,0:15:06.38,0:15:07.68,Default,Luck,0,0,0,,On se les fait !
+Dialogue: 0,0:15:07.80,0:15:08.80,Default,Gadjah,0,0,0,,Oui !
+Dialogue: 0,0:15:23.74,0:15:24.69,Italique,Noelle,0,0,0,,Maintenant !
+Dialogue: 0,0:15:32.08,0:15:34.70,Default,Megicula,0,0,0,,Même si je ne suis pas\Nsous ma forme complète,
+Dialogue: 0,0:15:34.83,0:15:37.25,Default,Megicula,0,0,0,,je suis quand même stupéfaite
+Dialogue: 0,0:15:38.08,0:15:40.84,Default,Megicula,0,0,0,,de vous voir\Nme tenir tête à ce point.
+Dialogue: 0,0:15:41.63,0:15:43.38,Default,Megicula,0,0,0,,Mais cette fois…
+Dialogue: 0,0:15:45.92,0:15:47.34,Default,Megicula,0,0,0,,c’est vraiment terminé !
+Dialogue: 0,0:15:58.44,0:16:00.44,Default,Nozel,0,0,0,,Comment oses-tu\Nte montrer à nouveau
+Dialogue: 0,0:16:00.73,0:16:03.94,Default,Nozel,0,0,0,,devant un membre de ma famille ?
+Dialogue: 0,0:16:07.07,0:16:11.53,Default,Nozel,0,0,0,,Si tu savais à quel point\Nj’ai attendu ce moment…
+Dialogue: 0,0:16:17.71,0:16:20.42,Italique,Nozel,0,0,0,,Dès l’instant où mère fut maudite,
+Dialogue: 0,0:16:20.54,0:16:22.84,Italique,Nozel,0,0,0,,elle s’est affaiblie à vue d’œil.
+Dialogue: 0,0:16:23.34,0:16:25.71,Italique,Nozel,0,0,0,,Les autres,\Nqui ne se doutaient de rien,
+Dialogue: 0,0:16:25.84,0:16:28.55,Italique,Nozel,0,0,0,,ont mis ça sur le compte\Nde l’accouchement.
+Dialogue: 0,0:16:29.47,0:16:32.64,Italique,Nozel,0,0,0,,Lorsque mère fut frappée\Npar la malédiction,
+Dialogue: 0,0:16:32.80,0:16:35.39,Italique,Nozel,0,0,0,,j’en ai moi aussi\Nsubi les contrecoups.
+Dialogue: 0,0:16:36.02,0:16:37.35,Italique,Nozel,0,0,0,,Je mourrais,
+Dialogue: 0,0:16:37.48,0:16:41.15,Italique,Nozel,0,0,0,,si je révélais le rôle de Megicula\Ndans la mort d’Acier Silva.
+Dialogue: 0,0:16:41.65,0:16:43.48,Italique,Nozel,0,0,0,,Si j’en parlais,
+Dialogue: 0,0:16:43.61,0:16:46.57,Italique,Nozel,0,0,0,,la malédiction frapperait\Nmes interlocuteurs
+Dialogue: 0,0:16:46.74,0:16:50.07,Italique,Nozel,0,0,0,,et se répandrait\Ncomme une maladie contagieuse.
+Dialogue: 0,0:16:50.99,0:16:53.24,Italique,Nozel,0,0,0,,Je ne peux en parler à personne.
+Dialogue: 0,0:16:53.62,0:16:55.91,Italique,Nozel,0,0,0,,C’est à moi de régler ça.
+Dialogue: 0,0:16:56.33,0:17:00.46,Italique,Nozel,0,0,0,,Je dois trouver le moyen\Nde lever la malédiction de mère.
+Dialogue: 0,0:17:01.12,0:17:03.59,Italique,Acier,0,0,0,,Nozel, arrête ça, maintenant.
+Dialogue: 0,0:17:07.67,0:17:11.22,Italique,Acier,0,0,0,,Si tu t’obstines,\Nta vie aussi sera en danger.
+Dialogue: 0,0:17:11.80,0:17:12.97,Italique,Nozel,0,0,0,,Mais enfin…
+Dialogue: 0,0:17:13.76,0:17:16.89,Italique,Acier,0,0,0,,On ne devient pas fort\Naussi facilement.
+Dialogue: 0,0:17:19.64,0:17:21.39,Italique,Acier,0,0,0,,Mais rassure-toi.
+Dialogue: 0,0:17:22.73,0:17:23.94,Italique,Acier,0,0,0,,Toi,
+Dialogue: 0,0:17:24.31,0:17:25.77,Italique,Acier,0,0,0,,ton frère et tes sœurs
+Dialogue: 0,0:17:26.23,0:17:28.82,Italique,Acier,0,0,0,,deviendrez un jour\Nplus forts que moi.
+Dialogue: 0,0:17:30.15,0:17:31.86,Italique,Acier,0,0,0,,C’est pour ça que tu dois vivre…
+Dialogue: 0,0:17:33.03,0:17:34.28,Italique,Asta,0,0,0,,Nozel.
+Dialogue: 0,0:17:44.00,0:17:48.05,Italique,Nozel,0,0,0,,Un an après avoir été maudite,\Nmère rendit son dernier souffle.
+Dialogue: 0,0:17:48.51,0:17:49.88,Italique,Nozel,0,0,0,,Pendant un an,
+Dialogue: 0,0:17:50.13,0:17:54.22,Italique,Nozel,0,0,0,,je n’ai rien pu faire d’autre\Nque la regarder agoniser.
+Dialogue: 0,0:17:58.77,0:18:00.10,Italique,Nozel,0,0,0,,Plus fort…
+Dialogue: 0,0:18:04.02,0:18:06.27,Italique,Nozel,0,0,0,,Je devais devenir plus fort…
+Dialogue: 0,0:18:07.77,0:18:10.94,Italique,Nozel,0,0,0,,pour pouvoir venger mère un jour
+Dialogue: 0,0:18:11.57,0:18:13.74,Italique,Nozel,0,0,0,,et protéger ma fratrie.
+Dialogue: 0,0:18:15.07,0:18:18.12,Italique,Nozel,0,0,0,,Nebra et Solid\Nsont devenus plus forts,
+Dialogue: 0,0:18:18.49,0:18:21.16,Italique,Nozel,0,0,0,,mais ils ne sont pas de taille\Nface à ce démon.
+Dialogue: 0,0:18:21.83,0:18:23.00,Italique,Nozel,0,0,0,,Quant à Noelle…
+Dialogue: 0,0:18:23.25,0:18:26.88,Italique,Noelle,0,0,0,,Tu pourrais m’apprendre\Nà me servir de ma magie, Nozel ?
+Dialogue: 0,0:18:27.37,0:18:29.88,Italique,Nozel,0,0,0,,… si elle ne semble pas pouvoir\Ndevenir forte,
+Dialogue: 0,0:18:30.00,0:18:32.88,Italique,Nozel,0,0,0,,alors autant la tenir à l’écart.
+Dialogue: 0,0:18:33.76,0:18:37.72,Italique,Nozel,0,0,0,,Une ratée dans ton genre n’a pas sa place\Nsur un champ de bataille.
+Dialogue: 0,0:18:38.39,0:18:42.89,Italique,Nozel,0,0,0,,Pour lui épargner mes tourments,\Nje la tiendrai loin des combats.
+Dialogue: 0,0:18:44.10,0:18:46.52,Italique,Nozel,0,0,0,,Pourquoi mère\Na-t-elle dû nous quitter
+Dialogue: 0,0:18:46.65,0:18:49.86,Italique,Nozel,0,0,0,,pour mettre au monde\Nune ignominie dans ton genre ?
+Dialogue: 0,0:18:51.32,0:18:53.90,Italique,Nozel,0,0,0,,C’est toi qui as tué notre mère.
+Dialogue: 0,0:18:55.70,0:18:56.99,Italique,Nozel,0,0,0,,C’est faux.
+Dialogue: 0,0:18:57.57,0:18:59.45,Italique,Nozel,0,0,0,,C’est moi qui l’ai tuée !
+Dialogue: 0,0:19:00.75,0:19:03.67,Italique,Nozel,0,0,0,,Je suis un bon à rien\Nqui s’est montré impuissant.
+Dialogue: 0,0:19:04.08,0:19:07.04,Italique,Nozel,0,0,0,,J’ai fui, de peur de perdre\Nquelqu’un d’autre.
+Dialogue: 0,0:19:07.21,0:19:10.13,Italique,Nozel,0,0,0,,J’étais un lâche\Nincapable de protéger les siens.
+Dialogue: 0,0:19:11.88,0:19:15.76,Italique,Nozel,0,0,0,,Pour le moment, je suis indigne\Nde t’apprendre quoi que ce soit.
+Dialogue: 0,0:19:16.93,0:19:18.14,Italique,Nozel,0,0,0,,Plus fort…
+Dialogue: 0,0:19:20.10,0:19:21.56,Italique,Nozel,0,0,0,,Plus puissant…
+Dialogue: 0,0:19:25.19,0:19:28.23,Italique,Nozel,0,0,0,,Je me dois de viser\Nle titre d’Empereur-Mage !
+Dialogue: 0,0:19:29.44,0:19:33.69,Italique,Nozel,0,0,0,,Je ne peux pas mourir ici.
+Dialogue: 0,0:19:34.28,0:19:37.82,Italique,Nozel,0,0,0,,J’ai affronté une magie maléfique\Nsemblable à la sienne.
+Dialogue: 0,0:19:37.99,0:19:39.20,Italique,Nozel,0,0,0,,Alors,
+Dialogue: 0,0:19:39.70,0:19:41.49,Italique,Nozel,0,0,0,,en prévision de ce moment…
+Dialogue: 0,0:19:47.33,0:19:48.37,Default,Nozel,0,0,0,,Je remercie
+Dialogue: 0,0:19:49.00,0:19:52.55,Default,Nozel,0,0,0,,tous ceux\Nqui se tiennent présents ici.
+Dialogue: 0,0:19:58.68,0:20:00.14,Default,Nozel,0,0,0,,Enfin,
+Dialogue: 0,0:20:00.39,0:20:02.01,Default,Nozel,0,0,0,,on se retrouve !
+Dialogue: 0,0:20:02.93,0:20:05.89,Italique,Nozel,0,0,0,,Voilà le fruit de mes efforts !
+Dialogue: 0,0:20:10.44,0:20:14.28,Default,Megicula,0,0,0,,C’est ce que vous appelez\Nd’émouvantes retrouvailles ?
+Dialogue: 0,0:20:20.53,0:20:24.29,Default,Megicula,0,0,0,,Malheureusement,\Nje ne connais pas ce sentiment.
+Dialogue: 0,0:20:27.00,0:20:29.08,Italique,Acier,0,0,0,,Tu allies la puissance de l’acier
+Dialogue: 0,0:20:29.21,0:20:31.46,Italique,Acier,0,0,0,,à la souplesse de l’eau.
+Dialogue: 0,0:20:31.63,0:20:33.42,Default,Nozel,0,0,0,,Tu ne pareras pas cette attaque !
+Dialogue: 0,0:20:35.38,0:20:36.88,Italique,Nozel,0,0,0,,Le sang est repoussé,
+Dialogue: 0,0:20:37.42,0:20:39.43,Italique,Nozel,0,0,0,,et le mercure s’infiltre,
+Dialogue: 0,0:20:40.22,0:20:43.81,Italique,Nozel,0,0,0,,mais ça ne suffira pas\Nà détruire son cœur.
+Dialogue: 0,0:20:45.01,0:20:47.27,Italique,Nozel,0,0,0,,J’avais tort sur toute la ligne.
+Dialogue: 0,0:20:47.81,0:20:51.06,Italique,Nozel,0,0,0,,Au lieu de la tenir à l’écart\Npour la protéger…
+Dialogue: 0,0:20:53.02,0:20:56.07,Italique,Nozel,0,0,0,,j’aurais dû nous faire progresser\Nmain dans la main.
+Dialogue: 0,0:21:01.20,0:21:02.91,Default,Noelle,0,0,0,,Nous n’avons pas abandonné,
+Dialogue: 0,0:21:03.37,0:21:06.41,Default,Noelle,0,0,0,,et c’est ce qui nous vaut la victoire,\NMegicula !
+Dialogue: 0,0:21:14.04,0:21:15.80,Italique,Megicula,0,0,0,,Même si je me méfiais d’eux,
+Dialogue: 0,0:21:15.96,0:21:19.51,Italique,Megicula,0,0,0,,jamais je n’aurais pensé perdre\Ncontre des humains.
+Dialogue: 0,0:21:22.34,0:21:24.43,Italique,Megicula,0,0,0,,J’ai apparemment sous-estimé
+Dialogue: 0,0:21:24.88,0:21:29.02,Italique,Megicula,0,0,0,,la véritable force\Nde vous tous réunis…
+Dialogue: 0,0:21:30.06,0:21:33.02,Italique,Megicula,0,0,0,,Est-ce pour cette raison\Nque je me suis laissé fasciner
+Dialogue: 0,0:21:33.40,0:21:37.19,Italique,Megicula,0,0,0,,par la force\Ndes sentiments humains ?
+Dialogue: 0,0:21:51.96,0:21:56.04,Default,Acier,0,0,0,,Vous êtes vraiment devenus plus forts,\Ntous les deux.
+Dialogue: 0,0:23:45.74,0:23:47.74,Default,credits,0,0,0,,{\an8}Traduction : Chopparic\NAdaptation : DW512ZC
+Dialogue: 0,0:23:47.86,0:23:49.87,Default,credits,0,0,0,,{\an8}Repérage : Clément Hautavoine\NRelecture : Kiddo Maxx
+
