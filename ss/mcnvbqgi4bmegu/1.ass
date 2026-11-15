@@ -1,0 +1,387 @@
+[Script Info]
+Title:
+Original Translation:
+Original Editing:
+Original Timing:
+Synch Point:
+Script Updated By:
+Update Details:
+ScriptType: v4.00+
+PlayResX: 640
+WrapStyle: 0
+Video Aspect Ratio: 0
+Video Zoom: 8
+PlayResY: 360
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: On Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DefaultLow,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:14.01,0:00:14.97,Default,,0,0,0,,Light up!
+Dialogue: 0,0:00:15.14,0:00:16.10,Default,,0,0,0,,Light up!
+Dialogue: 0,0:00:16.27,0:00:17.06,Default,,0,0,0,,Light up!
+Dialogue: 0,0:00:17.23,0:00:20.52,Default,,0,0,0,,Give us some light!
+Dialogue: 0,0:00:21.06,0:00:22.69,Default,,0,0,0,,What are you doing?
+Dialogue: 0,0:00:22.86,0:00:24.57,Default,,0,0,0,,The Star Kiraring Brooch.
+Dialogue: 0,0:00:24.94,0:00:27.28,Default,,0,0,0,,We're trying to make it glow.
+Dialogue: 0,0:00:27.44,0:00:28.82,Default,,0,0,0,,Impossible.
+Dialogue: 0,0:00:28.99,0:00:31.49,Default,,0,0,0,,We have to try everything!
+Dialogue: 0,0:00:31.66,0:00:32.45,Default,,0,0,0,,Yes...
+Dialogue: 0,0:00:32.91,0:00:34.08,Default,,0,0,0,,it's delicious.
+Dialogue: 0,0:00:36.62,0:00:43.25,Default,,0,0,0,,But why did it respond\Nto Kurea and Luluka's feelings?
+Dialogue: 0,0:00:44.29,0:00:45.34,Default,,0,0,0,,No clue...
+Dialogue: 0,0:00:46.38,0:00:49.34,Default,,0,0,0,,Because they have true hearts!
+Dialogue: 0,0:00:52.01,0:00:53.68,Default,,0,0,0,,True hearts...
+Dialogue: 0,0:00:55.22,0:00:57.02,Default,,0,0,0,,That's not much help.
+Dialogue: 0,0:00:58.64,0:01:01.19,Default,,0,0,0,,It'll respond to you someday!
+Dialogue: 0,0:01:01.35,0:01:06.61,Default,,0,0,0,,Aren't you always saying, "I never lie!"?
+Dialogue: 0,0:01:08.61,0:01:09.95,Default,,0,0,0,,Never lie!
+Dialogue: 0,0:01:11.11,0:01:13.99,Default,,0,0,0,,{\i1}The reason why you know about them.{\i}
+Dialogue: 0,0:01:18.83,0:01:23.29,Default,,0,0,0,,{\i1}The CUREtto Detective Agency\Nhas four people now!{\i}
+Dialogue: 0,0:01:24.50,0:01:27.75,Default,,0,0,0,,{\i1}And something's casually hanging around!{\i}
+Dialogue: 0,0:01:27.92,0:01:29.97,Default,,0,0,0,,Ms. Eriza! Focus!
+Dialogue: 0,0:01:30.84,0:01:32.47,Default,,0,0,0,,Your deadline approaches!
+Dialogue: 0,0:01:32.63,0:01:34.01,Default,,0,0,0,,Y-Yes, ma'am.
+Dialogue: 0,0:01:42.89,0:01:45.06,Default,,0,0,0,,Oh! That motorcycle!
+Dialogue: 0,0:01:48.23,0:01:49.61,Default,,0,0,0,,Whoa!
+Dialogue: 0,0:01:52.95,0:01:54.41,Default,,0,0,0,,It's Mafuru!
+Dialogue: 0,0:01:54.57,0:01:57.41,Default,,0,0,0,,Proof of Dawn, Detective Mafuru!
+Dialogue: 0,0:01:57.58,0:02:00.50,Default,,0,0,0,,-Huh?\N-I'm a huge fan!
+Dialogue: 0,0:02:09.88,0:02:13.76,Default,,0,0,0,,{\i1}Let's look for it\NThe hint is in the heart!{\i}
+Dialogue: 0,0:02:13.93,0:02:16.80,Default,,0,0,0,,{\i1}A brilliant inspiration{\i}
+Dialogue: 0,0:02:17.14,0:02:19.77,Default,,0,0,0,,{\i1}I'm sure we'll find it\NWe're Precure, after all{\i}
+Dialogue: 0,0:02:19.93,0:02:22.48,Default,,0,0,0,,{\i1}It's calling to us{\i}
+Dialogue: 0,0:02:22.64,0:02:25.40,Default,,0,0,0,,{\i1}Where's the truth?\NWhat will we discover?{\i}
+Dialogue: 0,0:02:25.56,0:02:29.15,Default,,0,0,0,,{\i1}One mystery after another{\i}
+Dialogue: 0,0:02:29.82,0:02:35.20,Default,,0,0,0,,{\i1}Gather the pieces\NFrom now to the past and future{\i}
+Dialogue: 0,0:02:35.36,0:02:40.45,Default,,0,0,0,,{\i1}Like evidence\NSomething shining across time{\i}
+Dialogue: 0,0:02:40.70,0:02:43.37,Default,,0,0,0,,{\i1}How? How? Is it a trick?{\i}
+Dialogue: 0,0:02:43.54,0:02:46.33,Default,,0,0,0,,{\i1}Why? Why? We'll face it{\i}
+Dialogue: 0,0:02:46.63,0:02:51.92,Default,,0,0,0,,{\i1}Look and feel\NFigure out the secret{\i}
+Dialogue: 0,0:02:52.26,0:02:57.76,Default,,0,0,0,,{\i1}One brave step will lead to a miracle{\i}
+Dialogue: 0,0:02:58.14,0:03:03.31,Default,,0,0,0,,{\i1}The answer?!\NFound when you notice the unnoticed{\i}
+Dialogue: 0,0:03:03.64,0:03:09.11,Default,,0,0,0,,{\i1}It's destiny, it's love\NWhispered in a tiny voice{\i}
+Dialogue: 0,0:03:09.27,0:03:12.57,Default,,0,0,0,,{\i1}Let's walk that road together!{\i}
+Dialogue: 0,0:03:12.73,0:03:16.49,Default,,0,0,0,,{\i1}Let's look for it\NThe hint is in the heart!{\i}
+Dialogue: 0,0:03:16.66,0:03:18.32,Default,,0,0,0,,{\i1}A brilliant inspiration{\i}
+Dialogue: 0,0:03:18.49,0:03:24.12,Default,,0,0,0,,{\i1}The jewel key connects us\NOpening the link moving forward{\i}
+Dialogue: 0,0:03:24.29,0:03:29.21,Default,,0,0,0,,{\i1}Hey, us being born and having met\NIs a wonderful mystery{\i}
+Dialogue: 0,0:03:29.38,0:03:32.84,Default,,0,0,0,,{\i1}Go on! Star Detective Precure!{\i}
+Dialogue: 0,0:03:39.22,0:03:44.02,Default,,0,0,0,,{\i1}Mikuru's Answer{\i}
+Dialogue: 0,0:03:49.94,0:03:53.53,Default,,0,0,0,,It's rare to see you looking so glum.
+Dialogue: 0,0:03:54.28,0:03:57.36,Default,,0,0,0,,Are you wondering about those lights, too?
+Dialogue: 0,0:03:59.91,0:04:01.20,Default,,0,0,0,,I guess so.
+Dialogue: 0,0:04:02.03,0:04:05.70,Default,,0,0,0,,{\i1}Those lights Cure Eclair\Nand Cure Arcana lit up...{\i}
+Dialogue: 0,0:04:05.87,0:04:09.75,Default,,0,0,0,,They may be two of the four lights\Nfrom the Tome of Mirages.
+Dialogue: 0,0:04:09.92,0:04:13.67,Default,,0,0,0,,Yes, the power\Nof the Star Kiraring Brooch.
+Dialogue: 0,0:04:14.17,0:04:19.63,Default,,0,0,0,,{\i1}Usocchi is so focused on the prophecy\Nof a new era starting in 2000.{\i}
+Dialogue: 0,0:04:20.30,0:04:24.47,Default,,0,0,0,,He hasn't given the Star Kiraring Brooch\Na second thought.
+Dialogue: 0,0:04:25.02,0:04:27.18,Default,,0,0,0,,That power is too dangerous.
+Dialogue: 0,0:04:27.35,0:04:28.98,Default,,0,0,0,,Leave it to me.
+Dialogue: 0,0:04:29.77,0:04:32.65,Default,,0,0,0,,I'm going out to steal a Makoto Jewel.
+Dialogue: 0,0:04:33.82,0:04:36.44,Default,,0,0,0,,It'll be the grand finale, baby.
+Dialogue: 0,0:04:43.41,0:04:46.50,Default,,0,0,0,,-Here you are.\N-Thank you so much!
+Dialogue: 0,0:04:46.66,0:04:48.25,Default,,0,0,0,,Can you sign this for me?
+Dialogue: 0,0:04:48.83,0:04:50.58,Default,,0,0,0,,Me too, please!
+Dialogue: 0,0:04:51.92,0:04:55.84,Default,,0,0,0,,When I was studying in Paris,\NI heard about your work!
+Dialogue: 0,0:04:56.00,0:05:00.93,Default,,0,0,0,,I never dreamed Proof of Dawn,\NDetective Mafuru, would come to my shop!
+Dialogue: 0,0:05:01.09,0:05:03.93,Default,,0,0,0,,Mafuru is really famous!
+Dialogue: 0,0:05:04.10,0:05:06.18,Default,,0,0,0,,Especially in Europe.
+Dialogue: 0,0:05:07.56,0:05:10.48,Default,,0,0,0,,Wow! Thank you so much!
+Dialogue: 0,0:05:11.10,0:05:13.69,Default,,0,0,0,,I hear you're helping Kurea a lot!
+Dialogue: 0,0:05:13.86,0:05:15.52,Default,,0,0,0,,Oh, it's nothing like that!
+Dialogue: 0,0:05:15.69,0:05:18.74,Default,,0,0,0,,ChuChu only runs thanks to her!
+Dialogue: 0,0:05:19.24,0:05:20.40,Default,,0,0,0,,Oh, gosh!
+Dialogue: 0,0:05:20.90,0:05:21.86,Default,,0,0,0,,Um...
+Dialogue: 0,0:05:22.32,0:05:23.78,Default,,0,0,0,,May I take a photo?
+Dialogue: 0,0:05:24.28,0:05:27.87,Default,,0,0,0,,Sorry, but I don't allow photos.
+Dialogue: 0,0:05:28.25,0:05:31.92,Default,,0,0,0,,It's hard to investigate and tail someone\Nif my face is well-known.
+Dialogue: 0,0:05:32.08,0:05:34.58,Default,,0,0,0,,So I try not to expose it.
+Dialogue: 0,0:05:36.29,0:05:39.34,Default,,0,0,0,,Eriza, it's amazing you recognized her!
+Dialogue: 0,0:05:39.51,0:05:43.05,Default,,0,0,0,,I mean, I admire Detective Mafuru\Nmore than anyone!
+Dialogue: 0,0:05:43.22,0:05:46.60,Default,,0,0,0,,That's why I became a detective\Nat the CUREtto Detective Agency!
+Dialogue: 0,0:05:46.76,0:05:47.72,Default,,0,0,0,,Huh?
+Dialogue: 0,0:05:47.89,0:05:52.31,Default,,0,0,0,,I'm fired up by your autograph!\NI'll work hard at sleuthing and writing!
+Dialogue: 0,0:05:52.48,0:05:55.27,Default,,0,0,0,,-I'm going to finish it!\N-Back to work!
+Dialogue: 0,0:05:55.44,0:05:59.07,Default,,0,0,0,,Eriza, can you take a picture\Nof me in my hat?
+Dialogue: 0,0:06:01.15,0:06:05.91,Default,,0,0,0,,That girl joined the CUREtto\NDetective Agency? What's going on?
+Dialogue: 0,0:06:06.07,0:06:07.62,Default,,0,0,0,,Y-You know...
+Dialogue: 0,0:06:07.78,0:06:14.00,Default,,0,0,0,,She solved a case,\Nso I figured she passed the test.
+Dialogue: 0,0:06:16.04,0:06:19.34,Default,,0,0,0,,-You can't just test them!\N-I'm sorry!
+Dialogue: 0,0:06:19.50,0:06:22.30,Default,,0,0,0,,You're seriously incorrigible.
+Dialogue: 0,0:06:35.77,0:06:37.56,Default,,0,0,0,,-Hey!\N-Ma!
+Dialogue: 0,0:06:37.98,0:06:39.44,Default,,0,0,0,,Director Mafuru?
+Dialogue: 0,0:06:39.61,0:06:41.15,Default,,0,0,0,,Are you doing well?
+Dialogue: 0,0:06:41.32,0:06:42.99,Default,,0,0,0,,Mashutan, we're home.
+Dialogue: 0,0:06:43.15,0:06:45.53,Default,,0,0,0,,I'll serve the cake we received.
+Dialogue: 0,0:06:45.70,0:06:48.33,Default,,0,0,0,,Welcome back. Thank you.
+Dialogue: 0,0:06:48.95,0:06:50.58,Default,,0,0,0,,Why are you here?
+Dialogue: 0,0:06:50.74,0:06:55.08,Default,,0,0,0,,Jett told me the Star Kiraring Brooch\Nhad reacted.
+Dialogue: 0,0:06:55.25,0:06:57.50,Default,,0,0,0,,What are you doing, all by yourself?
+Dialogue: 0,0:06:57.67,0:07:01.71,Default,,0,0,0,,I'm searching for a Makoto Jewel\Nbecause I realized something.
+Dialogue: 0,0:07:02.13,0:07:05.97,Default,,0,0,0,,It's all in the Tome of Mirages,\Nwritten by my ancestors.
+Dialogue: 0,0:07:06.13,0:07:09.18,Default,,0,0,0,,My fortunetelling\Nwill surely lead me to it!
+Dialogue: 0,0:07:09.35,0:07:11.89,Default,,0,0,0,,I see! That's remarkable!
+Dialogue: 0,0:07:12.06,0:07:13.56,Default,,0,0,0,,Mashutan, good work.
+Dialogue: 0,0:07:13.73,0:07:18.15,Default,,0,0,0,,Luluka, you made the Star Kiraring Brooch\Nlight up, after all!
+Dialogue: 0,0:07:18.31,0:07:19.48,Default,,0,0,0,,Yes!
+Dialogue: 0,0:07:19.65,0:07:24.61,Default,,0,0,0,,Director Mafuru, you need to look\Nat the Star Kiraring Brooch!
+Dialogue: 0,0:07:24.78,0:07:26.28,Default,,0,0,0,,Pochitan, could you?
+Dialogue: 0,0:07:31.58,0:07:33.79,Default,,0,0,0,,You're right, two spots are glowing!
+Dialogue: 0,0:07:33.95,0:07:36.37,Default,,0,0,0,,You're both amazing!
+Dialogue: 0,0:07:38.54,0:07:41.50,Default,,0,0,0,,It's incredible! Spectacular!
+Dialogue: 0,0:07:53.81,0:07:54.85,Default,,0,0,0,,Anna.
+Dialogue: 0,0:07:56.27,0:07:57.35,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:07:57.98,0:07:58.77,Default,,0,0,0,,Huh?
+Dialogue: 0,0:07:59.94,0:08:01.15,Default,,0,0,0,,Nothing.
+Dialogue: 0,0:08:02.90,0:08:04.40,Default,,0,0,0,,Don't hide things.
+Dialogue: 0,0:08:07.61,0:08:08.74,Default,,0,0,0,,Hide...
+Dialogue: 0,0:08:10.82,0:08:12.74,Default,,0,0,0,,Hide things?
+Dialogue: 0,0:08:14.04,0:08:16.00,Default,,0,0,0,,Is this related to Mafuru?
+Dialogue: 0,0:08:16.16,0:08:17.21,Default,,0,0,0,,Huh?
+Dialogue: 0,0:08:17.37,0:08:21.92,Default,,0,0,0,,When you're around Mafuru,\Nyou act strange.
+Dialogue: 0,0:08:23.00,0:08:28.88,Default,,0,0,0,,D-Do I? I guess I'm nervous in front\Nof the CUREtto Detective Agency Director.
+Dialogue: 0,0:08:29.43,0:08:31.09,Default,,0,0,0,,That's not all, though, is it?
+Dialogue: 0,0:08:31.26,0:08:32.14,Default,,0,0,0,,What?!
+Dialogue: 0,0:08:32.68,0:08:36.06,Default,,0,0,0,,I've been with you for over six months.
+Dialogue: 0,0:08:36.22,0:08:37.27,Default,,0,0,0,,I can tell.
+Dialogue: 0,0:08:44.19,0:08:46.74,Default,,0,0,0,,Tell me if something's bothering you!
+Dialogue: 0,0:08:49.95,0:08:52.37,Default,,0,0,0,,You say you know me.
+Dialogue: 0,0:08:53.45,0:08:55.74,Default,,0,0,0,,But you don't know anything.
+Dialogue: 0,0:08:58.79,0:09:00.79,Default,,0,0,0,,What do you know about me?
+Dialogue: 0,0:09:01.21,0:09:02.96,Default,,0,0,0,,What about my family?
+Dialogue: 0,0:09:03.38,0:09:06.42,Default,,0,0,0,,Do you know why I was in London?
+Dialogue: 0,0:09:08.30,0:09:13.34,Default,,0,0,0,,I thought you didn't talk about\Nyour family out of respect for me?
+Dialogue: 0,0:09:13.85,0:09:18.22,Default,,0,0,0,,Because if I start thinking\Nabout my mom, I'd get sad.
+Dialogue: 0,0:09:19.73,0:09:21.77,Default,,0,0,0,,Of course, there's that, too.
+Dialogue: 0,0:09:22.69,0:09:24.31,Default,,0,0,0,,But that's not all.
+Dialogue: 0,0:09:24.48,0:09:25.32,Default,,0,0,0,,What?
+Dialogue: 0,0:09:26.86,0:09:27.65,Default,,0,0,0,,I...
+Dialogue: 0,0:09:30.03,0:09:33.41,Default,,0,0,0,,I found the location of the Makoto Jewel.
+Dialogue: 0,0:09:36.70,0:09:37.99,Default,,0,0,0,,Sunset.
+Dialogue: 0,0:09:38.75,0:09:40.58,Default,,0,0,0,,An empty park.
+Dialogue: 0,0:09:41.46,0:09:43.79,Default,,0,0,0,,Kids, don't try this at home!
+Dialogue: 0,0:09:44.29,0:09:45.34,Default,,0,0,0,,Argh!
+Dialogue: 0,0:09:46.59,0:09:48.17,Default,,0,0,0,,Because that's what happens.
+Dialogue: 0,0:09:49.01,0:09:49.92,Default,,0,0,0,,Dear me.
+Dialogue: 0,0:09:50.09,0:09:54.09,Default,,0,0,0,,Who'd've thought a Makoto Jewel\Nwould be in a slide?
+Dialogue: 0,0:09:54.26,0:09:56.18,Default,,0,0,0,,But I won't steal it yet.
+Dialogue: 0,0:09:56.68,0:09:59.72,Default,,0,0,0,,I'll show how I steal it with grace.
+Dialogue: 0,0:09:59.89,0:10:02.27,Default,,0,0,0,,That's how\Nthe Phantom Thieves' Guild does it!
+Dialogue: 0,0:10:02.98,0:10:05.69,Default,,0,0,0,,If I steal it now, that's not graceful.
+Dialogue: 0,0:10:05.86,0:10:10.15,Default,,0,0,0,,{\i1}I'll do it tomorrow at noon,\Nwith lots of people around.{\i}
+Dialogue: 0,0:10:10.65,0:10:14.28,Default,,0,0,0,,This is no time\Nfor obsessing over details.
+Dialogue: 0,0:10:14.74,0:10:16.53,Default,,0,0,0,,I don't hate it.
+Dialogue: 0,0:10:17.95,0:10:21.41,Default,,0,0,0,,Disguise myself as a mom\Nwith a small child to steal it?
+Dialogue: 0,0:10:21.96,0:10:24.67,Default,,0,0,0,,Hang on, I can't do that\Nwithout a child actor.
+Dialogue: 0,0:10:26.79,0:10:28.88,Default,,0,0,0,,And how do I carry it?
+Dialogue: 0,0:10:29.05,0:10:32.47,Default,,0,0,0,,Disguise myself as park maintenance\Nand bring a truck?
+Dialogue: 0,0:10:33.09,0:10:36.64,Default,,0,0,0,,-Darn! I don't have a license!\N-Over here!
+Dialogue: 0,0:10:36.80,0:10:37.89,Default,,0,0,0,,Precures!
+Dialogue: 0,0:10:38.05,0:10:39.14,Default,,0,0,0,,Nijee!
+Dialogue: 0,0:10:39.31,0:10:41.14,Default,,0,0,0,,How?! I didn't steal it yet!
+Dialogue: 0,0:10:41.31,0:10:45.77,Default,,0,0,0,,He's here, which means Mashutan's\Nfortunetelling was right.
+Dialogue: 0,0:10:45.94,0:10:47.31,Default,,0,0,0,,Of course it was!
+Dialogue: 0,0:10:47.48,0:10:50.61,Default,,0,0,0,,I'm so tired I can't move, though!
+Dialogue: 0,0:10:50.78,0:10:54.11,Default,,0,0,0,,The Makoto Jewel must be in that slide!
+Dialogue: 0,0:10:54.82,0:10:58.32,Default,,0,0,0,,I was just preparing\Na plan for my graceful crime.
+Dialogue: 0,0:10:58.95,0:11:00.08,Default,,0,0,0,,Fine.
+Dialogue: 0,0:11:00.24,0:11:03.12,Default,,0,0,0,,I'll make a show of defeating you instead.
+Dialogue: 0,0:11:03.29,0:11:05.71,Default,,0,0,0,,You'll be satisfied with that, right?
+Dialogue: 0,0:11:09.29,0:11:11.46,Default,,0,0,0,,Lies, envelop!
+Dialogue: 0,0:11:12.05,0:11:14.30,Default,,0,0,0,,Come forth, Hanninda!
+Dialogue: 0,0:11:20.72,0:11:23.73,Default,,0,0,0,,Hanninda!
+Dialogue: 0,0:11:26.44,0:11:27.44,Default,,0,0,0,,Mikuru!
+Dialogue: 0,0:11:29.36,0:11:30.19,Default,,0,0,0,,Okay!
+Dialogue: 0,0:11:30.36,0:11:31.69,Default,,0,0,0,,Open!
+Dialogue: 0,0:11:35.95,0:11:37.66,Default,,0,0,0,,Open! Open!
+Dialogue: 0,0:11:38.24,0:11:39.37,Default,,0,0,0,,Why?
+Dialogue: 0,0:11:41.12,0:11:43.08,Default,,0,0,0,,Open! Open!
+Dialogue: 0,0:11:43.24,0:11:45.25,Default,,0,0,0,,Open! Open!
+Dialogue: 0,0:11:46.04,0:11:49.50,Default,,0,0,0,,Hanninda!
+Dialogue: 0,0:11:59.59,0:12:01.51,Default,,0,0,0,,Hanninda!
+Dialogue: 0,0:12:10.10,0:12:11.02,Default,,0,0,0,,Are you okay?
+Dialogue: 0,0:12:11.19,0:12:11.98,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:12:12.48,0:12:14.15,Default,,0,0,0,,Leave it to us!
+Dialogue: 0,0:12:15.11,0:12:15.99,Default,,0,0,0,,Kurea.
+Dialogue: 0,0:12:16.15,0:12:16.95,Default,,0,0,0,,Yes.
+Dialogue: 0,0:12:17.11,0:12:18.24,Default,,0,0,0,,Open!
+Dialogue: 0,0:12:26.87,0:12:28.83,Default,,0,0,0,,Shine Arcana Rod!
+Dialogue: 0,0:12:32.75,0:12:34.96,Default,,0,0,0,,Precure! Wake-up Time!
+Dialogue: 0,0:12:38.05,0:12:39.18,Default,,0,0,0,,Shine,
+Dialogue: 0,0:12:39.34,0:12:40.47,Default,,0,0,0,,Lily-white
+Dialogue: 0,0:12:49.23,0:12:50.52,Default,,0,0,0,,Flower Tap!
+Dialogue: 0,0:13:11.62,0:13:18.30,Default,,0,0,0,,The white light that shines upon truth,\NStar Detective Cure Arcana!
+Dialogue: 0,0:13:24.01,0:13:24.97,Default,,0,0,0,,Open!
+Dialogue: 0,0:13:30.94,0:13:33.10,Default,,0,0,0,,Top of Lily Fragrance!
+Dialogue: 0,0:13:35.86,0:13:38.36,Default,,0,0,0,,Precure! Wake-up Time!
+Dialogue: 0,0:13:38.86,0:13:40.28,Default,,0,0,0,,Floral Spin,
+Dialogue: 0,0:13:56.34,0:13:57.42,Default,,0,0,0,,Bloom!
+Dialogue: 0,0:14:20.28,0:14:21.44,Default,,0,0,0,,Awaken!
+Dialogue: 0,0:14:21.82,0:14:27.74,Default,,0,0,0,,The fragrance of inner truth,\NStar Detective Cure Eclair!
+Dialogue: 0,0:14:32.75,0:14:35.12,Default,,0,0,0,,I'll show you my answer.
+Dialogue: 0,0:14:35.63,0:14:37.25,Default,,0,0,0,,Hanninda!
+Dialogue: 0,0:14:43.30,0:14:44.38,Default,,0,0,0,,Han!
+Dialogue: 0,0:14:45.22,0:14:47.68,Default,,0,0,0,,Ni-ni-ni-nin, da!
+Dialogue: 0,0:14:49.56,0:14:51.85,Default,,0,0,0,,Open! Open!
+Dialogue: 0,0:14:52.48,0:14:53.43,Default,,0,0,0,,But why?
+Dialogue: 0,0:14:54.98,0:14:56.90,Default,,0,0,0,,Mikuru, try again!
+Dialogue: 0,0:14:59.73,0:15:00.65,Default,,0,0,0,,Mikuru?
+Dialogue: 0,0:15:00.82,0:15:02.53,Default,,0,0,0,,Han!
+Dialogue: 0,0:15:11.70,0:15:13.33,Default,,0,0,0,,Eclair Illusion!
+Dialogue: 0,0:15:19.63,0:15:23.09,Default,,0,0,0,,Han! Ni-ni-ni-ni-nin! Da!
+Dialogue: 0,0:15:23.55,0:15:28.55,Default,,0,0,0,,Da! Han! Han? Han? Da!
+Dialogue: 0,0:15:37.27,0:15:38.77,Default,,0,0,0,,Arcana Star Shine!
+Dialogue: 0,0:15:44.99,0:15:47.24,Default,,0,0,0,,Ha? Han!
+Dialogue: 0,0:15:48.57,0:15:49.62,Default,,0,0,0,,Mikuru?
+Dialogue: 0,0:15:52.08,0:15:53.37,Default,,0,0,0,,It's my fault.
+Dialogue: 0,0:15:53.54,0:15:54.33,Default,,0,0,0,,What?
+Dialogue: 0,0:15:56.83,0:15:59.58,Default,,0,0,0,,I'm no Precure.
+Dialogue: 0,0:16:00.08,0:16:02.55,Default,,0,0,0,,And I'm no true Star Detective.
+Dialogue: 0,0:16:02.71,0:16:04.84,Default,,0,0,0,,I'm not qualified!
+Dialogue: 0,0:16:06.97,0:16:08.30,Default,,0,0,0,,You mean...
+Dialogue: 0,0:16:10.51,0:16:12.18,Default,,0,0,0,,And that's not all!
+Dialogue: 0,0:16:13.26,0:16:16.18,Default,,0,0,0,,Is this about\Nwhat you tried to say earlier?
+Dialogue: 0,0:16:19.23,0:16:20.65,Default,,0,0,0,,Now, now.
+Dialogue: 0,0:16:21.15,0:16:23.27,Default,,0,0,0,,Not being able to transform.
+Dialogue: 0,0:16:24.78,0:16:27.61,Default,,0,0,0,,It reminds me of when I met you.
+Dialogue: 0,0:16:27.78,0:16:30.87,Default,,0,0,0,,Hanninda.
+Dialogue: 0,0:16:31.37,0:16:33.45,Default,,0,0,0,,{\i1}I said it then, too.{\i}
+Dialogue: 0,0:16:34.74,0:16:38.46,Default,,0,0,0,,You're a fake detective, baby.
+Dialogue: 0,0:16:40.29,0:16:43.34,Default,,0,0,0,,He's shaking up the Precures,
+Dialogue: 0,0:16:43.50,0:16:46.80,Default,,0,0,0,,preventing the four lights\Nfrom lighting up.
+Dialogue: 0,0:16:46.96,0:16:49.05,Default,,0,0,0,,Not bad, Nijee.
+Dialogue: 0,0:16:51.39,0:16:53.68,Default,,0,0,0,,You can't transform into a Precure?
+Dialogue: 0,0:16:53.85,0:16:55.89,Default,,0,0,0,,That's hilarious.
+Dialogue: 0,0:16:57.81,0:17:00.31,Default,,0,0,0,,Han! Nin! Nin!
+Dialogue: 0,0:17:07.99,0:17:11.61,Default,,0,0,0,,Your friends are suffering because of you.
+Dialogue: 0,0:17:11.78,0:17:13.37,Default,,0,0,0,,Star Detectives.
+Dialogue: 0,0:17:13.53,0:17:14.58,Default,,0,0,0,,No.
+Dialogue: 0,0:17:15.53,0:17:18.29,Default,,0,0,0,,Former Star Detectives, I guess!
+Dialogue: 0,0:17:21.96,0:17:23.75,Default,,0,0,0,,Those two are Star Detectives!
+Dialogue: 0,0:17:23.92,0:17:24.88,Default,,0,0,0,,Han!
+Dialogue: 0,0:17:26.67,0:17:29.42,Default,,0,0,0,,Thanks to those two, I'm here now!
+Dialogue: 0,0:17:30.22,0:17:32.68,Default,,0,0,0,,{\i1}They found me!{\i}
+Dialogue: 0,0:17:33.26,0:17:35.64,Default,,0,0,0,,Me, the Precure!
+Dialogue: 0,0:17:35.81,0:17:40.89,Default,,0,0,0,,Yes! They helped Kurea be Eclair again.
+Dialogue: 0,0:17:41.06,0:17:43.44,Default,,0,0,0,,A detective, and a patissier.
+Dialogue: 0,0:17:44.02,0:17:47.73,Default,,0,0,0,,I found my true path thanks to those two!
+Dialogue: 0,0:17:49.53,0:17:50.53,Default,,0,0,0,,Mikuru!
+Dialogue: 0,0:18:04.63,0:18:05.84,Default,,0,0,0,,There, there.
+Dialogue: 0,0:18:06.00,0:18:09.71,Default,,0,0,0,,Your words seem to be\Nhaving no effect, baby!
+Dialogue: 0,0:18:09.88,0:18:11.42,Default,,0,0,0,,Hanninda!
+Dialogue: 0,0:18:11.59,0:18:14.43,Default,,0,0,0,,Han! Nin! Da!
+Dialogue: 0,0:18:23.23,0:18:24.73,Default,,0,0,0,,Behind the Hanninda?
+Dialogue: 0,0:18:25.23,0:18:28.23,Default,,0,0,0,,If I get behind it,\Nthe wind won't hit me.
+Dialogue: 0,0:18:28.40,0:18:29.36,Default,,0,0,0,,Han!
+Dialogue: 0,0:18:29.86,0:18:30.69,Default,,0,0,0,,Han!
+Dialogue: 0,0:18:30.86,0:18:36.66,Default,,0,0,0,,It's not that simple. With that long nose,\Nit has no blind spots, baby!
+Dialogue: 0,0:18:37.74,0:18:38.53,Default,,0,0,0,,Han!
+Dialogue: 0,0:18:39.16,0:18:39.99,Default,,0,0,0,,Han!
+Dialogue: 0,0:18:40.95,0:18:42.50,Default,,0,0,0,,Han!
+Dialogue: 0,0:18:43.33,0:18:45.46,Default,,0,0,0,,Hanninda!
+Dialogue: 0,0:18:45.62,0:18:47.67,Default,,0,0,0,,That's my Arcana!
+Dialogue: 0,0:18:47.84,0:18:48.75,Default,,0,0,0,,Eclair!
+Dialogue: 0,0:18:48.92,0:18:51.80,Default,,0,0,0,,Yeah! Now it's my turn!
+Dialogue: 0,0:18:54.38,0:18:55.30,Default,,0,0,0,,Open!
+Dialogue: 0,0:18:58.55,0:19:00.31,Default,,0,0,0,,Pre-Kit Mirror Loupe!
+Dialogue: 0,0:19:00.89,0:19:01.72,Default,,0,0,0,,Shushutan!
+Dialogue: 0,0:19:04.60,0:19:05.73,Default,,0,0,0,,Makoto Jewel!
+Dialogue: 0,0:19:12.36,0:19:14.32,Default,,0,0,0,,Cure Eclair'll close this case!
+Dialogue: 0,0:19:21.83,0:19:24.71,Default,,0,0,0,,Elegantly spreading my wings
+Dialogue: 0,0:19:25.50,0:19:26.87,Default,,0,0,0,,and solving the mystery.
+Dialogue: 0,0:19:27.92,0:19:29.92,Default,,0,0,0,,This is my answer.
+Dialogue: 0,0:19:34.09,0:19:37.68,Default,,0,0,0,,Precure! Flying Infinity!
+Dialogue: 0,0:19:52.48,0:19:53.94,Default,,0,0,0,,CUREtto Case Closed!
+Dialogue: 0,0:19:54.40,0:19:59.91,Default,,0,0,0,,Han! Nin... Da...
+Dialogue: 0,0:20:07.96,0:20:10.79,Default,,0,0,0,,Pochi Pochi Cure Cure!
+Dialogue: 0,0:20:20.72,0:20:24.47,Default,,0,0,0,,I lost the battle, but I made some gains.
+Dialogue: 0,0:20:25.64,0:20:30.31,Default,,0,0,0,,It seems the four lights aren't about\Nthe Star Kiraring Brooch after all.
+Dialogue: 0,0:20:31.73,0:20:32.82,Default,,0,0,0,,I mean,
+Dialogue: 0,0:20:33.61,0:20:36.49,Default,,0,0,0,,they can't even become Precures.
+Dialogue: 0,0:20:40.03,0:20:41.41,Default,,0,0,0,,Perhaps...
+Dialogue: 0,0:20:42.74,0:20:47.37,Default,,0,0,0,,it's about the lights of the four\NPhantom Thieves' Guild members?
+Dialogue: 0,0:20:48.62,0:20:50.46,Default,,0,0,0,,Oh, that can't be it.
+Dialogue: 0,0:20:51.46,0:20:52.75,Default,,0,0,0,,At any rate,
+Dialogue: 0,0:20:52.92,0:20:57.38,Default,,0,0,0,,it's certainly not the lights of you two,\Nwho can't even become Precures!
+Dialogue: 0,0:20:57.84,0:20:59.34,Default,,0,0,0,,Farewell, baby!
+Dialogue: 0,0:21:02.72,0:21:03.72,Default,,0,0,0,,Mikuru.
+Dialogue: 0,0:21:05.10,0:21:06.27,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,0:21:07.89,0:21:10.77,Default,,0,0,0,,We all have our bad days. It's okay!
+Dialogue: 0,0:21:10.94,0:21:12.44,Default,,0,0,0,,It's not okay!
+Dialogue: 0,0:21:12.56,0:21:13.52,Default,,0,0,0,,Huh?
+Dialogue: 0,0:21:15.65,0:21:16.65,Default,,0,0,0,,Mikuru?
+Dialogue: 0,0:21:21.57,0:21:22.95,Default,,0,0,0,,Mikuru, what's wrong?
+Dialogue: 0,0:21:24.33,0:21:25.45,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,0:21:26.49,0:21:27.50,Default,,0,0,0,,I...
+Dialogue: 0,0:21:29.21,0:21:31.04,Default,,0,0,0,,I've been lying.
+Dialogue: 0,0:21:32.46,0:21:33.42,Default,,0,0,0,,Mikuru?
+Dialogue: 0,0:21:34.88,0:21:36.67,Default,,0,0,0,,Director Mafuru, I found them!
+Dialogue: 0,0:21:38.05,0:21:41.55,Default,,0,0,0,,Everyone disappeared at once,\Nand I wondered why!
+Dialogue: 0,0:21:42.76,0:21:44.89,Default,,0,0,0,,Did the Phantom Thieves come?
+Dialogue: 0,0:21:45.35,0:21:46.22,Default,,0,0,0,,Yes.
+Dialogue: 0,0:21:53.98,0:21:55.36,Default,,0,0,0,,What happened?
+Dialogue: 0,0:22:00.78,0:22:01.61,Default,,0,0,0,,Gran...
+Dialogue: 0,0:22:03.28,0:22:04.78,Default,,0,0,0,,Grandma!
+Dialogue: 0,0:22:11.37,0:22:12.54,Default,,0,0,0,,Grandma?
+Dialogue: 0,0:22:29.43,0:22:35.77,Default,,0,0,0,,{\i1}Is it because we're together?\NI can become stronger{\i}
+Dialogue: 0,0:22:35.94,0:22:41.36,Default,,0,0,0,,{\i1}I won't ignore a mystery\NI get the strength to think{\i}
+Dialogue: 0,0:22:42.44,0:22:48.66,Default,,0,0,0,,{\i1}I notice what can't be seen\NI look for what can't be noticed{\i}
+Dialogue: 0,0:22:49.03,0:22:53.58,Default,,0,0,0,,{\i1}When I'm with reliable friends{\i}
+Dialogue: 0,0:22:53.75,0:23:00.63,Default,,0,0,0,,{\i1}I'll take one step toward the answer\NGo! Go!{\i}
+Dialogue: 0,0:23:00.80,0:23:06.55,Default,,0,0,0,,{\i1}Every time I get closer to the answer\NIt's exciting and fun{\i}
+Dialogue: 0,0:23:06.93,0:23:13.48,Default,,0,0,0,,{\i1}Across time, across places\NFive mysteries and a double key{\i}
+Dialogue: 0,0:23:13.64,0:23:19.32,Default,,0,0,0,,{\i1}Where? Who? When? Why?\NDid what? I gotta find out!{\i}
+Dialogue: 0,0:23:19.48,0:23:23.36,Default,,0,0,0,,{\i1}I'll know someday,\NI'm sure we'll meet a miracle{\i}
+Dialogue: 0,0:23:23.53,0:23:26.66,Default,,0,0,0,,{\i1}'Cause our world keeps going on{\i}
+Dialogue: 0,0:23:26.82,0:23:32.66,Default,,0,0,0,,{\i1}It's a chance to make wishes come true\NThe mystery's no mystery{\i}
+Dialogue: 0,0:23:33.41,0:23:40.54,Default,,0,0,0,,{\i1}Everyone loves Star Detectives\NThat's love, Precure{\i}
+Dialogue: 0,0:23:47.38,0:23:49.26,Default,,0,0,0,,{\i1}Mikuru said she was lying.{\i}
+Dialogue: 0,0:23:49.43,0:23:51.56,Default,,0,0,0,,{\i1}We all have things we can't mention.{\i}
+Dialogue: 0,0:23:51.72,0:23:53.89,Default,,0,0,0,,{\i1}Let's believe in Mikuru's sparkle.{\i}
+Dialogue: 0,0:23:54.06,0:23:57.19,Default,,0,0,0,,{\i1}Anna, will you listen to my truth?{\i}
+Dialogue: 0,0:23:58.06,0:24:01.90,Default,,0,0,0,,{\i1}Star Detective Precure!\N"Sparkling Star Kiraring Brooch!"{\i}
+Dialogue: 0,0:24:02.07,0:24:04.53,Default,,0,0,0,,{\i1}That mystery! CUREtto Case Closed!{\i}
+Dialogue: 0,0:02:09.88,0:02:13.76,On Top,,0,0,0,,{\i1}sagashi ni iku yo Heart ni Hint!{\i}
+Dialogue: 0,0:02:13.93,0:02:16.80,On Top,,0,0,0,,{\i1}rinto hirameku{\i}
+Dialogue: 0,0:02:17.14,0:02:19.77,On Top,,0,0,0,,{\i1}kitto mitsukeru\Ndatte Precure{\i}
+Dialogue: 0,0:02:19.93,0:02:22.48,On Top,,0,0,0,,{\i1}watashitachi wo yondeiru{\i}
+Dialogue: 0,0:02:22.64,0:02:25.40,On Top,,0,0,0,,{\i1}shinjitsu wa doko?\Nhakken wa nani?{\i}
+Dialogue: 0,0:02:25.56,0:02:29.15,On Top,,0,0,0,,{\i1}nazo ga nazo wo yondeiru{\i}
+Dialogue: 0,0:02:29.82,0:02:35.20,On Top,,0,0,0,,{\i1}Puzzle wo atsume\Ngenzai kara kako, mirai e{\i}
+Dialogue: 0,0:02:35.36,0:02:40.45,On Top,,0,0,0,,{\i1}shouko mitai ni\Ntoki wo koe kagayaku mono{\i}
+Dialogue: 0,0:02:40.70,0:02:43.37,On Top,,0,0,0,,{\i1}nande? nande? Trick kana?{\i}
+Dialogue: 0,0:02:43.54,0:02:46.33,On Top,,0,0,0,,{\i1}naze? naze? tachimukau{\i}
+Dialogue: 0,0:02:46.63,0:02:51.92,On Top,,0,0,0,,{\i1}mitsumete kanjite\Nhimitsu wo tokiakasu no{\i}
+Dialogue: 0,0:02:52.26,0:02:57.76,On Top,,0,0,0,,{\i1}yuuki no ippo ga kiseki made michibiku{\i}
+Dialogue: 0,0:02:58.14,0:03:03.31,On Top,,0,0,0,,{\i1}kotae!?\NKizuitenai mono ni kizuita toki{\i}
+Dialogue: 0,0:03:03.64,0:03:09.11,On Top,,0,0,0,,{\i1}unmei ne tte daisuki yo tte\Nchicchana koe{\i}
+Dialogue: 0,0:03:09.27,0:03:12.57,On Top,,0,0,0,,{\i1}issho ni aruite ikou!{\i}
+Dialogue: 0,0:03:12.73,0:03:16.49,On Top,,0,0,0,,{\i1}sagashi ni iku yo Heart ni Hint!{\i}
+Dialogue: 0,0:03:16.66,0:03:18.32,On Top,,0,0,0,,{\i1}rinto hirameku{\i}
+Dialogue: 0,0:03:18.49,0:03:24.12,On Top,,0,0,0,,{\i1}Jewel no kagi ga tsunagaru\Ntsugi e no kizuna hiraku yo{\i}
+Dialogue: 0,0:03:24.29,0:03:29.21,On Top,,0,0,0,,{\i1}nee umareta koto\Nmeguri aeta koto no shinpi{\i}
+Dialogue: 0,0:03:29.38,0:03:32.84,On Top,,0,0,0,,{\i1}susume! Meitantei Precure!{\i}
+Dialogue: 0,0:04:43.41,0:04:51.75,On Top,,0,0,0,,PATISSERIE CHUCHU
+Dialogue: 0,0:05:20.57,0:05:24.12,On Top,,0,0,0,,SNAPQUICK
+Dialogue: 0,0:09:42.04,0:09:43.37,On Top,,0,0,0,,WARNING!
+Dialogue: 0,0:22:29.43,0:22:35.77,On Top,,0,0,0,,{\i1}minna to iru kara kana?\Nwatashi tsuyoku nareru{\i}
+Dialogue: 0,0:22:35.94,0:22:41.36,On Top,,0,0,0,,{\i1}hatena wo suruu shinai\Nkangaeru chikara ga waku{\i}
+Dialogue: 0,0:22:42.44,0:22:48.66,On Top,,0,0,0,,{\i1}mienai mono ni kizuki\Nkizukenai mono wo miru{\i}
+Dialogue: 0,0:22:49.03,0:22:53.58,On Top,,0,0,0,,{\i1}kokorozuyoi nakama issho nara{\i}
+Dialogue: 0,0:22:53.75,0:23:00.63,On Top,,0,0,0,,{\i1}hirameiteiru sono saki e ippo\NGo! Go!{\i}
+Dialogue: 0,0:23:00.80,0:23:06.55,On Top,,0,0,0,,{\i1}kotae ni chikazuku tabi ni\Ndokidoki shite tanoshii{\i}
+Dialogue: 0,0:23:06.93,0:23:13.48,On Top,,0,0,0,,{\i1}toki wo koete, basho mo koete\Nitsutsu no nazo, Double no kagi{\i}
+Dialogue: 0,0:23:13.64,0:23:19.32,On Top,,0,0,0,,{\i1}doko de? dare ga? itsu? naze?\Nnani wo shita noka? shirabenai to!{\i}
+Dialogue: 0,0:23:19.48,0:23:23.36,On Top,,0,0,0,,{\i1}itsuka wakaru,\Nkitto aeru Miracle{\i}
+Dialogue: 0,0:23:23.53,0:23:26.66,On Top,,0,0,0,,{\i1}sekaisen wa tsuzuiteru kara{\i}
+Dialogue: 0,0:23:26.82,0:23:32.66,On Top,,0,0,0,,{\i1}negai kanaeteiku Chance da mon\Nnazo wa nazo janai{\i}
+Dialogue: 0,0:23:33.41,0:23:40.54,On Top,,0,0,0,,{\i1}minna meitantei Love nano\Nsore ga ai Precure{\i}
+
