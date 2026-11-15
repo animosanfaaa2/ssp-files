@@ -1,0 +1,361 @@
+[Script Info]
+Title:
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+ScriptType: v4.00+
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,40,40,15,0
+Style: Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,40,40,15,0
+Style: Flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,40,40,15,1
+Style: Flashback-Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,2,40,40,15,1
+Style: Sign,Tahoma,22,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,5,5,15,0
+Style: Opening,Times New Roman,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,40,40,15,0
+Style: Ending,Times New Roman,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,40,40,15,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:14.98,0:00:18.25,Flashback,Nozel,0,0,0,,Mãe!
+Dialogue: 0,0:00:29.55,0:00:32.40,Opening,Música,0,0,0,,No terraço, tarde da noite,\Nprendi o fôlego
+Dialogue: 0,0:00:32.40,0:00:35.03,Opening,Música,0,0,0,,e procurei uma luz que nem tinha nome
+Dialogue: 0,0:00:35.03,0:00:37.90,Opening,Música,0,0,0,,Quanto mais eu me afastava do mundo
+Dialogue: 0,0:00:37.90,0:00:40.45,Opening,Música,0,0,0,,mais o meu peito se agitava
+Dialogue: 0,0:00:40.45,0:00:43.32,Opening,Música,0,0,0,,A uma distância que eu sabia\Nque não ia alcançar
+Dialogue: 0,0:00:43.32,0:00:45.89,Opening,Música,0,0,0,,mesmo assim, não consegui desviar o olhar
+Dialogue: 0,0:00:45.89,0:00:48.36,Opening,Música,0,0,0,,No vão entre o sonho e a realidade
+Dialogue: 0,0:00:48.36,0:00:51.21,Opening,Música,0,0,0,,eu não tinha jeito pra ficar parado
+Dialogue: 0,0:00:51.21,0:00:56.03,Opening,Música,0,0,0,,Toda vez que alguém dizia "já chega"
+Dialogue: 0,0:00:56.03,0:01:00.03,Opening,Música,0,0,0,,a linha de chegada mudava de lugar
+Dialogue: 0,0:01:01.39,0:01:04.78,Opening,Música,0,0,0,,Sem saber como desistir
+Dialogue: 0,0:01:04.78,0:01:07.10,Opening,Música,0,0,0,,eu acabei chegando até aqui
+Dialogue: 0,0:01:07.10,0:01:12.53,Opening,Música,0,0,0,,Sem conseguir pegar a estrela\Nque eu ainda nem consigo ver
+Dialogue: 0,0:01:12.53,0:01:18.02,Opening,Música,0,0,0,,guardo ela comigo nas noites de derrota
+Dialogue: 0,0:01:18.02,0:01:23.21,Opening,Música,0,0,0,,Cada desejo que não se cumpriu\Nficou marcado em mim
+Dialogue: 0,0:01:23.21,0:01:28.37,Opening,Música,0,0,0,,A razão que não se apagou\Ncintila no meu peito
+Dialogue: 0,0:01:28.37,0:01:33.96,Opening,Música,0,0,0,,Mesmo sem alcançar, a mão que estendi
+Dialogue: 0,0:01:33.96,0:01:39.09,Opening,Música,0,0,0,,eu nunca recolhi, e só por isso\Nainda não posso terminar
+Dialogue: 0,0:01:39.09,0:01:44.60,Opening,Música,0,0,0,,Mesmo sem recompensa,\Nse eu não deixar acabar,
+Dialogue: 0,0:01:44.60,0:01:48.44,Opening,Música,0,0,0,,a história que vem pela frente\Nnão é uma derrota
+Dialogue: 0,0:01:48.55,0:01:53.97,Sign,Sign,0,0,0,,{\fnTimes New Roman\fs15\blur2\c&HFFFFFF&\3c&H0F0032&\pos(501,28)}Página
+Dialogue: 0,0:01:48.55,0:01:53.97,Sign,Sign,0,0,0,,{\fnTimes New Roman\blur2\c&HFFFFFF&\3c&H0F0032&\pos(334,98)}Além de Não Desistir
+Dialogue: 0,0:01:57.53,0:01:59.97,Main,Megicula,0,0,0,,Quando o seu estágio sagrado se desfez,
+Dialogue: 0,0:02:00.36,0:02:02.98,Main,Megicula,0,0,0,,acabou o jeito de me derrotar.
+Dialogue: 0,0:02:02.98,0:02:06.60,Main,Megicula,0,0,0,,Mesmo que você ainda conseguisse\Nlançar um ataque do estágio sagrado,
+Dialogue: 0,0:02:06.60,0:02:09.48,Main,Megicula,0,0,0,,ele não chegaria até mim.
+Dialogue: 0,0:02:09.48,0:02:11.41,Main,Megicula,0,0,0,,Toda esta área já está
+Dialogue: 0,0:02:11.41,0:02:14.49,Main,Megicula,0,0,0,,tomada pelo meu "Mundo em Declínio".
+Dialogue: 0,0:02:15.16,0:02:17.57,Main,Megicula,0,0,0,,Então ninguém vai vir ajudar,
+Dialogue: 0,0:02:17.57,0:02:20.01,Main,Megicula,0,0,0,,e, mesmo que venha, não vai adiantar.
+Dialogue: 0,0:02:20.70,0:02:23.00,Main,Megicula,0,0,0,,Já é motivo suficiente\Npra desistir, não é?
+Dialogue: 0,0:02:23.47,0:02:25.72,Main,Megicula,0,0,0,,Foi divertido, humanos.
+Dialogue: 0,0:02:32.20,0:02:33.42,Main,Noelle,0,0,0,,Gaja?
+Dialogue: 0,0:02:36.26,0:02:37.36,Main,Undine,0,0,0,,Gaja!
+Dialogue: 0,0:02:40.80,0:02:42.50,Italics,Gaja,0,0,0,,Não dói nada.
+Dialogue: 0,0:02:42.50,0:02:45.69,Italics,Gaja,0,0,0,,Me perdoe, Loropechika-sama.
+Dialogue: 0,0:02:46.18,0:02:48.98,Italics,Gaja,0,0,0,,Magia de Relâmpago: Pulsaranta.
+Dialogue: 0,0:02:54.28,0:02:57.16,Italics,Gaja,0,0,0,,Vou parar ela por alguns segundos!
+Dialogue: 0,0:03:01.38,0:03:02.91,Italics,Gaja,0,0,0,,Naquele dia,
+Dialogue: 0,0:03:03.62,0:03:06.34,Italics,Gaja,0,0,0,,decidi destruir os inimigos\Nno lugar da rainha
+Dialogue: 0,0:03:06.34,0:03:08.37,Italics,Gaja,0,0,0,,e proteger o reino.
+Dialogue: 0,0:03:08.92,0:03:11.01,Italics,Gaja,0,0,0,,Mas, seis meses atrás,
+Dialogue: 0,0:03:11.46,0:03:14.54,Italics,Gaja,0,0,0,,deixei a Megicula e a Vanica atacarem
+Dialogue: 0,0:03:14.54,0:03:16.50,Italics,Gaja,0,0,0,,e a senhora foi amaldiçoada.
+Dialogue: 0,0:03:17.58,0:03:19.31,Flashback,Gaja,0,0,0,,Me perdoe!
+Dialogue: 0,0:03:19.31,0:03:21.85,Flashback,Gaja,0,0,0,,Não sirvo para ser Guardião Espiritual.
+Dialogue: 0,0:03:21.85,0:03:25.10,Flashback,Loropechika,0,0,0,,Imagina! Eu ainda estou viva!
+Dialogue: 0,0:03:25.36,0:03:28.10,Flashback,Loropechika,0,0,0,,Se não fosse você, Gaja-san,\Neu teria morrido.
+Dialogue: 0,0:03:28.46,0:03:31.29,Flashback,Loropechika,0,0,0,,E fico mais feliz do que tudo
+Dialogue: 0,0:03:31.29,0:03:33.61,Flashback,Loropechika,0,0,0,,por ninguém do reino ter se machucado.
+Dialogue: 0,0:03:33.61,0:03:35.61,Flashback,Loropechika,0,0,0,,É graças a você, Gaja-san!
+Dialogue: 0,0:03:38.01,0:03:39.98,Italics,Gaja,0,0,0,,E, além disso, por tentar proteger o povo…
+Dialogue: 0,0:03:39.98,0:03:43.61,Italics,Gaja,0,0,0,,o reino, tudo,
+Dialogue: 0,0:03:43.61,0:03:45.87,Italics,Gaja,0,0,0,,deixei a senhora nesse estado…
+Dialogue: 0,0:03:46.54,0:03:49.60,Italics,Gaja,0,0,0,,fazendo o que a senhora\Nmenos queria: atacar…
+Dialogue: 0,0:03:50.50,0:03:54.55,Italics,Gaja,0,0,0,,Eu não sirvo mesmo para\Nser Guardião Espiritual…
+Dialogue: 0,0:03:55.01,0:03:58.80,Italics,Gaja,0,0,0,,Mais do que o reino,\Neu queria proteger a senhora.
+Dialogue: 0,0:03:59.72,0:04:01.97,Italics,Gaja,0,0,0,,Não vou deixar matarem a senhora.
+Dialogue: 0,0:04:01.97,0:04:03.79,Italics,Gaja,0,0,0,,Não vou deixar a senhora matar.
+Dialogue: 0,0:04:04.39,0:04:08.39,Italics,Gaja,0,0,0,,Não vou morrer pelos\Nferimentos que a senhora me fez.
+Dialogue: 0,0:04:08.96,0:04:13.82,Italics,Gaja,0,0,0,,Vou transformar toda esta vida\Nem mana e destruir essa aí!
+Dialogue: 0,0:04:13.82,0:04:15.54,Italics,Gaja,0,0,0,,Neste lugar, agora,
+Dialogue: 0,0:04:15.54,0:04:18.40,Italics,Gaja,0,0,0,,desta vez, eu vou salvar a senhora!
+Dialogue: 0,0:04:19.03,0:04:22.99,Main,Gaja,0,0,0,,Magia Definitiva de Relâmpago:\NApocalypra…
+Dialogue: 0,0:04:23.87,0:04:25.25,Main,Gaja,0,0,0,,Astrauza!
+Dialogue: 0,0:04:29.46,0:04:32.64,Italics,Megicula,0,0,0,,Não consegui apagar com o\N"Mundo em Declínio"…
+Dialogue: 0,0:04:47.24,0:04:48.76,Italics,Noelle,0,0,0,,Só mais um golpe!
+Dialogue: 0,0:04:49.14,0:04:50.76,Italics,Noelle,0,0,0,,Mesmo que fraco!
+Dialogue: 0,0:04:50.76,0:04:53.15,Italics,Noelle,0,0,0,,Só o poder do estágio sagrado
+Dialogue: 0,0:04:53.15,0:04:55.63,Italics,Noelle,0,0,0,,pra atravessar o coração exposto…
+Dialogue: 0,0:04:58.04,0:05:00.90,Main,Megicula,0,0,0,,Então essa é a magia de quem\Nqueima a própria vida.
+Dialogue: 0,0:05:04.24,0:05:06.63,Main,Megicula,0,0,0,,O poder passou do que eu previa.
+Dialogue: 0,0:05:07.64,0:05:09.41,Main,Megicula,0,0,0,,Foi magnífico,
+Dialogue: 0,0:05:10.03,0:05:11.35,Main,Megicula,0,0,0,,humana.
+Dialogue: 0,0:05:11.79,0:05:13.03,Main,Megicula,0,0,0,,Mas que pena.
+Dialogue: 0,0:05:13.03,0:05:18.18,Main,Megicula,0,0,0,,Meu corpo tem uma maldição\Nde regeneração ultrarrápida.
+Dialogue: 0,0:05:18.55,0:05:20.04,Main,Undine,0,0,0,,Gaja!
+Dialogue: 0,0:05:23.30,0:05:24.35,Main,Noelle,0,0,0,,Undine!
+Dialogue: 0,0:05:25.05,0:05:27.79,Main,Megicula,0,0,0,,É igual à última batalha.
+Dialogue: 0,0:05:28.70,0:05:32.31,Main,Megicula,0,0,0,,Agora o poder do estágio sagrado\Ntambém não serve mais.
+Dialogue: 0,0:05:32.31,0:05:35.31,Main,Megicula,0,0,0,,Desta vez, acabou.
+Dialogue: 0,0:05:42.45,0:05:43.49,Main,Noelle,0,0,0,,Ainda não!
+Dialogue: 0,0:05:50.73,0:05:51.76,Main,Megicula,0,0,0,,Ainda não?
+Dialogue: 0,0:05:52.33,0:05:55.75,Main,Megicula,0,0,0,,Não importa como se pense,\Nvocê não tem chance de vencer.
+Dialogue: 0,0:05:55.75,0:05:58.03,Main,Megicula,0,0,0,,E, mesmo assim, por que resiste?
+Dialogue: 0,0:05:58.03,0:06:03.34,Main,Megicula,0,0,0,,É isso que às vezes faz os humanos\Ncriarem magias imprevisíveis?
+Dialogue: 0,0:06:04.00,0:06:06.95,Main,Megicula,0,0,0,,Mas, dentro do "Mundo em Declínio",
+Dialogue: 0,0:06:06.95,0:06:10.65,Main,Megicula,0,0,0,,não existe humano capaz de lançar\Numa magia que me derrote.
+Dialogue: 0,0:06:11.36,0:06:15.47,Main,Megicula,0,0,0,,Demônios não desafiam quem\Nestá acima na hierarquia.
+Dialogue: 0,0:06:15.47,0:06:17.01,Main,Megicula,0,0,0,,Porque não adianta.
+Dialogue: 0,0:06:17.01,0:06:18.99,Main,Megicula,0,0,0,,Mas vocês, humanos,
+Dialogue: 0,0:06:18.99,0:06:21.23,Main,Megicula,0,0,0,,erguem coisas que não dá pra entender
+Dialogue: 0,0:06:21.23,0:06:24.01,Main,Megicula,0,0,0,,e arriscam a vida por\Ncoisas sem sentido.
+Dialogue: 0,0:06:24.41,0:06:28.41,Main,Megicula,0,0,0,,A Acier Silva resistiu com\No "amor" pelos filhos,
+Dialogue: 0,0:06:28.41,0:06:33.42,Main,Megicula,0,0,0,,aquele homem resistiu com a "lealdade"\Nà rainha a quem jurou fidelidade,
+Dialogue: 0,0:06:33.95,0:06:38.17,Main,Megicula,0,0,0,,e você resiste com uma\N"esperança" que nem existe.
+Dialogue: 0,0:06:38.52,0:06:40.15,Main,Megicula,0,0,0,,Por coisas assim,
+Dialogue: 0,0:06:40.15,0:06:42.28,Main,Megicula,0,0,0,,chegando a se agarrar a coisas assim,
+Dialogue: 0,0:06:42.28,0:06:44.34,Main,Megicula,0,0,0,,por que vocês, humanos, não desistem?
+Dialogue: 0,0:06:47.76,0:06:49.76,Italics,Noelle,0,0,0,,Não tenho chance de vencer?
+Dialogue: 0,0:06:50.22,0:06:52.74,Italics,Noelle,0,0,0,,Isso eu já sei…
+Dialogue: 0,0:06:55.46,0:06:59.01,Italics,Noelle,0,0,0,,Pois é… porque isso é meu.
+Dialogue: 0,0:06:59.01,0:07:01.94,Italics,Noelle,0,0,0,,Não quero que alguém como você entenda!
+Dialogue: 0,0:07:03.04,0:07:05.04,Italics,Noelle,0,0,0,,O que é essa aí?
+Dialogue: 0,0:07:05.04,0:07:07.01,Italics,Noelle,0,0,0,,Ela é absurda…
+Dialogue: 0,0:07:09.04,0:07:11.20,Main,Noelle,0,0,0,,Os humanos…
+Dialogue: 0,0:07:11.20,0:07:13.62,Main,Noelle,0,0,0,,mesmo com pouca chance de vencer,
+Dialogue: 0,0:07:13.62,0:07:16.04,Main,Noelle,0,0,0,,às vezes precisam lutar.
+Dialogue: 0,0:07:16.60,0:07:20.71,Main,Noelle,0,0,0,,Na verdade, eu queria me ajoelhar\Ne chorar agora mesmo…
+Dialogue: 0,0:07:21.26,0:07:24.01,Main,Noelle,0,0,0,,Não desistir não garante a vitória…
+Dialogue: 0,0:07:24.01,0:07:27.64,Main,Noelle,0,0,0,,Mas, se desistir, a gente\Nnão vence nunca!
+Dialogue: 0,0:07:27.64,0:07:30.51,Main,Noelle,0,0,0,,Mas… mesmo assim…
+Dialogue: 0,0:07:30.51,0:07:33.93,Main,Noelle,0,0,0,,não desistir é a nossa força!
+Dialogue: 0,0:07:37.02,0:07:39.70,Main,Megicula,0,0,0,,Como imaginei, não consigo entender.
+Dialogue: 0,0:07:39.70,0:07:41.21,Main,Megicula,0,0,0,,É interessante, mas…
+Dialogue: 0,0:07:41.21,0:07:44.60,Main,Megicula,0,0,0,,não posso gastar mais tempo com isso.
+Dialogue: 0,0:07:47.79,0:07:49.41,Main,Megicula,0,0,0,,Magia de Proteção Contra Maldições:
+Dialogue: 0,0:07:50.16,0:07:52.41,Main,Megicula,0,0,0,,Vida Explosiva.
+Dialogue: 0,0:07:54.04,0:07:56.03,Main,Megicula,0,0,0,,Vou explodir a Loropechika
+Dialogue: 0,0:07:56.03,0:07:59.46,Main,Megicula,0,0,0,,e todos nesta área vão morrer juntinhos.
+Dialogue: 0,0:08:00.02,0:08:01.69,Main,Megicula,0,0,0,,E eu…
+Dialogue: 0,0:08:02.13,0:08:05.02,Main,Megicula,0,0,0,,vou me manifestar por\Ncompleto nesta terra.
+Dialogue: 0,0:08:13.22,0:08:17.60,Main,Noelle,0,0,0,,Loropechika!
+Dialogue: 0,0:08:30.86,0:08:32.87,Main,Asta,0,0,0,,Essa foi por pouco!
+Dialogue: 0,0:08:34.08,0:08:35.54,Main,Asta,0,0,0,,Bem na hora!
+Dialogue: 0,0:08:36.31,0:08:37.54,Italics,Noelle,0,0,0,,É…
+Dialogue: 0,0:08:37.54,0:08:39.37,Main,Asta,0,0,0,,Que bom te ver de novo!
+Dialogue: 0,0:08:39.37,0:08:40.98,Main,Asta,0,0,0,,Noelle!
+Dialogue: 0,0:08:40.98,0:08:43.32,Italics,Noelle,0,0,0,,Foi você que me ensinou!
+Dialogue: 0,0:08:44.78,0:08:48.67,Main,Noelle,0,0,0,,Eu não tô nada bem, Astúpido!
+Dialogue: 0,0:08:53.37,0:08:55.04,Main,Megicula,0,0,0,,Aquele humano…
+Dialogue: 0,0:08:55.79,0:08:57.62,Main,Asta,0,0,0,,Rainha Loropechika…
+Dialogue: 0,0:08:57.62,0:09:01.94,Main,Asta,0,0,0,,Eu evitei a explosão, mas várias\Nmaldições ainda não se desfizeram…
+Dialogue: 0,0:09:01.94,0:09:05.44,Main,Liebe,0,0,0,,Só um portão do submundo se abriu…
+Dialogue: 0,0:09:05.44,0:09:08.05,Main,Liebe,0,0,0,,Por que tem uma demônia do\Nmais alto escalão aqui?
+Dialogue: 0,0:09:08.44,0:09:10.28,Main,Liebe,0,0,0,,Pra ser sincero…
+Dialogue: 0,0:09:10.28,0:09:14.03,Main,Liebe,0,0,0,,sem a União Demoníaca, a gente\Nnão tem chance nenhuma.
+Dialogue: 0,0:09:14.72,0:09:18.27,Italics,Megicula,0,0,0,,Dentro do "Mundo em Declínio",\Nfez tudo aquilo…
+Dialogue: 0,0:09:18.82,0:09:20.92,Italics,Megicula,0,0,0,,Entendo… Então ele é
+Dialogue: 0,0:09:20.92,0:09:24.29,Italics,Megicula,0,0,0,,o humano da antimagia de quem\Na Vanica e os outros falavam…
+Dialogue: 0,0:09:24.96,0:09:26.84,Italics,Megicula,0,0,0,,Interessante,
+Dialogue: 0,0:09:26.84,0:09:30.68,Italics,Megicula,0,0,0,,mas é quem mais pode\Ncausar algo imprevisível.
+Dialogue: 0,0:09:31.35,0:09:33.72,Main,Megicula,0,0,0,,Acabou a brincadeira.
+Dialogue: 0,0:09:35.30,0:09:37.14,Main,Megicula,0,0,0,,Primeiro, vou matar a Vanica
+Dialogue: 0,0:09:37.70,0:09:40.42,Main,Megicula,0,0,0,,e a Loropechika, sem falta,
+Dialogue: 0,0:09:40.42,0:09:42.98,Main,Megicula,0,0,0,,e me manifestar por completo agora.
+Dialogue: 0,0:09:44.98,0:09:46.00,Main,Megicula,0,0,0,,O quê?
+Dialogue: 0,0:09:46.00,0:09:47.73,Italics,Megicula,0,0,0,,As palavras da maldição sumiram?
+Dialogue: 0,0:09:56.53,0:10:00.54,Main,Charlotte,0,0,0,,Eu… ainda estou de pé!
+Dialogue: 0,0:10:01.00,0:10:03.00,Main,Megicula,0,0,0,,Por que aquela mulher…
+Dialogue: 0,0:10:03.00,0:10:05.58,Main,Megicula,0,0,0,,Ela devia estar fora de combate…
+Dialogue: 0,0:10:05.58,0:10:08.84,Main,Megicula,0,0,0,,E a mana dela aumentou!
+Dialogue: 0,0:10:10.00,0:10:12.75,Main,Rill,0,0,0,,É uma magia diferente do normal,
+Dialogue: 0,0:10:12.75,0:10:14.76,Main,Rill,0,0,0,,por isso demorou pra ativar.
+Dialogue: 0,0:10:21.85,0:10:24.38,Italics,Rill,0,0,0,,Enquanto a "Valhalla do Crepúsculo"\Nestiver ativa,
+Dialogue: 0,0:10:24.38,0:10:26.85,Italics,Rill,0,0,0,,ela aumenta a mana\Ndos aliados na área…
+Dialogue: 0,0:10:26.85,0:10:31.03,Italics,Rill,0,0,0,,e impede que morram, não importa\No dano que sofram…
+Dialogue: 0,0:10:31.03,0:10:33.03,Main,Rill,0,0,0,,Por alguns minutos,\Nvocês são invencíveis!
+Dialogue: 0,0:10:33.59,0:10:36.30,Italics,Rill,0,0,0,,Quando acabar, o dano volta,
+Dialogue: 0,0:10:36.30,0:10:38.62,Italics,Rill,0,0,0,,mas agora isso não importa, né?
+Dialogue: 0,0:10:39.96,0:10:41.82,Main,Asta,0,0,0,,Que incrível, Rill!
+Dialogue: 0,0:10:41.82,0:10:44.24,Main,Asta,0,0,0,,E que bom que você tá vivo!
+Dialogue: 0,0:10:44.24,0:10:46.42,Italics,Rill,0,0,0,,Se o Asta-kun não tivesse vindo,
+Dialogue: 0,0:10:46.42,0:10:48.92,Italics,Rill,0,0,0,,não teria dado tempo\Ncom aquela explosão…
+Dialogue: 0,0:10:48.92,0:10:52.38,Main,Rill,0,0,0,,Graças a ele, talvez eu\Nchegue à minha obra-prima!
+Dialogue: 0,0:10:52.84,0:10:56.71,Italics,Megicula,0,0,0,,Um por um, eles não valem nada…
+Dialogue: 0,0:10:56.71,0:11:00.01,Italics,Megicula,0,0,0,,Mas, juntando forças,\Nchegaram até aqui…
+Dialogue: 0,0:11:00.01,0:11:03.33,Main,Megicula,0,0,0,,Vocês são mesmo interessantes!
+Dialogue: 0,0:11:08.60,0:11:10.36,Main,Megicula,0,0,0,,Aos Discípulos das Trevas que\Ndormem sob a torre,
+Dialogue: 0,0:11:10.36,0:11:14.53,Main,Megicula,0,0,0,,que morreram pelo meu\Ncapricho e pelo da Vanica,
+Dialogue: 0,0:11:14.53,0:11:16.79,Main,Megicula,0,0,0,,concedo o poder do demônio…
+Dialogue: 0,0:11:16.79,0:11:20.03,Main,Megicula,0,0,0,,e o poder da Acier Silva,\Ncuja alma eu tenho nas mãos,
+Dialogue: 0,0:11:20.03,0:11:22.67,Main,Megicula,0,0,0,,e da Vanica.
+Dialogue: 0,0:11:24.54,0:11:28.02,Main,Megicula,0,0,0,,Cadáveres vivos de sangue e aço.
+Dialogue: 0,0:11:32.00,0:11:34.68,Main,Megicula,0,0,0,,São cem.
+Dialogue: 0,0:11:53.40,0:11:56.24,Main,Asta,0,0,0,,Meu corpo ainda dói!
+Dialogue: 0,0:11:56.24,0:11:58.36,Main,Asta,0,0,0,,Vou ser pego no meio disso!
+Dialogue: 0,0:12:04.59,0:12:07.00,Main,Undine,0,0,0,,Obrigada por salvar a Loropechika…
+Dialogue: 0,0:12:07.00,0:12:09.88,Main,Asta,0,0,0,,De nada! Eu é que agradeço!
+Dialogue: 0,0:12:09.88,0:12:12.04,Main,Asta,0,0,0,,Desculpa! Agora eu
+Dialogue: 0,0:12:12.04,0:12:14.50,Main,Asta,0,0,0,,não sirvo pra mais nada!
+Dialogue: 0,0:12:14.50,0:12:15.89,Main,Asta,0,0,0,,O resto é com vocês!
+Dialogue: 0,0:12:15.89,0:12:19.46,Main,Noelle,0,0,0,,Você mal chegou!\NDo que tá falando?
+Dialogue: 0,0:12:19.46,0:12:21.80,Main,Asta,0,0,0,,Noelle! Você consegue!
+Dialogue: 0,0:12:22.47,0:12:24.20,Italics,Noelle,0,0,0,,Eu sei.
+Dialogue: 0,0:12:24.20,0:12:27.89,Italics,Noelle,0,0,0,,Você deve ter feito um monte\Nde loucura, como sempre.
+Dialogue: 0,0:12:28.51,0:12:29.98,Italics,Noelle,0,0,0,,Já basta.
+Dialogue: 0,0:12:30.69,0:12:33.00,Italics,Noelle,0,0,0,,Só de você ter vindo…
+Dialogue: 0,0:12:33.73,0:12:36.20,Italics,Noelle,0,0,0,,Só de pensar em você,
+Dialogue: 0,0:12:37.24,0:12:39.44,Italics,Noelle,0,0,0,,a força transborda!
+Dialogue: 0,0:12:40.69,0:12:43.62,Italics,Noelle,0,0,0,,Ah, é isso mesmo…
+Dialogue: 0,0:12:44.04,0:12:46.30,Italics,Noelle,0,0,0,,Eu fingi esse tempo todo,
+Dialogue: 0,0:12:46.30,0:12:48.99,Italics,Noelle,0,0,0,,e fui perceber logo agora…
+Dialogue: 0,0:12:50.14,0:12:53.75,Italics,Noelle,0,0,0,,Eu… gosto do Asta.
+Dialogue: 0,0:12:54.20,0:12:56.61,Italics,Noelle,0,0,0,,Mas aqui é um campo de batalha.
+Dialogue: 0,0:12:56.61,0:12:59.26,Italics,Noelle,0,0,0,,Agora vou derrotar essa aí!
+Dialogue: 0,0:12:59.65,0:13:01.51,Main,Noelle,0,0,0,,Vamos, Undine!
+Dialogue: 0,0:13:02.00,0:13:03.78,Main,Noelle,0,0,0,,Último Estágio Sagrado!
+Dialogue: 0,0:13:12.23,0:13:13.96,Main,Asta,0,0,0,,Que demais!
+Dialogue: 0,0:13:13.96,0:13:16.68,Main,Noelle,0,0,0,,Cuida da Loropechika, Asta!
+Dialogue: 0,0:13:16.68,0:13:18.44,Main,Asta,0,0,0,,Pode deixar!
+Dialogue: 0,0:13:21.79,0:13:23.77,Main,Undine,0,0,0,,Pra enfrentar esse exército,
+Dialogue: 0,0:13:23.77,0:13:26.08,Main,Undine,0,0,0,,não sobrou poder do estágio sagrado!
+Dialogue: 0,0:13:27.02,0:13:30.22,Main,Rill,0,0,0,,Magia de Imagens: Senhor de Valhalla!
+Dialogue: 0,0:13:31.75,0:13:33.96,Italics,Rill,0,0,0,,A Noelle-chan no estágio sagrado
+Dialogue: 0,0:13:33.96,0:13:37.71,Italics,Rill,0,0,0,,e a Charlotte-san, especialista contra\Nmaldições, são indispensáveis!
+Dialogue: 0,0:13:39.19,0:13:41.84,Main,Rill,0,0,0,,Então eu preciso dar\Num bom apoio a elas!
+Dialogue: 0,0:13:41.84,0:13:45.38,Italics,Charlotte,0,0,0,,Magia de Roseiral Verdadeira:\NLança de Vinha Carmesim.
+Dialogue: 0,0:13:47.93,0:13:52.02,Main,Megicula,0,0,0,,Vocês evoluem ainda mais na batalha…
+Dialogue: 0,0:13:54.54,0:13:55.77,Main,Megicula,0,0,0,,Como eu pensei,
+Dialogue: 0,0:14:03.42,0:14:07.02,Main,Megicula,0,0,0,,são as melhores criaturas\Npra se brincar.
+Dialogue: 0,0:14:12.29,0:14:13.42,Main,Rill,0,0,0,,Noelle-chan!
+Dialogue: 0,0:14:24.05,0:14:25.14,Main,Noelle,0,0,0,,Luck!
+Dialogue: 0,0:14:25.14,0:14:27.76,Main,Luck,0,0,0,,Eu abro caminho, me segue!
+Dialogue: 0,0:14:27.76,0:14:29.64,Main,Rill,0,0,0,,Isso, isso, pessoal!
+Dialogue: 0,0:14:29.64,0:14:33.13,Main,Rill,0,0,0,,A inspiração tá vindo cada vez mais!
+Dialogue: 0,0:14:33.13,0:14:35.52,Main,Rill,0,0,0,,Se tivesse mais um\Nguia do relâmpago,
+Dialogue: 0,0:14:35.52,0:14:37.80,Main,Rill,0,0,0,,seria ainda melhor!
+Dialogue: 0,0:14:47.03,0:14:50.29,Italics,Gaja,0,0,0,,Eu já estou praticamente morto…
+Dialogue: 0,0:14:53.02,0:14:54.62,Italics,Gaja,0,0,0,,Mesmo assim,
+Dialogue: 0,0:14:55.21,0:14:58.00,Italics,Gaja,0,0,0,,só de poder lutar de novo\Npela Loropechika-sama…
+Dialogue: 0,0:14:58.00,0:14:59.44,Italics,Gaja,0,0,0,,Sinto muita gratidão!
+Dialogue: 0,0:15:00.71,0:15:02.71,Main,Luck,0,0,0,,Gaja!
+Dialogue: 0,0:15:06.22,0:15:07.55,Main,Luck,0,0,0,,Vamos!
+Dialogue: 0,0:15:08.00,0:15:08.80,Main,Gaja,0,0,0,,Sim.
+Dialogue: 0,0:15:23.70,0:15:24.61,Italics,Noelle,0,0,0,,Agora!
+Dialogue: 0,0:15:32.04,0:15:34.71,Main,Megicula,0,0,0,,Mesmo eu não estando completa,
+Dialogue: 0,0:15:34.71,0:15:37.50,Main,Megicula,0,0,0,,você conseguiu lutar comigo até aqui.
+Dialogue: 0,0:15:38.08,0:15:40.84,Main,Megicula,0,0,0,,Fiquei mesmo surpresa.
+Dialogue: 0,0:15:41.50,0:15:43.33,Main,Megicula,0,0,0,,Mas, como eu pensei,
+Dialogue: 0,0:15:45.90,0:15:47.68,Main,Megicula,0,0,0,,acabou aqui.
+Dialogue: 0,0:15:58.35,0:16:00.44,Main,Noelle,0,0,0,,Como você ousou…
+Dialogue: 0,0:16:00.44,0:16:03.94,Main,Nozel,0,0,0,,aparecer de novo diante\Nda minha família?
+Dialogue: 0,0:16:07.01,0:16:11.55,Main,Nozel,0,0,0,,Quanto eu esperei por este momento…
+Dialogue: 0,0:16:17.64,0:16:20.49,Italics,Nozel,0,0,0,,Depois que minha mãe foi amaldiçoada,
+Dialogue: 0,0:16:20.49,0:16:22.84,Italics,Nozel,0,0,0,,ela foi ficando cada vez mais fraca.
+Dialogue: 0,0:16:23.26,0:16:25.85,Italics,Nozel,0,0,0,,O pessoal da família, sem saber de nada,
+Dialogue: 0,0:16:25.85,0:16:28.57,Italics,Nozel,0,0,0,,achou que era por causa do parto.
+Dialogue: 0,0:16:29.38,0:16:32.61,Italics,Nozel,0,0,0,,Quando minha mãe foi atingida\Npela magia de maldição,
+Dialogue: 0,0:16:32.61,0:16:35.32,Italics,Nozel,0,0,0,,eu também sofri um efeito colateral.
+Dialogue: 0,0:16:36.01,0:16:41.32,Italics,Nozel,0,0,0,,Se eu contasse que a Megicula matou\Na Acier Silva, eu morreria.
+Dialogue: 0,0:16:41.32,0:16:43.39,Italics,Nozel,0,0,0,,E, se contasse,
+Dialogue: 0,0:16:43.39,0:16:46.59,Italics,Nozel,0,0,0,,quem ouvisse também pegaria a maldição,
+Dialogue: 0,0:16:46.59,0:16:50.01,Italics,Nozel,0,0,0,,uma magia que se espalha\Ncomo uma epidemia…
+Dialogue: 0,0:16:50.80,0:16:52.92,Flashback,Nozel,0,0,0,,Não posso contar pra ninguém.
+Dialogue: 0,0:16:53.61,0:16:56.03,Flashback,Nozel,0,0,0,,Só me resta dar um jeito sozinho…
+Dialogue: 0,0:16:56.03,0:16:58.16,Flashback,Nozel,0,0,0,,Eu vou salvar a mamãe…
+Dialogue: 0,0:16:58.16,0:17:00.55,Flashback,Nozel,0,0,0,,Vou achar um jeito de\Nquebrar a maldição!
+Dialogue: 0,0:17:01.01,0:17:03.50,Flashback,Acier,0,0,0,,Nozel… já chega…
+Dialogue: 0,0:17:07.50,0:17:11.22,Flashback,Acier,0,0,0,,Desse jeito, a sua vida\Ntambém corre perigo…
+Dialogue: 0,0:17:11.71,0:17:12.99,Flashback,Nozel,0,0,0,,Mas…
+Dialogue: 0,0:17:13.71,0:17:16.83,Flashback,Acier,0,0,0,,Ninguém fica forte tão fácil…
+Dialogue: 0,0:17:19.53,0:17:21.40,Flashback,Acier,0,0,0,,Mas fique tranquilo…
+Dialogue: 0,0:17:22.68,0:17:24.02,Flashback,Acier,0,0,0,,Você…
+Dialogue: 0,0:17:24.38,0:17:25.93,Flashback,Acier,0,0,0,,Vocês…
+Dialogue: 0,0:17:25.93,0:17:28.77,Flashback,Acier,0,0,0,,um dia vão ser mais fortes que eu!
+Dialogue: 0,0:17:30.03,0:17:31.96,Flashback,Acier,0,0,0,,Por isso, vivam.
+Dialogue: 0,0:17:33.00,0:17:34.11,Flashback,Acier,0,0,0,,Nozel.
+Dialogue: 0,0:17:44.01,0:17:48.04,Italics,Nozel,0,0,0,,Um ano depois de ser amaldiçoada,\Na minha mãe morreu…
+Dialogue: 0,0:17:48.44,0:17:49.80,Italics,Nozel,0,0,0,,Durante esse ano,
+Dialogue: 0,0:17:49.80,0:17:54.22,Italics,Nozel,0,0,0,,tudo o que eu pude fazer foi assistir,\Nsem poder fazer nada…
+Dialogue: 0,0:17:58.66,0:17:59.91,Flashback-Italics,Nozel,0,0,0,,Mais forte…
+Dialogue: 0,0:18:04.03,0:18:06.25,Italics,Nozel,0,0,0,,Eu preciso ficar mais forte.
+Dialogue: 0,0:18:07.62,0:18:10.80,Italics,Nozel,0,0,0,,Pra um dia vingar a mamãe!
+Dialogue: 0,0:18:11.55,0:18:13.73,Italics,Nozel,0,0,0,,Pra proteger meus irmãos!
+Dialogue: 0,0:18:15.01,0:18:18.22,Italics,Nozel,0,0,0,,A Nebra e o Solid também\Nestão ficando mais fortes…
+Dialogue: 0,0:18:18.22,0:18:21.37,Italics,Nozel,0,0,0,,mas não teriam chance contra ela…
+Dialogue: 0,0:18:21.37,0:18:22.99,Italics,Nozel,0,0,0,,A Noelle…
+Dialogue: 0,0:18:22.99,0:18:26.88,Flashback,Noelle,0,0,0,,Nozel-oniisama… Pode me ensinar magia?
+Dialogue: 0,0:18:27.38,0:18:29.90,Italics,Nozel,0,0,0,,Se não parece que ela vai ficar forte…
+Dialogue: 0,0:18:29.90,0:18:32.88,Italics,Nozel,0,0,0,,é melhor trancar ela de uma vez…
+Dialogue: 0,0:18:33.68,0:18:37.72,Flashback,Nozel,0,0,0,,Alguém como você, que não presta,\Nnão é necessária em batalha.
+Dialogue: 0,0:18:38.32,0:18:41.00,Italics,Nozel,0,0,0,,Antes que ela sinta o que eu senti…
+Dialogue: 0,0:18:41.00,0:18:42.99,Italics,Nozel,0,0,0,,é melhor afastar ela das batalhas…
+Dialogue: 0,0:18:44.04,0:18:46.72,Flashback,Nozel,0,0,0,,Por que a mamãe teve que morrer
+Dialogue: 0,0:18:46.72,0:18:50.01,Flashback,Nozel,0,0,0,,pra dar à luz alguém como você?
+Dialogue: 0,0:18:51.15,0:18:54.03,Flashback,Nozel,0,0,0,,Você matou a mamãe…
+Dialogue: 0,0:18:55.66,0:18:56.99,Italics,Nozel,0,0,0,,Não!
+Dialogue: 0,0:18:57.52,0:18:59.52,Italics,Nozel,0,0,0,,Quem matou fui eu!
+Dialogue: 0,0:19:00.80,0:19:03.53,Italics,Nozel,0,0,0,,Um inútil que não\Nconseguiu fazer nada…
+Dialogue: 0,0:19:04.02,0:19:07.03,Italics,Nozel,0,0,0,,Um covarde que fugiu com medo\Nde perder de novo,
+Dialogue: 0,0:19:07.03,0:19:10.23,Italics,Nozel,0,0,0,,sem coragem pra proteger…
+Dialogue: 0,0:19:11.89,0:19:15.83,Italics,Nozel,0,0,0,,Eu, agora, não tenho o direito\Nde me envolver com você…
+Dialogue: 0,0:19:16.63,0:19:18.03,Italics,Nozel,0,0,0,,Forte…
+Dialogue: 0,0:19:20.01,0:19:21.56,Italics,Nozel,0,0,0,,Mais forte…
+Dialogue: 0,0:19:24.93,0:19:28.31,Italics,Nozel,0,0,0,,O meu objetivo, naturalmente,\Né ser o Rei Mago!
+Dialogue: 0,0:19:29.40,0:19:33.69,Italics,Nozel,0,0,0,,Eu… não posso morrer\Nnum lugar como este!
+Dialogue: 0,0:19:34.22,0:19:37.88,Italics,Nozel,0,0,0,,Consegui lutar até contra uma mana\Nmaligna parecida com a dela.
+Dialogue: 0,0:19:37.88,0:19:41.49,Italics,Nozel,0,0,0,,Então… para quando chegar a hora!
+Dialogue: 0,0:19:47.27,0:19:48.27,Italics,Nozel,0,0,0,,Agora,
+Dialogue: 0,0:19:49.00,0:19:52.00,Italics,Nozel,0,0,0,,agradeço a todos que estão aqui.
+Dialogue: 0,0:19:58.50,0:20:02.02,Main,Nozel,0,0,0,,Finalmente nos reencontramos!
+Dialogue: 0,0:20:03.00,0:20:06.00,Italics,Nozel,0,0,0,,Com tudo o que eu fui até hoje!
+Dialogue: 0,0:20:10.36,0:20:12.62,Main,Megicula,0,0,0,,Um reencontro emocionante…
+Dialogue: 0,0:20:12.62,0:20:14.36,Main,Megicula,0,0,0,,é o que chamam disso?
+Dialogue: 0,0:20:20.46,0:20:24.29,Main,Megicula,0,0,0,,Sinto muito, mas eu não tenho\Nesse sentimento.
+Dialogue: 0,0:20:26.29,0:20:29.04,Flashback,Acier,0,0,0,,Você tem a força do aço
+Dialogue: 0,0:20:29.04,0:20:31.46,Flashback,Acier,0,0,0,,e a suavidade da água.
+Dialogue: 0,0:20:31.46,0:20:33.42,Main,Nozel,0,0,0,,Não pense que vai conseguir bloquear!
+Dialogue: 0,0:20:35.20,0:20:36.88,Italics,Nozel,0,0,0,,O sangue é repelido,
+Dialogue: 0,0:20:37.44,0:20:39.36,Italics,Nozel,0,0,0,,e o aço penetra…
+Dialogue: 0,0:20:40.20,0:20:43.89,Italics,Nozel,0,0,0,,Mas, mesmo assim, não dá pra destruir\No coração desta demônia.
+Dialogue: 0,0:20:44.78,0:20:47.56,Italics,Nozel,0,0,0,,Eu estava mesmo errado.
+Dialogue: 0,0:20:47.56,0:20:51.06,Italics,Nozel,0,0,0,,Em vez de trancar e afastar…
+Dialogue: 0,0:20:52.81,0:20:56.04,Italics,Nozel,0,0,0,,a gente tinha que ficar\Nmais forte junto.
+Dialogue: 0,0:21:01.00,0:21:02.99,Main,Noelle,0,0,0,,Não desistimos!
+Dialogue: 0,0:21:02.99,0:21:06.62,Main,Noelle,0,0,0,,Nós vencemos, Megicula!
+Dialogue: 0,0:21:13.88,0:21:15.60,Italics,Megicula,0,0,0,,Mesmo tomando cuidado,
+Dialogue: 0,0:21:15.99,0:21:19.56,Italics,Megicula,0,0,0,,eu achava que nunca ia\Nperder para humanos…
+Dialogue: 0,0:21:22.24,0:21:24.35,Italics,Megicula,0,0,0,,Parece que eu me enganei…
+Dialogue: 0,0:21:24.85,0:21:28.98,Italics,Megicula,0,0,0,,sobre a verdadeira força… de vocês…
+Dialogue: 0,0:21:30.00,0:21:33.02,Italics,Megicula,0,0,0,,Foi por isso que me interessei…
+Dialogue: 0,0:21:33.02,0:21:37.22,Italics,Megicula,0,0,0,,pela força dos sentimentos humanos…
+Dialogue: 0,0:21:51.74,0:21:56.02,Main,Acier,0,0,0,,Vocês dois… ficaram mesmo fortes.
+Dialogue: 0,0:22:27.41,0:22:30.31,Ending,Música,0,0,0,,Carregando a marca do "não",
+Dialogue: 0,0:22:30.31,0:22:33.92,Ending,Música,0,0,0,,esta prova que não me larga
+Dialogue: 0,0:22:35.42,0:22:39.43,Ending,Música,0,0,0,,Tudo decidido pelo talento\Ncom que a gente nasce
+Dialogue: 0,0:22:39.43,0:22:42.43,Ending,Música,0,0,0,,Uma peça pregada por Deus
+Dialogue: 0,0:22:43.43,0:22:45.52,Ending,Música,0,0,0,,Nesta jornada longa e sem fim,
+Dialogue: 0,0:22:45.52,0:22:47.58,Ending,Música,0,0,0,,quem é indispensável é você
+Dialogue: 0,0:22:47.58,0:22:51.38,Ending,Música,0,0,0,,Em vez de só esperar o "acaso",\Nfaço milagres com esta "obstinação"
+Dialogue: 0,0:22:51.38,0:22:54.99,Ending,Música,0,0,0,,Do outro lado da névoa, o nascer do sol
+Dialogue: 0,0:22:54.99,0:22:58.44,Ending,Música,0,0,0,,Então vamos correr pela noite\Njuntos, você e eu
+Dialogue: 0,0:22:58.44,0:23:02.19,Ending,Música,0,0,0,,Por que a gente não vai
+Dialogue: 0,0:23:02.19,0:23:03.89,Ending,Música,0,0,0,,Rumo à Estrada de Tijolos Amarelos
+Dialogue: 0,0:23:03.89,0:23:06.24,Ending,Música,0,0,0,,caminhando lado a lado?
+Dialogue: 0,0:23:06.24,0:23:10.28,Ending,Música,0,0,0,,Então, por que a gente não vai
+Dialogue: 0,0:23:10.28,0:23:12.13,Ending,Música,0,0,0,,Rumo à Estrada de Tijolos Amarelos?
+Dialogue: 0,0:23:12.13,0:23:16.15,Ending,Música,0,0,0,,Você e eu\NTodo dia a gente vê algo novo
+Dialogue: 0,0:23:16.15,0:23:19.00,Ending,Música,0,0,0,,Que eu não ia mais voltar atrás
+Dialogue: 0,0:23:19.89,0:23:22.42,Ending,Música,0,0,0,,foi o que eu jurei pra você
+Dialogue: 0,0:23:23.97,0:23:27.24,Ending,Música,0,0,0,,Mas, quando olho pra trás, as pegadas
+Dialogue: 0,0:23:27.24,0:23:30.91,Ending,Música,0,0,0,,continuam lá, sem se apagar
+Dialogue: 0,0:23:30.91,0:23:34.89,Ending,Música,0,0,0,,Por que a gente não vai
+Dialogue: 0,0:23:34.89,0:23:36.44,Ending,Música,0,0,0,,Rumo à Estrada de Tijolos Amarelos?
+Dialogue: 0,0:23:36.44,0:23:40.76,Ending,Música,0,0,0,,Você e eu\NTodo dia a gente vê algo novo
+Dialogue: 0,0:23:46.05,0:23:49.33,Ending,Música,0,0,0,,Todo dia a gente vê\Nalgo novo
+
