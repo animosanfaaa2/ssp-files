@@ -1,0 +1,32 @@
+[Script Info]
+Title:
+Original Script:
+Script Type: 4.00+
+Collisions: Normal
+PlayResY: 360
+PlayResX: 640
+PlayDepth: 0
+Timer: 100.0000
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+LayoutResX: 640
+LayoutResY: 360
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Font1,Trebuchet MS,24,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,22,1
+Style: Font2,Trebuchet MS,24,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,22,1
+Style: Font1_OutlineShadow,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Layer1_Font1,Trebuchet MS,24,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,64,64,36,1
+Style: Layer1_Font2,Trebuchet MS,24,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,64,64,36,1
+Style: Layer1_Font1_Outline,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:03:20.99,0:03:23.91,Layer1_Font1,,10,10,22,,{\an8}SNAP
+Dialogue: 1,0:08:28.30,0:08:31.26,Layer1_Font1,,10,10,22,,{\an8}LIVESTOCK GRAZING ZONE 3
+Dialogue: 0,0:09:17.81,0:09:22.27,Font1_OutlineShadow,,10,10,22,,{\an8}ZOO
+Dialogue: 1,0:09:58.56,0:10:01.52,Layer1_Font1,,10,10,22,,{\an8}GORILLA FOREST
+Dialogue: 0,0:12:04.06,0:12:06.52,Font1_OutlineShadow,,10,10,22,,{\an8}<- MEAL DISTRIBUTION\NTODAY'S MENU: HAMBURGER
+
