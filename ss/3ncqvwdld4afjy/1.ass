@@ -1,0 +1,420 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: DiamondAce_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: DiamondAce_Main - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: DiamondAce_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: DiamondAce_Flashback,Trebuchet MS,24,&H00E6E6E6,&H000000FF,&H00300000,&H00300000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: DiamondAce_Flashback Italics,Trebuchet MS,24,&H00E6E6E6,&H000000FF,&H00300000,&H00300000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Innings,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,9,80,80,25,1
+Style: Characters,Times New Roman,16,&H00FFFFFF,&H000000FF,&H001F1D20,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,1,10,10,100,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.27,0:00:04.94,Innings,sign,0,0,0,,{\fad(450,0)\pos(560,32)}Top of the Sixth
+Dialogue: 0,0:00:04.94,0:00:06.91,DiamondAce_Flashback Italics,Kuramochi,0,0,0,,The shortstop's over at second.
+Dialogue: 0,0:00:07.26,0:00:09.02,DiamondAce_Flashback Italics,Miyuki,0,0,0,,The infield's shifted in halfway.
+Dialogue: 0,0:00:09.30,0:00:10.85,DiamondAce_Flashback Italics,Miyuki,0,0,0,,The first base line is shut down.
+Dialogue: 0,0:00:11.07,0:00:14.58,DiamondAce_Flashback Italics,Miyuki,0,0,0,,I'll ignore the low balls \Nuntil I'm at two strikes.
+Dialogue: 0,0:00:15.09,0:00:17.41,DiamondAce_Flashback,Commentator,0,0,0,,One out, runners on the corners!
+Dialogue: 0,0:00:17.79,0:00:19.80,DiamondAce_Flashback,Commentator,0,0,0,,The crucial first pitch!
+Dialogue: 0,0:00:23.15,0:00:25.46,DiamondAce_Flashback,Commentator,0,0,0,,It's low and inside for a ball!
+Dialogue: 0,0:00:25.46,0:00:29.92,DiamondAce_Flashback,Kawabata,0,0,0,,Right after he hits Shirasu, \Nhe throws a cutter inside!
+Dialogue: 0,0:00:29.92,0:00:32.82,DiamondAce_Flashback Italics,Narumiya,0,0,0,,Looks like that shocked you, huh?
+Dialogue: 0,0:00:33.25,0:00:35.46,DiamondAce_Flashback Italics,Miyuki,0,0,0,,I definitely didn't expect that.
+Dialogue: 0,0:00:36.09,0:00:37.56,DiamondAce_Flashback Italics,Narumiya,0,0,0,,In that case…
+Dialogue: 0,0:00:39.34,0:00:41.68,DiamondAce_Flashback,Commentator,0,0,0,,Second pitch, a fastball to the outside!
+Dialogue: 0,0:00:41.68,0:00:44.21,DiamondAce_Flashback Italics,Narumiya,0,0,0,,Yeah, he's on the line.
+Dialogue: 0,0:00:48.27,0:00:52.43,DiamondAce_Flashback Italics,Narumiya,0,0,0,,From the moment we first met, \Nyou've interested me.
+Dialogue: 0,0:00:58.69,0:01:04.00,DiamondAce_Flashback Italics,Narumiya,0,0,0,,You were the one batter \Nwho wouldn't swing wildly
+Dialogue: 0,0:01:04.00,0:01:05.95,DiamondAce_Flashback Italics,Narumiya,0,0,0,,from the first pitch.
+Dialogue: 0,0:01:06.25,0:01:09.37,DiamondAce_Flashback Italics,Narumiya,0,0,0,,You didn't swing at this one \Nduring your last at-bat…
+Dialogue: 0,0:01:09.37,0:01:10.93,DiamondAce_Flashback Italics,Narumiya,0,0,0,,So you can't hit it, right?
+Dialogue: 0,0:01:15.48,0:01:16.64,DiamondAce_Flashback,Narumiya,0,0,0,,Hey!
+Dialogue: 0,0:01:16.92,0:01:18.87,DiamondAce_Flashback,Narumiya,0,0,0,,That first pitch on your third at-bat…
+Dialogue: 0,0:01:18.87,0:01:20.50,DiamondAce_Flashback,Narumiya,0,0,0,,Were you hoping for that one?
+Dialogue: 0,0:01:20.50,0:01:23.85,DiamondAce_Flashback,Narumiya,0,0,0,,I haven't seen someone hit a pitch \Nback that cleanly in forever.
+Dialogue: 0,0:01:23.85,0:01:28.44,DiamondAce_Flashback,Miyuki,0,0,0,,I'm gonna play you again someday. \NI'm not gonna tell you your weaknesses.
+Dialogue: 0,0:01:28.44,0:01:30.82,DiamondAce_Flashback,Narumiya,0,0,0,,Weaknesses?! What the heck?
+Dialogue: 0,0:01:31.03,0:01:34.94,DiamondAce_Flashback,Narumiya,0,0,0,,This isn't over! Come back!
+Dialogue: 0,0:01:35.26,0:01:38.99,DiamondAce_Flashback Italics,Narumiya,0,0,0,,That was the day I first met Kazuya.
+Dialogue: 0,0:03:09.66,0:03:13.79,Sign_Basic,sign,0,0,0,,{\pos(472,295)\fnTimes New Roman\b1}The Team I Want to Be On
+Dialogue: 0,0:03:12.59,0:03:16.29,DiamondAce_Main - Top,Commentator,0,0,0,,Shirasu sees the loose ball \Nand makes a run!
+Dialogue: 0,0:03:16.58,0:03:19.71,DiamondAce_Main,Commentator,0,0,0,,He doesn't bother throwing! \NThe runner moves to second!
+Dialogue: 0,0:03:19.71,0:03:21.21,DiamondAce_Main,Kawakami,0,0,0,,Yeah!
+Dialogue: 0,0:03:21.21,0:03:22.71,DiamondAce_Main,Yamaguchi,0,0,0,,Shirasu, nice one!
+Dialogue: 0,0:03:22.71,0:03:24.04,DiamondAce_Italics,Tadano,0,0,0,,I'm sorry.
+Dialogue: 0,0:03:24.23,0:03:28.51,DiamondAce_Italics,Narumiya,0,0,0,,It's fine. I just have to not \Nlet him make contact, right?
+Dialogue: 0,0:03:28.86,0:03:31.10,DiamondAce_Main,Commentator,0,0,0,,The infield comes further in!
+Dialogue: 0,0:03:41.66,0:03:43.32,DiamondAce_Main,Kuramochi,0,0,0,,Give it a wallop!
+Dialogue: 0,0:03:43.60,0:03:45.39,DiamondAce_Main,Shirasu,0,0,0,,That's your job!
+Dialogue: 0,0:03:45.82,0:03:49.28,DiamondAce_Main,Sawamura,0,0,0,,The fiery face-off! \NIt's Cap's dramatic climax!
+Dialogue: 0,0:03:49.54,0:03:51.11,DiamondAce_Italics,Miyuki,0,0,0,,The count is 2-1.
+Dialogue: 0,0:03:51.45,0:03:53.06,DiamondAce_Italics,Miyuki,0,0,0,,Mei won't be backing down.
+Dialogue: 0,0:03:56.31,0:03:58.58,DiamondAce_Flashback,Miyuki,0,0,0,,I want to go to Seido.
+Dialogue: 0,0:03:58.58,0:04:02.21,DiamondAce_Flashback,Miyuki,0,0,0,,I want to play baseball for a \Ngood team with amazing people.
+Dialogue: 0,0:04:02.21,0:04:03.71,DiamondAce_Flashback,Miyuki,0,0,0,,And then, one day…
+Dialogue: 0,0:04:03.98,0:04:05.48,DiamondAce_Flashback,Miyuki's Dad,0,0,0,,Not Inashiro Industrial?
+Dialogue: 0,0:04:05.48,0:04:06.79,DiamondAce_Flashback,Miyuki,0,0,0,,Forget them!
+Dialogue: 0,0:04:06.79,0:04:09.68,DiamondAce_Flashback,Miyuki,0,0,0,,Us kids have our reasons too, okay?
+Dialogue: 0,0:04:30.29,0:04:33.57,DiamondAce_Italics,Narumiya,0,0,0,,We both carry a heavier burden now…
+Dialogue: 0,0:04:34.21,0:04:38.80,DiamondAce_Italics,Narumiya,0,0,0,,Let's make it clear… which of us \Nis more ready to shoulder it.
+Dialogue: 0,0:04:38.80,0:04:41.16,DiamondAce_Italics,Miyuki,0,0,0,,You'll want to finish this \Nwith a changeup…
+Dialogue: 0,0:04:42.04,0:04:43.96,DiamondAce_Italics,Miyuki,0,0,0,,Isn't that right, Mei?!
+Dialogue: 0,0:04:47.41,0:04:49.93,DiamondAce_Italics,Tadano,0,0,0,,Even if you throw it in the dirt,\N I'll block it, I swear.
+Dialogue: 0,0:04:50.71,0:04:52.63,DiamondAce_Italics,Tadano,0,0,0,,Let's go for the black.
+Dialogue: 0,0:04:56.43,0:04:59.39,DiamondAce_Italics,Miyuki,0,0,0,,Don't turn too soon. \NWait for the ball to come to you.
+Dialogue: 0,0:04:59.67,0:05:03.23,DiamondAce_Italics,Miyuki,0,0,0,,Hit the ball the way \Nyou've always pictured it.
+Dialogue: 0,0:05:09.16,0:05:11.88,DiamondAce_Main,Commentator,0,0,0,,The low changeup is hit high and far!
+Dialogue: 0,0:05:13.75,0:05:14.99,DiamondAce_Main,Tadano,0,0,0,,Right field!
+Dialogue: 0,0:05:14.99,0:05:15.83,DiamondAce_Italics,Tadano,0,0,0,,He caught that low ball?!
+Dialogue: 0,0:05:16.66,0:05:18.30,DiamondAce_Main,Saotome,0,0,0,,If we hadn't played so deep…
+Dialogue: 0,0:05:18.30,0:05:20.50,DiamondAce_Italics,Ezaki,0,0,0,,It caught the end of the bat! \NIt's not that strong!
+Dialogue: 0,0:05:21.45,0:05:23.10,DiamondAce_Main,Ono,0,0,0,,Kuramochi, tag up!
+Dialogue: 0,0:05:23.10,0:05:24.43,DiamondAce_Main,Ono,0,0,0,,You can make it home after it comes down!
+Dialogue: 0,0:05:24.43,0:05:25.81,DiamondAce_Main,Commentator,0,0,0,,Will they make it before it drops?!
+Dialogue: 0,0:05:25.81,0:05:27.39,DiamondAce_Main,Commentator,0,0,0,,Second baseman and \Nright fielder chase it!
+Dialogue: 0,0:05:35.59,0:05:37.94,DiamondAce_Main,Commentator,0,0,0,,The runner at third comes home!
+Dialogue: 0,0:05:37.94,0:05:41.11,DiamondAce_Main,Commentator,0,0,0,,It's all tied up! That's what you want \Nfrom the cleanup man!
+Dialogue: 0,0:05:41.11,0:05:44.59,DiamondAce_Main,Commentator,0,0,0,,He steals a golden RBI from Narumiya,
+Dialogue: 0,0:05:44.59,0:05:47.42,DiamondAce_Main,Commentator,0,0,0,,who hasn't given up a run all tournament!
+Dialogue: 0,0:05:48.48,0:05:50.44,DiamondAce_Main,Sawamura,0,0,0,,Yeah! Hell yeah!
+Dialogue: 0,0:05:58.99,0:06:02.01,DiamondAce_Flashback,Miyuki,0,0,0,,It's partly that they were \Nthe first people to scout me,
+Dialogue: 0,0:06:02.01,0:06:04.23,DiamondAce_Flashback,Miyuki,0,0,0,,but I looked into their facilities, \Nand they're really good,
+Dialogue: 0,0:06:04.23,0:06:06.05,DiamondAce_Flashback,Miyuki,0,0,0,,and the athletic fields are big.
+Dialogue: 0,0:06:06.05,0:06:09.23,DiamondAce_Flashback,Miyuki,0,0,0,,I put a lot of thought \Ninto picking Seido.
+Dialogue: 0,0:06:10.01,0:06:13.87,DiamondAce_Flashback,Miyuki,0,0,0,,Though it's a dorm system, \Nso I'll be leaving you alone, Dad…
+Dialogue: 0,0:06:17.12,0:06:21.57,DiamondAce_Flashback,Miyuki,0,0,0,,I really, really wanna go pro.
+Dialogue: 0,0:06:21.87,0:06:24.45,DiamondAce_Flashback,Miyuki,0,0,0,,I want to make a living\Nas a baseball player
+Dialogue: 0,0:06:24.45,0:06:28.34,DiamondAce_Flashback,Miyuki,0,0,0,,and pay back my dad for \Nthe freedom he's given me.
+Dialogue: 0,0:06:29.71,0:06:33.45,DiamondAce_Main,Sawamura,0,0,0,,Cap strikes at last! \NWhat we've all been waiting for!
+Dialogue: 0,0:06:33.81,0:06:35.02,DiamondAce_Main,Sawamura,0,0,0,,Okumura!
+Dialogue: 0,0:06:36.81,0:06:39.16,DiamondAce_Main,Sawamura,0,0,0,,Okay, it's all tied up!
+Dialogue: 0,0:06:39.16,0:06:41.13,DiamondAce_Main,Sawamura,0,0,0,,The match really starts now!
+Dialogue: 0,0:06:43.21,0:06:45.27,DiamondAce_Main,Sawamura,0,0,0,,Zono-san, get it done!
+Dialogue: 0,0:06:48.01,0:06:49.34,DiamondAce_Main,Narumiya,0,0,0,,Itsuki!
+Dialogue: 0,0:06:49.90,0:06:52.77,DiamondAce_Main,Narumiya,0,0,0,,Can't do anything if he hits\N a ball nearly in the dirt!
+Dialogue: 0,0:06:52.77,0:06:53.92,DiamondAce_Main,Narumiya,0,0,0,,Shake it off!
+Dialogue: 0,0:06:54.37,0:06:55.68,DiamondAce_Italics,Tadano,0,0,0,,Mei-san…
+Dialogue: 0,0:06:56.31,0:06:58.44,DiamondAce_Main,Narumiya,0,0,0,,I'd go so far as to say \Nit's not even my fault!
+Dialogue: 0,0:06:58.44,0:07:00.31,DiamondAce_Main,Tadano,0,0,0,,Right! That's fine!
+Dialogue: 0,0:07:00.31,0:07:01.11,DiamondAce_Main,Tadano,0,0,0,,Let's shake it off!
+Dialogue: 0,0:07:01.11,0:07:03.06,DiamondAce_Main,Ezaki,0,0,0,,Mei-san, one out!
+Dialogue: 0,0:07:03.06,0:07:04.78,DiamondAce_Main,Fukui,0,0,0,,Take 'em one at a time!
+Dialogue: 0,0:07:04.78,0:07:06.32,DiamondAce_Main,Yamaoka,0,0,0,,One out!
+Dialogue: 0,0:07:06.32,0:07:07.74,DiamondAce_Italics,Miyuki,0,0,0,,I won't let this be the end.
+Dialogue: 0,0:07:10.40,0:07:14.48,DiamondAce_Italics,Tadano,0,0,0,,His ultimate weapon, the changeup, \Ngot hit into the outfield.
+Dialogue: 0,0:07:14.81,0:07:16.66,DiamondAce_Italics,Tadano,0,0,0,,He has to be shaken by that.
+Dialogue: 0,0:07:17.31,0:07:19.75,DiamondAce_Main,Commentator,0,0,0,,We're back to one out with \Nrunners on the corners!
+Dialogue: 0,0:07:19.75,0:07:22.05,DiamondAce_Main,Commentator,0,0,0,,Can Seido take the lead?!
+Dialogue: 0,0:07:23.74,0:07:25.36,DiamondAce_Main,Higasa,0,0,0,,Zono! Keep it going!
+Dialogue: 0,0:07:25.36,0:07:26.96,DiamondAce_Main,Nakata,0,0,0,,It's time for you to shine!
+Dialogue: 0,0:07:27.27,0:07:30.92,DiamondAce_Main,Commentator,0,0,0,,In the batter's box is Seido's \N5-hole, Kenta Maezono!
+Dialogue: 0,0:07:31.25,0:07:33.05,DiamondAce_Italics,Miyuki,0,0,0,,Don't give him a moment to breathe.
+Dialogue: 0,0:07:33.05,0:07:34.49,DiamondAce_Italics,Shirasu,0,0,0,,Deal the finishing blow.
+Dialogue: 0,0:07:34.80,0:07:38.01,DiamondAce_Italics,Maezono,0,0,0,,Whether I get that next run or not…
+Dialogue: 0,0:07:38.01,0:07:40.52,DiamondAce_Italics,Maezono,0,0,0,,will make a big difference in how \Nthe rest of the game goes…
+Dialogue: 0,0:07:40.89,0:07:43.44,DiamondAce_Italics,Tadano,0,0,0,,He'll swing at the first pitch.
+Dialogue: 0,0:07:43.78,0:07:46.13,DiamondAce_Italics,Tadano,0,0,0,,Bait him into a double-play \Nwith a cutter.
+Dialogue: 0,0:07:46.92,0:07:48.15,DiamondAce_Italics,Narumiya,0,0,0,,Yeah.
+Dialogue: 0,0:07:48.63,0:07:52.06,DiamondAce_Italics,Narumiya,0,0,0,,I can kick myself about \Nthis once I take them out.
+Dialogue: 0,0:07:52.07,0:07:55.53,Sign_Basic,sign,0,0,0,,{\an8\fnTimes New Roman\b1\c&H000000&\3c&HFFFFFF&\shad0\be6}A big fish in a small pond
+Dialogue: 0,0:07:52.79,0:07:54.79,DiamondAce_Italics,Maezono,0,0,0,,A big fish in a small pond.
+Dialogue: 0,0:07:55.85,0:07:59.69,DiamondAce_Italics,Maezono,0,0,0,,When I got here, \NI realized that's all I'd ever been.
+Dialogue: 0,0:08:00.16,0:08:03.55,DiamondAce_Italics,Maezono,0,0,0,,I was an ignorant, dumbass kid.
+Dialogue: 0,0:08:03.82,0:08:05.93,DiamondAce_Flashback,Kid Maezono,0,0,0,,What, Tokyo?
+Dialogue: 0,0:08:06.30,0:08:09.50,DiamondAce_Flashback,Coach,0,0,0,,I know people at Seido. \NI can introduce you to them.
+Dialogue: 0,0:08:09.79,0:08:12.46,DiamondAce_Flashback,Kid Maezono,0,0,0,,Tokyo… That's really far away!
+Dialogue: 0,0:08:12.71,0:08:17.00,DiamondAce_Italics,Maezono,0,0,0,,Nobody came to me from \Nthe big Kansai schools.
+Dialogue: 0,0:08:17.00,0:08:21.69,DiamondAce_Italics,Maezono,0,0,0,,But I was convinced I could \Nbe a big name in Tokyo.
+Dialogue: 0,0:08:21.88,0:08:23.54,DiamondAce_Flashback,Higasa,0,0,0,,Wow, Osaka?
+Dialogue: 0,0:08:23.54,0:08:24.52,DiamondAce_Flashback,Maezono,0,0,0,,Yeah!
+Dialogue: 0,0:08:24.52,0:08:26.15,DiamondAce_Flashback,Yamaguchi,0,0,0,,You seem excited.
+Dialogue: 0,0:08:26.15,0:08:27.65,DiamondAce_Flashback,Maezono,0,0,0,,You bet I am!
+Dialogue: 0,0:08:27.65,0:08:31.48,DiamondAce_Flashback,Maezono,0,0,0,,I'm gonna show my stuff and \Nbecome a regular from year one!
+Dialogue: 0,0:08:33.04,0:08:34.86,DiamondAce_Flashback Italics,Miyuki,0,0,0,,Really working that Kansai accent.
+Dialogue: 0,0:08:34.86,0:08:36.58,DiamondAce_Flashback Italics,Kuramochi,0,0,0,,What an obnoxious ass.
+Dialogue: 0,0:08:36.58,0:08:38.31,DiamondAce_Italics,Maezono,0,0,0,,I was such a moron.
+Dialogue: 0,0:08:41.28,0:08:43.02,DiamondAce_Main,Yoshizawa,0,0,0,,A safety squeeze?!
+Dialogue: 0,0:08:46.50,0:08:48.41,DiamondAce_Main,Commentator,0,0,0,,It dribbles down the third-base line!
+Dialogue: 0,0:08:50.34,0:08:51.32,DiamondAce_Main,Tadano,0,0,0,,Mei-san!
+Dialogue: 0,0:08:51.32,0:08:52.30,DiamondAce_Italics,Tadano,0,0,0,,His form…
+Dialogue: 0,0:09:05.16,0:09:06.57,DiamondAce_Main,Commentator,0,0,0,,He's safe!
+Dialogue: 0,0:09:06.57,0:09:09.19,DiamondAce_Main,Commentator,0,0,0,,Seido High School takes the lead!
+Dialogue: 0,0:09:10.77,0:09:11.85,DiamondAce_Main,Higasa/Yamaguchi/Nakata,0,0,0,,Yes!
+Dialogue: 0,0:09:11.85,0:09:12.60,DiamondAce_Main,Miyuki,0,0,0,,Yes!
+Dialogue: 0,0:09:12.60,0:09:13.57,DiamondAce_Main,Shirasu/Kuramochi/Haruichi,0,0,0,,Yeah!
+Dialogue: 0,0:09:13.23,0:09:15.70,Sign_Basic,sign,0,0,0,,{\an8\b1\c&H473745&\3c&HFEF2F9&\be4\shad0\fnArial\pos(258,16)}Hell freakin' yeah
+Dialogue: 0,0:09:13.57,0:09:15.70,DiamondAce_Main,Maezono,0,0,0,,Hell freakin' yeah!
+Dialogue: 0,0:09:15.70,0:09:21.91,Sign_Basic,sign,0,0,0,,{\an8\b1\c&H473745&\3c&HFEF2F9&\be4\shad0\fnArial\pos(526,231.34)}Hell freakin' yeah
+Dialogue: 1,0:09:15.70,0:09:19.76,DiamondAce_Main - Top,Maezono,0,0,0,,Take that, you stupid assholes!
+Dialogue: 0,0:09:16.01,0:09:18.27,DiamondAce_Main,Commentator,0,0,0,,Right after 4-hole Miyuki's RBI,
+Dialogue: 0,0:09:18.27,0:09:21.91,DiamondAce_Main,Commentator,0,0,0,,Maezono catches the defense napping\N with a safety squeeze!
+Dialogue: 0,0:09:22.14,0:09:26.87,DiamondAce_Main,Commentator,0,0,0,,He takes a second run from the \Nindomitable ace, Narumiya!
+Dialogue: 0,0:09:27.18,0:09:29.38,DiamondAce_Main,Fan A,0,0,0,,Great thinking, Zono!
+Dialogue: 0,0:09:29.38,0:09:31.50,DiamondAce_Main,Fan B,0,0,0,,When'd you learn that sneaky trick?!
+Dialogue: 0,0:09:31.50,0:09:33.35,DiamondAce_Main,Fan C,0,0,0,,You been practicing that one?!
+Dialogue: 0,0:09:33.35,0:09:35.04,DiamondAce_Main,Sawamura,0,0,0,,Yeah!
+Dialogue: 0,0:09:35.35,0:09:37.51,DiamondAce_Main,Aso,0,0,0,,We scored?
+Dialogue: 0,0:09:37.51,0:09:38.85,DiamondAce_Main,Carlos,0,0,0,,They got us bad.
+Dialogue: 0,0:09:38.22,0:09:40.37,DiamondAce_Main - Top,Fan E,0,0,0,,Shirasu-senpai, nice run!
+Dialogue: 0,0:09:40.37,0:09:41.32,DiamondAce_Main,Fan F,0,0,0,,That rocked!
+Dialogue: 0,0:09:41.32,0:09:42.48,DiamondAce_Main,Fan G,0,0,0,,I can't stop shaking!
+Dialogue: 0,0:09:42.48,0:09:43.58,DiamondAce_Main,Kunitomo,0,0,0,,Tadano.
+Dialogue: 0,0:09:44.44,0:09:46.36,DiamondAce_Main,Kunitomo,0,0,0,,Fukui, mound meeting.
+Dialogue: 0,0:09:46.36,0:09:47.61,DiamondAce_Main,Kunitomo,0,0,0,,Go calm him down.
+Dialogue: 0,0:09:47.61,0:09:48.40,DiamondAce_Main,Fukui,0,0,0,,Right!
+Dialogue: 0,0:09:49.12,0:09:51.83,DiamondAce_Main,Commentator,0,0,0,,Inashiro's fielders take a time out.
+Dialogue: 0,0:09:51.83,0:09:54.37,DiamondAce_Main,Commentator,0,0,0,,The third-year captain, Fukui-kun, \Nbrings the message from the dugout.
+Dialogue: 0,0:09:54.64,0:09:56.74,DiamondAce_Main,Owada,0,0,0,,Two runs in the blink of an eye.
+Dialogue: 0,0:09:56.74,0:09:58.96,DiamondAce_Main,Owada,0,0,0,,And it's still only one out!
+Dialogue: 0,0:09:58.96,0:10:01.53,DiamondAce_Main,Owada,0,0,0,,I bet Seido's hoping to pile them on.
+Dialogue: 0,0:10:01.53,0:10:02.76,DiamondAce_Main,Mine,0,0,0,,Yes.
+Dialogue: 0,0:10:02.76,0:10:06.32,DiamondAce_Main,Mine,0,0,0,,This is the first time in the tournament \Nthat Inashiro's given up the lead.
+Dialogue: 0,0:10:06.91,0:10:10.76,DiamondAce_Main,Mine,0,0,0,,They've been dominating \Nsince the spring, after all.
+Dialogue: 0,0:10:10.76,0:10:13.80,DiamondAce_Main,Mine,0,0,0,,They haven't had to experience \Nthis feeling in a while.
+Dialogue: 0,0:10:13.80,0:10:15.75,DiamondAce_Main,Sawamura,0,0,0,,Hey, Furuya, you got it in you?!
+Dialogue: 0,0:10:15.75,0:10:19.22,DiamondAce_Main,Sawamura,0,0,0,,Treat yo'self with a big ol' hit!
+Dialogue: 0,0:10:19.22,0:10:21.68,DiamondAce_Main,Fukui,0,0,0,,Let's review the situation we're in.
+Dialogue: 0,0:10:21.68,0:10:23.92,DiamondAce_Main,Fukui,0,0,0,,It's the top of the sixth with one out.
+Dialogue: 0,0:10:23.92,0:10:25.69,DiamondAce_Main,Fukui,0,0,0,,Runners on first and second.
+Dialogue: 0,0:10:26.09,0:10:28.49,DiamondAce_Main,Fukui,0,0,0,,The batter coming up is Furuya, \Nwho's got plenty of pop.
+Dialogue: 0,0:10:28.78,0:10:32.35,DiamondAce_Main,Fukui,0,0,0,,Given how he's been pitching, too, \Nhe's definitely a dangerous batter.
+Dialogue: 0,0:10:32.35,0:10:35.07,DiamondAce_Main,Narumiya,0,0,0,,I know, okay? \NI'm not letting my guard down.
+Dialogue: 0,0:10:35.07,0:10:37.93,DiamondAce_Main,Fukui,0,0,0,,Yeah, just trying to give you a breather.
+Dialogue: 0,0:10:38.27,0:10:40.65,DiamondAce_Main,Fukui,0,0,0,,I know you guys can totally \Nget through this.
+Dialogue: 0,0:10:42.37,0:10:44.04,DiamondAce_Main,Fukui,0,0,0,,Let's go for one out.
+Dialogue: 0,0:10:44.04,0:10:46.38,DiamondAce_Main,Fukui,0,0,0,,Put everything you can \Ninto getting Furuya out.
+Dialogue: 0,0:10:46.84,0:10:49.76,DiamondAce_Main,Fukui,0,0,0,,Don't worry. I can see it.
+Dialogue: 0,0:10:49.76,0:10:52.70,DiamondAce_Main,Fukui,0,0,0,,I can see you all running back\Nto the bench, smiling,
+Dialogue: 0,0:10:52.70,0:10:54.09,DiamondAce_Main,Fukui,0,0,0,,after getting us through this.
+Dialogue: 0,0:10:55.71,0:10:57.38,DiamondAce_Main,Narumiya,0,0,0,,A Fukui prognostication?
+Dialogue: 0,0:10:57.38,0:10:58.97,DiamondAce_Main,Fukui,0,0,0,,Yeah, sorry.
+Dialogue: 0,0:10:58.97,0:11:01.25,DiamondAce_Main,Fukui,0,0,0,,That's my inner fanboy rearing its head.
+Dialogue: 0,0:11:01.25,0:11:02.76,DiamondAce_Main,Narumiya,0,0,0,,What the heck?
+Dialogue: 0,0:11:02.76,0:11:05.82,DiamondAce_Main,Fukui,0,0,0,,Now, let's fight! Fight our way!
+Dialogue: 0,0:11:05.82,0:11:07.00,DiamondAce_Main,All,0,0,0,,Yeah!
+Dialogue: 0,0:11:13.60,0:11:17.92,DiamondAce_Italics,Narumiya,0,0,0,,Inner fanboy, huh? \NThat really is Fuku-chan…
+Dialogue: 0,0:11:18.73,0:11:21.57,DiamondAce_Main,Narumiya,0,0,0,,Itsuki, that's the way you do it.
+Dialogue: 0,0:11:21.57,0:11:23.70,DiamondAce_Main,Tadano,0,0,0,,Right! I'll bear that in mind.
+Dialogue: 0,0:11:23.95,0:11:26.84,DiamondAce_Italics,Fukui,0,0,0,,This is the team I've wanted \Nto be on since I was a kid.
+Dialogue: 0,0:11:26.84,0:11:30.91,DiamondAce_Italics,Fukui,0,0,0,,Since joining them, they've never \Nonce betrayed my expectations.
+Dialogue: 0,0:11:31.81,0:11:34.37,DiamondAce_Italics,Fukui,0,0,0,,They're the best players in the country,
+Dialogue: 0,0:11:34.63,0:11:38.69,DiamondAce_Italics,Fukui,0,0,0,,running the best-quality practice and \Nlearning the best team strategies.
+Dialogue: 0,0:11:40.27,0:11:43.23,DiamondAce_Main,Fukui,0,0,0,,Watch those pitch paths from the start!
+Dialogue: 0,0:11:43.23,0:11:47.31,DiamondAce_Italics,Fukui,0,0,0,,I'm so glad I get to be on this team!
+Dialogue: 0,0:11:47.51,0:11:49.58,DiamondAce_Main,Commentator,0,0,0,,One out, runners on first and second!
+Dialogue: 0,0:11:49.58,0:11:52.01,DiamondAce_Main,Commentator,0,0,0,,The 6-hole, Satoru Furuya,\N is at the plate!
+Dialogue: 0,0:11:53.64,0:11:55.21,DiamondAce_Main,Maezono,0,0,0,,Hit it outta there, Furuya!
+Dialogue: 0,0:11:55.21,0:11:56.60,DiamondAce_Main,Maezono,0,0,0,,It's your time!
+Dialogue: 0,0:11:57.29,0:11:59.62,DiamondAce_Main,Commentator,0,0,0,,Can ace Narumiya get through this?!
+Dialogue: 0,0:11:59.62,0:12:02.57,DiamondAce_Main,Commentator,0,0,0,,Can the Seido lineup pile on further?!
+Dialogue: 0,0:12:02.78,0:12:05.38,DiamondAce_Italics,Furuya,0,0,0,,They caught up and overtook them for me.
+Dialogue: 0,0:12:05.38,0:12:07.53,DiamondAce_Italics,Furuya,0,0,0,,The two runs they got for me…
+Dialogue: 0,0:12:07.99,0:12:09.14,DiamondAce_Italics,Furuya,0,0,0,,I won't let it stop.
+Dialogue: 0,0:12:09.58,0:12:11.25,DiamondAce_Italics,Furuya,0,0,0,,I won't be left behind.
+Dialogue: 0,0:12:16.12,0:12:18.83,DiamondAce_Main,Commentator,0,0,0,,The first pitch is a fastball inside!
+Dialogue: 0,0:12:18.83,0:12:20.08,DiamondAce_Main,Yoshizawa,0,0,0,,Yeah!
+Dialogue: 0,0:12:20.08,0:12:21.29,DiamondAce_Italics,Tadano,0,0,0,,What a great pitch!
+Dialogue: 0,0:12:21.29,0:12:24.27,DiamondAce_Main,Fukui,0,0,0,,Yeah! Hit him hard, Mei!
+Dialogue: 0,0:12:24.79,0:12:26.88,DiamondAce_Italics,Fukui,0,0,0,,They still haven't changed…
+Dialogue: 0,0:12:27.41,0:12:29.68,DiamondAce_Italics,Fukui,0,0,0,,This is the team I want to be on!
+Dialogue: 0,0:12:29.94,0:12:32.10,DiamondAce_Italics,Miyuki,0,0,0,,He's throwing that pitch now?
+Dialogue: 0,0:12:32.61,0:12:35.39,DiamondAce_Italics,Furuya,0,0,0,,I won't let this fever break.
+Dialogue: 0,0:12:37.82,0:12:39.85,DiamondAce_Main,Commentator,0,0,0,,Changeup! Swing and a miss!
+Dialogue: 0,0:12:40.08,0:12:41.82,DiamondAce_Main,Fukui,0,0,0,,Nice pitch, Mei!
+Dialogue: 0,0:12:41.82,0:12:43.06,DiamondAce_Main,Sugi,0,0,0,,Just need one more!
+Dialogue: 0,0:12:43.28,0:12:44.43,DiamondAce_Main,Bench A,0,0,0,,Let's finish it!
+Dialogue: 0,0:12:44.43,0:12:45.53,DiamondAce_Main,Bench B,0,0,0,,Narumiya-san!
+Dialogue: 0,0:12:45.81,0:12:48.76,DiamondAce_Italics,Furuya,0,0,0,,It's not over yet. Get a piece of it.
+Dialogue: 0,0:12:49.00,0:12:50.15,DiamondAce_Main,Higasa,0,0,0,,Furuya, go!
+Dialogue: 0,0:12:50.15,0:12:51.95,DiamondAce_Main,Yamaguchi,0,0,0,,Drive the nail into the coffin!
+Dialogue: 0,0:12:51.95,0:12:53.43,DiamondAce_Main,Commentator,0,0,0,,Two strikes on the board.
+Dialogue: 0,0:12:53.43,0:12:55.41,DiamondAce_Main,Commentator,0,0,0,,What will the third pitch be?!
+Dialogue: 0,0:13:02.27,0:13:03.88,DiamondAce_Main,Commentator,0,0,0,,Struck out swinging!
+Dialogue: 0,0:13:03.88,0:13:05.00,DiamondAce_Main,Yoshizawa,0,0,0,,Yeah!
+Dialogue: 0,0:13:05.00,0:13:06.96,DiamondAce_Main,Yoshizawa,0,0,0,,Nice pitch, Mei-san!
+Dialogue: 0,0:13:07.43,0:13:08.80,DiamondAce_Main,Tadano,0,0,0,,Okay!
+Dialogue: 0,0:13:08.80,0:13:10.97,DiamondAce_Italics,Tadano,0,0,0,,That's Mei-san's changeup!
+Dialogue: 0,0:13:10.97,0:13:12.68,DiamondAce_Italics,Tadano,0,0,0,,It's the best pitch there is!
+Dialogue: 0,0:13:12.84,0:13:15.36,DiamondAce_Main,Chris,0,0,0,,Two changeups in a row…
+Dialogue: 0,0:13:15.36,0:13:17.65,DiamondAce_Main,Yuki,0,0,0,,Narumiya's trying to show his dominance.
+Dialogue: 0,0:13:17.65,0:13:20.23,DiamondAce_Main,Miyauchi,0,0,0,,That one's hard for a right-hander.
+Dialogue: 0,0:13:20.23,0:13:22.39,DiamondAce_Main,Tadano,0,0,0,,Mei-san! One left!
+Dialogue: 0,0:13:22.39,0:13:23.69,DiamondAce_Main,Yabe,0,0,0,,Two outs!
+Dialogue: 0,0:13:24.51,0:13:26.16,DiamondAce_Main,Tojo,0,0,0,,It's not over yet.
+Dialogue: 0,0:13:28.05,0:13:29.70,DiamondAce_Italics,Furuya,0,0,0,,I hate to admit it, but…
+Dialogue: 0,0:13:30.43,0:13:31.69,DiamondAce_Italics,Furuya,0,0,0,,They're awesome.
+Dialogue: 0,0:13:32.91,0:13:34.57,DiamondAce_Italics,Furuya,0,0,0,,They're all awesome.
+Dialogue: 0,0:13:40.66,0:13:44.27,DiamondAce_Main,Commentator,0,0,0,,Tojo hangs in there but hits a \Ngrounder to third for out three!
+Dialogue: 0,0:13:44.63,0:13:47.34,DiamondAce_Main,Commentator,0,0,0,,Inashiro holds the inning to two runs!
+Dialogue: 0,0:13:47.77,0:13:49.41,DiamondAce_Main,Fukui,0,0,0,,That's our Mei Narumiya!
+Dialogue: 0,0:13:49.41,0:13:51.05,DiamondAce_Main,Fukui,0,0,0,,I knew you'd put them down!
+Dialogue: 0,0:13:53.92,0:13:57.27,DiamondAce_Main,Narumiya,0,0,0,,I couldn't disappoint \Nthat goofy-ass smile.
+Dialogue: 0,0:13:57.27,0:13:58.33,DiamondAce_Main,Fukui,0,0,0,,Sorry!
+Dialogue: 0,0:13:58.33,0:13:59.76,DiamondAce_Main,Narumiya,0,0,0,,Seriously, man…
+Dialogue: 0,0:14:00.18,0:14:02.48,DiamondAce_Main,Fukui,0,0,0,,But we'll be able to take \Nit back right away!
+Dialogue: 0,0:14:06.39,0:14:08.64,DiamondAce_Main,Narumiya,0,0,0,,I'll smack it outta the park.
+Dialogue: 0,0:14:08.95,0:14:11.91,DiamondAce_Main,sign,0,0,0,,{\move(386,56,386,306)\an7\fnTimes New Roman\b1\fs16\fay-.01\c&H272826&\3c&H4975A2&\shad0}Ugumori High School\N Baseball Club Room
+Dialogue: 0,0:14:11.90,0:14:14.04,DiamondAce_Main - Top,Inufushi,0,0,0,,Isn't this getting interesting?
+Dialogue: 0,0:14:11.99,0:14:15.87,Characters,sign,0,0,0,,{\fad(475,0)\pos(42,276)}Ugumori High School\N{\fs24}\h\h\hDaiki Kondo
+Dialogue: 0,0:14:11.99,0:14:15.87,Characters,sign,0,0,0,,{\fad(475,0)\pos(446,276)}Ugumori High School\N{\fs24}\h\h\hKohta Inufushi
+Dialogue: 0,0:14:14.04,0:14:15.87,DiamondAce_Main - Top,Inufushi,0,0,0,,They took two runs off Narumiya.
+Dialogue: 0,0:14:15.95,0:14:19.96,Characters,sign,0,0,0,,{\fad(475,500)\pos(42,276)}Ugumori High School\N{\fs24}\h\h\hSeiichi Umemiya
+Dialogue: 0,0:14:15.95,0:14:19.96,Characters,sign,0,0,0,,{\fad(475,500)\pos(446,276)}Ugumori High School\N{\fs24}\h\h\hNao Matsubara
+Dialogue: 0,0:14:16.15,0:14:18.90,DiamondAce_Main - Top,Matsubara,0,0,0,,That's something only Seido could do.
+Dialogue: 0,0:14:18.90,0:14:22.33,DiamondAce_Main - Top,Umemiya,0,0,0,,Yeah. Inashiro won't let it \Nend that easily, though.
+Dialogue: 0,0:14:24.55,0:14:26.06,DiamondAce_Main,Miyagawa,0,0,0,,What's up, Hosshan?
+Dialogue: 0,0:14:26.06,0:14:27.61,DiamondAce_Main,Hoshida,0,0,0,,I wanna bat.
+Dialogue: 0,0:14:27.61,0:14:28.53,DiamondAce_Main,Miyagawa,0,0,0,,Now?
+Dialogue: 0,0:14:28.53,0:14:29.75,DiamondAce_Main,Mori,0,0,0,,Here?!
+Dialogue: 0,0:14:29.75,0:14:33.72,DiamondAce_Main,Kawabata,0,0,0,,The sixth inning is coming up.\N How long will they keep Furuya in?
+Dialogue: 0,0:14:34.02,0:14:36.51,DiamondAce_Main,Fan B,0,0,0,,And what about left field? Substitution?
+Dialogue: 0,0:14:36.51,0:14:38.68,DiamondAce_Main,Fan C,0,0,0,,He was taken off on a \Nstretcher! No way he plays!
+Dialogue: 0,0:14:39.33,0:14:41.15,DiamondAce_Main,Kataoka,0,0,0,,You're sure you can do this?
+Dialogue: 0,0:14:41.15,0:14:42.66,DiamondAce_Main,Aso,0,0,0,,I'm fine!
+Dialogue: 0,0:14:42.66,0:14:45.34,DiamondAce_Main,Kataoka,0,0,0,,Your fielding made this possible.
+Dialogue: 0,0:14:45.34,0:14:47.10,DiamondAce_Main,Kataoka,0,0,0,,We want you there, if you're up for it.
+Dialogue: 0,0:14:47.62,0:14:49.57,DiamondAce_Main,Aso,0,0,0,,Yes, sir! Leave it to me!
+Dialogue: 0,0:14:49.84,0:14:51.20,DiamondAce_Main,Aso,0,0,0,,I'm off!
+Dialogue: 0,0:14:51.20,0:14:52.50,DiamondAce_Main,Higasa,0,0,0,,Okay, let's go!
+Dialogue: 0,0:14:52.50,0:14:53.55,DiamondAce_Main,Fan A,0,0,0,,Aso?
+Dialogue: 0,0:14:53.55,0:14:54.84,DiamondAce_Main,Fan B,0,0,0,,He's ready to play?
+Dialogue: 0,0:14:54.84,0:14:56.46,DiamondAce_Main,Fan C,0,0,0,,You kidding me?!
+Dialogue: 0,0:14:56.46,0:14:59.19,DiamondAce_Main,Fan A,0,0,0,,That number 7 is back!
+Dialogue: 0,0:14:59.19,0:15:00.83,DiamondAce_Main,Fan B,0,0,0,,So glad you're safe!
+Dialogue: 0,0:15:00.83,0:15:02.03,DiamondAce_Main,Fan B,0,0,0,,Nice guts!
+Dialogue: 0,0:15:02.43,0:15:03.93,DiamondAce_Italics,Aso,0,0,0,,I'm so glad…
+Dialogue: 0,0:15:03.93,0:15:06.64,DiamondAce_Italics,Aso,0,0,0,,I'm so glad I play baseball!
+Dialogue: 0,0:15:07.69,0:15:08.80,DiamondAce_Main,Kataoka,0,0,0,,Sawamura!
+Dialogue: 0,0:15:08.80,0:15:09.69,DiamondAce_Main,Sawamura,0,0,0,,Sir!
+Dialogue: 0,0:15:09.69,0:15:11.91,DiamondAce_Main,Kataoka,0,0,0,,Furuya's nearing a hundred pitches.
+Dialogue: 0,0:15:11.91,0:15:14.35,DiamondAce_Main,Kataoka,0,0,0,,He'll be exhausted from going \Nall-out since the first.
+Dialogue: 0,0:15:14.62,0:15:17.32,DiamondAce_Main,Kataoka,0,0,0,,If he starts to look wobbly, \NI'm putting you in.
+Dialogue: 0,0:15:21.85,0:15:24.69,DiamondAce_Italics,Furuya,0,0,0,,We don't have our closer\Nfor this match, either.
+Dialogue: 0,0:15:24.69,0:15:28.38,DiamondAce_Italics,Furuya,0,0,0,,If you want the chance to put \NFuruya back up on the mound,
+Dialogue: 0,0:15:28.38,0:15:31.44,DiamondAce_Italics,Furuya,0,0,0,,it'd be natural to use him in left field.
+Dialogue: 0,0:15:32.35,0:15:36.57,DiamondAce_Italics,Furuya,0,0,0,,Either way, it depends on \Nhow he pitches this inning.
+Dialogue: 0,0:15:36.76,0:15:39.50,DiamondAce_Main,Commentator,0,0,0,,Inashiro Industrial comes up \Nin the bottom of the sixth.
+Dialogue: 0,0:15:39.50,0:15:42.03,DiamondAce_Main,Commentator,0,0,0,,At the plate is 5-hole, \Npitcher, Narumiya!
+Dialogue: 0,0:15:42.53,0:15:45.16,DiamondAce_Main,Commentator,0,0,0,,He's hitting .532 this tournament.
+Dialogue: 0,0:15:45.16,0:15:47.60,DiamondAce_Main,Commentator,0,0,0,,He's terrifying to face as a batter too!
+Dialogue: 0,0:15:48.16,0:15:52.69,DiamondAce_Italics,Miyuki,0,0,0,,I'm sure he'll want to vent his \Nfrustration at giving up the lead.
+Dialogue: 0,0:15:52.97,0:15:54.47,DiamondAce_Italics,Miyuki,0,0,0,,I won't let it happen.
+Dialogue: 0,0:15:57.04,0:15:58.80,DiamondAce_Main,Maezono,0,0,0,,Take 'em down one at a time!
+Dialogue: 0,0:15:58.80,0:16:00.76,DiamondAce_Main,Haruichi,0,0,0,,Furuya-kun! Go on the attack!
+Dialogue: 0,0:16:01.01,0:16:02.22,DiamondAce_Main,Kuramochi,0,0,0,,Give him a piece of it!
+Dialogue: 0,0:16:02.22,0:16:04.68,DiamondAce_Main,Aso,0,0,0,,I'm here! I've got it!
+Dialogue: 0,0:16:04.93,0:16:07.93,DiamondAce_Italics,Narumiya,0,0,0,,Striking you out wasn't enough for me.
+Dialogue: 0,0:16:07.93,0:16:09.14,DiamondAce_Italics,Narumiya,0,0,0,,Bring it, Furuya.
+Dialogue: 0,0:16:13.49,0:16:16.19,DiamondAce_Main,Commentator,0,0,0,,First pitch is a fastball, hit foul!
+Dialogue: 0,0:16:16.39,0:16:18.70,DiamondAce_Italics,Miyuki,0,0,0,,He got the timing just right.
+Dialogue: 0,0:16:18.89,0:16:21.65,DiamondAce_Italics,Narumiya,0,0,0,,Damn you. He's not slowing down.
+Dialogue: 0,0:16:23.66,0:16:27.08,DiamondAce_Flashback,Miyuki,0,0,0,,Furuya. Have you ever thought about it?
+Dialogue: 0,0:16:27.08,0:16:28.66,DiamondAce_Flashback,Miyuki,0,0,0,,The world beyond this one…
+Dialogue: 0,0:16:28.66,0:16:32.06,DiamondAce_Flashback,Miyuki,0,0,0,,Have you ever thought\Nabout pitching as a pro?
+Dialogue: 0,0:16:43.44,0:16:45.64,DiamondAce_Italics,Narumiya,0,0,0,,He's going wild.
+Dialogue: 0,0:16:45.97,0:16:50.31,DiamondAce_Italics,Miyuki,0,0,0,,You're forcing it. Go lower and slower…
+Dialogue: 0,0:16:54.18,0:16:57.70,DiamondAce_Main,Commentator,0,0,0,,A hard hit to left is \Nan easy get for Aso!
+Dialogue: 0,0:16:58.51,0:17:00.41,DiamondAce_Main,Commentator,0,0,0,,He catches it for the first out!
+Dialogue: 0,0:17:00.72,0:17:03.87,DiamondAce_Main,Commentator,0,0,0,,His second time around, \Nand he loses to Furuya again!
+Dialogue: 0,0:17:06.52,0:17:07.75,DiamondAce_Italics,Furuya,0,0,0,,I'm going on.
+Dialogue: 0,0:17:08.04,0:17:11.64,DiamondAce_Italics,Furuya,0,0,0,,As long as I can play baseball, \NI'll stay on this path.
+Dialogue: 0,0:17:15.45,0:17:17.47,DiamondAce_Main,Tanba,0,0,0,,Furuya's posing?
+Dialogue: 0,0:17:17.47,0:17:19.36,DiamondAce_Main,Yeung,0,0,0,,He's been going full \Nthrottle all this time.
+Dialogue: 0,0:17:19.36,0:17:21.44,DiamondAce_Main,Yeung,0,0,0,,He doesn't expect to finish the game.
+Dialogue: 0,0:17:21.67,0:17:24.40,DiamondAce_Main,Kawabata,0,0,0,,Because Seido's got such a great bullpen.
+Dialogue: 0,0:17:24.40,0:17:26.60,DiamondAce_Italics,Umemoto,0,0,0,,That's 92 pitches…
+Dialogue: 0,0:17:26.89,0:17:30.02,DiamondAce_Main,Tada,0,0,0,,His fastballs are still hitting 150 kph.
+Dialogue: 0,0:17:30.02,0:17:32.56,DiamondAce_Main,Tada,0,0,0,,He's still got gas behind his pitches!
+Dialogue: 0,0:17:32.86,0:17:34.49,DiamondAce_Italics,Furuya,0,0,0,,That's one down.
+Dialogue: 0,0:17:36.05,0:17:38.24,DiamondAce_Main,Miyuki,0,0,0,,Excuse me. I'd like a timeout.
+Dialogue: 0,0:17:39.58,0:17:41.12,DiamondAce_Main,Furuya,0,0,0,,Is something wrong?
+Dialogue: 0,0:17:41.12,0:17:43.20,DiamondAce_Main,Miyuki,0,0,0,,You're looking a bit labored.
+Dialogue: 0,0:17:44.83,0:17:47.11,DiamondAce_Italics,Miyuki,0,0,0,,He doesn't seem sensitive about it.
+Dialogue: 0,0:17:47.42,0:17:51.00,DiamondAce_Main,Miyuki,0,0,0,,They won't be able to \Nhit hard, low balls.
+Dialogue: 0,0:17:51.00,0:17:53.42,DiamondAce_Main,Miyuki,0,0,0,,Stay precise, on your own rhythm.
+Dialogue: 0,0:17:53.42,0:17:54.58,DiamondAce_Main,Furuya,0,0,0,,Got it.
+Dialogue: 0,0:17:56.36,0:17:59.62,DiamondAce_Main,Miyuki,0,0,0,,I know we're both bothered by \Nwhat happened at Spring Koshien.
+Dialogue: 0,0:18:01.05,0:18:04.39,DiamondAce_Main,Miyuki,0,0,0,,Let's pick up what we left behind there.
+Dialogue: 0,0:18:04.99,0:18:07.76,DiamondAce_Main,Furuya,0,0,0,,Yes! Let's get there with this team!
+Dialogue: 0,0:18:10.41,0:18:13.08,DiamondAce_Main,Sawamura,0,0,0,,Yeah! Get on the same page!
+Dialogue: 0,0:18:13.08,0:18:15.11,DiamondAce_Main,Sawamura,0,0,0,,Bring as much as you \Ncan out of each other!
+Dialogue: 0,0:18:15.51,0:18:17.33,DiamondAce_Main,Sawamura,0,0,0,,And throw it back at each other!
+Dialogue: 0,0:18:18.48,0:18:20.75,DiamondAce_Italics,Miyuki,0,0,0,,With this team, huh?
+Dialogue: 0,0:18:21.73,0:18:24.53,DiamondAce_Italics,Miyuki,0,0,0,,Those pitches I caught for you \Nat the spring tournament…
+Dialogue: 0,0:18:26.72,0:18:30.77,DiamondAce_Italics,Miyuki,0,0,0,,They made me want to see \Nhow far you could go.
+Dialogue: 0,0:18:31.58,0:18:35.33,DiamondAce_Italics,Miyuki,0,0,0,,And at the same time, \NI wanted to live up to you.
+Dialogue: 0,0:18:35.92,0:18:38.17,DiamondAce_Main,Sawamura,0,0,0,,Don't try to take him down yourself!
+Dialogue: 0,0:18:38.17,0:18:39.43,DiamondAce_Main,Sawamura,0,0,0,,Let the fielders help!
+Dialogue: 0,0:18:39.82,0:18:42.96,DiamondAce_Italics,Miyuki,0,0,0,,You're always surprising me.
+Dialogue: 0,0:18:43.61,0:18:47.35,DiamondAce_Italics,Miyuki,0,0,0,,Now, surpass my expectations!
+Dialogue: 0,0:18:47.61,0:18:50.03,DiamondAce_Italics,Tadano,0,0,0,,He'll be nearing his limit.
+Dialogue: 0,0:18:50.37,0:18:52.32,DiamondAce_Italics,Tadano,0,0,0,,Make him throw as many \Nas possible, and…
+Dialogue: 0,0:19:02.10,0:19:05.44,DiamondAce_Italics,Furuya,0,0,0,,The path has been laid out \Nfor me since I came here.
+Dialogue: 0,0:19:06.01,0:19:09.70,DiamondAce_Flashback,Miyuki,0,0,0,,But that's okay, right?
+Dialogue: 0,0:19:09.94,0:19:13.32,DiamondAce_Flashback,Miyuki,0,0,0,,Being the kind of pitcher who pulls \Nthe team along with your power.
+Dialogue: 0,0:19:16.58,0:19:19.08,DiamondAce_Italics,Furuya,0,0,0,,Because he's the one catching for me.
+Dialogue: 0,0:19:23.10,0:19:25.78,DiamondAce_Italics,Furuya,0,0,0,,Because I had a team \NI could compete with!
+Dialogue: 0,0:19:29.43,0:19:31.97,DiamondAce_Italics,Furuya,0,0,0,,In baseball, I can be myself.
+Dialogue: 0,0:19:32.46,0:19:33.85,DiamondAce_Italics,Furuya,0,0,0,,I can be selfish.
+Dialogue: 0,0:19:36.28,0:19:39.29,DiamondAce_Italics,Furuya,0,0,0,,Because this place is here \Nfor me, I can fight.
+Dialogue: 0,0:19:46.74,0:19:49.11,DiamondAce_Italics,Furuya,0,0,0,,I can hit them with my full power!
+Dialogue: 0,0:19:51.16,0:19:53.13,DiamondAce_Main,Commentator,0,0,0,,Strike! He's out!
+Dialogue: 0,0:19:53.40,0:19:57.11,DiamondAce_Main,Commentator,0,0,0,,Struck out swinging! \NHis mighty pitches stay strong,
+Dialogue: 0,0:19:57.11,0:19:59.54,DiamondAce_Main,Commentator,0,0,0,,and he retires three in a row!
+Dialogue: 0,0:19:59.54,0:20:02.34,DiamondAce_Main,Fan A,0,0,0,,Awesome! A series of 150 kph pitches!
+Dialogue: 0,0:20:02.34,0:20:03.59,DiamondAce_Main,Fan B,0,0,0,,Bottomless!
+Dialogue: 0,0:20:02.81,0:20:04.35,DiamondAce_Main,Fan D,0,0,0,,Furuya's crazy!
+Dialogue: 0,0:20:03.90,0:20:04.96,DiamondAce_Main,Fan C,0,0,0,,Full throttle!
+Dialogue: 0,0:20:05.29,0:20:08.28,DiamondAce_Flashback,Furuya's Mother,0,0,0,,We'll come to Tokyo on the weekends.
+Dialogue: 0,0:20:08.28,0:20:10.61,DiamondAce_Flashback,Furuya's Mother,0,0,0,,Make sure to let us know \Nwhen you get there.
+Dialogue: 0,0:20:11.07,0:20:13.31,DiamondAce_Flashback,Furuya's Mother,0,0,0,,I'll let your grandfather \Nknow you're coming.
+Dialogue: 0,0:20:13.31,0:20:15.34,DiamondAce_Flashback,Furuya,0,0,0,,Sure. Later.
+Dialogue: 0,0:20:16.54,0:20:18.23,DiamondAce_Flashback,Furuya's Mother,0,0,0,,That's all?
+Dialogue: 0,0:20:18.79,0:20:23.08,DiamondAce_Flashback,Furuya's Mother,0,0,0,,Yeah. He's the one who \Nwanted to go to Tokyo.
+Dialogue: 0,0:20:24.37,0:20:26.55,DiamondAce_Flashback,Furuya's Mother,0,0,0,,And Seido High School…
+Dialogue: 0,0:20:27.02,0:20:30.76,DiamondAce_Flashback,Furuya's Grandpa,0,0,0,,You said things didn't go well \Nwith the teams over there.
+Dialogue: 0,0:20:30.76,0:20:34.28,DiamondAce_Flashback,Furuya's Grandpa,0,0,0,,If this was his decision, \NI say we respect it.
+Dialogue: 0,0:20:34.28,0:20:36.24,DiamondAce_Flashback,Furuya's Grandpa,0,0,0,,I'll look after him.
+Dialogue: 0,0:20:36.47,0:20:38.26,DiamondAce_Flashback,Furuya's Mother,0,0,0,,But he'll be living in a dorm.
+Dialogue: 0,0:20:38.26,0:20:40.17,DiamondAce_Flashback,Furuya's Mother,0,0,0,,Can he really handle that?
+Dialogue: 0,0:20:40.17,0:20:42.56,DiamondAce_Flashback,Furuya's Mother,0,0,0,,He's always had a hard time \Nexpressing his feelings,
+Dialogue: 0,0:20:42.56,0:20:44.83,DiamondAce_Flashback,Furuya's Mother,0,0,0,,which leads to misunderstandings…
+Dialogue: 0,0:20:44.83,0:20:46.72,DiamondAce_Flashback,Furuya's Mother,0,0,0,,He can get stubborn about \Nthe strangest things, too…
+Dialogue: 0,0:20:49.70,0:20:50.93,DiamondAce_Main,Fans,0,0,0,,Furuya!
+Dialogue: 0,0:20:50.93,0:20:52.30,DiamondAce_Main,Fans,0,0,0,,Furuya-san!
+Dialogue: 0,0:20:54.95,0:20:56.47,DiamondAce_Main,Tojo,0,0,0,,Nice ball!
+Dialogue: 0,0:20:56.47,0:20:58.19,DiamondAce_Main,Maezono,0,0,0,,Nice pitching!
+Dialogue: 0,0:20:58.19,0:21:01.91,DiamondAce_Main,Kuramochi,0,0,0,,You didn't give us any action! \NYou're gonna leave me out of shape!
+Dialogue: 0,0:21:02.22,0:21:06.82,DiamondAce_Main,Kataoka,0,0,0,,You protected our lead. I have \Nno complaints with your pitching.
+Dialogue: 0,0:21:06.82,0:21:07.99,DiamondAce_Main,Tada,0,0,0,,Great work!
+Dialogue: 0,0:21:08.29,0:21:11.20,DiamondAce_Italics,Umemoto,0,0,0,,Pitching 99 pitches at full power…
+Dialogue: 0,0:21:14.04,0:21:16.87,DiamondAce_Main,Kataoka,0,0,0,,Furuya, you'll be in left \Nstarting in the seventh.
+Dialogue: 0,0:21:17.89,0:21:19.38,DiamondAce_Main,Kataoka,0,0,0,,Sawamura, you're in.
+Dialogue: 0,0:21:19.69,0:21:20.84,DiamondAce_Main,Sawamura,0,0,0,,Yes, sir!
+Dialogue: 0,0:21:21.03,0:21:22.74,DiamondAce_Italics,Ochiai,0,0,0,,He's not as good as Aso,
+Dialogue: 0,0:21:22.74,0:21:26.18,DiamondAce_Italics,Ochiai,0,0,0,,but Furuya's been getting experience \Nin left field since last year.
+Dialogue: 0,0:21:26.18,0:21:29.45,DiamondAce_Italics,Ochiai,0,0,0,,Most of all, if something happens \Nand he has it left in the tank,
+Dialogue: 0,0:21:29.45,0:21:31.31,DiamondAce_Italics,Ochiai,0,0,0,,we can put him right back on the mound.
+Dialogue: 0,0:21:31.98,0:21:34.86,DiamondAce_Italics,Miyuki,0,0,0,,The reason he could go all-out \Nfrom the early innings
+Dialogue: 0,0:21:35.26,0:21:37.06,DiamondAce_Italics,Miyuki,0,0,0,,is because Sawamura was there.
+Dialogue: 0,0:21:37.53,0:21:40.72,DiamondAce_Italics,Miyuki,0,0,0,,We can pass the baton under \Nthe best conditions possible.
+Dialogue: 0,0:21:44.48,0:21:45.68,DiamondAce_Main,Furuya,0,0,0,,Keep it going.
+Dialogue: 0,0:21:46.02,0:21:48.54,DiamondAce_Main,Sawamura,0,0,0,,Sure. I got this!
+Dialogue: 0,0:23:27.11,0:23:30.80,DiamondAce_Main,Sawamura,0,0,0,,Next time on {\i1}Ace of the Diamond \NAct II -Second Season-{\i0}…
+Dialogue: 0,0:23:30.93,0:23:36.90,Sign_Basic,sign,0,0,0,,{\pos(210,135)\fad(500,0)\fnTimes New Roman\b1}Next Time
+Dialogue: 0,0:23:30.93,0:23:36.90,Sign_Basic,sign,0,0,0,,{\pos(320,265)\fad(500,0)\fnTimes New Roman\b1\fs30}"Baton"
+Dialogue: 0,0:23:31.31,0:23:32.30,DiamondAce_Main,Sawamura,0,0,0,,"Baton."
+Dialogue: 0,0:23:32.53,0:23:34.63,DiamondAce_Main,Sawamura,0,0,0,,Aim to take nationals!
+
