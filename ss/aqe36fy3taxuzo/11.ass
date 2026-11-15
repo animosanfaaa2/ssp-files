@@ -1,0 +1,269 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 1
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:30.42,0:01:31.84,Default,,0,0,0,,Menimbulkan nostalgia.
+Dialogue: 0,0:01:32.47,0:01:35.64,Default,,0,0,0,,Dah berapa lama pertukaran diari ini?
+Dialogue: 0,0:01:36.51,0:01:40.23,Default,,0,0,0,,Saya sentiasa ternanti-nanti\Njawapan kakak saya.
+Dialogue: 0,0:01:41.02,0:01:42.52,Default,,0,0,0,,(DIARI BERGAMBAR)\NAwak sangat pandai melukis.
+Dialogue: 0,0:01:44.56,0:01:46.44,Default,,0,0,0,,Mari lukis catatan hari ini.
+Dialogue: 0,0:01:46.52,0:01:48.07,Default,,0,0,0,,Mari lukis tentang pergi ke pantai.
+Dialogue: 0,0:01:48.78,0:01:50.28,Default,,0,0,0,,Okey, Hikaru?
+Dialogue: 0,0:01:50.69,0:01:53.03,Default,,0,0,0,,Kakak saya tersenyum.
+Dialogue: 0,0:01:53.11,0:01:54.53,Default,,0,0,0,,Jadi ini…
+Dialogue: 0,0:01:57.45,0:02:00.37,Default,,0,0,0,,Jadi ini ialah mimpi.
+Dialogue: 0,0:02:23.64,0:02:25.85,Default,,0,0,0,,(SIJIL ANUGERAH SENI,\NTEMPAT KEDUA: HIKARU MATSUKI)
+Dialogue: 0,0:02:25.94,0:02:26.77,Default,,0,0,0,,(1. TAK BERPERIKEMANUSIAAN,\NSEPERTI BINATANG)
+Dialogue: 0,0:02:26.86,0:02:28.11,Default,,0,0,0,,(2. KURANG MESRA ATAU EMPATI)
+Dialogue: 0,0:02:28.19,0:02:29.02,Default,,0,0,0,,(3. DINGIN DAN KEJAM)
+Dialogue: 0,0:03:50.19,0:03:54.53,Default,,0,0,0,,(HOTEL INHUMANS)
+Dialogue: 0,0:04:10.25,0:04:12.34,Default,,0,0,0,,(PERMINTAAN 20:\NDIARI MOTOSIKAL BAHAGIAN 1)
+Dialogue: 0,0:04:12.42,0:04:14.42,Default,,0,0,0,,(KEDAI RUNCIT PARL 8,\NFESTIVAL PENCUCI MULUT)
+Dialogue: 0,0:04:21.05,0:04:22.89,Default,,0,0,0,,Terima kasih, datang lagi.
+Dialogue: 0,0:04:24.85,0:04:27.56,Default,,0,0,0,,Harga rokok naik lagi?
+Dialogue: 0,0:04:29.35,0:04:31.56,Default,,0,0,0,,Kenapa dengan harga sekarang?
+Dialogue: 0,0:04:31.65,0:04:32.94,Default,,0,0,0,,Biar betul?
+Dialogue: 0,0:04:35.48,0:04:37.49,Default,,0,0,0,,Beri saya Nombor 27.
+Dialogue: 0,0:04:37.57,0:04:38.74,Default,,0,0,0,,Baiklah.
+Dialogue: 0,0:04:38.95,0:04:41.45,Default,,0,0,0,,(DETEKTIF PEMBUNUH,\NPENGESYORAN STAF: RAFEL WATAK)
+Dialogue: 0,0:04:41.99,0:04:43.53,Default,,0,0,0,,Satu cabutan untuk ini juga.
+Dialogue: 0,0:04:44.53,0:04:45.83,Default,,0,0,0,,(RAFEL WATAK)\NYang ini, bukan?
+Dialogue: 0,0:04:45.91,0:04:47.20,Default,,0,0,0,,(RAFEL WATAK)\NNah.
+Dialogue: 0,0:04:49.92,0:04:53.21,Default,,0,0,0,,Biar betul? Saya terlupa dompet saya.
+Dialogue: 0,0:04:55.96,0:04:58.97,Default,,0,0,0,,Ini saja duit yang saya ada?
+Dialogue: 0,0:05:01.05,0:05:02.97,Default,,0,0,0,,Yang mana saya patut pilih?
+Dialogue: 0,0:05:05.06,0:05:06.39,Default,,0,0,0,,Maafkan saya.
+Dialogue: 0,0:05:06.47,0:05:09.18,Default,,0,0,0,,Awak pasti sangat suka Detektif Pembunuh.
+Dialogue: 0,0:05:11.27,0:05:12.48,Default,,0,0,0,,Tak juga.
+Dialogue: 0,0:05:13.36,0:05:15.57,Default,,0,0,0,,(DETEKTIF PEMBUNUH,\NPENGESYORAN STAF: RAFEL WATAK)\NPapan tanda itu comel.
+Dialogue: 0,0:05:17.61,0:05:20.82,Default,,0,0,0,,Saya ada kelemahan dengan benda comel.
+Dialogue: 0,0:05:20.90,0:05:23.16,Default,,0,0,0,,Apa yang saya patut buat?
+Dialogue: 0,0:05:26.70,0:05:28.12,Default,,0,0,0,,Tak mengapalah, lupakan rokok itu.
+Dialogue: 0,0:05:28.20,0:05:29.04,Default,,0,0,0,,Saya akan ambil yang ini.
+Dialogue: 0,0:05:29.12,0:05:29.96,Default,,0,0,0,,Nah.
+Dialogue: 0,0:05:31.83,0:05:34.63,Default,,0,0,0,,Saya bukan berikan kepada awak,\Nsaya pinjamkan.
+Dialogue: 0,0:05:37.80,0:05:40.17,Default,,0,0,0,,Memandangkan\Nsaya yang lukis papan tanda itu,
+Dialogue: 0,0:05:40.26,0:05:41.88,Default,,0,0,0,,saya rasa bertanggungjawab.
+Dialogue: 0,0:05:43.93,0:05:45.55,Default,,0,0,0,,Jika begitu, saya akan terima.
+Dialogue: 0,0:05:46.14,0:05:47.76,Default,,0,0,0,,(TAHNIAH, HADIAH SS,\NSILA TEBUS DI KAUNTER)
+Dialogue: 0,0:05:47.85,0:05:48.72,Default,,0,0,0,,Hadiah SS!
+Dialogue: 0,0:05:48.81,0:05:50.64,Default,,0,0,0,,(HADIAH ANAK PATUNG SS)\NHadiah SS!
+Dialogue: 0,0:05:51.23,0:05:52.60,Default,,0,0,0,,Comelnya!
+Dialogue: 0,0:05:52.69,0:05:54.06,Default,,0,0,0,,Sangat comel!
+Dialogue: 0,0:05:54.15,0:05:55.94,Default,,0,0,0,,Terima kasih.
+Dialogue: 0,0:05:56.48,0:05:57.52,Default,,0,0,0,,Awak…
+Dialogue: 0,0:05:58.11,0:05:59.28,Default,,0,0,0,,(MATSUKI)
+Dialogue: 0,0:05:59.36,0:06:00.69,Default,,0,0,0,,Cik Matsuki.
+Dialogue: 0,0:06:01.11,0:06:02.82,Default,,0,0,0,,Saya sangat gembira.
+Dialogue: 0,0:06:03.24,0:06:04.45,Default,,0,0,0,,Sebenarnya…
+Dialogue: 0,0:06:07.91,0:06:11.12,Default,,0,0,0,,Saya perlu cari jalan\Nuntuk balas budi awak.
+Dialogue: 0,0:06:11.20,0:06:13.67,Default,,0,0,0,,Namun awak tiada duit sekarang?
+Dialogue: 0,0:06:14.54,0:06:15.96,Default,,0,0,0,,Sebagai ganti…
+Dialogue: 0,0:06:25.43,0:06:28.10,Default,,0,0,0,,Maaf, dia tak tahu apa-apa.
+Dialogue: 0,0:06:28.64,0:06:31.02,Default,,0,0,0,,Awak tak boleh buka sebelum beli.
+Dialogue: 0,0:06:33.77,0:06:36.02,Default,,0,0,0,,- Saya benar-benar minta maaf.\N- Bagaimana jika begini?
+Dialogue: 0,0:06:38.11,0:06:41.07,Default,,0,0,0,,Saya akan beli yang ini. Saya ada baki.
+Dialogue: 0,0:06:41.65,0:06:43.28,Default,,0,0,0,,- Sebenarnya…\N- Tak mengapa.
+Dialogue: 0,0:06:45.53,0:06:49.12,Default,,0,0,0,,Mulai sekarang,\Npegang tangannya sekerap yang boleh.
+Dialogue: 0,0:06:53.08,0:06:55.83,Default,,0,0,0,,Pegang tangan saya?
+Dialogue: 0,0:06:55.92,0:06:56.92,Default,,0,0,0,,Ya Tuhan.
+Dialogue: 0,0:06:58.50,0:07:00.30,Default,,0,0,0,,Saya dah ingat sekarang.
+Dialogue: 0,0:07:00.38,0:07:02.63,Default,,0,0,0,,Saya juga begitu.
+Dialogue: 0,0:07:03.97,0:07:06.30,Default,,0,0,0,,Kakak saya\Nselalu pegang tangan saya dengan erat
+Dialogue: 0,0:07:06.38,0:07:08.72,Default,,0,0,0,,supaya saya tak hilang.
+Dialogue: 0,0:07:15.73,0:07:17.44,Default,,0,0,0,,Terima kasih.
+Dialogue: 0,0:07:17.52,0:07:19.56,Default,,0,0,0,,Saya tak perasan langsung.
+Dialogue: 0,0:07:20.15,0:07:21.52,Default,,0,0,0,,Cik Matsuki.
+Dialogue: 0,0:07:21.61,0:07:24.49,Default,,0,0,0,,Awak tak patut pinjamkan duit\Nkepada orang lain dengan mudah.
+Dialogue: 0,0:07:26.24,0:07:30.41,Default,,0,0,0,,Bukan semua orang baik seperti saya.
+Dialogue: 0,0:07:37.04,0:07:38.46,Default,,0,0,0,,Peliknya.
+Dialogue: 0,0:07:53.89,0:07:55.27,Default,,0,0,0,,Comel, bukan?
+Dialogue: 0,0:07:55.35,0:07:56.18,Default,,0,0,0,,Apa?
+Dialogue: 0,0:07:56.27,0:07:57.94,Default,,0,0,0,,Apa ini?
+Dialogue: 0,0:07:58.02,0:07:59.31,Default,,0,0,0,,Jangan sentuh.
+Dialogue: 0,0:07:59.40,0:08:00.40,Default,,0,0,0,,Ya.
+Dialogue: 0,0:08:05.24,0:08:07.07,Default,,0,0,0,,Selamat datang.
+Dialogue: 0,0:08:11.83,0:08:13.37,Default,,0,0,0,,500 yen ini…
+Dialogue: 0,0:08:13.95,0:08:16.37,Default,,0,0,0,,Pinjamkan kepada saya\Nsehingga saya menang semuanya.
+Dialogue: 0,0:08:16.45,0:08:18.50,Default,,0,0,0,,Boleh, tapi kenapa?
+Dialogue: 0,0:08:19.21,0:08:20.21,Default,,0,0,0,,Untuk tuah.
+Dialogue: 0,0:08:21.79,0:08:22.63,Default,,0,0,0,,Hadiah.
+Dialogue: 0,0:08:22.71,0:08:24.75,Default,,0,0,0,,(HADIAH ANAK PATUNG)
+Dialogue: 0,0:08:24.84,0:08:26.42,Default,,0,0,0,,Tahniah.
+Dialogue: 0,0:08:26.51,0:08:28.68,Default,,0,0,0,,Bagus! Comelnya.
+Dialogue: 0,0:08:45.61,0:08:46.94,Default,,0,0,0,,Awak dah habis kerja?
+Dialogue: 0,0:08:47.03,0:08:47.90,Default,,0,0,0,,Ya.
+Dialogue: 0,0:08:48.19,0:08:49.53,Default,,0,0,0,,Biar saya hantar awak balik.
+Dialogue: 0,0:08:50.45,0:08:54.78,Default,,0,0,0,,Saya tak boleh naik motosikal\Ndengan orang yang saya tak tahu namanya.
+Dialogue: 0,0:08:55.45,0:08:56.91,Default,,0,0,0,,Shiba Kirihara.
+Dialogue: 0,0:08:58.16,0:09:01.00,Default,,0,0,0,,Orang yang rapat dengan saya\Npanggil saya Koshiba.
+Dialogue: 0,0:09:02.00,0:09:03.42,Default,,0,0,0,,Koshiba, ya?
+Dialogue: 0,0:09:03.50,0:09:05.67,Default,,0,0,0,,Awak pula Matsuki?
+Dialogue: 0,0:09:11.09,0:09:12.09,Default,,0,0,0,,Hei!
+Dialogue: 0,0:09:13.51,0:09:15.10,Default,,0,0,0,,Peliknya.
+Dialogue: 0,0:09:25.82,0:09:26.69,Default,,0,0,0,,(TAHNIAH! HADIAH D, TEBUS DI KAUNTER)
+Dialogue: 0,0:09:26.78,0:09:27.69,Default,,0,0,0,,Hadiah D.
+Dialogue: 0,0:09:27.78,0:09:28.99,Default,,0,0,0,,(ANAK PATUNG HADIAH D)
+Dialogue: 0,0:09:29.07,0:09:30.86,Default,,0,0,0,,Tahniah.
+Dialogue: 0,0:09:33.36,0:09:36.37,Default,,0,0,0,,Cik Matsuki, ini comel?
+Dialogue: 0,0:09:37.83,0:09:39.91,Default,,0,0,0,,Anggap sajalah begitu.
+Dialogue: 0,0:09:40.79,0:09:41.96,Default,,0,0,0,,Hikaru.
+Dialogue: 0,0:09:44.54,0:09:45.88,Default,,0,0,0,,Nama saya Hikaru Matsuki.
+Dialogue: 0,0:09:47.50,0:09:49.46,Default,,0,0,0,,Hikaru.
+Dialogue: 0,0:09:57.22,0:09:59.35,Default,,0,0,0,,Awak ada yang ini juga?
+Dialogue: 0,0:09:59.43,0:10:01.02,Default,,0,0,0,,(KEDAI RUNCIT PARL 8,\NFESTIVAL PENCUCI MULUT)
+Dialogue: 0,0:10:01.10,0:10:02.39,Default,,0,0,0,,Bekas abu rokok.
+Dialogue: 0,0:10:02.48,0:10:03.98,Default,,0,0,0,,Bukankah itu adab?
+Dialogue: 0,0:10:10.49,0:10:12.70,Default,,0,0,0,,Apa pekerjaan awak?
+Dialogue: 0,0:10:14.49,0:10:18.24,Default,,0,0,0,,Saya bekerja di hotel.\NSaya pekerja rencam.
+Dialogue: 0,0:10:18.58,0:10:19.70,Default,,0,0,0,,Mengejutkan.
+Dialogue: 0,0:10:20.66,0:10:21.66,Default,,0,0,0,,Kenapa?
+Dialogue: 0,0:10:22.50,0:10:24.96,Default,,0,0,0,,Saya tak sangka\Nawak pekerja pejabat biasa.
+Dialogue: 0,0:10:25.04,0:10:26.33,Default,,0,0,0,,Awak tak sangka?
+Dialogue: 0,0:10:26.42,0:10:28.55,Default,,0,0,0,,Sebab awak selalu datang ke sini.
+Dialogue: 0,0:10:30.00,0:10:31.92,Default,,0,0,0,,Sebab saya bekerja mengikut syif.
+Dialogue: 0,0:10:32.01,0:10:33.55,Default,,0,0,0,,Ada syif pagi dan malam.
+Dialogue: 0,0:10:33.93,0:10:35.89,Default,,0,0,0,,Tak banyak beza dengan kedai runcit.
+Dialogue: 0,0:10:39.81,0:10:42.77,Default,,0,0,0,,Awak memang pandai melukis?
+Dialogue: 0,0:10:43.69,0:10:45.98,Default,,0,0,0,,Saya tak pasti,
+Dialogue: 0,0:10:47.02,0:10:49.61,Default,,0,0,0,,tapi kakak saya selalu puji saya.
+Dialogue: 0,0:10:50.40,0:10:51.99,Default,,0,0,0,,Jika begitu, awak pasti sangat bagus.
+Dialogue: 0,0:10:52.74,0:10:55.24,Default,,0,0,0,,Cik Matsuki,\Ntolong jaga mesin daftar tunai.
+Dialogue: 0,0:10:55.32,0:10:56.32,Default,,0,0,0,,Saya datang!
+Dialogue: 0,0:10:59.83,0:11:00.95,Default,,0,0,0,,Jumpa lagi.
+Dialogue: 0,0:11:08.38,0:11:10.38,Default,,0,0,0,,(DETEKTIF PEMBUNUH)
+Dialogue: 0,0:11:10.75,0:11:12.09,Default,,0,0,0,,Saya rasa…
+Dialogue: 0,0:11:12.17,0:11:14.34,Default,,0,0,0,,Awak baru saja beli, bukan?
+Dialogue: 0,0:11:14.42,0:11:16.72,Default,,0,0,0,,Kenapa bertambah setiap hari?
+Dialogue: 0,0:11:17.34,0:11:21.22,Default,,0,0,0,,Awak masih lagi suka benda comel.
+Dialogue: 0,0:11:22.89,0:11:26.98,Default,,0,0,0,,Awak ingat? Seperti yang dijangka\Ndaripada Senior Sara.
+Dialogue: 0,0:11:27.85,0:11:29.52,Default,,0,0,0,,Hei, Ikuro.
+Dialogue: 0,0:11:30.73,0:11:33.11,Default,,0,0,0,,Bukankah saya dah kata jangan sentuh?
+Dialogue: 0,0:11:33.19,0:11:36.20,Default,,0,0,0,,Cik Koshiba, di mana awak beli?
+Dialogue: 0,0:11:36.91,0:11:39.74,Default,,0,0,0,,Di kedai runcit yang saya suka.
+Dialogue: 0,0:11:39.82,0:11:41.66,Default,,0,0,0,,Kedai dengan papan tanda comel.
+Dialogue: 0,0:11:46.83,0:11:48.46,Default,,0,0,0,,(ROTI DAGING YANG SEDAP)\NMaaf, saya perlu jawab panggilan ini.
+Dialogue: 0,0:11:50.92,0:11:51.92,Default,,0,0,0,,Ya.
+Dialogue: 0,0:12:18.40,0:12:19.95,Default,,0,0,0,,(TIADA TANDA-TANDA VITAL)
+Dialogue: 0,0:12:26.62,0:12:30.00,Default,,0,0,0,,(DIARI BERGAMBAR)
+Dialogue: 0,0:12:31.88,0:12:34.05,Default,,0,0,0,,(HOTEL INHUMANS)\NHotel Inhumans.
+Dialogue: 0,0:12:41.47,0:12:42.68,Default,,0,0,0,,Saya pergi dulu.
+Dialogue: 0,0:12:46.31,0:12:49.23,Default,,0,0,0,,(KEDAI RUNCIT PARL 8,\NFESTIVAL PENCUCI MULUT)
+Dialogue: 0,0:12:53.48,0:12:54.73,Default,,0,0,0,,Selamat datang!
+Dialogue: 0,0:12:58.78,0:13:01.70,Default,,0,0,0,,(ROTI DAGING YANG SEDAP)
+Dialogue: 0,0:13:05.83,0:13:07.12,Default,,0,0,0,,Sejuknya.
+Dialogue: 0,0:13:19.72,0:13:21.76,Default,,0,0,0,,Koshiba?
+Dialogue: 0,0:13:25.60,0:13:27.35,Default,,0,0,0,,Awak datang lagi.
+Dialogue: 0,0:13:27.43,0:13:29.68,Default,,0,0,0,,Rafel dah berakhir.
+Dialogue: 0,0:13:30.69,0:13:32.19,Default,,0,0,0,,Memandangkan dah berakhir,
+Dialogue: 0,0:13:32.27,0:13:34.73,Default,,0,0,0,,saya nak bayar balik duit\Nyang saya pinjam.
+Dialogue: 0,0:13:35.11,0:13:36.27,Default,,0,0,0,,Begitu.
+Dialogue: 0,0:13:36.77,0:13:41.32,Default,,0,0,0,,Semuanya dah berakhir untuk saya juga.
+Dialogue: 0,0:13:43.32,0:13:46.12,Default,,0,0,0,,Saya baru saja bakar mayat kakak saya.
+Dialogue: 0,0:13:46.49,0:13:47.74,Default,,0,0,0,,Nampak? Saya pakai baju berkabung.
+Dialogue: 0,0:13:47.83,0:13:49.29,Default,,0,0,0,,Topik yang kekok, bukan?
+Dialogue: 0,0:13:50.58,0:13:52.54,Default,,0,0,0,,Saya akan rosakkan suasana.
+Dialogue: 0,0:13:57.05,0:13:58.46,Default,,0,0,0,,Tak mengapa.
+Dialogue: 0,0:13:58.92,0:14:02.30,Default,,0,0,0,,Saya tahu nyawanya tak panjang.
+Dialogue: 0,0:14:02.38,0:14:04.05,Default,,0,0,0,,Saya dah bersedia.
+Dialogue: 0,0:14:04.80,0:14:08.14,Default,,0,0,0,,Namun selepas pembakaran mayat,\Nketika saya pulang,
+Dialogue: 0,0:14:09.68,0:14:12.06,Default,,0,0,0,,saya rasa kosong.
+Dialogue: 0,0:14:13.27,0:14:15.77,Default,,0,0,0,,Dia kerap keluar masuk hospital.
+Dialogue: 0,0:14:16.48,0:14:18.52,Default,,0,0,0,,Mengemas pakaian untuk penginapannya,
+Dialogue: 0,0:14:18.61,0:14:20.28,Default,,0,0,0,,menguruskan ubat-ubatannya dan sebagainya.
+Dialogue: 0,0:14:20.82,0:14:24.11,Default,,0,0,0,,Sekarang saya tak perlu buat apa-apa,
+Dialogue: 0,0:14:24.20,0:14:26.74,Default,,0,0,0,,saya rasa buntu.
+Dialogue: 0,0:14:27.95,0:14:32.54,Default,,0,0,0,,Saya mahu kekal aktif,\Nsebab itulah saya datang ke tempat kerja.
+Dialogue: 0,0:14:35.08,0:14:36.42,Default,,0,0,0,,(ANDA ADA SATU MESEJ BARU)
+Dialogue: 0,0:14:43.93,0:14:46.22,Default,,0,0,0,,(DIARI BERGAMBAR)
+Dialogue: 0,0:14:50.22,0:14:51.64,Default,,0,0,0,,Koshiba.
+Dialogue: 0,0:14:53.60,0:14:56.06,Default,,0,0,0,,Awak tak perlu bayar balik.
+Dialogue: 0,0:14:56.15,0:14:59.52,Default,,0,0,0,,Sebagai ganti, saya nak minta tolong.
+Dialogue: 0,0:15:00.78,0:15:01.82,Default,,0,0,0,,Pantai.
+Dialogue: 0,0:15:02.65,0:15:03.49,Default,,0,0,0,,Pantai?
+Dialogue: 0,0:15:03.78,0:15:05.91,Default,,0,0,0,,Bawa saya ke pantai.
+Dialogue: 0,0:15:18.25,0:15:19.46,Default,,0,0,0,,Mari pergi.
+Dialogue: 0,0:15:50.91,0:15:53.58,Default,,0,0,0,,Kenapa pantai?
+Dialogue: 0,0:15:54.29,0:15:57.12,Default,,0,0,0,,Apa? Saya tak dengar!
+Dialogue: 0,0:15:58.79,0:16:02.30,Default,,0,0,0,,Saya tanya, kenapa pantai?
+Dialogue: 0,0:16:02.80,0:16:04.84,Default,,0,0,0,,Angin yang sangat nyaman!
+Dialogue: 0,0:16:06.59,0:16:09.47,Default,,0,0,0,,Awak dengar?
+Dialogue: 0,0:16:11.47,0:16:12.97,Default,,0,0,0,,Diari bergambar.
+Dialogue: 0,0:16:14.31,0:16:15.47,Default,,0,0,0,,Saya tak dengar!
+Dialogue: 0,0:16:16.06,0:16:17.39,Default,,0,0,0,,Diari bergambar!
+Dialogue: 0,0:16:18.64,0:16:21.11,Default,,0,0,0,,Semasa kami kecil, saya dan kakak saya
+Dialogue: 0,0:16:21.19,0:16:23.57,Default,,0,0,0,,bertukar-tukar diari bergambar.
+Dialogue: 0,0:16:24.32,0:16:27.74,Default,,0,0,0,,Namun berakhir\Npada hari kami pergi ke pantai.
+Dialogue: 0,0:16:29.66,0:16:34.08,Default,,0,0,0,,Saya nak ingat punca berakhir di situ.
+Dialogue: 0,0:16:35.91,0:16:36.91,Default,,0,0,0,,Nasib baik!
+Dialogue: 0,0:16:37.33,0:16:38.33,Default,,0,0,0,,Maaf!
+Dialogue: 0,0:16:38.41,0:16:40.46,Default,,0,0,0,,Jadi sebab itu awak nak pergi ke pantai?
+Dialogue: 0,0:16:40.79,0:16:42.67,Default,,0,0,0,,Sebab awak tak boleh tanya dia
+Dialogue: 0,0:16:42.75,0:16:44.71,Default,,0,0,0,,tentang diari bergambar itu lagi?
+Dialogue: 0,0:16:45.42,0:16:46.51,Default,,0,0,0,,Mungkin.
+Dialogue: 0,0:16:49.80,0:16:53.55,Default,,0,0,0,,Apa-apa pun, saya terkejut awak setuju
+Dialogue: 0,0:16:53.97,0:16:56.52,Default,,0,0,0,,untuk pergi ke pantai\Npada tengah malam begini.
+Dialogue: 0,0:16:56.60,0:16:58.52,Default,,0,0,0,,Biasanya orang akan menolak.
+Dialogue: 0,0:16:58.60,0:17:00.81,Default,,0,0,0,,Saya cuma membalas budi.
+Dialogue: 0,0:17:01.52,0:17:06.44,Default,,0,0,0,,Lagipun, awak tahu ini tak normal.
+Dialogue: 0,0:17:09.49,0:17:10.70,Default,,0,0,0,,Awak memang pelik.
+Dialogue: 0,0:17:18.79,0:17:20.50,Default,,0,0,0,,(DETEKTIF PEMBUNUH,\NPENGESYORAN STAF: RAFEL WATAK)\NSebab papan tanda itu comel.
+Dialogue: 0,0:17:22.17,0:17:25.34,Default,,0,0,0,,Saya ada kelemahan dengan benda comel.
+Dialogue: 0,0:17:25.42,0:17:27.51,Default,,0,0,0,,Apa yang saya patut buat?
+Dialogue: 0,0:17:29.51,0:17:30.84,Default,,0,0,0,,Awak…
+Dialogue: 0,0:17:30.93,0:17:32.64,Default,,0,0,0,,Jangan dengar
+Dialogue: 0,0:17:32.72,0:17:33.89,Default,,0,0,0,,perkara yang saya nak cakap.
+Dialogue: 0,0:17:35.93,0:17:38.98,Default,,0,0,0,,Apa? Saya langsung tak dengar.
+Dialogue: 0,0:17:41.69,0:17:44.52,Default,,0,0,0,,Nama kakak saya ialah Mitsuru.
+Dialogue: 0,0:17:45.77,0:17:48.23,Default,,0,0,0,,Dia sangat mahir melukis.
+Dialogue: 0,0:17:49.82,0:17:51.07,Default,,0,0,0,,Saya dah pulang!
+Dialogue: 0,0:17:51.53,0:17:53.11,Default,,0,0,0,,Kakak!
+Dialogue: 0,0:17:54.66,0:17:56.37,Default,,0,0,0,,Tengok! Saya dapat
+Dialogue: 0,0:17:56.45,0:17:58.58,Default,,0,0,0,,tempat kedua dalam pertandingan melukis!
+Dialogue: 0,0:18:03.29,0:18:04.71,Default,,0,0,0,,Baguslah!
+Dialogue: 0,0:18:04.79,0:18:07.71,Default,,0,0,0,,Namun saya tetap kalah\Nsebab awak dapat tempat pertama.
+Dialogue: 0,0:18:07.80,0:18:10.63,Default,,0,0,0,,Bukankah saya kata tiada yang menang\Natau kalah dalam melukis?
+Dialogue: 0,0:18:10.72,0:18:12.68,Default,,0,0,0,,Jika pemenang yang cakap begitu,
+Dialogue: 0,0:18:12.76,0:18:14.55,Default,,0,0,0,,kedengaran seperti sindiran.
+Dialogue: 0,0:18:14.64,0:18:15.64,Default,,0,0,0,,Yakah?
+Dialogue: 0,0:18:15.72,0:18:17.39,Default,,0,0,0,,Ya.
+Dialogue: 0,0:18:19.77,0:18:22.14,Default,,0,0,0,,Saya paling suka lukisan awak.
+Dialogue: 0,0:18:24.44,0:18:26.40,Default,,0,0,0,,Teruskan melukis, okey?
+Dialogue: 0,0:18:37.83,0:18:39.16,Default,,0,0,0,,(PUISI HOZUKI)
+Dialogue: 0,0:18:42.25,0:18:44.25,Default,,0,0,0,,(MUKA DEPAN, ILUSTRASI, MITSURU MATSUKI)
+Dialogue: 0,0:18:46.04,0:18:47.63,Default,,0,0,0,,Saya akan buat yang terbaik juga.
+Dialogue: 0,0:18:50.80,0:18:53.38,Default,,0,0,0,,Kakak, telefon awak berdering.
+Dialogue: 0,0:18:57.60,0:18:58.80,Default,,0,0,0,,Kakak.
+Dialogue: 0,0:19:08.19,0:19:11.65,Default,,0,0,0,,Paling lama dua tahun atau kurang jika…
+Dialogue: 0,0:19:13.44,0:19:15.11,Default,,0,0,0,,Sejak musim panas itu,
+Dialogue: 0,0:19:15.20,0:19:18.37,Default,,0,0,0,,kakak saya selalu berulang-alik\Nantara rumah dan hospital.
+Dialogue: 0,0:19:34.13,0:19:36.72,Default,,0,0,0,,Simpanan kami semakin berkurangan.
+Dialogue: 0,0:19:37.51,0:19:40.55,Default,,0,0,0,,Saya mula bekerja sambilan.
+Dialogue: 0,0:19:46.60,0:19:49.19,Default,,0,0,0,,Sekolah, kerja, menjaga.
+Dialogue: 0,0:19:49.27,0:19:51.48,Default,,0,0,0,,Sekolah, kerja, menjaga.
+Dialogue: 0,0:19:52.19,0:19:54.24,Default,,0,0,0,,Di tengah-tengah semua itu, saya…
+Dialogue: 0,0:20:18.43,0:20:22.72,Default,,0,0,0,,Mulai tahun ini,\Nkeadaan kakak saya semakin teruk.
+Dialogue: 0,0:20:37.03,0:20:38.15,Default,,0,0,0,,Apa?
+Dialogue: 0,0:20:39.99,0:20:42.70,Default,,0,0,0,,Ini mungkin kali terakhir\Nsaya akan pulang ke rumah?
+Dialogue: 0,0:20:42.78,0:20:47.79,Default,,0,0,0,,Ini mungkin kali terakhir\Nsaya akan pulang ke rumah?
+Dialogue: 0,0:21:07.85,0:21:10.85,Default,,0,0,0,,Koshiba, terima kasih\Nsebab pura-pura tak dengar.
+Dialogue: 0,0:21:11.60,0:21:12.48,Default,,0,0,0,,Apa yang awak cakap?
+Dialogue: 0,0:21:19.20,0:21:21.36,Default,,0,0,0,,Saya akan belanja awak kopi.
+Dialogue: 0,0:21:26.91,0:21:28.41,Default,,0,0,0,,Senior Sara.
+Dialogue: 0,0:21:28.50,0:21:31.12,Default,,0,0,0,,Terima kasih\Nkerana gantikan syif malam saya.
+Dialogue: 0,0:21:34.25,0:21:36.46,Default,,0,0,0,,Saya serahkan kepada awak, Koshiba.
+Dialogue: 0,0:21:57.02,0:22:00.03,Default,,0,0,0,,(DIARI MOTOSIKAL, AKAN BERSAMBUNG)
+Dialogue: 0,0:23:30.03,0:23:34.96,Default,,0,0,0,,(SETERUSNYA,\NPERMINTAAN 21: DIARI MOTOSIKAL BAHAGIAN 2)
+
