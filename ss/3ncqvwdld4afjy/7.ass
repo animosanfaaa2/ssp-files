@@ -1,0 +1,427 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Bold,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,0,0,20,1
+Style: Internal,Arial Bold,23,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,2,0,0,20,0
+Style: Top,Arial Bold,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,8,0,0,20,1
+Style: Top Internal,Arial Bold,23,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,8,0,0,20,1
+Style: Overlap,Arial Bold,23,&H00F3EDE3,&H000000FF,&H00362B17,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,0,0,20,0
+Style: Flashback,Arial Bold,23,&H00F7ECEB,&H000000FF,&H004D0701,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,0,0,20,0
+Style: Flashback Internal,Arial Bold,23,&H00F7ECEB,&H000000FF,&H004D0701,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,2,0,0,20,0
+Style: TypePlaceholder,Arial Bold,19,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.27,0:00:04.94,TypePlaceholder,,0,0,0,,{\fad(450,0)\an9\fnGeorgia\fs28\c&HFFFFFF&\3c&H000000&\4c&H000000&\bord1.2\shad0.2\blur0.55\pos(555,33)\b1}1. Hälfte, 6. Inning
+Dialogue: 0,0:00:04.94,0:00:06.90,Internal,Yoichi,0,0,0,,Der Shortstop steht zu Base zwei hin.
+Dialogue: 0,0:00:07.26,0:00:09.29,Internal,Miyuki,0,0,0,,Die Infielder stehen mittig.
+Dialogue: 0,0:00:09.29,0:00:10.87,Internal,Miyuki,0,0,0,,Die machen auch bei Base eins zu.
+Dialogue: 0,0:00:10.87,0:00:12.70,Internal,Miyuki,0,0,0,,Bis die zwei Strikes haben, …
+Dialogue: 0,0:00:13.06,0:00:14.83,Internal,Miyuki,0,0,0,,ignoriere ich tiefe Pitches.
+Dialogue: 0,0:00:15.18,0:00:17.79,Default,Kommentator,0,0,0,,Ein Out,\NRunner auf eins und drei.
+Dialogue: 0,0:00:17.79,0:00:19.86,Default,Kommentator,0,0,0,,Der wichtige erste Pitch!
+Dialogue: 0,0:00:23.00,0:00:25.46,Default,Kommentator,0,0,0,,Er kommt innen und ist vorbei.\NEin Ball!
+Dialogue: 0,0:00:25.46,0:00:29.92,Default,Kawabata,0,0,0,,Direkt nachdem er Shirase traf,\Nein Cutter nach innen.
+Dialogue: 0,0:00:29.92,0:00:33.29,Top Internal,Mei,0,0,0,,Darüber bist du wohl überrascht.
+Dialogue: 0,0:00:33.29,0:00:35.56,Top Internal,Miyuki,0,0,0,,Das hatte ich nicht erwartet.
+Dialogue: 0,0:00:35.99,0:00:37.60,Top Internal,Mei,0,0,0,,Wie ist es dann damit?
+Dialogue: 0,0:00:39.48,0:00:41.69,Default,Kommentator,0,0,0,,Pitch zwei ist\Nein Fastball nach außen!
+Dialogue: 0,0:00:41.69,0:00:44.30,Internal,Mei,0,0,0,,Du kommst also mit!
+Dialogue: 0,0:00:48.44,0:00:52.46,Internal,Mei,0,0,0,,Ich fand dich interessant,\Nseit wir uns das erste Mal trafen.
+Dialogue: 0,0:00:58.72,0:01:00.37,Internal,Mei,0,0,0,,Alle anderen Batter schlugen
+Dialogue: 0,0:01:00.37,0:01:04.01,Internal,Mei,0,0,0,,gleich von Anfang an\Nmit voller Wucht drauf.
+Dialogue: 0,0:01:04.01,0:01:06.25,Internal,Mei,0,0,0,,Nur du warst anders.
+Dialogue: 0,0:01:06.25,0:01:09.29,Flashback Internal,Mei,0,0,0,,Eben konntest du nicht\Ndiesen Wurf treffen.
+Dialogue: 0,0:01:09.29,0:01:11.22,Flashback Internal,Mei,0,0,0,,Der liegt dir wohl nicht.
+Dialogue: 0,0:01:15.72,0:01:16.65,Flashback,Mei,0,0,0,,He!
+Dialogue: 0,0:01:17.03,0:01:20.57,Flashback,Mei,0,0,0,,Der erste Pitch beim dritten At Bat.\NHattest du es auf den abgesehen?
+Dialogue: 0,0:01:20.57,0:01:23.85,Flashback,Mei,0,0,0,,Ist lange her, dass jemand den\Nso klar zurückgehauen hat.
+Dialogue: 0,0:01:23.85,0:01:25.80,Flashback,Miyuki,0,0,0,,Sag ich nicht.
+Dialogue: 0,0:01:25.80,0:01:28.41,Flashback,Miyuki,0,0,0,,War ja die Schwachstelle\Neines zukünftigen Gegners.
+Dialogue: 0,0:01:28.41,0:01:30.82,Flashback,Mei,0,0,0,,Schwachstelle? Wie bitte?!
+Dialogue: 0,0:01:30.82,0:01:33.29,Flashback,Mei,0,0,0,,Das kann ich nicht ignorieren!
+Dialogue: 0,0:01:33.29,0:01:35.29,Flashback,Mei,0,0,0,,Bleib stehen!
+Dialogue: 0,0:01:35.29,0:01:38.99,Internal,Mei,0,0,0,,Da traf ich Kazuya zum ersten Mal.
+Dialogue: 0,0:03:09.67,0:03:13.80,TypePlaceholder,,0,0,0,,{\fnGeorgia\fs32\an3\pos(609,293)\bord2.2\shad1.5\c&HFFFFFF&\3c&H000000&\4c&H000000&\b1}– Das verehrte Team –
+Dialogue: 0,0:03:12.59,0:03:16.58,Top,Kommentator,0,0,0,,Der Catcher hat den Ball\Nfallen lassen und Shirase ist los!
+Dialogue: 0,0:03:16.58,0:03:19.72,Default,Kommentator,0,0,0,,Er kann nicht werfen!\NRunner auf Base zwei!
+Dialogue: 0,0:03:19.72,0:03:21.24,Default,Kawakami,0,0,0,,Ja!
+Dialogue: 0,0:03:21.24,0:03:22.72,Default,Yamaguchi,0,0,0,,Sauber, Shirase!
+Dialogue: 0,0:03:22.72,0:03:24.06,Internal,Tadano,0,0,0,,Tut mir leid.
+Dialogue: 0,0:03:24.06,0:03:28.52,Internal,Mei,0,0,0,,Ist egal. Der darf nur nicht\Nden Ball treffen.
+Dialogue: 0,0:03:28.96,0:03:31.40,Default,Kommentator,0,0,0,,Das Outfield geht weiter vor.
+Dialogue: 0,0:03:41.66,0:03:43.62,Internal,Yo,0,0,0,,Hau ihn weg!
+Dialogue: 0,0:03:43.62,0:03:45.83,Internal,Shirase,0,0,0,,Das ist deine Aufgabe!
+Dialogue: 0,0:03:45.83,0:03:49.29,Default,Sawamura,0,0,0,,Das Finale der Flammen!\NDer Captain ist die Nummer eins!
+Dialogue: 0,0:03:49.60,0:03:53.30,Internal,Miyuki,0,0,0,,Der Count ist 2-1.\NDa greift Mei sicher an.
+Dialogue: 0,0:03:56.48,0:03:58.57,Flashback,Miyuki,0,0,0,,Ich will zu Seidō gehen.
+Dialogue: 0,0:03:58.57,0:04:02.27,Flashback,Miyuki,0,0,0,,Ich will in einem starken Team\Nmit tollen Spielern Baseball spielen.
+Dialogue: 0,0:04:02.27,0:04:03.72,Flashback,Miyuki,0,0,0,,Und irgendwann …
+Dialogue: 0,0:04:04.10,0:04:05.42,Flashback,Miyukis Vater,0,0,0,,Nicht Inashiro?
+Dialogue: 0,0:04:05.42,0:04:09.69,Flashback,Miyuki,0,0,0,,Nein. Auch Kinder haben\Nso ihre Gründe.
+Dialogue: 0,0:04:30.39,0:04:33.59,Internal,Mei,0,0,0,,Wir beide tragen jetzt\Nso viel Verantwortung.
+Dialogue: 0,0:04:34.24,0:04:38.80,Internal,Mei,0,0,0,,Entscheiden wir es jetzt,\Nwessen Überzeugung stärker ist.
+Dialogue: 0,0:04:38.80,0:04:41.31,Internal,Miyuki,0,0,0,,Er entscheidet es\Nmit dem Changeup.
+Dialogue: 0,0:04:42.05,0:04:44.22,Internal,Miyuki,0,0,0,,Oder, Mei?
+Dialogue: 0,0:04:47.52,0:04:50.19,Internal,Tadano,0,0,0,,Ich stoppe ihn,\Nauch wenn er aufspringt.
+Dialogue: 0,0:04:50.87,0:04:52.65,Internal,Tadano,0,0,0,,Greifen wir mit engem Kurs an.
+Dialogue: 0,0:04:56.44,0:04:59.40,Internal,Miyuki,0,0,0,,Nicht die Brust öffnen.\NMit dem ganzen Körper ran.
+Dialogue: 0,0:04:59.40,0:05:03.24,Internal,Miyuki,0,0,0,,Ich habe stets in Gedanken trainiert,\Nwie ich diesen Ball schlage.
+Dialogue: 0,0:05:09.13,0:05:11.87,Default,Kommentator,0,0,0,,Er hat den tiefen Changeup\Nhochgeschlagen!
+Dialogue: 0,0:05:13.54,0:05:15.00,Default,Tadano,0,0,0,,Right Field!
+Dialogue: 0,0:05:15.00,0:05:15.84,Internal,Tadano,0,0,0,,Der war doch so tief.
+Dialogue: 0,0:05:16.63,0:05:18.30,Default,Satome,0,0,0,,Er war schon weit abgesunken.
+Dialogue: 0,0:05:18.30,0:05:20.51,Internal,Ezaki,0,0,0,,War nur die Schlägerspitze.\NKeine Kraft.
+Dialogue: 0,0:05:21.47,0:05:24.42,Default,Kono,0,0,0,,Kuramochi! Touchup!\NWarte, bis der fällt!
+Dialogue: 0,0:05:24.42,0:05:27.77,Default,Kommentator,0,0,0,,Kommen die Spieler von Base zwei\Nund dem Right Field ran?
+Dialogue: 0,0:05:35.61,0:05:39.59,Default,Kommentator,0,0,0,,Der Runner kommt nach Hause!\NSie gleichen aus!
+Dialogue: 0,0:05:39.59,0:05:44.44,Default,Kommentator,0,0,0,,Das ist Batter 4! Ein goldener Schlag\Ngegen Ass Mei Narumiya!
+Dialogue: 0,0:05:44.44,0:05:48.49,Default,Kommentator,0,0,0,,Ein tolles RBI\Nfür ihren ersten Run!
+Dialogue: 0,0:05:48.49,0:05:50.45,Default,Sawamura,0,0,0,,Ja! Super!
+Dialogue: 0,0:05:59.05,0:06:01.90,Flashback,Miyuki,0,0,0,,Sie haben mich\Nals Erstes eingeladen,
+Dialogue: 0,0:06:01.90,0:06:04.18,Flashback,Miyuki,0,0,0,,aber sie haben auch\Ntolle Einrichtungen
+Dialogue: 0,0:06:04.18,0:06:09.22,Flashback,Miyuki,0,0,0,,und einen großen Platz.\NIch wähle Seidō also mit gutem Grund.
+Dialogue: 0,0:06:10.12,0:06:14.19,Flashback,Miyuki,0,0,0,,Wobei du dann allein sein wirst,\Nweil ich in das Wohnheim ziehe.
+Dialogue: 0,0:06:17.23,0:06:21.57,Flashback,Miyuki,0,0,0,,Profi? Ja, ich will\Nunbedingt Profi werden.
+Dialogue: 0,0:06:21.90,0:06:24.34,Flashback,Miyuki,0,0,0,,Ich will mit Baseball\Nmeinen Lebensunterhalt verdienen
+Dialogue: 0,0:06:24.34,0:06:26.53,Flashback,Miyuki,0,0,0,,und mich bei meinem Vater,\Nder mich frei gewähren ließ,
+Dialogue: 0,0:06:26.53,0:06:29.49,Flashback,Miyuki,0,0,0,,für alles revanchieren.
+Dialogue: 0,0:06:29.75,0:06:33.46,Default,Sawamura,0,0,0,,Sauberer Schlag vom Captain!\NDarauf habe ich gewartet!
+Dialogue: 0,0:06:33.87,0:06:35.25,Default,Sawamura,0,0,0,,Okumura!
+Dialogue: 0,0:06:36.84,0:06:39.15,Default,Sawamura,0,0,0,,Es hat begonnen!
+Dialogue: 0,0:06:39.15,0:06:41.22,Default,Sawamura,0,0,0,,Das Spiel ist offen!
+Dialogue: 0,0:06:43.27,0:06:45.29,Default,Sawamura,0,0,0,,Mach es, Zono!
+Dialogue: 0,0:06:48.01,0:06:49.72,Default,Mei,0,0,0,,Itsuki!
+Dialogue: 0,0:06:49.72,0:06:52.72,Default,Mei,0,0,0,,Wenn der den Pitch trifft,\Nkönnen wir nichts machen!
+Dialogue: 0,0:06:52.72,0:06:53.93,Default,Mei,0,0,0,,Schalten wir um!
+Dialogue: 0,0:06:54.45,0:06:55.78,Internal,Tadano,0,0,0,,Mei …
+Dialogue: 0,0:06:56.15,0:06:58.38,Default,Mei,0,0,0,,Das war nicht meine Schuld!
+Dialogue: 0,0:06:58.38,0:07:01.10,Default,Tadano,0,0,0,,Ja, das stimmt.\NSchalten wir um.
+Dialogue: 0,0:07:01.10,0:07:03.07,Default,Ezaki,0,0,0,,Mei! Ein Out!
+Dialogue: 0,0:07:03.07,0:07:04.78,Default,Fukui,0,0,0,,Einen nach dem anderen.
+Dialogue: 0,0:07:04.78,0:07:06.35,Default,Yamaoka,0,0,0,,Ein Out!
+Dialogue: 0,0:07:06.35,0:07:07.74,Internal,Miyuki,0,0,0,,Du beendest es nicht.
+Dialogue: 0,0:07:10.47,0:07:14.90,Internal,Tadano,0,0,0,,Mei ist von dem Changeup überzeugt\Nund der wurde ins Outfield geschlagen.
+Dialogue: 0,0:07:14.90,0:07:17.08,Internal,Tadano,0,0,0,,Natürlich ist er nicht in Ordnung.
+Dialogue: 0,0:07:17.43,0:07:19.71,Default,Kommentator,0,0,0,,Erneut ein Out und Runner\Nauf Base eins und zwei.
+Dialogue: 0,0:07:19.71,0:07:22.05,Default,Kommentator,0,0,0,,Kann Seido auf einen Schlag\Nin Führung gehen?
+Dialogue: 0,0:07:23.76,0:07:25.38,Default,Higasa,0,0,0,,Mach weiter, Zono!
+Dialogue: 0,0:07:25.38,0:07:26.97,Default,Nakata,0,0,0,,Jetzt ist die Zeit, zu glänzen!
+Dialogue: 0,0:07:27.39,0:07:30.95,Default,Kommentator,0,0,0,,Am Schlag ist Batter 5,\NKenta Maezono.
+Dialogue: 0,0:07:31.31,0:07:33.04,Internal,Miyuki,0,0,0,,Lass ihnen keine Luft zum Atmen.
+Dialogue: 0,0:07:33.04,0:07:34.67,Internal,Shirase,0,0,0,,Erledigen wir sie!
+Dialogue: 0,0:07:34.67,0:07:38.02,Internal,Zono,0,0,0,,Ob jetzt noch ein Run kommt\Noder nicht,
+Dialogue: 0,0:07:38.02,0:07:40.90,Internal,Zono,0,0,0,,entscheidet den weiteren Verlauf\Ndes Spiels.
+Dialogue: 0,0:07:40.90,0:07:43.80,Internal,Tadano,0,0,0,,Er schlägt\Nab dem ersten Pitch zu.
+Dialogue: 0,0:07:43.80,0:07:46.23,Internal,Tadano,0,0,0,,Gehen wir mit einem Cutter\Nauf das Double Play.
+Dialogue: 0,0:07:46.95,0:07:48.25,Internal,Mei,0,0,0,,Ja.
+Dialogue: 0,0:07:48.64,0:07:52.08,Internal,Mei,0,0,0,,Ich kann mich hiernach\Nauch noch ärgern.
+Dialogue: 0,0:07:52.08,0:07:55.54,TypePlaceholder,,0,0,0,,{\an2\fnGeorgia\fs28\pos(320,55)\3c&HFFFEFF&\bord2\blur1\b1}Der Frosch im Brunnen
+Dialogue: 0,0:07:52.96,0:07:55.13,Internal,Zono,0,0,0,,Der Frosch im Brunnen.
+Dialogue: 0,0:07:55.91,0:07:58.07,Internal,Zono,0,0,0,,Ich merkte erst, dass ich das war,
+Dialogue: 0,0:07:58.07,0:07:59.74,Internal,Zono,0,0,0,,als ich herkam.
+Dialogue: 0,0:08:00.24,0:08:01.79,Internal,Zono,0,0,0,,Ich wusste gar nichts
+Dialogue: 0,0:08:01.79,0:08:03.55,Internal,Zono,0,0,0,,und war ein dummer Bengel.
+Dialogue: 0,0:08:03.86,0:08:06.30,Flashback,Zono,0,0,0,,Hä? Tokyo?
+Dialogue: 0,0:08:06.30,0:08:09.51,Flashback,Trainer,0,0,0,,Ich kenne viele in Seidō\Nund kann dich vorstellen.
+Dialogue: 0,0:08:09.51,0:08:11.23,Flashback,Zono,0,0,0,,Tokyo?
+Dialogue: 0,0:08:11.23,0:08:12.72,Flashback,Zono,0,0,0,,Das ist weit weg.
+Dialogue: 0,0:08:12.72,0:08:17.02,Internal,Zono,0,0,0,,Keine der großen Schulen in Kansai\Nhatte mich eingeladen.
+Dialogue: 0,0:08:17.02,0:08:21.69,Internal,Zono,0,0,0,,Und trotzdem dachte ich,\Nich könnte in Tokyo was reißen.
+Dialogue: 0,0:08:21.69,0:08:23.42,Flashback,Higasa,0,0,0,,Was? Osaka?
+Dialogue: 0,0:08:23.42,0:08:24.51,Flashback,Zono,0,0,0,,Ja!
+Dialogue: 0,0:08:24.51,0:08:26.15,Flashback,Yamaguchi,0,0,0,,Bist ja echt motiviert.
+Dialogue: 0,0:08:26.15,0:08:31.66,Flashback,Zono,0,0,0,,Natürlich! Ich werde richtig was zeig’n\Nund im ersten Jahr Stammspieler wer’n!
+Dialogue: 0,0:08:33.04,0:08:34.76,Flashback Internal,Miyuki,0,0,0,,Voll der Dialekt.
+Dialogue: 0,0:08:34.76,0:08:36.58,Flashback Internal,Kuramochi,0,0,0,,Der nervt.
+Dialogue: 0,0:08:36.58,0:08:38.33,Internal,Zono,0,0,0,,Wie dumm ich war.
+Dialogue: 0,0:08:41.29,0:08:43.25,Default,Kitsuzawa,0,0,0,,Ein Squeeze!
+Dialogue: 0,0:08:46.51,0:08:48.42,Default,Kommentator,0,0,0,,Er rollt zu Base drei.
+Dialogue: 0,0:08:50.34,0:08:51.25,Default,Tadano,0,0,0,,Mei!
+Dialogue: 0,0:08:51.25,0:08:52.30,Internal,Tadano,0,0,0,,Deine Haltung.
+Dialogue: 0,0:09:05.19,0:09:06.62,Default,Kommentator,0,0,0,,Safe!
+Dialogue: 0,0:09:06.62,0:09:08.65,Default,Kommentator,0,0,0,,Seidō geht in Führung!
+Dialogue: 0,0:09:13.24,0:09:15.70,TypePlaceholder,,0,0,0,,{\fnGeorgia\fs20\b1\bord1.6\blur2\c&H412926&\3c&HFFFFFF&\move(512.5,104,512.5,157.5,21,2440)}Scheiß\Nde Wand an!
+Dialogue: 0,0:09:13.24,0:09:15.70,Default,Zono,0,0,0,,{\move(320,340,320,340,21,-21)}Scheiß de Wand an!
+Dialogue: 0,0:09:15.70,0:09:21.92,TypePlaceholder,,0,0,0,,{\fnGeorgia\fs18\b1\bord1.6\blur2\c&H412926&\3c&HFFFFFF&\move(583.5,66,635.5,66,21,6194)}Scheiß\Nde Wand an!
+Dialogue: 0,0:09:16.02,0:09:20.37,Top,Zono,0,0,0,,Da hast du es, du Mistkerl!
+Dialogue: 0,0:09:16.02,0:09:21.92,Default,Kommentator,0,0,0,,Nach dem ersten Run nutzte Maezono\Nmit dem Squeeze die Lücke der Verteidigung!
+Dialogue: 0,0:09:21.92,0:09:26.88,Default,Kommentator,0,0,0,,So hat er gegen Ass Narumiya\Nden zweiten Run geholt.
+Dialogue: 0,0:09:27.17,0:09:29.35,Default,Seido A,0,0,0,,Du hast es geschafft, Zono?
+Dialogue: 0,0:09:29.35,0:09:31.56,Default,Seido B,0,0,0,,Seit wann kannst du\Ndenn so was?
+Dialogue: 0,0:09:31.56,0:09:33.34,Default,Seido C,0,0,0,,Hast du heimlich trainiert?
+Dialogue: 0,0:09:33.34,0:09:35.05,Default,Sawamura,0,0,0,,Ja!
+Dialogue: 0,0:09:35.41,0:09:37.51,Default,Aso,0,0,0,,Sie haben gepunktet?
+Dialogue: 0,0:09:37.51,0:09:38.39,Default,Carlos,0,0,0,,Wir wurden erwischt.
+Dialogue: 0,0:09:38.39,0:09:40.60,Default,Seido D,0,0,0,,Sauber, Shirase!
+Dialogue: 0,0:09:39.61,0:09:42.10,Overlap,Seido E,0,0,0,,Das geht voll ab!
+Dialogue: 0,0:09:40.60,0:09:42.47,Default,Seido F,0,0,0,,Meine Hände zittern!
+Dialogue: 0,0:09:42.47,0:09:43.67,Default,Kunitomo,0,0,0,,Tadano.
+Dialogue: 0,0:09:44.44,0:09:47.56,Default,Kunitomo,0,0,0,,Fukui. Geh zu ihnen.\NBeruhige sie.
+Dialogue: 0,0:09:47.56,0:09:48.49,Default,Fukui,0,0,0,,Jawohl!
+Dialogue: 0,0:09:48.90,0:09:51.67,Default,Kommentator,0,0,0,,Inashiro nimmt eine Auszeit.
+Dialogue: 0,0:09:51.67,0:09:54.36,Default,Kommentator,0,0,0,,Captain Fukui aus Jahr drei\Nüberbringt eine Nachricht.
+Dialogue: 0,0:09:54.73,0:09:58.83,Default,Owada,0,0,0,,Sie haben direkt den zweiten Run\Ngeholt und es ist nur ein Out.
+Dialogue: 0,0:09:58.83,0:10:01.57,Default,Owada,0,0,0,,Seidō will es sicher\Njetzt entscheiden.
+Dialogue: 0,0:10:01.57,0:10:06.34,Default,Mine,0,0,0,,Ja. Ist wohl das erste Mal,\Ndass Inashiro im Turnier zurückliegt.
+Dialogue: 0,0:10:06.96,0:10:10.82,Default,Mine,0,0,0,,Sie waren der Meister, der immer\Nvon Anfang an Druck gemacht hat.
+Dialogue: 0,0:10:10.82,0:10:13.80,Default,Mine,0,0,0,,Sicher lange her,\Ndass sie so was erleben.
+Dialogue: 0,0:10:13.80,0:10:15.76,Default,Sawamura,0,0,0,,Gut, mach es jetzt, Furuya!
+Dialogue: 0,0:10:15.76,0:10:19.22,Default,Sawamura,0,0,0,,Hilf dir selbst aus\Nund hau ihn weg!
+Dialogue: 0,0:10:19.22,0:10:21.68,Default,Fukui,0,0,0,,Klären wir die Situation.
+Dialogue: 0,0:10:21.68,0:10:26.10,TypePlaceholder,,0,0,0,,{\fnTahoma\c&HDFDFDF&\an2\bord1.5\3c&H4C4430&\fs13\pos(219,107.5)}Seidō
+Dialogue: 0,0:10:21.68,0:10:26.10,TypePlaceholder,,0,0,0,,{\fnTahoma\c&HDFDFDF&\an1\bord1.5\3c&H504C3D&\fs11\pos(211,131.5)}Kuramochi
+Dialogue: 0,0:10:21.68,0:10:26.10,TypePlaceholder,,0,0,0,,{\fnTahoma\c&HDFDFDF&\an1\bord1.5\3c&H443D32&\fs11\pos(211,144.5)}Kominato
+Dialogue: 0,0:10:21.68,0:10:26.10,TypePlaceholder,,0,0,0,,{\fnTahoma\c&HDFDFDF&\an1\bord1.5\3c&H413C31&\fs11\pos(211,155.5)}Shirasu
+Dialogue: 0,0:10:21.68,0:10:26.10,TypePlaceholder,,0,0,0,,{\fnTahoma\c&HDFDFDF&\an1\bord1.5\3c&H3D3930&\fs11\pos(211,167.5)}Miyuki
+Dialogue: 0,0:10:21.68,0:10:26.10,TypePlaceholder,,0,0,0,,{\fnTahoma\c&HDFDFDF&\an1\bord1.5\3c&H38342C&\fs11\pos(211,180)}Maezono
+Dialogue: 0,0:10:21.68,0:10:26.10,TypePlaceholder,,0,0,0,,{\fnTahoma\c&HDFDFDF&\an1\bord1.5\3c&H35302A&\fs11\pos(211,192)}Furuya
+Dialogue: 0,0:10:21.68,0:10:26.10,TypePlaceholder,,0,0,0,,{\fnTahoma\c&HDFDFDF&\an1\bord1.5\3c&H35302A&\fs11\pos(211,204)}Tōjō
+Dialogue: 0,0:10:21.68,0:10:26.10,TypePlaceholder,,0,0,0,,{\fnTahoma\c&HDFDFDF&\an1\bord1.5\3c&H35302A&\fs11\pos(211,215.5)}Kanemaru
+Dialogue: 0,0:10:21.68,0:10:26.10,TypePlaceholder,,0,0,0,,{\fnTahoma\c&HDFDFDF&\an1\bord1.5\3c&H35302A&\fs11\pos(211,227.5)}Asō
+Dialogue: 0,0:10:21.68,0:10:26.10,TypePlaceholder,,0,0,0,,{\fnTahoma\c&HDFDFDF&\an2\bord1.5\3c&H554A2C&\fs13\pos(419.5,107.5)}Inashiro Industrial
+Dialogue: 0,0:10:21.68,0:10:26.10,TypePlaceholder,,0,0,0,,{\fnTahoma\c&HDFDFDF&\an1\bord1.5\3c&H5A5138&\fs11\pos(414,131)}Kamiya
+Dialogue: 0,0:10:21.68,0:10:26.10,TypePlaceholder,,0,0,0,,{\fnTahoma\c&HDFDFDF&\an1\bord1.5\3c&H4D4734&\fs11\pos(414,145.5)}Shirakawa
+Dialogue: 0,0:10:21.68,0:10:26.10,TypePlaceholder,,0,0,0,,{\fnTahoma\c&HDFDFDF&\an1\bord1.5\3c&H4B4331&\fs11\pos(414,156.5)}Saotome
+Dialogue: 0,0:10:21.68,0:10:26.10,TypePlaceholder,,0,0,0,,{\fnTahoma\c&HDFDFDF&\an1\bord1.5\3c&H474031&\fs11\pos(414,168.5)}Yamaoka
+Dialogue: 0,0:10:21.68,0:10:26.10,TypePlaceholder,,0,0,0,,{\fnTahoma\c&HDFDFDF&\an1\bord1.5\3c&H443D31&\fs11\pos(414,180.5)}Narumiya
+Dialogue: 0,0:10:21.68,0:10:26.10,TypePlaceholder,,0,0,0,,{\fnTahoma\c&HDFDFDF&\an1\bord1.5\3c&H434033&\fs11\pos(414,191.5)}Tadano
+Dialogue: 0,0:10:21.68,0:10:26.10,TypePlaceholder,,0,0,0,,{\fnTahoma\c&HDFDFDF&\an1\bord1.5\3c&H3E392D&\fs11\pos(414,203.5)}Yabe
+Dialogue: 0,0:10:21.68,0:10:26.10,TypePlaceholder,,0,0,0,,{\fnTahoma\c&HDFDFDF&\an1\bord1.5\3c&H3E362D&\fs11\pos(414,215.5)}Jingūji
+Dialogue: 0,0:10:21.68,0:10:26.10,TypePlaceholder,,0,0,0,,{\fnTahoma\c&HDFDFDF&\an1\bord1.5\3c&H3A372E&\fs11\pos(414,227.5)}Ezaki
+Dialogue: 0,0:10:21.68,0:10:26.10,Default,Fukui,0,0,0,,Erste Hälfte, sechstes Inning.\NEin Out und Runner auf Base eins und zwei.
+Dialogue: 0,0:10:26.10,0:10:28.76,Default,Fukui,0,0,0,,Als Nächstes kommt Furuya,\Nder Homeruns schlagen kann.
+Dialogue: 0,0:10:28.76,0:10:32.36,Default,Fukui,0,0,0,,Auch seinem Pitching nach\Ndürfen wir ihn heute nicht unterschätzen.
+Dialogue: 0,0:10:32.36,0:10:35.07,Default,Mei,0,0,0,,Ist mir klar.\NIch unterschätze ihn nicht.
+Dialogue: 0,0:10:35.07,0:10:38.29,Default,Fukui,0,0,0,,Klar.\NWollte es nur anmerken.
+Dialogue: 0,0:10:38.29,0:10:40.66,Default,Fukui,0,0,0,,Ich bin überzeugt,\Ndass ihr das schafft.
+Dialogue: 0,0:10:42.37,0:10:46.83,Default,Fukui,0,0,0,,Konzentrieren wir uns erst mal darauf,\Ngegen Furuya das Out zu holen.
+Dialogue: 0,0:10:46.83,0:10:49.68,Default,Fukui,0,0,0,,Keine Sorge.\NIch sehe bereits,
+Dialogue: 0,0:10:49.68,0:10:52.64,Default,Fukui,0,0,0,,wie ihr alle\Ndiese Krise übersteht
+Dialogue: 0,0:10:52.64,0:10:54.18,Default,Fukui,0,0,0,,und zur Bank zurückkommt.
+Dialogue: 0,0:10:55.51,0:10:57.32,Default,Mei,0,0,0,,Typischer Fukui-Spruch.
+Dialogue: 0,0:10:57.32,0:11:01.24,Default,Fukui,0,0,0,,Ja, tut mir leid.\NDa ist mein Fan-Wesen wohl rausgekommen.
+Dialogue: 0,0:11:01.24,0:11:02.47,Default,Mei,0,0,0,,Was soll das denn heißen?
+Dialogue: 0,0:11:02.73,0:11:05.75,Default,Fukui,0,0,0,,Gut, kämpfen wir!\NAuf unsere Weise!
+Dialogue: 0,0:11:05.75,0:11:07.44,Default,Spieler,0,0,0,,Ja!
+Dialogue: 0,0:11:13.69,0:11:18.06,Internal,Mei,0,0,0,,Fan?\NSo typisch für dich, Fukui.
+Dialogue: 0,0:11:18.74,0:11:21.48,Default,Mei,0,0,0,,Itsuki, so musst du das machen.
+Dialogue: 0,0:11:21.48,0:11:23.70,Default,Itsuki,0,0,0,,Jawohl!\NIch werde das weiter üben!
+Dialogue: 0,0:11:23.70,0:11:26.76,Internal,Fukui,0,0,0,,Schon seit meiner Grundschulzeit\Nwollte ich in dieses Team.
+Dialogue: 0,0:11:26.76,0:11:28.78,Internal,Fukui,0,0,0,,Seit ich diesem Team\Nbeigetreten bin,
+Dialogue: 0,0:11:28.78,0:11:31.38,Internal,Fukui,0,0,0,,wurde ich nie enttäuscht.
+Dialogue: 0,0:11:31.85,0:11:34.38,Internal,Fukui,0,0,0,,Hier treffen sich\NSpieler von Landesniveau.
+Dialogue: 0,0:11:34.72,0:11:38.74,Internal,Fukui,0,0,0,,Man trainiert hart und lernt\Ndie Psyche eines starken Teams.
+Dialogue: 0,0:11:40.17,0:11:43.20,Default,Fukui,0,0,0,,Passt gut auf\Nbeim ersten Pitch!
+Dialogue: 0,0:11:43.20,0:11:47.31,Internal,Fukui,0,0,0,,Ich bin so froh, dass ich Teil\Ndieses Teams sein kann!
+Dialogue: 0,0:11:47.31,0:11:52.02,Default,Kommentator,0,0,0,,Ein Out, Runner auf Base eins und zwei.\NBatter 6, Satoru Furuya, am Schlag.
+Dialogue: 0,0:11:53.65,0:11:56.61,Default,Zono,0,0,0,,Zeig ihnen deine Kraft, Furuya!
+Dialogue: 0,0:11:57.37,0:11:59.61,Default,Kommentator,0,0,0,,Auf ihn wartet das Ass Narumiya.
+Dialogue: 0,0:11:59.61,0:12:02.57,Default,Kommentator,0,0,0,,Können die Batter von Seidō\Ndie Führung ausbauen?
+Dialogue: 0,0:12:02.57,0:12:05.38,Internal,Furuya,0,0,0,,Sie haben aufgeholt\Nund sind sogar in Führung gegangen.
+Dialogue: 0,0:12:05.38,0:12:07.54,Internal,Furuya,0,0,0,,Diese zwei Runs von ihnen.
+Dialogue: 0,0:12:08.03,0:12:09.54,Internal,Furuya,0,0,0,,Halte nicht an.
+Dialogue: 0,0:12:09.54,0:12:11.34,Internal,Furuya,0,0,0,,Bleibe nicht zurück.
+Dialogue: 0,0:12:15.98,0:12:18.84,Default,Kommentator,0,0,0,,Der erste Pitch ist\Nein Fastball nach innen!
+Dialogue: 0,0:12:18.84,0:12:20.09,Default,Kitsuzawa,0,0,0,,Ja!
+Dialogue: 0,0:12:20.09,0:12:21.30,Internal,Tadano,0,0,0,,Was für ein Wurf.
+Dialogue: 0,0:12:21.30,0:12:24.26,Default,Fukui,0,0,0,,Genau! Greif an, Mei!
+Dialogue: 0,0:12:24.78,0:12:27.23,Internal,Fukui,0,0,0,,Nichts hat sich geändert.
+Dialogue: 0,0:12:27.23,0:12:29.69,Internal,Fukui,0,0,0,,Ich liebe dieses Team!
+Dialogue: 0,0:12:29.69,0:12:32.40,Internal,Miyuki,0,0,0,,Da wirft der den Pitch?
+Dialogue: 0,0:12:32.40,0:12:35.40,Internal,Furuya,0,0,0,,Diese Hitze wird nicht stoppen.
+Dialogue: 0,0:12:37.49,0:12:39.86,Default,Kommentator,0,0,0,,Der Changeup!\NEr schlägt daneben!
+Dialogue: 0,0:12:39.86,0:12:41.80,Default,Fukui,0,0,0,,Nice Pitch, Mei!
+Dialogue: 0,0:12:41.80,0:12:43.07,Default,Sugi,0,0,0,,Du hast ihn!
+Dialogue: 0,0:12:43.07,0:12:44.38,Default,Bank A,0,0,0,,Entscheide es!
+Dialogue: 0,0:12:44.38,0:12:45.54,Default,Bank B,0,0,0,,Narumiya!
+Dialogue: 0,0:12:45.54,0:12:49.00,Internal,Furuya,0,0,0,,Noch nicht. Halte durch.
+Dialogue: 0,0:12:49.00,0:12:50.23,Default,Higasa,0,0,0,,Mach es, Furuya!
+Dialogue: 0,0:12:50.23,0:12:51.96,Default,Yamaguchi,0,0,0,,Schwing einfach durch!
+Dialogue: 0,0:12:51.96,0:12:55.42,Default,Kommentator,0,0,0,,Er hat zwei Strikes.\NWas wird der dritte Pitch?
+Dialogue: 0,0:13:02.05,0:13:04.21,Default,Kommentator,0,0,0,,Daneben! Ein Strikeout!
+Dialogue: 0,0:13:05.01,0:13:07.51,Default,Kitsuzawa,0,0,0,,Nice Pitch, Mei!
+Dialogue: 0,0:13:07.51,0:13:08.76,Default,Tadano,0,0,0,,Okay!
+Dialogue: 0,0:13:08.76,0:13:10.93,Internal,Tadano,0,0,0,,Das ist Meis Changeup.
+Dialogue: 0,0:13:10.93,0:13:12.68,Internal,Tadano,0,0,0,,Der beste Pitch!
+Dialogue: 0,0:13:12.68,0:13:15.26,Default,Chris,0,0,0,,Zwei Changeups in Folge.
+Dialogue: 0,0:13:15.26,0:13:17.65,Default,Yuki,0,0,0,,Sie haben Narumiyas Kraft gezeigt.
+Dialogue: 0,0:13:17.65,0:13:20.23,Default,Miyauchi,0,0,0,,Damit hat ein Rechtshänder Probleme.
+Dialogue: 0,0:13:20.23,0:13:22.38,Default,Tadano,0,0,0,,Mei! Noch einer!
+Dialogue: 0,0:13:22.38,0:13:23.70,Default,Yabe,0,0,0,,Zwei Outs.
+Dialogue: 0,0:13:24.57,0:13:26.16,Default,Tojo,0,0,0,,Es hält noch nicht an.
+Dialogue: 0,0:13:28.07,0:13:29.70,Internal,Furuya,0,0,0,,Ich will es nicht zugeben.
+Dialogue: 0,0:13:30.53,0:13:31.71,Internal,Furuya,0,0,0,,Das war toll.
+Dialogue: 0,0:13:32.97,0:13:34.58,Internal,Furuya,0,0,0,,Sie sind alle toll.
+Dialogue: 0,0:13:40.67,0:13:44.64,Default,Kommentator,0,0,0,,Tōjō hielt durch, aber ist nach\Neinem Grounder zu Base drei raus.
+Dialogue: 0,0:13:44.64,0:13:47.60,Default,Kommentator,0,0,0,,Inashiro konnte sie\Nbei zwei Runs halten.
+Dialogue: 0,0:13:47.60,0:13:51.06,Default,Fukui,0,0,0,,Das ist unser Mei Narumiya!\NEr hat sie gestoppt!
+Dialogue: 0,0:13:53.97,0:13:57.20,Default,Mei,0,0,0,,Wenn ihr so dreinlächelt,\Nmuss ich ja handeln.
+Dialogue: 0,0:13:57.20,0:13:58.16,Default,Fukui,0,0,0,,Tut mir leid.
+Dialogue: 0,0:13:58.16,0:13:59.78,Default,Mei,0,0,0,,Aber echt …
+Dialogue: 0,0:14:00.19,0:14:02.49,Default,Fukui,0,0,0,,Du hast direkt die Chance,\Ndie Runs zurückzuholen.
+Dialogue: 0,0:14:06.41,0:14:08.95,Default,Mei,0,0,0,,Will den direkt weghaun.
+Dialogue: 0,0:14:08.95,0:14:11.91,TypePlaceholder,,0,0,0,,{\an7\move(390,61,390,315)\fnComic Sans MS\fs15\c&H181717&\b1}Baseballklubraum
+Dialogue: 0,0:14:11.91,0:14:15.88,Top,Inubushi,0,0,0,,Jetzt wird’s interessant.\NGleich zwei Runs gegen Narumiya.
+Dialogue: 0,0:14:12.00,0:14:15.88,TypePlaceholder,,0,0,0,,{\an2\fnGeorgia\fs19\c&HFFFFFF&\3c&H000000&\bord1.3\blur0.55\pos(118,268)\fad(450,0)\b1}Ugumori Oberschule\N{\fs24}Daiki Kondo
+Dialogue: 0,0:14:12.00,0:14:15.88,TypePlaceholder,,0,0,0,,{\an2\fnGeorgia\fs19\c&HFFFFFF&\3c&H000000&\bord1.3\blur0.55\pos(522,268)\fad(450,0)\b1}Ugumori Oberschule\N{\fs24}Kōta Inubushi
+Dialogue: 0,0:14:15.96,0:14:19.96,TypePlaceholder,,0,0,0,,{\an2\fnGeorgia\fs19\c&HFFFFFF&\3c&H000000&\bord1.3\blur0.55\pos(118,268)\fad(450,0)\b1}Ugumori Oberschule\N{\fs24}Seiichi Umemiya
+Dialogue: 0,0:14:15.96,0:14:19.96,TypePlaceholder,,0,0,0,,{\an2\fnGeorgia\fs19\c&HFFFFFF&\3c&H000000&\bord1.3\blur0.55\pos(522,268)\fad(450,0)\b1}Ugumori Oberschule\N{\fs24}Nao Matsubara
+Dialogue: 0,0:14:16.22,0:14:18.90,Top,Matsubara,0,0,0,,Seidō hat es wirklich geschafft.
+Dialogue: 0,0:14:18.90,0:14:22.34,Top,Umemiya,0,0,0,,Ja. Wobei Inashiro sicher nicht\Neinfach aufgeben wird.
+Dialogue: 0,0:14:24.63,0:14:25.97,Default,Miyakawa,0,0,0,,Was ist, Hoshi?
+Dialogue: 0,0:14:25.97,0:14:27.49,Default,Hoshi,0,0,0,,Will schlagen.
+Dialogue: 0,0:14:27.49,0:14:28.46,Default,Miyakawa,0,0,0,,Jetzt?
+Dialogue: 0,0:14:28.46,0:14:29.76,Default,Mori,0,0,0,,Und hier?!
+Dialogue: 0,0:14:29.76,0:14:33.73,Default,Hayakawa,0,0,0,,Jetzt kommt die zwei Hälfte vom sechsten Inning.\NWie weit schafft es Furuya?
+Dialogue: 0,0:14:34.02,0:14:36.43,Default,Zuschauer B,0,0,0,,Ach ja, wird der\Nim Left Field ausgewechselt?
+Dialogue: 0,0:14:36.43,0:14:38.69,Default,Zuschauer C,0,0,0,,Wurde ja rausgetragen, der ist raus.
+Dialogue: 0,0:14:39.46,0:14:41.05,Default,Kataoka,0,0,0,,Schaffst du das wirklich?
+Dialogue: 0,0:14:41.05,0:14:42.65,Default,Aso,0,0,0,,Alles in Ordnung!
+Dialogue: 0,0:14:42.65,0:14:45.32,Default,Kataoka,0,0,0,,Du hast dieses\NMomentum erschaffen.
+Dialogue: 0,0:14:45.32,0:14:47.12,Default,Kataoka,0,0,0,,Etwas Verlässlicheres\Ngibt es nicht.
+Dialogue: 0,0:14:47.69,0:14:49.58,Default,Aso,0,0,0,,Jawohl!\NIch mache das!
+Dialogue: 0,0:14:49.88,0:14:51.07,Default,Aso,0,0,0,,Ich ziehe los!
+Dialogue: 0,0:14:51.07,0:14:52.49,Default,Higasa,0,0,0,,Auf geht’s!
+Dialogue: 0,0:14:52.49,0:14:53.54,Default,Seido A,0,0,0,,Asō?
+Dialogue: 0,0:14:53.54,0:14:54.83,Default,Seido B,0,0,0,,Er kann spielen?
+Dialogue: 0,0:14:54.83,0:14:56.45,Default,Seido C,0,0,0,,Echt jetzt?
+Dialogue: 0,0:14:56.45,0:14:59.14,Default,Seido A,0,0,0,,Er ist tatsächlich\Nzurückgekommen!
+Dialogue: 0,0:14:59.14,0:15:00.73,Default,Seido B,0,0,0,,Schön, dass du okay bist!
+Dialogue: 0,0:15:00.73,0:15:02.42,Default,NPC,0,0,0,,Nice Fight!
+Dialogue: 0,0:15:02.42,0:15:06.64,Internal,Aso,0,0,0,,Ich bin so froh.\NIch bin so froh, dass ich Baseball spiele.
+Dialogue: 0,0:15:07.74,0:15:08.95,Default,Kataoka,0,0,0,,Sawamura.
+Dialogue: 0,0:15:08.95,0:15:09.58,Default,Sawamura,0,0,0,,Jawohl!
+Dialogue: 0,0:15:09.58,0:15:11.83,Default,Kataoka,0,0,0,,Furuya nähert sich 100 Pitches.
+Dialogue: 0,0:15:11.83,0:15:14.35,Default,Kataoka,0,0,0,,Er hat seit dem ersten Inning\Nmit ganzer Kraft geworfen.
+Dialogue: 0,0:15:14.35,0:15:17.30,Default,Kataoka,0,0,0,,Wenn sein Pitching schwächelt,\Nbist du dran.
+Dialogue: 0,0:15:21.95,0:15:24.65,Internal,Ochiai,0,0,0,,Unser Schutzengel kann auch\Ndieses Spiel nicht ran.
+Dialogue: 0,0:15:24.65,0:15:28.31,Internal,Ochiai,0,0,0,,Wenn er darüber nachdenkt,\NFuruya erneut zu bringen,
+Dialogue: 0,0:15:28.31,0:15:31.48,Internal,Ochiai,0,0,0,,sollte man ihn dann wohl\Nins Left Field stellen.
+Dialogue: 0,0:15:32.37,0:15:36.58,Internal,Ochiai,0,0,0,,Aber erst müssen wir sehen,\Nwie er dieses Inning pitcht.
+Dialogue: 0,0:15:36.58,0:15:39.47,Default,Kommentator,0,0,0,,Zweite Hälfte, sechstes Inning.\NInashiro greift an.
+Dialogue: 0,0:15:39.47,0:15:42.14,Default,Kommentator,0,0,0,,Am Schlag ist Batter 5\Nund Pitcher, Narumiya.
+Dialogue: 0,0:15:42.54,0:15:45.10,Default,Kommentator,0,0,0,,Mit einer Schlagquote von 53,2 %\Nbei diesem Turnier
+Dialogue: 0,0:15:45.10,0:15:48.01,Default,Kommentator,0,0,0,,ist er auch als Batter\Neine echte Bedrohung.
+Dialogue: 0,0:15:48.01,0:15:50.49,Internal,Miyuki,0,0,0,,Unsere Führung nagt\Nsicher an ihm.
+Dialogue: 0,0:15:50.49,0:15:52.97,Internal,Miyuki,0,0,0,,Das will er wettmachen.
+Dialogue: 0,0:15:52.97,0:15:54.60,Internal,Miyuki,0,0,0,,Wir lassen ihn nicht.
+Dialogue: 0,0:15:56.85,0:15:58.81,Default,Zono,0,0,0,,Einer nach dem anderen jetzt!
+Dialogue: 0,0:15:58.81,0:16:00.77,Default,Kominato,0,0,0,,Furuya! Greif an!
+Dialogue: 0,0:16:00.77,0:16:02.23,Default,Kuramochi,0,0,0,,Lass sie ruhig schlagen!
+Dialogue: 0,0:16:02.23,0:16:04.69,Default,Aso,0,0,0,,Ich bin da! Ich mach das!
+Dialogue: 0,0:16:04.69,0:16:09.16,Internal,Mei,0,0,0,,Mir reicht das Strikeout nicht.\NKomm nur, Furuya.
+Dialogue: 0,0:16:13.55,0:16:16.20,Default,Kommentator,0,0,0,,Direkt ein Fastball. Foul!
+Dialogue: 0,0:16:16.20,0:16:18.71,Internal,Miyuki,0,0,0,,Sein Timing stimmt.
+Dialogue: 0,0:16:18.71,0:16:21.67,Internal,Mei,0,0,0,,Seine Pitches werden\Nnicht langsamer.
+Dialogue: 0,0:16:23.66,0:16:27.09,Flashback,Miyuki,0,0,0,,Furuya.\NDenkst du nicht darüber nach?
+Dialogue: 0,0:16:27.09,0:16:28.69,Flashback,Miyuki,0,0,0,,Über die Welt weiter oben.
+Dialogue: 0,0:16:28.69,0:16:32.05,Flashback,Miyuki,0,0,0,,Hast du nie darüber nachgedacht,\NProfi zu werden?
+Dialogue: 0,0:16:43.44,0:16:45.65,Internal,Mei,0,0,0,,Du rastest richtig aus, was?
+Dialogue: 0,0:16:46.00,0:16:47.84,Internal,Miyuki,0,0,0,,Du bist zu angespannt.
+Dialogue: 0,0:16:47.84,0:16:50.32,Internal,Miyuki,0,0,0,,Wirf einen Pitch,\Nder mehr nach unten weggeht.
+Dialogue: 0,0:16:54.19,0:16:57.70,Default,Kommentator,0,0,0,,Der Treffer ins Left Field\Nkommt zu Asō.
+Dialogue: 0,0:16:58.62,0:17:00.42,Default,Kommentator,0,0,0,,Er hat ihn. Ein Out!
+Dialogue: 0,0:17:00.72,0:17:03.88,Default,Kommentator,0,0,0,,Auch beim zweiten Mal\Ngeht der Sieg an Furuya!
+Dialogue: 0,0:17:06.54,0:17:10.04,Internal,Furuya,0,0,0,,Es geht weiter.\NSolange ich weiter Baseball spiele, …
+Dialogue: 0,0:17:10.42,0:17:11.63,Internal,Furuya,0,0,0,,geht der Weg weiter.
+Dialogue: 0,0:17:15.26,0:17:17.47,Default,Koichiro,0,0,0,,Furuya mit der Siegespose?
+Dialogue: 0,0:17:17.47,0:17:21.44,Default,You,0,0,0,,Er wirft immer volle Power.\NAns ganze Spiel denkt er nicht.
+Dialogue: 0,0:17:21.44,0:17:24.39,Default,Kawabata,0,0,0,,Seidōs Bullpen ist\Nja richtig stark.
+Dialogue: 0,0:17:24.39,0:17:26.61,Internal,Sachiko,0,0,0,,Das war Pitch 92.
+Dialogue: 0,0:17:26.90,0:17:29.97,Default,Oota,0,0,0,,Die Fastballs sind weiter\Netwa 150 km/h.
+Dialogue: 0,0:17:29.97,0:17:32.57,Default,Oota,0,0,0,,Er hat noch Kraft im Pitch.
+Dialogue: 0,0:17:32.94,0:17:34.56,Internal,Furuya,0,0,0,,Das war der Erste.
+Dialogue: 0,0:17:36.14,0:17:38.24,Default,Miyuki,0,0,0,,Tut mir leid, Auszeit.
+Dialogue: 0,0:17:39.71,0:17:41.11,Default,Furuya,0,0,0,,Ist etwas?
+Dialogue: 0,0:17:41.11,0:17:43.21,Default,Miyuki,0,0,0,,Du wirkst etwas angespannt.
+Dialogue: 0,0:17:44.94,0:17:47.13,Internal,Miyuki,0,0,0,,Wirkst aber nicht überspannt.
+Dialogue: 0,0:17:47.50,0:17:50.99,Default,Miyuki,0,0,0,,Starke, tiefe Pitches\Nwerden die nicht schlagen.
+Dialogue: 0,0:17:50.99,0:17:53.41,Default,Miyuki,0,0,0,,Gehe ruhig\Nin deinem Rhythmus vor.
+Dialogue: 0,0:17:53.41,0:17:54.59,Default,Furuya,0,0,0,,Verstanden.
+Dialogue: 0,0:17:56.44,0:17:59.64,Default,Miyuki,0,0,0,,Das Auswahlspiel lief\Nnicht toll für uns.
+Dialogue: 0,0:18:01.19,0:18:04.77,Default,Miyuki,0,0,0,,Holen wir uns stattdessen\Nalles in Kōshien.
+Dialogue: 0,0:18:04.77,0:18:08.23,Default,Furuya,0,0,0,,Ja! Machen wir es\Nmit diesem Team!
+Dialogue: 0,0:18:10.19,0:18:13.10,Default,Sawamura,0,0,0,,Ja! Sich auszutauschen\Nist wichtig!
+Dialogue: 0,0:18:13.10,0:18:15.12,Default,Sawamura,0,0,0,,Zeigt euch eure Gefühle!
+Dialogue: 0,0:18:15.62,0:18:17.40,Default,Sawamura,0,0,0,,Tauscht euch aus!
+Dialogue: 0,0:18:18.50,0:18:20.82,Internal,Miyuki,0,0,0,,Mit diesem Team, was?
+Dialogue: 0,0:18:21.83,0:18:24.82,Internal,Miyuki,0,0,0,,Dieser Pitch,\Nden ich im Herbst fing.
+Dialogue: 0,0:18:26.64,0:18:31.01,Internal,Miyuki,0,0,0,,Ich will ehrlich gesagt sehen,\Nwie weit du gehen kannst.
+Dialogue: 0,0:18:31.67,0:18:35.72,Internal,Miyuki,0,0,0,,Und ich dachte mir,\Ndass wir nicht verlieren dürfen.
+Dialogue: 0,0:18:35.72,0:18:39.43,Default,Sawamura,0,0,0,,Nimm nicht alles nur auf dich!\NVertrau denen hinter dir!
+Dialogue: 0,0:18:39.74,0:18:43.39,Internal,Miyuki,0,0,0,,Ihr überrascht mich\Nimmer wieder.
+Dialogue: 0,0:18:43.39,0:18:45.65,Internal,Miyuki,0,0,0,,Komm schon! Übertreffe sie!
+Dialogue: 0,0:18:45.65,0:18:47.36,Internal,Miyuki,0,0,0,,Meine Vorstellungen!
+Dialogue: 0,0:18:47.68,0:18:50.36,Internal,Tadano,0,0,0,,Er sollte seine Grenze erreichen.
+Dialogue: 0,0:18:50.36,0:18:52.32,Internal,Tadano,0,0,0,,Ich muss ihn\Nmehr Pitches machen lassen.
+Dialogue: 0,0:19:02.11,0:19:05.46,Internal,Furuya,0,0,0,,Weil ich hierherkam,\Nhabe ich einen Weg!
+Dialogue: 0,0:19:06.08,0:19:09.71,Flashback,Miyuki,0,0,0,,Aber du kannst doch ruhig so sein.
+Dialogue: 0,0:19:09.71,0:19:13.34,Flashback,Miyuki,0,0,0,,Ein Pitcher, der das Team\Nmit Kraft mitreißt.
+Dialogue: 0,0:19:16.60,0:19:19.18,Internal,Furuya,0,0,0,,Weil er meine Pitches fängt.
+Dialogue: 0,0:19:21.32,0:19:22.56,Default,Sawamura,0,0,0,,Ja!
+Dialogue: 0,0:19:23.06,0:19:26.02,Internal,Furuya,0,0,0,,Weil ich Kameraden hatte,\Nmit denen ich mich messen konnte.
+Dialogue: 0,0:19:29.56,0:19:32.23,Internal,Furuya,0,0,0,,Im Baseball kann ich\Nmich auslassen!
+Dialogue: 0,0:19:32.52,0:19:33.86,Internal,Furuya,0,0,0,,Ich kann selbstsüchtig sein!
+Dialogue: 0,0:19:36.35,0:19:39.28,Internal,Furuya,0,0,0,,Weil es diesen Ort gibt,\Nkann ich kämpfen.
+Dialogue: 0,0:19:46.75,0:19:49.18,Internal,Furuya,0,0,0,,Ich kann meine\Nganze Kraft reinlegen!
+Dialogue: 0,0:19:51.17,0:19:55.05,Default,Kommentator,0,0,0,,Strike! Batter out!\NEr hat daneben geschlagen!
+Dialogue: 0,0:19:55.05,0:19:59.55,Default,Kommentator,0,0,0,,Mit unerbittlich schnellem Fastball hat er\Nalle drei Batter ausgeschaltet!
+Dialogue: 0,0:19:59.55,0:20:02.29,Default,Zuschauer A,0,0,0,,Krass!\N150 Sachen mehrmals in Folge!
+Dialogue: 0,0:20:02.29,0:20:03.73,Default,Zuschauer B,0,0,0,,Er lässt nicht nach!
+Dialogue: 0,0:20:02.90,0:20:04.97,Overlap,Zuschauer C,0,0,0,,Volle Pulle!
+Dialogue: 0,0:20:03.73,0:20:04.97,Default,Zuschauer D,0,0,0,,Krass, Furuya!
+Dialogue: 0,0:20:05.35,0:20:08.26,Flashback,Furuyas Mutter,0,0,0,,Am Wochenende kommen wir\Nauch nach Tokyo.
+Dialogue: 0,0:20:08.26,0:20:10.66,Flashback,Furuyas Mutter,0,0,0,,Melde dich,\Nwenn du angekommen bist.
+Dialogue: 0,0:20:11.10,0:20:13.32,Flashback,Furuyas Mutter,0,0,0,,Wir haben Opa Bescheid gesagt.
+Dialogue: 0,0:20:13.32,0:20:15.32,Flashback,Kommentator,0,0,0,,Ja. Bis dann.
+Dialogue: 0,0:20:16.58,0:20:18.24,Flashback,Furuyas Mutter,0,0,0,,Ist das alles?
+Dialogue: 0,0:20:18.86,0:20:23.08,Flashback,Furuyas Mutter,0,0,0,,Genau. Er sagte,\Ner wolle nach Tokyo gehen.
+Dialogue: 0,0:20:24.40,0:20:27.04,Flashback,Furuyas Mutter,0,0,0,,Zur Seidō Oberschule.
+Dialogue: 0,0:20:27.04,0:20:30.81,Flashback,Opa,0,0,0,,Bei eurem Team lief es\Ndoch auch nicht gut.
+Dialogue: 0,0:20:30.81,0:20:34.30,Flashback,Opa,0,0,0,,Wenn er selbst das Team\Ngewählt hat, akzeptiert das.
+Dialogue: 0,0:20:34.30,0:20:36.26,Flashback,Opa,0,0,0,,Ich kümmere mich um den Rest.
+Dialogue: 0,0:20:36.26,0:20:40.19,Flashback,Furuyas Mutter,0,0,0,,Aber in ein Wohnheim?\NSchafft er das auch?
+Dialogue: 0,0:20:40.19,0:20:44.75,Flashback,Furuyas Mutter,0,0,0,,Er teilt nie seine Gefühle mit\Nund wird oft missverstanden.
+Dialogue: 0,0:20:44.75,0:20:46.74,Flashback,Furuyas Mutter,0,0,0,,Und er ist seltsam stur.
+Dialogue: 0,0:20:49.78,0:20:50.77,Default,NPC,0,0,0,,Furuya!
+Dialogue: 0,0:20:50.77,0:20:52.31,Default,NPC 2,0,0,0,,Furuya!
+Dialogue: 0,0:20:52.31,0:20:54.00,Default,NPC 3,0,0,0,,Furuya!
+Dialogue: 0,0:20:52.82,0:20:54.77,Overlap,NPC 4,0,0,0,,Furuya!
+Dialogue: 0,0:20:55.15,0:20:56.48,Default,Tojo,0,0,0,,Nice Pitch!
+Dialogue: 0,0:20:56.48,0:20:58.19,Default,Zono,0,0,0,,Nice Pitching!
+Dialogue: 0,0:20:58.19,0:20:59.90,Default,Yoichi,0,0,0,,Wir kriegen keine Bälle.
+Dialogue: 0,0:20:59.90,0:21:01.91,Default,Yoichi,0,0,0,,Ich werd noch ganz faul.
+Dialogue: 0,0:21:02.28,0:21:06.76,Default,Kataoka,0,0,0,,Gut verteidigt nach unserer Führung.\NDas war ausgezeichnetes Pitching.
+Dialogue: 0,0:21:06.76,0:21:08.00,Default,Oota,0,0,0,,Das war wunderbar!
+Dialogue: 0,0:21:08.00,0:21:11.20,Internal,Sachiko,0,0,0,,99 Pitches mit voller Kraft.
+Dialogue: 0,0:21:14.07,0:21:16.89,Default,Kataoka,0,0,0,,Furuya. Geh im siebten Inning\Nins Left Field.
+Dialogue: 0,0:21:17.67,0:21:19.38,Default,Kataoka,0,0,0,,Sawamura. Du bist dran!
+Dialogue: 0,0:21:19.72,0:21:20.84,Default,Sawamura,0,0,0,,Jawohl!
+Dialogue: 0,0:21:20.84,0:21:26.04,Internal,Ochiai,0,0,0,,Er ist nicht so gut wie Asō, aber hat\Nim letzten Jahr dort Erfahrung gesammelt.
+Dialogue: 0,0:21:26.04,0:21:29.43,Internal,Ochiai,0,0,0,,Und wenn er dort ist\Nund etwas passieren sollte,
+Dialogue: 0,0:21:29.43,0:21:31.31,Internal,Ochiai,0,0,0,,kann er wieder auf den Mound.
+Dialogue: 0,0:21:32.02,0:21:35.23,Internal,Miyuki,0,0,0,,Er konnte seit dem ersten Inning\Nmit voller Kraft pitchen,
+Dialogue: 0,0:21:35.23,0:21:37.28,Internal,Miyuki,0,0,0,,weil wir Sawamura haben.
+Dialogue: 0,0:21:37.28,0:21:40.99,Internal,Miyuki,0,0,0,,Du kannst in einer perfekten Situation\Nden Stab weiterreichen.
+Dialogue: 0,0:21:44.52,0:21:46.00,Default,Furuya,0,0,0,,Du bist dran.
+Dialogue: 0,0:21:46.00,0:21:48.53,Default,Sawamura,0,0,0,,Alles klar.\NIch mach das schon!
+Dialogue: 0,0:21:51.96,0:21:55.21,TypePlaceholder,Credits,0,0,0,,{\fnArial\fs20\an7\c&HFFFFFF&\bord1.5\4c&H000000&\fad(0,450)\3c&H000000&\pos(40,20)\b1}Übersetzung\NJochen Schütz
+Dialogue: 0,0:21:55.42,0:21:58.68,TypePlaceholder,Credits,0,0,0,,{\fnArial\fs20\an7\c&HFFFFFF&\bord1.5\4c&H000000&\fad(450,0)\3c&H000000&\pos(40,20)\b1}Spotting\NSandra Ritzer
+Dialogue: 0,0:21:58.68,0:22:01.68,TypePlaceholder,Credits,0,0,0,,{\fnArial\fs20\an7\c&HFFFFFF&\bord1.5\4c&H000000&\3c&H000000&\pos(40,20)\b1}Revision & Typesetting\NThomas Meier
+Dialogue: 0,0:22:01.68,0:22:04.68,TypePlaceholder,Credits,0,0,0,,{\fnArial\fs20\an7\c&HFFFFFF&\bord1.5\4c&H000000&\3c&H000000&\pos(40,20)\b1}Qualitätskontrolle\NAlex Roston
+Dialogue: 0,0:22:04.68,0:22:08.35,TypePlaceholder,Credits,0,0,0,,{\fnArial\fs20\an7\c&HFFFFFF&\bord1.5\4c&H000000&\3c&H000000&\pos(40,20)\b1}Projektleitung\NTobias Philippi
+Dialogue: 0,0:23:27.14,0:23:30.81,Default,Yui,0,0,0,,Nächstes Mal bei\NAce of Diamond Act II – Second Season:
+Dialogue: 0,0:23:30.93,0:23:36.89,TypePlaceholder,,0,0,0,,{\fnGeorgia\fs22\an2\bord2\shad1\c&HFFFFFF&\3c&H000000&\4c&H000000&\fad(450,0)\pos(320,127)\b1}Nächstes Mal:\N{\fs38\bord2.2\shad1.3}„Der Stab“
+Dialogue: 0,0:23:31.37,0:23:32.31,Default,Yui,0,0,0,,Der Stab!
+Dialogue: 0,0:23:32.31,0:23:34.97,Default,Yui,0,0,0,,Auf zum Landesturnier!
+
