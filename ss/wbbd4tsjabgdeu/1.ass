@@ -1,0 +1,354 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: sign_generic,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.63,0:00:03.11,Default,Philip,0,0,0,,Amelia Keith, daughter of the Marquis!
+Dialogue: 0,0:00:03.46,0:00:07.35,Default,Philip,0,0,0,,As of this moment, I am \Nterminating our engagement!
+Dialogue: 0,0:00:17.28,0:00:20.99,Default,Pia,0,0,0,,What? Why today?\NThis can't be right. Why?
+Dialogue: 0,0:00:21.74,0:00:24.01,Default,Philip,0,0,0,,These gentlemen also \Nhave something to say.
+Dialogue: 0,0:00:24.01,0:00:26.99,Default,Philip,0,0,0,,I would like their fiancées \Nto step forward.
+Dialogue: 0,0:00:36.75,0:00:38.07,Default,Pia,0,0,0,,Erin...
+Dialogue: 0,0:00:41.50,0:00:45.02,italics,Pia (M),0,0,0,,The condemnation scene came a whole \Nyear earlier than in the game.
+Dialogue: 0,0:00:45.26,0:00:50.01,italics,Pia (M),0,0,0,,But Caroline was still able to win \Nover four of the five love interests!
+Dialogue: 0,0:00:50.01,0:00:51.11,Default,Rufus,0,0,0,,Hmm?
+Dialogue: 0,0:00:51.69,0:00:53.68,Default,Rufus,0,0,0,,This is a little earlier than expected...
+Dialogue: 0,0:00:55.40,0:00:57.64,Default,Rufus,0,0,0,,but it looks like your prophecy \Ncame true after all.
+Dialogue: 0,0:00:57.64,0:01:00.08,Default,Pia,0,0,0,,Lord Rufus, when did you arrive?
+Dialogue: 0,0:01:05.04,0:01:08.11,Default,Rufus,0,0,0,,Good choice, Pia. It isn't alcohol.
+Dialogue: 0,0:01:08.80,0:01:10.94,Default,Pia,0,0,0,,H-H-How...?
+Dialogue: 0,0:01:10.00,0:01:11.25,top,Jeremy,0,0,0,,Angela!
+Dialogue: 0,0:01:13.42,0:01:17.92,Default,Jeremy,0,0,0,,It seems you tried to push Caroline \Ndown the stairs at the academy.
+Dialogue: 0,0:01:19.64,0:01:20.86,Default,Rufus,0,0,0,,Hey, don't get involved!
+Dialogue: 0,0:01:20.86,0:01:21.94,Default,Pia,0,0,0,,B-But...
+Dialogue: 0,0:01:21.94,0:01:22.94,Default,Guy,0,0,0,,Sherry!
+Dialogue: 0,0:01:23.34,0:01:26.07,Default,Guy,0,0,0,,It seems that despite holding \Nthe sacred title of a teacher,
+Dialogue: 0,0:01:26.33,0:01:30.06,Default,Guy,0,0,0,,you tore your student Caroline's \Ntextbook to shreds and threw it away!
+Dialogue: 0,0:01:30.25,0:01:31.27,Default,Henry,0,0,0,,Erin!
+Dialogue: 0,0:01:32.03,0:01:35.56,Default,Henry,0,0,0,,I heard that when Caroline was eating in \Nthe cafeteria, minding her own business,
+Dialogue: 0,0:01:35.56,0:01:38.07,Default,Henry,0,0,0,,you spilled hot tea on her.
+Dialogue: 0,0:01:40.93,0:01:42.35,Default,Philip,0,0,0,,Amelia!
+Dialogue: 0,0:01:42.35,0:01:47.27,Default,Philip,0,0,0,,It appears you used my title as a shield \Nas you constantly tormented Caroline.
+Dialogue: 0,0:01:47.27,0:01:50.96,Default,Philip,0,0,0,,You even pushed her into the garden \Npond in this bitterly cold weather?
+Dialogue: 0,0:01:51.43,0:01:53.97,Default,Philip,0,0,0,,Someone like you is not fit \Nto become the queen consort!
+Dialogue: 0,0:02:00.52,0:02:03.59,Default,Amelia,0,0,0,,These allegations against \Nus have no basis in fact.
+Dialogue: 0,0:02:09.14,0:02:13.36,sign_generic,text,0,0,0,,{\fade(489,4)\an7\fs15.5\blur2\3c&HC7653C&\bord1\c&HF8FFEE&\pos(342,313)}Episode 7: The Fateful Condemnation Scene
+Dialogue: 0,0:02:18.49,0:02:22.12,Default,Angela,0,0,0,,The day that I allegedly \Npushed her down the stairs,
+Dialogue: 0,0:02:22.56,0:02:27.11,Default,Angela,0,0,0,,I left town in the morning for an outdoor \Nlesson in medicinal herb foraging.
+Dialogue: 0,0:02:29.35,0:02:34.62,Default,Angela,0,0,0,,Well, as you skipped that lesson, Lord \NJeremy, perhaps you weren't aware of that.
+Dialogue: 0,0:02:35.06,0:02:39.92,Default,Angela,0,0,0,,But if you speak to the botany teacher,\Nthe truth should become crystal clear.
+Dialogue: 0,0:02:40.62,0:02:43.84,Default,Angela,0,0,0,,Still, that training is required \Nto become a physician.
+Dialogue: 0,0:02:43.84,0:02:45.63,Default,Angela,0,0,0,,What exactly were you thinking?
+Dialogue: 0,0:02:47.39,0:02:48.91,Default,Sherry,0,0,0,,Professor Guy,
+Dialogue: 0,0:02:48.91,0:02:53.40,Default,Sherry,0,0,0,,you said that I tore that female \Nstudent's textbook to shreds, correct?
+Dialogue: 0,0:02:54.90,0:02:59.66,Default,Sherry,0,0,0,,Unfortunately, I was busy teaching \Nclass that day from morning to night
+Dialogue: 0,0:03:00.09,0:03:04.73,Default,Sherry,0,0,0,,and would have had no time to search for \Na student's textbook to destroy it.
+Dialogue: 0,0:03:04.73,0:03:08.04,Default,Sherry,0,0,0,,In fact, I've never seen that \Nindividual before in my life.
+Dialogue: 0,0:03:09.44,0:03:12.74,Default,Sherry,0,0,0,,If you need witnesses, why not \Nspeak to the students I taught
+Dialogue: 0,0:03:12.74,0:03:14.38,Default,Sherry,0,0,0,,and the academy president?
+Dialogue: 0,0:03:14.74,0:03:17.61,Default,Erin,0,0,0,,I hate to admit it, but I've been \Nunwell for the last six months
+Dialogue: 0,0:03:17.61,0:03:21.05,Default,Erin,0,0,0,,and have been recovering at my\Nfamily estate the entire time.
+Dialogue: 0,0:03:21.26,0:03:24.12,Default,Erin,0,0,0,,As such, I haven't been on campus at all,
+Dialogue: 0,0:03:24.12,0:03:28.23,Default,Erin,0,0,0,,so it wouldn't have been possible for me \Nto pour tea on that student's uniform.
+Dialogue: 0,0:03:30.15,0:03:34.83,Default,Erin,0,0,0,,My witness is your very \Nown father, Count Cox.
+Dialogue: 0,0:03:34.83,0:03:37.81,Default,Erin,0,0,0,,He even visited to check \Nin on me several times.
+Dialogue: 0,0:03:37.81,0:03:39.23,Default,Henry,0,0,0,,I see...
+Dialogue: 0,0:03:41.85,0:03:43.79,Default,Philip,0,0,0,,Amelia! What about you?
+Dialogue: 0,0:03:49.91,0:03:53.00,Default,Amelia,0,0,0,,Yes, when she first transferred \Nhere, I did warn her
+Dialogue: 0,0:03:53.00,0:03:56.42,Default,Amelia,0,0,0,,that it was improper to spend time \Nalone with gentlemen who were engaged
+Dialogue: 0,0:03:56.42,0:04:00.76,Default,Amelia,0,0,0,,and to speak to higher-ranking \Nindividuals without proper courtesy.
+Dialogue: 0,0:04:00.76,0:04:01.64,Default,Caroline,0,0,0,,Huh?
+Dialogue: 0,0:04:01.64,0:04:03.87,Default,Amelia,0,0,0,,But I very soon gave up.
+Dialogue: 0,0:04:03.87,0:04:06.13,Default,Amelia,0,0,0,,Everything I said only made \Nher lash out against me.
+Dialogue: 0,0:04:06.47,0:04:10.76,Default,Amelia,0,0,0,,A dear and very level-headed friend of \Nmine advised me not to bother further.
+Dialogue: 0,0:04:11.51,0:04:12.98,Default,Pia,0,0,0,,Lord Rufus!
+Dialogue: 0,0:04:14.26,0:04:18.91,Default,Amelia,0,0,0,,The day I allegedly pushed her into the \Npond, I had been summoned by the palace
+Dialogue: 0,0:04:19.22,0:04:22.40,Default,Amelia,0,0,0,,for etiquette lessons \Nwith the high priest.
+Dialogue: 0,0:04:23.39,0:04:27.11,Default,Amelia,0,0,0,,It seems Your Highness has not \Nbeen attending lessons recently.
+Dialogue: 0,0:04:28.17,0:04:33.54,Default,Amelia,0,0,0,,My witnesses are the high priest and \NHis Royal Highness Prince Edward.
+Dialogue: 0,0:04:38.77,0:04:42.92,Default,Pia,0,0,0,,Lord Rufus! Thank you so much \Nfor what you did to help them!
+Dialogue: 0,0:04:43.56,0:04:44.95,Default,Pia,0,0,0,,I'm so relieved!
+Dialogue: 0,0:04:46.56,0:04:49.93,italics,Pia (M),0,0,0,,They were all destined to \Nbe banished from the land,
+Dialogue: 0,0:04:50.27,0:04:54.44,italics,Pia (M),0,0,0,,but they were all able to avoid it.\NNow they won't face such a terrible fate.
+Dialogue: 0,0:04:55.23,0:04:56.64,Default,Rufus,0,0,0,,Just as you predicted.
+Dialogue: 0,0:04:57.80,0:05:02.31,Default,Rufus,0,0,0,,His Royal Highness did break off his \Nengagement, but I was not by his side.
+Dialogue: 0,0:05:02.56,0:05:05.37,Default,Rufus,0,0,0,,Pia, this means I win our bet.
+Dialogue: 0,0:05:06.77,0:05:07.64,Default,Pia,0,0,0,,Yes.
+Dialogue: 0,0:05:08.53,0:05:11.76,Default,Caroline,0,0,0,,I've finally found you, Rufus!
+Dialogue: 0,0:05:13.12,0:05:16.96,Default,Caroline,0,0,0,,Everyone here is picking on me! Help me!
+Dialogue: 0,0:05:21.02,0:05:22.66,Default,Rufus,0,0,0,,How dare you.
+Dialogue: 0,0:05:22.66,0:05:26.23,Default,Rufus,0,0,0,,By what right do you presume to \Ncall out to me so casually?!
+Dialogue: 0,0:05:31.96,0:05:33.05,Default,Caroline,0,0,0,,Uh...
+Dialogue: 0,0:05:33.05,0:05:37.39,Default,Caroline,0,0,0,,W-Well, you see, Mr. Rufus? \NI'm actually on your side.
+Dialogue: 0,0:05:37.39,0:05:40.60,Default,Caroline,0,0,0,,Oh, my gosh. Is that girl \Nbehind you your fiancée?
+Dialogue: 0,0:05:42.12,0:05:43.87,Default,Caroline,0,0,0,,Yeah, I bet she is.
+Dialogue: 0,0:05:43.87,0:05:48.48,Default,Caroline,0,0,0,,Dang it! I got my levels and likability \Nso high that this shouldn't be happening!
+Dialogue: 0,0:05:50.28,0:05:53.59,Default,Caroline,0,0,0,,I scored the other four without trouble,
+Dialogue: 0,0:05:53.59,0:05:57.26,Default,Caroline,0,0,0,,so why did that one evil heiress \Nbug out and not come after me?
+Dialogue: 0,0:05:57.26,0:06:01.12,Default,Rufus,0,0,0,,You fiend. What is this utter nonsense?
+Dialogue: 0,0:06:01.43,0:06:07.29,Default,Caroline,0,0,0,,In the game, your fiancée was supposed \Nto catch us studying in the library,
+Dialogue: 0,0:06:07.29,0:06:11.50,Default,Caroline,0,0,0,,throw away my sweets, and make a big \Nfuss about the prime minister's illness!
+Dialogue: 0,0:06:11.50,0:06:13.91,Default,Caroline,0,0,0,,If I completed all of \Nthe events properly,
+Dialogue: 0,0:06:13.91,0:06:17.33,Default,Caroline,0,0,0,,you're supposed to have eaten \Nat least one cookie, Rufus!
+Dialogue: 0,0:06:18.02,0:06:20.35,italics,Pia (M),0,0,0,,She's talking about the \Ncookies in public?
+Dialogue: 0,0:06:20.35,0:06:25.33,italics,Pia (M),0,0,0,,And his father's illness is supposed to \Nbe classified, so to bring that up here...
+Dialogue: 0,0:06:25.33,0:06:27.73,Default,Rufus,0,0,0,,It appears that you have no \Nregard for your own life.
+Dialogue: 0,0:06:28.20,0:06:32.39,Default,Rufus,0,0,0,,How vile of you to speak of \N"scoring" the heir to the throne.
+Dialogue: 0,0:06:32.39,0:06:34.29,Default,Rufus,0,0,0,,That alone is enough to condemn you.
+Dialogue: 0,0:06:34.64,0:06:36.29,Default,Rufus,0,0,0,,Guards! Apprehend her!
+Dialogue: 0,0:06:36.50,0:06:41.08,Default,Caroline,0,0,0,,Oh no, Phil! That dummy Rufus \Nis trying to get me arrested!
+Dialogue: 0,0:06:41.08,0:06:43.21,Default,Caroline,0,0,0,,I'm so scared!
+Dialogue: 0,0:06:43.21,0:06:45.53,Default,Caroline,0,0,0,,I really think you ought \Nto teach him a lesson!
+Dialogue: 0,0:06:45.53,0:06:47.55,Default,Philip,0,0,0,,Um... indeed! And I will.
+Dialogue: 0,0:06:47.55,0:06:50.73,Default,Philip,0,0,0,,Rufus! You have done nothing but \Nviolently dishonor my Caroline!
+Dialogue: 0,0:06:50.73,0:06:52.42,Default,Philip,0,0,0,,In response...
+Dialogue: 0,0:06:52.42,0:06:54.64,Default,Philip,0,0,0,,I hereby banish you from the country!
+Dialogue: 0,0:06:57.91,0:07:01.08,italics,Pia (M),0,0,0,,Oh, no! Now Lord Rufus\N is getting banished?
+Dialogue: 0,0:07:01.08,0:07:03.82,italics,Pia (M),0,0,0,,Is this the game's way of rubber-banding?
+Dialogue: 0,0:07:03.82,0:07:05.33,Default,Rufus,0,0,0,,Pia, hold on.
+Dialogue: 0,0:07:05.33,0:07:10.57,Default,Pia,0,0,0,,But the cookies might be preventing His \NHighness from making rational decisions!
+Dialogue: 0,0:07:10.57,0:07:14.49,Default,Rufus,0,0,0,,It is still a royal order. \NWhat's done is done.
+Dialogue: 0,0:07:15.80,0:07:18.52,Default,Rufus,0,0,0,,Yes, Your Highness. Very well.
+Dialogue: 0,0:07:18.52,0:07:22.83,Default,Rufus,0,0,0,,My wife and I will leave Your Highness's \Nservice and exit the country immediately.
+Dialogue: 0,0:07:22.83,0:07:24.33,Default,Rufus,0,0,0,,Let's go, Pia.
+Dialogue: 0,0:07:24.33,0:07:25.87,Default,Pia,0,0,0,,Huh?
+Dialogue: 0,0:07:41.84,0:07:44.10,italics,Pia (M),0,0,0,,Is that His Royal Majesty The King?
+Dialogue: 0,0:07:44.31,0:07:47.15,Default,King,0,0,0,,Don't let them get away! \NApprehend those two!
+Dialogue: 0,0:07:51.23,0:07:53.51,italics,Pia (M),0,0,0,,I don't believe it! What now?
+Dialogue: 0,0:07:53.51,0:07:56.37,italics,Pia (M),0,0,0,,Since Lady Amelia and the others \Nproved their innocence,
+Dialogue: 0,0:07:56.37,0:07:58.53,italics,Pia (M),0,0,0,,we're going to be condemned instead?
+Dialogue: 0,0:08:00.15,0:08:01.75,italics,Pia (M),0,0,0,,This is all my fault!
+Dialogue: 0,0:08:01.75,0:08:05.53,italics,Pia (M),0,0,0,,I've gone and ruined the life of the \Nperson I love most in the world!
+Dialogue: 0,0:08:05.96,0:08:12.01,italics,Pia (M),0,0,0,,This isn't like the story in the game, \Nbut it's worse than the worst bad ending!
+Dialogue: 0,0:08:17.08,0:08:19.78,Default,Pia,0,0,0,,Lord Rufus, I'm so sorry!
+Dialogue: 0,0:08:19.78,0:08:23.79,Default,Pia,0,0,0,,I never should have gotten you tangled up \Nin this back when we were children!
+Dialogue: 0,0:08:24.40,0:08:26.15,Default,Rufus,0,0,0,,Pia, look up.
+Dialogue: 0,0:08:26.15,0:08:27.13,Default,Pia,0,0,0,,Huh?
+Dialogue: 0,0:08:33.11,0:08:36.29,Default,Philip,0,0,0,,S-Stop it! What are you doing?
+Dialogue: 0,0:08:38.56,0:08:39.85,Default,Philip,0,0,0,,Let me go!
+Dialogue: 0,0:08:39.85,0:08:42.65,Default,Caroline,0,0,0,,Why? The king isn't supposed \Nto make an appearance here!
+Dialogue: 0,0:08:43.98,0:08:45.28,Default,King,0,0,0,,Take them away.
+Dialogue: 0,0:08:46.15,0:08:48.34,Default,Philip,0,0,0,,Father! Please wait!
+Dialogue: 0,0:08:48.34,0:08:51.46,Default,Philip,0,0,0,,I still haven't gotten today's \Ncookies from Caroline!
+Dialogue: 0,0:08:57.80,0:08:59.95,Default,King,0,0,0,,Just listen to these buffoons.
+Dialogue: 0,0:09:00.31,0:09:03.61,Default,King,0,0,0,,Our national affairs would be a \Ndisaster without Rufus's help.
+Dialogue: 0,0:09:04.23,0:09:08.11,Default,King,0,0,0,,Not to mention the revolutionary surveying\Ntechniques Doctor Rockwell has pioneered.
+Dialogue: 0,0:09:08.11,0:09:10.63,Default,King,0,0,0,,Our nation is honored by her service.
+Dialogue: 0,0:09:11.60,0:09:15.04,Default,King,0,0,0,,Our nation could not bear to lose them!
+Dialogue: 0,0:09:15.54,0:09:17.68,Default,Woman,0,0,0,,Is that Doctor Rockwell?
+Dialogue: 0,0:09:17.68,0:09:21.28,Default,Man,0,0,0,,That's the geologist who discovered \Nthat new coal mine, isn't it?
+Dialogue: 0,0:09:21.28,0:09:25.50,Default,Man,0,0,0,,She's the mapmaker whose map showed \Nus where we should build the dam!
+Dialogue: 0,0:09:26.28,0:09:28.86,Default,WHO,0,0,0,,Where the hell have \Nyou taken Caroline?
+Dialogue: 0,0:09:28.86,0:09:33.88,Default,Guy,0,0,0,,Caroline and I are scheduled to have \Ntea in the mathematics office after this.
+Dialogue: 0,0:09:35.02,0:09:39.34,Default,Jeremy,0,0,0,,Caroline told me she'd reward me \Nwith three whole cookies today!
+Dialogue: 0,0:09:39.34,0:09:40.35,Default,Purple haired guy,0,0,0,,Do it!
+Dialogue: 0,0:09:49.10,0:09:50.98,Default,King,0,0,0,,Rufus and Pia.
+Dialogue: 0,0:09:51.36,0:09:53.87,Default,King,0,0,0,,It's a shame you had to get \Ncaught up in this ridiculous affair.
+Dialogue: 0,0:09:53.87,0:09:55.42,Default,Rufus,0,0,0,,It certainly is.
+Dialogue: 0,0:09:55.42,0:09:59.24,Default,Rufus,0,0,0,,Did I not recommend isolating \Nthem to break their addiction?
+Dialogue: 0,0:09:59.86,0:10:03.01,Default,King,0,0,0,,Even as king, no matter \Nhow suspicious it seemed,
+Dialogue: 0,0:10:03.01,0:10:06.37,Default,King,0,0,0,,I was not able to take action \Nwithout concrete evidence.
+Dialogue: 0,0:10:06.66,0:10:11.75,Default,Rufus,0,0,0,,You should have quietly forced them to \Ntake sick leave without making it public,
+Dialogue: 0,0:10:11.75,0:10:14.05,Default,Rufus,0,0,0,,for His Highness's own sake.
+Dialogue: 0,0:10:14.25,0:10:18.85,Default,King,0,0,0,,The queen said I was making a huge fuss \Nover nothing and refused to allow it.
+Dialogue: 0,0:10:19.31,0:10:22.48,Default,King,0,0,0,,I must admit, I wasn't \Nentirely convinced either.
+Dialogue: 0,0:10:23.17,0:10:25.93,Default,King,0,0,0,,How could mere cookies have done that?
+Dialogue: 0,0:10:26.51,0:10:29.88,Default,Pia,0,0,0,,Wait. Your Majesty is... Huh?
+Dialogue: 0,0:10:31.07,0:10:32.17,Default,King,0,0,0,,Pia!
+Dialogue: 0,0:10:33.82,0:10:35.20,Default,Pia,0,0,0,,No way!
+Dialogue: 0,0:10:35.20,0:10:39.58,Default,King,0,0,0,,You got me, my dear Pia. I'm \Nyour good old Uncle Johnny.
+Dialogue: 0,0:10:43.18,0:10:44.52,Default,Pia,0,0,0,,What?!
+Dialogue: 0,0:10:45.13,0:10:50.46,Default,King,0,0,0,,I just had to meet this genius that Rufus \Nand his father, Leo, had hidden away,
+Dialogue: 0,0:10:50.46,0:10:53.96,Default,King,0,0,0,,so I snuck into one of the children's \Ntea parties to take a peek.
+Dialogue: 0,0:10:54.22,0:10:57.34,Default,King,0,0,0,,Ever since then, \NI've been your biggest fan.
+Dialogue: 0,0:10:58.80,0:11:02.77,Default,King,0,0,0,,Pia, thank you for everything you've done \Nto support our country's development,
+Dialogue: 0,0:11:03.15,0:11:06.78,Default,King,0,0,0,,and I apologize for everything \Nmy dunce of a son has done.
+Dialogue: 0,0:11:06.78,0:11:10.80,Default,King,0,0,0,,I am serious when I say I truly wish \Nyou would remain in this country.
+Dialogue: 0,0:11:11.09,0:11:12.72,Default,Laguna,0,0,0,,That is my wish as well.
+Dialogue: 0,0:11:12.72,0:11:16.13,Default,Pia,0,0,0,,P-Please, there is no need to bow.
+Dialogue: 0,0:11:16.13,0:11:20.18,Default,Rufus,0,0,0,,Your Majesty... to think you would \Nscurry around without informing me.
+Dialogue: 0,0:11:20.64,0:11:23.57,Default,King,0,0,0,,Yet it seems like you had \Nfound me out, Rufus.
+Dialogue: 0,0:11:23.57,0:11:26.44,Default,King,0,0,0,,But you shouldn't have hidden \NPia away so completely.
+Dialogue: 0,0:11:26.44,0:11:28.96,Default,Rufus,0,0,0,,That was necessary in \Norder to protect her.
+Dialogue: 0,0:11:29.16,0:11:30.79,Default,King,0,0,0,,I suppose it was.
+Dialogue: 0,0:11:31.20,0:11:35.31,Default,Rufus,0,0,0,,Your Majesty, Pia and I were \Nmarried just moments ago.
+Dialogue: 0,0:11:35.31,0:11:37.09,Default,Rufus,0,0,0,,Please be happy for us.
+Dialogue: 0,0:11:37.41,0:11:41.75,Default,Rufus,0,0,0,,We will now take our two-month honeymoon, \Nso I'll leave things here to you.
+Dialogue: 0,0:11:41.75,0:11:43.23,Default,Pia,0,0,0,,Uh... What?
+Dialogue: 0,0:11:43.23,0:11:45.79,Default,King,0,0,0,,Wait! Two months is too long!
+Dialogue: 0,0:11:45.79,0:11:48.04,Default,King,0,0,0,,The country will cease to \Nfunction without your help!
+Dialogue: 0,0:11:48.04,0:11:52.61,Default,King,0,0,0,,Pia! Pia, if you leave the academy, \Nyou will take my happiness with you!
+Dialogue: 0,0:11:52.61,0:11:56.89,Default,Laguna,0,0,0,,I'll leave your office untouched, \Nso please come and visit! Pia!
+Dialogue: 0,0:12:05.45,0:12:11.40,Default,Pia,0,0,0,,Lord Rufus, um, did you just \Ncall me your wife back there?
+Dialogue: 0,0:12:11.40,0:12:15.63,Default,Rufus,0,0,0,,I confirmed with you that\NI had won our bet, didn't I?
+Dialogue: 0,0:12:15.63,0:12:16.76,Default,Pia,0,0,0,,Yes.
+Dialogue: 0,0:12:17.42,0:12:20.26,Default,Rufus,0,0,0,,Immediately afterwards, I made Mike \Nrun to file our marriage application.
+Dialogue: 0,0:12:20.26,0:12:22.03,Default,Pia,0,0,0,,Wow, you move quick!
+Dialogue: 0,0:12:22.03,0:12:27.68,Default,Pia,0,0,0,,But Lord Rufus, while I already had to \Ngraduate to earn my doctoral degree,
+Dialogue: 0,0:12:27.68,0:12:31.64,Default,Pia,0,0,0,,you're still a student,\Nso can you even get married?
+Dialogue: 0,0:12:31.64,0:12:34.47,Default,Rufus,0,0,0,,I graduated from the academy long ago.
+Dialogue: 0,0:12:34.47,0:12:37.65,Default,Pia,0,0,0,,What? You did? But when?
+Dialogue: 0,0:12:37.94,0:12:41.35,Default,Rufus,0,0,0,,I skipped the whole thing and \Ngraduated in my first year.
+Dialogue: 0,0:12:41.35,0:12:47.06,Default,Pia,0,0,0,,Th-Then why did we both \Ncontinue going to campus?
+Dialogue: 0,0:12:47.06,0:12:50.66,Default,Pia,0,0,0,,It would've been easier to \Navoid Caroline if we hadn't.
+Dialogue: 0,0:12:50.86,0:12:52.71,Default,Rufus,0,0,0,,I took your prophecy seriously,
+Dialogue: 0,0:12:53.08,0:12:56.14,Default,Rufus,0,0,0,,and I wanted to make thorough \Npreparations for what was to come.
+Dialogue: 0,0:12:56.88,0:13:01.02,Default,Rufus,0,0,0,,I didn't want you to protest,\Nso I kept quiet about it. I'm sorry, Pia.
+Dialogue: 0,0:13:01.44,0:13:03.63,Default,Rufus,0,0,0,,But I did protect you,\Nso I hope you forgive me.
+Dialogue: 0,0:13:07.06,0:13:11.47,Default,Rufus,0,0,0,,Pia, do you know why I was in such \Na rush to formalize our marriage?
+Dialogue: 0,0:13:11.98,0:13:16.15,Default,Rufus,0,0,0,,I wanted to make you truly \Nmine in the eyes of the law
+Dialogue: 0,0:13:16.15,0:13:18.32,Default,Rufus,0,0,0,,so nobody could steal you away from me.
+Dialogue: 0,0:13:18.59,0:13:21.07,Default,Pia,0,0,0,,Steal me? Who would do that?
+Dialogue: 0,0:13:21.07,0:13:23.77,Default,Rufus,0,0,0,,The world is full of men who \Nwould want your hand, Pia.
+Dialogue: 0,0:13:23.77,0:13:27.45,Default,Rufus,0,0,0,,But none of them could love \Nyou nearly as much as I do.
+Dialogue: 0,0:13:30.17,0:13:31.71,Default,Rufus,0,0,0,,Hey, what's wrong?
+Dialogue: 0,0:13:31.71,0:13:35.12,Default,Pia,0,0,0,,You're the first person who's \Never said he loved me.
+Dialogue: 0,0:13:36.38,0:13:38.54,Default,Rufus,0,0,0,,Well, I'm sure I've already \Ntold you that before.
+Dialogue: 0,0:13:38.54,0:13:41.36,Default,Rufus,0,0,0,,Do you think I'd let any \N woman sit on my lap?
+Dialogue: 0,0:13:42.47,0:13:45.36,Default,Pia,0,0,0,,Of course not, but what a fool I've been.
+Dialogue: 0,0:13:45.79,0:13:51.41,Default,Pia,0,0,0,,I wasn't able to trust you completely \Nuntil now, and I must apologize for that.
+Dialogue: 0,0:13:51.74,0:13:56.41,Default,Rufus,0,0,0,,It's all right. Ever since that day \Nwhen you issued me your challenge,
+Dialogue: 0,0:13:56.41,0:13:58.60,Default,Rufus,0,0,0,,my life has been full of excitement.
+Dialogue: 0,0:14:00.47,0:14:05.16,Default,Rufus,0,0,0,,Without that, I doubt I would've worked \Nas hard as I have to gain influence,
+Dialogue: 0,0:14:05.16,0:14:08.12,Default,Rufus,0,0,0,,and even if we had still gotten married,
+Dialogue: 0,0:14:08.54,0:14:11.31,Default,Rufus,0,0,0,,I doubt our bond would have \Nbeen as powerful as it is now.
+Dialogue: 0,0:14:12.37,0:14:14.86,Default,Rufus,0,0,0,,We've lived these last \Nseven years together.
+Dialogue: 0,0:14:15.26,0:14:17.00,Default,Rufus,0,0,0,,I have seen the Pia who \Nfrolics with dogs,
+Dialogue: 0,0:14:17.34,0:14:19.64,Default,Rufus,0,0,0,,the Pia who relentlessly \Nsearches for fossils in mud,
+Dialogue: 0,0:14:20.24,0:14:25.75,Default,Rufus,0,0,0,,the Pia who cares for my bedridden father \Nand looks after my stubborn mother,
+Dialogue: 0,0:14:26.50,0:14:28.57,Default,Rufus,0,0,0,,and the Pia the world calls a genius.
+Dialogue: 0,0:14:29.37,0:14:31.49,Default,Rufus,0,0,0,,I'm the only person \Nwho knows all of you.
+Dialogue: 0,0:14:31.88,0:14:35.06,Default,Pia,0,0,0,,But there's no way I'm a genius.
+Dialogue: 0,0:14:35.06,0:14:37.77,Default,Rufus,0,0,0,,Mm-hmm. I know you're not a genius, Pia.
+Dialogue: 0,0:14:38.10,0:14:41.22,Default,Rufus,0,0,0,,You're the same adorable Pia who \Nhad to learn handwriting from me.
+Dialogue: 0,0:14:45.75,0:14:47.97,Default,Rufus,0,0,0,,And I still have you here on my lap.
+Dialogue: 0,0:14:51.16,0:14:55.86,Default,Rufus,0,0,0,,Pia, I love you. I will \Nuse everything I have
+Dialogue: 0,0:14:55.86,0:14:58.28,Default,Rufus,0,0,0,,to make sure you're the \Nhappiest person in the world.
+Dialogue: 0,0:14:58.89,0:15:00.19,Default,Pia,0,0,0,,I'm flattered!
+Dialogue: 0,0:15:00.19,0:15:04.66,Default,Pia,0,0,0,,But I still can't understand why someone\N like you would want me, Lord Rufus.
+Dialogue: 0,0:15:04.88,0:15:09.80,Default,Rufus,0,0,0,,Because you want me for the \Nperson that I truly am, Pia.
+Dialogue: 0,0:15:09.80,0:15:13.63,Default,Rufus,0,0,0,,So I don't want anyone else to know \Nhow absolutely precious you are.
+Dialogue: 0,0:15:14.16,0:15:15.55,Default,Rufus,0,0,0,,You belong to me.
+Dialogue: 0,0:15:28.48,0:15:30.69,Default,Rufus,0,0,0,,No one else knows your \Nmodesty when you kiss
+Dialogue: 0,0:15:30.69,0:15:34.41,Default,Rufus,0,0,0,,or the passion that then slowly blossoms \Nin your eyes. I'm the only one.
+Dialogue: 0,0:15:34.73,0:15:37.27,Default,Rufus,0,0,0,,Well, Pia? Say something.
+Dialogue: 0,0:15:37.57,0:15:41.61,Default,Pia,0,0,0,,Th-Thank you for everything you've done.
+Dialogue: 0,0:15:41.98,0:15:46.18,Default,Pia,0,0,0,,I'm so sorry that I've been \Nnothing but a burden to you.
+Dialogue: 0,0:15:46.64,0:15:50.60,Default,Pia,0,0,0,,But I don't think I could survive \Nwithout you, Lord Rufus.
+Dialogue: 0,0:15:51.09,0:15:56.51,Default,Pia,0,0,0,,If you had fallen for Caroline, I think \NI would have cried myself to death.
+Dialogue: 0,0:15:56.86,0:15:58.87,Default,Pia,0,0,0,,I love you so much.
+Dialogue: 0,0:15:58.87,0:16:01.85,Default,Rufus,0,0,0,,You're so emotional, Pia.
+Dialogue: 0,0:16:08.74,0:16:12.41,Default,Rufus,0,0,0,,We will honor the terms \Nof our contract, my wife.
+Dialogue: 0,0:16:14.15,0:16:18.21,italics,Pia (N),0,0,0,,With that, I was finally released \Nfrom the cold grip of my past life.
+Dialogue: 0,0:16:22.14,0:16:26.75,italics,Pia (N),0,0,0,,However, our marriage application \Nhadn't actually been approved yet.
+Dialogue: 0,0:16:28.75,0:16:31.72,italics,Pia (N),0,0,0,,We shouldn't have needed \Nco-signers at our age,
+Dialogue: 0,0:16:31.72,0:16:34.33,italics,Pia (N),0,0,0,,but as we are both \Nconsidered national dignitaries,
+Dialogue: 0,0:16:34.33,0:16:37.83,italics,Pia (N),0,0,0,,we had to get both family heads \Nto sign in the king's presence
+Dialogue: 0,0:16:37.83,0:16:41.27,italics,Pia (N),0,0,0,,or else it wouldn't be \Nconsidered valid, apparently.
+Dialogue: 0,0:16:42.64,0:16:45.50,italics,Pia (M),0,0,0,,And of course, that made Lord Rufus...
+Dialogue: 0,0:16:46.74,0:16:48.51,italics,Pia (M),0,0,0,,very, very upset.
+Dialogue: 0,0:16:49.43,0:16:53.10,Default,Rufus,0,0,0,,You accept me as an adult when you make \Nme perform all of these government duties,
+Dialogue: 0,0:16:53.10,0:16:56.27,Default,Rufus,0,0,0,,and now you say I need my \Nfather's signature for this?
+Dialogue: 0,0:16:56.27,0:16:58.36,Default,Pia,0,0,0,,Lord Rufus, well...
+Dialogue: 0,0:16:58.36,0:17:02.65,Default,Pia,0,0,0,,it is past noon now, so shouldn't \Nyou be getting back to work?
+Dialogue: 0,0:17:02.65,0:17:05.70,Default,Rufus,0,0,0,,Well, they're not treating \Nme like a child.
+Dialogue: 0,0:17:05.70,0:17:09.54,Default,Rufus,0,0,0,,Do you think a child should be allowed to \Nassist in the prime minister's affairs?
+Dialogue: 0,0:17:11.55,0:17:15.80,Default,Bianca,0,0,0,,Rufus, you're going to shoot \Nyourself in the foot like that,
+Dialogue: 0,0:17:15.80,0:17:18.17,Default,Bianca,0,0,0,,so I want you to stop this \Nnonsense immediately.
+Dialogue: 0,0:17:18.92,0:17:23.82,italics,Pia (N),0,0,0,,Afterwards, Lord Rufus told me what \Nhappened to everyone at the party.
+Dialogue: 0,0:17:24.80,0:17:27.53,italics,Pia (N),0,0,0,,The crown prince was sent \Nto a prison for nobles
+Dialogue: 0,0:17:27.53,0:17:30.80,italics,Pia (N),0,0,0,,for abusing the authority \Nof the royal family.
+Dialogue: 0,0:17:31.31,0:17:34.81,italics,Pia (N),0,0,0,,Information about the poison in \Nthe cookies was kept classified.
+Dialogue: 0,0:17:35.39,0:17:37.51,italics,Pia (N),0,0,0,,Lord Jeremy and Professor Guy
+Dialogue: 0,0:17:37.51,0:17:41.05,italics,Pia (N),0,0,0,,were admitted to the medical facility's \Nheavily guarded quarantine unit.
+Dialogue: 0,0:17:41.44,0:17:44.97,italics,Pia (N),0,0,0,,Lord Henry's father, \NKnight Commander Cox,
+Dialogue: 0,0:17:44.97,0:17:47.46,italics,Pia (N),0,0,0,,said he would slap some\N sense back into his son,
+Dialogue: 0,0:17:47.46,0:17:52.95,italics,Pia (N),0,0,0,,and took him home... to make him \Nsweat the poison out of his body.
+Dialogue: 0,0:17:54.01,0:17:59.46,italics,Pia (N),0,0,0,,Finally, Caroline was punished for \Nordering the crown prince to banish us.
+Dialogue: 0,0:17:59.80,0:18:03.02,italics,Pia (N),0,0,0,,However, while her relationships with \Nthe fiancés were considered abnormal,
+Dialogue: 0,0:18:03.02,0:18:05.73,italics,Pia (N),0,0,0,,they did not amount to criminal behavior.
+Dialogue: 0,0:18:06.07,0:18:09.76,italics,Pia (N),0,0,0,,As the substance in the cookies \Nis still being investigated,
+Dialogue: 0,0:18:09.76,0:18:12.51,italics,Pia (N),0,0,0,,Caroline has been locked away in \Nsolitary confinement as a key suspect
+Dialogue: 0,0:18:12.51,0:18:16.03,italics,Pia (N),0,0,0,,and is prevented from making \Ncontact with anyone outside.
+Dialogue: 0,0:18:16.33,0:18:20.16,Default,Bianca,0,0,0,,All right, let's put aside such \Nunpleasant topics for a while.
+Dialogue: 0,0:18:20.99,0:18:25.60,Default,Bianca,0,0,0,,Leo and I would be willing to sign your \Nmarriage paperwork at any time.
+Dialogue: 0,0:18:25.60,0:18:29.67,Default,Bianca,0,0,0,,Yes, we had been planning on holding \Nthe ceremony after your graduation,
+Dialogue: 0,0:18:30.09,0:18:34.01,Default,Bianca,0,0,0,,but couldn't you enjoy your engagement \Njust a little bit longer?
+Dialogue: 0,0:18:34.81,0:18:37.29,italics,Pia (M),0,0,0,,M-Mother?!
+Dialogue: 0,0:18:39.92,0:18:40.84,Default,Pia,0,0,0,,What?
+Dialogue: 0,0:18:40.84,0:18:44.39,Default,Rufus,0,0,0,,Pia, the weather is nice today, so let's \Neat in the conservatory instead.
+Dialogue: 0,0:18:45.08,0:18:48.73,Default,Rufus,0,0,0,,Someone bring our things and get \NDagger and Brad to come with you.
+Dialogue: 0,0:18:48.73,0:18:50.85,Default,Rufus,0,0,0,,Oh, but Mike and Sarah, you stay away.
+Dialogue: 0,0:18:53.34,0:18:57.35,Default,Rufus,0,0,0,,Ever since last night, I have \Nbeen in a very, very bad mood.
+Dialogue: 0,0:18:57.62,0:19:01.11,Default,Pia,0,0,0,,Huh? If you're in a bad \Nmood, should I go home?
+Dialogue: 0,0:19:02.62,0:19:05.01,Default,Sarah,0,0,0,,My lady! Please, do not \Nmake light of this!
+Dialogue: 0,0:19:05.01,0:19:08.28,Default,Mike,0,0,0,,L-Lady Pia, I believe you should \Ndo exactly as he says.
+Dialogue: 0,0:19:10.21,0:19:14.93,Default,Bianca,0,0,0,,Pia, Stan men are very passionate \Nindeed. Good luck, dear.
+Dialogue: 0,0:19:16.13,0:19:18.55,italics,Pia (M),0,0,0,,Are they setting me up to be sacrificed?
+Dialogue: 0,0:19:20.77,0:19:25.17,Default,Pia,0,0,0,,Lord Rufus, the sunlight is \Nso lovely and warm today!
+Dialogue: 0,0:19:25.66,0:19:30.07,Default,Pia,0,0,0,,Being out here like this reminds me of \Nthe picnics we had when we were young.
+Dialogue: 0,0:19:35.50,0:19:38.72,Default,Rufus,0,0,0,,Seeing you out here in the sun, Pia, \Nwith your worries now behind you,
+Dialogue: 0,0:19:39.10,0:19:42.23,Default,Rufus,0,0,0,,you seem to radiate innocence and \Npurity more than ever before,
+Dialogue: 0,0:19:42.23,0:19:43.74,Default,Rufus,0,0,0,,almost as if you're an angel.
+Dialogue: 0,0:19:45.27,0:19:46.96,italics,Pia (M),0,0,0,,Lord Rufus...
+Dialogue: 0,0:19:46.96,0:19:48.90,italics,Pia (M),0,0,0,,You're starting to hallucinate angels?
+Dialogue: 0,0:19:49.35,0:19:51.12,italics,Pia (M),0,0,0,,It must be the exhaustion!
+Dialogue: 0,0:19:51.89,0:19:55.68,Default,Pia,0,0,0,,Here, Lord Rufus. Say, "Aah!"
+Dialogue: 0,0:19:57.76,0:20:00.62,Default,Rufus,0,0,0,,Stop, Pia! Are you trying \Nto give me a heart attack?
+Dialogue: 0,0:20:03.49,0:20:05.88,Default,Pia,0,0,0,,Anyway, thank you for all you've done.
+Dialogue: 0,0:20:06.18,0:20:07.88,italics,Pia (M),0,0,0,,Oh! I remember this!
+Dialogue: 0,0:20:08.54,0:20:11.88,italics,Pia (M),0,0,0,,It comes from the final image from \Nthe Rufus route in Magi-Caro.
+Dialogue: 0,0:20:12.26,0:20:16.02,italics,Pia (M),0,0,0,,I'm doing the same thing that \NCaroline does in the game.
+Dialogue: 0,0:20:16.32,0:20:20.55,italics,Pia (M),0,0,0,,Does this mean I've defied fate \Nand earned my place here?
+Dialogue: 0,0:20:22.02,0:20:23.59,Default,Rufus,0,0,0,,What's so funny, Pia?
+Dialogue: 0,0:20:23.59,0:20:28.03,Default,Pia,0,0,0,,Nothing. I was just thinking that while \NI lost the bet, I think I won the game.
+Dialogue: 0,0:20:28.36,0:20:31.16,Default,Rufus,0,0,0,,Pia, are you trying to start a fight?
+Dialogue: 0,0:20:31.16,0:20:32.05,Default,Pia,0,0,0,,Huh?
+Dialogue: 0,0:20:32.53,0:20:37.37,Default,Rufus,0,0,0,,We can't get married yet, but you're happy \Nwith that as long as you can go digging?
+Dialogue: 0,0:20:37.37,0:20:39.31,Default,Pia,0,0,0,,N-No, that's not what I meant!
+Dialogue: 0,0:20:39.31,0:20:42.52,Default,Rufus,0,0,0,,Fine. All right then. \NLet's make a new bet.
+Dialogue: 0,0:20:42.52,0:20:43.42,Default,Pia,0,0,0,,Huh?
+Dialogue: 0,0:20:43.42,0:20:47.33,Default,Rufus,0,0,0,,To see if I can get His \NMajesty's permission to marry
+Dialogue: 0,0:20:47.74,0:20:52.02,Default,Rufus,0,0,0,,before you find a fossil of an animal \Nlarger than fifty centimeters long.
+Dialogue: 0,0:20:52.02,0:20:56.52,Default,Pia,0,0,0,,That's so mean! I can tell you don't \Neven think that I could find one!
+Dialogue: 0,0:20:56.76,0:20:59.44,Default,Pia,0,0,0,,Fine. I'm in!
+Dialogue: 0,0:20:59.44,0:21:05.03,Default,Pia,0,0,0,,I'll win so spectacularly that you'll come\N crawling back to me to apologize!
+Dialogue: 0,0:21:07.15,0:21:12.96,Default,Rufus,0,0,0,,I'd be happy to. But if I do \Nwin, then in that very moment,
+Dialogue: 0,0:21:12.96,0:21:17.40,Default,Rufus,0,0,0,,I will take you in my arms and not \Nlet go for an entire month, Pia.
+Dialogue: 0,0:21:17.77,0:21:19.04,Default,Rufus,0,0,0,,I hope you'll be prepared for that.
+Dialogue: 0,0:21:29.90,0:21:33.14,italics,Pia (M),0,0,0,,I'm still just a super timid noble girl,
+Dialogue: 0,0:21:33.14,0:21:37.06,italics,Pia (M),0,0,0,,but now I've gone and accepted another \Nbet from my cunning fiancé!
+Dialogue: 0,0:21:40.50,0:21:43.07,italics,Pia (M),0,0,0,,Meanwhile...
+Dialogue: 0,0:21:43.87,0:21:46.69,italics,Pia (M),0,0,0,,the poisonous substance \Nmixed into the cookies
+Dialogue: 0,0:21:46.69,0:21:51.45,italics,Pia (M),0,0,0,,and the true reason behind this\Nincident are still shrouded in mystery.
+Dialogue: 0,0:22:01.37,0:22:07.12,Default,Kyle,0,0,0,,Make you taste good. Make you \Ntaste good. Make you taste good.
+Dialogue: 0,0:23:37.18,0:23:40.01,sign_generic,text,0,0,0,,{\fade(500,1)\fs14\blur2\3c&HA7D38E&\bord1\c&HF8FFEE&\b1\pos(304,313)}Next Time
+Dialogue: 0,0:22:22.15,0:22:28.65,sign_generic,credits; sign,0,0,0,,{\fs13\an7\fade(200,1)\bord1.5\blur0.5\3c&H4EA5EF&\b1\c&HDBF0FC&}Translator:\N{\fs15}Michael Arnold\N\N{\fs13}Timer:\N{\fs15}Edgar Cruz\N\N{\fs13}Editor:\N{\fs15}Salem Alabanza\N\N{\fs13}Quality Control:\N{\fs15}S. Bilyeu\N\N{\fs13}Final Quality Control:\N{\fs15}Michelle Tymon
+Dialogue: 0,0:23:37.18,0:23:40.01,sign_generic,text,0,0,0,,{\fade(500,1)\fs14\blur2\3c&HA7D38E&\bord1\c&HF8FFEE&\b1\an1\pos(352,313)}I Was No Longer an Evil Heiress
+
