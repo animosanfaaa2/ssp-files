@@ -1,0 +1,293 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,20,20,20,1
+Style: Sign,Arial,21,&H00FFFFFF,&H000000FF,&H00292929,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,20,20,20,1
+Style: Italique,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,2,20,20,20,1
+Style: TiretsDefault,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,1,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.74,0:00:04.00,Sign,sign,0,0,0,,{\fad(500,500)\fs14\blur2\3a&H80\pos(485,290)}ÉPISODE 32\N{\fs18}LES QUALITÉS POUR ÊTRE UN ROI
+Dialogue: 0,0:00:00.74,0:00:04.00,Sign,sign,0,0,0,,{\fad(500,500)\fs14\bord0\pos(485,290)}ÉPISODE 32\N{\fs18}LES QUALITÉS POUR ÊTRE UN ROI
+Dialogue: 0,0:00:04.00,0:00:05.98,Default,Ars,0,0,0,,Si je suis seigneur de ces terres,
+Dialogue: 0,0:00:06.66,0:00:09.48,Default,Ars,0,0,0,,c’est parce que\Nmes gens croient en moi.
+Dialogue: 0,0:00:09.64,0:00:13.74,Default,Ars,0,0,0,,C’est pour ça que je vous interdis\Nde toucher à mon vassal !
+Dialogue: 0,0:00:16.82,0:00:19.86,Default,Rikuya,0,0,0,,Ses vassaux croient en lui ?
+Dialogue: 0,0:00:27.14,0:00:29.12,Default,Brigand 1,0,0,0,,M. Buigo,\Nnous avons un problème !
+Dialogue: 0,0:00:29.18,0:00:32.55,Sign,sign,0,0,0,,{\fad(465,500)\pos(175,265)}LA CONTRE-ATTAQUE
+Dialogue: 0,0:00:29.36,0:00:32.48,Default,Buigo,0,0,0,,Je vous ai dit de ne pas entrer\Nsans permission.
+Dialogue: 0,0:00:36.38,0:00:38.76,Default,Buigo,0,0,0,,Vous deux, surveillez-les.
+Dialogue: 0,0:00:39.30,0:00:40.30,Default,Brigands,0,0,0,,À vos ordres.
+Dialogue: 0,0:00:43.28,0:00:44.92,Default,Buigo,0,0,0,,Je reviens vite.
+Dialogue: 0,0:00:59.92,0:01:01.14,Default,Ars,0,0,0,,Rietz !
+Dialogue: 0,0:01:03.12,0:01:04.22,Default,Rietz,0,0,0,,Sire Ars !
+Dialogue: 0,0:01:09.18,0:01:11.16,Default,Rietz,0,0,0,,Vous êtes couvert de blessures.
+Dialogue: 0,0:01:11.68,0:01:13.52,Default,Ars,0,0,0,,Ne vous inquiétez pas pour moi.
+Dialogue: 0,0:01:13.84,0:01:15.84,Default,Rietz,0,0,0,,Pourquoi m’avoir protégé ?
+Dialogue: 0,0:01:17.42,0:01:21.52,Default,Ars,0,0,0,,Pour nous évader,\Nvotre force est indispensable.
+Dialogue: 0,0:01:22.12,0:01:23.34,Default,Ars,0,0,0,,Et puis,
+Dialogue: 0,0:01:23.64,0:01:27.60,Default,Ars,0,0,0,,je n’ai pas menti en disant\Nque je tenais sincèrement à vous.
+Dialogue: 0,0:01:28.07,0:01:29.60,Default,Ars,0,0,0,,Content que vous n’ayez rien.
+Dialogue: 0,0:01:31.90,0:01:33.12,Default,Rietz,0,0,0,,Sire Ars…
+Dialogue: 0,0:01:41.44,0:01:43.32,Default,Rikuya,0,0,0,,Il se passe quelque chose, dehors.
+Dialogue: 0,0:01:43.78,0:01:45.28,Default,Rikuya,0,0,0,,C’est notre chance.
+Dialogue: 0,0:01:48.92,0:01:53.22,Default,Rikuya,0,0,0,,Libérons Maika et Takao\Net fuyons d’ici !
+Dialogue: 0,0:03:30.26,0:03:35.98,Sign,sign,0,0,0,,{\fs20\pos(495.01,202.96)}As a {\c&H180D3D&\3c&HFFFFFF&}Reincarnated {\c&HFFFFFF&\3c&HCBBF7C&}Aristocrat\N{\3c&HB7C09D&}I’ll Use My Appraisal Skill\N{\3c&H94C39D&}to Rise in the World
+Dialogue: 0,0:03:36.72,0:03:40.20,Sign,sign,0,0,0,,{\fad(500,500)\pos(320,270)}QUELQUES HEURES AUPARAVANT
+Dialogue: 0,0:03:42.66,0:03:43.94,Default,Brigand B,0,0,0,,Un souci, le nouveau ?
+Dialogue: 0,0:03:44.50,0:03:46.44,Default,Zaht,0,0,0,,Non, rien du tout.
+Dialogue: 0,0:03:50.22,0:03:52.08,Italique,Thomas,0,0,0,,Voici comment on va procéder.
+Dialogue: 0,0:03:52.44,0:03:54.00,Italique,Thomas,0,0,0,,Une fois infiltré,
+Dialogue: 0,0:03:54.14,0:03:57.72,Italique,Thomas,0,0,0,,tu poseras ces explosifs\Nun peu partout dans le château.
+Dialogue: 0,0:03:58.02,0:03:59.94,Italique,Thomas,0,0,0,,Une fois la cellule d’Ars repérée,
+Dialogue: 0,0:04:00.14,0:04:03.58,Italique,Thomas,0,0,0,,tu feras tout sauter.\NNous interviendrons à ce moment-là.
+Dialogue: 0,0:04:03.94,0:04:06.46,Italique,Zaht,0,0,0,,C’est un signal bien spectaculaire.
+Dialogue: 0,0:04:06.74,0:04:08.64,Italique,Thomas,0,0,0,,Pendant que\Nnous lançons l’assaut,
+Dialogue: 0,0:04:08.78,0:04:12.80,Italique,Thomas,0,0,0,,tu profiteras du chaos\Npour t’enfuir avec le petit.
+Dialogue: 0,0:04:13.66,0:04:16.76,Italique,Thomas,0,0,0,,Mémorise bien\Nles plans du château.
+Dialogue: 0,0:04:20.90,0:04:23.48,Default,Zaht,0,0,0,,Les cachots sont bien au sous-sol ?
+Dialogue: 0,0:04:23.66,0:04:27.12,Default,Brigand B,0,0,0,,Ouais… Mais comment tu sais ça ?
+Dialogue: 0,0:04:29.46,0:04:30.44,Default,Brigand B,0,0,0,,Il est où ?
+Dialogue: 0,0:04:33.18,0:04:34.20,Default,Zaht,0,0,0,,Sire Ars ?
+Dialogue: 0,0:04:38.64,0:04:41.88,Default,Zaht,0,0,0,,Vous êtes qui, vous ?\NOù est sire Ars ?
+Dialogue: 0,0:04:42.10,0:04:45.50,Default,Maika,0,0,0,,Vous, seriez-vous les secours\Ndont parlait sire Ars ?
+Dialogue: 0,0:04:46.04,0:04:47.54,Default,Zaht,0,0,0,,Tu connais sire Ars ?
+Dialogue: 0,0:04:47.72,0:04:50.72,Default,Maika,0,0,0,,Oui, il a été emmené\Navec mon frère et Rietz
+Dialogue: 0,0:04:50.88,0:04:53.04,Default,Maika,0,0,0,,auprès du chef de ces brigands !
+Dialogue: 0,0:04:53.18,0:04:55.18,Default,Zaht,0,0,0,,Ça marche, je vais les chercher.
+Dialogue: 0,0:04:55.32,0:04:58.18,Default,Maika,0,0,0,,Attendez !\NLaissez-nous venir avec vous !
+Dialogue: 0,0:04:59.70,0:05:03.92,Default,Zaht,0,0,0,,Non, impossible. Je me ferais repérer,\Navec deux otages sur les bras.
+Dialogue: 0,0:05:04.96,0:05:05.96,Default,Maika,0,0,0,,Je vous en prie.
+Dialogue: 0,0:05:07.36,0:05:08.70,Default,Maika,0,0,0,,Notre frère
+Dialogue: 0,0:05:09.18,0:05:11.70,Default,Maika,0,0,0,,est notre seule famille.
+Dialogue: 0,0:05:19.74,0:05:20.90,Default,Zaht,0,0,0,,Entendu.
+Dialogue: 0,0:05:21.32,0:05:24.58,Default,Zaht,0,0,0,,Tu as de la chance\Nque ce garçon ait l’air costaud.
+Dialogue: 0,0:05:25.26,0:05:26.62,Default,Zaht,0,0,0,,Je compte sur vous.
+Dialogue: 0,0:05:38.92,0:05:40.96,Default,Maika,0,0,0,,Ils sont dans les quartiers du boss.
+Dialogue: 0,0:05:41.12,0:05:43.98,Default,Zaht,0,0,0,,Ses quartiers ?\NCe serait dans cette tour ?
+Dialogue: 0,0:05:51.42,0:05:53.58,Default,Brigand B,0,0,0,,Ils se sont évadés !\NPoursuivons-les !
+Dialogue: 0,0:05:57.20,0:05:59.60,Default,Maika,0,0,0,,Takao, saute sur le toit !
+Dialogue: 0,0:06:05.22,0:06:07.12,Default,Brigand B,0,0,0,,Ils s’enfuient par les toits !
+Dialogue: 0,0:06:07.52,0:06:10.16,Default,Brigand B,0,0,0,,Attrapez-les !\NBougez-vous, chopez-les !
+Dialogue: 0,0:06:10.30,0:06:11.88,Default,Maika,0,0,0,,Takao, par là !
+Dialogue: 0,0:06:22.38,0:06:24.64,Default,Brigand 3,0,0,0,,Ils sont que trois. On se les fait !
+Dialogue: 0,0:06:34.42,0:06:38.22,Sign,sign,0,0,0,,{\fad(465,500)\pos(175,285)}LA FORCE DES FUJIMIYA
+Dialogue: 0,0:06:41.38,0:06:44.36,Default,Brigand 4,0,0,0,,N’espérez pas\Nvous en sortir indemnes.
+Dialogue: 0,0:06:46.46,0:06:48.34,Default,Zaht,0,0,0,,On est en mauvaise posture.
+Dialogue: 0,0:06:48.78,0:06:49.86,Default,Maika,0,0,0,,Takao.
+Dialogue: 0,0:06:51.10,0:06:53.50,Default,Maika,0,0,0,,Montrons-leur\Nla force des Fujimiya.
+Dialogue: 0,0:06:53.68,0:06:54.76,Default,Takao,0,0,0,,Oui !
+Dialogue: 0,0:07:11.76,0:07:14.16,Default,Brigand foule,0,0,0,,C’est une blague ?\ND’un coup de poing ?
+Dialogue: 0,0:07:14.50,0:07:18.28,Default,Zaht,0,0,0,,Pas mal du tout !\NTu serais le bienvenu dans notre unité.
+Dialogue: 0,0:07:20.16,0:07:23.10,Default,Brigand foule,0,0,0,,Ces types ne sont pas humains !
+Dialogue: 0,0:07:29.82,0:07:32.04,Default,Buigo,0,0,0,,Vous voulez voir mes otages ?
+Dialogue: 0,0:07:33.36,0:07:37.56,Default,Buigo,0,0,0,,Mais d’abord,\Nil faut que je vous cogne un peu.
+Dialogue: 0,0:07:37.72,0:07:40.32,TiretsDefault,Brigands foule,230,0,0,,– C’est M. Buigo !\N– Notre boss est là !
+Dialogue: 0,0:07:47.76,0:07:50.60,Italique,Zaht,0,0,0,,Il est rapide !\NEt quelle puissance !
+Dialogue: 0,0:07:59.46,0:08:01.84,Default,Maika,0,0,0,,Il ne peut utiliser son arme\Nau contact !
+Dialogue: 0,0:08:01.98,0:08:02.86,Default,Takao,0,0,0,,Compris !
+Dialogue: 0,0:08:06.96,0:08:07.96,Default,Maika,0,0,0,,Takao !
+Dialogue: 0,0:08:10.14,0:08:11.66,Default,Buigo,0,0,0,,Va en enfer !
+Dialogue: 0,0:08:11.80,0:08:12.96,Default,Maika,0,0,0,,Takao !
+Dialogue: 0,0:08:18.48,0:08:23.30,Default,Buigo,0,0,0,,Alors, où est passé votre entrain ?\NJ’ai même pas de quoi m’échauffer !
+Dialogue: 0,0:08:29.84,0:08:34.02,Default,Zaht,0,0,0,,Eh ben. J’ai pas chômé, cette fois.
+Dialogue: 0,0:08:35.34,0:08:38.08,Default,Buigo,0,0,0,,Quoi, tu abandonnes ?
+Dialogue: 0,0:08:39.02,0:08:42.22,Default,Zaht,0,0,0,,Sire Ars et Rietz sont dans cette tour,\Npas vrai ?
+Dialogue: 0,0:08:42.86,0:08:45.24,Default,Buigo,0,0,0,,T’es un soldat de Canarre, donc.
+Dialogue: 0,0:08:45.40,0:08:48.84,Default,Buigo,0,0,0,,Il te manquait pas grand-chose\Npour devenir un héros.
+Dialogue: 0,0:08:49.04,0:08:50.24,Default,Zaht,0,0,0,,Cause toujours…
+Dialogue: 0,0:08:51.52,0:08:54.22,Default,Zaht,0,0,0,,Je pense qu’ils sauront\Ns’occuper du reste.
+Dialogue: 0,0:09:04.06,0:09:06.22,Default,Brigands,0,0,0,,Ça pète de tous les côtés !
+Dialogue: 0,0:09:06.44,0:09:09.84,Default,Zaht,0,0,0,,Dans un instant,\Nprès de 100 soldats vont débarquer ici.
+Dialogue: 0,0:09:10.04,0:09:12.78,Default,Zaht,0,0,0,,Vous êtes tous cuits.
+Dialogue: 0,0:09:13.10,0:09:16.02,Default,Buigo,0,0,0,,Quoi ?\NSeulement 100 hommes, tu dis ?
+Dialogue: 0,0:09:16.36,0:09:20.16,Default,Buigo,0,0,0,,On est plus de 500, je te signale.\NOn va les réduire en bouillie !
+Dialogue: 0,0:09:22.22,0:09:24.28,Default,Zaht,0,0,0,,T’es sûr que ça te suffira ?
+Dialogue: 0,0:09:25.20,0:09:26.28,Default,Buigo,0,0,0,,Pardon ?
+Dialogue: 0,0:09:26.46,0:09:31.30,Default,Zaht,0,0,0,,On parle de ceux qui ont protégé Canarre\Ndes 80 000 soldats de Seitz.
+Dialogue: 0,0:09:31.56,0:09:34.98,Sign,Sign,0,0,0,,{\fad(465,500)\pos(175,285)}ÉVASION
+Dialogue: 0,0:09:33.06,0:09:34.28,Default,Brigands,0,0,0,,Qu’est-ce que c’est ?
+Dialogue: 0,0:09:42.76,0:09:45.42,Default,Braham,0,0,0,,L’unité d’élite de Canarre\Nfait son entrée !
+Dialogue: 0,0:09:45.58,0:09:48.06,Default,Braham,0,0,0,,Fuyez, si vous tenez à la vie !
+Dialogue: 0,0:09:54.04,0:09:58.00,Default,Braham,0,0,0,,À trop réfléchir,\Nmon corps s’est tout engourdi.
+Dialogue: 0,0:09:58.16,0:10:00.10,Default,Braham,0,0,0,,Je vais enfin pouvoir\Nme défouler !
+Dialogue: 0,0:10:00.26,0:10:04.24,Default,Thomas,0,0,0,,Ton entrain est louable,\Nmais n’oublie pas notre objectif.
+Dialogue: 0,0:10:04.48,0:10:08.04,Default,Thomas,0,0,0,,Nous devons avant tout\Nsauver Ars Louvent.
+Dialogue: 0,0:10:08.70,0:10:10.00,Default,Thomas,0,0,0,,C’est clair ?
+Dialogue: 0,0:10:10.30,0:10:11.62,Default,Braham,0,0,0,,Je m’en occupe !
+Dialogue: 0,0:10:11.98,0:10:13.30,Default,Brigand A,0,0,0,,On est attaqués !
+Dialogue: 0,0:10:13.48,0:10:15.82,Default,Brigand I,0,0,0,,Ils vont quand même pas\Nvenir jusqu’ici !
+Dialogue: 0,0:10:16.18,0:10:20.42,Default,Zaht,0,0,0,,Si tu es un ancien soldat de Seitz,\Ntu connais la force de nos hommes.
+Dialogue: 0,0:10:21.70,0:10:25.06,Default,Buigo,0,0,0,,Redescends un peu !\NOn a des otages, de notre côté !
+Dialogue: 0,0:10:29.68,0:10:31.10,Default,Buigo,0,0,0,,Vous trois ?
+Dialogue: 0,0:10:31.72,0:10:33.82,Default,Zaht,0,0,0,,Vous en avez mis du temps, Rietz.
+Dialogue: 0,0:10:34.00,0:10:35.06,Default,Takao / Maika,0,0,0,,Rikuya !
+Dialogue: 0,0:10:35.26,0:10:37.28,Default,Rikuya,0,0,0,,Maika ! Takao !
+Dialogue: 0,0:10:38.06,0:10:40.78,Default,Rietz,0,0,0,,Tu t’en es donné à cœur joie,\Ntout à l’heure.
+Dialogue: 0,0:10:41.04,0:10:43.72,Default,Rietz,0,0,0,,Pour avoir osé blesser sire Ars,
+Dialogue: 0,0:10:44.54,0:10:46.24,Default,Rietz,0,0,0,,tu vas payer !
+Dialogue: 0,0:10:50.80,0:10:53.96,Default,Rietz,0,0,0,,Je vais te remettre à ta place,\Nvermine !
+Dialogue: 0,0:11:03.42,0:11:05.84,Default,Rietz,0,0,0,,Même te toucher me répugne.
+Dialogue: 0,0:11:06.82,0:11:07.88,Default,Brigand,0,0,0,,Boss !
+Dialogue: 0,0:11:08.02,0:11:10.62,Default,Brigand,0,0,0,,M. Buigo s’est fait battre ?
+Dialogue: 0,0:11:14.04,0:11:18.16,Default,Ars,0,0,0,,Merci infiniment, Zaht !\NVous êtes venus nous secourir ?
+Dialogue: 0,0:11:18.30,0:11:19.28,Default,Zaht,0,0,0,,Hop là !
+Dialogue: 0,0:11:20.22,0:11:22.16,Default,Zaht,0,0,0,,Vous êtes salement amoché.
+Dialogue: 0,0:11:22.50,0:11:25.28,Default,Zaht,0,0,0,,Dame Lysia va devenir terrifiante\Nen vous voyant.
+Dialogue: 0,0:11:26.96,0:11:28.88,Default,Rietz,0,0,0,,Merci, Zaht.
+Dialogue: 0,0:11:29.12,0:11:33.28,Default,Rietz,0,0,0,,Grâce à l’agitation que tu as causée,\Nnous avons pu nous évader.
+Dialogue: 0,0:11:33.48,0:11:35.00,Default,Zaht,0,0,0,,Je vous en prie.
+Dialogue: 0,0:11:35.20,0:11:38.08,Default,Rietz,0,0,0,,Ça fait bizarre\Nd’être remercié par vous.
+Dialogue: 0,0:11:38.28,0:11:39.42,Default,Maika,0,0,0,,Rikuya !
+Dialogue: 0,0:11:40.20,0:11:41.80,Default,Maika,0,0,0,,Tu es blessé. Tout va bien ?
+Dialogue: 0,0:11:41.96,0:11:45.34,Default,Rikuya,0,0,0,,Ne t’inquiète pas.\NJe suis heureux que vous n’ayez rien.
+Dialogue: 0,0:11:46.02,0:11:48.00,Default,Maika,0,0,0,,Tu as pu récupérer ton sabre.
+Dialogue: 0,0:11:49.70,0:11:50.72,Default,Rikuya,0,0,0,,Oui.
+Dialogue: 0,0:11:55.98,0:11:58.56,Default,Rietz,0,0,0,,Résigne-toi, Buigo.
+Dialogue: 0,0:12:00.80,0:12:03.82,Default,Buigo,0,0,0,,Ne croyez pas\Nvous en tirer comme ça.
+Dialogue: 0,0:12:10.18,0:12:11.84,Default,Braham,0,0,0,,Hein ? C’est quoi ?
+Dialogue: 0,0:12:12.00,0:12:13.00,Default,Thomas,0,0,0,,Ne me dites pas…
+Dialogue: 0,0:12:13.20,0:12:15.00,Default,Ars,0,0,0,,Encore une explosion ?
+Dialogue: 0,0:12:15.14,0:12:16.70,Default,Zaht,0,0,0,,Je n’y suis pour rien.
+Dialogue: 0,0:12:20.14,0:12:22.76,Default,Buigo,0,0,0,,Si je tombe, vous tombez tous !
+Dialogue: 0,0:12:22.92,0:12:25.72,Default,Buigo,0,0,0,,Vous allez tous crever avec moi !
+Dialogue: 0,0:12:34.08,0:12:35.48,Default,Brigand,0,0,0,,Le château s’effondre !
+Dialogue: 0,0:12:35.70,0:12:37.04,Default,Brigand,0,0,0,,Sauve qui peut !
+Dialogue: 0,0:12:37.22,0:12:38.52,Default,Rietz,0,0,0,,Zaht, il faut s’enfuir !
+Dialogue: 0,0:12:38.68,0:12:40.92,Default,Zaht,0,0,0,,Entendu !\NDépêchez-vous, vous trois !
+Dialogue: 0,0:12:43.36,0:12:46.98,Sign,sign,0,0,0,,{\fs14\an3\fad(500,0)\pos(606.223,263.778)}As a {\c&H180D3D&\3c&HFFFFFF&}Reincarnated {\c&HFFFFFF&\3c&HCBBF7C&}Aristocrat\N{\3c&HB7C09D&}I’ll Use My Appraisal Skill\N{\3c&H94C39D&}to Rise in the World
+Dialogue: 0,0:12:47.04,0:12:50.36,Sign,sign,0,0,0,,{\fs14\an1\fad(400,400)\pos(35.556,263.778)}As a {\c&H180D3D&\3c&HFFFFFF&}Reincarnated {\c&HFFFFFF&\3c&HCBBF7C&}Aristocrat\N{\3c&HB7C09D&}I’ll Use My Appraisal Skill\N{\3c&H94C39D&}to Rise in the World
+Dialogue: 0,0:13:05.30,0:13:06.50,Default,Rietz,0,0,0,,Nous sommes bloqués.
+Dialogue: 0,0:13:06.86,0:13:09.22,Default,Zaht,0,0,0,,Par ici !\NIl y a un passage à l’intérieur.
+Dialogue: 0,0:13:17.88,0:13:19.80,Default,Maika,0,0,0,,Il faut traverser ce couloir ?
+Dialogue: 0,0:13:19.98,0:13:22.46,Default,Zaht,0,0,0,,Il n’y a pas d’autre chemin. Vite !
+Dialogue: 0,0:13:26.20,0:13:27.12,Default,Maika,0,0,0,,Takao !
+Dialogue: 0,0:13:28.26,0:13:30.10,Default,Takao,0,0,0,,Rikuya, attention !
+Dialogue: 0,0:13:33.70,0:13:35.00,Default,Zaht,0,0,0,,Vous n’avez rien ?
+Dialogue: 0,0:13:49.54,0:13:50.68,Default,Rikuya,0,0,0,,Mon sabre !
+Dialogue: 0,0:13:52.10,0:13:53.80,Default,Zaht,0,0,0,,Tu fous quoi ? Tu vas y rester !
+Dialogue: 0,0:13:56.98,0:13:58.18,Default,Rietz,0,0,0,,Sire Ars !
+Dialogue: 0,0:14:19.32,0:14:22.54,Default,Zaht,0,0,0,,Vous aussi, dépêchez-vous !\NLe château va s’effondrer !
+Dialogue: 0,0:14:28.00,0:14:29.66,Default,Maika,0,0,0,,Nous ne vous rejoindrons pas.
+Dialogue: 0,0:14:31.76,0:14:33.72,Default,Maika,0,0,0,,Nous ne pouvons\Nabandonner ce sabre.
+Dialogue: 0,0:14:34.00,0:14:36.92,Default,Rikuya,0,0,0,,Que dis-tu ?\NDépêchez-vous de venir !
+Dialogue: 0,0:14:37.08,0:14:41.44,Default,Maika,0,0,0,,Si nous ne faisons rien,\Nl’effondrement emportera le sabre.
+Dialogue: 0,0:14:41.78,0:14:45.64,Default,Takao,0,0,0,,Nous allons récupérer le sabre\Net nous échapper par un autre moyen !
+Dialogue: 0,0:14:46.10,0:14:49.70,Default,Zaht,0,0,0,,Vous allez juste y passer !\NVenez ici, je vous dis !
+Dialogue: 0,0:14:51.62,0:14:55.98,Default,Maika,0,0,0,,La survie de Yô\Npasse avant nos vies !
+Dialogue: 0,0:14:56.48,0:15:01.22,Default,Maika,0,0,0,,Tu as besoin de ce sabre\Npour rentrer au pays en tant que roi !
+Dialogue: 0,0:15:02.00,0:15:04.60,Default,Rikuya,0,0,0,,Maika, Takao, je…
+Dialogue: 0,0:15:04.74,0:15:05.82,Default,Maika,0,0,0,,Rikuya !
+Dialogue: 0,0:15:07.30,0:15:10.20,Default,Maika,0,0,0,,Sire Ars est\Nun seigneur remarquable.
+Dialogue: 0,0:15:10.42,0:15:12.72,Default,Maika,0,0,0,,Il saura certainement t’aider.
+Dialogue: 0,0:15:13.42,0:15:17.70,Default,Maika,0,0,0,,Depuis notre enfance,\Ntu as toujours été là pour nous.
+Dialogue: 0,0:15:18.54,0:15:20.02,Default,Maika,0,0,0,,Si nous l’avions pu,
+Dialogue: 0,0:15:20.22,0:15:23.10,Default,Maika,0,0,0,,nous aurions voulu\Nte faire monter sur le trône.
+Dialogue: 0,0:15:25.82,0:15:28.10,Default,Maika,0,0,0,,Nous avons été comblés
+Dialogue: 0,0:15:28.54,0:15:30.96,Default,Maika,0,0,0,,d’avoir pu te servir.
+Dialogue: 0,0:15:39.26,0:15:41.32,Default,Maika,0,0,0,,Rikuya, pourquoi ?
+Dialogue: 0,0:15:43.82,0:15:45.68,Default,Rikuya,0,0,0,,Je ne suis qu’un idiot.
+Dialogue: 0,0:15:45.90,0:15:48.98,Default,Rikuya,0,0,0,,Ce n’est pas d’un symbole\Nque j’ai besoin.
+Dialogue: 0,0:15:50.54,0:15:52.84,Default,Rikuya,0,0,0,,J’ai bien trop tardé\Nà le comprendre.
+Dialogue: 0,0:15:53.28,0:15:55.38,Default,Rikuya,0,0,0,,Sire Ars m’a ouvert les yeux.
+Dialogue: 0,0:15:55.76,0:15:58.66,Default,Rikuya,0,0,0,,Même sans ce sabre,\Ntant que vous êtes là,
+Dialogue: 0,0:15:58.84,0:16:01.12,Default,Rikuya,0,0,0,,je suis déjà roi.
+Dialogue: 0,0:16:02.58,0:16:07.66,Default,Rikuya,0,0,0,,Accepteriez-vous de servir à mes côtés\Npour l’éternité ?
+Dialogue: 0,0:16:13.78,0:16:15.98,Default,Maika,0,0,0,,Cela va de soi, Rikuya.
+Dialogue: 0,0:16:16.32,0:16:18.28,Default,Maika,0,0,0,,Nous te servirons pour toujours.
+Dialogue: 0,0:16:24.06,0:16:26.22,Default,Zaht,0,0,0,,Sautez, vite !
+Dialogue: 0,0:16:57.36,0:16:58.90,Default,Braham,0,0,0,,Hé oh !
+Dialogue: 0,0:17:04.76,0:17:07.08,Italique,Ars,0,0,0,,Le château\Ns’est complètement effondré,
+Dialogue: 0,0:17:07.28,0:17:09.64,Italique,Ars,0,0,0,,et l’incendie a duré\Nune journée entière.
+Dialogue: 0,0:17:10.84,0:17:12.68,Italique,Ars,0,0,0,,Les brigands ont été arrêtés,
+Dialogue: 0,0:17:12.90,0:17:15.34,Italique,Ars,0,0,0,,et Buigo a été capturé vivant.
+Dialogue: 0,0:17:17.46,0:17:19.34,Italique,Ars,0,0,0,,Par la suite…
+Dialogue: 0,0:17:26.22,0:17:27.36,Default,Maika,0,0,0,,Rikuya !
+Dialogue: 0,0:17:33.68,0:17:38.08,Italique,Ars,0,0,0,,« Si souvent soit-il perdu,\Nil retourne toujours auprès du roi. »
+Dialogue: 0,0:17:38.70,0:17:42.36,Italique,Ars,0,0,0,,Telle serait la légende\Ndu pourfendeur de dragon.
+Dialogue: 0,0:17:43.28,0:17:46.28,Sign,sign,0,0,0,,{\fad(500,500)\pos(320,270)}CHÂTEAU DE CANARRE
+Dialogue: 0,0:17:47.52,0:17:48.78,Default,Rikuya,0,0,0,,Sire Ars !
+Dialogue: 0,0:17:48.78,0:17:52.22,Sign,sign,0,0,0,,{\fad(465,500)\pos(175,265)}L’AVENIR DES FUJIMIYA
+Dialogue: 0,0:17:49.50,0:17:52.88,Default,Rikuya,0,0,0,,Je vous remercie du fond du cœur\Npour ce que vous avez fait !
+Dialogue: 0,0:17:53.42,0:17:56.16,Default,Ars,0,0,0,,Je vous en prie, cessez cela !
+Dialogue: 0,0:17:56.60,0:18:00.86,Default,Ars,0,0,0,,Vous m’avez aidé à neutraliser\Ncette bande de brigands.
+Dialogue: 0,0:18:01.30,0:18:04.30,Default,Ars,0,0,0,,Je ne saurais vous exprimer\Ntoute ma gratitude.
+Dialogue: 0,0:18:04.76,0:18:07.68,Default,Ars,0,0,0,,C’est moi qui vous remercie.
+Dialogue: 0,0:18:09.46,0:18:10.96,Default,Maika,0,0,0,,Veuillez me pardonner.
+Dialogue: 0,0:18:11.74,0:18:16.18,Default,Maika,0,0,0,,Je vous ai manqué de respect\Nlors de notre rencontre.
+Dialogue: 0,0:18:16.42,0:18:19.02,Default,Maika,0,0,0,,Pourtant,\Nvous avez pris soin de nous,
+Dialogue: 0,0:18:19.18,0:18:21.54,Default,Maika,0,0,0,,et vos vassaux\Nnous ont grandement aidés.
+Dialogue: 0,0:18:22.38,0:18:27.36,Default,Maika,0,0,0,,Nous vous remercions infiniment\Nd’avoir sauvé notre frère.
+Dialogue: 0,0:18:29.20,0:18:31.80,Default,Maika,0,0,0,,Takao, tu attends quoi ?\NIncline-toi !
+Dialogue: 0,0:18:33.18,0:18:34.96,Default,Takao,0,0,0,,Je vous remercie, sire Ars !
+Dialogue: 0,0:18:35.20,0:18:39.08,Default,Takao,0,0,0,,Je remercie aussi tous ceux du château\Nqui m’ont nourri à satiété !
+Dialogue: 0,0:18:39.22,0:18:41.46,Default,Maika,0,0,0,,Tu ne penses\Nqu’à la nourriture, toi !
+Dialogue: 0,0:18:42.72,0:18:44.84,Default,Rikuya,0,0,0,,Je ne vous remercierai\Njamais assez.
+Dialogue: 0,0:18:45.54,0:18:49.48,Default,Rikuya,0,0,0,,Vous m’avez aussi appris\Nce qu’implique le rôle d’un leader.
+Dialogue: 0,0:18:49.80,0:18:54.34,Default,Rikuya,0,0,0,,J’ai compris que ces deux-là\Nvalent plus que mon sabre.
+Dialogue: 0,0:18:54.50,0:18:57.02,Default,Ars,0,0,0,,Voyons, vous le saviez déjà.
+Dialogue: 0,0:18:57.32,0:18:59.38,Default,Ars,0,0,0,,Mais entre dirigeants,
+Dialogue: 0,0:18:59.54,0:19:02.74,Default,Ars,0,0,0,,nous pourrions apprendre\Nl’un de l’autre.
+Dialogue: 0,0:19:02.98,0:19:03.94,Default,Rikuya,0,0,0,,Oui.
+Dialogue: 0,0:19:04.16,0:19:08.50,Default,Rikuya,0,0,0,,Je compte devenir\Nun roi digne de ces deux-là.
+Dialogue: 0,0:19:10.56,0:19:12.76,Default,Rietz,0,0,0,,Que comptez-vous faire,\Ndésormais ?
+Dialogue: 0,0:19:13.46,0:19:16.08,Default,Rikuya,0,0,0,,J’ai entendu dire\Nque vous recrutiez des talents
+Dialogue: 0,0:19:16.30,0:19:18.76,Default,Rikuya,0,0,0,,en vue de la guerre à venir.
+Dialogue: 0,0:19:19.24,0:19:22.58,Default,Rikuya,0,0,0,,Si vous vous êtes intéressé à nous\Nlors de notre rencontre,
+Dialogue: 0,0:19:22.76,0:19:25.84,Default,Rikuya,0,0,0,,c’était également\Npour nous engager à votre service.
+Dialogue: 0,0:19:26.00,0:19:30.16,Default,Ars,0,0,0,,Veuillez m’excuser !\NC’était seulement si vous le désiriez.
+Dialogue: 0,0:19:30.34,0:19:33.64,Default,Ars,0,0,0,,Je ne savais pas\Nque vous étiez roi.
+Dialogue: 0,0:19:33.92,0:19:37.02,Default,Rikuya,0,0,0,,Je vous crois.\NJe connais la noblesse de votre cœur.
+Dialogue: 0,0:19:37.42,0:19:42.16,Default,Rikuya,0,0,0,,Mais en tant que roi,\Nje ne peux vous servir.
+Dialogue: 0,0:19:42.84,0:19:46.28,Default,Rikuya,0,0,0,,Cependant,\Nj’ai beaucoup à apprendre de vous.
+Dialogue: 0,0:19:46.60,0:19:50.54,Default,Rikuya,0,0,0,,Afin que je puisse accumuler des forces\Net également récupérer Yô…
+Dialogue: 0,0:19:51.58,0:19:53.80,Default,Rikuya,0,0,0,,pourriez-vous\Nm’accepter à vos côtés
+Dialogue: 0,0:19:53.96,0:19:56.92,Default,Rikuya,0,0,0,,en tant que général mercenaire ?
+Dialogue: 0,0:19:59.60,0:20:04.02,Default,Ars,0,0,0,,Avec vous à Canarre,\Nje ne pourrais espérer meilleur soutien !
+Dialogue: 0,0:20:04.20,0:20:05.92,Default,Ars,0,0,0,,J’en serais ravi !
+Dialogue: 0,0:20:07.16,0:20:08.22,Default,Rikuya,0,0,0,,Je vous remercie.
+Dialogue: 0,0:20:13.82,0:20:16.34,Default,Rikuya,0,0,0,,Jusqu’au jour\Noù je rentrerai à Yô…
+Dialogue: 0,0:20:17.36,0:20:20.06,Default,Rikuya,0,0,0,,je jure de vous offrir\Nma personne et ce sabre,
+Dialogue: 0,0:20:20.24,0:20:22.76,Default,Rikuya,0,0,0,,et de me dévouer à votre cause !
+Dialogue: 0,0:20:27.86,0:20:29.66,Default,Ars,0,0,0,,Je vous remercie.
+Dialogue: 0,0:20:33.86,0:20:35.90,TiretsDefault,Rikuya / Ars,205,0,0,,– Je m’en remets à vous.\N– Moi de même.
+Dialogue: 0,0:20:36.04,0:20:37.34,Default,Rikuya,0,0,0,,Non, je vous en prie.
+Dialogue: 0,0:20:37.48,0:20:39.70,Default,Ars,0,0,0,,Non, non,\Nc’est moi qui vous en prie.
+Dialogue: 0,0:20:39.98,0:20:42.34,Default,Lysia,0,0,0,,Quel heureux dénouement,\Nsire Ars !
+Dialogue: 0,0:20:42.62,0:20:45.34,Default,Ars,0,0,0,,Oui, tout le monde s’en est sorti.
+Dialogue: 0,0:20:45.72,0:20:50.10,Italique,Ars,0,0,0,,Au fait ! Qu’est-il advenu de Buigo,\Nle boss des brigands ?
+Dialogue: 0,0:20:50.92,0:20:53.06,Italique,Zaht,0,0,0,,Vous êtes salement amoché.
+Dialogue: 0,0:20:53.38,0:20:56.26,Italique,Zaht,0,0,0,,Dame Lysia va devenir terrifiante\Nen vous voyant.
+Dialogue: 0,0:20:58.36,0:21:02.28,Default,Ars,0,0,0,,Euh, où se trouve Buigo,\Nl’homme que nous avons capturé ?
+Dialogue: 0,0:21:02.92,0:21:06.70,Default,Lysia,0,0,0,,Vous n’avez pas à vous soucier\Nd’une telle broutille.
+Dialogue: 0,0:21:07.18,0:21:08.38,Italique,Ars,0,0,0,,Ne me dites pas…
+Dialogue: 0,0:21:08.50,0:21:10.78,Italique,Lysia,0,0,0,,Par quoi allons-nous commencer ?
+Dialogue: 0,0:21:12.56,0:21:14.24,Default,Rietz,0,0,0,,Sire Ars, où allez-vous ?
+Dialogue: 0,0:21:14.94,0:21:16.00,Default,Ars,0,0,0,,Buigo !
+Dialogue: 0,0:21:20.08,0:21:22.62,Default,Ars,0,0,0,,On ne vous a pas tranché\Nde membres ?
+Dialogue: 0,0:21:25.62,0:21:27.02,Default,Lysia,0,0,0,,Quelle horreur !
+Dialogue: 0,0:21:27.18,0:21:30.82,Default,Lysia,0,0,0,,Je n’ai pas de pensées\Nsi barbares, voyons…
+Dialogue: 0,0:21:31.14,0:21:34.52,Default,Lysia,0,0,0,,J’ai simplement bien choisi mes mots\Nen l’interrogeant.
+Dialogue: 0,0:21:34.88,0:21:38.44,Default,Lysia,0,0,0,,Bien, Buigo.\NQue devez-vous dire en premier ?
+Dialogue: 0,0:21:38.68,0:21:40.12,Default,Buigo,0,0,0,,Oui !
+Dialogue: 0,0:21:40.26,0:21:44.18,Default,Buigo,0,0,0,,Jeune maître, je vous prie de m’excuser\Npour ce que je vous ai fait !
+Dialogue: 0,0:21:44.32,0:21:47.54,Default,Lysia,0,0,0,,Oh, voilà quelqu’un\Nde bien raisonnable !
+Dialogue: 0,0:21:48.76,0:21:52.92,Italique,Ars,0,0,0,,Elle fait vraiment\Nfroid dans le dos.
+Dialogue: 0,0:23:18.12,0:23:20.12,Default,crédits,0,0,0,,{\an8}Traduction : Franck Barcelo\NAdaptation : DW512ZC
+Dialogue: 0,0:23:22.96,0:23:24.96,Default,crédits,0,0,0,,{\an8}Repérage : Arthur Vignoles\NRelecture : Nagi
+Dialogue: 0,0:23:25.48,0:23:29.14,Italique,Ars,0,0,0,,Euh, Lysia,\Nvotre sourire me fait un peu peur.
+Dialogue: 0,0:23:29.30,0:23:33.36,Italique,Lysia,0,0,0,,Que vous êtes cruel, sire Ars !\NJe n’ai pas changé d’un iota.
+Dialogue: 0,0:23:33.50,0:23:35.46,Italique,Ars,0,0,0,,Vous dégagez une aura de colère !
+Dialogue: 0,0:23:35.60,0:23:37.38,Italique,Lysia,0,0,0,,Tant que ce n’est que mon aura…
+Dialogue: 0,0:23:37.56,0:23:39.78,Italique,Lysia,0,0,0,,Prochain épisode :\NDes années de rancœur.
+
