@@ -1,0 +1,39 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Main - Italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Main - Top,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: Main - Top + Italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: Flashback,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Flashback - Italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Flashback - Top,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: Flashback - Top + Italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: Signs_Fix,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:08.56,0:02:11.98,Signs_Fix,sign,0,0,0,,{\fad(500,500)\shad0\bord1\blur1\fnArial Black\c&HD6D1D2&\pos(320,292)\3c&H161B1A&}Castle Canarre
+Dialogue: 0,0:02:25.29,0:02:28.71,Signs_Fix,sign,0,0,0,,{\fad(500,500)\shad0\bord1\blur1\fnArial Black\c&HD6D1D2&\pos(320,292)\3c&H161B1A&}Louvent Estate, Lamberg
+Dialogue: 0,0:02:30.06,0:02:33.75,Signs_Fix,sign,0,0,0,,{\fad(500,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(175,307)}The Path of Technology
+Dialogue: 0,0:02:34.02,0:02:37.09,Signs_Fix,sign,0,0,0,,{\fad(480,400)\fs18\shad1\bord1\fnTimes New Roman\b1\c&HC8CCC9&\3c&H232C28&\4c&H232C28&\pos(325,290)}Shin Seymarrow
+Dialogue: 0,0:06:34.62,0:06:37.62,Signs_Fix,sign,0,0,0,,{\fad(550,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(175,307)}Bandits
+Dialogue: 0,0:07:43.12,0:07:46.34,Signs_Fix,sign,0,0,0,,{\fad(520,480)\fs14\an3\shad1\bord1\fnTimes New Roman\b1\c&HCACAC9&\3c&H302F2E&\4c&H302F2E&\pos(605.83,316.351)}Episode 30   {\fs16}Fuijimiya
+Dialogue: 0,0:08:59.35,0:09:03.31,Signs_Fix,sign,0,0,0,,{\fad(550,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(175,307)}Foreigners
+Dialogue: 0,0:11:18.19,0:11:25.20,Signs_Fix,sign,0,0,0,,{\shad0\fnArial\blur2\bord3\fs18\b1\3c&HC0DA59&\4c&HCFDB77&\c&HF1EBBA&\pos(174.667,299.333)}Maika Fujimiya   17   Female
+Dialogue: 0,0:11:25.20,0:11:34.21,Signs_Fix,sign,0,0,0,,{\shad0\fnArial\blur2\bord3\fs18\b1\3c&HC0DA59&\4c&HCFDB77&\c&HF1EBBA&\pos(486.667,293.333)}Takao Fujimiya   16   Male
+Dialogue: 0,0:11:42.68,0:11:49.58,Signs_Fix,sign,0,0,0,,{\shad0\fnArial\blur2\bord3\fs18\b1\3c&HC0DA59&\4c&HCFDB77&\c&HF1EBBA&\move(248,294,248,390)}Rikuya Fujimiya   18   Male
+Dialogue: 0,0:11:56.11,0:12:08.12,Signs_Fix,sign,0,0,0,,{\bord1\fnArial Black\fs16\an8\c&H5398E3&\3c&HFFFFFF&\4c&H73E6FB&}Born June 20th, 194 of the Imperial Calendar in Teng City of the Yoh Empire
+Dialogue: 0,0:11:56.11,0:12:08.12,Signs_Fix,sign,0,0,0,,{\bord1\fnArial Black\fs16\an8\c&H5398E3&\3c&HFFFFFF&\4c&H73E6FB&}Born April 13th, 196 of the Imperial Calendar in Teng City of the Yoh Empire
+Dialogue: 0,0:23:37.64,0:23:40.02,Signs_Fix,sign,0,0,0,,{\fad(480,1)\fs12\an3\shad1\bord1\fnTimes New Roman\b1\c&HC8CCC9&\3c&H232C28&\4c&H232C28&\fs14\pos(605,165.957)}Next Time   {\fs16}Off to Save Ars
+
