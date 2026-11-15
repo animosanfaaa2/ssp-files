@@ -1,0 +1,256 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,20,20,20,1
+Style: Italique,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,2,20,20,20,1
+Style: TiretsDefault,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,1,20,20,20,1
+Style: Sign,Arial,21,&H00FFFFFF,&H000000FF,&H00292929,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:17.06,0:01:20.18,Sign,SIGN,0,0,0,,LION
+Dialogue: 0,0:01:20.18,0:01:23.15,Sign,SIGN,0,0,0,,GIRAFE
+Dialogue: 0,0:01:30.21,0:01:31.91,Italique,Hikaru,0,0,0,,Que de souvenirs !
+Dialogue: 0,0:01:32.33,0:01:35.40,Italique,Hikaru,0,0,0,,Pendant combien de temps\Non a partagé ce journal ?
+Dialogue: 0,0:01:36.39,0:01:40.02,Italique,Hikaru,0,0,0,,J’avais toujours hâte\Nde voir les réactions de ma sœur.
+Dialogue: 0,0:01:40.82,0:01:42.54,Italique,Mitsuru,0,0,0,,Tu as bien dessiné.
+Dialogue: 0,0:01:44.31,0:01:47.90,Italique,Mitsuru,0,0,0,,On ajoute une page pour dire\Nqu’on est arrivées à la plage ?
+Dialogue: 0,0:01:48.58,0:01:50.24,Italique,Mitsuru,0,0,0,,T’es d’accord, Hikaru ?
+Dialogue: 0,0:01:50.54,0:01:52.76,Italique,Hikaru,0,0,0,,Mitsuru sourit.
+Dialogue: 0,0:01:52.96,0:01:54.45,Italique,Hikaru,0,0,0,,Ça veut dire que…
+Dialogue: 0,0:01:57.31,0:01:58.90,Italique,Hikaru,0,0,0,,Ça veut dire
+Dialogue: 0,0:01:59.32,0:02:00.40,Italique,Hikaru,0,0,0,,que c’est un rêve.
+Dialogue: 0,0:02:16.75,0:02:17.73,Default,Hikaru,0,0,0,,Allez.
+Dialogue: 0,0:02:22.66,0:02:25.96,Sign,SIGN,0,0,0,,PRIX ARTISTIQUE\NHIKARU MATSUKI
+Dialogue: 0,0:02:25.96,0:02:27.40,Sign,SIGN,0,0,0,,INHUMAIN :\N1. QUI N’A RIEN D’HUMAIN, MONSTRUEUX.
+Dialogue: 0,0:02:27.52,0:02:28.96,Sign,SIGN,0,0,0,,2. QUI MANQUE D’HUMANITÉ.\N3. CRUEL, IMPITOYABLE.
+Dialogue: 0,0:04:09.94,0:04:14.44,Sign,SIGN,0,0,0,,REQUEST 20.\NMOTORCYCLE DIARIES 1
+Dialogue: 0,0:04:20.92,0:04:22.79,Default,Hikaru,0,0,0,,En vous remerciant.
+Dialogue: 0,0:04:25.50,0:04:27.56,Default,Koshiba,0,0,0,,Les cigarettes\Nont encore augmenté ?
+Dialogue: 0,0:04:29.18,0:04:31.41,Default,Koshiba,0,0,0,,Ça devient n’importe quoi.
+Dialogue: 0,0:04:31.55,0:04:32.84,Default,Koshiba,0,0,0,,C’est pas un peu abusé ?
+Dialogue: 0,0:04:33.77,0:04:34.96,Default,Hikaru,0,0,0,,Je suppose.
+Dialogue: 0,0:04:35.31,0:04:37.25,Default,Koshiba,0,0,0,,Les 27, s’il vous plaît.
+Dialogue: 0,0:04:37.44,0:04:38.76,Default,Hikaru,0,0,0,,Tout de suite.
+Dialogue: 0,0:04:38.98,0:04:41.46,Default,SIGN,0,0,0,,{\i1}L’ASSASSIN DÉTECTIVE{\i0}\NLOTERIE
+Dialogue: 0,0:04:41.87,0:04:43.43,Default,Koshiba,0,0,0,,Et un billet de loterie.
+Dialogue: 0,0:04:44.35,0:04:45.38,Default,Koshiba,0,0,0,,Celui-ci.
+Dialogue: 0,0:04:45.68,0:04:46.61,Default,Hikaru,0,0,0,,Voilà.
+Dialogue: 0,0:04:49.73,0:04:53.02,Default,Koshiba,0,0,0,,C’est une blague ?\NJ’ai oublié mon portefeuille !
+Dialogue: 0,0:04:55.75,0:04:58.83,Default,Koshiba,0,0,0,,C’est ça, toute ma fortune ?
+Dialogue: 0,0:05:00.86,0:05:02.93,Default,Koshiba,0,0,0,,Je peux pas prendre les deux.
+Dialogue: 0,0:05:04.87,0:05:08.91,Default,Hikaru,0,0,0,,Pardon. Je vois que vous aimez beaucoup\N{\i1}L’Assassin détective{\i0}.
+Dialogue: 0,0:05:11.05,0:05:12.29,Default,Koshiba,0,0,0,,Pas particulièrement.
+Dialogue: 0,0:05:13.19,0:05:15.30,Default,Koshiba,0,0,0,,J’ai trouvé le présentoir mignon.
+Dialogue: 0,0:05:17.43,0:05:20.67,Default,Koshiba,0,0,0,,J’ai un faible\Npour tout ce qui est mignon.
+Dialogue: 0,0:05:21.44,0:05:23.00,Default,Koshiba,0,0,0,,Lequel je prends ?
+Dialogue: 0,0:05:26.49,0:05:28.18,Default,Koshiba,0,0,0,,Je vous laisse les cigarettes,
+Dialogue: 0,0:05:28.31,0:05:29.80,TiretsDefault,Koshiba/Hkaru,250,0,0,,– et je prends…\N– Tenez.
+Dialogue: 0,0:05:31.65,0:05:34.74,Default,Hikaru,0,0,0,,Je ne vous les donne pas.\NC’est un prêt.
+Dialogue: 0,0:05:37.73,0:05:41.62,Default,Hikaru,0,0,0,,C’est moi qui ai décoré la boîte,\Ndonc c’est un peu ma faute.
+Dialogue: 0,0:05:43.71,0:05:45.23,Default,Koshiba,0,0,0,,D’accord, merci.
+Dialogue: 0,0:05:46.08,0:05:48.71,Sign,SIGN,0,0,0,,FÉLICITATIONS ! LOT SS\NÀ ÉCHANGER EN CAISSE
+Dialogue: 0,0:05:47.68,0:05:48.71,Default,Koshiba,0,0,0,,Le lot SS !
+Dialogue: 0,0:05:48.71,0:05:50.70,Sign,SIGN,0,0,0,,LOT SS : PELUCHE
+Dialogue: 0,0:05:51.09,0:05:53.92,Default,Koshiba,0,0,0,,Trop chou ! Elle est adorable !
+Dialogue: 0,0:05:54.06,0:05:56.03,Default,Koshiba,0,0,0,,Merci !
+Dialogue: 0,0:05:56.16,0:05:57.05,Default,Koshiba,0,0,0,,Euh…
+Dialogue: 0,0:05:58.09,0:06:00.80,Sign,SIGN,0,0,0,,MATSUKI
+Dialogue: 0,0:05:59.14,0:06:00.80,Default,Koshiba,0,0,0,,Matsuki ?
+Dialogue: 0,0:06:00.96,0:06:02.70,Default,Koshiba,0,0,0,,Vous avez refait ma soirée !
+Dialogue: 0,0:06:03.10,0:06:04.35,Default,Koshiba,0,0,0,,Et…
+Dialogue: 0,0:06:07.82,0:06:10.48,Default,Koshiba,0,0,0,,j’aimerais vous rembourser\Nsur-le-champ.
+Dialogue: 0,0:06:11.51,0:06:13.57,Default,Hikaru,0,0,0,,Vous n’avez pas d’argent sur vous.
+Dialogue: 0,0:06:13.75,0:06:15.96,Default,Koshiba,0,0,0,,Non, mais en échange…
+Dialogue: 0,0:06:25.31,0:06:28.13,Default,Grande sœur,0,0,0,,Je suis désolée,\Nelle ne comprend pas encore !
+Dialogue: 0,0:06:28.46,0:06:30.90,Default,Grande sœur,0,0,0,,On n’ouvre rien\Navant de l’avoir acheté.
+Dialogue: 0,0:06:33.57,0:06:35.83,TiretsDefault,Grande sœur/Koshiba,232,0,0,,– Pardonnez-nous !\N– Ce n’est rien.
+Dialogue: 0,0:06:38.00,0:06:40.97,Default,Koshiba,0,0,0,,Je vais les lui payer.\NIl me reste de la monnaie.
+Dialogue: 0,0:06:41.43,0:06:43.45,TiretsDefault,Grande sœur/Koshiba,191,0,0,,– Mais…\N– Ce n’est pas un problème.
+Dialogue: 0,0:06:45.35,0:06:49.10,Default,Koshiba,0,0,0,,En revanche,\Nessayez de ne jamais vous lâcher.
+Dialogue: 0,0:06:50.25,0:06:52.06,TiretsDefault,Grande sœur/Petite sœur,269,0,0,,– D’accord.\N– Oui !
+Dialogue: 0,0:06:52.99,0:06:55.65,Default,Petite sœur,0,0,0,,Ne me lâche plus la main, hein ?
+Dialogue: 0,0:06:55.95,0:06:57.06,Default,Grande sœur,0,0,0,,Mais oui !
+Dialogue: 0,0:06:58.34,0:06:59.94,Default,Hikaru,0,0,0,,On était pareilles,
+Dialogue: 0,0:07:00.37,0:07:02.48,Default,Hikaru,0,0,0,,quand on était petites.
+Dialogue: 0,0:07:03.78,0:07:08.49,Default,Hikaru,0,0,0,,Pour ne pas me perdre,\Nma grande sœur me serrait fort la main.
+Dialogue: 0,0:07:15.52,0:07:19.53,Default,Hikaru,0,0,0,,Merci, je ne la voyais pas,\Nderrière le comptoir.
+Dialogue: 0,0:07:19.96,0:07:24.30,Default,Koshiba,0,0,0,,Un conseil, ne prêtez pas votre argent\Naussi facilement.
+Dialogue: 0,0:07:26.08,0:07:30.20,Default,Koshiba,0,0,0,,Tout le monde n’est pas\Naussi bien intentionné que moi.
+Dialogue: 0,0:07:36.78,0:07:38.33,Default,Hikaru,0,0,0,,Trop bizarre.
+Dialogue: 0,0:07:53.61,0:07:55.12,Default,Koshiba,0,0,0,,Elle est choupi, hein ?
+Dialogue: 0,0:07:55.25,0:07:57.63,Default,Ikurô Hoshi,0,0,0,,Pardon ?\NQu’est-ce que c’est que ça ?
+Dialogue: 0,0:07:57.93,0:07:59.14,Default,Koshiba,0,0,0,,Pas touche !
+Dialogue: 0,0:07:59.31,0:08:00.38,Default,Ikurô Hoshi,0,0,0,,Entendu.
+Dialogue: 0,0:08:05.04,0:08:06.81,Default,Hikaru,0,0,0,,Bonsoir.
+Dialogue: 0,0:08:11.59,0:08:13.31,Default,Koshiba,0,0,0,,Vos 500 yens.
+Dialogue: 0,0:08:13.74,0:08:15.92,Default,Koshiba,0,0,0,,Je les garde le temps de la loterie.
+Dialogue: 0,0:08:16.28,0:08:18.37,Default,Hikaru,0,0,0,,Si vous voulez. Pourquoi ?
+Dialogue: 0,0:08:18.98,0:08:20.19,Default,Koshiba,0,0,0,,Ils portent chance.
+Dialogue: 0,0:08:21.54,0:08:22.60,Default,Koshiba,0,0,0,,Lot A.
+Dialogue: 0,0:08:22.60,0:08:25.53,Sign,SIGN,0,0,0,,LOT A : PELUCHE
+Dialogue: 0,0:08:24.75,0:08:26.32,Default,Hikaru,0,0,0,,Félicitations.
+Dialogue: 0,0:08:26.46,0:08:28.53,Default,Koshiba,0,0,0,,Trop bien !\NEncore un truc mignon.
+Dialogue: 0,0:08:45.28,0:08:46.70,Default,Koshiba,0,0,0,,Vous venez de terminer ?
+Dialogue: 0,0:08:46.88,0:08:47.84,Default,Hikaru,0,0,0,,Oui.
+Dialogue: 0,0:08:48.02,0:08:49.40,Default,Koshiba,0,0,0,,Je vous raccompagne ?
+Dialogue: 0,0:08:50.24,0:08:54.88,Default,Hikaru,0,0,0,,Je ne vais pas monter avec quelqu’un\Ndont je ne connais même pas le nom.
+Dialogue: 0,0:08:55.32,0:08:56.77,Default,Koshiba,0,0,0,,Shiba Kirihara.
+Dialogue: 0,0:08:57.96,0:09:00.72,Default,Koshiba,0,0,0,,Les gens m’appellent Koshiba.
+Dialogue: 0,0:09:01.79,0:09:03.23,Default,Hikaru,0,0,0,,Koshiba.
+Dialogue: 0,0:09:03.37,0:09:05.31,Default,Koshiba,0,0,0,,Et vous, c’est quoi, votre prénom ?
+Dialogue: 0,0:09:10.88,0:09:12.12,Default,Koshiba,0,0,0,,Attendez !
+Dialogue: 0,0:09:13.34,0:09:15.04,Default,Hikaru,0,0,0,,Trop bizarre.
+Dialogue: 0,0:09:25.66,0:09:27.80,Sign,SIGN,0,0,0,,FÉLICITATIONS ! LOT D\NÀ ÉCHANGER EN CAISSE
+Dialogue: 0,0:09:27.80,0:09:30.76,Sign,SIGN,0,0,0,,LOT D : PELUCHE
+Dialogue: 0,0:09:26.61,0:09:27.80,Default,Koshiba,0,0,0,,Lot D ?
+Dialogue: 0,0:09:28.90,0:09:31.01,Default,Hikaru,0,0,0,,Félicitations.
+Dialogue: 0,0:09:33.13,0:09:36.20,Default,Koshiba,0,0,0,,Matsuki, c’est mignon, ça ?
+Dialogue: 0,0:09:37.73,0:09:39.78,Default,Koshiba,0,0,0,,On va dire que oui.
+Dialogue: 0,0:09:40.58,0:09:41.78,Default,Hikaru,0,0,0,,Hikaru.
+Dialogue: 0,0:09:44.38,0:09:45.87,Default,Hikaru,0,0,0,,Hikaru Matsuki.
+Dialogue: 0,0:09:47.30,0:09:49.35,Default,Koshiba,0,0,0,,Hikaru.
+Dialogue: 0,0:09:57.09,0:09:59.37,Default,Hikaru,0,0,0,,Tu en as un portatif ?
+Dialogue: 0,0:10:00.90,0:10:02.15,Default,Hikaru,0,0,0,,Un cendrier.
+Dialogue: 0,0:10:02.44,0:10:03.89,Default,Koshiba,0,0,0,,Oui, normal.
+Dialogue: 0,0:10:07.28,0:10:08.37,Default,Hikaru,0,0,0,,Dis…
+Dialogue: 0,0:10:10.30,0:10:12.76,Default,Hikaru,0,0,0,,Tu fais quoi, dans la vie ?
+Dialogue: 0,0:10:14.28,0:10:18.11,Default,Koshiba,0,0,0,,Je travaille dans un hôtel.\NJe réponds aux demandes des clients.
+Dialogue: 0,0:10:18.33,0:10:19.68,Default,Hikaru,0,0,0,,Je m’attendais pas à ça.
+Dialogue: 0,0:10:20.51,0:10:21.68,Default,Koshiba,0,0,0,,Pourquoi ?
+Dialogue: 0,0:10:22.25,0:10:24.71,Default,Hikaru,0,0,0,,Je ne te voyais pas\Ndans le salariat.
+Dialogue: 0,0:10:24.90,0:10:26.02,Default,Koshiba,0,0,0,,Ah non ?
+Dialogue: 0,0:10:26.16,0:10:28.28,Default,Hikaru,0,0,0,,Tu viens ici\Nde jour comme de nuit.
+Dialogue: 0,0:10:29.85,0:10:33.56,Default,Koshiba,0,0,0,,Mes horaires de service\Nsont variables.
+Dialogue: 0,0:10:33.75,0:10:35.78,Default,Hikaru,0,0,0,,Un peu comme les miens, quoi.
+Dialogue: 0,0:10:39.65,0:10:42.80,Default,Koshiba,0,0,0,,Tu as toujours\Naussi bien dessiné ?
+Dialogue: 0,0:10:43.60,0:10:45.97,Default,Hikaru,0,0,0,,Probablement pas toujours…
+Dialogue: 0,0:10:46.93,0:10:49.60,Default,Hikaru,0,0,0,,même si ma sœur\Nme complimentait à chaque fois.
+Dialogue: 0,0:10:50.22,0:10:51.98,Default,Koshiba,0,0,0,,Ça devait être vrai.
+Dialogue: 0,0:10:52.58,0:10:55.02,Default,Caissier,0,0,0,,Matsuki, viens en caisse !
+Dialogue: 0,0:10:55.17,0:10:56.35,Default,Hikaru,0,0,0,,J’arrive !
+Dialogue: 0,0:10:59.73,0:11:00.83,Default,Hikaru,0,0,0,,À plus.
+Dialogue: 0,0:11:10.65,0:11:14.21,Default,Ikurô Hoshi,0,0,0,,Attendez…\NL’autre fois, il n’y avait que lui.
+Dialogue: 0,0:11:14.36,0:11:16.72,Default,Ikurô Hoshi,0,0,0,,Vous en apportez encore plus\Nchaque jour.
+Dialogue: 0,0:11:17.14,0:11:21.19,Default,Sara Haizaki,0,0,0,,Comme toujours, tu as un faible\Npour tout ce qui est mignon.
+Dialogue: 0,0:11:22.75,0:11:26.90,Default,Koshiba,0,0,0,,Vous vous en souvenez !\NVous êtes la meilleure !
+Dialogue: 0,0:11:27.70,0:11:29.16,Default,Koshiba,0,0,0,,Dis donc, Ikurô !
+Dialogue: 0,0:11:30.61,0:11:32.91,Default,Koshiba,0,0,0,,Je t’ai dit de toucher à rien !
+Dialogue: 0,0:11:33.08,0:11:36.13,Default,Ikurô Hoshi,0,0,0,,Je peux savoir\Noù vous achetez tout ça ?
+Dialogue: 0,0:11:36.80,0:11:39.56,Default,Koshiba,0,0,0,,Ça vient d’une supérette\Nque j’aime bien.
+Dialogue: 0,0:11:39.73,0:11:41.68,Default,Koshiba,0,0,0,,On y trouve de jolis présentoirs.
+Dialogue: 0,0:11:46.61,0:11:48.34,Default,Hikaru,0,0,0,,Pardon, je reviens !
+Dialogue: 0,0:11:50.74,0:11:51.65,Default,Hikaru,0,0,0,,Allô ?
+Dialogue: 0,0:12:26.56,0:12:30.06,Sign,SIGN,0,0,0,,JOURNAL ILLUSTRÉ\NMITSURU ET HIKARU MATSUKI
+Dialogue: 0,0:12:31.65,0:12:33.58,Italique,Koshiba,0,0,0,,{\an8}Hôtel Inhumans.
+Dialogue: 0,0:12:41.31,0:12:42.54,Default,Koshiba,0,0,0,,Je sors.
+Dialogue: 0,0:12:53.28,0:12:54.62,Default,Caissière,0,0,0,,Bonsoir !
+Dialogue: 0,0:12:58.81,0:13:01.82,Sign,SIGN,0,0,0,,{\an2}DÉLICIEUSES\NBOUCHÉES À LA VIANDE
+Dialogue: 0,0:13:05.70,0:13:06.77,Default,Koshiba,0,0,0,,Fait froid.
+Dialogue: 0,0:13:19.54,0:13:21.69,Default,Hikaru,0,0,0,,Tiens ? Koshiba ?
+Dialogue: 0,0:13:25.44,0:13:29.51,Default,Hikaru,0,0,0,,Tu viens toujours ?\NLa loterie est terminée.
+Dialogue: 0,0:13:29.72,0:13:31.99,Default,Koshiba,0,0,0,,Oui, je sais.
+Dialogue: 0,0:13:32.14,0:13:34.72,Default,Koshiba,0,0,0,,Je venais te rendre tes 500 yens.
+Dialogue: 0,0:13:34.99,0:13:37.86,Default,Hikaru,0,0,0,,Ah, d’accord. Pour moi aussi,
+Dialogue: 0,0:13:39.51,0:13:41.16,Default,Hikaru,0,0,0,,tout est terminé.
+Dialogue: 0,0:13:43.23,0:13:45.96,Default,Hikaru,0,0,0,,Je sors du crematorium.\NPour ma sœur.
+Dialogue: 0,0:13:46.24,0:13:49.26,Default,Hikaru,0,0,0,,Tu dois te demander\Npourquoi je suis en tenue de deuil,
+Dialogue: 0,0:13:50.41,0:13:52.44,Default,Hikaru,0,0,0,,donc je préfère être directe.
+Dialogue: 0,0:13:56.89,0:13:58.43,Default,Hikaru,0,0,0,,Mais je vais bien.
+Dialogue: 0,0:13:58.80,0:14:02.00,Default,Hikaru,0,0,0,,Je savais\Nqu’elle n’en avait plus pour longtemps.
+Dialogue: 0,0:14:02.18,0:14:03.89,Default,Hikaru,0,0,0,,Je m’y étais préparée.
+Dialogue: 0,0:14:04.58,0:14:08.05,Default,Hikaru,0,0,0,,Pourtant, en arrivant chez moi\Naprès les obsèques…
+Dialogue: 0,0:14:09.43,0:14:11.79,Default,Hikaru,0,0,0,,j’avais l’impression\Nde me sentir vide.
+Dialogue: 0,0:14:13.05,0:14:15.73,Default,Hikaru,0,0,0,,Elle était très souvent\Nhospitalisée,
+Dialogue: 0,0:14:16.33,0:14:20.17,Default,Hikaru,0,0,0,,et je lui apportais des habits\Nou son traitement.
+Dialogue: 0,0:14:20.67,0:14:23.67,Default,Hikaru,0,0,0,,Maintenant\Nque je n’ai plus rien à faire,
+Dialogue: 0,0:14:24.00,0:14:26.70,Default,Hikaru,0,0,0,,je suis complètement désemparée.
+Dialogue: 0,0:14:27.78,0:14:32.33,Default,Hikaru,0,0,0,,Alors, autant venir travailler\Npour me changer les idées.
+Dialogue: 0,0:14:34.96,0:14:36.48,Sign,SIGN,0,0,0,,NOUVEAUX MESSAGES
+Dialogue: 0,0:14:43.24,0:14:46.24,Sign,SIGN,0,0,0,,JOURNAL ILLUSTRÉ
+Dialogue: 0,0:14:50.03,0:14:51.58,Default,Hikaru,0,0,0,,En fait,
+Dialogue: 0,0:14:53.41,0:14:55.71,Default,Hikaru,0,0,0,,tu n’as pas besoin\Nde me rembourser.
+Dialogue: 0,0:14:56.02,0:14:59.32,Default,Hikaru,0,0,0,,En échange,\Nje peux te demander un service ?
+Dialogue: 0,0:15:00.53,0:15:01.68,Default,Hikaru,0,0,0,,Tu veux bien…
+Dialogue: 0,0:15:02.42,0:15:03.38,Default,Koshiba,0,0,0,,Oui ?
+Dialogue: 0,0:15:03.61,0:15:05.96,Default,Hikaru,0,0,0,,Tu veux bien m’emmener à la mer ?
+Dialogue: 0,0:15:18.04,0:15:19.27,Default,Koshiba,0,0,0,,Monte.
+Dialogue: 0,0:15:50.81,0:15:53.59,Default,Koshiba,0,0,0,,Hikaru ! Pourquoi la mer ?
+Dialogue: 0,0:15:54.10,0:15:56.99,Default,Hikaru,0,0,0,,Hein ? De quoi ? J’entends pas !
+Dialogue: 0,0:15:58.63,0:16:02.09,Default,Koshiba,0,0,0,,Pourquoi la mer ?
+Dialogue: 0,0:16:02.66,0:16:05.22,Default,Hikaru,0,0,0,,L’air est super agréable !
+Dialogue: 0,0:16:06.39,0:16:09.42,Default,Koshiba,0,0,0,,Dis donc, tu m’écoutes ?
+Dialogue: 0,0:16:11.32,0:16:12.89,Default,Hikaru,0,0,0,,C’est pour notre journal.
+Dialogue: 0,0:16:14.12,0:16:15.52,Default,Koshiba,0,0,0,,Quoi ? J’entends rien !
+Dialogue: 0,0:16:15.90,0:16:17.45,Default,Hikaru,0,0,0,,Notre journal illustré !
+Dialogue: 0,0:16:18.49,0:16:20.83,Default,Hikaru,0,0,0,,Quand on était petites,
+Dialogue: 0,0:16:21.01,0:16:23.44,Default,Hikaru,0,0,0,,on écrivait un journal ensemble.
+Dialogue: 0,0:16:24.07,0:16:27.40,Default,Hikaru,0,0,0,,Il s’arrête\Nun jour où on est allées à la plage.
+Dialogue: 0,0:16:29.27,0:16:34.00,Default,Hikaru,0,0,0,,Je n’arrive pas à me rappeler\Npourquoi on l’a arrêté là !
+Dialogue: 0,0:16:35.70,0:16:37.92,TiretsDefault,Koshiba/Hikaru,245,0,0,,– Fais attention.\N– Pardon !
+Dialogue: 0,0:16:38.41,0:16:40.42,Default,Koshiba,0,0,0,,Tu veux donc revoir la mer.
+Dialogue: 0,0:16:40.65,0:16:44.77,Default,Hikaru,0,0,0,,Je ne peux plus demander\Nà l’autre autrice du journal.
+Dialogue: 0,0:16:45.24,0:16:46.55,Default,Koshiba,0,0,0,,Effectivement.
+Dialogue: 0,0:16:49.68,0:16:53.50,Default,Hikaru,0,0,0,,D’ailleurs, pourquoi avoir accepté\Nde m’emmener aussi facilement ?
+Dialogue: 0,0:16:53.72,0:16:56.17,Default,Hikaru,0,0,0,,Aller à la mer en pleine nuit…
+Dialogue: 0,0:16:56.40,0:16:58.32,Default,Hikaru,0,0,0,,Beaucoup auraient refusé.
+Dialogue: 0,0:16:58.48,0:17:00.76,Default,Koshiba,0,0,0,,J’avais une dette envers toi.
+Dialogue: 0,0:17:01.30,0:17:06.30,Default,Koshiba,0,0,0,,Alors que toi, tu me l’as demandé\Ntout en sachant que c’est insolite.
+Dialogue: 0,0:17:09.27,0:17:10.91,Default,Hikaru,0,0,0,,T’es trop bizarre.
+Dialogue: 0,0:17:18.63,0:17:20.52,Italique,Koshiba,0,0,0,,J’ai trouvé les dessins mignons.
+Dialogue: 0,0:17:21.98,0:17:25.20,Italique,Koshiba,0,0,0,,J’ai un faible\Npour tout ce qui est mignon.
+Dialogue: 0,0:17:25.94,0:17:27.49,Italique,Koshiba,0,0,0,,Lequel je prends ?
+Dialogue: 0,0:17:29.30,0:17:33.64,Default,Hikaru,0,0,0,,J’ai un truc à dire,\Nmais je ne veux pas que tu écoutes.
+Dialogue: 0,0:17:35.80,0:17:38.67,Default,Koshiba,0,0,0,,De quoi ? J’entends rien du tout.
+Dialogue: 0,0:17:41.51,0:17:44.47,Default,Hikaru,0,0,0,,Ma sœur s’appelait Mitsuru
+Dialogue: 0,0:17:45.56,0:17:48.22,Default,Hikaru,0,0,0,,et elle dessinait super bien.
+Dialogue: 0,0:17:49.69,0:17:51.13,Italique,Mitsuru,0,0,0,,Coucou.
+Dialogue: 0,0:17:51.41,0:17:53.06,Italique,Hikaru,0,0,0,,Mitsuru ! Mitsuru !
+Dialogue: 0,0:17:54.54,0:17:58.34,Italique,Hikaru,0,0,0,,Regarde, j’ai réussi !\NJ’ai eu le deuxième prix au concours !
+Dialogue: 0,0:18:03.08,0:18:04.56,Italique,Mitsuru,0,0,0,,Bravo !
+Dialogue: 0,0:18:04.71,0:18:07.40,Italique,Hikaru,0,0,0,,Mais je n’ai toujours pas battu\Nton premier prix.
+Dialogue: 0,0:18:07.57,0:18:10.48,Italique,Mitsuru,0,0,0,,Je te l’ai déjà dit,\Nl’art n’est pas une compétition.
+Dialogue: 0,0:18:10.62,0:18:14.30,Italique,Hikaru,0,0,0,,Bonjour l’ironie,\Nvenant de la gagnante.
+Dialogue: 0,0:18:14.45,0:18:15.50,Italique,Mitsuru,0,0,0,,Tu crois ?
+Dialogue: 0,0:18:15.65,0:18:17.39,Italique,Hikaru,0,0,0,,Ben oui !
+Dialogue: 0,0:18:19.58,0:18:22.00,Italique,Mitsuru,0,0,0,,Personnellement,\Nje préfère ton tableau.
+Dialogue: 0,0:18:24.22,0:18:26.29,Italique,Mitsuru,0,0,0,,Continue à dessiner\Nplein de choses.
+Dialogue: 0,0:18:37.81,0:18:38.94,Sign,SIGN,0,0,0,,{\i1}AMOUR EN CAGE{\i0}
+Dialogue: 0,0:18:42.06,0:18:44.32,Sign,SIGN,0,0,0,,COUVERTURE ET ILLUSTRATIONS\NMITSURU MATSUKI
+Dialogue: 0,0:18:45.90,0:18:47.59,Italique,Mitsuru,0,0,0,,Je vais persévérer aussi.
+Dialogue: 0,0:18:50.57,0:18:53.42,Italique,Hikaru,0,0,0,,Mitsuru ! Ton téléphone vibre !
+Dialogue: 0,0:18:57.44,0:18:58.58,Italique,Hikaru,0,0,0,,Mitsuru…
+Dialogue: 0,0:19:08.06,0:19:09.57,Italique,Docteur,0,0,0,,Au mieux, deux ans…
+Dialogue: 0,0:19:10.07,0:19:11.40,Italique,Docteur,0,0,0,,Au pire…
+Dialogue: 0,0:19:13.25,0:19:14.65,Default,Hikaru,0,0,0,,Après cet été-là,
+Dialogue: 0,0:19:15.09,0:19:18.31,Default,Hikaru,0,0,0,,elle a souvent été hospitalisée.
+Dialogue: 0,0:19:33.98,0:19:36.50,Default,Hikaru,0,0,0,,Nos économies ont vite fondu,
+Dialogue: 0,0:19:37.37,0:19:40.36,Default,Hikaru,0,0,0,,alors j’ai pris un mi-temps.
+Dialogue: 0,0:19:46.39,0:19:48.94,Default,Hikaru,0,0,0,,École, boulot, soins.
+Dialogue: 0,0:19:49.12,0:19:51.37,Default,Hikaru,0,0,0,,École, boulot, soins.
+Dialogue: 0,0:19:52.09,0:19:54.15,Default,Hikaru,0,0,0,,Et quand j’avais un moment…
+Dialogue: 0,0:20:18.32,0:20:19.94,Default,Hikaru,0,0,0,,Cette année,
+Dialogue: 0,0:20:20.24,0:20:22.70,Default,Hikaru,0,0,0,,sa maladie s’est aggravée.
+Dialogue: 0,0:20:36.94,0:20:38.01,Italique,Hikaru,0,0,0,,Quoi ?
+Dialogue: 0,0:20:39.82,0:20:41.58,Italique,Mitsuru,0,0,0,,Je crois que
+Dialogue: 0,0:20:42.04,0:20:45.32,Italique,Mitsuru,0,0,0,,c’est la dernière fois\Nque je peux revenir
+Dialogue: 0,0:20:45.65,0:20:47.82,Italique,Mitsuru,0,0,0,,à la maison.
+Dialogue: 0,0:21:07.73,0:21:10.74,Default,Hikaru,0,0,0,,Koshiba,\Nmerci de ne pas m’avoir écoutée.
+Dialogue: 0,0:21:11.32,0:21:12.25,Default,Koshiba,0,0,0,,De quoi ?
+Dialogue: 0,0:21:18.99,0:21:21.22,Default,Hikaru,0,0,0,,Je vais te payer un café.
+Dialogue: 0,0:21:26.75,0:21:28.02,Default,Koshiba,0,0,0,,Sara,
+Dialogue: 0,0:21:28.24,0:21:31.19,Default,Koshiba,0,0,0,,merci d’avoir accepté\Nde me remplacer aussi tard.
+Dialogue: 0,0:21:34.09,0:21:36.53,Default,Sara Haizaki,0,0,0,,Je compte sur toi, Koshiba.
+Dialogue: 0,0:23:25.93,0:23:27.93,Default,Crédits,0,0,0,,{\an8}Traduction, adaptation :\NAdam Plaza
+Dialogue: 0,0:23:28.05,0:23:30.05,Default,Crédits,0,0,0,,{\an8}Repérage : Enjiniatsu\NRelecture : Stéphanie Noardo
+Dialogue: 0,0:23:30.06,0:23:35.09,Sign,SIGN,0,0,0,,À SUIVRE :\NREQUEST 21. MOTORCYCLE DIARIES 2
+
