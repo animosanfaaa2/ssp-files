@@ -1,0 +1,280 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: flashback italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Ep Title,Trebuchet MS,24,&H0065A7CE,&H000000FF,&H64070805,&H000D1728,-1,-1,0,0,100,100,0,0,1,1,0,8,30,30,75,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:15.00,0:00:18.25,flashback,YOUNG NOZEL (FB),0,0,0,,Matko!
+Dialogue: 0,0:01:48.56,0:01:53.97,Ep Title,EP TITLE,0,0,0,,{\c&HF7F8FF&}Więcej niż zawziętość
+Dialogue: 0,0:01:57.50,0:01:59.97,main,MEGICULA,0,0,0,,Teraz, kiedy twój poziom święty minął,
+Dialogue: 0,0:02:00.27,0:02:02.98,main,MEGICULA,0,0,0,,nie masz jak mnie pokonać.
+Dialogue: 0,0:02:03.19,0:02:09.48,main,MEGICULA,0,0,0,,Nawet gdybyś użyła ataku poziomu\Nświętego, nie dosięgnąłby mnie.
+Dialogue: 0,0:02:09.78,0:02:14.49,main,MEGICULA,0,0,0,,Cały ten obszar został opanowany\Nmoim czarem Niknącego Świata.
+Dialogue: 0,0:02:15.17,0:02:17.58,main,MEGICULA,0,0,0,,Nikt nie przyjdzie ci pomóc,
+Dialogue: 0,0:02:17.58,0:02:20.24,main,MEGICULA,0,0,0,,a nawet jeśli ktoś przyjdzie,\Nnic nie zdoła zrobić.
+Dialogue: 0,0:02:20.72,0:02:23.00,main,MEGICULA,0,0,0,,To wystarczy,\Nżebyś się poddała, prawda?
+Dialogue: 0,0:02:23.41,0:02:25.85,main,MEGICULA,0,0,0,,Dobrze się bawiłam, człowieku.
+Dialogue: 0,0:02:32.31,0:02:33.21,italics,NOELLE (INT),0,0,0,,Gaja?!
+Dialogue: 0,0:02:36.46,0:02:37.28,main,UNDINE,0,0,0,,Gaja!
+Dialogue: 0,0:02:40.81,0:02:45.69,main,GAJA,0,0,0,,To nie zaboli, ale proszę\Nmi wybaczyć, Wasza Wysokość!
+Dialogue: 0,0:02:46.18,0:02:48.98,italics,GAJA (INT),0,0,0,,Magia piorunu: Pulsaranta.
+Dialogue: 0,0:02:54.60,0:02:57.16,italics,GAJA (INT),0,0,0,,Zatrzymam jej ruchy na kilka sekund.
+Dialogue: 0,0:03:01.43,0:03:02.91,italics,GAJA (INT),0,0,0,,Tamtego dnia…
+Dialogue: 0,0:03:03.67,0:03:08.23,italics,GAJA (INT),0,0,0,,Przysiągłem, że pokonam wrogów i będę\Nchronił królestwo, abyś ty nie musiała.
+Dialogue: 0,0:03:09.16,0:03:10.84,italics,GAJA (INT),0,0,0,,A mimo to pół roku temu…
+Dialogue: 0,0:03:11.65,0:03:16.42,italics,GAJA (INT),0,0,0,,Nie udało mi się powstrzymać Megiculi\Ni Vaniki, a na ciebie rzucono klątwę.
+Dialogue: 0,0:03:17.63,0:03:21.85,flashback,GAJA (FB),0,0,0,,Najmocniej przepraszam!\NZawiodłem jako duchowy strażnik!
+Dialogue: 0,0:03:21.85,0:03:25.10,flashback,LOROPECHIKA (FB),0,0,0,,Nie, ależ skąd! Przecież wciąż żyję!
+Dialogue: 0,0:03:25.47,0:03:28.10,flashback,LOROPECHIKA (FB),0,0,0,,Gdyby nie ty, byłabym martwa, Gaja.
+Dialogue: 0,0:03:28.34,0:03:33.61,flashback,LOROPECHIKA (FB),0,0,0,,A co najważniejsze, żaden\Nz naszych obywateli nie jest ranny.
+Dialogue: 0,0:03:33.96,0:03:35.61,flashback,LOROPECHIKA (FB),0,0,0,,To twoja zasługa, Gaja!
+Dialogue: 0,0:03:38.01,0:03:43.73,italics,GAJA (INT),0,0,0,,Przez to, że próbowałem chronić\Nwszystko — królestwo i mieszkańców —
+Dialogue: 0,0:03:43.73,0:03:45.64,italics,GAJA (INT),0,0,0,,jesteś teraz w takim stanie.
+Dialogue: 0,0:03:46.71,0:03:49.37,italics,GAJA (INT),0,0,0,,Zmuszono cię do tego,\Nczego najbardziej nie chciałaś.
+Dialogue: 0,0:03:50.49,0:03:54.55,italics,GAJA (INT),0,0,0,,W pełni zawiodłem jako duchowy strażnik.
+Dialogue: 0,0:03:55.15,0:03:58.80,italics,GAJA (INT),0,0,0,,Bardziej niż królestwo\Nchciałem ochronić ciebie!
+Dialogue: 0,0:03:59.71,0:04:01.53,italics,GAJA (INT),0,0,0,,Nie pozwolę im cię zabić!
+Dialogue: 0,0:04:01.97,0:04:03.79,italics,GAJA (INT),0,0,0,,Nie pozwolę ci nikogo zabić!
+Dialogue: 0,0:04:04.38,0:04:08.39,italics,GAJA (INT),0,0,0,,Nie umrę od ran, które mi zadasz!
+Dialogue: 0,0:04:08.93,0:04:13.82,italics,GAJA (INT),0,0,0,,Zamienię własne życie w manę…\Ni zniszczę tego demona!
+Dialogue: 0,0:04:13.82,0:04:15.07,italics,GAJA (INT),0,0,0,,Tu i teraz…
+Dialogue: 0,0:04:15.76,0:04:18.46,italics,GAJA (INT),0,0,0,,Tym razem na pewno cię ocalę!
+Dialogue: 0,0:04:19.05,0:04:25.19,italics,GAJA (INT),0,0,0,,Najwyższa magia piorunu:\NApocalypra Astrauza.
+Dialogue: 0,0:04:29.57,0:04:32.62,italics,MEGICULA (INT),0,0,0,,Niknący Świat jej nie wymaże…
+Dialogue: 0,0:04:47.25,0:04:48.67,italics,NOELLE (INT),0,0,0,,Jeszcze jeden atak!
+Dialogue: 0,0:04:49.15,0:04:50.71,italics,NOELLE (INT),0,0,0,,Choćby był słaby!
+Dialogue: 0,0:04:50.71,0:04:55.49,italics,NOELLE (INT),0,0,0,,Muszę wydobyć dość siły poziomu\Nświętego, żeby przebić jej serce!
+Dialogue: 0,0:04:58.19,0:05:00.90,main,MEGICULA,0,0,0,,Więc to tak wygląda\Nzaklęcie wypalające życie.
+Dialogue: 0,0:05:04.30,0:05:06.54,main,MEGICULA,0,0,0,,Przewyższyło moje oczekiwania.
+Dialogue: 0,0:05:07.70,0:05:11.16,main,MEGICULA,0,0,0,,To było wspaniałe, człowieku.
+Dialogue: 0,0:05:11.81,0:05:13.08,main,MEGICULA,0,0,0,,Ale tak mi przykro…
+Dialogue: 0,0:05:13.08,0:05:18.16,main,MEGICULA,0,0,0,,Moje ciało chroni klątwa\Nsuperszybkiej regeneracji.
+Dialogue: 0,0:05:18.55,0:05:19.61,main,UNDINE,0,0,0,,Gaja!
+Dialogue: 0,0:05:23.30,0:05:24.47,main,NOELLE,0,0,0,,Undine!
+Dialogue: 0,0:05:25.30,0:05:27.67,main,MEGICULA,0,0,0,,Zupełnie jak podczas\Nnaszej poprzedniej walki.
+Dialogue: 0,0:05:28.76,0:05:32.32,main,MEGICULA,0,0,0,,Nie możecie już\Nużyć siły poziomu świętego.
+Dialogue: 0,0:05:32.66,0:05:34.73,main,MEGICULA,0,0,0,,Tym razem… to już koniec.
+Dialogue: 0,0:05:42.45,0:05:43.49,main,NOELLE,0,0,0,,Jeszcze nie!
+Dialogue: 0,0:05:50.74,0:05:51.66,main,MEGICULA,0,0,0,,„Jeszcze nie”?
+Dialogue: 0,0:05:52.64,0:05:55.39,main,MEGICULA,0,0,0,,Nie macie żadnych szans na wygraną.
+Dialogue: 0,0:05:55.75,0:05:57.98,main,MEGICULA,0,0,0,,Dlaczego dalej się stawiasz?
+Dialogue: 0,0:05:57.98,0:06:03.13,main,MEGICULA,0,0,0,,Czy to stąd biorą się ludzkie\Nczary przewyższające oczekiwania?
+Dialogue: 0,0:06:04.13,0:06:06.90,main,MEGICULA,0,0,0,,Ale nie istnieje człowiek, który mógłby
+Dialogue: 0,0:06:06.90,0:06:10.95,main,MEGICULA,0,0,0,,rzucić zaklęcie zdolne\Npokonać mnie w Niknącym Świecie.
+Dialogue: 0,0:06:11.30,0:06:15.41,main,MEGICULA,0,0,0,,Demony nigdy nie sprzeciwiają się\Nkomuś, kto przewyższa je siłą,
+Dialogue: 0,0:06:15.41,0:06:17.05,main,MEGICULA,0,0,0,,ponieważ to bezsensowne.
+Dialogue: 0,0:06:17.05,0:06:18.89,main,MEGICULA,0,0,0,,Ale wy, ludzie,
+Dialogue: 0,0:06:18.89,0:06:23.52,main,MEGICULA,0,0,0,,wierzycie w bezsens i ryzykujecie\Nżyciem dla bezwartościowych rzeczy.
+Dialogue: 0,0:06:24.41,0:06:28.41,main,MEGICULA,0,0,0,,Siłą Acier Silvy była\Nmiłość do swoich dzieci.
+Dialogue: 0,0:06:28.41,0:06:29.89,main,MEGICULA,0,0,0,,Siłą tego mężczyzny była
+Dialogue: 0,0:06:29.89,0:06:33.41,main,MEGICULA,0,0,0,,lojalność wobec królowej,\Nktórej przysiągł wierność.
+Dialogue: 0,0:06:33.86,0:06:38.17,main,MEGICULA,0,0,0,,A twoją siłą — nadzieja,\Nktóra w ogóle nie istnieje.
+Dialogue: 0,0:06:38.17,0:06:40.19,main,MEGICULA,0,0,0,,I dla czegoś takiego…
+Dialogue: 0,0:06:40.19,0:06:42.18,main,MEGICULA,0,0,0,,Czemu, trzymając się czegoś takiego,
+Dialogue: 0,0:06:42.18,0:06:44.34,main,MEGICULA,0,0,0,,wy, ludzie, nigdy się nie poddajecie?
+Dialogue: 0,0:06:47.71,0:06:52.63,italics,NOELLE (INT),0,0,0,,Nie mam szans wygrać?\NDobrze to wiem.
+Dialogue: 0,0:06:55.46,0:06:59.28,main,NOELLE,0,0,0,,Masz rację… Ale to moja sprawa
+Dialogue: 0,0:06:59.28,0:07:01.94,main,NOELLE,0,0,0,,i nie musisz tego zrozumieć.
+Dialogue: 0,0:07:03.22,0:07:06.93,italics,NOELLE (INT),0,0,0,,Co to w ogóle za demon?\NJest niewiarygodny!
+Dialogue: 0,0:07:09.27,0:07:13.50,main,NOELLE,0,0,0,,Nawet jeśli mamy nikłe\Nszanse na zwycięstwo,
+Dialogue: 0,0:07:13.50,0:07:15.85,main,NOELLE,0,0,0,,my, ludzie, musimy czasem próbować!
+Dialogue: 0,0:07:16.66,0:07:20.71,italics,NOELLE (INT),0,0,0,,Prawdę mówiąc, nawet teraz chciałabym\Npaść na kolana i się rozpłakać…
+Dialogue: 0,0:07:21.28,0:07:23.89,main,NOELLE,0,0,0,,To nie tak, że wygramy,\Njeśli się nie poddamy.
+Dialogue: 0,0:07:24.34,0:07:27.56,main,NOELLE,0,0,0,,Ale gdybyśmy się poddali,\Nto nigdy byśmy nie wygrali!
+Dialogue: 0,0:07:27.87,0:07:30.06,italics,NOELLE (INT),0,0,0,,A mimo to…
+Dialogue: 0,0:07:30.51,0:07:33.93,main,NOELLE,0,0,0,,Naszą siłą jest zawziętość!
+Dialogue: 0,0:07:35.63,0:07:36.57,main,MEGICULA,0,0,0,,Hmm.
+Dialogue: 0,0:07:37.31,0:07:39.64,main,MEGICULA,0,0,0,,Po prostu tego nie rozumiem.
+Dialogue: 0,0:07:39.64,0:07:44.65,main,MEGICULA,0,0,0,,To fascynujące…\Nale nie mogę dłużej marnować czasu.
+Dialogue: 0,0:07:47.80,0:07:52.41,main,MEGICULA,0,0,0,,Magia klątw: Wybuchowe Życie.
+Dialogue: 0,0:07:54.15,0:07:59.46,main,MEGICULA,0,0,0,,Zdetonuję Lolopechkę i zabiję wszystkich\Nw tym zamku za jednym zamachem.
+Dialogue: 0,0:07:59.95,0:08:02.13,main,MEGICULA,0,0,0,,A potem…
+Dialogue: 0,0:08:02.13,0:08:04.89,main,MEGICULA,0,0,0,,W pełni zmaterializuję się\Nw tym świecie.
+Dialogue: 0,0:08:13.44,0:08:17.59,main,NOELLE,0,0,0,,Lolopechka!
+Dialogue: 0,0:08:31.17,0:08:32.87,main,ASTA,0,0,0,,Matko, było blisko!
+Dialogue: 0,0:08:34.15,0:08:35.54,main,ASTA,0,0,0,,O mały włos!
+Dialogue: 0,0:08:36.32,0:08:37.54,italics,NOELLE (INT),0,0,0,,No tak…
+Dialogue: 0,0:08:37.54,0:08:40.73,main,ASTA,0,0,0,,Dobrze cię widzieć\Ncałą i zdrową, Noelle!
+Dialogue: 0,0:08:41.09,0:08:43.00,italics,NOELLE (INT),0,0,0,,Właśnie tego mnie nauczyłeś.
+Dialogue: 0,0:08:44.92,0:08:48.43,main,NOELLE,0,0,0,,Wcale nie jestem\Ncała i zdrowa, Głupiasta!
+Dialogue: 0,0:08:53.49,0:08:55.14,main,MEGICULA,0,0,0,,Co to za człowiek?
+Dialogue: 0,0:08:55.91,0:08:57.59,main,ASTA,0,0,0,,Królowa Lolopechka…
+Dialogue: 0,0:08:57.90,0:09:01.94,main,ASTA,0,0,0,,Nie pozwoliliśmy jej wybuchnąć,\Nale wciąż ma na sobie mnóstwo klątw.
+Dialogue: 0,0:09:02.26,0:09:05.44,main,LIEBE,0,0,0,,Tylko jedna brama zaświatów\Njest otwarta…
+Dialogue: 0,0:09:05.84,0:09:08.44,main,LIEBE,0,0,0,,Co tutaj robi demon najwyższego rzędu?!
+Dialogue: 0,0:09:08.80,0:09:14.04,main,LIEBE,0,0,0,,Powiem bez ogródek –\Nnie mamy szans wygrać bez unite'a!
+Dialogue: 0,0:09:14.94,0:09:18.41,main,MEGICULA,0,0,0,,Zrobił to wszystko\Nwewnątrz Niknącego Świata?
+Dialogue: 0,0:09:18.85,0:09:24.41,main,MEGICULA,0,0,0,,Aha, to pewnie ten człowiek z antymagią,\No którym mówili Vanica i reszta.
+Dialogue: 0,0:09:25.27,0:09:26.78,italics,MEGICULA (INT),0,0,0,,Doprawdy ciekawy,
+Dialogue: 0,0:09:26.78,0:09:30.62,italics,MEGICULA (INT),0,0,0,,ale może doprowadzić\Ndo nieoczekiwanego scenariusza.
+Dialogue: 0,0:09:31.50,0:09:33.72,main,MEGICULA,0,0,0,,Koniec zabaw.
+Dialogue: 0,0:09:35.30,0:09:40.58,main,MEGICULA,0,0,0,,Najpierw zabiję Vanikę i Lolopechkę
+Dialogue: 0,0:09:40.58,0:09:42.98,main,MEGICULA,0,0,0,,i natychmiast\Nw pełni się zmaterializuję.
+Dialogue: 0,0:09:45.22,0:09:46.21,main,MEGICULA,0,0,0,,Co?
+Dialogue: 0,0:09:46.21,0:09:47.73,italics,MEGICULA (INT),0,0,0,,Runy klątw zniknęły?
+Dialogue: 0,0:09:56.38,0:09:58.17,main,CHARLOTTE,0,0,0,,Ja wciąż…
+Dialogue: 0,0:09:59.01,0:10:01.00,main,CHARLOTTE,0,0,0,,tutaj jestem!
+Dialogue: 0,0:10:01.31,0:10:03.23,main,MEGICULA,0,0,0,,Ta kobieta… Jak?
+Dialogue: 0,0:10:03.23,0:10:05.58,main,MEGICULA,0,0,0,,Nie powinna była już wstać.
+Dialogue: 0,0:10:06.04,0:10:08.84,italics,MEGICULA (INT),0,0,0,,A do tego… Jej mana wzrosła!
+Dialogue: 0,0:10:10.57,0:10:14.76,main,RILL,0,0,0,,Nie jestem przyzwyczajony do takich\Nzaklęć, więc aktywacja chwilę zajęła.
+Dialogue: 0,0:10:22.09,0:10:24.55,italics,RILL (INT),0,0,0,,W trakcie działania Valhalla Zmierzchu
+Dialogue: 0,0:10:24.55,0:10:26.97,italics,RILL (INT),0,0,0,,zwiększa manę wszystkich\Nsojuszników w zasięgu
+Dialogue: 0,0:10:26.97,0:10:31.29,italics,RILL (INT),0,0,0,,i chroni przed śmiercią,\Nnawet po najdotkliwszych obrażeniach!
+Dialogue: 0,0:10:31.29,0:10:33.03,main,RILL,0,0,0,,Przez kilka minut nie zginiemy!
+Dialogue: 0,0:10:33.72,0:10:36.40,italics,RILL (INT),0,0,0,,Gdy zaklęcie zniknie,\Nodczujemy wszystkie obrażenia.
+Dialogue: 0,0:10:36.40,0:10:38.62,italics,RILL (INT),0,0,0,,Ale kogo to teraz obchodzi!
+Dialogue: 0,0:10:38.62,0:10:41.81,main,ASTA,0,0,0,,Łał! Ale odjazd, Rill!
+Dialogue: 0,0:10:41.81,0:10:44.46,main,ASTA,0,0,0,,Jak dobrze, że wciąż żyjesz!
+Dialogue: 0,0:10:44.46,0:10:48.92,italics,RILL (INT),0,0,0,,Gdyby nie Asta,\Nnie zdążyłbym aktywować zaklęcia.
+Dialogue: 0,0:10:49.38,0:10:52.38,main,RILL,0,0,0,,Dzięki niemu może uda\Nmi się stworzyć majstersztyk!
+Dialogue: 0,0:10:52.89,0:10:56.77,italics,MEGICULA (INT),0,0,0,,Z osobna to zupełnie\Nnic nieznaczące istoty…
+Dialogue: 0,0:10:56.77,0:10:59.59,italics,MEGICULA (INT),0,0,0,,Ale kiedy połączą siły,\Npotrafią tyle osiągnąć…
+Dialogue: 0,0:11:00.26,0:11:03.33,main,MEGICULA,0,0,0,,Jesteście doprawdy fascynujący!
+Dialogue: 0,0:11:08.75,0:11:14.53,main,MEGICULA,0,0,0,,Mroczni adepci, którzy umarli ku uciesze\Nmojej i Vaniki, spoczywają pod wieżą.
+Dialogue: 0,0:11:14.90,0:11:16.84,main,MEGICULA,0,0,0,,Wtłoczę w nich demoniczną moc
+Dialogue: 0,0:11:16.84,0:11:22.63,main,MEGICULA,0,0,0,,oraz moce dusz\NAcier Silvy i Vaniki, które posiadam.
+Dialogue: 0,0:11:24.54,0:11:27.85,main,MEGICULA,0,0,0,,Żywe trupy z krwi i stali.
+Dialogue: 0,0:11:32.13,0:11:34.60,main,MEGICULA,0,0,0,,Razem jest ich stu.
+Dialogue: 0,0:11:53.68,0:11:56.22,main,ASTA,0,0,0,,Ała! Wszystko dalej mnie boli!
+Dialogue: 0,0:11:56.22,0:11:58.36,main,ASTA,0,0,0,,Wciągną nas!
+Dialogue: 0,0:12:04.76,0:12:07.21,main,UNDINE,0,0,0,,Dziękuję za uratowanie Lolopechki!
+Dialogue: 0,0:12:07.21,0:12:09.88,main,ASTA,0,0,0,,Nie ma za co! To my dziękujemy!
+Dialogue: 0,0:12:10.14,0:12:14.05,main,ASTA,0,0,0,,Wybaczcie! Do niczego\Nsię teraz nie przydam!
+Dialogue: 0,0:12:14.51,0:12:16.00,main,ASTA,0,0,0,,Reszta należy do ciebie!
+Dialogue: 0,0:12:16.00,0:12:19.53,main,NOELLE,0,0,0,,Że co?! Dopiero co przyszedłeś!\NCo to ma znaczyć?!
+Dialogue: 0,0:12:19.53,0:12:21.80,main,ASTA,0,0,0,,Noelle! Dasz sobie radę!
+Dialogue: 0,0:12:22.64,0:12:24.13,italics,NOELLE (INT),0,0,0,,Dobrze wiem,
+Dialogue: 0,0:12:24.53,0:12:27.89,italics,NOELLE (INT),0,0,0,,że pewnie jak zwykle\Nwalczyłeś bez namysłu.
+Dialogue: 0,0:12:28.63,0:12:29.98,italics,NOELLE (INT),0,0,0,,Już wystarczy, co zrobiłeś.
+Dialogue: 0,0:12:30.81,0:12:32.78,italics,NOELLE (INT),0,0,0,,Sam fakt, że tu przyszedłeś…
+Dialogue: 0,0:12:33.97,0:12:36.13,italics,NOELLE (INT),0,0,0,,Na samą myśl o tobie
+Dialogue: 0,0:12:37.46,0:12:39.44,italics,NOELLE (INT),0,0,0,,wracają mi siły!
+Dialogue: 0,0:12:40.81,0:12:43.62,italics,NOELLE (INT),0,0,0,,Czyli jednak.
+Dialogue: 0,0:12:44.33,0:12:46.42,italics,NOELLE (INT),0,0,0,,Dotąd oszukiwałam samą siebie.
+Dialogue: 0,0:12:46.42,0:12:48.81,italics,NOELLE (INT),0,0,0,,Że też zdałam sobie\Nsprawę w takiej chwili…
+Dialogue: 0,0:12:50.33,0:12:53.75,italics,NOELLE (INT),0,0,0,,Ja po prostu kocham Astę.
+Dialogue: 0,0:12:54.33,0:12:56.49,italics,NOELLE (INT),0,0,0,,Ale teraz jesteśmy w środku walki.
+Dialogue: 0,0:12:56.90,0:12:59.26,italics,NOELLE (INT),0,0,0,,Teraz muszę ją pokonać!
+Dialogue: 0,0:12:59.71,0:13:01.51,main,NOELLE,0,0,0,,Ruszamy, Undine!
+Dialogue: 0,0:13:02.03,0:13:03.86,main,NOELLE,0,0,0,,Ostatni poziom święty!
+Dialogue: 0,0:13:11.19,0:13:13.44,main,ASTA,0,0,0,,Łoo! Ale super!
+Dialogue: 0,0:13:14.12,0:13:16.69,main,NOELLE,0,0,0,,Zajmij się Lolopechką, Asta!
+Dialogue: 0,0:13:16.69,0:13:18.44,main,ASTA,0,0,0,,Ał, ał, ał! Robi się!
+Dialogue: 0,0:13:21.83,0:13:26.18,main,UNDINE,0,0,0,,Nie starczy nam siły poziomu\Nświętego, żeby się nimi zająć!
+Dialogue: 0,0:13:27.25,0:13:30.26,italics,RILL (INT),0,0,0,,Magia obrazu: Pan Valhalli.
+Dialogue: 0,0:13:32.02,0:13:34.02,italics,RILL (INT),0,0,0,,Zarówno Noelle na poziomie świętym,
+Dialogue: 0,0:13:34.02,0:13:37.53,italics,RILL (INT),0,0,0,,jak i ataki Charlotte negujące\Nklątwy są dla nas kluczowe.
+Dialogue: 0,0:13:39.22,0:13:41.84,main,RILL,0,0,0,,A to znaczy, że ja muszę\Nwas porządnie wesprzeć!
+Dialogue: 0,0:13:41.84,0:13:45.65,italics,CHARLOTTE (INT),0,0,0,,Prawdziwa magia cierni:\NPrzeszywana Szkarłatem Włócznia!
+Dialogue: 0,0:13:48.29,0:13:52.04,main,MEGICULA,0,0,0,,Ciągle rozwijacie się podczas walki…
+Dialogue: 0,0:13:54.65,0:13:56.11,main,MEGICULA,0,0,0,,Jesteście doprawdy
+Dialogue: 0,0:14:03.38,0:14:07.00,main,MEGICULA,0,0,0,,najlepszymi istotami do zabawy.
+Dialogue: 0,0:14:12.64,0:14:13.87,main,RILL,0,0,0,,Noelle!
+Dialogue: 0,0:14:24.05,0:14:25.14,main,NOELLE,0,0,0,,Luck!
+Dialogue: 0,0:14:25.39,0:14:27.76,main,LUCK,0,0,0,,Zrobię ci przejście, za mną!
+Dialogue: 0,0:14:28.07,0:14:29.64,main,RILL,0,0,0,,Świetnie wam idzie!
+Dialogue: 0,0:14:29.93,0:14:33.22,main,RILL,0,0,0,,Czuję przypływ inspiracji!
+Dialogue: 0,0:14:33.22,0:14:35.52,italics,RILL (INT),0,0,0,,Gdybyśmy mieli jeszcze\Njednego maga piorunu,
+Dialogue: 0,0:14:35.81,0:14:37.77,italics,RILL (INT),0,0,0,,byłoby idealnie!
+Dialogue: 0,0:14:47.38,0:14:50.29,italics,GAJA (INT),0,0,0,,Jestem już praktycznie martwy…
+Dialogue: 0,0:14:53.20,0:14:54.62,italics,GAJA (INT),0,0,0,,A mimo to,
+Dialogue: 0,0:14:55.39,0:14:59.50,italics,GAJA (INT),0,0,0,,jestem wdzięczny, że znów\Nmogę walczyć dla Jej Wysokości!
+Dialogue: 0,0:15:00.71,0:15:02.71,main,LUCK,0,0,0,,Gaja!
+Dialogue: 0,0:15:06.48,0:15:07.63,main,LUCK,0,0,0,,Skończmy to!
+Dialogue: 0,0:15:08.03,0:15:08.81,main,GAJA,0,0,0,,Tak…
+Dialogue: 0,0:15:23.85,0:15:24.82,italics,NOELLE (INT),0,0,0,,Teraz!
+Dialogue: 0,0:15:32.25,0:15:34.79,main,MEGICULA,0,0,0,,Może i nie jestem\Nw kompletnej formie,
+Dialogue: 0,0:15:34.79,0:15:37.40,main,MEGICULA,0,0,0,,ale i tak mogliście stawić mi czoła.
+Dialogue: 0,0:15:38.08,0:15:40.84,main,MEGICULA,0,0,0,,Naprawdę mnie zaskoczyliście.
+Dialogue: 0,0:15:41.84,0:15:43.31,main,MEGICULA,0,0,0,,Jednak tak jak myślałam,
+Dialogue: 0,0:15:45.96,0:15:47.68,main,MEGICULA,0,0,0,,to już koniec.
+Dialogue: 0,0:15:58.57,0:16:03.96,main,NOZEL,0,0,0,,Masz czelność znowu pokazywać\Nsię przed moją rodziną?
+Dialogue: 0,0:16:07.21,0:16:11.55,main,NOZEL,0,0,0,,Nie masz pojęcia, jak długo\Nczekałem na tę chwilę.
+Dialogue: 0,0:16:17.73,0:16:22.84,italics,NOZEL (INT),0,0,0,,Po tym, jak na matkę rzucono klątwę,\Nnikła w oczach w zatrważającym tempie.
+Dialogue: 0,0:16:23.42,0:16:25.85,italics,NOZEL (INT),0,0,0,,Nasza rodzina\Nnie miała o niczym pojęcia,
+Dialogue: 0,0:16:25.85,0:16:28.43,italics,NOZEL (INT),0,0,0,,więc pozostali myśleli,\Nże to przez niedawny poród.
+Dialogue: 0,0:16:29.52,0:16:32.84,italics,NOZEL (INT),0,0,0,,Kiedy na matkę rzucono czar klątwy,
+Dialogue: 0,0:16:32.84,0:16:35.39,italics,NOZEL (INT),0,0,0,,mnie też dotknął jego efekt uboczny.
+Dialogue: 0,0:16:36.08,0:16:39.51,italics,NOZEL (INT),0,0,0,,Gdybym powiedział, że za śmierć matki\Nodpowiada Megicula,
+Dialogue: 0,0:16:39.51,0:16:40.97,italics,NOZEL (INT),0,0,0,,zginąłbym.
+Dialogue: 0,0:16:41.69,0:16:46.75,italics,NOZEL (INT),0,0,0,,A osoba, której bym to powiedział,\Ntakże zostałaby przeklęta.
+Dialogue: 0,0:16:46.75,0:16:49.97,italics,NOZEL (INT),0,0,0,,To czar, który\Nrozprzestrzeniał się jak zaraza.
+Dialogue: 0,0:16:51.00,0:16:53.35,flashback italics,YOUNG NOZEL (INT)(FB),0,0,0,,Nie mogę nikomu nic powiedzieć.
+Dialogue: 0,0:16:53.69,0:16:55.89,flashback italics,YOUNG NOZEL (INT)(FB),0,0,0,,Sam muszę coś z tym zrobić.
+Dialogue: 0,0:16:56.40,0:16:58.07,flashback italics,YOUNG NOZEL (INT)(FB),0,0,0,,Muszę ocalić matkę!
+Dialogue: 0,0:16:58.49,0:17:00.51,flashback italics,YOUNG NOZEL (INT)(FB),0,0,0,,Muszę znaleźć sposób na zdjęcie klątwy!
+Dialogue: 0,0:17:01.14,0:17:03.59,flashback,ACIER (FB),0,0,0,,Nozel… Już wystarczy.
+Dialogue: 0,0:17:07.69,0:17:11.22,flashback,ACIER (FB),0,0,0,,W tym tempie twojemu życiu\Nteż będzie grozić niebezpieczeństwo.
+Dialogue: 0,0:17:11.85,0:17:12.97,flashback,YOUNG NOZEL (FB),0,0,0,,Ale…
+Dialogue: 0,0:17:13.83,0:17:16.89,flashback,ACIER (FB),0,0,0,,Ludzie nie stają się\Nsilniejsi tak łatwo.
+Dialogue: 0,0:17:19.73,0:17:21.37,flashback,ACIER (FB),0,0,0,,Ale nie martw się.
+Dialogue: 0,0:17:22.81,0:17:25.72,flashback,ACIER (FB),0,0,0,,Ty… Wy…
+Dialogue: 0,0:17:26.34,0:17:28.76,flashback,ACIER (FB),0,0,0,,kiedyś będziecie silniejsi ode mnie.
+Dialogue: 0,0:17:30.25,0:17:31.85,flashback,ACIER (FB),0,0,0,,Dlatego musisz żyć dalej.
+Dialogue: 0,0:17:33.19,0:17:34.06,flashback,ACIER (FB),0,0,0,,Nozel.
+Dialogue: 0,0:17:44.14,0:17:48.13,italics,NOZEL (INT),0,0,0,,Rok po rzuceniu klątwy matka zmarła.
+Dialogue: 0,0:17:48.57,0:17:54.59,italics,NOZEL (INT),0,0,0,,Przez ten rok mogłem\Ntylko bezradnie patrzeć.
+Dialogue: 0,0:17:58.81,0:18:00.10,flashback italics,YOUNG NOZEL (INT)(FB),0,0,0,,Silniejszy…
+Dialogue: 0,0:18:04.04,0:18:06.30,flashback italics,NOZEL (INT)(FB),0,0,0,,Muszę być silniejszy.
+Dialogue: 0,0:18:07.85,0:18:13.73,flashback italics,NOZEL (INT)(FB),0,0,0,,Aby kiedyś pomścić matkę!\NAby chronić rodzeństwo!
+Dialogue: 0,0:18:15.12,0:18:18.22,flashback italics,NOZEL (INT)(FB),0,0,0,,Nebra i Solid także przybierają na sile,
+Dialogue: 0,0:18:18.57,0:18:21.37,flashback italics,NOZEL (INT)(FB),0,0,0,,ale nie mają żadnych szans\Nz takim przeciwnikiem.
+Dialogue: 0,0:18:21.87,0:18:22.96,flashback italics,NOZEL (INT)(FB),0,0,0,,A Noelle…
+Dialogue: 0,0:18:23.31,0:18:26.88,flashback,NOELLE (FB),0,0,0,,Nozel… Mógłbyś nauczyć mnie magii?
+Dialogue: 0,0:18:27.52,0:18:29.93,flashback italics,NOZEL (INT)(FB),0,0,0,,Jeśli nie będzie\Nmogła stać się silniejsza,
+Dialogue: 0,0:18:29.93,0:18:32.88,flashback italics,NOZEL (INT)(FB),0,0,0,,to najlepiej trzymać ją na dystans.
+Dialogue: 0,0:18:33.87,0:18:37.72,flashback,NOZEL (FB),0,0,0,,Na polu walki nie ma miejsca\Ndla takich partaczy jak ty.
+Dialogue: 0,0:18:38.44,0:18:41.10,flashback italics,NOZEL (INT)(FB),0,0,0,,Jeśli ma potem czuć to samo co ja,
+Dialogue: 0,0:18:41.10,0:18:42.95,flashback italics,NOZEL (INT)(FB),0,0,0,,lepiej trzymać ją z dala od walki…
+Dialogue: 0,0:18:44.16,0:18:49.85,flashback,NOZEL (FB),0,0,0,,Dlaczego matka musiała zginąć,\Nżeby urodzić kogoś takiego?
+Dialogue: 0,0:18:51.41,0:18:53.93,flashback,NOZEL (FB),0,0,0,,To ty ją zabiłaś…
+Dialogue: 0,0:18:55.66,0:18:56.99,flashback italics,NOZEL (INT)(FB),0,0,0,,Nie!
+Dialogue: 0,0:18:57.74,0:18:59.48,flashback italics,NOZEL (INT)(FB),0,0,0,,To ja to zrobiłem!
+Dialogue: 0,0:19:00.87,0:19:03.62,flashback italics,NOZEL (INT)(FB),0,0,0,,Byłem bezużyteczny.\NNie mogłem nic zrobić.
+Dialogue: 0,0:19:04.17,0:19:07.25,flashback italics,NOZEL (INT)(FB),0,0,0,,Uciekłem z obawy,\Nże znowu coś stracę.
+Dialogue: 0,0:19:07.25,0:19:10.14,flashback italics,NOZEL (INT)(FB),0,0,0,,Jestem tchórzem,\Nktóry nie potrafi niczego ochronić.
+Dialogue: 0,0:19:11.93,0:19:15.77,flashback italics,NOZEL (INT)(FB),0,0,0,,Nie mam prawa się do ciebie zbliżyć.
+Dialogue: 0,0:19:16.94,0:19:18.14,flashback italics,NOZEL (INT)(FB),0,0,0,,Silniejszy…
+Dialogue: 0,0:19:20.08,0:19:21.56,flashback italics,NOZEL (INT)(FB),0,0,0,,Jeszcze silniejszy!
+Dialogue: 0,0:19:25.19,0:19:28.56,flashback italics,NOZEL (INT)(FB),0,0,0,,Oczywistym celem było\Nzostanie Cesarzem Magii.
+Dialogue: 0,0:19:29.48,0:19:33.68,flashback italics,NOZEL (INT)(FB),0,0,0,,Nie mogę tutaj umrzeć…
+Dialogue: 0,0:19:34.36,0:19:38.11,flashback italics,NOZEL (INT)(FB),0,0,0,,Stawiłem już czoła demonowi\No równie złowieszczej mocy.
+Dialogue: 0,0:19:38.11,0:19:39.20,flashback italics,NOZEL (INT)(FB),0,0,0,,A zatem…
+Dialogue: 0,0:19:39.66,0:19:41.49,flashback italics,NOZEL (INT)(FB),0,0,0,,Dla chwili, która musiała nadejść…
+Dialogue: 0,0:19:47.45,0:19:48.25,main,NOZEL,0,0,0,,Chcę
+Dialogue: 0,0:19:49.00,0:19:52.42,main,NOZEL,0,0,0,,podziękować wszystkim tu obecnym.
+Dialogue: 0,0:19:58.64,0:20:02.06,main,NOZEL,0,0,0,,Wreszcie… znów się spotykamy!
+Dialogue: 0,0:20:03.05,0:20:05.85,main,NOZEL,0,0,0,,Włożę w ten atak całe swoje jestestwo!
+Dialogue: 0,0:20:10.50,0:20:14.36,main,MEGICULA,0,0,0,,Wzruszające spotkanie po latach…\NTak to nazywacie?
+Dialogue: 0,0:20:20.56,0:20:24.29,main,MEGICULA,0,0,0,,Wybacz, ale nie odczuwam takich emocji.
+Dialogue: 0,0:20:27.04,0:20:31.46,flashback,ACIER (FB),0,0,0,,Posiadasz wytrzymałość\Nstali i giętkość wody.
+Dialogue: 0,0:20:31.69,0:20:33.42,main,NOZEL,0,0,0,,Nie myśl, że go zablokujesz!
+Dialogue: 0,0:20:35.47,0:20:39.63,italics,NOZEL (INT),0,0,0,,Krew płynie… a stal ją przeszywa…
+Dialogue: 0,0:20:40.28,0:20:44.14,italics,NOZEL (INT),0,0,0,,Mimo to nie mogę zniszczyć jej serca.
+Dialogue: 0,0:20:45.02,0:20:47.56,italics,NOZEL (INT),0,0,0,,Chyba jednak się myliłem.
+Dialogue: 0,0:20:47.80,0:20:51.06,italics,NOZEL (INT),0,0,0,,Nie powinienem był trzymać jej z dala.
+Dialogue: 0,0:20:53.05,0:20:56.07,italics,NOZEL (INT),0,0,0,,Powinniśmy byli wspólnie rosnąć w siłę.
+Dialogue: 0,0:21:01.21,0:21:02.87,main,NOELLE,0,0,0,,Nie poddaliśmy się!
+Dialogue: 0,0:21:03.42,0:21:06.24,main,NOELLE,0,0,0,,I dlatego zwycięstwo\Nnależy do nas, Megiculo!
+Dialogue: 0,0:21:14.10,0:21:19.52,italics,MEGICULA (INT),0,0,0,,Zachowywałam czujność, ale nie\Nmyślałam, że przegram z ludźmi…
+Dialogue: 0,0:21:22.38,0:21:29.02,main,MEGICULA,0,0,0,,Wygląda na to, że źle oceniłam…\Nwaszą prawdziwą siłę.
+Dialogue: 0,0:21:30.24,0:21:33.31,italics,MEGICULA (INT),0,0,0,,Czy to dlatego zafascynowała mnie
+Dialogue: 0,0:21:33.31,0:21:37.21,italics,MEGICULA (INT),0,0,0,,siła ludzkich emocji?
+Dialogue: 0,0:21:51.91,0:21:56.38,main,ACIER,0,0,0,,Oboje… staliście się silni.
+Dialogue: 0,0:22:19.90,0:22:24.50,italics,proof_credits,0,0,0,,Tłumaczenie: Mikołaj Sobański\NKorekta: Michał Sienkiewicz; FORCE MEDIA
+
