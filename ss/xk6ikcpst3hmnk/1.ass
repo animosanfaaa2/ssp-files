@@ -1,0 +1,86 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: main,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: sign_35245_386_Reborn_as_a_Side,Times New Roman,25,&H008400DA,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,0,14,290,0
+Style: main - top,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: main - italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: main - italics top,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: main - flashback,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: main - flashback - top,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: sign_10776_104_Encounter_Cafe,Trebuchet MS,13,&H00E0CEF9,&H000000FF,&H00FDFCFD,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,13,529,298,0
+Style: sign_10776_105_Boo_m,Trebuchet MS,13,&H00FFFFFF,&H000000FF,&H00FF52FF,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,287,311,274,0
+Style: sign_16985_199_Dunning_Letter,Times New Roman,13,&H00313131,&H000000FF,&H00FDFCFD,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,514,34,330,0
+Style: sign_19263_238_Labor_Contract__,Times New Roman,13,&H00313131,&H000000FF,&H00FDFCFD,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,328,0,18,0
+Style: sign_21788_254__Beginner_Dungeo,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,182,142,52,0
+Style: sign_21881_255_Stop,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: sign_23163_282_1st_Layer_,Trebuchet MS,13,&H00FFFFFF,&H000000FF,&H000000B9,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,393,185,38,0
+Style: sign_23259_291_Within_1_40_00,Trebuchet MS,13,&H00FFFFFF,&H000000FF,&H000000B9,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,72,476,214,0
+Style: sign_23351_292_Within_1_40_00,Trebuchet MS,20,&H007FFFFE,&H000000FF,&H000000B9,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,259,229,42,0
+Style: sign_26855_337_Treadmill,Trebuchet MS,13,&H00FDCC6B,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,279,299,87,0
+Style: sign_28214_357_Select_User,Trebuchet MS,13,&H0077324E,&H000000FF,&H000000B9,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,212,356,310,0
+Style: sign_28214_358_Takioto_Kousuke,Trebuchet MS,13,&H0077324E,&H000000FF,&H000000B9,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,302,234,311,0
+Style: Signs_Fix,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:04.98,0:01:09.98,sign_35245_386_Reborn_as_a_Side,SIGN,0,0,0,,{\fs23\move(262,73,265,83,16,4979)}{\blur2}{\c&H000000&}That's a{\c&H6E00E7&} Pink {\c&H000000&}Bomb
+Dialogue: 0,0:06:04.43,0:06:07.31,sign_10776_104_Encounter_Cafe,SIGN,0,0,0,,{\c&HC59BFF&\frz358.5\move(66,64,117,66,19,2855)}Encounter Cafe
+Dialogue: 0,0:06:04.43,0:06:07.31,sign_10776_105_Boo_m,SIGN,0,0,0,,{\blur1\move(261,114,308,115,19,2855)}Boo~m
+Dialogue: 0,0:06:04.43,0:06:07.31,sign_10776_104_Encounter_Cafe,SIGN,0,0,0,,{\fs10\c&HE3B4E0&\frz8.504\move(377,49,425,47,19,2855)}{\blur1}Cats and\NFriends
+Dialogue: 0,0:06:04.43,0:06:07.31,sign_10776_104_Encounter_Cafe,SIGN,0,0,0,,{\3c&HFDBDFD&\c&HFFFFFF&\frz353.2\move(489,116,532,119,19,2855)}{\blur1\i1}Sexy Pub
+Dialogue: 0,0:06:11.73,0:06:14.52,sign_10776_104_Encounter_Cafe,SIGN,0,0,0,,{\c&HAE5DFB&\pos(228,168)\frz2.313}Secret <3
+Dialogue: 0,0:10:23.40,0:10:25.23,sign_16985_199_Dunning_Letter,SIGN,0,0,0,,{\pos(511,40)\frz338.1\frx18\fry2}Dunning Letter
+Dialogue: 0,0:11:58.41,0:12:01.24,Signs_Fix,SIGN,0,0,0,,{\an7\bord0\p1\c&HF8F7FA&\3c&HF8F7FA&\4c&HF8F7FA&\1a&H21&\pos(398,11)}m 0 0 l 225 0 225 280 0 280
+Dialogue: 0,0:11:58.41,0:12:01.24,sign_19263_238_Labor_Contract__,SIGN,0,0,0,,{\pos(513,280)\c&H020202&}Labor Contract\N\NThe labor contract will be entered\Nwith the following conditions.\NDuration: No limit, so for all life\NRole description: Obey the employer's\Nevery word\NPlace of work: All places\Ndesignated by the employer\NWork hours: Be available 24/7\NBreak times: None\NDays off: No fixed days off\NRemuneration: Maybe, if the employer\Nfeels like it\NResignation: Resignation will not be accepted\NMiscellaneous: Total subjugation\Nis the utmost priority. Do not object ever.\NThe employee vows to follow\Nthese terms and be a loyal worker.\N\NEmployer Name: Takioto Kousuke
+Dialogue: 0,0:12:43.74,0:12:46.62,sign_21788_254__Beginner_Dungeo,SIGN,0,0,0,,{\pos(324,308)}[Beginner Dungeon - 1st Layer]
+Dialogue: 0,0:12:47.63,0:12:48.08,Signs_Fix,SIGN,0,0,0,,{\pos(353,116)}Stop
+Dialogue: 0,0:12:47.63,0:12:48.08,Signs_Fix,SIGN,0,0,0,,{\pos(364,164)}Lap
+Dialogue: 0,0:12:55.02,0:12:56.50,sign_21788_254__Beginner_Dungeo,SIGN,0,0,0,,{\pos(321,310)\c&HD9D9DB&}[5th Layer]
+Dialogue: 0,0:13:03.26,0:13:04.36,sign_21788_254__Beginner_Dungeo,SIGN,0,0,0,,{\pos(320,309)}[6th Layer]
+Dialogue: 0,0:13:11.69,0:13:13.14,sign_21788_254__Beginner_Dungeo,SIGN,0,0,0,,{\pos(320,309)}[7th Layer]
+Dialogue: 0,0:13:18.92,0:13:25.95,sign_21788_254__Beginner_Dungeo,SIGN,0,0,0,,{\pos(318,305)}[8th Layer]
+Dialogue: 0,0:13:29.88,0:13:31.08,sign_21788_254__Beginner_Dungeo,SIGN,0,0,0,,{\pos(320,310)}[9th Layer]
+Dialogue: 0,0:13:35.77,0:13:37.96,Signs_Fix,SIGN,0,0,0,,{\pos(354,199)}Stop
+Dialogue: 0,0:13:35.77,0:13:37.96,Signs_Fix,SIGN,0,0,0,,{\pos(377,239)}Lap
+Dialogue: 0,0:13:41.10,0:13:48.95,sign_23163_282_1st_Layer_,SIGN,0,0,0,,{\pos(421,306)}1st Layer {starting at the bottom}
+Dialogue: 0,0:13:41.40,0:13:48.95,sign_23163_282_1st_Layer_,SIGN,0,0,0,,{\pos(227,277)}2nd Layer
+Dialogue: 0,0:13:41.69,0:13:48.95,sign_23163_282_1st_Layer_,SIGN,0,0,0,,{\pos(421,254)}3rd Layer
+Dialogue: 0,0:13:41.98,0:13:48.95,sign_23163_282_1st_Layer_,SIGN,0,0,0,,{\pos(224,228)}4th Layer
+Dialogue: 0,0:13:42.27,0:13:48.95,sign_23163_282_1st_Layer_,SIGN,0,0,0,,{\pos(423,204)}5th Layer
+Dialogue: 0,0:13:42.56,0:13:48.95,sign_23163_282_1st_Layer_,SIGN,0,0,0,,{\pos(224,176)}6th Layer
+Dialogue: 0,0:13:42.86,0:13:48.95,sign_23163_282_1st_Layer_,SIGN,0,0,0,,{\pos(422,150)}7th Layer
+Dialogue: 0,0:13:43.15,0:13:48.95,sign_23163_282_1st_Layer_,SIGN,0,0,0,,{\pos(225,126)}8th Layer
+Dialogue: 0,0:13:43.44,0:13:48.95,sign_23163_282_1st_Layer_,SIGN,0,0,0,,{\pos(423,99)}9th Layer
+Dialogue: 0,0:13:45.11,0:13:48.95,sign_23259_291_Within_1_40_00,SIGN,0,0,0,,{\c&H7FFFFE&\pos(115,128)}Within 1:40:00
+Dialogue: 0,0:13:48.95,0:13:52.14,sign_23351_292_Within_1_40_00,SIGN,0,0,0,,{\pos(328,322)}Within 1:40:00
+Dialogue: 0,0:13:53.16,0:13:54.60,sign_21788_254__Beginner_Dungeo,SIGN,0,0,0,,{\pos(326,309)}[10th Layer - Special Floor]
+Dialogue: 0,0:14:55.62,0:14:57.58,sign_21788_254__Beginner_Dungeo,SIGN,0,0,0,,{\c&HFFFFFF&\pos(322,306)}[11th Layer - Boss Room]
+Dialogue: 0,0:16:15.08,0:16:18.04,sign_26855_337_Treadmill,SIGN,0,0,0,,{\c&HFDCC6B&\fs24\b1\pos(312,287)}Treadmill
+Dialogue: 0,0:17:11.76,0:17:12.43,sign_28214_357_Select_User,SIGN,0,0,0,,{\frz8.191\pos(255,34)}Select User
+Dialogue: 0,0:17:11.76,0:17:12.43,sign_28214_358_Takioto_Kousuke,SIGN,0,0,0,,{\frz7.354\pos(349,40)}Takioto Kousuke
+Dialogue: 0,0:17:11.76,0:17:12.43,sign_28214_358_Takioto_Kousuke,SIGN,0,0,0,,{\frz7.627\pos(405,76)}Gender: Male
+Dialogue: 0,0:17:11.76,0:17:12.43,sign_28214_358_Takioto_Kousuke,SIGN,0,0,0,,{\pos(324,117)}Height
+Dialogue: 0,0:17:11.76,0:17:12.43,sign_28214_358_Takioto_Kousuke,SIGN,0,0,0,,{\pos(333,142)}Weight
+Dialogue: 0,0:17:11.76,0:17:12.43,sign_28214_358_Takioto_Kousuke,SIGN,0,0,0,,{\pos(206,252)}Cancel
+Dialogue: 0,0:17:11.76,0:17:12.43,sign_28214_358_Takioto_Kousuke,SIGN,0,0,0,,{\pos(452,204)}Proceed
+Dialogue: 0,0:17:16.05,0:17:19.32,sign_28214_358_Takioto_Kousuke,SIGN,0,0,0,,{\frz9.395\fs14\move(504,92,501,58,24,3236)}Takioto Kousuke
+Dialogue: 0,0:17:16.05,0:17:19.32,sign_28214_358_Takioto_Kousuke,SIGN,0,0,0,,{\frz9.395\fs14\move(568,175,564,142,24,3236)}Gender:\NMale
+Dialogue: 0,0:17:58.36,0:18:02.35,sign_28214_358_Takioto_Kousuke,SIGN,0,0,0,,{\frz6.232\pos(255,32)}Select Mode
+Dialogue: 0,0:18:19.78,0:18:25.29,sign_28214_358_Takioto_Kousuke,SIGN,0,0,0,,{\c&H4A001C&\frz16.16\fs14\move(431,142,346,185,25,5489)}Target
+Dialogue: 0,0:19:26.53,0:19:26.93,sign_10776_104_Encounter_Cafe,SIGN,0,0,0,,{\3c&H7649F5&\c&HFFFFFF&\b1\frz10.45\pos(200,187)}Pause
+Dialogue: 0,0:19:26.53,0:19:26.93,sign_10776_104_Encounter_Cafe,SIGN,0,0,0,,{\c&HFFFFFF&\3c&HED6437&\b1\frz11.07\pos(362,157)}Resume
+Dialogue: 0,0:20:04.39,0:20:12.02,sign_28214_358_Takioto_Kousuke,SIGN,0,0,0,,{\pos(44,72)}Cold\NAir
+Dialogue: 0,0:20:04.39,0:20:12.02,sign_28214_358_Takioto_Kousuke,SIGN,0,0,0,,{\pos(189,45)}Warm\NAir
+
