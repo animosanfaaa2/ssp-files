@@ -1,0 +1,317 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Bold,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,0,0,20,1
+Style: Internal,Arial Bold,23,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,2,0,0,20,0
+Style: Flashback,Arial Bold,23,&H00F7ECEB,&H000000FF,&H004D0701,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,0,0,20,0
+Style: Flashback Internal,Arial Bold,23,&H00F7ECEB,&H000000FF,&H004D0701,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,2,0,0,20,0
+Style: TypePlaceholder,Arial Bold,19,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:15.01,0:00:18.25,Flashback,Nozel,0,0,0,,Mutter!
+Dialogue: 0,0:01:48.55,0:01:53.97,TypePlaceholder,Types,0,0,0,,{\fnGeorgia\b1\fs25\pos(320,235)\bord2.5\c&HFFFFFF&\3c&H000000&\blur5\3a&H74&}Jenseits der Unbeugsamkeit
+Dialogue: 0,0:01:48.55,0:01:53.97,TypePlaceholder,Types,0,0,0,,{\fnGeorgia\b1\fs14\bord1.5\c&HFFFFFF&\3c&H000000&\blur3\3a&H74&\pos(502.5,68.5)}Seite
+Dialogue: 0,0:01:57.50,0:01:59.97,Default,Megicula,0,0,0,,Ist deine Stufe heilig\Nerst einmal aufgelöst, …
+Dialogue: 0,0:02:00.31,0:02:02.98,Default,Megicula,0,0,0,,wird es dir absolut unmöglich,\Nmich zu besiegen.
+Dialogue: 0,0:02:02.98,0:02:06.64,Default,Megicula,0,0,0,,Und selbst wenn du noch Angriffe\Nder Stufe heilig entfesseln könntest,
+Dialogue: 0,0:02:06.64,0:02:09.48,Default,Megicula,0,0,0,,so würden sie mich\Nohnehin nicht erreichen.
+Dialogue: 0,0:02:09.82,0:02:14.49,Default,Megicula,0,0,0,,Meine „Verrottende Welt“ hat sich\Nin diesem Bereich bereits ausgebreitet.
+Dialogue: 0,0:02:15.17,0:02:20.24,Default,Megicula,0,0,0,,Es kann euch also niemand zur Hilfe eilen,\Nund wenn doch jemand käme, wäre er machtlos.
+Dialogue: 0,0:02:20.74,0:02:23.00,Default,Megicula,0,0,0,,Ist das nicht alles Grund genug,\Num aufzugeben?
+Dialogue: 0,0:02:23.44,0:02:26.00,Default,Megicula,0,0,0,,Dies war doch recht\Nvergnüglich, Menschlein.
+Dialogue: 0,0:02:32.32,0:02:33.33,Internal,Noelle,0,0,0,,Gaja?!
+Dialogue: 0,0:02:36.45,0:02:37.44,Default,Undine,0,0,0,,Gaja!
+Dialogue: 0,0:02:40.82,0:02:42.79,Default,Gaja,0,0,0,,Es wird nicht wehtun.
+Dialogue: 0,0:02:42.79,0:02:45.69,Default,Gaja,0,0,0,,Bitte verzeiht mir, Königin Lolopechika.
+Dialogue: 0,0:02:46.20,0:02:49.00,Internal,Gaja,0,0,0,,Blitzmagie: Pulsaranta!
+Dialogue: 0,0:02:54.60,0:02:57.16,Internal,Gaja,0,0,0,,Sie wird für ein paar\NSekunden nun so verharren.
+Dialogue: 0,0:03:01.43,0:03:02.91,Internal,Gaja,0,0,0,,An jenem Tag beschloss ich, …
+Dialogue: 0,0:03:03.61,0:03:08.42,Internal,Gaja,0,0,0,,dass ich anstelle der Königin jeden Feind\Nbesiegen und das Land beschützen werde.
+Dialogue: 0,0:03:08.92,0:03:11.13,Internal,Gaja,0,0,0,,Doch vor einem halben Jahr …
+Dialogue: 0,0:03:11.60,0:03:13.92,Internal,Gaja,0,0,0,,habe ich Megiculas\Nund Vanicas Überfall zugelassen.
+Dialogue: 0,0:03:14.64,0:03:16.84,Internal,Gaja,0,0,0,,Ihr wurdet verflucht.
+Dialogue: 0,0:03:17.64,0:03:19.34,Flashback,Gaja,0,0,0,,Ich bin untröstlich!
+Dialogue: 0,0:03:19.34,0:03:21.82,Flashback,Gaja,0,0,0,,Ich tauge nicht zum Geisterwächter.
+Dialogue: 0,0:03:21.82,0:03:25.10,Flashback,Lolopechika,0,0,0,,Ach, nicht doch. Immerhin lebe ich noch.
+Dialogue: 0,0:03:25.45,0:03:28.10,Flashback,Lolopechika,0,0,0,,Wärst du nicht gewesen,\Nwäre ich jetzt wohl tot.
+Dialogue: 0,0:03:28.38,0:03:33.61,Flashback,Lolopechika,0,0,0,,Aber vor allem bin ich froh, dass niemand\Nim Königreich zu Schaden gekommen ist.
+Dialogue: 0,0:03:33.95,0:03:35.61,Flashback,Lolopechika,0,0,0,,Auch das ist dein Verdienst, Gaja!
+Dialogue: 0,0:03:38.04,0:03:41.20,Internal,Gaja,0,0,0,,Darüber hinaus seid Ihr bei dem Versuch,\Ndas Volk und das Reich,
+Dialogue: 0,0:03:41.20,0:03:43.79,Internal,Gaja,0,0,0,,ja, einfach alles zu beschützen,
+Dialogue: 0,0:03:43.79,0:03:45.62,Internal,Gaja,0,0,0,,in diese Lage geraten.
+Dialogue: 0,0:03:46.71,0:03:49.38,Internal,Gaja,0,0,0,,Ich griff so an,\Nwie Ihr es niemals wollen würdet.
+Dialogue: 0,0:03:50.49,0:03:54.55,Internal,Gaja,0,0,0,,Ich tauge eben doch nicht\Nzum Geisterwächter.
+Dialogue: 0,0:03:55.13,0:03:56.38,Internal,Gaja,0,0,0,,Noch mehr als unser Land …
+Dialogue: 0,0:03:56.80,0:03:58.80,Internal,Gaja,0,0,0,,wollte ich Euch beschützen.
+Dialogue: 0,0:03:59.70,0:04:01.97,Internal,Gaja,0,0,0,,Ich lasse Euch nicht sterben.
+Dialogue: 0,0:04:01.97,0:04:03.90,Internal,Gaja,0,0,0,,Ich lasse nicht zu, dass Ihr mich tötet.
+Dialogue: 0,0:04:04.39,0:04:08.39,Internal,Gaja,0,0,0,,Ich werde nicht der Wunde erliegen,\Ndie Ihr mir zugefügt habt.
+Dialogue: 0,0:04:08.91,0:04:10.32,Internal,Gaja,0,0,0,,Dieses Leben
+Dialogue: 0,0:04:10.32,0:04:13.82,Internal,Gaja,0,0,0,,wandle ich vollständig in magische Kraft um,\Num dieses Miststück auszuradieren!
+Dialogue: 0,0:04:13.82,0:04:15.07,Internal,Gaja,0,0,0,,Hier und jetzt …
+Dialogue: 0,0:04:15.72,0:04:18.07,Internal,Gaja,0,0,0,,werde ich Euch dieses Mal\Nunter allen Umständen retten!
+Dialogue: 0,0:04:19.10,0:04:20.91,Internal,Gaja,0,0,0,,Ultimative Blitzmagie:
+Dialogue: 0,0:04:21.16,0:04:22.86,Internal,Gaja,0,0,0,,Apocalypra …
+Dialogue: 0,0:04:23.74,0:04:25.43,Internal,Gaja,0,0,0,,Astrauza!
+Dialogue: 0,0:04:29.46,0:04:31.41,Internal,Megicula,0,0,0,,In meiner „Verrottenden Welt“
+Dialogue: 0,0:04:31.41,0:04:33.04,Internal,Megicula,0,0,0,,kann ich das nicht auslöschen.
+Dialogue: 0,0:04:47.28,0:04:49.14,Internal,Noelle,0,0,0,,Nur noch ein Treffer!
+Dialogue: 0,0:04:49.14,0:04:50.70,Internal,Noelle,0,0,0,,Er kann noch so schwach sein!
+Dialogue: 0,0:04:50.70,0:04:53.15,Internal,Noelle,0,0,0,,Ihr freigelegtes Herz\Nmuss durchstoßen werden!
+Dialogue: 0,0:04:53.15,0:04:55.77,Internal,Noelle,0,0,0,,Ich brauche die Kraft der Stufe heilig!
+Dialogue: 0,0:04:58.18,0:05:00.90,Default,Megicula,0,0,0,,Ist das also eine Magie,\Nbei der das Leben verbrannt wird?
+Dialogue: 0,0:05:04.27,0:05:06.70,Default,Megicula,0,0,0,,Sie ist stärker als gedacht.
+Dialogue: 0,0:05:07.72,0:05:09.41,Default,Megicula,0,0,0,,Das war vorzüglich, …
+Dialogue: 0,0:05:10.03,0:05:11.33,Default,Megicula,0,0,0,,Menschlein.
+Dialogue: 0,0:05:11.80,0:05:14.60,Default,Megicula,0,0,0,,Aber es war vergebene Liebesmüh,\Ndenn mein Körper
+Dialogue: 0,0:05:14.60,0:05:18.55,Default,Megicula,0,0,0,,regeneriert sich nämlich extrem schnell.
+Dialogue: 0,0:05:18.55,0:05:19.76,Default,Undine,0,0,0,,Gaja …
+Dialogue: 0,0:05:23.30,0:05:24.65,Default,Noelle,0,0,0,,Undine!
+Dialogue: 0,0:05:25.05,0:05:27.82,Default,Megicula,0,0,0,,Es läuft genau wie beim letzten Kampf.
+Dialogue: 0,0:05:28.73,0:05:32.31,Default,Megicula,0,0,0,,Damit ist eure Kraft der Stufe heilig\Nkomplett kaltgestellt.
+Dialogue: 0,0:05:32.66,0:05:35.31,Default,Megicula,0,0,0,,Das Spiel ist fast aus.
+Dialogue: 0,0:05:42.45,0:05:43.49,Default,Noelle,0,0,0,,Noch nicht!
+Dialogue: 0,0:05:50.78,0:05:51.70,Default,Megicula,0,0,0,,Was denn noch?
+Dialogue: 0,0:05:52.59,0:05:55.75,Default,Megicula,0,0,0,,Du kannst dir noch so deinen Kopf zerbrechen,\Ndu hast keine Chance auf den Sieg.
+Dialogue: 0,0:05:55.75,0:05:58.00,Default,Megicula,0,0,0,,Wieso also leistest du noch Widerstand?
+Dialogue: 0,0:05:58.00,0:05:59.38,Default,Megicula,0,0,0,,Ist das etwa der Quell der Macht,
+Dialogue: 0,0:05:59.38,0:06:03.27,Default,Megicula,0,0,0,,aus dem die Menschen bisweilen ihre meine\NErwartungen sprengende Magie beziehen?
+Dialogue: 0,0:06:04.12,0:06:06.85,Default,Megicula,0,0,0,,Doch in der „Verrottenden Welt“
+Dialogue: 0,0:06:06.85,0:06:10.97,Default,Megicula,0,0,0,,kann kein Zauber gewirkt werden,\Nder mich besiegen könnte.
+Dialogue: 0,0:06:11.40,0:06:15.43,Default,Megicula,0,0,0,,Teufel unterwerfen sich nicht jenen,\Ndie unter ihnen stehen.
+Dialogue: 0,0:06:15.43,0:06:17.07,Default,Megicula,0,0,0,,Das wäre doch absurd.
+Dialogue: 0,0:06:17.07,0:06:21.01,Default,Megicula,0,0,0,,Ihr Menschen klammert\Neuch an unverständliche Dinge
+Dialogue: 0,0:06:21.01,0:06:23.67,Default,Megicula,0,0,0,,und setzt euer Leben für\NBedeutungslosigkeiten aufs Spiel.
+Dialogue: 0,0:06:24.41,0:06:28.42,Default,Megicula,0,0,0,,Acier Silva setzte sich mit\Nder Liebe für ihre Kinder zur Wehr.
+Dialogue: 0,0:06:28.42,0:06:33.41,Default,Megicula,0,0,0,,Jener Mann dort bäumte sich mit seiner\NTreue für seine Königin gegen mich auf.
+Dialogue: 0,0:06:33.96,0:06:38.17,Default,Megicula,0,0,0,,Und du leistest mit einer\Nnicht-existenten Hoffnung Widerstand.
+Dialogue: 0,0:06:38.46,0:06:40.19,Default,Megicula,0,0,0,,Ja, wieso nur
+Dialogue: 0,0:06:40.19,0:06:44.34,Default,Megicula,0,0,0,,klammert ihr euch an solche Dinge\Nund gebt nicht einfach auf?
+Dialogue: 0,0:06:47.78,0:06:49.76,Internal,Noelle,0,0,0,,Ich soll nicht siegen können?
+Dialogue: 0,0:06:50.13,0:06:52.75,Internal,Noelle,0,0,0,,Als ob ich das nicht selbst wüsste.
+Dialogue: 0,0:06:55.47,0:06:59.30,Default,Noelle,0,0,0,,Ganz recht, ich klammere mich daran.
+Dialogue: 0,0:06:59.30,0:07:01.96,Default,Noelle,0,0,0,,Ich will nicht,\Ndass jemand wie du mir das nimmt!
+Dialogue: 0,0:07:03.21,0:07:05.21,Internal,Noelle,0,0,0,,Was ist denn nur mit der los?
+Dialogue: 0,0:07:05.21,0:07:06.91,Internal,Noelle,0,0,0,,Das ist doch der reinste Irrsinn!
+Dialogue: 0,0:07:09.14,0:07:11.20,Default,Noelle,0,0,0,,Für einen Menschen
+Dialogue: 0,0:07:11.20,0:07:13.52,Default,Noelle,0,0,0,,mögen die Chancen\Nauf den Sieg schlecht stehen,
+Dialogue: 0,0:07:13.52,0:07:16.07,Default,Noelle,0,0,0,,aber manchmal muss man es einfach wagen!
+Dialogue: 0,0:07:16.69,0:07:20.71,Internal,Noelle,0,0,0,,Am liebsten würde ich jetzt\Nauf die Knie fallen und losflennen.
+Dialogue: 0,0:07:21.26,0:07:23.97,Default,Noelle,0,0,0,,Man gewinnt nicht automatisch,\Nnur weil man nicht aufgibt.
+Dialogue: 0,0:07:24.28,0:07:27.83,Default,Noelle,0,0,0,,Aber wer aufgibt,\Nverliert auf jeden Fall!
+Dialogue: 0,0:07:27.83,0:07:30.51,Internal,Noelle,0,0,0,,Aber … trotz allem …
+Dialogue: 0,0:07:30.51,0:07:33.93,Default,Noelle,0,0,0,,Unsere Stärke ist nun einmal,\Ndass wir nicht aufgeben!
+Dialogue: 0,0:07:35.71,0:07:37.02,Default,Megicula,0,0,0,,Hmpf.
+Dialogue: 0,0:07:37.02,0:07:39.69,Default,Megicula,0,0,0,,So ganz erschließt es sich\Nmir noch immer nicht.
+Dialogue: 0,0:07:39.69,0:07:44.73,Default,Megicula,0,0,0,,Mein Interesse ist geweckt, jedoch darf ich\Nnicht noch mehr Zeit an dich verplempern.
+Dialogue: 0,0:07:47.81,0:07:49.41,Default,Megicula,0,0,0,,Fluchabwehrmagie:
+Dialogue: 0,0:07:50.16,0:07:52.41,Default,Megicula,0,0,0,,Explodierendes Leben.
+Dialogue: 0,0:07:54.12,0:07:55.93,Default,Megicula,0,0,0,,Ich werde Lolopechika\Nin die Luft sprengen
+Dialogue: 0,0:07:55.93,0:07:59.46,Default,Megicula,0,0,0,,und ihr alle könnt mit ihr\Ngemeinsam in den Tod gehen.
+Dialogue: 0,0:08:00.04,0:08:02.13,Default,Megicula,0,0,0,,Und ich werde
+Dialogue: 0,0:08:02.13,0:08:05.38,Default,Megicula,0,0,0,,mich in diesen Landen\Nmit Haut und Haar manifestieren.
+Dialogue: 0,0:08:13.26,0:08:17.67,Default,Noelle,0,0,0,,Lolopechika!
+Dialogue: 0,0:08:31.13,0:08:32.87,Default,Asta,0,0,0,,Das war haarscharf!
+Dialogue: 0,0:08:34.14,0:08:35.54,Default,Asta,0,0,0,,Ich kam noch gerade rechtzeitig!
+Dialogue: 0,0:08:36.33,0:08:37.54,Internal,Noelle,0,0,0,,Richtig …
+Dialogue: 0,0:08:37.54,0:08:39.37,Default,Asta,0,0,0,,So sehen wir uns unversehrt wieder,
+Dialogue: 0,0:08:39.37,0:08:41.01,Default,Asta,0,0,0,,Noelle!
+Dialogue: 0,0:08:41.01,0:08:43.15,Internal,Noelle,0,0,0,,Er hat mich das gelehrt.
+Dialogue: 0,0:08:44.91,0:08:48.55,Default,Noelle,0,0,0,,Von wegen unversehrt, Nerv-Asta!
+Dialogue: 0,0:08:53.37,0:08:55.56,Default,Megicula,0,0,0,,Dieses Menschlein …
+Dialogue: 0,0:08:55.81,0:08:59.57,Default,Asta,0,0,0,,Königin Lolopechika …\NDie Explosion konnte ich verhindern,
+Dialogue: 0,0:08:59.57,0:09:01.94,Default,Asta,0,0,0,,aber auf Euch lasten\Nimmer noch etliche Flüche.
+Dialogue: 0,0:09:01.94,0:09:05.44,Default,Liebe,0,0,0,,Bisher hat sich doch nur\Nein Tor zur Unterwelt geöffnet.
+Dialogue: 0,0:09:05.73,0:09:08.44,Default,Liebe,0,0,0,,Was macht also dieser Teufel\Nhöchsten Ranges hier?
+Dialogue: 0,0:09:08.71,0:09:14.10,Default,Liebe,0,0,0,,Ich sag’s direkt: Ohne Unite\Nsehen wir gegen die keinen Stich.
+Dialogue: 0,0:09:14.73,0:09:18.40,Internal,Megicula,0,0,0,,Dies alles geschah\Nin meiner „Verrottenden Welt“.
+Dialogue: 0,0:09:18.72,0:09:20.84,Internal,Megicula,0,0,0,,Natürlich! Dieser Bursche
+Dialogue: 0,0:09:20.84,0:09:24.50,Internal,Megicula,0,0,0,,ist das Anti-Magie-Menschlein,\Nvon dem mir Vanica erzählt hatte.
+Dialogue: 0,0:09:24.96,0:09:30.72,Internal,Megicula,0,0,0,,So faszinierend er auch ist,\Naber er könnte für Unwägbarkeiten sorgen.
+Dialogue: 0,0:09:31.36,0:09:33.72,Default,Megicula,0,0,0,,Beenden wir dieses Spiel.
+Dialogue: 0,0:09:35.62,0:09:37.14,Default,Megicula,0,0,0,,Zuerst werde ich Vanica …
+Dialogue: 0,0:09:37.61,0:09:40.52,Default,Megicula,0,0,0,,und danach Lolopechika töten.
+Dialogue: 0,0:09:40.52,0:09:42.98,Default,Megicula,0,0,0,,Ich werde mich auf der Stelle\Nvollständig manifestieren.
+Dialogue: 0,0:09:45.00,0:09:46.17,Default,Megicula,0,0,0,,Was?
+Dialogue: 0,0:09:46.17,0:09:47.73,Internal,Megicula,0,0,0,,Die Flüche sind verschwunden?
+Dialogue: 0,0:09:56.39,0:09:58.11,Default,Charlotte,0,0,0,,Ich bin …
+Dialogue: 0,0:09:58.84,0:10:01.00,Default,Charlotte,0,0,0,,immer noch auf den Beinen!
+Dialogue: 0,0:10:01.00,0:10:03.15,Default,Megicula,0,0,0,,Wieso steht diese Frau?
+Dialogue: 0,0:10:03.15,0:10:05.58,Default,Megicula,0,0,0,,Sie hätte sich gar nicht erholen dürfen.
+Dialogue: 0,0:10:05.92,0:10:08.84,Internal,Megicula,0,0,0,,Zudem hat ihre\Nmagische Kraft zugenommen?
+Dialogue: 0,0:10:10.46,0:10:14.76,Default,Rill,0,0,0,,Diese Magie funktioniert anders, daher hat es\Ngedauert, bis sie ihre Wirkung entfaltet hat.
+Dialogue: 0,0:10:21.95,0:10:24.47,Internal,Rill,0,0,0,,Solange „Walhalla\Ndes Zwielichts“ aktiv ist,
+Dialogue: 0,0:10:24.47,0:10:26.90,Internal,Rill,0,0,0,,wird die magische Kraft\Nmeiner Verbündeten erhöht.
+Dialogue: 0,0:10:26.90,0:10:31.25,Internal,Rill,0,0,0,,Und egal wie schwer wir getroffen werden,\Nsie verhindert unseren Tod.
+Dialogue: 0,0:10:31.25,0:10:33.03,Default,Rill,0,0,0,,Für wenige Minuten sind wir unbesiegbar!
+Dialogue: 0,0:10:33.63,0:10:36.31,Internal,Rill,0,0,0,,Sobald der Zauber verflogen ist,\Nerleiden wir den Schaden,
+Dialogue: 0,0:10:36.31,0:10:38.62,Internal,Rill,0,0,0,,aber das ist mir gerade völlig schnuppe!
+Dialogue: 0,0:10:38.62,0:10:41.72,Default,Asta,0,0,0,,Boah, das ist ja megakrass, Rill!
+Dialogue: 0,0:10:41.72,0:10:44.32,Default,Asta,0,0,0,,Ich bin so froh, dass du noch lebst!
+Dialogue: 0,0:10:44.32,0:10:46.46,Internal,Rill,0,0,0,,Wäre Asta nicht aufgetaucht,
+Dialogue: 0,0:10:46.46,0:10:48.92,Internal,Rill,0,0,0,,hätte ich es nicht rechtzeitig\Nzur Explosion geschafft.
+Dialogue: 0,0:10:48.92,0:10:52.38,Default,Rill,0,0,0,,Dank dir gelingt mir\Nwomöglich ein Meisterwerk!
+Dialogue: 0,0:10:52.75,0:10:56.65,Internal,Megicula,0,0,0,,Jeder für sich ist gänzlich unbedeutend,
+Dialogue: 0,0:10:56.65,0:11:00.01,Internal,Megicula,0,0,0,,aber ihre Kooperation\Nhat sie so weit gebracht.
+Dialogue: 0,0:11:00.01,0:11:03.35,Default,Megicula,0,0,0,,Ihr habt fürwahr\Nmein Interesse geweckt.
+Dialogue: 0,0:11:08.63,0:11:10.27,Default,Megicula,0,0,0,,Unter dem Turm schlummern
+Dialogue: 0,0:11:10.27,0:11:14.53,Default,Megicula,0,0,0,,die Dark Disciples,\Ndie Vanica und ich zum Zeitvertreib
+Dialogue: 0,0:11:14.53,0:11:16.77,Default,Megicula,0,0,0,,mit Teufelskräften ausgestattet haben.
+Dialogue: 0,0:11:16.77,0:11:18.74,Default,Megicula,0,0,0,,Ihre Seelen sind in meiner Hand
+Dialogue: 0,0:11:18.74,0:11:22.62,Default,Megicula,0,0,0,,und ich erfülle sie\Nmit Acier Silvas und Vanicas Kräften.
+Dialogue: 0,0:11:24.54,0:11:27.81,Default,Megicula,0,0,0,,So werden sie zu wandelnden\NToten aus Blut und Stahl.
+Dialogue: 0,0:11:31.99,0:11:34.48,Default,Megicula,0,0,0,,Sie sind hundert an der Zahl.
+Dialogue: 0,0:11:53.55,0:11:55.98,Default,Asta,0,0,0,,Urgh! Mir tut immer noch alles weh!
+Dialogue: 0,0:11:55.98,0:11:58.36,Default,Asta,0,0,0,,Ich kann mich nicht rühren!
+Dialogue: 0,0:12:04.58,0:12:07.08,Default,Undine,0,0,0,,Vielen Dank,\Ndass du Lolopechika gerettet hast!
+Dialogue: 0,0:12:07.08,0:12:09.88,Default,Asta,0,0,0,,Gern geschehen! Ich habe zu danken!
+Dialogue: 0,0:12:09.88,0:12:14.05,Default,Asta,0,0,0,,Tut mir leid! Gerade bin ich\Necht komplett nutzlos!
+Dialogue: 0,0:12:14.37,0:12:15.84,Default,Asta,0,0,0,,Den Rest überlass ich euch!
+Dialogue: 0,0:12:15.84,0:12:19.33,Default,Noelle,0,0,0,,Waaas?! Kaum kreuzt du hier auf\Nund sagst dann so was?!
+Dialogue: 0,0:12:19.33,0:12:21.80,Default,Asta,0,0,0,,Noelle! Du kannst es schaffen!
+Dialogue: 0,0:12:22.47,0:12:24.40,Internal,Noelle,0,0,0,,Das weiß ich doch selbst.
+Dialogue: 0,0:12:24.40,0:12:27.89,Internal,Noelle,0,0,0,,Ich wette, du hast wie immer\Nohne Rücksicht auf Verluste gekämpft.
+Dialogue: 0,0:12:28.54,0:12:29.98,Internal,Noelle,0,0,0,,Das reicht aber schon.
+Dialogue: 0,0:12:30.66,0:12:32.80,Internal,Noelle,0,0,0,,Nur weil du hergekommen bist, …
+Dialogue: 0,0:12:33.73,0:12:36.11,Internal,Noelle,0,0,0,,nur weil ich an dich gedacht habe, …
+Dialogue: 0,0:12:37.24,0:12:39.45,Internal,Noelle,0,0,0,,strotze ich jetzt vor Kraft!
+Dialogue: 0,0:12:40.70,0:12:43.62,Internal,Noelle,0,0,0,,Hach, ich muss es mir wohl eingestehen.
+Dialogue: 0,0:12:44.22,0:12:46.31,Internal,Noelle,0,0,0,,Bisher habe ich es erfolgreich verdrängt,
+Dialogue: 0,0:12:46.31,0:12:48.88,Internal,Noelle,0,0,0,,aber warum muss ich es\Nausgerechnet jetzt erkennen?
+Dialogue: 0,0:12:50.17,0:12:53.75,Internal,Noelle,0,0,0,,Ich bin in Asta verliebt!
+Dialogue: 0,0:12:54.16,0:12:56.74,Internal,Noelle,0,0,0,,Aber hier sind wir auf dem Schlachtfeld
+Dialogue: 0,0:12:56.74,0:12:59.51,Internal,Noelle,0,0,0,,und ich muss sie jetzt besiegen!
+Dialogue: 0,0:12:59.51,0:13:01.50,Default,Noelle,0,0,0,,Auf geht’s, Undine!
+Dialogue: 0,0:13:01.85,0:13:03.78,Default,Noelle,0,0,0,,Ein letztes Mal Stufe heilig!
+Dialogue: 0,0:13:11.19,0:13:13.44,Default,Asta,0,0,0,,Wie cool!
+Dialogue: 0,0:13:13.97,0:13:16.55,Default,Noelle,0,0,0,,Ich vertraue dir Lolopechika an, Asta!
+Dialogue: 0,0:13:16.55,0:13:18.44,Default,Asta,0,0,0,,Autsch! Na klar!
+Dialogue: 0,0:13:21.71,0:13:25.62,Default,Undine,0,0,0,,Deine Stufe heilig wird nicht mehr ausreichen,\Num mit allen fertigzuwerden!
+Dialogue: 0,0:13:27.20,0:13:30.12,Internal,Rill,0,0,0,,Gemäldemagie: Herr von Walhalla!
+Dialogue: 0,0:13:31.75,0:13:33.92,Internal,Rill,0,0,0,,Noelle auf Stufe heilig
+Dialogue: 0,0:13:33.92,0:13:37.60,Internal,Rill,0,0,0,,und Charlotte, die besonders stark\Ngegen Flüche ist, sind beide unverzichtbar!
+Dialogue: 0,0:13:39.17,0:13:41.84,Default,Rill,0,0,0,,Dann werde ich euch\Neben unterstützen müssen!
+Dialogue: 0,0:13:41.84,0:13:45.73,Internal,Charlotte,0,0,0,,Wahre Rosenmagie:\NPurpurroter Rankenspeer!
+Dialogue: 0,0:13:47.93,0:13:52.44,Default,Megicula,0,0,0,,Ihr entwickelt euch\Nim Kampf immer weiter.
+Dialogue: 0,0:13:54.50,0:13:55.94,Default,Megicula,0,0,0,,Ich wusste es doch.
+Dialogue: 0,0:14:03.49,0:14:07.37,Default,Megicula,0,0,0,,Ihr gebt ganz wundervolle\NSpielgefährten ab.
+Dialogue: 0,0:14:12.29,0:14:13.87,Default,Rill,0,0,0,,Noellchen!
+Dialogue: 0,0:14:24.05,0:14:25.14,Default,Noelle,0,0,0,,Luck!
+Dialogue: 0,0:14:25.14,0:14:27.76,Default,Luck,0,0,0,,Ich mache den Weg frei, also mir nach!
+Dialogue: 0,0:14:27.76,0:14:29.72,Default,Rill,0,0,0,,So ist es gut, Leute!
+Dialogue: 0,0:14:29.72,0:14:32.52,Default,Rill,0,0,0,,Die Inspiration sprudelt förmlich über!
+Dialogue: 0,0:14:33.13,0:14:35.52,Internal,Rill,0,0,0,,Wenn es doch nur einen\Nweiteren wegweisenden Blitz gäbe,
+Dialogue: 0,0:14:35.52,0:14:37.81,Internal,Rill,0,0,0,,dann wäre das sogar noch viel besser!
+Dialogue: 0,0:14:47.03,0:14:50.41,Internal,Gaja,0,0,0,,Ich stehe schon mit einem Bein im Grab.
+Dialogue: 0,0:14:53.06,0:14:54.62,Internal,Gaja,0,0,0,,Und trotzdem …
+Dialogue: 0,0:14:55.24,0:14:58.22,Internal,Gaja,0,0,0,,darf ich erneut\Nfür Königin Lolopechika kämpfen!
+Dialogue: 0,0:14:58.22,0:14:59.51,Internal,Gaja,0,0,0,,Hab Dank!
+Dialogue: 0,0:15:00.45,0:15:02.38,Default,Luck,0,0,0,,Gaja!
+Dialogue: 0,0:15:06.22,0:15:07.90,Default,Luck,0,0,0,,Tun wir’s!
+Dialogue: 0,0:15:07.90,0:15:08.80,Default,Gaja,0,0,0,,Ja!
+Dialogue: 0,0:15:23.63,0:15:24.99,Internal,Noelle,0,0,0,,Jetzt!
+Dialogue: 0,0:15:32.06,0:15:34.70,Default,Megicula,0,0,0,,Auch wenn meine Manifestation\Nnicht vollendet war,
+Dialogue: 0,0:15:34.70,0:15:38.02,Default,Megicula,0,0,0,,hätte ich nicht gedacht, dass ihr euch\Nso gut gegen mich wehren könnt.
+Dialogue: 0,0:15:38.02,0:15:40.84,Default,Megicula,0,0,0,,Ihr habt mich fürwahr überrascht.
+Dialogue: 0,0:15:41.68,0:15:43.46,Default,Megicula,0,0,0,,Und dennoch …
+Dialogue: 0,0:15:45.89,0:15:47.68,Default,Megicula,0,0,0,,ist hier Schluss.
+Dialogue: 0,0:15:58.41,0:16:00.44,Default,Nozel,0,0,0,,Wie kannst du es wagen,
+Dialogue: 0,0:16:00.44,0:16:03.94,Default,Nozel,0,0,0,,dich erneut vor meiner Familie\Nblicken zu lassen?
+Dialogue: 0,0:16:07.09,0:16:11.55,Default,Nozel,0,0,0,,Wie lange schon habe ich\Nauf diesen Moment gewartet?
+Dialogue: 0,0:16:17.64,0:16:20.52,Internal,Nozel,0,0,0,,Nachdem Mutter verflucht wurde,
+Dialogue: 0,0:16:20.52,0:16:22.84,Internal,Nozel,0,0,0,,wurde sie mit jedem Tag schwächer.
+Dialogue: 0,0:16:23.18,0:16:25.75,Internal,Nozel,0,0,0,,Die Familienmitglieder,\Ndie davon nichts wussten,
+Dialogue: 0,0:16:25.75,0:16:28.83,Internal,Nozel,0,0,0,,gingen davon aus,\Ndass dies eine Folge der Geburt sei.
+Dialogue: 0,0:16:29.36,0:16:32.72,Internal,Nozel,0,0,0,,Als Mutter von der Fluchabwehrmagie\Ngetroffen wurde,
+Dialogue: 0,0:16:32.72,0:16:34.85,Internal,Nozel,0,0,0,,bekam ich auch etwas davon ab.
+Dialogue: 0,0:16:35.98,0:16:40.03,Internal,Nozel,0,0,0,,Würde ich erzählen, dass Megicula\Nden Tod von Acier Silva verschuldet hatte,
+Dialogue: 0,0:16:40.03,0:16:41.05,Internal,Nozel,0,0,0,,würde ich sterben.
+Dialogue: 0,0:16:41.53,0:16:46.64,Internal,Nozel,0,0,0,,Wie bei einer ansteckenden Krankheit\Nwürde der Fluch auf jeden überspringen,
+Dialogue: 0,0:16:46.64,0:16:50.12,Internal,Nozel,0,0,0,,dem ich davon erzählte.
+Dialogue: 0,0:16:50.93,0:16:53.53,Flashback Internal,Nozel,0,0,0,,Ich darf niemandem davon erzählen.
+Dialogue: 0,0:16:53.53,0:16:56.24,Flashback Internal,Nozel,0,0,0,,Mir bleibt ja gar nichts anderes übrig.
+Dialogue: 0,0:16:56.24,0:16:58.25,Flashback Internal,Nozel,0,0,0,,Ich werde Mutter …
+Dialogue: 0,0:16:58.25,0:17:00.55,Flashback Internal,Nozel,0,0,0,,Ich werde einen Weg finden,\Ndiesen Fluch zu brechen!
+Dialogue: 0,0:17:01.04,0:17:03.61,Flashback,Acier,0,0,0,,Nozel, quäl dich nicht so damit.
+Dialogue: 0,0:17:07.58,0:17:11.22,Flashback,Acier,0,0,0,,Wenn du so weitermachst,\Nist auch dein Leben in Gefahr.
+Dialogue: 0,0:17:11.70,0:17:12.95,Flashback,Nozel,0,0,0,,Aber …
+Dialogue: 0,0:17:13.73,0:17:16.97,Flashback,Acier,0,0,0,,So einfach wird man nicht stärker.
+Dialogue: 0,0:17:19.61,0:17:21.39,Flashback,Acier,0,0,0,,Also sei ganz unbesorgt.
+Dialogue: 0,0:17:22.72,0:17:23.96,Flashback,Acier,0,0,0,,Du …
+Dialogue: 0,0:17:24.30,0:17:25.70,Flashback,Acier,0,0,0,,Ihr …
+Dialogue: 0,0:17:26.23,0:17:28.75,Flashback,Acier,0,0,0,,werdet eines Tages stärker als ich sein.
+Dialogue: 0,0:17:30.15,0:17:31.81,Flashback,Acier,0,0,0,,Also lebe bitte!
+Dialogue: 0,0:17:33.01,0:17:34.06,Flashback,Acier,0,0,0,,Nozel …
+Dialogue: 0,0:17:43.99,0:17:48.04,Internal,Nozel,0,0,0,,Ein Jahr nach der Verfluchung\Nverstarb Mutter.
+Dialogue: 0,0:17:48.45,0:17:50.00,Internal,Nozel,0,0,0,,Dieses eine Jahr lang
+Dialogue: 0,0:17:50.00,0:17:54.59,Internal,Nozel,0,0,0,,konnte ich nur hilflos zusehen,\Nwie sie dahinsiechte.
+Dialogue: 0,0:17:58.72,0:18:00.10,Flashback Internal,Nozel,0,0,0,,Stärker …
+Dialogue: 0,0:18:03.93,0:18:06.31,Flashback Internal,Nozel,0,0,0,,Ich muss stärker werden.
+Dialogue: 0,0:18:07.71,0:18:10.93,Flashback Internal,Nozel,0,0,0,,Um mich eines Tages\Nan Mutters Todfeind zu rächen.
+Dialogue: 0,0:18:11.54,0:18:13.71,Flashback Internal,Nozel,0,0,0,,Um meine Geschwister zu beschützen.
+Dialogue: 0,0:18:14.95,0:18:18.13,Internal,Nozel,0,0,0,,Auch Nebra und Solid wurden stärker, …
+Dialogue: 0,0:18:18.50,0:18:21.37,Internal,Nozel,0,0,0,,aber sie hätten keine Chance\Ngegen diesen Gegner.
+Dialogue: 0,0:18:21.70,0:18:23.16,Internal,Nozel,0,0,0,,Und Noelle …
+Dialogue: 0,0:18:23.16,0:18:26.88,Flashback,Noelle,0,0,0,,Bruder Nozel, könntest du mir\Ndas Zaubern beibringen?
+Dialogue: 0,0:18:27.41,0:18:29.87,Flashback Internal,Nozel,0,0,0,,Wenn sie ohnehin\Nnicht stärker werden kann,
+Dialogue: 0,0:18:29.87,0:18:32.88,Flashback Internal,Nozel,0,0,0,,dann wäre es wohl das Beste,\Nwenn ich sie in einen goldenen Käfig sperre.
+Dialogue: 0,0:18:33.76,0:18:37.72,Flashback,Nozel,0,0,0,,Einen Nichtsnutz wie dich brauchen\Nwir auf dem Schlachtfeld nicht.
+Dialogue: 0,0:18:38.33,0:18:40.98,Flashback Internal,Nozel,0,0,0,,Sie soll nicht dasselbe\Nwie ich durchmachen müssen,
+Dialogue: 0,0:18:40.98,0:18:42.92,Flashback Internal,Nozel,0,0,0,,also halte ich sie vom Kampf fern.
+Dialogue: 0,0:18:44.01,0:18:49.85,Flashback,Nozel,0,0,0,,Wieso musste unsere Mutter sterben,\Nnur um eine wie dich zur Welt zu bringen?
+Dialogue: 0,0:18:51.15,0:18:53.98,Flashback,Nozel,0,0,0,,Du hast unsere Mutter getötet.
+Dialogue: 0,0:18:55.66,0:18:56.99,Flashback Internal,Nozel,0,0,0,,Das stimmt nicht!
+Dialogue: 0,0:18:57.57,0:18:59.54,Flashback Internal,Nozel,0,0,0,,Ich habe sie getötet!
+Dialogue: 0,0:19:00.75,0:19:03.69,Flashback Internal,Nozel,0,0,0,,Ich war vollkommen nutz- und machtlos.
+Dialogue: 0,0:19:04.02,0:19:07.15,Flashback Internal,Nozel,0,0,0,,Aus Verlustängsten lief ich erneut davon.
+Dialogue: 0,0:19:07.15,0:19:10.17,Flashback Internal,Nozel,0,0,0,,Ein Feigling, der in seiner\NUnentschlossenheit nichts beschützen kann.
+Dialogue: 0,0:19:11.88,0:19:15.69,Flashback Internal,Nozel,0,0,0,,Gerade habe ich nicht mal das Recht,\Nmit dir auch nur ein Wort zu wechseln.
+Dialogue: 0,0:19:16.63,0:19:18.14,Flashback Internal,Nozel,0,0,0,,Stärker …
+Dialogue: 0,0:19:19.94,0:19:21.56,Flashback Internal,Nozel,0,0,0,,Noch stärker …
+Dialogue: 0,0:19:25.02,0:19:27.94,Flashback Internal,Nozel,0,0,0,,Ich muss unweigerlich\Nzum König der Magier werden!
+Dialogue: 0,0:19:29.39,0:19:30.69,Flashback Internal,Nozel,0,0,0,,Ich
+Dialogue: 0,0:19:30.69,0:19:33.69,Flashback Internal,Nozel,0,0,0,,darf an so einem Ort nicht sterben!
+Dialogue: 0,0:19:34.26,0:19:37.98,Flashback Internal,Nozel,0,0,0,,Ich konnte einen Gegner besiegen,\Nder eine ähnlich böse Magie besaß.
+Dialogue: 0,0:19:37.98,0:19:39.20,Flashback Internal,Nozel,0,0,0,,Wenn das so ist, …
+Dialogue: 0,0:19:39.55,0:19:41.49,Flashback Internal,Nozel,0,0,0,,dann ist die Zeit bald reif!
+Dialogue: 0,0:19:47.34,0:19:48.18,Default,Nozel,0,0,0,,Jetzt gerade …
+Dialogue: 0,0:19:49.00,0:19:52.00,Default,Nozel,0,0,0,,bin ich allen dankbar, die hier sind.
+Dialogue: 0,0:19:58.26,0:20:00.14,Default,Nozel,0,0,0,,Endlich …
+Dialogue: 0,0:20:00.14,0:20:02.09,Default,Nozel,0,0,0,,konnte ich dir begegnen.
+Dialogue: 0,0:20:02.90,0:20:05.83,Internal,Nozel,0,0,0,,Hier kommt alles, was ich\Nbis heute mit mir rumgeschleppt habe!
+Dialogue: 0,0:20:10.45,0:20:12.48,Default,Megicula,0,0,0,,Ist das hier etwa …
+Dialogue: 0,0:20:12.86,0:20:14.28,Default,Megicula,0,0,0,,ein rührendes Wiedersehen?
+Dialogue: 0,0:20:20.49,0:20:21.53,Default,Megicula,0,0,0,,Verzeih mir,
+Dialogue: 0,0:20:21.53,0:20:24.29,Default,Megicula,0,0,0,,doch ich empfinde das nicht so.
+Dialogue: 0,0:20:26.94,0:20:31.46,Flashback,Acier,0,0,0,,Du besitzt die Stärke des Stahls\Nund die Geschmeidigkeit des Wassers.
+Dialogue: 0,0:20:31.46,0:20:33.42,Default,Nozel,0,0,0,,Glaub ja nicht,\Ndass du das abwehren kannst!
+Dialogue: 0,0:20:35.37,0:20:37.34,Internal,Nozel,0,0,0,,Das Blut prallt ab.
+Dialogue: 0,0:20:37.34,0:20:39.63,Internal,Nozel,0,0,0,,Der Stahl durchdringt sie.
+Dialogue: 0,0:20:40.18,0:20:44.14,Internal,Nozel,0,0,0,,Aber trotzdem kann ich\Nihr Herz nicht durchstoßen.
+Dialogue: 0,0:20:44.93,0:20:47.56,Internal,Nozel,0,0,0,,Ich habe mich eben doch verkalkuliert.
+Dialogue: 0,0:20:47.56,0:20:51.06,Internal,Nozel,0,0,0,,Statt sie wegzusperren\Nund von allem fernzuhalten, …
+Dialogue: 0,0:20:52.81,0:20:56.09,Internal,Nozel,0,0,0,,mussten wir beide stärker werden.
+Dialogue: 0,0:21:01.24,0:21:02.93,Default,Noelle,0,0,0,,Wir haben nicht aufgegeben!
+Dialogue: 0,0:21:03.33,0:21:06.66,Default,Noelle,0,0,0,,Das ist unser Sieg, Megicula!
+Dialogue: 0,0:21:13.99,0:21:15.89,Internal,Megicula,0,0,0,,Obwohl ich auf der Hut war,
+Dialogue: 0,0:21:15.89,0:21:19.55,Internal,Megicula,0,0,0,,hatte ich mir nicht ausmalen können,\Ngegen Menschen zu verlieren.
+Dialogue: 0,0:21:22.29,0:21:24.44,Internal,Megicula,0,0,0,,Offenbar saß ich einem Irrtum auf, …
+Dialogue: 0,0:21:24.87,0:21:29.24,Internal,Megicula,0,0,0,,was eure wahre Stärke betrifft.
+Dialogue: 0,0:21:30.12,0:21:32.96,Internal,Megicula,0,0,0,,Aus diesem Grund\Nwurde wohl mein Interesse …
+Dialogue: 0,0:21:33.33,0:21:37.22,Internal,Megicula,0,0,0,,für die Kraft\Ndes menschlichen Herzens geweckt.
+Dialogue: 0,0:21:51.87,0:21:56.00,Default,Acier,0,0,0,,Ihr beiden seid wirklich stark geworden.
+Dialogue: 0,0:22:27.41,0:22:31.41,TypePlaceholder,Credits,0,0,0,,{\fad(0,)\fnArial\an8\bord2\fs23\3c&H000000&\c&HFFFFFF&\b1}Übersetzung: Jacqueline Philippi
+Dialogue: 0,0:22:31.41,0:22:35.42,TypePlaceholder,Credits,0,0,0,,{\fnArial\an8\bord2\fs23\3c&H000000&\c&HFFFFFF&\b1}Spotting, Revision & Typesetting: Jörg Bauer
+Dialogue: 0,0:22:35.42,0:22:39.42,TypePlaceholder,Credits,0,0,0,,{\fnArial\an8\bord2\fs23\3c&H000000&\c&HFFFFFF&\b1}Qualitätskontrolle: Victoria Zach
+Dialogue: 0,0:22:39.42,0:22:42.42,TypePlaceholder,Credits,0,0,0,,{\fnArial\an8\bord2\fs23\3c&H000000&\c&HFFFFFF&\b1}Projektleitung: Tobias Philippi
+
