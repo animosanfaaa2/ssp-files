@@ -1,0 +1,576 @@
+[Script Info]
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1920
+LayoutResX: 1920
+PlayResY: 1080
+LayoutResY: 1080
+YCbCr Matrix: TV.601
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,72,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,100,100,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.33,0:00:08.25,Default,,0,0,0,,{\a6}EVEN THE STUDENT COUNCIL\NHAS ITS HOLES
+Dialogue: 0,0:00:12.22,0:00:13.76,Default,,0,0,0,,D'après l'œuvre originale de Muchimaro
+Dialogue: 0,0:00:14.55,0:00:17.01,Default,,0,0,0,,Planification :\NAtsuhiro Iwakami, Yûichirô Takajima
+Dialogue: 0,0:00:18.60,0:00:19.64,Default,,0,0,0,,{\a1}Character design : Ryô Imamura
+Dialogue: 0,0:00:19.81,0:00:22.64,Default,,0,0,0,,Animation : Kay Yu, Konaming, Asari Oki
+Dialogue: 0,0:00:22.93,0:00:24.64,Default,,0,0,0,,Composition de la série :\NYokotani Masahiro
+Dialogue: 0,0:00:29.48,0:00:30.61,Default,,0,0,0,,{\a6}Couleurs : Arisa Komatsu
+Dialogue: 0,0:00:30.78,0:00:33.03,Default,,0,0,0,,Photographie : Junpei Takatsu
+Dialogue: 0,0:00:34.61,0:00:36.20,Default,,0,0,0,,Direction artistique : Hiromichi Itô
+Dialogue: 0,0:00:42.54,0:00:47.71,Default,,0,0,0,,Chanson d'ouverture :\N"Sangatsu no Phantasia"
+Dialogue: 0,0:00:48.34,0:00:50.42,Default,,0,0,0,,Montage : Misato Takikawa
+Dialogue: 0,0:00:50.59,0:00:53.21,Default,,0,0,0,,Musique : Tomoki Kikuya
+Dialogue: 0,0:00:53.38,0:00:56.84,Default,,0,0,0,,Direction sonore : Satoshi Motoyama
+Dialogue: 0,0:00:57.01,0:00:59.68,Default,,0,0,0,,Musique : Tomoki Kikuya
+Dialogue: 0,0:00:59.85,0:01:02.47,Default,,0,0,0,,{\a1}Production de l'animation :\NKazuhiro Saitô
+Dialogue: 0,0:01:02.72,0:01:05.06,Default,,0,0,0,,Studio d'animation : Passione
+Dialogue: 0,0:01:21.58,0:01:25.66,Default,,0,0,0,,Réalisation : Naoyuki Tatsuwa
+Dialogue: 0,0:01:27.29,0:01:29.83,Default,,0,0,0,,Une production "Even the Student Council\NHas Its holes" committee
+Dialogue: 0,0:01:37.09,0:01:38.01,Default,,0,0,0,,Allez.
+Dialogue: 0,0:01:38.64,0:01:40.72,Default,,0,0,0,,{\a6}CONSEIL DES ÉLÈVES
+Dialogue: 0,0:01:39.64,0:01:40.72,Default,,0,0,0,,{\i1}Le lendemain.{\i0}
+Dialogue: 0,0:01:41.39,0:01:43.47,Default,,0,0,0,,Enfin l'heure de la pause.
+Dialogue: 0,0:01:44.02,0:01:46.14,Default,,0,0,0,,Tu as quelque chose à manger ?
+Dialogue: 0,0:01:46.85,0:01:48.69,Default,,0,0,0,,Ah, alors...
+Dialogue: 0,0:01:54.98,0:01:55.99,Default,,0,0,0,,Des boules de riz.
+Dialogue: 0,0:01:57.40,0:01:58.32,Default,,0,0,0,,Allez-y, goûtez.
+Dialogue: 0,0:01:59.78,0:02:02.62,Default,,0,0,0,,{\a6}LE DÉFI DE KOMARO
+Dialogue: 0,0:02:03.20,0:02:05.95,Default,,0,0,0,,Tu veux les vendre à l'école ?
+Dialogue: 0,0:02:06.12,0:02:07.96,Default,,0,0,0,,Oui, dites-moi si elles sont bonnes.
+Dialogue: 0,0:02:08.12,0:02:22.55,Default,,0,0,0,,{\a1}{\i1}Boîte à idées{\i0}
+Dialogue: 0,0:02:08.75,0:02:13.04,Default,,0,0,0,,{\a6}Les gens réclament de quoi manger\Nsans se ruiner.
+Dialogue: 0,0:02:13.34,0:02:14.55,Default,,0,0,0,,{\a6}Je vois...
+Dialogue: 0,0:02:14.92,0:02:19.26,Default,,0,0,0,,{\a6}Beaucoup se plaignent en effet\Ndes prix pratiqués à l'école,
+Dialogue: 0,0:02:19.47,0:02:21.14,Default,,0,0,0,,{\a6}notamment le club de base-ball.
+Dialogue: 0,0:02:21.30,0:02:22.55,Default,,0,0,0,,{\a6}Je m'en souviens...
+Dialogue: 0,0:02:22.93,0:02:26.81,Default,,0,0,0,,J'ai cru que Koma t'avait préparé\Nun déjeuner plein d'amour...
+Dialogue: 0,0:02:27.14,0:02:28.14,Default,,0,0,0,,Quand même pas...
+Dialogue: 0,0:02:29.19,0:02:30.40,Default,,0,0,0,,{\i1}Il y croyait un peu aussi.{\i0}
+Dialogue: 0,0:02:30.90,0:02:34.61,Default,,0,0,0,,Tu sais déjà\Ncomment tu comptes t'y prendre, Koma ?
+Dialogue: 0,0:02:34.86,0:02:35.53,Default,,0,0,0,,Oui.
+Dialogue: 0,0:02:35.69,0:02:42.78,Default,,0,0,0,,{\a7}{\i1}Boules de riz{\i0}
+Dialogue: 0,0:02:36.03,0:02:37.86,Default,,0,0,0,,Je les préparerai le matin
+Dialogue: 0,0:02:38.03,0:02:40.99,Default,,0,0,0,,et les vendrai le midi sur un stand.
+Dialogue: 0,0:02:41.16,0:02:42.78,Default,,0,0,0,,Tout ça toute seule ?
+Dialogue: 0,0:02:43.32,0:02:46.79,Default,,0,0,0,,On a aussi l'option\Nde contacter un restaurateur local.
+Dialogue: 0,0:02:46.95,0:02:50.79,Default,,0,0,0,,Ça me coûte 40 yens pièce,\Nalors je compte les vendre
+Dialogue: 0,0:02:51.29,0:02:53.04,Default,,0,0,0,,à 40 yens pièce.
+Dialogue: 0,0:02:52.88,0:02:55.17,Default,,0,0,0,,{\a7}TOTAL DES BÉNÉFICES :\N0,00 YEN
+Dialogue: 0,0:02:53.38,0:02:55.17,Default,,0,0,0,,T'y gagneras rien !
+Dialogue: 0,0:02:56.21,0:02:59.72,Default,,0,0,0,,On s'occupera des détails plus tard,\Nvoyons déjà si elles sont bonnes.
+Dialogue: 0,0:03:00.05,0:03:00.88,Default,,0,0,0,,Bonne idée.
+Dialogue: 0,0:03:02.34,0:03:04.51,Default,,0,0,0,,Laissez-moi tester ça !
+Dialogue: 0,0:03:04.68,0:03:05.51,Default,,0,0,0,,{\i1}D'où tu sors ?{\i0}
+Dialogue: 0,0:03:06.10,0:03:09.14,Default,,0,0,0,,Je ne sais pas si c'est pertinent,\Nvu ton palais d'enfant.
+Dialogue: 0,0:03:09.31,0:03:12.81,Default,,0,0,0,,J'appelle ça être exigeant,\Nc'est l'une de mes nombreuses qualités.
+Dialogue: 0,0:03:12.15,0:03:12.81,Default,,0,0,0,,{\a6}BLEGH
+Dialogue: 0,0:03:13.73,0:03:15.11,Default,,0,0,0,,Du coup, y a poulet mayo ?
+Dialogue: 0,0:03:15.27,0:03:18.61,Default,,0,0,0,,C'est trop pour mon budget, désolée.
+Dialogue: 0,0:03:18.82,0:03:19.90,Default,,0,0,0,,{\i1}Un vrai gamin...{\i0}
+Dialogue: 0,0:03:20.20,0:03:21.74,Default,,0,0,0,,{\a6}MOTIF DU JOUR
+Dialogue: 0,0:03:20.53,0:03:21.65,Default,,0,0,0,,{\a3}{\i1}L'heure de vérité.{\i0}
+Dialogue: 0,0:03:22.07,0:03:24.07,Default,,0,0,0,,Elles sont délicieuses !
+Dialogue: 0,0:03:24.24,0:03:27.70,Default,,0,0,0,,Je suis d'accord,\Nelles sont parfaitement assaisonnées.
+Dialogue: 0,0:03:28.62,0:03:29.91,Default,,0,0,0,,Mais c'est quoi, ça ?
+Dialogue: 0,0:03:30.83,0:03:33.29,Default,,0,0,0,,{\a1}Du poulpe séché.
+Dialogue: 0,0:03:30.87,0:03:34.29,Default,,0,0,0,,{\a6}POULPE SÉCHÉ
+Dialogue: 0,0:03:33.46,0:03:34.29,Default,,0,0,0,,{\a1}Du poulpe ?
+Dialogue: 0,0:03:34.63,0:03:38.34,Default,,0,0,0,,J'en ai récupéré chez Mme Hiratsuka,\Nc'était moins cher.
+Dialogue: 0,0:03:38.51,0:03:40.30,Default,,0,0,0,,{\i1}J'en avais encore, de ça ?{\i0}
+Dialogue: 0,0:03:41.01,0:03:42.26,Default,,0,0,0,,Et la date était bonne ?
+Dialogue: 0,0:03:43.05,0:03:44.68,Default,,0,0,0,,C'était super !
+Dialogue: 0,0:03:44.97,0:03:46.89,Default,,0,0,0,,- Comme je te dis...\N- C'était délicieux,
+Dialogue: 0,0:03:47.14,0:03:49.93,Default,,0,0,0,,mais ce sera dur de les vendre...
+Dialogue: 0,0:03:50.10,0:03:50.98,Default,,0,0,0,,En effet.
+Dialogue: 0,0:03:51.43,0:03:55.02,Default,,0,0,0,,Si on contacte un restaurateur,\Nil faudra reconsidérer les coûts,
+Dialogue: 0,0:03:55.19,0:03:56.69,Default,,0,0,0,,mais aussi le poulpe...
+Dialogue: 0,0:03:58.11,0:04:00.90,Default,,0,0,0,,Une garniture populaire,\Nmais bon marché...
+Dialogue: 0,0:04:01.07,0:04:02.74,Default,,0,0,0,,Est-ce qu'on peut trouver ça ?
+Dialogue: 0,0:04:02.90,0:04:03.82,Default,,0,0,0,,Coucou !
+Dialogue: 0,0:04:04.24,0:04:06.95,Default,,0,0,0,,Oh, vous avez l'air\Nen pleine réflexion !
+Dialogue: 0,0:04:07.37,0:04:09.41,Default,,0,0,0,,En fait, bla bla, et bla bla...
+Dialogue: 0,0:04:10.33,0:04:12.75,Default,,0,0,0,,C'est vrai qu'on a ce problème...
+Dialogue: 0,0:04:12.91,0:04:15.71,Default,,0,0,0,,{\a5}HMM
+Dialogue: 0,0:04:13.16,0:04:15.71,Default,,0,0,0,,Si ça fait plaisir à Koma,\Nj'en suis, mais...
+Dialogue: 0,0:04:16.75,0:04:18.00,Default,,0,0,0,,Je sais, venez chez moi !
+Dialogue: 0,0:04:19.09,0:04:20.01,Default,,0,0,0,,Pour quoi faire ?
+Dialogue: 0,0:04:20.51,0:04:21.51,Default,,0,0,0,,C'est vrai que...
+Dialogue: 0,0:04:21.84,0:04:24.68,Default,,0,0,0,,Ah, visiblement,\Nje ne t'en ai jamais parlé.
+Dialogue: 0,0:04:24.68,0:04:30.10,Default,,0,0,0,,{\a6}RESTAURANT KOTOBUKI
+Dialogue: 0,0:04:24.84,0:04:29.22,Default,,0,0,0,,Tu vois le Kotobuki près de la gare ?\NC'est le restaurant de mes parents !
+Dialogue: 0,0:04:30.47,0:04:32.85,Default,,0,0,0,,On a tout un stock d'ingrédients !
+Dialogue: 0,0:04:33.02,0:04:35.56,Default,,0,0,0,,On pourra tester plein de trucs !
+Dialogue: 0,0:04:35.73,0:04:37.31,Default,,0,0,0,,Ce serait parfait !
+Dialogue: 0,0:04:37.81,0:04:39.61,Default,,0,0,0,,On en a de la chance, Koma !
+Dialogue: 0,0:04:39.77,0:04:40.94,Default,,0,0,0,,Merci.
+Dialogue: 0,0:04:41.11,0:04:42.28,Default,,0,0,0,,On mangera à l'œil ?
+Dialogue: 0,0:04:42.74,0:04:46.36,Default,,0,0,0,,On passera dans les jours qui viennent,\Ndans ce cas.
+Dialogue: 0,0:04:46.53,0:04:47.62,Default,,0,0,0,,Avec plaisir !
+Dialogue: 0,0:04:47.78,0:04:52.00,Default,,0,0,0,,{\a6}BLA BLA
+Dialogue: 0,0:04:48.12,0:04:49.95,Default,,0,0,0,,J'y suis déjà allée, moi.
+Dialogue: 0,0:04:50.12,0:04:52.00,Default,,0,0,0,,Donc on mange à l'œil, ou pas ?
+Dialogue: 0,0:04:52.29,0:04:59.34,Default,,0,0,0,,{\a6}ROULE ROULE
+Dialogue: 0,0:04:52.54,0:04:56.00,Default,,0,0,0,,Mais attends,\Nça veut dire que Mizunoe va venir ici !
+Dialogue: 0,0:04:56.67,0:04:59.34,Default,,0,0,0,,- J'y avais pas pensé...\N- T'as bientôt fini, oui ?
+Dialogue: 0,0:04:59.50,0:05:08.18,Default,,0,0,0,,{\a5}EVEN THE STUDENT COUNCIL\NHAS ITS HOLES
+Dialogue: 0,0:04:59.92,0:05:02.63,Default,,0,0,0,,J'ai aussi testé avec des bonbons salés.
+Dialogue: 0,0:05:03.92,0:05:06.05,Default,,0,0,0,,C'est parfait contre l'insolation.
+Dialogue: 0,0:05:06.30,0:05:07.80,Default,,0,0,0,,Sauf qu'on est en hiver...
+Dialogue: 0,0:05:08.35,0:05:11.56,Default,,0,0,0,,{\a7}RESTAURANT KOTOBUKI
+Dialogue: 0,0:05:08.55,0:05:11.56,Default,,0,0,0,,{\i1}Et enfin,\Nle jour des expériences culinaires...{\i0}
+Dialogue: 0,0:05:11.72,0:05:18.65,Default,,0,0,0,,FRRSH FRRT
+Dialogue: 0,0:05:11.93,0:05:14.43,Default,,0,0,0,,{\a6}Ça devrait suffire, niveau ingrédients !
+Dialogue: 0,0:05:14.64,0:05:18.31,Default,,0,0,0,,{\a6}Maintenant, il faut une table\Net un couteau pour Koma...
+Dialogue: 0,0:05:19.77,0:05:22.69,Default,,0,0,0,,{\a7}MAYUKI KOTOBUKI (38 ANS)\NMÈRE DE HISAKO
+Dialogue: 0,0:05:19.90,0:05:22.19,Default,,0,0,0,,Tu fais quoi, maman ?
+Dialogue: 0,0:05:22.86,0:05:31.66,Default,,0,0,0,,{\a5}FRSSH FRRT CLANG
+Dialogue: 0,0:05:23.19,0:05:26.36,Default,,0,0,0,,Puisque tes amis arrivent,\Nc'est l'occasion de leur servir
+Dialogue: 0,0:05:26.53,0:05:29.24,Default,,0,0,0,,les pâtisseries un peu classes\Nque je garde ici...
+Dialogue: 0,0:05:29.41,0:05:31.66,Default,,0,0,0,,Pas grave, tu verras ça plus tard,
+Dialogue: 0,0:05:31.95,0:05:33.37,Default,,0,0,0,,on doit finir de...
+Dialogue: 0,0:05:34.29,0:05:36.79,Default,,0,0,0,,Oh non, tout est mélangé...
+Dialogue: 0,0:05:36.96,0:05:39.63,Default,,0,0,0,,Je dois trier tout ça !
+Dialogue: 0,0:05:39.79,0:05:40.84,Default,,0,0,0,,Plus tard, ça aussi !
+Dialogue: 0,0:05:42.05,0:05:46.47,Default,,0,0,0,,Désolée, j'ai un peu paniqué,\Nune fois de plus...
+Dialogue: 0,0:05:47.01,0:05:50.39,Default,,0,0,0,,Allez, du nerf !\NC'est un jour important, pour moi !
+Dialogue: 0,0:05:50.60,0:05:51.30,Default,,0,0,0,,Je sais...
+Dialogue: 0,0:05:52.14,0:05:58.44,Default,,0,0,0,,{\a5}DÉPRESSION
+Dialogue: 0,0:05:52.64,0:05:57.06,Default,,0,0,0,,Dire que même les clients s'inquiètent\Npour mon cas...
+Dialogue: 0,0:05:57.60,0:05:58.44,Default,,0,0,0,,Comment ça ?
+Dialogue: 0,0:05:58.60,0:06:03.78,Default,,0,0,0,,{\a7}SUPER OCCUPÉE
+Dialogue: 0,0:05:59.65,0:06:01.90,Default,,0,0,0,,On me demande souvent\Nsi j'ai mal au dos.
+Dialogue: 0,0:06:02.15,0:06:03.78,Default,,0,0,0,,Ils ne pensent pas à ta santé.
+Dialogue: 0,0:06:04.03,0:06:06.49,Default,,0,0,0,,Si tu tiens à m'aider, fais-le bien !
+Dialogue: 0,0:06:06.65,0:06:10.07,Default,,0,0,0,,Mes amis comptent sur moi !\NVa laver le riz !
+Dialogue: 0,0:06:10.24,0:06:11.28,Default,,0,0,0,,D'accord !
+Dialogue: 0,0:06:11.62,0:06:14.87,Default,,0,0,0,,Koma fait l'effort\Nde sortir de sa carapace, alors...
+Dialogue: 0,0:06:15.04,0:06:15.87,Default,,0,0,0,,Oh...
+Dialogue: 0,0:06:16.12,0:06:19.79,Default,,0,0,0,,Tu ressembles beaucoup à ton père,\Ntu sais ?
+Dialogue: 0,0:06:19.96,0:06:21.25,Default,,0,0,0,,Avec tes grands élans.
+Dialogue: 0,0:06:21.50,0:06:25.96,Default,,0,0,0,,Tu l'aurais vu à l'époque,\Nlui aussi se lançait souvent dans...
+Dialogue: 0,0:06:26.13,0:06:27.97,Default,,0,0,0,,Concentre-toi !
+Dialogue: 0,0:06:28.63,0:06:32.93,Default,,0,0,0,,Mais je pense qu'une autre raison\Nse cache derrière ton stress...
+Dialogue: 0,0:06:33.68,0:06:35.18,Default,,0,0,0,,Un certain Ume Mizunoe ?
+Dialogue: 0,0:06:35.64,0:06:36.27,Default,,0,0,0,,Comment tu...
+Dialogue: 0,0:06:36.64,0:06:38.52,Default,,0,0,0,,Taiga m'en a parlé !
+Dialogue: 0,0:06:38.69,0:06:39.81,Default,,0,0,0,,Taiga ?
+Dialogue: 0,0:06:39.98,0:06:42.81,Default,,0,0,0,,{\i1}Elle parle tout le temps\Nde ce crétin d'Ume !{\i0}
+Dialogue: 0,0:06:42.98,0:06:43.61,Default,,0,0,0,,Et aussi...
+Dialogue: 0,0:06:44.27,0:06:47.19,Default,,0,0,0,,que vous aviez déjà franchi le pas !
+Dialogue: 0,0:06:48.40,0:06:50.78,Default,,0,0,0,,C'est pas ce que tu crois !
+Dialogue: 0,0:06:51.95,0:06:55.12,Default,,0,0,0,,Il m'a parlé d'une assemblée,\Navec un PC portable...
+Dialogue: 0,0:06:54.28,0:06:55.62,Default,,0,0,0,,{\a6}GULP
+Dialogue: 0,0:06:55.99,0:06:57.83,Default,,0,0,0,,Je le savais !
+Dialogue: 0,0:06:58.12,0:06:59.71,Default,,0,0,0,,- Donc...\N- Pas du tout !
+Dialogue: 0,0:07:01.37,0:07:02.71,Default,,0,0,0,,Vous avez couché ensemble...
+Dialogue: 0,0:07:02.88,0:07:04.46,Default,,0,0,0,,Tu m'écoutes, quand je parle ?
+Dialogue: 0,0:07:04.79,0:07:06.09,Default,,0,0,0,,{\i1}Fin du malentendu.{\i0}
+Dialogue: 0,0:07:06.42,0:07:10.30,Default,,0,0,0,,Donc c'était juste une plaisanterie ?
+Dialogue: 0,0:07:10.47,0:07:11.72,Default,,0,0,0,,Pourquoi t'es déçue ?
+Dialogue: 0,0:07:12.09,0:07:15.72,Default,,0,0,0,,J'avais à peu près ton âge\Nquand je me suis mariée,
+Dialogue: 0,0:07:15.89,0:07:19.68,Default,,0,0,0,,alors j'espérais que toi aussi,\Ntu portais quelqu'un dans ton cœur...
+Dialogue: 0,0:07:20.06,0:07:22.77,Default,,0,0,0,,Je me suis laissée emporter, désolée...
+Dialogue: 0,0:07:23.56,0:07:27.11,Default,,0,0,0,,Après, c'est vrai...\NJe l'aime bien, quoi...
+Dialogue: 0,0:07:27.28,0:07:28.28,Default,,0,0,0,,C'est vrai ?
+Dialogue: 0,0:07:28.65,0:07:29.90,Default,,0,0,0,,Ouf, tant mieux !
+Dialogue: 0,0:07:30.07,0:07:34.12,Default,,0,0,0,,J'ai tout préparé\Npour faire sa connaissance !
+Dialogue: 0,0:07:34.78,0:07:37.12,Default,,0,0,0,,Un album photo de quand t'étais petite !
+Dialogue: 0,0:07:37.29,0:07:38.08,Default,,0,0,0,,Range ça !
+Dialogue: 0,0:07:38.24,0:07:43.33,Default,,0,0,0,,{\a7}ALBUM PHOTO
+Dialogue: 0,0:07:38.37,0:07:41.54,Default,,0,0,0,,Mais j'ai passé la nuit\Nà choisir les photos !
+Dialogue: 0,0:07:41.71,0:07:43.33,Default,,0,0,0,,C'est pas mon problème !
+Dialogue: 0,0:07:43.71,0:07:46.34,Default,,0,0,0,,Pas grave, j'ai autre chose !
+Dialogue: 0,0:07:44.08,0:07:47.05,Default,,0,0,0,,{\a6}RADIEUSE
+Dialogue: 0,0:07:47.46,0:07:51.68,Default,,0,0,0,,{\a6}FRRSH FRRSH
+Dialogue: 0,0:07:47.55,0:07:50.09,Default,,0,0,0,,Tu sais que t'as pas à faire tout ça ?
+Dialogue: 0,0:07:50.26,0:07:52.38,Default,,0,0,0,,On sort pas ensemble...
+Dialogue: 0,0:07:54.14,0:07:55.64,Default,,0,0,0,,Et voilà !
+Dialogue: 0,0:07:56.35,0:08:00.06,Default,,0,0,0,,Quoi de mieux qu'un uniforme scolaire\Npour se mêler à des lycéens ?
+Dialogue: 0,0:08:00.35,0:08:02.56,Default,,0,0,0,,Je n'ai plus tout à fait l'âge,
+Dialogue: 0,0:08:02.73,0:08:05.23,Default,,0,0,0,,mais j'ai pris soin de le repasser !
+Dialogue: 0,0:08:06.02,0:08:07.19,Default,,0,0,0,,Pitié, enlève ça...
+Dialogue: 0,0:08:07.94,0:08:11.28,Default,,0,0,0,,C'est vrai, tu as raison...\NJ'ai déjà 30 ans...
+Dialogue: 0,0:08:08.44,0:08:16.53,Default,,0,0,0,,{\a5}SNIF SNIF
+Dialogue: 0,0:08:12.11,0:08:14.32,Default,,0,0,0,,Ce n'est plus de mon âge...
+Dialogue: 0,0:08:14.49,0:08:16.53,Default,,0,0,0,,T'as exactement 38 ans...
+Dialogue: 0,0:08:16.70,0:08:21.79,Default,,0,0,0,,{\a6}TOURNE TOURNE
+Dialogue: 0,0:08:16.95,0:08:19.95,Default,,0,0,0,,Bref, fais ce que tu veux,\Nmais sans me ridiculiser.
+Dialogue: 0,0:08:20.12,0:08:22.29,Default,,0,0,0,,- Et on doit finir de...\N- Excusez-moi !
+Dialogue: 0,0:08:22.54,0:08:23.42,Default,,0,0,0,,Ils sont là !
+Dialogue: 0,0:08:24.17,0:08:25.63,Default,,0,0,0,,Va te cacher, maman !
+Dialogue: 0,0:08:24.71,0:08:25.63,Default,,0,0,0,,{\a6}FIOUSH
+Dialogue: 0,0:08:25.83,0:08:27.96,Default,,0,0,0,,- J'arrive !\N- Maman ?
+Dialogue: 0,0:08:28.25,0:08:31.63,Default,,0,0,0,,Comment ça ?\NTu déprimais il y a encore 10 secondes !
+Dialogue: 0,0:08:31.80,0:08:34.84,Default,,0,0,0,,On ne va pas faire attendre tes amis,\Nenfin !
+Dialogue: 0,0:08:35.01,0:08:36.80,Default,,0,0,0,,T'as vu comment t'es fringuée ?
+Dialogue: 0,0:08:37.80,0:08:41.14,Default,,0,0,0,,Je me suis donné du mal,\Nje peux bien leur montrer
+Dialogue: 0,0:08:41.31,0:08:42.39,Default,,0,0,0,,rien qu'un instant.
+Dialogue: 0,0:08:42.56,0:08:44.98,Default,,0,0,0,,Ça suffira amplement\Npour me coller la honte !
+Dialogue: 0,0:08:45.15,0:08:46.40,Default,,0,0,0,,Il y a quelqu'un ?
+Dialogue: 0,0:09:00.99,0:09:03.20,Default,,0,0,0,,C'est plus compliqué que ça !
+Dialogue: 0,0:09:03.71,0:09:05.04,Default,,0,0,0,,{\a6}{\i1}En primaire{\i0}
+Dialogue: 0,0:09:05.21,0:09:06.54,Default,,0,0,0,,{\a6}{\i1}Au collège{\i0}
+Dialogue: 0,0:09:06.71,0:09:08.79,Default,,0,0,0,,{\a6}{\i1}Au lycée{\i0}
+Dialogue: 0,0:09:07.04,0:09:07.96,Default,,0,0,0,,{\i1}Rien n'a changé.{\i0}
+Dialogue: 0,0:09:08.96,0:09:10.46,Default,,0,0,0,,{\a6}RESTAURANT KOTOBUKI
+Dialogue: 0,0:09:09.17,0:09:10.46,Default,,0,0,0,,Je m'appelle Mayuki,
+Dialogue: 0,0:09:10.63,0:09:15.72,Default,,0,0,0,,{\a6}KOMARO
+Dialogue: 0,0:09:10.75,0:09:14.42,Default,,0,0,0,,je suis la maman de Hisako.\NFaites comme chez vous !
+Dialogue: 0,0:09:14.67,0:09:15.72,Default,,0,0,0,,Merci !
+Dialogue: 0,0:09:16.01,0:09:18.43,Default,,0,0,0,,Je suis désolée pour tout à l'heure...
+Dialogue: 0,0:09:18.60,0:09:21.43,Default,,0,0,0,,J'étais sûrement un peu trop excitée...
+Dialogue: 0,0:09:21.60,0:09:24.77,Default,,0,0,0,,Oh, c'est pas grave du tout.\NOn a déjà oublié.
+Dialogue: 0,0:09:24.93,0:09:27.52,Default,,0,0,0,,{\a1}PSYCHOLOGIQUEMENT\NDÉTRUITE
+Dialogue: 0,0:09:26.06,0:09:27.44,Default,,0,0,0,,{\a6}Kotobuki, par contre...
+Dialogue: 0,0:09:27.98,0:09:29.19,Default,,0,0,0,,Ça va aller ?
+Dialogue: 0,0:09:29.73,0:09:31.36,Default,,0,0,0,,Ah oui, désolée !
+Dialogue: 0,0:09:32.36,0:09:33.99,Default,,0,0,0,,Dis-moi, Arisu...
+Dialogue: 0,0:09:34.28,0:09:35.28,Default,,0,0,0,,Oui ?
+Dialogue: 0,0:09:35.65,0:09:39.32,Default,,0,0,0,,On est d'accord, ils ont...\Nce genre de relation ?
+Dialogue: 0,0:09:39.57,0:09:42.49,Default,,0,0,0,,{\a7}PURE EXCITATION
+Dialogue: 0,0:09:40.16,0:09:42.49,Default,,0,0,0,,{\a3}Eh bien, en fait...
+Dialogue: 0,0:09:42.95,0:09:44.95,Default,,0,0,0,,{\i1}Terui avait tout compris.{\i0}
+Dialogue: 0,0:09:45.16,0:09:48.67,Default,,0,0,0,,{\i1}Mayuki a l'air de croire\Nqu'ils sont ensemble...{\i0}
+Dialogue: 0,0:09:49.00,0:09:51.92,Default,,0,0,0,,{\i1}Elle a sûrement mal compris\Nquelque chose.{\i0}
+Dialogue: 0,0:09:52.09,0:09:52.59,Default,,0,0,0,,{\i1}Bingo.{\i0}
+Dialogue: 0,0:09:52.75,0:09:54.80,Default,,0,0,0,,{\a7}PURE EXCITATION
+Dialogue: 0,0:09:52.88,0:09:54.01,Default,,0,0,0,,{\a3}{\i1}Terui décida alors...{\i0}
+Dialogue: 0,0:09:54.17,0:09:54.80,Default,,0,0,0,,{\a3}Oui.
+Dialogue: 0,0:09:55.34,0:09:57.26,Default,,0,0,0,,Vous avez raison. Plus ou moins.
+Dialogue: 0,0:09:58.22,0:10:00.80,Default,,0,0,0,,{\i1}... que mentir serait bien plus drôle.{\i0}
+Dialogue: 0,0:10:00.97,0:10:07.81,Default,,0,0,0,,{\a6}HARICOTS
+Dialogue: 0,0:10:01.68,0:10:02.89,Default,,0,0,0,,{\i1}Début des tests.{\i0}
+Dialogue: 0,0:10:03.47,0:10:06.27,Default,,0,0,0,,J'ai préparé tout un tas d'ingrédients !
+Dialogue: 0,0:10:06.43,0:10:07.81,Default,,0,0,0,,C'est gentil, merci !
+Dialogue: 0,0:10:08.35,0:10:09.73,Default,,0,0,0,,C'est du saumon ?
+Dialogue: 0,0:10:10.02,0:10:12.86,Default,,0,0,0,,Juste des restes,\Npour ne pas exploser le budget.
+Dialogue: 0,0:10:13.19,0:10:17.20,Default,,0,0,0,,Bonne idée, je n'en attendais pas moins\Nd'une cuisinière accomplie.
+Dialogue: 0,0:10:17.90,0:10:19.82,Default,,0,0,0,,Je ne t'arrive même pas à la cheville !
+Dialogue: 0,0:10:20.16,0:10:21.62,Default,,0,0,0,,Regarde, Arisu !
+Dialogue: 0,0:10:21.78,0:10:24.79,Default,,0,0,0,,Un vrai jeune couple... Plus ou moins.
+Dialogue: 0,0:10:25.58,0:10:26.75,Default,,0,0,0,,{\i1}On goûte.{\i0}
+Dialogue: 0,0:10:27.58,0:10:29.75,Default,,0,0,0,,La soupe est réussie. Bravo !
+Dialogue: 0,0:10:29.92,0:10:30.75,Default,,0,0,0,,C'est vrai ?
+Dialogue: 0,0:10:31.17,0:10:33.75,Default,,0,0,0,,Effectivement, c'est exquis.
+Dialogue: 0,0:10:33.92,0:10:34.80,Default,,0,0,0,,Exquis ?
+Dialogue: 0,0:10:35.21,0:10:38.13,Default,,0,0,0,,Tu dis... que tu la trouves exquise ?
+Dialogue: 0,0:10:37.17,0:10:39.26,Default,,0,0,0,,{\a6}FIOUSH
+Dialogue: 0,0:10:38.72,0:10:39.26,Default,,0,0,0,,Oui !
+Dialogue: 0,0:10:39.51,0:10:40.93,Default,,0,0,0,,Oh là là...
+Dialogue: 0,0:10:40.01,0:10:43.51,Default,,0,0,0,,{\a6}HOP HOP
+Dialogue: 0,0:10:41.80,0:10:42.89,Default,,0,0,0,,Bon à savoir...
+Dialogue: 0,0:10:43.93,0:10:44.68,Default,,0,0,0,,Ume.
+Dialogue: 0,0:10:45.02,0:10:46.14,Default,,0,0,0,,{\a3}Ah, compris.
+Dialogue: 0,0:10:45.10,0:10:46.14,Default,,0,0,0,,{\a6}REMONTE
+Dialogue: 0,0:10:46.35,0:10:47.52,Default,,0,0,0,,Attention !
+Dialogue: 0,0:10:48.73,0:10:51.60,Default,,0,0,0,,{\a6}BRRR
+Dialogue: 0,0:10:48.89,0:10:50.81,Default,,0,0,0,,Regarde, Arisu !
+Dialogue: 0,0:10:50.98,0:10:51.60,Default,,0,0,0,,Oui.
+Dialogue: 0,0:10:51.98,0:10:54.23,Default,,0,0,0,,C'est plus ou moins leur fille.
+Dialogue: 0,0:10:55.40,0:10:56.74,Default,,0,0,0,,Leur fille ?
+Dialogue: 0,0:10:57.07,0:11:00.66,Default,,0,0,0,,C'est Komaro.\NUne bonne partie du lycée considère
+Dialogue: 0,0:11:00.82,0:11:04.87,Default,,0,0,0,,{\a1}"UNE BONNE PARTIE"\N= ARISU UNIQUEMENT
+Dialogue: 0,0:11:01.11,0:11:03.70,Default,,0,0,0,,{\a6}qu'Ume et Hisako sont ses parents.
+Dialogue: 0,0:11:04.28,0:11:07.29,Default,,0,0,0,,{\a6}Ça veut dire que c'est ma petite-fille ?
+Dialogue: 0,0:11:07.45,0:11:09.21,Default,,0,0,0,,En toute logique, oui.
+Dialogue: 0,0:11:09.37,0:11:10.25,Default,,0,0,0,,{\i1}Héhé.{\i0}
+Dialogue: 0,0:11:09.37,0:11:14.42,Default,,0,0,0,,{\a6}TOUT SOURIRE
+Dialogue: 0,0:11:10.42,0:11:13.38,Default,,0,0,0,,On cuisine ensemble, ma petite Komaro ?
+Dialogue: 0,0:11:13.71,0:11:14.42,Default,,0,0,0,,D'accord...
+Dialogue: 0,0:11:14.59,0:11:18.13,Default,,0,0,0,,{\a6}HNNG
+Dialogue: 0,0:11:14.84,0:11:17.59,Default,,0,0,0,,{\a1}Et voilà...
+Dialogue: 0,0:11:18.47,0:11:22.47,Default,,0,0,0,,Regarde. C'est comme ça,\Nsi tu veux faire une belle boule.
+Dialogue: 0,0:11:24.10,0:11:26.68,Default,,0,0,0,,Regarde, ça fait un bel angle droit...
+Dialogue: 0,0:11:27.47,0:11:29.10,Default,,0,0,0,,Je vois...
+Dialogue: 0,0:11:31.52,0:11:33.27,Default,,0,0,0,,C'est donc ça, être grand-mère ?
+Dialogue: 0,0:11:33.44,0:11:35.36,Default,,0,0,0,,{\a7}BŒUF, SAUMON, POULET MAYO,\NNATTÔ, SEICHE, TEMPURA
+Dialogue: 0,0:11:33.98,0:11:35.32,Default,,0,0,0,,Voilà, c'est prêt !
+Dialogue: 0,0:11:35.73,0:11:36.82,Default,,0,0,0,,Elles sont belles...
+Dialogue: 0,0:11:37.15,0:11:38.40,Default,,0,0,0,,Et ç'a l'air bon...
+Dialogue: 0,0:11:38.57,0:11:39.82,Default,,0,0,0,,Tant mieux !
+Dialogue: 0,0:11:39.99,0:11:41.36,Default,,0,0,0,,Et maintenant...
+Dialogue: 0,0:11:41.57,0:11:42.07,Default,,0,0,0,,Oui !
+Dialogue: 0,0:11:43.45,0:11:44.78,Default,,0,0,0,,Bon appétit !
+Dialogue: 0,0:11:45.16,0:11:47.95,Default,,0,0,0,,C'est vrai qu'elles sont réussies !
+Dialogue: 0,0:11:48.79,0:11:49.79,Default,,0,0,0,,Parfait !
+Dialogue: 0,0:11:50.62,0:11:52.17,Default,,0,0,0,,Koma, tu as un grain de riz.
+Dialogue: 0,0:11:52.33,0:11:53.38,Default,,0,0,0,,Merci.
+Dialogue: 0,0:11:53.75,0:11:55.46,Default,,0,0,0,,Regarde, Arisu !
+Dialogue: 0,0:11:55.75,0:11:56.34,Default,,0,0,0,,Oui...
+Dialogue: 0,0:11:56.80,0:11:58.46,Default,,0,0,0,,Une vraie famille.
+Dialogue: 0,0:11:58.63,0:12:00.59,Default,,0,0,0,,Je le savais !
+Dialogue: 0,0:12:01.34,0:12:03.26,Default,,0,0,0,,Merci de nous avoir invités.
+Dialogue: 0,0:12:03.55,0:12:06.68,Default,,0,0,0,,On a énormément avancé, grâce à vous.
+Dialogue: 0,0:12:07.01,0:12:09.06,Default,,0,0,0,,Oh, on a tous bien travaillé !
+Dialogue: 0,0:12:09.22,0:12:11.14,Default,,0,0,0,,Tout à fait ! Soyez fiers !
+Dialogue: 0,0:12:12.27,0:12:13.40,Default,,0,0,0,,À ce sujet...
+Dialogue: 0,0:12:15.23,0:12:19.61,Default,,0,0,0,,{\a6}Je serais ravi\Nde goûter à votre cuisine, un jour.
+Dialogue: 0,0:12:19.40,0:12:19.90,Default,,0,0,0,,{\a3}EN TANT QUE CLIENT
+Dialogue: 0,0:12:23.03,0:12:25.53,Default,,0,0,0,,{\a7}RESTAURANT KOTOBUKI
+Dialogue: 0,0:12:23.66,0:12:25.37,Default,,0,0,0,,Chéri, aujourd'hui,
+Dialogue: 0,0:12:25.87,0:12:29.70,Default,,0,0,0,,j'ai rencontré ma petite-fille\Net un lycéen m'a avoué son amour.
+Dialogue: 0,0:12:30.00,0:12:38.84,Default,,0,0,0,,{\a6}EVEN THE STUDENT COUNCIL\NHAS ITS HOLES
+Dialogue: 0,0:12:30.54,0:12:34.25,Default,,0,0,0,,{\i1}Mayuki avait 18 ans et son époux 25,\Nquand elle décida{\i0}
+Dialogue: 0,0:12:34.62,0:12:38.29,Default,,0,0,0,,{\i1}de reprendre le restaurant familial.{\i0}
+Dialogue: 0,0:12:39.75,0:12:40.42,Default,,0,0,0,,Et voilà !
+Dialogue: 0,0:12:40.59,0:12:44.76,Default,,0,0,0,,{\a6}{\i1}70 yens par boule{\i0}
+Dialogue: 0,0:12:40.88,0:12:43.17,Default,,0,0,0,,On a un plan en bonne et due forme !
+Dialogue: 0,0:12:43.63,0:12:46.85,Default,,0,0,0,,Et ça,\Nc'est grâce à Kotobuki et sa mère.
+Dialogue: 0,0:12:47.18,0:12:49.56,Default,,0,0,0,,Elle va même gérer la cuisine.
+Dialogue: 0,0:12:49.76,0:12:51.56,Default,,0,0,0,,C'est trop gentil de sa part.
+Dialogue: 0,0:12:51.93,0:12:55.10,Default,,0,0,0,,{\i1}Bien sûr,\Ntout pour ma petite-fille et toi !{\i0}
+Dialogue: 0,0:12:55.27,0:12:57.61,Default,,0,0,0,,- {\i1}En plus, ça fera de la pub !\N{\i0}- {\i1}Une petite-fille ?{\i0}
+Dialogue: 0,0:12:58.02,0:13:00.40,Default,,0,0,0,,On arrive à un prix de 70 yens.
+Dialogue: 0,0:13:00.78,0:13:03.70,Default,,0,0,0,,Michinoku aura le stand de ses rêves,
+Dialogue: 0,0:13:03.86,0:13:05.32,Default,,0,0,0,,tout en restant bon marché !
+Dialogue: 0,0:13:05.74,0:13:08.16,Default,,0,0,0,,Plus qu'à affronter l'administration.
+Dialogue: 0,0:13:08.62,0:13:09.91,Default,,0,0,0,,ADMINISTRATION
+Dialogue: 0,0:13:10.08,0:13:13.00,Default,,0,0,0,,{\a6}YOSHINO SAEGUSA\NEMPLOYÉE DE L'ADMINISTRATION
+Dialogue: 0,0:13:10.45,0:13:13.00,Default,,0,0,0,,{\a3}Ça va être compliqué,\Nje pense...
+Dialogue: 0,0:13:15.25,0:13:15.96,Default,,0,0,0,,Pourquoi ?
+Dialogue: 0,0:13:16.29,0:13:19.88,Default,,0,0,0,,Nous avons des accords\Navec plusieurs entreprises.
+Dialogue: 0,0:13:20.05,0:13:23.38,Default,,0,0,0,,Ce serait délicat de laisser des élèves\Nperturber leurs affaires.
+Dialogue: 0,0:13:23.63,0:13:26.51,Default,,0,0,0,,Mais l'école prône l'indépendance
+Dialogue: 0,0:13:26.93,0:13:30.10,Default,,0,0,0,,et l'esprit d'initiative de ses élèves.
+Dialogue: 0,0:13:30.43,0:13:32.31,Default,,0,0,0,,C'est ce que nous faisons ici.
+Dialogue: 0,0:13:32.77,0:13:35.48,Default,,0,0,0,,Et notre menu est prêt à la production.
+Dialogue: 0,0:13:35.64,0:13:38.98,Default,,0,0,0,,Je comprends\Net je suis tout à fait d'accord,
+Dialogue: 0,0:13:39.52,0:13:42.40,Default,,0,0,0,,mais imaginez\Nque les élèves délaissent la cantine...
+Dialogue: 0,0:13:42.86,0:13:47.36,Default,,0,0,0,,Au vu de la situation économique,\Nnos partenaires pourraient en souffrir.
+Dialogue: 0,0:13:48.03,0:13:48.82,Default,,0,0,0,,Peut-être...
+Dialogue: 0,0:13:49.24,0:13:52.58,Default,,0,0,0,,À ce sujet, les prix de la cantine\Nsemblent bien supérieurs
+Dialogue: 0,0:13:52.74,0:13:57.04,Default,,0,0,0,,à la moyenne nationale.\NVous savez pourquoi ?
+Dialogue: 0,0:13:58.38,0:14:01.59,Default,,0,0,0,,Maintenant que tu le dis,\Nc'est vrai que c'est un peu cher,
+Dialogue: 0,0:14:01.96,0:14:04.88,Default,,0,0,0,,mais ça dépend toujours\Ndes produits et du marché...
+Dialogue: 0,0:14:05.05,0:14:07.93,Default,,0,0,0,,Nos partenaires s'occupent\Nde calculer tout ça.
+Dialogue: 0,0:14:08.59,0:14:10.68,Default,,0,0,0,,En tout cas, je dois y aller.
+Dialogue: 0,0:14:11.01,0:14:11.72,Default,,0,0,0,,Désolée.
+Dialogue: 0,0:14:12.22,0:14:14.43,Default,,0,0,0,,Pour ce document...
+Dialogue: 0,0:14:17.02,0:14:18.35,Default,,0,0,0,,On est tombés sur un os.
+Dialogue: 0,0:14:18.56,0:14:19.60,Default,,0,0,0,,Comme tu dis...
+Dialogue: 0,0:14:19.94,0:14:22.32,Default,,0,0,0,,Si on se débrouille,
+Dialogue: 0,0:14:22.61,0:14:24.44,Default,,0,0,0,,on doit pouvoir trouver une façon...
+Dialogue: 0,0:14:24.61,0:14:27.32,Default,,0,0,0,,"Se frayer un chemin"...\N"Changer la donne" ?
+Dialogue: 0,0:14:28.07,0:14:29.95,Default,,0,0,0,,{\a6}Bref, réfléchissons et...
+Dialogue: 0,0:14:29.61,0:14:30.95,Default,,0,0,0,,GIGOTE
+Dialogue: 0,0:14:31.12,0:14:33.16,Default,,0,0,0,,{\a7}POF
+Dialogue: 0,0:14:31.32,0:14:32.20,Default,,0,0,0,,Michinoku ?
+Dialogue: 0,0:14:32.49,0:14:33.16,Default,,0,0,0,,Coucou.
+Dialogue: 0,0:14:33.70,0:14:36.37,Default,,0,0,0,,D'où tu sors ?\NEt tu fais quoi, avec cette nappe ?
+Dialogue: 0,0:14:36.54,0:14:37.87,Default,,0,0,0,,Des tests.
+Dialogue: 0,0:14:38.83,0:14:42.00,Default,,0,0,0,,Le club de base-ball a adoré\Nmes boules de riz.
+Dialogue: 0,0:14:42.92,0:14:44.67,Default,,0,0,0,,Tant mieux !
+Dialogue: 0,0:14:45.05,0:14:47.80,Default,,0,0,0,,J'en ai fait trente.
+Dialogue: 0,0:14:47.97,0:14:48.84,Default,,0,0,0,,Ça fait beaucoup !
+Dialogue: 0,0:14:49.26,0:14:51.76,Default,,0,0,0,,- Tout est parti en trente secondes.\N- {\i1}Notre sauveuse !{\i0}
+Dialogue: 0,0:14:51.93,0:14:53.10,Default,,0,0,0,,- {\i1}Merci !\N{\i0}- {\i1}Une sainte...{\i0}
+Dialogue: 0,0:14:53.60,0:14:54.97,Default,,0,0,0,,D'ailleurs...
+Dialogue: 0,0:14:56.39,0:14:58.31,Default,,0,0,0,,Tu n'as pas de déjeuner, Koma ?
+Dialogue: 0,0:14:58.56,0:15:00.44,Default,,0,0,0,,Du coup, j'ai oublié de m'en faire un...
+Dialogue: 0,0:15:00.65,0:15:02.81,Default,,0,0,0,,Avec tout ce que tu as préparé ?
+Dialogue: 0,0:15:03.15,0:15:05.28,Default,,0,0,0,,Pas grave, on va partager le mien.
+Dialogue: 0,0:15:05.44,0:15:09.28,Default,,0,0,0,,Ume, il y a un problème\Navec la vente des boules de riz ?
+Dialogue: 0,0:15:12.53,0:15:13.41,Default,,0,0,0,,En fait...
+Dialogue: 0,0:15:15.12,0:15:18.00,Default,,0,0,0,,On vient tout juste\Nde parler à l'administration.
+Dialogue: 0,0:15:18.20,0:15:19.83,Default,,0,0,0,,Rien n'est acté pour l'instant,
+Dialogue: 0,0:15:20.00,0:15:22.17,Default,,0,0,0,,on va insister\Net continuer d'en discuter.
+Dialogue: 0,0:15:26.34,0:15:27.46,Default,,0,0,0,,Désolée.
+Dialogue: 0,0:15:32.01,0:15:32.55,Default,,0,0,0,,Non...
+Dialogue: 0,0:15:33.22,0:15:34.97,Default,,0,0,0,,Tu n'as pas à t'excuser !
+Dialogue: 0,0:15:35.31,0:15:37.64,Default,,0,0,0,,Ce n'est que le début !
+Dialogue: 0,0:15:38.02,0:15:40.98,Default,,0,0,0,,Crois-moi,\Nje suis un as de la négociation !
+Dialogue: 0,0:15:41.44,0:15:43.77,Default,,0,0,0,,Ils finiront par céder,\Nne t'en fais pas !
+Dialogue: 0,0:15:44.40,0:15:46.52,Default,,0,0,0,,Je vais les épuiser, tu verras !
+Dialogue: 0,0:15:46.98,0:15:48.86,Default,,0,0,0,,{\a3}{\i1}Je vais les vendre à 40 yens.{\i0}
+Dialogue: 0,0:15:47.82,0:15:48.53,Default,,0,0,0,,{\a6}HÉHÉ
+Dialogue: 0,0:15:49.40,0:15:52.03,Default,,0,0,0,,{\i1}Ils ont pris la peine\Nde déposer une demande...{\i0}
+Dialogue: 0,0:15:56.91,0:15:58.95,Default,,0,0,0,,Je te le promets, d'accord ?
+Dialogue: 0,0:16:03.21,0:16:04.08,Default,,0,0,0,,Ume.
+Dialogue: 0,0:16:05.34,0:16:08.59,Default,,0,0,0,,Tu as tout à fait raison.\NNous en sommes capables.
+Dialogue: 0,0:16:09.05,0:16:10.72,Default,,0,0,0,,{\i1}Arisu ? Tu veux quoi ?{\i0}
+Dialogue: 0,0:16:11.17,0:16:13.97,Default,,0,0,0,,Je crois qu'il est l'heure\Nde changer la donne.
+Dialogue: 0,0:16:13.64,0:16:14.68,Default,,0,0,0,,{\a6}TERUI, REINE DU TANKA
+Dialogue: 0,0:16:14.84,0:16:18.77,Default,,0,0,0,,{\a6}EVEN THE STUDENT COUNCIL\NHAS ITS HOLES
+Dialogue: 0,0:16:18.93,0:16:20.10,Default,,0,0,0,,ADMINISTRATION
+Dialogue: 0,0:16:22.35,0:16:23.23,Default,,0,0,0,,Excusez-nous.
+Dialogue: 0,0:16:23.52,0:16:24.56,Default,,0,0,0,,Oui, j'arrive !
+Dialogue: 0,0:16:24.90,0:16:25.52,Default,,0,0,0,,Oh.
+Dialogue: 0,0:16:26.06,0:16:27.77,Default,,0,0,0,,Encore vous ?
+Dialogue: 0,0:16:27.98,0:16:30.61,Default,,0,0,0,,Si on peut vous prendre\Nune minute ou deux...
+Dialogue: 0,0:16:31.78,0:16:35.12,Default,,0,0,0,,Je suis très occupée,\Nplus que vous ne l'imaginez, alors...
+Dialogue: 0,0:16:37.58,0:16:40.87,Default,,0,0,0,,Vous détournez l'argent de la cantine.
+Dialogue: 0,0:16:39.12,0:16:41.66,Default,,0,0,0,,{\a6}DE KÔHEI YOSHINAGA :
+Dialogue: 0,0:16:43.62,0:16:49.88,Default,,0,0,0,,{\a6}ADMINISTRATION
+Dialogue: 0,0:16:43.96,0:16:44.87,Default,,0,0,0,,{\i1}Comment ?{\i0}
+Dialogue: 0,0:16:45.13,0:16:45.79,Default,,0,0,0,,{\i1}En effet.{\i0}
+Dialogue: 0,0:16:46.04,0:16:49.80,Default,,0,0,0,,{\i1}Le pain est très cher, comme tu le sais.{\i0}
+Dialogue: 0,0:16:50.05,0:16:53.13,Default,,0,0,0,,CHÈRE MADAME SAEGUSA,\NVOICI QUELQUES COUPONS QUI J'ESPÈRE...
+Dialogue: 0,0:16:50.42,0:16:51.84,Default,,0,0,0,,{\a6}{\i1}Voilà pourquoi.{\i0}
+Dialogue: 0,0:16:52.01,0:16:53.13,Default,,0,0,0,,{\a6}{\i1}Un coupon ?{\i0}
+Dialogue: 0,0:16:53.55,0:16:55.84,Default,,0,0,0,,{\i1}Le fournisseur a obtenu le contrat{\i0}
+Dialogue: 0,0:16:56.14,0:17:00.02,Default,,0,0,0,,{\i1}en offrant des coupons\Nà l'employée qu'on a rencontrée.{\i0}
+Dialogue: 0,0:17:00.77,0:17:01.89,Default,,0,0,0,,{\i1}C'est minable...{\i0}
+Dialogue: 0,0:17:02.60,0:17:03.35,Default,,0,0,0,,{\i1}Mais...{\i0}
+Dialogue: 0,0:17:03.89,0:17:05.35,Default,,0,0,0,,{\i1}Voilà notre atout !{\i0}
+Dialogue: 0,0:17:05.85,0:17:07.65,Default,,0,0,0,,PSST
+Dialogue: 0,0:17:08.69,0:17:09.90,Default,,0,0,0,,Ce qu'ils sont relous.
+Dialogue: 0,0:17:10.44,0:17:14.99,Default,,0,0,0,,Regardez-les s'échauffer pour un rien.\NC'est juste une erreur !
+Dialogue: 0,0:17:15.16,0:17:18.45,Default,,0,0,0,,J'ai oublié d'évoquer les coupons,\Nrien de plus.
+Dialogue: 0,0:17:18.62,0:17:20.74,Default,,0,0,0,,Ça n'a rien d'illégal.
+Dialogue: 0,0:17:20.91,0:17:22.58,Default,,0,0,0,,Aïe, l'excuse bidon...
+Dialogue: 0,0:17:23.00,0:17:25.42,Default,,0,0,0,,Vous êtes pas bien futés.
+Dialogue: 0,0:17:23.46,0:17:25.04,Default,,0,0,0,,{\a6}POF POF
+Dialogue: 0,0:17:25.75,0:17:29.17,Default,,0,0,0,,Tout le monde m'adore ici,
+Dialogue: 0,0:17:29.46,0:17:30.88,Default,,0,0,0,,désolée de vous l'apprendre.
+Dialogue: 0,0:17:31.34,0:17:32.26,Default,,0,0,0,,Quoi ?
+Dialogue: 0,0:17:32.42,0:17:34.34,Default,,0,0,0,,Je sais pas comment vous avez fait,
+Dialogue: 0,0:17:34.51,0:17:35.47,Default,,0,0,0,,{\a6}CRRK
+Dialogue: 0,0:17:34.76,0:17:36.80,Default,,0,0,0,,mais piratage et chantage...
+Dialogue: 0,0:17:36.97,0:17:39.80,Default,,0,0,0,,Attendez un peu\Nque les profs soient au courant.
+Dialogue: 0,0:17:40.64,0:17:42.89,Default,,0,0,0,,C'est mesquin ! On risque de...
+Dialogue: 0,0:17:43.06,0:17:44.73,Default,,0,0,0,,Vous ne me laissez pas le choix.
+Dialogue: 0,0:17:46.44,0:17:48.94,Default,,0,0,0,,"Tanaka devrait me bouffer le minou."
+Dialogue: 0,0:17:50.44,0:17:51.19,Default,,0,0,0,,Pardon ?
+Dialogue: 0,0:17:51.36,0:17:54.15,Default,,0,0,0,,"Une minute de silence\Npour la calvitie du dirlo."
+Dialogue: 0,0:17:54.32,0:17:58.74,Default,,0,0,0,,"J'ai qu'à agiter mes nichons\Npour faire saliver ces macaques."
+Dialogue: 0,0:17:58.91,0:18:01.41,Default,,0,0,0,,"Je suis au paradis\Ndes mecs bien membrés."
+Dialogue: 0,0:18:01.91,0:18:04.04,Default,,0,0,0,,Vous postez toujours tard le soir...
+Dialogue: 0,0:18:04.20,0:18:06.67,Default,,0,0,0,,Ce doit être triste,\Nde boire toute seule.
+Dialogue: 0,0:18:07.29,0:18:08.17,Default,,0,0,0,,Tu veux dire...
+Dialogue: 0,0:18:10.59,0:18:13.88,Default,,0,0,0,,- Comment t'as trouvé tout ça ?\N- Acheter local, c'est bien,
+Dialogue: 0,0:18:14.05,0:18:16.59,Default,,0,0,0,,mais ça vous rend facile à identifier.
+Dialogue: 0,0:18:16.97,0:18:21.30,Default,,0,0,0,,Vous parlez essentiellement\Nde pénis et assimilés...
+Dialogue: 0,0:18:21.55,0:18:22.43,Default,,0,0,0,,Seigneur...
+Dialogue: 0,0:18:23.14,0:18:27.23,Default,,0,0,0,,La misère sexuelle frappe même\Nles jolies jeunes femmes...
+Dialogue: 0,0:18:29.23,0:18:47.29,Default,,0,0,0,,{\a1}HAAH HAAH\NBOING BOING
+Dialogue: 0,0:18:29.44,0:18:32.40,Default,,0,0,0,,{\a6}Alors, concernant le chantage ?
+Dialogue: 0,0:18:33.07,0:18:34.44,Default,,0,0,0,,{\a6}Je ne dirai rien...
+Dialogue: 0,0:18:34.61,0:18:36.78,Default,,0,0,0,,{\a6}Et pour les boules de riz ?
+Dialogue: 0,0:18:37.15,0:18:38.49,Default,,0,0,0,,{\a6}Vous aurez un stand...
+Dialogue: 0,0:18:38.66,0:18:41.32,Default,,0,0,0,,{\a6}Et pour tout autre demande ?
+Dialogue: 0,0:18:41.49,0:18:42.45,Default,,0,0,0,,{\a6}Je ferai tout...
+Dialogue: 0,0:18:42.74,0:18:43.41,Default,,0,0,0,,{\a6}Hmpf.
+Dialogue: 0,0:18:43.58,0:18:47.29,Default,,0,0,0,,{\a6}{\i1}Première règle :\Nne jamais se mettre Terui à dos.{\i0}
+Dialogue: 0,0:18:47.46,0:18:55.30,Default,,0,0,0,,{\a6}EVEN THE STUDENT COUNCIL\NHAS ITS HOLES
+Dialogue: 0,0:18:48.04,0:18:49.37,Default,,0,0,0,,Désolé pour l'appel.
+Dialogue: 0,0:18:49.54,0:18:51.84,Default,,0,0,0,,Tu veux qu... Je peux t'aider ?
+Dialogue: 0,0:18:52.54,0:18:53.42,Default,,0,0,0,,Hein ?
+Dialogue: 0,0:18:53.59,0:18:55.30,Default,,0,0,0,,C'est trop lourd pour moi.
+Dialogue: 0,0:18:56.21,0:18:57.76,Default,,0,0,0,,Servez-moi d'escabeau.
+Dialogue: 0,0:18:59.18,0:19:00.01,Default,,0,0,0,,CANTINE
+Dialogue: 0,0:19:00.30,0:19:01.64,Default,,0,0,0,,Enfin !
+Dialogue: 0,0:19:01.80,0:19:04.97,Default,,0,0,0,,{\i1}Boules de riz faites en famille{\i0}
+Dialogue: 0,0:19:02.18,0:19:03.56,Default,,0,0,0,,{\a6}Le stand est là !
+Dialogue: 0,0:19:03.72,0:19:04.97,Default,,0,0,0,,{\a6}On l'a bien mérité !
+Dialogue: 0,0:19:05.35,0:19:09.56,Default,,0,0,0,,Pas sûr de comprendre le "en famille",\Nmais bon !
+Dialogue: 0,0:19:09.94,0:19:11.48,Default,,0,0,0,,{\i1}Tout est de moi !{\i0}
+Dialogue: 0,0:19:11.65,0:19:13.31,Default,,0,0,0,,J'aime bien, moi...
+Dialogue: 0,0:19:13.48,0:19:16.03,Default,,0,0,0,,J'avais voté pour "les Komaboules"...
+Dialogue: 0,0:19:17.24,0:19:17.99,Default,,0,0,0,,J'y pense,
+Dialogue: 0,0:19:18.15,0:19:23.45,Default,,0,0,0,,{\a6}CAISSIÈRE
+Dialogue: 0,0:19:18.36,0:19:20.91,Default,,0,0,0,,mais merci pour ton aide, Saegusa.
+Dialogue: 0,0:19:21.07,0:19:23.45,Default,,0,0,0,,La ferme... Et d'où tu me tutoies ?
+Dialogue: 0,0:19:23.95,0:19:25.58,Default,,0,0,0,,Pourquoi moi...
+Dialogue: 0,0:19:25.74,0:19:27.66,Default,,0,0,0,,Désolée, on manque de personnel.
+Dialogue: 0,0:19:27.83,0:19:35.13,Default,,0,0,0,,{\a5}BOULES DE RIZ
+Dialogue: 0,0:19:28.12,0:19:31.00,Default,,0,0,0,,Vous n'aviez personne\Nde plus approprié pour ça ?
+Dialogue: 0,0:19:31.17,0:19:33.79,Default,,0,0,0,,J'ai fait de longues études, tu sais.
+Dialogue: 0,0:19:33.96,0:19:35.13,Default,,0,0,0,,Effectivement,
+Dialogue: 0,0:19:35.34,0:19:37.67,Default,,0,0,0,,tu pourrais encore détourner...
+Dialogue: 0,0:19:37.84,0:19:39.34,Default,,0,0,0,,Chut ! On a compris !
+Dialogue: 0,0:19:39.51,0:19:46.22,Default,,0,0,0,,{\a6}BOULES DE RIZ
+Dialogue: 0,0:19:40.09,0:19:42.84,Default,,0,0,0,,On n'a jamais assez de monnaie !
+Dialogue: 0,0:19:43.01,0:19:43.80,Default,,0,0,0,,Ah, j'en ai.
+Dialogue: 0,0:19:43.97,0:19:45.97,Default,,0,0,0,,{\i1}Au moins, elle fait son boulot...{\i0}
+Dialogue: 0,0:19:46.39,0:19:52.23,Default,,0,0,0,,{\a5}BAM BAM
+Dialogue: 0,0:19:46.93,0:19:47.81,Default,,0,0,0,,{\i1}Pendant la pause.{\i0}
+Dialogue: 0,0:19:48.39,0:19:50.44,Default,,0,0,0,,Regardez, c'est ouvert !
+Dialogue: 0,0:19:50.60,0:19:52.23,Default,,0,0,0,,Oh, le club de natation.
+Dialogue: 0,0:19:53.06,0:19:55.90,Default,,0,0,0,,Ç'a l'air trop bon !\NAllez, on casse nos tirelires !
+Dialogue: 0,0:19:56.07,0:19:57.07,Default,,0,0,0,,C'est gentil !
+Dialogue: 0,0:19:57.23,0:19:59.24,Default,,0,0,0,,CLING
+Dialogue: 0,0:20:00.36,0:20:01.49,Default,,0,0,0,,Je vous invite...
+Dialogue: 0,0:20:01.65,0:20:02.66,Default,,0,0,0,,- Ouais !\N- Hello.
+Dialogue: 0,0:20:02.82,0:20:03.82,Default,,0,0,0,,Ah, salut !
+Dialogue: 0,0:20:04.20,0:20:05.45,Default,,0,0,0,,Il se passe quoi ?
+Dialogue: 0,0:20:05.62,0:20:07.99,Default,,0,0,0,,Le conseil vend des boules de riz.
+Dialogue: 0,0:20:09.70,0:20:10.91,Default,,0,0,0,,Donne-m'en deux.
+Dialogue: 0,0:20:11.58,0:20:13.00,Default,,0,0,0,,Courage.
+Dialogue: 0,0:20:13.17,0:20:14.63,Default,,0,0,0,,Merci !
+Dialogue: 0,0:20:15.13,0:20:18.13,Default,,0,0,0,,Elle avait déjà acheté du pain, non ?
+Dialogue: 0,0:20:18.30,0:20:21.09,Default,,0,0,0,,Toujours à se la jouer, celle-là.
+Dialogue: 0,0:20:21.26,0:20:22.68,Default,,0,0,0,,{\i1}Arrêtez un peu...{\i0}
+Dialogue: 0,0:20:23.13,0:20:24.97,Default,,0,0,0,,Le stand grouille de monde...
+Dialogue: 0,0:20:25.14,0:20:26.85,Default,,0,0,0,,Ça fait plaisir, pas vrai ?
+Dialogue: 0,0:20:27.14,0:20:28.47,Default,,0,0,0,,Hé, Ume...
+Dialogue: 0,0:20:28.85,0:20:30.48,Default,,0,0,0,,Je peux en avoir trois ?
+Dialogue: 0,0:20:30.73,0:20:31.60,Default,,0,0,0,,Batsunosuke !
+Dialogue: 0,0:20:31.98,0:20:34.27,Default,,0,0,0,,Trois, rien que pour toi ?
+Dialogue: 0,0:20:34.44,0:20:35.36,Default,,0,0,0,,Oh, non...
+Dialogue: 0,0:20:35.56,0:20:38.94,Default,,0,0,0,,Le club de robotique en veut aussi...
+Dialogue: 0,0:20:39.32,0:20:40.99,Default,,0,0,0,,Je suis désolé...
+Dialogue: 0,0:20:41.19,0:20:44.61,Default,,0,0,0,,M'accaparer trois boules de riz
+Dialogue: 0,0:20:44.78,0:20:47.87,Default,,0,0,0,,quand d'autres en veulent aussi...
+Dialogue: 0,0:20:48.03,0:20:49.20,Default,,0,0,0,,210 yens, merci.
+Dialogue: 0,0:20:49.58,0:20:52.12,Default,,0,0,0,,{\a6}BAM BAM
+Dialogue: 0,0:20:50.54,0:20:52.12,Default,,0,0,0,,- Vite !\N- Le club de base-ball !
+Dialogue: 0,0:20:52.37,0:20:54.08,Default,,0,0,0,,- J'en veux cinq !\N- Six !
+Dialogue: 0,0:20:54.25,0:20:55.08,Default,,0,0,0,,D'accord...
+Dialogue: 0,0:20:55.25,0:20:57.09,Default,,0,0,0,,{\a6}CHOMP CHOMP
+Dialogue: 0,0:20:55.71,0:20:57.09,Default,,0,0,0,,Au moins, ils apprécient...
+Dialogue: 0,0:20:57.46,0:20:58.88,Default,,0,0,0,,C'est donc ça, le paradis...
+Dialogue: 0,0:20:59.09,0:21:00.51,Default,,0,0,0,,Je me sens enfin rempli...
+Dialogue: 0,0:21:00.67,0:21:01.80,Default,,0,0,0,,{\i1}Ils mangent jamais ?{\i0}
+Dialogue: 0,0:21:02.17,0:21:02.67,Default,,0,0,0,,{\a6}NOM NOM
+Dialogue: 0,0:21:02.72,0:21:04.13,Default,,0,0,0,,C'est pas mal du tout.
+Dialogue: 0,0:21:04.30,0:21:05.01,Default,,0,0,0,,Madame !
+Dialogue: 0,0:21:05.18,0:21:08.72,Default,,0,0,0,,Et à ce prix... bon boulot.
+Dialogue: 0,0:21:05.18,0:21:08.72,Default,,0,0,0,,{\a6}{\i1}Bœuf{\i0}
+Dialogue: 0,0:21:09.22,0:21:13.44,Default,,0,0,0,,Vous avez même convaincu\Nles harpies de l'administration.
+Dialogue: 0,0:21:10.39,0:21:13.44,Default,,0,0,0,,{\a6}CRRT
+Dialogue: 0,0:21:13.60,0:21:16.15,Default,,0,0,0,,- Vous avez payé ?\N- C'est aussi grâce à moi...
+Dialogue: 0,0:21:16.31,0:21:18.48,Default,,0,0,0,,- "Les harpies" ?\N- ... pourquoi je paierais ?
+Dialogue: 0,0:21:19.32,0:21:22.49,Default,,0,0,0,,{\i1}Bœuf, soba, saumon{\i0}
+Dialogue: 0,0:21:19.44,0:21:21.40,Default,,0,0,0,,{\a6}On a quasi tout vendu !
+Dialogue: 0,0:21:21.57,0:21:22.49,Default,,0,0,0,,{\a6}Eh oui !
+Dialogue: 0,0:21:22.99,0:21:25.03,Default,,0,0,0,,Mais je commence un peu à fatiguer.
+Dialogue: 0,0:21:25.20,0:21:28.20,Default,,0,0,0,,Moi aussi...\NFaisons une pause, Michinoku.
+Dialogue: 0,0:21:28.37,0:21:29.66,Default,,0,0,0,,Des boules de riz ?
+Dialogue: 0,0:21:30.24,0:21:32.50,Default,,0,0,0,,Oh, pas mal ! Ça me tente bien.
+Dialogue: 0,0:21:32.66,0:21:33.37,Default,,0,0,0,,Merci.
+Dialogue: 0,0:21:33.79,0:21:37.13,Default,,0,0,0,,- Je vais regarder ce qu'il nous reste.\N- Merci !
+Dialogue: 0,0:21:43.47,0:21:45.51,Default,,0,0,0,,Je suis content de l'avoir fait.
+Dialogue: 0,0:21:46.22,0:21:46.80,Default,,0,0,0,,De même.
+Dialogue: 0,0:21:47.43,0:21:52.68,Default,,0,0,0,,{\a6}PAIN
+Dialogue: 0,0:21:47.55,0:21:48.72,Default,,0,0,0,,Et pour le pain...
+Dialogue: 0,0:21:48.89,0:21:50.64,Default,,0,0,0,,C'est le tien, tu le manges.
+Dialogue: 0,0:21:50.81,0:21:52.72,Default,,0,0,0,,T'avais qu'à pas l'acheter.
+Dialogue: 0,0:21:52.89,0:21:54.43,Default,,0,0,0,,Ouais, mais j'ai plus faim.
+Dialogue: 0,0:21:54.60,0:21:56.31,Default,,0,0,0,,Fais-le passer par en bas.
+Dialogue: 0,0:21:54.60,0:21:58.94,Default,,0,0,0,,{\a6}HAHAHA
+Dialogue: 0,0:21:56.48,0:21:57.98,Default,,0,0,0,,T'es dégueu !
+Dialogue: 0,0:21:59.11,0:22:04.82,Default,,0,0,0,,{\a6}ELLE A FINI\NPAR LE MANGER NORMALEMENT
+Dialogue: 0,0:21:59.19,0:22:00.82,Default,,0,0,0,,Tu vas vraiment le faire ?
+Dialogue: 0,0:22:00.98,0:22:02.94,Default,,0,0,0,,Attends, on va t'aider !
+Dialogue: 0,0:22:03.11,0:22:04.74,Default,,0,0,0,,Je vais rentrer chez moi...
+Dialogue: 0,0:22:16.67,0:22:19.54,Default,,0,0,0,,{\a1}Ume Mizunoe : Shôgo Sakata\NKomaro Michinoku : Miyu Tomita
+Dialogue: 0,0:22:16.67,0:22:19.54,Default,,0,0,0,,{\a1}Ume Mizunoe : Shôgo Sakata\NKomaro Michinoku : Miyu Tomita
+Dialogue: 0,0:22:20.21,0:22:22.67,Default,,0,0,0,,Arisu Terui : Shizuka Ishigami\NHisako Kotobuki : Haruka Shiraishi
+Dialogue: 0,0:22:20.21,0:22:22.67,Default,,0,0,0,,Arisu Terui : Shizuka Ishigami\NHisako Kotobuki : Haruka Shiraishi
+Dialogue: 0,0:22:22.84,0:22:25.92,Default,,0,0,0,,Tan Otori : Hiyori Kôno\NSatomi Hiratsuka : Yumi Uchiyama
+Dialogue: 0,0:22:22.84,0:22:25.92,Default,,0,0,0,,Tan Otori : Hiyori Kôno\NSatomi Hiratsuka : Yumi Uchiyama
+Dialogue: 0,0:22:28.05,0:22:31.51,Default,,0,0,0,,{\a1}Wani Janome : Yûko Iida
+Dialogue: 0,0:23:28.49,0:23:30.28,Default,,0,0,0,,Traduction : Yves Bohmler
+Dialogue: 0,0:23:28.49,0:23:30.28,Default,,0,0,0,,Traduction : Yves Bohmler
+Dialogue: 0,0:23:33.70,0:23:34.83,Default,,0,0,0,,Repérage : Baptiste Martin\NRelecture : Sarah Courchay
+Dialogue: 0,0:23:33.70,0:23:34.83,Default,,0,0,0,,Repérage : Baptiste Martin\NRelecture : Sarah Courchay
+Dialogue: 0,0:23:34.99,0:23:35.83,Default,,0,0,0,,APERÇU DU PROCHAIN ÉPISODE
+Dialogue: 0,0:23:35.99,0:23:39.96,Default,,0,0,0,,{\a6}LE MONDE DE SATOMI, MÉNAGE, BOBO,\NPLAYBOY, ENTREPRISE, TOUS ENSEMBLE
+
