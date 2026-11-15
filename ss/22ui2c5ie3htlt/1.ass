@@ -1,0 +1,335 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Main - Top + Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback - Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top + Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Signs,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,30,30,18,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.97,0:00:10.81,Default,Jimmy,0,0,0,,Looks like you were able \Nto collect the curse mark.
+Dialogue: 0,0:00:11.05,0:00:12.15,Default,Fushigi,0,0,0,,What happened to you?
+Dialogue: 0,0:00:12.15,0:00:15.86,Default,Jimmy,0,0,0,,Oh, it ain't a big deal. I'm good.
+Dialogue: 0,0:00:18.35,0:00:20.82,Default,Fushigi,0,0,0,,Let's head to the next city.
+Dialogue: 0,0:00:33.28,0:00:35.45,Default,Jimmy,0,0,0,,Wait up, Fushigi!
+Dialogue: 0,0:02:12.27,0:02:16.99,Signs,text,0,0,0,,EPISODE 6\NTHE WANDERING DOG
+Dialogue: 0,0:02:13.98,0:02:15.45,Default,Umi,0,0,0,,Let's play when we get home.
+Dialogue: 0,0:02:17.42,0:02:19.30,Signs,text,0,0,0,,PUZZLINK
+Dialogue: 0,0:02:15.45,0:02:17.40,Default,Yuuma,0,0,0,,But you suck at it, Sis.
+Dialogue: 0,0:02:17.40,0:02:21.64,Default,Umi,0,0,0,,You're just too good, Yuuma!\NI wish I knew how to beat you.
+Dialogue: 0,0:02:21.64,0:02:22.62,Default,Yuuma,0,0,0,,Hey, Sis.
+Dialogue: 0,0:02:23.21,0:02:25.11,Default,Yuuma,0,0,0,,What are those people doing over there?
+Dialogue: 0,0:02:27.12,0:02:28.54,Default,Umi,0,0,0,,Who knows?
+Dialogue: 0,0:02:29.79,0:02:31.88,Default,Yuuma,0,0,0,,I'm super curious. Let's go and see!
+Dialogue: 0,0:02:31.88,0:02:35.75,Default,Umi,0,0,0,,What? No, let's go home. \NIt's already getting dark.
+Dialogue: 0,0:02:36.94,0:02:39.24,Default,Yuuma,0,0,0,,C'mon, Sis! Hurry up!
+Dialogue: 0,0:02:40.23,0:02:41.57,Default,Umi,0,0,0,,Jeez!
+Dialogue: 0,0:02:43.73,0:02:45.59,Default,Yuuma,0,0,0,,Where could they have gone?
+Dialogue: 0,0:02:46.82,0:02:50.36,Default,Umi,0,0,0,,Who cares? Let's just go home already.
+Dialogue: 0,0:02:55.57,0:02:57.39,Default,Yuuma,0,0,0,,Wanna check over there?
+Dialogue: 0,0:03:04.28,0:03:07.26,Default,Umi,0,0,0,,I think I've seen enough. \NLet's just head home.
+Dialogue: 0,0:03:07.26,0:03:10.34,Default,Yuuma,0,0,0,,Aw, come on! Let's go see, Sis!
+Dialogue: 0,0:03:10.34,0:03:12.12,Default,Yuuma,0,0,0,,Then I'll play that game with you.
+Dialogue: 0,0:03:12.46,0:03:14.65,Default,Umi,0,0,0,,Okay. But no further than that.
+Dialogue: 0,0:03:14.65,0:03:15.63,Default,Yuuma,0,0,0,,Sure!
+Dialogue: 0,0:03:15.63,0:03:19.21,Signs,text,0,0,0,,DANGER!\NSTAY OUT!
+Dialogue: 0,0:03:16.63,0:03:20.68,Default,Umi,0,0,0,,Isn't this the Dragon's Bottomless Swamp?
+Dialogue: 0,0:03:20.68,0:03:24.75,Default,Umi,0,0,0,,The one Mom told us to stay far away \Nfrom because it's so dangerous?
+Dialogue: 0,0:03:24.75,0:03:26.80,Default,Yuuma,0,0,0,,Hey. Look.
+Dialogue: 0,0:03:27.44,0:03:29.48,Default,Umi,0,0,0,,It's those guys from before.
+Dialogue: 0,0:03:29.48,0:03:31.13,Default,Umi,0,0,0,,Don't! It's too dangerous!
+Dialogue: 0,0:03:36.67,0:03:38.65,Default,Four Men,0,0,0,,Eidon otwish todi...
+Dialogue: 0,0:03:33.30,0:03:34.27,Default,Yuuma,0,0,0,,No way.
+Dialogue: 0,0:03:47.57,0:03:49.82,Default,Umi,0,0,0,,What is this? What are they doing?
+Dialogue: 0,0:03:49.82,0:03:51.07,Default,Yuuma,0,0,0,,Sis...
+Dialogue: 0,0:03:53.71,0:03:56.00,Default,Four Men,0,0,0,,Eidon otwish todi...
+Dialogue: 0,0:03:56.68,0:03:58.78,Default,Four Men,0,0,0,,Eidon otwish todi...
+Dialogue: 0,0:03:59.55,0:04:01.64,Default,Four Men,0,0,0,,Eidon otwish todi...
+Dialogue: 0,0:04:02.66,0:04:04.84,Default,Four Men,0,0,0,,Eidon otwish todi...
+Dialogue: 0,0:04:12.35,0:04:14.85,Default,Four Men,0,0,0,,You saw us.
+Dialogue: 0,0:04:17.50,0:04:18.51,Default,Yuuma,0,0,0,,Crap!
+Dialogue: 0,0:04:18.51,0:04:20.07,Default,Man,0,0,0,,Do not let him go.
+Dialogue: 0,0:04:39.20,0:04:41.46,Default,Umi,0,0,0,,We should be... far enough away.
+Dialogue: 0,0:04:41.46,0:04:44.91,Default,Yuuma,0,0,0,,Sis... What was all that?
+Dialogue: 0,0:04:46.83,0:04:49.99,Default,Umi,0,0,0,,How would I know?
+Dialogue: 0,0:04:50.63,0:04:52.79,Default,Umi,0,0,0,,And now it's already dark.
+Dialogue: 0,0:04:52.79,0:04:55.80,Default,Umi,0,0,0,,If we don't get home soon, \NMom's gonna chew us out.
+Dialogue: 0,0:04:56.69,0:04:58.84,Default,Yuuma,0,0,0,,Sorry, Sis.
+Dialogue: 0,0:05:03.70,0:05:05.38,Default,Umi,0,0,0,,Okay, let's get going.
+Dialogue: 0,0:05:08.63,0:05:11.77,Default,Umi,0,0,0,,Don't forget we're playing \Nthat game, Yuuma.
+Dialogue: 0,0:05:13.15,0:05:15.04,Default,Umi,0,0,0,,Huh? Yuuma?
+Dialogue: 0,0:05:15.04,0:05:16.39,Default,Yuuma,0,0,0,,Sis!
+Dialogue: 0,0:05:19.14,0:05:20.55,Default,Umi,0,0,0,,Yuuma!
+Dialogue: 0,0:05:22.60,0:05:24.09,Default,Umi,0,0,0,,Yuuma!
+Dialogue: 0,0:05:26.44,0:05:28.66,Default,Umi,0,0,0,,Yuuma, where are you?!
+Dialogue: 0,0:05:29.07,0:05:30.45,Default,Fushigi,0,0,0,,Are we too late?
+Dialogue: 0,0:05:35.14,0:05:36.77,Default,Umi,0,0,0,,Wh-Who are you?
+Dialogue: 0,0:05:36.77,0:05:40.18,Default,Jimmy,0,0,0,,Don't be scared. Yeah, \NI know we look kinda strange,
+Dialogue: 0,0:05:40.18,0:05:41.97,Default,Jimmy,0,0,0,,but we ain't with those other guys.
+Dialogue: 0,0:05:42.99,0:05:46.36,Default,Fushigi,0,0,0,,If we don't do something, your brother \Nwill be used as a human sacrifice.
+Dialogue: 0,0:05:46.36,0:05:47.77,Default,Umi,0,0,0,,A human sacrifice?
+Dialogue: 0,0:05:47.77,0:05:51.69,Default,Fushigi,0,0,0,,Those men intend to \Nsacrifice your brother.
+Dialogue: 0,0:05:51.69,0:05:52.56,Default,Umi,0,0,0,,Huh?
+Dialogue: 0,0:05:52.56,0:05:56.20,Default,Jimmy,0,0,0,,Yeah, they're the ghosts of \Nguys who were also sacrificed.
+Dialogue: 0,0:05:56.20,0:06:00.80,Default,Jimmy,0,0,0,,They keep reenacting their own sacrifices \Nthousands upon thousands of times,
+Dialogue: 0,0:06:00.80,0:06:02.68,Default,Jimmy,0,0,0,,and you kids caught them in the act.
+Dialogue: 0,0:06:02.68,0:06:05.00,Default,Fushigi,0,0,0,,And that's when they spotted you.
+Dialogue: 0,0:06:05.00,0:06:07.22,Default,Fushigi,0,0,0,,Or at least your brother.
+Dialogue: 0,0:06:07.83,0:06:11.51,Default,Umi,0,0,0,,Yeah, it seemed like they only saw Yuuma.
+Dialogue: 0,0:06:13.49,0:06:15.12,Default,Jimmy,0,0,0,,It's not safe to go alone!
+Dialogue: 0,0:06:16.04,0:06:16.96,Default,Fushigi,0,0,0,,I'm on it.
+Dialogue: 0,0:06:21.78,0:06:24.03,Default,Umi,0,0,0,,If I don't hurry, Yuuma's done for!
+Dialogue: 0,0:06:24.03,0:06:26.23,Default,Jimmy,0,0,0,,Don't worry! We'll save him for ya!
+Dialogue: 0,0:06:27.90,0:06:28.94,Default,Jimmy,0,0,0,,Huh?
+Dialogue: 0,0:06:30.17,0:06:32.49,Default,Jimmy,0,0,0,,What's this weird feeling?
+Dialogue: 0,0:06:39.49,0:06:40.56,Default,Jimmy,0,0,0,,Oh, no!
+Dialogue: 0,0:06:44.62,0:06:46.30,Default,Jimmy,0,0,0,,I'm fine. It's nothin'.
+Dialogue: 0,0:06:49.62,0:06:51.38,Default,Jimmy,0,0,0,,Nothin' at all...
+Dialogue: 0,0:06:55.67,0:06:57.05,Default,Umi,0,0,0,,Yuuma!
+Dialogue: 0,0:07:03.74,0:07:04.80,Default,Jimmy,0,0,0,,Watch out!
+Dialogue: 0,0:07:11.51,0:07:15.98,Default,Jimmy,0,0,0,,Fushigi, I'll get its attention. \NHurry and recover the curse mark!
+Dialogue: 0,0:07:15.98,0:07:17.29,Default,Jimmy,0,0,0,,You go and hide!
+Dialogue: 0,0:07:17.29,0:07:18.49,Default,Umi,0,0,0,,But what about Yuuma?
+Dialogue: 0,0:07:18.77,0:07:21.98,Default,Jimmy,0,0,0,,Don't worry! I know \NFushigi's gonna save him!
+Dialogue: 0,0:07:26.66,0:07:27.96,Default,Jimmy,0,0,0,,Yeah, there we go.
+Dialogue: 0,0:07:45.23,0:07:49.10,Default,Four Men,0,0,0,,Eidon otwish todi... Eidon otwish todi...
+Dialogue: 0,0:07:49.10,0:07:54.83,Default,Four Men,0,0,0,,Eidon otwish todi... Eidon otwish \Ntodi... I do not wish to die...
+Dialogue: 0,0:07:54.83,0:07:59.82,Default,Four Men,0,0,0,,I do not wish to die... \NI do not wish to die...
+Dialogue: 0,0:08:00.21,0:08:02.56,Default,Four Men,0,0,0,,I do not wish to die...
+Dialogue: 0,0:08:03.16,0:08:04.83,Default,Four Men,0,0,0,,I do not wish to die...
+Dialogue: 0,0:08:05.43,0:08:07.86,Default,Four Men,0,0,0,,I do not wish to die...
+Dialogue: 0,0:08:22.55,0:08:24.01,Default,Fushigi,0,0,0,,.esruc eht etanimullI
+Dialogue: 0,0:08:24.78,0:08:26.44,Default,Fushigi,0,0,0,,.esruc eht ebircsnarT
+Dialogue: 0,0:08:28.46,0:08:30.20,Default,Fushigi,0,0,0,,.tcejorP
+Dialogue: 0,0:08:32.10,0:08:33.34,Default,Fushigi,0,0,0,,Break!
+Dialogue: 0,0:08:33.15,0:08:35.03,Signs,text,0,0,0,,KAERB
+Dialogue: 0,0:08:36.86,0:08:38.03,Signs,text,0,0,0,,CURSE
+Dialogue: 0,0:08:48.13,0:08:49.13,Signs,text,0,0,0,,ESRUC
+Dialogue: 0,0:08:52.45,0:08:53.79,Default,Umi,0,0,0,,Yuuma!
+Dialogue: 0,0:08:55.39,0:08:56.68,Default,Umi,0,0,0,,Yuuma.
+Dialogue: 0,0:08:58.44,0:09:00.12,Default,Yuuma,0,0,0,,Sis...
+Dialogue: 0,0:09:00.12,0:09:01.54,Default,Umi,0,0,0,,Thank goodness!
+Dialogue: 0,0:09:03.28,0:09:06.23,Default,Yuuma,0,0,0,,I was so scared... I was so scared!
+Dialogue: 0,0:09:06.23,0:09:07.32,Default,Umi,0,0,0,,Yuuma...
+Dialogue: 0,0:09:07.32,0:09:09.35,Default,Jimmy,0,0,0,,I'm glad you're safe.
+Dialogue: 0,0:09:15.15,0:09:16.61,Default,Yuuma,0,0,0,,A monster!
+Dialogue: 0,0:09:22.51,0:09:24.00,Default,Umi,0,0,0,,Fushigi-san!
+Dialogue: 0,0:09:25.00,0:09:26.94,Default,Umi,0,0,0,,Your doggy ran off!
+Dialogue: 0,0:09:27.24,0:09:28.57,Default,Fushigi,0,0,0,,What do you mean?
+Dialogue: 0,0:09:28.92,0:09:33.45,Default,Umi,0,0,0,,Yuuma thought your dog was a \Nmonster and threw a rock at him.
+Dialogue: 0,0:09:33.45,0:09:35.04,Default,Yuuma,0,0,0,,I'm sorry.
+Dialogue: 0,0:09:35.32,0:09:36.28,Default,Fushigi,0,0,0,,Jimmy...
+Dialogue: 0,0:09:39.33,0:09:42.44,Default,Jimmy,0,0,0,,Fushigi! Fushigi!
+Dialogue: 0,0:09:42.87,0:09:49.06,Default,Jimmy,0,0,0,,Fushigi, am I... am I... Fushigi! Woof!
+Dialogue: 0,0:09:49.06,0:09:50.94,Default,Jimmy,0,0,0,,Arf! Arf!
+Dialogue: 0,0:09:50.94,0:09:53.90,Default,Jimmy,0,0,0,,Arf!
+Dialogue: 0,0:09:56.78,0:09:57.99,Default,Kid 2 (M),0,0,0,,Help!
+Dialogue: 0,0:09:58.74,0:10:00.38,Default,Kid 3 (M),0,0,0,,Stay away!
+Dialogue: 0,0:09:59.12,0:10:00.38,Default,Kid 4 (F),0,0,0,,No!
+Dialogue: 0,0:10:08.48,0:10:09.84,Default,Kid 2 (M),0,0,0,,Crazy dog!
+Dialogue: 0,0:10:11.44,0:10:12.17,Default,Kid 2 (M),0,0,0,,Got him!
+Dialogue: 0,0:10:15.00,0:10:15.95,Default,Kid 2 (M),0,0,0,,Now's our chance!
+Dialogue: 0,0:10:15.95,0:10:17.00,Default,Kid 3 (M),0,0,0,,Run!
+Dialogue: 0,0:10:32.57,0:10:34.55,Default,Jimmy,0,0,0,,Where the hell am I?
+Dialogue: 0,0:10:35.04,0:10:37.86,Default,Jimmy,0,0,0,,Why am I sleeping on a riverbank?
+Dialogue: 0,0:10:39.70,0:10:42.49,Default,Jimmy,0,0,0,,Ow! My head's killing me!
+Dialogue: 0,0:10:43.04,0:10:45.96,Default,Jimmy,0,0,0,,Feels like I got nailed\N by a big rock or something.
+Dialogue: 0,0:10:47.28,0:10:49.75,Default,Jimmy,0,0,0,,What? I can't reach!
+Dialogue: 0,0:10:50.39,0:10:52.71,Default,Jimmy,0,0,0,,Whoa! My paws have pads!
+Dialogue: 0,0:10:52.71,0:10:55.76,Default,Jimmy,0,0,0,,Oh, right! I'm Jimmy the Human-Faced Dog.
+Dialogue: 0,0:10:56.18,0:10:58.81,Main - Italics,Momo,0,0,0,,Good morning, Jimmy-san.
+Dialogue: 0,0:10:58.81,0:11:01.55,Main - Italics,Momo,0,0,0,,It looks like you've finally \Nreturned to your senses.
+Dialogue: 0,0:11:01.55,0:11:03.47,Main - Italics,Momo,0,0,0,,For the last few days,
+Dialogue: 0,0:11:03.47,0:11:06.76,Main - Italics,Momo,0,0,0,,you lost yourself completely \Nand were wandering around town
+Dialogue: 0,0:11:06.76,0:11:08.76,Main - Italics,Momo,0,0,0,,like a monster from an urban legend.
+Dialogue: 0,0:11:08.76,0:11:10.01,Default,Jimmy,0,0,0,,What did you just say?
+Dialogue: 0,0:11:13.61,0:11:16.06,Default,Jimmy,0,0,0,,I can't remember what happened after that.
+Dialogue: 0,0:11:16.06,0:11:20.07,Default,Jimmy,0,0,0,,Did I really become an actual monster?
+Dialogue: 0,0:11:20.35,0:11:25.10,Flashback,Blue Umbrella Man,0,0,0,,Soon you will become nothing \Nbut a Human-Faced Dog!
+Dialogue: 0,0:11:27.03,0:11:31.93,Main - Italics,Momo,0,0,0,,You turned into a monster,\N attacked children, got hit by a rock,
+Dialogue: 0,0:11:31.93,0:11:33.53,Main - Italics,Momo,0,0,0,,and fell into the river.
+Dialogue: 0,0:11:33.85,0:11:36.89,Default,Jimmy,0,0,0,,But what about Fushigi? \NWhere the hell is he?
+Dialogue: 0,0:11:36.89,0:11:38.27,Main - Italics,Momo,0,0,0,,I do not know.
+Dialogue: 0,0:11:38.27,0:11:41.11,Main - Italics,Momo,0,0,0,,Since you're useless, \Nmaybe he abandoned you
+Dialogue: 0,0:11:41.11,0:11:43.59,Main - Italics,Momo,0,0,0,,and went on to the next city alone.
+Dialogue: 0,0:11:43.59,0:11:45.60,Default,Jimmy,0,0,0,,I can't believe he'd do that.
+Dialogue: 0,0:11:47.78,0:11:52.12,Default,Jimmy,0,0,0,,Then again, when I'm like this, \NI'll probably just hold him back.
+Dialogue: 0,0:11:52.12,0:11:57.44,Default,Jimmy,0,0,0,,Still, he's the one and \Nonly real friend I have!
+Dialogue: 0,0:11:57.44,0:12:00.60,Main - Italics,Momo,0,0,0,,Real friend? Fushigi-san is?
+Dialogue: 0,0:12:00.60,0:12:04.30,Default,Jimmy,0,0,0,,Back in the day, nobody \Never wanted me around.
+Dialogue: 0,0:12:04.30,0:12:09.12,Default,Jimmy,0,0,0,,All I did was shoot candid photos that \Nturned my targets' lives upside-down.
+Dialogue: 0,0:12:09.41,0:12:11.34,Default,Jimmy,0,0,0,,Until I met Fushigi, anyway.
+Dialogue: 0,0:12:12.18,0:12:17.19,Default,Jimmy,0,0,0,,After I became Jimmy, I think I started \Nturning into a decent fellow for once.
+Dialogue: 0,0:12:17.59,0:12:18.91,Default,Jimmy,0,0,0,,Because all I wanted...
+Dialogue: 0,0:12:20.28,0:12:24.50,Default,Jimmy,0,0,0,,from the bottom of my heart, \Nwas to be able to help this guy out!
+Dialogue: 0,0:12:24.50,0:12:26.99,Default,Jimmy,0,0,0,,It's the first I've ever felt\Nthat way about someone!
+Dialogue: 0,0:12:27.76,0:12:34.15,Default,Jimmy,0,0,0,,But then I started to lose my human \Nsoul and turn into a Human-Faced Dog.
+Dialogue: 0,0:12:34.15,0:12:36.94,Default,Jimmy,0,0,0,,Once that's done,\N I can't keep staying with him!
+Dialogue: 0,0:12:37.39,0:12:39.93,Default,Jimmy,0,0,0,,I'll go back to being useless again!
+Dialogue: 0,0:12:40.99,0:12:43.73,Default,Jimmy,0,0,0,,I don't wanna become a monster, damn it!
+Dialogue: 0,0:12:43.73,0:12:46.61,Main - Italics,Momo,0,0,0,,In that case, I know exactly what to do.
+Dialogue: 0,0:12:47.18,0:12:49.53,Default,Kid 2 (M),0,0,0,,That was so scary.
+Dialogue: 0,0:12:49.53,0:12:52.87,Default,Kid 3 (M),0,0,0,,Yeah. I never knew Human-Faced \NDogs really existed.
+Dialogue: 0,0:12:52.87,0:12:55.66,Default,Kid 1 (F),0,0,0,,You don't think we'll \Nsee it again, do you?
+Dialogue: 0,0:12:55.66,0:12:56.70,Default,Fushigi,0,0,0,,Hey, kids.
+Dialogue: 0,0:12:58.31,0:13:01.42,Default,Fushigi,0,0,0,,I overheard you just now. \NCould you tell me what happened?
+Dialogue: 0,0:13:01.42,0:13:04.51,Main - Italics,Momo,0,0,0,,Turn left in approximately five meters.
+Dialogue: 0,0:13:08.22,0:13:08.73,Default,Jimmy,0,0,0,,Woof!
+Dialogue: 0,0:13:08.73,0:13:13.35,Main - Italics,Momo,0,0,0,,Oh, Jimmy-san? Uh... Jimmy-san? \NIt isn't that way.
+Dialogue: 0,0:13:13.35,0:13:14.98,Signs,text,0,0,0,,TORI-TORI\NOPEN, DRINKS
+Dialogue: 0,0:13:16.76,0:13:19.52,Default,Jimmy,0,0,0,,Wait... What the hell am I doin'?
+Dialogue: 0,0:13:22.28,0:13:25.82,Main - Italics,Momo,0,0,0,,You were digging through the \Ntrash and eating leftovers.
+Dialogue: 0,0:13:25.82,0:13:28.06,Main - Italics,Momo,0,0,0,,Stray dogs do that all the time.
+Dialogue: 0,0:13:29.57,0:13:32.50,Default,Jimmy,0,0,0,,MOMO! You gotta tell me how to stop this!
+Dialogue: 0,0:13:32.50,0:13:34.32,Default,Jimmy,0,0,0,,I'm seriously runnin' out of time!
+Dialogue: 0,0:13:34.32,0:13:37.54,Main - Italics,Momo,0,0,0,,All right. Then go fifty \Nmeters ahead and turn left.
+Dialogue: 0,0:13:38.10,0:13:39.29,Default,Jimmy,0,0,0,,Got it.
+Dialogue: 0,0:13:43.50,0:13:45.75,Default,Jimmy,0,0,0,,Oh, boy. Another river?
+Dialogue: 0,0:13:46.23,0:13:48.40,Main - Italics,Momo,0,0,0,,Please look in front of us.
+Dialogue: 0,0:13:49.55,0:13:51.18,Default,Jimmy,0,0,0,,There's a bridge. So what?
+Dialogue: 0,0:13:51.18,0:13:53.20,Main - Italics,Momo,0,0,0,,That is our destination.
+Dialogue: 0,0:13:53.20,0:13:54.27,Default,Jimmy,0,0,0,,Say what?
+Dialogue: 0,0:13:54.27,0:13:57.52,Main - Italics,Momo,0,0,0,,There is an urban legend that calls \Nthis "the dog-killing bridge."
+Dialogue: 0,0:13:57.52,0:14:01.21,Main - Italics,Momo,0,0,0,,The legend says that when \Ndogs cross this bridge,
+Dialogue: 0,0:14:01.21,0:14:04.35,Main - Italics,Momo,0,0,0,,they suddenly get the urge to jump \Noff the side and kill themselves.
+Dialogue: 0,0:14:04.63,0:14:06.94,Default,Jimmy,0,0,0,,What kinda weird legend is that?
+Dialogue: 0,0:14:07.53,0:14:09.40,Default,Jimmy,0,0,0,,I ain't plannin' to die any time soon.
+Dialogue: 0,0:14:13.67,0:14:15.48,Default,Jimmy,0,0,0,,What a nasty wind!
+Dialogue: 0,0:14:15.78,0:14:18.82,Default,Jimmy,0,0,0,,Ugh. Blew my hood off.
+Dialogue: 0,0:14:20.65,0:14:22.18,Default,Jimmy,0,0,0,,I'm a monster!
+Dialogue: 0,0:14:29.68,0:14:30.79,Default,Jimmy,0,0,0,,Fushigi!
+Dialogue: 0,0:14:38.95,0:14:43.35,Main - Italics,Momo,0,0,0,,It seems that will be your \Nfate very soon, Jimmy-san.
+Dialogue: 0,0:14:44.03,0:14:46.38,Default,Jimmy,0,0,0,,Why the hell did ya bring me here?
+Dialogue: 0,0:14:46.38,0:14:48.01,Default,Jimmy,0,0,0,,You messin' with me or somethin'?!
+Dialogue: 0,0:14:48.01,0:14:52.60,Main - Italics,Momo,0,0,0,,You're the one who said you didn't \Nwant to become a monster, correct?
+Dialogue: 0,0:14:52.60,0:14:53.44,Default,Jimmy,0,0,0,,Yeah!
+Dialogue: 0,0:14:53.44,0:14:58.03,Main - Italics,Momo,0,0,0,,Then you should disappear. If you die\N here, you'll go away permanently,
+Dialogue: 0,0:14:58.03,0:15:02.17,Main - Italics,Momo,0,0,0,,and that will halt your transformation \Ninto a Human-Faced Dog.
+Dialogue: 0,0:15:03.07,0:15:05.68,Default,Jimmy,0,0,0,,Die... and disappear?
+Dialogue: 0,0:15:08.14,0:15:09.25,Default,Jimmy,0,0,0,,Like hell!
+Dialogue: 0,0:15:11.72,0:15:15.26,Default,Jimmy,0,0,0,,If I die, then Fushigi...
+Dialogue: 0,0:15:15.71,0:15:18.25,Flashback,Fushigi,0,0,0,,If you want to follow me, suit yourself.
+Dialogue: 0,0:15:18.61,0:15:20.92,Flashback,Fushigi,0,0,0,,Will you be okay by yourself?
+Dialogue: 0,0:15:21.34,0:15:23.01,Flashback,Fushigi,0,0,0,,You must be too injured to walk.
+Dialogue: 0,0:15:23.97,0:15:25.04,Flashback,Fushigi,0,0,0,,Jimmy...
+Dialogue: 0,0:15:25.58,0:15:28.10,Main - Italics,Momo,0,0,0,,What have you decided, Jimmy-san?
+Dialogue: 0,0:15:35.33,0:15:36.63,Default,Jimmy,0,0,0,,Fushigi...
+Dialogue: 0,0:15:40.37,0:15:42.16,Default,Jimmy,0,0,0,,Fushi...
+Dialogue: 0,0:15:54.80,0:15:58.01,Main - Italics,Momo,0,0,0,,Now jump up onto the railing.
+Dialogue: 0,0:16:01.25,0:16:04.75,Main - Italics,Momo,0,0,0,,Dive into that black hole, \Nand it'll all be over.
+Dialogue: 0,0:16:12.43,0:16:15.55,Main - Italics,Momo,0,0,0,,Yes, you'll die and disappear forever.
+Dialogue: 0,0:16:15.55,0:16:17.66,Main - Italics,Momo,0,0,0,,You'll make Fushigi-san very happy.
+Dialogue: 0,0:16:32.76,0:16:35.35,Default,Fushigi,0,0,0,,Jimmy, don't you recognize me?
+Dialogue: 0,0:16:36.60,0:16:39.27,Default,Fushigi,0,0,0,,Jimmy! It's me, Fushigi!
+Dialogue: 0,0:16:41.02,0:16:43.69,Default,Fushigi,0,0,0,,That's right! Fushigi Senno!
+Dialogue: 0,0:16:45.90,0:16:49.52,Default,Jimmy,0,0,0,,Fushigi? Who am I?
+Dialogue: 0,0:16:54.36,0:16:56.57,Default,Fushigi,0,0,0,,Jimmy! Calm down!
+Dialogue: 0,0:17:04.49,0:17:05.71,Default,Fushigi,0,0,0,,Jimmy!
+Dialogue: 0,0:17:06.88,0:17:08.56,Default,Fushigi,0,0,0,,.esruc eht etanimullI
+Dialogue: 0,0:17:08.56,0:17:10.06,Default,Fushigi,0,0,0,,.esruc eht ebircsnarT
+Dialogue: 0,0:17:10.48,0:17:12.34,Default,Fushigi,0,0,0,,.tcejorP
+Dialogue: 0,0:17:13.81,0:17:14.77,Default,Fushigi,0,0,0,,Break!
+Dialogue: 0,0:17:14.42,0:17:15.72,Signs,text,0,0,0,,KAERB
+Dialogue: 0,0:17:17.30,0:17:18.09,Signs,text,0,0,0,,CURSE
+Dialogue: 0,0:17:30.95,0:17:32.03,Default,Fushigi,0,0,0,,Jimmy!
+Dialogue: 0,0:17:32.03,0:17:33.53,Main - Italics,Momo,0,0,0,,Fushigi-san.
+Dialogue: 0,0:17:37.62,0:17:40.74,Main - Italics,Momo,0,0,0,,Pleased to meet you. My name is MOMO.
+Dialogue: 0,0:17:40.74,0:17:44.84,Default,Fushigi,0,0,0,,I don't give a damn about your name. \NYou were manipulating him, weren't you?
+Dialogue: 0,0:17:46.72,0:17:48.24,Default,Fushigi,0,0,0,,Then I'll collect you, too.
+Dialogue: 0,0:17:48.24,0:17:50.92,Main - Italics,Momo,0,0,0,,Are you sure? While \Nyou're busy doing that,
+Dialogue: 0,0:17:50.92,0:17:55.10,Main - Italics,Momo,0,0,0,,Jimmy-san will lose himself \Nand turn into a monster completely.
+Dialogue: 0,0:17:55.10,0:17:58.80,Main - Italics,Momo,0,0,0,,Once he does, he'll never be able \Nto return to his human self.
+Dialogue: 0,0:17:59.80,0:18:03.63,Main - Italics,Momo,0,0,0,,I can lead you to him. Allow me to help.
+Dialogue: 0,0:18:03.63,0:18:04.59,Default,Fushigi,0,0,0,,Lead me?
+Dialogue: 0,0:18:04.59,0:18:07.94,Main - Italics,Momo,0,0,0,,You understand where this is, correct?
+Dialogue: 0,0:18:07.94,0:18:09.31,Default,Fushigi,0,0,0,,That town?
+Dialogue: 0,0:18:18.39,0:18:21.51,Default,Jimmy,0,0,0,,I must've met 'em before!
+Dialogue: 0,0:18:21.51,0:18:22.67,Flashback,Boy (Fushigi),0,0,0,,Jimmy.
+Dialogue: 0,0:18:23.81,0:18:24.81,Flashback,Boy (Fushigi),0,0,0,,Jimmy!
+Dialogue: 0,0:18:26.64,0:18:30.13,Default,Jimmy,0,0,0,,I must know him... I must know him!
+Dialogue: 0,0:18:31.24,0:18:36.50,Flashback,Boy (Fushigi),0,0,0,,Fine. You can wear this. \NIt's got the hood you wanted.
+Dialogue: 0,0:18:38.43,0:18:39.33,Default,Jimmy,0,0,0,,I know him...
+Dialogue: 0,0:18:39.71,0:18:46.34,Default,Jimmy,0,0,0,,I know him, I know him, \NI... know him, I know him!
+Dialogue: 0,0:18:47.70,0:18:51.03,Flashback,Boy (Fushigi),0,0,0,,Fushigi. My name is Fushigi Senno.
+Dialogue: 0,0:18:51.03,0:18:55.85,Default,Jimmy,0,0,0,,That's Fushigi! That's my \Npartner, Fushigi Senno!
+Dialogue: 0,0:18:56.39,0:19:01.40,Default,Jimmy,0,0,0,,How could I forget and bite him?\N I can't control myself!
+Dialogue: 0,0:19:02.07,0:19:06.25,Default,Jimmy,0,0,0,,Fushigi, I'm sorry! I'm sorry!
+Dialogue: 0,0:19:06.25,0:19:10.15,Default,Jimmy,0,0,0,,I'm sorry! Fushigi!
+Dialogue: 0,0:19:11.24,0:19:12.48,Default,Fushigi,0,0,0,,Jimmy.
+Dialogue: 0,0:19:19.27,0:19:22.31,Default,Jimmy,0,0,0,,Isn't this the place...
+Dialogue: 0,0:19:23.42,0:19:27.39,Default,Fushigi,0,0,0,,That's right. This is where we first met.
+Dialogue: 0,0:19:28.28,0:19:29.69,Default,Jimmy,0,0,0,,Fushigi...
+Dialogue: 0,0:19:31.05,0:19:32.23,Default,Fushigi,0,0,0,,Jimmy!
+Dialogue: 0,0:19:32.84,0:19:39.45,Default,Jimmy,0,0,0,,Damn it! I can't take this!
+Dialogue: 0,0:19:40.61,0:19:41.62,Default,Fushigi,0,0,0,,Jimmy!
+Dialogue: 0,0:19:42.32,0:19:44.74,Default,Jimmy,0,0,0,,No! Stay back!
+Dialogue: 0,0:19:44.74,0:19:49.02,Default,Jimmy,0,0,0,,Just leave me alone!\N I don't wanna bite you again!
+Dialogue: 0,0:19:49.87,0:19:51.29,Default,Fushigi,0,0,0,,It doesn't bother me.
+Dialogue: 0,0:19:54.12,0:19:56.94,Default,Jimmy,0,0,0,,No! No!
+Dialogue: 0,0:20:02.36,0:20:06.82,Default,Fushigi,0,0,0,,I finally caught up to you.\N How could I ever abandon my partner?
+Dialogue: 0,0:20:09.19,0:20:13.27,Default,Jimmy,0,0,0,,But I... I...
+Dialogue: 0,0:20:13.27,0:20:16.88,Default,Jimmy,0,0,0,,I've got to protect you, Fushigi!
+Dialogue: 0,0:20:18.35,0:20:25.22,Default,Jimmy,0,0,0,,There's something I have to tell you!
+Dialogue: 0,0:20:25.62,0:20:30.54,Default,Jimmy,0,0,0,,I heard something from the \Nguy with the blue umbrella!
+Dialogue: 0,0:20:30.54,0:20:34.58,Default,Jimmy,0,0,0,,Once you collect all \Nof the curse marks...
+Dialogue: 0,0:20:34.58,0:20:38.03,Default,Jimmy,0,0,0,,you're gonna disappear!
+Dialogue: 0,0:20:38.03,0:20:39.15,Default,Fushigi,0,0,0,,I know.
+Dialogue: 0,0:20:40.94,0:20:46.15,Default,Fushigi,0,0,0,,It's fine. I still plan to \Ncollect the curse marks.
+Dialogue: 0,0:20:47.07,0:20:52.01,Default,Fushigi,0,0,0,,You see, Jimmy, I don't remember \Nwho or what I am anyway.
+Dialogue: 0,0:20:53.52,0:20:57.61,Default,Fushigi,0,0,0,,All I do remember is that my little sister\N is spreading curses from urban legends
+Dialogue: 0,0:20:57.61,0:20:59.88,Default,Fushigi,0,0,0,,and I have to catch her at all costs.
+Dialogue: 0,0:20:59.88,0:21:06.35,Default,Fushigi,0,0,0,,Then, once I've collected the curse marks \Nand caught Himitsu, I'll just disappear.
+Dialogue: 0,0:21:08.05,0:21:14.02,Default,Fushigi,0,0,0,,No matter what, collecting those urban \Nlegends is my only goal in life.
+Dialogue: 0,0:21:16.16,0:21:17.22,Default,Fushigi,0,0,0,,Jimmy!
+Dialogue: 0,0:21:19.74,0:21:21.63,Default,Fushigi,0,0,0,,There's still time if we act now.
+Dialogue: 0,0:21:23.56,0:21:28.01,Default,Jimmy,0,0,0,,I never had friends before \Nbecoming a Human-Faced Dog!
+Dialogue: 0,0:21:28.01,0:21:31.94,Default,Jimmy,0,0,0,,You're my only friend, Fushigi Senno!
+Dialogue: 0,0:21:31.94,0:21:36.81,Default,Jimmy,0,0,0,,So please, let me stay by your side!
+Dialogue: 0,0:21:36.81,0:21:39.52,Default,Jimmy,0,0,0,,Let's keep traveling together!
+Dialogue: 0,0:21:39.52,0:21:44.69,Default,Jimmy,0,0,0,,I... I want to stay with you, Fushigi!
+Dialogue: 0,0:21:44.69,0:21:48.71,Default,Fushigi,0,0,0,,Jimmy, you'll always be here inside me.
+Dialogue: 0,0:21:48.71,0:21:51.53,Default,Fushigi,0,0,0,,There's no way I could ever forget you.
+Dialogue: 0,0:21:53.94,0:21:55.42,Default,Fushigi,0,0,0,,.esruc eht etanimullI
+Dialogue: 0,0:21:56.04,0:21:57.66,Default,Fushigi,0,0,0,,.esruc eht ebircsnarT
+Dialogue: 0,0:21:57.66,0:21:59.59,Default,Fushigi,0,0,0,,.tcejorP
+Dialogue: 0,0:22:00.70,0:22:01.71,Default,Fushigi,0,0,0,,Break!
+Dialogue: 0,0:22:00.79,0:22:01.84,Signs,text,0,0,0,,KAERB
+Dialogue: 0,0:22:02.63,0:22:06.67,Signs,text,0,0,0,,CURSE
+Dialogue: 0,0:22:03.83,0:22:06.68,Default,Jimmy,0,0,0,,I won't... forget you, either...
+Dialogue: 0,0:22:06.68,0:22:11.67,Default,Jimmy,0,0,0,,I'll never, ever forget you, Fushigi.
+Dialogue: 0,0:22:13.43,0:22:14.60,Signs,text,0,0,0,,ESRUC
+Dialogue: 0,0:22:20.71,0:22:25.07,Main - Italics,Momo,0,0,0,,So you returned him to his \Nhuman form after all.
+Dialogue: 0,0:22:25.07,0:22:26.99,Default,Fushigi,0,0,0,,What's it matter to a rogue app like you?
+Dialogue: 0,0:22:26.99,0:22:30.17,Default,Fushigi,0,0,0,,Now I'll collect your curse mark, too.
+Dialogue: 0,0:22:36.27,0:22:37.87,Main - Italics,Himitsu,0,0,0,,Hi, Big Brother.
+Dialogue: 0,0:22:39.15,0:22:40.61,Default,Fushigi,0,0,0,,Himitsu!
+Dialogue: 0,0:22:40.61,0:22:45.84,Main - Italics,Himitsu,0,0,0,,If you don't hurry up and catch me, the \Ncities will be overrun with urban legends.
+Dialogue: 0,0:22:45.84,0:22:48.83,Default,Fushigi,0,0,0,,I'll catch you soon enough, Himitsu.
+Dialogue: 0,0:22:51.05,0:22:54.34,Main - Italics,Momo,0,0,0,,It appears that Himitsu-san \Njust contacted you.
+Dialogue: 0,0:22:54.34,0:22:56.09,Default,Fushigi,0,0,0,,That's none of your business.
+Dialogue: 0,0:22:56.09,0:22:58.95,Main - Italics,Momo,0,0,0,,I can be your partner now.
+Dialogue: 0,0:22:58.52,0:23:01.52,Signs,text,0,0,0,,SHRINE FOREST
+Dialogue: 0,0:22:58.95,0:23:01.80,Main - Italics,Momo,0,0,0,,Let's go search for Himitsu-san together.
+Dialogue: 0,0:23:06.66,0:23:09.79,Default,Man,0,0,0,,Huh? Where am I?
+Dialogue: 0,0:23:13.70,0:23:16.20,Default,Man,0,0,0,,Whoa! Why am I naked?
+Dialogue: 0,0:23:16.51,0:23:21.01,Default,Man,0,0,0,,I must've had a really \Nweird dream or something.
+Dialogue: 0,0:23:34.85,0:23:39.48,Signs,Credits,0,0,0,,TRANSLATION: MICHAEL ARNOLD\NTIMING: EDGAR CRUZ
+Dialogue: 0,0:23:39.48,0:23:44.82,Signs,Credits,0,0,0,,QUALITY CHECK: SALEM ALABANZA\NTRANSLATION CHECK: BECKY COTTRILL
+Dialogue: 0,0:24:58.01,0:25:03.09,Signs,text,0,0,0,,NEXT TIME \N A FRENZY OF CRUELTY
+
