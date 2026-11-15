@@ -1,0 +1,399 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: sign_generic,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,18,1
+Style: high,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,50,1
+Style: highitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,50,1
+Style: screen_text,Verdana,20,&H00F0E8E4,&H000000FF,&H006F635C,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:10.92,0:00:14.11,Default,Phoenix,0,0,0,,Someone... Anyone!
+Dialogue: 0,0:00:14.97,0:00:16.95,Default,Phoenix,0,0,0,,Protect Irene-sama!
+Dialogue: 0,0:00:22.02,0:00:26.71,Default,Malaxus,0,0,0,,You're going to do a very \Nimportant job for us.
+Dialogue: 0,0:00:30.90,0:00:33.59,italics,Irene,0,0,0,,The High Priest of Yatan, Malaxus...
+Dialogue: 0,0:00:34.51,0:00:38.37,italics,Irene,0,0,0,,With the power of thousands, no, tens \Nof thousands of sacrifices and curses,
+Dialogue: 0,0:00:38.72,0:00:41.39,italics,Irene,0,0,0,,he drove the king of Vangust mad
+Dialogue: 0,0:00:41.72,0:00:45.13,italics,Irene,0,0,0,,and caused a plague in \Nthe lands of Count Raven.
+Dialogue: 0,0:00:45.62,0:00:46.78,italics,Irene,0,0,0,,He's a monster.
+Dialogue: 0,0:00:52.59,0:00:55.80,italics,Irene,0,0,0,,Doran, please give me strength!
+Dialogue: 0,0:01:18.28,0:01:19.81,sign_generic,Sign,0,0,0,,{\fad(51,0)\bord3\blur2\an1\fs17\b1\fnGeorgia\c&H095DF8&\3c&HBFBEC1&\t(0,1469,\fs16)\move(365.999,253.999,359.333,248.667,0,1450)}O{\c&H0A27EB&}v{\c&H1828CE&}e{\c&H1026F3&\}r{\c&H1705C3&}g{\c&H1306A0&}e{\c&H0F028F&}a{\c&H090544&}r{\c&H211D2F&}e{\c&H000000&}d
+Dialogue: 0,0:01:19.81,0:01:22.91,sign_generic,Sign,0,0,0,,{\fad(0,1080)\bord3\blur2\an1\fs16\b1\fnGeorgia\c&H095DF8&\3c&HBFBEC1&\t(0,273,\3c&HFEFEFE&)\t(0,273,\c&H252525&)\pos(359.333,248.667)}O{\c&H0A27EB&\t(0,273,\c&H666767&)}v{\c&H1828CE&\t(0,273,\c&H363636&)}e{\c&H1026F3&\t(0,273,\c&H7E7E7E&)}r{\c&H1705C3&\t(0,273,\c&H5E5E5E&)}g{\c&H1306A0&\t(0,273,\c&H252525&)}e{\c&H0F028F&\t(0,273,\c&H666767&)}a{\c&H090544&\t(0,273,\c&H363636&)}r{\c&H211D2F&\t(0,273,\c&H7E7E7E&)}e{\c&H000000&\t(0,273,\c&H5E5E5E&)}d
+Dialogue: 0,0:02:27.83,0:02:30.19,Default,Grid,0,0,0,,I've finally got it!
+Dialogue: 0,0:02:30.19,0:02:32.10,Default,Grid,0,0,0,,Dainsleif!
+Dialogue: 0,0:02:32.06,0:02:33.21,screen_text,Sign,0,0,0,,{\fs10\fad(133,0)\c&H6756A9&\3c&H4A4663&\pos(320.667,230)}Dainsleif (Replica)
+Dialogue: 0,0:02:33.91,0:02:36.51,italics,Grid,0,0,0,,If I enhance it, everyone \Nwill think I'm so cool!
+Dialogue: 0,0:02:36.73,0:02:41.34,Default,Khan,0,0,0,,I can't believe you found the picture of \NPagma's Sword Dance my ancestors left!
+Dialogue: 0,0:02:41.79,0:02:45.32,Default,Khan,0,0,0,,You're the man I respect the most!
+Dialogue: 0,0:02:45.63,0:02:50.23,Default,Grid,0,0,0,,You know, I'd like to get \Nthat armor, Valhalla, too.
+Dialogue: 0,0:02:53.88,0:02:56.72,Default,Khan,0,0,0,,You're still tired from your journey.
+Dialogue: 0,0:02:56.72,0:02:58.95,Default,Khan,0,0,0,,Get some rest first.
+Dialogue: 0,0:03:00.43,0:03:01.90,Default,Grid,0,0,0,,He changed the subject.
+Dialogue: 0,0:03:05.58,0:03:07.49,Default,Man,0,0,0,,Is Grid-sama here?
+Dialogue: 0,0:03:07.94,0:03:09.66,Default,Grid,0,0,0,,That's me.
+Dialogue: 0,0:03:09.93,0:03:13.33,Default,Man,0,0,0,,Administrator Valdi wishes to \Nspeak to you at the castle.
+Dialogue: 0,0:03:13.33,0:03:15.51,Default,Man,0,0,0,,He says it's urgent.
+Dialogue: 0,0:03:24.01,0:03:26.51,Default,Grid,0,0,0,,Wow! Check it out!
+Dialogue: 0,0:03:26.87,0:03:29.68,Default,Grid,0,0,0,,There's a forge in the castle, too, huh?
+Dialogue: 0,0:03:29.68,0:03:31.79,Default,Valdi,0,0,0,,I won't waste your time.
+Dialogue: 0,0:03:31.79,0:03:35.15,Default,Valdi,0,0,0,,I want you to make something for me, fast.
+Dialogue: 0,0:03:35.50,0:03:43.16,Default,Valdi,0,0,0,,As you know, the Blood Witch, Yura, \Nhas become the Eighth Servant of Yatan,
+Dialogue: 0,0:03:43.16,0:03:46.24,Default,Valdi,0,0,0,,and with that, the church \Nhas become far stronger.
+Dialogue: 0,0:03:47.43,0:03:53.87,Default,Valdi,0,0,0,,Kinbai Fortress, one of the strongest \Nin our territory, has fallen.
+Dialogue: 0,0:03:54.42,0:03:55.65,italics,Grid,0,0,0,,Yura, huh?
+Dialogue: 0,0:03:56.01,0:03:58.13,italics,Grid,0,0,0,,I don't like the sound of this.
+Dialogue: 0,0:03:58.13,0:04:01.25,Default,Valdi,0,0,0,,I'd like you to make this shield for us,
+Dialogue: 0,0:04:01.25,0:04:04.82,Default,Valdi,0,0,0,,to help stop their invasion.
+Dialogue: 0,0:04:11.23,0:04:14.29,italics,System,0,0,0,,You have learned the recipe \Nfor the Divine Shield.
+Dialogue: 0,0:04:14.75,0:04:17.31,screen_text,Sign,0,0,0,,{\fad(129,0)\fs10\b0\pos(320,121.333)}Quest
+Dialogue: 0,0:04:14.75,0:04:17.31,screen_text,Sign,0,0,0,,{\fs10\fad(129,0)\pos(320,159.333)\3c&H7A7471&}A Deal with the Administrator 2 (AA)
+Dialogue: 1,0:04:14.75,0:04:17.31,screen_text,Sign,0,0,0,,{\fs14\bord0.75\fad(129,0)\b0\c&HD3D0CC&\pos(320,170)}Construct and turn in the "Divine Shield"\Nto stop the Yatan Church's invasion.\N\NClear Condition: Create and turn in a "Divine Shield"\Nof epic class or greater within two days.\NClear Reward: Depends on quality.\N\NFailure: Deal is canceled.\NConnected quests will be lost.
+Dialogue: 0,0:04:14.75,0:04:17.31,screen_text,Sign,0,0,0,,{\fad(129,0)\an8\bord0\p1\fscy220\alpha&H5&\c&H8B7261&\pos(320,170.667)}m 0 0 l 320 0 320 58 0 58
+Dialogue: 0,0:04:15.13,0:04:17.31,italics,System,0,0,0,,A new quest has been generated.
+Dialogue: 0,0:04:18.07,0:04:19.38,italicstop,System,0,0,0,,A Divine Shield contains
+Dialogue: 0,0:04:19.38,0:04:22.27,italicstop,System,0,0,0,,the protective blessing of \NRebecca, the goddess of light.
+Dialogue: 0,0:04:21.87,0:04:23.47,italics,Grid,0,0,0,,A Divine Shield, huh?
+Dialogue: 0,0:04:22.27,0:04:25.27,italicstop,System,0,0,0,,It is powerful against \Ndarkness-type monsters, demons,
+Dialogue: 0,0:04:23.47,0:04:26.53,italics,Grid,0,0,0,,This is my chance to make the money \NI couldn't make during my hunt!
+Dialogue: 0,0:04:25.27,0:04:27.77,italicstop,System,0,0,0,,and members of the Yatan Church.
+Dialogue: 0,0:04:29.52,0:04:34.12,Default,Valdi,0,0,0,,I've brought a priest here \Nto help bless the shield.
+Dialogue: 0,0:04:35.19,0:04:39.13,Default,Cassus,0,0,0,,I am a servant of Rebecca-sama, \Nthe goddess of light.
+Dialogue: 0,0:04:39.13,0:04:42.09,Default,Cassus,0,0,0,,My name is Cassus.
+Dialogue: 0,0:04:42.33,0:04:44.50,Default,Grid,0,0,0,,Uh... hi...
+Dialogue: 0,0:04:50.65,0:04:52.81,italics,Grid,0,0,0,,Mythril is tough to refine.
+Dialogue: 0,0:04:53.09,0:04:55.35,italics,Grid,0,0,0,,I won't be able to make more than two.
+Dialogue: 0,0:04:55.35,0:04:58.81,italics,Grid,0,0,0,,And if I get a rare, the deal is off.
+Dialogue: 0,0:04:59.24,0:05:02.44,italics,Grid,0,0,0,,I can't mess this up,\Nfor my family's sake, too!
+Dialogue: 0,0:05:07.10,0:05:11.91,Default,Toban,0,0,0,,Master, I've found out who the girl \Nwho took down Faker really was.
+Dialogue: 0,0:05:11.91,0:05:13.58,Default,Jishuka,0,0,0,,Okay. Let's hear it.
+Dialogue: 0,0:05:13.58,0:05:14.41,Default,Toban,0,0,0,,Of course.
+Dialogue: 0,0:05:14.41,0:05:18.38,Default,Toban,0,0,0,,She gave her name as "Erina" during the \NWinstone item crafting competition,
+Dialogue: 0,0:05:18.38,0:05:20.29,Default,Toban,0,0,0,,but her real name is Euphemina.
+Dialogue: 0,0:05:21.60,0:05:22.84,Default,Jishuka,0,0,0,,Euphemina?
+Dialogue: 0,0:05:23.20,0:05:27.05,Default,Toban,0,0,0,,For the moment, it seems she has \Nno affiliation with our enemies,
+Dialogue: 0,0:05:27.05,0:05:29.05,Default,Toban,0,0,0,,the Giant Guild, but...
+Dialogue: 0,0:05:30.60,0:05:33.06,Default,Jishuka,0,0,0,,We'll be in trouble if they \Nstart going after her.
+Dialogue: 0,0:05:33.06,0:05:37.84,Default,Jishuka,0,0,0,,There are only a few blacksmiths in \Nthis game who can make good equipment.
+Dialogue: 0,0:05:38.52,0:05:43.22,Default,Jishuka,0,0,0,,Every guild needs someone who can \Nmake something like those jaffa arrows.
+Dialogue: 0,0:05:43.76,0:05:47.60,Default,Jishuka,0,0,0,,We'll use Euphemina as a clue to find \Nthe blacksmith we're really after,
+Dialogue: 0,0:05:47.60,0:05:48.75,Default,Jishuka,0,0,0,,no matter what it takes!
+Dialogue: 0,0:05:48.75,0:05:49.66,Default,All,0,0,0,,Right!
+Dialogue: 0,0:05:52.87,0:05:56.54,Default,Grid,0,0,0,,I pulled it off in time, just barely...
+Dialogue: 0,0:05:57.51,0:06:01.46,Default,Grid,0,0,0,,So? Were you able to imbue it \Nwith holy power or whatever?
+Dialogue: 0,0:06:01.75,0:06:02.68,Default,Cassus,0,0,0,,Yes.
+Dialogue: 0,0:06:04.69,0:06:08.72,Default,Cassus,0,0,0,,Rebecca-sama answered my prayer.
+Dialogue: 0,0:06:08.72,0:06:10.45,Default,Grid,0,0,0,,Wait, seriously?!
+Dialogue: 0,0:06:11.24,0:06:12.71,Default,Grid,0,0,0,,Let's take a look...
+Dialogue: 0,0:06:13.24,0:06:14.60,screen_text,Sign,0,0,0,,{\blur2.5\fad(133,0)\c&HD4C56B&\frx346\fry26\pos(222,116.666)\frz21.05\3c&H574A43&}Divine Shield
+Dialogue: 0,0:06:13.24,0:06:14.60,screen_text,Sign,0,0,0,,{\b0\blur1\bord0.5\fad(133,0)\frx346\fry26\3c&H6E6764&\frz23.03\c&HD7D6CA&\pos(238,177.999)}Class: {\c&HCAA06D&}Rare
+Dialogue: 1,0:06:13.24,0:06:14.60,screen_text,Sign,0,0,0,,{\b0\fad(133,0)\c&HE5E5E5&\3c&H6C6D64&\frz24.17\frx346\fry20\pos(206.667,214)}Durability
+Dialogue: 1,0:06:13.24,0:06:14.60,screen_text,Sign,0,0,0,,{\b0\fad(133,0)\c&HE5E5E5&\3c&H6C6D64&\frz24.17\frx346\fry20\pos(219.334,238)}Defense
+Dialogue: 1,0:06:13.24,0:06:14.60,screen_text,Sign,0,0,0,,{\b0\fad(133,0)\c&HE5E5E5&\3c&H6C6D64&\frz24.17\frx346\fry20\pos(208,274.667)}Magic Resistance
+Dialogue: 0,0:06:13.24,0:06:14.60,screen_text,Sign,0,0,0,,{\blur3\an8\bord0\p1\fscy220\frx6\fry10\alpha&H0&\c&H737764&\fad(133,0)\frz24.77\pos(201.334,211)}m 0 0 l 90 0 90 12 0 12
+Dialogue: 0,0:06:13.24,0:06:14.60,screen_text,Sign,0,0,0,,{\blur3\an8\bord0\p1\fscy220\frx6\fry10\alpha&H0&\c&H737764&\fad(133,0)\frz24.77\pos(210.667,239)}m 0 0 l 90 0 90 12 0 12
+Dialogue: 0,0:06:13.24,0:06:14.60,screen_text,Sign,0,0,0,,{\blur3\an8\bord0\p1\fscy220\frx6\fry10\alpha&H0&\c&H666B56&\fad(133,0)\frz24.77\pos(219.334,264)}m 0 0 l 112 0 112 12 0 13
+Dialogue: 0,0:06:17.30,0:06:19.29,Default,Grid,0,0,0,,This thing ain't blessed, \Nyou dickwad.
+Dialogue: 0,0:06:19.29,0:06:20.52,Default,Cassus,0,0,0,,Er, no.
+Dialogue: 0,0:06:21.36,0:06:23.19,Default,Cassus,0,0,0,,The one she blessed was...
+Dialogue: 0,0:06:23.63,0:06:25.40,Default,Cassus,0,0,0,,this one.
+Dialogue: 0,0:06:25.71,0:06:27.07,screen_text,Sign,0,0,0,,{\fs15\bord0.5\fad(133,0)\c&H3994C2&\pos(212,140)\3c&H4D4540&\frx16\fry350\frz1.03}Perfect Divine Shield
+Dialogue: 0,0:06:25.90,0:06:31.15,italicstop,System,0,0,0,,Crafting a legendary item has \Nincreased all your stats by 25.
+Dialogue: 0,0:06:29.68,0:06:33.95,Default,Grid,0,0,0,,I did it! Legendary, hell yeah!
+Dialogue: 0,0:06:31.15,0:06:33.95,italicstop,System,0,0,0,,Your fame throughout the continent \Nhas increased by 1,000.
+Dialogue: 0,0:06:34.74,0:06:36.95,Default,Valdi,0,0,0,,Did you finish the shield?
+Dialogue: 0,0:06:37.79,0:06:39.79,Default,Grid,0,0,0,,Pretty perfect, right?
+Dialogue: 0,0:06:39.79,0:06:42.16,Default,Grid,0,0,0,,Now, cough up the cash.
+Dialogue: 0,0:06:42.16,0:06:43.74,Default,Valdi,0,0,0,,We'll pay later.
+Dialogue: 0,0:06:43.74,0:06:45.50,Default,Valdi,0,0,0,,First, you need to leave.
+Dialogue: 0,0:06:45.50,0:06:47.68,Default,Grid,0,0,0,,What?! That wasn't the deal!
+Dialogue: 0,0:06:47.68,0:06:51.48,Default,Valdi,0,0,0,,Funds are tight since \Nthe start of the war.
+Dialogue: 0,0:06:51.48,0:06:52.92,Default,Grid,0,0,0,,Then give it back!
+Dialogue: 0,0:06:52.92,0:06:55.01,Default,Grid,0,0,0,,I'm not running a charity!
+Dialogue: 0,0:06:55.99,0:06:59.02,Default,Valdi,0,0,0,,How arrogant. Throw him in the dungeon.
+Dialogue: 0,0:06:59.02,0:07:01.52,Default,Grid,0,0,0,,Wha... This is bullshit!
+Dialogue: 0,0:06:59.36,0:07:01.80,Default,Valdi,0,0,0,,Bring it to him.
+Dialogue: 0,0:07:01.80,0:07:03.23,Default,Grid,0,0,0,,Hey! Give me my money!
+Dialogue: 0,0:07:03.23,0:07:04.78,Default,Grid,0,0,0,,Shield thief!
+Dialogue: 0,0:07:03.23,0:07:05.76,Default,Cassus,0,0,0,,Rebecca, goddess of light!
+Dialogue: 0,0:07:07.19,0:07:09.07,Default,Cassus,0,0,0,,Light of Purification!
+Dialogue: 0,0:07:15.29,0:07:17.74,Default,Cassus,0,0,0,,I suspected something was off.
+Dialogue: 0,0:07:17.98,0:07:22.32,Default,Cassus,0,0,0,,Only the clergy of Rebecca \Ncan use the shield.
+Dialogue: 0,0:07:22.32,0:07:26.91,Default,Cassus,0,0,0,,But they never asked for a \Npaladin who could equip it.
+Dialogue: 0,0:07:26.91,0:07:28.73,Default,Grid,0,0,0,,Wh-What's going on?
+Dialogue: 0,0:07:28.73,0:07:32.68,Default,Cassus,0,0,0,,If they made us make something they \Ncouldn't use, it could only be...
+Dialogue: 0,0:07:32.98,0:07:34.76,Default,Cassus,0,0,0,,because they intended to steal it.
+Dialogue: 0,0:07:34.76,0:07:36.67,Default,Cassus,0,0,0,,They're followers of Yatan!
+Dialogue: 0,0:07:44.52,0:07:46.65,Default,Musta,0,0,0,,You saw through my disguise.
+Dialogue: 0,0:07:46.65,0:07:49.28,Default,Grid,0,0,0,,Who the hell are you?! \NHand over my shield!
+Dialogue: 0,0:07:49.28,0:07:54.07,Default,Cassus,0,0,0,,If he can even hold the Divine Shield, \Nhe must be a powerful Yatan follower.
+Dialogue: 0,0:07:55.16,0:07:59.87,Default,Musta,0,0,0,,You are a mere priest of Rebecca. \NYou cannot stop me, for I am Musta—
+Dialogue: 0,0:08:07.56,0:08:10.01,Default,Isabel,0,0,0,,My hunch was correct, I see.
+Dialogue: 0,0:08:13.95,0:08:16.18,screen_text,Sign,0,0,0,,{\bord3\blur3\fad(252,185)\c&H0FF2F1&\3c&H4FC1E2&\move(320,41.333,320,60,0,1920))}Isabel
+Dialogue: 0,0:08:16.18,0:08:19.09,italics,Grid,0,0,0,,Another NPC? What the hell's going on?
+Dialogue: 0,0:08:19.09,0:08:22.55,Default,Cassus,0,0,0,,Isabel-sama, you should really \Nleave the walls intact.
+Dialogue: 0,0:08:22.55,0:08:24.60,Default,Isabel,0,0,0,,This makes for a much cooler entrance!
+Dialogue: 0,0:08:24.98,0:08:27.86,Default,Isabel,0,0,0,,And you, Yatan cultist...
+Dialogue: 0,0:08:34.95,0:08:41.25,Default,Isabel,0,0,0,,First, tell me why you \Nwant the Divine Shield.
+Dialogue: 0,0:08:42.11,0:08:44.71,Default,Musta,0,0,0,,Th-That holy weapon...
+Dialogue: 0,0:08:44.71,0:08:47.82,Default,Musta,0,0,0,,Why is one of Rebecca's Daughters here?
+Dialogue: 0,0:08:47.82,0:08:50.38,Default,Isabel,0,0,0,,Now, start talking.
+Dialogue: 0,0:08:55.59,0:08:56.71,Default,Cassus,0,0,0,,Isabel-sama!
+Dialogue: 0,0:08:57.47,0:09:00.06,Default,Isabel,0,0,0,,He wants to play tag now, does he?
+Dialogue: 0,0:09:02.73,0:09:06.23,italics,Grid,0,0,0,,Is this a quest where \NI get the shield back?
+Dialogue: 0,0:09:06.23,0:09:08.94,italics,Grid,0,0,0,,I should be seeing a window \Nany second now, right?
+Dialogue: 0,0:09:14.78,0:09:17.12,Default,Grid,0,0,0,,It's been thirty minutes \Nand there's still no window.
+Dialogue: 0,0:09:18.37,0:09:21.58,Default,Grid,0,0,0,,Give me back my shield!
+Dialogue: 0,0:09:21.58,0:09:25.79,screen_text,Sign,0,0,0,,{\fscy120\c&HD8D3D3&\frx6\fry10\frz5.579\pos(271.999,42.001)}Guild
+Dialogue: 1,0:09:21.58,0:09:25.79,screen_text,Sign,0,0,0,,{\bord0.75\fs12\c&HD8D3D3&\frx6\fry10\frz8.375\pos(335.999,113.334)}Main Quests
+Dialogue: 0,0:09:21.58,0:09:25.79,screen_text,Sign,0,0,0,,{\an8\bord0\p1\fscy220\frx6\fry10\frz8.375\alpha&H0&\c&HA48C7A&\pos(338.667,112)}m 0 0 l 100 0 100 6 0 6
+Dialogue: 1,0:09:21.58,0:09:25.79,screen_text,Sign,0,0,0,,{\b0\bord0.75\fs12\c&HD8D3D3&\frx6\fry10\frz8.375\pos(339.332,148.667)}Quest
+Dialogue: 1,0:09:21.58,0:09:25.79,screen_text,Sign,0,0,0,,{\bord0.75\fs12\c&HD8D3D3&\frx6\fry10\frz8.375\pos(343.332,166.667)}Find the Blacksmith
+Dialogue: 1,0:09:21.58,0:09:25.79,screen_text,Sign,0,0,0,,{\b0\bord0.75\fs8\c&HD8D3D3&\frx6\fry10\pos(345.332,186.668)\frz8.991}Find and Recruit the Nameless Master
+Dialogue: 1,0:09:21.58,0:09:25.79,screen_text,Sign,0,0,0,,{\b0\bord0.75\fs12\c&HD8D3D3&\frx6\fry10\frz8.375\pos(351.999,225.334)}Quest
+Dialogue: 1,0:09:21.58,0:09:25.79,screen_text,Sign,0,0,0,,{\bord0.75\fs12\c&HD8D3D3&\frx6\fry10\frz10.61\pos(355.332,243.334)}Eliminate Euphemina
+Dialogue: 0,0:09:21.58,0:09:25.79,screen_text,Sign,0,0,0,,{\blur2\an8\bord0\p1\fscy220\frx6\fry10\frz8.375\alpha&H0&\c&HA48C7A&\pos(339.334,149.334)}m 0 0 l 32 0 32 6 0 6
+Dialogue: 0,0:09:21.58,0:09:25.79,screen_text,Sign,0,0,0,,{\blur2\an8\bord0\p1\fscy220\frx6\fry10\alpha&H0&\c&HA48C7A&\frz10.01\pos(354.667,238.666)}m 0 0 l 120 0 120 10 0 10
+Dialogue: 0,0:09:21.58,0:09:25.79,screen_text,Sign,0,0,0,,{\blur2\an8\bord0\p1\fscy220\frx6\fry10\frz8.375\alpha&H0&\c&HA48C7A&\pos(343.334,162)}m 0 0 l 120 0 120 18 0 18
+Dialogue: 0,0:09:21.58,0:09:25.79,screen_text,Sign,0,0,0,,{\blur2\an8\bord0\p1\fscy220\frx6\fry10\frz8.375\alpha&H0&\c&HA48C7A&\pos(352.001,224)}m 0 0 l 32 0 32 6 0 6
+Dialogue: 0,0:09:23.48,0:09:27.30,Default,Regas,0,0,0,,I need to hurry and find that blacksmith,
+Dialogue: 0,0:09:27.30,0:09:29.66,Default,Regas,0,0,0,,or I'll incur the master's wrath again.
+Dialogue: 0,0:09:31.90,0:09:34.56,Default,Regas,0,0,0,,Oh, Grid-san, was it?
+Dialogue: 0,0:09:38.43,0:09:42.51,Default,Grid,0,0,0,,You're the annoying macho man \NI met in Bairan Village...
+Dialogue: 0,0:09:42.96,0:09:44.15,Default,Grid,0,0,0,,Regas, was it?
+Dialogue: 0,0:09:44.15,0:09:46.10,Default,Regas,0,0,0,,You remember me!
+Dialogue: 0,0:09:46.10,0:09:47.67,Default,Regas,0,0,0,,What's wrong?
+Dialogue: 0,0:09:47.67,0:09:49.31,Default,Regas,0,0,0,,You look kinda down.
+Dialogue: 0,0:09:49.31,0:09:51.29,italics,Grid,0,0,0,,Oh, right. He's...
+Dialogue: 0,0:09:52.49,0:09:54.86,italics,Grid,0,0,0,,a do-gooder and a moron!
+Dialogue: 0,0:09:56.80,0:10:01.36,Default,Grid,0,0,0,,The item I made was stolen \Nby the Yatan Church!
+Dialogue: 0,0:10:01.36,0:10:02.20,Default,Regas,0,0,0,,What?!
+Dialogue: 0,0:10:02.20,0:10:03.62,Default,Grid,0,0,0,,I want to die!
+Dialogue: 0,0:10:04.47,0:10:06.49,Default,Regas,0,0,0,,Don't say that!
+Dialogue: 0,0:10:07.25,0:10:09.02,Default,Regas,0,0,0,,I'll help you!
+Dialogue: 0,0:10:09.02,0:10:11.07,Default,Regas,0,0,0,,Don't give up on life!
+Dialogue: 0,0:10:09.85,0:10:12.26,Default,Jishuka,0,0,0,,What the hell do you think you're doing?!
+Dialogue: 0,0:10:18.97,0:10:19.89,Default,Regas,0,0,0,,Owie!
+Dialogue: 0,0:10:19.89,0:10:24.06,Default,Jishuka,0,0,0,,You're helping other people instead \Nof doing your own damn work, huh?
+Dialogue: 0,0:10:24.06,0:10:26.73,Default,Grid,0,0,0,,W-Wow, she's hot.
+Dialogue: 0,0:10:26.73,0:10:31.34,Default,Regas,0,0,0,,Oh, this is Jishuka-san, \Nguildmaster of the Tzedakah Guild.
+Dialogue: 0,0:10:31.34,0:10:33.82,Default,Jishuka,0,0,0,,I'm sorry, but Regas is busy.
+Dialogue: 0,0:10:34.05,0:10:36.17,Default,Jishuka,0,0,0,,He doesn't have time to help other people.
+Dialogue: 0,0:10:36.17,0:10:37.98,Default,Grid,0,0,0,,Hey, you don't get to decide that!
+Dialogue: 0,0:10:37.98,0:10:39.91,Default,Grid,0,0,0,,He said he'd help me!
+Dialogue: 0,0:10:40.13,0:10:42.90,Default,Jishuka,0,0,0,,You're the one who just showed up \Nout of nowhere to beg for help!
+Dialogue: 0,0:10:42.90,0:10:46.58,Default,Grid,0,0,0,,Please! Give me the macho man! \NI'm begging you!
+Dialogue: 0,0:10:46.82,0:10:48.56,Default,Crowd,0,0,0,,What's that? A lover's quarrel?
+Dialogue: 0,0:10:47.70,0:10:49.83,Default,Crowd,0,0,0,,In the middle of the street?
+Dialogue: 0,0:10:50.06,0:10:52.15,Default,Jishuka,0,0,0,,Oh, fine...
+Dialogue: 0,0:10:52.15,0:10:53.79,Default,Jishuka,0,0,0,,I'll let Regas decide.
+Dialogue: 0,0:10:53.79,0:10:55.20,Default,Jishuka,0,0,0,,Will that work?
+Dialogue: 0,0:10:56.48,0:10:59.35,Default,Regas,0,0,0,,Helping the weak! Chivalry!
+Dialogue: 0,0:11:00.01,0:11:01.74,Default,Regas,0,0,0,,Let's go, Grid-san!
+Dialogue: 0,0:11:01.74,0:11:02.46,Default,Grid,0,0,0,,Macho!
+Dialogue: 0,0:11:02.46,0:11:03.51,Default,Jishuka,0,0,0,,Tch!
+Dialogue: 0,0:11:03.51,0:11:04.97,Default,Jishuka,0,0,0,,Damn it!
+Dialogue: 0,0:11:05.33,0:11:08.81,Default,Jishuka,0,0,0,,That martial arts otaku \Nis in for a lecture later.
+Dialogue: 0,0:11:08.81,0:11:10.44,Default,Woman A,0,0,0,,That wimpy-looking dude
+Dialogue: 0,0:11:10.70,0:11:13.04,Default,Woman A,0,0,0,,went up against Erina in the \Ncrafting competition, right?
+Dialogue: 0,0:11:13.04,0:11:15.24,Default,Woman B,0,0,0,,Yeah. He was with Khan-san.
+Dialogue: 0,0:11:17.29,0:11:20.57,Default,Malaxus,0,0,0,,We'll have the Divine Shield soon, too.
+Dialogue: 0,0:11:22.30,0:11:26.03,Default,Malaxus,0,0,0,,If we offer a sacrifice to endow \Nthe shield with dark magic,
+Dialogue: 0,0:11:26.49,0:11:31.29,Default,Malaxus,0,0,0,,its holy power will \Nchange into great evil.
+Dialogue: 0,0:11:42.52,0:11:46.79,Default,Malaxus,0,0,0,,And the curse will cover all of Eternal.
+Dialogue: 0,0:11:53.34,0:11:55.67,Default,Cassus,0,0,0,,It's no good! We lost him!
+Dialogue: 0,0:11:55.67,0:11:59.07,Default,Isabel,0,0,0,,He should be close. \NWe must find him, no matter what!
+Dialogue: 0,0:11:59.07,0:11:59.86,Default,Cassus,0,0,0,,Right!
+Dialogue: 0,0:12:04.72,0:12:07.15,Default,Musta,0,0,0,,Damn her sense of smell...
+Dialogue: 0,0:12:09.62,0:12:11.37,Default,Musta,0,0,0,,Malaxus-sama...
+Dialogue: 0,0:12:11.37,0:12:14.71,Default,Musta,0,0,0,,I'm sorry I couldn't bring you the shield.
+Dialogue: 0,0:12:17.29,0:12:19.21,Default,Musta,0,0,0,,Rebecca's Daughters...
+Dialogue: 0,0:12:19.46,0:12:22.79,Default,Musta,0,0,0,,I lay a curse on your clan!
+Dialogue: 0,0:12:30.60,0:12:32.22,Default,Grid,0,0,0,,Regas-san!
+Dialogue: 0,0:12:32.22,0:12:33.05,Default,Regas,0,0,0,,Yes?
+Dialogue: 0,0:12:33.05,0:12:36.37,Default,Grid,0,0,0,,What if this mountain isn't \Nthe right spot, either?
+Dialogue: 0,0:12:37.27,0:12:39.23,Default,Regas,0,0,0,,Then we'll head to the next mountain!
+Dialogue: 0,0:12:39.53,0:12:40.72,Default,Grid,0,0,0,,Seriously?
+Dialogue: 0,0:12:40.72,0:12:44.21,Default,Regas,0,0,0,,That sure is some cool armor, though.
+Dialogue: 0,0:12:45.35,0:12:48.76,Default,Grid,0,0,0,,Anyway, you're sure there's \Na Yatan hideout here?
+Dialogue: 0,0:12:49.23,0:12:50.20,Default,Regas,0,0,0,,Yes.
+Dialogue: 0,0:12:51.22,0:12:53.66,Default,Regas,0,0,0,,One of my training buddies told me
+Dialogue: 0,0:12:51.22,0:12:53.66,screen_text,Sign,0,0,0,,{\fs18\fad(259,0)\pos(117.333,14.5)\c&HD5CBC1&\3c&H766C65&}Map
+Dialogue: 0,0:12:51.22,0:12:53.66,screen_text,Sign,0,0,0,,{\fs10\fad(259,0)\c&HE2CCC1&\3c&H807369&\pos(201.333,22.5)}Luluf Mountain
+Dialogue: 0,0:12:53.93,0:12:56.73,Default,Regas,0,0,0,,that since the battles with the \Nallied army are heating up,
+Dialogue: 0,0:12:56.73,0:12:59.13,Default,Regas,0,0,0,,they've made bases everywhere.
+Dialogue: 0,0:13:09.01,0:13:12.47,Default,Grid,0,0,0,,There aren't any cultists \Non watch. It's so quiet.
+Dialogue: 0,0:13:12.47,0:13:15.14,Default,Regas,0,0,0,,This may not be just an ordinary hideout.
+Dialogue: 0,0:13:22.85,0:13:25.07,Default,Malaxus,0,0,0,,Unwelcome guests, huh?
+Dialogue: 0,0:13:34.85,0:13:37.00,screen_text,Sign,0,0,0,,{\fad(130,0)\move(309.333,85.333,330,85.333,0,2150))\c&HD7D6E4&\3c&H534F68&\frz1.409\frx20\fry20}Sixth Servant of Yatan Malaxus\Nhas appeared.
+Dialogue: 0,0:13:35.17,0:13:37.00,italics,System,0,0,0,,You have entered combat.
+Dialogue: 0,0:13:37.00,0:13:41.99,italics,System,0,0,0,,The powerful Yatan magics of \NMalaxus, Sixth Servant of Yatan,
+Dialogue: 0,0:13:41.99,0:13:47.15,italics,System,0,0,0,,will apply status effects of terror, \Nweakening, and immobility.
+Dialogue: 0,0:13:49.59,0:13:51.56,Default,Grid,0,0,0,,Debuffs at the start of the battle, huh?
+Dialogue: 0,0:13:52.30,0:13:56.52,Default,Malaxus,0,0,0,,I thought you were Musta, \Nbringing me the Divine Shield.
+Dialogue: 0,0:13:56.80,0:13:59.43,Default,Grid,0,0,0,,Damn it! So stealing it was your idea?
+Dialogue: 0,0:13:59.43,0:14:00.98,Default,Grid,0,0,0,,Give it back, now!
+Dialogue: 0,0:14:00.98,0:14:03.33,Default,Malaxus,0,0,0,,You know of the shield?
+Dialogue: 0,0:14:03.33,0:14:04.94,Default,Malaxus,0,0,0,,Then you must die!
+Dialogue: 0,0:14:07.60,0:14:08.70,Default,Grid,0,0,0,,Regas-san!
+Dialogue: 0,0:14:14.65,0:14:18.54,Default,Regas,0,0,0,,He's too strong for a sparring partner.
+Dialogue: 0,0:14:20.84,0:14:22.46,Default,Malaxus,0,0,0,,I'm impressed.
+Dialogue: 0,0:14:22.46,0:14:24.95,Default,Malaxus,0,0,0,,You can survive my magic?
+Dialogue: 0,0:14:24.95,0:14:27.38,Default,Malaxus,0,0,0,,Are you like Yura?
+Dialogue: 0,0:14:27.38,0:14:30.55,Default,Grid,0,0,0,,Yura? I'm nothing like that woman!
+Dialogue: 0,0:14:30.55,0:14:33.11,Default,Malaxus,0,0,0,,You're a foe of Yatan?
+Dialogue: 0,0:14:33.11,0:14:34.76,Default,Malaxus,0,0,0,,Then I will show no mercy!
+Dialogue: 0,0:14:35.97,0:14:37.72,Default,Grid,0,0,0,,Fast Reflexes!
+Dialogue: 0,0:14:38.05,0:14:40.69,italicstop,System,0,0,0,,The Blacksmith's Wrath activated.
+Dialogue: 0,0:14:39.65,0:14:42.27,Default,Grid,0,0,0,,I'm glad I buffed myself \Nbefore we came inside!
+Dialogue: 0,0:14:42.69,0:14:45.28,Default,Grid,0,0,0,,+5 Dainsleif!
+Dialogue: 0,0:14:46.09,0:14:48.15,Default,Grid,0,0,0,,Here I go!
+Dialogue: 0,0:14:48.62,0:14:50.30,Default,Grid,0,0,0,,Pagma's Sword Dance!
+Dialogue: 0,0:15:06.92,0:15:08.76,Default,Malaxus,0,0,0,,An amusing skill.
+Dialogue: 0,0:15:08.76,0:15:10.93,Default,Malaxus,0,0,0,,But if it doesn't hit me,\Nit means nothing!
+Dialogue: 0,0:15:15.63,0:15:17.55,Default,Grid,0,0,0,,What's with that cape?
+Dialogue: 0,0:15:17.55,0:15:20.02,Default,Grid,0,0,0,,I'll have to fire it off \Na bunch of times...
+Dialogue: 0,0:15:20.02,0:15:23.58,italics,Grid,0,0,0,,No, I don't have the mana \Nto use it that often.
+Dialogue: 0,0:15:23.58,0:15:25.98,italics,Grid,0,0,0,,I have to think about when I use it next.
+Dialogue: 0,0:15:26.39,0:15:27.19,italics,Grid,0,0,0,,Shit...
+Dialogue: 0,0:15:27.19,0:15:30.15,Default,Malaxus,0,0,0,,Weak... You're weak!
+Dialogue: 0,0:15:30.15,0:15:32.86,Default,Malaxus,0,0,0,,Fools, the both of you!
+Dialogue: 0,0:15:35.24,0:15:37.01,Default,Malaxus,0,0,0,,Now die!
+Dialogue: 0,0:15:44.92,0:15:48.67,Default,Jishuka,0,0,0,,If you don't want to get shot like \Nthat monster, stay out of my way!
+Dialogue: 0,0:15:48.67,0:15:49.93,Default,Regas,0,0,0,,Master!
+Dialogue: 0,0:15:49.93,0:15:51.63,Default,Jishuka,0,0,0,,I followed you.
+Dialogue: 0,0:15:55.30,0:15:57.89,Default,Jishuka,0,0,0,,Listen. Keep your eyes on him!
+Dialogue: 0,0:15:58.17,0:15:59.43,Default,Grid,0,0,0,,Is that...
+Dialogue: 0,0:15:59.98,0:16:01.52,Default,Grid,0,0,0,,a special jaffa arrow?
+Dialogue: 0,0:16:01.52,0:16:03.05,Default,Grid,0,0,0,,I made that!
+Dialogue: 0,0:16:04.44,0:16:05.96,Default,Jishuka,0,0,0,,So it {\i1}was{\i0} you...
+Dialogue: 0,0:16:06.46,0:16:08.30,Default,Malaxus,0,0,0,,Fools!
+Dialogue: 0,0:16:08.30,0:16:12.20,Default,Malaxus,0,0,0,,I have surpassed humanity! \NWhat can you possibly do to me?
+Dialogue: 0,0:16:13.23,0:16:15.52,Default,Jishuka,0,0,0,,Surpassed? Yeah, right.
+Dialogue: 0,0:16:15.52,0:16:16.89,Default,Jishuka,0,0,0,,You're just prey.
+Dialogue: 0,0:16:16.89,0:16:20.88,Default,Jishuka,0,0,0,,Prey for the Tzedakah Guild!
+Dialogue: 0,0:16:23.67,0:16:26.60,Default,Malaxus,0,0,0,,Me? Prey?
+Dialogue: 0,0:16:26.60,0:16:28.27,Default,Malaxus,0,0,0,,How amusing.
+Dialogue: 0,0:16:28.27,0:16:31.34,Default,Malaxus,0,0,0,,I shall sacrifice you to Yatan!
+Dialogue: 0,0:16:31.34,0:16:32.67,Default,Toban,0,0,0,,Shield of Endurance!
+Dialogue: 0,0:16:32.90,0:16:37.22,Default,Jishuka,0,0,0,,You think those weak attacks will work? \NGive us all you've got!
+Dialogue: 0,0:16:38.93,0:16:41.56,Default,Regas,0,0,0,,First, let me have the \Nhonor of fighting you!
+Dialogue: 0,0:16:42.98,0:16:45.08,Default,Regas,0,0,0,,Penetrating Fist!
+Dialogue: 0,0:16:50.38,0:16:51.62,Default,Pon,0,0,0,,Take this!
+Dialogue: 0,0:16:55.32,0:16:57.03,Default,Pon,0,0,0,,He was able to react to that attack!
+Dialogue: 0,0:16:57.03,0:16:59.59,Default,Vantner,0,0,0,,Pon! You're trying to \Nsteal my glory again?
+Dialogue: 0,0:17:00.14,0:17:03.34,Default,Pon,0,0,0,,A DPS does the damage while \Nthe Guardian Knight tanks!
+Dialogue: 0,0:17:03.34,0:17:05.84,Default,Pon,0,0,0,,Did you lose your brain \Nalong with your hair?
+Dialogue: 0,0:17:05.84,0:17:06.98,Default,Vantner,0,0,0,,What did you say to me?!
+Dialogue: 0,0:17:06.98,0:17:11.50,Default,Vantner,0,0,0,,I'll show you how powerful a \Nfull-strength Guardian Knight is!
+Dialogue: 0,0:17:10.25,0:17:12.23,top,Malaxus,0,0,0,,Pathetic...
+Dialogue: 0,0:17:12.23,0:17:13.30,Default,Malaxus,0,0,0,,Silence!
+Dialogue: 0,0:17:15.93,0:17:20.10,Default,Pon,0,0,0,,Mach Spear!
+Dialogue: 0,0:17:20.10,0:17:22.68,Default,Malaxus,0,0,0,,Don't underestimate my triple shield!
+Dialogue: 0,0:17:22.68,0:17:24.35,Default,Vantner,0,0,0,,Tomahawk!
+Dialogue: 0,0:17:26.53,0:17:28.69,Default,Vantner,0,0,0,,It only took out one?!
+Dialogue: 0,0:17:28.69,0:17:31.00,Default,Pon,0,0,0,,It's 'cause your weapon sucks!
+Dialogue: 0,0:17:31.00,0:17:33.99,Default,Pon,0,0,0,,We really do need a good blacksmith.
+Dialogue: 0,0:17:34.46,0:17:37.31,Default,Pon,0,0,0,,What? He can regenerate, too?
+Dialogue: 0,0:17:37.31,0:17:38.99,Default,Vantner,0,0,0,,All my hard work!
+Dialogue: 0,0:17:38.99,0:17:41.84,Default,Malaxus,0,0,0,,Enough of your insolence.
+Dialogue: 0,0:17:41.84,0:17:44.70,Default,Malaxus,0,0,0,,Maggots who would defy a god...
+Dialogue: 0,0:17:45.80,0:17:48.42,italics,System,0,0,0,,The powerful Yatan magics of \NMalaxus, Sixth Servant of Yatan,
+Dialogue: 0,0:17:48.42,0:17:53.15,italics,System,0,0,0,,will once again apply status effects \Nof terror, weakening, and immobility.
+Dialogue: 0,0:17:53.15,0:17:57.53,italics,System,0,0,0,,Malaxus's additional magic attack, \N"Anger of God," will activate.
+Dialogue: 0,0:17:59.97,0:18:03.68,Default,Toban,0,0,0,,A powerful debuff skill, magic \Nattacks, {\i1}and{\i0} regeneration?!
+Dialogue: 0,0:18:06.34,0:18:08.96,Default,Malaxus,0,0,0,,And now the moment of truth!
+Dialogue: 0,0:18:09.62,0:18:13.85,Default,Malaxus,0,0,0,,Watch carefully! This is how you will die!
+Dialogue: 0,0:18:15.72,0:18:17.03,Default,Vantner,0,0,0,,Regas...
+Dialogue: 0,0:18:17.03,0:18:18.74,Default,Pon,0,0,0,,Damn it all!
+Dialogue: 0,0:18:18.74,0:18:22.04,Default,Pon,0,0,0,,High-ranking players lose \Na ton of EXP when they die!
+Dialogue: 0,0:18:22.04,0:18:24.21,Default,Malaxus,0,0,0,,Offer your screams up to Malaxus!
+Dialogue: 0,0:18:24.21,0:18:25.35,italics,Jishuka,0,0,0,,What do I do?
+Dialogue: 0,0:18:25.35,0:18:28.25,italics,Jishuka,0,0,0,,Try to rescue him and \Nput everyone in danger?
+Dialogue: 0,0:18:28.25,0:18:31.42,italics,Jishuka,0,0,0,,Or give up on Regas and \Nconserve our strength?
+Dialogue: 0,0:18:32.14,0:18:36.26,Default,Grid,0,0,0,,Let go of the macho man, shithead!
+Dialogue: 0,0:18:37.93,0:18:39.84,Default,Grid,0,0,0,,Pagma's Sword Dance!
+Dialogue: 0,0:18:40.55,0:18:41.57,Default,Grid,0,0,0,,Sei!
+Dialogue: 0,0:18:45.06,0:18:48.18,italics,System,0,0,0,,Malaxus has been immobilized \Nfor three seconds.
+Dialogue: 0,0:18:48.69,0:18:49.58,top,Grid,0,0,0,,You okay?
+Dialogue: 0,0:18:48.69,0:18:49.58,italics,Malaxus,0,0,0,,Why?
+Dialogue: 0,0:18:49.92,0:18:54.27,italics,Malaxus,0,0,0,,I thought my body only feared Yatan!
+Dialogue: 0,0:18:51.12,0:18:53.85,top,Regas,0,0,0,,Thank you... Grid...
+Dialogue: 0,0:18:54.90,0:18:58.86,Default,Malaxus,0,0,0,,You cannot overpower me!
+Dialogue: 0,0:19:00.32,0:19:03.16,Default,Malaxus,0,0,0,,Who are you?!
+Dialogue: 0,0:19:05.70,0:19:08.48,Default,Laella,0,0,0,,This way! Quick!
+Dialogue: 0,0:19:09.37,0:19:11.30,Default,Grid,0,0,0,,L-Laella!
+Dialogue: 0,0:19:11.30,0:19:13.92,Default,Grid,0,0,0,,What's a world-class singer \Nin the real world doing here?!
+Dialogue: 0,0:19:13.92,0:19:16.14,Default,Regas,0,0,0,,She's a member of our guild.
+Dialogue: 0,0:19:16.14,0:19:17.62,Default,Grid,0,0,0,,I'm your biggest fan!
+Dialogue: 0,0:19:17.62,0:19:18.53,Default,Jishuka,0,0,0,,Hurry!
+Dialogue: 0,0:19:19.85,0:19:20.72,Default,Malaxus,0,0,0,,You won't get away!
+Dialogue: 0,0:19:25.48,0:19:27.64,Default,Malaxus,0,0,0,,You had a rat here, too?
+Dialogue: 0,0:19:32.37,0:19:34.11,Default,Faker,0,0,0,,My cloaking skill.
+Dialogue: 0,0:19:36.73,0:19:39.21,Default,Grid,0,0,0,,I don't know who you are, but nice timing!
+Dialogue: 0,0:19:44.06,0:19:48.54,Default,Malaxus,0,0,0,,Maggots... I will send you to \Nhell as a glorious sacrifice!
+Dialogue: 0,0:19:49.46,0:19:51.81,Default,Malaxus,0,0,0,,Noble master...
+Dialogue: 0,0:19:52.31,0:19:55.00,Default,Malaxus,0,0,0,,Unleash the hounds,
+Dialogue: 0,0:19:55.00,0:19:58.68,Default,Malaxus,0,0,0,,so that they may\Nfeast upon their flesh!
+Dialogue: 0,0:20:22.41,0:20:25.57,Default,Toban,0,0,0,,M-My unbreakable shield!
+Dialogue: 0,0:20:25.57,0:20:26.87,Default,Jishuka,0,0,0,,Stand fast!
+Dialogue: 0,0:20:26.87,0:20:30.04,Default,Jishuka,0,0,0,,If we can focus on defense and \Nbuy time for a counterattack...
+Dialogue: 0,0:20:32.12,0:20:33.68,Default,Malaxus,0,0,0,,How brave.
+Dialogue: 0,0:20:33.68,0:20:37.94,Default,Malaxus,0,0,0,,But did you think there \Nwas only one hound of hell?
+Dialogue: 0,0:20:46.65,0:20:49.65,Default,Malaxus,0,0,0,,Perish in anguish, fools.
+Dialogue: 0,0:20:56.57,0:21:00.78,Default,Grid,0,0,0,,How come I've gotta use \Nthe screwed-up one?
+Dialogue: 0,0:21:01.32,0:21:03.19,Default,Malaxus,0,0,0,,Wh-Why do you have that shield?
+Dialogue: 0,0:21:03.42,0:21:04.33,Default,Grid,0,0,0,,Shaddup!
+Dialogue: 0,0:21:04.33,0:21:06.86,Default,Grid,0,0,0,,I made it! So of course I've got it!
+Dialogue: 0,0:21:07.42,0:21:09.49,Default,Grid,0,0,0,,You stole the good one!
+Dialogue: 0,0:21:09.82,0:21:11.53,Default,Malaxus,0,0,0,,What's going on?
+Dialogue: 0,0:21:11.53,0:21:14.41,Default,Malaxus,0,0,0,,Where is Musta?!
+Dialogue: 0,0:21:14.78,0:21:18.96,Default,Jishuka,0,0,0,,Y-You made not only the jaffa \Narrows, but that shield, too?
+Dialogue: 0,0:21:20.33,0:21:21.72,Default,Grid,0,0,0,,What if I did?
+Dialogue: 0,0:21:23.31,0:21:26.59,italics,Jishuka,0,0,0,,He's not an ordinary blacksmith...
+Dialogue: 0,0:21:27.03,0:21:29.30,italics,Jishuka,0,0,0,,Does he have a hidden job?
+Dialogue: 0,0:21:29.68,0:21:32.34,Default,Regas,0,0,0,,Grid-san, please.
+Dialogue: 0,0:21:32.34,0:21:35.27,Default,Regas,0,0,0,,Help the Tzedakah Guild!
+Dialogue: 0,0:21:35.52,0:21:36.65,Default,Grid,0,0,0,,Regas-san...
+Dialogue: 0,0:21:37.53,0:21:40.34,italics,Grid,0,0,0,,I can't refuse if he's \Nasking me like that.
+Dialogue: 0,0:21:40.67,0:21:43.28,italics,Grid,0,0,0,,'Cause then I can make them \Npay me a shit ton of cash!
+Dialogue: 0,0:21:44.00,0:21:45.33,Default,Grid,0,0,0,,All right.
+Dialogue: 0,0:21:45.33,0:21:46.60,Default,Regas,0,0,0,,Grid-san!
+Dialogue: 0,0:21:46.60,0:21:49.44,Default,Grid,0,0,0,,But in exchange, we split the loot!
+Dialogue: 0,0:21:49.44,0:21:52.79,Default,Grid,0,0,0,,If you agree to split the gold \Nand item drops, I'll help you!
+Dialogue: 0,0:21:52.79,0:21:55.07,Default,Toban,0,0,0,,He wants half of it for himself?!
+Dialogue: 0,0:21:55.07,0:21:57.49,Default,Vantner,0,0,0,,Even though we rescued him for free?!
+Dialogue: 0,0:21:57.49,0:21:59.67,Default,Grid,0,0,0,,You're all in the same guild, right?
+Dialogue: 0,0:21:59.67,0:22:02.69,Default,Grid,0,0,0,,And it was Regas-san who helped me!
+Dialogue: 0,0:22:02.69,0:22:04.76,Default,Grid,0,0,0,,You don't get to say shit!
+Dialogue: 0,0:22:05.77,0:22:08.89,Default,Faker,0,0,0,,It's fine. Without that shield...
+Dialogue: 0,0:22:08.89,0:22:10.73,Default,Laella,0,0,0,,We would've failed the raid anyway.
+Dialogue: 0,0:22:11.26,0:22:13.47,Default,Pon,0,0,0,,You agree, right, Master?
+Dialogue: 0,0:22:14.09,0:22:14.89,Default,Jishuka,0,0,0,,Yeah.
+Dialogue: 0,0:22:16.93,0:22:17.88,Default,Jishuka,0,0,0,,Grid!
+Dialogue: 0,0:22:18.74,0:22:20.77,Default,Jishuka,0,0,0,,Join our party!
+Dialogue: 0,0:22:22.57,0:22:24.90,Default,Jishuka,0,0,0,,You're part of the Tzedakah Guild now!
+Dialogue: 0,0:22:26.59,0:22:28.72,Default,Grid,0,0,0,,Yeah, leave it to me.
+Dialogue: 0,0:22:30.44,0:22:34.21,italics,Grid,0,0,0,,Actually, I should've asked for \Na 70-30 split on the items.
+
