@@ -1,0 +1,65 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Top,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: Top Italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: Flashback,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Flashback Italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00300618,&H96000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,20,0
+Style: Default Raised,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Signs_Fix,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:46.01,0:02:51.03,Signs_Fix,SIGN,0,0,0,,{\an8\fnArial\bord0\b1\blur0.2\fs18\fscx90\shad0\c&H4B403A&\fay-0.01\move(480.34,235.33,37.34,235.33)}Tokyo \NEsperion
+Dialogue: 0,0:02:46.01,0:02:51.03,Signs_Fix,SIGN,0,0,0,,{\an8\fnArial\bord2.5\b1\blur0.2\fs15\fscx90\shad0\c&HD7DACB&\fay-0.01\3c&H536B3E&\move(641.67,99,198.67,99)}First Half
+Dialogue: 0,0:02:46.01,0:02:51.03,Signs_Fix,SIGN,0,0,0,,{\an8\fnArial\bord2.5\b1\blur0.2\fs15\fscx90\shad0\c&HD7DACB&\fay-0.01\3c&H536B3E&\move(860.67,93,417.67,93)}Second Half
+Dialogue: 0,0:02:46.02,0:02:51.03,Signs_Fix,SIGN,0,0,0,,{\an8\fnArial\bord0\b1\blur0.2\fs18\fscx90\shad0\c&H4B403A&\fay-0.01\move(480.67,126,37.67,126)}Kashiwa\NDai
+Dialogue: 0,0:02:46.52,0:02:51.02,Signs_Fix,SIGN,0,0,0,,{\fad(500,0)\fnArial\shad0.7\fs22\fscx90\b1\bord1.6\fsp0.5\blur0.2\3c&HA95C35&\4c&H744B35&\c&HFFFFFF&\pos(190,316)}Don't Quit Thinking
+Dialogue: 0,0:05:14.84,0:05:16.80,Signs_Fix,SIGN,0,0,0,,{\fad(225,0)\bord0\shad0\fnArial Black\fs20\blur0.2\c&H132816&\pos(432,32)}Kick
+Dialogue: 0,0:05:14.84,0:05:16.80,Signs_Fix,SIGN,0,0,0,,{\fad(225,0)\bord0\shad0\fnArial Black\fs22\blur0.2\c&H171C18&\pos(590,49)}Dash
+Dialogue: 0,0:06:39.34,0:06:42.09,Signs_Fix,SIGN,0,0,0,,{\fnComic Sans MS\b1\blur0.2\bord3\shad0\fs20\3c&H4A473B&\c&HDBD7D0&\pos(110,88)}Tournament
+Dialogue: 0,0:06:39.34,0:06:42.09,Signs_Fix,SIGN,0,0,0,,{\fnComic Sans MS\b1\blur0.2\bord3\shad0\fs18\3c&H4A473B&\c&HDBD7D0&\pos(200,88)}Teams
+Dialogue: 0,0:06:39.34,0:06:42.09,Signs_Fix,SIGN,0,0,0,,{\fnComic Sans MS\b1\blur0.2\bord2.5\shad0\fs15\3c&H4A473B&\c&HDBD7D0&\pos(272,87)}First Half
+Dialogue: 0,0:06:39.34,0:06:42.09,Signs_Fix,SIGN,0,0,0,,{\fnComic Sans MS\b1\blur0.2\bord2.5\shad0\fs15\3c&H4A473B&\c&HDBD7D0&\pos(342,87)}Second Half
+Dialogue: 0,0:06:39.34,0:06:42.09,Signs_Fix,SIGN,0,0,0,,{\fnComic Sans MS\b1\blur0.2\bord2.5\shad0\fs15\3c&H4A473B&\c&HDBD7D0&\pos(412.5,87)}Extra Time
+Dialogue: 0,0:06:39.34,0:06:42.09,Signs_Fix,SIGN,0,0,0,,{\fnComic Sans MS\b1\blur0.2\bord2.5\shad0\fs13\3c&H4A473B&\c&HDBD7D0&\pos(412,107)}First Half
+Dialogue: 0,0:06:39.34,0:06:42.09,Signs_Fix,SIGN,0,0,0,,{\fnComic Sans MS\b1\blur0.2\bord2.5\shad0\fs15\3c&H4A473B&\c&HDBD7D0&\pos(481.5,87)}Extra Time
+Dialogue: 0,0:06:39.34,0:06:42.09,Signs_Fix,SIGN,0,0,0,,{\fnComic Sans MS\b1\blur0.2\bord2.5\shad0\fs13\3c&H4A473B&\c&HDBD7D0&\pos(481,107)}Second Half
+Dialogue: 0,0:06:39.34,0:06:42.09,Signs_Fix,SIGN,0,0,0,,{\fnComic Sans MS\b1\blur0.2\bord3\shad0\fs20\3c&H373934&\c&H44D9E7&\pos(550,88)}Score
+Dialogue: 0,0:06:39.34,0:06:42.09,Signs_Fix,SIGN,0,0,0,,{\fnComic Sans MS\b1\blur0.2\bord0\shad0\fscx80\fs18\3c&H4A473B&\c&HDBD7D0&\pos(202,146)}Kashiwa Dai
+Dialogue: 0,0:06:39.34,0:06:42.09,Signs_Fix,SIGN,0,0,0,,{\fnComic Sans MS\b1\blur0.2\bord0\shad0\fscx80\fs18\3c&H4A473B&\c&HDFE3E2&\pos(202,216)}Esperion
+Dialogue: 0,0:09:17.94,0:09:23.38,Signs_Fix,SIGN,0,0,0,,{\fad(275,0)\an8\fnArial\bord0\b1\blur0.2\fs10\fscx90\shad0\c&H4B403A&\fay-0.01\fay-0.06\move(187.33,258,187.33,222.8,275,5400)}Tokyo \NEsperion
+Dialogue: 0,0:09:17.94,0:09:23.38,Signs_Fix,SIGN,0,0,0,,{\fad(275,0)\an8\fnArial\bord2.5\b1\blur0.2\fs12\fscx90\shad0\c&HD7DACB&\fay-0.05\3c&H536B3E&\move(290.67,162.67,290.67,127.47,275,5400)}First Half
+Dialogue: 0,0:09:17.94,0:09:23.38,Signs_Fix,SIGN,0,0,0,,{\fad(275,0)\an8\fnArial\bord2.5\b1\blur0.2\fs12\fscx90\shad0\c&HD7DACB&\fay-0.06\3c&H536B3E&\move(438.67,150.67,438.67,115.47,275,5400)}Second Half
+Dialogue: 0,0:09:17.94,0:09:23.38,Signs_Fix,SIGN,0,0,0,,{\fad(275,0)\an8\fnArial\bord2.5\b1\blur0.2\fs14\fscx90\shad0\c&HD7DACB&\fay-0.06\3c&H536B3E&\move(597.33,136.67,597.33,101.47,275,5400)}Score
+Dialogue: 0,0:09:17.95,0:09:23.38,Signs_Fix,SIGN,0,0,0,,{\fad(275,0)\an8\fnArial\bord0\b1\blur0.2\fs10\fscx90\shad0\c&H4B403A&\fay-0.01\fay-0.06\move(191,190.2,191,155,275,5400)}Kashiwa\NDai
+Dialogue: 0,0:17:59.91,0:18:07.44,Signs_Fix,SIGN,0,0,0,,{\fad(900,0)\fnGeorgia\bord0\blur0.2\shad0\fs14\b1\fscx90\c&H0A4432&\move(262.67,203.33,262.67,564.33)\iclip(m 424 277.33 l 417.33 276 398 284.67 374 294.67 351.33 304 334.67 311.33 313.33 320 292 331.33 275.33 350.67 268 373.33 453.33 392.67)}Akiyama
+Dialogue: 0,0:17:59.91,0:18:07.44,Signs_Fix,SIGN,0,0,0,,{\fad(900,0)\fnGeorgia\bord0\blur0.2\shad0\fs14\b1\fscx90\c&H0A4432&\move(149.33,163.33,149.33,524.33)}Kobayakawa
+Dialogue: 0,0:17:59.91,0:18:07.44,Signs_Fix,SIGN,0,0,0,,{\fad(900,0)\fnGeorgia\bord0\blur0.2\shad0\fs14\b1\fscx90\c&H0A4432&\move(226.67,163.33,226.67,524.33)}Akutsu
+Dialogue: 0,0:17:59.91,0:18:07.44,Signs_Fix,SIGN,0,0,0,,{\fad(900,0)\fnGeorgia\bord0\blur0.2\shad0\fs14\b1\fscx90\c&H0A4432&\move(312.67,163.33,312.67,524.33)\iclip(m 424 277.33 l 417.33 276 398 284.67 374 294.67 351.33 304 334.67 311.33 313.33 320 292 331.33 275.33 350.67 272 357.33 453.33 392.67)}Shimura
+Dialogue: 0,0:17:59.91,0:18:07.44,Signs_Fix,SIGN,0,0,0,,{\fad(900,0)\fnGeorgia\bord0\blur0.2\shad0\fs14\b1\fscx90\c&H0A4432&\move(393.33,163.33,393.33,524.33)\iclip(m 424 277.33 l 417.33 276 398 284.67 374 294.67 351.33 304 334.67 311.33 313.33 320 292 331.33 275.33 350.67 268 373.33 453.33 392.67)}Yamada
+Dialogue: 0,0:17:59.91,0:18:07.44,Signs_Fix,SIGN,0,0,0,,{\fnGeorgia\bord0\blur0.2\shad0\fs14\b1\fscx90\move(388,-88,388,273)\c&H0A4432&}Kiriki
+Dialogue: 0,0:17:59.91,0:18:07.44,Signs_Fix,SIGN,0,0,0,,{\fnGeorgia\bord0\blur0.2\shad0\fs14\b1\fscx90\move(155,-85,155,276)\c&H0A4432&}Matsunaga
+Dialogue: 0,0:17:59.91,0:18:07.44,Signs_Fix,SIGN,0,0,0,,{\fnGeorgia\bord0\blur0.2\shad0\fs14\b1\fscx90\move(263,-148,263,213)\c&H0A4432&}Kuribayashi
+Dialogue: 0,0:17:59.91,0:18:07.44,Signs_Fix,SIGN,0,0,0,,{\fnGeorgia\bord0\blur0.2\shad0\fs14\b1\fscx90\move(159,-224,159,137)\c&H0A4432&}Yuma
+Dialogue: 0,0:17:59.91,0:18:07.44,Signs_Fix,SIGN,0,0,0,,{\fnGeorgia\bord0\blur0.2\shad0\fs14\b1\fscx90\move(365,-224,365,137)\c&H0A4432&}Takasugi
+Dialogue: 0,0:17:59.91,0:18:07.44,Signs_Fix,SIGN,0,0,0,,{\fnGeorgia\bord0\blur0.2\shad0\fs14\b1\fscx90\move(262,-257,262,104)\c&H0A4432&}Yoshitsune
+Dialogue: 0,0:19:57.05,0:20:00.76,Signs_Fix,SIGN,0,0,0,,{\t(3150,3700,\3c&HFFFFFF&\4c&HFFFFFF&)}Hey! You kissed me, didn't you?
+Dialogue: 0,0:22:10.48,0:22:13.98,Signs_Fix,SIGN,0,0,0,,{\fad(500,500)\an7\fnArial\b1\fs16\4a&H00&\shad1.5\bord1.2\3c&H2D1718&\4c&H2D1718&\c&HC5969E&\pos(365,20)}Translation: Tomoko Takedani Sater\NTiming: Andy Ellis\NEditing: SMR\NQuality Control: William Haggard\NTranslation Check: David Saylor
+Dialogue: 0,0:24:26.86,0:24:30.25,Signs_Fix,SIGN,0,0,0,,{\fnArial\fs16\b1\fsp0.5\shad1.1\bord1.5\fscy105\blur0.2\3c&H954823&\4c&H954823&\pos(320,127)}Next Episode
+Dialogue: 0,0:24:26.86,0:24:30.25,Signs_Fix,SIGN,0,0,0,,{\fnArial\fs22\b1\fsp0.5\shad1.1\bord1.5\fscy105\blur0.32\3c&H954823&\4c&H954823&\pos(320,226)}Teach Me
+Dialogue: 0,0:24:26.86,0:24:30.25,Signs_Fix,SIGN,0,0,0,,{\fs12\pos(320,326)\bord1.2\shad0\blur0.2}This is a work of fiction, and bears no relation to any actual persons, organizations, or names.
+
