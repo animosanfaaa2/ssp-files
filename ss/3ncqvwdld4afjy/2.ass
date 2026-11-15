@@ -1,0 +1,432 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,15,1
+Style: Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,10,10,15,1
+Style: Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,10,10,15,1
+Style: Flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,15,1
+Style: Flashback Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,2,10,10,15,1
+Style: Signs,Arial,18,&H00FFFFFF,&H000000FF,&H00292929,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,25,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.31,0:00:04.94,Signs,signs,0,0,0,,{\an9\fnTimes New Roman\fad(442,0)\bord1.2\fs18\c&HFFFFFF&\3c&H000000&\pos(569.25,22.97)}Início da 6ª entrada
+Dialogue: 0,0:00:04.94,0:00:06.90,Italics,Kuramochi(M),0,0,0,,O interbases está próximo da 2ª base.
+Dialogue: 0,0:00:07.25,0:00:09.14,Italics,Miyuki(M),0,0,0,,A defesa interna está em\Nposição intermediária.
+Dialogue: 0,0:00:09.14,0:00:10.87,Italics,Miyuki(M),0,0,0,,Também estão fechando\Na linha da 1ª base.
+Dialogue: 0,0:00:10.87,0:00:12.85,Italics,Miyuki(M),0,0,0,,Até ficar em desvantagem na contagem,
+Dialogue: 0,0:00:12.85,0:00:14.46,Italics,Miyuki(M),0,0,0,,vou ignorar as bolas baixas!
+Dialogue: 0,0:00:15.04,0:00:17.31,Default,Comentarista(OFF),0,0,0,,Um eliminado, corredores\Nna primeira e terceira bases!
+Dialogue: 0,0:00:18.00,0:00:19.70,Default,Comentarista(OFF),0,0,0,,Todos de olho no primeiro arremesso!
+Dialogue: 0,0:00:23.00,0:00:25.46,Default,Comentarista(OFF),0,0,0,,Primeiro arremesso\Npassa por dentro! Bola!
+Dialogue: 0,0:00:25.46,0:00:29.93,Default,Kawabata,0,0,0,,Ele manda uma cutter por dentro\Nlogo depois de acertar Shirasu?!
+Dialogue: 0,0:00:29.93,0:00:32.62,Italics,Narumiya(M),0,0,0,,Parece que ele ficou surpreso!
+Dialogue: 0,0:00:33.28,0:00:35.44,Italics,Miyuki(M),0,0,0,,Não esperava por essa…
+Dialogue: 0,0:00:36.16,0:00:37.43,Italics,Narumiya(M),0,0,0,,E que tal esta?!
+Dialogue: 0,0:00:39.34,0:00:41.69,Default,Comentarista(OFF),0,0,0,,Segundo arremesso é\Numa bola rápida por fora!
+Dialogue: 0,0:00:41.69,0:00:44.06,Italics,Narumiya(M),0,0,0,,Então ele mordeu a isca mesmo!
+Dialogue: 0,0:00:48.32,0:00:52.48,Italics,Narumiya(M),0,0,0,,Desde que nos conhecemos,\Nele sempre chamou a minha atenção.
+Dialogue: 0,0:00:58.66,0:01:04.03,Italics,Narumiya(M),0,0,0,,Ele não saía balançando o bastão desde o\Nprimeiro arremesso sem pensar em nada.
+Dialogue: 0,0:01:04.03,0:01:05.78,Italics,Narumiya(M),0,0,0,,Ele era diferente dos outros.
+Dialogue: 0,0:01:06.42,0:01:09.39,Flashback Italics,Narumiya(M),0,0,0,,Na sua vez anterior, você nem\Ntentou rebater naquele lado!
+Dialogue: 0,0:01:09.39,0:01:10.82,Flashback Italics,Narumiya(M),0,0,0,,É seu ponto fraco, não é?!
+Dialogue: 0,0:01:15.71,0:01:18.59,Flashback,Narumiya,0,0,0,,Ei! Na primeira bola da sua\Nterceira vez no bastão,
+Dialogue: 0,0:01:18.59,0:01:20.43,Flashback,Narumiya,0,0,0,,você estava esperando por aquilo?
+Dialogue: 0,0:01:20.43,0:01:23.85,Flashback,Narumiya,0,0,0,,Fazia tempo que alguém não rebatia\Numa bola minha tão bem assim!
+Dialogue: 0,0:01:23.85,0:01:25.70,Flashback,Miyuki,0,0,0,,Tá falando sério?
+Dialogue: 0,0:01:25.70,0:01:28.50,Flashback,Miyuki,0,0,0,,Acha mesmo que eu vou revelar o\Nponto fraco de um futuro adversário?
+Dialogue: 0,0:01:28.50,0:01:30.82,Flashback,Narumiya,0,0,0,,Ponto fraco?! Como assim?!
+Dialogue: 0,0:01:30.82,0:01:33.18,Flashback,Narumiya,0,0,0,,Não pode soltar uma\Ndessas e sair andando!
+Dialogue: 0,0:01:33.18,0:01:34.80,Flashback,Narumiya,0,0,0,,Espere aí!
+Dialogue: 0,0:01:35.38,0:01:38.78,Italics,Narumiya,0,0,0,,Aquele foi o meu primeiro\Nencontro com o Kazuya.
+Dialogue: 0,0:03:09.67,0:03:13.80,Signs,título,0,0,0,,{\fad(0,0)\an2\fs18\xbord3\3c&H000000&\pos(479.66,296.4)}O Time dos Sonhos
+Dialogue: 0,0:03:12.77,0:03:16.48,Top,Comentarista(OFF),0,0,0,,Ao perceber que o receptor deixou\Na bola escapar, Shirasu avança!
+Dialogue: 0,0:03:16.48,0:03:19.72,Default,Comentarista(OFF),0,0,0,,Não consegue fazer o arremesso!\NO corredor avança para a segunda base!
+Dialogue: 0,0:03:19.72,0:03:21.20,Default,Kawakami,0,0,0,,Isso!
+Dialogue: 0,0:03:21.20,0:03:22.72,Default,Yamaguchi,0,0,0,,Boa, Shirasu!
+Dialogue: 0,0:03:22.72,0:03:24.06,Italics,Tadano,0,0,0,,Desculpe!
+Dialogue: 0,0:03:24.06,0:03:25.90,Italics,Narumiya,0,0,0,,Não tem problema.
+Dialogue: 0,0:03:25.90,0:03:28.52,Italics,Narumiya,0,0,0,,Só precisamos impedir que\Nele acerte a bola, certo?
+Dialogue: 0,0:03:28.52,0:03:31.40,Default,Comentarista(OFF),0,0,0,,A defesa interna avança ainda mais!
+Dialogue: 0,0:03:41.90,0:03:43.26,Italics,Kuramochi,0,0,0,,Acabe com ele!
+Dialogue: 0,0:03:43.86,0:03:45.31,Italics,Shirasu,0,0,0,,Agora é com você!
+Dialogue: 0,0:03:46.10,0:03:49.29,Default,Sawamura,0,0,0,,O confronto em chamas! O capitão\Nvai brilhar nessa hora decisiva!
+Dialogue: 0,0:03:49.71,0:03:52.99,Italics,Miyuki (M),0,0,0,,A contagem está em 2-1. Sendo o Mei,\Nele vai partir pra ofensiva.
+Dialogue: 0,0:03:56.50,0:03:58.46,Flashback,Miyuki jovem,0,0,0,,Eu quero ir para o Seidou!
+Dialogue: 0,0:03:58.46,0:04:02.11,Flashback,Miyuki jovem,0,0,0,,Quero jogar beisebol num time\Nforte, com jogadores incríveis!
+Dialogue: 0,0:04:02.11,0:04:03.72,Flashback,Miyuki jovem,0,0,0,,E, um dia…
+Dialogue: 0,0:04:04.19,0:04:05.49,Flashback,Pai do Miyuki,0,0,0,,Não vai para o Inashiro?
+Dialogue: 0,0:04:05.49,0:04:09.31,Flashback,Miyuki jovem,0,0,0,,Não me importa! Até uma criança\Ntem seus próprios motivos!
+Dialogue: 0,0:04:30.54,0:04:33.59,Italics,Narumiya (M),0,0,0,,Nós dois temos muito mais\Ncoisas a carregar agora…
+Dialogue: 0,0:04:34.40,0:04:36.34,Italics,Narumiya  (M),0,0,0,,Vamos resolver isso de uma vez.
+Dialogue: 0,0:04:36.34,0:04:38.80,Italics,Narumiya (M),0,0,0,,Veremos quem tem a\Ndeterminação mais forte!
+Dialogue: 0,0:04:38.80,0:04:41.10,Italics,Miyuki (M),0,0,0,,Se é pra decidir,\Nvai ser com uma changeup!
+Dialogue: 0,0:04:42.10,0:04:43.86,Italics,Miyuki (M),0,0,0,,Não é, Mei?!
+Dialogue: 0,0:04:47.42,0:04:49.79,Italics,Tadano (M),0,0,0,,Mesmo que venha quicando,\Nvou garantir que ela não passe!
+Dialogue: 0,0:04:50.78,0:04:52.65,Italics,Tadano (M),0,0,0,,Vamos atacar os cantos da zona!
+Dialogue: 0,0:04:56.44,0:04:59.40,Italics,Miyuki (M),0,0,0,,Não abra o peito! Pegue a bola\Nde frente, com o corpo alinhado!
+Dialogue: 0,0:04:59.84,0:05:03.24,Italics,Miyuki M,0,0,0,,Há tanto tempo venho imaginando\Ncomo seria rebater essa bola!
+Dialogue: 0,0:05:09.26,0:05:11.87,Default,Comentarista,0,0,0,,Uma changeup baixa!\NEle consegue levantá-la!
+Dialogue: 0,0:05:13.82,0:05:15.00,Default,Tadano,0,0,0,,Direita!
+Dialogue: 0,0:05:15.00,0:05:16.26,Italics,Tadano M,0,0,0,,Como rebateu uma bola tão baixa?!
+Dialogue: 0,0:05:16.77,0:05:18.30,Default,Saotome,0,0,0,,Ele estava recuado o máximo que podia!
+Dialogue: 0,0:05:18.30,0:05:20.42,Italics,Ezaki (M),0,0,0,,Pegou na ponta do bastão…\NNão teve força!
+Dialogue: 0,0:05:21.47,0:05:23.17,Default,Ono,0,0,0,,Kuramochi, avance!
+Dialogue: 0,0:05:23.17,0:05:24.43,Default,Ono,0,0,0,,Mesmo que a bola caia, dá pra voltar!
+Dialogue: 0,0:05:24.43,0:05:25.86,Default,Comentarista,0,0,0,,Será que vai cair ou será alcançada?!
+Dialogue: 0,0:05:25.86,0:05:27.39,Default,Comentarista,0,0,0,,O 2ª base e o campista direito\Nestão indo atrás!
+Dialogue: 0,0:05:35.61,0:05:37.90,Default,Comentarista,0,0,0,,O corredor da terceira\Nbase chega ao home!
+Dialogue: 0,0:05:37.90,0:05:39.63,Default,Comentarista,0,0,0,,É empate!
+Dialogue: 0,0:05:39.63,0:05:41.01,Default,Comentarista,0,0,0,,Isso que é um quarto rebatedor!
+Dialogue: 0,0:05:41.01,0:05:44.48,Default,Comentarista,0,0,0,,O ás absoluto que ainda não havia\Ncedido nenhum ponto, Mei Narumiya,
+Dialogue: 0,0:05:43.18,0:05:44.48,Top,Miyuki,0,0,0,,Isso!
+Dialogue: 0,0:05:44.48,0:05:46.54,Default,Comentarista,0,0,0,,leva uma rebatida decisiva de ouro!
+Dialogue: 0,0:05:48.67,0:05:50.45,Default,Sawamura,0,0,0,,Aí sim, caramba!
+Dialogue: 0,0:05:59.25,0:06:02.05,Flashback,Miyuki jovem,0,0,0,,É verdade que fui o primeiro\Na receber um convite,
+Dialogue: 0,0:06:02.05,0:06:04.76,Flashback,Miyuki jovem,0,0,0,,mas, quando pesquisei, vi que eles\Ntinham uma ótima estrutura
+Dialogue: 0,0:06:04.76,0:06:05.98,Flashback,Miyuki jovem,0,0,0,,e um campo enorme.
+Dialogue: 0,0:06:05.98,0:06:09.22,Flashback,Miyuki jovem,0,0,0,,Então, pensei bastante\Nantes de escolher o Seidou.
+Dialogue: 0,0:06:10.11,0:06:13.73,Flashback,Miyuki jovem,0,0,0,,E como vou morar no alojamento,\Nvou acabar deixando você sozinho, pai…
+Dialogue: 0,0:06:17.17,0:06:17.82,Flashback,Furuya,0,0,0,,Profissional?
+Dialogue: 0,0:06:18.59,0:06:21.57,Flashback,Miyuki,0,0,0,,Tenho muita vontade de\Nme tornar profissional.
+Dialogue: 0,0:06:22.03,0:06:24.43,Flashback,Miyuki,0,0,0,,Quero conseguir viver do beisebol,
+Dialogue: 0,0:06:24.43,0:06:26.53,Flashback,Miyuki,0,0,0,,e retribuir tudo o que\Nmeu pai fez por mim,
+Dialogue: 0,0:06:26.53,0:06:28.22,Flashback,Miyuki,0,0,0,,que deixou que eu seguisse no esporte.
+Dialogue: 0,0:06:29.82,0:06:32.00,Default,Sawamura,0,0,0,,Finalmente, uma rebatida\Ndo nosso capitão!
+Dialogue: 0,0:06:32.00,0:06:33.46,Default,Sawamura,0,0,0,,Era isso que eu tava esperando!
+Dialogue: 0,0:06:33.98,0:06:34.90,Default,Sawamura (背),0,0,0,,Okumura!
+Dialogue: 0,0:06:36.98,0:06:39.14,Default,Sawamura,0,0,0,,Agora voltamos ao início!
+Dialogue: 0,0:06:39.14,0:06:40.98,Default,Sawamura,0,0,0,,O jogo começa de verdade a partir daqui!
+Dialogue: 0,0:06:43.28,0:06:45.10,Default,Sawamura (OFF),0,0,0,,Zono, tô contando com você!
+Dialogue: 0,0:06:48.24,0:06:49.22,Default,Narumiya,0,0,0,,Itsuki!
+Dialogue: 0,0:06:50.02,0:06:52.82,Default,Narumiya (ON),0,0,0,,Não tem jeito se ele consegue\Nrebater uma bola dessas!
+Dialogue: 0,0:06:52.82,0:06:53.93,Default,Narumiya (ON),0,0,0,,Vamos girar a chave!
+Dialogue: 0,0:06:54.58,0:06:55.66,Italics,Tadano (M),0,0,0,,Mei…
+Dialogue: 0,0:06:56.40,0:06:58.46,Default,Narumiya,0,0,0,,A minha jogada não foi ruim!
+Dialogue: 0,0:06:58.46,0:07:01.11,Default,Tadano,0,0,0,,Isso mesmo! Vamos deixar isso\Npra trás e seguir em frente!
+Dialogue: 0,0:07:01.11,0:07:03.07,Default,Ezaki,0,0,0,,Mei, um eliminado!
+Dialogue: 0,0:07:03.07,0:07:04.78,Default,Fukui,0,0,0,,Vamos pegar um de cada vez!
+Dialogue: 0,0:07:04.78,0:07:06.21,Default,Yamaoka,0,0,0,,Um eliminado!
+Dialogue: 0,0:07:06.21,0:07:07.74,Italics,Miyuki (M),0,0,0,,Ainda não acabou…
+Dialogue: 0,0:07:10.54,0:07:12.53,Italics,Tadano (M),0,0,0,,Ele conseguiu mandar para o campo externo
+Dialogue: 0,0:07:12.53,0:07:14.67,Italics,Tadano (M),0,0,0,,justamente a changeup\Nque mais confiávamos.
+Dialogue: 0,0:07:14.67,0:07:16.67,Italics,Tadano (M),0,0,0,,Não tem como estar tudo bem.
+Dialogue: 0,0:07:17.36,0:07:19.76,Default,Comentarista,0,0,0,,Temos um eliminado e\Ncorredores na 1ª e 3ª bases!
+Dialogue: 0,0:07:19.76,0:07:22.05,Default,Comentarista,0,0,0,,Será que o Seidou conseguirá\Nvirar o jogo de uma vez?!
+Dialogue: 0,0:07:23.97,0:07:25.36,Default,Higasa,0,0,0,,Zono, segue o ritmo!
+Dialogue: 0,0:07:25.36,0:07:26.97,Default,Nakata,0,0,0,,Chegou a sua hora de brilhar!
+Dialogue: 0,0:07:27.47,0:07:30.93,Default,Comentarista,0,0,0,,No bastão, o quinto rebatedor\Ndo Seidou, Kenta Maezono!
+Dialogue: 0,0:07:31.28,0:07:32.99,Italics,Miyuki (M),0,0,0,,Não vamos dar um segundo de descanso!
+Dialogue: 0,0:07:32.99,0:07:34.70,Italics,Shirasu (M),0,0,0,,Vamos derrubá-los de uma vez!
+Dialogue: 0,0:07:34.70,0:07:36.32,Italics,Maezono (M),0,0,0,,O próximo ponto…
+Dialogue: 0,0:07:36.32,0:07:40.90,Italics,Maezono (M),0,0,0,,Se conseguirmos marcar ou não, isso vai\Nmudar completamente o rumo do jogo!
+Dialogue: 0,0:07:40.90,0:07:43.73,Italics,Tadano (M),0,0,0,,Esse cara vai tentar rebater\Ndesde o primeiro arremesso.
+Dialogue: 0,0:07:43.73,0:07:46.14,Italics,Tadano (M),0,0,0,,Vamos usar uma cutter e tentar\Nconseguir uma jogada dupla.
+Dialogue: 0,0:07:47.01,0:07:48.02,Italics,Narumiya (M),0,0,0,,É…
+Dialogue: 0,0:07:48.64,0:07:52.08,Italics,Narumiya (M),0,0,0,,Só vou me permitir ficar frustrado\Ndepois de conseguir sair dessa situação!
+Dialogue: 0,0:07:52.08,0:07:55.54,Signs,signs,0,0,0,,{\an8\fnTimes New Roman\fad(0,0)\bord1.2\fs18\3c&HFFFFFF&\c&H000000&\pos(319.91,39.64)}Um sapo no fundo de um poço.
+Dialogue: 0,0:07:52.93,0:07:54.48,Italics,Maezono (M),0,0,0,,Um sapo no fundo de um poço.
+Dialogue: 0,0:07:55.98,0:07:59.54,Italics,Maezono (M),0,0,0,,Só fui perceber que era isso que\Neu era depois que cheguei aqui.
+Dialogue: 0,0:08:00.22,0:08:03.55,Italics,Maezono (M),0,0,0,,Eu era um moleque idiota\Nque não sabia de nada.
+Dialogue: 0,0:08:03.94,0:08:05.70,Flashback,Maezono criança,0,0,0,,Hã? Tóquio?
+Dialogue: 0,0:08:06.38,0:08:09.51,Flashback,Treinador,0,0,0,,Tenho um conhecido no Seidou.\NPosso te apresentar a ele.
+Dialogue: 0,0:08:09.87,0:08:12.32,Flashback,Maezono criança,0,0,0,,Tóquio… É longe, né?
+Dialogue: 0,0:08:12.94,0:08:16.94,Italics,Maezono (N),0,0,0,,Nenhuma das escolas tradicionais da\Nregião de Kansai se interessou por mim.
+Dialogue: 0,0:08:16.94,0:08:21.69,Italics,Maezono (N),0,0,0,,Mesmo assim, achei que conseguiria\Nme destacar em Tóquio.
+Dialogue: 0,0:08:21.69,0:08:23.47,Flashback,Higasa(1º ano),0,0,0,,Ah, você é de Osaka?
+Dialogue: 0,0:08:23.47,0:08:24.38,Flashback,Maezono,0,0,0,,Isso!
+Dialogue: 0,0:08:24.38,0:08:26.15,Flashback,Yamaguchi(1º ano),0,0,0,,Tá cheio de energia, hein?!
+Dialogue: 0,0:08:26.15,0:08:27.60,Flashback,Maezono (1º ano),0,0,0,,Mas é claro!
+Dialogue: 0,0:08:27.60,0:08:31.34,Flashback,Maezono (1º ano),0,0,0,,Vou mostrar do que sou capaz e conquistar\Numa vaga de titular já no primeiro ano!
+Dialogue: 0,0:08:33.10,0:08:34.74,Flashback Italics,Miyuki (1º ano) (M),0,0,0,,Parece mesmo um caipira…
+Dialogue: 0,0:08:34.74,0:08:36.30,Flashback Italics,Kuramochi (1º ano) (M),0,0,0,,Que cara irritante.
+Dialogue: 0,0:08:36.90,0:08:38.33,Italics,Maezono (M),0,0,0,,Como eu fui idiota…
+Dialogue: 0,0:08:41.47,0:08:42.93,Default,Yoshizawa,0,0,0,,Um bunt surpresa?!
+Dialogue: 0,0:08:46.51,0:08:48.42,Default,Comentarista,0,0,0,,Ele manda a bola rolando\Npela linha da 3ª base!
+Dialogue: 0,0:08:50.34,0:08:51.26,Default,Tadano,0,0,0,,Mei!
+Dialogue: 0,0:08:51.26,0:08:52.30,Italics,Tadano,0,0,0,,Perdeu o equilíbrio!
+Dialogue: 0,0:09:05.19,0:09:06.54,Default,Comentarista,0,0,0,,Salvo!
+Dialogue: 0,0:09:06.54,0:09:09.15,Default,Comentarista,0,0,0,,O Seidou assume a liderança!
+Dialogue: 0,0:09:10.62,0:09:11.79,Default,Higasa、Yamaguchi、Nakata,0,0,0,,Isso!
+Dialogue: 0,0:09:11.79,0:09:12.51,Default,Miyuki,0,0,0,,Beleza!
+Dialogue: 0,0:09:12.51,0:09:13.60,Default,Haruichi、Kuramochi、Shirasu,0,0,0,,Isso aí!
+Dialogue: 0,0:09:13.24,0:09:15.70,Signs,signs,0,0,0,,{\an8\fnTimes New Roman\fad(0,0)\bord1.2\blur3\fs18\c&H3D2B34&\3c&HFFFFFF&\pos(280.57,9.64)}Tomem essa!
+Dialogue: 0,0:09:13.60,0:09:16.00,Default,Maezono,0,0,0,,Tomem essa!
+Dialogue: 0,0:09:15.70,0:09:21.92,Signs,signs,0,0,0,,{\an8\fnTimes New Roman\fad(0,0)\bord1.2\blur3\fs18\c&H3D2B34&\3c&HFFFFFF&\pos(550.78,74.26)}Passamos vocês, \Ntão vendo?!
+Dialogue: 0,0:09:16.00,0:09:19.62,Top,Maezono,0,0,0,,Passamos vocês, tão vendo?!
+Dialogue: 0,0:09:16.00,0:09:18.19,Default,Comentarista,0,0,0,,Logo após a rebatida decisiva\Ndo quarto rebatedor,
+Dialogue: 0,0:09:18.19,0:09:21.92,Default,Comentarista,0,0,0,,Maezono aproveita uma brecha na\Ndefesa e surpreende com um bunt!
+Dialogue: 0,0:09:21.92,0:09:25.02,Default,Comentarista,0,0,0,,O Seidou consegue marcar seu\Nsegundo ponto contra Narumiya,
+Dialogue: 0,0:09:25.02,0:09:26.88,Default,Comentarista,0,0,0,,o ás que parecia imbatível!
+Dialogue: 0,0:09:26.88,0:09:29.41,Default,Torcida do Seidou A,0,0,0,,Você tava planejando isso, Zono!
+Dialogue: 0,0:09:29.41,0:09:31.49,Default,Torcida do Seidou B,0,0,0,,Desde quando ele aprendeu\Nesse tipo de jogada?!
+Dialogue: 0,0:09:31.49,0:09:33.34,Default,Torcida do Seidou C,0,0,0,,Será que tava treinando escondido?!
+Dialogue: 0,0:09:33.34,0:09:35.05,Default,Sawamura,0,0,0,,Boa!
+Dialogue: 0,0:09:35.46,0:09:37.23,Default,Aso,0,0,0,,Hã, marcamos ponto?
+Dialogue: 0,0:09:37.51,0:09:38.75,Default,Carlos,0,0,0,,Nos pegaram.
+Dialogue: 0,0:09:42.48,0:09:43.31,Default,Kunitomo,0,0,0,,Tadano!
+Dialogue: 0,0:09:44.61,0:09:47.50,Default,Kunitomo,0,0,0,,Fukui, passe as instruções!\NAcalme o time!
+Dialogue: 0,0:09:47.50,0:09:48.35,Default,Fukui,0,0,0,,Sim!
+Dialogue: 0,0:09:49.17,0:09:51.71,Default,Comentarista,0,0,0,,Inashiro pede tempo para\Numa reunião defensiva!
+Dialogue: 0,0:09:51.71,0:09:54.36,Default,Comentarista,0,0,0,,Quem vai transmitir as instruções\Né Fukui, o capitão do 3º ano.
+Dialogue: 0,0:09:54.80,0:09:56.70,Default,Owada,0,0,0,,O segundo ponto veio num piscar de olhos.
+Dialogue: 0,0:09:56.70,0:09:58.90,Default,Owada,0,0,0,,E ainda temos apenas um eliminado!
+Dialogue: 0,0:09:58.90,0:10:01.58,Default,Owada,0,0,0,,O Seidou certamente vai\Nquerer aproveitar o embalo.
+Dialogue: 0,0:10:01.58,0:10:02.74,Default,Mine,0,0,0,,Sim…
+Dialogue: 0,0:10:02.74,0:10:06.54,Default,Mine,0,0,0,,Acho que é a primeira vez neste torneio\Nque o Inashiro fica atrás no placar.
+Dialogue: 0,0:10:07.09,0:10:08.22,Default,Mine (OFF),0,0,0,,Afinal, é a equipe campeã,
+Dialogue: 0,0:10:08.22,0:10:10.75,Default,Mine (OFF),0,0,0,,que vem vencendo de forma feroz\Ndesde o início da primavera…
+Dialogue: 0,0:10:10.75,0:10:13.46,Default,Mine (OFF),0,0,0,,Fazia tempo que eles não\Npassavam por uma situação dessas.
+Dialogue: 0,0:10:14.02,0:10:15.76,Default,Sawamura,0,0,0,,E aí, Furuya! Vai dar conta?!
+Dialogue: 0,0:10:15.76,0:10:17.26,Default,Sawamura (OFF),0,0,0,,Vai mandar uma chuva de foguetes?!
+Dialogue: 0,0:10:17.26,0:10:19.22,Default,Sawamura (OFF),0,0,0,,Vai soltar o braço com tudo?!
+Dialogue: 0,0:10:19.22,0:10:21.68,Default,Fukui,0,0,0,,Vamos organizar a situação primeiro.
+Dialogue: 0,0:10:21.68,0:10:25.58,Default,Fukui,0,0,0,,Sexta entrada, um eliminado, corredores\Nna primeira e segunda bases.
+Dialogue: 0,0:10:26.10,0:10:28.61,Default,Fukui (OFF),0,0,0,,O próximo rebatedor é Furuya,\Nque tem força de sobra.
+Dialogue: 0,0:10:28.61,0:10:30.47,Default,Fukui (OFF),0,0,0,,Pelo que ele mostrou nos\Narremessos de hoje,
+Dialogue: 0,0:10:30.47,0:10:32.16,Default,Fukui (OFF),0,0,0,,não podemos baixar a guarda contra ele.
+Dialogue: 0,0:10:32.64,0:10:35.07,Default,Narumiya,0,0,0,,Eu sei! E não vou baixar a guarda!
+Dialogue: 0,0:10:35.07,0:10:37.70,Default,Fukui,0,0,0,,Certo. Só quis dar um tempo\Npara todos respirarem.
+Dialogue: 0,0:10:38.40,0:10:40.66,Default,Fukui,0,0,0,,Sei que vocês conseguem sair dessa.
+Dialogue: 0,0:10:42.37,0:10:44.02,Default,Fukui (背),0,0,0,,Primeiro, vamos conseguir um eliminado.
+Dialogue: 0,0:10:44.02,0:10:46.26,Default,Fukui (背),0,0,0,,Vamos nos concentrar em\Ntirar o Furuya de campo.
+Dialogue: 0,0:10:47.04,0:10:49.73,Default,Fukui (背),0,0,0,,Vai dar tudo certo.\NEu consigo até visualizar.
+Dialogue: 0,0:10:49.73,0:10:54.02,Default,Fukui (背),0,0,0,,Vejo vocês saindo dessa situação e\Nvoltando tranquilamente para o banco!
+Dialogue: 0,0:10:55.81,0:10:57.30,Default,Narumiya (OFF),0,0,0,,Lá vem você com suas previsões…
+Dialogue: 0,0:10:57.30,0:10:58.85,Default,Fukui (OFF),0,0,0,,É, desculpa.
+Dialogue: 0,0:10:58.85,0:11:01.36,Default,Fukui (OFF),0,0,0,,Meu lado de fã acabou falando mais alto.
+Dialogue: 0,0:11:01.36,0:11:02.77,Default,Narumiya (OFF),0,0,0,,Que papo é esse?
+Dialogue: 0,0:11:02.77,0:11:04.32,Default,Fukui,0,0,0,,Agora, vamos à luta!
+Dialogue: 0,0:11:04.32,0:11:05.84,Default,Fukui,0,0,0,,Do nosso jeito!
+Dialogue: 0,0:11:05.84,0:11:06.94,Default,Todos,0,0,0,,Sim!
+Dialogue: 0,0:11:13.57,0:11:15.36,Italics,Narumiya (M),0,0,0,,Fã, é?
+Dialogue: 0,0:11:15.36,0:11:17.94,Italics,Narumiya (M),0,0,0,,É bem a sua cara, Fukui…
+Dialogue: 0,0:11:18.94,0:11:21.58,Default,Narumiya (ON),0,0,0,,Itsuki! É exatamente assim!
+Dialogue: 0,0:11:21.58,0:11:23.70,Default,Tadano,0,0,0,,Sim! Vou continuar aprendendo!
+Dialogue: 0,0:11:23.70,0:11:28.67,Italics,Fukui (M),0,0,0,,Desde que entrei para este time,\Nque admirava desde o ensino fundamental,
+Dialogue: 0,0:11:28.67,0:11:30.86,Italics,Fukui (M),0,0,0,,nunca me arrependi da minha escolha.
+Dialogue: 0,0:11:31.86,0:11:34.38,Italics,Fukui (M),0,0,0,,Aqui se reúnem jogadores\Nde nível nacional,
+Dialogue: 0,0:11:34.38,0:11:36.40,Italics,Fukui (M),0,0,0,,posso participar de treinos de alto nível
+Dialogue: 0,0:11:36.40,0:11:38.66,Italics,Fukui (M),0,0,0,,e aprender a mentalidade\Ndos times mais fortes.
+Dialogue: 0,0:11:40.18,0:11:43.17,Default,Fukui (ON),0,0,0,,Cuidado com a entrada\Ndo primeiro arremesso!
+Dialogue: 0,0:11:43.17,0:11:47.31,Italics,Fukui (M),0,0,0,,Fico realmente feliz por\Nfazer parte deste time.
+Dialogue: 0,0:11:47.31,0:11:49.49,Default,Comentarista,0,0,0,,Um eliminado, corredores\Nna 1ª e 2ª bases!
+Dialogue: 0,0:11:49.49,0:11:52.02,Default,Comentarista,0,0,0,,No bastão, o sexto\Nrebatedor, Satoru Furuya!
+Dialogue: 0,0:11:53.65,0:11:56.61,Default,Maezono,0,0,0,,Vai pra cima, Furuya! Agora é a sua hora!
+Dialogue: 0,0:11:57.41,0:11:59.61,Default,Comentarista,0,0,0,,Será que o ás, Narumiya,\Nvai conter o ataque?
+Dialogue: 0,0:11:59.61,0:12:02.58,Default,Comentarista,0,0,0,,Ou o Seidou vai continuar pressionando?
+Dialogue: 0,0:12:02.58,0:12:05.28,Italics,Furuya (M),0,0,0,,Eles conseguiram empatar\Ne virar o jogo por nós.
+Dialogue: 0,0:12:05.28,0:12:07.54,Italics,Furuya (M),0,0,0,,Os dois pontos que meus\Nveteranos marcaram…
+Dialogue: 0,0:12:08.19,0:12:11.25,Italics,Furuya (M),0,0,0,,Não vou deixar isso parar.\NNão vou ficar pra trás!
+Dialogue: 0,0:12:16.30,0:12:18.56,Default,Comentarista,0,0,0,,Primeiro arremesso! Uma bola\Nrápida na parte de dentro!
+Dialogue: 0,0:12:19.04,0:12:20.09,Default,Yoshizawa(mais velho),0,0,0,,Isso!
+Dialogue: 0,0:12:20.09,0:12:21.30,Italics,Tadano (M),0,0,0,,Que arremesso incrível!
+Dialogue: 0,0:12:21.30,0:12:24.26,Default,Fukui,0,0,0,,Isso mesmo! Continue atacando, Mei!
+Dialogue: 0,0:12:24.93,0:12:26.77,Italics,Narumiya (M),0,0,0,,Mesmo agora, nada mudou!
+Dialogue: 0,0:12:27.46,0:12:29.47,Italics,Narumiya (M),0,0,0,,Este continua sendo o\Ntime que sempre admirei!
+Dialogue: 0,0:12:30.08,0:12:32.03,Italics,Miyuki (M),0,0,0,,Ele vai mandar essa bola agora?
+Dialogue: 0,0:12:32.77,0:12:35.40,Italics,Furuya (M),0,0,0,,Não vou deixar parar…\NEssa empolgação…
+Dialogue: 0,0:12:37.94,0:12:39.86,Default,Comentarista,0,0,0,,Changeup! Strike!
+Dialogue: 0,0:12:39.86,0:12:41.89,Default,Fukui,0,0,0,,Belo arremesso, Mei!
+Dialogue: 0,0:12:41.89,0:12:43.07,Default,Sugi,0,0,0,,Agora está encurralado!
+Dialogue: 0,0:12:43.07,0:12:44.43,Default,Banco do Inashiro A,0,0,0,,Vamos acabar com isso!
+Dialogue: 0,0:12:44.43,0:12:45.54,Default,Banco do Inashiro B (OFF),0,0,0,,Narumiya!
+Dialogue: 0,0:12:45.97,0:12:46.78,Italics,Furuya (M),0,0,0,,Ainda não…
+Dialogue: 0,0:12:47.58,0:12:48.70,Italics,Furuya (M),0,0,0,,Vou continuar lutando!
+Dialogue: 0,0:12:49.23,0:12:50.26,Default,Higasa,0,0,0,,Vai, Furuya!
+Dialogue: 0,0:12:50.26,0:12:51.65,Default,Yamaguchi,0,0,0,,Rebate pra acabar de vez!
+Dialogue: 0,0:12:51.96,0:12:55.23,Default,Comentarista,0,0,0,,Já são dois strikes!\NQual será o terceiro arremesso?!
+Dialogue: 0,0:13:02.05,0:13:04.03,Default,Comentarista,0,0,0,,Strikeout!
+Dialogue: 0,0:13:04.03,0:13:05.01,Default,Yoshizawa(mais velho) (OFF),0,0,0,,Isso!
+Dialogue: 0,0:13:05.01,0:13:06.97,Default,Yoshizawa(mais novo),0,0,0,,Boa, Mei!
+Dialogue: 0,0:13:07.74,0:13:08.64,Default,Tadano,0,0,0,,Ok!
+Dialogue: 0,0:13:08.64,0:13:10.98,Italics,Tadano (M),0,0,0,,Essa é a changeup do Narumiya!
+Dialogue: 0,0:13:10.98,0:13:12.69,Italics,Tadano (M),0,0,0,,É a melhor de todas!
+Dialogue: 0,0:13:12.69,0:13:15.33,Default,Chris,0,0,0,,Duas changeups seguidas…
+Dialogue: 0,0:13:15.33,0:13:17.65,Default,Tetsuya,0,0,0,,Narumiya mostrou toda a sua força.
+Dialogue: 0,0:13:17.65,0:13:20.24,Default,Miyauchi,0,0,0,,Aquela bola é difícil de\Nrebater para um destro.
+Dialogue: 0,0:13:20.24,0:13:21.31,Default,Tadano（背）,0,0,0,,Mei!
+Dialogue: 0,0:13:21.31,0:13:22.48,Default,Tadano（背）,0,0,0,,Só falta mais um!
+Dialogue: 0,0:13:22.48,0:13:23.70,Default,Yabe,0,0,0,,Dois eliminados!
+Dialogue: 0,0:13:24.61,0:13:26.16,Default,Tojo,0,0,0,,Não vou deixar isso acabar.
+Dialogue: 0,0:13:28.10,0:13:29.39,Italics,Furuya (M),0,0,0,,É frustrante admitir, mas…
+Dialogue: 0,0:13:30.51,0:13:31.71,Italics,Furuya (M),0,0,0,,Eles são incríveis!
+Dialogue: 0,0:13:33.12,0:13:34.58,Italics,Furuya (M),0,0,0,,Todos eles são incríveis!
+Dialogue: 0,0:13:40.67,0:13:42.99,Default,Comentarista,0,0,0,,Tojo resiste, mas rebate uma\Nbola rasteira para a 3ª base!
+Dialogue: 0,0:13:42.99,0:13:44.18,Default,Comentarista,0,0,0,,Três eliminados!
+Dialogue: 0,0:13:44.64,0:13:47.33,Default,Comentarista,0,0,0,,Inashiro limita o estrago a apenas\Ndois pontos nesta entrada!
+Dialogue: 0,0:13:47.89,0:13:49.38,Default,Fukui,0,0,0,,Como esperado de Mei Narumiya!
+Dialogue: 0,0:13:49.38,0:13:51.06,Default,Fukui,0,0,0,,Você conseguiu conter o ataque!
+Dialogue: 0,0:13:54.08,0:13:57.25,Default,Narumiya,0,0,0,,Com alguém me olhando com tanta\Nexpectativa, não dá pra decepcionar, né?
+Dialogue: 0,0:13:57.25,0:13:58.34,Default,Fukui（背）,0,0,0,,Desculpa!
+Dialogue: 0,0:13:58.34,0:13:59.78,Default,Narumiya,0,0,0,,Fala sério…
+Dialogue: 0,0:14:00.26,0:14:02.49,Default,Fukui,0,0,0,,Mas logo teremos a chance\Nde recuperar esses pontos!
+Dialogue: 0,0:14:06.51,0:14:08.46,Default,Narumiya,0,0,0,,Queria mandar uma bola\Npra longe agora mesmo!
+Dialogue: 0,0:14:08.95,0:14:11.91,Signs,signs,0,0,0,,{\an8\fnTimes New Roman\fad(0,0)\bord2\blur2\fs16\c&H2C2A26&\3c&H4C769F&\pos(521.91,23.64)}Sala do Clube de Beisebol\NColégio Ugumori
+Dialogue: 0,0:14:11.91,0:14:14.03,Top,Inufushi,0,0,0,,Agora a coisa ficou interessante.
+Dialogue: 0,0:14:12.00,0:14:15.88,Signs,signs,0,0,0,,{\an7\fnTimes New Roman\fad(518,0)\blur0.3\fs16\pos(485.08,244.52)}Colégio Ugumori\N\h\h{\fs18}Kota Inufushi
+Dialogue: 0,0:14:12.00,0:14:15.88,Signs,signs,0,0,0,,{\an7\fnTimes New Roman\fad(518,0)\blur0.3\fs16\pos(79.08,241.85)}Colégio Ugumori\N\h\h{\fs18}Daiki Kondo
+Dialogue: 0,0:14:14.03,0:14:15.88,Top,Inufushi,0,0,0,,Marcaram dois pontos contra o Narumiya.
+Dialogue: 0,0:14:15.96,0:14:19.96,Signs,signs,0,0,0,,{\an7\fnTimes New Roman\fad(518,0)\blur0.3\fs16\pos(485.08,244.52)}Colégio Ugumori\N\h\h{\fs18}Nao Matsubara
+Dialogue: 0,0:14:15.96,0:14:19.96,Signs,signs,0,0,0,,{\an7\fnTimes New Roman\fad(518,0)\blur0.3\fs16\pos(79.08,243.85)}Colégio Ugumori\N\h\h{\fs18}Seiichi Umemiya
+Dialogue: 0,0:14:16.34,0:14:18.69,Top,Matsubara,0,0,0,,O Seidou conseguiu o que queria, né?
+Dialogue: 0,0:14:18.69,0:14:22.34,Top,Umemiya,0,0,0,,É… Mas o Inashiro não vai deixar\Nas coisas terminarem assim.
+Dialogue: 0,0:14:24.64,0:14:26.03,Default,Miyagawa,0,0,0,,O que foi, Hosshan?
+Dialogue: 0,0:14:26.03,0:14:27.52,Default,Hoshida,0,0,0,,Tô com vontade de rebater.
+Dialogue: 0,0:14:27.52,0:14:28.56,Default,Miyagawa,0,0,0,,Agora?!
+Dialogue: 0,0:14:28.56,0:14:29.76,Default,Mori,0,0,0,,Justo agora?!
+Dialogue: 0,0:14:29.76,0:14:33.73,Default,Kawabata,0,0,0,,A sexta entrada está acabando. Até onde\Nserá que vão deixar o Furuya continuar?
+Dialogue: 0,0:14:34.18,0:14:36.43,Default,Plateia B,0,0,0,,E o defensor esquerdo?\NVai ser substituído?
+Dialogue: 0,0:14:36.43,0:14:38.69,Default,Plateia C,0,0,0,,Ele saiu de maca.\NDuvido que consiga voltar.
+Dialogue: 0,0:14:39.44,0:14:41.07,Default,Kataoka,0,0,0,,Tem certeza de que consegue jogar?
+Dialogue: 0,0:14:41.07,0:14:42.32,Default,Aso（背）,0,0,0,,Sem problema nenhum!
+Dialogue: 0,0:14:42.86,0:14:45.30,Default,Kataoka,0,0,0,,Foi a sua jogada que\Nmudou o ritmo do jogo!
+Dialogue: 0,0:14:45.30,0:14:47.12,Default,Kataoka,0,0,0,,Nada poderia ser mais tranquilizador!
+Dialogue: 0,0:14:47.76,0:14:49.58,Default,Aso,0,0,0,,Sim! Pode deixar comigo!
+Dialogue: 0,0:14:50.03,0:14:51.07,Default,Aso,0,0,0,,Estou indo!
+Dialogue: 0,0:14:51.07,0:14:52.50,Default,Higasa(OFF),0,0,0,,Isso aí! Vamos lá!
+Dialogue: 0,0:14:52.50,0:14:54.78,Default,Torcida do Seidou B (OFF),0,0,0,,Aso?! Ele consegue jogar?!
+Dialogue: 0,0:14:54.78,0:14:56.46,Default,Torcida do Seidou C (OFF),0,0,0,,Não acredito!
+Dialogue: 0,0:14:56.46,0:14:59.15,Default,Plateia A (OFF),0,0,0,,O número 7 conseguiu voltar!
+Dialogue: 0,0:14:59.15,0:15:00.70,Default,Plateia B (OFF),0,0,0,,Que bom que ele está bem!
+Dialogue: 0,0:15:00.70,0:15:02.42,Default,Plateia B (OFF),0,0,0,,Que garra!
+Dialogue: 0,0:15:02.42,0:15:03.81,Italics,Aso (M),0,0,0,,Ainda bem…
+Dialogue: 0,0:15:03.81,0:15:06.64,Italics,Aso (M),0,0,0,,Que bom que continuei jogando beisebol!
+Dialogue: 0,0:15:07.84,0:15:08.90,Default,Kataoka,0,0,0,,Sawamura!
+Dialogue: 0,0:15:08.90,0:15:09.66,Default,Sawamura (背),0,0,0,,Sim!
+Dialogue: 0,0:15:09.66,0:15:11.87,Default,Kataoka,0,0,0,,Furuya está chegando\Nperto dos 100 arremessos.
+Dialogue: 0,0:15:11.87,0:15:14.35,Default,Kataoka,0,0,0,,Como está acelerado desde a\N1ª entrada, está muito desgastado.
+Dialogue: 0,0:15:14.35,0:15:17.31,Default,Kataoka,0,0,0,,Se começar a perder o controle dos\Narremessos, vamos entrar em ação.
+Dialogue: 0,0:15:22.06,0:15:24.54,Italics,Ochiai (M),0,0,0,,Neste jogo também não temos\Num substituto de confiança.
+Dialogue: 0,0:15:24.54,0:15:28.27,Italics,Ochiai (M),0,0,0,,Se quisermos colocar\No Furuya de volta no monte,
+Dialogue: 0,0:15:28.27,0:15:31.33,Italics,Ochiai (M),0,0,0,,o mais sensato seria mantê-lo\Nno campo esquerdo por enquanto.
+Dialogue: 0,0:15:32.37,0:15:36.58,Italics,Ochiai (M),0,0,0,,De qualquer forma, tudo vai depender\Nde como ele se sair nesta entrada.
+Dialogue: 0,0:15:36.58,0:15:39.42,Default,Comentarista,0,0,0,,Final da sexta entrada\Nataque do Inashiro!
+Dialogue: 0,0:15:39.42,0:15:42.05,Default,Comentarista,0,0,0,,No bastão está o quinto rebatedor,\No arremessador Narumiya!
+Dialogue: 0,0:15:42.70,0:15:45.12,Default,Comentarista,0,0,0,,Ele tem uma média de rebatidas\Nde 0,532 neste torneio.
+Dialogue: 0,0:15:45.12,0:15:47.54,Default,Comentarista,0,0,0,,É uma ameaça considerável\Ncomo rebatedor!
+Dialogue: 0,0:15:48.24,0:15:50.48,Italics,Miyuki (M),0,0,0,,Deve estar louco para\Ndescontar a frustração…
+Dialogue: 0,0:15:50.48,0:15:52.54,Italics,Miyuki (M),0,0,0,,por ter nos deixado assumir a liderança.
+Dialogue: 0,0:15:53.15,0:15:54.64,Italics,Miyuki (M),0,0,0,,Mas não vou deixar!
+Dialogue: 0,0:15:56.85,0:15:58.81,Default,Maezono,0,0,0,,Vamos um ponto de cada vez!
+Dialogue: 0,0:15:58.81,0:16:00.77,Default,Haruichi,0,0,0,,Furuya! Manda ver!
+Dialogue: 0,0:16:00.77,0:16:02.23,Default,Kuramochi,0,0,0,,Deixe ele rebater!
+Dialogue: 0,0:16:02.23,0:16:04.69,Default,Aso,0,0,0,,Eu estou aqui, estou bem aqui!
+Dialogue: 0,0:16:05.06,0:16:07.84,Italics,Narumiya (M),0,0,0,,Só conseguir um strikeout\Nnão vai aliviar a minha raiva.
+Dialogue: 0,0:16:07.84,0:16:09.16,Italics,Narumiya (M),0,0,0,,Vamos, Furuya!
+Dialogue: 0,0:16:13.63,0:16:15.92,Default,Comentarista,0,0,0,,Primeiro arremesso,\Numa bola rápida! Foul!
+Dialogue: 0,0:16:16.46,0:16:18.40,Italics,Miyuki (M),0,0,0,,Ele está acertando o\Ntempo dos arremessos.
+Dialogue: 0,0:16:18.96,0:16:21.67,Italics,Narumiya (M),0,0,0,,Seu desgraçado…\NA bola nem está caindo.
+Dialogue: 0,0:16:23.78,0:16:26.77,Flashback,Miyuki,0,0,0,,Furuya, você nunca pensou\Nem chegar ao próximo nível?
+Dialogue: 0,0:16:27.28,0:16:32.05,Flashback,Miyuki,0,0,0,,Nunca teve vontade de\Narremessar no mundo profissional?
+Dialogue: 0,0:16:43.62,0:16:45.65,Italics,Narumiya (M),0,0,0,,Ele está completamente fora de controle!
+Dialogue: 0,0:16:46.16,0:16:47.55,Italics,Miyuki (M),0,0,0,,Você está se esforçando demais.
+Dialogue: 0,0:16:47.92,0:16:50.32,Italics,Miyuki (M),0,0,0,,Precisa ser uma bola que\Nmantenha a força e passe baixa!
+Dialogue: 0,0:16:54.20,0:16:57.75,Default,Comentarista,0,0,0,,A bola vai para o campo esquerdo,\Nmas Aso está no lugar certo!
+Dialogue: 0,0:16:58.64,0:17:00.42,Default,Comentarista,0,0,0,,Ele pega a bola! Um eliminado!
+Dialogue: 0,0:17:00.82,0:17:03.88,Default,Comentarista,0,0,0,,Assim como no segundo confronto,\NFuruya leva a melhor mais uma vez!
+Dialogue: 0,0:17:06.64,0:17:07.94,Italics,Furuya (M),0,0,0,,Ainda vai continuar!
+Dialogue: 0,0:17:07.94,0:17:09.90,Italics,Furuya (M),0,0,0,,Enquanto eu continuar jogando beisebol,
+Dialogue: 0,0:17:10.50,0:17:11.63,Italics,Furuya (M),0,0,0,,meu caminho vai continuar!
+Dialogue: 0,0:17:15.52,0:17:17.47,Default,Tanba,0,0,0,,Furuya comemorando\Ncom o punho fechado?
+Dialogue: 0,0:17:17.47,0:17:19.30,Default,Yeung,0,0,0,,Ele está no limite desde o começo.
+Dialogue: 0,0:17:19.30,0:17:21.30,Default,Yeung,0,0,0,,Nem está pensando em\Ncompletar o jogo inteiro.
+Dialogue: 0,0:17:21.79,0:17:24.40,Default,Kawabata,0,0,0,,O Seidou tem muitas\Nopções no bullpen, afinal.
+Dialogue: 0,0:17:24.40,0:17:26.29,Italics,Umemoto (M),0,0,0,,Já são 92 arremessos.
+Dialogue: 0,0:17:26.96,0:17:29.95,Default,Ota,0,0,0,,As bolas rápidas continuam\Nchegando perto dos 150 km/h!
+Dialogue: 0,0:17:29.95,0:17:32.57,Default,Ota,0,0,0,,Ele ainda tem muita força nos arremessos!
+Dialogue: 0,0:17:32.99,0:17:34.43,Italics,Furuya (M),0,0,0,,Primeiro, mais um eliminado.
+Dialogue: 0,0:17:36.16,0:17:38.02,Default,Miyuki,0,0,0,,Com licença. Tempo, por favor.
+Dialogue: 0,0:17:39.71,0:17:41.14,Default,Furuya,0,0,0,,Aconteceu alguma coisa?
+Dialogue: 0,0:17:41.14,0:17:42.98,Default,Miyuki,0,0,0,,Você está usando um\Npouco de força demais.
+Dialogue: 0,0:17:44.99,0:17:46.83,Italics,Miyuki (M),0,0,0,,Não parece estar se\Ndeixando levar pela pressão.
+Dialogue: 0,0:17:47.52,0:17:50.91,Default,Miyuki,0,0,0,,Se continuar arremessando na parte\Nbaixa da zona, não vão conseguir rebater.
+Dialogue: 0,0:17:50.91,0:17:53.28,Default,Miyuki,0,0,0,,Vá no seu ritmo e tenha calma.
+Dialogue: 0,0:17:53.28,0:17:54.40,Default,Furuya (背),0,0,0,,Entendido.
+Dialogue: 0,0:17:56.46,0:17:59.41,Default,Miyuki,0,0,0,,Nós dois ficamos com a sensação de\Nter faltado algo na primavera, né?
+Dialogue: 0,0:18:01.12,0:18:04.37,Default,Miyuki,0,0,0,,Vamos até o Koshien buscar\No que deixamos para trás!
+Dialogue: 0,0:18:05.06,0:18:07.74,Default,Furuya,0,0,0,,Sim! Vamos juntos com este time!
+Dialogue: 0,0:18:10.50,0:18:13.07,Default,Sawamura,0,0,0,,Isso mesmo! Conversar é importante!
+Dialogue: 0,0:18:13.07,0:18:15.12,Default,Sawamura,0,0,0,,Vocês precisam demonstrar\Nmais o que estão sentindo!
+Dialogue: 0,0:18:15.58,0:18:17.15,Default,Sawamura,0,0,0,,Botem tudo pra fora!
+Dialogue: 0,0:18:18.56,0:18:20.67,Italics,Miyuki (M),0,0,0,,Com este time, é?
+Dialogue: 0,0:18:21.86,0:18:24.50,Italics,Miyuki (M),0,0,0,,Aquela bola que recebi no\Ntorneio da primavera…
+Dialogue: 0,0:18:26.78,0:18:30.72,Italics,Miyuki (M),0,0,0,,Para ser sincero, comecei a querer\Ndescobrir até onde você pode chegar.
+Dialogue: 0,0:18:31.60,0:18:35.22,Italics,Miyuki (M),0,0,0,,Mas, ao mesmo tempo, também percebi\Nque não posso perder para você!
+Dialogue: 0,0:18:36.03,0:18:38.14,Default,Sawamura,0,0,0,,Não tente resolver tudo sozinho!
+Dialogue: 0,0:18:38.14,0:18:39.43,Default,Sawamura,0,0,0,,Confie na defesa!
+Dialogue: 0,0:18:39.87,0:18:42.88,Italics,Miyuki (M),0,0,0,,Vocês sempre conseguem me surpreender!
+Dialogue: 0,0:18:43.73,0:18:45.63,Italics,Miyuki (M),0,0,0,,Vamos lá mais uma vez!
+Dialogue: 0,0:18:45.63,0:18:47.14,Italics,Miyuki (M),0,0,0,,Superem as minhas expectativas!
+Dialogue: 0,0:18:47.74,0:18:49.89,Italics,Tadano (M),0,0,0,,Ele deve estar chegando perto do limite.
+Dialogue: 0,0:18:50.53,0:18:52.32,Italics,Tadano (M),0,0,0,,Precisamos fazê-lo arremessar mais!
+Dialogue: 0,0:19:02.13,0:19:03.65,Italics,Furuya (N),0,0,0,,Meu caminho só começou a existir…
+Dialogue: 0,0:19:04.11,0:19:05.46,Italics,Furuya (N),0,0,0,,…porque vim para cá!
+Dialogue: 0,0:19:06.10,0:19:09.71,Flashback,Miyuki,0,0,0,,Mas, pensando bem, acho que\Nvocê pode continuar assim mesmo.
+Dialogue: 0,0:19:09.71,0:19:13.34,Flashback,Miyuki,0,0,0,,Um arremessador que lidera o time\Npela força dos seus arremessos.
+Dialogue: 0,0:19:16.59,0:19:18.94,Italics,Furuya (N),0,0,0,,Porque ele sempre esteve lá\Npara receber meus arremessos!
+Dialogue: 0,0:19:21.54,0:19:22.56,Default,Sawamura,0,0,0,,Isso!
+Dialogue: 0,0:19:23.17,0:19:25.66,Italics,Furuya (N),0,0,0,,Porque tenho companheiros\Ncom quem posso competir!
+Dialogue: 0,0:19:29.49,0:19:31.90,Italics,Furuya (N),0,0,0,,É através do beisebol que\Nconsigo mostrar quem sou!
+Dialogue: 0,0:19:32.61,0:19:33.86,Italics,Furuya (N),0,0,0,,É onde posso ser egoísta!
+Dialogue: 0,0:19:36.35,0:19:39.28,Italics,Furuya (N),0,0,0,,É por ter este lugar que consigo lutar!
+Dialogue: 0,0:19:46.91,0:19:49.06,Italics,Furuya (N),0,0,0,,E dar tudo de mim!
+Dialogue: 0,0:19:51.17,0:19:53.39,Default,Comentarista,0,0,0,,Strike! Rebatedor eliminado!
+Dialogue: 0,0:19:53.39,0:19:54.94,Default,Comentarista,0,0,0,,Strikeout!
+Dialogue: 0,0:19:54.94,0:19:57.12,Default,Comentarista,0,0,0,,Com suas bolas rápidas\Nque não perdem força,
+Dialogue: 0,0:19:57.12,0:19:59.55,Default,Comentarista,0,0,0,,ele elimina os três\Nrebatedores nesta entrada!
+Dialogue: 0,0:19:59.55,0:20:02.29,Default,Plateia A (OFF),0,0,0,,Incrível! Uma sequência\Nde arremessos a 150 km/h!
+Dialogue: 0,0:20:02.29,0:20:03.36,Default,Plateia B (OFF),0,0,0,,Esse cara não tem limites?!
+Dialogue: 0,0:20:03.36,0:20:04.97,Default,Plateia D (OFF),0,0,0,,O Furuya é absurdo!
+Dialogue: 0,0:20:05.41,0:20:08.21,Flashback,Mãe do Furuya,0,0,0,,Nós também vamos a\NTóquio no fim de semana.
+Dialogue: 0,0:20:08.21,0:20:10.53,Flashback,Mãe do Furuya,0,0,0,,Quando chegar, não se\Nesqueça de nos avisar.
+Dialogue: 0,0:20:11.20,0:20:13.06,Flashback,Mãe do Furuya,0,0,0,,Já conversei com seu avô.
+Dialogue: 0,0:20:13.55,0:20:15.28,Flashback,Furuya,0,0,0,,Certo. Até.
+Dialogue: 0,0:20:16.67,0:20:17.94,Flashback,Mãe do Furuya,0,0,0,,É só isso?
+Dialogue: 0,0:20:18.90,0:20:22.82,Flashback,Mãe do Furuya (OFF),0,0,0,,Bem, ele disse por conta própria\Nque queria ir para Tóquio.
+Dialogue: 0,0:20:24.45,0:20:26.40,Flashback,Mãe do Furuya (ON),0,0,0,,E que queria estudar no Seidou…
+Dialogue: 0,0:20:27.23,0:20:30.66,Flashback,Avô do Furuya,0,0,0,,Ele não estava conseguindo se adaptar\Nbem àquele outro time, não é?
+Dialogue: 0,0:20:30.66,0:20:34.13,Flashback,Avô do Furuya,0,0,0,,Se ele tomou essa decisão depois de pensar\Npor conta própria, devemos respeitá-la.
+Dialogue: 0,0:20:34.13,0:20:36.08,Flashback,Avô do Furuya,0,0,0,,Eu mesmo vou lá ver como ele está.
+Dialogue: 0,0:20:36.50,0:20:40.13,Flashback,Mãe do Furuya (OFF),0,0,0,,Mas ele vai morar no alojamento…\NSerá que vai conseguir se virar?
+Dialogue: 0,0:20:40.13,0:20:42.70,Flashback,Mãe do Furuya (OFF),0,0,0,,Ele tem dificuldade para\Nexpressar os sentimentos,
+Dialogue: 0,0:20:42.70,0:20:44.70,Flashback,Mãe do Furuya (OFF),0,0,0,,e as pessoas costumam não entendê-lo.
+Dialogue: 0,0:20:44.70,0:20:46.51,Flashback,Mãe do Furuya (OFF),0,0,0,,E é teimoso em horas inesperadas.
+Dialogue: 0,0:20:49.73,0:20:50.94,Top,Plateia,0,0,0,,Furuya!
+Dialogue: 0,0:20:50.94,0:20:52.31,Top,Plateia,0,0,0,,Furuya!
+Dialogue: 0,0:20:52.31,0:20:53.58,Top,Plateia,0,0,0,,Você é incrível!
+Dialogue: 0,0:20:53.58,0:20:54.77,Top,Plateia,0,0,0,,Furuya!
+Dialogue: 0,0:20:55.04,0:20:56.48,Default,Tojo,0,0,0,,Boa bola!
+Dialogue: 0,0:20:56.77,0:20:58.19,Default,Maezono,0,0,0,,Belo arremesso!
+Dialogue: 0,0:20:58.19,0:21:01.70,Default,Kuramochi,0,0,0,,Nenhuma bola veio pra cá!\NAssim vou acabar enferrujando!
+Dialogue: 0,0:21:02.35,0:21:04.61,Default,Kataoka,0,0,0,,Depois de assumir a liderança,
+Dialogue: 0,0:21:04.61,0:21:06.75,Default,Kataoka,0,0,0,,você teve uma atuação impecável!
+Dialogue: 0,0:21:06.75,0:21:08.00,Default,Ota,0,0,0,,Foi excelente!
+Dialogue: 0,0:21:08.38,0:21:11.02,Italics,Umemoto (M),0,0,0,,Foram 99 arremessos\Nrápidos e com toda a força!
+Dialogue: 0,0:21:14.14,0:21:16.70,Default,Kataoka (背),0,0,0,,Furuya, comece a 7ª entrada\Nno campo esquerdo.
+Dialogue: 0,0:21:17.95,0:21:19.38,Default,Kataoka (ON),0,0,0,,Sawamura, é com você!
+Dialogue: 0,0:21:19.74,0:21:20.51,Default,Sawamura,0,0,0,,Sim!
+Dialogue: 0,0:21:21.06,0:21:24.28,Italics,Ochiai (M),0,0,0,,Furuya não é tão experiente nesta\Nposição quanto o Aso,
+Dialogue: 0,0:21:24.28,0:21:26.18,Italics,Ochiai (M),0,0,0,,mas já pratica desde o ano passado.
+Dialogue: 0,0:21:26.18,0:21:29.52,Italics,Ochiai (M),0,0,0,,Acima de tudo, se ainda tiver\Nenergia, e caso precisemos,
+Dialogue: 0,0:21:29.52,0:21:31.31,Italics,Ochiai (M),0,0,0,,podemos colocá-lo de volta no monte.
+Dialogue: 0,0:21:32.10,0:21:34.77,Italics,Miyuki (M),0,0,0,,Ele conseguiu arremessar\Ncom tudo desde a 1ª entrada
+Dialogue: 0,0:21:35.30,0:21:36.90,Italics,Miyuki (M),0,0,0,,porque tinha o Sawamura.
+Dialogue: 0,0:21:37.63,0:21:40.70,Italics,Miyuki (M),0,0,0,,E, assim, pode passar o bastão em\Ncondições praticamente ideais.
+Dialogue: 0,0:21:44.61,0:21:45.60,Default,Furuya,0,0,0,,Conto com você.
+Dialogue: 0,0:21:46.13,0:21:48.45,Default,Sawamura,0,0,0,,Sim, pode deixar!
+Dialogue: 0,0:23:27.26,0:23:30.81,Default,Yui,0,0,0,,No próximo episódio de "{\i1}Ace of the\NDiamond: Act II{\i0}", segunda temporada,
+Dialogue: 0,0:23:30.93,0:23:36.89,Signs,next,0,0,0,,{\fad(433,0)\fs14\3c&H000000&\pos(214.56,130.82)}Próximo episódio
+Dialogue: 0,0:23:30.93,0:23:36.89,Signs,next,0,0,0,,{\fad(433,0)\an1\fs18\xbord3\3c&H000000&\pos(293.47,170.73)}Bastão
+Dialogue: 0,0:23:31.38,0:23:32.31,Default,Yui,0,0,0,,"Bastão"!
+Dialogue: 0,0:23:32.59,0:23:34.86,Default,Yui,0,0,0,,Vamos conquistar o título nacional!
+
