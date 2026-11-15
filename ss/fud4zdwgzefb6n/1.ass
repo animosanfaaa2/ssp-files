@@ -1,0 +1,354 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DefaultItalics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DefaultTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DefaultItalicsTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DefaultOverlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: FlashbackItalics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: FlashbackTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: FlashbackItalicsTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Signs,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,0
+Style: Credits,Arial,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,30,30,18,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.69,0:00:07.94,Default,HIRO,0,0,0,,We'll start with a transport ship \Nthat appears to be malfunctioning.
+Dialogue: 0,0:00:07.94,0:00:11.90,DefaultItalics,PIRATE,0,0,0,,Yahoo! We're here to save you, \Njust like you wanted.
+Dialogue: 0,0:00:11.90,0:00:16.88,DefaultItalics,PIRATE,0,0,0,,Don't worry. We'll take care of \Nyour ship, cargo, and women, too.
+Dialogue: 0,0:00:21.59,0:00:26.21,DefaultItalics,PIRATE,0,0,0,,Imperial forces? Damn it! \NWhat are they doing here?
+Dialogue: 0,0:00:26.21,0:00:31.72,Default,HIRO,0,0,0,,Once the pirates take the bait, we'll use \Nhidden military ships to take 'em out.
+Dialogue: 0,0:00:32.17,0:00:33.71,DefaultItalics,PIRATE,0,0,0,,Board the transport ship!
+Dialogue: 0,0:00:33.71,0:00:36.16,DefaultItalics,PIRATE,0,0,0,,We'll take the people on board hostage!
+Dialogue: 0,0:00:36.97,0:00:39.04,Default,HIRO,0,0,0,,Should the worst happen, don't worry.
+Dialogue: 0,0:00:39.98,0:00:44.05,Default,PIRATE,0,0,0,,Stay calm, everyone. \NWe'll kill anyone who resists.
+Dialogue: 0,0:00:44.34,0:00:45.24,Default,PIRATE,0,0,0,,What?
+Dialogue: 0,0:00:45.77,0:00:47.20,Default,SOLDIERS,0,0,0,,Welcome.
+Dialogue: 0,0:00:48.00,0:00:51.55,Default,HIRO,0,0,0,,A military power armor unit \Nwill be stationed on the ship.
+Dialogue: 0,0:00:51.55,0:00:54.20,Default,HIRO,0,0,0,,It's a foolproof, dual-layered strategy.
+Dialogue: 0,0:00:55.64,0:00:58.45,Default,HIRO,0,0,0,,They're biting like crazy. What a haul.
+Dialogue: 0,0:00:58.45,0:01:04.83,Default,SERENA,0,0,0,,Captain Hiro, I know I hired you \Nto be our pirate-hunting advisor,
+Dialogue: 0,0:01:04.83,0:01:07.54,Default,SERENA,0,0,0,,but isn't this deception \Na little unsporting?
+Dialogue: 0,0:01:07.85,0:01:14.77,Default,HIRO,0,0,0,,I'm just following your orders to \Nbe brutal, merciless, and thorough.
+Dialogue: 0,0:01:15.16,0:01:20.47,Default,SERENA,0,0,0,,I-I did say that, but I have my \Ndignity to uphold as a noble, too.
+Dialogue: 0,0:01:20.47,0:01:23.23,Default,HIRO,0,0,0,,Let's head to the next fishing spot!
+Dialogue: 0,0:01:24.83,0:01:29.39,Default,SERENA,0,0,0,,That's 382 pirate vessels \Ndestroyed or captured.
+Dialogue: 0,0:01:29.39,0:01:32.42,Default,SERENA,0,0,0,,All in one week, courtesy of our new unit.
+Dialogue: 0,0:01:32.42,0:01:35.28,Default,SERENA,0,0,0,,Even though I was involved, \NI still find it hard to believe.
+Dialogue: 0,0:01:35.28,0:01:37.58,Default,EMMA,0,0,0,,That's over 50 ships per day,
+Dialogue: 0,0:01:37.58,0:01:41.73,Default,EMMA,0,0,0,,far greater than our previous average.
+Dialogue: 0,0:01:42.05,0:01:44.90,Default,SERENA,0,0,0,,Still, as a proud Grakkan noble,
+Dialogue: 0,0:01:44.90,0:01:49.89,Default,SERENA,0,0,0,,our method leaves me reluctant \Nto celebrate our success.
+Dialogue: 0,0:01:49.89,0:01:51.90,Default,SERENA,0,0,0,,Georg, what's the sentiment \Namong the unit?
+Dialogue: 0,0:01:51.90,0:01:57.59,Default,GEORG,0,0,0,,Like you, some feel such cheap tricks \Nare beneath an official military unit,
+Dialogue: 0,0:01:57.59,0:02:02.05,Default,GEORG,0,0,0,,but none can deny the results \NCaptain Hiro has achieved.
+Dialogue: 0,0:02:02.05,0:02:06.51,Default,GEORG,0,0,0,,Many are eager to learn about \Npirate hunting from him.
+Dialogue: 0,0:02:06.83,0:02:09.47,Default,SERENA,0,0,0,,I see. Whatever his methods,
+Dialogue: 0,0:02:09.47,0:02:14.73,Default,SERENA,0,0,0,,he's contributed much to demonstrating \Nthe worth of our pirate-hunting unit.
+Dialogue: 0,0:02:14.73,0:02:17.42,Default,EMMA,0,0,0,,The higher-ups are changing their tune
+Dialogue: 0,0:02:17.42,0:02:21.20,Default,EMMA,0,0,0,,and are considering treating the decoy \Ntransport ships as an operating expense.
+Dialogue: 0,0:02:23.17,0:02:27.88,Default,GEORG,0,0,0,,In conclusion, it's clear that \NCaptain Hiro is an invaluable asset.
+Dialogue: 0,0:02:27.88,0:02:31.70,Default,SERENA,0,0,0,,I knew we shouldn't let him slip away.
+Dialogue: 1,0:03:58.71,0:04:00.71,Signs,TITLE,0,0,0,,{\an7\fad(1359,308)\bord2\fnArial Black\c&HFFFF91&\3c&HF8C034&\blur1\pos(200,262)\frz14.71\4c&HFFFC65&\shad2}Reborn as a Space Mercenary:\NI Woke Up Piloting the Strongest Starship!
+Dialogue: 0,0:04:00.34,0:04:02.96,Signs,TITLE,0,0,0,,{\an7\fad(396,1)\bord2\fnArial Black\c&HF6FAFE&\3c&HA46B01&\frz14.71\pos(200,262)\4c&H00DFE2&\shad2}Reborn as a {\c&H00ECF6&\3c&H0D0812&}Space Mercenary:\N{\c&HFEFDFB&\3c&HAFA7A8&}I Woke Up Piloting the {\c&HFFFDFB&\3c&HC77F00&}Strongest Starship!
+Dialogue: 0,0:04:05.26,0:04:09.22,Signs,EPTITLE,0,0,0,,{\fs20\fad(736,888)\fnVerdana\c&HF6EBE4&\shad2\b0\blur3\t(27,736,\blur0.2)\t(3072,3947,\blur3)\4c&H795442&\pos(130.5,263.5)}The Pirate-Hunting Unit
+Dialogue: 0,0:04:05.98,0:04:08.83,Default,SERENA,0,0,0,,So, shall we go?
+Dialogue: 0,0:04:09.68,0:04:11.65,Default,HIRO,0,0,0,,What are you up to?
+Dialogue: 0,0:04:12.07,0:04:15.22,Default,HIRO,0,0,0,,I just finished today's work.
+Dialogue: 0,0:04:15.63,0:04:18.12,Default,SERENA,0,0,0,,Would you join me for dinner?
+Dialogue: 0,0:04:18.12,0:04:21.45,Default,HIRO,0,0,0,,Dinner? Why not reward your \Nsubordinates instead?
+Dialogue: 0,0:04:21.45,0:04:25.41,Default,SERENA,0,0,0,,They could hardly relax while dining \Nwith their commanding officer.
+Dialogue: 0,0:04:25.78,0:04:29.87,Default,SERENA,0,0,0,,That said, unfortunately, I have \Nno friends in this star system.
+Dialogue: 0,0:04:29.87,0:04:31.56,Default,HIRO,0,0,0,,Only in this star system?
+Dialogue: 0,0:04:31.56,0:04:32.62,Default,SERENA,0,0,0,,What are you implying?
+Dialogue: 0,0:04:32.62,0:04:33.84,Default,HIRO,0,0,0,,Nothing at all.
+Dialogue: 0,0:04:35.14,0:04:40.26,Default,SERENA,0,0,0,,I've been wanting to chat \Nwith you outside of work.
+Dialogue: 0,0:04:40.54,0:04:43.30,Default,SERENA,0,0,0,,I'm personally interested \Nin your theories on pirate hunting
+Dialogue: 0,0:04:43.30,0:04:46.01,Default,SERENA,0,0,0,,and in your exploits as a mercenary.
+Dialogue: 0,0:04:46.01,0:04:48.46,Default,HIRO,0,0,0,,Only if my crew can accompany me.
+Dialogue: 0,0:04:48.89,0:04:53.17,Default,SERENA,0,0,0,,I'm not sure it's appropriate \Nto bring other women on a date.
+Dialogue: 0,0:04:53.59,0:04:56.24,Default,HIRO,0,0,0,,Then I'm afraid \NI'll have to pass this time.
+Dialogue: 0,0:04:57.09,0:04:58.66,Default,SERENA,0,0,0,,Fine.
+Dialogue: 0,0:04:59.38,0:05:05.28,Default,ELMA,0,0,0,,Lady Serena, allow me to formally \Nthank you for inviting us.
+Dialogue: 0,0:05:05.28,0:05:07.61,DefaultItalics,ELMA/ID,0,0,0,,Sorry you won't get to be alone with Hiro!
+Dialogue: 0,0:05:07.80,0:05:12.38,Default,SERENA,0,0,0,,Not at all. I'd like to hear your \Nthoughts as a veteran mercenary as well.
+Dialogue: 0,0:05:12.38,0:05:17.01,DefaultItalics,SERENA/ID,0,0,0,,Have you no shame? You reveal nothing, \Nnot even your thoughts or actual age!
+Dialogue: 0,0:05:19.50,0:05:20.96,Default,HIRO,0,0,0,,What the hell is this?
+Dialogue: 0,0:05:21.24,0:05:25.12,Default,SERENA,0,0,0,,I made a reservation at an \Norganic restaurant for tonight.
+Dialogue: 0,0:05:25.12,0:05:28.42,Default,SERENA,0,0,0,,It's well-reviewed, \Nso I'm sure you'll enjoy it.
+Dialogue: 0,0:05:29.40,0:05:33.16,Default,HIRO,0,0,0,,So they serve real meat and vegetables?
+Dialogue: 0,0:05:33.16,0:05:35.68,DefaultItalics,HIRO/ID,0,0,0,,It'll be my first time having \Nreal food in this world.
+Dialogue: 0,0:05:35.69,0:05:40.34,Default,MIMI,0,0,0,,R-Real meat and vegetables that \Ndon't come from food cartridges?
+Dialogue: 0,0:05:48.00,0:05:50.45,Default,ELMA,0,0,0,,This place's flagship restaurant \Nis in the imperial capital.
+Dialogue: 0,0:05:50.45,0:05:52.95,Default,ELMA,0,0,0,,You've got a keen eye, Lady Serena.
+Dialogue: 0,0:05:52.95,0:05:55.94,Default,SERENA,0,0,0,,I know. I visited often \Nwhile I was there.
+Dialogue: 0,0:05:55.94,0:05:57.56,Default,SERENA,0,0,0,,It's very good.
+Dialogue: 0,0:05:57.56,0:05:59.90,Default,HIRO,0,0,0,,Wow, Elma. That's my OG.
+Dialogue: 0,0:05:59.90,0:06:04.14,Default,HIRO,0,0,0,,As a first-rate mercenary, it figures \Nyou'd know about first-rate businesses.
+Dialogue: 0,0:06:04.45,0:06:09.09,Default,SERENA,0,0,0,,Oh, right. I reserved a private room, so \Nfeel free to drop formalities and relax.
+Dialogue: 0,0:06:09.60,0:06:13.57,Default,ELMA,0,0,0,,What were you hoping would happen \Nin a private room with Hiro?
+Dialogue: 0,0:06:14.82,0:06:18.51,Default,SERENA,0,0,0,,In any case, let us dispense with \Netiquette and dine as equals today.
+Dialogue: 0,0:06:19.89,0:06:24.53,Default,SERENA,0,0,0,,Everyone looks down on me \Njust because I'm a woman!
+Dialogue: 0,0:06:24.98,0:06:27.73,Default,SERENA,0,0,0,,I'm doing my best, you know.
+Dialogue: 0,0:06:27.98,0:06:32.52,DefaultItalics,ALL/ID,0,0,0,,She's good at her job, but outside \Nof that, she's disappointing.
+Dialogue: 0,0:06:34.62,0:06:37.24,DefaultItalics,HIRO/ID,0,0,0,,Things were going so well at first, too.
+Dialogue: 0,0:06:37.54,0:06:42.54,Flashback,SERENA,0,0,0,,Enjoy the food and drink \Nto your heart's content today.
+Dialogue: 0,0:06:42.54,0:06:44.71,Flashback,SERENA,0,0,0,,Thanks to Captain Hiro,
+Dialogue: 0,0:06:44.71,0:06:47.61,Flashback,SERENA,0,0,0,,most of the pirates in this star \Nsystem have been taken care of.
+Dialogue: 0,0:06:47.61,0:06:49.71,Flashback,SERENA,0,0,0,,We've even located their base.
+Dialogue: 0,0:06:50.28,0:06:56.67,Flashback,SERENA,0,0,0,,You'll be joining us in the assault on \Ntheir base, so build your strength today.
+Dialogue: 0,0:06:56.95,0:06:57.73,Flashback,HIRO,0,0,0,,Delicious!
+Dialogue: 0,0:06:57.73,0:07:00.78,Flashback,MIMI,0,0,0,,So this is real meat! It's so yummy!
+Dialogue: 0,0:07:00.78,0:07:02.44,Flashback,ELMA,0,0,0,,Man, that's good!
+Dialogue: 0,0:07:03.15,0:07:05.24,DefaultItalics,HIRO/ID,0,0,0,,I thought the evening would end calmly.
+Dialogue: 0,0:07:05.24,0:07:08.93,Default,SERENA,0,0,0,,They called my fleet a little girl's toy,
+Dialogue: 0,0:07:08.93,0:07:11.62,Default,SERENA,0,0,0,,but they sure changed their tune \Nonce we started succeeding!
+Dialogue: 0,0:07:11.62,0:07:15.08,Default,SERENA,0,0,0,,Well, screw those old, balding perverts!
+Dialogue: 0,0:07:15.24,0:07:16.68,DefaultItalics,HIRO/ID,0,0,0,,But as you can see...
+Dialogue: 0,0:07:17.55,0:07:19.36,Default,HIRO,0,0,0,,Um, Lieutenant Commander Serena,
+Dialogue: 0,0:07:19.36,0:07:22.04,Default,HIRO,0,0,0,,this may be a casual dinner, \Nbut perhaps you should calm down.
+Dialogue: 0,0:07:22.63,0:07:26.11,Default,SERENA,0,0,0,,What? Then join the military already!
+Dialogue: 0,0:07:26.11,0:07:29.93,Default,SERENA,0,0,0,,Why won't you, when I'm trying \Nso hard to recruit you?
+Dialogue: 0,0:07:29.93,0:07:34.77,Default,SERENA,0,0,0,,I'm a pretty lady! \NI have money and power, too!
+Dialogue: 0,0:07:35.14,0:07:39.22,Default,SERENA,0,0,0,,I get it. You just don't want \Nto put up with all {\i1}this{\i0}.
+Dialogue: 0,0:07:39.55,0:07:40.93,Default,ELMA,0,0,0,,Well, at least you're self-aware.
+Dialogue: 0,0:07:40.93,0:07:47.52,Default,HIRO,0,0,0,,I won't join the military, but I'm willing\Nto do more jobs for you in the future.
+Dialogue: 0,0:07:47.52,0:07:49.90,Default,SERENA,0,0,0,,Then enter a permanent contract with me.
+Dialogue: 0,0:07:49.90,0:07:51.66,Default,MIMI,0,0,0,,W-We can't do that!
+Dialogue: 0,0:07:51.66,0:07:53.62,Default,HIRO,0,0,0,,Well, actually...
+Dialogue: 0,0:07:53.84,0:07:58.95,Default,SERENA,0,0,0,,Why are you looking at each other \Nlike that? Do you not want to?
+Dialogue: 0,0:07:59.24,0:08:04.01,Default,HIRO,0,0,0,,We've been working nonstop since \Nwe left the Tarmein Star System.
+Dialogue: 0,0:08:04.01,0:08:05.40,Default,HIRO,0,0,0,,Once this job is done,
+Dialogue: 0,0:08:05.40,0:08:09.80,Default,HIRO,0,0,0,,the three of us are going to a nearby \Ntourist planet for some fun.
+Dialogue: 0,0:08:11.64,0:08:16.60,Default,SERENA,0,0,0,,That's not fair! I want to have fun, too!
+Dialogue: 0,0:08:15.49,0:08:17.38,DefaultOverlap,ELMA,0,0,0,,Hey, watch out.
+Dialogue: 0,0:08:17.96,0:08:19.45,Default,HIRO,0,0,0,,Man, what a pain.
+Dialogue: 0,0:08:19.45,0:08:21.35,DefaultItalics,HIRO/ID,0,0,0,,Lady Serena, please calm down.
+Dialogue: 0,0:08:21.35,0:08:23.65,Default,MIMI,0,0,0,,Mr. Hiro, you said the \Nwrong part out loud!
+Dialogue: 0,0:08:23.65,0:08:27.13,Default,SERENA,0,0,0,,How dare you! I'm the daughter \Nof a marquess, you know!
+Dialogue: 0,0:08:27.13,0:08:29.11,Default,SERENA,0,0,0,,I'm a noble lady!
+Dialogue: 0,0:08:32.11,0:08:34.02,Default,HIRO,0,0,0,,What are we supposed to do now?
+Dialogue: 0,0:08:34.02,0:08:35.99,Default,ELMA,0,0,0,,You could take her to bed.
+Dialogue: 0,0:08:35.99,0:08:36.87,Default,HIRO,0,0,0,,Yeah, no.
+Dialogue: 0,0:08:38.82,0:08:42.97,Default,HIRO,0,0,0,,That said, I can't send her back \Nto the military like this.
+Dialogue: 0,0:08:51.50,0:08:54.48,Default,SERENA,0,0,0,,I'm terribly sorry about last night.
+Dialogue: 0,0:08:55.72,0:08:59.50,Default,HIRO,0,0,0,,All we did was eat good food \Nand enjoy good drink.
+Dialogue: 0,0:08:59.92,0:09:02.05,Default,SERENA,0,0,0,,I appreciate your consideration.
+Dialogue: 0,0:09:02.73,0:09:08.59,Default,SERENA,0,0,0,,U-Um, as for extending your contract \Nto assault the pirate base...
+Dialogue: 0,0:09:08.59,0:09:11.40,Default,HIRO,0,0,0,,As a mercenary, I'll honor my contract.
+Dialogue: 0,0:09:11.68,0:09:13.33,Default,SERENA,0,0,0,,Thank you.
+Dialogue: 0,0:09:14.05,0:09:16.00,Default,SERENA,0,0,0,,Well, I must be going.
+Dialogue: 0,0:09:19.29,0:09:23.74,Default,MIMI,0,0,0,,Being a noble and a female \Nofficer must be tough.
+Dialogue: 0,0:09:31.09,0:09:33.05,Default,SERENA,0,0,0,,It's time to bring our \Nefforts to fruition.
+Dialogue: 0,0:09:33.33,0:09:37.52,Default,SERENA,0,0,0,,With the skills you've honed, \Nthis should be no trouble at all.
+Dialogue: 0,0:09:37.52,0:09:41.96,Default,SERENA,0,0,0,,Let us waste no time painting the cosmos \Nwith the blood and screams of pirate scum!
+Dialogue: 0,0:09:42.32,0:09:43.82,DefaultItalics,SOLDIERS,0,0,0,,Aye-aye, ma'am!
+Dialogue: 0,0:09:44.74,0:09:47.73,Default,ELMA,0,0,0,,Wow, the soldiers are really inspired.
+Dialogue: 0,0:09:47.73,0:09:50.81,Default,HIRO,0,0,0,,She's certainly a competent \Nofficer, at least.
+Dialogue: 0,0:09:50.81,0:09:54.62,Default,MIMI,0,0,0,,Mr. Hiro, I've started charging \Nthe lightspeed drive.
+Dialogue: 0,0:09:54.95,0:09:59.78,Default,MIMI,0,0,0,,Five, four, three, two, one.
+Dialogue: 0,0:09:59.78,0:10:02.00,Default,MIMI,0,0,0,,Engaging lightspeed drive!
+Dialogue: 0,0:10:03.32,0:10:08.04,Default,HIRO,0,0,0,,All right. Let's go fulfill our contract.
+Dialogue: 0,0:10:04.08,0:10:09.00,Signs,TITLE,0,0,0,,{\fad(901,1)\fs12\fscx88\an7\bord1.5\fnArial Black\c&HF6FAFE&\3c&HA46B01&\frz14.71\4c&H1FEEFA&\shad1.5\pos(462,274)}Reborn as a {\c&H00ECF6&\3c&H0D0812&}Space Mercenary:\N{\c&HFEFDFB&\3c&HAFA7A8&}I Woke Up Piloting the {\c&HFFFDFB&\3c&HC77F00&}Strongest Starship!
+Dialogue: 0,0:10:09.00,0:10:14.00,Signs,TITLE,0,0,0,,{\fs12\fscx88\an7\bord1.5\fnArial Black\c&HF6FAFE&\3c&HA46B01&\frz14.71\4c&H1FEEFA&\shad1.5\pos(452,270)}Reborn as a {\c&H00ECF6&\3c&H0D0812&}Space Mercenary:\N{\c&HFEFDFB&\3c&HAFA7A8&}I Woke Up Piloting the {\c&HFFFDFB&\3c&HC77F00&}Strongest Starship!
+Dialogue: 0,0:10:17.14,0:10:20.76,Default,HIRO,0,0,0,,Those pirates sure were strong.
+Dialogue: 0,0:10:20.76,0:10:23.22,Default,ELMA,0,0,0,,That's not what your face is saying.
+Dialogue: 0,0:10:24.68,0:10:27.94,Default,HIRO,0,0,0,,As expected, their base \Nwas packed with stuff.
+Dialogue: 0,0:10:27.94,0:10:30.66,Default,ELMA,0,0,0,,You better not have picked up \Nanything weird again.
+Dialogue: 0,0:10:30.66,0:10:33.64,Default,HIRO,0,0,0,,Just how traumatized are you \Nby that singing crystal?
+Dialogue: 0,0:10:33.90,0:10:37.11,Default,HIRO,0,0,0,,Either way, job done. \NGood work, everyone.
+Dialogue: 0,0:10:37.78,0:10:41.00,Default,ELMA,0,0,0,,Lieutenant Commander Serena was \Nglaring at us until the moment we left
+Dialogue: 0,0:10:41.00,0:10:44.46,Default,ELMA,0,0,0,,while she stayed behind \Nto deal with the aftermath.
+Dialogue: 0,0:10:44.46,0:10:48.20,Default,HIRO,0,0,0,,We weren't hired to deal with that.
+Dialogue: 0,0:10:48.20,0:10:49.92,Default,HIRO,0,0,0,,Anyway, when we get back, it's break time.
+Dialogue: 0,0:10:49.92,0:10:55.05,Default,MIMI,0,0,0,,I did some research. What do you \Nthink of the Cierra Star System?
+Dialogue: 0,0:10:55.05,0:10:57.89,Default,MIMI,0,0,0,,It has three tourist planets.
+Dialogue: 0,0:10:57.89,0:11:01.51,Default,HIRO,0,0,0,,Oh? The entire planet is a resort?
+Dialogue: 0,0:11:01.51,0:11:03.87,Default,HIRO,0,0,0,,That's a whole other level of relaxation.
+Dialogue: 0,0:11:03.87,0:11:06.35,Default,MIMI,0,0,0,,We've arrived at the \NArein Tertius Colony.
+Dialogue: 0,0:11:06.35,0:11:09.08,Default,MIMI,0,0,0,,I'm shutting off our high-speed drive.
+Dialogue: 0,0:11:14.85,0:11:17.35,Default,HIRO,0,0,0,,Does something seem off to you?
+Dialogue: 0,0:11:17.35,0:11:18.27,Default,ELMA,0,0,0,,Huh?
+Dialogue: 0,0:11:24.86,0:11:26.65,Default,ELMA,0,0,0,,You're right. Something's up.
+Dialogue: 0,0:11:26.65,0:11:31.62,Default,ELMA,0,0,0,,There are scattered power outages, and \Nthose ships looked like they were fleeing.
+Dialogue: 0,0:11:31.90,0:11:35.46,DefaultItalics,STAFF,0,0,0,,This is the Arein Tertius \NColony port authority.
+Dialogue: 0,0:11:35.46,0:11:38.09,DefaultItalics,STAFF,0,0,0,,If you can hear this, please help us.
+Dialogue: 0,0:11:38.09,0:11:38.96,Default,HIRO,0,0,0,,Mimi.
+Dialogue: 0,0:11:38.96,0:11:40.01,Default,MIMI,0,0,0,,Yes, sir.
+Dialogue: 0,0:11:40.01,0:11:42.07,Default,HIRO,0,0,0,,This is Captain Hiro. I'm a mercenary.
+Dialogue: 0,0:11:42.07,0:11:43.88,Default,HIRO,0,0,0,,What happened to the colony?
+Dialogue: 0,0:11:43.88,0:11:45.20,DefaultItalics,STAFF,0,0,0,,A mercenary?
+Dialogue: 0,0:11:45.57,0:11:49.10,DefaultItalics,STAFF,0,0,0,,Do you have power armor \Ndesigned for combat on your ship?
+Dialogue: 0,0:11:49.10,0:11:51.43,Default,HIRO,0,0,0,,What? Yeah, I do.
+Dialogue: 0,0:11:51.69,0:11:52.94,DefaultItalics,STAFF,0,0,0,,Please help us.
+Dialogue: 0,0:11:52.94,0:11:55.80,DefaultItalics,STAFF,0,0,0,,We're under attack by \Nunidentified organisms.
+Dialogue: 0,0:11:56.14,0:11:57.41,Default,ALL,0,0,0,,What?
+Dialogue: 0,0:12:01.32,0:12:03.68,Default,HIRO,0,0,0,,Elma, handle the docking.
+Dialogue: 0,0:12:03.68,0:12:04.77,DefaultItalics,ELMA,0,0,0,,Aye-aye, sir.
+Dialogue: 0,0:12:05.53,0:12:08.49,Default,HIRO,0,0,0,,Mimi, notify me as soon \Nas you learn anything.
+Dialogue: 0,0:12:08.49,0:12:09.58,DefaultItalics,MIMI,0,0,0,,Yes, sir.
+Dialogue: 0,0:12:14.34,0:12:17.22,Default,ELMA,0,0,0,,Docking at colony hangar three completed.
+Dialogue: 0,0:12:17.67,0:12:20.76,Default,MIMI,0,0,0,,I'm sending you a map of \Nthe area around the port.
+Dialogue: 0,0:12:20.76,0:12:23.18,Default,MIMI,0,0,0,,There are roughly 100 enemy life signs.
+Dialogue: 0,0:12:23.18,0:12:26.46,Default,HIRO,0,0,0,,Once you drop me off, stay on the ship.
+Dialogue: 0,0:12:26.46,0:12:29.08,Default,HIRO,0,0,0,,You'll be safe on the Krishna.
+Dialogue: 0,0:12:29.08,0:12:30.81,DefaultItalics,ELMA,0,0,0,,You don't have to tell me twice.
+Dialogue: 0,0:12:30.81,0:12:32.88,DefaultItalics,ELMA,0,0,0,,Don't get yourself killed out there.
+Dialogue: 0,0:12:32.88,0:12:34.57,Default,MIMI,0,0,0,,Mr. Hiro, be careful.
+Dialogue: 0,0:12:34.57,0:12:36.05,DefaultItalics,HIRO,0,0,0,,Roger. Open the hatch.
+Dialogue: 0,0:12:36.05,0:12:36.85,Default,MIMI,0,0,0,,Opening hatch.
+Dialogue: 0,0:12:37.39,0:12:39.58,DefaultItalics,HIRO,0,0,0,,Unidentified monsters, huh?
+Dialogue: 0,0:12:40.04,0:12:43.97,Default,HIRO,0,0,0,,I don't remember any events \Nlike this from {\i1}Stella Online.{\i0}
+Dialogue: 0,0:12:43.97,0:12:46.66,Default,HIRO,0,0,0,,I guess this world's \Ndifferent from the game.
+Dialogue: 0,0:12:46.66,0:12:48.25,Default,HIRO,0,0,0,,What a pain in the ass.
+Dialogue: 0,0:12:48.78,0:12:52.74,DefaultItalics,HIRO,0,0,0,,TMPA13 RIKISHI Mark 3 moving out.
+Dialogue: 0,0:13:06.66,0:13:08.70,DefaultItalics,HIRO,0,0,0,,What a mess.
+Dialogue: 0,0:13:10.11,0:13:12.68,DefaultItalics,HIRO,0,0,0,,No life signs detected.
+Dialogue: 0,0:13:13.72,0:13:17.09,Default,HIRO,0,0,0,,I'll get paid to avenge you, \Nso consider it done. Rest in peace.
+Dialogue: 0,0:13:23.82,0:13:25.65,Default,HIRO,0,0,0,,These things...
+Dialogue: 0,0:13:40.47,0:13:42.42,Default,HIRO,0,0,0,,Now this is incredible.
+Dialogue: 0,0:13:43.39,0:13:44.72,DefaultItalics,HIRO,0,0,0,,Heave!
+Dialogue: 0,0:13:47.78,0:13:52.84,DefaultItalics,HIRO,0,0,0,,Come on, now. This thing's \Nstronger and tougher than that.
+Dialogue: 0,0:13:53.07,0:13:54.35,Default,HIRO,0,0,0,,Bring it on!
+Dialogue: 0,0:13:54.35,0:13:57.31,DefaultItalics,HIRO,0,0,0,,I'm ready for my first fight \Non the Arein Tertius Colony!
+Dialogue: 0,0:13:57.87,0:14:02.26,DefaultItalics,HIRO,0,0,0,,Two-handed ultra-high-voltage \Ncurrent emission harite!
+Dialogue: 0,0:14:06.94,0:14:10.44,DefaultItalics,HIRO,0,0,0,,Amplified stomp shiko!
+Dialogue: 0,0:14:15.41,0:14:19.44,DefaultItalics,HIRO,0,0,0,,High-output shoulder laser gun shikiri!
+Dialogue: 0,0:14:22.45,0:14:26.94,DefaultItalics,HIRO,0,0,0,,High-speed body slam with shields up!
+Dialogue: 0,0:14:27.83,0:14:29.71,DefaultItalics,HIRO,0,0,0,,Take this!
+Dialogue: 0,0:14:33.50,0:14:35.47,Default,MIMI,0,0,0,,Ms. Elma, he's...
+Dialogue: 0,0:14:35.47,0:14:39.48,Default,ELMA,0,0,0,,Men can't help themselves when \Nthey pilot things like that.
+Dialogue: 0,0:14:40.44,0:14:42.23,Default,HIRO,0,0,0,,Strength is power!
+Dialogue: 0,0:14:46.79,0:14:51.31,DefaultItalics,MIMI,0,0,0,,No enemy lifeforms detected. \NThe port is safe.
+Dialogue: 0,0:14:51.31,0:14:53.67,DefaultItalics,MIMI,0,0,0,,Good work, Mr. Hiro.
+Dialogue: 0,0:14:54.31,0:14:57.10,Default,HIRO,0,0,0,,Roger. Thanks for the guidance, Mimi.
+Dialogue: 0,0:14:57.10,0:14:59.54,DefaultItalics,ELMA,0,0,0,,Where'd all your excitement go?
+Dialogue: 0,0:14:59.54,0:15:01.40,Default,HIRO,0,0,0,,After all that, I feel surprisingly calm.
+Dialogue: 0,0:15:01.40,0:15:03.62,Default,HIRO,0,0,0,,So, is our work here done?
+Dialogue: 0,0:15:03.87,0:15:08.36,Default,ELMA,0,0,0,,The local power armor units \Nare handling the other areas.
+Dialogue: 0,0:15:08.36,0:15:09.83,Default,ELMA,0,0,0,,It should be fine now.
+Dialogue: 0,0:15:10.99,0:15:13.80,Default,MIMI,0,0,0,,We've received a request \Nfor help through the guild.
+Dialogue: 0,0:15:13.80,0:15:16.55,Default,MIMI,0,0,0,,It's from Inagawa Technology.
+Dialogue: 0,0:15:16.55,0:15:20.03,Default,MIMI,0,0,0,,Those monsters have \Nsurrounded their hospital.
+Dialogue: 0,0:15:20.03,0:15:21.01,Default,HIRO,0,0,0,,Inagawa?
+Dialogue: 0,0:15:21.55,0:15:23.98,DefaultItalics,MIMI,0,0,0,,The military hasn't been \Nable to reach them.
+Dialogue: 0,0:15:23.98,0:15:25.63,DefaultItalics,MIMI,0,0,0,,They're willing to pay double.
+Dialogue: 0,0:15:25.63,0:15:28.48,Default,HIRO,0,0,0,,Double? Not bad. We'll do it.
+Dialogue: 0,0:15:28.48,0:15:34.23,DefaultItalics,MIMI,0,0,0,,Then head straight ahead and take the \Nelevator on the right to the middle level.
+Dialogue: 0,0:15:34.23,0:15:35.95,DefaultItalics,HIRO,0,0,0,,Roger.
+Dialogue: 0,0:15:39.32,0:15:42.90,DefaultItalics,HIRO,0,0,0,,Maybe this isn't the best time to \Nmention it, but those monsters...
+Dialogue: 0,0:15:43.58,0:15:44.85,Default,HIRO,0,0,0,,Didn't they look familiar?
+Dialogue: 0,0:15:44.85,0:15:45.94,DefaultItalics,MIMI,0,0,0,,They did.
+Dialogue: 0,0:15:45.94,0:15:47.12,DefaultItalics,ELMA,0,0,0,,They sure did.
+Dialogue: 0,0:15:49.16,0:15:51.44,DefaultItalics,HIRO,0,0,0,,Maybe their security was lax.
+Dialogue: 0,0:15:51.44,0:15:53.63,DefaultItalics,HIRO,0,0,0,,They might not be from \Nthat factory, though.
+Dialogue: 0,0:15:54.16,0:15:57.70,Default,ELMA,0,0,0,,They did say those couldn't\Nsurvive outside the factory.
+Dialogue: 0,0:15:57.70,0:16:00.04,Default,ELMA,0,0,0,,Maybe we shouldn't dig into it.
+Dialogue: 0,0:16:00.04,0:16:02.48,Default,MIMI,0,0,0,,For our sanity's sake, as well.
+Dialogue: 0,0:16:02.69,0:16:05.34,DefaultItalics,HIRO,0,0,0,,Either way, this comes first.
+Dialogue: 0,0:16:06.18,0:16:09.35,Default,HIRO,0,0,0,,Time to clean up this filth!
+Dialogue: 0,0:16:15.82,0:16:18.28,DefaultItalics,HIRO,0,0,0,,Hold up. What the hell is that?
+Dialogue: 0,0:16:26.20,0:16:27.66,Default,HIRO,0,0,0,,Are those human eyes?
+Dialogue: 0,0:16:30.29,0:16:31.51,DefaultItalics,HIRO,0,0,0,,It's fast.
+Dialogue: 0,0:16:47.73,0:16:50.32,Default,HIRO,0,0,0,,Just like me. Don't tell me...
+Dialogue: 0,0:16:53.09,0:16:54.95,DefaultItalics,HIRO,0,0,0,,I don't think so!
+Dialogue: 0,0:16:55.30,0:16:57.03,DefaultItalics,HIRO,0,0,0,,Say goodbye!
+Dialogue: 0,0:17:03.17,0:17:04.15,DefaultItalics,HIRO,0,0,0,,Yikes.
+Dialogue: 0,0:17:10.15,0:17:12.43,Default,HIRO,0,0,0,,You're tough, aren't you?
+Dialogue: 0,0:17:21.79,0:17:24.77,DefaultItalics,HIRO,0,0,0,,Okay, you're seriously tough.
+Dialogue: 0,0:17:24.97,0:17:27.27,DefaultItalics,MIMI,0,0,0,,Mr. Hiro, your energy's getting low.
+Dialogue: 0,0:17:27.27,0:17:29.24,DefaultItalics,ELMA,0,0,0,,You'll blow out your generator.
+Dialogue: 0,0:17:29.55,0:17:33.61,Default,HIRO,0,0,0,,I didn't want to do this, \Nbut I guess I don't have a choice.
+Dialogue: 0,0:17:33.61,0:17:35.19,Default,HIRO,0,0,0,,Disable shields.
+Dialogue: 0,0:17:35.19,0:17:37.26,DefaultItalics,HIRO,0,0,0,,Come at me!
+Dialogue: 0,0:17:41.61,0:17:44.37,Default,HIRO,0,0,0,,This is it. Lock all joints.
+Dialogue: 0,0:17:44.72,0:17:46.62,DefaultItalics,HIRO,0,0,0,,Gotcha!
+Dialogue: 0,0:17:47.59,0:17:49.09,DefaultItalics,HIRO,0,0,0,,Can't move now, can you?
+Dialogue: 0,0:17:49.09,0:17:51.34,DefaultItalics,HIRO,0,0,0,,Did you know I could do this?
+Dialogue: 0,0:17:51.34,0:17:54.54,Default,HIRO,0,0,0,,Anyway, this is a plasma grenade.
+Dialogue: 0,0:17:57.19,0:18:03.23,Default,HIRO,0,0,0,,Let's see how well you regenerate \Nwith a gut full of super-hot plasma.
+Dialogue: 0,0:18:18.89,0:18:21.61,Default,HIRO,0,0,0,,There's no way it can \Nregenerate from that.
+Dialogue: 0,0:18:21.61,0:18:24.39,DefaultItalics,MIMI,0,0,0,,Mr. Hiro, are you all right?
+Dialogue: 0,0:18:24.39,0:18:26.87,Default,HIRO,0,0,0,,Yeah, I'm fine. Don't worry.
+Dialogue: 0,0:18:26.87,0:18:28.48,DefaultItalics,MIMI,0,0,0,,Thank goodness.
+Dialogue: 0,0:18:28.48,0:18:30.74,DefaultItalics,ELMA,0,0,0,,Sounds like you actually \Nstruggled for once.
+Dialogue: 0,0:18:30.74,0:18:33.85,Default,HIRO,0,0,0,,Yeah. It was tough as nails, \Nso I had to use my trump card.
+Dialogue: 0,0:18:33.85,0:18:35.83,Default,HIRO,0,0,0,,I'd rather not do that again anytime soon.
+Dialogue: 0,0:18:36.11,0:18:40.29,Default,SHOUKO,0,0,0,,It seems you've saved my life once again.
+Dialogue: 0,0:18:40.58,0:18:42.14,Default,HIRO,0,0,0,,Doctor Shouko.
+Dialogue: 0,0:18:42.93,0:18:48.89,Default,SHOUKO,0,0,0,,You've saved me so many times, \Nit's really starting to feel like fate.
+Dialogue: 0,0:18:51.34,0:18:53.59,Default,SHOUKO,0,0,0,,I really appreciate it.
+Dialogue: 0,0:18:53.59,0:18:56.82,Default,SHOUKO,0,0,0,,I'd barricaded myself in with my \Ncolleagues, but it was a close call.
+Dialogue: 0,0:18:57.11,0:18:58.41,DefaultItalics,HIRO/ID,0,0,0,,Isn't this Pocari?
+Dialogue: 0,0:18:58.88,0:19:01.79,Default,SHOUKO,0,0,0,,The situation is rough all around,
+Dialogue: 0,0:19:01.79,0:19:05.10,Default,SHOUKO,0,0,0,,but I can produce \Nexterminating nanomachines
+Dialogue: 0,0:19:05.10,0:19:07.64,Default,SHOUKO,0,0,0,,from the creatures you \Nand the military defeated.
+Dialogue: 0,0:19:07.64,0:19:09.74,Default,SHOUKO,0,0,0,,Things should be resolved in a day or two.
+Dialogue: 0,0:19:10.09,0:19:12.77,Default,HIRO,0,0,0,,They're that easy to make?
+Dialogue: 0,0:19:12.77,0:19:17.32,Default,SHOUKO,0,0,0,,The empire's best high-tech corporations \Ncan be found at this research colony.
+Dialogue: 0,0:19:17.32,0:19:19.39,Default,SHOUKO,0,0,0,,With their resources, it's a cakewalk.
+Dialogue: 0,0:19:19.39,0:19:23.57,Default,SHOUKO,0,0,0,,Of course, we also have them \Nto thank for this whole mess.
+Dialogue: 0,0:19:24.05,0:19:29.23,Default,SHOUKO,0,0,0,,They'll probably write it off \Nas a biological attack by ecoterrorists.
+Dialogue: 0,0:19:29.58,0:19:31.57,Default,HIRO,0,0,0,,So you cover each other's asses.
+Dialogue: 0,0:19:31.57,0:19:34.09,Default,SHOUKO,0,0,0,,I'm sorry you were dragged into this.
+Dialogue: 0,0:19:34.09,0:19:37.27,Default,HIRO,0,0,0,,It's not your fault.
+Dialogue: 0,0:19:37.27,0:19:40.18,Default,HIRO,0,0,0,,And I'm a mercenary. \NI'm used to dealing with bullshit.
+Dialogue: 0,0:19:40.43,0:19:42.61,Default,SHOUKO,0,0,0,,Thank you, Hiro.
+Dialogue: 0,0:19:42.61,0:19:47.16,Default,HIRO,0,0,0,,Inagawa should probably improve \Nits security, though.
+Dialogue: 0,0:19:47.16,0:19:48.79,Default,SHOUKO,0,0,0,,I'll let my superiors know.
+Dialogue: 0,0:19:48.79,0:19:52.15,Default,SHOUKO,0,0,0,,That said, the elderly can be slow to act.
+Dialogue: 0,0:19:52.41,0:19:55.25,Default,HIRO,0,0,0,,Why not become our ship's doctor, then?
+Dialogue: 0,0:19:55.65,0:19:58.12,Default,HIRO,0,0,0,,The Krishna's the safest \Nplace in all of space.
+Dialogue: 0,0:19:58.53,0:20:02.52,Default,SHOUKO,0,0,0,,Ask me again once you've outfitted it
+Dialogue: 0,0:20:02.52,0:20:06.59,Default,SHOUKO,0,0,0,,with enough research facilities \Nand subjects to satisfy me.
+Dialogue: 0,0:20:06.97,0:20:08.31,Default,HIRO,0,0,0,,Well, I tried.
+Dialogue: 0,0:20:14.44,0:20:19.40,Default,ELMA,0,0,0,,We're leaving after one night? \NWhat's the big rush?
+Dialogue: 0,0:20:19.65,0:20:23.85,Default,HIRO,0,0,0,,The incident may be over, but the \Ncolony's still dealing with the fallout.
+Dialogue: 0,0:20:24.18,0:20:27.81,Default,HIRO,0,0,0,,I'd rather go on vacation than \Nwait around for them to finish.
+Dialogue: 0,0:20:28.32,0:20:30.25,Default,HIRO,0,0,0,,Besides, if we leave now—
+Dialogue: 0,0:20:30.25,0:20:34.47,Default,MIMI,0,0,0,,Mr. Hiro, we're receiving a transmission \Nfrom Lieutenant Commander Serena.
+Dialogue: 0,0:20:34.47,0:20:35.79,Default,HIRO,0,0,0,,Too slow, huh?
+Dialogue: 0,0:20:36.28,0:20:39.75,DefaultItalics,SERENA,0,0,0,,That's not very nice, Captain Hiro.
+Dialogue: 0,0:20:40.11,0:20:43.73,Default,SERENA,0,0,0,,I've been briefed on what \Nhappened at the colony.
+Dialogue: 0,0:20:43.73,0:20:45.73,Default,SERENA,0,0,0,,It seems you stole the show once again.
+Dialogue: 0,0:20:46.04,0:20:48.68,DefaultItalics,HIRO,0,0,0,,Yeah, so I thought I was \Nabout due for a vacation.
+Dialogue: 0,0:20:48.92,0:20:52.11,Default,SERENA,0,0,0,,You just wanted to get away \Nbefore I returned.
+Dialogue: 0,0:20:53.38,0:20:57.05,Default,SERENA,0,0,0,,Am I really that irritating?
+Dialogue: 0,0:20:57.05,0:20:59.99,Default,HIRO,0,0,0,,I-I wouldn't say that.
+Dialogue: 0,0:20:59.99,0:21:02.99,Default,HIRO,0,0,0,,Your status just makes \Nthings complicated.
+Dialogue: 0,0:21:02.99,0:21:05.44,DefaultItalics,HIRO,0,0,0,,I'm not worthy of your presence.
+Dialogue: 0,0:21:06.11,0:21:10.24,Default,SERENA,0,0,0,,I won't press the issue any more. Just...
+Dialogue: 0,0:21:11.24,0:21:12.70,Default,HIRO,0,0,0,,Did you say something?
+Dialogue: 0,0:21:12.70,0:21:14.21,DefaultItalics,SERENA,0,0,0,,Will I, um...
+Dialogue: 0,0:21:15.02,0:21:17.16,DefaultItalics,SERENA,0,0,0,,Will I be able to see you again?
+Dialogue: 0,0:21:18.29,0:21:20.12,Default,HIRO,0,0,0,,Should the opportunity arise.
+Dialogue: 0,0:21:21.33,0:21:23.58,Default,SERENA,0,0,0,,Very well. Then until next time.
+Dialogue: 0,0:21:26.31,0:21:28.83,Default,HIRO,0,0,0,,That wasn't fair.
+Dialogue: 0,0:21:28.83,0:21:29.72,Default,MIMI,0,0,0,,But...
+Dialogue: 0,0:21:30.42,0:21:34.04,Default,MIMI,0,0,0,,You really are a sucker \Nfor beautiful women.
+Dialogue: 0,0:21:34.04,0:21:38.35,Default,ELMA,0,0,0,,Yeah, whether it's Lieutenant \NCommander Serena or Dr. Shouko.
+Dialogue: 0,0:21:38.35,0:21:40.69,Default,HIRO,0,0,0,,Yeah, yeah. Sorry.
+Dialogue: 0,0:21:40.69,0:21:43.57,Default,HIRO,0,0,0,,I promise I'll treat you \Nin the Cierra Star System.
+Dialogue: 0,0:21:43.57,0:21:45.41,Default,ELMA,0,0,0,,I'm gonna hold you to that.
+Dialogue: 0,0:21:45.41,0:21:46.62,Default,MIMI,0,0,0,,I'm looking forward to it.
+Dialogue: 0,0:21:46.62,0:21:48.22,Default,HIRO,0,0,0,,Now, let's go on vacation!
+Dialogue: 0,0:21:48.22,0:21:49.27,Default,MIMI & ELMA,0,0,0,,Yeah!
+Dialogue: 0,0:21:53.08,0:21:57.08,Credits,CREDITS,0,0,0,,Translation: Sho Stifler\NEditing & Typesetting: Geoff Mazzolini
+Dialogue: 0,0:21:57.08,0:22:01.09,Credits,CREDITS,0,0,0,,Subtitle Timing: Edgar Cruz\NQuality Check: Alicia Ashby
+Dialogue: 0,0:23:35.01,0:23:40.09,Signs,NEXTEPTITLE,0,0,0,,{\fnTrebuchet MS\fs32\bord1.7\c&H2AFFFD&\3c&H171817&\pos(325,234)}Sleeping Beauty
+
