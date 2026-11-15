@@ -1,0 +1,387 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.73,0:00:10.47,italics,Aya,0,0,0,,So cold...
+Dialogue: 0,0:00:11.24,0:00:14.35,italics,AyaM,0,0,0,,How did it come to this?
+Dialogue: 0,0:00:15.49,0:00:17.89,italics,AyaM,0,0,0,,Hey, Takatsuki-kun,
+Dialogue: 0,0:00:19.13,0:00:21.62,italics,AyaM,0,0,0,,look at me.
+Dialogue: 0,0:00:22.64,0:00:25.67,italics,AyaM,0,0,0,,Oh... It's no use.
+Dialogue: 0,0:00:36.26,0:00:37.76,Default,LamiaMom,0,0,0,,Oh?
+Dialogue: 0,0:00:37.76,0:00:42.27,Default,LamiaMom,0,0,0,,So you're the first among \Nyour sisters to hatch?
+Dialogue: 0,0:00:47.23,0:00:48.43,Default,Aya,0,0,0,,No way...
+Dialogue: 0,0:00:49.83,0:00:52.12,Default,LamiaMom,0,0,0,,My sweet child,
+Dialogue: 0,0:00:52.12,0:00:55.79,Default,LamiaMom,0,0,0,,let me see your face.
+Dialogue: 0,0:01:05.19,0:01:06.04,Default,Aya,0,0,0,,Huh?
+Dialogue: 0,0:02:40.26,0:02:43.56,top,sign,0,0,0,,EPISODE 6\NMAKOTO TAKATSUKI MEETS A DRAGON
+Dialogue: 0,0:02:40.25,0:02:44.18,Default,Mary,0,0,0,,So tomorrow, you're finally heading out \Nto the great labyrinth, Labyrinthos?
+Dialogue: 0,0:02:44.18,0:02:46.00,Default,Jean,0,0,0,,It'll be lonely without you.
+Dialogue: 0,0:02:46.00,0:02:46.88,Default,Emily,0,0,0,,Yeah.
+Dialogue: 0,0:02:46.88,0:02:49.15,Default,Makoto,0,0,0,,Hey, it's not like we're parting forever.
+Dialogue: 0,0:02:49.15,0:02:50.44,Default,Lucy,0,0,0,,That's right, that's right!
+Dialogue: 0,0:02:50.72,0:02:52.64,Default,Lucas,0,0,0,,It's your turn, huh?
+Dialogue: 0,0:02:52.64,0:02:57.19,Default,Lucas,0,0,0,,Every adventurer in the Nation of Water\Nseeks out that dungeon at least once.
+Dialogue: 0,0:02:57.19,0:02:59.82,Default,Makoto,0,0,0,,Well, we're going to do our best \Nwithout overexerting ourselves.
+Dialogue: 0,0:02:59.82,0:03:01.40,Default,Lucas,0,0,0,,Still, be careful.
+Dialogue: 0,0:03:01.40,0:03:04.07,Default,Lucas,0,0,0,,That's a dangerous place, you hear?
+Dialogue: 0,0:03:04.07,0:03:06.63,Default,Makoto,0,0,0,,You mean the monsters\N there are stronger?
+Dialogue: 0,0:03:06.63,0:03:08.29,Default,Jean,0,0,0,,I'm sure Makoto will be fine.
+Dialogue: 0,0:03:08.29,0:03:10.21,Default,Lucas,0,0,0,,That's not what I'm worried about.
+Dialogue: 0,0:03:10.85,0:03:13.96,Default,Lucas,0,0,0,,That place is rife with adventurer \Nhunters targeting novices.
+Dialogue: 0,0:03:13.96,0:03:15.02,Default,Lucy,0,0,0,,Huh?
+Dialogue: 0,0:03:15.02,0:03:16.46,Default,Makoto,0,0,0,,That's heinous.
+Dialogue: 0,0:03:16.46,0:03:18.44,Default,Lucas,0,0,0,,Well, if you mention that \Nyou're my apprentice,
+Dialogue: 0,0:03:18.44,0:03:21.22,Default,Lucas,0,0,0,,then most of them should \Nkeep their hands off of you!
+Dialogue: 0,0:03:21.22,0:03:22.77,Default,Jean,0,0,0,,That's our Lucas!
+Dialogue: 0,0:03:22.77,0:03:23.97,top,Lucas,0,0,0,,Right?!
+Dialogue: 0,0:03:23.97,0:03:25.28,top,Jean,0,0,0,,Impressive!
+Dialogue: 0,0:03:22.77,0:03:26.97,italics,Makoto,0,0,0,,I suppose in a sense, humans \Nare scarier than monsters.
+Dialogue: 0,0:03:29.48,0:03:30.76,Default,Lucy,0,0,0,,Is this the right place?
+Dialogue: 0,0:03:30.76,0:03:34.01,Default,Makoto,0,0,0,,Yeah, that's what Fujiyan told us.
+Dialogue: 0,0:03:34.01,0:03:34.86,Default,Lucy,0,0,0,,Huh?!
+Dialogue: 0,0:03:41.23,0:03:43.15,Default,Makoto,0,0,0,,That's a huge airship.
+Dialogue: 0,0:03:44.16,0:03:45.33,Default,Fujiyan,0,0,0,,Tackie-dono!
+Dialogue: 0,0:03:45.33,0:03:47.24,Default,Nina,0,0,0,,We're here to pick you up!
+Dialogue: 0,0:03:47.24,0:03:48.60,Default,Makoto,0,0,0,,Huh? Fujiyan?!
+Dialogue: 0,0:03:48.60,0:03:50.02,Default,Lucy,0,0,0,,Amazing!
+Dialogue: 0,0:03:50.02,0:03:52.12,Default,Lucy,0,0,0,,It's my first time seeing one.
+Dialogue: 0,0:03:55.03,0:03:57.58,Default,Makoto,0,0,0,,I can't believe you own \Nan airship this big.
+Dialogue: 0,0:03:58.56,0:04:01.76,Default,Fujiyan,0,0,0,,I purchased it recently \Nto expand my business.
+Dialogue: 0,0:04:02.12,0:04:07.39,Default,Fujiyan,0,0,0,,Then I tweaked it a bit here and there\Nto make sure it's a sturdy vessel.
+Dialogue: 0,0:04:07.39,0:04:11.30,Default,Fujiyan,0,0,0,,For the power source, I used what we\Nreceived from that one titanea.
+Dialogue: 0,0:04:13.74,0:04:18.36,flashback,Fujiyan,0,0,0,,Great titanea, might I receive \Nthis severed finger of yours?
+Dialogue: 0,0:04:18.88,0:04:20.11,Default,Makoto,0,0,0,,Oh, that.
+Dialogue: 0,0:04:20.11,0:04:22.63,Default,Lucy,0,0,0,,Hey, does this ship have a name?
+Dialogue: 0,0:04:23.26,0:04:25.36,Default,Fujiyan,0,0,0,,I'm so glad you asked!
+Dialogue: 0,0:04:25.36,0:04:27.83,Default,Fujiyan,0,0,0,,Her name is Saint Kanon!
+Dialogue: 0,0:04:27.83,0:04:30.87,Default,Fujiyan,0,0,0,,The white wings that race \Nthrough the continent's skies!
+Dialogue: 0,0:04:30.87,0:04:32.63,Default,Lucy,0,0,0,,Wow, what a lovely name.
+Dialogue: 0,0:04:32.63,0:04:34.16,Default,Nina,0,0,0,,He has good taste.
+Dialogue: 0,0:04:34.76,0:04:39.13,italics,MakotoM,0,0,0,,You got it from Hijiri Kanon, your\N favorite visual novel heroine, didn't you?
+Dialogue: 0,0:04:40.92,0:04:42.38,italics,MakotoM,0,0,0,,You know what \NI'm thinking, don't you?
+Dialogue: 0,0:04:42.38,0:04:45.91,Default,Lucy,0,0,0,,Hey, how long will it take \Nus to get to Labyrinthos?
+Dialogue: 0,0:04:45.91,0:04:47.41,Default,Fujiyan,0,0,0,,One day.
+Dialogue: 0,0:04:47.41,0:04:49.82,Default,Fujiyan,0,0,0,,I think we'll arrive tomorrow morning.
+Dialogue: 0,0:04:49.82,0:04:50.78,Default,Lucy,0,0,0,,Incredible!
+Dialogue: 0,0:04:50.78,0:04:52.89,Default,Lucy,0,0,0,,It would take a week by carriage!
+Dialogue: 0,0:04:54.16,0:04:56.40,Default,Fujiyan,0,0,0,,Now, allow me to show you to your rooms.
+Dialogue: 0,0:04:56.40,0:04:58.26,Default,Fujiyan,0,0,0,,Meals are being prepared as well,
+Dialogue: 0,0:04:58.26,0:04:59.96,Default,Fujiyan,0,0,0,,so you can look forward to that.
+Dialogue: 0,0:04:59.96,0:05:01.69,Default,Lucy,0,0,0,,Yay!
+Dialogue: 0,0:05:15.79,0:05:20.06,Default,Fujiyan,0,0,0,,The night sky is incredibly \Npretty in this world, isn't it?
+Dialogue: 0,0:05:22.19,0:05:24.92,Default,Fujiyan,0,0,0,,We've come an awfully long way.
+Dialogue: 0,0:05:24.92,0:05:25.65,Default,Makoto,0,0,0,,Yeah.
+Dialogue: 0,0:05:30.86,0:05:35.31,Default,Makoto,0,0,0,,I never thought I'd really come \Nto such a game-like world.
+Dialogue: 0,0:05:40.24,0:05:42.82,flashback,Aya,0,0,0,,You're always playing \Nsingle-player games, huh?
+Dialogue: 0,0:05:43.35,0:05:46.34,flashback,Aya,0,0,0,,Hey, isn't there a game \Nwe could play together?
+Dialogue: 0,0:05:47.45,0:05:48.72,italics,MakotoM,0,0,0,,Sasan...
+Dialogue: 0,0:05:49.45,0:05:50.63,Default,Fujiyan,0,0,0,,Tackie-dono.
+Dialogue: 0,0:05:50.63,0:05:52.80,Default,Fujiyan,0,0,0,,I've heard rumors that, recently,
+Dialogue: 0,0:05:52.80,0:05:57.20,Default,Fujiyan,0,0,0,,stronger monsters have been appearing\Nin the labyrinth we'll be challenging.
+Dialogue: 0,0:05:57.20,0:05:58.88,Default,Fujiyan,0,0,0,,We should be careful as we go.
+Dialogue: 0,0:05:58.88,0:06:03.09,Default,Makoto,0,0,0,,Well, let's stick to taking it easy and\Nadventuring in the upper floors this time.
+Dialogue: 0,0:06:03.09,0:06:05.51,Default,Fujiyan,0,0,0,,You usually say things like that \Nand then pull something crazy,
+Dialogue: 0,0:06:05.51,0:06:07.47,Default,Fujiyan,0,0,0,,which is why I'm worried.
+Dialogue: 0,0:06:14.57,0:06:16.99,Default,Lucy,0,0,0,,Makoto, we'll be arriving soon!
+Dialogue: 0,0:06:22.43,0:06:25.25,Default,Lucy,0,0,0,,There were a lot of\Nadventurers in Macallan,
+Dialogue: 0,0:06:25.25,0:06:26.86,Default,Lucy,0,0,0,,but there are plenty here, too!
+Dialogue: 0,0:06:27.33,0:06:31.24,Default,Fujiyan,0,0,0,,I've heard the number of adventurers \Nchallenging Labyrinthos is only growing.
+Dialogue: 0,0:06:31.56,0:06:34.58,Default,Fujiyan,0,0,0,,The number of people \Ncurrently registered with
+Dialogue: 0,0:06:34.58,0:06:36.75,Default,Fujiyan,0,0,0,,the adventurers' guild here \Nis the largest in Roses.
+Dialogue: 0,0:06:36.75,0:06:37.77,Default,Makoto,0,0,0,,I see.
+Dialogue: 0,0:06:37.77,0:06:40.96,Default,Makoto,0,0,0,,Okay, let's go handle \Nour guild registration, too.
+Dialogue: 0,0:06:40.96,0:06:44.55,Default,Fujiyan,0,0,0,,Nina-dono and I have a deal to \Nsettle with the merchants' guild,
+Dialogue: 0,0:06:44.55,0:06:45.70,Default,Fujiyan,0,0,0,,so we'll be splitting up.
+Dialogue: 0,0:06:45.70,0:06:48.80,Default,Fujiyan,0,0,0,,Let's meet back up in\Nthe Hero's Tavern later.
+Dialogue: 0,0:06:48.80,0:06:50.74,Default,Makoto,0,0,0,,Got it! See you later!
+Dialogue: 0,0:06:54.33,0:06:57.02,Default,Lucy,0,0,0,,Hey, hey, want to enjoy\N a little sightseeing?
+Dialogue: 0,0:06:57.49,0:06:59.56,italics,MakotoM,0,0,0,,I want to visit the guild right away,
+Dialogue: 0,0:06:59.56,0:07:02.31,italics,MakotoM,0,0,0,,but I'd also feel bad not \Ngoing along with Lucy.
+Dialogue: 0,0:07:02.77,0:07:04.17,Default,Makoto,0,0,0,,Sure, we can do that.
+Dialogue: 0,0:07:04.17,0:07:05.65,Default,Noah,0,0,0,,My, how good of you.
+Dialogue: 0,0:07:05.65,0:07:08.83,Default,Noah,0,0,0,,Are you starting to understand \Nthat girl's feelings a little?
+Dialogue: 0,0:07:08.83,0:07:11.91,italics,MakotoM,0,0,0,,Please stop reading my \Nmind whenever you want.
+Dialogue: 0,0:07:12.17,0:07:16.08,Default,Noah,0,0,0,,I think you'd be okay confessing \Nto Lucy sooner rather than later.
+Dialogue: 0,0:07:16.08,0:07:18.04,italics,MakotoM,0,0,0,,Huh? What are you talking about?
+Dialogue: 0,0:07:18.04,0:07:21.59,Default,Noah,0,0,0,,Jeez, you don't get it at all, do you?
+Dialogue: 0,0:07:21.59,0:07:22.93,italics,MakotoM,0,0,0,,Get what?
+Dialogue: 0,0:07:23.42,0:07:25.42,Default,Lucy,0,0,0,,Hey, Makoto, which do you prefer?
+Dialogue: 0,0:07:25.42,0:07:27.67,Default,Makoto,0,0,0,,I don't really know much about fashion.
+Dialogue: 0,0:07:27.67,0:07:29.19,Default,Lucy,0,0,0,,That's fine.
+Dialogue: 0,0:07:30.43,0:07:31.68,Default,Makoto,0,0,0,,Then this one.
+Dialogue: 0,0:07:31.68,0:07:33.60,Default,Lucy,0,0,0,,If that's your choice,
+Dialogue: 0,0:07:33.60,0:07:34.93,Default,Lucy,0,0,0,,then I'll go with this one!
+Dialogue: 0,0:07:34.93,0:07:36.41,Default,Noah,0,0,0,,See?
+Dialogue: 0,0:07:36.41,0:07:38.25,italics,MakotoM,0,0,0,,Again, what are you talking about?
+Dialogue: 0,0:07:38.25,0:07:40.43,Default,Noah,0,0,0,,This is what I'm talking about.
+Dialogue: 0,0:07:43.63,0:07:46.86,Default,Makoto,0,0,0,,We've finished registering, so I guess\Nwe can head to the Hero's Tavern.
+Dialogue: 0,0:07:46.86,0:07:50.31,Default,Lucy,0,0,0,,Let's go scope out the \Ndungeon while we're here!
+Dialogue: 0,0:07:50.31,0:07:53.28,Default,Makoto,0,0,0,,No, we should prepare a proper plan first.
+Dialogue: 0,0:07:53.28,0:07:55.57,Default,Lucy,0,0,0,,It'll be faster to see it in person.
+Dialogue: 0,0:07:56.02,0:07:57.83,Default,Adventurer,0,0,0,,Hey, young lady.
+Dialogue: 0,0:07:58.55,0:08:00.14,Default,Adventurer,0,0,0,,If you want to go into the dungeon,
+Dialogue: 0,0:08:00.14,0:08:02.83,Default,Adventurer,0,0,0,,then you should come with \Nus instead of that brat.
+Dialogue: 0,0:08:02.83,0:08:04.36,Default,Lucy,0,0,0,,Makoto, let's go.
+Dialogue: 0,0:08:04.36,0:08:05.86,Default,Adventurer,0,0,0,,Hey, don't ignore us.
+Dialogue: 0,0:08:05.86,0:08:08.09,Default,Adventurer,0,0,0,,Go home, brat.
+Dialogue: 0,0:08:10.09,0:08:12.53,Default,Adventurer,0,0,0,,You can come with us to scope it out.
+Dialogue: 0,0:08:12.53,0:08:14.22,Default,Lucy,0,0,0,,Huh? What are you talking about?
+Dialogue: 0,0:08:14.22,0:08:16.22,Default,Adventurer,0,0,0,,Just come already!
+Dialogue: 0,0:08:19.43,0:08:20.46,Default,Adventurer,0,0,0,,Why, you!
+Dialogue: 0,0:08:20.46,0:08:21.81,Default,Adventurer,0,0,0,,Move it, boy!
+Dialogue: 0,0:08:24.24,0:08:25.94,Default,Adventurer,0,0,0,,Little punk!
+Dialogue: 0,0:08:32.31,0:08:34.16,Default,Adventurer,0,0,0,,My magic mithril sword!
+Dialogue: 0,0:08:34.16,0:08:35.70,Default,Makoto,0,0,0,,That was mithril?
+Dialogue: 0,0:08:35.70,0:08:36.59,Default,Adventurer,0,0,0,,You...
+Dialogue: 0,0:08:36.59,0:08:38.78,Default,Lucy,0,0,0,,Don't blame us for whatever \Nhappens to you!
+Dialogue: 0,0:08:39.29,0:08:43.66,Default,Lucy,0,0,0,,We're Lucas Dalmore's apprentices!
+Dialogue: 0,0:08:43.66,0:08:45.97,Default,Adventurer,0,0,0,,Huh? The dragon slayer?!
+Dialogue: 0,0:08:45.97,0:08:48.17,Default,Adventurer,0,0,0,,Tsk! Let's go.
+Dialogue: 0,0:08:48.17,0:08:49.42,Default,Adventurer,0,0,0,,We'll remember this!
+Dialogue: 0,0:08:51.14,0:08:52.88,flashback,Lucas,0,0,0,,Well, if you mention that \Nyou're my apprentice,
+Dialogue: 0,0:08:52.88,0:08:55.61,flashback,Lucas,0,0,0,,then most of them should \Nkeep their hands off of you.
+Dialogue: 0,0:08:56.49,0:08:59.23,Default,Lucy,0,0,0,,I can't believe they ran \Nafter just hearing his name.
+Dialogue: 0,0:08:59.23,0:09:01.49,Default,Makoto,0,0,0,,Lucas-san is impressive.
+Dialogue: 0,0:09:06.71,0:09:08.02,Default,Lucy,0,0,0,,What's going on?
+Dialogue: 0,0:09:09.52,0:09:12.57,Default,Woman,0,0,0,,Look! It's Highland's Hero of Light!
+Dialogue: 0,0:09:13.11,0:09:14.57,Default,Makoto,0,0,0,,Sakurai-kun?
+Dialogue: 0,0:09:15.07,0:09:18.85,italics,MakotoM,0,0,0,,This isn't the encounter you were \Ntalking about, is it, Noah-sama?
+Dialogue: 0,0:09:21.01,0:09:23.83,italics,MakotoM,0,0,0,,Of course you don't answer \Nwhen it's important.
+Dialogue: 0,0:09:24.29,0:09:26.46,Default,Man,0,0,0,,Princess Noelle!
+Dialogue: 0,0:09:27.52,0:09:29.46,Default,People,0,0,0,,Princess Noelle!
+Dialogue: 0,0:09:29.93,0:09:32.46,Default,People,0,0,0,,Princess Sophia!
+Dialogue: 0,0:09:33.66,0:09:35.98,Default,Lucy,0,0,0,,Let's get a closer look, Makoto!
+Dialogue: 0,0:09:37.82,0:09:40.77,flashback,Makoto,0,0,0,,I'll become a believer \Nof the Water Goddess, too!
+Dialogue: 0,0:09:40.77,0:09:42.85,flashback,Makoto,0,0,0,,Would you please grant me her blessing?!
+Dialogue: 0,0:09:42.85,0:09:47.20,flashback,Sophia,0,0,0,,It looks like you need a \Nbit more training first.
+Dialogue: 0,0:09:47.20,0:09:48.98,flashback,Sophia,0,0,0,,Perhaps next time.
+Dialogue: 0,0:09:50.70,0:09:51.70,Default,Makoto,0,0,0,,Let's go, Lucy.
+Dialogue: 0,0:09:51.70,0:09:52.95,Default,Lucy,0,0,0,,Huh? Why?
+Dialogue: 0,0:09:54.74,0:09:55.99,Default,Makoto,0,0,0,,They're not worth seeing.
+Dialogue: 0,0:10:11.12,0:10:12.98,Default,Makoto,0,0,0,,Did your business deal go well?
+Dialogue: 0,0:10:12.98,0:10:17.01,Default,Fujiyan,0,0,0,,Fortunately, I was able to safely \Nnegotiate reliable routes!
+Dialogue: 0,0:10:17.01,0:10:18.65,Default,Makoto,0,0,0,,Nicely done.
+Dialogue: 0,0:10:18.65,0:10:22.01,Default,Fujiyan,0,0,0,,It was well worth splurging on an airship.
+Dialogue: 0,0:10:22.01,0:10:26.31,Default,Fujiyan,0,0,0,,Oh yeah, looks like\NSakurai-dono is here, too.
+Dialogue: 0,0:10:26.31,0:10:30.72,Default,Fujiyan,0,0,0,,Along with Princess Noelle of Highland \Nand Princess Sophia of Roses.
+Dialogue: 0,0:10:30.72,0:10:32.24,Default,Makoto,0,0,0,,We saw them earlier.
+Dialogue: 0,0:10:32.24,0:10:35.78,Default,Fujiyan,0,0,0,,Sakurai-dono's goal is to \Ndefeat the blight dragon
+Dialogue: 0,0:10:35.78,0:10:39.03,Default,Fujiyan,0,0,0,,that's revived in Labyrinthos \Nafter a thousand years.
+Dialogue: 0,0:10:39.03,0:10:42.80,Default,Lucy,0,0,0,,Huh? Sakurai? You mean the Hero of Light?
+Dialogue: 0,0:10:42.80,0:10:43.58,Default,Makoto,0,0,0,,Yeah.
+Dialogue: 0,0:10:43.58,0:10:46.32,Default,Lucy,0,0,0,,Huh? You should have\Ntold me that you knew him!
+Dialogue: 0,0:10:46.32,0:10:47.54,Default,Nina,0,0,0,,Right?
+Dialogue: 0,0:10:48.03,0:10:51.17,Default,Makoto,0,0,0,,Why does everyone love \Nthe hero so much anyway?
+Dialogue: 0,0:10:51.17,0:10:55.30,Default,Fujiyan,0,0,0,,Sakurai-dono has exceptional \Npopularity, even among heroes.
+Dialogue: 0,0:10:55.30,0:10:58.05,Default,Makoto,0,0,0,,What makes him different \Nfrom the other heroes?
+Dialogue: 0,0:10:58.05,0:10:59.71,Default,Lucy,0,0,0,,Are you seriously asking that?
+Dialogue: 0,0:10:59.71,0:11:02.24,Default,Nina,0,0,0,,That shows you know\Nlittle about our world.
+Dialogue: 0,0:11:02.24,0:11:03.55,Default,Makoto,0,0,0,,Huh?
+Dialogue: 0,0:11:04.49,0:11:09.70,Default,Fujiyan,0,0,0,,In all of their history, only Abel the \NSavior had the Hero of Light skill.
+Dialogue: 0,0:11:09.70,0:11:11.69,Default,Fujiyan,0,0,0,,Now, a thousand years later...
+Dialogue: 0,0:11:11.69,0:11:13.57,Default,Fujiyan,0,0,0,,it's shown up once again
+Dialogue: 0,0:11:13.57,0:11:15.39,Default,Fujiyan,0,0,0,,with Sakurai-dono.
+Dialogue: 0,0:11:16.19,0:11:18.03,Default,Makoto,0,0,0,,Really?
+Dialogue: 0,0:11:18.03,0:11:24.69,Default,Fujiyan,0,0,0,,Originally, Roses insisted on claiming\N the Hero of Light since they took us in,
+Dialogue: 0,0:11:24.69,0:11:26.76,Default,Fujiyan,0,0,0,,but they had to cave to \Npressure from Highland
+Dialogue: 0,0:11:26.76,0:11:29.54,Default,Fujiyan,0,0,0,,and relinquished their right to him.
+Dialogue: 0,0:11:29.54,0:11:30.79,Default,Makoto,0,0,0,,Hm...
+Dialogue: 0,0:11:31.22,0:11:35.29,Default,Fujiyan,0,0,0,,In return, Roses gained \Nthe right to negotiate
+Dialogue: 0,0:11:35.29,0:11:38.30,Default,Fujiyan,0,0,0,,with the remaining otherworlders first.
+Dialogue: 0,0:11:38.30,0:11:42.73,Default,Nina,0,0,0,,Speaking of which, Sir Sakurai \Nis Princess Noelle's fiancé.
+Dialogue: 0,0:11:42.73,0:11:43.55,Default,Makoto,0,0,0,,Huh?!
+Dialogue: 0,0:11:44.00,0:11:46.65,Default,Lucy,0,0,0,,I've also heard rumors \Nabout him and Lady Sophia.
+Dialogue: 0,0:11:46.65,0:11:51.76,Default,Makoto,0,0,0,,He must be living it up \Nas the Hero of Light, then.
+Dialogue: 0,0:11:53.81,0:11:56.62,Default,Makoto,0,0,0,,I don't envy him at all.
+Dialogue: 0,0:11:56.62,0:11:58.07,Default,Sakurai,0,0,0,,Is this seat taken?
+Dialogue: 0,0:11:58.07,0:11:59.07,Default,Makoto,0,0,0,,Huh?
+Dialogue: 0,0:12:00.72,0:12:04.07,Default,Sakurai,0,0,0,,Long time no see, \NTakatsuki-kun, Fujiwara-kun.
+Dialogue: 0,0:12:04.53,0:12:07.36,Default,Lucy,0,0,0,,Th-The Hero of L-Li...
+Dialogue: 0,0:12:07.36,0:12:11.33,Default,Nina,0,0,0,,N-Nice to meet you! It's an honor!
+Dialogue: 0,0:12:11.33,0:12:13.36,Default,Fujiyan,0,0,0,,I'm surprised.
+Dialogue: 0,0:12:13.36,0:12:14.88,Default,Fujiyan,0,0,0,,How did you know we were here?
+Dialogue: 0,0:12:14.88,0:12:16.83,Default,Sakurai,0,0,0,,I heard a large amount of \Nthe knights' provisions
+Dialogue: 0,0:12:16.83,0:12:19.62,Default,Sakurai,0,0,0,,were provided by the \NFujiwara Trading Company,
+Dialogue: 0,0:12:19.62,0:12:21.02,Default,Sakurai,0,0,0,,so I wanted to thank you.
+Dialogue: 0,0:12:21.02,0:12:23.21,Default,Makoto,0,0,0,,You've been doing that too, Fujiyan?
+Dialogue: 0,0:12:23.21,0:12:27.43,Default,Fujiyan,0,0,0,,The Soleil Knights are some of \Nthe continent's greatest warriors.
+Dialogue: 0,0:12:27.43,0:12:29.75,Default,Fujiyan,0,0,0,,Getting in their good graces never hurts.
+Dialogue: 0,0:12:29.75,0:12:31.35,Default,Makoto,0,0,0,,That's a merchant for you.
+Dialogue: 0,0:12:31.35,0:12:32.73,Default,Makoto,0,0,0,,You don't miss any opportunity.
+Dialogue: 0,0:12:33.11,0:12:37.00,Default,Sakurai,0,0,0,,That aside, I didn't expect to \Nsee you here too, Takatsuki-kun.
+Dialogue: 0,0:12:37.00,0:12:38.59,Default,Makoto,0,0,0,,Huh? Oh.
+Dialogue: 0,0:12:38.59,0:12:41.74,Default,Makoto,0,0,0,,Speaking of which, I heard you're \Nhere to defeat the blight dragon?
+Dialogue: 0,0:12:41.74,0:12:43.34,Default,Sakurai,0,0,0,,That's right.
+Dialogue: 0,0:12:43.34,0:12:46.74,Default,Sakurai,0,0,0,,I'm new to the knights, so I get \Nstuck with the annoying jobs.
+Dialogue: 0,0:12:46.74,0:12:48.99,Default,Makoto,0,0,0,,I'm sure it'll be easy\Nfor you, Sakurai-kun.
+Dialogue: 0,0:12:48.99,0:12:50.60,Default,Sakurai,0,0,0,,That's not true.
+Dialogue: 0,0:12:50.60,0:12:53.00,Default,Sakurai,0,0,0,,I just arrived here today.
+Dialogue: 0,0:12:53.52,0:12:54.63,Default,Sakurai,0,0,0,,Oh, yeah!
+Dialogue: 0,0:12:54.63,0:12:58.25,Default,Sakurai,0,0,0,,Takatsuki-kun, would you like \Nto help us take it down?
+Dialogue: 0,0:12:58.53,0:12:59.51,Default,Lucy,0,0,0,,Huh?!
+Dialogue: 0,0:12:59.51,0:13:01.01,Default,Lucy,0,0,0,,D-Defin—
+Dialogue: 0,0:13:01.01,0:13:03.73,Default,Makoto,0,0,0,,No, I wouldn't be strong enough.
+Dialogue: 0,0:13:03.73,0:13:06.26,Default,Makoto,0,0,0,,I'm sorry, but I don't think \NI can lend any help.
+Dialogue: 0,0:13:06.78,0:13:08.08,Default,Sakurai,0,0,0,,I see.
+Dialogue: 0,0:13:08.08,0:13:09.76,Default,Sakurai,0,0,0,,That's a shame.
+Dialogue: 0,0:13:10.06,0:13:14.29,Default,Sakurai,0,0,0,,Oh yeah, monsters have become more \Nactive lately, so be careful.
+Dialogue: 0,0:13:14.29,0:13:15.89,Default,Makoto,0,0,0,,Yeah, I know.
+Dialogue: 0,0:13:16.16,0:13:17.22,Default,Sakurai,0,0,0,,I see.
+Dialogue: 0,0:13:17.67,0:13:18.77,Default,Sakurai,0,0,0,,I hope we both stay safe.
+Dialogue: 0,0:13:19.48,0:13:20.47,Default,Sakurai,0,0,0,,See you later!
+Dialogue: 0,0:13:22.62,0:13:25.12,Default,Fujiyan,0,0,0,,Man, what a surprise.
+Dialogue: 0,0:13:25.12,0:13:26.79,Default,Nina,0,0,0,,I was shivering.
+Dialogue: 0,0:13:26.79,0:13:29.27,Default,Lucy,0,0,0,,You two are super\Nclose to him, aren't you?!
+Dialogue: 0,0:13:29.27,0:13:31.29,Default,Fujiyan,0,0,0,,No, not at all.
+Dialogue: 0,0:13:31.29,0:13:34.09,Default,Makoto,0,0,0,,We hardly ever talked to each other.
+Dialogue: 0,0:13:34.09,0:13:36.85,Default,Lucy,0,0,0,,Jeez, he even invited us to join him!
+Dialogue: 0,0:13:36.85,0:13:38.24,Default,Makoto,0,0,0,,Are you an idiot?
+Dialogue: 0,0:13:38.24,0:13:40.20,Default,Makoto,0,0,0,,He was just being polite.
+Dialogue: 0,0:13:40.20,0:13:41.29,Default,Makoto,0,0,0,,Don't take it seriously.
+Dialogue: 0,0:13:41.75,0:13:46.30,italics,FujiyanM,0,0,0,,Hm, it seemed like Sakurai-dono \Nwas serious though.
+Dialogue: 0,0:13:52.91,0:13:54.56,Default,Makoto,0,0,0,,Good evening, Noah-sama.
+Dialogue: 0,0:13:55.12,0:13:57.88,Default,Noah,0,0,0,,You're heading out tomorrow, right?
+Dialogue: 0,0:13:57.88,0:14:00.92,Default,Noah,0,0,0,,I know I've said it enough that you \Nmight be fed up with hearing it,
+Dialogue: 0,0:14:00.92,0:14:03.47,Default,Noah,0,0,0,,but cherish your life.
+Dialogue: 0,0:14:03.47,0:14:05.07,Default,Makoto,0,0,0,,I know.
+Dialogue: 0,0:14:05.74,0:14:11.48,Default,Makoto,0,0,0,,Um, was the fortuitous encounter \Nyou mentioned Sakurai-kun?
+Dialogue: 0,0:14:11.48,0:14:13.08,Default,Noah,0,0,0,,Huh? What are you talking about?
+Dialogue: 0,0:14:13.08,0:14:15.02,Default,Makoto,0,0,0,,You told me last time.
+Dialogue: 0,0:14:15.02,0:14:17.57,Default,Makoto,0,0,0,,You said a fortuitous encounter \Nawaited me in Labyrinthos,
+Dialogue: 0,0:14:17.57,0:14:19.01,Default,Makoto,0,0,0,,like it was a divine revelation.
+Dialogue: 0,0:14:19.60,0:14:21.59,Default,Makoto,0,0,0,,That's why I came all the way here.
+Dialogue: 0,0:14:21.59,0:14:23.42,Default,Noah,0,0,0,,Did I say that?
+Dialogue: 0,0:14:23.42,0:14:24.83,Default,Makoto,0,0,0,,Again?
+Dialogue: 0,0:14:24.83,0:14:28.34,Default,Makoto,0,0,0,,You always feign ignorance \Nlike this when it's important.
+Dialogue: 0,0:14:28.61,0:14:33.26,Default,Noah,0,0,0,,At any rate, the dungeon is now a full \Ndegree more dangerous than it used to be,
+Dialogue: 0,0:14:33.26,0:14:34.67,Default,Noah,0,0,0,,so be careful.
+Dialogue: 0,0:14:34.67,0:14:36.10,Default,Noah,0,0,0,,Got it?
+Dialogue: 0,0:14:38.97,0:14:41.09,italics,Makoto,0,0,0,,Easier said than done.
+Dialogue: 0,0:14:52.25,0:14:54.72,Default,Fujiyan,0,0,0,,I've prepared a map.
+Dialogue: 0,0:14:54.72,0:14:56.45,Default,Makoto,0,0,0,,Thank you, Fujiyan.
+Dialogue: 0,0:14:57.85,0:15:01.00,Default,Makoto,0,0,0,,Not surprised to see the upper \Nfloors are thoroughly explored.
+Dialogue: 0,0:15:01.47,0:15:04.96,Default,Makoto,0,0,0,,I see. So the path splits into three.
+Dialogue: 0,0:15:01.00,0:15:04.96,top,Screen,0,0,0,,WHICH WAY WILL YOU GO?
+Dialogue: 0,0:15:01.00,0:15:04.96,top,Screen,0,0,0,,GREEN CAVERN
+Dialogue: 0,0:15:01.00,0:15:04.96,top,Screen,0,0,0,,WATER CAVERN
+Dialogue: 0,0:15:01.00,0:15:04.96,top,Screen,0,0,0,,FIRE CAVERN
+Dialogue: 0,0:15:05.85,0:15:07.66,Default,Makoto,0,0,0,,Let's head to the water cavern.
+Dialogue: 0,0:15:07.66,0:15:11.14,Default,Lucy,0,0,0,,True, you do need to have water.
+Dialogue: 0,0:15:16.90,0:15:20.18,Default,Fujiyan,0,0,0,,The walls here have grow\N fragile from erosion,
+Dialogue: 0,0:15:20.18,0:15:22.48,Default,Fujiyan,0,0,0,,so strong impacts are out.
+Dialogue: 0,0:15:22.48,0:15:25.70,Default,Makoto,0,0,0,,Then we won't be able to use Lucy's magic.
+Dialogue: 0,0:15:25.70,0:15:26.73,Default,Lucy,0,0,0,,Wha?!
+Dialogue: 0,0:15:26.73,0:15:30.04,Default,Nina,0,0,0,,I'll work hard to make up for it!
+Dialogue: 0,0:15:30.04,0:15:33.98,Default,Fujiyan,0,0,0,,The monsters are more active too, so\N even though these are the upper floors,
+Dialogue: 0,0:15:33.98,0:15:35.68,Default,Fujiyan,0,0,0,,let's remain cautious as we go.
+Dialogue: 0,0:15:35.68,0:15:36.74,Default,Makoto,0,0,0,,Yeah.
+Dialogue: 0,0:15:39.52,0:15:41.54,Default,Nina,0,0,0,,I'm all done!
+Dialogue: 0,0:15:41.54,0:15:43.08,Default,Lucy,0,0,0,,You're impressive.
+Dialogue: 0,0:15:43.08,0:15:45.00,Default,Makoto,0,0,0,,You're too strong, Nina-san.
+Dialogue: 0,0:15:45.56,0:15:48.30,italics,MakotoM,0,0,0,,Having Nina-san around \Nmakes this a casual game.
+Dialogue: 0,0:15:48.30,0:15:51.84,Default,Fujiyan,0,0,0,,Well, that isn't so bad \Nevery now and then.
+Dialogue: 0,0:15:51.84,0:15:53.39,italics,MakotoM,0,0,0,,He knew what I was thinking again.
+Dialogue: 0,0:15:53.39,0:15:57.07,Default,Nina,0,0,0,,Why don't we take a break \Nhere while we're at it?
+Dialogue: 0,0:15:57.07,0:15:59.01,Default,Nina,0,0,0,,"Labyrinthos Falls."
+Dialogue: 0,0:15:59.01,0:16:02.39,Default,Nina,0,0,0,,It's in the running for the \Nbest view in the dungeon!
+Dialogue: 0,0:16:02.39,0:16:07.75,Default,Makoto,0,0,0,,"Ask about the falls sightseeing tour at \Nthe adventurer's guild reception desk."
+Dialogue: 0,0:16:07.75,0:16:09.90,Default,Lucy,0,0,0,,Is this really the great labyrinth?
+Dialogue: 0,0:16:10.25,0:16:12.65,Default,Nina,0,0,0,,It's a popular spot for couples, too.
+Dialogue: 0,0:16:14.08,0:16:16.13,Default,Lucy,0,0,0,,Oh... Well then!
+Dialogue: 0,0:16:16.13,0:16:18.44,Default,Lucy,0,0,0,,Let's take a break there!
+Dialogue: 0,0:16:18.44,0:16:20.66,Default,Makoto,0,0,0,,Why is she suddenly so motivated?
+Dialogue: 0,0:16:28.17,0:16:31.22,Default,Makoto,0,0,0,,Wow, it's like Niagara Falls.
+Dialogue: 0,0:16:31.22,0:16:33.01,Default,Makoto,0,0,0,,Not that I've actually been there.
+Dialogue: 0,0:16:33.01,0:16:34.68,Default,Lucy,0,0,0,,It's amazing.
+Dialogue: 0,0:16:40.96,0:16:42.68,Default,Lucy,0,0,0,,Hey, Makoto.
+Dialogue: 0,0:16:42.99,0:16:44.74,Default,Lucy,0,0,0,,Want to head over there for a bit?
+Dialogue: 0,0:16:44.74,0:16:46.69,Default,Makoto,0,0,0,,Huh? Sure.
+Dialogue: 0,0:16:52.67,0:16:55.51,Default,Lucy,0,0,0,,The view from here is great, isn't it?
+Dialogue: 0,0:16:55.51,0:16:56.28,Default,Makoto,0,0,0,,Yeah.
+Dialogue: 0,0:17:00.70,0:17:03.50,Default,Adventurer,0,0,0,,Oh man, they really did come.
+Dialogue: 0,0:17:03.50,0:17:04.82,Default,Adventurer,0,0,0,,I told you, didn't I?
+Dialogue: 0,0:17:04.82,0:17:07.71,Default,Adventurer,0,0,0,,Novices always stop by here.
+Dialogue: 0,0:17:08.07,0:17:09.36,Default,MakotoM,0,0,0,,Shoot.
+Dialogue: 0,0:17:09.36,0:17:11.71,Default,MakotoM,0,0,0,,They were using the Stealth skill, huh?
+Dialogue: 0,0:17:13.33,0:17:16.73,Default,Makoto,0,0,0,,I'm sorry about breaking\Nyour weapon, but...
+Dialogue: 0,0:17:16.73,0:17:19.92,Default,Adventurer,0,0,0,,Huh? You're going to die here.
+Dialogue: 0,0:17:19.92,0:17:21.97,Default,Adventurer,0,0,0,,You don't look like you have decent gear,
+Dialogue: 0,0:17:21.97,0:17:25.23,Default,Adventurer,0,0,0,,but I bet that dagger \Nwill fetch a fine price.
+Dialogue: 0,0:17:36.04,0:17:37.72,Default,Lucy,0,0,0,,M-Makoto...
+Dialogue: 0,0:17:39.51,0:17:40.70,italics,MakotoM,0,0,0,,Well now...
+Dialogue: 0,0:17:41.49,0:17:43.71,italics,MakotoM,0,0,0,,In order to get out of this situation...
+Dialogue: 0,0:17:48.80,0:17:50.48,italics,MakotoM,0,0,0,,Sense Danger!
+Dialogue: 0,0:17:50.48,0:17:54.13,italics,MakotoM,0,0,0,,It's registering the \Ngreatest danger I've ever felt!
+Dialogue: 0,0:17:54.55,0:17:55.36,Default,Lucy,0,0,0,,Makoto?!
+Dialogue: 0,0:17:55.36,0:17:57.18,Default,Adventurer,0,0,0,,Hey now, what's going on?!
+Dialogue: 0,0:18:06.14,0:18:07.26,Default,Makoto,0,0,0,,Lucy!
+Dialogue: 0,0:18:14.46,0:18:17.50,Default,MakotoM,0,0,0,,So this is a dragon from another world?
+Dialogue: 0,0:18:18.00,0:18:20.73,Default,MakotoM,0,0,0,,It's definitely not what I imagined.
+Dialogue: 0,0:18:21.81,0:18:25.33,Default,MakotoM,0,0,0,,But this has its own\Nkind of charm.
+Dialogue: 0,0:18:28.37,0:18:30.96,Default,Lucy,0,0,0,,This is no time to be captivated!
+Dialogue: 0,0:18:45.36,0:18:47.48,Default,Fujiyan,0,0,0,,Tackie-dono!
+Dialogue: 0,0:18:57.04,0:18:58.24,Default,Makoto,0,0,0,,Lucy!
+Dialogue: 0,0:19:12.95,0:19:15.22,Default,Makoto,0,0,0,,I thought I was going to die.
+Dialogue: 0,0:19:15.22,0:19:16.96,Default,Makoto,0,0,0,,Lucy, are you okay?
+Dialogue: 0,0:19:16.96,0:19:21.74,Default,Lucy,0,0,0,,Jeez! What were you thinking, \Ngetting captivated by that thing?!
+Dialogue: 0,0:19:21.74,0:19:23.26,Default,Makoto,0,0,0,,Sorry, sorry.
+Dialogue: 0,0:19:25.65,0:19:28.43,Default,Lucy,0,0,0,,We've fallen an awfully long way down,
+Dialogue: 0,0:19:28.43,0:19:30.82,Default,Lucy,0,0,0,,but do you think Fujiyan\N and Nina are okay?
+Dialogue: 0,0:19:30.82,0:19:32.83,Default,Makoto,0,0,0,,He has Nina-san with him,
+Dialogue: 0,0:19:32.83,0:19:35.93,Default,Makoto,0,0,0,,and if it comes down to it, \NFujiyan can use his Escape Cards.
+Dialogue: 0,0:19:35.93,0:19:38.75,Default,Lucy,0,0,0,,Though I can't believe the blight \Ndragon's on the upper floors.
+Dialogue: 0,0:19:38.75,0:19:40.08,Default,Lucy,0,0,0,,That's just not fair.
+Dialogue: 0,0:19:40.08,0:19:42.97,Default,Makoto,0,0,0,,Huh?! That was the blight dragon?
+Dialogue: 0,0:19:42.97,0:19:44.03,Default,Lucy,0,0,0,,Probably.
+Dialogue: 0,0:19:45.51,0:19:48.48,Default,Makoto,0,0,0,,Regardless, it's dangerous to linger.
+Dialogue: 0,0:19:48.48,0:19:51.20,Default,Makoto,0,0,0,,We'll need to find a path \N back up quickly.
+Dialogue: 0,0:19:51.20,0:19:54.05,Default,Lucy,0,0,0,,Huh? We can't go back with your magic?
+Dialogue: 0,0:19:54.05,0:19:57.05,Default,Makoto,0,0,0,,Scaling waterfalls is beyond me.
+Dialogue: 0,0:19:57.71,0:19:59.10,Default,Makoto,0,0,0,,Let's calm down for now.
+Dialogue: 0,0:20:11.76,0:20:14.56,Default,Arachne,0,0,0,,Please! Please help me.
+Dialogue: 0,0:20:15.32,0:20:16.31,Default,Lucy,0,0,0,,What's wrong?
+Dialogue: 0,0:20:17.76,0:20:18.58,Default,Lucy,0,0,0,,Huh?
+Dialogue: 0,0:20:18.58,0:20:20.88,Default,Makoto,0,0,0,,Don't go near that thing.
+Dialogue: 0,0:20:20.88,0:20:24.06,Default,Makoto,0,0,0,,It's been ringing the alarms from \Nmy Sense Danger for a while.
+Dialogue: 0,0:20:25.20,0:20:29.95,Default,Arachne,0,0,0,,Tsk! In that case, just \Ngo quietly and get eaten!
+Dialogue: 0,0:20:33.05,0:20:36.06,Default,Makoto,0,0,0,,Water Magic: Ice Needle!
+Dialogue: 0,0:20:45.88,0:20:47.13,Default,Makoto,0,0,0,,This is bad.
+Dialogue: 0,0:20:47.64,0:20:49.47,Default,Lucy,0,0,0,,We have no choice but to defeat them.
+Dialogue: 0,0:20:52.74,0:20:53.64,Default,Makoto,0,0,0,,Huh?
+Dialogue: 0,0:21:02.85,0:21:03.97,Default,Lucy,0,0,0,,What?
+Dialogue: 0,0:21:03.97,0:21:05.49,Default,Lucy,0,0,0,,What just happened?
+Dialogue: 0,0:21:19.03,0:21:20.34,Default,Lucy,0,0,0,,It's a lamia!
+Dialogue: 0,0:21:21.63,0:21:24.63,top,sign,0,0,0,,WILL YOU FIGHT THE LAMIA?
+Dialogue: 0,0:21:21.63,0:21:24.63,top,sign,0,0,0,,YES
+Dialogue: 0,0:21:21.63,0:21:24.63,top,sign,0,0,0,,NO
+Dialogue: 0,0:21:24.95,0:21:26.63,Default,Makoto,0,0,0,,We'll have to fight!
+Dialogue: 0,0:21:28.45,0:21:29.47,italics,MakotoM,0,0,0,,It's fast!
+Dialogue: 0,0:21:34.51,0:21:35.48,italics,MakotoM,0,0,0,,I'm done for!
+Dialogue: 0,0:21:44.03,0:21:47.74,Default,Aya,0,0,0,,Takatsuki... kun?
+Dialogue: 0,0:21:53.97,0:21:55.70,Default,Makoto,0,0,0,,Sasan?
+Dialogue: 0,0:21:56.29,0:21:57.19,Default,Lucy,0,0,0,,Ah!
+Dialogue: 0,0:21:59.00,0:22:01.50,Default,Aya,0,0,0,,It's you, Takatsuki-kun!
+Dialogue: 0,0:23:35.18,0:23:42.98,top,sign,0,0,0,,MAKOTO TAKATSUKI\N HELPS WITH HER REVENGE
+
