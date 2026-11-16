@@ -1,0 +1,304 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+Video Zoom Percent: 1
+Scroll Position: 0
+Active Line: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:09.80,0:00:12.59,Default,,0,0,0,,Hai să reglăm conturile, tată!
+Dialogue: 0,0:00:17.80,0:00:20.18,Default,,0,0,0,,BUN VENIT ACASĂ\NREÎNTREGIREA FAMILIEI YOZAKURA
+Dialogue: 0,0:00:23.10,0:00:25.65,Default,,0,0,0,,Hai să ne luptăm ca frații!
+Dialogue: 0,0:00:26.19,0:00:28.69,Default,,0,0,0,,Deci ai fost la un pas de leșin, nu?
+Dialogue: 0,0:00:28.77,0:00:30.32,Default,,0,0,0,,Ești destul de bine antrenat.
+Dialogue: 0,0:00:31.49,0:00:33.49,Default,,0,0,0,,Lasă vrăjeala cu antrenamentul!
+Dialogue: 0,0:00:34.03,0:00:38.12,Default,,0,0,0,,Deși ți-a spălat creierul,\Ntot ți-a păsat de noi și te-ai abținut.
+Dialogue: 0,0:00:39.16,0:00:42.54,Default,,0,0,0,,Te ducem acasă chiar dacă\Ntrebuie să te târâm, nemernicule!
+Dialogue: 0,0:00:43.41,0:00:45.25,Default,,0,0,0,,S-a terminat cu joaca!
+Dialogue: 0,0:00:51.67,0:00:53.38,Default,,0,0,0,,{\i1}Ascultă, Taiyo!{\i0}
+Dialogue: 0,0:00:53.88,0:00:56.51,Default,,0,0,0,,{\i1}E o singură cale{\i0}\N{\i1}de a-l salva pe fratele cel mare, Shinzo.{\i0}
+Dialogue: 0,0:00:57.51,0:00:58.93,Default,,0,0,0,,{\i1}Și anume…{\i0}
+Dialogue: 0,0:00:59.01,0:01:01.52,Default,,0,0,0,,să reușesc să-l ating.
+Dialogue: 0,0:01:01.60,0:01:02.93,Default,,0,0,0,,Să-l atingi?
+Dialogue: 0,0:01:03.43,0:01:07.85,Default,,0,0,0,,Spălarea creierului\Nnu poate fi anulată de niciun medicament.
+Dialogue: 0,0:01:09.11,0:01:13.49,Default,,0,0,0,,Dacă reușesc să-l ating,\Nvoi găsi o soluție.
+Dialogue: 0,0:01:14.11,0:01:18.49,Default,,0,0,0,,{\i1}Voi face orice{\i0}\N{\i1}ca să-l ajut pe Kengo să-l atingă.{\i0}
+Dialogue: 0,0:01:18.57,0:01:20.95,Default,,0,0,0,,{\i1}Dar trebuie să fii foarte atent.{\i0}
+Dialogue: 0,0:01:21.03,0:01:22.95,Default,,0,0,0,,{\i1}Pentru că Înflorirea fratelui mai mare…{\i0}
+Dialogue: 0,0:01:24.00,0:01:25.04,Default,,0,0,0,,{\i1}este Distrugere.{\i0}
+Dialogue: 0,0:01:26.46,0:01:29.63,Default,,0,0,0,,{\i1}Indiferent cine îl înfruntă,{\i0}\N{\i1}el îi poate distruge pur și simplu.{\i0}
+Dialogue: 0,0:01:30.29,0:01:32.67,Default,,0,0,0,,{\i1}Kengo are gâtul sensibil,{\i0}\N{\i1}asta îi va veni de hac!{\i0}
+Dialogue: 0,0:01:33.21,0:01:36.84,Default,,0,0,0,,{\i1}Dacă aș face-o mai tare,{\i0}\N{\i1}i-ar zbura capul.{\i0}
+Dialogue: 0,0:01:36.93,0:01:40.35,Default,,0,0,0,,{\i1}Dacă încerc să-l atac direct,{\i0}\N{\i1}mă va omorî cu o lovitură.{\i0}
+Dialogue: 0,0:01:40.43,0:01:41.97,Default,,0,0,0,,{\i1}Dar, pe de altă parte…{\i0}
+Dialogue: 0,0:01:42.56,0:01:44.93,Default,,0,0,0,,{\i1}Pot contracara prima lovitură.{\i0}
+Dialogue: 0,0:01:45.60,0:01:48.77,Default,,0,0,0,,{\i1}Deci au schimbat locul{\i0}\N{\i1}în momentul în care au căzut?{\i0}
+Dialogue: 0,0:01:50.40,0:01:51.40,Default,,0,0,0,,Nu te grăbi!
+Dialogue: 0,0:01:53.11,0:01:55.44,Default,,0,0,0,,{\i1}Înflorirea ta e Asimilarea.{\i0}
+Dialogue: 0,0:01:55.53,0:01:58.49,Default,,0,0,0,,{\i1}Probabil că plănuiești{\i0}\N{\i1}să-mi citești gândurile.{\i0}
+Dialogue: 0,0:01:58.57,0:02:01.91,Default,,0,0,0,,{\i1}Doar așa puteți spera că mă veți învinge.{\i0}
+Dialogue: 0,0:02:01.99,0:02:02.99,Default,,0,0,0,,{\i1}Dar…{\i0}
+Dialogue: 0,0:02:05.08,0:02:07.79,Default,,0,0,0,,Nu sunteți singurii\Ncare pot contraataca!
+Dialogue: 0,0:02:08.50,0:02:10.79,Default,,0,0,0,,O mișcare greșită și veți ceda!
+Dialogue: 0,0:02:10.88,0:02:12.13,Default,,0,0,0,,Stai liniștit, da?
+Dialogue: 0,0:02:24.18,0:02:26.43,Default,,0,0,0,,Întărirea e un fel grozav de Înflorire.
+Dialogue: 0,0:02:26.93,0:02:29.06,Default,,0,0,0,,Dar mai e loc de îmbunătățire.
+Dialogue: 0,0:02:36.69,0:02:40.20,Default,,0,0,0,,{\i1}Mă bucur că am reușit{\i0}\N{\i1}să nu-i distrug pe amândoi.{\i0}
+Dialogue: 0,0:02:41.37,0:02:44.24,Default,,0,0,0,,Mersi că mi-ai câștigat atâta timp, Taiyo!
+Dialogue: 0,0:02:44.33,0:02:46.87,Default,,0,0,0,,Toate păpușile mele, o mie la număr!
+Dialogue: 0,0:02:46.95,0:02:49.58,Default,,0,0,0,,Se vor cam strica dacă le folosesc, dar…
+Dialogue: 0,0:02:49.67,0:02:52.04,Default,,0,0,0,,Ți le ofer ție, frate mai mare!
+Dialogue: 0,0:02:52.58,0:02:54.21,Default,,0,0,0,,O proteză!
+Dialogue: 0,0:02:54.29,0:02:57.17,Default,,0,0,0,,Asta e!\NIată transformarea mea la putere maximă!
+Dialogue: 0,0:02:57.26,0:03:00.09,Default,,0,0,0,,Mega pumnul lui Kengo!
+Dialogue: 0,0:03:23.91,0:03:28.83,Default,,0,0,0,,MISIUNEA: FAMILIA YOZAKURA
+Dialogue: 0,0:04:45.78,0:04:47.70,Default,,0,0,0,,{\i1}Am fost aruncat din navă!{\i0}
+Dialogue: 0,0:04:52.62,0:04:54.87,Default,,0,0,0,,{\i1}E greu să te miști sub apă.{\i0}
+Dialogue: 0,0:04:54.96,0:04:56.75,Default,,0,0,0,,{\i1}Ești uluit și tensionat.{\i0}
+Dialogue: 0,0:04:57.25,0:04:59.96,Default,,0,0,0,,{\i1}Am făcut toate astea{\i0}\N{\i1}doar ca să ajungem aici.{\i0}
+Dialogue: 0,0:05:01.42,0:05:03.09,Default,,0,0,0,,{\i1}Așteaptă, frate mai mare!{\i0}
+Dialogue: 0,0:05:03.84,0:05:05.84,Default,,0,0,0,,{\i1}Te vom duce acasă acum.{\i0}
+Dialogue: 0,0:05:08.60,0:05:12.72,Default,,0,0,0,,{\i1}Înflorirea mea, Asimilarea, nu doar că-mi{\i0}\N{\i1}permite să pătrund în amintirile cuiva,{\i0}
+Dialogue: 0,0:05:13.31,0:05:17.06,Default,,0,0,0,,{\i1}dar cu contact direct,{\i0}\N{\i1}pot să-i arăt și amintirile mele.{\i0}
+Dialogue: 0,0:05:17.73,0:05:19.86,Default,,0,0,0,,{\i1}Amintirile tale șterse…{\i0}
+Dialogue: 0,0:05:20.48,0:05:22.82,Default,,0,0,0,,{\i1}le voi repara cu amintiri reale.{\i0}
+Dialogue: 0,0:05:32.29,0:05:35.83,Default,,0,0,0,,{\i1}Încep să văd în mintea ta, frate mai mare.{\i0}
+Dialogue: 0,0:05:38.63,0:05:42.13,Default,,0,0,0,,{\i1}Mintea e plină de tot felul{\i0}\N{\i1}de amintiri strălucitoare.{\i0}
+Dialogue: 0,0:05:42.71,0:05:45.92,Default,,0,0,0,,{\i1}E camera secretă{\i0}\N{\i1}în care nu poți pătrunde decât tu.{\i0}
+Dialogue: 0,0:05:46.97,0:05:48.80,Default,,0,0,0,,{\i1}Dar eu sunt singurul…{\i0}
+Dialogue: 0,0:05:51.56,0:05:54.14,Default,,0,0,0,,{\i1}care poate intra în mintea altcuiva.{\i0}
+Dialogue: 0,0:05:54.85,0:05:56.27,Default,,0,0,0,,{\i1}Ce întuneric!{\i0}
+Dialogue: 0,0:05:57.06,0:05:59.73,Default,,0,0,0,,Nu-mi sta în cale, Kengo!
+Dialogue: 0,0:06:00.56,0:06:02.98,Default,,0,0,0,,Mă voi putea întoarce acolo curând…
+Dialogue: 0,0:06:04.07,0:06:06.57,Default,,0,0,0,,în acel moment\Nîn care eram atât de fericit!
+Dialogue: 0,0:06:10.95,0:06:14.24,Default,,0,0,0,,{\i1}Au rămas doar amintirile{\i0}\N{\i1}care îi sunt de folos tatei,{\i0}
+Dialogue: 0,0:06:14.33,0:06:17.41,Default,,0,0,0,,{\i1}iar cele recente au fost șterse complet.{\i0}
+Dialogue: 0,0:06:17.91,0:06:19.46,Default,,0,0,0,,{\i1}Cum se poate asta?{\i0}
+Dialogue: 0,0:06:21.33,0:06:26.26,Default,,0,0,0,,Nici măcar tata nu mi-a putut șterge\Namintirile cele mai neplăcute.
+Dialogue: 0,0:06:27.01,0:06:30.51,Default,,0,0,0,,Nu-mi amintesc când am dobândit\Nprima oară Înflorirea.
+Dialogue: 0,0:06:31.22,0:06:32.64,Default,,0,0,0,,Cel puțin, n-ar trebui s-o fac.
+Dialogue: 0,0:06:33.18,0:06:35.85,Default,,0,0,0,,Dar mirosul de sânge și țipetele,
+Dialogue: 0,0:06:35.93,0:06:37.56,Default,,0,0,0,,sunt încă blocate în mintea mea.
+Dialogue: 0,0:06:38.23,0:06:40.98,Default,,0,0,0,,{\i1}E înfricoșător să nu ai amintiri, nu?{\i0}
+Dialogue: 0,0:06:41.06,0:06:43.19,Default,,0,0,0,,{\i1}Cunosc și eu sentimentul ăsta.{\i0}
+Dialogue: 0,0:06:43.27,0:06:44.52,Default,,0,0,0,,{\i1}Știi, tată?{\i0}
+Dialogue: 0,0:06:44.61,0:06:47.19,Default,,0,0,0,,Nu știu nimic despre trecutul meu.
+Dialogue: 0,0:06:47.69,0:06:52.87,Default,,0,0,0,,{\i1}Unde m-am născut, unde am crescut,{\i0}\N{\i1}nu-mi amintesc nimic.{\i0}
+Dialogue: 0,0:06:53.45,0:06:57.00,Default,,0,0,0,,{\i1}La început, nu înțelegeam de ce{\i0}\N{\i1}mă accepta Rei,{\i0}
+Dialogue: 0,0:06:57.08,0:06:58.96,Default,,0,0,0,,{\i1}deși eram un necunoscut.{\i0}
+Dialogue: 0,0:06:59.54,0:07:01.58,Default,,0,0,0,,{\i1}Dar acum pot înțelege de ce.{\i0}
+Dialogue: 0,0:07:02.79,0:07:06.63,Default,,0,0,0,,{\i1}Chiar dacă tu nu te poți iubi{\i0}\N{\i1}pentru că nu știi cine ești,{\i0}
+Dialogue: 0,0:07:06.71,0:07:09.59,Default,,0,0,0,,{\i1}eu te cunosc foarte bine, Shinzo…{\i0}
+Dialogue: 0,0:07:10.09,0:07:11.51,Default,,0,0,0,,{\i1}și te iubesc.{\i0}
+Dialogue: 0,0:07:14.60,0:07:15.81,Default,,0,0,0,,{\i1}Tată!{\i0}
+Dialogue: 0,0:07:16.51,0:07:19.27,Default,,0,0,0,,Trebuia să-l fi văzut în ziua aia!
+Dialogue: 0,0:07:19.85,0:07:23.94,Default,,0,0,0,,Dacă aș fi observat semnele\Npe care mi le-a dat tata în ziua aceea…
+Dialogue: 0,0:07:24.02,0:07:28.78,Default,,0,0,0,,Dacă l-aș fi ascultat mai mult\Nsau aș fi încercat să-i cercetez trecutul.
+Dialogue: 0,0:07:29.44,0:07:32.66,Default,,0,0,0,,Dacă aș fi putut face\Nceva mai mult pentru tata,
+Dialogue: 0,0:07:33.28,0:07:38.08,Default,,0,0,0,,atunci mama și Mutsumi\Nnu ar mai fi trecut prin acel calvar.
+Dialogue: 0,0:07:39.12,0:07:43.67,Default,,0,0,0,,Dar propria mea frică mi-a stat în cale\Nși nu am putut face nimic.
+Dialogue: 0,0:07:44.17,0:07:47.00,Default,,0,0,0,,Sunt mereu prea preocupat\Nde problemele mele!
+Dialogue: 0,0:07:47.55,0:07:48.92,Default,,0,0,0,,Au!
+Dialogue: 0,0:07:49.42,0:07:50.42,Default,,0,0,0,,Durează prea mult!
+Dialogue: 0,0:07:50.51,0:07:53.22,Default,,0,0,0,,Știi că suntem toți sub apă acum…
+Dialogue: 0,0:07:54.39,0:07:56.26,Default,,0,0,0,,Așa că nu vreau să dureze prea mult.
+Dialogue: 0,0:07:56.35,0:07:58.39,Default,,0,0,0,,Mereu faci așa, Kengo!
+Dialogue: 0,0:07:58.47,0:07:59.64,Default,,0,0,0,,Atât de rece și distant!
+Dialogue: 0,0:07:59.72,0:08:03.10,Default,,0,0,0,,Nu vei înțelege niciodată\Ncum se simte un neîndemânatic ca mine!
+Dialogue: 0,0:08:03.94,0:08:05.81,Default,,0,0,0,,Nu e adevărat.
+Dialogue: 0,0:08:06.40,0:08:08.73,Default,,0,0,0,,Te cunosc foarte bine, frate mai mare!
+Dialogue: 0,0:08:09.36,0:08:10.69,Default,,0,0,0,,Știu cât de neîndemânatic…
+Dialogue: 0,0:08:11.28,0:08:12.74,Default,,0,0,0,,și cât de tare ești!
+Dialogue: 0,0:08:15.20,0:08:19.70,Default,,0,0,0,,Poate că tu nu-ți amintești asta,\Ndar eu îmi amintesc.
+Dialogue: 0,0:08:20.41,0:08:22.79,Default,,0,0,0,,Știi ce ți-a declanșat Înflorirea?
+Dialogue: 0,0:08:23.37,0:08:24.75,Default,,0,0,0,,Eu am fost.
+Dialogue: 0,0:08:25.75,0:08:28.25,Default,,0,0,0,,Era cât pe ce să fiu ucis\Nîntr-o misiune solo,
+Dialogue: 0,0:08:28.34,0:08:30.76,Default,,0,0,0,,iar tu mi-ai venit în ajutor
+Dialogue: 0,0:08:31.42,0:08:33.17,Default,,0,0,0,,și ai înflorit ca să mă protejezi.
+Dialogue: 0,0:08:34.30,0:08:35.72,Default,,0,0,0,,{\i1}Frate mai mare!{\i0}
+Dialogue: 0,0:08:37.43,0:08:38.68,Default,,0,0,0,,{\i1}Kengo!{\i0}
+Dialogue: 0,0:08:38.76,0:08:40.64,Default,,0,0,0,,{\i1}Slavă Domnului!{\i0}
+Dialogue: 0,0:08:40.72,0:08:42.23,Default,,0,0,0,,{\i1}Ești în regulă!{\i0}
+Dialogue: 0,0:08:46.35,0:08:48.61,Default,,0,0,0,,{\i1}Frate mai mare!{\i0}
+Dialogue: 0,0:08:49.90,0:08:53.19,Default,,0,0,0,,M-am gândit că vrei să uiți de asta,\Nașa că am ținut secret.
+Dialogue: 0,0:08:53.74,0:08:54.74,Default,,0,0,0,,Dar pentru mine,
+Dialogue: 0,0:08:55.53,0:08:59.70,Default,,0,0,0,,e o amintire importantă și crucială,\Npe care nu vreau s-o uit niciodată.
+Dialogue: 0,0:09:02.25,0:09:06.54,Default,,0,0,0,,Nu e nimic rău\Nîn a vrea să uiți lucrurile dureroase
+Dialogue: 0,0:09:07.21,0:09:08.96,Default,,0,0,0,,și să te refugiezi în cele frumoase.
+Dialogue: 0,0:09:09.50,0:09:10.80,Default,,0,0,0,,Dar știi ce?
+Dialogue: 0,0:09:10.88,0:09:12.67,Default,,0,0,0,,Partea ta puternică…
+Dialogue: 0,0:09:14.34,0:09:15.76,Default,,0,0,0,,Partea ta distractivă…
+Dialogue: 0,0:09:16.43,0:09:17.89,Default,,0,0,0,,Partea ta blândă…
+Dialogue: 0,0:09:20.76,0:09:24.81,Default,,0,0,0,,{\i1}Amintirile lui Kengo{\i0}\N{\i1}îmi năvălesc în minte?{\i0}
+Dialogue: 0,0:09:25.39,0:09:28.56,Default,,0,0,0,,Vezi, mintea ta nu e așa întunecată.
+Dialogue: 0,0:09:29.11,0:09:32.53,Default,,0,0,0,,De fapt, e plină\Ncu cele mai frumoase amintiri!
+Dialogue: 0,0:09:33.19,0:09:35.15,Default,,0,0,0,,Chiar dacă tu nu-ți amintești…
+Dialogue: 0,0:09:36.45,0:09:38.16,Default,,0,0,0,,O să te fac eu să-ți amintești.
+Dialogue: 0,0:09:45.62,0:09:47.00,Default,,0,0,0,,Kengo.
+Dialogue: 0,0:09:48.50,0:09:49.88,Default,,0,0,0,,Întoarce-te acum…
+Dialogue: 0,0:09:50.96,0:09:52.50,Default,,0,0,0,,{\i1}Frate mai mare!{\i0}
+Dialogue: 0,0:09:58.38,0:10:00.01,Default,,0,0,0,,{\i1}Începe să-și revină!{\i0}
+Dialogue: 0,0:10:00.60,0:10:05.02,Default,,0,0,0,,{\i1}Dacă reușesc să umplu golurile,{\i0}\N{\i1}sigur voi anula spălarea pe creier.{\i0}
+Dialogue: 0,0:10:12.61,0:10:13.86,Default,,0,0,0,,Asta este!
+Dialogue: 0,0:10:14.36,0:10:15.99,Default,,0,0,0,,Poți s-o faci, frate mai mare!
+Dialogue: 0,0:10:29.92,0:10:32.21,Default,,0,0,0,,Bună încercare, Kengo!
+Dialogue: 0,0:10:32.75,0:10:34.55,Default,,0,0,0,,Înflorirea ta e magnifică,
+Dialogue: 0,0:10:35.13,0:10:38.51,Default,,0,0,0,,{\i1}dar nu ești singurul{\i0}\N{\i1}care poate pătrunde în mintea cuiva.{\i0}
+Dialogue: 0,0:10:38.59,0:10:40.14,Default,,0,0,0,,{\i1}Nu din nou!{\i0}
+Dialogue: 0,0:10:42.51,0:10:43.68,Default,,0,0,0,,{\i1}Rămâne fără aer!{\i0}
+Dialogue: 0,0:10:51.31,0:10:52.52,Default,,0,0,0,,Kengo?
+Dialogue: 0,0:10:52.61,0:10:54.77,Default,,0,0,0,,Greșeala mea!\NNu vorbi cu mine în clipa asta!
+Dialogue: 0,0:10:55.36,0:10:59.82,Default,,0,0,0,,Nu știu cum reușește asta,\Ndar puterea bătrânului mă blochează!
+Dialogue: 0,0:10:59.90,0:11:02.24,Default,,0,0,0,,Abia reușesc să-i rezist!
+Dialogue: 0,0:11:02.32,0:11:04.45,Default,,0,0,0,,Dacă nu găsesc o soluție, s-a zis cu noi!
+Dialogue: 0,0:11:05.58,0:11:07.25,Default,,0,0,0,,Trebuie să-l opresc pe tata!
+Dialogue: 0,0:11:07.79,0:11:10.00,Default,,0,0,0,,Înțeleg. Recepționat!
+Dialogue: 0,0:11:10.08,0:11:12.42,Default,,0,0,0,,Mai întâi,\Nbravo că l-ai capturat pe Shinzo!
+Dialogue: 0,0:11:12.50,0:11:14.42,Default,,0,0,0,,Lasă restul în seama noastră!
+Dialogue: 0,0:11:15.21,0:11:17.01,Default,,0,0,0,,Deci așa stau lucrurile, Futaba!
+Dialogue: 0,0:11:17.51,0:11:19.38,Default,,0,0,0,,Am treabă cu tata.
+Dialogue: 0,0:11:20.05,0:11:21.55,Default,,0,0,0,,O să-ți spun asta doar o dată!
+Dialogue: 0,0:11:22.97,0:11:24.51,Default,,0,0,0,,Dă-te din calea mea!
+Dialogue: 0,0:11:26.22,0:11:27.81,Default,,0,0,0,,Mai bine, dispari!
+Dialogue: 0,0:12:07.89,0:12:10.39,Default,,0,0,0,,Ai putea să nu distrugi nava asta?
+Dialogue: 0,0:12:11.23,0:12:13.73,Default,,0,0,0,,Calmează-te puțin!
+Dialogue: 0,0:12:20.61,0:12:21.82,Default,,0,0,0,,Vânt Scufundător!
+Dialogue: 0,0:12:30.79,0:12:34.67,Default,,0,0,0,,Dacă vrei să mă oprești, va trebui\Nsă-ți activezi și tu Înflorirea.
+Dialogue: 0,0:12:35.25,0:12:38.42,Default,,0,0,0,,Dacă fac asta, veți fi implicați cu toții.
+Dialogue: 0,0:12:38.92,0:12:42.38,Default,,0,0,0,,O să-mi folosesc Înflorirea\Ndoar pe acel om.
+Dialogue: 0,0:12:43.05,0:12:45.68,Default,,0,0,0,,În primul rând,\Nnu e treaba mea să intru aici.
+Dialogue: 0,0:12:45.76,0:12:50.60,Default,,0,0,0,,Din fericire pentru mine,\Nam mulți frați competenți.
+Dialogue: 0,0:12:51.14,0:12:54.39,Default,,0,0,0,,Vorbești serios?
+Dialogue: 0,0:12:54.48,0:12:56.40,Default,,0,0,0,,Shion, Nanao…
+Dialogue: 0,0:12:56.48,0:13:00.02,Default,,0,0,0,,voi, obișnuiți să luptați de la distanță,\Nvreți să mă înfruntați de aproape?
+Dialogue: 0,0:13:01.11,0:13:05.24,Default,,0,0,0,,O tehnică aiki care folosește\Nforțele din jur: Kumite în Cascadă.
+Dialogue: 0,0:13:05.86,0:13:09.78,Default,,0,0,0,,Practic, e același principiu ca atunci\Ncând folosim știința și informațiile.
+Dialogue: 0,0:13:10.33,0:13:13.16,Default,,0,0,0,,Ești incredibil de puternică, surioară,\Ndar ești o fraieră.
+Dialogue: 0,0:13:13.25,0:13:15.08,Default,,0,0,0,,Ai face bine să nu lași garda jos…
+Dialogue: 0,0:13:22.21,0:13:25.09,Default,,0,0,0,,din moment ce se întâmplă să fim deștepți.
+Dialogue: 0,0:13:27.80,0:13:30.68,Default,,0,0,0,,Bine, să începem antrenamentul!
+Dialogue: 0,0:13:31.26,0:13:34.68,Default,,0,0,0,,Niciunul dintre noi, n-am reușit vreodată\Nsă te citim, soră mai mare Futaba.
+Dialogue: 0,0:13:34.77,0:13:37.40,Default,,0,0,0,,Va fi o bătălie dificilă pentru noi,\Nnu-i așa, soră Shion?
+Dialogue: 0,0:13:37.48,0:13:39.61,Default,,0,0,0,,{\i1}Da, va fi un joc îngrozitor,{\i0}\N{\i1}fără îndoială.{\i0}
+Dialogue: 0,0:13:39.69,0:13:41.77,Default,,0,0,0,,Dar nu unul imbatabil.
+Dialogue: 0,0:13:41.86,0:13:44.40,Default,,0,0,0,,Verificare și colectare fără sfârșit.
+Dialogue: 0,0:13:44.49,0:13:47.36,Default,,0,0,0,,Pașii pentru a reuși sunt mereu la fel.
+Dialogue: 0,0:13:47.45,0:13:50.37,Default,,0,0,0,,Pot ghici și stilul tău de joc.
+Dialogue: 0,0:13:50.45,0:13:54.08,Default,,0,0,0,,Tot ce mi-a mai rămas de făcut\Ne să analizez.
+Dialogue: 0,0:13:54.16,0:13:57.29,Default,,0,0,0,,Ai grijă să nu-ți prăjești neuronii.
+Dialogue: 0,0:13:57.37,0:14:00.29,Default,,0,0,0,,Frate mai mare,\Nar fi bine să te dai înapoi!
+Dialogue: 0,0:14:00.38,0:14:02.46,Default,,0,0,0,,De acord! Ai dreptate!
+Dialogue: 0,0:14:02.55,0:14:05.26,Default,,0,0,0,,Nici măcar eu nu știu\Nde ce ești în stare când dai totul.
+Dialogue: 0,0:14:10.51,0:14:12.39,Default,,0,0,0,,{\i1}Cel mai probabil, e gaz otrăvitor.{\i0}
+Dialogue: 0,0:14:18.48,0:14:21.19,Default,,0,0,0,,Soră Futaba, Înflorirea ta e Mărinimia,
+Dialogue: 0,0:14:21.27,0:14:23.69,Default,,0,0,0,,învăluie totul\Nși apoi anulează orice efect.
+Dialogue: 0,0:14:23.78,0:14:25.69,Default,,0,0,0,,În acest moment, nu există cale de ieșire!
+Dialogue: 0,0:14:25.78,0:14:31.16,Default,,0,0,0,,De aceea îmi pun corpul să se adapteze\Ncontinuu, ca să te pot depăși.
+Dialogue: 0,0:14:31.95,0:14:34.20,Default,,0,0,0,,Întreaga cameră este corpul meu.
+Dialogue: 0,0:14:34.70,0:14:37.12,Default,,0,0,0,,Voi elibera un flux infinit\Nde gaz otrăvitor,
+Dialogue: 0,0:14:37.21,0:14:39.17,Default,,0,0,0,,pe care îl vei absorbi la infinit.
+Dialogue: 0,0:14:40.21,0:14:42.34,Default,,0,0,0,,Să vedem cine poate rezista mai mult.
+Dialogue: 0,0:14:42.42,0:14:45.80,Default,,0,0,0,,Bună asta, Nanao!\NFoarte bărbătesc din partea ta!
+Dialogue: 0,0:14:50.05,0:14:52.30,Default,,0,0,0,,O neurotoxină de păianjen.
+Dialogue: 0,0:14:53.01,0:14:56.22,Default,,0,0,0,,O singură adiere îl poate opri\Npână și pe fratele cel mare, Kyoichiro.
+Dialogue: 0,0:14:56.97,0:15:00.60,Default,,0,0,0,,Voi continua să evoluez\Npână ajunge la tine.
+Dialogue: 0,0:15:04.11,0:15:06.36,Default,,0,0,0,,Copiii se luptă între ei…
+Dialogue: 0,0:15:07.86,0:15:11.74,Default,,0,0,0,,cu disperare, de dragul familiei.
+Dialogue: 0,0:15:14.91,0:15:16.83,Default,,0,0,0,,Nu crezi că e de ajuns?
+Dialogue: 0,0:15:17.37,0:15:19.12,Default,,0,0,0,,Să încetăm asta!
+Dialogue: 0,0:15:19.21,0:15:20.41,Default,,0,0,0,,Vreau să opresc asta!
+Dialogue: 0,0:15:21.04,0:15:22.17,Default,,0,0,0,,Rei…
+Dialogue: 0,0:15:30.63,0:15:31.76,Default,,0,0,0,,Nu spune asta!
+Dialogue: 0,0:15:32.43,0:15:33.64,Default,,0,0,0,,Nu vrei asta!
+Dialogue: 0,0:15:34.39,0:15:35.51,Default,,0,0,0,,Nu e…
+Dialogue: 0,0:15:36.51,0:15:37.89,Default,,0,0,0,,Rezistă!
+Dialogue: 0,0:15:49.61,0:15:52.66,Default,,0,0,0,,Cristalizarea durează mai mult acum.
+Dialogue: 0,0:15:52.74,0:15:54.57,Default,,0,0,0,,Mai bine să nu exagerăm.
+Dialogue: 0,0:15:56.24,0:15:57.70,Default,,0,0,0,,Ai dreptate!
+Dialogue: 0,0:15:58.33,0:16:03.08,Default,,0,0,0,,Dar îmi pare rău să-ți spun\Ncă celulele mele nu știu când să renunțe.
+Dialogue: 0,0:16:08.75,0:16:11.72,Default,,0,0,0,,Ți-am mai spus că toată camera\Ne acum corpul meu.
+Dialogue: 0,0:16:12.84,0:16:16.97,Default,,0,0,0,,Cu cât ești mai puternică, surioară,\Ncu atât voi fi și eu mai puternic.
+Dialogue: 0,0:16:33.32,0:16:36.37,Default,,0,0,0,,Sunt impresionată, Nanao!\NÎi poți schimbi forma după bunul plac.
+Dialogue: 0,0:16:36.87,0:16:39.45,Default,,0,0,0,,Dar indiferent cât de mult te transformi,
+Dialogue: 0,0:16:39.54,0:16:43.16,Default,,0,0,0,,atâta timp cât ai o formă,\Nnu-mi poți scăpa din mâini.
+Dialogue: 0,0:16:45.42,0:16:47.38,Default,,0,0,0,,N-aș fi prea sigură de asta!
+Dialogue: 0,0:16:47.92,0:16:49.34,Default,,0,0,0,,{\i1}Analiză completă.{\i0}
+Dialogue: 0,0:16:49.42,0:16:51.26,Default,,0,0,0,,Bună treabă, Nanao!
+Dialogue: 0,0:16:51.34,0:16:52.63,Default,,0,0,0,,Bine, surioară mai mare!
+Dialogue: 0,0:16:52.72,0:16:54.88,Default,,0,0,0,,Te superi dacă fac șah mat?
+Dialogue: 0,0:17:04.98,0:17:07.19,Default,,0,0,0,,Poți să te transformi\Nși să te înmulțești oricât,
+Dialogue: 0,0:17:07.27,0:17:08.90,Default,,0,0,0,,nu se va schimba nimic!
+Dialogue: 0,0:17:16.36,0:17:18.20,Default,,0,0,0,,{\i1}Schimbă locurile fără efort,{\i0}
+Dialogue: 0,0:17:18.70,0:17:21.79,Default,,0,0,0,,{\i1}dar există unul care{\i0}\N{\i1}păstrează constant distanța.{\i0}
+Dialogue: 0,0:17:30.04,0:17:31.67,Default,,0,0,0,,Ei bine, acum.
+Dialogue: 0,0:17:31.75,0:17:33.01,Default,,0,0,0,,Hologramă!
+Dialogue: 0,0:17:33.92,0:17:37.13,Default,,0,0,0,,Kumita ta poate transforma orice în forță,
+Dialogue: 0,0:17:37.22,0:17:39.72,Default,,0,0,0,,dar nu poate folosi ceva ce nu există.
+Dialogue: 0,0:17:39.80,0:17:42.97,Default,,0,0,0,,Adăugând câteva entități inexistente,
+Dialogue: 0,0:17:43.06,0:17:45.02,Default,,0,0,0,,sigur vom găsi o breșă.
+Dialogue: 0,0:17:46.98,0:17:49.86,Default,,0,0,0,,{\i1}Nu pot să te deosebesc de falsuri.{\i0}
+Dialogue: 0,0:17:49.94,0:17:51.86,Default,,0,0,0,,{\i1}Dar nu contează.{\i0}
+Dialogue: 0,0:17:51.94,0:17:55.99,Default,,0,0,0,,{\i1}Toată forța absorbită de Mărinimia mea{\i0}\N{\i1}de-a lungul bătăliei{\i0}
+Dialogue: 0,0:17:56.07,0:17:58.32,Default,,0,0,0,,{\i1}e la îndemâna mea la putere maximă.{\i0}
+Dialogue: 0,0:18:00.70,0:18:03.58,Default,,0,0,0,,În clipa în care ai început\Nsă te lupți cu mine,
+Dialogue: 0,0:18:03.66,0:18:06.16,Default,,0,0,0,,nu vei mai avea nicio șansă să câștigi.
+Dialogue: 0,0:18:11.92,0:18:13.50,Default,,0,0,0,,Marea Furtună de Primăvară!
+Dialogue: 0,0:18:37.19,0:18:38.53,Default,,0,0,0,,Surioară mai mare…
+Dialogue: 0,0:18:40.24,0:18:41.66,Default,,0,0,0,,Am eu grijă de tine!
+Dialogue: 0,0:18:47.20,0:18:49.87,Default,,0,0,0,,{\i1}Shion? Ce cauți aici?{\i0}
+Dialogue: 0,0:18:51.63,0:18:52.92,Default,,0,0,0,,{\i1}Nu mă pot mișca!{\i0}
+Dialogue: 0,0:18:57.09,0:18:58.47,Default,,0,0,0,,Asta este…
+Dialogue: 0,0:18:58.55,0:19:01.55,Default,,0,0,0,,Prima furtună de primăvară\Neste un mic taifun.
+Dialogue: 0,0:19:01.64,0:19:04.10,Default,,0,0,0,,Motivul pentru care\Nnu ești luată pe sus acum
+Dialogue: 0,0:19:04.18,0:19:08.18,Default,,0,0,0,,este că te afli în „ochiul furtunii”,\Nunde nu bate vântul.
+Dialogue: 0,0:19:08.27,0:19:10.44,Default,,0,0,0,,{\i1}M-am camuflat tot timpul,{\i0}
+Dialogue: 0,0:19:10.52,0:19:13.90,Default,,0,0,0,,{\i1}proiectând pe corp imaginile{\i0}\N{\i1}împrejurimilor surprinse de drone.{\i0}
+Dialogue: 0,0:19:13.98,0:19:16.36,Default,,0,0,0,,{\i1}Atacurile spectaculoase ale lui Nanao{\i0}
+Dialogue: 0,0:19:16.44,0:19:20.11,Default,,0,0,0,,{\i1}au fost doar o diversiune{\i0}\N{\i1}ca să-mi ascund camuflajul optic.{\i0}
+Dialogue: 0,0:19:24.62,0:19:29.54,Default,,0,0,0,,{\i1}Apoi am așteptat să ne oferi o ocazie,{\i0}\N{\i1}anulând tehnica lui Nanao.{\i0}
+Dialogue: 0,0:19:30.25,0:19:31.87,Default,,0,0,0,,{\i1}Totul ca să…{\i0}
+Dialogue: 0,0:19:31.96,0:19:34.79,Default,,0,0,0,,Te pot prinde în brațe…
+Dialogue: 0,0:19:35.84,0:19:37.59,Default,,0,0,0,,exact cum făcea mama.
+Dialogue: 0,0:19:47.22,0:19:50.43,Default,,0,0,0,,Nimeni nu te putea stăpâni\Ncând făceai crize de nervi.
+Dialogue: 0,0:19:51.10,0:19:55.31,Default,,0,0,0,,Când încerca tata să te potolească,\Nîl aruncai în aer.
+Dialogue: 0,0:19:55.40,0:19:56.77,Default,,0,0,0,,{\i1}Te urăsc, tată!{\i0}
+Dialogue: 0,0:19:57.36,0:20:00.32,Default,,0,0,0,,Dar, dintr-un motiv oarecare,\Nmama a fost singura…
+Dialogue: 0,0:20:02.32,0:20:04.99,Default,,0,0,0,,Am zis să-mi dai drumul, mamă!
+Dialogue: 0,0:20:05.07,0:20:09.50,Default,,0,0,0,,Kyoichiro mi-a pătat cartea\Ncu grăsime de la chipsuri!
+Dialogue: 0,0:20:10.20,0:20:11.21,Default,,0,0,0,,{\i1}Yum-yum!{\i0}
+Dialogue: 0,0:20:11.96,0:20:16.17,Default,,0,0,0,,Așa că o să-i pătez camera cu sângele lui!
+Dialogue: 0,0:20:17.00,0:20:21.63,Default,,0,0,0,,Îi dau eu lui Kyoichiro ceea ce merită,\Nașa că liniștește-te!
+Dialogue: 0,0:20:23.72,0:20:26.39,Default,,0,0,0,,-Întoarce-te aici!\N-Nu te pune cu noi!
+Dialogue: 0,0:20:28.22,0:20:31.89,Default,,0,0,0,,De ce nu pot scăpa din brațele tale, mamă,
+Dialogue: 0,0:20:31.98,0:20:34.81,Default,,0,0,0,,când pe ceilalți îi pot spulbera așa,\Npur și simplu?
+Dialogue: 0,0:20:35.60,0:20:38.07,Default,,0,0,0,,E un mister total și pentru mine.
+Dialogue: 0,0:20:38.15,0:20:41.78,Default,,0,0,0,,Poate pentru că v-am oprit\Nluptele de mii de ori?
+Dialogue: 0,0:20:41.86,0:20:43.15,Default,,0,0,0,,Chiar zeci de mii.
+Dialogue: 0,0:20:43.24,0:20:46.12,Default,,0,0,0,,{\i1}Mă alungai și pe mine.{\i0}
+Dialogue: 0,0:20:46.20,0:20:49.45,Default,,0,0,0,,{\i1}Dar, după ce am trecut prin asta{\i0}\N{\i1}iar și iar…{\i0}
+Dialogue: 0,0:20:49.54,0:20:52.41,Default,,0,0,0,,{\i1}Cred că am început{\i0}\N{\i1}să mă prind cum funcționează.{\i0}
+Dialogue: 0,0:20:53.12,0:20:56.92,Default,,0,0,0,,E ca un secret despre tine\Npe care doar eu îl știu,
+Dialogue: 0,0:20:57.00,0:20:58.63,Default,,0,0,0,,și asta mă face fericită.
+Dialogue: 0,0:21:03.42,0:21:05.38,Default,,0,0,0,,În ce hal ai ajuns, Futaba!
+Dialogue: 0,0:21:05.93,0:21:07.47,Default,,0,0,0,,Dă-mi drumul!
+Dialogue: 0,0:21:07.55,0:21:10.39,Default,,0,0,0,,O să-l omor chiar acum!
+Dialogue: 0,0:21:10.47,0:21:11.68,Default,,0,0,0,,Kyoichiro!
+Dialogue: 0,0:21:14.94,0:21:16.81,Default,,0,0,0,,Ce zici, surioară mai mare?
+Dialogue: 0,0:21:16.90,0:21:20.78,Default,,0,0,0,,Unghiul și forța brațelor\Nde-a lungul mușchilor extensori,
+Dialogue: 0,0:21:20.86,0:21:24.11,Default,,0,0,0,,cum își deplasa centrul de greutate,\Ncât de aproape era corpul ei…
+Dialogue: 0,0:21:24.95,0:21:29.45,Default,,0,0,0,,Am analizat fiecare amintire\Npentru a o replica cu o acuratețe de 100%.
+Dialogue: 0,0:21:29.95,0:21:31.58,Default,,0,0,0,,Acestea sunt brațele mamei.
+Dialogue: 0,0:21:38.92,0:21:43.21,Default,,0,0,0,,Nu-mi aminti lucruri\Npe care aș prefera să le uit!
+Dialogue: 0,0:21:49.80,0:21:52.22,Default,,0,0,0,,Întoarceți-vă cu toții la Sumomo Plum!
+Dialogue: 0,0:22:02.36,0:22:05.07,Default,,0,0,0,,Eu mă duc după tata.
+Dialogue: 0,0:24:17.03,0:24:19.04,Default,,0,0,0,,Subtitrarea: Sadacliev Lucian
+
