@@ -1,0 +1,281 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,40,40,15,1
+Style: Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,40,40,15,0
+Style: Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,40,40,15,1
+Style: Sign_Arial,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,40,40,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:30.40,0:01:34.15,Sign_Arial,EpTitle,0,0,0,,{\fad(0,350)\fs18\shad0\bord0\c&HE7ECF0&\pos(563.33,269.01)}Eve
+Dialogue: 0,0:01:34.23,0:01:35.58,Top,ASMODEHUS,0,0,0,,Repita…
+Dialogue: 0,0:01:36.40,0:01:39.04,Top,NEIL,0,0,0,,Eu… Eu ainda não encontrei…
+Dialogue: 0,0:01:39.12,0:01:40.88,Top,NEIL,0,0,0,,…o controlador do fogo, Mestre.
+Dialogue: 0,0:01:40.96,0:01:44.34,Default,NEIL,0,0,0,,Mas estou quase lá… Eu o identifiquei!
+Dialogue: 0,0:01:44.42,0:01:46.48,Default,NEIL,0,0,0,,Não se preocupe! É uma questão de dias…
+Dialogue: 0,0:01:47.75,0:01:49.05,Default,ASMODEHUS,0,0,0,,Vá,
+Dialogue: 0,0:01:51.85,0:01:53.58,Default,ASMODEHUS,0,0,0,,e não me decepcione mais, Neil.
+Dialogue: 0,0:01:54.06,0:01:56.18,Default,ASMODEHUS,0,0,0,,O fogo não perdoa.
+Dialogue: 0,0:02:01.74,0:02:05.07,Default,EVE,0,0,0,,{\i1}Hello{\i0}, galera!\NE bem-vindos à minha {\i1}daily routine{\i0}!
+Dialogue: 0,0:02:05.15,0:02:08.30,Default,EVE,0,0,0,,Bora se motivar e vamos lá!
+Dialogue: 0,0:02:08.38,0:02:12.08,Default,EVE,0,0,0,,Continua. Não desiste! Inspira…
+Dialogue: 0,0:02:12.16,0:02:17.07,Default,EVE,0,0,0,,Expira… O importante… é sempre ficar zen…
+Dialogue: 0,0:02:17.49,0:02:21.28,Default,EVE,0,0,0,,E, pra fechar, o acabamento pra foto!\NO método das seis camadas dá trabalho, mas…
+Dialogue: 0,0:02:21.36,0:02:23.50,Default,EVE,0,0,0,,Olha só esse resultado!
+Dialogue: 0,0:02:24.35,0:02:26.83,Default,EVE,0,0,0,,Agora, vocês não são\Nobrigadas a seguir, hein?
+Dialogue: 0,0:02:26.91,0:02:29.23,Default,EVE,0,0,0,,Mas, acima de tudo,\Nsejam vocês mesmas, tá?
+Dialogue: 0,0:02:30.76,0:02:34.62,Default,EVE,0,0,0,,E pronto! Smoothie de pepino, espinafre,\Nhortelã, manjericão, ervilha e urtiga!
+Dialogue: 0,0:02:34.70,0:02:37.44,Default,EVE,0,0,0,,Comer sempre saudável,\Nesse é o segredo, meninas!
+Dialogue: 0,0:02:37.52,0:02:39.95,Default,EVE,0,0,0,,Claro, isso não pode virar uma obsessão.
+Dialogue: 0,0:02:40.03,0:02:43.20,Default,EVE,0,0,0,,O importante é só se sentir bem\Ncom o próprio corpo.
+Dialogue: 0,0:02:43.28,0:02:46.85,Default,EVE,0,0,0,,Se bem que eu tenho sorte,\Nnunca gostei de coisa muito doce.
+Dialogue: 0,0:02:47.52,0:02:49.92,Default,EVE,0,0,0,,Tchãram! Prontas pro vestibular!
+Dialogue: 0,0:02:50.00,0:02:51.31,Default,EVE,0,0,0,,Sua vez, Lydia!
+Dialogue: 0,0:02:51.99,0:02:53.08,Default,EVE,0,0,0,,Lydia?
+Dialogue: 0,0:02:53.16,0:02:57.05,Default,MUJOT,0,0,0,,Não é possível um nível de burrice\Ndesses a três semanas do vestibular!
+Dialogue: 0,0:02:57.13,0:02:59.10,Default,MUJOT,0,0,0,,Está me ouvindo, Sr. Meyer?
+Dialogue: 0,0:02:59.80,0:03:03.03,Default,LYDIA / EVE,0,0,0,,— Coitado…\N— Lydia! Mostra a sua prova pra gente?
+Dialogue: 0,0:03:03.20,0:03:04.35,Default,EVE,0,0,0,,Lydia?
+Dialogue: 0,0:03:09.00,0:03:11.83,Default,EVE,0,0,0,,Sério, para de ficar encanada com ele!\NEle não te merece!
+Dialogue: 0,0:03:13.13,0:03:17.45,Default,LYDIA,0,0,0,,Mas… O Terrence é tão gentil.\NTenho certeza de que há um motivo.
+Dialogue: 0,0:03:17.53,0:03:20.52,Default,EVE,0,0,0,,O motivo é que ele é um {\i1}loser{\i0}\Nque não consegue mudar!
+Dialogue: 0,0:03:20.60,0:03:23.86,Default,EVE,0,0,0,,Talvez ele goste mesmo de você, viu?
+Dialogue: 0,0:03:23.94,0:03:28.03,Default,EVE,0,0,0,,Mas, no fundo, sabe que não tem nada a ver\Ncom uma mina como você. Então esquece ele!
+Dialogue: 0,0:03:28.56,0:03:31.02,Default,MICHEL,0,0,0,,Oi… É… Eve? Lydia?
+Dialogue: 0,0:03:31.10,0:03:33.05,Default,MICHEL,0,0,0,,Eu tava pensando se… enfim, hã…
+Dialogue: 0,0:03:33.13,0:03:36.32,Default,MICHEL,0,0,0,,Vou dar uma festinha lá em casa\Nsábado à noite, e…
+Dialogue: 0,0:03:37.28,0:03:38.98,Default,EVE,0,0,0,,Michel!
+Dialogue: 0,0:03:39.06,0:03:41.02,Default,EVE,0,0,0,,Que fofo da sua parte, mas já é quinta,
+Dialogue: 0,0:03:41.10,0:03:44.67,Default,EVE,0,0,0,,não tenho nada pra vestir,\Ne o meu sábado tá lo-ta-dís-si-mo!
+Dialogue: 0,0:03:44.75,0:03:47.86,Default,EVE,0,0,0,,Vou ver o que dá pra fazer, mas…\Nnão cria muita expectativa, tá?
+Dialogue: 0,0:03:47.94,0:03:48.73,Default,MICHEL,0,0,0,,Tá bom…
+Dialogue: 0,0:03:55.00,0:03:56.30,Default,LYDIA,0,0,0,,Sei lá…
+Dialogue: 0,0:03:57.14,0:03:58.15,Italics,LYDIA,0,0,0,,No fundo,
+Dialogue: 0,0:03:59.13,0:04:03.26,Italics,LYDIA,0,0,0,,tem uma vozinha que me diz que ele\Né diferente da imagem que passa.
+Dialogue: 0,0:04:03.65,0:04:06.13,Default,EVE,0,0,0,,É. Ele disfarça bem, então.
+Dialogue: 0,0:04:07.25,0:04:08.60,Default,LYDIA,0,0,0,,Escuta…
+Dialogue: 0,0:04:09.70,0:04:12.30,Default,LYDIA,0,0,0,,E se eu o chamasse pra essa festa,\Nsábado à noite?
+Dialogue: 0,0:04:12.38,0:04:13.95,Default,EVE,0,0,0,,Você tá louca?!
+Dialogue: 0,0:04:14.03,0:04:18.26,Default,EVE,0,0,0,,Levar o Terrence Meyer numa festa?\NIsso é suicídio social!
+Dialogue: 0,0:04:22.43,0:04:25.56,Default,LYDIA,0,0,0,,Sabe… Eu sonhei com ele outro dia.
+Dialogue: 0,0:04:25.64,0:04:28.86,Italics,EVE,0,0,0,,Nossa! Pesadelo, você quer dizer!
+Dialogue: 0,0:04:29.88,0:04:34.12,Italics,LYDIA,0,0,0,,Não, sério, eu penso nele o tempo todo.\NAté quando durmo.
+Dialogue: 0,0:04:34.64,0:04:36.54,Italics,LYDIA,0,0,0,,Eve, eu não aguento mais!
+Dialogue: 0,0:04:37.73,0:04:40.10,Default,EVE,0,0,0,,Aposto que ele também sonha com você.
+Dialogue: 0,0:04:40.43,0:04:41.43,Italics,LYDIA,0,0,0,,Você acha?
+Dialogue: 0,0:04:41.82,0:04:43.80,Italics,EVE,0,0,0,,Acho, mas na versão safada, sabe?
+Dialogue: 0,0:04:44.38,0:04:46.90,Italics,LYDIA,0,0,0,,Para, tô te implorando!
+Dialogue: 0,0:04:48.25,0:04:52.18,Default,EVE,0,0,0,,Ah, com certeza! Acredita em mim,\Nos sonhos dele devem ser bem esquisitos!
+Dialogue: 0,0:04:55.38,0:04:57.22,Default,SAVANE,0,0,0,,Nossa, que coisa…
+Dialogue: 0,0:05:01.10,0:05:02.63,Default,SAVANE,0,0,0,,Você viu esse bicho?
+Dialogue: 0,0:05:03.64,0:05:06.00,Default,SAVANE,0,0,0,,Que foi? Ainda pensando na Lydia?
+Dialogue: 0,0:05:06.08,0:05:07.57,Default,SAVANE,0,0,0,,Pô, você me cansa!
+Dialogue: 0,0:05:07.65,0:05:10.70,Default,TERRENCE,0,0,0,,Não dá pra evitar, ela não sai da minha cabeça,\Nnão importa o que eu faça.
+Dialogue: 0,0:05:10.78,0:05:15.14,Default,TERRENCE,0,0,0,,Até quando eu tô vendo uma coisa doida\Ncomo esse dinossauro, é nela que eu penso!
+Dialogue: 0,0:05:15.73,0:05:19.90,Default,SAVANE,0,0,0,,Não tem mistério. Vai falar com ela\Ne resolve isso de uma vez por todas.
+Dialogue: 0,0:05:19.98,0:05:22.50,Default,TERRENCE,0,0,0,,Só que eu não posso!\NEla tá sempre com a Eve.
+Dialogue: 0,0:05:22.58,0:05:25.56,Default,TERRENCE,0,0,0,,Ela é chata. Tá sempre protegendo\Na Lydia que nem um pitbull!
+Dialogue: 0,0:05:25.64,0:05:27.55,Default,TERRENCE,0,0,0,,Ela nunca vai me deixar chegar perto!
+Dialogue: 0,0:05:27.63,0:05:30.20,Default,SABBA,0,0,0,,Ué… Por que você não liga pra ela, hein?
+Dialogue: 0,0:05:30.28,0:05:34.10,Default,TERRENCE,0,0,0,,Sabba, você tem que parar de aparecer\Natrás das pessoas desse jeito! Que saco!
+Dialogue: 0,0:05:34.18,0:05:36.32,Default,SABBA,0,0,0,,Sabe, não é complicado, mano.
+Dialogue: 0,0:05:36.40,0:05:40.42,Default,SABBA,0,0,0,,Se a amiga dela tá empacando,\Nliga direto pra ela e fala o que sente.
+Dialogue: 0,0:05:43.55,0:05:46.46,Default,SAVANE,0,0,0,,Esquece, ele não tá pronto, né, Mumu?
+Dialogue: 0,0:05:46.54,0:05:49.09,Default,SABBA,0,0,0,,E se a gente espairecesse\Nem vez disso, hein?
+Dialogue: 0,0:05:49.17,0:05:51.00,Default,SABBA,0,0,0,,O que vamos fazer hoje, parceiros?
+Dialogue: 0,0:05:51.08,0:05:52.56,Default,SAVANE,0,0,0,,Não somos parceiros.
+Dialogue: 0,0:05:54.76,0:05:59.42,Default,SABBA,0,0,0,,Savane, para de bancar o durão! Faz duas\Nsemanas que andamos juntos toda noite!
+Dialogue: 0,0:05:59.50,0:06:01.34,Default,SABBA,0,0,0,,Dá pra dizer que a gente se curte, né?
+Dialogue: 0,0:06:01.42,0:06:05.74,Default,SABBA,0,0,0,,Somos irmãos de armas agora, uns…\Nuns {\i1}nakamas{\i0}, uns… uns… enfim, você entendeu!
+Dialogue: 0,0:06:05.82,0:06:06.75,Top,SAVANE,0,0,0,,Tira a mão.
+Dialogue: 0,0:06:06.83,0:06:09.52,Default,SABBA,0,0,0,,É, tenho certeza de que, no fundo,
+Dialogue: 0,0:06:09.60,0:06:13.60,Default,SABBA,0,0,0,,você tem um coraçãozinho sensível,\Nque só quer ser compreendido e amado!
+Dialogue: 0,0:06:13.68,0:06:16.55,Default,SABBA,0,0,0,,E é pra isso que os amigos estão aqui!
+Dialogue: 0,0:06:26.62,0:06:28.22,Sign_Arial,SIGN,0,0,0,,{\fad(450,0)\pos(315.33,89.67)\fs40\bord2\fnTimes New Roman\shad0\blur2\c&HFFEBFF&\3c&HC883C7&}T{\c&HF5FFFE&\3c&H74C4AC&}E{\c&HFEFFFF&\3c&H8BB7E0&}A{\c&HF6F7F7&\3c&HCA93C0&}T{\c&HFFF3FE&\3c&HAEE5D8&}R{\c&HF2F8FB&\3c&HC5B398&}O{ak: não vejo a hora de deixar COLORIDO ohoho~}{g: a fonte é serifada, acho que times ficaria bem aqui}
+Dialogue: 0,0:06:32.20,0:06:33.46,Default,TERRENCE,0,0,0,,Hã? Hã?
+Dialogue: 0,0:06:33.54,0:06:35.75,Default,DEMON SALTIMBANQUE 1,0,0,0,,Ouçam, ouçam, jovens Viajantes!
+Dialogue: 0,0:06:35.83,0:06:38.50,Default,DEMON SALTIMBANQUE 1,0,0,0,,Querem se divertir, mas não sabem como?
+Dialogue: 0,0:06:39.60,0:06:42.70,Default,DEMON SALTIMBANQUE 1,0,0,0,,Venham assistir ao maior\Nespetáculo da vida de vocês
+Dialogue: 0,0:06:42.78,0:06:46.86,Default,DEMON SALTIMBANQUE 1,0,0,0,,no teatro multiplex itinerante de Dreamland!
+Dialogue: 0,0:06:46.94,0:06:47.34,Sign_Arial,SIGN,0,0,0,,{\fad(150,0)\c&H6E5958&\fsp2\bord3\shad0\fnTimes New Roman\b0\fs13\i1\3c&H1E1010&\pos(328.01,183.01)}TEATRO ITINERANTE{\i0}
+Dialogue: 0,0:06:45.62,0:06:46.86,Sign_Arial,SIGN,0,0,0,,{\fad(150,0)\c&H6E5958&\fsp2\bord3\shad0\fnTimes New Roman\b0\fs13\i1\3c&H1E1010&\frz37.05\pos(211.34,233.67)}TEATRO IT{\i0}
+Dialogue: 0,0:06:45.62,0:06:46.86,Sign_Arial,SIGN,0,0,0,,{\fad(150,0)\c&H6E5958&\fsp2\bord3\shad0\fnTimes New Roman\b0\fs13\i1\3c&H1E1010&\pos(456.67,219.68)\frz335.7}ITINERANTE{\i0}
+Dialogue: 0,0:06:48.14,0:06:49.52,Default,SABBA,0,0,0,,Depende, o que é?
+Dialogue: 0,0:06:49.60,0:06:53.15,Default,DEMON SALTIMBANQUE 1,0,0,0,,Um espetáculo único no gênero!\NComo vocês nunca viram!
+Dialogue: 0,0:06:53.23,0:06:55.23,Default,DEMON SALTIMBANQUE 1,0,0,0,,E ainda por cima é de graça.
+Dialogue: 0,0:06:57.03,0:06:58.68,Default,SABBA,0,0,0,,E aí, galera, bora?
+Dialogue: 0,0:06:58.76,0:06:59.70,Default,SAVANE,0,0,0,,Prefiro bater as botas.
+Dialogue: 0,0:06:59.78,0:07:02.65,Default,SABBA,0,0,0,,Vai ser uma mudança\Nda porradaria. Eu voto a favor!
+Dialogue: 0,0:07:02.73,0:07:03.72,Default,DEMON SALTIMBANQUE 1,0,0,0,,Eu também!
+Dialogue: 0,0:07:03.80,0:07:07.96,Default,SAVANE,0,0,0,,Isto não é uma democracia, só pra você saber.\NE você nem faz parte do grupo!
+Dialogue: 0,0:07:09.65,0:07:12.28,Default,SABBA,0,0,0,,Não é por mim… É por ele.
+Dialogue: 0,0:07:38.65,0:07:41.30,Default,SABBA,0,0,0,,Tenho certeza de que\Nvai ser incrível, né, Terrence?
+Dialogue: 0,0:07:42.08,0:07:45.68,Default,SABBA,0,0,0,,Vai, olha!\NAté o Savane tá feliz de estar aqui!
+Dialogue: 0,0:07:47.26,0:07:49.52,Default,SABBA,0,0,0,,Bom… do jeito dele.
+Dialogue: 0,0:07:49.60,0:07:51.45,Default,CAMELOT,0,0,0,,Senhoras e senhores!
+Dialogue: 0,0:07:51.53,0:07:54.90,Default,CAMELOT,0,0,0,,Criaturas, Sonhadores e Viajantes!
+Dialogue: 0,0:07:56.46,0:08:00.50,Default,CAMELOT,0,0,0,,Bem-vindos ao teatro multiplex de Dreamland!
+Dialogue: 0,0:08:00.82,0:08:03.95,Default,CAMELOT,0,0,0,,Esta noite, para o seu maior deleite,
+Dialogue: 0,0:08:04.03,0:08:09.14,Default,CAMELOT,0,0,0,,vamos apresentar um espetáculo\Nque desafia a imaginação!
+Dialogue: 0,0:08:09.22,0:08:13.30,Default,CAMELOT,0,0,0,,Mas, sem mais delongas,\Npara entrar no clima,
+Dialogue: 0,0:08:13.38,0:08:16.18,Default,CAMELOT,0,0,0,,aqui vai um pequeno aperitivo…
+Dialogue: 0,0:08:31.34,0:08:34.70,Sign_Arial,SIGN,0,0,0,,{\pos(322.66,230.33)\c&HBFD6DD&\3c&H48565B&\shad0\fnGeorgia}Esta festa está\Nrealmente muito agradável!
+Dialogue: 0,0:08:38.48,0:08:39.68,Default,TERRENCE,0,0,0,,É você?
+Dialogue: 0,0:08:40.10,0:08:42.26,Default,SABBA,0,0,0,,Porra, que vergonha!
+Dialogue: 0,0:08:42.34,0:08:46.10,Sign_Arial,SIGN,0,0,0,,{\pos(322.66,230.33)\c&HBFD6DD&\3c&H48565B&\shad0\fnGeorgia}E se eu fosse dançar também?\NTodo mundo ia ver como eu tenho estilo!
+Dialogue: 0,0:09:02.00,0:09:06.74,Default,CAMELOT,0,0,0,,Agradecemos ao Viajante que nos proporcionou\Nesse grande momento de vergonha alheia!
+Dialogue: 0,0:09:06.82,0:09:08.58,Default,CAMELOT,0,0,0,,O único, o inigualável…
+Dialogue: 0,0:09:09.03,0:09:11.55,Default,CAMELOT,0,0,0,,Sabba Malouki!
+Dialogue: 0,0:09:13.50,0:09:15.75,Default,SABBA,0,0,0,,É um dos piores momentos da minha vida!
+Dialogue: 0,0:09:15.83,0:09:18.15,Default,TERRENCE,0,0,0,,Foi mal. Não é legal.
+Dialogue: 0,0:09:18.23,0:09:21.35,Default,SAVANE,0,0,0,,E pensar que foi você\Nque insistiu pra gente vir.
+Dialogue: 0,0:09:21.96,0:09:24.08,Default,CAMELOT,0,0,0,,Silêncio, senhoras e senhores!
+Dialogue: 0,0:09:24.16,0:09:27.22,Default,CAMELOT,0,0,0,,Porque a hora do nosso prato principal chegou!
+Dialogue: 0,0:09:27.30,0:09:29.95,Default,CAMELOT,0,0,0,,Preparem-se para o nosso número especial!
+Dialogue: 0,0:09:30.03,0:09:33.92,Default,CAMELOT,0,0,0,,Em alguns segundos, um simples Sonhador\Nvai reviver diante de vocês…
+Dialogue: 0,0:09:36.00,0:09:39.00,Default,CAMELOT,0,0,0,,…o seu pior pesadelo!
+Dialogue: 0,0:09:54.58,0:09:57.36,Default,TERRENCE,0,0,0,,Não acredito. Eu conheço essa garota.
+Dialogue: 0,0:10:23.26,0:10:26.54,Default,CAMELOT,0,0,0,,Eu sei o que vocês estão pensando\Ne eu respondo: sim,
+Dialogue: 0,0:10:26.62,0:10:29.50,Default,CAMELOT,0,0,0,,sim, essa Sonhadora está mesmo\Nentre nós esta noite,
+Dialogue: 0,0:10:29.58,0:10:33.20,Default,CAMELOT,0,0,0,,e conto com vocês para dar a ela\Na pior noite de sua vida!
+Dialogue: 0,0:10:33.28,0:10:35.48,Default,CAMELOT,0,0,0,,Uma salva de palmas para…
+Dialogue: 0,0:10:35.56,0:10:37.63,Default,CAMELOT,0,0,0,,…Eve!
+Dialogue: 0,0:10:39.31,0:10:40.55,Default,TERRENCE,0,0,0,,É a Eve?
+Dialogue: 0,0:10:45.90,0:10:47.70,Default,EVE,0,0,0,,O que eu tô fazendo aqui?
+Dialogue: 0,0:10:47.78,0:10:51.27,Default,TERRENCE,0,0,0,,É dela que eu tava falando.\NA melhor amiga da Lydia, que não me suporta.
+Dialogue: 0,0:10:51.35,0:10:54.46,Default,SAVANE,0,0,0,,Bom, parece que você vai ter\Na chance de se vingar.
+Dialogue: 0,0:10:54.54,0:10:55.52,Default,CAMELOT,0,0,0,,Olhem para ela.
+Dialogue: 0,0:10:55.60,0:11:00.15,Default,CAMELOT,0,0,0,,Vocês imaginam todo o esforço que ela\Nprecisou fazer para mudar a própria imagem?
+Dialogue: 0,0:11:00.23,0:11:02.66,Default,CAMELOT,0,0,0,,Mostrem a ela que ninguém\Nescapa do olhar dos outros!
+Dialogue: 0,0:11:02.74,0:11:05.67,Default,CAMELOT,0,0,0,,Que, apesar de todo\No esforço para mudar, no fundo,
+Dialogue: 0,0:11:05.75,0:11:09.02,Default,CAMELOT,0,0,0,,ela vai continuar sendo sempre\Na mesma garotinha apavorada!
+Dialogue: 0,0:11:09.84,0:11:11.25,Default,EVE,0,0,0,,Não, mas que lou—
+Dialogue: 0,0:11:16.68,0:11:17.93,Default,EVE,0,0,0,,Ei, mas…
+Dialogue: 0,0:11:18.40,0:11:24.18,Top,AMB H/F,0,0,0,,Buuuuh! Sai daí!
+Dialogue: 0,0:11:24.58,0:11:27.43,Default,EVE,0,0,0,,Quê? As minhas espinhas?
+Dialogue: 0,0:11:27.80,0:11:30.00,Default,REVEUR 1,0,0,0,,Uau! Ela é muito feia!
+Dialogue: 0,0:11:31.90,0:11:34.24,Top,REVEUR 2,0,0,0,,Eve, você é feia! A Eve é muito feia!
+Dialogue: 0,0:11:34.32,0:11:35.35,Top,REVEUR 4,0,0,0,,Vaca gorda!
+Dialogue: 0,0:11:35.43,0:11:35.80,Top,REVEUR 5,0,0,0,,Buh, que vergonha!
+Dialogue: 0,0:11:35.88,0:11:38.04,Default,EVE,0,0,0,,Parem! {\i1}Stop{\i0}!
+Dialogue: 0,0:11:38.12,0:11:40.16,Top,REVEUR 6,0,0,0,,Isso, vaca gorda!
+Dialogue: 0,0:11:42.38,0:11:44.76,Default,SABBA,0,0,0,,Mas que horror o que eles tão fazendo.
+Dialogue: 0,0:11:50.22,0:11:53.92,Default,CAMELOT,0,0,0,,Mostrem!\NMostrem a ela a sua verdadeira cara!
+Dialogue: 0,0:11:54.00,0:11:55.22,Top,REVEUR 8,0,0,0,,Baleia!
+Dialogue: 0,0:11:55.94,0:11:57.23,Top,REVEUR 10,0,0,0,,Você é feia!
+Dialogue: 0,0:11:57.84,0:12:00.64,Top,REVEUR 1,0,0,0,,Ei, você é muito feia!
+Dialogue: 0,0:12:01.38,0:12:03.90,Top,REVEUR 5,0,0,0,,Buh, que vergonha!
+Dialogue: 0,0:12:09.64,0:12:12.05,Top,REVEUR 7,0,0,0,,Vai se esconder, ninguém quer te ver!
+Dialogue: 0,0:12:14.23,0:12:16.82,Top,REVEUR 2,0,0,0,,Isso, vaca gorda, sai fora!
+Dialogue: 0,0:12:17.95,0:12:21.45,Default,CAMELOT,0,0,0,,Revelem ao mundo como ela se vê de verdade!
+Dialogue: 0,0:12:25.50,0:12:28.25,Default,CAMELOT,0,0,0,,Isso! Mostrem a ela!
+Dialogue: 0,0:12:28.98,0:12:31.28,Default,CAMELOT,0,0,0,,Buh! Buh!
+Dialogue: 0,0:12:32.14,0:12:36.00,Default,EVE,0,0,0,,Não, parem! Não olhem pra mim!
+Dialogue: 0,0:12:39.58,0:12:41.73,Default,TERRENCE,0,0,0,,Ei! Eve!
+Dialogue: 0,0:12:42.88,0:12:44.28,Default,TERRENCE,0,0,0,,Essa não é você!
+Dialogue: 0,0:12:44.36,0:12:48.08,Default,TERRENCE,0,0,0,,Que se dane o passado,\Na sua imagem e sei lá mais o quê!
+Dialogue: 0,0:12:48.16,0:12:50.62,Default,TERRENCE,0,0,0,,Cadê a Eve que eu conheço?
+Dialogue: 0,0:12:50.93,0:12:52.87,Default,TERRENCE,0,0,0,,A que arrasa na aula?
+Dialogue: 0,0:12:52.95,0:12:56.54,Default,TERRENCE,0,0,0,,A que me manda à merda toda vez\Nque eu tento falar com a Lydia?
+Dialogue: 0,0:12:56.62,0:12:58.92,Default,EVE,0,0,0,,Terrence?
+Dialogue: 0,0:12:59.34,0:13:02.64,Default,CAMELOT,0,0,0,,Ei! Improviso é só no sábado à noite!\NSegurem esse cara!
+Dialogue: 0,0:13:02.72,0:13:04.62,Default,TERRENCE,0,0,0,,Você tá cagando\Npro que as pessoas pensam!
+Dialogue: 0,0:13:04.70,0:13:08.85,Default,TERRENCE,0,0,0,,A Eve que conheço não tem medo de ninguém\Ne nunca deixa que pisem nela!
+Dialogue: 0,0:13:08.93,0:13:12.55,Default,TERRENCE,0,0,0,,Então mostra quem você\Né pra esses desgraçados!
+Dialogue: 0,0:13:29.58,0:13:31.30,Default,EVE,0,0,0,,Ei, vocês aí!
+Dialogue: 0,0:13:33.70,0:13:35.86,Default,EVE,0,0,0,,Quem vocês pensam que são?
+Dialogue: 0,0:13:43.38,0:13:47.10,Default,EVE,0,0,0,,Eu sou quem eu quero ser! Eu lutei por isso!
+Dialogue: 0,0:13:47.18,0:13:51.02,Default,EVE,0,0,0,,E se eu era diferente antes…\Nquem são vocês pra julgar?
+Dialogue: 0,0:13:51.10,0:13:52.80,Default,EVE,0,0,0,,Tô pouco me lixando pra quem eu fui!
+Dialogue: 0,0:13:52.88,0:13:56.98,Default,EVE,0,0,0,,E, principalmente… tô pouco me lixando\Npro que vocês pensam de mim!
+Dialogue: 0,0:14:18.20,0:14:21.03,Default,EVE,0,0,0,,Hã, quê? Mas o que eu tô fazendo aqui?
+Dialogue: 0,0:14:21.60,0:14:24.26,Default,CAMELOT,0,0,0,,Vocês estragaram o meu espetáculo!
+Dialogue: 0,0:14:24.34,0:14:28.88,Default,CAMELOT,0,0,0,,Vocês vão me pagar! Venham a mim,\Nfreelancers do espetáculo!
+Dialogue: 0,0:14:32.63,0:14:36.38,Default,TERRENCE,0,0,0,,Eve! Eu vou te explicar tudo,\Nmas antes a gente tem que sair daqui!
+Dialogue: 0,0:14:36.46,0:14:39.05,Default,EVE,0,0,0,,Tá, tudo bem, mas… mas como?!
+Dialogue: 0,0:14:39.48,0:14:40.52,Default,EVE,0,0,0,,Hã?
+Dialogue: 0,0:14:40.60,0:14:43.00,Default,EVE,0,0,0,,O que é isso?
+Dialogue: 0,0:15:04.16,0:15:06.83,Default,TERRENCE,0,0,0,,Então vocês acham graça\Nna desgraça dos outros, é?
+Dialogue: 0,0:15:12.38,0:15:17.10,Default,CAMELOT,0,0,0,,O meu lindo teatro! Olhem o que vocês fizeram!
+Dialogue: 0,0:15:23.16,0:15:25.36,Default,EVE,0,0,0,,E você ainda não viu nada!
+Dialogue: 0,0:15:49.81,0:15:51.40,Default,EVE,0,0,0,,Incrível.
+Dialogue: 0,0:15:53.24,0:15:54.92,Default,EVE,0,0,0,,Que pulseira esquisita é essa?
+Dialogue: 0,0:15:55.00,0:15:57.77,Default,EVE,0,0,0,,E… E que roupa é essa?
+Dialogue: 0,0:15:57.85,0:15:59.42,Default,TERRENCE,0,0,0,,Essa é a Eve que eu conheço!
+Dialogue: 0,0:15:59.50,0:16:03.17,Default,TERRENCE,0,0,0,,A que venceu o medo do olhar dos outros!\NBem-vinda aos Viajantes!
+Dialogue: 0,0:16:03.25,0:16:07.54,Default,SAVANE,0,0,0,,E, pelo jeito, o seu poder de Viajante\Nvem das suas roupas ou das suas joias.
+Dialogue: 0,0:16:07.62,0:16:12.18,Default,SAVANE,0,0,0,,Na verdade, você também é meio invocadora.\NOlha o martelo na sua pulseira.
+Dialogue: 0,0:16:14.74,0:16:17.53,Default,TERRENCE,0,0,0,,Relaxa, eu fiquei igualzinho\Nna primeira noite.
+Dialogue: 0,0:16:18.76,0:16:21.14,Default,EVE,0,0,0,,Porra! Como você fez isso?
+Dialogue: 0,0:16:35.85,0:16:37.30,Default,EVE,0,0,0,,Uau…
+Dialogue: 0,0:16:38.06,0:16:40.94,Default,EVE,0,0,0,,Então, hã… esse não é um sonho normal?
+Dialogue: 0,0:16:41.02,0:16:44.45,Default,EVE,0,0,0,,Eu virei uma Viajante e… foi graças a você?
+Dialogue: 0,0:16:44.53,0:16:46.50,Default,TERRENCE,0,0,0,,É… sim. Hã… Não!
+Dialogue: 0,0:16:46.58,0:16:51.14,Default,TERRENCE,0,0,0,,Digo, de certo modo, mas você venceu\No seu maior medo sozinha.
+Dialogue: 0,0:16:51.22,0:16:54.68,Default,TERRENCE,0,0,0,,Foi você que fez a parte mais difícil.\NVocê pode ter muito orgulho de si mesma.
+Dialogue: 0,0:17:00.18,0:17:03.12,Default,EVE,0,0,0,,Ei, não vai ficar imaginando coisas, tá?
+Dialogue: 0,0:17:03.20,0:17:05.42,Default,EVE,0,0,0,,Mas eu vou fazer algo por você mesmo assim.
+Dialogue: 0,0:17:09.80,0:17:11.63,Default,EVE,0,0,0,,Hã? Terren—
+Dialogue: 0,0:17:12.86,0:17:17.16,Default,SAVANE,0,0,0,,Eles tão no ensino médio. Acordam cedo.\NE eu tenho que cuidar da minha irmãzinha, então…
+Dialogue: 0,0:17:19.36,0:17:21.33,Default,SABBA,0,0,0,,Ah, eu tô nem aí…
+Dialogue: 0,0:17:22.89,0:17:26.48,Default,SABBA,0,0,0,,Faço faculdade de Artes Plásticas\Ne não tenho horário.
+Dialogue: 0,0:17:37.95,0:17:42.50,Default,MICHEL,0,0,0,,É… Bom, que legal que você veio, mas, tipo…
+Dialogue: 0,0:17:42.58,0:17:44.86,Default,MICHEL,0,0,0,,eu não esperava que você\Ntrouxesse tanta gente.
+Dialogue: 0,0:17:44.94,0:17:47.30,Default,EVE,0,0,0,,E daí? Quer que eu mande\Nmeus amigos embora, é isso?
+Dialogue: 0,0:17:47.38,0:17:48.92,Default,MICHEL,0,0,0,,Não, não foi isso que eu quis dizer!
+Dialogue: 0,0:17:49.00,0:17:52.03,Default,EVE,0,0,0,,Pois então, tá resolvido!\NVai, Michel, saúde!
+Dialogue: 0,0:17:55.62,0:17:57.07,Default,EVE,0,0,0,,Que delícia!
+Dialogue: 0,0:17:57.15,0:18:00.62,Default,EVE,0,0,0,,Faz anos que eu me proíbo de comer\Nessas porcarias. Acabou isso!
+Dialogue: 0,0:18:00.70,0:18:01.56,Default,MICHEL,0,0,0,,Que bom…
+Dialogue: 0,0:18:03.76,0:18:07.06,Default,SAVANE,0,0,0,,Tá vendo, Terrence? A sua colega\Né gente boa, ela chamou a gente.
+Dialogue: 0,0:18:07.14,0:18:08.32,Default,SAVANE,0,0,0,,Bora beber alguma coisa.
+Dialogue: 0,0:18:08.40,0:18:12.25,Default,SABBA,0,0,0,,Ah, viu? Você me curte! Eu sabia.
+Dialogue: 0,0:18:15.88,0:18:17.04,Default,SAVANE,0,0,0,,Não. Você não, cara.
+Dialogue: 0,0:18:17.12,0:18:18.72,Default,TERRENCE,0,0,0,,Ué, por quê?
+Dialogue: 0,0:18:18.80,0:18:20.16,Default,SAVANE,0,0,0,,Primeiro, você vai falar com ela.
+Dialogue: 0,0:18:20.24,0:18:21.83,Default,TERRENCE,0,0,0,,Hã, com quem?
+Dialogue: 0,0:18:22.43,0:18:23.62,Default,TERRENCE,0,0,0,,Ai, desculpa!
+Dialogue: 0,0:18:23.70,0:18:24.88,Default,LYDIA,0,0,0,,Terrence?
+Dialogue: 0,0:18:24.96,0:18:26.36,Default,LYDIA,0,0,0,,O que você tá fazendo aqui?
+Dialogue: 0,0:18:26.44,0:18:31.24,Default,TERRENCE,0,0,0,,Bom, na verdade, eu… sou parça do Patrick.
+Dialogue: 0,0:18:31.32,0:18:32.72,Default,LYDIA,0,0,0,,Do Michel, você quer dizer?
+Dialogue: 0,0:18:32.80,0:18:35.44,Default,TERRENCE,0,0,0,,Michel, Patrick, é tudo parecido…
+Dialogue: 0,0:18:41.20,0:18:43.04,Default,EVE,0,0,0,,Bom, deixa que eu resolvo isso!
+Dialogue: 0,0:18:43.42,0:18:45.36,Top,FETARD 1,0,0,0,,O que tá rolando?
+Dialogue: 0,0:18:47.28,0:18:48.53,Default,EVE,0,0,0,,Pronto!
+Dialogue: 0,0:18:48.88,0:18:51.72,Default,EVE,0,0,0,,E vocês não saem daí enquanto\Nnão resolverem essa história!
+Dialogue: 0,0:18:52.53,0:18:56.15,Default,EVE,0,0,0,,O primeiro que atrapalhar os dois\Nvai se ver comigo! {\i1}Capisce{\i0}?
+Dialogue: 0,0:19:12.08,0:19:14.28,Default,TERRENCE & LYDIA,0,0,0,,Por que você nunca me ligou de volta?
+Dialogue: 0,0:19:33.42,0:19:36.46,Default,SAVANE,0,0,0,,Por que bancou a cupido,\Nse te enche o saco ver os dois juntos?
+Dialogue: 0,0:19:37.65,0:19:40.63,Default,EVE,0,0,0,,O amor não é pra gente como nós.
+Dialogue: 0,0:19:46.15,0:19:48.58,Default,EVE,0,0,0,,Mas esses dois nasceram\Npra ficarem juntos.
+Dialogue: 0,0:19:49.80,0:19:52.20,Default,EVE,0,0,0,,É só olhar pra eles, tá na cara.
+Dialogue: 0,0:19:52.78,0:19:55.00,Default,EVE,0,0,0,,E, além disso, a Lydia tinha razão.
+Dialogue: 0,0:19:57.38,0:20:00.10,Default,EVE,0,0,0,,O Terrence é um cara legal.
+Dialogue: 0,0:20:02.85,0:20:03.93,Default,SAVANE,0,0,0,,É.
+Dialogue: 0,0:20:09.03,0:20:12.15,Default,EVE,0,0,0,,E eu faria tudo pra que a Lydia seja feliz.
+Dialogue: 0,0:20:13.20,0:20:14.28,Default,EVE,0,0,0,,Aos dois!
+Dialogue: 0,0:20:14.36,0:20:15.36,Default,SAVANE,0,0,0,,Sim.
+Dialogue: 0,0:20:18.10,0:20:21.75,Default,LYDIA,0,0,0,,Então é isso?\NVocê só não recebeu a minha mensagem?
+Dialogue: 0,0:20:23.50,0:20:26.73,Default,LYDIA,0,0,0,,Fico feliz que não tenha\Nmais mal-entendido entre a gente.
+Dialogue: 0,0:20:28.23,0:20:31.14,Default,TERRENCE,0,0,0,,É. Eu também.
+Dialogue: 0,0:20:38.36,0:20:42.85,Default,LYDIA,0,0,0,,Ah… bom, ah… a gente pode entrar.
+Dialogue: 0,0:21:01.30,0:21:05.48,Default,TERRENCE,0,0,0,,Lydia… hã… posso te beijar?
+Dialogue: 0,0:21:10.54,0:21:11.46,Default,LYDIA,0,0,0,,Sim.
+Dialogue: 0,0:21:33.08,0:21:40.42,Sign_Arial,Credits,0,0,0,,{\an3\c&H000000&\3c&HFFF4FF&\b1\blur0.5\bord2\fnTahoma\fs14\pos(559.757,40.615)}Legenda Brasileira
+Dialogue: 0,0:21:33.08,0:21:40.42,Sign_Arial,Credits,0,0,0,,{\an3\c&H000000&\3c&HFFF4FF&\b1\blur0.5\bord2\fnTahoma\fs14\pos(484.887,104.526)}Tradução:\NEdição:\NRevisão:\NProdução:
+Dialogue: 0,0:21:33.08,0:21:40.42,Sign_Arial,Credits,0,0,0,,{\an1\c&H000000&\3c&HFFF4FF&\b1\blur0.5\bord2\fnTahoma\fs14\pos(508.217,104.526)}Graciele Cordeiro\NHellia Nakatsu\NLívia Machado\NGustavo Hoffmann
+Comment: 0,0:00:00.00,0:00:00.00,Default,TITLE,0,0,0,,Eve
+Comment: 0,0:00:00.00,0:00:00.00,Default,DESC,0,0,0,,Em Dreamland, Terrence, Savane e Sabba vão a um teatro itinerante que expõe o pior pesadelo de uma Sonhadora.
+
