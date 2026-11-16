@@ -1,0 +1,263 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:33.70,0:01:35.18,Gen_Main,Asmodheus,0,0,0,,Repítemelo.
+Dialogue: 0,0:01:36.02,0:01:40.70,Gen_Main,Neil,0,0,0,,Yo… todavía no he encontrado\Nal controlador de fuego, amo.
+Dialogue: 0,0:01:40.90,0:01:44.40,Gen_Main,Neil,0,0,0,,¡Pero me falta poco!\N¡Lo he identificado! ¡No se preocupe!
+Dialogue: 0,0:01:44.50,0:01:46.60,Gen_Main,Neil,0,0,0,,Ya solo es cuestión de días.
+Dialogue: 0,0:01:47.78,0:01:48.98,Gen_Main,Asmodheus,0,0,0,,Vete.
+Dialogue: 0,0:01:51.82,0:01:54.04,Gen_Main,Asmodheus,0,0,0,,Y no me vuelvas a decepcionar, Neil.
+Dialogue: 0,0:01:54.14,0:01:56.11,Gen_Main,Asmodheus,0,0,0,,El fuego no perdona.
+Dialogue: 0,0:02:01.46,0:02:05.12,Gen_Main,Ève,0,0,0,,¡Hola, equipo!\N¡Bienvenidas a mi rutina diaria!
+Dialogue: 0,0:02:05.22,0:02:08.24,Gen_Main,Ève,0,0,0,,¡Venga, a motivarse y a por todas!
+Dialogue: 0,0:02:08.34,0:02:13.76,Gen_Main,Ève,0,0,0,,Seguimos, sin pausa.\NInspiramos, expiramos…
+Dialogue: 0,0:02:13.86,0:02:16.64,Gen_Main,Ève,0,0,0,,Lo importante\Nes mantener siempre la calma.
+Dialogue: 0,0:02:17.10,0:02:21.00,Gen_Main,Ève,0,0,0,,Y terminamos con la {\i1}fotofinish{\i0}:\Nel método de las seis capas da trabajo,
+Dialogue: 0,0:02:21.10,0:02:23.00,Gen_Main,Ève,0,0,0,,pero mirad qué resultado.
+Dialogue: 0,0:02:24.30,0:02:26.56,Gen_Main,Ève,0,0,0,,Aunque tampoco tenéis\Npor qué hacer lo mismo.
+Dialogue: 0,0:02:26.66,0:02:29.07,Gen_Main,Ève,0,0,0,,Eso sí: sed vosotras mismas, ¿vale?
+Dialogue: 0,0:02:30.34,0:02:34.40,Gen_Main,Ève,0,0,0,,Y listo: un batido de pepino, espinacas,\Nmenta, albahaca, guisantes y ortigas.
+Dialogue: 0,0:02:34.50,0:02:37.16,Gen_Main,Ève,0,0,0,,Comer siempre sano:\Nese es el secreto, chiquis.
+Dialogue: 0,0:02:37.26,0:02:39.80,Gen_Main,Ève,0,0,0,,Tampoco hay que dejar\Nque se vuelva una obsesión.
+Dialogue: 0,0:02:39.90,0:02:43.04,Gen_Main,Ève,0,0,0,,Lo importante es que os sintáis bien\Ncon vuestro cuerpo.
+Dialogue: 0,0:02:43.14,0:02:46.58,Gen_Main,Ève,0,0,0,,Pero yo tengo suerte:\Nnunca me ha gustado lo dulce.
+Dialogue: 0,0:02:47.42,0:02:51.26,Gen_Main,Ève,0,0,0,,¡Tachán! ¡Listas para los exámenes!\N¡Te toca, Lydia!
+Dialogue: 0,0:02:51.70,0:02:52.72,Gen_Main,Ève,0,0,0,,¿Lydia?
+Dialogue: 0,0:02:52.82,0:02:56.92,Gen_Main,Sr. Mujot,0,0,0,,¡No puede ser! ¡Tanta mediocridad\Na tres semanas de los exámenes!
+Dialogue: 0,0:02:57.02,0:02:59.02,Gen_Main,Sr. Mujot,0,0,0,,¿Me oyes, señor Meyer?
+Dialogue: 0,0:02:59.70,0:03:03.04,Gen_Main,Lydia; Ève,0,0,0,,-Pobrecillo…\N-¡Lydia! ¿Nos enseñas tu examen?
+Dialogue: 0,0:03:03.14,0:03:04.40,Gen_Main,Ève,0,0,0,,¿Lydia?
+Dialogue: 0,0:03:08.98,0:03:11.76,Gen_Main,Ève,0,0,0,,En serio, suda de él de una vez.\NNo te merece.
+Dialogue: 0,0:03:13.10,0:03:17.20,Gen_Main,Lydia,0,0,0,,Pero es que Terrence es tan majo…\NEstoy segura de que hay una razón.
+Dialogue: 0,0:03:17.30,0:03:20.50,Gen_Main,Ève,0,0,0,,La razón es que es un fracasado\Ny no es capaz de cambiar.
+Dialogue: 0,0:03:20.82,0:03:23.56,Gen_Main,Ève,0,0,0,,Quizá le gustes de verdad,\Npero, en el fondo,
+Dialogue: 0,0:03:23.66,0:03:27.44,Gen_Main,Ève,0,0,0,,sabe que no tiene posibilidades\Ncon una tía como tú, así que olvídalo.
+Dialogue: 0,0:03:28.54,0:03:32.16,Gen_Main,Michel,0,0,0,,Eh… ¿Ève? ¿Lydia?\NMe preguntaba si…
+Dialogue: 0,0:03:32.26,0:03:36.22,Gen_Main,Michel,0,0,0,,Bueno, el sábado por la noche\Nvoy a organizar una fiesta en mi casa y…
+Dialogue: 0,0:03:37.30,0:03:40.92,Gen_Main,Ève,0,0,0,,¡Michel! Es muy amable por tu parte,\Npero ya es jueves.
+Dialogue: 0,0:03:41.02,0:03:44.48,Gen_Main,Ève,0,0,0,,No tengo nada que ponerme\Ny tengo el sábado llenito de planes.
+Dialogue: 0,0:03:44.58,0:03:47.44,Gen_Main,Ève,0,0,0,,Veré qué puedo hacer,\Npero no te hagas ilus, ¿vale?
+Dialogue: 0,0:03:47.54,0:03:48.76,Gen_Main,Michel,0,0,0,,Vale…
+Dialogue: 0,0:03:54.94,0:03:56.24,Gen_Main,Lydia,0,0,0,,No sé…
+Dialogue: 0,0:03:56.94,0:03:58.31,Gen_Italics,Lydia,0,0,0,,En el fondo…
+Dialogue: 0,0:03:59.06,0:04:03.06,Gen_Italics,Lydia,0,0,0,,hay una vocecita que me dice\Nque es diferente de la imagen que da.
+Dialogue: 0,0:04:03.54,0:04:06.22,Gen_Main,Ève,0,0,0,,Sí, pues anda que no lo disimula bien.
+Dialogue: 0,0:04:07.18,0:04:08.44,Gen_Main,Lydia,0,0,0,,Oye…
+Dialogue: 0,0:04:09.54,0:04:12.16,Gen_Main,Lydia,0,0,0,,¿Y si le propongo\Nir a la fiesta del sábado?
+Dialogue: 0,0:04:12.26,0:04:15.88,Gen_Main,Ève,0,0,0,,Pero ¿a ti qué te pasa?\NLlevar a Terrence Meyer a una fiesta…
+Dialogue: 0,0:04:15.98,0:04:18.06,Gen_Main,Ève,0,0,0,,¡Eso es un suicidio social!
+Dialogue: 0,0:04:22.30,0:04:25.16,Gen_Main,Lydia,0,0,0,,¿Sabes qué?\NLa otra noche tuve un sueño con él.
+Dialogue: 0,0:04:25.26,0:04:28.66,Gen_Italics,Ève,0,0,0,,¡Madre mía!\N¡Una pesadilla, querrás decir!
+Dialogue: 0,0:04:29.62,0:04:33.98,Gen_Italics,Lydia,0,0,0,,No, en serio… Siempre pienso en él,\Nincluso cuando duermo.
+Dialogue: 0,0:04:34.42,0:04:36.34,Gen_Italics,Lydia,0,0,0,,Ève, ya no puedo más…
+Dialogue: 0,0:04:37.58,0:04:39.90,Gen_Main,Ève,0,0,0,,Estoy segura\Nde que él también sueña contigo.
+Dialogue: 0,0:04:40.14,0:04:41.60,Gen_Italics,Lydia,0,0,0,,¿Tú crees?
+Dialogue: 0,0:04:41.70,0:04:43.62,Gen_Italics,Ève,0,0,0,,¡Sí, pero haciendo cochinadas!
+Dialogue: 0,0:04:44.86,0:04:47.02,Gen_Italics,Lydia,0,0,0,,¡Para, anda!
+Dialogue: 0,0:04:47.94,0:04:51.89,Gen_Main,Ève,0,0,0,,¡Fijo! Créeme, sus sueños deben de ser\Nde lo más rarito que hay.
+Dialogue: 0,0:04:55.22,0:04:57.02,Gen_Main,Savane,0,0,0,,Qué barbaridad…
+Dialogue: 0,0:05:00.98,0:05:02.64,Gen_Main,Savane,0,0,0,,¿Has visto a ese bicho?
+Dialogue: 0,0:05:03.50,0:05:07.32,Gen_Main,Savane,0,0,0,,¿Qué, aún estás con lo de Lydia?\NQué pesadito con la matraca.
+Dialogue: 0,0:05:07.42,0:05:10.11,Gen_Main,Terrence,0,0,0,,No puedo evitarlo.\NNo me la puedo sacar de la cabeza.
+Dialogue: 0,0:05:10.54,0:05:14.94,Gen_Main,Terrence,0,0,0,,Incluso cuando veo algo tan flipante\Ncomo este dinosaurio pienso en ella.
+Dialogue: 0,0:05:15.54,0:05:19.76,Gen_Main,Savane,0,0,0,,Bueno, no hay muchas opciones.\NVe a hablar con ella y resuélvelo ya.
+Dialogue: 0,0:05:19.86,0:05:22.32,Gen_Main,Terrence,0,0,0,,¡Pero no puedo! ¡Siempre está con Ève!
+Dialogue: 0,0:05:22.42,0:05:25.32,Gen_Main,Terrence,0,0,0,,Es una plasta,\Nsiempre protegiéndola como un pitbull.
+Dialogue: 0,0:05:25.42,0:05:27.40,Gen_Main,Terrence,0,0,0,,Nunca me dejará acercarme a ella.
+Dialogue: 0,0:05:27.50,0:05:29.76,Gen_Main,Sabba,0,0,0,,Bueno, ¿y por qué no la llamas?
+Dialogue: 0,0:05:29.86,0:05:33.84,Gen_Main,Terrence,0,0,0,,¡Sabba, tienes que dejar\Nde dar esos sustos! ¡Es insoportable!
+Dialogue: 0,0:05:33.94,0:05:36.00,Gen_Main,Sabba,0,0,0,,No es nada complicado, hermano.
+Dialogue: 0,0:05:36.10,0:05:40.22,Gen_Main,Sabba,0,0,0,,Si su amiga se interpone,\Nllámala y dile lo que sientes.
+Dialogue: 0,0:05:43.38,0:05:46.34,Gen_Main,Savane,0,0,0,,Déjalo, aún no está listo.\N¿Verdad, Blandi?
+Dialogue: 0,0:05:46.46,0:05:48.88,Gen_Main,Sabba,0,0,0,,¿Y si, en lugar de eso,\Nnos distraemos un poco?
+Dialogue: 0,0:05:48.98,0:05:52.26,Gen_Main,Sabba; Savane,0,0,0,,-¿Qué hacemos esta noche, amigos?\N-No somos amigos.
+Dialogue: 0,0:05:54.74,0:05:56.62,Gen_Main,Sabba,0,0,0,,¡Savane, deja de hacerte el duro!
+Dialogue: 0,0:05:56.72,0:05:59.16,Gen_Main,Sabba,0,0,0,,¡Llevamos dos semanas\Nsaliendo todas las noches!
+Dialogue: 0,0:05:59.28,0:06:01.00,Gen_Main,Sabba,0,0,0,,Nos caemos bien, ¿no?
+Dialogue: 0,0:06:01.10,0:06:05.16,Gen_Main,Sabba,0,0,0,,Ahora somos compañeros de armas,\N{\i1}nakamas{\i0}, unos… unos…
+Dialogue: 0,0:06:05.26,0:06:06.56,Gen_Main,Sabba; Savane,0,0,0,,-Ya sabes.\N-Quita la mano.
+Dialogue: 0,0:06:06.68,0:06:13.56,Gen_Main,Sabba,0,0,0,,Sí, en el fondo tienes un corazoncito\Nque solo pide amor y comprensión.
+Dialogue: 0,0:06:13.66,0:06:16.36,Gen_Main,Sabba,0,0,0,,Y para eso están los amigos.
+Dialogue: 0,0:06:25.94,0:06:27.90,Cart_A_Tre,CARTEL,0,0,0,,{\3c&HB357AE&\fs35\fsp5\c&HFFDCFF&\be1\clip(50,2,160,311)\t(0,660,\clip(50,2,600,311))}T{\c&HFFFFE2&\3c&HE1E4B4&}E{\c&HF4FFFF&\3c&HDEF2FE&}A{\c&HFFF9FF&\3c&HA98BA5&}T{\c&HF3FFFC&\3c&H7A978F&}R{\c&HFFFFFB&\3c&HCEB7A2&}O
+Dialogue: 0,0:06:33.02,0:06:35.44,Gen_Main,Demonio saltimbanqui,0,0,0,,¡Atención, jóvenes viajeros!
+Dialogue: 0,0:06:35.54,0:06:38.20,Gen_Main,Demonio saltimbanqui,0,0,0,,¿Queréis divertiros,\Npero no sabéis cómo?
+Dialogue: 0,0:06:39.30,0:06:42.28,Gen_Main,Demonio saltimbanqui,0,0,0,,¡Venid a disfrutar\Ndel mayor espectáculo de vuestras vidas
+Dialogue: 0,0:06:42.38,0:06:46.54,Gen_Main,Demonio saltimbanqui,0,0,0,,en el Gran Teatro Ambulante\Nde Dreamland!
+Dialogue: 0,0:06:47.70,0:06:49.08,Gen_Main,Sabba,0,0,0,,A ver, ¿qué es?
+Dialogue: 0,0:06:49.18,0:06:52.76,Gen_Main,Demonio saltimbanqui,0,0,0,,¡Un espectáculo único en su género!\N¡Algo que nunca habréis visto antes!
+Dialogue: 0,0:06:52.86,0:06:54.93,Gen_Main,Demonio saltimbanqui,0,0,0,,Y además es gratis.
+Dialogue: 0,0:06:56.86,0:06:59.36,Gen_Main,Sabba; Savane,0,0,0,,-Eh, chicos, ¿nos vamos?\N-Antes me pego un tiro.
+Dialogue: 0,0:06:59.46,0:07:02.36,Gen_Main,Sabba,0,0,0,,Para cambiar de aires tras tanta pelea.\N¡Yo voto a favor!
+Dialogue: 0,0:07:02.48,0:07:05.04,Gen_Main,Demonio saltimbanqui; Savane,0,0,0,,-¡Yo también!\N-Esto no es una democracia.
+Dialogue: 0,0:07:05.14,0:07:07.66,Gen_Main,Savane,0,0,0,,¡Y tú no formas parte del grupo!
+Dialogue: 0,0:07:09.46,0:07:12.07,Gen_Main,Sabba,0,0,0,,Oye, no es para mí…\NEs para él.
+Dialogue: 0,0:07:18.54,0:07:21.18,Cart_A_Tre,CARTEL,0,0,0,,{\3c&HB5F5F9&\c&H70AEE6&\an2\fs12\frz6.732\be1\move(333,217,333,225,20,2620)}Teatro Ambulante\Nde Dreamland
+Dialogue: 0,0:07:24.30,0:07:27.70,Cart_A_Tre,CARTEL,0,0,0,,{\3c&HC4FFFA&\c&H6489E6&\be1\fs30\bord3}Teatro Ambulante de Dreamland
+Dialogue: 0,0:07:37.86,0:07:40.90,Gen_Main,Sabba,0,0,0,,Estoy seguro de que va a ser genial.\N¿Verdad, Terrence?
+Dialogue: 0,0:07:41.66,0:07:45.00,Gen_Main,Sabba,0,0,0,,Venga, mira: hasta Savane\Nestá contento de estar aquí.
+Dialogue: 0,0:07:47.06,0:07:49.16,Gen_Main,Sabba,0,0,0,,Bueno… a su manera.
+Dialogue: 0,0:07:49.26,0:07:54.50,Gen_Main,Camelot,0,0,0,,¡Damas y caballeros!\N¡Criaturas, soñadores y viajeros!
+Dialogue: 0,0:07:55.80,0:08:00.40,Gen_Main,Camelot,0,0,0,,¡Bienvenidos al Gran Teatro Ambulante\Nde Dreamland!
+Dialogue: 0,0:08:00.50,0:08:03.44,Gen_Main,Camelot,0,0,0,,Esta noche, para vuestro mayor disfrute,
+Dialogue: 0,0:08:03.54,0:08:08.80,Gen_Main,Camelot,0,0,0,,¡os vamos a ofrecer un espectáculo\Nque desafía la imaginación!
+Dialogue: 0,0:08:08.90,0:08:12.96,Gen_Main,Camelot,0,0,0,,Pero sin más preámbulos,\Ny para que os vayáis haciendo una idea,
+Dialogue: 0,0:08:13.06,0:08:15.89,Gen_Main,Camelot,0,0,0,,aquí tenéis un pequeño adelanto…
+Dialogue: 0,0:08:30.94,0:08:34.30,Cart_A_Tre,CARTEL,0,0,0,,{\blur.5\c&HBEDAE1&\bord0\fs25\pos(320,121)}¡Esta noche promete!
+Dialogue: 0,0:08:38.02,0:08:39.52,Gen_Main,Terrence,0,0,0,,¿Eres tú?
+Dialogue: 0,0:08:39.62,0:08:41.86,Gen_Main,Savane,0,0,0,,¡Joder, qué vergüenza!
+Dialogue: 0,0:08:41.86,0:08:45.70,Cart_A_Tre,CARTEL,0,0,0,,{\blur.5\c&HBEDAE1&\bord0\fs25\pos(320,228)}¡Así verán mi estilazo!
+Dialogue: 0,0:08:41.86,0:08:45.70,Cart_A_Tre,CARTEL,0,0,0,,{\blur.5\c&HBEDAE1&\bord0\fs25\pos(320,92)}¿Y si bailo yo también?
+Dialogue: 0,0:09:01.50,0:09:05.88,Gen_Main,Camelot,0,0,0,,¡Mil gracias al viajero que nos ha dado\Neste gran momento de vergüenza!
+Dialogue: 0,0:09:05.98,0:09:07.98,Gen_Main,Camelot,0,0,0,,El único, el incomparable…
+Dialogue: 0,0:09:08.46,0:09:11.07,Gen_Main,Camelot,0,0,0,,¡Sabba Malouki!
+Dialogue: 0,0:09:13.06,0:09:15.48,Gen_Main,Sabba,0,0,0,,Es uno de los peores\Nmomentos de mi vida…
+Dialogue: 0,0:09:15.58,0:09:17.72,Gen_Main,Terrence,0,0,0,,Lo siento. No mola.
+Dialogue: 0,0:09:17.82,0:09:20.80,Gen_Main,Savane,0,0,0,,Y pensar que fuiste tú\Nel que insistió en que viniéramos…
+Dialogue: 0,0:09:21.46,0:09:23.64,Gen_Main,Camelot,0,0,0,,Silencio, damas y caballeros…
+Dialogue: 0,0:09:23.74,0:09:26.60,Gen_Main,Camelot,0,0,0,,¡porque ya ha llegado la hora\Nde nuestro plato principal!
+Dialogue: 0,0:09:26.70,0:09:29.32,Gen_Main,Camelot,0,0,0,,¡Preparaos para nuestro número especial!
+Dialogue: 0,0:09:29.42,0:09:33.42,Gen_Main,Camelot,0,0,0,,En unos segundos, un simple soñador\Nva a revivir ante vosotros…
+Dialogue: 0,0:09:35.54,0:09:38.50,Gen_Main,Camelot,0,0,0,,¡su peor pesadilla!
+Dialogue: 0,0:09:54.10,0:09:56.53,Gen_Main,Terrence,0,0,0,,No me lo puedo creer.\NYo conozco a esa tía.
+Dialogue: 0,0:10:21.94,0:10:25.60,Gen_Main,Camelot,0,0,0,,Sé lo que estáis pensando,\Ny os respondo que sí.
+Dialogue: 0,0:10:25.70,0:10:28.52,Gen_Main,Camelot,0,0,0,,Sí, esta soñadora está aquí\Ncon nosotros esta noche,
+Dialogue: 0,0:10:28.62,0:10:32.64,Gen_Main,Camelot,0,0,0,,y cuento con vosotros para hacerle pasar\Nla peor noche de su vida.
+Dialogue: 0,0:10:32.74,0:10:34.86,Gen_Main,Camelot,0,0,0,,Un fuerte aplauso para…
+Dialogue: 0,0:10:34.96,0:10:37.26,Gen_Main,Camelot,0,0,0,,¡Ève!
+Dialogue: 0,0:10:39.22,0:10:40.49,Gen_Main,Terrence,0,0,0,,¿Es Ève?
+Dialogue: 0,0:10:45.70,0:10:47.56,Gen_Main,Ève,0,0,0,,¿Qué hago aquí?
+Dialogue: 0,0:10:47.66,0:10:48.94,Gen_Main,Terrence,0,0,0,,Es la tía que te decía.
+Dialogue: 0,0:10:49.04,0:10:51.20,Gen_Main,Terrence,0,0,0,,La mejor amiga de Lydia,\Nla que no me traga.
+Dialogue: 0,0:10:51.30,0:10:54.32,Gen_Main,Savane,0,0,0,,Pues creo que vas a tener\Nla oportunidad de vengarte.
+Dialogue: 0,0:10:54.42,0:10:59.72,Gen_Main,Camelot,0,0,0,,Miradla. ¿Os imagináis todo el esfuerzo\Nque ha hecho para cambiar su aspecto?
+Dialogue: 0,0:10:59.82,0:11:02.24,Gen_Main,Camelot,0,0,0,,¡Demostradle\Nque nadie escapa a las miradas!
+Dialogue: 0,0:11:02.34,0:11:04.48,Gen_Main,Camelot,0,0,0,,Que, a pesar de sus esfuerzos\Npor cambiar,
+Dialogue: 0,0:11:04.60,0:11:08.80,Gen_Main,Camelot,0,0,0,,¡en el fondo, siempre seguirá siendo\Nla misma niña llena de miedo!
+Dialogue: 0,0:11:09.54,0:11:11.13,Gen_Main,Ève,0,0,0,,Pero ¿qué es esta lo…?
+Dialogue: 0,0:11:13.98,0:11:15.34,Gen_Main,Público,0,0,0,,¡Un punto!
+Dialogue: 0,0:11:16.38,0:11:17.69,Gen_Main,Ève,0,0,0,,Eh, pero…
+Dialogue: 0,0:11:18.10,0:11:19.91,Gen_Main,Público,0,0,0,,¡Vamos! ¡Buuu!
+Dialogue: 0,0:11:24.34,0:11:26.87,Gen_Main,Ève,0,0,0,,¿Qué? ¿Mis granos?
+Dialogue: 0,0:11:27.50,0:11:29.70,Gen_Main,Soñador 1,0,0,0,,¡Fuá, menudo adefesio!
+Dialogue: 0,0:11:31.70,0:11:34.52,Gen_Main,Soñador 4; Soñador 5,0,0,0,,-¡Vacaburra!\N-¡Vergüenza debería darte ser tan fea!
+Dialogue: 0,0:11:31.70,0:11:34.52,Gen_Main_Up,Soñador 2; Soñador 3,0,0,0,,-¡Ève, feto!\N-¡Arrancadme los ojos!
+Dialogue: 0,0:11:35.60,0:11:37.82,Gen_Main,Ève,0,0,0,,¡Parad! ¡Parad de una vez!
+Dialogue: 0,0:11:38.02,0:11:42.02,Gen_Main,Soñador 6; Soñador 7,0,0,0,,-¡Sí, ballenato!\N-¡Vuelve a tu cueva! ¡No queremos verte!
+Dialogue: 0,0:11:42.34,0:11:44.46,Gen_Main,Sabba,0,0,0,,Es horrible lo que le están haciendo…
+Dialogue: 0,0:11:49.86,0:11:53.68,Gen_Main,Camelot,0,0,0,,¡Enseñádselo!\N¡Mostradle su verdadera cara!
+Dialogue: 0,0:11:53.78,0:11:55.54,Gen_Main,Soñador 8,0,0,0,,¡Bola de sebo!
+Dialogue: 0,0:11:55.66,0:11:56.91,Gen_Main,Soñador 9,0,0,0,,¡Buuu!
+Dialogue: 0,0:11:57.86,0:12:00.34,Gen_Main,Soñador 10; Soñador 11,0,0,0,,-¡Eres más fea que un pie!\N-¡Más fea y no naces!
+Dialogue: 0,0:12:01.58,0:12:03.82,Gen_Main,Soñador 5,0,0,0,,¡Das puta vergüenza!
+Dialogue: 0,0:12:09.34,0:12:12.02,Gen_Main,Soñador 7,0,0,0,,¡Vete a tu casa! ¡No queremos verte!
+Dialogue: 0,0:12:13.86,0:12:15.82,Gen_Main,Soñador 12,0,0,0,,¡Sí, tonelete, vete ya!
+Dialogue: 0,0:12:17.66,0:12:21.09,Gen_Main,Camelot,0,0,0,,¡Enseñadle al mundo\Ncómo se ve ella realmente!
+Dialogue: 0,0:12:25.10,0:12:27.91,Gen_Main,Camelot,0,0,0,,¡Sí, enseñádselo!
+Dialogue: 0,0:12:28.38,0:12:31.27,Gen_Main,Camelot,0,0,0,,¡Buuu! ¡Buuu!
+Dialogue: 0,0:12:31.98,0:12:36.14,Gen_Main,Ève,0,0,0,,¡No, parad ya! ¡No me miréis!
+Dialogue: 0,0:12:39.26,0:12:41.27,Gen_Main,Terrence,0,0,0,,¡Eh! ¡Ève!
+Dialogue: 0,0:12:42.66,0:12:44.06,Gen_Main,Terrence,0,0,0,,¡Tú no eres eso!
+Dialogue: 0,0:12:44.26,0:12:47.51,Gen_Main,Terrence,0,0,0,,¡Nos la sudan tu pasado y tu imagen\Ny toda esa mierda!
+Dialogue: 0,0:12:47.86,0:12:50.22,Gen_Main,Terrence,0,0,0,,¿Dónde está la Ève que conozco?
+Dialogue: 0,0:12:50.46,0:12:52.52,Gen_Main,Terrence,0,0,0,,¿La que destaca en clase?
+Dialogue: 0,0:12:52.62,0:12:55.73,Gen_Main,Terrence,0,0,0,,¿La que me manda a la mierda\Ncuando intento hablar con Lydia?
+Dialogue: 0,0:12:56.22,0:12:58.18,Gen_Main,Ève,0,0,0,,¿Terrence?
+Dialogue: 0,0:12:58.90,0:13:02.20,Gen_Main,Camelot,0,0,0,,¡Eh, la improvisación es el sábado\Npor la noche! ¡Detenedlo!
+Dialogue: 0,0:13:02.30,0:13:06.56,Gen_Main,Terrence,0,0,0,,¡A ti te la pela lo que piense la gente!\N¡La Ève que yo conozco no teme a nadie!
+Dialogue: 0,0:13:06.66,0:13:12.02,Gen_Main,Terrence,0,0,0,,¡Y nunca se deja pisotear, así que\Nenséñales a esos cabrones quién eres!
+Dialogue: 0,0:13:29.18,0:13:30.82,Gen_Main,Ève,0,0,0,,¡Eh, vosotros!
+Dialogue: 0,0:13:33.30,0:13:35.46,Gen_Main,Ève,0,0,0,,¿De qué coño vais?
+Dialogue: 0,0:13:43.34,0:13:46.78,Gen_Main,Ève,0,0,0,,¡Yo soy quien yo quiera ser!\N¡Me he dejado la piel en ello!
+Dialogue: 0,0:13:46.90,0:13:50.68,Gen_Main,Ève,0,0,0,,Y aunque antes fuera distinta,\N¿quiénes sois vosotros para juzgarme?
+Dialogue: 0,0:13:50.78,0:13:56.58,Gen_Main,Ève,0,0,0,,¡Me da igual quién haya sido yo!\N¡Y, sobre todo, lo que penséis de mí!
+Dialogue: 0,0:14:17.78,0:14:20.42,Gen_Main,Ève,0,0,0,,Pero ¿qué…?\N¿Qué hago yo aquí?
+Dialogue: 0,0:14:21.26,0:14:25.52,Gen_Main,Camelot,0,0,0,,Me habéis estropeado el espectáculo.\N¡Me las pagaréis!
+Dialogue: 0,0:14:25.68,0:14:28.38,Gen_Main,Camelot,0,0,0,,¡A mí, trabajadores del espectáculo!
+Dialogue: 0,0:14:32.10,0:14:35.76,Gen_Main,Terrence,0,0,0,,¡Ève, te lo explicaré todo,\Npero primero hay que salir de aquí!
+Dialogue: 0,0:14:35.86,0:14:38.62,Gen_Main,Ève,0,0,0,,Vale, me parece bien, pero… ¿cómo?
+Dialogue: 0,0:14:40.38,0:14:42.18,Gen_Main,Ève,0,0,0,,Pero ¿esto qué es?
+Dialogue: 0,0:15:03.78,0:15:06.14,Gen_Main,Terrence,0,0,0,,Así que os hace gracia\Nla desgracia ajena, ¿eh?
+Dialogue: 0,0:15:12.14,0:15:16.73,Gen_Main,Camelot,0,0,0,,¡Mi querido teatro!\N¡Mirad lo que habéis hecho!
+Dialogue: 0,0:15:22.78,0:15:24.74,Gen_Main,Ève,0,0,0,,¡Pues aún no has visto nada!
+Dialogue: 0,0:15:49.30,0:15:50.84,Gen_Main,Ève,0,0,0,,Increíble.
+Dialogue: 0,0:15:52.46,0:15:57.12,Gen_Main,Ève,0,0,0,,¿De dónde sale esta pulsera tan rara?\N¿Y qué hago yo con estos trapos?
+Dialogue: 0,0:15:57.22,0:15:58.90,Gen_Main,Terrence,0,0,0,,Esa es la Ève que yo conozco.
+Dialogue: 0,0:15:59.06,0:16:02.56,Gen_Main,Terrence,0,0,0,,La que ya no teme el qué dirán.\N¡Bienvenida al grupo de los viajeros!
+Dialogue: 0,0:16:02.66,0:16:07.00,Gen_Main,Savane,0,0,0,,Sí, y al parecer, tu poder de viajera\Nse manifiesta en tu ropa o tu bisutería.
+Dialogue: 0,0:16:07.10,0:16:09.12,Gen_Main,Savane,0,0,0,,De hecho,\Neres una especie de invocadora.
+Dialogue: 0,0:16:09.24,0:16:11.58,Gen_Main,Savane,0,0,0,,Mira el martillo que hay en tu pulsera.
+Dialogue: 0,0:16:14.78,0:16:17.02,Gen_Main,Terrence,0,0,0,,Tranqui,\Na mí me pasó igual la primera noche.
+Dialogue: 0,0:16:18.18,0:16:20.54,Gen_Main,Ève,0,0,0,,¡Joder! ¿Cómo lo has hecho?
+Dialogue: 0,0:16:37.62,0:16:40.36,Gen_Main,Ève,0,0,0,,Entonces, ¿esto no es un sueño normal?
+Dialogue: 0,0:16:40.46,0:16:43.60,Gen_Main,Ève,0,0,0,,Me he convertido en una viajera y…\N¿ha sido gracias a ti?
+Dialogue: 0,0:16:43.70,0:16:48.20,Gen_Main,Terrence,0,0,0,,¿Eh? Sí… bueno, no.\NQuiero decir, más o menos, pero…
+Dialogue: 0,0:16:48.30,0:16:50.44,Gen_Main,Terrence,0,0,0,,has vencido tu mayor miedo por ti misma.
+Dialogue: 0,0:16:50.54,0:16:53.60,Gen_Main,Terrence,0,0,0,,Tú has hecho lo más difícil.\NPuedes estar muy orgullosa de ti.
+Dialogue: 0,0:16:59.66,0:17:02.60,Gen_Main,Ève,0,0,0,,Eh, no te montes pelis raras, ¿vale?
+Dialogue: 0,0:17:02.70,0:17:04.82,Gen_Main,Ève,0,0,0,,Aun así, voy a hacer algo por ti.
+Dialogue: 0,0:17:09.34,0:17:10.91,Gen_Main,Ève,0,0,0,,¿Eh? ¡Terren…!
+Dialogue: 0,0:17:12.50,0:17:16.89,Gen_Main,Savane,0,0,0,,Van al insti. Se levantan temprano.\NY yo debo cuidar de mi hermana, así que…
+Dialogue: 0,0:17:18.70,0:17:20.86,Gen_Main,Sabba,0,0,0,,Ah, pues a mí me la pela.
+Dialogue: 0,0:17:22.30,0:17:25.78,Gen_Main,Sabba,0,0,0,,Estudio Bellas Artes en la uni\Ny no tengo horario.
+Dialogue: 0,0:17:38.64,0:17:40.64,Gen_Main,Michel,0,0,0,,Pues qué bien que hayas venido, pero…
+Dialogue: 0,0:17:40.74,0:17:44.04,Gen_Main,Michel,0,0,0,,Bueno, la verdad es que no me esperaba\Nque trajeras a tanta gente.
+Dialogue: 0,0:17:44.14,0:17:46.44,Gen_Main,Ève,0,0,0,,¿Y qué?\N¿Quieres que eche a mis amigos?
+Dialogue: 0,0:17:46.54,0:17:48.04,Gen_Main,Michel,0,0,0,,No, no me refería a eso…
+Dialogue: 0,0:17:48.14,0:17:51.33,Gen_Main,Ève,0,0,0,,¡Pues ya está, asunto resuelto!\NVamos, Michel, salud.
+Dialogue: 0,0:17:55.14,0:17:59.76,Gen_Main,Ève,0,0,0,,Qué gustazo. Llevo años prohibiéndome\Ncomer estas porquerías. ¡Pues se acabó!
+Dialogue: 0,0:17:59.86,0:18:01.20,Gen_Main,Michel,0,0,0,,Me alegro…
+Dialogue: 0,0:18:03.20,0:18:06.48,Gen_Main,Savane,0,0,0,,Ves, Terrence, tu compañera\Nha tenido un detallazo al invitarnos.
+Dialogue: 0,0:18:06.60,0:18:07.60,Gen_Main,Savane,0,0,0,,Vamos a tomar algo.
+Dialogue: 0,0:18:07.70,0:18:11.51,Gen_Main,Sabba,0,0,0,,¿Lo ves? Sí que te caigo bien.\NSi es que lo sabía.
+Dialogue: 0,0:18:15.10,0:18:16.42,Gen_Main,Savane,0,0,0,,No. Tú no, tío.
+Dialogue: 0,0:18:16.54,0:18:18.08,Gen_Main,Terrence,0,0,0,,Pero ¿por qué?
+Dialogue: 0,0:18:18.18,0:18:19.54,Gen_Main,Savane,0,0,0,,Primero, habla con ella.
+Dialogue: 0,0:18:20.26,0:18:21.60,Gen_Main,Terrence,0,0,0,,¿Con quién?
+Dialogue: 0,0:18:21.94,0:18:24.24,Gen_Main,Terrence; Lydia,0,0,0,,-¡Ah, perdona!\N-¿Terrence?
+Dialogue: 0,0:18:24.34,0:18:25.74,Gen_Main,Lydia,0,0,0,,¿Qué haces aquí?
+Dialogue: 0,0:18:27.06,0:18:28.86,Gen_Main,Terrence,0,0,0,,Pues la verdad es que…
+Dialogue: 0,0:18:28.96,0:18:30.64,Gen_Main,Terrence,0,0,0,,soy amigo de Patrick.
+Dialogue: 0,0:18:30.76,0:18:32.12,Gen_Main,Lydia,0,0,0,,¿Te refieres a Michel?
+Dialogue: 0,0:18:32.24,0:18:34.74,Gen_Main,Terrence,0,0,0,,Michel, Patrick, se parecen bastante…
+Dialogue: 0,0:18:40.50,0:18:42.36,Gen_Main,Ève,0,0,0,,Voy a pillar el toro por los cuernos.
+Dialogue: 0,0:18:42.50,0:18:44.20,Gen_Main,Fiestero 1; Fiestero 2,0,0,0,,-¿Qué le pasa?\N-¿Qué le ha dado?
+Dialogue: 0,0:18:46.74,0:18:48.20,Gen_Main,Ève,0,0,0,,¡Ahí!
+Dialogue: 0,0:18:48.30,0:18:51.02,Gen_Main,Ève,0,0,0,,¡Y no salgáis\Nhasta haber resuelto vuestro asunto!
+Dialogue: 0,0:18:51.86,0:18:55.20,Gen_Main,Ève,0,0,0,,El primero que los moleste\Nse las verá conmigo, ¿{\i1}capisce{\i0}?
+Dialogue: 0,0:19:11.50,0:19:13.40,Gen_Main,Terrence; Lydia,0,0,0,,¿Por qué no volviste a llamarme?
+Dialogue: 0,0:19:32.62,0:19:35.66,Gen_Main,Savane,0,0,0,,¿Por qué les has hecho de celestina\Nsi te jode verlos juntos?
+Dialogue: 0,0:19:37.10,0:19:39.69,Gen_Main,Ève,0,0,0,,El amor no es para gente como nosotros.
+Dialogue: 0,0:19:45.50,0:19:47.84,Gen_Main,Ève,0,0,0,,Pero esos dos\Nestán hechos el uno para el otro.
+Dialogue: 0,0:19:48.98,0:19:51.29,Gen_Main,Ève,0,0,0,,Basta con mirarlos. Salta a la vista.
+Dialogue: 0,0:19:51.98,0:19:53.98,Gen_Main,Ève,0,0,0,,Y, además, Lydia tenía razón.
+Dialogue: 0,0:19:56.66,0:19:59.09,Gen_Main,Ève,0,0,0,,Terrence es buen tío.
+Dialogue: 0,0:20:02.06,0:20:03.29,Gen_Main,Savane,0,0,0,,Sí…
+Dialogue: 0,0:20:08.30,0:20:11.11,Gen_Main,Ève,0,0,0,,Y yo haría cualquier cosa\Npara que Lydia fuera feliz.
+Dialogue: 0,0:20:12.50,0:20:14.47,Gen_Main,Ève; Savane,0,0,0,,-¡Por ellos!\N-Sí.
+Dialogue: 0,0:20:17.14,0:20:20.60,Gen_Main,Lydia,0,0,0,,Entonces,\N¿simplemente no recibiste mi mensaje?
+Dialogue: 0,0:20:22.86,0:20:25.69,Gen_Main,Lydia,0,0,0,,Me alegro de que ya no haya\Nmalentendidos entre nosotros.
+Dialogue: 0,0:20:27.30,0:20:30.09,Gen_Main,Terrence,0,0,0,,Sí, yo también.
+Dialogue: 0,0:20:37.70,0:20:41.31,Gen_Main,Lydia,0,0,0,,Bueno, pues… ya podemos volver dentro.
+Dialogue: 0,0:20:52.82,0:20:54.38,Gen_Main,Terrence,0,0,0,,Eh…
+Dialogue: 0,0:21:00.50,0:21:02.26,Gen_Main,Terrence,0,0,0,,Lydia…
+Dialogue: 0,0:21:02.36,0:21:04.22,Gen_Main,Terrence,0,0,0,,¿puedo darte un beso?
+Dialogue: 0,0:21:09.54,0:21:10.78,Gen_Main,Lydia,0,0,0,,Sí.
+Dialogue: 0,0:22:54.66,0:22:59.94,Cart_A_Tre,CARTEL,0,0,0,,Traducción y edición: Álvaro Jimeno\NPautado: Thomas Benaissa\NControl de calidad: Daniel Ruiz Arjona
+
