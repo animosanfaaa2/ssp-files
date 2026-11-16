@@ -1,0 +1,436 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.42,0:00:03.89,Main,goblin 62,0,0,0,,That's the one.
+Dialogue: 0,0:00:03.89,0:00:05.80,Main,Akira,0,0,0,,Right, I've got this.
+Dialogue: 0,0:00:06.09,0:00:07.56,Main,Akira,0,0,0,,Great Heal.
+Dialogue: 0,0:00:06.23,0:00:07.56,Sign_Basic,text,0,0,0,,GREAT HEAL
+Dialogue: 0,0:00:08.90,0:00:10.28,Sign_Basic,text,0,0,0,,SEARCH EYE
+Dialogue: 0,0:00:10.28,0:00:12.49,Sign_Basic,text,0,0,0,,WORLD-SHAKER
+Dialogue: 0,0:00:08.75,0:00:10.27,Main,Akira,0,0,0,,A young dragon?
+Dialogue: 0,0:00:12.48,0:00:15.20,Italics,Akira,0,0,0,,A unique skill, World-Shaker?!
+Dialogue: 0,0:00:15.20,0:00:17.59,Italics,Akira,0,0,0,,Who {\i0}is{\i1} this little one?
+Dialogue: 0,0:00:19.03,0:00:21.45,Main,goblin 63,0,0,0,,Mayor, are things okay?
+Dialogue: 0,0:00:21.45,0:00:23.80,Main,Akira,0,0,0,,It should wake up after a while.
+Dialogue: 0,0:00:23.80,0:00:25.17,Main,goblin 64,0,0,0,,Not that!
+Dialogue: 0,0:00:25.17,0:00:27.38,Main,goblin 63,0,0,0,,Are {\i1}you{\i0} okay, Mayor?!
+Dialogue: 0,0:00:28.36,0:00:29.81,Main,Akira,0,0,0,,I'm fine.
+Dialogue: 0,0:00:30.35,0:00:31.51,Main,Akira,0,0,0,,Thank you.
+Dialogue: 0,0:00:31.51,0:00:32.79,Main,goblin 64,0,0,0,,Good!
+Dialogue: 0,0:00:33.21,0:00:36.21,Main,Akira,0,0,0,,But I think I'd like some yummy food.
+Dialogue: 0,0:00:36.21,0:00:39.23,Main,goblin 63,0,0,0,,Okay! We'll go ask Masamune.
+Dialogue: 0,0:00:39.23,0:00:42.68,Main,Akira,0,0,0,,Also, take this one back to the village.
+Dialogue: 0,0:00:42.93,0:00:43.52,Sign_Basic,text,0,0,0,,BRUTE FORCE
+Dialogue: 0,0:00:42.68,0:00:43.52,Main,goblin 64,0,0,0,,Sure!
+Dialogue: 0,0:00:48.14,0:00:51.10,Main,Akira,0,0,0,,I know you're there. Come on out.
+Dialogue: 0,0:00:55.29,0:00:58.34,Main,Akira,0,0,0,,Who are you? What brings you here?
+Dialogue: 0,0:00:59.29,0:01:01.32,Italics,Akira,0,0,0,,After what happened with Echigoya,
+Dialogue: 0,0:01:01.32,0:01:04.00,Italics,Akira,0,0,0,,do I need to get\Na little strict with this?
+Dialogue: 0,0:01:04.00,0:01:05.99,Main,Akira,0,0,0,,I'll resort to force if you don't answer.
+Dialogue: 0,0:01:07.67,0:01:08.63,Sign_Basic,text,0,0,0,,WATER CLONE
+Dialogue: 0,0:01:07.42,0:01:08.62,Main,Akira,0,0,0,,Water Clone!
+Dialogue: 0,0:01:11.46,0:01:13.13,Sign_Basic,text,0,0,0,,SURVIVAL OF THE FITTEST
+Dialogue: 0,0:01:11.45,0:01:13.14,Main,Akira,0,0,0,,Survival of the Fittest.
+Dialogue: 0,0:01:16.14,0:01:19.27,Main,Akira,0,0,0,,Who are you, and why are you here?
+Dialogue: 0,0:01:19.27,0:01:24.03,Main,soldier,0,0,0,,I was searching for the Dark-Sky \NDragon, on Prince Albert's orders.
+Dialogue: 0,0:01:24.03,0:01:26.39,Italics,Akira,0,0,0,,That prince? But why?
+Dialogue: 0,0:01:26.39,0:01:28.40,Main,Akira,0,0,0,,What is the Dark-Sky Dragon?
+Dialogue: 0,0:01:28.40,0:01:29.78,Main,soldier,0,0,0,,I don't know.
+Dialogue: 0,0:01:29.78,0:01:32.31,Main,Akira,0,0,0,,Why is the prince pursuing a dragon?
+Dialogue: 0,0:01:32.31,0:01:33.71,Main,soldier,0,0,0,,I don't know.
+Dialogue: 0,0:01:33.71,0:01:37.52,Italics,Akira,0,0,0,,Knowing Albert, he's probably \Nkeeping it a secret.
+Dialogue: 0,0:01:37.52,0:01:39.35,Main,Akira,0,0,0,,Leave this place.
+Dialogue: 0,0:01:39.35,0:01:41.74,Main,Akira,0,0,0,,And forget that you saw me here.
+Dialogue: 0,0:01:45.41,0:01:47.55,Italics,Akira,0,0,0,,A dragon the prince is pursuing, huh?
+Dialogue: 0,0:01:48.95,0:01:50.54,Main,goblins,0,0,0,,Where'd this dragon come from?
+Dialogue: 0,0:01:49.81,0:01:50.87,Main - Top,goblins,0,0,0,,It's still a child.
+Dialogue: 0,0:01:50.87,0:01:52.92,Main,goblins,0,0,0,,Who brought it here?
+Dialogue: 0,0:01:52.92,0:01:54.55,Main,goblin 63,0,0,0,,Oh, Mayor.
+Dialogue: 0,0:01:54.55,0:01:56.34,Main,Akira,0,0,0,,Thanks for helping, guys.
+Dialogue: 0,0:01:56.34,0:02:01.02,Italics,Akira,0,0,0,,If Albert is involved, this must \Nbe more than a mere dragon.
+Dialogue: 0,0:02:01.02,0:02:03.50,Italics,Akira,0,0,0,,Worst case, this could \Ntrigger a conflict.
+Dialogue: 0,0:02:04.73,0:02:06.06,Main,goblin 65,0,0,0,,You okay?
+Dialogue: 0,0:02:10.05,0:02:11.73,Main,goblin 66,0,0,0,,I'm pooped.
+Dialogue: 0,0:02:11.73,0:02:15.21,Main,goblin 66,0,0,0,,Mayor, I had fun.
+Dialogue: 0,0:02:15.21,0:02:17.41,Main,Akira,0,0,0,,Yes, you can rest now.
+Dialogue: 0,0:02:17.41,0:02:19.25,Main,goblin 66,0,0,0,,I think I will.
+Dialogue: 0,0:02:21.99,0:02:24.99,Sign_Basic,text,0,0,0,,HEAL
+Dialogue: 0,0:02:22.09,0:02:23.45,Italics,Akira,0,0,0,,Heal.
+Dialogue: 0,0:02:23.45,0:02:25.01,Italics,Akira,0,0,0,,How many of {\i0}those{\i1} have I rece—
+Dialogue: 0,0:02:26.50,0:02:29.76,Main,Akira,0,0,0,,What?! You ate the skill?!
+Dialogue: 0,0:02:29.76,0:02:31.26,Main,Izyz,0,0,0,,Yummy!
+Dialogue: 0,0:02:34.00,0:02:44.10,Sign_Basic,title,0,0,0,,SO WHAT'S WRONG WITH\NGETTING REBORN AS A GOBLIN?
+Dialogue: 0,0:04:04.51,0:04:10.31,Sign_Basic,text,0,0,0,,EPISODE 7: SO WHAT'S WRONG WITH MAKING FRIENDS WITH A DRAGON?
+Dialogue: 0,0:04:07.38,0:04:09.48,Main,Izyz,0,0,0,,{\pos(320,305)}That tasted great.
+Dialogue: 0,0:04:10.60,0:04:12.23,Main,goblins,0,0,0,,He ate something.
+Dialogue: 0,0:04:11.05,0:04:12.22,Main - Top,goblins,0,0,0,,Is that okay?
+Dialogue: 0,0:04:12.22,0:04:13.51,Main,goblins,0,0,0,,Will he be okay?
+Dialogue: 0,0:04:13.51,0:04:16.33,Main,Izyz,0,0,0,,Didja feed me that jus' now?
+Dialogue: 0,0:04:16.33,0:04:18.68,Main,Akira,0,0,0,,I didn't exactly feed it to you.
+Dialogue: 0,0:04:18.97,0:04:21.86,Main,Izyz,0,0,0,,Thanks, it was real yummy.
+Dialogue: 0,0:04:21.86,0:04:24.05,Italics,Akira,0,0,0,,He speaks normally enough.
+Dialogue: 0,0:04:24.05,0:04:26.28,Main,Akira,0,0,0,,Why do you eat skills?
+Dialogue: 0,0:04:26.28,0:04:28.61,Main,Izyz,0,0,0,,'Cuz it makes my tummy stop rumblin'.
+Dialogue: 0,0:04:28.61,0:04:30.45,Main,Akira,0,0,0,,That's not what I mean.
+Dialogue: 0,0:04:30.45,0:04:35.43,Italics,Izyz,0,0,0,,For this dragon, \Nare skills just a food source?
+Dialogue: 0,0:04:36.58,0:04:39.71,Sign_Basic,text,0,0,0,,PAT PAT
+Dialogue: 0,0:04:36.93,0:04:38.59,Main,goblin 67,0,0,0,,His skin's all smooth!
+Dialogue: 0,0:04:38.59,0:04:39.70,Main,goblin 68,0,0,0,,And chilly!
+Dialogue: 0,0:04:41.59,0:04:44.34,Italics,Akira,0,0,0,,Maybe he's not a bad guy?
+Dialogue: 0,0:04:45.64,0:04:47.39,Main,Chloe,0,0,0,,Akira!
+Dialogue: 0,0:04:48.43,0:04:49.80,Main,Chloe,0,0,0,,Just so happens, I'm back!
+Dialogue: 0,0:04:49.80,0:04:51.90,Main,Akira,0,0,0,,Chloe, what's going on?
+Dialogue: 0,0:04:51.90,0:04:53.35,Main,Chloe,0,0,0,,I've got a big haul.
+Dialogue: 0,0:04:53.74,0:04:57.27,Main,Chloe,0,0,0,,Went and got some chicken eggs \Nto use for Masamune yaki.
+Dialogue: 0,0:04:57.27,0:04:59.70,Main,Akira,0,0,0,,Hey, impressive.
+Dialogue: 0,0:04:59.70,0:05:04.44,Italics,Akira,0,0,0,,Masamune yaki is a dish a \Nprevious Masamune developed.
+Dialogue: 0,0:05:04.70,0:05:08.54,Italics,Akira,0,0,0,,It's essentially sukiyaki, \Nbut that doesn't exist in this world,
+Dialogue: 0,0:05:08.54,0:05:10.94,Italics,Akira,0,0,0,,so Masamune invented it from scratch.
+Dialogue: 0,0:05:11.46,0:05:16.12,Italics,Akira,0,0,0,,Then I advised that dipping it in \Nbeaten eggs would improve the taste.
+Dialogue: 0,0:05:16.75,0:05:20.27,Main,Chloe,0,0,0,,I'll have her make \NMasamune yaki right away!
+Dialogue: 0,0:05:20.27,0:05:22.32,Main,Chloe,0,0,0,,Um, where's Masamune?
+Dialogue: 0,0:05:25.25,0:05:28.37,Main,Chloe,0,0,0,,What's the Dark-Sky Lord doing here?
+Dialogue: 0,0:05:29.17,0:05:32.05,Main,Izyz,0,0,0,,That horn. Are ya related to Fiendy?
+Dialogue: 0,0:05:32.05,0:05:34.71,Main,Akira,0,0,0,,Fiendy? You mean the Archfiend?
+Dialogue: 0,0:05:34.71,0:05:37.39,Main,Izyz,0,0,0,,Nah, the Duke of Fiends.
+Dialogue: 0,0:05:37.39,0:05:40.85,Italics,Akira,0,0,0,,Now that is one tough-sounding \Nfiendish kind of name.
+Dialogue: 0,0:05:40.85,0:05:42.48,Main,Akira,0,0,0,,Chloe, do you know him?
+Dialogue: 0,0:05:42.48,0:05:45.77,Main,Chloe,0,0,0,,He's the Dark-Sky Lord, \Nthe Dark-Sky Dragon Izyz.
+Dialogue: 0,0:05:46.06,0:05:50.03,Italics,Akira,0,0,0,,The Dark-Sky Dragon Prince \NAlbert's searching for,
+Dialogue: 0,0:05:50.03,0:05:52.73,Italics,Akira,0,0,0,,with the unique skill World-Shaker.
+Dialogue: 0,0:05:52.73,0:05:55.19,Italics,Akira,0,0,0,,Definitely not some ordinary dragon.
+Dialogue: 0,0:05:56.87,0:05:59.06,Italics,Akira,0,0,0,,At least, I don't think so.
+Dialogue: 0,0:05:59.06,0:06:00.62,Main,Chloe,0,0,0,,What are you here for?
+Dialogue: 0,0:06:00.62,0:06:02.51,Main,Izyz,0,0,0,,I got hungry.
+Dialogue: 0,0:06:03.17,0:06:05.08,Main,Chloe,0,0,0,,Don't toy with me!
+Dialogue: 0,0:06:12.39,0:06:13.83,Main,Izyz,0,0,0,,I'm not toyin' with you.
+Dialogue: 0,0:06:17.10,0:06:18.27,Sign_Basic,text,0,0,0,,SHADOW CLONE
+Dialogue: 0,0:06:17.26,0:06:18.62,Main,Akira,0,0,0,,Shadow Clone.
+Dialogue: 0,0:06:18.52,0:06:19.27,Sign_Basic,text,0,0,0,,FLOAT
+Dialogue: 0,0:06:18.62,0:06:19.27,Main,Akira,0,0,0,,Float!
+Dialogue: 0,0:06:19.48,0:06:20.65,Sign_Basic,text,0,0,0,,DARKBLAZE
+Dialogue: 0,0:06:19.58,0:06:20.56,Main,Akira,0,0,0,,Darkblaze.
+Dialogue: 0,0:06:20.81,0:06:24.03,Main,Akira,0,0,0,,Stop doing that. Everyone is afraid.
+Dialogue: 0,0:06:25.07,0:06:27.11,Sign_Basic,text,0,0,0,,TREMBLE
+Dialogue: 0,0:06:24.35,0:06:25.07,Main,Izyz,0,0,0,,Huh?
+Dialogue: 0,0:06:27.10,0:06:29.28,Main,Izyz,0,0,0,,Oh, sowwy!
+Dialogue: 0,0:06:29.28,0:06:31.43,Main,Izyz,0,0,0,,S'okay now.
+Dialogue: 0,0:06:32.13,0:06:34.17,Main,goblin 69,0,0,0,,It's not good to argue.
+Dialogue: 0,0:06:34.17,0:06:36.15,Main,goblin 70,0,0,0,,I was so surprised.
+Dialogue: 0,0:06:36.15,0:06:38.33,Main,goblin 71,0,0,0,,You can grow {\i1}really{\i0} big.
+Dialogue: 0,0:06:38.33,0:06:40.41,Main,goblins,0,0,0,,I was surprised too.
+Dialogue: 0,0:06:40.97,0:06:43.33,Italics,Akira,0,0,0,,If they had started fighting...
+Dialogue: 0,0:06:45.06,0:06:47.12,Main,Izyz,0,0,0,,You're a big shot.
+Dialogue: 0,0:06:47.78,0:06:50.90,Main,Izyz,0,0,0,,Ya might be the strongest \Ngoblin I've ever seen.
+Dialogue: 0,0:06:50.90,0:06:52.41,Main,Akira,0,0,0,,Oh, really?
+Dialogue: 0,0:06:52.41,0:06:54.67,Main,Izyz,0,0,0,,Maybe even stronger than that other one.
+Dialogue: 0,0:06:56.56,0:06:57.93,Main,Akira,0,0,0,,What's wrong?
+Dialogue: 0,0:06:57.93,0:07:01.50,Main,Izyz,0,0,0,,I ate somethin', so now I'm hungry.
+Dialogue: 0,0:07:01.86,0:07:05.41,Main,Izyz,0,0,0,,I can go a whole year without \Neatin' and be fine,
+Dialogue: 0,0:07:05.41,0:07:09.04,Main,Izyz,0,0,0,,but once I do eat, I can't \Nignore how hungry I feel.
+Dialogue: 0,0:07:09.04,0:07:11.90,Main,Akira,0,0,0,,Sometimes that can be a catalyst, yeah.
+Dialogue: 0,0:07:11.90,0:07:13.67,Main,Akira,0,0,0,,Here, you can have—
+Dialogue: 0,0:07:16.16,0:07:19.24,Main,Izyz,0,0,0,,Yummy! Yer suh nice.
+Dialogue: 0,0:07:19.24,0:07:20.33,Main,Akira,0,0,0,,Th-Thanks...
+Dialogue: 0,0:07:20.84,0:07:23.79,Main,Izyz,0,0,0,,Say, wouldja like to be the Archfiend?
+Dialogue: 0,0:07:23.79,0:07:26.28,Main,Akira,0,0,0,,No, I'll pass.
+Dialogue: 0,0:07:27.29,0:07:30.17,Main,Akira,0,0,0,,Wait, why did you ask that?
+Dialogue: 0,0:07:30.17,0:07:34.71,Main,Izyz,0,0,0,,As it turns out, I'm a really \Nimportant member of the Dragonfolk.
+Dialogue: 0,0:07:35.18,0:07:37.21,Main,Akira,0,0,0,,Just how important?
+Dialogue: 0,0:07:37.21,0:07:40.85,Main,Izyz,0,0,0,,I'm one 'a three people who get \Ntuh decide who's the Archfiend.
+Dialogue: 0,0:07:40.85,0:07:42.95,Main,Akira,0,0,0,,Way more important than I expected!
+Dialogue: 0,0:07:42.95,0:07:45.49,Main,Chloe,0,0,0,,He happens to be telling the truth.
+Dialogue: 0,0:07:45.49,0:07:48.69,Main,Izyz,0,0,0,,Except, it tends tuh be that \Nonce one 'a us suggests someone,
+Dialogue: 0,0:07:48.69,0:07:51.47,Main,Izyz,0,0,0,,the others're like "Sure, whatevs."
+Dialogue: 0,0:07:51.47,0:07:55.24,Main,Izyz,0,0,0,,Outside 'a our own favorites, \Nnone 'a us really care.
+Dialogue: 0,0:07:55.24,0:07:57.61,Main,Akira,0,0,0,,So, why offer it to me?
+Dialogue: 0,0:08:00.04,0:08:01.95,Main,Akira,0,0,0,,What'd you just say?
+Dialogue: 0,0:08:02.24,0:08:04.33,Main,Izyz,0,0,0,,Because you gots lots 'a skills!
+Dialogue: 0,0:08:04.33,0:08:04.87,Main,Akira,0,0,0,,Huh?
+Dialogue: 0,0:08:05.13,0:08:07.66,Main,Izyz,0,0,0,,I heard there's a goblin \Nwho lives a long time,
+Dialogue: 0,0:08:07.66,0:08:10.05,Main,Izyz,0,0,0,,and that sounded like a great \Nway tuh get fed a lot,
+Dialogue: 0,0:08:10.05,0:08:11.99,Main,Izyz,0,0,0,,so I figured I'd make it so ya owe me.
+Dialogue: 0,0:08:11.99,0:08:14.19,Italics,Akira,0,0,0,,That's what he's after?
+Dialogue: 0,0:08:14.19,0:08:16.72,Main,Akira,0,0,0,,Sorry, I'm not going to be the Archfiend.
+Dialogue: 0,0:08:17.42,0:08:19.80,Main,Izyz,0,0,0,,Okay, that's too bad.
+Dialogue: 0,0:08:19.80,0:08:22.60,Main,goblin 72,0,0,0,,Izyz's so smooth!
+Dialogue: 0,0:08:22.99,0:08:25.05,Main,Akira,0,0,0,,He gave up easily enough.
+Dialogue: 0,0:08:25.41,0:08:27.24,Italics,Akira,0,0,0,,I won't become the Archfiend.
+Dialogue: 0,0:08:27.24,0:08:28.92,Italics,Akira,0,0,0,,At least, not now.
+Dialogue: 0,0:08:29.33,0:08:33.60,Italics,Akira,0,0,0,,If I did, it might very well \Nmake me the enemy of all humanity.
+Dialogue: 0,0:08:35.75,0:08:38.78,Main,Izyz,0,0,0,,Hey, hey. Can I stay here a while?
+Dialogue: 0,0:08:38.78,0:08:40.58,Main,Akira,0,0,0,,Sure, that's fine.
+Dialogue: 0,0:08:40.58,0:08:41.84,Main,Izyz,0,0,0,,Really?!
+Dialogue: 0,0:08:42.37,0:08:45.70,Italics,Akira,0,0,0,,Izyz... He doesn't seem to be lying,
+Dialogue: 0,0:08:45.70,0:08:48.17,Italics,Akira,0,0,0,,but I get the feeling he's leaving \Nout something important.
+Dialogue: 0,0:08:48.77,0:08:52.45,Italics,Akira,0,0,0,,That means it's safer to keep \Nhim close, and under watch.
+Dialogue: 0,0:08:52.45,0:08:54.86,Main,goblin 73,0,0,0,,It's a welcome party for Izyz!
+Dialogue: 0,0:08:54.86,0:08:56.67,Main,goblin 74,0,0,0,,You gotta come, Mayor!
+Dialogue: 0,0:08:59.35,0:09:01.01,Main,goblins,0,0,0,,Hey, nice.
+Dialogue: 0,0:09:01.68,0:09:03.36,Main,goblins,0,0,0,,Take a look at this.
+Dialogue: 0,0:09:05.24,0:09:07.13,Main,goblins,0,0,0,,Don't be that way.
+Dialogue: 0,0:09:13.86,0:09:14.93,Main,Akira,0,0,0,,Masamune.
+Dialogue: 0,0:09:16.58,0:09:17.83,Main,Akira,0,0,0,,You okay?
+Dialogue: 0,0:09:19.07,0:09:20.65,Main,Masamune VI,0,0,0,,I'm fine.
+Dialogue: 0,0:09:21.81,0:09:24.82,Italics,Akira,0,0,0,,I've seen this so many \Nthousands of times.
+Dialogue: 0,0:09:24.82,0:09:26.74,Italics,Akira,0,0,0,,The look of death on a goblin face.
+Dialogue: 0,0:09:27.49,0:09:30.61,Italics,Akira,0,0,0,,It hasn't even been three days \Nsince she was born.
+Dialogue: 0,0:09:31.55,0:09:32.99,Main,Akira,0,0,0,,Are you sick?
+Dialogue: 0,0:09:32.99,0:09:35.46,Main,Masamune VI,0,0,0,,No, not at all.
+Dialogue: 0,0:09:35.89,0:09:37.39,Main,Akira,0,0,0,,Then why?
+Dialogue: 0,0:09:37.39,0:09:39.39,Main,Izyz,0,0,0,,Because she's a genius, right?
+Dialogue: 0,0:09:39.77,0:09:45.31,Main,Izyz,0,0,0,,Every now 'n then, a goblin's born with \Nbig talent, but a small lifespan.
+Dialogue: 0,0:09:45.31,0:09:46.90,Main,Akira,0,0,0,,Is that the case?
+Dialogue: 0,0:09:48.45,0:09:49.73,Main,Akira,0,0,0,,Masamune!
+Dialogue: 0,0:09:50.35,0:09:51.40,Sign_Basic,text,0,0,0,,GREAT HEAL
+Dialogue: 0,0:09:57.14,0:10:00.57,Italics,Akira,0,0,0,,This isn't due to injury. \NIt's natural causes.
+Dialogue: 0,0:10:00.57,0:10:03.03,Italics,Akira,0,0,0,,Great Heal has no effect.
+Dialogue: 0,0:10:03.03,0:10:08.91,Main,Masamune VI,0,0,0,,Mayor, I... thought of a new dish.
+Dialogue: 0,0:10:09.29,0:10:13.78,Main,Masamune VI,0,0,0,,One that everyone in the \Nvillage can enjoy making.
+Dialogue: 0,0:10:16.52,0:10:20.42,Italics,Akira,0,0,0,,Wow, Masamune. These are gyoza.
+Dialogue: 0,0:10:20.42,0:10:25.48,Main,Masamune VI,0,0,0,,I thought of it when I \Nsaw you and Miss Karen.
+Dialogue: 0,0:10:25.48,0:10:30.16,Main,Masamune VI,0,0,0,,Something everyone can make \Nwhile they smile, then eat...
+Dialogue: 0,0:10:30.16,0:10:33.21,Main,Masamune VI,0,0,0,,I thought, that's the kind \Nof food I want to create.
+Dialogue: 0,0:10:33.21,0:10:34.42,Main,Akira,0,0,0,,I hear you.
+Dialogue: 0,0:10:34.85,0:10:36.52,Main,Akira,0,0,0,,You're a genius.
+Dialogue: 0,0:10:36.92,0:10:40.53,Main,Akira,0,0,0,,I'm sure everybody's \Ngoing to remember you.
+Dialogue: 0,0:10:40.99,0:10:42.63,Main,Masamune VI,0,0,0,,Will you, too?
+Dialogue: 0,0:10:43.26,0:10:44.28,Main,Akira,0,0,0,,Of course.
+Dialogue: 0,0:10:46.49,0:10:48.79,Main,Masamune VI,0,0,0,,Thank... you.
+Dialogue: 0,0:10:52.18,0:10:55.36,Main,goblin 75,0,0,0,,Okay! Time for Masamune's funeral party!
+Dialogue: 0,0:10:55.36,0:10:56.37,Main,all,0,0,0,,Yeah!
+Dialogue: 0,0:10:57.98,0:10:59.10,Main,Izyz,0,0,0,,Hold on.
+Dialogue: 0,0:10:59.44,0:11:01.67,Main,Akira,0,0,0,,Did you want to eat this?
+Dialogue: 0,0:11:01.67,0:11:05.82,Main,Izyz,0,0,0,,Nope. Just watch that \Nskill a little longer.
+Dialogue: 0,0:11:05.82,0:11:07.85,Main,Akira,0,0,0,,Huh? What do you mean?
+Dialogue: 0,0:11:08.98,0:11:10.53,Main,Izyz,0,0,0,,See?
+Dialogue: 0,0:11:10.53,0:11:11.90,Main,Akira,0,0,0,,What's this?
+Dialogue: 0,0:11:14.33,0:11:16.43,Main,Akira,0,0,0,,M-Masamune?!
+Dialogue: 0,0:11:20.65,0:11:23.60,Main,Akira,0,0,0,,What in... the world?
+Dialogue: 0,0:11:28.74,0:11:30.91,Main,Masamune,0,0,0,,Is this me?
+Dialogue: 0,0:11:30.91,0:11:33.89,Main,Akira,0,0,0,,Are you Masamune?
+Dialogue: 0,0:11:33.89,0:11:36.83,Main,Masamune,0,0,0,,That's right, I am Masamune.
+Dialogue: 0,0:11:36.83,0:11:38.69,Main,Akira,0,0,0,,How did this happen to you?
+Dialogue: 0,0:11:38.69,0:11:40.30,Main,Masamune,0,0,0,,I'm not sure.
+Dialogue: 0,0:11:40.30,0:11:42.06,Main,Akira,0,0,0,,Does anything seem different?
+Dialogue: 0,0:11:42.06,0:11:43.85,Main,Masamune,0,0,0,,Probably my skill.
+Dialogue: 0,0:11:44.68,0:11:45.68,Sign_Basic,text,0,0,0,,SEARCH EYE
+Dialogue: 0,0:11:44.43,0:11:45.68,Main,Akira,0,0,0,,Search Eye.
+Dialogue: 0,0:11:46.85,0:11:51.52,Sign_Basic,text,0,0,0,,MASAMUNE
+Dialogue: 0,0:11:47.28,0:11:49.88,Main,Akira,0,0,0,,The skill "Masamune"?
+Dialogue: 0,0:11:49.88,0:11:51.52,Main,Akira,0,0,0,,What effect does it have?
+Dialogue: 0,0:11:51.52,0:11:53.20,Main,Masamune,0,0,0,,I'm not sure.
+Dialogue: 0,0:11:53.20,0:11:55.82,Main,Masamune,0,0,0,,It doesn't feel like much has changed.
+Dialogue: 0,0:11:55.82,0:12:00.28,Main,Masamune,0,0,0,,But I can still do the \Nthings I could do before.
+Dialogue: 0,0:12:07.17,0:12:08.74,Main,goblin 76,0,0,0,,That's some speed!
+Dialogue: 0,0:12:08.74,0:12:10.23,Main,goblin 77,0,0,0,,And they all look nice!
+Dialogue: 0,0:12:10.55,0:12:13.22,Main,Masamune,0,0,0,,As you can see, nothing's changed.
+Dialogue: 0,0:12:13.22,0:12:14.17,Main,Akira,0,0,0,,Right...
+Dialogue: 0,0:12:14.17,0:12:16.74,Main,goblin 77,0,0,0,,Say, are you really Masamune?
+Dialogue: 0,0:12:16.74,0:12:19.06,Main,Masamune,0,0,0,,Yes, I am.
+Dialogue: 0,0:12:19.06,0:12:21.87,Main,Masamune,0,0,0,,I guess... I came back to life.
+Dialogue: 0,0:12:21.87,0:12:23.35,Main,goblins,0,0,0,,What?!
+Dialogue: 0,0:12:23.35,0:12:25.63,Main,goblin 76,0,0,0,,Resurrection party!
+Dialogue: 0,0:12:28.95,0:12:32.13,Main,Akira,0,0,0,,Back to life? What's going on?
+Dialogue: 0,0:12:32.13,0:12:34.18,Main,Izyz,0,0,0,,S'because she's a goblin.
+Dialogue: 0,0:12:34.44,0:12:37.87,Main,Izyz,0,0,0,,See, I've got a sorta special skill.
+Dialogue: 0,0:12:37.87,0:12:40.61,Main,Akira,0,0,0,,This is abrupt. What special skill?
+Dialogue: 0,0:12:40.90,0:12:46.86,Main,Izyz,0,0,0,,I just sorta know how long it'll be \Nuntil a creature with a skill dies.
+Dialogue: 0,0:12:46.86,0:12:48.45,Italics,Akira,0,0,0,,So that he can feed.
+Dialogue: 0,0:12:48.73,0:12:51.50,Main,Izyz,0,0,0,,That goblin won't die anytime soon.
+Dialogue: 0,0:12:52.92,0:12:57.21,Main,Izyz,0,0,0,,I think she'll live dozens 'a times \Nlonger 'n these other goblins.
+Dialogue: 0,0:12:58.03,0:12:59.16,Main,Akira,0,0,0,,No way!
+Dialogue: 0,0:12:59.53,0:13:03.21,Main,Izyz,0,0,0,,We'll know in a week if it's true or not.
+Dialogue: 0,0:13:03.95,0:13:08.38,Italics,Akira,0,0,0,,His tone suggests he's known \Nthe reason why all along.
+Dialogue: 0,0:13:08.73,0:13:13.87,Main,Izyz,0,0,0,,Goblins're better 'n any other creature \Nat adaptin' tuh their environment.
+Dialogue: 0,0:13:14.18,0:13:16.41,Main,Izyz,0,0,0,,The possibilities are endless.
+Dialogue: 0,0:13:17.08,0:13:19.39,Italics,Akira,0,0,0,,Simon said the same thing once.
+Dialogue: 0,0:13:19.39,0:13:22.50,Main,Izyz,0,0,0,,Hey, whatta ya think "environment" means?
+Dialogue: 0,0:13:22.50,0:13:25.94,Main,Akira,0,0,0,,Isn't it where you live, and the climate?
+Dialogue: 0,0:13:26.69,0:13:32.21,Main,Izyz,0,0,0,,For a creature, "environment" \Nmeans the things that're constant.
+Dialogue: 0,0:13:32.80,0:13:34.55,Main,Akira,0,0,0,,The things that are constant?
+Dialogue: 0,0:13:34.55,0:13:36.25,Main,Izyz,0,0,0,,For goblins...
+Dialogue: 0,0:13:36.80,0:13:39.21,Main,Izyz,0,0,0,,you're something that's constant.
+Dialogue: 0,0:13:40.38,0:13:41.41,Main,Akira,0,0,0,,Me?
+Dialogue: 0,0:13:41.70,0:13:46.58,Main,Izyz,0,0,0,,You keep on livin', and the \Ngoblins've started tuh adapt.
+Dialogue: 0,0:13:46.58,0:13:48.98,Main,Izyz,0,0,0,,Like, by havin' longer lives.
+Dialogue: 0,0:13:49.38,0:13:53.22,Italics,Akira,0,0,0,,Ah. I guess that's not a strange thing.
+Dialogue: 0,0:13:54.03,0:13:58.14,Main,Izyz,0,0,0,,Makin' goblins live longer? \NThat's unheard of.
+Dialogue: 0,0:13:58.39,0:14:01.09,Main,goblin 77,0,0,0,,Mayor, come on over!
+Dialogue: 0,0:14:01.09,0:14:01.76,Main,Akira,0,0,0,,Sure.
+Dialogue: 0,0:14:01.76,0:14:03.50,Main,goblins,0,0,0,,Hurry, Mayor. Hurry!
+Dialogue: 0,0:14:03.50,0:14:05.55,Main - Top,goblins,0,0,0,,Try some of this food.
+Dialogue: 0,0:14:03.50,0:14:08.16,Italics,Izyz,0,0,0,,Yes, possibilities are endless \Neven for regular goblins.
+Dialogue: 0,0:14:08.79,0:14:14.87,Italics,Izyz,0,0,0,,Tuh say nothin' of a unique goblin \Nwith unpredictable possibilities.
+Dialogue: 0,0:14:20.17,0:14:21.04,Main,goblins,0,0,0,,Cheers!
+Dialogue: 0,0:14:21.04,0:14:23.08,Main,goblins,0,0,0,,This is so much fun!
+Dialogue: 0,0:14:28.95,0:14:31.46,Main,Eirene,0,0,0,,You called, Mr. Mayor?
+Dialogue: 0,0:14:31.46,0:14:34.54,Main,Akira,0,0,0,,Yes, I have something to ask you.
+Dialogue: 0,0:14:35.27,0:14:35.81,Main,Akira,0,0,0,,Wha?
+Dialogue: 0,0:14:38.62,0:14:40.93,Main,Akira,0,0,0,,Hey! What're you doing?!
+Dialogue: 0,0:14:40.93,0:14:44.16,Main,Eirene,0,0,0,,Oh? You prefer being on the bottom?
+Dialogue: 0,0:14:44.16,0:14:46.87,Main,Akira,0,0,0,,I don't need to be on \Nthe top or the bottom!
+Dialogue: 0,0:14:47.12,0:14:50.01,Main,Eirene,0,0,0,,Then shall we go right to bed?
+Dialogue: 0,0:14:52.46,0:14:56.09,Main,Masamune,0,0,0,,Mr. Mayor, is now a good... time?
+Dialogue: 0,0:14:58.40,0:15:00.61,Main,Masamune,0,0,0,,You're busy making a baby.
+Dialogue: 0,0:15:00.61,0:15:01.72,Main,Masamune,0,0,0,,I'll come back.
+Dialogue: 0,0:15:01.12,0:15:02.70,Main - Top,Akira,0,0,0,,That's not it!
+Dialogue: 0,0:15:02.70,0:15:06.43,Main,Eirene,0,0,0,,Goblins sure are understanding \Nabout baby-making.
+Dialogue: 0,0:15:06.43,0:15:09.38,Main,Akira,0,0,0,,Don't tease me so much, I'm begging you.
+Dialogue: 0,0:15:09.38,0:15:12.77,Main,Akira,0,0,0,,More to the point, \NI have something to ask you.
+Dialogue: 0,0:15:12.77,0:15:17.54,Main,Eirene,0,0,0,,I'll answer any question you have.
+Dialogue: 0,0:15:18.21,0:15:21.78,Main,Akira,0,0,0,,Do you know anything about Izyz?
+Dialogue: 0,0:15:21.78,0:15:23.56,Main,Eirene,0,0,0,,Why ask me?
+Dialogue: 0,0:15:23.56,0:15:24.90,Main,Akira,0,0,0,,Two reasons.
+Dialogue: 0,0:15:25.30,0:15:29.37,Main,Akira,0,0,0,,First, Chloe would be far from impartial.
+Dialogue: 0,0:15:30.37,0:15:33.11,Main,Eirene,0,0,0,,It didn't take long for \Nher gloves to come off.
+Dialogue: 0,0:15:33.69,0:15:39.10,Main,Akira,0,0,0,,The other is that you referred \Nto the Archfiend as "that man."
+Dialogue: 0,0:15:39.10,0:15:40.17,Main,Eirene,0,0,0,,I did?
+Dialogue: 0,0:15:40.41,0:15:43.88,Main,Akira,0,0,0,,You seem more well-informed \Nthan your sisters.
+Dialogue: 0,0:15:43.88,0:15:46.74,Main,Eirene,0,0,0,,I don't know all that much, though.
+Dialogue: 0,0:15:46.74,0:15:48.31,Main,Akira,0,0,0,,Just tell me what you do know.
+Dialogue: 0,0:15:48.81,0:15:52.64,Main,Eirene,0,0,0,,That dragon is a member \Nof the Noble Triad.
+Dialogue: 0,0:15:53.01,0:15:58.49,Main,Eirene,0,0,0,,The Dark-Sky Lord. The Paradise Demon. \NThe Spirit Marvel.
+Dialogue: 0,0:15:58.49,0:16:01.01,Main,Eirene,0,0,0,,That's what the three of them are called.
+Dialogue: 0,0:16:02.04,0:16:05.23,Main,Akira,0,0,0,,Why are they referred to as "noble"?
+Dialogue: 0,0:16:05.23,0:16:09.47,Main,Eirene,0,0,0,,The Paradise Demon is also \Ncalled the Duke of Fiends.
+Dialogue: 0,0:16:09.47,0:16:13.93,Main,Eirene,0,0,0,,Apparently it's because he used \Nto be a duke in a human kingdom.
+Dialogue: 0,0:16:14.22,0:16:16.20,Main,Akira,0,0,0,,Why in a human kingdom?
+Dialogue: 0,0:16:16.20,0:16:18.41,Main,Eirene,0,0,0,,That part, I don't know.
+Dialogue: 0,0:16:18.41,0:16:22.80,Main,Akira,0,0,0,,It's that Noble Triad that gets \Nto decide who's the Archfiend?
+Dialogue: 0,0:16:22.80,0:16:28.00,Main,Eirene,0,0,0,,Yes, he who would become the \NArchfiend needs their approval.
+Dialogue: 0,0:16:28.00,0:16:31.11,Main,Eirene,0,0,0,,I also don't know how things \Ncame to be that way.
+Dialogue: 0,0:16:31.11,0:16:32.10,Main,Akira,0,0,0,,I see.
+Dialogue: 0,0:16:32.36,0:16:36.75,Main,Akira,0,0,0,,So, why did Chloe suddenly \Ngo into combat mode?
+Dialogue: 0,0:16:38.06,0:16:40.40,Main,Eirene,0,0,0,,Because rumor has it...
+Dialogue: 0,0:16:42.34,0:16:48.21,Main,Eirene,0,0,0,,that dragon gave a human advice \Non how to defeat the Archfiend.
+Dialogue: 0,0:16:55.30,0:16:56.81,Main,Hanzo VI,0,0,0,,Mayor!
+Dialogue: 0,0:16:58.09,0:17:01.51,Main,Hanzo VI,0,0,0,,There are more humans roaming \Naround outside the village again.
+Dialogue: 0,0:17:01.51,0:17:02.83,Main,Hanzo VI,0,0,0,,What should we do?
+Dialogue: 0,0:17:03.07,0:17:06.08,Main,Hanzo VI,0,0,0,,It looks like they're \Nsearching for something.
+Dialogue: 0,0:17:06.51,0:17:10.66,Italics,Akira,0,0,0,,The prince's men are \Nstill looking for Izyz.
+Dialogue: 0,0:17:11.21,0:17:14.46,Main,Akira,0,0,0,,Keep patrolling, and if it looks \Nlike they'll enter the village,
+Dialogue: 0,0:17:14.46,0:17:16.36,Main,Akira,0,0,0,,don't hold back in driving them off.
+Dialogue: 0,0:17:16.36,0:17:17.36,Main,Hanzo VI,0,0,0,,All right.
+Dialogue: 0,0:17:17.36,0:17:19.00,Main,Akira,0,0,0,,Oh, hang on a minute.
+Dialogue: 0,0:17:19.77,0:17:21.74,Main,Akira,0,0,0,,Is anything bothering you?
+Dialogue: 0,0:17:22.11,0:17:23.47,Main,Hanzo VI,0,0,0,,Like what?
+Dialogue: 0,0:17:24.11,0:17:27.03,Main,Akira,0,0,0,,Are you dissatisfied about anything?
+Dialogue: 0,0:17:28.77,0:17:30.80,Main,Hanzo VI,0,0,0,,No chance!
+Dialogue: 0,0:17:30.80,0:17:35.25,Main,Hanzo VI,0,0,0,,I get to be with my favorite mayor \Nand everyone, and every day is fun.
+Dialogue: 0,0:17:35.73,0:17:38.75,Main,Akira,0,0,0,,Okay. Sorry for the weird questions.
+Dialogue: 0,0:17:38.75,0:17:40.02,Main,Akira,0,0,0,,Take care out there.
+Dialogue: 0,0:17:40.02,0:17:40.77,Main,Hanzo VI,0,0,0,,You got it!
+Dialogue: 0,0:17:41.68,0:17:43.98,Main,Izyz,0,0,0,,That goblin's strong too.
+Dialogue: 0,0:17:44.46,0:17:49.51,Main,Izyz,0,0,0,,He might be one 'a the \Neight strongest goblins I know of.
+Dialogue: 0,0:17:49.51,0:17:52.34,Main,Akira,0,0,0,,That Hanzo might be the \Nstrongest of his line.
+Dialogue: 0,0:17:54.07,0:17:55.76,Main,Akira,0,0,0,,Wonder if it's my fault.
+Dialogue: 0,0:17:57.67,0:18:02.66,Main,Akira,0,0,0,,I wonder if it's my fault goblins \Nweren't already evolving
+Dialogue: 0,0:18:02.66,0:18:04.68,Main,Akira,0,0,0,,to have longer lifespans.
+Dialogue: 0,0:18:05.27,0:18:07.41,Main,Izyz,0,0,0,,What makes ya think that?
+Dialogue: 0,0:18:07.41,0:18:09.85,Main,Akira,0,0,0,,I had good intentions \Nin making this system
+Dialogue: 0,0:18:09.85,0:18:12.89,Main,Akira,0,0,0,,where short lives aren't \Nan inconvenience,
+Dialogue: 0,0:18:12.89,0:18:16.55,Main,Akira,0,0,0,,but maybe I've been thwarting \Ntheir potential.
+Dialogue: 0,0:18:19.18,0:18:21.02,Main,Izyz,0,0,0,,You're incredible!
+Dialogue: 0,0:18:21.02,0:18:21.49,Main,Akira,0,0,0,,Huh?
+Dialogue: 0,0:18:21.49,0:18:26.88,Main,Izyz,0,0,0,,That's because you've been makin' \Nall the goblins you've met happy.
+Dialogue: 0,0:18:27.59,0:18:31.35,Main,Izyz,0,0,0,,No need for evolutionary adaptations \Nif they're not unhappy about nothin'.
+Dialogue: 0,0:18:32.22,0:18:36.34,Main,Izyz,0,0,0,,You're the best ruler I've ever heard of.
+Dialogue: 0,0:18:36.78,0:18:39.58,Italics,Akira,0,0,0,,Lengthening lifespans as an adaptation.
+Dialogue: 0,0:18:39.97,0:18:41.84,Italics,Akira,0,0,0,,If I could intentionally trigger that,
+Dialogue: 0,0:18:41.84,0:18:44.86,Italics,Akira,0,0,0,,how would I go about \Nshaping the environment?
+Dialogue: 0,0:18:48.52,0:18:50.64,Main,goblins,0,0,0,,That smells so nice.
+Dialogue: 0,0:18:51.89,0:18:53.63,Main,Masamune,0,0,0,,Now it's complete.
+Dialogue: 0,0:18:53.63,0:18:56.11,Main,Akira,0,0,0,,You're up, Hokusai. Take it away.
+Dialogue: 0,0:18:57.39,0:18:59.07,Main,Hokusai I,0,0,0,,We shall not disappoint.
+Dialogue: 0,0:18:59.92,0:19:01.56,Italics,Akira,0,0,0,,Team Hokusai.
+Dialogue: 0,0:19:01.56,0:19:05.37,Italics,Akira,0,0,0,,A team with drawing and \Nart-specialization skills.
+Dialogue: 0,0:19:09.04,0:19:10.46,Main,Akira,0,0,0,,Impressive.
+Dialogue: 0,0:19:10.70,0:19:14.23,Main,Akira,0,0,0,,Each design is similar, but different.
+Dialogue: 0,0:19:15.17,0:19:16.12,Main,Akira,0,0,0,,Okay.
+Dialogue: 0,0:19:16.17,0:19:21.05,Sign_Basic,text,0,0,0,,BRUTE FORCE
+Dialogue: 0,0:19:16.49,0:19:20.44,Main,Akira,0,0,0,,Those who can carry heavy things, \Ntake these to the underground storeroom.
+Dialogue: 0,0:19:21.04,0:19:23.37,Main,Karen,0,0,0,,What have you embarked on now?
+Dialogue: 0,0:19:23.37,0:19:27.84,Main,Akira,0,0,0,,I'm having young goblins make a \Nstock of plum brandy by hand.
+Dialogue: 0,0:19:28.54,0:19:33.09,Main,Akira,0,0,0,,You can generally drink plum brandy \Nafter one week of aging,
+Dialogue: 0,0:19:33.59,0:19:36.92,Main,Akira,0,0,0,,but letting it age for half a \Nyear to a year makes it tastier.
+Dialogue: 0,0:19:38.14,0:19:40.20,Main,Karen,0,0,0,,But that means...
+Dialogue: 0,0:19:40.20,0:19:42.45,Main,Akira,0,0,0,,I'm engineering regrets.
+Dialogue: 0,0:19:42.77,0:19:46.00,Main,Akira,0,0,0,,Until now, I've used trial and \Nerror to produce a system
+Dialogue: 0,0:19:46.00,0:19:48.58,Main,Akira,0,0,0,,for seeing how much they \Ncan enjoy themselves,
+Dialogue: 0,0:19:49.04,0:19:50.75,Main,Akira,0,0,0,,but that was a mistake.
+Dialogue: 0,0:19:50.75,0:19:55.17,Main,Akira,0,0,0,,Although I guess that calls into \Nquestion, what constitutes a mistake?
+Dialogue: 0,0:19:55.70,0:19:57.01,Main,Akira,0,0,0,,But even so...
+Dialogue: 0,0:19:57.49,0:19:59.43,Main,Karen,0,0,0,,I get it too.
+Dialogue: 0,0:19:59.43,0:20:02.51,Main,Karen,0,0,0,,Seven days take a bit \Nof a toll on humans.
+Dialogue: 0,0:20:02.78,0:20:05.07,Main,Akira,0,0,0,,I won't repeat a mistake.
+Dialogue: 0,0:20:05.07,0:20:09.84,Main,Akira,0,0,0,,If their lifespans are still short \Nbecause they're content with their lives...
+Dialogue: 0,0:20:10.56,0:20:12.56,Main,Akira,0,0,0,,then I'll give them regrets.
+Dialogue: 0,0:20:12.56,0:20:14.76,Main,Karen,0,0,0,,That will extend their lifespans?
+Dialogue: 0,0:20:14.76,0:20:17.35,Main,Akira,0,0,0,,Well, it's just a single policy aspect.
+Dialogue: 0,0:20:17.68,0:20:20.54,Main,Akira,0,0,0,,They'll still have all the \Nfun they've been having,
+Dialogue: 0,0:20:20.54,0:20:23.14,Main,Akira,0,0,0,,but it'll be more fun \Nif they live longer.
+Dialogue: 0,0:20:23.94,0:20:25.47,Main,Karen,0,0,0,,Well done.
+Dialogue: 0,0:20:25.47,0:20:28.40,Main,Karen,0,0,0,,I guess I should add "as always" to that.
+Dialogue: 0,0:20:28.40,0:20:31.38,Main,Karen,0,0,0,,I'll help out in any way I can.
+Dialogue: 0,0:20:31.38,0:20:33.06,Main,Akira,0,0,0,,I welcome that.
+Dialogue: 0,0:20:42.31,0:20:44.59,Main,Diké,0,0,0,,Mia, where are you going?
+Dialogue: 0,0:20:44.93,0:20:46.80,Main,Diké,0,0,0,,What's gotten into her?
+Dialogue: 0,0:20:47.72,0:20:50.10,Italics,Eunomia,0,0,0,,What's with him?! What?!
+Dialogue: 0,0:20:50.10,0:20:54.78,Main,Eunomia,0,0,0,,That "Akira" or whatever goblin \Nshould've died ages ago!
+Dialogue: 0,0:22:05.55,0:22:09.10,Sign_Basic,Credit,0,0,0,,{\an9}TRANSLATION: DUANE JOHNSON
+Dialogue: 0,0:22:09.27,0:22:13.06,Sign_Basic,Credit,0,0,0,,{\an9}TIMING: EDGAR CRUZ\NEDITING: ZACHARY CARLYSLE
+Dialogue: 0,0:22:17.86,0:22:20.94,Sign_Basic,Credit,0,0,0,,{\an3}QUALITY CONTROL: WILLIAM HAGGARD\NFINAL QUALITY CONTROL: SHO STIFLER
+Dialogue: 0,0:22:05.70,0:22:10.15,Main,Eunomia,0,0,0,,They're all... gone before you know it.
+Dialogue: 0,0:22:11.53,0:22:12.64,Main,Akira,0,0,0,,Eunomia.
+Dialogue: 0,0:22:13.05,0:22:14.56,Main,Akira,0,0,0,,What's wrong?
+Dialogue: 0,0:22:14.56,0:22:16.61,Main,Eunomia,0,0,0,,Wh-What're you looking at?!
+Dialogue: 0,0:22:16.61,0:22:19.05,Main - Top,Eunomia,0,0,0,,It's none of your business!
+Dialogue: 0,0:22:19.05,0:22:21.03,Main - Top,Akira,0,0,0,,That might be true,
+Dialogue: 0,0:22:21.30,0:22:23.67,Main - Top,Akira,0,0,0,,but both Eirene and Diké are worried.
+Dialogue: 0,0:22:23.98,0:22:25.54,Main,Akira,0,0,0,,Did something happen?
+Dialogue: 0,0:22:25.54,0:22:27.08,Main,Eunomia,0,0,0,,Nothing did!
+Dialogue: 0,0:22:27.08,0:22:29.73,Main,Eunomia,0,0,0,,Are you trying to score \Npoints with Diké?!
+Dialogue: 0,0:22:29.73,0:22:30.96,Main,Akira,0,0,0,,I'm not.
+Dialogue: 0,0:22:30.96,0:22:32.62,Italics,Akira,0,0,0,,This is typical.
+Dialogue: 0,0:22:32.62,0:22:34.36,Main,Eunomia,0,0,0,,And also, you!
+Dialogue: 0,0:22:34.83,0:22:36.53,Main,Eunomia,0,0,0,,How long're you gonna live?!
+Dialogue: 0,0:22:36.53,0:22:38.03,Main,Eunomia,0,0,0,,You're just a goblin!
+Dialogue: 0,0:22:38.03,0:22:40.17,Main,Akira,0,0,0,,That's harsh.
+Dialogue: 0,0:22:40.17,0:22:41.72,Main,Akira,0,0,0,,But good question.
+Dialogue: 0,0:22:42.19,0:22:45.33,Italics,Akira,0,0,0,,Masamune evolved and \Nextended her lifespan.
+Dialogue: 0,0:22:45.33,0:22:48.71,Italics,Akira,0,0,0,,Which suggests that Octogenarian \Nwill change further.
+Dialogue: 0,0:22:49.27,0:22:53.09,Italics,Akira,0,0,0,,The measures along the way may \Nchange, but my goal won't.
+Dialogue: 0,0:22:54.39,0:22:55.75,Main,Akira,0,0,0,,At the least...
+Dialogue: 0,0:22:55.76,0:22:58.43,Sign_Basic,text,0,0,0,,I DON'T WANT ANYONE ELSE\NCRYING OVER ME AS I DIE.
+Dialogue: 0,0:22:59.86,0:23:04.58,Main,Akira,0,0,0,,I'd like to outlive everyone, \Nincluding you.
+Dialogue: 0,0:23:20.40,0:23:21.63,Main,Akira,0,0,0,,What's the matter?
+Dialogue: 0,0:23:21.63,0:23:23.38,Main,Eunomia,0,0,0,,N-Nothing!
+Dialogue: 0,0:23:25.27,0:23:27.68,Italics,Eunomia,0,0,0,,What's with him?! What?!
+
