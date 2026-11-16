@@ -1,0 +1,312 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Bold,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,0,0,20,1
+Style: Top,Arial Bold,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,8,0,0,20,1
+Style: Overlap,Arial Bold,23,&H00F3EDE3,&H000000FF,&H00362B17,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,0,0,20,0
+Style: TypePlaceholder,Arial Bold,19,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:33.85,0:01:35.20,Default,Asmodheus,0,0,0,,Was sagst du da?
+Dialogue: 0,0:01:36.13,0:01:40.70,Default,Neil,0,0,0,,I-Ich habe besagten Feuerbändiger\Nleider immer noch nicht entdeckt.
+Dialogue: 0,0:01:41.00,0:01:44.46,Default,Neil,0,0,0,,Doch ich habe jemanden im Verdacht.\NMacht Euch keine Sorgen.
+Dialogue: 0,0:01:44.46,0:01:46.60,Default,Neil,0,0,0,,Bitte gewährt mir\Nnoch einige wenige Tage.
+Dialogue: 0,0:01:47.98,0:01:49.05,Default,Asmodheus,0,0,0,,Geh.
+Dialogue: 0,0:01:51.93,0:01:54.09,Default,Asmodheus,0,0,0,,Aber wenn du mich\Nnoch einmal enttäuschst,
+Dialogue: 0,0:01:54.09,0:01:56.51,Default,Asmodheus,0,0,0,,wird dieses Feuer\Ndir nicht verzeihen.
+Dialogue: 0,0:02:01.77,0:02:05.48,Default,Eve,0,0,0,*,Hallo, liebe Follower! Schön, dass wir uns\Nauch heute zur Morgenroutine treffen!
+Dialogue: 0,0:02:05.48,0:02:08.43,Default,Eve,0,0,0,,Also dann,\Nlos geht’s, voller Energie!
+Dialogue: 0,0:02:08.43,0:02:10.63,Default,Eve,0,0,0,,Genau so, immer schön\Nangespannt bleiben!
+Dialogue: 0,0:02:10.63,0:02:14.19,Default,Eve,0,0,0,,Einatmen …\Nund wieder ausatmen!
+Dialogue: 0,0:02:14.19,0:02:17.32,Default,Eve,0,0,0,,Das Wichtigste ist: Immer schön\Ngefasst und gelassen bleiben!
+Dialogue: 0,0:02:17.32,0:02:19.25,Default,Eve,0,0,0,*,Und zum Schluss\Nder Fotocheck.
+Dialogue: 0,0:02:19.25,0:02:21.54,Default,Eve,0,0,0,,Sechs Schichten auflegen\Nist echt viel Arbeit, aber …
+Dialogue: 0,0:02:21.54,0:02:23.38,Default,Eve,0,0,0,,Na, was sagt ihr\Nzu diesem Resultat?
+Dialogue: 0,0:02:24.53,0:02:26.85,Default,Eve,0,0,0,,Aber all das muss natürlich\Nnicht für jeden gelten.
+Dialogue: 0,0:02:26.85,0:02:29.08,Default,Eve,0,0,0,,Das Wichtigste ist,\Ndass ihr ihr selbst bleibt!
+Dialogue: 0,0:02:30.42,0:02:34.78,Default,Eve,0,0,0,*,In meinen Smoothie kamen heute\NGurke, Spinat, Minze, Basilikum und Erbsen!
+Dialogue: 0,0:02:34.78,0:02:37.43,Default,Eve,0,0,0,,Sich gesund zu ernähren,\Nist das Geheimnis aller Schönheit!
+Dialogue: 0,0:02:37.43,0:02:40.00,Default,Eve,0,0,0,,Aber natürlich darf auch das\Nnicht zum Zwang werden!
+Dialogue: 0,0:02:40.00,0:02:43.38,Default,Eve,0,0,0,,Wichtig ist, dass man lernt,\Nseinen Körper zu lieben!
+Dialogue: 0,0:02:43.38,0:02:46.98,Default,Eve,0,0,0,,Und ich hab ja auch echt Glück,\Ndass ich Süßes noch nie mochte.
+Dialogue: 0,0:02:47.52,0:02:50.10,Default,Eve,0,0,0,,Tadaaah!\NDamit bin ich bereit fürs Abi!
+Dialogue: 0,0:02:50.10,0:02:51.54,Default,Eve,0,0,0,,Hey, Lydia, zeig auch mal her!
+Dialogue: 0,0:02:51.95,0:02:52.98,Default,Eve,0,0,0,,Lydia?
+Dialogue: 0,0:02:52.98,0:02:57.20,Default,Mujot,0,0,0,,Was denken Sie sich denn dabei?!\NEs sind nur noch drei Wochen bis zum Abitur!
+Dialogue: 0,0:02:57.20,0:02:59.33,Default,Mujot,0,0,0,,Hören Sie mir überhaupt zu,\NMonsieur Meyer?
+Dialogue: 0,0:02:59.90,0:03:01.08,Default,Lydia,0,0,0,,Der Ärmste …
+Dialogue: 0,0:03:00.13,0:03:03.15,Top,Mujot,0,0,0,,Ich fass es nicht!\NWas ist das für eine Antriebslosigkeit!
+Dialogue: 0,0:03:01.08,0:03:03.15,Default,Eve,0,0,0,,Lydia?\NZeigst du uns deine Arbeit?
+Dialogue: 0,0:03:03.15,0:03:06.00,Top,Mujot,0,0,0,,Reißen Sie sich zusammen!\NOder Sie drehen ’ne Ehrenrunde!
+Dialogue: 0,0:03:03.65,0:03:04.51,Default,Eve,0,0,0,,Lydia?
+Dialogue: 0,0:03:09.10,0:03:11.55,Default,Eve,0,0,0,,Hör endlich damit auf,\Ndiesem Typen nachzuhängen!
+Dialogue: 0,0:03:13.35,0:03:17.65,Default,Lydia,0,0,0,,Aber … Terrence ist so nett, er würde mich\Nsicher nicht ohne Grund ignorieren!
+Dialogue: 0,0:03:17.65,0:03:20.64,Default,Eve,0,0,0,,Er ist ein Loser und kann sich\Nauch nicht ändern, das ist alles.
+Dialogue: 0,0:03:21.13,0:03:23.95,Default,Eve,0,0,0,,Ich glaube,\Ndass er dich wirklich mag.
+Dialogue: 0,0:03:23.95,0:03:26.53,Default,Eve,0,0,0,,Doch er hat gemerkt,\Ndass ihr einfach nicht zusammenpasst.
+Dialogue: 0,0:03:26.53,0:03:27.79,Default,Eve,0,0,0,,Also vergiss ihn endlich!
+Dialogue: 0,0:03:28.88,0:03:30.03,Default,Michel,0,0,0,,Äh … Verzeihung …
+Dialogue: 0,0:03:30.03,0:03:31.53,Default,Michel,0,0,0,,Eve und Lydia …
+Dialogue: 0,0:03:31.53,0:03:36.36,Default,Michel,0,0,0,,Ich gebe nächsten Samstagabend\Nbei mir zu Hause eine kleine Party und …
+Dialogue: 0,0:03:37.70,0:03:39.25,Default,Eve,0,0,0,,Michel!
+Dialogue: 0,0:03:39.25,0:03:40.45,Default,Eve,0,0,0,,Danke für die Einladung,
+Dialogue: 0,0:03:40.45,0:03:43.33,Default,Eve,0,0,0,,aber es ist schon Donnerstag!\NBis dahin ein Outfit zu kreieren …
+Dialogue: 0,0:03:43.33,0:03:44.91,Default,Eve,0,0,0,,Und ich glaube,\Nich hab schon was vor!
+Dialogue: 0,0:03:44.91,0:03:47.83,Default,Eve,0,0,0,,Vielleicht lässt sich was einrichten.\NAber mach dir keine Hoffnungen.
+Dialogue: 0,0:03:47.83,0:03:49.46,Default,Michel,0,0,0,,Okay.
+Dialogue: 0,0:03:55.13,0:03:55.97,Default,Lydia,0,0,0,,Aber vielleicht …
+Dialogue: 0,0:03:56.59,0:03:58.10,Default,Lydia,0,0,0,,Ich hab das Gefühl, …
+Dialogue: 0,0:03:59.28,0:04:03.22,Default,Lydia,0,0,0,,dass er in Wirklichkeit ganz anders ist,\Nals der Eindruck von außen erahnen lässt.
+Dialogue: 0,0:04:03.83,0:04:06.40,Default,Eve,0,0,0,,Dann ist er aber sehr gut darin,\Ndas zu vertuschen.
+Dialogue: 0,0:04:07.55,0:04:08.75,Default,Lydia,0,0,0,,Ja …
+Dialogue: 0,0:04:09.80,0:04:12.36,Default,Lydia,0,0,0,,Und wenn ich ihn zur Party\Nam Samstag einladen würde?
+Dialogue: 0,0:04:12.36,0:04:14.30,Default,Eve,0,0,0,,Das kommt nicht infrage!
+Dialogue: 0,0:04:14.30,0:04:18.24,Default,Eve,0,0,0,,Terrence Meyer zu einer Party mitzubringen …\NDu wirst dich zum Gespött aller machen!
+Dialogue: 0,0:04:22.53,0:04:24.00,Default,Lydia,0,0,0,,Neulich …
+Dialogue: 0,0:04:24.33,0:04:25.70,Default,Lydia,0,0,0,,hab ich von ihm geträumt.
+Dialogue: 0,0:04:25.70,0:04:28.83,Default,Eve,0,0,0,,Jetzt hör mal!\NSo was nennt man einen Albtraum!
+Dialogue: 0,0:04:29.85,0:04:31.78,Default,Lydia,0,0,0,,Nein, bitte hör mir ernsthaft zu.
+Dialogue: 0,0:04:31.78,0:04:34.56,Default,Lydia,0,0,0,,Ich denke die ganze Zeit an ihn,\Nsogar wenn ich schlafe.
+Dialogue: 0,0:04:34.56,0:04:36.55,Default,Lydia,0,0,0,,Eve …\NIch halt’s nicht mehr aus.
+Dialogue: 0,0:04:37.95,0:04:40.09,Default,Eve,0,0,0,,Ich bin mir sicher,\Ndass er auch von dir träumt.
+Dialogue: 0,0:04:40.09,0:04:41.80,Default,Lydia,0,0,0,,Meinst du?
+Dialogue: 0,0:04:41.80,0:04:43.80,Default,Eve,0,0,0,,Ja. Aber ganz bestimmt\Nwas Unanständiges!
+Dialogue: 0,0:04:44.47,0:04:47.22,Default,Lydia,0,0,0,,Ach, hör doch auf, ich bitte dich!
+Dialogue: 0,0:04:48.25,0:04:49.63,Default,Eve,0,0,0,,Aber das ist so, glaub mir!
+Dialogue: 0,0:04:49.63,0:04:52.45,Default,Eve,0,0,0,,Seine Träume sind sicher\Nrichtig pervers und abgedreht.
+Dialogue: 0,0:04:55.63,0:04:57.23,Default,Savane,0,0,0,,So was gibt’s also auch hier …
+Dialogue: 0,0:05:01.30,0:05:02.85,Default,Savane,0,0,0,,Hey, schau dir das an!
+Dialogue: 0,0:05:03.95,0:05:06.23,Default,Savane,0,0,0,,Oh Mann, bläst du\Ndenn immer noch Trübsal?
+Dialogue: 0,0:05:06.23,0:05:07.75,Default,Savane,0,0,0,,Hör doch endlich auf damit.
+Dialogue: 0,0:05:07.75,0:05:10.50,Default,Terrence,0,0,0,*,Was ich auch tue,\Nsie geht mir nicht aus dem Kopf.
+Dialogue: 0,0:05:10.85,0:05:13.22,Default,Terrence,0,0,0,,Sogar wenn ich so was Krasses\Nwie diesen Dino sehe,
+Dialogue: 0,0:05:13.22,0:05:15.17,Default,Terrence,0,0,0,,denk ich dabei doch nur an sie.
+Dialogue: 0,0:05:15.95,0:05:17.58,Default,Savane,0,0,0,,Dann hör auf, rumzunörgeln.
+Dialogue: 0,0:05:17.58,0:05:20.01,Default,Savane,0,0,0,,Geh und sprich mit ihr\Nund regle das ein und für allemal.
+Dialogue: 0,0:05:20.01,0:05:22.82,Default,Terrence,0,0,0,,Aber das kann ich nicht!\NSie ist immer mit Eve zusammen!
+Dialogue: 0,0:05:22.82,0:05:25.74,Default,Terrence,0,0,0,*,Und die fletscht die Zähne,\Nals wär sie Lydias persönlicher Wachhund.
+Dialogue: 0,0:05:25.74,0:05:27.48,Default,Terrence,0,0,0,,Die lässt mich nicht an sie ran.
+Dialogue: 0,0:05:27.88,0:05:30.48,Default,Sabba,0,0,0,,Na, dann ruf sie doch einfach an.
+Dialogue: 0,0:05:30.48,0:05:34.15,Default,Terrence,0,0,0,,Sabba! Hör auf, einfach so plötzlich\Nhinter andern Leuten aufzutauchen!
+Dialogue: 0,0:05:34.15,0:05:36.43,Default,Sabba,0,0,0,,Mach dir doch\Nnicht so viele Gedanken.
+Dialogue: 0,0:05:36.43,0:05:38.23,Default,Sabba,0,0,0,,Wenn ihre Freundin\Nsie zu streng bewacht,
+Dialogue: 0,0:05:38.23,0:05:40.49,Default,Sabba,0,0,0,,erzähl ihr einfach am Telefon\Nvon deinen Gefühlen.
+Dialogue: 0,0:05:43.75,0:05:46.62,Default,Savane,0,0,0,,Aber auch dazu ist er noch nicht bereit.\NWas, Terrylein?
+Dialogue: 0,0:05:46.62,0:05:49.35,Default,Sabba,0,0,0,,Dann lasst uns heute Abend\Nmal auf andere Gedanken kommen.
+Dialogue: 0,0:05:49.35,0:05:50.98,Default,Sabba,0,0,0,,Alle zusammen, als Kumpel.
+Dialogue: 0,0:05:50.98,0:05:52.54,Default,Savane,0,0,0,,Wir sind keine Kumpel.
+Dialogue: 0,0:05:52.54,0:05:54.75,Default,Sabba,0,0,0,,Was?!
+Dialogue: 0,0:05:55.28,0:05:57.25,Default,Sabba,0,0,0,,Wie lang willst du denn\Nnoch so hochnäsig tun?!
+Dialogue: 0,0:05:57.25,0:05:59.65,Default,Sabba,0,0,0,,Seit zwei Wochen hängen wir\Njede Nacht zusammen rum!
+Dialogue: 0,0:05:59.65,0:06:01.33,Default,Sabba,0,0,0,*,Wir sind doch\Nein Herz und eine Seele!
+Dialogue: 0,0:06:01.33,0:06:03.34,Default,Sabba,0,0,0,,Und wir sind ja\Nauch Waffenbrüder! Nicht?
+Dialogue: 0,0:06:03.34,0:06:05.97,Default,Sabba,0,0,0,,Sprich: Wir sind Freunde!\NKomm schon, du weißt, was ich meine!
+Dialogue: 0,0:06:05.97,0:06:06.83,Default,Savane,0,0,0,,Nimm die Griffel weg.
+Dialogue: 0,0:06:06.83,0:06:09.55,Default,Sabba,0,0,0,,Ach, keine Angst,\Nwir mögen dich alle!
+Dialogue: 0,0:06:09.55,0:06:14.00,Default,Sabba,0,0,0,,In Wirklichkeit bist du doch supersensibel\Nund sehnst dich danach, geliebt zu werden!
+Dialogue: 0,0:06:14.00,0:06:16.75,Default,Sabba,0,0,0,,Aber sei beruhigt,\Ndeine Kumpel sind bei dir!
+Dialogue: 0,0:06:26.49,0:06:28.20,TypePlaceholder,Text,0,0,0,,{\fnTahoma\bord1\fax-0.19\c&HFFFFFF&\3c&H000000&\pos(322,297.5)}Theater
+Dialogue: 0,0:06:33.38,0:06:35.83,Default,Gaukler-Dämon,0,0,0,,Hallo, ihr jungen Reisenden!
+Dialogue: 0,0:06:35.83,0:06:38.55,Default,Gaukler-Dämon,0,0,0,,Fragt ihr euch, wo man sich\Nhier amüsieren kann?
+Dialogue: 0,0:06:39.63,0:06:42.83,Default,Gaukler-Dämon,0,0,0,,Dann kommt und erlebt\Ndas größte Spektakel des Jahrhunderts!
+Dialogue: 0,0:06:42.83,0:06:46.28,Default,Gaukler-Dämon,0,0,0,*,Nur heute Abend\Nin Dreamlands Wandertheater!
+Dialogue: 0,0:06:48.28,0:06:49.48,Default,Sabba,0,0,0,,Was führt ihr denn da auf?
+Dialogue: 0,0:06:49.48,0:06:53.15,Default,Gaukler-Dämon,0,0,0,,Eine absolut einzigartige Show,\Nwie man sie nirgendwo anders erleben kann!
+Dialogue: 0,0:06:53.15,0:06:55.64,Default,Gaukler-Dämon,0,0,0,,Und dazu ist\Nder Eintritt auch noch frei!
+Dialogue: 0,0:06:57.18,0:06:58.81,Default,Sabba,0,0,0,,Kommt, Leute, da gehen wir hin!
+Dialogue: 0,0:06:58.81,0:06:59.90,Default,Savane,0,0,0,,Lieber sterb ich.
+Dialogue: 0,0:06:59.90,0:07:02.80,Default,Sabba,0,0,0,,Lass uns mal was anderes tun,\Nals uns rumzuprügeln. Ich bin dafür.
+Dialogue: 0,0:07:02.80,0:07:03.90,Default,Gaukler-Dämon,0,0,0,,Ich auch!
+Dialogue: 0,0:07:03.90,0:07:05.70,Default,Savane,0,0,0,,Das ist kein Mehrheitsbeschluss!
+Dialogue: 0,0:07:05.70,0:07:07.48,Default,Savane,0,0,0,,Und du gehörst nicht mal zu uns!
+Dialogue: 0,0:07:09.90,0:07:13.04,Default,Sabba,0,0,0,,Aber wir tun es doch nicht für mich,\Nsondern für ihn. Na?
+Dialogue: 0,0:07:24.72,0:07:28.05,TypePlaceholder,Text,0,0,0,,{\fnTahoma\bord1\fax-0.19\c&HFFFFFF&\3c&H000000&\pos(322,297.5)}Dreamlands Wandertheater
+Dialogue: 0,0:07:38.45,0:07:40.40,Default,Sabba,0,0,0,,Das wird ganz bestimmt\Nein Riesenspaß!
+Dialogue: 0,0:07:40.40,0:07:41.27,Default,Sabba,0,0,0,,Nicht, Terrence?
+Dialogue: 0,0:07:42.13,0:07:45.48,Default,Sabba,0,0,0,,Ach, komm, schau doch!\NSogar Savane ist schon ganz aufgeregt.
+Dialogue: 0,0:07:47.50,0:07:49.38,Default,Sabba,0,0,0,,N-Na ja, auf seine eigene Art.
+Dialogue: 0,0:07:49.38,0:07:54.91,Default,Direktor,0,0,0,,Meine sehr verehrten Damen und Herren!\NWerte Kreaturen, Träumende und Reisende!
+Dialogue: 0,0:07:56.30,0:08:00.83,Default,Direktor,0,0,0,*,Herzlich willkommen im Wandertheater\N„Theater Komplex“!
+Dialogue: 0,0:08:00.83,0:08:03.88,Default,Direktor,0,0,0,,Heute Abend werden wir Ihnen\Nzu Ihrem größten Vergnügen
+Dialogue: 0,0:08:03.88,0:08:08.78,Default,Direktor,0,0,0,,ein Spektakel voller Überraschungen bieten,\Ndas jede Vorstellungskraft übersteigt!
+Dialogue: 0,0:08:09.22,0:08:13.39,Default,Direktor,0,0,0,,Also beginnen wir gleich, ohne Umschweife!\NUm uns schon einmal etwas aufzuwärmen,
+Dialogue: 0,0:08:13.39,0:08:16.18,Default,Direktor,0,0,0,,genießen Sie statt einer Vorspeise\Ndie nun folgende Show!
+Dialogue: 0,0:08:31.37,0:08:34.74,TypePlaceholder,Text,0,0,0,*,{\fnTahoma\c&HFFFFFF&\pos(463.23,9.52)}Diese Party ist wirklich sehr nett!
+Dialogue: 0,0:08:38.78,0:08:40.13,Default,Sabba,0,0,0,,Sabba, bist du das?
+Dialogue: 0,0:08:40.13,0:08:42.29,Default,Sabba,0,0,0,,Ich fass es nicht …\NDas ist furchtbar peinlich!
+Dialogue: 0,0:08:42.29,0:08:46.13,TypePlaceholder,Text,0,0,0,*,{\fnTahoma\c&HFFFFFF&\pos(317.33,7.62)}Und wenn ich auch ein wenig tanze? Dann sieht jeder, wie viel Stil ich habe!
+Dialogue: 0,0:09:01.98,0:09:05.15,Default,Direktor,0,0,0,,Einen herzlichen Applaus für den Reisenden,\Nder uns diesen großen Moment
+Dialogue: 0,0:09:05.15,0:09:06.69,Default,Direktor,0,0,0,,der Schande beschert hat!
+Dialogue: 0,0:09:06.69,0:09:08.44,Default,Direktor,0,0,0,,Das einzigartige Ausnahmetalent …
+Dialogue: 0,0:09:08.79,0:09:11.58,Default,Direktor,0,0,0,,Sabba Malouki!
+Dialogue: 0,0:09:13.63,0:09:16.05,Default,Sabba,0,0,0,,Das ist die schlimmste Blamage\Nmeines Lebens!
+Dialogue: 0,0:09:16.40,0:09:18.30,Default,Terrence,0,0,0,,Tut mir leid.\NAber lustig ist es schon.
+Dialogue: 0,0:09:18.30,0:09:21.96,Default,Savane,0,0,0,,Wenn ich dran denke, dass du drauf\Nbestanden hast, heute hierherzukommen …
+Dialogue: 0,0:09:21.96,0:09:24.13,Default,Direktor,0,0,0,,Und jetzt richten Sie\NIhre Blicke bitte hierher!
+Dialogue: 0,0:09:24.43,0:09:27.40,Default,Direktor,0,0,0,,Denn nun folgt endlich\Nder Hauptgang des heutigen Abends!
+Dialogue: 0,0:09:27.40,0:09:30.42,Default,Direktor,0,0,0,,Machen Sie sich bereit\Nund genießen Sie es in vollen Zügen!
+Dialogue: 0,0:09:30.42,0:09:33.93,Default,Direktor,0,0,0,,In wenigen Augenblicken wird vor Ihren Augen\Nein gewisser Träumender noch einmal …
+Dialogue: 0,0:09:36.03,0:09:39.06,Default,Direktor,0,0,0,,seinen schlimmsten\NAlbtraum durchleben!
+Dialogue: 0,0:09:54.62,0:09:57.35,Default,Terrence,0,0,0,*,Ich fass es nicht!\NDieses Mädchen kommt mir bekannt vor …
+Dialogue: 0,0:10:22.81,0:10:26.63,Default,Direktor,0,0,0,,Sie ahnen es gewiss schon,\Nund ja, genau so ist es!
+Dialogue: 0,0:10:26.63,0:10:29.55,Default,Direktor,0,0,0,,Diese Träumende ist heute Abend\Nhier in diesem Theater!
+Dialogue: 0,0:10:29.55,0:10:33.20,Default,Direktor,0,0,0,,Und ich zähle darauf, dass Sie alle ihr\Ndie schlimmste Nacht ihres Lebens bescheren!
+Dialogue: 0,0:10:33.20,0:10:35.61,Default,Direktor,0,0,0,,Empfangen Sie sie\Nmit einem tosenden Applaus:
+Dialogue: 0,0:10:35.61,0:10:37.82,Default,Direktor,0,0,0,,Eve!
+Dialogue: 0,0:10:39.93,0:10:41.08,Default,Direktor,0,0,0,,Eve?!
+Dialogue: 0,0:10:45.92,0:10:47.81,Default,Eve,0,0,0,,Wo bin ich denn hier?
+Dialogue: 0,0:10:47.81,0:10:49.29,Default,Terrence,0,0,0,,Das Mädchen,\Nvon dem ich erzählt habe!
+Dialogue: 0,0:10:49.29,0:10:51.51,Default,Terrence,0,0,0,,Lydias beste Freundin,\Ndie mich nicht leiden kann!
+Dialogue: 0,0:10:51.51,0:10:54.55,Default,Savane,0,0,0,,Dann kriegst du nun wohl\Ndie Gelegenheit, dich zu rächen.
+Dialogue: 0,0:10:54.55,0:10:55.93,Default,Direktor,0,0,0,,Sehen Sie sie sich doch an!
+Dialogue: 0,0:10:55.93,0:11:00.23,Default,Direktor,0,0,0,,Sie können sich sicher vorstellen, welche Mühen\Nsie auf sich nahm, um ihr Image zu verändern!
+Dialogue: 0,0:11:00.23,0:11:02.63,Default,Direktor,0,0,0,,Doch niemand entkommt\Nden Blicken der anderen!
+Dialogue: 0,0:11:02.63,0:11:04.67,Default,Direktor,0,0,0,,Wie sehr sich ihr Äußeres\Nauch verändert hat,
+Dialogue: 0,0:11:04.67,0:11:09.77,Default,Direktor,0,0,0,,tief in ihrem Herzen ist die Angst\Naus ihrer Kindheit immer noch lebendig!
+Dialogue: 0,0:11:09.77,0:11:11.15,Default,Eve,0,0,0,,Was zum Teufel fällt euch ein?!
+Dialogue: 0,0:11:16.60,0:11:17.25,Default,Eve,0,0,0,,He! Was …
+Dialogue: 0,0:11:17.25,0:11:18.32,Default,Zuschauerin 1,0,0,0,,Gut so!
+Dialogue: 0,0:11:18.68,0:11:21.33,Default,Zuschauer 1,0,0,0,,Los, steh wieder auf!\NDas war erst der Anfang!
+Dialogue: 0,0:11:24.83,0:11:25.62,Default,Eve,0,0,0,,Oh nein!
+Dialogue: 0,0:11:26.03,0:11:27.54,Default,Eve,0,0,0,,Meine Pickel …
+Dialogue: 0,0:11:27.54,0:11:29.96,Default,Zuschauer 2,0,0,0,,Schaut nur!\NDie ist ja voll hässlich!
+Dialogue: 0,0:11:31.96,0:11:34.26,Default,Zuschauer 3,0,0,0,,So ’ne hässliche Visage!
+Dialogue: 0,0:11:32.59,0:11:34.26,Overlap,Zuschauer 4,0,0,0,,Hey! Du Schreckschraube!
+Dialogue: 0,0:11:34.26,0:11:35.17,Default,Zuschauer 5,0,0,0,,Du fette Kuh!
+Dialogue: 0,0:11:35.17,0:11:35.84,Default,Zuschauer 6,0,0,0,,Schäm dich!
+Dialogue: 0,0:11:35.84,0:11:38.09,Default,Eve,0,0,0,,Hört auf damit! Bitte!
+Dialogue: 0,0:11:39.64,0:11:42.26,Default,Zuschauer 7,0,0,0,,Wie kannst du diese Visage\Nnur überall rumzeigen!
+Dialogue: 0,0:11:42.53,0:11:44.73,Default,Sabba,0,0,0,,Aber da ist ja furchtbar!
+Dialogue: 0,0:11:50.15,0:11:51.55,Default,Direktor,0,0,0,,Lassen Sie es uns enthüllen!
+Dialogue: 0,0:11:51.55,0:11:53.98,Default,Direktor,0,0,0,,Ihr wahres Gesicht,\Ndas sie vor allen versteckt!
+Dialogue: 0,0:11:53.98,0:11:55.53,Default,Zuschauer 8,0,0,0,,Du hässliche Schlampe!
+Dialogue: 0,0:11:55.53,0:11:56.09,Default,Zuschauer 9,0,0,0,,Buh!
+Dialogue: 0,0:11:56.09,0:11:57.33,Default,Zuschauerin 2,0,0,0,,Du bist potthässlich!
+Dialogue: 0,0:11:58.15,0:12:00.62,Default,Zuschauer 11,0,0,0,,Hey! Du fette Sau!
+Dialogue: 0,0:12:01.87,0:12:03.88,Default,Zuschauer 12,0,0,0,,Was für ein hässliches Weib!
+Dialogue: 0,0:12:05.29,0:12:06.66,Default,Zuschauerin 3,0,0,0,,Du bist eine Schande!
+Dialogue: 0,0:12:09.62,0:12:11.59,Default,Zuschauer 13,0,0,0,,Verschwinde von hier,\Ndu hässliche Schlampe!
+Dialogue: 0,0:12:14.17,0:12:16.72,Default,Zuschauer 14,0,0,0,,Du bist ja so fett!
+Dialogue: 0,0:12:18.18,0:12:22.10,Default,Direktor,0,0,0,,Sehen Sie sich das an!\NDas ist, wie sie in Wirklichkeit aussieht!
+Dialogue: 0,0:12:25.39,0:12:28.69,Default,Direktor,0,0,0,,So! Und nun alle zusammen!
+Dialogue: 0,0:12:28.69,0:12:31.43,Default,Direktor,0,0,0,,Buh! Buh!
+Dialogue: 0,0:12:32.05,0:12:34.25,Default,Eve,0,0,0,,Nein! Hört auf!
+Dialogue: 0,0:12:34.25,0:12:36.44,Default,Eve,0,0,0,,Schaut mich nicht an!
+Dialogue: 0,0:12:39.80,0:12:41.58,Default,Terrence,0,0,0,,Hey! Eve!
+Dialogue: 0,0:12:42.98,0:12:44.37,Default,Terrence,0,0,0,,Das bist nicht du!
+Dialogue: 0,0:12:44.74,0:12:48.21,Default,Terrence,0,0,0,,Wie du früher ausgesehen hast,\Nist doch vollkommen egal!
+Dialogue: 0,0:12:48.21,0:12:50.54,Default,Terrence,0,0,0,,Wo ist die Eve, die ich kenne?!
+Dialogue: 0,0:12:50.83,0:12:52.96,Default,Terrence,0,0,0,,Die in der Schule\Nvon Selbstbewusstsein strotzt!
+Dialogue: 0,0:12:52.96,0:12:56.55,Default,Terrence,0,0,0,*,Die mich jedes Mal finster anknurrt,\Nwenn ich Lydia ansprechen will!
+Dialogue: 0,0:12:59.22,0:13:02.55,Default,Terrence,0,0,0,*,Hey! Open-Mic-Night ist am Samstag!\NSchnappt euch den Kerl!
+Dialogue: 0,0:13:02.55,0:13:04.90,Default,Terrence,0,0,0,,Kümmer dich doch nicht darum,\Nwas andere denken!
+Dialogue: 0,0:13:04.90,0:13:06.93,Default,Terrence,0,0,0,,Du fürchtest doch nichts\Nund niemanden, Eve!
+Dialogue: 0,0:13:06.93,0:13:08.98,Default,Terrence,0,0,0,,Willst du dir das\Neinfach so gefallen lassen?!
+Dialogue: 0,0:13:08.98,0:13:12.55,Default,Terrence,0,0,0,,Zeig uns,\Nwer du wirklich bist, Eve!
+Dialogue: 0,0:13:29.54,0:13:31.83,Default,Eve,0,0,0,,Hey … Ihr alle!
+Dialogue: 0,0:13:33.95,0:13:35.84,Default,Eve,0,0,0,,Für wen haltet ihr\Neuch eigentlich?
+Dialogue: 0,0:13:43.72,0:13:47.18,Default,Eve,0,0,0,,Ich habe dafür gekämpft,\Ndie zu werden, die ich sein will!
+Dialogue: 0,0:13:47.18,0:13:51.10,Default,Eve,0,0,0,,Warum sollte ich mich dafür kritisieren lassen?\NIst doch okay, wenn ich mich verändert hab!
+Dialogue: 0,0:13:51.10,0:13:52.89,Default,Eve,0,0,0,,Wer ich mal war,\Nist doch scheißegal!
+Dialogue: 0,0:13:52.89,0:13:56.98,Default,Eve,0,0,0,,Und vor allem ist mir scheißegal,\Nwas ihr alle von mir denkt!
+Dialogue: 0,0:14:18.40,0:14:20.95,Default,Eve,0,0,0,,Hä? Was denn?\NWas mach ich hier?
+Dialogue: 0,0:14:21.51,0:14:24.43,Default,Direktor,0,0,0,*,Ihr habt es gewagt,\Nmir meine Vorstellung zu ruinieren!
+Dialogue: 0,0:14:24.43,0:14:25.93,Default,Direktor,0,0,0,,Das werdet ihr mir büßen!
+Dialogue: 0,0:14:25.93,0:14:28.85,Default,Direktor,0,0,0,,Darsteller, Bühnenpersonal!\NKommt alle her!
+Dialogue: 0,0:14:32.75,0:14:34.64,Default,Terrence,0,0,0,,Eve!\NIch erklär es dir später!
+Dialogue: 0,0:14:34.87,0:14:36.50,Default,Terrence,0,0,0,,Erst mal müssen wir weg hier!
+Dialogue: 0,0:14:36.50,0:14:39.08,Default,Eve,0,0,0,,Von mir aus, ja, aber wie denn?
+Dialogue: 0,0:14:41.48,0:14:43.10,Default,Eve,0,0,0,*,Was passiert denn jetzt?
+Dialogue: 0,0:15:04.13,0:15:06.59,Default,Terrence,0,0,0,,Hört auf, euch über das Unglück\Nanderer Leute zu amüsieren!
+Dialogue: 0,0:15:12.18,0:15:14.80,Default,Direktor,0,0,0,,Oh nein!\NMein schönes Theater!
+Dialogue: 0,0:15:14.80,0:15:17.13,Default,Direktor,0,0,0,,Was habt ihr\Nda nur angerichtet!
+Dialogue: 0,0:15:23.23,0:15:25.25,Default,Eve,0,0,0,*,Ich zeig dir,\Nwo der Hammer hängt!
+Dialogue: 0,0:15:49.98,0:15:51.89,Default,Eve,0,0,0,,Ich fass es nicht!
+Dialogue: 0,0:15:53.15,0:15:55.05,Default,Eve,0,0,0,,Was ist denn\Ndas für ein Armreif?
+Dialogue: 0,0:15:55.05,0:15:57.85,Default,Eve,0,0,0,,Und … was sind das\Nfür Klamotten?
+Dialogue: 0,0:15:57.85,0:15:59.40,Default,Terrence,0,0,0,*,Das ist die Eve, die ich kenne!
+Dialogue: 0,0:15:59.40,0:16:01.93,Default,Terrence,0,0,0,,Du hast deine Angst\Nvor den Blicken der anderen besiegt!
+Dialogue: 0,0:16:01.93,0:16:03.28,Default,Terrence,0,0,0,,Jetzt bist du eine Reisende.
+Dialogue: 0,0:16:03.28,0:16:07.53,Default,Savane,0,0,0,*,Ja … Offenbar manifestiert sich deine Macht\Nüber deine Kleidung oder deinen Schmuck.
+Dialogue: 0,0:16:07.53,0:16:09.84,Default,Savane,0,0,0,,Du bist eine Beschwörerin,\Ngenau wie ich.
+Dialogue: 0,0:16:09.84,0:16:12.12,Default,Savane,0,0,0,,Du hast aus dem Armreif\N’nen Hammer rausgeholt, oder?
+Dialogue: 0,0:16:15.53,0:16:17.63,Default,Terrence,0,0,0,,Anfangs war ich\Nauch total verwirrt.
+Dialogue: 0,0:16:18.55,0:16:21.08,Default,Eve,0,0,0,,Was ist das denn?!\NWie hast du das denn gemacht?
+Dialogue: 0,0:16:38.02,0:16:41.15,Default,Eve,0,0,0,,Ich bin also hier\Nin dieser Welt der Träume
+Dialogue: 0,0:16:41.15,0:16:44.45,Default,Eve,0,0,0,,zu einer Reisenden geworden?\NUnd das verdanke ich dir?
+Dialogue: 0,0:16:44.45,0:16:46.84,Default,Terrence,0,0,0,,Ähm … Ja.\NIch meine … Nein!
+Dialogue: 0,0:16:46.84,0:16:48.93,Default,Terrence,0,0,0,,Na ja, in gewissem Sinne\Nkann man es so sagen.
+Dialogue: 0,0:16:48.93,0:16:51.28,Default,Terrence,0,0,0,,Aber du hast deine Angst\Naus eigener Kraft besiegt.
+Dialogue: 0,0:16:51.28,0:16:54.53,Default,Terrence,0,0,0,,Ich hab nur ein bisschen nachgeholfen.\NDu bist wirklich toll, Eve.
+Dialogue: 0,0:17:00.53,0:17:03.46,Default,Eve,0,0,0,,Heg jetzt bloß keine\Nkomischen Erwartungen, ja?
+Dialogue: 0,0:17:03.46,0:17:05.42,Default,Eve,0,0,0,,Doch ich werde mich\Ngebührend bedanken.
+Dialogue: 0,0:17:10.68,0:17:11.59,Default,Eve,0,0,0,,Terren…
+Dialogue: 0,0:17:12.84,0:17:15.38,Default,Savane,0,0,0,,Die beiden müssen ja zur Schule.
+Dialogue: 0,0:17:15.38,0:17:17.60,Default,Savane,0,0,0,,Und ich muss mich\Num meine kleine Schwester kümmern.
+Dialogue: 0,0:17:19.43,0:17:21.50,Default,Sabba,0,0,0,,Und ich kann noch\Nein wenig weiterschlafen.
+Dialogue: 0,0:17:22.95,0:17:26.40,Default,Sabba,0,0,0,*,Ich bin Kunststudent\Nund hab keinen Stundenplan.
+Dialogue: 0,0:17:38.08,0:17:41.53,Default,Michel,0,0,0,,Öhm … Es freut mich, dass du es\Ntrotzdem geschafft hast, Eve.
+Dialogue: 0,0:17:41.53,0:17:44.98,Default,Michel,0,0,0,,Aber ich hab nicht erwartet,\Ndass du so viele Leute mitbringen würdest …
+Dialogue: 0,0:17:44.98,0:17:47.30,Default,Eve,0,0,0,,Was denn, soll ich sie\Netwa wieder wegschicken?
+Dialogue: 0,0:17:47.30,0:17:48.83,Default,Michel,0,0,0,,Nein, das wollte ich nicht sagen …
+Dialogue: 0,0:17:48.83,0:17:52.13,Default,Eve,0,0,0,,Ah, dann ist doch alles okay!\NAlso dann, Michel, auf dein Wohl!
+Dialogue: 0,0:17:55.45,0:17:59.47,Default,Eve,0,0,0,*,Schmeckt das gut! Seit Jahren hab ich\Nmir jede Art von Junkfood versagt.
+Dialogue: 0,0:17:59.47,0:18:00.75,Default,Eve,0,0,0,*,Vielleicht fall ich davon ab?
+Dialogue: 0,0:18:00.75,0:18:01.52,Default,Michel,0,0,0,,Aha …
+Dialogue: 0,0:18:03.95,0:18:07.20,Default,Savane,0,0,0,,Deine Kollegin ist doch echt nett!\NSie hat uns mit hierher eingeladen …
+Dialogue: 0,0:18:07.20,0:18:08.50,Default,Savane,0,0,0,,Also los, trinken wir!
+Dialogue: 0,0:18:08.50,0:18:10.74,Default,Sabba,0,0,0,,Na, siehst du?\NDu magst mich eben doch.
+Dialogue: 0,0:18:10.74,0:18:12.10,Default,Sabba,0,0,0,,Ich wusste es doch.
+Dialogue: 0,0:18:15.88,0:18:17.08,Default,Savane,0,0,0,,Du nicht, Freund.
+Dialogue: 0,0:18:17.08,0:18:18.74,Default,Terrence,0,0,0,,Was …\NAber warum denn nicht?
+Dialogue: 0,0:18:18.74,0:18:20.20,Default,Savane,0,0,0,,Erst gehst du und redest mit ihr.
+Dialogue: 0,0:18:20.20,0:18:22.08,Default,Terrence,0,0,0,,Was? Mit wem denn?
+Dialogue: 0,0:18:22.68,0:18:23.55,Default,Terrence,0,0,0,,Oh, Verzeihung!
+Dialogue: 0,0:18:23.55,0:18:24.92,Default,Lydia,0,0,0,,Terrence?
+Dialogue: 0,0:18:24.92,0:18:26.42,Default,Lydia,0,0,0,,Was machst du denn hier?
+Dialogue: 0,0:18:26.90,0:18:29.54,Default,Terrence,0,0,0,,Äh … Tja, es ist so …
+Dialogue: 0,0:18:29.54,0:18:31.30,Default,Terrence,0,0,0,,Patrick ist ein Kumpel von mir.
+Dialogue: 0,0:18:31.30,0:18:32.76,Default,Lydia,0,0,0,,Michel, meinst du?
+Dialogue: 0,0:18:32.76,0:18:35.43,Default,Terrence,0,0,0,*,Michel, Patrick …\NDas verwechselt man so leicht …
+Dialogue: 0,0:18:41.18,0:18:43.02,Default,Eve,0,0,0,,Macht mir doch\Nnicht solche Umstände!
+Dialogue: 0,0:18:43.33,0:18:44.33,Default,Partygast 1,0,0,0,,Was ist denn los?
+Dialogue: 0,0:18:44.33,0:18:45.35,Default,Partygast 2,0,0,0,,Nanu?
+Dialogue: 0,0:18:47.65,0:18:48.75,Default,Eve,0,0,0,,So!
+Dialogue: 0,0:18:49.13,0:18:51.69,Default,Eve,0,0,0,*,Ihr bleibt da draußen,\Nbis ihr euch ausgesprochen habt!
+Dialogue: 0,0:18:52.75,0:18:56.15,Default,Eve,0,0,0,,Wer die beiden zu stören wagt,\Nkriegt’s mit mir zu tun, klar?
+Dialogue: 0,0:19:12.15,0:19:14.59,Default,Lydia + Terrence,0,0,0,,Warum hast du mich\Nnie zurückgerufen?
+Dialogue: 0,0:19:33.36,0:19:36.40,Default,Savane,0,0,0,,Wieso verkuppelst du die zwei,\Nwenn du sie nicht gern zusammen siehst?
+Dialogue: 0,0:19:37.98,0:19:40.45,Default,Eve,0,0,0,,Die Liebe ist nichts\Nfür Leute wie uns.
+Dialogue: 0,0:19:46.38,0:19:48.88,Default,Eve,0,0,0,*,Aber die beiden sind\Nfüreinander bestimmt.
+Dialogue: 0,0:19:49.93,0:19:52.71,Default,Eve,0,0,0,,Das sticht einem doch gleich ins Auge,\Nwenn man sie sieht.
+Dialogue: 0,0:19:52.71,0:19:54.75,Default,Eve,0,0,0,,Und … Lydia hatte recht.
+Dialogue: 0,0:19:57.53,0:20:00.03,Default,Eve,0,0,0,,Terrence ist ein guter Kerl.
+Dialogue: 0,0:20:03.05,0:20:04.13,Default,Savane,0,0,0,,Allerdings.
+Dialogue: 0,0:20:09.20,0:20:12.25,Default,Eve,0,0,0,*,Außerdem ist es mein Job,\Ndafür zu sorgen, dass Lydia weiter lächelt.
+Dialogue: 0,0:20:13.45,0:20:14.43,Default,Eve,0,0,0,*,Auf ihr Wohl.
+Dialogue: 0,0:20:14.43,0:20:15.20,Default,Savane,0,0,0,,Jepp.
+Dialogue: 0,0:20:18.15,0:20:21.35,Default,Lydia,0,0,0,,Dann hast du meinen Brief\Nalso nicht gelesen.
+Dialogue: 0,0:20:23.62,0:20:26.78,Default,Lydia,0,0,0,*,Es freut mich, dass es nur\Nein gegenseitiges Missverständnis war.
+Dialogue: 0,0:20:28.23,0:20:29.10,Default,Terrence,0,0,0,,Ja.
+Dialogue: 0,0:20:29.70,0:20:30.95,Default,Terrence,0,0,0,,Geht mir genauso.
+Dialogue: 0,0:20:39.50,0:20:42.53,Default,Lydia,0,0,0,,Dann … wollen wir\Nwieder reingehen?
+Dialogue: 0,0:20:54.05,0:20:55.19,Default,Terrence,0,0,0,,Äh …
+Dialogue: 0,0:21:01.45,0:21:03.28,Default,Terrence,0,0,0,,Lydia, äh …
+Dialogue: 0,0:21:03.28,0:21:05.41,Default,Terrence,0,0,0,,Darf ich … dich küssen?
+Dialogue: 0,0:21:10.58,0:21:11.83,Default,Lydia,0,0,0,,Ja.
+Dialogue: 0,0:21:30.27,0:21:33.10,TypePlaceholder,Credits,0,0,0,,{\bord1\c&HFFFFFF&\3c&H234287&\blur1\an2}Übersetzung & Spotting:\N{\fnDejaVu Sans Condensed\b0}Simone Gisler
+Dialogue: 0,0:21:33.94,0:21:37.03,TypePlaceholder,Credits,0,0,0,,{\bord1\fad(0,500)\c&HFFFFFF&\3c&H234287&\blur1\an2}Revision & Typesetting:\N{\fnDejaVu Sans Condensed\b0}Janik Aurich
+Dialogue: 0,0:21:37.61,0:21:40.40,TypePlaceholder,Credits,0,0,0,,{\bord1\c&HFFFFFF&\3c&H234287&\blur1\an2}Qualitätskontrolle:\N{\fnDejaVu Sans Condensed\b0}Alex Roston
+Dialogue: 0,0:21:41.24,0:21:44.37,TypePlaceholder,Credits,0,0,0,,{\bord1\fad(0,500)\c&HFFFFFF&\3c&H234287&\blur1\an2}Projektleitung:\N{\fnDejaVu Sans Condensed\b0}Tobias Philippi
+
