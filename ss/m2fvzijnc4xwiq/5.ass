@@ -1,0 +1,531 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,15,1
+Style: CARTELLO,Comic Sans MS,20,&H00020000,&H000000FF,&H00F5F6F6,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,20,20,20,0
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,15,1
+Style: Main - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,15,1
+Style: Main_Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,15,1
+Style: Main_Overlap,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00481579,&H00320D56,0,0,0,0,100,100,0,0,1,2,1,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:33.90,0:01:35.20,Default,Asmodheus,0,0,0,,Come hai detto?
+Dialogue: 0,0:01:36.06,0:01:38.63,Default,Neil,0,0,0,,Ecco... Non ho ancora trovato
+Dialogue: 0,0:01:38.63,0:01:40.70,Default,Neil,0,0,0,,il Dominatore del Fuoco, padrone.
+Dialogue: 0,0:01:40.96,0:01:43.23,Default,Neil,0,0,0,,Ma ci sono quasi. L'ho identificato.
+Dialogue: 0,0:01:43.23,0:01:44.46,Default,Neil,0,0,0,,Non si preoccupi.
+Dialogue: 0,0:01:44.46,0:01:46.68,Default,Neil,0,0,0,,Mi dia giusto qualche giorno.
+Dialogue: 0,0:01:47.91,0:01:49.00,Default,Asmodheus,0,0,0,,Vai.
+Dialogue: 0,0:01:51.97,0:01:53.83,Default,Asmodheus,0,0,0,,Se mi deluderai di nuovo
+Dialogue: 0,0:01:54.09,0:01:56.51,Default,Asmodheus,0,0,0,,questo fuoco non ti perdonerà.
+Dialogue: 0,0:02:01.77,0:02:02.93,Italics,Eve,0,0,0,,Ciao, cari follower!
+Dialogue: 0,0:02:02.93,0:02:05.35,Italics,Eve,0,0,0,,Anche oggi facciamo la nostra {\i1}routine{\i0}!
+Dialogue: 0,0:02:05.35,0:02:08.36,Italics,Eve,0,0,0,,Forza, un po' di motivazione e si parte!
+Dialogue: 0,0:02:08.36,0:02:10.62,Italics,Eve,0,0,0,,Continuiamo. Teniamo duro!
+Dialogue: 0,0:02:10.62,0:02:12.40,Italics,Eve,0,0,0,,Inspirare...
+Dialogue: 0,0:02:12.40,0:02:13.82,Italics,Eve,0,0,0,,ed espirare.
+Dialogue: 0,0:02:14.20,0:02:16.84,Italics,Eve,0,0,0,,L'importante è rimanere sempre calmi.
+Dialogue: 0,0:02:17.32,0:02:19.31,Italics,Eve,0,0,0,,E controlliamo tutto con una foto!
+Dialogue: 0,0:02:19.31,0:02:21.40,Italics,Eve,0,0,0,,Il metodo a sei strati\Nè una gran faticaccia, ma...
+Dialogue: 0,0:02:21.40,0:02:23.21,Italics,Eve,0,0,0,,ammirate il risultato!
+Dialogue: 0,0:02:24.52,0:02:26.95,Italics,Eve,0,0,0,,Ah, non siete obbligati a imitarmi, eh.
+Dialogue: 0,0:02:26.95,0:02:29.03,Italics,Eve,0,0,0,,Ma soprattutto, restate voi stessi, ok?
+Dialogue: 0,0:02:30.59,0:02:31.80,Italics,Eve,0,0,0,,Lo smoothie di oggi
+Dialogue: 0,0:02:31.80,0:02:34.89,Italics,Eve,0,0,0,,è con cetriolo, spinaci, \Nmenta, basilico e piselli.
+Dialogue: 0,0:02:34.89,0:02:37.56,Italics,Eve,0,0,0,,Mangiare sempre sano\Nè il segreto della bellezza!
+Dialogue: 0,0:02:37.92,0:02:40.02,Italics,Eve,0,0,0,,Certo, non deve diventare un'ossessione!
+Dialogue: 0,0:02:40.02,0:02:43.36,Italics,Eve,0,0,0,,L'importante è solo sentirsi bene\Nnel proprio corpo.
+Dialogue: 0,0:02:43.36,0:02:44.69,Italics,Eve,0,0,0,,Ma io sono fortunata,
+Dialogue: 0,0:02:44.69,0:02:46.98,Italics,Eve,0,0,0,,non mi sono mai piaciute\Nle cose troppo dolci.
+Dialogue: 0,0:02:47.52,0:02:50.13,Italics,Eve,0,0,0,,Ta-dà! Sono pronta per la maturità!
+Dialogue: 0,0:02:50.13,0:02:51.23,Italics,Eve,0,0,0,,A te, Lydia.
+Dialogue: 0,0:02:51.85,0:02:52.92,Italics,Eve,0,0,0,,Lydia?
+Dialogue: 0,0:02:52.92,0:02:54.42,Italics,Mujot,0,0,0,,Che le passa per la testa?!
+Dialogue: 0,0:02:54.42,0:02:57.11,Italics,Mujot,0,0,0,,Un tale disastro\Na tre settimane dalla maturità!
+Dialogue: 0,0:02:57.11,0:02:59.07,Italics,Mujot,0,0,0,,Mi sta ascoltando, signor Meyer?
+Dialogue: 0,0:02:59.84,0:03:01.04,Italics,Lydia,0,0,0,,Poverino...
+Dialogue: 0,0:03:01.04,0:03:03.41,Italics,Eve,0,0,0,,Lydia? Ci fai vedere la tua fotocopia?
+Dialogue: 0,0:03:03.69,0:03:04.64,Italics,Eve,0,0,0,,Lydia?
+Dialogue: 0,0:03:08.99,0:03:11.82,Default,Eve,0,0,0,,È ora che la smetti di restare\Nin fissa con lui.
+Dialogue: 0,0:03:13.32,0:03:14.36,Default,Lydia,0,0,0,,Ma...
+Dialogue: 0,0:03:14.36,0:03:15.99,Default,Lydia,0,0,0,,Terrence è così gentile.
+Dialogue: 0,0:03:15.99,0:03:17.64,Default,Lydia,0,0,0,,Sono certa che c'è un motivo.
+Dialogue: 0,0:03:17.64,0:03:20.64,Default,Eve,0,0,0,,Il motivo è che è un perdente\Nche non ha le palle di cambiare.
+Dialogue: 0,0:03:21.09,0:03:23.90,Default,Eve,0,0,0,,Secondo me gli piaci davvero, eh.
+Dialogue: 0,0:03:23.90,0:03:26.49,Default,Eve,0,0,0,,Ma avrà capito che non ha\Nniente a che spartire con te.
+Dialogue: 0,0:03:26.49,0:03:27.73,Default,Eve,0,0,0,,Dimenticalo e basta!
+Dialogue: 0,0:03:28.78,0:03:30.07,Default,Michel,0,0,0,,Ehi, scusate...
+Dialogue: 0,0:03:30.07,0:03:31.48,Default,Michel,0,0,0,,Eve, Lydia...
+Dialogue: 0,0:03:31.48,0:03:32.90,Default,Michel,0,0,0,,Il prossimo sabato sera
+Dialogue: 0,0:03:32.90,0:03:36.11,Default,Michel,0,0,0,,pensavo di fare una festicciola da me e...
+Dialogue: 0,0:03:37.64,0:03:39.22,Default,Eve,0,0,0,,Michel!
+Dialogue: 0,0:03:39.22,0:03:40.60,Default,Eve,0,0,0,,Grazie per l'invito,
+Dialogue: 0,0:03:40.60,0:03:43.21,Default,Eve,0,0,0,,ma è già giovedì,\Nnon ho nulla da mettere.
+Dialogue: 0,0:03:43.21,0:03:45.06,Default,Eve,0,0,0,,Ah, e poi il weekend...
+Dialogue: 0,0:03:45.06,0:03:46.64,Default,Eve,0,0,0,,Vedo cosa posso fare,
+Dialogue: 0,0:03:46.64,0:03:47.84,Default,Eve,0,0,0,,ma non contarci troppo, ok?
+Dialogue: 0,0:03:47.84,0:03:49.02,Default,Michel,0,0,0,,D'accordo.
+Dialogue: 0,0:03:55.07,0:03:55.97,Default,Lydia,0,0,0,,Non so.
+Dialogue: 0,0:03:56.72,0:03:58.19,Italics,Lydia,0,0,0,,Dentro di me
+Dialogue: 0,0:03:59.24,0:04:01.40,Italics,Lydia,0,0,0,,ho la sensazione che in realtà
+Dialogue: 0,0:04:01.40,0:04:03.22,Italics,Lydia,0,0,0,,è diverso dall'immagine\Nche si ha di lui.
+Dialogue: 0,0:04:03.80,0:04:06.23,Default,Eve,0,0,0,,Allora è bravo a nasconderlo.
+Dialogue: 0,0:04:07.51,0:04:08.44,Default,Lydia,0,0,0,,Già...
+Dialogue: 0,0:04:09.80,0:04:12.36,Default,Lydia,0,0,0,,E se gli propongo di venire \Na quella festa sabato sera?
+Dialogue: 0,0:04:12.65,0:04:14.35,Default,Eve,0,0,0,,No, non se ne parla!
+Dialogue: 0,0:04:14.35,0:04:16.27,Default,Eve,0,0,0,,Portare Terrence a una serata
+Dialogue: 0,0:04:16.27,0:04:18.24,Default,Eve,0,0,0,,è un suicidio sociale!
+Dialogue: 0,0:04:22.55,0:04:23.84,Default,Lydia,0,0,0,,Sai...
+Dialogue: 0,0:04:24.28,0:04:25.74,Default,Lydia,0,0,0,,l'ho sognato l'altra sera.
+Dialogue: 0,0:04:25.74,0:04:26.85,Italics,Eve,0,0,0,,Ma sentiti!
+Dialogue: 0,0:04:26.85,0:04:28.83,Italics,Eve,0,0,0,,Hai avuto un incubo, vorrai dire?
+Dialogue: 0,0:04:29.91,0:04:31.76,Italics,Lydia,0,0,0,,No, davvero.
+Dialogue: 0,0:04:31.76,0:04:34.42,Italics,Lydia,0,0,0,,Io penso a lui tutto il tempo,\Nanche quando dormo.
+Dialogue: 0,0:04:34.70,0:04:36.55,Italics,Lydia,0,0,0,,Eve, non ne posso più!
+Dialogue: 0,0:04:37.90,0:04:40.09,Default,Eve,0,0,0,,Scommetto che anche lui ti sogna.
+Dialogue: 0,0:04:40.31,0:04:41.52,Italics,Lydia,0,0,0,,Tu credi?
+Dialogue: 0,0:04:41.80,0:04:43.80,Italics,Eve,0,0,0,,Sì, ma in modo spinto, capisci?
+Dialogue: 0,0:04:44.45,0:04:46.84,Italics,Lydia,0,0,0,,Eddai, smettila.
+Dialogue: 0,0:04:48.28,0:04:49.62,Default,Eve,0,0,0,,Ah, ma non ho dubbi.
+Dialogue: 0,0:04:49.62,0:04:52.16,Default,Eve,0,0,0,,Credimi, deve fare\Ndei sogni ultra perversi!
+Dialogue: 0,0:04:55.62,0:04:57.23,Default,Savane,0,0,0,,Ma dai, c'è pure 'sta roba?
+Dialogue: 0,0:05:01.38,0:05:02.86,Default,Savane,0,0,0,,Ehi, guarda un po' qua.
+Dialogue: 0,0:05:03.96,0:05:06.23,Default,Savane,0,0,0,,Dai, sei ancora depresso?
+Dialogue: 0,0:05:06.23,0:05:07.79,Default,Savane,0,0,0,,Dacci un taglio!
+Dialogue: 0,0:05:07.79,0:05:10.39,Default,Terrence,0,0,0,,Qualsiasi cosa faccia,\NLydia è sempre nella mia testa.
+Dialogue: 0,0:05:10.83,0:05:13.27,Default,Terrence,0,0,0,,Anche quando vedo una cosa\Npazzesca come quel dinosauro...
+Dialogue: 0,0:05:13.27,0:05:14.94,Default,Terrence,0,0,0,,è a lei che penso.
+Dialogue: 0,0:05:15.96,0:05:17.58,Default,Savane,0,0,0,,Allora piantala di brontolare.
+Dialogue: 0,0:05:17.58,0:05:20.01,Default,Savane,0,0,0,,Parlale e sistema\Nla faccenda una volta per tutte.
+Dialogue: 0,0:05:20.01,0:05:22.74,Default,Terrence,0,0,0,,Ma non posso! È sempre assieme a Eve.
+Dialogue: 0,0:05:22.74,0:05:25.72,Default,Terrence,0,0,0,,È una rompi e la protegge\Nsempre come un cane da guardia.
+Dialogue: 0,0:05:25.72,0:05:27.39,Default,Terrence,0,0,0,,Non posso nemmeno avvicinarmi.
+Dialogue: 0,0:05:27.80,0:05:30.24,Default,Sabba,0,0,0,,E allora perché non la chiami?
+Dialogue: 0,0:05:30.52,0:05:31.37,Default,Terrence,0,0,0,,Sabba!
+Dialogue: 0,0:05:31.37,0:05:34.20,Default,Terrence,0,0,0,,Devi smetterla di spuntare\Nalle spalle della gente!
+Dialogue: 0,0:05:34.20,0:05:36.42,Default,Sabba,0,0,0,,Sai, non è complicato!
+Dialogue: 0,0:05:36.42,0:05:38.29,Default,Sabba,0,0,0,,Se la sua amica si mette in mezzo,
+Dialogue: 0,0:05:38.29,0:05:40.49,Default,Sabba,0,0,0,,tu la chiami e le dici cosa provi per lei.
+Dialogue: 0,0:05:43.74,0:05:46.62,Default,Savane,0,0,0,,Lascia stare, non è pronto.\NEh, Mollaccione?
+Dialogue: 0,0:05:46.62,0:05:49.38,Default,Sabba,0,0,0,,E se ci schiarissimo\Nun po’ le idee, stasera?
+Dialogue: 0,0:05:49.38,0:05:51.11,Default,Sabba,0,0,0,,Che ne dite? Siamo tutti amici, no?
+Dialogue: 0,0:05:51.11,0:05:52.54,Default,Savane,0,0,0,,Non siamo amici.
+Dialogue: 0,0:05:55.28,0:05:57.35,Default,Sabba,0,0,0,,Savane, ancora che fai il distante?!
+Dialogue: 0,0:05:57.35,0:05:59.65,Default,Sabba,0,0,0,,Sono due settimane\Nche ci alleniamo assieme ogni notte!
+Dialogue: 0,0:05:59.65,0:06:01.42,Default,Sabba,0,0,0,,Ci vogliamo un bene dell'anima, no?
+Dialogue: 0,0:06:01.42,0:06:03.00,Default,Sabba,0,0,0,,Ora siamo fratelli d'armi.
+Dialogue: 0,0:06:03.00,0:06:04.68,Default,Sabba,0,0,0,,No? Siamo compagni!
+Dialogue: 0,0:06:04.68,0:06:06.01,Default,Sabba,0,0,0,,Insomma, ci siamo capiti.
+Dialogue: 0,0:06:06.01,0:06:06.77,Default,Savane,0,0,0,,Leva quella mano.
+Dialogue: 0,0:06:06.77,0:06:09.57,Default,Sabba,0,0,0,,Tranquillo, ti vogliamo tutti bene.
+Dialogue: 0,0:06:09.57,0:06:11.91,Default,Sabba,0,0,0,,Scommetto che in realtà\Nhai un cuoricino sensibile
+Dialogue: 0,0:06:11.91,0:06:14.00,Default,Sabba,0,0,0,,che vuole essere compreso e amato.
+Dialogue: 0,0:06:14.00,0:06:16.68,Default,Sabba,0,0,0,,Ed è a questo che servono gli amici!
+Dialogue: 0,0:06:33.29,0:06:35.85,Default,demone saltimbanco,0,0,0,,Salute a voi, giovani Viaggiatori.
+Dialogue: 0,0:06:35.85,0:06:38.54,Default,demone saltimbanco,0,0,0,,Volete divertirvi, ma non sapete come?
+Dialogue: 0,0:06:39.63,0:06:42.79,Default,demone saltimbanco,0,0,0,,Venite a vedere il più grande\Nspettacolo della vostra vita!
+Dialogue: 0,0:06:42.79,0:06:46.34,Default,demone saltimbanco,0,0,0,,Si terrà stasera\Nal teatro itinerante di Dreamland!
+Dialogue: 0,0:06:48.30,0:06:49.44,Default,Sabba,0,0,0,,Di che si tratta?
+Dialogue: 0,0:06:49.44,0:06:51.69,Default,demone saltimbanco,0,0,0,,Uno spettacolo unico nel suo genere.
+Dialogue: 0,0:06:51.69,0:06:53.16,Default,demone saltimbanco,0,0,0,,Come non ne avete mai visti.
+Dialogue: 0,0:06:53.16,0:06:55.51,Default,demone saltimbanco,0,0,0,,E per di più, è gratis!
+Dialogue: 0,0:06:57.26,0:06:58.81,Default,Sabba,0,0,0,,Ehi, dai, ci andiamo?
+Dialogue: 0,0:06:58.81,0:06:59.86,Default,Savane,0,0,0,,Ma manco morto!
+Dialogue: 0,0:06:59.86,0:07:01.67,Default,Sabba,0,0,0,,Sarà uno stacco dalle solite botte.
+Dialogue: 0,0:07:01.67,0:07:02.82,Default,Sabba,0,0,0,,Io voto per andare!
+Dialogue: 0,0:07:02.82,0:07:03.92,Default,demone saltimbanco,0,0,0,,Anche io!
+Dialogue: 0,0:07:03.92,0:07:05.56,Default,Savane,0,0,0,,Guarda che non siamo in democrazia.
+Dialogue: 0,0:07:05.56,0:07:07.56,Default,Savane,0,0,0,,E tu non fai parte del gruppo!
+Dialogue: 0,0:07:09.92,0:07:12.13,Default,Sabba,0,0,0,,Ehi, non è per me. È per lui!
+Dialogue: 0,0:07:38.45,0:07:40.38,Default,Sabba,0,0,0,,Sono certo che sarà stupendo!
+Dialogue: 0,0:07:40.38,0:07:41.27,Default,Sabba,0,0,0,,Vero, Terrence?
+Dialogue: 0,0:07:42.09,0:07:43.57,Default,Sabba,0,0,0,,Su, guarda.
+Dialogue: 0,0:07:43.57,0:07:45.48,Default,Sabba,0,0,0,,Persino Savane\Nè contento di essere qui.
+Dialogue: 0,0:07:47.93,0:07:49.54,Default,Sabba,0,0,0,,Almeno... a modo suo.
+Dialogue: 0,0:07:49.54,0:07:51.03,Default,Camelot,0,0,0,,Signore e signori!
+Dialogue: 0,0:07:51.43,0:07:54.91,Default,Camelot,0,0,0,,Creature, Sognatori e Viaggiatori!
+Dialogue: 0,0:07:56.46,0:08:00.54,Default,Camelot,0,0,0,,Benvenuti al teatro\N multiplex di Dreamland!
+Dialogue: 0,0:08:00.83,0:08:01.91,Default,Camelot,0,0,0,,Questa sera,
+Dialogue: 0,0:08:01.91,0:08:04.01,Default,Camelot,0,0,0,,per il vostro massimo piacere,
+Dialogue: 0,0:08:04.01,0:08:05.36,Default,Camelot,0,0,0,,vi proponiamo
+Dialogue: 0,0:08:05.36,0:08:08.82,Default,Camelot,0,0,0,,uno spettacolo che sfida l'immaginazione.
+Dialogue: 0,0:08:09.22,0:08:11.28,Default,Camelot,0,0,0,,Allora, senza ulteriori indugi,
+Dialogue: 0,0:08:11.28,0:08:13.39,Default,Camelot,0,0,0,,per farvi calare nell'ambientazione,
+Dialogue: 0,0:08:13.39,0:08:16.19,Default,Camelot,0,0,0,,ecco un piccolo assaggio.
+Dialogue: 0,0:08:31.37,0:08:31.41,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.12,110.77)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:31.41,0:08:31.45,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.56,110.59)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:31.45,0:08:31.49,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.32,110.53)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:31.49,0:08:31.53,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.15,110.91)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:31.53,0:08:31.57,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.59,111.03)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:31.57,0:08:31.62,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.13,111.6)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:31.62,0:08:31.66,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.18,111.43)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:31.66,0:08:31.66,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.71,111.54)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:31.66,0:08:31.70,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(321.06,111.94)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:31.70,0:08:31.74,CARTELLO,sign,0,0,0,,{\bord0\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.58,112.21)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:31.74,0:08:31.78,CARTELLO,sign,0,0,0,,{\bord0\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.31,112.09)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:31.78,0:08:31.82,CARTELLO,sign,0,0,0,,{\bord0\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.88,111.37)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:31.82,0:08:31.87,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(321.39,111.21)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:31.87,0:08:31.91,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(321.08,111.13)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:31.91,0:08:31.95,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.97,110.7)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:31.95,0:08:31.99,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.17,110.4)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:31.99,0:08:32.03,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(319.45,111.1)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:32.03,0:08:32.07,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(319.25,111.28)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:32.07,0:08:32.12,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(319.72,111.37)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:32.12,0:08:32.16,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.3,110.39)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:32.16,0:08:32.20,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.18,110.81)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:32.20,0:08:32.24,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.38,111.18)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:32.24,0:08:32.28,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.75,111.5)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:32.28,0:08:32.32,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(321.31,111.71)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:32.32,0:08:32.37,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(321.19,110.88)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:32.37,0:08:32.41,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(321.27,111.43)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:32.41,0:08:32.45,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.59,111.68)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:32.45,0:08:32.49,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(319.72,111.64)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:32.49,0:08:32.53,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(319.88,111.59)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:32.53,0:08:32.57,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(319.9,111.73)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:32.57,0:08:32.62,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.57,111.55)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:32.62,0:08:32.62,CARTELLO,sign,0,0,0,,{\bord0\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(319.81,110.99)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:32.62,0:08:32.66,CARTELLO,sign,0,0,0,,{\bord0\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(319.39,111.58)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:32.66,0:08:32.70,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(319.07,110.54)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:32.70,0:08:32.74,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(318.83,110.74)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:32.74,0:08:32.78,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(318.97,110.05)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:32.78,0:08:32.82,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(319.46,110.16)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:32.82,0:08:32.87,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(319.8,110.69)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:32.87,0:08:32.91,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.33,109.95)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:32.91,0:08:32.95,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(319.88,110.48)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:32.95,0:08:32.99,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.41,111.05)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:32.99,0:08:33.03,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.76,110.51)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:33.03,0:08:33.08,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.99,110.8)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:33.08,0:08:33.12,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.59,110.25)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:33.12,0:08:33.16,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.17,109.59)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:33.16,0:08:33.20,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.56,109.57)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:33.20,0:08:33.24,CARTELLO,sign,0,0,0,,{\bord0\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.35,109.63)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:33.24,0:08:33.28,CARTELLO,sign,0,0,0,,{\bord0\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.47,110.27)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:33.28,0:08:33.33,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.47,110.81)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:33.33,0:08:33.37,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(321.05,111.08)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:33.37,0:08:33.41,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.98,110.24)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:33.41,0:08:33.45,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.57,110.12)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:33.45,0:08:33.49,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.41,110.79)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:33.49,0:08:33.53,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.31,110.52)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:33.53,0:08:33.58,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.78,109.99)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:33.58,0:08:33.62,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.02,110.38)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:33.62,0:08:33.62,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(319.86,110.94)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:33.62,0:08:33.66,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.11,110.09)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:33.66,0:08:33.70,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(319.97,110.72)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:33.70,0:08:33.74,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.55,110.2)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:33.74,0:08:33.78,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(319.79,110.69)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:33.78,0:08:33.83,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.41,111.27)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:33.83,0:08:33.87,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.46,110.75)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:33.87,0:08:33.91,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(319.65,111.02)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:33.91,0:08:33.95,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.19,111.04)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:33.95,0:08:33.99,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(319.95,111.35)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:33.99,0:08:34.03,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(319.43,111.81)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:34.03,0:08:34.08,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(319.45,110.76)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:34.08,0:08:34.12,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(319.8,110.68)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:34.12,0:08:34.16,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(319.62,110.02)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:34.16,0:08:34.20,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(319.25,109.67)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:34.20,0:08:34.24,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(319.06,109.5)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:34.24,0:08:34.28,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(319.96,109.53)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:34.28,0:08:34.33,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(319.83,109.48)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:34.33,0:08:34.37,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(319.64,109.26)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:34.37,0:08:34.41,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(319.15,109.59)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:34.41,0:08:34.45,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(319.47,109.67)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:34.45,0:08:34.49,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(319.26,109.72)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:34.49,0:08:34.54,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(318.87,109.75)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:34.54,0:08:34.58,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(318.61,109.32)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:34.58,0:08:34.58,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(319.32,109.51)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:34.58,0:08:34.62,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(319.09,109.16)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:34.62,0:08:34.66,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(319.47,108.8)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:34.66,0:08:34.70,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.08,109.28)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:34.70,0:08:34.74,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\pos(320.08,109.28)\c&HB3D0D8&\3c&H000106&}Questa è proprio una bella serata!
+Dialogue: 0,0:08:38.79,0:08:40.17,Default,Terrence,0,0,0,,Sei tu?
+Dialogue: 0,0:08:40.17,0:08:42.29,Default,Sabba,0,0,0,,Non ci credo! Che vergogna!
+Dialogue: 0,0:08:42.29,0:08:42.33,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.86,96.42)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:42.33,0:08:42.38,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.49,97.56)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:42.38,0:08:42.42,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.49,97.71)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:42.42,0:08:42.42,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(321.13,97.7)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:42.42,0:08:42.46,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(321.5,97.42)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:42.46,0:08:42.50,CARTELLO,sign,0,0,0,,{\bord0\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(321.27,97.7)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:42.50,0:08:42.54,CARTELLO,sign,0,0,0,,{\bord0\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.8,98.37)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:42.54,0:08:42.58,CARTELLO,sign,0,0,0,,{\bord0\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.96,97.52)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:42.58,0:08:42.63,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.38,97.95)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:42.63,0:08:42.67,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.71,97.27)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:42.67,0:08:42.71,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.44,97.01)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:42.71,0:08:42.75,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319,97.96)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:42.75,0:08:42.79,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.83,98.66)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:42.79,0:08:42.83,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.24,98.21)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:42.83,0:08:42.88,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.81,98.62)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:42.88,0:08:42.92,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.5,98.39)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:42.92,0:08:42.96,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.2,97.62)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:42.96,0:08:43.00,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.56,97.15)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:43.00,0:08:43.04,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.76,97.63)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:43.04,0:08:43.09,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.89,97.93)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:43.09,0:08:43.13,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.81,97.43)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:43.13,0:08:43.17,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.98,96.82)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:43.17,0:08:43.21,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.24,97.56)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:43.21,0:08:43.25,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.91,97.75)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:43.25,0:08:43.29,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320,97.23)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:43.29,0:08:43.34,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.69,97.31)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:43.34,0:08:43.38,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.92,97.88)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:43.38,0:08:43.38,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.69,98.55)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:43.38,0:08:43.42,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.08,98.99)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:43.42,0:08:43.46,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.54,98.44)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:43.46,0:08:43.50,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.08,98.96)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:43.50,0:08:43.54,CARTELLO,sign,0,0,0,,{\bord0\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.17,98.04)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:43.54,0:08:43.59,CARTELLO,sign,0,0,0,,{\bord0\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.53,98.55)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:43.59,0:08:43.63,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.94,97.84)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:43.63,0:08:43.67,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.24,98.18)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:43.67,0:08:43.71,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.1,98.1)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:43.71,0:08:43.75,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.45,98.12)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:43.75,0:08:43.79,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.2,98.33)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:43.79,0:08:43.84,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.93,97.61)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:43.84,0:08:43.88,CARTELLO,sign,0,0,0,,{\bord0\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.48,97.47)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:43.88,0:08:43.92,CARTELLO,sign,0,0,0,,{\bord0\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.16,97.27)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:43.92,0:08:43.96,CARTELLO,sign,0,0,0,,{\bord0\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(318.77,96.8)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:43.96,0:08:44.00,CARTELLO,sign,0,0,0,,{\bord0\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(318.64,96.44)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:44.00,0:08:44.04,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(318.64,96.68)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:44.04,0:08:44.09,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(318.96,97.68)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:44.09,0:08:44.13,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.9,98.46)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:44.13,0:08:44.17,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.53,99.02)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:44.17,0:08:44.21,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.84,98.48)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:44.21,0:08:44.25,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.82,98.69)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:44.25,0:08:44.29,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.51,99.13)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:44.29,0:08:44.34,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.2,99.5)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:44.34,0:08:44.34,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.65,99.24)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:44.34,0:08:44.38,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.8,98.64)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:44.38,0:08:44.42,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.95,97.99)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:44.42,0:08:44.46,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.06,97.61)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:44.46,0:08:44.50,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.78,97.05)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:44.50,0:08:44.55,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.28,97.46)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:44.55,0:08:44.59,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.94,97.11)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:44.59,0:08:44.63,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.25,96.67)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:44.63,0:08:44.67,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.71,96.64)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:44.67,0:08:44.71,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(321.31,96.66)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:44.71,0:08:44.75,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.45,96.82)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:44.75,0:08:44.80,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.98,97.38)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:44.80,0:08:44.84,CARTELLO,sign,0,0,0,,{\bord0\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.74,96.84)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:44.84,0:08:44.88,CARTELLO,sign,0,0,0,,{\bord0\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.7,97.49)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:44.88,0:08:44.92,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(321.07,97.84)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:44.92,0:08:44.96,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(321.39,97.3)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:44.96,0:08:45.00,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.65,97.48)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:45.00,0:08:45.05,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.05,97.05)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:45.05,0:08:45.09,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.02,97.47)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:45.09,0:08:45.13,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.45,98.17)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:45.13,0:08:45.17,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.57,97.38)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:45.17,0:08:45.21,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.49,98.28)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:45.21,0:08:45.25,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.05,98.13)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:45.25,0:08:45.30,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.4,98.58)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:45.30,0:08:45.34,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.02,98.52)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:45.34,0:08:45.34,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.6,99.07)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:45.34,0:08:45.38,CARTELLO,sign,0,0,0,,{\bord0\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(318.98,99.36)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:45.38,0:08:45.42,CARTELLO,sign,0,0,0,,{\bord0\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(318.85,98.51)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:45.42,0:08:45.46,CARTELLO,sign,0,0,0,,{\bord0\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.81,98.47)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:45.46,0:08:45.50,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.25,98.41)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:45.50,0:08:45.55,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.24,97.67)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:45.55,0:08:45.59,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.88,97.46)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:45.59,0:08:45.63,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.38,97.88)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:45.63,0:08:45.67,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.9,98.22)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:45.67,0:08:45.71,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(321.44,98.15)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:45.71,0:08:45.75,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(321.22,98.54)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:45.75,0:08:45.80,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(321.13,97.8)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:45.80,0:08:45.84,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.78,98.26)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:45.84,0:08:45.88,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.2,98.08)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:45.88,0:08:45.92,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.42,98.51)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:45.92,0:08:45.96,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320,98.79)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:45.96,0:08:46.00,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.52,98.31)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:46.00,0:08:46.05,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(320.1,98.18)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:46.05,0:08:46.09,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.86,98.19)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:08:46.09,0:08:46.13,CARTELLO,sign,0,0,0,,{\bord1\blur1\shad0\fnTimes New Roman\b1\fs20\fscx110\fscy110\c&HB3D0D8&\3c&H000106&\pos(319.21,97.84)}E se ballassi anch'io?\N\N\N\N\N\N\N\N\N\N\NCosì tutti vedrebbero quanto ho stile!
+Dialogue: 0,0:09:01.98,0:09:05.12,Default,presentatore,0,0,0,,Ringraziamo caldamente\Nil Viaggiatore che ci ha offerto
+Dialogue: 0,0:09:05.12,0:09:06.69,Default,presentatore,0,0,0,,questo grande momento d'imbarazzo!
+Dialogue: 0,0:09:06.69,0:09:08.44,Default,presentatore,0,0,0,,Il solo e unico...
+Dialogue: 0,0:09:09.12,0:09:11.56,Default,presentatore,0,0,0,,Sabba Malouki!
+Dialogue: 0,0:09:13.60,0:09:16.07,Default,Sabba,0,0,0,,Era uno dei peggiori momenti\Ndella mia vita!
+Dialogue: 0,0:09:16.34,0:09:18.24,Default,Terrence,0,0,0,,Mi spiace, ma faceva davvero ridere.
+Dialogue: 0,0:09:18.24,0:09:21.61,Default,Savane,0,0,0,,Se penso \Nche hai insistito tu per venire...
+Dialogue: 0,0:09:22.00,0:09:24.13,Default,Camelot,0,0,0,,Silenzio, signore e signori!
+Dialogue: 0,0:09:24.13,0:09:27.34,Default,Camelot,0,0,0,,È arrivato il momento\Ndella nostra portata principale!
+Dialogue: 0,0:09:27.34,0:09:30.42,Default,Camelot,0,0,0,,Preparatevi per il nostro numero speciale.
+Dialogue: 0,0:09:30.42,0:09:33.93,Default,Camelot,0,0,0,,Tra qualche secondo un semplice Sognatore\N rivivrà davanti a voi...
+Dialogue: 0,0:09:36.39,0:09:39.02,Default,Camelot,0,0,0,,il suo peggior incubo!
+Dialogue: 0,0:09:54.62,0:09:57.37,Default,Terrence,0,0,0,,Non ci credo. Conosco quella ragazza.
+Dialogue: 0,0:10:22.81,0:10:24.50,Default,Camelot,0,0,0,,Immagino l'abbiate intuito.
+Dialogue: 0,0:10:24.50,0:10:26.64,Default,Camelot,0,0,0,,Già, è proprio così.
+Dialogue: 0,0:10:26.64,0:10:29.61,Default,Camelot,0,0,0,,Questa Sognatrice\Nè con noi questa sera.
+Dialogue: 0,0:10:29.61,0:10:33.19,Default,Camelot,0,0,0,,E conto su di voi per offrirle\Nla peggior notte della sua vita!
+Dialogue: 0,0:10:33.48,0:10:35.77,Default,Camelot,0,0,0,,Fate un applauso a...
+Dialogue: 0,0:10:35.77,0:10:37.82,Default,Camelot,0,0,0,,Eeeve!
+Dialogue: 0,0:10:39.88,0:10:41.08,Default,Terrence,0,0,0,,È Eve!
+Dialogue: 0,0:10:45.92,0:10:47.52,Default,Eve,0,0,0,,Che ci faccio qui?
+Dialogue: 0,0:10:47.79,0:10:49.18,Default,Terrence,0,0,0,,È la ragazza di cui ti ho parlato.
+Dialogue: 0,0:10:49.18,0:10:51.43,Default,Terrence,0,0,0,,La miglior amica di Lydia\Nche non mi sopporta.
+Dialogue: 0,0:10:51.43,0:10:54.36,Default,Savane,0,0,0,,Beh, ho l'impressione\Nche avrai l'occasione di vendicarti.
+Dialogue: 0,0:10:54.55,0:10:55.87,Default,Camelot,0,0,0,,Guardatela!
+Dialogue: 0,0:10:55.87,0:10:56.97,Default,Camelot,0,0,0,,Potete immaginare
+Dialogue: 0,0:10:56.97,0:11:00.25,Default,Camelot,0,0,0,,quanto si sia forzata\Nper cambiare la sua immagine?
+Dialogue: 0,0:11:00.25,0:11:02.65,Default,Camelot,0,0,0,,Ma non si sfugge agli sguardi altrui!
+Dialogue: 0,0:11:02.65,0:11:04.69,Default,Camelot,0,0,0,,Malgrado tutti\Ni suoi sforzi per cambiare,
+Dialogue: 0,0:11:04.69,0:11:05.80,Default,Camelot,0,0,0,,in fondo
+Dialogue: 0,0:11:05.80,0:11:09.49,Default,Camelot,0,0,0,,resterà sempre la stessa\N ragazzina spaventata.
+Dialogue: 0,0:11:09.84,0:11:10.91,Default,Eve,0,0,0,,Ma che vai a di—
+Dialogue: 0,0:11:16.61,0:11:17.46,Default,Eve,0,0,0,,Ehi, ma...
+Dialogue: 0,0:11:17.46,0:11:18.32,Main_Top,???,0,0,0,,Su, forza!
+Dialogue: 0,0:11:18.82,0:11:21.33,Default,???,0,0,0,,Dai, in piedi! Abbiamo appena iniziato!
+Dialogue: 0,0:11:24.82,0:11:25.62,Default,Eve,0,0,0,,Non ci credo!
+Dialogue: 0,0:11:26.12,0:11:27.17,Default,Eve,0,0,0,,Dei brufoli?
+Dialogue: 0,0:11:27.54,0:11:29.96,Default,???,0,0,0,,Guardatela, è un cesso!
+Dialogue: 0,0:11:32.59,0:11:34.26,Main - Top,???,0,0,0,,Ehi, cozza!
+Dialogue: 0,0:11:34.26,0:11:35.36,Main - Top,???,0,0,0,,Grossa vacca!
+Dialogue: 0,0:11:35.36,0:11:36.59,Main - Top,???,0,0,0,,Buh, che vergogna!
+Dialogue: 0,0:11:35.84,0:11:38.09,Default,Eve,0,0,0,,Fermatevi, vi prego!
+Dialogue: 0,0:11:39.67,0:11:42.14,Default,???,0,0,0,,Non mostrarci\Nquella tua faccia orrenda!
+Dialogue: 0,0:11:42.55,0:11:44.46,Default,Sabba,0,0,0,,Ma è orribile quel che stanno facendo.
+Dialogue: 0,0:11:50.15,0:11:51.51,Default,Camelot,0,0,0,,Mostrateglielo!
+Dialogue: 0,0:11:51.51,0:11:53.98,Default,Camelot,0,0,0,,Mostratele il suo vero volto!
+Dialogue: 0,0:11:54.25,0:11:55.53,Default,???,0,0,0,,Brutta racchia!
+Dialogue: 0,0:11:55.92,0:11:57.24,Default,???,0,0,0,,Sei brutta!
+Dialogue: 0,0:11:58.21,0:12:00.62,Default,???,0,0,0,,Sei troppo brutta!
+Dialogue: 0,0:12:01.87,0:12:03.68,Default,???,0,0,0,,Che donna inguardabile!
+Dialogue: 0,0:12:05.22,0:12:06.66,Default,???,0,0,0,,Sei una vergogna!
+Dialogue: 0,0:12:09.62,0:12:11.59,Default,???,0,0,0,,Vattene, cesso!
+Dialogue: 0,0:12:14.17,0:12:16.30,Default,???,0,0,0,,Sì, grossa vacca!
+Dialogue: 0,0:12:18.11,0:12:19.40,Default,Camelot,0,0,0,,Osservate!
+Dialogue: 0,0:12:19.40,0:12:21.50,Default,Camelot,0,0,0,,Questo è il suo vero aspetto!
+Dialogue: 0,0:12:25.68,0:12:28.47,Default,Camelot,0,0,0,,Forza, signore e signori! Tutti insieme!
+Dialogue: 0,0:12:28.69,0:12:32.06,Default,Camelot,0,0,0,,Buh! Buh!
+Dialogue: 0,0:12:32.06,0:12:34.27,Default,Eve,0,0,0,,No, basta!
+Dialogue: 0,0:12:34.27,0:12:36.44,Default,Eve,0,0,0,,Non guardatemi!
+Dialogue: 0,0:12:39.72,0:12:41.65,Default,Terrence,0,0,0,,Ehi! Eve!
+Dialogue: 0,0:12:43.00,0:12:44.37,Default,Terrence,0,0,0,,Quella non sei tu!
+Dialogue: 0,0:12:44.78,0:12:47.98,Default,Terrence,0,0,0,,Chi se ne frega del passato,\Ndella tua immagine e altre cavolate!
+Dialogue: 0,0:12:48.21,0:12:50.54,Default,Terrence,0,0,0,,Dov'è la Eve che conosco io?
+Dialogue: 0,0:12:50.89,0:12:52.88,Default,Terrence,0,0,0,,Quella che spacca a lezione?
+Dialogue: 0,0:12:52.88,0:12:56.25,Default,Terrence,0,0,0,,Quella che mi fulmina ogni volta\Nche cerco di parlare a Lydia?
+Dialogue: 0,0:12:59.22,0:13:01.20,Default,Camelot,0,0,0,,Ehi, l'improvvisazione è sabato sera!
+Dialogue: 0,0:13:01.20,0:13:02.55,Default,Camelot,0,0,0,,Fermate quel tipo!
+Dialogue: 0,0:13:02.83,0:13:04.79,Default,Terrence,0,0,0,,Chi se ne frega degli sguardi altrui?!
+Dialogue: 0,0:13:04.79,0:13:06.93,Default,Terrence,0,0,0,,La Eve che conosco io\Nnon ha paura di nessuno!
+Dialogue: 0,0:13:06.93,0:13:09.00,Default,Terrence,0,0,0,,Vuoi continuare a farti calpestare?!
+Dialogue: 0,0:13:09.00,0:13:10.94,Default,Terrence,0,0,0,,Mostra a questi bastardi
+Dialogue: 0,0:13:10.94,0:13:12.19,Default,Terrence,0,0,0,,chi sei davvero!
+Dialogue: 0,0:13:29.54,0:13:31.49,Default,Eve,0,0,0,,Ehi, voi!
+Dialogue: 0,0:13:33.96,0:13:35.84,Default,Eve,0,0,0,,Chi vi credete di essere?
+Dialogue: 0,0:13:43.72,0:13:45.63,Default,Eve,0,0,0,,Mi sono battuta per diventare
+Dialogue: 0,0:13:45.63,0:13:47.18,Default,Eve,0,0,0,,quella che voglio essere!
+Dialogue: 0,0:13:47.46,0:13:49.43,Default,Eve,0,0,0,,Perché devo essere criticata?!
+Dialogue: 0,0:13:49.43,0:13:51.10,Default,Eve,0,0,0,,Che male c'è a cambiare?!
+Dialogue: 0,0:13:51.10,0:13:52.89,Default,Eve,0,0,0,,Me ne frego di quel che ero!
+Dialogue: 0,0:13:52.89,0:13:54.11,Default,Eve,0,0,0,,E soprattutto...
+Dialogue: 0,0:13:54.11,0:13:56.98,Default,Eve,0,0,0,,me ne frego di quel che pensate di me!
+Dialogue: 0,0:14:18.34,0:14:19.30,Default,Eve,0,0,0,,Eh, cosa?
+Dialogue: 0,0:14:19.30,0:14:20.91,Default,Eve,0,0,0,,Che ci faccio qui?
+Dialogue: 0,0:14:21.51,0:14:24.52,Default,Camelot,0,0,0,,Avete rovinato il mio spettacolo!
+Dialogue: 0,0:14:24.52,0:14:25.93,Default,Camelot,0,0,0,,Me la pagherete!
+Dialogue: 0,0:14:25.93,0:14:28.81,Default,Camelot,0,0,0,,A me, tecnici dello spettacolo!
+Dialogue: 0,0:14:32.70,0:14:34.48,Default,Terrence,0,0,0,,Eve, ti spiegherò tutto più tardi.
+Dialogue: 0,0:14:34.81,0:14:36.46,Default,Terrence,0,0,0,,Ma prima dobbiamo uscire di qui!
+Dialogue: 0,0:14:36.46,0:14:37.92,Default,Eve,0,0,0,,Certo, voglio scappare,
+Dialogue: 0,0:14:37.92,0:14:39.04,Default,Eve,0,0,0,,ma come?
+Dialogue: 0,0:14:41.48,0:14:42.88,Default,Eve,0,0,0,,E questo cos'è?
+Dialogue: 0,0:15:04.37,0:15:06.59,Default,Terrence,0,0,0,,Piantatela di ridere\Ndelle disgrazie altrui!
+Dialogue: 0,0:15:12.96,0:15:14.88,Default,Camelot,0,0,0,,Il mio splendido teatro!
+Dialogue: 0,0:15:14.88,0:15:17.21,Default,Camelot,0,0,0,,Guardate cos'avete fatto!
+Dialogue: 0,0:15:23.23,0:15:25.15,Default,Eve,0,0,0,,E non hai ancora visto niente!
+Dialogue: 0,0:15:49.92,0:15:51.45,Default,Eve,0,0,0,,Incredibile.
+Dialogue: 0,0:15:53.13,0:15:55.14,Default,Eve,0,0,0,,Cos'è questo braccialetto?
+Dialogue: 0,0:15:55.14,0:15:57.78,Default,Eve,0,0,0,,E che sono questi vestiti?
+Dialogue: 0,0:15:57.78,0:15:59.40,Default,Terrence,0,0,0,,Quella è la vera Eve.
+Dialogue: 0,0:15:59.68,0:16:01.90,Default,Terrence,0,0,0,,Hai vinto la tua fobia\Ndello sguardo altrui.
+Dialogue: 0,0:16:01.90,0:16:03.26,Default,Terrence,0,0,0,,Ora sei una Viaggiatrice!
+Dialogue: 0,0:16:03.26,0:16:04.11,Default,Savane,0,0,0,,Già.
+Dialogue: 0,0:16:04.11,0:16:07.53,Default,Savane,0,0,0,,E pare che il tuo potere di Viaggiatrice\Nsi manifesti con vestiti e accessori.
+Dialogue: 0,0:16:07.53,0:16:09.83,Default,Savane,0,0,0,,Anche tu sei un'invocatrice, come me.
+Dialogue: 0,0:16:09.83,0:16:12.12,Default,Savane,0,0,0,,Hai fatto uscire il martello\Ndal braccialetto, no?
+Dialogue: 0,0:16:15.53,0:16:17.63,Default,Terrence,0,0,0,,Anch'io all'inizio ero tutto confuso.
+Dialogue: 0,0:16:18.71,0:16:21.08,Default,Eve,0,0,0,,Ma che diavolo! Come hai fatto?
+Dialogue: 0,0:16:38.23,0:16:39.20,Default,Eve,0,0,0,,Quindi io
+Dialogue: 0,0:16:39.20,0:16:41.12,Default,Eve,0,0,0,,sono diventata una Viaggiatrice
+Dialogue: 0,0:16:41.12,0:16:43.43,Default,Eve,0,0,0,,in questo mondo dei sogni?
+Dialogue: 0,0:16:43.43,0:16:44.45,Default,Eve,0,0,0,,Ed è grazie a te?
+Dialogue: 0,0:16:44.45,0:16:46.78,Default,Terrence,0,0,0,,Ehm, sì... Cioè, no!
+Dialogue: 0,0:16:46.78,0:16:48.96,Default,Terrence,0,0,0,,Beh, la si potrebbe mettere\Nin questo modo,
+Dialogue: 0,0:16:48.96,0:16:51.31,Default,Terrence,0,0,0,,ma hai vinto\Nla tua paura più grande da sola.
+Dialogue: 0,0:16:51.31,0:16:52.76,Default,Terrence,0,0,0,,Io ti ho solo dato una spinta.
+Dialogue: 0,0:16:52.76,0:16:54.53,Default,Terrence,0,0,0,,Sei incredibile, Eve.
+Dialogue: 0,0:17:00.45,0:17:03.38,Default,Eve,0,0,0,,Ehi... non farti strane illusioni, ok?
+Dialogue: 0,0:17:03.38,0:17:05.42,Default,Eve,0,0,0,,Ma vedrò comunque di sdebitarmi.
+Dialogue: 0,0:17:10.63,0:17:11.70,Default,Eve,0,0,0,,Terre—
+Dialogue: 0,0:17:13.10,0:17:15.35,Default,Savane,0,0,0,,Sono al liceo. Si svegliano presto.
+Dialogue: 0,0:17:15.35,0:17:17.47,Default,Savane,0,0,0,,E io devo occuparmi\Ndella mia sorellina...
+Dialogue: 0,0:17:19.38,0:17:21.51,Default,Sabba,0,0,0,,Mah, io dormirò ancora un po'.
+Dialogue: 0,0:17:22.95,0:17:24.72,Default,Sabba,0,0,0,,Io studio Arti Visive.
+Dialogue: 0,0:17:24.72,0:17:26.40,Default,Sabba,0,0,0,,Non ho orari!
+Dialogue: 0,0:17:38.03,0:17:38.91,Default,Michel,0,0,0,,Senti...
+Dialogue: 0,0:17:39.30,0:17:41.52,Default,Michel,0,0,0,,Figo che tu sia venuta.
+Dialogue: 0,0:17:41.52,0:17:45.00,Default,Michel,0,0,0,,Ma non pensavo avresti\Nportato tutta 'sta gente.
+Dialogue: 0,0:17:45.00,0:17:47.31,Default,Eve,0,0,0,,Che c'è, vuoi che\Nmandi via i miei amici?
+Dialogue: 0,0:17:47.31,0:17:48.86,Default,Michel,0,0,0,,No, non volevo dire questo.
+Dialogue: 0,0:17:48.86,0:17:50.44,Default,Eve,0,0,0,,E allora è tutto a posto!
+Dialogue: 0,0:17:50.44,0:17:52.09,Default,Eve,0,0,0,,Forza, Michel, alla tua!
+Dialogue: 0,0:17:55.44,0:17:57.13,Default,Eve,0,0,0,,È il massimo!
+Dialogue: 0,0:17:57.13,0:17:59.54,Default,Eve,0,0,0,,Erano anni che non mi\Npermettevo di mangiare schifezze.
+Dialogue: 0,0:17:59.54,0:18:00.68,Default,Eve,0,0,0,,Togliamo il divieto!
+Dialogue: 0,0:18:00.68,0:18:01.61,Default,Michel,0,0,0,,Capisco...
+Dialogue: 0,0:18:04.01,0:18:05.63,Default,Savane,0,0,0,,Simpatica la tua collega.
+Dialogue: 0,0:18:05.63,0:18:07.28,Default,Savane,0,0,0,,Ha invitato pure noi.
+Dialogue: 0,0:18:07.28,0:18:08.49,Default,Savane,0,0,0,,Dai, facciamoci un drink!
+Dialogue: 0,0:18:08.49,0:18:10.88,Default,Sabba,0,0,0,,Ah, vedi, ti piaccio.
+Dialogue: 0,0:18:10.88,0:18:12.19,Default,Sabba,0,0,0,,Lo sapevo.
+Dialogue: 0,0:18:15.88,0:18:17.08,Default,Savane,0,0,0,,Non tu, bello.
+Dialogue: 0,0:18:17.08,0:18:18.74,Default,Terrence,0,0,0,,Eh, perché?
+Dialogue: 0,0:18:18.74,0:18:20.20,Default,Savane,0,0,0,,Va' a parlarle.
+Dialogue: 0,0:18:21.10,0:18:22.04,Default,Terrence,0,0,0,,A chi?
+Dialogue: 0,0:18:22.55,0:18:23.60,Default,Terrence,0,0,0,,Oh, scusa.
+Dialogue: 0,0:18:23.60,0:18:24.92,Default,Lydia,0,0,0,,Terrence?
+Dialogue: 0,0:18:24.92,0:18:26.42,Default,Lydia,0,0,0,,Che ci fai qui?
+Dialogue: 0,0:18:26.93,0:18:29.30,Default,Terrence,0,0,0,,Ehm... Ecco, io...
+Dialogue: 0,0:18:29.57,0:18:31.30,Default,Terrence,0,0,0,,sono un amico di Patrick.
+Dialogue: 0,0:18:31.30,0:18:32.76,Default,Lydia,0,0,0,,Michel, vuoi dire?
+Dialogue: 0,0:18:32.76,0:18:34.39,Default,Terrence,0,0,0,,Michel... Patrick...
+Dialogue: 0,0:18:34.39,0:18:35.43,Default,Terrence,0,0,0,,Si somigliano in effetti.
+Dialogue: 0,0:18:41.18,0:18:43.02,Default,Eve,0,0,0,,Ora smettetela di fare\Ni piantagrane!
+Dialogue: 0,0:18:43.40,0:18:44.41,Default,???,0,0,0,,Che succede?
+Dialogue: 0,0:18:44.41,0:18:45.35,Default,???,0,0,0,,Stanno litigando?
+Dialogue: 0,0:18:47.57,0:18:48.57,Default,Eve,0,0,0,,Ecco qua!
+Dialogue: 0,0:18:49.11,0:18:51.69,Default,Eve,0,0,0,,Non rientrate\Nfinché non avete risolto la storia.
+Dialogue: 0,0:18:52.69,0:18:56.11,Default,Eve,0,0,0,,Il primo che li disturba se la dovrà\Nvedere con me, capito?
+Dialogue: 0,0:19:12.21,0:19:14.00,Default,Lydia,0,0,0,,Perché non mi hai chiamata?
+Dialogue: 0,0:19:12.21,0:19:14.00,Main_Overlap,Terrence,0,0,0,,Perché non mi hai chiamato?
+Dialogue: 0,0:19:33.36,0:19:36.40,Default,Savane,0,0,0,,Se ti rompe vederli assieme,\Nperché hai fatto da intermediaria?
+Dialogue: 0,0:19:37.98,0:19:40.43,Default,Eve,0,0,0,,L'amore non è per quelli come noi.
+Dialogue: 0,0:19:46.32,0:19:48.64,Default,Eve,0,0,0,,Ma loro due son fatti per stare assieme.
+Dialogue: 0,0:19:49.92,0:19:52.14,Default,Eve,0,0,0,,Basta guardarli, è lampante.
+Dialogue: 0,0:19:52.71,0:19:54.71,Default,Eve,0,0,0,,E poi Lydia aveva ragione.
+Dialogue: 0,0:19:57.51,0:19:58.64,Default,Eve,0,0,0,,Terrence
+Dialogue: 0,0:19:58.64,0:20:00.00,Default,Eve,0,0,0,,è un bravo ragazzo.
+Dialogue: 0,0:20:03.00,0:20:04.02,Default,Savane,0,0,0,,Già.
+Dialogue: 0,0:20:09.15,0:20:12.00,Default,Eve,0,0,0,,E farò di tutto perché Lydia sia felice.
+Dialogue: 0,0:20:13.48,0:20:14.46,Default,Eve,0,0,0,,A loro!
+Dialogue: 0,0:20:14.46,0:20:15.37,Default,Savane,0,0,0,,Sì!
+Dialogue: 0,0:20:18.12,0:20:19.52,Default,Lydia,0,0,0,,Allora è così...
+Dialogue: 0,0:20:19.52,0:20:21.37,Default,Lydia,0,0,0,,non hai ricevuto il mio messaggio?
+Dialogue: 0,0:20:23.66,0:20:26.86,Default,Lydia,0,0,0,,Sono felice che\Nnon ci siano più malintesi tra noi.
+Dialogue: 0,0:20:28.20,0:20:29.30,Default,Terrence,0,0,0,,Sì,
+Dialogue: 0,0:20:29.78,0:20:30.93,Default,Terrence,0,0,0,,anche io.
+Dialogue: 0,0:20:38.52,0:20:40.82,Default,Lydia,0,0,0,,Ah...  Allora...
+Dialogue: 0,0:20:41.10,0:20:42.51,Default,Lydia,0,0,0,,rientriamo?
+Dialogue: 0,0:20:53.93,0:20:55.19,Default,Terrence,0,0,0,,Ecco...
+Dialogue: 0,0:21:01.38,0:21:02.61,Default,Terrence,0,0,0,,Lydia...
+Dialogue: 0,0:21:02.61,0:21:05.20,Default,Terrence,0,0,0,,Ehm, posso baciarti?
+Dialogue: 0,0:21:10.49,0:21:11.60,Default,Lydia,0,0,0,,Certo.
+
