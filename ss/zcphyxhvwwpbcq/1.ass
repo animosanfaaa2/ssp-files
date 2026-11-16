@@ -1,0 +1,260 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
+Style: Q0,Roboto Medium,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q1,Arial,27,&H00009BE2,&H00009BE2,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q2,Roboto Medium,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q3,Arial,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q4,Roboto Medium,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q5,Arial,40,&H00CD42A6,&H00CD42A6,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q6,Arial,27,&H0023BBD6,&H0023BBD6,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:04.00,0:00:06.58,Q0,,0,0,0,,Do it! Do it!
+Dialogue: 1,0:00:06.58,0:00:09.29,Q0,,0,0,0,,That shit's on lock!
+Dialogue: 1,0:00:09.29,0:00:12.21,Q0,,0,0,0,,Do it! Do it!
+Dialogue: 1,0:00:12.21,0:00:14.83,Q0,,0,0,0,,That shit's on lock!
+Dialogue: 1,0:00:15.00,0:00:17.75,Q0,,0,0,0,,Getting sloppy, like it, love it
+Dialogue: 1,0:00:17.75,0:00:20.38,Q0,,0,0,0,,When you want it go and get it
+Dialogue: 1,0:00:20.38,0:00:23.42,Q0,,0,0,0,,Try to hold back and you'll explode
+Dialogue: 1,0:00:23.42,0:00:24.79,Q0,,0,0,0,,I'm just fucking with you?
+Dialogue: 1,0:00:24.79,0:00:25.92,Q0,,0,0,0,,No, for real!
+Dialogue: 1,0:00:26.17,0:00:28.88,Q0,,0,0,0,,Everybody, everybody, everybody does it
+Dialogue: 1,0:00:28.88,0:00:30.13,Q0,,0,0,0,,Do it? Do it?
+Dialogue: 1,0:00:30.13,0:00:31.25,Q0,,0,0,0,,Do what?!
+Dialogue: 1,0:00:31.54,0:00:32.83,Q0,,0,0,0,,Let's do something
+Dialogue: 1,0:00:32.83,0:00:34.38,Q0,,0,0,0,,Then once we do
+Dialogue: 1,0:00:34.38,0:00:37.13,Q0,,0,0,0,,It's a gushing, dangerous adventure
+Dialogue: 1,0:00:37.13,0:00:38.21,Q0,,0,0,0,,Do what?
+Dialogue: 1,0:00:38.21,0:00:39.92,Q0,,0,0,0,,When you say you don't care anymore
+Dialogue: 1,0:00:39.92,0:00:42.79,Q0,,0,0,0,,You wanna do it right away, huh?
+Dialogue: 1,0:00:42.79,0:00:43.92,Q0,,0,0,0,,Let's do something
+Dialogue: 1,0:00:43.92,0:00:45.38,Q0,,0,0,0,,And then what?
+Dialogue: 1,0:00:45.38,0:00:46.63,Q0,,0,0,0,,Let's do something
+Dialogue: 1,0:00:46.63,0:00:48.13,Q0,,0,0,0,,What do we do then?
+Dialogue: 1,0:00:48.13,0:00:50.29,Q0,,0,0,0,,What now? We've gotta do it
+Dialogue: 1,0:00:50.29,0:00:52.88,Q0,,0,0,0,,Right? Let's do it!
+Dialogue: 1,0:00:52.88,0:00:54.13,Q0,,0,0,0,,Let's do it!
+Dialogue: 1,0:00:54.13,0:00:56.38,Q0,,0,0,0,,Do it! Do it!
+Dialogue: 1,0:00:56.38,0:00:58.83,Q0,,0,0,0,,That shit's on lock!
+Dialogue: 1,0:01:02.75,0:01:04.08,Q2,,0,0,0,,Goblins...
+Dialogue: 1,0:01:04.08,0:01:05.58,Q2,,0,0,0,,Though individually weak,
+Dialogue: 1,0:01:05.58,0:01:07.88,Q2,,0,0,0,,these low-level monsters use teamwork
+Dialogue: 1,0:01:07.88,0:01:10.50,Q2,,0,0,0,,and cunning to make matters\Ndifficult for parties.
+Dialogue: 1,0:01:17.08,0:01:19.33,Q2,,0,0,0,,What's going on here?
+Dialogue: 1,0:01:23.71,0:01:25.92,Q2,,0,0,0,,A goblin extermination?
+Dialogue: 1,0:01:26.25,0:01:30.33,Q2,,0,0,0,,Surely this is too simple of\Na quest for us to take on.
+Dialogue: 1,0:01:30.33,0:01:34.58,Q2,,0,0,0,,Even stuff like this helps out\Nthe townsfolk, Amona!
+Dialogue: 1,0:01:34.58,0:01:38.21,Q2,,0,0,0,,You know, this is because you go around\Ntaking on quests without even thinking!
+Dialogue: 1,0:01:39.46,0:01:42.33,Q2,,0,0,0,,You mustn't let your guard down\Njust because we're dealing with goblins.
+Dialogue: 1,0:01:42.33,0:01:46.71,Q2,,0,0,0,,On rare occasion, clever goblins\Ncapable of using magic will crop up.
+Dialogue: 1,0:01:46.71,0:01:48.33,Q2,,0,0,0,,With one in charge,
+Dialogue: 1,0:01:48.33,0:01:51.17,Q2,,0,0,0,,they can be enough of a threat to give\Neven a mid-ranking party trouble.
+Dialogue: 1,0:01:51.38,0:01:53.25,Q2,,0,0,0,,I get that.
+Dialogue: 1,0:01:53.25,0:01:55.96,Q2,,0,0,0,,I just can't stand how noisy they are.
+Dialogue: 1,0:01:56.29,0:02:00.54,Q2,,0,0,0,,I hate goblins too, because\Nmy nickname used to be "Goblin!"
+Dialogue: 1,0:02:00.54,0:02:02.63,Q2,,0,0,0,,What did you do to earn that?
+Dialogue: 1,0:02:07.75,0:02:09.29,Q2,,0,0,0,,Here they come!
+Dialogue: 1,0:02:14.38,0:02:15.58,Q2,,0,0,0,,Huh...?
+Dialogue: 1,0:02:18.29,0:02:21.50,Q2,,0,0,0,,Is this some sort of new trick to get us to\Nlet our guards down before they attack us?
+Dialogue: 1,0:02:21.50,0:02:24.29,Q2,,0,0,0,,But they went and showed\Nthemselves all on their own.
+Dialogue: 1,0:02:24.29,0:02:26.54,Q2,,0,0,0,,Allow me to provide a translation.
+Dialogue: 1,0:02:27.38,0:02:29.58,Q2,,0,0,0,,Horned person,
+Dialogue: 1,0:02:29.58,0:02:32.13,Q2,,0,0,0,,we have awaited you.
+Dialogue: 1,0:02:32.13,0:02:34.33,Q2,,0,0,0,,Oh goddess of goblins!
+Dialogue: 1,0:02:34.63,0:02:36.00,Q2,,0,0,0,,Horned person?
+Dialogue: 1,0:02:36.00,0:02:37.67,Q2,,0,0,0,,Goddess of goblins?
+Dialogue: 1,0:02:47.88,0:02:50.04,Q2,,0,0,0,,What's the deal here, Goddess?
+Dialogue: 1,0:02:50.04,0:02:51.71,Q2,,0,0,0,,Don't call me "Goddess!"
+Dialogue: 1,0:02:51.96,0:02:54.50,Q2,,0,0,0,,They went and said it all on their own.
+Dialogue: 1,0:02:54.71,0:02:57.08,Q2,,0,0,0,,I have no idea what's going on here either.
+Dialogue: 1,0:02:57.08,0:02:58.88,Q2,,0,0,0,,I explain.
+Dialogue: 1,0:03:00.67,0:03:02.38,Q2,,0,0,0,,My Goddess...
+Dialogue: 1,0:03:02.88,0:03:04.21,Q2,,0,0,0,,A goblin mage?!
+Dialogue: 1,0:03:04.21,0:03:06.21,Q2,,0,0,0,,And it can speak our language?!
+Dialogue: 1,0:03:06.21,0:03:09.92,Q2,,0,0,0,,We have legend passed down in this land.
+Dialogue: 1,0:03:09.92,0:03:15.63,Q2,,0,0,0,,The goddess of goblins,\Ntake shape of human with horn.
+Dialogue: 1,0:03:15.63,0:03:18.75,Q2,,0,0,0,,She arrive here with familiar at side.
+Dialogue: 1,0:03:19.54,0:03:23.17,Q2,,0,0,0,,You exactly as legend say,
+Dialogue: 1,0:03:23.17,0:03:27.58,Q2,,0,0,0,,the goddess who lead us.
+Dialogue: 1,0:03:28.04,0:03:30.46,Q2,,0,0,0,,Amona, you goddess for real?!
+Dialogue: 1,0:03:30.46,0:03:31.96,Q2,,0,0,0,,I'm telling you, I'm not!
+Dialogue: 1,0:03:31.96,0:03:34.13,Q2,,0,0,0,,And why are you talking like them too?!
+Dialogue: 1,0:03:34.46,0:03:36.00,Q2,,0,0,0,,Now, now.
+Dialogue: 1,0:03:36.00,0:03:39.04,Q2,,0,0,0,,There's no need to be so harsh, Master.
+Dialogue: 1,0:03:39.04,0:03:41.50,Q2,,0,0,0,,Why are you just casually\Nletting them revere you?!
+Dialogue: 1,0:03:41.83,0:03:45.17,Q2,,0,0,0,,Being the goblin goddess isn't so bad.
+Dialogue: 1,0:03:45.17,0:03:47.83,Q2,,0,0,0,,Didn't you say that you hate goblins?
+Dialogue: 1,0:03:47.83,0:03:50.38,Q2,,0,0,0,,Just calm down and give it some thought.
+Dialogue: 1,0:03:50.38,0:03:51.29,Q2,,0,0,0,,Hmm?
+Dialogue: 1,0:03:51.29,0:03:55.71,Q2,,0,0,0,,If you become their goddess, you can be\Ncrowned the leader of all these goblins.
+Dialogue: 1,0:03:55.71,0:03:56.92,Q2,,0,0,0,,In other words...
+Dialogue: 1,0:03:56.92,0:03:57.79,Q4,,0,0,0,,Aw, you gob gobs!
+Dialogue: 1,0:03:57.79,0:03:58.58,Q4,,0,0,0,,Aw, you gob gobs!
+Dialogue: 1,0:03:57.79,0:03:58.58,Q2,,0,0,0,,You'll be the resident best girl\Nof the goblin sausage fest
+Dialogue: 1,0:03:58.58,0:04:00.54,Q4,,0,0,0,,Do your best for me, my darlings!
+Dialogue: 1,0:03:58.58,0:04:00.54,Q2,,0,0,0,,You'll be the resident best girl\Nof the goblin sausage fest
+Dialogue: 1,0:04:00.54,0:04:01.75,Q4,,0,0,0,,Do your best for me, my darlings!
+Dialogue: 1,0:04:00.54,0:04:01.75,Q2,,0,0,0,,who has them wrapped\Naround your little finger!
+Dialogue: 1,0:04:01.75,0:04:02.63,Q2,,0,0,0,,who has them wrapped\Naround your little finger!
+Dialogue: 1,0:04:02.63,0:04:04.29,Q2,,0,0,0,,That sounds disgusting!
+Dialogue: 1,0:04:04.79,0:04:07.50,Q2,,0,0,0,,And if you can get other goblins\Nto follow you too,
+Dialogue: 1,0:04:07.50,0:04:10.21,Q2,,0,0,0,,you'll stop them from\Nhurting people entirely.
+Dialogue: 1,0:04:10.21,0:04:12.54,Q2,,0,0,0,,Love and peace!
+Dialogue: 1,0:04:12.54,0:04:15.25,Q2,,0,0,0,,Hey, we came here to exterminate goblins,
+Dialogue: 1,0:04:15.25,0:04:17.92,Q2,,0,0,0,,so if we don't defeat them\Nwe won't get paid.
+Dialogue: 1,0:04:21.33,0:04:23.88,Q2,,0,0,0,,Well, I guess it'd be fine\Nas long as nobody finds out.
+Dialogue: 1,0:04:23.88,0:04:25.79,Q2,,0,0,0,,That convinced you?!
+Dialogue: 1,0:04:25.79,0:04:28.96,Q2,,0,0,0,,Amona! Why are you letting\Ngoblins win you over?!
+Dialogue: 1,0:04:28.96,0:04:32.38,Q2,,0,0,0,,I know, I know. I was just joking.
+Dialogue: 1,0:04:32.75,0:04:36.33,Q2,,0,0,0,,There's no point in being\Npopular with goblins. Geez...
+Dialogue: 1,0:04:37.00,0:04:38.75,Q2,,0,0,0,,Are you trying to say...
+Dialogue: 1,0:04:38.75,0:04:42.25,Q2,,0,0,0,,that I could only ever charm goblins?
+Dialogue: 1,0:04:42.25,0:04:44.58,Q2,,0,0,0,,Ah, no! That wasn't my intention...
+Dialogue: 1,0:04:44.83,0:04:49.67,Q2,,0,0,0,,I know I can't be that popular,\Nsince I'm a Shin and all.
+Dialogue: 1,0:04:50.08,0:04:53.08,Q2,,0,0,0,,But with no horns and regular eyes,\NI'd be hot stuff.
+Dialogue: 1,0:04:53.08,0:04:56.04,Q2,,0,0,0,,Y-you're popular even as you are!
+Dialogue: 1,0:04:56.04,0:04:57.58,Q2,,0,0,0,,With me, if no one else!
+Dialogue: 1,0:04:57.58,0:04:58.67,Q2,,0,0,0,,Huh?!
+Dialogue: 1,0:05:01.33,0:05:04.33,Q2,,0,0,0,,I-if it's just one person,\Nthat doesn't count as being popular!
+Dialogue: 1,0:05:04.33,0:05:06.54,Q2,,0,0,0,,And what do you mean, "if no one else?!"
+Dialogue: 1,0:05:06.54,0:05:07.83,Q2,,0,0,0,,S-sorry...
+Dialogue: 1,0:05:09.33,0:05:10.33,Q4,,0,0,0,,In other words, you're trying to say
+Dialogue: 1,0:05:10.33,0:05:10.75,Q2,,0,0,0,,Goblins have a strong sense of smell,
+Dialogue: 1,0:05:10.33,0:05:10.75,Q4,,0,0,0,,In other words, you're trying to say
+Dialogue: 1,0:05:10.75,0:05:12.54,Q2,,0,0,0,,Goblins have a strong sense of smell,
+Dialogue: 1,0:05:10.75,0:05:12.54,Q4,,0,0,0,,I'm not popular with\Nanyone but you, aren't you?!
+Dialogue: 1,0:05:12.54,0:05:17.46,Q2,,0,0,0,,and this highly concentrated aroma\Nelicited an intense reaction!
+Dialogue: 1,0:05:21.00,0:05:22.08,Q2,,0,0,0,,Dark Summoner.
+Dialogue: 1,0:05:25.13,0:05:26.04,Q2,,0,0,0,,After become their resident best girl,\NAmona takes charge of the goblins.
+Dialogue: 1,0:05:26.04,0:05:27.88,Q2,,0,0,0,,After become their resident best girl,\NAmona takes charge of the goblins.
+Dialogue: 1,0:05:26.04,0:05:27.88,Q4,,0,0,0,,Hey, my darlings!
+Dialogue: 1,0:05:27.88,0:05:28.88,Q2,,0,0,0,,After become their resident best girl,\NAmona takes charge of the goblins.
+Dialogue: 1,0:05:28.88,0:05:29.33,Q2,,0,0,0,,After become their resident best girl,\NAmona takes charge of the goblins.
+Dialogue: 1,0:05:28.88,0:05:29.33,Q4,,0,0,0,,Follow along now!
+Dialogue: 1,0:05:29.33,0:05:31.21,Q2,,0,0,0,,Now she is hailed as their idol,\NLovely Amona,
+Dialogue: 1,0:05:29.33,0:05:31.21,Q4,,0,0,0,,Follow along now!
+Dialogue: 1,0:05:31.21,0:05:32.29,Q2,,0,0,0,,Now she is hailed as their idol,\NLovely Amona,
+Dialogue: 1,0:05:32.29,0:05:34.21,Q2,,0,0,0,,putting her on the verge of\Nachieving world hegemony!
+Dialogue: 1,0:05:34.21,0:05:35.50,Q2,,0,0,0,,Stop spreading fake rumors!
+Dialogue: 1,0:05:35.50,0:05:37.17,Q2,,0,0,0,,And what the heck do you mean,\N"Lovely Amona?!"
+Dialogue: 1,0:05:37.17,0:05:38.42,Q2,,0,0,0,,Ah...
+Dialogue: 1,0:05:38.79,0:05:42.54,Q2,,0,0,0,,I don't care if I'm the goddess of goblins\Nor their eccentric beautiful queen or whatever.
+Dialogue: 1,0:05:42.54,0:05:43.67,Q2,,0,0,0,,Wait, are you adding more?
+Dialogue: 1,0:05:43.67,0:05:46.38,Q2,,0,0,0,,I've got no intention of just accepting\Nwhat goblins tell me!
+Dialogue: 1,0:05:46.38,0:05:48.75,Q2,,0,0,0,,Let's hurry up and handle them,\Nthen be done with this!
+Dialogue: 1,0:05:48.75,0:05:49.38,Q2,,0,0,0,,Hmm?
+Dialogue: 1,0:05:50.42,0:05:53.25,Q2,,0,0,0,,What's this? The goblins are arguing!
+Dialogue: 1,0:05:53.83,0:05:58.75,Q2,,0,0,0,,Is there perhaps a faction opposed to\Nmaking Amona their goddess?
+Dialogue: 1,0:05:58.75,0:06:02.17,Q2,,0,0,0,,How ridiculous. They're the ones who\Nwent and worshipped me all on their own.
+Dialogue: 1,0:06:02.17,0:06:04.25,Q2,,0,0,0,,Imp, translate for us.
+Dialogue: 1,0:06:04.25,0:06:06.88,Q2,,0,0,0,,Okay. Let's see...
+Dialogue: 1,0:06:07.17,0:06:10.17,Q2,,0,0,0,,The goddess must be virgin!\NShe can't date anybody!
+Dialogue: 1,0:06:10.17,0:06:12.04,Q2,,0,0,0,,Who cares if she's a virgin or not!
+Dialogue: 1,0:06:12.04,0:06:13.92,Q2,,0,0,0,,I respect her right to privacy!
+Dialogue: 1,0:06:16.42,0:06:19.96,Q2,,0,0,0,,You really accept the goddess\Nrutting with some guy?!
+Dialogue: 1,0:06:19.96,0:06:22.21,Q2,,0,0,0,,As long as the goddess is happy, it's fine!
+Dialogue: 1,0:06:22.21,0:06:24.92,Q2,,0,0,0,,Cut it with the lip service!\NYou're fooling yourself!
+Dialogue: 1,0:06:25.25,0:06:28.58,Q2,,0,0,0,,Sounds like they're having a real gross\Nargument about your fapability.
+Dialogue: 1,0:06:29.42,0:06:32.04,Q2,,0,0,0,,I believe in our goddess\Nwhether or not she's a virgin!
+Dialogue: 1,0:06:32.04,0:06:35.75,Q2,,0,0,0,,You lot are more worried about\Nvirginity than divinity!
+Dialogue: 1,0:06:35.75,0:06:38.83,Q2,,0,0,0,,It's perfectly natural to want\Nyour fave to be a virgin!
+Dialogue: 1,0:06:38.83,0:06:43.00,Q2,,0,0,0,,You're just turning a blind eye to the truth\Nbecause you're terrified she may be sullied!
+Dialogue: 1,0:06:43.00,0:06:45.13,Q2,,0,0,0,,Did their vocabulary suddenly improve?
+Dialogue: 1,0:06:45.42,0:06:47.46,Q2,,0,0,0,,This is disgusting, so stop translating!
+Dialogue: 1,0:06:47.46,0:06:49.92,Q2,,0,0,0,,What's a virgin? Is it something important?
+Dialogue: 1,0:06:50.42,0:06:53.83,Q2,,0,0,0,,Calm down, you lot!
+Dialogue: 1,0:06:54.92,0:06:59.38,Q2,,0,0,0,,Chastity of goddess is not for us to discuss!
+Dialogue: 1,0:06:59.38,0:07:03.00,Q2,,0,0,0,,Besides, you're only letting\Nimagination run too wild!
+Dialogue: 1,0:07:04.83,0:07:07.96,Q2,,0,0,0,,My apologies for rudeness, Goddess.
+Dialogue: 1,0:07:07.96,0:07:12.71,Q2,,0,0,0,,To say something so baseless,\Nclaiming you not virgin...
+Dialogue: 1,0:07:23.96,0:07:25.25,Q2,,0,0,0,,Elder!
+Dialogue: 1,0:07:26.67,0:07:29.63,Q2,,0,0,0,,You reek of lewd relationship!
+Dialogue: 1,0:07:29.63,0:07:32.04,Q2,,0,0,0,,You lech, defiling our goddess!
+Dialogue: 1,0:07:32.04,0:07:34.25,Q2,,0,0,0,,That's one heck of an about face!
+Dialogue: 1,0:07:34.25,0:07:37.21,Q2,,0,0,0,,To protect goddess,
+Dialogue: 1,0:07:37.21,0:07:40.79,Q2,,0,0,0,,we must drag her away from\Nthis filthy bastard!
+Dialogue: 1,0:07:43.00,0:07:45.25,Q2,,0,0,0,,There were this many of them?!
+Dialogue: 1,0:07:45.25,0:07:48.33,Q2,,0,0,0,,Hey, cut it out you guys! That's an order!
+Dialogue: 1,0:07:48.67,0:07:50.83,Q2,,0,0,0,,Silence! I said silence!
+Dialogue: 1,0:07:50.83,0:07:52.92,Q2,,0,0,0,,You rude goblins!
+Dialogue: 1,0:07:53.00,0:07:54.29,Q2,,0,0,0,,Imp?!
+Dialogue: 1,0:07:54.67,0:07:57.42,Q2,,0,0,0,,You appear to be furious about\NMaster having sex with
+Dialogue: 1,0:07:57.42,0:07:59.96,Q2,,0,0,0,,a man of questionable origins...
+Dialogue: 1,0:07:59.96,0:08:02.08,Q2,,0,0,0,,However, you are sorely mistaken!
+Dialogue: 1,0:08:02.08,0:08:04.79,Q2,,0,0,0,,Allow me to inform you!
+Dialogue: 1,0:08:05.04,0:08:07.83,Q2,,0,0,0,,Now then, please watch this footage.
+Dialogue: 1,0:08:07.83,0:08:08.96,Q2,,0,0,0,,Footage?!
+Dialogue: 1,0:08:11.79,0:08:13.33,Q2,,0,0,0,,Have a seat.
+Dialogue: 1,0:08:13.33,0:08:14.88,Q2,,0,0,0,,Do you want something to drink?
+Dialogue: 1,0:08:14.88,0:08:16.96,Q2,,0,0,0,,I-I'm fine.
+Dialogue: 1,0:08:19.79,0:08:24.08,Q2,,0,0,0,,I bought this a bit ago.\NWhat do you think?
+Dialogue: 1,0:08:24.08,0:08:25.25,Q2,,0,0,0,,A-Amona!
+Dialogue: 1,0:08:25.25,0:08:27.00,Q2,,0,0,0,,Y-you dummy! You're clinging too tight!
+Dialogue: 1,0:08:29.92,0:08:31.92,Q2,,0,0,0,,What the heck is that?!
+Dialogue: 1,0:08:32.21,0:08:35.71,Q2,,0,0,0,,It's fine if your fave gets down and\Ndirty with someone, isn't it?
+Dialogue: 1,0:08:35.71,0:08:37.67,Q2,,0,0,0,,Because if you can get off to it,
+Dialogue: 1,0:08:37.67,0:08:39.17,Q2,,0,0,0,,then it's a win-win!
+Dialogue: 1,0:08:39.17,0:08:40.42,Q2,,0,0,0,,Pure evil!
+Dialogue: 1,0:08:40.42,0:08:43.46,Q2,,0,0,0,,See! Even the goblins are grossed out!
+Dialogue: 1,0:08:46.08,0:08:49.04,Q2,,0,0,0,,That human not goddess...
+Dialogue: 1,0:08:49.04,0:08:52.13,Q2,,0,0,0,,We believe in legend for long time,
+Dialogue: 1,0:08:52.13,0:08:54.67,Q2,,0,0,0,,but no salvation coming...
+Dialogue: 1,0:09:00.96,0:09:03.75,Q2,,0,0,0,,Go live peacefully deep in the forest.
+Dialogue: 1,0:09:03.75,0:09:06.96,Q2,,0,0,0,,And never appear before humans again.
+Dialogue: 1,0:09:06.96,0:09:09.83,Q2,,0,0,0,,Hey, Haru, don't go sympathizing\Nwith monsters.
+Dialogue: 1,0:09:09.83,0:09:14.71,Q2,,0,0,0,,But they have their lives too,\Nand a god they believe in.
+Dialogue: 1,0:09:15.00,0:09:19.67,Q2,,0,0,0,,When I look at it like that,\NI can't see them as any old monsters.
+Dialogue: 1,0:09:19.67,0:09:23.38,Q2,,0,0,0,,At the very least, don't you think\Nwe could spare them?
+Dialogue: 1,0:09:23.38,0:09:24.25,Q2,,0,0,0,,Also...
+Dialogue: 1,0:09:24.67,0:09:27.00,Q2,,0,0,0,,Could you tell me?
+Dialogue: 1,0:09:27.88,0:09:30.50,Q2,,0,0,0,,What's a virgin?
+Dialogue: 1,0:09:37.25,0:09:41.25,Q2,,0,0,0,,The true goddess! Our savior!
+Dialogue: 1,0:09:41.25,0:09:43.38,Q2,,0,0,0,,Her body is pure and unsullied!
+Dialogue: 1,0:09:43.38,0:09:45.08,Q2,,0,0,0,,She's not used goods like the last one!
+Dialogue: 1,0:09:45.08,0:09:46.38,Q2,,0,0,0,,I hate used goods!
+Dialogue: 1,0:09:45.08,0:09:46.38,Q4,,0,0,0,,Unsullied!
+Dialogue: 1,0:09:46.38,0:09:48.04,Q2,,0,0,0,,Pure is the best!
+Dialogue: 1,0:10:00.83,0:10:05.33,Q2,,0,0,0,,On that day, the goblins\Nof the forest vanished.
+Dialogue: 1,0:10:05.83,0:10:09.08,Q2,,0,0,0,,Wh-what place sells stuff like this?
+Dialogue: 1,0:10:09.38,0:10:11.42,Q2,,0,0,0,,What does that matter?
+Dialogue: 1,0:10:11.42,0:10:15.08,Q2,,0,0,0,,Don't you have anything else to say?
+Dialogue: 1,0:10:15.08,0:10:17.46,Q2,,0,0,0,,O-of course! You're beautiful!
+Dialogue: 1,0:10:17.46,0:10:18.83,Q2,,0,0,0,,Come on...
+Dialogue: 1,0:10:20.33,0:10:23.75,Q2,,0,0,0,,the bulge in your pants here\Nis saying something else.
+Dialogue: 1,0:10:23.96,0:10:27.42,Q2,,0,0,0,,You've got me wearing\Npractically nothing here.
+Dialogue: 1,0:10:29.00,0:10:31.58,Q2,,0,0,0,,S-so sexy!
+Dialogue: 1,0:10:32.46,0:10:35.08,Q2,,0,0,0,,Amona, you're so incredibly lewd!
+Dialogue: 1,0:10:35.38,0:10:38.58,Q2,,0,0,0,,I'm always crazy for you!
+Dialogue: 1,0:10:41.38,0:10:43.88,Q2,,0,0,0,,I can't help seeing you in a lewd light!
+Dialogue: 1,0:10:44.33,0:10:46.50,Q2,,0,0,0,,E-enough!
+Dialogue: 1,0:10:46.50,0:10:48.38,Q2,,0,0,0,,Just focus!
+Dialogue: 1,0:10:55.29,0:10:58.92,Q2,,0,0,0,,I sure did capture this well, didn't I?
+Dialogue: 1,0:10:59.13,0:11:00.54,Q2,,0,0,0,,Erase that!
+Dialogue: 1,0:11:07.58,0:11:09.75,Q0,,0,0,0,,Love or hate? I don't know
+Dialogue: 1,0:11:09.75,0:11:11.88,Q0,,0,0,0,,What do I want to do?\NI want to stay by your side
+Dialogue: 1,0:11:11.88,0:11:15.88,Q0,,0,0,0,,To never let go of that warmth
+Dialogue: 1,0:11:16.83,0:11:21.29,Q0,,0,0,0,,It's still too soon? I want to see you,\Nto know those feelings
+Dialogue: 1,0:11:21.29,0:11:24.71,Q0,,0,0,0,,But now isn't the time to kiss
+Dialogue: 1,0:11:26.21,0:11:28.46,Q0,,0,0,0,,Can't the two of us just stay as we are?
+Dialogue: 1,0:11:28.46,0:11:30.79,Q0,,0,0,0,,Is just touching not enough?
+Dialogue: 1,0:11:30.79,0:11:34.79,Q0,,0,0,0,,I embraced you during that\Nwarm time we shared
+Dialogue: 1,0:11:36.25,0:11:42.00,Q0,,0,0,0,,I want you, all of you, and so
+Dialogue: 1,0:11:42.00,0:11:45.00,Q0,,0,0,0,,I'm fine with loving you
+Dialogue: 1,0:11:45.54,0:11:51.38,Q0,,0,0,0,,Not anyone else, just you, but I can't say it
+Dialogue: 1,0:11:51.38,0:11:54.96,Q0,,0,0,0,,I've buried that "I love you" deep inside
+Dialogue: 1,0:11:54.96,0:12:00.83,Q0,,0,0,0,,Someday I'll say it,\Nbut for now it's still a secret
+Dialogue: 0,0:01:02.25,0:01:06.92,Q1,,0,0,0,,{\pos(486.4,604.8)}{\an7}Episode 7: The Dark Summoner and the Resident Best Girl
+Dialogue: 0,0:01:21.08,0:01:23.50,Q3,,0,0,0,,{\pos(460.8,417.6)}{\an7}Several hours prior
+Dialogue: 0,0:06:36.71,0:06:45.13,Q5,,0,0,0,,{\pos(601.6,180)}{\an7}Objection!
+Dialogue: 0,0:07:48.67,0:07:52.92,Q6,,0,0,0,,{\pos(486.4,475.2)}{\an7}Lewdness
+
