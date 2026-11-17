@@ -1,0 +1,451 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Default Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Overlap Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.53,0:00:04.30,Default,SOTA,0,0,0,,You... you look great... \Nin your swimsuit.
+Dialogue: 0,0:00:21.13,0:00:22.13,Default,MADOKA,0,0,0,,What's that?
+Dialogue: 0,0:00:23.10,0:00:24.75,Default,MADOKA,0,0,0,,A teru teru bozu?
+Dialogue: 0,0:00:25.07,0:00:26.09,Default,MADOKA,0,0,0,,Wait!
+Dialogue: 0,0:00:26.09,0:00:27.24,Default,MADOKA,0,0,0,,Is that Koharu?!
+Dialogue: 0,0:00:27.24,0:00:29.50,Default,MADOKA,0,0,0,,What the heck is she doing?
+Dialogue: 0,0:00:40.47,0:00:42.48,Default,SIGN,0,0,0,,{\an8\fnTimes New Roman\shad0\fs22\c&HC4C826&\bord0\b1\fad(482,140)}The {\c&H9657E9&}Cold Sato-san {\c&HC4C826&}is Only {\c&H9657E9&}Sweet {\c&HC4C826&}to {\c&H9657E9&}Me
+Dialogue: 0,0:02:01.01,0:02:04.01,Default,SIGN,0,0,0,,{\an8\fs26\t(0,3000,\fs22)\shad0\bord9\c&H5E8C79&\frz336\frx14\fry0\move(464.667,47.667,452,80,0,2988)\3c&H90FFD5&}Sato-san! Are you okay?
+Dialogue: 1,0:02:01.01,0:02:04.01,Default,SIGN,0,0,0,,{\an8\fs26\t(0,3000,\fs22)\shad0\bord19\c&H5E8C79&\frz336\frx14\fry0\3c&H90FFD5&\move(410.667,144.334,405.334,160.667,27,2988)}Where are you?
+Dialogue: 0,0:02:01.01,0:02:04.01,Default,SIGN,0,0,0,,{\p1\bord0\an8\shad0\c&H90FFD5&\frz336\frx14\fry0\move(408.5,142,410,152.667,27,2988)}m 0 0 l 205 0 l 205 40 l 0 40
+Dialogue: 1,0:02:01.01,0:02:04.01,Default,SIGN,0,0,0,,{\an8\fs26\t(0,3000,\fs22)\shad0\bord9\c&H5E8C79&\frx14\fry0\3c&H90FFD5&\frz335.2\move(413.334,269.667,408,264,27,2988)}Are you okay?
+Dialogue: 0,0:02:01.14,0:02:05.14,Default,SIGN,0,0,0,,{\fad(527,471)\p1\bord0\an8\shad0\c&HF1A377&\frz359.9\fscx28\fscy2\pos(147.5,272.333)}m 0 0 l 230 0 l 230 215 l 0 215
+Dialogue: 0,0:02:01.14,0:02:05.14,Default,SIGN,0,0,0,,{\fad(527,471)\p1\bord0\an8\shad0\c&HF1A377&\frz359.9\fscx113\fscy2\pos(156,349)}m 0 0 l 130 0 l 130 215 l 0 215
+Dialogue: 1,0:02:01.14,0:02:05.14,Default,SIGN,0,0,0,,{\fad(527,471)\fnArial\fs16\bord1\shad1\c&HC28AC7&\4c&HFFF5FF&\3c&HF5F5F5&\pos(148,271.333)}Episode 7
+Dialogue: 1,0:02:01.14,0:02:05.14,Default,SIGN,0,0,0,,{\fad(527,471)\fnArial\fs20\bord1\shad1\c&HC28AC7&\4c&HFFF5FF&\3c&HF5F5F5&\pos(156,348)}The Lovers' Lock
+Dialogue: 0,0:02:07.33,0:02:09.05,Default,SHIZUKU,0,0,0,,Come on, cheer up!
+Dialogue: 0,0:02:09.05,0:02:12.07,Default,SHIZUKU,0,0,0,,Gosh, get over it already!
+Dialogue: 0,0:02:13.28,0:02:16.95,Default,SHIZUKU,0,0,0,,You can't expect happiness to find you \Nwhen you're sulking like that!
+Dialogue: 0,0:02:16.95,0:02:19.37,Default,SOTA,0,0,0,,What am I supposed to do?
+Dialogue: 0,0:02:19.37,0:02:21.82,Default,MAYO,0,0,0,,Shizuku, I think you've \Nhad enough to drink.
+Dialogue: 0,0:02:21.82,0:02:25.84,Default,SOTA,0,0,0,,After I assured her many times she \Ndoesn't have to be in a swimsuit...
+Dialogue: 0,0:02:26.20,0:02:28.83,Default,SOTA,0,0,0,,And just like that...
+Dialogue: 0,0:02:29.02,0:02:33.16,Default,SOTA,0,0,0,,I caught a glimpse of her... bare skin!
+Dialogue: 0,0:02:34.36,0:02:36.61,Default,SHIZUKU,0,0,0,,You're overreacting!
+Dialogue: 0,0:02:35.72,0:02:37.54,Default Top,MAYO,0,0,0,,Shizuku, quit it.
+Dialogue: 0,0:02:37.54,0:02:39.34,Default,SHIZUKU,0,0,0,,"Bare skin"?
+Dialogue: 0,0:02:39.34,0:02:40.84,Default,SOTA,0,0,0,,I'm gonna go find her.
+Dialogue: 0,0:02:40.84,0:02:45.02,Default,SHIZUKU,0,0,0,,What?! Seriously? \NDon't baby her like that!
+Dialogue: 0,0:02:45.61,0:02:46.49,Default,SOTA,0,0,0,,But...
+Dialogue: 0,0:02:46.49,0:02:50.72,Default,SHIZUKU,0,0,0,,You're the one who convinced \Nher overprotective dad, right?
+Dialogue: 0,0:02:51.06,0:02:55.64,Default,SHIZUKU,0,0,0,,If you go looking for her now, \Nyou'd be acting just like her dad!
+Dialogue: 0,0:02:55.64,0:02:58.36,Default,MAYO,0,0,0,,Being dependent on someone \Ncan become a habit, you know?
+Dialogue: 0,0:02:59.02,0:03:00.11,Default,MAYO,0,0,0,,Don't worry.
+Dialogue: 0,0:03:00.45,0:03:02.59,Default,MAYO,0,0,0,,She'll come back once she calms down.
+Dialogue: 0,0:03:02.59,0:03:05.12,Default,MAYO,0,0,0,,And plus, even if you went to her now,
+Dialogue: 0,0:03:05.12,0:03:07.54,Default,MAYO,0,0,0,,Koharu-chan will just run away again.
+Dialogue: 0,0:03:08.45,0:03:11.29,Default,MAYO,0,0,0,,Just give her some space for now.
+Dialogue: 0,0:03:11.29,0:03:12.95,Default,SOTA,0,0,0,,You're right...
+Dialogue: 0,0:03:13.32,0:03:14.92,Default,SHIZUKU,0,0,0,,Yup, yup!
+Dialogue: 0,0:03:15.47,0:03:18.76,Italics,SOTA,0,0,0,,Mayo-san must be right.
+Dialogue: 0,0:03:18.76,0:03:20.92,Italics,SOTA,0,0,0,,I can't really face her right now.
+Dialogue: 0,0:03:21.80,0:03:26.32,Italics,SOTA,0,0,0,,I can't stop thinking \Nabout how her skin felt...
+Dialogue: 0,0:03:27.10,0:03:29.94,Italics,SOTA,0,0,0,,I need to get rid of these thoughts!
+Dialogue: 0,0:03:35.99,0:03:40.19,Default,RINKA,0,0,0,,Did you come all the way \Nto the beach just to mope like that?
+Dialogue: 0,0:03:40.62,0:03:43.59,Default,RINKA,0,0,0,,That's such a waste, Oshio-san!
+Dialogue: 0,0:03:43.59,0:03:44.69,Default,SOTA,0,0,0,,Rinka-chan...
+Dialogue: 0,0:03:44.69,0:03:45.65,Default,SOTA,0,0,0,,Whoa!
+Dialogue: 0,0:03:45.65,0:03:46.78,Default,SOTA,0,0,0,,H-H-Hey!
+Dialogue: 0,0:03:47.00,0:03:48.20,Default,SOTA,0,0,0,,Rinka-chan!
+Dialogue: 0,0:03:53.60,0:03:56.23,Default,RINKA,0,0,0,,Please teach me, too!
+Dialogue: 0,0:03:56.23,0:03:57.51,Default,RINKA,0,0,0,,Teach me how to...
+Dialogue: 0,0:03:57.51,0:03:58.98,Default,RINKA,0,0,0,,enjoy the beach!
+Dialogue: 0,0:04:00.71,0:04:02.47,Default,SOTA,0,0,0,,Rinka-chan...
+Dialogue: 0,0:04:09.82,0:04:10.82,Default,MADOKA,0,0,0,,Hey!
+Dialogue: 0,0:04:10.82,0:04:13.16,Default,MADOKA,0,0,0,,What are you doing alone over here?
+Dialogue: 0,0:04:13.16,0:04:14.27,Default,KOHARU,0,0,0,,Madoka-chan...
+Dialogue: 0,0:04:14.61,0:04:15.80,Default,KOHARU,0,0,0,,Aren't you working?
+Dialogue: 0,0:04:15.80,0:04:17.22,Default,MADOKA,0,0,0,,I'm on a break.
+Dialogue: 0,0:04:17.22,0:04:19.53,Default,MADOKA,0,0,0,,So, I was at the observation deck...
+Dialogue: 0,0:04:19.53,0:04:22.98,Default,MADOKA,0,0,0,,It's got the best view \Nof the beach, you know?
+Dialogue: 0,0:04:22.98,0:04:24.88,Default,KOHARU,0,0,0,,You mean... you saw everything?
+Dialogue: 0,0:04:24.88,0:04:26.41,Default,MADOKA,0,0,0,,I sure did.
+Dialogue: 0,0:04:26.66,0:04:28.34,Default,MADOKA,0,0,0,,You were runnin' around like crazy.
+Dialogue: 0,0:04:30.61,0:04:32.13,Default,MADOKA,0,0,0,,Here, eat this.
+Dialogue: 0,0:04:32.13,0:04:33.41,Default,KOHARU,0,0,0,,Eat what?
+Dialogue: 0,0:04:34.45,0:04:36.25,Default,KOHARU,0,0,0,,It's green... soft serve?
+Dialogue: 0,0:04:36.25,0:04:38.43,Default,MADOKA,0,0,0,,It's called Midorikawa soft serve.
+Dialogue: 0,0:04:38.43,0:04:40.66,Default,MADOKA,0,0,0,,Lame name, right?
+Dialogue: 0,0:04:40.66,0:04:42.50,Default,MADOKA,0,0,0,,It's the specialty item at our café.
+Dialogue: 0,0:04:42.50,0:04:43.71,Default,KOHARU,0,0,0,,It's pretty.
+Dialogue: 0,0:04:45.30,0:04:46.76,Default,KOHARU,0,0,0,,It's salty and sweet?
+Dialogue: 0,0:04:46.96,0:04:49.62,Default,KOHARU,0,0,0,,What an unusual taste. But it's delicious!
+Dialogue: 0,0:04:49.62,0:04:51.48,Default,MADOKA,0,0,0,,It's got salt in it.
+Dialogue: 0,0:04:51.48,0:04:53.58,Default,MADOKA,0,0,0,,Salt from Midorikawa's ocean.
+Dialogue: 0,0:04:53.58,0:04:54.48,Default,KOHARU,0,0,0,,I see...
+Dialogue: 0,0:04:54.48,0:04:58.28,Italics,KOHARU,0,0,0,,Could this be the soft serve \NOshio-kun was talking about?
+Dialogue: 0,0:04:59.21,0:05:02.19,Default,MADOKA,0,0,0,,You were thinking about \NSota just now, weren't you?
+Dialogue: 0,0:05:02.49,0:05:04.88,Default,KOHARU,0,0,0,,H-How did you know that?!
+Dialogue: 0,0:05:04.88,0:05:06.74,Default,KOHARU,0,0,0,,Are you a psychic, Madoka-chan?
+Dialogue: 0,0:05:06.74,0:05:08.61,Default,MADOKA,0,0,0,,It's pretty obvious.
+Dialogue: 0,0:05:08.61,0:05:10.91,Default,MADOKA,0,0,0,,So, what the heck happened?
+Dialogue: 0,0:05:12.92,0:05:16.56,Default,KOHARU,0,0,0,,Oshio-kun saw me...
+Dialogue: 0,0:05:16.56,0:05:20.12,Default,KOHARU,0,0,0,,in the swimsuit I bought \Nespecially for that purpose...
+Dialogue: 0,0:05:20.40,0:05:24.41,Default,KOHARU,0,0,0,,But I got too embarrassed when \Nhe saw me in it, so I just ran away.
+Dialogue: 0,0:05:24.41,0:05:26.22,Default,MADOKA,0,0,0,,That makes no sense.
+Dialogue: 0,0:05:26.66,0:05:28.30,Default,KOHARU,0,0,0,,I know, right?
+Dialogue: 0,0:05:28.30,0:05:33.32,Default,KOHARU,0,0,0,,I was so happy when Oshio-kun \Ninvited me to the beach.
+Dialogue: 0,0:05:33.72,0:05:37.32,Default,KOHARU,0,0,0,,I want to see the same things, \Neat the same food,
+Dialogue: 0,0:05:37.59,0:05:41.46,Default,KOHARU,0,0,0,,do the same activities and share \Nall sorts of experiences with him.
+Dialogue: 0,0:05:41.46,0:05:46.28,Default,KOHARU,0,0,0,,By going to the beach, I thought \Nwe could be more like a couple.
+Dialogue: 0,0:05:47.09,0:05:48.16,Default,KOHARU,0,0,0,,But...
+Dialogue: 0,0:05:48.38,0:05:51.20,Default,KOHARU,0,0,0,,I let that chance slip away myself.
+Dialogue: 0,0:05:51.20,0:05:53.58,Default,KOHARU,0,0,0,,I really am hopeless.
+Dialogue: 0,0:05:53.58,0:05:56.16,Default,MADOKA,0,0,0,,Yeah, you seriously are. Just the worst.
+Dialogue: 0,0:05:56.16,0:05:58.87,Default,MADOKA,0,0,0,,I can't believe it. Shame on you.
+Dialogue: 0,0:05:59.79,0:06:01.12,Default,MADOKA,0,0,0,,Huh? What's that face for?
+Dialogue: 0,0:06:01.12,0:06:03.99,Default,MADOKA,0,0,0,,Did you think I was \Ngonna lick your wounds?
+Dialogue: 0,0:06:03.99,0:06:07.51,Default,KOHARU,0,0,0,,Honestly, I was kinda expecting it.
+Dialogue: 0,0:06:07.76,0:06:11.37,Default,KOHARU,0,0,0,,I never expected you \Nto twist the knife like that.
+Dialogue: 0,0:06:11.37,0:06:13.17,Default,MADOKA,0,0,0,,Well, I'm sorry.
+Dialogue: 0,0:06:13.17,0:06:17.83,Default,MADOKA,0,0,0,,I just can't stand women \Ncommiserating with each other.
+Dialogue: 0,0:06:17.83,0:06:19.85,Default,MADOKA,0,0,0,,I can keep going if you want.
+Dialogue: 0,0:06:19.85,0:06:20.40,Default,MADOKA,0,0,0,,You're bad!
+Dialogue: 0,0:06:20.40,0:06:22.07,Default,MADOKA,0,0,0,,Koharu, you're completely pathetic!
+Dialogue: 0,0:06:22.07,0:06:24.38,Default,MADOKA,0,0,0,,This one's 100% your fault.
+Dialogue: 0,0:06:24.38,0:06:25.73,Default,MADOKA,0,0,0,,You don't deserve any sympathy!
+Dialogue: 0,0:06:26.26,0:06:27.68,Default,MADOKA,0,0,0,,Listen.
+Dialogue: 0,0:06:28.15,0:06:30.54,Default,MADOKA,0,0,0,,You're not the only \None who wants to share
+Dialogue: 0,0:06:30.54,0:06:33.26,Default,MADOKA,0,0,0,,something with someone \Nthey like, you know.
+Dialogue: 0,0:06:34.16,0:06:36.68,Default,MADOKA,0,0,0,,Sota feels the same way, too.
+Dialogue: 0,0:06:36.68,0:06:39.37,Default,MADOKA,0,0,0,,That's what it means \Nto have mutual feelings, isn't it?
+Dialogue: 0,0:06:39.37,0:06:41.37,Default,KOHARU,0,0,0,,Oshio-kun feels the same way?
+Dialogue: 0,0:06:42.87,0:06:44.92,Default,MADOKA,0,0,0,,So don't run!
+Dialogue: 0,0:06:44.92,0:06:48.16,Default,MADOKA,0,0,0,,If you're too embarrassed to be seen \Nin your swimsuit, just wear a towel!
+Dialogue: 0,0:06:48.16,0:06:50.42,Default,MADOKA,0,0,0,,If you can't look at his face, \Njust hide yours!
+Dialogue: 0,0:06:50.42,0:06:52.92,Default,MADOKA,0,0,0,,If you can't say anything, \Njust keep quiet!
+Dialogue: 0,0:06:52.92,0:06:55.80,Default,MADOKA,0,0,0,,Whatever you do, don't run from this.
+Dialogue: 0,0:06:55.80,0:06:58.68,Default,MADOKA,0,0,0,,As long as you're by his side, \Nyour feelings will reach him eventually.
+Dialogue: 0,0:06:59.45,0:07:00.93,Italics,KOHARU,0,0,0,,Madoka-chan...
+Dialogue: 0,0:07:03.03,0:07:05.40,Default,MADOKA,0,0,0,,I can't believe you made me \Nsay something so cringe.
+Dialogue: 0,0:07:05.67,0:07:07.13,Default,KOHARU,0,0,0,,Madoka-chan...
+Dialogue: 0,0:07:07.13,0:07:08.56,Default,MADOKA,0,0,0,,Oh, right.
+Dialogue: 0,0:07:09.03,0:07:11.57,Default,MADOKA,0,0,0,,Here. Might as well give you this, too.
+Dialogue: 0,0:07:11.57,0:07:12.75,Default,KOHARU,0,0,0,,A lock?
+Dialogue: 0,0:07:12.76,0:07:14.20,Default,MADOKA,0,0,0,,It's a padlock.
+Dialogue: 0,0:07:14.48,0:07:18.44,Default,MADOKA,0,0,0,,If you write both your names on this \Nand hang it on the observation deck fence,
+Dialogue: 0,0:07:18.44,0:07:20.71,Default,MADOKA,0,0,0,,they say you'll be together forever.
+Dialogue: 0,0:07:20.71,0:07:22.58,Default,MADOKA,0,0,0,,You know, the usual\Nlovey-dovey stuff...
+Dialogue: 0,0:07:22.58,0:07:25.20,Default,MADOKA,0,0,0,,You're into that kind of \Nfairytale nonsense, right, Koharu?
+Dialogue: 0,0:07:25.67,0:07:27.20,Default,KOHARU,0,0,0,,Why...
+Dialogue: 0,0:07:27.20,0:07:29.85,Default,KOHARU,0,0,0,,Why are you doing all of this for me?
+Dialogue: 0,0:07:29.85,0:07:32.70,Default,KOHARU,0,0,0,,We only met today...
+Dialogue: 0,0:07:33.25,0:07:35.60,Default,MADOKA,0,0,0,,Well... Um...
+Dialogue: 0,0:07:35.60,0:07:39.48,Default,MADOKA,0,0,0,,Aren't we friends now that \Nwe talked about our love lives?
+Dialogue: 0,0:07:44.11,0:07:44.95,Default,MADOKA,0,0,0,,Whoa!
+Dialogue: 0,0:07:44.95,0:07:48.90,Default,MADOKA,0,0,0,,What're you doing? That's cold! \NYou got soft serve on me!
+Dialogue: 0,0:07:47.52,0:07:52.48,Default Top,KOHARU,0,0,0,,Madoka-chan! Thank you so, so much!
+Dialogue: 0,0:07:48.90,0:07:51.21,Default,MADOKA,0,0,0,,Stop! Give me some space!
+Dialogue: 0,0:07:51.21,0:07:52.48,Default,MADOKA,0,0,0,,It's cold, too!
+Dialogue: 0,0:07:52.48,0:07:54.48,Default,MADOKA,0,0,0,,Come on! Let go!
+Dialogue: 0,0:07:54.48,0:07:55.37,Default,MADOKA,0,0,0,,You listenin'?
+Dialogue: 0,0:07:56.07,0:07:58.05,Italics,KOHARU,0,0,0,,How could I forget?
+Dialogue: 0,0:07:58.83,0:08:01.68,Italics,KOHARU,0,0,0,,If I feel embarrassed, \NOshio-kun does, too.
+Dialogue: 0,0:08:02.12,0:08:05.12,Italics,KOHARU,0,0,0,,If I'm having fun, he's having fun, too.
+Dialogue: 0,0:08:07.58,0:08:09.24,Italics,KOHARU,0,0,0,,I want to see Oshio-kun!
+Dialogue: 0,0:08:10.80,0:08:12.66,Italics,KOHARU,0,0,0,,I want to stare at the ocean together.
+Dialogue: 0,0:08:12.66,0:08:15.17,Italics,KOHARU,0,0,0,,I want to eat green soft serve together.
+Dialogue: 0,0:08:15.17,0:08:18.09,Italics,KOHARU,0,0,0,,I want to be all lovey-dovey together!
+Dialogue: 0,0:08:18.09,0:08:22.56,Italics,KOHARU,0,0,0,,And I want to brag about\N my wonderful friend!
+Dialogue: 0,0:08:28.53,0:08:30.69,Italics,KOHARU,0,0,0,,That was way too embarrassing...
+Dialogue: 0,0:08:30.69,0:08:31.90,Default,COLLEGE STUDENT A,0,0,0,,Hey, miss!
+Dialogue: 0,0:08:31.90,0:08:32.52,Default,KOHARU,0,0,0,,Ouch.
+Dialogue: 0,0:08:32.52,0:08:33.97,Default,COLLEGE STUDENT A,0,0,0,,Are you all right?
+Dialogue: 0,0:08:34.69,0:08:37.91,Default,COLLEGE STUDENT A,0,0,0,,You fell right in front of us.
+Dialogue: 0,0:08:37.91,0:08:40.33,Default,COLLEGE STUDENT A,0,0,0,,I had to ask if you're okay.
+Dialogue: 0,0:08:40.73,0:08:43.59,Default,COLLEGE STUDENT A,0,0,0,,What? Are you in a hurry or something?
+Dialogue: 0,0:08:43.59,0:08:45.98,Italics,KOHARU,0,0,0,,He smells like alcohol...
+Dialogue: 0,0:08:46.42,0:08:49.68,Default,KOHARU,0,0,0,,Th-Thank you for checking on me...
+Dialogue: 0,0:08:49.68,0:08:51.93,Default,KOHARU,0,0,0,,Sorry, I have to go now.
+Dialogue: 0,0:08:51.93,0:08:54.55,Default,COLLEGE STUDENT A,0,0,0,,Wait, aren't you that...
+Dialogue: 0,0:08:54.55,0:08:57.39,Default,COLLEGE STUDENT A,0,0,0,,Pancake girl! It's been a while!
+Dialogue: 0,0:08:56.71,0:08:58.02,Default Top,COLLEGE STUDENT C,0,0,0,,Seriously? That's crazy.
+Dialogue: 0,0:09:02.94,0:09:04.69,Default,COLLEGE STUDENT B,0,0,0,,No way. What a coincidence!
+Dialogue: 0,0:09:04.69,0:09:06.12,Default,COLLEGE STUDENT C,0,0,0,,Are you here alone?
+Dialogue: 0,0:09:06.12,0:09:07.93,Default,COLLEGE STUDENT C,0,0,0,,Were you waiting \Nfor someone to hit on you?
+Dialogue: 0,0:09:08.20,0:09:13.19,Italics,KOHARU,0,0,0,,No... I want to say no, but... I can't...
+Dialogue: 0,0:09:13.19,0:09:16.56,Default Top,COLLEGE STUDENT C,0,0,0,,Perfect timing!\NWe've got drinks over there.
+Dialogue: 0,0:09:13.76,0:09:17.44,Italics,KOHARU,0,0,0,,I'm scared... I'm scared... No... No!
+Dialogue: 0,0:09:16.56,0:09:17.45,Default Top,COLLEGE STUDENT B,0,0,0,,Let's go.
+Dialogue: 0,0:09:17.59,0:09:19.48,Italics,KOHARU,0,0,0,,I'm scared... No...
+Dialogue: 0,0:09:19.48,0:09:22.28,Italics,KOHARU,0,0,0,,I'm scared... I'm scared... I'm scared...
+Dialogue: 0,0:09:22.80,0:09:24.24,Italics,KOHARU,0,0,0,,Someone help!
+Dialogue: 0,0:09:24.24,0:09:26.04,Default,SOTA,0,0,0,,Please stop harassing her.
+Dialogue: 0,0:09:30.93,0:09:33.66,Default,KOHARU,0,0,0,,Oshio-kun...?
+Dialogue: 0,0:09:43.76,0:09:45.08,Default,MAYO,0,0,0,,Rinka-chan.
+Dialogue: 0,0:09:45.72,0:09:47.54,Default,MAYO,0,0,0,,Were you okay with that?
+Dialogue: 0,0:09:48.84,0:09:52.73,Default,RINKA,0,0,0,,When someone rejects you \Nthat clearly, what else can you do?
+Dialogue: 0,0:09:52.98,0:09:55.87,Flashback Italics,SOTA,0,0,0,,I'm gonna go look for Sato-san after all.
+Dialogue: 0,0:09:56.97,0:10:01.68,Default,RINKA,0,0,0,,Koharu was the only thing on Oshio-san's \Nmind even though she wasn't there.
+Dialogue: 0,0:10:02.75,0:10:05.24,Default,RINKA,0,0,0,,Now I'm just getting really frustrated.
+Dialogue: 0,0:10:05.24,0:10:07.20,Default,RINKA,0,0,0,,Since we came all the way to the beach,
+Dialogue: 0,0:10:07.20,0:10:11.06,Default,RINKA,0,0,0,,I might as well try \Nhitting on guys, right?
+Dialogue: 0,0:10:12.17,0:10:14.86,Default,MAYO,0,0,0,,Don't get sunburned, Rinka-chan.
+Dialogue: 0,0:10:15.13,0:10:17.45,Default,MAYO,0,0,0,,You've got beautiful skin, you know?
+Dialogue: 0,0:10:19.81,0:10:22.40,Default,RINKA,0,0,0,,You always see right \Nthrough me, Mayo-san.
+Dialogue: 0,0:10:22.95,0:10:25.84,Default,RINKA,0,0,0,,I have feelings for Oshio-san.
+Dialogue: 0,0:10:25.84,0:10:28.08,Default,RINKA,0,0,0,,I lied earlier.
+Dialogue: 0,0:10:28.08,0:10:30.94,Default,RINKA,0,0,0,,I really do like Oshio-san.
+Dialogue: 0,0:10:30.94,0:10:33.98,Default,RINKA,0,0,0,,Even if he has no interest in me...
+Dialogue: 0,0:10:33.98,0:10:36.98,Default,MAYO,0,0,0,,Rinka-chan, you don't cry, huh?
+Dialogue: 0,0:10:37.27,0:10:39.40,Default,RINKA,0,0,0,,Cry? No way.
+Dialogue: 0,0:10:39.40,0:10:43.75,Default,RINKA,0,0,0,,If I cry, that's like \Nadmitting my defeat.
+Dialogue: 0,0:10:44.00,0:10:46.37,Default,RINKA,0,0,0,,If anything, instead of giving up...
+Dialogue: 0,0:10:46.68,0:10:49.90,Default,RINKA,0,0,0,,I'm going to confess my feelings \Nto Oshio-san next time!
+Dialogue: 0,0:10:51.25,0:10:53.20,Default,COLLEGE STUDENT A,0,0,0,,Hey, it's you!
+Dialogue: 0,0:10:53.20,0:10:55.59,Default,COLLEGE STUDENT A,0,0,0,,The server from last time!
+Dialogue: 0,0:10:56.21,0:10:57.61,Default,COLLEGE STUDENT C,0,0,0,,Yeah, I remember you!
+Dialogue: 0,0:10:57.61,0:11:00.05,Default,COLLEGE STUDENT A,0,0,0,,Well, there aren't any restrictions here
+Dialogue: 0,0:11:00.05,0:11:02.24,Default,COLLEGE STUDENT A,0,0,0,,and you have no right \Nto tell us what to do!
+Dialogue: 0,0:11:02.24,0:11:03.20,Default,COLLEGE STUDENT A,0,0,0,,Got that?
+Dialogue: 0,0:11:04.22,0:11:06.97,Default,SOTA,0,0,0,,Actually... I do have that right.
+Dialogue: 0,0:11:08.50,0:11:09.86,Default,SOTA,0,0,0,,She's my girlfriend.
+Dialogue: 0,0:11:11.67,0:11:12.87,Default,KOHARU,0,0,0,,O...
+Dialogue: 0,0:11:14.56,0:11:16.81,Default,KOHARU,0,0,0,,Oshio-kun...
+Dialogue: 0,0:11:19.85,0:11:21.95,Default,COLLEGE STUDENT A,0,0,0,,You're so cool, part-timer!
+Dialogue: 0,0:11:24.57,0:11:27.57,Default,COLLEGE STUDENT A,0,0,0,,Dude... You're such a pest.
+Dialogue: 0,0:11:31.12,0:11:33.16,Default,REN,0,0,0,,Hold it!
+Dialogue: 0,0:11:33.16,0:11:34.26,Default,REN,0,0,0,,Hey...
+Dialogue: 0,0:11:34.26,0:11:36.75,Default,REN,0,0,0,,Hey, hey, hey, hey!
+Dialogue: 0,0:11:36.75,0:11:37.88,Default,REN,0,0,0,,Hey!
+Dialogue: 0,0:11:37.88,0:11:40.63,Default,REN,0,0,0,,Sota-kun, it {\i1}is{\i0} you!
+Dialogue: 0,0:11:43.92,0:11:46.67,Default,REN,0,0,0,,It's been a long time, dude!
+Dialogue: 0,0:11:47.40,0:11:50.40,Default,REN,0,0,0,,Don't talk. Just play along.
+Dialogue: 0,0:11:52.06,0:11:53.92,Default,REN,0,0,0,,Man, what a coincidence.
+Dialogue: 0,0:11:53.92,0:11:56.23,Default,REN,0,0,0,,I'm here with my buddies, too.
+Dialogue: 0,0:11:56.23,0:11:58.28,Default,REN,0,0,0,,Let's all sync up.
+Dialogue: 0,0:11:58.28,0:12:00.32,Default,REN,0,0,0,,Sound good? All right.
+Dialogue: 0,0:12:00.77,0:12:01.79,Default,REN,0,0,0,,Huh?
+Dialogue: 0,0:12:02.59,0:12:05.44,Default,REN,0,0,0,,Hey... You got a problem?
+Dialogue: 0,0:12:05.72,0:12:06.59,Default,COLLEGE STUDENT A,0,0,0,,What?
+Dialogue: 0,0:12:07.16,0:12:09.29,Default,COLLEGE STUDENT A,0,0,0,,Hey, who the heck are you?
+Dialogue: 0,0:12:09.49,0:12:10.49,Italics,SOTA,0,0,0,,Ren!
+Dialogue: 0,0:12:14.95,0:12:16.52,Default,COLLEGE STUDENT A,0,0,0,,Ouch!
+Dialogue: 0,0:12:18.88,0:12:20.04,Default,KOHARU,0,0,0,,Leo!
+Dialogue: 0,0:12:22.71,0:12:23.89,Default Top,COLLEGE STUDENT A,0,0,0,,That hurt...
+Dialogue: 0,0:12:22.71,0:12:23.90,Default,SOTA,0,0,0,,Leo!
+Dialogue: 0,0:12:23.89,0:12:24.91,Default,COLLEGE STUDENT C,0,0,0,,You okay?
+Dialogue: 0,0:12:24.89,0:12:26.44,Default,COLLEGE STUDENT A,0,0,0,,Damn cat...
+Dialogue: 0,0:12:26.46,0:12:27.22,Default,COLLEGE STUDENT B,0,0,0,,What?
+Dialogue: 0,0:12:27.40,0:12:28.08,Default,SOTA,0,0,0,,Huh?
+Dialogue: 0,0:12:28.39,0:12:29.72,Default,COLLEGE STUDENT A,0,0,0,,What's going on?
+Dialogue: 0,0:12:28.39,0:12:29.72,Default Top,COLLEGE STUDENT B,0,0,0,,S-Something's not right...
+Dialogue: 0,0:12:30.27,0:12:31.74,Default,MADOKA,0,0,0,,Hey!
+Dialogue: 0,0:12:31.74,0:12:34.79,Default,MADOKA,0,0,0,,What are you guys doing to my Leo?!
+Dialogue: 0,0:12:34.79,0:12:37.52,Default,MADOKA,0,0,0,,You jerks!
+Dialogue: 0,0:12:48.10,0:12:50.84,Default,MADOKA,0,0,0,,If you're gonna run, don't even start!
+Dialogue: 0,0:12:48.11,0:12:51.66,Default Top,COLLEGE STUDENT A,0,0,0,,She's gonna kill us!
+Dialogue: 0,0:12:51.66,0:12:53.66,Default,MADOKA,0,0,0,,Hey, Koharu. You good?
+Dialogue: 0,0:12:54.24,0:12:55.67,Default,KOHARU,0,0,0,,Madoka-chan...
+Dialogue: 0,0:12:55.67,0:12:57.54,Default,MADOKA,0,0,0,,What happened?
+Dialogue: 0,0:12:57.54,0:12:59.55,Default,MADOKA,0,0,0,,Did you get hurt?
+Dialogue: 0,0:13:00.27,0:13:01.51,Default,KOHARU,0,0,0,,Madoka-chan...
+Dialogue: 0,0:13:01.88,0:13:03.17,Default,KOHARU,0,0,0,,Madoka-chan...
+Dialogue: 0,0:13:03.17,0:13:05.51,Default,KOHARU,0,0,0,,You were scarier than \Nthose college guys.
+Dialogue: 0,0:13:05.51,0:13:06.21,Default,KOHARU,0,0,0,,Ouch!
+Dialogue: 0,0:13:06.64,0:13:09.09,Default,MADOKA,0,0,0,,You've got some guts, \NSota. I'm surprised.
+Dialogue: 0,0:13:09.75,0:13:11.40,Default,SOTA,0,0,0,,Murasaki-san...
+Dialogue: 0,0:13:13.09,0:13:14.90,Default,SOTA,0,0,0,,Thank you so much.
+Dialogue: 0,0:13:14.90,0:13:16.47,Default,SOTA,0,0,0,,I really didn't know what to do.
+Dialogue: 0,0:13:16.47,0:13:19.48,Default,MADOKA,0,0,0,,Really? Thought you had it \Nlocked down.
+Dialogue: 0,0:13:19.96,0:13:21.33,Italics,KOHARU,0,0,0,,I see...
+Dialogue: 0,0:13:21.33,0:13:23.98,Italics,KOHARU,0,0,0,,Oshio-kun was scared, too.
+Dialogue: 0,0:13:24.25,0:13:26.48,Italics,KOHARU,0,0,0,,But he still tried to save me...
+Dialogue: 0,0:13:27.01,0:13:28.42,Italics,KOHARU,0,0,0,,Oshio-kun...
+Dialogue: 0,0:13:29.95,0:13:30.62,Default,SOTA,0,0,0,,Huh?!
+Dialogue: 0,0:13:30.62,0:13:33.07,Default,REN,0,0,0,,See, Sota? Impressed?
+Dialogue: 0,0:13:33.07,0:13:36.42,Default,REN,0,0,0,,Those college dudes were acting \Nso tough in the beginning.
+Dialogue: 0,0:13:36.42,0:13:37.42,Default,REN,0,0,0,,They're so lame!
+Dialogue: 0,0:13:37.76,0:13:39.79,Default,SOTA,0,0,0,,You're feeling better all of a sudden?
+Dialogue: 0,0:13:39.79,0:13:41.68,Default,REN,0,0,0,,How could you not laugh at that?
+Dialogue: 0,0:13:41.68,0:13:45.44,Default,REN,0,0,0,,Madoka came off \Nas a total delinquent, too!
+Dialogue: 0,0:13:47.30,0:13:50.20,Default,SOTA,0,0,0,,Ren, do you know Murasaki-san?
+Dialogue: 0,0:13:50.20,0:13:51.08,Default,REN,0,0,0,,Oh.
+Dialogue: 0,0:13:51.80,0:13:53.57,Default,REN,0,0,0,,Guess I'll head back now.
+Dialogue: 0,0:13:55.80,0:13:58.42,Default,MADOKA,0,0,0,,I thought you had forgotten about me.
+Dialogue: 0,0:13:59.83,0:14:01.55,Default,REN,0,0,0,,Of course not.
+Dialogue: 0,0:14:02.96,0:14:04.03,Default,REN,0,0,0,,How could I?
+Dialogue: 0,0:14:10.57,0:14:12.46,Default,KOHARU,0,0,0,,I'm happy for you, Madoka-chan.
+Dialogue: 0,0:14:12.46,0:14:14.08,Default,MADOKA,0,0,0,,Shut up, you idiot.
+Dialogue: 0,0:14:13.48,0:14:14.08,Default Top,KOHARU,0,0,0,,Ouch.
+Dialogue: 0,0:14:14.49,0:14:16.21,Default,MADOKA,0,0,0,,I'm goin' back to work.
+Dialogue: 0,0:14:19.62,0:14:20.40,Default,KOHARU,0,0,0,,O...
+Dialogue: 0,0:14:19.62,0:14:20.97,Default Top,SOTA,0,0,0,,Oh... um...
+Dialogue: 0,0:14:21.73,0:14:23.36,Default,KOHARU,0,0,0,,Oshio-kun!
+Dialogue: 0,0:14:21.73,0:14:23.36,Default Top,SOTA,0,0,0,,Sato-san!
+Dialogue: 0,0:14:27.39,0:14:29.56,Default,SOTA,0,0,0,,What do you think? Time to head back?
+Dialogue: 0,0:14:30.10,0:14:31.12,Default,KOHARU,0,0,0,,Yeah!
+Dialogue: 0,0:14:31.93,0:14:33.89,Default,SIGN,0,0,0,,{\bord0\fax-0.26\shad0\b1\fs30\fnTimes New Roman\c&HC7C1B7&\3c&HECEDEA&\frz15.78\frx2\fry354\move(295.333,317,295.333,119.333,0,1943)}Kanami {\fs24\c&HC3BAAD&}Gu{\c&HA99F8D&}estho{\c&H7C6C53&}use
+Dialogue: 0,0:14:34.95,0:14:38.03,Default,SHIZUKU,0,0,0,,A cold one after a swim is the best!
+Dialogue: 0,0:14:38.03,0:14:39.86,Default,MAYO,0,0,0,,Shizuku, when you drink,
+Dialogue: 0,0:14:39.86,0:14:42.40,Default,MAYO,0,0,0,,you always say, "It's the best!"
+Dialogue: 0,0:14:42.40,0:14:44.36,Default,SHIZUKU,0,0,0,,You love drinking too, Mayo.
+Dialogue: 0,0:14:44.80,0:14:47.87,Default,SOTA,0,0,0,,This is the last time we get to do this.
+Dialogue: 0,0:14:48.65,0:14:51.50,Default,SOTA,0,0,0,,Auntie Kanami is closing \Nthis place this year.
+Dialogue: 0,0:14:51.50,0:14:52.86,Default,KOHARU,0,0,0,,Really?
+Dialogue: 0,0:14:52.86,0:14:56.32,Default,SHIZUKU,0,0,0,,What?! I need to eat more sea snails!
+Dialogue: 0,0:14:56.32,0:14:58.56,Default,KANAMI,0,0,0,,Huh? What are you talking about?
+Dialogue: 0,0:15:00.87,0:15:03.30,Default,KANAMI,0,0,0,,Who said I was closing the place?
+Dialogue: 0,0:15:03.62,0:15:05.62,Default,KANAMI,0,0,0,,I'm just doing some renovations.
+Dialogue: 0,0:15:05.62,0:15:06.76,Default,SOTA,0,0,0,,Renovations?
+Dialogue: 0,0:15:07.24,0:15:09.76,Italics,SOTA,0,0,0,,That musclehead.
+Dialogue: 0,0:15:10.20,0:15:13.52,Default,KANAMI,0,0,0,,This went viral on social media. Look!
+Dialogue: 0,0:15:13.51,0:15:20.06,Default,SIGN,0,0,0,,{\bord0\fs16\b1\fnArial\shad0\c&H92BCDD&\move(230,318,230,-12,0,5908)\frz346.5}Today's Dish
+Dialogue: 0,0:15:13.51,0:15:20.46,Default,SIGN,0,0,0,,{\bord0\fs16\b1\fnArial\shad0\c&H92BCDD&\frz346.5\move(488,384,488,-8,0,6950)}Today's Dish
+Dialogue: 0,0:15:13.51,0:15:20.64,Default,SIGN,0,0,0,,{\bord0.25\fs8\b1\fnArial\shad0\c&H75B1DD&\3c&H82AECB&\frz337.4\move(192.001,410.334,192.001,11.333,27,7118)}Recommended!
+Dialogue: 1,0:15:14.48,0:15:16.76,Default,RINKA,0,0,0,,Is that your Minsta, Kanami-san?
+Dialogue: 0,0:15:16.76,0:15:18.11,Default,MAYO,0,0,0,,It's so stylish.
+Dialogue: 0,0:15:18.11,0:15:19.07,Default,KANAMI,0,0,0,,Yeah.
+Dialogue: 0,0:15:18.73,0:15:20.64,Default,SIGN,0,0,0,,{\bord0.25\fs8\b1\fnArial\shad0\c&H75B1DD&\3c&H82AECB&\frz352.3\move(382.668,369.333,384.001,266,62,1898)}Simmered Sea Snails
+Dialogue: 1,0:15:19.07,0:15:24.58,Default,KANAMI,0,0,0,,So I'm thinking of turning this place \Ninto a café that plays city pop.
+Dialogue: 0,0:15:24.58,0:15:25.60,Default,SHIZUKU,0,0,0,,Ooh.
+Dialogue: 0,0:15:25.60,0:15:26.77,Default,MAYO,0,0,0,,That sounds lovely.
+Dialogue: 0,0:15:26.77,0:15:28.77,Default,RINKA,0,0,0,,What else do you have on there?
+Dialogue: 0,0:15:28.77,0:15:30.54,Default Top,MAYO,0,0,0,,I'm curious, too.
+Dialogue: 0,0:15:29.06,0:15:30.53,Overlap Top,SHIZUKU,0,0,0,,Looks delicious!
+Dialogue: 0,0:15:29.59,0:15:30.91,Default,KOHARU,0,0,0,,Oshio-kun.
+Dialogue: 0,0:15:30.91,0:15:31.63,Default,SOTA,0,0,0,,Yeah?
+Dialogue: 0,0:15:31.63,0:15:33.06,Default,KOHARU,0,0,0,,U-Um...
+Dialogue: 0,0:15:33.06,0:15:37.09,Default,KOHARU,0,0,0,,There's a place I want you \Nto take me after this...
+Dialogue: 0,0:15:37.09,0:15:37.89,Default,SOTA,0,0,0,,What?
+Dialogue: 0,0:15:40.08,0:15:42.29,Default,SOTA,0,0,0,,Today was so much fun.
+Dialogue: 0,0:15:42.29,0:15:43.96,Default,KOHARU,0,0,0,,Yup, it really was.
+Dialogue: 0,0:15:43.96,0:15:46.20,Default,KOHARU,0,0,0,,It was my first time playing \Nthe watermelon-splitting game.
+Dialogue: 0,0:15:46.20,0:15:46.80,Default,SOTA,0,0,0,,Me, too.
+Dialogue: 0,0:15:48.09,0:15:50.70,Flashback Top,SOTA,0,0,0,,{\i1}Hey! What are you doing?!{\i0}
+Dialogue: 0,0:15:47.34,0:15:51.63,Default,SOTA,0,0,0,,I panicked when Shizuku-san got drunk\N and ran away with the watermelon, though.
+Dialogue: 0,0:15:52.69,0:15:54.85,Default,KOHARU,0,0,0,,I was so surprised by Rinka-chan, too.
+Dialogue: 0,0:15:54.85,0:15:56.84,Default,KOHARU,0,0,0,,She's an amazing swimmer!
+Dialogue: 0,0:15:56.84,0:15:57.97,Default,SOTA,0,0,0,,Yeah, me too.
+Dialogue: 0,0:15:57.97,0:16:00.22,Default,SOTA,0,0,0,,Mayo-san was impressive, too.
+Dialogue: 0,0:16:00.44,0:16:03.24,Default,SOTA,0,0,0,,I've never seen such a big sand castle.
+Dialogue: 0,0:16:03.24,0:16:05.72,Default,KOHARU,0,0,0,,I took so many photos!
+Dialogue: 0,0:16:05.72,0:16:09.03,Default,KOHARU,0,0,0,,And I even made my first friend.
+Dialogue: 0,0:16:09.03,0:16:11.57,Default,KOHARU,0,0,0,,She's a very cute and cool girl.
+Dialogue: 0,0:16:11.87,0:16:13.43,Default,SOTA,0,0,0,,That's Murasaki-san, right?
+Dialogue: 0,0:16:13.43,0:16:15.70,Default,SOTA,0,0,0,,I was a little taken aback at first.
+Dialogue: 0,0:16:15.70,0:16:17.46,Default,KOHARU,0,0,0,,Same.
+Dialogue: 0,0:16:17.46,0:16:19.89,Default,KOHARU,0,0,0,,I feel like I got closer with everyone.
+Dialogue: 0,0:16:19.89,0:16:21.00,Default,KOHARU,0,0,0,,Oshio-kun...
+Dialogue: 0,0:16:21.92,0:16:25.07,Default,KOHARU,0,0,0,,Thank you for inviting me to the beach.
+Dialogue: 0,0:16:38.26,0:16:39.92,Default,KOHARU,0,0,0,,Amazing...
+Dialogue: 0,0:16:42.97,0:16:45.14,Default,KOHARU,0,0,0,,I've never seen anything like it.
+Dialogue: 0,0:16:45.14,0:16:48.69,Default,SOTA,0,0,0,,The view of the sunset \Nfrom here is something else.
+Dialogue: 0,0:16:49.43,0:16:51.08,Default,KOHARU,0,0,0,,I don't want to leave...
+Dialogue: 0,0:16:51.08,0:16:55.20,Default,KOHARU,0,0,0,,I want everything to stay like this, \Neven the setting sun.
+Dialogue: 0,0:16:55.20,0:16:57.93,Default,KOHARU,0,0,0,,The old me would've wished that.
+Dialogue: 0,0:16:58.58,0:17:00.69,Default,SOTA,0,0,0,,You don't feel that way now?
+Dialogue: 0,0:17:00.93,0:17:04.20,Default,KOHARU,0,0,0,,It'd be a lie if I said no, but...
+Dialogue: 0,0:17:04.51,0:17:08.52,Default,KOHARU,0,0,0,,I want to see more things \Nwith you, Oshio-kun.
+Dialogue: 0,0:17:08.52,0:17:10.35,Default,KOHARU,0,0,0,,Share more meals together...
+Dialogue: 0,0:17:10.35,0:17:12.00,Default,KOHARU,0,0,0,,Do more things together...
+Dialogue: 0,0:17:12.46,0:17:13.40,Default,KOHARU,0,0,0,,And...
+Dialogue: 0,0:17:13.40,0:17:16.47,Default,KOHARU,0,0,0,,I want you to enjoy those things \Nwith me, Oshio-kun.
+Dialogue: 0,0:17:16.47,0:17:18.28,Default,KOHARU,0,0,0,,That's how I feel.
+Dialogue: 0,0:17:18.28,0:17:19.48,Default,SOTA,0,0,0,,Sato-san.
+Dialogue: 0,0:17:19.76,0:17:21.19,Default,KOHARU,0,0,0,,That's why now...
+Dialogue: 0,0:17:21.19,0:17:24.97,Default,KOHARU,0,0,0,,I'm eager for each day \Nto come, I think...
+Dialogue: 0,0:17:26.56,0:17:27.63,Default,KOHARU,0,0,0,,Here!
+Dialogue: 0,0:17:27.63,0:17:29.24,Default,KOHARU,0,0,0,,Madoka-chan gave it to me.
+Dialogue: 0,0:17:30.20,0:17:32.18,Default,SOTA,0,0,0,,This is...
+Dialogue: 0,0:17:32.18,0:17:34.95,Default,SOTA,0,0,0,,a love charm, right?
+Dialogue: 0,0:17:34.95,0:17:35.75,Default,KOHARU,0,0,0,,Yup.
+Dialogue: 0,0:17:36.17,0:17:41.53,Default,KOHARU,0,0,0,,For us to create more memories together \Nfrom now on, Oshio-kun...
+Dialogue: 0,0:17:41.84,0:17:43.95,Default,KOHARU,0,0,0,,Can we lock it together?
+Dialogue: 0,0:17:43.95,0:17:45.84,Default,SOTA,0,0,0,,O-Of course!
+Dialogue: 0,0:17:45.84,0:17:48.12,Default,SOTA,0,0,0,,That's exactly what I want, too!
+Dialogue: 0,0:17:48.12,0:17:49.09,Default,KOHARU,0,0,0,,I'm so glad!
+Dialogue: 0,0:17:52.87,0:17:53.88,Default,SOTA,0,0,0,,There.
+Dialogue: 0,0:17:55.36,0:17:57.84,Default,SOTA,0,0,0,,I can't wait to spend more time \Nwith you, Sato-san.
+Dialogue: 0,0:17:57.84,0:17:59.96,Default,KOHARU,0,0,0,,Likewise, Oshi...
+Dialogue: 0,0:18:01.51,0:18:03.52,Default,SIGN,0,0,0,,{\fs15\t(0,2010,\fs17)\bord0\fnComic Sans MS\b1\shad0\c&H090611&\move(268,230,260.667,238,0,1989)}Koharu
+Dialogue: 0,0:18:01.51,0:18:03.52,Default,SIGN,0,0,0,,{\fs15\t(0,2010,\fs17)\bord0\fnGeorgia\shad0\c&H090611&\frz333.9\move(384.667,248,392.666,258,28,1989)}Sota
+Dialogue: 0,0:18:01.71,0:18:02.84,Default,KOHARU,0,0,0,,So...
+Dialogue: 0,0:18:03.52,0:18:06.11,Default,KOHARU,0,0,0,,Sota-kun...
+Dialogue: 0,0:18:13.02,0:18:16.40,Italics,KOHARU,0,0,0,,Wait, was it too early \Nto call him by his name?
+Dialogue: 0,0:18:16.72,0:18:18.65,Italics,KOHARU,0,0,0,,I-Is he mad?
+Dialogue: 0,0:18:18.65,0:18:20.57,Default,KOHARU,0,0,0,,O-Oshio-kun...
+Dialogue: 0,0:18:20.57,0:18:22.90,Default,KOHARU,0,0,0,,Did I say something weird?
+Dialogue: 0,0:18:24.24,0:18:25.63,Default,KOHARU,0,0,0,,Why are you running away?
+Dialogue: 0,0:18:25.63,0:18:26.50,Default,KOHARU,0,0,0,,Oshio-kun!
+Dialogue: 0,0:18:43.66,0:18:49.30,Default,SHIZUKU,0,0,0,,Breaking news! Koharu Sato \Npushes Sota Oshio down! Oh, my!
+Dialogue: 0,0:18:49.68,0:18:50.55,Default,SOTA,0,0,0,,Shizuku-san!
+Dialogue: 0,0:18:50.55,0:18:52.20,Default,KOHARU,0,0,0,,Mayo-san and Rinka-chan, too?!
+Dialogue: 0,0:18:52.20,0:18:54.67,Default,SHIZUKU,0,0,0,,Wishing you two all the happiness!
+Dialogue: 0,0:18:54.67,0:18:56.15,Default,MAYO,0,0,0,,Sorry about that, you two.
+Dialogue: 0,0:18:56.15,0:18:58.40,Default,RINKA,0,0,0,,I'm not gonna lose!
+Dialogue: 0,0:19:09.38,0:19:11.23,Default,SOTA,0,0,0,,Next time, we'll come alone.
+Dialogue: 0,0:19:11.23,0:19:12.12,Default,KOHARU,0,0,0,,Yeah!
+Dialogue: 0,0:20:59.48,0:21:01.14,Flashback,KOHARU,0,0,0,,Promise! You have to promise me!
+Dialogue: 0,0:21:01.14,0:21:03.49,Flashback,KOHARU,0,0,0,,You have to come visit me, okay?! Please!
+Dialogue: 0,0:21:04.47,0:21:06.32,Default,MADOKA,0,0,0,,I'm beat.
+Dialogue: 0,0:21:07.00,0:21:09.76,Default,MADOKA,0,0,0,,But that was pretty fun, right?
+Dialogue: 0,0:21:10.40,0:21:13.54,Default,MADOKA,0,0,0,,Leo, you must be exhausted, too.
+Dialogue: 0,0:21:14.91,0:21:17.52,Default,MADOKA,0,0,0,,Hey, where are you going?
+Dialogue: 0,0:21:17.52,0:21:20.00,Default,MADOKA,0,0,0,,Let's go home! Hey!
+Dialogue: 0,0:21:24.90,0:21:27.09,Default,MADOKA,0,0,0,,Give me a break, will ya?
+Dialogue: 0,0:21:27.09,0:21:29.44,Default,MADOKA,0,0,0,,I told you that I'm...
+Dialogue: 0,0:21:39.16,0:21:40.62,Italics,MADOKA,0,0,0,,Ren?!
+Dialogue: 0,0:21:45.27,0:21:46.24,Default,MADOKA,0,0,0,,Re...
+Dialogue: 0,0:21:47.15,0:21:48.36,Italics,MADOKA,0,0,0,,No...
+Dialogue: 0,0:21:48.36,0:21:51.40,Italics,MADOKA,0,0,0,,We have nothing to talk about. \NIt's all in the past.
+Dialogue: 0,0:21:51.40,0:21:52.91,Flashback Italics,KOHARU,0,0,0,,But it's not over!
+Dialogue: 0,0:21:55.03,0:21:56.91,Flashback,KOHARU,0,0,0,,You're the one who told me,
+Dialogue: 0,0:21:57.16,0:22:00.21,Flashback,KOHARU,0,0,0,,"If you stay stuck, your \Nfeelings will turn into regrets!"
+Dialogue: 0,0:22:05.54,0:22:06.76,Default,MADOKA,0,0,0,,Ren!
+Dialogue: 0,0:22:08.21,0:22:11.40,Default,MADOKA,0,0,0,,What are you doing here?
+Dialogue: 0,0:22:13.52,0:22:16.00,Default,MADOKA,0,0,0,,You're not gonna make the next train.
+Dialogue: 0,0:22:17.73,0:22:20.02,Default,SIGN,0,0,0,,{\an7\fnComic Sans MS\shad0\c&H274755&\3c&H4486A2&}Ren
+Dialogue: 0,0:22:17.73,0:22:20.02,Default,SIGN,0,0,0,,{\an9\fnComic Sans MS\b1\shad0\c&H144359&\3c&H468AA1&}Madoka
+Dialogue: 0,0:22:18.04,0:22:20.02,Default,REN,0,0,0,,I thought I'd come unlock this
+Dialogue: 0,0:22:20.47,0:22:25.88,Default,REN,0,0,0,,embarrassing thing from long ago, but...
+Dialogue: 0,0:22:26.33,0:22:27.04,Default,REN,0,0,0,,Catch!
+Dialogue: 0,0:22:32.37,0:22:33.66,Default,MADOKA,0,0,0,,Is this the key?
+Dialogue: 0,0:22:47.52,0:22:51.18,Default,REN,0,0,0,,It's rusted so much, \Nthe key doesn't even go in.
+Dialogue: 0,0:22:56.48,0:22:58.90,Default,MADOKA,0,0,0,,It's because of the sea breeze.
+Dialogue: 0,0:23:00.38,0:23:02.48,Default,REN,0,0,0,,Being by the sea blows.
+Dialogue: 0,0:23:02.48,0:23:04.16,Default,MADOKA,0,0,0,,I know.
+Dialogue: 0,0:23:04.32,0:23:07.30,Default,MADOKA,0,0,0,,The next train doesn't come \Nfor another hour and a half.
+Dialogue: 0,0:23:07.30,0:23:10.66,Default,REN,0,0,0,,Seriously? The countryside blows.
+Dialogue: 0,0:23:10.66,0:23:12.50,Default,MADOKA,0,0,0,,So, what are you gonna do?
+Dialogue: 0,0:23:12.50,0:23:14.08,Default,REN,0,0,0,,At this point...
+Dialogue: 0,0:23:14.78,0:23:19.38,Default,REN,0,0,0,,How about we hang out and catch up?
+Dialogue: 0,0:23:19.75,0:23:21.55,Default,MADOKA,0,0,0,,Okay, fine.
+Dialogue: 0,0:23:22.16,0:23:23.92,Default,MADOKA,0,0,0,,I guess I can do that.
+Dialogue: 0,0:23:25.12,0:23:26.47,Default,REN,0,0,0,,Thanks.
+Dialogue: 0,0:23:26.80,0:23:30.72,Default,SIGN,0,0,0,,{\fs30\t(0,3920,\fs20)\blur0.5\fnComic Sans MS\b0\bord0\shad0\fad(1273,729)\c&H598189&\frx8\fry0\move(248.333,272,344.666,223.333,272,3567)}Madoka
+Dialogue: 0,0:23:26.80,0:23:30.72,Default,SIGN,0,0,0,,{\fs30\t(0,3920,\fs20)\blur0.5\fnComic Sans MS\b1\bord0\shad0\fad(1273,729)\c&H4F5776&\frx8\fry0\move(420.667,278.667,446,225.333,397,3817)}Ren
+Dialogue: 0,0:23:29.97,0:23:34.60,Default,SIGN,0,0,0,,{\blur0.5\bord0\shad0\fs40\fad(814,0)\t(0,4630,\fs30)\c&H6C6165&\t(3984,4651,\c&H000000&)\fnComic Sans MS\b1\frz17.73\frx4\fry6\move(178,257.333,196.667,240.667,0,4609)}Ko{\c&H7B686D&\t(3984,4651,\c&H000000&)}haru
+Dialogue: 0,0:23:29.97,0:23:34.60,Default,SIGN,0,0,0,,{\blur0.5\bord0\shad0\fs40\fad(814,0)\t(0,4630,\fs30)\c&H6C6165&\t(3984,4651,\c&H000000&)\fnGeorgia\frx4\fry6\frz351.8\move(430.333,182.665,370,192.667,0,4609)}Sota
+Dialogue: 0,0:23:35.25,0:23:37.85,Italics,KOHARU,0,0,0,,Next time, "Can't Help \NFalling in Love with You."
+Dialogue: 1,0:23:35.76,0:23:40.02,Default,SIGN,0,0,0,,{\an8\fad(528,1)\fnVerdana\fs17\shad0\c&H7E572F&\3c&HC2B8FB&\blur4\pos(146.667,148)}Next Time
+Dialogue: 0,0:23:35.76,0:23:40.02,Default,SIGN,0,0,0,,{\an8\fad(528,1)\fnVerdana\fs17\shad0\c&H7E572F&\3c&HC2B8FB&\blur4\pos(146.667,148)}Next Time
+Dialogue: 1,0:23:35.76,0:23:40.02,Default,SIGN,0,0,0,,{\an8\fad(528,1)\pos(356,136)\fnVerdana\fs23\shad0\c&H7E572F&\3c&HFEFEFE&\blur2}Can't Help Falling in Love with You
+Dialogue: 0,0:23:35.76,0:23:40.02,Default,SIGN,0,0,0,,{\an8\fad(528,1)\pos(356,136)\fnVerdana\fs23\shad0\c&HAB7C4F&\4c&HE0D4DB&\3c&HFEFEFE&\blur2}Can't Help Falling in Love with You
+Dialogue: 0,0:23:37.85,0:23:39.57,Italics,SOTA,0,0,0,,Stop it! That's so embarrassing!
+
