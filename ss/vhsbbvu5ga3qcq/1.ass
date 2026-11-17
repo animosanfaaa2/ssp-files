@@ -1,0 +1,507 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Top Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Narrator,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.83,0:00:04.26,Narrator,Narrator,0,0,0,,Heroes. Warriors for justice.
+Dialogue: 0,0:00:02.42,0:00:04.26,Top,Hero,0,0,0,,I am here!
+Dialogue: 0,0:00:04.26,0:00:08.39,Narrator,Narrator,0,0,0,,Superhumans who protect the people \Nwith powers that defy conventional wisdom.
+Dialogue: 0,0:00:09.52,0:00:11.49,Narrator,Narrator,0,0,0,,But in this wide world,
+Dialogue: 0,0:00:11.49,0:00:15.74,Narrator,Narrator,0,0,0,,there are those who neither defend\NNew York nor repel alien invaders.
+Dialogue: 0,0:00:10.51,0:00:12.28,Top,Hero,0,0,0,,Under Punch!
+Dialogue: 0,0:00:16.14,0:00:18.88,Narrator,Narrator,0,0,0,,One such hero operates \Nout of a backwater police box.
+Dialogue: 0,0:00:18.88,0:00:20.12,Narrator,Narrator,0,0,0,,His name is...
+Dialogue: 0,0:00:15.74,0:00:20.12,Default,Sign,0,0,0,,{\an8}CHINJUKU POLICE HEADQUARTERS
+Dialogue: 0,0:00:20.12,0:00:23.75,Default,Sign,0,0,0,,{\an8}CHIEF'S OFFICE (IN)
+Dialogue: 0,0:00:20.91,0:00:23.75,Default,Chief,0,0,0,,I'm going to be blunt, Chojo.
+Dialogue: 0,0:00:24.18,0:00:25.88,Default,Chief,0,0,0,,Nobody likes you.
+Dialogue: 0,0:00:28.15,0:00:29.34,Default,Chojo,0,0,0,,You picking a fight?
+Dialogue: 0,0:00:30.63,0:00:32.53,Default,Chief,0,0,0,,No, I'm explaining the reality.
+Dialogue: 0,0:00:32.53,0:00:34.89,Default,Chief,0,0,0,,Have you seen the public's opinion of you?
+Dialogue: 0,0:00:34.89,0:00:37.76,Default,Chief,0,0,0,,On your best day, you're as popular\N as an infected wound.
+Dialogue: 0,0:00:38.16,0:00:41.97,Default,Chief,0,0,0,,Given that you're a mind reader, \NI'm going to come out and say it.
+Dialogue: 0,0:00:42.66,0:00:45.40,Default,Chief,0,0,0,,I personally don't like you, either.
+Dialogue: 0,0:00:45.40,0:00:48.73,Default,Chief,0,0,0,,If you died on duty, I'd see it as a chance\N for some killer prop comedy.
+Dialogue: 0,0:00:49.19,0:00:50.82,Flashback,Chief,0,0,0,,Cheers!
+Dialogue: 0,0:00:48.98,0:00:52.49,Default,Sign,0,0,0,,{\an8}MADE FROM CHOJO'S SKULL
+Dialogue: 0,0:00:50.82,0:00:52.49,Default,Chojo,0,0,0,,Show more respect for the dead.
+Dialogue: 0,0:00:52.49,0:00:54.62,Default,Chojo,0,0,0,,What exactly are we doing here?
+Dialogue: 0,0:00:54.62,0:00:57.49,Default,Chojo,0,0,0,,You gonna lecture me \Nto be nicer to my coworkers {\i1}now{\i0}?
+Dialogue: 0,0:00:57.49,0:01:00.62,Default,Chief,0,0,0,,If it was just other police officers, \Nthat'd be one thing.
+Dialogue: 0,0:01:00.62,0:01:02.63,Default,Chief,0,0,0,,But the issue here is public perception.
+Dialogue: 0,0:01:03.10,0:01:06.12,Default,Chief,0,0,0,,The complaints we receive \Nevery time you do anything...
+Dialogue: 0,0:01:06.12,0:01:08.88,Default,Sign,0,0,0,,{\an8}NO MORE CHOJO
+Dialogue: 0,0:01:06.50,0:01:08.88,Default,Chief,0,0,0,,The phone systems have crashed before.
+Dialogue: 0,0:01:09.26,0:01:12.88,Default,Chief,0,0,0,,It honestly seems like the more you work,\N the more trouble it causes.
+Dialogue: 0,0:01:13.28,0:01:16.22,Default,Chojo,0,0,0,,If you want me to keep quiet \Nand build models in the station...
+Dialogue: 0,0:01:16.22,0:01:17.34,Default,Nao,0,0,0,,Cut that out.
+Dialogue: 0,0:01:17.34,0:01:23.27,Default,Nao,0,0,0,,Ch-Chief, I'm willing to help him \Nrehabilitate his reputation, so...
+Dialogue: 0,0:01:23.60,0:01:28.52,Default,Chief,0,0,0,,Insufficient. Forget rehabilitation.\NI want a total reset.
+Dialogue: 0,0:01:29.01,0:01:30.40,Default,Chief,0,0,0,,For example...
+Dialogue: 0,0:01:31.14,0:01:32.78,Default,Chojo,0,0,0,,Some kind of full-faced helmet?
+Dialogue: 0,0:01:32.78,0:01:36.90,Default,Chief,0,0,0,,For the immediate future, you'll be \Noperating with your face fully concealed.
+Dialogue: 0,0:01:38.58,0:01:43.16,Default,Chief,0,0,0,,It's at the point where your awful reputation\N is impeding your efficacy.
+Dialogue: 0,0:01:43.51,0:01:46.96,Default,Chief,0,0,0,,So your identity as the much-hated\Npsychic cop will be concealed.
+Dialogue: 0,0:01:46.96,0:01:50.04,Default,Chief,0,0,0,,This is your rebirth, Chojo.
+Dialogue: 0,0:01:50.36,0:01:54.80,Default,Chief,0,0,0,,You are going to protect Chinjuku \Nas a literal masked policeman.
+Dialogue: 0,0:01:55.65,0:01:57.68,Default,Chojo,0,0,0,,A masked policeman?
+Dialogue: 0,0:01:58.06,0:02:02.08,Default,Chief,0,0,0,,Nao, this decision is confidential, \Neven among the police.
+Dialogue: 0,0:02:02.08,0:02:03.81,Default,Chief,0,0,0,,So keep it to yourself.
+Dialogue: 0,0:02:06.60,0:02:08.89,Default,Nao,0,0,0,,The chief's making some crazy demands.
+Dialogue: 0,0:02:09.21,0:02:13.23,Default,Nao,0,0,0,,He wants you to work with a mask on \Njust because people hate you?
+Dialogue: 0,0:02:13.23,0:02:18.53,Default,Nao,0,0,0,,I get not letting you slack, given how it is\Nat Chinjuku West. But a secret identity—
+Dialogue: 0,0:02:18.53,0:02:21.82,Default,Chojo,0,0,0,,Sorry, Ippongi, but could you \Nlet me have some time on my own?
+Dialogue: 0,0:02:23.20,0:02:24.43,Default,Nao,0,0,0,,Chojo?
+Dialogue: 0,0:02:25.16,0:02:29.29,Default,Sign,0,0,0,,{\an8}THE NEXT DAY
+Dialogue: 0,0:02:26.31,0:02:29.29,Default,Copbot,0,0,0,,Even for a man like him, \Nit must have come as a shock.
+Dialogue: 0,0:02:29.64,0:02:32.48,Default,Copbot,0,0,0,,He had his total lack of popularity\Npointed out to him.
+Dialogue: 0,0:02:32.48,0:02:34.17,Default,Nao,0,0,0,,You think so?
+Dialogue: 0,0:02:34.72,0:02:39.48,Default,Copbot,0,0,0,,This mask idea being a secret \Neven within the police also strikes me as odd.
+Dialogue: 0,0:02:39.48,0:02:44.31,Default,Copbot,0,0,0,,I feel it's a pretense that can only lead\Nto him being blamed for upcoming trouble.
+Dialogue: 0,0:02:44.69,0:02:47.52,Flashback,Chief,0,0,0,,A masked policeman? \NNo one I've ever heard of.
+Dialogue: 0,0:02:47.52,0:02:49.31,Narrator,Narrator,0,0,0,,The sacrificial psychic.
+Dialogue: 0,0:02:47.31,0:02:49.31,Default,Sign,0,0,0,,{\an8}THE SACRIFICIAL PSYCHIC
+Dialogue: 0,0:02:49.75,0:02:53.74,Default,Nao,0,0,0,,Aw, man. He's already more depressed \Nthan I've ever seen him about this.
+Dialogue: 0,0:02:53.74,0:02:55.89,Default,Nao,0,0,0,,I'd better cheer him up\N when he gets in.
+Dialogue: 0,0:02:55.89,0:02:57.44,Default,Chojo,0,0,0,,'Sup.
+Dialogue: 0,0:02:57.44,0:03:00.26,Default,Nao,0,0,0,,Ch-Chojo? Are you okay?
+Dialogue: 0,0:03:00.26,0:03:01.66,Default,Chojo,0,0,0,,Why wouldn't I be?
+Dialogue: 0,0:03:01.66,0:03:05.22,Default,Nao,0,0,0,,Oh, come on. That whole thing \Nwith the chief yesterday.
+Dialogue: 0,0:03:05.22,0:03:06.91,Default,Chojo,0,0,0,,Oh, that?
+Dialogue: 0,0:03:07.81,0:03:10.02,Default,Chojo,0,0,0,,It was pretty shocking.
+Dialogue: 0,0:03:10.57,0:03:12.90,Default,Chojo,0,0,0,,I honestly couldn't sleep last night.
+Dialogue: 0,0:03:14.24,0:03:15.29,Default,Chojo,0,0,0,,But y'know...
+Dialogue: 0,0:03:15.59,0:03:19.05,Default,Chojo,0,0,0,,After thinking it over, I felt\N{\i1}this{\i0} would be a good direction to go in.
+Dialogue: 0,0:03:15.29,0:03:16.63,Default,Sign,0,0,0,,{\an8}CHINJUKU FORCE CHINRANGER\NPOLICEMAN-ESQUE
+Dialogue: 0,0:03:16.63,0:03:18.14,Default,Sign,0,0,0,,{\an8}HEADSET | THIS CAN ALSO TURN INTO A GUN\N25-METER JUMP! | 100 METERS IN 2 SECONDS!
+Dialogue: 0,0:03:18.14,0:03:19.05,Default,Sign,0,0,0,,{\an8}I AM DEFINITELY THE RED RANGER!\NVISOR IS TINTED
+Dialogue: 0,0:03:19.05,0:03:20.68,Default,Nao,0,0,0,,Uh, what direction is that?
+Dialogue: 0,0:03:20.68,0:03:25.56,Default,Sign,0,0,0,,{\an8}CHINJUKU FORCE CHINRANGER\NPOLICEMAN-ESQUE
+Dialogue: 0,0:03:21.31,0:03:24.03,Default,Nao,0,0,0,,"Chinjuku Force Chinranger"?
+Dialogue: 0,0:03:24.03,0:03:25.55,Default,Nao,0,0,0,,What is this?
+Dialogue: 0,0:03:25.97,0:03:28.77,Default,Chojo,0,0,0,,Hey now. Didn't you hear what the chief said?
+Dialogue: 0,0:03:29.12,0:03:31.56,Default,Chojo,0,0,0,,Number one: Conceal my identity.
+Dialogue: 0,0:03:29.81,0:03:31.86,Default,Sign,0,0,0,,{\an8}1. CONCEAL IDENTITY
+Dialogue: 0,0:03:31.86,0:03:33.57,Default,Sign,0,0,0,,{\an8}2. DEFEND CHINJUKU
+Dialogue: 0,0:03:31.56,0:03:33.56,Default,Chojo,0,0,0,,Number two: Defend Chinjuku.
+Dialogue: 0,0:03:33.87,0:03:37.33,Default,Chojo,0,0,0,,In other words, \Nhe wants me to be a superhero.
+Dialogue: 0,0:03:38.44,0:03:40.80,Default,Copbot,0,0,0,,His inner child has broken free again.
+Dialogue: 0,0:03:40.80,0:03:42.45,Default,Nao,0,0,0,,I feel stupid for worrying.
+Dialogue: 0,0:03:42.45,0:03:45.23,Default,Chojo,0,0,0,,You two are part of this, too.
+Dialogue: 0,0:03:45.23,0:03:46.99,Default,Nao,0,0,0,,W-Wait, Chojo!
+Dialogue: 0,0:05:17.33,0:05:19.96,Narrator,Narrator,0,0,0,,Episode 7: The Transforming\N Senior Patrolman.
+Dialogue: 0,0:05:16.96,0:05:19.96,Default,Sign,0,0,0,,{\an8}EPISODE 7: THE TRANSFORMING\NSENIOR PATROLMAN
+Dialogue: 0,0:05:20.32,0:05:21.67,Default,Maruyama,0,0,0,,Hold it!
+Dialogue: 0,0:05:21.67,0:05:24.92,Default,Maruyama,0,0,0,,Get back here, you purse-snatcher!
+Dialogue: 0,0:05:25.97,0:05:28.18,Default,Purse-Snatcher,0,0,0,,Who'd be stupid enough to actually stop?
+Dialogue: 0,0:05:28.18,0:05:31.73,Default,Chojo,0,0,0,,Chin Punch!
+Dialogue: 0,0:05:34.99,0:05:36.44,Default,Maruyama,0,0,0,,Who are you?
+Dialogue: 0,0:05:36.88,0:05:40.94,Default,Chojo,0,0,0,,We're in the same line of work. \NI'll let you collar this perp.
+Dialogue: 0,0:05:41.28,0:05:43.77,Default,Maruyama,0,0,0,,We are? So wait, you're police?
+Dialogue: 0,0:05:43.77,0:05:45.69,Default,Maruyama,0,0,0,,B-But who {\i1}are{\i0} you?
+Dialogue: 0,0:05:46.13,0:05:48.66,Default,Chojo,0,0,0,,A masked policeman \Nwith a special mission.
+Dialogue: 0,0:05:49.06,0:05:51.62,Default,Chojo,0,0,0,,The only name I can give you is this one:
+Dialogue: 0,0:05:52.00,0:05:55.83,Default,Chojo,0,0,0,,Chinjuku Force Chinranger.
+Dialogue: 0,0:05:56.59,0:05:58.80,Default,Chojo,0,0,0,,Blazing justice. Chin Red.
+Dialogue: 0,0:05:58.80,0:06:01.00,Italics,Changer,0,0,0,,Justice fire!
+Dialogue: 0,0:06:02.00,0:06:03.39,Default,Maruyama,0,0,0,,"Chin Red"?
+Dialogue: 0,0:06:04.24,0:06:05.12,Default,Chojo,0,0,0,,Farewell.
+Dialogue: 0,0:06:05.12,0:06:06.34,Default,Maruyama,0,0,0,,Wait!
+Dialogue: 0,0:06:06.97,0:06:08.34,Default,Nao,0,0,0,,Okay, this way.
+Dialogue: 0,0:06:09.29,0:06:11.02,Default,Nao,0,0,0,,I don't think anyone else saw you.
+Dialogue: 0,0:06:11.60,0:06:13.10,Default,Chojo,0,0,0,,Detransform.
+Dialogue: 0,0:06:15.26,0:06:17.23,Default,Chojo,0,0,0,,The test run went well.
+Dialogue: 0,0:06:17.23,0:06:20.73,Default,Sign,0,0,0,,{\an8\pos(145.5,211.5)}TRANSFORMATION DEVICE\NCHIN-CHANGER
+Dialogue: 0,0:06:17.23,0:06:20.73,Default,Chojo,0,0,0,,{\an8}Copbot's custom-built Chin-Changer \Nseems to work smoothly.
+Dialogue: 0,0:06:21.10,0:06:23.64,Default,Copbot,0,0,0,,Well, you did pay for it yourself.
+Dialogue: 0,0:06:23.64,0:06:26.79,Default,Nao,0,0,0,,I can't believe you wasted money\N on something so frivolous.
+Dialogue: 0,0:06:26.79,0:06:29.24,Default,Nao,0,0,0,,Plus your jacket's now red for some reason.
+Dialogue: 0,0:06:30.38,0:06:31.49,Default,Lily,0,0,0,,Help.
+Dialogue: 0,0:06:31.79,0:06:34.79,Default,Lily,0,0,0,,Someone! A kitty is stuck up a tree!
+Dialogue: 0,0:06:34.79,0:06:35.75,Default,Chojo,0,0,0,,Trouble.
+Dialogue: 0,0:06:36.08,0:06:36.92,Default,Chojo,0,0,0,,Here I come!
+Dialogue: 0,0:06:37.42,0:06:38.34,Default,Chojo,0,0,0,,Chin Change!
+Dialogue: 0,0:06:37.42,0:06:39.58,Top Italics,Changer,0,0,0,,Emergency transformation!
+Dialogue: 0,0:06:40.00,0:06:43.16,Default,Copbot,0,0,0,,He's many times more motivated than usual.
+Dialogue: 0,0:06:43.16,0:06:46.34,Default,Nao,0,0,0,,Maybe a little messing around won't hurt?
+Dialogue: 0,0:06:46.34,0:06:51.09,Narrator,Narrator,0,0,0,,In terms of intensity, \N"a little" doesn't cover it.
+Dialogue: 0,0:06:52.40,0:06:53.89,Default,Lily,0,0,0,,It's not safe up there, kitty.
+Dialogue: 0,0:06:53.89,0:06:54.81,Default,Chojo,0,0,0,,Look out!
+Dialogue: 0,0:06:57.40,0:06:59.14,Default,Lily,0,0,0,,Wh-Who in the world?
+Dialogue: 0,0:06:59.51,0:07:01.69,Default,Chojo,0,0,0,,Chinjuku Force Chinranger.
+Dialogue: 0,0:07:01.98,0:07:04.27,Default,Chojo,0,0,0,,Blazing justice. Chin Red.
+Dialogue: 0,0:07:03.02,0:07:04.82,Top Italics,Changer,0,0,0,,Justice fire!
+Dialogue: 0,0:07:04.68,0:07:06.15,Default,Lily,0,0,0,,Chin Red.
+Dialogue: 0,0:07:06.15,0:07:11.12,Narrator,Narrator,0,0,0,,Having solved his popularity issue,\Nthe psychic cop was unstoppable.
+Dialogue: 0,0:07:11.12,0:07:12.49,Default,Kids,0,0,0,,L-Look out!
+Dialogue: 0,0:07:13.04,0:07:14.42,Default,Chojo,0,0,0,,Chin Stop.
+Dialogue: 0,0:07:15.20,0:07:17.20,Default,Chojo,0,0,0,,You kids all right?
+Dialogue: 0,0:07:17.20,0:07:19.12,Default,Kids,0,0,0,,Thank you, Chin Red!
+Dialogue: 0,0:07:19.45,0:07:21.92,Narrator,Narrator,0,0,0,,The town's lawless state\Nprovided a tailwind,
+Dialogue: 0,0:07:21.67,0:07:26.88,Default,Sign,0,0,0,,{\an8}ANOTHER CASE SOLVED\NBY THE MYSTERIOUS SUPERHERO!
+Dialogue: 0,0:07:22.64,0:07:26.88,Narrator,Narrator,0,0,0,,giving him endless chances \Nto demonstrate his heroics.
+Dialogue: 0,0:07:27.26,0:07:29.38,Top Italics,Announcer,0,0,0,,Here's the evening news.
+Dialogue: 0,0:07:29.38,0:07:32.84,Top Italics,Announcer,0,0,0,,Chin Red has resolved \Nanother incident in Chinjuku.
+Dialogue: 0,0:07:26.88,0:07:32.84,Default,Sign,0,0,0,,{\an8\pos(348,251.5)}THE MYSTERIOUS CHIN RED \NONCE AGAIN RESOLVES ANOTHER INCIDENT!
+Dialogue: 0,0:07:33.17,0:07:34.85,Default,Woman 1,0,0,0,,Chin Red!
+Dialogue: 0,0:07:34.85,0:07:36.53,Default,Woman 2,0,0,0,,Look this way!
+Dialogue: 0,0:07:36.53,0:07:37.66,Default,Woman 3,0,0,0,,He waved at me!
+Dialogue: 0,0:07:37.66,0:07:38.44,Default,Chin Red,0,0,0,,You rang?
+Dialogue: 0,0:07:38.44,0:07:39.56,Default,Woman 4,0,0,0,,No, me!
+Dialogue: 0,0:07:41.25,0:07:43.18,Top,Chin Red,0,0,0,,Thank you all.
+Dialogue: 0,0:07:39.93,0:07:44.78,Narrator,Narrator,0,0,0,,And before long, Chin Red was \Nthe kind of hero everyone respected.
+Dialogue: 0,0:07:44.78,0:07:46.06,Default,Nao,0,0,0,,Seriously?
+Dialogue: 0,0:07:46.64,0:07:49.99,Default,Maruyama,0,0,0,,"We asked 100 Chinjuku women \Nwho their ideal boyfriend was,
+Dialogue: 0,0:07:49.99,0:07:51.82,Default,Maruyama,0,0,0,,and in first place was Chin Red."
+Dialogue: 0,0:07:52.12,0:07:54.30,Default,Maruyama,0,0,0,,I can totally believe it.
+Dialogue: 0,0:07:54.30,0:07:56.33,Default,Sumikawa,0,0,0,,You met him once, right, Maru?
+Dialogue: 0,0:07:56.33,0:07:56.83,Default,Maruyama,0,0,0,,Yeah.
+Dialogue: 0,0:07:56.83,0:08:00.32,Default,Maruyama,0,0,0,,His voice was so hot, \Nand he had these long, sexy legs.
+Dialogue: 0,0:08:00.32,0:08:02.71,Default,Maruyama,0,0,0,,I was shocked men like that\N really existed.
+Dialogue: 0,0:08:02.98,0:08:05.48,Default,Sumikawa,0,0,0,,I love his tragic vibe.
+Dialogue: 0,0:08:05.48,0:08:07.42,Default,Sumikawa,0,0,0,,He calls himself a "force" but works solo.
+Dialogue: 0,0:08:07.42,0:08:09.77,Default,Sumikawa,0,0,0,,That just {\i1}has{\i0} to be in honor\N of lost comrades.
+Dialogue: 0,0:08:09.77,0:08:11.72,Default,Maru,0,0,0,,That's some serious speculation.
+Dialogue: 0,0:08:11.72,0:08:13.54,Default,Maru,0,0,0,,What do you think of him, Pon?
+Dialogue: 0,0:08:13.54,0:08:16.60,Default,Sumikawa,0,0,0,,This proud man who fights alone.\N It's just irresistible.
+Dialogue: 0,0:08:16.89,0:08:18.69,Default,Nao,0,0,0,,Maybe he just doesn't have friends.
+Dialogue: 0,0:08:18.69,0:08:19.60,Default,Friends,0,0,0,,Ice cold.
+Dialogue: 0,0:08:20.00,0:08:22.16,Default,Sumikawa,0,0,0,,What's this? We have a Red hater among us?
+Dialogue: 0,0:08:22.16,0:08:24.08,Default,Maruyama,0,0,0,,I mean, I kind of understand.
+Dialogue: 0,0:08:24.08,0:08:25.31,Default,Nao,0,0,0,,Uh, you do?
+Dialogue: 0,0:08:25.80,0:08:31.07,Default,Maruyama,0,0,0,,Finding out someone like Chin Red exists \Nwhen the psychic cop's your partner...
+Dialogue: 0,0:08:26.33,0:08:28.27,Top,Chin Red,0,0,0,,Please. You don't have to stare.
+Dialogue: 0,0:08:28.82,0:08:31.07,Top,Chojo,0,0,0,,What the hell are you staring at?
+Dialogue: 0,0:08:31.44,0:08:33.32,Default,Maruyama,0,0,0,,I can see why you'd be fed up.
+Dialogue: 0,0:08:33.32,0:08:36.95,Default,Sumikawa,0,0,0,,Maybe if the psychic cop chews on \NChin Red's toenails, he'll absorb his goodness.
+Dialogue: 0,0:08:37.41,0:08:39.70,Default,Nao,0,0,0,,I feel like I've taken crazy pills.
+Dialogue: 0,0:08:40.16,0:08:44.08,Default,Nao,0,0,0,,And that's how it went. \NAnd I feel like I'm losing my mind.
+Dialogue: 0,0:08:44.08,0:08:47.11,Default,Nao,0,0,0,,For him to become so popular is just...
+Dialogue: 0,0:08:47.11,0:08:49.71,Default,Copbot,0,0,0,,Well, I understand \Nthe dissonance it'd cause.
+Dialogue: 0,0:08:50.14,0:08:54.59,Default,Nao,0,0,0,,His normal behavior is far from heroic.
+Dialogue: 0,0:08:56.33,0:08:58.60,Default,Chojo,0,0,0,,Ah, Ponny. You're always worried \Nabout something.
+Dialogue: 0,0:08:59.15,0:09:03.35,Default,Chojo,0,0,0,,Have some chamomile tea.\NIt's great for the nerves.
+Dialogue: 0,0:09:03.35,0:09:06.15,Default,Chojo,0,0,0,,Still, "ideal boyfriend," huh?
+Dialogue: 0,0:09:06.15,0:09:08.48,Default,Chojo,0,0,0,,Nice to hear, but not something\N I can live up to.
+Dialogue: 0,0:09:08.93,0:09:11.36,Default,Chojo,0,0,0,,After all, I'm saving all of my love...
+Dialogue: 0,0:09:11.75,0:09:13.73,Default,Chojo,0,0,0,,for all the citizens of Chinjuku.
+Dialogue: 0,0:09:13.73,0:09:15.86,Italics,Nao,0,0,0,,What's going on in his brain?
+Dialogue: 0,0:09:15.99,0:09:18.04,Default,Nao,0,0,0,,Wh-What {\i1}is{\i0} this? It's freaking me out!
+Dialogue: 0,0:09:18.04,0:09:20.37,Default,Nao,0,0,0,,Copbot, he's all broken!
+Dialogue: 0,0:09:20.76,0:09:22.37,Default,Copbot,0,0,0,,C-Could it be?
+Dialogue: 0,0:09:22.62,0:09:26.37,Default,Copbot,0,0,0,,Has he embraced his vision of heroism,\N even at a casual level?
+Dialogue: 0,0:09:26.37,0:09:29.33,Top,Nao,0,0,0,,So he's playing pretend \Non a method acting level?
+Dialogue: 0,0:09:26.71,0:09:31.63,Default,Sign,0,0,0,,{\an8\pos(320,240)}METHOD ACTING
+Dialogue: 0,0:09:29.33,0:09:31.63,Top,Chojo,0,0,0,,My favorite word is "kindness."
+Dialogue: 0,0:09:32.06,0:09:34.38,Default,Nao,0,0,0,,Not even a hint of subtlety, huh?
+Dialogue: 0,0:09:34.72,0:09:35.39,Default,Chojo,0,0,0,,Now...
+Dialogue: 0,0:09:35.97,0:09:38.01,Default,Chojo,0,0,0,,Let's go uphold the peace.
+Dialogue: 0,0:09:38.01,0:09:40.43,Default,Chojo,0,0,0,,Everything is ready.
+Dialogue: 0,0:09:42.76,0:09:45.90,Default,Nao,0,0,0,,He remodeled the station \Nto look like a secret base? But when?
+Dialogue: 0,0:09:45.90,0:09:49.20,Default,Nao,0,0,0,,You can tell this place \Nfollowed a visual style guide.
+Dialogue: 0,0:09:49.20,0:09:51.52,Default,Copbot,0,0,0,,He's certainly gotten into the role.
+Dialogue: 0,0:09:51.52,0:09:54.89,Default,Copbot,0,0,0,,At this rate, it won't be long \Nbefore a monster shows up.
+Dialogue: 0,0:09:54.89,0:09:57.53,Default,Nao,0,0,0,,That's the one thing \Nthat'd be even scarier.
+Dialogue: 0,0:09:57.53,0:10:02.03,Default,Maruyama,0,0,0,,There's a hero out there for me.
+Dialogue: 0,0:10:02.03,0:10:06.54,Default,Maruyama,0,0,0,,But where can he be? Come on out!
+Dialogue: 0,0:10:06.84,0:10:11.04,Default,Maruyama,0,0,0,,Oh, my. I shouldn't be asking \Nso much from a patrol.
+Dialogue: 0,0:10:11.04,0:10:12.04,Default,Maruyama,0,0,0,,Who's there?
+Dialogue: 0,0:10:13.16,0:10:14.34,Default,Suspect 2,0,0,0,,You saw us.
+Dialogue: 0,0:10:14.34,0:10:16.92,Default,Suspect 3,0,0,0,,And since you saw us, \Nwe can't let you leave.
+Dialogue: 0,0:10:19.68,0:10:21.80,Default,Maruyama,0,0,0,,No!
+Dialogue: 0,0:10:23.56,0:10:24.68,Italics,Radio,0,0,0,,Metro PD to all stations.
+Dialogue: 0,0:10:25.15,0:10:29.12,Italics,Radio,0,0,0,,A suspicious group has abducted \Na female officer in Chinjuku's sixth district.
+Dialogue: 0,0:10:26.14,0:10:30.31,Default,Sign,0,0,0,,{\an8}SUSPICIOUS ACTIVITY\NIN VICINITY OF CHINJUKU DISTRICT SIX
+Dialogue: 0,0:10:29.12,0:10:30.31,Default,Chojo,0,0,0,,What?
+Dialogue: 0,0:10:30.75,0:10:33.12,Default,Nao,0,0,0,,District Six? \NThe officer on patrol there today...
+Dialogue: 0,0:10:33.12,0:10:34.15,Default,Nao,0,0,0,,It's Maru?
+Dialogue: 0,0:10:34.58,0:10:37.28,Italics,Radio,0,0,0,,The group is in several vans\N and heading north.
+Dialogue: 0,0:10:37.28,0:10:39.53,Italics,Radio,0,0,0,,They're fleeing \Nto the neighboring prefecture.
+Dialogue: 0,0:10:39.53,0:10:41.78,Default,Sign,0,0,0,,{\an8}CHIN
+Dialogue: 0,0:10:39.98,0:10:41.78,Default,Chojo,0,0,0,,Abducting a fellow officer?
+Dialogue: 0,0:10:42.26,0:10:43.68,Default,Chojo,0,0,0,,We're gonna go save her.
+Dialogue: 0,0:10:43.68,0:10:44.66,Default,Nao/Copbot,0,0,0,,Right.
+Dialogue: 0,0:10:45.12,0:10:47.54,Default,Chojo,0,0,0,,Chinjuku Force Chinranger, move out.
+Dialogue: 0,0:10:47.93,0:10:50.21,Default,Nao,0,0,0,,How much did you spend on this stuff?!
+Dialogue: 0,0:10:50.21,0:10:52.96,Narrator,Narrator,0,0,0,,Super Psychic Policeman Chojo.
+Dialogue: 0,0:10:50.21,0:10:52.96,Default,Sign,0,0,0,,{\an8}CHIN RED, RED RANGER
+Dialogue: 0,0:10:53.68,0:10:57.21,Narrator,Narrator,0,0,0,,Previously on {\i0}Chinjuku Force Chinranger{\i1}.
+Dialogue: 0,0:10:52.96,0:10:57.21,Default,Sign,0,0,0,,{\an8}CHINJUKU FORCE CHINRANGER
+Dialogue: 0,0:10:57.51,0:11:01.47,Narrator,Narrator,0,0,0,,Pon's academy classmate, Maru, \Nwas abducted by a mysterious group.
+Dialogue: 0,0:11:01.78,0:11:07.01,Narrator,Narrator,0,0,0,,Chin Red aka Meguru Chojo and his friends \Nboarded Copbot F-Type
+Dialogue: 0,0:11:07.01,0:11:10.23,Narrator,Narrator,0,0,0,,and sped off into the night \Nin pursuit of the kidnappers.
+Dialogue: 0,0:11:10.23,0:11:12.23,Default,Sign,0,0,0,,{\an8}THE NEXT MORNING
+Dialogue: 0,0:11:11.03,0:11:16.74,Narrator,Narrator,0,0,0,,They ended up at an abandoned quarry\N in prefecture T the next morning.
+Dialogue: 0,0:11:12.23,0:11:17.73,Default,Sign,0,0,0,,{\an8}QUARRY IN PREFECTURE T
+Dialogue: 0,0:11:18.10,0:11:20.42,Narrator,Narrator,0,0,0,,Countless foes await them.
+Dialogue: 0,0:11:20.42,0:11:22.87,Narrator,Narrator,0,0,0,,What will become of our Chinrangers?
+Dialogue: 0,0:11:22.87,0:11:24.90,Default,Nao,0,0,0,,So we're literally a Sentai show now?
+Dialogue: 0,0:11:24.90,0:11:28.24,Narrator,Narrator,0,0,0,,Episode 50: Chin Red Forever.
+Dialogue: 0,0:11:24.90,0:11:28.24,Default,Sign,0,0,0,,{\an8}EPISODE 50: CHIN RED FOREVER
+Dialogue: 0,0:11:28.24,0:11:30.00,Default,Nao,0,0,0,,And it sounds like a final episode!
+Dialogue: 0,0:11:31.04,0:11:34.00,Default,Nao,0,0,0,,Maru! I think she's unconscious.
+Dialogue: 0,0:11:34.00,0:11:35.67,Default,Nao,0,0,0,,We crossed prefecture lines.
+Dialogue: 0,0:11:35.67,0:11:39.62,Default,Nao,0,0,0,,The Metro PD and T prefectural police \Nare stalling to avoid a jurisdiction issue.
+Dialogue: 0,0:11:39.62,0:11:42.35,Default,Copbot,0,0,0,,This looks like a job \Nfor Senior Officer Chin Red.
+Dialogue: 0,0:11:43.84,0:11:45.14,Default,Copbot,0,0,0,,Senior Officer?
+Dialogue: 0,0:11:45.72,0:11:46.64,Default,Chojo,0,0,0,,This...
+Dialogue: 0,0:11:46.64,0:11:49.43,Default,Chojo,0,0,0,,This is the freakin' quarry!
+Dialogue: 0,0:11:49.43,0:11:51.14,Default,Nao,0,0,0,,Eyes full of childlike joy.
+Dialogue: 0,0:11:51.14,0:11:53.44,Default,Nao,0,0,0,,C-Chojo? What's gotten into you?
+Dialogue: 0,0:11:53.44,0:11:54.90,Default,Copbot,0,0,0,,Is this location special?
+Dialogue: 0,0:11:54.90,0:11:56.77,Default,Chojo,0,0,0,,How ignorant {\i1}are{\i0} you two?
+Dialogue: 0,0:11:56.77,0:12:01.03,Default,Chojo,0,0,0,,This quarry in T prefecture is where\N they film all kinds of tokusatsu stuff!
+Dialogue: 0,0:12:01.51,0:12:04.78,Default,Chojo,0,0,0,,Do you realize how many masterpieces \Nwere born right here?
+Dialogue: 0,0:12:05.12,0:12:06.61,Default,Chojo,0,0,0,,I'm taking some of the dirt home.
+Dialogue: 0,0:12:06.61,0:12:07.78,Default,Nao,0,0,0,,This isn't baseball.
+Dialogue: 0,0:12:08.08,0:12:12.21,Default,Chojo,0,0,0,,Okay, I'm all fired up today.\NTime for Chin Red to jump into action.
+Dialogue: 0,0:12:12.21,0:12:14.29,Default,Nao,0,0,0,,Ah, Chojo, wait a second.
+Dialogue: 0,0:12:14.70,0:12:17.14,Default,Nao,0,0,0,,This time, I want to help.
+Dialogue: 0,0:12:17.14,0:12:17.67,Default,Chojo,0,0,0,,Say what?
+Dialogue: 0,0:12:18.00,0:12:19.92,Default,Nao,0,0,0,,Maru is a friend of mine!
+Dialogue: 0,0:12:20.79,0:12:23.00,Default,Chojo,0,0,0,,All right. Let's fight as a team.
+Dialogue: 0,0:12:23.00,0:12:24.15,Default,Nao,0,0,0,,Right.
+Dialogue: 0,0:12:24.15,0:12:25.55,Default,Chojo,0,0,0,,Okay, in that case...
+Dialogue: 0,0:12:26.12,0:12:28.68,Default,Chojo,0,0,0,,Here. Your Chin Changer, Ponny.
+Dialogue: 0,0:12:26.68,0:12:28.68,Default,Sign,0,0,0,,{\an8}CHIN
+Dialogue: 0,0:12:28.68,0:12:32.18,Default,Nao,0,0,0,,Huh? Wh-What? \NYou're demanding I cosplay, too?
+Dialogue: 0,0:12:32.18,0:12:34.82,Default,Chojo,0,0,0,,You're my partner. \NIf you show up not in disguise,
+Dialogue: 0,0:12:34.82,0:12:36.56,Default,Chojo,0,0,0,,it'll be obvious who I am.
+Dialogue: 0,0:12:40.27,0:12:42.33,Default,Chojo,0,0,0,,What's this? You don't want to?
+Dialogue: 0,0:12:42.33,0:12:44.45,Default,Chojo,0,0,0,,You're going to abandon your friend?
+Dialogue: 0,0:12:45.68,0:12:48.58,Default,Nao,0,0,0,,I-I'll do it! If I have to!
+Dialogue: 0,0:12:49.03,0:12:51.20,Default,Chojo,0,0,0,,Hold it right there, punks!
+Dialogue: 0,0:12:51.50,0:12:53.08,Default,Suspect 1,0,0,0,,Wh-Who's that?
+Dialogue: 0,0:12:53.58,0:12:57.71,Default,Sign,0,0,0,,{\an8}SECRET IDENTITY MODE\NPSYCHIC COP & PONNY
+Dialogue: 0,0:12:53.58,0:12:55.02,Default,Chojo,0,0,0,,We're superheroes.
+Dialogue: 0,0:12:55.02,0:12:57.71,Default,Nao,0,0,0,,Well, police. We're here to arrest you.
+Dialogue: 0,0:12:58.08,0:13:01.44,Default,Nao,0,0,0,,Release Maru—I mean, \Nthe woman you abducted.
+Dialogue: 0,0:13:01.44,0:13:02.85,Default,Chojo,0,0,0,,You can't escape now.
+Dialogue: 0,0:13:02.85,0:13:04.34,Default,Chojo,0,0,0,,Give up and cooperate.
+Dialogue: 0,0:13:04.96,0:13:09.10,Default,Suspect 1,0,0,0,,"Give up"? What kinda puny outfit \Ndo you think you're dealing with?
+Dialogue: 0,0:13:09.67,0:13:14.35,Default,Suspect 1,0,0,0,,You're looking at the men who've been \Nwholly rejected by the women of Chinjuku:
+Dialogue: 0,0:13:15.12,0:13:18.10,Default,Suspect 1,0,0,0,,the Kabuki-cho Heartbreakers!
+Dialogue: 0,0:13:14.35,0:13:18.10,Default,Sign,0,0,0,,{\an8}THE KABUKI-CHO SOCIETY FOR BROKEN HEARTS:\N HEARTBREAKERS
+Dialogue: 0,0:13:18.48,0:13:20.36,Default,Nao,0,0,0,,A group of guys who got rejected?
+Dialogue: 0,0:13:20.71,0:13:24.86,Default,Suspect 1,0,0,0,,We were trying to vandalize \Na popular Chinjuku date spot last night.
+Dialogue: 0,0:13:25.24,0:13:28.99,Default,Suspect 1,0,0,0,,This lady cop got in our way.
+Dialogue: 0,0:13:25.24,0:13:26.26,Flashback,Maruyama,0,0,0,,{\an8}Who are you?
+Dialogue: 0,0:13:30.43,0:13:33.60,Default,Suspect 1,0,0,0,,But now she's gonna pay for that.
+Dialogue: 0,0:13:34.46,0:13:37.60,Default,Chojo,0,0,0,,You pitiful monsters, \Nspawned from feelings of love...
+Dialogue: 0,0:13:37.60,0:13:38.87,Default,Nao,0,0,0,,Not accurate at all.
+Dialogue: 0,0:13:38.87,0:13:41.38,Default,Chojo,0,0,0,,I'll put an end to your sorrow.
+Dialogue: 0,0:13:41.70,0:13:42.34,Default,Cops,0,0,0,,Chin Change!
+Dialogue: 0,0:13:41.72,0:13:43.38,Top Italics,Changer,0,0,0,,{\an8}Emergency transformation!
+Dialogue: 0,0:13:43.38,0:13:47.01,Default,Chojo,0,0,0,,Blazing justice. Chin Red is on the scene.
+Dialogue: 0,0:13:45.11,0:13:47.01,Top Italics,Changer,0,0,0,,Justice fire!
+Dialogue: 0,0:13:47.01,0:13:48.70,Default,Nao,0,0,0,,Uh, um...
+Dialogue: 0,0:13:48.70,0:13:50.64,Default,Nao,0,0,0,,The strength of judo. Chin Blue.
+Dialogue: 0,0:13:48.70,0:13:50.64,Top Italics,Changer,0,0,0,,Strong judo!
+Dialogue: 0,0:13:51.02,0:13:52.14,Default,Chojo,0,0,0,,The two of us are:
+Dialogue: 0,0:13:52.14,0:13:55.27,Default,Chinranger,0,0,0,,Chinjuku Force Chinranger.
+Dialogue: 0,0:13:53.43,0:13:54.56,Top Italics,Changer,0,0,0,,Explosion!
+Dialogue: 0,0:13:54.56,0:13:55.27,Top,Nao,0,0,0,,Hot!
+Dialogue: 0,0:13:55.27,0:13:56.77,Default,Nao,0,0,0,,The heat blasted my back!
+Dialogue: 0,0:13:56.77,0:13:58.82,Default,Nao,0,0,0,,Why was there an explosion?
+Dialogue: 0,0:13:58.82,0:14:02.35,Default,Chojo,0,0,0,,What are you talking about?\NThat was the pyrotechnics, obviously.
+Dialogue: 0,0:14:02.35,0:14:06.19,Default,Chojo,0,0,0,,You can't have a Sentai roll call \Nwithout explosions. That's common sense.
+Dialogue: 0,0:14:06.19,0:14:10.28,Default,Chojo,0,0,0,,Especially considering \NI couldn't set any off in the city.
+Dialogue: 0,0:14:10.28,0:14:15.69,Default,Chojo,0,0,0,,You and I are gonna have \Na special outing today, my dear napalm.
+Dialogue: 0,0:14:15.69,0:14:18.04,Default,Nao,0,0,0,,So you're some kind \Nof specific mad bomber?
+Dialogue: 0,0:14:18.04,0:14:21.04,Default,Nao,0,0,0,,Uh, could we stop fooling around\N in front of the culprits?
+Dialogue: 0,0:14:21.49,0:14:26.14,Default,Suspicious,0,0,0,,Chin Red? You mean that sorry son\N of a gun the ladies all love lately?
+Dialogue: 0,0:14:26.14,0:14:27.80,Default,Suspicious,0,0,0,,Perfect timing.
+Dialogue: 0,0:14:27.80,0:14:31.70,Default,Suspicious,0,0,0,,We're gonna take \Nour romantic frustrations out on you.
+Dialogue: 0,0:14:33.68,0:14:36.24,Default,Nao,0,0,0,,Uh, they seem really fired up\N all of a sudden?
+Dialogue: 0,0:14:36.24,0:14:37.01,Default,Suspect 2,0,0,0,,Ow.
+Dialogue: 0,0:14:37.01,0:14:40.69,Default,Chojo,0,0,0,,Seems these monsters grow stronger\N the angrier they get.
+Dialogue: 0,0:14:40.69,0:14:42.61,Top,Nao,0,0,0,,Nobody asked for that analysis.
+Dialogue: 0,0:14:42.61,0:14:44.69,Top,Nao,0,0,0,,Stop relishing in this setup and—
+Dialogue: 0,0:14:42.61,0:14:44.03,Default,Hosaka,0,0,0,,And now, a poem.
+Dialogue: 0,0:14:44.03,0:14:47.44,Default,Hosaka,0,0,0,,From the cavalry \Nthat has arrived atop the cliff.
+Dialogue: 0,0:14:47.44,0:14:48.56,Default,Nao,0,0,0,,Who is that?
+Dialogue: 0,0:14:48.56,0:14:51.72,Default,Chojo,0,0,0,,Ah, he's here. It's the guy \NI recruited before coming here.
+Dialogue: 0,0:14:51.72,0:14:53.41,Default,Chojo,0,0,0,,The last member of the Chinrangers.
+Dialogue: 0,0:14:53.93,0:14:56.91,Default,Hosaka,0,0,0,,I may be a humble office worker \Nwho stares out the window all day,
+Dialogue: 0,0:14:57.57,0:15:02.79,Default,Hosaka,0,0,0,,but even I won't turn a blind eye\N to a girl in danger.
+Dialogue: 0,0:15:03.15,0:15:04.24,Default,Hosaka,0,0,0,,Chin Change!
+Dialogue: 0,0:15:03.13,0:15:05.30,Top Italics,Changer,0,0,0,,Emergency transformation!
+Dialogue: 0,0:15:05.50,0:15:08.30,Default,Hosaka,0,0,0,,The drunken fist that annihilates evil.
+Dialogue: 0,0:15:08.64,0:15:10.46,Default,Hosaka,0,0,0,,Chin Pink is here.
+Dialogue: 0,0:15:10.46,0:15:11.63,Default,Nao,0,0,0,,Mr. Ho?
+Dialogue: 0,0:15:13.43,0:15:15.63,Default,Hosaka,0,0,0,,Let me just, uh, get down here...
+Dialogue: 0,0:15:15.63,0:15:17.76,Default,Chojo,0,0,0,,Glad you could make it, Chin Pink.
+Dialogue: 0,0:15:17.76,0:15:20.23,Default,Nao,0,0,0,,Isn't that Mr. Ho? He can't fight!
+Dialogue: 0,0:15:20.23,0:15:21.69,Default,Hosaka,0,0,0,,Wow, this suit is tight.
+Dialogue: 0,0:15:22.08,0:15:24.96,Default,Chojo,0,0,0,,You can't judge based on appearances.
+Dialogue: 0,0:15:24.96,0:15:27.19,Default,Chojo,0,0,0,,Because in spite of it all, Chin Pink...
+Dialogue: 0,0:15:27.19,0:15:29.97,Default,Chojo,0,0,0,,is a master of drunken fist kung fu.
+Dialogue: 0,0:15:27.44,0:15:32.95,Default,Sign,0,0,0,,{\an8}DRUNKEN FIST
+Dialogue: 0,0:15:31.07,0:15:32.95,Default,Nao,0,0,0,,Huh? No way. He is?
+Dialogue: 0,0:15:39.93,0:15:41.00,Default,Suspect 3,0,0,0,,Ow.
+Dialogue: 0,0:15:41.00,0:15:42.83,Top,Nao,0,0,0,,It's like I'm seeing behind the curtain.
+Dialogue: 0,0:15:41.00,0:15:42.83,Default,Nao,0,0,0,,{\an8\pos(160.5,250.5)}BEHIND THE CURTAIN
+Dialogue: 0,0:15:43.11,0:15:44.54,Default,Chojo,0,0,0,,Great work, Chin Pink.
+Dialogue: 0,0:15:44.54,0:15:46.59,Default,Chojo,0,0,0,,Now we have the initiative.
+Dialogue: 0,0:15:46.89,0:15:48.81,Default,Suspect 1,0,0,0,,Do you, though?
+Dialogue: 0,0:15:48.81,0:15:51.84,Default,Suspect 1,0,0,0,,I'll show you the {\i1}true{\i0} power \Nof the Heartbreakers.
+Dialogue: 0,0:15:51.84,0:15:54.09,Default,Suspect 1,0,0,0,,Come, fellow dumpees.
+Dialogue: 0,0:15:54.09,0:15:55.22,Default,Suspects,0,0,0,,Heart!
+Dialogue: 0,0:15:55.22,0:15:57.19,Default,Suspects,0,0,0,,Break!
+Dialogue: 0,0:15:57.19,0:15:58.47,Default,Hosaka,0,0,0,,I-It can't be.
+Dialogue: 0,0:15:58.47,0:16:01.23,Default,Hosaka,0,0,0,,They c-c-c-c-c-c-com—
+Dialogue: 0,0:15:59.98,0:16:01.23,Default,Sign,0,0,0,,{\an8}COMBINED
+Dialogue: 0,0:16:01.60,0:16:03.06,Default,Suspect 1,0,0,0,,A bit of chestnut yokan.
+Dialogue: 0,0:16:05.26,0:16:09.73,Default,Giant Suspect,0,0,0,,By being many dumped men, I am the most \Ndumped any man has possibly ever been.
+Dialogue: 0,0:16:10.67,0:16:13.58,Default,Giant Suspect,0,0,0,,Satan Heartbreaker.
+Dialogue: 0,0:16:11.07,0:16:14.74,Default,Sign,0,0,0,,{\an8\pos(320,56)}SATAN HEARTBREAKER
+Dialogue: 0,0:16:15.04,0:16:17.38,Default,Nao,0,0,0,,I didn't think we were \Nin this kind of setting.
+Dialogue: 0,0:16:18.87,0:16:19.62,Default,Chojo,0,0,0,,In that case...
+Dialogue: 0,0:16:20.24,0:16:21.93,Default,Chojo,0,0,0,,This calls for our Chin Union.
+Dialogue: 0,0:16:19.96,0:16:23.13,Default,Sign,0,0,0,,{\an8}CHIN
+Dialogue: 0,0:16:21.93,0:16:23.12,Default,Nao,0,0,0,,Chin Union?
+Dialogue: 0,0:16:23.12,0:16:27.63,Default,Sign,0,0,0,,{\an8}CHINJUKU POLICE HEADQUARTERS
+Dialogue: 0,0:16:25.59,0:16:27.63,Italics,Operator,0,0,0,,Emergency. Emergency.
+Dialogue: 0,0:16:28.31,0:16:31.88,Italics,Operator,0,0,0,,Chin Vehicles are standing by to launch.
+Dialogue: 0,0:16:32.57,0:16:34.38,Default,Chojo,0,0,0,,Chin Energy, charged.
+Dialogue: 0,0:16:35.58,0:16:37.89,Italics,Operator,0,0,0,,Combination process approved.
+Dialogue: 0,0:16:38.22,0:16:39.89,Default,Pink/Red,0,0,0,,We're gonna make a super show of it.
+Dialogue: 0,0:16:38.22,0:16:39.89,Top,Nao,0,0,0,,My body's moving on its own.
+Dialogue: 0,0:16:42.61,0:16:44.99,Default,Nao,0,0,0,,Mr. Ho? Should you really \Nbe driving while drunk?
+Dialogue: 0,0:16:44.99,0:16:47.31,Default,Hosaka,0,0,0,,Y'know what they say: \NDon't drink and drive.
+Dialogue: 0,0:16:44.65,0:16:49.65,Default,Sign,0,0,0,,{\an8}NON-ALCOHOLIC BEER
+Dialogue: 0,0:16:47.31,0:16:49.65,Default,Nao,0,0,0,,So it was a non-alcoholic\N drunken fist earlier?
+Dialogue: 0,0:16:50.77,0:16:52.78,Default,Chojo,0,0,0,,Let's go! Chin Union!
+Dialogue: 0,0:16:53.39,0:16:54.36,Narrator,Narrator,0,0,0,,Let me explain.
+Dialogue: 0,0:16:54.86,0:17:00.38,Narrator,Narrator,0,0,0,,Through various tech, some other stuff,\Nand hearts full of dreams, the Chin Vehicles...
+Dialogue: 0,0:17:00.38,0:17:02.29,Narrator,Narrator,0,0,0,,are able to execute the Chin Union.
+Dialogue: 0,0:17:02.90,0:17:04.72,Default,Copbot,0,0,0,,Copbot Docking.
+Dialogue: 0,0:17:12.51,0:17:15.05,Top Italics,Changer,0,0,0,,Copbot G.
+Dialogue: 0,0:17:11.51,0:17:15.05,Default,Team,0,0,0,,Ulchinmate Copbot G, ready.
+Dialogue: 0,0:17:10.46,0:17:12.51,Default,Sign,0,0,0,,{\an8}ULCHINMATE COPBOT G
+Dialogue: 0,0:17:15.43,0:17:16.80,Default,Chin Red/Pink,0,0,0,,Chin Powered Up.
+Dialogue: 0,0:17:17.15,0:17:19.35,Default,Nao,0,0,0,,How did you possibly pay for this?
+Dialogue: 0,0:17:19.35,0:17:21.18,Italics,Copbot,0,0,0,,Another round of crowdfunding.
+Dialogue: 0,0:17:21.46,0:17:24.18,Default,Nao,0,0,0,,I'm amazed people were willing to chip in!
+Dialogue: 0,0:17:21.18,0:17:22.77,Default,Sign,0,0,0,,{\an8}A GUARDIAN FOR CHINJUKU | CROWDFUNDING\NTHE GIANT ROBOT OF YOUR DREAMS
+Dialogue: 0,0:17:22.77,0:17:24.18,Default,Sign,0,0,0,,{\an8}ULCHINMATE COPBOT G\N2,000,000 HORSEPOWER
+Dialogue: 0,0:17:24.63,0:17:28.19,Default,Chojo,0,0,0,,The fire of justice \Nis gonna scorch evil to cinders.
+Dialogue: 0,0:17:28.54,0:17:29.94,Default,Giant Suspect,0,0,0,,Such impudence.
+Dialogue: 0,0:17:29.94,0:17:31.57,Default,Giant Suspect,0,0,0,,I will strike you down.
+Dialogue: 0,0:17:31.57,0:17:34.19,Default,Giant Suspect,0,0,0,,Heartbreak Punch!
+Dialogue: 0,0:17:35.25,0:17:37.58,Default,Chojo,0,0,0,,Chin... Stop.
+Dialogue: 0,0:17:39.21,0:17:40.45,Default,Giant Suspect,0,0,0,,What?
+Dialogue: 0,0:17:40.74,0:17:42.20,Default,Chojo,0,0,0,,Now! Finish him!
+Dialogue: 0,0:17:42.20,0:17:44.99,Top,Chojo,0,0,0,,Chin Loop the Loop!
+Dialogue: 0,0:17:42.20,0:17:44.99,Top,Hosaka,0,0,0,,{\3c&H440E02&}Non-Alcoholic Strong Attack!
+Dialogue: 0,0:17:43.60,0:17:46.09,Default,Nao,0,0,0,,Um, uh, Bodacious Single Shoulder Throw!
+Dialogue: 0,0:17:46.09,0:17:49.08,Default,Nao,0,0,0,,That was all over the place! \NWe should've prepped!
+Dialogue: 0,0:17:49.84,0:17:52.84,Default,Chojo,0,0,0,,Now converting anime budget!
+Dialogue: 0,0:17:53.71,0:17:55.97,Default,Chojo,0,0,0,,Our finisher!
+Dialogue: 0,0:17:57.23,0:18:00.33,Default,Chojo,0,0,0,,Chin Loop the Loop!
+Dialogue: 0,0:18:00.72,0:18:02.22,Default,Sign,0,0,0,,{\an8}CHIN LOOP THE LOOP
+Dialogue: 0,0:18:07.33,0:18:08.40,Default,Chojo,0,0,0,,Chin Collared.
+Dialogue: 0,0:18:07.52,0:18:09.36,Default,Sign,0,0,0,,{\an8}CHIN COLLARED
+Dialogue: 0,0:18:09.68,0:18:11.58,Default,Chojo,0,0,0,,And then Chin Arrested.
+Dialogue: 0,0:18:09.94,0:18:12.74,Default,Sign,0,0,0,,{\an8}CHIN ARRESTED
+Dialogue: 0,0:18:13.12,0:18:16.11,Default,Chojo,0,0,0,,Hate the crime, not the criminal.
+Dialogue: 0,0:18:17.61,0:18:19.07,Default,Giant Suspect,0,0,0,,Heartbreak!
+Dialogue: 0,0:18:19.07,0:18:20.49,Default,Nao,0,0,0,,What anime even is this?
+Dialogue: 0,0:18:20.96,0:18:22.37,Default,Chojo,0,0,0,,And that's case closed.
+Dialogue: 0,0:18:22.81,0:18:24.32,Default,Nao,0,0,0,,Quit trying to wrap things up!
+Dialogue: 0,0:18:24.32,0:18:26.56,Default,Chojo,0,0,0,,Come to Theater Chin-Rosso\N and shake my hand.
+Dialogue: 0,0:18:26.56,0:18:28.25,Default,Nao,0,0,0,,That's not a thing and you know it!
+Dialogue: 0,0:18:30.02,0:18:31.25,Default,Nao,0,0,0,,Maru.
+Dialogue: 0,0:18:31.54,0:18:34.16,Default,Chojo,0,0,0,,She's not injured. Just unconscious.
+Dialogue: 0,0:18:34.16,0:18:35.51,Default,Nao,0,0,0,,What a relief.
+Dialogue: 0,0:18:35.86,0:18:38.99,Default,Chojo,0,0,0,,They grabbed her last night. \NIt's understandable.
+Dialogue: 0,0:18:39.48,0:18:41.54,Default,Chojo,0,0,0,,Let's move her someplace safe.
+Dialogue: 0,0:18:43.05,0:18:44.76,Default,Chojo,0,0,0,,Oh, you're awake?
+Dialogue: 0,0:18:45.07,0:18:46.86,Default,Maruyama,0,0,0,,Ch-Chin Red?
+Dialogue: 0,0:18:46.86,0:18:49.27,Default,Chojo,0,0,0,,The ground's uneven here, so be careful.
+Dialogue: 0,0:18:49.81,0:18:54.27,Default,Maruyama,0,0,0,,H-Huh? I remember someone \Nkidnapping me, and then...
+Dialogue: 0,0:18:54.70,0:18:57.41,Default,Chojo,0,0,0,,We just got finished dealing with them.
+Dialogue: 0,0:18:57.41,0:18:59.28,Default,Chojo,0,0,0,,We'll turn them over to the local police.
+Dialogue: 0,0:18:59.81,0:19:04.78,Default,Maruyama,0,0,0,,I-It feels like you're always saving me.\N Just the other day...
+Dialogue: 0,0:19:05.28,0:19:07.54,Default,Chojo,0,0,0,,The purse-snatcher on sixth street, right?
+Dialogue: 0,0:19:07.90,0:19:09.29,Default,Maruyama,0,0,0,,You remember that?
+Dialogue: 0,0:19:09.29,0:19:13.81,Default,Chojo,0,0,0,,Why wouldn't I? \NWe're comrades in protecting Chinjuku.
+Dialogue: 0,0:19:13.81,0:19:16.05,Default,Chojo,0,0,0,,I know how hard you've been working.
+Dialogue: 0,0:19:18.32,0:19:19.05,Default,Maruyama,0,0,0,,Chin...
+Dialogue: 0,0:19:19.40,0:19:21.85,Default,Maruyama,0,0,0,,Chin Red!
+Dialogue: 0,0:19:19.40,0:19:21.85,Top Italics,Changer,0,0,0,,Explosion!
+Dialogue: 0,0:19:21.85,0:19:23.32,Default,Nao,0,0,0,,What am I even witnessing?
+Dialogue: 0,0:19:23.32,0:19:25.31,Narrator,Narrator,0,0,0,,And so, the case came to a close.
+Dialogue: 0,0:19:25.68,0:19:30.80,Narrator,Narrator,0,0,0,,His exploits in Chinjuku \Nled to national stardom.
+Dialogue: 0,0:19:25.31,0:19:29.56,Default,Sign,0,0,0,,{\an8}ANOTHER AMAZING DISPLAY\NGIANT ROBOT MAKES STRING OF ARRESTS?!
+Dialogue: 0,0:19:29.56,0:19:31.48,Default,Sign,0,0,0,,{\an8}CHIN NIKKEI INDEX\NCURRENT VALUATION: 71,053.49
+Dialogue: 0,0:19:31.48,0:19:33.31,Default,Sign,0,0,0,,{\an8}PREVIOUS DAY CHANGE: +5555.55\NTHE CHIN RED ECONOMIC EFFECT!
+Dialogue: 0,0:19:30.80,0:19:33.31,Narrator,Narrator,0,0,0,,The frenzy around him\Nboosted the Japanese economy,
+Dialogue: 0,0:19:33.31,0:19:38.19,Narrator,Narrator,0,0,0,,leading Chin Red to hit the apex\N of his popularity.
+Dialogue: 0,0:19:36.19,0:19:38.19,Default,Sign,0,0,0,,{\an8}CHIN RED FEVER
+Dialogue: 0,0:19:38.19,0:19:40.45,Default,Sign,0,0,0,,{\an8}THE NEXT DAY
+Dialogue: 0,0:19:38.98,0:19:39.75,Narrator,Narrator,0,0,0,,Until...
+Dialogue: 0,0:19:41.01,0:19:44.97,Default,Chief,0,0,0,,You'll need to cut back on that whole \NChin Red business for the foreseeable future.
+Dialogue: 0,0:19:48.47,0:19:52.36,Default,Chojo,0,0,0,,Th-That's... But Chief, \NChin Red's super popular right now.
+Dialogue: 0,0:19:52.36,0:19:55.21,Default,Chief,0,0,0,,That popularity is turning\N into a problem.
+Dialogue: 0,0:19:55.66,0:19:57.46,Default,Chief,0,0,0,,Just look outside the station.
+Dialogue: 0,0:19:57.81,0:19:59.73,Default,Chief,0,0,0,,There's a crowd baying for Chin Red.
+Dialogue: 0,0:19:57.81,0:19:59.73,Top,Citizen 1,0,0,0,,Send out Chin Red!
+Dialogue: 0,0:19:59.73,0:20:02.56,Top,Citizen 2,0,0,0,,The chief needs to reveal \NChin Red's identity! And address!
+Dialogue: 0,0:20:02.56,0:20:05.81,Top,Citizen 3,0,0,0,,Actually, everything! \NJust tell us everything!
+Dialogue: 0,0:20:09.03,0:20:12.98,Default,Chief,0,0,0,,They're on the verge of rioting, \Nand we can't risk forcing them to disperse.
+Dialogue: 0,0:20:12.98,0:20:16.98,Default,Chief,0,0,0,,And when people do need help, \Nthey demand Chin Red.
+Dialogue: 0,0:20:16.98,0:20:18.86,Top,Citizen 4,0,0,0,,Just give us Chin Red!
+Dialogue: 0,0:20:18.86,0:20:19.73,Top,Citizen 5,0,0,0,,Give us Red!
+Dialogue: 0,0:20:17.38,0:20:19.73,Default,Chief,0,0,0,,It's ironic, but Chin Red's popularity
+Dialogue: 0,0:20:19.73,0:20:24.02,Default,Chief,0,0,0,,is more of a problem than the hatred \Nfor the psychic cop, menace that you are.
+Dialogue: 0,0:20:24.02,0:20:26.12,Default,Chojo,0,0,0,,N-No way.
+Dialogue: 0,0:20:26.20,0:20:28.29,Default,Sign,0,0,0,,{\an8}CHIN
+Dialogue: 0,0:20:28.49,0:20:31.37,Default,Chief,0,0,0,,You'll have to keep quiet \Nuntil things calm down!
+Dialogue: 0,0:20:31.37,0:20:33.75,Default,Chojo,0,0,0,,No way!
+Dialogue: 0,0:20:34.08,0:20:36.34,Default,Sumikawa,0,0,0,,I haven't seen anything \Nabout Chin Red lately.
+Dialogue: 0,0:20:36.34,0:20:38.91,Default,Sumikawa,0,0,0,,I bet Maru's going through \NChin Red withdrawal.
+Dialogue: 0,0:20:38.91,0:20:39.88,Default,Maruyama,0,0,0,,Well, of course.
+Dialogue: 0,0:20:40.17,0:20:44.13,Default,Maruyama,0,0,0,,But I'm done just fawning over him\N like any other fan.
+Dialogue: 0,0:20:44.64,0:20:49.41,Default,Maruyama,0,0,0,,Chin Red said I was a comrade \Nin protecting Chinjuku.
+Dialogue: 0,0:20:49.41,0:20:53.50,Default,Maruyama,0,0,0,,So if he's not around, \NI can't waste time being sad about it.
+Dialogue: 0,0:20:53.50,0:20:54.14,Default,Maruyama,0,0,0,,Besides...
+Dialogue: 0,0:20:54.45,0:20:57.03,Flashback Italics,Chojo,0,0,0,,I know how hard you've been working.
+Dialogue: 0,0:20:57.03,0:20:59.77,Default,Maruyama,0,0,0,,I know Chin Red is out there, watching me.
+Dialogue: 0,0:21:00.09,0:21:03.92,Default,Maruyama,0,0,0,,I want to protect Chinjuku \Nin a way he'd be proud of.
+Dialogue: 0,0:21:04.60,0:21:07.35,Default,Sumikawa,0,0,0,,Looks like love has made Maru stronger.
+Dialogue: 0,0:21:09.62,0:21:14.48,Default,Maruyama,0,0,0,,Besides, when he held me in his arms, \NI got the feeling we connected.
+Dialogue: 0,0:21:14.48,0:21:19.03,Default,Maruyama,0,0,0,,Even if I don't know what he looks like, \NI bet if I encounter him, I'll know.
+Dialogue: 0,0:21:17.53,0:21:20.76,Top,Chojo,0,0,0,,Let me help people.
+Dialogue: 0,0:21:21.86,0:21:25.15,Default,Chojo,0,0,0,,I wanna help.
+Dialogue: 0,0:21:25.15,0:21:29.63,Default,Chojo,0,0,0,,Let me assist those in trouble,\N you scumbags.
+Dialogue: 0,0:21:29.63,0:21:31.72,Default,Maruyama,0,0,0,,It's the psychic cop!
+Dialogue: 0,0:21:30.14,0:21:33.74,Top,Chojo,0,0,0,,I'm... I'm a hero.
+Dialogue: 0,0:21:33.74,0:21:35.24,Default,Maruyama,0,0,0,,What's he yapping about?
+Dialogue: 0,0:21:35.24,0:21:37.04,Default,Maruyama,0,0,0,,Stay away from us, freak!
+Dialogue: 0,0:21:37.04,0:21:38.77,Default,Sumikawa,0,0,0,,Get away from us, you pervert!
+Dialogue: 0,0:21:39.07,0:21:43.34,Narrator,Narrator,0,0,0,,Ponny decided to keep the truth to herself.
+Dialogue: 0,0:23:14.99,0:23:16.49,Default,Sign,0,0,0,,{\an8\pos(297.5,189.5)}NEXT EPISODE PREVIEW
+Dialogue: 0,0:23:15.54,0:23:16.49,Default,Nao,0,0,0,,{\an8}Nao here.
+Dialogue: 0,0:23:16.49,0:23:18.80,Default,Nao,0,0,0,,Like video games,\Nlife has winners and losers.
+Dialogue: 0,0:23:18.80,0:23:21.76,Default,Nao,0,0,0,,Seems sadness might turn Chojo evil.\N Wait, what {\i1}is{\i0} this story?
+Dialogue: 0,0:23:21.76,0:23:25.75,Default,Nao,0,0,0,,But it's okay, because we're not about \Nwinning or losing. We can find a third way.
+Dialogue: 0,0:23:25.75,0:23:28.03,Default,Nao,0,0,0,,Plus, I'm going to become\N a beautiful woman.
+Dialogue: 0,0:23:28.03,0:23:30.01,Default,Nao,0,0,0,,Seriously, what story {\i1}is{\i0} this?
+
