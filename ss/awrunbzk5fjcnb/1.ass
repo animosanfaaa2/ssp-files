@@ -1,0 +1,320 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italic,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Italics Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Signs,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.44,0:00:02.97,Italic,Akane,0,0,0,,My name is Akane Kuzumi.
+Dialogue: 0,0:00:03.58,0:00:06.69,Italic,Akane,0,0,0,,I think that I'm the heroine of this show.
+Dialogue: 0,0:00:07.03,0:00:10.37,Italic,Akane,0,0,0,,Or I should be... and I want to be.
+Dialogue: 0,0:00:12.34,0:00:17.43,Italic,Akane,0,0,0,,And right now... I'm on the verge \Nof having my first kiss stolen.
+Dialogue: 0,0:00:17.83,0:00:20.25,Italic,Akane,0,0,0,,As for how this happened...
+Dialogue: 0,0:00:24.05,0:00:27.88,Default,Suruga,0,0,0,,Here. My kiss to you.
+Dialogue: 0,0:00:27.88,0:00:30.18,Default,Suruga,0,0,0,,Akane!
+Dialogue: 0,0:00:30.56,0:00:32.89,Default,Akane,0,0,0,,Is... Is this for real?
+Dialogue: 0,0:00:32.89,0:00:35.40,Default,Gekiha,0,0,0,,Who could be piloting Dandivine?
+Dialogue: 0,0:00:35.75,0:00:37.02,Default,Gekiha,0,0,0,,Could it be...?
+Dialogue: 0,0:00:39.59,0:00:41.21,Default,Gekiha,0,0,0,,Akane?!
+Dialogue: 0,0:00:46.86,0:00:47.86,Default,Suruga,0,0,0,,Akane!
+Dialogue: 0,0:00:48.70,0:00:49.90,Default,Gekiha,0,0,0,,Uekara!
+Dialogue: 0,0:00:50.90,0:00:54.12,Default,Suruga,0,0,0,,Gekiha, you bastard! \NWhat have you done to my Akane?!
+Dialogue: 0,0:00:54.12,0:00:57.33,Default,Gekiha,0,0,0,,Whoa, calm down! \NWhat do you mean, "my Akane"?
+Dialogue: 0,0:00:57.58,0:01:01.67,Default,Suruga,0,0,0,,I'm Dandivine's pilot! \NThe one that Akane loves!
+Dialogue: 0,0:01:02.04,0:01:04.14,Default,Gekiha,0,0,0,,Then that really was—
+Dialogue: 0,0:01:04.14,0:01:06.13,Default,Gekiha,0,0,0,,How? How were you able to...?
+Dialogue: 0,0:01:09.83,0:01:10.85,Default,Suruga,0,0,0,,Akane!
+Dialogue: 0,0:01:10.85,0:01:11.76,Default,Gekiha,0,0,0,,Akane!
+Dialogue: 0,0:01:17.81,0:01:19.21,Default,Suruga,0,0,0,,Akane!
+Dialogue: 0,0:01:19.73,0:01:23.27,Default,Gekiha,0,0,0,,What the heck? \NWhat in the world is going on?
+Dialogue: 0,0:01:26.60,0:01:27.93,Default,Suruga,0,0,0,,Akane...
+Dialogue: 0,0:01:27.93,0:01:32.57,Default,Suruga,0,0,0,,Did you catch the kiss from Dandivine... \NThe one I threw for you?
+Dialogue: 0,0:01:33.30,0:01:35.28,Default,Akane,0,0,0,,Y-Yes.
+Dialogue: 0,0:01:35.28,0:01:37.31,Default,Suruga,0,0,0,,Well, there you have it.
+Dialogue: 0,0:01:37.75,0:01:40.54,Default,Suruga,0,0,0,,This is how our romance begins.
+Dialogue: 0,0:01:41.81,0:01:46.24,Italic,Akane,0,0,0,,My name is Akane Kuzumi. \NI'm the heroine of this show.
+Dialogue: 0,0:01:47.65,0:01:53.12,Italic,Akane,0,0,0,,And Suruga Uekara and I \Nhave started dating.
+Dialogue: 0,0:03:24.98,0:03:29.61,Signs,,0,0,0,,EPISODE 7: WHAT DEFINES A PROTAGONIST
+Dialogue: 0,0:03:28.24,0:03:29.85,Default,Go,0,0,0,,Gekiha!
+Dialogue: 0,0:03:30.49,0:03:33.03,Default,Go,0,0,0,,I thought you weren't \Ngetting out until next week!
+Dialogue: 0,0:03:33.03,0:03:36.24,Default,Gekiha,0,0,0,,I'm good now. \NSorry for worrying everybody.
+Dialogue: 0,0:03:36.24,0:03:37.91,Default,Student 1,0,0,0,,That's good to hear, Gekiha.
+Dialogue: 0,0:03:37.91,0:03:39.17,Default,Student 2,0,0,0,,You sure you're okay?
+Dialogue: 0,0:03:41.91,0:03:43.49,Default,Akane,0,0,0,,Gekiha...
+Dialogue: 0,0:03:44.68,0:03:46.96,Default,Suruga,0,0,0,,Congrats on getting out, Gekiha.
+Dialogue: 0,0:03:46.96,0:03:49.46,Default,Go,0,0,0,,Those two have been really weird lately.
+Dialogue: 0,0:03:49.46,0:03:53.56,Default,Go,0,0,0,,They're always together... It's like \Nthey're going out or something.
+Dialogue: 0,0:04:02.10,0:04:05.01,Default,Suruga,0,0,0,,Fantastic! You really are \Nan amazing cook, Akane.
+Dialogue: 0,0:04:05.01,0:04:06.77,Default,Suruga,0,0,0,,I bet you'll make an amazing wife, too.
+Dialogue: 0,0:04:07.15,0:04:09.08,Default,Akane,0,0,0,,Y-You think so?
+Dialogue: 0,0:04:10.58,0:04:14.69,Italic,Akane,0,0,0,,Uekara and I have more \Nor less started dating...
+Dialogue: 0,0:04:15.55,0:04:20.83,Italic,Akane,0,0,0,,I couldn't say no. \NDandivine saved my life.
+Dialogue: 0,0:04:20.83,0:04:22.12,Italic,Akane,0,0,0,,And...
+Dialogue: 0,0:04:23.62,0:04:25.02,Italic,Akane,0,0,0,,I don't know why,
+Dialogue: 0,0:04:25.02,0:04:27.80,Italic,Akane,0,0,0,,but I sensed something like\Nkindness in Dandivine's gaze,
+Dialogue: 0,0:04:27.80,0:04:30.87,Italic,Akane,0,0,0,,even though its supposed\Nto just be a robot.
+Dialogue: 0,0:04:31.21,0:04:33.46,Italic,Akane,0,0,0,,I thought it must've \Ncome from the pilot.
+Dialogue: 0,0:04:34.06,0:04:38.79,Italic,Akane,0,0,0,,But honestly, I'm kinda unsure now,\Nand I don't really know why.
+Dialogue: 0,0:04:45.40,0:04:46.56,Default,Akane,0,0,0,,Gekiha.
+Dialogue: 0,0:04:54.17,0:04:56.11,Default,Akane,0,0,0,,Are you... okay with this?
+Dialogue: 0,0:04:56.73,0:04:59.07,Default,Gekiha,0,0,0,,Uh... what do you mean?
+Dialogue: 0,0:04:59.07,0:05:02.53,Default,Akane,0,0,0,,I mean... me and Uekara.
+Dialogue: 0,0:05:02.88,0:05:06.24,Default,Gekiha,0,0,0,,It's... not really up to me, is it?
+Dialogue: 0,0:05:06.24,0:05:10.33,Default,Akane,0,0,0,,He... actually proposed to me...
+Dialogue: 0,0:05:10.78,0:05:12.21,Italic,Akane,0,0,0,,That was a lie.
+Dialogue: 0,0:05:12.21,0:05:14.98,Default,Gekiha,0,0,0,,He... proposed?
+Dialogue: 0,0:05:15.54,0:05:17.80,Default,Gekiha,0,0,0,,Well... congratulations.
+Dialogue: 0,0:05:18.79,0:05:19.80,Default,Akane,0,0,0,,Jerk!
+Dialogue: 0,0:05:23.78,0:05:25.80,Default,Go,0,0,0,,She was totally lying.
+Dialogue: 0,0:05:26.75,0:05:27.81,Default,Gekiha,0,0,0,,She was?
+Dialogue: 0,0:05:27.81,0:05:30.69,Default,Go,0,0,0,,Yeah, man. It was a test.
+Dialogue: 0,0:05:31.11,0:05:33.27,Default,Go,0,0,0,,Are you really cool \Nwith how things are now?
+Dialogue: 0,0:05:33.27,0:05:35.90,Default,Gekiha,0,0,0,,Of course not! I just...
+Dialogue: 0,0:05:37.08,0:05:38.94,Default,Gekiha,0,0,0,,I'm taking Dandivine back!
+Dialogue: 0,0:05:40.41,0:05:44.74,Default,Mina,0,0,0,,I'm not getting a lot of love vibes \Nfrom you and Uekara, Akane.
+Dialogue: 0,0:05:44.74,0:05:46.83,Default,Mina,0,0,0,,I mean, I'm pretty sure \Nyou like someone else.
+Dialogue: 0,0:05:46.83,0:05:49.54,Default,Akane,0,0,0,,Y-Yeah. But...
+Dialogue: 0,0:05:49.99,0:05:53.00,Default,Akane,0,0,0,,Whisper, whisper... Etc, etc...
+Dialogue: 0,0:05:53.35,0:05:57.22,Default,Mina,0,0,0,,What, Uekara is Dandivine's pilot?!
+Dialogue: 0,0:05:57.22,0:06:00.01,Default,Girl 1,0,0,0,,Wait, is that true? It's Uekara?!
+Dialogue: 0,0:06:00.01,0:06:01.17,Default,Girl 2,0,0,0,,He's the one in Dandivine?!
+Dialogue: 0,0:06:01.17,0:06:04.21,Default,Akane,0,0,0,,E-Easy! Don't yell like that!
+Dialogue: 0,0:06:05.47,0:06:08.89,Italic,Akane,0,0,0,,But the rumor spread like wildfire.
+Dialogue: 0,0:06:10.66,0:06:13.19,Italic,Akane,0,0,0,,And Uekara became really popular.
+Dialogue: 0,0:06:15.89,0:06:17.26,Default,Girls,0,0,0,,Uekara!
+Dialogue: 0,0:06:17.26,0:06:18.48,Default,Girl 1,0,0,0,,I made a lunch for you!
+Dialogue: 0,0:06:18.48,0:06:19.40,Default,Girl 2,0,0,0,,Suruga!
+Dialogue: 0,0:06:19.40,0:06:21.30,Default,Girl 3,0,0,0,,Don't forget mine!
+Dialogue: 0,0:06:22.33,0:06:25.53,Default,Akane,0,0,0,,Knock it off! Uekara is mine!
+Dialogue: 0,0:06:26.18,0:06:28.58,Italic,Akane,0,0,0,,And for some reason, \Nthat made me really jealous.
+Dialogue: 0,0:06:28.96,0:06:31.13,Italic,Akane,0,0,0,,What is going on with me?
+Dialogue: 0,0:06:32.54,0:06:36.00,Italic,Akane,0,0,0,,Uekara started acting strange, too.
+Dialogue: 0,0:06:36.00,0:06:38.99,Default,Suruga,0,0,0,,You're certainly blessed, Akane.
+Dialogue: 0,0:06:38.99,0:06:43.67,Default,Suruga,0,0,0,,Getting to date a perfect, \Ninvincible hero like yours truly.
+Dialogue: 0,0:06:43.67,0:06:44.89,Default,Suruga,0,0,0,,Isn't that awesome?
+Dialogue: 0,0:06:45.30,0:06:47.43,Default,Akane,0,0,0,,Y-Yes...
+Dialogue: 0,0:06:53.04,0:06:55.84,Default,Suruga,0,0,0,,Gramps, I'm a little late \Nin filling you in...
+Dialogue: 0,0:06:55.84,0:06:59.11,Default,Suruga,0,0,0,,But a bunch of stuff happened, \Nand now I'm Dandivine's pilot.
+Dialogue: 0,0:07:00.60,0:07:02.57,Default,Head Monk,0,0,0,,And what of Gold Lios?
+Dialogue: 0,0:07:02.57,0:07:05.78,Default,Suruga,0,0,0,,Who knows? \NMaybe someone else will pilot it.
+Dialogue: 0,0:07:06.08,0:07:07.74,Default,Head Monk,0,0,0,,And you're fine with that?
+Dialogue: 0,0:07:07.74,0:07:10.18,Default,Suruga,0,0,0,,Is there some reason I shouldn't be?
+Dialogue: 0,0:07:10.18,0:07:12.54,Default,Head Monk,0,0,0,,There is. Destiny.
+Dialogue: 0,0:07:12.54,0:07:15.62,Default,Suruga,0,0,0,,Destiny? What are you talking about?
+Dialogue: 0,0:07:16.03,0:07:17.69,Default,Head Monk,0,0,0,,It will become clear in time.
+Dialogue: 0,0:07:26.04,0:07:31.06,Italic,Gekiha,0,0,0,,I'm taking Dandivine and Akane back!
+Dialogue: 0,0:07:32.26,0:07:34.69,Default,Akane,0,0,0,,Well, I need to head to work.
+Dialogue: 0,0:07:39.65,0:07:40.82,Default,Gekiha,0,0,0,,Uekara.
+Dialogue: 0,0:07:42.56,0:07:44.78,Default,Suruga,0,0,0,,What brings you out here?
+Dialogue: 0,0:07:45.30,0:07:48.24,Default,Gekiha,0,0,0,,We're friends, aren't we?
+Dialogue: 0,0:07:48.58,0:07:50.45,Default,Suruga,0,0,0,,What are you trying to say?
+Dialogue: 0,0:07:50.95,0:07:52.10,Default,Gekiha,0,0,0,,Nothing.
+Dialogue: 0,0:07:52.91,0:07:56.17,Default,Suruga,0,0,0,,If you love Akane, \Nthen steal her from me.
+Dialogue: 0,0:07:56.17,0:07:58.35,Default,Suruga,0,0,0,,Not that I think you can.
+Dialogue: 0,0:07:59.52,0:08:04.42,Default,Suruga,0,0,0,,A real man doesn't wait for someone \Nto give him things. He takes them!
+Dialogue: 0,0:08:04.81,0:08:06.76,Default,Gekiha,0,0,0,,I just don't see it that way.
+Dialogue: 0,0:08:06.76,0:08:09.95,Default,Suruga,0,0,0,,Then you can stand there and \Nwatch for the rest of your life!
+Dialogue: 0,0:08:09.95,0:08:11.97,Default,Suruga,0,0,0,,Frankly, it suits you.
+Dialogue: 0,0:08:15.26,0:08:16.68,Default,Gekiha,0,0,0,,Dammit...
+Dialogue: 0,0:08:25.36,0:08:28.53,Italic,Akane,0,0,0,,And then the moment came.
+Dialogue: 0,0:08:29.30,0:08:31.43,Italic,Car 1,0,0,0,,Watch what you're doing, dumbass!
+Dialogue: 0,0:08:31.43,0:08:33.98,Italic,Car 2,0,0,0,,You're the one who's not watching \Nwhere he's driving, idiot!
+Dialogue: 0,0:08:33.98,0:08:35.29,Italic,Car 1,0,0,0,,Say that again!
+Dialogue: 0,0:08:35.29,0:08:36.55,Italics Top,Car 2,0,0,0,,Do you even keep your eyes on the road?!
+Dialogue: 0,0:08:35.29,0:08:38.25,Default,Akane,0,0,0,,No way... Those cars...
+Dialogue: 0,0:08:38.25,0:08:41.21,Default,Suruga,0,0,0,,Is this another Phenomenal Phenomenon?
+Dialogue: 0,0:08:41.21,0:08:43.34,Italics Top,Car 1,0,0,0,,I'm curious what you're \Nactually looking at!
+Dialogue: 0,0:08:41.68,0:08:45.55,Italic,Akane,0,0,0,,That's what they call the strange things\N that happen before an Aposdoll appears.
+Dialogue: 0,0:08:43.35,0:08:45.54,Italics Top,Car 2,0,0,0,,I've got a dash cam, sucker!
+Dialogue: 0,0:08:58.74,0:09:00.81,Default,Pilots,0,0,0,,Come, Dandi Ace!
+Dialogue: 0,0:09:12.34,0:09:14.32,Default,Gekha,0,0,0,,Let's go, Dandi Ace!
+Dialogue: 0,0:09:21.79,0:09:25.13,Default,Gekha,0,0,0,,N-No... Why?
+Dialogue: 0,0:09:29.01,0:09:32.26,Default,Suruga,0,0,0,,What kept you, my companions? \NLet's get this combination on the road!
+Dialogue: 0,0:09:41.98,0:09:45.57,Default,Suruga,0,0,0,,My-Passionate-Heart Blast!
+Dialogue: 0,0:09:49.82,0:09:51.13,Default,Gekiha,0,0,0,,Dandivine...
+Dialogue: 0,0:09:52.02,0:09:56.79,Default,Gekiha,0,0,0,,It makes sense. \NOf course you'd prefer Uekara.
+Dialogue: 0,0:09:56.79,0:09:57.87,Default,Gekiha,0,0,0,,Why wouldn't you?
+Dialogue: 0,0:09:59.56,0:10:01.96,Italic,Gekiha,0,0,0,,Huh? This is weird...
+Dialogue: 0,0:10:02.37,0:10:05.07,Italic,Gekiha,0,0,0,,Why am I crying?
+Dialogue: 0,0:10:05.07,0:10:06.92,Default,Yusaku,0,0,0,,Did it come as that much of a shock?
+Dialogue: 0,0:10:09.34,0:10:12.26,Default,Gekiha,0,0,0,,U-Uncle? I'm not shocked—
+Dialogue: 0,0:10:12.26,0:10:16.79,Default,Yusaku,0,0,0,,Focus on healin' properly! \NEverything else comes after that.
+Dialogue: 0,0:10:19.75,0:10:21.58,Italic,Gekiha,0,0,0,,He's drunk.
+Dialogue: 0,0:10:22.02,0:10:25.57,Italic,Dandivine,0,0,0,,The battle isn't over yet, Suruga Uekara.
+Dialogue: 0,0:10:25.57,0:10:28.90,Default,Suruga,0,0,0,,What?! Dandivine, you can talk?
+Dialogue: 0,0:10:28.90,0:10:30.33,Italic,Cars,0,0,0,,Get that damn bike out of the way!
+Dialogue: 0,0:10:30.33,0:10:31.66,Italic,Cars,0,0,0,,It's a red light, anyway!
+Dialogue: 0,0:10:31.66,0:10:33.49,Italic,Cars,0,0,0,,You drive like an old woman!
+Dialogue: 0,0:10:33.49,0:10:36.29,Default,Suruga,0,0,0,,Of course. Vehicles being able to talk...
+Dialogue: 0,0:10:36.29,0:10:39.58,Default,Suruga,0,0,0,,The Phenomenal Phenomenon. \NThat's what's causing this.
+Dialogue: 0,0:10:39.92,0:10:43.31,Italic,Dandivine,0,0,0,,Correct. And in that sense, \NI am a vehicle.
+Dialogue: 0,0:10:43.31,0:10:46.79,Italic,Dandivine,0,0,0,,And the Phenomenal Phenomenon \Ncontinuing means...
+Dialogue: 0,0:11:01.17,0:11:02.72,Default,Suruga,0,0,0,,It's gotten more powerful!
+Dialogue: 0,0:11:03.98,0:11:06.52,Default,Suruga,0,0,0,,What?! Gold Lios?
+Dialogue: 0,0:11:09.22,0:11:11.88,Italic,Yuga,0,0,0,,My name is Yuga Shinonome.
+Dialogue: 0,0:11:12.28,0:11:16.27,Italic,Again,0,0,0,,I, Yuga Shinonome,
+Dialogue: 0,0:11:15.95,0:11:19.83,Signs,Chat,0,0,0,,YUGA? / INCONCEIVABLE / WHO'S YUGA AGAIN?\NYUGA TIME! / WHAT ARE YOU DOING HERE?
+Dialogue: 0,0:11:16.27,0:11:18.71,Italic,Yuga,0,0,0,,am the secret heroine of this show.
+Dialogue: 0,0:11:25.35,0:11:29.21,Default,Suruga,0,0,0,,Who are you supposed to be? \NAnd why are you piloting Gold Lios?
+Dialogue: 0,0:11:29.21,0:11:32.76,Default,Yuga,0,0,0,,Why? Because Yusaku asked me to.
+Dialogue: 0,0:11:32.76,0:11:35.69,Default,Yuga,0,0,0,,He probably realized Dandivine \Ncouldn't handle this alone.
+Dialogue: 0,0:11:35.69,0:11:38.93,Default,Yuga,0,0,0,,And he said he couldn't do it \Nbecause he's hung over.
+Dialogue: 0,0:11:39.35,0:11:42.10,Default,Suruga,0,0,0,,Yusaku? She must mean Yusaku Kuroiwa.
+Dialogue: 0,0:11:42.44,0:11:45.20,Default,Yuga,0,0,0,,I'm the chief of R&D at Casgar,
+Dialogue: 0,0:11:45.20,0:11:48.61,Default,Yuga,0,0,0,,a former Teito Extra-Dimensional \NTask Force member and...
+Dialogue: 0,0:11:48.61,0:11:50.56,Default,Yuga,0,0,0,,Yusaku's ex-girlfriend.
+Dialogue: 0,0:11:50.92,0:11:54.93,Italic,Suruga,0,0,0,,That's a lot to take in. I'm gonna \Npretend I didn't hear any of it.
+Dialogue: 0,0:11:55.38,0:11:58.27,Default,Suruga,0,0,0,,Whoever you are, stay out of Gold Lios!
+Dialogue: 0,0:11:58.27,0:12:00.41,Default,Suruga,0,0,0,,He's mine!
+Dialogue: 0,0:12:00.76,0:12:02.91,Default,Yuga,0,0,0,,Well, aren't you greedy?
+Dialogue: 0,0:12:03.96,0:12:08.54,Italic,Yuga,0,0,0,,During the battle, \Na disaster struck Casgar.
+Dialogue: 0,0:12:08.96,0:12:11.37,Default,Daigo,0,0,0,,B-Big trouble! It's GangDo!
+Dialogue: 0,0:12:11.37,0:12:14.92,Default,Daigo,0,0,0,,They've started taking pre-orders \Nfor their Dandivine!
+Dialogue: 0,0:12:14.92,0:12:17.13,Default,Genjuro,0,0,0,,W-What?!
+Dialogue: 0,0:12:17.13,0:12:18.76,Default,R&D,0,0,0,,Say what?!
+Dialogue: 0,0:12:18.76,0:12:21.53,Default,Katsushika,0,0,0,,It's trending at number one!
+Dialogue: 0,0:12:26.27,0:12:32.47,Italic,Akane,0,0,0,,For the time being, it looks like \Nthe Aposdoll has been dealt with, but...
+Dialogue: 0,0:12:32.90,0:12:34.78,Default,Girl 10,0,0,0,,Here, Suruga, your lunch.
+Dialogue: 0,0:12:34.78,0:12:35.73,Default,Girl 7,0,0,0,,Say, "Ahh."
+Dialogue: 0,0:12:35.73,0:12:38.35,Default,Girl 12,0,0,0,,Eat mine, too!
+Dialogue: 0,0:12:38.35,0:12:39.95,Default,Suruga,0,0,0,,If I must.
+Dialogue: 0,0:12:39.95,0:12:41.66,Default,Suruga,0,0,0,,Ahh...
+Dialogue: 0,0:12:41.94,0:12:43.66,Italic,Akane,0,0,0,,I guess it's fine.
+Dialogue: 0,0:12:54.71,0:12:55.84,Default,Akane,0,0,0,,Gekiha?
+Dialogue: 0,0:12:58.97,0:13:03.30,Flashback,Yusaku,0,0,0,,Focus on healing properly! \NEverything else comes after that.
+Dialogue: 0,0:13:09.73,0:13:10.69,Default,Akane,0,0,0,,Gekiha!
+Dialogue: 0,0:13:10.69,0:13:12.19,Default,Akane,0,0,0,,Don't overdo it!
+Dialogue: 0,0:13:14.16,0:13:16.48,Default,Akane,0,0,0,,G-Gekiha?
+Dialogue: 0,0:13:17.69,0:13:18.90,Default,Gekiha,0,0,0,,I'm sorry.
+Dialogue: 0,0:13:18.90,0:13:21.95,Default,Gekiha,0,0,0,,And I'm fine. So don't try to stop me.
+Dialogue: 0,0:13:22.58,0:13:27.29,Default,Akane,0,0,0,,Well, you need to eat if you want to \Nbe at full strength, anyway.
+Dialogue: 0,0:13:37.54,0:13:40.26,Default,Akane,0,0,0,,Gekiha... i-is it good?
+Dialogue: 0,0:13:42.82,0:13:47.24,Default,Akane,0,0,0,,Um, Gekiha... about me and Uekara...
+Dialogue: 0,0:13:47.24,0:13:48.85,Default,Akane,0,0,0,,I'm thinking of breaking up with him.
+Dialogue: 0,0:13:51.60,0:13:53.77,Italic,Akane,0,0,0,,H-He's not listening?
+Dialogue: 0,0:13:53.77,0:13:55.98,Default,Suruga,0,0,0,,What are you doing, Akane?
+Dialogue: 0,0:13:57.94,0:13:59.78,Default,Akane,0,0,0,,U-Uekara...
+Dialogue: 0,0:13:59.78,0:14:02.49,Default,Suruga,0,0,0,,You're my girlfriend.
+Dialogue: 0,0:14:02.49,0:14:04.32,Default,Suruga,0,0,0,,Come! We need to talk.
+Dialogue: 0,0:14:06.19,0:14:07.58,Default,Akane,0,0,0,,N-No!
+Dialogue: 0,0:14:07.58,0:14:10.67,Default,Akane,0,0,0,,S-Sorry. I need to say it properly.
+Dialogue: 0,0:14:10.67,0:14:12.94,Default,Akane,0,0,0,,I... I don't think we can—
+Dialogue: 0,0:14:12.94,0:14:13.87,Default,Suruga,0,0,0,,Don't!
+Dialogue: 0,0:14:14.14,0:14:18.47,Default,Suruga,0,0,0,,I am Dandivine's pilot! \NThe man that you love!
+Dialogue: 0,0:14:21.31,0:14:23.77,Italic,Akane,0,0,0,,My name is Akane Kuzumi.
+Dialogue: 0,0:14:23.77,0:14:27.22,Italic,Akane,0,0,0,,I think... I'm the heroine of this show.
+Dialogue: 0,0:14:27.22,0:14:30.95,Italic,Akane,0,0,0,,Or I should be... and I want to be.
+Dialogue: 0,0:14:30.95,0:14:32.07,Default,Suruga,0,0,0,,Akane.
+Dialogue: 0,0:14:32.90,0:14:36.18,Italic,Akane,0,0,0,,A w-wall slam? In this day and age?
+Dialogue: 0,0:14:40.65,0:14:41.74,Default,Gekiha,0,0,0,,Enough!
+Dialogue: 0,0:14:43.53,0:14:45.01,Default,Akane,0,0,0,,Gekiha?
+Dialogue: 0,0:14:46.29,0:14:49.07,Default,Suruga,0,0,0,,I didn't think you had the guts.
+Dialogue: 0,0:14:49.07,0:14:52.75,Default,Suruga,0,0,0,,But now I'm going to teach you\Nit's a total waste of time!
+Dialogue: 0,0:14:55.90,0:14:57.96,Default,Akane,0,0,0,,Stop it, Uekara!
+Dialogue: 0,0:15:02.85,0:15:05.55,Default,Suruga,0,0,0,,You dare strike me \Nin the face?! You bastard!
+Dialogue: 0,0:15:05.55,0:15:08.60,Default,Akane,0,0,0,,Don't! Don't fight over me!
+Dialogue: 0,0:15:09.07,0:15:11.31,Italic,Akane,0,0,0,,Oof. All the worst \Ngirl characters say that line.
+Dialogue: 0,0:15:14.08,0:15:17.07,Italic,Gekiha,0,0,0,,I can feel it. I'm getting better!
+Dialogue: 0,0:15:17.07,0:15:20.09,Italic,Gekiha,0,0,0,,My legs... the pain's fading!
+Dialogue: 0,0:15:23.23,0:15:24.55,Default,Gekiha,0,0,0,,That's—
+Dialogue: 0,0:15:25.20,0:15:26.28,Italic,Cars,0,0,0,,Outta my way, asshole!
+Dialogue: 0,0:15:26.28,0:15:27.57,Italic,Cars,0,0,0,,How about you pass me, punk?
+Dialogue: 0,0:15:30.51,0:15:33.29,Default,Haru,0,0,0,,I wonder what we're going to see today!
+Dialogue: 0,0:15:33.29,0:15:37.12,Default,Aki,0,0,0,,Well, considering the real pilot \Nshould be showing up again soon...
+Dialogue: 0,0:15:37.73,0:15:39.71,Default,Natsu,0,0,0,,This time, we crush him.
+Dialogue: 0,0:15:47.68,0:15:48.74,Default,Suruga,0,0,0,,What?!
+Dialogue: 0,0:15:48.74,0:15:52.01,Default,Suruga,0,0,0,,The same kind of Phenomenal \NPhenomenon! It must've recovered!
+Dialogue: 0,0:15:54.46,0:15:56.73,Default,Pilots,0,0,0,,Come, Dandi Ace!
+Dialogue: 0,0:16:08.07,0:16:10.53,Default,Suruga,0,0,0,,What {\i1}is{\i0} this?! Get a move on, Dandi Ace!
+Dialogue: 0,0:16:23.44,0:16:26.26,Italic,Ace,0,0,0,,Congratulations on your recovery, Gekiha.
+Dialogue: 0,0:16:27.52,0:16:30.28,Default,Gekiha,0,0,0,,Right... sorry to keep you waiting.
+Dialogue: 0,0:16:30.28,0:16:31.91,Default,Gekiha,0,0,0,,I'm looking forward to \Ngetting back to work!
+Dialogue: 0,0:16:32.87,0:16:35.81,Default,Suruga,0,0,0,,I-It can't be. How could Gekiha...?
+Dialogue: 0,0:16:35.81,0:16:38.39,Italic,Unicorn,0,0,0,,We've collectively chosen Gekiha!
+Dialogue: 0,0:16:38.39,0:16:40.62,Default,Suruga,0,0,0,,What's the meaning of this, companions?!
+Dialogue: 0,0:16:40.62,0:16:43.77,Italic,Garuda,0,0,0,,You're proving our point! \NYou have a bad attitude!
+Dialogue: 0,0:16:43.77,0:16:47.38,Italic,Titan,0,0,0,,And we are not your companions.
+Dialogue: 0,0:16:47.74,0:16:50.95,Default,Gekiha,0,0,0,,Okay, guys, let's combine!
+Dialogue: 0,0:16:52.28,0:16:54.33,Italic,Ace,0,0,0,,With me, Unicorn!
+Dialogue: 0,0:16:54.33,0:16:55.22,Italic,Unicorn,0,0,0,,Right!
+Dialogue: 0,0:17:01.48,0:17:03.38,Italic,Titan,0,0,0,,Titan...
+Dialogue: 0,0:17:08.04,0:17:09.30,Italic,Ace,0,0,0,,Garuda!
+Dialogue: 0,0:17:09.30,0:17:10.40,Italic,Garuda,0,0,0,,On it!
+Dialogue: 0,0:17:14.64,0:17:15.82,Italic,Ace,0,0,0,,Titan!
+Dialogue: 0,0:17:15.82,0:17:16.77,Italic,Titan,0,0,0,,Right!
+Dialogue: 0,0:17:32.48,0:17:33.70,Default,Gekiha,0,0,0,,Awaken,
+Dialogue: 0,0:17:34.95,0:17:35.91,Signs,Sign,0,0,0,,BEAST
+Dialogue: 0,0:17:35.91,0:17:36.87,Signs,Sign,0,0,0,,KING
+Dialogue: 0,0:17:36.87,0:17:37.83,Signs,Sign,0,0,0,,WAR
+Dialogue: 0,0:17:37.83,0:17:38.79,Signs,Sign,0,0,0,,GOD
+Dialogue: 0,0:17:48.67,0:17:52.43,Signs,Sign,0,0,0,,DANDIVINE
+Dialogue: 0,0:17:49.94,0:17:51.64,Default,Gekiha,0,0,0,,Dandivine!
+Dialogue: 0,0:17:55.30,0:17:57.85,Default,Gekiha,0,0,0,,Three horns?! What the...?
+Dialogue: 0,0:18:03.83,0:18:05.94,Default,Gekiha,0,0,0,,This one's different \Nfrom the other Aposdolls!
+Dialogue: 0,0:18:09.48,0:18:13.24,Default,Gekiha,0,0,0,,But... that attack's not enough \Nto hurt Dandivine!
+Dialogue: 0,0:18:18.98,0:18:21.66,Default,Gekiha,0,0,0,,That one was pretty nasty. But...!
+Dialogue: 0,0:18:25.92,0:18:26.84,Default,Gekiha,0,0,0,,In that case—
+Dialogue: 0,0:18:29.92,0:18:32.23,Default,Team,0,0,0,,Unicorn Saber!
+Dialogue: 0,0:18:38.85,0:18:41.35,Default,Team,0,0,0,,Dandi Magna Break!
+Dialogue: 0,0:18:47.29,0:18:48.48,Default,Gekiha,0,0,0,,How's that?!
+Dialogue: 0,0:18:48.48,0:18:50.40,Default,Dandivine,0,0,0,,No. It's not over yet.
+Dialogue: 0,0:18:52.86,0:18:55.00,Default,Natsu,0,0,0,,And it's over.
+Dialogue: 0,0:18:55.00,0:18:58.32,Default,Haru,0,0,0,,I guess we can't just smoosh \Na bunch of weak ones together.
+Dialogue: 0,0:19:00.68,0:19:02.73,Default,Aki,0,0,0,,Let's try this, then.
+Dialogue: 0,0:19:04.21,0:19:08.13,Flashback,Aki,0,0,0,,I'm feeling like we're \Nlosing way too easy lately.
+Dialogue: 0,0:19:08.48,0:19:09.76,Flashback,Haru,0,0,0,,Agreed.
+Dialogue: 0,0:19:09.76,0:19:13.72,Flashback,Haru,0,0,0,,Plus, since the yellow one showed up, \Nwe've been fighting 1-on-2 a lot.
+Dialogue: 0,0:19:14.08,0:19:18.46,Flashback,Natsu,0,0,0,,We don't have a ton of stones left, and \NI doubt they'd be particularly strong.
+Dialogue: 0,0:19:18.46,0:19:20.18,Flashback,Natsu,0,0,0,,I dunno how we're gonna manage...
+Dialogue: 0,0:19:23.35,0:19:28.10,Flashback Italics,Mother,0,0,0,,My darling children. Give those to me.
+Dialogue: 0,0:19:37.03,0:19:38.99,Flashback,Aki,0,0,0,,Oh, wow...
+Dialogue: 0,0:19:38.99,0:19:40.70,Flashback,Natsu,0,0,0,,I didn't think it was possible.
+Dialogue: 0,0:19:41.10,0:19:43.41,Flashback,Haru,0,0,0,,Amazing, Mother!
+Dialogue: 0,0:19:43.41,0:19:45.33,Flashback Italics,Mother,0,0,0,,Take this, as well.
+Dialogue: 0,0:19:47.73,0:19:48.83,Flashback,Aki,0,0,0,,Wow!
+Dialogue: 0,0:19:48.83,0:19:52.42,Flashback Italics,Mother,0,0,0,,I'm sure you'll enjoy\Nwhat's about to happen.
+Dialogue: 0,0:19:58.89,0:20:00.60,Default,Gekiha,0,0,0,,It transformed?!
+Dialogue: 0,0:20:06.39,0:20:10.49,Default,Gekiha,0,0,0,,What power! \NNothing like that previous form!
+Dialogue: 0,0:20:10.49,0:20:14.11,Default,Gekiha,0,0,0,,But... I'm Dandivine's pilot!
+Dialogue: 0,0:20:16.95,0:20:20.81,Italic,Dandivine,0,0,0,,Gekiha, I accept you as my true pilot.
+Dialogue: 0,0:20:21.57,0:20:23.68,Italic,Dandivine,0,0,0,,Releasing all limiters!
+Dialogue: 0,0:20:23.68,0:20:27.25,Italic,Dandivine,0,0,0,,This is Dandivine's true power!
+Dialogue: 0,0:20:30.04,0:20:32.60,Italic,Dandivine,0,0,0,,Blaze Mode!
+Dialogue: 0,0:20:32.92,0:20:35.56,Default,Gekiha,0,0,0,,With power like this... we can do it!
+Dialogue: 0,0:20:35.56,0:20:37.51,Default,Gekiha,0,0,0,,Dandivine, let's finish it!
+Dialogue: 0,0:20:37.51,0:20:38.55,Italic,Dandivine,0,0,0,,Right!
+Dialogue: 0,0:20:38.86,0:20:40.67,Default,Team,0,0,0,,Dandi Blade!
+Dialogue: 0,0:20:46.52,0:20:50.48,Default,Team,0,0,0,,Dandimate Dividing!
+Dialogue: 0,0:21:07.65,0:21:10.39,Default,Suruga,0,0,0,,Looks like I won't get \Nany action this time.
+Dialogue: 0,0:21:10.83,0:21:13.66,Italic,Gold Lios,0,0,0,,It was simply fated to happen this way.
+Dialogue: 0,0:21:14.04,0:21:18.51,Default,Suruga,0,0,0,,I guess you're the only one who \Nreally understands me, Gold Lios.
+Dialogue: 0,0:21:18.51,0:21:21.26,Default,Suruga,0,0,0,,Just don't let anyone else \Naboard, all right?
+Dialogue: 0,0:21:21.26,0:21:24.97,Italic,Gold Lios,0,0,0,,The feeling's mutual. \NDon't go piloting anyone else.
+Dialogue: 0,0:21:26.04,0:21:28.27,Default,Suruga,0,0,0,,Yeah. Okay.
+Dialogue: 0,0:21:32.65,0:21:35.85,Default,Suruga,0,0,0,,Akane. There's something \NI need to tell you.
+Dialogue: 0,0:21:35.85,0:21:38.48,Default,Suruga,0,0,0,,I'm not Dandivine's pilot anymore.
+Dialogue: 0,0:21:39.43,0:21:40.95,Default,Akane,0,0,0,,You're not?
+Dialogue: 0,0:21:40.95,0:21:45.03,Default,Suruga,0,0,0,,Which is why... I'm sorry... \Nbut this is goodbye.
+Dialogue: 0,0:21:45.03,0:21:47.99,Italic,Akane,0,0,0,,Wait, did he dump me?
+Dialogue: 0,0:21:53.35,0:21:55.78,Italic,Gekiha,0,0,0,,My name is Gekiha Shijima.
+Dialogue: 0,0:21:56.22,0:21:59.73,Italic,Gekiha,0,0,0,,I think I'm the protagonist of this show.
+Dialogue: 0,0:21:59.73,0:22:02.10,Italic,Gekiha,0,0,0,,Or I should be...
+Dialogue: 0,0:22:02.10,0:22:04.23,Italic,Gekiha,0,0,0,,And I want to be.
+Dialogue: 0,0:23:34.98,0:23:40.26,Signs,Next eptitle sign,0,0,0,,EPISODE 8: LOVE SLAVE
+Dialogue: 0,0:23:36.75,0:23:38.85,Default,Gekiha,0,0,0,,Next time: {\i1}Love Slave{\i0}.
+
