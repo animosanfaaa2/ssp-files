@@ -1,0 +1,27 @@
+[Script Info]
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+LayoutResX: 640
+LayoutResY: 360
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Flashback,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Flashback_Italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Main - Top,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: Italics - Top,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: Flashback - Top,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: Flashback_Italics - Top,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: Signs_Fix,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:53.09,0:01:57.18,Signs_Fix,sign,0,0,0,,{\an3\fad(830,440)\fnArial\fs12\an1\i0\bord1\b1\shad1\blur2\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\pos(605,310)}EP 5{\3c&H93CC2E&\4c&H93CC2E&\c&HFFFFFF&}\h\h\h\h\h\h\h\h\hHeroes and Feelings
+Dialogue: 0,0:05:55.17,0:05:57.25,Signs_Fix,sign,0,0,0,,{\fnComic Sans MS\b1\fs30\shad0\bord3\pos(326.546,120.909)\3c&H8233C1&}Pet Life
+Dialogue: 0,0:11:21.59,0:11:23.05,Signs_Fix,sign,0,0,0,,{\shad0\bord0\fnArial\fs12\an1\fay.085\frz18.56\c&HBFCCD9&\b1\pos(392.364,249.491)}Futari Shizuka\N Missed Call\N{\fs10\c&H889AAE&}Slide to call back
+
