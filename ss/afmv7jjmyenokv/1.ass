@@ -1,0 +1,370 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 1
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,24,&H00FFFFFF,&H0000FFFF,&H00000000,&HA0404040,-1,0,0,0,100,100,0,0,1,1.2,0.5,2,20,20,20,0
+Style: On Top,Gandhi Sans,24,&H00FFFFFF,&H0000FFFF,&H00000000,&HA0404040,-1,0,0,0,100,100,0,0,1,1.2,0.5,8,20,20,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.68,0:00:15.00,On Top,,0,0,0,,{\i1}kakero todoku made{\i0}
+Dialogue: 0,0:00:15.00,0:00:19.31,On Top,,0,0,0,,{\i1}kimi ni todoku made{\i0}
+Dialogue: 0,0:00:24.40,0:00:27.57,On Top,,0,0,0,,{\i1}aoku sunda unabara{\i0}
+Dialogue: 0,0:00:28.11,0:00:30.91,On Top,,0,0,0,,{\i1}kiseki no kakera{\i0}
+Dialogue: 0,0:00:31.70,0:00:37.20,On Top,,0,0,0,,{\i1}kazoekirenai hodo deaeta ne{\i0}
+Dialogue: 0,0:00:37.75,0:00:40.40,On Top,,0,0,0,,{\i1}susumu tabi susumu tabi{\i0}
+Dialogue: 0,0:00:40.40,0:00:44.23,On Top,,0,0,0,,{\i1}goru wa mada mienai mama{\i0}
+Dialogue: 0,0:00:44.23,0:00:47.78,On Top,,0,0,0,,{\i1}demo nandatte koerareru yo{\i0}
+Dialogue: 0,0:00:47.78,0:00:51.20,On Top,,0,0,0,,{\i1}sono egao mitai kara{\i0}
+Dialogue: 0,0:00:51.20,0:00:55.41,On Top,,0,0,0,,{\i1}mayoeba hikari ni nareya shinakatta{\i0}
+Dialogue: 0,0:00:55.41,0:00:59.00,On Top,,0,0,0,,{\i1}yowasa mo chanto tagayashita{\i0}
+Dialogue: 0,0:00:59.00,0:01:04.59,On Top,,0,0,0,,{\i1}hontou honki de ita bokura mada{\i0}
+Dialogue: 0,0:01:04.59,0:01:08.51,On Top,,0,0,0,,{\i1}kawaranai yo{\i0}
+Dialogue: 0,0:01:08.51,0:01:09.63,On Top,,0,0,0,,{\i1}kakero{\i0}
+Dialogue: 0,0:01:09.63,0:01:17.18,On Top,,0,0,0,,{\i1}todoku made kimi ni todoku made nee{\i0}
+Dialogue: 0,0:01:17.18,0:01:23.86,On Top,,0,0,0,,{\i1}densetsu miman datte joutou joutou{\i0}
+Dialogue: 0,0:01:23.86,0:01:30.32,On Top,,0,0,0,,{\i1}kirameku chizu itsuka waraeru hi made{\i0}
+Dialogue: 0,0:01:30.32,0:01:36.51,On Top,,0,0,0,,{\i1}mou mayoi wa nainda Fighter daijoubu{\i0}
+Dialogue: 0,0:21:34.08,0:21:37.76,On Top,,0,0,0,,{\i1}kenmei ni me wo korashite{\i0}
+Dialogue: 0,0:21:39.51,0:21:43.26,On Top,,0,0,0,,{\i1}genzaichi wo tashikameteiru{\i0}
+Dialogue: 0,0:21:44.72,0:21:49.29,On Top,,0,0,0,,{\i1}mousou to zetsubou ni nareta noumiso dewa{\i0}
+Dialogue: 0,0:21:49.29,0:21:52.56,On Top,,0,0,0,,{\i1}doushitatte chotto zurechimau ya{\i0}
+Dialogue: 0,0:21:53.19,0:21:56.98,On Top,,0,0,0,,{\i1}senmei ni ukandekuru no wa{\i0}
+Dialogue: 0,0:21:58.36,0:22:02.03,On Top,,0,0,0,,{\i1}itsudatte hidoi omoide de{\i0}
+Dialogue: 0,0:22:03.74,0:22:08.18,On Top,,0,0,0,,{\i1}kantan na taikutsu wo hiroiatsumete wa{\i0}
+Dialogue: 0,0:22:08.18,0:22:11.75,On Top,,0,0,0,,{\i1}dareka mitai ni nacchimaisou{\i0}
+Dialogue: 0,0:22:13.33,0:22:16.44,On Top,,0,0,0,,{\i1}ore ni niau mirai wa doredarou{\i0}
+Dialogue: 0,0:22:16.44,0:22:20.36,On Top,,0,0,0,,{\i1}koko kara jaa ikura me wo korashitemo{\i0}
+Dialogue: 0,0:22:20.36,0:22:22.82,On Top,,0,0,0,,{\i1}nanimo mie wa shinai sa{\i0}
+Dialogue: 0,0:22:22.82,0:22:26.28,On Top,,0,0,0,,{\i1}gyakufuu ni nokkatte{\i0}
+Dialogue: 0,0:22:26.28,0:22:29.16,On Top,,0,0,0,,{\i1}machigatta kuusou wo{\i0}
+Dialogue: 0,0:22:29.16,0:22:33.62,On Top,,0,0,0,,{\i1}kirisaita unmei no sakeme ni nagashikomu{\i0}
+Dialogue: 0,0:22:33.62,0:22:37.17,On Top,,0,0,0,,{\i1}daremo ga sou yatte{\i0}
+Dialogue: 0,0:22:37.17,0:22:41.72,On Top,,0,0,0,,{\i1}inochigake no genjitsu wo kasaneteirunda{\i0}
+Dialogue: 0,0:22:41.72,0:22:44.30,On Top,,0,0,0,,{\i1}negau hima mo nai hodo{\i0}
+Dialogue: 0,0:22:44.30,0:22:48.85,On Top,,0,0,0,,{\i1}sawagashii ashita ga kuru{\i0}
+Dialogue: 0,0:22:48.85,0:22:53.69,On Top,,0,0,0,,{\i1}sono mirai wa hora{\i0}
+Dialogue: 0,0:22:53.69,0:22:57.84,On Top,,0,0,0,,{\i1}ore no mon da yo{\i0}
+Dialogue: 0,0:00:09.68,0:00:11.68,Default,,0,0,0,,
+Dialogue: 0,0:00:11.68,0:00:15.00,Default,,0,0,0,,{\i1}Run, until we reach{\i0}
+Dialogue: 0,0:00:15.00,0:00:19.31,Default,,0,0,0,,{\i1}Until we reach you{\i0}
+Dialogue: 0,0:00:24.40,0:00:27.57,Default,,0,0,0,,{\i1}The clear blue open sea{\i0}
+Dialogue: 0,0:00:28.11,0:00:30.91,Default,,0,0,0,,{\i1}A sliver of a miracle{\i0}
+Dialogue: 0,0:00:31.70,0:00:37.20,Default,,0,0,0,,{\i1}We've encountered more\NThan we could ever imagine{\i0}
+Dialogue: 0,0:00:37.75,0:00:40.40,Default,,0,0,0,,{\i1}With every step we take on this journey{\i0}
+Dialogue: 0,0:00:40.40,0:00:44.23,Default,,0,0,0,,{\i1}The goal is still out of sight{\i0}
+Dialogue: 0,0:00:44.23,0:00:47.78,Default,,0,0,0,,{\i1}But we can overcome anything{\i0}
+Dialogue: 0,0:00:47.78,0:00:51.20,Default,,0,0,0,,{\i1}Just to see your smile{\i0}
+Dialogue: 0,0:00:51.20,0:00:55.41,Default,,0,0,0,,{\i1}If we wavered, we couldn't shine{\i0}
+Dialogue: 0,0:00:55.41,0:00:59.00,Default,,0,0,0,,{\i1}We even strove to conquer our weaknesses{\i0}
+Dialogue: 0,0:00:59.00,0:01:04.59,Default,,0,0,0,,{\i1}We, who were truly devoted{\i0}
+Dialogue: 0,0:01:04.59,0:01:08.51,Default,,0,0,0,,{\i1}Have always been the same{\i0}
+Dialogue: 0,0:01:08.51,0:01:09.63,Default,,0,0,0,,{\i1}Run{\i0}
+Dialogue: 0,0:01:09.63,0:01:17.18,Default,,0,0,0,,{\i1}Until we reach\NUntil we reach you, hey{\i0}
+Dialogue: 0,0:01:17.18,0:01:23.86,Default,,0,0,0,,{\i1}Less than legendary?\NNo problem! It's all good!{\i0}
+Dialogue: 0,0:01:23.86,0:01:30.32,Default,,0,0,0,,{\i1}Until the day we can laugh\NFollow the shining map{\i0}
+Dialogue: 0,0:01:30.32,0:01:36.51,Default,,0,0,0,,{\i1}So, no more hesitation, fighter\NIt's gonna be alright{\i0}
+Dialogue: 0,0:01:44.31,0:01:46.11,Default,,0,0,0,,Unforgivable.
+Dialogue: 0,0:01:46.48,0:01:48.36,Default,,0,0,0,,My room...
+Dialogue: 0,0:01:49.86,0:01:51.61,Default,,0,0,0,,I mean, temple...
+Dialogue: 0,0:01:55.74,0:01:58.12,Default,,0,0,0,,My pets...
+Dialogue: 0,0:02:00.29,0:02:02.75,Default,,0,0,0,,I mean, servants...
+Dialogue: 0,0:02:06.38,0:02:08.32,Default,,0,0,0,,I will make you pay...
+Dialogue: 0,0:02:08.32,0:02:10.78,Default,,0,0,0,,You're my living dolls!
+Dialogue: 0,0:02:10.78,0:02:14.18,Default,,0,0,0,,Livedolls!
+Dialogue: 0,0:02:18.26,0:02:23.35,Default,,0,0,0,,{\i1}"Destroy the Miniature Garden -\NEscape Block Kingdom!"{\i0}
+Dialogue: 0,0:02:24.77,0:02:27.61,Default,,0,0,0,,How dare you ruin my kingdom?!
+Dialogue: 0,0:02:29.27,0:02:30.90,Default,,0,0,0,,Unforgivable.
+Dialogue: 0,0:02:32.90,0:02:35.10,Default,,0,0,0,,What is Iscat-{\i1}sama{\i0} doing?!
+Dialogue: 0,0:02:35.10,0:02:37.78,Default,,0,0,0,,Sun God-{\i1}sama{\i0}! Please be calm!
+Dialogue: 0,0:02:46.63,0:02:47.90,Default,,0,0,0,,Look!
+Dialogue: 0,0:02:47.90,0:02:49.99,Default,,0,0,0,,The sky over there! That flame!
+Dialogue: 0,0:02:49.99,0:02:52.74,Default,,0,0,0,,If nothing is done,\Nthe kingdom will perish!
+Dialogue: 0,0:02:52.74,0:02:55.13,Default,,0,0,0,,The world will end!
+Dialogue: 0,0:02:55.59,0:02:57.45,Default,,0,0,0,,I won't let you get away!
+Dialogue: 0,0:02:57.45,0:02:59.87,Default,,0,0,0,,Get back here!
+Dialogue: 0,0:02:59.87,0:03:02.58,Default,,0,0,0,,He's so scary!
+Dialogue: 0,0:03:02.58,0:03:05.92,Default,,0,0,0,,A god? He's more like a devil.
+Dialogue: 0,0:03:05.92,0:03:07.81,Default,,0,0,0,,That bastard.
+Dialogue: 0,0:03:12.86,0:03:14.59,Default,,0,0,0,,W-Which way?
+Dialogue: 0,0:03:14.59,0:03:16.45,Default,,0,0,0,,Um... Right!
+Dialogue: 0,0:03:18.37,0:03:20.28,Default,,0,0,0,,Iscat.
+Dialogue: 0,0:03:22.41,0:03:23.70,Default,,0,0,0,,There you are!
+Dialogue: 0,0:03:28.50,0:03:30.13,Default,,0,0,0,,Stop running!
+Dialogue: 0,0:03:31.04,0:03:33.20,Default,,0,0,0,,Hey, look, Luffy! A town!
+Dialogue: 0,0:03:33.20,0:03:34.24,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:03:34.24,0:03:36.20,Default,,0,0,0,,There's a steep hill. Can we get over it?
+Dialogue: 0,0:03:36.20,0:03:39.26,Default,,0,0,0,,He made this whole thing out of blocks?!
+Dialogue: 0,0:03:39.76,0:03:41.33,Default,,0,0,0,,Awesome!
+Dialogue: 0,0:03:41.33,0:03:43.97,Default,,0,0,0,,There's no time to be impressed!
+Dialogue: 0,0:03:47.31,0:03:49.42,Default,,0,0,0,,Oh no! He'll catch up!
+Dialogue: 0,0:03:49.42,0:03:50.96,Default,,0,0,0,,What do we do?! Go around?!
+Dialogue: 0,0:03:50.96,0:03:51.88,Default,,0,0,0,,I'll cut it up.
+Dialogue: 0,0:03:51.88,0:03:53.42,Default,,0,0,0,,No, I'll kick it to pieces.
+Dialogue: 0,0:03:53.42,0:03:54.32,Default,,0,0,0,,No...
+Dialogue: 0,0:03:56.15,0:03:57.59,Default,,0,0,0,,We'll crash, we'll crash!
+Dialogue: 0,0:03:57.59,0:03:59.70,Default,,0,0,0,,We'll crash!
+Dialogue: 0,0:04:00.70,0:04:03.91,Default,,0,0,0,,Jump, Cat!
+Dialogue: 0,0:04:06.37,0:04:07.50,Default,,0,0,0,,Iscat-{\i1}sama{\i0}?!
+Dialogue: 0,0:04:19.13,0:04:21.20,Default,,0,0,0,,He put so much effort into creating this.
+Dialogue: 0,0:04:21.20,0:04:23.76,Default,,0,0,0,,Let's try not to destroy it\Nwhile making our escape!
+Dialogue: 0,0:04:29.90,0:04:31.73,Default,,0,0,0,,He stalled!
+Dialogue: 0,0:04:39.74,0:04:41.07,Default,,0,0,0,,Hey, Cat!
+Dialogue: 0,0:04:43.28,0:04:45.02,Default,,0,0,0,,Are you okay, Nami-{\i1}san{\i0}?
+Dialogue: 0,0:04:45.02,0:04:47.10,Default,,0,0,0,,Thank you, Sanji-{\i1}kun{\i0}.
+Dialogue: 0,0:04:47.10,0:04:49.00,Default,,0,0,0,,Let go of me.
+Dialogue: 0,0:04:49.50,0:04:50.87,Default,,0,0,0,,You, too.
+Dialogue: 0,0:04:52.38,0:04:54.92,Default,,0,0,0,,Oh, gee... You really messed it up.
+Dialogue: 0,0:04:55.38,0:04:57.38,Default,,0,0,0,,This is why I said I'd cut it up.
+Dialogue: 0,0:04:57.92,0:05:00.24,Default,,0,0,0,,What's done is done.
+Dialogue: 0,0:05:00.24,0:05:01.59,Default,,0,0,0,,Be careful next time!
+Dialogue: 0,0:05:06.35,0:05:09.85,Default,,0,0,0,,A jump of unbridled recklessness.
+Dialogue: 0,0:05:11.27,0:05:14.84,Default,,0,0,0,,The crime of\Ndestroying the world I created.
+Dialogue: 0,0:05:14.84,0:05:16.61,Default,,0,0,0,,Unforgivable!
+Dialogue: 0,0:05:18.53,0:05:19.40,Default,,0,0,0,,He's coming!
+Dialogue: 0,0:05:21.24,0:05:22.11,Default,,0,0,0,,All right!
+Dialogue: 0,0:05:25.87,0:05:28.08,Default,,0,0,0,,Run, Cat!
+Dialogue: 0,0:05:35.50,0:05:37.09,Default,,0,0,0,,Iscat!
+Dialogue: 0,0:05:37.55,0:05:40.76,Default,,0,0,0,,Why are you helping them?
+Dialogue: 0,0:05:41.93,0:05:44.01,Default,,0,0,0,,Stop!
+Dialogue: 0,0:05:48.85,0:05:51.75,Default,,0,0,0,,This cat will take us to the edge in no time.
+Dialogue: 0,0:05:51.75,0:05:52.44,Default,,0,0,0,,What?
+Dialogue: 0,0:05:52.89,0:05:54.46,Default,,0,0,0,,But it looks endless.
+Dialogue: 0,0:05:54.46,0:05:58.46,Default,,0,0,0,,Gee, Luffy. Just look at the blueprint...
+Dialogue: 0,0:05:58.46,0:06:01.44,Default,,0,0,0,,No! What are you doing?!
+Dialogue: 0,0:06:01.99,0:06:03.66,Default,,0,0,0,,It's okay. I remember everything!
+Dialogue: 0,0:06:05.74,0:06:06.91,Default,,0,0,0,,Really?
+Dialogue: 0,0:06:10.50,0:06:11.89,Default,,0,0,0,,Look, Luffy.
+Dialogue: 0,0:06:11.89,0:06:14.52,Default,,0,0,0,,The mirror door we just saw\Nis reflected over there.
+Dialogue: 0,0:06:14.52,0:06:16.02,Default,,0,0,0,,Oh, you're right.
+Dialogue: 0,0:06:16.02,0:06:19.17,Default,,0,0,0,,If you look closely, those clouds\Nare just hanging cotton.
+Dialogue: 0,0:06:25.43,0:06:27.30,Default,,0,0,0,,Oh, they are.
+Dialogue: 0,0:06:28.64,0:06:32.54,Default,,0,0,0,,Even if it looks vast,\Nit's just a Giant's room.
+Dialogue: 0,0:06:32.54,0:06:37.00,Default,,0,0,0,,With mirrors in every direction,\Nno wonder the view goes on forever.
+Dialogue: 0,0:06:37.00,0:06:38.88,Default,,0,0,0,,So we can get there in no time.
+Dialogue: 0,0:06:38.88,0:06:40.61,Default,,0,0,0,,Now, we just go straight.
+Dialogue: 0,0:06:41.23,0:06:43.40,Default,,0,0,0,,We've already passed\Nhalfway through the kingdom.
+Dialogue: 0,0:06:44.86,0:06:46.57,Default,,0,0,0,,We'll get there soon.
+Dialogue: 0,0:06:47.20,0:06:48.74,Default,,0,0,0,,I see.
+Dialogue: 0,0:06:50.87,0:06:55.46,Default,,0,0,0,,You think you know everything about this world\Njust by seeing the blueprints-{\i1}gozaru{\i0}?
+Dialogue: 0,0:06:55.92,0:06:58.67,Default,,0,0,0,,Is he talking like a samurai?
+Dialogue: 0,0:06:59.13,0:07:03.45,Default,,0,0,0,,But this was originally\Na holding cell for Giants.
+Dialogue: 0,0:07:03.45,0:07:04.34,Default,,0,0,0,,A net?
+Dialogue: 0,0:07:06.51,0:07:08.89,Default,,0,0,0,,If we get caught,\Nthere's no telling what he'll do to us.
+Dialogue: 0,0:07:09.39,0:07:11.47,Default,,0,0,0,,Hurry to the wall!
+Dialogue: 0,0:07:15.06,0:07:21.52,Default,,0,0,0,,This facility was designed to be inescapable\Nfor any Giant. You really think...
+Dialogue: 0,0:07:31.03,0:07:33.02,Default,,0,0,0,,Damn you!
+Dialogue: 0,0:07:33.02,0:07:34.70,Default,,0,0,0,,That was your own fault!
+Dialogue: 0,0:07:37.12,0:07:40.13,Default,,0,0,0,,Even if you make it to the wall,
+Dialogue: 0,0:07:40.79,0:07:44.84,Default,,0,0,0,,you'll never be able to break it!
+Dialogue: 0,0:07:51.81,0:07:55.04,Default,,0,0,0,,What's more, even if you go that way,\Nit's just a dead end-{\i1}gozaru{\i0}.
+Dialogue: 0,0:07:55.04,0:07:56.25,Default,,0,0,0,,Oh no!
+Dialogue: 0,0:07:56.25,0:07:57.33,Default,,0,0,0,,What do we do?!
+Dialogue: 0,0:07:57.33,0:07:59.04,Default,,0,0,0,,We're so close!
+Dialogue: 0,0:07:59.04,0:08:01.06,Default,,0,0,0,,Hey, why didn't you dodge it, Cat?!
+Dialogue: 0,0:08:06.11,0:08:07.68,Default,,0,0,0,,Why is this happening to Iscat-{\i1}sama{\i0}?
+Dialogue: 0,0:08:07.68,0:08:09.68,Default,,0,0,0,,Who are those people on him?
+Dialogue: 0,0:08:09.68,0:08:13.47,Default,,0,0,0,,Come with me now, you damn Livedolls.
+Dialogue: 0,0:08:13.47,0:08:16.83,Default,,0,0,0,,Return to me.
+Dialogue: 0,0:08:25.09,0:08:26.42,Default,,0,0,0,,Just...
+Dialogue: 0,0:08:29.38,0:08:30.55,Default,,0,0,0,,...keep moving!
+Dialogue: 0,0:08:44.19,0:08:46.53,Default,,0,0,0,,Go!
+Dialogue: 0,0:08:48.86,0:08:51.74,Default,,0,0,0,,Get back here, Iscat!
+Dialogue: 0,0:08:52.37,0:08:55.70,Default,,0,0,0,,They tore through the metal wires?
+Dialogue: 0,0:09:00.83,0:09:06.28,Default,,0,0,0,,No matter how much you puny dolls struggle,\Nmy script remains unchanged!
+Dialogue: 0,0:09:06.28,0:09:09.70,Default,,0,0,0,,You know that, don't you, Iscat?!
+Dialogue: 0,0:09:09.70,0:09:12.30,Default,,0,0,0,,The price of treason is steep!
+Dialogue: 0,0:09:14.60,0:09:15.74,Default,,0,0,0,,Uh-huh.
+Dialogue: 0,0:09:15.74,0:09:17.75,Default,,0,0,0,,He says, "Shut up with your nonsense!"
+Dialogue: 0,0:09:17.75,0:09:21.12,Default,,0,0,0,,What? How dare you\Nspeak to your master like that?
+Dialogue: 0,0:09:21.12,0:09:25.73,Default,,0,0,0,,But it's a waste of effort\Nbecause the vicious Ear God lies ahead!
+Dialogue: 0,0:09:26.98,0:09:29.36,Default,,0,0,0,,Please stop, Iscat-{\i1}sama{\i0}!
+Dialogue: 0,0:09:30.86,0:09:32.32,Default,,0,0,0,,Sun God-{\i1}sama{\i0}!
+Dialogue: 0,0:09:32.95,0:09:35.60,Default,,0,0,0,,We actually have some news\Nabout the Ear God.
+Dialogue: 0,0:09:35.60,0:09:38.54,Default,,0,0,0,,He died in a fire today\Nunder mysterious circumstances.
+Dialogue: 0,0:09:39.16,0:09:42.48,Default,,0,0,0,,Just as we felt it was tragic\Nand profoundly ill-omened,
+Dialogue: 0,0:09:42.48,0:09:45.15,Default,,0,0,0,,the sky cracked\Nin a most mysterious fashion!
+Dialogue: 0,0:09:45.15,0:09:47.65,Default,,0,0,0,,Bigstein Castle has been severely damaged, too.
+Dialogue: 0,0:09:47.65,0:09:49.36,Default,,0,0,0,,And Iscat-{\i1}sama{\i0} has gone mad!
+Dialogue: 0,0:09:49.36,0:09:51.67,Default,,0,0,0,,This is truly a cursed day!
+Dialogue: 0,0:09:53.01,0:09:54.64,Default,,0,0,0,,{\i1}Did they take it down?{\i0}
+Dialogue: 0,0:09:55.10,0:09:56.83,Default,,0,0,0,,{\i1}No way!{\i0}
+Dialogue: 0,0:09:56.83,0:10:00.31,Default,,0,0,0,,{\i1}That vicious carnivorous rabbit,\NGlut-Bunny, was defeated?!{\i0}
+Dialogue: 0,0:10:03.14,0:10:07.73,Default,,0,0,0,,By the time we realized,\Nthis was all that remained...
+Dialogue: 0,0:10:14.61,0:10:17.20,Default,,0,0,0,,Please contain your rage!
+Dialogue: 0,0:10:20.29,0:10:22.50,Default,,0,0,0,,P-Please be calm...
+Dialogue: 0,0:10:27.59,0:10:29.80,Default,,0,0,0,,Sun God-{\i1}sama{\i0}?
+Dialogue: 0,0:10:31.42,0:10:32.63,Default,,0,0,0,,How lovely!
+Dialogue: 0,0:10:33.88,0:10:37.14,Default,,0,0,0,,So precious!\NThis, too, is how a world works!
+Dialogue: 0,0:10:38.60,0:10:42.41,Default,,0,0,0,,An unscripted drama\Nin an enclosed miniature garden.
+Dialogue: 0,0:10:42.41,0:10:46.31,Default,,0,0,0,,I underestimated them!\NThey're giving me quite a thrill-{\i1}gozaru{\i0}.
+Dialogue: 0,0:10:47.65,0:10:50.09,Default,,0,0,0,,In the world I created,
+Dialogue: 0,0:10:50.09,0:10:52.44,Default,,0,0,0,,evil and heroes are born,
+Dialogue: 0,0:10:52.90,0:10:55.15,Default,,0,0,0,,and history begins to unfold!
+Dialogue: 0,0:10:55.61,0:10:59.99,Default,,0,0,0,,Livedolls add a subtle charm\Nto my own miniature world!
+Dialogue: 0,0:11:04.50,0:11:06.58,Default,,0,0,0,,Why is he laughing?
+Dialogue: 0,0:11:34.49,0:11:37.78,Default,,0,0,0,,Could this be our one and only chance?
+Dialogue: 0,0:11:38.45,0:11:40.53,Default,,0,0,0,,The way out is open!
+Dialogue: 0,0:11:41.99,0:11:43.70,Default,,0,0,0,,We need to move now.
+Dialogue: 0,0:11:44.12,0:11:45.71,Default,,0,0,0,,Tell everyone!
+Dialogue: 0,0:11:46.87,0:11:51.02,Default,,0,0,0,,Struggle! In the palm of my hand!
+Dialogue: 0,0:11:51.02,0:11:54.96,Default,,0,0,0,,Even if Hajrudin thinks highly of you,\NI don't!
+Dialogue: 0,0:12:02.06,0:12:02.81,Default,,0,0,0,,Hajrudin?
+Dialogue: 0,0:12:04.89,0:12:06.77,Default,,0,0,0,,This bastard...
+Dialogue: 0,0:12:07.27,0:12:08.73,Default,,0,0,0,,Who is he?
+Dialogue: 0,0:12:11.94,0:12:13.13,Default,,0,0,0,,So...
+Dialogue: 0,0:12:13.13,0:12:15.03,Default,,0,0,0,,...what's your next move?
+Dialogue: 0,0:12:17.86,0:12:19.99,Default,,0,0,0,,The wall is behind that big tree!
+Dialogue: 0,0:12:20.70,0:12:23.14,Default,,0,0,0,,But how are we going to get out?!
+Dialogue: 0,0:12:23.14,0:12:25.10,Default,,0,0,0,,If he catches us again,\Nwe'll be in trouble.
+Dialogue: 0,0:12:25.10,0:12:26.54,Default,,0,0,0,,I won't let him!
+Dialogue: 0,0:12:28.12,0:12:29.75,Default,,0,0,0,,It's within range!
+Dialogue: 0,0:12:32.09,0:12:34.17,Default,,0,0,0,,Special Attack Green Star!
+Dialogue: 0,0:12:35.76,0:12:37.84,Default,,0,0,0,,Skull Bomb-Grass!
+Dialogue: 0,0:13:13.92,0:13:16.13,Default,,0,0,0,,We wrecked a whole bunch more...
+Dialogue: 0,0:13:17.34,0:13:19.78,Default,,0,0,0,,Hey! Sorry about that!
+Dialogue: 0,0:13:19.78,0:13:21.32,Default,,0,0,0,,Who cares?!
+Dialogue: 0,0:13:21.32,0:13:23.95,Default,,0,0,0,,I care! You destroyed too much!
+Dialogue: 0,0:13:23.95,0:13:26.45,Default,,0,0,0,,Okay, okay! My bad!
+Dialogue: 0,0:13:26.45,0:13:28.04,Default,,0,0,0,,As long as you get it.
+Dialogue: 0,0:13:28.04,0:13:31.42,Default,,0,0,0,,Anyway, look, Luffy.\NI managed to break the mirror,
+Dialogue: 0,0:13:31.42,0:13:33.63,Default,,0,0,0,,but the wall must be pretty solid.
+Dialogue: 0,0:13:33.63,0:13:35.63,Default,,0,0,0,,That's right.
+Dialogue: 0,0:13:35.63,0:13:37.78,Default,,0,0,0,,You can't break it.
+Dialogue: 0,0:13:38.15,0:13:40.53,Default,,0,0,0,,It's impossible to break out of here.
+Dialogue: 0,0:13:42.45,0:13:44.70,Default,,0,0,0,,Great! This is great-{\i1}gozaru{\i0}!
+Dialogue: 0,0:13:45.41,0:13:47.77,Default,,0,0,0,,The helpless dolls try to defy their fate!
+Dialogue: 0,0:13:47.77,0:13:49.95,Default,,0,0,0,,They're my faves!\NThis is the best episode ever!
+Dialogue: 0,0:13:54.33,0:13:57.32,Default,,0,0,0,,Emptiness and despair\Nalso make up this world.
+Dialogue: 0,0:13:57.32,0:13:59.61,Default,,0,0,0,,Setbacks and discouragement...
+Dialogue: 0,0:13:59.61,0:14:01.80,Default,,0,0,0,,...are also part of history!
+Dialogue: 0,0:14:02.38,0:14:06.22,Default,,0,0,0,,What are you prattling on about?
+Dialogue: 0,0:14:07.72,0:14:09.43,Default,,0,0,0,,Hey, Cat, can you still go on?
+Dialogue: 0,0:14:19.32,0:14:20.38,Default,,0,0,0,,Go, Cat!
+Dialogue: 0,0:14:20.38,0:14:21.34,Default,,0,0,0,,Get moving!
+Dialogue: 0,0:14:21.34,0:14:23.01,Default,,0,0,0,,He's coming!
+Dialogue: 0,0:14:23.01,0:14:24.28,Default,,0,0,0,,Run, Cat!
+Dialogue: 0,0:14:24.74,0:14:26.51,Default,,0,0,0,,Can't you go any faster?
+Dialogue: 0,0:14:26.51,0:14:27.85,Default,,0,0,0,,He'll catch up!
+Dialogue: 0,0:14:27.85,0:14:29.31,Default,,0,0,0,,--Let me cut him up.\N--I'll kick him down.
+Dialogue: 0,0:14:29.31,0:14:30.41,Default,,0,0,0,,Cat!
+Dialogue: 0,0:14:31.66,0:14:33.16,Default,,0,0,0,,He says, "Shut up!"
+Dialogue: 0,0:14:33.62,0:14:36.31,Default,,0,0,0,,Weak and pathetic! Yet so bold!
+Dialogue: 0,0:14:36.31,0:14:38.11,Default,,0,0,0,,It hits me right in the feels!
+Dialogue: 0,0:14:38.11,0:14:40.36,Default,,0,0,0,,I'm glad to have you all here!
+Dialogue: 0,0:14:40.36,0:14:41.63,Default,,0,0,0,,Ultrarare Luffy!
+Dialogue: 0,0:14:42.59,0:14:43.65,Default,,0,0,0,,Ultrarare Zoro!
+Dialogue: 0,0:14:43.65,0:14:45.24,Default,,0,0,0,,Ultrarare Sanji!
+Dialogue: 0,0:14:45.24,0:14:46.66,Default,,0,0,0,,Ultrarare Usopp!
+Dialogue: 0,0:14:46.66,0:14:47.41,Default,,0,0,0,,Me?
+Dialogue: 0,0:14:47.41,0:14:48.81,Default,,0,0,0,,Ultrarare Chopper!
+Dialogue: 0,0:14:49.68,0:14:50.62,Default,,0,0,0,,Ultrarare Nami!
+Dialogue: 0,0:14:50.62,0:14:51.77,Default,,0,0,0,,Wait a minute!
+Dialogue: 0,0:14:52.23,0:14:54.67,Default,,0,0,0,,How does he know who we are?!
+Dialogue: 0,0:14:54.67,0:14:56.06,Default,,0,0,0,,What does he mean by "ultrarare"?
+Dialogue: 0,0:15:06.20,0:15:07.89,Default,,0,0,0,,What is he doing?
+Dialogue: 0,0:15:07.89,0:15:11.85,Default,,0,0,0,,Anyway, what should we do?!\NHe'll catch up to us at this rate!
+Dialogue: 0,0:15:11.85,0:15:13.85,Default,,0,0,0,,Hey, Usopp.
+Dialogue: 0,0:15:13.85,0:15:16.73,Default,,0,0,0,,Natural disasters\Nare nobody's fault, right?
+Dialogue: 0,0:15:16.73,0:15:20.78,Default,,0,0,0,,What? Well, yeah,\Nlike for earthquakes, floods, and lightning,
+Dialogue: 0,0:15:20.78,0:15:22.76,Default,,0,0,0,,you can't blame anyone for them.
+Dialogue: 0,0:15:23.26,0:15:27.43,Default,,0,0,0,,We had a truly terrifying experience,\Ndidn't we?
+Dialogue: 0,0:15:32.60,0:15:34.58,Default,,0,0,0,,Honestly, that guy...
+Dialogue: 0,0:15:34.58,0:15:35.56,Default,,0,0,0,,...annoys me!
+Dialogue: 0,0:15:36.10,0:15:38.54,Default,,0,0,0,,I know, but he's a Giant and we can't...
+Dialogue: 0,0:15:38.54,0:15:40.04,Default,,0,0,0,,I get it, Nami-{\i1}san{\i0}.
+Dialogue: 0,0:15:40.04,0:15:44.11,Default,,0,0,0,,Your frustration.\NThat guy's been pissing me off, too.
+Dialogue: 0,0:15:44.57,0:15:46.38,Default,,0,0,0,,Because I've been thinking that...
+Dialogue: 0,0:15:46.38,0:15:47.61,Default,,0,0,0,,...that bastard...
+Dialogue: 0,0:15:48.16,0:15:51.49,Default,,0,0,0,,...must have changed your clothes!
+Dialogue: 0,0:15:54.33,0:15:55.37,Default,,0,0,0,,Let's get him.
+Dialogue: 0,0:15:55.71,0:15:58.69,Default,,0,0,0,,No no, wait, Sanji! Listen to me!
+Dialogue: 0,0:15:58.69,0:16:00.86,Default,,0,0,0,,I'm not gonna listen to any man!
+Dialogue: 0,0:16:00.86,0:16:03.03,Default,,0,0,0,,That's not good, Sanji-{\i1}kun{\i0}.
+Dialogue: 0,0:16:03.03,0:16:04.36,Default,,0,0,0,,Nami-{\i1}san{\i0}, why?
+Dialogue: 0,0:16:04.36,0:16:06.01,Default,,0,0,0,,But I believe...
+Dialogue: 0,0:16:06.38,0:16:08.51,Default,,0,0,0,,...divine retribution is coming his way.
+Dialogue: 0,0:16:34.16,0:16:36.58,Default,,0,0,0,,Muginn, what's the matter-{\i1}gozaru{\i0}?
+Dialogue: 0,0:16:37.04,0:16:39.50,Default,,0,0,0,,What did you bring to me this time-{\i1}gozaru{\i0}?
+Dialogue: 0,0:16:50.26,0:16:52.83,Default,,0,0,0,,Hey! They're the Straw Hats!
+Dialogue: 0,0:16:52.83,0:16:56.54,Default,,0,0,0,,The Giant Pirate Crew\Nshould be picking them up right now.
+Dialogue: 0,0:16:56.54,0:16:58.98,Default,,0,0,0,,Where did you find them-{\i1}gozaru{\i0}?!
+Dialogue: 0,0:17:00.27,0:17:03.88,Default,,0,0,0,,Does anyone know?\NThey're sleeping quite soundly.
+Dialogue: 0,0:17:03.88,0:17:08.36,Default,,0,0,0,,Did they maybe pass through the Sleeping Mists\Non their way from Egghead?
+Dialogue: 0,0:17:12.45,0:17:15.08,Default,,0,0,0,,Well, this is an unexpected stroke of luck!
+Dialogue: 0,0:17:15.74,0:17:18.29,Default,,0,0,0,,The Straw Hats...
+Dialogue: 0,0:17:19.16,0:17:24.86,Default,,0,0,0,,To be honest, when I heard that Hajrudin\Nhad become his underling without a word,
+Dialogue: 0,0:17:24.86,0:17:26.67,Default,,0,0,0,,I was irritated!
+Dialogue: 0,0:17:29.01,0:17:30.57,Default,,0,0,0,,Hey, wait, Hajrudin!
+Dialogue: 0,0:17:30.57,0:17:32.93,Default,,0,0,0,,I heard the news!\NAre you out of your mind?!
+Dialogue: 0,0:17:33.97,0:17:38.37,Default,,0,0,0,,Since I'm a member of the New Giant\NWarrior Pirates, I'd end up his underling too!
+Dialogue: 0,0:17:38.37,0:17:43.25,Default,,0,0,0,,Elbaph warriors are the strongest in the world!\NWhy should we serve a puny human?!
+Dialogue: 0,0:17:43.25,0:17:46.48,Default,,0,0,0,,Don't they have any pride?!
+Dialogue: 0,0:17:47.78,0:17:50.68,Default,,0,0,0,,Look at him!\NHe's so small and looks weak!
+Dialogue: 0,0:17:50.68,0:17:53.74,Default,,0,0,0,,He's fast asleep and completely defenseless.\NHow pathetic!
+Dialogue: 0,0:17:59.75,0:18:03.37,Default,,0,0,0,,This one is... is... my new fave!
+Dialogue: 0,0:18:04.29,0:18:05.84,Default,,0,0,0,,Ultrarare Nami!
+Dialogue: 0,0:18:08.17,0:18:08.80,Default,,0,0,0,,Oops!
+Dialogue: 0,0:18:21.06,0:18:23.79,Default,,0,0,0,,{\i1}I'll let you sleep a little longer.{\i0}
+Dialogue: 0,0:18:23.79,0:18:26.19,Default,,0,0,0,,{\i1}When you wake up...{\i0}
+Dialogue: 0,0:18:28.65,0:18:31.24,Default,,0,0,0,,It's fine if you all just\Nstay missing like this, right?!
+Dialogue: 0,0:18:32.74,0:18:36.39,Default,,0,0,0,,Let's run amok and live together\Nright here forever.
+Dialogue: 0,0:18:36.39,0:18:39.33,Default,,0,0,0,,I won't be your underling,\Nbut I can be your superior...
+Dialogue: 0,0:18:45.92,0:18:49.40,Default,,0,0,0,,What the...\NI don't remember making these clouds.
+Dialogue: 0,0:18:49.40,0:18:51.67,Default,,0,0,0,,You ready, Zeus?!
+Dialogue: 0,0:18:54.80,0:18:57.14,Default,,0,0,0,,I'm fully recharged, Nami!
+Dialogue: 0,0:18:57.97,0:18:59.43,Default,,0,0,0,,Alright, it's all yours!
+Dialogue: 0,0:19:01.31,0:19:02.48,Default,,0,0,0,,Lightning Blast!
+Dialogue: 0,0:19:04.64,0:19:07.40,Default,,0,0,0,,Here we go!
+Dialogue: 0,0:19:26.71,0:19:29.63,Default,,0,0,0,,Sun God-{\i1}sama{\i0}!
+Dialogue: 0,0:19:47.35,0:19:49.96,Default,,0,0,0,,Are you crazy?! You went too far!
+Dialogue: 0,0:19:49.96,0:19:51.98,Default,,0,0,0,,What are you gonna do about it?!
+Dialogue: 0,0:19:54.86,0:19:57.57,Default,,0,0,0,,It's divine retribution! It can't be helped!
+Dialogue: 0,0:20:00.83,0:20:03.45,Default,,0,0,0,,It was clearly you. Don't play dumb.
+Dialogue: 0,0:20:05.41,0:20:09.50,Default,,0,0,0,,All right! Keep going, Cat!
+Dialogue: 0,0:20:17.93,0:20:20.14,Default,,0,0,0,,Jump, Cat!
+Dialogue: 0,0:20:29.81,0:20:32.02,Default,,0,0,0,,Mini Gear Four!
+Dialogue: 0,0:20:37.78,0:20:41.37,Default,,0,0,0,,I hate to leave,\Nbut it's time to get out of the Block Kingdom!
+Dialogue: 0,0:20:41.95,0:20:43.62,Default,,0,0,0,,Finally.
+Dialogue: 0,0:20:44.45,0:20:46.45,Default,,0,0,0,,Serves him right, that pervy Giant!
+Dialogue: 0,0:20:46.91,0:20:50.00,Default,,0,0,0,,I really hope that it's Elbaph outside!
+Dialogue: 0,0:20:52.59,0:20:55.63,Default,,0,0,0,,Gum-Gum...
+Dialogue: 0,0:20:56.09,0:20:58.63,Default,,0,0,0,,...Kong Gun!
+Dialogue: 0,0:21:16.11,0:21:18.07,Default,,0,0,0,,It's the outside!
+Dialogue: 0,0:21:34.08,0:21:37.76,Default,,0,0,0,,{\i1}Here I am straining both my eyes{\i0}
+Dialogue: 0,0:21:39.51,0:21:43.26,Default,,0,0,0,,{\i1}And checking where I am standing right now{\i0}
+Dialogue: 0,0:21:44.72,0:21:49.29,Default,,0,0,0,,{\i1}With my brain consumed\NBy all the delusion and despair{\i0}
+Dialogue: 0,0:21:49.29,0:21:52.56,Default,,0,0,0,,{\i1}I'm always bound to be a little off somehow{\i0}
+Dialogue: 0,0:21:53.19,0:21:56.98,Default,,0,0,0,,{\i1}The things that come up vividly{\i0}
+Dialogue: 0,0:21:58.36,0:22:02.03,Default,,0,0,0,,{\i1}Are always the cruel memories{\i0}
+Dialogue: 0,0:22:03.74,0:22:08.18,Default,,0,0,0,,{\i1}I gather up the scraps\NOf the simple boredom of my life{\i0}
+Dialogue: 0,0:22:08.18,0:22:11.75,Default,,0,0,0,,{\i1}I might turn into somebody else but me{\i0}
+Dialogue: 0,0:22:13.33,0:22:16.44,Default,,0,0,0,,{\i1}I wonder which future\NWould fit someone like me now{\i0}
+Dialogue: 0,0:22:16.44,0:22:20.36,Default,,0,0,0,,{\i1}From here on\NNo matter how hard I try to strain my eyes{\i0}
+Dialogue: 0,0:22:20.36,0:22:22.82,Default,,0,0,0,,{\i1}I'll still see nothing anyhow{\i0}
+Dialogue: 0,0:22:22.82,0:22:26.28,Default,,0,0,0,,{\i1}I'm riding the headwind{\i0}
+Dialogue: 0,0:22:26.28,0:22:29.16,Default,,0,0,0,,{\i1}I pour it into the tear of destiny{\i0}
+Dialogue: 0,0:22:29.16,0:22:33.62,Default,,0,0,0,,{\i1}As I split all the false fantasies apart{\i0}
+Dialogue: 0,0:22:33.62,0:22:37.17,Default,,0,0,0,,{\i1}And everyone's{\i0}
+Dialogue: 0,0:22:37.17,0:22:41.72,Default,,0,0,0,,{\i1}Piling up their own life-or-death reality\NAll the time just like that{\i0}
+Dialogue: 0,0:22:41.72,0:22:44.30,Default,,0,0,0,,{\i1}Then tomorrow comes way too loud{\i0}
+Dialogue: 0,0:22:44.30,0:22:48.85,Default,,0,0,0,,{\i1}Leaving no time even just to pray{\i0}
+Dialogue: 0,0:22:48.85,0:22:53.69,Default,,0,0,0,,{\i1}And that future we see{\i0}
+Dialogue: 0,0:22:53.69,0:22:57.84,Default,,0,0,0,,{\i1}It all belongs to me{\i0}
+Dialogue: 0,0:23:05.34,0:23:08.53,Default,,0,0,0,,{\i1}Bursting out of the Block Kingdom,\Nthe Straw Hats are met with...{\i0}
+Dialogue: 0,0:23:08.53,0:23:11.91,Default,,0,0,0,,{\i1}...an expansive landscape of snow\Nand a colossal suspension bridge.{\i0}
+Dialogue: 0,0:23:11.91,0:23:14.10,Default,,0,0,0,,{\i1}Is what awaits them heaven or hell?{\i0}
+Dialogue: 0,0:23:14.69,0:23:20.71,Default,,0,0,0,,{\i1}As Luffy ventures forth on his own,\Nthe source of an ominous roar is revealed.{\i0}
+Dialogue: 0,0:23:20.71,0:23:22.30,Default,,0,0,0,,On the next episode of ONE PIECE!
+Dialogue: 0,0:23:22.30,0:23:25.55,Default,,0,0,0,,"An Encounter on a Snowfield -\NLoki, the Accursed Prince"
+Dialogue: 0,0:23:25.55,0:23:30.58,Default,,0,0,0,,I'm gonna be King of the Pirates!
+
