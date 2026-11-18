@@ -1,0 +1,344 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.28,0:00:05.86,Default,Ryo,0,0,0,,I just can't shake him.
+Dialogue: 0,0:00:06.41,0:00:08.61,Default,Hal,0,0,0,,I can tell where you're going.
+Dialogue: 0,0:00:11.76,0:00:13.74,Default,Hal,0,0,0,,Okay. So it's that way, yeah?
+Dialogue: 0,0:00:27.40,0:00:29.01,Default,Hal,0,0,0,,You suck.
+Dialogue: 0,0:01:59.66,0:02:01.51,Default,Ajima,0,0,0,,How is she faring?
+Dialogue: 0,0:02:01.90,0:02:03.77,Default,Hannah,0,0,0,,Nothing out of the ordinary right now.
+Dialogue: 0,0:02:04.43,0:02:06.62,Default,Ajima,0,0,0,,Continue monitoring the situation.
+Dialogue: 0,0:02:06.95,0:02:08.33,Default,Hannah,0,0,0,,Yes, sir.
+Dialogue: 0,0:02:09.02,0:02:11.53,Default,MC,0,0,0,,What a one-sided contest!
+Dialogue: 0,0:02:11.53,0:02:14.37,Default,MC,0,0,0,,The winner of this Senki Cup\N second-round match
+Dialogue: 0,0:02:14.37,0:02:18.88,Default,MC,0,0,0,,is the Kaihimmakuhari Joho Senior \NHigh School Esports Club.
+Dialogue: 0,0:02:19.25,0:02:23.05,Default,Rudra,0,0,0,,Your next opponent dominated Arudabiru \Nin the first round,
+Dialogue: 0,0:02:23.05,0:02:26.15,Default,Rudra,0,0,0,,and Cyber Axiom in the second.
+Dialogue: 0,0:02:26.15,0:02:28.40,Default,Rudra,0,0,0,,They're an up-and-coming high school team.
+Dialogue: 0,0:02:28.40,0:02:32.42,Default,Shinn,0,0,0,,Didn't expect to see a high school team \Nwinning its way through the rounds.
+Dialogue: 0,0:02:32.42,0:02:35.55,Default,Bran,0,0,0,,But the biggest surprise is this.
+Dialogue: 0,0:02:38.31,0:02:41.24,Default,Kairi,0,0,0,,He predicted their moves?
+Dialogue: 0,0:02:41.24,0:02:45.01,Default,Shinn,0,0,0,,Calling his shots in advance. \NAt an extremely high level of precision.
+Dialogue: 0,0:02:45.01,0:02:47.22,Default,Shinn,0,0,0,,So that's Future Sight, huh?
+Dialogue: 0,0:02:47.22,0:02:48.61,Default,Kairi,0,0,0,,"Future Sight"?
+Dialogue: 0,0:02:48.61,0:02:51.66,Default,Bran,0,0,0,,It's like you can see what's coming.
+Dialogue: 0,0:02:51.66,0:02:54.63,Default,Bran,0,0,0,,Their captain, Hal, is pretty famous.
+Dialogue: 0,0:02:54.63,0:02:58.62,Default,Bran,0,0,0,,He can tell what his opponent'll do next\N based on the slightest of movements.
+Dialogue: 0,0:02:58.85,0:03:03.31,Default,Rudra,0,0,0,,And I hear he only recently \Nstarted playing Dark Machine.
+Dialogue: 0,0:03:03.31,0:03:04.87,Default,Rudra,0,0,0,,He must be a genius.
+Dialogue: 0,0:03:04.87,0:03:09.00,Default,Isana,0,0,0,,{\i1}And{\i0} their club advisor is the third Senki.
+Dialogue: 0,0:03:09.00,0:03:10.50,Default,Kairi,0,0,0,,The third Senki?
+Dialogue: 0,0:03:13.30,0:03:15.93,Default,Shinn,0,0,0,,They're blessed with a great teacher, huh?
+Dialogue: 0,0:03:15.93,0:03:17.51,Default,Bran,0,0,0,,Unlike us.
+Dialogue: 0,0:03:17.72,0:03:21.64,Default,Rudra,0,0,0,,Huh? If the students \Ndon't have what it takes—
+Dialogue: 0,0:03:23.70,0:03:25.33,Default,Rudra,0,0,0,,I gotta step out.
+Dialogue: 0,0:03:25.33,0:03:27.67,Default,Shinn,0,0,0,,Hey, we're in the middle of a meeting.
+Dialogue: 0,0:03:36.21,0:03:38.31,Default,Rudra,0,0,0,,C'mon, hold out a little longer.
+Dialogue: 0,0:03:38.73,0:03:41.74,Default,Rudra,0,0,0,,The awakening's coming soon.
+Dialogue: 0,0:03:42.53,0:03:44.41,Default,Kairi,0,0,0,,So that guy's the third one?
+Dialogue: 0,0:03:44.64,0:03:47.81,Default,Isana,0,0,0,,You met the fifth one before, right?
+Dialogue: 0,0:03:47.81,0:03:53.17,Default,Kairi,0,0,0,,Yeah, but she said \Nshe didn't recognize the picture.
+Dialogue: 0,0:03:55.57,0:04:00.55,Default,Kairi,0,0,0,,He told me to meet Senki. But which one?
+Dialogue: 0,0:04:00.55,0:04:03.31,Default,Isana,0,0,0,,Why don't you look into it a bit more?
+Dialogue: 0,0:04:03.64,0:04:08.07,Default,Isana,0,0,0,,You can look up the photos \Nof previous Senkis online.
+Dialogue: 0,0:04:09.31,0:04:11.31,Default,sign,0,0,0,,{\an8}SENKIS 1-7
+Dialogue: 0,0:04:10.31,0:04:11.31,Default,Kairi,0,0,0,,What?
+Dialogue: 0,0:04:11.31,0:04:14.36,Default,Kairi,0,0,0,,Th-That's brilliant!
+Dialogue: 0,0:04:14.36,0:04:17.32,Default,Bran,0,0,0,,Shouldn't that have been your first move?
+Dialogue: 0,0:04:19.92,0:04:22.08,Default,Kairi,0,0,0,,None of them look like this.
+Dialogue: 0,0:04:22.85,0:04:24.04,Default,Kairi,0,0,0,,Oh, but...
+Dialogue: 0,0:04:24.66,0:04:26.79,Default,Sign,0,0,0,,{\an8}FIRST SENKI
+Dialogue: 0,0:04:24.66,0:04:26.79,Default,Kairi,0,0,0,,This first Senki...
+Dialogue: 0,0:04:27.09,0:04:31.16,Default,Isana,0,0,0,,Face, nationality, age, \Nand sex all unknown.
+Dialogue: 0,0:04:31.16,0:04:33.54,Default,Isana,0,0,0,,"A legendary player," it says.
+Dialogue: 0,0:04:33.54,0:04:36.46,Default,Bran,0,0,0,,You hear plenty of rumors though.
+Dialogue: 0,0:04:36.46,0:04:40.15,Default,Bran,0,0,0,,Undefeated, yet retired suddenly.
+Dialogue: 0,0:04:40.15,0:04:43.43,Default,Bran,0,0,0,,Some say that Senki wasn't even human,\N but an android.
+Dialogue: 0,0:04:43.43,0:04:45.56,Default,Shinn,0,0,0,,Sounds like BS to me.
+Dialogue: 0,0:04:45.56,0:04:50.94,Default,Isana,0,0,0,,Well, this was all over 30 years ago.
+Dialogue: 0,0:04:50.94,0:04:52.97,Default,Hiroto,0,0,0,,Oh, so this is it, huh?
+Dialogue: 0,0:04:56.50,0:04:59.29,Default,Hiroto,0,0,0,,Hey there. We came \Nto throw down the gauntlet.
+Dialogue: 0,0:04:59.29,0:05:01.07,Default,Rino,0,0,0,,No, we didn't.
+Dialogue: 0,0:05:02.21,0:05:03.82,Default,Shinn,0,0,0,,A high school team?
+Dialogue: 0,0:05:18.19,0:05:22.59,Default,Kairi,0,0,0,,Oh, I see. So you're gonna play \Nthe next match at our shop, too?
+Dialogue: 0,0:05:22.59,0:05:26.47,Default,Hal,0,0,0,,Yeah. We wanted to check out your gear,
+Dialogue: 0,0:05:26.77,0:05:30.98,Default,Hal,0,0,0,,make sure the connections \Nran okay, things like that.
+Dialogue: 0,0:05:30.98,0:05:33.63,Default,Hal,0,0,0,,I don't know much \Nabout that stuff, though,
+Dialogue: 0,0:05:33.63,0:05:35.66,Default,Hal,0,0,0,,so I'm leaving it to the other two.
+Dialogue: 0,0:05:39.33,0:05:44.62,Default,Hal,0,0,0,,By the way, Kairi-san, is it true \Nyou just started playing Dark Machine?
+Dialogue: 0,0:05:45.02,0:05:46.50,Default,Kairi,0,0,0,,Um, yeah.
+Dialogue: 0,0:05:46.86,0:05:48.94,Default,Hal,0,0,0,,What'd you do before that?
+Dialogue: 0,0:05:48.94,0:05:50.37,Default,Kairi,0,0,0,,Nothing much.
+Dialogue: 0,0:05:50.37,0:05:52.25,Default,Kairi,0,0,0,,Fishing. Playing retro games.
+Dialogue: 0,0:05:53.10,0:05:56.47,Default,Kairi,0,0,0,,I lived on an island with my grandpa.
+Dialogue: 0,0:05:56.86,0:05:59.00,Default,Kairi,0,0,0,,I only got here recently.
+Dialogue: 0,0:06:02.09,0:06:05.17,Default,Kairi,0,0,0,,Say, the third Senki's with you, right?\N Is he here?
+Dialogue: 0,0:06:05.17,0:06:08.64,Default,Hal,0,0,0,,Not today. Why do you ask?
+Dialogue: 0,0:06:09.46,0:06:13.88,Default,Kairi,0,0,0,,My grandpa's last wish was for me\N to find "Senki" and give 'em this.
+Dialogue: 0,0:06:17.59,0:06:21.11,Default,Hal,0,0,0,,And he never told you what it was about?
+Dialogue: 0,0:06:22.05,0:06:23.00,Default,Kairi,0,0,0,,Right.
+Dialogue: 0,0:06:25.14,0:06:30.15,Default,Hal,0,0,0,,What in the world? \NYour grandpa sounds like a wacko.
+Dialogue: 0,0:06:30.15,0:06:32.14,Default,Hal,0,0,0,,So anyway...
+Dialogue: 0,0:06:32.14,0:06:36.93,Default,Hal,0,0,0,,Were you just living on that island\N to look after him?
+Dialogue: 0,0:06:36.93,0:06:38.96,Default,Kairi,0,0,0,,{\an8}No, it wasn't—
+Dialogue: 0,0:06:37.82,0:06:41.01,Default,Hal,0,0,0,,Then he goes and dies,\N leaving you a crazy last wish.
+Dialogue: 0,0:06:41.01,0:06:42.67,Default,Hal,0,0,0,,What a jerk.
+Dialogue: 0,0:06:42.67,0:06:44.98,Default,Hal,0,0,0,,I feel bad for you, Kairi-san.
+Dialogue: 0,0:06:44.98,0:06:49.05,Default,Hal,0,0,0,,Raised by a nutty grandpa, and even on \Nhis deathbed, he made a bonkers last wish—
+Dialogue: 0,0:06:49.05,0:06:50.82,Default,Kairi,0,0,0,,You know nothing about him.
+Dialogue: 0,0:06:51.41,0:06:54.14,Default,Kairi,0,0,0,,It's true that his last wish\N was a little odd, but he—
+Dialogue: 0,0:06:54.14,0:06:57.43,Default,Hal,0,0,0,,Oh, sorry. I didn't mean to upset you.
+Dialogue: 0,0:07:01.94,0:07:05.95,Default,Rino,0,0,0,,Hal! It's time to head back!
+Dialogue: 0,0:07:06.25,0:07:08.89,Default,Hal,0,0,0,,I saw fish, but got no bites.
+Dialogue: 0,0:07:09.21,0:07:10.55,Default,Hal,0,0,0,,That stinks.
+Dialogue: 0,0:07:11.27,0:07:13.04,Default,Hal,0,0,0,,Well, later.
+Dialogue: 0,0:07:16.21,0:07:17.20,Default,Kairi,0,0,0,,Hold it.
+Dialogue: 0,0:07:17.65,0:07:18.87,Default,Kairi,0,0,0,,Our upcoming match.
+Dialogue: 0,0:07:20.29,0:07:22.71,Default,Kairi,0,0,0,,I'm not losing you...
+Dialogue: 0,0:07:23.83,0:07:24.91,Default,Kairi,0,0,0,,...{\i1}to{\i0} you.
+Dialogue: 0,0:07:27.16,0:07:29.68,Default,Hal,0,0,0,,How'd you manage to mess up the cool line?
+Dialogue: 0,0:07:30.26,0:07:32.49,Default,Hal,0,0,0,,Good luck, yeah?
+Dialogue: 0,0:07:32.96,0:07:35.98,Default,Hal,0,0,0,,Although it's obvious we'll win.
+Dialogue: 0,0:07:38.13,0:07:39.17,Default,Kairi,0,0,0,,I screwed it up.
+Dialogue: 0,0:07:42.73,0:07:46.61,Default,Bran,0,0,0,,The more I watch, \Nthe scarier this Hal kid gets.
+Dialogue: 0,0:07:46.61,0:07:49.11,Default,Rudra,0,0,0,,You might not win this one\N without a fight.
+Dialogue: 0,0:07:49.33,0:07:51.35,Default,Shinn,0,0,0,,Hey, where have you been?
+Dialogue: 0,0:07:52.34,0:07:53.50,Default,Rudra,0,0,0,,Follow me.
+Dialogue: 0,0:07:54.64,0:07:55.87,Default,Kairi,0,0,0,,An E-booster?
+Dialogue: 0,0:07:56.20,0:08:01.13,Default,Rudra,0,0,0,,The tournament gives you a slot \Nyou can swap parts in, right?
+Dialogue: 0,0:08:01.41,0:08:03.84,Default,Rudra,0,0,0,,We'll do some training for that.
+Dialogue: 0,0:08:03.84,0:08:05.01,Default,Rudra,0,0,0,,Get ready.
+Dialogue: 0,0:08:05.95,0:08:07.56,Default,Shinn,0,0,0,,This setup...
+Dialogue: 0,0:08:07.56,0:08:11.64,Default,Shinn,0,0,0,,It's so focused on speed, \Nall the parts have garbage armor.
+Dialogue: 0,0:08:11.91,0:08:15.02,Default,Kairi,0,0,0,,Depending on what the opponent's packing,\N one hit could take us out.
+Dialogue: 0,0:08:15.25,0:08:20.52,Default,Rudra,0,0,0,,Going light is the only way \Nto escape Hal's called shots.
+Dialogue: 0,0:08:20.52,0:08:22.69,Default,Shinn,0,0,0,,We can handle it.
+Dialogue: 0,0:08:22.91,0:08:26.58,Default,Rudra,0,0,0,,Don't knock it till you try it, okay?
+Dialogue: 0,0:08:26.58,0:08:28.07,Default,Rudra,0,0,0,,Now get in there.
+Dialogue: 0,0:08:31.53,0:08:32.95,Default,Shinn,0,0,0,,It's so fast.
+Dialogue: 0,0:08:39.34,0:08:41.78,Default,Shinn,0,0,0,,It's too damn fast to use.
+Dialogue: 0,0:08:41.78,0:08:43.63,Default,Rudra,0,0,0,,Kairi, you try.
+Dialogue: 0,0:08:54.29,0:08:56.14,Default,Rudra,0,0,0,,Shinn. Try again.
+Dialogue: 0,0:08:58.10,0:09:00.35,Default,Shinn,0,0,0,,I told you, it's impossible.
+Dialogue: 0,0:09:00.35,0:09:01.85,Default,Rudra,0,0,0,,Again.
+Dialogue: 0,0:09:04.85,0:09:05.98,Default,Kairi,0,0,0,,My balance is off.
+Dialogue: 0,0:09:05.98,0:09:07.36,Default,Rudra,0,0,0,,Again.
+Dialogue: 0,0:09:09.44,0:09:10.57,Default,Rudra,0,0,0,,Again.
+Dialogue: 0,0:09:14.20,0:09:15.83,Default,Rudra,0,0,0,,Again.
+Dialogue: 0,0:09:17.58,0:09:20.33,Default,Rudra,0,0,0,,Break time's over. Back to it.
+Dialogue: 0,0:09:20.58,0:09:23.65,Default,Bran,0,0,0,,Hey, is this training even going to help?
+Dialogue: 0,0:09:23.65,0:09:25.88,Default,Bran,0,0,0,,Practice won't do any good if it's not—
+Dialogue: 0,0:09:25.88,0:09:27.59,Default,Rudra,0,0,0,,Just do it again.
+Dialogue: 0,0:09:28.04,0:09:30.72,Default,Shinn,0,0,0,,Back off already. \NThis is a waste of time.
+Dialogue: 0,0:09:31.10,0:09:34.97,Default,Kairi,0,0,0,,It's tough. I'm not sure \Nwe can get this down in time.
+Dialogue: 0,0:09:34.97,0:09:39.47,Default,Bran,0,0,0,,Figuring out a plan without the E-boosters\N might be more realistic.
+Dialogue: 0,0:09:39.47,0:09:42.23,Default,Rudra,0,0,0,,We don't freakin' have time for this.
+Dialogue: 0,0:09:44.73,0:09:46.32,Default,Rudra,0,0,0,,I'm stepping out.
+Dialogue: 0,0:09:46.32,0:09:48.00,Default,Shinn,0,0,0,,What, again?
+Dialogue: 0,0:09:55.91,0:09:58.83,Italics,Rudra,0,0,0,,Not good. If this keeps up...
+Dialogue: 0,0:10:05.16,0:10:07.42,Default,Rudra,0,0,0,,Not yet...
+Dialogue: 0,0:10:22.69,0:10:25.02,Default,Shinn,0,0,0,,What the hell is Rudra thinking?
+Dialogue: 0,0:10:25.02,0:10:27.36,Default,Bran,0,0,0,,She totally ditched on us.
+Dialogue: 0,0:10:27.36,0:10:29.65,Default,Shinn,0,0,0,,Today's the day of the match.
+Dialogue: 0,0:10:30.64,0:10:34.03,Default,Shinn,0,0,0,,Whatever. Her disappearing \Nwhen we need her is par for the course.
+Dialogue: 0,0:10:34.03,0:10:35.16,Default,Bran,0,0,0,,Agreed.
+Dialogue: 0,0:10:35.16,0:10:37.84,Default,Shinn,0,0,0,,Kairi, you hold Hal down.
+Dialogue: 0,0:10:37.84,0:10:39.41,Default,Shinn,0,0,0,,We'll go for points.
+Dialogue: 0,0:10:39.41,0:10:41.91,Default,Bran,0,0,0,,That's the plan, so do it right, okay?
+Dialogue: 0,0:10:41.91,0:10:43.91,Default,Kairi,0,0,0,,Right. Got it.
+Dialogue: 0,0:10:44.18,0:10:48.00,Default,Bran,0,0,0,,I'm not losing to some \Nlittle twerp. Seriously.
+Dialogue: 0,0:10:54.34,0:10:58.94,Default,Shinn,0,0,0,,It's time. Wait until after we've won \Nto show the third Senki your photo.
+Dialogue: 0,0:10:58.94,0:11:01.01,Default,Kairi,0,0,0,,Yeah. Of course.
+Dialogue: 0,0:11:05.38,0:11:08.02,Default,MC,0,0,0,,Now it's time for the third round\N of the Senki Cup.
+Dialogue: 0,0:11:08.02,0:11:12.28,Default,sign,0,0,0,,{\an8}44TH SENKI CUP\N3RD ROUND
+Dialogue: 0,0:11:08.43,0:11:12.28,Default,MC,0,0,0,,Kaihimmakuhari Joho Senior High \NSchool Esports Club faces Carbuncle.
+Dialogue: 0,0:11:12.55,0:11:17.24,Default,MC,0,0,0,,{\an8}On color commentary, \Nwe have the sixth Senki with us.
+Dialogue: 0,0:11:14.54,0:11:18.66,Default,sign,0,0,0,,{\an8\pos(320,265)}COMMENTARY: SIXTH SENKI
+Dialogue: 0,0:11:17.24,0:11:18.66,Default,6th,0,0,0,,{\an8}It's a pleasure to be here.
+Dialogue: 0,0:11:19.15,0:11:23.23,Default,6th,0,0,0,,This promises to be an exciting match \Nbetween two dark horses.
+Dialogue: 0,0:11:23.23,0:11:27.79,Default,6th,0,0,0,,Which team will seize victory?
+Dialogue: 0,0:11:34.91,0:11:36.93,Default,Rudra,0,0,0,,Where am I?
+Dialogue: 0,0:11:37.67,0:11:40.69,Default,Rudra,0,0,0,,Oh, Ajima's place.
+Dialogue: 0,0:11:44.14,0:11:46.44,Default,Hannah,0,0,0,,I see you're awake.
+Dialogue: 0,0:11:46.73,0:11:50.44,Default,Hannah,0,0,0,,You'd be dead now \Nif it wasn't for Lord Ajima.
+Dialogue: 0,0:11:51.57,0:11:56.49,Default,Hannah,0,0,0,,Hayflick limit caused by malfunctioning\N Neuro Nanomachines. Your body must be—
+Dialogue: 0,0:11:56.49,0:11:59.70,Default,Rudra,0,0,0,,It's not like I asked for your help.
+Dialogue: 0,0:11:59.96,0:12:01.70,Default,Hannah,0,0,0,,You selfish ingrate.
+Dialogue: 0,0:12:01.70,0:12:07.21,Default,Hannah,0,0,0,,Do you realize the effort Lord Ajima \Nthanklessly put in to prolong your life?
+Dialogue: 0,0:12:07.69,0:12:10.21,Default,Rudra,0,0,0,,We share a common goal.
+Dialogue: 0,0:12:10.21,0:12:15.25,Default,Rudra,0,0,0,,There's no other way \Nto reach the first Senki.
+Dialogue: 0,0:12:16.20,0:12:18.59,Default,Rudra,0,0,0,,Anyway, put on the match.
+Dialogue: 0,0:12:18.59,0:12:19.72,Default,Hannah,0,0,0,,The match?
+Dialogue: 0,0:12:19.72,0:12:21.22,Default,Rudra,0,0,0,,Hand that thing over.
+Dialogue: 0,0:12:28.60,0:12:30.85,Default,Bran,0,0,0,,Are they seriously students?
+Dialogue: 0,0:12:30.85,0:12:33.17,Default,Rino,0,0,0,,We're on fire today, right?
+Dialogue: 0,0:12:33.17,0:12:34.61,Default,Hiroto,0,0,0,,Agreed and assented.
+Dialogue: 0,0:12:37.42,0:12:41.62,Default,Hal,0,0,0,,This is all pointless. \NI can see every move you'll make.
+Dialogue: 0,0:12:46.37,0:12:48.29,Default,Kairi,0,0,0,,Damn it. I can't dodge that.
+Dialogue: 0,0:12:48.70,0:12:50.29,Default,Rudra,0,0,0,,They're hopeless.
+Dialogue: 0,0:12:50.29,0:12:54.26,Default,Hannah,0,0,0,,"If Carbuncle loses, \NI'll do whatever you ask."
+Dialogue: 0,0:12:54.26,0:13:00.80,Default,Hannah,0,0,0,,That was your promise in exchange for\N Lord Ajima's invite to the Senki Cup, yes?
+Dialogue: 0,0:13:02.17,0:13:06.49,Default,Rudra,0,0,0,,The fact that my body's reaching its limit
+Dialogue: 0,0:13:06.49,0:13:11.19,Default,Rudra,0,0,0,,suggests Ajima's hit a wall \Nin his Neuro Nanomachine research, right?
+Dialogue: 0,0:13:11.47,0:13:12.56,Default,Hannah,0,0,0,,What?
+Dialogue: 0,0:13:13.29,0:13:16.07,Default,Rudra,0,0,0,,Wanna know where Masa is?
+Dialogue: 0,0:13:16.33,0:13:17.80,Default,Hannah,0,0,0,,You {\i1}know{\i0} that?
+Dialogue: 0,0:13:20.64,0:13:22.20,Default,Rudra,0,0,0,,Call in Ajima.
+Dialogue: 0,0:13:22.81,0:13:24.57,Default,Rudra,0,0,0,,Let's make a trade.
+Dialogue: 0,0:13:26.89,0:13:28.70,Default,MC,0,0,0,,That's the first half over.
+Dialogue: 0,0:13:28.20,0:13:31.46,Default,sign,0,0,0,,{\an8}44TH SENKI CUP\N3RD ROUND
+Dialogue: 0,0:13:28.70,0:13:32.97,Default,MC,0,0,0,,Kaihimmakuhari Joho Senior High School\N Esports Club has a huge lead.
+Dialogue: 0,0:13:33.46,0:13:36.57,Default,6th,0,0,0,,You may have the lead now, \Nbut don't let your guard down.
+Dialogue: 0,0:13:36.57,0:13:38.96,Default,6th,0,0,0,,In the second half, \Nfocus on taking down Kairi.
+Dialogue: 0,0:13:39.25,0:13:40.81,Default,Hal,0,0,0,,Nah.
+Dialogue: 0,0:13:40.81,0:13:44.22,Default,Hal,0,0,0,,I like to save tough opponents \Nand strawberries for the very end.
+Dialogue: 0,0:13:45.85,0:13:48.21,Default,Bran,0,0,0,,Man, this sucks.
+Dialogue: 0,0:13:48.21,0:13:50.99,Default,Kairi,0,0,0,,Sorry. I completely failed \Nto hold him down.
+Dialogue: 0,0:13:50.99,0:13:52.81,Default,Shinn,0,0,0,,It's not your fault.
+Dialogue: 0,0:13:54.66,0:13:57.11,Default,Kairi,0,0,0,,I'm gonna use the E-booster \Nin the second half.
+Dialogue: 0,0:13:57.11,0:13:59.22,Default,Shinn,0,0,0,,The optional part Rudra asked for?
+Dialogue: 0,0:13:59.22,0:14:01.49,Default,Bran,0,0,0,,But you never learned to use it.
+Dialogue: 0,0:14:01.90,0:14:04.19,Default,Kairi,0,0,0,,I've made some progress since then.
+Dialogue: 0,0:14:04.68,0:14:07.99,Default,Kairi,0,0,0,,And the only way to beat \NHal's Future Sight...
+Dialogue: 0,0:14:08.60,0:14:11.25,Default,Kairi,0,0,0,,is with more and more speed.
+Dialogue: 0,0:14:11.25,0:14:13.25,Default,Rudra,0,0,0,,It'll take way more than that.
+Dialogue: 0,0:14:13.58,0:14:14.85,Default,Trio,0,0,0,,Rudra?
+Dialogue: 0,0:14:14.85,0:14:17.25,Default,Bran,0,0,0,,Man, where the hell have {\i1}you{\i0} been?
+Dialogue: 0,0:14:17.25,0:14:19.25,Default,Rudra,0,0,0,,I'll fill you in later.
+Dialogue: 0,0:14:19.81,0:14:21.13,Default,Rudra,0,0,0,,Use this.
+Dialogue: 0,0:14:21.66,0:14:24.80,Default,Kairi,0,0,0,,This doesn't look like an E-booster.
+Dialogue: 0,0:14:24.80,0:14:27.06,Default,Rudra,0,0,0,,It's a Hi-e booster.
+Dialogue: 0,0:14:27.06,0:14:28.49,Default,Rudra,0,0,0,,A rare item.
+Dialogue: 0,0:14:28.49,0:14:31.56,Default,Rudra,0,0,0,,It's got 75% more output \Nthan the standard kind.
+Dialogue: 0,0:14:31.56,0:14:33.21,Default,Shinn,0,0,0,,Wait, 75% more?
+Dialogue: 0,0:14:33.21,0:14:34.94,Default,Bran,0,0,0,,You expect him to use {\i1}that{\i0}?
+Dialogue: 0,0:14:35.29,0:14:37.07,Default,Rudra,0,0,0,,It's up to him.
+Dialogue: 0,0:14:37.07,0:14:40.94,Default,Rudra,0,0,0,,There's no other way \Nto outrun Hal's Future Sight.
+Dialogue: 0,0:14:43.43,0:14:45.32,Default,MC,0,0,0,,And the second half starts.
+Dialogue: 0,0:14:45.32,0:14:49.33,Default,MC,0,0,0,,Wow, Carbuncle's got a new weapon\N in their arsenal!
+Dialogue: 0,0:14:49.33,0:14:51.70,Default,6th,0,0,0,,Oh, you don't see that every day.
+Dialogue: 0,0:14:53.08,0:14:55.08,Default,Kairi,0,0,0,,If I think about turning, it's too late.
+Dialogue: 0,0:14:55.44,0:14:57.08,Default,Kairi,0,0,0,,Time and distance is the key.
+Dialogue: 0,0:15:02.17,0:15:05.05,Default,Rino,0,0,0,,It's faster now? It changed its boosters.
+Dialogue: 0,0:15:05.05,0:15:06.43,Default,Hal,0,0,0,,It still won't help him.
+Dialogue: 0,0:15:08.05,0:15:11.72,Default,Hiroto,0,0,0,,Sorry, Hal, but when it comes \Nto strawberries, roe, and tamagoyaki,
+Dialogue: 0,0:15:11.72,0:15:13.81,Default,Hiroto,0,0,0,,I eat them {\i1}all{\i0} first.
+Dialogue: 0,0:15:16.69,0:15:17.56,Default,Kairi,0,0,0,,Bran.
+Dialogue: 0,0:15:17.56,0:15:18.56,Default,Bran,0,0,0,,I see him.
+Dialogue: 0,0:15:20.90,0:15:22.65,Default,Rino,0,0,0,,Hiroto, hang back.
+Dialogue: 0,0:15:26.28,0:15:27.91,Default,Hal,0,0,0,,Rina, he's heading your way.
+Dialogue: 0,0:15:27.91,0:15:28.91,Default,Shinn,0,0,0,,Gotcha.
+Dialogue: 0,0:15:30.66,0:15:33.66,Default,Rino,0,0,0,,C'mon, Hal. If you see one \Ncoming my way, cover me.
+Dialogue: 0,0:15:33.66,0:15:36.04,Default,Hal,0,0,0,,I know, okay?
+Dialogue: 0,0:15:42.18,0:15:44.67,Default,Hal,0,0,0,,Looks like you can finally keep up.
+Dialogue: 0,0:15:47.00,0:15:48.45,Flashback,Rudra,0,0,0,,Shinn. Bran.
+Dialogue: 0,0:15:48.45,0:15:50.43,Flashback,Rudra,0,0,0,,Use Kairi as bait.
+Dialogue: 0,0:15:51.31,0:15:53.99,Flashback,Rudra,0,0,0,,He has the vision to see the whole field,
+Dialogue: 0,0:15:53.99,0:15:58.44,Flashback,Rudra,0,0,0,,and the animalistic instinct \Nto sense the enemy's location.
+Dialogue: 0,0:15:58.81,0:16:01.86,Flashback,Bran,0,0,0,,Oh, right. The reflexes he showed\N in our first-round match...
+Dialogue: 0,0:16:02.40,0:16:05.20,Flashback,Rudra,0,0,0,,Kairi, you smoke the enemy out.
+Dialogue: 0,0:16:05.20,0:16:07.03,Flashback,Rudra,0,0,0,,The other two will shoot them.
+Dialogue: 0,0:16:08.76,0:16:10.16,Default,Rino,0,0,0,,Hiroto! Ride Shift!
+Dialogue: 0,0:16:10.16,0:16:11.16,Default,Hiroto,0,0,0,,Copy.
+Dialogue: 0,0:16:14.29,0:16:15.79,Default,Hiroto,0,0,0,,Darn it!
+Dialogue: 0,0:16:15.79,0:16:17.16,Default,Rino,0,0,0,,I can't land a hit.
+Dialogue: 0,0:16:17.16,0:16:18.92,Default,Hal,0,0,0,,Kairi's bait.
+Dialogue: 0,0:16:18.92,0:16:20.43,Default,Hal,0,0,0,,They're coming from the side.
+Dialogue: 0,0:16:20.43,0:16:21.67,Default,Rino,0,0,0,,The side?
+Dialogue: 0,0:16:21.67,0:16:22.54,Default,Bran,0,0,0,,Got you.
+Dialogue: 0,0:16:23.80,0:16:26.51,Default,Rino,0,0,0,,I told you to cover me, damn it!
+Dialogue: 0,0:16:26.51,0:16:28.68,Default,Hal,0,0,0,,Oh, shut up already.
+Dialogue: 0,0:16:33.43,0:16:34.43,Default,Shinn,0,0,0,,Bran!
+Dialogue: 0,0:16:41.44,0:16:42.31,Default,Hal,0,0,0,,Hiroto!
+Dialogue: 0,0:16:42.31,0:16:43.31,Default,Hiroto,0,0,0,,Revenge!
+Dialogue: 0,0:16:45.82,0:16:46.82,Default,Shinn,0,0,0,,Damn it!
+Dialogue: 0,0:16:46.82,0:16:48.19,Default,Bran,0,0,0,,I'll fix you.
+Dialogue: 0,0:16:49.70,0:16:51.20,Default,Hiroto,0,0,0,,Ah, she got me.
+Dialogue: 0,0:16:57.08,0:16:58.58,Default,Bran,0,0,0,,Ah, darn it!
+Dialogue: 0,0:16:58.58,0:17:00.33,Default,Kairi,0,0,0,,You'll pay for that.
+Dialogue: 0,0:17:03.50,0:17:04.88,Default,Rino,0,0,0,,No way.
+Dialogue: 0,0:17:04.88,0:17:08.38,Default,MC,0,0,0,,It's a total brawl.\NEach team has lost two machines.
+Dialogue: 0,0:17:08.38,0:17:10.55,Default,6th,0,0,0,,That was a truly incredible sequence.
+Dialogue: 0,0:17:10.55,0:17:13.35,Default,6th,0,0,0,,But the Esports Club \Nhas the lead in points.
+Dialogue: 0,0:17:13.35,0:17:15.51,Default,MC,0,0,0,,One minute left on the clock.
+Dialogue: 0,0:17:15.51,0:17:18.49,Default,MC,0,0,0,,If either one goes down, it's game over.
+Dialogue: 0,0:17:19.02,0:17:20.66,Default,Kairi,0,0,0,,I won't let you predict my moves.
+Dialogue: 0,0:17:23.65,0:17:26.14,Default,Hal,0,0,0,,No matter how fast you go...
+Dialogue: 0,0:17:26.65,0:17:28.65,Default,Hal,0,0,0,,I can still see where you're headed!
+Dialogue: 0,0:17:35.12,0:17:36.12,Default,Hal,0,0,0,,He dodged it?
+Dialogue: 0,0:17:39.62,0:17:42.06,Italics,Kairi,0,0,0,,More... More...
+Dialogue: 0,0:17:42.64,0:17:45.02,Italics,Kairi,0,0,0,,More... More...
+Dialogue: 0,0:17:52.86,0:17:53.75,Italics,Kairi,0,0,0,,I see it.
+Dialogue: 0,0:17:54.19,0:17:57.17,Italics,Kairi,0,0,0,,Hal. The world. All of it.
+Dialogue: 0,0:18:00.81,0:18:01.98,Default,Hal,0,0,0,,I'll end this...
+Dialogue: 0,0:18:02.52,0:18:03.65,Default,Hal,0,0,0,,with one hit.
+Dialogue: 0,0:18:07.29,0:18:09.20,Default,Hal,0,0,0,,I can't see. Where—
+Dialogue: 0,0:18:20.54,0:18:22.79,Default,MC,0,0,0,,The match is over!
+Dialogue: 0,0:18:22.79,0:18:28.24,Default,MC,0,0,0,,Kaihimmakuhari Joho Senior High School\N Esports Club managed to squeak out a win.
+Dialogue: 0,0:18:22.79,0:18:26.17,Default,sign,0,0,0,,{\an8}44TH SENKI CUP\N3RD ROUND
+Dialogue: 0,0:18:30.55,0:18:34.01,Default,Hal,0,0,0,,One more second, and I would've lost.
+Dialogue: 0,0:18:36.06,0:18:37.83,Default,Hal,0,0,0,,What the hell was that?
+Dialogue: 0,0:18:48.57,0:18:51.01,Default,Hal,0,0,0,,Next time, I'll destroy you.
+Dialogue: 0,0:18:56.28,0:18:58.52,Default,Shinn,0,0,0,,When are you gonna stop sulking?
+Dialogue: 0,0:18:58.52,0:19:02.34,Default,Bran,0,0,0,,And weren't you supposed to ask \Nthe third Senki about the photo?
+Dialogue: 0,0:19:03.06,0:19:04.55,Default,Kairi,0,0,0,,I forgot.
+Dialogue: 0,0:19:06.83,0:19:07.76,Default,Kairi,0,0,0,,Damn it.
+Dialogue: 0,0:19:13.53,0:19:14.77,Default,Trio,0,0,0,,Ajima?
+Dialogue: 0,0:19:16.63,0:19:19.30,Default,Shinn,0,0,0,,Wh-What are you doing here?
+Dialogue: 0,0:19:20.75,0:19:22.27,Default,Ajima,0,0,0,,You're Kairi, yes?
+Dialogue: 0,0:19:22.65,0:19:24.27,Default,Ajima,0,0,0,,Tell me where Masa is.
+Dialogue: 0,0:19:24.71,0:19:25.51,Default,Kairi,0,0,0,,Huh?
+Dialogue: 0,0:19:25.51,0:19:29.65,Default,Rudra,0,0,0,,Go ahead and tell him. \NThat's what I traded for the Hi-e booster.
+Dialogue: 0,0:19:29.65,0:19:31.50,Default,Shinn,0,0,0,,Hey, what the hell are you—
+Dialogue: 0,0:19:31.50,0:19:32.90,Default,Bran,0,0,0,,Calm down.
+Dialogue: 0,0:19:33.45,0:19:36.36,Default,Kairi,0,0,0,,Um, my grandpa's dead.
+Dialogue: 0,0:19:36.36,0:19:37.66,Default,Ajima,0,0,0,,What?
+Dialogue: 0,0:19:37.66,0:19:39.78,Default,Hannah,0,0,0,,Rudra! You tricked us!
+Dialogue: 0,0:19:39.78,0:19:41.99,Default,Rudra,0,0,0,,It wasn't a lie.
+Dialogue: 0,0:19:42.37,0:19:45.68,Default,Kairi,0,0,0,,Oh, you're the current Senki, right?
+Dialogue: 0,0:19:45.68,0:19:49.59,Default,Kairi,0,0,0,,My grandpa wanted me \Nto give this to Senki.
+Dialogue: 0,0:19:50.00,0:19:52.18,Default,Ajima,0,0,0,,That ridiculous picture?
+Dialogue: 0,0:19:58.37,0:20:01.39,Default,Ajima,0,0,0,,Masa wanted you to give this to Senki?
+Dialogue: 0,0:20:01.39,0:20:03.26,Default,Kairi,0,0,0,,Y-Yeah.
+Dialogue: 0,0:20:03.58,0:20:07.03,Default,Ajima,0,0,0,,Yes, of course. He meant me.
+Dialogue: 0,0:20:08.45,0:20:10.15,Default,Ajima,0,0,0,,Thank you for delivering it.
+Dialogue: 0,0:20:10.61,0:20:12.76,Default,Ajima,0,0,0,,Now Masa can rest in peace, I'm sure.
+Dialogue: 0,0:20:13.74,0:20:16.78,Default,Kairi,0,0,0,,Wait a minute. \NWhat did Grandpa's last wish mean?
+Dialogue: 0,0:20:18.25,0:20:19.62,Default,Ajima,0,0,0,,You'll understand one day.
+Dialogue: 0,0:20:22.03,0:20:25.12,Default,Isana,0,0,0,,Uh, is it okay to let him take that picture?
+Dialogue: 0,0:20:25.57,0:20:27.54,Default,Kairi,0,0,0,,P-Probably.
+Dialogue: 0,0:20:27.54,0:20:31.89,Default,Shinn,0,0,0,,Hey, Rudra. Spill already. \NWhat's your relationship with Ajima?
+Dialogue: 0,0:20:31.89,0:20:36.41,Default,Rudra,0,0,0,,Calm down and focus on your next match.
+Dialogue: 0,0:20:36.41,0:20:40.69,Default,Kairi,0,0,0,,Huh? Next match? But we lost, right?
+Dialogue: 0,0:20:41.41,0:20:42.28,Default,All,0,0,0,,Huh?
+Dialogue: 0,0:20:43.01,0:20:44.84,Default,Bran,0,0,0,,Look, man.
+Dialogue: 0,0:20:45.31,0:20:48.68,Default,Bran,0,0,0,,{\an8}There's still the Losers' Tournament.
+Dialogue: 0,0:20:48.68,0:20:50.65,Default,Kairi,0,0,0,,Oh, right! I forgot!
+Dialogue: 0,0:20:50.90,0:20:53.28,Default,Shinn,0,0,0,,That explains the depression.
+Dialogue: 0,0:20:53.28,0:20:55.23,Default,Bran,0,0,0,,It's not even over yet.
+Dialogue: 0,0:20:55.55,0:20:56.78,Default,Kairi,0,0,0,,Then...
+Dialogue: 0,0:20:57.37,0:20:58.26,Default,Kairi,0,0,0,,Rudra.
+Dialogue: 0,0:20:58.67,0:21:00.94,Default,Kairi,0,0,0,,Teach me more about Dark Machine.
+Dialogue: 0,0:21:00.94,0:21:03.24,Default,Kairi,0,0,0,,I want to beat Hal next time.
+Dialogue: 0,0:21:03.57,0:21:07.00,Default,Kairi,0,0,0,,When I was fighting Hal, \Na strange sensation came over me.
+Dialogue: 0,0:21:07.24,0:21:09.33,Default,Kairi,0,0,0,,I want to fight like that again.
+Dialogue: 0,0:21:09.78,0:21:11.12,Default,Kairi,0,0,0,,What do I do?
+Dialogue: 0,0:21:11.12,0:21:14.38,Default,Rudra,0,0,0,,Ah, I see. In that case...
+Dialogue: 0,0:21:15.09,0:21:18.01,Default,Rudra,0,0,0,,How about fighting me?
+
