@@ -1,0 +1,40 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Default - italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Default - flashback,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Default - margin,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Title,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,40,40,60,0
+Style: Disclaimer,Trebuchet MS,14,&H00C2C2C4,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,390,10,60,0
+Style: Setting,Times New Roman,18,&H002F2721,&H000000FF,&H00DFE3E1,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,0
+Style: SettingW,Times New Roman,18,&H002F2721,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,0
+Style: NameR,Times New Roman,16,&H002F2721,&H000000FF,&H00CED3D1,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,230,20,20,0
+Style: NameL,Times New Roman,16,&H002F2721,&H000000FF,&H00CED3D1,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,240,20,0
+Style: SignA,Times New Roman,18,&H00D4D5D2,&H000000FF,&H00313025,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.77,Setting,sign,0,0,0,,{\blur2\bord1\pos(318,222)}September 27th, Unified Year 1927, Eastern Front
+Dialogue: 0,0:00:07.27,0:00:11.28,Disclaimer,sign,0,0,0,,{\an9\pos(553,49)\c&HE7EAF2&}With the receipt of this message, you have\Nbeen promoted to General of the Infantry
+Dialogue: 0,0:02:21.07,0:02:26.62,Disclaimer,sign,0,0,0,,{\an1\fad(488,475)\an1\pos(82,325)\fs9\q2\blur2\fsp.2}This story is a work of fiction. People, organizations, locations, laws, names, etc. have no relation to any real-life counterparts.
+Dialogue: 0,0:02:35.59,0:02:38.59,Title,sign,0,0,0,,{\pos(340,138)}Episode Eleven\NHourglass
+Dialogue: 0,0:06:22.27,0:06:26.78,Disclaimer,sign,0,0,0,,{\an9\pos(548,91)\c&HF6FAFF&}War Plan: Ildoa
+Dialogue: 0,0:06:32.78,0:06:35.79,Setting,sign,0,0,0,,{\blur2\bord1\pos(322,267)}September 30th, Unified Year 1927
+Dialogue: 0,0:17:27.48,0:17:32.48,Setting,sign,0,0,0,,{\blur2\bord1\pos(318,222)}Eastern Front Multinational Volunteer Army Garrison
+Dialogue: 0,0:18:28.33,0:18:31.46,Setting,sign,0,0,0,,{\blur2\bord1\pos(318,222)}Same Day • Federation Garrison
+Dialogue: 0,0:19:38.78,0:19:41.11,Setting,sign,0,0,0,,{\blur2\bord1\pos(325,269)}October 3rd, Unified Year 1927
+Dialogue: 0,0:22:06.01,0:22:10.01,Title,sign,0,0,0,,{\pos(336,153)}Next Time\NExit
+
