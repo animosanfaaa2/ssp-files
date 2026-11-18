@@ -1,0 +1,110 @@
+[Script Info]
+Title:
+Original Script:
+Original Translation:
+Original Editing:
+Original Timing:
+Synch Point:
+Script Updated By:
+Update Details:
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+Timer: 0.0000
+WrapStyle: 0
+Audio File: ?video
+Video File: elusivesamurai-eps2-watermarked-mx-deDE-B.avi
+Video Aspect Ratio: 0
+Video Zoom: 8
+Video Position: 31675
+PlayResY: 360
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,22,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.68,0:00:15.02,Default,,0,0,0,,{\i1}Run, until we reach{\i0}
+Dialogue: 0,0:00:11.68,0:00:15.02,On Top,,0,0,0,,{\i1}kakero todoku made{\i0}
+Dialogue: 0,0:00:15.02,0:00:19.35,Default,,0,0,0,,{\i1}Until we reach you{\i0}
+Dialogue: 0,0:00:15.02,0:00:19.35,On Top,,0,0,0,,{\i1}kimi ni todoku made{\i0}
+Dialogue: 0,0:00:24.40,0:00:27.61,Default,,0,0,0,,{\i1}The clear blue open sea{\i0}
+Dialogue: 0,0:00:24.40,0:00:27.61,On Top,,0,0,0,,{\i1}aoku sunda unabara{\i0}
+Dialogue: 0,0:00:28.11,0:00:30.95,Default,,0,0,0,,{\i1}A sliver of a miracle{\i0}
+Dialogue: 0,0:00:28.11,0:00:30.95,On Top,,0,0,0,,{\i1}kiseki no kakera{\i0}
+Dialogue: 0,0:00:31.70,0:00:37.25,Default,,0,0,0,,{\i1}We've encountered more\NThan we could ever imagine{\i0}
+Dialogue: 0,0:00:31.70,0:00:37.25,On Top,,0,0,0,,{\i1}kazoekirenai hodo deaeta ne{\i0}
+Dialogue: 0,0:00:37.75,0:00:40.42,Default,,0,0,0,,{\i1}With every step we take on this journey{\i0}
+Dialogue: 0,0:00:37.75,0:00:40.42,On Top,,0,0,0,,{\i1}susumu tabi susumu tabi{\i0}
+Dialogue: 0,0:00:40.42,0:00:44.25,Default,,0,0,0,,{\i1}The goal is still out of sight{\i0}
+Dialogue: 0,0:00:40.42,0:00:44.25,On Top,,0,0,0,,{\i1}goru wa mada mienai mama{\i0}
+Dialogue: 0,0:00:44.25,0:00:47.80,Default,,0,0,0,,{\i1}But we can overcome anything{\i0}
+Dialogue: 0,0:00:44.25,0:00:47.80,On Top,,0,0,0,,{\i1}demo nandatte koerareru yo{\i0}
+Dialogue: 0,0:00:47.80,0:00:51.22,Default,,0,0,0,,{\i1}Just to see your smile{\i0}
+Dialogue: 0,0:00:47.80,0:00:51.22,On Top,,0,0,0,,{\i1}sono egao mitai kara{\i0}
+Dialogue: 0,0:00:51.22,0:00:55.43,Default,,0,0,0,,{\i1}If we wavered, we couldn't shine{\i0}
+Dialogue: 0,0:00:51.22,0:00:55.43,On Top,,0,0,0,,{\i1}mayoeba hikari ni nareya shinakatta{\i0}
+Dialogue: 0,0:00:55.43,0:00:59.02,Default,,0,0,0,,{\i1}We even strove to conquer our weaknesses{\i0}
+Dialogue: 0,0:00:55.43,0:00:59.02,On Top,,0,0,0,,{\i1}yowasa mo chanto tagayashita{\i0}
+Dialogue: 0,0:00:59.02,0:01:04.61,Default,,0,0,0,,{\i1}We, who were truly devoted{\i0}
+Dialogue: 0,0:00:59.02,0:01:04.61,On Top,,0,0,0,,{\i1}hontou honki de ita bokura mada{\i0}
+Dialogue: 0,0:01:04.61,0:01:08.53,Default,,0,0,0,,{\i1}Have always been the same{\i0}
+Dialogue: 0,0:01:04.61,0:01:08.53,On Top,,0,0,0,,{\i1}kawaranai yo{\i0}
+Dialogue: 0,0:01:08.53,0:01:09.65,Default,,0,0,0,,{\i1}Run{\i0}
+Dialogue: 0,0:01:08.53,0:01:09.65,On Top,,0,0,0,,{\i1}kakero{\i0}
+Dialogue: 0,0:01:09.65,0:01:17.20,Default,,0,0,0,,{\i1}Until we reach\NUntil we reach you, hey{\i0}
+Dialogue: 0,0:01:09.65,0:01:17.20,On Top,,0,0,0,,{\i1}todoku made kimi ni todoku made nee{\i0}
+Dialogue: 0,0:01:17.20,0:01:23.88,Default,,0,0,0,,{\i1}Less than legendary?\NNo problem! It's all good!{\i0}
+Dialogue: 0,0:01:17.20,0:01:23.88,On Top,,0,0,0,,{\i1}densetsu miman datte joutou joutou{\i0}
+Dialogue: 0,0:01:23.88,0:01:30.34,Default,,0,0,0,,{\i1}Until the day we can laugh\NFollow the shining map{\i0}
+Dialogue: 0,0:01:23.88,0:01:30.34,On Top,,0,0,0,,{\i1}kirameku chizu itsuka waraeru hi made{\i0}
+Dialogue: 0,0:01:30.34,0:01:36.56,Default,,0,0,0,,{\i1}So, no more hesitation, fighter\NIt's gonna be alright{\i0}
+Dialogue: 0,0:01:30.34,0:01:36.56,On Top,,0,0,0,,{\i1}mou mayoi wa nainda Fighter daijoubu{\i0}
+Dialogue: 0,0:04:05.66,0:04:08.71,On Top,,0,0,0,,BIGSTEIN CASTLE
+Dialogue: 0,0:21:34.13,0:21:37.84,Default,,0,0,0,,{\i1}Here I am straining both my eyes{\i0}
+Dialogue: 0,0:21:34.13,0:21:37.84,On Top,,0,0,0,,{\i1}kenmei ni me wo korashite{\i0}
+Dialogue: 0,0:21:39.55,0:21:43.34,Default,,0,0,0,,{\i1}And checking where I am standing right now{\i0}
+Dialogue: 0,0:21:39.55,0:21:43.34,On Top,,0,0,0,,{\i1}genzaichi wo tashikameteiru{\i0}
+Dialogue: 0,0:21:44.76,0:21:49.35,Default,,0,0,0,,{\i1}With my brain consumed\NBy all the delusion and despair{\i0}
+Dialogue: 0,0:21:44.76,0:21:49.35,On Top,,0,0,0,,{\i1}mousou to zetsubou ni nareta noumiso dewa{\i0}
+Dialogue: 0,0:21:49.35,0:21:52.65,Default,,0,0,0,,{\i1}I'm always bound to be a little off somehow{\i0}
+Dialogue: 0,0:21:49.35,0:21:52.65,On Top,,0,0,0,,{\i1}doushitatte chotto zurechimau ya{\i0}
+Dialogue: 0,0:21:53.23,0:21:57.07,Default,,0,0,0,,{\i1}The things that come up vividly{\i0}
+Dialogue: 0,0:21:53.23,0:21:57.07,On Top,,0,0,0,,{\i1}senmei ni ukandekuru no wa{\i0}
+Dialogue: 0,0:21:58.40,0:22:02.11,Default,,0,0,0,,{\i1}Are always the cruel memories{\i0}
+Dialogue: 0,0:21:58.40,0:22:02.11,On Top,,0,0,0,,{\i1}itsudatte hidoi omoide de{\i0}
+Dialogue: 0,0:22:03.78,0:22:08.24,Default,,0,0,0,,{\i1}I gather up the scraps\NOf the simple boredom of my life{\i0}
+Dialogue: 0,0:22:03.78,0:22:08.24,On Top,,0,0,0,,{\i1}kantan na taikutsu wo hiroiatsumete wa{\i0}
+Dialogue: 0,0:22:08.24,0:22:11.83,Default,,0,0,0,,{\i1}I might turn into somebody else but me{\i0}
+Dialogue: 0,0:22:08.24,0:22:11.83,On Top,,0,0,0,,{\i1}dareka mitai ni nacchimaisou{\i0}
+Dialogue: 0,0:22:13.37,0:22:16.50,Default,,0,0,0,,{\i1}I wonder which future\NWould fit someone like me now{\i0}
+Dialogue: 0,0:22:13.37,0:22:16.50,On Top,,0,0,0,,{\i1}ore ni niau mirai wa doredarou{\i0}
+Dialogue: 0,0:22:16.50,0:22:20.42,Default,,0,0,0,,{\i1}From here on\NNo matter how hard I try to strain my eyes{\i0}
+Dialogue: 0,0:22:16.50,0:22:20.42,On Top,,0,0,0,,{\i1}koko kara jaa ikura me wo korashitemo{\i0}
+Dialogue: 0,0:22:20.42,0:22:22.88,Default,,0,0,0,,{\i1}I'll still see nothing anyhow{\i0}
+Dialogue: 0,0:22:20.42,0:22:22.88,On Top,,0,0,0,,{\i1}nanimo mie wa shinai sa{\i0}
+Dialogue: 0,0:22:22.88,0:22:26.35,Default,,0,0,0,,{\i1}I'm riding the headwind{\i0}
+Dialogue: 0,0:22:22.88,0:22:26.35,On Top,,0,0,0,,{\i1}gyakufuu ni nokkatte{\i0}
+Dialogue: 0,0:22:26.35,0:22:29.22,Default,,0,0,0,,{\i1}I pour it into the tear of destiny{\i0}
+Dialogue: 0,0:22:26.35,0:22:29.22,On Top,,0,0,0,,{\i1}machigatta kuusou wo{\i0}
+Dialogue: 0,0:22:29.22,0:22:33.69,Default,,0,0,0,,{\i1}As I split all the false fantasies apart{\i0}
+Dialogue: 0,0:22:29.22,0:22:33.69,On Top,,0,0,0,,{\i1}kirisaita unmei no sakeme ni nagashikomu{\i0}
+Dialogue: 0,0:22:33.69,0:22:37.23,Default,,0,0,0,,{\i1}And everyone's{\i0}
+Dialogue: 0,0:22:33.69,0:22:37.23,On Top,,0,0,0,,{\i1}daremo ga sou yatte{\i0}
+Dialogue: 0,0:22:37.23,0:22:41.78,Default,,0,0,0,,{\i1}Piling up their own life-or-death reality\NAll the time just like that{\i0}
+Dialogue: 0,0:22:37.23,0:22:41.78,On Top,,0,0,0,,{\i1}inochigake no genjitsu wo kasaneteirunda{\i0}
+Dialogue: 0,0:22:41.78,0:22:44.36,Default,,0,0,0,,{\i1}Then tomorrow comes way too loud{\i0}
+Dialogue: 0,0:22:41.78,0:22:44.36,On Top,,0,0,0,,{\i1}negau hima mo nai hodo{\i0}
+Dialogue: 0,0:22:44.36,0:22:48.91,Default,,0,0,0,,{\i1}Leaving no time even just to pray{\i0}
+Dialogue: 0,0:22:44.36,0:22:48.91,On Top,,0,0,0,,{\i1}sawagashii ashita ga kuru{\i0}
+Dialogue: 0,0:22:48.91,0:22:53.75,Default,,0,0,0,,{\i1}And that future we see{\i0}
+Dialogue: 0,0:22:48.91,0:22:53.75,On Top,,0,0,0,,{\i1}sono mirai wa hora{\i0}
+Dialogue: 0,0:22:53.75,0:22:57.92,Default,,0,0,0,,{\i1}It all belongs to me{\i0}
+Dialogue: 0,0:22:53.75,0:22:57.92,On Top,,0,0,0,,{\i1}ore no mon da yo{\i0}
+
