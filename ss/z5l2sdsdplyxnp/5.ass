@@ -1,0 +1,248 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Returner - Default,Adobe Arabic,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,10,10,20,1
+Style: Returner - Italics,Adobe Arabic,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,2,10,10,20,1
+Style: Returner - Italics - Top,Adobe Arabic,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+Style: Returner - Top,Adobe Arabic,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+Style: Episode Title,Adobe Arabic,26,&H00E6F0E0,&H000000FF,&H003F6132,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,911,157,156,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.07,0:00:09.72,Returner - Default,DESIR,0,0,0,,‫عكستُ كلّ شيء.
+Dialogue: 0,0:00:10.51,0:00:13.66,Returner - Default,DESIR,0,0,0,,‫كلّ تعويذةٍ يُمكنكَ إطلاقها\N‫بتلك الأداة السّحريّة.
+Dialogue: 0,0:00:16.12,0:00:17.58,Returner - Default,DESIR,0,0,0,,‫خسرتَ.
+Dialogue: 0,0:00:48.41,0:00:49.91,Returner - Default,ZOD,0,0,0,,‫مُعضلةٌ مُزعجة.
+Dialogue: 0,0:02:22.50,0:02:26.50,Episode Title,SIGN,0,0,0,,{\fad(653,521)\blur3.5\q2\an3\i0\3c&H447135&\pos(342.667,306.833)}‫الحلقة 19
+Dialogue: 0,0:02:22.50,0:02:26.50,Episode Title,SIGN,0,0,0,,{\fad(653,521)\blur3.5\q2\an3\pos(547.67,290.5)}{\3c&H7AAE67&}{\3c&H447135&}‫الصّحوة
+Dialogue: 0,0:02:39.81,0:02:41.28,Returner - Default,ZOD,0,0,0,,‫الصّفر المُطلق.
+Dialogue: 0,0:03:15.46,0:03:17.22,Returner - Default,PRISCILLA,0,0,0,,‫هل أنتَ بخير؟
+Dialogue: 0,0:03:18.05,0:03:20.15,Returner - Default,ZOD,0,0,0,,‫كان الأمر كما قال ديزير تمامًا.
+Dialogue: 0,0:03:20.15,0:03:21.22,Returner - Default,PRISCILLA,0,0,0,,‫ماذا؟
+Dialogue: 0,0:03:22.24,0:03:25.46,Returner - Default,ZOD,0,0,0,,‫لا يتأثّر ذلك الوحش بالسّحر العاديّ.
+Dialogue: 0,0:03:26.53,0:03:28.64,Returner - Default,ZOD,0,0,0,,‫سأضطرّ إلى استخدام تعويذةٍ أكبر قليلًا.
+Dialogue: 0,0:03:28.64,0:03:30.75,Returner - Default,ZOD,0,0,0,,‫تراجعي قليلًا من فضلك يا بريسيلا.
+Dialogue: 0,0:03:30.75,0:03:31.75,Returner - Default,PRISCILLA,0,0,0,,‫حسنًا.
+Dialogue: 0,0:03:52.00,0:03:53.78,Returner - Default,ZOD,0,0,0,,‫قُضبان الإله!
+Dialogue: 0,0:04:19.86,0:04:23.12,Returner - Default,PRISCILLA,0,0,0,,‫كما يليق بأقوى ساحرٍ في العالم.
+Dialogue: 0,0:04:23.12,0:04:24.18,Returner - Default,ZOD,0,0,0,,‫بالطّبع.
+Dialogue: 0,0:04:26.66,0:04:30.71,Returner - Italics,ZOD/I,0,0,0,,‫كيف علم ديزير بأمر هذا الشّيطان؟
+Dialogue: 0,0:04:35.53,0:04:36.59,Returner - Default,ROMANTICA,0,0,0,,‫ديزير!
+Dialogue: 0,0:04:36.59,0:04:38.59,Returner - Italics,ROMANTICA/I,0,0,0,,‫فعلها سيّد البرج!
+Dialogue: 0,0:04:39.60,0:04:41.47,Returner - Default,DESIR,0,0,0,,‫هُزِمَ دادينوف.
+Dialogue: 0,0:04:42.97,0:04:45.22,Returner - Default,DESIR,0,0,0,,‫تنتهي ثورتكم هنا!
+Dialogue: 0,0:04:45.93,0:04:48.85,Returner - Default,PRAM,0,0,0,,‫ثورة؟ أيعني ذلك…؟!
+Dialogue: 0,0:04:49.45,0:04:53.08,Returner - Default,DESIR,0,0,0,,‫منذ اثني عشر عامًا، اندلعت حربٌ\N‫أهليّةٌ في إمبراطورية هيبريون.
+Dialogue: 0,0:04:53.49,0:04:58.69,Returner - Default,DESIR,0,0,0,,‫نهض أحد الطّلّاب ليُحرّر\N‫العامّة من بطش النّبلاء.
+Dialogue: 0,0:04:59.36,0:05:02.59,Returner - Default,DESIR,0,0,0,,‫لكن انتهت المعركة بانتصار النّبلاء،
+Dialogue: 0,0:05:02.59,0:05:06.59,Returner - Default,DESIR,0,0,0,,‫وازداد التّمييز القائم على النّسب سوءًا.
+Dialogue: 0,0:05:07.37,0:05:10.12,Returner - Default,DESIR,0,0,0,,‫كان باتور والآخرون ساخطين\N‫على النّبلاء أيضًا.
+Dialogue: 0,0:05:10.81,0:05:14.25,Returner - Default,DESIR,0,0,0,,‫لا بدّ أنّكم بقايا تلك الثّورة.
+Dialogue: 0,0:05:16.90,0:05:19.92,Returner - Default,CROW MASK,0,0,0,,‫إنّ هذا العالم عبثيٌّ وجائر.
+Dialogue: 0,0:05:20.96,0:05:25.09,Returner - Default,CROW MASK,0,0,0,,‫يدور حول النّبلاء، ولا يملك السّلطة سواهم.
+Dialogue: 0,0:05:25.09,0:05:27.68,Returner - Default,CROW MASK,0,0,0,,‫يفرضون علينا فكرهم العفن.
+Dialogue: 0,0:05:29.18,0:05:31.69,Returner - Default,CROW MASK,0,0,0,,‫لا يقتصر الأمر على\N‫إمبراطورية هيبريون وحدها.
+Dialogue: 0,0:05:32.07,0:05:34.69,Returner - Default,CROW MASK,0,0,0,,‫في أرجاء العالم كافّةً،\N‫يفرض الأرستقراطيّون الحمقى
+Dialogue: 0,0:05:34.69,0:05:38.55,Returner - Default,CROW MASK,0,0,0,,‫معاييرهم وعبثيّتهم على النّاس.
+Dialogue: 0,0:05:43.82,0:05:47.38,Returner - Default,CROW MASK,0,0,0,,‫هذا العالم مُختلٌّ من أساسه.
+Dialogue: 0,0:05:48.40,0:05:51.04,Returner - Default,CROW MASK,0,0,0,,‫لا تستطيع حتّى أنتَ إنكار ذلك.
+Dialogue: 0,0:05:51.04,0:05:51.94,Returner - Default,DESIR,0,0,0,,‫صحيح.
+Dialogue: 0,0:05:51.94,0:05:53.22,Returner - Default,RRAM,0,0,0,,‫ديزير؟!
+Dialogue: 0,0:05:53.92,0:05:56.71,Returner - Default,DESIR,0,0,0,,‫لا يزال التّمييز قائمًا في الأكاديميّة.
+Dialogue: 0,0:05:57.32,0:05:59.59,Returner - Default,DESIR,0,0,0,,‫فقط لكونهم وُلدوا في عائلاتٍ مُعيّنة،
+Dialogue: 0,0:05:59.59,0:06:02.33,Returner - Default,DESIR,0,0,0,,‫يُسلَب الموهوبون مستقبلهم.
+Dialogue: 0,0:06:02.97,0:06:04.97,Returner - Default,DESIR,0,0,0,,‫لكن انظر جيّدًا!
+Dialogue: 0,0:06:05.46,0:06:10.72,Returner - Default,DESIR,0,0,0,,‫إنّ من تُؤذيهم هم أنفسهم\N‫من كان عليكَ حمايتهم!
+Dialogue: 0,0:06:10.72,0:06:15.23,Returner - Default,CROW MASK,0,0,0,,‫يتساوى في الجُرم من يرتضون\N‫هذا الواقع على حاله!
+Dialogue: 0,0:06:15.23,0:06:20.48,Returner - Default,CROW MASK,0,0,0,,‫سأُدمّر كلّ شيءٍ في هذا العالم\N‫لأُحقّق المساواة الحقيقيّة!
+Dialogue: 0,0:06:20.93,0:06:22.28,Returner - Default,PRAM,0,0,0,,‫هذا الرّجل…
+Dialogue: 0,0:06:24.57,0:06:26.31,Returner - Default,DESIR,0,0,0,,‫سأُقيّدكَ.
+Dialogue: 0,0:06:29.27,0:06:32.21,Returner - Default,CROW MASK,0,0,0,,‫أقلتَ إنّ دادينوف قد هُزِمَ؟
+Dialogue: 0,0:06:33.56,0:06:35.62,Returner - Default,CROW MASK,0,0,0,,‫يا لسذاجتكَ.
+Dialogue: 0,0:06:35.62,0:06:36.63,Returner - Default,DESIR,0,0,0,,‫ماذا؟
+Dialogue: 0,0:06:37.13,0:06:39.76,Returner - Default,CROW MASK,0,0,0,,‫إنّه الكارثة بعينها.
+Dialogue: 0,0:06:39.76,0:06:43.13,Returner - Default,CROW MASK,0,0,0,,‫يستحيل على مُجرّد بشرٍ هزيمته.
+Dialogue: 0,0:06:46.26,0:06:47.31,Returner - Default,DESIR,0,0,0,,‫كلّا!
+Dialogue: 0,0:07:00.82,0:07:01.64,Returner - Default,PRAM,0,0,0,,‫ماذا؟
+Dialogue: 0,0:07:01.64,0:07:03.08,Returner - Default,AZEST,0,0,0,,‫أهذا…؟
+Dialogue: 0,0:07:24.65,0:07:26.27,Returner - Default,CROW MASK,0,0,0,,‫استسلم.
+Dialogue: 0,0:07:26.80,0:07:28.80,Returner - Default,CROW MASK,0,0,0,,‫خسرتُم.
+Dialogue: 0,0:07:28.80,0:07:30.55,Returner - Default,PRAM,0,0,0,,‫ليس بهذه السّرعة!
+Dialogue: 0,0:07:34.63,0:07:35.90,Returner - Default,AZEST,0,0,0,,‫أفلتَ منّا.
+Dialogue: 0,0:07:35.90,0:07:37.19,Returner - Default,PRAM,0,0,0,,‫آسفٌ يا ديزير…
+Dialogue: 0,0:07:39.72,0:07:41.08,Returner - Default,PRAM,0,0,0,,‫ديزير؟
+Dialogue: 0,0:07:41.44,0:07:44.03,Returner - Italics,ROMANTICA/I,0,0,0,,‫ديزير، سأنضمّ إليكم.
+Dialogue: 0,0:07:44.43,0:07:47.32,Returner - Default,ROMANTICA,0,0,0,,‫أنا عاجزةٌ وحدي هنا.
+Dialogue: 0,0:07:49.24,0:07:51.33,Returner - Default,ROMANTICA,0,0,0,,‫ديزير؟ هل تسمعني؟
+Dialogue: 0,0:07:51.33,0:07:52.97,Returner - Italics,ROMANTICA/I,0,0,0,,‫ديزير!
+Dialogue: 0,0:07:53.45,0:07:55.21,Returner - Default,DESIR,0,0,0,,‫أ-أجل، المعذرة.
+Dialogue: 0,0:07:55.21,0:07:56.96,Returner - Italics,ROMANTICA/I,0,0,0,,‫هل أنتَ بخير؟
+Dialogue: 0,0:07:57.26,0:07:58.58,Returner - Default,DESIR,0,0,0,,‫أنا بخير.
+Dialogue: 0,0:07:58.58,0:07:59.97,Returner - Default,DESIR,0,0,0,,‫سنأتي إليك.
+Dialogue: 0,0:07:59.97,0:08:01.70,Returner - Default,DESIR,0,0,0,,‫ابقي في مكانكِ من فضلك.
+Dialogue: 0,0:08:02.34,0:08:03.57,Returner - Default,ROMANTICA,0,0,0,,‫مفهوم.
+Dialogue: 0,0:08:09.43,0:08:11.17,Returner - Italics,DESIR/I,0,0,0,,‫هل تغيّر المستقبل؟
+Dialogue: 0,0:08:12.52,0:08:15.49,Returner - Italics,DESIR/I,0,0,0,,‫قاتلنا دادينوف في عالم الظّلال
+Dialogue: 0,0:08:15.49,0:08:17.45,Returner - Italics,DESIR/I,0,0,0,,‫في مستقبلٍ أبعد من هذا بكثير.
+Dialogue: 0,0:08:17.77,0:08:20.31,Returner - Italics,DESIR/I,0,0,0,,‫إنّه شيطان الكارثة من الأسطورة.
+Dialogue: 0,0:08:20.31,0:08:23.52,Returner - Italics,DESIR/I,0,0,0,,‫قوّته هي الكارثة بعينها.
+Dialogue: 0,0:08:24.08,0:08:26.93,Returner - Italics,DESIR/I,0,0,0,,‫وحّدنا قوانا وهزمنا الشّيطان.
+Dialogue: 0,0:08:27.81,0:08:33.49,Returner - Italics,DESIR/I,0,0,0,,‫لكنّ الثّمن الّذي دفعناه…\N‫كان باهظًا للغاية.
+Dialogue: 0,0:08:39.04,0:08:40.83,Returner - Default,AZEST,0,0,0,,‫يا لها من مانا هائلة.
+Dialogue: 0,0:08:40.83,0:08:43.09,Returner - Default,ROMANTICA,0,0,0,,‫إنّه أقوى ممّا كان عليه قبل قليل.
+Dialogue: 0,0:08:43.09,0:08:45.46,Returner - Default,PRAM,0,0,0,,‫كيف يُفترض بنا هزيمة هذا؟
+Dialogue: 0,0:08:46.02,0:08:49.83,Returner - Italics,DESIR/I,0,0,0,,‫رومانتيكا. وآرون. ودادينوف.
+Dialogue: 0,0:08:50.28,0:08:51.52,Returner - Italics,DESIR/I,0,0,0,,‫لِمَ؟
+Dialogue: 0,0:08:51.52,0:08:54.88,Returner - Italics,DESIR/I,0,0,0,,‫لِمَ ظهر في العالم الحقيقيّ\N‫لا في عالم الظّلال؟
+Dialogue: 0,0:08:56.14,0:08:58.40,Returner - Italics,DESIR/I,0,0,0,,‫أهذا لأنّني عدتُ بالزّمن؟
+Dialogue: 0,0:09:01.62,0:09:04.87,Returner - Italics,DESIR/I,0,0,0,,‫أهناك ما يُخبرني أنّني لا\N‫أستطيع الفرار من القدر؟
+Dialogue: 0,0:09:06.09,0:09:07.44,Returner - Default,ROMANTICA,0,0,0,,‫ديزير؟
+Dialogue: 0,0:09:12.64,0:09:14.16,Returner - Default,DESIR,0,0,0,,‫تبًّا لكَ.
+Dialogue: 0,0:09:14.16,0:09:15.16,Returner - Default,ROMANTICA,0,0,0,,‫ماذا؟
+Dialogue: 0,0:09:18.08,0:09:20.71,Returner - Default,DESIR,0,0,0,,‫سيتحتّم علينا ترك دادينوف لسيّد البرج.
+Dialogue: 0,0:09:20.71,0:09:22.58,Returner - Default,DESIR,0,0,0,,‫لن نكون إلّا عبئًا عليه.
+Dialogue: 0,0:09:22.92,0:09:24.95,Returner - Default,DESIR,0,0,0,,‫لنساعد في عمليّة الإجلاء حاليًّا.
+Dialogue: 0,0:09:24.95,0:09:26.95,Returner - Default,DESIR,0,0,0,,‫علينا إنقاذ أكبر عددٍ مُمكنٍ من الأرواح.
+Dialogue: 0,0:09:26.95,0:09:27.60,Returner - Default,PRAM,0,0,0,,‫نعم!
+Dialogue: 0,0:09:27.60,0:09:28.58,Returner - Default,ROMANTICA,0,0,0,,‫حسنًا.
+Dialogue: 0,0:09:28.58,0:09:29.67,Returner - Default,AZEST,0,0,0,,‫مفهوم.
+Dialogue: 0,0:09:45.56,0:09:46.84,Returner - Default,MAN A,0,0,0,,‫نجوتُ.
+Dialogue: 0,0:09:46.84,0:09:49.07,Returner - Default,MAN B,0,0,0,,‫لكن تلتهم النّيران المدينة.
+Dialogue: 0,0:09:49.69,0:09:52.13,Returner - Default,CHILD,0,0,0,,‫أوه. أمّي، انظري!
+Dialogue: 0,0:09:52.13,0:09:53.22,Returner - Default,MOTHER,0,0,0,,‫ما الأمر؟
+Dialogue: 0,0:09:53.57,0:09:55.41,Returner - Default,CHILD,0,0,0,,‫ألعابٌ ناريّةٌ ضخمة!
+Dialogue: 0,0:10:04.92,0:10:06.30,Returner - Default,AZEST,0,0,0,,‫تاج الجليد!
+Dialogue: 0,0:10:16.47,0:10:18.16,Returner - Default,AZEST,0,0,0,,‫أنتم بأمانٍ الآن.
+Dialogue: 0,0:10:30.23,0:10:33.15,Returner - Default,DESIR,0,0,0,,‫يتكفّل ذانك الاثنان بما يجري فوق الأرض.
+Dialogue: 0,0:10:33.15,0:10:34.91,Returner - Default,DESIR,0,0,0,,‫لذا ركّزي يا رومانتيكا.
+Dialogue: 0,0:10:34.91,0:10:36.24,Returner - Default,ROMANTICA,0,0,0,,‫أعلم.
+Dialogue: 0,0:10:36.64,0:10:38.92,Returner - Default,DESIR,0,0,0,,‫عند السّاعة الثّانية، على بُعد 850 مترًا.
+Dialogue: 0,0:10:38.92,0:10:40.01,Returner - Default,ROMANTICA,0,0,0,,‫عُلم.
+Dialogue: 0,0:10:43.75,0:10:46.88,Returner - Default,DESIR,0,0,0,,‫التّالي، السّاعة الحادية عشرة، 1200 متر.
+Dialogue: 0,0:10:59.14,0:11:00.61,Returner - Default,ZOD,0,0,0,,‫لم يصل الأثر كما ينبغي إذًا؟
+Dialogue: 0,0:11:01.27,0:11:02.14,Returner - Default,ZOD,0,0,0,,‫إذًا…
+Dialogue: 0,0:11:03.48,0:11:04.89,Returner - Default,ZOD,0,0,0,,‫الدّوّامة!
+Dialogue: 0,0:11:13.40,0:11:14.47,Returner - Default,ZOD,0,0,0,,‫واحدةٌ أُخرى.
+Dialogue: 0,0:11:15.19,0:11:16.91,Returner - Default,ZOD,0,0,0,,‫نصل السّبج!
+Dialogue: 0,0:11:25.76,0:11:27.04,Returner - Default,ZOD,0,0,0,,‫أعتذر.
+Dialogue: 0,0:11:27.04,0:11:28.16,Returner - Default,PRISCILLA,0,0,0,,‫شفاء.
+Dialogue: 0,0:11:35.91,0:11:38.30,Returner - Default,ZOD,0,0,0,,‫شكرًا لك. تراجعي للخلف من فضلك.
+Dialogue: 0,0:11:39.02,0:11:40.95,Returner - Default,PRISCILLA,0,0,0,,‫ماذا؟ لا تقل لي…
+Dialogue: 0,0:11:41.81,0:11:43.31,Returner - Default,ZOD,0,0,0,,‫لم ينتهِ الأمر بعد.
+Dialogue: 0,0:12:02.66,0:12:03.98,Returner - Default,PRISCILLA,0,0,0,,‫مُحال.
+Dialogue: 0,0:12:04.74,0:12:08.31,Returner - Default,ZOD,0,0,0,,‫يبدو أنّه لم يُلقّب بـ"الشّيطان" عبثًا.
+Dialogue: 0,0:12:14.09,0:12:16.99,Returner - Default,DESIR,0,0,0,,‫رومانتيكا، بلغت السّفن المنطقة\N‫الآمنة وخرجت من دائرة الخطر.
+Dialogue: 0,0:12:16.99,0:12:18.43,Returner - Default,DESIR,0,0,0,,‫الأمور بخيرٍ الآن.
+Dialogue: 0,0:12:18.74,0:12:20.43,Returner - Default,ROMANTICA,0,0,0,,‫جيّد.
+Dialogue: 0,0:12:23.89,0:12:24.97,Returner - Default,DESIR,0,0,0,,‫أبهرتِني حقًّا.
+Dialogue: 0,0:12:24.97,0:12:27.51,Returner - Default,ROMANTICA,0,0,0,,‫أخبرتُكَ أنّ ذلك يغيظني!
+Dialogue: 0,0:12:27.85,0:12:30.49,Returner - Default,ROMANTICA,0,0,0,,‫حسنًا، لا بأس بذلك في الوقت الحالي.
+Dialogue: 0,0:12:34.61,0:12:36.32,Returner - Default,DESIR,0,0,0,,‫علينا الإخلاء نحن أيضًا.
+Dialogue: 0,0:12:46.11,0:12:47.25,Returner - Default,DESIR,0,0,0,,‫رومانتيكا.
+Dialogue: 0,0:12:47.96,0:12:49.24,Returner - Default,ROMANTICA,0,0,0,,‫أعلم.
+Dialogue: 0,0:12:55.84,0:12:57.94,Returner - Default,PRAM,0,0,0,,‫ديزير، نحن في المحطّة.
+Dialogue: 0,0:12:57.94,0:12:59.30,Returner - Default,AZEST,0,0,0,,‫أين أنتما الآن؟
+Dialogue: 0,0:13:00.55,0:13:01.92,Returner - Default,DESIR,0,0,0,,‫أوشكنا على الوصول.
+Dialogue: 0,0:13:01.92,0:13:03.01,Returner - Default,DESIR,0,0,0,,‫اسبقانا واركبا القطار—
+Dialogue: 0,0:13:03.01,0:13:04.02,Returner - Italics,PRAM/I,0,0,0,,‫سننتظركما!
+Dialogue: 0,0:13:03.01,0:13:04.02,Returner - Italics - Top,AZEST/I,0,0,0,,‫سننتظر.
+Dialogue: 0,0:13:05.81,0:13:07.08,Returner - Default,DESIR,0,0,0,,‫حسنًا.
+Dialogue: 0,0:13:10.18,0:13:11.94,Returner - Default,DESIR,0,0,0,,‫رومانتيكا، هل أنتِ بخير؟
+Dialogue: 0,0:13:12.94,0:13:15.09,Returner - Default,ROMANTICA,0,0,0,,‫أنا… بخير.
+Dialogue: 0,0:13:15.94,0:13:17.87,Returner - Default,DESIR,0,0,0,,‫لا تبدين بخير.
+Dialogue: 0,0:13:19.67,0:13:22.76,Returner - Default,ROMANTICA,0,0,0,,‫استهلكتُ قدرًا زائدًا من المانا فحسب.
+Dialogue: 0,0:13:29.23,0:13:31.29,Returner - Default,ROMANTICA,0,0,0,,‫حسنًا. لننطلق!
+Dialogue: 0,0:13:31.29,0:13:32.39,Returner - Default,DESIR,0,0,0,,‫حسنًا.
+Dialogue: 0,0:13:33.74,0:13:35.07,Returner - Default,ROMANTICA,0,0,0,,‫ما الأمر؟
+Dialogue: 0,0:13:35.07,0:13:36.42,Returner - Default,DESIR,0,0,0,,‫النّاجون من الخوارج.
+Dialogue: 0,0:13:36.42,0:13:37.62,Returner - Default,ROMANTICA,0,0,0,,‫أين؟!
+Dialogue: 0,0:13:38.08,0:13:40.08,Returner - Default,DESIR,0,0,0,,‫لا يُمكنني غضّ الطّرف عنهم.
+Dialogue: 0,0:13:40.08,0:13:41.75,Returner - Default,DESIR,0,0,0,,‫رومانتيكا، اذهبي أنتِ إلى المحطّة.
+Dialogue: 0,0:13:41.75,0:13:43.43,Returner - Default,ROMANTICA,0,0,0,,‫لا! سآتي معكَ!
+Dialogue: 0,0:13:43.43,0:13:45.30,Returner - Default,DESIR,0,0,0,,‫نفدت المانا خاصّتك، أليس كذلك؟
+Dialogue: 0,0:13:45.30,0:13:46.93,Returner - Default,DESIR,0,0,0,,‫لا يمكنكِ المواصلة أكثر من ذلك.
+Dialogue: 0,0:13:46.93,0:13:49.80,Returner - Default,ROMANTICA,0,0,0,,‫لستَ مُخطئًا، لكن…
+Dialogue: 0,0:13:52.14,0:13:54.44,Returner - Default,ROMANTICA,0,0,0,,‫لا تُرهق نفسكَ كثيرًا، أتسمعني؟
+Dialogue: 0,0:13:54.80,0:13:56.32,Returner - Default,DESIR,0,0,0,,‫أعلم.
+Dialogue: 0,0:13:57.21,0:14:01.52,Returner - Default,ROMANTICA,0,0,0,,‫مُجدّدًا، تثير ابتسامتكَ تلك حنقي.
+Dialogue: 0,0:14:09.28,0:14:11.54,Returner - Italics,DESIR/I,0,0,0,,‫آسفٌ يا رومانتيكا.
+Dialogue: 0,0:14:19.38,0:14:22.82,Returner - Italics,DESIR/I,0,0,0,,‫لن أسمح بتكرار تلك\N‫النّهاية، مهما كلّف الأمر.
+Dialogue: 0,0:14:28.44,0:14:30.60,Returner - Default,DESIR/I,0,0,0,,‫آ… آرون.
+Dialogue: 0,0:14:31.65,0:14:32.82,Returner - Default,AARON,0,0,0,,‫من أنتَ؟
+Dialogue: 0,0:14:33.29,0:14:35.31,Returner - Default,AARON,0,0,0,,‫لا أذكر أنّني أخبرتُكَ باسمي.
+Dialogue: 0,0:14:36.11,0:14:40.32,Returner - Default,DESIR,0,0,0,,‫اعذرني يا سيّد آرون،\N‫قائد فرسان مملكة ديفايد.
+Dialogue: 0,0:14:41.21,0:14:45.57,Returner - Default,AARON,0,0,0,,‫أوه! أنتَ السّاحر الّذي ساعد\N‫جلالة الملك في الإجلاء من القلعة.
+Dialogue: 0,0:14:45.93,0:14:49.96,Returner - Default,DESIR,0,0,0,,‫نعم. أنا ديزير هيرمان\N‫من أكاديميّة هيبريون.
+Dialogue: 0,0:14:50.33,0:14:52.53,Returner - Default,AARON,0,0,0,,‫اسمح لي أن أشكركَ مُجدّدًا.
+Dialogue: 0,0:14:54.10,0:14:55.34,Returner - Default,AARON,0,0,0,,‫شكرًا لكَ.
+Dialogue: 0,0:14:55.34,0:14:56.35,Returner - Default,DESIR,0,0,0,,‫على الرّحب والسّعة.
+Dialogue: 0,0:14:57.93,0:15:00.23,Returner - Italics,DESIR/I,0,0,0,,‫أنا من يجدر به شكركَ.
+Dialogue: 0,0:15:01.97,0:15:06.13,Returner - Italics,DESIR/I,0,0,0,,‫إذ حظيتُ بالتّحدّث معكَ مُجدّدًا، هكذا.
+Dialogue: 0,0:15:10.72,0:15:13.44,Returner - Default,DESIR,0,0,0,,‫كان يُفترض أن تكون سفينة\N‫مملكة ديفايد قد أبحرت بالفعل.
+Dialogue: 0,0:15:13.44,0:15:15.77,Returner - Default,DESIR,0,0,0,,‫لِمَ ما زلتَ هنا؟
+Dialogue: 0,0:15:15.77,0:15:19.58,Returner - Default,AARON,0,0,0,,‫رغم أنّها ليست بلدي، لم\N‫أستطع الوقوف مكتوف الأيدي.
+Dialogue: 0,0:15:19.58,0:15:22.47,Returner - Default,AARON,0,0,0,,‫لذا أبحث عن كلّ من لم يتمكّن\N‫من الخروج في الوقت المُناسب.
+Dialogue: 0,0:15:22.47,0:15:25.41,Returner - Default,AARON,0,0,0,,‫وقد وبّخني جلالة الملك على ذلك، بالطّبع.
+Dialogue: 0,0:15:26.20,0:15:27.74,Returner - Italics,DESIR/I,0,0,0,,‫لم يتغيّر أبدًا.
+Dialogue: 0,0:15:29.44,0:15:31.03,Returner - Default,DESIR,0,0,0,,‫غادر هذا المكان الآن من فضلكَ.
+Dialogue: 0,0:15:31.03,0:15:32.07,Returner - Default,AARON,0,0,0,,‫ماذا؟
+Dialogue: 0,0:15:32.66,0:15:36.07,Returner - Default,DESIR,0,0,0,,‫ستصل قوّة ذلك الشّيطان إلى هنا عمّا قريب.
+Dialogue: 0,0:15:36.65,0:15:39.45,Returner - Default,DESIR,0,0,0,,‫لم يُطلق كامل قوّته بعد.
+Dialogue: 0,0:15:40.53,0:15:42.05,Returner - Default,AARON,0,0,0,,‫هل أنتَ…؟
+Dialogue: 0,0:15:42.05,0:15:44.33,Returner - Default,DESIR,0,0,0,,‫لا أُريد أن يموت أحد.
+Dialogue: 0,0:15:48.05,0:15:49.30,Returner - Default,AARON,0,0,0,,‫مفهوم.
+Dialogue: 0,0:15:49.56,0:15:51.21,Returner - Default,DESIR,0,0,0,,‫شكرًا جزيلًا لكَ.
+Dialogue: 0,0:15:51.21,0:15:52.25,Returner - Default,DESIR,0,0,0,,‫أستأذنكَ الآن.
+Dialogue: 0,0:16:33.26,0:16:34.47,Returner - Default,PRISCILLA,0,0,0,,‫زود.
+Dialogue: 0,0:16:34.47,0:16:37.10,Returner - Default,ZOD,0,0,0,,‫لا تقلقي. سأُنهي هذا الأمر.
+Dialogue: 0,0:16:40.00,0:16:41.65,Returner - Default,ZOD,0,0,0,,‫الصّفر المُطلق!
+Dialogue: 0,0:16:47.20,0:16:48.71,Returner - Default,ZOD,0,0,0,,‫زئير الحمم!
+Dialogue: 0,0:17:23.49,0:17:25.06,Returner - Default,ZOD,0,0,0,,‫سقط أخيرًا.
+Dialogue: 0,0:17:25.06,0:17:27.16,Returner - Default,PRISCILLA,0,0,0,,‫أحسنتَ صُنعًا يا زود.
+Dialogue: 0,0:17:27.16,0:17:28.28,Returner - Default,DESIR,0,0,0,,‫لم ينتهِ الأمر بعد.
+Dialogue: 0,0:17:31.20,0:17:32.95,Returner - Default,ZOD,0,0,0,,‫ماذا تقصد؟
+Dialogue: 0,0:17:32.95,0:17:36.39,Returner - Default,DESIR,0,0,0,,‫لم يكشف دادينوف عن هيئته الحقيقيّة بعد.
+Dialogue: 0,0:17:42.79,0:17:46.59,Returner - Default,DESIR,0,0,0,,‫يُقال إنّ ذلك الشّيطان دمّر\N‫حاضرةً كاملةً في ليلةٍ واحدة.
+Dialogue: 0,0:17:47.50,0:17:49.05,Returner - Default,DESIR,0,0,0,,‫هويّته الحقيقيّة…
+Dialogue: 0,0:18:25.13,0:18:30.05,Returner - Default,DESIR,0,0,0,,‫تلك هي الهيئة الحقيقيّة\N‫لدادينوف، شيطان الكارثة!
+Dialogue: 0,0:18:34.54,0:18:36.56,Returner - Default,PRISCILLA,0,0,0,,‫ما عسانا أن نفعل الآن؟
+Dialogue: 0,0:18:37.28,0:18:40.32,Returner - Default,ZOD,0,0,0,,‫ديزير، اعتنِ ببريسيلا نيابةً عنّي.
+Dialogue: 0,0:18:40.32,0:18:43.94,Returner - Default,ZOD,0,0,0,,‫للحفاظ على نظام هذا\N‫العالم، نحتاج إلى القدّيسة.
+Dialogue: 0,0:18:43.94,0:18:45.91,Returner - Default,PRISCILLA,0,0,0,,‫زود، لا!
+Dialogue: 0,0:18:46.33,0:18:51.12,Returner - Default,DESIR,0,0,0,,‫وللحفاظ على نظام هذا العالم، لا\N‫يسعنا خسارة زود إكساريون أيضًا.
+Dialogue: 0,0:18:52.98,0:18:57.07,Returner - Default,DESIR,0,0,0,,‫سيّد البرج، امنحني ما تبقّى\N‫من المانا خاصّتكَ من فضلكَ.
+Dialogue: 0,0:18:59.21,0:19:02.54,Returner - Default,ZOD,0,0,0,,‫أتقول إنّكَ قادرٌ على إسقاط ذلك الشّيء؟
+Dialogue: 0,0:19:02.54,0:19:03.30,Returner - Default,DESIR,0,0,0,,‫نعم.
+Dialogue: 0,0:19:10.17,0:19:12.61,Returner - Default,PRISCILLA,0,0,0,,‫تعاويذ سحريّةٌ مُتدنيّة الرّتبة؟
+Dialogue: 0,0:19:13.34,0:19:15.04,Returner - Default,PRISCILLA,0,0,0,,‫ماذا عساكَ أن تفعل بها؟
+Dialogue: 0,0:19:15.04,0:19:15.93,Returner - Default,ZOD,0,0,0,,‫انتظري.
+Dialogue: 0,0:19:16.96,0:19:20.43,Returner - Italics,DESIR/I,0,0,0,,‫تغيّر السّحر تدريجيًّا\N‫ليُواكب مُتطلّبات العصر.
+Dialogue: 0,0:19:20.88,0:19:23.02,Returner - Italics,DESIR/I,0,0,0,,‫لكن ثمّة شيءٌ واحدٌ لم يتغيّر…
+Dialogue: 0,0:19:23.40,0:19:28.56,Returner - Italics,DESIR/I,0,0,0,,‫وهو وجوب تعديل المانا في\N‫الهواء لاستخدام السّحر.
+Dialogue: 0,0:19:31.00,0:19:36.01,Returner - Default,ZOD,0,0,0,,‫أيمكنكَ هزيمة ذلك الشّيطان\N‫بمُراكمة تعاويذ بسيطةٍ كهذه؟
+Dialogue: 0,0:19:36.45,0:19:40.78,Returner - Default,DESIR,0,0,0,,‫كلّا، لا يُمكن هزيمة ذلك\N‫الشّيطان بقوّة البشر.
+Dialogue: 0,0:19:50.16,0:19:51.46,Returner - Italics,DESIR/I,0,0,0,,‫هذا صحيح.
+Dialogue: 0,0:19:52.10,0:19:54.53,Returner - Italics,DESIR/I,0,0,0,,‫أحتاج إلى قوّةٍ أعظم من ذلك الشّيطان!
+Dialogue: 0,0:20:09.73,0:20:13.94,Returner - Default,DESIR,0,0,0,,‫وقد طُواه النّسيان من ذاكرة\N‫البشريّة منذ أمدٍ بعيد،
+Dialogue: 0,0:20:14.30,0:20:17.72,Returner - Default,DESIR,0,0,0,,‫إنّه النّظام السّحريّ\N‫للعرق الّذي أوجد السّحر.
+Dialogue: 0,0:20:18.11,0:20:19.81,Returner - Default,ZOD,0,0,0,,‫ما الّذي تظنّ نفسكَ فاعلًا؟!
+Dialogue: 0,0:20:28.24,0:20:34.79,Returner - Italics,DESIR/I,0,0,0,,‫ما التّعاويذ إلّا وسيلةٌ\N‫للبشر لتحويل المانا إلى سحر.
+Dialogue: 0,0:20:36.65,0:20:42.61,Returner - Italics,DESIR/I,0,0,0,,‫تجري في عروق ذلك الوحش المانا\N‫ذاتها، لذا لا يحتاج إلى تعاويذ.
+Dialogue: 0,0:20:43.89,0:20:47.67,Returner - Italics,DESIR/I,0,0,0,,‫يستدعي مُجرّد النّطق بتلك الكلمات الدّمار.
+Dialogue: 0,0:20:48.98,0:20:50.12,Returner - Italics,DESIR/I,0,0,0,,‫أليس كذلك…
+Dialogue: 0,0:20:51.44,0:20:53.17,Returner - Italics,DESIR/I,0,0,0,,‫يا بورومير نابوليتان؟!
+Dialogue: 0,0:21:13.73,0:21:15.00,Returner - Default,ZOD,0,0,0,,‫مُثيرٌ للاهتمام.
+Dialogue: 0,0:21:16.39,0:21:19.49,Returner - Default,ZOD,0,0,0,,‫أرِني يا ديزير هيرمان!
+Dialogue: 0,0:23:35.56,0:23:40.02,Episode Title,SIGN,0,0,0,,{\fad(653,1)\blur3.5\q2\an3\pos(336.67,302.5)\3c&H739F64&}‫الحلقة 20
+Dialogue: 0,0:23:35.56,0:23:40.02,Episode Title,SIGN,0,0,0,,{\fad(653,1)\blur3.5\q2\an3\pos(596.67,286.5)}{\3c&H7AAE67&}‫كلمات الدّمار
+Dialogue: 0,0:23:36.23,0:23:39.22,Returner - Top,DESIR,0,0,0,,‫الحلقة القادمة: "كلمات الدّمار".
+
