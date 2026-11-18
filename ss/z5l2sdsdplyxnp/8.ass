@@ -1,0 +1,265 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,15,1
+Style: sign,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,12,1
+Style: Main_Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,15,1
+Style: Italics_Overlap,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00565656,&H00565656,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,15,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.01,0:00:09.78,Main,Desir,0,0,0,,La mia analisi inversa\Nle ha coperte tutte.
+Dialogue: 0,0:00:10.38,0:00:13.66,Main,Desir,0,0,0,,E mi riferisco a ogni magia\Nutilizzabile con quell'Artefatto.
+Dialogue: 0,0:00:16.08,0:00:17.58,Main,Desir,0,0,0,,Hai perso.
+Dialogue: 0,0:00:48.37,0:00:50.00,Main,Zod,0,0,0,,Che tipo fastidioso.
+Dialogue: 1,0:02:22.50,0:02:26.50,sign,sign,0,0,0,,{\fad(731,0)\fscx80\fscy80\bord0\blur3\t(225,726,\blur0)\an2\c&HEAFFE9&\b1\3c&H568539&\3a&H30&\pos(300.99,306.33)}Episodio 19
+Dialogue: 0,0:02:22.50,0:02:26.50,sign,sign,0,0,0,,{\fad(731,0)\fscx80\fscy80\bord1\blur5\an2\c&HEAFFE9&\b1\3c&H568539&\3a&H30&\pos(300.99,306.33)}Episodio 19
+Dialogue: 0,0:02:22.50,0:02:26.50,sign,sign,0,0,0,,{\fad(731,0)\fscx115\fscy115\bord1\blur5\an2\c&HEAFFE9&\b1\3c&H568539&\3a&H30&\pos(489.13,289)}Awakening
+Dialogue: 1,0:02:22.50,0:02:26.50,sign,sign,0,0,0,,{\fad(731,0)\fscx115\fscy115\bord0\blur3\t(225,726,\blur0)\an2\c&HEAFFE9&\b1\3c&H568539&\3a&H30&\pos(489.13,289)}Awakening
+Dialogue: 0,0:02:39.77,0:02:41.38,Main,Zod,0,0,0,,{\i1}Absolute Zero{\i0}!
+Dialogue: 0,0:03:15.51,0:03:16.97,Main,Priscilla,0,0,0,,Tutto bene?
+Dialogue: 0,0:03:18.02,0:03:20.40,Main,Zod,0,0,0,,A quanto pare Desir aveva ragione.
+Dialogue: 0,0:03:22.21,0:03:25.48,Main,Zod,0,0,0,,Sembra che le magie normali\Ncon lui non funzionino.
+Dialogue: 0,0:03:26.51,0:03:28.67,Main,Zod,0,0,0,,Userò una magia un pochino più grande.
+Dialogue: 0,0:03:28.67,0:03:30.74,Main,Zod,0,0,0,,Sta' indietro, Priscilla.
+Dialogue: 0,0:03:30.74,0:03:31.54,Main,Priscilla,0,0,0,,Va bene.
+Dialogue: 0,0:03:52.00,0:03:53.87,Main,Zod,0,0,0,,{\i1}Rods from God{\i0}!
+Dialogue: 0,0:04:19.86,0:04:23.12,Main,Priscilla,0,0,0,,Non per nulla sei\Nil mago più potente del mondo.
+Dialogue: 0,0:04:23.12,0:04:24.24,Main,Zod,0,0,0,,Già.
+Dialogue: 0,0:04:26.70,0:04:30.75,Italics,Zod,0,0,0,,Come faceva Desir\Na conoscere questo demone?
+Dialogue: 0,0:04:35.59,0:04:36.59,Main,Romantica,0,0,0,,Desir!
+Dialogue: 0,0:04:36.59,0:04:38.59,Italics,Romantica,0,0,0,,Il Capo della Torre ce l'ha fatta!
+Dialogue: 0,0:04:39.58,0:04:41.47,Main,Desir,0,0,0,,Dadeinuf è caduto.
+Dialogue: 0,0:04:42.97,0:04:45.28,Main,Desir,0,0,0,,La tua rivoluzione finisce qui!
+Dialogue: 0,0:04:46.18,0:04:47.54,Main,Pram,0,0,0,,Rivoluzione…
+Dialogue: 0,0:04:47.79,0:04:48.85,Main,Pram,0,0,0,,Parli di…
+Dialogue: 0,0:04:49.43,0:04:53.11,Main,Desir,0,0,0,,Della guerra civile avvenuta\Nnell'Impero di Hebrion 12 anni fa.
+Dialogue: 0,0:04:53.45,0:04:56.42,Main,Desir,0,0,0,,Nel tentativo di liberare il popolo\Ndal dominio dei nobili
+Dialogue: 0,0:04:56.42,0:04:58.68,Main,Desir,0,0,0,,un unico studente si fece avanti.
+Dialogue: 0,0:04:59.36,0:05:02.62,Main,Desir,0,0,0,,Ma lo scontro si concluse\Ncon la vittoria dei nobili
+Dialogue: 0,0:05:02.62,0:05:04.37,Main,Desir,0,0,0,,e un ulteriore inasprimento
+Dialogue: 0,0:05:04.37,0:05:06.52,Main,Desir,0,0,0,,delle discriminazioni per ceto di nascita.
+Dialogue: 0,0:05:07.53,0:05:10.12,Main,Desir,0,0,0,,Anche Batour e gli altri\Ncovavano rancore verso i nobili.
+Dialogue: 0,0:05:10.83,0:05:14.29,Main,Desir,0,0,0,,Voi siete ciò che resta\Ndi quella rivoluzione, non è così?
+Dialogue: 0,0:05:16.86,0:05:19.92,Main,Maschera di corvo,0,0,0,,Questo mondo trabocca di assurdità.
+Dialogue: 0,0:05:20.92,0:05:25.04,Main,Maschera di corvo,0,0,0,,Solo i nobili possiedono il potere\Ne tutto ruota attorno a loro.
+Dialogue: 0,0:05:25.04,0:05:27.68,Main,Maschera di corvo,0,0,0,,Ci viene da sempre imposto\Nquesto modo di pensare.
+Dialogue: 0,0:05:29.43,0:05:31.69,Main,Maschera di corvo,0,0,0,,E non vale solo per Hebrion.
+Dialogue: 0,0:05:32.10,0:05:34.69,Main,Maschera di corvo,0,0,0,,Gli stolti nobili di tutto il mondo
+Dialogue: 0,0:05:34.69,0:05:38.56,Main,Maschera di corvo,0,0,0,,impongono le proprie misure\Ne irrazionalità.
+Dialogue: 0,0:05:43.82,0:05:47.32,Main,Maschera di corvo,0,0,0,,Questo mondo\Nè fondamentalmente sbagliato!
+Dialogue: 0,0:05:48.44,0:05:51.02,Main,Maschera di corvo,0,0,0,,Nemmeno tu puoi negarlo!
+Dialogue: 0,0:05:51.02,0:05:51.90,Main,Desir,0,0,0,,È vero.
+Dialogue: 0,0:05:51.90,0:05:53.21,Main,Pram,0,0,0,,Desir?!
+Dialogue: 0,0:05:53.92,0:05:56.71,Main,Desir,0,0,0,,La discriminazione nell'Accademia\Nnon è ancora sparita.
+Dialogue: 0,0:05:57.34,0:05:59.45,Main,Desir,0,0,0,,Si nega un futuro a persone di talento
+Dialogue: 0,0:05:59.45,0:06:02.37,Main,Desir,0,0,0,,unicamente in base ai loro natali.
+Dialogue: 0,0:06:02.97,0:06:04.97,Main,Desir,0,0,0,,Ma guarda qui!
+Dialogue: 0,0:06:05.43,0:06:07.72,Main,Desir,0,0,0,,Le persone che avete ferito
+Dialogue: 0,0:06:07.72,0:06:10.72,Main,Desir,0,0,0,,sono proprio quelle che voi\Ndovreste proteggere!
+Dialogue: 0,0:06:10.72,0:06:12.39,Main,Maschera di corvo,0,0,0,,Chi non cerca il cambiamento
+Dialogue: 0,0:06:12.39,0:06:15.23,Main,Maschera di corvo,0,0,0,,e si limita a sottomettersi docilmente\Nè altrettanto colpevole!
+Dialogue: 0,0:06:15.48,0:06:18.01,Main,Maschera di corvo,0,0,0,,Distruggerò ogni cosa di questo mondo
+Dialogue: 0,0:06:18.01,0:06:20.48,Main,Maschera di corvo,0,0,0,,per creare una vera uguaglianza!
+Dialogue: 0,0:06:20.91,0:06:22.28,Main,Pram,0,0,0,,Quest'uomo è…
+Dialogue: 0,0:06:24.57,0:06:26.35,Main,Desir,0,0,0,,Ora ti prenderemo in custodia.
+Dialogue: 0,0:06:29.24,0:06:32.27,Main,Maschera di corvo,0,0,0,,Hai detto che avete sconfitto Dadeinuf?
+Dialogue: 0,0:06:33.55,0:06:35.62,Main,Maschera di corvo,0,0,0,,Vi piacerebbe se fosse così, eh?
+Dialogue: 0,0:06:35.62,0:06:36.65,Main,Desir,0,0,0,,Cosa?
+Dialogue: 0,0:06:37.38,0:06:39.76,Main,Maschera di corvo,0,0,0,,Quella è una catastrofe incarnata.
+Dialogue: 0,0:06:39.76,0:06:43.13,Main,Maschera di corvo,0,0,0,,Un mero umano non potrà\Nmai abbatterla.
+Dialogue: 0,0:06:46.26,0:06:47.43,Main,Desir,0,0,0,,Non ci credo!
+Dialogue: 0,0:07:01.69,0:07:03.07,Main,Azest,0,0,0,,Ma cosa…
+Dialogue: 0,0:07:24.70,0:07:26.29,Main,Maschera di corvo,0,0,0,,Rassegnatevi!
+Dialogue: 0,0:07:26.80,0:07:28.80,Main,Maschera di corvo,0,0,0,,Siete voi ad aver perso.
+Dialogue: 0,0:07:29.05,0:07:30.30,Main,Pram,0,0,0,,Non penso proprio!
+Dialogue: 0,0:07:34.59,0:07:35.91,Main,Azest,0,0,0,,Ci è sfuggito?
+Dialogue: 0,0:07:35.91,0:07:37.19,Main,Pram,0,0,0,,Scusaci, Desir!
+Dialogue: 0,0:07:39.70,0:07:41.10,Main,Pram,0,0,0,,Desir?
+Dialogue: 0,0:07:41.44,0:07:44.03,Italics,Romantica,0,0,0,,Desir, io vi raggiungo.
+Dialogue: 0,0:07:44.56,0:07:47.32,Main,Romantica,0,0,0,,Temo di non poter fare\Nun bel niente, da sola.
+Dialogue: 0,0:07:49.21,0:07:51.33,Main,Romantica,0,0,0,,Desir? Ehi, mi senti?
+Dialogue: 0,0:07:51.33,0:07:53.11,Italics,Romantica,0,0,0,,Desir!
+Dialogue: 0,0:07:53.73,0:07:55.11,Main,Desir,0,0,0,,S-Sì, scusa.
+Dialogue: 0,0:07:55.11,0:07:56.96,Italics,Romantica,0,0,0,,Ehi, tutto a posto?
+Dialogue: 0,0:07:57.21,0:07:58.60,Main,Desir,0,0,0,,Sì, tutto ok.
+Dialogue: 0,0:07:58.60,0:08:01.75,Main,Desir,0,0,0,,Veniamo noi da te.\NNon muoverti da lì.
+Dialogue: 0,0:08:02.34,0:08:03.60,Main,Desir,0,0,0,,Ricevuto.
+Dialogue: 0,0:08:09.48,0:08:11.06,Italics,Desir,0,0,0,,Il futuro è cambiato?
+Dialogue: 0,0:08:12.58,0:08:15.56,Italics,Desir,0,0,0,,Il nostro scontro con Dadeinuf\Nnel mondo delle ombre
+Dialogue: 0,0:08:15.56,0:08:17.52,Italics,Desir,0,0,0,,doveva avvenire più in là nel tempo!
+Dialogue: 0,0:08:17.77,0:08:20.40,Italics,Desir,0,0,0,,Il Demone della Calamità\Ndi cui si narra nelle leggende.
+Dialogue: 0,0:08:20.40,0:08:23.52,Italics,Desir,0,0,0,,Non è esagerato definire il suo potere\Nuna vera e propria calamità.
+Dialogue: 0,0:08:24.07,0:08:26.97,Italics,Desir,0,0,0,,Noi sconfiggemmo il demone\Nunendo le forze.
+Dialogue: 0,0:08:27.80,0:08:28.90,Italics,Desir,0,0,0,,Però
+Dialogue: 0,0:08:28.90,0:08:30.68,Italics,Desir,0,0,0,,il prezzo che pagammo
+Dialogue: 0,0:08:31.62,0:08:33.51,Italics,Desir,0,0,0,,fu fin troppo grande.
+Dialogue: 0,0:08:39.04,0:08:40.84,Main,Azest,0,0,0,,Che mana incredibile.
+Dialogue: 0,0:08:40.84,0:08:43.09,Main,Romantica,0,0,0,,È diventato ancora più potente di prima.
+Dialogue: 0,0:08:43.37,0:08:45.46,Main,Pram,0,0,0,,Come possiamo sconfiggere\Nun essere simile?
+Dialogue: 0,0:08:45.92,0:08:48.00,Italics,Desir,0,0,0,,Romantica, Aaron
+Dialogue: 0,0:08:48.25,0:08:49.93,Italics,Desir,0,0,0,,e Dadeinuf.
+Dialogue: 0,0:08:50.29,0:08:51.49,Italics,Desir,0,0,0,,Perché?!
+Dialogue: 0,0:08:51.49,0:08:54.88,Italics,Desir,0,0,0,,Perché è comparso nel mondo reale\Ne non in un mondo delle ombre?!
+Dialogue: 0,0:08:56.16,0:08:58.52,Italics,Desir,0,0,0,,È perché sono tornato indietro nel tempo?
+Dialogue: 0,0:09:01.62,0:09:04.88,Italics,Desir,0,0,0,,Significa forse\Nche non posso sfuggire al mio destino?
+Dialogue: 0,0:09:06.12,0:09:07.39,Main,Romantica,0,0,0,,Desir?
+Dialogue: 0,0:09:12.65,0:09:14.16,Main,Desir,0,0,0,,Non scherziamo.
+Dialogue: 0,0:09:18.06,0:09:20.73,Main,Desir,0,0,0,,Dobbiamo lasciare Dadeinuf\Nal Capo della Torre.
+Dialogue: 0,0:09:20.73,0:09:22.67,Main,Desir,0,0,0,,Noi gli saremmo solo d'intralcio.
+Dialogue: 0,0:09:23.17,0:09:27.05,Main,Desir,0,0,0,,Aiutiamo con l'evacuazione.\NDobbiamo salvare più vite possibili.
+Dialogue: 0,0:09:27.05,0:09:27.67,Main,Pram,0,0,0,,Sì!
+Dialogue: 0,0:09:27.67,0:09:28.42,Main,Romantica,0,0,0,,Ho capito.
+Dialogue: 0,0:09:28.42,0:09:29.42,Main,Azest,0,0,0,,Va bene.
+Dialogue: 0,0:09:45.56,0:09:46.81,Main,Uomo 1,0,0,0,,Siamo salvi.
+Dialogue: 0,0:09:46.81,0:09:49.07,Main,Uomo 2,0,0,0,,Ma la città è un mare di fiamme!
+Dialogue: 0,0:09:50.61,0:09:52.16,Main,Bambina,0,0,0,,Mamma, guarda!
+Dialogue: 0,0:09:52.16,0:09:53.32,Main,Donna,0,0,0,,Cosa c'è?
+Dialogue: 0,0:09:53.57,0:09:55.53,Main,Bambina,0,0,0,,Che grandi quei fuochi d'artificio!
+Dialogue: 0,0:10:04.91,0:10:06.71,Main,Azest,0,0,0,,{\i1}Ice Crown{\i0}!
+Dialogue: 0,0:10:16.72,0:10:18.32,Main,Azest,0,0,0,,Ora siete al sicuro.
+Dialogue: 0,0:10:30.48,0:10:33.12,Main,Desir,0,0,0,,Lasciamo che si occupino loro\Ndella terraferma.
+Dialogue: 0,0:10:33.12,0:10:34.86,Main,Desir,0,0,0,,Concentrati, Romantica.
+Dialogue: 0,0:10:34.86,0:10:36.24,Main,Romantica,0,0,0,,Sì, lo so.
+Dialogue: 0,0:10:36.66,0:10:38.87,Main,Desir,0,0,0,,A ore 2. Distanza, 850.
+Dialogue: 0,0:10:38.87,0:10:39.99,Main,Romantica,0,0,0,,Ricevuto!
+Dialogue: 0,0:10:43.75,0:10:46.88,Main,Desir,0,0,0,,Il prossimo. A ore 11, 1200.
+Dialogue: 0,0:10:59.14,0:11:00.76,Main,Zod,0,0,0,,Non riesco a raggiungerlo?
+Dialogue: 0,0:11:01.26,0:11:02.14,Main,Zod,0,0,0,,In tal caso…
+Dialogue: 0,0:11:03.53,0:11:04.89,Main,Zod,0,0,0,,{\i1}Vortex{\i0}!
+Dialogue: 0,0:11:13.23,0:11:14.52,Main,Zod,0,0,0,,E aggiungiamo…
+Dialogue: 0,0:11:15.37,0:11:16.95,Main,Zod,0,0,0,,{\i1}Obsidian Saber{\i0}!
+Dialogue: 0,0:11:25.81,0:11:27.04,Main,Zod,0,0,0,,Pensaci tu, scusa.
+Dialogue: 0,0:11:27.04,0:11:28.23,Main,Priscilla,0,0,0,,{\i1}Heal{\i0}.
+Dialogue: 0,0:11:35.92,0:11:37.05,Main,Zod,0,0,0,,Grazie mille.
+Dialogue: 0,0:11:37.05,0:11:38.30,Main,Zod,0,0,0,,Ora sta' indietro.
+Dialogue: 0,0:11:39.83,0:11:40.93,Main,Priscilla,0,0,0,,Non dirmi che…
+Dialogue: 0,0:11:41.85,0:11:43.31,Main,Zod,0,0,0,,Non è finita.
+Dialogue: 0,0:12:02.63,0:12:03.97,Main,Priscilla,0,0,0,,Non può essere…
+Dialogue: 0,0:12:04.78,0:12:08.23,Main,Zod,0,0,0,,La parola "demone" è assolutamente adatta.
+Dialogue: 0,0:12:14.09,0:12:18.43,Main,Desir,0,0,0,,Romantica, la nave è in un'area sicura.\NNon c'è più di che temere.
+Dialogue: 0,0:12:18.68,0:12:20.46,Main,Romantica,0,0,0,,Meno male.
+Dialogue: 0,0:12:23.89,0:12:24.99,Main,Desir,0,0,0,,Sei stata brava.
+Dialogue: 0,0:12:24.99,0:12:27.54,Main,Romantica,0,0,0,,Ti ho già detto che mi mandi\Nin bestia quando fai così!
+Dialogue: 0,0:12:28.10,0:12:30.53,Main,Romantica,0,0,0,,Però, stavolta fai pure.
+Dialogue: 0,0:12:34.61,0:12:36.32,Main,Desir,0,0,0,,Iniziamo a evacuare anche noi.
+Dialogue: 0,0:12:46.12,0:12:47.23,Main,Desir,0,0,0,,Romantica.
+Dialogue: 0,0:12:47.96,0:12:49.30,Main,Desir,0,0,0,,Sì, lo so.
+Dialogue: 0,0:12:55.84,0:12:58.05,Main,Pram,0,0,0,,Desir, siamo alla stazione.
+Dialogue: 0,0:12:58.05,0:12:59.30,Main,Azest,0,0,0,,Voi a che punto siete?
+Dialogue: 0,0:13:00.55,0:13:02.95,Main,Desir,0,0,0,,Noi ci siamo quasi,\Niniziate a salire sul tre—
+Dialogue: 0,0:13:02.95,0:13:04.04,Italics,Pram,0,0,0,,Ti aspettiamo!
+Dialogue: 0,0:13:02.95,0:13:04.04,Italics_Overlap,Azest,0,0,0,,Ti aspetteremo.
+Dialogue: 0,0:13:05.81,0:13:07.07,Main,Desir,0,0,0,,Va bene.
+Dialogue: 0,0:13:10.11,0:13:11.94,Main,Desir,0,0,0,,Tutto a posto, Romantica?
+Dialogue: 0,0:13:12.95,0:13:14.88,Main,Romantica,0,0,0,,Sì, sto bene.
+Dialogue: 0,0:13:15.94,0:13:17.82,Main,Desir,0,0,0,,A me non sembra.
+Dialogue: 0,0:13:19.60,0:13:22.79,Main,Romantica,0,0,0,,Ho solo usato un po' troppo mana.
+Dialogue: 0,0:13:29.27,0:13:31.29,Main,Romantica,0,0,0,,Ok, andiamo!
+Dialogue: 0,0:13:31.29,0:13:32.36,Main,Desir,0,0,0,,Sì.
+Dialogue: 0,0:13:33.75,0:13:35.05,Main,Romantica,0,0,0,,Che c'è?!
+Dialogue: 0,0:13:35.05,0:13:36.42,Main,Desir,0,0,0,,Degli {\i1}Outer{\i0} sopravvissuti.
+Dialogue: 0,0:13:36.42,0:13:37.52,Main,Romantica,0,0,0,,Dove?!
+Dialogue: 0,0:13:38.09,0:13:40.04,Main,Desir,0,0,0,,Bisogna intervenire e fermarli.
+Dialogue: 0,0:13:40.04,0:13:41.71,Main,Desir,0,0,0,,Tu dirigiti alla stazione.
+Dialogue: 0,0:13:41.71,0:13:43.43,Main,Romantica,0,0,0,,No! Combatterò anch'io!
+Dialogue: 0,0:13:43.68,0:13:46.68,Main,Desir,0,0,0,,Non sei a corto di mana?\NNon puoi combattere così.
+Dialogue: 0,0:13:46.93,0:13:49.77,Main,Romantica,0,0,0,,Beh, sì, hai ragione, ma…
+Dialogue: 0,0:13:52.17,0:13:54.44,Main,Romantica,0,0,0,,Vedi di non fare pazzie, d'accordo?
+Dialogue: 0,0:13:54.81,0:13:56.39,Main,Desir,0,0,0,,Certo, lo so.
+Dialogue: 0,0:13:57.25,0:14:01.53,Main,Romantica,0,0,0,,Devo proprio dirlo,\Nquel sorriso mi manda in bestia.
+Dialogue: 0,0:14:09.25,0:14:11.46,Italics,Desir,0,0,0,,Scusa, Romantica.
+Dialogue: 0,0:14:19.41,0:14:22.79,Italics,Desir,0,0,0,,Non voglio assolutamente\Nche finisca come allora!
+Dialogue: 0,0:14:29.44,0:14:30.60,Main,Desir,0,0,0,,Aaron?
+Dialogue: 0,0:14:31.65,0:14:32.88,Main,Aaron,0,0,0,,Tu chi sei?
+Dialogue: 0,0:14:33.25,0:14:35.31,Main,Aaron,0,0,0,,Non mi pare ci siamo mai presentati.
+Dialogue: 0,0:14:36.08,0:14:40.32,Main,Desir,0,0,0,,Sono desolato, sir Aaron,\Ncapitano dei cavalieri di Divide.
+Dialogue: 0,0:14:41.20,0:14:45.57,Main,Aaron,0,0,0,,Ah, sei il mago che ha fatto evacuare\Nil mio Re dal castello.
+Dialogue: 0,0:14:45.82,0:14:46.89,Main,Desir,0,0,0,,Esatto.
+Dialogue: 0,0:14:46.89,0:14:50.08,Main,Desir,0,0,0,,Mi chiamo Desir Herrman,\Ndell'Accademia Hebrion.
+Dialogue: 0,0:14:50.58,0:14:52.59,Main,Aaron,0,0,0,,Permettimi di ringraziarti nuovamente.
+Dialogue: 0,0:14:54.08,0:14:55.39,Main,Aaron,0,0,0,,Hai la mia gratitudine.
+Dialogue: 0,0:14:55.39,0:14:56.24,Main,Desir,0,0,0,,Di nulla.
+Dialogue: 0,0:14:57.93,0:15:00.17,Italics,Desir,0,0,0,,Sono io che vorrei ringraziarti.
+Dialogue: 0,0:15:02.04,0:15:03.93,Italics,Desir,0,0,0,,Alla fine ce l'ho fatta.
+Dialogue: 0,0:15:03.93,0:15:06.13,Italics,Desir,0,0,0,,Sono riuscito\Na parlarti di nuovo di persona.
+Dialogue: 0,0:15:10.74,0:15:13.44,Main,Desir,0,0,0,,La nave per il Regno di Divide\Ndovrebbe essere già salpata.
+Dialogue: 0,0:15:13.44,0:15:15.77,Main,Desir,0,0,0,,Come mai si trova qui, capitano?
+Dialogue: 0,0:15:15.77,0:15:19.55,Main,Aaron,0,0,0,,Siamo in terra straniera,\Nma non potevamo stare a guardare.
+Dialogue: 0,0:15:19.55,0:15:22.47,Main,Aaron,0,0,0,,Stiamo cercando chiunque\Nabbia tardato a fuggire.
+Dialogue: 0,0:15:22.47,0:15:25.50,Main,Aaron,0,0,0,,Anche se Sua Maestà\Nmi ha ammonito per questo.
+Dialogue: 0,0:15:26.19,0:15:27.70,Italics,Desir,0,0,0,,Non sei cambiato.
+Dialogue: 0,0:15:29.38,0:15:31.03,Main,Desir,0,0,0,,Allontanatevi subito.
+Dialogue: 0,0:15:31.28,0:15:32.17,Main,Aaron,0,0,0,,Cosa?
+Dialogue: 0,0:15:32.66,0:15:36.13,Main,Desir,0,0,0,,Presto il potere di quel demone\Narriverà anche qui.
+Dialogue: 0,0:15:36.65,0:15:39.50,Main,Desir,0,0,0,,Quell'essere non ha ancora\Nsfoggiato tutta la sua potenza.
+Dialogue: 0,0:15:40.57,0:15:41.72,Main,Aaron,0,0,0,,Tu…
+Dialogue: 0,0:15:42.05,0:15:44.31,Main,Desir,0,0,0,,Non voglio che muoia nessuno.
+Dialogue: 0,0:15:48.09,0:15:49.30,Main,Aaron,0,0,0,,Ho capito.
+Dialogue: 0,0:15:49.55,0:15:51.19,Main,Desir,0,0,0,,La ringrazio di cuore.
+Dialogue: 0,0:15:51.19,0:15:52.20,Main,Desir,0,0,0,,Con permesso!
+Dialogue: 0,0:16:33.51,0:16:34.47,Main,Priscilla,0,0,0,,Zod?
+Dialogue: 0,0:16:34.72,0:16:35.90,Main,Zod,0,0,0,,Sto bene!
+Dialogue: 0,0:16:35.90,0:16:37.10,Main,Zod,0,0,0,,Ora la farò finita.
+Dialogue: 0,0:16:40.01,0:16:41.65,Main,Zod,0,0,0,,{\i1}Absolute Zero{\i0}!
+Dialogue: 0,0:16:47.21,0:16:48.75,Main,Zod,0,0,0,,{\i1}Magma Howl{\i0}!
+Dialogue: 0,0:17:23.46,0:17:25.06,Main,Zod,0,0,0,,Finalmente è crollato?
+Dialogue: 0,0:17:25.06,0:17:27.12,Main,Priscilla,0,0,0,,Ottimo lavoro, Zod.
+Dialogue: 0,0:17:27.12,0:17:28.30,Main,Desir,0,0,0,,Non ancora!
+Dialogue: 0,0:17:31.45,0:17:32.95,Main,Zod,0,0,0,,Cosa vuoi dire?
+Dialogue: 0,0:17:33.20,0:17:36.50,Main,Desir,0,0,0,,Dadeinuf non ha ancora\Nmostrato la sua vera forma.
+Dialogue: 0,0:17:42.77,0:17:46.59,Main,Desir,0,0,0,,Si dice che quel demone abbia distrutto\Nuna città in una notte.
+Dialogue: 0,0:17:47.53,0:17:48.99,Main,Desir,0,0,0,,La sua vera forma è…
+Dialogue: 0,0:18:25.18,0:18:27.13,Main,Desir,0,0,0,,È quello il vero aspetto
+Dialogue: 0,0:18:27.13,0:18:29.99,Main,Desir,0,0,0,,del Demone della Calamità, Dadeinuf!
+Dialogue: 0,0:18:34.61,0:18:36.60,Main,Priscilla,0,0,0,,Cosa dovremmo fare?
+Dialogue: 0,0:18:37.26,0:18:40.07,Main,Zod,0,0,0,,Desir, occupati di Priscilla.
+Dialogue: 0,0:18:40.32,0:18:43.94,Main,Zod,0,0,0,,La Santa è necessaria\Nall’ordine del mondo.
+Dialogue: 0,0:18:43.94,0:18:45.90,Main,Priscilla,0,0,0,,Zod, non farlo!
+Dialogue: 0,0:18:46.33,0:18:48.49,Main,Desir,0,0,0,,Se tira in ballo l'ordine del mondo,
+Dialogue: 0,0:18:48.49,0:18:51.19,Main,Desir,0,0,0,,anche Zod Exarion\Nè altrettanto indispensabile.
+Dialogue: 0,0:18:53.01,0:18:54.38,Main,Desir,0,0,0,,Capo della Torre…
+Dialogue: 0,0:18:54.84,0:18:57.07,Main,Desir,0,0,0,,dia a me il mana che le resta.
+Dialogue: 0,0:18:59.23,0:19:02.19,Main,Zod,0,0,0,,Vuoi dire che tu puoi sconfiggerlo?
+Dialogue: 0,0:19:02.54,0:19:03.33,Main,Desir,0,0,0,,Sì!
+Dialogue: 0,0:19:10.42,0:19:12.61,Main,Priscilla,0,0,0,,Delle formule magiche inferiori?
+Dialogue: 0,0:19:13.31,0:19:14.99,Main,Priscilla,0,0,0,,Cosa credi di poterci fare?
+Dialogue: 0,0:19:14.99,0:19:15.93,Main,Zod,0,0,0,,Aspetta.
+Dialogue: 0,0:19:16.89,0:19:20.49,Italics,Desir,0,0,0,,La magia è cambiata pian piano\Nadattandosi alle epoche.
+Dialogue: 0,0:19:20.91,0:19:23.04,Italics,Desir,0,0,0,,L'unica cosa rimasta immutata
+Dialogue: 0,0:19:23.29,0:19:26.48,Italics,Desir,0,0,0,,è il fatto che ogni forma di magia agisce
+Dialogue: 0,0:19:26.48,0:19:29.08,Italics,Desir,0,0,0,,elaborando il mana presente nell'aria.
+Dialogue: 0,0:19:30.99,0:19:33.90,Main,Zod,0,0,0,,Ti basterà sovrapporre\Ndelle formule così semplici
+Dialogue: 0,0:19:33.90,0:19:36.14,Main,Zod,0,0,0,,per sconfiggere quel demone?
+Dialogue: 0,0:19:36.70,0:19:37.70,Main,Desir,0,0,0,,No.
+Dialogue: 0,0:19:38.27,0:19:41.26,Main,Desir,0,0,0,,Quel demone non si può sconfiggere\Ncon il potere di un umano.
+Dialogue: 0,0:19:50.13,0:19:51.46,Italics,Desir,0,0,0,,Giusto…
+Dialogue: 0,0:19:52.13,0:19:54.76,Italics,Desir,0,0,0,,Serve un potere superiore\Na quello di quel demone!
+Dialogue: 0,0:20:09.98,0:20:14.24,Italics,Desir,0,0,0,,L'umanità ne ha dimenticato\Nperfino l'esistenza.
+Dialogue: 0,0:20:14.24,0:20:17.75,Italics,Desir,0,0,0,,Il modello magico della razza\Nche fu definita l'origine della magia.
+Dialogue: 0,0:20:18.36,0:20:20.11,Main,Zod,0,0,0,,Cosa intendi fare?!
+Dialogue: 0,0:20:28.21,0:20:31.97,Italics,Desir,0,0,0,,Tanto per cominciare, le formule\Nsono solo tecniche degli umani
+Dialogue: 0,0:20:31.97,0:20:34.87,Italics,Desir,0,0,0,,per elaborare il mana\Ne trasformarlo in magia.
+Dialogue: 0,0:20:36.64,0:20:40.37,Italics,Desir,0,0,0,,Per lui, che ha il mana\Ncome sua stessa linfa vitale,
+Dialogue: 0,0:20:40.37,0:20:42.67,Italics,Desir,0,0,0,,non era necessaria alcuna formula.
+Dialogue: 0,0:20:44.16,0:20:47.81,Italics,Desir,0,0,0,,Il solo pronunciare quelle parole\Nchiama a sé la catastrofe.
+Dialogue: 0,0:20:48.94,0:20:50.21,Italics,Desir,0,0,0,,Dico bene…
+Dialogue: 0,0:20:51.50,0:20:53.24,Italics,Desir,0,0,0,,Boromir Napolitan?!
+Dialogue: 0,0:21:13.69,0:21:15.00,Main,Zod,0,0,0,,Interessante.
+Dialogue: 0,0:21:16.41,0:21:19.60,Main,Zod,0,0,0,,Mostrami ciò che sai fare,\NDesir Herrman!
+Dialogue: 1,0:23:35.56,0:23:39.94,sign,sign,0,0,0,,{\fad(731,0)\fscx80\fscy80\bord0\blur3\t(225,726,\blur0)\an2\c&HEAFFE9&\b1\3c&H568539&\3a&H30&\pos(306.32,306.33)}Episodio 20
+Dialogue: 0,0:23:35.56,0:23:39.94,sign,sign,0,0,0,,{\fad(731,0)\fscx80\fscy80\bord1\blur5\an2\c&HEAFFE9&\b1\3c&H568539&\3a&H30&\pos(306.32,306.33)}Episodio 20
+Dialogue: 2,0:23:35.56,0:23:39.94,sign,sign,0,0,0,,{\fad(731,0)\bord1\blur5\an2\c&HEAFFE9&\b1\3c&H568539&\3a&H30&\fscx107\fscy107\pos(491.79,283)}Le parole della catastrofe
+Dialogue: 3,0:23:35.56,0:23:39.94,sign,sign,0,0,0,,{\fad(731,0)\bord0\blur3\t(225,726,\blur0)\an2\c&HEAFFE9&\b1\3c&H568539&\3a&H30&\fscx107\fscy107\pos(491.79,283)}Le parole della catastrofe
+Dialogue: 0,0:23:36.23,0:23:39.23,Main_Top,Desir,0,0,0,,Nel prossimo episodio,\N"Le parole della catastrofe".
+
