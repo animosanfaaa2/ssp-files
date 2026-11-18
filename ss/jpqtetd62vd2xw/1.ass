@@ -1,0 +1,359 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.33,0:00:02.32,Italics,Shizuka,0,0,0,,You people are seriously f*cked!
+Dialogue: 0,0:00:02.32,0:00:03.57,Italics,Shizuka,0,0,0,,You're f*cking f*cked!
+Dialogue: 0,0:00:34.68,0:00:36.22,Default,sign,0,0,0,,{\an8\fnArial\fs18\shad0\bord3\3c&HE8E8E8&\c&H6A5C5B&}That bird is talking!!!!!!!!
+Dialogue: 0,0:00:35.47,0:00:37.56,Default,sign,0,0,0,,{\an8\fnArial\fs18\shad0\bord3\3c&HE8E8E8&\c&H6A5C5B&}What language is that???
+Dialogue: 0,0:00:36.81,0:00:38.18,Default,sign,0,0,0,,{\an8\fnArial\fs18\shad0\bord3\3c&HE8E8E8&\c&H6A5C5B&}dafuq is this??? AI???
+Dialogue: 0,0:00:37.73,0:00:39.52,Default,sign,0,0,0,,{\an8\fnArial\fs18\shad0\bord3\3c&HE8E8E8&\c&H6A5C5B&}Wow! They're talking so fluently!
+Dialogue: 0,0:00:38.18,0:00:40.27,Default,sign,0,0,0,,{\an8\fnArial\fs18\shad0\bord3\3c&HE8E8E8&\c&H6A5C5B&}This is too funny lololol
+Dialogue: 0,0:00:39.52,0:00:41.60,Default,sign,0,0,0,,{\an8\fnArial\fs18\shad0\bord3\3c&HE8E8E8&\c&H6A5C5B&}AI, right?
+Dialogue: 0,0:00:41.31,0:00:43.40,Default,sign,0,0,0,,{\an8\fnArial\fs18\shad0\bord3\3c&HE8E8E8&\c&H6A5C5B&}Want the girl on the right to step on me
+Dialogue: 0,0:00:42.23,0:00:44.32,Default,sign,0,0,0,,{\an8\fnArial\fs18\shad0\bord3\3c&HE8E8E8&\c&H6A5C5B&}Some kind of promotion?
+Dialogue: 0,0:00:42.69,0:00:44.65,Default,sign,0,0,0,,{\an8\fnArial\fs18\shad0\bord3\3c&HE8E8E8&\c&H6A5C5B&}Can someone plz translate
+Dialogue: 0,0:00:46.04,0:00:48.29,Italics,Sasaki,0,0,0,,This is a horror show.
+Dialogue: 0,0:02:19.08,0:02:22.25,Default,sign,0,0,0,,{\an3\fad(830,1)\fnArial\fs12\an1\i0\bord1\b1\shad1\blur2\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\pos(605,310)}EP 7{\3c&H93CC2E&\4c&H93CC2E&\c&HFFFFFF&}\h\h\h\hCultural Exchanges and Female Leads
+Dialogue: 0,0:02:20.05,0:02:22.25,Italics - Top,Sasaki,0,0,0,,Wait, don't tell me...
+Dialogue: 0,0:02:22.56,0:02:26.71,Flashback_Italics,Müller,0,0,0,,The Lord Starsage cannot \Nhold his liquor at all.
+Dialogue: 0,0:02:27.52,0:02:30.63,Default,Sasaki,0,0,0,,Peeps, do you remember doing this?
+Dialogue: 0,0:02:33.65,0:02:37.80,Italics,Shizuka,0,0,0,,Well? Do you understand \Nthe situation you've put yourselves in?
+Dialogue: 0,0:02:37.80,0:02:39.79,Default,Sasaki,0,0,0,,I appreciate the warning.
+Dialogue: 0,0:02:39.79,0:02:41.95,Default,Sasaki,0,0,0,,The chief has called me in,
+Dialogue: 0,0:02:41.95,0:02:45.56,Default,Sasaki,0,0,0,,and I would've gone to see him \Nwithout any context.
+Dialogue: 0,0:02:45.94,0:02:49.57,Default,Shizuka,0,0,0,,Go speak with him at once.
+Dialogue: 0,0:02:49.89,0:02:51.19,Default,Shizuka,0,0,0,,I cannot help you here.
+Dialogue: 0,0:02:51.19,0:02:55.08,Default,Sasaki,0,0,0,,I'm truly sorry for all \Nthe trouble I've made.
+Dialogue: 0,0:02:55.08,0:02:56.84,Italics,Shizuka,0,0,0,,You'd better be!
+Dialogue: 0,0:02:56.84,0:02:59.70,Italics,Shizuka,0,0,0,,Feels like I'm drawing \Nthe short straw for sure.
+Dialogue: 0,0:02:59.70,0:03:04.53,Default,Sasaki,0,0,0,,We'll try very hard to make sure \Nthis doesn't blow back on you.
+Dialogue: 0,0:03:05.05,0:03:07.64,Italics,Shizuka,0,0,0,,You had best return with good news.
+Dialogue: 0,0:03:10.01,0:03:14.72,Default,Sasaki,0,0,0,,Peeps, is it possible you confused \Nthe recording and livestream buttons?
+Dialogue: 0,0:03:14.72,0:03:18.64,Default,Peeps,0,0,0,,Wh-What a terrible thing I've done!
+Dialogue: 0,0:03:18.92,0:03:20.69,Default,Peeps,0,0,0,,I beg you for forgiveness!
+Dialogue: 0,0:03:20.69,0:03:22.73,Default,Peeps,0,0,0,,I realize apologies \Nwill not fix the problem,
+Dialogue: 0,0:03:22.73,0:03:24.61,Default,Peeps,0,0,0,,but I truly am sorry!
+Dialogue: 0,0:03:25.22,0:03:27.48,Default,Sasaki,0,0,0,,Seriously, you don't have to apologize.
+Dialogue: 0,0:03:27.48,0:03:29.10,Default,Sasaki,0,0,0,,What's done is done.
+Dialogue: 0,0:03:29.10,0:03:33.91,Default,Peeps,0,0,0,,I may have cost you \Nyour place in this world.
+Dialogue: 0,0:03:33.91,0:03:38.31,Default,Sasaki,0,0,0,,If that happens, well, I can just \Nlive in the other world for a while.
+Dialogue: 0,0:03:38.69,0:03:41.01,Default,Peeps,0,0,0,,What have I done?
+Dialogue: 0,0:03:41.40,0:03:43.16,Default,Peeps,0,0,0,,How can I ever make it up to you?
+Dialogue: 0,0:03:44.52,0:03:46.71,Italics,Sasaki,0,0,0,,He's so adorable!
+Dialogue: 0,0:03:47.12,0:03:52.03,Default,Peeps,0,0,0,,To think I would grow drunk on wine \Nand err in my internet navigation...
+Dialogue: 0,0:03:52.34,0:03:55.94,Default,Sasaki,0,0,0,,Really, people make mistakes \Nlike that all the time.
+Dialogue: 0,0:03:55.94,0:03:57.47,Default,Sasaki,0,0,0,,These things happen.
+Dialogue: 0,0:03:57.82,0:04:01.16,Default,Peeps,0,0,0,,I am a fool beyond imagining!
+Dialogue: 0,0:04:01.16,0:04:05.33,Default,Peeps,0,0,0,,I've let my grand title \Nof Starsage go to my head.
+Dialogue: 0,0:04:05.94,0:04:09.78,Default,Peeps,0,0,0,,To think I would take advantage \Nof your kindness this way...
+Dialogue: 0,0:04:09.78,0:04:12.65,Default,Peeps,0,0,0,,I shall limit my internet usage \Nfor the foreseeable future.
+Dialogue: 0,0:04:14.49,0:04:15.73,Default,Sasaki,0,0,0,,Appreciate that.
+Dialogue: 0,0:04:16.12,0:04:19.77,Default,Sasaki,0,0,0,,Well, I'd better drop by the bureau.
+Dialogue: 0,0:04:19.77,0:04:22.35,Default,Peeps,0,0,0,,Yes, please take care.
+Dialogue: 0,0:04:22.35,0:04:24.68,Default,Sasaki,0,0,0,,I'll find a way to smooth things over.
+Dialogue: 0,0:04:24.68,0:04:30.58,Default,Sasaki,0,0,0,,In exchange, will you stay \Nwith Lady Elsa for a while?
+Dialogue: 0,0:04:30.58,0:04:35.82,Default,Sasaki,0,0,0,,I'm sure she'll feel anxious \Nbeing alone with Futari Shizuka.
+Dialogue: 0,0:04:35.82,0:04:37.80,Default,Peeps,0,0,0,,Indeed, it shall be done.
+Dialogue: 0,0:04:38.26,0:04:41.14,Default,Peeps,0,0,0,,And I swear never to make\N such an error again.
+Dialogue: 0,0:04:43.17,0:04:45.51,Default,Akutsu,0,0,0,,Let's get straight to business.
+Dialogue: 0,0:04:45.51,0:04:48.07,Default,Akutsu,0,0,0,,Who is that girl?
+Dialogue: 0,0:04:48.07,0:04:52.50,Default,Sasaki,0,0,0,,I believe I explained that to you already.
+Dialogue: 0,0:04:52.50,0:04:55.40,Default,Akutsu,0,0,0,,We tracked her location \Nfrom the background,
+Dialogue: 0,0:04:55.40,0:05:01.40,Default,Akutsu,0,0,0,,and we have footage of people who appear \Nto be you and Futari Shizuka-kun
+Dialogue: 0,0:05:01.40,0:05:03.99,Default,Akutsu,0,0,0,,coming and going at the hotel entrance.
+Dialogue: 0,0:05:04.33,0:05:08.66,Default,Akutsu,0,0,0,,I find it hard to believe you truly \Nhave nothing to do with this.
+Dialogue: 0,0:05:08.95,0:05:12.90,Default,Sasaki,0,0,0,,I heard she'll be staying \Nin Japan for a while.
+Dialogue: 0,0:05:13.27,0:05:18.41,Default,Akutsu,0,0,0,,I'm personally intrigued by this Java \Nsparrow that seems to speak her language.
+Dialogue: 0,0:05:18.41,0:05:20.88,Default,Akutsu,0,0,0,,Assuming it's not fake,
+Dialogue: 0,0:05:20.88,0:05:25.22,Default,Akutsu,0,0,0,,could it have the same origin as \Nthe lizardman who fell from the sky?
+Dialogue: 0,0:05:26.18,0:05:31.62,Default,Akutsu,0,0,0,,Speaking of, you keep a Java \Nsparrow at home, don't you?
+Dialogue: 0,0:05:32.53,0:05:35.40,Italics,Sasaki,0,0,0,,He's hit me right where I live!
+Dialogue: 0,0:05:35.40,0:05:37.73,Italics,Sasaki,0,0,0,,I'm not sure how I can \Ntalk my way out of this...
+Dialogue: 0,0:05:37.73,0:05:42.73,Default,Akutsu,0,0,0,,Do you honestly know nothing of her \Nconnection to Futari Shizuka-kun?
+Dialogue: 0,0:05:42.73,0:05:44.88,Default,Sasaki,0,0,0,,Futari Shizuka-san says that
+Dialogue: 0,0:05:44.88,0:05:47.49,Default,Sasaki,0,0,0,,she doesn't understand \Nthe language in the video either.
+Dialogue: 0,0:05:47.49,0:05:49.58,Default,Akutsu,0,0,0,,And you believe her?
+Dialogue: 0,0:05:50.57,0:05:53.88,Default,Sasaki,0,0,0,,At the very least, \Nthat's what she's told me.
+Dialogue: 0,0:05:54.92,0:05:58.23,Italics,Sasaki,0,0,0,,It's best not to lie at the moment.
+Dialogue: 0,0:05:58.23,0:06:00.88,Italics,Sasaki,0,0,0,,The plan is to accept the facts \Nas he presents them,
+Dialogue: 0,0:06:00.88,0:06:04.64,Italics,Sasaki,0,0,0,,then insist I still don't \Nknow anything about it.
+Dialogue: 0,0:06:06.37,0:06:11.14,Default,Akutsu,0,0,0,,Do you wish to continue living \Nas a citizen of this country?
+Dialogue: 0,0:06:11.66,0:06:16.34,Italics,Sasaki,0,0,0,,This is an ultimatum, I believe.
+Dialogue: 0,0:06:16.34,0:06:21.74,Italics,Sasaki,0,0,0,,My response will greatly \Naffect my life moving forward.
+Dialogue: 0,0:06:22.59,0:06:26.95,Default,Sasaki,0,0,0,,Yes, I fully intend to continue \Nserving my homeland.
+Dialogue: 0,0:06:27.83,0:06:32.41,Default,Akutsu,0,0,0,,In that case, you should do your duty \Nas a member of this bureau.
+Dialogue: 0,0:06:33.27,0:06:38.10,Default,Sasaki,0,0,0,,Then, if I may, I'll start at once.
+Dialogue: 0,0:06:39.18,0:06:42.84,Default,Sasaki,0,0,0,,Chief, do you remember \Nthe events at the bowling alley?
+Dialogue: 0,0:06:45.76,0:06:48.22,Default,Akutsu,0,0,0,,Where is this coming from?
+Dialogue: 0,0:06:53.68,0:06:59.65,Default,sign,0,0,0,,{\fnArial\shad0\fs18\pos(243.2,37.2)\c&H6A5C5B&\3c&HEBEBE8&}Suspects
+Dialogue: 0,0:06:53.68,0:06:59.65,Default,sign,0,0,0,,{\fnArial\shad0\fs18\c&H6A5C5B&\3c&HD7D5D4&\pos(136,210.8)}Section Chief
+Dialogue: 0,0:06:53.68,0:06:59.65,Default,sign,0,0,0,,{\fnArial\shad0\fs18\c&H6A5C5B&\3c&HE2E0DF&\pos(340.8,202.8)}Vice Director
+Dialogue: 0,0:06:54.29,0:06:57.74,Default,Sasaki,0,0,0,,The one who got the tip\Nfrom the suspect group
+Dialogue: 0,0:06:57.74,0:06:59.65,Default,Sasaki,0,0,0,,was the vice director, correct?
+Dialogue: 0,0:07:00.03,0:07:03.78,Default,Sasaki,0,0,0,,Members of the bureau were\N seriously injured on this mission,
+Dialogue: 0,0:07:03.78,0:07:07.42,Default,Sasaki,0,0,0,,including everyone in the van\N serving as our base camp.
+Dialogue: 0,0:07:07.42,0:07:08.99,Default,Sasaki,0,0,0,,Actually, that's not right...
+Dialogue: 0,0:07:08.99,0:07:11.33,Default,sign,0,0,0,,{\bord3\fnArial\shad0\c&H6A5C5B&\3c&HEBEBE8&\an8}Section Chief
+Dialogue: 0,0:07:11.33,0:07:13.70,Default,sign,0,0,0,,{\bord3\fnArial\shad0\c&H6A5C5B&\3c&HEBEBE8&\an8}Suspect
+Dialogue: 0,0:07:11.33,0:07:13.70,Default,Sasaki,0,0,0,,It was everyone but {\i1}you{\i0}.
+Dialogue: 0,0:07:14.12,0:07:18.71,Default,Sasaki,0,0,0,,Ah, but a straight line from here \Nto here might not be quite right.
+Dialogue: 0,0:07:20.39,0:07:22.84,Default,sign,0,0,0,,{\fad(380,1)\fnArial\shad0\fs18\c&H6A5C5B&\3c&HEBEBE8&\pos(317.867,79.867)}Suspects
+Dialogue: 0,0:07:20.39,0:07:22.84,Default,sign,0,0,0,,{\fad(380,1)\fnArial\shad0\fs18\c&H6A5C5B&\3c&HD7D5D4&\pos(194.667,260.578)}Section Chief
+Dialogue: 0,0:07:20.39,0:07:22.84,Default,sign,0,0,0,,{\fad(380,1)\fnArial\shad0\fs18\c&H6A5C5B&\3c&HC9CBCA&\pos(460.8,264.134)}Vice Director
+Dialogue: 0,0:07:20.39,0:07:22.84,Default,sign,0,0,0,,{\fad(380,1)\fnArial\shad0\fs18\c&H6A5C5B&\3c&HE1E2DF&\pos(322.133,140.578)}?
+Dialogue: 0,0:07:24.62,0:07:29.76,Default,Sasaki,0,0,0,,Of course the suspects were happy\N to take out members of the bureau.
+Dialogue: 0,0:07:29.76,0:07:31.55,Default,Sasaki,0,0,0,,Looking at it this way,
+Dialogue: 0,0:07:31.55,0:07:34.88,Default,Sasaki,0,0,0,,I feel bad for the vice director, \Nwho was none the wiser.
+Dialogue: 0,0:07:34.88,0:07:40.11,Default,Sasaki,0,0,0,,He'll be blamed for the incident \Nand transferred, perhaps.
+Dialogue: 0,0:07:40.64,0:07:45.40,Default,Sasaki,0,0,0,,Are you as curious as I am about \Nwho will be assigned to his post next?
+Dialogue: 0,0:07:46.15,0:07:47.78,Default,Akutsu,0,0,0,,Sasaki-kun.
+Dialogue: 0,0:07:47.78,0:07:50.53,Default,Akutsu,0,0,0,,Are you connected with \Nthe public security police division?
+Dialogue: 0,0:07:50.89,0:07:52.27,Italics,Sasaki,0,0,0,,Got him on my hook!
+Dialogue: 0,0:07:52.73,0:07:54.50,Default,Sasaki,0,0,0,,No, I'm not.
+Dialogue: 0,0:07:54.50,0:07:57.71,Default,Akutsu,0,0,0,,Then what are you getting at here?
+Dialogue: 0,0:07:57.71,0:07:59.60,Default,Sasaki,0,0,0,,Don't get the wrong idea.
+Dialogue: 0,0:07:59.60,0:08:02.44,Default,Sasaki,0,0,0,,You're the one who picked this fight.
+Dialogue: 0,0:08:03.01,0:08:07.53,Default,Sasaki,0,0,0,,I'd prefer for our relationship \Nto remain a genial one.
+Dialogue: 0,0:08:08.10,0:08:11.16,Default,Akutsu,0,0,0,,And you expect me \Nto take you at your word?
+Dialogue: 0,0:08:11.92,0:08:14.60,Default,Sasaki,0,0,0,,I certainly hope you will.
+Dialogue: 0,0:08:14.60,0:08:17.89,Default,Sasaki,0,0,0,,If I truly held any ill will toward you,
+Dialogue: 0,0:08:17.89,0:08:21.02,Default,Sasaki,0,0,0,,would I go out of my way \Nto share what I know?
+Dialogue: 0,0:08:21.38,0:08:27.30,Default,Sasaki,0,0,0,,All I want is to maintain my status \Nas an ordinary agent with the bureau.
+Dialogue: 0,0:08:27.30,0:08:30.79,Default,Akutsu,0,0,0,,Is the title that appealing to you?
+Dialogue: 0,0:08:31.62,0:08:35.74,Default,Sasaki,0,0,0,,It's like heaven compared \Nto my last workplace.
+Dialogue: 0,0:08:36.88,0:08:38.46,Default,Akutsu,0,0,0,,I see.
+Dialogue: 0,0:08:39.14,0:08:41.67,Default,Akutsu,0,0,0,,Just who are you, Sasaki-kun?
+Dialogue: 0,0:08:43.25,0:08:47.55,Default,Sasaki,0,0,0,,This world is far more diverse \Nthan you imagine it, Chief.
+Dialogue: 0,0:08:50.52,0:08:54.35,Italics,Sasaki,0,0,0,,It doesn't sound as cool coming \Nfrom an unremarkable man like me.
+Dialogue: 0,0:08:54.35,0:08:58.88,Italics,Sasaki,0,0,0,,Those words mean far more from \Nthe weighty beak of the Starsage.
+Dialogue: 0,0:08:58.88,0:09:02.31,Italics,Sasaki,0,0,0,,I got carried away and \Nacted like a cringe adult.
+Dialogue: 0,0:09:03.24,0:09:04.49,Italics,Sasaki,0,0,0,,But still...
+Dialogue: 0,0:09:05.10,0:09:10.38,Default,Sasaki,0,0,0,,Things being as they are, I hope you'll \Nrefrain from prying further into this.
+Dialogue: 0,0:09:10.38,0:09:13.91,Default,Sasaki,0,0,0,,I won't get involved \Nin your maneuverings either.
+Dialogue: 0,0:09:14.32,0:09:19.30,Default,Sasaki,0,0,0,,And I believe that's best for both of us.
+Dialogue: 0,0:09:20.75,0:09:24.19,Italics,Sasaki,0,0,0,,I just don't want to go back \Nto being a wage slave.
+Dialogue: 0,0:09:24.19,0:09:27.34,Italics,Sasaki,0,0,0,,I don't want the government \Nafter me either.
+Dialogue: 0,0:09:27.76,0:09:31.39,Italics,Sasaki,0,0,0,,What matters is maintaining \Na comfortable life.
+Dialogue: 0,0:09:32.13,0:09:33.05,Default,Akutsu,0,0,0,,Indeed.
+Dialogue: 0,0:09:34.47,0:09:38.14,Default,Akutsu,0,0,0,,I agree with you, Sasaki-kun.
+Dialogue: 0,0:09:40.75,0:09:43.23,Italics,Sasaki,0,0,0,,I was worried for a minute there,
+Dialogue: 0,0:09:43.23,0:09:45.78,Italics,Sasaki,0,0,0,,but it looks like I made it through.
+Dialogue: 0,0:09:45.78,0:09:48.67,Italics,Sasaki,0,0,0,,Things should be okay for a while now.
+Dialogue: 0,0:09:48.67,0:09:51.89,Italics,Sasaki,0,0,0,,Next, I need to report to Futari Shizuka.
+Dialogue: 0,0:09:52.53,0:09:56.90,Italics,Sasaki,0,0,0,,We'll have to find a new place \Nfor Lady Elsa to stay as well.
+Dialogue: 0,0:09:57.83,0:10:03.08,Default,Neighbor,0,0,0,,I'd like to get into the building \Nwithout anyone seeing me.
+Dialogue: 0,0:10:03.08,0:10:05.63,Default,Abaddon,0,0,0,,Would you like to use a reward?
+Dialogue: 0,0:10:05.63,0:10:09.01,Default,Abaddon,0,0,0,,You've earned one from your recent \Nexploits in the quarantine space.
+Dialogue: 0,0:10:09.01,0:10:10.48,Default,Neighbor,0,0,0,,Then please.
+Dialogue: 0,0:10:10.48,0:10:12.17,Default,Abaddon,0,0,0,,That was fast!
+Dialogue: 0,0:10:12.17,0:10:16.34,Default,Abaddon,0,0,0,,You're always decisive when he's involved.
+Dialogue: 1,0:10:16.34,0:10:20.14,Flashback_Italics,Newscaster,0,0,0,,Now, let's check out \Nthis latest viral video!
+Dialogue: 1,0:10:20.65,0:10:23.68,Flashback_Italics,Newscaster,0,0,0,,A pretty girl and a Java sparrow \Nconverse in some mysterious language.
+Dialogue: 0,0:10:20.14,0:10:24.23,Default,sign,0,0,0,,{\an1\fnArial Black\fs12\shad0\pos(96,55.778)\3c&HFFFFFF&\c&H817A65&}Viral Video!
+Dialogue: 0,0:10:20.14,0:10:24.23,Default,sign,0,0,0,,{\an3\fnArial Black\fs12\shad0\3c&H9BFF50&\c&HF1F1F1&\pos(581.818,253.596)}Topic: {\fs14\c&HEF7069&\3c&HF1F1F1&}The mysterious talking {\c&H9BFF50&}Java sparrow{\c&HEF7069&} and {\c&HA155E9&}pretty girl{\c&HEF7069&}!
+Dialogue: 0,0:10:23.68,0:10:26.19,Flashback_Italics,Newscaster,0,0,0,,Isn't it engaging?
+Dialogue: 0,0:10:27.27,0:10:30.61,Flashback,Abaddon,0,0,0,,Hey, doesn't that Java \Nsparrow look familiar?
+Dialogue: 0,0:10:30.89,0:10:32.96,Flashback,Neighbor,0,0,0,,You think so too?
+Dialogue: 0,0:10:32.96,0:10:35.57,Flashback,Abaddon,0,0,0,,Bet it's the same one.
+Dialogue: 0,0:10:35.57,0:10:40.25,Flashback,Neighbor,0,0,0,,But then what is the blonde's \Nrelationship to my neighbor?
+Dialogue: 0,0:10:40.25,0:10:41.35,Flashback,Abaddon,0,0,0,,No idea.
+Dialogue: 0,0:10:53.92,0:10:55.21,Flashback,Mom,0,0,0,,Hey!
+Dialogue: 0,0:10:55.21,0:10:57.47,Flashback,Mom,0,0,0,,Don't put your hands on me—
+Dialogue: 0,0:11:06.89,0:11:09.85,Default,Abaddon,0,0,0,,You even tracked down \Nthis hotel where it was filmed.
+Dialogue: 0,0:11:09.85,0:11:13.65,Default,Neighbor,0,0,0,,These are the reasons I keep you around.
+Dialogue: 0,0:11:13.65,0:11:15.21,Default,Abaddon,0,0,0,,That's fine.
+Dialogue: 0,0:11:15.21,0:11:18.61,Default,Abaddon,0,0,0,,I'll give you just \Nwhat you need to proceed...
+Dialogue: 0,0:11:22.33,0:11:23.89,Default,Neighbor,0,0,0,,What did you do?
+Dialogue: 0,0:11:23.89,0:11:26.48,Default,Abaddon,0,0,0,,I've hidden you from \Nthe people around you.
+Dialogue: 0,0:11:26.48,0:11:30.29,Default,Abaddon,0,0,0,,Now you can march right inside unnoticed.
+Dialogue: 0,0:11:30.29,0:11:31.92,Default,Neighbor,0,0,0,,Understood.
+Dialogue: 0,0:11:39.95,0:11:41.61,Default,Hoshizaki,0,0,0,,Are you kidding me?!
+Dialogue: 0,0:11:41.61,0:11:43.87,Default,Hoshizaki,0,0,0,,What the hell was Sasaki thinking?
+Dialogue: 0,0:11:44.56,0:11:47.04,Default,Neighbor,0,0,0,,Abaddon, let's follow her.
+Dialogue: 0,0:11:47.04,0:11:48.02,Default,Abaddon,0,0,0,,Yes, yes.
+Dialogue: 0,0:11:55.78,0:12:00.13,Default,Abaddon,0,0,0,,Oh my! Your instincts might \Nhave been right on the money.
+Dialogue: 0,0:12:01.25,0:12:05.62,Default,Abaddon,0,0,0,,Hey, you're tensing up. \NDid you notice something?
+Dialogue: 0,0:12:06.90,0:12:11.70,Default,Hoshizaki,0,0,0,,I need Sasaki to stick \Nwith me until retirement.
+Dialogue: 0,0:12:13.80,0:12:16.87,Default,Abaddon,0,0,0,,I'd advise you to keep your cool.
+Dialogue: 0,0:12:23.93,0:12:26.06,Default,Hoshizaki,0,0,0,,This is the police! Open the door!
+Dialogue: 0,0:12:26.77,0:12:30.90,Default,Abaddon,0,0,0,,You're so easy to read \Nwhenever he's involved.
+Dialogue: 0,0:12:44.53,0:12:47.54,Default,Abaddon,0,0,0,,Looks like your hunch was spot on!
+Dialogue: 0,0:12:57.01,0:13:01.97,Default,Hoshizaki,0,0,0,,Are you Futari Shizuka's psychic friend? \NThe one who visited the bureau before?
+Dialogue: 0,0:13:02.82,0:13:04.65,Default,Elsa,0,0,0,,Who are you?
+Dialogue: 0,0:13:04.65,0:13:07.31,Default,Elsa,0,0,0,,The entrance was supposed to be locked!
+Dialogue: 0,0:13:07.62,0:13:10.94,Default,Hoshizaki,0,0,0,,Right, I can't understand \Na word you're saying...
+Dialogue: 0,0:13:11.90,0:13:15.03,Default,Shizuka,0,0,0,,All right, I've secured \Na new base of operations.
+Dialogue: 0,0:13:15.90,0:13:18.74,Default,Shizuka,0,0,0,,Ah. Too late, I suppose.
+Dialogue: 0,0:13:18.74,0:13:20.24,Italics,Neighbor,0,0,0,,Of course.
+Dialogue: 0,0:13:20.24,0:13:23.77,Italics,Neighbor,0,0,0,,That's the girl who was \Nwith him the other day.
+Dialogue: 0,0:13:24.42,0:13:29.12,Default,Hoshizaki,0,0,0,,Futari Shizuka, I know you've \Nbeen going around with Sasaki.
+Dialogue: 0,0:13:29.12,0:13:30.75,Default,Shizuka,0,0,0,,How convenient.
+Dialogue: 0,0:13:30.75,0:13:33.90,Default,Shizuka,0,0,0,,Then you'll know you can leave this to me \Nand head back to the bureau.
+Dialogue: 0,0:13:33.90,0:13:38.16,Default,Hoshizaki,0,0,0,,That blonde girl is your \Npsychic friend, isn't she?
+Dialogue: 0,0:13:38.16,0:13:39.84,Default,Shizuka,0,0,0,,And what if she is?
+Dialogue: 0,0:13:44.93,0:13:46.76,Default,Shizuka,0,0,0,,Wh-What now?!
+Dialogue: 0,0:13:48.12,0:13:49.68,Default,Elsa,0,0,0,,M-Mr. Bird!
+Dialogue: 0,0:13:53.01,0:13:55.52,Default,Abaddon,0,0,0,,There's a child floating in midair.
+Dialogue: 0,0:13:55.52,0:13:57.42,Default,Abaddon,0,0,0,,Do you know something about this?
+Dialogue: 0,0:13:57.42,0:13:59.00,Default,Neighbor,0,0,0,,What are you talking about?
+Dialogue: 0,0:14:05.25,0:14:07.99,Default,Magical Pink,0,0,0,,I kill psychics.
+Dialogue: 0,0:14:07.99,0:14:10.42,Default,Abaddon,0,0,0,,Doesn't look like an angel or a demon.
+Dialogue: 0,0:14:10.80,0:14:14.95,Default,Neighbor,0,0,0,,No quarantine space,\N so she's not a disciple either.
+Dialogue: 0,0:14:14.95,0:14:17.92,Default,Shizuka,0,0,0,,H-How did you know we were here?
+Dialogue: 0,0:14:18.35,0:14:20.07,Default,Magical Pink,0,0,0,,Saw you on TV.
+Dialogue: 0,0:14:20.51,0:14:23.47,Default,Magical Pink,0,0,0,,One on the side of a building.
+Dialogue: 0,0:14:23.47,0:14:26.43,Default,Shizuka,0,0,0,,Goodness. Has it gone that viral?
+Dialogue: 0,0:14:26.98,0:14:29.51,Default,Shizuka,0,0,0,,You've really outdone \Nyourselves this time.
+Dialogue: 0,0:14:29.51,0:14:30.55,Default,Neighbor,0,0,0,,Abaddon.
+Dialogue: 0,0:14:30.55,0:14:32.77,Default,Neighbor,0,0,0,,Could you make me visible?
+Dialogue: 0,0:14:32.77,0:14:34.73,Default,Abaddon,0,0,0,,Don't blame me for what goes down.
+Dialogue: 0,0:14:34.73,0:14:35.99,Default,Neighbor,0,0,0,,I won't.
+Dialogue: 0,0:14:38.15,0:14:40.07,Default,Shizuka,0,0,0,,Someone else appeared!
+Dialogue: 0,0:14:47.76,0:14:49.95,Default,Shizuka,0,0,0,,Okay, this isn't my problem anymore!
+Dialogue: 0,0:14:49.95,0:14:52.66,Default,Shizuka,0,0,0,,You people can do whatever you want!
+Dialogue: 0,0:14:53.26,0:14:56.25,Default,Hoshizaki,0,0,0,,I'm taking you all to the bureau with me!
+Dialogue: 0,0:14:56.25,0:14:58.11,Default,Magical Pink,0,0,0,,I won't let the psychics escape.
+Dialogue: 0,0:14:58.11,0:14:59.38,Default,Magical Pink,0,0,0,,I will kill them.
+Dialogue: 0,0:14:59.38,0:15:02.42,Default,Elsa,0,0,0,,It's rude to barge in \Non someone like this!
+Dialogue: 0,0:15:02.42,0:15:05.63,Default,Neighbor,0,0,0,,My neighbor belongs to me. \NI won't let anyone have him.
+Dialogue: 0,0:15:05.63,0:15:08.71,Default,Abaddon,0,0,0,,Sounds like none of you are \Nspeaking the same language.
+Dialogue: 0,0:15:08.71,0:15:12.47,Default,Abaddon,0,0,0,,I'd recommend beating \Na quick retreat, personally.
+Dialogue: 0,0:15:12.47,0:15:14.60,Default,Neighbor,0,0,0,,I disagree with your assessment.
+Dialogue: 0,0:15:14.60,0:15:18.43,Default,Abaddon,0,0,0,,If that girl hits you, it's game over.
+Dialogue: 0,0:15:18.43,0:15:19.76,Default,Neighbor,0,0,0,,I realize that.
+Dialogue: 0,0:15:19.76,0:15:23.82,Default,Neighbor,0,0,0,,But while I'm here, I want to know \Nwhat their relationship is.
+Dialogue: 0,0:15:24.27,0:15:27.19,Default,Hoshizaki,0,0,0,,You there! Why are you \Ntalking to yourself?
+Dialogue: 0,0:15:27.19,0:15:29.41,Default,Hoshizaki,0,0,0,,Do you know Sasaki as well?
+Dialogue: 0,0:15:29.41,0:15:33.28,Default,Neighbor,0,0,0,,Could you tell me what your \Nrelationship to him is?
+Dialogue: 0,0:15:33.28,0:15:34.87,Default,Hoshizaki,0,0,0,,We're coworkers.
+Dialogue: 0,0:15:35.21,0:15:38.50,Default,Neighbor,0,0,0,,He told me he works \Nat a civilian company.
+Dialogue: 0,0:15:38.50,0:15:40.74,Default,Hoshizaki,0,0,0,,He recently changed occupations.
+Dialogue: 0,0:15:40.74,0:15:42.46,Default,Hoshizaki,0,0,0,,He didn't tell you?
+Dialogue: 0,0:15:42.80,0:15:46.82,Italics,Neighbor,0,0,0,,I don't like some other woman \Nflaunting her knowledge of him to me.
+Dialogue: 0,0:15:46.82,0:15:49.93,Italics,Neighbor,0,0,0,,I'm the one who understands him best.
+Dialogue: 0,0:15:49.93,0:15:52.39,Default,Hoshizaki,0,0,0,,What psychic group are \Nyou affiliated with?
+Dialogue: 0,0:15:52.39,0:15:55.60,Default,Hoshizaki,0,0,0,,Are you involved with \NFutari Shizuka's old haunts?
+Dialogue: 0,0:15:55.60,0:16:00.56,Default,Neighbor,0,0,0,,I have met her, but I've never \Nheard the term "psychic" before.
+Dialogue: 0,0:16:00.56,0:16:03.53,Default,Hoshizaki,0,0,0,,Then I'll ask Futari Shizuka.
+Dialogue: 0,0:16:04.24,0:16:06.24,Default,Shizuka,0,0,0,,I really wish you wouldn't...
+Dialogue: 0,0:16:07.70,0:16:09.91,Default,Magical Pink,0,0,0,,I'll kill all psychics.
+Dialogue: 0,0:16:15.73,0:16:17.87,Italics,Sasaki,0,0,0,,Ah, it's one of {\i0}those{\i1}...
+Dialogue: 0,0:16:17.87,0:16:20.83,Italics,Sasaki,0,0,0,,Another thing I'll have\N to report to the chief!
+Dialogue: 0,0:16:22.72,0:16:24.11,Default,Sasaki,0,0,0,,Yes? Sasaki speaking.
+Dialogue: 0,0:16:24.11,0:16:25.36,Italics,Akutsu,0,0,0,,Akutsu here.
+Dialogue: 0,0:16:25.36,0:16:30.02,Italics,Akutsu,0,0,0,,I'm sure you're already aware, \Nbut a magical girl has been spotted.
+Dialogue: 0,0:16:30.02,0:16:31.64,Italics,Akutsu,0,0,0,,I want you to intercept her.
+Dialogue: 0,0:16:31.64,0:16:34.04,Italics,Akutsu,0,0,0,,I'm sending agents \Nto the scene as well,
+Dialogue: 0,0:16:34.04,0:16:36.22,Italics,Akutsu,0,0,0,,but they're in a very public area,
+Dialogue: 0,0:16:36.22,0:16:38.53,Italics,Akutsu,0,0,0,,so I want you to cover this up at once.
+Dialogue: 0,0:16:38.53,0:16:39.94,Default,Sasaki,0,0,0,,Understood.
+Dialogue: 0,0:16:43.11,0:16:45.07,Default,Magical Pink,0,0,0,,Blocked again.
+Dialogue: 0,0:16:45.07,0:16:47.99,Default,Magical Pink,0,0,0,,The same way the magical man did it...
+Dialogue: 0,0:16:48.53,0:16:52.49,Default,Elsa,0,0,0,,Mr. Bird, d-did you do that?
+Dialogue: 0,0:16:53.95,0:16:55.50,Default,Hoshizaki,0,0,0,,Down on your knees!
+Dialogue: 0,0:16:58.39,0:17:00.30,Default,Hoshizaki,0,0,0,,I knew it. A Magical Barrier.
+Dialogue: 0,0:17:01.30,0:17:03.92,Italics,Neighbor,0,0,0,,What's with that goofy name?
+Dialogue: 0,0:17:04.49,0:17:09.31,Italics,Neighbor,0,0,0,,Actually, with your help, maybe \NI could take down the woman in makeup.
+Dialogue: 0,0:17:09.31,0:17:11.63,Default,Abaddon,0,0,0,,That's your priority?
+Dialogue: 0,0:17:11.63,0:17:15.26,Italics,Neighbor,0,0,0,,She didn't hesitate to shoot at a child.
+Dialogue: 0,0:17:15.26,0:17:17.47,Italics,Neighbor,0,0,0,,I want her out of the reckoning at once.
+Dialogue: 0,0:17:17.88,0:17:19.93,Italics,Neighbor,0,0,0,,Plus...
+Dialogue: 0,0:17:20.75,0:17:22.77,Italics,Neighbor,0,0,0,,I think I hate this woman.
+Dialogue: 0,0:17:28.04,0:17:29.69,Default,Elsa,0,0,0,,Listen, you people!
+Dialogue: 0,0:17:29.69,0:17:33.16,Default,Elsa,0,0,0,,It's so rude to make a mess \Nin someone else's house!
+Dialogue: 0,0:17:41.97,0:17:43.20,Default,Elsa,0,0,0,,Someone just appeared!
+Dialogue: 0,0:17:43.20,0:17:44.75,Default,Hoshizaki,0,0,0,,An invisible psychic?
+Dialogue: 0,0:17:44.75,0:17:47.96,Default,Magical Pink,0,0,0,,Another psychic. I'll kill him.
+Dialogue: 0,0:17:48.64,0:17:50.80,Default,Shizuka,0,0,0,,For Pete's sake!
+Dialogue: 0,0:17:51.19,0:17:55.12,Default,Hoshizaki,0,0,0,,Very kind of you to give me a weapon.
+Dialogue: 0,0:17:56.53,0:17:58.52,Default,Hoshizaki,0,0,0,,Now, let's begin!
+Dialogue: 0,0:18:03.94,0:18:05.44,Default,Abaddon,0,0,0,,You're welcome.
+Dialogue: 0,0:18:05.44,0:18:07.07,Default,Neighbor,0,0,0,,I didn't say anything.
+Dialogue: 0,0:18:09.86,0:18:11.24,Default,Hoshizaki,0,0,0,,It's not over yet!
+Dialogue: 0,0:18:13.18,0:18:15.87,Default,Neighbor,0,0,0,,We're underpowered here, \Naren't we, Abaddon?
+Dialogue: 0,0:18:15.87,0:18:20.45,Default,Abaddon,0,0,0,,There's not a lot I can do since \Nyou used your reward so frivolously.
+Dialogue: 0,0:18:20.45,0:18:22.81,Default,Hoshizaki,0,0,0,,I've got to take at least one of you back
+Dialogue: 0,0:18:22.81,0:18:24.33,Default,Hoshizaki,0,0,0,,or I'll be a disgrace!
+Dialogue: 0,0:18:25.54,0:18:30.78,Italics,Neighbor,0,0,0,,Even a demon like Abaddon is limited \Noutside of a quarantine space.
+Dialogue: 0,0:18:30.78,0:18:32.88,Italics,Neighbor,0,0,0,,If I could at least get close...
+Dialogue: 0,0:18:32.88,0:18:34.72,Default,Shizuka,0,0,0,,Looks like I'm up!
+Dialogue: 0,0:18:34.72,0:18:36.81,Default,Shizuka,0,0,0,,A perfect chance to get her in my debt!
+Dialogue: 0,0:18:36.81,0:18:39.64,Default,Hoshizaki,0,0,0,,Hey, why are you taking her side?
+Dialogue: 0,0:18:39.64,0:18:41.18,Default,Hoshizaki,0,0,0,,Aren't you with the bureau?!
+Dialogue: 0,0:18:41.18,0:18:43.44,Default,Shizuka,0,0,0,,I'm not taking anyone's side!
+Dialogue: 0,0:18:43.44,0:18:46.80,Default,Shizuka,0,0,0,,I'm just making the smartest move \NI can to settle things down!
+Dialogue: 0,0:18:47.31,0:18:49.27,Default,Shizuka,0,0,0,,This'll finish it!
+Dialogue: 0,0:18:58.69,0:19:01.70,Default,Neighbor,0,0,0,,I wish you could have \Ndone something like that.
+Dialogue: 0,0:19:02.13,0:19:05.67,Default,Abaddon,0,0,0,,Just think of all the cool stuff \NI've done in quarantine spaces.
+Dialogue: 0,0:19:05.67,0:19:08.63,Default,Shizuka,0,0,0,,I'm pretty cool! \NI nailed that entire sequence.
+Dialogue: 0,0:19:09.12,0:19:13.34,Default,Abaddon,0,0,0,,After seeing that, it's hard to believe \Nthey're not demons or disciples.
+Dialogue: 0,0:19:13.34,0:19:17.03,Default,Neighbor,0,0,0,,Maybe you just forgot \Nan old friend of yours.
+Dialogue: 0,0:19:17.03,0:19:20.99,Default,Abaddon,0,0,0,,What, you don't believe your neighbor?
+Dialogue: 0,0:19:20.99,0:19:23.11,Default,Neighbor,0,0,0,,I didn't mean it that way.
+Dialogue: 0,0:19:24.27,0:19:26.56,Default,Magical Pink,0,0,0,,I'll kill psychics.
+Dialogue: 0,0:19:31.19,0:19:33.31,Default,Shizuka,0,0,0,,Hey, what are you doing?!
+Dialogue: 0,0:19:33.31,0:19:36.65,Default,Shizuka,0,0,0,,We were working together \Njust the other day!
+Dialogue: 0,0:19:36.65,0:19:38.12,Default,Hoshizaki,0,0,0,,Futari Shizuka,
+Dialogue: 0,0:19:38.12,0:19:41.12,Default,Hoshizaki,0,0,0,,are you abetting a magical girl \Ndespite being with the bureau?
+Dialogue: 0,0:19:41.12,0:19:44.33,Default,Shizuka,0,0,0,,N-Nope! There were \Ncircumstances. That's all.
+Dialogue: 0,0:19:44.33,0:19:47.40,Default,Neighbor,0,0,0,,Ma'am, she just saved you \Nfrom a dangerous attack.
+Dialogue: 0,0:19:47.40,0:19:50.29,Default,Neighbor,0,0,0,,Shouldn't you at least thank her?
+Dialogue: 0,0:19:50.29,0:19:54.71,Default,Neighbor,0,0,0,,If you're really with the police, \Nyou should set a proper example.
+Dialogue: 0,0:19:54.71,0:19:56.01,Default,Hoshizaki,0,0,0,,M-Ma'am?!
+Dialogue: 0,0:19:56.39,0:20:01.10,Italics,Neighbor,0,0,0,,From watching their interactions, the key \Nto all of this is the girl in the kimono.
+Dialogue: 0,0:20:01.56,0:20:05.06,Italics,Neighbor,0,0,0,,It wouldn't hurt to be in her good graces.
+Dialogue: 0,0:20:05.06,0:20:07.86,Default,Shizuka,0,0,0,,You're quite an insightful girl, you know.
+Dialogue: 0,0:20:07.86,0:20:09.28,Default,Hoshizaki,0,0,0,,How dare you!
+Dialogue: 0,0:20:09.28,0:20:12.02,Default,Hoshizaki,0,0,0,,You just used me to save yourself!
+Dialogue: 0,0:20:12.02,0:20:16.21,Default,Neighbor,0,0,0,,Either way, she still saved you, ma'am.
+Dialogue: 0,0:20:16.21,0:20:18.93,Default,Hoshizaki,0,0,0,,And could you please \Nstop calling me "ma'am"?
+Dialogue: 0,0:20:18.93,0:20:19.99,Default,Neighbor,0,0,0,,Why should I?
+Dialogue: 0,0:20:19.99,0:20:22.88,Default,Hoshizaki,0,0,0,,I'm not old enough to be a ma'am!
+Dialogue: 0,0:20:22.88,0:20:26.21,Default,Neighbor,0,0,0,,Even so, you're clearly \Nolder than the rest of us.
+Dialogue: 0,0:20:26.21,0:20:29.16,Default,Hoshizaki,0,0,0,,Excuse me?! I'm in high school!
+Dialogue: 0,0:20:31.60,0:20:34.33,Default,Neighbor,0,0,0,,Are you sure that's not \Nwishful thinking on your part?
+Dialogue: 0,0:20:34.33,0:20:36.38,Default,Hoshizaki,0,0,0,,What? Why are you looking at me like—
+Dialogue: 0,0:20:36.38,0:20:41.57,Default,Neighbor,0,0,0,,I realize that the world \Nwould consider me crazy too...
+Dialogue: 0,0:20:41.57,0:20:43.72,Default,Neighbor,0,0,0,,But even I can say confidently
+Dialogue: 0,0:20:44.40,0:20:48.08,Default,Neighbor,0,0,0,,that you're being \Nreally cringe right now.
+Dialogue: 0,0:20:48.08,0:20:51.19,Default,Hoshizaki,0,0,0,,I'm telling you, I'm totally a cool kid!
+Dialogue: 0,0:20:51.19,0:20:55.04,Default,Neighbor,0,0,0,,Insisting you're a "cool kid"\Nsuggests a certain desperation.
+Dialogue: 0,0:20:56.98,0:21:01.24,Default,Abaddon,0,0,0,,I see. So this is the way to get \Na personality like yours to mature...
+Dialogue: 0,0:21:01.24,0:21:03.07,Default,Magical Pink,0,0,0,,Stop babbling on.
+Dialogue: 0,0:21:03.07,0:21:04.45,Default,Magical Pink,0,0,0,,I'll kill the psych—
+Dialogue: 0,0:21:04.45,0:21:08.68,Default,Shizuka,0,0,0,,Pardon me. Have you ever considered \Nexpanding your vocabulary?
+Dialogue: 0,0:21:15.08,0:21:17.05,Default,Neighbor,0,0,0,,Abaddon, if I may,
+Dialogue: 0,0:21:17.05,0:21:19.86,Default,Neighbor,0,0,0,,I've reconsidered \Nmy position on our retreat.
+Dialogue: 0,0:21:19.86,0:21:21.26,Default,Abaddon,0,0,0,,Understandable.
+Dialogue: 0,0:21:21.26,0:21:25.61,Default,Abaddon,0,0,0,,I wish you'd agreed with me \Nfrom the start, though.
+Dialogue: 0,0:21:25.61,0:21:29.48,Default,Neighbor,0,0,0,,I'm sorry, but could you \Ncarry me out that window?
+Dialogue: 0,0:21:30.37,0:21:32.13,Default,Abaddon,0,0,0,,Sure! Leave it to me!
+Dialogue: 0,0:21:34.40,0:21:36.52,Default,Magical Pink,0,0,0,,I won't let any psychics escape!
+Dialogue: 0,0:21:37.36,0:21:38.57,Default,Neighbor,0,0,0,,Abaddon!
+Dialogue: 0,0:21:40.74,0:21:43.95,Default,Abaddon,0,0,0,,Don't worry! I anticipated that much!
+Dialogue: 0,0:21:54.16,0:21:55.04,Default,Sasaki,0,0,0,,Excuse me, everyone!
+Dialogue: 0,0:21:55.83,0:21:57.75,Default,Sasaki,0,0,0,,Wait just one minute!
+Dialogue: 0,0:21:59.03,0:22:00.18,Default,Neighbor,0,0,0,,Mister?
+Dialogue: 0,0:22:01.49,0:22:02.34,Default,Hoshizaki,0,0,0,,Sasaki?
+
