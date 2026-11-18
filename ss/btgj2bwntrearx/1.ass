@@ -1,0 +1,350 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Top Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Default Raised,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Overlap Low,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.39,0:00:08.07,Default,Cleric,0,0,0,,We will now execute the condemned woman\Nwho assassinated King Arnuwanda II.
+Dialogue: 0,0:00:10.57,0:00:12.95,Default,Cleric,0,0,0,,Do you have any last words?
+Dialogue: 0,0:00:13.62,0:00:15.60,Italics,Ursula,0,0,0,,I have nothing to regret.
+Dialogue: 0,0:00:16.03,0:00:17.71,Italics,Ursula,0,0,0,,If I close my eyes, I can dream
+Dialogue: 0,0:00:18.51,0:00:22.71,Italics,Ursula,0,0,0,,of Lady Yuri wearing the royal crown.
+Dialogue: 0,0:00:24.47,0:00:25.96,Default,Ursula,0,0,0,,No, I do not.
+Dialogue: 0,0:00:26.26,0:00:32.24,Default,Cleric,0,0,0,,For the abominable crime \Nof slaying King Arnuwanda II,
+Dialogue: 0,0:00:32.24,0:00:35.72,Default,Cleric,0,0,0,,you will pay with your life.
+Dialogue: 0,0:00:35.72,0:00:36.89,Default,Cleric,0,0,0,,Hang her!
+Dialogue: 0,0:00:49.07,0:00:55.20,Default,Sign,0,0,0,,{\an8}RED RIVER
+Dialogue: 0,0:02:11.99,0:02:16.99,Default,Sign,0,0,0,,{\an8}DIVISIONS
+Dialogue: 0,0:02:14.13,0:02:15.20,Italics,Yuri,0,0,0,,Divisions.
+Dialogue: 0,0:02:18.99,0:02:22.91,Default,Kail,0,0,0,,Tell me. What is it \Nyou're all keeping from me?
+Dialogue: 0,0:02:22.91,0:02:26.88,Default,Kikkuri,0,0,0,,O-Oh, I don't believe there's anything. \NI-I wouldn't know.
+Dialogue: 0,0:02:26.88,0:02:30.70,Default,Kail,0,0,0,,Kikkuri, you really intend \Nto feign ignorance?
+Dialogue: 0,0:02:30.70,0:02:32.22,Default,Kail,0,0,0,,It's not just you.
+Dialogue: 0,0:02:32.22,0:02:36.04,Default,Kail,0,0,0,,Talos and Mittanamwa have been \Navoiding eye contact with me.
+Dialogue: 0,0:02:37.24,0:02:39.81,Default,Kail,0,0,0,,Tell me what exactly\Nhas happened in Hattusa.
+Dialogue: 0,0:02:40.36,0:02:45.14,Default,Kail,0,0,0,,Yuri is my priority, \Nbut I will not ignore other matters.
+Dialogue: 0,0:02:45.14,0:02:47.13,Default,Kail,0,0,0,,Now tell me, Kikkuri.
+Dialogue: 0,0:02:47.13,0:02:49.69,Default,Kikkuri,0,0,0,,Well, I'm afraid...
+Dialogue: 0,0:02:50.15,0:02:52.03,Default,Mittanamwa,0,0,0,,Prince! Prince Kail!
+Dialogue: 0,0:02:53.06,0:02:53.74,Default,Kail,0,0,0,,What's wrong?
+Dialogue: 0,0:02:53.74,0:02:55.72,Default,Mittanamwa,0,0,0,,Lady Yuri's horse is here.
+Dialogue: 0,0:02:55.72,0:02:56.82,Default,Kikkuri,0,0,0,,Aslan?
+Dialogue: 0,0:02:56.82,0:02:58.78,Default,Kail,0,0,0,,Just her horse? Where's Yuri?
+Dialogue: 0,0:03:03.25,0:03:05.96,Default,Kail,0,0,0,,What's this? What troubles him?
+Dialogue: 0,0:03:05.96,0:03:10.64,Default,Kikkuri,0,0,0,,Perhaps Aslan knows \Nwhere we will find Lady Yuri.
+Dialogue: 0,0:03:11.58,0:03:13.89,Default,Kail,0,0,0,,Untether the horse. We will follow him!
+Dialogue: 0,0:03:16.17,0:03:19.03,Default,Yuri,0,0,0,,Why's the sunset so red?
+Dialogue: 0,0:03:19.72,0:03:21.81,Default,Yuri,0,0,0,,I have a bad feeling.
+Dialogue: 0,0:03:25.39,0:03:30.48,Default,Ramses,0,0,0,,Oh? You're such a little dove\Nthat you tremble at a sunset?
+Dialogue: 0,0:03:31.79,0:03:35.61,Default,Yuri,0,0,0,,Back in my homeland, we have a \Nsuperstition known as "devils' twilight."
+Dialogue: 0,0:03:35.96,0:03:39.38,Default,Yuri,0,0,0,,It happens around dusk, just like now.
+Dialogue: 0,0:03:39.85,0:03:43.54,Default,Yuri,0,0,0,,People believe evil spirits \Ncross our paths at this time.
+Dialogue: 0,0:03:44.02,0:03:47.50,Default,Yuri,0,0,0,,These spirits are said \Nto lead people astray.
+Dialogue: 0,0:03:47.86,0:03:53.23,Default,Ramses,0,0,0,,A devils' twilight is when people \Nare led astray, you say?
+Dialogue: 0,0:03:53.92,0:03:55.81,Default,Ramses,0,0,0,,Seems plausible to me.
+Dialogue: 0,0:04:03.33,0:04:04.81,Default,Yuri,0,0,0,,What're you trying to pull?
+Dialogue: 0,0:04:04.81,0:04:07.48,Default,Ramses,0,0,0,,I believe my patience runs short.
+Dialogue: 0,0:04:21.50,0:04:23.70,Default,Mayor,0,0,0,,Where did this girl come from?
+Dialogue: 0,0:04:23.70,0:04:26.37,Default,Mayor,0,0,0,,I hope you didn't abduct her \Nagainst her will.
+Dialogue: 0,0:04:26.65,0:04:29.86,Default,Mayor,0,0,0,,I don't want trouble with the Hittites.
+Dialogue: 0,0:04:29.86,0:04:33.96,Default,Mayor,0,0,0,,That would greatly trouble all the \NEgyptians living in this village.
+Dialogue: 0,0:04:33.96,0:04:38.82,Default,Ramses,0,0,0,,I bring this woman as a new attendant\N to serve me in Egypt.
+Dialogue: 0,0:04:38.82,0:04:43.18,Default,Ramses,0,0,0,,She is not for pleasure, \Njust so we understand.
+Dialogue: 0,0:04:43.61,0:04:48.66,Default,Ramses,0,0,0,,Tell the others in the village not to disturb\N our most passionate honeymoon.
+Dialogue: 0,0:04:52.66,0:04:53.65,Default,Ramses,0,0,0,,Oops.
+Dialogue: 0,0:04:53.99,0:04:56.42,Default,Ramses,0,0,0,,You really don't know when to give up.
+Dialogue: 0,0:04:56.42,0:04:57.64,Default,Yuri,0,0,0,,Let go, jerk!
+Dialogue: 0,0:04:57.64,0:04:59.57,Default,Yuri,0,0,0,,You're the {\i1}last{\i0} guy I want to be with!
+Dialogue: 0,0:04:59.86,0:05:01.37,Default,Ramses,0,0,0,,Honestly.
+Dialogue: 0,0:05:01.37,0:05:04.33,Default,Ramses,0,0,0,,What would make me consort \Nwith an unruly shrew like you?
+Dialogue: 0,0:05:04.33,0:05:06.32,Default,Yuri,0,0,0,,Well, you don't have to do this.
+Dialogue: 0,0:05:06.32,0:05:09.37,Default,Yuri,0,0,0,,You don't even like girls \Nwho look like me.
+Dialogue: 0,0:05:09.37,0:05:12.42,Default,Yuri,0,0,0,,If you just want me for your \Npolitical ambitions, don't touch me!
+Dialogue: 0,0:05:12.42,0:05:15.13,Default,Ramses,0,0,0,,Those were my thoughts initially.
+Dialogue: 0,0:05:15.13,0:05:17.88,Default,Ramses,0,0,0,,But I've grown fond of holding you.
+Dialogue: 0,0:05:18.86,0:05:23.40,Default,Ramses,0,0,0,,Your skin is as soft as an infant's, \Nand you produce no body odor.
+Dialogue: 0,0:05:23.40,0:05:26.76,Default,Ramses,0,0,0,,That's why you take on the scent \Nof the last man you've been with.
+Dialogue: 0,0:05:27.35,0:05:30.99,Default,Ramses,0,0,0,,The prince's fragrance \Nhas long since vanished from you.
+Dialogue: 0,0:05:30.99,0:05:34.02,Default,Ramses,0,0,0,,The only scent you have is my own.
+Dialogue: 0,0:05:39.53,0:05:41.12,Italics,Yuri,0,0,0,,Prince Kail.
+Dialogue: 0,0:05:41.77,0:05:43.28,Italics,Yuri,0,0,0,,Yes, I get it.
+Dialogue: 0,0:05:43.28,0:05:45.53,Italics,Yuri,0,0,0,,It doesn't matter if I need help.
+Dialogue: 0,0:05:45.53,0:05:48.36,Italics,Yuri,0,0,0,,You can't leave Hattusa right now.
+Dialogue: 0,0:05:48.82,0:05:53.13,Italics,Yuri,0,0,0,,There's your battle for succession \Nand Ursula's wrongful conviction.
+Dialogue: 0,0:05:53.13,0:05:56.41,Italics,Yuri,0,0,0,,You can't possibly leave Hattusa for me.
+Dialogue: 0,0:05:57.92,0:06:00.84,Italics,Yuri,0,0,0,,So you're not going to come rescue me.
+Dialogue: 0,0:06:00.84,0:06:03.34,Italics,Yuri,0,0,0,,I've made my peace with that, but...
+Dialogue: 0,0:06:03.34,0:06:05.70,Default,Ramses,0,0,0,,There's one thing you should know.
+Dialogue: 0,0:06:05.70,0:06:09.55,Default,Ramses,0,0,0,,The more a woman struggles, \Nthe more the man wants it.
+Dialogue: 0,0:06:10.52,0:06:12.74,Default,Yuri,0,0,0,,I don't care anymore.
+Dialogue: 0,0:06:12.74,0:06:15.56,Default,Yuri,0,0,0,,Have your way with me \Nif that's what you want.
+Dialogue: 0,0:06:16.61,0:06:19.57,Default,Yuri,0,0,0,,But you're never going to have my soul.
+Dialogue: 0,0:06:19.57,0:06:24.49,Default,Ramses,0,0,0,,You know full well that I get anything\N and everything I want.
+Dialogue: 0,0:06:27.28,0:06:29.28,Italics,Yuri,0,0,0,,His lips are so wrong.
+Dialogue: 0,0:06:31.16,0:06:33.07,Italics,Yuri,0,0,0,,And so are his fingers.
+Dialogue: 0,0:06:33.54,0:06:36.67,Italics,Yuri,0,0,0,,I thought I'd given up, \Nbut my body's repulsed by this.
+Dialogue: 0,0:06:36.67,0:06:39.04,Default,Yuri,0,0,0,,N-No!
+Dialogue: 0,0:06:39.04,0:06:40.22,Default,Yuri,0,0,0,,No!
+Dialogue: 0,0:06:40.22,0:06:42.80,Default,Yuri,0,0,0,,Prince, help me!
+Dialogue: 0,0:06:44.55,0:06:47.23,Default,Ramses,0,0,0,,I wasn't expecting you, Prince Kail.
+Dialogue: 0,0:06:47.23,0:06:48.51,Default,Yuri,0,0,0,,Prince Kail.
+Dialogue: 0,0:06:48.51,0:06:50.10,Default,Kail,0,0,0,,You cur.
+Dialogue: 0,0:06:50.10,0:06:52.81,Default,Kail,0,0,0,,Pick up your sword. \NI will slay you here!
+Dialogue: 0,0:06:52.81,0:06:57.27,Default,Ramses,0,0,0,,I wonder if you and your pretty sword\Nreally can strike me down.
+Dialogue: 0,0:07:01.28,0:07:04.53,Italics,Kail,0,0,0,,He's not going to use Yuri as a shield?
+Dialogue: 0,0:07:06.95,0:07:10.20,Italics,Ramses,0,0,0,,I choose to fight you, man to man.
+Dialogue: 0,0:07:10.20,0:07:15.08,Italics,Ramses,0,0,0,,A woman who is our equal \Nis at stake in this duel.
+Dialogue: 0,0:07:22.88,0:07:25.13,Italics,Kail,0,0,0,,He's a skilled swordsman.
+Dialogue: 0,0:07:25.55,0:07:29.59,Italics,Ramses,0,0,0,,I thought he was some pampered prince \Nwho had never fought on the front lines.
+Dialogue: 0,0:07:29.59,0:07:30.76,Italics,Ramses,0,0,0,,But I was wrong.
+Dialogue: 0,0:07:30.76,0:07:31.97,Default,Mittanamwa,0,0,0,,Your Highness!
+Dialogue: 0,0:07:31.97,0:07:33.10,Default,Kikkuri,0,0,0,,Prince Kail!
+Dialogue: 0,0:07:35.21,0:07:40.98,Default,Ramses,0,0,0,,I should've assumed the Hittite prince\N wouldn't come alone.
+Dialogue: 0,0:07:40.98,0:07:43.57,Default,Ramses,0,0,0,,I have no hope \Nagainst a man with retainers.
+Dialogue: 0,0:07:44.00,0:07:47.32,Default,Ramses,0,0,0,,But remember that I didn't lose\N to you in fair combat.
+Dialogue: 0,0:07:52.58,0:07:54.41,Default,Mittanamwa,0,0,0,,Curses. A back exit?
+Dialogue: 0,0:07:54.41,0:07:57.00,Default,Ramses,0,0,0,,Be well, Yuri! We'll meet again!
+Dialogue: 0,0:07:57.00,0:07:57.85,Default,Kail,0,0,0,,After him!
+Dialogue: 0,0:07:57.85,0:07:58.75,Default,Mittanamwa/Kikkuri,0,0,0,,Sir!
+Dialogue: 0,0:08:00.31,0:08:02.84,Default,Yuri,0,0,0,,Prince? Is it really you?
+Dialogue: 0,0:08:02.84,0:08:05.28,Default,Kail,0,0,0,,Sorry for leaving you to \Ndrown in anxiety for so many days.
+Dialogue: 0,0:08:05.76,0:08:07.05,Default,Kail,0,0,0,,Are you hurt?
+Dialogue: 0,0:08:07.05,0:08:08.22,Default,Yuri,0,0,0,,Prince.
+Dialogue: 0,0:08:08.22,0:08:09.94,Italics,Yuri,0,0,0,,He came for me.
+Dialogue: 0,0:08:09.94,0:08:12.74,Italics,Yuri,0,0,0,,He should've been too busy \Nwith the throne on the line.
+Dialogue: 0,0:08:13.43,0:08:14.86,Italics,Yuri,0,0,0,,But he came for me.
+Dialogue: 0,0:08:17.31,0:08:19.39,Default,Kail,0,0,0,,Please forgive me.
+Dialogue: 0,0:08:19.39,0:08:20.54,Default,Yuri,0,0,0,,Prince.
+Dialogue: 0,0:08:22.13,0:08:23.47,Italics,Yuri,0,0,0,,Wait, hold on.
+Dialogue: 0,0:08:23.47,0:08:25.69,Italics,Yuri,0,0,0,,If he's here, then what about...
+Dialogue: 0,0:08:27.99,0:08:30.14,Default,Yuri,0,0,0,,Hey, what happened to Ursula?
+Dialogue: 0,0:08:30.14,0:08:32.41,Default,Yuri,0,0,0,,Did you prove that she was innocent?
+Dialogue: 0,0:08:32.41,0:08:34.49,Default,Kail,0,0,0,,Ursula? Innocent?
+Dialogue: 0,0:08:34.92,0:08:37.70,Default,Kash,0,0,0,,Prince Kail! I've been looking for you!
+Dialogue: 0,0:08:38.83,0:08:39.69,Default,Yuri,0,0,0,,Kash?
+Dialogue: 0,0:08:40.43,0:08:44.22,Default,Kash,0,0,0,,You must come and pacify Alinna.
+Dialogue: 0,0:08:44.22,0:08:47.23,Default,Kash,0,0,0,,We've already dispatched troops\N to the city walls.
+Dialogue: 0,0:08:47.63,0:08:50.05,Default,Kash,0,0,0,,We need you to lead the battle.
+Dialogue: 0,0:08:50.05,0:08:51.78,Default,Kail,0,0,0,,What's going on?
+Dialogue: 0,0:08:51.78,0:08:55.89,Default,Kail,0,0,0,,I thought we weren't mobilizing troops \Nuntil the assassination case was resolved.
+Dialogue: 0,0:08:57.03,0:08:59.39,Default,Kash,0,0,0,,I am here to tell you\N that it is resolved.
+Dialogue: 0,0:08:59.39,0:09:00.48,Default,Kail,0,0,0,,What?
+Dialogue: 0,0:09:01.76,0:09:05.40,Default,Yuri,0,0,0,,Kash, are you wearing a braid of hair?
+Dialogue: 0,0:09:05.40,0:09:07.42,Default,Yuri,0,0,0,,And it's black.
+Dialogue: 0,0:09:07.42,0:09:08.71,Default,Yuri,0,0,0,,No...
+Dialogue: 0,0:09:08.71,0:09:11.31,Default,Yuri,0,0,0,,Oh, god. Is that Ursula's hair?
+Dialogue: 0,0:09:11.31,0:09:12.91,Default,Kail,0,0,0,,What's happened to Ursula?
+Dialogue: 0,0:09:12.91,0:09:18.91,Default,Kash,0,0,0,,For the murder of King Arnuwanda II,
+Dialogue: 0,0:09:18.91,0:09:21.64,Default,Kash,0,0,0,,Ursula was executed yesterday evening.
+Dialogue: 0,0:09:26.15,0:09:27.03,Default,Yuri,0,0,0,,No...
+Dialogue: 0,0:09:27.57,0:09:29.42,Default,Yuri,0,0,0,,You're kidding, right, Kash?
+Dialogue: 0,0:09:30.11,0:09:31.68,Default,Kash,0,0,0,,I speak the truth.
+Dialogue: 0,0:09:32.15,0:09:34.04,Default,Kash,0,0,0,,It was a public execution.
+Dialogue: 0,0:09:34.75,0:09:36.43,Default,Kash,0,0,0,,Before the Great Temple.
+Dialogue: 0,0:09:37.24,0:09:38.52,Default,Yuri,0,0,0,,But why?
+Dialogue: 0,0:09:39.46,0:09:42.02,Default,Yuri,0,0,0,,Why didn't you save her? Why?
+Dialogue: 0,0:09:42.34,0:09:44.52,Default,Yuri,0,0,0,,You could've saved her!
+Dialogue: 0,0:09:46.52,0:09:50.53,Default,Kash,0,0,0,,Lady Yuri, Prince Kail \Ndidn't know about Ursula.
+Dialogue: 0,0:09:50.99,0:09:55.29,Default,Mittanamwa,0,0,0,,Forgive us, Your Highness.\NRamses gave us the slip.
+Dialogue: 0,0:09:55.29,0:09:57.40,Default,Kikkuri,0,0,0,,We're sorry, Prince Kail.
+Dialogue: 0,0:09:57.40,0:09:59.16,Default,Mittanamwa,0,0,0,,Kash, you're here?
+Dialogue: 0,0:09:59.42,0:10:02.46,Default,Kash,0,0,0,,Yes, we've dispatched troops to Alinna.
+Dialogue: 0,0:10:02.46,0:10:04.79,Default,Kikkuri,0,0,0,,So Ursula is dead?
+Dialogue: 0,0:10:08.12,0:10:09.00,Default,Kash,0,0,0,,Yes.
+Dialogue: 0,0:10:09.65,0:10:12.19,Default,Yuri,0,0,0,,You guys knew, too?
+Dialogue: 0,0:10:14.06,0:10:17.22,Default,Yuri,0,0,0,,All of you knew Ursula\N was being executed?
+Dialogue: 0,0:10:17.50,0:10:19.32,Default,Yuri,0,0,0,,And you kept quiet?
+Dialogue: 0,0:10:22.72,0:10:24.00,Default,Yuri,0,0,0,,Oh, god.
+Dialogue: 0,0:10:24.51,0:10:25.82,Default,Yuri,0,0,0,,Ursula.
+Dialogue: 0,0:10:27.68,0:10:30.69,Default,Kail,0,0,0,,So this is what you were hiding from me?
+Dialogue: 0,0:10:31.65,0:10:32.64,Default,Kikkuri,0,0,0,,Yes.
+Dialogue: 0,0:10:33.82,0:10:37.20,Default,Kail,0,0,0,,Did Ursula turn herself in?
+Dialogue: 0,0:10:37.72,0:10:43.71,Default,Kash,0,0,0,,Yes. Her wish was for you to become king \Nand for Lady Yuri to be Tawananna.
+Dialogue: 0,0:10:52.81,0:10:54.14,Italics,Kail,0,0,0,,Ursula.
+Dialogue: 0,0:10:58.45,0:11:00.26,Default,Kail,0,0,0,,We return to Alinna at once!
+Dialogue: 0,0:11:00.26,0:11:02.62,Default,Kail,0,0,0,,We'll force the queen's forces to withdraw!
+Dialogue: 0,0:11:04.85,0:11:09.31,Default,Kail,0,0,0,,Mittanamwa. Once you reach Alinna, \Ntake your foot soldiers and strike our foes.
+Dialogue: 0,0:11:09.31,0:11:10.32,Default,Mittanamwa,0,0,0,,Highness!
+Dialogue: 0,0:11:10.32,0:11:13.40,Default,Kail,0,0,0,,Kash, fortify the gates \Nwith your chariots!
+Dialogue: 0,0:11:13.40,0:11:14.40,Default,Kash,0,0,0,,Sir!
+Dialogue: 0,0:11:14.87,0:11:16.83,Default,Kail,0,0,0,,We march to Alinna!
+Dialogue: 0,0:11:18.45,0:11:19.41,Italics,Yuri,0,0,0,,Why?
+Dialogue: 0,0:11:20.36,0:11:26.42,Italics,Yuri,0,0,0,,Why is everyone so eager to fight a war \Nafter Ursula was wrongfully executed?
+Dialogue: 0,0:11:32.41,0:11:35.22,Default,Kail,0,0,0,,Attention, Queen Nakia's troops!
+Dialogue: 0,0:11:35.22,0:11:37.18,Default,Kail,0,0,0,,I am Kail Mursili.
+Dialogue: 0,0:11:37.44,0:11:41.56,Default,Kail,0,0,0,,The criminal who murdered the king\N has been executed.
+Dialogue: 0,0:11:41.93,0:11:46.44,Default,Kail,0,0,0,,Your expedition to capture a suspect\N is hereby countermanded.
+Dialogue: 0,0:11:46.44,0:11:49.34,Default,Kail,0,0,0,,Any who do not lower their swords\N and surrender
+Dialogue: 0,0:11:49.34,0:11:51.31,Default,Kail,0,0,0,,will be struck down as insurgents.
+Dialogue: 0,0:11:52.14,0:11:54.48,Default,Guard A,0,0,0,,It's the prince's regular army!
+Dialogue: 0,0:11:54.82,0:11:59.49,Default,Talos,0,0,0,,Prince Kail returned to us \Nwith an army behind him.
+Dialogue: 0,0:11:59.49,0:12:01.02,Default,Mittanamwa,0,0,0,,Drop your swords!
+Dialogue: 0,0:12:01.02,0:12:03.20,Default,Mittanamwa,0,0,0,,Those who surrender will be spared!
+Dialogue: 0,0:12:07.32,0:12:09.78,Default,Yuri,0,0,0,,Nobody's going to fight us?
+Dialogue: 0,0:12:09.78,0:12:11.20,Default,Kash,0,0,0,,Of course not.
+Dialogue: 0,0:12:11.20,0:12:13.55,Default,Kash,0,0,0,,This detachment is no match for our men.
+Dialogue: 0,0:12:13.55,0:12:18.30,Default,Kash,0,0,0,,Normally, a single cohort would be more \Nthan enough to suppress this rabble.
+Dialogue: 0,0:12:18.57,0:12:21.65,Default,Yuri,0,0,0,,Then why did you guys \Njust let Ursula die?
+Dialogue: 0,0:12:21.65,0:12:25.10,Default,Yuri,0,0,0,,You didn't need Prince Kail \Nto deal with this, so why?
+Dialogue: 0,0:12:25.42,0:12:32.15,Default,Kash,0,0,0,,His Highness needed to be here to quell \Nthe queen's rampage to secure the throne.
+Dialogue: 0,0:12:32.15,0:12:37.19,Default,Yuri,0,0,0,,I still don't get it.\NWhy did Ursula need to be sacrificed?
+Dialogue: 0,0:12:37.89,0:12:39.28,Default,Kash,0,0,0,,Lady Yuri.
+Dialogue: 0,0:12:39.28,0:12:43.95,Default,Kash,0,0,0,,You fail to accept this reality because \Nyou were raised in a country without war.
+Dialogue: 0,0:12:44.39,0:12:48.36,Default,Kash,0,0,0,,Prince Kail is a rare breed \Nin this world of ours.
+Dialogue: 0,0:12:48.36,0:12:51.58,Default,Kash,0,0,0,,We need him to rule our empire\N at all costs.
+Dialogue: 0,0:12:51.99,0:12:55.15,Default,Kash,0,0,0,,All of us have endured agonies\N to realize that dream.
+Dialogue: 0,0:12:55.59,0:13:00.10,Italics,Yuri,0,0,0,,Yes, I know you have. \NI know that, but...
+Dialogue: 0,0:13:07.10,0:13:08.86,Default,Messenger,0,0,0,,Prince Kail.
+Dialogue: 0,0:13:08.86,0:13:11.85,Default,Messenger,0,0,0,,We've received a dispatch from Hattusa.
+Dialogue: 0,0:13:11.85,0:13:13.02,Default,Kail,0,0,0,,A dispatch?
+Dialogue: 0,0:13:13.02,0:13:13.86,Default,Messenger,0,0,0,,Yes.
+Dialogue: 0,0:13:15.02,0:13:19.07,Default,Messenger,0,0,0,,Queen Dowager Nakia \Nhas issued a statement.
+Dialogue: 0,0:13:20.21,0:13:22.02,Default,Kail,0,0,0,,Kikkuri, recite it for us.
+Dialogue: 0,0:13:22.02,0:13:23.11,Default,Kikkuri,0,0,0,,Highness.
+Dialogue: 0,0:13:23.56,0:13:27.56,Default,Kikkuri,0,0,0,,"The troops attached to my palace \Ncaused a regrettable disturbance"
+Dialogue: 0,0:13:27.56,0:13:30.12,Default,Kikkuri,0,0,0,,"at Alinna without my knowledge."
+Dialogue: 0,0:13:30.49,0:13:35.63,Default,Kikkuri,0,0,0,,"I believe this incident was at the direction \Nof a palace priest, Urhi Shalma."
+Dialogue: 0,0:13:35.63,0:13:40.62,Default,Kikkuri,0,0,0,,"As such, I will comply with the punishment \Ngiven to soldiers guilty of this outrage.”
+Dialogue: 0,0:13:40.62,0:13:41.63,Default,Kikkuri,0,0,0,,That's it.
+Dialogue: 0,0:13:41.63,0:13:42.72,Default,Kash,0,0,0,,What?
+Dialogue: 0,0:13:42.72,0:13:45.09,Default,Mittanamwa,0,0,0,,She claims no involvement?
+Dialogue: 0,0:13:45.09,0:13:46.53,Default,Mittanamwa,0,0,0,,Curse that queen.
+Dialogue: 0,0:13:46.53,0:13:49.31,Default,Mittanamwa,0,0,0,,She's offering up Urhi \Nto save her own hide.
+Dialogue: 0,0:13:49.57,0:13:52.48,Default,Kail,0,0,0,,Have we found Urhi among these troops?
+Dialogue: 0,0:13:52.48,0:13:54.32,Default,Kikkuri,0,0,0,,No, we haven't.
+Dialogue: 0,0:13:54.71,0:13:57.73,Default,Kikkuri,0,0,0,,We haven't found him among \Nthe bodies we've identified either.
+Dialogue: 0,0:13:58.06,0:14:02.05,Default,Yuri,0,0,0,,Prince, Urhi was hit in the eye \Nby an arrow fired by Rusafa.
+Dialogue: 0,0:14:02.45,0:14:04.45,Default,Yuri,0,0,0,,He might not be in Alinna anymore.
+Dialogue: 0,0:14:07.10,0:14:08.89,Default,Kail,0,0,0,,Track down Urhi!
+Dialogue: 0,0:14:08.89,0:14:12.07,Default,Kail,0,0,0,,He's the only one who can attest \Nto the queen's perfidy.
+Dialogue: 0,0:14:12.07,0:14:13.46,Default,Kail,0,0,0,,Bring him to me alive!
+Dialogue: 0,0:14:13.46,0:14:14.71,Default,Kikkuri/Kash/ Mittanamwa,0,0,0,,At once.
+Dialogue: 0,0:14:15.18,0:14:19.36,Default,Talos,0,0,0,,Your Highness, you may rest here \Nuntil we hear news.
+Dialogue: 0,0:14:19.85,0:14:22.09,Default,Talos,0,0,0,,Lady Yuri must be tired, too.
+Dialogue: 0,0:14:22.09,0:14:24.43,Default,Kail,0,0,0,,Yes, we accept your invitation.
+Dialogue: 0,0:14:27.27,0:14:28.85,Default,Kail,0,0,0,,Come, Yuri.
+Dialogue: 0,0:14:38.11,0:14:38.98,Default,Kail,0,0,0,,Yuri.
+Dialogue: 0,0:14:38.98,0:14:41.53,Default,Yuri,0,0,0,,No, I'm not in the mood.
+Dialogue: 0,0:14:41.53,0:14:42.72,Default,Kail,0,0,0,,Yuri.
+Dialogue: 0,0:14:42.72,0:14:46.74,Default,Kail,0,0,0,,Do you know how much it pained me \Nto be separated from you?
+Dialogue: 0,0:14:46.74,0:14:49.08,Default,Kail,0,0,0,,I frantically wanted to bring you back.
+Dialogue: 0,0:14:49.08,0:14:52.42,Default,Yuri,0,0,0,,I wanted to be with you too, prince.
+Dialogue: 0,0:14:52.42,0:14:53.50,Default,Yuri,0,0,0,,But...
+Dialogue: 0,0:14:53.83,0:14:55.17,Default,Yuri,0,0,0,,Don't touch me.
+Dialogue: 0,0:14:55.17,0:14:58.63,Default,Yuri,0,0,0,,You've traded Ursula's life \Nfor a right to the throne.
+Dialogue: 0,0:15:00.39,0:15:04.43,Default,Kail,0,0,0,,Look at me. Would it please you \Nif I collapsed in tears instead?
+Dialogue: 0,0:15:05.12,0:15:07.59,Default,Yuri,0,0,0,,No, that's not what I want.
+Dialogue: 0,0:15:07.89,0:15:12.33,Default,Kail,0,0,0,,I never wish to sacrifice anyone\N for my own ambitions.
+Dialogue: 0,0:15:12.77,0:15:16.21,Default,Kail,0,0,0,,But realizing my ambitions \Nhas never been an easy path.
+Dialogue: 0,0:15:16.21,0:15:18.31,Default,Kail,0,0,0,,It is never going to be all smiles.
+Dialogue: 0,0:15:19.55,0:15:23.62,Italics,Yuri,0,0,0,,Sure, I get it. He's also hurt by it.
+Dialogue: 0,0:15:23.62,0:15:28.72,Italics,Yuri,0,0,0,,He'd rather shed his own blood \Nthan see his allies suffer.
+Dialogue: 0,0:15:29.39,0:15:30.86,Italics,Yuri,0,0,0,,I get all that, but...
+Dialogue: 0,0:15:32.06,0:15:34.58,Default,Yuri,0,0,0,,Before the king died, \Nhe told me something.
+Dialogue: 0,0:15:34.99,0:15:38.00,Default,Yuri,0,0,0,,It's a lot to be with you as your consort.
+Dialogue: 0,0:15:38.40,0:15:41.50,Default,Yuri,0,0,0,,It's not a task for \Nany one woman to shoulder.
+Dialogue: 0,0:15:45.99,0:15:47.79,Default,Yuri,0,0,0,,He was completely right.
+Dialogue: 0,0:15:48.39,0:15:50.48,Default,Yuri,0,0,0,,I can't deal with this.
+Dialogue: 0,0:15:50.93,0:15:55.39,Default,Yuri,0,0,0,,I could never go along with sweeping \NUrsula's death under the rug.
+Dialogue: 0,0:15:56.11,0:15:58.69,Italics,Yuri,0,0,0,,I've been in this era \Nfor almost two years.
+Dialogue: 0,0:15:59.58,0:16:02.95,Italics,Yuri,0,0,0,,I've tried to adjust to it. \NBut I just can't anymore.
+Dialogue: 0,0:16:03.93,0:16:06.49,Italics,Yuri,0,0,0,,I can't stomach it.
+Dialogue: 0,0:16:06.90,0:16:11.37,Default,Yuri,0,0,0,,I love you deeply, \Nbut I can't do this with you!
+Dialogue: 0,0:16:16.74,0:16:18.58,Default,Yuri,0,0,0,,No! Stop!
+Dialogue: 0,0:16:18.93,0:16:20.51,Default,Kash,0,0,0,,Your pardon.
+Dialogue: 0,0:16:20.51,0:16:23.50,Default,Kash,0,0,0,,Your Highness, we've located Urhi.
+Dialogue: 0,0:16:23.50,0:16:25.71,Default,Kash,0,0,0,,By your leave, command us to give chase.
+Dialogue: 0,0:16:32.01,0:16:34.39,Default,Kail,0,0,0,,Yuri! You mustn't go alone!
+Dialogue: 0,0:16:34.72,0:16:35.84,Italics,Yuri,0,0,0,,Urhi.
+Dialogue: 0,0:16:35.84,0:16:37.64,Italics,Yuri,0,0,0,,You won't get away this time.
+Dialogue: 0,0:16:37.99,0:16:42.18,Italics,Yuri,0,0,0,,We'll drag you back to Hattusa,\Nmake you reveal the queen's crimes,
+Dialogue: 0,0:16:42.18,0:16:46.15,Italics,Yuri,0,0,0,,and you'll tell everyone \NUrsula didn't deserve to die.
+Dialogue: 0,0:16:47.93,0:16:48.97,Default,Yuri,0,0,0,,Rusafa!
+Dialogue: 0,0:16:49.62,0:16:50.91,Default,Rusafa,0,0,0,,Lady Yuri.
+Dialogue: 0,0:16:51.87,0:16:53.31,Default,Yuri,0,0,0,,Where's Urhi?
+Dialogue: 0,0:16:53.78,0:16:55.41,Default,Rusafa,0,0,0,,Up on those crags.
+Dialogue: 0,0:16:56.18,0:16:59.86,Default,Rusafa,0,0,0,,We have him completely surrounded.\N He cannot escape.
+Dialogue: 0,0:16:59.86,0:17:02.81,Default,Rusafa,0,0,0,,We wish to capture him \Nonce His Highness is present.
+Dialogue: 0,0:17:03.64,0:17:06.49,Default,Rusafa,0,0,0,,It appears Urhi sought \Nto abscond to other lands.
+Dialogue: 0,0:17:06.49,0:17:09.00,Default,Rusafa,0,0,0,,We spotted him at the river.
+Dialogue: 0,0:17:09.00,0:17:10.67,Default,Yuri,0,0,0,,The red river?
+Dialogue: 0,0:17:10.67,0:17:12.93,Default,Yuri,0,0,0,,What if he manages to swim across it?
+Dialogue: 0,0:17:12.93,0:17:14.35,Default,Rusafa,0,0,0,,All is fine.
+Dialogue: 0,0:17:14.35,0:17:17.92,Default,Rusafa,0,0,0,,This section of the river \Nis littered with impassable rapids.
+Dialogue: 0,0:17:18.36,0:17:20.73,Default,Rusafa,0,0,0,,No one can survive the currents.
+Dialogue: 0,0:17:21.50,0:17:23.79,Default,Kail,0,0,0,,You did fine work, Rusafa.
+Dialogue: 0,0:17:23.79,0:17:25.07,Default,Kail,0,0,0,,I'll go up there.
+Dialogue: 0,0:17:25.54,0:17:27.57,Default,Kash,0,0,0,,Please stay here, Your Highness.
+Dialogue: 0,0:17:27.57,0:17:29.86,Default,Rusafa,0,0,0,,We'll capture Urhi for you.
+Dialogue: 0,0:17:29.86,0:17:34.41,Default,Kail,0,0,0,,No, I'll settle the score. \NThe rest of you will maintain the periphery.
+Dialogue: 0,0:17:34.41,0:17:36.53,Default,Yuri,0,0,0,,Prince, I'll come, too.
+Dialogue: 0,0:17:42.72,0:17:44.50,Default,Kail,0,0,0,,Take care here, Yuri.
+Dialogue: 0,0:17:45.14,0:17:46.08,Default,Yuri,0,0,0,,Right.
+Dialogue: 0,0:17:54.89,0:17:57.16,Default,Kail,0,0,0,,Are you all right? Any injuries?
+Dialogue: 0,0:17:57.16,0:17:59.24,Default,Yuri,0,0,0,,No, I'm all good.
+Dialogue: 0,0:17:59.24,0:18:04.21,Default,Urhi,0,0,0,,Crown prince, it is my greatest honor \Nto welcome you in person.
+Dialogue: 0,0:18:11.75,0:18:12.78,Default,Yuri,0,0,0,,Urhi!
+Dialogue: 0,0:18:12.78,0:18:15.47,Default,Urhi,0,0,0,,And you've brought Ishtar with you.
+Dialogue: 0,0:18:15.47,0:18:19.19,Default,Urhi,0,0,0,,I can hardly believe you prize me so.
+Dialogue: 0,0:18:21.05,0:18:23.51,Default,Kail,0,0,0,,We prize you indeed.
+Dialogue: 0,0:18:23.95,0:18:26.05,Default,Kail,0,0,0,,As a key confessor to crimes.
+Dialogue: 0,0:18:32.42,0:18:35.74,Default,Kail,0,0,0,,Urhi, you have nowhere to flee.
+Dialogue: 0,0:18:35.74,0:18:37.80,Default,Kail,0,0,0,,The queen has abandoned you.
+Dialogue: 0,0:18:38.16,0:18:41.31,Default,Kail,0,0,0,,Your loyalty will yield no reward.\N Surrender at once!
+Dialogue: 0,0:18:41.31,0:18:44.69,Default,Yuri,0,0,0,,Come on, Urhi! Just do as he says!
+Dialogue: 0,0:18:44.69,0:18:50.28,Default,Yuri,0,0,0,,Tell the ministers that the queen \Nordered the king's assassination!
+Dialogue: 0,0:18:50.28,0:18:54.03,Default,Yuri,0,0,0,,If you do that, \Nthe prince will let you off easy!
+Dialogue: 0,0:18:54.03,0:18:55.27,Default,Yuri,0,0,0,,Urhi!
+Dialogue: 0,0:18:58.53,0:19:00.18,Default,Kail,0,0,0,,Don't. You'll die.
+Dialogue: 0,0:19:06.29,0:19:07.83,Default,Urhi,0,0,0,,Slay me.
+Dialogue: 0,0:19:07.83,0:19:10.30,Default,Urhi,0,0,0,,I'd rather die than be detained.
+Dialogue: 0,0:19:10.79,0:19:12.24,Default,Kail,0,0,0,,Very well.
+Dialogue: 0,0:19:12.24,0:19:16.05,Default,Kail,0,0,0,,If I cannot convince you, \Nthen I will take you to Hattusa by force.
+Dialogue: 0,0:19:31.11,0:19:33.32,Italics,Yuri,0,0,0,,He's backing away toward the river?
+Dialogue: 0,0:19:39.03,0:19:39.95,Default,Yuri,0,0,0,,Don't!
+Dialogue: 0,0:19:39.95,0:19:41.95,Default,Yuri,0,0,0,,Come back, Urhi!
+Dialogue: 0,0:19:41.95,0:19:43.12,Default,Kail,0,0,0,,Don't, Yuri!
+Dialogue: 0,0:19:43.60,0:19:44.74,Default,Kail,0,0,0,,Yuri!
+Dialogue: 0,0:19:49.76,0:19:51.13,Italics,Yuri,0,0,0,,Why?
+Dialogue: 0,0:19:52.04,0:19:55.51,Italics,Yuri,0,0,0,,What would make him go that far \Nto protect the queen?
+Dialogue: 0,0:19:56.13,0:19:58.59,Default,Yuri,0,0,0,,Urhi!
+Dialogue: 0,0:19:58.88,0:19:59.78,Default,Kash,0,0,0,,Highness!
+Dialogue: 0,0:19:59.78,0:20:00.85,Default,Kikkuri,0,0,0,,Lady Yuri!
+Dialogue: 0,0:20:01.36,0:20:02.85,Default,Kail,0,0,0,,What's done is done.
+Dialogue: 0,0:20:02.85,0:20:05.64,Default,Kail,0,0,0,,We are in a worse position\Nwithout Urhi's testimony,
+Dialogue: 0,0:20:05.64,0:20:08.17,Default,Kail,0,0,0,,but we can still lay the blame\N on the queen.
+Dialogue: 0,0:20:08.17,0:20:10.73,Default,Kail,0,0,0,,All we need to do is expose the queen.
+Dialogue: 0,0:20:10.73,0:20:13.59,Default,Yuri,0,0,0,,No, we can't leave it like this.
+Dialogue: 0,0:20:13.59,0:20:15.71,Default,Yuri,0,0,0,,It's not just about the queen.
+Dialogue: 0,0:20:15.71,0:20:18.66,Default,Yuri,0,0,0,,Are we supposed to forget about Ursula?
+Dialogue: 0,0:20:18.66,0:20:19.66,Default,Kash,0,0,0,,Lady Yuri.
+Dialogue: 0,0:20:21.07,0:20:26.29,Default,Kash,0,0,0,,Your words and your passion \Nare why the people adore you.
+Dialogue: 0,0:20:26.29,0:20:29.81,Default,Kash,0,0,0,,Ursula knew you would weep \Nfor a lowly attendant,
+Dialogue: 0,0:20:29.81,0:20:32.11,Default,Kash,0,0,0,,which is why she sacrificed herself.
+Dialogue: 0,0:20:32.67,0:20:37.67,Default,Kash,0,0,0,,She died content in the knowledge that \Nher decision was for the greater good.
+Dialogue: 0,0:20:38.54,0:20:43.93,Default,Kash,0,0,0,,I know in my heart that Ursula wouldn't want\N to see you pained by her death.
+Dialogue: 0,0:20:49.88,0:20:51.08,Italics,Yuri,0,0,0,,Is that true?
+Dialogue: 0,0:20:51.72,0:20:54.36,Italics,Yuri,0,0,0,,Was Ursula really accepting of this?
+Dialogue: 0,0:20:55.69,0:21:00.63,Italics,Yuri,0,0,0,,Even if she was, I still can't bring myself\N to accept her death.
+Dialogue: 0,0:21:16.13,0:21:19.60,Default,CREDITS,0,0,0,,{\an8}TRANSLATION: GAD ONYENEHO
+Dialogue: 0,0:21:20.14,0:21:23.60,Default,CREDITS,0,0,0,,{\an8}TIMING: KRZYSZTOF KUNC\NEDITING: SMR
+Dialogue: 0,0:21:24.14,0:21:27.60,Default,CREDITS,0,0,0,,{\an8}QUALITY CONTROL: ALICIA ASHBY\NTRANSLATION CHECK: DAVID SAYLOR
+Dialogue: 0,0:22:44.93,0:22:49.93,Default,Sign,0,0,0,,{\an8}THE DECISION TO LEAVE
+
