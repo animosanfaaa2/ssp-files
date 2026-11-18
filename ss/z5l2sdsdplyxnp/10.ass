@@ -1,0 +1,278 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 1
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.18,0:00:09.62,Default,,0,0,0,,Semuanya sudah kubalikkan.
+Dialogue: 0,0:00:10.56,0:00:13.67,Default,,0,0,0,,Semua sihir yang bisa\Nkau gunakan dengan artefak itu.
+Dialogue: 0,0:00:16.20,0:00:17.59,Default,,0,0,0,,Kau sudah kalah.
+Dialogue: 0,0:00:48.41,0:00:49.78,Default,,0,0,0,,Benar-benar lawan\Nyang merepotkan.
+Dialogue: 0,0:01:04.10,0:01:08.52,Default,,0,0,0,,(Sihir Sang Pengulang Jelas Istimewa)
+Dialogue: 0,0:01:08.52,0:01:10.69,Default,,0,0,0,,I just want you to come back to me♪
+Dialogue: 0,0:01:10.69,0:01:15.73,Default,,0,0,0,,Di tengah gelap yang menutupi pandangan♪
+Dialogue: 0,0:01:15.73,0:01:17.82,Default,,0,0,0,,Yes, I know you're just as lonely♪
+Dialogue: 0,0:01:17.82,0:01:23.24,Default,,0,0,0,,Rasa yang tak dapat ditangisi itu　Wow oh oh♪
+Dialogue: 0,0:01:23.79,0:01:30.92,Default,,0,0,0,,Cukup hidup sesuai diri sendiri♪
+Dialogue: 0,0:01:30.92,0:01:39.17,Default,,0,0,0,,Karena kita tidaklah kuat ataupun cerdik♪
+Dialogue: 0,0:01:39.17,0:01:43.25,Default,,0,0,0,,Dengan hati yang penuh luka♪
+Dialogue: 0,0:01:44.02,0:01:51.32,Default,,0,0,0,,Oh duka, janganlah pudar selagi aku sendiri♪
+Dialogue: 0,0:01:51.32,0:01:54.03,Default,,0,0,0,,Tetaplah bersama, kenapa?♪
+Dialogue: 0,0:01:54.03,0:01:58.07,Default,,0,0,0,,Sampai nanti yang tak kunjung kembali♪
+Dialogue: 0,0:01:58.45,0:02:05.69,Default,,0,0,0,,Sedikit lagi aku kembali jadi diriku yang dulu♪
+Dialogue: 0,0:02:05.69,0:02:08.53,Default,,0,0,0,,Hingga fajar menyingsing, yeah♪
+Dialogue: 0,0:02:08.53,0:02:15.90,Default,,0,0,0,,Jadilah angin yang terus berembus♪
+Dialogue: 0,0:02:15.90,0:02:19.13,Default,,0,0,0,,Tuju pagi yang dijanjikan♪
+Dialogue: 0,0:02:22.62,0:02:26.46,Default,,0,0,0,,(Episode 19: Kebangkitan)
+Dialogue: 0,0:02:39.86,0:02:41.27,Default,,0,0,0,,Kemutlakan Zero!
+Dialogue: 0,0:03:15.56,0:03:16.77,Default,,0,0,0,,Kamu baik-baik saja?
+Dialogue: 0,0:03:18.24,0:03:20.34,Default,,0,0,0,,Tepat seperti kata Desir.
+Dialogue: 0,0:03:22.39,0:03:25.26,Default,,0,0,0,,Makhluk itu tidak bisa dilukai\Ndengan sihir biasa.
+Dialogue: 0,0:03:26.62,0:03:28.40,Default,,0,0,0,,Aku akan memakai\Nsihir yang agak kuat.
+Dialogue: 0,0:03:28.82,0:03:30.84,Default,,0,0,0,,Mundurlah, Priscilla.
+Dialogue: 0,0:03:30.84,0:03:31.53,Default,,0,0,0,,Ya.
+Dialogue: 0,0:03:52.00,0:03:53.75,Default,,0,0,0,,Pasak Dewa!
+Dialogue: 0,0:04:20.21,0:04:23.11,Default,,0,0,0,,Penyihir terkuat di dunia\Nmemanglah hebat.
+Dialogue: 0,0:04:23.34,0:04:24.41,Default,,0,0,0,,Ya…
+Dialogue: 0,0:04:26.80,0:04:30.60,Default,,0,0,0,,Kenapa Desir bisa tahu\Ntentang iblis ini?
+Dialogue: 0,0:04:35.70,0:04:36.59,Default,,0,0,0,,Desir!
+Dialogue: 0,0:04:36.59,0:04:38.45,Default,,0,0,0,,Master Menara\Nsudah mengalahkannya!
+Dialogue: 0,0:04:39.75,0:04:41.09,Default,,0,0,0,,Dadeinuf sudah kalah.
+Dialogue: 0,0:04:42.97,0:04:45.10,Default,,0,0,0,,Revolusimu berhenti di sini!
+Dialogue: 0,0:04:46.29,0:04:48.85,Default,,0,0,0,,Revolusi…\NMaksudmu?!
+Dialogue: 0,0:04:49.56,0:04:53.49,Default,,0,0,0,,Dua belas tahun lalu, perang sipil\Nterjadi di Kekaisaran Hebrion.
+Dialogue: 0,0:04:53.49,0:04:58.39,Default,,0,0,0,,Seorang siswa bangkit untuk membebaskan\Nrakyat dari pemerintahan bangsawan.
+Dialogue: 0,0:04:59.64,0:05:02.32,Default,,0,0,0,,Namun, bangsawanlah yang justru\Nmemenangkan pertarungan itu.
+Dialogue: 0,0:05:02.78,0:05:06.42,Default,,0,0,0,,Diskriminasi berdasarkan\Nkelahiran seseorang pun kian mengakar.
+Dialogue: 0,0:05:07.62,0:05:10.12,Default,,0,0,0,,Batour dan kawan-kawannya\Njuga benci pada bangsawan.
+Dialogue: 0,0:05:10.93,0:05:14.05,Default,,0,0,0,,Kalian adalah para penyintas\Ndari revolusi itu, bukan?
+Dialogue: 0,0:05:17.06,0:05:19.92,Default,,0,0,0,,Dunia ini penuh\Ndengan keabsurdan.
+Dialogue: 0,0:05:21.11,0:05:25.08,Default,,0,0,0,,Semua berpusat pada bangsawan dan\Nhanya mereka yang boleh memegang kuasa.
+Dialogue: 0,0:05:25.08,0:05:27.68,Default,,0,0,0,,Mereka pun memaksakan\Nideologi busuk itu.
+Dialogue: 0,0:05:29.58,0:05:31.68,Default,,0,0,0,,Bukan hanya Hebrion.
+Dialogue: 0,0:05:32.24,0:05:38.19,Default,,0,0,0,,Para bangsawan bodoh di seluruh dunia\Nmemaksakan standar dan keabsurdan mereka.
+Dialogue: 0,0:05:44.02,0:05:47.07,Default,,0,0,0,,Dunia ini telah bercela\Nsampai ke akar-akarnya!
+Dialogue: 0,0:05:48.54,0:05:51.05,Default,,0,0,0,,Bahkan kau tidak bisa\Nmembantahnya!
+Dialogue: 0,0:05:51.05,0:05:51.92,Default,,0,0,0,,Benar.
+Dialogue: 0,0:05:51.92,0:05:53.20,Default,,0,0,0,,Desir?!
+Dialogue: 0,0:05:54.10,0:05:56.71,Default,,0,0,0,,Diskriminasi bahkan masih\Nbertumbuh subur di akademi.
+Dialogue: 0,0:05:57.45,0:05:59.46,Default,,0,0,0,,Hanya karena terlahir berbeda,
+Dialogue: 0,0:05:59.46,0:06:02.11,Default,,0,0,0,,masa depan mereka\Nyang berbakat pun tertutup.
+Dialogue: 0,0:06:03.29,0:06:04.97,Default,,0,0,0,,Tapi, lihatlah ini!
+Dialogue: 0,0:06:05.62,0:06:07.30,Default,,0,0,0,,Yang kalian lukai…
+Dialogue: 0,0:06:07.72,0:06:10.72,Default,,0,0,0,,adalah orang yang\Nseharusnya kalian lindungi!
+Dialogue: 0,0:06:10.72,0:06:15.23,Default,,0,0,0,,Mereka yang pasrah tanpa berniat\Nmengubah keadaan juga berdosa!
+Dialogue: 0,0:06:15.50,0:06:17.96,Default,,0,0,0,,Maka akan kuhancurkan\Ndunia ini dan segala isinya,
+Dialogue: 0,0:06:17.96,0:06:20.48,Default,,0,0,0,,dan daripadanyalah\Nakan kulahirkan kesetaraan sejati!
+Dialogue: 0,0:06:21.06,0:06:22.27,Default,,0,0,0,,Orang ini…
+Dialogue: 0,0:06:24.82,0:06:26.11,Default,,0,0,0,,Kami akan menahanmu.
+Dialogue: 0,0:06:29.42,0:06:32.17,Default,,0,0,0,,Kau bilang sudah\Nmengalahkan Dadeinuf, ya?
+Dialogue: 0,0:06:33.65,0:06:35.62,Default,,0,0,0,,Itu patut dirayakan.
+Dialogue: 0,0:06:35.62,0:06:36.39,Default,,0,0,0,,Apa?
+Dialogue: 0,0:06:37.46,0:06:39.86,Default,,0,0,0,,Dia adalah\Nperwujudan malapetaka.
+Dialogue: 0,0:06:39.86,0:06:42.76,Default,,0,0,0,,Mustahil manusia\Nbisa mengalahkannya.
+Dialogue: 0,0:06:46.41,0:06:47.11,Default,,0,0,0,,Jangan-jangan…!
+Dialogue: 0,0:07:01.11,0:07:01.61,Default,,0,0,0,,Eh?
+Dialogue: 0,0:07:01.61,0:07:03.07,Default,,0,0,0,,Ini…
+Dialogue: 0,0:07:24.88,0:07:25.75,Default,,0,0,0,,Menyerah sajalah.
+Dialogue: 0,0:07:26.80,0:07:28.80,Default,,0,0,0,,Kalian sudah kalah.
+Dialogue: 0,0:07:29.09,0:07:30.44,Default,,0,0,0,,Takkan kubiarkan!
+Dialogue: 0,0:07:34.66,0:07:35.85,Default,,0,0,0,,Dia kabur.
+Dialogue: 0,0:07:35.85,0:07:37.18,Default,,0,0,0,,Maaf, Desir…
+Dialogue: 0,0:07:39.84,0:07:40.90,Default,,0,0,0,,Desir?
+Dialogue: 0,0:07:41.61,0:07:44.02,Default,,0,0,0,,Desir, aku akan\Nbergabung dengan kalian.
+Dialogue: 0,0:07:44.62,0:07:47.32,Default,,0,0,0,,Rasanya mustahil bagiku\Nuntuk menangani ini sendirian.
+Dialogue: 0,0:07:49.29,0:07:51.32,Default,,0,0,0,,Desir?\NKamu dengar, tidak?
+Dialogue: 0,0:07:51.61,0:07:52.85,Default,,0,0,0,,Desir!
+Dialogue: 0,0:07:53.73,0:07:55.25,Default,,0,0,0,,A-Ah, iya, maaf.
+Dialogue: 0,0:07:55.25,0:07:56.95,Default,,0,0,0,,Kamu baik-baik saja?
+Dialogue: 0,0:07:57.41,0:07:58.31,Default,,0,0,0,,Aku tidak apa-apa.
+Dialogue: 0,0:07:58.77,0:08:01.54,Default,,0,0,0,,Kami akan menuju lokasimu,\Ntetaplah di sana, ya.
+Dialogue: 0,0:08:02.48,0:08:03.49,Default,,0,0,0,,Baiklah.
+Dialogue: 0,0:08:09.56,0:08:11.04,Default,,0,0,0,,Masa depan berubah?
+Dialogue: 0,0:08:12.68,0:08:17.25,Default,,0,0,0,,Pertarungan kami melawan Dadeinuf\Nseharusnya terjadi jauh di masa depan!
+Dialogue: 0,0:08:17.99,0:08:20.23,Default,,0,0,0,,Iblis Malapetaka yang\Ndiceritakan di legenda,
+Dialogue: 0,0:08:20.52,0:08:23.52,Default,,0,0,0,,kekuatannya benar-benar\Nmirip bencana alam.
+Dialogue: 0,0:08:24.25,0:08:26.63,Default,,0,0,0,,Kami bekerja sama\Nuntuk mengalahkan iblis itu.
+Dialogue: 0,0:08:27.93,0:08:28.53,Default,,0,0,0,,Tetapi…
+Dialogue: 0,0:08:29.18,0:08:30.28,Default,,0,0,0,,harga yang harus dibayar…
+Dialogue: 0,0:08:31.76,0:08:33.36,Default,,0,0,0,,Terlalu besar.
+Dialogue: 0,0:08:39.25,0:08:40.40,Default,,0,0,0,,Mana yang luar biasa.
+Dialogue: 0,0:08:40.98,0:08:43.08,Default,,0,0,0,,Dia jauh lebih kuat\Ndari sebelumnya.
+Dialogue: 0,0:08:43.51,0:08:45.04,Default,,0,0,0,,Bagaimana cara\Nmengalahkannya?
+Dialogue: 0,0:08:46.05,0:08:47.79,Default,,0,0,0,,Romantica…\NAaron…
+Dialogue: 0,0:08:48.37,0:08:49.63,Default,,0,0,0,,Lalu, Dadeinuf…
+Dialogue: 0,0:08:50.41,0:08:51.13,Default,,0,0,0,,Kenapa?
+Dialogue: 0,0:08:51.67,0:08:54.73,Default,,0,0,0,,Kenapa dia muncul di dunia nyata?\NBukan di Dunia Bayangan?!
+Dialogue: 0,0:08:56.22,0:08:58.37,Default,,0,0,0,,Apa pengulanganku\Nadalah penyebabnya?
+Dialogue: 0,0:09:01.75,0:09:04.64,Default,,0,0,0,,Apa aku tidak bisa\Nlepas dari takdir?
+Dialogue: 0,0:09:06.25,0:09:07.40,Default,,0,0,0,,Desir?
+Dialogue: 0,0:09:12.78,0:09:14.15,Default,,0,0,0,,Yang benar saja!
+Dialogue: 0,0:09:14.48,0:09:15.22,Default,,0,0,0,,Eh?
+Dialogue: 0,0:09:18.24,0:09:20.42,Default,,0,0,0,,Hanya Master Menara\Nyang bisa menangani Dadeinuf.
+Dialogue: 0,0:09:20.85,0:09:22.54,Default,,0,0,0,,Kita hanya akan membebaninya.
+Dialogue: 0,0:09:23.22,0:09:24.85,Default,,0,0,0,,Kita harus membantu\Nevakuasi sekarang!
+Dialogue: 0,0:09:25.09,0:09:27.07,Default,,0,0,0,,Kita harus menyelamatkan\Norang sebanyak mungkin!
+Dialogue: 0,0:09:27.07,0:09:27.71,Default,,0,0,0,,Baik!
+Dialogue: 0,0:09:27.71,0:09:28.61,Default,,0,0,0,,Aku paham!
+Dialogue: 0,0:09:28.61,0:09:29.17,Default,,0,0,0,,Ya.
+Dialogue: 0,0:09:45.75,0:09:46.82,Default,,0,0,0,,Fiuh, selamat…
+Dialogue: 0,0:09:46.82,0:09:49.06,Default,,0,0,0,,Tapi, kota kita telah\Nmenjadi lautan api…
+Dialogue: 0,0:09:50.71,0:09:52.18,Default,,0,0,0,,Mama, lihat itu!
+Dialogue: 0,0:09:52.18,0:09:53.03,Default,,0,0,0,,Apa?
+Dialogue: 0,0:09:53.78,0:09:55.30,Default,,0,0,0,,Kembang api besar!
+Dialogue: 0,0:10:05.05,0:10:06.27,Default,,0,0,0,,Mahkota Es!
+Dialogue: 0,0:10:16.73,0:10:18.29,Default,,0,0,0,,Semuanya baik-baik saja.
+Dialogue: 0,0:10:30.59,0:10:32.68,Default,,0,0,0,,Kita andalkan mereka berdua\Nuntuk urusan di sana.
+Dialogue: 0,0:10:33.20,0:10:35.00,Default,,0,0,0,,Fokuslah, Romantica.
+Dialogue: 0,0:10:35.00,0:10:36.23,Default,,0,0,0,,Aku paham.
+Dialogue: 0,0:10:36.78,0:10:38.93,Default,,0,0,0,,Arah jam dua, jarak 850.
+Dialogue: 0,0:10:38.93,0:10:39.94,Default,,0,0,0,,Siap!
+Dialogue: 0,0:10:43.93,0:10:44.70,Default,,0,0,0,,Lanjut.
+Dialogue: 0,0:10:44.70,0:10:46.87,Default,,0,0,0,,Arah jam sebelas,\Njarak 1.200.
+Dialogue: 0,0:10:59.42,0:11:00.67,Default,,0,0,0,,Tidak sampai, ya?
+Dialogue: 0,0:11:01.40,0:11:02.13,Default,,0,0,0,,Kalau begitu…
+Dialogue: 0,0:11:03.59,0:11:04.89,Default,,0,0,0,,Pusaran!
+Dialogue: 0,0:11:13.60,0:11:14.50,Default,,0,0,0,,Satu lagi.
+Dialogue: 0,0:11:15.35,0:11:16.90,Default,,0,0,0,,Sabel Obsidian!
+Dialogue: 0,0:11:25.80,0:11:27.03,Default,,0,0,0,,Maaf…
+Dialogue: 0,0:11:27.39,0:11:28.19,Default,,0,0,0,,Pemulihan.
+Dialogue: 0,0:11:36.04,0:11:38.30,Default,,0,0,0,,Terima kasih…\NSekarang mundurlah.
+Dialogue: 0,0:11:39.16,0:11:40.92,Default,,0,0,0,,Eh? Jangan-jangan…
+Dialogue: 0,0:11:41.95,0:11:43.30,Default,,0,0,0,,Ini masih belum berakhir.
+Dialogue: 0,0:12:02.80,0:12:04.03,Default,,0,0,0,,Tidak mungkin…
+Dialogue: 0,0:12:04.89,0:12:08.13,Default,,0,0,0,,Tampaknya, nama "iblis" itu\Nbukan sekadar isapan jempol.
+Dialogue: 0,0:12:14.19,0:12:17.07,Default,,0,0,0,,Romantica, kapalnya\Nsudah berada di jarak aman.
+Dialogue: 0,0:12:17.07,0:12:18.42,Default,,0,0,0,,Semuanya sudah aman.
+Dialogue: 0,0:12:18.88,0:12:20.23,Default,,0,0,0,,Syukurlah…
+Dialogue: 0,0:12:24.11,0:12:25.06,Default,,0,0,0,,Kau memang hebat.
+Dialogue: 0,0:12:25.06,0:12:27.30,Default,,0,0,0,,Sudah kubilang,\Nitu yang membuatku kesal!
+Dialogue: 0,0:12:28.22,0:12:30.33,Default,,0,0,0,,Yah, untuk sekarang\Ntidak masalah.
+Dialogue: 0,0:12:34.71,0:12:36.31,Default,,0,0,0,,Kita harus segera\Nmengungsi juga.
+Dialogue: 0,0:12:46.24,0:12:47.15,Default,,0,0,0,,Romantica…
+Dialogue: 0,0:12:48.12,0:12:49.25,Default,,0,0,0,,Baiklah.
+Dialogue: 0,0:12:55.96,0:12:58.10,Default,,0,0,0,,Desir, kami sudah\Ntiba di stasiun.
+Dialogue: 0,0:12:58.10,0:12:59.29,Default,,0,0,0,,Bagaimana dengan kalian?
+Dialogue: 0,0:13:00.83,0:13:02.89,Default,,0,0,0,,Tinggal sebentar lagi.\NKalian duluan saja…
+Dialogue: 0,0:13:02.89,0:13:03.90,Default,,0,0,0,,- Akan kutunggu!\N- Aku menunggumu!
+Dialogue: 0,0:13:06.10,0:13:06.86,Default,,0,0,0,,Baiklah.
+Dialogue: 0,0:13:10.26,0:13:11.93,Default,,0,0,0,,Romantica,\Nkau baik-baik saja?
+Dialogue: 0,0:13:13.03,0:13:15.07,Default,,0,0,0,,Aku… baik-baik… saja.
+Dialogue: 0,0:13:16.22,0:13:17.94,Default,,0,0,0,,Kelihatannya tidak begitu.
+Dialogue: 0,0:13:19.79,0:13:22.66,Default,,0,0,0,,Aku hanya terlalu\Nbanyak memakai manaku.
+Dialogue: 0,0:13:29.42,0:13:31.28,Default,,0,0,0,,Sip! Ayo jalan!
+Dialogue: 0,0:13:31.59,0:13:32.19,Default,,0,0,0,,Ya.
+Dialogue: 0,0:13:33.77,0:13:34.83,Default,,0,0,0,,Apa?!
+Dialogue: 0,0:13:35.22,0:13:36.41,Default,,0,0,0,,Itu para Outer yang tersisa!
+Dialogue: 0,0:13:36.60,0:13:37.54,Default,,0,0,0,,Di mana?!
+Dialogue: 0,0:13:38.23,0:13:39.62,Default,,0,0,0,,Kita tidak bisa\Nmembiarkan mereka.
+Dialogue: 0,0:13:40.22,0:13:41.71,Default,,0,0,0,,Romantica,\Npergilah ke stasiun.
+Dialogue: 0,0:13:41.71,0:13:43.42,Default,,0,0,0,,Tidak!\NAku juga akan…
+Dialogue: 0,0:13:43.77,0:13:46.52,Default,,0,0,0,,Manamu sudah habis, bukan?\NTidak perlu memaksakan diri lagi.
+Dialogue: 0,0:13:47.16,0:13:49.70,Default,,0,0,0,,Yah… Tidak salah, sih…
+Dialogue: 0,0:13:52.24,0:13:54.43,Default,,0,0,0,,Kamu jangan gegabah, ya?
+Dialogue: 0,0:13:54.86,0:13:56.21,Default,,0,0,0,,Aku paham.
+Dialogue: 0,0:13:57.44,0:13:58.82,Default,,0,0,0,,Sungguh…
+Dialogue: 0,0:13:59.23,0:14:01.43,Default,,0,0,0,,Senyummu itu bikin kesal.
+Dialogue: 0,0:14:09.36,0:14:11.42,Default,,0,0,0,,Maaf, Romantica.
+Dialogue: 0,0:14:19.52,0:14:22.59,Default,,0,0,0,,Aku tidak ingin kejadian\Nyang sama terulang!
+Dialogue: 0,0:14:29.54,0:14:30.59,Default,,0,0,0,,Aaron…
+Dialogue: 0,0:14:31.80,0:14:32.65,Default,,0,0,0,,Kau?
+Dialogue: 0,0:14:33.43,0:14:35.31,Default,,0,0,0,,Aku tidak ingat pernah\Nmengatakan namaku.
+Dialogue: 0,0:14:36.25,0:14:37.47,Default,,0,0,0,,Maafkan kelancangan saya!
+Dialogue: 0,0:14:37.47,0:14:40.31,Default,,0,0,0,,Kesatria Kerajaan Divide,\NTuan Aaron.
+Dialogue: 0,0:14:41.30,0:14:42.34,Default,,0,0,0,,Oh!
+Dialogue: 0,0:14:42.34,0:14:45.57,Default,,0,0,0,,Kau penyihir yang\Nmengevakuasi raja dari kastel, ya?
+Dialogue: 0,0:14:46.07,0:14:46.67,Default,,0,0,0,,Benar!
+Dialogue: 0,0:14:47.08,0:14:49.90,Default,,0,0,0,,Saya Desir Herrman\Ndari Akademi Hebrion.
+Dialogue: 0,0:14:50.59,0:14:52.31,Default,,0,0,0,,Izinkan aku berterima\Nkasih sekali lagi.
+Dialogue: 0,0:14:54.20,0:14:55.37,Default,,0,0,0,,Terima kasih.
+Dialogue: 0,0:14:55.37,0:14:56.37,Default,,0,0,0,,Ya.
+Dialogue: 0,0:14:58.09,0:14:59.99,Default,,0,0,0,,Akulah yang ingin\Nberterima kasih.
+Dialogue: 0,0:15:02.06,0:15:03.51,Default,,0,0,0,,Karena aku bisa kembali…
+Dialogue: 0,0:15:04.12,0:15:06.13,Default,,0,0,0,,berbicara denganmu\Nseperti ini lagi.
+Dialogue: 0,0:15:10.88,0:15:13.06,Default,,0,0,0,,Kapal Kerajaan Divide\Nseharusnya sudah berangkat.
+Dialogue: 0,0:15:13.59,0:15:15.76,Default,,0,0,0,,Kenapa Anda ada di sini,\NKomandan?
+Dialogue: 0,0:15:16.08,0:15:19.26,Default,,0,0,0,,Ini memang masalah negara lain,\Ntapi aku tidak bisa tinggal diam.
+Dialogue: 0,0:15:19.77,0:15:22.14,Default,,0,0,0,,Aku sedang mencari\Nkalau ada yang tertinggal…
+Dialogue: 0,0:15:22.62,0:15:25.25,Default,,0,0,0,,Aku sampai\Ndimarahi Yang Mulia.
+Dialogue: 0,0:15:26.36,0:15:27.56,Default,,0,0,0,,Dia tidak berubah…
+Dialogue: 0,0:15:29.53,0:15:31.03,Default,,0,0,0,,Harap segera pergi dari sini.
+Dialogue: 0,0:15:31.30,0:15:31.97,Default,,0,0,0,,Apa?
+Dialogue: 0,0:15:32.65,0:15:35.94,Default,,0,0,0,,Sesaat lagi, kekuatan iblis itu\Nakan menjangkau tempat ini.
+Dialogue: 0,0:15:36.75,0:15:39.27,Default,,0,0,0,,Dia masih belum menunjukkan\Nseluruh kekuatannya.
+Dialogue: 0,0:15:40.65,0:15:41.51,Default,,0,0,0,,Kau…
+Dialogue: 0,0:15:42.17,0:15:44.01,Default,,0,0,0,,Saya tidak ingin\Nada korban jiwa.
+Dialogue: 0,0:15:48.25,0:15:49.30,Default,,0,0,0,,Baiklah.
+Dialogue: 0,0:15:49.70,0:15:50.85,Default,,0,0,0,,Terima kasih banyak.
+Dialogue: 0,0:15:51.35,0:15:52.07,Default,,0,0,0,,Sampai nanti!
+Dialogue: 0,0:16:33.48,0:16:34.11,Default,,0,0,0,,Zod?
+Dialogue: 0,0:16:34.89,0:16:35.72,Default,,0,0,0,,Aku baik-baik saja.
+Dialogue: 0,0:16:36.08,0:16:37.03,Default,,0,0,0,,Akan kuakhiri.
+Dialogue: 0,0:16:40.12,0:16:41.64,Default,,0,0,0,,Kemutlakan Zero.
+Dialogue: 0,0:16:47.26,0:16:48.65,Default,,0,0,0,,Raungan Magma!
+Dialogue: 0,0:17:23.58,0:17:24.90,Default,,0,0,0,,Akhirnya dia tumbang juga.
+Dialogue: 0,0:17:25.23,0:17:27.00,Default,,0,0,0,,Kerja bagus, Zod.
+Dialogue: 0,0:17:27.30,0:17:28.14,Default,,0,0,0,,Masih belum!
+Dialogue: 0,0:17:31.52,0:17:32.94,Default,,0,0,0,,Apa maksudmu?
+Dialogue: 0,0:17:33.31,0:17:36.34,Default,,0,0,0,,Dadeinuf masih belum\Nmenunjukkan wujud aslinya.
+Dialogue: 0,0:17:42.88,0:17:46.58,Default,,0,0,0,,Iblis itu dikatakan pernah\Nmeluluhlantakkan kota dalam semalam.
+Dialogue: 0,0:17:47.62,0:17:48.73,Default,,0,0,0,,Wujud sejatinya adalah…
+Dialogue: 0,0:18:25.24,0:18:27.12,Default,,0,0,0,,Itulah Iblis Malapetaka…
+Dialogue: 0,0:18:27.12,0:18:29.83,Default,,0,0,0,,Wujud sejati dari Dadeinuf!
+Dialogue: 0,0:18:34.65,0:18:36.55,Default,,0,0,0,,Apa yang harus kita lakukan?
+Dialogue: 0,0:18:37.40,0:18:39.94,Default,,0,0,0,,Desir, tolong jaga Priscilla.
+Dialogue: 0,0:18:40.48,0:18:43.93,Default,,0,0,0,,Seorang santa diperlukan\Nuntuk menjaga kedamaian dunia.
+Dialogue: 0,0:18:43.93,0:18:45.89,Default,,0,0,0,,Jangan, Zod!
+Dialogue: 0,0:18:46.47,0:18:48.51,Default,,0,0,0,,Jika untuk menjaga\Nkedamaian dunia,
+Dialogue: 0,0:18:48.51,0:18:50.90,Default,,0,0,0,,maka kita juga tidak boleh\Nkehilangan Zod Exarion!
+Dialogue: 0,0:18:53.10,0:18:57.07,Default,,0,0,0,,Master Menara,\Nberikan padaku sisa manamu.
+Dialogue: 0,0:18:59.37,0:19:01.93,Default,,0,0,0,,Apa kau bisa\Nmengalahkannya?
+Dialogue: 0,0:19:02.73,0:19:03.39,Default,,0,0,0,,Bisa!
+Dialogue: 0,0:19:10.54,0:19:12.45,Default,,0,0,0,,Mantra sihir tingkat rendah?
+Dialogue: 0,0:19:13.43,0:19:14.87,Default,,0,0,0,,Apa yang ingin\Nkamu lakukan dengan itu?
+Dialogue: 0,0:19:15.16,0:19:15.92,Default,,0,0,0,,Tunggu.
+Dialogue: 0,0:19:17.00,0:19:20.23,Default,,0,0,0,,Sihir perlahan berevolusi,\Nmengikuti zamannya.
+Dialogue: 0,0:19:20.98,0:19:22.93,Default,,0,0,0,,Tetapi, satu yang\Ntidak berubah…
+Dialogue: 0,0:19:23.43,0:19:28.89,Default,,0,0,0,,Yaitu kewajiban untuk memproses\Nmana yang ada di atmosfer.
+Dialogue: 0,0:19:31.16,0:19:36.03,Default,,0,0,0,,Kau bisa mengalahkan iblis itu hanya dengan\Nmenumpuk mantra sihir yang simpel ini?
+Dialogue: 0,0:19:36.86,0:19:37.58,Default,,0,0,0,,Tidak.
+Dialogue: 0,0:19:38.28,0:19:40.95,Default,,0,0,0,,Kekuatan manusia tidak\Nbisa mengalahkan iblis itu.
+Dialogue: 0,0:19:50.24,0:19:51.45,Default,,0,0,0,,Benar…
+Dialogue: 0,0:19:52.22,0:19:54.33,Default,,0,0,0,,Ini adalah kekuatan\Nyang melebihi iblis itu!
+Dialogue: 0,0:20:10.03,0:20:13.80,Default,,0,0,0,,Mantra sihir milik ras yang dulu\Ndikenal sebagai asal muasal sihir,
+Dialogue: 0,0:20:14.36,0:20:17.65,Default,,0,0,0,,ras yang kini keberadaannya\Ntelah dilupakan umat manusia.
+Dialogue: 0,0:20:18.41,0:20:19.57,Default,,0,0,0,,Apa yang ingin kau lakukan?!
+Dialogue: 0,0:20:28.39,0:20:32.04,Default,,0,0,0,,Pada dasarnya, mantra hanya\Nsekadar teknik bagi manusia,
+Dialogue: 0,0:20:32.04,0:20:34.65,Default,,0,0,0,,untuk memproses mana\Ndan mengubahnya menjadi sihir.
+Dialogue: 0,0:20:36.79,0:20:39.94,Default,,0,0,0,,Bagi dia, yang memiliki mana\Ndalam darahnya sendiri,
+Dialogue: 0,0:20:40.51,0:20:42.45,Default,,0,0,0,,dia tidak memerlukan mantra.
+Dialogue: 0,0:20:44.30,0:20:47.78,Default,,0,0,0,,Dia bisa memanggil kehancuran\Nhanya dengan kata-kata.
+Dialogue: 0,0:20:49.06,0:20:50.03,Default,,0,0,0,,Benar, bukan?
+Dialogue: 0,0:20:51.59,0:20:53.00,Default,,0,0,0,,Boromir Napolitan!
+Dialogue: 0,0:21:13.79,0:21:15.00,Default,,0,0,0,,Menarik.
+Dialogue: 0,0:21:16.54,0:21:19.35,Default,,0,0,0,,Perlihatkanlah padaku,\NDesir Herrman!
+Dialogue: 0,0:22:10.56,0:22:22.11,Default,,0,0,0,,Tiap kali kusentuh lembut telapakmu♪
+Dialogue: 0,0:22:23.28,0:22:34.00,Default,,0,0,0,,Semilir lembut menyapu hatiku♪
+Dialogue: 0,0:22:35.50,0:22:42.38,Default,,0,0,0,,Rasa yang tumbuh jauh di lubuk hatiku♪
+Dialogue: 0,0:22:42.38,0:22:48.01,Default,,0,0,0,,tak dapat dimuat dalam kata-kata♪
+Dialogue: 0,0:22:48.01,0:22:54.27,Default,,0,0,0,,Tentangmu yang tak sepenuhnya kumengerti♪
+Dialogue: 0,0:22:54.27,0:22:59.86,Default,,0,0,0,,ingin lebih kupahami♪
+Dialogue: 0,0:23:00.86,0:23:06.83,Default,,0,0,0,,Tak peduli serapuh apa masa depan menanti♪
+Dialogue: 0,0:23:06.83,0:23:12.79,Default,,0,0,0,,Kan kumimpikan mimpi tiada akhir♪
+Dialogue: 0,0:23:12.79,0:23:19.34,Default,,0,0,0,,Hari-hari kala kumerenungimu♪
+Dialogue: 0,0:23:19.34,0:23:26.97,Default,,0,0,0,,kuharap bertahan selamanya♪
+Dialogue: 0,0:23:35.60,0:23:36.45,Default,,0,0,0,,(Episode 20: Kata-Kata Kehancuran)
+Dialogue: 0,0:23:36.45,0:23:39.04,Default,,0,0,0,,Selanjutnya: Kata-Kata Kehancuran.\N(Episode 20: Kata-Kata Kehancuran)
+Dialogue: 0,0:23:39.04,0:23:40.02,Default,,0,0,0,,(Episode 20: Kata-Kata Kehancuran)
+
