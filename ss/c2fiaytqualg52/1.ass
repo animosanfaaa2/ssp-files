@@ -1,0 +1,463 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Floating_Text_Box,Trebuchet MS,18,&H00FFFFFF,&H000000FF,&H00D75552,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,10,1
+Style: Ep_Title,Times New Roman,24,&H00000000,&H000000FF,&H00E1E1E1,&H00000000,0,0,0,0,100,100,0,0,1,1,1,3,10,40,55,1
+Style: RPG_Text_Box,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Digital_Book_Stats,Trebuchet MS,10,&H00FFFFFF,&H000000FF,&H00BEAC3F,&H00F4DD12,0,0,0,0,100,100,0,0,1,1,2,7,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.35,0:00:04.48,Floating_Text_Box,SIGN,0,0,0,,{\fad(125,0)\pos(318,319)}12 Hours Until Wednesday
+Dialogue: 0,0:00:01.48,0:00:04.48,Main - Top,ARIES,0,0,0,,We finally have the wall we wanted.
+Dialogue: 0,0:00:04.84,0:00:09.11,Main,ARIES,0,0,0,,With Wall Lorna \Nand the might of Lorna herself,
+Dialogue: 0,0:00:09.11,0:00:12.68,Main,ARIES,0,0,0,,we have nothing to fear from Wednesdays!
+Dialogue: 0,0:00:13.68,0:00:16.73,Main,ARIES,0,0,0,,But naturally, we still have \Na mountain of problems to deal with,
+Dialogue: 0,0:00:16.73,0:00:19.36,Main,ARIES,0,0,0,,the most serious of which is \Nthat we're short-staffed.
+Dialogue: 0,0:00:19.36,0:00:20.79,Main,LORNA,0,0,0,,Oh, I know.
+Dialogue: 0,0:00:21.27,0:00:23.14,Main,LORNA,0,0,0,,I have a great idea.
+Dialogue: 0,0:00:23.54,0:00:25.19,Main,ARIES,0,0,0,,Wh-What is that?
+Dialogue: 0,0:00:25.76,0:00:30.80,Sign_Basic,SIGN,0,0,0,,{\pos(320,2)\an8\b1\shad0\3c&HC2894C&\c&HF2B39E&}S{\c&HF2BC93&}u{\c&HF3C688&}m{\c&HF3CF7D&}m{\c&HF4D972&}o{\c&HF4E267&}n{\c&HF4E267&} {\c&HF4D972&}S{\c&HF3CF7D&}t{\c&HF3C688&}o{\c&HF2BC93&}n{\c&HF2B39E&}e
+Dialogue: 0,0:00:25.19,0:00:28.84,Main,LORNA,0,0,0,,I believe it's an artifact \Ncalled a summon stone.
+Dialogue: 0,0:00:28.84,0:00:30.80,Main,LORNA,0,0,0,,Uh, how do I use it?
+Dialogue: 0,0:00:30.80,0:00:32.67,Italics,ARIES/ID,0,0,0,,Where was she keeping that?
+Dialogue: 0,0:00:32.94,0:00:34.09,Main,LORNA,0,0,0,,Like this, maybe?
+Dialogue: 0,0:00:34.09,0:00:38.48,Main,ARIES,0,0,0,,Wait! Everything you do always has crazy—
+Dialogue: 0,0:00:42.17,0:00:44.54,Main,SIX BISHOPS,0,0,0,,We have arrived.
+Dialogue: 0,0:00:46.63,0:00:49.03,Italics,ARIES/ID,0,0,0,,Wh-Who are these people?
+Dialogue: 0,0:00:49.48,0:00:54.68,Italics,ARIES/ID,0,0,0,,They look like the leaders of an evil cult \Nsecretly plotting to destroy the world!
+Dialogue: 0,0:00:55.71,0:00:57.95,Main,LORNA,0,0,0,,What is our bond?
+Dialogue: 0,0:00:59.21,0:01:02.58,Main,SIX BISHOPS 6,0,0,0,,The answer is... "eternal."
+Dialogue: 0,0:01:02.58,0:01:04.46,Main,LORNA,0,0,0,,Yay!
+Dialogue: 0,0:01:05.12,0:01:07.19,Italics,ARIES/ID,0,0,0,,They're best buds.
+Dialogue: 0,0:01:11.38,0:01:11.92,Sign_Basic,SIGN OP,0,0,0,,{\fad(228,0)\b1\pos(352,233.333)\fay.06\shad0\c&HFFFFDA&\3c&HAA4D2D&\frx0\fry14}God
+Dialogue: 0,0:01:14.63,0:01:15.09,Sign_Basic,SIGN OP,0,0,0,,{\an8\fs40\b1\3c&HF1F345&\shad0\frx0\fry0}Nets
+Dialogue: 0,0:01:15.09,0:01:15.84,Floating_Text_Box,SIGN OP,0,0,0,,{\pos(320,62)}Phantom Leaf acquired.
+Dialogue: 0,0:01:17.05,0:01:18.18,Floating_Text_Box,SIGN OP,0,0,0,,{\fad(125,0)\pos(317,74)}Headlong Rush
+Dialogue: 0,0:01:37.28,0:01:43.54,Sign_Basic,TITLE,0,0,0,,{\fad(250,0)\fs30\an8\fnTimes New Roman\b1\c&H030103&\shad3\4c&HE6C1CD&\bord0}The World's {\bord1\c&H0000E9&\3c&H1B0792&}S{\c&H0006EA&\3c&H1C0E98&}t{\c&H010CEA&\3c&H1D149D&}r{\c&H0113EB&\3c&H1E1BA3&}o{\c&H0119EC&\3c&H1F22A9&}n{\c&H021FED&\3c&H2028AE&}g{\c&H0225ED&\3c&H212FB4&}e{\c&H032CEE&\3c&H2236BA&}s{\c&H0332EF&\3c&H233CBF&}t{\c&H0338EF&\3c&H2443C5&} {\c&H043EF0&\3c&H2549CA&}W{\c&H0444F1&\3c&H2650D0&}i{\c&H044BF2&\3c&H2757D6&}t{\c&H0551F2&\3c&H285DDB&}c{\c&H0557F3&\3c&H2964E1&}h
+Dialogue: 0,0:02:02.81,0:02:04.06,Sign_Basic,SIGN OP,0,0,0,,{\b1\c&H3D00E5&\3c&HFFFFFF&\shad2\fs40\pos(300,360)}Love this
+Dialogue: 0,0:02:03.39,0:02:04.06,Sign_Basic,SIGN OP,0,0,0,,{\pos(300,265)\shad2\c&H000000&\3c&HFFFFFF&}Same
+Dialogue: 0,0:02:03.81,0:02:04.06,Sign_Basic,SIGN OP,0,0,0,,{\pos(305,208)\shad2\c&H35A927&\3c&H000000&\fs20\4c&HFFFFFF&}Exactly
+Dialogue: 0,0:02:38.22,0:02:43.18,Ep_Title,EPTITLE,0,0,0,,{\fad(450,550)\an1\pos(375,305)}I Tried\NMaking a {\c&H185CE0&}S{\c&H174DDB&}e{\c&H163ED6&}c{\c&H162FD1&}r{\c&H151FCC&}e{\c&H1410C7&}t{\c&H1301C2&} {\c&H1301C2&}W{\c&H1410C7&}e{\c&H151FCC&}a{\c&H162FD1&}p{\c&H163ED6&}o{\c&H174DDB&}n{\c&H000000&}!
+Dialogue: 0,0:02:38.69,0:02:42.92,Main - Top,LORNA,0,0,0,,There's something I'd like your help with.
+Dialogue: 0,0:02:44.02,0:02:46.95,Main,SIX BISHOPS 1,0,0,0,,We have been waiting to hear those words.
+Dialogue: 0,0:02:46.95,0:02:49.61,Main,SIX BISHOPS 2,0,0,0,,The Age of Darkness is coming.
+Dialogue: 0,0:02:49.92,0:02:53.38,Main,LORNA,0,0,0,,They've agreed to help. \NNow we'll have more people.
+Dialogue: 0,0:02:53.38,0:02:55.92,Main,ARIES,0,0,0,,Um, who are they?
+Dialogue: 0,0:02:55.92,0:02:57.56,Main,LORNA,0,0,0,,My friends.
+Dialogue: 0,0:02:57.56,0:02:59.49,Main,ARIES,0,0,0,,That can't be right!
+Dialogue: 0,0:02:59.49,0:03:02.12,Main,ARIES,0,0,0,,They're exuding some kind of dark aura!
+Dialogue: 0,0:03:03.13,0:03:05.92,Main,LORNA,0,0,0,,They're really considerate people.
+Dialogue: 0,0:03:05.92,0:03:08.58,Main,ARIES,0,0,0,,What? Are you sure?
+Dialogue: 0,0:03:08.95,0:03:11.55,Main,ARIES,0,0,0,,Well, if you insist.
+Dialogue: 0,0:03:12.53,0:03:16.80,Main,ARIES,0,0,0,,A-Anyway, we've solved \Nour manpower shortage.
+Dialogue: 0,0:03:16.80,0:03:20.82,Main,ARIES,0,0,0,,I'll ask Mr. Dwargo the blacksmith \Nto make equipment for us.
+Dialogue: 0,0:03:20.82,0:03:25.09,Main,ARIES,0,0,0,,Rest now to prepare for tomorrow. Got it?
+Dialogue: 0,0:03:25.09,0:03:25.97,Main,VILLAGERS,0,0,0,,Yes, ma'am.
+Dialogue: 0,0:03:28.19,0:03:29.81,Main,LORNA,0,0,0,,This won't work.
+Dialogue: 0,0:03:30.18,0:03:33.48,Main,LORNA,0,0,0,,I'd like to make that thing now \Nwhile I have the time.
+Dialogue: 0,0:03:34.71,0:03:37.03,Main,LORNA,0,0,0,,Oh, this could work.
+Dialogue: 0,0:03:37.45,0:03:40.69,Main,LORNA,0,0,0,,But I don't have enough time \Nto gather materials.
+Dialogue: 0,0:03:40.69,0:03:42.67,Main,SIX BISHOPS 1,0,0,0,,Is something troubling you?
+Dialogue: 0,0:03:42.67,0:03:44.95,Main,SIX BISHOPS 2,0,0,0,,Tell us. What do you need?
+Dialogue: 0,0:03:47.45,0:03:51.46,Main,DWARGO,0,0,0,,I'm not forging arms and armor \Neven if you've got rare materials. Leave.
+Dialogue: 0,0:03:52.11,0:03:53.32,Main,ARIES,0,0,0,,I'll be back.
+Dialogue: 0,0:03:57.47,0:04:00.60,Italics,DWARGO/ID,0,0,0,,I can't forge anything anymore.
+Dialogue: 0,0:04:02.55,0:04:03.81,Main,DWARGO,0,0,0,,Enough!
+Dialogue: 0,0:04:05.03,0:04:07.23,Main,DWARGO,0,0,0,,I'm not changing my mind \Nno matter how many times—
+Dialogue: 0,0:04:07.23,0:04:12.40,Main,SIX BISHOPS 6,0,0,0,,Oh? This is a decent whisk for this era.
+Dialogue: 0,0:04:12.40,0:04:17.82,Main,SIX BISHOPS 4,0,0,0,,With this bowl, we can make \Nan offering of mayonnaise for them.
+Dialogue: 0,0:04:18.18,0:04:19.52,Italics,DWARGO/ID,0,0,0,,Who are these guys
+Dialogue: 0,0:04:19.52,0:04:25.04,Italics,DWARGO/ID,0,0,0,,who look like the leaders of an evil cult \Nsecretly plotting to destroy the world?
+Dialogue: 0,0:04:25.43,0:04:26.85,Main,LORNA,0,0,0,,Hello.
+Dialogue: 0,0:04:27.87,0:04:31.42,Main,LORNA,0,0,0,,Excuse me, but you're \NMr. Dwargo Nikodou, right?
+Dialogue: 0,0:04:32.30,0:04:34.07,Main,DWARGO,0,0,0,,How do you know my name?
+Dialogue: 0,0:04:34.42,0:04:36.56,Main,LORNA,0,0,0,,You have the A-rank blacksmithing skill
+Dialogue: 0,0:04:36.56,0:04:40.87,Main,LORNA,0,0,0,,and made S-rank magic swords in \Nthe Subterranean Kingdom of Dongowa.
+Dialogue: 0,0:04:42.09,0:04:44.76,Italics,DWARGO/ID,0,0,0,,H-How does she know that?
+Dialogue: 0,0:04:45.96,0:04:50.02,Flashback,APPRAISER,0,0,0,,This sword is far below \NG-rank. It's S-rank.
+Dialogue: 0,0:04:50.30,0:04:53.40,Flashback,DWARGO,0,0,0,,What? Th-That's not possible!
+Dialogue: 0,0:04:53.67,0:04:55.14,Flashback,DWARGO,0,0,0,,That's my masterpiece,
+Dialogue: 0,0:04:55.14,0:04:58.28,Flashback,DWARGO,0,0,0,,and I was the youngest person ever \Nto forge an A-rank sword!
+Dialogue: 0,0:04:58.59,0:05:02.73,Flashback,SOLDIER 1,0,0,0,,Silence! How dare you \Noffer this trash to the king?!
+Dialogue: 0,0:05:02.73,0:05:08.16,Flashback,SOLDIER 1,0,0,0,,The MP of the knight who tested it \Ninstantly fell to zero, knocking him out!
+Dialogue: 0,0:05:08.16,0:05:11.67,Flashback,DWARGO,0,0,0,,I-I simply tried to forge \Nthe strongest sword!
+Dialogue: 0,0:05:11.67,0:05:13.85,Flashback,DWARGO,0,0,0,,Your Majesty, please believe me!
+Dialogue: 0,0:05:13.85,0:05:16.96,Flashback,KING,0,0,0,,You've disappointed me, Dwargo.
+Dialogue: 0,0:05:18.30,0:05:22.82,Italics,DWARGO/ID,0,0,0,,After that, I was branded a traitor \Nand banished from the kingdom.
+Dialogue: 0,0:05:23.34,0:05:26.70,Italics,DWARGO/ID,0,0,0,,I fled to this town far away from my home.
+Dialogue: 0,0:05:27.19,0:05:31.31,Italics,DWARGO/ID,0,0,0,,Thinking I might forge another S-rank \Nsword makes my hands tremble,
+Dialogue: 0,0:05:31.31,0:05:33.35,Italics,DWARGO/ID,0,0,0,,so I don't forge arms and armor anymore.
+Dialogue: 0,0:05:34.29,0:05:36.77,Italics,DWARGO/ID,0,0,0,,So who is this girl?
+Dialogue: 0,0:05:37.25,0:05:38.48,Main,LORNA,0,0,0,,Um...
+Dialogue: 0,0:05:38.88,0:05:42.63,Main,LORNA,0,0,0,,If I say the key words "strongest sword,"
+Dialogue: 0,0:05:42.63,0:05:49.08,Main,LORNA,0,0,0,,I believe you'll ask me \Nwhat's your greatest masterpiece.
+Dialogue: 0,0:05:39.74,0:05:44.87,Sign_Basic,SIGN,0,0,0,,{\fad(375,375)\pos(320,115)\an8\fnArial\b1\bord6\shad0\c&HDCB2F8&\3c&H8DC4E2&}S{\c&HCFF4FC&}t{\c&HDEF3D3&}r{\c&HF7F0BE&}o{\c&HF7CACF&}n{\c&HDCB2F8&}g{\c&HCFF4FC&}e{\c&HDEF3D3&}s{\c&HF7F0BE&}t {\c&HF7CACF&}S{\c&HDCB2F8&}w{\c&HCFF4FC&}o{\c&HDEF3D3&}r{\c&HF7F0BE&}d
+Dialogue: 0,0:05:39.74,0:05:44.87,Sign_Basic,SIGN,0,0,0,,{\fad(375,375)\pos(320,115)\an8\fnArial\b1\bord4\shad0\c&HDCB2F8&\3c&HF0F8FD&}S{\c&HCFF4FC&}t{\c&HDEF3D3&}r{\c&HF7F0BE&}o{\c&HF7CACF&}n{\c&HDCB2F8&}g{\c&HCFF4FC&}e{\c&HDEF3D3&}s{\c&HF7F0BE&}t {\c&HF7CACF&}S{\c&HDCB2F8&}w{\c&HCFF4FC&}o{\c&HDEF3D3&}r{\c&HF7F0BE&}d
+Dialogue: 0,0:05:39.74,0:05:44.87,Sign_Basic,SIGN,0,0,0,,{\fad(375,375)\pos(320,115)\an8\fnArial\b1\shad0\c&HDCB2F8&\3c&H3C446C&}S{\c&HCFF4FC&}t{\c&HDEF3D3&}r{\c&HF7F0BE&}o{\c&HF7CACF&}n{\c&HDCB2F8&}g{\c&HCFF4FC&}e{\c&HDEF3D3&}s{\c&HF7F0BE&}t {\c&HF7CACF&}S{\c&HDCB2F8&}w{\c&HCFF4FC&}o{\c&HDEF3D3&}r{\c&HF7F0BE&}d
+Dialogue: 0,0:05:44.49,0:05:51.37,Sign_Basic,SIGN,0,0,0,,{\fad(375,375)\pos(320,26)\an8\fnArial\b1\c&H2878D1&\bord0\shad0}What's my greatest masterpiece?
+Dialogue: 0,0:05:49.99,0:05:53.34,Main,LORNA,0,0,0,,The answer is "the deteriorated \Nsword in the umbrella stand."
+Dialogue: 0,0:05:53.34,0:05:59.06,Main,LORNA,0,0,0,,I have a sacred ember, \N30 high-grade coal,
+Dialogue: 0,0:05:59.06,0:06:02.02,Main,LORNA,0,0,0,,and 10 mythril whetstones\Nneeded to restore it.
+Dialogue: 0,0:05:56.21,0:06:02.26,Sign_Basic,SIGN,0,0,0,,{\fad(375,550)\an8\c&H402403&\3c&HFBF8F4&\4c&H3B280E&\shad2\fs20\b1\pos(138,1)}Sacred Ember
+Dialogue: 0,0:05:57.46,0:06:02.26,Sign_Basic,SIGN,0,0,0,,{\fad(375,550)\an8\c&H402403&\3c&HFBF8F4&\4c&H3B280E&\shad2\fs20\b1\pos(320,1)}High-Grade Coal
+Dialogue: 0,0:05:59.21,0:06:02.26,Sign_Basic,SIGN,0,0,0,,{\fad(375,550)\an8\c&H402403&\3c&HFBF8F4&\4c&H3B280E&\shad2\fs20\b1\pos(530,1)}Mythril Whetstone
+Dialogue: 0,0:06:02.02,0:06:05.16,Main,LORNA,0,0,0,,I even defeated the horde \Nof mythril centipedes
+Dialogue: 0,0:06:05.16,0:06:08.26,Main,LORNA,0,0,0,,that were going to raid \Nthe Northern Mythril Mines.
+Dialogue: 0,0:06:08.26,0:06:12.14,Main,LORNA,0,0,0,,Please give me the S-rank magic \Nsword Deathblade - Kiru-Ichimonji!
+Dialogue: 0,0:06:08.26,0:06:12.14,Sign_Basic,SIGN FX,0,0,0,,{\fad(300,0)\an8\fnArial\b1\c&HEE90F6&\3c&HFFFFFF&\4c&HF191F7&\shad2}EXCITED
+Dialogue: 0,0:06:12.84,0:06:14.74,Main,DWARGO,0,0,0,,Uh, okay...
+Dialogue: 0,0:06:16.74,0:06:18.65,Main,DWARGO,0,0,0,,I've restored it.
+Dialogue: 0,0:06:19.23,0:06:21.43,Main,DWARGO,0,0,0,,This is the sword you requested.
+Dialogue: 0,0:06:21.43,0:06:22.78,Main,LORNA,0,0,0,,Hooray!
+Dialogue: 0,0:06:23.07,0:06:26.49,Italics,LORNA/ID,0,0,0,,Everything goes so nice and quickly \Nwhen you have the Internet!
+Dialogue: 0,0:06:22.78,0:06:26.49,Sign_Basic,SIGN,0,0,0,,{\an7\pos(20,15)\fs20\p1\1a&H20&\bord4\shad0\3c&HF5D982&\c&HFFFFFF&}m 0 0 l 250 0 l 250 135 l 0 135
+Dialogue: 1,0:06:22.78,0:06:26.49,Sign_Basic,SIGN,0,0,0,,{\an7\fs12\bord1.5\shad0\c&HFBCBF6&\3c&H000000&\pos(120,20)\bord1\b1}S{\c&H000000&\3c&HFFFFFF&}-rank\N{\fs10}Weapon: Sword\N{\fs12}Deathblade - Kiru-Ichimonji
+Dialogue: 0,0:06:22.78,0:06:26.49,Sign_Basic,SIGN,0,0,0,,{\an7\pos(40,60)\fs10\b1\3c&HF8D469&\shad0}Description
+Dialogue: 1,0:06:22.78,0:06:26.49,Sign_Basic,SIGN,0,0,0,,{\an7\pos(27,75)\fs10\b1\shad0\c&H000000&\bord1\3c&HFFFFFF&}Attack +1,111 Speed +111\N All attacks made by this sword are affected by Cleave.\N Equipped Skill: Cleave\N Description: This sword is acquired by completing the\Ndifficult quest, "The Fallen Master Craftsman." Few things\Ncan't be cut by this sword. Despite its many weaknesses\Nand difficulty to use, it's still a popular weapon.
+Dialogue: 0,0:06:26.78,0:06:29.33,Main,DWARGO,0,0,0,,That sword is heavy. Be careful—
+Dialogue: 0,0:06:30.10,0:06:32.20,Main,LORNA,0,0,0,,Did you say something?
+Dialogue: 0,0:06:32.20,0:06:34.96,Main,DWARGO,0,0,0,,Uh, what?
+Dialogue: 0,0:06:34.96,0:06:39.59,Main,LORNA,0,0,0,,Thank you all for helping me gather items.
+Dialogue: 0,0:06:39.59,0:06:41.64,Main,SIX BISHOPS 6,0,0,0,,You are too kind.
+Dialogue: 0,0:06:41.64,0:06:44.58,Main,LORNA,0,0,0,,Anyway, this sure is a cool sword.
+Dialogue: 0,0:06:45.59,0:06:48.34,Main,SIX BISHOP 6,0,0,0,,I had no idea this era had \Nsuch magnificent swords.
+Dialogue: 0,0:06:48.34,0:06:50.05,Main,DWARGO,0,0,0,,Hey, miss.
+Dialogue: 0,0:06:50.05,0:06:50.89,Main,LORNA,0,0,0,,Huh?
+Dialogue: 0,0:06:51.20,0:06:55.20,Main,DWARGO,0,0,0,,I know I asked you earlier, \Nbut are you sure you want that sword?
+Dialogue: 0,0:06:55.20,0:06:56.15,Main,LORNA,0,0,0,,Yes!
+Dialogue: 0,0:06:56.43,0:06:58.65,Main,LORNA,0,0,0,,This is exactly the sword I want!
+Dialogue: 0,0:07:04.01,0:07:08.41,Italics,LORNA/ID,0,0,0,,Now I won't cause cataclysms \Nevery time I attack.
+Dialogue: 0,0:07:09.59,0:07:12.56,Italics,LORNA/ID,0,0,0,,Lorna the Swordsman \Nsounds pretty good, too.
+Dialogue: 0,0:07:13.17,0:07:14.20,Main,LORNA,0,0,0,,There!
+Dialogue: 0,0:07:18.58,0:07:21.46,Main,LORNA,0,0,0,,N-No, wait! I didn't mean to!
+Dialogue: 0,0:07:23.19,0:07:25.57,Main,LORNA,0,0,0,,Why?!
+Dialogue: 0,0:07:26.30,0:07:31.93,Floating_Text_Box,SIGN,0,0,0,,{\fad(125,0)\pos(320,319)}Title: Tyrant of Destruction acquired!
+Dialogue: 0,0:07:27.44,0:07:29.29,Main - Top,SIX BISHOPS 6,0,0,0,,How merciless.
+Dialogue: 0,0:07:29.29,0:07:31.62,Main - Top,SIX BISHOPS 4,0,0,0,,Such is our god.
+Dialogue: 0,0:07:33.27,0:07:37.42,Main,LORNA,0,0,0,,I'm sorry! I didn't think \Nthat would happen!
+Dialogue: 0,0:07:40.44,0:07:46.42,Italics,DWARGO/ID,0,0,0,,Seriously, when did I start forging \Nswords so others would praise me?
+Dialogue: 0,0:07:46.87,0:07:50.71,Italics,DWARGO/ID,0,0,0,,Why didn't I believe in my own swords?
+Dialogue: 0,0:07:51.37,0:07:55.95,Main,LORNA,0,0,0,,I-I'm really sorry! \NI'll pay for the damage!
+Dialogue: 0,0:07:55.95,0:07:58.00,Main,DWARGO,0,0,0,,No, it's fine.
+Dialogue: 0,0:07:58.45,0:08:01.89,Main,DWARGO,0,0,0,,I was just thinking about \Nremodeling my shop.
+Dialogue: 0,0:08:03.47,0:08:06.22,Main,DWARGO,0,0,0,,Miss, what's your name?
+Dialogue: 0,0:08:06.22,0:08:08.66,Main,LORNA,0,0,0,,What? It's Lorna.
+Dialogue: 0,0:08:10.04,0:08:12.56,Main,DWARGO,0,0,0,,I'll remember that. Come back anytime.
+Dialogue: 0,0:08:13.86,0:08:16.83,Main,DWARGO,0,0,0,,I'll make you an even stronger \Nsword right away.
+Dialogue: 0,0:08:18.54,0:08:19.85,Main,ARIES,0,0,0,,What?!
+Dialogue: 0,0:08:20.27,0:08:22.08,Main,ARIES,0,0,0,,What happened?
+Dialogue: 0,0:08:22.08,0:08:23.77,Main,DWARGO,0,0,0,,Nothing.
+Dialogue: 0,0:08:24.14,0:08:28.66,Main,DWARGO,0,0,0,,Anyway, you've got the mane of \NEleone the Bolt Panthera, don't you?
+Dialogue: 0,0:08:28.66,0:08:30.16,Main,DWARGO,0,0,0,,Bring it to me.
+Dialogue: 0,0:08:30.57,0:08:31.66,Main,ARIES,0,0,0,,What?
+Dialogue: 0,0:08:31.97,0:08:36.66,Main,DWARGO,0,0,0,,If I stay up all night, I can apply \Nthe lightning element to your weapons.
+Dialogue: 0,0:08:37.93,0:08:39.52,Main,ARIES,0,0,0,,Thank you!
+Dialogue: 0,0:08:47.44,0:08:49.80,Main,LORNA,0,0,0,,An even stronger sword, huh?
+Dialogue: 0,0:08:50.06,0:08:51.96,Main,LORNA,0,0,0,,I don't know about that.
+Dialogue: 0,0:08:51.96,0:08:54.76,Main,LORNA,0,0,0,,I just wanted a replacement for a saw.
+Dialogue: 0,0:08:55.43,0:08:58.03,Main,LORNA,0,0,0,,Okay, this spot looks good.
+Dialogue: 0,0:08:58.75,0:08:59.99,Main,LORNA,0,0,0,,Petit Wall!
+Dialogue: 0,0:09:00.56,0:09:02.19,Main,LORNA,0,0,0,,And then...
+Dialogue: 0,0:09:03.25,0:09:04.81,Main,LORNA,0,0,0,,Cleave!
+Dialogue: 0,0:09:05.32,0:09:07.65,Main,LORNA,0,0,0,,Wow, it's so sharp.
+Dialogue: 0,0:09:07.65,0:09:10.44,Main,LORNA,0,0,0,,Now I can make that secret weapon.
+Dialogue: 0,0:09:15.27,0:09:17.90,Main,MALE ADVENTURER 1,0,0,0,,H-Hey, who's that crazy girl?
+Dialogue: 0,0:09:17.90,0:09:21.25,Main,MALE ADVENTURER 2,0,0,0,,You don't know? \NThat's Ms. Lorna, the new girl.
+Dialogue: 0,0:09:21.25,0:09:24.17,Main,ARIES,0,0,0,,Oh, no. She's up to something again.
+Dialogue: 0,0:09:25.18,0:09:28.18,Main,ARIES,0,0,0,,Lorna, what are you doing now?
+Dialogue: 0,0:09:28.18,0:09:31.70,Main,ARIES,0,0,0,,Did you feel like doing \Nsome impromptu terraforming?
+Dialogue: 0,0:09:31.70,0:09:33.51,Main,LORNA,0,0,0,,I'm doing some DIY.
+Dialogue: 0,0:09:33.51,0:09:35.89,Sign_Basic,SIGN,0,0,0,,{\pos(348.667,106)\an8\fnArial\b1\shad0\c&H5E8BC2&\3c&H2E4675&}Dee-Eye-Why
+Dialogue: 0,0:09:33.81,0:09:35.89,Main,ARIES,0,0,0,,Dee-Eye-Why?
+Dialogue: 0,0:09:35.89,0:09:40.59,Main,LORNA,0,0,0,,I'm making an amazing \Nsecret weapon for Wednesday.
+Dialogue: 0,0:09:40.59,0:09:42.10,Main,ARIES,0,0,0,,I-I see.
+Dialogue: 0,0:09:42.10,0:09:45.02,Main,LORNA,0,0,0,,I hope you're excited to see it completed.
+Dialogue: 0,0:09:45.02,0:09:47.92,Main,ARIES,0,0,0,,I-I'm so excited.
+Dialogue: 0,0:09:47.92,0:09:51.81,Main,ARIES,0,0,0,,It doesn't look like you need any help.
+Dialogue: 0,0:09:52.81,0:09:55.34,Main,ARIES,0,0,0,,Remember to get \Nsome rest once you're done.
+Dialogue: 0,0:09:55.34,0:09:57.99,Main,ARIES,0,0,0,,The battle will start \Nearly tomorrow morning.
+Dialogue: 0,0:09:57.99,0:09:59.41,Main,LORNA,0,0,0,,Okay.
+Dialogue: 0,0:10:01.03,0:10:02.80,Main,ARIES,0,0,0,,Thank you so much.
+Dialogue: 0,0:10:06.95,0:10:12.56,Italics,ARIES/ID,0,0,0,,I don't know what Lorna's doing, \Nbut I'm so glad she's here.
+Dialogue: 0,0:10:14.39,0:10:19.54,Italics,ARIES/ID,0,0,0,,If we fail again, I doubt \Nthis city will ever be restored.
+Dialogue: 0,0:10:20.80,0:10:22.02,Italics,ARIES/ID,0,0,0,,Which is why...
+Dialogue: 0,0:10:22.81,0:10:26.68,Italics,ARIES/ID,0,0,0,,we must end the Wednesdays \Ntomorrow, no matter what.
+Dialogue: 0,0:10:29.15,0:10:31.53,Main,ARIES,0,0,0,,Wednesday is starting again.
+Dialogue: 0,0:10:31.96,0:10:36.28,Main,ARIES,0,0,0,,Another monster horde \Nwill surely attack the town.
+Dialogue: 0,0:10:36.85,0:10:38.59,Main,ARIES,0,0,0,,As you know,
+Dialogue: 0,0:10:38.59,0:10:44.38,Main,ARIES,0,0,0,,many adventurers have taken \Non Wednesday, failed, and fled.
+Dialogue: 0,0:10:45.02,0:10:50.48,Main,ARIES,0,0,0,,Wednesdays are an endless doomed \Nbattle that brings no honor or rewards.
+Dialogue: 0,0:10:51.42,0:10:56.41,Main,ARIES,0,0,0,,I'm proud of those of you \Nwho have stayed in spite of that.
+Dialogue: 0,0:10:56.98,0:11:01.38,Main,MALE ADVENTURER 1,0,0,0,,We know your love for this city
+Dialogue: 0,0:11:01.38,0:11:04.23,Main,MALE ADVENTURER 1,0,0,0,,and the effort \Nyou've put in are unmatched.
+Dialogue: 0,0:11:04.23,0:11:07.23,Main,MALE ADVENTURER 2,0,0,0,,That's why we've stuck with you.
+Dialogue: 0,0:11:08.35,0:11:09.48,Main,ARIES,0,0,0,,Guys...
+Dialogue: 0,0:11:09.48,0:11:12.48,Main,MALE ADVENTURER 1,0,0,0,,Let's beat Wednesday today!
+Dialogue: 0,0:11:12.48,0:11:18.17,Main,ARIES,0,0,0,,You're right. \NLet's review the plan one last time.
+Dialogue: 0,0:11:18.17,0:11:21.95,Main,ARIES,0,0,0,,First, the defenders will push \Nthe monsters back to the sea.
+Dialogue: 0,0:11:21.95,0:11:26.25,Main,ARIES,0,0,0,,Then the attackers will launch \Nlightning attacks against the sea.
+Dialogue: 0,0:11:26.64,0:11:29.99,Main,ARIES,0,0,0,,The wall squad can handle any stragglers,
+Dialogue: 0,0:11:29.99,0:11:33.94,Main,ARIES,0,0,0,,so keep your eyes forward \Nand attack, attack, attack!
+Dialogue: 0,0:11:33.94,0:11:34.84,Main,VILLAGERS,0,0,0,,Yeah!
+Dialogue: 0,0:11:36.11,0:11:38.49,Main,DWARGO,0,0,0,,Bring your gear to me if it breaks.
+Dialogue: 0,0:11:38.49,0:11:40.97,Main,DWARGO,0,0,0,,Dwargo's Item Shop is here to fix it.
+Dialogue: 0,0:11:40.97,0:11:42.94,Main,RESTAURANT OWNER,0,0,0,,Come see me if you get hungry.
+Dialogue: 0,0:11:42.94,0:11:45.23,Main,RESTAURANT OWNER,0,0,0,,Today, I'll feed you for free.
+Dialogue: 0,0:11:45.57,0:11:48.49,Main,FISHERMAN,0,0,0,,We'll fish up all the fish we can, too.
+Dialogue: 0,0:11:48.49,0:11:52.92,Main,FISHERMAN,0,0,0,,It's all we can do. \NThe rest is up to you, adventurers.
+Dialogue: 0,0:11:53.23,0:11:55.62,Main,ALL,0,0,0,,Let's go! Let's do this!
+Dialogue: 0,0:11:55.62,0:11:59.63,Italics,ARIES/ID,0,0,0,,Right now, the entire town \Nis working together.
+Dialogue: 0,0:12:01.12,0:12:03.13,Italics,ARIES/ID,0,0,0,,It must be because of Lorna.
+Dialogue: 0,0:12:05.32,0:12:08.08,Italics,ARIES/ID,0,0,0,,Nobody looks like they've lost hope.
+Dialogue: 0,0:12:09.37,0:12:11.12,Main,MALE ADVENTURER 1,0,0,0,,Let's end this today!
+Dialogue: 0,0:12:11.12,0:12:14.05,Main,MALE ADVENTURER 3,0,0,0,,Let's reclaim this town from Wednesday!
+Dialogue: 0,0:12:14.47,0:12:17.08,Main,ARIES,0,0,0,,Yes! I know we can do it!
+Dialogue: 0,0:12:17.95,0:12:19.31,Main,MALE ADVENTURER 1,0,0,0,,The sun is rising!
+Dialogue: 0,0:12:22.79,0:12:24.58,Main,ARIES,0,0,0,,It'll begin soon.
+Dialogue: 0,0:12:25.81,0:12:28.14,Sign_Basic,SIGN,0,0,0,,{\an5\fs20\p1\bord0\shad0\3c&HF5D982&\c&H2B2B2B&\pos(319,156.667)}m 0 0 l 260 0 l 260 75 l 0 75
+Dialogue: 1,0:12:25.81,0:12:28.14,RPG_Text_Box,SIGN,0,0,0,,{\an5\pos(319,156)\fs19}6:00 AM Etalia News\NWednesday Quest\N"Water Monster Raid" is starting!
+Dialogue: 0,0:12:28.49,0:12:30.15,Main,ARIES,0,0,0,,Let's go, everyone!
+Dialogue: 0,0:12:30.58,0:12:32.73,Main,ARIES,0,0,0,,Today, we will win!
+Dialogue: 0,0:12:37.91,0:12:40.03,Main,ARIES,0,0,0,,They're not coming?
+Dialogue: 0,0:12:40.03,0:12:42.85,Main,MALE ADVENTURER 2,0,0,0,,Wh-What's going on? \NWhere are the monsters?
+Dialogue: 0,0:12:44.51,0:12:46.00,Main,MALE ADVENTURER 1,0,0,0,,They're coming from above!
+Dialogue: 0,0:12:47.67,0:12:48.74,Main,MALE ADVENTURER 2,0,0,0,,What is this?
+Dialogue: 0,0:12:48.74,0:12:50.40,Main,MALE ADVENTURER 3,0,0,0,,This is different from before.
+Dialogue: 0,0:12:50.83,0:12:52.42,Main,MALE ADVENTURER 1,0,0,0,,No way.
+Dialogue: 0,0:12:52.83,0:12:56.31,Italics,ARIES/ID,0,0,0,,N-No... But why?
+Dialogue: 0,0:12:56.31,0:13:01.67,Italics,ARIES/ID,0,0,0,,We prepared, planned, \Nand worked so hard for this day.
+Dialogue: 0,0:13:02.46,0:13:07.52,Italics,ARIES/ID,0,0,0,,We even had hope we could \Nend Wednesday this time.
+Dialogue: 0,0:13:08.02,0:13:12.02,Italics,ARIES/ID,0,0,0,,How could the scenario change \Nas though to mock our efforts?
+Dialogue: 0,0:13:14.03,0:13:16.64,Italics,ARIES/ID,0,0,0,,Could it be? \NDid they prepare a counter-strategy?
+Dialogue: 0,0:13:17.73,0:13:20.80,Italics,ARIES/ID,0,0,0,,Our experience won't help us anymore.
+Dialogue: 0,0:13:21.53,0:13:22.88,Italics,ARIES/ID,0,0,0,,But still...
+Dialogue: 0,0:13:23.69,0:13:25.77,Main,ARIES,0,0,0,,Don't give up yet!
+Dialogue: 0,0:13:26.66,0:13:28.08,Main,ARIES,0,0,0,,Prepare to fight, everyone!
+Dialogue: 0,0:13:29.57,0:13:32.69,Main,ARIES,0,0,0,,Wednesday is starting!
+Dialogue: 0,0:13:37.55,0:13:38.39,Main,ARIES,0,0,0,,What?
+Dialogue: 0,0:13:39.13,0:13:42.76,Main,LORNA,0,0,0,,Hooray! It's just like the Internet said!
+Dialogue: 0,0:13:44.33,0:13:48.71,Main,LORNA,0,0,0,,Um, I think this is probably \Nthe quickest way.
+Dialogue: 0,0:13:48.71,0:13:51.02,Main,ARIES,0,0,0,,The quickest... what?
+Dialogue: 0,0:13:51.39,0:13:57.36,Main,ARIES,0,0,0,,Lorna, are you the reason the monsters \Nappeared somewhere else?
+Dialogue: 0,0:13:57.65,0:14:02.22,Main,LORNA,0,0,0,,Yes. The Wednesdays \Nactually won't ever end.
+Dialogue: 0,0:14:02.22,0:14:02.96,Main,ARIES,0,0,0,,What?
+Dialogue: 0,0:14:03.90,0:14:06.32,Main,LORNA,0,0,0,,But this should solve your problem.
+Dialogue: 0,0:14:06.93,0:14:09.63,Main,MALE ADVENTURER 1,0,0,0,,All the monsters are dying.
+Dialogue: 0,0:14:09.63,0:14:13.32,Main,MALE ADVENTURER 2,0,0,0,,Do we not have to do anything?
+Dialogue: 0,0:14:13.60,0:14:16.02,Main,ARIES,0,0,0,,Could you explain what's happening?
+Dialogue: 0,0:14:16.02,0:14:17.04,Main,LORNA,0,0,0,,Sure.
+Dialogue: 0,0:14:17.43,0:14:21.97,Main,LORNA,0,0,0,,That tower is a secret weapon for \Nautomatically defeating the monsters.
+Dialogue: 0,0:14:21.97,0:14:29.35,RPG_Text_Box,SIGN,0,0,0,,{\an5\fs16\bord3\3c&H3726C3&\c&H3826C4&\pos(320,28)}Relocated Spawn Point
+Dialogue: 1,0:14:21.97,0:14:29.35,RPG_Text_Box,SIGN,0,0,0,,{\an5\fs16\bord1\3c&HBAEDED&\c&H3826C4&\pos(320,28)}Relocated Spawn Point
+Dialogue: 0,0:14:22.48,0:14:25.99,Main,LORNA,0,0,0,,When there's an object on top \Nof a monster's spawn point,
+Dialogue: 0,0:14:25.99,0:14:29.06,Main,LORNA,0,0,0,,they spawn on top of it.
+Dialogue: 0,0:14:29.35,0:14:39.52,RPG_Text_Box,SIGN,0,0,0,,{\an5\fs16\bord3\3c&H3726C3&\c&H3826C4&\pos(416,272)}Spawn Point
+Dialogue: 0,0:14:29.35,0:14:39.52,RPG_Text_Box,SIGN,0,0,0,,{\an5\fs16\bord1\3c&HBAEDED&\c&H3826C4&\pos(416,272)}Spawn Point
+Dialogue: 1,0:14:29.06,0:14:34.84,Main - Top,LORNA,0,0,0,,If you use that to move their spawn \Npoint to a really high location,
+Dialogue: 0,0:14:34.84,0:14:39.52,Main - Top,LORNA,0,0,0,,they're killed by \Nsomething called "fall damage."
+Dialogue: 0,0:14:39.91,0:14:44.18,Main,LORNA,0,0,0,,Additionally, in the language of the gods,
+Dialogue: 0,0:14:44.18,0:14:48.66,Main,LORNA,0,0,0,,this type of tower that automatically \Ndefeats monsters is called a trap tower.
+Dialogue: 0,0:14:49.17,0:14:51.64,Italics,ARIES & VILLAGERS/ID,0,0,0,,Uh-huh. I don't get it.
+Dialogue: 0,0:14:51.64,0:14:56.28,Main,ARIES,0,0,0,,I-In other words, \Nwith this trap tower thing,
+Dialogue: 0,0:14:56.28,0:15:00.62,Main,ARIES,0,0,0,,we can automatically overcome \Nevery Wednesday from now on?
+Dialogue: 0,0:15:00.62,0:15:05.84,Main,LORNA,0,0,0,,Yes, and that's the standard strategy \Nfor defeating this Wednesday quest.
+Dialogue: 0,0:15:05.84,0:15:08.02,Main,ALL,0,0,0,,Yeah, right!
+Dialogue: 0,0:15:08.68,0:15:11.10,Floating_Text_Box,SIGN,0,0,0,,{\fad(125,0)\pos(320,268)\an2}Lorna single-handedly restored the safety\Nof the Port Town of Aquas!
+Dialogue: 0,0:15:13.42,0:15:14.60,Main,ARIES,0,0,0,,Everyone!
+Dialogue: 0,0:15:14.89,0:15:19.78,Main,ARIES,0,0,0,,You've worked hard until now! \NDrinks are on me!
+Dialogue: 0,0:15:19.78,0:15:21.14,Main,ARIES,0,0,0,,Cheers!
+Dialogue: 0,0:15:21.14,0:15:23.11,Main,VILLAGERS,0,0,0,,Cheers!
+Dialogue: 0,0:15:24.97,0:15:26.89,Main,MALE ADVENTURER 1,0,0,0,,It's Thursday!
+Dialogue: 0,0:15:26.89,0:15:29.99,Main,MALE ADVENTURER 2,0,0,0,,We're finally free from Wednesdays!
+Dialogue: 0,0:15:31.19,0:15:36.25,Italics,ARIES/ID,0,0,0,,I can't believe we finished \Na Wednesday without any damage.
+Dialogue: 0,0:15:36.58,0:15:38.64,Main,RESTAURANT OWNER,0,0,0,,Anyway, I'm impressed.
+Dialogue: 0,0:15:38.64,0:15:42.11,Main,RESTAURANT OWNER,0,0,0,,You ended our Wednesdays \Nall by yourself at your age.
+Dialogue: 0,0:15:42.11,0:15:46.49,Main,MALE ADVENTURER 1,0,0,0,,The monsters we struggled \Nagainst fell over instantly.
+Dialogue: 0,0:15:48.23,0:15:50.56,Main,ARIES,0,0,0,,Let's take a photo to \Ncommemorate, everyone.
+Dialogue: 0,0:15:50.56,0:15:52.24,Main,LORNA,0,0,0,,Oh, nice.
+Dialogue: 0,0:15:54.51,0:15:59.52,Main,ARIES,0,0,0,,We can't miss this chance \Nto have you wear that, Lorna.
+Dialogue: 0,0:16:02.28,0:16:05.12,Main,LORNA,0,0,0,,Um, I finished changing.
+Dialogue: 0,0:16:05.78,0:16:10.28,Main,ARIES,0,0,0,,Oh, you're so cute! Yes!
+Dialogue: 0,0:16:11.28,0:16:15.29,Sign_Basic,SIGN,0,0,0,,{\an7\fs20\p1\1a&H20&\bord4\shad0\3c&HF5D982&\c&HFFFFFF&\pos(370,11)}m 0 0 l 255 0 l 255 135 l 0 135
+Dialogue: 1,0:16:11.28,0:16:15.29,Sign_Basic,SIGN,0,0,0,,{\an7\fs12\bord1.5\shad0\c&HE4E5D9&\3c&H000000&\bord1\b1\pos(470,16)}E{\c&H000000&\3c&HFFFFFF&}-rank\N{\fs10}Armor: Clothes\N{\fs12}Sailor Uniform
+Dialogue: 0,0:16:11.28,0:16:15.29,Sign_Basic,SIGN,0,0,0,,{\an7\fs10\b1\3c&HF8D469&\shad0\pos(390,56)}Description
+Dialogue: 1,0:16:11.28,0:16:15.29,Sign_Basic,SIGN,0,0,0,,{\an7\fs10\b1\shad0\c&H000000&\bord1\3c&HFFFFFF&\pos(375,71)}Defense +50 Spirit +10\N Water Resistance +15%\N Equipped Skill: Sound Collection II\N Description: The traditional outfit of the Port Town of Aquas.\NThough not a strong item, it goes without saying that its\Npopularity is on par with the Royal Academy Uniform\N(AKA the blazer uniform). We know stats aren't everything.
+Dialogue: 0,0:16:12.43,0:16:14.62,Main,ARIES,0,0,0,,How can you be so cute?!
+Dialogue: 0,0:16:15.29,0:16:20.41,Main,LORNA,0,0,0,,Um, Ms. Aries? Do I look weird?
+Dialogue: 0,0:16:20.41,0:16:24.44,Main,ARIES,0,0,0,,Not at all! If anything, \Nyou look radiant, Lorna!
+Dialogue: 0,0:16:24.44,0:16:25.45,Main,LORNA,0,0,0,,Uh-huh.
+Dialogue: 0,0:16:25.80,0:16:29.84,Main,ARIES,0,0,0,,I knew I was right about you.
+Dialogue: 0,0:16:30.73,0:16:35.28,Main,LORNA,0,0,0,,Um, it's a bit embarrassing \Nwhen you stare so much.
+Dialogue: 0,0:16:35.68,0:16:40.56,Main,FEMALE ADVENTURER 2,0,0,0,,Now, now. Just ignore her. \NLet's take the picture.
+Dialogue: 0,0:16:48.14,0:16:51.72,Main,LORNA,0,0,0,,Now {\i1}this{\i0} is real seafood. It's so good.
+Dialogue: 0,0:16:51.72,0:16:56.89,Main,MALE ADVENTURER 1,0,0,0,,Monsters won't destroy and pillage \Nour boats, shops, or warehouses anymore!
+Dialogue: 0,0:16:56.89,0:17:00.85,Main,MALE ADVENTURER 2,0,0,0,,We can eat all the fish \Nwe want from now on!
+Dialogue: 0,0:17:01.84,0:17:02.96,Main,LORNA,0,0,0,,Everyone.
+Dialogue: 0,0:17:03.30,0:17:09.65,Main,LORNA,0,0,0,,I tried making tartar sauce using the \Nmayonnaise my black-robed friends made.
+Dialogue: 0,0:17:09.65,0:17:11.34,Main,LORNA,0,0,0,,Try some.
+Dialogue: 0,0:17:11.88,0:17:14.58,Main,FISHERMAN,0,0,0,,This tastes great.
+Dialogue: 0,0:17:14.58,0:17:17.62,Main,FISHERMAN,0,0,0,,This could become \Nour town's new specialty.
+Dialogue: 0,0:17:17.62,0:17:19.23,Main,FEMALE ADVENTURER 1,0,0,0,,I love this.
+Dialogue: 0,0:17:20.40,0:17:23.62,Main,SIX BISHOPS 6,0,0,0,,So this is what mayonnaise can do.
+Dialogue: 0,0:17:25.04,0:17:26.51,Main,ARIES,0,0,0,,Are you having fun?
+Dialogue: 0,0:17:26.51,0:17:28.19,Main,LORNA,0,0,0,,Ms. Aries.
+Dialogue: 0,0:17:28.46,0:17:32.15,Main,LORNA,0,0,0,,Thank you for treating me to such a feast.
+Dialogue: 0,0:17:32.15,0:17:35.59,Main,ARIES,0,0,0,,I should be thanking you.
+Dialogue: 0,0:17:35.59,0:17:36.44,Main,LORNA,0,0,0,,What?
+Dialogue: 0,0:17:37.60,0:17:39.95,Main,ARIES,0,0,0,,I'd actually given up.
+Dialogue: 0,0:17:40.64,0:17:45.93,Main,ARIES,0,0,0,,I thought we'd never end the Wednesdays. \NI thought this town was done for.
+Dialogue: 0,0:17:46.89,0:17:53.49,Main,ARIES,0,0,0,,I never imagined we'd get \Nto party like this again.
+Dialogue: 0,0:17:56.48,0:18:00.91,Main,ARIES,0,0,0,,I shouldn't be talking \Nlike this at a fun event.
+Dialogue: 0,0:18:02.28,0:18:05.73,Main,ARIES,0,0,0,,But truly, thank you.
+Dialogue: 0,0:18:06.25,0:18:10.87,Main,LORNA,0,0,0,,Not at all. \NBesides, you should thank the gods.
+Dialogue: 0,0:18:10.87,0:18:12.18,Main,ARIES,0,0,0,,The gods?
+Dialogue: 0,0:18:12.18,0:18:16.16,Main,LORNA,0,0,0,,Yes. Um, it's hard to explain,
+Dialogue: 0,0:18:16.16,0:18:21.62,Main,LORNA,0,0,0,,but my skill allows me to hear \Nthe words of the gods.
+Dialogue: 0,0:18:21.62,0:18:26.42,Main,LORNA,0,0,0,,I didn't come up with \Nthat strategy. The gods did.
+Dialogue: 0,0:18:26.93,0:18:30.18,Italics,ARIES/ID,0,0,0,,A girl loved by the gods...
+Dialogue: 0,0:18:32.25,0:18:35.14,Main,ARIES,0,0,0,,You really are an angel, Lorna.
+Dialogue: 0,0:18:36.82,0:18:42.76,Main,ARIES,0,0,0,,Oh, we should also discuss the fee for \Nusing Wall Lorna and the trap tower.
+Dialogue: 0,0:18:42.76,0:18:44.19,Main,LORNA,0,0,0,,Fee?
+Dialogue: 0,0:18:44.19,0:18:48.69,Main,ARIES,0,0,0,,Yes. We couldn't possibly \Nuse those for free.
+Dialogue: 0,0:18:49.09,0:18:54.32,Main,ARIES,0,0,0,,That said, there's no precedent, so it'll\Ntake time to find the right price.
+Dialogue: 0,0:18:54.32,0:18:59.34,Main,ARIES,0,0,0,,For now, we'll deposit around this amount \Ninto your guild account every week.
+Dialogue: 0,0:18:59.34,0:19:00.30,Main,LORNA,0,0,0,,What?!
+Dialogue: 0,0:19:00.30,0:19:03.67,Main,LORNA,0,0,0,,U-Um, I can't accept that much!
+Dialogue: 0,0:19:03.67,0:19:06.62,Main,LORNA,0,0,0,,And you never asked me to make those!
+Dialogue: 0,0:19:06.98,0:19:09.70,Main,ARIES,0,0,0,,What we're paying you isn't nearly enough.
+Dialogue: 0,0:19:09.70,0:19:11.42,Main,LORNA,0,0,0,,B-But...
+Dialogue: 0,0:19:11.92,0:19:16.47,Main,LORNA,0,0,0,,I thought your town didn't have \Nmuch money right now.
+Dialogue: 0,0:19:16.47,0:19:17.97,Main,ARIES,0,0,0,,Don't worry about that.
+Dialogue: 0,0:19:18.47,0:19:21.25,Main,ARIES,0,0,0,,If I have to, I'll lick the boots \Nof some important people.
+Dialogue: 0,0:19:21.25,0:19:22.72,Main,LORNA,0,0,0,,I-In any case,
+Dialogue: 0,0:19:22.72,0:19:26.43,Main,LORNA,0,0,0,,please use this money \Nto revitalize your town.
+Dialogue: 0,0:19:26.43,0:19:31.23,Main,LORNA,0,0,0,,Personally, enjoying the sights here \Nmatters more to me than the money.
+Dialogue: 0,0:19:31.62,0:19:32.94,Main,ARIES,0,0,0,,Lorna...
+Dialogue: 0,0:19:33.93,0:19:37.38,Main,ARIES,0,0,0,,You're too sweet! What an angel!
+Dialogue: 0,0:19:33.11,0:19:39.95,Sign_Basic,SIGN FX,0,0,0,,{\fad(425,0)\pos(330,134)\an8\fnArial\b1\c&HFADE68&\3c&HFFFFF3&\4c&HD2B392&}SQUEEEEEZE
+Dialogue: 0,0:19:37.81,0:19:39.62,Italics,LORNA/ID,0,0,0,,She smells like liquor.
+Dialogue: 0,0:19:40.55,0:19:43.87,Main,ARIES,0,0,0,,In that case, we'll use the money \Nto revitalize the town.
+Dialogue: 0,0:19:44.51,0:19:48.63,Main,ARIES,0,0,0,,But I'll make sure you can access it \Nthrough the guild anytime.
+Dialogue: 0,0:19:48.63,0:19:52.12,Main,LORNA,0,0,0,,U-Um, that's fine for now.
+Dialogue: 0,0:19:54.38,0:19:56.13,Floating_Text_Box,SIGN,0,0,0,,{\frz15\move(410,445,250,-80)}Wednesday Quest: Water Monster Raid has been completed!
+Dialogue: 0,0:19:54.59,0:19:56.34,Floating_Text_Box,SIGN,0,0,0,,{\frz15\move(410,445,255,-80)}Water Mirror Aegis acquired!
+Dialogue: 0,0:19:54.80,0:19:56.55,Floating_Text_Box,SIGN,0,0,0,,{\frz15\move(410,450,255,-75)}Ancient Medal x10 acquired!
+Dialogue: 0,0:19:55.01,0:19:56.76,Floating_Text_Box,SIGN,0,0,0,,{\frz15\move(410,450,255,-72)}50,000 shil acquired!
+Dialogue: 0,0:19:55.22,0:19:56.97,Floating_Text_Box,SIGN,0,0,0,,{\frz15\move(410,455,255,-67)}50,000 EXP acquired!
+Dialogue: 0,0:19:55.64,0:19:57.39,Floating_Text_Box,SIGN,0,0,0,,{\frz15\move(410,460,255,-62)}System: Fast Travel unlocked!
+Dialogue: 0,0:19:55.86,0:19:57.61,Floating_Text_Box,SIGN,0,0,0,,{\frz15\move(410,460,255,-62)}Title: Guardian of Wednesday acquired!
+Dialogue: 0,0:19:55.64,0:19:59.09,Main,LORNA,0,0,0,,What are these? A completion reward?
+Dialogue: 0,0:19:59.57,0:20:04.19,Italics,LORNA/ID,0,0,0,,I'm genuinely glad \Nfor the 50,000 shil and EXP,
+Dialogue: 0,0:20:04.19,0:20:10.10,Italics,LORNA/ID,0,0,0,,but I don't know what Fast Travel \Nand the Water Mirror Aegis are.
+Dialogue: 0,0:20:10.10,0:20:12.11,Sign_Basic,SIGN,0,0,0,,{\an7\pos(20,15)\fs20\p1\1a&H20&\bord4\shad0\3c&HF5D982&\c&HFFFFFF&}m 0 0 l 250 0 l 250 120 l 0 120
+Dialogue: 1,0:20:10.10,0:20:12.11,Sign_Basic,SIGN,0,0,0,,{\an7\fs12\bord1.5\shad0\c&HFBCBF6&\3c&H000000&\pos(120,20)\bord1\b1}S{\c&H000000&\3c&HFFFFFF&}-rank\N{\fs10}Armor: Shield\N{\fs12}Water Mirror Aegis
+Dialogue: 1,0:20:10.10,0:20:12.11,Sign_Basic,SIGN,0,0,0,,{\an7\pos(40,60)\fs10\b1\3c&HF8D469&\shad0}Description
+Dialogue: 1,0:20:10.10,0:20:12.11,Sign_Basic,SIGN,0,0,0,,{\an7\pos(27,75)\fs10\b1\shad0\c&H000000&\bord1\3c&HFFFFFF&}Defense +808 Spirit +808 Petrification Resistance +100%\N Equipped Skill: Reflection\N Description: The S-rank reward from the Wednesday quest.\NFor a free item, it's pretty broken. The bonuses to\Ndefenses and offensive firepower are powerful...
+Dialogue: 0,0:20:10.55,0:20:12.33,Italics,LORNA/ID,0,0,0,,Let's see.
+Dialogue: 0,0:20:12.15,0:20:18.11,Sign_Basic,SIGN,0,0,0,,{\fad(325,0)\an7\pos(20,15)\fs20\p1\1a&H20&\bord0\shad0\3c&HF5D982&\c&HFFFFFF&\t(353,560,1 \bord2}m 0 0 l 250 0 l 250 80 l 0 80
+Dialogue: 1,0:20:12.52,0:20:18.11,Sign_Basic,SIGN,0,0,0,,{\fad(175,0)\an7\pos(40,20)\fs10\b1\3c&HF8D469&\shad0}System
+Dialogue: 1,0:20:12.52,0:20:18.11,Sign_Basic,SIGN,0,0,0,,{\fad(175,0)\an7\pos(27,40)\fs10\b1\shad0\c&H000000&\bord1\3c&HFFFFFF&}Fast Travel\N\NA system skill unlocked once level 50 is reached.\NAllows one to teleport to locations they have visited.\NBe careful. It can't be used indoors.
+Dialogue: 0,0:20:13.54,0:20:18.11,Italics,LORNA/ID,0,0,0,,Yeah. I still don't get it, \Nbut they sound amazing.
+Dialogue: 0,0:20:18.59,0:20:21.99,Main,LORNA,0,0,0,,For now, I'll test the Water Mirror Aegis.
+Dialogue: 0,0:20:24.30,0:20:26.82,Main,LORNA,0,0,0,,I wonder what makes it float.
+Dialogue: 0,0:20:26.82,0:20:31.16,Main,LORNA,0,0,0,,It kind of stands out and would \Nget in the way most of the time,
+Dialogue: 0,0:20:31.16,0:20:34.28,Main,LORNA,0,0,0,,so I guess I'd only use it in battle.
+Dialogue: 0,0:20:36.37,0:20:37.91,Main,LORNA,0,0,0,,H-Hang on...
+Dialogue: 0,0:20:39.33,0:20:41.29,Main,LORNA,0,0,0,,This is kind of fun.
+Dialogue: 0,0:20:41.29,0:20:44.73,Main,LORNA,0,0,0,,Maybe I should check my stats. \NIt's been a while.
+Dialogue: 0,0:20:45.22,0:20:46.35,RPG_Text_Box,SIGN TOP,0,0,0,,{\an5\bord1\pos(215.333,82.667)\fs12\t(984,1024,1\c&H424242&\3c&H101010&)}Commands
+Dialogue: 0,0:20:45.22,0:20:46.35,RPG_Text_Box,SIGN LEFT,0,0,0,,{\an4\pos(182,102)\fs13\t(984,1024,1\c&H424242&\3c&H101010&)}Talk\h\h
+Dialogue: 0,0:20:45.22,0:20:46.35,RPG_Text_Box,SIGN LEFT,0,0,0,,{\an4\pos(182,117)\fs12\t(984,1024,1\c&H424242&\3c&H101010&)}Stats\h
+Dialogue: 0,0:20:45.22,0:20:46.35,RPG_Text_Box,SIGN LEFT,0,0,0,,{\an4\pos(182,132)\fs12\fscx70\t(984,1024,1\c&H424242&\3c&H101010&)}Equipment
+Dialogue: 0,0:20:45.22,0:20:46.35,RPG_Text_Box,SIGN RIGHT,0,0,0,,{\an4\pos(228,102)\fs12\t(984,1024,1\c&H424242&\3c&H101010&)}Skills\h
+Dialogue: 0,0:20:45.22,0:20:46.35,RPG_Text_Box,SIGN RIGHT,0,0,0,,{\an4\pos(228,117)\fs12\t(984,1024,1\c&H424242&\3c&H101010&)}Items\h
+Dialogue: 0,0:20:45.22,0:20:46.35,RPG_Text_Box,SIGN RIGHT,0,0,0,,{\an4\pos(228,132)\fs12\t(984,1024,1\c&H424242&\3c&H101010&)}Search
+Dialogue: 0,0:20:46.43,0:20:47.48,RPG_Text_Box,SIGN STATS LEFT,0,0,0,,{\fad(75,0)\an4\fs14\pos(215,100)\fsp1}Lorna Hermit
+Dialogue: 0,0:20:46.43,0:20:47.48,RPG_Text_Box,SIGN STATS LEFT,0,0,0,,{\fad(75,0)\an4\fs12\pos(200,146)\fscx80}Weapons
+Dialogue: 0,0:20:46.43,0:20:47.48,RPG_Text_Box,SIGN STATS LEFT,0,0,0,,{\fad(75,0)\an4\fs12\pos(200,172)}Armor
+Dialogue: 0,0:20:46.43,0:20:47.48,RPG_Text_Box,SIGN STATS LEFT,0,0,0,,{\fad(75,0)\an4\fs12\pos(240,153)\fsp1}Staff of the\NWorld Tree\h\h
+Dialogue: 0,0:20:46.43,0:20:47.48,RPG_Text_Box,SIGN STATS LEFT,0,0,0,,{\fad(75,0)\an4\fs10\pos(240,182)\q2}Apocalypse Dragon\NRagnarobes\h\h\h\h\h\h\h\h\h\N{\fscx\fs12}Reckless Boots\h
+Dialogue: 0,0:20:46.43,0:20:47.48,RPG_Text_Box,SIGN STATS LEFT,0,0,0,,{\fad(75,0)\an4\fs12\pos(200,224)}Skills
+Dialogue: 0,0:20:46.43,0:20:47.48,RPG_Text_Box,SIGN STATS LEFT,0,0,0,,{\fad(75,0)\an4\fs12\pos(200,250)\fsp2}Internet\h\h\N{\fsp1}Terra Drain\N{\bord1}Enchanted Wings\h\h\h
+Dialogue: 0,0:20:46.43,0:20:48.52,RPG_Text_Box,SIGN STATS RIGHT,0,0,0,,{\fad(75,0)\an4\fs12\pos(331,93)}HP\h\h\h\h\h\h\h\h\h\h\h
+Dialogue: 0,0:20:46.43,0:20:48.52,RPG_Text_Box,SIGN STATS RIGHT,0,0,0,,{\fad(75,0)\an4\fs12\pos(331,108)}MP\h\h\h\h\h\h\h
+Dialogue: 0,0:20:46.43,0:20:48.52,RPG_Text_Box,SIGN STATS RIGHT,0,0,0,,{\fad(75,0)\an4\fs12\pos(331,123)}Physical ATK
+Dialogue: 0,0:20:46.43,0:20:48.52,RPG_Text_Box,SIGN STATS RIGHT,0,0,0,,{\fad(75,0)\an4\fs12\pos(331,138)}Defense
+Dialogue: 0,0:20:46.43,0:20:48.52,RPG_Text_Box,SIGN STATS RIGHT,0,0,0,,{\fad(75,0)\an4\fs12\pos(331,153)}Magic ATK
+Dialogue: 0,0:20:46.43,0:20:48.52,RPG_Text_Box,SIGN STATS RIGHT,0,0,0,,{\fad(75,0)\an4\fs12\pos(331,169)\fsp2}Spirit
+Dialogue: 0,0:20:46.43,0:20:48.52,RPG_Text_Box,SIGN STATS RIGHT,0,0,0,,{\fad(75,0)\an4\fs12\pos(331,184)}Speed
+Dialogue: 0,0:20:46.43,0:20:48.52,RPG_Text_Box,SIGN STATS RIGHT,0,0,0,,{\fad(75,0)\an4\fs12\pos(331,200)\fsp2}Luck\h\h
+Dialogue: 0,0:20:46.43,0:20:48.52,RPG_Text_Box,SIGN STATS RIGHT,0,0,0,,{\fad(75,0)\an4\fs12\pos(331,238)\fsp1}Titles\h\h\h\NThe Banished\h\NYggdrasil's Chosen\h\h
+Dialogue: 0,0:20:47.48,0:20:50.23,Sign_Basic,SIGN,0,0,0,,{\fad(250,0)\an7\fs20\p1\bord0\shad0\3c&HF5D982&\c&H2B2B2B&\pos(180,82)}m 0 0 l 130 0 l 130 195 l 0 195
+Dialogue: 1,0:20:47.48,0:20:50.23,RPG_Text_Box,SIGN LEFT,0,0,0,,{\fad(250,0)\pos(184,91)\an4\fs12}Skills\h
+Dialogue: 1,0:20:47.48,0:20:50.23,RPG_Text_Box,SIGN LEFT,0,0,0,,{\fad(250,0)\pos(184,102.5)\an7\fs12\bord0}Internet\N Terra Drain\N Enchanted Wings\N Headlong Rush\N Reflection\N Knowledge of Magic IX\N Giant Killer III\N Knowledge of Slaughter IV\N Dragonslayer I\N Knowledge of Alchemy V\N Plant Killer I\N Slime Killer I\N Fish Killer I\N
+Dialogue: 0,0:20:48.52,0:20:50.23,Sign_Basic,SIGN,0,0,0,,{\fad(375,0)\an7\fs20\p1\bord0\shad0\3c&HF5D982&\c&H2B2B2B&\pos(332,82)}m 0 0 l 130 0 l 130 195 l 0 195
+Dialogue: 0,0:20:48.52,0:20:50.23,RPG_Text_Box,SIGN RIGHT,0,0,0,,{\fad(250,0)\pos(338,91)\an4\fs12}Titles
+Dialogue: 0,0:20:48.52,0:20:50.23,RPG_Text_Box,SIGN RIGHT,0,0,0,,{\fad(250,0)\pos(338,102.5)\an7\fs12\bord0}The Banished\N Yggdrasil's Chosen\N Witch of Calamity\N Lord Slayer\N{\fscx85}Conqueror of the Apocalypse\N{\fscx80}Vanquisher of the Queen's Rose\N Vanquisher of the Bolt Panthera\N{\fscx70}Slayer of the Lord of Coastal Waters\N{\fscx}Tyrant of Destruction\NWednesday Guardian\N
+Dialogue: 0,0:20:50.23,0:20:59.49,Sign_Basic,SIGN,0,0,0,,{\an7\fs20\p1\bord2\shad0\3c&HFFFF93&\c&HF5D612&\pos(370,8)}m 0 0 l 130 0 l 130 175 l 0 175
+Dialogue: 1,0:20:50.23,0:20:59.49,Sign_Basic,SIGN,0,0,0,,{\an7\fs12\pos(373,12)\bord0\b1\4c&HA89743&}Lorna Hermit {\fs8}LV54\N\NHP: 508/508\NMP: 99999/348\NPhysical Attack: 415\NDefense: 1668\NMagic Attack: 3821\NSpirit: 2695\NSpeed: 412\NLuck: 514\N\NEquipment\N Weapon: Staff of World Tree (SSS)\NArmor: Aegis of Reflecting Water (S)\N{\fscx95}Armor: Apocalypse Dragon Ragnarobes (S)\N\N{\fscx}Skills\NInternet (SSS)\NTerra Drain (SSS)\NEnchanted Wings (S)\N Headlong Rush (B)
+Dialogue: 0,0:20:50.64,0:20:53.30,Italics,LORNA/ID,0,0,0,,My defense has finally \Nreached four digits, too.
+Dialogue: 0,0:20:53.30,0:20:56.26,Italics,LORNA/ID,0,0,0,,My defense was only \Naround nine until recently.
+Dialogue: 0,0:20:55.82,0:20:59.49,Sign_Basic,SIGN,0,0,0,,{\fad(250,0)\an7\fs20\p1\bord2\shad0\3c&HFFFFFF&\c&HF28C41&\pos(505,8)}m 0 0 l 130 0 l 130 155 l 0 155
+Dialogue: 0,0:20:55.82,0:20:59.49,Sign_Basic,SIGN,0,0,0,,{\an7\fs12\pos(508,12)\bord0\b1\4c&H000000&\4a&HA0&}Skills\N\N{\fs10}Internet (SSS)\N Terra Drain (SSS)\N Enchanted Wings (S)\N Headlong Rush (B)\N Reflection (S)\N Knowledge of Magic IX (D)\N Giant Killer III (D)\N Knowledge of Slaughter IV (D)\N Dragonslayer I (C)\N Knowledge of Alchemy V (D)\N Plant Killer I (F)\N Slime Killer I (G)\N Fish Killer I (F)
+Dialogue: 0,0:20:56.26,0:20:58.89,Italics,LORNA/ID,0,0,0,,I've got a bunch of skills \NI don't understand, too.
+Dialogue: 0,0:20:59.84,0:21:03.49,Main,LORNA,0,0,0,,Anyway, I guess I'll test \Nits equipped skill.
+Dialogue: 0,0:21:03.87,0:21:05.12,Main,LORNA,0,0,0,,Reflection!
+Dialogue: 0,0:21:04.20,0:21:06.45,RPG_Text_Box,SIGN,0,0,0,,{\pos(320,275.333)\an5\fs24}\h\hReflection\h\h
+Dialogue: 0,0:21:06.98,0:21:11.08,Main,LORNA,0,0,0,,This barrier reflects magic, so...
+Dialogue: 0,0:21:11.08,0:21:12.52,Main,LORNA,0,0,0,,Petit Heal!
+Dialogue: 0,0:21:11.58,0:21:12.83,RPG_Text_Box,SIGN,0,0,0,,{\pos(320,275.333)\an5\fs24}Petit Heal
+Dialogue: 0,0:21:15.32,0:21:17.70,Main,LORNA,0,0,0,,This could be a useful skill.
+Dialogue: 0,0:21:17.70,0:21:20.46,Main,LORNA,0,0,0,,With this, I don't have to fear \Nany spells that come at me,
+Dialogue: 0,0:21:20.46,0:21:23.38,Main,LORNA,0,0,0,,and it never hurts to have \Nmore defensive skills.
+Dialogue: 0,0:21:23.91,0:21:28.93,Main,LORNA,0,0,0,,I'm just glad this isn't a dangerous \Nitem that causes cata...
+Dialogue: 0,0:21:29.89,0:21:34.15,Sign_Basic,SIGN,0,0,0,,{\an7\pos(20,15)\fs20\p1\1a&H20&\bord4\shad0\3c&HF5D982&\c&HFFFFFF&}m 0 0 l 180 0 l 180 80 l 90 80 l 92 90 l 80 80 l 0 80
+Dialogue: 0,0:21:29.89,0:21:34.15,RPG_Text_Box,SIGN DARK,0,0,0,,{\b0\fs16\bord1\pos(110,130)}Equipped Skill: Reflection
+Dialogue: 0,0:21:29.89,0:21:34.15,Sign_Basic,SIGN POPUP,0,0,0,,{\an7\pos(25,20)\fs9\b1\shad0\c&H000000&\bord1\3c&HFFFFFF&}Temporarily creates a magic-reflecting barrier\Naround the caster.\N\N When casting spells that affect the caster while\Nthis skill is in use, the standard and reflected\Neffects are combined, doubling the power of\Nspells.
+Dialogue: 0,0:21:30.59,0:21:34.15,Main,LORNA,0,0,0,,It doubles the power of spells?
+Dialogue: 0,0:21:35.66,0:21:37.60,Main,LORNA,0,0,0,,Okay, onto the next thing.
+Dialogue: 0,0:21:37.73,0:21:39.15,Floating_Text_Box,SIGN,0,0,0,,{\pos(320,319)}Lorna pretends she didn't see that!
+Dialogue: 0,0:21:39.15,0:21:45.66,RPG_Text_Box,SIGN TOP,0,0,0,,{\an5\bord1\pos(215.333,82.667)\fs12\t(232,272,1\c&H424242&\3c&H101010&)}Commands
+Dialogue: 0,0:21:39.15,0:21:45.66,RPG_Text_Box,SIGN LEFT,0,0,0,,{\an4\pos(182,102)\fs13\t(232,272,1\c&H424242&\3c&H101010&)}Talk\h\h
+Dialogue: 0,0:21:39.15,0:21:45.66,RPG_Text_Box,SIGN LEFT,0,0,0,,{\an4\pos(182,117)\fs12\t(232,272,1\c&H424242&\3c&H101010&)}Stats\h
+Dialogue: 0,0:21:39.15,0:21:45.66,RPG_Text_Box,SIGN LEFT,0,0,0,,{\an4\pos(182,132)\fs12\fscx70\t(232,272,1\c&H424242&\3c&H101010&)}Equipment
+Dialogue: 0,0:21:39.15,0:21:45.66,RPG_Text_Box,SIGN RIGHT,0,0,0,,{\an4\pos(228,102)\fs12\t(232,272,1\c&H424242&\3c&H101010&)}Skills\h
+Dialogue: 0,0:21:39.15,0:21:45.66,RPG_Text_Box,SIGN RIGHT,0,0,0,,{\an4\pos(228,117)\fs12\t(232,272,1\c&H424242&\3c&H101010&)}Items\h
+Dialogue: 0,0:21:39.15,0:21:45.66,RPG_Text_Box,SIGN RIGHT,0,0,0,,{\an4\pos(228,132)\fs12\t(232,272,1\c&H424242&\3c&H101010&)}Search
+Dialogue: 0,0:21:39.65,0:21:45.66,RPG_Text_Box,SIGN FAR RIGHT,0,0,0,,{\pos(423.5,84)\an5\bord1\fs12\c&HFDFDFD&\3c&HFDFDFD&\t(24,105,1 \c\3c&H2A2A2A&)\t(1192,1231,1\c&H424242&\3c&H101010&)}\hSkills\h
+Dialogue: 0,0:21:39.65,0:21:45.66,RPG_Text_Box,SIGN FAR RIGHT,0,0,0,,{\an7\bord1\fs12\fscy110\pos(388,98)\c&HFDFDFD&\3c&HFDFDFD&\t(24,105,1 \c\3c&H2A2A2A&)\t(1192,1231,1\c&H424242&\3c&H101010&)}Internet\h\h\h\h\h\h\h\h\h\h\h\h\NSpells\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\NFast Travel\h\h\h\h\h\h\h\h
+Dialogue: 0,0:21:41.03,0:21:45.66,Sign_Basic,SIGN,0,0,0,,{\an7\fs20\p1\bord0\shad0\c&HF9F9F9&\pos(222,224)\t(18,102,1 \c&H2B2A2C&)}m 0 0 l 200 0 l 200 68 l 0 68
+Dialogue: 1,0:21:41.07,0:21:45.66,RPG_Text_Box,SIGN BOTTOM LEFT,0,0,0,,{\an7\bord0\fs12\fscy135\c&HFDFDFD&\3c&HFDFDFD&\t(24,105,1 \c\3c&H2A2A2A&)\pos(222,226.667)}Guugelheit Manor\N Ipple Woods\N City of Aiphoné\N Twilight Temple\N
+Dialogue: 0,0:21:41.07,0:21:45.66,RPG_Text_Box,SIGN BOTTOM RIGHT,0,0,0,,{\an7\bord0\fs12\fscy135\c&HFDFDFD&\3c&HFDFDFD&\t(24,105,1 \c\3c&H2A2A2A&)\pos(326,226.667)}Elf Village\N Port Town of Aquas
+Dialogue: 0,0:21:39.74,0:21:41.55,Main,LORNA,0,0,0,,Fast travel.
+Dialogue: 0,0:21:42.03,0:21:45.66,Main,LORNA,0,0,0,,It'll take me to these places, right?
+Dialogue: 0,0:21:46.20,0:21:48.33,Main,LORNA,0,0,0,,Might as well try it.
+Dialogue: 0,0:21:48.77,0:21:50.58,Main,LORNA,0,0,0,,I'll go to Aiphoné first.
+Dialogue: 0,0:21:53.20,0:21:59.07,Main,EMPLOYEE,0,0,0,,Excuse me, but I heard a loud noise. \NAre you all right?
+Dialogue: 0,0:21:59.07,0:22:00.57,Main,EMPLOYEE,0,0,0,,Excuse me...
+Dialogue: 0,0:22:04.72,0:22:07.20,Main,LORNA,0,0,0,,Ah. I see.
+Dialogue: 0,0:22:07.85,0:22:10.02,Floating_Text_Box,SIGN,0,0,0,,{\fad(125,0)\pos(320,319)}Be careful! It cannot be used indoors!
+Dialogue: 0,0:22:14.10,0:22:17.23,Sign_Basic,Credits,0,0,0,,{\fad(0,450)\fsArial\b1\fs16\shad0}Translation: Sho Stifler\NTiming: Krzysztof Kunc\NEditing: Zachary Carlysle\NQuality Control: Gabriella Alabanza\NFinal Quality Control: Rei Miyasaka
+
