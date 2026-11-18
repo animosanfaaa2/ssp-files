@@ -1,0 +1,33 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Returner - Default,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Returner - Italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Returner - Italics - Top,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: Returner - Top,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: Returner - Flashback,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Returner - Flashback  Top,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: Episode Title,Times New Roman,20,&H00E6F0E0,&H000000FF,&H003F6132,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,911,157,156,1
+Style: sign_565_4_Shadow_World,Times New Roman,16,&H00FFFFFF,&H000000FF,&H00817445,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,263,261,118,1
+Style: sign_565_5_Walled_City_Ever,Times New Roman,16,&H00FFFFFF,&H000000FF,&H00817445,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,229,227,118,1
+Style: sign_3219_13_Episode_13__Into,Times New Roman,20,&H00E6F0E0,&H000000FF,&H003F6132,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,26,338,114,1
+Style: sign_13437_62_Feudal_Lord_Wilh,Times New Roman,16,&H00FFFFFF,&H000000FF,&H007D6E26,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,257,123,130,1
+Style: sign_39009_274_Episode_14__Judg,Times New Roman,20,&H00E6F0E0,&H000000FF,&H003F6132,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0,427,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:22.50,0:02:26.50,Episode Title,SIGN,0,0,0,,{\fad(653,521)\blur3.5\q2\an3\i0\b0\3c&H447135&\pos(342.667,306.833)}Episode 19
+Dialogue: 0,0:02:22.50,0:02:26.50,Episode Title,SIGN,0,0,0,,{\fad(653,521)\blur3.5\q2\an3\pos(547.67,290.5)}{\fs26\3c&H7AAE67&} {\3c&H447135&\b0}Awakening
+Dialogue: 0,0:23:35.56,0:23:40.02,Episode Title,SIGN,0,0,0,,{\fad(653,1)\blur3.5\q2\an3\b0\pos(336.67,302.5)\3c&H739F64&}Episode 20
+Dialogue: 0,0:23:35.56,0:23:40.02,Episode Title,SIGN,0,0,0,,{\fad(653,1)\blur3.5\q2\an3\pos(596.67,286.5)}{\fs26\3c&H7AAE67&}Words of Destruction
+
