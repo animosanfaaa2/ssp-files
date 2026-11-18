@@ -1,0 +1,322 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: DefaultItalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Signs,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,30,30,18,0
+Style: Credits,Arial,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,30,30,18,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:13.72,0:01:22.65,Signs,TITLECARD,0,0,0,,CHITOSE IS IN THE RAMUNE BOTTLE
+Dialogue: 0,0:01:33.26,0:01:37.20,Default,TOMINAGA,0,0,0,,Are you sure about this? \NThe outcome is obvious.
+Dialogue: 0,0:01:37.20,0:01:40.70,Default,MISAKI,0,0,0,,Way to underestimate my star player there.
+Dialogue: 0,0:01:41.13,0:01:43.38,Default,TOMINAGA,0,0,0,,Fuji High is a strong team,
+Dialogue: 0,0:01:43.38,0:01:46.92,Default,TOMINAGA,0,0,0,,and the combo of her and the point \Nguard is a real threat to us, too.
+Dialogue: 0,0:01:47.29,0:01:50.96,Default,MISAKI,0,0,0,,So you're saying the whole team, \NNana included, is a worthy opponent,
+Dialogue: 0,0:01:50.96,0:01:54.22,Default,MISAKI,0,0,0,,but Umi isn't worth much on her own?
+Dialogue: 0,0:01:56.28,0:02:00.11,Default,TOMINAGA,0,0,0,,I'm saying they're only a threat {\i1}together{\i0}.
+Dialogue: 0,0:02:00.61,0:02:03.85,Default,TOMINAGA,0,0,0,,Are you projecting your old self onto her?
+Dialogue: 0,0:02:07.08,0:02:08.16,Default,MISAKI,0,0,0,,Not at all.
+Dialogue: 0,0:02:08.65,0:02:13.28,Default,MISAKI,0,0,0,,The walls she's faced up against \Nare far taller than any I ever did.
+Dialogue: 0,0:02:14.13,0:02:18.20,Default,TOMINAGA,0,0,0,,I'll have you know my warriors \Nare no slouches either.
+Dialogue: 0,0:02:21.19,0:02:23.85,Default,MISAKI,0,0,0,,Ashi High never changes, huh?
+Dialogue: 0,0:02:32.71,0:02:33.72,Default,MAI,0,0,0,,Okay…
+Dialogue: 0,0:02:34.72,0:02:35.93,Default,MAI,0,0,0,,Shall we?
+Dialogue: 0,0:02:36.87,0:02:38.31,Default,HARU,0,0,0,,Rules?
+Dialogue: 0,0:02:38.31,0:02:41.72,Default,MAI,0,0,0,,All makes are worth one point, \Nand first to ten wins.
+Dialogue: 0,0:02:41.72,0:02:43.85,Default,MAI,0,0,0,,We switch when possession changes hands.
+Dialogue: 0,0:02:44.11,0:02:45.73,Default,MAI,0,0,0,,You can start us off.
+Dialogue: 0,0:02:45.73,0:02:49.82,Default,HARU,0,0,0,,Wow, that's awfully generous of ya.
+Dialogue: 0,0:02:50.27,0:02:51.51,Default,SAKU,0,0,0,,What does she mean?
+Dialogue: 0,0:02:53.29,0:02:56.57,Default,YUZUKI,0,0,0,,Umi is a slasher—she scores \Nfrom close to the rim,
+Dialogue: 0,0:02:56.57,0:02:59.40,Default,YUZUKI,0,0,0,,while Todo can also hit threes from deep.
+Dialogue: 0,0:03:00.38,0:03:03.02,Default,YUZUKI,0,0,0,,By making everything \Nworth one point equally,
+Dialogue: 0,0:03:03.02,0:03:06.24,Default,YUZUKI,0,0,0,,she might be giving her a handicap \Ndue to the height gap.
+Dialogue: 0,0:03:06.24,0:03:08.25,Default,YUZUKI,0,0,0,,And she's even letting her go first?
+Dialogue: 0,0:03:08.82,0:03:10.50,Default,YUZUKI,0,0,0,,She's looking down on her.
+Dialogue: 0,0:03:12.64,0:03:14.66,Default,MAI,0,0,0,,Got a problem with that?
+Dialogue: 0,0:03:14.66,0:03:18.83,Default,HARU,0,0,0,,Nah. I'm thankful \Nyou even agreed to play me.
+Dialogue: 0,0:03:19.51,0:03:20.80,Default,HARU,0,0,0,,That said…
+Dialogue: 0,0:03:20.80,0:03:24.02,Default,HARU,0,0,0,,If I win, we go again—\Nunder fairer rules this time.
+Dialogue: 0,0:03:24.38,0:03:26.39,Default,MAI,0,0,0,,Now that's what I like to hear.
+Dialogue: 0,0:03:34.32,0:03:35.44,Default,MAI,0,0,0,,Oh?
+Dialogue: 0,0:03:35.77,0:03:37.74,Default,HARU,0,0,0,,Feeling a little more motivated now?
+Dialogue: 0,0:03:38.04,0:03:41.54,Default,MAI,0,0,0,,We've pretty much never been \Nmatched up before.
+Dialogue: 0,0:03:41.54,0:03:44.30,Default,MAI,0,0,0,,You felt thrice as fast \Nas what I'd planned for.
+Dialogue: 0,0:03:44.62,0:03:48.79,Default,YUZUKI,0,0,0,,Umi's lightning quick with her \Nfirst step and direction changes.
+Dialogue: 0,0:03:48.79,0:03:51.63,Default,YUZUKI,0,0,0,,It's not easy to steal the ball off her.
+Dialogue: 0,0:03:53.71,0:03:55.30,Default,MAI,0,0,0,,Okay, one more time.
+Dialogue: 0,0:03:55.63,0:03:57.51,Default,HARU,0,0,0,,Blink, and I'll leave you in the dust.
+Dialogue: 0,0:04:09.09,0:04:11.23,Default,MAI,0,0,0,,Aomi, was it?
+Dialogue: 0,0:04:11.55,0:04:13.07,Default,HARU,0,0,0,,Haru's fine by me.
+Dialogue: 0,0:04:13.07,0:04:16.32,Default,MAI,0,0,0,,Way to go, Haru. You can call me Mai, too.
+Dialogue: 0,0:04:16.72,0:04:19.60,Default,HARU,0,0,0,,Okay, Mai. Let's keep going.
+Dialogue: 0,0:04:19.60,0:04:22.66,Default,MAI,0,0,0,,Nah. I see that you're good, \Nso that's all you get.
+Dialogue: 0,0:04:22.66,0:04:25.41,Default,HARU,0,0,0,,Now, what's that supposed to mean?
+Dialogue: 0,0:04:39.99,0:04:41.26,Default,MAI,0,0,0,,You tried.
+Dialogue: 0,0:04:41.54,0:04:45.00,Default,MAI,0,0,0,,But that won't be effective against \Nplayers with a similar vertical to yours.
+Dialogue: 0,0:04:45.44,0:04:46.52,Default,HARU,0,0,0,,Damn.
+Dialogue: 0,0:04:46.81,0:04:48.49,Default,YUZUKI,0,0,0,,I saw it coming.
+Dialogue: 0,0:04:48.49,0:04:50.39,Default,SAKU,0,0,0,,It's that height gap, isn't it?
+Dialogue: 0,0:04:50.77,0:04:53.65,Default,YUZUKI,0,0,0,,If Todo tried to get her shot off,
+Dialogue: 0,0:04:53.65,0:04:58.84,Default,YUZUKI,0,0,0,,I don't know if I could block it \Neven if I jumped to my max vertical.
+Dialogue: 0,0:04:59.48,0:05:03.41,Default,YUZUKI,0,0,0,,But against Haru, \Na light jump is often all it takes.
+Dialogue: 0,0:05:03.82,0:05:06.39,Default,SAKU,0,0,0,,So even if you're a bit late, \Nyou can still get there?
+Dialogue: 0,0:05:07.01,0:05:11.75,Default,YUZUKI,0,0,0,,Umi has an extraordinary hang time, \Nbut so does Todo.
+Dialogue: 0,0:05:11.75,0:05:16.32,Default,YUZUKI,0,0,0,,And if there's no hang time advantage, \Nthe taller player will win.
+Dialogue: 0,0:05:18.24,0:05:21.18,Default,YUZUKI,0,0,0,,Don't you dare pity her, Chitose.
+Dialogue: 0,0:05:22.53,0:05:25.23,Default,YUZUKI,0,0,0,,She's trying to lead by example here.
+Dialogue: 0,0:05:28.93,0:05:31.38,Default,MAI,0,0,0,,Yeah, you have to press me.
+Dialogue: 0,0:05:32.89,0:05:33.98,Default,MAI,0,0,0,,It's too bad.
+Dialogue: 0,0:05:41.49,0:05:44.95,Default,MAI,0,0,0,,This could've gotten dicey if you'd \Nhad an extra 20 centimeters on you.
+Dialogue: 0,0:05:44.95,0:05:49.45,Default,MAI,0,0,0,,But basketball's all about that \N20 centimeters you wish you had.
+Dialogue: 0,0:05:49.86,0:05:54.00,Default,MAI,0,0,0,,Man, I wish I could've played a \N170-centimeter version of you.
+Dialogue: 0,0:05:55.57,0:05:58.92,Default,HARU,0,0,0,,And I wish you'd stop talking \Nlike this is all over already.
+Dialogue: 0,0:05:59.17,0:06:00.42,Default,MAI,0,0,0,,You want to keep going?
+Dialogue: 0,0:06:00.74,0:06:02.93,Default,HARU,0,0,0,,Damn right I do. \NAnd I'm gonna kick your ass.
+Dialogue: 0,0:06:05.41,0:06:07.55,Default,YOH,0,0,0,,Mai Todo was incredible, huh?
+Dialogue: 0,0:06:07.55,0:06:10.53,Default,SEN,0,0,0,,I didn't expect Umi to get \Ncrushed like that, though.
+Dialogue: 0,0:06:10.53,0:06:12.22,Default,KOTO,0,0,0,,I mean, it's a 20-centimeter height gap!
+Dialogue: 0,0:06:12.22,0:06:14.56,Default,BASKETB,0,0,0,,Height counts as a talent, too.
+Dialogue: 0,0:06:14.56,0:06:16.34,Default,BASKETC,0,0,0,,What a letdown.
+Dialogue: 0,0:06:16.34,0:06:19.26,Default,BASKETC,0,0,0,,So much for Umi-san always \Nbarking orders like she's all that.
+Dialogue: 0,0:06:19.26,0:06:21.78,Default,KOTO,0,0,0,,If Nana-san had been \Nour captain instead…
+Dialogue: 0,0:06:23.55,0:06:25.45,Default,YUZUKI,0,0,0,,Okay, stay focused!
+Dialogue: 0,0:06:28.97,0:06:31.13,Default,MISAKI,0,0,0,,How long are you going to stand there for?
+Dialogue: 0,0:06:31.13,0:06:32.40,Default,SAKU,0,0,0,,Oh, uh…
+Dialogue: 0,0:06:32.40,0:06:35.44,Default,MISAKI,0,0,0,,Go drag that idiot back already.
+Dialogue: 0,0:06:49.89,0:06:51.47,Default,SAKU,0,0,0,,Heya, shorty.
+Dialogue: 0,0:06:53.25,0:06:57.23,Default,HARU,0,0,0,,Took you long enough \Nto come console me, bossman.
+Dialogue: 0,0:06:57.64,0:07:00.19,Default,SAKU,0,0,0,,Want me to give you a kiss \Nto the forehead?
+Dialogue: 0,0:07:00.19,0:07:03.74,Default,HARU,0,0,0,,I said console, not embarrass.
+Dialogue: 0,0:07:06.69,0:07:09.44,Default,SAKU,0,0,0,,Looks like you're dealing with \Nquite the formidable rival.
+Dialogue: 0,0:07:10.75,0:07:12.74,Default,HARU,0,0,0,,Rival, eh?
+Dialogue: 0,0:07:13.02,0:07:15.81,Default,HARU,0,0,0,,It hurt that she didn't even know my name.
+Dialogue: 0,0:07:15.81,0:07:18.13,Default,HARU,0,0,0,,That kinda suck—ow!
+Dialogue: 0,0:07:18.13,0:07:22.64,Default,SAKU,0,0,0,,Are you stupid? Even I don't remember \Nmy opponents' faces and names.
+Dialogue: 0,0:07:24.30,0:07:26.76,Default,SAKU,0,0,0,,But I remember their game vividly.
+Dialogue: 0,0:07:27.77,0:07:29.89,Default,SAKU,0,0,0,,Think back to what Mai Todo said.
+Dialogue: 0,0:07:30.36,0:07:33.32,Flashback,MAI,0,0,0,,You felt thrice as fast \Nas what I'd planned for.
+Dialogue: 0,0:07:33.97,0:07:39.12,Default,SAKU,0,0,0,,You wouldn't "plan for" an opponent \Nyou don't remember at all.
+Dialogue: 0,0:07:41.82,0:07:42.90,Default,HARU,0,0,0,,I see.
+Dialogue: 0,0:07:51.67,0:07:57.72,DefaultItalics,SAKU,0,0,0,,Yuko once said she played tennis for fun, \Nnot worrying about competing.
+Dialogue: 0,0:07:58.45,0:08:02.84,DefaultItalics,SAKU,0,0,0,,I've never looked down on that casual \Nmindset toward sports, and I never will.
+Dialogue: 0,0:08:05.44,0:08:08.29,DefaultItalics,SAKU,0,0,0,,"I could throw the ball farther \Nthan I could yesterday,"
+Dialogue: 0,0:08:08.97,0:08:11.19,DefaultItalics,SAKU,0,0,0,,"I got my first hit,"
+Dialogue: 0,0:08:11.19,0:08:13.05,DefaultItalics,SAKU,0,0,0,,"I easily caught a fly ball."
+Dialogue: 0,0:08:14.39,0:08:18.08,DefaultItalics,SAKU,0,0,0,,There was once a time when just that \Nwas enough to make me happy.
+Dialogue: 0,0:08:20.48,0:08:22.94,Default,YUKO,0,0,0,,Saku! Haru!
+Dialogue: 0,0:08:28.59,0:08:32.78,Default,SAKU,0,0,0,,Wouldn't it be nice to play sports \Njust for fun like her?
+Dialogue: 0,0:08:32.78,0:08:35.79,Default,HARU,0,0,0,,It's impossible for people like us.
+Dialogue: 0,0:08:36.33,0:08:38.65,Default,HARU,0,0,0,,The game has taken \Neven our souls prisoner.
+Dialogue: 0,0:08:40.30,0:08:43.92,DefaultItalics,SAKU,0,0,0,,We put our bodies on the line \Nevery day from a young age,
+Dialogue: 0,0:08:44.55,0:08:49.06,DefaultItalics,SAKU,0,0,0,,experience many setbacks, and spend \Nmany a sleepless night over them…
+Dialogue: 0,0:08:50.42,0:08:54.22,DefaultItalics,SAKU,0,0,0,,Still, we want to be better—\Nwe strive to be the best.
+Dialogue: 0,0:08:55.11,0:09:00.24,DefaultItalics,SAKU,0,0,0,,And while I may have quit, \Nthe game still won't let my soul go,
+Dialogue: 0,0:09:00.24,0:09:03.32,DefaultItalics,SAKU,0,0,0,,so maybe saying it's been \Nheld prisoner is all too accurate.
+Dialogue: 0,0:09:04.96,0:09:07.88,Default,HARU,0,0,0,,What'd you make of what Mai said?
+Dialogue: 0,0:09:07.88,0:09:12.01,Default,SAKU,0,0,0,,About the 20-centimeter thing? \NShe's undeniably right.
+Dialogue: 0,0:09:12.01,0:09:15.24,Default,HARU,0,0,0,,I know, right? I think so too.
+Dialogue: 0,0:09:15.78,0:09:21.25,Default,HARU,0,0,0,,But maybe the tall players \Nhave problems of their own.
+Dialogue: 0,0:09:21.72,0:09:26.53,Default,HARU,0,0,0,,Running fast and jumping high at that \Nsize always carries an injury risk.
+Dialogue: 0,0:09:26.53,0:09:28.38,Default,HARU,0,0,0,,She may be a basketball star,
+Dialogue: 0,0:09:28.38,0:09:33.26,Default,HARU,0,0,0,,but as a girl, she might've \Nbeen teased and bullied.
+Dialogue: 0,0:09:33.95,0:09:39.59,Default,HARU,0,0,0,,I can't resent someone for their gifts \Nwithout walking a mile in their shoes.
+Dialogue: 0,0:09:42.48,0:09:45.27,Default,HARU,0,0,0,,Can I ask you something?
+Dialogue: 0,0:09:46.58,0:09:49.28,Default,HARU,0,0,0,,Do you think hard work always pays off?
+Dialogue: 0,0:09:49.28,0:09:51.02,Default,HARU,0,0,0,,If I keep working my ass off,
+Dialogue: 0,0:09:51.02,0:09:56.16,Default,HARU,0,0,0,,can I beat Mai and even players \Nbetter than her someday?
+Dialogue: 0,0:09:57.15,0:10:02.80,DefaultItalics,SAKU,0,0,0,,Right now, Haru must be clinging \Nto a very abstract, pure form of hope.
+Dialogue: 0,0:10:03.86,0:10:08.78,DefaultItalics,SAKU,0,0,0,,I felt like I was being asked to tell her \Nthat she hadn't lived her life all wrong.
+Dialogue: 0,0:10:10.47,0:10:13.18,Default,SAKU,0,0,0,,I don't know about that. However…
+Dialogue: 0,0:10:13.91,0:10:17.94,Default,SAKU,0,0,0,,Just as nobody can prove conclusively \Nthat hard work pays off,
+Dialogue: 0,0:10:17.94,0:10:21.57,Default,SAKU,0,0,0,,nobody can prove that hard work \N{\i1}doesn't{\i0} pay off, either.
+Dialogue: 0,0:10:23.20,0:10:28.15,Default,SAKU,0,0,0,,If you'd put up an extra hundred shots \Na day, maybe you could've been better.
+Dialogue: 0,0:10:28.15,0:10:30.34,Default,SAKU,0,0,0,,Maybe even the best.
+Dialogue: 0,0:10:30.86,0:10:34.04,Default,SAKU,0,0,0,,Now what if you did two hundred \Nor three hundred?
+Dialogue: 0,0:10:35.24,0:10:38.48,Default,SAKU,0,0,0,,The only one who can find out \Nthe answer to that question is you.
+Dialogue: 0,0:10:38.48,0:10:42.26,Default,SAKU,0,0,0,,If you really want to know, \Nyou'll just have to try it yourself.
+Dialogue: 0,0:10:44.31,0:10:46.61,Default,HARU,0,0,0,,I'm glad you're the one I asked.
+Dialogue: 0,0:10:46.61,0:10:49.88,Default,HARU,0,0,0,,That's just the kinda answer I like. \NLove you, baby.
+Dialogue: 0,0:10:53.57,0:10:56.64,Default,HARU,0,0,0,,I'm gonna battle. Don't you \Nrun away from the fight, either.
+Dialogue: 0,0:11:22.54,0:11:24.04,Signs,SIGN,0,0,0,,JUMBO YAKISOBA FOR STUDENTS\NYOU ORDER, YOU FINISH
+Dialogue: 0,0:11:22.99,0:11:24.04,Default,KAITO,0,0,0,,Ma'am!
+Dialogue: 0,0:11:24.04,0:11:25.79,Default,KAITO,0,0,0,,Four jumbos with soy sauce.
+Dialogue: 0,0:11:25.79,0:11:29.79,Default,OBACHAN,0,0,0,,Not again. You kids are ruining \Nmy bottom line here.
+Dialogue: 0,0:11:30.10,0:11:32.42,Default,OBACHAN,0,0,0,,There's five of you. \NWhat'll the missy have?
+Dialogue: 0,0:11:32.42,0:11:34.51,Default,HARU,0,0,0,,I'm getting the jumbo.
+Dialogue: 0,0:11:34.51,0:11:36.66,Default,OBACHAN,0,0,0,,Oh, so it's the skinny four-eyes.
+Dialogue: 0,0:11:36.66,0:11:39.64,Default,KENTA,0,0,0,,I'll have a regular yakisoba \Nwith Worcestershire sauce.
+Dialogue: 0,0:11:39.64,0:11:42.93,Default,OBACHAN,0,0,0,,Don't be a wimp. \NYou're having a jumbo, too.
+Dialogue: 0,0:11:43.22,0:11:44.52,Default,SAKU,0,0,0,,Pick a side, lady.
+Dialogue: 0,0:11:47.52,0:11:51.85,Default,KAITO,0,0,0,,Ucchi and Yuzuki probably count \Ncalories, so they're one thing,
+Dialogue: 0,0:11:51.85,0:11:53.36,Default,KAITO,0,0,0,,but didn't you invite Yuko?
+Dialogue: 0,0:11:56.10,0:11:58.41,Default,SAKU,0,0,0,,She said she didn't want \Nseaweed stuck in her teeth.
+Dialogue: 0,0:11:59.86,0:12:01.29,Default,HARU,0,0,0,,Problem?
+Dialogue: 0,0:12:03.79,0:12:04.62,Default,KAITO,0,0,0,,So…
+Dialogue: 0,0:12:05.15,0:12:07.00,Default,KAITO,0,0,0,,Got a crush on anybody, Kenta?
+Dialogue: 0,0:12:08.22,0:12:09.92,Default,KENTA,0,0,0,,Where'd that come from, Asano?
+Dialogue: 0,0:12:10.42,0:12:13.88,Default,KAITO,0,0,0,,I mean, summer's the season of love. \NLove and romance!
+Dialogue: 0,0:12:13.88,0:12:17.66,Default,KAITO,0,0,0,,We had all these couples cropping up \Nonce summer came around last year.
+Dialogue: 0,0:12:17.66,0:12:19.86,Default,KAITO,0,0,0,,Gah, screw them all!
+Dialogue: 0,0:12:19.86,0:12:24.06,Default,KAZUKI,0,0,0,,On the other hand, lots of love stories \Nended right as summer went away, too.
+Dialogue: 0,0:12:24.06,0:12:25.89,Default,KENTA,0,0,0,,Get rekt, I say.
+Dialogue: 0,0:12:26.23,0:12:28.23,Default,KAITO,0,0,0,,So, what's the deal, Kenta?
+Dialogue: 0,0:12:29.31,0:12:32.27,Default,KENTA,0,0,0,,I don't know if this is \Nappropriate to ask,
+Dialogue: 0,0:12:32.27,0:12:34.96,Default,KENTA,0,0,0,,but let's say hypothetically—\Npurely hypothetically…
+Dialogue: 0,0:12:35.40,0:12:38.85,Default,KENTA,0,0,0,,If your crush liked a friend of yours,
+Dialogue: 0,0:12:38.85,0:12:41.83,Default,KENTA,0,0,0,,or if you and your friend \Nliked the same person,
+Dialogue: 0,0:12:42.66,0:12:44.49,Default,KENTA,0,0,0,,what do you all think you'd do?
+Dialogue: 0,0:12:55.53,0:12:57.18,Default,KAITO,0,0,0,,What's this, Kenta?
+Dialogue: 0,0:12:57.18,0:12:58.98,Default,KAITO,0,0,0,,You saying we're rivals?
+Dialogue: 0,0:12:58.98,0:13:00.34,Default,KENTA,0,0,0,,I-I'm not!
+Dialogue: 0,0:13:00.34,0:13:02.23,Default,KAITO,0,0,0,,Is it Ucchi? Yuzuki?
+Dialogue: 0,0:13:02.23,0:13:05.60,Default,KAITO,0,0,0,,Wait, surely not Haru, right?
+Dialogue: 0,0:13:05.60,0:13:09.13,Default,HARU,0,0,0,,Hello? What do you mean, surely not?
+Dialogue: 0,0:13:09.13,0:13:13.52,Default,HARU,0,0,0,,Oho, Yamazaki? Got them hots \Nfor dear Haru-chan, have we?
+Dialogue: 0,0:13:13.52,0:13:16.70,Default,KENTA,0,0,0,,No, no! There's absolutely \Nzero chance of that!
+Dialogue: 0,0:13:16.70,0:13:18.36,Default,KENTA,0,0,0,,Don't worry, Aomi-san!
+Dialogue: 0,0:13:18.36,0:13:22.70,Default,HARU,0,0,0,,Listen, Yamazaki, getting that as \Na genuine reaction kinda sucks.
+Dialogue: 0,0:13:23.63,0:13:26.71,DefaultItalics,SAKU,0,0,0,,I'm glad Kaito responded first.
+Dialogue: 0,0:13:26.71,0:13:30.71,DefaultItalics,SAKU,0,0,0,,But I feel bad that he had \Nto be the one to do it.
+Dialogue: 0,0:13:31.54,0:13:34.50,DefaultItalics,SAKU,0,0,0,,That one name he left out, \Nlikely not even on purpose,
+Dialogue: 0,0:13:34.50,0:13:37.59,DefaultItalics,SAKU,0,0,0,,felt like a see-saw left \Nall by itself at dusk,
+Dialogue: 0,0:13:38.12,0:13:40.20,DefaultItalics,SAKU,0,0,0,,slowing down and coming to a standstill.
+Dialogue: 0,0:13:42.27,0:13:44.32,Default,KAITO,0,0,0,,I'm a simple guy.
+Dialogue: 0,0:13:44.32,0:13:46.56,Default,KAITO,0,0,0,,Yeah, I do want my crush to like me back,
+Dialogue: 0,0:13:46.56,0:13:49.42,Default,KAITO,0,0,0,,and it'd be amazing if we could \Nend up going out.
+Dialogue: 0,0:13:49.42,0:13:54.71,Default,KAITO,0,0,0,,But if a good friend of mine can \Nmake her happier than anybody else,
+Dialogue: 0,0:13:54.71,0:13:57.78,Default,KAITO,0,0,0,,then I'll think twice \Nbefore getting in the way.
+Dialogue: 0,0:13:58.89,0:14:04.11,Default,KAITO,0,0,0,,After all, the reason I fell for her is \Nthe smile she flashes when she's with him.
+Dialogue: 0,0:14:04.42,0:14:08.34,Default,KAITO,0,0,0,,So, like, if a time ever comes when \NI want to change that dynamic,
+Dialogue: 0,0:14:08.34,0:14:13.23,Default,KAITO,0,0,0,,it'll be when I'm convinced that I can \Nmake her smile more than him.
+Dialogue: 0,0:14:13.23,0:14:16.08,Default,KAITO,0,0,0,,Then I'm all in, even if \NI have to fight him for her.
+Dialogue: 0,0:14:16.88,0:14:19.84,Default,HARU,0,0,0,,I don't really get that, though.
+Dialogue: 0,0:14:20.26,0:14:23.26,Default,HARU,0,0,0,,{\i1}I{\i0} wanna be the one to make \Nthe person I love smile.
+Dialogue: 0,0:14:23.26,0:14:28.24,Default,HARU,0,0,0,,I wanna protect them from pain, and I \Nwanna be there when they want to cry.
+Dialogue: 0,0:14:28.24,0:14:30.44,Default,HARU,0,0,0,,I don't want anyone else taking my place.
+Dialogue: 0,0:14:31.20,0:14:32.60,Default,HARU,0,0,0,,Or something.
+Dialogue: 0,0:14:33.01,0:14:34.84,Default,KAITO,0,0,0,,You're a tough one, Haru.
+Dialogue: 0,0:14:34.84,0:14:38.73,Default,KENTA,0,0,0,,Anyway, yeah, summer's always exciting. \NAlways feels like the start of something.
+Dialogue: 0,0:14:38.73,0:14:43.49,Default,HARU,0,0,0,,Yeah, I get that. It can all change \Nover the span of one summer.
+Dialogue: 0,0:14:44.03,0:14:47.43,Default,HARU,0,0,0,,Summer's the one season that \Nhas a clear beginning and end.
+Dialogue: 0,0:14:48.09,0:14:50.30,Default,HARU,0,0,0,,So every time it's here,
+Dialogue: 0,0:14:50.30,0:14:53.38,Default,HARU,0,0,0,,I feel like I gotta change \Nin some way before it goes away.
+Dialogue: 0,0:14:55.88,0:14:59.10,Default,KAZUKI,0,0,0,,I wonder what will change this year.
+Dialogue: 0,0:15:02.46,0:15:03.21,Default,OBACHAN,0,0,0,,Welcome.
+Dialogue: 0,0:15:07.12,0:15:08.97,Default,WATAYA,0,0,0,,Chitose?
+Dialogue: 0,0:15:09.76,0:15:10.79,Default,SAKU,0,0,0,,Hey.
+Dialogue: 0,0:15:10.79,0:15:13.62,Default,WATAYA,0,0,0,,You must think this serves me right.
+Dialogue: 0,0:15:13.62,0:15:15.48,Default,SAKU,0,0,0,,What are you talking about?
+Dialogue: 0,0:15:17.23,0:15:19.02,Default,WATAYA,0,0,0,,If you haven't heard, never mind.
+Dialogue: 0,0:15:23.24,0:15:24.32,Default,OBACHAN,0,0,0,,Saku-boy.
+Dialogue: 0,0:15:25.18,0:15:31.12,Default,OBACHAN,0,0,0,,That man's been down in the dumps, \Nsaying he ruined a great talent.
+Dialogue: 0,0:15:31.42,0:15:34.15,Default,SAKU,0,0,0,,I don't think he ruined me or anything.
+Dialogue: 0,0:15:34.15,0:15:37.50,Default,SAKU,0,0,0,,Whatever the reason, I was the one \Nwho decided to quit the team.
+Dialogue: 0,0:15:37.78,0:15:41.90,Default,OBACHAN,0,0,0,,Well, not all grown-ups can be \Ngrown-up and right all the time.
+Dialogue: 0,0:15:41.90,0:15:44.01,Default,OBACHAN,0,0,0,,That's all I'm trying to say.
+Dialogue: 0,0:15:46.55,0:15:49.06,DefaultItalics,SAKU,0,0,0,,Hearing that now does nothing.
+Dialogue: 0,0:15:49.75,0:15:52.07,DefaultItalics,SAKU,0,0,0,,I'm still not gonna find \Nan exit for last summer.
+Dialogue: 0,0:15:57.41,0:15:58.57,Default,HARU,0,0,0,,Chitose.
+Dialogue: 0,0:15:59.64,0:16:00.65,Default,HARU,0,0,0,,You have visitors.
+Dialogue: 0,0:16:08.41,0:16:11.57,Default,SAKU,0,0,0,,Yusuke's injured and out for two weeks?
+Dialogue: 0,0:16:12.06,0:16:15.08,Default,HIRANO,0,0,0,,He sprained his ankle \Nsliding into home base.
+Dialogue: 0,0:16:15.73,0:16:19.71,Default,HIRANO,0,0,0,,The first round of the summer tourney \Nis next weekend. He won't make it back.
+Dialogue: 0,0:16:20.06,0:16:24.42,DefaultItalics,SAKU,0,0,0,,He didn't have to risk that in a practice \Ngame before the tournament.
+Dialogue: 0,0:16:25.09,0:16:29.72,DefaultItalics,SAKU,0,0,0,,But no, he's always had that passion \Nand drive for baseball, if nothing else.
+Dialogue: 0,0:16:30.28,0:16:33.40,DefaultItalics,SAKU,0,0,0,,I would've done the same \Nif I were the runner.
+Dialogue: 0,0:16:34.92,0:16:37.72,DefaultItalics,SAKU,0,0,0,,Yusuke couldn't play last year,
+Dialogue: 0,0:16:38.27,0:16:41.44,DefaultItalics,SAKU,0,0,0,,so this was finally his chance to go \Nfor the Summer Koshien, too.
+Dialogue: 0,0:16:45.84,0:16:47.24,Default,SAKU,0,0,0,,Who are you playing first?
+Dialogue: 0,0:16:47.50,0:16:48.78,Default,HIRANO,0,0,0,,Echi High.
+Dialogue: 0,0:16:48.78,0:16:51.20,Default,SAKU,0,0,0,,That guy has no luck with matchups either?
+Dialogue: 0,0:16:51.69,0:16:55.62,Default,SAKU,0,0,0,,So? Do you want me to get a bouquet \Nand go see how he's doing?
+Dialogue: 0,0:16:55.94,0:16:58.78,Default,HIRANO,0,0,0,,I'm gonna swallow my pride and ask, Saku.
+Dialogue: 0,0:17:00.85,0:17:02.17,Default,HIRANO,0,0,0,,Please come back to the team.
+Dialogue: 0,0:17:03.22,0:17:05.53,Default,SAKU,0,0,0,,Do you realize what you're asking?
+Dialogue: 0,0:17:06.13,0:17:08.89,Default,HIRANO,0,0,0,,It's sure to be a pitchers' duel \Nagainst Echi High.
+Dialogue: 0,0:17:09.46,0:17:11.38,Default,HIRANO,0,0,0,,We need your offense.
+Dialogue: 0,0:17:11.67,0:17:15.17,Default,SAKU,0,0,0,,Even so, having me won't guarantee a win.
+Dialogue: 0,0:17:15.95,0:17:17.76,Default,SAKU,0,0,0,,Don't take baseball too lightly.
+Dialogue: 0,0:17:18.64,0:17:22.35,Default,HIRANO,0,0,0,,We're asking you because you took \Nbaseball more seriously than anybody else!
+Dialogue: 0,0:17:22.74,0:17:25.21,Default,SAKU,0,0,0,,Did Yusuke tell you to come to me?
+Dialogue: 0,0:17:25.68,0:17:29.74,Default,HIRANO,0,0,0,,No. He actually asked us \Nto make sure you didn't find out.
+Dialogue: 0,0:17:30.08,0:17:35.62,Default,HIRANO,0,0,0,,Because then it wouldn't just be about \Nwhether you wanted to play again or not.
+Dialogue: 0,0:17:37.72,0:17:41.39,Default,HIRANO,0,0,0,,If you want us to apologize for back then, \Nwe'll apologize all you want!
+Dialogue: 0,0:17:41.39,0:17:44.50,Default,HIRANO,0,0,0,,Yusuke worked so hard \Nalong with us for the past year!
+Dialogue: 0,0:17:44.50,0:17:46.88,Default,HIRANO,0,0,0,,We want to give him a chance \Nto go out there and compete!
+Dialogue: 0,0:17:54.72,0:17:58.18,Default,HARU,0,0,0,,Enough of this, you hypocrite!
+Dialogue: 0,0:17:58.18,0:18:01.45,Default,HARU,0,0,0,,Where was all this \Nwhen Chitose quit the team?!
+Dialogue: 0,0:18:01.45,0:18:08.10,Default,HARU,0,0,0,,If you'd stood by him then, he'd still be \Nplaying the game he loves so much!
+Dialogue: 0,0:18:08.10,0:18:12.57,Default,HARU,0,0,0,,I'd get it if you hated him so much that \Nyou couldn't be bothered to stop him!
+Dialogue: 0,0:18:12.99,0:18:16.37,Default,HARU,0,0,0,,But if that's what it was, then stay \Nthe hell out of his life forever!
+Dialogue: 0,0:18:17.08,0:18:19.12,Default,HIRANO,0,0,0,,What the hell would {\i1}you{\i0} know?!
+Dialogue: 0,0:18:19.12,0:18:21.38,Default,HARU,0,0,0,,Heck, I don't even {\i1}want{\i0} to know.
+Dialogue: 0,0:18:21.38,0:18:25.19,Default,HARU,0,0,0,,Keep your gutless loser mentality \Nfar away from me.
+Dialogue: 0,0:18:25.71,0:18:31.03,Default,HARU,0,0,0,,In last year's summer tourney, you gave up\Non the game midway through.
+Dialogue: 0,0:18:31.03,0:18:35.54,Default,HARU,0,0,0,,"We put up a good fight against \Na powerhouse with this weak-ass team"?
+Dialogue: 0,0:18:35.54,0:18:38.10,Default,HARU,0,0,0,,That cop-out mentality \Nshowed in the way you played.
+Dialogue: 0,0:18:38.39,0:18:43.98,Default,HARU,0,0,0,,Chitose was the only one who tried to win \Nall the way to the last second.
+Dialogue: 0,0:18:44.87,0:18:47.96,Default,HARU,0,0,0,,Did the sight of a more gifted player \Ncrashing back to the ground
+Dialogue: 0,0:18:47.96,0:18:51.03,Default,HARU,0,0,0,,stroke your fragile little egos?
+Dialogue: 0,0:18:55.03,0:18:57.74,Default,SAKU,0,0,0,,Sorry. My answer's not gonna change.
+Dialogue: 0,0:19:00.48,0:19:02.18,Default,HIRANO,0,0,0,,Sorry to take up your time.
+Dialogue: 0,0:19:08.07,0:19:09.00,Default,HARU,0,0,0,,Chitose.
+Dialogue: 0,0:19:09.27,0:19:11.16,Default,HARU,0,0,0,,Wait for me till I get done with practice.
+Dialogue: 0,0:19:11.85,0:19:15.43,Default,HARU,0,0,0,,You can't go home alone today.
+Dialogue: 0,0:19:19.21,0:19:21.22,Default,SAKU,0,0,0,,That hurt, you jerk.
+Dialogue: 0,0:19:37.56,0:19:40.50,Default,HARU,0,0,0,,You see, I come here often.
+Dialogue: 0,0:19:40.50,0:19:44.21,Default,HARU,0,0,0,,Whenever basketball gets me down, \Nwhenever I'm upset,
+Dialogue: 0,0:19:44.21,0:19:46.31,Default,HARU,0,0,0,,whenever I'm about to fall apart,
+Dialogue: 0,0:19:47.42,0:19:51.36,Default,HARU,0,0,0,,and whenever I can't see a path ahead.
+Dialogue: 0,0:19:52.13,0:19:54.92,Default,SAKU,0,0,0,,I didn't know you had moments like that.
+Dialogue: 0,0:19:55.35,0:19:59.50,Default,HARU,0,0,0,,Heck, I'm a shrimp playing basketball. \NMy life's full of moments like that.
+Dialogue: 0,0:19:59.99,0:20:02.93,Default,HARU,0,0,0,,That's why I come here and scream—
+Dialogue: 0,0:20:02.93,0:20:06.43,Default,HARU,0,0,0,,scream my heart and soul \Ninto the Asuwa River.
+Dialogue: 0,0:20:06.73,0:20:09.69,Default,HARU,0,0,0,,"Umi, you massive moron!"
+Dialogue: 0,0:20:10.28,0:20:13.37,Default,SAKU,0,0,0,,Don't take it out on the river. \NTell your namesake, the ocean, that.
+Dialogue: 0,0:20:15.17,0:20:17.93,Default,HARU,0,0,0,,It's hard, trying to get to the top.
+Dialogue: 0,0:20:17.93,0:20:22.45,Default,HARU,0,0,0,,But luckily, I've always had \Nthe best teammates.
+Dialogue: 0,0:20:22.45,0:20:25.99,Default,HARU,0,0,0,,Even now, I have Nana, Sen, Yoh…
+Dialogue: 0,0:20:25.99,0:20:29.84,Default,HARU,0,0,0,,They may complain, but they \Ncome along with me for the ride.
+Dialogue: 0,0:20:31.24,0:20:36.38,Default,HARU,0,0,0,,Like Mai said, yeah, I'm terribly \Nflawed as a basketball player.
+Dialogue: 0,0:20:36.38,0:20:40.47,Default,HARU,0,0,0,,But as long as I have my teammates, \NI know I won't lose to her next time.
+Dialogue: 0,0:20:44.79,0:20:49.19,Default,HARU,0,0,0,,Do you remember our bet? The one \Nwe made on those swings that evening.
+Dialogue: 0,0:20:49.48,0:20:52.31,Flashback,SAKU,0,0,0,,The loser has to… Oh, I know.
+Dialogue: 0,0:20:52.90,0:20:57.49,Flashback,SAKU,0,0,0,,They have to reveal their deepest, \Ndarkest secrets to the winner someday.
+Dialogue: 0,0:20:57.49,0:20:58.95,Flashback,HARU,0,0,0,,You're on!
+Dialogue: 0,0:20:59.38,0:21:02.72,Default,HARU,0,0,0,,As the winner that day, \NHaru-chan orders you…
+Dialogue: 0,0:21:02.72,0:21:04.58,Default,HARU,0,0,0,,to spit it out, right here and right now!
+Dialogue: 0,0:21:05.63,0:21:09.43,DefaultItalics,SAKU,0,0,0,,The marble in my heart \Nmakes a gentle clink
+Dialogue: 0,0:21:10.29,0:21:15.34,DefaultItalics,SAKU,0,0,0,,against the glass walls of the bottle\N that it's been trapped in all this time.
+Dialogue: 0,0:21:16.55,0:21:18.09,Default,HARU,0,0,0,,It's okay.
+Dialogue: 0,0:21:18.39,0:21:23.02,Default,HARU,0,0,0,,If it becomes painful for you, \NI'll put a smile back on your face.
+Dialogue: 0,0:21:23.55,0:21:26.03,Default,HARU,0,0,0,,If it makes you wanna cry, \NI'll be here for you.
+Dialogue: 0,0:21:26.03,0:21:28.54,Default,HARU,0,0,0,,If it pisses you off, \NI'll get mad with you.
+Dialogue: 0,0:21:29.11,0:21:31.26,Default,HARU,0,0,0,,I'll light a fire under you \Nif you need it,
+Dialogue: 0,0:21:31.26,0:21:34.60,Default,HARU,0,0,0,,and if you fall to your knees, I'll give \Nyou the courage to stand back up.
+Dialogue: 0,0:21:35.44,0:21:37.81,Default,HARU,0,0,0,,So go on and tell me.
+Dialogue: 0,0:21:40.19,0:21:43.20,DefaultItalics,SAKU,0,0,0,,Yeah, she really is dazzling.
+Dialogue: 0,0:21:44.15,0:21:47.26,DefaultItalics,SAKU,0,0,0,,This is a load I've carried all by myself,
+Dialogue: 0,0:21:47.26,0:21:49.98,DefaultItalics,SAKU,0,0,0,,but I just might be able \Nto share it with her.
+Dialogue: 0,0:21:50.50,0:21:53.94,DefaultItalics,SAKU,0,0,0,,There's been a dark lull \Nhanging over my heart,
+Dialogue: 0,0:21:53.94,0:21:56.61,DefaultItalics,SAKU,0,0,0,,but she might be able \Nto blow it away for me.
+Dialogue: 0,0:21:58.19,0:22:00.61,DefaultItalics,SAKU,0,0,0,,Bright and powerful, like the sun above…
+Dialogue: 0,0:22:01.62,0:22:03.23,DefaultItalics,SAKU,0,0,0,,That's what this smile tells me.
+Dialogue: 0,0:22:05.01,0:22:09.60,Credits,CREDITS,0,0,0,,Translation: Sriram Gurunathan
+Dialogue: 0,0:22:09.60,0:22:13.06,Credits,CREDITS,0,0,0,,Subtitle Editing: Geoff Mazzolini\NSubtitle Timing: Krzysztof Kunc
+Dialogue: 0,0:22:13.06,0:22:17.07,Credits,CREDITS,0,0,0,,Quality Check: Riley Dalton\NTranslation Check: Rei Miyasaka
+Dialogue: 0,0:23:35.56,0:23:40.02,Signs,NEXTEPTITLE,0,0,0,,NEXT TIME: THE STEAMING ORIHIME\NAND THE MOPING HIKOBOSHI
+Dialogue: 0,0:23:36.79,0:23:39.75,Default,SAKU,0,0,0,,"The Steaming Orihime \Nand the Moping Hikoboshi."
+
