@@ -1,0 +1,330 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: sign_generic,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.96,0:00:05.96,Default,Kimizuka,0,0,0,,We finally meet, Mia Whitlock.
+Dialogue: 0,0:00:06.49,0:00:09.99,Default,Kimizuka,0,0,0,,Tell me how to change the future.
+Dialogue: 0,0:00:11.98,0:00:13.99,Default,Mia,0,0,0,,It's impossible.
+Dialogue: 0,0:00:14.50,0:00:15.37,Default,Kimizuka,0,0,0,,What?!
+Dialogue: 0,0:00:17.67,0:00:20.00,Default,Mia,0,0,0,,The future is unchangeable.
+Dialogue: 0,0:00:20.63,0:00:23.00,Default,Mia,0,0,0,,No matter how we struggle,
+Dialogue: 0,0:00:23.39,0:00:27.16,Default,Mia,0,0,0,,the end of the story doesn't change.
+Dialogue: 0,0:00:27.16,0:00:28.58,Default,Kimizuka,0,0,0,,No way...
+Dialogue: 0,0:00:28.58,0:00:30.76,Default,Kimizuka,0,0,0,,After all the work you did to get me here?
+Dialogue: 0,0:00:31.35,0:00:32.76,Default,Mia,0,0,0,,This was a setup.
+Dialogue: 0,0:00:33.56,0:00:39.52,Default,Mia,0,0,0,,Olivia wanted to ensure I meet you two, \Nthough I don't know why.
+Dialogue: 0,0:00:41.64,0:00:45.88,Default,Mia,0,0,0,,I have no interest in you, \Nnor do I have anything to say.
+Dialogue: 0,0:00:46.38,0:00:48.78,Default,Mia,0,0,0,,Will you please leave?
+Dialogue: 0,0:00:49.58,0:00:52.28,Default,Kimizuka,0,0,0,,I'm surprised how much you dislike me.
+Dialogue: 0,0:00:55.32,0:00:56.16,Default,Kimizuka,0,0,0,,But...
+Dialogue: 0,0:00:56.50,0:01:01.92,Default,Kimizuka,0,0,0,,Sorry, but I'm not leaving \Nuntil I've achieved my goal.
+Dialogue: 0,0:01:03.34,0:01:04.50,Default,Mia,0,0,0,,I see.
+Dialogue: 0,0:01:04.50,0:01:06.32,Default,Mia,0,0,0,,Do as you will then.
+Dialogue: 0,0:01:06.92,0:01:09.92,Default,Mia,0,0,0,,Put that back.
+Dialogue: 0,0:01:10.44,0:01:12.42,Default,Mia,0,0,0,,I'm done with my work.
+Dialogue: 0,0:01:12.42,0:01:14.63,Default,Mia,0,0,0,,I'm going to change and go to sleep.
+Dialogue: 0,0:01:15.06,0:01:16.48,Default,Kimizuka,0,0,0,,Mia Whitlock.
+Dialogue: 0,0:01:17.26,0:01:21.02,Default,Kimizuka,0,0,0,,Does this have something to do \Nwith your power?
+Dialogue: 0,0:01:22.03,0:01:25.52,Default,Mia,0,0,0,,Why should I answer?
+Dialogue: 0,0:01:26.31,0:01:30.53,Default,Kimizuka,0,0,0,,One of SPES's leaders had the same thing.
+Dialogue: 0,0:01:31.19,0:01:35.00,Default,Kimizuka,0,0,0,,A book that tells the future.
+Dialogue: 0,0:03:06.00,0:03:08.96,top,Sign,0,0,0,,EPISODE 7:\N SEARCHING FOR A SINGLE FUTURE
+Dialogue: 0,0:03:09.36,0:03:11.96,Default,Kimizuka,0,0,0,,This is a holy book, correct?
+Dialogue: 0,0:03:14.67,0:03:16.47,Default,Mia,0,0,0,,Yes, that's right.
+Dialogue: 0,0:03:17.03,0:03:20.47,Default,Mia,0,0,0,,There are 100,279 volumes.
+Dialogue: 0,0:03:21.00,0:03:26.98,Default,Mia,0,0,0,,These holy books were collected by myself \Nand the Priestesses that came before me.
+Dialogue: 0,0:03:27.84,0:03:31.75,Default,Mia,0,0,0,,My ability to see the future \Nis fragmented,
+Dialogue: 0,0:03:31.75,0:03:34.49,Default,Mia,0,0,0,,but it allows me \Nto see threats to the world.
+Dialogue: 0,0:03:34.98,0:03:40.35,Default,Mia,0,0,0,,Though, even if you know about the future, \Nyou can't change it.
+Dialogue: 0,0:03:40.35,0:03:43.49,Default,Mia,0,0,0,,So these are useless to most people.
+Dialogue: 0,0:03:43.85,0:03:46.75,Default,Kimizuka,0,0,0,,Nobody knows that.
+Dialogue: 0,0:03:47.16,0:03:50.00,Default,Kimizuka,0,0,0,,The future can't be set in stone.
+Dialogue: 0,0:03:52.44,0:03:55.51,Default,Mia,0,0,0,,I'll tell you a little about myself.
+Dialogue: 0,0:03:56.60,0:04:00.01,Default,Mia,0,0,0,,Ten years ago, I suddenly \Nstarted to mutter softly
+Dialogue: 0,0:04:00.68,0:04:05.20,Default,Mia,0,0,0,,that there would be a natural disaster.
+Dialogue: 0,0:04:05.86,0:04:10.02,Default,Mia,0,0,0,,The prophecies suddenly appear \Nas images in my mind.
+Dialogue: 0,0:04:10.78,0:04:13.52,Default,Mia,0,0,0,,I could foresee \Nlarge-scale terrorist attacks
+Dialogue: 0,0:04:13.52,0:04:16.03,Default,Mia,0,0,0,,and when important people are in danger.
+Dialogue: 0,0:04:16.59,0:04:21.78,Default,Mia,0,0,0,,My parents eventually made me out to be \Na child of God and started a religion.
+Dialogue: 0,0:04:23.28,0:04:28.68,Default,Mia,0,0,0,,My ability only allows me \Nto see threats to the world.
+Dialogue: 0,0:04:29.61,0:04:33.29,Default,Mia,0,0,0,,I couldn't tell the future \Nof any individual believer.
+Dialogue: 0,0:04:33.66,0:04:37.65,Default,Mia,0,0,0,,But my parents invented \Nprophecies from God
+Dialogue: 0,0:04:37.65,0:04:40.20,Default,Mia,0,0,0,,and took money from believers.
+Dialogue: 0,0:04:41.03,0:04:43.04,Default,Mia,0,0,0,,I told them to stop many times.
+Dialogue: 0,0:04:43.50,0:04:47.06,Default,Mia,0,0,0,,But each time, the grown-ups would hit me.
+Dialogue: 0,0:04:47.97,0:04:50.80,Default,Mia,0,0,0,,I was too young to resist.
+Dialogue: 0,0:04:51.36,0:04:53.63,Default,Mia,0,0,0,,I was locked underground,
+Dialogue: 0,0:04:54.16,0:04:58.12,Default,Mia,0,0,0,,and all I could do was watch \Nas my parents turned to evil.
+Dialogue: 0,0:04:59.90,0:05:04.65,Default,Mia,0,0,0,,But my life became so much worse.
+Dialogue: 0,0:05:04.95,0:05:09.87,Default,Mia,0,0,0,,The believers they'd deceived came \Nto hate us and set fire to our house.
+Dialogue: 0,0:05:09.87,0:05:13.50,Default,Mia,0,0,0,,The flames engulfed \Nmy parents in an instant.
+Dialogue: 0,0:05:14.16,0:05:16.71,Default,Mia,0,0,0,,They were doing something wrong...
+Dialogue: 0,0:05:17.25,0:05:22.27,Default,Mia,0,0,0,,But they were my only family, \Nand I wanted to save them somehow.
+Dialogue: 0,0:05:22.99,0:05:27.92,Default,Mia,0,0,0,,But I couldn't see a future \Nwhere they survived.
+Dialogue: 0,0:05:28.71,0:05:33.73,Default,Mia,0,0,0,,Because my parents \Nweren't important to the world.
+Dialogue: 0,0:05:35.92,0:05:39.49,Default,Mia,0,0,0,,They died, and I had no relatives left.
+Dialogue: 0,0:05:39.82,0:05:44.49,Default,Mia,0,0,0,,I was taken to a place \Nthat said it cared for orphans.
+Dialogue: 0,0:05:44.94,0:05:46.41,Default,Mia,0,0,0,,I was going to be killed.
+Dialogue: 0,0:05:46.41,0:05:47.99,Default,Mia,0,0,0,,I felt it coming.
+Dialogue: 0,0:05:48.44,0:05:51.30,Default,Mia,0,0,0,,But I didn't care.
+Dialogue: 0,0:05:51.79,0:05:56.44,Default,Mia,0,0,0,,My power couldn't save the lives \Nof the people close to me.
+Dialogue: 0,0:05:56.91,0:06:00.30,Default,Mia,0,0,0,,In fact, it had ruined many lives.
+Dialogue: 0,0:06:01.18,0:06:05.05,Default,Mia,0,0,0,,So I thought I needed to suffer for it.
+Dialogue: 0,0:06:06.07,0:06:06.89,Default,Mia,0,0,0,,But...
+Dialogue: 0,0:06:09.34,0:06:10.96,flashback,Siesta,0,0,0,,Mia Whitlock.
+Dialogue: 0,0:06:11.86,0:06:16.45,flashback,Siesta,0,0,0,,This time, do you want to use \Nyour power to protect the world?
+Dialogue: 0,0:06:17.71,0:06:21.37,Default,Mia,0,0,0,,That was how I met Senpai.
+Dialogue: 0,0:06:25.19,0:06:27.66,Default,Kimizuka,0,0,0,,Siesta was involved?
+Dialogue: 0,0:06:27.94,0:06:31.38,Default,Mia,0,0,0,,It was supposed to be the job \Nof the Phantom Thief,
+Dialogue: 0,0:06:31.38,0:06:34.16,Default,Mia,0,0,0,,but the Great Detective \Nstole me away instead.
+Dialogue: 0,0:06:34.69,0:06:38.04,Default,Mia,0,0,0,,"No matter what happens, \Nyou can't trust him," she said.
+Dialogue: 0,0:06:38.50,0:06:42.80,Default,Kimizuka,0,0,0,,What do you mean? \NIsn't the Phantom Thief a Tuner?
+Dialogue: 0,0:06:43.57,0:06:47.16,Default,Mia,0,0,0,,The Phantom Thief is a traitor.
+Dialogue: 0,0:06:47.16,0:06:50.81,Default,Mia,0,0,0,,The only one of the Tuners \Nto clearly violate the Federation Charter.
+Dialogue: 0,0:06:51.20,0:06:57.18,Default,Mia,0,0,0,,He stole one of the holy books \Nonly I'm allowed to touch.
+Dialogue: 0,0:06:57.69,0:07:03.82,Default,Mia,0,0,0,,And he sold the book \Nwith the prophecies of SPES to Seed.
+Dialogue: 0,0:07:03.82,0:07:06.80,Default,Kimizuka,0,0,0,,So that's why they had it?
+Dialogue: 0,0:07:06.80,0:07:08.35,Default,Mia,0,0,0,,Now you understand, right?
+Dialogue: 0,0:07:08.82,0:07:11.46,Default,Mia,0,0,0,,Even if you save someone,
+Dialogue: 0,0:07:11.46,0:07:14.33,Default,Mia,0,0,0,,your enemies will keep coming.
+Dialogue: 0,0:07:14.74,0:07:19.94,Default,Mia,0,0,0,,All you can do is keep pretending \Nto protect the world until it's destroyed.
+Dialogue: 0,0:07:20.72,0:07:25.74,Default,Mia,0,0,0,,No matter what future you choose, \Nyou'll always reach the bad ending.
+Dialogue: 0,0:07:26.52,0:07:30.47,Default,Mia,0,0,0,,So I will continue to fulfill \Nmy role here in this tower
+Dialogue: 0,0:07:30.47,0:07:33.60,Default,Mia,0,0,0,,until the end of the world.
+Dialogue: 0,0:07:34.11,0:07:36.09,Default,Mia,0,0,0,,I won't get my hopes up.
+Dialogue: 0,0:07:36.09,0:07:38.68,Default,Mia,0,0,0,,I won't try to change anything.
+Dialogue: 0,0:07:40.70,0:07:42.86,Default,Kimizuka,0,0,0,,I understand where you're coming from.
+Dialogue: 0,0:07:43.36,0:07:44.74,Default,Kimizuka,0,0,0,,But I'm sorry...
+Dialogue: 0,0:07:44.74,0:07:48.11,Default,Kimizuka,0,0,0,,I understand, but I don't agree.
+Dialogue: 0,0:07:53.27,0:07:58.50,Default,Kimizuka,0,0,0,,I'm going to teach you \Nhow uncertain the future really is.
+Dialogue: 0,0:08:01.72,0:08:04.51,Default,Mia,0,0,0,,Wh-What? What's going on?
+Dialogue: 0,0:08:04.82,0:08:08.01,Default,Kimizuka,0,0,0,,What's wrong? Didn't see this coming?
+Dialogue: 0,0:08:08.01,0:08:09.60,Default,Mia,0,0,0,,Of course not!
+Dialogue: 0,0:08:09.60,0:08:13.01,Default,Kimizuka,0,0,0,,Who do you think is with you?
+Dialogue: 0,0:08:13.64,0:08:15.39,Default,Mia,0,0,0,,W-Wait!
+Dialogue: 0,0:08:15.72,0:08:19.52,Default,Kimizuka,0,0,0,,Don't underestimate how much \Nof a trouble magnet I am!
+Dialogue: 0,0:08:22.37,0:08:24.48,Default,Mia,0,0,0,,Where are you taking me?
+Dialogue: 0,0:08:30.26,0:08:32.64,Default,Mia,0,0,0,,H-How did things end up like this?
+Dialogue: 0,0:08:33.50,0:08:35.38,Default,Mia,0,0,0,,What was that just now?
+Dialogue: 0,0:08:35.38,0:08:37.60,Default,Kimizuka,0,0,0,,Dunno. Terrorist attack?
+Dialogue: 0,0:08:37.60,0:08:39.50,Default,Mia,0,0,0,,How are you so calm?
+Dialogue: 0,0:08:39.89,0:08:42.25,Default,Kimizuka,0,0,0,,Terrorist attacks \Nare pretty normal, no?
+Dialogue: 0,0:08:42.53,0:08:44.63,Default,Mia,0,0,0,,They are {\i1}not{\i0} "pretty normal."
+Dialogue: 0,0:08:46.62,0:08:47.63,Default,Mia,0,0,0,,Sheesh.
+Dialogue: 0,0:08:48.15,0:08:52.14,Default,Mia,0,0,0,,Being with you just means extra trouble.
+Dialogue: 0,0:08:52.14,0:08:56.64,Default,Kimizuka,0,0,0,,Didn't Siesta ever tell you \Nthat it's important to keep things moving?
+Dialogue: 0,0:08:56.64,0:08:59.14,Default,Mia,0,0,0,,What's that supposed to mean?
+Dialogue: 0,0:08:59.39,0:09:00.37,Default,Mia,0,0,0,,Senpai...
+Dialogue: 0,0:09:01.30,0:09:05.84,Default,Mia,0,0,0,,The Great Detective and I just played \Nan online game together once in a while.
+Dialogue: 0,0:09:05.84,0:09:09.15,Default,Kimizuka,0,0,0,,How do you Tuners stay connected?
+Dialogue: 0,0:09:10.46,0:09:15.66,Default,Mia,0,0,0,,Just so we're clear, \NI won't be your friend.
+Dialogue: 0,0:09:16.64,0:09:17.75,Default,Kimizuka,0,0,0,,Fine.
+Dialogue: 0,0:09:17.75,0:09:21.74,Default,Kimizuka,0,0,0,,Just help me with my ridiculous dream.
+Dialogue: 0,0:09:24.17,0:09:25.29,Default,Mia,0,0,0,,Hey.
+Dialogue: 0,0:09:26.79,0:09:30.92,Default,Mia,0,0,0,,Do you really think \Nyou can bring Senpai back to life?
+Dialogue: 0,0:09:33.27,0:09:34.55,Default,Kimizuka,0,0,0,,You knew, huh?
+Dialogue: 0,0:09:36.50,0:09:37.68,Default,Kimizuka,0,0,0,,I don't know.
+Dialogue: 0,0:09:38.39,0:09:40.63,Default,Kimizuka,0,0,0,,I really don't know.
+Dialogue: 0,0:09:40.63,0:09:45.54,Default,Kimizuka,0,0,0,,But I think the future is divided \Ninto any number of routes,
+Dialogue: 0,0:09:45.54,0:09:49.78,Default,Kimizuka,0,0,0,,and it's our will and actions \Nwhich determine the one that gets picked.
+Dialogue: 0,0:09:49.78,0:09:53.70,Default,Kimizuka,0,0,0,,So there must be a route \Nthat leads to an impossibly happy ending.
+Dialogue: 0,0:09:54.38,0:09:58.70,Default,Kimizuka,0,0,0,,A future where Siesta comes back to life.
+Dialogue: 0,0:10:00.45,0:10:05.46,Default,Mia,0,0,0,,You're really the only person \Nwho could say that line.
+Dialogue: 0,0:10:09.06,0:10:12.22,Default,Mia,0,0,0,,It's been a long time \Nsince I've moved so much, and I'm dizzy.
+Dialogue: 0,0:10:12.22,0:10:15.01,Default,Kimizuka,0,0,0,,You need to get outside once in a while.
+Dialogue: 0,0:10:15.43,0:10:17.46,Default,Mia,0,0,0,,No. It's exhausting.
+Dialogue: 0,0:10:19.43,0:10:21.83,Default,Kimizuka,0,0,0,,Take an interest in the outside world.
+Dialogue: 0,0:10:22.27,0:10:25.73,Default,Kimizuka,0,0,0,,Making a friend would help you \Nbe more optimistic.
+Dialogue: 0,0:10:27.06,0:10:31.23,Default,Mia,0,0,0,,The world will be destroyed eventually \Nwhether I'm optimistic or not.
+Dialogue: 0,0:10:31.58,0:10:34.72,Default,Kimizuka,0,0,0,,How can you be so negative?
+Dialogue: 0,0:10:38.87,0:10:39.74,Default,Kimizuka,0,0,0,,Listen.
+Dialogue: 0,0:10:41.69,0:10:46.94,Default,Kimizuka,0,0,0,,In our world, common sense \Nand internal struggles wreck the tempo,
+Dialogue: 0,0:10:46.94,0:10:49.25,Default,Kimizuka,0,0,0,,so we just get rid of them.
+Dialogue: 0,0:10:49.66,0:10:51.94,Default,Mia,0,0,0,,What is "our world"?
+Dialogue: 0,0:10:51.94,0:10:54.01,Default,Mia,0,0,0,,What are you talking about?
+Dialogue: 0,0:10:54.01,0:10:55.80,Default,Kimizuka,0,0,0,,Just keep up.
+Dialogue: 0,0:10:57.49,0:11:00.35,Default,Kimizuka,0,0,0,,Keep up with the speed of our story.
+Dialogue: 0,0:11:02.18,0:11:03.56,Default,Busjacker,0,0,0,,Don't move!
+Dialogue: 0,0:11:03.95,0:11:06.97,Default,Busjacker,0,0,0,,Move and I can't guarantee your safety!
+Dialogue: 0,0:11:08.32,0:11:10.12,Default,Kimizuka,0,0,0,,A busjacker?
+Dialogue: 0,0:11:11.10,0:11:12.57,Default,Mia,0,0,0,,What do we do?
+Dialogue: 0,0:11:13.83,0:11:17.57,Default,Kimizuka,0,0,0,,There are 11 passengers on board, \Nincluding you and me.
+Dialogue: 0,0:11:18.07,0:11:19.77,Default,Kimizuka,0,0,0,,One driver.
+Dialogue: 0,0:11:20.08,0:11:22.58,Default,Kimizuka,0,0,0,,One armed criminal.
+Dialogue: 0,0:11:23.06,0:11:27.47,Default,Kimizuka,0,0,0,,We can't do anything reckless \Nwith all these civilians around.
+Dialogue: 0,0:11:28.51,0:11:30.59,Default,Kimizuka,0,0,0,,So what do you think we should do?
+Dialogue: 0,0:11:32.08,0:11:35.09,Default,Mia,0,0,0,,You're useless when it counts.
+Dialogue: 0,0:11:35.09,0:11:36.95,Default,Kimizuka,0,0,0,,No, I mean...
+Dialogue: 0,0:11:36.95,0:11:39.86,Default,Kimizuka,0,0,0,,I can do what I need to \Nif I have a detective giving me orders.
+Dialogue: 0,0:11:39.86,0:11:43.10,Default,Mia,0,0,0,,Please try to have some pride.
+Dialogue: 0,0:11:44.27,0:11:45.62,Default,Mia,0,0,0,,Olivia...
+Dialogue: 0,0:11:47.35,0:11:48.29,Default,Kimizuka,0,0,0,,Mia...
+Dialogue: 0,0:11:49.63,0:11:51.84,Default,Kimizuka,0,0,0,,Can I take your hand?
+Dialogue: 0,0:11:56.05,0:11:59.99,Default,Mia,0,0,0,,I've never had a man hold my hand.
+Dialogue: 0,0:12:04.95,0:12:06.60,Default,Busjacker,0,0,0,,Don't stop the bus.
+Dialogue: 0,0:12:09.71,0:12:14.52,Default,Mia,0,0,0,,Out of all the Tuners, \NI might be the worst at this.
+Dialogue: 0,0:12:15.20,0:12:18.43,Default,Mia,0,0,0,,I don't have an iron sense of duty\N like the Assassin.
+Dialogue: 0,0:12:19.05,0:12:22.43,Default,Mia,0,0,0,,Or the power of the Vampire \Nto destroy the world.
+Dialogue: 0,0:12:23.12,0:12:26.05,Default,Mia,0,0,0,,Or the courage of the Great Detective \Nin the face of death itself.
+Dialogue: 0,0:12:26.52,0:12:31.67,Default,Mia,0,0,0,,That's why I couldn't stop Senpai's bet.
+Dialogue: 0,0:12:32.34,0:12:33.24,Default,Kimizuka,0,0,0,,Bet?
+Dialogue: 0,0:12:34.15,0:12:38.16,Default,Mia,0,0,0,,You're right. The future can change.
+Dialogue: 0,0:12:39.23,0:12:43.26,Default,Mia,0,0,0,,The original holy texts \Nleft by the last Priestess
+Dialogue: 0,0:12:43.26,0:12:47.30,Default,Mia,0,0,0,,spoke of a terrible future \Nwhere Senpai died,
+Dialogue: 0,0:12:47.30,0:12:49.84,Default,Mia,0,0,0,,and Hel survived and became the vessel.
+Dialogue: 0,0:12:50.91,0:12:54.13,Default,Mia,0,0,0,,But Senpai met you,
+Dialogue: 0,0:12:54.13,0:12:58.57,Default,Mia,0,0,0,,and the future in the books \Nstarted to change, little by little.
+Dialogue: 0,0:12:59.22,0:13:04.40,Default,Mia,0,0,0,,It changed to a future \Nwhere Seed lost his vessel.
+Dialogue: 0,0:13:05.07,0:13:09.33,Default,Mia,0,0,0,,Senpai knew that Seed \Nwanted the holy text
+Dialogue: 0,0:13:09.33,0:13:12.48,Default,Mia,0,0,0,,and was prepared for \Nthe Phantom Thief's betrayal as well.
+Dialogue: 0,0:13:12.83,0:13:17.24,Default,Mia,0,0,0,,So she took advantage of that and proposed\N making him steal the older book,
+Dialogue: 0,0:13:17.24,0:13:20.20,Default,Mia,0,0,0,,deceiving Seed.
+Dialogue: 0,0:13:21.82,0:13:24.99,flashback,Mia,0,0,0,,I keep telling you, I'm opposed to this.
+Dialogue: 0,0:13:25.29,0:13:27.99,flashback,Mia,0,0,0,,Did you tell him about this plan?
+Dialogue: 0,0:13:28.25,0:13:30.21,flashback italics,Siesta,0,0,0,,Who do you mean by "him"?
+Dialogue: 0,0:13:30.21,0:13:32.50,flashback,Mia,0,0,0,,You always talk about him!
+Dialogue: 0,0:13:32.91,0:13:36.05,flashback,Mia,0,0,0,,The boy who travels with you.
+Dialogue: 0,0:13:36.05,0:13:39.59,flashback italics,Siesta,0,0,0,,Oh, but do I talk about him that much?
+Dialogue: 0,0:13:39.59,0:13:42.59,flashback,Mia,0,0,0,,Yes. Every time we talk!
+Dialogue: 0,0:13:43.52,0:13:46.49,flashback,Siesta,0,0,0,,But my assistant doesn't have \Nanything to do with this.
+Dialogue: 0,0:13:46.49,0:13:49.44,flashback italics,Mia,0,0,0,,If he doesn't, why not tell him?
+Dialogue: 0,0:13:50.38,0:13:55.50,flashback,Siesta,0,0,0,,He may not accept my decision.
+Dialogue: 0,0:13:56.65,0:13:57.44,flashback,Siesta,0,0,0,,But...
+Dialogue: 0,0:13:58.44,0:14:00.60,flashback italics,Siesta,0,0,0,,I'm the Great Detective.
+Dialogue: 0,0:14:02.23,0:14:04.41,flashback,Mia,0,0,0,,Promise me this, then.
+Dialogue: 0,0:14:05.42,0:14:10.19,flashback,Mia,0,0,0,,No matter how the bet turns out, \Nyou'll struggle until the end.
+Dialogue: 0,0:14:10.95,0:14:12.62,flashback,Mia,0,0,0,,You won't give up.
+Dialogue: 0,0:14:14.42,0:14:16.72,flashback italics,Siesta,0,0,0,,Yeah. I promise.
+Dialogue: 0,0:14:17.78,0:14:19.80,flashback italics,Siesta,0,0,0,,Don't worry, Mia.
+Dialogue: 0,0:14:21.18,0:14:22.62,flashback,Siesta,0,0,0,,Didn't you know?
+Dialogue: 0,0:14:23.67,0:14:29.11,flashback,Siesta,0,0,0,,I actually enjoy perfect happy endings.
+Dialogue: 0,0:14:35.77,0:14:37.99,Default,Mia,0,0,0,,The future can change.
+Dialogue: 0,0:14:37.99,0:14:41.71,Default,Mia,0,0,0,,But its final ending never does.
+Dialogue: 0,0:14:42.79,0:14:46.82,Default,Mia,0,0,0,,Some lives were saved \Nby the changed future.
+Dialogue: 0,0:14:47.50,0:14:50.87,Default,Mia,0,0,0,,But some were lost.
+Dialogue: 0,0:14:51.77,0:14:54.46,Default,Mia,0,0,0,,I know it's selfish...
+Dialogue: 0,0:14:55.15,0:14:59.25,Default,Mia,0,0,0,,But I wanted a future \Nwhere the person I cared for lived.
+Dialogue: 0,0:15:03.22,0:15:06.10,Default,Kimizuka,0,0,0,,You really can't change the ending?
+Dialogue: 0,0:15:07.54,0:15:09.24,Default,Kimizuka,0,0,0,,You regret it, don't you?
+Dialogue: 0,0:15:10.75,0:15:13.73,Default,Kimizuka,0,0,0,,You wanted to save Siesta.
+Dialogue: 0,0:15:13.73,0:15:15.10,Default,Kimizuka,0,0,0,,But in the end,
+Dialogue: 0,0:15:15.50,0:15:19.28,Default,Kimizuka,0,0,0,,her resolve as a detective \Nwas greater than your desire to save her.
+Dialogue: 0,0:15:22.17,0:15:23.99,Default,Kimizuka,0,0,0,,But Mia...
+Dialogue: 0,0:15:24.79,0:15:29.52,Default,Kimizuka,0,0,0,,We intend to surpass Siesta's own will!
+Dialogue: 0,0:15:31.12,0:15:32.66,Default,Busjacker,0,0,0,,Who's there?
+Dialogue: 0,0:15:33.36,0:15:35.12,Default,Busjacker,0,0,0,,Who's talking?
+Dialogue: 0,0:15:35.66,0:15:37.35,Default,Kimizuka,0,0,0,,Don't worry.
+Dialogue: 0,0:15:37.35,0:15:40.02,Default,Kimizuka,0,0,0,,He can't see us.
+Dialogue: 0,0:15:40.02,0:15:42.11,Default,Mia,0,0,0,,Um, what do you mean?
+Dialogue: 0,0:15:47.18,0:15:50.34,Default,Kimizuka,0,0,0,,We're not supposed to talk during \Na busjacking, you say?
+Dialogue: 0,0:15:50.34,0:15:51.18,Default,Kimizuka,0,0,0,,That's backwards!
+Dialogue: 0,0:15:51.18,0:15:52.18,Default,Mia,0,0,0,,H-Hey!
+Dialogue: 0,0:15:52.18,0:15:55.29,Default,Kimizuka,0,0,0,,I'm talking about something important...
+Dialogue: 0,0:15:55.77,0:15:58.77,Default,Kimizuka,0,0,0,,So don't interrupt it with a busjacking!
+Dialogue: 0,0:16:01.31,0:16:05.32,Default,Kimizuka,0,0,0,,I'm going to bring her back, \Nand tell her this:
+Dialogue: 0,0:16:05.62,0:16:07.37,Default,Kimizuka,0,0,0,,"That's what you get!"
+Dialogue: 0,0:16:08.43,0:16:13.44,Default,Kimizuka,0,0,0,,So please... find a future with me \Nwhere Siesta comes back!
+Dialogue: 0,0:16:14.89,0:16:18.42,Default,Mia,0,0,0,,You really think that route exists?
+Dialogue: 0,0:16:18.42,0:16:19.96,Default,Kimizuka,0,0,0,,If it doesn't, we'll make it.
+Dialogue: 0,0:16:20.69,0:16:25.21,Default,Kimizuka,0,0,0,,This time, I'll get the whole world \Ncaught up in my trouble!
+Dialogue: 0,0:16:31.51,0:16:33.05,Default,Busjacker,0,0,0,,Pipe down!
+Dialogue: 0,0:16:34.50,0:16:35.97,Default,Kimizuka,0,0,0,,There was another one?
+Dialogue: 0,0:16:39.92,0:16:41.92,Default,Kimizuka,0,0,0,,I'll let you handle him, Mia.
+Dialogue: 0,0:16:41.92,0:16:43.44,Default,Mia,0,0,0,,Huh? Wait!
+Dialogue: 0,0:16:43.90,0:16:45.15,Default,Mia,0,0,0,,Kimihiko!
+Dialogue: 0,0:16:45.51,0:16:46.94,Default,Busjacker,0,0,0,,Y-You...
+Dialogue: 0,0:16:47.90,0:16:49.61,Default,Busjacker,0,0,0,,Where did you come from?
+Dialogue: 0,0:16:50.15,0:16:51.49,Default,Busjacker,0,0,0,,Damn it!
+Dialogue: 0,0:16:51.49,0:16:53.09,Default,Busjacker,0,0,0,,L-Let me go!
+Dialogue: 0,0:16:54.16,0:16:56.66,Default,Busjacker,0,0,0,,You're gonna die for this!
+Dialogue: 0,0:16:59.72,0:17:00.68,Default,Kimizuka,0,0,0,,Mia!
+Dialogue: 0,0:17:01.57,0:17:05.71,Default,Kimizuka,0,0,0,,Even if you don't want \Nto change the future, it's too late!
+Dialogue: 0,0:17:06.30,0:17:10.22,Default,Kimizuka,0,0,0,,Before you spend all your time looking \Nat the future, look down at your feet!
+Dialogue: 0,0:17:10.22,0:17:15.10,Default,Kimizuka,0,0,0,,Think about what it means \Nthat you're wearing those shoes!
+Dialogue: 0,0:17:17.21,0:17:18.81,italics,Kimizuka,0,0,0,,Realize why, Mia!
+Dialogue: 0,0:17:19.16,0:17:22.31,italics,Kimizuka,0,0,0,,The Great Detective said they could fly.
+Dialogue: 0,0:17:22.81,0:17:27.30,italics,Kimizuka,0,0,0,,They're a present for a troublesome junior \Nwho refused to leave her shell!
+Dialogue: 0,0:17:30.78,0:17:31.78,Default,Busjacker,0,0,0,,What?
+Dialogue: 0,0:17:33.51,0:17:36.66,Default,Busjacker,0,0,0,,You're going to get in my way too?
+Dialogue: 0,0:17:40.96,0:17:42.35,Default,Busjacker,0,0,0,,She disappeared?
+Dialogue: 0,0:17:48.78,0:17:52.22,italics,Kimizuka,0,0,0,,The girl flew high. High into the sky.
+Dialogue: 0,0:17:52.88,0:17:54.52,italics,Kimizuka,0,0,0,,I know...
+Dialogue: 0,0:17:54.52,0:17:57.97,italics,Kimizuka,0,0,0,,that the shoes of the Great Detective \Ncan let her rise into the sky!
+Dialogue: 0,0:18:18.76,0:18:20.53,Default,Mia,0,0,0,,I'm tired.
+Dialogue: 0,0:18:21.12,0:18:24.22,Default,Mia,0,0,0,,I'm never leaving the tower again.
+Dialogue: 0,0:18:24.22,0:18:28.13,Default,Mia,0,0,0,,Why does this stuff happen \Nwhen I'm with you?
+Dialogue: 0,0:18:28.48,0:18:31.38,Default,Kimizuka,0,0,0,,Hmm? You were saying \Nhow great it is to be with me?
+Dialogue: 0,0:18:31.67,0:18:35.20,Default,Mia,0,0,0,,You have a fantastic personality.
+Dialogue: 0,0:18:35.20,0:18:37.08,Default,Mia,0,0,0,,Of course, I'm being sarcastic.
+Dialogue: 0,0:18:49.71,0:18:54.40,Default,Mia,0,0,0,,If nothing else, \Nit's your fault I ended up like this.
+Dialogue: 0,0:18:56.26,0:18:57.83,Default,Mia,0,0,0,,I'll say it again and again.
+Dialogue: 0,0:18:58.71,0:19:02.29,Default,Mia,0,0,0,,It's your fault I left my room.
+Dialogue: 0,0:19:02.63,0:19:05.92,Default,Mia,0,0,0,,It's your fault I got caught up \Nin that trouble.
+Dialogue: 0,0:19:06.92,0:19:08.37,Default,Mia,0,0,0,,And...
+Dialogue: 0,0:19:08.37,0:19:13.30,Default,Mia,0,0,0,,It's your fault that I kind of want \Nto change the future, just a little.
+Dialogue: 0,0:19:13.95,0:19:17.30,Default,Mia,0,0,0,,It's all... all your fault.
+Dialogue: 0,0:19:17.99,0:19:19.24,Default,Mia,0,0,0,,So...
+Dialogue: 0,0:19:21.23,0:19:24.31,Default,Mia,0,0,0,,take responsibility, okay?
+Dialogue: 0,0:19:25.53,0:19:30.32,Default,Kimizuka,0,0,0,,Sure. I'll take responsibility whenever,\N as many times as you want.
+Dialogue: 0,0:19:31.26,0:19:33.62,Default,Kimizuka,0,0,0,,Now we're co-conspirators!
+Dialogue: 0,0:19:38.09,0:19:44.41,Default,Kimizuka,0,0,0,,Well, I've promised to marry a few girls, \Nso you might have to wait a while.
+Dialogue: 0,0:19:45.34,0:19:47.62,Default,Mia,0,0,0,,That's not what I meant.
+Dialogue: 0,0:19:47.62,0:19:48.83,Default,Mia,0,0,0,,And that's a lie! I know it!
+Dialogue: 0,0:19:49.26,0:19:51.34,Default,Mia,0,0,0,,That's not what I meant!
+Dialogue: 0,0:19:51.34,0:19:54.09,Default,Mia,0,0,0,,It's not what I meant!
+Dialogue: 0,0:19:57.84,0:20:00.85,Default,Nagisa,0,0,0,,So you come back \Nwith another cute girl, huh?
+Dialogue: 0,0:20:01.39,0:20:03.35,Default,Nagisa,0,0,0,,Who's this? Another potential wife?
+Dialogue: 0,0:20:03.63,0:20:06.35,Default,Kimizuka,0,0,0,,What do you mean "another"?
+Dialogue: 0,0:20:06.35,0:20:09.35,Default,Kimizuka,0,0,0,,Looks like you wrapped things up too.
+Dialogue: 0,0:20:11.59,0:20:12.37,Default,Nagisa,0,0,0,,Yeah.
+Dialogue: 0,0:20:13.66,0:20:16.20,Default,Olivia,0,0,0,,Welcome back, Priestess.
+Dialogue: 0,0:20:16.91,0:20:20.16,Default,Olivia,0,0,0,,Did you enjoy spending your day \Nin a different manner than usual?
+Dialogue: 0,0:20:25.71,0:20:27.31,Default,Mia,0,0,0,,Olivia, you meanie.
+Dialogue: 0,0:20:29.91,0:20:33.42,Default,Olivia,0,0,0,,Kimizuka-sama, \NI apologize for all the trouble.
+Dialogue: 0,0:20:34.68,0:20:36.55,Default,Kimizuka,0,0,0,,It sure was trouble.
+Dialogue: 0,0:20:36.55,0:20:40.68,Default,Olivia,0,0,0,,I hadn't returned this to you, had I?
+Dialogue: 0,0:20:46.53,0:20:49.96,Default,Olivia,0,0,0,,Everyone's here now, yes?
+Dialogue: 0,0:20:54.35,0:20:55.79,Default,Mia,0,0,0,,I'll ask again.
+Dialogue: 0,0:20:56.51,0:21:01.20,Default,Mia,0,0,0,,The two of you really plan \Nto bring back the Great Detective, right?
+Dialogue: 0,0:21:01.47,0:21:02.51,Default,Kimizuka,0,0,0,,Yeah.
+Dialogue: 0,0:21:02.51,0:21:04.70,Default,Kimizuka,0,0,0,,That's what we want.
+Dialogue: 0,0:21:05.20,0:21:08.14,Default,Mia,0,0,0,,No matter what price you have to pay?
+Dialogue: 0,0:21:08.14,0:21:11.96,Default,Kimizuka,0,0,0,,I'm afraid we've come \Ntoo far to turn back.
+Dialogue: 0,0:21:14.50,0:21:17.60,italics,Mia,0,0,0,,I couldn't save the person \Nwho did so much for me.
+Dialogue: 0,0:21:18.51,0:21:21.80,italics,Mia,0,0,0,,I couldn't change the future alone.
+Dialogue: 0,0:21:22.92,0:21:28.31,italics,Mia,0,0,0,,But if there's anyone in the world
+Dialogue: 0,0:21:28.82,0:21:31.60,italics,Mia,0,0,0,,who could break that taboo...
+Dialogue: 0,0:21:33.89,0:21:38.65,Default,Mia,0,0,0,,It's impossible for the dead \Nto come back to life.
+Dialogue: 0,0:21:38.65,0:21:42.70,Default,Mia,0,0,0,,So I can't see that in the future.
+Dialogue: 0,0:21:42.70,0:21:44.75,Default,Mia,0,0,0,,There's no point in trying.
+Dialogue: 0,0:21:45.41,0:21:46.33,Default,Mia,0,0,0,,But...
+Dialogue: 0,0:21:47.68,0:21:49.33,Default,Mia,0,0,0,,Kimizuka Kimihiko.
+Dialogue: 0,0:21:49.64,0:21:55.31,Default,Mia,0,0,0,,If you really want to be \Nthe world's singularity... it's possible...
+Dialogue: 0,0:21:56.50,0:21:59.00,Default,Mia,0,0,0,,Perhaps the one who can change the future
+Dialogue: 0,0:21:59.81,0:22:03.54,Default,Mia,0,0,0,,is the man who gets the whole world\Ncaught up in his trouble.
+Dialogue: 0,0:23:34.89,0:23:39.90,top,Sign,0,0,0,,EPISODE 8:\N ON A MOONLIT NIGHT, YOU MAKE A VOW
+
