@@ -1,0 +1,38 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Top,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: Top Italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: Flashback,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Flashback Italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Signs_Fix,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:28.13,0:00:30.84,Signs_Fix,SIGN,0,0,0,,{\fad(180,300)\fnGeorgia\b1\bord1.5\shad2.5\blur0.2\fs35\an8\4a&H00&\3c&HFFFFFF&\4c&HFFFFFF&\t(30,180,\c&H52B5D1&\3c&H2405A9&\4c&H000000&)\pos(320,229.5)}Prince of Tennis II
+Dialogue: 0,0:00:28.13,0:00:30.84,Signs_Fix,SIGN,0,0,0,,{\fad(180,300)\fnArial\b1\bord0.6\shad2\blur0.2\fs12\an8\4a&H00&\3c&HFFFFFF&\4c&HFFFFFF&\t(30,180,\3c&H646465&\4c&H000000&)\pos(320,311)}Final Member Selection Match
+Dialogue: 0,0:01:47.87,0:01:53.21,Signs_Fix,SIGN,0,0,0,,{\fad(650,750)\fnTimes New Roman\b1\fs18\shad0\bord1.1\blur0.6\3c&H573D2F&\pos(509,311)}If Ya Get Hit, Hit 'Em Back!
+Dialogue: 0,0:11:23.79,0:11:28.33,Signs_Fix,SIGN,0,0,0,,{\fad(260,650)\fnGeorgia\bord1\blur1.5\shad0\fs22\b1\fscx85\pos(320,302)\3c&H2E2E2E&}Shitenhoji Junior High\h\h\h8 months ago
+Dialogue: 0,0:12:41.32,0:12:42.99,Signs_Fix,SIGN,0,0,0,,{\fad(230,0)\fnGeorgia\b1\bord1\shad1.5\blur0.2\fs15\an8\4a&H00&\c&H52B5D1&\3c&H2405A9&\4c&H000000&\pos(108,282.5)}Prince of Tennis II
+Dialogue: 0,0:12:41.32,0:12:42.99,Signs_Fix,SIGN,0,0,0,,{\fad(230,0)\fnArial\b1\bord0.4\shad1.5\blur0.2\fs7\an8\4a&H00&\3c&HFFFFFF&\4c&HFFFFFF&\3c&H646465&\4c&H000000&)\pos(104,322)}Final Member Selection Match
+Dialogue: 0,0:12:46.32,0:12:47.99,Signs_Fix,SIGN,0,0,0,,{\fad(230,0)\fnGeorgia\b1\bord1\shad1.5\blur0.2\fs15\an8\4a&H00&\c&H52B5D1&\3c&H2405A9&\4c&H000000&\pos(293.5,217)}Prince of Tennis II
+Dialogue: 0,0:12:46.32,0:12:47.99,Signs_Fix,SIGN,0,0,0,,{\fad(230,0)\fnArial\b1\bord0.4\shad1.5\blur0.2\fs7\an8\4a&H00&\3c&HFFFFFF&\4c&HFFFFFF&\3c&H646465&\4c&H000000&)\pos(289.5,256.5)}Final Member Selection Match
+Dialogue: 0,0:17:58.53,0:18:00.08,Default,SIGN,0,0,0,,15-40.
+Dialogue: 0,0:18:06.15,0:18:07.61,Default,SIGN,0,0,0,,30-40.
+Dialogue: 0,0:21:40.49,0:21:44.78,Signs_Fix,SIGN,0,0,0,,{\fad(500,650)\an7\blur2\fs16\shad0\fnArial\bord2.2\pos(20,20)\c&H131315&\3c&H8F9090&}Translation: Yukari Murase-Louden\NTiming: Edgar Cruz\NEditing: SMR\NQuality Control: William Haggard\NTranslation Check: David Saylor
+Dialogue: 0,0:23:32.59,0:23:40.05,Signs_Fix,SIGN,0,0,0,,{\fad(920,0)\fnGeorgia\bord0.5\shad0.2\blur1.5\b1\fscx85\fs22\pos(320,160)\3c&H404040&\4c&H5B5B5B&\c&HFFFEFE&}The Masked Man
+
