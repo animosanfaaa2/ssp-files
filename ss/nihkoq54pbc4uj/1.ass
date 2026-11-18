@@ -1,0 +1,329 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Top Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.67,0:00:05.02,Default,KUROBE {FLASHBACK},0,0,0,,Players, please take a short break \Nbefore the third-round matches.
+Dialogue: 0,0:00:05.02,0:00:09.43,Default,KUROBE {FLASHBACK},0,0,0,,Once the #2 doubles result comes in,\N we'll start them concurrently.
+Dialogue: 0,0:00:11.66,0:00:12.99,Default,TANEGASHIMA {Flashback},0,0,0,,30-40.
+Dialogue: 0,0:00:13.18,0:00:15.46,Italics,YANAGI {flashback},0,0,0,,Unfortunately for them, this game...
+Dialogue: 0,0:00:15.99,0:00:18.47,Italics,YUKIMURA AND YANAGI {flashback},0,0,0,,...is ours to win.
+Dialogue: 0,0:00:18.87,0:00:19.99,Default,KINTARO {flashback},0,0,0,,What?
+Dialogue: 0,0:00:20.38,0:00:22.21,Default,KINTARO {flashback},0,0,0,,They're in a straight line?
+Dialogue: 0,0:00:22.21,0:00:25.67,Italics,KINTARO {flashback},0,0,0,,Which way are they going? \NForward? To the side?
+Dialogue: 0,0:00:25.67,0:00:27.54,Italics,KINTARO {flashback},0,0,0,,Which way should I hit it?
+Dialogue: 0,0:00:27.81,0:00:32.66,Default,MARUI {flashback},0,0,0,,If he hits it straight, Yanagi can counter\Nthe Pinnacle of Perfection, I tell ya.
+Dialogue: 0,0:00:32.66,0:00:34.34,Default,KITE {flashback},0,0,0,,If he aims for either side,
+Dialogue: 0,0:00:34.34,0:00:39.10,Default,KITE {flashback},0,0,0,,Yukimura can easily handle it\N using Mirage Mirror.
+Dialogue: 0,0:00:40.38,0:00:42.74,Default,KINTARO {flashback},0,0,0,,This ain't no time to be hesitatin'.
+Dialogue: 0,0:00:48.02,0:00:51.36,Default,YANAGI {flashback},0,0,0,,The probability of you \Navoiding Seiichi is 100%.
+Dialogue: 0,0:01:04.87,0:01:13.38,Default,SIGN,0,0,0,,{\an8\shad0\blur0.2\fs9\b1\bord2\fay-0.03\c&H69696A&\3c&HF1EFF1&\move(102,93,102,207)\frz6.565}Kazuya\NTokugawa
+Dialogue: 0,0:01:04.87,0:01:13.38,Default,SIGN,0,0,0,,{\an8\shad0\blur0.2\fs9\b1\bord2\fay-0.03\c&H69696A&\3c&HF1EFF1&\frz6.565\move(147.5,85,147.5,199)}Genichiro\NSanada
+Dialogue: 0,0:01:04.87,0:01:13.38,Default,SIGN,0,0,0,,{\an8\shad0\blur0.2\fs9\b1\bord2\fay-0.03\c&H69696A&\3c&HF1EFF1&\frz6.565\move(193.5,71,193.5,185)}Masaharu\NNioh
+Dialogue: 0,0:01:04.87,0:01:13.38,Default,SIGN,0,0,0,,{\an8\shad0\blur0.2\fs9\b1\bord2\fay-0.025\c&H69696A&\3c&HF1EFF1&\frz6.565\move(240.5,83.5,240.5,197.5)}Duke\NWatanabe
+Dialogue: 0,0:01:04.87,0:01:13.38,Default,SIGN,0,0,0,,{\an8\shad0\blur0.2\fs9\b1\bord2\fay-0.020\c&H69696A&\3c&HF1EFF1&\frz6.565\move(280.5,76.5,280.5,190.5)}Ryoma\NEchizen
+Dialogue: 0,0:01:04.87,0:01:13.38,Default,SIGN,0,0,0,,{\an8\shad0\blur0.2\fs9\b1\bord2\fay-0.025\c&H69696A&\3c&HF1EFF1&\frz6.565\move(318,49.5,318,163.5)}Kiyosumi\NSengoku
+Dialogue: 0,0:01:04.87,0:01:13.38,Default,SIGN,0,0,0,,{\an8\shad0\blur0.2\fs9\b1\bord2\fay-0.015\c&H69696A&\3c&HF1EFF1&\frz6.565\move(360,43,360,157)}Shusuke\NFuji
+Dialogue: 0,0:01:04.87,0:01:13.38,Default,SIGN,0,0,0,,{\an8\shad0\blur0.2\fs9\b1\bord2\fay-0.025\c&H69696A&\3c&HF1EFF1&\frz6.565\move(405,37,405,151)}Akaya\NKirihara
+Dialogue: 0,0:01:04.87,0:01:13.38,Default,SIGN,0,0,0,,{\an8\shad0\blur0.2\fs9\b1\bord2\fay-0.025\c&H69696A&\3c&HF1EFF1&\frz6.565\move(440.5,30,440.5,144)}Kazena\NKaji
+Dialogue: 0,0:01:04.87,0:01:13.38,Default,SIGN,0,0,0,,{\an8\shad0\blur0.2\fs9\b1\bord2\fay-0.028\c&H69696A&\3c&HF1EFF1&\frz6.565\move(480.5,22.5,480.5,136.5)}Kanata\NIrie
+Dialogue: 0,0:01:04.87,0:01:13.38,Default,SIGN,0,0,0,,{\an8\shad0\blur0.2\fs9\b1\bord2\fay-0.025\c&H69696A&\3c&HF1EFF1&\frz6.565\move(522.5,16,522.5,130)}Keigo\NAtobe
+Dialogue: 0,0:01:04.87,0:01:13.38,Default,SIGN,0,0,0,,{\an8\shad0\blur0.2\fs9\b1\bord2\fay-0.025\c&H69696A&\3c&HF1EFF1&\frz6.565\move(562.5,11.5,562.5,125.5)}Yushi\NOshitari
+Dialogue: 0,0:01:04.87,0:01:13.38,Default,SIGN,0,0,0,,{\an8\shad0\blur0.2\fs10\b1\bord2\fay-0.05\c&H69696A&\3c&HF1EFF1&\frz6.565\move(132,212,132,326)}Maskman J
+Dialogue: 0,0:01:04.87,0:01:13.38,Default,SIGN,0,0,0,,{\an8\shad0\blur0.2\fs10\b1\bord2\fay-0.055\c&H69696A&\3c&HF1EFF1&\frz6.565\move(171.5,283.5,171.5,397.5)}Maskman H
+Dialogue: 0,0:01:04.87,0:01:13.38,Default,SIGN,0,0,0,,{\an8\shad0\blur0.2\fs8\b1\bord2\fay-0.04\c&H69696A&\3c&HF1EFF1&\frz6.565\move(187,197,187,311)}Sotomichi\NNakagauchi
+Dialogue: 0,0:01:04.87,0:01:13.38,Default,SIGN,0,0,0,,{\an8\shad0\blur0.2\fs8\b1\bord2\fay-0.04\c&H69696A&\3c&HF1EFF1&\frz6.565\move(222,260.5,222,374.5)}Izoh\NHakamada
+Dialogue: 0,0:01:04.87,0:01:13.38,Default,SIGN,0,0,0,,{\an8\shad0\blur0.2\fs8\b1\bord2\fay-0.045\c&H69696A&\3c&HF1EFF1&\frz6.565\move(229.5,188,229.5,302)}Tsukimitsu\NOchi
+Dialogue: 0,0:01:04.87,0:01:13.38,Default,SIGN,0,0,0,,{\an8\shad0\blur0.2\fs8\b1\bord2\fay-0.035\c&H69696A&\3c&HF1EFF1&\frz6.565\move(268.5,258.5,268.5,372.5)}Jusaburo\NMori
+Dialogue: 0,0:01:04.87,0:01:13.38,Default,SIGN,0,0,0,,{\an8\shad0\blur0.2\fs8\b1\bord2\fay-0.05\c&H69696A&\3c&HF1EFF1&\frz6.565\move(277,179.5,277,293.5)}Ikuto\NKimijima
+Dialogue: 0,0:01:04.87,0:01:13.38,Default,SIGN,0,0,0,,{\an8\shad0\blur0.2\fs8\b1\bord2\fay-0.04\c&H69696A&\3c&HF1EFF1&\frz6.565\move(317,243,317,357)}Atsukyo\NTono
+Dialogue: 0,0:01:04.87,0:01:13.38,Default,SIGN,0,0,0,,{\an8\shad0\blur0.2\fs8\b1\bord2\fay-0.04\c&H69696A&\3c&HF1EFF1&\frz6.565\move(385,160,385,274)}Shuji\NTanegashima
+Dialogue: 0,0:01:04.87,0:01:13.38,Default,SIGN,0,0,0,,{\an8\shad0\blur0.2\fs7.5\b1\bord2\fay-0.04\c&H69696A&\3c&HF1EFF1&\frz6.565\move(419,233,419,347)}Kuranosuke\NShiraishi
+Dialogue: 0,0:01:04.87,0:01:13.38,Default,SIGN,0,0,0,,{\an8\shad0\blur0.2\fs8\b1\bord2\fay-0.04\c&H69696A&\3c&HF1EFF1&\frz6.565\move(432.5,154.5,432.5,268.5)}Eishiro\NKite
+Dialogue: 0,0:01:04.87,0:01:13.38,Default,SIGN,0,0,0,,{\an8\shad0\blur0.2\fs8\b1\bord2\fay-0.04\c&H69696A&\3c&HF1EFF1&\frz6.565\move(470,221.5,470,335.5)}Bunta\NMarui
+Dialogue: 0,0:01:04.87,0:01:13.38,Default,SIGN,0,0,0,,{\an8\shad0\blur0.2\fs8\b1\bord2\fay-0.04\c&H69696A&\3c&HF1EFF1&\frz6.565\move(474,145,474,259)}Seiichi\NYukimura
+Dialogue: 0,0:01:04.87,0:01:13.38,Default,SIGN,0,0,0,,{\an8\shad0\blur0.2\fs8\b1\bord2\fay-0.04\c&H69696A&\3c&HF1EFF1&\frz6.565\move(507,206,507,320)}Renji\NYanagi
+Dialogue: 0,0:01:04.87,0:01:13.38,Default,SIGN,0,0,0,,{\an8\shad0\blur0.2\fs8\b1\bord2\fay-0.04\c&H69696A&\3c&HF1EFF1&\frz6.565\move(516.5,139.5,516.5,253.5)}Ryuji\NOmagari
+Dialogue: 0,0:01:04.87,0:01:13.38,Default,SIGN,0,0,0,,{\an8\shad0\blur0.2\fs8\b1\bord2\fay-0.04\c&H69696A&\3c&HF1EFF1&\frz6.565\move(550.5,207,550.5,321)}Kintaro\NToyama
+Dialogue: 1,0:00:59.89,0:01:04.88,Default,TANEGASHIMA {flashback},0,0,0,,Game, set, and match, \NOmagari and Toyama. 7-5.
+Dialogue: 1,0:01:05.56,0:01:09.02,Default,KUROBE,0,0,0,,In #2 doubles, \NOmagari and Toyama advanced.
+Dialogue: 1,0:01:09.02,0:01:13.39,Default,KUROBE,0,0,0,,So whoever wins the next match in \Ntheir block will secure a spot in the final.
+Dialogue: 0,0:01:14.44,0:01:19.51,Default,KUROBE,0,0,0,,But it seems the other four pairs got tired\N of waiting for the #2 doubles pair.
+Dialogue: 0,0:01:20.02,0:01:25.83,Default,KUROBE,0,0,0,,Is there a reason you scheduled the next round\N of matches to start at the same time?
+Dialogue: 0,0:01:28.09,0:01:32.36,Default,MIFUNE,0,0,0,,This is his last chance.
+Dialogue: 0,0:01:46.17,0:01:48.88,Default,SIGN,0,0,0,,{\fad(180,300)\fnGeorgia\b1\bord1.5\shad2.5\blur0.2\fs35\an8\4a&H00&\3c&HFFFFFF&\4c&HFFFFFF&\t(30,180,\c&H52B5D1&\3c&H2405A9&\4c&H000000&)\pos(320,229.5)}Prince of Tennis II
+Dialogue: 0,0:01:46.17,0:01:48.88,Default,SIGN,0,0,0,,{\fad(180,300)\fnArial\b1\bord0.6\shad2\blur0.2\fs12\an8\4a&H00&\3c&HFFFFFF&\4c&HFFFFFF&\t(30,180,\3c&H646465&\4c&H000000&)\pos(320,311)}Final Member Selection Match
+Dialogue: 0,0:03:05.71,0:03:10.87,Default,SIGN,0,0,0,,{\fad(650,750)\fnTimes New Roman\b1\fs20\shad0\bord1.1\blur0.6\3c&H49431A&\pos(508,311)}Solely Aim for Victory
+Dialogue: 0,0:03:06.10,0:03:11.45,Top Italics,ANNOUNCEMENT (KUROBE),0,0,0,,Block: #1 singles, third match. \NKazuya Tokugawa versus Duke Watanabe.
+Dialogue: 0,0:03:11.65,0:03:14.43,Default,YANAGI,0,0,0,,One-set match. Tokugawa to serve.
+Dialogue: 0,0:03:15.71,0:03:18.09,Italics,YANAGI {M},0,0,0,,I'll make sure I collect your data in full.
+Dialogue: 0,0:03:22.38,0:03:28.14,Top Italics,ANNOUNCEMENT (KUROBE),0,0,0,,Block: #2 singles, third match.\NRyoma Echizen versus Shusuke Fuji.
+Dialogue: 0,0:03:28.43,0:03:31.31,Default,SENGOKU,0,0,0,,One-set match. Echizen to serve.
+Dialogue: 0,0:03:31.31,0:03:34.72,Default,FUJI {FLASHBACK},0,0,0,,Now, shall we advance time, Echizen?
+Dialogue: 0,0:03:35.27,0:03:38.77,Default,RYOMA {FLASHBACK},0,0,0,,I'll make sure to settle this\N once and for all this time, Fuji.
+Dialogue: 0,0:03:48.24,0:03:51.82,Default,RYOMA,0,0,0,,Fuji. I'll definitely win this time.
+Dialogue: 0,0:03:52.10,0:03:56.08,Default,FUJI,0,0,0,,Bring it, Echizen. \NYou're still years away from beating me.
+Dialogue: 0,0:03:56.51,0:04:02.26,Top Italics,ANNOUNCEMENT (KUROBE),0,0,0,,Block: #3 singles, third match.\NKanata Irie versus Keigo Atobe.
+Dialogue: 0,0:04:02.59,0:04:05.31,Default,IRIE,0,0,0,,Well then, shall we begin, Atobe?
+Dialogue: 0,0:04:05.31,0:04:08.84,Default,IRIE,0,0,0,,It would seem there are no brakes\N on your evolution.
+Dialogue: 0,0:04:09.15,0:04:10.60,Default,ATOBE,0,0,0,,Wanna try me?
+Dialogue: 0,0:04:11.01,0:04:16.95,Default,IRIE,0,0,0,,Aw, jeez. If I lose, I feel like you'll make me\Nget down on my knees and worship you.
+Dialogue: 0,0:04:18.98,0:04:24.11,Italics,ATOBE {M},0,0,0,,I'll expose all of your true abilities \Nthat you keep hidden under that façade.
+Dialogue: 0,0:04:25.06,0:04:27.57,Default,KAJI,0,0,0,,One-set match. Irie to serve.
+Dialogue: 0,0:04:33.07,0:04:35.46,Top Italics,ANNOUNCEMENT (KUROBE),0,0,0,,Block: #1 doubles, third match.
+Dialogue: 0,0:04:35.46,0:04:41.63,Top Italics,ANNOUNCEMENT (KUROBE),0,0,0,,Maskman H and Maskman J versus \NTsukimitsu Ochi and Jusaburo Mori.
+Dialogue: 0,0:04:42.03,0:04:44.75,Default,MORI,0,0,0,,That's the Boss and Oni, isn't it?
+Dialogue: 0,0:04:46.96,0:04:48.08,Default,MORI,0,0,0,,Tsuki?
+Dialogue: 0,0:04:48.60,0:04:53.37,Default,MASKMAN H,0,0,0,,Your one trick, Mach Serve, didn't bag you \Na spot on Team Japan's singles roster,
+Dialogue: 0,0:04:53.37,0:04:55.60,Default,MASKMAN H,0,0,0,,but what have you found playing doubles?
+Dialogue: 0,0:04:55.86,0:04:58.61,Default,MASKMAN H,0,0,0,,Show us, Ochi.
+Dialogue: 0,0:04:59.11,0:05:02.03,Default,KIMISHIMA,0,0,0,,One-set match. Ochi to serve.
+Dialogue: 0,0:05:07.93,0:05:10.33,Top Italics,ANNOUNCEMENT (KUROBE),0,0,0,,Block: #2 doubles, third match.
+Dialogue: 0,0:05:10.33,0:05:17.67,Top Italics,ANNOUNCEMENT (KUROBE),0,0,0,,Shuji Tanegashima and Kuranosuke Shiraishi\N versus Ryuji Omagari and Kintaro Toyama.
+Dialogue: 0,0:05:18.22,0:05:22.72,Default,TANEGASHIMA,0,0,0,,Looks like we steamed through \Nthe #2 doubles block, just as we planned.
+Dialogue: 0,0:05:22.72,0:05:24.42,Default,TANEGASHIMA,0,0,0,,A serious match with Ryuji.
+Dialogue: 0,0:05:24.79,0:05:27.94,Default,TANEGASHIMA,0,0,0,,The last one was when we met \Nat the training camp two years ago, huh?
+Dialogue: 0,0:05:27.94,0:05:29.96,Default,OMAGARI,0,0,0,,Gimme a break.
+Dialogue: 0,0:05:29.96,0:05:33.11,Default,OMAGARI,0,0,0,,Thanks for sending me \Nto that clifftop training back then.
+Dialogue: 0,0:05:33.11,0:05:35.83,Default,SHIRAISHI,0,0,0,,Kin, how are you liking doubles?
+Dialogue: 0,0:05:35.83,0:05:38.23,Default,SHIRAISHI,0,0,0,,Omagari is really reliable, isn't he?
+Dialogue: 0,0:05:38.46,0:05:41.96,Default,KINTARO,0,0,0,,Havin' four people on the court \Nmakes it feel super cramped.
+Dialogue: 0,0:05:41.96,0:05:43.31,Default,KINTARO,0,0,0,,It's hard.
+Dialogue: 0,0:05:47.84,0:05:51.99,Default,SHIRAISHI,0,0,0,,Kin, remember this doubles \Nexperience well, you hear?
+Dialogue: 0,0:05:52.41,0:05:55.33,Default,MARUI,0,0,0,,One-set match. Toyama to serve.
+Dialogue: 0,0:05:55.33,0:05:56.66,Default,KINTARO,0,0,0,,All right!
+Dialogue: 0,0:06:02.29,0:06:05.24,Default,YUKIMURA,0,0,0,,The #1 singles match \Nis between high schoolers, huh?
+Dialogue: 0,0:06:05.24,0:06:08.01,Default,SANADA,0,0,0,,Yes. We should watch this with interest.
+Dialogue: 0,0:06:13.89,0:06:16.55,Default,YANAGI,0,0,0,,Game, Tokugawa. 1-0.
+Dialogue: 0,0:06:20.60,0:06:22.76,Default,YANAGI,0,0,0,,Game, Duke. 1-1.
+Dialogue: 0,0:06:25.13,0:06:27.65,Default,YANAGI,0,0,0,,Game, Tokugawa. 2-1.
+Dialogue: 0,0:06:29.72,0:06:31.91,Default,YANAGI,0,0,0,,Game, Duke. 2-2.
+Dialogue: 0,0:06:34.96,0:06:37.61,Default,YANAGI,0,0,0,,Game, Tokugawa. 3-2.
+Dialogue: 0,0:06:38.12,0:06:42.43,Default,YUKIMURA,0,0,0,,Tokugawa's playing very differently \Nthan when he faced you, Sanada.
+Dialogue: 0,0:06:42.43,0:06:44.09,Default,SANADA,0,0,0,,Is that a jab at me, Yukimura?
+Dialogue: 0,0:06:44.55,0:06:48.64,Default,SANADA,0,0,0,,You're right, though. He waited for me\N to complete my triple clutch
+Dialogue: 0,0:06:48.64,0:06:50.58,Default,SANADA,0,0,0,,before taking me down.
+Dialogue: 0,0:06:51.78,0:06:56.57,Default,YUKIMURA,0,0,0,,The top players here \Ntruly are monsters, aren't they?
+Dialogue: 0,0:07:05.02,0:07:06.70,Default,YUKIMURA,0,0,0,,H-Here it comes.
+Dialogue: 0,0:07:06.70,0:07:11.05,Default,SANADA,0,0,0,,Even Tokugawa doesn't stand a chance\N if he gets hit by that.
+Dialogue: 0,0:07:11.77,0:07:14.96,Default,DUKE,0,0,0,,Play ball!
+Dialogue: 0,0:07:15.95,0:07:18.62,Default,DUKE,0,0,0,,Duke Home Run!
+Dialogue: 0,0:07:20.20,0:07:21.16,Italics,DUKE {M},0,0,0,,What the...
+Dialogue: 0,0:07:21.77,0:07:27.13,Italics,DUKE {M},0,0,0,,He anticipated a home run and \Nhad a black hole ready behind him?
+Dialogue: 0,0:07:32.72,0:07:34.64,Italics,TOKUGAWA {M},0,0,0,,A Duke Bunt, huh?
+Dialogue: 0,0:07:34.64,0:07:36.15,Italics,TOKUGAWA {M},0,0,0,,I'm not going to fall for...
+Dialogue: 0,0:07:37.28,0:07:39.03,Italics,TOKUGAWA {M},0,0,0,,Duke Buster?
+Dialogue: 0,0:07:41.51,0:07:44.12,Default,YANAGI,0,0,0,,Game, Duke. 3-3.
+Dialogue: 0,0:07:46.30,0:07:49.24,Default,DUKE,0,0,0,,You had me sweating there.
+Dialogue: 0,0:07:50.46,0:07:52.78,Default,TOKUGAWA,0,0,0,,You're intent on crushing me, huh?
+Dialogue: 0,0:07:53.45,0:07:56.20,Default,TOKUGAWA,0,0,0,,Bring it, Duke.
+Dialogue: 0,0:07:56.20,0:08:00.18,Default,SANADA,0,0,0,,Amazing. Burn this \Ninto your retinas, Yukimura.
+Dialogue: 0,0:08:00.18,0:08:01.17,Default,YUKIMURA,0,0,0,,Right.
+Dialogue: 0,0:08:01.17,0:08:06.95,Default,YUKIMURA,0,0,0,,This is the singles rivalry we need to \Naim for as Team Japan's top players.
+Dialogue: 0,0:08:14.85,0:08:16.17,Default,KAJI,0,0,0,,0-15.
+Dialogue: 0,0:08:16.69,0:08:18.04,Default,IRIE,0,0,0,,Whoops.
+Dialogue: 0,0:08:24.87,0:08:26.29,Default,IRIE,0,0,0,,Cross-court next, yeah?
+Dialogue: 0,0:08:28.93,0:08:30.24,Default,KAJI,0,0,0,,0-30.
+Dialogue: 0,0:08:31.34,0:08:34.69,Default,IRIE,0,0,0,,Ah, you did the opposite \Nof what I expected.
+Dialogue: 0,0:08:43.93,0:08:46.75,Default,ATOBE,0,0,0,,How long do you plan \Nto keep mocking me?
+Dialogue: 0,0:08:47.00,0:08:49.16,Default,IRIE,0,0,0,,What? I'm offended.
+Dialogue: 0,0:08:52.30,0:08:53.47,Default,ATOBE,0,0,0,,That's my line.
+Dialogue: 0,0:08:57.07,0:09:00.42,Default,ATOBE,0,0,0,,In that case, I'll make you \Nshow your {\i1}true{\i0} face.
+Dialogue: 0,0:09:03.25,0:09:04.98,Italics,OSHITARI {M},0,0,0,,Rondo to Destruction.
+Dialogue: 0,0:09:12.27,0:09:13.81,Default,KAJI,0,0,0,,15-30.
+Dialogue: 0,0:09:14.32,0:09:16.32,Default,IRIE,0,0,0,,Satisfied now?
+Dialogue: 0,0:09:17.15,0:09:18.94,Default,ATOBE,0,0,0,,That's what I'm talking about.
+Dialogue: 0,0:09:32.70,0:09:34.16,Default,KAJI,0,0,0,,30-30.
+Dialogue: 0,0:09:37.49,0:09:38.85,Default,KAJI,0,0,0,,40-30.
+Dialogue: 0,0:09:54.38,0:09:56.46,Italics,OSHITARI {M},0,0,0,,Rondo to Destruction again, huh?
+Dialogue: 0,0:09:56.46,0:09:58.58,Italics,OSHITARI {M},0,0,0,,Or wait, is this Fugue to Despair?
+Dialogue: 0,0:09:58.58,0:10:01.12,Default,ATOBE,0,0,0,,Try countering {\i1}this{\i0}.
+Dialogue: 0,0:10:03.49,0:10:06.28,Italics,OSHITARI {M},0,0,0,,If it keeps low, he can't counter it.
+Dialogue: 0,0:10:09.88,0:10:12.45,Default,KAJI,0,0,0,,Game, Irie. 1-0.
+Dialogue: 0,0:10:13.01,0:10:16.46,Default,IRIE,0,0,0,,Now, what will you show me next?
+Dialogue: 0,0:10:17.02,0:10:20.46,Default,ATOBE,0,0,0,,Man, you're one irritating jerk.
+Dialogue: 0,0:10:27.32,0:10:30.16,Italics,OSHITARI {M},0,0,0,,Rondo to Destruction \Nand Fugue to Despair.
+Dialogue: 0,0:10:30.57,0:10:33.99,Italics,OSHITARI {M},0,0,0,,Who would've guessed he'd return \Neach one of Atobe's signature moves?
+Dialogue: 0,0:10:35.18,0:10:37.85,Default,KAJI,0,0,0,,Game, Irie. 2-0.
+Dialogue: 0,0:10:38.16,0:10:40.48,Italics,OSHITARI {M},0,0,0,,This is crazy. He's way too strong.
+Dialogue: 0,0:10:40.48,0:10:42.78,Italics,OSHITARI {M},0,0,0,,He's a different player than \Nhe was in the previous matches.
+Dialogue: 0,0:10:43.85,0:10:47.43,Default,IRIE,0,0,0,,I honestly thought \Nyou were better than this.
+Dialogue: 0,0:10:47.43,0:10:49.42,Default,IRIE,0,0,0,,Was I wrong to assume that?
+Dialogue: 0,0:10:49.76,0:10:50.99,Default,ATOBE,0,0,0,,What?
+Dialogue: 0,0:10:51.74,0:10:58.44,Default,IRIE,0,0,0,,Please don't disappoint me further, Atobe.
+Dialogue: 0,0:11:02.31,0:11:03.98,Default,SIGN,0,0,0,,{\fad(230,0)\fnGeorgia\b1\bord1\shad1.5\blur0.2\fs15\an8\4a&H00&\c&H52B5D1&\3c&H2405A9&\4c&H000000&\pos(491,269)}Prince of Tennis II
+Dialogue: 0,0:11:02.31,0:11:03.98,Default,SIGN,0,0,0,,{\fad(230,0)\fnArial\b1\bord0.4\shad1.5\blur0.2\fs7\an8\4a&H00&\3c&HFFFFFF&\4c&HFFFFFF&\3c&H646465&\4c&H000000&)\pos(491.5,314)}Final Member Selection Match
+Dialogue: 0,0:11:07.31,0:11:08.98,Default,SIGN,0,0,0,,{\fad(230,0)\fnGeorgia\b1\bord1\shad1.5\blur0.2\fs15\an8\4a&H00&\c&H52B5D1&\3c&H2405A9&\4c&H000000&\pos(110.5,300.5)}Prince of Tennis II
+Dialogue: 0,0:11:07.31,0:11:08.98,Default,SIGN,0,0,0,,{\fad(230,0)\fnArial\b1\bord0.4\shad1.5\blur0.2\fs7\an8\4a&H00&\3c&HFFFFFF&\4c&HFFFFFF&\3c&H646465&\4c&H000000&)\pos(106.5,340)}Final Member Selection Match
+Dialogue: 0,0:11:09.70,0:11:12.10,Default,MASKMAN H,0,0,0,,Exotic of Japan!
+Dialogue: 0,0:11:14.15,0:11:15.85,Default,MASKMAN J,0,0,0,,Black Jackknife!
+Dialogue: 0,0:11:17.76,0:11:18.86,Default,MASKMAN H,0,0,0,,Perish.
+Dialogue: 0,0:11:26.22,0:11:28.56,Italics,KIMISHIMA {M},0,0,0,,It's like they're doing \Nthe catch-and-throw drill.
+Dialogue: 0,0:11:31.95,0:11:33.13,Default,KIMISHIMA,0,0,0,,0-30.
+Dialogue: 0,0:11:33.80,0:11:36.17,Default,MASKMAN H,0,0,0,,Come on now. What the hell are you doing?
+Dialogue: 0,0:11:37.73,0:11:39.88,Default,MORI,0,0,0,,Ruthless right from the get-go, huh?
+Dialogue: 0,0:11:39.88,0:11:41.23,Default,MORI,0,0,0,,We need to up our game.
+Dialogue: 0,0:11:41.49,0:11:43.27,Default,MORI,0,0,0,,I'm counting on you, Tsuki.
+Dialogue: 0,0:11:43.71,0:11:44.90,Default,OCHI,0,0,0,,Mach Serve.
+Dialogue: 0,0:11:48.34,0:11:49.75,Default,KIMISHIMA,0,0,0,,15-30.
+Dialogue: 0,0:11:50.77,0:11:51.98,Default,OCHI,0,0,0,,Mach Serve.
+Dialogue: 0,0:11:55.98,0:11:57.31,Default,KIMISHIMA,0,0,0,,30-30.
+Dialogue: 0,0:11:57.60,0:11:58.70,Default,OCHI,0,0,0,,Mach Serve.
+Dialogue: 0,0:12:00.99,0:12:04.36,Default,MORI,0,0,0,,Way to go, Tsuki. \NYou turned the tables in no time.
+Dialogue: 0,0:12:04.61,0:12:08.32,Default,KIMISHIMA,0,0,0,,Still, they're starting \Nto get their rackets on it.
+Dialogue: 0,0:12:08.57,0:12:09.62,Default,OCHI,0,0,0,,Mach Serve.
+Dialogue: 0,0:12:13.94,0:12:15.04,Default,MORI,0,0,0,,Seriously?
+Dialogue: 0,0:12:19.63,0:12:23.23,Default,KIMISHIMA,0,0,0,,Game, Ochi and Mori. 1-0.
+Dialogue: 0,0:12:23.23,0:12:24.43,Default,MORI,0,0,0,,All right!
+Dialogue: 0,0:12:24.70,0:12:25.90,Default,MASKMAN H,0,0,0,,Ochi.
+Dialogue: 0,0:12:26.70,0:12:29.23,Default,MASKMAN H,0,0,0,,Is that all your Mach Serve's got?
+Dialogue: 0,0:12:31.22,0:12:32.96,Default,MASKMAN H,0,0,0,,Phoenix Dance!
+Dialogue: 0,0:12:34.19,0:12:38.19,Default,KIMISHIMA,0,0,0,,Game, Maskman H and Maskman J. 1-1.
+Dialogue: 0,0:12:41.17,0:12:44.79,Default,KIMISHIMA,0,0,0,,Game, Ochi and Mori. 2-1.
+Dialogue: 0,0:12:48.41,0:12:52.40,Default,KIMISHIMA,0,0,0,,Game, Maskman H and Maskman J. 2-2.
+Dialogue: 0,0:13:00.05,0:13:04.55,Italics,MASKMAN H {M},0,0,0,,Now, show me your {\i0}true{\i1} Mach Serve.{\i0}
+Dialogue: 0,0:13:04.55,0:13:05.57,Default,OCHI,0,0,0,,Mach Serve.
+Dialogue: 0,0:13:11.09,0:13:12.55,Default,KIMISHIMA,0,0,0,,15-0.
+Dialogue: 0,0:13:30.10,0:13:31.68,Default,MARUI,0,0,0,,15-40.
+Dialogue: 0,0:13:33.01,0:13:35.82,Default,KINTARO,0,0,0,,Not bad, Shiraishi.
+Dialogue: 0,0:13:35.82,0:13:38.53,Default,SHIRAISHI,0,0,0,,And how's Kin playing?
+Dialogue: 0,0:13:38.53,0:13:41.36,Default,KINTARO,0,0,0,,I'm always in top form.
+Dialogue: 0,0:13:41.36,0:13:45.46,Default,KINTARO,0,0,0,,It begins now. This is where \Nthings start to get interesting.
+Dialogue: 0,0:13:45.46,0:13:48.37,Default,OMAGARI,0,0,0,,Hey now. Isn't it a bit too soon for that?
+Dialogue: 0,0:13:52.47,0:13:53.52,Default,KINTARO,0,0,0,,Outta the way.
+Dialogue: 0,0:13:53.52,0:13:54.23,Default,OMAGARI,0,0,0,,Huh?
+Dialogue: 0,0:13:54.23,0:13:56.12,Default,KINTARO,0,0,0,,Dual-racket broski.
+Dialogue: 0,0:13:58.37,0:14:00.20,Default,OMAGARI,0,0,0,,Gimme a break.
+Dialogue: 0,0:14:00.20,0:14:02.44,Default,OMAGARI,0,0,0,,Didn't you learn {\i1}anything \N{\i0}from our last match?
+Dialogue: 0,0:14:02.84,0:14:05.28,Italics,SHIRAISHI {M},0,0,0,,Still the same old Kin.
+Dialogue: 0,0:14:05.66,0:14:07.95,Italics,SHIRAISHI {M},0,0,0,,But from here on out, I won't hold back.
+Dialogue: 0,0:14:08.51,0:14:10.51,Italics,SHIRAISHI {M},0,0,0,,I'm going all out to win!
+Dialogue: 0,0:14:24.18,0:14:27.81,Default,INUI,0,0,0,,As soon as the match started, \Nhe went straight from Drive A to Drive B.
+Dialogue: 0,0:14:28.42,0:14:30.39,Default,INUI,0,0,0,,He's gone all out from the first point.
+Dialogue: 0,0:14:30.39,0:14:32.39,Default,OISHI,0,0,0,,Who's going to win this match?
+Dialogue: 0,0:14:32.68,0:14:33.88,Default,INUI,0,0,0,,Echizen.
+Dialogue: 0,0:14:34.11,0:14:35.10,Default,KITE,0,0,0,,Echizen.
+Dialogue: 0,0:14:35.92,0:14:38.51,Default,OISHI,0,0,0,,Echizen for me, too. I think.
+Dialogue: 0,0:14:38.51,0:14:39.64,Default,KIRIHARA,0,0,0,,Fuji.
+Dialogue: 0,0:14:41.51,0:14:43.79,Default,KIRIHARA,0,0,0,,That guy's seriously unnerving.
+Dialogue: 0,0:14:43.79,0:14:46.88,Default,KIRIHARA,0,0,0,,Against a strong opponent, \Nhe raises his game to match.
+Dialogue: 0,0:14:49.80,0:14:51.83,Default,OISHI,0,0,0,,He made Fuji hit a lob?
+Dialogue: 0,0:14:51.83,0:14:54.32,Default,INUI,0,0,0,,A smash won't work against Fuji.
+Dialogue: 0,0:14:54.51,0:14:55.33,Default,INUI,0,0,0,,Hang on.
+Dialogue: 0,0:14:56.29,0:15:00.80,Default,INUI,0,0,0,,In a previous club match, he intentionally\Nhit the net cord to check the ball's speed
+Dialogue: 0,0:15:00.80,0:15:03.31,Default,INUI,0,0,0,,in order to avoid Fuji's counter.
+Dialogue: 0,0:15:04.68,0:15:07.72,Default,INUI,0,0,0,,But this time, he intends to meet\N the Bear Drop head-on.
+Dialogue: 0,0:15:11.70,0:15:13.55,Default,SENGOKU,0,0,0,,0-15.
+Dialogue: 0,0:15:14.98,0:15:18.30,Default,FUJI,0,0,0,,Critical Wind: Hollyhock Blizzard.
+Dialogue: 0,0:15:19.03,0:15:23.72,Default,RYOMA,0,0,0,,Aw, bummer. So you're not gonna use \Nany more triple counters on me?
+Dialogue: 0,0:15:24.16,0:15:28.81,Default,RYOMA,0,0,0,,Countering a smash with a smash. \NImpressive as always, Fuji.
+Dialogue: 0,0:15:28.81,0:15:32.65,Default,RYOMA,0,0,0,,I guess this means neither of us \Nis who we were back then.
+Dialogue: 0,0:15:33.69,0:15:35.40,Default,OISHI,0,0,0,,Those two...
+Dialogue: 0,0:15:35.40,0:15:39.11,Default,INUI,0,0,0,,It looks like they're trying to settle \Nwhat they started on that rainy day.
+Dialogue: 0,0:15:39.11,0:15:40.42,Default,KITE,0,0,0,,Rainy day?
+Dialogue: 0,0:15:40.87,0:15:42.11,Default,KIRIHARA,0,0,0,,What's that about?
+Dialogue: 0,0:15:43.57,0:15:48.34,Default,OISHI,0,0,0,,One time, during a practice match between \Nthese two, there was a sudden downpour.
+Dialogue: 0,0:15:48.88,0:15:50.92,Flashback,OISHI,0,0,0,,Oh, man. Not good.
+Dialogue: 0,0:15:50.92,0:15:53.65,Flashback,KIKUMARU,0,0,0,,What a shame. What a pity. \NSee ya next week.
+Dialogue: 0,0:16:12.88,0:16:15.15,Flashback,KIKUMARU,0,0,0,,They plan to settle it here and now.
+Dialogue: 0,0:16:18.41,0:16:20.70,Flashback,RYOMA,0,0,0,,You're not gonna run away, are you?
+Dialogue: 0,0:16:20.70,0:16:24.12,Flashback,FUJI,0,0,0,,I'm still good to play in rain like this.
+Dialogue: 0,0:16:30.12,0:16:35.59,Default,OISHI,0,0,0,,But they ended up getting scolded by \NCoach Ryuzaki, and the match was called off.
+Dialogue: 0,0:16:37.98,0:16:41.94,Flashback,FUJI,0,0,0,,It's unfortunate, but it looks like \Nwe'll have to put this match on hold.
+Dialogue: 0,0:16:41.94,0:16:46.39,Flashback,RYOMA,0,0,0,,No fair. Just because you're winning 4-3.
+Dialogue: 0,0:16:46.68,0:16:48.05,Flashback,RYOMA,0,0,0,,We were just getting going.
+Dialogue: 0,0:16:51.30,0:16:55.98,Default,OISHI,0,0,0,,Those two haven't played\N each other since then.
+Dialogue: 0,0:16:55.98,0:17:01.46,Default,KIRIHARA,0,0,0,,Huh. So that means \Nthis match would settle it?
+Dialogue: 0,0:17:02.00,0:17:03.50,Default,RYOMA,0,0,0,,Here it comes.
+Dialogue: 0,0:17:08.98,0:17:13.52,Italics,RYOMA {M},0,0,0,,He's going all out on the attack right \Nfrom the start to set the pace.
+Dialogue: 0,0:17:13.52,0:17:15.46,Italics,RYOMA {M},0,0,0,,I'm not gonna let him.
+Dialogue: 0,0:17:18.15,0:17:19.42,Default,OISHI,0,0,0,,It's Hope.
+Dialogue: 0,0:17:21.38,0:17:23.59,Italics,RYOMA {M},0,0,0,,It didn't go over the net?
+Dialogue: 0,0:17:23.59,0:17:25.07,Default,SENGOKU,0,0,0,,0-30.
+Dialogue: 0,0:17:25.76,0:17:29.60,Default,FUJI,0,0,0,,Fifth Counter, \NHecatoncheires the Gatekeeper.
+Dialogue: 0,0:17:29.89,0:17:34.42,Default,INUI,0,0,0,,By utilizing both halves of the strings\N to add major spin to the ball,
+Dialogue: 0,0:17:34.42,0:17:37.95,Default,INUI,0,0,0,,he made it impossible for \Nhis opponent's shots to clear the net.
+Dialogue: 0,0:17:40.12,0:17:41.62,Italics,RYOMA,0,0,0,,Why, you...
+Dialogue: 0,0:17:46.66,0:17:48.23,Default,SENGOKU,0,0,0,,0-40.
+Dialogue: 0,0:17:48.72,0:17:52.46,Default,OISHI,0,0,0,,Even Echizen's Hope move is ineffective\N if it doesn't go over the net.
+Dialogue: 0,0:17:56.66,0:18:01.86,Italics,RYOMA {M},0,0,0,,Just like Shiraishi, if I don't put \Nmore spin on the ball than Fuji,
+Dialogue: 0,0:18:01.86,0:18:04.88,Italics,RYOMA {M},0,0,0,,I'll fall prey to his Hecatoncheires\N every single time.
+Dialogue: 0,0:18:05.59,0:18:09.01,Italics,RYOMA {M},0,0,0,,So I'll just have to counter \Nwith a super rotation squared.
+Dialogue: 0,0:18:09.35,0:18:11.30,Italics,RYOMA,0,0,0,,Super Drive B!
+Dialogue: 0,0:18:12.97,0:18:14.45,Default,INUI,0,0,0,,Echizen countered it.
+Dialogue: 0,0:18:14.45,0:18:16.15,Italics,FUJI {M},0,0,0,,Impressive, Echizen.
+Dialogue: 0,0:18:16.85,0:18:19.66,Italics,FUJI {M},0,0,0,,I'm always struck by your tennis sense.
+Dialogue: 0,0:18:19.99,0:18:21.53,Italics,FUJI {M},0,0,0,,But it's unfortunate.
+Dialogue: 0,0:18:21.84,0:18:25.67,Italics,FUJI {M},0,0,0,,You can't hit the super sweet spot on the ball\Nwhen you put on spin like that.
+Dialogue: 0,0:18:26.16,0:18:28.79,Default,FUJI,0,0,0,,Triple Counter: Swallow Return.
+Dialogue: 0,0:18:30.55,0:18:33.61,Default,SENGOKU,0,0,0,,Game, Fuji. 1-0.
+Dialogue: 0,0:18:36.42,0:18:40.13,Default,KITE,0,0,0,,Echizen's been broken out of the blue.
+Dialogue: 0,0:18:40.49,0:18:43.85,Italics,RYOMA {M},0,0,0,,Yup, this guy's really good at tennis.
+Dialogue: 0,0:18:44.60,0:18:48.30,Italics,FUJI {M},0,0,0,,Using every technique in your arsenal\Nand making it a tactical exchange...
+Dialogue: 0,0:18:48.67,0:18:51.34,Italics,FUJI {M},0,0,0,,As I thought, a game with you is always fun.
+Dialogue: 0,0:18:53.94,0:18:57.80,Italics,FUJI {M},0,0,0,,No matter how far I run on ahead, \Nyou manage to catch up right away.
+Dialogue: 0,0:18:58.67,0:19:01.90,Italics,FUJI {M},0,0,0,,I rarely get to experience \Na thrill like this.
+Dialogue: 0,0:19:04.62,0:19:06.09,Flashback,FUJI,0,0,0,,Hey, Tezuka.
+Dialogue: 0,0:19:06.09,0:19:08.87,Flashback,FUJI,0,0,0,,When you played Echizen, \Nwas it like this for you?
+Dialogue: 0,0:19:10.79,0:19:12.46,Flashback,TEZUKA,0,0,0,,You knew?
+Dialogue: 0,0:19:12.46,0:19:15.03,Flashback,FUJI,0,0,0,,Yeah. Vaguely.
+Dialogue: 0,0:19:17.19,0:19:20.55,Default,FUJI,0,0,0,,I've been waiting for this. \NThe Pinnacle of Perfection.
+Dialogue: 0,0:19:22.70,0:19:26.04,Default,FUJI,0,0,0,,I don't lose to the same opponent twice.
+Dialogue: 0,0:19:26.91,0:19:30.98,Default,RYOMA,0,0,0,,You know, I haven't notched up\Na win against you yet, Fuji.
+Dialogue: 0,0:19:37.44,0:19:40.70,Italics,FUJI {M},0,0,0,,And this is when my time \Nstarts to advance.
+Dialogue: 0,0:19:42.70,0:19:45.57,Default,SENGOKU,0,0,0,,Game, Fuji. 2-0.
+Dialogue: 0,0:19:45.84,0:19:48.59,Default,FUJI,0,0,0,,Critical Wind: Wind of Light.
+Dialogue: 0,0:19:50.17,0:19:54.79,Default,INUI,0,0,0,,Fuji's using Wind of Light \Nto keep up with Pinnacle's speed.
+Dialogue: 0,0:19:55.51,0:19:59.58,Default,INUI,0,0,0,,Who would've guessed he'd already \Nhave Pinnacle figured out?
+Dialogue: 0,0:20:00.01,0:20:02.79,Default,KIRIHARA,0,0,0,,S-See? Didn't I tell ya \NFuji would come out on top?
+Dialogue: 0,0:20:03.06,0:20:05.98,Default,INUI,0,0,0,,Normally, you would simulate \Nyour opponent's moves
+Dialogue: 0,0:20:05.98,0:20:10.09,Default,INUI,0,0,0,,and the direction of the ball in your head\N before making your next move.
+Dialogue: 0,0:20:10.32,0:20:13.23,Default,INUI,0,0,0,,But Fuji's Wind of Light bypasses all that,
+Dialogue: 0,0:20:13.23,0:20:16.39,Default,INUI,0,0,0,,and he can react instantly\Nin his opponent's blind spot.
+Dialogue: 0,0:20:17.32,0:20:20.73,Default,INUI,0,0,0,,Unsurprisingly, Fuji's tennis sense\N is truly exceptional.
+Dialogue: 0,0:20:21.89,0:20:25.03,Default,SENGOKU,0,0,0,,Game, Echizen. 1-2.
+Dialogue: 0,0:20:25.87,0:20:27.34,Italics,FUJI {M},0,0,0,,"Sense," huh?
+Dialogue: 0,0:20:28.55,0:20:32.65,Italics,FUJI {M},0,0,0,,That's right. While everyone was \Nworking hard forging their own path,
+Dialogue: 0,0:20:32.65,0:20:38.87,Italics,FUJI {M},0,0,0,,I was honing my own skills \Nto experience the thrill of competition.
+Dialogue: 0,0:20:39.55,0:20:42.38,Default,SENGOKU,0,0,0,,Game, Fuji. 3-1.
+Dialogue: 0,0:20:42.38,0:20:47.04,Italics,FUJI {M},0,0,0,,But ever since this desire to win\Ntook root inside of me,
+Dialogue: 0,0:20:47.04,0:20:50.89,Italics,FUJI {M},0,0,0,,I haven't been sure whether \Nmy efforts truly justified it.
+Dialogue: 0,0:20:51.51,0:20:54.90,Default,SENGOKU,0,0,0,,Game, Echizen. 2-3.
+Dialogue: 0,0:20:55.77,0:20:59.48,Italics,FUJI {M},0,0,0,,Because I've always felt \Nlike my love of tennis
+Dialogue: 0,0:20:59.93,0:21:03.69,Italics,FUJI {M},0,0,0,,paled into insignificance\Nnext to his true devotion to it.
+Dialogue: 0,0:21:05.55,0:21:07.66,Italics,FUJI {M},0,0,0,,But I was wrong.
+Dialogue: 0,0:21:08.81,0:21:13.91,Italics,FUJI {M},0,0,0,,There was no need to compare the vow\NI made back then to anyone.
+Dialogue: 0,0:21:14.55,0:21:17.92,Italics,FUJI {M},0,0,0,,So if this is a gift from God...
+Dialogue: 0,0:21:20.37,0:21:23.29,Default,SENGOKU,0,0,0,,Game, Fuji. 4-2.
+Dialogue: 0,0:21:23.74,0:21:27.74,Italics,FUJI {M},0,0,0,,I will never let go of this gift\N known as "tennis."
+Dialogue: 0,0:21:31.92,0:21:33.86,Default,RYOMA,0,0,0,,Impressive as always, Fuji.
+Dialogue: 0,0:21:34.42,0:21:35.48,Default,RYOMA,0,0,0,,But...
+Dialogue: 0,0:21:36.19,0:21:37.78,Default,RYOMA,0,0,0,,You still have a long way to go.
+Dialogue: 0,0:21:40.45,0:21:44.74,Default,CREDITS,0,0,0,,{\fad(500,650)\an7\blur2\fs16\shad0\fnArial\bord2.2\pos(20,20)\c&H131315&\3c&H8F9090&}Translation: Yukari Murase-Louden\NTiming: Edgar Cruz\NEditing: SMR\NQuality Control: William Haggard\NTranslation Check: David Saylor
+Dialogue: 0,0:23:17.60,0:23:22.16,Italics,RYOMA,0,0,0,,Duke stomped all over \NTokugawa's Divine Path of the Asura?
+Dialogue: 0,0:23:22.49,0:23:26.33,Italics,RYOMA,0,0,0,,The games on every court are red-hot\N right from the start.
+Dialogue: 0,0:23:26.58,0:23:28.58,Italics,RYOMA,0,0,0,,Anyone could win.
+Dialogue: 0,0:23:29.30,0:23:31.35,Italics,RYOMA,0,0,0,,Next time: "Unwavering Desire."
+Dialogue: 0,0:23:29.59,0:23:40.05,Default,SIGN,0,0,0,,{\fad(920,0)\fnGeorgia\bord0.6\3a&HF50&\shad0.2\blur1.1\b1\fscx85\fs22\pos(320,160)\3c&H1F1E1D&\4c&H5B5B5B&\c&HFFFEFE&}Unwavering Desire
+Dialogue: 0,0:23:32.20,0:23:35.81,Italics,RYOMA,0,0,0,,Fuji, we're also just getting started, yeah?
+Dialogue: 0,0:23:36.09,0:23:38.18,Italics,RYOMA,0,0,0,,I'm gonna come at you with my Drive C.
+
