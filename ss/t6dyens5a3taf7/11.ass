@@ -1,0 +1,361 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 1
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:13.70,0:01:18.08,Default,,0,0,0,,(CHITOSE IS IN THE RAMUNE BOTTLE)
+Dialogue: 0,0:01:18.16,0:01:22.62,Default,,0,0,0,,(CHITOSE IS IN THE RAMUNE BOTTLE)
+Dialogue: 0,0:01:33.26,0:01:35.30,Default,,0,0,0,,Awak pasti nak biarkan mereka bermain?
+Dialogue: 0,0:01:35.39,0:01:36.89,Default,,0,0,0,,Keputusannya dah jelas.
+Dialogue: 0,0:01:37.26,0:01:40.73,Default,,0,0,0,,Nampaknya awak pandang rendah\Npada jaguh kami.
+Dialogue: 0,0:01:41.18,0:01:43.31,Default,,0,0,0,,(FUJI)\NSekolah Tinggi Fuji ialah pasukan kuat.
+Dialogue: 0,0:01:43.40,0:01:46.94,Default,,0,0,0,,Gandingan dia dengan pengawal mata kamu\Nialah ancaman walaupun untuk kami.
+Dialogue: 0,0:01:47.32,0:01:50.74,Default,,0,0,0,,Awak nak kata berlatih melawan\Nsekolah kami berbaloi kalau ada Nana,
+Dialogue: 0,0:01:51.03,0:01:54.11,Default,,0,0,0,,tapi kurang berbaloi kalau hanya ada Umi?
+Dialogue: 0,0:01:56.37,0:02:00.12,Default,,0,0,0,,Saya nak kata mereka cuma ancaman\Napabila berdua mereka bersama.
+Dialogue: 0,0:02:00.66,0:02:03.87,Default,,0,0,0,,Jangan kata awak nampak diri awak\Nyang dulu dalam diri dia?
+Dialogue: 0,0:02:07.09,0:02:08.17,Default,,0,0,0,,Tentulah tidak.
+Dialogue: 0,0:02:08.67,0:02:13.30,Default,,0,0,0,,Halangan yang dia hadapi\Nadalah jauh lebih tinggi.
+Dialogue: 0,0:02:14.18,0:02:15.59,Default,,0,0,0,,Biar saya jelaskan sesuatu.
+Dialogue: 0,0:02:15.89,0:02:18.18,Default,,0,0,0,,Pemain-pemain kami bukannya lemah.
+Dialogue: 0,0:02:21.18,0:02:23.85,Default,,0,0,0,,Sekolah Tinggi Ashi masih sama macam dulu.
+Dialogue: 0,0:02:32.78,0:02:33.74,Default,,0,0,0,,Baiklah.
+Dialogue: 0,0:02:34.74,0:02:35.82,Default,,0,0,0,,Mari kita mulakan.
+Dialogue: 0,0:02:36.87,0:02:38.03,Default,,0,0,0,,Apa peraturannya?
+Dialogue: 0,0:02:38.37,0:02:40.24,Default,,0,0,0,,Setiap jaringan dikira sebagai satu mata.
+Dialogue: 0,0:02:40.33,0:02:41.66,Default,,0,0,0,,Sepuluh mata untuk menang.
+Dialogue: 0,0:02:41.75,0:02:43.83,Default,,0,0,0,,Giliran serangan hanya berubah\Napabila bola dicuri.
+Dialogue: 0,0:02:44.21,0:02:45.75,Default,,0,0,0,,Awak mula dulu.
+Dialogue: 0,0:02:47.08,0:02:49.80,Default,,0,0,0,,Baiknya awak.
+Dialogue: 0,0:02:50.30,0:02:51.42,Default,,0,0,0,,Apa maksudnya?
+Dialogue: 0,0:02:53.30,0:02:56.47,Default,,0,0,0,,Umi jenis yang suka main dekat\Ndengan jaring.
+Dialogue: 0,0:02:56.76,0:02:59.43,Default,,0,0,0,,Tapi Toudou boleh buat\Njaringan tiga mata dari perimeter.
+Dialogue: 0,0:03:00.43,0:03:02.93,Default,,0,0,0,,Kalau setiap jaringan bernilai satu mata,
+Dialogue: 0,0:03:03.02,0:03:06.14,Default,,0,0,0,,mungkin dia beri handikap\Nuntuk perbezaan ketinggian mereka.
+Dialogue: 0,0:03:06.31,0:03:08.19,Default,,0,0,0,,Malah dia lepaskan giliran\Nserangan pertama.
+Dialogue: 0,0:03:08.90,0:03:10.52,Default,,0,0,0,,Umi dipandang rendah.
+Dialogue: 0,0:03:12.65,0:03:14.32,Default,,0,0,0,,Awak nampak tak puas hati.
+Dialogue: 0,0:03:14.74,0:03:15.78,Default,,0,0,0,,Tidaklah.
+Dialogue: 0,0:03:15.86,0:03:18.91,Default,,0,0,0,,Saya berterima kasih\Nkerana awak terima cabaran saya.
+Dialogue: 0,0:03:19.62,0:03:20.83,Default,,0,0,0,,Sebagai ganti,
+Dialogue: 0,0:03:20.91,0:03:22.04,Default,,0,0,0,,kalau saya menang,
+Dialogue: 0,0:03:22.12,0:03:24.04,Default,,0,0,0,,kita akan main lagi\Ndengan syarat yang adil.
+Dialogue: 0,0:03:24.45,0:03:26.50,Default,,0,0,0,,Saya suka sikap awak.
+Dialogue: 0,0:03:35.80,0:03:37.59,Default,,0,0,0,,Awak dah dapat motivasi sekarang?
+Dialogue: 0,0:03:38.09,0:03:41.22,Default,,0,0,0,,Kita tak pernah bertemu\Nsecara langsung sebelum ini.
+Dialogue: 0,0:03:41.60,0:03:44.27,Default,,0,0,0,,Awak tiga kali lebih pantas\Ndaripada jangkaan saya.
+Dialogue: 0,0:03:44.72,0:03:48.60,Default,,0,0,0,,Ketika menggelecek, langkah mula\Ndan langkah ubah arah Umi sangat laju.
+Dialogue: 0,0:03:48.85,0:03:51.23,Default,,0,0,0,,Bukan senang nak curi bola daripada dia.
+Dialogue: 0,0:03:53.73,0:03:55.32,Default,,0,0,0,,Ayuh, sekali lagi.
+Dialogue: 0,0:03:55.69,0:03:57.53,Default,,0,0,0,,Saya akan lepasi awak dalam sekelip mata!
+Dialogue: 0,0:04:09.12,0:04:11.21,Default,,0,0,0,,Awak Aomi, bukan?
+Dialogue: 0,0:04:11.63,0:04:13.04,Default,,0,0,0,,Awak boleh panggil saya Haru.
+Dialogue: 0,0:04:13.34,0:04:14.71,Default,,0,0,0,,Boleh tahan, Haru.
+Dialogue: 0,0:04:14.80,0:04:16.30,Default,,0,0,0,,Awak boleh panggil saya Mai.
+Dialogue: 0,0:04:16.76,0:04:19.22,Default,,0,0,0,,Okey, Mai. Mari kita lawan habis-habisan.
+Dialogue: 0,0:04:19.63,0:04:22.55,Default,,0,0,0,,Tak, saya dah akui kebolehan awak,\Njadi cukuplah sampai sini saja.
+Dialogue: 0,0:04:22.93,0:04:25.35,Default,,0,0,0,,Apa maksud awak?
+Dialogue: 0,0:04:40.03,0:04:41.28,Default,,0,0,0,,Cuba bermain helah, ya?
+Dialogue: 0,0:04:41.57,0:04:44.95,Default,,0,0,0,,Teknik itu takkan berkesan pada orang\Nyang boleh melompat sebaik awak.
+Dialogue: 0,0:04:45.41,0:04:46.50,Default,,0,0,0,,Tak guna.
+Dialogue: 0,0:04:46.83,0:04:48.46,Default,,0,0,0,,Saya dah agak akan jadi begini.
+Dialogue: 0,0:04:48.54,0:04:50.37,Default,,0,0,0,,Sebab ketinggian mereka, bukan?
+Dialogue: 0,0:04:51.00,0:04:53.67,Default,,0,0,0,,Sebagai contoh,\Nkalau Toudo buat jaringan terbaiknya,
+Dialogue: 0,0:04:53.79,0:04:58.80,Default,,0,0,0,,saya tak pasti saya boleh menepisnya\Nwalaupun saya melompat setinggi mungkin.
+Dialogue: 0,0:04:59.51,0:05:01.13,Default,,0,0,0,,Tapi menentang Haru,
+Dialogue: 0,0:05:01.22,0:05:03.35,Default,,0,0,0,,lompatan yang lemah pun\Nboleh menghalang dia.
+Dialogue: 0,0:05:03.89,0:05:06.43,Default,,0,0,0,,Jadi dia masih sempat menghalang\Nwalaupun dia lewat sedetik?
+Dialogue: 0,0:05:07.06,0:05:10.14,Default,,0,0,0,,Masa apung Umi agak panjang,
+Dialogue: 0,0:05:10.23,0:05:11.77,Default,,0,0,0,,tapi Toudo pun sama.
+Dialogue: 0,0:05:11.85,0:05:14.06,Default,,0,0,0,,Kalau dia tak boleh\Ndapat kelebihan di udara,
+Dialogue: 0,0:05:14.15,0:05:16.15,Default,,0,0,0,,pemain yang lebih tinggi akan menang.
+Dialogue: 0,0:05:18.24,0:05:21.07,Default,,0,0,0,,Chitose, jangan kasihankan dia.
+Dialogue: 0,0:05:22.57,0:05:25.08,Default,,0,0,0,,Dia cuba untuk menjadi contoh.
+Dialogue: 0,0:05:29.00,0:05:31.33,Default,,0,0,0,,Saya dah agak ini akan berlaku.
+Dialogue: 0,0:05:32.96,0:05:34.00,Default,,0,0,0,,Sayang sekali.
+Dialogue: 0,0:05:41.55,0:05:44.55,Default,,0,0,0,,Kalau awak lebih tinggi 20 sentimeter,\Nhasilnya mungkin berbeza.
+Dialogue: 0,0:05:45.14,0:05:49.39,Default,,0,0,0,,Tapi dalam bola keranjang,\N20 sentimeter itulah segala-galanya.
+Dialogue: 0,0:05:51.06,0:05:53.90,Default,,0,0,0,,Kalaulah saya boleh lawan awak\Nyang setinggi 170 sentimeter.
+Dialogue: 0,0:05:55.61,0:05:58.65,Default,,0,0,0,,Boleh awak berhenti bercakap\Nmacam perlawanan dah tamat?
+Dialogue: 0,0:05:59.19,0:06:00.44,Default,,0,0,0,,Awak masih nak teruskan?
+Dialogue: 0,0:06:00.78,0:06:02.82,Default,,0,0,0,,Tentulah. Saya akan kalahkan awak.
+Dialogue: 0,0:06:05.45,0:06:07.49,Default,,0,0,0,,Dahsyat betul Mai Toudo itu.
+Dialogue: 0,0:06:07.58,0:06:10.41,Default,,0,0,0,,Saya tak sangka Umi\Nakan kalah seteruk itu.
+Dialogue: 0,0:06:10.50,0:06:12.25,Default,,0,0,0,,Beza tinggi mereka 20 sentimeter.
+Dialogue: 0,0:06:12.33,0:06:14.50,Default,,0,0,0,,Ketinggian pun satu bakat.
+Dialogue: 0,0:06:14.58,0:06:16.25,Default,,0,0,0,,Tapi ia agak mengecewakan.
+Dialogue: 0,0:06:16.33,0:06:19.21,Default,,0,0,0,,Umi selalu berlagak hebat\Ndan mengarah-arah kita.
+Dialogue: 0,0:06:19.30,0:06:21.80,Default,,0,0,0,,Kalaulah Nana kapten kita…
+Dialogue: 0,0:06:23.59,0:06:25.51,Default,,0,0,0,,Baiklah, fokus!
+Dialogue: 0,0:06:28.97,0:06:31.14,Default,,0,0,0,,Sampai bila awak nak tercegat di situ?
+Dialogue: 0,0:06:32.39,0:06:35.35,Default,,0,0,0,,Pergi bawa si dungu itu balik ke sini.
+Dialogue: 0,0:06:49.91,0:06:51.41,Default,,0,0,0,,Hei, si kenit.
+Dialogue: 0,0:06:53.37,0:06:57.17,Default,,0,0,0,,Lewatnya awak datang\Nuntuk memujuk saya.
+Dialogue: 0,0:06:57.67,0:06:59.96,Default,,0,0,0,,Kalau begitu,\Napa kata saya cium dahi awak?
+Dialogue: 0,0:07:00.25,0:07:03.47,Default,,0,0,0,,Saya tak suruh awak malukan saya.
+Dialogue: 0,0:07:06.76,0:07:09.43,Default,,0,0,0,,Pesaing awak itu sangat kuat.
+Dialogue: 0,0:07:10.81,0:07:12.60,Default,,0,0,0,,Pesaing, ya?
+Dialogue: 0,0:07:13.06,0:07:15.77,Default,,0,0,0,,Dia tak ingat nama saya pun.
+Dialogue: 0,0:07:15.85,0:07:16.98,Default,,0,0,0,,Itu menyakitkan…
+Dialogue: 0,0:07:17.06,0:07:18.06,Default,,0,0,0,,Aduh!
+Dialogue: 0,0:07:18.31,0:07:19.27,Default,,0,0,0,,Awak dungukah?
+Dialogue: 0,0:07:19.36,0:07:22.61,Default,,0,0,0,,Saya pun tak ingat nama\Natau muka lawan saya.
+Dialogue: 0,0:07:24.36,0:07:26.78,Default,,0,0,0,,Tapi saya ingat gaya permainan mereka.
+Dialogue: 0,0:07:27.86,0:07:29.66,Default,,0,0,0,,Mai Toudo sendiri pun cakap, bukan?
+Dialogue: 0,0:07:30.41,0:07:33.37,Default,,0,0,0,,Awak tiga kali lebih pantas\Ndaripada jangkaan saya.
+Dialogue: 0,0:07:34.04,0:07:35.71,Default,,0,0,0,,Dia kata "jangkaan".
+Dialogue: 0,0:07:36.08,0:07:38.96,Default,,0,0,0,,Dia takkan cakap begitu\Ntentang orang yang dia tak ingat.
+Dialogue: 0,0:07:41.88,0:07:42.92,Default,,0,0,0,,Begitu.
+Dialogue: 0,0:07:51.72,0:07:54.97,Default,,0,0,0,,Saya masih ingat Yuko pernah kata dia\Ntak peduli tentang menang atau kalah.
+Dialogue: 0,0:07:55.06,0:07:57.64,Default,,0,0,0,,Dia cuma menyertai kelab untuk berseronok.
+Dialogue: 0,0:07:58.52,0:08:02.73,Default,,0,0,0,,Saya tak pandang rendah\Nperspektif begitu dalam sukan.
+Dialogue: 0,0:08:05.49,0:08:08.28,Default,,0,0,0,,Baling bola lebih jauh daripada semalam.
+Dialogue: 0,0:08:09.03,0:08:10.74,Default,,0,0,0,,Pukulan pertama yang mengena.
+Dialogue: 0,0:08:11.24,0:08:13.08,Default,,0,0,0,,Menangkap bola terbang dengan hebat.
+Dialogue: 0,0:08:14.45,0:08:18.04,Default,,0,0,0,,Sepatutnya semua itu dah cukup\Nuntuk memuaskan hati.
+Dialogue: 0,0:08:20.46,0:08:22.96,Default,,0,0,0,,Saku! Haru!
+Dialogue: 0,0:08:28.63,0:08:32.51,Default,,0,0,0,,Tentu bagus kalau kita boleh main sukan\Nhanya untuk berseronok begitu.
+Dialogue: 0,0:08:33.05,0:08:35.77,Default,,0,0,0,,Itu mustahil bagi kita.
+Dialogue: 0,0:08:36.39,0:08:38.73,Default,,0,0,0,,Sebab jiwa kita pun terperangkap.
+Dialogue: 0,0:08:40.35,0:08:43.98,Default,,0,0,0,,Sejak saya kecil, saya paksa badan saya\Nke hadnya setiap hari,
+Dialogue: 0,0:08:44.65,0:08:46.57,Default,,0,0,0,,melalui kegagalan demi kegagalan,
+Dialogue: 0,0:08:46.82,0:08:49.07,Default,,0,0,0,,dan sering tak lena tidur\Nkerana dilanda kekecewaan.
+Dialogue: 0,0:08:50.49,0:08:52.78,Default,,0,0,0,,(FUJI)\NWalaupun begitu, saya tetap nak jadi lebih kuat.
+Dialogue: 0,0:08:52.95,0:08:54.20,Default,,0,0,0,,(FUJI)\NSaya nak jadi nombor satu.
+Dialogue: 0,0:08:55.16,0:08:59.91,Default,,0,0,0,,Jadi walaupun selepas saya putus asa,\Nia masih tak melepaskan jiwa saya.
+Dialogue: 0,0:09:00.29,0:09:03.25,Default,,0,0,0,,Jadi, saya cuma boleh cakap,\Nya, jiwa saya terperangkap.
+Dialogue: 0,0:09:04.96,0:09:07.55,Default,,0,0,0,,Apa pendapat awak tentang apa\Nyang Mai cakap?
+Dialogue: 0,0:09:07.88,0:09:09.59,Default,,0,0,0,,Tentang 20 sentimeter itu?
+Dialogue: 0,0:09:09.92,0:09:11.63,Default,,0,0,0,,Itu fakta yang tak dapat disangkal.
+Dialogue: 0,0:09:12.05,0:09:15.01,Default,,0,0,0,,Ya. Saya juga fikir begitu.
+Dialogue: 0,0:09:15.85,0:09:21.06,Default,,0,0,0,,Tapi orang yang tinggi pun\Nmungkin ada masalah mereka sendiri.
+Dialogue: 0,0:09:21.81,0:09:26.15,Default,,0,0,0,,Berlari dan melompat pada ketinggian itu\Nbermakna risiko kecederaan sentiasa dekat.
+Dialogue: 0,0:09:26.57,0:09:28.36,Default,,0,0,0,,Dia cemerlang dalam bola keranjang,
+Dialogue: 0,0:09:28.44,0:09:29.99,Default,,0,0,0,,tapi sebagai seorang gadis,
+Dialogue: 0,0:09:30.07,0:09:33.11,Default,,0,0,0,,dia mungkin pernah diejek.
+Dialogue: 0,0:09:34.03,0:09:37.29,Default,,0,0,0,,Saya tak nak hanya melihat apa\Nyang orang lain ada
+Dialogue: 0,0:09:37.37,0:09:39.58,Default,,0,0,0,,dan mencemburui mereka.
+Dialogue: 0,0:09:42.54,0:09:45.21,Default,,0,0,0,,Boleh saya tanya awak sesuatu?
+Dialogue: 0,0:09:46.63,0:09:49.05,Default,,0,0,0,,Adakah awak rasa usaha\Nsentiasa membuahkan hasil?
+Dialogue: 0,0:09:49.38,0:09:52.59,Default,,0,0,0,,Kalau saya terus berlari sekuat hati,\Nadakah suatu hari nanti,
+Dialogue: 0,0:09:52.68,0:09:56.05,Default,,0,0,0,,saya boleh kalahkan Mai\Natau orang yang lebih hebat lagi?
+Dialogue: 0,0:09:57.22,0:09:59.27,Default,,0,0,0,,Apa yang Haru pegang sekarang
+Dialogue: 0,0:09:59.56,0:10:02.73,Default,,0,0,0,,tentu ialah hajat yang suci dan abstrak.
+Dialogue: 0,0:10:03.90,0:10:06.19,Default,,0,0,0,,"Cara hidup saya tak salah, bukan?"
+Dialogue: 0,0:10:06.69,0:10:08.86,Default,,0,0,0,,Saya rasa macam itulah\Nyang dia tanya saya.
+Dialogue: 0,0:10:10.53,0:10:11.90,Default,,0,0,0,,Saya tak tahu jawapannya.
+Dialogue: 0,0:10:12.49,0:10:13.82,Default,,0,0,0,,Namun…
+Dialogue: 0,0:10:13.91,0:10:17.91,Default,,0,0,0,,sama seperti tiada sesiapa boleh buktikan\Nyang usaha sentiasa membuahkan hasil,
+Dialogue: 0,0:10:17.99,0:10:21.50,Default,,0,0,0,,kita juga tak boleh buktikan\Nyang ia takkan membuahkan hasil.
+Dialogue: 0,0:10:23.25,0:10:25.75,Default,,0,0,0,,Kalau saya buat seratus lagi\Nlontaran setiap hari,
+Dialogue: 0,0:10:25.83,0:10:27.75,Default,,0,0,0,,adakah saya akan jadi lebih kuat?
+Dialogue: 0,0:10:28.21,0:10:30.26,Default,,0,0,0,,Adakah saya akan jadi nombor satu?
+Dialogue: 0,0:10:30.88,0:10:34.05,Default,,0,0,0,,Bagaimana kalau 200? Atau 300?
+Dialogue: 0,0:10:35.30,0:10:38.10,Default,,0,0,0,,Hanya awak yang boleh\Nsaksikan penamatnya.
+Dialogue: 0,0:10:38.56,0:10:40.27,Default,,0,0,0,,Kalau awak betul-betul\Nnak tahu jawapannya,
+Dialogue: 0,0:10:40.35,0:10:42.23,Default,,0,0,0,,awak perlu mencarinya sendiri.
+Dialogue: 0,0:10:44.35,0:10:46.56,Default,,0,0,0,,Saya gembira saya tanya awak.
+Dialogue: 0,0:10:46.65,0:10:48.44,Default,,0,0,0,,Itulah yang saya nak dengar!
+Dialogue: 0,0:10:48.52,0:10:49.82,Default,,0,0,0,,Saya cintakan awak.
+Dialogue: 0,0:10:53.61,0:10:56.61,Default,,0,0,0,,Saya juga akan berjuang,\Njadi awak pun jangan lari!
+Dialogue: 0,0:11:20.01,0:11:22.47,Default,,0,0,0,,(TAKOHACHI: BUKA)
+Dialogue: 0,0:11:23.06,0:11:24.06,Default,,0,0,0,,(YAKISOBA JUMBO PELAJAR)\NPuan!
+Dialogue: 0,0:11:24.31,0:11:25.81,Default,,0,0,0,,Empat yakisoba jumbo.
+Dialogue: 0,0:11:25.89,0:11:27.15,Default,,0,0,0,,Kamu lagi?
+Dialogue: 0,0:11:27.23,0:11:29.56,Default,,0,0,0,,Kamu akan buat saya gulung tikar.
+Dialogue: 0,0:11:30.15,0:11:32.44,Default,,0,0,0,,Bukankah kamu berlima?\NBagaimana dengan cik adik itu?
+Dialogue: 0,0:11:32.61,0:11:34.40,Default,,0,0,0,,Satu jumbo itu untuk saya.
+Dialogue: 0,0:11:34.49,0:11:36.61,Default,,0,0,0,,Si kurus bercermin mata itu?
+Dialogue: 0,0:11:36.70,0:11:39.66,Default,,0,0,0,,Saya nak yakisoba sos biasa.
+Dialogue: 0,0:11:39.78,0:11:41.37,Default,,0,0,0,,Apa? Pengecutnya!
+Dialogue: 0,0:11:41.45,0:11:42.95,Default,,0,0,0,,Makanlah jumbo! Jumbo!
+Dialogue: 0,0:11:43.29,0:11:44.54,Default,,0,0,0,,Dia nak kami beli atau tidak?
+Dialogue: 0,0:11:47.71,0:11:51.79,Default,,0,0,0,,Saya faham Ucchi dan Yuzuki,\Nsebab mereka jaga kalori mereka.
+Dialogue: 0,0:11:51.88,0:11:53.38,Default,,0,0,0,,Tapi awak tak jemput Yuko?
+Dialogue: 0,0:11:56.22,0:11:58.43,Default,,0,0,0,,Dia tak nak sebab rumpai laut\Nakan melekat pada giginya.
+Dialogue: 0,0:11:59.93,0:12:01.30,Default,,0,0,0,,Apa pandang-pandang?
+Dialogue: 0,0:12:03.85,0:12:06.89,Default,,0,0,0,,Oh ya, Kenta, ada sesiapa yang awak suka?
+Dialogue: 0,0:12:08.23,0:12:10.10,Default,,0,0,0,,Kenapa tiba-tiba awak tanya, Asano?
+Dialogue: 0,0:12:10.48,0:12:12.86,Default,,0,0,0,,Musim panas ialah musim cinta.
+Dialogue: 0,0:12:12.94,0:12:13.86,Default,,0,0,0,,Cinta!
+Dialogue: 0,0:12:13.94,0:12:18.24,Default,,0,0,0,,Tahun lepas pun pasangan tiba-tiba\Nsemakin banyak pada musim panas.
+Dialogue: 0,0:12:18.32,0:12:19.82,Default,,0,0,0,,Menyakitkan hati betul!
+Dialogue: 0,0:12:19.91,0:12:24.04,Default,,0,0,0,,Tapi ramai juga yang berpisah\Nselepas musim panas berakhir.
+Dialogue: 0,0:12:24.12,0:12:25.87,Default,,0,0,0,,Padan muka mereka.
+Dialogue: 0,0:12:26.29,0:12:28.25,Default,,0,0,0,,Jadi, apa jawapan awak, Kenta?
+Dialogue: 0,0:12:29.42,0:12:32.25,Default,,0,0,0,,Saya tak tahu kalau saya\Npatut tanya tentang ini.
+Dialogue: 0,0:12:32.34,0:12:35.00,Default,,0,0,0,,Tapi sebagai contoh saja,
+Dialogue: 0,0:12:35.42,0:12:38.84,Default,,0,0,0,,katakanlah orang yang kita suka\Nsukakan kawan kita,
+Dialogue: 0,0:12:38.93,0:12:41.97,Default,,0,0,0,,atau kita dan kawan kita\Nsuka orang yang sama,
+Dialogue: 0,0:12:42.68,0:12:44.51,Default,,0,0,0,,apa yang kamu semua akan buat?
+Dialogue: 0,0:12:55.61,0:12:57.15,Default,,0,0,0,,Apa ini, Kenta?
+Dialogue: 0,0:12:57.24,0:12:58.90,Default,,0,0,0,,Adakah awak pesaing cinta kami?
+Dialogue: 0,0:12:58.99,0:13:00.28,Default,,0,0,0,,Tidak!
+Dialogue: 0,0:13:00.36,0:13:02.20,Default,,0,0,0,,Awak suka Ucchi? Atau Yuzuki?
+Dialogue: 0,0:13:02.28,0:13:05.24,Default,,0,0,0,,Tunggu! Tak mungkin Haru, bukan?
+Dialogue: 0,0:13:05.66,0:13:08.87,Default,,0,0,0,,Apa maksud awak, "tak mungkin"?
+Dialogue: 0,0:13:10.08,0:13:13.54,Default,,0,0,0,,Yamazaki,\Nitu yang awak fikir tentang saya?
+Dialogue: 0,0:13:13.75,0:13:16.67,Default,,0,0,0,,Tak, saya jamin bukan begitu!
+Dialogue: 0,0:13:16.75,0:13:18.34,Default,,0,0,0,,Jangan risau, Aomi.
+Dialogue: 0,0:13:18.42,0:13:20.13,Default,,0,0,0,,Maaf, Yamazaki.
+Dialogue: 0,0:13:20.22,0:13:22.64,Default,,0,0,0,,Reaksi spontan awak agak menyakitkan hati.
+Dialogue: 0,0:13:23.68,0:13:26.26,Default,,0,0,0,,Saya gembira Kaito yang bersuara dulu.
+Dialogue: 0,0:13:26.76,0:13:30.73,Default,,0,0,0,,Tapi saya tak nak harapkan dia\Ndengan peranan itu.
+Dialogue: 0,0:13:31.56,0:13:34.48,Default,,0,0,0,,Mungkin nama yang dikecualikan\Ntanpa sedar itu
+Dialogue: 0,0:13:34.56,0:13:37.73,Default,,0,0,0,,bagaikan jongkang-jongket sunyi\Nyang disinari langit senja,
+Dialogue: 0,0:13:38.15,0:13:40.19,Default,,0,0,0,,hanya berdiri tanpa tempat untuk dituju.
+Dialogue: 0,0:13:42.32,0:13:44.28,Default,,0,0,0,,Saya ini mudah saja orangnya.
+Dialogue: 0,0:13:44.37,0:13:46.45,Default,,0,0,0,,Tentulah saya nak orang\Nyang saya suka pandang saya.
+Dialogue: 0,0:13:46.53,0:13:49.00,Default,,0,0,0,,Baguslah kalau kami boleh bercinta.
+Dialogue: 0,0:13:49.45,0:13:54.63,Default,,0,0,0,,Tapi kalau orang yang boleh buat dia\Npaling gembira ialah kawan saya,
+Dialogue: 0,0:13:54.71,0:13:57.71,Default,,0,0,0,,saya tak nak jadi penghalang.
+Dialogue: 0,0:13:58.96,0:14:04.01,Default,,0,0,0,,Sebab apa yang saya paling suka\Nialah melihat mereka senyum bersama.
+Dialogue: 0,0:14:04.47,0:14:08.31,Default,,0,0,0,,Tapi kalau tiba masa saya terfikir\Nsaya nak hubungan kami berubah
+Dialogue: 0,0:14:08.39,0:14:13.02,Default,,0,0,0,,dan saya rasa saya boleh buat\Ndia senyum lebih daripada itu,
+Dialogue: 0,0:14:13.23,0:14:15.98,Default,,0,0,0,,saya akan cuba rampas dia\Nwalaupun saya perlu bertumbuk.
+Dialogue: 0,0:14:16.94,0:14:19.78,Default,,0,0,0,,Saya tak faham mentaliti begitu.
+Dialogue: 0,0:14:20.36,0:14:23.24,Default,,0,0,0,,Saya nak jadi orang yang buat orang\Nyang saya suka tersenyum.
+Dialogue: 0,0:14:23.32,0:14:25.57,Default,,0,0,0,,Saya nak lindungi dia daripada dilukai.
+Dialogue: 0,0:14:25.66,0:14:28.20,Default,,0,0,0,,Saya nak berada di sisinya\Nsemasa dia menangis.
+Dialogue: 0,0:14:28.28,0:14:30.41,Default,,0,0,0,,Saya tak nak orang lain yang buat begitu.
+Dialogue: 0,0:14:31.29,0:14:32.58,Default,,0,0,0,,Itu yang saya rasa.
+Dialogue: 0,0:14:33.08,0:14:34.79,Default,,0,0,0,,Awak sangat kuat.
+Dialogue: 0,0:14:34.87,0:14:38.71,Default,,0,0,0,,Tapi musim panas memang mengujakan,\Nmacam ada sesuatu yang akan berlaku.
+Dialogue: 0,0:14:38.80,0:14:41.09,Default,,0,0,0,,Saya rasa saya faham.
+Dialogue: 0,0:14:41.17,0:14:43.51,Default,,0,0,0,,Kamu tahu ungkapan "musim panas itu"?
+Dialogue: 0,0:14:44.09,0:14:47.51,Default,,0,0,0,,Hanya musim panas ada permulaan\Ndan pengakhiran yang jelas.
+Dialogue: 0,0:14:48.14,0:14:50.26,Default,,0,0,0,,Jadi selepas musim panas berlalu,
+Dialogue: 0,0:14:50.35,0:14:53.39,Default,,0,0,0,,kita rasa kita juga perlu berubah.
+Dialogue: 0,0:14:55.94,0:14:59.07,Default,,0,0,0,,Apa yang akan berubah tahun ini?
+Dialogue: 0,0:15:02.11,0:15:03.24,Default,,0,0,0,,Selamat datang!
+Dialogue: 0,0:15:07.20,0:15:08.95,Default,,0,0,0,,Chitose rupanya.
+Dialogue: 0,0:15:09.87,0:15:10.70,Default,,0,0,0,,Helo.
+Dialogue: 0,0:15:10.79,0:15:13.41,Default,,0,0,0,,Tentu awak fikir padan muka mereka.
+Dialogue: 0,0:15:13.66,0:15:15.50,Default,,0,0,0,,Apa maksud cikgu?
+Dialogue: 0,0:15:17.25,0:15:19.00,Default,,0,0,0,,Kalau awak belum dengar, tak apalah.
+Dialogue: 0,0:15:23.30,0:15:24.30,Default,,0,0,0,,Saku,
+Dialogue: 0,0:15:25.17,0:15:28.34,Default,,0,0,0,,lelaki itu asyik bermuram selama ini.
+Dialogue: 0,0:15:28.43,0:15:31.06,Default,,0,0,0,,Dia kata dia dah musnahkan\Nsatu bakat besar.
+Dialogue: 0,0:15:31.47,0:15:33.93,Default,,0,0,0,,Saya takkan kata dia yang musnahkannya.
+Dialogue: 0,0:15:34.18,0:15:37.40,Default,,0,0,0,,Tak kira apa pun sebabnya,\Nsaya yang buat keputusan untuk berhenti.
+Dialogue: 0,0:15:37.81,0:15:41.86,Default,,0,0,0,,Orang dewasa tak sentiasa betul.
+Dialogue: 0,0:15:41.94,0:15:44.03,Default,,0,0,0,,Itu saja yang saya nak cakap.
+Dialogue: 0,0:15:46.57,0:15:49.07,Default,,0,0,0,,Pada tahap ini, kata-kata begitu pun
+Dialogue: 0,0:15:49.82,0:15:52.12,Default,,0,0,0,,takkan membantu saya keluar\Ndari musim panas itu.
+Dialogue: 0,0:15:57.46,0:15:58.54,Default,,0,0,0,,Chitose.
+Dialogue: 0,0:15:59.71,0:16:00.67,Default,,0,0,0,,Awak dipanggil.
+Dialogue: 0,0:16:02.96,0:16:05.38,Default,,0,0,0,,(FUJI)
+Dialogue: 0,0:16:08.59,0:16:11.51,Default,,0,0,0,,Yusuke cedera dan perlukan\Ndua minggu untuk pulih?
+Dialogue: 0,0:16:12.14,0:16:15.14,Default,,0,0,0,,Buku lalinya terseliuh\Nsemasa menggelongsor ke tapak akhir.
+Dialogue: 0,0:16:15.85,0:16:18.06,Default,,0,0,0,,Perlawanan pertama musim panas ini\Nhujung minggu depan.
+Dialogue: 0,0:16:18.56,0:16:19.73,Default,,0,0,0,,Dia takkan sempat pulih.
+Dialogue: 0,0:16:20.10,0:16:22.44,Default,,0,0,0,,Tak perlu pun dia bermain habis-habisan
+Dialogue: 0,0:16:22.52,0:16:24.57,Default,,0,0,0,,dalam perlawanan latihan\Nsebelum kejohanan.
+Dialogue: 0,0:16:25.07,0:16:29.74,Default,,0,0,0,,Tak, sekurang-kurangnya dalam besbol,\Ndia sentiasa ikhlas dan bersemangat.
+Dialogue: 0,0:16:30.32,0:16:33.37,Default,,0,0,0,,Kalau saya jadi pelari,\Nsaya pun akan meluru tanpa teragak-agak.
+Dialogue: 0,0:16:34.95,0:16:37.79,Default,,0,0,0,,Bagi Yusuke yang tak dapat\Nbermain tahun lepas,
+Dialogue: 0,0:16:38.33,0:16:41.50,Default,,0,0,0,,ini akhirnya peluang dia untuk pergi\Nke Koshien musim panas.
+Dialogue: 0,0:16:45.88,0:16:47.17,Default,,0,0,0,,Siapa lawan pertama kamu?
+Dialogue: 0,0:16:47.51,0:16:48.72,Default,,0,0,0,,Sekolah Tinggi Echizen.
+Dialogue: 0,0:16:48.80,0:16:51.22,Default,,0,0,0,,Tuah dia dalam cabutan pun begitu teruk?
+Dialogue: 0,0:16:51.72,0:16:52.72,Default,,0,0,0,,Jadi?
+Dialogue: 0,0:16:53.22,0:16:55.56,Default,,0,0,0,,Kamu nak saya bawa bunga\Ndan pergi melawat dia?
+Dialogue: 0,0:16:55.89,0:16:58.81,Default,,0,0,0,,Kami tahu kami tak tahu malu,\Ntapi tolonglah, Saku.
+Dialogue: 0,0:17:00.94,0:17:02.23,Default,,0,0,0,,Tolong kembali ke pasukan.
+Dialogue: 0,0:17:03.27,0:17:05.65,Default,,0,0,0,,Kamu tahu apa yang kamu minta ini?
+Dialogue: 0,0:17:06.15,0:17:08.90,Default,,0,0,0,,Menentang Echizen, ia dah pasti\Nakan jadi pertembungan pelempar.
+Dialogue: 0,0:17:09.45,0:17:11.24,Default,,0,0,0,,Kami perlukan bantuan awak.
+Dialogue: 0,0:17:11.66,0:17:15.37,Default,,0,0,0,,Kalau saya kembali pun,\Nbukannya kita dijamin menang.
+Dialogue: 0,0:17:16.04,0:17:17.87,Default,,0,0,0,,Jangan pandang rendah pada besbol.
+Dialogue: 0,0:17:18.62,0:17:22.21,Default,,0,0,0,,Kami minta bantuan awak kerana awaklah\Nyang paling ambil serius tentang besbol.
+Dialogue: 0,0:17:22.75,0:17:25.13,Default,,0,0,0,,Adakah Yusuke yang suruh kamu cari saya?
+Dialogue: 0,0:17:25.75,0:17:26.88,Default,,0,0,0,,Tidak.
+Dialogue: 0,0:17:26.96,0:17:29.67,Default,,0,0,0,,Dia kata jangan beritahu awak\Ntak kira apa pun.
+Dialogue: 0,0:17:30.13,0:17:33.72,Default,,0,0,0,,Katanya ini akan memberi awak dilema\Nsama ada nak bermain besbol semula
+Dialogue: 0,0:17:33.80,0:17:35.60,Default,,0,0,0,,atas sebab yang berbeza.
+Dialogue: 0,0:17:37.81,0:17:41.10,Default,,0,0,0,,Saya sanggup minta maaf untuk apa\Nyang berlaku dulu sebanyak yang perlu.
+Dialogue: 0,0:17:41.44,0:17:44.52,Default,,0,0,0,,Saya cuma nak Yusuke yang bekerja keras\Nbersama kami selama setahun ini
+Dialogue: 0,0:17:44.69,0:17:46.90,Default,,0,0,0,,dapat peluang untuk bertanding!
+Dialogue: 0,0:17:54.78,0:17:57.99,Default,,0,0,0,,Cukuplah dengan kata-kata manis!
+Dialogue: 0,0:17:58.37,0:18:01.16,Default,,0,0,0,,Kenapa kamu tak buat begini\Nsemasa Chitose berhenti?
+Dialogue: 0,0:18:01.50,0:18:04.00,Default,,0,0,0,,Kalau kamu rakan sepasukan yang baik,
+Dialogue: 0,0:18:04.08,0:18:07.92,Default,,0,0,0,,tentu Chitose masih bermain besbol\Ndengan kamu sekarang!
+Dialogue: 0,0:18:08.21,0:18:12.51,Default,,0,0,0,,Saya boleh faham kalau kamu tak halang dia\Nkerana kamu bencikan dia.
+Dialogue: 0,0:18:13.09,0:18:16.39,Default,,0,0,0,,Tapi kalau begitu,\Njangan dekati Chitose lagi!
+Dialogue: 0,0:18:17.31,0:18:19.06,Default,,0,0,0,,Apa yang awak faham?
+Dialogue: 0,0:18:19.14,0:18:21.31,Default,,0,0,0,,Saya memang tak nak faham
+Dialogue: 0,0:18:21.39,0:18:25.10,Default,,0,0,0,,perasaan pengecut\Ndengan mentaliti si kalah.
+Dialogue: 0,0:18:25.86,0:18:27.65,Default,,0,0,0,,Dalam kejohanan musim panas tahun lepas,
+Dialogue: 0,0:18:27.73,0:18:30.82,Default,,0,0,0,,kamu hilang semangat juang\Nselepas separuh jalan, bukan?
+Dialogue: 0,0:18:31.15,0:18:35.57,Default,,0,0,0,,Kamu buat alasan yang menentang\Npasukan handalan seperti itu,
+Dialogue: 0,0:18:35.66,0:18:38.08,Default,,0,0,0,,saingan yang kamu beri itu dah cukup baik.
+Dialogue: 0,0:18:38.37,0:18:43.87,Default,,0,0,0,,Chitose seorang saja yang berusaha\Nuntuk menang sehingga ke akhirnya.
+Dialogue: 0,0:18:44.92,0:18:47.96,Default,,0,0,0,,Adakah ia memuaskan ego kecil kamu\Nuntuk melihat orang jatuh
+Dialogue: 0,0:18:48.04,0:18:51.01,Default,,0,0,0,,dari ketinggian yang kamu\Ntakkan dapat capai?
+Dialogue: 0,0:18:55.05,0:18:57.64,Default,,0,0,0,,Maaf, tapi saya takkan ubah fikiran.
+Dialogue: 0,0:19:00.51,0:19:02.14,Default,,0,0,0,,Terima kasih sebab luangkan masa.
+Dialogue: 0,0:19:08.11,0:19:11.03,Default,,0,0,0,,Chitose, tunggu saya\Nsampai latihan saya habis.
+Dialogue: 0,0:19:11.94,0:19:15.24,Default,,0,0,0,,Awak tak dibenarkan balik\Nseorang diri hari ini.
+Dialogue: 0,0:19:19.20,0:19:21.16,Default,,0,0,0,,Sakitlah, dungu.
+Dialogue: 0,0:19:27.17,0:19:30.63,Default,,0,0,0,,(TOKONG KEYA KUROTATSU)
+Dialogue: 0,0:19:37.68,0:19:40.51,Default,,0,0,0,,Saya selalu datang ke sini,
+Dialogue: 0,0:19:40.60,0:19:42.18,Default,,0,0,0,,apabila saya murung tentang kelab,
+Dialogue: 0,0:19:42.26,0:19:44.18,Default,,0,0,0,,apabila saya rasa kecewa,
+Dialogue: 0,0:19:44.27,0:19:46.52,Default,,0,0,0,,apabila saya hampir kalah\Ndengan diri sendiri,
+Dialogue: 0,0:19:47.60,0:19:51.32,Default,,0,0,0,,dan apabila saya tak nampak hari esok.
+Dialogue: 0,0:19:52.19,0:19:54.78,Default,,0,0,0,,Jadi awak pun ada hari-hari begitu.
+Dialogue: 0,0:19:55.40,0:19:57.66,Default,,0,0,0,,Bermain bola keranjang\Npada ketinggian saya.
+Dialogue: 0,0:19:57.74,0:19:59.53,Default,,0,0,0,,Memang selalu ada masa begitu.
+Dialogue: 0,0:20:00.03,0:20:02.91,Default,,0,0,0,,Jadi saya datang ke sini untuk menjerit.
+Dialogue: 0,0:20:03.16,0:20:06.37,Default,,0,0,0,,Saya jerit sekuat hati\Nkepada Sungai Asuwa.
+Dialogue: 0,0:20:06.75,0:20:09.71,Default,,0,0,0,,"Laut yang dungu!" Macam itu.
+Dialogue: 0,0:20:10.29,0:20:13.42,Default,,0,0,0,,Jangan lepaskan geram pada sungai.\NPergi beritahu kepada laut.
+Dialogue: 0,0:20:15.21,0:20:17.97,Default,,0,0,0,,Sukar untuk menuju ke puncak.
+Dialogue: 0,0:20:18.05,0:20:22.39,Default,,0,0,0,,Tapi mujurlah saya ada rakan selama ini.
+Dialogue: 0,0:20:22.47,0:20:23.68,Default,,0,0,0,,Sekarang pun sama.
+Dialogue: 0,0:20:23.76,0:20:25.98,Default,,0,0,0,,Nana, Sen dan Yo.
+Dialogue: 0,0:20:26.06,0:20:29.77,Default,,0,0,0,,Mereka merungut,\Ntapi mereka tetap ikut saya.
+Dialogue: 0,0:20:31.23,0:20:33.02,Default,,0,0,0,,Betul kata Mai.
+Dialogue: 0,0:20:33.11,0:20:36.32,Default,,0,0,0,,Saya pemain yang tak sempurna.
+Dialogue: 0,0:20:36.40,0:20:38.24,Default,,0,0,0,,Tapi selagi saya bersama mereka,
+Dialogue: 0,0:20:38.32,0:20:40.24,Default,,0,0,0,,saya pasti takkan kalah lain kali.
+Dialogue: 0,0:20:44.83,0:20:46.62,Default,,0,0,0,,Awak ingat pertaruhan kita?
+Dialogue: 0,0:20:46.91,0:20:49.21,Default,,0,0,0,,Semasa kita main buaian\Npada waktu senja, ingat?
+Dialogue: 0,0:20:49.46,0:20:50.96,Default,,0,0,0,,Orang yang kalah…
+Dialogue: 0,0:20:51.21,0:20:52.25,Default,,0,0,0,,Beginilah.
+Dialogue: 0,0:20:52.92,0:20:57.51,Default,,0,0,0,,Apa kata yang kalah beritahu pemenang\Nkelemahan dirinya yang dia pendamkan?
+Dialogue: 0,0:20:57.72,0:20:58.97,Default,,0,0,0,,Setuju!
+Dialogue: 0,0:20:59.47,0:21:02.47,Default,,0,0,0,,Sebagai pemenang hari itu,\Nini arahan saya.
+Dialogue: 0,0:21:02.76,0:21:04.60,Default,,0,0,0,,Cakap di sini, sekarang.
+Dialogue: 0,0:21:05.68,0:21:09.44,Default,,0,0,0,,Dengan satu dentingan,\Nguli di dalam hati saya bergolek jatuh.
+Dialogue: 0,0:21:10.35,0:21:13.23,Default,,0,0,0,,Selepas lama terperangkap\Ndi dalam botol kaca,
+Dialogue: 0,0:21:13.31,0:21:15.11,Default,,0,0,0,,bunyi itu sangat lemah.
+Dialogue: 0,0:21:16.57,0:21:17.99,Default,,0,0,0,,Tak apa.
+Dialogue: 0,0:21:18.44,0:21:20.95,Default,,0,0,0,,Walaupun awak dalam kesakitan,
+Dialogue: 0,0:21:21.03,0:21:23.03,Default,,0,0,0,,saya janji saya akan buat awak senyum.
+Dialogue: 0,0:21:23.57,0:21:25.95,Default,,0,0,0,,Apabila awak nak menangis,\Nsaya akan berada di sisi awak.
+Dialogue: 0,0:21:26.04,0:21:28.50,Default,,0,0,0,,Apabila awak marah,\Nsaya akan marah bersama awak.
+Dialogue: 0,0:21:29.21,0:21:31.21,Default,,0,0,0,,Apabila awak murung,\Nsaya akan sedarkan awak.
+Dialogue: 0,0:21:31.29,0:21:34.46,Default,,0,0,0,,Apabila awak tak boleh bangkit semula,\Nsaya akan beri awak keberanian.
+Dialogue: 0,0:21:35.50,0:21:37.71,Default,,0,0,0,,Jadi, beritahu saya.
+Dialogue: 0,0:21:41.55,0:21:43.09,Default,,0,0,0,,Dia memang mempesonakan.
+Dialogue: 0,0:21:44.22,0:21:47.26,Default,,0,0,0,,Mungkin saya boleh percayakan dia\Ndengan beban
+Dialogue: 0,0:21:47.35,0:21:49.68,Default,,0,0,0,,yang saya pikul seorang diri selama ini.
+Dialogue: 0,0:21:50.56,0:21:56.57,Default,,0,0,0,,Mungkin dia boleh menghalau kegelapan\Nyang menghantui hati saya selama ini.
+Dialogue: 0,0:21:58.23,0:22:00.57,Default,,0,0,0,,Cerah dan kuat seperti matahari.
+Dialogue: 0,0:22:01.65,0:22:03.03,Default,,0,0,0,,Kalau senyuman ini…
+Dialogue: 0,0:23:36.79,0:23:37.63,Default,,0,0,0,,(EPISOD SETERUSNYA)
+Dialogue: 0,0:23:37.71,0:23:38.63,Default,,0,0,0,,(ORIHIME YANG MUNCUNG)\NOrihime yang Muncung
+Dialogue: 0,0:23:38.71,0:23:40.04,Default,,0,0,0,,(DAN HIKOBOSHI YANG MERENGEK)\Ndan Hikoboshi yang Merengek.
+
