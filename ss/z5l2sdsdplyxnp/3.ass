@@ -1,0 +1,229 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.95,0:00:10.03,Gen_Main,Desir,0,0,0,,Los invertí todos.
+Dialogue: 0,0:00:10.41,0:00:13.66,Gen_Main,Desir,0,0,0,,Invertí todos los hechizos\Nque usa ese artefacto.
+Dialogue: 0,0:00:16.04,0:00:17.58,Gen_Main,Desir,0,0,0,,Perdiste.
+Dialogue: 0,0:00:48.24,0:00:49.96,Gen_Main,Zod,0,0,0,,Qué monstruo tan problemático.
+Dialogue: 0,0:02:22.50,0:02:26.50,Cart_A_Tim,CARTEL,0,0,0,,{\an2\fad(644,644)\blur1\b0\3c&H67A216&\4c&H67A216&\c&HFFFFFF&\3a&HA3&\4a&HC8&\pos(301.334,298)}Episodio 19
+Dialogue: 0,0:02:22.50,0:02:26.50,Cart_A_Tre,CARTEL,0,0,0,,{\an3\pos(608.667,286)\fad(644,644)\shad.5\blur1\b0\3c&H67A216&\4c&H67A216&\c&HFFFFFF&\3a&HA3&\4a&HC8&\fs30}Despertar
+Dialogue: 0,0:02:39.64,0:02:41.31,Gen_Main,Zod,0,0,0,,¡Cero absoluto!
+Dialogue: 0,0:03:15.38,0:03:16.89,Gen_Main,Priscilla,0,0,0,,¿Estás bien?
+Dialogue: 0,0:03:18.05,0:03:20.36,Gen_Main,Zod,0,0,0,,Desir tenía razón.
+Dialogue: 0,0:03:22.22,0:03:25.44,Gen_Main,Zod,0,0,0,,Parece que la magia ordinaria\Nno le hace daño.
+Dialogue: 0,0:03:26.52,0:03:28.50,Gen_Main,Zod,0,0,0,,Probaré con un hechizo más poderoso.
+Dialogue: 0,0:03:28.60,0:03:30.55,Gen_Main,Zod,0,0,0,,Priscilla, retrocede.
+Dialogue: 0,0:03:30.65,0:03:31.65,Gen_Main,Prisicilla,0,0,0,,Está bien.
+Dialogue: 0,0:03:52.00,0:03:53.88,Gen_Main,Zod,0,0,0,,¡Varas de Dios!
+Dialogue: 0,0:04:20.03,0:04:23.12,Gen_Main,Priscilla,0,0,0,,No por nada eres\Nel mejor mago del mundo, ¿eh?
+Dialogue: 0,0:04:23.24,0:04:24.29,Gen_Main,Zod,0,0,0,,Sí.
+Dialogue: 0,0:04:26.66,0:04:30.82,Gen_Italics,Zod,0,0,0,,¿Por qué Desir sabía cosas\Nsobre este demonio?
+Dialogue: 0,0:04:35.46,0:04:36.57,Gen_Main,Romantica,0,0,0,,¡Desir!
+Dialogue: 0,0:04:36.67,0:04:38.67,Gen_Italics,Romantica,0,0,0,,¡El Maestro de la Torre lo venció!
+Dialogue: 0,0:04:39.55,0:04:41.47,Gen_Main,Desir,0,0,0,,¡Dadeinuf ha caído!
+Dialogue: 0,0:04:42.97,0:04:45.24,Gen_Main,Desir,0,0,0,,¡Tu revolución termina aquí!
+Dialogue: 0,0:04:46.14,0:04:48.85,Gen_Main,Pram,0,0,0,,¿Revolución? Eso es…
+Dialogue: 0,0:04:49.44,0:04:53.00,Gen_Main,Desir,0,0,0,,La guerra civil que ocurrió\Nhace doce años en Hebrion.
+Dialogue: 0,0:04:53.44,0:04:58.58,Gen_Main,Desir,0,0,0,,Un estudiante se alzó para liberar\Na los ciudadanos de los nobles.
+Dialogue: 0,0:04:59.53,0:05:02.51,Gen_Main,Desir,0,0,0,,Pero la guerra terminó\Ncon la victoria de la nobleza,
+Dialogue: 0,0:05:02.61,0:05:06.44,Gen_Main,Desir,0,0,0,,y la discriminación por cuna\Nse volvió aún peor.
+Dialogue: 0,0:05:07.49,0:05:10.12,Gen_Main,Desir,0,0,0,,Batur y los otros también\Nodiaban a la nobleza.
+Dialogue: 0,0:05:10.79,0:05:14.16,Gen_Main,Desir,0,0,0,,Son los sobrevivientes\Nde esa revolución, ¿verdad?
+Dialogue: 0,0:05:16.84,0:05:19.92,Gen_Main,Máscara de cuervo,0,0,0,,Este mundo está lleno de injusticias.
+Dialogue: 0,0:05:20.88,0:05:24.91,Gen_Main,Máscara de cuervo,0,0,0,,Los nobles son el centro\Ny los únicos que poseen poder.
+Dialogue: 0,0:05:25.01,0:05:27.68,Gen_Main,Máscara de cuervo,0,0,0,,Nos imponen esa ideología podrida.
+Dialogue: 0,0:05:29.39,0:05:31.69,Gen_Main,Máscara de cuervo,0,0,0,,Y no solo en Hebrion.
+Dialogue: 0,0:05:32.06,0:05:34.69,Gen_Main,Máscara de cuervo,0,0,0,,Los estúpidos nobles\Nde todo el mundo
+Dialogue: 0,0:05:34.81,0:05:38.47,Gen_Main,Máscara de cuervo,0,0,0,,imponen sus estándares e injusticias.
+Dialogue: 0,0:05:43.95,0:05:47.27,Gen_Main,Máscara de cuervo,0,0,0,,Este mundo está mal\Ndesde sus cimientos.
+Dialogue: 0,0:05:48.33,0:05:50.85,Gen_Main,Máscara de cuervo,0,0,0,,¡No puedes negármelo!
+Dialogue: 0,0:05:50.95,0:05:53.21,Gen_Main,Desir/Pram,0,0,0,,-Es cierto.\N-¡¿Desir?!
+Dialogue: 0,0:05:53.74,0:05:56.71,Gen_Main,Desir,0,0,0,,Ahora mismo sigue habiendo\Ndiscriminación en la academia.
+Dialogue: 0,0:05:57.29,0:06:02.22,Gen_Main,Desir,0,0,0,,Truncan el futuro de los talentosos\Nsolo por su origen.
+Dialogue: 0,0:06:03.13,0:06:04.97,Gen_Main,Desir,0,0,0,,¡Pero mira esto!
+Dialogue: 0,0:06:05.43,0:06:10.71,Gen_Main,Desir,0,0,0,,¡Lastimaron a las personas\Nque debían proteger!
+Dialogue: 0,0:06:10.81,0:06:15.23,Gen_Main,Máscara de cuervo,0,0,0,,¡Quienes no buscan el cambio\Ny lo aceptan son igual de culpables!
+Dialogue: 0,0:06:15.44,0:06:20.48,Gen_Main,Máscara de cuervo,0,0,0,,¡Destruiré todo en este mundo\Npara crear una verdadera igualdad!
+Dialogue: 0,0:06:20.86,0:06:22.28,Gen_Main,Pram,0,0,0,,Este tipo…
+Dialogue: 0,0:06:24.57,0:06:26.38,Gen_Main,Desir,0,0,0,,Voy a inmovilizarlo.
+Dialogue: 0,0:06:29.28,0:06:32.22,Gen_Main,Máscara de cuervo,0,0,0,,¿Que Dadeinuf ha caído?
+Dialogue: 0,0:06:33.41,0:06:35.61,Gen_Main,Máscara de cuervo,0,0,0,,Qué ingenuo eres.
+Dialogue: 0,0:06:35.71,0:06:36.79,Gen_Main,Desir,0,0,0,,¿Qué?
+Dialogue: 0,0:06:37.33,0:06:39.70,Gen_Main,Máscara de cuervo,0,0,0,,Es la calamidad misma.
+Dialogue: 0,0:06:39.80,0:06:43.13,Gen_Main,Máscara de cuervo,0,0,0,,Es imposible que unos humanos\Npuedan derrotarlo.
+Dialogue: 0,0:06:46.26,0:06:47.68,Gen_Main,Desir,0,0,0,,¡No puede ser!
+Dialogue: 0,0:07:01.61,0:07:03.07,Gen_Main,Azest,0,0,0,,¿Qué es esto?
+Dialogue: 0,0:07:24.55,0:07:26.29,Gen_Main,Máscara de cuervo,0,0,0,,Ríndanse.
+Dialogue: 0,0:07:26.80,0:07:28.80,Gen_Main,Máscara de cuervo,0,0,0,,Perdieron.
+Dialogue: 0,0:07:28.97,0:07:30.55,Gen_Main,Pram,0,0,0,,¡No te lo permitiré!
+Dialogue: 0,0:07:34.60,0:07:37.19,Gen_Main,Azest/Pram,0,0,0,,-¿Se escapó?\N-Lo siento, Desir…
+Dialogue: 0,0:07:39.65,0:07:41.42,Gen_Main,Pram,0,0,0,,Desir…
+Dialogue: 0,0:07:41.52,0:07:44.03,Gen_Italics,Romantica,0,0,0,,Desir, me reuniré con ustedes.
+Dialogue: 0,0:07:44.49,0:07:47.32,Gen_Main,Romantica,0,0,0,,No creo que pueda hacer nada sola.
+Dialogue: 0,0:07:49.11,0:07:51.33,Gen_Main,Romantica,0,0,0,,¿Desir? ¿Me escuchas?
+Dialogue: 0,0:07:51.53,0:07:53.13,Gen_Italics,Romantica,0,0,0,,¡Te estoy hablando, Desir!
+Dialogue: 0,0:07:53.49,0:07:55.02,Gen_Main,Desir,0,0,0,,Ah… Perdón.
+Dialogue: 0,0:07:55.12,0:07:56.96,Gen_Italics,Romantica,0,0,0,,¿Estás bien?
+Dialogue: 0,0:07:57.25,0:08:01.62,Gen_Main,Desir,0,0,0,,Sí. Nosotros iremos hacia allí.\NNo te muevas de donde estás.
+Dialogue: 0,0:08:02.34,0:08:03.62,Gen_Main,Romantica,0,0,0,,Entendido.
+Dialogue: 0,0:08:09.43,0:08:11.16,Gen_Italics,Desir,0,0,0,,¿El futuro está cambiando?
+Dialogue: 0,0:08:12.55,0:08:17.33,Gen_Italics,Desir,0,0,0,,Se supone que enfrentaríamos a Dadeinuf\Nen el dominio de sombras más adelante.
+Dialogue: 0,0:08:17.89,0:08:20.25,Gen_Italics,Desir,0,0,0,,El Demonio del Desastre\Nde las leyendas.
+Dialogue: 0,0:08:20.35,0:08:23.52,Gen_Italics,Desir,0,0,0,,Es tan poderoso\Nque es un auténtico desastre.
+Dialogue: 0,0:08:24.07,0:08:26.93,Gen_Italics,Desir,0,0,0,,Unimos fuerzas y vencimos al demonio.
+Dialogue: 0,0:08:27.78,0:08:30.28,Gen_Italics,Desir,0,0,0,,Pero el precio que pagamos…
+Dialogue: 0,0:08:31.62,0:08:33.59,Gen_Italics,Desir,0,0,0,,fue demasiado alto.
+Dialogue: 0,0:08:39.16,0:08:40.73,Gen_Main,Azest,0,0,0,,Cuánto maná.
+Dialogue: 0,0:08:40.83,0:08:43.09,Gen_Main,Romantica,0,0,0,,Se volvió más fuerte que antes.
+Dialogue: 0,0:08:43.38,0:08:45.46,Gen_Main,Pram,0,0,0,,¿Qué podemos hacer contra esa cosa?
+Dialogue: 0,0:08:45.92,0:08:49.84,Gen_Italics,Desir,0,0,0,,Romantica, Aaron y Dadeinuf…
+Dialogue: 0,0:08:50.22,0:08:54.76,Gen_Italics,Desir,0,0,0,,¿Por qué apareció en el mundo real\Nen lugar del dominio de sombras?
+Dialogue: 0,0:08:56.06,0:08:58.44,Gen_Italics,Desir,0,0,0,,¿Fue porque regresé al pasado?
+Dialogue: 0,0:09:01.60,0:09:04.84,Gen_Italics,Desir,0,0,0,,¿Acaso es imposible huir del destino?
+Dialogue: 0,0:09:06.07,0:09:07.53,Gen_Main,Romantica,0,0,0,,¿Desir?
+Dialogue: 0,0:09:12.57,0:09:14.16,Gen_Main,Desir,0,0,0,,No me jodas…
+Dialogue: 0,0:09:18.04,0:09:20.56,Gen_Main,Desir,0,0,0,,Tendremos que dejárselo\Nal Maestro de la Torre.
+Dialogue: 0,0:09:20.66,0:09:22.92,Gen_Main,Desir,0,0,0,,Nosotros solo seríamos un lastre.
+Dialogue: 0,0:09:23.08,0:09:24.82,Gen_Main,Romantica,0,0,0,,Mejor ayudemos con la evacuación.
+Dialogue: 0,0:09:24.92,0:09:26.90,Gen_Main,Romantica,0,0,0,,Salvemos todas las vidas que podamos.
+Dialogue: 0,0:09:27.00,0:09:28.41,Gen_Main,Pram/Romantica,0,0,0,,-Sí.\N-De acuerdo.
+Dialogue: 0,0:09:28.51,0:09:29.67,Gen_Main,Azest,0,0,0,,Sí…
+Dialogue: 0,0:09:45.56,0:09:49.07,Gen_Main,Hombres,0,0,0,,-Nos salvamos…\N-Pero la ciudad es un mar de fuego.
+Dialogue: 0,0:09:50.53,0:09:53.16,Gen_Main,Niña/Madre,0,0,0,,-Mamá, mira eso.\N-¿Qué cosa?
+Dialogue: 0,0:09:53.74,0:09:55.49,Gen_Main,Niña,0,0,0,,¡Fuegos artificiales enormes!
+Dialogue: 0,0:10:04.79,0:10:06.71,Gen_Main,Azest,0,0,0,,¡Corona de hielo!
+Dialogue: 0,0:10:16.60,0:10:18.29,Gen_Main,Azest,0,0,0,,Ya están a salvo.
+Dialogue: 0,0:10:30.40,0:10:32.97,Gen_Main,Desir,0,0,0,,Ellos dos se encargarán\Nde la superficie.
+Dialogue: 0,0:10:33.07,0:10:36.24,Gen_Main,Desir/Romantica,0,0,0,,-Concéntrate, Romantica.\N-Ya lo sé.
+Dialogue: 0,0:10:36.62,0:10:38.68,Gen_Main,Desir,0,0,0,,A las dos, distancia: 850.
+Dialogue: 0,0:10:38.78,0:10:40.07,Gen_Main,Romantica,0,0,0,,Entendido.
+Dialogue: 0,0:10:43.75,0:10:46.88,Gen_Main,Desir,0,0,0,,Siguiente: a las once, 1200.
+Dialogue: 0,0:10:59.30,0:11:02.14,Gen_Main,Zod,0,0,0,,¿No lo alcanza? Entonces…
+Dialogue: 0,0:11:03.43,0:11:04.89,Gen_Main,Zod,0,0,0,,¡Vórtice!
+Dialogue: 0,0:11:13.32,0:11:14.90,Gen_Main,Zod,0,0,0,,¡Uno más!
+Dialogue: 0,0:11:15.15,0:11:16.91,Gen_Main,Zod,0,0,0,,¡Sable de obsidiana!
+Dialogue: 0,0:11:25.62,0:11:27.04,Gen_Main,Zod,0,0,0,,Lo siento.
+Dialogue: 0,0:11:27.21,0:11:28.36,Gen_Main,Priscilla,0,0,0,,¡Cura!
+Dialogue: 0,0:11:35.80,0:11:38.30,Gen_Main,Zod,0,0,0,,Gracias… Quédate atrás.
+Dialogue: 0,0:11:39.01,0:11:40.93,Gen_Main,Priscilla,0,0,0,,¿Eh? No me digas que…
+Dialogue: 0,0:11:41.76,0:11:43.31,Gen_Main,Zod,0,0,0,,Esto no ha terminado.
+Dialogue: 0,0:12:02.53,0:12:03.96,Gen_Main,Priscilla,0,0,0,,No puede ser…
+Dialogue: 0,0:12:04.75,0:12:08.20,Gen_Main,Zod,0,0,0,,Hace honor a su título de demonio.
+Dialogue: 0,0:12:14.09,0:12:16.87,Gen_Main,Desir,0,0,0,,Romantica, el barco ya está\Nen una zona segura.
+Dialogue: 0,0:12:16.97,0:12:18.43,Gen_Main,Desir,0,0,0,,Ya están a salvo.
+Dialogue: 0,0:12:18.72,0:12:20.43,Gen_Main,Romantica,0,0,0,,Menos mal.
+Dialogue: 0,0:12:23.89,0:12:27.47,Gen_Main,Desir/Romantica,0,0,0,,-No esperaba menos de ti.\N-Ya te dije que me molesta eso.
+Dialogue: 0,0:12:28.06,0:12:30.51,Gen_Main,Romantica,0,0,0,,Pero por ahora lo dejaré pasar.
+Dialogue: 0,0:12:34.52,0:12:36.32,Gen_Main,Desir,0,0,0,,También deberíamos evacuar.
+Dialogue: 0,0:12:45.99,0:12:47.38,Gen_Main,Desir,0,0,0,,Romantica.
+Dialogue: 0,0:12:47.91,0:12:49.38,Gen_Main,Romantica,0,0,0,,Ya lo sé.
+Dialogue: 0,0:12:55.84,0:12:57.82,Gen_Main,Pram,0,0,0,,Desir, ya llegamos a la estación.
+Dialogue: 0,0:12:57.92,0:12:59.30,Gen_Main,Azest,0,0,0,,¿Cómo van ustedes?
+Dialogue: 0,0:13:00.72,0:13:02.66,Gen_Main,Desir,0,0,0,,Casi llegamos.\NSuban al tren primero.
+Dialogue: 0,0:13:02.76,0:13:04.22,Gen_Italics,Azest/Pram,0,0,0,,¡Los estaremos esperando!
+Dialogue: 0,0:13:05.81,0:13:07.11,Gen_Main,Desir,0,0,0,,Está bien.
+Dialogue: 0,0:13:10.06,0:13:11.94,Gen_Main,Desir,0,0,0,,Romantica, ¿estás bien?
+Dialogue: 0,0:13:12.94,0:13:14.98,Gen_Main,Romantica,0,0,0,,Estoy bien.
+Dialogue: 0,0:13:16.11,0:13:17.77,Gen_Main,Desir,0,0,0,,No lo parece.
+Dialogue: 0,0:13:19.32,0:13:22.76,Gen_Main,Romantica,0,0,0,,Usé demasiado maná, solo es eso.
+Dialogue: 0,0:13:29.29,0:13:31.29,Gen_Main,Romantica,0,0,0,,¡Bien! ¡Sigamos!
+Dialogue: 0,0:13:31.41,0:13:32.56,Gen_Main,Desir,0,0,0,,Sí.
+Dialogue: 0,0:13:33.63,0:13:34.94,Gen_Main,Romantica,0,0,0,,¿Qué?
+Dialogue: 0,0:13:35.04,0:13:37.64,Gen_Main,Desir/Romantica,0,0,0,,-Un sobreviviente de los Outers.\N-¿Dónde?
+Dialogue: 0,0:13:38.05,0:13:41.53,Gen_Main,Desir,0,0,0,,No puedo ignorarlo.\NRomantica, ve a la estación.
+Dialogue: 0,0:13:41.63,0:13:43.43,Gen_Main,Romantica,0,0,0,,No, yo también…
+Dialogue: 0,0:13:43.64,0:13:46.93,Gen_Main,Desir,0,0,0,,Te quedaste sin maná, ¿verdad?\NNo puedes forzarte más.
+Dialogue: 0,0:13:47.06,0:13:49.71,Gen_Main,Romantica,0,0,0,,Es cierto, pero…
+Dialogue: 0,0:13:52.14,0:13:54.44,Gen_Main,Romantica,0,0,0,,¡No hagas ninguna locura!\N¿Entendido?
+Dialogue: 0,0:13:54.81,0:13:56.33,Gen_Main,Desir,0,0,0,,Ya lo sé.
+Dialogue: 0,0:13:56.94,0:14:01.51,Gen_Main,Romantica,0,0,0,,De verdad… odio cuando sonríes así.
+Dialogue: 0,0:14:09.20,0:14:11.56,Gen_Italics,Desir,0,0,0,,Perdón, Romantica.
+Dialogue: 0,0:14:19.34,0:14:22.78,Gen_Italics,Desir,0,0,0,,No permitiré que termine\Nigual que la última vez.
+Dialogue: 0,0:14:29.26,0:14:30.60,Gen_Main,Desir,0,0,0,,Aaron.
+Dialogue: 0,0:14:31.64,0:14:35.31,Gen_Main,Aaron,0,0,0,,¿Quién eres tú?\NNo recuerdo haberme presentado.
+Dialogue: 0,0:14:36.06,0:14:40.32,Gen_Main,Desir,0,0,0,,Discúlpeme, Aaron, comandante\Nde los caballeros del Reino de Divide.
+Dialogue: 0,0:14:41.30,0:14:45.57,Gen_Main,Aaron,0,0,0,,Ah, eres el mago que ayudó a evacuar\Nal rey del castillo, ¿no?
+Dialogue: 0,0:14:45.86,0:14:49.98,Gen_Main,Desir,0,0,0,,Sí. Soy Desir Armand,\Nde la Academia Hebrion.
+Dialogue: 0,0:14:50.54,0:14:52.62,Gen_Main,Aaron,0,0,0,,Te lo agradezco de nuevo.
+Dialogue: 0,0:14:54.04,0:14:56.27,Gen_Main,Aaron/Desir,0,0,0,,-Gracias.\N-Sí.
+Dialogue: 0,0:14:57.96,0:15:00.09,Gen_Italics,Desir,0,0,0,,Yo soy el que debería agradecerte.
+Dialogue: 0,0:15:01.92,0:15:06.13,Gen_Italics,Desir,0,0,0,,Por fin pude volver a hablar contigo.
+Dialogue: 0,0:15:10.54,0:15:13.29,Gen_Main,Desir,0,0,0,,El barco del Reino de Divide\Nya debería haber zarpado.
+Dialogue: 0,0:15:13.39,0:15:15.77,Gen_Main,Desir,0,0,0,,¿Por qué sigue aquí, comandante?
+Dialogue: 0,0:15:15.89,0:15:19.46,Gen_Main,Aaron,0,0,0,,Aunque no sea mi país, no podía\Nquedarme de brazos cruzados.
+Dialogue: 0,0:15:19.56,0:15:22.38,Gen_Main,Aaron,0,0,0,,Estoy buscando a gente\Nque no haya podido escapar.
+Dialogue: 0,0:15:22.48,0:15:25.42,Gen_Main,Aaron,0,0,0,,Aunque su majestad me regañó por esto.
+Dialogue: 0,0:15:26.15,0:15:27.76,Gen_Italics,Desir,0,0,0,,No has cambiado nada…
+Dialogue: 0,0:15:29.32,0:15:31.03,Gen_Main,Desir,0,0,0,,Aléjese de inmediato.
+Dialogue: 0,0:15:31.16,0:15:32.31,Gen_Main,Aaron,0,0,0,,¿Qué?
+Dialogue: 0,0:15:32.66,0:15:36.04,Gen_Main,Desir,0,0,0,,El poder de ese demonio\Nno tardará en llegar aquí.
+Dialogue: 0,0:15:36.58,0:15:39.44,Gen_Main,Desir,0,0,0,,Aún no ha mostrado todo su poder.
+Dialogue: 0,0:15:40.46,0:15:42.03,Gen_Main,Aaron,0,0,0,,Tú…
+Dialogue: 0,0:15:42.13,0:15:44.38,Gen_Main,Desir,0,0,0,,No quiero que muera nadie más.
+Dialogue: 0,0:15:47.93,0:15:49.30,Gen_Main,Aaron,0,0,0,,Entendido.
+Dialogue: 0,0:15:49.55,0:15:52.09,Gen_Main,Desir,0,0,0,,Se lo agradezco. Con su permiso.
+Dialogue: 0,0:16:33.43,0:16:34.47,Gen_Main,Priscilla,0,0,0,,Zod.
+Dialogue: 0,0:16:34.72,0:16:37.11,Gen_Main,Zod,0,0,0,,Estoy bien. Le pondré fin a esto.
+Dialogue: 0,0:16:39.94,0:16:41.65,Gen_Main,Zod,0,0,0,,¡Cero absoluto!
+Dialogue: 0,0:16:46.99,0:16:48.82,Gen_Main,Zod,0,0,0,,¡Rugido de magma!
+Dialogue: 0,0:17:23.40,0:17:24.97,Gen_Main,Zod,0,0,0,,¿Por fin cayó?
+Dialogue: 0,0:17:25.07,0:17:26.97,Gen_Main,Priscilla,0,0,0,,Buen trabajo, Zod.
+Dialogue: 0,0:17:27.07,0:17:28.42,Gen_Main,Desir,0,0,0,,Aún no.
+Dialogue: 0,0:17:31.40,0:17:32.95,Gen_Main,Zod,0,0,0,,¿Qué quieres decir?
+Dialogue: 0,0:17:33.16,0:17:36.38,Gen_Main,Desir,0,0,0,,Dadeinuf aún no ha mostrado\Nsu verdadera forma.
+Dialogue: 0,0:17:42.71,0:17:46.59,Gen_Main,Desir,0,0,0,,Dicen que ese demonio destruyó\Nla ciudad en una sola noche…
+Dialogue: 0,0:17:47.52,0:17:49.01,Gen_Main,Desir,0,0,0,,Su verdadera identidad es…
+Dialogue: 0,0:18:25.08,0:18:29.84,Gen_Main,Desir,0,0,0,,Esa es la verdadera forma de Dadeinuf,\Nel Demonio del Desastre.
+Dialogue: 0,0:18:34.47,0:18:36.60,Gen_Main,Priscilla,0,0,0,,¿Qué podemos hacer?
+Dialogue: 0,0:18:37.26,0:18:40.17,Gen_Main,Zod,0,0,0,,Desir, te encargo a Priscilla.
+Dialogue: 0,0:18:40.27,0:18:43.92,Gen_Main,Zod,0,0,0,,Necesitamos a la Santa\Npara mantener el orden de este mundo.
+Dialogue: 0,0:18:44.02,0:18:45.90,Gen_Main,Priscilla,0,0,0,,¡Zod, no lo hagas!
+Dialogue: 0,0:18:46.31,0:18:51.09,Gen_Main,Desir,0,0,0,,El orden de este mundo\Ntambién necesita a Zod Exarion.
+Dialogue: 0,0:18:52.94,0:18:54.36,Gen_Main,Desir,0,0,0,,Maestro de la Torre…
+Dialogue: 0,0:18:54.82,0:18:57.07,Gen_Main,Desir,0,0,0,,deme el maná que le queda.
+Dialogue: 0,0:18:59.16,0:19:02.20,Gen_Main,Zod,0,0,0,,¿Crees que puedes derrotarlo?
+Dialogue: 0,0:19:02.54,0:19:03.60,Gen_Main,Desir,0,0,0,,Sí.
+Dialogue: 0,0:19:10.34,0:19:12.73,Gen_Main,Priscilla,0,0,0,,¿Fórmulas de magia de bajo nivel?
+Dialogue: 0,0:19:13.26,0:19:15.93,Gen_Main,Priscilla/Zod,0,0,0,,-¿Qué vas a hacer con eso?\N-Espera.
+Dialogue: 0,0:19:16.84,0:19:20.38,Gen_Italics,Desir,0,0,0,,La magia fue cambiando poco a poco\Npara adaptarse a las épocas.
+Dialogue: 0,0:19:20.85,0:19:23.02,Gen_Italics,Desir,0,0,0,,Pero hay una sola cosa que no cambia…
+Dialogue: 0,0:19:23.35,0:19:28.93,Gen_Italics,Desir,0,0,0,,Que debemos procesar el maná\Npresente en la atmósfera.
+Dialogue: 0,0:19:30.94,0:19:33.72,Gen_Main,Zod,0,0,0,,¿Crees que solo apilando\Nfórmulas tan simples
+Dialogue: 0,0:19:33.82,0:19:36.09,Gen_Main,Zod,0,0,0,,podrás derrotar a ese demonio?
+Dialogue: 0,0:19:36.70,0:19:41.07,Gen_Main,Desir,0,0,0,,No. El poder humano no basta\Npara derrotar a ese demonio.
+Dialogue: 0,0:19:50.04,0:19:51.46,Gen_Italics,Desir,0,0,0,,Así es…
+Dialogue: 0,0:19:52.05,0:19:54.69,Gen_Italics,Desir,0,0,0,,¡Necesito un poder superior al suyo!
+Dialogue: 0,0:20:09.90,0:20:13.91,Gen_Main,Desir,0,0,0,,Una fórmula de la raza que se dice\Nque es el origen de la magia
+Dialogue: 0,0:20:14.23,0:20:17.80,Gen_Main,Desir,0,0,0,,y cuya existencia ha sido olvidada\Nde la memoria de la humanidad.
+Dialogue: 0,0:20:18.32,0:20:19.80,Gen_Main,Zod,0,0,0,,¡¿Qué piensas hacer?!
+Dialogue: 0,0:20:28.21,0:20:31.82,Gen_Italics,Desir,0,0,0,,Las fórmulas no son más\Nque una técnica de los humanos
+Dialogue: 0,0:20:31.92,0:20:34.80,Gen_Italics,Desir,0,0,0,,para procesar el maná\Ny convertirlo en magia.
+Dialogue: 0,0:20:36.59,0:20:40.29,Gen_Italics,Desir,0,0,0,,Para él, que tenía el maná\Nmismo en sus venas,
+Dialogue: 0,0:20:40.39,0:20:42.64,Gen_Italics,Desir,0,0,0,,las fórmulas no eran necesarias.
+Dialogue: 0,0:20:44.14,0:20:47.76,Gen_Italics,Desir,0,0,0,,Traía la destrucción\Ncon solo decir unas palabras.
+Dialogue: 0,0:20:48.85,0:20:50.22,Gen_Italics,Desir,0,0,0,,¿No es así,
+Dialogue: 0,0:20:51.44,0:20:53.18,Gen_Italics,Desir,0,0,0,,Boromir Napolitan?
+Dialogue: 0,0:21:13.63,0:21:15.00,Gen_Main,Zod,0,0,0,,Interesante.
+Dialogue: 0,0:21:16.34,0:21:19.42,Gen_Main,Zod,0,0,0,,¡Muéstramelo, Desir Armand!
+Dialogue: 0,0:23:32.35,0:23:35.02,Cart_A_Tre,CARTEL,0,0,0,,Traducción: Edward\NEdición: Álvaro Jimeno\NControl de calidad: Nicolás Sepúlveda
+Dialogue: 0,0:23:35.56,0:23:40.02,Cart_A_Tim,CARTEL,0,0,0,,{\an2\fad(644,1)\blur1\b0\3c&H67A216&\4c&H67A216&\c&HFFFFFF&\3a&HA3&\4a&HC8&\pos(306.334,298)}Episodio 20
+Dialogue: 0,0:23:35.56,0:23:40.02,Cart_A_Tre,CARTEL,0,0,0,,{\an3\pos(608.667,286)\fad(644,1)\shad.5\blur1\b0\3c&H67A216&\4c&H67A216&\c&HFFFFFF&\3a&HA3&\4a&HC8&\fs30}Palabras de ruina
+Dialogue: 1,0:23:36.23,0:23:39.20,Gen_Main_Up,Desir,0,0,0,,Próximo episodio:\N"Palabras de ruina".
+
