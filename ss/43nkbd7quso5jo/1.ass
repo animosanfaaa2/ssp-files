@@ -1,0 +1,354 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 1
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,24,&H00FFFFFF,&H0000FFFF,&H00000000,&HA0404040,-1,0,0,0,100,100,0,0,1,1.2,0.5,2,20,20,20,0
+Style: On Top,Gandhi Sans,24,&H00FFFFFF,&H0000FFFF,&H00000000,&HA0404040,-1,0,0,0,100,100,0,0,1,1.2,0.5,8,20,20,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.68,0:00:15.02,On Top,,0,0,0,,{\i1}kakero todoku made{\i0}
+Dialogue: 0,0:00:15.02,0:00:19.35,On Top,,0,0,0,,{\i1}kimi ni todoku made{\i0}
+Dialogue: 0,0:00:24.40,0:00:27.61,On Top,,0,0,0,,{\i1}aoku sunda unabara{\i0}
+Dialogue: 0,0:00:28.11,0:00:30.95,On Top,,0,0,0,,{\i1}kiseki no kakera{\i0}
+Dialogue: 0,0:00:31.70,0:00:37.25,On Top,,0,0,0,,{\i1}kazoekirenai hodo deaeta ne{\i0}
+Dialogue: 0,0:00:37.75,0:00:40.42,On Top,,0,0,0,,{\i1}susumu tabi susumu tabi{\i0}
+Dialogue: 0,0:00:40.42,0:00:44.25,On Top,,0,0,0,,{\i1}goru wa mada mienai mama{\i0}
+Dialogue: 0,0:00:44.25,0:00:47.80,On Top,,0,0,0,,{\i1}demo nandatte koerareru yo{\i0}
+Dialogue: 0,0:00:47.80,0:00:51.22,On Top,,0,0,0,,{\i1}sono egao mitai kara{\i0}
+Dialogue: 0,0:00:51.22,0:00:55.43,On Top,,0,0,0,,{\i1}mayoeba hikari ni nareya shinakatta{\i0}
+Dialogue: 0,0:00:55.43,0:00:59.02,On Top,,0,0,0,,{\i1}yowasa mo chanto tagayashita{\i0}
+Dialogue: 0,0:00:59.02,0:01:04.61,On Top,,0,0,0,,{\i1}hontou honki de ita bokura mada{\i0}
+Dialogue: 0,0:01:04.61,0:01:08.53,On Top,,0,0,0,,{\i1}kawaranai yo{\i0}
+Dialogue: 0,0:01:08.53,0:01:09.65,On Top,,0,0,0,,{\i1}kakero{\i0}
+Dialogue: 0,0:01:09.65,0:01:17.20,On Top,,0,0,0,,{\i1}todoku made kimi ni todoku made nee{\i0}
+Dialogue: 0,0:01:17.20,0:01:23.88,On Top,,0,0,0,,{\i1}densetsu miman datte joutou joutou{\i0}
+Dialogue: 0,0:01:23.88,0:01:30.34,On Top,,0,0,0,,{\i1}kirameku chizu itsuka waraeru hi made{\i0}
+Dialogue: 0,0:01:30.34,0:01:36.56,On Top,,0,0,0,,{\i1}mou mayoi wa nainda Fighter daijoubu{\i0}
+Dialogue: 0,0:04:05.66,0:04:08.71,On Top,,0,0,0,,BIGSTEIN CASTLE
+Dialogue: 0,0:21:34.13,0:21:37.84,On Top,,0,0,0,,{\i1}kenmei ni me wo korashite{\i0}
+Dialogue: 0,0:21:39.55,0:21:43.34,On Top,,0,0,0,,{\i1}genzaichi wo tashikameteiru{\i0}
+Dialogue: 0,0:21:44.76,0:21:49.35,On Top,,0,0,0,,{\i1}mousou to zetsubou ni nareta noumiso dewa{\i0}
+Dialogue: 0,0:21:49.35,0:21:52.65,On Top,,0,0,0,,{\i1}doushitatte chotto zurechimau ya{\i0}
+Dialogue: 0,0:21:53.23,0:21:57.07,On Top,,0,0,0,,{\i1}senmei ni ukandekuru no wa{\i0}
+Dialogue: 0,0:21:58.40,0:22:02.11,On Top,,0,0,0,,{\i1}itsudatte hidoi omoide de{\i0}
+Dialogue: 0,0:22:03.78,0:22:08.24,On Top,,0,0,0,,{\i1}kantan na taikutsu wo hiroiatsumete wa{\i0}
+Dialogue: 0,0:22:08.24,0:22:11.83,On Top,,0,0,0,,{\i1}dareka mitai ni nacchimaisou{\i0}
+Dialogue: 0,0:22:13.37,0:22:16.50,On Top,,0,0,0,,{\i1}ore ni niau mirai wa doredarou{\i0}
+Dialogue: 0,0:22:16.50,0:22:20.42,On Top,,0,0,0,,{\i1}koko kara jaa ikura me wo korashitemo{\i0}
+Dialogue: 0,0:22:20.42,0:22:22.88,On Top,,0,0,0,,{\i1}nanimo mie wa shinai sa{\i0}
+Dialogue: 0,0:22:22.88,0:22:26.35,On Top,,0,0,0,,{\i1}gyakufuu ni nokkatte{\i0}
+Dialogue: 0,0:22:26.35,0:22:29.22,On Top,,0,0,0,,{\i1}machigatta kuusou wo{\i0}
+Dialogue: 0,0:22:29.22,0:22:33.69,On Top,,0,0,0,,{\i1}kirisaita unmei no sakeme ni nagashikomu{\i0}
+Dialogue: 0,0:22:33.69,0:22:37.23,On Top,,0,0,0,,{\i1}daremo ga sou yatte{\i0}
+Dialogue: 0,0:22:37.23,0:22:41.78,On Top,,0,0,0,,{\i1}inochigake no genjitsu wo kasaneteirunda{\i0}
+Dialogue: 0,0:22:41.78,0:22:44.36,On Top,,0,0,0,,{\i1}negau hima mo nai hodo{\i0}
+Dialogue: 0,0:22:44.36,0:22:48.91,On Top,,0,0,0,,{\i1}sawagashii ashita ga kuru{\i0}
+Dialogue: 0,0:22:48.91,0:22:53.75,On Top,,0,0,0,,{\i1}sono mirai wa hora{\i0}
+Dialogue: 0,0:22:53.75,0:22:57.92,On Top,,0,0,0,,{\i1}ore no mon da yo{\i0}
+Dialogue: 0,0:00:09.68,0:00:11.68,Default,,0,0,0,,
+Dialogue: 0,0:00:11.68,0:00:15.02,Default,,0,0,0,,{\i1}Run, until we reach{\i0}
+Dialogue: 0,0:00:15.02,0:00:19.35,Default,,0,0,0,,{\i1}Until we reach you{\i0}
+Dialogue: 0,0:00:24.40,0:00:27.61,Default,,0,0,0,,{\i1}The clear blue open sea{\i0}
+Dialogue: 0,0:00:28.11,0:00:30.95,Default,,0,0,0,,{\i1}A sliver of a miracle{\i0}
+Dialogue: 0,0:00:31.70,0:00:37.25,Default,,0,0,0,,{\i1}We've encountered more\NThan we could ever imagine{\i0}
+Dialogue: 0,0:00:37.75,0:00:40.42,Default,,0,0,0,,{\i1}With every step we take on this journey{\i0}
+Dialogue: 0,0:00:40.42,0:00:44.25,Default,,0,0,0,,{\i1}The goal is still out of sight{\i0}
+Dialogue: 0,0:00:44.25,0:00:47.80,Default,,0,0,0,,{\i1}But we can overcome anything{\i0}
+Dialogue: 0,0:00:47.80,0:00:51.22,Default,,0,0,0,,{\i1}Just to see your smile{\i0}
+Dialogue: 0,0:00:51.22,0:00:55.43,Default,,0,0,0,,{\i1}If we wavered, we couldn't shine{\i0}
+Dialogue: 0,0:00:55.43,0:00:59.02,Default,,0,0,0,,{\i1}We even strove to conquer our weaknesses{\i0}
+Dialogue: 0,0:00:59.02,0:01:04.61,Default,,0,0,0,,{\i1}We, who were truly devoted{\i0}
+Dialogue: 0,0:01:04.61,0:01:08.53,Default,,0,0,0,,{\i1}Have always been the same{\i0}
+Dialogue: 0,0:01:08.53,0:01:09.65,Default,,0,0,0,,{\i1}Run{\i0}
+Dialogue: 0,0:01:09.65,0:01:17.20,Default,,0,0,0,,{\i1}Until we reach\NUntil we reach you, hey{\i0}
+Dialogue: 0,0:01:17.20,0:01:23.88,Default,,0,0,0,,{\i1}Less than legendary?\NNo problem! It's all good!{\i0}
+Dialogue: 0,0:01:23.88,0:01:30.34,Default,,0,0,0,,{\i1}Until the day we can laugh\NFollow the shining map{\i0}
+Dialogue: 0,0:01:30.34,0:01:36.56,Default,,0,0,0,,{\i1}So, no more hesitation, fighter\NIt's gonna be alright{\i0}
+Dialogue: 0,0:01:41.60,0:01:43.27,Default,,0,0,0,,Nami... Nami!
+Dialogue: 0,0:01:43.27,0:01:44.81,Default,,0,0,0,,Hey! Wake up!
+Dialogue: 0,0:01:53.91,0:01:55.45,Default,,0,0,0,,Ow, ow...
+Dialogue: 0,0:01:55.45,0:01:57.58,Default,,0,0,0,,I drank a bit too...
+Dialogue: 0,0:01:57.91,0:01:58.54,Default,,0,0,0,,...much?
+Dialogue: 0,0:02:04.29,0:02:05.25,Default,,0,0,0,,Huh?
+Dialogue: 0,0:02:08.75,0:02:10.09,Default,,0,0,0,,Where am I?
+Dialogue: 0,0:02:17.18,0:02:18.72,Default,,0,0,0,,No one's here.
+Dialogue: 0,0:02:23.98,0:02:25.65,Default,,0,0,0,,What's going on?
+Dialogue: 0,0:02:32.11,0:02:34.11,Default,,0,0,0,,Just my imagination.
+Dialogue: 0,0:02:34.11,0:02:35.61,Default,,0,0,0,,Wait, before that...
+Dialogue: 0,0:02:35.61,0:02:37.24,Default,,0,0,0,,Ow!
+Dialogue: 0,0:02:37.24,0:02:39.74,Default,,0,0,0,,Why am I even here?
+Dialogue: 0,0:02:39.74,0:02:43.46,Default,,0,0,0,,I remember getting aboard the Giants' ship\Nat Egghead,
+Dialogue: 0,0:02:43.46,0:02:45.75,Default,,0,0,0,,and we were having a banquet...
+Dialogue: 0,0:02:51.34,0:02:53.84,Default,,0,0,0,,Gee, what is going on?
+Dialogue: 0,0:02:54.38,0:02:58.26,Default,,0,0,0,,Anyway, I'd better catch up\Nwith Luffy and the rest, fast.
+Dialogue: 0,0:03:02.93,0:03:05.14,Default,,0,0,0,,No!
+Dialogue: 0,0:03:08.77,0:03:14.53,Default,,0,0,0,,{\i1}"Nami in a Fix!\NAn Adventure in Block Kingdom"{\i0}
+Dialogue: 0,0:03:20.99,0:03:21.79,Default,,0,0,0,,That's terrible.
+Dialogue: 0,0:03:22.24,0:03:23.29,Default,,0,0,0,,Fire!
+Dialogue: 0,0:03:23.29,0:03:24.62,Default,,0,0,0,,Are the woods burning?
+Dialogue: 0,0:03:25.00,0:03:26.58,Default,,0,0,0,,It smells awful!
+Dialogue: 0,0:03:26.58,0:03:29.04,Default,,0,0,0,,Put it out with water from the spring!
+Dialogue: 0,0:03:29.33,0:03:33.71,Default,,0,0,0,,If Yggdrasil catches fire,\Nthis country is finished!
+Dialogue: 0,0:03:35.51,0:03:36.88,Default,,0,0,0,,What's that?
+Dialogue: 0,0:03:44.89,0:03:46.56,Default,,0,0,0,,Stingmores...
+Dialogue: 0,0:03:47.23,0:03:49.27,Default,,0,0,0,,What in the world is going on?
+Dialogue: 0,0:03:50.31,0:03:54.32,Default,,0,0,0,,According to the people of the forest,\Nthat tremor we felt...
+Dialogue: 0,0:03:54.32,0:03:56.53,Default,,0,0,0,,it was the sound of the Ear God falling.
+Dialogue: 0,0:03:56.53,0:03:58.36,Default,,0,0,0,,No way!
+Dialogue: 0,0:03:58.36,0:04:00.62,Default,,0,0,0,,That fierce giant rabbit?!
+Dialogue: 0,0:04:00.99,0:04:04.49,Default,,0,0,0,,Maybe we should report this to the Sun God.
+Dialogue: 0,0:04:07.54,0:04:09.71,Default,,0,0,0,,It's still alive!
+Dialogue: 0,0:04:12.50,0:04:16.13,Default,,0,0,0,,I won't let you touch Nami!
+Dialogue: 0,0:04:28.81,0:04:31.44,Default,,0,0,0,,What's that giant bee?
+Dialogue: 0,0:04:31.86,0:04:34.36,Default,,0,0,0,,Good morning, Nami.
+Dialogue: 0,0:04:34.36,0:04:36.11,Default,,0,0,0,,Where are we?
+Dialogue: 0,0:04:36.11,0:04:37.69,Default,,0,0,0,,I don't know.
+Dialogue: 0,0:04:37.69,0:04:40.86,Default,,0,0,0,,We were supposed to be\Non the Giants' ship.
+Dialogue: 0,0:04:42.12,0:04:44.83,Default,,0,0,0,,Where am I?! Is this a dream?!
+Dialogue: 0,0:04:45.16,0:04:46.62,Default,,0,0,0,,Is this a castle somewhere?
+Dialogue: 0,0:04:47.70,0:04:51.25,Default,,0,0,0,,Am I going crazy?!\NI don't remember changing, either!
+Dialogue: 0,0:04:54.29,0:04:57.59,Default,,0,0,0,,I'm gonna go back to sleep.
+Dialogue: 0,0:04:58.30,0:04:59.05,Default,,0,0,0,,What?
+Dialogue: 0,0:05:01.13,0:05:03.64,Default,,0,0,0,,Hey! Don't leave me alone!
+Dialogue: 0,0:05:03.64,0:05:05.01,Default,,0,0,0,,Zeus!
+Dialogue: 0,0:05:05.01,0:05:07.02,Default,,0,0,0,,Come on! Zeus!
+Dialogue: 0,0:05:08.89,0:05:12.73,Default,,0,0,0,,Somebody, help!
+Dialogue: 0,0:05:13.44,0:05:15.02,Default,,0,0,0,,Luffy!
+Dialogue: 0,0:05:15.02,0:05:16.32,Default,,0,0,0,,Zoro!
+Dialogue: 0,0:05:16.32,0:05:18.32,Default,,0,0,0,,Sanji-{\i1}kun{\i0}!
+Dialogue: 0,0:05:18.90,0:05:20.86,Default,,0,0,0,,I'd even take Usopp at this point.
+Dialogue: 0,0:05:20.86,0:05:24.37,Default,,0,0,0,,Hey! Nami!
+Dialogue: 0,0:05:24.37,0:05:26.54,Default,,0,0,0,,What?! Usopp?!
+Dialogue: 0,0:05:30.04,0:05:32.46,Default,,0,0,0,,Ouch!
+Dialogue: 0,0:05:32.46,0:05:36.63,Default,,0,0,0,,Gee! What's with this floor?
+Dialogue: 0,0:05:36.63,0:05:38.34,Default,,0,0,0,,It's so bumpy.
+Dialogue: 0,0:05:56.61,0:05:59.15,Default,,0,0,0,,It's huge!
+Dialogue: 0,0:06:02.70,0:06:05.28,Default,,0,0,0,,Wait, I didn't mean to startle you...
+Dialogue: 0,0:06:09.33,0:06:11.20,Default,,0,0,0,,Don't be mad, okay?
+Dialogue: 0,0:06:15.63,0:06:17.54,Default,,0,0,0,,I didn't mean it!
+Dialogue: 0,0:06:17.54,0:06:19.30,Default,,0,0,0,,I'm sorry!
+Dialogue: 0,0:06:23.34,0:06:25.68,Default,,0,0,0,,He's slow...\NMaybe because his legs are short?
+Dialogue: 0,0:06:30.43,0:06:32.93,Default,,0,0,0,,Oh, come on! Usopp!
+Dialogue: 0,0:06:32.93,0:06:34.85,Default,,0,0,0,,Where are you?!
+Dialogue: 0,0:06:34.85,0:06:36.52,Default,,0,0,0,,I'm here!
+Dialogue: 0,0:06:37.44,0:06:38.48,Default,,0,0,0,,Usopp!
+Dialogue: 0,0:06:46.41,0:06:48.49,Default,,0,0,0,,Help me!
+Dialogue: 0,0:06:48.49,0:06:50.45,Default,,0,0,0,,{\i1}You{\i0} need {\i1}my{\i0} help?!
+Dialogue: 0,0:06:50.45,0:06:52.45,Default,,0,0,0,,I mean, what's that monster?!
+Dialogue: 0,0:06:54.62,0:06:56.42,Default,,0,0,0,,Usopp's in a fix!
+Dialogue: 0,0:06:56.88,0:06:58.38,Default,,0,0,0,,I'm in a fix, too!
+Dialogue: 0,0:06:58.79,0:07:00.59,Default,,0,0,0,,What's with this place?!
+Dialogue: 0,0:07:00.59,0:07:02.46,Default,,0,0,0,,A castle of monsters?!
+Dialogue: 0,0:07:04.30,0:07:06.68,Default,,0,0,0,,Come on! I need you, Zeus!
+Dialogue: 0,0:07:06.68,0:07:08.80,Default,,0,0,0,,Wake up! Hey!
+Dialogue: 0,0:07:09.89,0:07:11.39,Default,,0,0,0,,Just wake up already!
+Dialogue: 0,0:07:14.48,0:07:17.60,Default,,0,0,0,,Nami, is it time to eat?
+Dialogue: 0,0:07:19.19,0:07:21.48,Default,,0,0,0,,I'll give you tons of freshly-made clouds!
+Dialogue: 0,0:07:21.48,0:07:22.78,Default,,0,0,0,,Really?!
+Dialogue: 0,0:07:26.28,0:07:27.49,Default,,0,0,0,,Grow, Zeus!
+Dialogue: 0,0:07:27.49,0:07:29.03,Default,,0,0,0,,Count on me!
+Dialogue: 0,0:07:37.29,0:07:39.04,Default,,0,0,0,,Zeus! You can do it!
+Dialogue: 0,0:07:52.01,0:07:53.77,Default,,0,0,0,,I'm gonna fall!
+Dialogue: 0,0:07:56.06,0:07:59.23,Default,,0,0,0,,How about some lightning!
+Dialogue: 0,0:08:13.79,0:08:15.12,Default,,0,0,0,,What... What?
+Dialogue: 0,0:08:24.46,0:08:25.09,Default,,0,0,0,,Ow!
+Dialogue: 0,0:08:31.64,0:08:33.76,Default,,0,0,0,,What?!
+Dialogue: 0,0:08:50.57,0:08:52.53,Default,,0,0,0,,I have a bad feeling.
+Dialogue: 0,0:08:52.53,0:08:53.78,Default,,0,0,0,,Me, too.
+Dialogue: 0,0:08:57.66,0:08:58.96,Default,,0,0,0,,It's...
+Dialogue: 0,0:08:59.37,0:09:01.29,Default,,0,0,0,,...definitely...
+Dialogue: 0,0:09:13.85,0:09:15.35,Default,,0,0,0,,Help!
+Dialogue: 0,0:09:20.31,0:09:23.11,Default,,0,0,0,,Damn! It's hard to run!\NThis bumpy floor's so annoying!
+Dialogue: 0,0:09:23.11,0:09:25.82,Default,,0,0,0,,Hey, Usopp! Any idea what's going on?!
+Dialogue: 0,0:09:26.27,0:09:29.44,Default,,0,0,0,,Not a clue! I woke up to find myself here!
+Dialogue: 0,0:09:30.53,0:09:35.24,Default,,0,0,0,,Whoa-whoa, what's this place?
+Dialogue: 0,0:09:40.16,0:09:41.54,Default,,0,0,0,,What?!
+Dialogue: 0,0:09:41.54,0:09:42.92,Default,,0,0,0,,Beard?!
+Dialogue: 0,0:09:43.50,0:09:44.83,Default,,0,0,0,,This outfit...
+Dialogue: 0,0:09:45.38,0:09:46.42,Default,,0,0,0,,Don't tell me...
+Dialogue: 0,0:09:51.30,0:09:52.22,Default,,0,0,0,,Nami!
+Dialogue: 0,0:09:52.22,0:09:54.30,Default,,0,0,0,,Hey! Wake up!
+Dialogue: 0,0:09:58.35,0:10:00.77,Default,,0,0,0,,Ow, ow, ow...
+Dialogue: 0,0:10:00.77,0:10:01.56,Default,,0,0,0,,What was that?
+Dialogue: 0,0:10:09.44,0:10:10.57,Default,,0,0,0,,That's about it.
+Dialogue: 0,0:10:10.57,0:10:13.24,Default,,0,0,0,,So that was your voice.
+Dialogue: 0,0:10:13.53,0:10:15.16,Default,,0,0,0,,How did we end up here?!
+Dialogue: 0,0:10:15.57,0:10:16.99,Default,,0,0,0,,I don't know.
+Dialogue: 0,0:10:16.99,0:10:19.54,Default,,0,0,0,,We got aboard the Giants' ship,
+Dialogue: 0,0:10:19.95,0:10:21.45,Default,,0,0,0,,got drunk...
+Dialogue: 0,0:10:23.58,0:10:25.54,Default,,0,0,0,,Speaking of which,
+Dialogue: 0,0:10:26.04,0:10:27.79,Default,,0,0,0,,this booze is pretty strong.
+Dialogue: 0,0:10:28.42,0:10:31.30,Default,,0,0,0,,Yeah! This is absinthe!
+Dialogue: 0,0:10:31.30,0:10:33.97,Default,,0,0,0,,Also known as the green fairy.
+Dialogue: 0,0:10:33.97,0:10:37.76,Default,,0,0,0,,Oh yeah!\NHe said it can make you hallucinate!
+Dialogue: 0,0:10:39.64,0:10:40.68,Default,,0,0,0,,Is it a dead end?!
+Dialogue: 0,0:10:46.69,0:10:48.57,Default,,0,0,0,,So high!
+Dialogue: 0,0:10:56.28,0:10:58.24,Default,,0,0,0,,What should we do, Usopp?!
+Dialogue: 0,0:10:58.24,0:11:01.29,Default,,0,0,0,,You said "hallucinate," didn't you, Nami?
+Dialogue: 0,0:11:01.83,0:11:02.54,Default,,0,0,0,,What?
+Dialogue: 0,0:11:02.54,0:11:05.29,Default,,0,0,0,,In that case, that cat...
+Dialogue: 0,0:11:05.29,0:11:07.79,Default,,0,0,0,,We see it, but it might just be...
+Dialogue: 0,0:11:10.46,0:11:12.13,Default,,0,0,0,,...a hallucination!
+Dialogue: 0,0:11:15.22,0:11:16.72,Default,,0,0,0,,Bring it on!
+Dialogue: 0,0:11:27.23,0:11:29.73,Default,,0,0,0,,Usopp!
+Dialogue: 0,0:11:43.12,0:11:44.20,Default,,0,0,0,,Usopp...
+Dialogue: 0,0:11:48.54,0:11:52.55,Default,,0,0,0,,No!
+Dialogue: 0,0:12:20.24,0:12:21.82,Default,,0,0,0,,Ow, ow, ow, ow...
+Dialogue: 0,0:12:21.82,0:12:23.70,Default,,0,0,0,,Am I still alive?
+Dialogue: 0,0:12:28.37,0:12:31.50,Default,,0,0,0,,Usopp turned into Brook!
+Dialogue: 0,0:12:39.22,0:12:40.39,Default,,0,0,0,,Usopp!
+Dialogue: 0,0:12:43.81,0:12:45.85,Default,,0,0,0,,Hey, wake up!
+Dialogue: 0,0:12:45.85,0:12:49.31,Default,,0,0,0,,Don't leave me alone!
+Dialogue: 0,0:12:51.35,0:12:52.52,Default,,0,0,0,,Usopp!
+Dialogue: 0,0:13:24.97,0:13:26.76,Default,,0,0,0,,Why a lion?
+Dialogue: 0,0:13:26.76,0:13:28.31,Default,,0,0,0,,Usopp, stay with me!
+Dialogue: 0,0:13:28.31,0:13:30.77,Default,,0,0,0,,Wake up! We'll be killed!
+Dialogue: 0,0:13:30.77,0:13:33.56,Default,,0,0,0,,Usopp! Usopp!
+Dialogue: 0,0:13:50.12,0:13:52.04,Default,,0,0,0,,Hey! Don't use me as a shield!
+Dialogue: 0,0:13:53.00,0:13:54.29,Default,,0,0,0,,No, go away! No, go away!
+Dialogue: 0,0:13:54.29,0:13:56.21,Default,,0,0,0,,We're toast...
+Dialogue: 0,0:14:04.22,0:14:05.80,Default,,0,0,0,,Gear Three!
+Dialogue: 0,0:14:14.56,0:14:17.15,Default,,0,0,0,,Nami-{\i1}san{\i0}!
+Dialogue: 0,0:14:19.44,0:14:22.28,Default,,0,0,0,,For making the person I love cry...
+Dialogue: 0,0:14:22.28,0:14:23.20,Default,,0,0,0,,The death penalty!
+Dialogue: 0,0:14:30.12,0:14:31.83,Default,,0,0,0,,Ifrit Jambe!
+Dialogue: 0,0:14:36.46,0:14:38.21,Default,,0,0,0,,Three Sword Style.
+Dialogue: 0,0:14:39.80,0:14:42.05,Default,,0,0,0,,Gum-Gum...
+Dialogue: 0,0:14:42.63,0:14:44.59,Default,,0,0,0,,...Elephant...
+Dialogue: 0,0:14:45.76,0:14:47.39,Default,,0,0,0,,Épaule...
+Dialogue: 0,0:14:48.30,0:14:50.64,Default,,0,0,0,,Black Rope Dragon...
+Dialogue: 0,0:14:54.52,0:14:55.90,Default,,0,0,0,,...Twister!
+Dialogue: 0,0:15:00.69,0:15:02.57,Default,,0,0,0,,...Whip!
+Dialogue: 0,0:15:08.03,0:15:09.49,Default,,0,0,0,,...Strike!
+Dialogue: 0,0:15:36.60,0:15:38.56,Default,,0,0,0,,That was close...
+Dialogue: 0,0:15:42.82,0:15:45.07,Default,,0,0,0,,What? It turned into a cat.
+Dialogue: 0,0:15:45.44,0:15:47.41,Default,,0,0,0,,It's gigantic!
+Dialogue: 0,0:15:47.41,0:15:49.78,Default,,0,0,0,,But I'll skip eating this one.
+Dialogue: 0,0:15:50.20,0:15:53.87,Default,,0,0,0,,The roasted rabbit earlier was good!
+Dialogue: 0,0:15:54.83,0:15:56.96,Default,,0,0,0,,Nami-{\i1}san{\i0}!
+Dialogue: 0,0:15:57.37,0:16:00.21,Default,,0,0,0,,I was worried about you!
+Dialogue: 0,0:16:01.71,0:16:04.80,Default,,0,0,0,,Sanji-{\i1}kun{\i0}, I was scared!
+Dialogue: 0,0:16:04.80,0:16:07.09,Default,,0,0,0,,Usopp died, and...
+Dialogue: 0,0:16:07.09,0:16:09.76,Default,,0,0,0,,You must've been so frightened.
+Dialogue: 0,0:16:09.76,0:16:12.81,Default,,0,0,0,,I'm sure he was happy to die for you.
+Dialogue: 0,0:16:12.81,0:16:14.85,Default,,0,0,0,,I'm alive...
+Dialogue: 0,0:16:15.68,0:16:21.40,Default,,0,0,0,,You bastard, I'll never forget\Nhow you used me as a shield.
+Dialogue: 0,0:16:35.62,0:16:36.95,Default,,0,0,0,,W-What's that?!
+Dialogue: 0,0:16:40.00,0:16:41.63,Default,,0,0,0,,What is it this time?!
+Dialogue: 0,0:16:41.63,0:16:42.55,Default,,0,0,0,,Again?
+Dialogue: 0,0:16:42.55,0:16:43.17,Default,,0,0,0,,What?
+Dialogue: 0,0:16:43.17,0:16:46.05,Default,,0,0,0,,Looks like there's an even bigger one.
+Dialogue: 0,0:16:46.05,0:16:48.38,Default,,0,0,0,,If it's tasty, I'm game to take it out.
+Dialogue: 0,0:16:48.38,0:16:51.39,Default,,0,0,0,,We need to find the sea and the ship first.
+Dialogue: 0,0:16:51.39,0:16:53.43,Default,,0,0,0,,We don't even know if our crew is okay.
+Dialogue: 0,0:16:53.93,0:16:55.93,Default,,0,0,0,,Speaking of food,
+Dialogue: 0,0:16:55.93,0:16:58.77,Default,,0,0,0,,the beehive and the swarm of honeybees\Nyou blew away...
+Dialogue: 0,0:17:00.44,0:17:04.48,Default,,0,0,0,,Those could've been perfectly good rations\Nand were packed with nutrition.
+Dialogue: 0,0:17:04.48,0:17:08.03,Default,,0,0,0,,Oh, were they? What a waste.
+Dialogue: 0,0:17:08.03,0:17:08.86,Default,,0,0,0,,Right?
+Dialogue: 0,0:17:08.86,0:17:10.03,Default,,0,0,0,,Speak up sooner.
+Dialogue: 0,0:17:10.03,0:17:11.32,Default,,0,0,0,,Huh?!
+Dialogue: 0,0:17:11.32,0:17:13.57,Default,,0,0,0,,How are you all so comfortable here?!
+Dialogue: 0,0:17:13.57,0:17:15.24,Default,,0,0,0,,What is this place?!
+Dialogue: 0,0:17:17.79,0:17:21.00,Default,,0,0,0,,Hey, how did you guys get here?
+Dialogue: 0,0:17:21.00,0:17:26.46,Default,,0,0,0,,I woke up at the back of that town,\Nwalked toward a commotion,
+Dialogue: 0,0:17:26.46,0:17:28.93,Default,,0,0,0,,and found him taking out a giant rabbit.
+Dialogue: 0,0:17:28.93,0:17:32.55,Default,,0,0,0,,You could've taken down\Nthat measly Cat-Lion, Usopp.
+Dialogue: 0,0:17:32.55,0:17:35.93,Default,,0,0,0,,Before I knew it, I was\Nin that cat monster's mouth! I panicked.
+Dialogue: 0,0:17:41.19,0:17:41.94,Default,,0,0,0,,What?
+Dialogue: 0,0:17:48.94,0:17:50.90,Default,,0,0,0,,Gum-Gum...
+Dialogue: 0,0:17:52.41,0:17:54.16,Default,,0,0,0,,...Balloon!
+Dialogue: 0,0:18:05.00,0:18:07.46,Default,,0,0,0,,Ow, ow, ow, ow...
+Dialogue: 0,0:18:07.46,0:18:08.92,Default,,0,0,0,,That was close.
+Dialogue: 0,0:18:08.92,0:18:13.88,Default,,0,0,0,,Between those strangely oversized monsters\Nand the fake-looking castle...
+Dialogue: 0,0:18:13.88,0:18:16.72,Default,,0,0,0,,if this world isn't a hallucination...
+Dialogue: 0,0:18:16.72,0:18:19.18,Default,,0,0,0,,Is this a dream?
+Dialogue: 0,0:18:19.52,0:18:20.43,Default,,0,0,0,,No.
+Dialogue: 0,0:18:21.27,0:18:23.19,Default,,0,0,0,,If this were a dream...
+Dialogue: 0,0:18:24.56,0:18:26.82,Default,,0,0,0,,there's no way men would show up.
+Dialogue: 0,0:18:26.82,0:18:29.15,Default,,0,0,0,,What kind of dreams do you usually have?
+Dialogue: 0,0:18:30.07,0:18:31.78,Default,,0,0,0,,All right, Nami-{\i1}san{\i0}...
+Dialogue: 0,0:18:33.90,0:18:35.49,Default,,0,0,0,,Let's jump!
+Dialogue: 0,0:18:36.82,0:18:37.70,Default,,0,0,0,,What?
+Dialogue: 0,0:19:10.23,0:19:11.65,Default,,0,0,0,,This is strange.
+Dialogue: 0,0:19:12.19,0:19:14.24,Default,,0,0,0,,There is no wind at all.
+Dialogue: 0,0:19:21.33,0:19:23.12,Default,,0,0,0,,I see, I see...
+Dialogue: 0,0:19:23.12,0:19:23.87,Default,,0,0,0,,What?
+Dialogue: 0,0:19:25.37,0:19:27.63,Default,,0,0,0,,Is this a tree?
+Dialogue: 0,0:19:27.63,0:19:29.54,Default,,0,0,0,,Here's what I think.
+Dialogue: 0,0:19:30.13,0:19:32.05,Default,,0,0,0,,From what I can tell,
+Dialogue: 0,0:19:32.05,0:19:35.88,Default,,0,0,0,,we've been dressed\Nin Elbaph warrior garb.
+Dialogue: 0,0:19:36.26,0:19:40.35,Default,,0,0,0,,But in the country of the Giants,\Nthere's no way they'd have...
+Dialogue: 0,0:19:40.35,0:19:42.60,Default,,0,0,0,,...clothes in our size.
+Dialogue: 0,0:19:42.60,0:19:47.27,Default,,0,0,0,,Wait, are you suggesting that we're in Elbaph\Nand we've grown huge?
+Dialogue: 0,0:19:47.27,0:19:49.23,Default,,0,0,0,,I'm a Giant now?
+Dialogue: 0,0:19:49.23,0:19:51.11,Default,,0,0,0,,No way.
+Dialogue: 0,0:19:51.11,0:19:54.70,Default,,0,0,0,,Even if some of our crew are here,\Nit seems they aren't all here.
+Dialogue: 0,0:19:54.70,0:19:55.99,Default,,0,0,0,,How do you know?
+Dialogue: 0,0:19:57.99,0:20:00.53,Default,,0,0,0,,My "Me-Radar" doesn't detect Robin-{\i1}chan{\i0}.
+Dialogue: 0,0:20:00.53,0:20:01.41,Default,,0,0,0,,Are you a dog?
+Dialogue: 0,0:20:01.78,0:20:03.08,Default,,0,0,0,,Oh yeah!
+Dialogue: 0,0:20:03.08,0:20:06.41,Default,,0,0,0,,If we head for the sea,\Nwe might be able to find the Sunny.
+Dialogue: 0,0:20:06.41,0:20:07.96,Default,,0,0,0,,Then they'll all be...
+Dialogue: 0,0:20:07.96,0:20:10.46,Default,,0,0,0,,Look how vast this area is.
+Dialogue: 0,0:20:10.46,0:20:12.80,Default,,0,0,0,,There's no way we can get to the sea.
+Dialogue: 0,0:20:12.80,0:20:14.00,Default,,0,0,0,,It is vast.
+Dialogue: 0,0:20:14.38,0:20:16.72,Default,,0,0,0,,There seemed to be people in that town.
+Dialogue: 0,0:20:16.72,0:20:21.18,Default,,0,0,0,,We're not getting anywhere\Nuntil we ask someone where we are.
+Dialogue: 0,0:20:21.18,0:20:22.97,Default,,0,0,0,,Then let's go to the town!
+Dialogue: 0,0:20:23.35,0:20:27.10,Default,,0,0,0,,If we're gonna ask someone,\Nlet's find a charming lady.
+Dialogue: 0,0:20:27.10,0:20:28.73,Default,,0,0,0,,Be serious!
+Dialogue: 0,0:20:28.73,0:20:30.48,Default,,0,0,0,,And the town's not that way, Zoro!
+Dialogue: 0,0:20:30.48,0:20:31.69,Default,,0,0,0,,Oh yeah?
+Dialogue: 0,0:20:33.98,0:20:36.28,Default,,0,0,0,,How can you be having so much fun?
+Dialogue: 0,0:20:36.28,0:20:39.99,Default,,0,0,0,,Do you even realize\Nhow creepy this place is?
+Dialogue: 0,0:20:39.99,0:20:44.58,Default,,0,0,0,,Nami-{\i1}san{\i0}, cheer up! I'm with you!
+Dialogue: 0,0:20:44.58,0:20:46.79,Default,,0,0,0,,Even if this isn't Elbaph,
+Dialogue: 0,0:20:46.79,0:20:51.13,Default,,0,0,0,,my heart is always\Nfull of big love for you!
+Dialogue: 0,0:20:52.46,0:20:57.43,Default,,0,0,0,,If this were Elbaph, I thought I'd at least\Nget to see a giant gold bar.
+Dialogue: 0,0:20:57.43,0:20:59.22,Default,,0,0,0,,You mean "steal," right?
+Dialogue: 0,0:20:59.68,0:21:02.68,Default,,0,0,0,,All right! Let's go to the town and ask!
+Dialogue: 0,0:21:03.30,0:21:05.01,Default,,0,0,0,,Yeah! Let's go!
+Dialogue: 0,0:21:05.72,0:21:07.69,Default,,0,0,0,,Let's have an adventure!
+Dialogue: 0,0:21:07.69,0:21:10.10,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:21:12.56,0:21:16.94,Default,,0,0,0,,{\i1}Elbaph-baph! Elbaph!{\i0}
+Dialogue: 0,0:21:16.94,0:21:20.95,Default,,0,0,0,,{\i1}Elbaph-baph! Elbaph!{\i0}
+Dialogue: 0,0:21:20.95,0:21:24.53,Default,,0,0,0,,{\i1}Everyone's huge 'cause they're Giants!{\i0}
+Dialogue: 0,0:21:34.13,0:21:37.84,Default,,0,0,0,,{\i1}Here I am straining both my eyes{\i0}
+Dialogue: 0,0:21:39.55,0:21:43.34,Default,,0,0,0,,{\i1}And checking where I am standing right now{\i0}
+Dialogue: 0,0:21:44.76,0:21:49.35,Default,,0,0,0,,{\i1}With my brain consumed\NBy all the delusion and despair{\i0}
+Dialogue: 0,0:21:49.35,0:21:52.65,Default,,0,0,0,,{\i1}I'm always bound to be a little off somehow{\i0}
+Dialogue: 0,0:21:53.23,0:21:57.07,Default,,0,0,0,,{\i1}The things that come up vividly{\i0}
+Dialogue: 0,0:21:58.40,0:22:02.11,Default,,0,0,0,,{\i1}Are always the cruel memories{\i0}
+Dialogue: 0,0:22:03.78,0:22:08.24,Default,,0,0,0,,{\i1}I gather up the scraps\NOf the simple boredom of my life{\i0}
+Dialogue: 0,0:22:08.24,0:22:11.83,Default,,0,0,0,,{\i1}I might turn into somebody else but me{\i0}
+Dialogue: 0,0:22:13.37,0:22:16.50,Default,,0,0,0,,{\i1}I wonder which future\NWould fit someone like me now{\i0}
+Dialogue: 0,0:22:16.50,0:22:20.42,Default,,0,0,0,,{\i1}From here on\NNo matter how hard I try to strain my eyes{\i0}
+Dialogue: 0,0:22:20.42,0:22:22.88,Default,,0,0,0,,{\i1}I'll still see nothing anyhow{\i0}
+Dialogue: 0,0:22:22.88,0:22:26.35,Default,,0,0,0,,{\i1}I'm riding the headwind{\i0}
+Dialogue: 0,0:22:26.35,0:22:29.22,Default,,0,0,0,,{\i1}I pour it into the tear of destiny{\i0}
+Dialogue: 0,0:22:29.22,0:22:33.69,Default,,0,0,0,,{\i1}As I split all the false fantasies apart{\i0}
+Dialogue: 0,0:22:33.69,0:22:37.23,Default,,0,0,0,,{\i1}And everyone's{\i0}
+Dialogue: 0,0:22:37.23,0:22:41.78,Default,,0,0,0,,{\i1}Piling up their own life-or-death reality\NAll the time just like that{\i0}
+Dialogue: 0,0:22:41.78,0:22:44.36,Default,,0,0,0,,{\i1}Then tomorrow comes way too loud{\i0}
+Dialogue: 0,0:22:44.36,0:22:48.91,Default,,0,0,0,,{\i1}Leaving no time even just to pray{\i0}
+Dialogue: 0,0:22:48.91,0:22:53.75,Default,,0,0,0,,{\i1}And that future we see{\i0}
+Dialogue: 0,0:22:53.75,0:22:57.92,Default,,0,0,0,,{\i1}It all belongs to me{\i0}
+Dialogue: 0,0:23:05.68,0:23:08.51,Default,,0,0,0,,{\i1}Luffy and the others\Nadventure into the mysterious land.{\i0}
+Dialogue: 0,0:23:08.51,0:23:12.93,Default,,0,0,0,,{\i1}Beyond the landscape of toy blocks,\Nthey discover the Sun God's temple.{\i0}
+Dialogue: 0,0:23:12.93,0:23:15.27,Default,,0,0,0,,{\i1}Could this really be Elbaph?{\i0}
+Dialogue: 0,0:23:15.90,0:23:21.19,Default,,0,0,0,,{\i1}As they aim to escape Block Kingdom,\Nominous footsteps draw near.{\i0}
+Dialogue: 0,0:23:21.19,0:23:22.90,Default,,0,0,0,,On the next episode of ONE PIECE!
+Dialogue: 0,0:23:22.90,0:23:26.24,Default,,0,0,0,,"A Quest in the Land of Mystery!\NThe Secret of the Sun God"
+Dialogue: 0,0:23:26.24,0:23:30.66,Default,,0,0,0,,I'm gonna be King of the Pirates!
+
