@@ -1,0 +1,231 @@
+[Script Info]
+Title:
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+ScriptType: V4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Font1,Arial,20,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0.00,0,1,2,0,2,64,64,36,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.04,0:00:09.71,Font1,,0000,0000,0000,,Odwróciłem je wszystkie.\n
+Dialogue: 0,0:00:10.51,0:00:13.59,Font1,,0000,0000,0000,,Każde zaklęcie,\nktóre ten artefakt pozwala ci rzucić.\n
+Dialogue: 0,0:00:15.84,0:00:17.51,Font1,,0000,0000,0000,,Przegrałeś.\n
+Dialogue: 0,0:00:48.42,0:00:49.92,Font1,,0000,0000,0000,,Mamy spory problem.\n
+Dialogue: 0,0:02:22.51,0:02:26.47,Font1,,0000,0000,0000,,{\an8}{\1c&H00E6F0E0&}ODCINEK 19: PRZEBUDZENIE\n
+Dialogue: 0,0:02:39.82,0:02:41.20,Font1,,0000,0000,0000,,{\1c&H00E6F0E0&}Zero Absolutne.\n
+Dialogue: 0,0:03:15.44,0:03:17.15,Font1,,0000,0000,0000,,W porządku?\n
+Dialogue: 0,0:03:18.03,0:03:20.07,Font1,,0000,0000,0000,,Desir miał rację.\n
+Dialogue: 0,0:03:20.15,0:03:21.15,Font1,,0000,0000,0000,,W czym?\n
+Dialogue: 0,0:03:22.24,0:03:25.45,Font1,,0000,0000,0000,,Tradycyjna magia nie zadaje mu\nżadnych obrażeń.\n
+Dialogue: 0,0:03:26.24,0:03:28.54,Font1,,0000,0000,0000,,Muszę użyć silniejszego zaklęcia.\n
+Dialogue: 0,0:03:28.62,0:03:30.66,Font1,,0000,0000,0000,,Odsuń się, Priscillo.\n
+Dialogue: 0,0:03:30.75,0:03:31.75,Font1,,0000,0000,0000,,Dobrze.\n
+Dialogue: 0,0:03:52.02,0:03:53.73,Font1,,0000,0000,0000,,Boskie Włócznie!\n
+Dialogue: 0,0:04:19.88,0:04:23.05,Font1,,0000,0000,0000,,Zaklęcie godne\nnajpotężniejszego maga świata.\n
+Dialogue: 0,0:04:23.13,0:04:24.18,Font1,,0000,0000,0000,,Wiadomo.\n
+Dialogue: 0,0:04:26.64,0:04:30.72,Font1,,0000,0000,0000,,{\i1}Skąd Desir wiedział o tym diable?\n
+Dialogue: 0,0:04:35.52,0:04:36.52,Font1,,0000,0000,0000,,Desir!\n
+Dialogue: 0,0:04:36.60,0:04:38.40,Font1,,0000,0000,0000,,{\i1}Mistrzowi Wieży się powiodło!\n
+Dialogue: 0,0:04:39.61,0:04:41.07,Font1,,0000,0000,0000,,Dadeinuf został pokonany.\n
+Dialogue: 0,0:04:42.99,0:04:44.90,Font1,,0000,0000,0000,,Twoja rewolucja kończy się teraz!\n
+Dialogue: 0,0:04:45.95,0:04:48.78,Font1,,0000,0000,0000,,Rewolucja? Czy to znaczy…?\n
+Dialogue: 0,0:04:49.45,0:04:53.08,Font1,,0000,0000,0000,,Dwanaście lat temu w Imperium Hebrion\nrozpętała się wojna domowa.\n
+Dialogue: 0,0:04:53.58,0:04:58.38,Font1,,0000,0000,0000,,Jeden z uczniów chciał wyrwać mieszkańców\nz sideł opresji arystokracji.\n
+Dialogue: 0,0:04:59.38,0:05:02.51,Font1,,0000,0000,0000,,Ale walkę wygrała arystokracja,\n
+Dialogue: 0,0:05:02.59,0:05:06.30,Font1,,0000,0000,0000,,a dyskryminacja społeczna\ntylko przybrała na sile.\n
+Dialogue: 0,0:05:07.26,0:05:10.06,Font1,,0000,0000,0000,,Batour i reszta\nteż byli wściekli na możnych.\n
+Dialogue: 0,0:05:10.81,0:05:14.06,Font1,,0000,0000,0000,,{\an8}Pewnie też brałeś udział w tej rewolucji.\n
+Dialogue: 0,0:05:16.90,0:05:19.86,Font1,,0000,0000,0000,,Ten świat jest bezsensowny\ni niesprawiedliwy.\n
+Dialogue: 0,0:05:20.94,0:05:24.99,Font1,,0000,0000,0000,,Kręci się wokół arystokratów.\nTylko oni mają moc.\n
+Dialogue: 0,0:05:25.07,0:05:27.61,Font1,,0000,0000,0000,,Narzucają nam swoją niemoralną ideologię.\n
+Dialogue: 0,0:05:29.20,0:05:31.62,Font1,,0000,0000,0000,,Nie tylko w Imperium Hebrion.\n
+Dialogue: 0,0:05:32.08,0:05:34.62,Font1,,0000,0000,0000,,Na całym świecie dzieje się to samo.\n
+Dialogue: 0,0:05:34.70,0:05:38.33,Font1,,0000,0000,0000,,Głupia szlachta przymusza ludzi\ndo życia według irracjonalnych zasad.\n
+Dialogue: 0,0:05:43.84,0:05:47.05,Font1,,0000,0000,0000,,Ten świat jest zepsuty do cna.\n
+Dialogue: 0,0:05:48.09,0:05:50.97,Font1,,0000,0000,0000,,Nawet ty temu nie zaprzeczysz.\n
+Dialogue: 0,0:05:51.05,0:05:53.14,Font1,,0000,0000,0000,,- Racja.\n- Desir!\n
+Dialogue: 0,0:05:53.93,0:05:56.64,Font1,,0000,0000,0000,,Dyskryminacja w Akademii nadal ma miejsce.\n
+Dialogue: 0,0:05:57.31,0:05:59.52,Font1,,0000,0000,0000,,Tylko ze względu na pochodzenie\n
+Dialogue: 0,0:05:59.60,0:06:02.02,Font1,,0000,0000,0000,,utalentowanym uczniom\nodbiera się przyszłość.\n
+Dialogue: 0,0:06:02.98,0:06:04.90,Font1,,0000,0000,0000,,Ale przyjrzyj się!\n
+Dialogue: 0,0:06:05.44,0:06:10.66,Font1,,0000,0000,0000,,Skrzywdziłeś dokładnie tych samych ludzi,\nktórych zamierzałeś chronić!\n
+Dialogue: 0,0:06:10.74,0:06:15.16,Font1,,0000,0000,0000,,Ci, którzy nie sprzeciwiają się sytuacji,\nsą jej tak samo winni!\n
+Dialogue: 0,0:06:15.25,0:06:20.42,Font1,,0000,0000,0000,,Zniszczę wszystko na tym świecie,\nby zaprowadzić prawdziwą równość!\n
+Dialogue: 0,0:06:20.92,0:06:22.21,Font1,,0000,0000,0000,,Ten człowiek…\n
+Dialogue: 0,0:06:24.59,0:06:26.30,Font1,,0000,0000,0000,,Powstrzymam cię.\n
+Dialogue: 0,0:06:29.26,0:06:32.01,Font1,,0000,0000,0000,,Mówiłeś, że Dadeinuf został pokonany?\n
+Dialogue: 0,0:06:33.56,0:06:35.56,Font1,,0000,0000,0000,,Ty naiwniaku.\n
+Dialogue: 0,0:06:35.64,0:06:36.64,Font1,,0000,0000,0000,,Co?\n
+Dialogue: 0,0:06:37.14,0:06:39.69,Font1,,0000,0000,0000,,Jest ucieleśnieniem zagłady.\n
+Dialogue: 0,0:06:39.77,0:06:42.65,Font1,,0000,0000,0000,,Żaden człowiek nie ma z nim szans.\n
+Dialogue: 0,0:06:46.28,0:06:47.32,Font1,,0000,0000,0000,,Nie!\n
+Dialogue: 0,0:07:00.83,0:07:03.00,Font1,,0000,0000,0000,,- Co?\n- Czy to…?\n
+Dialogue: 0,0:07:24.65,0:07:25.98,Font1,,0000,0000,0000,,Poddajcie się!\n
+Dialogue: 0,0:07:26.82,0:07:28.74,Font1,,0000,0000,0000,,Przegraliście.\n
+Dialogue: 0,0:07:28.82,0:07:30.49,Font1,,0000,0000,0000,,Nie tak szybko!\n
+Dialogue: 0,0:07:34.62,0:07:37.12,Font1,,0000,0000,0000,,- Uciekł nam.\n- Przepraszam, Desir.\n
+Dialogue: 0,0:07:39.70,0:07:40.96,Font1,,0000,0000,0000,,Desir?\n
+Dialogue: 0,0:07:41.46,0:07:43.96,Font1,,0000,0000,0000,,{\i1}Zaraz do was dołączę.\n
+Dialogue: 0,0:07:44.42,0:07:47.25,Font1,,0000,0000,0000,,Sama nic tutaj nie zdziałam.\n
+Dialogue: 0,0:07:49.21,0:07:51.26,Font1,,0000,0000,0000,,Desir? Słyszysz mnie?\n
+Dialogue: 0,0:07:51.34,0:07:52.80,Font1,,0000,0000,0000,,{\i1}Desir!\n
+Dialogue: 0,0:07:53.43,0:07:55.14,Font1,,0000,0000,0000,,Tak, wybacz.\n
+Dialogue: 0,0:07:55.22,0:07:56.89,Font1,,0000,0000,0000,,{\i1}Wszystko dobrze?\n
+Dialogue: 0,0:07:57.35,0:07:58.47,Font1,,0000,0000,0000,,Tak.\n
+Dialogue: 0,0:07:58.56,0:08:01.39,Font1,,0000,0000,0000,,Idziemy do ciebie. Nie ruszaj się stamtąd.\n
+Dialogue: 0,0:08:02.35,0:08:03.56,Font1,,0000,0000,0000,,Zrozumiałam.\n
+Dialogue: 0,0:08:09.44,0:08:11.11,Font1,,0000,0000,0000,,{\i1}Czy przyszłość się zmieniła?\n
+Dialogue: 0,0:08:12.53,0:08:15.41,Font1,,0000,0000,0000,,{\i1}Walczyliśmy z Dadeinufem w Świecie Cieni\n
+Dialogue: 0,0:08:15.49,0:08:17.24,Font1,,0000,0000,0000,,{\i1}w dużo późniejszej przyszłości.\n
+Dialogue: 0,0:08:17.78,0:08:20.20,Font1,,0000,0000,0000,,{\i1}To legendarny Niszczycielski Diabeł.\n
+Dialogue: 0,0:08:20.29,0:08:23.21,Font1,,0000,0000,0000,,{\i1}Katastrofa to jego moc.\n
+Dialogue: 0,0:08:24.08,0:08:26.63,Font1,,0000,0000,0000,,{\i1}Zjednoczyliśmy się i go pokonaliśmy.\n
+Dialogue: 0,0:08:27.54,0:08:30.21,Font1,,0000,0000,0000,,{\i1}Ale zapłaciliśmy za to…\n
+Dialogue: 0,0:08:31.63,0:08:33.47,Font1,,0000,0000,0000,,{\i1}zbyt wysoką cenę.\n
+Dialogue: 0,0:08:39.06,0:08:40.72,Font1,,0000,0000,0000,,Niewiarygodny poziom many.\n
+Dialogue: 0,0:08:40.81,0:08:43.02,Font1,,0000,0000,0000,,Jest silniejszy niż wcześniej.\n
+Dialogue: 0,0:08:43.10,0:08:45.40,Font1,,0000,0000,0000,,Jak mamy go pokonać?\n
+Dialogue: 0,0:08:46.02,0:08:49.65,Font1,,0000,0000,0000,,{\i1}Romantica. Aaron. I Dadeinuf.\n
+Dialogue: 0,0:08:50.28,0:08:51.44,Font1,,0000,0000,0000,,{\i1}Dlaczego?\n
+Dialogue: 0,0:08:51.53,0:08:54.86,Font1,,0000,0000,0000,,{\i1}Dlaczego pojawił się tutaj,\na nie w Świecie Cieni?\n
+Dialogue: 0,0:08:56.11,0:08:58.32,Font1,,0000,0000,0000,,{\i1}Czy to z powodu mojej podróży w czasie?\n
+Dialogue: 0,0:09:01.62,0:09:04.87,Font1,,0000,0000,0000,,{\i1}Czy to znak,\nże nie da się uniknąć przeznaczenia?\n
+Dialogue: 0,0:09:06.08,0:09:07.42,Font1,,0000,0000,0000,,Desir?\n
+Dialogue: 0,0:09:12.63,0:09:14.09,Font1,,0000,0000,0000,,Niech cię szlag…\n
+Dialogue: 0,0:09:14.17,0:09:15.18,Font1,,0000,0000,0000,,Co?\n
+Dialogue: 0,0:09:18.09,0:09:20.64,Font1,,0000,0000,0000,,Dadeinufem zajmie się Mistrz Wieży.\n
+Dialogue: 0,0:09:20.72,0:09:22.56,Font1,,0000,0000,0000,,My tylko byśmy go spowolnili.\n
+Dialogue: 0,0:09:22.93,0:09:24.85,Font1,,0000,0000,0000,,Pomóżmy w ewakuacji.\n
+Dialogue: 0,0:09:24.93,0:09:26.85,Font1,,0000,0000,0000,,Trzeba ocalić, kogo się da.\n
+Dialogue: 0,0:09:26.94,0:09:28.36,Font1,,0000,0000,0000,,- Tak!\n- Dobrze.\n
+Dialogue: 0,0:09:28.44,0:09:29.61,Font1,,0000,0000,0000,,Zgoda.\n
+Dialogue: 0,0:09:45.58,0:09:46.75,Font1,,0000,0000,0000,,Udało się.\n
+Dialogue: 0,0:09:46.83,0:09:49.00,Font1,,0000,0000,0000,,Ale całe miasto płonie.\n
+Dialogue: 0,0:09:49.67,0:09:52.05,Font1,,0000,0000,0000,,Mamusiu, popatrz!\n
+Dialogue: 0,0:09:52.13,0:09:53.21,Font1,,0000,0000,0000,,Co się stało?\n
+Dialogue: 0,0:09:53.59,0:09:55.17,Font1,,0000,0000,0000,,Jakie wielkie fajerwerki!\n
+Dialogue: 0,0:10:04.93,0:10:06.10,Font1,,0000,0000,0000,,Lodowa Korona!\n
+Dialogue: 0,0:10:16.49,0:10:18.15,Font1,,0000,0000,0000,,Jesteście bezpieczni.\n
+Dialogue: 0,0:10:30.25,0:10:33.04,Font1,,0000,0000,0000,,Oni dwoje zajmą się tym,\nco dzieje się nad ziemią.\n
+Dialogue: 0,0:10:33.13,0:10:34.84,Font1,,0000,0000,0000,,Skup się, Romantico.\n
+Dialogue: 0,0:10:34.92,0:10:36.17,Font1,,0000,0000,0000,,Jasne.\n
+Dialogue: 0,0:10:36.63,0:10:38.84,Font1,,0000,0000,0000,,Na drugiej, 850 metrów stąd.\n
+Dialogue: 0,0:10:38.93,0:10:39.93,Font1,,0000,0000,0000,,Przyjęłam.\n
+Dialogue: 0,0:10:43.76,0:10:46.81,Font1,,0000,0000,0000,,Następny. Na jedenastej, 1200 metrów.\n
+Dialogue: 0,0:10:59.15,0:11:00.61,Font1,,0000,0000,0000,,To nie wystarczy?\n
+Dialogue: 0,0:11:01.24,0:11:02.07,Font1,,0000,0000,0000,,Zatem…\n
+Dialogue: 0,0:11:03.49,0:11:04.83,Font1,,0000,0000,0000,,Wir!\n
+Dialogue: 0,0:11:13.38,0:11:14.46,Font1,,0000,0000,0000,,Jeszcze raz.\n
+Dialogue: 0,0:11:14.92,0:11:16.84,Font1,,0000,0000,0000,,Obsydianowa Szabla!\n
+Dialogue: 0,0:11:25.76,0:11:26.97,Font1,,0000,0000,0000,,Przepraszam.\n
+Dialogue: 0,0:11:27.06,0:11:28.14,Font1,,0000,0000,0000,,Uleczenie.\n
+Dialogue: 0,0:11:35.90,0:11:38.23,Font1,,0000,0000,0000,,Dziękuję. Odsuń się.\n
+Dialogue: 0,0:11:39.03,0:11:40.86,Font1,,0000,0000,0000,,Co? Nie mów, że…\n
+Dialogue: 0,0:11:41.82,0:11:43.24,Font1,,0000,0000,0000,,To nie koniec.\n
+Dialogue: 0,0:12:02.34,0:12:03.97,Font1,,0000,0000,0000,,To niemożliwe.\n
+Dialogue: 0,0:12:04.72,0:12:08.01,Font1,,0000,0000,0000,,{\an8}Nie bez powodu nazywają go diabłem.\n
+Dialogue: 0,0:12:14.10,0:12:16.90,Font1,,0000,0000,0000,,Romantico, statki wypłynęły\nze strefy zagrożenia.\n
+Dialogue: 0,0:12:16.98,0:12:18.36,Font1,,0000,0000,0000,,Już dobrze.\n
+Dialogue: 0,0:12:18.44,0:12:20.24,Font1,,0000,0000,0000,,Całe szczęście.\n
+Dialogue: 0,0:12:23.91,0:12:27.49,Font1,,0000,0000,0000,,- Jestem pod wrażeniem.\n- Mówiłam, że mnie to wkurza!\n
+Dialogue: 0,0:12:27.87,0:12:30.20,Font1,,0000,0000,0000,,{\an8}Ale tym razem to zniosę.\n
+Dialogue: 0,0:12:34.58,0:12:36.25,Font1,,0000,0000,0000,,My też powinniśmy się ewakuować.\n
+Dialogue: 0,0:12:46.09,0:12:47.18,Font1,,0000,0000,0000,,Romantico.\n
+Dialogue: 0,0:12:47.97,0:12:49.22,Font1,,0000,0000,0000,,Wiem.\n
+Dialogue: 0,0:12:55.85,0:12:57.86,Font1,,0000,0000,0000,,Desir, jesteśmy na dworcu.\n
+Dialogue: 0,0:12:57.94,0:12:59.23,Font1,,0000,0000,0000,,A wy?\n
+Dialogue: 0,0:13:00.57,0:13:01.82,Font1,,0000,0000,0000,,Prawie na miejscu.\n
+Dialogue: 0,0:13:01.90,0:13:03.82,Font1,,0000,0000,0000,,- Wsiadajcie już do…\n{\i1}- Zaczekamy!\n
+Dialogue: 0,0:13:05.82,0:13:06.91,Font1,,0000,0000,0000,,Dobrze.\n
+Dialogue: 0,0:13:10.16,0:13:11.87,Font1,,0000,0000,0000,,Wszystko w porządku?\n
+Dialogue: 0,0:13:12.95,0:13:15.08,Font1,,0000,0000,0000,,Tak…\n
+Dialogue: 0,0:13:15.96,0:13:17.50,Font1,,0000,0000,0000,,Jakoś ci nie wierzę.\n
+Dialogue: 0,0:13:19.67,0:13:22.76,Font1,,0000,0000,0000,,Po prostu zużyłam trochę za dużo many.\n
+Dialogue: 0,0:13:29.26,0:13:31.22,Font1,,0000,0000,0000,,Już dobrze. Ruszajmy.\n
+Dialogue: 0,0:13:31.31,0:13:32.31,Font1,,0000,0000,0000,,Jasne.\n
+Dialogue: 0,0:13:33.73,0:13:36.35,Font1,,0000,0000,0000,,- Kto to?\n- Outersi, którzy przetrwali.\n
+Dialogue: 0,0:13:36.44,0:13:37.52,Font1,,0000,0000,0000,,Gdzie?\n
+Dialogue: 0,0:13:38.06,0:13:39.61,Font1,,0000,0000,0000,,Nie mogę ich tu zostawić.\n
+Dialogue: 0,0:13:40.07,0:13:41.65,Font1,,0000,0000,0000,,Ty idź na dworzec.\n
+Dialogue: 0,0:13:41.73,0:13:43.36,Font1,,0000,0000,0000,,Nie ma mowy!\n
+Dialogue: 0,0:13:43.44,0:13:45.20,Font1,,0000,0000,0000,,Przecież brakuje ci many.\n
+Dialogue: 0,0:13:45.28,0:13:46.86,Font1,,0000,0000,0000,,Nie możesz już walczyć.\n
+Dialogue: 0,0:13:46.95,0:13:49.62,Font1,,0000,0000,0000,,Masz rację, ale…\n
+Dialogue: 0,0:13:52.12,0:13:54.37,Font1,,0000,0000,0000,,Nie nadwyrężaj się, jasne?\n
+Dialogue: 0,0:13:54.79,0:13:56.33,Font1,,0000,0000,0000,,Oczywiście.\n
+Dialogue: 0,0:13:57.21,0:14:01.29,Font1,,0000,0000,0000,,Znowu ten twój wkurzający uśmiech.\n
+Dialogue: 0,0:14:09.26,0:14:11.47,Font1,,0000,0000,0000,,{\i1}Wybacz, Romantico.\n
+Dialogue: 0,0:14:19.35,0:14:22.82,Font1,,0000,0000,0000,,{\i1}Dawne dzieje nie mogą się powtórzyć.\nNiezależnie od wszystkiego.\n
+Dialogue: 0,0:14:29.41,0:14:30.53,Font1,,0000,0000,0000,,Aaron.\n
+Dialogue: 0,0:14:31.66,0:14:32.83,Font1,,0000,0000,0000,,Kim jesteś?\n
+Dialogue: 0,0:14:33.28,0:14:35.25,Font1,,0000,0000,0000,,Chyba ci się nie przedstawiałem.\n
+Dialogue: 0,0:14:36.12,0:14:40.25,Font1,,0000,0000,0000,,Wybacz, sir Aaronie, kapitanie\nstraży rycerskiej królestwa Divide.\n
+Dialogue: 0,0:14:41.21,0:14:45.51,Font1,,0000,0000,0000,,To ty pomogłeś Jego Wysokości\newakuować się z zamku.\n
+Dialogue: 0,0:14:45.92,0:14:49.84,Font1,,0000,0000,0000,,Tak. Jestem Desir Herrman\nz Akademii Hebriońskiej.\n
+Dialogue: 0,0:14:50.34,0:14:52.30,Font1,,0000,0000,0000,,Pozwól, że podziękuję raz jeszcze.\n
+Dialogue: 0,0:14:54.10,0:14:55.27,Font1,,0000,0000,0000,,Dziękuję.\n
+Dialogue: 0,0:14:55.35,0:14:56.35,Font1,,0000,0000,0000,,Nie ma za co.\n
+Dialogue: 0,0:14:58.06,0:15:00.06,Font1,,0000,0000,0000,,{\i1}To ja powinienem ci dziękować.\n
+Dialogue: 0,0:15:01.98,0:15:05.69,Font1,,0000,0000,0000,,{\i1}Znów możemy ze sobą porozmawiać.\nTak po prostu.\n
+Dialogue: 0,0:15:10.70,0:15:13.07,Font1,,0000,0000,0000,,Statek królestwa Divide\nchyba już odpłynął.\n
+Dialogue: 0,0:15:13.45,0:15:15.70,Font1,,0000,0000,0000,,Co tu jeszcze robicie?\n
+Dialogue: 0,0:15:15.79,0:15:19.50,Font1,,0000,0000,0000,,To nie moje państwo,\nale nie mogłem bezczynnie patrzeć.\n
+Dialogue: 0,0:15:19.58,0:15:22.42,Font1,,0000,0000,0000,,Szukam tych,\nktórym nie udało się wydostać na czas.\n
+Dialogue: 0,0:15:22.50,0:15:25.21,Font1,,0000,0000,0000,,Król oczywiście mnie zbeształ.\n
+Dialogue: 0,0:15:26.21,0:15:27.55,Font1,,0000,0000,0000,,{\i1}Nie zmienił się.\n
+Dialogue: 0,0:15:29.42,0:15:30.97,Font1,,0000,0000,0000,,Musicie uciekać.\n
+Dialogue: 0,0:15:31.05,0:15:32.05,Font1,,0000,0000,0000,,Co?\n
+Dialogue: 0,0:15:32.68,0:15:35.85,Font1,,0000,0000,0000,,Moc diabła wkrótce dotrze też tutaj.\n
+Dialogue: 0,0:15:36.64,0:15:39.23,Font1,,0000,0000,0000,,Jeszcze nie pokazał jej w pełnej krasie.\n
+Dialogue: 0,0:15:40.52,0:15:41.64,Font1,,0000,0000,0000,,Czy ty…?\n
+Dialogue: 0,0:15:42.06,0:15:44.23,Font1,,0000,0000,0000,,Nie chcę, żeby ktoś zginął.\n
+Dialogue: 0,0:15:48.03,0:15:49.24,Font1,,0000,0000,0000,,Rozumiem.\n
+Dialogue: 0,0:15:49.32,0:15:51.95,Font1,,0000,0000,0000,,Bardzo dziękuję. ♪I przepraszam.\n
+Dialogue: 0,0:16:33.28,0:16:34.41,Font1,,0000,0000,0000,,Zod.\n
+Dialogue: 0,0:16:34.49,0:16:37.08,Font1,,0000,0000,0000,,Nie martw się. Wykończę go.\n
+Dialogue: 0,0:16:40.00,0:16:41.58,Font1,,0000,0000,0000,,Zero Absolutne!\n
+Dialogue: 0,0:16:47.21,0:16:48.71,Font1,,0000,0000,0000,,Ryk Magmy!\n
+Dialogue: 0,0:17:23.50,0:17:24.96,Font1,,0000,0000,0000,,Nareszcie po nim.\n
+Dialogue: 0,0:17:25.04,0:17:27.08,Font1,,0000,0000,0000,,Świetna robota, Zod.\n
+Dialogue: 0,0:17:27.17,0:17:28.29,Font1,,0000,0000,0000,,To nie koniec.\n
+Dialogue: 0,0:17:31.21,0:17:32.88,Font1,,0000,0000,0000,,Co masz na myśli?\n
+Dialogue: 0,0:17:32.96,0:17:36.22,Font1,,0000,0000,0000,,Dadeinuf jeszcze nie pokazał\nswojej prawdziwej formy.\n
+Dialogue: 0,0:17:42.77,0:17:46.52,Font1,,0000,0000,0000,,Podobno zniszczył metropolię\nw przeciągu jednej nocy.\n
+Dialogue: 0,0:17:47.48,0:17:49.06,Font1,,0000,0000,0000,,Jego natura…\n
+Dialogue: 0,0:18:25.14,0:18:30.06,Font1,,0000,0000,0000,,Oto prawdziwa forma Dadeinufa,\nNiszczycielskiego Diabła.\n
+Dialogue: 0,0:18:34.53,0:18:36.57,Font1,,0000,0000,0000,,Co teraz zrobimy?\n
+Dialogue: 0,0:18:37.28,0:18:40.24,Font1,,0000,0000,0000,,Desirze, zajmij się Priscillą\nw moim imieniu.\n
+Dialogue: 0,0:18:40.32,0:18:43.87,Font1,,0000,0000,0000,,Do utrzymania porządku tego świata\npotrzebna jest Święta.\n
+Dialogue: 0,0:18:43.95,0:18:45.83,Font1,,0000,0000,0000,,Zod, nie!\n
+Dialogue: 0,0:18:46.33,0:18:51.00,Font1,,0000,0000,0000,,Do utrzymania porządku tego świata\npotrzebny jest też Zod Exarion.\n
+Dialogue: 0,0:18:53.04,0:18:57.01,Font1,,0000,0000,0000,,Mistrzu Wieży, proszę.\nPrzekaż mi resztę swojej many.\n
+Dialogue: 0,0:18:59.22,0:19:02.05,Font1,,0000,0000,0000,,Chcesz powiedzieć,\nże potrafisz go pokonać?\n
+Dialogue: 0,0:19:02.55,0:19:03.56,Font1,,0000,0000,0000,,Tak.\n
+Dialogue: 0,0:19:10.19,0:19:12.44,Font1,,0000,0000,0000,,Zaklęcia niskiego kręgu?\n
+Dialogue: 0,0:19:13.31,0:19:15.86,Font1,,0000,0000,0000,,- Co chce nimi zdziałać?\n- Poczekaj.\n
+Dialogue: 0,0:19:16.94,0:19:20.41,Font1,,0000,0000,0000,,{\i1}Magia stopniowo się zmienia,\nby dopasować się do potrzeb czasu.\n
+Dialogue: 0,0:19:20.86,0:19:22.87,Font1,,0000,0000,0000,,{\i1}Ale jedno pozostaje niezmienne.\n
+Dialogue: 0,0:19:23.45,0:19:28.54,Font1,,0000,0000,0000,,{\i1}By móc używać magii,\ntrzeba zmodyfikować manę w powietrzu.\n
+Dialogue: 0,0:19:31.00,0:19:35.88,Font1,,0000,0000,0000,,Chcesz pokonać diabła,\nnakładając na siebie proste zaklęcia?\n
+Dialogue: 0,0:19:36.46,0:19:40.76,Font1,,0000,0000,0000,,Nie. Tego potwora\nnie da się pokonać ludzką mocą.\n
+Dialogue: 0,0:19:50.14,0:19:51.39,Font1,,0000,0000,0000,,{\i1}Właśnie.\n
+Dialogue: 0,0:19:52.10,0:19:54.52,Font1,,0000,0000,0000,,{\i1}Potrzebuję siły większej niż moc diabła.\n
+Dialogue: 0,0:20:09.75,0:20:13.83,Font1,,0000,0000,0000,,Choć ludzie już o tym nie pamiętają,\n
+Dialogue: 0,0:20:14.29,0:20:17.71,Font1,,0000,0000,0000,,magię stworzyło pradawne plemię.\n
+Dialogue: 0,0:20:18.13,0:20:19.80,Font1,,0000,0000,0000,,Co ty wyprawiasz?!\n
+Dialogue: 0,0:20:28.22,0:20:34.56,Font1,,0000,0000,0000,,{\i1}Zaklęcia to ludzki sposób\nna przemienianie many w magię.\n
+Dialogue: 0,0:20:36.65,0:20:42.61,Font1,,0000,0000,0000,,{\i1}Ten potwór ich nie potrzebuje.\nMana płynie w jego żyłach.\n
+Dialogue: 0,0:20:43.91,0:20:47.66,Font1,,0000,0000,0000,,{\i1}Wystarczy kilka słów, a nadejdzie zagłada.\n
+Dialogue: 0,0:20:48.99,0:20:49.95,Font1,,0000,0000,0000,,{\i1}Prawda…\n
+Dialogue: 0,0:20:51.45,0:20:53.16,Font1,,0000,0000,0000,,{\i1}Boromirze Napolitanie?\n
+Dialogue: 0,0:21:13.73,0:21:14.94,Font1,,0000,0000,0000,,Ciekawe.\n
+Dialogue: 0,0:21:16.40,0:21:19.48,Font1,,0000,0000,0000,,Pokaż mi, Desirze Herrmanie!\n
+Dialogue: 0,0:23:36.24,0:23:38.62,Font1,,0000,0000,0000,,{\an8}{\i1}{\1c&H00E6F0E0&}Odcinek 20: "Niszczycielskie słowa".\n
+
