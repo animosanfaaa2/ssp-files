@@ -1,0 +1,317 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:31.58,0:01:33.88,main,Hikaru,0,0,0,,Do you think Ascot will be okay?
+Dialogue: 0,0:01:34.50,0:01:36.79,main,Hikaru,0,0,0,,We are leaving him stranded in the ocean.
+Dialogue: 0,0:01:38.16,0:01:40.45,main,Fuu,0,0,0,,He was trying to be considerate.
+Dialogue: 0,0:01:41.41,0:01:47.46,main,Umi,0,0,0,,I wonder if he'll be able to live happily \Nwith his friends after we beat Zagato.
+Dialogue: 0,0:01:48.29,0:01:49.61,main,Hikaru,0,0,0,,Umi-chan...
+Dialogue: 0,0:01:52.42,0:01:54.34,main,Fuu,0,0,0,,I'm sure they'll be fine.
+Dialogue: 0,0:01:54.64,0:01:59.60,main,Fuu,0,0,0,,Ascot must have a strong heart \Nafter what you said to him.
+Dialogue: 0,0:02:00.22,0:02:01.93,main,Umi,0,0,0,,I sure hope so.
+Dialogue: 0,0:02:05.93,0:02:11.78,main,Umi,0,0,0,,I know! I'll ask Clef if there's \Nanywhere they can live in peace.
+Dialogue: 0,0:02:11.78,0:02:14.36,main,Umi,0,0,0,,He hasn't lived 745 years for nothing.
+Dialogue: 0,0:02:14.36,0:02:17.41,main,Umi,0,0,0,,I bet he knows just the place!
+Dialogue: 0,0:02:18.12,0:02:19.08,main,Hikaru,0,0,0,,Yeah!
+Dialogue: 0,0:02:19.42,0:02:20.54,main,Mokona,0,0,0,,Puu, puu!
+Dialogue: 0,0:02:20.90,0:02:22.29,main,Umi,0,0,0,,Mokona...
+Dialogue: 0,0:02:22.29,0:02:25.92,main,Umi,0,0,0,,I'm finally going to wring \Nan answer out of you this time.
+Dialogue: 0,0:02:25.92,0:02:26.54,main,Mokona,0,0,0,,Puu?
+Dialogue: 0,0:02:26.54,0:02:30.30,main,Umi,0,0,0,,Why do you disappear \Nevery time we get into a fight?!
+Dialogue: 0,0:02:30.61,0:02:35.55,main,Umi,0,0,0,,You're not getting your kicks \Nwatching us struggle, now are you?
+Dialogue: 0,0:02:35.91,0:02:37.65,main,Mokona,0,0,0,,Puu...
+Dialogue: 0,0:02:37.65,0:02:39.56,main,Umi,0,0,0,,Wh-What?
+Dialogue: 0,0:02:42.31,0:02:44.31,main,Mokona,0,0,0,,Puu!
+Dialogue: 0,0:02:44.31,0:02:45.44,main,Mokona,0,0,0,,Puu.
+Dialogue: 0,0:02:45.44,0:02:47.06,main,Hikaru; Fuu,0,0,0,,Shibibin, shibibin!
+Dialogue: 0,0:02:47.06,0:02:48.16,main,Umi,0,0,0,,Mokona!
+Dialogue: 0,0:02:48.16,0:02:49.32,main,Mokona,0,0,0,,Puu!
+Dialogue: 0,0:02:49.32,0:02:51.23,top,Mokona,0,0,0,,Puu, puu! Puu, puu!
+Dialogue: 0,0:02:50.42,0:02:51.23,main,Hikaru,0,0,0,,Huh?!
+Dialogue: 0,0:02:51.23,0:02:53.05,main,Umi,0,0,0,,That was the last straw!
+Dialogue: 0,0:02:53.05,0:02:59.12,main,Umi,0,0,0,,I'm going to find out what you're \Nstuffed with if it's the last thing I do!
+Dialogue: 0,0:03:00.43,0:03:03.45,main,Fuu,0,0,0,,My, we certainly are high up.
+Dialogue: 0,0:02:59.12,0:03:01.86,top,Umi,0,0,0,,Hold it right there!
+Dialogue: 0,0:03:05.28,0:03:09.77,main,Fuu,0,0,0,,Look at how far we've climbed already.
+Dialogue: 0,0:03:13.11,0:03:15.44,main,Fuu,0,0,0,,It is quite a great height, isn't it?
+Dialogue: 0,0:03:15.44,0:03:18.55,main,Umi,0,0,0,,Mokona! This flying thing \Nhad better be safe!
+Dialogue: 0,0:03:18.55,0:03:21.97,main,Umi,0,0,0,,A fall from way up here would be no joke!
+Dialogue: 0,0:03:21.97,0:03:23.79,main,Fuu,0,0,0,,It's all right.
+Dialogue: 0,0:03:24.48,0:03:28.07,main,Fuu,0,0,0,,We'd pass out almost immediately \Nif we fell from this altitude,
+Dialogue: 0,0:03:28.07,0:03:31.82,main,Fuu,0,0,0,,so we would be putting on halos \Nbefore we felt any pain.
+Dialogue: 0,0:03:31.82,0:03:34.40,main,Umi,0,0,0,,My point is, I want no part of that!
+Dialogue: 0,0:03:35.78,0:03:36.90,main,Hikaru,0,0,0,,Look!
+Dialogue: 0,0:03:37.54,0:03:41.91,main,Hikaru,0,0,0,,There's the floating mountain \Nwe saw when we first got to Cefiro.
+Dialogue: 0,0:03:45.37,0:03:46.85,main,Umi,0,0,0,,The wind's picked up.
+Dialogue: 0,0:03:48.60,0:03:49.58,main,Hikaru,0,0,0,,Fuu-chan!
+Dialogue: 0,0:03:49.58,0:03:50.88,main,Umi,0,0,0,,Fuu!
+Dialogue: 0,0:03:53.34,0:03:56.71,main,Fuu,0,0,0,,This is... the Temple of the Sky.
+Dialogue: 0,0:03:56.71,0:03:59.46,main,Fuu,0,0,0,,A Rune God resides within.
+Dialogue: 0,0:04:05.03,0:04:06.39,main,Hikaru,0,0,0,,Fuu-chan!
+Dialogue: 0,0:04:06.39,0:04:07.52,main,Mokona,0,0,0,,Puu!
+Dialogue: 0,0:04:07.52,0:04:08.47,main,Hikaru,0,0,0,,Mokona!
+Dialogue: 0,0:04:08.47,0:04:09.89,main,Mokona,0,0,0,,Puu, puu!
+Dialogue: 0,0:04:09.89,0:04:11.81,main,Hikaru,0,0,0,,You don't want us to follow her?
+Dialogue: 0,0:04:11.81,0:04:13.78,main,Mokona,0,0,0,,Pu-puu puu pu-puu!
+Dialogue: 0,0:04:13.78,0:04:16.37,main,Hikaru,0,0,0,,You mean Fuu-chan has \Nsomething to do in there?
+Dialogue: 0,0:04:16.37,0:04:17.09,main,Mokona,0,0,0,,Puu.
+Dialogue: 0,0:04:17.09,0:04:20.74,main,Umi,0,0,0,,Hey! Are you sure Fuu's \Ngoing to be all right?
+Dialogue: 0,0:04:20.74,0:04:24.17,main,Umi,0,0,0,,She almost seemed like a different person.
+Dialogue: 0,0:04:24.17,0:04:28.68,main,Hikaru,0,0,0,,You were the same way. \NBack at that temple in the ocean.
+Dialogue: 0,0:04:29.20,0:04:30.36,main,Umi,0,0,0,,Huh?
+Dialogue: 0,0:04:31.69,0:04:33.39,main,Umi,0,0,0,,What do you mean?
+Dialogue: 0,0:04:35.08,0:04:36.88,italics,Hikaru,0,0,0,,The Temple of the Sky...
+Dialogue: 0,0:04:37.38,0:04:39.61,italics,Hikaru,0,0,0,,So there's a Rune God here,
+Dialogue: 0,0:04:40.13,0:04:44.78,italics,Hikaru,0,0,0,,like the one that went \Ninto Umi-chan's armor.
+Dialogue: 0,0:04:45.52,0:04:47.33,main,Caldina,0,0,0,,How nice of you to drop in!
+Dialogue: 0,0:04:47.64,0:04:48.72,main,Hikaru,0,0,0,,Who are you?!
+Dialogue: 0,0:04:48.72,0:04:53.02,main,Caldina,0,0,0,,Jeez. You sure kept beautiful, \Nwonderful me waiting.
+Dialogue: 0,0:04:55.70,0:04:57.91,main,Caldina,0,0,0,,What naughty young ladies you are!
+Dialogue: 0,0:04:58.86,0:05:02.47,main,Umi,0,0,0,,H-Hey, does she sound like \Nshe's from Osaka to you?
+Dialogue: 0,0:05:02.47,0:05:04.41,main,Hikaru,0,0,0,,Uh, y-yeah.
+Dialogue: 0,0:05:04.87,0:05:08.16,main,Caldina,0,0,0,,I'm Caldina. And you are?
+Dialogue: 0,0:05:08.16,0:05:10.51,main,Hikaru,0,0,0,,H-Hikaru Shidou.
+Dialogue: 0,0:05:10.51,0:05:11.92,main,Umi,0,0,0,,I'm Umi Ryuuzaki.
+Dialogue: 0,0:05:11.92,0:05:14.88,main,Caldina,0,0,0,,He-caroo She-dough? Oo-mee Ryoo-zakee?
+Dialogue: 0,0:05:14.88,0:05:16.71,main,Caldina,0,0,0,,Those are some funny names you've got.
+Dialogue: 0,0:05:16.71,0:05:17.92,main,Umi,0,0,0,,Well, excuse us!
+Dialogue: 0,0:05:17.92,0:05:21.18,main,Caldina,0,0,0,,What's the other young lady called?
+Dialogue: 0,0:05:21.18,0:05:22.88,main,Hikaru,0,0,0,,The other one?
+Dialogue: 0,0:05:22.88,0:05:23.93,main,Umi,0,0,0,,You mean Fuu?
+Dialogue: 0,0:05:24.45,0:05:27.60,main,Caldina,0,0,0,,So she's Fuu-chan, is she?
+Dialogue: 0,0:05:27.60,0:05:29.39,main,Hikaru,0,0,0,,You know about Fuu-chan?!
+Dialogue: 0,0:05:29.70,0:05:31.04,main,Umi,0,0,0,,Where is she?
+Dialogue: 0,0:05:31.04,0:05:33.44,main,Caldina,0,0,0,,Oh, don't you worry.
+Dialogue: 0,0:05:33.44,0:05:35.11,main,Caldina,0,0,0,,I'll send you to her in no time.
+Dialogue: 0,0:05:35.57,0:05:36.82,main,Hikaru,0,0,0,,Thank you!
+Dialogue: 0,0:05:37.21,0:05:41.57,main,Caldina,0,0,0,,I'm not sure I know what to do \Nwith such sincere gratitude.
+Dialogue: 0,0:05:41.88,0:05:43.66,main,Caldina,0,0,0,,I mean, I do...
+Dialogue: 0,0:05:44.88,0:05:47.95,main,Caldina,0,0,0,,work for Zagato-han after all.
+Dialogue: 0,0:05:49.32,0:05:50.76,italics,Hikaru {M},0,0,0,,Zagato?!
+Dialogue: 0,0:06:02.37,0:06:04.74,main,Windom,0,0,0,,O Legendary Magic Knight,
+Dialogue: 0,0:06:05.60,0:06:10.57,main,Windom,0,0,0,,you who have come to this \NTemple of the Sky to don me.
+Dialogue: 0,0:06:16.70,0:06:18.89,main,Windom,0,0,0,,I am Windom,
+Dialogue: 0,0:06:18.89,0:06:23.95,main,Windom,0,0,0,,the Legendary Rune God who slumbers \Nhere, awaiting a Magic Knight.
+Dialogue: 0,0:06:24.56,0:06:25.67,main,Fuu,0,0,0,,A bird...
+Dialogue: 0,0:06:26.28,0:06:29.58,main,Fuu,0,0,0,,A bird with four wings.
+Dialogue: 0,0:06:29.92,0:06:35.25,main,Windom,0,0,0,,O girl who journeyed to this world \Nto become a Magic Knight,
+Dialogue: 0,0:06:35.82,0:06:43.08,main,Windom,0,0,0,,show proof that you are \Nworthy of donning me.
+Dialogue: 0,0:06:43.96,0:06:45.36,main,Fuu,0,0,0,,Proof...
+Dialogue: 0,0:06:51.89,0:06:53.83,main,Fuu,0,0,0,,Hikaru-san! Umi-san!
+Dialogue: 0,0:06:54.48,0:06:57.15,main,Fuu,0,0,0,,The Rune God spoke to me.
+Dialogue: 0,0:06:57.15,0:06:58.73,main,Fuu,0,0,0,,Look, it's over—
+Dialogue: 0,0:07:02.79,0:07:04.90,main,Fuu,0,0,0,,U-Umi-san...
+Dialogue: 0,0:07:05.97,0:07:07.02,main,Fuu,0,0,0,,Why?
+Dialogue: 0,0:07:15.82,0:07:19.17,main,Caldina,0,0,0,,You're quick on your feet, young lady.
+Dialogue: 0,0:07:19.17,0:07:21.30,main,Caldina,0,0,0,,Sorry I didn't introduce myself earlier.
+Dialogue: 0,0:07:21.66,0:07:23.22,main,Caldina,0,0,0,,I'm Caldina.
+Dialogue: 0,0:07:23.22,0:07:27.56,main,Caldina,0,0,0,,My main job is dancing, \Nbut I'm also a Lal,
+Dialogue: 0,0:07:27.56,0:07:32.35,main,Caldina,0,0,0,,an illusionist who enchants people \Nand shows them visions with my dance.
+Dialogue: 0,0:07:32.76,0:07:35.86,main,Fuu,0,0,0,,You're Caldina-san the Lal, you say?
+Dialogue: 0,0:07:35.86,0:07:38.15,main,Fuu,0,0,0,,My name is Fuu Hououji.
+Dialogue: 0,0:07:38.15,0:07:41.57,main,Caldina,0,0,0,,Wow, and how polite you are \Nto introduce yourself!
+Dialogue: 0,0:07:41.57,0:07:43.68,main,Caldina,0,0,0,,I like you lots.
+Dialogue: 0,0:07:44.43,0:07:48.13,main,Caldina,0,0,0,,Anyway, these two here are under my spell.
+Dialogue: 0,0:07:48.13,0:07:51.41,main,Caldina,0,0,0,,And I've ordered them to kill you.
+Dialogue: 0,0:07:52.36,0:07:55.45,main,Fuu,0,0,0,,Then, you must also be\N in league with Zagato.
+Dialogue: 0,0:07:55.79,0:07:57.43,main,Caldina,0,0,0,,You've got that right.
+Dialogue: 0,0:07:57.43,0:07:58.75,main,Caldina,0,0,0,,To tell you the truth...
+Dialogue: 0,0:08:00.74,0:08:02.42,main,Caldina,0,0,0,,I'm on his payroll.
+Dialogue: 0,0:08:03.00,0:08:05.77,main,Caldina,0,0,0,,I'm not originally from Cefiro.
+Dialogue: 0,0:08:05.77,0:08:10.55,main,Caldina,0,0,0,,My homeland wasn't dangerous, \Nbut it was pretty cramped.
+Dialogue: 0,0:08:10.55,0:08:13.78,main,Caldina,0,0,0,,Not the best place to make a living,\Nsince it was hard to get new customers.
+Dialogue: 0,0:08:13.78,0:08:16.50,main,Caldina,0,0,0,,So I left to look for work.
+Dialogue: 0,0:08:17.24,0:08:24.27,main,Caldina,0,0,0,,I'm a {\i1}professional{\i0} danger-slash-Lal, \Nso I do what it takes to earn my keep!
+Dialogue: 0,0:08:24.27,0:08:27.69,main,Caldina,0,0,0,,I mean, everybody ought \Nto take their work seriously.
+Dialogue: 0,0:08:27.69,0:08:31.21,main,Caldina,0,0,0,,And that's all the background you need.
+Dialogue: 0,0:08:31.21,0:08:33.31,main,Caldina,0,0,0,,Now, where were we?
+Dialogue: 0,0:08:33.31,0:08:35.45,main,Fuu,0,0,0,,Hikaru-san! Umi-san!
+Dialogue: 0,0:08:57.68,0:08:59.48,main,Windom,0,0,0,,Your strength...
+Dialogue: 0,0:08:59.78,0:09:05.76,main,Windom,0,0,0,,Demonstrate strength of heart \Nworthy of a Legendary Magic Knight.
+Dialogue: 0,0:09:05.76,0:09:07.90,main,Fuu,0,0,0,,Strength of heart...
+Dialogue: 0,0:09:07.90,0:09:11.66,italics,Fuu {M},0,0,0,,Hearts determine everything in Cefiro.
+Dialogue: 0,0:09:12.44,0:09:16.69,italics,Fuu,0,0,0,,Strength of belief... \Ndetermines the future.
+Dialogue: 0,0:09:21.31,0:09:23.94,main,Fuu,0,0,0,,Winds of Penance!
+Dialogue: 0,0:09:36.90,0:09:38.49,main,Fuu,0,0,0,,This game is over.
+Dialogue: 0,0:09:42.91,0:09:47.77,main,Caldina,0,0,0,,Wow! A Magic Knight to-be \Nreally is a cut above.
+Dialogue: 0,0:09:48.05,0:09:50.05,main,Caldina,0,0,0,,That was quite a spell.
+Dialogue: 0,0:09:50.05,0:09:52.78,main,Caldina,0,0,0,,Really, I must admit \NI underestimated you.
+Dialogue: 0,0:09:53.99,0:09:54.87,main,Caldina,0,0,0,,Now...
+Dialogue: 0,0:09:56.00,0:09:57.78,main,Caldina,0,0,0,,how about my next move?
+Dialogue: 0,0:09:57.78,0:10:00.75,main,Caldina,0,0,0,,It's a little lonely performing \Nfor an audience of one,
+Dialogue: 0,0:10:00.75,0:10:03.08,main,Caldina,0,0,0,,but, well, what can you do?
+Dialogue: 0,0:10:04.93,0:10:07.99,main,Fuu,0,0,0,,What in the world are you... \Ntrying to... accomplish?
+Dialogue: 0,0:10:09.46,0:10:10.67,italics,Fuu {M},0,0,0,,Wh-What's happening?
+Dialogue: 0,0:10:10.67,0:10:12.72,italics,Fuu {M},0,0,0,,M-My body is...
+Dialogue: 0,0:10:15.97,0:10:17.01,italics,Fuu {M},0,0,0,,moving on its own!
+Dialogue: 0,0:10:21.47,0:10:25.98,main,Caldina,0,0,0,,Oh, looks like I've got you right \Nwhere I want you! Under my spell!
+Dialogue: 0,0:10:29.11,0:10:32.32,main,Fuu,0,0,0,,Hikaru-san! Please wake up!
+Dialogue: 0,0:10:42.41,0:10:43.48,main,Fuu,0,0,0,,Hikaru-san!
+Dialogue: 0,0:10:50.00,0:10:51.13,main,Fuu,0,0,0,,Umi-san!
+Dialogue: 0,0:10:51.60,0:10:52.39,main,Caldina,0,0,0,,There!
+Dialogue: 0,0:10:53.97,0:10:55.22,main,Caldina,0,0,0,,Go on!
+Dialogue: 0,0:10:58.81,0:11:03.73,main,Caldina,0,0,0,,Really, thanks so much \Nfor being such a good little puppet!
+Dialogue: 0,0:11:03.73,0:11:08.30,main,Caldina,0,0,0,,"Legendary Magic Knights" \Ndo sound like a big deal.
+Dialogue: 0,0:11:08.30,0:11:12.98,main,Caldina,0,0,0,,Still, you're just charming little\Nyoung ladies. What can you expect?
+Dialogue: 0,0:11:17.43,0:11:19.70,italics,Fuu {M},0,0,0,,Hikaru-san! Umi-san!
+Dialogue: 0,0:11:19.70,0:11:21.11,italics,Fuu {M},0,0,0,,Wake up!
+Dialogue: 0,0:11:21.43,0:11:24.91,italics,Fuu {M},0,0,0,,If something doesn't give, \NI really will hurt you badly this time!
+Dialogue: 0,0:11:25.29,0:11:29.42,italics,Fuu {M},0,0,0,,In fact, I might very well kill you!
+Dialogue: 0,0:11:31.86,0:11:33.88,main,Windom,0,0,0,,Your strength.
+Dialogue: 0,0:11:35.45,0:11:41.31,main,Windom,0,0,0,,Demonstrate strength of heart worthy \Nof a Magic Knight in my presence.
+Dialogue: 0,0:11:42.68,0:11:45.73,italics,Fuu {M},0,0,0,,Strength of heart...
+Dialogue: 0,0:11:50.25,0:11:53.61,main,Caldina,0,0,0,,All right, I think it's time \Nwe wrapped things up.
+Dialogue: 0,0:11:53.96,0:11:57.82,main,Caldina,0,0,0,,If I drag this out any longer, \NI'll be working overtime!
+Dialogue: 0,0:11:58.18,0:12:02.83,main,Caldina,0,0,0,,Now, shall I have you finish off \Nthose two with your own two hands?
+Dialogue: 0,0:12:02.83,0:12:07.38,main,Caldina,0,0,0,,I know. You call yourselves \N"Magic Knights,"
+Dialogue: 0,0:12:07.38,0:12:09.58,main,Caldina,0,0,0,,so how about some magic \Nfor the big finale?
+Dialogue: 0,0:12:10.26,0:12:13.59,main,Caldina,0,0,0,,Put them out of their misery \Nwith the spells you've learned!
+Dialogue: 0,0:12:13.87,0:12:17.61,main,Caldina,0,0,0,,I'll send you to join them right after.
+Dialogue: 0,0:12:21.76,0:12:22.69,main,Caldina,0,0,0,,Go on!
+Dialogue: 0,0:12:23.54,0:12:24.72,main,Fuu,0,0,0,,Emerald...
+Dialogue: 0,0:12:25.77,0:12:27.14,main,Fuu,0,0,0,,Gale!
+Dialogue: 0,0:12:31.77,0:12:34.82,main,Caldina,0,0,0,,N-No way!
+Dialogue: 0,0:12:41.16,0:12:43.00,main,Caldina,0,0,0,,H-How'd that happen?
+Dialogue: 0,0:12:45.26,0:12:47.29,main,Fuu,0,0,0,,It's a matter of heart.
+Dialogue: 0,0:12:47.94,0:12:49.66,main,Caldina,0,0,0,,Of heart...?
+Dialogue: 0,0:12:49.66,0:12:53.85,main,Fuu,0,0,0,,You were hired by a man \Nnamed Zagato, I believe?
+Dialogue: 0,0:12:53.85,0:12:56.17,main,Caldina,0,0,0,,Y-Yes, but so what?
+Dialogue: 0,0:12:56.45,0:13:01.89,main,Fuu,0,0,0,,Would you be willing to put your life \Non the line for your employer?
+Dialogue: 0,0:13:01.89,0:13:05.10,main,Caldina,0,0,0,,Huh?! Why would I ever \Ndo something like that?!
+Dialogue: 0,0:13:05.42,0:13:08.03,main,Caldina,0,0,0,,My life's mine and no one else's!
+Dialogue: 0,0:13:08.60,0:13:09.64,main,Fuu,0,0,0,,Well, you see...
+Dialogue: 0,0:13:12.13,0:13:17.41,main,Fuu,0,0,0,,I'm quite willing to risk mine \Nfor the two of them.
+Dialogue: 0,0:13:18.40,0:13:22.28,main,Fuu,0,0,0,,I wasn't entirely aware \Nof this before now,
+Dialogue: 0,0:13:22.28,0:13:24.91,main,Fuu,0,0,0,,but I've just confirmed as much.
+Dialogue: 0,0:13:24.91,0:13:29.38,main,Fuu,0,0,0,,That I want to help \Nthe two of them with all my might.
+Dialogue: 0,0:13:30.18,0:13:34.75,main,Fuu,0,0,0,,That I want to save my dear friends, \Neven if it costs me my life.
+Dialogue: 0,0:13:36.21,0:13:38.74,main,Caldina,0,0,0,,You don't... care if you die?
+Dialogue: 0,0:13:38.74,0:13:39.80,main,Fuu,0,0,0,,That's right.
+Dialogue: 0,0:13:40.24,0:13:43.40,main,Caldina,0,0,0,,Have you been friends with \Nthese young ladies a long time?
+Dialogue: 0,0:13:43.40,0:13:46.45,main,Caldina,0,0,0,,Say, 110 years or so?
+Dialogue: 0,0:13:46.45,0:13:47.47,main,Fuu,0,0,0,,No.
+Dialogue: 0,0:13:47.47,0:13:53.19,main,Fuu,0,0,0,,We were perfect strangers until we \Nwere summoned to Cefiro from Tokyo.
+Dialogue: 0,0:13:53.52,0:13:55.40,main,Caldina,0,0,0,,Then why go that far?
+Dialogue: 0,0:13:55.40,0:13:59.86,main,Caldina,0,0,0,,How can you have no problem risking \Nyour life after so little time together?
+Dialogue: 0,0:14:01.65,0:14:04.93,main,Fuu,0,0,0,,Time has nothing to do with the heart.
+Dialogue: 0,0:14:05.73,0:14:08.99,main,Fuu,0,0,0,,We may not have been together long,
+Dialogue: 0,0:14:08.99,0:14:12.79,main,Fuu,0,0,0,,and there may be many things \Nabout them I still don't know,
+Dialogue: 0,0:14:12.79,0:14:17.42,main,Fuu,0,0,0,,but that simply means I have many \Nnew discoveries to look forward to.
+Dialogue: 0,0:14:19.42,0:14:25.43,main,Fuu,0,0,0,,I've decided to go on fighting \Nalongside them with all my heart.
+Dialogue: 0,0:14:25.43,0:14:26.69,main,Caldina,0,0,0,,Your heart...
+Dialogue: 0,0:14:27.36,0:14:28.43,main,Fuu,0,0,0,,Therefore,
+Dialogue: 0,0:14:29.07,0:14:35.94,main,Fuu,0,0,0,,if you insist on harming the two of them, \NI must fight you to the bitter end.
+Dialogue: 0,0:14:41.93,0:14:44.20,main,Caldina,0,0,0,,Don't be ridiculous!
+Dialogue: 0,0:14:44.20,0:14:46.87,main,Caldina,0,0,0,,You expect me to take on \Nsomebody like you?
+Dialogue: 0,0:14:47.49,0:14:51.83,main,Caldina,0,0,0,,Sure, I took Zagato-han's money, but...
+Dialogue: 0,0:14:53.68,0:14:56.80,main,Caldina,0,0,0,,he didn't pay enough \Nfor the mighty and magnificent,
+Dialogue: 0,0:14:55.62,0:14:56.67,top,Sign,0,0,0,,MIGHTY AND MAGNIFICENT
+Dialogue: 0,0:14:56.80,0:15:02.59,main,Caldina,0,0,0,,not to mention smoking hot, spectacular, \Nand sexy Caldina to give him {\i1}everything{\i0}.
+Dialogue: 0,0:14:56.67,0:14:58.08,top,Sign,0,0,0,,NOT TO MENTION SMOKING HOT,
+Dialogue: 0,0:14:58.08,0:14:59.13,top,Sign,0,0,0,,SPECTACULAR,
+Dialogue: 0,0:14:59.13,0:15:02.59,top,Sign,0,0,0,,AND SEXY
+Dialogue: 0,0:15:03.96,0:15:04.95,main,Fuu,0,0,0,,Oh.
+Dialogue: 0,0:15:06.45,0:15:11.60,main,Caldina,0,0,0,,I did do some damage to you \NMagic Knights, so I earned my pay!
+Dialogue: 0,0:15:11.95,0:15:14.60,main,Caldina,0,0,0,,Whatever comes next isn't my problem.
+Dialogue: 0,0:15:14.89,0:15:19.54,main,Caldina,0,0,0,,Anyway, you've got a hard road ahead, \Nbut see how far you can make it.
+Dialogue: 0,0:15:21.17,0:15:22.72,main,Fuu,0,0,0,,Are you certain?
+Dialogue: 0,0:15:22.72,0:15:26.36,main,Fuu,0,0,0,,If you accepted payment, \Nthen this is your job.
+Dialogue: 0,0:15:27.94,0:15:30.08,main,Caldina,0,0,0,,You said your name's Fuu, right?
+Dialogue: 0,0:15:30.08,0:15:30.78,main,Fuu,0,0,0,,Yes.
+Dialogue: 0,0:15:31.27,0:15:34.34,main,Caldina,0,0,0,,To be honest, you blew me away.
+Dialogue: 0,0:15:34.34,0:15:39.79,main,Caldina,0,0,0,,Hard to say whether having something \Nyou'd die for is a good thing,
+Dialogue: 0,0:15:39.79,0:15:42.63,main,Caldina,0,0,0,,but it seemed pretty amazing to me.
+Dialogue: 0,0:15:42.63,0:15:44.05,main,Caldina,0,0,0,,At the very least,
+Dialogue: 0,0:15:44.48,0:15:50.35,main,Caldina,0,0,0,,you impress me more than Zagato-han. \NWho knows why he even caused this mess?
+Dialogue: 0,0:15:51.28,0:15:56.23,main,Fuu,0,0,0,,Isn't Zagato-san's goal to rule Cefiro?
+Dialogue: 0,0:15:56.79,0:15:59.87,main,Caldina,0,0,0,,I asked him about it one time...
+Dialogue: 0,0:16:01.96,0:16:05.88,flashback,Caldina,0,0,0,,Now that Princess Emeraude can't pray,
+Dialogue: 0,0:16:05.88,0:16:08.80,flashback,Caldina,0,0,0,,the world's unstable \Nand crawling with monsters.
+Dialogue: 0,0:16:08.80,0:16:10.96,flashback,Caldina,0,0,0,,There's no point trying to rule it.
+Dialogue: 0,0:16:11.86,0:16:17.58,flashback,Caldina,0,0,0,,Why turn Cefiro into a wasteland when you \Ncould have Princess Emeraude keep praying
+Dialogue: 0,0:16:17.58,0:16:20.58,flashback,Caldina,0,0,0,,and just make it so \Nyou run things instead?
+Dialogue: 0,0:16:23.22,0:16:27.44,flashback,Zagato,0,0,0,,There's something worth \Nmore to me than Cefiro.
+Dialogue: 0,0:16:28.36,0:16:31.48,main,Fuu,0,0,0,,Something worth more than Cefiro?
+Dialogue: 0,0:16:31.48,0:16:34.85,main,Caldina,0,0,0,,He wouldn't tell me what it is, though.
+Dialogue: 0,0:16:40.85,0:16:42.08,main,Fuu,0,0,0,,M-My sword...!
+Dialogue: 0,0:16:56.52,0:16:58.71,main,Caldina,0,0,0,,What do you know! It got longer!
+Dialogue: 0,0:16:58.71,0:17:01.62,main,Fuu,0,0,0,,It certainly has grown.
+Dialogue: 0,0:17:01.62,0:17:03.83,main,Fuu,0,0,0,,And my armor changed again, too.
+Dialogue: 0,0:17:06.13,0:17:09.88,main,Caldina,0,0,0,,This really does have \N"legendary" written all over it.
+Dialogue: 0,0:17:09.88,0:17:11.58,main,Caldina,0,0,0,,Not that I care.
+Dialogue: 0,0:17:19.23,0:17:21.50,main,Windom,0,0,0,,O Legendary Magic Knight,
+Dialogue: 0,0:17:22.39,0:17:27.91,main,Windom,0,0,0,,I have witnessed the strength \Nof your devotion to your comrades.
+Dialogue: 0,0:18:08.73,0:18:12.53,main,Windom,0,0,0,,Though you are not yet ready to don me,
+Dialogue: 0,0:18:13.00,0:18:16.75,main,Windom,0,0,0,,I shall change shape \Nto become part of you
+Dialogue: 0,0:18:16.75,0:18:20.35,main,Windom,0,0,0,,and await the promised day \Na while longer.
+Dialogue: 0,0:18:30.90,0:18:36.26,main,Fuu,0,0,0,,Will I become a giant robot pilot someday?
+Dialogue: 0,0:18:39.01,0:18:41.02,main,Hikaru,0,0,0,,Fuu-chan! Are you all right?!
+Dialogue: 0,0:18:41.02,0:18:45.96,main,Umi,0,0,0,,Oh, right! This Osakan-sounding weirdo \Nshowed up and started dancing, and—
+Dialogue: 0,0:18:45.96,0:18:47.90,main,Caldina,0,0,0,,We're all done already.
+Dialogue: 0,0:18:52.75,0:18:55.11,main,Umi,0,0,0,,That's her! She's the one!
+Dialogue: 0,0:18:55.11,0:18:56.65,main,Umi,0,0,0,,Just you wait!
+Dialogue: 0,0:18:57.24,0:19:01.01,main,Umi,0,0,0,,You won't get me with \Nthose weird moves again!
+Dialogue: 0,0:19:01.01,0:19:03.12,main,Caldina,0,0,0,,I told you! The fight's over!
+Dialogue: 0,0:19:03.12,0:19:04.87,top,Caldina,0,0,0,,Listen, why don't you?!
+Dialogue: 0,0:19:06.97,0:19:10.00,main,Fuu,0,0,0,,It's all right now, Hikaru-san.
+Dialogue: 0,0:19:04.87,0:19:06.54,top,Umi,0,0,0,,Hold it right there!
+Dialogue: 0,0:19:06.54,0:19:08.40,top,Caldina,0,0,0,,I don't think I will!
+Dialogue: 0,0:19:08.40,0:19:10.00,top,Umi,0,0,0,,What do you mean, it's over?!
+Dialogue: 0,0:19:10.00,0:19:11.96,top,Caldina,0,0,0,,I mean it's over, and that's that!
+Dialogue: 0,0:19:11.96,0:19:12.85,top,Umi,0,0,0,,What's that mean?!
+Dialogue: 0,0:19:12.85,0:19:14.87,top,Umi,0,0,0,,You better not have done\Nanything nasty to Fuu!
+Dialogue: 0,0:19:14.87,0:19:16.75,top,Caldina,0,0,0,,Not a thing!
+Dialogue: 0,0:19:16.75,0:19:18.45,top,Umi,0,0,0,,Get back here!
+Dialogue: 0,0:19:14.87,0:19:18.22,main,Fuu,0,0,0,,Thank you so much for protecting me.
+Dialogue: 0,0:19:18.45,0:19:19.43,main,Hikaru,0,0,0,,Meow?
+Dialogue: 0,0:19:23.42,0:19:26.52,main,Emeraude,0,0,0,,Come... Come quickly,
+Dialogue: 0,0:19:26.52,0:19:29.20,main,Emeraude,0,0,0,,Legendary Magic Knights...
+Dialogue: 0,0:19:29.64,0:19:32.03,main,Emeraude,0,0,0,,Before it's too late...
+Dialogue: 0,0:19:32.03,0:19:33.55,main,Emeraude,0,0,0,,Make haste!
+Dialogue: 0,0:19:35.86,0:19:37.78,main,Zagato,0,0,0,,Are you in pain?
+Dialogue: 0,0:19:38.13,0:19:43.79,main,Emeraude,0,0,0,,If this continues, Cefiro, our world, \Ntruly will come to an end.
+Dialogue: 0,0:19:44.16,0:19:50.61,main,Zagato,0,0,0,,Let all Cefiro return to nothingness. \NLet all its people perish.
+Dialogue: 0,0:19:50.61,0:19:53.30,main,Zagato,0,0,0,,My heart will not change,
+Dialogue: 0,0:19:53.30,0:19:54.70,main,Zagato,0,0,0,,Emeraude.
+Dialogue: 0,0:20:00.30,0:20:03.92,main,Zagato,0,0,0,,Ceres, the spirit of water, \Nand Windom, the spirit of air...
+Dialogue: 0,0:20:03.92,0:20:10.81,main,Zagato,0,0,0,,Those girls from another world have freed \Ntwo Rune Gods from their long slumber.
+Dialogue: 0,0:20:10.81,0:20:17.33,main,Zagato,0,0,0,,Only one remains: the crimson Rune God \Nthat sleeps in the Temple of Flame.
+Dialogue: 0,0:20:18.72,0:20:22.38,main,Zagato,0,0,0,,But I will not allow your wish \Nto reach fruition.
+Dialogue: 0,0:20:25.33,0:20:28.17,main,Emeraude,0,0,0,,It can't be! Not you...
+Dialogue: 0,0:20:28.89,0:20:30.28,main,Emeraude,0,0,0,,Rafaga!
+Dialogue: 0,0:22:06.44,0:22:09.24,flashback,Caldina,0,0,0,,Well then, I'll be on my way.
+Dialogue: 0,0:22:11.54,0:22:13.49,flashback,Fuu,0,0,0,,Please take care.
+Dialogue: 0,0:22:14.34,0:22:17.44,flashback,Caldina,0,0,0,,That's what you say \Nto someone who attacked you?
+Dialogue: 0,0:22:17.44,0:22:20.40,flashback,Caldina,0,0,0,,You really are a funny young lady.
+Dialogue: 0,0:22:20.40,0:22:23.20,flashback,Fuu,0,0,0,,Why, but we're not \Nenemies anymore, are we?
+Dialogue: 0,0:22:25.71,0:22:29.95,flashback,Caldina,0,0,0,,I couldn't believe it when you said \Nyou'd die for people you just met,
+Dialogue: 0,0:22:30.35,0:22:34.86,flashback,Caldina,0,0,0,,but I guess maybe that's \Nwhy you girls were chosen.
+Dialogue: 0,0:22:37.71,0:22:39.24,flashback,Caldina,0,0,0,,Not that I care!
+Dialogue: 0,0:22:40.42,0:22:43.07,flashback,Caldina,0,0,0,,Anyway, give it your best shot.
+Dialogue: 0,0:22:43.07,0:22:49.85,flashback,Caldina,0,0,0,,Whatever he's after, Zagato-han's ready \Nto risk at least as much as you are!
+Dialogue: 0,0:22:50.96,0:22:55.60,italics,Fuu {M},0,0,0,,What could be "worth more \Nthan Cefiro" to Zagato-san?
+Dialogue: 0,0:22:59.73,0:23:01.03,main,Mokona,0,0,0,,Puu!
+
