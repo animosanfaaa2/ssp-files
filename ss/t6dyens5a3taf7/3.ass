@@ -1,0 +1,340 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:13.72,0:01:22.65,Cart_A_Tre,CARTEL,0,0,0,,{\shad1\bord0\4c&HFFFFFF&\c&H1A94DF&\fs26\pos(320,10)}Chitose Is in the {\c&HFABF17&}Ramune Bottle
+Dialogue: 0,0:01:33.22,0:01:35.15,Gen_Main,tominaga,0,0,0,,¿Será buena idea dejarlas jugar?
+Dialogue: 0,0:01:35.24,0:01:37.01,Gen_Main,tominaga,0,0,0,,Ya sabemos cómo va a terminar.
+Dialogue: 0,0:01:37.24,0:01:40.70,Gen_Main,misaki,0,0,0,,Creo que estás subestimando demasiado\Na nuestra mejor jugadora.
+Dialogue: 0,0:01:40.70,0:01:46.92,Cart_A_Tre,CARTEL,0,0,0,,{\frz-5\fs30\fry40\frx5\3c&H4B7393&\c&H22232A&\move(393,72,359,72)}Fuji
+Dialogue: 0,0:01:41.20,0:01:43.30,Gen_Main,tominaga,0,0,0,,La Preparatoria Fuji\Ntiene un buen equipo.
+Dialogue: 0,0:01:43.38,0:01:46.92,Gen_Main,tominaga,0,0,0,,Ella y la base de tu equipo\Nforman una pareja temible.
+Dialogue: 0,0:01:47.31,0:01:50.74,Gen_Main,misaki,0,0,0,,¿"Vale la pena entrenar con la Fuji\Nporque ahí juega Nana,
+Dialogue: 0,0:01:51.00,0:01:54.22,Gen_Main,misaki,0,0,0,,pero Umi por su cuenta no es gran cosa"?
+Dialogue: 0,0:01:56.26,0:02:00.05,Gen_Main,tominaga,0,0,0,,Son peligrosas cuando juegan juntas.
+Dialogue: 0,0:02:00.67,0:02:03.85,Gen_Main,tominaga,0,0,0,,¿Te recuerda a cómo eras de joven?
+Dialogue: 0,0:02:06.73,0:02:08.07,Gen_Main,misaki,0,0,0,,Para nada.
+Dialogue: 0,0:02:08.59,0:02:13.70,Gen_Main,misaki,0,0,0,,El obstáculo que tiene enfrente\Nes mucho mayor. No hay comparación.
+Dialogue: 0,0:02:14.06,0:02:18.20,Gen_Main,tominaga,0,0,0,,Solo te advierto que no conviene\Nsubestimar a nuestras guerreras.
+Dialogue: 0,0:02:21.12,0:02:23.79,Gen_Main,misaki,0,0,0,,La Preparatoria Ashi sigue igual, ¿eh?
+Dialogue: 0,0:02:32.66,0:02:35.93,Gen_Main,mai,0,0,0,,Bueno… ¿Empezamos?
+Dialogue: 0,0:02:36.71,0:02:37.96,Gen_Main,mai,0,0,0,,¿Cuáles son las reglas?
+Dialogue: 0,0:02:38.09,0:02:41.68,Gen_Main,haru,0,0,0,,Cada canasta vale un punto.\NGana la primera que llegue a diez.
+Dialogue: 0,0:02:41.80,0:02:43.85,Gen_Main,haru,0,0,0,,Si robas el balón, pasas a atacar.
+Dialogue: 0,0:02:44.13,0:02:45.73,Gen_Main,mai,0,0,0,,Empieza tú.
+Dialogue: 0,0:02:47.09,0:02:49.82,Gen_Main,haru,0,0,0,,Qué amable de tu parte.
+Dialogue: 0,0:02:50.26,0:02:51.57,Gen_Main,saku,0,0,0,,¿Por qué hace eso?
+Dialogue: 0,0:02:53.23,0:02:56.57,Gen_Main,yuzuki,0,0,0,,Umi suele penetrar\Npara anotar cerca del aro.
+Dialogue: 0,0:02:56.80,0:02:59.30,Gen_Main,yuzuki,0,0,0,,También Todo sabe meter triples.
+Dialogue: 0,0:03:00.37,0:03:02.91,Gen_Main,yuzuki,0,0,0,,Si todas las canastas valen un punto,
+Dialogue: 0,0:03:03.00,0:03:06.13,Gen_Main,yuzuki,0,0,0,,supongo que busca compensar\Nla diferencia de estatura.
+Dialogue: 0,0:03:06.31,0:03:08.25,Gen_Main,yuzuki,0,0,0,,Y hasta le deja empezar con el balón…
+Dialogue: 0,0:03:08.80,0:03:10.48,Gen_Main,yuzuki,0,0,0,,La está subestimando.
+Dialogue: 0,0:03:12.38,0:03:14.42,Gen_Main,mai,0,0,0,,No te veo muy contenta.
+Dialogue: 0,0:03:14.62,0:03:18.72,Gen_Main,haru,0,0,0,,No, al contrario.\NGracias por aceptar jugar conmigo.
+Dialogue: 0,0:03:19.57,0:03:20.80,Gen_Main,haru,0,0,0,,A cambio…
+Dialogue: 0,0:03:20.89,0:03:24.02,Gen_Main,haru,0,0,0,,Si gano, jugamos otra vez\Ncon reglas parejas.
+Dialogue: 0,0:03:24.28,0:03:26.39,Gen_Main,mai,0,0,0,,Me gusta tu actitud.
+Dialogue: 0,0:03:35.69,0:03:37.74,Gen_Main,haru,0,0,0,,¿Ya tienes más ganas de jugar?
+Dialogue: 0,0:03:37.99,0:03:41.34,Gen_Main,mai,0,0,0,,Hasta ahora no habíamos tenido\Nmuchas oportunidades de enfrentarnos.
+Dialogue: 0,0:03:41.55,0:03:44.62,Gen_Main,mai,0,0,0,,Eres tres veces más rápida\Nde lo que esperaba.
+Dialogue: 0,0:03:44.70,0:03:48.62,Gen_Main,yuzuki,0,0,0,,Umi dribla a toda velocidad, es ágil\Ny cambia de dirección con facilidad.
+Dialogue: 0,0:03:48.86,0:03:51.63,Gen_Main,yuzuki,0,0,0,,No es nada fácil quitarle el balón.
+Dialogue: 0,0:03:53.71,0:03:55.30,Gen_Main,mai,0,0,0,,Bien, otra vez.
+Dialogue: 0,0:03:55.66,0:03:57.51,Gen_Main,haru,0,0,0,,Parpadea y te dejo atrás.
+Dialogue: 0,0:04:09.15,0:04:11.23,Gen_Main,mai,0,0,0,,Te llamas Aomi, ¿verdad?
+Dialogue: 0,0:04:11.55,0:04:13.07,Gen_Main,haru,0,0,0,,Puedes llamarme Haru.
+Dialogue: 0,0:04:13.15,0:04:14.50,Gen_Main,mai,0,0,0,,Eres buena, Haru.
+Dialogue: 0,0:04:14.58,0:04:16.32,Gen_Main,mai,0,0,0,,Y tú puedes decirme Mai.
+Dialogue: 0,0:04:16.77,0:04:19.34,Gen_Main,haru,0,0,0,,Muy bien, Mai. Sigamos hasta el final.
+Dialogue: 0,0:04:19.59,0:04:22.66,Gen_Main,mai,0,0,0,,Ya vi que eres buena.\NPodemos dejarlo así.
+Dialogue: 0,0:04:22.85,0:04:25.41,Gen_Main,haru,0,0,0,,¿Y eso qué se supone que significa?
+Dialogue: 0,0:04:39.84,0:04:41.26,Gen_Main,mai,0,0,0,,Un truco y nada más.
+Dialogue: 0,0:04:41.55,0:04:44.85,Gen_Main,mai,0,0,0,,Eso no sirve contra alguien\Nque salta tanto como tú.
+Dialogue: 0,0:04:45.30,0:04:46.52,Gen_Main,haru,0,0,0,,Maldición…
+Dialogue: 0,0:04:46.60,0:04:48.45,Gen_Main,yuzuki,0,0,0,,Era de esperarse.
+Dialogue: 0,0:04:48.53,0:04:50.34,Gen_Main,saku,0,0,0,,Por la diferencia de estatura, ¿no?
+Dialogue: 0,0:04:50.77,0:04:53.65,Gen_Main,yuzuki,0,0,0,,Por ejemplo, si Todo lanza\Ndesde lo más alto de su salto,
+Dialogue: 0,0:04:53.81,0:04:59.01,Gen_Main,yuzuki,0,0,0,,no sé si podría ponerle un tapón\Naunque saltara con todas mis fuerzas.
+Dialogue: 0,0:04:59.17,0:05:03.41,Gen_Main,yuzuki,0,0,0,,Pero a Haru podría bloquearla\Ncon un pequeño salto.
+Dialogue: 0,0:05:03.81,0:05:06.22,Gen_Main,saku,0,0,0,,¿Le da tiempo aunque salte después?
+Dialogue: 0,0:05:06.74,0:05:10.18,Gen_Main,yuzuki,0,0,0,,Umi se mantiene en el aire mucho tiempo,
+Dialogue: 0,0:05:10.26,0:05:11.59,Gen_Main,yuzuki,0,0,0,,pero Todo también.
+Dialogue: 0,0:05:11.88,0:05:16.13,Gen_Main,yuzuki,0,0,0,,Si no sacas ventaja de eso,\Ngana la más alta.
+Dialogue: 0,0:05:18.21,0:05:21.30,Gen_Main,yuzuki,0,0,0,,Ni se te ocurra sentir lástima por ella.
+Dialogue: 0,0:05:22.59,0:05:25.35,Gen_Main,yuzuki,0,0,0,,Está jugando para demostrar lo que vale.
+Dialogue: 0,0:05:28.93,0:05:31.69,Gen_Main,mai,0,0,0,,Sabía que ibas a intentar eso.
+Dialogue: 0,0:05:32.88,0:05:33.98,Gen_Main,mai,0,0,0,,Qué lástima.
+Dialogue: 0,0:05:41.52,0:05:44.45,Gen_Main,mai,0,0,0,,Si midieras 20 cm más,\Nquién sabe qué habría pasado.
+Dialogue: 0,0:05:44.95,0:05:49.45,Gen_Main,mai,0,0,0,,Pero en baloncesto,\Nesos 20 cm lo cambian todo.
+Dialogue: 0,0:05:49.82,0:05:54.00,Gen_Main,mai,0,0,0,,Me habría gustado enfrentarme\Na una Haru de 1.70 m.
+Dialogue: 0,0:05:55.55,0:05:58.70,Gen_Main,haru,0,0,0,,¿Puedes dejar de hablar\Ncomo si esto ya hubiera terminado?
+Dialogue: 0,0:05:58.92,0:06:00.42,Gen_Main,mai,0,0,0,,¿Todavía quieres seguir?
+Dialogue: 0,0:06:00.59,0:06:02.93,Gen_Main,haru,0,0,0,,¡Por supuesto! ¡Voy a aplastarte!
+Dialogue: 0,0:06:05.41,0:06:07.46,Gen_Main,you,0,0,0,,Mai Todo estuvo increíble, ¿no?
+Dialogue: 0,0:06:07.55,0:06:10.40,Gen_Main,sen,0,0,0,,No pensé que Umi fuera a perder así.
+Dialogue: 0,0:06:10.48,0:06:12.48,Gen_Main,koto,0,0,0,,Pero ¡le lleva 20 cm!
+Dialogue: 0,0:06:12.56,0:06:14.43,Gen_Main,mob B,0,0,0,,Ser alta también es un talento, ¿no?
+Dialogue: 0,0:06:14.52,0:06:16.24,Gen_Main,mob C,0,0,0,,Pues a mí sí me decepcionó un poco.
+Dialogue: 0,0:06:16.32,0:06:19.14,Gen_Main,mob C,0,0,0,,Siempre se cree superior\Ny no deja de darnos órdenes.
+Dialogue: 0,0:06:19.23,0:06:21.78,Gen_Main,koto,0,0,0,,Si Nana fuera la capitana…
+Dialogue: 0,0:06:23.58,0:06:25.60,Gen_Main,yuzuki,0,0,0,,¡Vamos, concéntrense!
+Dialogue: 0,0:06:28.70,0:06:30.96,Gen_Main,misaki,0,0,0,,¿Te vas a quedar ahí todo el día?
+Dialogue: 0,0:06:32.34,0:06:35.41,Gen_Main,misaki,0,0,0,,Anda, ve a traer a esa tonta.
+Dialogue: 0,0:06:49.86,0:06:51.47,Gen_Main,saku,0,0,0,,Hola, enana.
+Dialogue: 0,0:06:53.36,0:06:57.23,Gen_Main,haru,0,0,0,,Jefe, ¿no tardaste un poco\Nen venir a consolarme?
+Dialogue: 0,0:06:57.66,0:07:00.06,Gen_Main,saku,0,0,0,,¿Quieres un besito en la frente?
+Dialogue: 0,0:07:00.21,0:07:03.74,Gen_Main,haru,0,0,0,,No te pedí que me hicieras sonrojar.
+Dialogue: 0,0:07:06.64,0:07:09.42,Gen_Main,saku,0,0,0,,Tu rival es buena, ¿eh?
+Dialogue: 0,0:07:10.77,0:07:12.74,Gen_Main,haru,0,0,0,,¿Mi rival?
+Dialogue: 0,0:07:12.98,0:07:15.62,Gen_Main,haru,0,0,0,,Ni siquiera se acuerda de mi nombre…
+Dialogue: 0,0:07:15.71,0:07:16.98,Gen_Main,haru,0,0,0,,Eso sí me dolió…
+Dialogue: 0,0:07:17.08,0:07:18.13,Gen_Main,haru,0,0,0,,¡Ay!
+Dialogue: 0,0:07:18.21,0:07:19.31,Gen_Main,saku,0,0,0,,¡Tonta!
+Dialogue: 0,0:07:19.41,0:07:22.59,Gen_Main,saku,0,0,0,,Yo tampoco recuerdo\Nlos nombres ni las caras de mis rivales.
+Dialogue: 0,0:07:24.30,0:07:26.76,Gen_Main,saku,0,0,0,,Pero sus jugadas no se me olvidan.
+Dialogue: 0,0:07:27.76,0:07:29.89,Gen_Main,saku,0,0,0,,¿Recuerdas lo que dijo Mai Todo?
+Dialogue: 0,0:07:30.38,0:07:33.64,Gen_Main,mai,0,0,0,,Eres tres veces más rápida\Nde lo que esperaba.
+Dialogue: 0,0:07:33.90,0:07:35.76,Gen_Main,saku,0,0,0,,"De lo que esperaba". ¿Entiendes?
+Dialogue: 0,0:07:36.06,0:07:39.25,Gen_Main,saku,0,0,0,,No dices algo así de alguien\Nde quien ni siquiera te acuerdas.
+Dialogue: 0,0:07:41.82,0:07:42.90,Gen_Main,haru,0,0,0,,Es verdad.
+Dialogue: 0,0:07:51.62,0:07:54.91,Gen_Italics,saku,0,0,0,,Recuerdo que Yuko decía\Nque disfrutaba del deporte
+Dialogue: 0,0:07:55.07,0:07:57.71,Gen_Italics,saku,0,0,0,,sin preocuparse por ganar o perder.
+Dialogue: 0,0:07:58.50,0:08:02.69,Gen_Italics,saku,0,0,0,,Nunca me burlé\Nde esa forma de vivir el deporte.
+Dialogue: 0,0:08:05.39,0:08:08.26,Gen_Italics,saku,0,0,0,,Batear la pelota más lejos que ayer.
+Dialogue: 0,0:08:08.94,0:08:10.98,Gen_Italics,saku,0,0,0,,Conseguir tu primer hit.
+Dialogue: 0,0:08:11.06,0:08:12.96,Gen_Italics,saku,0,0,0,,Atrapar bien un fly.
+Dialogue: 0,0:08:14.24,0:08:18.06,Gen_Italics,saku,0,0,0,,Con eso debería haberme bastado.
+Dialogue: 0,0:08:20.42,0:08:22.94,Gen_Main,yuko,0,0,0,,¡Saku! ¡Haru!
+Dialogue: 0,0:08:28.48,0:08:32.40,Gen_Main,saku,0,0,0,,Ojalá pudiera disfrutar del deporte\Ncomo lo hace ella.
+Dialogue: 0,0:08:33.04,0:08:35.79,Gen_Main,haru,0,0,0,,Nosotros no podemos.
+Dialogue: 0,0:08:36.27,0:08:38.70,Gen_Main,haru,0,0,0,,Nos tiene atrapados hasta el alma.
+Dialogue: 0,0:08:40.26,0:08:43.94,Gen_Italics,saku,0,0,0,,Desde niño, llevaba mi cuerpo\Nal límite todos los días.
+Dialogue: 0,0:08:44.58,0:08:49.02,Gen_Italics,saku,0,0,0,,Pasé por un fracaso tras otro\Ny noches en vela por la frustración…
+Dialogue: 0,0:08:50.42,0:08:54.22,Gen_Italics,saku,0,0,0,,Aun así quería mejorar.\NQuería ser el mejor de todos.
+Dialogue: 0,0:08:55.07,0:08:59.87,Gen_Italics,saku,0,0,0,,Y ni siquiera después de dejarlo\Nhe podido librarme de ese deseo.
+Dialogue: 0,0:09:00.25,0:09:03.57,Gen_Italics,saku,0,0,0,,"Atrapado".\NNo encuentro una palabra mejor.
+Dialogue: 0,0:09:04.95,0:09:07.58,Gen_Main,haru,0,0,0,,¿Qué opinas de lo que dijo Mai?
+Dialogue: 0,0:09:07.74,0:09:09.74,Gen_Main,saku,0,0,0,,¿Lo de los 20 cm?
+Dialogue: 0,0:09:09.87,0:09:11.71,Gen_Main,saku,0,0,0,,Eso no se puede negar.
+Dialogue: 0,0:09:12.02,0:09:15.08,Gen_Main,haru,0,0,0,,Sí, pienso lo mismo.
+Dialogue: 0,0:09:15.76,0:09:21.25,Gen_Main,haru,0,0,0,,Pero las chicas altas\Ntambién deben tener sus dificultades.
+Dialogue: 0,0:09:21.76,0:09:26.17,Gen_Main,haru,0,0,0,,Correr y saltar con esa estatura\Naumenta el riesgo de lesionarse.
+Dialogue: 0,0:09:26.55,0:09:28.26,Gen_Main,haru,0,0,0,,Es una gran jugadora,
+Dialogue: 0,0:09:28.40,0:09:33.26,Gen_Main,haru,0,0,0,,pero seguro que, por ser una chica,\Nha tenido que aguantar comentarios.
+Dialogue: 0,0:09:33.94,0:09:37.14,Gen_Main,haru,0,0,0,,No quiero ser de esas personas\Nque sienten envidia
+Dialogue: 0,0:09:37.39,0:09:40.02,Gen_Main,haru,0,0,0,,solo por lo que tienen los demás.
+Dialogue: 0,0:09:42.45,0:09:45.23,Gen_Main,haru,0,0,0,,¿Te puedo preguntar algo?
+Dialogue: 0,0:09:46.48,0:09:49.17,Gen_Main,haru,0,0,0,,¿Crees que el esfuerzo\Nsiempre tiene su recompensa?
+Dialogue: 0,0:09:49.25,0:09:50.90,Gen_Main,haru,0,0,0,,Si sigo esforzándome,
+Dialogue: 0,0:09:51.09,0:09:54.66,Gen_Main,haru,0,0,0,,¿crees que algún día podré superar\Na Mai y a otras como ella…
+Dialogue: 0,0:09:54.74,0:09:56.16,Gen_Main,haru,0,0,0,,y ganarles?
+Dialogue: 0,0:09:57.09,0:09:59.20,Gen_Italics,saku,0,0,0,,Creo que lo que Haru guardaba dentro
+Dialogue: 0,0:09:59.57,0:10:02.66,Gen_Italics,saku,0,0,0,,era un deseo sincero,\Nalgo que ni ella sabía cómo expresar.
+Dialogue: 0,0:10:03.82,0:10:06.13,Gen_Italics,saku,0,0,0,,"¿Está mal que viva así?".
+Dialogue: 0,0:10:06.67,0:10:08.80,Gen_Italics,saku,0,0,0,,Eso fue lo que creí escuchar.
+Dialogue: 0,0:10:10.43,0:10:11.87,Gen_Main,saku,0,0,0,,No sabría decirte.
+Dialogue: 0,0:10:12.17,0:10:13.18,Gen_Main,saku,0,0,0,,Pero…
+Dialogue: 0,0:10:13.81,0:10:17.55,Gen_Main,saku,0,0,0,,Nadie puede demostrar\Nque el esfuerzo siempre da frutos.
+Dialogue: 0,0:10:17.99,0:10:21.62,Gen_Main,saku,0,0,0,,Pero tampoco puede demostrar\Nque tu esfuerzo no los dará.
+Dialogue: 0,0:10:23.12,0:10:25.71,Gen_Main,saku,0,0,0,,Si hubiera bateado\Ncien pelotas más al día,
+Dialogue: 0,0:10:25.81,0:10:27.92,Gen_Main,saku,0,0,0,,¿habría mejorado?
+Dialogue: 0,0:10:28.02,0:10:30.27,Gen_Main,saku,0,0,0,,¿Habría llegado a ser el número uno?
+Dialogue: 0,0:10:30.86,0:10:33.89,Gen_Main,saku,0,0,0,,¿Y si hubieran sido 200? ¿O 300?
+Dialogue: 0,0:10:35.23,0:10:38.24,Gen_Main,saku,0,0,0,,Solo tú puedes descubrir\Nqué hay al final de ese camino.
+Dialogue: 0,0:10:38.53,0:10:42.62,Gen_Main,saku,0,0,0,,Si de verdad quieres saberlo,\Ntendrás que comprobarlo tú misma.
+Dialogue: 0,0:10:44.38,0:10:46.50,Gen_Main,haru,0,0,0,,Qué bueno que te lo pregunté a ti.
+Dialogue: 0,0:10:46.65,0:10:49.88,Gen_Main,haru,0,0,0,,Me encanta que digas esas cosas.\NTe quiero.
+Dialogue: 0,0:10:53.52,0:10:55.01,Gen_Main,haru,0,0,0,,Yo también voy a trabajar duro.
+Dialogue: 0,0:10:55.09,0:10:56.64,Gen_Main,haru,0,0,0,,No huyas.
+Dialogue: 0,0:11:22.54,0:11:24.04,Cart_A_Tre,CARTEL,0,0,0,,{\frz351\bord0\pos(376,69)\c&H565656&}Yakisoba gigante para estudiantes
+Dialogue: 0,0:11:23.01,0:11:25.79,Gen_Main,kaito,0,0,0,,¡Señora! ¡Cuatro gigantes con {\i1}tare{\i0}!
+Dialogue: 0,0:11:25.87,0:11:29.79,Gen_Main,tiazinha,0,0,0,,¿Otra vez?\N¡Me van a arruinar el negocio!
+Dialogue: 0,0:11:30.20,0:11:32.42,Gen_Main,tiazinha,0,0,0,,¿No son cinco? ¿Y la señorita?
+Dialogue: 0,0:11:32.64,0:11:34.38,Gen_Main,haru,0,0,0,,¡Yo quiero uno gigante!
+Dialogue: 0,0:11:34.46,0:11:36.62,Gen_Main,tiazinha,0,0,0,,¿Y el delgado con lentes?
+Dialogue: 0,0:11:36.72,0:11:39.64,Gen_Main,kenta,0,0,0,,Un yakisoba normal con salsa, por favor.
+Dialogue: 0,0:11:39.77,0:11:41.41,Gen_Main,tiazinha,0,0,0,,¿Por qué tienes tan poca hambre?
+Dialogue: 0,0:11:41.51,0:11:42.93,Gen_Main,tiazinha,0,0,0,,¡Uno gigante para ti también!
+Dialogue: 0,0:11:43.27,0:11:44.52,Gen_Main,saku,0,0,0,,Pero decídase.
+Dialogue: 0,0:11:47.52,0:11:51.50,Gen_Main,kaito,0,0,0,,Entiendo que Ucchi y Yuzuki\Nestén cuidando las calorías,
+Dialogue: 0,0:11:51.77,0:11:53.36,Gen_Main,kaito,0,0,0,,pero ¿no invitaste a Yuko?
+Dialogue: 0,0:11:56.06,0:11:58.41,Gen_Main,saku,0,0,0,,No quiere terminar con algas\Nentre los dientes.
+Dialogue: 0,0:11:59.78,0:12:01.25,Gen_Main,haru,0,0,0,,¿Qué pasa?
+Dialogue: 0,0:12:03.84,0:12:06.86,Gen_Main,kaito,0,0,0,,Por cierto, Kenta,\N¿ya hay alguna chica que te guste?
+Dialogue: 0,0:12:08.22,0:12:09.92,Gen_Main,kenta,0,0,0,,¿Por qué preguntas eso, Asano?
+Dialogue: 0,0:12:10.48,0:12:13.60,Gen_Main,kaito,0,0,0,,¡El verano es la estación del amor!
+Dialogue: 0,0:12:13.93,0:12:18.29,Gen_Main,kaito,0,0,0,,El verano pasado\Nsalieron parejas por todas partes.
+Dialogue: 0,0:12:18.38,0:12:19.79,Gen_Main,kaito,0,0,0,,¡Malditos…!
+Dialogue: 0,0:12:19.89,0:12:23.90,Gen_Main,kazuki,0,0,0,,Aunque muchas de esas parejas\Nterminaron cuando acabó el verano.
+Dialogue: 0,0:12:24.03,0:12:25.89,Gen_Main,kenta,0,0,0,,¡Pues se lo merecían!
+Dialogue: 0,0:12:26.28,0:12:28.23,Gen_Main,kaito,0,0,0,,Entonces, Kenta, ¿qué nos dices?
+Dialogue: 0,0:12:29.39,0:12:32.14,Gen_Main,kenta,0,0,0,,No sé si debería preguntar esto, pero…
+Dialogue: 0,0:12:32.34,0:12:34.82,Gen_Main,kenta,0,0,0,,Es un ejemplo, ¿sí? Solo un ejemplo.
+Dialogue: 0,0:12:35.19,0:12:38.65,Gen_Main,kenta,0,0,0,,Si a la chica que te gusta\Nle gustara un amigo tuyo,
+Dialogue: 0,0:12:38.96,0:12:42.24,Gen_Main,kenta,0,0,0,,¿qué harías si, además,
+Dialogue: 0,0:12:42.62,0:12:44.49,Gen_Main,kenta,0,0,0,,a tu amigo también le gustara ella?
+Dialogue: 0,0:12:55.13,0:12:58.90,Gen_Main,kaito,0,0,0,,¿Qué pasa, Kenta?\N¿Ahora eres nuestro rival en el amor?
+Dialogue: 0,0:12:58.98,0:13:00.18,Gen_Main,kenta,0,0,0,,¡No es eso!
+Dialogue: 0,0:13:00.26,0:13:02.06,Gen_Main,kaito,0,0,0,,¿Es Ucchi? ¿O Yuzuki?
+Dialogue: 0,0:13:02.90,0:13:05.17,Gen_Main,kaito,0,0,0,,¡Oye! ¿No estarás hablando de Haru?
+Dialogue: 0,0:13:05.71,0:13:08.77,Gen_Main,haru,0,0,0,,¿Y qué tendría eso de malo?
+Dialogue: 0,0:13:10.02,0:13:13.52,Gen_Main,haru,0,0,0,,Así que me ves con esos ojos…
+Dialogue: 0,0:13:13.73,0:13:18.14,Gen_Main,kenta,0,0,0,,No, eso es absolutamente imposible.\NNo te preocupes, Aomi.
+Dialogue: 0,0:13:18.29,0:13:22.70,Gen_Main,haru,0,0,0,,Perdón, Yamazaki,\Npero tu reacción sí me dolió un poco.
+Dialogue: 0,0:13:23.65,0:13:26.31,Gen_Italics,saku,0,0,0,,Qué bueno que Kaito alivió la tensión.
+Dialogue: 0,0:13:26.70,0:13:30.71,Gen_Italics,saku,0,0,0,,Aunque no me gustaba\Nhaberle dejado ese papel a él.
+Dialogue: 0,0:13:31.38,0:13:34.27,Gen_Italics,saku,0,0,0,,El nombre que había omitido,\Nquizá sin darse cuenta,
+Dialogue: 0,0:13:34.53,0:13:37.49,Gen_Italics,saku,0,0,0,,se quedó ahí, perdido,\Nsin ningún lugar adonde ir,
+Dialogue: 0,0:13:38.13,0:13:40.08,Gen_Italics,saku,0,0,0,,como un columpio vacío al atardecer.
+Dialogue: 0,0:13:42.22,0:13:46.53,Gen_Main,kaito,0,0,0,,Soy un tipo sencillo. Quiero gustarle\Na la chica que me gusta.
+Dialogue: 0,0:13:46.61,0:13:49.14,Gen_Main,kaito,0,0,0,,Y sería increíble salir con ella.
+Dialogue: 0,0:13:49.50,0:13:54.53,Gen_Main,kaito,0,0,0,,Pero si quien puede hacerla\Nmás feliz es un amigo mío,
+Dialogue: 0,0:13:54.73,0:13:58.15,Gen_Main,kaito,0,0,0,,no querría interponerme entre ellos.
+Dialogue: 0,0:13:58.86,0:14:03.76,Gen_Main,kaito,0,0,0,,Me enamoré de la sonrisa que tenía\Ncuando estaba con él.
+Dialogue: 0,0:14:04.43,0:14:08.22,Gen_Main,kaito,0,0,0,,Si aun así quisiera cambiar las cosas,\Nsería cuando sintiera
+Dialogue: 0,0:14:08.40,0:14:12.78,Gen_Main,kaito,0,0,0,,que puedo hacerla sonreír\Nmás que él. ¿No crees?
+Dialogue: 0,0:14:13.14,0:14:16.08,Gen_Main,kaito,0,0,0,,Entonces se la quitaría,\Naunque tuviera que pelear con él.
+Dialogue: 0,0:14:16.83,0:14:19.84,Gen_Main,haru,0,0,0,,Pues yo no lo veo así.
+Dialogue: 0,0:14:20.29,0:14:22.96,Gen_Main,haru,0,0,0,,Quiero hacer sonreír a quien me gusta.
+Dialogue: 0,0:14:23.22,0:14:25.54,Gen_Main,haru,0,0,0,,Quiero evitar que sufra.
+Dialogue: 0,0:14:25.64,0:14:28.02,Gen_Main,haru,0,0,0,,Estar a su lado si quiere llorar.
+Dialogue: 0,0:14:28.17,0:14:30.27,Gen_Main,haru,0,0,0,,No quiero que alguien más lo haga.
+Dialogue: 0,0:14:31.24,0:14:32.60,Gen_Main,haru,0,0,0,,¿Lo entiendes?
+Dialogue: 0,0:14:33.04,0:14:34.70,Gen_Main,kaito,0,0,0,,¡Sí que eres fuerte, Haru!
+Dialogue: 0,0:14:34.78,0:14:38.73,Gen_Main,kenta,0,0,0,,Pero ¡el verano emociona!\N¡Sientes que algo va a pasar!
+Dialogue: 0,0:14:38.82,0:14:40.81,Gen_Main,haru,0,0,0,,Sí, eso sí lo entiendo.
+Dialogue: 0,0:14:40.96,0:14:43.49,Gen_Main,haru,0,0,0,,¿Conocen esa expresión,\N"lo que dura un verano"?
+Dialogue: 0,0:14:44.05,0:14:47.36,Gen_Main,haru,0,0,0,,Es la única estación\Nque tiene un inicio y un final claros.
+Dialogue: 0,0:14:48.03,0:14:50.18,Gen_Main,haru,0,0,0,,Por eso, cuando termina,
+Dialogue: 0,0:14:50.38,0:14:53.75,Gen_Main,haru,0,0,0,,siento que yo también\Ntengo que cambiar en algo.
+Dialogue: 0,0:14:55.86,0:14:59.50,Gen_Main,kazuki,0,0,0,,¿Y qué va a cambiar este año?
+Dialogue: 0,0:15:02.21,0:15:03.21,Gen_Main,tiazinha,0,0,0,,¡Bienvenido!
+Dialogue: 0,0:15:07.12,0:15:08.97,Gen_Main,wataya,0,0,0,,¿Chitose?
+Dialogue: 0,0:15:09.76,0:15:10.76,Gen_Main,saku,0,0,0,,Hola.
+Dialogue: 0,0:15:10.85,0:15:13.47,Gen_Main,wataya,0,0,0,,Seguro que piensas:\N"Se lo tiene bien merecido".
+Dialogue: 0,0:15:13.66,0:15:15.48,Gen_Main,saku,0,0,0,,¿De qué está hablando?
+Dialogue: 0,0:15:17.18,0:15:18.96,Gen_Main,wataya,0,0,0,,Si no lo sabes, no importa.
+Dialogue: 0,0:15:23.18,0:15:24.27,Gen_Main,tiazinha,0,0,0,,Saku…
+Dialogue: 0,0:15:25.22,0:15:28.13,Gen_Main,tiazinha,0,0,0,,Lleva todo este tiempo deprimido.
+Dialogue: 0,0:15:28.34,0:15:31.12,Gen_Main,tiazinha,0,0,0,,Dice que arruinó\Na un jugador con mucho talento.
+Dialogue: 0,0:15:31.48,0:15:33.85,Gen_Main,saku,0,0,0,,Yo no creo que me haya arruinado.
+Dialogue: 0,0:15:34.14,0:15:37.50,Gen_Main,saku,0,0,0,,Sin importar lo que pasara,\Nyo decidí dejar el equipo.
+Dialogue: 0,0:15:37.81,0:15:41.73,Gen_Main,tiazinha,0,0,0,,Ni los adultos saben comportarse\Ncomo adultos todo el tiempo.
+Dialogue: 0,0:15:41.94,0:15:44.01,Gen_Main,tiazinha,0,0,0,,Eso es lo que intentaba decirte.
+Dialogue: 0,0:15:46.45,0:15:49.10,Gen_Italics,saku,0,0,0,,Ya es muy tarde para hablar de eso.
+Dialogue: 0,0:15:49.76,0:15:51.94,Gen_Italics,saku,0,0,0,,Aquel verano seguirá sin terminar.
+Dialogue: 0,0:15:57.40,0:15:58.40,Gen_Main,haru,0,0,0,,Chitose.
+Dialogue: 0,0:15:59.65,0:16:00.65,Gen_Main,haru,0,0,0,,Te buscan.
+Dialogue: 0,0:16:02.90,0:16:05.40,Cart_C_Tre,CARTEL,0,0,0,,{\c&H494949&\fs30\pos(393,42)}Fuji
+Dialogue: 0,0:16:08.41,0:16:11.57,Gen_Main,saku,0,0,0,,¿Yusuke se lesionó?\N¿Estará dos semanas sin jugar?
+Dialogue: 0,0:16:12.11,0:16:15.04,Gen_Main,hirano,0,0,0,,Se lastimó el tobillo\Nal deslizarse hacia home.
+Dialogue: 0,0:16:15.71,0:16:17.89,Gen_Main,hirano,0,0,0,,La primera ronda es este fin de semana.
+Dialogue: 0,0:16:18.51,0:16:19.71,Gen_Main,hirano,0,0,0,,No llegará a tiempo.
+Dialogue: 0,0:16:20.10,0:16:24.40,Gen_Italics,saku,0,0,0,,No tenía que arriesgarse tanto\Nen un amistoso antes del torneo…
+Dialogue: 0,0:16:24.84,0:16:29.57,Gen_Italics,saku,0,0,0,,Pero, cuando se trata del béisbol,\Nél siempre lo da todo.
+Dialogue: 0,0:16:30.21,0:16:33.46,Gen_Italics,saku,0,0,0,,Si yo hubiera sido el corredor,\Ntampoco habría dudado.
+Dialogue: 0,0:16:34.93,0:16:38.08,Gen_Italics,saku,0,0,0,,Yusuke no pudo jugar el año pasado.
+Dialogue: 0,0:16:38.34,0:16:41.58,Gen_Italics,saku,0,0,0,,Por fin tenía la oportunidad\Nde luchar por llegar al Koshien…
+Dialogue: 0,0:16:45.78,0:16:47.24,Gen_Main,saku,0,0,0,,¿Contra quién juegan?
+Dialogue: 0,0:16:47.32,0:16:48.56,Gen_Main,hirano,0,0,0,,La Preparatoria Echizen.
+Dialogue: 0,0:16:48.80,0:16:51.06,Gen_Main,saku,0,0,0,,¿También les fue mal en el sorteo?
+Dialogue: 0,0:16:51.60,0:16:55.62,Gen_Main,saku,0,0,0,,¿Y? ¿Quieren que vaya a visitarlo\Ncon un ramo de flores o qué?
+Dialogue: 0,0:16:55.93,0:16:58.73,Gen_Main,hirano,0,0,0,,Sé que es descarado pedírtelo,\Npero debo hacerlo, Saku.
+Dialogue: 0,0:17:00.90,0:17:02.50,Gen_Main,hirano,0,0,0,,Regresa al equipo.
+Dialogue: 0,0:17:03.07,0:17:05.62,Gen_Main,saku,0,0,0,,¿Te das cuenta de lo que estás pidiendo?
+Dialogue: 0,0:17:05.88,0:17:08.82,Gen_Main,hirano,0,0,0,,Contra la Preparatoria Echizen\Nserá un duelo de pitchers.
+Dialogue: 0,0:17:09.41,0:17:11.38,Gen_Main,hirano,0,0,0,,¡Necesitamos tu ayuda!
+Dialogue: 0,0:17:11.55,0:17:12.83,Gen_Main,saku,0,0,0,,¿Y eso a mí qué?
+Dialogue: 0,0:17:13.06,0:17:15.24,Gen_Main,saku,0,0,0,,No basta con que regrese para ganar.
+Dialogue: 0,0:17:15.92,0:17:17.87,Gen_Main,saku,0,0,0,,No se tomen el béisbol tan a la ligera.
+Dialogue: 0,0:17:18.67,0:17:22.35,Gen_Main,hirano,0,0,0,,¡Te lo pido porque tú\Nlo tomas más en serio que nadie!
+Dialogue: 0,0:17:22.71,0:17:25.07,Gen_Main,saku,0,0,0,,¿Yusuke les dijo que vinieran?
+Dialogue: 0,0:17:25.70,0:17:29.74,Gen_Main,hirano,0,0,0,,No. Nos pidió que no te contáramos nada\Npor ningún motivo.
+Dialogue: 0,0:17:30.10,0:17:33.58,Gen_Main,hirano,0,0,0,,Porque te preocuparías\Npor cosas que no tienen nada que ver
+Dialogue: 0,0:17:33.66,0:17:35.62,Gen_Main,hirano,0,0,0,,con tus ganas de jugar.
+Dialogue: 0,0:17:37.73,0:17:41.10,Gen_Main,hirano,0,0,0,,¡Nos disculparemos por lo que pasó\Nlas veces que quieras!
+Dialogue: 0,0:17:41.39,0:17:44.50,Gen_Main,hirano,0,0,0,,¡Quiero que Yusuke\Ntenga la oportunidad de jugar!
+Dialogue: 0,0:17:44.74,0:17:46.88,Gen_Main,hirano,0,0,0,,¡Lleva un año luchando a nuestro lado!
+Dialogue: 0,0:17:54.72,0:17:57.85,Gen_Main,haru,0,0,0,,¿Y ahora sí les conviene?
+Dialogue: 0,0:17:58.18,0:18:01.20,Gen_Main,haru,0,0,0,,¿Por qué no hicieron eso\Ncuando Chitose dejó el equipo?
+Dialogue: 0,0:18:01.51,0:18:03.65,Gen_Main,haru,0,0,0,,Si hubieran sido sus compañeros,
+Dialogue: 0,0:18:03.94,0:18:07.92,Gen_Main,haru,0,0,0,,¿no estaría ahora jugando\Ny persiguiendo la pelota con ustedes?
+Dialogue: 0,0:18:08.23,0:18:09.98,Gen_Main,haru,0,0,0,,Si lo odiaban tanto
+Dialogue: 0,0:18:10.07,0:18:12.54,Gen_Main,haru,0,0,0,,que ni intentaron detenerlo,\Nlo entiendo.
+Dialogue: 0,0:18:12.79,0:18:16.37,Gen_Main,haru,0,0,0,,Pero ¡entonces no vuelvan\Na meterse en su vida!
+Dialogue: 0,0:18:17.28,0:18:18.96,Gen_Main,hirano,0,0,0,,¿Y tú qué sabes de nosotros?
+Dialogue: 0,0:18:19.11,0:18:21.22,Gen_Main,haru,0,0,0,,¡Nada! ¡Ni me interesa saberlo!
+Dialogue: 0,0:18:21.43,0:18:25.04,Gen_Main,haru,0,0,0,,No sé cómo se siente ser un cobarde\Ncon mentalidad de perdedor.
+Dialogue: 0,0:18:25.71,0:18:27.60,Gen_Main,haru,0,0,0,,En el torneo del verano pasado,
+Dialogue: 0,0:18:27.68,0:18:30.93,Gen_Main,haru,0,0,0,,dejaron de intentar ganar\Na mitad del partido, ¿no?
+Dialogue: 0,0:18:31.01,0:18:35.44,Gen_Main,haru,0,0,0,,Decían que ya lo estaban haciendo bien\Npara enfrentarse a un rival así.
+Dialogue: 0,0:18:35.64,0:18:38.10,Gen_Main,haru,0,0,0,,Ya jugaban pensando en las excusas.
+Dialogue: 0,0:18:38.46,0:18:43.98,Gen_Main,haru,0,0,0,,Solo Chitose siguió ardiendo\Nde ganas de ganar hasta el final.
+Dialogue: 0,0:18:44.82,0:18:47.76,Gen_Main,haru,0,0,0,,¿Ver caer a alguien\Nque tenía más que ustedes
+Dialogue: 0,0:18:47.86,0:18:51.02,Gen_Main,haru,0,0,0,,satisfizo su ego mezquino?
+Dialogue: 0,0:18:54.94,0:18:57.74,Gen_Main,saku,0,0,0,,Lo siento,\Npero no he cambiado de opinión.
+Dialogue: 0,0:19:00.48,0:19:02.29,Gen_Main,hirano,0,0,0,,Perdón por quitarte tiempo.
+Dialogue: 0,0:19:08.03,0:19:11.12,Gen_Main,haru,0,0,0,,Chitose, espérame\Nhasta que termine de entrenar.
+Dialogue: 0,0:19:11.87,0:19:15.33,Gen_Main,haru,0,0,0,,Hoy no te vayas a casa sin mí.
+Dialogue: 0,0:19:18.89,0:19:21.15,Gen_Main,saku,0,0,0,,Eso dolió, tonta.
+Dialogue: 0,0:19:37.60,0:19:40.38,Gen_Main,haru,0,0,0,,Vengo aquí seguido.
+Dialogue: 0,0:19:40.46,0:19:43.95,Gen_Main,haru,0,0,0,,Cuando estoy desanimada\No me frustro en el entrenamiento,
+Dialogue: 0,0:19:44.19,0:19:46.19,Gen_Main,haru,0,0,0,,cuando siento que estoy por rendirme…
+Dialogue: 0,0:19:47.63,0:19:51.29,Gen_Main,haru,0,0,0,,Y cuando no logro ver un futuro.
+Dialogue: 0,0:19:52.22,0:19:54.92,Gen_Main,saku,0,0,0,,Hasta a ti te pasa, ¿no?
+Dialogue: 0,0:19:55.37,0:19:59.34,Gen_Main,haru,0,0,0,,Cuando juegas baloncesto a mi estatura,\Nte pasa todo el tiempo.
+Dialogue: 0,0:20:00.05,0:20:02.93,Gen_Main,haru,0,0,0,,Por eso vengo aquí y grito.
+Dialogue: 0,0:20:03.15,0:20:06.43,Gen_Main,haru,0,0,0,,Con todas mis fuerzas.\NLo dejo salir todo hacia el río Asuwa.
+Dialogue: 0,0:20:06.74,0:20:09.69,Gen_Main,haru,0,0,0,,"¡Umi, eres idiota!". Cosas así.
+Dialogue: 0,0:20:10.19,0:20:13.31,Gen_Main,saku,0,0,0,,No te desquites con el río.\N"Umi" significa "mar", ¿no?
+Dialogue: 0,0:20:15.14,0:20:17.84,Gen_Main,haru,0,0,0,,Es difícil llegar a la cima, ¿no?
+Dialogue: 0,0:20:18.02,0:20:21.98,Gen_Main,haru,0,0,0,,Pero siempre he tenido la suerte\Nde contar con muy buenos amigos.
+Dialogue: 0,0:20:22.54,0:20:25.75,Gen_Main,haru,0,0,0,,Ahora tengo a Nana, a Sen, a Yoh…
+Dialogue: 0,0:20:25.92,0:20:29.62,Gen_Main,haru,0,0,0,,Aunque se quejen, siempre me acompañan.
+Dialogue: 0,0:20:31.30,0:20:36.03,Gen_Main,haru,0,0,0,,Mai tiene razón.\NAún tengo carencias como jugadora.
+Dialogue: 0,0:20:36.43,0:20:40.47,Gen_Main,haru,0,0,0,,Pero, con ellas a mi lado,\Nestoy segura de que la próxima ganaré.
+Dialogue: 0,0:20:44.80,0:20:46.58,Gen_Main,haru,0,0,0,,¿Recuerdas nuestra apuesta?
+Dialogue: 0,0:20:46.94,0:20:49.19,Gen_Main,haru,0,0,0,,La de los columpios al atardecer.
+Dialogue: 0,0:20:49.42,0:20:52.31,Gen_Main,saku,0,0,0,,El que pierda… A ver…
+Dialogue: 0,0:20:52.88,0:20:57.49,Gen_Main,saku,0,0,0,,¿Qué tal si le cuenta al ganador\Nlo que le duele, sin guardarse nada?
+Dialogue: 0,0:20:57.70,0:20:58.95,Gen_Main,haru,0,0,0,,¡Trato hecho!
+Dialogue: 0,0:20:59.44,0:21:02.33,Gen_Main,haru,0,0,0,,Como fui la ganadora ese día,\Nte lo ordeno.
+Dialogue: 0,0:21:02.62,0:21:04.58,Gen_Main,haru,0,0,0,,¡Dilo todo! ¡Aquí y ahora!
+Dialogue: 0,0:21:05.65,0:21:09.42,Gen_Italics,saku,0,0,0,,La canica en mi mente\Nrodaba y tintineaba.
+Dialogue: 0,0:21:10.25,0:21:13.18,Gen_Italics,saku,0,0,0,,Llevaba tanto tiempo atrapada\Nen una botella de vidrio.
+Dialogue: 0,0:21:13.31,0:21:15.00,Gen_Italics,saku,0,0,0,,Era un sonido muy frágil.
+Dialogue: 0,0:21:16.54,0:21:18.09,Gen_Main,haru,0,0,0,,No te preocupes.
+Dialogue: 0,0:21:18.38,0:21:22.93,Gen_Main,haru,0,0,0,,Aunque estés triste,\Nsiempre voy a hacerte sonreír.
+Dialogue: 0,0:21:23.60,0:21:25.87,Gen_Main,haru,0,0,0,,Si quieres llorar, estaré contigo.
+Dialogue: 0,0:21:25.97,0:21:28.52,Gen_Main,haru,0,0,0,,Si te enojas, me enojaré contigo.
+Dialogue: 0,0:21:28.99,0:21:31.19,Gen_Main,haru,0,0,0,,Te regañaré cuando des lástima
+Dialogue: 0,0:21:31.35,0:21:34.19,Gen_Main,haru,0,0,0,,y te daré valor\Ncuando no puedas volver a levantarte.
+Dialogue: 0,0:21:35.39,0:21:37.67,Gen_Main,haru,0,0,0,,Así que adelante. Dímelo.
+Dialogue: 0,0:21:40.22,0:21:43.02,Gen_Italics,saku,0,0,0,,De verdad es deslumbrante.
+Dialogue: 0,0:21:44.05,0:21:47.01,Gen_Italics,saku,0,0,0,,Tal vez pueda confiarle\Na esta chica la carga
+Dialogue: 0,0:21:47.34,0:21:49.63,Gen_Italics,saku,0,0,0,,que llevo tanto tiempo soportando solo.
+Dialogue: 0,0:21:50.38,0:21:53.46,Gen_Italics,saku,0,0,0,,Quizá ella pueda disipar la oscuridad
+Dialogue: 0,0:21:53.83,0:21:56.71,Gen_Italics,saku,0,0,0,,que se aferra a mi corazón\Ny no quiere irse.
+Dialogue: 0,0:21:58.14,0:22:00.54,Gen_Italics,saku,0,0,0,,Brilla con tanta fuerza como el sol.
+Dialogue: 0,0:22:01.56,0:22:02.98,Gen_Italics,saku,0,0,0,,Frente a esa sonrisa, yo…
+Dialogue: 0,0:23:30.76,0:23:35.02,Cart_A_Tre,CARTEL,0,0,0,,{\fs18\an9}Traducción: Traducción: G.G.A.\NEdición: José María Pérez\NControl de calidad: Néstor Rubio
+Dialogue: 0,0:23:35.56,0:23:40.06,Cart_A_Tre,CARTEL,0,0,0,,{\fad(700,0)\an7\fs16\blur2\c&HE9AD56&\3c&HEFEFF1&\pos(42,238)}Próximo episodio\N{\fs20}\h\hUna Orihime enojada y un Hikoboshi llorón
+Dialogue: 0,0:23:36.70,0:23:39.73,Gen_Main_Up,,0,0,0,,"Una Orihime enojada\Ny un Hikoboshi llorón".
+
