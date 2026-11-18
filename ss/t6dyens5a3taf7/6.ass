@@ -1,0 +1,342 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,20,20,20,1
+Style: Italique,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,2,20,20,20,1
+Style: TiretsDefault,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,1,20,20,20,1
+Style: Sign,Arial,21,&H00FFFFFF,&H000000FF,&H00292929,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:13.72,0:01:22.65,Sign,Sign,0,0,0,,CHITOSE IS IN THE RAMUNE BOTTLE
+Dialogue: 0,0:01:33.15,0:01:36.92,Default,Tominaga,0,0,0,,Tu es sûre que ça vaut le coup ?\NOn connaît l’issue de ce duel.
+Dialogue: 0,0:01:37.11,0:01:40.71,Default,Misaki,0,0,0,,Je te conseille de ne pas\Nsous-estimer l’as de notre équipe.
+Dialogue: 0,0:01:41.14,0:01:43.20,Default,Tominaga,0,0,0,,Vous avez une très bonne équipe,
+Dialogue: 0,0:01:43.33,0:01:46.92,Default,Tominaga,0,0,0,,et son duo avec la meneuse\Nest clairement une menace pour nous.
+Dialogue: 0,0:01:47.22,0:01:50.73,Default,Misaki,0,0,0,,Avec Nana,\Nça vaudrait la peine de s’entraîner,
+Dialogue: 0,0:01:50.95,0:01:54.20,Default,Misaki,0,0,0,,mais Umi seule\Nn’a pas autant de valeur. C’est ça ?
+Dialogue: 0,0:01:56.23,0:02:00.11,Default,Tominaga,0,0,0,,Elles ne deviennent une menace\Nque quand elles sont ensemble.
+Dialogue: 0,0:02:00.60,0:02:03.85,Default,Tominaga,0,0,0,,Tu te revois en elle, c’est ça ?
+Dialogue: 0,0:02:07.01,0:02:08.15,Default,Misaki,0,0,0,,Pas du tout.
+Dialogue: 0,0:02:08.61,0:02:10.80,Default,Misaki,0,0,0,,Je faisais face à un mur
+Dialogue: 0,0:02:10.98,0:02:13.27,Default,Misaki,0,0,0,,bien moins haut que le sien.
+Dialogue: 0,0:02:14.02,0:02:18.21,Default,Tominaga,0,0,0,,Je te préviens, nos joueuses\Nne font pas dans la dentelle.
+Dialogue: 0,0:02:21.15,0:02:23.90,Default,Misaki,0,0,0,,Le lycée Ashiba est toujours\Naussi fort.
+Dialogue: 0,0:02:32.64,0:02:33.72,Default,Mai,0,0,0,,Bon !
+Dialogue: 0,0:02:34.68,0:02:35.77,Default,Mai,0,0,0,,On s’y met ?
+Dialogue: 0,0:02:36.82,0:02:38.10,Default,Haru,0,0,0,,Et les règles ?
+Dialogue: 0,0:02:38.32,0:02:41.56,Default,Mai,0,0,0,,Où qu’on tire, ça vaut un point.\NDix pour gagner.
+Dialogue: 0,0:02:41.71,0:02:43.84,Default,Mai,0,0,0,,Quand on nous vole la balle,\Non change.
+Dialogue: 0,0:02:44.09,0:02:45.73,Default,Mai,0,0,0,,C’est toi qui commences.
+Dialogue: 0,0:02:46.95,0:02:49.82,Default,Haru,0,0,0,,C’est bien généreux de ta part.
+Dialogue: 0,0:02:50.20,0:02:51.54,Default,Chitose,0,0,0,,Je comprends pas.
+Dialogue: 0,0:02:53.28,0:02:56.57,Default,Nanase,0,0,0,,Umi est du genre à jouer\Nprès du panier,
+Dialogue: 0,0:02:56.72,0:02:59.39,Default,Nanase,0,0,0,,mais Tôdô peut mettre\Ndes trois points de loin.
+Dialogue: 0,0:03:00.30,0:03:02.85,Default,Nanase,0,0,0,,Si un tir vaut toujours un point,
+Dialogue: 0,0:03:03.02,0:03:06.11,Default,Nanase,0,0,0,,c’est un handicap\Npour la petite taille de Haru.
+Dialogue: 0,0:03:06.24,0:03:08.25,Default,Nanase,0,0,0,,Elle la laisse même commencer.
+Dialogue: 0,0:03:08.79,0:03:10.52,Default,Nanase,0,0,0,,Tôdô la prend pas au sérieux.
+Dialogue: 0,0:03:12.52,0:03:14.42,Default,Mai,0,0,0,,Ça a l’air de t’agacer.
+Dialogue: 0,0:03:14.67,0:03:18.92,Default,Haru,0,0,0,,T’inquiète.\NDéjà que tu acceptes de m’affronter.
+Dialogue: 0,0:03:19.51,0:03:20.65,Default,Haru,0,0,0,,Par contre,
+Dialogue: 0,0:03:20.80,0:03:24.03,Default,Haru,0,0,0,,si je gagne, on se la refait\Navec des règles correctes.
+Dialogue: 0,0:03:24.32,0:03:26.39,Default,Mai,0,0,0,,Allez, ça marche.
+Dialogue: 0,0:03:35.69,0:03:37.74,Default,Haru,0,0,0,,T’es un peu plus motivée, là ?
+Dialogue: 0,0:03:37.96,0:03:41.36,Default,Mai,0,0,0,,J’ai presque jamais eu l’occasion\Nde faire des un contre un.
+Dialogue: 0,0:03:41.49,0:03:44.40,Default,Mai,0,0,0,,T’es trois fois plus rapide\Nque ce que j’imaginais.
+Dialogue: 0,0:03:44.63,0:03:48.64,Default,Nanase,0,0,0,,Son dribble est hyper vif,\Nau début et dans les changements.
+Dialogue: 0,0:03:48.80,0:03:51.36,Default,Nanase,0,0,0,,On lui pique pas la balle comme ça.
+Dialogue: 0,0:03:53.70,0:03:55.30,Default,Mai,0,0,0,,Allez, encore une fois.
+Dialogue: 0,0:03:55.57,0:03:57.52,Default,Haru,0,0,0,,Si tu clignes des yeux, je passe.
+Dialogue: 0,0:04:09.04,0:04:11.23,Default,Mai,0,0,0,,Aomi, c’est ça ?
+Dialogue: 0,0:04:11.57,0:04:13.07,Default,Haru,0,0,0,,Tu peux m’appeler Haru.
+Dialogue: 0,0:04:13.20,0:04:16.32,Default,Mai,0,0,0,,T’es plutôt douée, Haru.\NMoi, tu peux m’appeler Mai.
+Dialogue: 0,0:04:16.68,0:04:19.29,Default,Haru,0,0,0,,OK, Mai. On continue ?
+Dialogue: 0,0:04:19.61,0:04:22.47,Default,Mai,0,0,0,,Non, j’accepte ma défaite,\Nc’est bon.
+Dialogue: 0,0:04:22.79,0:04:25.70,Default,Haru,0,0,0,,Qu’est-ce que tu veux dire par là ?
+Dialogue: 0,0:04:39.84,0:04:41.27,Default,Mai,0,0,0,,T’as un bon jeu de poignet,
+Dialogue: 0,0:04:41.44,0:04:44.93,Default,Mai,0,0,0,,mais inutile contre une adversaire\Nqui sait voler comme toi.
+Dialogue: 0,0:04:45.36,0:04:46.52,Default,Haru,0,0,0,,Bon sang…
+Dialogue: 0,0:04:46.72,0:04:48.31,Default,Nanase,0,0,0,,C’était à prévoir…
+Dialogue: 0,0:04:48.46,0:04:50.46,Default,Chitose,0,0,0,,C’est à cause de sa taille ?
+Dialogue: 0,0:04:50.78,0:04:53.52,Default,Nanase,0,0,0,,Moi, le meilleur tir de Tôdô,
+Dialogue: 0,0:04:53.66,0:04:56.77,Default,Nanase,0,0,0,,même en sautant\Nle plus haut possible,
+Dialogue: 0,0:04:56.93,0:04:58.91,Default,Nanase,0,0,0,,j’aurais du mal à le contrer.
+Dialogue: 0,0:04:59.41,0:05:03.41,Default,Nanase,0,0,0,,Contre Haru, par contre,\Nun saut léger et c’est réglé.
+Dialogue: 0,0:05:03.80,0:05:06.46,Default,Chitose,0,0,0,,Malgré sa rapidité,\Nelle se fait rattraper.
+Dialogue: 0,0:05:07.01,0:05:11.55,Default,Nanase,0,0,0,,Umi a un temps de suspension très long,\Nmais c’est pareil pour Tôdô.
+Dialogue: 0,0:05:11.76,0:05:16.23,Default,Nanase,0,0,0,,À avantage égal,\Nc’est la plus grande qui l’emporte.
+Dialogue: 0,0:05:18.07,0:05:21.20,Default,Nanase,0,0,0,,Même si elle échoue,\Nn’aie pas pitié d’elle, d’accord ?
+Dialogue: 0,0:05:22.44,0:05:25.19,Default,Nanase,0,0,0,,Elle essaie de donner l’exemple.
+Dialogue: 0,0:05:28.93,0:05:31.56,Default,Mai,0,0,0,,Je m’y attendais, va.
+Dialogue: 0,0:05:32.82,0:05:33.99,Default,Mai,0,0,0,,Dommage.
+Dialogue: 0,0:05:41.48,0:05:44.68,Default,Mai,0,0,0,,Vingt centimètres de plus,\Net j’étais cuite.
+Dialogue: 0,0:05:45.08,0:05:49.45,Default,Mai,0,0,0,,Mais au basket, cette différence\Nest loin d’être négligeable.
+Dialogue: 0,0:05:50.94,0:05:54.00,Default,Mai,0,0,0,,J’aurais bien aimé affronter\Nune Haru de 1,70 m.
+Dialogue: 0,0:05:55.53,0:05:58.77,Default,Haru,0,0,0,,Tu dis tout ça\Ncomme si c’était déjà plié.
+Dialogue: 0,0:05:59.10,0:06:00.43,Default,Mai,0,0,0,,Tu veux continuer ?
+Dialogue: 0,0:06:00.68,0:06:02.93,Default,Haru,0,0,0,,Bien sûr. Je vais te détruire.
+Dialogue: 0,0:06:05.39,0:06:07.40,Default,Yô,0,0,0,,Mai Tôdô était incroyable.
+Dialogue: 0,0:06:07.55,0:06:12.13,TiretsDefault,Sen/Koto,170,0,0,,– Mais qu’Umi perde comme ça…\N– Vu l’écart de taille !
+Dialogue: 0,0:06:12.28,0:06:14.40,Default,Joueuse B,0,0,0,,C’est pas un petit détail.
+Dialogue: 0,0:06:14.53,0:06:16.15,Default,Joueuse C,0,0,0,,Je suis juste un peu déçue.
+Dialogue: 0,0:06:16.30,0:06:19.15,Default,Joueuse C,0,0,0,,Quand tu la vois\Nnous donner des ordres, là…
+Dialogue: 0,0:06:19.30,0:06:21.78,Default,Koto,0,0,0,,Nana aurait fait\Nune meilleure capitaine.
+Dialogue: 0,0:06:23.53,0:06:25.70,Default,Nanase,0,0,0,,Allez, on se concentre !
+Dialogue: 0,0:06:28.93,0:06:31.14,Default,Misaki,0,0,0,,Tu comptes rester planté là ?
+Dialogue: 0,0:06:32.31,0:06:35.43,Default,Misaki,0,0,0,,Va la chercher, tu veux bien ?
+Dialogue: 0,0:06:49.87,0:06:51.48,Default,Chitose,0,0,0,,Salut, toi.
+Dialogue: 0,0:06:53.35,0:06:57.23,Default,Haru,0,0,0,,C’est un peu tard pour tenter\Nde me réconforter, cher époux.
+Dialogue: 0,0:06:57.57,0:07:00.02,Default,Chitose,0,0,0,,Tu veux un petit bisou\Nsur le front ?
+Dialogue: 0,0:07:00.20,0:07:03.56,Default,Haru,0,0,0,,Épargne-moi toute humiliation.
+Dialogue: 0,0:07:06.69,0:07:09.55,Default,Chitose,0,0,0,,Tu as une rivale redoutable,\Non dirait.
+Dialogue: 0,0:07:10.73,0:07:12.74,Default,Haru,0,0,0,,Une rivale, je sais pas.
+Dialogue: 0,0:07:13.00,0:07:15.62,Default,Haru,0,0,0,,Elle se souvenait même pas\Nde mon nom.
+Dialogue: 0,0:07:15.78,0:07:17.86,Default,Haru,0,0,0,,C’est dire à quel point… Aïe !
+Dialogue: 0,0:07:18.13,0:07:19.17,Default,Chitose,0,0,0,,T’es bête ?
+Dialogue: 0,0:07:19.30,0:07:22.62,Default,Chitose,0,0,0,,Moi-même, j’ai jamais retenu\Nle nom de mes adversaires.
+Dialogue: 0,0:07:24.17,0:07:26.76,Default,Chitose,0,0,0,,Mais j’ai leurs jeux\Ngravés dans ma mémoire.
+Dialogue: 0,0:07:27.78,0:07:29.74,Default,Chitose,0,0,0,,T’as entendu ce qu’elle t’a dit ?
+Dialogue: 0,0:07:30.36,0:07:33.43,Italique,Mai,0,0,0,,T’es trois fois plus rapide\Nque ce que j’imaginais.
+Dialogue: 0,0:07:33.93,0:07:35.75,Default,Chitose,0,0,0,,« Que ce que j’imaginais. »
+Dialogue: 0,0:07:36.04,0:07:39.06,Default,Chitose,0,0,0,,Elle aurait pas dit ça\Nsans aucun souvenir de toi.
+Dialogue: 0,0:07:41.75,0:07:42.91,Default,Haru,0,0,0,,Peut-être.
+Dialogue: 0,0:07:51.66,0:07:54.92,Italique,Chitose,0,0,0,,Un jour, Yûko m’a dit\Nne pas se soucier
+Dialogue: 0,0:07:55.07,0:07:57.80,Italique,Chitose,0,0,0,,de perdre ou de gagner,\Ntant qu’elle s’amusait.
+Dialogue: 0,0:07:58.42,0:08:02.81,Italique,Chitose,0,0,0,,Je jure n’avoir jamais méprisé\Ncette façon de pratiquer le sport.
+Dialogue: 0,0:08:05.32,0:08:08.30,Italique,Chitose,0,0,0,,Lancer la balle\Nplus loin que la veille,
+Dialogue: 0,0:08:08.93,0:08:10.79,Italique,Chitose,0,0,0,,réussir mon premier coup sûr
+Dialogue: 0,0:08:11.18,0:08:13.09,Italique,Chitose,0,0,0,,ou bien attraper une chandelle…
+Dialogue: 0,0:08:14.35,0:08:18.07,Italique,Chitose,0,0,0,,Ça aurait dû suffire à me combler,\Net pourtant…
+Dialogue: 0,0:08:20.37,0:08:22.95,Default,Yûko,0,0,0,,Saku ! Haru !
+Dialogue: 0,0:08:28.52,0:08:32.53,Default,Chitose,0,0,0,,J’aimerais pouvoir pratiquer un sport\Njuste pour m’amuser, moi aussi.
+Dialogue: 0,0:08:32.94,0:08:35.78,Default,Haru,0,0,0,,Pour nous, c’est impossible.
+Dialogue: 0,0:08:36.33,0:08:38.66,Default,Haru,0,0,0,,Le sport a volé notre âme.
+Dialogue: 0,0:08:40.21,0:08:44.02,Italique,Chitose,0,0,0,,Depuis mon enfance,\Nj’ai malmené mon corps au quotidien,
+Dialogue: 0,0:08:44.54,0:08:46.53,Italique,Chitose,0,0,0,,goûté à l’échec de nombreuses fois,
+Dialogue: 0,0:08:46.74,0:08:49.02,Italique,Chitose,0,0,0,,traversé des nuits blanches\Nde rage,
+Dialogue: 0,0:08:50.39,0:08:52.46,Italique,Chitose,0,0,0,,tout ça pour devenir plus fort,
+Dialogue: 0,0:08:52.84,0:08:54.23,Italique,Chitose,0,0,0,,pour être le premier.
+Dialogue: 0,0:08:55.05,0:08:59.99,Italique,Chitose,0,0,0,,J’ai beau avoir arrêté tout ça,\Nmon âme n’est pas revenue à moi.
+Dialogue: 0,0:09:00.19,0:09:03.39,Italique,Chitose,0,0,0,,Donc oui, c’est sûr,\Nelle m’a bien été volée.
+Dialogue: 0,0:09:04.81,0:09:07.65,Default,Haru,0,0,0,,Qu’est-ce que tu penses\Nde ce que Mai m’a dit ?
+Dialogue: 0,0:09:07.84,0:09:09.64,Default,Chitose,0,0,0,,Sur les vingt centimètres ?
+Dialogue: 0,0:09:09.85,0:09:11.70,Default,Chitose,0,0,0,,C’est un argument, en effet.
+Dialogue: 0,0:09:11.97,0:09:15.07,Default,Haru,0,0,0,,Oui, c’est ce que je pense aussi.
+Dialogue: 0,0:09:15.75,0:09:18.50,Default,Haru,0,0,0,,Mais je parie que les filles grandes
+Dialogue: 0,0:09:18.64,0:09:21.08,Default,Haru,0,0,0,,ont aussi leurs propres tourments.
+Dialogue: 0,0:09:21.71,0:09:23.86,Default,Haru,0,0,0,,Courir et sauter avec cette taille,
+Dialogue: 0,0:09:24.01,0:09:26.31,Default,Haru,0,0,0,,c’est risquer la blessure\Nen permanence.
+Dialogue: 0,0:09:26.49,0:09:29.88,Default,Haru,0,0,0,,Au basket, elle est au sommet,\Nmais dans la vie,
+Dialogue: 0,0:09:30.04,0:09:33.11,Default,Haru,0,0,0,,elle a dû recevoir\Ndes remarques blessantes.
+Dialogue: 0,0:09:33.85,0:09:37.20,Default,Haru,0,0,0,,Je veux pas faire partie\Nde celles qui jalousent les autres
+Dialogue: 0,0:09:37.33,0:09:39.70,Default,Haru,0,0,0,,en ne voyant\Nque ce qu’elles possèdent.
+Dialogue: 0,0:09:42.40,0:09:45.26,Default,Haru,0,0,0,,Je peux te poser une question ?
+Dialogue: 0,0:09:46.39,0:09:49.02,Default,Haru,0,0,0,,L’effort est toujours récompensé,\Ntu crois ?
+Dialogue: 0,0:09:49.23,0:09:52.50,Default,Haru,0,0,0,,Si je continue à m’entraîner dur,\Ntu crois qu’un jour,
+Dialogue: 0,0:09:52.66,0:09:56.03,Default,Haru,0,0,0,,je pourrai battre Mai,\Net même des filles encore plus fortes ?
+Dialogue: 0,0:09:57.12,0:09:59.16,Italique,Chitose,0,0,0,,Ce que Haru porte en elle,
+Dialogue: 0,0:09:59.51,0:10:02.77,Italique,Chitose,0,0,0,,ce doit seulement être\Nun vœu abstrait et pur.
+Dialogue: 0,0:10:03.68,0:10:06.27,Italique,Chitose,0,0,0,,« Ma façon de vivre\Nest-elle une erreur ? »
+Dialogue: 0,0:10:06.61,0:10:08.80,Italique,Chitose,0,0,0,,C’est la question\Nqu’elle me posait.
+Dialogue: 0,0:10:10.45,0:10:12.08,Default,Chitose,0,0,0,,J’en ai aucune idée.
+Dialogue: 0,0:10:12.28,0:10:13.17,Default,Chitose,0,0,0,,Mais bon,
+Dialogue: 0,0:10:13.85,0:10:17.61,Default,Chitose,0,0,0,,si personne peut prouver\Nque l’effort est récompensé,
+Dialogue: 0,0:10:17.89,0:10:21.52,Default,Chitose,0,0,0,,alors on peut pas non plus prouver\Nqu’il l’est jamais.
+Dialogue: 0,0:10:23.11,0:10:27.83,Default,Chitose,0,0,0,,En tirant cent fois plus chaque jour,\Nje serais peut-être devenu plus fort,
+Dialogue: 0,0:10:28.13,0:10:30.39,Default,Chitose,0,0,0,,voire le meilleur de tous.
+Dialogue: 0,0:10:30.81,0:10:34.06,Default,Chitose,0,0,0,,Ou alors, deux cents fois plus ?\NOu trois cents ?
+Dialogue: 0,0:10:35.20,0:10:38.16,Default,Chitose,0,0,0,,Y a que toi qui peux le découvrir,\Nen fait.
+Dialogue: 0,0:10:38.46,0:10:42.32,Default,Chitose,0,0,0,,Si tu veux connaître la réponse,\Nva la chercher toi-même.
+Dialogue: 0,0:10:44.26,0:10:46.48,Default,Haru,0,0,0,,J’ai bien fait\Nde te demander à toi.
+Dialogue: 0,0:10:46.62,0:10:49.74,Default,Haru,0,0,0,,Je te le confirme, t’es mon genre.\NJe t’aime !
+Dialogue: 0,0:10:53.45,0:10:56.64,Default,Haru,0,0,0,,Je vais me battre.\NAlors toi, n’abandonne pas, d’accord ?
+Dialogue: 0,0:11:22.54,0:11:24.04,Sign,Sign,0,0,0,,NOUILLES SAUTÉES AU JAMBON
+Dialogue: 0,0:11:22.98,0:11:24.04,Default,Kaito,0,0,0,,Madame !
+Dialogue: 0,0:11:24.18,0:11:25.79,Default,Kaito,0,0,0,,Quatre nouilles au jambon.
+Dialogue: 0,0:11:25.92,0:11:29.69,Default,Cheffe,0,0,0,,Encore ?\NÀ ce rythme, vous allez me dévaliser !
+Dialogue: 0,0:11:30.04,0:11:32.42,Default,Cheffe,0,0,0,,Vous êtes cinq, non ?\NEt la demoiselle ?
+Dialogue: 0,0:11:32.58,0:11:34.30,Default,Haru,0,0,0,,Moi, au jambon !
+Dialogue: 0,0:11:34.45,0:11:36.52,Default,Cheffe,0,0,0,,Et le jeune homme aux lunettes ?
+Dialogue: 0,0:11:36.67,0:11:39.64,Default,Kenta,0,0,0,,Pour moi,\Ndes nouilles sautées nature.
+Dialogue: 0,0:11:39.79,0:11:42.94,Default,Cheffe,0,0,0,,Tu es maigre comme un clou !\NPrends donc au jambon !
+Dialogue: 0,0:11:43.19,0:11:44.52,Default,Chitose,0,0,0,,On dévalisait pas ?
+Dialogue: 0,0:11:47.62,0:11:51.64,Default,Kaito,0,0,0,,Pour Uchi et Nanase qui font attention\Naux calories, je comprends,
+Dialogue: 0,0:11:51.78,0:11:53.37,Default,Kaito,0,0,0,,mais t’as pas invité Yûko ?
+Dialogue: 0,0:11:55.98,0:11:58.67,Default,Chitose,0,0,0,,Elle voulait pas\Navoir de l’algue entre les dents.
+Dialogue: 0,0:11:59.79,0:12:01.32,Default,Haru,0,0,0,,Et alors ?
+Dialogue: 0,0:12:03.68,0:12:04.62,Default,Kaito,0,0,0,,Au fait, Kenta,
+Dialogue: 0,0:12:05.09,0:12:06.93,Default,Kaito,0,0,0,,toujours pas de copine ?
+Dialogue: 0,0:12:08.14,0:12:09.92,Default,Kenta,0,0,0,,Pourquoi cette question ?
+Dialogue: 0,0:12:10.37,0:12:13.72,Default,Kaito,0,0,0,,C’est l’été !\NLa saison des amours !
+Dialogue: 0,0:12:13.93,0:12:19.65,Default,Kaito,0,0,0,,L’année dernière, à cette période,\Nplein de couples se sont formés !
+Dialogue: 0,0:12:19.82,0:12:23.91,Default,Kazuki,0,0,0,,Ouais, sauf que la plupart\Nse sont séparés sitôt l’été terminé.
+Dialogue: 0,0:12:24.07,0:12:25.90,Default,Kenta,0,0,0,,Ça, c’est bien fait pour eux !
+Dialogue: 0,0:12:26.21,0:12:28.23,Default,Kaito,0,0,0,,Alors, Kenta ? T’as pas répondu.
+Dialogue: 0,0:12:29.34,0:12:32.14,Default,Kenta,0,0,0,,Ma question est peut-être\Nun peu gênante,
+Dialogue: 0,0:12:32.30,0:12:34.98,Default,Kenta,0,0,0,,mais admettons…\Nj’ai bien dit « admettons »,
+Dialogue: 0,0:12:35.37,0:12:38.74,Default,Kenta,0,0,0,,que la fille que vous aimez\Npréfère un de vos amis,
+Dialogue: 0,0:12:38.90,0:12:41.91,Default,Kenta,0,0,0,,ou qu’un de vos amis et vous\Naimiez la même fille,
+Dialogue: 0,0:12:42.61,0:12:44.49,Default,Kenta,0,0,0,,vous feriez quoi, vous ?
+Dialogue: 0,0:12:55.32,0:12:59.00,Default,Kaito,0,0,0,,Bah alors, Kenta ?\NTu veux qu’on soit rivaux ?
+Dialogue: 0,0:12:59.18,0:13:00.18,Default,Kenta,0,0,0,,Pas du tout !
+Dialogue: 0,0:13:00.32,0:13:02.09,Default,Kaito,0,0,0,,C’est Uchi ? Ou Yuzuki ?
+Dialogue: 0,0:13:02.88,0:13:05.33,Default,Kaito,0,0,0,,Me dis pas que c’est Haru ?
+Dialogue: 0,0:13:05.59,0:13:08.92,Default,Haru,0,0,0,,Et pourquoi ?\NCe serait la honte, sinon ?
+Dialogue: 0,0:13:09.98,0:13:13.53,Default,Haru,0,0,0,,C’est ça, l’image que tu as de moi,\NYamazaki ?
+Dialogue: 0,0:13:13.85,0:13:16.51,Default,Kenta,0,0,0,,Non !\NC’était pas du tout dans ce sens-là !
+Dialogue: 0,0:13:16.66,0:13:18.41,Default,Kenta,0,0,0,,Ne t’en fais pas, Aomi.
+Dialogue: 0,0:13:18.75,0:13:22.69,Default,Haru,0,0,0,,Pardon, Yamazaki,\Nmais t’es presque blessant, tu sais.
+Dialogue: 0,0:13:23.46,0:13:26.47,Italique,Chitose,0,0,0,,C’est bien que Kaito\Nait lancé cette conversation,
+Dialogue: 0,0:13:26.67,0:13:30.71,Italique,Chitose,0,0,0,,même si j’aurais préféré\Nqu’il s’évite cette peine.
+Dialogue: 0,0:13:31.34,0:13:34.41,Italique,Chitose,0,0,0,,Sans doute qu’un nom oublié\Nsans qu’on s’en rende compte
+Dialogue: 0,0:13:34.54,0:13:37.66,Italique,Chitose,0,0,0,,est comme une balançoire abandonnée\Nau crépuscule.
+Dialogue: 0,0:13:38.03,0:13:40.11,Italique,Chitose,0,0,0,,Immobile, sans nulle part où aller.
+Dialogue: 0,0:13:42.20,0:13:44.12,Default,Kaito,0,0,0,,Je suis un mec simple, moi.
+Dialogue: 0,0:13:44.29,0:13:49.08,Default,Kaito,0,0,0,,Si mes sentiments sont partagés\Net qu’on peut sortir ensemble, parfait.
+Dialogue: 0,0:13:49.41,0:13:54.54,Default,Kaito,0,0,0,,Mais voilà, si c’est mon meilleur ami\Nqui la rend heureuse,
+Dialogue: 0,0:13:54.68,0:13:57.81,Default,Kaito,0,0,0,,je m’imposerai pas de force,\Ntu vois le truc ?
+Dialogue: 0,0:13:58.85,0:14:03.93,Default,Kaito,0,0,0,,Après tout, si je l’aime,\Nje veux la voir heureuse, même avec lui.
+Dialogue: 0,0:14:04.40,0:14:08.17,Default,Kaito,0,0,0,,Si malgré tout, tu veux t’imposer,
+Dialogue: 0,0:14:08.33,0:14:12.96,Default,Kaito,0,0,0,,c’est que tu te penses capable\Nde la rendre plus heureuse que lui.
+Dialogue: 0,0:14:13.17,0:14:15.91,Default,Kaito,0,0,0,,Dans ce cas,\Ndonne tout ce que tu as.
+Dialogue: 0,0:14:16.86,0:14:19.70,Default,Haru,0,0,0,,Moi, je suis pas d’accord.
+Dialogue: 0,0:14:20.20,0:14:23.13,Default,Haru,0,0,0,,Si tu l’aimes, tu veux être\Ncelui qui la fera sourire,
+Dialogue: 0,0:14:23.29,0:14:27.92,Default,Haru,0,0,0,,celui qui la protégera et qui sera\Nà ses côtés quand elle pleurera.
+Dialogue: 0,0:14:28.14,0:14:30.45,Default,Haru,0,0,0,,Hors de question\Nque ce soit un autre.
+Dialogue: 0,0:14:31.19,0:14:32.60,Default,Haru,0,0,0,,Enfin, de mon avis.
+Dialogue: 0,0:14:32.96,0:14:34.71,Default,Kaito,0,0,0,,Ça m’étonne pas de toi, Haru.
+Dialogue: 0,0:14:34.84,0:14:38.73,Default,Kenta,0,0,0,,Mais c’est vrai qu’avec l’été\Nqui approche, y a cette excitation.
+Dialogue: 0,0:14:38.86,0:14:40.92,Default,Haru,0,0,0,,Oui, je vois ce que tu veux dire.
+Dialogue: 0,0:14:41.11,0:14:43.48,Default,Haru,0,0,0,,Les amours d’été, hein ?
+Dialogue: 0,0:14:43.86,0:14:47.53,Default,Haru,0,0,0,,C’est la seule saison qui a un début\Net une fin bien définis.
+Dialogue: 0,0:14:47.92,0:14:50.14,Default,Haru,0,0,0,,Généralement,\Nquand l’été prend fin,
+Dialogue: 0,0:14:50.28,0:14:53.53,Default,Haru,0,0,0,,tout le monde essaie de prendre\Nde bonnes résolutions.
+Dialogue: 0,0:14:55.83,0:14:59.17,Default,Kazuki,0,0,0,,Je me demande ce qui nous attend,\Ncette année.
+Dialogue: 0,0:15:02.32,0:15:03.22,Default,Cheffe,0,0,0,,Bonjour.
+Dialogue: 0,0:15:07.07,0:15:08.98,Default,Wataya,0,0,0,,Chitose ?
+Dialogue: 0,0:15:09.73,0:15:10.64,Default,Chitose,0,0,0,,Bonjour.
+Dialogue: 0,0:15:10.79,0:15:13.43,Default,Wataya,0,0,0,,Tu dois penser\Nque je l’ai bien cherché.
+Dialogue: 0,0:15:13.65,0:15:15.49,Default,Chitose,0,0,0,,De quoi vous parlez ?
+Dialogue: 0,0:15:17.12,0:15:19.00,Default,Wataya,0,0,0,,Si t’es pas au courant, tant pis.
+Dialogue: 0,0:15:23.22,0:15:24.39,Default,Cheffe,0,0,0,,Saku,
+Dialogue: 0,0:15:25.17,0:15:28.22,Default,Cheffe,0,0,0,,tu sais\Nqu’il s’en mord encore les doigts ?
+Dialogue: 0,0:15:28.46,0:15:31.12,Default,Cheffe,0,0,0,,Il rabâche\Nqu’il a gâché ton talent…
+Dialogue: 0,0:15:31.39,0:15:33.90,Default,Chitose,0,0,0,,Il a rien gâché du tout.
+Dialogue: 0,0:15:34.12,0:15:37.38,Default,Chitose,0,0,0,,Peu importe la raison,\Nj’ai pris ma décision seul.
+Dialogue: 0,0:15:37.75,0:15:41.63,Default,Cheffe,0,0,0,,Je pense que ce qu’il voulait dire,
+Dialogue: 0,0:15:41.77,0:15:44.02,Default,Cheffe,0,0,0,,c’est que même les adultes\Nse trompent.
+Dialogue: 0,0:15:46.45,0:15:49.06,Italique,Chitose,0,0,0,,C’est pas en me disant ça\Nmaintenant
+Dialogue: 0,0:15:49.75,0:15:52.05,Italique,Chitose,0,0,0,,que cet été paraîtra moins long.
+Dialogue: 0,0:15:57.33,0:15:58.57,Default,Haru,0,0,0,,Chitose ?
+Dialogue: 0,0:15:59.60,0:16:00.65,Default,Haru,0,0,0,,On t’appelle.
+Dialogue: 0,0:16:08.54,0:16:11.59,Default,Chitose,0,0,0,,Yûsuke ?\NBlessé et alité pour deux semaines ?
+Dialogue: 0,0:16:11.97,0:16:15.15,Default,Hirano,0,0,0,,Il s’est foulé la cheville\Nen glissant sur le marbre.
+Dialogue: 0,0:16:15.57,0:16:17.96,Default,Hirano,0,0,0,,Le premier match\Nest le week-end prochain.
+Dialogue: 0,0:16:18.46,0:16:19.71,Default,Hirano,0,0,0,,C’est trop tôt.
+Dialogue: 0,0:16:20.03,0:16:22.27,Italique,Chitose,0,0,0,,Pourquoi il a autant forcé
+Dialogue: 0,0:16:22.48,0:16:24.45,Italique,Chitose,0,0,0,,alors que le tournoi approche ?
+Dialogue: 0,0:16:25.01,0:16:29.71,Italique,Chitose,0,0,0,,En même temps, au baseball,\Nil se donne au maximum.
+Dialogue: 0,0:16:30.24,0:16:33.35,Italique,Chitose,0,0,0,,À sa place,\Nj’en aurais fait autant, je pense.
+Dialogue: 0,0:16:34.86,0:16:37.73,Italique,Chitose,0,0,0,,Pour lui qui n’a pas pu\Njouer l’an dernier,
+Dialogue: 0,0:16:38.14,0:16:41.44,Italique,Chitose,0,0,0,,c’était enfin l’occasion\Nde viser le championnat d’été.
+Dialogue: 0,0:16:45.81,0:16:47.23,Default,Chitose,0,0,0,,C’est contre qui ?
+Dialogue: 0,0:16:47.44,0:16:48.54,Default,Hirano,0,0,0,,Ekkô.
+Dialogue: 0,0:16:48.69,0:16:51.19,Default,Chitose,0,0,0,,Il a vraiment la poisse,\Nsur ce coup.
+Dialogue: 0,0:16:51.61,0:16:52.68,Default,Chitose,0,0,0,,Et donc ?
+Dialogue: 0,0:16:53.15,0:16:55.61,Default,Chitose,0,0,0,,Il faut que j’aille le voir\Nà l’hosto ?
+Dialogue: 0,0:16:55.92,0:16:58.70,Default,Hirano,0,0,0,,Je sais que ça va être abusé,\Nmais Saku,
+Dialogue: 0,0:17:00.84,0:17:02.25,Default,Hirano,0,0,0,,reviens dans l’équipe.
+Dialogue: 0,0:17:03.19,0:17:05.57,Default,Chitose,0,0,0,,Tu sais ce que ça implique ?
+Dialogue: 0,0:17:06.08,0:17:08.88,Default,Hirano,0,0,0,,Contre Ekkô,\Nce sera un duel de lanceurs.
+Dialogue: 0,0:17:09.41,0:17:11.26,Default,Hirano,0,0,0,,On a besoin de ton aide.
+Dialogue: 0,0:17:11.63,0:17:15.19,Default,Chitose,0,0,0,,Même si je revenais,\Nça garantirait pas la victoire.
+Dialogue: 0,0:17:15.88,0:17:17.74,Default,Chitose,0,0,0,,C’est pas si simple, le baseball.
+Dialogue: 0,0:17:18.56,0:17:22.07,Default,Hirano,0,0,0,,C’est parce qu’on sait tout ça\Nqu’on te le demande !
+Dialogue: 0,0:17:22.58,0:17:25.23,Default,Chitose,0,0,0,,C’est Yûsuke\Nqui vous a dit de venir me voir ?
+Dialogue: 0,0:17:25.65,0:17:26.57,Default,Hirano,0,0,0,,Non.
+Dialogue: 0,0:17:26.88,0:17:29.53,Default,Hirano,0,0,0,,Il nous a dit d’éviter, justement.
+Dialogue: 0,0:17:29.98,0:17:33.59,Default,Hirano,0,0,0,,Il pensait que ta réponse\Nserait sans rapport
+Dialogue: 0,0:17:33.72,0:17:35.62,Default,Hirano,0,0,0,,avec l’envie de rejouer au baseball.
+Dialogue: 0,0:17:37.71,0:17:41.10,Default,Hirano,0,0,0,,On s’excusera autant que tu voudras\Npour ce qui s’est passé,
+Dialogue: 0,0:17:41.37,0:17:44.50,Default,Hirano,0,0,0,,mais je veux donner une chance\Nde se battre à Yûsuke
+Dialogue: 0,0:17:44.63,0:17:46.88,Default,Hirano,0,0,0,,avec qui j’ai tenu bon\Npendant un an !
+Dialogue: 0,0:17:54.72,0:17:58.03,Default,Haru,0,0,0,,Arrête tes beaux discours !
+Dialogue: 0,0:17:58.19,0:18:01.23,Default,Haru,0,0,0,,C’est quand Chitose a arrêté\Nqu’il fallait dire ça !
+Dialogue: 0,0:18:01.44,0:18:03.83,Default,Haru,0,0,0,,Si vous étiez restés\Nses coéquipiers,
+Dialogue: 0,0:18:04.00,0:18:07.96,Default,Haru,0,0,0,,Chitose serait encore avec vous,\Naujourd’hui.
+Dialogue: 0,0:18:08.20,0:18:12.51,Default,Haru,0,0,0,,Si vous le détestiez au point\Nde pas vouloir le retenir, ça s’entend,
+Dialogue: 0,0:18:12.69,0:18:16.37,Default,Haru,0,0,0,,mais dans ce cas,\Nvous avez plus à vous approcher de lui !
+Dialogue: 0,0:18:17.18,0:18:18.96,Default,Hirano,0,0,0,,Qu’est-ce que t’en sais, toi ?
+Dialogue: 0,0:18:19.11,0:18:21.24,Default,Haru,0,0,0,,Bah rien, et je m’intéresse pas
+Dialogue: 0,0:18:21.39,0:18:25.24,Default,Haru,0,0,0,,à ce que ressent un lâche dégonflé\Nqui part comme un perdant.
+Dialogue: 0,0:18:25.72,0:18:27.63,Default,Haru,0,0,0,,Au tournoi de l’été dernier,
+Dialogue: 0,0:18:27.76,0:18:30.90,Default,Haru,0,0,0,,vous aviez perdu\Ntoute combativité en cours de match.
+Dialogue: 0,0:18:31.07,0:18:35.39,Default,Haru,0,0,0,,Face à une équipe aussi forte,\Non sentait bien que vous vous disiez
+Dialogue: 0,0:18:35.57,0:18:38.11,Default,Haru,0,0,0,,que vous aviez tout donné.
+Dialogue: 0,0:18:38.33,0:18:39.77,Default,Haru,0,0,0,,Jusqu’à la fin,
+Dialogue: 0,0:18:39.93,0:18:43.80,Default,Haru,0,0,0,,le seul qui avait rien voulu lâcher,\Nc’était Chitose.
+Dialogue: 0,0:18:44.86,0:18:47.71,Default,Haru,0,0,0,,Ça vous a fait du bien\Nde voir chuter
+Dialogue: 0,0:18:47.94,0:18:51.04,Default,Haru,0,0,0,,quelqu’un de plus doué que vous ?
+Dialogue: 0,0:18:54.97,0:18:57.74,Default,Chitose,0,0,0,,Pardon,\Nmais je changerai pas d’avis.
+Dialogue: 0,0:19:00.41,0:19:02.21,Default,Hirano,0,0,0,,Désolé de vous avoir dérangés.
+Dialogue: 0,0:19:08.06,0:19:11.13,Default,Haru,0,0,0,,Tu veux bien attendre\Nque je termine l’entraînement ?
+Dialogue: 0,0:19:11.81,0:19:13.92,Default,Haru,0,0,0,,Je veux pas que tu rentres seul.
+Dialogue: 0,0:19:14.35,0:19:15.45,Default,Haru,0,0,0,,Capiche ?
+Dialogue: 0,0:19:19.03,0:19:21.23,Default,Chitose,0,0,0,,Ça fait mal ! Idiote.
+Dialogue: 0,0:19:37.45,0:19:40.35,Default,Haru,0,0,0,,En fait, je viens souvent ici
+Dialogue: 0,0:19:40.52,0:19:44.02,Default,Haru,0,0,0,,quand j’ai un coup de mou\Nou que je suis frustrée,
+Dialogue: 0,0:19:44.21,0:19:46.40,Default,Haru,0,0,0,,quand je suis totalement paumée…
+Dialogue: 0,0:19:47.57,0:19:51.33,Default,Haru,0,0,0,,ou que l’avenir me paraît\Ncomplètement flou.
+Dialogue: 0,0:19:52.11,0:19:54.74,Default,Chitose,0,0,0,,Ah bon ? Et ça t’arrive souvent ?
+Dialogue: 0,0:19:55.30,0:19:59.52,Default,Haru,0,0,0,,Je rêve de devenir basketteuse\Nmalgré ma taille, donc oui.
+Dialogue: 0,0:19:59.94,0:20:02.78,Default,Haru,0,0,0,,Venir ici me permet de hurler.
+Dialogue: 0,0:20:03.08,0:20:06.44,Default,Haru,0,0,0,,Je fais comme si je m’adressais\Nà la rivière en criant :
+Dialogue: 0,0:20:06.70,0:20:09.68,Default,Haru,0,0,0,,« Umi ! Pauvre imbécile ! »\NEt ça va mieux.
+Dialogue: 0,0:20:10.16,0:20:13.52,Default,Chitose,0,0,0,,Pourquoi tu t’en prends à la rivière ?\NHurle sur la mer.
+Dialogue: 0,0:20:15.06,0:20:17.78,Default,Haru,0,0,0,,C’est dur de viser haut,
+Dialogue: 0,0:20:17.95,0:20:22.13,Default,Haru,0,0,0,,mais j’ai eu la chance\Nd’être toujours bien entourée.
+Dialogue: 0,0:20:22.43,0:20:25.81,Default,Haru,0,0,0,,Aujourd’hui encore,\Nj’ai Nana, Sen, Yô…
+Dialogue: 0,0:20:25.97,0:20:29.81,Default,Haru,0,0,0,,J’ai beau râler,\Nelles continuent de me suivre.
+Dialogue: 0,0:20:31.13,0:20:36.10,Default,Haru,0,0,0,,Mai a raison, j’ai encore des lacunes\Nen tant que basketteuse.
+Dialogue: 0,0:20:36.32,0:20:40.26,Default,Haru,0,0,0,,Mais qu’importe,\Nje suis sûre de gagner.
+Dialogue: 0,0:20:44.76,0:20:46.60,Default,Haru,0,0,0,,Tu te souviens de notre pari ?
+Dialogue: 0,0:20:46.84,0:20:49.19,Default,Haru,0,0,0,,Quand on faisait de la balançoire.
+Dialogue: 0,0:20:49.43,0:20:52.31,Italique,Chitose,0,0,0,,Celui qui perd… Je sais.
+Dialogue: 0,0:20:52.86,0:20:57.48,Italique,Chitose,0,0,0,,Le perdant devra un jour\Navouer ses faiblesses au gagnant.
+Dialogue: 0,0:20:57.67,0:20:58.95,Italique,Haru,0,0,0,,Partante !
+Dialogue: 0,0:20:59.38,0:21:02.38,Default,Haru,0,0,0,,En tant que gagnante,\Nj’exige ma récompense.
+Dialogue: 0,0:21:02.66,0:21:04.58,Default,Haru,0,0,0,,Vas-y, crache le morceau !
+Dialogue: 0,0:21:05.51,0:21:06.97,Italique,Chitose,0,0,0,,Cling.
+Dialogue: 0,0:21:07.11,0:21:09.48,Italique,Chitose,0,0,0,,Une bille de verre tombe\Ndans mon cœur.
+Dialogue: 0,0:21:10.27,0:21:12.98,Italique,Chitose,0,0,0,,Un son très fragile\Nque j’avais gardé enfermé
+Dialogue: 0,0:21:13.21,0:21:15.00,Italique,Chitose,0,0,0,,dans une bouteille de verre.
+Dialogue: 0,0:21:16.44,0:21:17.98,Default,Haru,0,0,0,,Ça va aller.
+Dialogue: 0,0:21:18.36,0:21:23.07,Default,Haru,0,0,0,,Si tu te sens mal,\Nje te ferai sourire.
+Dialogue: 0,0:21:23.46,0:21:25.81,Default,Haru,0,0,0,,Si tu veux pleurer,\Nje serai là pour toi.
+Dialogue: 0,0:21:25.96,0:21:28.52,Default,Haru,0,0,0,,Si tu es en colère,\Nje m’énerverai avec toi.
+Dialogue: 0,0:21:28.98,0:21:31.10,Default,Haru,0,0,0,,Si tu as trop honte,\Nje te secouerai,
+Dialogue: 0,0:21:31.26,0:21:34.37,Default,Haru,0,0,0,,et si tu n’arrives pas à te relever,\Nje t’aiderai.
+Dialogue: 0,0:21:35.35,0:21:37.84,Default,Haru,0,0,0,,Alors… parle-moi.
+Dialogue: 0,0:21:40.08,0:21:43.14,Italique,Chitose,0,0,0,,Oui. Elle est vraiment incroyable.
+Dialogue: 0,0:21:44.11,0:21:47.00,Italique,Chitose,0,0,0,,Ce fardeau que je porte seul\Ndepuis si longtemps,
+Dialogue: 0,0:21:47.15,0:21:49.77,Italique,Chitose,0,0,0,,c’est peut-être à elle\Nque je veux le confier.
+Dialogue: 0,0:21:50.39,0:21:53.54,Italique,Chitose,0,0,0,,Cette obscurité de mon cœur\Nqui ne me quitte jamais,
+Dialogue: 0,0:21:53.88,0:21:56.59,Italique,Chitose,0,0,0,,elle pourrait peut-être\Nla balayer d’un coup.
+Dialogue: 0,0:21:58.05,0:22:00.64,Italique,Chitose,0,0,0,,Avec ce sourire\Naussi lumineux et fort
+Dialogue: 0,0:22:01.57,0:22:03.01,Italique,Chitose,0,0,0,,que le soleil.
+Dialogue: 0,0:23:30.90,0:23:32.90,Default,crédits,0,0,0,,{\an8}Traduction : Essia Mokdad\NAdaptation : Kiddo Maxx
+Dialogue: 0,0:23:33.03,0:23:35.03,Default,crédits,0,0,0,,{\an8}Repérage : Enjiniatsu\NRelecture : Jubylle
+Dialogue: 0,0:23:35.57,0:23:37.37,Sign,Sign,0,0,0,,PROCHAIN ÉPISODE
+Dialogue: 0,0:23:37.50,0:23:40.08,Sign,Sign,0,0,0,,ORIHIME EN COLÈRE\NET HIKOBOSHI QUI PLEURNICHE
+Dialogue: 0,0:23:36.75,0:23:39.80,Italique,Chitose,0,0,0,,Orihime en colère\Net Hikoboshi qui pleurniche.
+
