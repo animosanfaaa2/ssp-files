@@ -1,0 +1,199 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: main,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: top,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: italicstop,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: flashback,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: flashback italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: flashbacktop,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: flashbackitalicstop,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: overlap,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: overlaptop,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: overlap italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: sign_Arial,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_ArialBlack,Arial Black,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_CourierNew,Courier New,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_ComicSansMS,Comic Sans MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Georgia,Georgia,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Impact,Impact,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_TimesNewRoman,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_TrebuchetMS,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Verdana,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.98,sign_Arial,,0,0,0,,{\an8\c&HCECECE&\bord0\shad0\fs12\pos(321,94)}This is a work of fiction.
+Dialogue: 0,0:00:00.00,0:00:04.98,sign_Arial,text (top section),0,0,0,,{\an8\c&HCECECE&\bord0\shad0\fs12\pos(319,142)\q2}Forex (foreign exchange margin trading) is a high-risk venture, and it's possible for losses to exceed margin payments.
+Dialogue: 0,0:00:00.00,0:00:04.98,sign_Arial,text (2nd section),0,0,0,,{\an8\c&HCECECE&\bord0\shad0\fs11\q2\pos(316,193)}There is a risk that excessive trading can interfere with one's daily life, so please think it over carefully and proceed with caution.
+Dialogue: 0,0:00:00.00,0:00:04.98,sign_Arial,text (3rd section),0,0,0,,{\an8\c&HCECECE&\bord5\shad0\fs8\q2\pos(318,242)}The story contains depictions of foreign forex brokers and high-leverage transactions not in accordance with Japanese law,\N but there is risk involved in trading with parties not registered with the Financial Services Agency. Please do not attempt it.
+Dialogue: 0,0:00:00.00,0:00:04.98,sign_Arial,text (4th section),0,0,0,,{\an8\c&HCECECE&\bord5\shad0\fs8\q2\pos(316,309)}Furthermore, when actually engaging in trading, read all pre-contractual documentation carefully.\N Once you understand the contents therein, please be aware that engaging in forex trading is your own decision, and you assume total responsibility.
+Dialogue: 0,0:00:16.08,0:00:19.08,sign_Verdana,text,0,0,0,,{\an8\shad0\bord3\fad(478,1)}Implementation of Additional Monetary Easing Measures
+Dialogue: 0,0:00:19.08,0:00:27.97,sign_Arial,text (blue),0,0,0,,{\an7\fs30\c&H584815&\3c&HE9DBB2&\shad0\bord4}BOJ
+Dialogue: 0,0:00:21.58,0:00:27.97,sign_Arial,text (top pink),0,0,0,,{\an9\c&H8232B0&\3c&HDED0E4&\shad0\fad(275,1)}Buying government bonds, etc.
+Dialogue: 0,0:00:23.41,0:00:25.41,sign_Arial,text (green),0,0,0,,{\an7\c&H636528&\3c&HE9E7C9&\shad0\bord4}Financial institutions
+Dialogue: 0,0:00:24.00,0:00:27.97,sign_Arial,text (left green),0,0,0,,{\an7\c&H5B7337&\3c&HBFC7AF&\shad0\bord4}Corporations Individuals
+Dialogue: 0,0:00:24.38,0:00:27.97,sign_Arial,text (bottom pink),0,0,0,,{\an9\c&H8232B0&\3c&HDED0E4&\shad0\fad(275,1)}Cash injection
+Dialogue: 0,0:00:56.54,0:00:58.54,sign_Arial,text,0,0,0,,{\an8\pos(312,97)\fs25\c&H282528&\3c&HD8D0BF&\shad0\bord4}Unrealized Gain/Loss
+Dialogue: 0,0:01:24.61,0:01:26.69,sign_Arial,text (blue bottom),0,0,0,,{\an8\c&HBDBEBE&\3c&H7A492C&\shad0\bord4\fs25\pos(156,308)}Average Rate
+Dialogue: 0,0:01:24.65,0:01:26.69,sign_Arial,text (blue top),0,0,0,,{\an8\c&HBDBEBE&\3c&H7A492C&\shad0\bord4\pos(151,205)\fs25}Open Volume
+Dialogue: 0,0:01:24.65,0:01:26.77,sign_Arial,text (red),0,0,0,,{\an8\pos(446,104)\c&H9BA1E0&\shad0\bord0}Long Positions
+Dialogue: 0,0:01:24.73,0:01:26.77,sign_Arial,text (yellow),0,0,0,,{\an8\pos(152,86)\c&H142B57&\3c&H3B73B7&\shad0\bord4}Liquidate All
+Dialogue: 0,0:01:33.49,0:01:36.24,sign_Arial,text,0,0,0,,{\an8\c&H555058&\3c&HF6F5F7&\shad0\pos(90,191)\bord4}Balance
+Dialogue: 0,0:01:51.67,0:01:53.80,sign_Arial,text,0,0,0,,{\an8\c&H2C282D&\3c&HD8D0BF&\shad0\fs25\pos(314,96)}Unrealized Gain/Loss
+Dialogue: 0,0:01:58.56,0:02:02.98,sign_ComicSansMS,text,0,0,0,,{\c&H43292A&\3c&H614136&\shad0\an8\fs25\move(315,207,315,200)}Kurumi's room
+Dialogue: 0,0:03:32.98,0:03:35.24,sign_Arial,text,0,0,0,,{\pos(317,75)\c&H87410F&\3c&H492911&\shad0\bord4\fs40\fsp6}Global Home Delivery
+Dialogue: 0,0:03:46.08,0:03:48.29,sign_TrebuchetMS,text (letter),0,0,0,,{\an8\c&H2A292C&\3c&HEEEEF0&\shad0\pos(131,183)\fs30\fax-0.11\frz355.4}To Mebuki
+Dialogue: 0,0:03:46.08,0:03:48.29,sign_Verdana,text (orange),0,0,0,,{\bord1.5\frz17.02\pos(165,319)\fs38}Curry {\fs33}Special
+Dialogue: 0,0:03:52.59,0:03:57.17,sign_TrebuchetMS,text (top),0,0,0,,{\an7\c&H151416&\3c&HF7F7F7&\shad0\bord4}Dear Mebuki,\N Saving up for school can't be easy.\NWe sent you some food, so keep your chin up!\N Love, Mom
+Dialogue: 0,0:04:10.73,0:04:14.19,sign_Arial,text,0,0,0,,{\an7\fs15\c&H808589&\3c&HD9F6FD&\shad0}You have a new message from Mochiko-senpai.
+Dialogue: 0,0:04:14.36,0:04:15.11,sign_Arial,text (top left),0,0,0,,{\an7\c&H655855&\bord0\shad0\fs8\frz7.643\pos(209,65)}Mochiko-senpai
+Dialogue: 0,0:04:14.36,0:04:15.11,sign_Arial,text (white),0,0,0,,{\an7\c&H655855&\bord0\shad0\fs8\frz7.8\pos(239,212)}USD/JPY is crazy
+Dialogue: 0,0:04:14.36,0:04:15.11,sign_TrebuchetMS,text (bear emoji),0,0,0,,{\c&HFFF3FF&\3c&HB380D5&\shad0\frz6.4\fs10\pos(338,71)}Thank you so much!!
+Dialogue: 0,0:04:15.11,0:04:16.36,sign_Arial,text,0,0,0,,{\an7\c&H403E43&\bord0\shad0\frz6.82\pos(214,265)\fs38}USD/JPY is crazy
+Dialogue: 0,0:04:29.79,0:04:33.17,sign_Arial,text (top row; r-2-l),0,0,0,,{\an7\q2\fs15\c&H343232&\3c&HF1EDF0&\shad0\bord4}Price Take profit Stop loss Price Symbol Volume Trade type Order number
+Dialogue: 0,0:04:29.79,0:04:33.17,sign_Arial,text (bottom row; r-2-l),0,0,0,,{\an4\c&H1F1E1F&\3c&H908E91&\shad0\bord4}Margin level Free margin Required margin Equity Balance
+Dialogue: 0,0:04:36.42,0:04:38.42,sign_Arial,text (top),0,0,0,,{\an8\c&H0D0B08&\3c&HDBD5C4&\shad0\bord4}Notice of Loss Cut Execution
+Dialogue: 0,0:04:36.42,0:04:38.42,sign_Arial,text (body),0,0,0,,{\an1\c&H1B1B1B&\bord0\shad0\pos(76,111)\fsp.7}Your equity fell below the base loss cut amount,
+Dialogue: 0,0:04:36.42,0:04:38.42,sign_Arial,text (body),0,0,0,,{\an1\c&H1B1B1B&\bord0\shad0\fsp.7\pos(78,159)}so all your positions were force-liquidated.
+Dialogue: 0,0:04:36.42,0:04:38.42,sign_Arial,text (body),0,0,0,,{\an1\c&H1B1B1B&\bord0\shad0\fscx76\pos(75,210)}For details, please check the trading screen.
+Dialogue: 0,0:04:39.72,0:04:43.64,sign_Arial,text (header),0,0,0,,{\an7\3c&H4D4D4D&\shad0\bord4\fad(268,1)}Regarding Loss Cut Rules\N\N {\c&H6A6A6A&\3c&HC5C1C4&\shad0\q2\fs8}Loss cut rules are a system by which your active positions are automatically force-liquidated (cutting losses),\N in order to limit losses on leveraged trades caused by market fluctuations.\N\NIn the event your margin level falls below a base amount set by our firm, loss cut rules will activate. Upon activation, a process will occur in the following sequence.\N\N 1. We cancel all your unexecuted orders.\N 2. If your margin level does not recover as a result of step 1, we force-liquidate (cut losses on) all of your currently held positions.
+Dialogue: 0,0:04:55.48,0:04:59.78,sign_Arial,text (top line),0,0,0,,{\an7\c&H2F292D&\3c&HD9D0D6&\shad0\bord4\fad(440,356)}Account Statement\N Toto Bank\N\N{\fs15} Transaction Amount: 3000 yen\N Balance: 871 yen
+Dialogue: 0,0:05:18.55,0:05:21.55,sign_Arial,text (header),0,0,0,,{\an7\pos(21,39)\c&H7A7A7B&\3c&HEBE9EB&\fs15\shad0}Please select a deposit method.
+Dialogue: 0,0:05:18.55,0:05:21.55,sign_Arial,text (orange),0,0,0,,{\an7\c&H7A7A7B&\3c&HEBE9EB&\fs15\shad0\pos(99,95)\fsp3.5}Debit Card
+Dialogue: 0,0:05:18.55,0:05:21.55,sign_Arial,text (purple),0,0,0,,{\an7\c&H7A7A7B&\3c&HEBE9EB&\fs15\shad0\fsp4\pos(371,97)}Digital Wallet
+Dialogue: 0,0:05:18.55,0:05:21.55,sign_Arial,text (green),0,0,0,,{\an7\c&H7A7A7B&\3c&HEBE9EB&\fs15\shad0\fsp4.4\pos(97,251)}Credit Card
+Dialogue: 0,0:05:18.55,0:05:21.55,sign_Arial,text (blue),0,0,0,,{\an7\c&H7A7A7B&\3c&HEBE9EB&\fs15\shad0\fscx58\pos(372,254)}Domestic Bank Transfer
+Dialogue: 0,0:05:44.57,0:05:49.08,sign_Verdana,text,0,0,0,,{\an9\fs35\c&H726D87&\3c&H9690E5&\shad0\bord4}Revo-kun
+Dialogue: 0,0:06:09.64,0:06:11.81,sign_Arial,text (top line),0,0,0,,{\an1\c&HB2B9A5&\bord0\shad0\pos(10,34)\fsp.8}Name printed on card:
+Dialogue: 0,0:06:09.64,0:06:11.81,sign_Arial,text (2nd line; left),0,0,0,,{\an1\c&HB2B9A5&\bord0\shad0\fscx50\pos(10,114)}Expiration date:
+Dialogue: 0,0:06:09.64,0:06:11.81,sign_Arial,text (2nd line; right),0,0,0,,{\an1\c&HB2B9A5&\bord0\shad0\fscx50\pos(387,111)}Currency:
+Dialogue: 0,0:06:09.64,0:06:11.81,sign_Arial,text (3rd line; left),0,0,0,,{\an1\c&HB2B9A5&\bord0\shad0\fsp1\pos(11,195)}Security code:
+Dialogue: 0,0:06:09.64,0:06:11.81,sign_Arial,text (3rd line; right),0,0,0,,{\an1\c&HB2B9A5&\bord0\shad0\fscx50\pos(388,197)}Deposit amount:
+Dialogue: 0,0:06:09.64,0:06:11.81,sign_Arial,text (bottom left),0,0,0,,{\an1\pos(25,313)\c&H697E47&\3c&H46562D&\shad0\fscx55}Edit charge information
+Dialogue: 0,0:06:09.64,0:06:11.81,sign_Arial,text (bottom right),0,0,0,,{\an1\c&HC4C3C1&\3c&H9BA586&\shad0\fscx75\pos(497,303)\bord0\t(311,312,\c&H738550&)}Make deposit
+Dialogue: 0,0:06:11.81,0:06:13.02,sign_Arial,text (top),0,0,0,,{\an1\c&HC1C2BC&\bord0\shad0\pos(43,34)\fsp2.6}Your deposit completed successfully
+Dialogue: 0,0:06:11.81,0:06:13.02,sign_Arial,text (bottom),0,0,0,,{\c&H656068&\bord0\shad0\pos(105,163)\fs17}Balance
+Dialogue: 0,0:06:17.06,0:06:17.65,sign_Arial,text,0,0,0,,{\an1\c&H2C292A&\3c&HEEECED&\shad0\frz9.52\pos(187,113)}Please wait, server processing...
+Dialogue: 0,0:06:17.65,0:06:18.73,sign_Arial,text (top left),0,0,0,,{\an8\c&H212022&\3c&HEEEDEF&\shad0\frz9.42\pos(122,206)\fs25}Volume
+Dialogue: 0,0:06:17.65,0:06:18.73,sign_Arial,text (top right),0,0,0,,{\an8\c&H212022&\3c&HEEEDEF&\shad0\frz9.42\fs25\pos(391,155)\fs24}Execution Price
+Dialogue: 0,0:06:17.65,0:06:18.73,sign_Arial,text (bottom),0,0,0,,{\an8\c&H444345&\3c&HEDEBEB&\shad0\frz9.49\pos(372,231)\fs40\fsp6}Completed
+Dialogue: 0,0:06:25.40,0:06:27.57,sign_Arial,text (right column),0,0,0,,{\an8\c&H878688&\bord0\shad0\fs10\pos(612,38)}Yen
+Dialogue: 0,0:06:25.40,0:06:27.57,sign_Arial,text (right column),0,0,0,,{\an8\c&H878688&\bord0\shad0\fs10\pos(612,108)}Yen
+Dialogue: 0,0:06:25.40,0:06:27.57,sign_Arial,text (right column),0,0,0,,{\an8\c&H878688&\bord0\shad0\fs10\pos(611,180)}Yen
+Dialogue: 0,0:06:25.40,0:06:27.57,sign_Arial,text (right column),0,0,0,,{\an8\c&H878688&\bord0\shad0\fs10\pos(611,248)}Yen
+Dialogue: 0,0:06:25.40,0:06:27.57,sign_Arial,text (right column),0,0,0,,{\an8\c&H878688&\bord0\shad0\fs10\pos(611,320)}Yen
+Dialogue: 0,0:09:11.53,0:09:14.91,sign_Arial,text (top),0,0,0,,{\an7)\fsp.4\c&HBCBDB5&\3c&HF7F5F3&\shad0\fs10\pos(150,20)}Cash: Age 18 and Over {\fs40}Same-Day Cash
+Dialogue: 0,0:09:11.53,0:09:14.91,sign_Verdana,text (bottom),0,0,0,,{\an5\c&HE5E6E4&\3c&HC2BFC9&\shad0\fs35\fsp6\bord4}Student Loans
+Dialogue: 0,0:09:17.91,0:09:20.41,sign_Arial,text (middle; blue),0,0,0,,{\pos(317,30)\shad0\c&HCA9057&\3c&HEADDFC&\bord4}Employment & Internship Event!!
+Dialogue: 0,0:09:17.91,0:09:20.41,sign_TrebuchetMS,text (left; red),0,0,0,,{\pos(103,57)\fs8\c&H545EE3&\3c&HAEF2F2&\shad0\bord4}Suits look great too!
+Dialogue: 0,0:09:17.91,0:09:20.41,sign_TrebuchetMS,text (right; red),0,0,0,,{\fs8\c&H545EE3&\3c&HAEF2F2&\shad0\bord4\frz19.82\pos(440,86)}Suits look great too!
+Dialogue: 0,0:09:26.67,0:09:35.18,sign_Arial,text (top),0,0,0,,{\an8\c&HB78677&\3c&HDFCFF4&\shad0}Employment & Internship Event!!\N{\fs15} Limited Time 15% off
+Dialogue: 0,0:09:55.82,0:10:01.33,sign_Arial,Mebuki/text (top),0,0,0,,{\an1\c&H625F60&\bord0\shad0\frz-10.06\pos(162,56)\fs34}I can't make it today.
+Dialogue: 0,0:09:55.82,0:10:01.33,sign_Arial,Mebuki/text (bottom),0,0,0,,{\an1\c&H625F60&\bord4\shad0\frz-10.06\fs34\pos(142,204)\3c&HF6F6F6&\fscx85}I ran out of money, so \NI'm taking out a student loan.
+Dialogue: 0,0:10:03.96,0:10:07.34,sign_Arial,text (top),0,0,0,,{\an1\c&H625F60&\bord4\shad0\frz-10.06\fs34\q2\pos(68,35)\3c&HF6F4F5&\fscx63}I'm going to keep up my USD/JPY short battle.
+Dialogue: 0,0:10:03.96,0:10:07.34,sign_Arial,Mebuki/text (bottom),0,0,0,,{\an1\c&H625F60&\bord4\shad0\frz-10.06\fs34\q2\3c&HF6F4F5&\fscx91\pos(32,188)}Let's stick it out together through this climb!
+Dialogue: 0,0:10:13.05,0:10:15.84,sign_Arial,text,0,0,0,,{\an8\c&H37353B&\3c&HF5F2F5&\shad0\fs30}Roger that.
+Dialogue: 0,0:10:19.85,0:10:21.85,sign_Arial,text (1st blue row),0,0,0,,{\an8\shad0\pos(204,57)\c&HEBE3D9&\3c&HCFAF86&\bord4}Open Volume
+Dialogue: 0,0:10:19.85,0:10:21.85,sign_Arial,text (2nd blue row),0,0,0,,{\an8\shad0\c&HEBE3D9&\3c&HCFAF86&\bord4\pos(213,137)}Aver{\3c&HB68F61&}age Rate
+Dialogue: 0,0:10:19.85,0:10:21.85,sign_Arial,text (3rd blue row),0,0,0,,{\an8\shad0\c&HEBE3D9&\3c&HB99166&\bord4\pos(217,223)}Profit/{\3c&HB3895F&}Loss {\3c&HA87A52&}(pips)
+Dialogue: 0,0:10:19.85,0:10:21.85,sign_Arial,text (4th blue row),0,0,0,,{\an8\shad0\c&HEBE3D9&\3c&H88552E&\bord4\pos(208,307)}Valuation Profit/Loss
+Dialogue: 0,0:10:21.85,0:10:25.35,sign_Arial,text,0,0,0,,{\an8\c&HB78677&\3c&HDFCFF4&\shad0}Employment & Internship Event!!
+Dialogue: 0,0:10:46.75,0:10:47.75,sign_Arial,text (top line),0,0,0,,{\an1\c&HE3D3C0&\3c&H806354&\shad0\bord4\pos(165,74)\fsp1.3}2-Button Tailored Jacket
+Dialogue: 0,0:10:46.75,0:10:47.75,sign_Arial,text (2nd line),0,0,0,,{\c&HE3D3C0&\3c&H806354&\shad0\bord4\pos(476,97)}yen
+Dialogue: 0,0:10:46.75,0:10:47.75,sign_Arial,text (2nd line),0,0,0,,{\c&HE3D3C0&\3c&H806354&\shad0\bord4\an4\pos(494,154)}yen
+Dialogue: 0,0:10:46.75,0:10:47.75,sign_Arial,text (2nd line),0,0,0,,{\an4\c&HE3D3C0&\3c&H806354&\shad0\bord4\pos(282,109)}Quan: 1, Cost:
+Dialogue: 0,0:10:46.75,0:10:47.75,sign_Arial,text (3rd line),0,0,0,,{\an4\c&HE3D3C0&\3c&H806354&\shad0\bord4\fsp1.3\pos(322,132)}Straight Skirt
+Dialogue: 0,0:10:46.75,0:10:47.75,sign_Arial,text (4th line),0,0,0,,{\an4\c&HE3D3C0&\3c&H806354&\shad0\bord4\pos(285,156)}Quan: 1, Cost:
+Dialogue: 0,0:10:46.75,0:10:47.75,sign_Arial,text (5th line),0,0,0,,{\c&HE3D3C0&\3c&H806354&\shad0\bord4\an4\pos(493,180)}yen
+Dialogue: 0,0:10:55.34,0:10:56.84,sign_Arial,text (everything else),0,0,0,,{\bord4\shad0\c&H291920&\3c&HFFFFFF&\pos(256,70)\fad(440,1)}wheeze
+Dialogue: 0,0:10:55.34,0:10:56.84,sign_TrebuchetMS,text (right),0,0,0,,{\an8\c&H353235&\3c&HFFFFFF&\shad0\fs15\pos(486,15)\fad(440,1)}Disqualified!! Do it over
+Dialogue: 0,0:10:55.34,0:10:56.84,sign_TrebuchetMS,text (everything else),0,0,0,,{\bord4\shad0\c&H291920&\3c&HFFFFFF&\pos(143,154)\fad(440,1)}hahh
+Dialogue: 0,0:10:55.34,0:10:56.84,sign_TrebuchetMS,text (everything else),0,0,0,,{\bord4\shad0\c&H291920&\3c&HFFFFFF&\pos(202,48)\fad(440,1)}hahh
+Dialogue: 0,0:10:55.34,0:10:56.84,sign_TrebuchetMS,text (everything else),0,0,0,,{\bord4\shad0\c&H291920&\3c&HFFFFFF&\pos(199,237)\fad(440,1)}hahh
+Dialogue: 0,0:10:55.34,0:10:56.84,sign_TrebuchetMS,text (everything else),0,0,0,,{\bord4\shad0\c&H291920&\3c&HFFFFFF&\pos(354,263)\fad(440,1)}hahh
+Dialogue: 0,0:10:55.34,0:10:56.84,sign_Verdana,text (next to arm),0,0,0,,{\pos(432,170)\bord4\shad0\c&H291920&\3c&HFFFFFF&\fad(440,1)}lift
+Dialogue: 0,0:10:57.30,0:11:00.14,sign_Arial,text (top body),0,0,0,,{\an7\pos(412,30)\fs15\c&H6A6364&\3c&HF8F5F6&\shad0}Got an approach run of 42.195km.\NI failed the long jump,\N now I'll have to run again-rabbit.
+Dialogue: 0,0:10:57.30,0:11:00.14,sign_Arial,text (bottom bold),0,0,0,,{\an7\3c&HF3F1F0&\c&H322529&\bord4\shad0\pos(215,194)}Yoshiaki@mangacritic {\c&HC3A485&\fs15}Replying to: YASUKO\N{\c&H565453&} I read over it.\NMaybe the full marathon didn't work out,\Nbut is there any reason to rerun the entire thing? It lacks realism.
+Dialogue: 0,0:11:00.31,0:11:01.56,sign_ComicSansMS,text (small fx),0,0,0,,{\c&H5E5B56&\3c&HFFFFFF&\an8\fs30\shad0\pos(75,20)}bwuh
+Dialogue: 0,0:11:00.31,0:11:01.56,sign_TrebuchetMS,text (right),0,0,0,,{\an9\c&H3A3637&\3c&HFEFEFD&\shad0\fs15}Don't underestimate labor exploitation!
+Dialogue: 0,0:11:00.31,0:11:01.56,sign_Verdana,text (bold fx),0,0,0,,{\c&H090609&\2c&HFFFEFE&\an5\3c&HFFFDFE&\shad0\fs40\pos(215,166)\frz28.79}wham
+Dialogue: 0,0:11:01.89,0:11:04.81,sign_Arial,text (top body),0,0,0,,{\an7\c&H837C7B&\3c&HF9F6F7&\shad0\bord4\pos(248,33)}I thought they were Justice Squad Inc.,\Nbut they just exploit their workers.
+Dialogue: 0,0:11:01.89,0:11:04.81,sign_Arial,text (bottom bold),0,0,0,,{\an7\bord4\3c&HF8F5F6&\c&H353235&\shad0\pos(244,224)}Yoshiaki@mangacritic {\fs15\c&HCDA886&}Replying to: YASUKO\N{\c&H383434&} I read over it.\NYour depiction of labor exploitation is crude.\NI've worked at three such companies,\Nand I think I know how to depict it.\NWant me to tell you?
+Dialogue: 0,0:11:04.94,0:11:06.40,sign_TrebuchetMS,text (right),0,0,0,,{\pos(492,133)\c&H322F31&\3c&HFFFFFF&\shad0}Huh?
+Dialogue: 0,0:11:04.94,0:11:06.40,sign_TrebuchetMS,text (left),0,0,0,,{\c&H322F31&\3c&HFFFFFF&\shad0\pos(188,192)}They're not\N growing out...
+Dialogue: 0,0:11:06.56,0:11:09.36,sign_Arial,text (top body),0,0,0,,{\c&H51504D&\3c&HF4F2F2&\shad0\an4\fs12\move(355,165,355,76,1,231)\fad(1,692)}I'm a cursed rabbit.\NEvery five retweets, my teeth grow longer.
+Dialogue: 0,0:11:06.56,0:11:09.36,sign_Arial,text ((bottom bold),0,0,0,,{\move(330,325,330,230,1,231)\an4\fs12\c&H4D4949&\3c&HECEAEA&\shad0\fad(1,692)}Yoshiaki@mangacritic {\c&HD8B281&}Replying to: YASUKO\N {\c&H454041&}I read over it.\N What grows longer?
+Dialogue: 0,0:11:15.90,0:11:19.74,sign_Arial,text (top body),0,0,0,,{\an7\c&H494543&\3c&HF4F2F2&\shad0}YASUKO\NOne of my toenails is ingrown...\N Hurts like hell...
+Dialogue: 0,0:11:15.90,0:11:19.74,sign_Arial,text ((bottom bold),0,0,0,,{\an7\pos(29,153)\c&H4F4948&\3c&HF7F4F5&\shad0\bord4}Yoshiaki@mangacritic {\c&HC7B09B&}Replying to: YASUKO\N {\c&H777273&}I read... Hahh...! Hahh...!
+Dialogue: 0,0:11:41.47,0:11:44.43,sign_TimesNewRoman,text (top),0,0,0,,{\c&HB2DDEF&\shad0\frz-25.52\pos(445,51)\fax0.48\fs14}Change what you love into influence.
+Dialogue: 0,0:11:41.47,0:11:44.43,sign_TimesNewRoman,text (white),0,0,0,,{\3c&H423F58&\shad0\bord4\frz-24.4\pos(384,68)\fs15\fax0.46}Now's your chance to go viral.
+Dialogue: 0,0:11:41.47,0:11:44.43,sign_TimesNewRoman,text (middle yellow),0,0,0,,{\an7\c&H65CEDB&\3c&H2B4E62&\shad0\frz-23.2\fs12\fax0.44\pos(379,136)}Become an influencer!
+Dialogue: 0,0:11:41.47,0:11:44.43,sign_TimesNewRoman,text (bottom),0,0,0,,{\frz-22.6\fax0.44\c&H34615E&\3c&H2C2C0E&\shad0\fs12\pos(462,223)}Your persuasive power is your greatest weapon
+Dialogue: 0,0:12:18.80,0:12:20.80,sign_Arial,text,0,0,0,,{\c&H837366&\frz9.78\shad0\bord0\fax0.06\fs40\pos(507,117)}120,000
+Dialogue: 0,0:12:25.10,0:12:27.18,sign_Arial,text (header),0,0,0,,{\an7\c&H676361&\3c&HF7F4F5&\shad0\bord4}The Tale of a Rabbit Who Can't Beat Earth's Gravity
+Dialogue: 0,0:12:25.10,0:12:29.10,sign_TrebuchetMS,text (1st panel; right),0,0,0,,{\an9\c&H343435&\3c&HFBFAFA&\shad0\pos(605,66)}Th-This must\N be Earth's gravity...!
+Dialogue: 0,0:12:25.10,0:12:29.10,sign_TrebuchetMS,text (1st panel; left),0,0,0,,{\an7\c&H343435&\3c&HFBFAFA&\shad0\pos(25,65)}I'm... six times heavier\N than on my planet...!
+Dialogue: 0,0:12:25.10,0:12:29.10,sign_Verdana,text (1st panel; white fx),0,0,0,,{\an5\fs30\shad0\bord4\pos(326,74)}doosh\N\N{\fnTrebuchet MS\c&H232021&\3c&HF9F6F8&\fs20\fsp6}nwohhhh
+Dialogue: 0,0:12:27.35,0:12:29.10,sign_TrebuchetMS,text (2nd panel; right),0,0,0,,{\an6\c&H878787&\3c&HF7F7F7&\shad0\bord4}I-I can't even...
+Dialogue: 0,0:12:27.35,0:12:29.10,sign_TrebuchetMS,text (2nd panel; girl),0,0,0,,{\c&H434647&\3c&HFAFAFA&\shad0\pos(317,186)\fs15}Mommy, I'm still playing\N with the rabbit.
+Dialogue: 0,0:12:27.35,0:12:29.10,sign_TrebuchetMS,text (2nd panel; mother),0,0,0,,{\c&H403D3F&\3c&HF7F7F7&\shad0\fs10\frz15.36\pos(333,206)}We're going home!
+Dialogue: 0,0:12:27.35,0:12:29.10,sign_TrebuchetMS,text (2nd panel; top fx),0,0,0,,{\c&H2E2B2E&\3c&HF7F7F7&\shad0\pos(276,238)}ohhhhh
+Dialogue: 0,0:12:27.35,0:12:29.10,sign_TrebuchetMS,text (2nd panel; left),0,0,0,,{\an4\c&H333131&\3c&HF7F7F7&\shad0\bord4\pos(117,193)}stand up...
+Dialogue: 0,0:12:27.35,0:12:29.10,sign_Verdana,text (2nd panel; bottom fx),0,0,0,,{\c&H3F3B3E&\3c&HDCDCDC&\shad0\bord4\frz349.8\pos(257,310)}crush
+Dialogue: 0,0:13:00.47,0:13:01.09,sign_Arial,text (top; pink),0,0,0,,{\fs11\an7\pos(223,20)\shad0\c&H635367&\3c&HA68AB3&}Speed Order
+Dialogue: 0,0:13:00.47,0:13:01.09,sign_Arial,text (top black; left),0,0,0,,{\fs8\an7\c&H88797B&\shad0\3c&H4B3E43&\pos(312,60)}Straddle Liquidate and Order Simultaneously
+Dialogue: 0,0:13:00.47,0:13:01.09,sign_Arial,text (yellow),0,0,0,,{\fs8\an8\c&H576D8E&\3c&H7491B5&\shad0\pos(338,165)}Liquidate All
+Dialogue: 0,0:13:00.47,0:13:01.09,sign_Arial,text (blue; left),0,0,0,,{\an8\c&HC58675&\3c&HB85E41&\shad0\fs8\pos(257,171)}Short Positions
+Dialogue: 0,0:13:00.47,0:13:01.09,sign_Arial,text (red; right),0,0,0,,{\an8\c&H9B89BA&\3c&H6B52AF&\shad0\fs8\pos(415,172)}Long Positions
+Dialogue: 0,0:13:00.47,0:13:01.09,sign_Arial,text (1st blue row),0,0,0,,{\an8\c&HAA8C7F&\3c&H7F553E&\shad0\bord4\fs8\pos(339,199)}Open Volume
+Dialogue: 0,0:13:00.47,0:13:01.09,sign_Arial,text (2nd blue row),0,0,0,,{\an8\c&HAA8C7F&\3c&H7F553E&\shad0\bord4\fs8\pos(341,225)}Average Rate
+Dialogue: 0,0:13:00.47,0:13:01.09,sign_Arial,text (3rd blue row),0,0,0,,{\an8\c&HAA8C7F&\3c&H7F553E&\shad0\bord4\fs8\pos(339,253)}Profit/Loss (pips)
+Dialogue: 0,0:13:00.47,0:13:01.09,sign_Arial,text (4th blue row),0,0,0,,{\an8\c&HAA8C7F&\3c&H7F553E&\shad0\bord4\fs8\pos(339,278)}Valuation Profit/Loss
+Dialogue: 0,0:13:00.47,0:13:01.09,sign_Arial,text (lower left),0,0,0,,{\fs8\pos(237,312)\c&H877876&\3c&H4E3C3B&\shad0}Trade Volume
+Dialogue: 0,0:14:36.02,0:14:37.02,sign_Arial,text (middle left),0,0,0,,{\an8\c&H7B6D6D&\3c&HEEE0E2&\shad0\bord0\frz20.66\fs25\pos(173,294)}Volume
+Dialogue: 0,0:14:36.02,0:14:37.02,sign_Arial,text (middle right),0,0,0,,{\an8\c&H7B6D6D&\3c&HEEE0E2&\shad0\bord0\frz20.66\fs25\pos(413,200)\fscx85}Execution Price
+Dialogue: 0,0:14:36.02,0:14:37.02,sign_Arial,text (bottom),0,0,0,,{\c&HAD9EA1&\bord0\shad0\an8\frz22.41\pos(389,290)\fsp6}Completed
+Dialogue: 0,0:15:09.72,0:15:17.73,sign_Verdana,text,0,0,0,,{\b0\move(425,55,425,100)\c&HC7A763&\3c&H8B5315&\shad0\fs10}Dermatology Clinic
+Dialogue: 0,0:15:19.11,0:15:20.36,sign_TrebuchetMS,text,0,0,0,,{\an8\c&H666259&\3c&HFEFBF7&\shad0\frz-32.64\fs10\pos(299,243)\fax-0.26}I am sorry that I bothered you
+Dialogue: 0,0:16:07.20,0:16:10.45,sign_Arial,text (top),0,0,0,,{\an7\c&H3E3B3B&\3c&HFFFDFE&\shad0\bord4}Shinto Loan, Inc.\N Account Statement
+Dialogue: 0,0:16:19.58,0:16:21.84,sign_Arial,text (top line),0,0,0,,{\move(135,95,155,105)\an4\c&HABABAA&}Balance
+Dialogue: 0,0:16:19.58,0:16:21.84,sign_Arial,text (2nd line),0,0,0,,{\move(200,125,215,130)\an4\c&HABABAA&}Equity
+Dialogue: 0,0:16:19.58,0:16:21.84,sign_Arial,text (3rd line),0,0,0,,{\move(155,155,175,158)\an4\c&HABABAA&}Margin
+Dialogue: 0,0:16:19.58,0:16:21.84,sign_Arial,text (4th line),0,0,0,,{\move(200,185,215,185,)\an4\c&HABABAA&}Free Margin
+Dialogue: 0,0:16:19.58,0:16:21.84,sign_Arial,text (5th line),0,0,0,,{\move(260,215,270,210,)\an4\c&HABABAA&}Margin Level (%)
+Dialogue: 0,0:16:19.58,0:16:21.84,sign_Arial,text (6th line),0,0,0,,{\an1\move(75,255,110,245)\c&HABABAA&}Position
+Dialogue: 0,0:16:34.01,0:16:36.02,sign_Arial,text,0,0,0,,{\an8\c&H232323&\bord4\shad0\pos(500,140)\3c&HF3F0F3&\fs40}Profit/Loss
+Dialogue: 0,0:17:23.02,0:17:25.27,sign_Arial,text,0,0,0,,{\c&H565452&\3c&HFAF8FA&\shad0\an1\frz7.26\pos(161,128)\fs15}Mebuki, you good? Let's go to the arcade, it's been ages!
+Dialogue: 0,0:17:27.90,0:17:29.90,sign_Arial,text,0,0,0,,{\c&H565452&\3c&HFAF8FA&\shad0\an1\frz7.26\fs15\pos(149,205)\fad(272,1)}I'll pay for both of us.
+Dialogue: 0,0:17:33.41,0:17:35.41,sign_Arial,text (lower left),0,0,0,,{\move(210,305,225,360)\shad0\frz10.64\fax0.09\fs15\c&HF4EFE4&\bord0}Video call
+Dialogue: 0,0:17:33.41,0:17:36.70,sign_Arial,text (top),0,0,0,,{\an8\move(290,145,320,230)\c&HF9F2F3&\3c&H8B8372&\shad0\frz10.64\fax0.09\fs27}Kurumi-senpai
+Dialogue: 0,0:17:33.41,0:17:36.70,sign_Arial,text (bottom middle),0,0,0,,{\move(340,283,365,370)\shad0\frz10.64\fax0.09\fs15\c&HF4EFE4&\bord0}Voice call
+Dialogue: 0,0:17:33.41,0:17:36.70,sign_Arial,text (bottom right),0,0,0,,{\move(455,265,480,350,)\shad0\frz10.64\fax0.09\fs15\c&HF4EFE4&\bord0}Text
+Dialogue: 0,0:17:47.00,0:17:49.51,sign_Arial,text (white),0,0,0,,{\an8\c&HE0DBDC&\3c&H564A4E&\fs30\shad0}Mebuki-chan\N{\3c&HA29B9C&\shad0\fs15} Incoming call
+Dialogue: 0,0:18:29.88,0:18:31.30,sign_Arial,text,0,0,0,,{\move(160,275,125,290)\an8\shad0\bord4\c&H1E1E1E&\fs40\3c&H8A8B8A&\fad(312,274)}Balance
+Dialogue: 0,0:18:31.30,0:18:32.88,sign_Arial,text,0,0,0,,{\c&H3B363D&\bord4\shad0\an8\pos(540,126)\3c&HF0F0F0&\fs40}Profit/Loss
+Dialogue: 0,0:20:14.23,0:20:17.74,sign_Arial,text (top),0,0,0,,{\an7\shad0\c&H4B4D4D&\3c&HF8F6F7&\fs9.7\pos(182,130)\bord4}Yasuko-chan, I wanted to share that Mebuki-chan called me
+Dialogue: 0,0:20:14.23,0:20:17.74,sign_Arial,text (middle),0,0,0,,{\an7\shad0\c&H4B4D4D&\3c&HF8F6F7&\fs9.7\bord4\pos(186,217)}I think she was trying to borrow money, to keep on doing forex
+Dialogue: 0,0:20:14.23,0:20:17.74,sign_Arial,text (bottom),0,0,0,,{\an7\shad0\c&H4B4D4D&\3c&HF8F6F7&\fs9.7\bord4\pos(176,295)\fscx85}Wanted to warn you
+Dialogue: 0,0:20:31.29,0:20:32.38,sign_Arial,text (lower left),0,0,0,,{\c&HE1E0E2&\an8\bord0\shad0\frz24.86\fs11\pos(277,348)}Video call
+Dialogue: 0,0:20:31.29,0:20:32.38,sign_Arial,text (bottom middle),0,0,0,,{\c&HE1E0E2&\an8\bord0\shad0\frz24.86\fs11\pos(376,300)}Voice call
+Dialogue: 0,0:20:31.29,0:20:32.38,sign_Arial,text (bottom right),0,0,0,,{\c&HE1E0E2&\an8\bord0\shad0\frz24.86\fs11\pos(466,252)}Text
+Dialogue: 0,0:20:31.29,0:20:32.54,sign_Arial,text (top),0,0,0,,{\an8\c&HE6E7E7&\bord0\shad0\frz25.6\pos(316,191)}Mebuki
+Dialogue: 0,0:20:32.54,0:20:32.79,sign_Arial,text (top),0,0,0,,{\an8\c&HE6E7E7&\bord0\shad0\frz25.6\pos(305,165)}Mebuki
+Dialogue: 0,0:23:21.13,0:23:34.98,sign_Arial,text (top),0,0,0,,{\pos(320,105)\fad(1397,1)\c&HFCEAB0&\bord\shad0}Episode Nine
+Dialogue: 0,0:23:21.13,0:23:34.98,sign_Arial,text (bottom),0,0,0,,{\fad(1397,1)\c&HFCEAB0&\bord\shad0\an8\pos(313,201)}Please Cap the Interest Rate❤︎
+Dialogue: 0,0:23:34.98,0:23:44.99,sign_TrebuchetMS,,0,0,0,,{\an1\c&H010000&\3c&HFFFFFF&\shad0\fs13\fscx85\pos(454,325)}Illustration:  {\fsp.7}Maruyono Kamome
+
