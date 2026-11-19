@@ -1,0 +1,303 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,20,20,20,1
+Style: Italique,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,2,20,20,20,1
+Style: TiretsDefault,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,1,20,20,20,1
+Style: TiretsItalique,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,1,20,20,20,1
+Style: Titre,Tahoma,13,&H00F5F6F3,&H000000FF,&H001B1816,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Statut (clair),Tahoma,28,&H00F3F7CE,&H000000FF,&H00E1EF20,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,10,1
+Style: Sign,Arial,21,&H00FFFFFF,&H000000FF,&H00292929,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:21.45,0:00:23.83,Default,Hilde,0,0,0,E20 19:40,Vous voilà, raclures !
+Dialogue: 0,0:00:23.96,0:00:27.84,Default,Hilde,0,0,0,,Tu vas me rendre les 50 000 000\Nque tu m’as piqués, je te le dis !
+Dialogue: 0,0:00:31.84,0:00:35.30,Default,Elymas,0,0,0,,Je vois, elle a vendu son arme.\NOn y va, Ruche.
+Dialogue: 0,0:00:35.43,0:00:36.30,Default,Elymas,0,0,0,,J’arrive !
+Dialogue: 0,0:00:38.22,0:00:39.31,Default,Hilde,0,0,0,,Tu partiras pas !
+Dialogue: 0,0:00:44.10,0:00:45.10,Default,Carlos,0,0,0,,Hilde…
+Dialogue: 0,0:00:55.82,0:00:58.16,Default,Carlos,0,0,0,,C’est le chevalier\Ndont tu m’as parlé ?
+Dialogue: 0,0:01:10.04,0:01:12.88,Italique,Elymas,0,0,0,,Cette prestance… Et cette aura…
+Dialogue: 0,0:01:17.93,0:01:22.72,Italique,Elymas,0,0,0,,À mon avis, c’est lui,\Nla vraie Lame de flammes d’ébène.
+Dialogue: 0,0:01:28.77,0:01:30.94,Default,Hilde,0,0,0,,Ouais, c’est eux, maître !
+Dialogue: 0,0:01:31.40,0:01:35.78,Default,Hilde,0,0,0,,Ils m’ont tendu un piège\Npour me piquer mes sous !
+Dialogue: 0,0:01:42.49,0:01:43.54,Italique,Elymas,0,0,0,,Pas de doute…
+Dialogue: 0,0:01:45.54,0:01:47.08,Default,Carlos,0,0,0,,Je suis Carlos,
+Dialogue: 0,0:01:48.04,0:01:50.29,Default,Carlos,0,0,0,,maître épéiste de rang A.
+Dialogue: 0,0:01:51.63,0:01:55.63,Default,Carlos,0,0,0,,Elle m’a raconté son histoire,\Nqui m’a donné envie de te rencontrer…
+Dialogue: 0,0:02:00.76,0:02:02.43,Default,Carlos,0,0,0,,Elymas, le chevalier cuirassé.
+Dialogue: 0,0:02:27.79,0:02:30.79,Titre,Sign,0,0,0,,{\an8\fad(522,0)\fs26\bord2\3c&H000000&}THE EXILED {\blur1\c&H854507&\3c&HFFFFFF&}HEAVY KNIGHT\N{\c&H000000&}KNOWS HOW TO {\c&H2500A6&}GAME {\c&H000000&}THE SYSTEM
+Dialogue: 0,0:03:45.07,0:03:51.41,Titre,Sign,0,0,0,,{\fad(1000,500)\fs14\shad0\bord1.5\an4\blur1\3c&H000506&\4c&H0C1213&\3a&H27&\pos(394.83,293.29)}\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hLA LAME\NÉPISODE 21 :    DE FLAMMES D’ÉBÈNE
+Dialogue: 0,0:03:52.96,0:03:54.29,Default,Carlos,0,0,0,C ?,C’est un peu indélicat,
+Dialogue: 0,0:03:54.50,0:03:58.09,Default,Carlos,0,0,0,,mais je tiens tout d’abord\Nà vérifier les faits.
+Dialogue: 0,0:03:59.09,0:04:03.13,Default,Carlos,0,0,0,,Est-il vrai que\Ntu as extorqué de l’argent à Hilde ?
+Dialogue: 0,0:04:07.68,0:04:11.02,Italique,Elymas,0,0,0,,La Lame de flammes d’ébène\Nest d’une puissance exceptionnelle.
+Dialogue: 0,0:04:11.52,0:04:15.06,Italique,Elymas,0,0,0,,Pour l’instant,\Nnous ne sommes pas de taille face à lui.
+Dialogue: 0,0:04:15.69,0:04:18.57,Default,Elymas,0,0,0,,Elle m’a menacé\Npour obtenir mon épée de mithril.
+Dialogue: 0,0:04:18.77,0:04:21.32,Default,Elymas,0,0,0,,Nous avons décidé de régler ça\Nlors d’un duel.
+Dialogue: 0,0:04:22.33,0:04:23.69,Default,Elymas,0,0,0,,Elle avait misé son argent.
+Dialogue: 0,0:04:32.79,0:04:34.25,Default,Carlos,0,0,0,,J’en étais sûr.
+Dialogue: 0,0:04:42.38,0:04:45.22,Default,Hilde,0,0,0,,Maître ! Qu’est-ce qui vous prend ?
+Dialogue: 0,0:04:46.68,0:04:49.89,Default,Carlos,0,0,0,,Je me doutais\Nque c’était une histoire du genre.
+Dialogue: 0,0:04:50.10,0:04:54.14,Default,Hilde,0,0,0,,Mais enfin !\NVous m’aviez dit que vous me croyiez !
+Dialogue: 0,0:04:54.27,0:04:57.35,Default,Carlos,0,0,0,,Je t’ai simplement indiqué\Nvouloir le rencontrer.
+Dialogue: 0,0:04:58.48,0:05:00.98,Default,Carlos,0,0,0,,Hilde, ne me présente pas\Ncomme un maître.
+Dialogue: 0,0:05:01.11,0:05:04.53,Default,Carlos,0,0,0,C !!!,Je n’ai jamais prétendu l’être.
+Dialogue: 0,0:05:05.11,0:05:07.82,Default,Hilde,0,0,0,,Voyons… maître…
+Dialogue: 0,0:05:12.75,0:05:17.37,Default,Carlos,0,0,0,C ?,Cela dit, je ne veux pas donner\Nl’impression de fuir mes responsabilités.
+Dialogue: 0,0:05:18.46,0:05:20.13,Default,Carlos,0,0,0,,Je regrette que ma négligence
+Dialogue: 0,0:05:20.38,0:05:23.13,Default,Carlos,0,0,0,,vous ait causé tant de tracas.
+Dialogue: 0,0:05:23.30,0:05:25.88,Default,Elymas,0,0,0,,Euh… Non, ce n’est rien.
+Dialogue: 0,0:05:26.38,0:05:29.89,Default,Elymas,0,0,0,C ?,Et puis, j’avais besoin d’argent,\Ndonc ça m’a bien arrangé.
+Dialogue: 0,0:05:30.01,0:05:31.76,Default,Elymas,0,0,0,,Sinon, j’aurais refusé.
+Dialogue: 0,0:05:33.31,0:05:37.19,Default,Carlos,0,0,0,,À mes débuts, j’avais du mal\Nà m’entourer d’alliés fiables.
+Dialogue: 0,0:05:37.52,0:05:41.19,Default,Carlos,0,0,0,,Au moins, ça m’a permis\Nd’apprendre à cerner les gens.
+Dialogue: 0,0:05:42.73,0:05:45.19,Default,Carlos,0,0,0,,Tu es une bonne personne, Elymas.
+Dialogue: 0,0:05:45.44,0:05:48.66,Italique,Elymas,0,0,0,C ?,Son côté angélique\Nme met mal à l’aise.
+Dialogue: 0,0:05:49.20,0:05:51.95,Italique,Elymas,0,0,0,,C’est dingue\Nque Hilde soit tout le contraire.
+Dialogue: 0,0:05:53.95,0:05:56.96,Default,Carlos,0,0,0,,Bien, au sujet de la somme\Nqu’elle vous a payée,
+Dialogue: 0,0:05:57.37,0:06:00.83,Default,Carlos,0,0,0,,dans son intérêt,\Nne lui rendez pas une seule pièce.
+Dialogue: 0,0:06:01.84,0:06:05.21,Default,Carlos,0,0,0,,Elle ne retient les leçons\Nque si elle en paie le prix fort.
+Dialogue: 0,0:06:05.42,0:06:07.22,Default,Elymas,0,0,0,,Euh… bien.
+Dialogue: 0,0:06:07.54,0:06:10.65,Default,Carlos,0,0,0,,L’affaire étant réglée,\Nj’aimerais aborder un autre sujet.
+Dialogue: 0,0:06:12.22,0:06:15.31,Default,Carlos,0,0,0,,Mais pas ici.\NDiscutons-en plutôt autour d’un repas.
+Dialogue: 0,0:06:26.36,0:06:29.24,Default,Elymas,0,0,0,,Et donc,\Nde quoi souhaitais-tu nous parler ?
+Dialogue: 0,0:06:29.41,0:06:32.24,Default,Carlos,0,0,0,,En ce moment,\Ndans les alentours de Lacoryna,
+Dialogue: 0,0:06:32.41,0:06:35.49,Default,Carlos,0,0,0,,les incidents liés aux montres\Nse multiplient.
+Dialogue: 0,0:06:36.91,0:06:39.87,Default,Carlos,0,0,0,,Ces événements\Nsont aussi étranges qu’inquiétants.
+Dialogue: 0,0:06:40.46,0:06:43.96,Default,Carlos,0,0,0,,Les monstres déferlent\Ndes donjons récemment apparus,
+Dialogue: 0,0:06:44.75,0:06:48.09,Default,Carlos,0,0,0,,et les Évolutions\Nse font de plus en plus fréquentes.
+Dialogue: 0,0:06:48.67,0:06:51.72,Default,Carlos,0,0,0,,Je me demande\Ns’il ne s’agit que d’une coïncidence,
+Dialogue: 0,0:06:51.93,0:06:54.76,Default,Carlos,0,0,0,,ou s’il y a une raison\Nderrière tout cela.
+Dialogue: 0,0:06:55.14,0:06:59.02,Default,Carlos,0,0,0,,J’ai décidé de mener l’enquête\Ndans les donjons du coin,
+Dialogue: 0,0:06:59.52,0:07:03.98,Default,Carlos,0,0,0,,et il semblerait que la guilde\Nait récemment obtenu des renseignements.
+Dialogue: 0,0:07:04.31,0:07:08.53,Default,Carlos,0,0,0,,Tout porte à croire\Nqu’il se passe bel et bien quelque chose.
+Dialogue: 0,0:07:09.15,0:07:12.11,Default,Elymas,0,0,0,,Tu penses à La Galerie du myriapode,\Nn’est-ce pas ?
+Dialogue: 0,0:07:12.24,0:07:13.57,Default,Carlos,0,0,0,,Je le savais.
+Dialogue: 0,0:07:13.70,0:07:16.58,Default,Carlos,0,0,0,,Un aventurier de ta trempe\Nest déjà au courant.
+Dialogue: 0,0:07:17.04,0:07:21.50,Default,Carlos,0,0,0,,Ces deux dernières semaines,\Nj’ai tenté de trouver une piste seul,
+Dialogue: 0,0:07:22.42,0:07:25.29,Default,Carlos,0,0,0,,mais j’ai échoué\Nà conquérir un certain donjon.
+Dialogue: 0,0:07:25.42,0:07:28.51,Default,Elymas,0,0,0,,Vraiment ? Alors que tu es rang A ?
+Dialogue: 0,0:07:30.59,0:07:34.76,Default,Elymas,0,0,0,,À ma connaissance, aucun donjon\Ndans les alentours de Lacoryna
+Dialogue: 0,0:07:34.89,0:07:36.51,Default,Elymas,0,0,0,,ne devrait être aussi dur.
+Dialogue: 0,0:07:36.85,0:07:39.10,Default,Carlos,0,0,0,,Un Débordement de monstres\Na eu lieu.
+Dialogue: 0,0:07:39.93,0:07:43.19,Default,Carlos,0,0,0,,Un aventurier seul\Nne peut rien faire face à cela.
+Dialogue: 0,0:07:44.56,0:07:46.11,Italique,Elymas,0,0,0,,Un Débordement…
+Dialogue: 0,0:07:46.44,0:07:49.99,Italique,Elymas,0,0,0,!!!,Des monstres qui sortent d’un donjon\Nen quantité anormale.
+Dialogue: 0,0:07:50.36,0:07:54.07,Italique,Elymas,0,0,0,,Même dans {\i0}Magic World{\i1},\Nc’était l’un des fléaux les plus redoutés.
+Dialogue: 0,0:07:55.07,0:07:58.66,Italique,Elymas,0,0,0,!!!,L’incident du nécropode brachiarme\Nn’est donc pas un cas isolé.
+Dialogue: 0,0:07:59.91,0:08:04.21,Italique,Elymas,0,0,0,,Il y a forcément une raison\Nderrière tous ces événements.
+Dialogue: 0,0:08:05.58,0:08:09.96,Default,Elymas,0,0,0,,Si ces phénomènes devenaient récurrents\Nà l’échelle mondiale…
+Dialogue: 0,0:08:11.01,0:08:15.68,Default,Elymas,0,0,0,,cela réduirait drastiquement\Nles zones habitables pour les humains.
+Dialogue: 0,0:08:16.35,0:08:19.64,Default,Ruche,0,0,0,,Je crois que tu dramatises trop,\NElymas.
+Dialogue: 0,0:08:19.77,0:08:22.14,Default,Ruche,0,0,0,,C’est un petit peu exagéré.
+Dialogue: 0,0:08:22.64,0:08:26.15,Default,Carlos,0,0,0,,En ce qui me concerne,\Nje trouve cela plausible.
+Dialogue: 0,0:08:27.11,0:08:28.61,Default,Carlos,0,0,0,,Je suis de l’avis d’Elymas.
+Dialogue: 0,0:08:33.70,0:08:36.07,Default,Carlos,0,0,0,,Passons au vif du sujet.
+Dialogue: 0,0:08:37.49,0:08:40.74,Default,Carlos,0,0,0,,J’aimerais que vous m’accompagniez\Ndans un raid.
+Dialogue: 0,0:08:42.41,0:08:44.33,Default,Carlos,0,0,0,,Il s’agit du donjon où j’ai échoué,
+Dialogue: 0,0:08:44.46,0:08:49.25,Default,Carlos,0,0,0,,Le Tombeau des lamentations.\NVotre aide me serait très précieuse.
+Dialogue: 0,0:08:51.17,0:08:56.18,Default,Carlos,0,0,0,,S’il s’agissait d’un banal Débordement,\Nnous n’aurions pas besoin de nous hâter,
+Dialogue: 0,0:08:56.47,0:08:58.39,Default,Carlos,0,0,0,,mais ce donjon vient d’apparaître.
+Dialogue: 0,0:08:58.51,0:09:02.89,Default,Carlos,0,0,0,,Ce genre de scénario\Nn’aurait jamais dû se produire si tôt.
+Dialogue: 0,0:09:03.73,0:09:07.85,Default,Carlos,0,0,0,,Si nous remettons ça à plus tard,\Nla situation pourrait dégénérer.
+Dialogue: 0,0:09:12.48,0:09:15.36,Default,Ruche,0,0,0,,Qu’est-ce qu’on fait, Elymas ?
+Dialogue: 0,0:09:16.91,0:09:19.99,Default,Elymas,0,0,0,,En temps normal,\Nla question ne se poserait pas,
+Dialogue: 0,0:09:20.20,0:09:22.21,Default,Elymas,0,0,0,,mais quelques éléments\Nme tracassent.
+Dialogue: 0,0:09:25.41,0:09:27.58,Italique,Elymas,0,0,0,,On aurait un rang A avec nous.
+Dialogue: 0,0:09:27.83,0:09:31.88,Italique,Elymas,0,0,0,,C’est lui qui a appris à Hilde\Nà battre en retraite au bon moment.
+Dialogue: 0,0:09:32.13,0:09:33.51,Italique,Elymas,0,0,0,,Il doit être prudent.
+Dialogue: 0,0:09:33.84,0:09:37.13,Italique,Elymas,0,0,0,,Honnêtement,\Ntout ça ne me dit rien qui vaille.
+Dialogue: 0,0:09:38.34,0:09:39.39,Default,Elymas,0,0,0,,Et pourtant…
+Dialogue: 0,0:09:42.06,0:09:45.02,Default,Elymas,0,0,0,,j’ai quand même envie d’y aller.
+Dialogue: 0,0:09:51.36,0:09:55.03,Italique,Elymas,0,0,0,,Si quelque chose d’étrange\Nest réellement en train de se passer,
+Dialogue: 0,0:09:55.36,0:09:57.57,Italique,Elymas,0,0,0,,qui d’autre\Npourrait y mettre un terme ?
+Dialogue: 0,0:09:57.99,0:10:00.95,Italique,Elymas,0,0,0,,Moi qui connais {\i0}Magic World{\i1}\Nsur le bout des doigts,
+Dialogue: 0,0:10:01.91,0:10:03.16,Italique,Elymas,0,0,0,,je suis le mieux placé.
+Dialogue: 0,0:10:05.12,0:10:06.62,Default,Hilde,0,0,0,,Ça faisait un bail !
+Dialogue: 0,0:10:06.75,0:10:09.12,Default,Hilde,0,0,0,!!!,Nous allons enfin pouvoir\Nrefaire équipe.
+Dialogue: 0,0:10:09.71,0:10:12.75,Default,Carlos,0,0,0,,Tu sais,\Ntu n’es pas obligée de venir.
+Dialogue: 0,0:10:13.05,0:10:14.71,Default,Hilde,0,0,0,,Maître !
+Dialogue: 0,0:10:15.38,0:10:16.92,Default,Carlos,0,0,0,,Je plaisante, Hilde.
+Dialogue: 0,0:10:43.53,0:10:46.37,Italique,Elymas,0,0,0,,Ruche et moi,\Nnous avons rejoint le raid de Carlos.
+Dialogue: 0,0:10:46.54,0:10:50.75,Italique,Elymas,0,0,0,,Son objectif est d’explorer et conquérir\NLe Tombeau des lamentations.
+Dialogue: 0,0:11:01.34,0:11:04.05,Default,Elymas,0,0,0,,Il y a tellement d’aventuriers\Nde haut niveau !
+Dialogue: 0,0:11:04.18,0:11:07.02,Default,Elymas,0,0,0,,Les guildes des grandes villes\Nsont vraiment à part.
+Dialogue: 0,0:11:07.31,0:11:11.77,Default,Ruche,0,0,0,,C’est peut-être aussi dû au fait\Nqu’ils ont confiance en Carlos.
+Dialogue: 0,0:11:11.98,0:11:13.27,Default,Elymas,0,0,0,,Aussi, oui.
+Dialogue: 0,0:11:16.07,0:11:25.78,Statut (clair),Sign,0,0,0,C ???,{\fs12\blur2\3c&HF1D866&\move(113.6,14.8,122.545,74.8,22,689)}ATTAQUE
+Dialogue: 0,0:11:16.25,0:11:25.78,Statut (clair),Sign,0,0,0,C ???,{\fs12\blur2\3c&HF1D866&\move(105.6,26.8,123.2,90.326,8,717)}DÉFENSE
+Dialogue: 0,0:11:16.50,0:11:25.78,Statut (clair),Sign,0,0,0,C ???,{\fs12\blur2\3c&HF1D866&\move(98.328,47.164,123.783,106.073,9,676)}MAGIE
+Dialogue: 0,0:11:16.75,0:11:25.78,Statut (clair),Sign,0,0,0,C ???,{\fs12\blur2\3c&HF1D866&\move(101.237,66.8,124.51,119.891,9,635)}AGILITÉ
+Dialogue: 0,0:11:17.19,0:11:20.40,Italique,Elymas,0,0,0,,J’ai une épée de mithril\Net une armure en acier noir.
+Dialogue: 0,0:11:20.99,0:11:25.33,Italique,Elymas,0,0,0,,Je peux remercier Veruga,\Nqui s’est hâté de finir dans les temps.
+Dialogue: 0,0:11:25.95,0:11:29.87,Italique,Elymas,0,0,0,,Avec ça, je n’ai plus l’air d’un débutant\Ndans son armure de fer.
+Dialogue: 0,0:11:30.04,0:11:31.16,Default,Mary,0,0,0,,Elymas !
+Dialogue: 0,0:11:32.46,0:11:34.58,Default,Elymas,0,0,0,,Votre clan participe aussi ?
+Dialogue: 0,0:11:35.04,0:11:39.01,Default,Mary,0,0,0,,Si les donjons partent en vrille,\Non ne pourra plus pêcher.
+Dialogue: 0,0:11:39.21,0:11:42.26,Default,Mary,0,0,0,@Sami,Ce sera l’occasion de voir\Nce que tu sais faire d’autre.
+Dialogue: 0,0:11:42.47,0:11:44.72,Default,Elymas,0,0,0,,Pareil.\NJ’ai hâte de voir ce que tu vaux.
+Dialogue: 0,0:11:45.76,0:11:48.14,TiretsDefault,Mary + Elymas,243,0,0,,– Pour la pêche !\N– Pour la pêche !
+Dialogue: 0,0:11:48.64,0:11:51.52,Default,Ruche,0,0,0,,Non, c’est dans l’intérêt\Ndu monde entier !
+Dialogue: 0,0:11:59.32,0:12:03.11,Default,Hilde,0,0,0,,Maître,\Nfallait vraiment autant de monde ?
+Dialogue: 0,0:12:03.49,0:12:07.66,Default,Hilde,0,0,0,,Je suis pas sûre, perso.\NLes guérisseurs suffisaient amplement.
+Dialogue: 0,0:12:09.04,0:12:11.50,Default,Carlos,0,0,0,,La situation pourrait bien empirer.
+Dialogue: 0,0:12:11.83,0:12:14.54,Default,Carlos,0,0,0,,Mieux vaut être nombreux.
+Dialogue: 0,0:12:15.83,0:12:19.05,Default,Hilde,0,0,0,,Nombreux ou pas,\Ndes boulets restent des boulets.
+Dialogue: 0,0:12:19.50,0:12:23.01,Default,aventurier 5,0,0,0,,Pourquoi est-ce que sa disciple\Nest équipée d’une faux ?
+Dialogue: 0,0:12:23.47,0:12:27.72,Default,aventurier 4,0,0,0,,Va savoir. Elle a peut-être\Nl’arbre de compétences qui va avec.
+Dialogue: 0,0:12:28.18,0:12:31.27,Italique,Elymas,0,0,0,,À la base, elle voulait\Nemprunter une arme à Carlos.
+Dialogue: 0,0:12:31.56,0:12:35.27,TiretsItalique,Elymas,182,0,0,,– Non, débrouille-toi avec ça.\N– Pour la punir, il a refusé.
+Dialogue: 0,0:12:35.73,0:12:40.94,Default,Ruche,0,0,0,C ??,Dis, pourquoi Carlos a accepté de prendre\Nune telle personne comme disciple ?
+Dialogue: 0,0:12:41.15,0:12:43.36,Default,Hilde,0,0,0,,C’est de moi\Nque tu parles comme ça ?
+Dialogue: 0,0:12:44.36,0:12:47.49,Default,Ruche,0,0,0,,Je… Je suis désolée !\NJe ne pensais pas à mal !
+Dialogue: 0,0:12:48.78,0:12:53.37,Default,Carlos,0,0,0,C ??,Très franchement, j’estime ne rien faire\Nqui mérite qu’on m’appelle « maître ».
+Dialogue: 0,0:12:53.71,0:12:56.92,Default,Carlos,0,0,0,C ??,Je pense que magelame\Nest une classe très forte.
+Dialogue: 0,0:12:58.34,0:13:02.21,Default,Carlos,0,0,0,,Toutefois, malgré son potentiel offensif,\Nelle ne tient pas la durée.
+Dialogue: 0,0:13:02.46,0:13:05.47,Default,Carlos,0,0,0,,De ce défaut naissent des disputes\Nau sein d’un groupe.
+Dialogue: 0,0:13:05.63,0:13:08.97,Default,Carlos,0,0,0,C ???,Sans aide, les magelames sont ostracisés,\Nmême de la guilde.
+Dialogue: 0,0:13:09.43,0:13:13.48,Default,Carlos,0,0,0,,Dans son cas, elle aurait perdu la vie\Nen tentant le diable en solitaire.
+Dialogue: 0,0:13:15.52,0:13:17.65,Italique,Elymas,0,0,0,,Il marque un point.\NDans {\i0}Magic World{\i1},
+Dialogue: 0,0:13:17.77,0:13:21.53,Italique,Elymas,0,0,0,,les intérêts d’un magelame\Ncollaient rarement à ceux de son groupe.
+Dialogue: 0,0:13:21.73,0:13:24.57,Italique,magelame,0,0,0,,Occupez-vous des péons.\NJe vais me faire le boss.
+Dialogue: 0,0:13:24.74,0:13:26.95,TiretsItalique,membre A+B,207,0,0,,– Quel culot !\N– Tu veux tout pour toi !
+Dialogue: 0,0:13:27.70,0:13:31.08,Default,Carlos,0,0,0,,En se précipitant,\Non ne se met plus à la place des autres.
+Dialogue: 0,0:13:32.41,0:13:34.41,Default,Carlos,0,0,0,,J’étais ainsi, fut un temps.
+Dialogue: 0,0:13:37.33,0:13:40.88,Default,Carlos,0,0,0,C ?,Je souffrais d’être incompris\Net voulais faire mes preuves.
+Dialogue: 0,0:13:41.13,0:13:45.13,Default,Carlos,0,0,0,C ???,Je me lamentais\Ndevant le nombrilisme des autres.
+Dialogue: 0,0:13:48.09,0:13:51.26,Default,Carlos,0,0,0,,Je regrette de n’avoir eu personne\Nà mes côtés
+Dialogue: 0,0:13:51.43,0:13:53.14,Default,Carlos,0,0,0,,pour me guider avec lucidité.
+Dialogue: 0,0:13:55.73,0:13:59.27,Default,Carlos,0,0,0,C ???,C’est pour cette raison\Nque je me suis tourné vers Hilde.
+Dialogue: 0,0:14:02.82,0:14:07.95,Default,Hilde,0,0,0,,J’ai vraiment un maître tolérant,\Nfort et au grand cœur !
+Dialogue: 0,0:14:08.24,0:14:10.20,Default,Hilde,0,0,0,,Ça vous en bouche un coin, hein ?
+Dialogue: 0,0:14:10.82,0:14:14.83,Default,Elymas,0,0,0,,Dommage que sa disciple\Nne prenne pas plus exemple sur lui.
+Dialogue: 0,0:14:14.95,0:14:16.45,Default,Hilde,0,0,0,,Ça veut dire quoi, ça ?
+Dialogue: 0,0:14:17.41,0:14:19.42,Default,Hilde,0,0,0,,Je te permets pas, insolent !
+Dialogue: 0,0:14:28.63,0:14:32.47,Default,Ruche,0,0,0,,J’ai du mal à imaginer Carlos\Ndans sa période rebelle.
+Dialogue: 0,0:14:32.72,0:14:37.48,Default,Elymas,0,0,0,C ??,Bah, il a dû exagérer un peu la chose\Npour ne pas blesser Hilde.
+Dialogue: 0,0:14:37.64,0:14:39.27,Default,Ruche,0,0,0,,Je pense aussi, oui.
+Dialogue: 0,0:14:40.02,0:14:41.23,Default,Carlos,0,0,0,,Arrêtez-vous.
+Dialogue: 0,0:15:08.30,0:15:09.17,Default,Carlos,0,0,0,,Ils arrivent.
+Dialogue: 0,0:15:10.30,0:15:12.68,Statut (clair),Sign,0,0,0,,{\fad(191,0)\fs12\bord0\blur0.5\c&HFEFFBD&\1a&H00&\3c&HA9A654&\t(860,1110,\bord0.5\blur5\3c&HE0DD89&\c&HFDFFE2&)\move(479.1,131,468.1,210.2,24,359)}MONSTRE :  LOUP ENRAGÉ
+Dialogue: 0,0:15:10.30,0:15:12.68,Statut (clair),Sign,0,0,0,,{\fs12\bord0\blur0.5\c&HFDFF9B&\3c&HA9A654&\move(479.1,131,468.1,210.2,24,359)\t(860,1110,\1a&H6D&)}MONSTRE :  LOUP ENRAGÉ
+Dialogue: 0,0:15:11.59,0:15:13.80,Default,Ruche,0,0,0,,Déjà des ennemis au niveau 52 ?
+Dialogue: 0,0:15:13.93,0:15:16.18,Default,Carlos,0,0,0,,Ils sont sortis du donjon !
+Dialogue: 0,0:15:17.06,0:15:18.22,Default,Carlos,0,0,0,,Décimez-les !
+Dialogue: 0,0:15:18.93,0:15:21.56,Italique,Elymas,0,0,0,,Si de tels monstres\Ndéferlaient à Rondalm,
+Dialogue: 0,0:15:21.73,0:15:23.86,Italique,Elymas,0,0,0,,le seigneur local\Nserait forcé d’agir.
+Dialogue: 0,0:15:39.91,0:15:40.79,Default,Elymas,0,0,0,,Ruche !
+Dialogue: 0,0:15:42.54,0:15:45.42,TiretsDefault,Système + Ruche,167,0,0,,{\i1}– Altération d’état : Empoisonné.{\i0}\N– Je l’ai eu !
+Dialogue: 0,0:15:43.88,0:15:45.42,Statut (clair),Sign,0,0,0,,{\blur0.5\bord1.5\c&H91FFF8&\3c&H9651A7&\clip(259.733,18.133,522.667,24)\t(0,1022,\clip(260.267,9.6,536.533,90.667))\pos(405.867,20.667)}ALTÉRATION D’ÉTAT :\N{\bord1\c&H9922B4&\3c&H000000&}EMPOISONNÉ
+Dialogue: 0,0:15:45.59,0:15:47.50,Default,Elymas,0,0,0,,Parfait ! C’est du rapide !
+Dialogue: 0,0:15:48.05,0:15:51.93,Italique,Elymas,0,0,0,,La dague de la scolopendre venimeuse\Nest une arme avec effet.
+Dialogue: 0,0:15:52.59,0:15:55.35,Italique,Elymas,0,0,0,,Avec sa chance\Net ses attaques répétées,
+Dialogue: 0,0:15:55.51,0:15:58.18,Italique,Elymas,0,0,0,,Ruche peut facilement\Nempoisonner sa cible.
+Dialogue: 0,0:15:59.06,0:16:02.35,Italique,Elymas,0,0,0,,De plus,\Nlorsqu’on souffre de cette altération,
+Dialogue: 0,0:16:00.89,0:16:05.44,Statut (clair),Sign,0,0,0,,{\blur0.5\bord1.5\c&H91FFF8&\3c&H9651A7&\clip(97.6,14.4,372,23.2)\t(0,1022,\clip(99.2,5.6,375.2,88))\pos(238.667,20.667)}ALTÉRATION D’ÉTAT :\N{\bord1\c&H9922B4&\3c&H000000&}EMPOISONNÉ
+Dialogue: 0,0:16:02.48,0:16:05.44,Italique,Elymas,0,0,0,,on perd aussi 10 % de sa vitesse.
+Dialogue: 0,0:16:06.06,0:16:07.69,Default,Ruche,0,0,0,,Voici le coup de grâce !
+Dialogue: 0,0:16:07.90,0:16:10.90,Italique,Système,0,0,0,,Vous avez obtenu\N174 points d’expérience.
+Dialogue: 0,0:16:18.83,0:16:20.33,Default,Elymas,0,0,0,,Il y en a encore pas mal !
+Dialogue: 0,0:16:21.16,0:16:22.83,Default,Elymas,0,0,0,,Continuons comme ça !
+Dialogue: 0,0:16:23.58,0:16:24.83,Default,Ruche,0,0,0,,Oui, entendu !
+Dialogue: 0,0:16:40.35,0:16:42.35,Default,Ruche,0,0,0,,C’était le tout dernier.
+Dialogue: 0,0:16:42.89,0:16:46.35,Default,Elymas,0,0,0,,On n’est même pas dans le donjon,\Net on a déjà un sacré accueil.
+Dialogue: 0,0:16:47.15,0:16:50.61,Default,Elymas,0,0,0,,La dague de la scolopendre venimeuse\Nporte ses fruits.
+Dialogue: 0,0:16:50.73,0:16:53.74,Default,Ruche,0,0,0,,Étant donné que ma classe\Nn’est pas très puissante,
+Dialogue: 0,0:16:53.86,0:16:57.87,Default,Ruche,0,0,0,,pouvoir empoisonner une cible\Nest un véritable atout.
+Dialogue: 0,0:16:58.37,0:17:00.87,Default,Ruche,0,0,0,,Je me sens plus redoutable avec.
+Dialogue: 0,0:17:01.16,0:17:04.29,Default,Elymas,0,0,0,,C’est bien, mais tu as pris\Nquelques coups au passage.
+Dialogue: 0,0:17:05.58,0:17:08.00,Default,Ruche,0,0,0,,Je me suis juste\Nun peu laissé emporter.
+Dialogue: 0,0:17:08.42,0:17:10.34,Default,Ruche,0,0,0,,Je ne sens trois fois rien.
+Dialogue: 0,0:17:10.46,0:17:13.67,Default,Ruche,0,0,0,,Tu crois que je devrais quand même\Nprendre une potion ?
+Dialogue: 0,0:17:14.13,0:17:15.22,Default,Maebel,0,0,0,C ???,Soin.
+Dialogue: 0,0:17:17.80,0:17:20.68,Default,Ruche,0,0,0,,Hein ? Merci beaucoup, euh…
+Dialogue: 0,0:17:20.89,0:17:24.02,Default,Maebel,0,0,0,,Maebel, prêtresse,\Nà votre service !
+Dialogue: 0,0:17:24.14,0:17:27.19,Default,Maebel,0,0,0,,Je suis là\Nparce que je suis une guérisseuse,
+Dialogue: 0,0:17:27.52,0:17:29.19,Default,Maebel,0,0,0,,mais je ne suis que rang C.
+Dialogue: 0,0:17:29.31,0:17:32.90,Default,Maebel,0,0,0,,Je compte sur vous,\Nmes chers aventuriers de rang B.
+Dialogue: 0,0:17:33.40,0:17:35.20,Default,Elymas,0,0,0,,Et on compte sur toi aussi.
+Dialogue: 0,0:17:35.53,0:17:38.99,Default,Elymas,0,0,0,,Mais entre nous,\Non vient à peine d’être promus.
+Dialogue: 0,0:17:39.16,0:17:41.20,Default,Ruche,0,0,0,,Ravie de faire ta connaissance !
+Dialogue: 0,0:17:41.58,0:17:45.66,Default,Elymas,0,0,0,,Je suis Elymas, un chevalier cuirassé,\Net voici Ruche, un bouffon.
+Dialogue: 0,0:17:46.25,0:17:47.46,Default,Ruche,0,0,0,,Encore merci.
+Dialogue: 0,0:17:47.75,0:17:52.75,Italique,Elymas,0,0,0,,Ouf, on dirait que notre mage blanche\Nest digne de confiance.
+Dialogue: 0,0:17:55.34,0:17:57.76,Default,Kelt,0,0,0,,On a pas encore mis un pied\Ndans le donjon.
+Dialogue: 0,0:17:57.88,0:18:01.26,Default,Kelt,0,0,0,,Arrêtez de lui faire gaspiller\Nses précieux PM.
+Dialogue: 0,0:18:01.72,0:18:05.77,Italique,Elymas,0,0,0,,Si je ne me trompe pas,\Nc’est un chasseur de rang B
+Dialogue: 0,0:18:06.02,0:18:07.02,Italique,Elymas,0,0,0,,du nom de Kelt.
+Dialogue: 0,0:18:07.48,0:18:11.27,Italique,Elymas,0,0,0,!!!,C’est l’un des aventuriers de ce raid\Ndont le niveau est le plus haut.
+Dialogue: 0,0:18:11.52,0:18:15.36,Default,Kelt,0,0,0,,Te préoccupe pas des rigolos\Nqui foncent dans le tas au premier péon.
+Dialogue: 0,0:18:15.74,0:18:20.62,Default,Kelt,0,0,0,,Moi qui espérais avoir un guérisseur\Nqui sache se ménager…
+Dialogue: 0,0:18:20.82,0:18:23.24,Default,Maebel,0,0,0,,Oh, je suis désolée, Kelt.
+Dialogue: 0,0:18:23.37,0:18:26.12,Default,Maebel,0,0,0,,Je ferai plus attention, à l’avenir.
+Dialogue: 0,0:18:26.45,0:18:29.21,Default,Elymas,0,0,0,,Facile à dire après coup.\NContre autant d’ennemis,
+Dialogue: 0,0:18:29.37,0:18:33.29,Default,Elymas,0,0,0,,attaquer pour réduire leur nombre\Nest loin d’être un mauvais choix.
+Dialogue: 0,0:18:33.46,0:18:38.38,Default,Elymas,0,0,0,,Ce n’était de toute façon pas une raison\Npour plomber l’ambiance avec ta remarque.
+Dialogue: 0,0:18:38.93,0:18:43.89,Default,Kelt,0,0,0,,Tu piges vraiment que dalle.\NCe raid est une bataille d’attrition.
+Dialogue: 0,0:18:44.18,0:18:48.89,Default,Kelt,0,0,0,,On doit passer le donjon au peigne fin.\NRien à voir avec une banale exploration.
+Dialogue: 0,0:18:49.23,0:18:51.06,Default,Kelt,0,0,0,,Laisse ta fierté au vestiaire,
+Dialogue: 0,0:18:51.31,0:18:52.81,Default,Kelt,0,0,0,,sale blanc-bec.
+Dialogue: 0,0:18:59.61,0:19:03.91,Default,Elymas,0,0,0,,C’est pour t’imposer dans le groupe\Nque tu nous sors ton petit discours.
+Dialogue: 0,0:19:07.45,0:19:12.08,Italique,Elymas,0,0,0,,Avec sa remarque, il a fait en sorte\Nque notre mage blanche suive ses ordres
+Dialogue: 0,0:19:12.38,0:19:14.88,Italique,Elymas,0,0,0,,et que notre avant-garde\Nhésite à attaquer.
+Dialogue: 0,0:19:15.92,0:19:20.30,Italique,Elymas,0,0,0,,Quand les attaquants piétinent,\Nl’arrière-garde peut achever les monstres.
+Dialogue: 0,0:19:20.55,0:19:22.26,Italique,Elymas,0,0,0,,Voilà qui est Kelt, le chasseur.
+Dialogue: 0,0:19:22.64,0:19:27.14,Default,Kelt,0,0,0,,À force de dire des conneries,\Ntu vas me décevoir,
+Dialogue: 0,0:19:27.39,0:19:28.47,Default,Kelt,0,0,0,,mon grand.
+Dialogue: 0,0:19:29.10,0:19:30.81,Default,Kelt,0,0,0,,Utilise ton cerveau, un peu.
+Dialogue: 0,0:19:33.65,0:19:37.11,Default,Kelt,0,0,0,,Eh ben !\NÇa me fait un sacré butin, là.
+Dialogue: 0,0:19:37.86,0:19:42.16,Default,Kelt,0,0,0,!!!,Celui qui donnait le dernier coup\Nraflait tout… C’est ce qu’on avait décidé.
+Dialogue: 0,0:19:42.32,0:19:44.24,Default,Kelt,0,0,0,,Je vais pas me faire prier.
+Dialogue: 0,0:19:44.49,0:19:47.04,Default,Ruche,0,0,0,,C’est pas juste,\Nc’est grâce à moi…
+Dialogue: 0,0:19:51.08,0:19:52.79,Default,Elymas,0,0,0,,L’écoute pas, Maebel.
+Dialogue: 0,0:19:53.17,0:19:56.75,Default,Elymas,0,0,0,,Il cherchait depuis le départ\Nun prétexte pour t’intimider.
+Dialogue: 0,0:19:57.21,0:19:58.67,Default,Maebel,0,0,0,,Ne t’en fais pas.
+Dialogue: 0,0:19:59.26,0:20:01.01,Default,Maebel,0,0,0,,Quand on est guérisseur,
+Dialogue: 0,0:20:01.13,0:20:04.30,Default,Maebel,0,0,0,,on est souvent amené\Nà croiser des individus de son genre.
+Dialogue: 0,0:20:04.59,0:20:07.76,Default,Maebel,0,0,0,,Avec eux,\Nil faut prétendre courber l’échine
+Dialogue: 0,0:20:07.93,0:20:11.31,Default,Maebel,0,0,0,,et trouver des prétextes\Npour délayer les soins.
+Dialogue: 0,0:20:12.10,0:20:15.16,Default,Maebel,0,0,0,,Ils finissent tôt ou tard\Npar rentrer dans le rang.
+Dialogue: 0,0:20:15.44,0:20:18.15,Default,Maebel,0,0,0,,Une fois dans le donjon,\Non sera plus à l’étroit.
+Dialogue: 0,0:20:18.27,0:20:20.69,Default,Maebel,0,0,0,C ???,Et avec sa défense si basse,
+Dialogue: 0,0:20:20.82,0:20:23.66,Default,Maebel,0,0,0,C ???,chasseur ou non, il finira blessé.
+Dialogue: 0,0:20:24.45,0:20:28.87,Default,Maebel,0,0,0,,Vous me plaisez, tous les deux,\Nalors j’espère qu’on s’entendra bien.
+Dialogue: 0,0:20:29.16,0:20:30.75,Default,Elymas,0,0,0,,Ah… Tant mieux.
+Dialogue: 0,0:20:31.08,0:20:33.79,Default,Elymas,0,0,0,,Nous aussi, on espère.
+Dialogue: 0,0:20:34.25,0:20:37.25,Italique,Elymas,0,0,0,,Les aventuriers chevronnés\Nde ce monde
+Dialogue: 0,0:20:37.54,0:20:41.59,Italique,Elymas,0,0,0,,sont bien plus farouches\Nque je le pensais.
+Dialogue: 0,0:20:42.84,0:20:45.26,Italique,Elymas,0,0,0,,Avec le recul, cette mage blanche
+Dialogue: 0,0:20:45.39,0:20:49.39,Italique,Elymas,0,0,0,,devait chercher à gagner les faveurs\Nde quelques aventuriers.
+Dialogue: 0,0:20:50.14,0:20:53.35,Italique,Elymas,0,0,0,,Elle a lancé son sort\Nun peu trop vite à mon goût.
+Dialogue: 0,0:20:59.90,0:21:03.03,Italique,Elymas,0,0,0,,On a esquivé\Nle plus de morts-vivants possibles…
+Dialogue: 0,0:21:04.24,0:21:05.78,Italique,Elymas,0,0,0,,mais on a dû en affronter.
+Dialogue: 0,0:21:09.95,0:21:15.83,Sign,Sign,0,0,0,,{\an4\bord0.1\fs14\blur0.5\b1\clip(179.2,285.6,190.4,316.8)\t(0,2571,\clip(175.2,285.6,472,316))\pos(192.8,299.2)}ENTRÉE DU TOMBEAU DES LAMENTATIONS
+Dialogue: 0,0:21:12.50,0:21:15.83,Sign,Sign,0,0,0,,{\fad(501,0)\an4\bord0.1\fs9\blur0.5\b1\pos(537.6,308)}NIVEAU\NRECOMMANDÉ :
+Dialogue: 0,0:21:10.79,0:21:15.04,Italique,Elymas,0,0,0,,{\an8}On a finalement atteint l’entrée\Ndu Tombeau des lamentations.
+Dialogue: 0,0:21:16.17,0:21:17.88,Default,Elymas,0,0,0,,Il porte bien son nom.
+Dialogue: 0,0:21:18.00,0:21:22.09,Default,Ruche,0,0,0,,Ils auraient pu prendre un peu plus soin\Nde leurs sépultures, quand même.
+Dialogue: 0,0:21:22.34,0:21:24.88,Default,Ruche,0,0,0,,On a un donjon sur les bras,\Nmaintenant.
+Dialogue: 0,0:21:25.09,0:21:28.09,Default,Elymas,0,0,0,,Il devait y avoir un village\Nnon loin d’ici.
+Dialogue: 0,0:21:28.64,0:21:32.97,Default,Elymas,0,0,0,,Soit il a disparu,\Nsoit ses habitants sont partis à Lacoryna.
+Dialogue: 0,0:21:33.31,0:21:36.60,Italique,Elymas,0,0,0,,Ici aussi,\Nd’étranges événements se produisent.
+Dialogue: 0,0:21:36.94,0:21:38.60,Italique,Elymas,0,0,0,,On doit en découvrir la raison.
+Dialogue: 0,0:23:05.82,0:23:07.82,Default,Credits,0,0,0,,{\an8}Traduction : Sami Ghalleb\NAdaptation : Corentin Le Corre
+Dialogue: 0,0:23:07.94,0:23:09.94,Default,Credits,0,0,0,,{\an8}Repérage : Nolan Fond\NRelecture : Stéphanie Noardo
+Dialogue: 0,0:23:12.41,0:23:17.16,Italique,Elymas,0,0,0,,Ruche et moi participons à un raid\Nréunissant des aventuriers aguerris.
+Dialogue: 0,0:23:17.66,0:23:20.12,Italique,Elymas,0,0,0,,Afin d’éliminer\Nun maximum de monstres,
+Dialogue: 0,0:23:20.25,0:23:23.88,Italique,Elymas,0,0,0,,nous progressons en petits groupes\Navec de nouveaux compagnons,
+Dialogue: 0,0:23:25.09,0:23:26.55,Italique,Elymas,0,0,0,,Kelt et Maebel.
+Dialogue: 0,0:23:27.05,0:23:30.55,Italique,Elymas,0,0,0,,Le moins qu’on puisse dire,\Nc’est qu’ils ont du caractère.
+Dialogue: 0,0:23:31.26,0:23:34.55,Italique,Elymas,0,0,0,,À suivre : Kelt, le chasseur,\Net Maebel, la prêtresse.
+Dialogue: 0,0:23:34.80,0:23:37.68,Italique,Elymas,0,0,0,,Si seulement ça pouvait être\Nnos seuls problèmes.
+
