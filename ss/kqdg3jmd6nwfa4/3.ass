@@ -1,0 +1,312 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:21.21,0:00:23.74,Gen_Main,Hilde,0,0,0,,¡Ahí están, infelices!
+Dialogue: 0,0:00:23.84,0:00:27.84,Gen_Main,Hilde,0,0,0,,¡Devuélvanme los 50 millones\Nque me robaron!
+Dialogue: 0,0:00:31.92,0:00:34.19,Gen_Main,Elymas,0,0,0,,Ya veo. Vendiste tu arma.
+Dialogue: 0,0:00:34.29,0:00:36.59,Gen_Main,Elymas; Ruche,0,0,0,,-¡Corre, Ruche!\N-¡Sí!
+Dialogue: 0,0:00:38.30,0:00:39.84,Gen_Main,Hilde,0,0,0,,¡No escaparán!
+Dialogue: 0,0:00:44.06,0:00:45.20,Gen_Main,Carlos,0,0,0,,Hilde.
+Dialogue: 0,0:00:55.74,0:00:58.10,Gen_Main,Carlos,0,0,0,,¿Ese es el caballero pesado?
+Dialogue: 0,0:01:10.00,0:01:13.00,Gen_Italics,Elymas/Id,0,0,0,,Esta aura… Esta sensación tan intensa…
+Dialogue: 0,0:01:17.93,0:01:22.94,Gen_Italics,Elymas/Id,0,0,0,,Debe ser el auténtico Filo Ígneo Negro.
+Dialogue: 0,0:01:28.44,0:01:30.95,Gen_Main,Hilde,0,0,0,,¡Son ellos, maestro!
+Dialogue: 0,0:01:31.37,0:01:35.90,Gen_Main,Hilde,0,0,0,,¡Me robaron el dinero\Ncon toda una serie de artimañas!
+Dialogue: 0,0:01:42.48,0:01:43.66,Gen_Italics,Elymas/Id,0,0,0,,Ya me lo imaginaba.
+Dialogue: 0,0:01:45.49,0:01:47.10,Gen_Main,Carlos,0,0,0,,Soy un espadachín mágico.
+Dialogue: 0,0:01:48.06,0:01:50.63,Gen_Main,Carlos,0,0,0,,Soy aventurero de rango A.\NMe llamo Carlos.
+Dialogue: 0,0:01:51.61,0:01:55.64,Gen_Main,Carlos,0,0,0,,Tenía ganas de conocerte\Ndesde que Hilde me habló de ti.
+Dialogue: 0,0:02:00.69,0:02:02.69,Gen_Main,Carlos,0,0,0,,Elymas, el caballero pesado.
+Dialogue: 0,0:03:45.08,0:03:51.42,Cart_A_Tre,CARTEL,0,0,0,,{\b1\an2\bord1\shad1.25\fs18\fade(557,557)\3c&H0E0B09&\4c&H0E0B09&\pos(430.867,302.2)}Episodio 21
+Dialogue: 0,0:03:45.08,0:03:51.42,Cart_A_Tre,CARTEL,0,0,0,,{\b1\an3\bord1\shad1.25\fs16\fade(557,557)\3c&H0E0B09&\4c&H0E0B09&\pos(601.867,301.2)}El Filo Ígneo Negro
+Dialogue: 0,0:03:53.01,0:03:58.63,Gen_Main,Carlos,0,0,0,,Disculpen,\Npero antes debo comprobar una cosa.
+Dialogue: 0,0:03:59.03,0:04:03.14,Gen_Main,Carlos,0,0,0,,¿Es cierto\Nque le estafaron dinero a Hilde?
+Dialogue: 0,0:04:07.52,0:04:11.02,Gen_Italics,Elymas/Id,0,0,0,,El Filo Ígneo Negro\Nes realmente poderoso.
+Dialogue: 0,0:04:11.52,0:04:15.43,Gen_Italics,Elymas/Id,0,0,0,,Si peleamos contra él ahora,\Nno tendremos ninguna oportunidad.
+Dialogue: 0,0:04:15.53,0:04:18.54,Gen_Main,Elymas,0,0,0,,Nos exigió que le diéramos\Nmi espada de mitrilo,
+Dialogue: 0,0:04:18.90,0:04:21.91,Gen_Main,Elymas,0,0,0,,así que resolvimos la disputa\Ncon un duelo.
+Dialogue: 0,0:04:22.33,0:04:23.69,Gen_Main,Elymas,0,0,0,,Y este fue el resultado.
+Dialogue: 0,0:04:32.76,0:04:34.92,Gen_Main,Carlos,0,0,0,,Eso pensaba.
+Dialogue: 0,0:04:40.93,0:04:42.12,Gen_Main,Hilde,0,0,0,,¡Ay!
+Dialogue: 0,0:04:42.22,0:04:45.22,Gen_Main,Hilde,0,0,0,,Maestro, ¿por qué hiciste eso?
+Dialogue: 0,0:04:46.64,0:04:49.79,Gen_Main,Carlos,0,0,0,,Ya me imaginaba que habría pasado eso.
+Dialogue: 0,0:04:49.89,0:04:54.05,Gen_Main,Hilde,0,0,0,,¿Qué? ¡Pero si dijiste que me creías!
+Dialogue: 0,0:04:54.15,0:04:57.36,Gen_Main,Carlos,0,0,0,,Solo pedí que me llevaras ante ellos\Npara poder conocerlos.
+Dialogue: 0,0:04:58.41,0:05:04.77,Gen_Main,Carlos,0,0,0,,Hilde, sigues llamándome maestro,\Npero yo no me considero tal.
+Dialogue: 0,0:05:04.87,0:05:07.96,Gen_Main,Hilde,0,0,0,,¿Cómo dices, maestro?
+Dialogue: 0,0:05:12.77,0:05:17.38,Gen_Main,Carlos,0,0,0,,Aunque sé que parecerá que eludo\Nmi responsabilidad al decirlo ahora.
+Dialogue: 0,0:05:18.50,0:05:23.13,Gen_Main,Carlos,0,0,0,,Mi descuido parece haberles causado\Nmuchas molestias.
+Dialogue: 0,0:05:23.23,0:05:25.89,Gen_Main,Elymas,0,0,0,,No, en absoluto.\NNo fue ninguna molestia.
+Dialogue: 0,0:05:26.31,0:05:29.79,Gen_Main,Elymas,0,0,0,,Solo acepté su desafío\Npara ganar algo de dinero.
+Dialogue: 0,0:05:29.89,0:05:31.81,Gen_Main,Elymas,0,0,0,,Podría haberme negado.
+Dialogue: 0,0:05:33.30,0:05:37.09,Gen_Main,Carlos,0,0,0,,Cuando yo era novato,\Nno tuve buenos compañeros.
+Dialogue: 0,0:05:37.19,0:05:41.20,Gen_Main,Carlos,0,0,0,,A raíz de eso, creo que ahora\Nsé juzgar bien a las personas.
+Dialogue: 0,0:05:42.72,0:05:45.35,Gen_Main,Carlos,0,0,0,,Eres un buen tipo, Elymas.
+Dialogue: 0,0:05:45.45,0:05:49.07,Gen_Italics,Elymas/Id,0,0,0,,Es tan buena persona\Nque hasta me incomoda.
+Dialogue: 0,0:05:49.17,0:05:52.21,Gen_Italics,Elymas/Id,0,0,0,,No entiendo cómo salió así su discípula.
+Dialogue: 0,0:05:53.83,0:05:56.86,Gen_Main,Carlos,0,0,0,,En cuanto al dinero,
+Dialogue: 1,0:05:56.96,0:06:01.09,Gen_Main,Carlos,0,0,0,,por su propio bien,\Nno se lo devuelvas por nada del mundo.
+Dialogue: 0,0:05:59.96,0:06:01.17,Cart_A_Tre,CARTEL,0,0,0,,{\fscx30\b1\fs25\an2\blur0.5\c&HFFB9FC&\3c&HFFFAFF&\bord1\t(108,149,\fscx130)\t(441,483,\fscx100)\fade(1,200)\pos(330.667,182)}Chaaan
+Dialogue: 0,0:06:01.72,0:06:05.12,Gen_Main,Carlos,0,0,0,,Solo aprende a golpes.
+Dialogue: 0,0:06:05.22,0:06:07.12,Gen_Main,Elymas,0,0,0,,Ah, está bien…
+Dialogue: 0,0:06:07.22,0:06:10.93,Gen_Main,Carlos,0,0,0,,Tengo otra petición que hacerles.
+Dialogue: 0,0:06:12.16,0:06:15.31,Gen_Main,Carlos,0,0,0,,Pero mejor hablemos en otro sitio.\NLos invito a comer.
+Dialogue: 0,0:06:26.31,0:06:29.14,Gen_Main,Elymas,0,0,0,,Bueno, ¿qué nos querías pedir?
+Dialogue: 0,0:06:29.24,0:06:32.27,Gen_Main,Carlos,0,0,0,,Últimamente, cerca de Lacoryna,
+Dialogue: 0,0:06:32.46,0:06:36.00,Gen_Main,Carlos,0,0,0,,se están produciendo\Nextraños desastres con monstruos.
+Dialogue: 0,0:06:36.92,0:06:40.20,Gen_Main,Carlos,0,0,0,,Es un fenómeno realmente extraño.
+Dialogue: 0,0:06:40.30,0:06:43.97,Gen_Main,Carlos,0,0,0,,Salen monstruos en masa\Nde mazmorras recién aparecidas.
+Dialogue: 0,0:06:44.69,0:06:48.10,Gen_Main,Carlos,0,0,0,,Se suceden casos rarísimos\Nde evoluciones de la existencia.
+Dialogue: 0,0:06:48.67,0:06:54.99,Gen_Main,Carlos,0,0,0,,¿Es casualidad\No hay alguna causa detrás?
+Dialogue: 0,0:06:55.09,0:06:59.02,Gen_Main,Carlos,0,0,0,,Estuve investigando por mi cuenta\Nlas mazmorras de Lacoryna.
+Dialogue: 0,0:06:59.53,0:07:04.17,Gen_Main,Carlos,0,0,0,,Hace poco, el Gremio de aventureros\Nrecibió nuevos informes.
+Dialogue: 0,0:07:04.27,0:07:08.48,Gen_Main,Carlos,0,0,0,,Parece claro que algo se está gestando.
+Dialogue: 0,0:07:09.17,0:07:12.18,Gen_Main,Elymas,0,0,0,,¿Te refieres a la Galería del Ciempiés?
+Dialogue: 0,0:07:12.28,0:07:13.60,Gen_Main,Carlos,0,0,0,,¿Ya te enteraste?
+Dialogue: 0,0:07:13.74,0:07:16.58,Gen_Main,Carlos,0,0,0,,Se nota que eres un buen aventurero.
+Dialogue: 0,0:07:17.04,0:07:21.50,Gen_Main,Carlos,0,0,0,,Llevo casi dos semanas\Ninvestigando por mi cuenta,
+Dialogue: 0,0:07:22.40,0:07:25.31,Gen_Main,Carlos,0,0,0,,pero no pude superar cierta mazmorra.
+Dialogue: 0,0:07:25.41,0:07:28.51,Gen_Main,Elymas,0,0,0,,¿No pudiste? Pero si eres de rango A.
+Dialogue: 0,0:07:30.55,0:07:36.52,Gen_Main,Elymas,0,0,0,,No debería haber mazmorras tan duras\Npara alguien de rango A en Lacoryna.
+Dialogue: 0,0:07:36.84,0:07:39.20,Gen_Main,Carlos,0,0,0,,Surgió una concentración de monstruos.
+Dialogue: 0,0:07:39.91,0:07:43.19,Gen_Main,Carlos,0,0,0,,No pude hacer nada yo solo.
+Dialogue: 0,0:07:44.53,0:07:49.62,Gen_Italics,Elymas/Id,0,0,0,,Una concentración de monstruos\Nhace que salgan en masa de una mazmorra.
+Dialogue: 0,0:07:50.39,0:07:54.15,Gen_Italics,Elymas/Id,0,0,0,,Era un desastre muy temido\Ntambién en {\i0}Magic World{\i1}.
+Dialogue: 0,0:07:54.91,0:07:58.71,Gen_Italics,Elymas/Id,0,0,0,,Como sospechaba, lo del ciembrazos\Nno fue un caso aislado.
+Dialogue: 0,0:07:59.79,0:08:04.21,Gen_Italics,Elymas/Id,0,0,0,,Hay algo provocando estos desastres.
+Dialogue: 0,0:08:05.57,0:08:09.97,Gen_Main,Elymas,0,0,0,,Si aumenta la frecuencia\Nde estos desastres en todo el mundo,
+Dialogue: 0,0:08:11.02,0:08:15.55,Gen_Main,Elymas,0,0,0,,el territorio habitable para los humanos\Nse reducirá drásticamente.
+Dialogue: 0,0:08:16.75,0:08:19.69,Gen_Main,Ruche,0,0,0,,No puede ser tan malo, Elymas…
+Dialogue: 0,0:08:19.79,0:08:22.15,Gen_Main,Ruche,0,0,0,,Seguro que estás exagerando.
+Dialogue: 0,0:08:22.66,0:08:26.15,Gen_Main,Carlos,0,0,0,,No creo que esté exagerando.
+Dialogue: 0,0:08:27.10,0:08:28.68,Gen_Main,Carlos,0,0,0,,Yo estoy de acuerdo con Elymas.
+Dialogue: 0,0:08:33.72,0:08:36.05,Gen_Main,Carlos,0,0,0,,Así que vayamos al grano.
+Dialogue: 0,0:08:37.51,0:08:40.83,Gen_Main,Carlos,0,0,0,,Quiero proponerles una misión de asalto.
+Dialogue: 0,0:08:42.33,0:08:45.96,Gen_Main,Carlos,0,0,0,,La mazmorra de la que tuve que retirarme\Nes el Cementerio del Dolor.
+Dialogue: 0,0:08:46.09,0:08:49.29,Gen_Main,Carlos,0,0,0,,Quiero que me ayuden a investigar\Ny a superar esa mazmorra.
+Dialogue: 0,0:08:51.09,0:08:56.33,Gen_Main,Carlos,0,0,0,,Si solo fuera una concentración,\Nno tendría tanta prisa por superarla,
+Dialogue: 0,0:08:56.43,0:08:58.42,Gen_Main,Carlos,0,0,0,,pero esa mazmorra es nueva.
+Dialogue: 0,0:08:58.52,0:09:02.88,Gen_Main,Carlos,0,0,0,,Aún no se daban las condiciones\Npara una catástrofe así.
+Dialogue: 0,0:09:03.72,0:09:07.86,Gen_Main,Carlos,0,0,0,,La situación puede empeorar\Nsi no actuamos pronto.
+Dialogue: 0,0:09:12.46,0:09:15.37,Gen_Main,Ruche,0,0,0,,¿Qué hacemos, Elymas?
+Dialogue: 0,0:09:16.98,0:09:22.00,Gen_Main,Elymas,0,0,0,,Normalmente, diría que sí enseguida,\Npero hay algo que me inquieta.
+Dialogue: 0,0:09:22.15,0:09:23.15,Gen_Main,Ruche,0,0,0,,¿Eh?
+Dialogue: 0,0:09:25.44,0:09:27.80,Gen_Italics,Elymas/Id,0,0,0,,Nos acompañará un aventurero de rango A.
+Dialogue: 0,0:09:27.90,0:09:31.88,Gen_Italics,Elymas/Id,0,0,0,,Como espadachín mágico,\Nle enseñó a Hilde cuándo retirarse.
+Dialogue: 0,0:09:32.18,0:09:33.78,Gen_Italics,Elymas/Id,0,0,0,,No cometerá ninguna locura.
+Dialogue: 0,0:09:33.88,0:09:37.14,Gen_Italics,Elymas/Id,0,0,0,,Aun así, hay algo en todo esto\Nque me da mala espina.
+Dialogue: 0,0:09:38.35,0:09:39.35,Gen_Italics,Elymas/Id,0,0,0,,Pero…
+Dialogue: 0,0:09:42.05,0:09:45.02,Gen_Main,Elymas,0,0,0,,Quiero ir de todas formas.
+Dialogue: 0,0:09:51.24,0:09:57.58,Gen_Italics,Elymas/Id,0,0,0,,Si pasa algo extraño en este mundo,\Nel único que puede detenerlo
+Dialogue: 0,0:09:57.94,0:10:01.31,Gen_Italics,Elymas/Id,0,0,0,,gracias a todos los recuerdos\Nde {\i0}Magic World{\i1}…
+Dialogue: 0,0:10:01.87,0:10:03.10,Gen_Italics,Elymas/Id,0,0,0,,soy yo.
+Dialogue: 0,0:10:05.14,0:10:09.13,Gen_Main,Hilde,0,0,0,,¡Hace tiempo que no peleamos\Ncodo a codo!
+Dialogue: 0,0:10:09.70,0:10:12.05,Gen_Main,Carlos,0,0,0,,Hilde, no hace falta que vengas.
+Dialogue: 0,0:10:12.15,0:10:14.76,Gen_Main,Hilde,0,0,0,,¡¿Qué?! ¡Maestro!
+Dialogue: 0,0:10:15.37,0:10:16.96,Gen_Main,Carlos,0,0,0,,Es broma.
+Dialogue: 0,0:10:43.57,0:10:47.54,Gen_Italics,Elymas/Id,0,0,0,,Bajo el mando de Carlos, Ruche y yo\Npartimos a una misión de asalto
+Dialogue: 0,0:10:47.64,0:10:50.89,Gen_Italics,Elymas/Id,0,0,0,,para investigar y superar\Nel Cementerio del Dolor.
+Dialogue: 0,0:11:01.37,0:11:07.02,Gen_Main,Elymas,0,0,0,,Los gremios de grandes ciudades\Nreúnen más aventureros de alto nivel.
+Dialogue: 0,0:11:07.34,0:11:11.87,Gen_Main,Ruche,0,0,0,,Y deben confiar mucho en Carlos.
+Dialogue: 0,0:11:11.97,0:11:13.28,Gen_Main,Elymas,0,0,0,,Pues sí.
+Dialogue: 0,0:11:16.03,0:11:25.79,Cart_A_Tre,CARTEL,0,0,0,,{\fs8\b1\bord0\fade(200,1)\an2\fax-.2\t(2186,2715,\3c&HC7B11D&\blur1\bord1)\c&HF8FFB3&\pos(191.81,27.46)}Nivel: 64
+Dialogue: 0,0:11:16.03,0:11:25.79,Cart_A_Tre,CARTEL,0,0,0,,{\fs8\b1\bord0\fade(200,1)\an2\fax-.2\t(2186,2715,\3c&HC7B11D&\blur1\bord1)\c&HF8FFB3&\pos(56.381,27.46)}Elymas\NEdvaughn
+Dialogue: 0,0:11:16.20,0:11:25.79,Cart_A_Tre,CARTEL,0,0,0,,{\fs8\b1\bord0\fade(200,1)\an2\fax-.2\t(2186,2715,\3c&HC7B11D&\blur1\bord1)\c&HF8FFB3&\pos(112,14)}Clase: Caballero pesado
+Dialogue: 0,0:11:16.57,0:11:25.79,Cart_A_Tre,CARTEL,0,0,0,,{\fs8\b1\bord0\fade(300,1)\an2\t(1857,2399,\blur1\bord1)\c&HFBFEE6&\pos(105,84.222)\3c&HEEB72A&}Ataque
+Dialogue: 0,0:11:16.82,0:11:25.79,Cart_A_Tre,CARTEL,0,0,0,,{\fs8\b1\bord0\fade(200,1)\an2\t(1566,2108,\blur1\bord1)\c&HFBFEE6&\3c&HEEB72A&\pos(105,100.222)}Defensa
+Dialogue: 0,0:11:16.90,0:11:25.79,Cart_A_Tre,CARTEL,0,0,0,,{\fs8\b1\bord0\fade(200,1)\an2\t(1486,2069,\blur1\bord1)\c&HFBFEE6&\3c&HEEB72A&\pos(105,116.222)}Magia
+Dialogue: 2,0:11:17.15,0:11:23.68,Gen_Italics,Elymas/Id,0,0,0,,Berga terminó mi espada de mitrilo\Ny mi armadura de acero negro a tiempo,
+Dialogue: 0,0:11:17.15,0:11:25.79,Cart_A_Tre,CARTEL,0,0,0,,{\fs8\b1\bord0\fade(200,1)\an2\t(1236,1819,\blur1\bord1)\c&HFBFEE6&\3c&HEEB72A&\pos(105,131.333)}Velocidad
+Dialogue: 1,0:11:18.49,0:11:25.79,Cart_A_Tre,CARTEL,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs8\an7\pos(132.286,184.222)}Reflejo de muralla
+Dialogue: 1,0:11:18.49,0:11:25.79,Cart_A_Tre,CARTEL,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs8\an7\pos(132.286,208.222)}Repeler
+Dialogue: 1,0:11:18.49,0:11:25.79,Cart_A_Tre,CARTEL,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs8\an7\pos(132.286,196.222)}Desarmar
+Dialogue: 1,0:11:18.49,0:11:25.79,Cart_A_Tre,CARTEL,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs8\an7\pos(132.286,220.222)}Corte preciso
+Dialogue: 1,0:11:18.49,0:11:25.79,Cart_A_Tre,CARTEL,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs8\an7\pos(132.286,256.222)}Escudo vital
+Dialogue: 1,0:11:18.49,0:11:25.79,Cart_A_Tre,CARTEL,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs8\an7\pos(132.286,244.222)}Embate con escudo
+Dialogue: 1,0:11:18.49,0:11:25.79,Cart_A_Tre,CARTEL,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs8\an7\pos(132.286,232.222)}Pisasombras
+Dialogue: 1,0:11:18.49,0:11:25.79,Cart_A_Tre,CARTEL,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs8\an7\pos(132.286,268.222)}A vida o muerte
+Dialogue: 1,0:11:18.49,0:11:25.79,Cart_A_Tre,CARTEL,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs10\pos(160.222,178.444)\an2}Habilidades
+Dialogue: 1,0:11:18.49,0:11:25.79,Cart_A_Tre,CARTEL,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs10\an2\pos(160.126,150)}Habilidades especiales
+Dialogue: 1,0:11:18.49,0:11:25.79,Cart_A_Tre,CARTEL,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs8\an7\pos(110,154)}Dragón moribundo desbocado
+Dialogue: 1,0:11:18.49,0:11:25.79,Cart_A_Tre,CARTEL,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs10\an2\pos(72.571,150)}Equipo
+Dialogue: 1,0:11:18.49,0:11:25.79,Cart_A_Tre,CARTEL,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs8\an7\pos(42.667,164.222)}Escudo de furia demoníaca
+Dialogue: 1,0:11:18.49,0:11:25.79,Cart_A_Tre,CARTEL,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs8\an7\pos(44,248.666)}Matapesadillas
+Dialogue: 0,0:11:18.49,0:11:25.79,Cart_A_Tre,CARTEL,0,0,0,,{\an7\bord0\p1\fscy220\alpha&120&\c&HD0482A&\fade(479,1)\blur9\pos(33.112,139.778)}m 0 0 l 170 0 170 70 0 70
+Dialogue: 1,0:11:18.49,0:11:25.79,Cart_A_Tre,CARTEL,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs8\an7\pos(42.667,176.556)}Armadura de acero negro
+Dialogue: 1,0:11:18.49,0:11:25.79,Cart_A_Tre,CARTEL,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs8\an7\pos(42.667,152.666)}Espada de mitrilo
+Dialogue: 1,0:11:18.49,0:11:25.79,Cart_A_Tre,CARTEL,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs8\an7\pos(44,207.777)}Inquebrantable
+Dialogue: 1,0:11:18.49,0:11:25.79,Cart_A_Tre,CARTEL,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs8\an7\pos(44,220.999)}Aventurero de rango B
+Dialogue: 1,0:11:18.49,0:11:25.79,Cart_A_Tre,CARTEL,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs10\an2\pos(72.555,202.444)}Títulos
+Dialogue: 1,0:11:18.49,0:11:25.79,Cart_A_Tre,CARTEL,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs8\an7\pos(44,234.444)}Desfavorecido
+Dialogue: 2,0:11:23.78,0:11:25.26,Gen_Italics,Elymas/Id,0,0,0,,así que estoy bien equipado.
+Dialogue: 0,0:11:25.79,0:11:29.98,Gen_Italics,Elymas/Id,0,0,0,,Ya no me tomarán por un novato\Ncon armadura de hierro.
+Dialogue: 0,0:11:30.08,0:11:31.33,Gen_Main,Mary,0,0,0,,¡Elymas!
+Dialogue: 0,0:11:32.21,0:11:34.62,Gen_Main,Elymas,0,0,0,,¿El Colmillo del Dragón Marino\Ndecidió venir?
+Dialogue: 0,0:11:35.04,0:11:39.01,Gen_Main,Mary,0,0,0,,Si las mazmorras se descontrolan,\Nno podremos pescar.
+Dialogue: 0,0:11:39.32,0:11:42.16,Gen_Main,Mary,0,0,0,,Quiero ver qué sabes hacer\Naparte de pescar.
+Dialogue: 0,0:11:42.26,0:11:44.69,Gen_Main,Elymas,0,0,0,,Y yo también quiero ver\Ntus otras habilidades.
+Dialogue: 0,0:11:45.72,0:11:46.82,Gen_Main,Mary,0,0,0,,¡Por la pesca!
+Dialogue: 0,0:11:46.92,0:11:48.35,Gen_Main,Elymas,0,0,0,,¡Por la pesca!
+Dialogue: 0,0:11:49.11,0:11:51.30,Gen_Main,Ruche,0,0,0,,¿No hacemos esto para salvar el mundo?
+Dialogue: 0,0:11:51.40,0:11:52.86,Gen_Main,Tuerto,0,0,0,,¡Sí!
+Dialogue: 0,0:11:59.40,0:12:03.12,Gen_Main,Hilde,0,0,0,,Maestro, ¿hacía falta tanta gente?
+Dialogue: 0,0:12:03.46,0:12:07.87,Gen_Main,Hilde,0,0,0,,No estoy muy convencida.\NBastarían unos pocos sanadores.
+Dialogue: 0,0:12:09.08,0:12:14.55,Gen_Main,Carlos,0,0,0,,La situación podría empeorar,\Nasí que traje a más gente.
+Dialogue: 0,0:12:15.82,0:12:19.05,Gen_Main,Hilde,0,0,0,,No sirve de nada cargar con lastres.
+Dialogue: 0,0:12:19.49,0:12:23.01,Gen_Main,Aventurero 5,0,0,0,,¿Por qué usa una guadaña\Nla discípula del Filo Ígneo Negro?
+Dialogue: 0,0:12:23.49,0:12:27.92,Gen_Main,Aventurero 4,0,0,0,,Quién sabe. Quizá aprendió\Nun árbol de habilidades de guadaña.
+Dialogue: 0,0:12:28.02,0:12:31.27,Gen_Italics,Elymas/Id,0,0,0,,Intentó pedirle prestada otra arma\Na Carlos,
+Dialogue: 0,0:12:31.61,0:12:33.54,Gen_Main_Up,Carlos,0,0,0,,No, sigue usando esa guadaña.
+Dialogue: 1,0:12:32.05,0:12:35.28,Gen_Italics,Elymas/Id,0,0,0,,pero él le dijo que asumiera\Nlas consecuencias de sus actos.
+Dialogue: 1,0:12:33.62,0:12:35.28,Gen_Main_Up,Hilde,0,0,0,,¡¿Qué?!
+Dialogue: 0,0:12:33.73,0:12:35.28,Cart_A_Tre,CARTEL,0,0,0,,{\fade(189,1)\an2\t(189,1480,\fs30)\b1\move(209.778,81.556,208,68.444,189,1480)\c&H90F1F1&\frz357.2}Shock
+Dialogue: 0,0:12:35.78,0:12:40.85,Gen_Main,Ruche,0,0,0,,Me gustaría saber por qué Carlos\Naceptó a esa Hilde como discípula.
+Dialogue: 0,0:12:40.95,0:12:43.47,Gen_Main,Hilde,0,0,0,,¡Pues perdón por ser esa Hilde!
+Dialogue: 0,0:12:44.24,0:12:47.50,Gen_Main,Ruche,0,0,0,,¡Lo siento! ¡No era mi intención!
+Dialogue: 0,0:12:48.72,0:12:53.38,Gen_Main,Carlos,0,0,0,,No hice nada\Npara merecer que me llamen maestro.
+Dialogue: 0,0:12:53.73,0:12:57.05,Gen_Main,Carlos,0,0,0,,Creo que la clase de espadachín mágico\Nes muy poderosa.
+Dialogue: 0,0:12:58.34,0:13:02.22,Gen_Main,Carlos,0,0,0,,Ataca con fuerza,\Npero consume muchos recursos.
+Dialogue: 0,0:13:02.51,0:13:05.55,Gen_Main,Carlos,0,0,0,,Eso suele generar roces\Ncon nuestros compañeros de grupo.
+Dialogue: 0,0:13:05.65,0:13:08.98,Gen_Main,Carlos,0,0,0,,Sin guía, Hilde acabaría\Naislada y resentida en el gremio.
+Dialogue: 0,0:13:09.46,0:13:13.60,Gen_Main,Carlos,0,0,0,,Acabaría muriendo\Npor cometer alguna locura ella sola.
+Dialogue: 0,0:13:15.52,0:13:17.86,Gen_Italics,Elymas/Id,0,0,0,,Es verdad. En {\i0}Magic World{\i1},
+Dialogue: 0,0:13:17.94,0:13:21.43,Gen_Italics,Elymas/Id,0,0,0,,lo que le convenía al espadachín mágico\Nno le servía al grupo.
+Dialogue: 0,0:13:21.53,0:13:23.17,Gen_Main,Espadachín mágico,0,0,0,,Encárguense de los débiles.
+Dialogue: 0,0:13:23.27,0:13:24.68,Gen_Main,Espadachín mágico,0,0,0,,Yo me centro en el jefe.
+Dialogue: 0,0:13:24.78,0:13:25.78,Gen_Main,Miembro del grupo A,0,0,0,,¡Eso no es justo!
+Dialogue: 0,0:13:25.88,0:13:26.95,Gen_Main,Miembro del grupo B,0,0,0,,¡No seas egoísta!
+Dialogue: 0,0:13:27.68,0:13:31.12,Gen_Main,Carlos,0,0,0,,La impaciencia nos impide\Nver las cosas como los demás.
+Dialogue: 0,0:13:32.43,0:13:34.50,Gen_Main,Carlos,0,0,0,,Yo también fui así alguna vez.
+Dialogue: 0,0:13:37.28,0:13:39.50,Gen_Main,Carlos,0,0,0,,Me frustraba que los demás\Nno lo entendieran.
+Dialogue: 0,0:13:39.60,0:13:45.19,Gen_Main,Carlos,0,0,0,,Tenía prisa por triunfar y no comprendía\Ncómo podían ser tan egoístas.
+Dialogue: 0,0:13:48.05,0:13:53.17,Gen_Main,Carlos,0,0,0,,Ojalá hubiera tenido a alguien\Nque me aconsejara con calma.
+Dialogue: 0,0:13:55.77,0:13:59.28,Gen_Main,Carlos,0,0,0,,Por eso me acerqué a Hilde.
+Dialogue: 0,0:14:02.81,0:14:07.95,Gen_Main,Hilde,0,0,0,,Mi maestro es fuerte,\Namable y de mente abierta.
+Dialogue: 0,0:14:08.33,0:14:10.45,Gen_Main,Hilde,0,0,0,,Es impresionante, ¿verdad?
+Dialogue: 0,0:14:10.81,0:14:14.76,Gen_Main,Elymas,0,0,0,,Ojalá su alumna\Nse pareciera a él un poco más.
+Dialogue: 0,0:14:14.86,0:14:16.46,Gen_Main,Hilde,0,0,0,,¿Qué dijiste?
+Dialogue: 0,0:14:17.38,0:14:19.59,Gen_Main,Hilde,0,0,0,,¡Y tú no te rías, insolente!
+Dialogue: 0,0:14:28.61,0:14:32.48,Gen_Main,Ruche,0,0,0,,No me imagino que Carlos\Nhaya pasado por algo así.
+Dialogue: 0,0:14:32.78,0:14:37.38,Gen_Main,Elymas,0,0,0,,Creo que exagera para que Hilde\Npueda salvar las apariencias.
+Dialogue: 0,0:14:37.48,0:14:38.86,Gen_Main,Ruche,0,0,0,,¿Tú crees?
+Dialogue: 0,0:14:40.04,0:14:41.23,Gen_Main,Carlos,0,0,0,,Alto, chicos.
+Dialogue: 0,0:15:08.45,0:15:09.46,Gen_Main,Carlos,0,0,0,,Se acerca algo.
+Dialogue: 0,0:15:10.31,0:15:12.68,Cart_A_Tre,CARTEL,0,0,0,,{\b1\blur1.5\bord1\c&HFFFFDE&\3c&HE1E294&\t(730,1105,\c&HFEFBD5&\3c&HDFAF26&)\an7\fade(250,1)\fs15\pos(400.134,207.556)}Monstruo: Lobo rabioso
+Dialogue: 1,0:15:11.46,0:15:13.86,Gen_Main,Ruche,0,0,0,,¡¿Un monstruo de nivel 52 de entrada?!
+Dialogue: 0,0:15:13.96,0:15:16.19,Gen_Main,Carlos,0,0,0,,¡Es una horda salida de la mazmorra!
+Dialogue: 0,0:15:17.01,0:15:18.52,Gen_Main,Carlos,0,0,0,,¡Los interceptaremos!
+Dialogue: 0,0:15:18.93,0:15:23.97,Gen_Italics,Elymas/Id,0,0,0,,Si una horda así invadiera Rondalm,\Nel señor feudal tendría que intervenir.
+Dialogue: 0,0:15:40.08,0:15:41.08,Gen_Main,Elymas,0,0,0,,¡Ruche!
+Dialogue: 0,0:15:42.42,0:15:43.70,Gen_Italics,Voz del sistema,0,0,0,,Estado: Envenenamiento.
+Dialogue: 1,0:15:43.80,0:15:45.70,Gen_Main,Ruche,0,0,0,,¡Lo envenené!
+Dialogue: 0,0:15:43.88,0:15:45.42,Cart_A_Tre,CARTEL,0,0,0,,{\b1\fs25\bord1\c&H68BEFA&\3c&H9F2EBD&\fade(396,0)\an2\pos(147.333,208)}Estado alterado\N{\b1\alphaFF\t(521,1022,\alpha00)\c&HF830F6&\3c&H500033&}Envenenamiento
+Dialogue: 0,0:15:45.80,0:15:47.54,Gen_Main,Elymas,0,0,0,,¡Genial! ¡No tardaste nada!
+Dialogue: 0,0:15:47.93,0:15:51.93,Gen_Italics,Elymas/Id,0,0,0,,Es por la nueva arma de Ruche,\Nla daga de ciempiés venenoso.
+Dialogue: 0,0:15:52.58,0:15:58.21,Gen_Italics,Elymas/Id,0,0,0,,Con su elevada Suerte y tantos golpes,\Nes fácil que envenene al enemigo.
+Dialogue: 1,0:15:58.94,0:16:05.44,Gen_Italics,Elymas/Id,0,0,0,,Además, el veneno en {\i0}Magic World{\i1}\Nreduce la Velocidad un 10 %.
+Dialogue: 0,0:16:00.90,0:16:05.44,Cart_A_Tre,CARTEL,0,0,0,,{\b1\fs25\bord1\c&H68BEFA&\3c&H9F2EBD&\fade(396,0)\pos(500.222,205.333)\an2}Estado alterado\N{\b1\alphaFF\t(521,1022,\alpha00)\c&HF830F6&\3c&H500033&}Envenenamiento
+Dialogue: 0,0:16:06.00,0:16:07.80,Gen_Main,Ruche,0,0,0,,¡Acabemos con esto!
+Dialogue: 1,0:16:07.90,0:16:10.91,Gen_Italics,Voz del sistema,0,0,0,,Has obtenido 174 puntos de experiencia.
+Dialogue: 0,0:16:08.99,0:16:10.91,Cart_A_Tre,CARTEL,0,0,0,,{\fad(606,2)\b1\bord1\shad2\blur0.5\fs18\c&H2ADDF5&\3c&H292830&\4c&H292830&\pos(183.026,58.586)\an2}Has obtenido 174 puntos de experiencia
+Dialogue: 0,0:16:18.83,0:16:20.83,Gen_Main,Elymas,0,0,0,,¡Todavía quedan más enemigos!
+Dialogue: 0,0:16:21.18,0:16:22.91,Gen_Main,Elymas,0,0,0,,¡Sigue acabando con ellos!
+Dialogue: 0,0:16:23.58,0:16:24.84,Gen_Main,Ruche,0,0,0,,¡Sí!
+Dialogue: 0,0:16:40.32,0:16:42.36,Gen_Main,Ruche,0,0,0,,Ya acabé con todos.
+Dialogue: 0,0:16:42.82,0:16:46.36,Gen_Main,Elymas,0,0,0,,Vaya bienvenida.\NY eso que aún no hemos entrado.
+Dialogue: 0,0:16:47.16,0:16:50.65,Gen_Main,Elymas,0,0,0,,Tu daga de ciempiés venenoso\Nfue efectiva, Ruche.
+Dialogue: 0,0:16:50.75,0:16:53.77,Gen_Main,Ruche,0,0,0,,Bueno, mi clase tiene\Npoco poder ofensivo,
+Dialogue: 0,0:16:53.87,0:16:57.87,Gen_Main,Ruche,0,0,0,,así que agradezco tener una daga\Nque cause estados alterados.
+Dialogue: 0,0:16:58.29,0:17:00.87,Gen_Main,Ruche,0,0,0,,De golpe me siento mucho más fuerte.
+Dialogue: 0,0:17:01.20,0:17:04.29,Gen_Main,Elymas,0,0,0,,Pero te hirieron. ¿Estás bien?
+Dialogue: 0,0:17:05.57,0:17:08.01,Gen_Main,Ruche,0,0,0,,Me emocioné demasiado con el arma nueva.
+Dialogue: 0,0:17:08.44,0:17:13.68,Gen_Main,Ruche,0,0,0,,Estoy bien, pero ¿crees\Nque debería tomarme una poción curativa?
+Dialogue: 0,0:17:14.12,0:17:15.15,Gen_Main,Maebel,0,0,0,,Curar.
+Dialogue: 0,0:17:17.68,0:17:20.59,Gen_Main,Ruche,0,0,0,,Gracias, este…
+Dialogue: 0,0:17:20.69,0:17:24.06,Gen_Main,Maebel,0,0,0,,Me llamo Maebel. Soy sacerdotisa.
+Dialogue: 0,0:17:24.16,0:17:27.15,Gen_Main,Maebel,0,0,0,,Me trajeron como sanadora,
+Dialogue: 0,0:17:27.52,0:17:29.21,Gen_Main,Maebel,0,0,0,,pero solo soy de rango C.
+Dialogue: 0,0:17:29.31,0:17:32.86,Gen_Main,Maebel,0,0,0,,Cuento con ustedes dos, de rango B.
+Dialogue: 0,0:17:33.20,0:17:35.39,Gen_Main,Elymas,0,0,0,,Nosotros también contamos contigo.
+Dialogue: 0,0:17:35.49,0:17:39.03,Gen_Main,Elymas,0,0,0,,Dicho esto,\Nla verdad es que aún somos novatos.
+Dialogue: 0,0:17:39.13,0:17:41.21,Gen_Main,Ruche,0,0,0,,Encantada de conocerte…
+Dialogue: 0,0:17:41.60,0:17:43.38,Gen_Main,Elymas,0,0,0,,Yo soy Elymas, un caballero pesado.
+Dialogue: 0,0:17:43.48,0:17:45.74,Gen_Main,Elymas,0,0,0,,Ella es Ruche, una pierrot.
+Dialogue: 0,0:17:46.23,0:17:47.46,Gen_Main,Ruche,0,0,0,,Me llamo Ruche.
+Dialogue: 0,0:17:47.80,0:17:52.76,Gen_Italics,Elymas/Id,0,0,0,,Menos mal que nuestra sanadora\Nparece de fiar.
+Dialogue: 0,0:17:55.35,0:17:57.79,Gen_Main,Kelt,0,0,0,,Aún no estamos en la mazmorra.
+Dialogue: 0,0:17:57.89,0:18:01.27,Gen_Main,Kelt,0,0,0,,No malgasten los valiosos PM\Nde nuestra sanadora.
+Dialogue: 0,0:18:01.70,0:18:06.93,Gen_Italics,Elymas/Id,0,0,0,,Este tipo se llama Kelt,\Ny es un cazador de rango B.
+Dialogue: 0,0:18:07.49,0:18:11.43,Gen_Italics,Elymas/Id,0,0,0,,Es de los integrantes de mayor nivel\Nen esta misión de asalto.
+Dialogue: 0,0:18:11.53,0:18:15.37,Gen_Main,Kelt,0,0,0,,Ignora a quienes se excedan\Nya desde el principio.
+Dialogue: 0,0:18:15.72,0:18:20.52,Gen_Main,Kelt,0,0,0,,No puedo creer que nuestra sanadora\Nno sepa medirse.
+Dialogue: 0,0:18:20.62,0:18:26.13,Gen_Main,Maebel,0,0,0,,Lo siento, Kelt.\NPensaré más antes de actuar.
+Dialogue: 0,0:18:26.49,0:18:27.69,Gen_Main,Elymas,0,0,0,,Ahora es fácil decirlo.
+Dialogue: 0,0:18:27.79,0:18:29.25,Gen_Main,Elymas,0,0,0,,Frente a tantos enemigos,
+Dialogue: 0,0:18:29.35,0:18:33.38,Gen_Main,Elymas,0,0,0,,conviene reducir su número primero,
+Dialogue: 0,0:18:33.48,0:18:38.39,Gen_Main,Elymas,0,0,0,,y no compensa generar tensión\Npor echárselo en cara.
+Dialogue: 0,0:18:38.92,0:18:41.06,Gen_Main,Kelt,0,0,0,,Tú no lo entiendes.
+Dialogue: 0,0:18:41.16,0:18:43.89,Gen_Main,Kelt,0,0,0,,Esta misión de asalto es una maratón.
+Dialogue: 0,0:18:44.20,0:18:46.73,Gen_Main,Kelt,0,0,0,,El objetivo es investigar su interior.
+Dialogue: 0,0:18:46.83,0:18:48.90,Gen_Main,Kelt,0,0,0,,No se trata de una simple exploración.
+Dialogue: 0,0:18:49.26,0:18:52.85,Gen_Main,Kelt,0,0,0,,Y será mejor\Nque no me provoques, novato.
+Dialogue: 0,0:18:59.45,0:19:03.91,Gen_Main,Elymas,0,0,0,,Creaste tensión a propósito\Npara controlar al grupo.
+Dialogue: 0,0:19:07.33,0:19:12.09,Gen_Italics,Elymas/Id,0,0,0,,Lo que dijo daba a entender que podía\Ndarle órdenes a nuestra sanadora
+Dialogue: 0,0:19:12.43,0:19:14.93,Gen_Italics,Elymas/Id,0,0,0,,y frenar a la vanguardia.
+Dialogue: 0,0:19:15.91,0:19:18.29,Gen_Italics,Elymas/Id,0,0,0,,Como cazador, ataca desde atrás,
+Dialogue: 0,0:19:18.39,0:19:22.22,Gen_Italics,Elymas/Id,0,0,0,,y se beneficia cuando la vanguardia\Nno logra abatir a los enemigos.
+Dialogue: 0,0:19:22.65,0:19:28.55,Gen_Main,Kelt,0,0,0,,No hagas el ridículo\Nhablando de más, chico.
+Dialogue: 0,0:19:28.94,0:19:30.94,Gen_Main,Kelt,0,0,0,,Usa la cabeza.
+Dialogue: 0,0:19:33.67,0:19:37.11,Gen_Main,Kelt,0,0,0,,Parece que cayó buen botín.
+Dialogue: 0,0:19:37.82,0:19:42.25,Gen_Main,Kelt,0,0,0,,Según las reglas, se lo lleva\Nquien da el golpe de gracia,
+Dialogue: 0,0:19:42.35,0:19:44.15,Gen_Main,Kelt,0,0,0,,así que me lo quedo.
+Dialogue: 0,0:19:44.25,0:19:47.11,Gen_Main,Ruche,0,0,0,,Pero si ese botín cayó\Ngracias a mi habilidad…
+Dialogue: 0,0:19:51.07,0:19:53.04,Gen_Main,Elymas,0,0,0,,No le hagas caso, Maebel.
+Dialogue: 0,0:19:53.14,0:19:56.82,Gen_Main,Elymas,0,0,0,,Su plan era intimidarnos\Nal señalar nuestros defectos.
+Dialogue: 0,0:19:57.24,0:19:58.63,Gen_Main,Maebel,0,0,0,,Descuida.
+Dialogue: 0,0:19:59.05,0:20:04.31,Gen_Main,Maebel,0,0,0,,Como sanadora, los tipos como él\Nsiempre intentan aprovecharse de mí.
+Dialogue: 0,0:20:04.65,0:20:11.31,Gen_Main,Maebel,0,0,0,,Pero basta con fingir una disculpa\Ny retrasarles la curación con excusas…
+Dialogue: 0,0:20:12.13,0:20:15.22,Gen_Main,Maebel,0,0,0,,para bajarles los humos como se merecen.
+Dialogue: 0,0:20:15.32,0:20:18.22,Gen_Main,Maebel,0,0,0,,Dentro de la mazmorra,\Nhay menos espacio.
+Dialogue: 0,0:20:18.32,0:20:24.14,Gen_Main,Maebel,0,0,0,,Hasta un cazador puede sufrir daño,\Ny su clase tiene poca Defensa.
+Dialogue: 0,0:20:24.24,0:20:29.07,Gen_Main,Maebel,0,0,0,,Quiero llevarme bien con ustedes dos,\Nasí que cuento con los dos.
+Dialogue: 0,0:20:29.17,0:20:30.75,Gen_Main,Elymas,0,0,0,,¿Ah, sí?
+Dialogue: 0,0:20:31.08,0:20:33.78,Gen_Main,Elymas,0,0,0,,Te lo agradecemos.
+Dialogue: 0,0:20:34.24,0:20:37.27,Gen_Italics,Elymas/Id,0,0,0,,Quizá los aventureros veteranos
+Dialogue: 0,0:20:37.61,0:20:41.64,Gen_Italics,Elymas/Id,0,0,0,,sean más duros de lo que pensaba.
+Dialogue: 0,0:20:42.85,0:20:49.47,Gen_Italics,Elymas/Id,0,0,0,,Ahora que lo pienso, quizá nos curó\Npara ganarse nuestra confianza.
+Dialogue: 0,0:20:50.13,0:20:53.54,Gen_Italics,Elymas/Id,0,0,0,,No tenía por qué usar Curar aún.
+Dialogue: 0,0:20:59.91,0:21:05.81,Gen_Italics,Elymas/Id,0,0,0,,Evitamos a los no muertos de la zona\Ny nos enfrentamos a algunos de ellos…
+Dialogue: 0,0:21:09.96,0:21:15.84,Cart_A_Tre,CARTEL,0,0,0,,{\bord0\an7\fade(2350,1)\b1\fs15\pos(210.486,292.99)}Cementerio del Dolor Entrada
+Dialogue: 1,0:21:10.69,0:21:15.12,Gen_Italics_top,Elymas/Id,0,0,0,,hasta llegar a la entrada\Ndel Cementerio del Dolor.
+Dialogue: 0,0:21:12.58,0:21:15.84,Cart_A_Tre,CARTEL,0,0,0,,{\bord0\fs8\b1\an7\fade(430,1)\pos(540.833,310.202)}Nivel recomendado: 70
+Dialogue: 0,0:21:16.25,0:21:17.93,Gen_Main,Elymas,0,0,0,,El nombre le queda perfecto.
+Dialogue: 0,0:21:18.03,0:21:22.09,Gen_Main,Ruche,0,0,0,,¿No podían haberles dado\Nun entierro digno?
+Dialogue: 0,0:21:22.38,0:21:25.06,Gen_Main,Ruche,0,0,0,,Y encima apareció una mazmorra.
+Dialogue: 0,0:21:25.16,0:21:28.10,Gen_Main,Elymas,0,0,0,,Puede que antes hubiera un pueblo cerca.
+Dialogue: 0,0:21:28.62,0:21:32.98,Gen_Main,Elymas,0,0,0,,Quizá el pueblo desapareció\No sus habitantes se mudaron a Lacoryna.
+Dialogue: 0,0:21:33.31,0:21:36.83,Gen_Italics,Elymas/Id,0,0,0,,Aquí ocurre algo,\Ncomo en la Galería del Ciempiés.
+Dialogue: 0,0:21:36.93,0:21:38.72,Gen_Italics,Elymas/Id,0,0,0,,Debo averiguar qué está pasando.
+Dialogue: 0,0:23:12.46,0:23:17.15,Gen_Italics,Elymas/Na,0,0,0,,En una misión de asalto, Ruche y yo\Nnos unimos a aventureros de alto nivel.
+Dialogue: 0,0:23:17.68,0:23:20.18,Gen_Italics,Elymas/Na,0,0,0,,Nos juntamos con nuevos aliados
+Dialogue: 0,0:23:20.28,0:23:23.88,Gen_Italics,Elymas/Na,0,0,0,,al separarnos en grupos\Npara abatir el máximo de monstruos.
+Dialogue: 0,0:23:25.05,0:23:30.22,Gen_Italics,Elymas/Na,0,0,0,,Kelt y Maebel son bastante… peculiares.
+Dialogue: 0,0:23:31.26,0:23:34.67,Gen_Italics,Elymas/Na,0,0,0,,Próximamente: Kelt, el cazador,\Ny Maebel, la sacerdotisa.
+Dialogue: 0,0:23:34.77,0:23:37.84,Gen_Italics,Elymas/Na,0,0,0,,Espero que esa sea\Nla única de nuestras preocupaciones.
+
