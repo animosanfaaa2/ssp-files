@@ -1,0 +1,280 @@
+[Script Info]
+Title:
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+ScriptType: V4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Font1,Arial,20,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0.00,0,1,2,0,2,64,64,36,0
+Style: Font2,Arial,20,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0.00,0,1,2,0,2,64,64,36,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.33,Font1,,0000,0000,0000,,{\an1}
+Dialogue: 0,0:00:21.22,0:00:23.77,Font1,,0000,0000,0000,,Tu jesteście, dranie!\n
+Dialogue: 0,0:00:23.85,0:00:27.77,Font1,,0000,0000,0000,,Oddawajcie moje 50 milionów!\n
+Dialogue: 0,0:00:31.90,0:00:34.11,Font1,,0000,0000,0000,,Rozumiem. Sprzedałaś swoją broń.\n
+Dialogue: 0,0:00:34.20,0:00:36.24,Font1,,0000,0000,0000,,- Uciekamy, Ruche!\n- Dobra!\n
+Dialogue: 0,0:00:38.28,0:00:39.95,Font1,,0000,0000,0000,,Nie zwiejecie.\n
+Dialogue: 0,0:00:44.04,0:00:45.21,Font1,,0000,0000,0000,,Hilde.\n
+Dialogue: 0,0:00:55.72,0:00:58.09,Font1,,0000,0000,0000,,To ten ciężki rycerz?\n
+Dialogue: 0,0:01:09.98,0:01:12.98,Font1,,0000,0000,0000,,{\i1}Ta aura, ta presja…\n
+Dialogue: 0,0:01:17.95,0:01:22.87,Font1,,0000,0000,0000,,{\i1}To musi być Ostrze Czarnego Płomienia.\n
+Dialogue: 0,0:01:28.46,0:01:30.88,Font1,,0000,0000,0000,,To oni, mistrzu!\n
+Dialogue: 0,0:01:31.38,0:01:35.59,Font1,,0000,0000,0000,,Podstępem ukradli mi pieniądze!\n
+Dialogue: 0,0:01:42.47,0:01:43.64,Font1,,0000,0000,0000,,{\i1}Wiedziałem.\n
+Dialogue: 0,0:01:45.48,0:01:47.31,Font1,,0000,0000,0000,,Mam klasę magicznego szermierza.\n
+Dialogue: 0,0:01:47.85,0:01:50.56,Font1,,0000,0000,0000,,Jestem Carlos, poszukiwacz rangi A.\n
+Dialogue: 0,0:01:51.61,0:01:55.57,Font1,,0000,0000,0000,,Chciałem cię poznać,\nodkąd Hilde mi o tobie opowiedziała…\n
+Dialogue: 0,0:02:00.70,0:02:02.78,Font1,,0000,0000,0000,,Elymasie, ciężki rycerzu.\n
+Dialogue: 0,0:03:45.55,0:03:51.02,Font1,,0000,0000,0000,,{\an8}ODCINEK 21. OSTRZE CZARNEGO PŁOMIENIA\n
+Dialogue: 0,0:03:53.02,0:03:54.44,Font1,,0000,0000,0000,,Wybacz,\n
+Dialogue: 0,0:03:54.52,0:03:58.11,Font1,,0000,0000,0000,,ale najpierw muszę coś potwierdzić.\n
+Dialogue: 0,0:03:59.03,0:04:03.07,Font1,,0000,0000,0000,,To prawda, że podstępem\nwyłudziłeś od Hilde pieniądze?\n
+Dialogue: 0,0:04:07.53,0:04:10.95,Font1,,0000,0000,0000,,{\i1}Ostrze Czarnego Płomienia\njest naprawdę potężny.\n
+Dialogue: 0,0:04:11.50,0:04:15.46,Font1,,0000,0000,0000,,{\i1}Gdybyśmy tu z nim walczyli,\nnie mielibyśmy żadnych szans.\n
+Dialogue: 0,0:04:15.54,0:04:18.71,Font1,,0000,0000,0000,,Zażądała, żebyśmy oddali jej\nnasz mithrilowy miecz,\n
+Dialogue: 0,0:04:18.80,0:04:21.38,Font1,,0000,0000,0000,,więc rozstrzygnęliśmy sprawę w pojedynku.\n
+Dialogue: 0,0:04:22.34,0:04:23.68,Font1,,0000,0000,0000,,A oto rezultat.\n
+Dialogue: 0,0:04:32.77,0:04:34.85,Font1,,0000,0000,0000,,Tak myślałem.\n
+Dialogue: 0,0:04:41.11,0:04:42.15,Font1,,0000,0000,0000,,Au!\n
+Dialogue: 0,0:04:42.24,0:04:45.16,Font1,,0000,0000,0000,,Mistrzu, za co?!\n
+Dialogue: 0,0:04:46.61,0:04:49.83,Font1,,0000,0000,0000,,Podejrzewałem, że tak właśnie było.\n
+Dialogue: 0,0:04:49.91,0:04:54.08,Font1,,0000,0000,0000,,Co? Przecież mówiłeś, że mi wierzysz!\n
+Dialogue: 0,0:04:54.16,0:04:57.29,Font1,,0000,0000,0000,,Powiedziałem, żebyś mi ich pokazała,\nchciałem ich poznać.\n
+Dialogue: 0,0:04:58.42,0:05:04.42,Font1,,0000,0000,0000,,Hilde, ciągle nazywasz mnie mistrzem,\nale ja się za niego nie uważam.\n
+Dialogue: 0,0:05:04.88,0:05:05.84,Font1,,0000,0000,0000,,Co?\n
+Dialogue: 0,0:05:06.26,0:05:07.68,Font1,,0000,0000,0000,,Mistrzu?\n
+Dialogue: 0,0:05:12.77,0:05:17.31,Font1,,0000,0000,0000,,Choć mówiąc to teraz brzmię,\njakbym unikał odpowiedzialności.\n
+Dialogue: 0,0:05:18.48,0:05:23.15,Font1,,0000,0000,0000,,Przez moje zaniedbanie\nnarobiła wam sporo kłopotów.\n
+Dialogue: 0,0:05:23.23,0:05:25.82,Font1,,0000,0000,0000,,Nie, nic nie szkodzi.\n
+Dialogue: 0,0:05:26.32,0:05:29.82,Font1,,0000,0000,0000,,Po prostu przyjąłem jej wyzwanie,\nżeby trochę zarobić.\n
+Dialogue: 0,0:05:29.91,0:05:31.79,Font1,,0000,0000,0000,,Mogłem odmówić.\n
+Dialogue: 0,0:05:33.29,0:05:37.12,Font1,,0000,0000,0000,,Kiedy byłem początkujący,\ntrafiałem na nienajlepszych kompanów.\n
+Dialogue: 0,0:05:37.21,0:05:41.13,Font1,,0000,0000,0000,,Dlatego sądzę,\nże teraz trafnie oceniam ludzi.\n
+Dialogue: 0,0:05:42.71,0:05:45.38,Font1,,0000,0000,0000,,Jesteś dobrym człowiekiem, Elymasie.\n
+Dialogue: 0,0:05:45.47,0:05:49.09,Font1,,0000,0000,0000,,{\i1}Jest aż tak porządny,\nże zaczynam czuć się niezręcznie.\n
+Dialogue: 0,0:05:49.18,0:05:52.14,Font1,,0000,0000,0000,,{\i1}Jak jego uczennica\nwyrosła na kogoś takiego?\n
+Dialogue: 0,0:05:53.85,0:05:56.89,Font1,,0000,0000,0000,,A co do pieniędzy,\n
+Dialogue: 0,0:05:56.98,0:06:00.81,Font1,,0000,0000,0000,,dla jej własnego dobra nie oddawaj ich.\n
+Dialogue: 0,0:06:01.73,0:06:05.15,Font1,,0000,0000,0000,,Uczy się tylko wtedy,\ngdy ponosi konsekwencje.\n
+Dialogue: 0,0:06:05.61,0:06:06.86,Font1,,0000,0000,0000,,Dobrze.\n
+Dialogue: 0,0:06:07.74,0:06:10.87,Font1,,0000,0000,0000,,Mam do ciebie jeszcze jedną prośbę.\n
+Dialogue: 0,0:06:12.16,0:06:15.25,Font1,,0000,0000,0000,,Ale pomówmy gdzie indziej.\nZapraszam na obiad.\n
+Dialogue: 0,0:06:26.30,0:06:29.18,Font1,,0000,0000,0000,,Więc o co chcesz nas poprosić?\n
+Dialogue: 0,0:06:29.26,0:06:32.18,Font1,,0000,0000,0000,,Ostatnio w okolicach Lacoryny\n
+Dialogue: 0,0:06:32.26,0:06:35.60,Font1,,0000,0000,0000,,przybywa dziwnych katastrof z potworami.\n
+Dialogue: 0,0:06:36.93,0:06:39.81,Font1,,0000,0000,0000,,To naprawdę nietypowe zjawisko.\n
+Dialogue: 0,0:06:40.31,0:06:43.90,Font1,,0000,0000,0000,,Z nowo powstałych lochów\nwylewają się potwory.\n
+Dialogue: 0,0:06:44.69,0:06:48.03,Font1,,0000,0000,0000,,Rzadkie Ewolucje Istnienia\nnastępują jedna po drugiej.\n
+Dialogue: 0,0:06:48.65,0:06:54.99,Font1,,0000,0000,0000,,Czy to tylko zbieg okoliczności,\nczy stoi za tym jakaś przyczyna?\n
+Dialogue: 0,0:06:55.08,0:06:58.96,Font1,,0000,0000,0000,,Prowadzę własne śledztwo,\nodwiedzając lochy wokół Lacoryny.\n
+Dialogue: 0,0:06:59.54,0:07:04.00,Font1,,0000,0000,0000,,Gildia Poszukiwaczy\nzdobyła ostatnio nowe informacje.\n
+Dialogue: 0,0:07:04.59,0:07:08.47,Font1,,0000,0000,0000,,Wygląda na to,\nże coś rzeczywiście jest na rzeczy.\n
+Dialogue: 0,0:07:09.17,0:07:12.18,Font1,,0000,0000,0000,,Mówisz o Galerii Stonogi?\n
+Dialogue: 0,0:07:12.26,0:07:16.51,Font1,,0000,0000,0000,,Skoro już o niej wiesz,\nmusisz naprawdę być dobrym poszukiwaczem.\n
+Dialogue: 0,0:07:17.02,0:07:21.44,Font1,,0000,0000,0000,,Od prawie dwóch tygodni\nprowadzę własne dochodzenie,\n
+Dialogue: 0,0:07:22.40,0:07:25.32,Font1,,0000,0000,0000,,ale nie zdołałem pokonać pewnego lochu.\n
+Dialogue: 0,0:07:25.40,0:07:28.44,Font1,,0000,0000,0000,,Jak to? Przecież masz rangę A.\n
+Dialogue: 0,0:07:30.53,0:07:33.87,Font1,,0000,0000,0000,,W okolicach Lacoryny\nnie powinny pojawiać się lochy\n
+Dialogue: 0,0:07:33.95,0:07:36.45,Font1,,0000,0000,0000,,zbyt trudne dla poszukiwacza rangi A.\n
+Dialogue: 0,0:07:36.87,0:07:39.20,Font1,,0000,0000,0000,,Doszło do Wysypu Potworów.\n
+Dialogue: 0,0:07:39.91,0:07:43.12,Font1,,0000,0000,0000,,Sam nie mogłem nic na to poradzić.\n
+Dialogue: 0,0:07:44.54,0:07:49.80,Font1,,0000,0000,0000,,{\i1}Wysyp Potworów to zjawisko, gdy z lochu\nwypełza nienaturalnie wiele potworów.\n
+Dialogue: 0,0:07:50.38,0:07:54.14,Font1,,0000,0000,0000,,{\i1}Tej katastrofy\nobawiano się również w Magic World.\n
+Dialogue: 0,0:07:54.93,0:07:58.72,Font1,,0000,0000,0000,,{\i1}Słusznie sadziłem,\nże Death Amude nie była wyjątkiem.\n
+Dialogue: 0,0:07:59.81,0:08:04.15,Font1,,0000,0000,0000,,{\i1}Coś musi wywoływać te katastrofy.\n
+Dialogue: 0,0:08:05.56,0:08:09.90,Font1,,0000,0000,0000,,Jeśli katastrofy związane z potworami\nzaczną występować wszędzie,\n
+Dialogue: 0,0:08:11.03,0:08:15.32,Font1,,0000,0000,0000,,obszar nadający się do życia dla ludzi\nznacznie się skurczy.\n
+Dialogue: 0,0:08:15.41,0:08:16.62,Font1,,0000,0000,0000,,Co?!\n
+Dialogue: 0,0:08:16.70,0:08:19.70,Font1,,0000,0000,0000,,Nie może być aż tak źle, panie Elymasie.\n
+Dialogue: 0,0:08:19.79,0:08:22.08,Font1,,0000,0000,0000,,Na pewno przesadzasz.\n
+Dialogue: 0,0:08:22.66,0:08:26.08,Font1,,0000,0000,0000,,Moim zdaniem wcale nie przesadza.\n
+Dialogue: 0,0:08:27.09,0:08:28.67,Font1,,0000,0000,0000,,Zgadzam się z Elymasem.\n
+Dialogue: 0,0:08:33.72,0:08:36.05,Font1,,0000,0000,0000,,Przejdźmy więc do rzeczy.\n
+Dialogue: 0,0:08:37.51,0:08:40.81,Font1,,0000,0000,0000,,Chciałbym wciągnąć was do questa.\n
+Dialogue: 0,0:08:42.39,0:08:45.90,Font1,,0000,0000,0000,,Wycofałem się z lochu\nzwanego Cmentarzem Rozpaczy.\n
+Dialogue: 0,0:08:45.98,0:08:49.27,Font1,,0000,0000,0000,,Chciałbym,\nżebyście pomogli mi go zbadać i przejść.\n
+Dialogue: 0,0:08:51.07,0:08:56.32,Font1,,0000,0000,0000,,Gdyby to był zwykły Wysyp Potworów,\nnie spieszyłbym się z pokonaniem lochu.\n
+Dialogue: 0,0:08:56.41,0:08:58.45,Font1,,0000,0000,0000,,Ale ten pojawił się niedawno.\n
+Dialogue: 0,0:08:58.53,0:09:02.87,Font1,,0000,0000,0000,,Warunki katastrofy z potworami\nnie powinny być jeszcze spełnione.\n
+Dialogue: 0,0:09:03.71,0:09:07.79,Font1,,0000,0000,0000,,Jeśli szybko czegoś nie zrobimy,\nsytuacja się pogorszy.\n
+Dialogue: 0,0:09:12.46,0:09:15.30,Font1,,0000,0000,0000,,Co zrobimy, panie Elymasie?\n
+Dialogue: 0,0:09:16.97,0:09:21.89,Font1,,0000,0000,0000,,Zwykle zgodziłbym się od razu,\nale mam kilka obaw.\n
+Dialogue: 0,0:09:21.97,0:09:23.06,Font1,,0000,0000,0000,,Tak?\n
+Dialogue: 0,0:09:25.56,0:09:27.81,Font1,,0000,0000,0000,,{\i1}Będzie z nami poszukiwacz rangi A.\n
+Dialogue: 0,0:09:27.90,0:09:31.82,Font1,,0000,0000,0000,,{\i1}To magiczny szermierz,\nktóry nauczył Hilde, kiedy się wycofać.\n
+Dialogue: 0,0:09:31.90,0:09:37.07,Font1,,0000,0000,0000,,{\i1}Nie zrobi nic lekkomyślnego.\nA mimo to czuję w tym coś złowrogiego.\n
+Dialogue: 0,0:09:38.37,0:09:39.28,Font1,,0000,0000,0000,,{\i1}Jednak…\n
+Dialogue: 0,0:09:42.04,0:09:44.95,Font1,,0000,0000,0000,,mimo wszystko chcę iść.\n
+Dialogue: 0,0:09:51.25,0:09:54.96,Font1,,0000,0000,0000,,{\i1}Jeśli z tym światem\ndzieje się coś dziwnego,\n
+Dialogue: 0,0:09:55.51,0:09:57.51,Font1,,0000,0000,0000,,{\i1}tylko ja mogę to powstrzymać\n
+Dialogue: 0,0:09:58.01,0:10:03.10,Font1,,0000,0000,0000,,{\i1}dzięki ogromnej wiedzy,\nktórą zdobyłem, grając w Magic World.\n
+Dialogue: 0,0:10:05.35,0:10:06.69,Font1,,0000,0000,0000,,Minęło sporo czasu,\n
+Dialogue: 0,0:10:06.77,0:10:09.31,Font1,,0000,0000,0000,,odkąd walczyliśmy ramię w ramię.\n
+Dialogue: 0,0:10:09.69,0:10:12.07,Font1,,0000,0000,0000,,Hilde, ty nie musisz iść.\n
+Dialogue: 0,0:10:12.15,0:10:14.61,Font1,,0000,0000,0000,,Co?! Ale mistrzu!\n
+Dialogue: 0,0:10:15.36,0:10:16.95,Font1,,0000,0000,0000,,Żartuję.\n
+Dialogue: 0,0:10:43.56,0:10:47.56,Font1,,0000,0000,0000,,{\i1}Pod dowództwem Carlosa\nrazem z Ruche wyruszyliśmy na questa,\n
+Dialogue: 0,0:10:47.64,0:10:51.02,Font1,,0000,0000,0000,,{\i1}by zbadać i przejść Cmentarz Rozpaczy.\n
+Dialogue: 0,0:11:01.36,0:11:06.95,Font1,,0000,0000,0000,,Gildie w dużych miastach mogą zmobilizować\nwięcej poszukiwaczy wysokiej rangi.\n
+Dialogue: 0,0:11:07.45,0:11:11.88,Font1,,0000,0000,0000,,Muszą bardzo ufać panu Carlosowi.\n
+Dialogue: 0,0:11:11.96,0:11:13.21,Font1,,0000,0000,0000,,To prawda.\n
+Dialogue: 0,0:11:15.80,0:11:18.47,Font2,,0000,0000,0000,,{\an8}ELYMAS EDVAUGHN\nKLASA: CIĘŻKI RYCERZ\n
+Dialogue: 0,0:11:17.13,0:11:23.60,Font1,,0000,0000,0000,,{\i1}Veruga zdążył ukończyć\nmithrilowy miecz i zbroję z czarnej stali.\n
+Dialogue: 0,0:11:18.55,0:11:21.84,Font1,,0000,0000,0000,,{\an8}UMIEJĘTNOŚCI SPECJALNE\nSMOCZY SZAŁ: SPOJRZENIE ŚMIERCI\n
+Dialogue: 0,0:11:21.93,0:11:25.72,Font1,,0000,0000,0000,,{\an8}EKWIPUNEK: MITHRILOWY MIECZ\nTARCZA DEMONICZNEGO SZAŁU\n
+Dialogue: 0,0:11:23.68,0:11:25.39,Font1,,0000,0000,0000,,{\i1}Jestem świetnie wyposażony.\n
+Dialogue: 0,0:11:25.81,0:11:29.98,Font1,,0000,0000,0000,,{\i1}Teraz nikt nie będzie mnie traktował\njak początkującego w żelaznej zbroi.\n
+Dialogue: 0,0:11:30.06,0:11:31.31,Font1,,0000,0000,0000,,Elymas!\n
+Dialogue: 0,0:11:32.23,0:11:34.65,Font1,,0000,0000,0000,,Kieł Morskiego Smoka też dołączył?\n
+Dialogue: 0,0:11:35.02,0:11:38.94,Font1,,0000,0000,0000,,Nie będziemy mogli łowić,\njeśli lochy trafi szlag.\n
+Dialogue: 0,0:11:39.49,0:11:42.20,Font1,,0000,0000,0000,,Zobaczymy, co potrafisz poza wędkowaniem.\n
+Dialogue: 0,0:11:42.28,0:11:44.87,Font1,,0000,0000,0000,,Też chętnie zobaczę\ntwoje inne umiejętności.\n
+Dialogue: 0,0:11:45.70,0:11:46.83,Font1,,0000,0000,0000,,Za wędkarstwo!\n
+Dialogue: 0,0:11:46.91,0:11:48.29,Font1,,0000,0000,0000,,Za wędkarstwo!\n
+Dialogue: 0,0:11:49.12,0:11:51.33,Font1,,0000,0000,0000,,Czy nie robimy tego, żeby uratować świat?\n
+Dialogue: 0,0:11:51.41,0:11:52.79,Font1,,0000,0000,0000,,Tak!\n
+Dialogue: 0,0:11:59.63,0:12:03.05,Font1,,0000,0000,0000,,Mistrzu,\nnaprawdę potrzebujemy aż tylu ludzi?\n
+Dialogue: 0,0:12:03.55,0:12:07.81,Font1,,0000,0000,0000,,Nie sądzę.\nKilku uzdrowicieli powinno wystarczyć.\n
+Dialogue: 0,0:12:09.06,0:12:14.48,Font1,,0000,0000,0000,,Sytuacja mogła się pogorszyć,\nwięc zebrałem kilka osób więcej.\n
+Dialogue: 0,0:12:15.81,0:12:18.98,Font1,,0000,0000,0000,,Nie ma sensu ciągnąć ze sobą balastu.\n
+Dialogue: 0,0:12:19.48,0:12:22.95,Font1,,0000,0000,0000,,Czemu uczennica Ostrza Czarnego Płomienia\nwalczy kosą?\n
+Dialogue: 0,0:12:23.49,0:12:27.95,Font1,,0000,0000,0000,,Kto wie?\nMoże wybrała drzewko umiejętności kosy.\n
+Dialogue: 0,0:12:28.03,0:12:31.20,Font1,,0000,0000,0000,,{\i1}Próbowała pożyczyć\nzapasową broń od Carlosa,\n
+Dialogue: 0,0:12:31.62,0:12:33.62,Font1,,0000,0000,0000,,{\an8}Nie. Dalej używaj tej kosy.\n
+Dialogue: 0,0:12:31.96,0:12:35.21,Font1,,0000,0000,0000,,{\i1}ale kazał jej ponieść\nkonsekwencje własnych czynów.\n
+Dialogue: 0,0:12:33.71,0:12:35.21,Font1,,0000,0000,0000,,{\an8}SZOK\n
+Dialogue: 0,0:12:35.79,0:12:40.88,Font1,,0000,0000,0000,,Ciekawe, dlaczego pan Carlos\nwziął panią Hilde pod swoje skrzydła.\n
+Dialogue: 0,0:12:40.96,0:12:43.47,Font1,,0000,0000,0000,,Przepraszam, że ci się nie podobam!\n
+Dialogue: 0,0:12:44.26,0:12:47.43,Font1,,0000,0000,0000,,Przepraszam! Nie to miałam na myśli!\n
+Dialogue: 0,0:12:48.72,0:12:53.31,Font1,,0000,0000,0000,,Nie zrobiłem nic,\nby zasłużyć na miano mistrza.\n
+Dialogue: 0,0:12:53.81,0:12:57.06,Font1,,0000,0000,0000,,Uważam,\nże magiczny szermierz to silna klasa.\n
+Dialogue: 0,0:12:58.31,0:13:02.15,Font1,,0000,0000,0000,,Ma ogromne możliwości ofensywne,\nale zużywa mnóstwo zasobów.\n
+Dialogue: 0,0:13:02.24,0:13:05.57,Font1,,0000,0000,0000,,Przez to często dochodzi\ndo konfliktów z członkami drużyny.\n
+Dialogue: 0,0:13:05.66,0:13:08.91,Font1,,0000,0000,0000,,Bez wsparcia zostałaby odizolowana\ni zeszła na złą drogę.\n
+Dialogue: 0,0:13:09.45,0:13:13.58,Font1,,0000,0000,0000,,Widziałem, że w końcu zginie,\nrobiąc samotnie coś lekkomyślnego.\n
+Dialogue: 0,0:13:15.54,0:13:19.29,Font1,,0000,0000,0000,,{\i1}W Magic World to, co było korzystne\ndla magicznego szermierza,\n
+Dialogue: 0,0:13:19.38,0:13:21.46,Font1,,0000,0000,0000,,{\i1}często szkodziło drużynie.\n
+Dialogue: 0,0:13:21.55,0:13:24.67,Font1,,0000,0000,0000,,Wy zajmijcie się płotkami.\nJa załatwię bossa.\n
+Dialogue: 0,0:13:24.76,0:13:26.89,Font1,,0000,0000,0000,,- To nie fair!\n- Nie bądź egoistą!\n
+Dialogue: 0,0:13:27.68,0:13:31.10,Font1,,0000,0000,0000,,Niecierpliwość sprawia,\nże przestajemy patrzeć oczami innych.\n
+Dialogue: 0,0:13:32.43,0:13:34.48,Font1,,0000,0000,0000,,Kiedyś też taki byłem.\n
+Dialogue: 0,0:13:37.31,0:13:39.52,Font1,,0000,0000,0000,,Frustrowało mnie, że mnie nie rozumieją.\n
+Dialogue: 0,0:13:39.61,0:13:41.73,Font1,,0000,0000,0000,,Chciałem szybko odnieść sukces\n
+Dialogue: 0,0:13:41.82,0:13:45.20,Font1,,0000,0000,0000,,i nie rozumiałem,\nczemu inni są tak samolubni.\n
+Dialogue: 0,0:13:48.03,0:13:50.70,Font1,,0000,0000,0000,,Do dziś żałuję, że nie miałem kogoś,\n
+Dialogue: 0,0:13:50.78,0:13:53.16,Font1,,0000,0000,0000,,kto spokojnie udzieliłby mi rady.\n
+Dialogue: 0,0:13:55.75,0:13:59.21,Font1,,0000,0000,0000,,Dlatego wyciągnąłem rękę do Hildy.\n
+Dialogue: 0,0:14:02.80,0:14:07.88,Font1,,0000,0000,0000,,Mój mistrz jest wyrozumiałym,\nsilnym i dobrym człowiekiem.\n
+Dialogue: 0,0:14:08.34,0:14:10.39,Font1,,0000,0000,0000,,Robi wrażenie, prawda?\n
+Dialogue: 0,0:14:11.18,0:14:14.77,Font1,,0000,0000,0000,,Szkoda, że jego uczennica\nnie przejęła więcej z jego charakteru.\n
+Dialogue: 0,0:14:14.85,0:14:16.39,Font1,,0000,0000,0000,,Słucham?!\n
+Dialogue: 0,0:14:17.39,0:14:19.77,Font1,,0000,0000,0000,,Nie śmiej się, bezczelna dziewucho!\n
+Dialogue: 0,0:14:28.61,0:14:32.41,Font1,,0000,0000,0000,,Nie wyobrażam sobie,\nżeby Carlos miał kiedyś takie problemy.\n
+Dialogue: 0,0:14:32.49,0:14:37.41,Font1,,0000,0000,0000,,Chyba trochę koloryzuje,\nżeby Hilde mogła zachować twarz.\n
+Dialogue: 0,0:14:37.50,0:14:39.04,Font1,,0000,0000,0000,,Tak myślisz?\n
+Dialogue: 0,0:14:40.04,0:14:41.17,Font1,,0000,0000,0000,,Stójce.\n
+Dialogue: 0,0:15:08.15,0:15:09.11,Font1,,0000,0000,0000,,Coś nadchodzi.\n
+Dialogue: 0,0:15:10.32,0:15:12.62,Font2,,0000,0000,0000,,{\an8}POTWÓR: WŚCIEKŁY WILK\n
+Dialogue: 0,0:15:11.45,0:15:13.83,Font1,,0000,0000,0000,,Od razu 52. poziom?!\n
+Dialogue: 0,0:15:13.91,0:15:16.12,Font1,,0000,0000,0000,,Te potwory wypadły z lochu!\n
+Dialogue: 0,0:15:17.00,0:15:18.46,Font1,,0000,0000,0000,,Przechwycimy je!\n
+Dialogue: 0,0:15:18.87,0:15:23.96,Font1,,0000,0000,0000,,{\i1}Gdyby potwory tego poziomu zalały Rondalm,\nmusiałby interweniować lord.\n
+Dialogue: 0,0:15:39.89,0:15:40.73,Font1,,0000,0000,0000,,Ruche!\n
+Dialogue: 0,0:15:42.44,0:15:43.73,Font1,,0000,0000,0000,,{\i1}Stan: zatrucie.\n
+Dialogue: 0,0:15:43.81,0:15:45.36,Font1,,0000,0000,0000,,Otrułam go!\n
+Dialogue: 0,0:15:45.86,0:15:47.86,Font1,,0000,0000,0000,,Świetnie! Szybko zadziałało!\n
+Dialogue: 0,0:15:47.94,0:15:51.86,Font1,,0000,0000,0000,,{\i1}To efekt nowej broni Ruche:\nJadowitego sztyletu Chilopody.\n
+Dialogue: 0,0:15:52.57,0:15:58.20,Font1,,0000,0000,0000,,{\i1}Przy jej Szczęściu i liczbie ataków\nma dużą szansę zatruć cel.\n
+Dialogue: 0,0:15:58.95,0:16:05.38,Font1,,0000,0000,0000,,{\i1}Co więcej, w Magic World\nZatrucie obniżało Szybkość o 10%.\n
+Dialogue: 0,0:16:06.00,0:16:07.50,Font1,,0000,0000,0000,,Pora to skończyć!\n
+Dialogue: 0,0:16:07.92,0:16:10.84,Font1,,0000,0000,0000,,{\i1}Zdobyto 174 PD.\n
+Dialogue: 0,0:16:18.81,0:16:20.39,Font1,,0000,0000,0000,,Nadciągają kolejne!\n
+Dialogue: 0,0:16:20.85,0:16:22.89,Font1,,0000,0000,0000,,Musimy je przetrzebić!\n
+Dialogue: 0,0:16:23.56,0:16:24.77,Font1,,0000,0000,0000,,Dobrze!\n
+Dialogue: 0,0:16:40.33,0:16:42.29,Font1,,0000,0000,0000,,To już wszystkie.\n
+Dialogue: 0,0:16:42.83,0:16:46.29,Font1,,0000,0000,0000,,Niezłe powitanie,\na nawet nie weszliśmy do lochu.\n
+Dialogue: 0,0:16:47.17,0:16:50.67,Font1,,0000,0000,0000,,Jadowity sztylet Chilopody\ndobrze się sprawdził, Ruche.\n
+Dialogue: 0,0:16:50.76,0:16:53.80,Font1,,0000,0000,0000,,Mojej klasie brakuje siły,\n
+Dialogue: 0,0:16:53.88,0:16:57.80,Font1,,0000,0000,0000,,więc cieszę się z noża,\nktóry zadaje specjalne obrażenia.\n
+Dialogue: 0,0:16:58.30,0:17:00.81,Font1,,0000,0000,0000,,Nagle poczułam się znacznie silniejsza.\n
+Dialogue: 0,0:17:01.31,0:17:04.23,Font1,,0000,0000,0000,,Trochę oberwałaś. Wszystko gra?\n
+Dialogue: 0,0:17:05.56,0:17:08.36,Font1,,0000,0000,0000,,Za bardzo podekscytowałam się nową bronią.\n
+Dialogue: 0,0:17:08.44,0:17:13.61,Font1,,0000,0000,0000,,Nic mi nie jest, ale może mimo wszystko\npowinnam użyć mikstury leczenia?\n
+Dialogue: 0,0:17:14.11,0:17:15.16,Font1,,0000,0000,0000,,Leczenie.\n
+Dialogue: 0,0:17:18.37,0:17:20.62,Font1,,0000,0000,0000,,Dziękuję, pani…\n
+Dialogue: 0,0:17:20.70,0:17:24.08,Font1,,0000,0000,0000,,Jestem Mabel, kapłanka.\n
+Dialogue: 0,0:17:24.16,0:17:29.21,Font1,,0000,0000,0000,,Zabrali mnie, bo jestem uzdrowicielką,\nale mam tylko rangę C.\n
+Dialogue: 0,0:17:29.29,0:17:32.80,Font1,,0000,0000,0000,,Liczę więc na was, poszukiwaczy rangi B.\n
+Dialogue: 0,0:17:33.21,0:17:35.38,Font1,,0000,0000,0000,,My też na ciebie liczymy.\n
+Dialogue: 0,0:17:35.47,0:17:39.05,Font1,,0000,0000,0000,,Chociaż tak naprawdę\njesteśmy nowicjuszami.\n
+Dialogue: 0,0:17:39.14,0:17:41.14,Font1,,0000,0000,0000,,Miło cię poznać.\n
+Dialogue: 0,0:17:41.68,0:17:45.52,Font1,,0000,0000,0000,,Jestem Elymas, ciężki rycerz.\nA to Ruche, pierrot.\n
+Dialogue: 0,0:17:46.23,0:17:47.40,Font1,,0000,0000,0000,,Jestem Ruche.\n
+Dialogue: 0,0:17:47.90,0:17:52.69,Font1,,0000,0000,0000,,{\i1}Nasza praktykantka białej magii\nwygląda na solidną, to dobrze.\n
+Dialogue: 0,0:17:55.36,0:17:57.82,Font1,,0000,0000,0000,,Jeszcze nawet nie weszliśmy do lochu.\n
+Dialogue: 0,0:17:57.91,0:18:01.20,Font1,,0000,0000,0000,,Nie każ uzdrowicielce\nmarnować cennej many.\n
+Dialogue: 0,0:18:01.70,0:18:06.75,Font1,,0000,0000,0000,,{\i1}To Kelt, łowca rangi B.\n
+Dialogue: 0,0:18:07.50,0:18:11.46,Font1,,0000,0000,0000,,{\i1}Jeden z silniejszych członków tej grupy.\n
+Dialogue: 0,0:18:11.54,0:18:15.30,Font1,,0000,0000,0000,,Ignorujcie tych,\nktórzy od początku przesadzają.\n
+Dialogue: 0,0:18:15.92,0:18:20.55,Font1,,0000,0000,0000,,Nie wierzę, że nasza uzdrowicielka\nnie potrafi oszczędzać sił.\n
+Dialogue: 0,0:18:20.64,0:18:26.06,Font1,,0000,0000,0000,,Przepraszam, panie Kelt.\nNastępnym razem będę rozważniejsza.\n
+Dialogue: 0,0:18:26.56,0:18:27.69,Font1,,0000,0000,0000,,Czcze gadanie.\n
+Dialogue: 0,0:18:27.77,0:18:33.19,Font1,,0000,0000,0000,,Przy tylu przeciwnikach,\nwarto szybko przetrzebić ich szeregi.\n
+Dialogue: 0,0:18:33.65,0:18:38.32,Font1,,0000,0000,0000,,A na pewno nie warto\npsuć atmosfery przez taki drobiazg.\n
+Dialogue: 0,0:18:38.91,0:18:41.07,Font1,,0000,0000,0000,,Nic nie rozumiesz.\n
+Dialogue: 0,0:18:41.16,0:18:43.83,Font1,,0000,0000,0000,,To zadanie jest jak maraton.\n
+Dialogue: 0,0:18:43.91,0:18:46.75,Font1,,0000,0000,0000,,Naszym głównym celem\njest zbadanie wnętrza lochu.\n
+Dialogue: 0,0:18:46.83,0:18:48.83,Font1,,0000,0000,0000,,To nie jest zwykła wyprawa.\n
+Dialogue: 0,0:18:48.92,0:18:52.84,Font1,,0000,0000,0000,,Nie szukaj ze mną zwady, nowicjuszu.\n
+Dialogue: 0,0:18:59.47,0:19:03.85,Font1,,0000,0000,0000,,Celowo siejesz zamęt,\nżeby przejąć kontrolę.\n
+Dialogue: 0,0:19:07.35,0:19:12.02,Font1,,0000,0000,0000,,{\i1}Mówi tak, jakby mógł\nrozkazywać naszej uzdrowicielce\n
+Dialogue: 0,0:19:12.52,0:19:15.07,Font1,,0000,0000,0000,,{\i1}i jednocześnie hamować\nnaszą przednią linię.\n
+Dialogue: 0,0:19:16.07,0:19:18.36,Font1,,0000,0000,0000,,{\i1}Jako łowca\natakujący potwory z tylnej linii\n
+Dialogue: 0,0:19:18.45,0:19:22.32,Font1,,0000,0000,0000,,{\i1}Kelt korzysta na tym,\nże front walczy mniej agresywnie.\n
+Dialogue: 0,0:19:22.82,0:19:28.37,Font1,,0000,0000,0000,,Nie ośmieszaj się\nmieląc ozorem, dzieciaku.\n
+Dialogue: 0,0:19:28.96,0:19:30.62,Font1,,0000,0000,0000,,Pomyśl trochę.\n
+Dialogue: 0,0:19:33.67,0:19:37.05,Font1,,0000,0000,0000,,Wygląda na to,\nże tym razem trafiły się dobre łupy.\n
+Dialogue: 0,0:19:37.80,0:19:42.18,Font1,,0000,0000,0000,,Zwyczaj mówi, że należą do tego,\nkto zadał ostatni cios,\n
+Dialogue: 0,0:19:42.26,0:19:44.18,Font1,,0000,0000,0000,,więc to ja je zabiorę.\n
+Dialogue: 0,0:19:44.26,0:19:47.10,Font1,,0000,0000,0000,,Ale wypadły dzięki mojej umiejętności.\n
+Dialogue: 0,0:19:51.06,0:19:53.06,Font1,,0000,0000,0000,,Nie przejmuj się nim, Mabel.\n
+Dialogue: 0,0:19:53.15,0:19:56.73,Font1,,0000,0000,0000,,Od początku chciał nas zastraszyć,\nwytykając nam błędy.\n
+Dialogue: 0,0:19:57.23,0:19:58.61,Font1,,0000,0000,0000,,Nic nie szkodzi.\n
+Dialogue: 0,0:19:59.44,0:20:04.24,Font1,,0000,0000,0000,,Jestem uzdrowicielką.\nCiągle trafiam na takich typów.\n
+Dialogue: 0,0:20:04.78,0:20:07.33,Font1,,0000,0000,0000,,Poza tym jeśli przytakujesz,\n
+Dialogue: 0,0:20:07.41,0:20:11.25,Font1,,0000,0000,0000,,a potem wymyślasz powody,\nby opóźnić leczenie,\n
+Dialogue: 0,0:20:12.12,0:20:15.25,Font1,,0000,0000,0000,,tacy jak on szybko się uspokajają.\n
+Dialogue: 0,0:20:15.34,0:20:18.21,Font1,,0000,0000,0000,,W lochu będzie mniej miejsca.\n
+Dialogue: 0,0:20:18.30,0:20:23.72,Font1,,0000,0000,0000,,Nawet łowca będzie obrywał,\na jego klasa ma niską Obronę.\n
+Dialogue: 0,0:20:24.26,0:20:28.81,Font1,,0000,0000,0000,,Chciałabym się z wami zaprzyjaźnić,\nwięc liczę na waszą pomoc.\n
+Dialogue: 0,0:20:29.18,0:20:30.68,Font1,,0000,0000,0000,,Naprawdę?\n
+Dialogue: 0,0:20:31.18,0:20:33.65,Font1,,0000,0000,0000,,Miło to słyszeć.\n
+Dialogue: 0,0:20:34.23,0:20:37.19,Font1,,0000,0000,0000,,{\i1}Może poszukiwacze,\n
+Dialogue: 0,0:20:37.73,0:20:41.57,Font1,,0000,0000,0000,,{\i1}którzy długo tu przetrwali,\nsą twardsi, niż sądziłem.\n
+Dialogue: 0,0:20:42.86,0:20:49.33,Font1,,0000,0000,0000,,{\i1}Patrząc wstecz, pewnie rzuciła zaklęcie,\nby zbudować z nami dobre relacje.\n
+Dialogue: 0,0:20:50.12,0:20:53.54,Font1,,0000,0000,0000,,{\i1}Nie musiała jeszcze używać Leczenia.\n
+Dialogue: 0,0:20:59.92,0:21:05.72,Font1,,0000,0000,0000,,{\i1}Unikając, a czasem zwalczając\nnieumarłych krążących po okolicy…\n
+Dialogue: 0,0:21:09.85,0:21:15.77,Font2,,0000,0000,0000,,{\an8}WEJŚCIE DO CMENTARZA ROZPACZY\nZALECANY POZIOM: 70\n
+Dialogue: 0,0:21:10.68,0:21:15.10,Font1,,0000,0000,0060,,{\i1}w końcu dotarliśmy do Cmentarza Rozpaczy.\n
+Dialogue: 0,0:21:16.23,0:21:17.94,Font1,,0000,0000,0000,,Nazwa pasuje idealnie.\n
+Dialogue: 0,0:21:18.02,0:21:22.03,Font1,,0000,0000,0000,,Nie mogli ich porządnie pochować?\n
+Dialogue: 0,0:21:22.11,0:21:24.90,Font1,,0000,0000,0000,,To przez nich pojawił się ten loch.\n
+Dialogue: 0,0:21:24.99,0:21:28.03,Font1,,0000,0000,0000,,Może kiedyś w pobliżu była wioska.\n
+Dialogue: 0,0:21:28.62,0:21:32.91,Font1,,0000,0000,0000,,Jej mieszkańcy pewnie wymarli\nalbo przenieśli się do Lacoryny.\n
+Dialogue: 0,0:21:33.41,0:21:36.46,Font1,,0000,0000,0000,,{\i1}Tutaj też dzieje się coś dziwnego.\n
+Dialogue: 0,0:21:37.04,0:21:38.88,Font1,,0000,0000,0000,,{\i1}Muszę odkryć, o co chodzi.\n
+Dialogue: 0,0:21:49.85,0:21:53.52,Font1,,0000,0000,0000,,TEKST: JAN BRONIATOWSKI\n
+Dialogue: 0,0:23:12.47,0:23:17.14,Font1,,0000,0000,0000,,{\i1}Razem z Ruche dołączyliśmy\ndo rajdu wysokopoziomowych poszukiwaczy.\n
+Dialogue: 0,0:23:17.68,0:23:20.19,Font1,,0000,0000,0000,,{\i1}Połączyliśmy siły z nowymi sojusznikami\n
+Dialogue: 0,0:23:20.27,0:23:23.82,Font1,,0000,0000,0000,,{\i1}i podzieliliśmy się na grupy,\nby zabić jak najwięcej potworów.\n
+Dialogue: 0,0:23:25.28,0:23:30.20,Font1,,0000,0000,0000,,{\i1}Kelt i Mabel są dość osobliwi.\n
+Dialogue: 0,0:23:31.24,0:23:34.70,Font1,,0000,0000,0000,,{\i1}Następny odcinek:\n„Łowca Kelt i kapłanka Mabel”.\n
+Dialogue: 0,0:23:34.78,0:23:37.83,Font1,,0000,0000,0000,,{\i1}Oby czekały nas tylko takie problemy.\n
+
