@@ -1,0 +1,450 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: ep title,Arial,18,&H00FFFFFF,&H000000FF,&H00B35427,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.24,0:00:03.48,Main,Cyril,0,0,0,,How?
+Dialogue: 0,0:00:03.48,0:00:05.85,Main,Cyril,0,0,0,,How are you able to use magic?!
+Dialogue: 0,0:00:14.34,0:00:15.77,Main,Ray,0,0,0,,I won't kill you.
+Dialogue: 0,0:00:16.37,0:00:19.11,Main,Ray,0,0,0,,But you will receive the \Nappropriate punishment.
+Dialogue: 0,0:00:22.81,0:00:25.62,Main,Elisa,0,0,0,,My magic... won't stabilize.
+Dialogue: 0,0:00:36.39,0:00:39.45,Main,Wandani,0,0,0,,We're too young to die!
+Dialogue: 0,0:00:38.46,0:00:39.45,Main - Top,Jeryllike,0,0,0,,It can't be true...
+Dialogue: 0,0:00:39.86,0:00:43.44,Main,Cathy,0,0,0,,Carol, can't you do something?!
+Dialogue: 0,0:00:44.55,0:00:47.06,Main,Carol,0,0,0,,Is this the right time?
+Dialogue: 0,0:00:47.08,0:00:49.09,Main,Carol,0,0,0,,But maybe I have no choice.
+Dialogue: 0,0:00:49.09,0:00:51.30,Main,Carol,0,0,0,,I might just have to do it.
+Dialogue: 0,0:00:51.30,0:00:53.55,Main,Carol,0,0,0,,I think this is the spot.
+Dialogue: 0,0:00:54.96,0:00:56.20,Main,Carol,0,0,0,,It's fine, right?
+Dialogue: 0,0:00:56.20,0:00:57.16,Main,All,0,0,0,,Huh?!
+Dialogue: 0,0:00:57.16,0:00:58.29,Main,Carol,0,0,0,,Okay!
+Dialogue: 0,0:00:58.29,0:00:59.45,Main,Carol,0,0,0,,Then...
+Dialogue: 0,0:00:59.79,0:01:01.64,Main,Carol,0,0,0,,Let's go!
+Dialogue: 0,0:01:02.94,0:01:07.46,Main,Carol,0,0,0,,Carol in Wonder Underground!
+Dialogue: 0,0:01:12.59,0:01:15.63,Main,Carol,0,0,0,,Do you have what it takes, Alpheria?!
+Dialogue: 0,0:01:16.10,0:01:18.38,Main,Carol,0,0,0,,Let's hear you scream!
+Dialogue: 0,0:01:21.46,0:01:22.73,Main,Cathy,0,0,0,,What the...?
+Dialogue: 0,0:01:23.11,0:01:25.19,Main,Carol,0,0,0,,Then here we go.
+Dialogue: 0,0:01:25.19,0:01:26.79,Main,Carol,0,0,0,,Compression!
+Dialogue: 0,0:01:27.18,0:01:29.60,Main,Carol,0,0,0,,Let's fire those solid hearts!
+Dialogue: 0,0:01:33.60,0:01:35.11,Main,Carol,0,0,0,,Ahem!
+Dialogue: 0,0:01:38.00,0:01:39.63,Main,Carol,0,0,0,,All right, kids.
+Dialogue: 0,0:01:39.63,0:01:42.62,Main,Carol,0,0,0,,Make sure to give Carocaro's \Nsong a good listen later!
+Dialogue: 0,0:01:42.62,0:01:43.56,Main,Carol,0,0,0,,Wink!
+Dialogue: 0,0:01:46.96,0:01:51.13,Main,Rald,0,0,0,,How do you like my Dark Triad System?
+Dialogue: 0,0:01:53.36,0:01:57.33,Main,Rald,0,0,0,,Flames overwhelmed by \Neven fiercer flames.
+Dialogue: 0,0:01:57.33,0:01:59.02,Main,Rald,0,0,0,,You see?
+Dialogue: 0,0:01:59.82,0:02:01.36,Main,Abbie,0,0,0,,Igni Merc.
+Dialogue: 0,0:02:06.51,0:02:09.20,Main,Rald,0,0,0,,What... the...?
+Dialogue: 0,0:02:09.20,0:02:11.28,Main,Abbie,0,0,0,,You weren't bad.
+Dialogue: 0,0:02:11.60,0:02:14.77,Main,Abbie,0,0,0,,But the true nature of my \Nmagic is acceleration.
+Dialogue: 0,0:02:15.02,0:02:17.73,Main,Abbie,0,0,0,,Flames are secondary.
+Dialogue: 0,0:02:18.66,0:02:21.36,Main,Rald,0,0,0,,That's... absurd...
+Dialogue: 0,0:02:22.54,0:02:25.26,Main,Abbie,0,0,0,,Just take a nap there for a while.
+Dialogue: 0,0:03:33.11,0:03:34.45,Main,Evie,0,0,0,,We will...
+Dialogue: 0,0:03:34.45,0:03:36.24,Main,Albert,0,0,0,,...protect Alpheria!
+Dialogue: 0,0:03:36.24,0:03:39.72,Main,Olivia,0,0,0,,Could those two, like... \Nput some clothes on?
+Dialogue: 0,0:03:44.50,0:03:48.96,Sign_Basic,Title,0,0,0,,{\fad(0,800)\an8\fnTimes New Roman\b1\shad0\3c&HB25813&\blur3}T{\3c&HB3571A&}h{\3c&HB35621&}e{\3c&HB45529&} {\3c&HB45430&}I{\3c&HB55337&}c{\3c&HB5513E&}e{\3c&HB65045&}b{\3c&HB64F4C&}l{\3c&HB74E54&}a{\3c&HB74D5B&}d{\3c&HB84C62&}e {\fnArial\b1\shad0\3c&HFFFFFF&\blur3\c&HB3571A&}S{\c&HB54F25&}o{\c&HB8482F&}r{\c&HBA403A&}c{\c&HBD3944&}e{\c&HBF314F&}r{\c&HC22A59&}e{\c&HC42264&}r\N{\fnGeorgia\b0\c&H000000&}Shall {\fnArial\b1\shad0\3c&HFFFFFF&\blur3\c&HB3571A&}R{\c&HB94533&}u{\c&HBE344B&}l{\c&HC42264&}e {\fnGeorgia\b0\c&H000000&}the {\fnTimes New Roman\b1\shad0\3c&HB25813&\blur3\c&HFFFFFF&}W{\3c&HB65428&}o{\3c&HB94F3C&}r{\3c&HBD4B51&}l{\3c&HC04665&}d
+Dialogue: 0,0:03:49.20,0:03:53.00,ep title,title,0,0,0,,{\fad(225,0)}Episode 7\NThe Boy Who Is the World's Strongest\NSorcerer Carries an Undeveloped Power
+Dialogue: 0,0:04:04.67,0:04:06.87,Italics,Lydia(M),0,0,0,,His code construction is too fast!
+Dialogue: 0,0:04:06.87,0:04:08.25,Italics,Lydia(M),0,0,0,,What's going on?
+Dialogue: 0,0:04:09.01,0:04:10.81,Main,Julius,0,0,0,,So slow.
+Dialogue: 0,0:04:13.83,0:04:14.95,Main,Carla,0,0,0,,Lydia!
+Dialogue: 0,0:04:19.13,0:04:22.53,Main,Julius,0,0,0,,That's why you're no longer \None of the Seven Grands.
+Dialogue: 0,0:04:23.02,0:04:25.90,Main,Julius,0,0,0,,You've stepped down from the stage.
+Dialogue: 0,0:04:45.01,0:04:46.97,Main,Bianca,0,0,0,,It's over.
+Dialogue: 0,0:04:51.35,0:04:53.35,Main,Marius,0,0,0,,From here on...
+Dialogue: 0,0:04:54.87,0:04:57.13,Main,Marius,0,0,0,,I'll take over.
+Dialogue: 0,0:04:58.85,0:05:00.57,Main,Amelia,0,0,0,,You are...
+Dialogue: 0,0:05:00.57,0:05:01.86,Main,Rebecca,0,0,0,,No way!
+Dialogue: 0,0:05:02.14,0:05:04.30,Main,Rebecca,0,0,0,,Even among the Seven Grand Sorcerers,
+Dialogue: 0,0:05:04.30,0:05:06.83,Main,Rebecca,0,0,0,,he's considered the highest and \Nmost powerful...
+Dialogue: 0,0:05:07.24,0:05:09.12,Main,Ariane,0,0,0,,The Sorcerer of Phosphorescence?!
+Dialogue: 0,0:05:09.59,0:05:11.75,Main,Amelia,0,0,0,,Marius Bassett?!
+Dialogue: 0,0:05:11.75,0:05:14.74,Main,Bianca,0,0,0,,Damn. So you came over here.
+Dialogue: 0,0:05:14.74,0:05:19.24,Main,Marius,0,0,0,,That's right. I'm here to stop you.
+Dialogue: 0,0:05:19.24,0:05:22.94,Main,Bianca,0,0,0,,Too bad. It's okay, though.
+Dialogue: 0,0:05:22.94,0:05:26.08,Main,Bianca,0,0,0,,The door to unleashing \Nmagic continues to open.
+Dialogue: 0,0:05:26.08,0:05:27.40,Main,Marius,0,0,0,,I see.
+Dialogue: 0,0:05:27.40,0:05:31.02,Main,Marius,0,0,0,,That's why you attacked, \Ndespite there being so many of us here...
+Dialogue: 0,0:05:31.02,0:05:33.52,Main,Marius,0,0,0,,You put that plan into motion, then.
+Dialogue: 0,0:05:34.12,0:05:36.78,Main,Bianca,0,0,0,,I see you're someone who understands.
+Dialogue: 0,0:05:36.78,0:05:41.44,Main,Bianca,0,0,0,,The fluctuations are being born precisely \Nbecause so many are gathered here.
+Dialogue: 0,0:05:41.82,0:05:43.77,Main,Bianca,0,0,0,,Our survey is concluded.
+Dialogue: 0,0:05:44.02,0:05:46.14,Main,Marius,0,0,0,,The deterrent is still in place.
+Dialogue: 0,0:05:46.14,0:05:47.62,Main,Bianca,0,0,0,,That's true.
+Dialogue: 0,0:05:47.62,0:05:49.90,Main,Bianca,0,0,0,,But once we overcome that...
+Dialogue: 0,0:05:49.90,0:05:51.96,Main,Bianca,0,0,0,,a new world is awaiting us.
+Dialogue: 0,0:05:51.96,0:05:53.14,Main,Marius,0,0,0,,You thought I'd let you get away?
+Dialogue: 0,0:05:53.14,0:05:54.59,Main,Bianca,0,0,0,,So sorry.
+Dialogue: 0,0:05:54.59,0:05:56.66,Main,Bianca,0,0,0,,I'm already gone.
+Dialogue: 0,0:05:57.57,0:06:00.16,Main,Bianca,0,0,0,,Until we meet again,
+Dialogue: 0,0:06:00.16,0:06:02.29,Main,Bianca,0,0,0,,Phosphorescence and Amelia Rose.
+Dialogue: 0,0:06:04.13,0:06:05.76,Main,Marius,0,0,0,,Are you all right?
+Dialogue: 0,0:06:05.76,0:06:08.81,Main,Amelia,0,0,0,,Y-Yes! Thank you so much!
+Dialogue: 0,0:06:08.81,0:06:10.08,Main,Marius,0,0,0,,Don't mention it.
+Dialogue: 0,0:06:10.08,0:06:11.97,Main,Marius,0,0,0,,I'm glad you're all safe.
+Dialogue: 0,0:06:13.11,0:06:14.10,Main,Amelia,0,0,0,,What about Ray?
+Dialogue: 0,0:06:14.10,0:06:15.18,Main,Marius,0,0,0,,Don't worry.
+Dialogue: 0,0:06:15.18,0:06:19.09,Main,Marius,0,0,0,,I'm sure that'll be over quickly, too.
+Dialogue: 0,0:06:24.46,0:06:27.19,Main,Cyril,0,0,0,,I know what you're thinking.
+Dialogue: 0,0:06:27.42,0:06:30.82,Main,Cyril,0,0,0,,You're wondering why I'm going \Nup against the Iceblade.
+Dialogue: 0,0:06:30.82,0:06:35.41,Main,Cyril,0,0,0,,From the standpoint of my abilities, \NI am way out of my league here.
+Dialogue: 0,0:06:35.41,0:06:37.39,Main,Ray,0,0,0,,If you know that, then surrender.
+Dialogue: 0,0:06:37.39,0:06:39.33,Main,Cyril,0,0,0,,That is not going to happen!
+Dialogue: 0,0:06:39.56,0:06:44.09,Main,Cyril,0,0,0,,Hidden on this consecrated ground \Nis a path that leads to magic.
+Dialogue: 0,0:06:44.49,0:06:46.21,Main,Ray,0,0,0,,Unleashing magic...
+Dialogue: 0,0:06:46.21,0:06:48.84,Main,Ray,0,0,0,,You really believe you \Ncan do that?
+Dialogue: 0,0:06:48.84,0:06:53.37,Main,Cyril,0,0,0,,Haven't you ever considered\Nthat this entire world is fake?
+Dialogue: 0,0:06:53.37,0:06:54.82,Main,Ray,0,0,0,,It isn't fake.
+Dialogue: 0,0:06:54.82,0:06:55.59,Main,Cyril,0,0,0,,What?
+Dialogue: 0,0:06:56.20,0:07:00.79,Main,Ray,0,0,0,,If you unleash magic, the only \Nthing awaiting you there is hell.
+Dialogue: 0,0:07:04.53,0:07:09.11,Main,Cyril,0,0,0,,That may be, but I have \Nno choice but to proceed.
+Dialogue: 0,0:07:09.38,0:07:12.71,Main,Cyril,0,0,0,,"The Iceblade Sorcerer \Nshall rule the world."
+Dialogue: 0,0:07:12.71,0:07:16.95,Main,Cyril,0,0,0,,As you are the deterrent, your death\Nwill free this consecrated ground!
+Dialogue: 0,0:07:16.95,0:07:19.27,Main,Cyril,0,0,0,,By using that girl!
+Dialogue: 0,0:07:19.27,0:07:20.83,Main,Ray,0,0,0,,You bastard.
+Dialogue: 0,0:07:20.83,0:07:22.56,Main,Cyril,0,0,0,,Elf and human.
+Dialogue: 0,0:07:22.56,0:07:26.22,Main,Cyril,0,0,0,,She possesses both engrams \Nand that makes her rare.
+Dialogue: 0,0:07:27.25,0:07:31.24,Main,Cyril,0,0,0,,It seems the elven secrets \Nwere passed on to her.
+Dialogue: 0,0:07:31.24,0:07:35.16,Main,Cyril,0,0,0,,I've confirmed no other member \Nof the royal family has it!
+Dialogue: 0,0:07:35.60,0:07:38.01,Main,Elisa,0,0,0,,Claris... please.
+Dialogue: 0,0:07:41.03,0:07:44.11,Main,Cyril,0,0,0,,But it was necessary to have her adapt
+Dialogue: 0,0:07:44.11,0:07:47.50,Main,Cyril,0,0,0,,to this place's prima material \Nto hasten the awakening.
+Dialogue: 0,0:07:47.50,0:07:50.84,Main,Cyril,0,0,0,,Now that the preparations are complete, \Nthere's only one thing left.
+Dialogue: 0,0:07:50.84,0:07:53.05,Main,Cyril,0,0,0,,That is to kill you, Iceblade.
+Dialogue: 0,0:07:53.76,0:07:56.58,Main,Cyril,0,0,0,,The new frontiers of \Nmy magic abilities...
+Dialogue: 0,0:07:56.58,0:07:59.04,Main,Cyril,0,0,0,,I get to test them on you.
+Dialogue: 0,0:07:59.04,0:08:01.72,Main,Cyril,0,0,0,,I can't imagine anything \Nmore wonderful than that!
+Dialogue: 0,0:08:03.03,0:08:05.80,Main,Cyril,0,0,0,,Well then, shall we start with this?
+Dialogue: 0,0:08:19.94,0:08:22.67,Main,Cyril,0,0,0,,I suppose that didn't suffice.
+Dialogue: 0,0:08:22.67,0:08:24.31,Main,Cyril,0,0,0,,Well then...
+Dialogue: 0,0:08:28.33,0:08:30.65,Main,Cyril,0,0,0,,You do your reputation justice, Iceblade!
+Dialogue: 0,0:08:30.65,0:08:35.33,Main,Cyril,0,0,0,,You nullified all of \Nthose attacks just like that!
+Dialogue: 0,0:08:36.20,0:08:39.09,Main,Ray,0,0,0,,Without being on par with one \Nof the Seven Grand Sorcerers,
+Dialogue: 0,0:08:39.09,0:08:42.50,Main,Ray,0,0,0,,using all elements to this \Ndegree should be impossible...
+Dialogue: 0,0:08:42.91,0:08:44.01,Main,Ray,0,0,0,,Unless!
+Dialogue: 0,0:08:44.01,0:08:47.33,Main,Cyril,0,0,0,,I knew you'd realized, Iceblade!
+Dialogue: 0,0:08:47.33,0:08:50.00,Main,Ray,0,0,0,,Those are engrams engraved on your body.
+Dialogue: 0,0:08:50.00,0:08:52.36,Main,Ray,0,0,0,,But they aren't yours!
+Dialogue: 0,0:08:52.36,0:08:53.49,Main,Cyril,0,0,0,,That's right.
+Dialogue: 0,0:08:53.49,0:08:57.01,Main,Cyril,0,0,0,,I've got multiple layers \Nof other people's engrams.
+Dialogue: 0,0:08:57.74,0:09:00.52,Main,Cyril,0,0,0,,But stacking them isn't enough.
+Dialogue: 0,0:09:00.52,0:09:05.03,Main,Cyril,0,0,0,,You have to select the ones that \Nare compatible with yourself.
+Dialogue: 0,0:09:06.45,0:09:09.51,Main,Ray,0,0,0,,Just how many people have you sacrificed?
+Dialogue: 0,0:09:09.51,0:09:11.00,Main,Cyril,0,0,0,,Sacrificed?
+Dialogue: 0,0:09:11.00,0:09:12.78,Main,Cyril,0,0,0,,I can't recall.
+Dialogue: 0,0:09:12.78,0:09:17.21,Main,Cyril,0,0,0,,Or I should rather say, \Nthese were provided to me by Eugenics.
+Dialogue: 0,0:09:17.21,0:09:19.45,Main,Cyril,0,0,0,,So don't blame me.
+Dialogue: 0,0:09:19.79,0:09:22.19,Main,Cyril,0,0,0,,The victor gets to decide \Nwhat's right or wrong.
+Dialogue: 0,0:09:22.19,0:09:24.49,Main,Cyril,0,0,0,,Is that not the nature of battle?
+Dialogue: 0,0:09:24.49,0:09:27.55,Main,Cyril,0,0,0,,You did the same in the Far East Battle.
+Dialogue: 0,0:09:27.55,0:09:29.98,Main,Cyril,0,0,0,,Because you are a mass murderer \Nof countless lives,
+Dialogue: 0,0:09:29.98,0:09:32.30,Main,Cyril,0,0,0,,everything will end up being right!
+Dialogue: 0,0:09:38.68,0:09:40.50,Main,Claris,0,0,0,,Eli...sa.
+Dialogue: 0,0:09:40.50,0:09:42.57,Main,Elisa,0,0,0,,Claris, don't talk!
+Dialogue: 0,0:09:42.87,0:09:45.56,Main,Claris,0,0,0,,Are you... all right?
+Dialogue: 0,0:09:45.56,0:09:47.36,Main,Elisa,0,0,0,,I'm fine!
+Dialogue: 0,0:09:47.36,0:09:49.29,Main,Elisa,0,0,0,,It's you I'm worried about!
+Dialogue: 0,0:09:49.29,0:09:50.32,Main,Claris,0,0,0,,Is that so?
+Dialogue: 0,0:09:50.32,0:09:54.77,Main,Claris,0,0,0,,I'm glad you're fine.
+Dialogue: 0,0:09:55.36,0:09:56.82,Main,Claris,0,0,0,,So glad.
+Dialogue: 0,0:09:57.13,0:10:00.21,Main,Elisa,0,0,0,,Why...? Why did you...?
+Dialogue: 0,0:10:00.64,0:10:03.24,Main,Elisa,0,0,0,,Why... me?
+Dialogue: 0,0:10:04.47,0:10:08.35,Main,Claris,0,0,0,,Isn't that... what friends do?
+Dialogue: 0,0:10:10.56,0:10:14.35,Flashback,Ray(ep5),0,0,0,,But royalty or not, you are you.
+Dialogue: 0,0:10:15.13,0:10:17.04,Flashback,Claris(ep5),0,0,0,,Isn't that what friends do?
+Dialogue: 0,0:10:17.04,0:10:18.09,Flashback,Claris(ep5),0,0,0,,Wink.
+Dialogue: 0,0:10:19.26,0:10:21.68,Italics,Elisa(M),0,0,0,,I see...
+Dialogue: 0,0:10:22.09,0:10:25.26,Italics,Elisa(M),0,0,0,,You were... always by my side.
+Dialogue: 0,0:10:29.61,0:10:32.25,Main,Claris,0,0,0,,Elisa, don't cry.
+Dialogue: 0,0:10:32.63,0:10:34.99,Main,Claris,0,0,0,,I'm fine.
+Dialogue: 0,0:10:36.14,0:10:40.11,Main,Elisa,0,0,0,,It's my turn now, Claris.
+Dialogue: 0,0:10:37.82,0:10:39.05,Main,Claris,0,0,0,,Elisa...
+Dialogue: 0,0:10:40.61,0:10:43.19,Main,Elisa,0,0,0,,I'm going to fight!
+Dialogue: 0,0:10:47.19,0:10:49.58,Main,Cyril,0,0,0,,You should know this better than anyone!
+Dialogue: 0,0:10:49.58,0:10:52.73,Main,Cyril,0,0,0,,How dirty your own hands are!
+Dialogue: 0,0:10:53.37,0:10:54.87,Main,Ray,0,0,0,,I won't deny it.
+Dialogue: 0,0:10:55.28,0:10:58.12,Main,Ray,0,0,0,,It's true that my past \Nis soaked in blood.
+Dialogue: 0,0:10:58.12,0:11:01.89,Main,Ray,0,0,0,,But I don't plan on walking \Nthat same path going forward.
+Dialogue: 0,0:11:03.21,0:11:04.77,Main,Cyril,0,0,0,,Lovely!
+Dialogue: 0,0:11:04.77,0:11:08.94,Main,Cyril,0,0,0,,I'll give you your last rites!
+Dialogue: 0,0:11:13.52,0:11:15.40,Main,Ray,0,0,0,,Antimaterial code?!
+Dialogue: 0,0:11:16.37,0:11:17.90,Main,Cyril,0,0,0,,This is next!
+Dialogue: 0,0:11:17.90,0:11:20.03,Main,Cyril,0,0,0,,Be astonished!
+Dialogue: 0,0:11:28.85,0:11:29.99,Main,Ray,0,0,0,,Elisa...
+Dialogue: 0,0:11:30.71,0:11:33.24,Main,Elisa,0,0,0,,I'm going to help you.
+Dialogue: 0,0:11:34.85,0:11:37.64,Main,Cyril,0,0,0,,You think you can do anything?!
+Dialogue: 0,0:11:38.30,0:11:39.43,Main,Cyril,0,0,0,,What?
+Dialogue: 0,0:11:41.09,0:11:43.14,Main,Elisa,0,0,0,,Alfheim Circle.
+Dialogue: 0,0:11:53.88,0:11:55.30,Main,Lydia,0,0,0,,Damn it...
+Dialogue: 0,0:11:57.57,0:11:58.87,Main,Julius,0,0,0,,I see.
+Dialogue: 0,0:11:59.16,0:12:04.92,Main,Julius,0,0,0,,The fact that Ray White's Chronos Lock is \Nalmost gone means your curse is also...
+Dialogue: 0,0:12:05.37,0:12:06.48,Main,Lydia,0,0,0,,You bastard.
+Dialogue: 0,0:12:06.48,0:12:07.89,Main,Lydia,0,0,0,,Eat this!
+Dialogue: 0,0:12:10.11,0:12:12.14,Main,Lydia,0,0,0,,Go!
+Dialogue: 0,0:12:23.25,0:12:24.43,Main,Carla,0,0,0,,Lydia!
+Dialogue: 0,0:12:26.14,0:12:28.01,Main,Julius,0,0,0,,I wasn't expecting that.
+Dialogue: 0,0:12:30.37,0:12:32.37,Main,Julius,0,0,0,,While you're weaker now,
+Dialogue: 0,0:12:32.37,0:12:34.59,Main,Julius,0,0,0,,this does show that you were \Nthe previous Iceblade.
+Dialogue: 0,0:12:35.02,0:12:38.64,Main,Julius,0,0,0,,Interesting, Lydia Ainsworth.
+Dialogue: 0,0:12:39.04,0:12:39.78,Main,Julius,0,0,0,,Emma.
+Dialogue: 0,0:12:41.03,0:12:42.79,Main,Julius,0,0,0,,You can go back.
+Dialogue: 0,0:12:44.04,0:12:46.81,Main,Emma,0,0,0,,Then I shall take my leave.
+Dialogue: 0,0:12:50.05,0:12:51.54,Main,Carla,0,0,0,,Lydia!
+Dialogue: 0,0:12:52.40,0:12:55.29,Main,Mia,0,0,0,,Lydia! Are you all right?
+Dialogue: 0,0:12:54.55,0:12:56.14,Main - Top,Lydia,0,0,0,,That bastard.
+Dialogue: 0,0:12:56.58,0:12:59.55,Main,Lydia,0,0,0,,Next time I'm going to \Npunch him in the face.
+Dialogue: 0,0:13:05.22,0:13:08.29,Main,Cyril,0,0,0,,I knew you had inherited it!
+Dialogue: 0,0:13:09.05,0:13:12.22,Main,Elisa,0,0,0,,An area that absorbs prima materia,
+Dialogue: 0,0:13:12.56,0:13:15.10,Main,Elisa,0,0,0,,and an area that disperses it.
+Dialogue: 0,0:13:16.29,0:13:17.40,Main,Ray,0,0,0,,This is...
+Dialogue: 0,0:13:17.40,0:13:19.07,Main,Cyril,0,0,0,,That's right!
+Dialogue: 0,0:13:19.07,0:13:23.62,Main,Cyril,0,0,0,,A spell that allows full control over \Nprima materia in those two areas...
+Dialogue: 0,0:13:23.62,0:13:29.32,Main,Cyril,0,0,0,,That's the original spell passed down the \NAlpherian Royal Family, Alfheim Circle!
+Dialogue: 0,0:13:29.69,0:13:31.83,Main,Cyril,0,0,0,,With that power...
+Dialogue: 0,0:13:31.83,0:13:35.83,Main,Cyril,0,0,0,,You can rule over everything with force!
+Dialogue: 0,0:13:35.83,0:13:41.93,Main,Cyril,0,0,0,,And now I am going to get that engram \Ninscribed on my body, Elisa!
+Dialogue: 0,0:13:47.38,0:13:48.71,Main,Elisa,0,0,0,,So careless.
+Dialogue: 0,0:13:49.50,0:13:52.31,Main,Cyril,0,0,0,,My prima material...
+Dialogue: 0,0:13:53.22,0:13:54.24,Main,Elisa,0,0,0,,Ray!
+Dialogue: 0,0:13:54.71,0:13:56.02,Main,Elisa,0,0,0,,Your iceblades!
+Dialogue: 0,0:13:58.72,0:14:00.97,Main,Cyril,0,0,0,,W-Wait a sec!
+Dialogue: 0,0:14:00.97,0:14:05.27,Main,Cyril,0,0,0,,That is... that is not a power one \Nshould wield against a human being!
+Dialogue: 0,0:14:05.27,0:14:06.73,Main,Cyril,0,0,0,,I'll die.
+Dialogue: 0,0:14:06.73,0:14:08.27,Main,Cyril,0,0,0,,I'm going to die!
+Dialogue: 0,0:14:08.27,0:14:10.06,Main,Cyril,0,0,0,,D-Don't!
+Dialogue: 0,0:14:11.24,0:14:12.32,Main,Cyril,0,0,0,,Please stop!
+Dialogue: 0,0:14:12.32,0:14:13.73,Main,Cyril,0,0,0,,I beg of you!
+Dialogue: 0,0:14:13.73,0:14:17.64,Main,Elisa,0,0,0,,Back then, didn't I beg you to stop?
+Dialogue: 0,0:14:18.24,0:14:22.24,Main - Top,Cyril,0,0,0,,Th-That was me... being out \Nof line and I really...
+Dialogue: 0,0:14:21.20,0:14:23.82,Main,Elisa,0,0,0,,Have you forgotten what \Nyou did to Claris?
+Dialogue: 0,0:14:24.97,0:14:27.81,Main,Elisa,0,0,0,,I haven't forgotten.
+Dialogue: 0,0:14:32.95,0:14:37.46,Main,Cyril,0,0,0,,Antimaterial code!
+Dialogue: 0,0:14:37.46,0:14:41.26,Main,Cyril,0,0,0,,What, what...? Why?
+Dialogue: 0,0:14:41.26,0:14:45.00,Main,Cyril,0,0,0,,Is this not omnipotent power?
+Dialogue: 0,0:14:45.00,0:14:47.72,Main,Ray,0,0,0,,In this world, omnipotence doesn't exist.
+Dialogue: 0,0:14:48.58,0:14:50.20,Main,Elisa,0,0,0,,Ray and I...
+Dialogue: 0,0:14:50.52,0:14:54.92,Main,Ray,0,0,0,,Plus the engrams of the countless \Nsorcerers whose engrams you stole...
+Dialogue: 0,0:14:55.31,0:14:58.04,Main,Ray,0,0,0,,These iceblades are created with \Nsuch an overwhelming power
+Dialogue: 0,0:14:58.04,0:14:59.54,Main,Ray,0,0,0,,that they are impossible to revert.
+Dialogue: 0,0:15:00.62,0:15:01.74,Main,Ray,0,0,0,,Pandora.
+Dialogue: 0,0:15:02.76,0:15:04.30,Main,Both,0,0,0,,Eternal Ice Prison.
+Dialogue: 0,0:15:18.07,0:15:19.35,Main,Elisa,0,0,0,,Ray...
+Dialogue: 0,0:15:20.51,0:15:24.07,Main,Elisa,0,0,0,,Was I able to help?
+Dialogue: 0,0:15:24.07,0:15:25.26,Main,Ray,0,0,0,,Yes.
+Dialogue: 0,0:15:25.26,0:15:29.82,Main,Elisa,0,0,0,,Was I able to fight for my friends?
+Dialogue: 0,0:15:29.82,0:15:30.75,Main,Ray,0,0,0,,Yes.
+Dialogue: 0,0:15:34.02,0:15:36.13,Main,Elisa,0,0,0,,I was so scared!
+Dialogue: 0,0:15:36.13,0:15:38.77,Main,Elisa,0,0,0,,But everybody always cheered me up...
+Dialogue: 0,0:15:38.77,0:15:41.11,Main,Elisa,0,0,0,,So I've always wanted to give my best...
+Dialogue: 0,0:15:41.11,0:15:41.91,Main,Ray,0,0,0,,I know.
+Dialogue: 0,0:15:42.40,0:15:44.33,Main,Claris,0,0,0,,Hey, hey.
+Dialogue: 0,0:15:44.33,0:15:46.90,Main,Claris,0,0,0,,Aren't you forgetting about me?
+Dialogue: 0,0:15:46.90,0:15:48.34,Main,Claris,0,0,0,,Jeez.
+Dialogue: 0,0:15:48.34,0:15:50.08,Main,Elisa,0,0,0,,Claris!
+Dialogue: 0,0:15:50.61,0:15:52.79,Main,Claris,0,0,0,,Oh, Elisa.
+Dialogue: 0,0:15:52.79,0:15:54.60,Main,Claris,0,0,0,,You always cry so easily.
+Dialogue: 0,0:15:54.60,0:15:57.77,Main,Elisa,0,0,0,,B-But...
+Dialogue: 0,0:15:56.93,0:15:59.82,Main - Top,Claris,0,0,0,,I said I was fine.
+Dialogue: 0,0:16:07.05,0:16:10.34,Main,Abel,0,0,0,,I truly apologize for \Nall that has happened.
+Dialogue: 0,0:16:10.34,0:16:12.01,Main,Ray,0,0,0,,There is no need.
+Dialogue: 0,0:16:12.01,0:16:13.79,Main,Abel,0,0,0,,I imagined that because he \Nwas my younger brother,
+Dialogue: 0,0:16:13.79,0:16:16.90,Main,Abel,0,0,0,,we would see eye to eye eventually.
+Dialogue: 0,0:16:16.90,0:16:20.61,Main,Abel,0,0,0,,It was that softness that caused \Nthis incident to happen.
+Dialogue: 0,0:16:21.20,0:16:24.00,Main,Abel,0,0,0,,I am deeply ashamed.
+Dialogue: 0,0:16:24.00,0:16:25.10,Main,Ray,0,0,0,,Please don't be.
+Dialogue: 0,0:16:25.10,0:16:27.26,Main,Ray,0,0,0,,I'm just glad there were \Nno serious casualties.
+Dialogue: 0,0:16:28.66,0:16:29.75,Main,Abel,0,0,0,,Me too.
+Dialogue: 0,0:16:29.75,0:16:32.26,Main,Abel,0,0,0,,We have you and your \Nfriends to thank for that.
+Dialogue: 0,0:16:32.68,0:16:38.27,Main,Abel,0,0,0,,We will thoroughly question the \Nringleaders locked up below.
+Dialogue: 0,0:16:38.72,0:16:39.88,Main,Ray,0,0,0,,Well,
+Dialogue: 0,0:16:41.03,0:16:44.65,Main,Ray,0,0,0,,I think your intent to reach a common \Nunderstanding is very admirable.
+Dialogue: 0,0:16:45.02,0:16:48.70,Main,Abel,0,0,0,,Hearing that soothes me a little.
+Dialogue: 0,0:16:48.70,0:16:52.91,Main,Abel,0,0,0,,Oh, and it seems like my daughter \Nwould like to apologize to you.
+Dialogue: 0,0:16:52.91,0:16:54.90,Main,Cathy,0,0,0,,Um...
+Dialogue: 0,0:16:55.19,0:16:59.61,Main,Cathy,0,0,0,,So I heard you were the one who got \Nthis disturbance under control.
+Dialogue: 0,0:17:00.08,0:17:02.42,Main,Cathy,0,0,0,,Um, well...
+Dialogue: 0,0:17:02.42,0:17:05.04,Main,Cathy,0,0,0,,Sorry about everything up until now!
+Dialogue: 0,0:17:05.92,0:17:09.40,Main,Cathy,0,0,0,,You are very courageous, \Nand a good match for Elisa.
+Dialogue: 0,0:17:09.40,0:17:10.32,Main,Ray,0,0,0,,No.
+Dialogue: 0,0:17:10.92,0:17:13.80,Main,Ray,0,0,0,,I only did what anybody else would have.
+Dialogue: 0,0:17:15.61,0:17:17.06,Italics,Cathy(M),0,0,0,,Now that I take a closer look...
+Dialogue: 0,0:17:17.06,0:17:18.95,Italics,Cathy(M),0,0,0,,He still has a youthful cuteness to him,
+Dialogue: 0,0:17:18.95,0:17:21.81,Italics,Cathy(M),0,0,0,,but his eyes are so bold but also...
+Dialogue: 0,0:17:21.81,0:17:24.06,Italics,Cathy(M),0,0,0,,how do I put it... basically...
+Dialogue: 0,0:17:24.06,0:17:25.71,Italics,Cathy(M),0,0,0,,he's a hot... guy?!
+Dialogue: 0,0:17:26.18,0:17:27.40,Main,Ray,0,0,0,,Is something wrong?
+Dialogue: 0,0:17:28.05,0:17:29.64,Main,Cathy,0,0,0,,N-Not at all!
+Dialogue: 0,0:17:29.64,0:17:31.08,Main,Cathy,0,0,0,,Everything's fine!
+Dialogue: 0,0:17:31.08,0:17:35.07,Main,Cathy,0,0,0,,Anyway, um, thank you!
+Dialogue: 0,0:17:35.07,0:17:38.57,Main,Cathy,0,0,0,,If you visit again, \NI'll give you a proper welcome!
+Dialogue: 0,0:17:38.57,0:17:39.90,Main,Abel,0,0,0,,Don't mind her.
+Dialogue: 0,0:17:39.90,0:17:42.35,Main,Abel,0,0,0,,She's a little shy.
+Dialogue: 0,0:17:42.35,0:17:43.41,Main,Ray,0,0,0,,It's all right.
+Dialogue: 0,0:17:43.41,0:17:47.89,Main,Abel,0,0,0,,Also, thank you for taking care of Elisa.
+Dialogue: 0,0:17:48.27,0:17:49.59,Main,Abel,0,0,0,,You know,
+Dialogue: 0,0:17:49.86,0:17:53.62,Main,Abel,0,0,0,,I think "Ray Alpherius" \Ndoesn't sound all that bad.
+Dialogue: 0,0:17:53.62,0:17:54.52,Main,Abel,0,0,0,,How about it?
+Dialogue: 0,0:17:54.52,0:17:55.35,Main,Ray,0,0,0,,Huh?
+Dialogue: 0,0:17:55.35,0:17:57.47,Main,Abel,0,0,0,,I'm always open.
+Dialogue: 0,0:17:57.47,0:17:58.72,Main,Ray,0,0,0,,Huh...
+Dialogue: 0,0:17:58.72,0:18:01.48,Main,Cathy,0,0,0,,Then he'd be my little brother?
+Dialogue: 0,0:17:59.91,0:18:03.16,Main - Top,Mia,0,0,0,,We owe you a large debt of gratitude.
+Dialogue: 0,0:18:01.48,0:18:03.16,Main,Cathy,0,0,0,,I guess I don't hate that.
+Dialogue: 0,0:18:03.72,0:18:07.23,Main,Mia,0,0,0,,Ray, thank you for taking \Nour situation so seriously.
+Dialogue: 0,0:18:07.23,0:18:08.07,Main,Ray,0,0,0,,It was no trouble.
+Dialogue: 0,0:18:08.07,0:18:09.72,Main,Mia,0,0,0,,No trouble, yeah yeah.
+Dialogue: 0,0:18:10.79,0:18:14.41,Main,Mia,0,0,0,,Let's be done with this \Nstiff conversation!
+Dialogue: 0,0:18:15.01,0:18:16.26,Main,Mia,0,0,0,,Ta-da!
+Dialogue: 0,0:18:16.60,0:18:19.73,Main,Mia,0,0,0,,Please keep taking good care of Elisa.
+Dialogue: 0,0:18:19.73,0:18:20.72,Main,Ray,0,0,0,,What?
+Dialogue: 0,0:18:20.72,0:18:21.92,Main,Abel,0,0,0,,Let me introduce you.
+Dialogue: 0,0:18:21.92,0:18:23.50,Main,Abel,0,0,0,,This is our country's \Nsecond princess.
+Dialogue: 0,0:18:22.39,0:18:25.74,Main - Top,Cathy,0,0,0,,M-M-My elder sister?!
+Dialogue: 0,0:18:27.26,0:18:30.47,Main,Abel,0,0,0,,Mm. Let me properly introduce you.
+Dialogue: 0,0:18:30.47,0:18:33.63,Main,Abel,0,0,0,,This is Miriana, \NAlpheria's second princess.
+Dialogue: 0,0:18:33.63,0:18:34.93,Main,Miri,0,0,0,,Elisa.
+Dialogue: 0,0:18:38.12,0:18:40.76,Main,Miri,0,0,0,,You can call me Big Sister!
+Dialogue: 0,0:18:40.76,0:18:42.12,Main,Miri,0,0,0,,Winkity!
+Dialogue: 0,0:18:44.86,0:18:47.64,Main,Elisa,0,0,0,,I feel like everything was so hectic.
+Dialogue: 0,0:18:47.64,0:18:50.49,Main,Ray,0,0,0,,Actually, I found it very interesting.
+Dialogue: 0,0:18:50.98,0:18:53.40,Main,Ray,0,0,0,,I'm sure Alpheria will \Nbecome a great country.
+Dialogue: 0,0:18:53.40,0:18:54.38,Main,Elisa,0,0,0,,Yes.
+Dialogue: 0,0:18:55.85,0:18:59.51,Main,Elisa,0,0,0,,Actually, my big sister, so Cathy,
+Dialogue: 0,0:18:59.51,0:19:03.84,Main,Elisa,0,0,0,,asked me if I was interested \Nin staying here.
+Dialogue: 0,0:19:04.46,0:19:05.75,Main,Elisa,0,0,0,,But I...
+Dialogue: 0,0:19:06.68,0:19:08.74,Main,Elisa,0,0,0,,I want to stay with you all.
+Dialogue: 0,0:19:09.42,0:19:12.22,Main,Elisa,0,0,0,,I was thinking, no matter where I am,
+Dialogue: 0,0:19:12.54,0:19:17.47,Main,Elisa,0,0,0,,I don't need to force myself \Nto pick between human or elf.
+Dialogue: 0,0:19:17.47,0:19:18.71,Main,Ray,0,0,0,,That's right.
+Dialogue: 0,0:19:18.71,0:19:20.06,Main,Ray,0,0,0,,You are you.
+Dialogue: 0,0:19:20.06,0:19:22.09,Main,Elisa,0,0,0,,Yeah, right?!
+Dialogue: 0,0:19:23.39,0:19:24.89,Main,Amelia,0,0,0,,And?
+Dialogue: 0,0:19:24.89,0:19:28.21,Main,Amelia,0,0,0,,How much longer do you intend \Nto be in this private bubble?
+Dialogue: 0,0:19:28.80,0:19:33.58,Main,Amelia,0,0,0,,Or what, is this the Alfheim Circle, \Nthe original spell of Alpheria?
+Dialogue: 0,0:19:33.58,0:19:36.59,Main,Elisa,0,0,0,,N-Not at all!
+Dialogue: 0,0:19:37.85,0:19:39.43,Main,Amelia,0,0,0,,Elisa!
+Dialogue: 0,0:19:39.43,0:19:42.15,Main,Amelia,0,0,0,,What's going on?\NHave you become a bit more proactive?
+Dialogue: 0,0:19:42.73,0:19:46.45,Main,Elisa,0,0,0,,I-I just thought that I \Nalso needed to change.
+Dialogue: 0,0:19:46.45,0:19:47.49,Main,Amelia,0,0,0,,Really.
+Dialogue: 0,0:19:47.83,0:19:50.83,Main,Amelia,0,0,0,,Well, I have no intention \Nof giving him up!
+Dialogue: 0,0:19:50.83,0:19:53.01,Main - Top,Elisa,0,0,0,,M-Me neither!
+Dialogue: 0,0:19:52.01,0:19:53.01,Main,Rebecca,0,0,0,,Ray.
+Dialogue: 0,0:19:53.01,0:19:55.23,Main,Rebecca,0,0,0,,There's something I'd like to ask you.
+Dialogue: 0,0:19:55.23,0:19:57.12,Main,Ray,0,0,0,,Sure. What is it?
+Dialogue: 0,0:19:58.22,0:20:01.89,Main,Rebecca,0,0,0,,What exactly is your relationship \Nto Princess Olivia?
+Dialogue: 0,0:20:02.47,0:20:03.96,Main,Ray,0,0,0,,Oh that...
+Dialogue: 0,0:20:04.92,0:20:09.44,Main,Olivia,0,0,0,,Ray and I have made an oath to \Nalways be together in the future!
+Dialogue: 0,0:20:09.44,0:20:09.86,Main,Elisa,0,0,0,,What...
+Dialogue: 0,0:20:09.86,0:20:10.10,Main,Amelia,0,0,0,,...did...
+Dialogue: 0,0:20:10.10,0:20:10.44,Main,Rebecca,0,0,0,,...you...
+Dialogue: 0,0:20:10.44,0:20:10.97,Main,Ariane,0,0,0,,...say?!
+Dialogue: 0,0:20:10.97,0:20:13.26,Main,Ray,0,0,0,,Princess Olivia, that's...
+Dialogue: 0,0:20:13.26,0:20:15.23,Main,Amelia,0,0,0,,The future?!
+Dialogue: 0,0:20:15.23,0:20:17.06,Main,Rebecca,0,0,0,,Really? When did this happen?!
+Dialogue: 0,0:20:17.06,0:20:18.26,Main,Ariane,0,0,0,,Is this true?!
+Dialogue: 0,0:20:18.26,0:20:20.03,Main,Both,0,0,0,,You never told us, Ray!
+Dialogue: 0,0:20:20.03,0:20:22.22,Main,Both,0,0,0,,{unintelligible}
+Dialogue: 0,0:20:22.63,0:20:25.71,Main,Claris,0,0,0,,That's Ray for you.
+Dialogue: 0,0:20:25.71,0:20:27.04,Main,Elisa,0,0,0,,Claris...
+Dialogue: 0,0:20:27.04,0:20:29.12,Main,Claris,0,0,0,,You're staying out of it?
+Dialogue: 0,0:20:29.12,0:20:31.83,Main,Elisa,0,0,0,,I-I'm not particularly...
+Dialogue: 0,0:20:34.52,0:20:36.71,Main,Elisa,0,0,0,,But I'm really glad.
+Dialogue: 0,0:20:37.29,0:20:39.14,Main,Elisa,0,0,0,,You didn't scar at all.
+Dialogue: 0,0:20:40.41,0:20:43.38,Main,Claris,0,0,0,,All because of your amazing magic.
+Dialogue: 0,0:20:47.59,0:20:50.05,Main,Carol,0,0,0,,Oh, youth!
+Dialogue: 0,0:20:50.27,0:20:51.65,Main,Abbie,0,0,0,,That's right.
+Dialogue: 0,0:20:51.65,0:20:54.33,Main,Lydia,0,0,0,,Abbie, do you have a moment?
+Dialogue: 0,0:20:54.33,0:20:55.21,Main,Abbie,0,0,0,,Yes.
+Dialogue: 0,0:20:55.21,0:20:56.31,Main,Carol,0,0,0,,What, what?
+Dialogue: 0,0:20:56.31,0:20:58.32,Main,Carol,0,0,0,,Are we all forming a band?
+Dialogue: 0,0:20:58.32,0:21:00.82,Main,Carol,0,0,0,,We're looking for everything \Nother than vocals!
+Dialogue: 0,0:21:00.82,0:21:03.07,Main,Carol,0,0,0,,Of course, with the intention \Nof going pro!
+Dialogue: 0,0:21:03.07,0:21:05.59,Main,Lydia,0,0,0,,That wouldn't last a second, Dumbpink.
+Dialogue: 0,0:21:05.59,0:21:06.84,Main,Carla,0,0,0,,That was quick.
+Dialogue: 0,0:21:06.84,0:21:09.82,Main,Carol,0,0,0,,Huh? Creative differences, already?
+Dialogue: 0,0:21:09.82,0:21:13.73,Main,Carol,0,0,0,,Okay, then I'll be on drums, \Nand you do the vocals Lydia.
+Dialogue: 0,0:21:13.73,0:21:15.28,Main,Carol,0,0,0,,How's that?
+Dialogue: 0,0:21:14.59,0:21:15.75,Main - Top,Evie,0,0,0,,Well done, Ray!
+Dialogue: 0,0:21:15.75,0:21:16.59,Main,Albert,0,0,0,,That was great.
+Dialogue: 0,0:21:24.04,0:21:25.03,Main,Luther,0,0,0,,Ray.
+Dialogue: 0,0:21:25.03,0:21:28.22,Main,Luther,0,0,0,,You just got back home, \Nbut are you ready?
+Dialogue: 0,0:21:28.60,0:21:30.60,Main,Ray,0,0,0,,Of course, Father.
+Dialogue: 0,0:21:30.60,0:21:33.10,Main,Ray,0,0,0,,That is why I hurried home.
+Dialogue: 0,0:21:37.69,0:21:38.42,Main,Luther,0,0,0,,Huh?
+Dialogue: 0,0:21:38.42,0:21:39.32,Main,Ray,0,0,0,,Mother.
+Dialogue: 0,0:21:40.33,0:21:42.82,Main,Sasha,0,0,0,,It's not like her to be shy.
+Dialogue: 0,0:21:42.82,0:21:45.48,Main,Sasha,0,0,0,,I think you two are expecting too much.
+Dialogue: 0,0:21:45.48,0:21:47.25,Main,Ray,0,0,0,,That can't be helped.
+Dialogue: 0,0:21:47.25,0:21:51.24,Main,Luther,0,0,0,,This moment is going to be \Ncarved into history forever!
+Dialogue: 0,0:21:51.24,0:21:53.95,Main,Sasha,0,0,0,,Oh, you two. Well, what can we do?
+Dialogue: 0,0:21:54.23,0:21:56.12,Main,Sasha,0,0,0,,Come on out.
+Dialogue: 0,0:22:02.09,0:22:04.14,Main,Stella,0,0,0,,Does this look weird?
+Dialogue: 0,0:22:04.14,0:22:05.45,Main,Luther,0,0,0,,Oh, Stella.
+Dialogue: 0,0:22:05.45,0:22:07.12,Main,Luther,0,0,0,,You look amazing.
+Dialogue: 0,0:22:07.67,0:22:08.92,Main,Ray,0,0,0,,What is this?!
+Dialogue: 0,0:22:09.30,0:22:11.30,Main,Ray,0,0,0,,My sister, hitherto a \Nbundle of cuteness,
+Dialogue: 0,0:22:11.30,0:22:14.64,Main,Ray,0,0,0,,now gained the charm of \Npropriety and maturity.
+Dialogue: 0,0:22:14.64,0:22:15.86,Main,Ray,0,0,0,,It is truly super!
+Dialogue: 0,0:22:15.86,0:22:19.33,Main,Ray,0,0,0,,No! Great ultimate perfect!
+Dialogue: 0,0:22:19.33,0:22:21.40,Main,Ray,0,0,0,,I am so glad I hurried back home!
+Dialogue: 0,0:22:22.14,0:22:22.89,Main,Luther,0,0,0,,Ray!
+Dialogue: 0,0:22:22.89,0:22:23.99,Main,Ray,0,0,0,,Father!
+Dialogue: 0,0:22:24.15,0:22:25.01,Main,Luther,0,0,0,,Ray!
+Dialogue: 0,0:22:25.01,0:22:25.90,Main,Ray,0,0,0,,Father!
+Dialogue: 0,0:22:25.15,0:22:27.39,Main - Top,Sasha,0,0,0,,I think you're both overreacting.
+Dialogue: 0,0:22:25.90,0:22:26.69,Main,Luther,0,0,0,,Ray!
+Dialogue: 0,0:22:26.69,0:22:27.71,Main,Ray,0,0,0,,Father!
+Dialogue: 0,0:22:27.39,0:22:28.93,Main - Top,Stella,0,0,0,,Does this even look good on me?
+Dialogue: 0,0:22:27.71,0:22:28.51,Main,Luther,0,0,0,,Ray!
+Dialogue: 0,0:22:28.51,0:22:29.67,Main,Ray,0,0,0,,Father!
+Dialogue: 0,0:22:28.93,0:22:30.65,Main - Top,Sasha,0,0,0,,Yes, definitely.
+Dialogue: 0,0:22:32.63,0:22:34.14,Main - Top,Sasha,0,0,0,,I'm looking forward to it.
+Dialogue: 0,0:22:35.02,0:22:36.50,Main,Sasha,0,0,0,,The school entrance ceremony.
+Dialogue: 0,0:22:38.74,0:22:41.73,Main,Stella,0,0,0,,Yeah! I can't wait!
+Dialogue: 0,0:23:48.73,0:23:50.31,Main,Abel,0,0,0,,I am Abel Alpherius.
+Dialogue: 0,0:23:48.74,0:23:55.41,ep title,txt,0,0,0,,{\pos(320,228)\3c&HED4CA1&\clip(0,225,640,236)\blur2}~ Next Episode Preview ~
+Dialogue: 0,0:23:48.74,0:23:55.41,ep title,txt,0,0,0,,{\pos(320,228)\3c&HDA9D66&\clip(0,236,640,360)\blur2}~ Next Episode Preview ~
+Dialogue: 0,0:23:50.31,0:23:51.34,Main,Miriana,0,0,0,,And I am Miriana.
+Dialogue: 0,0:23:51.34,0:23:52.10,Main,Cathy,0,0,0,,Next, it's me, Cathy!
+Dialogue: 0,0:23:52.10,0:23:53.56,Main,Elisa,0,0,0,,I'm Elisa Griffith.
+Dialogue: 0,0:23:53.56,0:23:55.41,Main,Cathy,0,0,0,,Well then, let's do the \Npreview of the next episode!
+Dialogue: 0,0:23:55.41,0:23:57.23,Main,Miriana,0,0,0,,The top dog's finally here.
+Dialogue: 0,0:23:57.23,0:23:58.80,Main,Cathy,0,0,0,,A stubborn, huffy new face.
+Dialogue: 0,0:23:58.80,0:24:01.38,Main,Abel,0,0,0,,What's the next mission \NRay is being tasked with?
+Dialogue: 0,0:24:01.38,0:24:02.41,Main,Elisa,0,0,0,,Impossible!
+Dialogue: 0,0:24:02.41,0:24:03.31,Main,Elisa,0,0,0,,Um, next time on...
+Dialogue: 0,0:24:03.31,0:24:05.20,Main,Abel,0,0,0,,{\i1}The Iceblade Sorcerer \NShall Rule the World{\i0}
+Dialogue: 0,0:24:05.20,0:24:06.32,Main,Both,0,0,0,,{\i1}Two{\i0}!
+Dialogue: 0,0:24:05.21,0:24:08.96,Sign_Basic,Title,0,0,0,,{\an8\fnTimes New Roman\b1\shad0\3c&HB25813&\blur3}T{\3c&HB3571A&}h{\3c&HB35621&}e{\3c&HB45529&} {\3c&HB45430&}I{\3c&HB55337&}c{\3c&HB5513E&}e{\3c&HB65045&}b{\3c&HB64F4C&}l{\3c&HB74E54&}a{\3c&HB74D5B&}d{\3c&HB84C62&}e {\fnArial\b1\shad0\3c&HFFFFFF&\blur3\c&HB3571A&}S{\c&HB54F25&}o{\c&HB8482F&}r{\c&HBA403A&}c{\c&HBD3944&}e{\c&HBF314F&}r{\c&HC22A59&}e{\c&HC42264&}r\N{\fnGeorgia\b0\c&H000000&}Shall {\fnArial\b1\shad0\3c&HFFFFFF&\blur3\c&HB3571A&}R{\c&HB94533&}u{\c&HBE344B&}l{\c&HC42264&}e {\fnGeorgia\b0\c&H000000&}the {\fnTimes New Roman\b1\shad0\3c&HB25813&\blur3\c&HFFFFFF&}W{\3c&HB65428&}o{\3c&HB94F3C&}r{\3c&HBD4B51&}l{\3c&HC04665&}d
+Dialogue: 0,0:24:06.78,0:24:08.96,Main,Both,0,0,0,,It's a new semester in episode 8!
+Dialogue: 0,0:24:08.96,0:24:11.13,Main,Elisa,0,0,0,,"The Boy Who Is the World's \NStrongest Sorcerer...
+Dialogue: 0,0:24:08.96,0:24:15.00,ep title,title,0,0,0,,Episode 8\NThe Boy Who Is the World's\NStrongest Sorcerer Faces the New Students.
+Dialogue: 0,0:24:11.13,0:24:12.96,Main,Abel,0,0,0,,...Faces the New students."
+
