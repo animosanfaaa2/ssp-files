@@ -1,0 +1,80 @@
+[Script Info]
+Title:
+Original Script:
+Original Translation:
+Original Editing:
+Original Timing:
+Synch Point:
+Script Updated By:
+Update Details:
+ScriptType: v4.00+
+PlayResX: 640
+Timer: 0.0000
+WrapStyle: 0
+Video Aspect Ratio: 0
+Video Zoom: 8
+PlayResY: 360
+ScaledBorderAndShadow: yes
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
+Style: Italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: On Top,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: DefaultLow,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:15.06,0:00:16.77,Default,,0,0,0,,{\i1}Right now{\i}
+Dialogue: 0,0:00:16.93,0:00:18.89,Default,,0,0,0,,{\i1}Never lose!\NI won't{\i}
+Dialogue: 0,0:00:19.06,0:00:21.27,Default,,0,0,0,,{\i1}"Just a bit more" I said{\i}
+Dialogue: 0,0:00:21.44,0:00:25.19,Default,,0,0,0,,{\i1}Swinging my hopes and fists{\i}
+Dialogue: 0,0:00:25.36,0:00:27.82,Default,,0,0,0,,{\i1}It's not someone else's power{\i}
+Dialogue: 0,0:00:27.99,0:00:30.57,Default,,0,0,0,,{\i1}Believe in your self{\i}
+Dialogue: 0,0:00:42.29,0:00:47.59,Default,,0,0,0,,{\i1}The clash between strength and strength{\i}
+Dialogue: 0,0:00:47.76,0:00:51.68,Default,,0,0,0,,{\i1}Has always crossed oceans and skies{\i}
+Dialogue: 0,0:00:51.84,0:00:53.89,Default,,0,0,0,,{\i1}Far into space{\i}
+Dialogue: 0,0:00:54.05,0:00:56.52,Default,,0,0,0,,{\i1}Rise to the front lines until the end{\i}
+Dialogue: 0,0:00:56.68,0:00:58.89,Default,,0,0,0,,{\i1}With the ultimate hit{\i}
+Dialogue: 0,0:00:59.06,0:01:02.06,Default,,0,0,0,,{\i1}Always in full attack{\i}
+Dialogue: 0,0:01:03.44,0:01:07.36,Default,,0,0,0,,{\i1}I won't lose- I'll win!{\i}
+Dialogue: 0,0:01:07.53,0:01:09.74,Default,,0,0,0,,{\i1}Alright nanana{\i}
+Dialogue: 0,0:01:09.90,0:01:13.41,Default,,0,0,0,,{\i1}Alright, let's get started\Non the final push!{\i}
+Dialogue: 0,0:01:13.57,0:01:15.78,Default,,0,0,0,,{\i1}Mighty warrior, audacious{\i}
+Dialogue: 0,0:01:15.95,0:01:19.33,Default,,0,0,0,,{\i1}I believe in my power{\i}
+Dialogue: 0,0:01:19.50,0:01:21.21,Default,,0,0,0,,{\i1}Right now{\i}
+Dialogue: 0,0:01:21.37,0:01:23.21,Default,,0,0,0,,{\i1}Never lose!\NI won't{\i}
+Dialogue: 0,0:01:23.42,0:01:25.71,Default,,0,0,0,,{\i1}"Just a bit more" I said{\i}
+Dialogue: 0,0:01:25.88,0:01:29.80,Default,,0,0,0,,{\i1}Swinging my hopes and fists{\i}
+Dialogue: 0,0:01:29.97,0:01:32.18,Default,,0,0,0,,{\i1}All my efforts up until now{\i}
+Dialogue: 0,0:01:32.34,0:01:34.64,Default,,0,0,0,,{\i1}And my frustrations fueled me{\i}
+Dialogue: 0,0:01:34.80,0:01:36.97,Default,,0,0,0,,{\i1}It's not someone else's power{\i}
+Dialogue: 0,0:01:37.14,0:01:40.10,Default,,0,0,0,,{\i1}Believe in your self{\i}
+Dialogue: 0,0:02:47.75,0:02:52.59,On Top,,0,0,0,,THE GOD OF DESTRUCTION\NHEADS TO THE PLANET OF THE KAI
+Dialogue: 0,0:22:16.04,0:22:17.50,Default,,0,0,0,,{\i1}The face of a winner{\i}
+Dialogue: 0,0:22:17.67,0:22:19.34,Default,,0,0,0,,{\i1}Still hanging on, at the limit{\i}
+Dialogue: 0,0:22:19.51,0:22:21.38,Default,,0,0,0,,{\i1}The paper dancing in the air\Nflashes brilliantly{\i}
+Dialogue: 0,0:22:21.55,0:22:24.05,Default,,0,0,0,,{\i1}I piled up many failures along the way{\i}
+Dialogue: 0,0:22:24.22,0:22:25.14,Default,,0,0,0,,{\i1}That's right{\i}
+Dialogue: 0,0:22:25.30,0:22:27.05,Default,,0,0,0,,{\i1}Standing tall, on my toes{\i}
+Dialogue: 0,0:22:27.22,0:22:31.10,Default,,0,0,0,,{\i1}The view matters more than a sprain{\i}
+Dialogue: 0,0:22:31.27,0:22:34.81,Default,,0,0,0,,{\i1}Did you think sorrow could defeat me?{\i}
+Dialogue: 0,0:22:34.98,0:22:39.15,Default,,0,0,0,,{\i1}I eat that up, three meals a day{\i}
+Dialogue: 0,0:22:39.32,0:22:41.24,Default,,0,0,0,,{\i1}A strong wind surges again{\i}
+Dialogue: 0,0:22:41.40,0:22:43.07,Default,,0,0,0,,{\i1}Many troubles come my way{\i}
+Dialogue: 0,0:22:43.24,0:22:46.03,Default,,0,0,0,,{\i1}Time to focus{\i}
+Dialogue: 0,0:22:46.32,0:22:48.16,Default,,0,0,0,,{\i1}I swear\NI have high hopes{\i}
+Dialogue: 0,0:22:48.33,0:22:51.08,Default,,0,0,0,,{\i1}I'll be complete in the near future{\i}
+Dialogue: 0,0:22:51.25,0:22:53.08,Default,,0,0,0,,{\i1}A presence growing day by day by day{\i}
+Dialogue: 0,0:22:53.25,0:22:54.62,Default,,0,0,0,,{\i1}That's the proof{\i}
+Dialogue: 0,0:22:54.79,0:22:58.84,Default,,0,0,0,,{\i1}My life will make sparks fly{\i}
+Dialogue: 0,0:22:59.00,0:23:01.46,Default,,0,0,0,,{\i1}There's nothing I can't do{\i}
+Dialogue: 0,0:23:01.63,0:23:02.92,Default,,0,0,0,,{\i1}The pinnacle of perfection{\i}
+Dialogue: 0,0:23:05.18,0:23:06.72,Default,,0,0,0,,{\i1}The pinnacle of perfection{\i}
+Dialogue: 0,0:23:07.09,0:23:08.60,Default,,0,0,0,,{\i1}The pinnacle of perfection{\i}
+Dialogue: 0,0:23:11.22,0:23:12.47,On Top,,0,0,0,,NEXT EPISODE
+Dialogue: 0,0:23:12.64,0:23:15.60,On Top,,0,0,0,,THE GOD OF DESTRUCTION\NHEADS TO EARTH
+
