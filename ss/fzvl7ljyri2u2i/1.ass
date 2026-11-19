@@ -1,0 +1,464 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
+Style: Q0,Arial,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q1,Arial,21,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q2,Roboto Medium,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q3,Arial,27,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q4,Arial,27,&H008080FF,&H008080FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q5,Arial,27,&H004242FF,&H004242FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q6,Arial,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q7,Arial,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q8,Roboto Medium,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q9,Arial,34,&H0009D9F7,&H0009D9F7,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q10,Arial,27,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q11,Arial,27,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q12,Arial,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q13,Arial,27,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q14,Arial,27,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q15,Roboto Medium,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q16,Arial,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q17,Arial,21,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q18,Arial,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q19,Arial,27,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q20,Roboto Medium,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q21,Arial,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q22,Arial,34,&H008080FF,&H008080FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:02.00,0:00:03.42,Q2,,0,0,0,,An internship?
+Dialogue: 1,0:00:03.88,0:00:07.08,Q2,,0,0,0,,Yep, it's like one step short\Nof actual job hunting.
+Dialogue: 1,0:00:07.33,0:00:11.33,Q2,,0,0,0,,It's basically trying out a company and\Nseeing what working there is really like.
+Dialogue: 1,0:00:11.33,0:00:14.04,Q2,,0,0,0,,Are you going to do an internship too,\NUshio-san?
+Dialogue: 1,0:00:15.50,0:00:19.54,Q2,,0,0,0,,I'm not sure cuz I might job hunt instead.\NI'd rather not do it just for the sake of it.
+Dialogue: 1,0:00:20.00,0:00:25.88,Q2,,0,0,0,,So besides our Kyushu retreat, I'm not sure\NI can attend club activities over summer break.
+Dialogue: 1,0:00:27.50,0:00:28.71,Q2,,0,0,0,,What?!
+Dialogue: 1,0:00:28.71,0:00:30.21,Q2,,0,0,0,,Y-you're kidding!
+Dialogue: 1,0:00:30.21,0:00:33.21,Q2,,0,0,0,,Doesn't that basically mean you're retiring\Nfrom the club after we go to Kyushu?
+Dialogue: 1,0:00:33.21,0:00:35.83,Q2,,0,0,0,,Uh… Well, yes, but…
+Dialogue: 1,0:00:35.83,0:00:36.50,Q2,,0,0,0,,This sucks!
+Dialogue: 1,0:00:37.33,0:00:38.79,Q2,,0,0,0,,M-Misaki-chan?
+Dialogue: 1,0:00:38.79,0:00:42.33,Q2,,0,0,0,,Then I want to hang out even\Nmore until summer break!
+Dialogue: 1,0:00:42.46,0:00:43.13,Q2,,0,0,0,,Huh?
+Dialogue: 1,0:00:43.88,0:00:45.50,Q2,,0,0,0,,I would love to, but…
+Dialogue: 1,0:00:45.50,0:00:48.67,Q2,,0,0,0,,Misaki-chan, you probably can't spend too\Nmuch money until our retreat, right?
+Dialogue: 1,0:00:48.67,0:00:50.96,Q2,,0,0,0,,But… I want to as well…
+Dialogue: 1,0:00:51.17,0:00:52.42,Q2,,0,0,0,,Really, Usa-chan?
+Dialogue: 1,0:00:52.42,0:00:55.88,Q2,,0,0,0,,Aight! Well, then how 'bout this?
+Dialogue: 1,0:00:56.08,0:00:58.88,Q2,,0,0,0,,Tobu Railway is havin' a sweepstakes now!
+Dialogue: 1,0:00:59.08,0:01:05.46,Q2,,0,0,0,,The winner goes on the Spacia X and SL Taiju\Nfor a luxurious day trip to Kinugawa Onsen!
+Dialogue: 1,0:01:05.46,0:01:08.92,Q2,,0,0,0,,A steam locomotive?!\NI've always wanted to ride one!
+Dialogue: 1,0:01:08.92,0:01:11.13,Q2,,0,0,0,,I even wrote it down in my notebook of\Nthings I want to do!
+Dialogue: 1,0:01:11.13,0:01:12.04,Q2,,0,0,0,,Oho!
+Dialogue: 1,0:01:12.04,0:01:15.54,Q2,,0,0,0,,You ride the limited-express Revaty\Non the way back. How delightful!
+Dialogue: 1,0:01:15.67,0:01:18.17,Q2,,0,0,0,,But look… The prize is limited to five groups.
+Dialogue: 1,0:01:18.33,0:01:20.25,Q2,,0,0,0,,I-it's basically a matter of luck!
+Dialogue: 1,0:01:20.25,0:01:21.96,Q2,,0,0,0,,But… I want to go!
+Dialogue: 1,0:01:21.96,0:01:22.58,Q2,,0,0,0,,Mh-hm!
+Dialogue: 1,0:01:22.58,0:01:26.00,Q2,,0,0,0,,All right! Let's show 'em\Nwe've got that group spirit!
+Dialogue: 1,0:01:27.21,0:01:28.88,Q8,,0,0,0,,Let's go! On one, two, three
+Dialogue: 1,0:01:28.88,0:01:30.88,Q8,,0,0,0,,Next station, dreamin' on!
+Dialogue: 1,0:01:31.29,0:01:33.63,Q8,,0,0,0,,My love knows no bounds
+Dialogue: 1,0:01:33.63,0:01:36.50,Q8,,0,0,0,,I feel like I can go anywhere
+Dialogue: 1,0:01:36.71,0:01:40.54,Q8,,0,0,0,,Carrying everyone's hopes, let's go beyond our dreams!
+Dialogue: 1,0:01:40.54,0:01:43.08,Q8,,0,0,0,,Let’s ride on, everybody CLAP CLAP!!
+Dialogue: 1,0:01:43.63,0:01:45.58,Q8,,0,0,0,,This train is bound for Me
+Dialogue: 1,0:01:45.58,0:01:46.63,Q8,,0,0,0,,FU FU!!
+Dialogue: 1,0:01:46.63,0:01:49.29,Q8,,0,0,0,,Let’s ride on, everybody CLAP CLAP!!
+Dialogue: 1,0:01:49.71,0:01:51.75,Q8,,0,0,0,,This train is bound for Me
+Dialogue: 1,0:01:51.75,0:01:52.71,Q8,,0,0,0,,FU FU!!
+Dialogue: 1,0:01:55.83,0:01:58.67,Q8,,0,0,0,,The bell rings out on the platform during sunrise
+Dialogue: 1,0:01:58.67,0:02:01.75,Q8,,0,0,0,,Use it as an alarm clock instead and GO! GO!
+Dialogue: 1,0:02:01.75,0:02:04.83,Q8,,0,0,0,,The weather feels great too, GOOD
+Dialogue: 1,0:02:04.83,0:02:07.75,Q8,,0,0,0,,Sparkle, sparkle, let's make the present shine
+Dialogue: 1,0:02:08.21,0:02:10.46,Q8,,0,0,0,,Don't rush, take a break
+Dialogue: 1,0:02:10.46,0:02:12.75,Q8,,0,0,0,,Aren't things like that important?
+Dialogue: 1,0:02:14.29,0:02:18.33,Q8,,0,0,0,,At the end of the tracks lie an unread story
+Dialogue: 1,0:02:18.33,0:02:22.08,Q8,,0,0,0,,Can these feelings never stop?
+Dialogue: 1,0:02:22.79,0:02:24.63,Q8,,0,0,0,,Let's go! On one, two, three
+Dialogue: 1,0:02:24.63,0:02:26.46,Q8,,0,0,0,,Next station, dreamin' on!
+Dialogue: 1,0:02:26.46,0:02:28.88,Q8,,0,0,0,,Let's keep going faster
+Dialogue: 1,0:02:28.88,0:02:30.83,Q8,,0,0,0,,See, I'm feeling absolutely fantastic
+Dialogue: 1,0:02:30.83,0:02:32.29,Q8,,0,0,0,,The scenery unfolds around me, making my heart
+Dialogue: 1,0:02:32.29,0:02:35.17,Q8,,0,0,0,,Race faster and faster, so I won't forget about it
+Dialogue: 1,0:02:35.17,0:02:36.83,Q8,,0,0,0,,On one, two, three
+Dialogue: 1,0:02:36.83,0:02:38.67,Q8,,0,0,0,,Next station, dreamin' on!
+Dialogue: 1,0:02:38.67,0:02:41.21,Q8,,0,0,0,,Connecting my love to the future
+Dialogue: 1,0:02:41.21,0:02:44.33,Q8,,0,0,0,,I feel like I can go anywhere
+Dialogue: 1,0:02:44.33,0:02:48.29,Q8,,0,0,0,,Carrying everyone's hopes, let's go beyond our dreams!
+Dialogue: 1,0:02:48.29,0:02:51.08,Q8,,0,0,0,,Let’s ride on, everybody CLAP CLAP!!
+Dialogue: 1,0:02:59.46,0:03:01.33,Q2,,0,0,0,,I guess that's the way the cookie crumbles…
+Dialogue: 1,0:03:02.13,0:03:04.75,Q2,,0,0,0,,People who've already won are posting about it…
+Dialogue: 1,0:03:04.75,0:03:07.17,Q2,,0,0,0,,It's not like you were that\Nlikely win anyway, right?
+Dialogue: 1,0:03:07.17,0:03:09.63,Q2,,0,0,0,,There goes my chance to make memories\Nwith the upperclassmen...
+Dialogue: 1,0:03:09.88,0:03:13.58,Q2,,0,0,0,,Even though they'll step down from the club,\Nthere's still time before graduation.
+Dialogue: 1,0:03:13.88,0:03:15.79,Q2,,0,0,0,,It'll be okay, you'll still have chances.
+Dialogue: 1,0:03:18.00,0:03:21.42,Q2,,0,0,0,,It's really awesome you got to meet such\Ngreat upperclassmen, Misaki!
+Dialogue: 1,0:03:23.04,0:03:23.67,Q2,,0,0,0,,Got 'em
+Dialogue: 1,0:03:24.04,0:03:25.33,Q2,,0,0,0,,I won
+Dialogue: 1,0:03:25.83,0:03:26.75,Q2,,0,0,0,,No way!
+Dialogue: 1,0:03:28.54,0:03:29.79,Q2,,0,0,0,,Way to goooo!
+Dialogue: 1,0:03:29.79,0:03:31.50,Q2,,0,0,0,,Usa-chaaaaan!
+Dialogue: 1,0:03:32.21,0:03:37.42,Q2,,0,0,0,,A day trip to Kinugawa Onsen\Nriding on the Spacia X and SL Taiju!
+Dialogue: 1,0:03:37.92,0:03:41.46,Q2,,0,0,0,,Ah, just saying it makes my heart beat so fast!
+Dialogue: 1,0:03:42.96,0:03:46.00,Q2,,0,0,0,,I did a lot of research when\NI entered the sweepstakes,
+Dialogue: 1,0:03:46.00,0:03:49.75,Q2,,0,0,0,,and I found out the trains actually have\Ncafés and sofas and stuff inside!
+Dialogue: 1,0:03:49.75,0:03:50.29,Q2,,0,0,0,,Yeah!
+Dialogue: 1,0:03:51.75,0:03:53.50,Q2,,0,0,0,,I can't wait!
+Dialogue: 1,0:04:01.25,0:04:02.25,Q2,,0,0,0,,Um…
+Dialogue: 1,0:04:02.25,0:04:03.71,Q2,,0,0,0,,Which way should I go?
+Dialogue: 1,0:04:07.50,0:04:09.21,Q2,,0,0,0,,Is there anything I can help you with?
+Dialogue: 1,0:04:09.21,0:04:09.96,Q2,,0,0,0,,Huh?
+Dialogue: 1,0:04:13.67,0:04:17.54,Q2,,0,0,0,,Ah, um… I have a ticket for the Spacia X.
+Dialogue: 1,0:04:17.54,0:04:18.29,Q2,,0,0,0,,Ah!
+Dialogue: 1,0:04:18.50,0:04:24.71,Q2,,0,0,0,,In that case, the farthest platform on the left\Nis exclusively reserved for the Spacia X.
+Dialogue: 1,0:04:25.00,0:04:26.04,Q2,,0,0,0,,Ah!
+Dialogue: 1,0:04:26.29,0:04:33.58,Q2,,0,0,0,,At this time of day, the train is usually hidden\Nby the limited-express cars, but if you'd like,
+Dialogue: 1,0:04:33.58,0:04:38.29,Q2,,0,0,0,,please take your time enjoying Platform 5's design\Nsince there's still time until departure.
+Dialogue: 1,0:04:43.21,0:04:44.88,Q2,,0,0,0,,Wow!
+Dialogue: 1,0:04:45.25,0:04:47.17,Q2,,0,0,0,,Oh! There you are!
+Dialogue: 1,0:04:48.33,0:04:52.96,Q2,,0,0,0,,Sorry about that! We should've met up on\Nyour side of the line.
+Dialogue: 1,0:04:52.96,0:04:56.63,Q2,,0,0,0,,Oh, no, not at all! I still got lost even\Nthough it was so close.
+Dialogue: 1,0:04:56.92,0:05:00.88,Q2,,0,0,0,,The train should be arriving any minute now,\Nso let's head out for the corners again today!
+Dialogue: 1,0:05:01.58,0:05:02.63,Q2,,0,0,0,,Okay!
+Dialogue: 1,0:05:08.00,0:05:09.50,Q2,,0,0,0,,Whoa!
+Dialogue: 1,0:05:10.17,0:05:11.63,Q2,,0,0,0,,It's here!
+Dialogue: 1,0:05:11.88,0:05:13.54,Q2,,0,0,0,,The windows are cute!
+Dialogue: 1,0:05:16.71,0:05:19.46,Q2,,0,0,0,,Wow! It feels super futuristic!
+Dialogue: 1,0:05:20.13,0:05:23.17,Q2,,0,0,0,,Those are pretty funky-looking lights, eh?
+Dialogue: 1,0:05:23.17,0:05:24.83,Q2,,0,0,0,,Good catch!
+Dialogue: 1,0:05:25.08,0:05:30.13,Q2,,0,0,0,,The Spacia X's headlights\Nand taillights use 39 LEDs,
+Dialogue: 1,0:05:30.13,0:05:34.96,Q2,,0,0,0,,which switch between low and high beams by\Nchanging the number of LEDs that light up!
+Dialogue: 1,0:05:35.17,0:05:41.83,Q2,,0,0,0,,Basically, they keep their lights on all day\Nso it's easy to tell when a train is coming.
+Dialogue: 1,0:05:41.83,0:05:45.38,Q2,,0,0,0,,When they pass an oncoming train with\Ntheir high beams on,
+Dialogue: 1,0:05:45.38,0:05:50.92,Q2,,0,0,0,,they also sometimes switch to\Nlow beams so the driver isn't blinded.
+Dialogue: 1,0:05:51.50,0:05:55.42,Q2,,0,0,0,,They keep them on during the day, huh?\NThat's different from how we do it with cars.
+Dialogue: 1,0:05:55.42,0:05:56.33,Q2,,0,0,0,,Oh!
+Dialogue: 1,0:05:59.08,0:06:05.58,Q2,,0,0,0,,The shape of the windows in cars 1 and 6 was\Ninspired by Edo-period bamboo weaving!
+Dialogue: 1,0:06:06.67,0:06:08.71,Q2,,0,0,0,,That's amazing! It reminds me of a hotel!
+Dialogue: 1,0:06:08.71,0:06:09.75,Q2,,0,0,0,,Wow!
+Dialogue: 1,0:06:09.75,0:06:12.08,Q2,,0,0,0,,It really feels like I've stepped\Ninto a dream world!
+Dialogue: 1,0:06:12.54,0:06:17.50,Q2,,0,0,0,,I-I want to check out everything since\NI only had a standard seat last time!
+Dialogue: 1,0:06:17.50,0:06:20.96,Q2,,0,0,0,,First things first, let's put up our luggage.\NThe train's about to depart!
+Dialogue: 1,0:06:23.54,0:06:24.33,Q2,,0,0,0,,Whoa!
+Dialogue: 1,0:06:28.46,0:06:31.50,Q2,,0,0,0,,This level of fanciness...\Nhas me totally speechless!
+Dialogue: 1,0:06:32.17,0:06:34.08,Q2,,0,0,0,,I call dibs on that humungo sofa!
+Dialogue: 1,0:06:34.08,0:06:35.29,Q2,,0,0,0,,Hey, no fair!
+Dialogue: 1,0:06:35.63,0:06:39.08,Q2,,0,0,0,,I-I want the spot where you can see the\Ndriver's seat!
+Dialogue: 1,0:06:39.08,0:06:39.92,Q2,,0,0,0,,Oh!
+Dialogue: 1,0:06:40.04,0:06:41.58,Q2,,0,0,0,,The early bird catches the worm, ya know!
+Dialogue: 1,0:06:41.58,0:06:43.08,Q2,,0,0,0,,Then let me sit next to you!
+Dialogue: 1,0:06:41.58,0:06:42.08,Q15,,0,0,0,,Driver's seat! Driver's seat! It's awesome!
+Dialogue: 1,0:06:42.08,0:06:43.46,Q15,,0,0,0,,Misaki-chan, be careful!
+Dialogue: 1,0:06:43.46,0:06:44.25,Q2,,0,0,0,,Huh?
+Dialogue: 1,0:06:44.25,0:06:45.46,Q2,,0,0,0,,C-coming!
+Dialogue: 1,0:06:49.96,0:06:51.25,Q2,,0,0,0,,Excuse me for the intrusion.
+Dialogue: 1,0:06:52.04,0:06:57.67,Q2,,0,0,0,,My name is Miyabi Kinugawa,\Nand I'll be the conductor on this train today.
+Dialogue: 1,0:06:57.67,0:06:59.42,Q2,,0,0,0,,Th-the conductor?!
+Dialogue: 1,0:07:02.83,0:07:05.92,Q2,,0,0,0,,A train conductor's business card… How rare!
+Dialogue: 1,0:07:06.08,0:07:12.25,Q2,,0,0,0,,I'll likely be coming in and out a few times for\Nwork, so I'd appreciate your understanding!
+Dialogue: 1,0:07:12.54,0:07:15.29,Q2,,0,0,0,,Where are you headed today?
+Dialogue: 1,0:07:15.67,0:07:20.83,Q2,,0,0,0,,We're planning on taking the SL Taiju from\NShimo-Imaichi to Kinugawa Onsen.
+Dialogue: 1,0:07:20.83,0:07:23.17,Q2,,0,0,0,,An onsen? That sounds wonderful!
+Dialogue: 1,0:07:23.17,0:07:27.38,Q2,,0,0,0,,If you're going to Kinugawa, I'd recommend\None with a large bathing area and big windows.
+Dialogue: 1,0:07:27.54,0:07:32.33,Q2,,0,0,0,,Edomura is also fun, and river rafting is\Na must-do too! Oh, and then, there's also…
+Dialogue: 1,0:07:33.38,0:07:35.46,Q2,,0,0,0,,I-I apologize! I couldn't help myself.
+Dialogue: 1,0:07:35.75,0:07:40.58,Q2,,0,0,0,,Oh, please be sure to check out\Nthe café lounge in the front car too!
+Dialogue: 1,0:07:42.25,0:07:43.63,Q2,,0,0,0,,Whoa!
+Dialogue: 1,0:07:46.33,0:07:47.67,Q2,,0,0,0,,M-ma'am?
+Dialogue: 1,0:07:47.88,0:07:52.04,Q2,,0,0,0,,Don't ya worry 'bout her! She's just deliriously\Nhappy 'cuz she got an overdose of her idol!
+Dialogue: 1,0:07:52.04,0:07:53.50,Q2,,0,0,0,,Her idol?
+Dialogue: 1,0:07:57.17,0:07:58.71,Q2,,0,0,0,,Wow!
+Dialogue: 1,0:07:59.79,0:08:03.42,Q2,,0,0,0,,I still haven't been to the Skytree yet, you know.
+Dialogue: 1,0:08:03.42,0:08:07.08,Q2,,0,0,0,,What? The first thing ya gotta do\Nif ya go to Tokyo is go to the Skytree!
+Dialogue: 1,0:08:07.08,0:08:08.63,Q2,,0,0,0,,I haven't… either.
+Dialogue: 1,0:08:09.08,0:08:13.04,Q2,,0,0,0,,It's always the people who move to Tokyo\Nthat end up knowing more about it, huh?
+Dialogue: 1,0:08:13.46,0:08:18.38,Q2,,0,0,0,,Before I moved here, I used to think\Neveryone in Tokyo ate monja.
+Dialogue: 1,0:08:20.92,0:08:24.71,Q2,,0,0,0,,I got up early and forgot I missed breakfast…
+Dialogue: 1,0:08:27.17,0:08:31.33,Q2,,0,0,0,,Good thing you're friends\Nwith Ushio-chan the foodie T-Tuber
+Dialogue: 1,0:08:31.54,0:08:34.58,Q2,,0,0,0,,because I came prepared for this!
+Dialogue: 1,0:08:35.00,0:08:36.00,Q2,,0,0,0,,Ta-da!
+Dialogue: 1,0:08:36.00,0:08:39.63,Q2,,0,0,0,,Asakusa Imahan's premium sukiyaki meal\Nand their beef and egg bento!
+Dialogue: 1,0:08:39.92,0:08:43.04,Q2,,0,0,0,,Their premium sukiyaki meal is available\Nby reservation only, ya know!
+Dialogue: 1,0:08:43.04,0:08:45.38,Q2,,0,0,0,,I've been dying to try this for ages!
+Dialogue: 1,0:08:45.38,0:08:47.00,Q2,,0,0,0,,Let's eat it together!
+Dialogue: 1,0:08:47.00,0:08:48.13,Q2,,0,0,0,,Are you sure?
+Dialogue: 1,0:08:48.42,0:08:50.17,Q2,,0,0,0,,I want… to eat meat.
+Dialogue: 1,0:08:51.17,0:08:52.92,Q2,,0,0,0,,I can't decide where to start!
+Dialogue: 1,0:08:52.92,0:08:55.75,Q2,,0,0,0,,Hold up, lemme take pics first!
+Dialogue: 1,0:08:56.29,0:08:58.88,Q2,,0,0,0,,After we eat this, why don't\Nwe go on a little adventure?
+Dialogue: 1,0:08:58.88,0:09:01.54,Q2,,0,0,0,,Heck yeah! I wanna go to the café lounge too.
+Dialogue: 1,0:09:05.42,0:09:06.71,Q2,,0,0,0,,Look at this!
+Dialogue: 1,0:09:07.00,0:09:12.00,Q2,,0,0,0,,Each car has a different seat design! I can't help\Nbut want to ride in every single one!
+Dialogue: 1,0:09:12.00,0:09:14.88,Q2,,0,0,0,,The armrests have retractable tables!
+Dialogue: 1,0:09:15.21,0:09:20.79,Q2,,0,0,0,,If I use two tables, I should be able to eat\Nmy lunch and edit on the go, right?
+Dialogue: 1,0:09:21.08,0:09:25.33,Q2,,0,0,0,,Knowing you, I bet both tables would end\Nup full of bento boxes!
+Dialogue: 1,0:09:26.25,0:09:29.67,Q2,,0,0,0,,Misaki-chan, since when did\Nya start makin' jokes like that?
+Dialogue: 1,0:09:34.04,0:09:37.08,Q2,,0,0,0,,This is… the cockpit lounge of my dreams!
+Dialogue: 1,0:09:37.38,0:09:42.25,Q2,,0,0,0,,That said, they only serve drinks and\Na few light snacks though.
+Dialogue: 1,0:09:42.25,0:09:45.25,Q2,,0,0,0,,That's more than enough! It's plenty romantic!
+Dialogue: 1,0:09:45.50,0:09:50.50,Q2,,0,0,0,,Thank you for traveling with us.\NYou're guests in the Cockpit Suite, aren't you?
+Dialogue: 1,0:09:50.50,0:09:51.88,Q2,,0,0,0,,Oh! Yes, ma'am!
+Dialogue: 1,0:09:51.88,0:09:56.42,Q2,,0,0,0,,We have our menu right here,\Nso please feel free to take a look at it.
+Dialogue: 1,0:09:56.42,0:09:57.54,Q2,,0,0,0,,Whoa!
+Dialogue: 1,0:09:58.04,0:09:59.33,Q2,,0,0,0,,I'm gettin' a beer, duh.
+Dialogue: 1,0:09:59.33,0:10:01.21,Q2,,0,0,0,,I'm curious about the Nikko Lager.
+Dialogue: 1,0:10:01.54,0:10:03.96,Q2,,0,0,0,,But I'm not sure I'll be able\Nto finish it by myself…
+Dialogue: 1,0:10:03.96,0:10:06.46,Q2,,0,0,0,,Th-they sure serve a lot of alcohol, don't they?
+Dialogue: 1,0:10:06.46,0:10:09.04,Q2,,0,0,0,,They also have soft drinks. Like the Nikko-la.
+Dialogue: 1,0:10:09.04,0:10:10.75,Q2,,0,0,0,,N-Nikko…
+Dialogue: 1,0:10:10.75,0:10:12.33,Q2,,0,0,0,,Oh, like the city Nikko!
+Dialogue: 1,0:10:12.67,0:10:17.13,Q2,,0,0,0,,Man, I'd kill to swing by Nikko on the way\Nand try their station bento too!
+Dialogue: 1,0:10:17.63,0:10:19.21,Q2,,0,0,0,,We'll save that for another time.
+Dialogue: 1,0:10:24.04,0:10:27.29,Q2,,0,0,0,,All the worries and fatigue from\Nmy day-to-day life just melt away!
+Dialogue: 1,0:10:27.29,0:10:29.83,Q2,,0,0,0,,Seriously? You're exaggerating.
+Dialogue: 1,0:10:30.08,0:10:32.46,Q2,,0,0,0,,You probably just haven't finished\Nyour assignments, have you?
+Dialogue: 1,0:10:32.58,0:10:38.04,Q2,,0,0,0,,Whaddya mean?! Even I've got days\Nwhen I really sweat about the future!
+Dialogue: 1,0:10:38.04,0:10:39.38,Q2,,0,0,0,,Oh, really now?
+Dialogue: 1,0:10:46.04,0:10:47.46,Q2,,0,0,0,,It's spicy!
+Dialogue: 1,0:10:49.63,0:10:53.88,Q2,,0,0,0,,Anyway, I'd love for the four\Nof us to grab drinks sometime.
+Dialogue: 1,0:10:54.63,0:10:55.75,Q2,,0,0,0,,That settles it!
+Dialogue: 1,0:10:55.96,0:11:00.92,Q2,,0,0,0,,When Misaki-chan turns twenty, all of us\Nclub members are going out for drinks!
+Dialogue: 1,0:11:01.33,0:11:05.42,Q2,,0,0,0,,Hey, hold up! You've only had a sip,\Nso why are ya so drunk?
+Dialogue: 1,0:11:05.42,0:11:06.79,Q2,,0,0,0,,Oh… But…
+Dialogue: 1,0:11:07.08,0:11:09.21,Q2,,0,0,0,,Usa-chan turns twenty in August, right?
+Dialogue: 1,0:11:09.21,0:11:10.92,Q2,,0,0,0,,We can celebrate, right? Can't we?
+Dialogue: 1,0:11:10.92,0:11:11.54,Q2,,0,0,0,,Huh?
+Dialogue: 1,0:11:11.54,0:11:14.75,Q2,,0,0,0,,Hey! That's coercion! That's super unacceptable!
+Dialogue: 1,0:11:15.58,0:11:16.96,Q2,,0,0,0,,A sake brewery…
+Dialogue: 1,0:11:17.38,0:11:18.13,Q2,,0,0,0,,What?
+Dialogue: 1,0:11:18.67,0:11:20.00,Q2,,0,0,0,,My first time drinking…
+Dialogue: 1,0:11:20.21,0:11:22.42,Q2,,0,0,0,,Please take me to a sake brewery.
+Dialogue: 1,0:11:23.58,0:11:25.83,Q2,,0,0,0,,That's a fantastic idea, Usa-chaaaan!
+Dialogue: 1,0:11:26.08,0:11:27.63,Q2,,0,0,0,,That's outta line, knock it off!
+Dialogue: 1,0:11:37.46,0:11:39.92,Q2,,0,0,0,,It's breathtaking no matter\Nhow many times I see it!
+Dialogue: 1,0:11:39.92,0:11:42.83,Q2,,0,0,0,,All the alcohol is being\Nwashed away by the steam!
+Dialogue: 1,0:11:42.83,0:11:45.08,Q2,,0,0,0,,It's like we're in a picture book!
+Dialogue: 1,0:11:46.92,0:11:48.92,Q2,,0,0,0,,Huh? H-hey, wait up!
+Dialogue: 1,0:11:48.92,0:11:52.00,Q2,,0,0,0,,Don't worry, we're fine. Look over there, look!
+Dialogue: 1,0:11:56.71,0:11:58.92,Q2,,0,0,0,,Shouldn't we stay on the platform?
+Dialogue: 1,0:11:58.92,0:12:03.96,Q2,,0,0,0,,There's still time until our departure. We have\Nto check out the train turntable while we can!
+Dialogue: 1,0:12:08.96,0:12:09.96,Q2,,0,0,0,,What's wrong?
+Dialogue: 1,0:12:09.96,0:12:10.63,Q2,,0,0,0,,Oh!
+Dialogue: 1,0:12:10.63,0:12:11.83,Q2,,0,0,0,,Ah, um…
+Dialogue: 1,0:12:12.17,0:12:15.33,Q2,,0,0,0,,I guess that means today is already halfway over…
+Dialogue: 1,0:12:18.29,0:12:21.00,Q2,,0,0,0,,Worried the day will end before you know it, huh?
+Dialogue: 1,0:12:21.00,0:12:24.29,Q2,,0,0,0,,But we still have the steam locomotive and\Nhot springs to look forward to, don't we?
+Dialogue: 1,0:12:28.88,0:12:32.21,Q2,,0,0,0,,We still have… lots of fun things in store for us.
+Dialogue: 1,0:12:34.96,0:12:36.54,Q2,,0,0,0,,Look, it's coming!
+Dialogue: 1,0:12:44.46,0:12:50.58,Q2,,0,0,0,,I get it! So this is how the trains spin around\Nso they can go in the opposite direction.
+Dialogue: 1,0:12:50.96,0:12:56.29,Q2,,0,0,0,,This train turntable was originally used at\NNagatoshi Station in Yamaguchi Prefecture.
+Dialogue: 1,0:12:57.83,0:12:59.13,Q2,,0,0,0,,Amazing!
+Dialogue: 1,0:13:04.13,0:13:05.67,Q2,,0,0,0,,Oh! It's going back.
+Dialogue: 1,0:13:05.92,0:13:07.63,Q2,,0,0,0,,This time it's coming this way.
+Dialogue: 1,0:13:09.00,0:13:14.13,Q2,,0,0,0,,It stopped over there, but aren't we\Nsupposed to board from this platform?
+Dialogue: 1,0:13:14.13,0:13:16.21,Q2,,0,0,0,,How will it get over here?
+Dialogue: 1,0:13:16.75,0:13:21.79,Q2,,0,0,0,,The train will go all the way to the end,\Nthen turn around and come back to this platform!
+Dialogue: 1,0:13:21.79,0:13:22.92,Q2,,0,0,0,,That makes sense!
+Dialogue: 1,0:13:23.71,0:13:24.71,Q2,,0,0,0,,It's here!
+Dialogue: 1,0:13:32.04,0:13:34.38,Q2,,0,0,0,,There's a blanket of steam!
+Dialogue: 1,0:13:34.38,0:13:36.42,Q2,,0,0,0,,This'd be rough in the heat of summer!
+Dialogue: 1,0:13:45.00,0:13:47.13,Q2,,0,0,0,,Sweet! What a huge table!
+Dialogue: 1,0:13:47.13,0:13:50.79,Q2,,0,0,0,,The series 12 observation car,\Nwhich was only recently deployed!
+Dialogue: 1,0:13:51.00,0:13:53.75,Q2,,0,0,0,,The retro feel of the wood grain\Nis lovely, isn't it?
+Dialogue: 1,0:13:53.75,0:13:56.00,Q2,,0,0,0,,We gotta check out the observation deck later too.
+Dialogue: 1,0:13:56.00,0:13:58.54,Q2,,0,0,0,,I wonder if you can actually smell smoke there?
+Dialogue: 1,0:14:09.08,0:14:12.54,Q2,,0,0,0,,That's… the SL Taiju Nikko Buried Treasure Bento!
+Dialogue: 1,0:14:12.54,0:14:13.33,Q2,,0,0,0,,Huh?
+Dialogue: 1,0:14:13.46,0:14:17.88,Q2,,0,0,0,,Curses! I got so caught up at the train\Nturntable I forgot to buy a station bento!
+Dialogue: 1,0:14:18.13,0:14:20.63,Q2,,0,0,0,,I'm a failure of a foodie T-Tuber!
+Dialogue: 1,0:14:20.83,0:14:23.88,Q2,,0,0,0,,B-but didn't you eat your fill on the Spacia X?
+Dialogue: 1,0:14:23.88,0:14:25.92,Q2,,0,0,0,,I gotta get one at every station\Nuntil I've had them all!
+Dialogue: 1,0:14:26.13,0:14:27.92,Q2,,0,0,0,,My pride as a pro depends on it!
+Dialogue: 1,0:14:33.00,0:14:34.04,Q2,,0,0,0,,Um…
+Dialogue: 1,0:14:35.17,0:14:37.38,Q2,,0,0,0,,Do you want to take pictures of it?
+Dialogue: 1,0:14:37.38,0:14:38.50,Q2,,0,0,0,,Can I really?!
+Dialogue: 1,0:14:39.38,0:14:42.83,Q2,,0,0,0,,What? You work for the Chichibu Railway?
+Dialogue: 1,0:14:43.21,0:14:47.67,Q2,,0,0,0,,Yes. I'm Minano Sakurazawa,\Na train engineer for Chichibu Railway.
+Dialogue: 1,0:14:48.96,0:14:50.21,Q2,,0,0,0,,She's an official…!
+Dialogue: 1,0:14:50.21,0:14:51.25,Q2,,0,0,0,,In the flesh…!
+Dialogue: 1,0:14:51.25,0:14:55.58,Q2,,0,0,0,,You're going on a railway trip on your day off,\Nso you must really love what you do!
+Dialogue: 1,0:14:56.04,0:14:57.83,Q2,,0,0,0,,Yes, I love it! But it's not just that.
+Dialogue: 1,0:14:58.29,0:15:03.38,Q2,,0,0,0,,I really wanted to ride on the locomotive\Nthat my friend is driving.
+Dialogue: 1,0:15:05.25,0:15:06.08,Q2,,0,0,0,,What?!
+Dialogue: 1,0:15:06.42,0:15:07.33,Q2,,0,0,0,,Yes!
+Dialogue: 1,0:15:07.33,0:15:13.54,Q2,,0,0,0,,Her name is Juri Okuwa-chan. We met when\Nshe came to our company for driver training.
+Dialogue: 1,0:15:13.75,0:15:19.33,Q2,,0,0,0,,Usually, the two of us ride around on the SL\Ntogether, but I snuck out on my own today.
+Dialogue: 1,0:15:19.50,0:15:24.13,Q2,,0,0,0,,I took a picture earlier at the station, and\NI'm planning on sending it later to surprise her.
+Dialogue: 1,0:15:24.54,0:15:29.63,Q2,,0,0,0,,Oh! That reminds me, a lot of people\Nleft the observation deck a bit ago.
+Dialogue: 1,0:15:29.63,0:15:30.38,Q2,,0,0,0,,Oh!
+Dialogue: 1,0:15:31.04,0:15:35.50,Q2,,0,0,0,,Wow! It's so open! Reminds me\Nof that time on the Watarase line.
+Dialogue: 1,0:15:35.50,0:15:38.42,Q2,,0,0,0,,It's fun looking outside as we go!
+Dialogue: 1,0:15:39.17,0:15:42.13,Q2,,0,0,0,,But seeing right through like\Nthis might be a little scary…
+Dialogue: 1,0:15:42.50,0:15:44.54,Q2,,0,0,0,,Wanna… hold hands?
+Dialogue: 1,0:15:44.54,0:15:45.33,Q2,,0,0,0,,What?
+Dialogue: 1,0:15:45.88,0:15:46.75,Q2,,0,0,0,,Just kidding.
+Dialogue: 1,0:15:49.71,0:15:51.29,Q2,,0,0,0,,Whoa! It's moving!
+Dialogue: 1,0:16:08.54,0:16:10.63,Q2,,0,0,0,,That went by quickly, huh?
+Dialogue: 1,0:16:10.75,0:16:13.46,Q2,,0,0,0,,It's only two stops\Nin thirty six minutes, after all.
+Dialogue: 1,0:16:13.46,0:16:15.50,Q2,,0,0,0,,Oh! We meet again!
+Dialogue: 1,0:16:15.79,0:16:17.08,Q2,,0,0,0,,Minano-san!
+Dialogue: 1,0:16:17.38,0:16:20.42,Q2,,0,0,0,,If you guys are interested,\Nwould you like to see the engine room?
+Dialogue: 1,0:16:34.04,0:16:35.08,Q2,,0,0,0,,Minano?
+Dialogue: 1,0:16:35.08,0:16:35.96,Q2,,0,0,0,,Here I am!
+Dialogue: 1,0:16:36.54,0:16:37.83,Q2,,0,0,0,,Who are these people?
+Dialogue: 1,0:16:38.17,0:16:41.75,Q2,,0,0,0,,New friends that I hit it off with. Right?
+Dialogue: 1,0:16:42.04,0:16:45.75,Q2,,0,0,0,,Y-yes! Um, it's been a wonderful trip!
+Dialogue: 1,0:16:46.25,0:16:51.50,Q2,,0,0,0,,I thought to myself that someday, I'd like\Nto drive the locomotive like you, Juri-chan.
+Dialogue: 1,0:16:51.96,0:16:52.58,Q2,,0,0,0,,Really?
+Dialogue: 1,0:16:52.58,0:16:54.50,Q2,,0,0,0,,So that's your goal now?
+Dialogue: 1,0:16:55.08,0:16:56.33,Q2,,0,0,0,,That's the plan.
+Dialogue: 1,0:16:56.33,0:16:57.42,Q2,,0,0,0,,You mean it?
+Dialogue: 1,0:16:59.54,0:17:02.04,Q2,,0,0,0,,I'm sorry, I've just been prattling on…
+Dialogue: 1,0:17:02.42,0:17:03.25,Q2,,0,0,0,,Here's an idea!
+Dialogue: 1,0:17:03.25,0:17:08.58,Q2,,0,0,0,,Could I interest you all in\Na closer look at the engine room?
+Dialogue: 1,0:17:08.92,0:17:09.83,Q2,,0,0,0,,Really?
+Dialogue: 1,0:17:21.46,0:17:23.29,Q2,,0,0,0,,Okay! Cheese!
+Dialogue: 1,0:17:32.92,0:17:35.88,Q2,,0,0,0,,Wow, I'm so grateful for Usa-chan's good luck!
+Dialogue: 1,0:17:36.29,0:17:39.46,Q2,,0,0,0,,Guess we're taking a different train home, eh?
+Dialogue: 1,0:17:39.96,0:17:43.04,Q2,,0,0,0,,Um… I'm pretty sure\Nit's the limited-express Revaty.
+Dialogue: 1,0:17:43.04,0:17:46.21,Q2,,0,0,0,,A cutting-edge design inspired by the Skytree!
+Dialogue: 1,0:17:46.21,0:17:49.88,Q2,,0,0,0,,Being able to relish both the contemporary\Nand retro in a single day!
+Dialogue: 1,0:17:49.88,0:17:51.54,Q2,,0,0,0,,I'm over the moon!
+Dialogue: 1,0:17:52.25,0:17:54.54,Q2,,0,0,0,,So, Misaki-chan…
+Dialogue: 1,0:17:56.13,0:17:59.25,Q2,,0,0,0,,Hey, now! If ya stay there,\Nyou're gonna catch a cold!
+Dialogue: 1,0:17:59.25,0:18:00.38,Q2,,0,0,0,,What's wrong?
+Dialogue: 1,0:18:00.38,0:18:05.88,Q2,,0,0,0,,Th-thinking about it, this is the first time\NI've taken a bath with you guys like this.
+Dialogue: 1,0:18:06.17,0:18:07.71,Q2,,0,0,0,,So I'm feeling a little shy.
+Dialogue: 1,0:18:08.04,0:18:09.38,Q2,,0,0,0,,The heck are ya going on about?
+Dialogue: 1,0:18:09.38,0:18:11.58,Q2,,0,0,0,,We're going to all sorts of place\Nfrom here on out,
+Dialogue: 1,0:18:11.58,0:18:14.00,Q2,,0,0,0,,so ya'd better get used to a little bit of\Nnudity or ya gonna have a bad time!
+Dialogue: 1,0:18:14.00,0:18:16.33,Q2,,0,0,0,,You worded that poorly.
+Dialogue: 1,0:18:16.75,0:18:18.00,Q2,,0,0,0,,Go ahead, come in.
+Dialogue: 1,0:18:18.42,0:18:21.33,Q2,,0,0,0,,A-all right then, don't mind me!
+Dialogue: 1,0:18:24.42,0:18:26.92,Q2,,0,0,0,,It feels nice once you get used to it.
+Dialogue: 1,0:18:27.21,0:18:30.54,Q2,,0,0,0,,Wait, did ya not go to onsens with\Nyour family that much as a high schooler?
+Dialogue: 1,0:18:30.83,0:18:34.42,Q2,,0,0,0,,I spent more of my time hanging out\Nwith my club friends on days off.
+Dialogue: 1,0:18:34.83,0:18:38.17,Q2,,0,0,0,,On that subject, what club\Nwere you in, Misaki-chan?
+Dialogue: 1,0:18:38.17,0:18:40.13,Q2,,0,0,0,,Oh, I was in the culinary club.
+Dialogue: 1,0:18:40.13,0:18:43.00,Q2,,0,0,0,,The culinary club?! Misaki-chan,\Nya can actually make edible food?
+Dialogue: 1,0:18:43.00,0:18:44.67,Q2,,0,0,0,,Wh-what a rude question!
+Dialogue: 1,0:18:45.08,0:18:50.42,Q2,,0,0,0,,W-well, my childhood friend did\Nmost of the peeling and stuff though…
+Dialogue: 1,0:18:50.67,0:18:53.83,Q2,,0,0,0,,B-but I'm really good at mixing stuff\Nin pots and all that jazz!
+Dialogue: 1,0:18:54.21,0:18:55.79,Q2,,0,0,0,,Mixing duty, huh?
+Dialogue: 1,0:18:55.79,0:18:57.92,Q2,,0,0,0,,Isn't that a chore for elementary schoolers?
+Dialogue: 1,0:18:57.92,0:19:02.92,Q2,,0,0,0,,A-at home, I even help make dinner!\NLike, warming up the curry my dad makes.
+Dialogue: 1,0:19:02.92,0:19:04.71,Q2,,0,0,0,,Isn't that a part of mixing duty too?
+Dialogue: 1,0:19:04.96,0:19:08.04,Q2,,0,0,0,,But I want to try a meal… that Misaki-chan made.
+Dialogue: 1,0:19:08.04,0:19:10.08,Q2,,0,0,0,,Usa-chan, you're a real risk-taker!
+Dialogue: 1,0:19:10.46,0:19:13.17,Q2,,0,0,0,,Since we're talking about it,\Nwhat clubs were you guys in?
+Dialogue: 1,0:19:13.50,0:19:15.08,Q2,,0,0,0,,Me? I was on the basketball team.
+Dialogue: 1,0:19:15.50,0:19:17.38,Q2,,0,0,0,,But I was always a bench-warmer…
+Dialogue: 1,0:19:17.38,0:19:18.92,Q2,,0,0,0,,I was in the railway research club!
+Dialogue: 1,0:19:19.25,0:19:20.38,Q2,,0,0,0,,I was in the go-straight-home club…
+Dialogue: 1,0:19:20.38,0:19:22.29,Q2,,0,0,0,,Just as I had expected!
+Dialogue: 1,0:19:22.29,0:19:24.63,Q2,,0,0,0,,Come to think of it, even though it's been\Na number of months since you joined,
+Dialogue: 1,0:19:24.63,0:19:27.46,Q2,,0,0,0,,we haven't talked too much\Nabout this kind of stuff, have we?
+Dialogue: 1,0:19:27.46,0:19:30.88,Q2,,0,0,0,,It's 'cuz Kodama-san's always brain-dumping\Nher oh-so-vast knowledge upon us.
+Dialogue: 1,0:19:31.42,0:19:33.71,Q2,,0,0,0,,That's also one of the purposes of our club!
+Dialogue: 1,0:19:37.58,0:19:39.25,Q2,,0,0,0,,Since it's so much fun,
+Dialogue: 1,0:19:39.25,0:19:43.92,Q2,,0,0,0,,I wish I would've started going all sorts\Nof places using railways sooner!
+Dialogue: 1,0:19:44.29,0:19:45.58,Q2,,0,0,0,,I totally get ya!
+Dialogue: 1,0:19:45.58,0:19:49.25,Q2,,0,0,0,,I would've been able to eat a bunch of\Nthe special station foods that got discontinued.
+Dialogue: 1,0:19:49.25,0:19:52.71,Q2,,0,0,0,,If only I had been born when\Nthe Japanese National Railways were around!
+Dialogue: 1,0:19:52.71,0:19:54.63,Q2,,0,0,0,,I would've loved to take in that scent!
+Dialogue: 1,0:19:55.08,0:20:00.38,Q2,,0,0,0,,But if you had been… then we wouldn't\Nbe able to go to the onsen together like this.
+Dialogue: 1,0:20:01.33,0:20:02.96,Q2,,0,0,0,,What the heck, Usa-chan!
+Dialogue: 1,0:20:02.96,0:20:06.08,Q2,,0,0,0,,Tying up everything up with such\Na warm-fuzzy bow is my job!
+Dialogue: 1,0:20:06.08,0:20:06.79,Q2,,0,0,0,,Huh?
+Dialogue: 1,0:20:06.79,0:20:07.88,Q2,,0,0,0,,I'm sorry.
+Dialogue: 1,0:20:07.88,0:20:10.58,Q2,,0,0,0,,Let's just say I said that line!
+Dialogue: 1,0:20:10.58,0:20:11.67,Q2,,0,0,0,,Please and thank you!
+Dialogue: 1,0:20:11.67,0:20:13.58,Q2,,0,0,0,,What in the world are you talking about?
+Dialogue: 1,0:20:21.63,0:20:24.38,Q2,,0,0,0,,Ah, what an elegant royal purple!
+Dialogue: 1,0:20:24.38,0:20:27.75,Q2,,0,0,0,,The seats have an inden pattern peppered\Nwith elements of traditional Japanese culture!
+Dialogue: 1,0:20:27.75,0:20:29.25,Q2,,0,0,0,,Or so I thought,
+Dialogue: 1,0:20:29.25,0:20:33.67,Q2,,0,0,0,,but the white paint is reminiscent of the Skytree,\Na symbol of modern technology!
+Dialogue: 1,0:20:34.04,0:20:37.92,Q2,,0,0,0,,Just seeing it makes my heart gallop!\NThe limited-express Revaty!
+Dialogue: 1,0:20:38.54,0:20:39.96,Q2,,0,0,0,,Hey, are you even listening?
+Dialogue: 1,0:20:43.46,0:20:44.21,Q2,,0,0,0,,Oh my!
+Dialogue: 1,0:20:45.63,0:20:47.83,Q2,,0,0,0,,They look like they're so comfy.
+Dialogue: 1,0:21:06.17,0:21:11.75,Q20,,0,0,0,,You quietly gazed at me as I swayed by the window
+Dialogue: 1,0:21:11.75,0:21:15.42,Q20,,0,0,0,,It's okay to take me out of the present
+Dialogue: 1,0:21:15.42,0:21:18.33,Q20,,0,0,0,,I try smiling at you
+Dialogue: 1,0:21:18.88,0:21:24.38,Q20,,0,0,0,,These monotonous days and my desire to change
+Dialogue: 1,0:21:24.38,0:21:30.67,Q20,,0,0,0,,Right now, I'm searching for a sight just for me,\Na sight I've never seen
+Dialogue: 1,0:21:31.13,0:21:37.33,Q20,,0,0,0,,I put into the words the feelings locked up in my head
+Dialogue: 1,0:21:37.33,0:21:43.96,Q20,,0,0,0,,Every day I spent with you, I fell more in love with you
+Dialogue: 1,0:21:44.25,0:21:47.42,Q20,,0,0,0,,My feelings took off running and just won't stop
+Dialogue: 1,0:21:48.00,0:21:54.75,Q20,,0,0,0,,Calling my memories with you a treasure doesn't do it justice
+Dialogue: 1,0:21:55.04,0:22:00.79,Q20,,0,0,0,,Our destinations are different,\Nbut this track connects us to the future
+Dialogue: 1,0:22:01.29,0:22:07.04,Q20,,0,0,0,,I'll run through the present and go to a place I've never been
+Dialogue: 1,0:22:07.58,0:22:13.17,Q20,,0,0,0,,Let's go, carrying our swaying feelings toward a never-ending future
+Dialogue: 1,0:22:13.92,0:22:19.29,Q20,,0,0,0,,Because you were there for me, I am here now
+Dialogue: 1,0:22:25.38,0:22:27.83,Q2,,0,0,0,,Wait, do I get to keep the bowl too?
+Dialogue: 1,0:22:28.29,0:22:31.54,Q2,,0,0,0,,That's the idea: You get to take the\Nwhole Arita porcelain piece home with you.
+Dialogue: 1,0:22:31.54,0:22:32.54,Q2,,0,0,0,,Really?
+Dialogue: 1,0:22:33.29,0:22:36.63,Q2,,0,0,0,,But there are so many different patterns.\NIt's hard to decide…
+Dialogue: 1,0:22:37.33,0:22:40.04,Q2,,0,0,0,,You want drinkware that suits the\Nbeverages on the event train, huh?
+Dialogue: 1,0:22:40.42,0:22:42.54,Q2,,0,0,0,,It really depends on the\Nkind of alcohol, doesn't it?
+Dialogue: 1,0:22:42.92,0:22:44.13,Q2,,0,0,0,,Hmm…
+Dialogue: 1,0:22:44.50,0:22:46.75,Q2,,0,0,0,,I know! Why don't you try it out yourself?
+Dialogue: 1,0:22:47.13,0:22:48.96,Q2,,0,0,0,,Really? Are you sure?
+Dialogue: 1,0:22:56.79,0:22:59.63,Q2,,0,0,0,,This one's real great too.
+Dialogue: 1,0:22:59.88,0:23:02.25,Q2,,0,0,0,,I guess I let you drink too much, huh?
+Dialogue: 1,0:23:02.92,0:23:05.17,Q2,,0,0,0,,I'll make this the last!
+Dialogue: 1,0:23:06.33,0:23:07.17,Q2,,0,0,0,,Oh!
+Dialogue: 1,0:23:07.17,0:23:08.92,Q2,,0,0,0,,This is it!
+Dialogue: 1,0:23:09.83,0:23:13.83,Q2,,0,0,0,,All right! Then, I'll throw in a little something\Nextra as a thank you for all of your hard work.
+Dialogue: 1,0:23:13.83,0:23:16.04,Q2,,0,0,0,,Wow! They're adorable!
+Dialogue: 1,0:23:16.25,0:23:18.71,Q2,,0,0,0,,I made these chopstick rests out of leftover clay.
+Dialogue: 1,0:23:19.04,0:23:23.46,Q2,,0,0,0,,I figure ya can promote Arita porcelain\Nfor us wherever you possibly can. Ya know?
+Dialogue: 1,0:23:23.75,0:23:24.75,Q2,,0,0,0,,Of course!
+Dialogue: 1,0:23:26.46,0:23:28.08,Q2,,0,0,0,,The steam locomotive was a total blast!
+Dialogue: 1,0:23:28.08,0:23:31.25,Q2,,0,0,0,,It was a great! I'd love to hang out with\Neveryone more during summer break!
+Dialogue: 1,0:23:31.25,0:23:32.96,Q2,,0,0,0,,Right on! Where should we go next?
+Dialogue: 1,0:23:32.96,0:23:35.25,Q2,,0,0,0,,But first things first, are\Nyour finals exams going to go okay?
+Dialogue: 1,0:23:35.25,0:23:35.88,Q2,,0,0,0,,Eh?
+Dialogue: 1,0:23:35.88,0:23:38.13,Q2,,0,0,0,,Next Episode: Summer Break is Here!
+Dialogue: 1,0:23:38.33,0:23:40.42,Q2,,0,0,0,,What should I do with Ya-chan this year?
+Dialogue: 0,0:00:01.00,0:00:03.79,Q0,,0,0,0,,{\pos(512,57.6)}{\an7}Railway Travel Club
+Dialogue: 0,0:00:01.00,0:00:03.79,Q1,,0,0,0,,{\pos(371.2,482.4)}{\an7}Tetsuryo Club
+Dialogue: 0,0:00:56.04,0:00:59.13,Q3,,0,0,0,,{\pos(320,208.8)}{\an7}Follow our account and share this post 20 groups
+Dialogue: 0,0:00:56.04,0:00:59.13,Q4,,0,0,0,,{\pos(332.8,259.2)}{\an7}will be randomly selected for the Spacia X prize!
+Dialogue: 0,0:00:56.04,0:00:59.13,Q3,,0,0,0,,{\pos(230.4,309.6)}{\an7}First prize
+Dialogue: 0,0:00:56.04,0:00:59.13,Q3,,0,0,0,,{\pos(985.6,360)}{\an7}5 groups
+Dialogue: 0,0:00:56.05,0:00:59.13,Q3,,0,0,0,,{\pos(422.4,424.8)}{\an7}Spacia X x SL Taiju    Go home on the limited-express Revaty!
+Dialogue: 0,0:00:56.05,0:00:59.13,Q5,,0,0,0,,{\pos(384,525.6)}{\an7}Your invitation to a Kinugawa Onsen day trip
+Dialogue: 0,0:00:59.13,0:01:11.13,Q6,,0,0,0,,{\pos(652.8,57.6)}{\an7}Follow and share
+Dialogue: 0,0:00:59.13,0:01:11.13,Q6,,0,0,0,,{\pos(678.4,115.2)}{\an7}Sweepstakes
+Dialogue: 0,0:00:59.13,0:01:11.13,Q7,,0,0,0,,{\pos(166.4,396)}{\an7}Go to Kinugawa on the popular Spacia X!
+Dialogue: 0,0:01:22.58,0:01:26.96,Q0,,0,0,0,,{\pos(512,151.2)}{\an7}Railway Travel Club
+Dialogue: 0,0:01:22.58,0:01:26.96,Q1,,0,0,0,,{\pos(358.4,489.6)}{\an7}Tetsuryo Club
+Dialogue: 0,0:02:57.58,0:03:01.75,Q9,,0,0,0,,{\pos(345.6,612)}{\an7}Episode 7: I Want to Make Lots of Memories!
+Dialogue: 0,0:03:02.04,0:03:04.71,Q10,,0,0,0,,{\pos(512,57.6)}{\an7}I won the Spacia X Kinugawa day trip!
+Dialogue: 0,0:03:02.04,0:03:04.71,Q10,,0,0,0,,{\pos(524.8,237.6)}{\an7}I won too!
+Dialogue: 0,0:03:02.04,0:03:04.71,Q10,,0,0,0,,{\pos(473.6,288)}{\an7}I'm so grateful!!!!!
+Dialogue: 0,0:03:02.04,0:03:04.71,Q10,,0,0,0,,{\pos(268.8,482.4)}{\an7}I've used up a lifetime's worth of luck lol
+Dialogue: 0,0:03:22.83,0:03:25.50,Q10,,0,0,0,,{\pos(435.2,180)}{\an7}Got 'em
+Dialogue: 0,0:03:24.04,0:03:25.50,Q11,,0,0,0,,{\pos(499.2,345.6)}{\an7}I won
+Dialogue: 0,0:03:25.50,0:03:27.17,Q12,,0,0,0,,{\pos(665.6,237.6)}{\an7}I won
+Dialogue: 0,0:05:56.92,0:05:59.08,Q13,,0,0,0,,{\pos(640,144)}{\an7}Spacia X
+Dialogue: 0,0:05:56.92,0:05:59.08,Q14,,0,0,0,,{\pos(832,208.8)}{\an7}No. 1
+Dialogue: 0,0:05:56.92,0:05:59.08,Q14,,0,0,0,,{\pos(921.6,266.4)}{\an7}Tobu Nikko
+Dialogue: 0,0:06:59.75,0:07:02.00,Q3,,0,0,0,,{\pos(358.4,244.8)}{\an7}Tobu Railway Company, Ltd.
+Dialogue: 0,0:06:59.75,0:07:02.00,Q3,,0,0,0,,{\pos(345.6,295.2)}{\an7}Head of Kasukabe Operations District
+Dialogue: 0,0:06:59.75,0:07:02.00,Q3,,0,0,0,,{\pos(396.8,345.6)}{\an7}Spacia X Conductor
+Dialogue: 0,0:06:59.75,0:07:02.00,Q16,,0,0,0,,{\pos(396.8,410.4)}{\an7}Miyabi Kinugawa
+Dialogue: 0,0:16:51.71,0:16:59.38,Q17,,0,0,0,,{\pos(883.2,381.6)}{\an7}Engineer
+Dialogue: 0,0:17:16.92,0:17:18.96,Q18,,0,0,0,,{\pos(665.6,288)}{\an7}Engineer
+Dialogue: 0,0:17:27.96,0:17:30.38,Q10,,0,0,0,,{\pos(947.2,216)}{\an7}Onsen
+Dialogue: 0,0:20:10.58,0:20:16.50,Q11,,0,0,0,,{\pos(947.2,208.8)}{\an7}Onsen
+Dialogue: 0,0:20:16.50,0:20:18.92,Q19,,0,0,0,,{\pos(345.6,216)}{\an7}Kinugawa-Onsen Station
+Dialogue: 0,0:22:37.00,0:22:40.42,Q21,,0,0,0,,{\pos(512,208.8)}{\an7}TETSUKA SHOTEN
+Dialogue: 0,0:23:26.08,0:23:41.04,Q22,,0,0,0,,{\pos(102.4,57.6)}{\an7}Next Episode Preview
+
