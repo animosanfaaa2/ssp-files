@@ -1,0 +1,319 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Bold,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,0,0,20,1
+Style: Internal,Arial Bold,23,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,2,0,0,20,0
+Style: Top,Arial Bold,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,8,0,0,20,1
+Style: Top Internal,Arial Bold,23,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,8,0,0,20,1
+Style: TypePlaceholder,Arial Bold,19,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,8,10,10,20,1
+Style: Type epititel,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00192023,&H00192023,0,0,0,0,100,100,0,0,1,1,2,3,10,40,58,1
+Style: Type Credits,Arial Bold,19,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+Style: Type Tafel,Tahoma Bold,19,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,8,10,10,20,1
+Style: Type comic sans bold,Comic Sans MS,19,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,8,10,10,20,1
+Style: Type  Status,Tahoma Bold,19,&H00F7FAC8,&H000000FF,&H00D7E72E,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,1,0,7,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:21.21,0:00:22.67,Default,Hilde,0,0,0,,Da sind die ja!
+Dialogue: 0,0:00:22.67,0:00:23.84,Default,Hilde,0,0,0,,Ihr Penner!
+Dialogue: 0,0:00:23.84,0:00:27.84,Default,Hilde,0,0,0,,Die geklauten 50.000.000 Gold\Nhole ich mir wieder zurück!
+Dialogue: 0,0:00:31.54,0:00:34.31,Default,Elymas,0,0,0,,Verstehe.\NSie hat ihre Waffen verkauft.
+Dialogue: 0,0:00:34.31,0:00:35.60,Default,Elymas,0,0,0,,Schnell weg, Luce!
+Dialogue: 0,0:00:35.60,0:00:36.52,Default,Luce,0,0,0,,J-Ja …!
+Dialogue: 0,0:00:38.34,0:00:39.31,Default,Hilde,0,0,0,,Hiergeblieben!
+Dialogue: 0,0:00:44.12,0:00:45.22,Default,Carlos,0,0,0,,Hilde!
+Dialogue: 0,0:00:55.85,0:00:58.24,Default,Carlos,0,0,0,,Ist er der besagte Schwere Ritter?
+Dialogue: 0,0:01:10.10,0:01:11.72,Internal,Elymas,0,0,0,,Dieses Auftreten.
+Dialogue: 0,0:01:11.72,0:01:13.01,Internal,Elymas,0,0,0,,Diese Energie.
+Dialogue: 0,0:01:17.93,0:01:22.94,Internal,Elymas,0,0,0,,Das wird die wahre\NSchwarze Flammenklinge sein!
+Dialogue: 0,0:01:28.44,0:01:30.95,Default,Hilde,0,0,0,,Genau, die waren das, Meister!
+Dialogue: 0,0:01:31.30,0:01:35.88,Default,Hilde,0,0,0,,Die haben auf perfide Weise\Nmeine Ersparnisse geraubt!
+Dialogue: 0,0:01:42.52,0:01:43.58,Internal,Elymas,0,0,0,,Also doch!
+Dialogue: 0,0:01:45.52,0:01:47.29,Default,Carlos,0,0,0,,Meine Klasse ist Schwertmagier.
+Dialogue: 0,0:01:48.06,0:01:50.63,Default,Carlos,0,0,0,,Ich bin Carlos, Abenteurer im A-Rang.
+Dialogue: 0,0:01:51.68,0:01:55.64,Default,Carlos,0,0,0,,Nachdem mir Hilde von dir erzählte,\Nwollte ich dich gerne treffen.
+Dialogue: 0,0:02:00.77,0:02:02.66,Default,Carlos,0,0,0,,Schwerer Ritter Elymas!
+Dialogue: 0,0:03:45.00,0:03:51.42,Type epititel,TYPE,0,0,0,,{\fad(1500,520)\3c&H000000&\4c&H000000&}Folge 21   Die Schwarze Flammenklinge
+Dialogue: 0,0:03:53.00,0:03:58.63,Default,Carlos,0,0,0,,Ich komme nicht umhin,\Nmich zunächst einer Sache zu vergewissern.
+Dialogue: 0,0:03:59.10,0:04:03.14,Default,Carlos,0,0,0,,Stimmt es, dass ihr Hilde\Num ihr Geld betrogen habt?
+Dialogue: 0,0:04:07.52,0:04:11.02,Internal,Elymas,0,0,0,,Die Schwarze Flammenklinge\Nist ein wahrer Meister seines Faches.
+Dialogue: 0,0:04:11.58,0:04:15.53,Internal,Elymas,0,0,0,,Mit unserer jetzigen Stärke können wir\Nnicht die Klingen mit ihm kreuzen.
+Dialogue: 0,0:04:15.53,0:04:18.78,Default,Elymas,0,0,0,,Sie drohte uns, wir sollen ihr\Ndas Mithrilschwert übergeben.
+Dialogue: 0,0:04:18.78,0:04:21.48,Default,Elymas,0,0,0,,Daraufhin entschieden wir die Sache\Nbei einem Duell.
+Dialogue: 0,0:04:22.37,0:04:23.65,Default,Elymas,0,0,0,,Das war die Folge daraus.
+Dialogue: 0,0:04:32.69,0:04:34.43,Default,Carlos,0,0,0,,Das dachte ich mir bereits.
+Dialogue: 0,0:04:40.98,0:04:42.22,Default,Hilde,0,0,0,,Autsch!
+Dialogue: 0,0:04:42.22,0:04:45.22,Default,Hilde,0,0,0,,M-Meister, was soll das denn jetzt?
+Dialogue: 0,0:04:46.69,0:04:49.89,Default,Carlos,0,0,0,,Ich habe von Anfang an vermutet,\Ndass es sich so abgespielt hat.
+Dialogue: 0,0:04:49.89,0:04:54.15,Default,Hilde,0,0,0,,Wa…? Du hattest doch gesagt,\Ndu würdest mir glauben!
+Dialogue: 0,0:04:54.15,0:04:57.36,Default,Carlos,0,0,0,,Ich habe nur gesagt,\Ndass du mich zu ihnen bringen sollst.
+Dialogue: 0,0:04:58.47,0:05:04.87,Default,Carlos,0,0,0,,Hilde, du nennst mich ständig Meister,\Ndoch dein Lehrer zu werden, war nie …
+Dialogue: 0,0:05:06.05,0:05:07.99,Default,Hilde,0,0,0,,M-Meister …?
+Dialogue: 0,0:05:12.82,0:05:14.25,Default,Carlos,0,0,0,,Aber wenn ich das jetzt sage,
+Dialogue: 0,0:05:14.25,0:05:17.38,Default,Carlos,0,0,0,,sieht es so aus, als wollte ich mich\Nder Verantwortung entziehen.
+Dialogue: 0,0:05:18.52,0:05:20.13,Default,Carlos,0,0,0,,Meine Nachlässigkeit
+Dialogue: 0,0:05:20.13,0:05:23.29,Default,Carlos,0,0,0,,hat euch beträchtliche\NScherereien verursacht.
+Dialogue: 0,0:05:23.29,0:05:25.89,Default,Elymas,0,0,0,,N-Nicht doch! Ich bin vielmehr …
+Dialogue: 0,0:05:26.43,0:05:29.89,Default,Elymas,0,0,0,,auf die Provokationen eingegangen,\Num mir ein Taschengeld zu verdienen …
+Dialogue: 0,0:05:29.89,0:05:31.93,Default,Elymas,0,0,0,,Ich hätte ablehnen sollen …
+Dialogue: 0,0:05:33.32,0:05:37.19,Default,Carlos,0,0,0,,In meiner Anfangszeit war ich\Nnicht mit Gefährten gesegnet.
+Dialogue: 0,0:05:37.19,0:05:41.20,Default,Carlos,0,0,0,,Doch stärkten diese Schwierigkeiten\Nmein Vertrauen in meine Menschenkenntnis.
+Dialogue: 0,0:05:42.70,0:05:45.43,Default,Carlos,0,0,0,,Du bist ein guter Mensch, Elymas!
+Dialogue: 0,0:05:45.43,0:05:48.82,Internal,Elymas,0,0,0,,Bei so viel Herzensgüte\Nkommt einem ja fast die Galle hoch!
+Dialogue: 0,0:05:49.34,0:05:52.21,Internal,Elymas,0,0,0,,Wieso ist seine Schülerin\Ndann so missraten?
+Dialogue: 0,0:05:53.83,0:05:56.96,Default,Carlos,0,0,0,,Und was die Sache mit dem Geld angeht, …
+Dialogue: 0,0:05:57.36,0:06:01.10,Default,Carlos,0,0,0,,so möchte ich euch um ihretwillen bitten,\Nes ihr {\i1}niemals{\i0} zurückzugeben!
+Dialogue: 0,0:05:59.96,0:06:01.17,TypePlaceholder,,0,0,0,,{\bord1\blur1\fs40\fscx50\fad(0,150)\fnGeorgia\t(140,140,\fscx140\fscy80)\t(450,450,\fscx100\fscy100)\c&HF879F1&\t(775,950,\c&HB857EB&)\pos(349.53,43.69)\b1}Schock
+Dialogue: 0,0:06:01.72,0:06:05.22,Default,Carlos,0,0,0,,Sie ist jemand,\Ndie es nur auf die harte Tour lernt.
+Dialogue: 0,0:06:05.22,0:06:07.22,Default,Elymas,0,0,0,,O-Okay …
+Dialogue: 0,0:06:07.22,0:06:10.93,Default,Carlos,0,0,0,,Es gibt noch eine Sache,\Ndie ich an euch herantragen möchte.
+Dialogue: 0,0:06:12.23,0:06:15.33,Default,Carlos,0,0,0,,Doch das besprechen wir\Nbesser bei einem Essen.
+Dialogue: 0,0:06:26.40,0:06:29.24,Default,Elymas,0,0,0,,Was ist es,\Ndas du mit uns besprechen willst?
+Dialogue: 0,0:06:29.24,0:06:32.25,Default,Carlos,0,0,0,,In letzter Zeit kommt es\Nin der Umgebung von Lacoryna
+Dialogue: 0,0:06:32.25,0:06:36.00,Default,Carlos,0,0,0,,vermehrt zu sonderbaren\NMonsterkatastrophen.
+Dialogue: 0,0:06:36.92,0:06:40.30,Default,Carlos,0,0,0,,Diese Ereignisse\Nsind wahrlich ungewöhnlich.
+Dialogue: 0,0:06:40.30,0:06:43.97,Default,Carlos,0,0,0,,Aus kürzlich entstandenen Dungeons\Nentströmen Monster, …
+Dialogue: 0,0:06:44.82,0:06:48.11,Default,Carlos,0,0,0,,eigentlich seltene\NEvolutionssprünge dauern an.
+Dialogue: 0,0:06:48.75,0:06:55.16,Default,Carlos,0,0,0,,Ob dies reine Zufälle sind,\Noder es dafür einen bestimmten Grund gibt,
+Dialogue: 0,0:06:55.16,0:06:59.02,Default,Carlos,0,0,0,,untersuchte ich auf eigene Faust während\Nmeiner Dungeonerkundungen rund um Lacoryna.
+Dialogue: 0,0:06:59.61,0:07:04.57,Default,Carlos,0,0,0,,Auch die Abenteurergilde ist neulich\Nan neue Informationen gelangt.
+Dialogue: 0,0:07:04.57,0:07:08.61,Default,Carlos,0,0,0,,Es scheint keine Zweifel zu geben,\Ndass irgendetwas vor sich geht.
+Dialogue: 0,0:07:09.18,0:07:12.26,Default,Elymas,0,0,0,,Geht es dabei um\Nden Schacht des Hundertfüßers?
+Dialogue: 0,0:07:12.26,0:07:13.58,Default,Carlos,0,0,0,,Alle Achtung.
+Dialogue: 0,0:07:13.58,0:07:16.58,Default,Carlos,0,0,0,,Fähige Abenteurer sind gut informiert.
+Dialogue: 0,0:07:17.12,0:07:21.50,Default,Carlos,0,0,0,,Seit knapp zwei Wochen führe ich nun\Nalleine meine Untersuchungen durch.
+Dialogue: 0,0:07:22.46,0:07:25.49,Default,Carlos,0,0,0,,Doch konnte ich einen gewissen\NDungeon nicht abschließen.
+Dialogue: 0,0:07:25.49,0:07:28.51,Default,Elymas,0,0,0,,Nicht abschließen?\NAls Abenteurer im A-Rang?
+Dialogue: 0,0:07:30.65,0:07:32.01,Default,Elymas,0,0,0,,Rund um Lacoryna
+Dialogue: 0,0:07:32.01,0:07:36.52,Default,Elymas,0,0,0,,sollten keine Dungeons erscheinen,\Ndie ein A-Rang nicht abschließen kann.
+Dialogue: 0,0:07:36.85,0:07:39.15,Default,Carlos,0,0,0,,Ein Monsterpool ist aufgetreten.
+Dialogue: 0,0:07:39.97,0:07:43.19,Default,Carlos,0,0,0,,Bei so etwas vermag man\Nalleine nichts auszurichten.
+Dialogue: 0,0:07:44.61,0:07:46.32,Internal,Elymas,0,0,0,,Ein Monsterpool …
+Dialogue: 0,0:07:46.32,0:07:50.20,Internal,Elymas,0,0,0,,Ihm entspringt eine Zahl an Monstern,\Ndie bei normalen Dungeons undenkbar ist.
+Dialogue: 0,0:07:50.20,0:07:54.15,Internal,Elymas,0,0,0,,Auch in Magic World war das eine der\Ngefürchtetsten Monsterkatastrophen.
+Dialogue: 0,0:07:54.91,0:07:58.71,Internal,Elymas,0,0,0,,Die Todesamude war also\Nkein singuläres Ereignis.
+Dialogue: 0,0:07:59.79,0:08:04.21,Internal,Elymas,0,0,0,,Man muss davon ausgehen, dass es einen\NAuslöser für diese Monsterkatastrophen gibt.
+Dialogue: 0,0:08:05.61,0:08:09.97,Default,Elymas,0,0,0,,Sollte in Zukunft die Häufigkeit\Ndieser Katastrophen weltweit zunehmen, …
+Dialogue: 0,0:08:11.04,0:08:16.23,Default,Elymas,0,0,0,,würde das den von Menschen bewohnbaren\NBereich dieser Welt drastisch verkleinern.
+Dialogue: 0,0:08:16.23,0:08:19.80,Default,Luce,0,0,0,,Jetzt gehst du aber zu weit, Elymas.
+Dialogue: 0,0:08:19.80,0:08:22.15,Default,Luce,0,0,0,,Das ist doch übertrieben.
+Dialogue: 0,0:08:22.67,0:08:26.15,Default,Carlos,0,0,0,,Ich für meinen Teil\Nhalte das nicht für übertrieben.
+Dialogue: 0,0:08:27.14,0:08:28.70,Default,Carlos,0,0,0,,Ich stimme Elymas zu.
+Dialogue: 0,0:08:33.73,0:08:36.27,Default,Carlos,0,0,0,,Kommen wir daher\Nzu meinem Hauptanliegen.
+Dialogue: 0,0:08:37.55,0:08:40.81,Default,Carlos,0,0,0,,Ich möchte, dass ihr\Nan einem Raid-Quest teilnehmt.
+Dialogue: 0,0:08:42.46,0:08:44.34,Default,Carlos,0,0,0,,Im Dungeon, aus dem ich mich zurückzog.
+Dialogue: 0,0:08:44.34,0:08:45.96,Default,Carlos,0,0,0,,Dem „Friedhof des Klagens“.
+Dialogue: 0,0:08:45.96,0:08:49.34,Default,Carlos,0,0,0,,Eure Hilfe bei diesem Erkundungszug\Nwäre höchst willkommen.
+Dialogue: 0,0:08:51.18,0:08:53.05,Default,Carlos,0,0,0,,Wäre es ein normaler Monsterpool,
+Dialogue: 0,0:08:53.05,0:08:56.37,Default,Carlos,0,0,0,,gäbe es keinen Grund,\Ndie Erstürmung so hastig voranzutreiben.
+Dialogue: 0,0:08:56.37,0:08:58.48,Default,Carlos,0,0,0,,Doch dieser Dungeon ist noch neu.
+Dialogue: 0,0:08:58.48,0:09:02.99,Default,Carlos,0,0,0,,Die Bedingungen für diese Monsterkatastrophe\Nsind eigentlich nicht erfüllt.
+Dialogue: 0,0:09:03.76,0:09:07.86,Default,Carlos,0,0,0,,Kümmert man sich nicht zeitig darum,\Nkönnte sich die Lage weiter verschlimmern.
+Dialogue: 0,0:09:12.48,0:09:15.37,Default,Luce,0,0,0,,E-Elymas, was machen wir?
+Dialogue: 0,0:09:16.97,0:09:20.16,Default,Elymas,0,0,0,,Normalerweise würde ich\Nso etwas sofort entscheiden.
+Dialogue: 0,0:09:20.16,0:09:22.26,Default,Elymas,0,0,0,,Aber das bereitet mir etwas Sorge.
+Dialogue: 0,0:09:25.13,0:09:27.78,Internal,Elymas,0,0,0,,Ein Abenteurer im A-Rang ist dabei.
+Dialogue: 0,0:09:27.78,0:09:31.88,Internal,Elymas,0,0,0,,Selbst Hilde brachte dieser meisterhafte\NSchwertmagier bei, wann man sich zurückzieht.
+Dialogue: 0,0:09:31.88,0:09:33.78,Internal,Elymas,0,0,0,,Er tut nichts Leichtsinniges.
+Dialogue: 0,0:09:33.78,0:09:37.14,Internal,Elymas,0,0,0,,Doch über dieser Sache\Nschwebt ein böses Omen.
+Dialogue: 0,0:09:38.33,0:09:39.32,Internal,Elymas,0,0,0,,Dennoch …
+Dialogue: 0,0:09:42.07,0:09:45.02,Default,Elymas,0,0,0,,Trotz allem will ich doch mitkommen!
+Dialogue: 0,0:09:51.24,0:09:55.03,Internal,Elymas,0,0,0,,Sollten tatsächlich\NAnomalien in dieser Welt auftreten,
+Dialogue: 0,0:09:55.03,0:09:57.58,Internal,Elymas,0,0,0,,können diese nur von jemandem …
+Dialogue: 0,0:09:57.99,0:10:01.12,Internal,Elymas,0,0,0,,mit umfangreichen Erinnerungen\Nan Magic World aufgehalten werden.
+Dialogue: 0,0:10:01.66,0:10:03.09,Internal,Elymas,0,0,0,,Von mir!
+Dialogue: 0,0:10:04.83,0:10:06.75,Default,Hilde,0,0,0,,Endlich mal wieder
+Dialogue: 0,0:10:06.75,0:10:09.23,Default,Hilde,0,0,0,,schwinge ich mein Schwert\Nan der Seite des Meisters!
+Dialogue: 0,0:10:09.77,0:10:12.12,Default,Carlos,0,0,0,,Du musst nicht\Nunbedingt mitkommen, Hilde.
+Dialogue: 0,0:10:12.12,0:10:14.77,Default,Hilde,0,0,0,,Was?! Aber Meister!
+Dialogue: 0,0:10:15.43,0:10:17.02,Default,Carlos,0,0,0,,Ich mache nur Spaß, Hilde.
+Dialogue: 0,0:10:43.52,0:10:46.46,Internal,Elymas,0,0,0,,Luce und ich\Nbegaben uns unter Führung von Carlos
+Dialogue: 0,0:10:46.46,0:10:50.94,Internal,Elymas,0,0,0,,auf den Raid Quest zur Erkundung\Nund Durchquerung des Friedhofs des Klagens.
+Dialogue: 0,0:11:01.39,0:11:04.31,Default,Elymas,0,0,0,,So viele hochrangige Abenteurer\Nin Bewegung zu setzen
+Dialogue: 0,0:11:04.31,0:11:07.02,Default,Elymas,0,0,0,,vermag nur eine Gilde\Nin einer großen Stadt.
+Dialogue: 0,0:11:07.02,0:11:11.97,Default,Luce,0,0,0,,Sicher spielt auch das in Carlos\Ngesetzte Vertrauen mit hinein.
+Dialogue: 0,0:11:11.97,0:11:13.28,Default,Elymas,0,0,0,,Gut möglich.
+Dialogue: 0,0:11:17.23,0:11:18.74,Internal,Elymas,0,0,0,,Das Mithrilschwert.
+Dialogue: 0,0:11:18.49,0:11:25.79,Type  Status,TYPE,0,0,0,,{\fad(480,0)\fs14\3c&HD4B74C&\c&HFFFDE6&\pos(260,22.67)}{\fax-0.1\3c&HACB047&}Schwerer Ritter Lv64\N{\fs16}Elymas Edvaughn\N\N{\fs13}-Angriffswert 55\N-Verteidigungswert 112\N-Magiewert 65\N-Schnelligkeit 65\N\N{\fax0\fs12}Ausrüstung\N-Mithrilschwert\N-Dunkelstahlschild\N-Dunkelstahlrüstung\N\NTitel\N-Der Unerschütterliche\N-Abenteurer im B-Rang\N-Favoritenschreck\N-Alptraum-Ausmerzer
+Dialogue: 0,0:11:18.49,0:11:25.79,Type  Status,TYPE,0,0,0,,{\fad(480,0)\fs12\3c&HD4B74C&\c&HFFFDE6&\pos(393.33,119)\3c&HACB047&}Spezialfähigkeit\N-Rasender Drache an der Todesschwelle\N\NFähigkeiten\N-Bollwerksreflektor\N-Disarm\N-Parieren\N-Vitalschlitzer\N-Schattenstampfer\N-Schildstoß\N-Lebensschild\N-Noble Selbstaufopferung
+Dialogue: 0,0:11:18.74,0:11:20.54,Internal,Elymas,0,0,0,,Die Dunkelstahlrüstung.
+Dialogue: 0,0:11:21.03,0:11:25.37,Internal,Elymas,0,0,0,,Da der alte Veruga rechtzeitig fertig wurde,\Nstimmt meine Ausrüstung!
+Dialogue: 0,0:11:25.79,0:11:30.07,Internal,Elymas,0,0,0,,So wird man mich nicht mehr\Nals Neuling in Eisenrüstung behandeln!
+Dialogue: 0,0:11:30.07,0:11:31.43,Default,Mary,0,0,0,,Elymas!
+Dialogue: 0,0:11:32.21,0:11:34.70,Default,Elymas,0,0,0,,Der Fangzahn des Seedrachen\Nnimmt auch teil?
+Dialogue: 0,0:11:35.11,0:11:39.01,Default,Mary,0,0,0,,Wenn die Dungeons verrückt spielen,\Nwird das nichts mit dem Fischen.
+Dialogue: 0,0:11:39.01,0:11:42.26,Default,Mary,0,0,0,,Ich zeige dir,\Nwas ich außer Fischen noch kann!
+Dialogue: 0,0:11:42.26,0:11:44.74,Default,Elymas,0,0,0,,Ja, bin schon sehr gespannt!
+Dialogue: 0,0:11:45.74,0:11:46.89,Default,Mary,0,0,0,,Um des Fischens willen!
+Dialogue: 0,0:11:46.89,0:11:48.34,Default,Elymas,0,0,0,,Um des Fischens willen!
+Dialogue: 0,0:11:49.24,0:11:51.70,Default,Luce,0,0,0,,U-Um der Welt willen, oder etwa nicht?
+Dialogue: 0,0:11:59.11,0:12:03.12,Default,Hilde,0,0,0,,Meister, brauchen wir wirklich\Nso viele Leute?
+Dialogue: 0,0:12:03.12,0:12:05.14,Default,Hilde,0,0,0,,Ich bezweifle das!
+Dialogue: 0,0:12:05.14,0:12:07.87,Default,Hilde,0,0,0,,Ein Heiler hätte völlig genügt.
+Dialogue: 0,0:12:09.11,0:12:11.78,Default,Carlos,0,0,0,,Die Lage kann sich\Njederzeit verschlimmern.
+Dialogue: 0,0:12:11.78,0:12:14.55,Default,Carlos,0,0,0,,Daher habe ich\Neinige Leute mehr versammelt.
+Dialogue: 0,0:12:14.55,0:12:15.85,Default,Hilde,0,0,0,,Pah!
+Dialogue: 0,0:12:15.85,0:12:19.05,Default,Hilde,0,0,0,,Zu viele Klötze am Bein\Nbringen doch gar nichts!
+Dialogue: 0,0:12:19.55,0:12:23.01,Default,Abenteurer,0,0,0,,Warum ist die Schülerin der Schwarzen\NFlammenklinge mit einer Sichel ausgerüstet?
+Dialogue: 0,0:12:23.01,0:12:24.64,Default,Abenteurer,0,0,0,,Tja …
+Dialogue: 0,0:12:24.64,0:12:28.02,Default,Abenteurer,0,0,0,,Vielleicht hat sie sich einen\NSichel-Fähigkeitenbaum angeeignet?
+Dialogue: 0,0:12:28.02,0:12:31.27,Internal,Elymas,0,0,0,,Sie wollte sich Reservewaffen\Nvon Carlos leihen, …
+Dialogue: 0,0:12:31.27,0:12:33.29,Top,Carlos,0,0,0,,Nein. Du kommst so mit, wie du bist.
+Dialogue: 0,0:12:31.98,0:12:35.28,Internal,Elymas,0,0,0,,Doch das lehnte er\Nfür Zwecke der Selbstreflexion ab.
+Dialogue: 0,0:12:33.77,0:12:35.28,Type comic sans bold,TYPE,0,0,0,,{\fad(150,0)\fs30\bord2\c&H31E2EB&\3c&H0C0601&\pos(200,35.33)}Plonk
+Dialogue: 0,0:12:35.28,0:12:40.95,Default,Luce,0,0,0,,Sag mal, warum hat Carlos\Nausgerechnet Hilde zur Schülerin genommen?
+Dialogue: 0,0:12:40.95,0:12:43.55,Default,Hilde,0,0,0,,Tut mir ja leid,\Ndass es ausgerechnet Hilde sein muss!
+Dialogue: 0,0:12:44.24,0:12:47.50,Default,Luce,0,0,0,,E-Entschuldige bitte,\Nso meinte ich das nicht!
+Dialogue: 0,0:12:48.77,0:12:53.38,Default,Carlos,0,0,0,,Im Grunde mache ich nichts,\Nwas die Bezeichnung Meister rechtfertigt.
+Dialogue: 0,0:12:53.38,0:12:57.07,Default,Carlos,0,0,0,,Ich halte Schwertmagier\Nfür eine starke Klasse.
+Dialogue: 0,0:12:58.32,0:13:02.22,Default,Carlos,0,0,0,,Doch mag die Angriffsfähigkeit auch hoch sein,\Nder Verbrauch an Ausdauer ist es ebenso.
+Dialogue: 0,0:13:02.22,0:13:05.61,Default,Carlos,0,0,0,,Daher kommt es leicht zu Zwist\Nmit anderen Gruppenmitgliedern.
+Dialogue: 0,0:13:05.61,0:13:08.98,Default,Carlos,0,0,0,,Vernachlässigt man das,\Nist man auch in der Gilde schnell isoliert.
+Dialogue: 0,0:13:09.37,0:13:13.67,Default,Carlos,0,0,0,,In der Folge ist es absehbar, dass man alleine\Nes übertreibt und sein Leben verwirkt.
+Dialogue: 0,0:13:15.52,0:13:16.48,Internal,Elymas,0,0,0,,Das stimmt.
+Dialogue: 0,0:13:16.48,0:13:21.53,Internal,Elymas,0,0,0,,Auch in Magic World kamen häufig die Vorteile\Ndes Schwertmagiers nicht der Gruppe zugute.
+Dialogue: 0,0:13:21.53,0:13:24.77,Internal,Schwertmagier,0,0,0,,Das Kroppzeug macht ihr!\NIch konzentriere mich auf den Boss!
+Dialogue: 0,0:13:24.77,0:13:25.53,Internal,Gruppenmitglied A,0,0,0,,Unfair!
+Dialogue: 0,0:13:25.53,0:13:26.95,Internal,Gruppenmitglied B,0,0,0,,Keine Extrawürste!
+Dialogue: 0,0:13:27.74,0:13:31.26,Default,Carlos,0,0,0,,Überstürzt man es, verliert man den Blick\Nfür die Welt, wie andere sie sehen.
+Dialogue: 0,0:13:32.51,0:13:34.49,Default,Carlos,0,0,0,,Mir ging es einst genauso.
+Dialogue: 0,0:13:37.35,0:13:41.07,Default,Carlos,0,0,0,,Ich litt unter dem Unverständnis\Nmeiner Umwelt, lechzte nach Erfolg,
+Dialogue: 0,0:13:41.07,0:13:45.26,Default,Carlos,0,0,0,,und beklagte mich darüber,\Nwarum mich alle für selbstsüchtig wähnten.
+Dialogue: 0,0:13:48.11,0:13:53.25,Default,Carlos,0,0,0,,Auch heute wünschte ich mir, dass mir damals\Njemand nüchterne Ratschläge erteilt hätte.
+Dialogue: 0,0:13:55.80,0:13:59.28,Default,Carlos,0,0,0,,Darum habe ich Hilde\Nunwillkürlich angesprochen.
+Dialogue: 0,0:14:02.61,0:14:07.95,Default,Hilde,0,0,0,,Mein Meister ist eben ein Mann von Format,\Nder stark und freundlich ist!
+Dialogue: 0,0:14:07.95,0:14:10.45,Default,Hilde,0,0,0,,Toll, was?
+Dialogue: 0,0:14:10.82,0:14:14.84,Default,Elymas,0,0,0,,Hätte diese Schülerin sich doch nur\Nein bisschen mehr ein Beispiel daran genommen …
+Dialogue: 0,0:14:14.84,0:14:16.46,Default,Hilde,0,0,0,,Hä? Was ist los?
+Dialogue: 0,0:14:17.45,0:14:19.61,Default,Hilde,0,0,0,,Lach nicht! Unerhört!
+Dialogue: 0,0:14:28.59,0:14:32.48,Default,Luce,0,0,0,,Ich kann mir Carlos als Raubein\Ngar nicht vorstellen.
+Dialogue: 0,0:14:32.48,0:14:37.48,Default,Elymas,0,0,0,,Nun, ich glaube, er übertreibt ein wenig,\Num Hilde nicht zu beschämen.
+Dialogue: 0,0:14:37.48,0:14:39.23,Default,Luce,0,0,0,,Kann schon sein.
+Dialogue: 0,0:14:40.07,0:14:41.23,Default,Carlos,0,0,0,,Alle anhalten!
+Dialogue: 0,0:15:08.46,0:15:09.18,Default,Carlos,0,0,0,,Sie kommen!
+Dialogue: 0,0:15:11.14,0:15:12.68,Type  Status,TYPE,0,0,0,,{\fad(270,0)\pos(400.67,205.33)\bord1\3c&HB69F36&\c&HFFFDDF&}Monster: Wahnwolf
+Dialogue: 0,0:15:11.30,0:15:13.86,Default,Luce,0,0,0,,Sofort auf Stufe 52?!
+Dialogue: 0,0:15:13.86,0:15:16.19,Default,Carlos,0,0,0,,Ein Monsterrudel,\Ndas aus dem Dungeon entwichen ist!
+Dialogue: 0,0:15:17.19,0:15:18.44,Default,Carlos,0,0,0,,Wir schlagen sie zurück!
+Dialogue: 0,0:15:18.99,0:15:21.72,Internal,Elymas,0,0,0,,Würden Monster dieser Stufe\Nin Rondalm eindringen,
+Dialogue: 0,0:15:21.72,0:15:24.02,Internal,Elymas,0,0,0,,müsste der Lehnsherr eingreifen!
+Dialogue: 0,0:15:40.12,0:15:40.79,Default,Elymas,0,0,0,,Luce!
+Dialogue: 0,0:15:42.42,0:15:43.86,Default,Systemstimme,0,0,0,,Zustandsveränderung: Vergiftet.
+Dialogue: 0,0:15:43.86,0:15:45.42,Default,Luce,0,0,0,,Hab Gift injiziert!
+Dialogue: 0,0:15:43.92,0:15:45.42,Type  Status,TYPE,0,0,0,,{\an8\c&HA5F5FF&\3c&H9934C9&\pos(139.34,158)\clip(44.67,158,238.67,159)\t(23,982,\clip(44.67,158,238.67,200.67))}Zustandsveränderung\N{\c&HFA2EF8&\3c&H950F8C&}Vergiftet
+Dialogue: 0,0:15:45.42,0:15:47.93,Default,Elymas,0,0,0,,Super, hat sofort geklappt?
+Dialogue: 0,0:15:47.93,0:15:51.93,Internal,Elymas,0,0,0,,Das ist der Effekt von Luces neuer Waffe,\Ndem Giftmesser des Chilopoda.
+Dialogue: 0,0:15:52.58,0:15:55.52,Internal,Elymas,0,0,0,,Wenn sie es mit ihrem\Nhohen Glückswert benutzt,
+Dialogue: 0,0:15:55.52,0:15:58.47,Internal,Elymas,0,0,0,,wird mit hoher Wahrscheinlichkeit\NGift verabreicht.
+Dialogue: 0,0:15:58.94,0:16:05.44,Internal,Elymas,0,0,0,,Zudem hat der Vergiftet-Zustand in Magic World\Ndie Schnelligkeit um 10 % verringert.
+Dialogue: 0,0:16:00.94,0:16:05.44,TypePlaceholder,TYPE,0,0,0,,{\an8\c&HA5F5FF&\3c&H9934C9&\clip(406.67,148.67,602,149)\t(20,979,\clip(406.67,148.67,602,190.67))\pos(499.34,151.33)}Zustandsveränderung\N{\c&HFA2EF8&\3c&H950F8C&}Vergiftet
+Dialogue: 0,0:16:06.11,0:16:07.89,Default,Luce,0,0,0,,Der Todesstich!
+Dialogue: 0,0:16:07.89,0:16:10.91,Default,Systemstimme,0,0,0,,Du hast 174 Erfahrungspunkte erhalten.
+Dialogue: 0,0:16:09.11,0:16:10.91,Type Tafel,TYPE,0,0,0,,{\fad(480,0)\fscx90\bord0.1\yshad2\yshad2\c&H26FFFE&\3c&H1D241B&\4c&H1D241B&\pos(186,40)}Du hast 174 Erfahrungspunkte erhalten
+Dialogue: 0,0:16:18.84,0:16:20.83,Default,Elymas,0,0,0,,Es gibt noch mehr Feinde!
+Dialogue: 0,0:16:21.19,0:16:23.02,Default,Elymas,0,0,0,,Wir verringern ihre Zahl!
+Dialogue: 0,0:16:23.60,0:16:24.84,Default,Luce,0,0,0,,J-Ja!
+Dialogue: 0,0:16:40.35,0:16:42.36,Default,Luce,0,0,0,,Das waren wohl alle.
+Dialogue: 0,0:16:42.36,0:16:46.36,Default,Elymas,0,0,0,,Ein ziemlicher drastischer Empfang\Nnoch vor dem Eindringen in den Dungeon.
+Dialogue: 0,0:16:47.18,0:16:50.75,Default,Elymas,0,0,0,,Das Giftmesser des Chilopoda\Nwar ziemlich effektiv, Luce.
+Dialogue: 0,0:16:50.75,0:16:53.87,Default,Luce,0,0,0,,Da meine Klasse\Nüber nicht viel Feuerkraft verfügt,
+Dialogue: 0,0:16:53.87,0:16:57.87,Default,Luce,0,0,0,,bin ich für dieses Zustandsveränderungen\Nverursachende Messer sehr dankbar!
+Dialogue: 0,0:16:58.40,0:17:00.87,Default,Luce,0,0,0,,Ich komme mir gleich viel stärker vor!
+Dialogue: 0,0:17:00.87,0:17:04.29,Default,Elymas,0,0,0,,Aber du scheinst etwas Schaden\Ngenommen zu haben. Alles in Ordnung?
+Dialogue: 0,0:17:05.59,0:17:08.01,Default,Luce,0,0,0,,Ich war wohl wegen der neuen Waffe\Netwas übermütig.
+Dialogue: 0,0:17:08.01,0:17:10.51,Default,Luce,0,0,0,,Aber das ist nur ein Kratzer!
+Dialogue: 0,0:17:10.51,0:17:13.68,Default,Luce,0,0,0,,Vielleicht sollte ich besser\Neinen Heiltrank verwenden?
+Dialogue: 0,0:17:14.13,0:17:15.24,Default,Maebel,0,0,0,,Heal!
+Dialogue: 0,0:17:17.68,0:17:20.69,Default,Luce,0,0,0,,V-Vielen Dank, ähm …?
+Dialogue: 0,0:17:20.69,0:17:24.17,Default,Maebel,0,0,0,,Ich bin Maebel,\Nmeine Klasse ist Priesterin.
+Dialogue: 0,0:17:24.17,0:17:27.44,Default,Maebel,0,0,0,,Ich wurde als Heilklasse mitgenommen.
+Dialogue: 0,0:17:27.44,0:17:29.36,Default,Maebel,0,0,0,,Ich bin aber noch im C-Rang.
+Dialogue: 0,0:17:29.36,0:17:33.20,Default,Maebel,0,0,0,,Auf gute Zusammenarbeit,\Nihr zwei im B-Rang.
+Dialogue: 0,0:17:33.20,0:17:35.44,Default,Elymas,0,0,0,,Wir freuen uns auch\Nüber die Zusammenarbeit!
+Dialogue: 0,0:17:35.44,0:17:39.17,Default,Elymas,0,0,0,,Ich muss aber sagen, auch wir sind Neulinge,\Ndie gerade erst aufgestiegen sind.
+Dialogue: 0,0:17:39.17,0:17:41.21,Default,Luce,0,0,0,,A-Auf gute Zusammenarbeit!
+Dialogue: 0,0:17:41.21,0:17:43.47,Default,Elymas,0,0,0,,Ich bin der Schwere Ritter Elymas.
+Dialogue: 0,0:17:43.47,0:17:45.76,Default,Elymas,0,0,0,,Das ist Luce, ein Harlekin.
+Dialogue: 0,0:17:46.27,0:17:47.46,Default,Luce,0,0,0,,Bin Luce!
+Dialogue: 0,0:17:47.46,0:17:52.76,Internal,Elymas,0,0,0,,Gut, dass wir eine vertrauenswürdige\NWeißmagierin dabei haben.
+Dialogue: 0,0:17:55.32,0:17:57.89,Default,Kelt,0,0,0,,Wir sind noch nicht einmal im Dungeon!
+Dialogue: 0,0:17:57.89,0:18:01.27,Default,Kelt,0,0,0,,Verschwende keine\Nwertvollen Heilungs-MP!
+Dialogue: 0,0:18:01.27,0:18:05.77,Internal,Elymas,0,0,0,,Der Mann ist ein Jäger im B-Rang.
+Dialogue: 0,0:18:05.77,0:18:07.06,Internal,Elymas,0,0,0,,Kelt mit Namen.
+Dialogue: 0,0:18:07.55,0:18:11.53,Internal,Elymas,0,0,0,,Kaum einer der Teilnehmer hier\Nhat eine höhere Stufe als er.
+Dialogue: 0,0:18:11.53,0:18:15.37,Default,Kelt,0,0,0,,Wer im Vorgeplänkel so voranstürmt,\Nkann ruhig zurückgelassen werden!
+Dialogue: 0,0:18:15.37,0:18:20.62,Default,Kelt,0,0,0,,Ausgerechnet unsere Heilerin\Nkann ihre Kräfte nicht klug einteilen …
+Dialogue: 0,0:18:20.62,0:18:23.41,Default,Maebel,0,0,0,,Ach, das tut mir leid, Kelt.
+Dialogue: 0,0:18:23.41,0:18:26.13,Default,Maebel,0,0,0,,Ich werde etwas umsichtiger vorgehen.
+Dialogue: 0,0:18:26.13,0:18:27.84,Default,Elymas,0,0,0,,Hinterher ist gut reden!
+Dialogue: 0,0:18:27.84,0:18:33.49,Default,Elymas,0,0,0,,Bei dieser Menge ist es nicht verwerflich,\Ndie Zahl der Feinde offensiv zu verringern!
+Dialogue: 0,0:18:33.49,0:18:38.39,Default,Elymas,0,0,0,,Jedenfalls braucht man deswegen\Nnicht die Stimmung ruinieren!
+Dialogue: 0,0:18:38.98,0:18:41.22,Default,Kelt,0,0,0,,Du kapierst gar nichts.
+Dialogue: 0,0:18:41.22,0:18:43.89,Default,Kelt,0,0,0,,Dieser Raid Quest wird sich hinziehen.
+Dialogue: 0,0:18:43.89,0:18:46.84,Default,Kelt,0,0,0,,Das Augenmerk liegt auf\Nder Untersuchung des Dungeoninneren.
+Dialogue: 0,0:18:46.84,0:18:48.90,Default,Kelt,0,0,0,,Das ist keine bloße Erkundung.
+Dialogue: 0,0:18:48.90,0:18:52.98,Default,Kelt,0,0,0,,Werd bloß nicht trotzig\Nund leg dich mit mir an, Neuling!
+Dialogue: 0,0:18:59.45,0:19:03.91,Default,Elymas,0,0,0,,Du sorgst wohl absichtlich für dicke Luft,\Num die Führung zu übernehmen?
+Dialogue: 0,0:19:07.33,0:19:12.09,Internal,Elymas,0,0,0,,Er will eine Atmosphäre schaffen,\Num der Heilerin Anweisungen geben zu können
+Dialogue: 0,0:19:12.09,0:19:15.43,Internal,Elymas,0,0,0,,und gleichzeitig die Angreifer\Nin vorderster Reihe zu zügeln.
+Dialogue: 0,0:19:15.98,0:19:20.56,Internal,Elymas,0,0,0,,Wird die vordere Reihe des Angreifens müde,\Nkann er von hinten mehr Monster erledigen.
+Dialogue: 0,0:19:20.56,0:19:22.53,Internal,Elymas,0,0,0,,Kelt, von der Klasse der Jäger …
+Dialogue: 0,0:19:22.53,0:19:27.15,Default,Kelt,0,0,0,,Erzähl nicht so viel,\Ndas verschlechtert nur den Eindruck,
+Dialogue: 0,0:19:27.15,0:19:28.94,Default,Kelt,0,0,0,,Bursche!
+Dialogue: 0,0:19:28.94,0:19:30.92,Default,Kelt,0,0,0,,Sei schlau und bleib am Leben!
+Dialogue: 0,0:19:33.70,0:19:37.11,Default,Kelt,0,0,0,,Schau mal an, wir wurden\Nmit Fundstücken gesegnet.
+Dialogue: 0,0:19:37.88,0:19:42.37,Default,Kelt,0,0,0,,Es gilt die Regel, dass sie demjenigen gehören,\Nder den Todesstoß verpasst hat.
+Dialogue: 0,0:19:42.37,0:19:44.25,Default,Kelt,0,0,0,,Darum nehme ich sie an mich!
+Dialogue: 0,0:19:44.25,0:19:47.17,Default,Luce,0,0,0,,Dabei verdanken wir die meiner Fähigkeit …
+Dialogue: 0,0:19:51.11,0:19:53.10,Default,Elymas,0,0,0,,Mach dir nichts draus, Maebel.
+Dialogue: 0,0:19:53.10,0:19:57.09,Default,Elymas,0,0,0,,Er will nur von Anfang an herummäkeln,\Num Druck auszuüben.
+Dialogue: 0,0:19:57.09,0:19:59.05,Default,Maebel,0,0,0,,Nur keine Sorge.
+Dialogue: 0,0:19:59.05,0:20:04.31,Default,Maebel,0,0,0,,Als Heilkundige hat man häufig\Nmit solchen Leuten zu tun.
+Dialogue: 0,0:20:04.31,0:20:07.89,Default,Maebel,0,0,0,,Doch wenn man vor ihnen\Nvorgeblich den Kopf senkt
+Dialogue: 0,0:20:07.89,0:20:11.31,Default,Maebel,0,0,0,,und das Heilen unter Ausreden\Nimmer wieder aufschiebt, …
+Dialogue: 0,0:20:12.08,0:20:15.32,Default,Maebel,0,0,0,,werden sie nach und nach braver!
+Dialogue: 0,0:20:15.32,0:20:18.32,Default,Maebel,0,0,0,,Da es im Dungeon\Nnicht so weitläufig wie hier ist,
+Dialogue: 0,0:20:18.32,0:20:20.82,Default,Maebel,0,0,0,,nehmen auch Jäger\Nnach und nach Schaden.
+Dialogue: 0,0:20:20.82,0:20:23.74,Default,Maebel,0,0,0,,Die Verteidigung dieser Klasse\Nist schließlich gering.
+Dialogue: 0,0:20:24.24,0:20:27.16,Default,Maebel,0,0,0,,Ich möchte mich gerne\Ngut mich euch beiden vertragen.
+Dialogue: 0,0:20:27.16,0:20:29.07,Default,Maebel,0,0,0,,Seien wir nett zueinander!
+Dialogue: 0,0:20:29.07,0:20:30.75,Default,Elymas,0,0,0,,A-Ach so …?
+Dialogue: 0,0:20:30.75,0:20:34.13,Default,Elymas,0,0,0,,Das wäre auch ganz\Nin unserem Interesse …
+Dialogue: 0,0:20:34.13,0:20:37.26,Internal,Elymas,0,0,0,,Abenteurer, die in dieser Welt\Nlange überlebt haben,
+Dialogue: 0,0:20:37.26,0:20:42.01,Internal,Elymas,0,0,0,,sind offenbar allesamt deutlich\Nwillensstärker, als ich angenommen hatte …
+Dialogue: 0,0:20:42.80,0:20:44.10,Internal,Elymas,0,0,0,,Wenn ich es mir recht überlege,
+Dialogue: 0,0:20:44.10,0:20:49.55,Internal,Elymas,0,0,0,,war diese Weißmagie eine Aktion,\Num sich wohlgesinnte Abenteurer zu sichern.
+Dialogue: 0,0:20:50.17,0:20:53.55,Internal,Elymas,0,0,0,,Das Heal vorhin kam in der Tat zu früh.
+Dialogue: 0,0:20:59.93,0:21:03.32,Internal,Elymas,0,0,0,,Wir wichen den in der Gegend\Nmarodierenden Untoten aus, …
+Dialogue: 0,0:21:04.14,0:21:05.94,Internal,Elymas,0,0,0,,lieferten uns gelegentlich Gefechte,
+Dialogue: 0,0:21:09.96,0:21:15.84,TypePlaceholder,TYPE,0,0,0,,{\an7\fntrebuchet MS\fscx90\c&HFEFDF9&\alpha&HFF&\t(0,40,\alpha&H00&)\pos(206,292.01)\b1}F{\alpha&HFF&\t(105,145,\alpha&H00&)}r{\alpha&HFF&\t(210,250,\alpha&H00&)}i{\alpha&HFF&\t(315,355,\alpha&H00&)}e{\alpha&HFF&\t(420,460,\alpha&H00&)}d{\alpha&HFF&\t(525,565,\alpha&H00&)}h{\alpha&HFF&\t(630,670,\alpha&H00&)}o{\alpha&HFF&\t(735,775,\alpha&H00&)}f {\alpha&HFF&\t(840,880,\alpha&H00&)}d{\alpha&HFF&\t(945,985,\alpha&H00&)}e{\alpha&HFF&\t(1050,1090,\alpha&H00&)}s {\alpha&HFF&\t(1155,1195,\alpha&H00&)}K{\alpha&HFF&\t(1260,1300,\alpha&H00&)}l{\alpha&HFF&\t(1365,1405,\alpha&H00&)}a{\alpha&HFF&\t(1470,1510,\alpha&H00&)}g{\alpha&HFF&\t(1575,1615,\alpha&H00&)}e{\alpha&HFF&\t(1680,1720,\alpha&H00&)}n{\alpha&HFF&\t(1785,1825,\alpha&H00&)}s   {\alpha&HFF&\t(1890,1930,\alpha&H00&)}E{\alpha&HFF&\t(1995,2035,\alpha&H00&)}i{\alpha&HFF&\t(2100,2140,\alpha&H00&)}n{\alpha&HFF&\t(2205,2245,\alpha&H00&)}g{\alpha&HFF&\t(2310,2350,\alpha&H00&)}a{\alpha&HFF&\t(2415,2455,\alpha&H00&)}n{\alpha&HFF&\t(2520,2560,\alpha&H00&)}g
+Dialogue: 0,0:21:10.79,0:21:15.14,Top Internal,Elymas,0,0,0,,und erreichten schließlich\Nden Eingang des Friedhofs des Klagens.
+Dialogue: 0,0:21:12.46,0:21:15.84,TypePlaceholder,TYPE,0,0,0,,{\fad(600,0)\fntrebuchet MS\fs13\fscx90\c&HFEFDF9&\pos(568.68,305.33)\b1}Empfohlene Stufe 70
+Dialogue: 0,0:21:16.22,0:21:18.05,Default,Elymas,0,0,0,,Ein trostloser Ort.
+Dialogue: 0,0:21:18.05,0:21:22.09,Default,Luce,0,0,0,,Hätte man die Beerdigungen\Nnicht etwas sorgsamer durchführen können?
+Dialogue: 0,0:21:22.09,0:21:25.06,Default,Luce,0,0,0,,Jetzt ist hier sogar\Nein Dungeon entstanden.
+Dialogue: 0,0:21:25.06,0:21:28.10,Default,Elymas,0,0,0,,Früher hat es womöglich\Nein Dorf in der Nähe gegeben.
+Dialogue: 0,0:21:28.46,0:21:32.98,Default,Elymas,0,0,0,,Es wurde wohl vernichtet\Noder man siedelte über nach Lacoryna.
+Dialogue: 0,0:21:32.98,0:21:36.89,Internal,Elymas,0,0,0,,Hier treten Anomalien\Nwie im Schacht des Hundertfüßers auf …
+Dialogue: 0,0:21:36.89,0:21:38.81,Internal,Elymas,0,0,0,,Wir müssen sie aufspüren!
+Dialogue: 0,0:21:39.99,0:21:47.66,Type Credits,TYPE,0,0,0,,Übersetzung & Spotting:\NChristoph Zeller
+Dialogue: 0,0:21:49.87,0:21:56.50,Type Credits,TYPE,0,0,0,,Revision & Typesetting:\NKonrad Walter
+Dialogue: 0,0:22:04.59,0:22:07.56,Type Credits,TYPE,0,0,0,,Qualitätskontrolle:\NJanik Aurich
+Dialogue: 0,0:22:07.56,0:22:10.56,Type Credits,TYPE,0,0,0,,Projektleitung:\NTobias Philippi
+Dialogue: 0,0:23:12.46,0:23:17.28,Default,Elymas,0,0,0,,Luce und ich versuchten uns an einem Raid Quest,\Nder mit hochrangigen Abenteurern besetzt war.
+Dialogue: 0,0:23:17.67,0:23:22.34,Default,Elymas,0,0,0,,Wir teilten uns in Gruppen auf,\Num möglichst viele Monster zu erlegen.
+Dialogue: 0,0:23:22.34,0:23:24.42,Default,Elymas,0,0,0,,So gewannen wir neue Gefährten.
+Dialogue: 0,0:23:25.06,0:23:26.58,Default,Elymas,0,0,0,,Kelt und Maebel.
+Dialogue: 0,0:23:27.05,0:23:30.76,Default,Elymas,0,0,0,,Diese zwei haben beide\Nso ihre Macken …
+Dialogue: 0,0:23:31.06,0:23:34.73,Default,Elymas,0,0,0,,Nächstes Mal:\N„Kelt, der Jäger und Maebel, die Priesterin“!
+Dialogue: 0,0:23:34.73,0:23:37.85,Default,Elymas,0,0,0,,Wenn das nur das Einzige wäre,\Ndas Grund zur Sorge bereitet …
+
