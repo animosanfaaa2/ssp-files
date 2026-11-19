@@ -1,0 +1,310 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,15,1
+Style: italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,10,10,15,0
+Style: italicstop,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,10,10,15,0
+Style: flashbacktop,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,8,10,10,15,1
+Style: sign_generic,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:21.21,0:00:23.84,Default,HILDE,0,0,0,,Aí estão vocês, seus malditos!
+Dialogue: 0,0:00:23.84,0:00:27.84,Default,HILDE,0,0,0,,Farei com que devolvam os 50.000.000\Nde ouros que tiraram de mim!
+Dialogue: 0,0:00:31.92,0:00:34.29,Default,ELYMAS,0,0,0,,Entendi. Você vendeu sua arma.
+Dialogue: 0,0:00:34.29,0:00:35.59,Default,ELYMAS,0,0,0,,Vamos fugir, Luche!
+Dialogue: 0,0:00:35.59,0:00:36.31,Default,RUCHE,0,0,0,,Está bem!
+Dialogue: 0,0:00:38.30,0:00:39.84,Default,HILDE,0,0,0,,Não vão escapar!
+Dialogue: 0,0:00:44.06,0:00:45.20,Default,CARLOS,0,0,0,,Hilde.
+Dialogue: 0,0:00:55.74,0:00:58.10,Default,CARLOS,0,0,0,,Aquele é o Cavaleiro Pesado?
+Dialogue: 0,0:01:10.00,0:01:13.00,italics,ELYMAS/ID,0,0,0,,Essa aura, essa intensidade…
+Dialogue: 0,0:01:17.93,0:01:22.94,italics,ELYMAS/ID,0,0,0,,Ele deve ser o verdadeiro\NLâmina Flamejante Enegrecida.
+Dialogue: 0,0:01:28.44,0:01:30.95,Default,HILDE,0,0,0,,São eles, Mestre!
+Dialogue: 0,0:01:31.37,0:01:35.90,Default,HILDE,0,0,0,,Eles usaram métodos suspeitos\Npara roubar o meu dinheiro!
+Dialogue: 0,0:01:42.48,0:01:43.66,italics,ELYMAS/ID,0,0,0,,Eu sabia.
+Dialogue: 0,0:01:45.49,0:01:47.10,Default,CARLOS,0,0,0,,Minha classe é Espadachim Mágico.
+Dialogue: 0,0:01:48.06,0:01:50.63,Default,CARLOS,0,0,0,,Sou um aventureiro de\NRank A. Meu nome é Carlos.
+Dialogue: 0,0:01:51.61,0:01:55.64,Default,CARLOS,0,0,0,,Eu queria conhecê-lo, depois\Nque a Hilde me falou sobre você…
+Dialogue: 0,0:02:00.69,0:02:02.69,Default,CARLOS,0,0,0,,Elma, o Cavaleiro Pesado.
+Dialogue: 0,0:03:45.08,0:03:51.42,sign_generic,EPTITLE; sign,0,0,0,,{\b1\fnTimes New Roman\an7\bord1\shad0\fade(1420,482)\alphaH&0&\3c&H000000&\c&HFFFFFF&\4c&H383735&\fs18\pos(323.9,288.66)}Episódio 21\h\h\h\h{\fs17.5}Lâmina Flamejante Enegrecida
+Dialogue: 0,0:03:53.01,0:03:58.63,Default,CARLOS,0,0,0,,Perdoe-me, mas há algo que\Npreciso confirmar antes.
+Dialogue: 0,0:03:59.03,0:04:03.14,Default,CARLOS,0,0,0,,É verdade que você enganou a Hilde\Npara ficar com o dinheiro dela?
+Dialogue: 0,0:04:07.52,0:04:11.02,italics,ELYMAS/ID,0,0,0,,O Lâmina Flamejante Enegrecida\Né verdadeiramente poderoso.
+Dialogue: 0,0:04:11.52,0:04:15.53,italics,ELYMAS/ID,0,0,0,,Não teríamos a menor chance\Nse lutássemos contra ele agora.
+Dialogue: 0,0:04:15.53,0:04:18.54,Default,ELYMAS,0,0,0,,Ela exigiu que lhe entregássemos\Nnossa Espada de Mithril.
+Dialogue: 0,0:04:18.90,0:04:21.91,Default,ELYMAS,0,0,0,,Então, resolvemos a\Nquestão com um duelo.
+Dialogue: 0,0:04:22.33,0:04:23.69,Default,ELYMAS,0,0,0,,Foi esse o resultado.
+Dialogue: 0,0:04:32.76,0:04:34.92,Default,CARLOS,0,0,0,,Como eu pensei.
+Dialogue: 0,0:04:40.93,0:04:42.22,Default,HILDE,0,0,0,,Ai!
+Dialogue: 0,0:04:42.22,0:04:45.22,Default,HILDE,0,0,0,,M-Mestre, por que você fez isso?
+Dialogue: 0,0:04:46.64,0:04:49.89,Default,CARLOS,0,0,0,,Imaginei que fosse esse o caso.
+Dialogue: 0,0:04:49.89,0:04:54.15,Default,HILDE,0,0,0,,O quê? Mas você disse\Nque acreditava em mim!
+Dialogue: 0,0:04:54.15,0:04:57.36,Default,CARLOS,0,0,0,,Eu só disse para que me levasse até\Neles porque queria conhecê-los.
+Dialogue: 0,0:04:58.41,0:05:04.87,Default,CARLOS,0,0,0,,Hilde, você continua me chamando de\NMestre, mas não me considero seu mentor.
+Dialogue: 0,0:05:04.87,0:05:07.96,Default,HILDE,0,0,0,,Quê? M-Mestre?
+Dialogue: 0,0:05:12.77,0:05:17.38,Default,CARLOS,0,0,0,,Imagino que dizer isso agora soe como se eu\Nestivesse tentando fugir da responsabilidade.
+Dialogue: 0,0:05:18.50,0:05:23.23,Default,CARLOS,0,0,0,,Parece que você passou por um transtorno\Nconsiderável em decorrência da minha negligência.
+Dialogue: 0,0:05:23.23,0:05:25.89,Default,ELYMAS,0,0,0,,N-Não, eu não me importo.
+Dialogue: 0,0:05:26.31,0:05:29.89,Default,ELYMAS,0,0,0,,Apenas aceitei o desafio dela para\Nganhar um pouco de dinheiro.
+Dialogue: 0,0:05:29.89,0:05:31.81,Default,ELYMAS,0,0,0,,Eu poderia ter recusado.
+Dialogue: 0,0:05:33.30,0:05:37.19,Default,CARLOS,0,0,0,,Quando eu ainda era novato,\Nnão tive os melhores aliados.
+Dialogue: 0,0:05:37.19,0:05:41.20,Default,CARLOS,0,0,0,,Como resultado, acredito que sei\Navaliar bem o caráter das pessoas.
+Dialogue: 0,0:05:42.72,0:05:45.45,Default,CARLOS,0,0,0,,Você é um cara legal, Elma!
+Dialogue: 0,0:05:45.45,0:05:49.17,italics,ELYMAS/ID,0,0,0,,Ele é um cara tão bonzinho que estou\Ncomeçando a me sentir desconfortável.
+Dialogue: 0,0:05:49.17,0:05:52.21,italics,ELYMAS/ID,0,0,0,,Não entendo como a\Naprendiz dele acabou assim.
+Dialogue: 0,0:05:53.83,0:05:56.96,Default,CARLOS,0,0,0,,Quanto ao dinheiro…
+Dialogue: 0,0:05:56.96,0:06:01.09,Default,CARLOS,0,0,0,,Pelo bem dela, não deve devolver.
+Dialogue: 0,0:05:59.96,0:06:01.17,sign_generic,SIGN,0,0,0,,{\fscx30\b1\blur0.5\c&HFFB9FC&\3c&HFFFAFF&\bord1.5\t(108,149,\fscx130)\t(441,483,\fscx100)\fade(1,60)\pos(330.667,182)}Chocada
+Dialogue: 0,0:06:01.72,0:06:05.22,Default,CARLOS,0,0,0,,Ela é do tipo que só\Naprende levando uma lição.
+Dialogue: 0,0:06:05.22,0:06:07.22,Default,ELYMAS,0,0,0,,Ah… certo.
+Dialogue: 0,0:06:07.22,0:06:10.93,Default,CARLOS,0,0,0,,E tenho outro pedido para vocês.
+Dialogue: 0,0:06:12.16,0:06:15.31,Default,CARLOS,0,0,0,,Mas vamos conversar em outro\Nlugar. Venham almoçar comigo.
+Dialogue: 0,0:06:26.31,0:06:29.24,Default,ELYMAS,0,0,0,,E então, qual é o seu pedido?
+Dialogue: 0,0:06:29.24,0:06:36.00,Default,CARLOS,0,0,0,,Ultimamente, desastres incomuns causados ​​por\Nmonstros têm aumentado nos arredores de Lacoryna.
+Dialogue: 0,0:06:36.92,0:06:40.30,Default,CARLOS,0,0,0,,São acontecimentos realmente estranhos.
+Dialogue: 0,0:06:40.30,0:06:43.97,Default,CARLOS,0,0,0,,Monstros surgem em massa\Nde masmorras recém-criadas.
+Dialogue: 0,0:06:44.69,0:06:48.10,Default,CARLOS,0,0,0,,Evoluções da Existência extremamente\Nraras estão ocorrendo uma após a outra.
+Dialogue: 0,0:06:48.67,0:06:55.09,Default,CARLOS,0,0,0,,Isso é apenas coincidência ou existe\Num motivo para essa tendência?
+Dialogue: 0,0:06:55.09,0:06:59.02,Default,CARLOS,0,0,0,,Tenho conduzido minha própria investigação\Nvisitando as masmorras de Lacoryna.
+Dialogue: 0,0:06:59.53,0:07:04.27,Default,CARLOS,0,0,0,,A Guilda dos Aventureiros obteve\Nnovas informações recentemente.
+Dialogue: 0,0:07:04.27,0:07:08.48,Default,CARLOS,0,0,0,,Parece certo que algo está acontecendo.
+Dialogue: 0,0:07:09.17,0:07:12.28,Default,ELYMAS,0,0,0,,Você está se referindo\Nà Galeria da Lacraia?
+Dialogue: 0,0:07:12.28,0:07:16.58,Default,CARLOS,0,0,0,,Você é um aventureiro\Nhabilidoso se já sabe disso.
+Dialogue: 0,0:07:17.04,0:07:21.50,Default,CARLOS,0,0,0,,Há quase duas semanas que estou\Ninvestigando por conta própria,
+Dialogue: 0,0:07:22.40,0:07:25.41,Default,CARLOS,0,0,0,,mas não consegui vencer\Numa certa masmorra.
+Dialogue: 0,0:07:25.41,0:07:28.51,Default,ELYMAS,0,0,0,,Você falhou? Um aventureiro de Rank A?
+Dialogue: 0,0:07:30.55,0:07:36.52,Default,ELYMAS,0,0,0,,Masmorras difíceis demais para alguém de Rank A\Nnão deveriam surgir nos arredores de Lacoryna.
+Dialogue: 0,0:07:36.84,0:07:39.20,Default,CARLOS,0,0,0,,Um Poço de Monstros surgiu.
+Dialogue: 0,0:07:39.91,0:07:43.19,Default,CARLOS,0,0,0,,Não havia nada que eu\Npudesse fazer sozinho.
+Dialogue: 0,0:07:44.53,0:07:46.30,italics,ELYMAS/ID,0,0,0,,Um "Poço de Monstros"
+Dialogue: 0,0:07:46.30,0:07:50.39,italics,ELYMAS/ID,0,0,0,,ocorre quando uma quantidade de monstros\Nsurge em massa em uma masmorra.
+Dialogue: 0,0:07:50.39,0:07:54.15,italics,ELYMAS/ID,0,0,0,,Era também um dos desastres\Nmonstruosos temidos no {\i0}Magic World{\i1}.
+Dialogue: 0,0:07:54.91,0:07:58.71,italics,ELYMAS/ID,0,0,0,,Como eu imaginava, aquele incidente\Ncom a Morte Armada não foi o único.
+Dialogue: 0,0:07:59.79,0:08:04.21,italics,ELYMAS/ID,0,0,0,,Só posso pensar que algo deve estar\Ndesencadeando esses desastres.
+Dialogue: 0,0:08:05.57,0:08:09.97,Default,ELYMAS,0,0,0,,Se a frequência de desastres relacionados\Na monstros aumentar em todos os lugares,
+Dialogue: 0,0:08:11.02,0:08:15.65,Default,ELYMAS,0,0,0,,a área habitável para os seres\Nhumanos diminuirá significativamente.
+Dialogue: 0,0:08:15.65,0:08:16.23,Default,RUCHE,0,0,0,,Quê?!
+Dialogue: 0,0:08:16.23,0:08:19.79,Default,RUCHE,0,0,0,,N-Não pode ser tão ruim assim, Sr. Elma!
+Dialogue: 0,0:08:19.79,0:08:22.15,Default,RUCHE,0,0,0,,Você deve estar exagerando.
+Dialogue: 0,0:08:22.66,0:08:26.15,Default,CARLOS,0,0,0,,Pelo menos eu não acho que seja exagero.
+Dialogue: 0,0:08:27.10,0:08:28.68,Default,CARLOS,0,0,0,,Concordo com o Elma.
+Dialogue: 0,0:08:33.72,0:08:36.05,Default,CARLOS,0,0,0,,Então, vamos ao que interessa.
+Dialogue: 0,0:08:37.51,0:08:40.83,Default,CARLOS,0,0,0,,Gostaria de convidá-los\Npara uma missão de Raid.
+Dialogue: 0,0:08:42.40,0:08:46.09,Default,CARLOS,0,0,0,,Para a masmorra da qual tive\Nque recuar, o Cemitério do Luto.
+Dialogue: 0,0:08:46.09,0:08:49.29,Default,CARLOS,0,0,0,,Gostaria de ajuda para\Ninvestigar e superá-la.
+Dialogue: 0,0:08:51.09,0:08:56.43,Default,CARLOS,0,0,0,,Se este fosse um Poço de Monstros comum,\Neu não teria pressa alguma para superá-la.
+Dialogue: 0,0:08:56.43,0:08:58.52,Default,CARLOS,0,0,0,,Mas aquela masmorra é nova.
+Dialogue: 0,0:08:58.52,0:09:02.88,Default,CARLOS,0,0,0,,As condições para um desastre de proporções\Nmonstruosas ainda não deveriam ter sido atingidas.
+Dialogue: 0,0:09:03.72,0:09:07.86,Default,CARLOS,0,0,0,,A situação pode piorar se não\Nlidarmos com ela em breve.
+Dialogue: 0,0:09:12.46,0:09:15.37,Default,RUCHE,0,0,0,,O que devemos fazer, Sr. Elma?
+Dialogue: 0,0:09:16.98,0:09:22.19,Default,ELYMAS,0,0,0,,Normalmente, eu aceitaria imediatamente,\Nmas tenho algumas preocupações.
+Dialogue: 0,0:09:22.19,0:09:23.13,Default,RUCHE,0,0,0,,Hã?
+Dialogue: 0,0:09:25.44,0:09:27.90,italics,ELYMAS/ID,0,0,0,,Teremos um aventureiro\Nde rank A conosco.
+Dialogue: 0,0:09:27.90,0:09:31.88,italics,ELYMAS/ID,0,0,0,,Ele é um Espadachim Mágico que\Nensinou a Hilde quando recuar.
+Dialogue: 0,0:09:32.18,0:09:33.88,italics,ELYMAS/ID,0,0,0,,Ele não fará nada imprudente.
+Dialogue: 0,0:09:33.88,0:09:37.14,italics,ELYMAS/ID,0,0,0,,Ainda assim, há algo de sinistro nisso.
+Dialogue: 0,0:09:38.35,0:09:39.28,italics,ELYMAS/ID,0,0,0,,Mesmo assim…
+Dialogue: 0,0:09:42.05,0:09:45.02,Default,ELYMAS,0,0,0,,Ainda quero ir até lá.
+Dialogue: 0,0:09:51.24,0:09:57.58,italics,ELYMAS/ID,0,0,0,,Se algo estranho realmente está acontecendo\Nneste mundo, isso só pode ser interrompido
+Dialogue: 0,0:09:57.94,0:10:03.10,italics,ELYMAS/ID,0,0,0,,por mim e pelas minhas muitas\Nlembranças jogando o {\i0}Magic World{\i1}.
+Dialogue: 0,0:10:05.14,0:10:09.13,Default,HILDE,0,0,0,,Faz tempo que não lutamos\Nlado a lado, mestre!
+Dialogue: 0,0:10:09.70,0:10:12.15,Default,CARLOS,0,0,0,,Hilde, você não precisa se forçar a ir.
+Dialogue: 0,0:10:12.15,0:10:14.76,Default,HILDE,0,0,0,,Quê?! Mestre!
+Dialogue: 0,0:10:15.37,0:10:16.96,Default,CARLOS,0,0,0,,Estou brincando.
+Dialogue: 0,0:10:43.57,0:10:47.64,italics,ELYMAS/ID,0,0,0,,Sob o comando de Carlos, Luche e\Neu partimos para a missão de Raid.
+Dialogue: 0,0:10:47.64,0:10:50.89,italics,ELYMAS/ID,0,0,0,,Para investigar e derrotar\No Cemitério do Luto.
+Dialogue: 0,0:11:01.37,0:11:04.29,Default,ELYMAS,0,0,0,,As guildas das grandes cidades\Nconseguem mobilizar
+Dialogue: 0,0:11:04.29,0:11:07.02,Default,ELYMAS,0,0,0,,muito mais aventureiros\Nde alto nível do que as outras.
+Dialogue: 0,0:11:07.34,0:11:11.97,Default,RUCHE,0,0,0,,Eles também devem\Nconfiar muito no Sr. Carlos.
+Dialogue: 0,0:11:11.97,0:11:13.28,Default,ELYMAS,0,0,0,,Isso é verdade.
+Dialogue: 0,0:11:16.20,0:11:25.79,sign_generic,SIGN,0,0,0,,{\fs8\b1\bord0\fade(200,1)\t(2186,2715,\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1)\c&HF8FFB3&\pos(112,14)}Classe: Cavaleiro Pesado
+Dialogue: 0,0:11:18.49,0:11:25.79,sign_generic,SIGN,0,0,0,,{\an7\bord0\p1\fscy220\alpha&120&\c&HD0482A&\fade(479,1)\blur9\pos(33.112,139.778)}m 0 0 l 170 0 170 70 0 70
+Dialogue: 0,0:11:16.03,0:11:25.79,sign_generic,SIGN,0,0,0,,{\fs8\b1\bord0\fade(200,1)\t(2186,2715,\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1)\c&HF8FFB3&\pos(66.667,54.889)}Elma Edvaughn
+Dialogue: 0,0:11:16.57,0:11:25.79,sign_generic,SIGN,0,0,0,,{\fs8\b1\bord0\fade(300,1)\t(1857,2399,\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1)\c&HFBFEE6&\pos(101.333,84.222)\3c&HEEB72A&}Ataque
+Dialogue: 0,0:11:16.82,0:11:25.79,sign_generic,SIGN,0,0,0,,{\fs8\b1\bord0\fade(200,1)\t(1566,2108,\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1)\c&HFBFEE6&\3c&HEEB72A&\pos(103.111,100.222)}Defesa
+Dialogue: 0,0:11:16.90,0:11:25.79,sign_generic,SIGN,0,0,0,,{\fs8\b1\bord0\fade(200,1)\t(1486,2069,\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1)\c&HFBFEE6&\3c&HEEB72A&\pos(100.444,116.222)}Magia
+Dialogue: 0,0:11:17.15,0:11:25.79,sign_generic,SIGN,0,0,0,,{\fs8\b1\bord0\fade(200,1)\t(1236,1819,\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1)\c&HFBFEE6&\3c&HEEB72A&\pos(103.73,131.33)}Agilidade
+Dialogue: 1,0:11:18.49,0:11:25.79,sign_generic,SIGN TOP LEFT,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs10\pos(64,150)}Equipamento
+Dialogue: 1,0:11:18.49,0:11:25.79,sign_generic,SIGN,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs8\an7\pos(42.667,152.666)}Espada de Mithril
+Dialogue: 1,0:11:18.49,0:11:25.79,sign_generic,SIGN,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs8\an7\pos(42.667,164.222)}Escudo da Fúria\N Demoníaca
+Dialogue: 1,0:11:18.49,0:11:25.79,sign_generic,SIGN,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs8\an7\pos(42.67,182.36)}Armadura de Aço \NNegro
+Dialogue: 1,0:11:18.49,0:11:25.79,sign_generic,SIGN BOTTOM LEFT,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs10\pos(51.56,210.44)}Títulos
+Dialogue: 1,0:11:18.49,0:11:25.79,sign_generic,SIGN,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs8\an7\pos(43.56,215.78)}Inabalável
+Dialogue: 1,0:11:18.49,0:11:25.79,sign_generic,SIGN,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs8\an7\pos(43.56,230)}Aventureiro de\N Rank B
+Dialogue: 1,0:11:18.49,0:11:25.79,sign_generic,SIGN,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs8\an7\pos(43.64,249.64)}O Provocador de\N Surpresas
+Dialogue: 1,0:11:18.49,0:11:25.79,sign_generic,SIGN,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs8\an7\pos(43.65,269.47)}Neutralizador de\N Pesadelos
+Dialogue: 1,0:11:18.49,0:11:25.79,sign_generic,SIGN TOP RIGHT,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs10\pos(147.555,150)}Habilidades Especiais
+Dialogue: 1,0:11:18.49,0:11:25.79,sign_generic,SIGN,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs8\an7\pos(126,154)}Olhar da Morte da \NFúria do Dragão
+Dialogue: 1,0:11:18.49,0:11:25.79,sign_generic,SIGN BOTTOM RIGHT,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs10\pos(130.22,184.04)}Habilidades
+Dialogue: 1,0:11:18.49,0:11:25.79,sign_generic,SIGN,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs8\an7\pos(115.6,192.22)}Reflexão da Muralha
+Dialogue: 1,0:11:18.49,0:11:25.79,sign_generic,SIGN,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs8\an7\pos(115.6,204.22)}Desarmar
+Dialogue: 1,0:11:18.49,0:11:25.79,sign_generic,SIGN,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs8\an7\pos(115.6,216.22)}Aparar
+Dialogue: 1,0:11:18.49,0:11:25.79,sign_generic,SIGN,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs8\an7\pos(115.6,228.22)}Corte Vital
+Dialogue: 1,0:11:18.49,0:11:25.79,sign_generic,SIGN,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs8\an7\pos(115.6,240.22)}Pisão em Sombra
+Dialogue: 1,0:11:18.49,0:11:25.79,sign_generic,SIGN,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs8\an7\pos(115.6,252.22)}Investida com Escudo
+Dialogue: 1,0:11:18.49,0:11:25.79,sign_generic,SIGN,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs8\an7\pos(115.6,264.22)}Escudo Vital
+Dialogue: 1,0:11:18.49,0:11:25.79,sign_generic,SIGN,0,0,0,,{\3c&HC7B11D&\blur1\c&HFFF6B9&\bord1\b1\fade(479,1)\fs8\an7\pos(115.6,276.22)}Nenhuma Defesa \NSerá Poupada
+Dialogue: 1,0:11:17.15,0:11:23.78,italics,ELYMAS/ID,0,0,0,,Como o Veruga completou minha Espada\Nde Mithril e Armadura de Aço Negro a tempo,
+Dialogue: 0,0:11:23.78,0:11:25.26,italics,ELYMAS/ID,0,0,0,,estou bem equipado.
+Dialogue: 0,0:11:25.79,0:11:30.08,italics,ELYMAS/ID,0,0,0,,Agora, as pessoas vão parar de me tratar como um\NCavaleiro Pesado novato em armadura de ferro.
+Dialogue: 0,0:11:30.08,0:11:31.33,Default,MARY,0,0,0,,Elma!
+Dialogue: 0,0:11:32.21,0:11:34.57,Default,ELYMAS,0,0,0,,A Presa do Dragão\NMarinho decidiu vir junto?
+Dialogue: 0,0:11:35.04,0:11:39.01,Default,MARY,0,0,0,,Não dá para pescar se as masmorras\Nestiverem com problemas.
+Dialogue: 0,0:11:39.32,0:11:42.26,Default,MARY,0,0,0,,Vamos ver o que você\Nconsegue fazer além de pescar.
+Dialogue: 0,0:11:42.26,0:11:44.69,Default,ELYMAS,0,0,0,,Estou animado para ver suas\Noutras habilidades também.
+Dialogue: 0,0:11:45.72,0:11:46.92,Default,MARY,0,0,0,,Pela pesca!
+Dialogue: 0,0:11:46.92,0:11:48.35,Default,ELYMAS,0,0,0,,Pela pesca!
+Dialogue: 0,0:11:49.11,0:11:51.40,Default,RUCHE,0,0,0,,N-Não estamos fazendo\Nisso para salvar o mundo?
+Dialogue: 0,0:11:51.40,0:11:52.86,Default,EYEPATCH,0,0,0,,Isso aí!
+Dialogue: 0,0:11:59.40,0:12:03.12,Default,HILDE,0,0,0,,Mestre, será que precisávamos\Nmesmo de tanta gente?
+Dialogue: 0,0:12:03.46,0:12:07.87,Default,HILDE,0,0,0,,Não tenho tanta certeza. Alguns\Ncurandeiros seriam suficientes.
+Dialogue: 0,0:12:09.08,0:12:14.55,Default,CARLOS,0,0,0,,A situação pode ter piorado, então\Nrecrutei algumas pessoas a mais.
+Dialogue: 0,0:12:15.82,0:12:19.05,Default,HILDE,0,0,0,,Não faz sentido levar um\Nmonte de peso morto.
+Dialogue: 0,0:12:19.49,0:12:23.01,Default,ADVENTURER 5,0,0,0,,Por que a discípula da Lâmina Flamejante\NEnegrecida está usando uma foice?
+Dialogue: 0,0:12:23.49,0:12:28.02,Default,ADVENTURER 4,0,0,0,,Quem sabe? Talvez ela tenha adquirido\Numa árvore de habilidades de foice.
+Dialogue: 0,0:12:28.02,0:12:31.27,italics,ELYMAS/ID,0,0,0,,Ela tentou pedir emprestada\Numa arma reserva ao Carlos,
+Dialogue: 0,0:12:32.05,0:12:35.28,italics,ELYMAS/ID,0,0,0,,mas ele disse a ela para arcar com\Nas consequências de suas ações.
+Dialogue: 0,0:12:31.61,0:12:33.62,flashbacktop,CARLOS,0,0,0,,Não. Continue usando essa foice.
+Dialogue: 0,0:12:33.73,0:12:35.28,sign_generic,SIGN,0,0,0,,{\fade(189,1)\t(189,1480,\fs30)\b1\move(209.778,81.556,208,68.444,189,1480)\c&H90F1F1&}Choque
+Dialogue: 0,0:12:33.62,0:12:35.28,flashbacktop,HILDE,0,0,0,,Quê?!
+Dialogue: 0,0:12:35.78,0:12:40.95,Default,RUCHE,0,0,0,,Fico me perguntando por que o Sr. Carlos\Naceitou a Sra. Hilde como discípula.
+Dialogue: 0,0:12:40.95,0:12:43.47,Default,HILDE,0,0,0,,Sinto muito que você não aprove!
+Dialogue: 0,0:12:44.24,0:12:47.50,Default,RUCHE,0,0,0,,D-Desculpe! Não foi isso que eu quis dizer!
+Dialogue: 0,0:12:48.72,0:12:53.38,Default,CARLOS,0,0,0,,Não fiz nada para merecer\Nser chamado de mestre.
+Dialogue: 0,0:12:53.73,0:12:57.05,Default,CARLOS,0,0,0,,Acredito que o Espadachim\NMágico seja uma classe forte.
+Dialogue: 0,0:12:58.34,0:13:02.22,Default,CARLOS,0,0,0,,As capacidades ofensivas são fortes,\Nmas consumimos muitos recursos.
+Dialogue: 0,0:13:02.51,0:13:05.65,Default,CARLOS,0,0,0,,Isso, muitas vezes, nos coloca em\Ndesacordo com os membros de grupo.
+Dialogue: 0,0:13:05.65,0:13:08.98,Default,CARLOS,0,0,0,,Sem orientação, ela acabaria isolada\Nna guilda e se desviaria do caminho.
+Dialogue: 0,0:13:09.46,0:13:13.60,Default,CARLOS,0,0,0,,Eu via que, no fim das contas, ela acabaria\Nmorrendo ao fazer algo imprudente sozinha.
+Dialogue: 0,0:13:15.52,0:13:21.53,italics,ELYMAS/ID,0,0,0,,No {\i0}Magic World,{\i1} o que beneficiava um Espadachim\NMágico, muitas vezes, não beneficiava o grupo.
+Dialogue: 0,0:13:21.53,0:13:23.27,Default,MAGIC SWORDSMAN,0,0,0,,Vocês cuidam dos inimigos fracos!
+Dialogue: 0,0:13:23.27,0:13:24.78,Default,MAGIC SWORDSMAN,0,0,0,,Vou focar no chefão!
+Dialogue: 0,0:13:24.78,0:13:25.58,Default,PARTY MEMBER A,0,0,0,,Isso não vale!
+Dialogue: 0,0:13:25.58,0:13:26.95,Default,PARTY MEMBER B,0,0,0,,Não seja egoísta!
+Dialogue: 0,0:13:27.68,0:13:31.12,Default,CARLOS,0,0,0,,A impaciência nos impede de ver\No mundo como os outros o veem.
+Dialogue: 0,0:13:32.43,0:13:34.50,Default,CARLOS,0,0,0,,Eu já fui assim.
+Dialogue: 0,0:13:37.33,0:13:39.60,Default,CARLOS,0,0,0,,Fiquei frustrado com a falta\Nde compreensão deles.
+Dialogue: 0,0:13:39.60,0:13:45.19,Default,CARLOS,0,0,0,,Fiquei impaciente para ter sucesso e me\Nperguntava como os outros podiam ser tão egoístas.
+Dialogue: 0,0:13:48.05,0:13:53.17,Default,CARLOS,0,0,0,,Ainda gostaria de ter tido alguém que\Nme oferecesse conselhos com calma.
+Dialogue: 0,0:13:55.77,0:13:59.28,Default,CARLOS,0,0,0,,Foi por isso que acabei\Nindo falar com a Hilde.
+Dialogue: 0,0:14:02.81,0:14:07.95,Default,HILDE,0,0,0,,Meu mestre é um homem\Ngeneroso, forte e bondoso.
+Dialogue: 0,0:14:08.33,0:14:10.45,Default,HILDE,0,0,0,,E aí? Incrível, não?
+Dialogue: 0,0:14:10.81,0:14:14.86,Default,ELYMAS,0,0,0,,Quem dera sua discípula tivesse\Nassimilado mais da sua personalidade.
+Dialogue: 0,0:14:14.86,0:14:16.46,Default,HILDE,0,0,0,,O que disse?!
+Dialogue: 0,0:14:17.38,0:14:19.59,Default,HILDE,0,0,0,,Não é para rir, sua insolente!
+Dialogue: 0,0:14:28.61,0:14:32.48,Default,RUCHE,0,0,0,,Não consigo imaginar o Sr. Carlos\Npassando por uma época de turbulência.
+Dialogue: 0,0:14:32.78,0:14:37.48,Default,ELYMAS,0,0,0,,Acho que ele está exagerando para\Nque a Hilde não passe vergonha.
+Dialogue: 0,0:14:37.48,0:14:38.86,Default,RUCHE,0,0,0,,Será?
+Dialogue: 0,0:14:40.04,0:14:41.23,Default,CARLOS,0,0,0,,Parem todos!
+Dialogue: 0,0:15:08.45,0:15:09.18,Default,CARLOS,0,0,0,,Algo está vindo!
+Dialogue: 0,0:15:10.31,0:15:12.68,sign_generic,SIGN,0,0,0,,{\b1\blur1.5\bord1\c&HFFFFDE&\3c&HE1E294&\t(730,1105,\c&HFEFBD5&\3c&HDFAF26&)\an7\fade(250,1)\fs15\pos(400.134,205.556)}Monstro: Lobo Louco
+Dialogue: 0,0:15:11.46,0:15:13.96,Default,RUCHE,0,0,0,,Nível 52 logo de cara?!
+Dialogue: 0,0:15:13.96,0:15:16.19,Default,CARLOS,0,0,0,,É uma horda de monstros que\Nsaiu em massa da masmorra!
+Dialogue: 0,0:15:17.01,0:15:18.52,Default,CARLOS,0,0,0,,Nós vamos interceptá-los!
+Dialogue: 0,0:15:18.93,0:15:23.97,italics,ELYMAS/ID,0,0,0,,Se Rondalm fosse invadida por monstros\Ndesse nível, o senhor local teria que agir.
+Dialogue: 0,0:15:40.08,0:15:40.79,Default,ELYMAS,0,0,0,,Luche!
+Dialogue: 0,0:15:42.42,0:15:43.80,italics,SYSTEM VOICE,0,0,0,,Efeito de status: envenenado.
+Dialogue: 0,0:15:43.88,0:15:45.42,sign_generic,SIGN,0,0,0,,{\b1\fs25\bord1\c&H68BEFA&\3c&H9F2EBD&\fade(396,0)\pos(147.333,208)}Efeito de status\N {\b1\alphaFF\t(521,1022,\alpha00)\c&HF830F6&\3c&H500033&}Envenenado
+Dialogue: 0,0:15:43.80,0:15:45.80,Default,RUCHE,0,0,0,,Eu o envenenei!
+Dialogue: 0,0:15:45.80,0:15:47.54,Default,ELYMAS,0,0,0,,Ótimo, você já conseguiu!
+Dialogue: 0,0:15:47.93,0:15:51.93,italics,ELYMAS/ID,0,0,0,,É o efeito da nova arma da Luche,\Na Adaga de Quilópode Venenoso.
+Dialogue: 0,0:15:52.58,0:15:58.21,italics,ELYMAS/ID,0,0,0,,Com sua Sorte elevada e seu número de ataques,\Né alta a probabilidade de que ela envenene seu alvo.
+Dialogue: 0,0:15:58.94,0:16:05.44,italics,ELYMAS/ID,0,0,0,,Além disso, no {\i0}Magic World{\i1}, o status de\Nenvenenado reduz a Agilidade em 10%.
+Dialogue: 0,0:16:00.90,0:16:05.44,sign_generic,SIGN,0,0,0,,{\b1\fs25\bord1\c&H68BEFA&\3c&H9F2EBD&\fade(396,0)\pos(500.222,205.333)}Efeito de Status \N{\b1\alphaFF\t(521,1022,\alpha00)\c&HF830F6&\3c&H500033&} Envenenado
+Dialogue: 0,0:16:06.00,0:16:07.90,Default,RUCHE,0,0,0,,E o golpe final!
+Dialogue: 0,0:16:07.90,0:16:10.91,italics,SYSTEM VOICE,0,0,0,,174 EXP adquiridos.
+Dialogue: 0,0:16:08.99,0:16:10.91,sign_generic,SIGN,0,0,0,,{\fad(606,2)\b1\bord1\shad2\blur0.5\c&H2ADDF5&\3c&H292830&\4c&H292830&\pos(183.026,58.586)}174 EXP adquiridos
+Dialogue: 0,0:16:18.83,0:16:20.83,Default,ELYMAS,0,0,0,,Ainda há mais inimigos!
+Dialogue: 0,0:16:21.18,0:16:22.91,Default,ELYMAS,0,0,0,,Continuem reduzindo o número deles!
+Dialogue: 0,0:16:23.58,0:16:24.84,Default,RUCHE,0,0,0,,C-Certo!
+Dialogue: 0,0:16:40.32,0:16:42.36,Default,RUCHE,0,0,0,,Com isso foram todos, né?
+Dialogue: 0,0:16:42.82,0:16:46.36,Default,ELYMAS,0,0,0,,Essa foi uma recepção intensa,\Ne ainda nem entramos na masmorra.
+Dialogue: 0,0:16:47.16,0:16:50.75,Default,ELYMAS,0,0,0,,Parece que sua Adaga de Quilópode\NVenenoso foi eficaz, Luche.
+Dialogue: 0,0:16:50.75,0:16:53.87,Default,RUCHE,0,0,0,,Bem, minha classe\Ncarece de poder de fogo.
+Dialogue: 0,0:16:53.87,0:16:57.87,Default,RUCHE,0,0,0,,Então, fico feliz por ter uma faca\Nque causa um efeito de status.
+Dialogue: 0,0:16:58.29,0:17:00.87,Default,RUCHE,0,0,0,,Sinto como se, de repente,\Nestivesse muito mais forte!
+Dialogue: 0,0:17:01.20,0:17:04.29,Default,ELYMAS,0,0,0,,Você sofreu um pouco\Nde dano. Você está bem?
+Dialogue: 0,0:17:05.57,0:17:08.01,Default,RUCHE,0,0,0,,Fiquei um pouco empolgada\Ndemais com a minha nova arma.
+Dialogue: 0,0:17:08.44,0:17:13.68,Default,RUCHE,0,0,0,,Estou muito bem, mas você acha que eu\Ndeveria usar uma Poção de Cura mesmo assim?
+Dialogue: 0,0:17:14.12,0:17:15.15,Default,MARY,0,0,0,,Cura.
+Dialogue: 0,0:17:17.68,0:17:20.69,Default,RUCHE,0,0,0,,M-Muito obrigada! Hã…
+Dialogue: 0,0:17:20.69,0:17:24.16,Default,MAEBEL,0,0,0,,Sou Maebel, uma Sacerdotisa.
+Dialogue: 0,0:17:24.16,0:17:29.31,Default,MAEBEL,0,0,0,,Me trouxeram porque sou de uma\Nclasse de cura, mas ainda sou rank C.
+Dialogue: 0,0:17:29.31,0:17:32.86,Default,MAEBEL,0,0,0,,Conto com vocês, pessoas de rank B.
+Dialogue: 0,0:17:33.20,0:17:35.49,Default,ELYMAS,0,0,0,,Também contamos com você.
+Dialogue: 0,0:17:35.49,0:17:39.13,Default,ELYMAS,0,0,0,,Dito isso, na verdade, somos novatos.
+Dialogue: 0,0:17:39.13,0:17:41.21,Default,RUCHE,0,0,0,,M-Muito prazer!
+Dialogue: 0,0:17:41.60,0:17:43.48,Default,ELYMAS,0,0,0,,Eu sou Elma, um Cavaleiro Pesado.
+Dialogue: 0,0:17:43.48,0:17:45.74,Default,ELYMAS,0,0,0,,Esta é a Luche, uma Pierrot.
+Dialogue: 0,0:17:46.23,0:17:47.46,Default,RUCHE,0,0,0,,Me chamo Luche.
+Dialogue: 0,0:17:47.80,0:17:52.76,italics,ELYMAS/ID,0,0,0,,Fico feliz que nossa usuária de\Nmagia branca pareça ser confiável.
+Dialogue: 0,0:17:55.35,0:17:57.89,Default,KELT,0,0,0,,Ainda nem estamos na masmorra.
+Dialogue: 0,0:17:57.89,0:18:01.27,Default,KELT,0,0,0,,Não faça nossa curandeira\Ndesperdiçar seu precioso MP.
+Dialogue: 0,0:18:01.70,0:18:06.93,italics,ELYMAS/ID,0,0,0,,Esse cara é o Kelt, um caçador de rank B.
+Dialogue: 0,0:18:07.49,0:18:11.53,italics,ELYMAS/ID,0,0,0,,Ele é um dos membros de nível\Nmais alto nesta missão de Raid.
+Dialogue: 0,0:18:11.53,0:18:15.37,Default,KELT,0,0,0,,Ignore quem exagera logo de início.
+Dialogue: 0,0:18:15.72,0:18:20.62,Default,KELT,0,0,0,,Não acredito que nossa curandeira\Nnão saiba dosar o próprio ritmo.
+Dialogue: 0,0:18:20.62,0:18:26.13,Default,MAEBEL,0,0,0,,Desculpe, Sr. Kelt.\NVou refletir melhor antes de agir.
+Dialogue: 0,0:18:26.49,0:18:27.79,Default,ELYMAS,0,0,0,,É fácil dizer isso agora.
+Dialogue: 0,0:18:27.79,0:18:29.35,Default,ELYMAS,0,0,0,,Contra tantos inimigos,
+Dialogue: 0,0:18:29.35,0:18:33.48,Default,ELYMAS,0,0,0,,não é um plano ruim priorizar\Na redução do número deles.
+Dialogue: 0,0:18:33.48,0:18:38.39,Default,ELYMAS,0,0,0,,No mínimo, não vale a pena criar\Num clima ruim, mencionando isso.
+Dialogue: 0,0:18:38.92,0:18:41.16,Default,KELT,0,0,0,,Você não entendeu nada.
+Dialogue: 0,0:18:41.16,0:18:43.89,Default,KELT,0,0,0,,Esta missão de Raid vai ser longa.
+Dialogue: 0,0:18:44.20,0:18:46.83,Default,KELT,0,0,0,,Nosso objetivo principal é\Ninvestigar o interior da masmorra.
+Dialogue: 0,0:18:46.83,0:18:48.90,Default,KELT,0,0,0,,É diferente de uma busca simples.
+Dialogue: 0,0:18:49.26,0:18:52.85,Default,KELT,0,0,0,,Não tente ser teimoso e\Narrumar briga comigo, novato.
+Dialogue: 0,0:18:59.45,0:19:03.91,Default,ELYMAS,0,0,0,,Você veio arruinar o clima de\Npropósito para ter o controle, é?
+Dialogue: 0,0:19:07.33,0:19:12.09,italics,ELYMAS/ID,0,0,0,,As palavras dele deram a impressão de que\Nele pode dizer à nossa curandeira o que fazer,
+Dialogue: 0,0:19:12.43,0:19:14.93,italics,ELYMAS/ID,0,0,0,,enquanto freia os atacantes\Nda linha de frente.
+Dialogue: 0,0:19:15.91,0:19:18.39,italics,ELYMAS/ID,0,0,0,,Como um Caçador capaz de\Neliminar monstros pelas costas,
+Dialogue: 0,0:19:18.39,0:19:22.22,italics,ELYMAS/ID,0,0,0,,Kelt se beneficia do fato de nossa\Nlinha de frente ter sido frustrada.
+Dialogue: 0,0:19:22.65,0:19:28.55,Default,KELT,0,0,0,,Não passe vergonha\Nfalando demais, garoto.
+Dialogue: 0,0:19:28.94,0:19:30.94,Default,KELT,0,0,0,,Use a cabeça.
+Dialogue: 0,0:19:33.67,0:19:37.11,Default,KELT,0,0,0,,Parece que tivemos sorte,\Nconseguimos bons itens desta vez.
+Dialogue: 0,0:19:37.82,0:19:42.35,Default,KELT,0,0,0,,A prática padrão dita que vão\Npara quem desferiu o golpe fatal.
+Dialogue: 0,0:19:42.35,0:19:44.25,Default,KELT,0,0,0,,Vou ficar com eles.
+Dialogue: 0,0:19:44.25,0:19:47.11,Default,RUCHE,0,0,0,,Mas esses drops foram por\Ncausa da minha habilidade.
+Dialogue: 0,0:19:51.07,0:19:53.14,Default,ELYMAS,0,0,0,,Não deixe que ele te incomode, Maebel.
+Dialogue: 0,0:19:53.14,0:19:56.82,Default,ELYMAS,0,0,0,,O objetivo dele, desde o início,\Nera nos intimidar apontando nossas falhas.
+Dialogue: 0,0:19:57.24,0:19:58.63,Default,MAEBEL,0,0,0,,Não tem problema.
+Dialogue: 0,0:19:59.05,0:20:04.31,Default,MAEBEL,0,0,0,,Como curandeira, caras como\Nele vivem me perturbando.
+Dialogue: 0,0:20:04.65,0:20:11.31,Default,MAEBEL,0,0,0,,Além disso, se você acena concordando, enquanto\Ninventa motivos para adiar a cura deles…
+Dialogue: 0,0:20:12.13,0:20:15.32,Default,MAEBEL,0,0,0,,Caras como ele tendem a ficar na linha.
+Dialogue: 0,0:20:15.32,0:20:18.32,Default,MAEBEL,0,0,0,,Não há tanto espaço dentro da masmorra.
+Dialogue: 0,0:20:18.32,0:20:24.24,Default,MAEBEL,0,0,0,,Até um Caçador sofrerá dano,\Ne a Defesa dessa classe é baixa.
+Dialogue: 0,0:20:24.24,0:20:29.17,Default,MAEBEL,0,0,0,,Gostaria que fôssemos amigos,\Npor isso conto com vocês dois.
+Dialogue: 0,0:20:29.17,0:20:30.75,Default,ELYMAS,0,0,0,,C-Claro.
+Dialogue: 0,0:20:31.08,0:20:33.78,Default,ELYMAS,0,0,0,,Também adoraríamos\Nque fôssemos amigos.
+Dialogue: 0,0:20:34.24,0:20:41.64,italics,ELYMAS/ID,0,0,0,,Talvez os aventureiros de longa data neste\Nmundo sejam mais durões do que eu imagino.
+Dialogue: 0,0:20:42.85,0:20:45.50,italics,ELYMAS/ID,0,0,0,,Pensando agora, é provável\Nque ela tenha lançado
+Dialogue: 0,0:20:45.50,0:20:49.47,italics,ELYMAS/ID,0,0,0,,aquele feitiço para criar um\Nrelacionamento positivo conosco.
+Dialogue: 0,0:20:50.13,0:20:53.54,italics,ELYMAS/ID,0,0,0,,Aquela Cura foi mesmo um tanto precoce.
+Dialogue: 0,0:20:59.91,0:21:05.81,italics,ELYMAS/ID,0,0,0,,Enquanto evitamos e, por vezes, combatemos\Nos mortos-vivos que vagam pela região…
+Dialogue: 0,0:21:10.69,0:21:15.12,italicstop,ELYMAS/ID,0,0,0,,…finalmente, chegamos à entrada\Ndo Cemitério do Luto.
+Dialogue: 0,0:21:09.96,0:21:15.84,sign_generic,SIGN,0,0,0,,{\bord0\an7\fade(2350,1)\b1\fs15\pos(210.486,292.99)}Entrada do Cemitério do Luto
+Dialogue: 0,0:21:12.58,0:21:15.84,sign_generic,SIGN,0,0,0,,{\bord0\fs8\b1\an7\fade(430,1)\pos(535.5,310.202)}Nível recomendado: 70
+Dialogue: 0,0:21:16.25,0:21:18.03,Default,ELYMAS,0,0,0,,Este lugar tem um nome muito apropriado.
+Dialogue: 0,0:21:18.03,0:21:22.09,Default,RUCHE,0,0,0,,Será que não poderiam ter dado\Na eles um enterro mais digno?
+Dialogue: 0,0:21:22.38,0:21:25.16,Default,RUCHE,0,0,0,,Eles fizeram com que\Nesta masmorra surgisse.
+Dialogue: 0,0:21:25.16,0:21:28.10,Default,ELYMAS,0,0,0,,Bem no passado, talvez\Nhouvesse um vilarejo por perto.
+Dialogue: 0,0:21:28.62,0:21:32.98,Default,ELYMAS,0,0,0,,Os moradores do vilarejo devem ter\Nmorrido ou se mudado para Lacoryna.
+Dialogue: 0,0:21:33.31,0:21:36.93,italics,ELYMAS/ID,0,0,0,,Algo estranho também\Nestá acontecendo aqui.
+Dialogue: 0,0:21:36.93,0:21:38.72,italics,ELYMAS/ID,0,0,0,,Preciso descobrir o que está acontecendo.
+Dialogue: 0,0:23:12.46,0:23:15.66,italics,ELYMAS/NA,0,0,0,,Eu e Luche nos juntamos a um grupo de\Naventureiros de alto nível
+Dialogue: 0,0:23:15.66,0:23:17.15,italics,ELYMAS/NA,0,0,0,,para uma missão de Raid.
+Dialogue: 0,0:23:17.68,0:23:20.28,italics,ELYMAS/NA,0,0,0,,Unimos forças com novos aliados
+Dialogue: 0,0:23:20.28,0:23:23.88,italics,ELYMAS/NA,0,0,0,,e nos dividimos em grupos para matar\No maior número possível de monstros.
+Dialogue: 0,0:23:25.05,0:23:30.22,italics,ELYMAS/NA,0,0,0,,Kelt e Maebel são bastante excêntricos.
+Dialogue: 0,0:23:31.26,0:23:34.77,italics,ELYMAS/NA,0,0,0,,A seguir: "O Caçador Kelt\Ne a Sacerdotisa Maebel".
+Dialogue: 0,0:23:34.77,0:23:37.84,italics,ELYMAS/NA,0,0,0,,Espero que só tenhamos\Nisso para nos preocupar.
+
