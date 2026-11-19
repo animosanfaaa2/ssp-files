@@ -1,0 +1,53 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: top,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: italicstop,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: flashback,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: flashback italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: flashbacktop,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: flashbackitalicstop,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: overlap,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: overlaptop,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: overlap italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: main,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Narration,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: sign_generic,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:17.45,0:02:23.41,sign_generic,EPTITLE; sign,0,0,0,,{\b1\fnTimes New Roman\an7\bord1\shad1.25\fade(482,482)\alphaalphaH&0&\3c&H000000&\c&HFEFCFD&\4c&H000000&\fs18\pos(265.802,287.964)}Episode 19\h\h\h\h Empress of the Angler Clan
+Dialogue: 0,0:04:03.89,0:04:07.89,sign_generic,SIGN FX PURPLE,0,0,0,,{\an7\b1\c&HF187E6&\3c&H320B38&\bord1.5\move(-26,74,28,74)}Overwhelmed
+Dialogue: 0,0:04:07.89,0:04:11.40,sign_generic,SIGN FX BLUE,0,0,0,,{\b1\bord1.5\fs25\t(1,3510,\fs23)\c&HF7812F&\3c&HCE3704&\move(501,131,567,102)}Flop
+Dialogue: 0,0:04:07.89,0:04:11.40,sign_generic,SIGN FX BLUE,0,0,0,,{\b1\bord1.5\fs25\t(1,3510,\fs23)\c&HF7812F&\3c&HCE3704&\move(205,112,344,101)}Flip
+Dialogue: 0,0:04:11.81,0:04:14.07,sign_generic,SIGN GOLD LEFT,0,0,0,,{\b1\bord1\shad2\blur0.5\c&HD5FFF4&\3c&H000926&\fade(350,1)\alphaFF\t(400,650,\alpha00)\pos(143,49)}Shark Hunter {\c&H0EE9EE&\3c&H000926&\alpha00}Title
+Dialogue: 0,0:04:12.52,0:04:14.07,sign_generic,SIGN GOLD RIGHT,0,0,0,,{\b1\bord1\shad2\blur0.5\c&HD5FFF4&\3c&H000926&\fade(350,1)\alphaFF\t(400,650,\alpha00)\pos(496,49)}Fishing Master {\c&H0EE9EE&\3c&H000926&\alpha00}Title
+Dialogue: 0,0:05:40.78,0:05:53.67,sign_generic,SIGN,0,0,0,,{\an7\b1\pos(56,169)\fade(185,1)\bord1.5\c&HA27069&\3c&HB3BBC8&}Red Treant Fishing Rod\N{\fs13\bord2\3c&HEEE8AA&\blur1.5\c&HFDFFF6&}Market Price: 2,500,000G\N Fishing Power: 14\N A fishing rod made using materials from a special Red Treant\N Increases chances of catching strange fish, but prone to failure
+Dialogue: 0,0:06:06.76,0:06:14.85,sign_generic,SIGN,0,0,0,,{\an7\b1\fade(185,1)\bord1.5\c&HA27069&\3c&HB3BBC8&\pos(49,169)}Shoal Rune\N{\fs14\bord2\3c&HEEE8AA&\blur1.5\c&HFDFFF6&} Market Price: 500,000G \NA rune that promotes good catches\N Attracts a moderate amount of fish
+Dialogue: 0,0:06:29.62,0:06:40.13,sign_generic,SIGN,0,0,0,,{\an7\b1\fade(185,1)\bord1.5\c&HA27069&\3c&HB3BBC8&\pos(42,121)}Magic Tree Fishing Rod{\fs14\bord2\3c&HEEE8AA&\blur1.5\c&HFDFFF6&}\N Market Price: 100,000G\N Fishing Power: 2\N A conventional fishing rod for adventurers\N Made using materials from a Magic Tree
+Dialogue: 1,0:09:56.66,0:10:00.70,sign_generic,SIGN,0,0,0,,{\fade(250,1)\b1\c&HF68625&\bord1.25\3c&HB5BBCD&\fs25\pos(188,256)}Fishing Clan
+Dialogue: 0,0:09:56.66,0:10:00.70,sign_generic,SIGN,0,0,0,,{\fade(250,1)\b1\c&H000000&\bord2\3c&H000000&\fs25\pos(188,256)}Fishing Clan
+Dialogue: 1,0:09:56.66,0:10:00.70,sign_generic,SIGN,0,0,0,,{\fade(250,1)\b1\c&HF68625&\bord1.25\3c&HB5BBCD&\fs25\pos(477,255)}The Sea Dragon's Fang
+Dialogue: 0,0:09:56.66,0:10:00.70,sign_generic,SIGN,0,0,0,,{\fade(250,1)\b1\c&H000000&\bord2\3c&H000000&\fs25\pos(477,255)}The Sea Dragon's Fang
+Dialogue: 0,0:15:30.58,0:15:31.62,sign_generic,SIGN,0,0,0,,{\b1\fnGeorgia\pos(331,187)\fade(250,150)\blur2\c&H140B16&\3c&H9DA5E4&}Empress Mary VS Heavy Knight Elymas
+Dialogue: 0,0:15:31.37,0:15:33.33,sign_generic,SIGN,0,0,0,,{\b1\fnGeorgia\pos(331,187)\fade(250,1)\blur2\c&H140B16&\3c&H9DA5E4&}Fishing Duel Rules
+Dialogue: 0,0:15:35.12,0:15:36.58,sign_generic,SIGN,0,0,0,,{\pos(320,243)\1a30\c&H3E3BE2&\b1\fs25\3c&H261D99&\fade(200,1)}2-Hour Time Limit
+Dialogue: 0,0:15:39.38,0:15:41.38,sign_generic,SIGN,0,0,0,,{\b1\an8\pos(177,16)\bord1.5\fade(200,1)\c&H9B9DD6&\3c&H4B3EB0&}Victory Condition:\N\N\N\N\N\NHigher Total Market Price\N\N\N\N\N\N\Nof Caught Fish
+Dialogue: 0,0:15:42.46,0:15:44.51,sign_generic,SIGN,0,0,0,,{\pos(320,243)\1a30\c&H3E3BE2&\b1\fs25\3c&H261D99&\fade(200,1)}Sabotage Prohibited
+Dialogue: 0,0:16:21.63,0:16:24.09,sign_generic,SIGN,0,0,0,,{\b1\bord1.5\c&H10598A&\fade(200,1)\3c&H030625&\pos(320,252)\fs25}Ogre Salmon Market Price: 80,000G
+Dialogue: 0,0:17:56.35,0:17:59.52,sign_generic,SIGN,0,0,0,,{\b1\bord1.5\c&H3695B5&\fade(200,1)\3c&H030625&\pos(320,252)\fs25}Golden Carp Market Price: 600,000G
+Dialogue: 0,0:19:28.68,0:19:30.65,sign_generic,SIGN,0,0,0,,{\b1\fs35\pos(436,181)\frz7.653\bord1\blur0.5\c&H95FBF4&\3c&H2B4278&\fade(200,1)}3,000,000G
+Dialogue: 0,0:21:49.91,0:21:56.54,sign_generic,SIGN,0,0,0,,{\an9\fs15\b1\c&HEDEAEB&\3c&H0B1211&\blur1}Translator:\N{\fs17.5}Sho Stifler\N\N{\fs15}Timer:\N{\fs17.5}Krzysztof Kunc\N\N{\fs15}Editor:\N{\fs17.5}Salem Alabanza\N\N{\fs15}Quality Control:\N{\fs17.5}Gabriella Alabanza\N\N{\fs15}Final Quality Control:\N{\fs17.5}Sriram Gurunathan
+
