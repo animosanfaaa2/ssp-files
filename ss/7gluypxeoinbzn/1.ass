@@ -1,0 +1,387 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
+Style: On Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DefaultLow,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,70,70,30,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.63,0:00:06.30,Default,,0,0,0,,Hey, there's smoke coming out!
+Dialogue: 0,0:00:06.38,0:00:08.22,Default,,0,0,0,,The Oni Brigade must have made their move.
+Dialogue: 0,0:00:08.47,0:00:10.85,Default,,0,0,0,,Hey, you're really going in there?
+Dialogue: 0,0:00:11.35,0:00:13.68,Default,,0,0,0,,I can't drag you into this.
+Dialogue: 0,0:00:13.77,0:00:15.39,Default,,0,0,0,,Don't worry about it.
+Dialogue: 0,0:00:15.48,0:00:17.52,Default,,0,0,0,,Our friend's in there, too.
+Dialogue: 0,0:00:17.77,0:00:20.94,Default,,0,0,0,,But there must be\Ntons of Momotaro in there.
+Dialogue: 0,0:00:21.02,0:00:24.07,Default,,0,0,0,,My heart's starting to race.
+Dialogue: 0,0:00:24.15,0:00:26.15,Default,,0,0,0,,I hope Yaoroshi's okay.
+Dialogue: 0,0:00:26.61,0:00:27.57,Default,,0,0,0,,Just to let you know,
+Dialogue: 0,0:00:27.65,0:00:30.49,Default,,0,0,0,,we shouldn't count on reinforcements\Nfrom the Oni Agency anytime soon.
+Dialogue: 0,0:00:30.57,0:00:31.49,Default,,0,0,0,,What?
+Dialogue: 0,0:00:31.57,0:00:36.16,Default,,0,0,0,,I've contacted them, but even\Nthe nearest unit is several hours away.
+Dialogue: 0,0:00:36.33,0:00:38.87,Default,,0,0,0,,We can't wait that long!
+Dialogue: 0,0:00:39.25,0:00:42.63,Default,,0,0,0,,That leaves us with a dozen or so people,\Nincluding the Oni Brigade.
+Dialogue: 0,0:00:43.21,0:00:44.38,Default,,0,0,0,,Stay sharp.
+Dialogue: 0,0:00:44.46,0:00:46.67,Default,,0,0,0,,One moment of carelessness\Ncould cost you your life.
+Dialogue: 0,0:00:48.26,0:00:50.30,Default,,0,0,0,,This is way too dangerous!
+Dialogue: 0,0:00:52.60,0:00:55.47,Default,,0,0,0,,My chest hurts. I think I'm gonna die!
+Dialogue: 0,0:00:55.56,0:00:57.64,Default,,0,0,0,,You stay here, Rokuro!
+Dialogue: 0,0:00:57.73,0:01:01.60,Default,,0,0,0,,I'll get us a futon from that lab\Nso you can rest!
+Dialogue: 0,0:01:01.69,0:01:05.57,Default,,0,0,0,,Just one, of course.\NYou know what that means, right?
+Dialogue: 0,0:01:05.65,0:01:08.19,Default,,0,0,0,,Huh? What are those handcuffs for?
+Dialogue: 0,0:01:08.70,0:01:10.61,Default,,0,0,0,,I'll be there soon, Remi.
+Dialogue: 0,0:01:11.32,0:01:13.87,Default,,0,0,0,,Um, maybe you should wait here.
+Dialogue: 0,0:01:13.95,0:01:15.74,Default,,0,0,0,,I can't do that.
+Dialogue: 0,0:01:15.83,0:01:18.46,Default,,0,0,0,,But your wounds haven't healed yet.
+Dialogue: 0,0:01:20.71,0:01:24.09,Default,,0,0,0,,Remi, my daughter, is in there.
+Dialogue: 0,0:01:24.17,0:01:26.84,Default,,0,0,0,,What kind of father would I be\Nif I didn't go?
+Dialogue: 0,0:01:28.34,0:01:30.38,Default,,0,0,0,,You're not gonna stop him.
+Dialogue: 0,0:01:30.97,0:01:36.47,Default,,0,0,0,,Why do parents risk their lives\Nfor their kids without a second thought?
+Dialogue: 0,0:01:36.97,0:01:38.98,Default,,0,0,0,,You'll understand when you're a parent.
+Dialogue: 0,0:01:39.18,0:01:42.40,Default,,0,0,0,,Then I guess I can't die here.
+Dialogue: 0,0:01:42.48,0:01:44.98,Default,,0,0,0,,Let's all make it back alive!
+Dialogue: 0,0:02:00.12,0:02:04.33,Default,,0,0,0,,Well, well. The peerless Mudano...
+Dialogue: 0,0:02:04.42,0:02:07.00,Default,,0,0,0,,and Ichinose, the Child of Kishin!
+Dialogue: 0,0:02:07.17,0:02:11.51,Default,,0,0,0,,Seriously? The finest specimens\Njust walked right up to my door!
+Dialogue: 0,0:02:11.59,0:02:13.38,Default,,0,0,0,,I've gotta have them!
+Dialogue: 0,0:02:15.64,0:02:19.10,Default,,0,0,0,,I'd better give them a warm welcome.
+Dialogue: 0,0:02:25.81,0:02:27.40,Italics,sogn,0,0,0,,Can't control the BACKLASH
+Dialogue: 0,0:02:37.28,0:02:39.83,Italics,sogn,0,0,0,,Three, two, one, full throttle
+Dialogue: 0,0:02:39.91,0:02:42.50,Italics,sogn,0,0,0,,With a pulsing, chaotic beat
+Dialogue: 0,0:02:42.50,0:02:45.08,Italics,sogn,0,0,0,,My eyes make the call
+Dialogue: 0,0:02:45.17,0:02:47.00,Italics,sogn,0,0,0,,Justice or Evil?
+Dialogue: 0,0:02:47.75,0:02:49.92,Italics,sogn,0,0,0,,- Make your choice\N- Hold on to your pride
+Dialogue: 0,0:02:50.00,0:02:52.51,Italics,sogn,0,0,0,,- Make your choice\N- Though hesitation still dances
+Dialogue: 0,0:02:52.59,0:02:55.26,Italics,sogn,0,0,0,,- Make your choice\N- This wound won't close
+Dialogue: 0,0:02:55.26,0:02:57.97,Italics,sogn,0,0,0,,Oh, God, answer me, please
+Dialogue: 0,0:02:57.97,0:02:59.06,Italics,sogn,0,0,0,,The scale, the speed
+Dialogue: 0,0:02:59.14,0:03:00.56,Italics,sogn,0,0,0,,My brain catches fire, burning up
+Dialogue: 0,0:03:00.64,0:03:02.23,Italics,sogn,0,0,0,,In or out of the ring,\Nshout with the crew
+Dialogue: 0,0:03:02.31,0:03:03.23,Italics,sogn,0,0,0,,With you till the end
+Dialogue: 0,0:03:03.31,0:03:04.31,Italics,sogn,0,0,0,,Got a feeling,\Nno sense of danger
+Dialogue: 0,0:03:04.39,0:03:05.81,Italics,sogn,0,0,0,,Right to the skull, oh, no, no
+Dialogue: 0,0:03:05.90,0:03:07.31,Italics,sogn,0,0,0,,Take a wild dive beyond imagination
+Dialogue: 0,0:03:07.40,0:03:08.31,Italics,sogn,0,0,0,,With you till the end
+Dialogue: 0,0:03:08.40,0:03:12.78,Italics,sogn,0,0,0,,It burst from my heart with a thump
+Dialogue: 0,0:03:12.86,0:03:15.20,Italics,sogn,0,0,0,,Dreams, love, all that stuff
+Dialogue: 0,0:03:15.28,0:03:19.41,Italics,sogn,0,0,0,,Might have to censor some of it
+Dialogue: 0,0:03:19.49,0:03:23.20,Italics,sogn,0,0,0,,Huh? Now why am I crying?
+Dialogue: 0,0:03:23.20,0:03:25.04,Italics,sogn,0,0,0,,Feel the BACKLASH
+Dialogue: 0,0:03:25.12,0:03:28.29,Italics,sogn,0,0,0,,Mix blazing ideals with every taboo
+Dialogue: 0,0:03:28.38,0:03:30.34,Italics,sogn,0,0,0,,Feel the BACKLASH
+Dialogue: 0,0:03:30.42,0:03:33.72,Italics,sogn,0,0,0,,I wanna swim with you\Nat the critical point
+Dialogue: 0,0:03:33.72,0:03:35.63,Italics,sogn,0,0,0,,Feel the BACKLASH
+Dialogue: 0,0:03:35.72,0:03:38.80,Italics,sogn,0,0,0,,Let every last trace of loneliness\Nand happiness explode
+Dialogue: 0,0:03:38.89,0:03:43.18,Italics,sogn,0,0,0,,Show me what love is
+Dialogue: 0,0:03:43.18,0:03:46.77,Italics,sogn,0,0,0,,Before I know it,\Nhere comes the BACKLASH again
+Dialogue: 0,0:03:50.06,0:03:54.32,On Top,sign,0,0,0,,EPISODE 08:\NONE'S OWN WAY
+Dialogue: 0,0:03:54.40,0:03:55.78,Default,,0,0,0,,You bastard.
+Dialogue: 0,0:03:56.03,0:03:58.20,Default,,0,0,0,,Why are you protecting a Momotaro?
+Dialogue: 0,0:03:58.28,0:03:59.95,Default,,0,0,0,,Get in my way, and I'll kill you, too.
+Dialogue: 0,0:04:00.03,0:04:02.54,Default,,0,0,0,,Are you guys serious?
+Dialogue: 0,0:04:02.83,0:04:05.58,Default,,0,0,0,,You're really gonna kill her,\Nbaby and all?
+Dialogue: 0,0:04:05.66,0:04:07.96,Default,,0,0,0,,Yes. I'll kill that child inside of her.
+Dialogue: 0,0:04:08.04,0:04:09.08,Default,,0,0,0,,What?
+Dialogue: 0,0:04:09.17,0:04:12.13,Default,,0,0,0,,You don't know\Nif the father's a Momotaro.
+Dialogue: 0,0:04:12.21,0:04:14.71,Default,,0,0,0,,That kid could be a regular human!
+Dialogue: 0,0:04:14.80,0:04:16.17,Default,,0,0,0,,You get that, right?
+Dialogue: 0,0:04:16.42,0:04:18.51,Default,,0,0,0,,We won't take even the slightest chance.
+Dialogue: 0,0:04:19.05,0:04:20.85,Default,,0,0,0,,That's how the Oni Brigade operates.
+Dialogue: 0,0:04:20.93,0:04:22.68,Default,,0,0,0,,That's not right!
+Dialogue: 0,0:04:22.93,0:04:26.18,Default,,0,0,0,,I'll fight anyone who's out to kill Oni!
+Dialogue: 0,0:04:26.27,0:04:29.44,Default,,0,0,0,,But that kid hasn't even been born!
+Dialogue: 0,0:04:29.52,0:04:31.44,Default,,0,0,0,,It's not an Oni or a Momotaro yet!
+Dialogue: 0,0:04:31.52,0:04:33.32,Default,,0,0,0,,It's just a baby!
+Dialogue: 0,0:04:33.69,0:04:35.69,Default,,0,0,0,,You're still gonna kill it?
+Dialogue: 0,0:04:35.94,0:04:37.95,Default,,0,0,0,,Yes. I will!
+Dialogue: 0,0:04:39.61,0:04:43.45,Default,,0,0,0,,If you can't even tell right from wrong,
+Dialogue: 0,0:04:43.53,0:04:45.37,Default,,0,0,0,,you're just a bunch\Nof bloodthirsty killers!
+Dialogue: 0,0:04:45.45,0:04:47.58,Default,,0,0,0,,How's that any different from the Momotaro
+Dialogue: 0,0:04:47.66,0:04:52.17,Default,,0,0,0,,who kill Oni living in peace\Nand call it justice?
+Dialogue: 0,0:04:52.71,0:04:54.46,Default,,0,0,0,,-This way!\N-Found them!
+Dialogue: 0,0:04:54.88,0:04:56.46,Default,,0,0,0,,Don't let them get away!
+Dialogue: 0,0:04:56.63,0:04:57.63,Default,,0,0,0,,General...
+Dialogue: 0,0:04:58.09,0:04:59.76,Default,,0,0,0,,do we face them here?
+Dialogue: 0,0:04:59.84,0:05:02.35,Default,,0,0,0,,No! Let's find somewhere to hide for now.
+Dialogue: 0,0:05:02.43,0:05:03.60,Default,,0,0,0,,We're not done talking.
+Dialogue: 0,0:05:05.60,0:05:07.06,Default,,0,0,0,,Yaoroshi, come with me.
+Dialogue: 0,0:05:17.57,0:05:21.03,Default,,0,0,0,,Blood Eclipse Release: Where Art Thou?
+Dialogue: 0,0:05:19.31,0:05:22.59,On Top,sign,0,0,0,,BLOOD ECLIPSE RELEASE\NWHERE ART THOU
+Dialogue: 0,0:05:25.74,0:05:28.71,Default,,0,0,0,,There are a ton of Momotaro in that lab.
+Dialogue: 0,0:05:29.21,0:05:32.25,Default,,0,0,0,,I'm picking up Oni, too,\Nprobably the Oni Brigade.
+Dialogue: 0,0:05:32.50,0:05:33.50,Default,,0,0,0,,What about my daughter?
+Dialogue: 0,0:05:34.00,0:05:38.30,Default,,0,0,0,,I'm sorry. My ability\Ncan't identify individuals.
+Dialogue: 0,0:05:38.38,0:05:39.38,Default,,0,0,0,,I see.
+Dialogue: 0,0:05:40.38,0:05:42.59,Default,,0,0,0,,But I'll do what I can.
+Dialogue: 0,0:05:43.64,0:05:47.10,Default,,0,0,0,,There are so many overlapping signals.\NIt's hard to make them out.
+Dialogue: 0,0:05:47.18,0:05:49.48,Default,,0,0,0,,If only I could see them\Nin three dimensions...
+Dialogue: 0,0:05:50.31,0:05:51.23,Default,,0,0,0,,Oh!
+Dialogue: 0,0:05:51.31,0:05:53.35,Default,,0,0,0,,I found a cluster of Oni signals!
+Dialogue: 0,0:05:53.44,0:05:54.44,Default,,0,0,0,,Really?
+Dialogue: 0,0:05:54.69,0:05:56.57,Default,,0,0,0,,I can't tell which floor they're on,
+Dialogue: 0,0:05:56.65,0:05:59.61,Default,,0,0,0,,but no other life signs\Noverlap with theirs, so...
+Dialogue: 0,0:05:59.86,0:06:01.86,Default,,0,0,0,,I think the captive Oni\Nare somewhere near the top floor!
+Dialogue: 0,0:06:03.11,0:06:05.74,Default,,0,0,0,,So we just keep going up, right?
+Dialogue: 0,0:06:06.24,0:06:07.87,Default,,0,0,0,,Remi's up there.
+Dialogue: 0,0:06:09.00,0:06:10.00,Default,,0,0,0,,Professor.
+Dialogue: 0,0:06:11.00,0:06:14.38,Default,,0,0,0,,I'm picking up one more Oni\Na little ways away.
+Dialogue: 0,0:06:14.63,0:06:17.17,Default,,0,0,0,,Probably a member of the Oni Brigade.
+Dialogue: 0,0:06:17.25,0:06:19.26,Default,,0,0,0,,Most likely Support Personnel.
+Dialogue: 0,0:06:19.76,0:06:21.67,Default,,0,0,0,,Yusurube, make contact with that Oni.
+Dialogue: 0,0:06:23.01,0:06:26.72,Default,,0,0,0,,If they're hostile,\Nretreat and wait somewhere safe.
+Dialogue: 0,0:06:26.80,0:06:28.18,Default,,0,0,0,,Understood.
+Dialogue: 0,0:06:29.18,0:06:31.23,Default,,0,0,0,,The rest of us\Nwill go in through the front.
+Dialogue: 0,0:06:32.44,0:06:35.40,Default,,0,0,0,,That smoke probably means\Nsomeone is fighting there.
+Dialogue: 0,0:06:36.23,0:06:39.94,Default,,0,0,0,,We'll head there first\Ninstead of searching at random.
+Dialogue: 0,0:06:40.19,0:06:43.03,Default,,0,0,0,,And one more thing you should know.
+Dialogue: 0,0:06:47.66,0:06:49.33,Default,,0,0,0,,His grip's insane.
+Dialogue: 0,0:06:58.88,0:06:59.92,Default,,0,0,0,,Huh? A bird?
+Dialogue: 0,0:07:02.42,0:07:05.09,Default,,0,0,0,,The enemy already knows we're here.
+Dialogue: 0,0:07:06.14,0:07:08.64,Default,,0,0,0,,You've gotta be kidding me!
+Dialogue: 0,0:07:08.72,0:07:10.43,Default,,0,0,0,,Mudano, you're amazing!
+Dialogue: 0,0:07:10.52,0:07:13.73,Default,,0,0,0,,I was being careful!\NThat drone was way up in the sky!
+Dialogue: 0,0:07:15.56,0:07:18.02,Default,,0,0,0,,Don't you agree, Tummy?
+Dialogue: 0,0:07:18.11,0:07:20.69,Default,,0,0,0,,"Man, Mudano's a total badass!"
+Dialogue: 0,0:07:20.78,0:07:24.03,Default,,0,0,0,,"Keep it down, Tummy!\NDo you know what time it is?"
+Dialogue: 0,0:07:24.11,0:07:25.11,Default,,0,0,0,,"Shut up, old lady!
+Dialogue: 0,0:07:25.20,0:07:27.99,Default,,0,0,0,,You have no idea how badass Mudano is!"
+Dialogue: 0,0:07:28.24,0:07:31.08,Default,,0,0,0,,"Did you just call your mother\Nan old lady?
+Dialogue: 0,0:07:31.16,0:07:33.75,Default,,0,0,0,,And who cares about your stupid Mudano?"
+Dialogue: 0,0:07:34.00,0:07:36.50,Default,,0,0,0,,"Don't you bad-mouth my man!"
+Dialogue: 0,0:07:36.67,0:07:38.25,Default,,0,0,0,,"Hey!"
+Dialogue: 0,0:07:38.46,0:07:41.13,Default,,0,0,0,,"Show my man Mudano..."
+Dialogue: 0,0:07:42.21,0:07:44.47,Default,,0,0,0,,"some respect!"
+Dialogue: 0,0:07:51.06,0:07:53.02,On Top,sign,0,0,0,,WHEW...
+Dialogue: 0,0:07:53.22,0:07:57.40,Default,,0,0,0,,I wanna examine every inch\Nof Mudano's and Ichinose's insides!
+Dialogue: 0,0:07:57.48,0:08:00.02,Default,,0,0,0,,I want their bodies!
+Dialogue: 0,0:08:01.02,0:08:02.78,Default,,0,0,0,,Chief! I have a report.
+Dialogue: 0,0:08:03.19,0:08:04.19,Default,,0,0,0,,Whoa!
+Dialogue: 0,0:08:10.91,0:08:12.66,Default,,0,0,0,,What is it?
+Dialogue: 0,0:08:12.91,0:08:15.00,Default,,0,0,0,,Um, about the intruders...
+Dialogue: 0,0:08:15.91,0:08:17.00,Default,,0,0,0,,Don't care.
+Dialogue: 0,0:08:17.08,0:08:19.58,Default,,0,0,0,,Dispose of them yourselves.
+Dialogue: 0,0:08:19.67,0:08:21.54,Default,,0,0,0,,Y-Yes, sir!
+Dialogue: 0,0:08:21.79,0:08:24.63,Default,,0,0,0,,Don't bother me with every little thing.
+Dialogue: 0,0:08:24.71,0:08:28.30,Default,,0,0,0,,I'm sorry! It's the Oni Brigade,\Nled by a Child of Kishin, so...
+Dialogue: 0,0:08:28.97,0:08:30.05,Default,,0,0,0,,Whoa!
+Dialogue: 0,0:08:30.51,0:08:31.97,Default,,0,0,0,,The Oni Brigade...
+Dialogue: 0,0:08:32.05,0:08:34.56,Default,,0,0,0,,They've got a Child of Kishin!
+Dialogue: 0,0:08:35.73,0:08:37.81,Default,,0,0,0,,Huh? Wait, wait.
+Dialogue: 0,0:08:38.31,0:08:40.61,Default,,0,0,0,,So right now, we've got Mudano...
+Dialogue: 0,0:08:40.69,0:08:43.44,Default,,0,0,0,,and two Children of Kishin here?
+Dialogue: 0,0:08:43.52,0:08:47.19,Default,,0,0,0,,Ichinose, the Enki,\Nand Todoroki, the Fuki?
+Dialogue: 0,0:08:48.07,0:08:50.45,Default,,0,0,0,,I want them! I want them!
+Dialogue: 0,0:08:50.53,0:08:55.45,Default,,0,0,0,,Mudano and the Children of Kishin,\NI want them all!
+Dialogue: 0,0:09:04.59,0:09:07.34,Default,,0,0,0,,Get me five, six, and seven!
+Dialogue: 0,0:09:07.59,0:09:09.84,Default,,0,0,0,,Y-Yes, sir!
+Dialogue: 0,0:09:17.85,0:09:20.98,Default,,0,0,0,,Okay, everyone!\NI've got important orders for you!
+Dialogue: 0,0:09:22.36,0:09:27.07,Default,,0,0,0,,"We've lost contact with Shingi and Kumo,\Nwho went to eliminate the intruders."
+Dialogue: 0,0:09:27.86,0:09:30.74,Default,,0,0,0,,Like I give a damn!
+Dialogue: 0,0:09:31.24,0:09:33.24,Default,,0,0,0,,Fifth floor, Fifth Unit,
+Dialogue: 0,0:09:33.32,0:09:35.41,Default,,0,0,0,,sixth floor, Sixth Unit,
+Dialogue: 0,0:09:35.49,0:09:37.37,Default,,0,0,0,,seventh floor, Seventh Unit...
+Dialogue: 0,0:09:37.87,0:09:42.12,Default,,0,0,0,,I've called in your captains\Nand vice-captains for one reason.
+Dialogue: 0,0:09:42.38,0:09:44.59,Default,,0,0,0,,Capture the Children of Kishin alive\Nif possible!
+Dialogue: 0,0:09:44.67,0:09:46.71,Default,,0,0,0,,I'll settle for their corpses\Nif I have to!
+Dialogue: 0,0:09:46.80,0:09:49.34,Default,,0,0,0,,Taking Mudano alive\Nis pretty much impossible.
+Dialogue: 0,0:09:49.42,0:09:51.51,Default,,0,0,0,,Kill him and bring me his body.
+Dialogue: 0,0:09:52.01,0:09:55.05,Default,,0,0,0,,Well, even killing Mudano won't be easy.
+Dialogue: 0,0:09:55.14,0:09:57.68,Default,,0,0,0,,That's where you come in.
+Dialogue: 0,0:09:58.52,0:10:04.11,Default,,0,0,0,,Normally, a captain and vice-captain\Nguard each of the first ten floors.
+Dialogue: 0,0:10:04.36,0:10:07.19,Default,,0,0,0,,But we can't afford that right now.
+Dialogue: 0,0:10:07.94,0:10:09.69,Default,,0,0,0,,Kill Mudano!
+Dialogue: 0,0:10:09.78,0:10:12.57,Default,,0,0,0,,All of you, take him down together.
+Dialogue: 0,0:10:27.09,0:10:28.09,Default,,0,0,0,,Where'd they go?
+Dialogue: 0,0:10:29.17,0:10:30.46,Default,,0,0,0,,Keep looking!
+Dialogue: 0,0:10:34.84,0:10:36.05,Default,,0,0,0,,What's the situation?
+Dialogue: 0,0:10:36.14,0:10:39.64,Italics,,0,0,0,,Security's getting a lot tighter!
+Dialogue: 0,0:10:39.72,0:10:40.73,Default,,0,0,0,,Good!
+Dialogue: 0,0:10:41.98,0:10:45.27,Default,,0,0,0,,We should have\Njust left him back there.
+Dialogue: 0,0:10:46.73,0:10:48.61,Italics,,0,0,0,,We're going to lie low for a bit.
+Dialogue: 0,0:10:49.11,0:10:50.48,Default,,0,0,0,,Got it.
+Dialogue: 0,0:10:51.49,0:10:54.24,Default,,0,0,0,,Yaoroshi, what do you want to do?
+Dialogue: 0,0:10:55.99,0:10:58.24,Default,,0,0,0,,We have no intention\Nof changing our methods.
+Dialogue: 0,0:10:58.99,0:11:02.16,Default,,0,0,0,,If you can't agree with them,\Nyou're free to leave.
+Dialogue: 0,0:11:02.25,0:11:04.46,Default,,0,0,0,,You don't have to do anything\Nyou don't want to.
+Dialogue: 0,0:11:04.54,0:11:05.96,Default,,0,0,0,,Or watch it happen.
+Dialogue: 0,0:11:06.75,0:11:08.50,Default,,0,0,0,,You're still one of us.
+Dialogue: 0,0:11:09.09,0:11:11.01,Default,,0,0,0,,I want to respect your wishes.
+Dialogue: 0,0:11:18.60,0:11:21.97,Default,,0,0,0,,How can you take it that far?
+Dialogue: 0,0:11:22.98,0:11:25.39,Default,,0,0,0,,What the hell made you like this?
+Dialogue: 0,0:11:28.73,0:11:31.07,Default,,0,0,0,,It's not an unusual story.
+Dialogue: 0,0:11:33.40,0:11:36.95,Default,,0,0,0,,My parents died\Nin the war against the Momotaro.
+Dialogue: 0,0:11:42.54,0:11:46.67,Default,,0,0,0,,You've got a pretty fierce look\Nfor a baby.
+Dialogue: 0,0:11:43.18,0:11:46.64,On Top,,0,0,0,,TAKEJI TODOROKI
+Dialogue: 0,0:11:47.42,0:11:50.88,Default,,0,0,0,,I had no family left,\Nso Gramps took me in.
+Dialogue: 0,0:11:51.92,0:11:53.51,Default,,0,0,0,,His name was Takeji Todoroki.
+Dialogue: 0,0:11:54.01,0:11:55.88,Default,,0,0,0,,We weren't related by blood.
+Dialogue: 0,0:12:02.43,0:12:04.10,Default,,0,0,0,,Gramps! I got hurt!
+Dialogue: 0,0:12:04.60,0:12:06.52,Default,,0,0,0,,Huh? Hurt?
+Dialogue: 0,0:12:06.60,0:12:07.98,Default,,0,0,0,,Were you training again?
+Dialogue: 0,0:12:08.06,0:12:11.40,Default,,0,0,0,,Yeah! I have to get strong enough\Nto fight the Momotaro!
+Dialogue: 0,0:12:11.48,0:12:13.57,Default,,0,0,0,,It's just a scrape, isn't it?
+Dialogue: 0,0:12:13.65,0:12:16.53,Default,,0,0,0,,Big talk for a kid\Nwho comes crying to me over a scratch!
+Dialogue: 0,0:12:16.61,0:12:17.53,Default,,0,0,0,,I'm not crying!
+Dialogue: 0,0:12:17.61,0:12:19.20,Default,,0,0,0,,There's a branch stuck in my shoulder!
+Dialogue: 0,0:12:19.45,0:12:20.45,Default,,0,0,0,,What?
+Dialogue: 0,0:12:21.49,0:12:23.95,Default,,0,0,0,,That's a serious injury, you idiot!
+Dialogue: 0,0:12:27.71,0:12:28.96,Default,,0,0,0,,There we go.
+Dialogue: 0,0:12:29.25,0:12:31.46,Default,,0,0,0,,Don't say it so casually.
+Dialogue: 0,0:12:31.54,0:12:33.13,Default,,0,0,0,,I'll kill you!
+Dialogue: 0,0:12:33.21,0:12:35.46,Default,,0,0,0,,What kind of doctor\Nthreatens to kill people?
+Dialogue: 0,0:12:35.71,0:12:37.72,Default,,0,0,0,,Honestly, you little...
+Dialogue: 0,0:12:38.47,0:12:39.47,Default,,0,0,0,,Ow.
+Dialogue: 0,0:12:40.47,0:12:42.30,Default,,0,0,0,,Gramps was an Oni\Nand a doctor for our kind.
+Dialogue: 0,0:12:42.39,0:12:46.43,Default,,0,0,0,,He always wore a Sukajan jacket\Nand had a cigarette in his mouth.
+Dialogue: 0,0:12:47.23,0:12:48.81,Default,,0,0,0,,He looked after people.
+Dialogue: 0,0:12:48.89,0:12:50.52,Default,,0,0,0,,He'd help anyone.
+Dialogue: 0,0:12:55.19,0:12:57.99,Default,,0,0,0,,Why do you train so hard?
+Dialogue: 0,0:12:58.24,0:12:59.57,Default,,0,0,0,,For revenge!
+Dialogue: 0,0:12:59.66,0:13:02.12,Default,,0,0,0,,I'll never forgive the Momotaro!
+Dialogue: 0,0:13:03.24,0:13:05.66,Default,,0,0,0,,Get your revenge if you want,
+Dialogue: 0,0:13:05.74,0:13:09.62,Default,,0,0,0,,but life'll be pretty dull\Nif that's all you've got.
+Dialogue: 0,0:13:09.71,0:13:12.04,Default,,0,0,0,,No, it won't!
+Dialogue: 0,0:13:14.38,0:13:17.26,Default,,0,0,0,,People make revenge out\Nto be this huge thing.
+Dialogue: 0,0:13:17.34,0:13:20.97,Default,,0,0,0,,Just think of it as a bonus.
+Dialogue: 0,0:13:21.47,0:13:24.22,Default,,0,0,0,,Live right,\Nand enjoy the hell out of life.
+Dialogue: 0,0:13:24.31,0:13:28.48,Default,,0,0,0,,If you get your revenge along the way,\Neven better.
+Dialogue: 0,0:13:30.14,0:13:35.07,Default,,0,0,0,,Making revenge your whole life\Nand scowling all the time?
+Dialogue: 0,0:13:35.15,0:13:36.78,Default,,0,0,0,,Sounds pretty empty to me.
+Dialogue: 0,0:13:39.28,0:13:41.70,Default,,0,0,0,,That's what's so great\Nabout being a doctor!
+Dialogue: 0,0:13:41.78,0:13:42.78,Default,,0,0,0,,People thank you.
+Dialogue: 0,0:13:43.87,0:13:46.83,Default,,0,0,0,,Try doing something\Npeople will thank you for!
+Dialogue: 0,0:13:51.08,0:13:55.54,Default,,0,0,0,,I suppose Gramps didn't want me\Nto be consumed by revenge.
+Dialogue: 0,0:13:58.30,0:14:04.01,Default,,0,0,0,,Meanwhile, the war against the Momotaro\Nwas intensifying near our home.
+Dialogue: 0,0:14:10.81,0:14:12.06,Default,,0,0,0,,Gramps is home!
+Dialogue: 0,0:14:13.40,0:14:14.81,Default,,0,0,0,,Gramps!
+Dialogue: 0,0:14:24.74,0:14:27.45,Default,,0,0,0,,He's a Momotaro! We have to kill him!
+Dialogue: 0,0:14:27.87,0:14:29.29,Default,,0,0,0,,You idiot!
+Dialogue: 0,0:14:29.37,0:14:31.41,Default,,0,0,0,,He may be a Momotaro,\Nbut he's still a kid!
+Dialogue: 0,0:14:31.66,0:14:34.67,Default,,0,0,0,,They probably dragged him into this war.
+Dialogue: 0,0:14:34.75,0:14:37.50,Default,,0,0,0,,A kid this young? Makes me sick!
+Dialogue: 0,0:14:38.30,0:14:41.51,Default,,0,0,0,,I'm a doctor. I'm going to save him.
+Dialogue: 0,0:14:46.30,0:14:48.56,Default,,0,0,0,,Thanks to Gramps's treatment...
+Dialogue: 0,0:14:50.06,0:14:52.27,Default,,0,0,0,,the boy survived.
+Dialogue: 0,0:14:57.52,0:14:58.90,Default,,0,0,0,,You're awake?
+Dialogue: 0,0:14:59.82,0:15:02.40,Default,,0,0,0,,How does it feel to be saved by an Oni?
+Dialogue: 0,0:15:03.11,0:15:04.57,Default,,0,0,0,,Not so bad, huh?
+Dialogue: 0,0:15:13.08,0:15:18.34,Default,,0,0,0,,I'll never forget\Nthe look of surprise on that boy's face.
+Dialogue: 0,0:15:22.97,0:15:24.43,Default,,0,0,0,,Dinner's ready!
+Dialogue: 0,0:15:26.09,0:15:31.47,Default,,0,0,0,,That night, while we were making dinner,\Nhe disappeared.
+Dialogue: 0,0:15:36.06,0:15:38.90,Default,,0,0,0,,He left without even saying thank you!
+Dialogue: 0,0:15:40.86,0:15:43.53,Default,,0,0,0,,I just patched him up,\Nand he's already pushing himself.
+Dialogue: 0,0:15:43.61,0:15:45.45,Default,,0,0,0,,Why do you look so happy?
+Dialogue: 0,0:15:45.95,0:15:47.87,Default,,0,0,0,,Why? Well...
+Dialogue: 0,0:15:48.41,0:15:51.37,Default,,0,0,0,,He's better. What's not to be happy about?
+Dialogue: 0,0:15:54.62,0:15:58.25,Default,,0,0,0,,Gramps looked so pleased as he smiled.
+Dialogue: 0,0:15:59.04,0:16:00.38,Default,,0,0,0,,And seeing him like that...
+Dialogue: 0,0:16:01.96,0:16:03.88,Default,,0,0,0,,made me a little proud of him.
+Dialogue: 0,0:16:20.02,0:16:21.40,Default,,0,0,0,,Gramps?
+Dialogue: 0,0:16:24.90,0:16:25.90,Default,,0,0,0,,Hello.
+Dialogue: 0,0:16:26.20,0:16:28.78,Default,,0,0,0,,Y-You're that kid from the other day.
+Dialogue: 0,0:16:39.67,0:16:40.71,Default,,0,0,0,,Huh?
+Dialogue: 0,0:16:45.96,0:16:47.13,Default,,0,0,0,,Gramps?
+Dialogue: 0,0:16:47.93,0:16:52.14,Default,,0,0,0,,I was quite surprised\Nto have an Oni save me.
+Dialogue: 0,0:16:57.18,0:16:59.52,Default,,0,0,0,,He seemed to have the wrong idea, though.
+Dialogue: 0,0:17:00.02,0:17:03.27,Default,,0,0,0,,I volunteered to go to war.
+Dialogue: 0,0:17:04.19,0:17:07.95,Default,,0,0,0,,Still, an Oni who'd help a Momotaro...
+Dialogue: 0,0:17:08.45,0:17:12.41,Default,,0,0,0,,I was stunned\Nthat anyone could be that stupid.
+Dialogue: 0,0:17:16.33,0:17:18.71,Default,,0,0,0,,I forgot to say thank you, didn't I?
+Dialogue: 0,0:17:18.96,0:17:22.17,Default,,0,0,0,,That's why I came back with my friends.
+Dialogue: 0,0:17:23.21,0:17:25.34,Default,,0,0,0,,Oh, you can have this back.
+Dialogue: 0,0:17:31.68,0:17:32.72,Default,,0,0,0,,You idiot!
+Dialogue: 0,0:17:32.80,0:17:34.68,Default,,0,0,0,,He may be a Momotaro,\Nbut he's still a kid!
+Dialogue: 0,0:17:37.18,0:17:40.19,Default,,0,0,0,,He's better. What's not to be happy about?
+Dialogue: 0,0:17:46.32,0:17:51.07,Default,,0,0,0,,Still, being saved by an Oni\Nis a little unsanitary, isn't it?
+Dialogue: 0,0:17:53.62,0:17:57.45,Default,,0,0,0,,I haven't caught any nasty germs, have I?
+Dialogue: 0,0:18:18.47,0:18:20.73,Default,,0,0,0,,I must have gone berserk.
+Dialogue: 0,0:18:21.23,0:18:23.98,Default,,0,0,0,,The house and everything around it\Nhad been blown away.
+Dialogue: 0,0:18:24.23,0:18:26.19,Default,,0,0,0,,That was when I swore...
+Dialogue: 0,0:18:26.73,0:18:28.86,Default,,0,0,0,,never to show a Momotaro any compassion.
+Dialogue: 0,0:18:29.36,0:18:31.74,Default,,0,0,0,,Even the slightest kindness\Ncan get you killed.
+Dialogue: 0,0:18:32.74,0:18:36.20,Default,,0,0,0,,That's why I'll kill every last Momotaro!
+Dialogue: 0,0:18:36.28,0:18:37.74,Default,,0,0,0,,No exceptions!
+Dialogue: 0,0:18:37.83,0:18:39.75,Default,,0,0,0,,Nothing will change my mind!
+Dialogue: 0,0:18:41.50,0:18:47.50,Default,,0,0,0,,So, Yaoroshi,\Nwill you come with us or not?
+Dialogue: 0,0:18:50.76,0:18:52.88,Default,,0,0,0,,Sorry, but I'm out.
+Dialogue: 0,0:18:53.88,0:18:56.39,Default,,0,0,0,,I'm keeping the uniform.\NI've got nothing to change into.
+Dialogue: 0,0:19:00.64,0:19:04.02,Default,,0,0,0,,After what you went through,\NI get why you feel that way...
+Dialogue: 0,0:19:04.56,0:19:08.27,Default,,0,0,0,,but I still can't go along\Nwith your methods.
+Dialogue: 0,0:19:09.11,0:19:11.40,Default,,0,0,0,,I'll free the captive Oni, though.
+Dialogue: 0,0:19:11.65,0:19:13.40,Default,,0,0,0,,Are you going back to Rasetsu?
+Dialogue: 0,0:19:13.90,0:19:15.78,Default,,0,0,0,,Like I could ever go back.
+Dialogue: 0,0:19:16.16,0:19:18.28,Default,,0,0,0,,I'll get stronger on my own.
+Dialogue: 0,0:19:18.95,0:19:20.70,Default,,0,0,0,,How I live my life...
+Dialogue: 0,0:19:20.79,0:19:23.29,Default,,0,0,0,,has always been up to me.
+Dialogue: 0,0:19:27.79,0:19:30.80,Default,,0,0,0,,No one's ever quit that fast before.
+Dialogue: 0,0:19:30.88,0:19:32.51,Default,,0,0,0,,He can't agree with our methods?
+Dialogue: 0,0:19:32.59,0:19:34.68,Default,,0,0,0,,He's just running from reality.
+Dialogue: 0,0:19:34.93,0:19:37.01,Default,,0,0,0,,I don't think so.
+Dialogue: 0,0:19:37.09,0:19:40.35,Default,,0,0,0,,Questioning the path you've chosen
+Dialogue: 0,0:19:40.43,0:19:43.93,Default,,0,0,0,,shows you take responsibility\Nfor your choices.
+Dialogue: 0,0:19:44.43,0:19:46.85,Default,,0,0,0,,I think that's admirable.
+Dialogue: 0,0:19:47.44,0:19:49.90,Default,,0,0,0,,However briefly, he was one of us.
+Dialogue: 0,0:19:51.23,0:19:53.19,Default,,0,0,0,,Let's respect his decision.
+Dialogue: 0,0:19:55.36,0:19:56.45,Default,,0,0,0,,Bitter...
+Dialogue: 0,0:19:56.99,0:19:59.49,Default,,0,0,0,,Hey! Bring me some sugar!
+Dialogue: 0,0:20:03.79,0:20:08.50,Default,,0,0,0,,Honestly! We're all busy\Nfighting off the intruders!
+Dialogue: 0,0:20:09.54,0:20:13.55,Default,,0,0,0,,Do whatever you want with anyone\Nwho isn't Mudano or a Child of Kishin.
+Dialogue: 0,0:20:14.30,0:20:17.55,Default,,0,0,0,,Hizumi, you stay with me.
+Dialogue: 0,0:20:17.76,0:20:21.28,On Top,sign,0,0,0,,TENTH UNIT CAPTAIN\NHIZUMI MOMOTSUGI
+Dialogue: 0,0:20:18.93,0:20:20.30,Default,,0,0,0,,Understood.
+Dialogue: 0,0:20:31.57,0:20:33.53,Default,,0,0,0,,There are so many!
+Dialogue: 0,0:20:37.82,0:20:40.62,Default,,0,0,0,,Those coats! Captains?
+Dialogue: 0,0:20:41.41,0:20:43.33,Default,,0,0,0,,It's been ages since I had a fight!
+Dialogue: 0,0:20:41.14,0:20:47.39,On Top,,0,0,0,,VICE CAPTAIN MEJIRO MOMOKI \NCAPTAIN SEISEKI MOMOCHI
+Dialogue: 0,0:20:43.41,0:20:45.33,Default,,0,0,0,,Chicken out, and I'll kill you!
+Dialogue: 0,0:20:45.41,0:20:47.33,Default,,0,0,0,,I'm ready.
+Dialogue: 0,0:20:47.41,0:20:52.59,On Top,,0,0,0,,CAPTAIN NAGANUMA MOMOHAYA\NVICE-CAPTAIN KATAKURA MOMOGAKUIN
+Dialogue: 0,0:20:47.66,0:20:49.08,Default,,0,0,0,,This should be\Na pleasant
+Dialogue: 0,0:20:49.17,0:20:50.33,Default,,0,0,0,,way to pass\Nthe time.
+Dialogue: 0,0:20:50.42,0:20:51.59,Default,,0,0,0,,We should\Nwipe them
+Dialogue: 0,0:20:51.67,0:20:52.59,Default,,0,0,0,,all out\Nat once.
+Dialogue: 0,0:20:52.67,0:20:56.90,On Top,sign,0,0,0,,CAPTAIN MEIDAI MOMOKIBA\NVICE-CAPTAIN KOKURYOU MOMOSAKA
+Dialogue: 0,0:20:54.92,0:20:56.92,Default,,0,0,0,,Looks like everyone's here.
+Dialogue: 0,0:20:57.26,0:20:59.84,Default,,0,0,0,,We're fighting captain-class enemies\Nright off the bat?
+Dialogue: 0,0:20:59.93,0:21:01.68,Default,,0,0,0,,Sure. Saves us time.
+Dialogue: 0,0:21:02.43,0:21:05.35,Italics,,0,0,0,,No sense letting them\Nhold all of us up here.
+Dialogue: 0,0:21:06.18,0:21:09.31,Italics,,0,0,0,,The more people searching\Nfor the captive Oni, the better.
+Dialogue: 0,0:21:10.69,0:21:11.77,Italics,,0,0,0,,In that case...
+Dialogue: 0,0:21:13.07,0:21:14.90,Default,,0,0,0,,All of you, go on ahead.
+Dialogue: 0,0:21:16.07,0:21:17.07,Default,,0,0,0,,Kougasaki.
+Dialogue: 0,0:21:17.82,0:21:20.07,Default,,0,0,0,,You're in command from here on.
+Dialogue: 0,0:21:20.32,0:21:21.82,Default,,0,0,0,,What about you, Professor?
+Dialogue: 0,0:21:24.58,0:21:26.58,Default,,0,0,0,,I'll take them all on.
+Dialogue: 0,0:21:28.33,0:21:30.08,Default,,0,0,0,,All of us?
+Dialogue: 0,0:21:31.12,0:21:33.25,Default,,0,0,0,,What's wrong, underling?
+Dialogue: 0,0:21:33.34,0:21:35.30,Default,,0,0,0,,Did I bruise your ego?
+Dialogue: 0,0:21:36.59,0:21:39.22,Italics,song,0,0,0,,"How've you been lately?"
+Dialogue: 0,0:21:39.30,0:21:42.09,Italics,song,0,0,0,,"Well..." What's that supposed to mean?
+Dialogue: 0,0:21:42.18,0:21:48.06,Italics,song,0,0,0,,Who gets to\Ndecide what the answer is?
+Dialogue: 0,0:21:48.14,0:21:50.94,Italics,song,0,0,0,,No matter\Nhow hard I search
+Dialogue: 0,0:21:50.94,0:21:53.73,Italics,song,0,0,0,,I still can't hear\Nthe voice inside my heart
+Dialogue: 0,0:21:53.81,0:22:00.07,Italics,song,0,0,0,,Who is that voice\Nmeant for?
+Dialogue: 0,0:22:02.78,0:22:08.54,Italics,song,0,0,0,,"I'm fine" is only a brave face,\Nits meaning turned inside out
+Dialogue: 0,0:22:08.62,0:22:12.67,Italics,song,0,0,0,,Words playing\Nhide-and-seek
+Dialogue: 0,0:22:16.63,0:22:18.55,Italics,song,0,0,0,,You won't cry
+Dialogue: 0,0:22:18.63,0:22:22.72,Italics,song,0,0,0,,Not even when you're all alone?
+Dialogue: 0,0:22:22.80,0:22:27.35,Italics,song,0,0,0,,Your tears could spill over any moment now
+Dialogue: 0,0:22:28.31,0:22:32.06,Italics,song,0,0,0,,You can't\Nerase them
+Dialogue: 0,0:22:32.14,0:22:35.56,Italics,song,0,0,0,,All the tiny footprints
+Dialogue: 0,0:22:35.65,0:22:38.61,Italics,song,0,0,0,,Left by\Nyour timid self
+Dialogue: 0,0:22:39.99,0:22:45.87,Italics,song,0,0,0,,Even today, somewhere in this world,\None trembling hand is holding another
+Dialogue: 0,0:22:46.37,0:22:49.04,Italics,song,0,0,0,,As one lonely soul joins the next
+Dialogue: 0,0:22:49.12,0:22:52.33,Italics,song,0,0,0,,The world\Nbecomes a circle
+Dialogue: 0,0:23:06.30,0:23:11.06,On Top,sign,0,0,0,,NEXT TIME\NMIX LIVE
+
