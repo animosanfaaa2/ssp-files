@@ -1,0 +1,331 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DefaultItalics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DefaultTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DefaultItalicsTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DefaultOverlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: FlashbackItalics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: FlashbackTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: FlashbackItalicsTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Signs,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,30,30,18,0
+Style: Credits,Arial,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,30,30,18,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.23,0:00:05.23,Default,Kaede,0,0,0,,The idea that your "Meltdowner" \Nmakes you all-powerful
+Dialogue: 0,0:00:05.23,0:00:10.30,Default,Kaede,0,0,0,,is just a fantasy that \Nthe grown-ups in this city gave you.
+Dialogue: 0,0:00:10.61,0:00:13.09,Default,Kaede,0,0,0,,Do you really believe that
+Dialogue: 0,0:00:13.09,0:00:19.54,Default,Kaede,0,0,0,,being one of the only seven Level 5s \Nin the city made you unstoppable?
+Dialogue: 0,0:00:19.54,0:00:22.54,Default,Kaede,0,0,0,,Do you think the darkness \Nin this city only runs that deep?
+Dialogue: 0,0:00:24.81,0:00:27.39,DefaultItalics,Mugino,0,0,0,,Again? Her ability must be...
+Dialogue: 0,0:00:27.39,0:00:29.80,Default,Kaede,0,0,0,,Oh, it's not electricity, dear.
+Dialogue: 0,0:00:30.47,0:00:33.01,Default,Kaede,0,0,0,,I am Academy City's #6.
+Dialogue: 0,0:00:33.01,0:00:38.10,Default,Kaede,0,0,0,,Yes, the Dark Side's Bane that you fear.
+Dialogue: 0,0:02:05.68,0:02:08.98,Signs,Sign,0,0,0,,A CERTAIN DARK ITEM
+Dialogue: 0,0:02:09.55,0:02:15.24,Default,Kaede,0,0,0,,You need to understand the whole "Level 5"\Nthing doesn't mean anything anymore.
+Dialogue: 0,0:02:16.52,0:02:18.58,Default,Frenda,0,0,0,,Th-This can't be possible.
+Dialogue: 0,0:02:18.87,0:02:23.33,Default,Frenda,0,0,0,,There can't be this many \NLevel 5s just running around!
+Dialogue: 0,0:02:23.59,0:02:25.89,Default,Frenda,0,0,0,,You're actually the mysterious \NDark Side's Bane?
+Dialogue: 0,0:02:25.89,0:02:27.13,Default,Frenda,0,0,0,,You're #6?
+Dialogue: 0,0:02:27.13,0:02:31.13,Default,Frenda,0,0,0,,If you just want to make up numbers, \Nanybody can do that!
+Dialogue: 0,0:02:31.13,0:02:35.44,Default,Kaede,0,0,0,,My, you're surprisingly ignorant as to \Nhow deep the Dark Side goes.
+Dialogue: 0,0:02:35.44,0:02:39.35,Default,Kaede,0,0,0,,If anything, the Dark Side's where \Nyou'd {\i1}want{\i0} to look for Level 5s.
+Dialogue: 0,0:02:39.75,0:02:42.97,Default,Kaede,0,0,0,,We know the two at the top \Nare neck deep in it already.
+Dialogue: 0,0:02:42.97,0:02:46.35,Default,Kaede,0,0,0,,The electromaster and the mentalist... \NI'm not so sure about,
+Dialogue: 0,0:02:46.35,0:02:48.69,Default,Kaede,0,0,0,,but if you look at the projects \Nthey're involved with,
+Dialogue: 0,0:02:48.69,0:02:54.03,Default,Kaede,0,0,0,,you should assume they've \Nat least dipped their toes in.
+Dialogue: 0,0:02:54.32,0:02:57.70,Default,Kaede,0,0,0,,Or are you thinking of the idiot \Nwho talks about guts all the time?
+Dialogue: 0,0:02:58.22,0:03:00.82,Default,Kaede,0,0,0,,Do you really want to use {\i1}that{\i0} imbecile
+Dialogue: 0,0:03:00.82,0:03:03.93,Default,Kaede,0,0,0,,as a load-bearing pillar of \Nyour standards and values?
+Dialogue: 0,0:03:05.33,0:03:09.17,DefaultItalics,Frenda,0,0,0,,The Dark Side's Bane is actually \Ndeep in the Dark Side?
+Dialogue: 0,0:03:09.63,0:03:13.10,DefaultItalics,Frenda,0,0,0,,It does sound like something you'd \Nsee in Academy City, but...
+Dialogue: 0,0:03:13.10,0:03:16.40,Default,Kaede,0,0,0,,Even you can't entirely deny \Nthe possibility, can you, dear?
+Dialogue: 0,0:03:17.21,0:03:18.86,Default,Kaede,0,0,0,,Academy City's #6...
+Dialogue: 0,0:03:18.86,0:03:21.64,Default,Kaede,0,0,0,,What do the stories \Nyou've heard actually mean?
+Dialogue: 0,0:03:22.43,0:03:27.02,DefaultItalics,Kaede,0,0,0,,Do you think the information you have\Ncan help you right here, right now?
+Dialogue: 0,0:03:27.50,0:03:32.34,Default,Kaede,0,0,0,,I'm not just a rumor, a vague report, \Nor some mysterious legend.
+Dialogue: 0,0:03:32.34,0:03:38.27,Default,Kaede,0,0,0,,I'm right here in front of you, \Ntelling you I'm #6.
+Dialogue: 0,0:03:38.70,0:03:43.04,Default,Mugino,0,0,0,,Don't think you're so special just 'cuz \Nyou're almost on my level, bitch.
+Dialogue: 0,0:03:43.44,0:03:46.25,DefaultItalics,Mugino,0,0,0,,Putting aside whether \Nshe's actually #6 or not...
+Dialogue: 0,0:03:46.25,0:03:48.71,DefaultItalics,Mugino,0,0,0,,She did divert my Meltdowner.
+Dialogue: 0,0:03:49.33,0:03:51.13,DefaultItalics,Mugino,0,0,0,,She blew up the ceiling, too.
+Dialogue: 0,0:03:51.13,0:03:54.09,DefaultItalics,Mugino,0,0,0,,What kind of ability does she have?
+Dialogue: 0,0:03:54.09,0:03:54.76,Default,Takitsubo,0,0,0,,Mugino.
+Dialogue: 0,0:03:55.18,0:03:56.72,Default,Mugino,0,0,0,,Stay put, Takitsubo.
+Dialogue: 0,0:03:56.72,0:03:59.43,Default,Mugino,0,0,0,,Hanano. Take Takitsubo \Nand get out of the building.
+Dialogue: 0,0:03:59.43,0:04:02.25,Default,Mugino,0,0,0,,Listen. Protect her, no matter what!
+Dialogue: 0,0:04:05.46,0:04:07.98,DefaultItalics,Frenda,0,0,0,,We need to buy time for them to escape!
+Dialogue: 0,0:04:10.05,0:04:11.31,Default,Kinuhata,0,0,0,,You're joking.
+Dialogue: 0,0:04:11.31,0:04:16.82,Default,Kinuhata,0,0,0,,The #6 Level 5 is ultra-really a student \Nfrom a fancy school like Tokiwadai?
+Dialogue: 0,0:04:17.11,0:04:18.38,Default,Kaede,0,0,0,,Oh, my...
+Dialogue: 0,0:04:18.38,0:04:22.57,Default,Kaede,0,0,0,,You're asking why one of the city's elite \Nwould be down here in the darkness.
+Dialogue: 0,0:04:23.37,0:04:27.70,Default,Kaede,0,0,0,,But you know, upper-class ladies have \Nto live very different lives from most.
+Dialogue: 0,0:04:27.70,0:04:30.21,Default,Kaede,0,0,0,,Don't make any noise \Nwhen you walk. Never laugh.
+Dialogue: 0,0:04:30.21,0:04:32.36,Default,Kaede,0,0,0,,Are they trying to train ninjas, I wonder?
+Dialogue: 0,0:04:34.36,0:04:36.34,DefaultItalics,Frenda,0,0,0,,The suitcase is gone.
+Dialogue: 0,0:04:39.34,0:04:41.86,DefaultItalics,Frenda,0,0,0,,And so are the art club girl \Nand track team girl.
+Dialogue: 0,0:04:43.86,0:04:44.97,DefaultItalics,Frenda,0,0,0,,What now?
+Dialogue: 0,0:04:45.95,0:04:50.50,Default,Kaede,0,0,0,,In the face of our stressful daily lives, \Nit's only natural we'd run off the rails.
+Dialogue: 0,0:04:50.50,0:04:54.90,Default,Kaede,0,0,0,,And when that happens, we have \Nto do something to get back on track.
+Dialogue: 0,0:04:54.90,0:04:58.65,Default,Kaede,0,0,0,,For me, that's learning the truth \Nof the world, even if it's ugly.
+Dialogue: 0,0:04:58.65,0:05:01.82,Default,Kinuhata,0,0,0,,You ultra-did all this just to \Nlearn how the world works?
+Dialogue: 0,0:05:02.22,0:05:05.23,DefaultItalics,Frenda,0,0,0,,Our priority is the suitcase \Nwith the cash.
+Dialogue: 0,0:05:05.23,0:05:07.29,DefaultItalics,Frenda,0,0,0,,As the strongest, \NMugino should go after it.
+Dialogue: 0,0:05:07.79,0:05:13.00,Default,Kaede,0,0,0,,Try to understand: my life's so stifling,\NI'd suffocate if I didn't do this.
+Dialogue: 0,0:05:13.68,0:05:17.64,Default,Kaede,0,0,0,,Or perhaps posers like you\Ncan't understand that.
+Dialogue: 0,0:05:18.52,0:05:24.26,Default,Kaede,0,0,0,,By the way, I didn't realize \Nyou had a fifth member.
+Dialogue: 0,0:05:24.26,0:05:26.76,Default,Kaede,0,0,0,,But did you think we'd just \Nsit around and wait?
+Dialogue: 0,0:05:26.76,0:05:28.03,Default,Frenda,0,0,0,,That goes for you, too!
+Dialogue: 0,0:05:28.03,0:05:30.92,Default,Frenda,0,0,0,,Takitsubo and Hanano are in danger.
+Dialogue: 0,0:05:30.92,0:05:33.19,Default,Frenda,0,0,0,,Do you think we'd give you time \Nto go after them?
+Dialogue: 0,0:05:34.10,0:05:36.82,Default,Frenda,0,0,0,,You could've just given us the damn cash!
+Dialogue: 0,0:05:37.29,0:05:41.11,Default,Frenda,0,0,0,,Well, now you get blown up! \NSucks to be you!
+Dialogue: 0,0:05:47.83,0:05:48.56,Default,Mugino,0,0,0,,They're all yours.
+Dialogue: 0,0:05:48.56,0:05:49.95,Default,Kinuhata,0,0,0,,Ultra-roger that.
+Dialogue: 0,0:05:52.87,0:05:54.01,Default,Mugino,0,0,0,,Found her.
+Dialogue: 0,0:05:55.13,0:05:57.64,DefaultItalics,Mugino,0,0,0,,I could one-shot her from here.
+Dialogue: 0,0:05:57.64,0:06:02.17,DefaultItalics,Mugino,0,0,0,,But I don't want to vaporize \Nthe suitcase with 80 billion in it.
+Dialogue: 0,0:06:02.60,0:06:04.43,DefaultItalics,Mugino,0,0,0,,I guess I'll have to get closer.
+Dialogue: 0,0:06:20.51,0:06:22.23,Default,Mugino,0,0,0,,So that's why she was buying time...
+Dialogue: 0,0:06:22.23,0:06:23.53,Default,Mugino,0,0,0,,She was setting that up?
+Dialogue: 0,0:06:27.24,0:06:28.62,Default,Mugino,0,0,0,,Shut up and get lost!
+Dialogue: 0,0:06:29.83,0:06:31.56,Default,Yamagami,0,0,0,,Y-You saved me!
+Dialogue: 0,0:06:32.16,0:06:32.59,Default,Yamagami,0,0,0,,Thank—
+Dialogue: 0,0:06:32.59,0:06:35.37,Default,Mugino,0,0,0,,You're in my way too, goddamn it!
+Dialogue: 0,0:06:37.22,0:06:38.86,DefaultItalics,Mugino,0,0,0,,She's with Judgment?
+Dialogue: 0,0:06:38.86,0:06:41.30,DefaultItalics,Mugino,0,0,0,,They're on the case too? What a pain!
+Dialogue: 0,0:06:41.61,0:06:45.63,DefaultItalics,Mugino,0,0,0,,Still, that means she managed to fool \Nthe Parasol Town operators' noses.
+Dialogue: 0,0:06:45.63,0:06:47.76,DefaultItalics,Mugino,0,0,0,,I guess she's actually pretty good.
+Dialogue: 0,0:06:58.28,0:06:59.57,Default,Mugino,0,0,0,,A planetarium?
+Dialogue: 0,0:07:04.07,0:07:04.84,Default,Mugino,0,0,0,,There she is!
+Dialogue: 0,0:07:05.53,0:07:09.53,DefaultItalics,Mugino,0,0,0,,I'll aim for her spine—concentrate my beam\Nthinner than a strand of dry pasta
+Dialogue: 0,0:07:09.53,0:07:10.95,DefaultItalics,Mugino,0,0,0,,and kill her in one strike.
+Dialogue: 0,0:07:13.89,0:07:16.79,Default,Hanayama,0,0,0,,If you want to play tag, \Nplay with me, not Inoue!
+Dialogue: 0,0:07:20.39,0:07:23.10,Default,Hanayama,0,0,0,,Nice to meet you, comrade.
+Dialogue: 0,0:07:23.10,0:07:25.42,Default,Hanayama,0,0,0,,I'm Kamitsu Hanayama from ITEM.
+Dialogue: 0,0:07:25.79,0:07:27.68,Default,Hanayama,0,0,0,,You can call me the Transporter.
+Dialogue: 0,0:07:29.59,0:07:31.52,Default,Hanayama,0,0,0,,What I deliver is death.
+Dialogue: 0,0:07:31.52,0:07:34.52,Default,Hanayama,0,0,0,,Not only directly, \Nby bringing violence and bombs,
+Dialogue: 0,0:07:34.52,0:07:38.75,Default,Hanayama,0,0,0,,but even when I carry life-saving \Nthings like gold or first aid kits,
+Dialogue: 0,0:07:38.75,0:07:41.01,Default,Hanayama,0,0,0,,my recipients inevitably meet their doom.
+Dialogue: 0,0:07:41.01,0:07:43.13,Default,Hanayama,0,0,0,,That's just who I am.
+Dialogue: 0,0:07:43.53,0:07:46.60,Default,Hanayama,0,0,0,,So maybe think twice about \Naccepting kindness from a villain.
+Dialogue: 0,0:07:48.05,0:07:52.53,Default,Hanayama,0,0,0,,Even a kid should know what happens \Nwhen you deal with the devil.
+Dialogue: 0,0:07:53.79,0:07:59.17,Signs,Hanayama,0,0,0,,FRICTION-RESISTANT COATING GEL
+Dialogue: 0,0:07:53.40,0:07:56.71,Default,Hanayama,0,0,0,,Huh? Did the word "ITEM" bother you?
+Dialogue: 0,0:07:56.71,0:08:00.44,Default,Hanayama,0,0,0,,Did you think you had \Nthe exclusive copyright?
+Dialogue: 0,0:08:06.47,0:08:08.25,Default,Hanayama,0,0,0,,Don't be stupid.
+Dialogue: 0,0:08:08.25,0:08:12.18,Default,Hanayama,0,0,0,,Academy City's darkness \Ndoesn't care about that shit.
+Dialogue: 0,0:08:12.52,0:08:15.35,Default,Hanayama,0,0,0,,They're not gonna protect \Nthe villains' every right.
+Dialogue: 0,0:08:16.12,0:08:20.45,Default,Hanayama,0,0,0,,Whoever's more useful to the Dark Side \Ngets to be the official ITEM.
+Dialogue: 0,0:08:21.64,0:08:25.01,Default,Hanayama,0,0,0,,That's how it works for us.
+Dialogue: 0,0:08:25.01,0:08:28.71,Default,Hanayama,0,0,0,,You're just a bunch of overpriced killers\Nwho don't have what it takes.
+Dialogue: 0,0:08:28.71,0:08:31.72,Default,Hanayama,0,0,0,,All you do is destroy, never create.
+Dialogue: 0,0:08:31.72,0:08:34.38,Default,Hanayama,0,0,0,,But not only do we nail the dirty work,
+Dialogue: 0,0:08:34.38,0:08:38.18,Default,Hanayama,0,0,0,,we also let other people benefit \Nfrom the money we make.
+Dialogue: 0,0:08:40.48,0:08:43.04,Default,Hanayama,0,0,0,,That gives us a lot of points.
+Dialogue: 0,0:08:43.78,0:08:46.56,Default,Hanayama,0,0,0,,I'll play with you, faker.
+Dialogue: 0,0:08:46.92,0:08:51.47,Default,Hanayama,0,0,0,,We'll eliminate all the pretenders to the \Nthrone and become the one true ITEM!
+Dialogue: 0,0:08:52.58,0:08:55.01,Default,Hanayama,0,0,0,,This is a prototype that was \Nnever intended for real use.
+Dialogue: 0,0:08:55.01,0:08:58.86,Default,Hanayama,0,0,0,,It clings right to the ground and reaches \Nspeeds of 1,100 kilometers an hour.
+Dialogue: 0,0:08:58.86,0:09:04.31,Default,Hanayama,0,0,0,,I'll grind you into paste with my \Nbeloved ultra-fast Dragon Motor!
+Dialogue: 0,0:09:12.43,0:09:14.42,Default,Waniguchi,0,0,0,,So you sent your ace off on errands
+Dialogue: 0,0:09:14.42,0:09:17.80,Default,Waniguchi,0,0,0,,while the chief and I get stuck \Nwith the reserve players?
+Dialogue: 0,0:09:17.80,0:09:18.79,Default,Waniguchi,0,0,0,,This'll be easy.
+Dialogue: 0,0:09:19.27,0:09:21.79,Default,Kinuhata,0,0,0,,Ultra-go ahead and try it.
+Dialogue: 0,0:09:21.79,0:09:24.38,Default,Kaede,0,0,0,,Waniguchi, dear. Shall we get started?
+Dialogue: 0,0:09:24.38,0:09:25.46,Default,Waniguchi,0,0,0,,Please.
+Dialogue: 0,0:09:45.47,0:09:48.34,Default,Waniguchi,0,0,0,,I know you're all upset that \Nyour match was interrupted!
+Dialogue: 0,0:09:48.34,0:09:50.91,Default,Waniguchi,0,0,0,,But we have a special event \Nin store for you!
+Dialogue: 0,0:09:50.91,0:09:54.16,Default,Waniguchi,0,0,0,,The slaughter you're about to witness \Nwill {\i1}really{\i0} get your blood pumping!
+Dialogue: 0,0:09:57.37,0:09:59.50,Default,Waniguchi,0,0,0,,Hey! Hey! Yo! Yo!
+Dialogue: 0,0:09:59.50,0:10:02.81,Default,Waniguchi,0,0,0,,Everybody applaud, \Nfor the executioner is here!
+Dialogue: 0,0:10:06.21,0:10:11.54,Default,Waniguchi,0,0,0,,It's time for a heart-pounding, \Nhair-raising livestream!
+Dialogue: 0,0:10:11.54,0:10:12.63,Default,Frenda,0,0,0,,Out of the way, new girl!
+Dialogue: 0,0:10:20.11,0:10:22.24,Default,Kaede,0,0,0,,They went after the breaker?
+Dialogue: 0,0:10:22.24,0:10:23.79,Default,Kaede,0,0,0,,That's no fun.
+Dialogue: 0,0:10:23.79,0:10:26.10,Default,Kaede,0,0,0,,That's it for the livestream, then.
+Dialogue: 0,0:10:26.52,0:10:31.11,Default,Kaede,0,0,0,,We confiscated all the audience's phones \Nso they couldn't record the fight
+Dialogue: 0,0:10:31.11,0:10:33.69,Default,Kaede,0,0,0,,and mirror it on another streaming site...
+Dialogue: 0,0:10:34.26,0:10:35.07,Default,Kaede,0,0,0,,Too bad.
+Dialogue: 0,0:10:35.33,0:10:40.55,Default,Kinuhata,0,0,0,,If you do dirty work, you don't want your \Nface getting broadcast all over the world.
+Dialogue: 0,0:10:40.55,0:10:42.54,Default,Frenda,0,0,0,,We just barely managed to avoid that.
+Dialogue: 0,0:10:46.23,0:10:48.21,Default,Waniguchi,0,0,0,,But I'm still gonna kill ya.
+Dialogue: 0,0:10:48.54,0:10:50.79,Default,Waniguchi,0,0,0,,We may be a live-audience-only event now,
+Dialogue: 0,0:10:50.79,0:10:53.67,Default,Waniguchi,0,0,0,,but I'll make it extra gory for the crowd!
+Dialogue: 0,0:10:58.55,0:11:02.52,Default,Frenda,0,0,0,,We have no idea how she fights, \Nso be careful...
+Dialogue: 0,0:11:02.52,0:11:03.11,Default,Frenda,0,0,0,,Hey!
+Dialogue: 0,0:11:03.52,0:11:05.30,Default,Waniguchi,0,0,0,,No tricks, huh?
+Dialogue: 0,0:11:05.30,0:11:06.98,Default,Waniguchi,0,0,0,,I like you, trash.
+Dialogue: 0,0:11:06.98,0:11:11.70,Default,Waniguchi,0,0,0,,You're gonna end up a lump of meat, but I \Nrespect you enough to make it a nice one!
+Dialogue: 0,0:11:17.61,0:11:19.18,Default,Frenda,0,0,0,,Idiot!
+Dialogue: 0,0:11:19.18,0:11:21.36,Default,Frenda,0,0,0,,I know you're tough,
+Dialogue: 0,0:11:21.36,0:11:25.58,Default,Frenda,0,0,0,,but you need to stop trying to learn \Nabout your enemy by body slamming them!
+Dialogue: 0,0:11:25.58,0:11:26.83,Default,Kinuhata,0,0,0,,Ultra-watch out!
+Dialogue: 0,0:11:29.24,0:11:33.29,Default,Kinuhata,0,0,0,,What were you thinking, trying to lecture \Nme in the middle of a death match?
+Dialogue: 0,0:11:33.29,0:11:35.22,Default,Kinuhata,0,0,0,,Those who get careless end up dead.
+Dialogue: 0,0:11:35.62,0:11:41.18,Default,Frenda,0,0,0,,You... You sure didn't hold back at all \Neven after I saved your life!
+Dialogue: 0,0:11:41.18,0:11:44.27,Default,Frenda,0,0,0,,Are you going through a rebellious phase?
+Dialogue: 0,0:11:50.62,0:11:52.68,Default,Kaede,0,0,0,,I wanted some insurance
+Dialogue: 0,0:11:52.68,0:11:56.81,Default,Kaede,0,0,0,,in case the white tiger was too strong \Nand tore up all today's fighters, you see.
+Dialogue: 0,0:11:56.81,0:11:59.40,Default,Kaede,0,0,0,,I figured we could have \Ntwo animals fight, you know?
+Dialogue: 0,0:11:59.99,0:12:04.39,Default,Frenda,0,0,0,,So is controlling animals her power?
+Dialogue: 0,0:12:04.39,0:12:05.73,Default,Kinuhata,0,0,0,,No.
+Dialogue: 0,0:12:05.73,0:12:07.79,Default,Kinuhata,0,0,0,,That ultra-wouldn't make sense.
+Dialogue: 0,0:12:07.79,0:12:10.58,Default,Kinuhata,0,0,0,,What did she do to blow up \Nthe ceiling and the wall?
+Dialogue: 0,0:12:10.89,0:12:15.06,Default,Kinuhata,0,0,0,,And it wasn't as flashy, but the way that \Nmicrophone ultra-floated up on its own...
+Dialogue: 0,0:12:18.45,0:12:20.43,Default,Waniguchi,0,0,0,,Don't just look at Mr. Bear, now!
+Dialogue: 0,0:12:35.87,0:12:37.90,Default,Frenda,0,0,0,,Are you... serious?
+Dialogue: 0,0:12:38.22,0:12:43.05,Default,Waniguchi,0,0,0,,Chief, I don't mind you playing with \Nanimals, but you loosed that one on {\i1}me{\i0}!
+Dialogue: 0,0:12:43.47,0:12:46.49,Default,Kaede,0,0,0,,Sorry, dear. Please forgive me.
+Dialogue: 0,0:12:46.49,0:12:49.41,Default,Kaede,0,0,0,,I seem to have made a control error.
+Dialogue: 0,0:12:49.41,0:12:50.37,Default,Waniguchi,0,0,0,,Hmph.
+Dialogue: 0,0:12:51.03,0:12:53.77,DefaultItalics,Frenda,0,0,0,,Will my weapons even work \Non someone like that?
+Dialogue: 0,0:13:03.42,0:13:05.45,Default,Waniguchi,0,0,0,,Leverage Struggle.
+Dialogue: 0,0:13:05.45,0:13:07.98,Default,Waniguchi,0,0,0,,I've never tried to hide \Nmy ability, really.
+Dialogue: 0,0:13:07.98,0:13:11.53,Default,Waniguchi,0,0,0,,Just watch any of the videos of me \Nexecuting people who break the rules.
+Dialogue: 0,0:13:11.53,0:13:13.37,Default,Waniguchi,0,0,0,,Scissors, crowbars, see-saws,
+Dialogue: 0,0:13:13.37,0:13:14.96,Default,Waniguchi,0,0,0,,even joint locks...
+Dialogue: 0,0:13:14.96,0:13:17.79,Default,Waniguchi,0,0,0,,Anything that uses leverage \Nis a weapon for me.
+Dialogue: 0,0:13:18.11,0:13:22.89,Default,Waniguchi,0,0,0,,I could rip apart a concrete pillar the \Nwidth of your torso with my bare hands.
+Dialogue: 0,0:13:22.89,0:13:25.12,Default,Waniguchi,0,0,0,,Even if you were twice as thick!
+Dialogue: 0,0:13:25.51,0:13:29.00,Default,Kinuhata,0,0,0,,Are you ultra-serious right now, dumbass?
+Dialogue: 0,0:13:37.38,0:13:38.96,Default,Frenda,0,0,0,,Huh? What are you doing?
+Dialogue: 0,0:13:39.48,0:13:44.43,Default,Kaede,0,0,0,,Oh, my. Someone lifted Hanayama's \Nfriction-resistant coating gel.
+Dialogue: 0,0:13:44.43,0:13:48.56,Default,Kinuhata,0,0,0,,If all you can ultra-do is amplify \Njoint locks that use the lever principle,
+Dialogue: 0,0:13:48.56,0:13:51.39,Default,Kinuhata,0,0,0,,then as long as you can't grab me, \NI have nothing to fear.
+Dialogue: 0,0:13:52.02,0:13:55.15,Default,Frenda,0,0,0,,Even so, I don't think a girl \Nshould dirty herself like that.
+Dialogue: 0,0:13:55.15,0:13:58.85,Default,Kinuhata,0,0,0,,And you just volunteered all that \Ninformation without anyone even asking.
+Dialogue: 0,0:13:58.85,0:14:02.63,Default,Kinuhata,0,0,0,,There's ultra-any number \Nof ways to murder you.
+Dialogue: 0,0:14:05.94,0:14:08.85,Default,Kaede,0,0,0,,Don't cry, Waniguchi, dear.
+Dialogue: 0,0:14:08.85,0:14:11.87,Default,Kaede,0,0,0,,But this is why it's always better \Nto keep your ability a secret.
+Dialogue: 0,0:14:13.08,0:14:14.81,Default,Waniguchi,0,0,0,,Chief!
+Dialogue: 0,0:14:14.81,0:14:18.82,Default,Kaede,0,0,0,,And, dear, even if she's \Ntoo slippery to grab,
+Dialogue: 0,0:14:18.82,0:14:23.50,Default,Kaede,0,0,0,,you can always grab some pliers and \Nuse them to hit her or rip off her skin.
+Dialogue: 0,0:14:24.12,0:14:27.86,Default,Kaede,0,0,0,,You're capable of clever things, \Nbut you never stop to think about how.
+Dialogue: 0,0:14:27.86,0:14:29.90,Default,Kaede,0,0,0,,That's not very smart.
+Dialogue: 0,0:14:30.27,0:14:33.98,Default,Waniguchi,0,0,0,,Don't you make fun of me, too!
+Dialogue: 0,0:14:35.65,0:14:37.13,Default,Kaede,0,0,0,,There, there.
+Dialogue: 0,0:14:37.13,0:14:38.59,Default,Kinuhata,0,0,0,,You don't seem very worried.
+Dialogue: 0,0:14:38.59,0:14:43.65,Default,Kinuhata,0,0,0,,You think you can ultra-handle the two \Nof us while babysitting that idiot?
+Dialogue: 0,0:14:44.51,0:14:48.66,Default,Kinuhata,0,0,0,,I'm ultra-praying that \Nyou're not as stupid as she is.
+Dialogue: 0,0:14:49.07,0:14:50.91,Default,Kaede,0,0,0,,You do make a good point.
+Dialogue: 0,0:14:52.30,0:14:54.49,Default,Kaede,0,0,0,,But we'll still be the ones to win.
+Dialogue: 0,0:14:54.49,0:14:56.46,Default,Kaede,0,0,0,,Can I fight while protecting the weak?
+Dialogue: 0,0:14:56.46,0:14:58.58,Default,Kaede,0,0,0,,Can I beat you two-against-one?
+Dialogue: 0,0:14:58.58,0:15:00.82,Default,Kaede,0,0,0,,Yes, of course I can.
+Dialogue: 0,0:15:00.82,0:15:03.83,Default,Kaede,0,0,0,,If you're strong, you can overcome \Nanything, no matter how unfair.
+Dialogue: 0,0:15:03.83,0:15:06.34,Default,Kaede,0,0,0,,You're weak, so maybe you don't know that.
+Dialogue: 0,0:15:06.81,0:15:08.30,Default,Kaede,0,0,0,,Now, dear.
+Dialogue: 0,0:15:08.30,0:15:11.22,Default,Kaede,0,0,0,,I'll put on a special show for you.
+Dialogue: 0,0:15:11.22,0:15:15.52,Default,Kaede,0,0,0,,It's time for the Dark Side's Bane, \NAcademy City's #6, to reveal
+Dialogue: 0,0:15:15.94,0:15:18.45,Default,Kaede,0,0,0,,what she can really do.
+Dialogue: 0,0:15:15.94,0:15:18.98,Signs,Sign,0,0,0,,#7 ITEM VS ITEM
+Dialogue: 0,0:15:32.97,0:15:35.09,DefaultItalics,Mugino,0,0,0,,She's ignoring the air \Nresistance entirely?
+Dialogue: 0,0:15:35.09,0:15:38.05,DefaultItalics,Mugino,0,0,0,,Her bare skin would've been \Nburnt to a crisp by the friction.
+Dialogue: 0,0:15:38.05,0:15:39.42,DefaultItalics,Mugino,0,0,0,,Is it that gel?
+Dialogue: 0,0:15:42.06,0:15:43.45,Default,Mugino,0,0,0,,What are you, Spider-Bitch?
+Dialogue: 0,0:15:43.45,0:15:44.88,DefaultItalics,Hanayama,0,0,0,,Got it in one.
+Dialogue: 0,0:15:48.79,0:15:53.57,DefaultItalics,Hanayama,0,0,0,,These anti-tank blades are made from \Ndepleted uranium, atomic number 92!
+Dialogue: 0,0:15:54.52,0:15:56.89,DefaultItalics,Hanayama,0,0,0,,They'll cut you up \Nbefore you even realize it!
+Dialogue: 0,0:15:57.32,0:16:00.48,DefaultItalics,Hanayama,0,0,0,,Now, become a good little \Nlimbless torso for me!
+Dialogue: 0,0:16:08.15,0:16:09.54,DefaultItalics,Hanayama,0,0,0,,Oh, she saw it coming?
+Dialogue: 0,0:16:09.54,0:16:12.33,DefaultItalics,Hanayama,0,0,0,,And here I said I'd kill her \Nbefore she realized it.
+Dialogue: 0,0:16:18.04,0:16:19.00,Default,Mugino,0,0,0,,Wires?
+Dialogue: 0,0:16:19.65,0:16:22.97,DefaultItalics,Hanayama,0,0,0,,That's right, I'm your friendly \Nneighborhood Spider-Bitch.
+Dialogue: 0,0:16:22.97,0:16:24.58,DefaultItalics,Hanayama,0,0,0,,I won't let you land.
+Dialogue: 0,0:16:24.58,0:16:27.63,DefaultItalics,Hanayama,0,0,0,,I'll weave a web out of \Ndeadly wires to catch you.
+Dialogue: 0,0:16:34.10,0:16:34.64,Default,Mugino,0,0,0,,Damn it!
+Dialogue: 0,0:16:36.43,0:16:39.20,DefaultItalics,Hanayama,0,0,0,,You can stay airborne for a while,
+Dialogue: 0,0:16:39.20,0:16:42.38,DefaultItalics,Hanayama,0,0,0,,but eventually all the rubble will fall, \Nand you'll lose your footholds.
+Dialogue: 0,0:16:42.38,0:16:44.57,DefaultItalics,Hanayama,0,0,0,,You can't stay in the air forever.
+Dialogue: 0,0:16:44.57,0:16:50.24,DefaultItalics,Hanayama,0,0,0,,Enjoy getting chopped into pieces\Nwhile you curse your own weight!
+Dialogue: 0,0:16:54.62,0:16:57.16,DefaultItalics,Hanayama,0,0,0,,You can't hit me by shooting randomly.
+Dialogue: 0,0:16:57.16,0:16:59.14,DefaultItalics,Hanayama,0,0,0,,Bye-bye, Level 5.
+Dialogue: 0,0:16:59.14,0:17:02.38,DefaultItalics,Hanayama,0,0,0,,From now on, the name "ITEM" is ours!
+Dialogue: 0,0:17:05.42,0:17:06.76,DefaultItalics,Hanayama,0,0,0,,What?
+Dialogue: 0,0:17:08.51,0:17:10.47,DefaultItalics,Mugino,0,0,0,,Maybe you're fast.
+Dialogue: 0,0:17:10.47,0:17:13.51,DefaultItalics,Mugino,0,0,0,,Maybe I can't hit you directly.
+Dialogue: 0,0:17:14.34,0:17:17.22,DefaultItalics,Mugino,0,0,0,,But if I blow up the road, \Nyou're screwed, aren't you,
+Dialogue: 0,0:17:17.22,0:17:18.81,DefaultItalics,Mugino,0,0,0,,Racer Girl?
+Dialogue: 0,0:17:20.15,0:17:22.36,DefaultItalics,Hanayama,0,0,0,,The structure itself can't take the hits?
+Dialogue: 0,0:17:22.36,0:17:25.19,DefaultItalics,Hanayama,0,0,0,,Those attacks weren't aimed at me?
+Dialogue: 0,0:17:25.98,0:17:27.36,DefaultItalics,Hanayama,0,0,0,,Don't tell me...
+Dialogue: 0,0:17:33.20,0:17:36.91,DefaultItalics,Mugino,0,0,0,,It's easy to aim if I know \Nwhere you're going to be.
+Dialogue: 0,0:17:37.84,0:17:38.95,Default,Mugino,0,0,0,,Eat this!
+Dialogue: 0,0:17:50.48,0:17:53.44,Default,Mugino,0,0,0,,Now, back to work.
+Dialogue: 0,0:17:56.82,0:18:00.19,DefaultItalics,Mugino,0,0,0,,If I can station people from one of \Nour support orgs around the perimeter
+Dialogue: 0,0:18:00.19,0:18:02.85,DefaultItalics,Mugino,0,0,0,,and have 'em find\Nthe girl with the suitcase...
+Dialogue: 0,0:18:02.85,0:18:07.02,DefaultItalics,Mugino,0,0,0,,Then I just need to call Takitsubo \Nand register her AIM diffusion field.
+Dialogue: 0,0:18:08.77,0:18:12.33,Default,Mugino,0,0,0,,Hanano, did you get Takitsubo out safe?
+Dialogue: 0,0:18:12.33,0:18:14.79,Default,Mugino,0,0,0,,Have her take some ability crystal. \NI need her AIM Stalker.
+Dialogue: 0,0:18:14.79,0:18:16.02,DefaultItalics,Kaede,0,0,0,,Sorry, dear.
+Dialogue: 0,0:18:16.02,0:18:19.08,DefaultItalics,Kaede,0,0,0,,I have your mysterious \Nfifth member with me.
+Dialogue: 0,0:18:20.01,0:18:22.66,DefaultItalics,Kaede,0,0,0,,Please don't be upset with her.
+Dialogue: 0,0:18:22.99,0:18:25.56,Default,Kaede,0,0,0,,She was really scared,
+Dialogue: 0,0:18:25.56,0:18:28.84,Default,Kaede,0,0,0,,but she put her own body on the line \Nuntil the last minute
+Dialogue: 0,0:18:28.84,0:18:31.59,Default,Kaede,0,0,0,,to get Takitsubo to safety \Njust like you asked.
+Dialogue: 0,0:18:32.20,0:18:35.09,Default,Kaede,0,0,0,,You should praise her feeble efforts.
+Dialogue: 0,0:18:35.48,0:18:40.14,Default,Kaede,0,0,0,,If you don't want her now that \Nshe's screwed up, we'll take her.
+Dialogue: 0,0:18:41.19,0:18:42.76,Default,Mugino,0,0,0,,You...
+Dialogue: 0,0:18:45.61,0:18:47.65,Default,Kinuhata,0,0,0,,I'm ultra-sorry...
+Dialogue: 0,0:18:48.73,0:18:53.11,DefaultItalics,Kaede,0,0,0,,Just so we're clear, escaping from that \Nsituation at all earns high marks.
+Dialogue: 0,0:18:53.50,0:18:58.30,DefaultItalics,Kaede,0,0,0,,Well, it was bad table manners of me \Nto take so long to decide who to devour.
+Dialogue: 0,0:18:58.30,0:19:01.70,DefaultItalics,Kaede,0,0,0,,If I'd gone directly after you, \Nyou wouldn't have lasted a second.
+Dialogue: 0,0:19:02.72,0:19:06.62,DefaultItalics,Kaede,0,0,0,,I told you I'm the Dark Side's Bane, \Nright, dear?
+Dialogue: 0,0:19:06.62,0:19:10.08,Default,Kaede,0,0,0,,Why haven't you gotten it \Nthrough your thick skull?
+Dialogue: 0,0:19:10.08,0:19:14.10,Default,Kaede,0,0,0,,Getting rid of people \Nlike you lot is what I do.
+Dialogue: 0,0:19:14.10,0:19:18.17,Default,Kaede,0,0,0,,As long as you're here in the darkness, \Nyou can't beat me.
+Dialogue: 0,0:19:18.17,0:19:19.30,Default,Kaede,0,0,0,,Ever.
+Dialogue: 0,0:19:20.13,0:19:21.64,Default,Mugino,0,0,0,,Don't make me laugh.
+Dialogue: 0,0:19:22.23,0:19:25.66,Default,Mugino,0,0,0,,What, and you would have killed \Nyourselves instead if we were heroes
+Dialogue: 0,0:19:25.66,0:19:27.35,Default,Mugino,0,0,0,,or normal high school girls?
+Dialogue: 0,0:19:27.75,0:19:30.11,DefaultItalics,Kaede,0,0,0,,You know what I mean.
+Dialogue: 0,0:19:30.11,0:19:36.11,Default,Kaede,0,0,0,,No matter how many of you prey there are, \Nit's just more food for me to eat.
+Dialogue: 0,0:19:36.11,0:19:40.91,Default,Kaede,0,0,0,,I'm the Dark Side's Bane. Your feeble \Nclaws and fangs can't touch me.
+Dialogue: 0,0:19:40.91,0:19:44.12,Default,Kaede,0,0,0,,There are no deadlocks in the food chain.
+Dialogue: 0,0:19:44.91,0:19:48.63,Default,Kaede,0,0,0,,Just a clear pecking order.
+Dialogue: 0,0:19:49.59,0:19:54.05,DefaultItalics,Kaede,0,0,0,,We'll be able to keep \Nrunning the Colosseum.
+Dialogue: 0,0:19:54.05,0:19:57.70,DefaultItalics,Kaede,0,0,0,,We've got plenty of compromised insurance \Nexecutives, lots of other locations...
+Dialogue: 0,0:19:57.70,0:20:02.36,DefaultItalics,Kaede,0,0,0,,You should understand that all those \Nthings are easily replaceable.
+Dialogue: 0,0:20:02.84,0:20:06.94,DefaultItalics,Kaede,0,0,0,,The only actual loss we took was... Hmm...
+Dialogue: 0,0:20:06.94,0:20:12.43,DefaultItalics,Kaede,0,0,0,,If you're alive, then\NHanayama is dead, I take it?
+Dialogue: 0,0:20:13.02,0:20:14.30,Default,Kaede,0,0,0,,But, dear,
+Dialogue: 0,0:20:14.30,0:20:19.20,Default,Kaede,0,0,0,,if we can convince Hanano to join us, \Nit'll more than make up for that.
+Dialogue: 0,0:20:19.20,0:20:24.04,Default,Kaede,0,0,0,,She does have a cute face, and I really \Nwould like to add her to my collection.
+Dialogue: 0,0:20:24.36,0:20:29.79,Default,Kaede,0,0,0,,Violence, starvation, sleep deprivation, \Npain and itchiness, filth, fear...
+Dialogue: 0,0:20:30.14,0:20:34.80,Default,Kaede,0,0,0,,No matter what I have to do \Nto strip her will away from her body...
+Dialogue: 0,0:20:35.49,0:20:38.55,Default,Kaede,0,0,0,,If anything, I'll enjoy her \Ncute attempts at resistance.
+Dialogue: 0,0:20:41.23,0:20:44.35,DefaultItalics,Kaede,0,0,0,,A life for a life.
+Dialogue: 0,0:20:44.78,0:20:47.05,DefaultItalics,Kaede,0,0,0,,We want to keep conducting this business,
+Dialogue: 0,0:20:47.05,0:20:48.43,DefaultItalics,Kaede,0,0,0,,and you want to crush us.
+Dialogue: 0,0:20:49.11,0:20:51.22,DefaultItalics,Kaede,0,0,0,,The score's even, isn't it?
+Dialogue: 0,0:21:08.46,0:21:10.75,Default,Takitsubo,0,0,0,,Mugino, I'm sorry.
+Dialogue: 0,0:21:11.48,0:21:13.25,Default,Mugino,0,0,0,,It's not your fault.
+Dialogue: 0,0:21:13.25,0:21:15.21,Default,Mugino,0,0,0,,You did what I told you to, right?
+Dialogue: 0,0:21:15.58,0:21:18.20,Default,Takitsubo,0,0,0,,Then it's not your fault either.
+Dialogue: 0,0:21:18.48,0:21:21.18,Default,Takitsubo,0,0,0,,You thought the safest thing to do \Nwas to give me a goal
+Dialogue: 0,0:21:21.18,0:21:23.18,Default,Takitsubo,0,0,0,,and get me out of there, right?
+Dialogue: 0,0:21:40.07,0:21:42.43,DefaultItalics,Hanano,0,0,0,,I want to be a part of ITEM!
+Dialogue: 0,0:21:42.43,0:21:45.20,DefaultItalics,Hanano,0,0,0,,They took me in and gave me a chance.
+Dialogue: 0,0:21:45.20,0:21:48.32,DefaultItalics,Hanano,0,0,0,,Please let them need me for something!
+Dialogue: 0,0:21:47.62,0:21:49.33,Signs,Hanano,0,0,0,,-CHOUBI HANANO
+Dialogue: 0,0:21:50.64,0:21:52.67,Default,Mugino,0,0,0,,Bad timing.
+Dialogue: 0,0:21:53.47,0:21:54.42,Default,Takitsubo,0,0,0,,Mugino.
+Dialogue: 0,0:21:55.49,0:21:57.19,Default,Takitsubo,0,0,0,,It's not over yet.
+Dialogue: 0,0:21:57.76,0:22:02.09,Default,Takitsubo,0,0,0,,Let's save Hanano from that fake ITEM.
+Dialogue: 0,0:23:35.02,0:23:35.52,Signs,Sign,0,0,0,,A CERTAIN DARK ITEM
+Dialogue: 0,0:23:35.64,0:23:40.02,Signs,Takitsubo,0,0,0,,#8 PLAN
+
