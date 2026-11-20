@@ -1,0 +1,257 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Top Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.31,0:00:11.69,Default,Jubei,0,0,0,,You are saying you still don't know\N where Satoko is?
+Dialogue: 0,0:00:11.69,0:00:14.52,Default,Bodyguard 1,0,0,0,,Yes, sir. The investigation \Nis proving difficult.
+Dialogue: 0,0:00:15.95,0:00:19.21,Default,Jubei,0,0,0,,Satoko... Where can you have gone?
+Dialogue: 0,0:00:19.21,0:00:20.16,Default,Maid,0,0,0,,My lord.
+Dialogue: 0,0:00:21.14,0:00:22.90,Default,Maid,0,0,0,,You have a visitor.
+Dialogue: 0,0:00:23.28,0:00:24.54,Default,Nitobe,0,0,0,,Pardon the intrusion.
+Dialogue: 0,0:00:25.51,0:00:26.50,Default,Jubei,0,0,0,,And you are?
+Dialogue: 0,0:00:27.01,0:00:29.50,Default,Nitobe,0,0,0,,My name is Eishin Nitobe.
+Dialogue: 0,0:00:30.75,0:00:34.59,Default,Nitobe,0,0,0,,I have a message for you from Satoko.
+Dialogue: 0,0:00:40.77,0:00:42.27,Default,Sign,0,0,0,,{\fnGeorgia\b1\bord0\shad0\fs7\fax-0.76\fay0.12\fscx75\blur0.2\c&H575153&\pos(225.25,262)\frz25\frx4\fry354}Isekichi
+Dialogue: 0,0:00:41.28,0:00:42.27,Default,Aoi,0,0,0,,What?
+Dialogue: 0,0:00:42.27,0:00:44.06,Default,Aoi,0,0,0,,You're leaving the island tonight?
+Dialogue: 0,0:00:45.43,0:00:49.30,Default,Aoi,0,0,0,,It's too sudden. How will you manage it?
+Dialogue: 0,0:00:49.30,0:00:51.95,Default,Satoko,0,0,0,,We bribed a ship's captain.
+Dialogue: 0,0:00:51.95,0:00:55.07,Default,Satoko,0,0,0,,There are reasons why \NI must leave the island at once.
+Dialogue: 0,0:00:55.97,0:00:57.53,Default,Aoi,0,0,0,,You {\i1}will{\i0} come back, won't you?
+Dialogue: 0,0:01:01.39,0:01:07.43,Default,Aoi,0,0,0,,Work has been so much fun these\N past five days after you saved my life.
+Dialogue: 0,0:01:07.82,0:01:11.51,Default,Aoi,0,0,0,,Miss Yukari and the others \Nhave changed, too. I'm so grateful.
+Dialogue: 0,0:01:12.16,0:01:14.63,Default,Aoi,0,0,0,,We'll always be friends, won't we?
+Dialogue: 0,0:01:16.02,0:01:16.89,Default,Satoko,0,0,0,,Yes!
+Dialogue: 0,0:01:18.55,0:01:20.59,Default,Satoko,0,0,0,,We'll always be friends!
+Dialogue: 0,0:01:22.92,0:01:24.13,Default,Aoi,0,0,0,,Good.
+Dialogue: 0,0:01:39.06,0:01:41.08,Italics,Satoko {M},0,0,0,,It seemed like no time at all.
+Dialogue: 0,0:01:42.87,0:01:44.74,Italics,Satoko {M},0,0,0,,I wasn't here long,
+Dialogue: 0,0:01:45.45,0:01:46.96,Italics,Satoko {M},0,0,0,,but I'm grateful for this place.
+Dialogue: 0,0:03:25.28,0:03:28.97,Default,Sign,0,0,0,,{\an8\fnGeorgia\bord0\shad0\b1\blur5\fsp1.5\fs30\t(30,500,\blur0.2\fsp0)\fscx90\t(\fs28)\c&H54FFDC&\t(550,750,\c&H428656&)\t(765,840,\c&H6B2214&)\t(850,1100,\c&H000000&)\move(320,5,320,17)}Firefly Wedding
+Dialogue: 0,0:03:28.97,0:03:35.65,Default,Sign,0,0,0,,{\an9\bord0\shad0\b1\3a&H70&\blur0.2\fnGeorgia\fscx90\fs22\c&HFFFFFF&\pos(568,25)\3c&HDEDEFA&}A Devil and His Heart
+Dialogue: 0,0:03:40.39,0:03:43.51,Default,Satoko,0,0,0,,How long will the crossing take?
+Dialogue: 0,0:03:44.87,0:03:46.52,Default,Shinpei,0,0,0,,Maybe four or five hours?
+Dialogue: 0,0:03:46.52,0:03:49.56,Default,Satoko,0,0,0,,Gosh. That's quite a voyage.
+Dialogue: 0,0:03:50.39,0:03:53.04,Default,Satoko,0,0,0,,Then, we'll arrive at dawn, I suppose.
+Dialogue: 0,0:03:53.57,0:03:54.78,Default,Shinpei,0,0,0,,I guess so.
+Dialogue: 0,0:03:57.81,0:03:59.14,Italics,Satoko {M},0,0,0,,This is so awkward!
+Dialogue: 0,0:03:59.14,0:04:02.18,Italics,Satoko {M},0,0,0,,I need to say something.
+Dialogue: 0,0:04:02.81,0:04:05.45,Italics,Satoko {M},0,0,0,,But what should I say?
+Dialogue: 0,0:04:05.92,0:04:08.01,Italics,Satoko {M},0,0,0,,I mean, we're soon to part.
+Dialogue: 0,0:04:08.43,0:04:13.39,Italics,Satoko {M},0,0,0,,He said he'd abduct me \Nthe moment we reach the mainland,
+Dialogue: 0,0:04:13.39,0:04:15.17,Italics,Satoko {M},0,0,0,,but did he really mean that?
+Dialogue: 0,0:04:19.16,0:04:22.07,Italics,Satoko {M},0,0,0,,And he's acting oddly.
+Dialogue: 0,0:04:22.34,0:04:27.07,Italics,Satoko {M},0,0,0,,I've never known what he's thinking, \Nbut it's even harder to tell today.
+Dialogue: 0,0:04:27.57,0:04:31.47,Italics,Satoko {M},0,0,0,,In any case, I don't want to lie to him\N or mislead him any longer.
+Dialogue: 0,0:04:32.25,0:04:33.07,Default,Satoko,0,0,0,,Excuse me.
+Dialogue: 0,0:04:33.88,0:04:38.00,Default,Satoko,0,0,0,,I've been wondering. Could you \Nescort me to the Kirigaya estate?
+Dialogue: 0,0:04:38.39,0:04:40.75,Default,Satoko,0,0,0,,Please allow me to reward you properly.
+Dialogue: 0,0:04:41.58,0:04:43.76,Default,Satoko,0,0,0,,I can't marry you,
+Dialogue: 0,0:04:44.33,0:04:50.18,Default,Satoko,0,0,0,,but I don't like the idea of running \Nfrom you the moment we reach shore.
+Dialogue: 0,0:04:51.72,0:04:54.73,Default,Shinpei,0,0,0,,I... want to marry you.
+Dialogue: 0,0:04:55.86,0:04:56.73,Default,Shinpei,0,0,0,,But...
+Dialogue: 0,0:04:56.73,0:05:02.82,Default,Shinpei,0,0,0,,I don't like the idea of stopping you \Nfrom going home even though you want to,
+Dialogue: 0,0:05:03.06,0:05:06.70,Default,Shinpei,0,0,0,,so I've been thinking about what to do\N once we're across.
+Dialogue: 0,0:05:07.46,0:05:13.16,Default,Shinpei,0,0,0,,I love you, Satoko, \Nso I don't want you to be unhappy.
+Dialogue: 0,0:05:17.06,0:05:19.89,Default,Satoko,0,0,0,,So that's why you've seemed so awkward.
+Dialogue: 0,0:05:19.89,0:05:23.43,Default,Shinpei,0,0,0,,Awkward? I've been awkward?
+Dialogue: 0,0:05:23.43,0:05:26.72,Default,Satoko,0,0,0,,Still, we do have to decide what to do.
+Dialogue: 0,0:05:29.19,0:05:33.77,Default,Satoko,0,0,0,,I'm terribly sorry, \Nbut I can't change how I feel.
+Dialogue: 0,0:05:35.99,0:05:37.14,Default,Shinpei,0,0,0,,Neither can I.
+Dialogue: 0,0:05:37.14,0:05:41.65,Default,Shinpei,0,0,0,,Even if your idea of happiness \Nisn't marrying me,
+Dialogue: 0,0:05:42.05,0:05:45.64,Default,Shinpei,0,0,0,,I still want to marry you\N no matter what.
+Dialogue: 0,0:05:45.96,0:05:47.53,Default,Shinpei,0,0,0,,Who cares what anyone else thinks?
+Dialogue: 0,0:05:49.24,0:05:53.12,Default,Satoko,0,0,0,,Then, attain a social standing \Nmy father will approve of.
+Dialogue: 0,0:05:54.40,0:05:56.13,Default,Shinpei,0,0,0,,Could I, if I started now?
+Dialogue: 0,0:05:56.62,0:05:57.94,Default,Satoko,0,0,0,,It might be difficult.
+Dialogue: 0,0:05:57.94,0:06:00.54,Default,Shinpei,0,0,0,,Hey! You're making fun of me.
+Dialogue: 0,0:06:03.62,0:06:07.66,Default,Satoko,0,0,0,,If we'd met under different circumstances,
+Dialogue: 0,0:06:07.66,0:06:11.03,Default,Satoko,0,0,0,,perhaps we could have become friends \Nin a different way.
+Dialogue: 0,0:06:11.90,0:06:15.96,Default,Satoko,0,0,0,,I found you frightening at first,
+Dialogue: 0,0:06:15.96,0:06:18.73,Default,Satoko,0,0,0,,but I feel glad to have met you.
+Dialogue: 0,0:06:23.26,0:06:25.13,Default,Shinpei,0,0,0,,You sure are mature.
+Dialogue: 0,0:06:25.51,0:06:27.61,Default,Shinpei,0,0,0,,You're always soothing me.
+Dialogue: 0,0:06:27.61,0:06:33.53,Default,Shinpei,0,0,0,,In my life so far, this time with you\N is the most fun I've had.
+Dialogue: 0,0:06:53.64,0:06:56.32,Default,Shinpei,0,0,0,,It figures they'd sniff us out.
+Dialogue: 0,0:06:56.32,0:06:57.39,Default,Satoko,0,0,0,,What's that?
+Dialogue: 0,0:06:58.20,0:06:59.69,Default,Shinpei,0,0,0,,Pursuit from the island.
+Dialogue: 0,0:07:04.94,0:07:06.82,Default,Shinpei,0,0,0,,They're out for blood.
+Dialogue: 0,0:07:07.94,0:07:09.45,Default,Shinpei,0,0,0,,You lie low.
+Dialogue: 0,0:07:09.45,0:07:11.53,Default,Shinpei,0,0,0,,I'll go sink a few of them.
+Dialogue: 0,0:07:11.53,0:07:12.16,Default,Satoko,0,0,0,,What?
+Dialogue: 0,0:07:12.16,0:07:14.51,Default,Satoko,0,0,0,,You can't fight those numbers.
+Dialogue: 0,0:07:14.51,0:07:16.16,Default,Satoko,0,0,0,,We should try to outrun them.
+Dialogue: 0,0:07:17.29,0:07:19.23,Default,Shinpei,0,0,0,,You don't want me to die?
+Dialogue: 0,0:07:22.33,0:07:24.38,Default,Satoko,0,0,0,,I do not want you to die!
+Dialogue: 0,0:07:24.80,0:07:26.17,Default,Satoko,0,0,0,,Not one bit!
+Dialogue: 0,0:07:34.35,0:07:35.69,Default,Shinpei,0,0,0,,Don't worry.
+Dialogue: 0,0:07:36.64,0:07:38.52,Default,Shinpei,0,0,0,,I promise I won't die.
+Dialogue: 0,0:07:39.63,0:07:42.07,Default,Shinpei,0,0,0,,Sit tight. It'll be over in no time.
+Dialogue: 0,0:07:44.65,0:07:46.15,Default,Satoko,0,0,0,,Mr. Shinpei!
+Dialogue: 0,0:07:52.20,0:07:56.20,Default,Mitsueda,0,0,0,,I wasn't expecting you \Nto try and escape the island.
+Dialogue: 0,0:07:56.20,0:07:59.70,Default,Mitsueda,0,0,0,,You could have told me.
+Dialogue: 0,0:07:59.70,0:08:02.70,Default,Shinpei,0,0,0,,What's that? Would you \Nhave let us get away?
+Dialogue: 0,0:08:03.05,0:08:05.17,Default,Mitsueda,0,0,0,,I'd have killed you on the spot.
+Dialogue: 0,0:08:07.38,0:08:11.80,Default,Mitsueda,0,0,0,,Men! Don't let them get away\N from this island alive.
+Dialogue: 0,0:08:11.80,0:08:13.64,Default,Mitsueda,0,0,0,,Give 'em hell!
+Dialogue: 0,0:08:42.33,0:08:44.33,Default,Shinpei,0,0,0,,Is size all you've got?
+Dialogue: 0,0:08:54.13,0:08:55.57,Default,Goon F,0,0,0,,Hold your ground.
+Dialogue: 0,0:08:55.57,0:08:58.18,Default,Goon G,0,0,0,,I know, but still...
+Dialogue: 0,0:08:58.56,0:09:00.43,Default,Goon G,0,0,0,,That guy ain't human.
+Dialogue: 0,0:09:02.51,0:09:03.53,Default,Goon G,0,0,0,,He's a devil.
+Dialogue: 0,0:09:04.39,0:09:08.53,Default,Ozoe,0,0,0,,Hey, Goto! This is for my left arm!
+Dialogue: 0,0:09:10.86,0:09:12.40,Default,Shinpei,0,0,0,,Who're you again?
+Dialogue: 0,0:09:18.32,0:09:20.66,Default,Shinpei,0,0,0,,Clear out, Mr. Mitsueda.
+Dialogue: 0,0:09:21.02,0:09:24.66,Default,Shinpei,0,0,0,,You'll be out of a job \Nif you lose any more guys.
+Dialogue: 0,0:09:29.67,0:09:31.63,Default,Mitsueda,0,0,0,,Except I haven't lost any.
+Dialogue: 0,0:09:37.66,0:09:40.17,Italics,Satoko {M},0,0,0,,He hasn't killed a single one.
+Dialogue: 0,0:09:41.21,0:09:44.27,Flashback,Satoko {ep 4},0,0,0,,You mustn't kill people, \Nno matter who they are.
+Dialogue: 0,0:09:45.44,0:09:49.14,Italics,Satoko {M},0,0,0,,Is it because of what I said?
+Dialogue: 0,0:09:49.14,0:09:51.64,Default,Mitsueda,0,0,0,,That's not your style.
+Dialogue: 0,0:09:51.64,0:09:54.01,Default,Mitsueda,0,0,0,,What's gotten into you?
+Dialogue: 0,0:09:54.35,0:09:57.49,Default,Mitsueda,0,0,0,,Has that woman really tamed you?
+Dialogue: 0,0:09:57.78,0:10:00.91,Default,Mitsueda,0,0,0,,Listen. Come on back, Goto.
+Dialogue: 0,0:10:00.91,0:10:03.54,Default,Mitsueda,0,0,0,,What do you need to die for?
+Dialogue: 0,0:10:07.02,0:10:07.96,Default,Satoko,0,0,0,,Hey!
+Dialogue: 0,0:10:08.41,0:10:09.88,Default,Satoko,0,0,0,,Unhand me!
+Dialogue: 0,0:10:13.59,0:10:15.59,Default,Goon H,0,0,0,,That's enough trouble out of you!
+Dialogue: 0,0:10:15.59,0:10:17.26,Default,Goon I,0,0,0,,Hold still.
+Dialogue: 0,0:10:22.81,0:10:25.54,Default,Satoko,0,0,0,,Mr. Shinpei, \Nwe should run now while we can.
+Dialogue: 0,0:10:50.58,0:10:52.00,Default,Satoko,0,0,0,,Mr. Shinpei!
+Dialogue: 0,0:10:52.36,0:10:53.44,Default,Satoko,0,0,0,,No...
+Dialogue: 0,0:10:53.44,0:10:54.25,Default,Satoko,0,0,0,,Are you all right?
+Dialogue: 0,0:10:59.61,0:11:01.26,Default,Shinpei,0,0,0,,Hands off.
+Dialogue: 0,0:11:07.49,0:11:08.35,Default,Satoko,0,0,0,,Mr. Shinpei!
+Dialogue: 0,0:11:09.01,0:11:10.10,Default,Satoko,0,0,0,,Mr. Shinpei!
+Dialogue: 0,0:11:10.83,0:11:12.09,Default,Satoko,0,0,0,,Mr. Shinpei!
+Dialogue: 0,0:11:13.72,0:11:14.45,Default,Shinpei,0,0,0,,Sa...
+Dialogue: 0,0:11:16.01,0:11:18.16,Default,Shinpei,0,0,0,,Satoko...
+Dialogue: 0,0:11:20.36,0:11:21.20,Default,Satoko,0,0,0,,I'm here.
+Dialogue: 0,0:11:23.00,0:11:24.25,Default,Shinpei,0,0,0,,I'll...
+Dialogue: 0,0:11:26.12,0:11:29.41,Default,Shinpei,0,0,0,,I'll give you... my heart.
+Dialogue: 0,0:11:46.69,0:11:48.10,Default,Satoko,0,0,0,,Mr. Shinpei!
+Dialogue: 0,0:11:48.51,0:11:49.56,Default,Satoko,0,0,0,,Mr. Shinpei!
+Dialogue: 0,0:11:50.27,0:11:51.06,Default,Satoko,0,0,0,,Let me through!
+Dialogue: 0,0:11:53.46,0:11:56.06,Default,Satoko,0,0,0,,Remove your foot.
+Dialogue: 0,0:12:01.34,0:12:03.07,Default,Satoko,0,0,0,,Remove it.
+Dialogue: 0,0:12:03.90,0:12:05.28,Default,Satoko,0,0,0,,Take it away!
+Dialogue: 0,0:12:08.42,0:12:10.08,Default,Mitsueda,0,0,0,,That's enough, Shido.
+Dialogue: 0,0:12:11.29,0:12:12.58,Default,Satoko,0,0,0,,Mr. Shinpei...
+Dialogue: 0,0:12:12.84,0:12:14.58,Default,Satoko,0,0,0,,Mr. Shinpei...
+Dialogue: 0,0:12:14.58,0:12:19.05,Default,Mitsueda,0,0,0,,What's the matter, missy? \NWhat do you care if he dies?
+Dialogue: 0,0:12:22.95,0:12:24.89,Default,Mitsueda,0,0,0,,He's a goner now.
+Dialogue: 0,0:12:25.44,0:12:29.89,Default,Mitsueda,0,0,0,,We ought to put him \Nout of his misery quick.
+Dialogue: 0,0:12:54.93,0:12:56.88,Default,Shizukusa,0,0,0,,That bastard ran for it.
+Dialogue: 0,0:12:57.49,0:13:00.84,Default,Mitsueda,0,0,0,,Let him. With those wounds, \Nhe'll never make it back alive.
+Dialogue: 0,0:13:00.84,0:13:03.76,Default,Shizukusa,0,0,0,,But boss, you know how tough he—
+Dialogue: 0,0:13:03.76,0:13:05.51,Default,Mitsueda,0,0,0,,I said let him.
+Dialogue: 0,0:13:07.01,0:13:08.32,Default,Mitsueda,0,0,0,,Leave them be.
+Dialogue: 0,0:13:19.02,0:13:23.30,Default,Sign,0,0,0,,{\fad(0,1500)\fnGeorgia\fs18\bord0\shad0\b1\fscx90\c&HF7FAFC&\pos(558,170.86)}Firefly\NWedding
+Dialogue: 0,0:13:23.62,0:13:24.78,Default,Satoko,0,0,0,,Mr. Shinpei...
+Dialogue: 0,0:13:24.78,0:13:25.91,Default,Satoko,0,0,0,,Mr. Shinpei!
+Dialogue: 0,0:13:32.04,0:13:33.45,Italics,Satoko {M},0,0,0,,No...
+Dialogue: 0,0:13:34.03,0:13:35.54,Italics,Satoko {M},0,0,0,,Could he already be...
+Dialogue: 0,0:13:35.84,0:13:37.75,Italics,Satoko {M},0,0,0,,Stop. Calm down.
+Dialogue: 0,0:13:38.10,0:13:40.17,Italics,Satoko {M},0,0,0,,He's fine. He'll be fine.
+Dialogue: 0,0:13:40.63,0:13:43.16,Italics,Satoko {M},0,0,0,,For the moment, \NI need to get the water out of him.
+Dialogue: 0,0:13:43.16,0:13:46.62,Italics,Satoko {M},0,0,0,,My doctors mentioned a way to...
+Dialogue: 0,0:13:53.93,0:13:56.37,Italics,Satoko {M},0,0,0,,Please. Wake up.
+Dialogue: 0,0:14:00.23,0:14:01.64,Default,Satoko,0,0,0,,Mr. Shinpei!
+Dialogue: 0,0:14:05.57,0:14:06.94,Italics,Satoko {M},0,0,0,,Stop!
+Dialogue: 0,0:14:08.29,0:14:11.09,Italics,Satoko {M},0,0,0,,Stop! Stop! Stop!
+Dialogue: 0,0:14:11.09,0:14:12.41,Default,Aoi,0,0,0,,Satoko!
+Dialogue: 0,0:14:15.72,0:14:16.77,Default,Satoko,0,0,0,,Miss Aoi?
+Dialogue: 0,0:14:21.07,0:14:22.71,Default,Tamaki,0,0,0,,He's in bad shape.
+Dialogue: 0,0:14:22.71,0:14:25.18,Default,Tamaki,0,0,0,,The cut in his back is deep.
+Dialogue: 0,0:14:25.71,0:14:29.61,Default,Tamaki,0,0,0,,Luckily, I don't think the cut \Nto his belly nicked any organs,
+Dialogue: 0,0:14:29.61,0:14:33.72,Default,Tamaki,0,0,0,,but he's got so many broken bones, \Nit's a wonder he's still alive.
+Dialogue: 0,0:14:35.11,0:14:38.48,Default,Tamaki,0,0,0,,Honestly. How'd he end up\N in this sorry state?
+Dialogue: 0,0:14:43.84,0:14:45.75,Default,Tamaki,0,0,0,,On top of everything, he's cold.
+Dialogue: 0,0:14:45.75,0:14:49.07,Default,Tamaki,0,0,0,,As things stand, \NI'd wager he won't make it.
+Dialogue: 0,0:14:52.49,0:14:54.25,Default,Tamaki,0,0,0,,I'll be back to check up on him.
+Dialogue: 0,0:14:56.06,0:14:57.75,Default,Tamaki,0,0,0,,What do you all think you're doing?
+Dialogue: 0,0:14:57.75,0:14:59.43,Default,Tamaki,0,0,0,,Go get yourselves ready.
+Dialogue: 0,0:14:59.43,0:15:00.72,Default,Aoi,0,0,0,,Satoko.
+Dialogue: 0,0:15:01.51,0:15:06.47,Default,Satoko,0,0,0,,Miss Aoi, thank you so much\N for coming to see us.
+Dialogue: 0,0:15:06.47,0:15:10.52,Default,Aoi,0,0,0,,Don't thank me. I just felt lonesome \Nand thought I'd see you off.
+Dialogue: 0,0:15:16.08,0:15:18.81,Default,Aoi,0,0,0,,Satoko. Have faith and wait.
+Dialogue: 0,0:15:18.81,0:15:21.72,Default,Aoi,0,0,0,,I know Mr. Shinpei will pull through.
+Dialogue: 0,0:15:21.72,0:15:24.19,Default,Aoi,0,0,0,,He got badly hurt not long ago,
+Dialogue: 0,0:15:24.19,0:15:26.53,Default,Aoi,0,0,0,,and he was back on his feet \Nso quick you wouldn't...
+Dialogue: 0,0:15:52.80,0:15:55.30,Default,Sign,0,0,0,,{\fnGeorgia\b1\bord0\shad0\fs7\fax-0.76\fay0.12\fscx75\blur0.2\c&H575153&\pos(225.25,262)\frz25\frx4\fry354}Isekichi
+Dialogue: 0,0:15:53.88,0:15:55.30,Default,Yukari,0,0,0,,Hey, new girl.
+Dialogue: 0,0:15:55.30,0:15:57.81,Default,Yukari,0,0,0,,Has Mr. Shinpei woken up?
+Dialogue: 0,0:16:02.20,0:16:04.27,Default,Satoko,0,0,0,,No. Not yet.
+Dialogue: 0,0:16:04.53,0:16:07.16,Default,Yukari,0,0,0,,This is the seventh day. How is he?
+Dialogue: 0,0:16:07.84,0:16:09.03,Default,Satoko,0,0,0,,The same as ever.
+Dialogue: 0,0:16:09.47,0:16:11.65,Default,Yukari,0,0,0,,I'll take a turn watching him.
+Dialogue: 0,0:16:11.65,0:16:16.97,Default,Yukari,0,0,0,,Go take a nap. \NI'm a better nurse than you, anyway.
+Dialogue: 0,0:16:18.67,0:16:20.80,Default,Satoko,0,0,0,,I appreciate your concern,
+Dialogue: 0,0:16:21.56,0:16:23.26,Default,Satoko,0,0,0,,but I'd like to stay with him.
+Dialogue: 0,0:16:26.57,0:16:28.17,Default,Hatsune,0,0,0,,She's as white as a sheet.
+Dialogue: 0,0:16:28.17,0:16:30.90,Default,Hatsune,0,0,0,,Hard to tell which of them\Nis at death's door.
+Dialogue: 0,0:16:30.90,0:16:33.03,Default,Yukari,0,0,0,,Damn it. She's no fun.
+Dialogue: 0,0:16:33.03,0:16:35.43,Default,Yukari,0,0,0,,Lose your head a little, why don't you?
+Dialogue: 0,0:16:36.81,0:16:39.13,Default,Yukari,0,0,0,,When your time comes, that's it.
+Dialogue: 0,0:16:39.58,0:16:41.47,Default,Yukari,0,0,0,,People break easily.
+Dialogue: 0,0:17:33.32,0:17:34.50,Flashback,Shinpei {ep 4},0,0,0,,Guess what?
+Dialogue: 0,0:17:34.50,0:17:37.60,Flashback,Shinpei {ep 4},0,0,0,,It turns out we can get on a ship \Nand leave the island safely.
+Dialogue: 0,0:17:37.60,0:17:38.51,Flashback,Shinpei {ep 4},0,0,0,,Hey, I know.
+Dialogue: 0,0:17:38.51,0:17:42.61,Flashback,Shinpei {ep 4},0,0,0,,Once we get away, let's build a house \Nwhere fireflies show up every year.
+Dialogue: 0,0:17:42.95,0:17:46.24,Flashback,Shinpei {ep 4},0,0,0,,That hurts. I'm bleeding.
+Dialogue: 0,0:17:46.24,0:17:50.23,Flashback,Shinpei {ep 4},0,0,0,,Compared to mine, \Nyours isn't worth worrying about.
+Dialogue: 0,0:17:50.23,0:17:53.35,Flashback,Shinpei {ep 2},0,0,0,,This heart of mine belongs to you now.
+Dialogue: 0,0:17:54.03,0:17:55.95,Flashback,Shinpei {ep 7},0,0,0,,I promise I won't die.
+Dialogue: 0,0:17:56.47,0:17:59.03,Flashback,Shinpei {ep 3; truncated},0,0,0,,Keeping you safe isn't his job. It's mine.
+Dialogue: 0,0:18:00.36,0:18:04.14,Flashback,Shinpei {ep 4},0,0,0,,No matter where we go, Satoko,\N I'll set you free.
+Dialogue: 0,0:18:51.88,0:18:53.21,Default,Shinpei,0,0,0,,Heaven?
+Dialogue: 0,0:19:03.65,0:19:04.91,Default,Shinpei,0,0,0,,Satoko.
+Dialogue: 0,0:19:07.91,0:19:09.00,Default,Shinpei,0,0,0,,Are you hurt?
+Dialogue: 0,0:19:09.00,0:19:11.92,Default,Satoko,0,0,0,,Don't try to get up! I'm perfectly fine.
+Dialogue: 0,0:19:11.92,0:19:13.54,Default,Satoko,0,0,0,,Wait here. I'll fetch someone—
+Dialogue: 0,0:19:17.13,0:19:18.04,Default,Shinpei,0,0,0,,Sorry.
+Dialogue: 0,0:19:18.55,0:19:20.72,Default,Shinpei,0,0,0,,I'll do better next time.
+Dialogue: 0,0:19:21.96,0:19:27.04,Default,Shinpei,0,0,0,,One side of my body's \Nfelt warm this whole time.
+Dialogue: 0,0:19:28.31,0:19:31.13,Default,Shinpei,0,0,0,,You warmed me up, didn't you?
+Dialogue: 0,0:19:32.19,0:19:33.33,Default,Shinpei,0,0,0,,I'm glad.
+Dialogue: 0,0:19:34.20,0:19:40.24,Default,Shinpei,0,0,0,,With you lying beside me like that, \Ndying might not have been so bad.
+Dialogue: 0,0:19:47.13,0:19:49.00,Default,Shinpei,0,0,0,,Sorry? Did you say something?
+Dialogue: 0,0:19:50.49,0:19:53.33,Default,Satoko,0,0,0,,I don't need your heart!
+Dialogue: 0,0:19:54.43,0:19:57.84,Default,Satoko,0,0,0,,What do you mean\N"dying might not have been so bad"?
+Dialogue: 0,0:19:57.84,0:20:02.81,Default,Satoko,0,0,0,,I can't stand those jokes of yours.\N It's tempting fate.
+Dialogue: 0,0:20:12.60,0:20:17.79,Default,Satoko,0,0,0,,You promised you wouldn't die.\NAnd I believed you.
+Dialogue: 0,0:20:18.17,0:20:21.03,Default,Satoko,0,0,0,,But everyone said \Nyou might never wake up.
+Dialogue: 0,0:20:21.66,0:20:24.65,Default,Satoko,0,0,0,,And I was so frightened...
+Dialogue: 0,0:20:40.95,0:20:43.41,Default,Satoko,0,0,0,,W-Wait a... Mr. Shinpei!
+Dialogue: 0,0:20:43.41,0:20:44.72,Default,Satoko,0,0,0,,What are you...
+Dialogue: 0,0:20:46.90,0:20:49.31,Default,Satoko,0,0,0,,Stop. This isn't the time.
+Dialogue: 0,0:20:49.61,0:20:52.83,Default,Satoko,0,0,0,,M-Mr. Shinpei, please...
+Dialogue: 0,0:21:05.73,0:21:06.45,Default,Yukari,0,0,0,,What's wrong?!
+Dialogue: 0,0:21:06.45,0:21:08.18,Default,Yukari,0,0,0,,Don't tell me Mr. Shinpei is...
+Dialogue: 0,0:21:09.14,0:21:12.54,Default,Satoko,0,0,0,,U-Um, th-this isn't...
+Dialogue: 0,0:21:13.58,0:21:15.71,Default,Tamaki,0,0,0,,What do you know? There's life in him yet.
+Dialogue: 0,0:21:15.71,0:21:19.04,Default,Yukari,0,0,0,,Y-You... You...
+Dialogue: 0,0:21:19.04,0:21:21.88,Default,Yukari,0,0,0,,You little vixen!
+Dialogue: 0,0:21:21.88,0:21:25.05,Default,Satoko,0,0,0,,What?!
+Dialogue: 0,0:22:50.93,0:22:55.25,Default,Sign,0,0,0,,{\fnTimes New Roman\bord2\fs16\shad0\blur0.2\pos(320,330)\c&H494B5F&\3c&HC8C3ED&}Produced by the Firefly Wedding Anime Production Committee
+
