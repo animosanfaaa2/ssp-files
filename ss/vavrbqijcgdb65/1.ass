@@ -1,0 +1,457 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Narration - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Sign_Basic,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Ep_Title,Trebuchet MS,25,&H0039CF4D,&H000000FF,&H0090F5DA,&H00000000,0,0,0,0,120,120,0,0,1,1.5,0,8,10,10,200,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:16.80,0:00:19.93,Sign_Basic,text,0,0,0,,{\fad(125,325)\c&H1C68D0&\fnArial\b1\fs40\bord0\shad0\t(2680,2845,1\c&HFFFFFF&)}2{\c&H2E8ADB&\t(2680,2845,1\c&HFFFFFF&)}0{\c&H3FACE5&\t(2680,2845,1\c&HFFFFFF&)}X{\c&H51CEF0&\t(2680,2845,1\c&HFFFFFF&)}X{\c&H62F0FA&\t(2680,2845,1\c&HFFFFFF&)} {\c&H51CEF0&\t(2680,2845,1\c&HFFFFFF&)}A{\c&H3FACE5&\t(2680,2845,1\c&HFFFFFF&)}.{\c&H2E8ADB&\t(2680,2845,1\c&HFFFFFF&)}D{\c&H1C68D0&\t(2680,2845,1\c&HFFFFFF&)}.
+Dialogue: 0,0:00:17.51,0:00:20.70,Narration,Narrator,0,0,0,,The year is 20XX A.D.
+Dialogue: 0,0:00:21.41,0:00:23.12,Narration,Narrator,0,0,0,,When mysterious \Nextraterrestrial lifeforms
+Dialogue: 0,0:00:23.12,0:00:25.08,Narration,Narrator,0,0,0,,appeared in the Earth's atmosphere,
+Dialogue: 0,0:00:26.88,0:00:31.84,Narration,Narrator,0,0,0,,we humans were forced to face \Nan unprecedented threat.
+Dialogue: 0,0:00:42.45,0:00:49.86,Sign_Basic,text,0,0,0,,{\an5\fnArial\b1\shad0\c&H47A446&\3c&H81DC91&\bord1.5}gero gero gero gero
+Dialogue: 0,0:00:42.45,0:00:49.86,Sign_Basic,text,0,0,0,,{\an9\fad(500,1)\fnArial\b1\shad0\c&H4417AB&\3c&H8B69D5&\bord1.5}giro giro giro giro
+Dialogue: 0,0:00:42.45,0:00:49.86,Sign_Basic,text,0,0,0,,{\an7\fad(500,1)\fnArial\b1\shad0\c&HBA8A72&\3c&HE4DCB0&\bord1.5}doro doro doro doro
+Dialogue: 0,0:00:42.45,0:00:49.86,Sign_Basic,text,0,0,0,,{\an3\fad(500,1)\fnArial\b1\shad0\c&H92395C&\3c&HEBA0B1&\bord1.5}tama tama tama tama
+Dialogue: 0,0:00:42.45,0:00:49.86,Sign_Basic,text,0,0,0,,{\an1\fad(500,1)\fnArial\b1\shad0\c&H64CCE6&\3c&H62D7EC&\bord1.5}kulu kulu kulu kulu
+Dialogue: 0,0:01:03.96,0:01:09.89,Sign_Basic,text,0,0,0,,{\fad(950,175)\fnArial\b1\fs30\c&H2EFFF3&\3c&H54C509&\shad0}Keroro ☆
+Dialogue: 0,0:01:10.51,0:01:17.35,Sign_Basic,text,0,0,0,,{\fad(550,0)\fnArial\b1\fs30\c&H2EFFF3&\3c&H54C509&\shad0}Keroro ☆
+Dialogue: 0,0:02:24.39,0:02:26.44,Main,Keroro,0,0,0,,Gero, gero gero gero!
+Dialogue: 0,0:02:24.83,0:02:26.83,Sign_Basic,text,0,0,0,,{\pos(336,214)\frz54.48\an2\fs16\b1\fnArial\c&HD8C7A0&\3c&H7B7A7B&\4c&HCFF6FE&\shad2}Potato
+Dialogue: 0,0:02:24.83,0:02:26.83,Sign_Basic,text,0,0,0,,{\pos(402.667,248.667)\an2\frz56.75\fs16\b1\c&H0E2F7B&\3c&H8BDCF8&\shad0}Yummy
+Dialogue: 0,0:02:26.83,0:02:30.81,Main,Natsumi,0,0,0,,Have you seen the music teacher \NSuzuki-sensei's hairdo?
+Dialogue: 0,0:02:31.51,0:02:34.04,Main,Natsumi,0,0,0,,He says he did it 'cause he admires Bach!
+Dialogue: 0,0:02:35.11,0:02:38.46,Main,Fuyuki,0,0,0,,I thought it was just a botched perm!
+Dialogue: 0,0:02:38.46,0:02:41.77,Main,Keroro,0,0,0,,For reals? That's, like, hilarious!
+Dialogue: 0,0:02:41.77,0:02:42.73,Main,Keroro,0,0,0,,Ooh!
+Dialogue: 0,0:02:45.10,0:02:47.86,Main,Keroro,0,0,0,,Ouch!
+Dialogue: 0,0:02:49.16,0:02:51.61,Main,Fuyuki,0,0,0,,Sergeant? What's the matter?
+Dialogue: 0,0:02:52.80,0:02:53.90,Main,Natsumi,0,0,0,,Huh?
+Dialogue: 0,0:02:58.90,0:03:01.12,Main,Giroro,0,0,0,,This case is under our jurisdiction now!
+Dialogue: 0,0:03:02.33,0:03:05.78,Main,Tamama,0,0,0,,Please keep your distance, \Neveryone. He isn't safe!
+Dialogue: 0,0:03:05.78,0:03:09.84,Main,Keroro,0,0,0,,Wh-What do you guys think you're \Ndoing? I'm perfectly fine!
+Dialogue: 0,0:03:11.66,0:03:14.50,Main,Kululu,0,0,0,,Ku, ku ku ku ku!
+Dialogue: 0,0:03:14.50,0:03:17.02,Main,Kululu,0,0,0,,Lower right second molar, C-1.
+Dialogue: 0,0:03:17.02,0:03:19.51,Main,Kululu,0,0,0,,Lower right third molar, C-2.
+Dialogue: 0,0:03:19.86,0:03:24.52,Main,Kululu,0,0,0,,Lower left third molar, C-4. \NYeah, that's the one.
+Dialogue: 0,0:03:24.52,0:03:27.73,Main,Giroro,0,0,0,,Confirmed at fifteen thirty hours.
+Dialogue: 0,0:03:27.99,0:03:29.45,Main,Giroro,0,0,0,,All units on operational standby!
+Dialogue: 0,0:03:30.00,0:03:30.77,Main,Kululu,0,0,0,,Roger.
+Dialogue: 0,0:03:30.77,0:03:31.76,Main,Tamama,0,0,0,,I've waited for this!
+Dialogue: 0,0:03:31.76,0:03:38.49,Main,Keroro,0,0,0,,Hot eet! Et eeh ooh! Et oht aht ahh eeh!
+Dialogue: 0,0:03:38.74,0:03:44.50,Ep_Title,text,0,0,0,,{\fad(875,0)\b1\c&HFFFFFF&\3c&H000000&\pos(320,40)}Is It a {\c&HFB93E0&\3c&HA51072&}Cavity{\c&HFFFFFF&\3c&H000000&}?\NNo, It's {\c&HFB93E0&\3c&HA51072&}the Caries War
+Dialogue: 0,0:03:38.75,0:03:42.33,Main,Keroro,0,0,0,,"Is it a Cavity? No, It's the Caries War"
+Dialogue: 0,0:03:42.33,0:03:43.45,Main,Keroro,0,0,0,,Yes sir!
+Dialogue: 0,0:03:45.51,0:03:47.50,Sign_Basic,text,0,0,0,,{\fad(975,0)\an8\b1\fs30\c&HE8EDEE&\3c&H76B0B8&\shad0\pos(320,5)}Cavity
+Dialogue: 0,0:03:45.18,0:03:47.50,Main,Fuyuki,0,0,0,,Does that mean he has a cavity?
+Dialogue: 0,0:03:47.83,0:03:50.14,Main,Giroro,0,0,0,,That's what they may be called on Pekopon,
+Dialogue: 0,0:03:50.14,0:03:53.04,Main,Giroro,0,0,0,,but on our world, we call them Caries War.
+Dialogue: 0,0:03:53.04,0:03:55.13,Main,Giroro,0,0,0,,They're classified as \Na level one emergency.
+Dialogue: 0,0:03:55.46,0:03:57.38,Main,Fuyuki,0,0,0,,It's not that big a deal, though.
+Dialogue: 0,0:03:57.38,0:03:58.91,Main,Giroro,0,0,0,,Not a big deal?
+Dialogue: 0,0:03:59.40,0:04:00.84,Main,Fuyuki,0,0,0,,Why not just see a dentist?
+Dialogue: 0,0:04:00.84,0:04:01.35,Main,Giroro,0,0,0,,Hmph!
+Dialogue: 0,0:04:01.44,0:04:04.20,Sign_Basic,text,0,0,0,,{\fad(975,0)\an8\b1\fs30\c&HE8EDEE&\3c&H76B0B8&\shad0\pos(320,5)}Cavity
+Dialogue: 0,0:04:01.59,0:04:05.86,Main,Giroro,0,0,0,,Well, what if that so-called cavity was \Nactually a highly advanced lifeform?
+Dialogue: 0,0:04:05.86,0:04:06.75,Main,Giroro,0,0,0,,What then?
+Dialogue: 0,0:04:07.64,0:04:12.91,Main,Giroro,0,0,0,,Since some invasive space alien species \Ncan reach over ten kilometers in length,
+Dialogue: 0,0:04:13.35,0:04:17.09,Main,Giroro,0,0,0,,it should stand to reason that \Nthere would also be species so tiny
+Dialogue: 0,0:04:17.09,0:04:19.07,Main,Giroro,0,0,0,,that they're measured in microns.
+Dialogue: 0,0:04:20.53,0:04:22.99,Sign_Basic,text,0,0,0,,{\an8\fnArial\b1\pos(110,41.34)\frz352.8\frx8\fry0\c&H744536&\3c&HD1EDF8&\shad0}O\Nc\Nc\Nu\Nl\Nt\N\NM\Ne\Nt\Ne\Nr
+Dialogue: 0,0:04:21.24,0:04:22.99,Main,Fuyuki,0,0,0,,Yeah! Yeah!
+Dialogue: 0,0:04:22.99,0:04:25.20,Main,Giroro,0,0,0,,Our plan, therefore, must \Nbe to micronize our bodies
+Dialogue: 0,0:04:25.20,0:04:26.98,Main,Giroro,0,0,0,,and engage the enemy directly!
+Dialogue: 0,0:04:26.98,0:04:28.91,Main,Giroro,0,0,0,,This is how Keronian soldiers fight!
+Dialogue: 0,0:04:28.91,0:04:32.38,Sign_Basic,text,0,0,0,,{\an8\fnArial\b1\pos(110,41.34)\frz352.8\frx8\fry0\c&H744536&\3c&HD1EDF8&\shad0}O\Nc\Nc\Nu\Nl\Nt\N\NM\Ne\Nt\Ne\Nr
+Dialogue: 0,0:04:28.91,0:04:31.82,Main,Fuyuki,0,0,0,,Wow, oh wow! That's so cool!
+Dialogue: 0,0:04:32.50,0:04:35.96,Main,Fuyuki,0,0,0,,This is what space is all about! \NThis is total science fiction!
+Dialogue: 0,0:04:32.98,0:04:35.96,Sign_Basic,text,0,0,0,,{\fnArial\b1\an7\shad0\c&H9090D0&\bord1\3a&H60&}Occult {\c&H89D683&}Space\N{\c&H35CDE4&}Mystery {\c&H5609DE&}Science Fiction\N {\c&HC8736F&}Anthropic Principle\N{\c&HC0AC6F&}Infinite {\c&HD83752&}Adventure
+Dialogue: 0,0:04:36.20,0:04:36.95,Main,Fuyuki,0,0,0,,I want to—
+Dialogue: 0,0:04:36.95,0:04:37.82,Main,Natsumi,0,0,0,,Absolutely not!
+Dialogue: 0,0:04:38.49,0:04:41.07,Main,Natsumi,0,0,0,,You were going to say, \N"I want to go with!" Weren't you?
+Dialogue: 0,0:04:41.07,0:04:42.27,Main,Fuyuki,0,0,0,,But Sis...
+Dialogue: 0,0:04:42.27,0:04:46.05,Main,Natsumi,0,0,0,,If it's a cavity, they should just \Nget it fixed at the dentist's!
+Dialogue: 0,0:04:46.05,0:04:48.48,Main,Natsumi,0,0,0,,There's no way I'll let you \Nget mixed up in this, Fuyuki.
+Dialogue: 0,0:04:48.74,0:04:50.62,Main,Giroro,0,0,0,,We would never turn \Ndown a willing recruit.
+Dialogue: 0,0:04:51.12,0:04:53.18,Main,Giroro,0,0,0,,You can never have too \Nmany pieces on the board.
+Dialogue: 0,0:04:53.72,0:04:55.59,Main,Fuyuki,0,0,0,,So you'll let me go with you?
+Dialogue: 0,0:04:55.59,0:04:57.66,Main,Natsumi,0,0,0,,I said you're {\i1}not{\i0} going!
+Dialogue: 0,0:04:58.54,0:05:01.74,Main,Kululu,0,0,0,,The microid ray is standing by.
+Dialogue: 0,0:05:02.14,0:05:03.94,Main,Giroro,0,0,0,,Good! Let's move out, men!
+Dialogue: 0,0:05:03.94,0:05:05.28,Main,Fuyuki,0,0,0,,Yeah!
+Dialogue: 0,0:05:03.94,0:05:05.28,Main - Top,Natsumi,0,0,0,,Huh? Huh?
+Dialogue: 0,0:05:05.57,0:05:09.78,Main,Keroro,0,0,0,,Shucks. This sure stinks. \NI got the short end of the stick.
+Dialogue: 0,0:05:09.78,0:05:12.21,Main,Kululu,0,0,0,,We're about to fire the microid ray, man.
+Dialogue: 0,0:05:12.56,0:05:14.00,Main,Mois,0,0,0,,Firing now!
+Dialogue: 0,0:05:15.96,0:05:19.98,Main,Natsumi,0,0,0,,H-Hey, wait a minute! Fuyuki!
+Dialogue: 0,0:05:27.03,0:05:30.63,Main,Fuyuki,0,0,0,,Oh my gosh! We really did shrink!
+Dialogue: 0,0:05:30.63,0:05:35.76,Main,Keroro,0,0,0,,Co...man...der... Fu...yu...ki...
+Dialogue: 0,0:05:37.06,0:05:42.06,Main,Keroro,0,0,0,,please... be... safe... yes... sir!
+Dialogue: 0,0:05:42.06,0:05:44.08,Main,Fuyuki,0,0,0,,Yeah! We've got this!
+Dialogue: 0,0:05:44.08,0:05:44.70,Main,Giroro,0,0,0,,Hmm?
+Dialogue: 0,0:05:47.47,0:05:48.76,Main,Giroro,0,0,0,,Natsumi!
+Dialogue: 0,0:05:48.76,0:05:52.00,Main,Natsumi,0,0,0,,Oh, come on. Did you really think \NI'd let Fuyuki go without me?
+Dialogue: 0,0:05:52.00,0:05:55.38,Main,Giroro,0,0,0,,Y-You fool! We could get killed out there!
+Dialogue: 0,0:05:55.59,0:05:56.42,Main,Fuyuki,0,0,0,,What?
+Dialogue: 0,0:05:56.42,0:05:57.46,Main,Tamama,0,0,0,,Now you tell us.
+Dialogue: 0,0:05:57.81,0:06:01.07,Main,Natsumi,0,0,0,,If it's that bad, then whether they're \Ncavities or aliens or whatever,
+Dialogue: 0,0:06:01.07,0:06:03.51,Main,Natsumi,0,0,0,,the one and only Natsumi-sama \Nis gonna blast them to bits!
+Dialogue: 0,0:06:03.51,0:06:05.00,Main,Tamama,0,0,0,,Yay!
+Dialogue: 0,0:06:05.00,0:06:09.70,Narration,Narrator,0,0,0,,Oh dear. It looks like Natsumi-san \Nwas actually into the idea herself.
+Dialogue: 0,0:06:09.70,0:06:11.48,Main,Giroro,0,0,0,,Tsk. Suit yourself.
+Dialogue: 0,0:06:12.10,0:06:14.28,Main,Giroro,0,0,0,,They won't be able to kill you anyway.
+Dialogue: 0,0:06:14.28,0:06:16.23,Main,Natsumi,0,0,0,,Oh, now you trust me?
+Dialogue: 0,0:06:16.60,0:06:21.74,Italics,Giroro (M),0,0,0,,Because I am here for you. I will \Nprotect you no matter what it takes!
+Dialogue: 0,0:06:22.20,0:06:23.82,Main,Natsumi,0,0,0,,Okay, let's get going!
+Dialogue: 0,0:06:23.82,0:06:24.86,Main,Fuyuki,0,0,0,,Yeah!
+Dialogue: 0,0:06:23.82,0:06:24.86,Main - Top,Tamama,0,0,0,,Yeah!
+Dialogue: 0,0:06:26.37,0:06:27.85,Main,Tamama,0,0,0,,Blast off!
+Dialogue: 0,0:06:28.78,0:06:34.54,Main,Keroro,0,0,0,,Good... luck... yes... sir...
+Dialogue: 0,0:06:39.74,0:06:42.41,Main,Giroro,0,0,0,,Listen up. We'll hunt the \Nenemy down in two groups,
+Dialogue: 0,0:06:42.41,0:06:45.63,Main,Giroro,0,0,0,,wipe out any we contact, and then \Nmeet at the rendezvous point.
+Dialogue: 0,0:06:45.63,0:06:47.39,Main,Giroro,0,0,0,,Then we'll take down the enemy \Nstronghold in one fell swoop!
+Dialogue: 0,0:06:47.86,0:06:50.39,Main,Tamama,0,0,0,,Roger! Fukki, let's get going!
+Dialogue: 0,0:06:56.14,0:06:57.43,Main,Tamama,0,0,0,,Prepare for toothdown.
+Dialogue: 0,0:06:59.23,0:07:00.28,Main,Tamama,0,0,0,,Toothdown!
+Dialogue: 0,0:07:02.87,0:07:04.61,Narration - Top,Narrator,0,0,0,,These two form the Greenhorn Detachment.
+Dialogue: 0,0:07:02.62,0:07:04.61,Sign_Basic,text,0,0,0,,{\fad(500,0)\pos(340,230)\fnArial\b1\shad0\c&H357523&\3c&HE1E8E1&}Greenhorn Detachment
+Dialogue: 0,0:07:06.53,0:07:09.74,Main,Ura-Tamama,0,0,0,,I'm so pumped up, I almost can't stand it!
+Dialogue: 0,0:07:10.40,0:07:13.78,Main,Ura-Tamama,0,0,0,,This is my first real taste of combat \Nsince coming to Pekopon!
+Dialogue: 0,0:07:14.15,0:07:18.29,Main,Ura-Tamama,0,0,0,,Whoo-hoo! I'm itching so bad for a fight!
+Dialogue: 0,0:07:18.35,0:07:20.81,Sign_Basic,text,0,0,0,,{\fad(500,0)\pos(340,230)\fnArial\b1\shad0\c&H65382E&\3c&HEBEAE7&}Skull Detachment
+Dialogue: 0,0:07:18.29,0:07:20.36,Narration,Narrator,0,0,0,,These two are the Skull Detachment.
+Dialogue: 0,0:07:20.81,0:07:23.34,Main,Natsumi,0,0,0,,Wow, we're really inside his mouth.
+Dialogue: 0,0:07:23.34,0:07:26.31,Main,Keroro,0,0,0,,How's... it... go...
+Dialogue: 0,0:07:26.31,0:07:27.32,Main,Keroro,0,0,0,,...ing?
+Dialogue: 0,0:07:27.32,0:07:29.07,Sign_Basic,text,0,0,0,,{\fad(500,0)\pos(340,230)\fnArial\b1\shad0\c&H3F136B&\3c&HE1E8E1&}Delta One
+Dialogue: 0,0:07:27.32,0:07:28.78,Narration,Narrator,0,0,0,,And here we have Delta One.
+Dialogue: 0,0:07:28.78,0:07:30.10,Main,Giroro,0,0,0,,You moron!
+Dialogue: 0,0:07:30.10,0:07:31.84,Main,Giroro,0,0,0,,Be careful when you talk!
+Dialogue: 0,0:07:31.84,0:07:33.85,Main,Keroro,0,0,0,,Ha... ha... my... bad...
+Dialogue: 0,0:07:34.58,0:07:37.70,Main,Mois,0,0,0,,Uncle, please try not to \Nchew everyone up, okay?
+Dialogue: 0,0:07:37.70,0:07:38.81,Main,Keroro,0,0,0,,Fine.
+Dialogue: 0,0:07:39.13,0:07:42.07,Main,Natsumi,0,0,0,,So, how dangerous are \Nthese cavities, anyway?
+Dialogue: 0,0:07:42.07,0:07:44.40,Main,Giroro,0,0,0,,We won't know exactly how \Nmuch of a threat they pose
+Dialogue: 0,0:07:44.40,0:07:46.28,Main,Giroro,0,0,0,,until we actually find them.
+Dialogue: 0,0:07:46.54,0:07:47.83,Main,Natsumi,0,0,0,,Oh.
+Dialogue: 0,0:07:48.30,0:07:48.87,Main,Natsumi,0,0,0,,Huh?
+Dialogue: 0,0:07:49.99,0:07:51.98,Main,Natsumi,0,0,0,,A monster!
+Dialogue: 0,0:07:54.67,0:07:57.77,Main,Keroro,0,0,0,,Ah, the dried squid I was chewing on.
+Dialogue: 0,0:07:57.77,0:07:58.65,Main,Natsumi,0,0,0,,Eww.
+Dialogue: 0,0:07:58.65,0:08:01.03,Main,Giroro,0,0,0,,Don't waste your ammo! Let's keep moving.
+Dialogue: 0,0:08:01.03,0:08:02.92,Main,Natsumi,0,0,0,,Uh, yeah.
+Dialogue: 0,0:08:03.20,0:08:05.63,Main,Fuyuki,0,0,0,,I hope Giroro and my sister are okay.
+Dialogue: 0,0:08:05.96,0:08:08.63,Main,Tamama,0,0,0,,Well, we're still elite soldiers.
+Dialogue: 0,0:08:08.63,0:08:09.84,Main,Tamama,0,0,0,,You don't need to worry about u—
+Dialogue: 0,0:08:11.72,0:08:14.90,Main,Tamama,0,0,0,,Fukki, hold real still, okay?
+Dialogue: 0,0:08:20.99,0:08:23.62,Main,Mois,0,0,0,,Uncle! You shouldn't close your mouth!
+Dialogue: 0,0:08:25.24,0:08:26.46,Main,Fuyuki,0,0,0,,What was that?
+Dialogue: 0,0:08:26.46,0:08:30.53,Main,Tamama,0,0,0,,This is Greenhorn One. We have enemy \Ncontact. Transmitting images now.
+Dialogue: 0,0:08:30.75,0:08:32.24,Main,Mois,0,0,0,,Delta One here. Copy that.
+Dialogue: 0,0:08:33.01,0:08:37.50,Sign_Basic,text,0,0,0,,{\pos(276,178)\an2\fnArial\b1\fs18\shad0\c&H7C2D6A&\3c&H51F9FB&}Caris
+Dialogue: 0,0:08:33.68,0:08:38.45,Main,Mois,0,0,0,,The target is a high level space \Ncaries, the Caris Type C1.
+Dialogue: 0,0:08:38.45,0:08:42.54,Main,Mois,0,0,0,,Five-star threat level. They're a \Nhostile, mother-type alien species.
+Dialogue: 0,0:08:44.25,0:08:45.96,Main,Giroro,0,0,0,,Did you say Caris Type C1?!
+Dialogue: 0,0:08:46.44,0:08:47.70,Main,Giroro,0,0,0,,They're really slippery!
+Dialogue: 0,0:08:47.70,0:08:52.18,Main,Tamama,0,0,0,,In that case, I get to fight \Nthe way I love! Melee combat!
+Dialogue: 0,0:08:55.01,0:08:56.77,Main,Tamama,0,0,0,,Dental Buster...
+Dialogue: 0,0:08:56.77,0:08:59.64,Main,Tamama,0,0,0,,Drill Mode!
+Dialogue: 0,0:09:03.30,0:09:06.54,Main,Mois,0,0,0,,Uncle, if it starts to hurt, \Njust say so, okay?
+Dialogue: 0,0:09:06.54,0:09:07.28,Main,Kululu,0,0,0,,Pfft!
+Dialogue: 0,0:09:08.36,0:09:10.61,Main,Ura-Tamama,0,0,0,,Decay this, you scum!
+Dialogue: 0,0:09:10.61,0:09:13.23,Main,Keroro,0,0,0,,Ow, ow, ow, ow! Ouch!
+Dialogue: 0,0:09:14.10,0:09:16.28,Main,Giroro,0,0,0,,Focus your attacks!
+Dialogue: 0,0:09:16.28,0:09:18.62,Main,Giroro,0,0,0,,Are you trying to put \Nus in even more danger?
+Dialogue: 0,0:09:20.50,0:09:21.74,Main,Giroro,0,0,0,,There you are.
+Dialogue: 0,0:09:38.91,0:09:42.64,Italics,Natsumi (M),0,0,0,,Amazing! He didn't waste a single shot.
+Dialogue: 0,0:09:43.11,0:09:45.08,Main,Giroro,0,0,0,,The enemy is a reproductive species.
+Dialogue: 0,0:09:45.08,0:09:47.34,Main,Giroro,0,0,0,,If they keep breeding, \NKeroro's body won't hold up.
+Dialogue: 0,0:09:48.16,0:09:48.90,Main,Giroro,0,0,0,,We've got to move.
+Dialogue: 0,0:09:49.39,0:09:52.10,Italics,Natsumi (M),0,0,0,,I guess he really does \Ncare about his friends.
+Dialogue: 0,0:09:54.38,0:09:56.17,Main,Natsumi,0,0,0,,Okey-dokey, Corporal Giroro!
+Dialogue: 0,0:09:56.17,0:09:58.59,Main,Giroro,0,0,0,,D-Don't talk to me like that!
+Dialogue: 0,0:10:03.80,0:10:06.66,Narration,Narrator,0,0,0,,Both detachments continued \Nto annihilate their targets
+Dialogue: 0,0:10:06.66,0:10:09.36,Narration,Narrator,0,0,0,,as they advanced toward \Nthe rendezvous point.
+Dialogue: 0,0:10:09.88,0:10:11.88,Main,Kululu,0,0,0,,Ku ku ku ku ku.
+Dialogue: 0,0:10:13.43,0:10:14.70,Main,Fuyuki,0,0,0,,Sis!
+Dialogue: 0,0:10:14.70,0:10:16.18,Main,Natsumi,0,0,0,,Fuyuki!
+Dialogue: 0,0:10:17.15,0:10:18.98,Main,Giroro,0,0,0,,It seems we all made it.
+Dialogue: 0,0:10:18.98,0:10:21.02,Main,Fuyuki,0,0,0,,I even blasted one of them!
+Dialogue: 0,0:10:21.02,0:10:23.22,Main,Natsumi,0,0,0,,Well, I got {\i1}three{\i0}!
+Dialogue: 0,0:10:23.22,0:10:25.92,Italics,Ura-Tamama (M),0,0,0,,Why haven't I even killed one yet?
+Dialogue: 0,0:10:25.92,0:10:28.37,Italics,Ura-Tamama (M),0,0,0,,I don't believe it! \NThere must be some kind of mistake!
+Dialogue: 0,0:10:28.37,0:10:30.30,Main,Mois,0,0,0,,Delta One to all units,
+Dialogue: 0,0:10:30.73,0:10:33.20,Main,Mois,0,0,0,,please finish the operation \Nas quickly as possible!
+Dialogue: 0,0:10:33.49,0:10:35.87,Main,Mois,0,0,0,,Uncle is at terrible risk!
+Dialogue: 0,0:10:34.49,0:10:36.70,Sign_Basic,text,0,0,0,,{\fad(425,0)\frz3.806\frx356\fry16\pos(378.67,60)\c&H1A1713&\bord0\shad0}kill me
+Dialogue: 0,0:10:36.70,0:10:39.31,Main,Giroro,0,0,0,,Tell him he just needs to hang \Nin there a little longer.
+Dialogue: 0,0:10:39.31,0:10:40.27,Italics,Mois,0,0,0,,Roger!
+Dialogue: 0,0:10:40.87,0:10:44.67,Main,Giroro,0,0,0,,Stay sharp, everyone. \NThis is when the real battle begins.
+Dialogue: 0,0:10:45.85,0:10:50.67,Sign_Basic,text,0,0,0,,{\fad(975,0)\pos(320,280)\fnArial\fs20\b1\bord1\shad0}Third Molar Forward Operating Base
+Dialogue: 0,0:10:46.16,0:10:48.71,Narration - Top,Narrator,0,0,0,,The Third Molar Forward Operating Base.
+Dialogue: 0,0:10:50.67,0:10:51.78,Main,Natsumi,0,0,0,,Tooth?
+Dialogue: 0,0:10:52.17,0:10:52.88,Main,Fuyuki,0,0,0,,Tooth.
+Dialogue: 0,0:10:52.88,0:10:56.02,Main,Giroro,0,0,0,,They typically operate by \Nsecretly constructing bases
+Dialogue: 0,0:10:56.02,0:10:57.89,Main,Giroro,0,0,0,,inside of people's teeth.
+Dialogue: 0,0:10:59.51,0:11:00.64,Main,Mother,0,0,0,,Withdraw immediately!
+Dialogue: 0,0:11:02.96,0:11:03.73,Main,Fuyuki,0,0,0,,What's that?
+Dialogue: 0,0:11:03.94,0:11:07.46,Main,Giroro,0,0,0,,That's the one that all Caris \NType C1s spawn from! The Mother!
+Dialogue: 0,0:11:08.19,0:11:12.26,Main,Mother,0,0,0,,I can see that many of my darling \Nchildren have already fallen.
+Dialogue: 0,0:11:12.59,0:11:14.99,Main,Mother,0,0,0,,I will not allow you to \Ndisrupt our work further.
+Dialogue: 0,0:11:18.99,0:11:21.44,Main,Natsumi,0,0,0,,If she pokes the cavity with that thing...
+Dialogue: 0,0:11:22.49,0:11:26.16,Main,Mother,0,0,0,,I do not wish to spill more \Nblood than is necessary.
+Dialogue: 0,0:11:26.88,0:11:28.67,Main,Mother,0,0,0,,I ask you to leave peacefully and—
+Dialogue: 0,0:11:29.61,0:11:32.21,Main,Ura-Tamama,0,0,0,,Quit tryin' to screw with us, ya punk!
+Dialogue: 0,0:11:32.21,0:11:36.23,Main,Ura-Tamama,0,0,0,,Hell yeah! I took out their head honcho!
+Dialogue: 0,0:11:35.35,0:11:36.90,Main - Top,Giroro,0,0,0,,Y-You fool!
+Dialogue: 0,0:11:53.19,0:11:55.49,Main,Giroro,0,0,0,,Endure it, Keroro!
+Dialogue: 0,0:11:58.73,0:12:02.99,Main,Ura-Tamama,0,0,0,,I-I'll handle things here \Nso you guys can escape!
+Dialogue: 0,0:12:02.99,0:12:04.45,Main,Natsumi,0,0,0,,Yeah, you'd better!
+Dialogue: 0,0:12:09.21,0:12:11.80,Main,Mother,0,0,0,,I have already planted hundreds \Nof millions of children
+Dialogue: 0,0:12:11.80,0:12:15.27,Main,Mother,0,0,0,,in this host organism's teeth!
+Dialogue: 0,0:12:15.27,0:12:18.68,Main,Mother,0,0,0,,Now Pekopon will belong to us!
+Dialogue: 0,0:12:20.01,0:12:23.26,Italics,Giroro (M),0,0,0,,I'm glad I prepared a \Nbackup plan just in case.
+Dialogue: 0,0:12:23.93,0:12:24.87,Italics,Giroro (M),0,0,0,,But...
+Dialogue: 0,0:12:28.23,0:12:29.79,Italics,Giroro (M),0,0,0,,I mustn't...
+Dialogue: 0,0:12:33.48,0:12:34.46,Italics,Giroro (M),0,0,0,,Nay!
+Dialogue: 0,0:12:34.46,0:12:36.84,Italics,Giroro (M),0,0,0,,I must be prepared to make sacrifices\Nin order to complete my mission!
+Dialogue: 0,0:12:37.01,0:12:39.53,Italics,Giroro (M),0,0,0,,Forgive me, Keroro!
+Dialogue: 0,0:12:48.71,0:12:53.43,Main,Mois,0,0,0,,Uncle!
+Dialogue: 0,0:12:54.77,0:12:57.71,Sign_Basic,text,0,0,0,,{\fad(450,0)\pos(320,280)\fnArial\fs20\b1\bord1\shad0}A Few Days Later
+Dialogue: 0,0:12:55.77,0:12:57.19,Narration - Top,Narrator,0,0,0,,A few days later...
+Dialogue: 0,0:13:00.47,0:13:05.43,Main,Keroro,0,0,0,,Well, wouldn't ya know it? \NCavities sure are a pain in the neck.
+Dialogue: 0,0:13:06.66,0:13:09.23,Main,Fuyuki,0,0,0,,But Sergeant, weren't those \Nyour permanent teeth?
+Dialogue: 0,0:13:09.45,0:13:13.37,Main,Keroro,0,0,0,,Keronians grow perma-permanent teeth, \Nand even perma-perma-permanent teeth,
+Dialogue: 0,0:13:13.37,0:13:14.61,Main,Keroro,0,0,0,,yes sir!
+Dialogue: 0,0:13:10.49,0:13:14.61,Sign_Basic,text,0,0,0,,{\fad(150,0)\pos(320,5)\fnArial\b1\3c&HD582C0&\4c&H4C6D6D&\1a&H40&\shad2}Perma-Permanent Teeth
+Dialogue: 0,0:13:11.74,0:13:14.61,Sign_Basic,text,0,0,0,,{\fad(150,0)\fnArial\b1\3c&HD582C0&\4c&H4C6D6D&\1a&H40&\shad2\pos(320,216)}Perma-Perma-Permanent Teeth
+Dialogue: 0,0:13:14.92,0:13:17.18,Main,Giroro,0,0,0,,You're the one who allowed \Nthe enemy to invade!
+Dialogue: 0,0:13:17.18,0:13:18.87,Main,Giroro,0,0,0,,How could you be that careless?
+Dialogue: 0,0:13:18.87,0:13:20.65,Main,Keroro,0,0,0,,Yeah, wow. Much embarrass.
+Dialogue: 0,0:13:21.19,0:13:22.20,Main,Natsumi,0,0,0,,Ugh.
+Dialogue: 0,0:13:22.57,0:13:24.99,Main,Fuyuki,0,0,0,,Hey, Sis. Something wrong?
+Dialogue: 0,0:13:25.22,0:13:26.54,Main,Natsumi,0,0,0,,Well...
+Dialogue: 0,0:13:26.54,0:13:29.03,Main,Natsumi,0,0,0,,I've got this tooth that kinda hu—
+Dialogue: 0,0:13:29.75,0:13:32.74,Main,Keroro,0,0,0,,We're already on to the next operation.
+Dialogue: 0,0:13:32.74,0:13:35.25,Main,Ura-Tamama,0,0,0,,This time I'll get 'em real good!
+Dialogue: 0,0:13:37.28,0:13:39.90,Main,Natsumi,0,0,0,,No way! I'm going to the dentist!
+Dialogue: 0,0:13:41.15,0:13:44.01,Narration,Narrator,0,0,0,,"Aren't we lucky to have \Ndentists here on Earth?"
+Dialogue: 0,0:13:44.35,0:13:47.39,Narration,Narrator,0,0,0,,Fuyuki-kun thought to himself, \Nfor the very first time in his life.
+Dialogue: 0,0:13:54.44,0:13:55.10,Main,Kululu,0,0,0,,Ku ku!
+Dialogue: 0,0:13:57.93,0:13:59.36,Main,Kululu,0,0,0,,Hinata Aki,
+Dialogue: 0,0:13:59.36,0:14:02.92,Main,Kululu,0,0,0,,a talented editor at a major \Nmanga publishing company
+Dialogue: 0,0:14:02.92,0:14:06.31,Main,Kululu,0,0,0,,as well as a mother and the primary \Ncaregiver for two young Pekoponians.
+Dialogue: 0,0:14:07.37,0:14:08.70,Main,Aki,0,0,0,,I'm back!
+Dialogue: 0,0:14:09.44,0:14:10.97,Main,Natsumi,0,0,0,,Welcome home!
+Dialogue: 0,0:14:09.44,0:14:10.97,Main - Top,Fuyuki,0,0,0,,Welcome home!
+Dialogue: 0,0:14:10.97,0:14:12.66,Main,Keroro,0,0,0,,I hope you had a fine day, yes sir.
+Dialogue: 0,0:14:13.16,0:14:15.60,Main,Keroro,0,0,0,,The bath is ready and \Nwaiting for you, yes sir.
+Dialogue: 0,0:14:15.60,0:14:17.14,Main,Aki,0,0,0,,Oh, music to my ears!
+Dialogue: 0,0:14:17.67,0:14:20.77,Main,Kululu,0,0,0,,Ku, ku ku ku ku ku!
+Dialogue: 0,0:14:20.77,0:14:24.86,Main,Kululu,0,0,0,,She will be the perfect test subject \Nfor this new weapon of mine.
+Dialogue: 0,0:14:25.48,0:14:29.18,Main,Kululu,0,0,0,,Ku ku ku ku ku ku ku ku!
+Dialogue: 0,0:14:29.47,0:14:35.19,Ep_Title,text,0,0,0,,{\fad(875,0)\c&H2870F4&\3c&H2AC7ED&\b1\pos(320,99)}Aki {\c&HFFFFFF&\3c&H000000&}Becomes a Middle Schooler
+Dialogue: 0,0:14:29.75,0:14:32.38,Main,Keroro,0,0,0,,"Aki Becomes a Middle Schooler"
+Dialogue: 0,0:14:32.38,0:14:33.70,Main,Keroro,0,0,0,,Yes sir!
+Dialogue: 0,0:14:35.19,0:14:37.15,Sign_Basic,text,0,0,0,,{\pos(320,280)\fnArial\fs20\b1\bord1\shad0}The Next Morning
+Dialogue: 0,0:14:36.52,0:14:39.40,Main - Top,Aki,0,0,0,,What? You're going to school on a Sunday?
+Dialogue: 0,0:14:39.40,0:14:47.37,Sign_Basic,text,0,0,0,,{\pos(430.66,44.66)\bord1\shad0\3c&H4E9944&}True Tales?!
+Dialogue: 0,0:14:39.40,0:14:47.37,Sign_Basic,text,0,0,0,,{\bord1\shad0\3c&H4E9944&\pos(451.33,100)}of UMA Manga
+Dialogue: 0,0:14:39.40,0:14:47.37,Sign_Basic,text,0,0,0,,{\bord1\shad0\3c&H4E9944&\pos(465.33,155.33)}Round Table Feedback Session
+Dialogue: 0,0:14:39.40,0:14:47.37,Sign_Basic,text,0,0,0,,{\bord1\shad0\3c&H4E9944&\pos(517.33,220.66)}Manga Research Club
+Dialogue: 0,0:14:39.40,0:14:47.37,Sign_Basic,text,0,0,0,,{\bord1\shad0\3c&H4E9944&\an7\pos(30,0)}Occult Club President
+Dialogue: 1,0:14:39.40,0:14:43.11,Main,Fuyuki,0,0,0,,The manga research club is holding \Na round table feedback session
+Dialogue: 0,0:14:43.11,0:14:47.37,Main,Fuyuki,0,0,0,,for their True Tales of UMA manga. \NI have to go to represent the occult club.
+Dialogue: 0,0:14:47.59,0:14:50.80,Main,Natsumi,0,0,0,,And I have to fill in for \Nsomeone at a basketball game.
+Dialogue: 0,0:14:50.80,0:14:52.10,Main,Aki,0,0,0,,Oh, really?
+Dialogue: 0,0:14:53.04,0:14:55.92,Main,Aki,0,0,0,,I was hoping we could go out \Nand all have fun together.
+Dialogue: 0,0:14:56.24,0:14:58.14,Main,Natsumi,0,0,0,,Sorry, Mom!
+Dialogue: 0,0:14:58.14,0:14:59.21,Main,Aki,0,0,0,,Oh, I know!
+Dialogue: 0,0:15:00.12,0:15:02.71,Main,Aki,0,0,0,,Maybe I'll go to school with you to watch!
+Dialogue: 0,0:15:02.71,0:15:04.26,Main,Fuyuki,0,0,0,,D-Don't do that!
+Dialogue: 0,0:15:04.26,0:15:04.97,Main,Aki,0,0,0,,Huh?
+Dialogue: 0,0:15:04.97,0:15:07.59,Main,Fuyuki,0,0,0,,It would be way too embarrassing \Nif you showed up.
+Dialogue: 0,0:15:07.59,0:15:12.22,Main,Aki,0,0,0,,Yeah, you're probably right. \NI think I'll just stay home then.
+Dialogue: 0,0:15:12.47,0:15:14.73,Main,Natsumi,0,0,0,,See you later!
+Dialogue: 0,0:15:12.47,0:15:14.73,Main - Top,Fuyuki,0,0,0,,See you later!
+Dialogue: 0,0:15:14.73,0:15:19.23,Sign_Basic,text,0,0,0,,{\fs10\b1\c&H989898&\3c&HFFFDFF&\shad0\pos(156.67,180)}Hinata
+Dialogue: 0,0:15:15.05,0:15:17.24,Main,Aki,0,0,0,,Be careful and have a nice time!
+Dialogue: 0,0:15:20.60,0:15:23.32,Main,Aki,0,0,0,,Kids sure are busy these days.
+Dialogue: 0,0:15:24.01,0:15:28.02,Main,Aki,0,0,0,,But school, huh? I have so many memories.
+Dialogue: 0,0:15:28.02,0:15:30.24,Main,Keroro,0,0,0,,Did you say school, yes sir?
+Dialogue: 0,0:15:30.65,0:15:33.02,Italics,Aki (M),0,0,0,,Ah, the bittersweet days of youth.
+Dialogue: 0,0:15:33.02,0:15:37.19,Italics,Keroro (M),0,0,0,,Ah, the stench of the trees during \Nour deadly forest training exercises.
+Dialogue: 0,0:15:37.56,0:15:40.38,Italics,Aki (M),0,0,0,,It was a time colored by \Ndreams and uncertainty.
+Dialogue: 0,0:15:40.70,0:15:43.38,Italics,Keroro (M),0,0,0,,It was a time scarred by the \Ndeath throes of my comrades.
+Dialogue: 0,0:15:43.38,0:15:45.60,Main,Aki,0,0,0,,I wish I could go back to those days!
+Dialogue: 0,0:15:45.60,0:15:49.17,Main,Keroro,0,0,0,,N-No more! I can't shoot another bullet!
+Dialogue: 0,0:15:49.17,0:15:52.13,Main,Kululu,0,0,0,,How would you like it \Nif I granted that wish?
+Dialogue: 0,0:15:52.13,0:15:53.23,Main,Keroro,0,0,0,,No!
+Dialogue: 0,0:15:53.97,0:15:55.52,Main,Aki,0,0,0,,Kulu-chan?
+Dialogue: 0,0:15:57.26,0:15:59.65,Main,Kululu,0,0,0,,Kuu! Ku ku ku ku ku ku!
+Dialogue: 0,0:16:02.11,0:16:05.06,Main,Keroro,0,0,0,,Gero! And I just finished washing them!
+Dialogue: 0,0:16:05.06,0:16:06.42,Main,Kululu,0,0,0,,Looks like it worked.
+Dialogue: 0,0:16:06.42,0:16:06.95,Main,Keroro,0,0,0,,Huh?
+Dialogue: 0,0:16:07.21,0:16:09.48,Main,Kululu,0,0,0,,I've done it again, man.
+Dialogue: 0,0:16:09.94,0:16:11.41,Main,Keroro,0,0,0,,Officer Fuyuki?
+Dialogue: 0,0:16:11.41,0:16:14.58,Main,Keroro,0,0,0,,What are you still doing here? \NAre you skipping school?
+Dialogue: 0,0:16:14.58,0:16:17.35,Main,Keroro,0,0,0,,Well, you aren't going to get \Naway with it on my watch, no sir!
+Dialogue: 0,0:16:19.12,0:16:22.14,Main,Aki,0,0,0,,What?!
+Dialogue: 0,0:16:20.56,0:16:21.72,Sign_Basic,text,0,0,0,,{\fad(225,250)\c&H9D6320&\b1\shad0\3c&HF3F3F3&\pos(320,80)}Hinata Aki
+Dialogue: 0,0:16:20.56,0:16:21.72,Sign_Basic,text,0,0,0,,{\fad(225,250)\c&H9D6320&\b1\shad0\3c&HF3F3F3&\pos(320,245)}13 Years Old
+Dialogue: 0,0:16:19.12,0:16:22.63,Sign_Basic,text,0,0,0,,{\c&H1209EC&\fnArial\b1\bord2\shad0\3c&HB7FFF4&}Dream Developmental Support Gun
+Dialogue: 0,0:16:22.87,0:16:24.05,Main,JHS Aki,0,0,0,,W-Wait, Kero-chan!
+Dialogue: 0,0:16:24.05,0:16:28.00,Main,Keroro,0,0,0,,Quit making excuses! Now get \Nchanged and head on out!
+Dialogue: 0,0:16:31.47,0:16:33.91,Main,JHS Aki,0,0,0,,Wh-What is going on?
+Dialogue: 0,0:16:36.88,0:16:37.81,Main,JHS Aki,0,0,0,,Huh?
+Dialogue: 0,0:16:41.35,0:16:42.89,Main,JHS Aki,0,0,0,,Okay. There.
+Dialogue: 0,0:16:44.35,0:16:45.19,Main,JHS Aki,0,0,0,,I look...
+Dialogue: 0,0:16:45.59,0:16:46.75,Main,JHS Aki,0,0,0,,just like him!
+Dialogue: 0,0:16:47.21,0:16:49.40,Sign_Basic,text,0,0,0,,{\pos(320,354)\an2\fnTimes New Roman\b1\c&HC36BE9&\3c&HA27189&\shad0}M{\c&HF1B3A0&}o{\c&HF1CA87&}t{\c&HAAF597&}h{\c&H8DFEE1&}e{\c&H92B7EE&}r {\c&H9990E8&}a{\c&HCE74EB&}n{\c&HF1B3A0&}d {\c&HF1CA87&}S{\c&HAAF597&}o{\c&H8DFEE1&}n
+Dialogue: 0,0:16:47.88,0:16:49.40,Narration - Top,Narrator,0,0,0,,The spitting image!
+Dialogue: 0,0:16:49.71,0:16:52.97,Main,Keroro,0,0,0,,Boy, can you believe these brats?
+Dialogue: 0,0:16:52.97,0:16:57.10,Main,Keroro,0,0,0,,Huh? Wait. Where did Officer Mom go?
+Dialogue: 0,0:16:57.10,0:16:58.20,Main,Kululu,0,0,0,,Ku, ku ku.
+Dialogue: 0,0:16:58.54,0:17:00.37,Main,Keroro,0,0,0,,Oh! Is that a new weapon?
+Dialogue: 0,0:17:00.37,0:17:04.22,Main - Top,Kululu,0,0,0,,Yeah. It's my Dream \NDevelopmental Support Gun.
+Dialogue: 0,0:17:01.50,0:17:10.13,Sign_Basic,text,0,0,0,,{\pos(320,285)\an2\fnArial\b1\bord0\c&H242249&\4c&HA2F3DB&\shad2\clip(138,248,140,300)\t(21,811,1 \clip(138,248,556,300)}Dream Developmental Support Gun
+Dialogue: 0,0:17:04.22,0:17:09.72,Main - Top,Kululu,0,0,0,,With this, I can turn Pekoponians back \Ninto children and render them powerless!
+Dialogue: 0,0:17:11.71,0:17:13.68,Main,Keroro,0,0,0,,I'll believe that when I see it.
+Dialogue: 0,0:17:13.68,0:17:16.51,Main,Keroro,0,0,0,,I'd be pretty impressed if \Nit actually worked, though.
+Dialogue: 0,0:17:16.51,0:17:19.39,Main - Top,Giroro,0,0,0,,Do you try to make it cry, \Nor do you wait until it cries?
+Dialogue: 0,0:17:17.04,0:17:18.76,Main,Kululu,0,0,0,,Wanna give it a shot?
+Dialogue: 0,0:17:26.59,0:17:28.40,Main,Keroro,0,0,0,,Yes, I see now.
+Dialogue: 0,0:17:29.02,0:17:32.41,Main - Top,Giroro,0,0,0,,Wah. Dah. Dah.
+Dialogue: 0,0:17:30.51,0:17:32.41,Main,Keroro,0,0,0,,This is pretty dang cool!
+Dialogue: 0,0:17:33.59,0:17:34.78,Main,JHS Aki,0,0,0,,I'm here!
+Dialogue: 0,0:17:35.38,0:17:38.64,Italics,MS Aki (M),0,0,0,,I'll leave as soon as I catch a glimpse \Nof Fuyuki and Natsumi in action.
+Dialogue: 0,0:17:39.04,0:17:42.24,Main,JHS Aki,0,0,0,,Ah, the familiar odor \Nof a house of learning!
+Dialogue: 0,0:17:42.24,0:17:44.12,Main,Yamaguchi,0,0,0,,There he is. Fuyuki!
+Dialogue: 0,0:17:44.58,0:17:48.07,Main,Yamaguchi,0,0,0,,You're late, man. \NThe round table has already started.
+Dialogue: 0,0:17:47.55,0:17:52.55,Sign_Basic,text,0,0,0,,{\fs30\move(740,112,466,152)\fay-.01\c&H6AA3C0&\3c&H5B5042&\bord3\4c&H373D64&\shad2\b1\t(\fs20)\frx0\fry358}Kissho Academy Junior High
+Dialogue: 0,0:17:48.82,0:17:51.71,Italics,MS Aki (M),0,0,0,,Fuyuki must've taken a \Ndetour along the way.
+Dialogue: 0,0:17:52.54,0:17:55.55,Main,Fuyuki,0,0,0,,Shwow! A Gibeon meteorite!
+Dialogue: 0,0:17:55.55,0:18:04.69,Sign_Basic,text,0,0,0,,{\pos(276,2.667)\fnArial\b1\c&H882AC3&\3c&HDDA3E9&\4c&HB5AA6F&\shad3}Umm
+Dialogue: 0,0:17:55.84,0:17:59.75,Main,Fuyuki,0,0,0,,On shale for 980 yen? \NCould it posshibly be real?
+Dialogue: 0,0:17:57.99,0:18:04.69,Sign_Basic,text,0,0,0,,{\pos(510,66)\fnArial\b1\c&H384126&\3c&HC1C8A6&\4c&H9E8355&}Gibeon Meteorite
+Dialogue: 0,0:17:59.75,0:18:01.64,Main,Fuyuki,0,0,0,,What should I do?
+Dialogue: 0,0:18:01.64,0:18:04.69,Narration,Narrator,0,0,0,,That's a mother's intuition for you!\N She knows him well!
+Dialogue: 0,0:18:04.69,0:18:07.73,Sign_Basic,text,0,0,0,,{\pos(340.667,92.667)\bord0\shad0\c&HF5F8EF&}True Tales of UMA Manga
+Dialogue: 0,0:18:04.69,0:18:07.73,Sign_Basic,text,0,0,0,,{\bord0\shad0\c&HF5F8EF&\pos(290,208.667)}Round Table Feedback Session
+Dialogue: 0,0:18:05.11,0:18:07.73,Main,Yamaguchi,0,0,0,,Come on, are you guys \Neven serious about this?
+Dialogue: 0,0:18:07.96,0:18:10.99,Main,Yamaguchi,0,0,0,,Do you actually want your true \Ntales manga to sell, or not?
+Dialogue: 0,0:18:11.27,0:18:14.24,Main,Member 2,0,0,0,,Here we go again. \NYamaguchi and his manga elitism.
+Dialogue: 0,0:18:14.58,0:18:16.26,Main,Member 1,0,0,0,,He keeps vetoing everything.
+Dialogue: 0,0:18:16.26,0:18:19.55,Main,Yamaguchi,0,0,0,,Fuyuki. As the occult club representative,
+Dialogue: 0,0:18:19.55,0:18:21.26,Main,Yamaguchi,0,0,0,,why don't you tell Kawada \Nhere everything that's wrong
+Dialogue: 0,0:18:21.26,0:18:26.01,Main,Yamaguchi,0,0,0,,with her "I'm a mermaid who moved \Nin with my mother-in-law" idea?
+Dialogue: 0,0:18:39.18,0:18:40.01,Main,JHS Aki,0,0,0,,I think it's great!
+Dialogue: 0,0:18:40.56,0:18:41.22,Main,Kawada,0,0,0,,Do you mean it?
+Dialogue: 0,0:18:41.52,0:18:42.00,Main,Yamaguchi,0,0,0,,What?
+Dialogue: 0,0:18:42.00,0:18:42.98,Main,JHS Aki,0,0,0,,Mm-hmm!
+Dialogue: 0,0:18:42.98,0:18:46.12,Main,JHS Aki,0,0,0,,The mermaid really makes \Na perfect gal character,
+Dialogue: 0,0:18:44.49,0:18:52.11,Sign_Basic,text,0,0,0,,{\fs14\bord2\c&H727574&\3c&HE3E5E7&\shad0\pos(125.333,2)}I'm a Mermaid Who Moved\NIn with My Mother-in-Law
+Dialogue: 0,0:18:46.12,0:18:48.45,Main,JHS Aki,0,0,0,,and scenes like when the \Nmom has to think twice
+Dialogue: 0,0:18:48.45,0:18:51.42,Main,JHS Aki,0,0,0,,about serving her sashimi \Nare totally hilarious!
+Dialogue: 0,0:18:54.94,0:18:56.94,Main,Yamaguchi,0,0,0,,Uh, that one's mine.
+Dialogue: 0,0:18:57.68,0:19:00.36,Main,Yamaguchi,0,0,0,,How about it? A hit in the making, right?
+Dialogue: 0,0:19:00.36,0:19:01.85,Main,JHS Aki,0,0,0,,No, this is one is a mess.
+Dialogue: 0,0:19:01.85,0:19:02.37,Main,Yamaguchi,0,0,0,,Huh?
+Dialogue: 0,0:19:03.01,0:19:05.12,Main,Yamaguchi,0,0,0,,Well then, tell me exactly \Nwhat's wrong with it!
+Dialogue: 0,0:19:05.80,0:19:10.13,Main,JHS Aki,0,0,0,,First of all, it's full of exposition \Nand comes off as really dry...
+Dialogue: 0,0:19:10.13,0:19:13.13,Sign_Basic,text,0,0,0,,{\fad(2125,0)\pos(505.333,167.333)\fs10\shad0\c&H858380&\3c&HEBE6E2&}Club President Yamaguchi's Manga
+Dialogue: 0,0:19:10.13,0:19:13.13,Sign_Basic,text,0,0,0,,{\fad(2125,0)\pos(505.333,183.333)\fs18\c&H06039E&\b1\3c&H36302D&\shad0}How Does the\N{\c&HEFE8E2&\fnTimes New Roman}Solitary {\fnArial}Nessie {\c&H06039E&}Live?
+Dialogue: 0,0:19:10.44,0:19:12.76,Main,JHS Aki,0,0,0,,and you're really just ripping \Noff other popular stories.
+Dialogue: 0,0:19:13.45,0:19:16.38,Main,JHS Aki,0,0,0,,I could say more, \Nbut we'd be here all day.
+Dialogue: 0,0:19:16.76,0:19:19.26,Main,JHS Aki,0,0,0,,You should try to have \Nfun with it for now.
+Dialogue: 0,0:19:19.64,0:19:21.93,Main,JHS Aki,0,0,0,,There's no rush. Keep at it!
+Dialogue: 0,0:19:22.41,0:19:24.52,Italics,Yamaguchi (M),0,0,0,,He's totally right.
+Dialogue: 0,0:19:25.69,0:19:28.56,Italics,Yamaguchi (M),0,0,0,,But why does it seem like he really \Nknows what he's talking about?
+Dialogue: 0,0:19:28.56,0:19:32.19,Main,Kawada,0,0,0,,You almost sound like a \Nreal manga editor, Hinata!
+Dialogue: 0,0:19:32.19,0:19:34.37,Italics,JHS Aki (M),0,0,0,,Oh no! I'm gonna get caught!
+Dialogue: 0,0:19:36.44,0:19:40.45,Main,JHS Aki,0,0,0,,I just remembered I have to be \Nsomewhere! See you later, guys!
+Dialogue: 0,0:19:40.90,0:19:44.70,Italics,JHS Aki (M),0,0,0,,If I get too carried away, \Nit'll put Fuyuki on the spot.
+Dialogue: 0,0:19:47.60,0:19:49.24,Main,JHS Aki,0,0,0,,What?
+Dialogue: 0,0:19:49.24,0:19:50.71,Main,Natsumi,0,0,0,,Fuyuki?
+Dialogue: 0,0:19:51.06,0:19:52.22,Italics,JHS Aki (M),0,0,0,,Natsumi?
+Dialogue: 0,0:19:52.22,0:19:54.63,Main,Natsumi,0,0,0,,Come on, give me the ball!
+Dialogue: 0,0:20:04.86,0:20:05.48,Main,Natsumi,0,0,0,,Huh?
+Dialogue: 0,0:20:08.01,0:20:09.90,Main,Student,0,0,0,,He's going for a slam dunk!
+Dialogue: 0,0:20:11.65,0:20:13.60,Main,Student,0,0,0,,Oh my gosh!
+Dialogue: 0,0:20:13.60,0:20:15.90,Main,Student 1,0,0,0,,Awesome! What class is he in?
+Dialogue: 0,0:20:15.90,0:20:16.78,Italics,JHS Aki (M),0,0,0,,Oh no!
+Dialogue: 0,0:20:17.22,0:20:19.95,Main,Student 2,0,0,0,,Natsumi, isn't that your \Nbrother, Fuyuki-kun?
+Dialogue: 0,0:20:20.79,0:20:23.70,Italics,JHS Aki (M),0,0,0,,All my middle school \Nmemories are coming back!
+Dialogue: 0,0:20:23.98,0:20:26.78,Main,JHS Aki,0,0,0,,S-Sorry for the interruption!
+Dialogue: 0,0:20:28.03,0:20:29.96,Main,Fuyuki,0,0,0,,Now I've done it.
+Dialogue: 0,0:20:30.27,0:20:33.28,Main,Fuyuki,0,0,0,,I spent all that time debating whether \Nor not to buy the Gibeon meteorite,
+Dialogue: 0,0:20:33.28,0:20:35.34,Main,Fuyuki,0,0,0,,and now it's so late!
+Dialogue: 0,0:20:35.34,0:20:37.05,Main,Natsumi,0,0,0,,Stop right there, Fuyuki.
+Dialogue: 0,0:20:37.45,0:20:38.55,Main,Fuyuki,0,0,0,,Sis?
+Dialogue: 0,0:20:38.79,0:20:41.68,Main,Natsumi,0,0,0,,Why'd you have to go and mess up our game?
+Dialogue: 0,0:20:41.68,0:20:42.78,Main,Fuyuki,0,0,0,,What?
+Dialogue: 0,0:20:44.14,0:20:48.03,Main,JHS Aki,0,0,0,,Today was so much fun! Thanks, Kero-chan!
+Dialogue: 0,0:20:48.03,0:20:48.94,Main,Keroro,0,0,0,,Gero?
+Dialogue: 0,0:20:49.31,0:20:53.02,Main,Keroro,0,0,0,,What was, Officer Fuyuki? \NWhat a peculiar thing to say.
+Dialogue: 0,0:20:53.63,0:20:54.94,Main,Fuyuki,0,0,0,,I'm back!
+Dialogue: 0,0:20:56.49,0:20:57.75,Italics,Keroro (M),0,0,0,,Ah.
+Dialogue: 0,0:20:57.75,0:20:59.63,Italics,Keroro (M),0,0,0,,Now it all makes sense.
+Dialogue: 0,0:21:00.20,0:21:02.69,Main,Natsumi,0,0,0,,Don't do that again, okay?
+Dialogue: 0,0:21:02.69,0:21:05.03,Main,Fuyuki,0,0,0,,I still have no clue what \Nyou're talking about.
+Dialogue: 0,0:21:05.35,0:21:08.41,Main,Keroro,0,0,0,,So you thought you'd weasel your way \Nin by dressing up as Officer Fuyuki?
+Dialogue: 0,0:21:08.41,0:21:11.61,Main,Keroro,0,0,0,,How sneaky you are, hostile alien.
+Dialogue: 0,0:21:11.95,0:21:17.09,Main,Keroro,0,0,0,,Unfortunately, you can't \Nfool these eyes that easily!
+Dialogue: 0,0:21:19.95,0:21:20.56,Main,JHS Aki,0,0,0,,Kero-chan,
+Dialogue: 0,0:21:19.95,0:21:21.30,Main - Top,Keroro,0,0,0,,Ah. Dieu.
+Dialogue: 0,0:21:21.30,0:21:22.82,Main,JHS Aki,0,0,0,,that one is the real Fuyuki!
+Dialogue: 0,0:21:22.82,0:21:23.52,Main,Keroro,0,0,0,,Gero?
+Dialogue: 0,0:21:23.52,0:21:24.43,Main,JHS Aki,0,0,0,,Huh?
+Dialogue: 0,0:21:24.84,0:21:25.82,Main,Keroro,0,0,0,,Gerogero!
+Dialogue: 0,0:21:32.92,0:21:33.69,Main,Keroro,0,0,0,,Oh...
+Dialogue: 0,0:21:34.52,0:21:35.36,Main,Keroro,0,0,0,,Oh dear.
+Dialogue: 0,0:21:35.36,0:21:40.86,Main,Keroro,0,0,0,,Um, I'm sorry! Okay?
+Dialogue: 0,0:21:40.86,0:21:43.87,Main,Kululu,0,0,0,,Pretty darn handy, right?
+Dialogue: 0,0:21:43.87,0:21:47.91,Main,Kululu,0,0,0,,Ku, ku ku ku ku ku ku ku ku!
+Dialogue: 0,0:21:46.97,0:21:50.87,Main - Top,Giroro,0,0,0,,Gah. Gah. Hngah.
+Dialogue: 0,0:21:50.87,0:21:54.63,Sign_Basic,Credits,0,0,0,,{\pos(320,10)\fs16\fnArial\b1\shad0}Translation: Michael Arnold\NTiming: Andy Ellis\NEditing: Zachary Carlysle\NQuality Control: S. Bilyeu\NFinal Quality Control: Elizabeth Ellis
+Dialogue: 0,0:23:21.43,0:23:22.80,Main,Keroro,0,0,0,,He is coming, yes sir.
+Dialogue: 0,0:23:22.80,0:23:24.17,Main,Fuyuki,0,0,0,,Who is coming?
+Dialogue: 0,0:23:24.17,0:23:26.09,Main,Keroro,0,0,0,,With his Pickelhaube and \Nhis little moustache,
+Dialogue: 0,0:23:26.09,0:23:28.51,Main,Keroro,0,0,0,,he's the most sergeantic man in space!
+Dialogue: 0,0:23:28.51,0:23:29.85,Main,Fuyuki,0,0,0,,He must be really important!
+Dialogue: 0,0:23:30.14,0:23:31.98,Main,Keroro,0,0,0,,Even when he would get plastered \Nentertaining guests all night,
+Dialogue: 0,0:23:31.98,0:23:35.58,Main,Keroro,0,0,0,,he'd still come home in the morning all \Ngrumpy to change my diapers for me!
+Dialogue: 0,0:23:35.58,0:23:37.95,Main,Keroro,0,0,0,,That cold and ruthless \Nsupersoldier is coming!
+Dialogue: 0,0:23:37.95,0:23:40.54,Main,Fuyuki,0,0,0,,What? So who is it?
+Dialogue: 0,0:23:39.86,0:23:51.29,Sign_Basic,text,0,0,0,,{\pos(66,65)\shad0\bord1.5\fs20}Next Time
+Dialogue: 0,0:23:39.86,0:23:51.29,Ep_Title,text,0,0,0,,{\b1\c&HFFFFFF&\3c&H000000&\pos(320,30)}The {\c&H0A9CE4&\3c&H8AFCFF&}First Payday {\c&HFFFFFF&\3c&H000000&}of the Tour{\c&H0A9CE4&\3c&H8AFCFF&}!
+Dialogue: 0,0:23:39.86,0:23:51.29,Ep_Title,text,0,0,0,,{\c&HF88838&\3c&HFFDB91&\b1\pos(320,132)}Me {\c&HFFFFFF&\3c&H000000&}Be You and You Be {\c&HF88838&\3c&HFFDB91&}Me{\c&HFFFFFF&\3c&H000000&}: Like {\c&H61DA6B&\3c&H1E841B&}Frogger{\c&HFFFFFF&\3c&H000000&},\NLike {\c&H61DA6B&\3c&H1E841B&}Son {\c&HFFFFFF&\3c&H000000&}When Pops Hops in for a {\c&H61DA6B&\3c&H1E841B&}Visit
+Dialogue: 0,0:23:40.54,0:23:41.20,Main,Keroro,0,0,0,,Next time is
+Dialogue: 0,0:23:41.20,0:23:43.64,Main,Keroro,0,0,0,,"The First Payday of the Tour!" along with
+Dialogue: 0,0:23:43.64,0:23:45.64,Main,Keroro,0,0,0,,"Me Be You and You Be Me: Like Frogger,
+Dialogue: 0,0:23:45.64,0:23:47.79,Main,Keroro,0,0,0,,Like Son When Pops Hops in for a Visit."
+Dialogue: 0,0:23:47.79,0:23:49.85,Main,Fuyuki,0,0,0,,Like frogger, like son? What?
+
