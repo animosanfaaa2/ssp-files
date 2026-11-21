@@ -1,0 +1,35 @@
+[Script Info]
+Title:
+Original Script:
+Script Type: 4.00+
+Collisions: Normal
+PlayResY: 360
+PlayResX: 640
+PlayDepth: 0
+Timer: 100.0000
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+LayoutResX: 640
+LayoutResY: 360
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Font1,Trebuchet MS,24,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,22,1
+Style: Font2,Trebuchet MS,24,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,22,1
+Style: Font1_OutlineShadow,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Layer1_Font1,Trebuchet MS,24,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,64,64,36,1
+Style: Layer1_Font2,Trebuchet MS,24,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,64,64,36,1
+Style: Layer1_Font1_Outline,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:06:05.78,0:06:09.37,Layer1_Font1,,10,10,22,,{\an8}FOOD: 4-7 DAYS / AMMO: 3 DAYS /\NEQUIPMENT: 30 PERSONNEL
+Dialogue: 0,0:13:02.87,0:13:03.87,Font1_OutlineShadow,,10,10,22,,{\an8}WET NOODLE
+Dialogue: 1,0:13:05.24,0:13:07.58,Layer1_Font1,,10,10,22,,{\an8}TERRIBLE
+Dialogue: 1,0:13:07.58,0:13:10.46,Layer1_Font1,,10,10,22,,{\an8}PASS OUT
+Dialogue: 1,0:13:10.46,0:13:11.46,Layer1_Font1,,10,10,22,,{\an8}SLOW US DOWN
+Dialogue: 0,0:13:22.51,0:13:26.97,Font1_OutlineShadow,,10,10,22,,{\an8}NO TRASH!
+Dialogue: 1,0:13:26.97,0:13:30.94,Layer1_Font1,,10,10,22,,{\an8}ENTRANCE
+Dialogue: 0,0:18:07.21,0:18:08.30,Font1_OutlineShadow,,10,10,22,,{\an8}PSHH
+
