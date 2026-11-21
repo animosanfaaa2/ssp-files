@@ -1,0 +1,379 @@
+[Script Info]
+Title:
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+ScriptType: v4.00+
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,40,40,15,0
+Style: Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,40,40,15,0
+Style: Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,40,40,15,0
+Style: Flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,40,40,15,1
+Style: Flashback-Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,2,40,40,15,1
+Style: Sign,Tahoma,22,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,5,5,15,0
+Style: Opening,Times New Roman,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,40,40,15,0
+Style: Ending,Times New Roman,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,40,40,15,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.49,0:00:02.32,Flashback,Noelle,0,0,0,,Não desistimos!
+Dialogue: 0,0:00:02.86,0:00:06.49,Flashback,Noelle,0,0,0,,Nós vencemos, Megicula!
+Dialogue: 0,0:00:07.76,0:00:10.03,Flashback-Italics,Megicula,0,0,0,,Parece que eu me enganei…
+Dialogue: 0,0:00:10.03,0:00:14.50,Flashback-Italics,Megicula,0,0,0,,sobre a verdadeira força… de vocês…
+Dialogue: 0,0:00:20.33,0:00:24.59,Flashback,Acier,0,0,0,,Vocês dois… ficaram mesmo fortes.
+Dialogue: 0,0:00:40.54,0:00:43.39,Opening,Música,0,0,0,,No terraço, tarde da noite,\Nprendi o fôlego
+Dialogue: 0,0:00:43.39,0:00:46.02,Opening,Música,0,0,0,,e procurei uma luz que nem tinha nome
+Dialogue: 0,0:00:46.02,0:00:48.89,Opening,Música,0,0,0,,Quanto mais eu me afastava do mundo
+Dialogue: 0,0:00:48.89,0:00:51.44,Opening,Música,0,0,0,,mais o meu peito se agitava
+Dialogue: 0,0:00:51.44,0:00:54.31,Opening,Música,0,0,0,,A uma distância que eu sabia\Nque não ia alcançar
+Dialogue: 0,0:00:54.31,0:00:56.88,Opening,Música,0,0,0,,mesmo assim, não consegui desviar o olhar
+Dialogue: 0,0:00:56.88,0:00:59.35,Opening,Música,0,0,0,,No vão entre o sonho e a realidade
+Dialogue: 0,0:00:59.35,0:01:02.20,Opening,Música,0,0,0,,eu não tinha jeito pra ficar parado
+Dialogue: 0,0:01:02.20,0:01:07.02,Opening,Música,0,0,0,,Toda vez que alguém dizia "já chega"
+Dialogue: 0,0:01:07.02,0:01:11.02,Opening,Música,0,0,0,,a linha de chegada mudava de lugar
+Dialogue: 0,0:01:12.38,0:01:15.77,Opening,Música,0,0,0,,Sem saber como desistir
+Dialogue: 0,0:01:15.77,0:01:18.09,Opening,Música,0,0,0,,eu acabei chegando até aqui
+Dialogue: 0,0:01:18.09,0:01:23.52,Opening,Música,0,0,0,,Sem conseguir pegar a estrela\Nque eu ainda nem consigo ver
+Dialogue: 0,0:01:23.52,0:01:29.01,Opening,Música,0,0,0,,guardo ela comigo nas noites de derrota
+Dialogue: 0,0:01:29.01,0:01:34.20,Opening,Música,0,0,0,,Cada desejo que não se cumpriu\Nficou marcado em mim
+Dialogue: 0,0:01:34.20,0:01:39.36,Opening,Música,0,0,0,,A razão que não se apagou\Ncintila no meu peito
+Dialogue: 0,0:01:39.36,0:01:44.95,Opening,Música,0,0,0,,Mesmo sem alcançar, a mão que estendi
+Dialogue: 0,0:01:44.95,0:01:50.08,Opening,Música,0,0,0,,eu nunca recolhi, e só por isso\Nainda não posso terminar
+Dialogue: 0,0:01:50.08,0:01:55.59,Opening,Música,0,0,0,,Mesmo sem recompensa,\Nse eu não deixar acabar,
+Dialogue: 0,0:01:55.59,0:01:59.43,Opening,Música,0,0,0,,a história que vem pela frente\Nnão é uma derrota
+Dialogue: 0,0:01:59.56,0:02:04.94,Sign,Sign,0,0,0,,{\fnTimes New Roman\fs15\blur2\c&HFFFFFF&\3c&H0F0032&\pos(501,28)}Página
+Dialogue: 0,0:01:59.56,0:02:04.94,Sign,Sign,0,0,0,,{\fnTimes New Roman\blur2\c&HFFFFFF&\3c&H0F0032&\pos(334,98)}O Coração do Demônio
+Dialogue: 0,0:02:26.04,0:02:28.52,Main,Asta,0,0,0,,Noelle! Você conseguiu!
+Dialogue: 0,0:02:28.52,0:02:30.17,Main,Noelle,0,0,0,,Asta… Loropechika…
+Dialogue: 0,0:02:31.00,0:02:34.30,Main,Noelle,0,0,0,,Já que a Megicula foi derrotada,\Na maldição da Loropechika também…
+Dialogue: 0,0:02:39.54,0:02:42.60,Main,Asta,0,0,0,,Ah! Rainha Loropechika!\NA senhora acordou?
+Dialogue: 0,0:02:46.02,0:02:48.96,Main,Asta,0,0,0,,Desculpa, desculpa!\NDesculpa pela nudez!
+Dialogue: 0,0:02:48.96,0:02:52.07,Main,Asta,0,0,0,,Pode ficar tranquila!\NEu não vi nadinha!
+Dialogue: 0,0:02:52.07,0:02:54.44,Main,Noelle,0,0,0,,O que você tá fazendo, Astúpido?!
+Dialogue: 0,0:02:54.44,0:02:56.82,Main,Asta,0,0,0,,Mas eu não fiz nada!
+Dialogue: 0,0:02:57.50,0:02:58.77,Main,Noelle,0,0,0,,Loropechika…
+Dialogue: 0,0:03:00.01,0:03:02.16,Main,Noelle,0,0,0,,Que bom que você tá viva…
+Dialogue: 0,0:03:02.16,0:03:04.64,Main,Undine,0,0,0,,Loropechika!
+Dialogue: 0,0:03:04.64,0:03:07.75,Main,Loropechika,0,0,0,,Noelle-san… Undine…
+Dialogue: 0,0:03:08.16,0:03:10.42,Main,Asta,0,0,0,,Por que isso do nada, Noelle?!
+Dialogue: 0,0:03:10.42,0:03:13.50,Main,Noelle,0,0,0,,Cala a boca, Astúpido! Você que…
+Dialogue: 0,0:03:15.07,0:03:15.84,Main,Asta,0,0,0,,Hã?
+Dialogue: 0,0:03:15.84,0:03:19.66,Italics,Noelle,0,0,0,,E agora? Tô tão feliz de ver\Nele depois de tanto tempo…
+Dialogue: 0,0:03:19.66,0:03:20.74,Main,Asta,0,0,0,,Que foi, Noelle?
+Dialogue: 0,0:03:20.74,0:03:23.66,Italics,Noelle,0,0,0,,…mas tô com tanta vergonha que\Nnem consigo olhar pra cara dele!
+Dialogue: 0,0:03:22.99,0:03:24.60,Top,Asta,0,0,0,,Ei, Noelle?
+Dialogue: 0,0:03:24.60,0:03:28.02,Main,Noelle,0,0,0,,Não é nada, Astúpido!
+Dialogue: 0,0:03:31.74,0:03:34.03,Italics,Nozel,0,0,0,,A maldição foi quebrada, mas…
+Dialogue: 0,0:03:34.03,0:03:37.56,Italics,Nozel,0,0,0,,agora que chegou a hora, não sei\Ncomo me comportar com a Noelle…
+Dialogue: 0,0:03:37.56,0:03:39.53,Main,Noelle,0,0,0,,Nozel-oniisama?
+Dialogue: 0,0:03:39.53,0:03:41.55,Main,Rill,0,0,0,,Desculpa, Charlotte-san…
+Dialogue: 0,0:03:42.04,0:03:45.29,Main,Rill,0,0,0,,O efeito da minha magia\Nvai acabar já, já.
+Dialogue: 0,0:03:45.74,0:03:49.32,Italics,Rill,0,0,0,,Mais uma vez, não consegui\Npintar a minha obra-prima…
+Dialogue: 0,0:03:49.32,0:03:52.06,Italics,Rill,0,0,0,,Acho que a minha obra-prima é…
+Dialogue: 0,0:03:52.06,0:03:54.17,Main,Charlotte,0,0,0,,Por que está se desculpando, Rill?
+Dialogue: 0,0:03:54.17,0:03:57.40,Main,Charlotte,0,0,0,,Graças a você, eu pude lutar…
+Dialogue: 0,0:03:58.18,0:03:59.55,Main,Charlotte,0,0,0,,Sou grata.
+Dialogue: 0,0:04:01.01,0:04:02.22,Main,Charlotte,0,0,0,,Além disso…
+Dialogue: 0,0:04:02.22,0:04:05.23,Main,Charlotte,0,0,0,,a gente ainda não pode morrer.
+Dialogue: 0,0:04:05.74,0:04:07.01,Main,Charlotte,0,0,0,,Não é?
+Dialogue: 0,0:04:08.98,0:04:10.81,Main,Luck,0,0,0,,Ei!
+Dialogue: 0,0:04:10.81,0:04:12.03,Main,Noelle,0,0,0,,Luck!
+Dialogue: 0,0:04:12.03,0:04:14.03,Main,Luck,0,0,0,,Que demais, Noelle.
+Dialogue: 0,0:04:14.03,0:04:16.74,Main,Luck,0,0,0,,Derrotar uma demônia\Ndo mais alto escalão…
+Dialogue: 0,0:04:22.12,0:04:25.01,Main,Luck,0,0,0,,Eu também não posso ficar parado.
+Dialogue: 0,0:04:25.58,0:04:26.79,Main,Loropechika,0,0,0,,Gaja-san!
+Dialogue: 0,0:04:26.79,0:04:30.54,Main,Gaja,0,0,0,,Loropechika-sama…\NQue bom que a senhora está bem…
+Dialogue: 0,0:04:37.34,0:04:38.39,Main,Noelle,0,0,0,,Gaja!
+Dialogue: 0,0:04:40.04,0:04:42.98,Main,Noelle,0,0,0,,Capitã Charlotte! Capitão Rill!
+Dialogue: 0,0:04:46.28,0:04:49.76,Main,Loropechika,0,0,0,,Magia de Recuperação de Água:\NAquenelle Lore.
+Dialogue: 0,0:04:53.64,0:04:55.55,Italics,Loropechika,0,0,0,,Com a minha magia…
+Dialogue: 0,0:04:55.55,0:04:58.05,Italics,Loropechika,0,0,0,,não dá pra curar esses ferimentos!
+Dialogue: 0,0:04:58.68,0:05:01.90,Main,Loropechika,0,0,0,,Não pode ser…\NEles me salvaram,
+Dialogue: 0,0:05:01.90,0:05:04.40,Main,Loropechika,0,0,0,,e eu… eu…
+Dialogue: 0,0:05:05.02,0:05:08.04,Italics,Asta,0,0,0,,A minha Destruidora de Demônios\Nnão serve pra curar ferimentos!
+Dialogue: 0,0:05:08.04,0:05:10.83,Main,Asta,0,0,0,,Droga! Não tem nada que dê pra fazer?
+Dialogue: 0,0:05:11.98,0:05:13.24,Main,Noelle,0,0,0,,Não pode ser…
+Dialogue: 0,0:05:14.02,0:05:17.01,Main,Noelle,0,0,0,,Gente que fez a coisa certa\Ne se esforçou tanto…
+Dialogue: 0,0:05:17.01,0:05:19.55,Main,Noelle,0,0,0,,não pode morrer desse jeito!
+Dialogue: 0,0:05:19.55,0:05:22.24,Main,Nacht,0,0,0,,Não tem mais nada\Nque dê pra fazer por eles.
+Dialogue: 0,0:05:22.80,0:05:24.63,Main,Asta,0,0,0,,Vice-Capitão Nacht!
+Dialogue: 0,0:05:24.63,0:05:27.40,Main,Nacht,0,0,0,,Vocês venceram um demônio\Ndo mais alto escalão.
+Dialogue: 0,0:05:27.40,0:05:29.53,Main,Nacht,0,0,0,,Deviam achar que isso já basta.
+Dialogue: 0,0:05:30.02,0:05:33.81,Main,Nacht,0,0,0,,Nem todas as pessoas que estão certas\Nsão recompensadas.
+Dialogue: 0,0:05:33.81,0:05:35.19,Main,Nacht,0,0,0,,Essa é a realidade.
+Dialogue: 0,0:05:36.05,0:05:38.31,Italics,Nacht,0,0,0,,Mas eu queria que eles\Nfossem recompensados…
+Dialogue: 0,0:05:38.69,0:05:40.81,Main,Luck,0,0,0,,Ei, você trouxe?
+Dialogue: 0,0:05:40.81,0:05:41.74,Main,Nacht,0,0,0,,Trouxe.
+Dialogue: 0,0:05:42.75,0:05:44.26,Main,Nacht,0,0,0,,Mas agora já…
+Dialogue: 0,0:05:49.48,0:05:50.63,Italics,Noelle,0,0,0,,Não!
+Dialogue: 0,0:05:54.01,0:05:55.49,Italics,Noelle,0,0,0,,A Mimosa consegue!
+Dialogue: 0,0:05:57.62,0:06:00.09,Main,Mimosa,0,0,0,,Eu não vou deixar ninguém morrer!
+Dialogue: 0,0:06:02.84,0:06:05.54,Main,Mimosa,0,0,0,,Magia Definitiva de Plantas:
+Dialogue: 0,0:06:06.44,0:06:08.68,Main,Mimosa,0,0,0,,Utopia da Princesa das Flores!
+Dialogue: 0,0:06:13.38,0:06:15.58,Italics,Nacht,0,0,0,,Essa magia de recuperação…
+Dialogue: 0,0:06:15.58,0:06:18.36,Main,Noelle,0,0,0,,Que mal tem em virar\Na realidade do avesso?
+Dialogue: 0,0:06:18.97,0:06:20.61,Main,Noelle,0,0,0,,Afinal de contas, isso…
+Dialogue: 0,0:06:21.32,0:06:22.91,Main,Noelle,0,0,0,,é magia, não é?
+Dialogue: 0,0:06:23.82,0:06:25.11,Main,Loropechika,0,0,0,,Gaja-san!
+Dialogue: 0,0:06:25.11,0:06:28.60,Main,Asta,0,0,0,,Rill! Capitã Charlotte!
+Dialogue: 0,0:06:28.60,0:06:30.74,Main,Asta,0,0,0,,Que bom!
+Dialogue: 0,0:06:30.74,0:06:33.72,Main,Asta,0,0,0,,A Mimosa é demais!
+Dialogue: 0,0:06:35.42,0:06:37.49,Main,Loropechika,0,0,0,,Por alguém como eu…
+Dialogue: 0,0:06:37.49,0:06:39.98,Main,Loropechika,0,0,0,,Desculpem, desculpem!
+Dialogue: 0,0:06:39.98,0:06:43.67,Main,Gaja,0,0,0,,Não. É o meu dever\Ncomo Guardião Espiritual.
+Dialogue: 0,0:06:43.67,0:06:45.50,Main,Noelle,0,0,0,,Vocês dois, hein…
+Dialogue: 0,0:06:45.50,0:06:48.01,Main,Noelle,0,0,0,,Tem coisa mais importante\Npra dizer, né? Vai!
+Dialogue: 0,0:06:52.76,0:06:54.25,Main,Gaja,0,0,0,,Eu amo a senhora.
+Dialogue: 0,0:06:58.20,0:07:00.23,Main,Gaja,0,0,0,,Não como rainha…
+Dialogue: 0,0:07:00.23,0:07:03.56,Main,Gaja,0,0,0,,mas como uma mulher…
+Dialogue: 0,0:07:08.53,0:07:10.48,Main,Noelle,0,0,0,,Ei, peraí, você!
+Dialogue: 0,0:07:10.48,0:07:11.80,Main,Gaja,0,0,0,,Entendi errado?
+Dialogue: 0,0:07:11.80,0:07:14.75,Main,Undine,0,0,0,,A Loropechika é minha!
+Dialogue: 0,0:07:15.17,0:07:17.36,Main,Undine,0,0,0,,Mas, se for o Gaja…
+Dialogue: 0,0:07:20.00,0:07:24.31,Main,Nozel,0,0,0,,Me irrita, mas a Noelle ficou forte\Ngraças àquele sujeito…
+Dialogue: 0,0:07:24.31,0:07:27.15,Main,Nozel,0,0,0,,Precisamos salvá-lo,\Ncuste o que custar…
+Dialogue: 0,0:07:27.15,0:07:28.70,Main,Nozel,0,0,0,,o Yami!
+Dialogue: 0,0:07:31.70,0:07:33.51,Italics,Nacht,0,0,0,,Parece que eles
+Dialogue: 0,0:07:33.51,0:07:35.40,Italics,Nacht,0,0,0,,ganharam muito mais poder
+Dialogue: 0,0:07:35.40,0:07:37.85,Italics,Nacht,0,0,0,,do que eu imaginava…
+Dialogue: 0,0:07:38.78,0:07:41.35,Italics,Nacht,0,0,0,,Agora só falta um\Nda Tríade das Trevas!
+Dialogue: 0,0:07:41.86,0:07:43.44,Italics,Nacht,0,0,0,,O que resta é…
+Dialogue: 0,0:07:41.86,0:07:44.61,Sign,Sign,0,0,0,,{\fad(1,856)\fs18\c&HFFFFFF&\3c&H000000&\fnTimes New Roman\pos(325,141)}Pouco antes da derrota da Megicula
+Dialogue: 0,0:07:49.40,0:07:52.48,Main,Zenon,0,0,0,,Continuar é perda de tempo…
+Dialogue: 0,0:07:52.48,0:07:54.75,Main,Zenon,0,0,0,,Vamos acabar com isso.
+Dialogue: 0,0:07:57.36,0:08:00.04,Main,Yuno,0,0,0,,Droga… O que eu faço?
+Dialogue: 0,0:08:00.04,0:08:01.13,Main,Yuno,0,0,0,,Langris-san,
+Dialogue: 0,0:08:02.31,0:08:03.73,Main,Yuno,0,0,0,,me dá três minutos!
+Dialogue: 0,0:08:03.73,0:08:06.13,Main,Yuno,0,0,0,,Vou acabar com ele no próximo golpe!
+Dialogue: 0,0:08:07.66,0:08:10.01,Italics,Yuno,0,0,0,,Tenho uma magia que pode acabar com ele.
+Dialogue: 0,0:08:10.01,0:08:13.01,Italics,Yuno,0,0,0,,Mas preciso de tempo pra acumular mana.
+Dialogue: 0,0:08:13.80,0:08:17.27,Italics,Yuno,0,0,0,,Não dá pra lançar enquanto\Nme defendo dos ataques!
+Dialogue: 0,0:08:17.99,0:08:20.19,Italics,Yuno,0,0,0,,Pra derrotar esse cara…
+Dialogue: 0,0:08:20.70,0:08:24.44,Italics,Langris,0,0,0,,…vou ter que servir de isca\Ne proteger o Yuno!
+Dialogue: 0,0:08:25.00,0:08:29.75,Italics,Langris,0,0,0,,Mas, se eu só consigo desviar\Ndos ataques com a ajuda do Yuno,
+Dialogue: 0,0:08:29.75,0:08:33.20,Italics,Langris,0,0,0,,ganhar três minutos é impossível!
+Dialogue: 0,0:08:34.00,0:08:36.70,Italics,Yuno/Langris,0,0,0,,Mesmo assim, não tem outro jeito!
+Dialogue: 0,0:08:38.56,0:08:42.44,Main,Yuno,0,0,0,,Você é o mago espacial\Nmais forte do Reino Clover,
+Dialogue: 0,0:08:42.44,0:08:44.76,Main,Yuno,0,0,0,,então já deve estar começando\Na enxergar alguma coisa, né?
+Dialogue: 0,0:08:45.56,0:08:49.34,Main,Yuno,0,0,0,,Não vai ficar só apanhando, vai?
+Dialogue: 0,0:08:52.22,0:08:55.97,Main,Zenon,0,0,0,,Eu já conheço o poder de vocês!
+Dialogue: 0,0:08:57.02,0:08:59.00,Italics,Langris,0,0,0,,Dentro do Espaço Absoluto
+Dialogue: 0,0:08:59.00,0:09:00.99,Italics,Langris,0,0,0,,e do Domínio do Espaço Demoníaco dele,
+Dialogue: 0,0:09:00.99,0:09:04.11,Italics,Langris,0,0,0,,quase ninguém consegue\Nnem usar magia.
+Dialogue: 0,0:09:04.11,0:09:07.09,Italics,Langris,0,0,0,,Os únicos que podem usar magia
+Dialogue: 0,0:09:07.09,0:09:09.36,Italics,Langris,0,0,0,,são quem tem mana do mesmo nível,
+Dialogue: 0,0:09:09.36,0:09:11.86,Italics,Langris,0,0,0,,quem é amado pela mana, como o Yuno,
+Dialogue: 0,0:09:11.86,0:09:13.74,Italics,Langris,0,0,0,,e escapou do domínio dele,
+Dialogue: 0,0:09:16.35,0:09:17.74,Italics,Langris,0,0,0,,e…
+Dialogue: 0,0:09:18.58,0:09:22.65,Italics,Langris,0,0,0,,um mago espacial que alcançou\Na Zona de Mana!
+Dialogue: 0,0:09:26.09,0:09:27.27,Main,Zenon,0,0,0,,Ora…
+Dialogue: 0,0:09:28.01,0:09:30.24,Italics,Zenon,0,0,0,,Dentro do meu Espaço Absoluto,
+Dialogue: 0,0:09:30.24,0:09:33.26,Italics,Zenon,0,0,0,,ele criou um espaço próprio,\Nmesmo que pequeno…
+Dialogue: 0,0:09:33.26,0:09:37.74,Main,Yuno,0,0,0,,Viu só? Quando quer, consegue.\NImpressionante!
+Dialogue: 0,0:09:37.74,0:09:40.85,Main,Langris,0,0,0,,Francamente…\NQue novato mais insuportável.
+Dialogue: 0,0:09:40.85,0:09:42.19,Main,Langris,0,0,0,,Sério mesmo!
+Dialogue: 0,0:09:43.03,0:09:46.36,Italics,Langris,0,0,0,,Desde que entrou no esquadrão,\Nera atrevido e arrogante,
+Dialogue: 0,0:09:46.36,0:09:49.64,Italics,Langris,0,0,0,,um novato com talento\Nà altura disso…
+Dialogue: 0,0:09:50.02,0:09:53.65,Italics,Langris,0,0,0,,Pensando agora, acho que eu odiava ele\Npor sermos parecidos.
+Dialogue: 0,0:09:54.58,0:09:58.24,Italics,Langris,0,0,0,,Mas eu não achava, de jeito nenhum,\Nque ia perder.
+Dialogue: 0,0:09:58.24,0:10:02.01,Italics,Langris,0,0,0,,Pensava que alguém como você\Nnunca me superaria.
+Dialogue: 0,0:10:03.96,0:10:07.96,Main,Zenon,0,0,0,,Mas, no fim, vocês não têm\Ncomo me atacar.
+Dialogue: 0,0:10:07.96,0:10:11.38,Main,Zenon,0,0,0,,Vocês não têm nenhuma magia\Ncapaz de me derrotar agora.
+Dialogue: 0,0:10:13.13,0:10:15.74,Italics,Langris,0,0,0,,A mana dele é de outro nível!
+Dialogue: 0,0:10:16.14,0:10:18.14,Italics,Langris,0,0,0,,Como eu pensei,\Nnão vou aguentar muito…
+Dialogue: 0,0:10:20.04,0:10:22.27,Italics,Langris,0,0,0,,Anda logo, por favor!
+Dialogue: 0,0:10:22.69,0:10:24.26,Italics,Yuno,0,0,0,,Já estou fazendo!
+Dialogue: 0,0:10:25.72,0:10:29.28,Italics,Langris,0,0,0,,Pois é… Minha magia espacial\Nera invencível.
+Dialogue: 0,0:10:30.48,0:10:32.79,Italics,Langris,0,0,0,,Bastava eu me esforçar.
+Dialogue: 0,0:10:33.44,0:10:37.16,Italics,Langris,0,0,0,,Comigo, meu esquadrão era o mais forte.
+Dialogue: 0,0:10:37.63,0:10:41.00,Italics,Langris,0,0,0,,Mas a sua força era diferente.
+Dialogue: 0,0:10:41.70,0:10:44.61,Italics,Langris,0,0,0,,Como se empurrasse os outros\Ncom esse seu vento…
+Dialogue: 0,0:10:45.17,0:10:46.46,Italics,Langris,0,0,0,,como se voasse junto com eles…
+Dialogue: 0,0:10:47.01,0:10:50.34,Italics,Langris,0,0,0,,A sua força não era egoísta.
+Dialogue: 0,0:10:52.76,0:10:55.55,Italics,Langris,0,0,0,,Esse seu jeito de odiar perder\Nmotivou todo mundo
+Dialogue: 0,0:10:56.00,0:10:57.34,Italics,Langris,0,0,0,,e deixou todos mais fortes.
+Dialogue: 0,0:11:00.39,0:11:01.85,Main,Langris,0,0,0,,Heh. Odeio admitir, mas
+Dialogue: 0,0:11:01.85,0:11:03.86,Main,Langris,0,0,0,,vou reconhecer…
+Dialogue: 0,0:11:04.92,0:11:06.03,Main,Langris,0,0,0,,você…
+Dialogue: 0,0:11:06.44,0:11:09.85,Main,Langris,0,0,0,,é o Vice-Capitão do Alvorecer Dourado!
+Dialogue: 0,0:11:10.60,0:11:13.49,Main,Zenon,0,0,0,,Diante de um poder esmagador,
+Dialogue: 0,0:11:13.49,0:11:17.53,Main,Zenon,0,0,0,,sentimentos, obstinação,\Ntudo isso não tem sentido.
+Dialogue: 0,0:11:20.78,0:11:22.52,Main,Zenon,0,0,0,,A única realidade que existe
+Dialogue: 0,0:11:22.52,0:11:27.44,Main,Zenon,0,0,0,,é a de que eu sou\Nmais forte do que vocês.
+Dialogue: 0,0:11:27.44,0:11:29.92,Main,Langris,0,0,0,,Não dá pra simplesmente aceitar
+Dialogue: 0,0:11:29.92,0:11:33.18,Main,Langris,0,0,0,,e dar meia-volta!
+Dialogue: 0,0:11:38.92,0:11:42.99,Main,Langris,0,0,0,,Nós somos… o esquadrão de\NCavaleiros Mágicos mais forte,
+Dialogue: 0,0:11:42.99,0:11:45.44,Main,Langris,0,0,0,,o Alvorecer Dourado!
+Dialogue: 0,0:11:45.89,0:11:47.14,Main,Yuno,0,0,0,,Você também
+Dialogue: 0,0:11:48.98,0:11:51.98,Main,Yuno,0,0,0,,odeia perder mais que tudo!
+Dialogue: 0,0:11:52.90,0:11:55.02,Main,Yuno,0,0,0,,Magia de Criação Espiritual de Vento:
+Dialogue: 0,0:11:55.02,0:11:57.22,Main,Yuno,0,0,0,,Espírito de Euros!
+Dialogue: 0,0:12:12.22,0:12:14.00,Italics,Zenon,0,0,0,,Que rápido…
+Dialogue: 0,0:12:14.75,0:12:18.76,Italics,Zenon,0,0,0,,Meu corpo foi atravessado\Nde lado a lado…
+Dialogue: 0,0:12:20.99,0:12:23.89,Main,Yuno,0,0,0,,A nossa obstinação venceu!
+Dialogue: 0,0:12:29.41,0:12:30.54,Italics,Zenon,0,0,0,,Allen…
+Dialogue: 0,0:12:39.51,0:12:41.52,Flashback,Vanica,0,0,0,,Ih, o que foi?
+Dialogue: 0,0:12:42.32,0:12:44.30,Flashback,Vanica,0,0,0,,Se machucou de novo?
+Dialogue: 0,0:12:44.30,0:12:45.88,Flashback,Vanica,0,0,0,,Que inútil!
+Dialogue: 0,0:12:45.88,0:12:47.45,Flashback,Dante,0,0,0,,Francamente…
+Dialogue: 0,0:12:47.45,0:12:50.03,Flashback,Dante,0,0,0,,Isso é patético para um irmão meu.
+Dialogue: 0,0:12:56.46,0:12:59.34,Flashback,Lucius,0,0,0,,Não se preocupe, Zenon…
+Dialogue: 0,0:13:01.34,0:13:02.40,Flashback,Zenon,0,0,0,,Nii-sama…
+Dialogue: 0,0:13:03.03,0:13:06.02,Flashback,Lucius,0,0,0,,De todos, você é o mais\Nparecido comigo…
+Dialogue: 0,0:13:08.48,0:13:11.35,Flashback,Lucius,0,0,0,,Mais do que o Dante,\Nmais do que a Vanica,
+Dialogue: 0,0:13:11.35,0:13:13.71,Flashback,Lucius,0,0,0,,você tem talento pra ser\Nhospedeiro de um demônio…
+Dialogue: 0,0:13:17.98,0:13:19.36,Flashback,Garotos,0,0,0,,Ei!
+Dialogue: 0,0:13:21.50,0:13:23.28,Flashback,John,0,0,0,,Toma!
+Dialogue: 0,0:13:23.28,0:13:25.50,Flashback,Garoto 1,0,0,0,,O John é forte demais!
+Dialogue: 0,0:13:25.50,0:13:29.43,Flashback,John,0,0,0,,Seu esquisito que solta\Nosso pelo corpo…
+Dialogue: 0,0:13:30.04,0:13:33.88,Flashback,John,0,0,0,,Eu, filho de um membro\Nda Força de Defesa Mágica,
+Dialogue: 0,0:13:33.88,0:13:37.01,Flashback,John,0,0,0,,vou acabar com você!
+Dialogue: 0,0:13:39.81,0:13:41.52,Flashback,Allen,0,0,0,,Do que você tá falando?
+Dialogue: 0,0:13:42.43,0:13:45.42,Flashback,Allen,0,0,0,,É só uma magia diferente, ué.
+Dialogue: 0,0:13:45.42,0:13:47.43,Flashback,John,0,0,0,,Droga, é o Allen!
+Dialogue: 0,0:13:47.43,0:13:49.30,Flashback,John,0,0,0,,Corre!
+Dialogue: 0,0:13:49.30,0:13:53.23,Flashback,Allen,0,0,0,,Que vergonha, pra um filho de membro\Nda Força de Defesa Mágica…
+Dialogue: 0,0:13:55.24,0:13:59.02,Flashback,Allen,0,0,0,,Eu sou o Allen!\NSua magia parece forte!
+Dialogue: 0,0:14:02.84,0:14:05.37,Flashback,Allen,0,0,0,,Todo mundo tá com medo e inseguro.
+Dialogue: 0,0:14:06.16,0:14:09.37,Flashback,Allen,0,0,0,,O Reino Spade vive coberto de neve,
+Dialogue: 0,0:14:09.37,0:14:11.64,Flashback,Allen,0,0,0,,tem guerra civil toda hora,
+Dialogue: 0,0:14:11.64,0:14:14.50,Flashback,Allen,0,0,0,,e ainda tem as invasões\Ndo Reino Diamond…
+Dialogue: 0,0:14:15.24,0:14:16.96,Flashback,Allen,0,0,0,,Eu quero ficar forte
+Dialogue: 0,0:14:16.96,0:14:20.03,Flashback,Allen,0,0,0,,e proteger o povo do reino,\Nque vive tremendo de medo!
+Dialogue: 0,0:14:21.42,0:14:23.22,Flashback,Allen,0,0,0,,Quero ser alguém que acende
+Dialogue: 0,0:14:23.22,0:14:26.02,Flashback,Allen,0,0,0,,a chama da esperança\Nnesta terra congelada!
+Dialogue: 0,0:14:29.02,0:14:30.04,Flashback,Allen,0,0,0,,Por isso…
+Dialogue: 0,0:14:30.68,0:14:34.35,Flashback,Allen,0,0,0,,eu vou ser o comandante-geral\Nda Força de Defesa Mágica!
+Dialogue: 0,0:14:35.63,0:14:36.74,Flashback,Zenon,0,0,0,,Eu também…
+Dialogue: 0,0:14:38.88,0:14:40.75,Flashback,Zenon,0,0,0,,Eu também vou ser comandante-geral!
+Dialogue: 0,0:14:41.36,0:14:44.36,Flashback,Allen,0,0,0,,Então a gente é rival!
+Dialogue: 0,0:14:44.36,0:14:48.02,Flashback,Allen,0,0,0,,Vamos ver quem vai ser\No comandante-geral!
+Dialogue: 0,0:15:01.00,0:15:03.63,Flashback-Italics,Zenon,0,0,0,,Me desculpe, irmão…
+Dialogue: 0,0:15:04.96,0:15:09.03,Flashback-Italics,Zenon,0,0,0,,Eu… não tenho interesse\Nem ser hospedeiro de um demônio.
+Dialogue: 0,0:15:13.22,0:15:17.26,Flashback,Membro da Força de Defesa 1,0,0,0,,Bem-vindos à Quarta Divisão\Nda Força de Defesa Mágica.
+Dialogue: 0,0:15:17.90,0:15:20.66,Flashback,Membro da Força de Defesa 2,0,0,0,,Os dois novatos deste ano\Njá estão prontos pra luta!
+Dialogue: 0,0:15:20.66,0:15:23.52,Flashback,Membro da Força de Defesa 2,0,0,0,,Principalmente o Zenon,\Nda Magia dos Ossos. É um gênio!
+Dialogue: 0,0:15:24.68,0:15:27.59,Flashback,Membro da Força de Defesa 1,0,0,0,,Uma masmorra apareceu\Nao noroeste da cidade de Lawton!
+Dialogue: 0,0:15:27.59,0:15:29.74,Flashback,Membro da Força de Defesa 1,0,0,0,,Quarta Divisão, investiguem já!
+Dialogue: 0,0:15:30.50,0:15:32.74,Flashback,Allen,0,0,0,,Dessa vez eu não perco, Zenon!
+Dialogue: 0,0:15:35.00,0:15:37.54,Flashback,Zenon,0,0,0,,Missão não é competição, Allen.
+Dialogue: 0,0:15:37.54,0:15:40.33,Flashback,Allen,0,0,0,,Sério como sempre, hein?
+Dialogue: 0,0:15:52.28,0:15:55.48,Flashback,Membro da Força de Defesa 2,0,0,0,,Não acredito…\NTinha um demônio selado aqui!
+Dialogue: 0,0:15:55.48,0:15:59.22,Flashback,Membro da Força de Defesa 3,0,0,0,,Que força absurda…\NDesse jeito, vai matar todo mundo!
+Dialogue: 0,0:16:00.86,0:16:02.69,Flashback-Italics,Zenon,0,0,0,,Pra derrotar ele…
+Dialogue: 0,0:16:03.34,0:16:07.45,Flashback-Italics,Zenon,0,0,0,,só usando minha magia mais forte,\Ncom toda a minha mana!
+Dialogue: 0,0:16:07.45,0:16:11.00,Flashback-Italics,Zenon,0,0,0,,Mas não consigo uma brecha\Npra acertar…
+Dialogue: 0,0:16:11.54,0:16:15.20,Flashback,Allen,0,0,0,,Eu… vou ser o comandante-geral\Nda Força de Defesa Mágica!
+Dialogue: 0,0:16:18.24,0:16:20.96,Flashback,Allen,0,0,0,,Não vou perder num lugar desses!
+Dialogue: 0,0:16:20.96,0:16:22.70,Flashback,Zenon,0,0,0,,Allen!
+Dialogue: 0,0:16:22.70,0:16:25.48,Flashback-Italics,Zenon,0,0,0,,Isso só vai servir pra ganhar tempo…
+Dialogue: 0,0:16:28.26,0:16:29.76,Flashback-Italics,Zenon,0,0,0,,É agora ou nunca…
+Dialogue: 0,0:16:30.64,0:16:33.00,Flashback-Italics,Zenon,0,0,0,,Se eu atacar agora,\Nderroto o demônio…
+Dialogue: 0,0:16:33.00,0:16:35.01,Flashback-Italics,Zenon,0,0,0,,junto com o Allen…
+Dialogue: 0,0:16:36.02,0:16:38.03,Flashback-Italics,Zenon,0,0,0,,Se eu não acabar com ele agora,
+Dialogue: 0,0:16:38.03,0:16:42.22,Flashback-Italics,Zenon,0,0,0,,todos aqui, inclusive eu, vão morrer.
+Dialogue: 0,0:16:43.87,0:16:46.36,Flashback-Italics,Zenon,0,0,0,,E o reino vai sofrer…
+Dialogue: 0,0:16:46.36,0:16:50.16,Flashback-Italics,Zenon,0,0,0,,No mínimo, as pessoas da cidade\Nmais próxima vão morrer…
+Dialogue: 0,0:17:02.17,0:17:04.92,Flashback,Allen,0,0,0,,Ainda não!
+Dialogue: 0,0:17:10.75,0:17:12.60,Flashback-Italics,Zenon,0,0,0,,Sem poder,
+Dialogue: 0,0:17:12.60,0:17:15.33,Flashback-Italics,Zenon,0,0,0,,sentimentos e obstinação\Nnão têm sentido.
+Dialogue: 0,0:17:18.26,0:17:21.01,Flashback-Italics,Zenon,0,0,0,,Os fracos devem ser descartados.
+Dialogue: 0,0:17:24.00,0:17:27.94,Flashback-Italics,Zenon,0,0,0,,Só o poder esmagador é absoluto.
+Dialogue: 0,0:17:29.52,0:17:33.00,Italics,Zenon,0,0,0,,Se até um demônio qualquer\Ntem tanta força…
+Dialogue: 0,0:17:34.02,0:17:35.18,Flashback,Zenon,0,0,0,,Irmão.
+Dialogue: 0,0:17:37.00,0:17:40.66,Flashback,Zenon,0,0,0,,Faça de mim\Num hospedeiro de demônio.
+Dialogue: 0,0:17:44.32,0:17:47.51,Flashback,Zenon,0,0,0,,Beelzebub, vamos fazer um acordo…
+Dialogue: 0,0:17:47.92,0:17:50.51,Flashback,Zenon,0,0,0,,Me dê o coração de um demônio.
+Dialogue: 0,0:17:52.52,0:17:54.64,Flashback,Beelzebub,0,0,0,,Um coração?
+Dialogue: 0,0:17:59.48,0:18:03.64,Flashback,Beelzebub,0,0,0,,E o que você pretende\Noferecer em troca?
+Dialogue: 0,0:18:03.64,0:18:06.02,Flashback,Zenon,0,0,0,,Tudo o que eu sou!
+Dialogue: 0,0:18:07.09,0:18:09.03,Flashback,Zenon,0,0,0,,Como está no contrato,
+Dialogue: 0,0:18:09.03,0:18:12.22,Flashback,Zenon,0,0,0,,se o Reino Spade continuar existindo,
+Dialogue: 0,0:18:12.22,0:18:15.45,Flashback,Zenon,0,0,0,,eu te dou até a minha alma.
+Dialogue: 0,0:18:18.30,0:18:19.64,Flashback,Beelzebub,0,0,0,,Muito bem.
+Dialogue: 0,0:18:20.56,0:18:22.31,Flashback,Beelzebub,0,0,0,,Pode levar!
+Dialogue: 0,0:18:33.93,0:18:35.64,Main,Yuno,0,0,0,,O-O quê?
+Dialogue: 0,0:18:43.85,0:18:45.44,Italics,Yuno,0,0,0,,Essa sensação…
+Dialogue: 0,0:18:46.47,0:18:48.09,Italics,Yuno,0,0,0,,É igual àquele cara!
+Dialogue: 0,0:18:48.11,0:18:51.72,Main,Zenon,0,0,0,,Agora que tenho um coração de demônio,
+Dialogue: 0,0:18:51.72,0:18:55.22,Main,Zenon,0,0,0,,virei alguém de força\Nainda mais esmagadora.
+Dialogue: 0,0:18:55.98,0:18:58.04,Italics,Langris,0,0,0,,Usa o poder de um demônio
+Dialogue: 0,0:18:58.04,0:19:00.27,Italics,Langris,0,0,0,,e tem um coração de demônio…
+Dialogue: 0,0:19:00.27,0:19:02.25,Italics,Langris,0,0,0,,Um cara desses…
+Dialogue: 0,0:19:03.04,0:19:05.00,Italics,Langris,0,0,0,,já é um demônio, não?
+Dialogue: 0,0:19:21.85,0:19:24.60,Italics,Zenon,0,0,0,,Aquela flecha de antes…
+Dialogue: 0,0:19:25.90,0:19:28.10,Italics,Zenon,0,0,0,,Pra não acertar o seu companheiro,
+Dialogue: 0,0:19:28.10,0:19:29.90,Italics,Zenon,0,0,0,,você desviou um pouco
+Dialogue: 0,0:19:29.90,0:19:32.48,Italics,Zenon,0,0,0,,e errou o meu coração…
+Dialogue: 0,0:19:35.32,0:19:39.35,Italics,Zenon,0,0,0,,Se tivesse atravessado o meu coração\Njunto com o seu companheiro,
+Dialogue: 0,0:19:40.02,0:19:42.70,Main,Zenon,0,0,0,,você teria vencido.
+Dialogue: 0,0:20:11.74,0:20:13.53,Main,Zenon,0,0,0,,Seu moribundo…
+Dialogue: 0,0:20:13.53,0:20:16.04,Main,Zenon,0,0,0,,Ainda vai ficar no meu caminho?
+Dialogue: 0,0:20:16.86,0:20:18.99,Main,Zenon,0,0,0,,Vou acabar com o seu sofrimento.
+Dialogue: 0,0:20:28.12,0:20:30.38,Main,Finral,0,0,0,,E aí, Langris!
+Dialogue: 0,0:20:30.38,0:20:31.58,Main,Langris,0,0,0,,Nii-san?
+Dialogue: 0,0:20:31.58,0:20:33.29,Main,Zenon,0,0,0,,Aquele cara…
+Dialogue: 0,0:20:34.34,0:20:37.07,Main,Langris,0,0,0,,Não sei o que veio fazer aqui, mas…
+Dialogue: 0,0:20:37.07,0:20:39.63,Main,Langris,0,0,0,,veio me salvar de novo, é isso?
+Dialogue: 0,0:20:39.98,0:20:42.04,Italics,Finral,0,0,0,,Eu vi você e aquele cara
+Dialogue: 0,0:20:42.04,0:20:43.78,Italics,Finral,0,0,0,,e saí correndo sem pensar…
+Dialogue: 0,0:20:44.33,0:20:45.52,Main,Finral,0,0,0,,Não é isso!
+Dialogue: 0,0:20:46.01,0:20:48.75,Main,Finral,0,0,0,,Aquele cara levou o nosso capitão…
+Dialogue: 0,0:20:48.75,0:20:51.00,Main,Finral,0,0,0,,com magia espacial!
+Dialogue: 0,0:20:51.42,0:20:54.28,Main,Finral,0,0,0,,Não dá pra deixar\Num cara desses passar!
+Dialogue: 0,0:20:55.64,0:20:56.69,Italics,Finral,0,0,0,,Desculpa…
+Dialogue: 0,0:20:56.69,0:21:00.01,Italics,Finral,0,0,0,,Vou fazer um desvio rápido, Yami-san!
+Dialogue: 0,0:21:00.84,0:21:04.03,Italics,Finral,0,0,0,,Tô usando o Bater de Asas do Anjo Caído\Ndireto no Langris!
+Dialogue: 0,0:21:05.01,0:21:06.76,Italics,Finral,0,0,0,,Teleporte Instantâneo!
+Dialogue: 0,0:21:08.04,0:21:11.66,Italics,Finral,0,0,0,,Mesmo dentro do Espaço Absoluto\Ndo Zenon, ela permite usar magia:
+Dialogue: 0,0:21:11.66,0:21:13.21,Italics,Finral,0,0,0,,a Zona de Mana do Langris!
+Dialogue: 0,0:21:13.93,0:21:16.21,Italics,Langris,0,0,0,,Ágil e preciso:
+Dialogue: 0,0:21:16.21,0:21:18.21,Italics,Langris,0,0,0,,o movimento espacial do Nii-san…
+Dialogue: 0,0:21:18.78,0:21:22.22,Main,Finral,0,0,0,,Agora, juntos, a gente consegue lutar!
+Dialogue: 0,0:21:22.22,0:21:23.86,Main,Finral,0,0,0,,Não é, Langris?
+Dialogue: 0,0:21:25.00,0:21:26.68,Main,Langris,0,0,0,,Francamente…
+Dialogue: 0,0:21:27.01,0:21:28.68,Main,Langris,0,0,0,,Que Nii-san mais atrevido!
+Dialogue: 0,0:21:34.03,0:21:37.05,Italics,Finral,0,0,0,,O corpo do Langris\Nnão vai aguentar muito tempo!
+Dialogue: 0,0:21:37.05,0:21:38.32,Italics,Finral,0,0,0,,Vou acabar logo com isso!
+Dialogue: 0,0:21:39.44,0:21:42.21,Italics,Zenon,0,0,0,,Já captei a velocidade e o ritmo
+Dialogue: 0,0:21:42.21,0:21:44.01,Italics,Zenon,0,0,0,,do movimento espacial dele…
+Dialogue: 0,0:21:44.01,0:21:45.72,Italics,Zenon,0,0,0,,E o que eles querem também…
+Dialogue: 0,0:21:46.19,0:21:48.95,Italics,Zenon,0,0,0,,Quando vierem dar o golpe final,\Nvai ser o fim deles.
+Dialogue: 0,0:21:49.54,0:21:51.77,Italics,Zenon/Finral,0,0,0,,Pra entrar na Zona de Mana,
+Dialogue: 0,0:21:51.77,0:21:52.96,Italics,Finral,0,0,0,,chegar perto!
+Dialogue: 0,0:21:56.99,0:21:58.63,Italics,Zenon,0,0,0,,Acabou.
+Dialogue: 0,0:22:01.01,0:22:02.11,Italics,Zenon,0,0,0,,O quê?
+Dialogue: 0,0:22:04.00,0:22:06.80,Italics,Finral,0,0,0,,Aumentar a velocidade\Ncom o Método de Mana!
+Dialogue: 0,0:22:07.42,0:22:09.69,Italics,Finral,0,0,0,,A magia do Langris escava o espaço!
+Dialogue: 0,0:22:09.69,0:22:11.47,Italics,Finral,0,0,0,,Por mais forte que seja
+Dialogue: 0,0:22:11.47,0:22:13.06,Italics,Finral,0,0,0,,a sua defesa…
+Dialogue: 0,0:22:13.64,0:22:15.50,Italics,Finral/Langris,0,0,0,,…não importa!
+Dialogue: 0,0:22:27.45,0:22:30.35,Ending,Música,0,0,0,,Carregando a marca do "não",
+Dialogue: 0,0:22:30.35,0:22:33.96,Ending,Música,0,0,0,,esta prova que não me larga
+Dialogue: 0,0:22:35.46,0:22:39.47,Ending,Música,0,0,0,,Tudo decidido pelo talento\Ncom que a gente nasce
+Dialogue: 0,0:22:39.47,0:22:42.47,Ending,Música,0,0,0,,Uma peça pregada por Deus
+Dialogue: 0,0:22:43.47,0:22:45.56,Ending,Música,0,0,0,,Nesta jornada longa e sem fim,
+Dialogue: 0,0:22:45.56,0:22:47.62,Ending,Música,0,0,0,,quem é indispensável é você
+Dialogue: 0,0:22:47.62,0:22:51.42,Ending,Música,0,0,0,,Em vez de só esperar o "acaso",\Nfaço milagres com esta "obstinação"
+Dialogue: 0,0:22:51.42,0:22:55.03,Ending,Música,0,0,0,,Do outro lado da névoa, o nascer do sol
+Dialogue: 0,0:22:55.03,0:22:58.48,Ending,Música,0,0,0,,Então vamos correr pela noite\Njuntos, você e eu
+Dialogue: 0,0:22:58.48,0:23:02.23,Ending,Música,0,0,0,,Por que a gente não vai
+Dialogue: 0,0:23:02.23,0:23:03.93,Ending,Música,0,0,0,,Rumo à Estrada de Tijolos Amarelos
+Dialogue: 0,0:23:03.93,0:23:06.28,Ending,Música,0,0,0,,caminhando lado a lado?
+Dialogue: 0,0:23:06.28,0:23:10.32,Ending,Música,0,0,0,,Então, por que a gente não vai
+Dialogue: 0,0:23:10.32,0:23:12.17,Ending,Música,0,0,0,,Rumo à Estrada de Tijolos Amarelos?
+Dialogue: 0,0:23:12.17,0:23:16.19,Ending,Música,0,0,0,,Você e eu\NTodo dia a gente vê algo novo
+Dialogue: 0,0:23:16.19,0:23:19.04,Ending,Música,0,0,0,,Que eu não ia mais voltar atrás
+Dialogue: 0,0:23:19.93,0:23:22.46,Ending,Música,0,0,0,,foi o que eu jurei pra você
+Dialogue: 0,0:23:24.01,0:23:27.28,Ending,Música,0,0,0,,Mas, quando olho pra trás, as pegadas
+Dialogue: 0,0:23:27.28,0:23:30.95,Ending,Música,0,0,0,,continuam lá, sem se apagar
+Dialogue: 0,0:23:30.95,0:23:34.93,Ending,Música,0,0,0,,Por que a gente não vai
+Dialogue: 0,0:23:34.93,0:23:36.48,Ending,Música,0,0,0,,Rumo à Estrada de Tijolos Amarelos?
+Dialogue: 0,0:23:36.48,0:23:40.80,Ending,Música,0,0,0,,Você e eu\NTodo dia a gente vê algo novo
+Dialogue: 0,0:23:46.09,0:23:49.37,Ending,Música,0,0,0,,Todo dia a gente vê\Nalgo novo
+
