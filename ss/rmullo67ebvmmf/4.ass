@@ -1,0 +1,296 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.46,0:00:06.20,Gen_Main,noelle,0,0,0,,¡Ganamos nosotros\Npor no habernos rendido, Megicula!
+Dialogue: 0,0:00:07.74,0:00:14.46,Gen_Main,megicula,0,0,0,,Parece que había calculado mal\Nvuestro auténtico poder.
+Dialogue: 0,0:00:20.54,0:00:24.44,Gen_Main,acier,0,0,0,,Los dos os habéis vuelto muy fuertes.
+Dialogue: 0,0:01:59.54,0:02:04.93,Cart_A_Tre,CARTEL,0,0,0,,{\an2\fs40\bord2\fax-0.1\blur3\fnTimes New Roman\pos(320,123.73)\3c&H000000&\3a&H6F&}El corazón del demonio
+Dialogue: 0,0:02:26.04,0:02:28.29,Gen_Main,asta,0,0,0,,¡Lo has conseguido, Noelle!
+Dialogue: 0,0:02:28.54,0:02:30.16,Gen_Main,noelle,0,0,0,,¡Asta! ¡Loropechika!
+Dialogue: 0,0:02:31.00,0:02:34.28,Gen_Main,noelle,0,0,0,,Con Megicula muerta,\Nla maldición debe de haberse roto.
+Dialogue: 0,0:02:39.50,0:02:42.60,Gen_Main,asta,0,0,0,,¿Ha despertado, reina Loropechika?
+Dialogue: 0,0:02:46.20,0:02:48.94,Gen_Main,loropechika,0,0,0,,¡Lo siento! ¡Siento estar desnuda!
+Dialogue: 0,0:02:49.06,0:02:52.08,Gen_Main,asta,0,0,0,,¡No se preocupe, no he visto nada!
+Dialogue: 0,0:02:52.26,0:02:54.44,Gen_Main,noelle,0,0,0,,¿Qué haces, tonto?
+Dialogue: 0,0:02:54.56,0:02:56.81,Gen_Main,asta,0,0,0,,¡No he hecho nada!
+Dialogue: 0,0:02:57.52,0:02:58.74,Gen_Main,noelle,0,0,0,,Loropechika.
+Dialogue: 0,0:03:00.08,0:03:01.90,Gen_Main,noelle,0,0,0,,¡No sabes cuánto me alegro!
+Dialogue: 0,0:03:02.16,0:03:04.66,Gen_Main,undine,0,0,0,,¡Loropechika!
+Dialogue: 0,0:03:04.82,0:03:07.74,Gen_Main,loropechika,0,0,0,,Noelle. Undine.
+Dialogue: 0,0:03:08.04,0:03:10.41,Gen_Main,asta,0,0,0,,¿A qué venía eso, Noelle?
+Dialogue: 0,0:03:10.58,0:03:13.44,Gen_Main,noelle,0,0,0,,Cállate, tonto. Es porque has…
+Dialogue: 0,0:03:15.84,0:03:19.54,Gen_Italics,noelle,0,0,0,,¿Qué hago? Me alegro mucho\Nde volver a verlo, pero…
+Dialogue: 0,0:03:19.64,0:03:20.64,Gen_Main,asta,0,0,0,,¿Qué pasa?
+Dialogue: 0,0:03:20.76,0:03:24.58,Gen_Italics,noelle/asta,0,0,0,,-No puedo ni mirarlo de la vergüenza.\N-{\i0}Oye, ¿Noelle?{\i1}
+Dialogue: 0,0:03:24.86,0:03:28.00,Gen_Main,noelle,0,0,0,,¡No es nada, tonto!
+Dialogue: 0,0:03:31.74,0:03:33.98,Gen_Italics,nozel,0,0,0,,La maldición se ha roto,
+Dialogue: 0,0:03:34.14,0:03:37.60,Gen_Italics,nozel,0,0,0,,pero no sé cómo tratar a Noelle.
+Dialogue: 0,0:03:37.76,0:03:39.53,Gen_Main,noelle,0,0,0,,¿Hermano Nozel?
+Dialogue: 0,0:03:39.76,0:03:41.62,Gen_Main,rill,0,0,0,,Lo siento, Charlotte.
+Dialogue: 0,0:03:42.12,0:03:45.28,Gen_Main,rill,0,0,0,,El hechizo se acabará pronto.
+Dialogue: 0,0:03:45.76,0:03:49.12,Gen_Italics,rill,0,0,0,,No ha sido una obra insuperable.
+Dialogue: 0,0:03:49.46,0:03:51.98,Gen_Italics,rill,0,0,0,,Mi mejor obra es…
+Dialogue: 0,0:03:52.16,0:03:53.92,Gen_Main,charlotte,0,0,0,,No te disculpes, Rill.
+Dialogue: 0,0:03:54.62,0:03:57.22,Gen_Main,charlotte,0,0,0,,Gracias a ti he podido luchar.
+Dialogue: 0,0:03:58.22,0:03:59.55,Gen_Main,charlotte,0,0,0,,Te lo agradezco.
+Dialogue: 0,0:04:01.08,0:04:05.22,Gen_Main,charlotte,0,0,0,,Además, todavía no podemos morir.
+Dialogue: 0,0:04:05.78,0:04:06.86,Gen_Main,charlotte,0,0,0,,¿Me equivoco?
+Dialogue: 0,0:04:08.97,0:04:10.46,Gen_Main,luck,0,0,0,,¡Eh!
+Dialogue: 0,0:04:10.98,0:04:12.02,Gen_Main,noelle,0,0,0,,¡Luck!
+Dialogue: 0,0:04:12.14,0:04:16.48,Gen_Main,luck,0,0,0,,Qué guay, Noelle. Has vencido\Na un demonio de rango superior.
+Dialogue: 0,0:04:22.26,0:04:24.96,Gen_Main,luck,0,0,0,,No puedo despistarme.
+Dialogue: 0,0:04:25.58,0:04:26.78,Gen_Main,loropechika,0,0,0,,¡Gaja!
+Dialogue: 0,0:04:27.04,0:04:30.18,Gen_Main,gaja,0,0,0,,Me alegro de ver que está bien, rei…
+Dialogue: 0,0:04:37.36,0:04:38.44,Gen_Main,noelle,0,0,0,,¡Gaja!
+Dialogue: 0,0:04:40.18,0:04:42.70,Gen_Main,noelle,0,0,0,,¡Capitana Charlotte! ¡Capitán Rill!
+Dialogue: 0,0:04:46.24,0:04:49.62,Gen_Main,loropechika,0,0,0,,Magia de Recuperación de Agua:\NAquenelle Lore.
+Dialogue: 0,0:04:53.60,0:04:58.06,Gen_Italics,loropechika,0,0,0,,Mi magia no puede sanar esas heridas.
+Dialogue: 0,0:04:58.74,0:05:02.84,Gen_Main,loropechika,0,0,0,,No… Ellos me han salvado a mí y yo…
+Dialogue: 0,0:05:03.16,0:05:04.52,Gen_Main,loropechika,0,0,0,,Yo…
+Dialogue: 0,0:05:05.00,0:05:08.00,Gen_Italics,asta,0,0,0,,La Erradicamagia no puede sanarlos.
+Dialogue: 0,0:05:08.26,0:05:10.82,Gen_Main,asta,0,0,0,,Mierda… ¿No podemos hacer nada?
+Dialogue: 0,0:05:11.90,0:05:13.28,Gen_Italics,noelle,0,0,0,,No…
+Dialogue: 0,0:05:13.92,0:05:16.82,Gen_Main,noelle,0,0,0,,La gente que se esfuerza\Npor hacer lo correcto
+Dialogue: 0,0:05:17.00,0:05:19.56,Gen_Main,noelle,0,0,0,,¡no puede morir así!
+Dialogue: 0,0:05:19.82,0:05:22.26,Gen_Main,nacht,0,0,0,,No podemos hacer nada por ellos.
+Dialogue: 0,0:05:22.80,0:05:24.46,Gen_Main,asta,0,0,0,,Vicecapitán Nacht.
+Dialogue: 0,0:05:24.92,0:05:29.62,Gen_Main,nacht,0,0,0,,Conformémonos con su victoria\Nsobre un demonio de rango superior.
+Dialogue: 0,0:05:30.26,0:05:33.48,Gen_Main,nacht,0,0,0,,Las buenas acciones\Nno siempre tienen recompensa.
+Dialogue: 0,0:05:33.66,0:05:35.17,Gen_Main,nacht,0,0,0,,Así es la realidad.
+Dialogue: 0,0:05:36.22,0:05:38.32,Gen_Italics,nacht,0,0,0,,Aunque ojalá se lo recompensara.
+Dialogue: 0,0:05:38.92,0:05:41.72,Gen_Main,luck/nacht,0,0,0,,-¿La has traído?\N-Sí.
+Dialogue: 0,0:05:42.74,0:05:44.20,Gen_Main,nacht,0,0,0,,Pero ya es tarde.
+Dialogue: 0,0:05:49.66,0:05:50.82,Gen_Main,noelle,0,0,0,,No.
+Dialogue: 0,0:05:54.06,0:05:55.36,Gen_Main,noelle,0,0,0,,Mimosa puede hacerlo.
+Dialogue: 0,0:05:57.60,0:06:00.08,Gen_Main,mimosa,0,0,0,,¡No permitiré que muera nadie!
+Dialogue: 0,0:06:03.16,0:06:05.34,Gen_Main,mimosa,0,0,0,,Magia Definitiva Vegetal…
+Dialogue: 0,0:06:06.38,0:06:08.54,Gen_Main,mimosa,0,0,0,,¡Utopía de la Princesa Floral!
+Dialogue: 0,0:06:13.38,0:06:15.34,Gen_Italics,nacht,0,0,0,,¿Qué hechizo es ese?
+Dialogue: 0,0:06:15.72,0:06:18.34,Gen_Main,noelle,0,0,0,,¿Y qué si no es realista?
+Dialogue: 0,0:06:19.04,0:06:22.76,Gen_Main,noelle,0,0,0,,En eso consiste la magia, ¿no?
+Dialogue: 0,0:06:23.80,0:06:25.24,Gen_Main,loropechika,0,0,0,,Gaja…
+Dialogue: 0,0:06:25.62,0:06:30.74,Gen_Main,asta,0,0,0,,¡Rill! ¡Capitana Charlotte! Qué alivio.
+Dialogue: 0,0:06:31.00,0:06:33.82,Gen_Main,asta,0,0,0,,¡Eres genial, Mimosa!
+Dialogue: 0,0:06:35.42,0:06:39.82,Gen_Main,loropechika,0,0,0,,Siento que por mi culpa\Nhayas pasado por algo así.
+Dialogue: 0,0:06:39.94,0:06:43.66,Gen_Main,gaja,0,0,0,,No se disculpe.\NEs mi deber como Espíritu Guardián.
+Dialogue: 0,0:06:43.90,0:06:48.06,Gen_Main,noelle,0,0,0,,¿De verdad\Nno tenéis nada mejor que deciros?
+Dialogue: 0,0:06:52.80,0:06:54.30,Gen_Main,gaja,0,0,0,,La amo.
+Dialogue: 0,0:06:58.32,0:07:00.23,Gen_Main,gaja,0,0,0,,No como reina.
+Dialogue: 0,0:07:00.44,0:07:03.40,Gen_Main,gaja,0,0,0,,La amo como mujer.
+Dialogue: 0,0:07:08.46,0:07:10.30,Gen_Main,noelle,0,0,0,,¿Pero qué estás diciendo?
+Dialogue: 0,0:07:10.48,0:07:11.76,Gen_Main,gaja,0,0,0,,¿Me he equivocado?
+Dialogue: 0,0:07:11.94,0:07:14.76,Gen_Main,undine,0,0,0,,¡Loropechika es mía!
+Dialogue: 0,0:07:15.12,0:07:16.82,Gen_Main,undine,0,0,0,,Aunque siendo tú, quizás…
+Dialogue: 0,0:07:20.02,0:07:24.16,Gen_Main,nozel,0,0,0,,Aunque me pese,\NNoelle se ha fortalecido gracias a él.
+Dialogue: 0,0:07:24.90,0:07:28.70,Gen_Main,nozel,0,0,0,,Tendremos que rescatar a Yami.
+Dialogue: 0,0:07:31.70,0:07:33.36,Gen_Italics,nacht,0,0,0,,Por lo visto,
+Dialogue: 0,0:07:33.70,0:07:37.85,Gen_Italics,nacht,0,0,0,,han obtenido una fuerza\Nque supera mi imaginación.
+Dialogue: 0,0:07:38.82,0:07:41.38,Gen_Italics,nacht,0,0,0,,Solo queda un miembro\Nde la Tríada Oscura.
+Dialogue: 0,0:07:41.84,0:07:44.61,Cart_A_Tim,CARTEL,0,0,0,,{\an2\bord0\fs28\fad(0,780)\pos(320,155)}Poco antes de la derrota de Megicula
+Dialogue: 1,0:07:42.34,0:07:43.76,Gen_Italics,nacht,0,0,0,,El que resta es…
+Dialogue: 0,0:07:49.44,0:07:52.28,Gen_Main,zenon,0,0,0,,Continuar es una pérdida de tiempo.
+Dialogue: 0,0:07:52.64,0:07:54.74,Gen_Main,zenon,0,0,0,,Acabemos con esto.
+Dialogue: 0,0:07:57.36,0:07:59.86,Gen_Main,langris,0,0,0,,¿Y ahora qué hacemos?
+Dialogue: 0,0:08:00.02,0:08:01.14,Gen_Main,yuno,0,0,0,,Langris,
+Dialogue: 0,0:08:02.22,0:08:03.62,Gen_Main,yuno,0,0,0,,dame tres minutos.
+Dialogue: 0,0:08:03.94,0:08:06.12,Gen_Main,yuno,0,0,0,,El siguiente ataque será el último.
+Dialogue: 0,0:08:07.62,0:08:09.94,Gen_Italics,yuno,0,0,0,,Hay un hechizo capaz de matarlo,
+Dialogue: 0,0:08:10.28,0:08:12.60,Gen_Italics,yuno,0,0,0,,pero necesito tiempo\Npara acumular maná.
+Dialogue: 0,0:08:13.84,0:08:17.26,Gen_Italics,yuno,0,0,0,,No puedo lanzarlo\Nsi he de rechazar sus ataques.
+Dialogue: 0,0:08:18.08,0:08:20.18,Gen_Italics,yuno,0,0,0,,Si queremos vencerlo…
+Dialogue: 0,0:08:20.66,0:08:24.44,Gen_Italics,langris,0,0,0,,Tengo que hacer de cebo\Ny defender a Yuno.
+Dialogue: 0,0:08:24.86,0:08:29.66,Gen_Italics,langris,0,0,0,,El problema es que esquivo sus ataques\Ngracias a la ayuda de Yuno.
+Dialogue: 0,0:08:29.88,0:08:33.12,Gen_Italics,langris,0,0,0,,Es imposible\Nque aguante tres minutos solo.
+Dialogue: 0,0:08:33.92,0:08:36.70,Gen_Italics,langris/yuno,0,0,0,,Pero hay que hacerlo de todos modos.
+Dialogue: 0,0:08:38.66,0:08:42.42,Gen_Main,yuno,0,0,0,,Eres el mejor mago espacial\Ndel Reino del Trébol.
+Dialogue: 0,0:08:42.60,0:08:44.86,Gen_Main,yuno,0,0,0,,Imagino que ya sabes lo que hacer.
+Dialogue: 0,0:08:45.60,0:08:49.34,Gen_Main,yuno,0,0,0,,No vas a dejar que te machaque\Nsin contraatacar, ¿no?
+Dialogue: 0,0:08:52.21,0:08:55.96,Gen_Main,zenon,0,0,0,,Ya he visto de qué sois capaces.
+Dialogue: 0,0:08:57.18,0:09:00.86,Gen_Italics,langris,0,0,0,,En su Espacio Incondicional,\NApropiación de Maná,
+Dialogue: 0,0:09:01.00,0:09:04.10,Gen_Italics,langris,0,0,0,,la mayoría de gente\Nni siquiera puede usar magia.
+Dialogue: 0,0:09:04.40,0:09:09.36,Gen_Italics,langris,0,0,0,,Solo puede hacerlo\Nalguien con la misma cantidad de poder
+Dialogue: 0,0:09:09.68,0:09:13.78,Gen_Italics,langris,0,0,0,,o alguien adorado por el maná,\Ncomo Yuno, que se libre de su control.
+Dialogue: 0,0:09:16.52,0:09:17.80,Gen_Italics,langris,0,0,0,,Y por último…
+Dialogue: 0,0:09:18.94,0:09:22.40,Gen_Italics,langris,0,0,0,,¡un mago espacial\Nque alcanza la Zona de Maná!
+Dialogue: 0,0:09:26.30,0:09:27.50,Gen_Main,zenon,0,0,0,,Vaya.
+Dialogue: 0,0:09:27.76,0:09:33.28,Gen_Italics,zenon,0,0,0,,Ha creado su propio pequeño espacio\Ndentro de mi Espacio Incondicional.
+Dialogue: 0,0:09:33.52,0:09:35.76,Gen_Main,yuno,0,0,0,,¿Ves como cuando quieres puedes?
+Dialogue: 0,0:09:36.00,0:09:37.30,Gen_Main,yuno,0,0,0,,No esperaba menos.
+Dialogue: 0,0:09:37.68,0:09:42.18,Gen_Main,langris,0,0,0,,Eres un compañero\Nrematadamente insoportable.
+Dialogue: 0,0:09:43.08,0:09:46.46,Gen_Italics,langris,0,0,0,,Ya ibas de sobrado\Ncuando te uniste a la Orden,
+Dialogue: 0,0:09:46.62,0:09:49.56,Gen_Italics,langris,0,0,0,,pero tu talento estaba a la par.
+Dialogue: 0,0:09:50.16,0:09:53.64,Gen_Italics,langris,0,0,0,,Supongo que te odiaba\Nporque nos parecemos.
+Dialogue: 0,0:09:54.58,0:09:58.18,Gen_Italics,langris,0,0,0,,Eso sí, jamás pensé que me ganarías.
+Dialogue: 0,0:09:58.52,0:10:01.90,Gen_Italics,langris,0,0,0,,Creía que no podrías superarme.
+Dialogue: 0,0:10:04.16,0:10:07.84,Gen_Main,zenon,0,0,0,,De todos modos,\Nno tienes forma de atacarme.
+Dialogue: 0,0:10:08.10,0:10:11.38,Gen_Main,zenon,0,0,0,,No tenéis ninguna magia\Ncapaz de vencerme.
+Dialogue: 0,0:10:13.13,0:10:15.76,Gen_Italics,langris,0,0,0,,Su poder está en otra liga.
+Dialogue: 0,0:10:16.13,0:10:18.13,Gen_Italics,langris,0,0,0,,No aguantaré mucho.
+Dialogue: 0,0:10:20.08,0:10:22.26,Gen_Italics,langris,0,0,0,,Haz que sea rápido.
+Dialogue: 0,0:10:22.56,0:10:24.18,Gen_Italics,yuno,0,0,0,,Estoy en ello.
+Dialogue: 0,0:10:25.72,0:10:29.28,Gen_Italics,langris,0,0,0,,Mi Magia Espacial no tenía rival.
+Dialogue: 0,0:10:30.54,0:10:32.80,Gen_Italics,langris,0,0,0,,Solo tenía que esforzarme un poco.
+Dialogue: 0,0:10:33.50,0:10:37.15,Gen_Italics,langris,0,0,0,,Siempre que me tuviera a mí,\Nmi Orden sería la más fuerte.
+Dialogue: 0,0:10:37.66,0:10:40.72,Gen_Italics,langris,0,0,0,,Pero tu fuerza era distinta.
+Dialogue: 0,0:10:41.92,0:10:44.68,Gen_Italics,langris,0,0,0,,Es como si tu viento\Nempujara a otros
+Dialogue: 0,0:10:45.16,0:10:46.88,Gen_Italics,langris,0,0,0,,a volar a tu lado.
+Dialogue: 0,0:10:47.14,0:10:50.22,Gen_Italics,langris,0,0,0,,Tu fuerza no era presuntuosa.
+Dialogue: 0,0:10:52.78,0:10:57.44,Gen_Italics,langris,0,0,0,,Tu competitividad alienta\Ny fortalece a los demás.
+Dialogue: 0,0:11:00.44,0:11:03.72,Gen_Main,langris,0,0,0,,Aunque me pese, lo admito.
+Dialogue: 0,0:11:04.94,0:11:09.78,Gen_Main,langris,0,0,0,,Tú eres\Nel vicecapitán de Amanecer Dorado.
+Dialogue: 0,0:11:10.60,0:11:13.50,Gen_Main,zenon,0,0,0,,Ante un poder apabullante,
+Dialogue: 0,0:11:13.72,0:11:17.28,Gen_Main,zenon,0,0,0,,la tenacidad y la intención\Nse vuelven inútiles.
+Dialogue: 0,0:11:20.82,0:11:22.42,Gen_Main,zenon,0,0,0,,Lo único que queda
+Dialogue: 0,0:11:22.70,0:11:26.95,Gen_Main,zenon,0,0,0,,es la realidad de que yo\Nsoy más fuerte que vosotros.
+Dialogue: 0,0:11:27.94,0:11:33.08,Gen_Main,langris,0,0,0,,Ya, pero no podemos aceptarlo\Nasí como así.
+Dialogue: 0,0:11:38.88,0:11:42.92,Gen_Main,langris,0,0,0,,¡Somos Amanecer Dorado,
+Dialogue: 0,0:11:43.12,0:11:45.36,Gen_Main,langris,0,0,0,,la Orden más fuerte de todas!
+Dialogue: 0,0:11:46.12,0:11:47.34,Gen_Main,yuno,0,0,0,,Es verdad.
+Dialogue: 0,0:11:49.20,0:11:51.97,Gen_Main,yuno,0,0,0,,Tú también odias perder.
+Dialogue: 0,0:11:53.00,0:11:55.30,Gen_Main,yuno,0,0,0,,Magia de Creación\Ndel Espíritu del Viento:
+Dialogue: 0,0:11:55.40,0:11:56.90,Gen_Main,yuno,0,0,0,,Espíritu de Euros.
+Dialogue: 0,0:12:12.22,0:12:14.02,Gen_Italics,zenon,0,0,0,,Qué velocidad.
+Dialogue: 0,0:12:14.68,0:12:18.75,Gen_Italics,zenon,0,0,0,,No esperaba\Nque me atravesara por completo.
+Dialogue: 0,0:12:20.82,0:12:23.88,Gen_Main,yuno,0,0,0,,¡Ha ganado nuestra tenacidad!
+Dialogue: 0,0:12:29.40,0:12:30.70,Gen_Italics,zenon,0,0,0,,Allen…
+Dialogue: 0,0:12:39.54,0:12:41.07,Gen_Main,vanica,0,0,0,,¿Qué ha pasado?
+Dialogue: 0,0:12:42.32,0:12:44.26,Gen_Main,vanica,0,0,0,,¿Te has vuelto a pelear?
+Dialogue: 0,0:12:44.44,0:12:45.94,Gen_Main,vanica,0,0,0,,Eres un inepto.
+Dialogue: 0,0:12:46.10,0:12:50.26,Gen_Main,dante,0,0,0,,Es patético que mi hermano\Nse deje tratar así.
+Dialogue: 0,0:12:56.56,0:12:59.08,Gen_Main,hermano mayor tríada (voz julius),0,0,0,,No te preocupes, Zenon.
+Dialogue: 0,0:13:01.34,0:13:02.68,Gen_Main,zenon niño,0,0,0,,Hermano.
+Dialogue: 0,0:13:03.00,0:13:05.88,Gen_Main,hermano mayor tríada (voz julius),0,0,0,,Eres el que más se parece a mí.
+Dialogue: 0,0:13:08.80,0:13:13.74,Gen_Main,hermano mayor tríada (voz julius),0,0,0,,Tienes más talento que Dante y Vanica\Npara la posesión demoníaca.
+Dialogue: 0,0:13:18.24,0:13:19.44,Gen_Main,john,0,0,0,,¡Eh!
+Dialogue: 0,0:13:20.38,0:13:21.68,Gen_Main,john,0,0,0,,¡Toma!
+Dialogue: 0,0:13:23.28,0:13:25.40,Gen_Main,niño 1,0,0,0,,Qué fuerte eres, John.
+Dialogue: 0,0:13:25.52,0:13:29.30,Gen_Main,john,0,0,0,,Eres tan raro\Nque te salen huesos de la piel.
+Dialogue: 0,0:13:30.03,0:13:33.66,Gen_Main,john,0,0,0,,Como hijo del oficial\Ndel Cuerpo de Defensa Mágica,
+Dialogue: 0,0:13:33.87,0:13:36.92,Gen_Main,john,0,0,0,,¡voy a acabar contigo!
+Dialogue: 0,0:13:38.92,0:13:41.60,Gen_Main,john/allen niño,0,0,0,,-¡Quema!\N-¿Pero qué dices?
+Dialogue: 0,0:13:42.42,0:13:45.30,Gen_Main,allen niño,0,0,0,,Es que su magia es diferente y punto.
+Dialogue: 0,0:13:45.48,0:13:47.09,Gen_Main,john,0,0,0,,¡Es Allen!
+Dialogue: 0,0:13:47.40,0:13:49.22,Gen_Main,john,0,0,0,,¡Corred!
+Dialogue: 0,0:13:49.38,0:13:53.22,Gen_Main,allen niño,0,0,0,,¿No le da vergüenza?\NEs el hijo del oficial del Cuerpo.
+Dialogue: 0,0:13:55.18,0:13:56.50,Gen_Main,allen niño,0,0,0,,Soy Allen.
+Dialogue: 0,0:13:56.74,0:13:59.12,Gen_Main,allen niño,0,0,0,,Tu magia parece muy fuerte.
+Dialogue: 0,0:14:02.86,0:14:05.42,Gen_Main,allen niño,0,0,0,,Están todos asustados y preocupados.
+Dialogue: 0,0:14:06.16,0:14:09.44,Gen_Main,allen niño,0,0,0,,La nieve tiene aislado\Nel Reino de la Pica,
+Dialogue: 0,0:14:09.60,0:14:11.30,Gen_Main,allen niño,0,0,0,,las guerras civiles son comunes
+Dialogue: 0,0:14:11.70,0:14:14.50,Gen_Main,allen niño,0,0,0,,y el Reino del Diamante\Ntambién nos ataca.
+Dialogue: 0,0:14:15.28,0:14:16.82,Gen_Main,allen niño,0,0,0,,Quiero hacerme fuerte
+Dialogue: 0,0:14:16.96,0:14:20.02,Gen_Main,allen niño,0,0,0,,para proteger\Na la gente que tiembla de miedo.
+Dialogue: 0,0:14:21.40,0:14:25.86,Gen_Main,allen niño,0,0,0,,Quiero encender la llama de la esperanza\Nen esta tierra helada.
+Dialogue: 0,0:14:28.86,0:14:30.04,Gen_Main,allen niño,0,0,0,,Así que…
+Dialogue: 0,0:14:30.70,0:14:34.35,Gen_Main,allen niño,0,0,0,,voy a ser el comandante supremo\Ndel Cuerpo de Defensa Mágica.
+Dialogue: 0,0:14:35.54,0:14:36.76,Gen_Main,zenon niño,0,0,0,,Yo también.
+Dialogue: 0,0:14:38.86,0:14:40.74,Gen_Main,zenon niño,0,0,0,,Yo también quiero serlo.
+Dialogue: 0,0:14:41.44,0:14:44.36,Gen_Main,allen niño,0,0,0,,Eso significa que somos rivales.
+Dialogue: 0,0:14:44.64,0:14:47.94,Gen_Main,allen niño,0,0,0,,Compitamos para ver quién llega a ser\Nel comandante supremo.
+Dialogue: 0,0:15:00.98,0:15:03.64,Gen_Main,zenon joven,0,0,0,,Lo siento, hermano.
+Dialogue: 0,0:15:05.04,0:15:08.98,Gen_Main,zenon joven,0,0,0,,No me interesa\Nque me posea un demonio.
+Dialogue: 0,0:15:13.14,0:15:17.24,Gen_Main,cuerpo defensa 1,0,0,0,,Enhorabuena. Ya formáis parte\Nde la cuarta división del Cuerpo.
+Dialogue: 0,0:15:17.90,0:15:20.48,Gen_Main,cuerpo defensa 2,0,0,0,,Los dos nuevos de este año\Ntienen potencial.
+Dialogue: 0,0:15:20.76,0:15:23.60,Gen_Main,cuerpo defensa 2,0,0,0,,Zenon, el de la Magia de Hueso,\Nes un prodigio.
+Dialogue: 0,0:15:24.66,0:15:27.50,Gen_Main,cuerpo defensa 1,0,0,0,,Ha surgido una mazmorra\Nal noroeste de Lawton.
+Dialogue: 0,0:15:27.64,0:15:29.76,Gen_Main,cuerpo defensa 1,0,0,0,,Cuarta división, investigadla.
+Dialogue: 0,0:15:30.44,0:15:32.74,Gen_Main,allen,0,0,0,,Esta vez no pienso perder, Zenon.
+Dialogue: 0,0:15:34.99,0:15:37.48,Gen_Main,zenon joven,0,0,0,,Es una misión,\Nno una competición, Allen.
+Dialogue: 0,0:15:37.64,0:15:40.36,Gen_Main,allen,0,0,0,,Te lo tomas todo muy en serio.
+Dialogue: 0,0:15:52.28,0:15:55.34,Gen_Main,cuerpo defensa 2,0,0,0,,No esperaba\Nque hubiera un demonio sellado aquí.
+Dialogue: 0,0:15:55.52,0:15:57.26,Gen_Main,cuerpo defensa 3,0,0,0,,Es muy fuerte.
+Dialogue: 0,0:15:57.38,0:15:59.12,Gen_Main,cuerpo defensa 3,0,0,0,,Nos va a aniquilar.
+Dialogue: 0,0:16:00.88,0:16:02.69,Gen_Italics,zenon joven,0,0,0,,Si quiero derrotarlo,
+Dialogue: 0,0:16:03.18,0:16:06.88,Gen_Italics,zenon joven,0,0,0,,tengo que lanzar mi mejor hechizo\Ncon todo mi maná.
+Dialogue: 0,0:16:07.70,0:16:10.74,Gen_Italics,zenon joven,0,0,0,,Pero ha de bajar la guardia\Npara que acierte.
+Dialogue: 0,0:16:11.44,0:16:15.20,Gen_Main,allen,0,0,0,,Voy a ser el comandante supremo\Ndel Cuerpo de Defensa Mágica.
+Dialogue: 0,0:16:18.24,0:16:22.64,Gen_Main,allen/zenon joven,0,0,0,,-¡No pienso perder aquí!\N-¡Allen!
+Dialogue: 0,0:16:22.92,0:16:25.14,Gen_Italics,zenon joven,0,0,0,,Solo nos va a dar un poco de tiempo.
+Dialogue: 0,0:16:28.28,0:16:29.82,Gen_Italics,zenon joven,0,0,0,,¿Ahora o nunca?
+Dialogue: 0,0:16:30.70,0:16:32.86,Gen_Italics,zenon joven,0,0,0,,Si lo lanzo ahora,\Nvenceré al demonio.
+Dialogue: 0,0:16:33.32,0:16:34.88,Gen_Italics,zenon joven,0,0,0,,Y a Allen.
+Dialogue: 0,0:16:36.04,0:16:40.39,Gen_Italics,zenon joven,0,0,0,,Si no lo elimino,\Ntanto yo como todos los presentes…
+Dialogue: 0,0:16:41.24,0:16:42.40,Gen_Italics,zenon joven,0,0,0,,moriremos.
+Dialogue: 0,0:16:43.86,0:16:46.30,Gen_Italics,zenon joven,0,0,0,,Y causará estragos en el reino.
+Dialogue: 0,0:16:46.58,0:16:50.15,Gen_Italics,zenon joven,0,0,0,,La gente de ciudades cercanas morirá.
+Dialogue: 0,0:17:01.28,0:17:04.91,Gen_Main,allen,0,0,0,,¡Aún no me rindo!
+Dialogue: 0,0:17:10.78,0:17:15.30,Gen_Italics,zenon joven,0,0,0,,Sin poder, la tenacidad\Ny la intención se vuelven inútiles.
+Dialogue: 0,0:17:18.26,0:17:20.80,Gen_Italics,zenon joven,0,0,0,,Hay que prescindir de los débiles.
+Dialogue: 0,0:17:24.00,0:17:27.96,Gen_Italics,zenon joven,0,0,0,,El poder apabullante es lo que cuenta.
+Dialogue: 0,0:17:29.46,0:17:32.92,Gen_Italics,zenon joven,0,0,0,,Si un demonio corriente\Nes tan poderoso…
+Dialogue: 0,0:17:34.06,0:17:35.24,Gen_Main,zenon joven,0,0,0,,Hermano.
+Dialogue: 0,0:17:37.06,0:17:40.44,Gen_Main,zenon joven,0,0,0,,Haz que me posea un demonio.
+Dialogue: 0,0:17:44.32,0:17:47.64,Gen_Main,zenon,0,0,0,,Hagamos un trato, Beelzebub.
+Dialogue: 0,0:17:48.20,0:17:50.50,Gen_Main,zenon,0,0,0,,Dame el corazón de un demonio.
+Dialogue: 0,0:17:52.62,0:17:54.66,Gen_Main,beelzebub,0,0,0,,¿Un corazón?
+Dialogue: 0,0:17:59.66,0:18:03.64,Gen_Main,beelzebub,0,0,0,,¿Y qué piensas ofrecer tú a cambio?
+Dialogue: 0,0:18:03.80,0:18:05.72,Gen_Main,zenon,0,0,0,,Todo mi ser.
+Dialogue: 0,0:18:07.32,0:18:09.22,Gen_Main,zenon,0,0,0,,Tal y como dice el pacto,
+Dialogue: 0,0:18:09.36,0:18:12.14,Gen_Main,zenon,0,0,0,,mientras el Reino de la Pica perdure,
+Dialogue: 0,0:18:12.34,0:18:15.14,Gen_Main,zenon,0,0,0,,puedes quedarte con mi alma.
+Dialogue: 0,0:18:18.28,0:18:19.82,Gen_Main,beelzebub,0,0,0,,De acuerdo.
+Dialogue: 0,0:18:20.60,0:18:22.32,Gen_Main,beelzebub,0,0,0,,Te lo daré.
+Dialogue: 0,0:18:33.94,0:18:35.84,Gen_Main,yuno,0,0,0,,¿Qué ha…?
+Dialogue: 0,0:18:43.86,0:18:48.10,Gen_Italics,yuno,0,0,0,,Es la misma sensación que transmitía él.
+Dialogue: 0,0:18:48.40,0:18:51.84,Gen_Main,zenon,0,0,0,,Ahora que tengo\Nel corazón de un demonio,
+Dialogue: 0,0:18:52.06,0:18:55.73,Gen_Main,zenon,0,0,0,,mi fuerza es aún más apabullante.
+Dialogue: 0,0:18:56.02,0:19:00.08,Gen_Italics,langris,0,0,0,,Si usa el poder de los demonios\Ny tiene un corazón demoníaco,
+Dialogue: 0,0:19:00.42,0:19:02.24,Gen_Italics,langris,0,0,0,,esa persona…
+Dialogue: 0,0:19:03.14,0:19:04.80,Gen_Italics,langris,0,0,0,,ya es un demonio.
+Dialogue: 0,0:19:22.14,0:19:24.80,Gen_Main,zenon,0,0,0,,En tu ataque anterior
+Dialogue: 0,0:19:25.88,0:19:29.93,Gen_Main,zenon,0,0,0,,has desviado la flecha\Npara que no alcanzara a tu amigo
+Dialogue: 0,0:19:30.12,0:19:32.84,Gen_Main,zenon,0,0,0,,y no me ha dado en el corazón.
+Dialogue: 0,0:19:35.12,0:19:39.28,Gen_Main,zenon,0,0,0,,Si me lo hubieras atravesado\Npasando a través de él,
+Dialogue: 0,0:19:40.14,0:19:42.69,Gen_Main,zenon,0,0,0,,habrías ganado.
+Dialogue: 0,0:20:11.70,0:20:13.74,Gen_Main,zenon,0,0,0,,Deberías haber muerto.
+Dialogue: 0,0:20:13.96,0:20:16.02,Gen_Main,zenon,0,0,0,,¿Aún pretendes oponerte a mí?
+Dialogue: 0,0:20:17.10,0:20:19.06,Gen_Main,zenon,0,0,0,,Haré que descanses.
+Dialogue: 0,0:20:28.36,0:20:30.28,Gen_Main,finral,0,0,0,,Hola, Langris.
+Dialogue: 0,0:20:30.40,0:20:31.58,Gen_Main,langris,0,0,0,,¡Finral!
+Dialogue: 0,0:20:31.82,0:20:33.26,Gen_Main,zenon,0,0,0,,Ese es…
+Dialogue: 0,0:20:34.33,0:20:36.98,Gen_Main,langris,0,0,0,,No sé qué haces aquí.
+Dialogue: 0,0:20:37.26,0:20:39.63,Gen_Main,langris,0,0,0,,¿Vienes otra vez para salvarme?
+Dialogue: 0,0:20:39.98,0:20:43.78,Gen_Italics,finral,0,0,0,,Al encontraros, he venido sin pensarlo.
+Dialogue: 0,0:20:44.18,0:20:45.51,Gen_Main,finral,0,0,0,,No.
+Dialogue: 0,0:20:45.86,0:20:48.68,Gen_Main,finral,0,0,0,,Es el que se llevó a nuestro capitán.
+Dialogue: 0,0:20:48.98,0:20:50.84,Gen_Main,finral,0,0,0,,Usando Magia Espacial.
+Dialogue: 0,0:20:51.36,0:20:54.18,Gen_Main,finral,0,0,0,,¿Cómo iba a ignorarlo?
+Dialogue: 0,0:20:55.64,0:20:59.90,Gen_Italics,finral,0,0,0,,Lo siento, Yami,\Npero me voy a retrasar un poco.
+Dialogue: 0,0:21:00.74,0:21:04.18,Gen_Italics,finral,0,0,0,,Usaré Batir de Alas del Ángel Caído\Ndirectamente en Langris.
+Dialogue: 0,0:21:04.96,0:21:06.78,Gen_Italics,finral,0,0,0,,¡Nos desplazaremos al instante!
+Dialogue: 0,0:21:08.14,0:21:09.92,Gen_Italics,finral,0,0,0,,La Zona de Maná de Langris
+Dialogue: 0,0:21:10.02,0:21:13.22,Gen_Italics,finral,0,0,0,,permite usar magia\Nen el Espacio Incondicional.
+Dialogue: 0,0:21:13.88,0:21:18.20,Gen_Italics,langris,0,0,0,,Finral se desplaza\Nde forma precisa y rápida.
+Dialogue: 0,0:21:18.76,0:21:22.08,Gen_Main,finral,0,0,0,,Juntos podemos luchar contra él.
+Dialogue: 0,0:21:22.36,0:21:23.84,Gen_Main,finral,0,0,0,,¿O no, Langris?
+Dialogue: 0,0:21:25.24,0:21:29.04,Gen_Main,langris,0,0,0,,Hay que ver.\NQué hermano más impertinente tengo.
+Dialogue: 0,0:21:34.28,0:21:37.02,Gen_Italics,finral,0,0,0,,Langris no aguantará mucho tiempo.
+Dialogue: 0,0:21:37.16,0:21:38.35,Gen_Italics,finral,0,0,0,,Seremos raudos.
+Dialogue: 0,0:21:39.72,0:21:43.82,Gen_Italics,zenon,0,0,0,,Ya sé a qué velocidad se desplaza.
+Dialogue: 0,0:21:44.02,0:21:45.70,Gen_Italics,zenon,0,0,0,,Y sé qué pretenden.
+Dialogue: 0,0:21:46.18,0:21:48.95,Gen_Italics,zenon,0,0,0,,En cuanto vengan a atacarme, se acabó.
+Dialogue: 0,0:21:49.44,0:21:52.94,Gen_Italics,zenon/finral,0,0,0,,Se acercarán\Npara entrar en la Zona de Maná.
+Dialogue: 0,0:21:57.10,0:21:58.64,Gen_Italics,zenon,0,0,0,,Se acabó.
+Dialogue: 0,0:22:01.04,0:22:02.18,Gen_Italics,zenon,0,0,0,,¿Qué?
+Dialogue: 0,0:22:03.84,0:22:06.80,Gen_Italics,finral,0,0,0,,¡Nos moveremos más rápido\Ncon el Método de Maná!
+Dialogue: 0,0:22:07.30,0:22:09.62,Gen_Italics,finral,0,0,0,,La magia de Langris ahueca el espacio.
+Dialogue: 0,0:22:09.80,0:22:13.09,Gen_Italics,finral,0,0,0,,Por muy potente que sea tu defensa,
+Dialogue: 0,0:22:13.66,0:22:15.18,Gen_Italics,finral y langris,0,0,0,,¡poco importa!
+Dialogue: 0,0:23:47.39,0:23:49.36,Cart_A_Tre,CARTEL,0,0,0,,{\fs18\b0}Traducción: Iris de la Fuente\NControl de calidad: Nicolás Sepúlveda
+
