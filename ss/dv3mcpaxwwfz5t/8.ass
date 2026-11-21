@@ -1,0 +1,434 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Overlap,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00216DDF,&H00692496,0,0,0,0,100,100,0,0,1,2,1,2,10,10,15,1
+Style: sign_generic,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: stats,Verdana,20,&H00FDFFDE,&H000000FF,&H00C3D297,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: title,Impact,30,&H00020080,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:32.29,0:01:32.32,sign_generic,Sign,0,0,0,,{\shad1\bord0\an2\fnTimes New Roman\b1\4c&H453F67&\c&HC6C9D2&\pos(173.134,308.333)}Episodio 21
+Dialogue: 0,0:01:32.29,0:01:32.32,sign_generic,Sign,0,0,0,,{\fs20\shad1\bord0\an1\fnTimes New Roman\b1\4c&H453F67&\c&HC6C9D2&\pos(224.466,308.667)}Entra in scena Benetnasch, la principessa vampira!
+Dialogue: 0,0:01:32.29,0:01:32.32,sign_generic,Sign,0,0,0,,{\shad1\bord0\4c&H564C4E&\c&H11CE1A&\an2\fnTimes New Roman\b1\3c&H0C4108&\pos(173.134,284.333)}Episodio 21
+Dialogue: 0,0:01:32.29,0:01:32.32,sign_generic,Sign,0,0,0,,{\fs20\shad1\bord0\4c&H564C4E&\c&H11CE1A&\an1\fnTimes New Roman\b1\3c&H0C4108&\pos(224.466,284.667)}Entra in scena Benetnasch, la principessa vampira!
+Dialogue: 0,0:01:32.32,0:01:32.36,sign_generic,Sign,0,0,0,,{\c&HFEFDFE&\3c&H595C8B&\shad1\bord0\4c&H646F97&\an2\fnTimes New Roman\b1\pos(180.933,333.8)}Episodio 21
+Dialogue: 0,0:01:32.32,0:01:32.36,sign_generic,Sign,0,0,0,,{\fs20\c&HFEFDFE&\3c&H595C8B&\shad1\bord0\4c&H646F97&\an1\fnTimes New Roman\b1\pos(234.266,333.133)}Entra in scena Benetnasch, la principessa vampira!
+Dialogue: 0,0:01:32.36,0:01:32.40,sign_generic,Sign,0,0,0,,{\c&HFEFDFE&\3c&H595C8B&\shad1\bord0\4c&H646F97&\an2\fnTimes New Roman\b1\pos(180.802,321.8)}Episodio 21
+Dialogue: 0,0:01:32.36,0:01:32.40,sign_generic,Sign,0,0,0,,{\fs20\c&HFEFDFE&\3c&H595C8B&\shad1\bord0\4c&H646F97&\an1\fnTimes New Roman\b1\pos(232.467,321.467)}Entra in scena Benetnasch, la principessa vampira!
+Dialogue: 0,0:01:32.40,0:01:34.14,sign_generic,Sign,0,0,0,,{\c&HFEFDFE&\shad1\bord0\4c&H564C4E&\fnTimes New Roman\b1\pos(178.666,315.667)}Episodio {\t(290,526,\c&H0600A9&)}21
+Dialogue: 0,0:01:32.40,0:01:34.14,sign_generic,Sign,0,0,0,,{\an1\fs20\c&HFEFDFE&\shad1\bord0\4c&H564C4E&\fnTimes New Roman\b1\pos(231.333,315.667)}Entra in scena Benetnasch, la principessa {\t(290,526,\c&H0600A9&)}vampira{\c&HFEFDFE&}!
+Dialogue: 0,0:01:34.14,0:01:34.18,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFEFDFE&\an1\fnTimes New Roman\b1\3c&H180E2D&\fs20)\pos(222.067,316.467)}Entra in scena Benetnasch, la principessa {\c&H0600A9&}vampira{\c&HFEFDFE&}!
+Dialogue: 0,0:01:34.14,0:01:34.18,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFEFDFE&\an1\fnTimes New Roman\b1\3c&H180E2D&\i1\fs20)\pos(230.067,315.467)}Entra in scena Benetnasch, la principessa {\c&H0600A9&}vampira{\c&HFEFDFE&}!
+Dialogue: 0,0:01:34.14,0:01:34.18,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\pos(183.733,316.134)}Episodio {\c&H0600A9&)}21
+Dialogue: 0,0:01:34.14,0:01:34.18,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\i1\pos(187.733,316.134)}Episodio {\c&H0600A9&)}21
+Dialogue: 0,0:01:34.18,0:01:34.22,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFEFDFE&\an1\fnTimes New Roman\b1\3c&H180E2D&\i1\fs20)\pos(222.801,317)}Entra in scena Benetnasch, la principessa {\c&H0600A9&}vampira{\c&HFEFDFE&}!
+Dialogue: 0,0:01:34.18,0:01:34.22,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFEFDFE&\an1\fnTimes New Roman\b1\3c&H180E2D&\i1\fs20)\pos(220.801,316)}Entra in scena Benetnasch, la principessa {\c&H0600A9&}vampira{\c&HFEFDFE&}!
+Dialogue: 0,0:01:34.18,0:01:34.22,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\i1\pos(183.133,316.667)}Episodio {\c&H0600A9&)}21
+Dialogue: 0,0:01:34.18,0:01:34.22,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\i1\pos(180.133,316.667)}Episodio {\c&H0600A9&)}21
+Dialogue: 0,0:01:34.22,0:01:34.30,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFEFDFE&\an1\fnTimes New Roman\b1\3c&H180E2D&\fs20)\pos(238.934,316.067)}Entra in scena Benetnasch, la principessa {\c&H0600A9&}vampira{\c&HFEFDFE&}!
+Dialogue: 0,0:01:34.22,0:01:34.30,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFEFDFE&\an1\fnTimes New Roman\b1\3c&H180E2D&\i1\fs20)\pos(232.934,315.067)}Entra in scena Benetnasch, la principessa {\c&H0600A9&}vampira{\c&HFEFDFE&}!
+Dialogue: 0,0:01:34.22,0:01:34.30,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\pos(193.601,316.4)}Episodio {\c&H0600A9&)}21
+Dialogue: 0,0:01:34.22,0:01:34.30,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\i1\pos(187.601,316.4)}Episodio {\c&H0600A9&)}21
+Dialogue: 0,0:01:34.30,0:01:34.35,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFEFDFE&\an1\fnTimes New Roman\b1\3c&H180E2D&\fs20)\pos(248.266,316.467)}Entra in scena Benetnasch, la principessa {\c&H0600A9&}vampira{\c&HFEFDFE&}!
+Dialogue: 0,0:01:34.30,0:01:34.35,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFEFDFE&\an1\fnTimes New Roman\b1\3c&H180E2D&\i1\fs20)\pos(248.266,315.467)}Entra in scena Benetnasch, la principessa {\c&H0600A9&}vampira{\c&HFEFDFE&}!
+Dialogue: 0,0:01:34.30,0:01:34.35,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\pos(188.267,316.133)}Episodio {\c&H0600A9&)}21
+Dialogue: 0,0:01:34.30,0:01:34.35,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\i1\pos(187.267,316.133)}Episodio {\c&H0600A9&)}21
+Dialogue: 0,0:01:34.35,0:01:34.39,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFEFDFE&\an1\fnTimes New Roman\b1\3c&H180E2D&\fs20)\pos(245.066,317.266)}Entra in scena Benetnasch, la principessa {\c&H0600A9&}vampira{\c&HFEFDFE&}!
+Dialogue: 0,0:01:34.35,0:01:34.39,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFEFDFE&\an1\fnTimes New Roman\b1\3c&H180E2D&\i1\fs20)\pos(247.399,316.266)}Entra in scena Benetnasch, la principessa {\c&H0600A9&}vampira{\c&HFEFDFE&}!
+Dialogue: 0,0:01:34.35,0:01:34.39,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\pos(194.398,316.933)}Episodio {\c&H0600A9&)}21
+Dialogue: 0,0:01:34.35,0:01:34.39,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\i1\pos(195.398,316.933)}Episodio {\c&H0600A9&)}21
+Dialogue: 0,0:01:34.39,0:01:35.14,sign_generic,Sign,0,0,0,,{\shad1\bord0\4c&H564C4E&\c&HFEFDFE&\an1\fnTimes New Roman\b1\3c&H180E2D&\fs20)\pos(229.866,313.8)}Entra in scena Benetnasch, la principessa {\c&H0600A9&}vampira{\c&HFEFDFE&}!
+Dialogue: 0,0:01:34.39,0:01:35.14,sign_generic,Sign,0,0,0,,{\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\pos(179.199,314.133)}Episodio {\c&H2717A3&\3c&H180E2D&}21
+Dialogue: 0,0:01:35.14,0:01:35.18,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFEFDFE&\an1\fnTimes New Roman\b1\3c&H180E2D&\fs20\pos(248.4,315.933)}Entra in scena Benetnasch, la principessa {\c&H0600A9&}vampira{\c&HFEFDFE&}!
+Dialogue: 0,0:01:35.14,0:01:35.18,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFEFDFE&\an1\fnTimes New Roman\b1\3c&H180E2D&\i1\fs20\pos(248.4,314.933)}Entra in scena Benetnasch, la principessa {\c&H0600A9&}vampira{\c&HFEFDFE&}!
+Dialogue: 0,0:01:35.14,0:01:35.18,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\i1\pos(200.4,316.933)}Episodio {\c&H2717A3&\3c&H180E2D&}21
+Dialogue: 0,0:01:35.14,0:01:35.18,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\pos(200.4,316.933)}Episodio {\c&H2717A3&\3c&H180E2D&}21
+Dialogue: 0,0:01:35.18,0:01:35.22,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFEFDFE&\an1\fnTimes New Roman\b1\3c&H180E2D&\fs20\pos(234.933,315.667)}Entra in scena Benetnasch, la principessa {\c&H0600A9&}vampira{\c&HFEFDFE&}!
+Dialogue: 0,0:01:35.18,0:01:35.22,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFEFDFE&\an1\fnTimes New Roman\b1\3c&H180E2D&\i1\fs20\pos(230.933,314.667)}Entra in scena Benetnasch, la principessa {\c&H0600A9&}vampira{\c&HFEFDFE&}!
+Dialogue: 0,0:01:35.18,0:01:35.22,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\pos(187.6,316.667)}Episodio {\c&H2717A3&\3c&H180E2D&}21
+Dialogue: 0,0:01:35.18,0:01:35.22,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\i1\pos(183.6,316.667)}Episodio {\c&H2717A3&\3c&H180E2D&}21
+Dialogue: 0,0:01:35.22,0:01:35.30,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFEFDFE&\an1\fnTimes New Roman\b1\3c&H180E2D&\i1\fs20\pos(240.934,317.267)}Entra in scena Benetnasch, la principessa {\c&H0600A9&}vampira{\c&HFEFDFE&}!
+Dialogue: 0,0:01:35.22,0:01:35.30,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFEFDFE&\an1\fnTimes New Roman\b1\3c&H180E2D&\fs20\pos(238.934,316.267)}Entra in scena Benetnasch, la principessa {\c&H0600A9&}vampira{\c&HFEFDFE&}!
+Dialogue: 0,0:01:35.22,0:01:35.30,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\i1\pos(189.6,316.267)}Episodio {\c&H2717A3&\3c&H180E2D&}21
+Dialogue: 0,0:01:35.22,0:01:35.30,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\pos(187.6,316.267)}Episodio {\c&H2717A3&\3c&H180E2D&}21
+Dialogue: 0,0:01:35.30,0:01:35.35,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFEFDFE&\an1\fnTimes New Roman\b1\3c&H180E2D&\fs20\pos(247.2,315.533)}Entra in scena Benetnasch, la principessa {\c&H0600A9&}vampira{\c&HFEFDFE&}!
+Dialogue: 0,0:01:35.30,0:01:35.35,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFEFDFE&\an1\fnTimes New Roman\b1\3c&H180E2D&\i1\fs20\pos(247.2,314.533)}Entra in scena Benetnasch, la principessa {\c&H0600A9&}vampira{\c&HFEFDFE&}!
+Dialogue: 0,0:01:35.30,0:01:35.35,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\pos(199.2,316.533)}Episodio {\c&H2717A3&\3c&H180E2D&}21
+Dialogue: 0,0:01:35.30,0:01:35.35,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\i1\pos(199.2,316.533)}Episodio {\c&H2717A3&\3c&H180E2D&}21
+Dialogue: 0,0:01:35.35,0:01:35.39,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFEFDFE&\an1\fnTimes New Roman\b1\3c&H180E2D&\i1\fs20\pos(243.468,316.333)}Entra in scena Benetnasch, la principessa {\c&H0600A9&}vampira{\c&HFEFDFE&}!
+Dialogue: 0,0:01:35.35,0:01:35.39,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFEFDFE&\an1\fnTimes New Roman\b1\3c&H180E2D&\fs20\pos(244.468,315.333)}Entra in scena Benetnasch, la principessa {\c&H0600A9&}vampira{\c&HFEFDFE&}!
+Dialogue: 0,0:01:35.35,0:01:35.39,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\i1\pos(198.801,316.666)}Episodio {\c&H2717A3&\3c&H180E2D&}21
+Dialogue: 0,0:01:35.35,0:01:35.39,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\pos(199.801,316.666)}Episodio {\c&H2717A3&\3c&H180E2D&}21
+Dialogue: 0,0:01:35.39,0:01:37.17,sign_generic,Sign,0,0,0,,{\fad(0,574)\shad1\bord0\4c&H564C4E&\c&HFEFDFE&\an1\fnTimes New Roman\b1\3c&H180E2D&\fs20)\pos(232.8,315.667)}Entra in scena Benetnasch, la principessa {\c&H0600A9&}vampira{\c&HFEFDFE&}!
+Dialogue: 0,0:01:35.39,0:01:37.17,sign_generic,Sign,0,0,0,,{\fad(0,574)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\pos(178.8,316)}Episodio {\c&H2717A3&\3c&H180E2D&}21
+Dialogue: 0,0:01:34.92,0:01:38.66,top,Lufas,0,0,0,,Tyrving, la terra più a nord\Ntra quelle abitate dagli umani…
+Dialogue: 0,0:01:38.66,0:01:42.73,main,Lufas,0,0,0,,È governata da Leon ed è la casa\Ndi coloro che l'umanità non riconosce.
+Dialogue: 0,0:01:43.08,0:01:45.95,main,Lufas,0,0,0,,La terra dove vivono i semiumani, eh?
+Dialogue: 0,0:01:46.59,0:01:49.48,main,Lufas,0,0,0,,Eppure, ci stupisce\Nnon sia stata conquistata dai diavoli,
+Dialogue: 0,0:01:49.48,0:01:51.30,main,Lufas,0,0,0,,pur essendo così vicina alle loro terre.
+Dialogue: 0,0:01:51.30,0:01:53.25,main,Dina,0,0,0,,Questo perché Mjolnir,
+Dialogue: 0,0:01:53.25,0:01:56.46,main,Dina,0,0,0,,la nazione avvolta dalle tenebre\Ngovernata da Benetnasch, è vicina.
+Dialogue: 0,0:01:56.46,0:02:01.08,main,Dina,0,0,0,,I diavoli a dire il vero\Nhanno tentato di invaderla per espandersi,
+Dialogue: 0,0:02:01.08,0:02:04.20,main,Dina,0,0,0,,ma Benetnasch ha inflitto loro\Nuna pesante sconfitta.
+Dialogue: 0,0:02:04.83,0:02:07.48,main,Lufas,0,0,0,,Il Re Diavolo non ha affrontato Benet?
+Dialogue: 0,0:02:07.83,0:02:09.88,main,Dina,0,0,0,,Pare che ci sia stata una scaramuccia,
+Dialogue: 0,0:02:09.88,0:02:13.06,main,Dina,0,0,0,,ma entrambi si sono ritirati\Nsenza usare il proprio potere al massimo.
+Dialogue: 0,0:02:14.27,0:02:15.76,italics,Lufas,0,0,0,,Preferirei non doverla incontrare.
+Dialogue: 0,0:02:15.76,0:02:20.15,italics,Lufas,0,0,0,,Da quanto sento, non si ritirerebbe,\Nse dovesse combattere contro di me.
+Dialogue: 0,0:02:21.01,0:02:24.79,main,Lufas,0,0,0,,Non ci saranno problemi,\Nfintanto che Benet non si accorge di noi.
+Dialogue: 0,0:02:24.79,0:02:26.32,main,Aigokeros,0,0,0,,Se ne accorgerà.
+Dialogue: 0,0:02:26.32,0:02:27.50,main,Aigokeros,0,0,0,,Di sicuro.
+Dialogue: 0,0:02:27.87,0:02:29.51,italics,Lufas,0,0,0,,Addio alle mie speranze!
+Dialogue: 0,0:02:29.91,0:02:33.28,main,Aigokeros,0,0,0,,I vampiri sono gli esseri\Npiù simili a noi demoni.
+Dialogue: 0,0:02:33.28,0:02:37.72,main,Aigokeros,0,0,0,,Padrona Lufas, è impossibile\Nche la vostra aura le sfugga.
+Dialogue: 0,0:03:01.62,0:03:03.70,stats,Sign,0,0,0,,{\fad(228,0)\fs18\bord1\3c&H8FA317&\pos(486,329.8)}Benetnasch
+Dialogue: 0,0:03:03.70,0:03:05.08,main,Aries,0,0,0,,Benetnasch!
+Dialogue: 0,0:03:05.08,0:03:07.87,main,Aigokeros,0,0,0,,Così vieni da noi senza ritegno?
+Dialogue: 0,0:03:09.31,0:03:12.43,main,Benetnasch,0,0,0,,Ne è passato di tempo, Lufas Maphaahl.
+Dialogue: 0,0:03:12.43,0:03:14.76,main,Benetnasch,0,0,0,,Duecento anni e diversi mesi.
+Dialogue: 0,0:03:15.56,0:03:18.30,main,Benetnasch,0,0,0,,Sono felice che tu sia viva.
+Dialogue: 0,0:03:19.79,0:03:22.01,main,Lufas,0,0,0,,Pare che nemmeno tu sia cambiata.
+Dialogue: 0,0:03:22.01,0:03:23.71,main,Benetnasch,0,0,0,,Non lo sono.
+Dialogue: 0,0:03:23.71,0:03:27.02,main,Benetnasch,0,0,0,,Il tempo per me si fermò\Nin quel preciso momento.
+Dialogue: 0,0:03:27.74,0:03:32.57,main,Sign,0,0,0,,{\fad(1260,0)\pos(119,295.6)\fs20\c&H000000&\3c&HFFFFFF&\blur4\fnTimes New Roman}200 anni e 4 mesi fa
+Dialogue: 0,0:03:34.72,0:03:36.45,flashback,Benetnasch,0,0,0,,Eccomi, Maphaahl!
+Dialogue: 0,0:03:36.45,0:03:38.44,flashback,Benetnasch,0,0,0,,Finiamola con questo attacco!
+Dialogue: 0,0:03:38.91,0:03:41.74,flashback,Lufas,0,0,0,,Sì, fatti sotto, Benet!
+Dialogue: 0,0:03:48.67,0:03:50.71,flashback,Benetnasch,0,0,0,,Cosa?! Magia di interferenza?!
+Dialogue: 0,0:03:58.24,0:03:59.72,flashback,Benetnasch,0,0,0,,Statene fuori, tutti!
+Dialogue: 0,0:04:00.06,0:04:02.25,flashback,Benetnasch,0,0,0,,Cosa credete di fare?!
+Dialogue: 0,0:04:03.68,0:04:05.79,flashback,Benetnasch,0,0,0,,Traboccate di potere divino?!
+Dialogue: 0,0:04:10.03,0:04:11.69,flashback,Benetnasch,0,0,0,,Come osi?!
+Dialogue: 0,0:04:12.59,0:04:16.56,flashback,Lufas,0,0,0,,Scusa, Benet. Dovremo chiudere i conti\Nun'altra volta.
+Dialogue: 0,0:04:16.56,0:04:18.47,flashback,Benetnasch,0,0,0,,A-Aspetta, Maphaahl!
+Dialogue: 0,0:04:18.47,0:04:21.71,flashback,Lufas,0,0,0,,Non preoccuparti, torneremo di sicuro.
+Dialogue: 0,0:04:21.71,0:04:24.37,flashback,Lufas,0,0,0,,Mantieni le zanne affilate fino ad allora.
+Dialogue: 0,0:04:26.66,0:04:30.64,flashback,Benetnasch,0,0,0,,Maphaahl!
+Dialogue: 0,0:04:33.68,0:04:36.71,main,Benetnasch,0,0,0,,Ma non sei mai tornata.
+Dialogue: 0,0:04:37.34,0:04:41.51,main,Benetnasch,0,0,0,,Non sono più potuta cambiare\Nda allora, nemmeno volendolo.
+Dialogue: 0,0:04:44.22,0:04:46.68,main,Benetnasch,0,0,0,,Non lo farei se fossi in te, bambolotto.
+Dialogue: 0,0:04:46.91,0:04:49.77,main,Benetnasch,0,0,0,,Sono stranamente di buon umore adesso.
+Dialogue: 0,0:04:49.77,0:04:52.09,main,Benetnasch,0,0,0,,Se non fai nulla, ti lascerò passare,
+Dialogue: 0,0:04:52.09,0:04:55.40,main,Benetnasch,0,0,0,,ma se provi a rovinare\Nil mio incontro con Maphaahl,
+Dialogue: 0,0:04:56.75,0:04:59.03,main,Benetnasch,0,0,0,,non rispondo della tua incolumità.
+Dialogue: 0,0:05:05.60,0:05:06.91,italics,Lufas,0,0,0,,Che potere impressionante!
+Dialogue: 0,0:05:07.27,0:05:09.95,main,Benetnasch,0,0,0,,Lo stesso vale per voi altri,\NDodici Stelle Celesti.
+Dialogue: 0,0:05:09.95,0:05:12.44,main,Benetnasch,0,0,0,,Ammetto che ognuno di voi\Nha delle qualità,
+Dialogue: 0,0:05:12.44,0:05:14.35,main,Benetnasch,0,0,0,,ma non siete in grado di contrastarmi.
+Dialogue: 0,0:05:14.35,0:05:17.42,main,Benetnasch,0,0,0,,Se non volete morire,\Nstatevene nelle retrovie a tremare.
+Dialogue: 0,0:05:18.60,0:05:21.38,main,Scorpius,0,0,0,,Ma sentila, la piccoletta!
+Dialogue: 0,0:05:22.37,0:05:24.35,main,Aigokeros,0,0,0,,Come osi prenderti gioco di me?
+Dialogue: 0,0:05:24.35,0:05:26.81,main,Lufas,0,0,0,,Calmatevi!\NNon cedete alle sue provocazioni.
+Dialogue: 0,0:05:29.89,0:05:31.18,main,Benetnasch,0,0,0,,Saggia decisione.
+Dialogue: 0,0:05:32.60,0:05:35.98,main,Benetnasch,0,0,0,,Sei l'unica in grado di affrontarmi.
+Dialogue: 0,0:05:37.86,0:05:40.58,main,Benetnasch,0,0,0,,Ho un solo desiderio.
+Dialogue: 0,0:05:40.58,0:05:43.84,main,Benetnasch,0,0,0,,Voglio chiudere la questione\Nfra di noi, una contro una,
+Dialogue: 0,0:05:44.91,0:05:48.62,main,Benetnasch,0,0,0,,senza che nessuno intervenga, stavolta.
+Dialogue: 0,0:05:49.13,0:05:52.33,main,Lufas,0,0,0,,Vuoi dire che sei venuta\Nsolo per dirmi questo?
+Dialogue: 0,0:05:52.98,0:05:55.15,main,Benetnasch,0,0,0,,Non scappare, Maphaahl.
+Dialogue: 0,0:05:55.54,0:06:00.80,main,Benetnasch,0,0,0,,Ho atteso più di duecento anni\Nper chiudere i conti con te.
+Dialogue: 0,0:06:00.80,0:06:01.94,main,Lufas,0,0,0,,Non temere.
+Dialogue: 0,0:06:01.94,0:06:04.29,main,Lufas,0,0,0,,È un'offerta di una vecchia amica.
+Dialogue: 0,0:06:04.29,0:06:06.27,main,Lufas,0,0,0,,Accettiamo volentieri.
+Dialogue: 0,0:06:07.31,0:06:08.61,main,Benetnasch,0,0,0,,Molto bene.
+Dialogue: 0,0:06:08.61,0:06:10.99,main,Benetnasch,0,0,0,,Sono l'unica a cui è permesso ucciderti
+Dialogue: 0,0:06:10.99,0:06:13.31,main,Benetnasch,0,0,0,,e tu sei la sola\Na cui permetto di uccidere me.
+Dialogue: 0,0:06:13.31,0:06:14.52,main,Benetnasch,0,0,0,,Non accetto compromessi.
+Dialogue: 0,0:06:16.77,0:06:20.11,main,Benetnasch,0,0,0,,Questa volta non finiremo\Nfinché una delle due non sarà morta!
+Dialogue: 0,0:06:22.19,0:06:24.96,main,Benetnasch,0,0,0,,Alla prossima. Non vedo l'ora.
+Dialogue: 0,0:06:29.28,0:06:30.33,italics,Lufas,0,0,0,,Che faccio?
+Dialogue: 0,0:06:30.33,0:06:32.23,italics,Lufas,0,0,0,,Quella ragazza è proprio opprimente!
+Dialogue: 0,0:06:34.12,0:06:35.51,main,Dina,0,0,0,,Cosa intendete fare?
+Dialogue: 0,0:06:35.91,0:06:39.00,main,Lufas,0,0,0,,Voi andate da Leon come previsto.
+Dialogue: 0,0:06:39.51,0:06:41.34,main,Lufas,0,0,0,,Noi andremo a Mjolnir.
+Dialogue: 0,0:06:42.21,0:06:44.69,main,Lufas,0,0,0,,Così chiuderemo i conti con Benet.
+Dialogue: 0,0:06:49.07,0:06:52.35,main,Castor,0,0,0,,Prima di raggiungere il villaggio\Ndi semiumani dove vivono i centauri,
+Dialogue: 0,0:06:52.35,0:06:54.06,main,Castor,0,0,0,,vorrei che beveste queste pozioni.
+Dialogue: 0,0:06:54.06,0:06:56.12,main,Castor,0,0,0,,Una volta bevute,
+Dialogue: 0,0:06:56.12,0:06:59.27,main,Castor,0,0,0,,potrete cambiare il vostro aspetto\Nper circa tre ore.
+Dialogue: 0,0:06:59.27,0:07:01.21,main,Kross,0,0,0,,S-Sei sicuro?
+Dialogue: 0,0:07:01.21,0:07:03.59,main,Kross,0,0,0,,Sembrano pozioni piuttosto preziose.
+Dialogue: 0,0:07:03.93,0:07:06.35,main,Castor,0,0,0,,Non per noi, te lo posso assicurare.
+Dialogue: 0,0:07:06.75,0:07:08.43,main,Castor,0,0,0,,Usatele pure.
+Dialogue: 0,0:07:10.03,0:07:14.23,main,Kross,0,0,0,,Immagino serva a non insospettire\Ni semiumani.
+Dialogue: 0,0:07:14.88,0:07:15.61,main,Kross,0,0,0,,E va bene…
+Dialogue: 0,0:07:31.86,0:07:32.77,main,Sei,0,0,0,,Ma cosa…
+Dialogue: 0,0:07:33.21,0:07:35.22,main,Castor,0,0,0,,Sei un mostro chiamato orco.
+Dialogue: 0,0:07:35.55,0:07:37.85,main,Virgo,0,0,0,,Wow, che bello!
+Dialogue: 0,0:07:42.10,0:07:44.65,main,Gantz,0,0,0,,Oh? Impressionante.
+Dialogue: 0,0:07:45.01,0:07:48.22,main,Gantz,0,0,0,,Senza toccare non riuscirei mai\Na capire che è un'illusione.
+Dialogue: 0,0:07:48.73,0:07:51.08,main,Jean,0,0,0,,Mi sento strano.
+Dialogue: 0,0:07:51.08,0:07:53.10,main,Jean,0,0,0,,La mia metà inferiore\Nsembra di un cavallo,
+Dialogue: 0,0:07:53.10,0:07:56.33,main,Jean,0,0,0,,ma ho sempre la sensazione\Ndi camminare su due gambe.
+Dialogue: 0,0:07:56.33,0:07:59.25,main,Petto,0,0,0,,Non sono sicuro che mi piaccia tutto ciò.
+Dialogue: 0,0:08:00.29,0:08:01.49,main,Petto,0,0,0,,Miao!
+Dialogue: 0,0:08:09.92,0:08:11.80,main,ViceCaptain,0,0,0,,Trasformazione completata!
+Dialogue: 0,0:08:13.12,0:08:15.18,main,Sei,0,0,0,,Ehm, signor Castor?
+Dialogue: 0,0:08:15.18,0:08:16.24,main,Castor,0,0,0,,Mi dispiace.
+Dialogue: 0,0:08:16.24,0:08:18.02,main,Castor,0,0,0,,Mi sa che ho fatto un errore.
+Dialogue: 0,0:08:18.02,0:08:20.73,main,Castor,0,0,0,,Era un oggetto per le feste.
+Dialogue: 0,0:08:21.05,0:08:23.91,main,Sei,0,0,0,,Cosa ci facciamo con queste creature?
+Dialogue: 0,0:08:23.91,0:08:25.98,main,Castor,0,0,0,,Le copriamo con dei tessuti?
+Dialogue: 0,0:08:27.26,0:08:32.70,main,Sei,0,0,0,,Andare in moto e tirare calci\Nmirabolanti non gli si addice.
+Dialogue: 0,0:08:32.91,0:08:35.86,main,Kross,0,0,0,,Che c'è, Sei?\NCome mai quell'espressione delusa?
+Dialogue: 0,0:08:35.86,0:08:38.16,main,Sei,0,0,0,,N-No, non è niente.
+Dialogue: 0,0:08:38.67,0:08:40.55,main,Sei,0,0,0,,Non ne bevi una anche tu, signor Castor?
+Dialogue: 0,0:08:40.91,0:08:42.37,main,Castor,0,0,0,,Io sono una fata,
+Dialogue: 0,0:08:42.37,0:08:43.88,main,Castor,0,0,0,,non ne ho bisogno.
+Dialogue: 0,0:08:44.69,0:08:46.55,italics,Sei,0,0,0,,Siamo sicuri che andrà bene?
+Dialogue: 0,0:08:46.55,0:08:49.59,italics,Sei,0,0,0,,A me sembra proprio un umano.
+Dialogue: 0,0:08:50.67,0:08:52.30,main,Petto,0,0,0,,Si comincia a intravedere.
+Dialogue: 0,0:08:52.30,0:08:54.85,main,Virgo,0,0,0,,Quindi quello è il villaggio dei centauri.
+Dialogue: 0,0:08:56.71,0:08:57.98,main,ViceCaptain,0,0,0,,Andiamo, allora!
+Dialogue: 0,0:08:57.98,0:08:59.28,main,Sei,0,0,0,,Oh, scusate.
+Dialogue: 0,0:08:59.28,0:09:01.23,main,Sei,0,0,0,,Voi due aspettate qui, per favore.
+Dialogue: 0,0:09:01.23,0:09:02.34,main,Sei,0,0,0,,Davvero.
+Dialogue: 0,0:09:03.53,0:09:04.76,main,ViceCaptain,0,0,0,,Perché?
+Dialogue: 0,0:09:05.10,0:09:07.77,main,Sei,0,0,0,,Ehm… per fare da guardia!
+Dialogue: 0,0:09:07.77,0:09:10.49,main,Sei,0,0,0,,Controllate l'area circostante\Nmentre noi siamo al villaggio!
+Dialogue: 0,0:09:11.51,0:09:12.63,main,ViceCaptain,0,0,0,,Va bene!
+Dialogue: 0,0:09:15.69,0:09:18.79,main,Derby,0,0,0,,Uomini di Leon? Che ci fate qui?
+Dialogue: 0,0:09:19.54,0:09:21.93,main,Sei,0,0,0,,No, non siamo suoi subordinati.
+Dialogue: 0,0:09:23.25,0:09:27.63,main,Jean,0,0,0,,Siamo venuti qui per sfuggire\Nalla persecuzione degli umani.
+Dialogue: 0,0:09:33.27,0:09:34.70,main,Derby,0,0,0,,Ah, è così?
+Dialogue: 0,0:09:34.70,0:09:36.23,main,Derby,0,0,0,,Scusateci, allora.
+Dialogue: 0,0:09:36.23,0:09:38.76,main,Derby,0,0,0,,Siamo un po' sul chi vive.
+Dialogue: 0,0:09:38.76,0:09:40.39,main,Jean,0,0,0,,È successo qualcosa?
+Dialogue: 0,0:09:40.39,0:09:43.60,main,Gantz,0,0,0,,Abbiamo sentito\Nche Leon protegge i semiumani.
+Dialogue: 0,0:09:43.82,0:09:47.48,main,Gantz,0,0,0,,Che problema ci sarebbe,\Nse fossimo dei suoi?
+Dialogue: 0,0:09:47.99,0:09:49.82,main,Jean,0,0,0,,Beh, mi sa che non è proprio così.
+Dialogue: 0,0:09:50.20,0:09:51.60,main,Derby,0,0,0,,Esatto.
+Dialogue: 0,0:09:51.60,0:09:54.11,main,Derby,0,0,0,,Immagino che questo\Nsia quel che si sa all'esterno.
+Dialogue: 0,0:09:54.11,0:10:00.04,main,Derby,0,0,0,,Si può dire che è vero che noi centauri\Nsiamo sotto la sua protezione.
+Dialogue: 0,0:10:01.50,0:10:06.31,main,Derby,0,0,0,,Anche se noi,\Nanzi il nostro capo, Lord Sagittarius,
+Dialogue: 0,0:10:06.31,0:10:11.04,main,Derby,0,0,0,,era contrario a schierarsi con Leon.
+Dialogue: 0,0:10:11.04,0:10:13.72,main,Derby,0,0,0,,Abbiamo rifiutato la sua offerta.
+Dialogue: 0,0:10:14.35,0:10:19.93,main,Derby,0,0,0,,Ma Leon ha minacciato Lord Sagittarius\Ndi distruggere il nostro villaggio
+Dialogue: 0,0:10:19.93,0:10:21.97,main,Derby,0,0,0,,se non lo avessimo seguito.
+Dialogue: 0,0:10:22.39,0:10:24.58,main,Derby,0,0,0,,È davvero frustrante!
+Dialogue: 0,0:10:24.58,0:10:27.15,main,Derby,0,0,0,,Ci dispiace di essere così impotenti.
+Dialogue: 0,0:10:27.15,0:10:29.90,main,Derby,0,0,0,,Per colpa nostra, Lord Sagittarius
+Dialogue: 0,0:10:29.90,0:10:34.11,main,Derby,0,0,0,,è costretto ad agire\Ncontro la sua volontà.
+Dialogue: 0,0:10:34.55,0:10:36.43,main,Virgo,0,0,0,,Adesso capisco cosa succede.
+Dialogue: 0,0:10:37.30,0:10:41.19,main,Jean,0,0,0,,Allora perché non ve ne andate\Nda questo posto e basta?
+Dialogue: 0,0:10:41.19,0:10:43.91,main,Gantz,0,0,0,,Così Sagittarius sarebbe libero, no?
+Dialogue: 0,0:10:44.40,0:10:48.88,main,Derby,0,0,0,,Ha posto delle vedette nella foresta\Nper impedirci di farlo.
+Dialogue: 0,0:10:49.59,0:10:50.59,main,Jean,0,0,0,,Delle vedette?
+Dialogue: 0,0:10:52.91,0:10:57.52,main,Derby,0,0,0,,Gente che può diventare\Nil nostro boia agli ordini di Leon,
+Dialogue: 0,0:10:57.52,0:10:59.41,main,Derby,0,0,0,,feccia ripugnante.
+Dialogue: 0,0:11:00.61,0:11:03.64,main,Derby,0,0,0,,Beh, non rimaniamo\Na parlare qui in eterno.
+Dialogue: 0,0:11:03.64,0:11:05.75,main,Derby,0,0,0,,Venite pure a casa mia.
+Dialogue: 0,0:11:07.90,0:11:08.95,main,Derby,0,0,0,,Dunque…
+Dialogue: 0,0:11:09.27,0:11:13.15,main,Derby,0,0,0,,le vostre razze sono diverse\Nda quelle che sembrano, giusto?
+Dialogue: 0,0:11:13.36,0:11:18.47,main,Derby,0,0,0,,I vostri passi hanno\Nil suono di quelli dei bipedi.
+Dialogue: 0,0:11:19.34,0:11:21.56,main,Derby,0,0,0,,Siete tutti umani, vero?
+Dialogue: 0,0:11:21.56,0:11:22.90,main,Derby,0,0,0,,Il vostro scopo
+Dialogue: 0,0:11:22.90,0:11:25.06,main,Derby,0,0,0,,è verificare la forza dei semiumani
+Dialogue: 0,0:11:25.06,0:11:27.37,main,Derby,0,0,0,,che presto potrebbero\Nentrare in guerra con voi?
+Dialogue: 0,0:11:27.37,0:11:28.83,main,Kross,0,0,0,,Sono stupito!
+Dialogue: 0,0:11:28.83,0:11:30.59,main,Kross,0,0,0,,Impressionante, saggio della foresta.
+Dialogue: 0,0:11:30.59,0:11:32.16,main,Derby,0,0,0,,Ho indovinato?
+Dialogue: 0,0:11:32.16,0:11:34.44,main,Kross,0,0,0,,Avete ragione, siamo umani.
+Dialogue: 0,0:11:34.44,0:11:37.56,main,Kross,0,0,0,,Tuttavia, avete torto\Nriguardo al nostro scopo.
+Dialogue: 0,0:11:37.56,0:11:40.21,main,Derby,0,0,0,,Mi avete chiamato "saggio della foresta".
+Dialogue: 0,0:11:40.21,0:11:42.31,main,Derby,0,0,0,,Siete per caso un elfo?
+Dialogue: 0,0:11:43.24,0:11:48.96,main,Kross,0,0,0,,Siamo qui per capire perché\NSagittarius sta cooperando con Leon.
+Dialogue: 0,0:11:48.96,0:11:50.79,main,Kross,0,0,0,,Per questo ci siamo camuffati.
+Dialogue: 0,0:11:50.79,0:11:51.67,main,Derby,0,0,0,,Cosa?!
+Dialogue: 0,0:11:51.67,0:11:52.86,main,Derby,0,0,0,,Davvero?!
+Dialogue: 0,0:11:53.50,0:11:56.83,main,Kross,0,0,0,,Il nostro primo obiettivo\Nl'abbiamo già raggiunto.
+Dialogue: 0,0:11:56.83,0:12:00.10,main,Kross,0,0,0,,Ora dobbiamo solo liberarvi da qui.
+Dialogue: 0,0:12:00.45,0:12:02.78,main,Derby,0,0,0,,Vi prego, aiutateci.
+Dialogue: 0,0:12:02.78,0:12:04.50,main,Derby,0,0,0,,Non sopportiamo di essere il motivo
+Dialogue: 0,0:12:04.50,0:12:08.35,main,Derby,0,0,0,,per cui Lord Sagittarius\Nè obbligato a lavorare per lui.
+Dialogue: 0,0:12:08.35,0:12:09.71,main,Kross,0,0,0,,Certo che vi aiuteremo.
+Dialogue: 0,0:12:14.51,0:12:15.26,main,Centaur,0,0,0,,Anziano Derby!
+Dialogue: 0,0:12:15.72,0:12:17.67,main,Derby,0,0,0,,Che cos'è tutto questo fracasso?
+Dialogue: 0,0:12:17.67,0:12:18.78,main,Centaur,0,0,0,,Le mie scuse!
+Dialogue: 0,0:12:18.78,0:12:20.61,main,Centaur,0,0,0,,Sargess e i suoi uomini sono qui!
+Dialogue: 0,0:12:21.83,0:12:23.14,main,Sei,0,0,0,,Sargess!
+Dialogue: 0,0:12:23.56,0:12:24.99,main,Derby,0,0,0,,Lo conoscete?
+Dialogue: 0,0:12:25.55,0:12:26.27,main,Sei,0,0,0,,Sì.
+Dialogue: 0,0:12:26.72,0:12:28.81,main,Virgo,0,0,0,,Il semiumano ragno di quella volta?
+Dialogue: 0,0:12:29.63,0:12:31.77,main,Sei,0,0,0,,Che sia venuto a cercare noi?
+Dialogue: 0,0:12:31.77,0:12:35.61,main,Derby,0,0,0,,È lui che si occupa\Ndei villaggi di semiumani.
+Dialogue: 0,0:12:35.61,0:12:38.08,main,Derby,0,0,0,,Potrebbe essere una semplice ispezione.
+Dialogue: 0,0:12:38.08,0:12:40.78,main,Derby,0,0,0,,Voi rimanete qui.
+Dialogue: 0,0:12:45.34,0:12:47.45,title,Sign,0,0,0,,{\fs35\c&H0EFF26&\pos(542,108)}Tyrving
+Dialogue: 0,0:12:48.95,0:12:50.92,main,Libra,0,0,0,,Individuati molteplici segni di vita.
+Dialogue: 0,0:12:50.92,0:12:54.30,main,Libra,0,0,0,,Riscontri per Uomini Serpente,\NGiganti, Uomini Insetto…
+Dialogue: 0,0:12:54.30,0:12:55.71,main,Libra,0,0,0,,Non ci sono errori.
+Dialogue: 0,0:12:55.71,0:12:56.93,main,Libra,0,0,0,,Siamo a Tyrving.
+Dialogue: 0,0:12:57.36,0:13:00.97,main,Aries,0,0,0,,Leon sarà in quel castello\Ninutilmente enorme.
+Dialogue: 0,0:13:00.97,0:13:02.75,main,Karkinos,0,0,0,,Bene, ora che si fa?
+Dialogue: 0,0:13:02.75,0:13:06.35,main,Karkinos,0,0,0,,Non ha senso combattere apposta\Nnel territorio nemico, no?
+Dialogue: 0,0:13:06.79,0:13:08.79,main,Libra,0,0,0,,C'è una sola opzione\Nche possiamo scegliere.
+Dialogue: 0,0:13:11.67,0:13:13.73,main,Libra,0,0,0,,Un attacco preventivo.
+Dialogue: 0,0:13:14.38,0:13:16.32,main,Aigokeros,0,0,0,,Sono assolutamente d'accordo!
+Dialogue: 0,0:13:16.79,0:13:18.19,main,Dina,0,0,0,,Prendiamolo!
+Dialogue: 0,0:13:18.87,0:13:19.95,main,Aries,0,0,0,,Sì, ben detto!
+Dialogue: 0,0:13:19.95,0:13:22.61,main,Scorpius,0,0,0,,I ragazzi cattivi vanno puniti.
+Dialogue: 0,0:13:22.61,0:13:25.66,main,Karkinos,0,0,0,,Voi tutti… {\i1}fight{\i0}!
+Dialogue: 0,0:13:25.66,0:13:28.29,main,Libra,0,0,0,,Zuben El Genubi, massima intensità.
+Dialogue: 0,0:13:28.59,0:13:29.69,main,Aigokeros,0,0,0,,Muori!
+Dialogue: 0,0:13:29.69,0:13:31.25,main,Aigokeros,0,0,0,,Deneb Algedi!
+Dialogue: 0,0:13:31.49,0:13:33.21,main,Dina,0,0,0,,{\i1}Aqua Judge Gavel{\i0}!
+Dialogue: 0,0:13:33.47,0:13:34.84,main,Aries,0,0,0,,Mesarthim!
+Dialogue: 0,0:13:35.39,0:13:36.80,main,Scorpius,0,0,0,,Grafias!
+Dialogue: 0,0:13:37.81,0:13:39.76,sign_generic,Sign,0,0,0,,{\b0\bord3\blur2\c&HFFFFFF&\fs16\3c&H4D4217&\pos(319,285)}Non ha attacchi a distanza
+Dialogue: 0,0:13:37.99,0:13:39.76,main,Karkinos,0,0,0,,{\i1}Hey{\i0}, {\i1}hey{\i0}, {\i1}hey{\i0}!
+Dialogue: 0,0:13:39.76,0:13:40.63,main,Libra,0,0,0,,{\i1}Fire{\i0}!
+Dialogue: 0,0:13:42.79,0:13:44.26,main,Libra,0,0,0,,Sparerò un altro colpo.
+Dialogue: 0,0:13:44.26,0:13:46.36,main,Libra,0,0,0,,Continuate ad attaccare a distanza.
+Dialogue: 0,0:13:46.36,0:13:47.31,main,Libra,0,0,0,,Eccolo che arriva!
+Dialogue: 0,0:13:59.31,0:14:00.36,main,Leon,0,0,0,,Ehilà.
+Dialogue: 0,0:14:01.51,0:14:04.87,top,Leon,0,0,0,,Che nostalgia rivedere le vostre facce!
+Dialogue: 0,0:14:02.74,0:14:06.07,stats,Sign,0,0,0,,{\fad(227,0)\fs19\bord1\3c&H8FA317&\pos(164.5,329)}Leon
+Dialogue: 0,0:14:06.32,0:14:07.17,main,Aries,0,0,0,,Leon.
+Dialogue: 0,0:14:07.82,0:14:09.36,main,Sagittarius,0,0,0,,Siete tutti qui?
+Dialogue: 0,0:14:11.51,0:14:13.00,main,Aries,0,0,0,,Sagittarius.
+Dialogue: 0,0:14:13.29,0:14:15.35,main,Scorpius,0,0,0,,Ah, che aria soffocante.
+Dialogue: 0,0:14:15.35,0:14:16.88,main,Scorpius,0,0,0,,Com'è opprimente.
+Dialogue: 0,0:14:16.88,0:14:19.00,main,Leon,0,0,0,,Lufas non c'è?
+Dialogue: 0,0:14:19.00,0:14:21.97,main,Leon,0,0,0,,Mi sa che sarà una battaglia noiosa.
+Dialogue: 0,0:14:22.25,0:14:25.18,main,Aigokeros,0,0,0,,Parole forti per un infame traditore.
+Dialogue: 0,0:14:29.99,0:14:31.85,main,Aigokeros,0,0,0,,Pentiti delle tue scelte.
+Dialogue: 0,0:14:36.49,0:14:38.19,main,Leon,0,0,0,,Cosa?
+Dialogue: 0,0:14:38.57,0:14:41.28,main,Leon,0,0,0,,Che pugno debole che hai tirato.
+Dialogue: 0,0:14:41.28,0:14:43.90,main,Leon,0,0,0,,Così si tira un pugno!
+Dialogue: 0,0:14:48.12,0:14:49.40,main,Aries,0,0,0,,Aigokeros?!
+Dialogue: 0,0:14:50.45,0:14:51.20,main,Aries,0,0,0,,Maledetto!
+Dialogue: 0,0:15:00.11,0:15:03.25,main,Scorpius,0,0,0,,Abbassi troppo la guardia, grosso scemo!
+Dialogue: 0,0:15:03.84,0:15:08.66,main,Scorpius,0,0,0,,Saprai già che effetto ha\Nla mia abilità Shaula, vero?
+Dialogue: 0,0:15:08.66,0:15:10.52,main,Scorpius,0,0,0,,Una volta che ti ho iniettato il veleno,
+Dialogue: 0,0:15:10.52,0:15:13.94,main,Scorpius,0,0,0,,non puoi liberartene se non con un Elixir
+Dialogue: 0,0:15:14.34,0:15:16.81,main,Scorpius,0,0,0,,o con le arti celesti\Ndi grado più alto.
+Dialogue: 0,0:15:16.81,0:15:20.90,main,Scorpius,0,0,0,,Non importa quanto tu sia forte—
+Dialogue: 0,0:15:28.06,0:15:29.91,main,Leon,0,0,0,,L'idiota sei tu!
+Dialogue: 0,0:15:30.31,0:15:32.54,main,Leon,0,0,0,,Significa solo che devo uccidervi tutti
+Dialogue: 0,0:15:32.54,0:15:36.08,main,Leon,0,0,0,,prima che il veleno\Nfinisca di diffondersi!
+Dialogue: 0,0:15:37.11,0:15:38.55,main,Aries,0,0,0,,È davvero forte!
+Dialogue: 0,0:15:39.77,0:15:43.05,main,Libra,0,0,0,,Non darti troppe arie, Leon.
+Dialogue: 0,0:15:44.77,0:15:46.55,main,Libra,0,0,0,,Selezione programma,
+Dialogue: 0,0:15:48.81,0:15:50.76,main,Libra,0,0,0,,Brachium, attivazione!
+Dialogue: 0,0:16:00.51,0:16:01.75,main,Leon,0,0,0,,Debole!
+Dialogue: 0,0:16:11.77,0:16:13.43,main,Libra,0,0,0,,{\i1}Armament Selection{\i0}!
+Dialogue: 0,0:16:13.43,0:16:14.49,main,Libra,0,0,0,,Astraia!
+Dialogue: 0,0:16:17.45,0:16:18.67,main,Leon,0,0,0,,E questo cos'è?!
+Dialogue: 0,0:16:23.46,0:16:24.92,main,Leon,0,0,0,,Non rompere!
+Dialogue: 0,0:16:29.97,0:16:31.43,main,Libra,0,0,0,,Astraia!
+Dialogue: 0,0:16:31.84,0:16:33.18,main,Leon,0,0,0,,Quanto rompi, maledizione!
+Dialogue: 0,0:16:33.18,0:16:34.25,main,Libra,0,0,0,,{\i1}Link{\i0}!
+Dialogue: 0,0:16:45.65,0:16:47.07,main,Libra,0,0,0,,Combinazione completa!
+Dialogue: 0,0:16:49.23,0:16:50.19,main,Libra,0,0,0,,Eccomi!
+Dialogue: 0,0:16:51.28,0:16:52.48,main,Libra,0,0,0,,Potenza di fuoco al massimo.
+Dialogue: 0,0:16:52.48,0:16:53.38,main,Leon,0,0,0,,E quello cos'è?!
+Dialogue: 0,0:16:53.38,0:16:54.98,main,Libra,0,0,0,,Fuoco da tutti i cannoni!
+Dialogue: 0,0:16:55.77,0:16:56.66,main,Libra,0,0,0,,{\i1}Full fire{\i0}!
+Dialogue: 0,0:17:09.19,0:17:10.32,main,Leon,0,0,0,,Sagittarius!
+Dialogue: 0,0:17:10.32,0:17:11.12,main,Sagittarius,0,0,0,,Sì!
+Dialogue: 0,0:17:12.59,0:17:13.97,main,Sagittarius,0,0,0,,Al Nassr!
+Dialogue: 0,0:17:16.43,0:17:18.61,main,Leon,0,0,0,,Sei mia!
+Dialogue: 0,0:17:26.10,0:17:27.47,main,Leon,0,0,0,,E questa è la tua fine!
+Dialogue: 0,0:17:31.57,0:17:34.91,main,Karkinos,0,0,0,,Ti sei dimenticato di me, Leon?
+Dialogue: 0,0:17:36.39,0:17:37.62,main,Karkinos,0,0,0,,Riprenditelo.
+Dialogue: 0,0:17:38.20,0:17:39.22,main,Karkinos,0,0,0,,Acubens!
+Dialogue: 0,0:17:44.41,0:17:45.42,main,Leon,0,0,0,,Maledetto!
+Dialogue: 0,0:17:47.07,0:17:51.71,main,Leon,0,0,0,,Tutto ciò che sai fare è attendere che\Nil nemico ti attacchi, stupido granchio!
+Dialogue: 0,0:17:51.71,0:17:54.62,main,Karkinos,0,0,0,,{\i1}Yes{\i0}! {\i1}Yes{\i0}! {\i1}Yes{\i0}!
+Dialogue: 0,0:17:54.62,0:17:57.10,main,Karkinos,0,0,0,,Hai ragione, non posso fare altro.
+Dialogue: 0,0:17:57.10,0:17:59.39,main,Karkinos,0,0,0,,Ma siccome posso fare solo questo,
+Dialogue: 0,0:17:59.79,0:18:02.85,main,Karkinos,0,0,0,,nessuno può battermi sotto questo aspetto.
+Dialogue: 0,0:18:09.17,0:18:10.44,main,Leon,0,0,0,,Maledetto!
+Dialogue: 0,0:18:10.44,0:18:11.57,main,Sagittarius,0,0,0,,Fermati, Leon!
+Dialogue: 0,0:18:11.57,0:18:12.41,main,Sagittarius,0,0,0,,Non attaccarlo!
+Dialogue: 0,0:18:12.41,0:18:15.57,main,Sagittarius,0,0,0,,Sa solo aspettare che tu lo colpisca\Nper poi contrattaccare!
+Dialogue: 0,0:18:15.99,0:18:17.08,main,Leon,0,0,0,,Sta' zitto!
+Dialogue: 0,0:18:28.09,0:18:28.91,main,Karkinos,0,0,0,,Leon,
+Dialogue: 0,0:18:31.70,0:18:33.59,main,Karkinos,0,0,0,,{\i1}come ooon{\i0}!
+Dialogue: 0,0:18:44.81,0:18:47.23,main,Libra,0,0,0,,Il ruolo di Karkinos è quello del tank.
+Dialogue: 0,0:18:47.23,0:18:51.61,main,Libra,0,0,0,,È nel difendere gli alleati negli scontri\Ndi gruppo che dà il meglio di sé.
+Dialogue: 0,0:18:52.23,0:18:57.54,main,Libra,0,0,0,,E la forza di Leon sta nelle statistiche\Nelevate con cui annienta i nemici
+Dialogue: 0,0:18:57.54,0:18:59.58,main,Libra,0,0,0,,a testa bassa\Ne senza affidarsi ad abilità.
+Dialogue: 0,0:18:59.99,0:19:04.47,main,Libra,0,0,0,,Pertanto, la specialità di Karkinos\Nnella difesa e nel contrattacco
+Dialogue: 0,0:19:05.04,0:19:06.29,main,Libra,0,0,0,,lo mette in netto svantaggio.
+Dialogue: 0,0:19:18.42,0:19:19.05,main,Karkinos,0,0,0,,{\i1}Hey{\i0}.
+Dialogue: 0,0:19:20.96,0:19:21.59,main,Dina,0,0,0,,Ehilà!
+Dialogue: 0,0:19:23.54,0:19:25.02,main,Karkinos,0,0,0,,{\i1}Bring it{\i0}!
+Dialogue: 0,0:19:32.86,0:19:34.15,main,Karkinos,0,0,0,,{\i1}Checkmate{\i0}.
+Dialogue: 0,0:19:34.15,0:19:35.88,main,Karkinos,0,0,0,,La partita è finita, Leon.
+Dialogue: 0,0:19:36.19,0:19:37.55,main,Leon,0,0,0,,Ma fottiti!
+Dialogue: 0,0:19:37.55,0:19:41.08,main,Leon,0,0,0,,Non perderò contro una nullità come te!
+Dialogue: 0,0:19:40.46,0:19:41.67,Overlap,Aigokeros,0,0,0,,Sono stufo di sentirlo dire!
+Dialogue: 0,0:19:47.88,0:19:49.63,main,Scorpius,0,0,0,,Mi dispiace.
+Dialogue: 0,0:19:50.03,0:19:53.22,main,Scorpius,0,0,0,,Non sento le parole di una nullità\Nancora più debole
+Dialogue: 0,0:19:53.22,0:19:55.73,main,Scorpius,0,0,0,,che perde contro una nullità simile!
+Dialogue: 0,0:19:55.73,0:19:58.83,main,Scorpius,0,0,0,,Smetti di abbaiare come se fossi\Nqualcuno di importante, montagna di sterco
+Dialogue: 0,0:19:58.83,0:20:01.25,main,Scorpius,0,0,0,,che ha tradito Padrona Lufas!
+Dialogue: 0,0:20:02.06,0:20:02.87,main,Scorpius,0,0,0,,Ehi, è vero, no?!
+Dialogue: 0,0:20:02.87,0:20:03.93,main,Scorpius,0,0,0,,Dite qualcosa!
+Dialogue: 0,0:20:03.93,0:20:05.37,main,Scorpius,0,0,0,,Siete tutti d'accordo, no?!
+Dialogue: 0,0:20:05.37,0:20:06.99,top,Scorpius,0,0,0,,Cioè, Padrona Lufas è nel giusto,
+Dialogue: 0,0:20:06.99,0:20:09.72,top,Scorpius,0,0,0,,quindi quel tizio che l'ha sfidata\Nha torto marcio, no?!
+Dialogue: 0,0:20:07.13,0:20:08.45,main,Aries,0,0,0,,E adesso?
+Dialogue: 0,0:20:08.45,0:20:09.72,main,Aries,0,0,0,,La fermiamo?
+Dialogue: 0,0:20:09.72,0:20:11.43,main,Aigokeros,0,0,0,,Non ce n'è bisogno.
+Dialogue: 0,0:20:09.72,0:20:13.02,top,Scorpius,0,0,0,,Perché non riesci a capire\Nuna cosa tanto semplice, brutto demente?!
+Dialogue: 0,0:20:11.44,0:20:12.38,main,Libra,0,0,0,,No.
+Dialogue: 0,0:20:12.38,0:20:13.96,main,Libra,0,0,0,,Anche se è un traditore,
+Dialogue: 0,0:20:13.02,0:20:16.78,top,Scorpius,0,0,0,,Oh, giusto, è perché tu\Nnon pensi proprio, vero?!
+Dialogue: 0,0:20:13.96,0:20:17.40,main,Libra,0,0,0,,non possiamo ucciderlo\Nsenza il permesso della Padrona.
+Dialogue: 0,0:20:16.78,0:20:17.75,top,Scorpius,0,0,0,,Forza, forza, forza!
+Dialogue: 0,0:20:17.74,0:20:20.62,main,Libra,0,0,0,,Fermiamola appena Leon\Nsarà in procinto di morire.
+Dialogue: 0,0:20:17.75,0:20:21.15,top,Scorpius,0,0,0,,Strofina la tua lurida faccia per terra\Ne chiedi scusa a Padrona Lufas!
+Dialogue: 0,0:20:21.15,0:20:23.38,top,Scorpius,0,0,0,,Ammetti che sei feccia, un idiota,\Ne hai torto marcio
+Dialogue: 0,0:20:22.12,0:20:24.50,italics,Leon,0,0,0,,Non lo ammetterò mai! Mai!
+Dialogue: 0,0:20:23.38,0:20:25.12,top,Scorpius,0,0,0,,e implora il suo perdono!
+Dialogue: 0,0:20:24.50,0:20:26.83,italics,Leon,0,0,0,,Non lo ammetterò mai!
+Dialogue: 0,0:20:28.03,0:20:30.33,main,Alovenus,0,0,0,,Cerchi il potere?
+Dialogue: 0,0:20:31.76,0:20:36.13,main,Alovenus,0,0,0,,Se lo desideri, posso offrirtelo.
+Dialogue: 0,0:20:37.59,0:20:39.79,main,Leon,0,0,0,,Sì, il potere!
+Dialogue: 0,0:20:39.79,0:20:42.27,main,Leon,0,0,0,,Se avessi più potere,\Nnon perderei contro nessuno.
+Dialogue: 0,0:20:42.27,0:20:44.72,main,Leon,0,0,0,,Potrei persino sfidare Lufas.
+Dialogue: 0,0:20:45.27,0:20:46.54,main,Leon,0,0,0,,Bando alle ciance.
+Dialogue: 0,0:20:46.54,0:20:49.27,main,Leon,0,0,0,,Smettila di blaterare e dammi il potere!
+Dialogue: 0,0:20:49.27,0:20:51.84,main,Leon,0,0,0,,Sta' zitta e donami quel potere!
+Dialogue: 0,0:20:52.72,0:20:54.15,main,Alovenus,0,0,0,,Molto bene.
+Dialogue: 0,0:20:54.69,0:20:57.24,main,Alovenus,0,0,0,,Esaudirò il tuo desiderio.
+Dialogue: 0,0:21:05.13,0:21:08.12,title,Sign,0,0,0,,{\fs35\c&H3E4CE2&\pos(522,100.8)}Mjolnir
+Dialogue: 0,0:21:08.12,0:21:11.22,main,Lufas,0,0,0,,Mjolnir, la nazione della notte eterna.
+Dialogue: 0,0:21:11.58,0:21:13.58,main,Lufas,0,0,0,,Perché non fare un giro turistico?
+Dialogue: 0,0:21:15.87,0:21:16.97,main,Benetnasch,0,0,0,,Ehi, su!
+Dialogue: 0,0:21:19.23,0:21:20.05,main,Lufas,0,0,0,,Benet?
+Dialogue: 0,0:21:20.47,0:21:22.72,main,Benetnasch,0,0,0,,Mi domandavo cosa stessi facendo,
+Dialogue: 0,0:21:22.72,0:21:25.37,main,Benetnasch,0,0,0,,visto che ti aspettavo al castello\Ne non arrivavi.
+Dialogue: 0,0:21:25.37,0:21:27.52,main,Benetnasch,0,0,0,,Hai un bel coraggio a fare la turista.
+Dialogue: 0,0:21:27.52,0:21:29.48,main,Lufas,0,0,0,,Beh, non avere fretta.
+Dialogue: 0,0:21:29.48,0:21:31.81,main,Lufas,0,0,0,,Abbiamo intenzione di venire da te dopo.
+Dialogue: 0,0:21:32.33,0:21:35.55,main,Lufas,0,0,0,,A proposito, consigli\Nqualche luogo particolare?
+Dialogue: 0,0:21:35.55,0:21:38.35,main,Lufas,0,0,0,,Stavamo cercando un negozio\Ndi souvenir, ma senza successo.
+Dialogue: 0,0:21:38.75,0:21:41.75,main,Benetnasch,0,0,0,,Sei diventata più spensierata?
+Dialogue: 0,0:21:41.75,0:21:42.99,main,Lufas,0,0,0,,Ce lo dicono spesso.
+Dialogue: 0,0:21:43.25,0:21:45.58,main,Benetnasch,0,0,0,,In ogni caso, basta perdere tempo qui e—
+Dialogue: 0,0:21:45.58,0:21:47.66,main,Lufas,0,0,0,,Non essere così rigida.
+Dialogue: 0,0:21:47.66,0:21:49.14,main,Lufas,0,0,0,,Finalmente ci siamo riunite,
+Dialogue: 0,0:21:49.14,0:21:51.99,main,Lufas,0,0,0,,sarebbe noioso iniziare\Nsubito a ucciderci a vicenda.
+Dialogue: 0,0:21:51.99,0:21:55.52,main,Lufas,0,0,0,,Su, dicci cosa c'è da vedere\Nin questa capitale.
+Dialogue: 0,0:21:58.81,0:22:00.71,main,Lufas,0,0,0,,Forse faremmo meglio a tornare a casa?
+Dialogue: 0,0:22:02.67,0:22:04.01,main,Benetnasch,0,0,0,,Ti faccio da guida.
+Dialogue: 0,0:22:04.01,0:22:04.84,main,Benetnasch,0,0,0,,Seguimi.
+
