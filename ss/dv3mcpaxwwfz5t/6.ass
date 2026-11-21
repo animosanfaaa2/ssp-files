@@ -1,0 +1,346 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,20,20,20,1
+Style: Italique,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,2,20,20,20,1
+Style: TiretsDefault,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,1,20,20,20,1
+Style: Sign,Arial,21,&H00FFFFFF,&H000000FF,&H00292929,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:32.28,0:01:37.12,Sign,SIGN,0,0,0,,{\an1\fad(100,385)\b1\pos(241.085,299.343)}ÉPISODE {\c&H0500AE&}21{\c} : BENETNASH\NLA PRINCESSE VAMPIRE APPARAÎT !
+Dialogue: 0,0:01:34.90,0:01:38.43,Default,Luphas,0,0,0,,{\an8}Tyrfing se trouve aux confins nord\Ndes terres humaines.
+Dialogue: 0,0:01:38.84,0:01:40.37,Default,Luphas,0,0,0,,C’est le fief de Leon,
+Dialogue: 0,0:01:40.54,0:01:42.84,Default,Luphas,0,0,0,,celui des parias\Nrejetés par l’humanité.
+Dialogue: 0,0:01:43.20,0:01:46.04,Default,Luphas,0,0,0,,C’est donc un lieu\Noù s’entassent les demi-humains.
+Dialogue: 0,0:01:46.56,0:01:51.30,Default,Luphas,0,0,0,,Je m’étonne que les démons,\Nleurs voisins, ne les aient pas envahis.
+Dialogue: 0,0:01:51.43,0:01:53.11,Default,Dina,0,0,0,,C’est parce qu’ils sont situés
+Dialogue: 0,0:01:53.24,0:01:56.28,Default,Dina,0,0,0,,à côté de Mjöllnir,\Nle pays nocturne de Benetnash.
+Dialogue: 0,0:01:56.43,0:02:00.98,Default,Dina,0,0,0,,D’ailleurs, les démons ont déjà attaqué\Npour étendre leur territoire,
+Dialogue: 0,0:02:01.11,0:02:04.27,Default,Dina,0,0,0,,mais Benetnash\Nles a complètement écrasés.
+Dialogue: 0,0:02:04.78,0:02:07.48,Default,Luphas,0,0,0,,Le Roi-démon\Nn’a pas affronté Benet ?
+Dialogue: 0,0:02:07.80,0:02:09.74,Default,Dina,0,0,0,,Il y a eu des escarmouches,
+Dialogue: 0,0:02:09.87,0:02:13.18,Default,Dina,0,0,0,,mais aucun des deux\Nn’a déployé sa vraie puissance.
+Dialogue: 0,0:02:14.26,0:02:16.95,Italique,Luphas,0,0,0,,Je préférerais ne pas la croiser.\NApparemment,
+Dialogue: 0,0:02:17.08,0:02:20.23,Italique,Luphas,0,0,0,,il n’y a aucune chance\Nqu’elle fuie en me voyant.
+Dialogue: 0,0:02:20.99,0:02:24.66,Default,Luphas,0,0,0,,Tant qu’elle ne me remarque pas,\Ntout se passera bien.
+Dialogue: 0,0:02:24.79,0:02:27.50,Default,Aigokeros,0,0,0,,Elle vous repérera.\NC’est même une certitude.
+Dialogue: 0,0:02:27.81,0:02:29.59,Italique,Luphas,0,0,0,,Il m’a contredit direct !
+Dialogue: 0,0:02:29.88,0:02:33.15,Default,Aigokeros,0,0,0,,Les vampires sont très proches\Ndes diables comme moi.
+Dialogue: 0,0:02:33.29,0:02:37.72,Default,Aigokeros,0,0,0,,Il est impossible qu’elle passe à côté\Nde votre aura maléfique.
+Dialogue: 0,0:03:01.62,0:03:03.70,Sign,SIGN,0,0,0,,{\an8\fad(250,0)\3c&H92B311&\fnCourier New\b1\pos(486.378,248.356)}BENETNASH
+Dialogue: 0,0:03:03.90,0:03:04.98,Default,Aries,0,0,0,,Benetnash !
+Dialogue: 0,0:03:05.10,0:03:07.88,Default,Aigokeros,0,0,0,,Elle ne s’est pas fait prier !
+Dialogue: 0,0:03:09.28,0:03:12.23,Default,Benetnash,0,0,0,,Comme on se retrouve,\NLuphas Mafahl.
+Dialogue: 0,0:03:12.48,0:03:14.76,Default,Benetnash,0,0,0,,Ça faisait 200 ans et 4 mois.
+Dialogue: 0,0:03:15.56,0:03:18.30,Default,Benetnash,0,0,0,,Je suis bien contente\Nde te voir en vie.
+Dialogue: 0,0:03:19.80,0:03:22.01,Default,Luphas,0,0,0,,Tu n’as pas changé non plus.
+Dialogue: 0,0:03:22.17,0:03:23.60,Default,Benetnash,0,0,0,,Bien sûr que non.
+Dialogue: 0,0:03:23.73,0:03:27.02,Default,Benetnash,0,0,0,,Ce jour-là, pour moi,\Nle temps s’est arrêté.
+Dialogue: 0,0:03:27.69,0:03:32.57,Sign,SIGN,0,0,0,,{\an8\fad(1300,0)\fs20\bord2\blur2\fnComic Sans MS\c&H282828&\3c&HF2F2F2&\pos(160,270.844)}200 ANS ET 4 MOIS PLUS TÔT
+Dialogue: 0,0:03:34.68,0:03:38.03,Italique,Benetnash,0,0,0,,À nous deux, Mafahl.\NCet assaut sera le dernier !
+Dialogue: 0,0:03:38.90,0:03:41.59,Italique,Luphas,0,0,0,,Très bien. Je t’attends, Benet.
+Dialogue: 0,0:03:48.78,0:03:50.59,Italique,Benetnash,0,0,0,,Une magie d’interférence ?
+Dialogue: 0,0:03:58.23,0:03:59.72,Italique,Benetnash,0,0,0,,Ne nous interrompez pas !
+Dialogue: 0,0:04:00.06,0:04:02.41,Italique,Benetnash,0,0,0,,À quoi est-ce que vous jou… ?
+Dialogue: 0,0:04:03.79,0:04:05.88,Italique,Benetnash,0,0,0,,Ils débordent d’énergie céleste !
+Dialogue: 0,0:04:10.01,0:04:11.69,Italique,Benetnash,0,0,0,,Misérables !
+Dialogue: 0,0:04:12.56,0:04:14.40,Italique,Luphas,0,0,0,,Je suis désolée, Benet.
+Dialogue: 0,0:04:14.59,0:04:16.44,Italique,Luphas,0,0,0,,Remettons ce combat à plus tard.
+Dialogue: 0,0:04:16.57,0:04:18.11,Italique,Benetnash,0,0,0,,Attends, Mafahl !
+Dialogue: 0,0:04:18.47,0:04:21.63,Italique,Luphas,0,0,0,,Ne t’en fais pas,\Nje reviendrai coûte que coûte.
+Dialogue: 0,0:04:21.77,0:04:24.50,Italique,Luphas,0,0,0,,Tu peux aiguiser tes crocs,\Nd’ici là.
+Dialogue: 0,0:04:26.62,0:04:30.64,Italique,Benetnash,0,0,0,,Mafahl !
+Dialogue: 0,0:04:33.68,0:04:36.86,Default,Benetnash,0,0,0,,Après quoi,\Ntu n’es finalement pas revenue.
+Dialogue: 0,0:04:37.33,0:04:41.55,Default,Benetnash,0,0,0,,Depuis ce jour,\Nj’ai été incapable d’aller de l’avant.
+Dialogue: 0,0:04:44.33,0:04:46.42,Default,Benetnash,0,0,0,,Arrête ton cirque, pantin.
+Dialogue: 0,0:04:46.87,0:04:49.65,Default,Benetnash,0,0,0,,Je suis exceptionnellement\Nde bonne humeur.
+Dialogue: 0,0:04:49.79,0:04:51.99,Default,Benetnash,0,0,0,,Reste sage, et je t’épargne.
+Dialogue: 0,0:04:52.12,0:04:55.40,Default,Benetnash,0,0,0,,Mais si tu interromps\Nnos retrouvailles…
+Dialogue: 0,0:04:56.69,0:04:59.07,Default,Benetnash,0,0,0,,je ne réponds plus de rien.
+Dialogue: 0,0:05:05.57,0:05:07.05,Italique,Luphas,0,0,0,,Elle est forte !
+Dialogue: 0,0:05:07.23,0:05:09.78,Default,Benetnash,0,0,0,,Ça vaut aussi\Npour les Douze Constellations.
+Dialogue: 0,0:05:10.03,0:05:14.19,Default,Benetnash,0,0,0,,Votre puissance est remarquable,\Nmais vous ne faites pas le poids.
+Dialogue: 0,0:05:14.40,0:05:17.17,Default,Benetnash,0,0,0,,Restez dans un coin,\Nsi vous tenez à la vie.
+Dialogue: 0,0:05:17.71,0:05:21.38,Default,Scorpius,0,0,0,,Tu as vraiment une grande gueule,\Npour une naine !
+Dialogue: 0,0:05:22.27,0:05:24.35,Default,Aigokeros,0,0,0,,Tu oses nous insulter ?
+Dialogue: 0,0:05:24.47,0:05:26.81,Default,Luphas,0,0,0,,Assez !\NNe répondez pas à sa provocation.
+Dialogue: 0,0:05:29.91,0:05:31.33,Default,Benetnash,0,0,0,,Sage conseil.
+Dialogue: 0,0:05:32.57,0:05:35.98,Default,Benetnash,0,0,0,,Tu es la seule\Nà pouvoir m’affronter.
+Dialogue: 0,0:05:37.81,0:05:40.41,Default,Benetnash,0,0,0,,Je ne souhaite\Nqu’une seule chose.
+Dialogue: 0,0:05:40.61,0:05:43.41,Default,Benetnash,0,0,0,,Qu’on livre un vrai duel\Nsans être interrompues…
+Dialogue: 0,0:05:44.89,0:05:48.62,Default,Benetnash,0,0,0,,afin de régler ça\Nune bonne fois pour toutes.
+Dialogue: 0,0:05:49.09,0:05:52.33,Default,Luphas,0,0,0,,Tu es venue\Nuniquement pour me dire ça ?
+Dialogue: 0,0:05:52.94,0:05:55.22,Default,Benetnash,0,0,0,,Tâche de ne pas t’enfuir, Mafahl.
+Dialogue: 0,0:05:55.46,0:05:58.16,Default,Benetnash,0,0,0,,J’ai quand même attendu\Npendant 200 longues années
+Dialogue: 0,0:05:58.29,0:06:00.66,Default,Benetnash,0,0,0,,pour pouvoir en finir avec toi.
+Dialogue: 0,0:06:00.86,0:06:04.17,Default,Luphas,0,0,0,,Ne t’en fais pas,\Nc’est l’invitation d’une vieille amie.
+Dialogue: 0,0:06:04.34,0:06:06.37,Default,Luphas,0,0,0,,Je l’accepte avec plaisir.
+Dialogue: 0,0:06:07.25,0:06:08.46,Default,Benetnash,0,0,0,,Très bien, alors.
+Dialogue: 0,0:06:08.59,0:06:10.87,Default,Benetnash,0,0,0,,Moi seule ai le droit de te tuer,
+Dialogue: 0,0:06:10.99,0:06:14.52,Default,Benetnash,0,0,0,,et toi seule peux me tuer.\NC’est sans concession.
+Dialogue: 0,0:06:16.77,0:06:20.18,Default,Benetnash,0,0,0,,Cette fois,\Nce sera un vrai combat à mort !
+Dialogue: 0,0:06:22.32,0:06:25.05,Default,Benetnash,0,0,0,,Bref,\Nje t’attends avec impatience.
+Dialogue: 0,0:06:29.25,0:06:32.30,Italique,Luphas,0,0,0,,Comment faire ?\NElle ne me lâchera pas !
+Dialogue: 0,0:06:34.12,0:06:35.55,Default,Dina,0,0,0,,Que faisons-nous ?
+Dialogue: 0,0:06:35.88,0:06:39.12,Default,Luphas,0,0,0,,Vous irez à la recherche de Leon\Ncomme prévu.
+Dialogue: 0,0:06:39.47,0:06:41.34,Default,Luphas,0,0,0,,Je me rends à Mjöllnir
+Dialogue: 0,0:06:42.19,0:06:44.77,Default,Luphas,0,0,0,,pour régler mes comptes\Navec Benet.
+Dialogue: 0,0:06:49.04,0:06:52.21,Default,Castor,0,0,0,,Direction le village des centaures,\Nchez les demi-humains.
+Dialogue: 0,0:06:52.35,0:06:53.80,Default,Castor,0,0,0,,Buvez cette potion.
+Dialogue: 0,0:06:54.20,0:06:55.98,Default,Castor,0,0,0,,Pendant trois heures,
+Dialogue: 0,0:06:56.10,0:06:59.27,Default,Castor,0,0,0,,elle donne l’illusion\Nd’une autre d’apparence.
+Dialogue: 0,0:06:59.82,0:07:03.63,Default,Cruz,0,0,0,,Vraiment ? Ça m’a l’air d’être\Nune potion très précieuse.
+Dialogue: 0,0:07:03.94,0:07:06.44,Default,Castor,0,0,0,,Ça ne l’est pas tant que ça\Npour nous.
+Dialogue: 0,0:07:06.71,0:07:08.41,Default,Castor,0,0,0,,Allez-y, c’est moi qui régale.
+Dialogue: 0,0:07:10.04,0:07:14.29,Default,Cruz,0,0,0,,C’est vraiment parce qu’il faut\Nnous fondre parmi les demi-humains.
+Dialogue: 0,0:07:14.86,0:07:15.74,Default,Cruz,0,0,0,,Bien…
+Dialogue: 0,0:07:31.84,0:07:32.86,Default,Sei,0,0,0,,Ça alors !
+Dialogue: 0,0:07:33.12,0:07:35.29,Default,Castor,0,0,0,,Tu es un monstre appelé « ogre ».
+Dialogue: 0,0:07:35.48,0:07:37.61,Default,Virgo,0,0,0,,Oh, c’est joli !
+Dialogue: 0,0:07:41.90,0:07:44.65,Default,Gantz,0,0,0,,Ça, c’est quelque chose !
+Dialogue: 0,0:07:45.00,0:07:48.32,Default,Gantz,0,0,0,,Même en y touchant,\Nje trouve que l’illusion est parfaite.
+Dialogue: 0,0:07:48.78,0:07:50.96,Default,Jean,0,0,0,,Ça fait un peu bizarre.
+Dialogue: 0,0:07:51.09,0:07:52.78,Default,Jean,0,0,0,,J’ai un corps de cheval,
+Dialogue: 0,0:07:52.91,0:07:56.00,Default,Jean,0,0,0,,mais je ne ressens\Nque mes deux jambes.
+Dialogue: 0,0:07:56.13,0:07:59.25,Default,Chatounet,0,0,0,,Moi, je ne suis pas très satisfait\Ndu résultat.
+Dialogue: 0,0:08:09.90,0:08:11.80,Default,Vice-commandante,0,0,0,,Transformation terminée !
+Dialogue: 0,0:08:13.10,0:08:15.03,Default,Sei,0,0,0,,Euh… Castor ?
+Dialogue: 0,0:08:15.17,0:08:18.02,Default,Castor,0,0,0,,Désolé,\Nj’ai dû me tromper de fiole.
+Dialogue: 0,0:08:18.18,0:08:20.72,Default,Castor,0,0,0,,C’est un mélange\Nprévu pour s’amuser.
+Dialogue: 0,0:08:21.02,0:08:23.75,Default,Sei,0,0,0,,Et que fait-on\Nde créatures pareilles ?
+Dialogue: 0,0:08:23.90,0:08:25.98,Default,Castor,0,0,0,,Tu peux les recouvrir d’un tissu…
+Dialogue: 0,0:08:27.14,0:08:28.97,Italique,Sei,0,0,0,,Je l’imagine un peu mal
+Dialogue: 0,0:08:29.11,0:08:32.70,Italique,Sei,0,0,0,,faire de la moto\Nou lancer des super kicks.
+Dialogue: 0,0:08:32.88,0:08:35.73,Default,Cruz,0,0,0,,Qu’y a-t-il, Sei ?\NPourquoi cet air déçu ?
+Dialogue: 0,0:08:35.87,0:08:38.16,Default,Sei,0,0,0,,Oh, ce n’est rien !
+Dialogue: 0,0:08:38.65,0:08:40.62,Default,Sei,0,0,0,,Tu ne bois pas, Castor ?
+Dialogue: 0,0:08:40.88,0:08:43.88,Default,Castor,0,0,0,,Pas besoin,\Nvu que je suis déjà un lutin.
+Dialogue: 0,0:08:44.66,0:08:46.42,Italique,Sei,0,0,0,,Et ça va passer ?
+Dialogue: 0,0:08:46.56,0:08:49.59,Italique,Sei,0,0,0,,À l’œil nu,\Non dirait clairement un humain.
+Dialogue: 0,0:08:50.59,0:08:52.30,Default,Chatounet,0,0,0,,Nous y sommes !
+Dialogue: 0,0:08:52.46,0:08:54.89,Default,Chatounet,0,0,0,,C’est le village des centaures !
+Dialogue: 0,0:08:56.69,0:08:57.86,Default,Vice-commandante,0,0,0,,Allez, en route !
+Dialogue: 0,0:08:57.98,0:08:59.20,Default,Sei,0,0,0,,Euh, excusez-moi !
+Dialogue: 0,0:08:59.33,0:09:02.45,Default,Sei,0,0,0,,Je veux que vous attendiez ici.\NC’est sérieux.
+Dialogue: 0,0:09:03.50,0:09:04.81,Default,Vice-commandante,0,0,0,,Pourquoi ça ?
+Dialogue: 0,0:09:05.10,0:09:07.64,Default,Sei,0,0,0,,Eh bien… pour faire le guet !
+Dialogue: 0,0:09:07.77,0:09:10.90,Default,Sei,0,0,0,,Surveillez les environs\Nquand nous serons au village.
+Dialogue: 0,0:09:11.48,0:09:12.70,Default,Vice-commandante,0,0,0,,C’est compris.
+Dialogue: 0,0:09:15.66,0:09:18.79,Default,Derby,0,0,0,,Vous êtes des subordonnés de Leon ?\NQue voulez-vous ?
+Dialogue: 0,0:09:18.92,0:09:22.00,Default,Sei,0,0,0,,Hein ?\NNon, nous ne sommes pas avec lui.
+Dialogue: 0,0:09:23.27,0:09:26.25,Default,Jean,0,0,0,,Nous avons fui\Nla discrimination des humains
+Dialogue: 0,0:09:26.37,0:09:27.70,Default,Jean,0,0,0,,pour arriver ici.
+Dialogue: 0,0:09:33.28,0:09:36.11,Default,Derby,0,0,0,,Ah bon ? Désolé pour cet accueil.
+Dialogue: 0,0:09:36.24,0:09:38.58,Default,Derby,0,0,0,,Je suis un peu tendu.
+Dialogue: 0,0:09:38.72,0:09:40.39,Default,Jean,0,0,0,,Que s’est-il passé ?
+Dialogue: 0,0:09:40.54,0:09:43.60,Default,Gantz,0,0,0,,Je croyais que les demi-humains\Nétaient avec Leon.
+Dialogue: 0,0:09:43.81,0:09:47.55,Default,Gantz,0,0,0,,Ça ne devrait pas poser problème\Nqu’on le soit aussi.
+Dialogue: 0,0:09:47.96,0:09:49.82,Default,Jean,0,0,0,,Enfin bon, ce n’est pas le cas !
+Dialogue: 0,0:09:51.42,0:09:53.97,Default,Derby,0,0,0,,C’est ce qui se raconte, dehors ?
+Dialogue: 0,0:09:54.10,0:09:55.16,Default,Derby,0,0,0,,Dans les faits,
+Dialogue: 0,0:09:55.29,0:10:00.04,Default,Derby,0,0,0,,nous autres centaures sommes peut-être\Neffectivement sous sa coupe.
+Dialogue: 0,0:10:01.64,0:10:06.19,Default,Derby,0,0,0,,Nous n’avons…\Nou plutôt notre bon chef, Sagittarius,
+Dialogue: 0,0:10:06.33,0:10:10.90,Default,Derby,0,0,0,,n’avait au départ aucune intention\Nde s’allier à Leon.
+Dialogue: 0,0:10:11.04,0:10:13.72,Default,Derby,0,0,0,,Il avait même refusé\Nson invitation.
+Dialogue: 0,0:10:14.31,0:10:18.52,Default,Derby,0,0,0,,C’est Leon qui a ensuite menacé\Nde détruire le village.
+Dialogue: 0,0:10:18.65,0:10:22.07,Default,Derby,0,0,0,,Il a fait du chantage à notre chef.
+Dialogue: 0,0:10:22.53,0:10:24.46,Default,Derby,0,0,0,,C’est tellement rageant…
+Dialogue: 0,0:10:24.64,0:10:27.02,Default,Derby,0,0,0,,Je maudis ma propre impuissance.
+Dialogue: 0,0:10:27.17,0:10:29.75,Default,Derby,0,0,0,,À cause de nous,
+Dialogue: 0,0:10:29.88,0:10:34.11,Default,Derby,0,0,0,,Sagittarius a dû faire partie\Nd’une alliance dont il ne voulait pas.
+Dialogue: 0,0:10:34.50,0:10:36.58,Default,Virgo,0,0,0,,Je comprends la situation.
+Dialogue: 0,0:10:37.26,0:10:41.04,Default,Jean,0,0,0,,Vous n’avez qu’à vous enfuir\Nen abandonnant les lieux, non ?
+Dialogue: 0,0:10:41.18,0:10:43.91,Default,Gantz,0,0,0,,Comme ça,\NSagittarius serait libre aussi.
+Dialogue: 0,0:10:44.40,0:10:48.88,Default,Derby,0,0,0,,Il y a des sentinelles dans la forêt\Npour nous en empêcher.
+Dialogue: 0,0:10:49.56,0:10:50.59,Default,Jean,0,0,0,,Des sentinelles ?
+Dialogue: 0,0:10:52.88,0:10:54.76,Default,Derby,0,0,0,,Un seul ordre de Leon,
+Dialogue: 0,0:10:54.90,0:10:59.42,Default,Derby,0,0,0,,et ses maudits sbires\Nviendront immédiatement nous éliminer.
+Dialogue: 0,0:11:00.60,0:11:03.49,Default,Derby,0,0,0,,Allons, ne restons pas plantés là.
+Dialogue: 0,0:11:03.62,0:11:05.86,Default,Derby,0,0,0,,Venez donc chez moi.
+Dialogue: 0,0:11:07.85,0:11:08.94,Default,Derby,0,0,0,,Bon,
+Dialogue: 0,0:11:09.22,0:11:12.89,Default,Derby,0,0,0,,je sais que vous n’êtes pas\Nce que vous prétendez être.
+Dialogue: 0,0:11:13.41,0:11:15.20,Default,Derby,0,0,0,,Ces bruits de pas
+Dialogue: 0,0:11:15.40,0:11:18.57,Default,Derby,0,0,0,,sont clairement ceux d’un bipède.
+Dialogue: 0,0:11:19.31,0:11:22.78,Default,Derby,0,0,0,,Vous faites partie de l’humanité,\Nc’est bien ça ?
+Dialogue: 0,0:11:22.92,0:11:27.37,Default,Derby,0,0,0,,Vous venez espionner les demi-humains\Nen vue de la future guerre ?
+Dialogue: 0,0:11:27.51,0:11:30.59,Default,Cruz,0,0,0,,Ça par exemple !\NVous êtes bien un sage de la forêt.
+Dialogue: 0,0:11:30.71,0:11:32.03,Default,Derby,0,0,0,,J’ai vu juste ?
+Dialogue: 0,0:11:32.18,0:11:34.28,Default,Cruz,0,0,0,,Nous sommes effectivement\Ndes humains.
+Dialogue: 0,0:11:34.49,0:11:37.37,Default,Cruz,0,0,0,,Cependant,\Nnous venons pour une autre raison.
+Dialogue: 0,0:11:37.57,0:11:40.07,Default,Derby,0,0,0,,Tu m’as qualifié\Nde « sage de la forêt » ?
+Dialogue: 0,0:11:40.21,0:11:42.31,Default,Derby,0,0,0,,Serais-tu un elfe ?
+Dialogue: 0,0:11:43.23,0:11:44.85,Default,Cruz,0,0,0,,Notre but était
+Dialogue: 0,0:11:45.01,0:11:48.84,Default,Cruz,0,0,0,,de déterminer pourquoi Sagittarius\Nfaisait équipe avec Leon.
+Dialogue: 0,0:11:49.01,0:11:50.40,Default,Cruz,0,0,0,,D’où les déguisements.
+Dialogue: 0,0:11:50.78,0:11:52.86,Default,Derby,0,0,0,,Ah bon, c’était donc ça ?
+Dialogue: 0,0:11:53.46,0:11:56.67,Default,Cruz,0,0,0,,Grâce à vous,\Nnous avons déjà accompli notre mission.
+Dialogue: 0,0:11:56.86,0:12:00.18,Default,Cruz,0,0,0,,Il ne nous reste plus\Nqu’à vous délivrer de cet endroit.
+Dialogue: 0,0:12:00.40,0:12:02.64,Default,Derby,0,0,0,,Dans ce cas,\Nlaissez-moi vous aider.
+Dialogue: 0,0:12:02.80,0:12:08.17,Default,Derby,0,0,0,,Sagittarius ne peut pas rester\Nentravé éternellement à cause de nous.
+Dialogue: 0,0:12:08.29,0:12:09.71,Default,Cruz,0,0,0,,Avec plaisir !
+Dialogue: 0,0:12:14.45,0:12:15.26,Default,Jeune centaure,0,0,0,,Derby !
+Dialogue: 0,0:12:15.73,0:12:17.56,Default,Derby,0,0,0,,Que signifie ce tapage ?
+Dialogue: 0,0:12:17.70,0:12:20.71,Default,Jeune centaure,0,0,0,,Je viens au rapport !\NLe groupe de Sargus est apparu.
+Dialogue: 0,0:12:21.80,0:12:23.14,Default,Sei,0,0,0,,Sargus !
+Dialogue: 0,0:12:23.73,0:12:25.14,Default,Derby,0,0,0,,Tu le connais ?
+Dialogue: 0,0:12:25.41,0:12:26.27,Default,Sei,0,0,0,,Oui…
+Dialogue: 0,0:12:26.67,0:12:28.81,Default,Virgo,0,0,0,,C’est cet homme-araignée ?
+Dialogue: 0,0:12:29.59,0:12:31.77,Default,Sei,0,0,0,,Ils viennent pour nous ?
+Dialogue: 0,0:12:31.92,0:12:35.51,Default,Derby,0,0,0,,Ils supervisent\Ntous les villages demi-humains.
+Dialogue: 0,0:12:35.64,0:12:37.88,Default,Derby,0,0,0,,C’est peut-être\Nune simple patrouille.
+Dialogue: 0,0:12:38.10,0:12:40.78,Default,Derby,0,0,0,,Restez ici, ça vaudra mieux.
+Dialogue: 0,0:12:45.33,0:12:47.45,Sign,SIGN,0,0,0,,{\an8\c&H0FA49D&\3c&HF3F3FB&\fnImpact\bord2\fs30}TYRFING
+Dialogue: 0,0:12:48.94,0:12:50.92,Default,Libra,0,0,0,,Signatures biologiques détectées.
+Dialogue: 0,0:12:51.08,0:12:54.19,Default,Libra,0,0,0,,Hommes-serpents,\Ngéants, hommes-insectes…
+Dialogue: 0,0:12:54.34,0:12:56.98,Default,Libra,0,0,0,,Pas de doute,\Nil s’agit bien de Tyrfing.
+Dialogue: 0,0:12:57.38,0:13:00.84,Default,Aries,0,0,0,,Leon est dans ce château\Ninutilement gigantesque ?
+Dialogue: 0,0:13:00.98,0:13:02.66,Default,Karkinos,0,0,0,,Qu’est-ce qu’on fait ?
+Dialogue: 0,0:13:02.79,0:13:06.35,Default,Karkinos,0,0,0,,On ne va quand même pas combattre\Nsur son territoire…
+Dialogue: 0,0:13:06.75,0:13:08.81,Default,Libra,0,0,0,,Il n’y a qu’une chose à faire.
+Dialogue: 0,0:13:11.69,0:13:13.73,Default,Libra,0,0,0,,Attaquer en premier !
+Dialogue: 0,0:13:14.30,0:13:16.32,Default,Aigokeros,0,0,0,,Je suis bien d’accord !
+Dialogue: 0,0:13:16.78,0:13:18.19,Default,Dina,0,0,0,,Lâchons-nous !
+Dialogue: 0,0:13:18.84,0:13:19.95,Default,Aries,0,0,0,,Bonne idée !
+Dialogue: 0,0:13:20.09,0:13:22.45,Default,Scorpius,0,0,0,,Le vilain garçon doit être puni.
+Dialogue: 0,0:13:22.60,0:13:25.40,Default,Karkinos,0,0,0,,{\i1}You{\i0}… je vous encourage !
+Dialogue: 0,0:13:25.79,0:13:28.29,Default,Libra,0,0,0,,Zubenelgenubi à pleine puissance !
+Dialogue: 0,0:13:28.56,0:13:31.25,Default,Aigokeros,0,0,0,,Meurs ! Deneb Algedi !
+Dialogue: 0,0:13:31.45,0:13:33.21,Default,Dina,0,0,0,,Aqua Judge Gabel !
+Dialogue: 0,0:13:33.42,0:13:34.84,Default,Aries,0,0,0,,Mesarthim !
+Dialogue: 0,0:13:35.33,0:13:36.80,Default,Scorpius,0,0,0,,Grafias !
+Dialogue: 0,0:13:37.80,0:13:39.76,Sign,SIGN,0,0,0,,{\bord2\fnComic Sans MS\3c&H58614E&\pos(323.467,254.044)}N’A PAS D’ATTAQUE À DISTANCE
+Dialogue: 0,0:13:39.76,0:13:40.67,Default,Libra,0,0,0,,Feu !
+Dialogue: 0,0:13:42.65,0:13:46.18,Default,Libra,0,0,0,,Je tire à nouveau.\NContinuons d’attaquer à distance…
+Dialogue: 0,0:13:46.57,0:13:47.31,Default,Libra,0,0,0,,Il arrive !
+Dialogue: 0,0:13:59.25,0:14:00.36,Default,Leon,0,0,0,,Salut.
+Dialogue: 0,0:14:01.47,0:14:05.06,Default,Leon,0,0,0,,Voilà une belle ribambelle\Nde visages familiers.
+Dialogue: 0,0:14:02.82,0:14:06.07,Sign,SIGN,0,0,0,,{\an8\fad(250,0)\3c&H92B311&\fnCourier New\b1\pos(163.978,246.756)}LEON
+Dialogue: 0,0:14:06.30,0:14:07.38,Default,Aries,0,0,0,,Leon…
+Dialogue: 0,0:14:07.79,0:14:09.50,Default,Sagittarius,0,0,0,,Il y a tout le monde ?
+Dialogue: 0,0:14:11.48,0:14:13.00,Default,Aries,0,0,0,,Sagittarius !
+Dialogue: 0,0:14:13.22,0:14:16.74,Default,Scorpius,0,0,0,,L’atmosphère est suffocante…\NÇa sent le mâle crasseux.
+Dialogue: 0,0:14:16.91,0:14:18.88,Default,Leon,0,0,0,,Luphas n’est même pas là ?
+Dialogue: 0,0:14:19.03,0:14:21.78,Default,Leon,0,0,0,,Le combat s’annonce\Nennuyeux au possible !
+Dialogue: 0,0:14:22.23,0:14:25.18,Default,Aigokeros,0,0,0,,Tu te pavanes un peu trop,\Npour un traître.
+Dialogue: 0,0:14:30.00,0:14:31.85,Default,Aigokeros,0,0,0,,Tu vas le regretter !
+Dialogue: 0,0:14:36.46,0:14:38.19,Default,Leon,0,0,0,,Ben alors ?
+Dialogue: 0,0:14:38.56,0:14:41.15,Default,Leon,0,0,0,,Il manque de punch,\Nton coup de poing.
+Dialogue: 0,0:14:41.28,0:14:42.53,Default,Leon,0,0,0,,Je vais te montrer
+Dialogue: 0,0:14:42.66,0:14:44.86,Default,Leon,0,0,0,,comment on fait pour frapper !
+Dialogue: 0,0:14:48.20,0:14:49.45,Default,Aries,0,0,0,,Aigokeros !
+Dialogue: 0,0:14:50.45,0:14:51.44,Default,Aries,0,0,0,,Saleté !
+Dialogue: 0,0:15:00.08,0:15:03.33,Default,Scorpius,0,0,0,,Tu as baissé ta garde,\Npauvre imbécile !
+Dialogue: 0,0:15:03.91,0:15:04.83,Default,Scorpius,0,0,0,,J’imagine
+Dialogue: 0,0:15:04.96,0:15:08.53,Default,Scorpius,0,0,0,,que tu connais l’effet\Nde mon aptitude Shaula, n’est-ce pas ?
+Dialogue: 0,0:15:08.67,0:15:10.41,Default,Scorpius,0,0,0,,Une fois le poison injecté,
+Dialogue: 0,0:15:10.54,0:15:14.10,Default,Scorpius,0,0,0,,à moins d’utiliser l’élixir\Nou la magie céleste,
+Dialogue: 0,0:15:14.31,0:15:16.81,Default,Scorpius,0,0,0,,tu ne t’en débarrasseras jamais.
+Dialogue: 0,0:15:16.93,0:15:20.15,Default,Scorpius,0,0,0,,Tu as beau être fort,\Nça ne changera rien…
+Dialogue: 0,0:15:27.94,0:15:29.95,Default,Leon,0,0,0,,C’est toi, l’imbécile !
+Dialogue: 0,0:15:30.32,0:15:33.73,Default,Leon,0,0,0,,Je n’ai qu’à vous tuer\Navant que le poison n’agisse !
+Dialogue: 0,0:15:33.87,0:15:36.08,Default,Leon,0,0,0,,C’est simple et efficace !
+Dialogue: 0,0:15:37.10,0:15:38.54,Default,Aries,0,0,0,,Il est vraiment fort !
+Dialogue: 0,0:15:39.72,0:15:42.87,Default,Libra,0,0,0,,Évite de trop t’emballer, Leon.
+Dialogue: 0,0:15:43.30,0:15:44.41,Default,Leon,0,0,0,,Hein ?
+Dialogue: 0,0:15:44.71,0:15:46.51,Default,Libra,0,0,0,,Sélection du programme.
+Dialogue: 0,0:15:48.73,0:15:50.62,Default,Libra,0,0,0,,Activation de Brachium !
+Dialogue: 0,0:16:00.37,0:16:01.73,Default,Leon,0,0,0,,C’est mou !
+Dialogue: 0,0:16:11.76,0:16:14.49,Default,Libra,0,0,0,,Sélection de l’armement !\NAstreia !
+Dialogue: 0,0:16:16.88,0:16:18.67,Default,Leon,0,0,0,,C’est quoi, ce machin ?
+Dialogue: 0,0:16:23.59,0:16:24.67,Default,Leon,0,0,0,,Dégage !
+Dialogue: 0,0:16:30.05,0:16:31.43,Default,Libra,0,0,0,,Astreia !
+Dialogue: 0,0:16:31.85,0:16:33.10,Default,Leon,0,0,0,,Bordel !
+Dialogue: 0,0:16:33.24,0:16:34.20,Default,Libra,0,0,0,,Connexion !
+Dialogue: 0,0:16:45.65,0:16:47.07,Default,Libra,0,0,0,,Assemblage terminé !
+Dialogue: 0,0:16:49.10,0:16:50.29,Default,Libra,0,0,0,,J’arrive !
+Dialogue: 0,0:16:51.37,0:16:52.32,Default,Libra,0,0,0,,Puissance max…
+Dialogue: 0,0:16:52.46,0:16:54.99,TiretsDefault,Leon/Libra,209,0,0,,– Elle fait quoi ?\N– Canons déverrouillés…
+Dialogue: 0,0:16:55.74,0:16:57.01,Default,Libra,0,0,0,,Feu à volonté !
+Dialogue: 0,0:17:09.20,0:17:11.13,TiretsDefault,Leon/Sagittarius,258,0,0,,– Sagittarius !\N– Oui !
+Dialogue: 0,0:17:12.71,0:17:14.22,Default,Sagittarius,0,0,0,,Alnasl !
+Dialogue: 0,0:17:16.18,0:17:18.60,Default,Leon,0,0,0,,Je te tiens !
+Dialogue: 0,0:17:26.07,0:17:27.39,Default,Leon,0,0,0,,Le coup de grâce !
+Dialogue: 0,0:17:31.52,0:17:34.91,Default,Karkinos,0,0,0,,Tu n’aurais pas oublié ma présence,\NLeon ?
+Dialogue: 0,0:17:36.29,0:17:37.62,Default,Karkinos,0,0,0,,Retour à l’envoyeur.
+Dialogue: 0,0:17:37.99,0:17:39.19,Default,Karkinos,0,0,0,,Acubens !
+Dialogue: 0,0:17:44.40,0:17:45.42,Default,Leon,0,0,0,,Ordure !
+Dialogue: 0,0:17:47.09,0:17:51.47,Default,Leon,0,0,0,,Saleté de crustacé…\NTu ne sais qu’attendre les attaques !
+Dialogue: 0,0:17:51.78,0:17:54.46,Italique,Karkinos,0,0,0,,Yes, yes, yes !
+Dialogue: 0,0:17:54.63,0:17:57.10,Default,Karkinos,0,0,0,,C’est tout ce que je sais faire.
+Dialogue: 0,0:17:57.28,0:17:59.39,Default,Karkinos,0,0,0,,C’est justement pour ça
+Dialogue: 0,0:17:59.76,0:18:02.85,Default,Karkinos,0,0,0,,que je le fais\Nmieux que quiconque !
+Dialogue: 0,0:18:03.00,0:18:03.81,Default,Leon,0,0,0,,Hein ?
+Dialogue: 0,0:18:09.36,0:18:10.44,Default,Leon,0,0,0,,Fumier !
+Dialogue: 0,0:18:10.57,0:18:12.25,Default,Sagittarius,0,0,0,,Arrête de frapper, Leon !
+Dialogue: 0,0:18:12.39,0:18:15.57,Default,Sagittarius,0,0,0,,Il ne sait qu’attendre\Net contre-attaquer !
+Dialogue: 0,0:18:15.79,0:18:17.03,Default,Leon,0,0,0,,La ferme !
+Dialogue: 0,0:18:28.00,0:18:28.95,Default,Karkinos,0,0,0,,Leon…
+Dialogue: 0,0:18:31.65,0:18:33.62,Italique,Karkinos,0,0,0,,Come on !
+Dialogue: 0,0:18:44.79,0:18:47.08,Default,Libra,0,0,0,,Karkinos joue le rôle du bouclier.
+Dialogue: 0,0:18:47.24,0:18:51.61,Default,Libra,0,0,0,,En combat de groupe,\Nil excelle pour protéger ses coéquipiers.
+Dialogue: 0,0:18:52.21,0:18:53.96,Default,Libra,0,0,0,,Et toute la force de Leon
+Dialogue: 0,0:18:54.10,0:18:57.40,Default,Libra,0,0,0,,réside dans une brutalité frontale,\Nsans aptitude.
+Dialogue: 0,0:18:57.53,0:18:59.35,Default,Libra,0,0,0,,Ses stats font tout le travail.
+Dialogue: 0,0:18:59.95,0:19:04.44,Default,Libra,0,0,0,,Ainsi, face à un adversaire spécialisé\Ndans la défense et les contres,
+Dialogue: 0,0:19:05.21,0:19:06.60,Default,Libra,0,0,0,,c’est une catastrophe.
+Dialogue: 0,0:19:18.38,0:19:19.27,Italique,Karkinos,0,0,0,,Hey !
+Dialogue: 0,0:19:20.95,0:19:21.74,Default,Dina,0,0,0,,Et hop !
+Dialogue: 0,0:19:23.39,0:19:25.15,Italique,Karkinos,0,0,0,,Bring it.
+Dialogue: 0,0:19:32.84,0:19:35.86,Default,Karkinos,0,0,0,,{\i1}Checkmate{\i0}.\NLe combat est terminé, Leon.
+Dialogue: 0,0:19:36.18,0:19:38.76,Default,Leon,0,0,0,,Bordel !\NIl est hors de question que je perde
+Dialogue: 0,0:19:38.91,0:19:42.08,TiretsDefault,Leon/Aigokeros,152,0,0,,– contre des minables comme vous…\N– Silence !
+Dialogue: 0,0:19:47.84,0:19:49.63,Default,Scorpius,0,0,0,,Désolée, hein !
+Dialogue: 0,0:19:50.05,0:19:53.07,Default,Scorpius,0,0,0,,Je n’écoute pas\Nles paroles d’un pauvre minable
+Dialogue: 0,0:19:53.20,0:19:55.63,Default,Scorpius,0,0,0,,qui est tombé\Nencore plus bas que moi.
+Dialogue: 0,0:19:55.77,0:19:58.64,Default,Scorpius,0,0,0,,Sale petite ordure\Nqui a osé trahir dame Luphas !
+Dialogue: 0,0:19:58.78,0:20:01.29,Default,Scorpius,0,0,0,,Tu fais moins le malin, d’un coup !
+Dialogue: 0,0:20:02.06,0:20:05.74,Default,Scorpius,0,0,0,,Allez, dis quelque chose !\NTout le monde est d’accord pour…
+Dialogue: 0,0:20:07.09,0:20:08.20,Default,Aries,0,0,0,,On fait quoi ?
+Dialogue: 0,0:20:08.58,0:20:11.44,TiretsDefault,Aries/Aigokeros,201,0,0,,– On l’arrête ?\N– Ce n’est pas nécessaire.
+Dialogue: 0,0:20:11.56,0:20:13.85,Default,Libra,0,0,0,,Attendez.\NIl a beau être un traître,
+Dialogue: 0,0:20:13.97,0:20:17.40,Default,Libra,0,0,0,,nous ne pouvons le tuer\Nsans l’accord de notre maîtresse.
+Dialogue: 0,0:20:17.69,0:20:20.62,Default,Libra,0,0,0,,S’il agonise vraiment,\Nil nous faudra intervenir.
+Dialogue: 0,0:20:21.87,0:20:23.27,Italique,Leon,0,0,0,,Je refuse…
+Dialogue: 0,0:20:23.42,0:20:26.83,Italique,Leon,0,0,0,,Je n’accepterai jamais\Nde perdre comme ça…
+Dialogue: 0,0:20:28.03,0:20:30.13,Italique,Arovénus,0,0,0,,Souhaites-tu plus de puissance ?
+Dialogue: 0,0:20:31.73,0:20:33.17,Italique,Arovénus,0,0,0,,Si tel est ton souhait,
+Dialogue: 0,0:20:33.41,0:20:36.13,Italique,Arovénus,0,0,0,,je te rendrai encore plus fort.
+Dialogue: 0,0:20:37.47,0:20:39.66,Italique,Leon,0,0,0,,Oui, il me faut plus de force !
+Dialogue: 0,0:20:39.81,0:20:42.10,Italique,Leon,0,0,0,,Je ne veux plus perdre\Ncontre quiconque.
+Dialogue: 0,0:20:42.23,0:20:44.72,Italique,Leon,0,0,0,,Je pourrai même vaincre Luphas !
+Dialogue: 0,0:20:45.15,0:20:49.13,Italique,Leon,0,0,0,,Trêve de blabla !\NVite, aboule la puissance !
+Dialogue: 0,0:20:49.28,0:20:51.94,Italique,Leon,0,0,0,,Tais-toi et fais-moi ton offrande !
+Dialogue: 0,0:20:52.68,0:20:54.15,Italique,Arovénus,0,0,0,,Très bien.
+Dialogue: 0,0:20:54.68,0:20:57.36,Italique,Arovénus,0,0,0,,J’exaucerai ton vœu !
+Dialogue: 0,0:21:05.12,0:21:08.12,Sign,SIGN,0,0,0,,{\an8\c&H2C31DF&\3c&HF3F3FB&\fnImpact\bord2\fs30}MJÖLLNIR
+Dialogue: 0,0:21:08.24,0:21:11.32,Default,Luphas,0,0,0,,Mjöllnir,\Nle pays à la nuit éternelle…
+Dialogue: 0,0:21:11.55,0:21:13.58,Default,Luphas,0,0,0,,Je vais faire du tourisme.
+Dialogue: 0,0:21:15.84,0:21:17.10,Default,Benetnash,0,0,0,,Hé, toi !
+Dialogue: 0,0:21:19.17,0:21:20.05,Default,Luphas,0,0,0,,Benet ?
+Dialogue: 0,0:21:20.44,0:21:25.23,Default,Benetnash,0,0,0,,Comme tu ne te montrais pas au château,\Nje suis venue voir.
+Dialogue: 0,0:21:25.41,0:21:27.52,Default,Benetnash,0,0,0,,Tu oses faire du tourisme !
+Dialogue: 0,0:21:27.65,0:21:29.35,Default,Luphas,0,0,0,,Ne t’énerve pas comme ça.
+Dialogue: 0,0:21:29.49,0:21:31.88,Default,Luphas,0,0,0,,Je comptais venir te voir\Njuste après.
+Dialogue: 0,0:21:32.31,0:21:35.37,Default,Luphas,0,0,0,,D’ailleurs,\Ntu as un coin à me recommander ?
+Dialogue: 0,0:21:35.53,0:21:38.44,Default,Luphas,0,0,0,,Je ne trouve\Naucune boutique de souvenirs.
+Dialogue: 0,0:21:38.74,0:21:41.61,Default,Benetnash,0,0,0,,Aurais-tu quelque peu changé\Nde tempérament ?
+Dialogue: 0,0:21:41.74,0:21:42.99,Default,Luphas,0,0,0,,On me le dit souvent.
+Dialogue: 0,0:21:43.25,0:21:45.43,Default,Benetnash,0,0,0,,En tout cas,\Narrête de traîner ici…
+Dialogue: 0,0:21:45.58,0:21:47.54,Default,Luphas,0,0,0,,Détends-toi un peu.
+Dialogue: 0,0:21:47.69,0:21:51.91,Default,Luphas,0,0,0,,On vient de se retrouver,\Nce serait dommage de s’entretuer.
+Dialogue: 0,0:21:52.04,0:21:55.41,Default,Luphas,0,0,0,,Allez, montre-moi donc\Nles merveilles de cette cité.
+Dialogue: 0,0:21:58.79,0:22:01.17,Default,Luphas,0,0,0,,Ou alors, je repars…
+Dialogue: 0,0:22:02.66,0:22:04.84,Default,Benetnash,0,0,0,,Je vais te faire visiter, suis-moi.
+Dialogue: 0,0:23:34.88,0:23:36.88,Default,Crédits,0,0,0,,{\an8}Traduction : Éric Figuière\NAdaptation : DW512ZC
+Dialogue: 0,0:23:37.56,0:23:39.56,Default,Crédits,0,0,0,,{\an8}Repérage : Matt Wayne\NRelecture : Corentin Le Corre
+
