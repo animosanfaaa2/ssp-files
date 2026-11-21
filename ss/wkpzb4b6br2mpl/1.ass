@@ -1,0 +1,308 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:12.85,0:00:14.70,Default,MOK,0,0,0,,It sure is lively.
+Dialogue: 0,0:00:14.70,0:00:18.89,Default,SHOPKEEPER,0,0,0,,It's the birthday festival of Mr. Gaston, \Nthe world's greatest mask maker.
+Dialogue: 0,0:00:18.89,0:00:21.19,Default,SHOPKEEPER,0,0,0,,It'll be even livelier starting tomorrow.
+Dialogue: 0,0:00:21.19,0:00:24.35,Default,SHOPKEEPER,0,0,0,,People don masks and \Nparty for a whole week.
+Dialogue: 0,0:00:24.35,0:00:26.29,Default,SHOPKEEPER,0,0,0,,We all celebrate together.
+Dialogue: 0,0:00:26.29,0:00:27.37,Default,MOK,0,0,0,,Is that part of it, too?
+Dialogue: 0,0:00:28.90,0:00:31.33,Default,SHOPKEEPER,0,0,0,,I'd stay away from them.
+Dialogue: 0,0:00:33.64,0:00:35.29,Default,MOK,0,0,0,,Who are those guys?
+Dialogue: 0,0:00:35.94,0:00:39.32,Default,SHOPKEEPER,0,0,0,,They're a cult that moved in recently.
+Dialogue: 0,0:00:39.32,0:00:42.06,Default,SHOPKEEPER,0,0,0,,They claim they can bring \Nthe dead back to life.
+Dialogue: 0,0:00:42.06,0:00:45.19,Default,SHOPKEEPER,0,0,0,,They're not doing it \Nfor money, but still.
+Dialogue: 0,0:00:48.58,0:00:50.97,Default,SHOPKEEPER,0,0,0,,They're ruining the festivities.
+Dialogue: 0,0:00:51.22,0:00:54.78,Default,SONA,0,0,0,,Mr. Gaston was loved by everyone, huh?
+Dialogue: 0,0:00:54.78,0:00:57.08,Default,SHOPKEEPER,0,0,0,,He was a great man.
+Dialogue: 0,0:00:57.08,0:01:01.37,Default,SHOPKEEPER,0,0,0,,The whole kingdom was distraught \Nwhen he passed away.
+Dialogue: 0,0:01:02.89,0:01:04.43,Default,SONA,0,0,0,,Passed away...
+Dialogue: 0,0:01:04.88,0:01:06.94,Default,SHOPKEEPER,0,0,0,,It was a tragic accident.
+Dialogue: 0,0:02:57.61,0:03:01.03,top,sign,0,0,0,,EPISODE 7\NTHE MASK OF NECROMANCY
+Dialogue: 0,0:03:04.63,0:03:06.59,Default,PERU,0,0,0,,Thank you.
+Dialogue: 0,0:03:06.59,0:03:11.04,Default,PERU,0,0,0,,I became a full apprentice \Nby picking up this mask.
+Dialogue: 0,0:03:11.45,0:03:15.25,Default,PERU,0,0,0,,I killed you and destroyed your masks.
+Dialogue: 0,0:03:15.84,0:03:21.85,Default,PERU,0,0,0,,You taught me how to make masks, \Nbut I can't even do that anymore.
+Dialogue: 0,0:03:22.72,0:03:25.15,Default,PERU,0,0,0,,Maybe I chose the wrong path.
+Dialogue: 0,0:03:25.15,0:03:28.07,Default,PERU,0,0,0,,It's certainly not noble enough \Nto be called atonement.
+Dialogue: 0,0:03:28.94,0:03:35.52,Default,PERU,0,0,0,,But I'll keep destroying dangerous \Nmasks to prevent another tragedy.
+Dialogue: 0,0:03:36.16,0:03:39.81,Default,PERU,0,0,0,,People can't handle masks \Nthat are too powerful.
+Dialogue: 0,0:03:42.21,0:03:45.18,Default,PERU,0,0,0,,I'm just a foolish pupil returning \Nyour kindness with destruction,
+Dialogue: 0,0:03:46.23,0:03:47.93,Default,PERU,0,0,0,,but please forgive me.
+Dialogue: 0,0:03:48.65,0:03:52.91,flashback italics,CLOWN,0,0,0,,You can't change the past, \NPeru the mask maker.
+Dialogue: 0,0:03:54.30,0:03:57.46,flashback,SONA,0,0,0,,I feel the same way you do, Peru.
+Dialogue: 0,0:03:57.46,0:04:01.72,flashback,SONA,0,0,0,,I don't want to see anyone \Nelse cry because of masks.
+Dialogue: 0,0:04:01.72,0:04:04.10,flashback,MOK,0,0,0,,The dead can't hate anyone.
+Dialogue: 0,0:04:04.52,0:04:07.02,flashback,MOK,0,0,0,,I'll start by forgiving you for them.
+Dialogue: 0,0:04:12.68,0:04:14.24,Default,RAYEN,0,0,0,,You're Peru d'Arrest, aren't you?
+Dialogue: 0,0:04:14.24,0:04:15.01,Default,PERU,0,0,0,,Who's there?
+Dialogue: 0,0:04:21.65,0:04:23.39,italics,PERU/ID,0,0,0,,He knows who I am?
+Dialogue: 0,0:04:25.61,0:04:28.13,Default,RAYEN,0,0,0,,I'm amazed you came here.
+Dialogue: 0,0:04:28.56,0:04:29.70,Default,PERU,0,0,0,,What?
+Dialogue: 0,0:04:29.70,0:04:32.47,Default,RAYEN,0,0,0,,I said I'm amazed you dared come here...
+Dialogue: 0,0:04:32.47,0:04:35.29,Default,RAYEN,0,0,0,,To the grave of the master you \Nkilled with your own hands.
+Dialogue: 0,0:04:35.76,0:04:39.87,Default,RAYEN,0,0,0,,During his birthday festival, no less.
+Dialogue: 0,0:04:40.11,0:04:41.60,Default,PERU,0,0,0,,Who are you?
+Dialogue: 0,0:04:41.84,0:04:44.53,Default,RAYEN,0,0,0,,He raised you when you were abandoned!
+Dialogue: 0,0:04:44.88,0:04:49.44,Default,RAYEN,0,0,0,,He was the world's greatest master \Nwho taught you how to make masks!
+Dialogue: 0,0:04:49.87,0:04:51.96,Default,RAYEN,0,0,0,,And you killed him!
+Dialogue: 0,0:04:54.66,0:04:56.97,Default,RAYEN,0,0,0,,You killed your fellow pupils,
+Dialogue: 0,0:04:56.97,0:05:01.07,Default,RAYEN,0,0,0,,robbed them of their lives and \Ndreams, yet you still live!
+Dialogue: 0,0:05:01.48,0:05:03.02,Default,RAYEN,0,0,0,,Why?
+Dialogue: 0,0:05:09.46,0:05:11.82,Default,RAYEN,0,0,0,,The past can't be changed.
+Dialogue: 0,0:05:15.64,0:05:17.77,Default,RAYEN,0,0,0,,If it hadn't been for you...
+Dialogue: 0,0:05:19.75,0:05:20.42,Default,PERU,0,0,0,,Hey!
+Dialogue: 0,0:05:21.80,0:05:24.96,Default,PERU,0,0,0,,Who are you? How do you know me?
+Dialogue: 0,0:05:38.08,0:05:39.46,Default,PERU,0,0,0,,What the hell is this?
+Dialogue: 0,0:05:39.46,0:05:41.04,Default,PERU,0,0,0,,Where'd that guy go?
+Dialogue: 0,0:05:57.58,0:05:59.13,Default,PERU,0,0,0,,They disappeared.
+Dialogue: 0,0:06:02.04,0:06:05.01,Default,MOK,0,0,0,,You're totally possessed, dude.
+Dialogue: 0,0:06:05.01,0:06:08.71,Default,MOK,0,0,0,,Aw, man. Stay away from me.
+Dialogue: 0,0:06:09.28,0:06:11.55,Default,SONA,0,0,0,,You can't handle ghosts? I'm surprised.
+Dialogue: 0,0:06:11.84,0:06:15.30,Default,MOK,0,0,0,,They're scary!\NWhy aren't you guys freaking out too?!
+Dialogue: 0,0:06:15.30,0:06:21.07,Default,SONA,0,0,0,,Th-They might be part of that cult we saw.
+Dialogue: 0,0:06:21.07,0:06:24.77,Default,MOK,0,0,0,,That lady said they can \Nbring back the dead.
+Dialogue: 0,0:06:25.78,0:06:28.24,Default,PERU,0,0,0,,There's a cult like that in this city?
+Dialogue: 0,0:06:28.49,0:06:31.37,italics,PERU/ID,0,0,0,,And who was that man?
+Dialogue: 0,0:06:32.29,0:06:33.78,Default,WAR GOD MASK,0,0,0,,Hey, Peru.
+Dialogue: 0,0:06:35.98,0:06:37.84,Default,MOK,0,0,0,,What'd I tell ya?!
+Dialogue: 0,0:06:37.84,0:06:41.20,Default,SONA,0,0,0,,Calm down. There's just \Na talking mask in there.
+Dialogue: 0,0:06:41.58,0:06:45.32,Default,MOK,0,0,0,,That's terrifying! I've never \Nheard of a talking mask!
+Dialogue: 0,0:06:45.32,0:06:47.58,Default,MOK,0,0,0,,You should've told me if you knew!
+Dialogue: 0,0:06:50.16,0:06:53.04,Default,PERU,0,0,0,,What? I told you not to talk to me.
+Dialogue: 0,0:06:53.04,0:06:55.06,Default,WAR GOD MASK,0,0,0,,Shut up and listen.
+Dialogue: 0,0:06:55.06,0:06:58.27,Default,WAR GOD MASK,0,0,0,,You should leave this city soon.
+Dialogue: 0,0:06:58.27,0:06:59.77,Default,WAR GOD MASK,0,0,0,,It stinks.
+Dialogue: 0,0:06:59.77,0:07:04.35,Default,WAR GOD MASK,0,0,0,,Someone neither alive nor dead\N is lurking out there.
+Dialogue: 0,0:07:04.35,0:07:07.34,Default,MOK,0,0,0,,I can't handle that stuff at all.
+Dialogue: 0,0:07:07.34,0:07:09.63,Default,PERU,0,0,0,,Don't take everything he says seriously.
+Dialogue: 0,0:07:09.63,0:07:11.32,Default,MOK,0,0,0,,Okay, got it!
+Dialogue: 0,0:07:11.32,0:07:12.79,Default,MOK,0,0,0,,Did you really think I'd say that?
+Dialogue: 0,0:07:12.79,0:07:14.68,Default,MOK,0,0,0,,Screw it!
+Dialogue: 0,0:07:14.68,0:07:17.66,Default,MOK,0,0,0,,I'm going to sleep. I'm totally sleeping.
+Dialogue: 0,0:07:17.96,0:07:19.62,Default,SONA,0,0,0,,Somehow, I doubt that.
+Dialogue: 0,0:07:19.62,0:07:23.70,Default,MOK,0,0,0,,Don't say that. You're making it worse.
+Dialogue: 0,0:07:32.89,0:07:35.30,flashback italics,RAYEN,0,0,0,,You killed your fellow pupils,
+Dialogue: 0,0:07:35.30,0:07:39.73,flashback italics,RAYEN,0,0,0,,robbed them of their lives and \Ndreams, yet you still live!
+Dialogue: 0,0:07:42.73,0:07:44.92,flashback italics,RAYEN,0,0,0,,If it hadn't been for you...
+Dialogue: 0,0:08:07.26,0:08:10.37,Default,PERU,0,0,0,,What is this place? Huh?
+Dialogue: 0,0:08:11.18,0:08:14.39,Default,PERU,0,0,0,,What was I doing again?
+Dialogue: 0,0:09:00.30,0:09:03.01,Default,RINNE,0,0,0,,You must be new. You poor thing.
+Dialogue: 0,0:09:03.67,0:09:05.17,Default,PERU,0,0,0,,Who are you?
+Dialogue: 0,0:09:05.78,0:09:08.39,Default,RINNE,0,0,0,,You don't even know what this place is.
+Dialogue: 0,0:09:08.39,0:09:11.46,Default,RINNE,0,0,0,,Master is gone for the moment.
+Dialogue: 0,0:09:12.30,0:09:14.07,Default,RINNE,0,0,0,,It's just the two of us.
+Dialogue: 0,0:09:22.32,0:09:25.17,Default,PERU,0,0,0,,What is that big thing?
+Dialogue: 0,0:09:25.53,0:09:29.66,Default,PERU,0,0,0,,Hey, we're on a train... right?
+Dialogue: 0,0:09:33.28,0:09:36.01,Default,PERU,0,0,0,,Who's the "Master" you mentioned?
+Dialogue: 0,0:09:44.17,0:09:45.80,Default,PERU,0,0,0,,It must be nice to be an adult.
+Dialogue: 0,0:09:46.34,0:09:49.51,Default,PERU,0,0,0,,You can forget when you want to.
+Dialogue: 0,0:09:54.43,0:09:57.12,Default,RINNE,0,0,0,,It doesn't work as well as you think.
+Dialogue: 0,0:10:02.31,0:10:06.45,Default,RINNE,0,0,0,,The only thing in this world \Nthat comes close is masks.
+Dialogue: 0,0:10:06.93,0:10:09.25,Default,RINNE,0,0,0,,Couldn't you make one?
+Dialogue: 0,0:10:09.89,0:10:12.37,Default,PERU,0,0,0,,How'd you know I'm a mask maker?
+Dialogue: 0,0:10:13.00,0:10:14.92,Default,RINNE,0,0,0,,What do you want to forget?
+Dialogue: 0,0:10:15.14,0:10:17.66,Default,RINNE,0,0,0,,Does it have something to \Ndo with your right arm?
+Dialogue: 0,0:10:18.14,0:10:20.28,Default,RINNE,0,0,0,,You seem to have lost it recently.
+Dialogue: 0,0:10:20.94,0:10:23.52,Default,PERU,0,0,0,,I guess so.
+Dialogue: 0,0:10:23.94,0:10:26.48,Default,PERU,0,0,0,,You could say I got what I deserved.
+Dialogue: 0,0:10:26.82,0:10:28.61,Default,RINNE,0,0,0,,Got what you deserved?
+Dialogue: 0,0:10:28.95,0:10:34.22,Default,PERU,0,0,0,,Yeah. I killed a bunch of \Npeople a long time ago.
+Dialogue: 0,0:10:34.59,0:10:36.73,Default,RINNE,0,0,0,,So it can't be helped?
+Dialogue: 0,0:10:37.67,0:10:38.88,Default,PERU,0,0,0,,That's right.
+Dialogue: 0,0:10:39.92,0:10:42.94,Default,RINNE,0,0,0,,It's important not to \Noverburden yourself.
+Dialogue: 0,0:10:43.24,0:10:44.19,Default,PERU,0,0,0,,What?
+Dialogue: 0,0:10:44.19,0:10:47.90,Default,RINNE,0,0,0,,You shouldn't try to \Nshoulder that pain alone.
+Dialogue: 0,0:10:48.44,0:10:51.92,Default,RINNE,0,0,0,,You don't need to keep \Ncarrying that regret.
+Dialogue: 0,0:10:52.16,0:10:55.76,Default,RINNE,0,0,0,,Just leave it in the past.
+Dialogue: 0,0:10:57.19,0:10:59.75,Default,PERU,0,0,0,,Just leave it? I can't.
+Dialogue: 0,0:10:59.96,0:11:01.63,Default,RINNE,0,0,0,,Poetic justice.
+Dialogue: 0,0:11:03.48,0:11:05.49,Default,RINNE,0,0,0,,It's not your fault.
+Dialogue: 0,0:11:10.37,0:11:13.19,Default,PERU,0,0,0,,I'm not sure I get it, but thanks.
+Dialogue: 0,0:11:13.19,0:11:15.28,Default,PERU,0,0,0,,You're kind of like a priest.
+Dialogue: 0,0:11:16.37,0:11:20.28,Default,RINNE,0,0,0,,I'm far from being a man of the cloth.
+Dialogue: 0,0:11:20.62,0:11:24.03,Default,PERU,0,0,0,,Do you have a past you'd \Nlike to forget, too?
+Dialogue: 0,0:11:24.38,0:11:25.53,Default,RINNE,0,0,0,,The opposite.
+Dialogue: 0,0:11:25.53,0:11:27.97,Default,RINNE,0,0,0,,Drinking dulls the intellect.
+Dialogue: 0,0:11:28.40,0:11:31.77,Default,RINNE,0,0,0,,By drinking, I'm recalling my impulses.
+Dialogue: 0,0:11:32.44,0:11:37.10,Default,RINNE,0,0,0,,Sanctimonious logic that sounds \Nnice mustn't be trusted.
+Dialogue: 0,0:11:37.10,0:11:38.71,Default,RINNE,0,0,0,,I must suppress it...
+Dialogue: 0,0:11:44.65,0:11:49.64,Default,RINNE,0,0,0,,so this feeling I mustn't \Nforget will never fade.
+Dialogue: 0,0:11:52.27,0:11:54.97,Default,RINNE,0,0,0,,I'm like you.
+Dialogue: 0,0:11:55.47,0:11:57.19,Default,PERU,0,0,0,,You mean...
+Dialogue: 0,0:11:58.48,0:12:01.15,Default,RINNE,0,0,0,,We were chosen by fate.
+Dialogue: 0,0:12:01.44,0:12:04.29,Default,RINNE,0,0,0,,We'll meet again soon.
+Dialogue: 0,0:12:10.89,0:12:12.14,Default,PERU,0,0,0,,A dream?
+Dialogue: 0,0:12:13.04,0:12:15.93,italics,PERU/ID,0,0,0,,What was that about?
+Dialogue: 0,0:12:21.48,0:12:24.80,Default,SONA,0,0,0,,You're not a banana.
+Dialogue: 0,0:12:26.06,0:12:27.56,Default,PERU,0,0,0,,What's she dreaming about?
+Dialogue: 0,0:13:14.74,0:13:19.44,flashback italics,WAR GOD MASK,0,0,0,,Someone neither alive nor dead\N is lurking out there.
+Dialogue: 0,0:13:22.69,0:13:25.07,top,sign,0,0,0,,MASK OF THE WAR GOD
+Dialogue: 0,0:13:27.70,0:13:30.07,top,sign,0,0,0,,MASK OF SMOKE
+Dialogue: 0,0:13:32.04,0:13:36.34,Default,MOK,0,0,0,,Nobody should be up this early.
+Dialogue: 0,0:13:36.34,0:13:37.54,Default,MOK,0,0,0,,Where's Peru?
+Dialogue: 0,0:13:37.54,0:13:39.25,Default,SONA,0,0,0,,In the lobby, checking out.
+Dialogue: 0,0:13:39.25,0:13:41.88,Default,MOK,0,0,0,,I wish I could sleep until noon.
+Dialogue: 0,0:13:42.27,0:13:45.18,Default,MOK,0,0,0,,Why do hotels make you check out at ten?
+Dialogue: 0,0:13:45.18,0:13:46.30,Default,SONA,0,0,0,,Don't ask me.
+Dialogue: 0,0:13:46.72,0:13:53.18,Default,AKANE,0,0,0,,Um, would you be interested \Nin joining our group?
+Dialogue: 0,0:13:53.73,0:13:56.43,Default,MOK,0,0,0,,She's got a nice face.
+Dialogue: 0,0:13:57.15,0:14:01.77,Default,MOK,0,0,0,,I might be interested if you \Ntold me how to get in touch with you.
+Dialogue: 0,0:14:01.77,0:14:04.92,Default,AKANE,0,0,0,,Um, I'm married.
+Dialogue: 0,0:14:04.92,0:14:06.86,Default,MOK,0,0,0,,Not interested, then.
+Dialogue: 0,0:14:06.86,0:14:08.95,Default,SONA,0,0,0,,We were told to stay away from them.
+Dialogue: 0,0:14:08.95,0:14:12.78,Default,MOK,0,0,0,,It's fine. They'll leave \Nif we're curt with them.
+Dialogue: 0,0:14:13.86,0:14:15.18,Default,AKANE,0,0,0,,Mr. Necro.
+Dialogue: 0,0:14:15.18,0:14:17.77,Default,NECRO,0,0,0,,That shouldn't be a problem.
+Dialogue: 0,0:14:17.77,0:14:21.31,Default,NECRO,0,0,0,,Everyone in the world seeks salvation.
+Dialogue: 0,0:14:21.31,0:14:24.49,Default,NECRO,0,0,0,,They just don't realize it.
+Dialogue: 0,0:14:24.78,0:14:28.96,Default,NECRO,0,0,0,,Don't forget, this is a trial \Ngiven to us by Mr. Rinne.
+Dialogue: 0,0:14:29.17,0:14:31.96,Default,NECRO,0,0,0,,You want to meet them, don't you?
+Dialogue: 0,0:14:34.66,0:14:37.52,Default,MOK,0,0,0,,I hate coarse red bean paste,
+Dialogue: 0,0:14:37.52,0:14:41.01,Default,MOK,0,0,0,,bitches who go to the bathroom \Nwhen it's time to pay the bill...
+Dialogue: 0,0:14:44.18,0:14:46.32,Default,MOK,0,0,0,,...and you.
+Dialogue: 0,0:14:46.32,0:14:47.40,Default,MOK,0,0,0,,So beat it.
+Dialogue: 0,0:14:47.40,0:14:48.60,Default,SONA,0,0,0,,Mok!
+Dialogue: 0,0:14:48.60,0:14:51.07,Default,NECRO,0,0,0,,You scumbag! I'll kill you!
+Dialogue: 0,0:14:51.07,0:14:53.40,Default,MOK,0,0,0,,Huh? I'd like to see you try.
+Dialogue: 0,0:14:54.39,0:14:55.33,Default,NECRO,0,0,0,,Die!
+Dialogue: 0,0:14:56.53,0:15:00.87,Default,MOK,0,0,0,,Whoa, you're serious. Hot-blooded, huh?
+Dialogue: 0,0:15:08.59,0:15:10.06,Default,NECRO,0,0,0,,Damn it. What is this?
+Dialogue: 0,0:15:10.35,0:15:12.23,Default,NECRO,0,0,0,,A cigarette shouldn't \Nmake this much smoke.
+Dialogue: 0,0:15:14.64,0:15:17.04,Default,MOK,0,0,0,,The neck? That'd be a killing blow.
+Dialogue: 0,0:15:17.04,0:15:18.47,Default,MOK,0,0,0,,But you missed.
+Dialogue: 0,0:15:23.95,0:15:27.40,Default,MOK,0,0,0,,Now get out of here and leave us alone.
+Dialogue: 0,0:15:29.37,0:15:31.43,Default,SONA,0,0,0,,H-Hey!
+Dialogue: 0,0:15:36.20,0:15:38.07,Default,MOK,0,0,0,,What? What's wrong?
+Dialogue: 0,0:15:43.73,0:15:47.97,Default,NECRO,0,0,0,,You saw me. You'll pay for this.
+Dialogue: 0,0:15:50.13,0:15:52.01,Default,PERU,0,0,0,,Hey! Sona, Mok!
+Dialogue: 0,0:15:52.92,0:15:55.21,Default,NECRO,0,0,0,,We're going back, Akane.
+Dialogue: 0,0:15:58.95,0:16:01.84,Default,MOK,0,0,0,,He's cutting a hole in space.
+Dialogue: 0,0:16:04.32,0:16:07.56,Default,NECRO,0,0,0,,We'll report this to Mr. Rinne.
+Dialogue: 0,0:16:07.56,0:16:09.65,Default,PERU,0,0,0,,Hey, Mok. Who are those guys?
+Dialogue: 0,0:16:12.86,0:16:15.83,flashback,AKANE,0,0,0,,What is it? Were you teased again?
+Dialogue: 0,0:16:15.83,0:16:20.41,flashback,YOUNG PERU,0,0,0,,Tannan said because my \Nparents abandoned me, I...
+Dialogue: 0,0:16:21.45,0:16:24.12,flashback,AKANE,0,0,0,,You really are a crybaby.
+Dialogue: 0,0:16:24.38,0:16:27.49,flashback,AKANE,0,0,0,,I'll give you a candy, so cheer up.
+Dialogue: 0,0:16:28.09,0:16:29.12,flashback,AKANE,0,0,0,,Okay?
+Dialogue: 0,0:16:30.73,0:16:35.51,Default,PERU,0,0,0,,Ms. Akane, why are you dressed like that?
+Dialogue: 0,0:16:36.00,0:16:37.05,Default,PERU,0,0,0,,Wait!
+Dialogue: 0,0:16:37.91,0:16:39.43,Default,PERU,0,0,0,,That face...
+Dialogue: 0,0:16:39.43,0:16:40.90,Default,PERU,0,0,0,,The mark on his forehead...
+Dialogue: 0,0:16:41.31,0:16:42.14,Default,PERU,0,0,0,,Could it be?
+Dialogue: 0,0:16:44.08,0:16:45.66,Default,MOK,0,0,0,,They disappeared.
+Dialogue: 0,0:16:46.89,0:16:48.61,Default,SONA,0,0,0,,What {\i1}is{\i0} this?
+Dialogue: 0,0:16:48.61,0:16:51.18,Default,PERU,0,0,0,,Someone's mastered that mask!
+Dialogue: 0,0:16:51.53,0:16:55.49,Default,PERU,0,0,0,,That's impossible! If they've \Ngained the mask's trust...
+Dialogue: 0,0:16:55.82,0:16:58.99,Default,PERU,0,0,0,,Their views must be \Naligned, which means...
+Dialogue: 0,0:16:59.32,0:17:00.20,Default,MOK,0,0,0,,Peru?
+Dialogue: 0,0:17:00.45,0:17:02.96,Default,PERU,0,0,0,,Damn it! That clown...
+Dialogue: 0,0:17:02.96,0:17:04.70,Default,PERU,0,0,0,,He knew about this!
+Dialogue: 0,0:17:20.24,0:17:22.10,Default,RINNE,0,0,0,,I can't bear to watch this.
+Dialogue: 0,0:17:23.17,0:17:26.43,Default,PUNK B,0,0,0,,Hey, we made it up to the roof.
+Dialogue: 0,0:17:26.43,0:17:28.27,Default,PUNK C,0,0,0,,I need another drink.
+Dialogue: 0,0:17:28.27,0:17:30.27,Default,PUNK A,0,0,0,,We're out of money.
+Dialogue: 0,0:17:30.27,0:17:32.41,Default,PUNK A,0,0,0,,Everywhere's too expensive.
+Dialogue: 0,0:17:35.62,0:17:38.08,Default,PUNK C,0,0,0,,Are you a local?
+Dialogue: 0,0:17:38.08,0:17:40.28,Default,PUNK B,0,0,0,,We're tourists.
+Dialogue: 0,0:17:40.28,0:17:44.90,Default,PUNK A,0,0,0,,We came to party since it's that \NGaston guy's birthday festival,
+Dialogue: 0,0:17:44.90,0:17:46.72,Default,PUNK A,0,0,0,,but everywhere is so expensive.
+Dialogue: 0,0:17:46.72,0:17:51.29,Default,PUNK B,0,0,0,,It's such a rip-off. We're \Nbroke and can't buy anything.
+Dialogue: 0,0:17:51.29,0:17:57.96,Default,PUNK C,0,0,0,,So as a local, I think \Nyou owe us some money.
+Dialogue: 0,0:17:59.76,0:18:01.33,Default,RINNE,0,0,0,,Scum.
+Dialogue: 0,0:18:09.36,0:18:12.06,Default,PUNK A,0,0,0,,M-Monster...
+Dialogue: 0,0:18:13.77,0:18:16.78,Default,PUNK C,0,0,0,,P-Please. Don't kill me.
+Dialogue: 0,0:18:16.78,0:18:20.47,Default,PUNK A,0,0,0,,I don't want to die. I don't want to die.
+Dialogue: 0,0:18:21.50,0:18:26.21,Default,RINNE,0,0,0,,Listening to people beg for their \Nlives is always so unpleasant.
+Dialogue: 0,0:18:27.06,0:18:29.56,Default,RINNE,0,0,0,,I won't kill you.
+Dialogue: 0,0:18:29.56,0:18:32.41,Default,RINNE,0,0,0,,You're not worth it.
+Dialogue: 0,0:18:32.41,0:18:36.72,Default,RINNE,0,0,0,,But the trash must be taken out.
+Dialogue: 0,0:18:40.50,0:18:42.89,Default,PUNK A,0,0,0,,Wh-What is this?
+Dialogue: 0,0:18:50.03,0:18:52.29,Default,NECRO,0,0,0,,We have something to report.
+Dialogue: 0,0:18:57.65,0:18:58.73,Default,PERU,0,0,0,,This is it.
+Dialogue: 0,0:18:58.82,0:19:03.87,top,sign,0,0,0,,LETS THE USER CONTROL THE DEAD
+Dialogue: 0,0:18:59.02,0:19:03.33,Default,PERU,0,0,0,,One of Gaston's masterpieces: \Nthe Mask of Necromancy!
+Dialogue: 0,0:19:01.28,0:19:03.87,top,sign,0,0,0,,"MASK OF NECROMANCY" ARIES
+Dialogue: 0,0:19:03.86,0:19:06.90,Default,SONA,0,0,0,,Danger level... four.
+Dialogue: 0,0:19:17.14,0:19:21.12,Default,NECRO,0,0,0,,He was controlling the smoke.
+Dialogue: 0,0:19:21.12,0:19:24.43,Default,NECRO,0,0,0,,He can even create shadow clones.
+Dialogue: 0,0:19:24.78,0:19:28.12,Default,RAYEN,0,0,0,,It must be a well-made mask.
+Dialogue: 0,0:19:28.58,0:19:31.49,Default,RAYEN,0,0,0,,We believe it's one of Gaston's.
+Dialogue: 0,0:19:32.99,0:19:34.35,Default,RINNE,0,0,0,,I see.
+Dialogue: 0,0:19:34.81,0:19:37.57,Default,RINNE,0,0,0,,I'd like to have it.
+Dialogue: 0,0:19:42.78,0:19:45.37,Default,MOK,0,0,0,,What are you afraid of?
+Dialogue: 0,0:19:45.37,0:19:47.84,Default,MOK,0,0,0,,You're trying to find \NGaston's masks, right?
+Dialogue: 0,0:19:47.84,0:19:50.11,Default,MOK,0,0,0,,Just take it and break it.
+Dialogue: 0,0:19:50.55,0:19:54.49,Default,PERU,0,0,0,,I can't. Sure, I've broken \Nmy master's masks before,
+Dialogue: 0,0:19:54.97,0:19:58.41,Default,PERU,0,0,0,,but a level four is \Nsomething else entirely.
+Dialogue: 0,0:19:58.41,0:20:01.11,Default,PERU,0,0,0,,I already avoid level \Nthrees most of the time.
+Dialogue: 0,0:20:01.47,0:20:04.18,Default,PERU,0,0,0,,They have to be approached with caution.
+Dialogue: 0,0:20:04.18,0:20:07.19,Default,PERU,0,0,0,,But what scares me most
+Dialogue: 0,0:20:07.19,0:20:11.78,Default,PERU,0,0,0,,is that whoever has the Mask \Nof Necromancy has mastered it.
+Dialogue: 0,0:20:12.91,0:20:14.85,Default,MOK,0,0,0,,Mastered it?
+Dialogue: 0,0:20:14.85,0:20:17.78,Default,PERU,0,0,0,,I told you people like you who have masks
+Dialogue: 0,0:20:17.78,0:20:19.91,Default,PERU,0,0,0,,stuck to their faces are \Ncalled Masqueraders, right?
+Dialogue: 0,0:20:19.91,0:20:20.81,Default,MOK,0,0,0,,Yeah.
+Dialogue: 0,0:20:20.81,0:20:24.02,Default,PERU,0,0,0,,Well, sometimes there are exceptions.
+Dialogue: 0,0:20:24.02,0:20:27.04,Default,PERU,0,0,0,,They don't become Masqueraders \Nor suffer side effects.
+Dialogue: 0,0:20:27.36,0:20:29.06,Default,PERU,0,0,0,,Two conditions must be met.
+Dialogue: 0,0:20:29.81,0:20:33.70,Default,PERU,0,0,0,,First, it must be a well-made mask.
+Dialogue: 0,0:20:34.25,0:20:37.77,Default,PERU,0,0,0,,High-level masks sometimes \Nhave a will of their own.
+Dialogue: 0,0:20:37.77,0:20:41.48,Default,PERU,0,0,0,,Generally, you can sense \Nit while wearing it,
+Dialogue: 0,0:20:41.48,0:20:45.90,Default,PERU,0,0,0,,but really high-level masks will \Nstart speaking on their own.
+Dialogue: 0,0:20:46.22,0:20:47.92,Default,PERU,0,0,0,,Like this one.
+Dialogue: 0,0:20:48.35,0:20:50.00,Default,SONA,0,0,0,,The Mask of the War God.
+Dialogue: 0,0:20:50.86,0:20:53.58,Default,PERU,0,0,0,,Currently, there are fewer \Nthan five people in the world
+Dialogue: 0,0:20:53.58,0:20:55.58,Default,PERU,0,0,0,,who can make masks of that level.
+Dialogue: 0,0:20:55.94,0:21:01.55,Default,PERU,0,0,0,,Intelligent masks attempt to take over\Ntheir wearers and claim their bodies.
+Dialogue: 0,0:21:02.08,0:21:04.04,Default,PERU,0,0,0,,You experienced that, Sona.
+Dialogue: 0,0:21:05.37,0:21:09.68,Default,MOK,0,0,0,,But you think the wearer hasn't \Nbeen taken over, right?
+Dialogue: 0,0:21:09.68,0:21:13.21,Default,PERU,0,0,0,,Yeah. They have an organization, \Nand their actions seem planned.
+Dialogue: 0,0:21:13.61,0:21:16.63,Default,PERU,0,0,0,,If they'd been taken over, \Nthis wouldn't be happening.
+Dialogue: 0,0:21:16.63,0:21:19.59,Default,MOK,0,0,0,,I see. So, what's the second condition?
+Dialogue: 0,0:21:20.97,0:21:25.43,Default,PERU,0,0,0,,The mask and the wearer's \Nthoughts must align.
+Dialogue: 0,0:21:31.44,0:21:34.90,Default,RINNE,0,0,0,,Humanity should be destroyed.
+Dialogue: 0,0:21:35.94,0:21:38.52,Default,NECROMANCY MASK,0,0,0,,Yes, exactly.
+Dialogue: 0,0:21:41.21,0:21:42.38,Default,NECROMANCY MASK,0,0,0,,Rinne...
+Dialogue: 0,0:21:43.11,0:21:49.49,top,SIGN,0,0,0,,MASK OF NECROMANCY USER \NRINNE
+Dialogue: 0,0:21:44.00,0:21:46.85,Default,NECROMANCY MASK,0,0,0,,my dear friend.
+Dialogue: 0,0:21:53.04,0:21:56.76,top,credits,0,0,0,,Translator: Sho Stifler
+Dialogue: 0,0:21:59.34,0:22:04.26,top,credits,0,0,0,,Timer: Edgar Cruz
+Dialogue: 0,0:22:06.60,0:22:09.77,top,credits,0,0,0,,Editor: Salem Alabanza
+Dialogue: 0,0:22:09.77,0:22:12.86,top,credits,0,0,0,,Quality Control: Gabriella Alabanza
+Dialogue: 0,0:22:13.11,0:22:16.11,top,credits,0,0,0,,Final Quality Control: Elizabeth Ellis
+Dialogue: 0,0:23:20.96,0:23:26.19,italics,MOK/NA,0,0,0,,The Mask of Necromancy? I got \Nmyself into a crazy mess again.
+Dialogue: 0,0:23:26.19,0:23:30.18,italics,MOK/NA,0,0,0,,This sucks, but I can't ignore \Nthat pretty lady, Ms. Akane.
+Dialogue: 0,0:23:30.18,0:23:33.23,italics,MOK/NA,0,0,0,,I don't like that zombie guy either.
+Dialogue: 0,0:23:33.56,0:23:37.39,italics,MOK/NA,0,0,0,,What's wrong, Peru?\NWhy are you so upset?
+Dialogue: 0,0:23:37.67,0:23:40.85,italics,MOK/NA,0,0,0,,Just ignore the zombie guy's friends.
+Dialogue: 0,0:23:41.54,0:23:46.06,italics,MOK/NA,0,0,0,,Next time, {\i0}The Vermilion Mask{\i1} Episode 8,\N"The Space Between Life and Death."
+Dialogue: 0,0:23:46.06,0:23:48.68,italics,MOK/NA,0,0,0,,The journey of masks begins!
+Dialogue: 0,0:23:46.77,0:23:50.14,top,sign,0,0,0,,EPISODE 8\NTHE SPACE BETWEEN LIFE AND DEATH
+
