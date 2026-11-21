@@ -1,0 +1,305 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italic,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Signs,Arial,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+Style: Italics Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.47,0:00:07.60,Default,ROGER,0,0,0,,Collecting debt too aggressively \Ncan cause trouble.
+Dialogue: 0,0:00:08.49,0:00:11.51,Default,ROGER,0,0,0,,Then how about this?
+Dialogue: 0,0:00:13.02,0:00:16.98,Default,ROGER,0,0,0,,You'll duel to settle the matter.
+Dialogue: 0,0:00:41.39,0:00:42.41,Signs,ROGER,0,0,0,,{\fad(500,200)\fnGeorgia\bord2\blur5\pos(108.445,114.222)\c&H98905C&\3c&HFFED6A&}Magic\NRepo Man
+Dialogue: 0,0:00:41.39,0:00:42.41,Signs,ROGER,0,0,0,,{\fad(500,200)\fnGeorgia\bord2\blur5\c&H98905C&\3c&HFFED6A&\pos(343.445,112.222)}Dumped by My Party, I'll Cash In With a\NCute Support Fairy to Become the Strongest!
+Dialogue: 0,0:00:42.41,0:00:44.04,Signs,ROGER,0,0,0,,{\fad(200,000)\fnGeorgia\pos(108.445,114.222)}Magic\N{\c&H1D1EFF&}Repo {\c&HFFFFFF&}Man
+Dialogue: 0,0:00:42.41,0:00:44.04,Signs,ROGER,0,0,0,,{\fad(200,000)\fnGeorgia\c&H1D1EFF&\pos(356.132,115.838)}Dumped {\c&HFFFFFF&}by My Party, I'll Cash In {\c&H1D1EFF&}With a\NCute {\c&HFFFFFF&}Support Fairy to Become the {\c&H1D1EFF&}Strongest!
+Dialogue: 0,0:02:00.14,0:02:05.02,Signs,,0,0,0,,{\fad(700,500)\blur1\3c&H2E2E2E&\4c&H848487&\fnGeorgia\alpha20\bord1\pos(553,275)}Duel
+Dialogue: 0,0:02:00.35,0:02:02.17,Default,LENT,0,0,0,,It's finally happening tomorrow.
+Dialogue: 0,0:02:02.56,0:02:06.82,Default,EMPEE,0,0,0,,I'm excited to see those scumbags' \Ndespairing expressions.
+Dialogue: 0,0:02:06.82,0:02:11.17,Default,LENT,0,0,0,,I'm not sure I'll be able \Nto go all out against them.
+Dialogue: 0,0:02:11.17,0:02:13.31,Default,EMPEE,0,0,0,,You're still saying things like that?
+Dialogue: 0,0:02:15.31,0:02:19.45,Flashback,LENT,0,0,0,,I-I actually have a request \Nfor Meteor Shower.
+Dialogue: 0,0:02:19.45,0:02:21.94,Flashback,ROGER,0,0,0,,You want us to do something for you?
+Dialogue: 0,0:02:23.56,0:02:28.03,Flashback,LENT,0,0,0,,I'd like you to witness my duel tomorrow.
+Dialogue: 0,0:02:28.82,0:02:32.73,Flashback,LENT,0,0,0,,I'll be dueling the Skypiercers.
+Dialogue: 0,0:02:33.48,0:02:35.97,Flashback,ROGER,0,0,0,,You're taking them on by yourself?
+Dialogue: 0,0:02:37.30,0:02:38.33,Flashback,LENT,0,0,0,,Yes.
+Dialogue: 0,0:02:38.96,0:02:42.39,Flashback Italics,LENT,0,0,0,,They'll arrive in Melva \Ntomorrow before dawn.
+Dialogue: 0,0:02:42.64,0:02:46.57,Flashback Italics,LENT,0,0,0,,When they do, they'll come \Nfind me and pick a fight.
+Dialogue: 0,0:02:47.31,0:02:50.57,Flashback,LENT,0,0,0,,I'd like you to suggest a duel.
+Dialogue: 0,0:02:51.74,0:02:55.89,Flashback,LENT,0,0,0,,They won't listen to me,
+Dialogue: 0,0:02:55.89,0:02:59.19,Flashback,LENT,0,0,0,,but it'll be different \Nif you're involved.
+Dialogue: 0,0:03:04.90,0:03:07.10,Flashback,ROGER,0,0,0,,Sounds interesting.
+Dialogue: 0,0:03:17.52,0:03:20.91,Default,EMPEE,0,0,0,,To help motivate you,
+Dialogue: 0,0:03:20.91,0:03:26.02,Default,EMPEE,0,0,0,,let's review their situation \Nbefore your duel tomorrow.
+Dialogue: 0,0:03:26.02,0:03:28.05,Default,EMPEE,0,0,0,,Check your parchment.
+Dialogue: 0,0:03:30.06,0:03:32.69,Default,EMPEE,0,0,0,,I'll go nice and slow.
+Dialogue: 0,0:03:32.68,0:03:38.32,Signs,SIGN,0,0,0,,{\fs20\bord0\c&H939F89&\3c&HFFFFFF&\frz359.6\pos(322,113)}Slow Revolving Payment {\b0}Breakdown{\b1}
+Dialogue: 0,0:03:32.69,0:03:34.80,Default,EMPEE,0,0,0,,Let's begin.
+Dialogue: 0,0:03:35.42,0:03:37.54,Default,EMPEE,0,0,0,,That's not much of a reaction.
+Dialogue: 0,0:03:37.54,0:03:42.35,Default,EMPEE,0,0,0,,Once again, you loaned them
+Dialogue: 0,0:03:42.35,0:03:46.27,Default,EMPEE,0,0,0,,a total of 2,678,087 MP.
+Dialogue: 0,0:03:46.27,0:03:52.12,Default,EMPEE,0,0,0,,Of that, you can currently \Ncollect on 1,435,837 MP,
+Dialogue: 0,0:03:52.12,0:03:55.74,Default,EMPEE,0,0,0,,as it's been at least a year\N from the initial loan.
+Dialogue: 0,0:03:55.74,0:03:56.85,Default,LENT,0,0,0,,Okay.
+Dialogue: 0,0:03:56.85,0:04:01.64,Default,EMPEE,0,0,0,,Every ten days, 8% interest\Nis applied to this amount.
+Dialogue: 0,0:04:01.64,0:04:05.59,Default,EMPEE,0,0,0,,Let's round that up to 115,000 MP.
+Dialogue: 0,0:04:05.90,0:04:12.60,Default,EMPEE,0,0,0,,You can collect 116,400 MP at \Nmost from them every ten days.
+Dialogue: 0,0:04:12.60,0:04:14.48,Default,EMPEE,0,0,0,,When you subtract the interest...
+Dialogue: 0,0:04:14.48,0:04:17.69,Default,LENT,0,0,0,,Yeah. The interest is practically \Nall they're paying.
+Dialogue: 0,0:04:17.69,0:04:23.08,Default,EMPEE,0,0,0,,Exactly. They're hovering right on \Nthe line between life and death.
+Dialogue: 0,0:04:23.08,0:04:24.49,Default,EMPEE,0,0,0,,However...
+Dialogue: 0,0:04:26.85,0:04:30.12,Default,EMPEE,0,0,0,,Suppose you raised their interest.
+Dialogue: 0,0:04:31.12,0:04:36.71,Default,EMPEE,0,0,0,,If you raised it from 8% to 10%,\N the maximum rate...
+Dialogue: 0,0:04:38.36,0:04:42.39,Default,EMPEE,0,0,0,,they'd burst before long.
+Dialogue: 0,0:04:44.36,0:04:46.21,Default,EMPEE,0,0,0,,Come on, Master.
+Dialogue: 0,0:04:46.21,0:04:49.88,Default,EMPEE,0,0,0,,You can't afford to show \Nthem any sympathy.
+Dialogue: 0,0:04:49.88,0:04:52.71,Default,LENT,0,0,0,,I know, but...
+Dialogue: 0,0:04:54.92,0:04:59.43,Default,EMPEE,0,0,0,,They've had plenty of opportunities \Nto repay you until now,
+Dialogue: 0,0:04:59.43,0:05:01.81,Default,EMPEE,0,0,0,,but those scum kept ignoring them.
+Dialogue: 0,0:05:01.81,0:05:03.84,Default,EMPEE,0,0,0,,It's all their fault.
+Dialogue: 0,0:05:03.84,0:05:04.78,Default,LENT,0,0,0,,Yeah.
+Dialogue: 0,0:05:04.78,0:05:07.53,Signs,,0,0,0,,{\fnTimes New Roman\bord0\fs26\c&H333354&\frx18\fry2\frz338.7\move(249.969,87.494,323.969,127.494,24,2735)}MP Borrowed by Party
+Dialogue: 0,0:05:05.02,0:05:10.02,Default,EMPEE,0,0,0,,The amount borrowed by the party \Nis displayed on their parchments.
+Dialogue: 0,0:05:10.02,0:05:13.34,Default,EMPEE,0,0,0,,They could even enable \Nautomatic payments.
+Dialogue: 0,0:05:13.75,0:05:18.02,Default,EMPEE,0,0,0,,And their repayments don't have \Nto come solely from their own MP.
+Dialogue: 0,0:05:18.02,0:05:19.12,Default,LENT,0,0,0,,Really?
+Dialogue: 0,0:05:19.41,0:05:24.41,Default,EMPEE,0,0,0,,They could've applied MP recovery \Nusing potions to repayments as well.
+Dialogue: 0,0:05:28.16,0:05:30.87,Default,EMPEE,0,0,0,,If they'd been paying \Nyou back from the start,
+Dialogue: 0,0:05:30.87,0:05:34.52,Default,EMPEE,0,0,0,,they could've paid it \Noff in under a year.
+Dialogue: 0,0:05:35.68,0:05:38.38,Default,EMPEE,0,0,0,,You gave them a choice.
+Dialogue: 0,0:05:40.31,0:05:43.56,Default,EMPEE,0,0,0,,But they chose not to repay you.
+Dialogue: 0,0:05:47.28,0:05:53.67,Default,EMPEE,0,0,0,,That said, what you'll wager on \Ntomorrow's duel is up to you.
+Dialogue: 0,0:05:54.00,0:05:58.61,Italic,LENT/ID,0,0,0,,If I raise their interest rate,\N then those three...
+Dialogue: 0,0:06:11.92,0:06:14.34,Default,MISA,0,0,0,,This is a huge crowd.
+Dialogue: 0,0:06:14.34,0:06:16.81,Default,GUY,0,0,0,,It's the perfect stage.
+Dialogue: 0,0:06:16.81,0:06:21.05,Default,GUY,0,0,0,,We'll show off our strength \Nin front of all these people.
+Dialogue: 0,0:06:31.27,0:06:34.90,Italic,LENT/ID,0,0,0,,Mr. Roger really is an influential person.
+Dialogue: 0,0:06:34.90,0:06:37.16,Default,JIN,0,0,0,,Good luck, kid!
+Dialogue: 0,0:06:38.94,0:06:40.08,Default,LENT,0,0,0,,Mr. Jin!
+Dialogue: 0,0:06:40.36,0:06:44.06,Default,JIN,0,0,0,,I bet a week's worth of earnings on you!
+Dialogue: 0,0:06:44.06,0:06:46.39,Default,JIN,0,0,0,,Don't expect any mercy if you lose!
+Dialogue: 0,0:06:46.39,0:06:48.23,Default,MOB A,0,0,0,,Isn't it three against one?
+Dialogue: 0,0:06:48.23,0:06:50.34,Default,MOB B,0,0,0,,Jin's made a bold bet.
+Dialogue: 0,0:06:51.40,0:06:54.35,Italic,LENT/ID,0,0,0,,He's gambling again.
+Dialogue: 0,0:06:55.05,0:07:01.86,Default,TIRAMI,0,0,0,,Mr. Lent and the Skypiercers, please \Ndeclare what you'll wager on the duel.
+Dialogue: 0,0:07:03.38,0:07:06.23,Default,TIRAMI,0,0,0,,We'll start with Mr. Guy \Nrepresenting his party.
+Dialogue: 0,0:07:07.73,0:07:11.99,Default,GUY,0,0,0,,If we win, stop collecting MP from us!
+Dialogue: 0,0:07:12.25,0:07:13.50,Default,TIRAMI,0,0,0,,Go ahead, Mr. Lent.
+Dialogue: 0,0:07:13.50,0:07:14.11,Default,LENT,0,0,0,,Okay.
+Dialogue: 0,0:07:15.09,0:07:20.19,Default,LENT,0,0,0,,If I win, I'll raise \Nyour interest rate.
+Dialogue: 0,0:07:22.00,0:07:23.02,Default,ELLE,0,0,0,,What?
+Dialogue: 0,0:07:23.02,0:07:24.61,Default,GUY,0,0,0,,Interest rate?
+Dialogue: 0,0:07:24.61,0:07:29.77,Default,LENT,0,0,0,,Currently, your interest rate is 8% \Nover 10 days. I'll raise that to 10%.
+Dialogue: 0,0:07:30.36,0:07:32.51,Default,LENT,0,0,0,,MP loans are calculated monthly.
+Dialogue: 0,0:07:32.76,0:07:36.43,Default,LENT,0,0,0,,Starting tomorrow, the amount I can \Ncollect will increase by 90,000 MP.
+Dialogue: 0,0:07:36.77,0:07:40.16,Default,MOB C,0,0,0,,They're fighting over money?
+Dialogue: 0,0:07:40.16,0:07:42.26,Default,MOB D,0,0,0,,No, it's something to do with MP.
+Dialogue: 0,0:07:42.26,0:07:45.56,Default,LENT,0,0,0,,You'll owe 10% interest on top \Nof that. In other words—
+Dialogue: 0,0:07:45.56,0:07:48.02,Default,MISA,0,0,0,,Wait a minute. \NWhat's this about interest?
+Dialogue: 0,0:07:49.19,0:07:50.86,Default,MISA,0,0,0,,C-Could it be...
+Dialogue: 0,0:07:51.65,0:07:55.54,Default,MISA,0,0,0,,Is the reason our amount \Nborrowed barely went down...
+Dialogue: 0,0:07:55.54,0:08:00.13,Default,LENT,0,0,0,,That's right. I was collecting \NMP with interest every day.
+Dialogue: 0,0:08:01.03,0:08:01.87,Default,LENT,0,0,0,,In other words,
+Dialogue: 0,0:08:02.43,0:08:06.56,Default,LENT,0,0,0,,I was collecting revolving payments \Non the MP you borrowed.
+Dialogue: 0,0:08:07.76,0:08:11.78,Default,GUY,0,0,0,,You've been saying a lot of crap,
+Dialogue: 0,0:08:11.78,0:08:14.76,Default,GUY,0,0,0,,but your life ends today!
+Dialogue: 0,0:08:14.76,0:08:17.12,Default,TIRAMI,0,0,0,,If there are no objections,
+Dialogue: 0,0:08:18.14,0:08:20.17,Default,TIRAMI,0,0,0,,please swear the oath.
+Dialogue: 0,0:08:25.14,0:08:27.90,Signs,,0,0,0,,{\fnTimes New Roman\fs15\c&H000000&\pos(324.667,90.556)\3c&HDDF4FC&}Duel Oath
+Dialogue: 0,0:08:31.46,0:08:36.83,Default,LENT & GUY,0,0,0,,I hereby swear to obey the \Nresult of this sacred duel.
+Dialogue: 0,0:08:37.74,0:08:41.58,Default,ROGER,0,0,0,,I, Roger of Meteor Shower, \Nwill serve as their witness.
+Dialogue: 0,0:08:51.78,0:08:53.35,Default,NAMILIA,0,0,0,,You seem anxious.
+Dialogue: 0,0:08:54.13,0:08:56.83,Default,NAMILIA,0,0,0,,Is this your first time watching a duel?
+Dialogue: 0,0:08:59.54,0:09:03.25,Default,NAMILIA,0,0,0,,That oath they just swore is ironclad.
+Dialogue: 0,0:09:03.25,0:09:05.97,Default,NAMILIA,0,0,0,,It's not just a verbal promise.
+Dialogue: 0,0:09:05.98,0:09:07.69,Signs,,0,0,0,,{\fnTimes New Roman\fs15\c&H000000&\pos(324.667,90.556)\3c&HDDF4FC&}Duel Oath
+Dialogue: 0,0:09:06.29,0:09:11.74,Default,NAMILIA,0,0,0,,Anyone who breaks it is put through hell.
+Dialogue: 0,0:09:15.12,0:09:19.03,Default,NAMILIA,0,0,0,,You're Linka, right? Lent's party member.
+Dialogue: 0,0:09:19.20,0:09:21.53,Default,LINKA,0,0,0,,What? How do you know about me?
+Dialogue: 0,0:09:27.43,0:09:30.74,Default,LINKA,0,0,0,,Oh, you're Meteor Shower's sexy lady.
+Dialogue: 0,0:09:30.74,0:09:32.16,Default,NAMILIA,0,0,0,,It's Namilia.
+Dialogue: 0,0:09:36.19,0:09:39.15,Default,NAMILIA,0,0,0,,I spent last night with him.
+Dialogue: 0,0:09:39.15,0:09:41.26,Default,LINKA,0,0,0,,Oh, right. You went drinking together.
+Dialogue: 0,0:09:41.26,0:09:44.22,Default,NAMILIA,0,0,0,,He's actually much manlier than he looks.
+Dialogue: 0,0:09:44.68,0:09:47.61,Default,NAMILIA,0,0,0,,I haven't been that excited in a while.
+Dialogue: 0,0:09:47.91,0:09:49.84,Default,LINKA,0,0,0,,You were just drinking, right?
+Dialogue: 0,0:09:49.84,0:09:51.58,Default,LINKA,0,0,0,,Did you do something else?
+Dialogue: 0,0:09:51.58,0:09:53.57,Default,NAMILIA,0,0,0,,I'm just kidding.
+Dialogue: 0,0:09:53.93,0:09:58.89,Default,NAMILIA,0,0,0,,But you probably know \Nhim better than I do.
+Dialogue: 0,0:09:59.45,0:10:03.82,Default,NAMILIA,0,0,0,,So believe in him. Trust that he'll win.
+Dialogue: 0,0:10:04.04,0:10:04.92,Default,LINKA,0,0,0,,Right.
+Dialogue: 0,0:10:04.92,0:10:08.82,Default,EMPEE,0,0,0,,Allow me to underline that point.
+Dialogue: 0,0:10:09.24,0:10:13.58,Default,EMPEE,0,0,0,,My master will not lose \Nthis duel no matter what.
+Dialogue: 0,0:10:13.85,0:10:15.33,Default,LINKA,0,0,0,,No matter what?
+Dialogue: 0,0:10:27.34,0:10:29.35,Default,ROGER,0,0,0,,Okay, let's get started.
+Dialogue: 0,0:10:30.08,0:10:33.02,Default,ROGER,0,0,0,,Let the duel begin!
+Dialogue: 0,0:10:37.89,0:10:40.53,Default,ROGER,0,0,0,,Let the duel begin!
+Dialogue: 0,0:10:43.16,0:10:45.44,Default,MOB E,0,0,0,,What are they doing?
+Dialogue: 0,0:10:45.44,0:10:50.09,Default,MOB F,0,0,0,,The duel just started, and they're \Ndrinking recovery potions.
+Dialogue: 0,0:10:56.24,0:10:57.12,Default,MISA,0,0,0,,Elle...
+Dialogue: 0,0:10:57.12,0:10:58.04,Default,GUY,0,0,0,,You...
+Dialogue: 0,0:10:58.77,0:11:04.05,Default,ELLE,0,0,0,,I can put up with this if it \Nmeans killing that idiot.
+Dialogue: 0,0:11:04.05,0:11:08.22,Default,LENT,0,0,0,,Those will just go towards \Ntoday's payment.
+Dialogue: 0,0:11:08.22,0:11:12.20,Default,GUY,0,0,0,,You won't be talking \Nlike that much longer!
+Dialogue: 0,0:11:12.42,0:11:15.69,Default,LENT,0,0,0,,I'll wait for you.\NHurry up and finish them.
+Dialogue: 0,0:11:15.69,0:11:17.82,Default,GUY,0,0,0,,Let's go, guys.
+Dialogue: 0,0:11:18.72,0:11:21.19,Default,GUY,0,0,0,,We'll use our regular \Nunbeatable formation!
+Dialogue: 0,0:11:21.19,0:11:24.67,Default,ELLE,0,0,0,,Get ready to receive buffs!
+Dialogue: 0,0:11:28.37,0:11:30.12,Default,ELLE,0,0,0,,Dual Boost!
+Dialogue: 0,0:11:37.03,0:11:38.08,Default,ELLE,0,0,0,,What?
+Dialogue: 0,0:11:39.17,0:11:41.38,Top,LENT,0,0,0,,Enchant Break.
+Dialogue: 0,0:11:39.67,0:11:41.38,Signs,SIGN,0,0,0,,{\fad(600,000)\shad1\bord2\p1\alpha&H50&\c&HFFFFFF&\3c&H000000&\4c&HB7B7B7&\fscx136\fscy38\pos(311.242,323.054)}m 0 0 l 268 0 268 88 0 88
+Dialogue: 0,0:11:39.67,0:11:41.38,Signs,SIGN,0,0,0,,{\fad(600,000)\bord0\fs15\c&H151515&\fnTimes New Roman\pos(313.661,332.497)}Dark Magic Level 2 - Enchant Break - Price: 10,000 MP
+Dialogue: 0,0:11:41.76,0:11:44.43,Default,GUY,0,0,0,,Quit screwing around!
+Dialogue: 0,0:11:45.63,0:11:48.39,Default,GUY,0,0,0,,You can't do anything by yourself!
+Dialogue: 0,0:11:49.44,0:11:50.77,Default,GUY,0,0,0,,Die!
+Dialogue: 0,0:11:57.40,0:11:58.55,Default,GUY,0,0,0,,What are you—
+Dialogue: 0,0:11:59.44,0:12:01.40,Default,MISA,0,0,0,,Fireball!
+Dialogue: 0,0:12:10.55,0:12:12.11,Default,LENT,0,0,0,,Water Flow!
+Dialogue: 0,0:12:12.58,0:12:13.79,Signs,SIGN,0,0,0,,{\fad(600,000)\shad1\bord2\p1\alpha&H50&\c&HFFFFFF&\3c&H000000&\4c&HB7B7B7&\fscx60\fscy64\pos(319.243,185.912)}m 0 0 l 268 0 268 88 0 88
+Dialogue: 0,0:12:12.58,0:12:13.79,Signs,SIGN,0,0,0,,{\fad(600,000)\bord0\fs15\c&H151515&\fnTimes New Roman\pos(319.375,190.782)}Water Magic Level 2\NWater Flow\NPrice: 1,000 MP
+Dialogue: 0,0:12:18.13,0:12:19.77,Default,GUY,0,0,0,,Vacuum Slash!
+Dialogue: 0,0:12:20.42,0:12:21.85,Default,LENT,0,0,0,,Wind Cutter!
+Dialogue: 0,0:12:22.21,0:12:23.42,Signs,SIGN,0,0,0,,{\fad(600,000)\shad1\bord2\p1\alpha&H50&\c&HFFFFFF&\3c&H000000&\4c&HB7B7B7&\fscx60\fscy64\pos(319.243,185.912)}m 0 0 l 268 0 268 88 0 88
+Dialogue: 0,0:12:22.21,0:12:23.42,Signs,SIGN,0,0,0,,{\fad(600,000)\bord0\fs15\c&H151515&\fnTimes New Roman\pos(319.375,190.782)}Wind Magic Level 1\NWind Cutter\NPrice: 1,000 MP
+Dialogue: 0,0:12:24.92,0:12:27.13,Default,MISA,0,0,0,,When did he learn spells?
+Dialogue: 0,0:12:27.49,0:12:28.81,Default,GUY,0,0,0,,That bastard.
+Dialogue: 0,0:12:30.12,0:12:33.44,Default,NAMILIA,0,0,0,,I had no idea he was that strong.
+Dialogue: 0,0:12:38.56,0:12:42.31,Italic,LENT/ID,0,0,0,,Even now, they're relying on MP.
+Dialogue: 0,0:12:42.84,0:12:46.21,Italic,LENT/ID,0,0,0,,Come to think of it, they \Nused to force me to...
+Dialogue: 0,0:12:46.79,0:12:49.45,Flashback,LENT,0,0,0,,I'm out of MP already.
+Dialogue: 0,0:12:49.45,0:12:50.77,Flashback,GUY,0,0,0,,What?
+Dialogue: 0,0:12:50.77,0:12:54.45,Flashback,MISA,0,0,0,,Then drink this to recover.
+Dialogue: 0,0:12:54.97,0:12:58.13,Flashback,MISA,0,0,0,,Give us your MP as soon \Nas you have enough.
+Dialogue: 0,0:12:59.80,0:13:02.18,Default,GUY,0,0,0,,Ugh, he puked.
+Dialogue: 0,0:13:02.18,0:13:04.51,Default,ELLE,0,0,0,,Pathetic.
+Dialogue: 0,0:13:04.51,0:13:07.22,Italic,LENT/ID,0,0,0,,Things were really tough back then.
+Dialogue: 0,0:13:07.46,0:13:08.23,Default,GOROU,0,0,0,,Lent!
+Dialogue: 0,0:13:08.23,0:13:09.98,Default,JIN,0,0,0,,Don't just stand there!
+Dialogue: 0,0:13:09.98,0:13:11.61,Default,JIN,0,0,0,,You're in the middle of a duel!
+Dialogue: 0,0:13:16.11,0:13:17.97,Default,GUY,0,0,0,,Explosive Slash!
+Dialogue: 0,0:13:20.11,0:13:21.60,Default,LINKA,0,0,0,,Mr. Lent!
+Dialogue: 0,0:13:25.23,0:13:28.73,Default,LINKA,0,0,0,,No... Mr. Lent...
+Dialogue: 0,0:13:29.84,0:13:32.36,Default,MOB A,0,0,0,,Too bad, Jin.
+Dialogue: 0,0:13:32.36,0:13:35.12,Default,JIN,0,0,0,,Seriously?
+Dialogue: 0,0:13:35.12,0:13:36.25,Default,GOROU,0,0,0,,Lent...
+Dialogue: 0,0:13:36.67,0:13:38.87,Default,GUY,0,0,0,,Duel's over.
+Dialogue: 0,0:13:39.21,0:13:41.20,Default,MISA,0,0,0,,Come on, Guy.
+Dialogue: 0,0:13:41.20,0:13:43.88,Default,MISA,0,0,0,,You went too hard on that loser.
+Dialogue: 0,0:13:43.88,0:13:48.73,Default,GUY,0,0,0,,It's been so long since Elle \Nbuffed me that I went overboard.
+Dialogue: 0,0:13:48.73,0:13:50.63,Default,ELLE,0,0,0,,He got what he deserved.
+Dialogue: 0,0:13:51.18,0:13:55.14,Default,GUY,0,0,0,,Did you see how strong I am, Mr. Roger?
+Dialogue: 0,0:13:58.81,0:14:02.57,Default,GUY,0,0,0,,Huh? Why are you scowling like that?
+Dialogue: 0,0:14:16.83,0:14:18.54,Signs,,0,0,0,,{\fad(600,000)\shad1\bord2\p1\alpha&H50&\c&HFFFFFF&\3c&H000000&\4c&HB7B7B7&\pos(319.243,185.912)\fscx70\fscy62}m 0 0 l 268 0 268 88 0 88
+Dialogue: 0,0:14:16.83,0:14:18.54,Signs,,0,0,0,,{\fad(600,000)\bord0\fs15\c&H151515&\fnTimes New Roman\pos(319.375,190.782)}Illusion Magic\NPhantom Escape\NPrice: 10,000 MP
+Dialogue: 0,0:14:23.55,0:14:26.55,Default,LENT,0,0,0,,I saw them countless \Ntimes over five years.
+Dialogue: 0,0:14:26.55,0:14:29.18,Default,LENT,0,0,0,,Explosive Slash. Vacuum Slash.
+Dialogue: 0,0:14:29.44,0:14:30.93,Default,LENT,0,0,0,,Fireball.
+Dialogue: 0,0:14:31.13,0:14:32.69,Default,LENT,0,0,0,,Dual Boost.
+Dialogue: 0,0:14:32.88,0:14:35.56,Default,LENT,0,0,0,,You really haven't changed at all.
+Dialogue: 0,0:14:41.88,0:14:43.32,Default,GUY,0,0,0,,What do you think you're doing?
+Dialogue: 0,0:14:43.32,0:14:44.83,Default,LENT,0,0,0,,You can drink them.
+Dialogue: 0,0:14:48.81,0:14:52.90,Default,LENT,0,0,0,,I don't want you to claim you only lost \Nbecause you didn't have enough MP.
+Dialogue: 0,0:14:53.25,0:14:54.45,Default,GUY,0,0,0,,What was that?
+Dialogue: 0,0:14:55.03,0:14:58.08,Default,LENT,0,0,0,,I'll refute everything you claim to be.
+Dialogue: 0,0:15:00.02,0:15:02.28,Default,GUY,0,0,0,,You'll regret this in hell.
+Dialogue: 0,0:15:02.74,0:15:04.71,Default,LINKA,0,0,0,,Mr. Lent?
+Dialogue: 0,0:15:06.43,0:15:07.71,Default,LENT,0,0,0,,Finished drinking?
+Dialogue: 0,0:15:09.22,0:15:10.41,Default,GUY,0,0,0,,Yeah.
+Dialogue: 0,0:15:10.84,0:15:14.47,Default,GUY,0,0,0,,We weren't planning on using \Nthis, but we'll show you.
+Dialogue: 0,0:15:14.84,0:15:18.88,Default,GUY,0,0,0,,This is our killer three-man formation.
+Dialogue: 0,0:15:21.19,0:15:22.47,Default,GUY,0,0,0,,Do it, Elle!
+Dialogue: 0,0:15:22.72,0:15:24.83,Default,ELLE,0,0,0,,Spiral Boost!
+Dialogue: 0,0:15:30.81,0:15:32.99,Default,MISA,0,0,0,,Fire Tornado!
+Dialogue: 0,0:15:33.54,0:15:35.31,Default,MISA,0,0,0,,Flame Aura!
+Dialogue: 0,0:15:41.74,0:15:42.50,Default,GUY,0,0,0,,Sky!
+Dialogue: 0,0:15:42.04,0:15:42.54,Signs,SIGN,0,0,0,,{\fs30\blur5\c&H000000&\3c&HFFFFFF&\fnTimes New Roman}Sky
+Dialogue: 0,0:15:42.50,0:15:42.99,Default,MISA,0,0,0,,Blaze!
+Dialogue: 0,0:15:42.54,0:15:43.04,Signs,SIGN,0,0,0,,{\fs30\blur5\c&H000000&\3c&HFFFFFF&\fnTimes New Roman}Blaze
+Dialogue: 0,0:15:42.99,0:15:43.64,Default,ELLE,0,0,0,,Hell!
+Dialogue: 0,0:15:43.04,0:15:43.54,Signs,SIGN,0,0,0,,{\fs30\blur5\c&H000000&\3c&HFFFFFF&\fnTimes New Roman}Hell
+Dialogue: 0,0:15:43.54,0:15:44.04,Signs,SIGN,0,0,0,,{\fs30\blur5\c&H000000&\3c&HFFFFFF&\fnTimes New Roman}Fire
+Dialogue: 0,0:15:43.64,0:15:44.52,Default,ALL,0,0,0,,Fire!
+Dialogue: 0,0:15:44.17,0:15:45.75,Signs,SIGN,0,0,0,,{\fad(200,000)\fs30\blur5\c&H57D9FF&\3c&H316BD4&\fnTimes New Roman\pos(297.143,12)}Skyblaze Hellfire
+Dialogue: 0,0:15:45.75,0:15:49.38,Default,GUY,0,0,0,,Vortex Breaker!
+Dialogue: 0,0:15:53.38,0:15:58.14,Default,GUY,0,0,0,,Die!
+Dialogue: 0,0:16:18.01,0:16:19.70,Default,MISA,0,0,0,,Fire Tornado!
+Dialogue: 0,0:16:30.71,0:16:31.86,Default,GUY,0,0,0,,Misa!
+Dialogue: 0,0:16:32.58,0:16:35.22,Default,GUY,0,0,0,,Elle, heal me now!
+Dialogue: 0,0:16:42.65,0:16:43.68,Default,LENT,0,0,0,,You're in my way.
+Dialogue: 0,0:16:54.36,0:16:56.61,Default,MOB E,0,0,0,,What was that six-hit spell?
+Dialogue: 0,0:16:56.61,0:16:58.90,Default,MOB F,0,0,0,,A high-level version of Fireball?
+Dialogue: 0,0:16:59.23,0:17:01.89,Default,COMET,0,0,0,,He just cast consecutive spells!
+Dialogue: 0,0:17:01.89,0:17:06.00,Default,COMET,0,0,0,,Not even I can do that! No fair!
+Dialogue: 0,0:17:06.76,0:17:10.75,Default,GUY,0,0,0,,How the hell can you cast spells?
+Dialogue: 0,0:17:11.40,0:17:18.10,Italic,GUY/ID,0,0,0,,Vortex Breaker involves a slashing charge \Nthat pours explosive flames into the cuts.
+Dialogue: 0,0:17:18.10,0:17:21.78,Italic,GUY/ID,0,0,0,,It's a one-hit-kill technique that \Ndestroys its target from the inside.
+Dialogue: 0,0:17:21.78,0:17:24.64,Italic,GUY/ID,0,0,0,,Even a scratch should \Nkill someone instantly.
+Dialogue: 0,0:17:24.96,0:17:27.40,Italic,GUY/ID,0,0,0,,I know I touched him,
+Dialogue: 0,0:17:28.02,0:17:30.78,Italic,GUY/ID,0,0,0,,so why is he unharmed?
+Dialogue: 0,0:17:30.78,0:17:34.29,Italic,GUY/ID,0,0,0,,What happened since we kicked him out?
+Dialogue: 0,0:17:34.29,0:17:36.46,Default,LINKA,0,0,0,,Mr. Lent is amazing.
+Dialogue: 0,0:17:36.46,0:17:40.16,Default,LINKA,0,0,0,,Is Infinite Magic Storage \Nthe reason he's unharmed?
+Dialogue: 0,0:17:40.16,0:17:43.78,Default,EMPEE,0,0,0,,Affording that wasn't easy.
+Dialogue: 0,0:17:43.78,0:17:44.91,Default,LINKA,0,0,0,,Affording what?
+Dialogue: 0,0:17:45.71,0:17:49.46,Flashback,LENT,0,0,0,,I finally saved up 150,000 MP.
+Dialogue: 0,0:17:50.08,0:17:52.29,Flashback,LENT,0,0,0,,I'm buying it now.
+Dialogue: 0,0:17:52.29,0:17:53.53,Signs,SIGN,0,0,0,,{\fad(000,200)\fnTimes New Roman\bord0\fs26\c&H000000&\frz11.61\pos(166.857,85.143)\frx20\fry358}Creditor Protection
+Dialogue: 0,0:17:53.53,0:17:54.55,Signs,SIGN,0,0,0,,{\fad(200,000)\fnTimes New Roman\bord0\fs26\c&HFFFFFF&\frx14\fry356\frz11.61\pos(166.857,85.143)}Creditor Protection
+Dialogue: 0,0:17:54.54,0:17:58.17,Flashback Italics,YGGDRASIL,0,0,0,,Creditor Protection skill \Nhas been purchased.
+Dialogue: 0,0:17:58.93,0:18:01.71,Flashback Italics,YGGDRASIL,0,0,0,,Effect is now active at all times.
+Dialogue: 0,0:18:02.57,0:18:05.93,Flashback,EMPEE,0,0,0,,Now you'll completely shut \Nthem down at tomorrow's duel.
+Dialogue: 0,0:18:08.07,0:18:11.03,Flashback,EMPEE,0,0,0,,Even if your debtors \Nget mad and attack you,
+Dialogue: 0,0:18:11.03,0:18:13.82,Flashback,EMPEE,0,0,0,,you can protect yourself with this skill.
+Dialogue: 0,0:18:14.81,0:18:20.65,Default,EMPEE,0,0,0,,His skill negates up to a certain amount \Nof damage from attacks by debtors.
+Dialogue: 0,0:18:20.65,0:18:22.79,Default,EMPEE,0,0,0,,The amount negated...
+Dialogue: 0,0:18:26.51,0:18:29.80,Default,EMPEE,0,0,0,,is proportional to how much they owe.
+Dialogue: 0,0:18:31.46,0:18:35.30,Default,LENT,0,0,0,,Aw, man. Your mithril \Nsword's looking shabby.
+Dialogue: 0,0:18:35.50,0:18:37.19,Default,LENT,0,0,0,,Have you been maintaining it properly?
+Dialogue: 0,0:18:37.67,0:18:43.43,Default,EMPEE,0,0,0,,Those idiots who have borrowed \Nmillions won't be able to hurt him.
+Dialogue: 0,0:18:43.80,0:18:45.40,Default,LENT,0,0,0,,Oh, right.
+Dialogue: 0,0:18:45.40,0:18:51.43,Default,LENT,0,0,0,,You can't afford repair liquid since \Nyou've been prioritizing buying potions.
+Dialogue: 0,0:18:58.45,0:18:59.57,Default,MOB G,0,0,0,,It's coming this way!
+Dialogue: 0,0:19:05.44,0:19:08.15,Default,FUUGA,0,0,0,,Could I sell this?
+Dialogue: 0,0:19:17.21,0:19:19.21,Default,GUY,0,0,0,,Lent!
+Dialogue: 0,0:19:19.41,0:19:21.88,Default,GUY,0,0,0,,There's no way I'd lose to—
+Dialogue: 0,0:19:41.32,0:19:42.75,Default,MOB G,0,0,0,,We have a winner!
+Dialogue: 0,0:19:42.75,0:19:44.74,Default,MOB H,0,0,0,,That guy's super strong!
+Dialogue: 0,0:19:44.74,0:19:46.35,Default,JIN,0,0,0,,Hell yeah!
+Dialogue: 0,0:19:46.35,0:19:49.24,Default,COMET,0,0,0,,That's not fair either! No fair, no fair!
+Dialogue: 0,0:19:53.53,0:19:54.91,Default,LENT,0,0,0,,Give it back.
+Dialogue: 0,0:19:55.51,0:19:58.61,Default,LENT,0,0,0,,Give me back my MP.
+Dialogue: 0,0:19:59.57,0:20:02.96,Default,GUY,0,0,0,,I'm all out right now.
+Dialogue: 0,0:20:03.42,0:20:06.26,Default,GUY,0,0,0,,I used it all on skills.
+Dialogue: 0,0:20:10.48,0:20:12.01,Default,LINKA,0,0,0,,Mr. Lent!
+Dialogue: 0,0:20:13.00,0:20:17.72,Default,LENT,0,0,0,,Don't be stupid, you incompetent idiot!
+Dialogue: 0,0:20:25.40,0:20:30.04,Default,LENT,0,0,0,,You've got a nice fresh soul right here.
+Dialogue: 0,0:20:30.51,0:20:34.29,Default,LENT,0,0,0,,I don't know how much MP it'd be worth,
+Dialogue: 0,0:20:34.29,0:20:37.44,Default,LENT,0,0,0,,but it might reduce your debt a little!
+Dialogue: 0,0:20:43.09,0:20:45.42,Default,LENT,0,0,0,,If I did that...
+Dialogue: 0,0:20:47.36,0:20:49.50,Default,LENT,0,0,0,,your soul...
+Dialogue: 0,0:20:50.86,0:20:57.02,Default,LENT,0,0,0,,would be removed from the cycle of \Nrebirth to wander the void for eternity.
+Dialogue: 0,0:20:58.68,0:21:02.95,Default,LENT,0,0,0,,But that's not my problem.
+Dialogue: 0,0:21:05.31,0:21:08.08,Default,GUY,0,0,0,,Don't do this, Lent.
+Dialogue: 0,0:21:10.35,0:21:13.25,Default,GUY,0,0,0,,No, wait...
+Dialogue: 0,0:21:16.86,0:21:18.20,Default,GUY,0,0,0,,Who the hell are you?
+
