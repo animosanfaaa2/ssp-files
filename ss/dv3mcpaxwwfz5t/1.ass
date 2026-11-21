@@ -1,0 +1,446 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: flashback italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: sign_generic,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: stats,Verdana,20,&H00FDFFDE,&H000000FF,&H00C3D297,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: title,Impact,30,&H00020080,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:32.29,0:01:32.32,sign_generic,Sign,0,0,0,,{\shad1\bord0\an2\fnTimes New Roman\b1\4c&H453F67&\c&HC6C9D2&\pos(266,309.667)}Episode 21
+Dialogue: 0,0:01:32.29,0:01:32.32,sign_generic,Sign,0,0,0,,{\fs16\shad1\bord0\an1\fnTimes New Roman\b1\4c&H453F67&\c&HC6C9D2&\pos(332,307)}The Vampire Princess, Benetnasch Appeared!
+Dialogue: 0,0:01:32.29,0:01:32.32,sign_generic,Sign,0,0,0,,{\shad1\bord0\4c&H564C4E&\c&H11CE1A&\an2\fnTimes New Roman\b1\3c&H0C4108&\pos(266,285.667)}Episode 21
+Dialogue: 0,0:01:32.29,0:01:32.32,sign_generic,Sign,0,0,0,,{\fs16\shad1\bord0\4c&H564C4E&\c&H11CE1A&\an1\fnTimes New Roman\b1\3c&H0C4108&\pos(332,283)}The Vampire Princess, Benetnasch Appeared!
+Dialogue: 0,0:01:32.32,0:01:32.36,sign_generic,Sign,0,0,0,,{\c&HFEFDFE&\3c&H595C8B&\shad1\bord0\4c&H646F97&\an2\fnTimes New Roman\b1\pos(276,333.8)}Episode 21
+Dialogue: 0,0:01:32.32,0:01:32.36,sign_generic,Sign,0,0,0,,{\fs16\c&HFEFDFE&\3c&H595C8B&\shad1\bord0\4c&H646F97&\an1\fnTimes New Roman\b1\pos(341,330)}The Vampire Princess, Benetnasch Appeared!
+Dialogue: 0,0:01:32.36,0:01:32.40,sign_generic,Sign,0,0,0,,{\c&HFEFDFE&\3c&H595C8B&\shad1\bord0\4c&H646F97&\an2\fnTimes New Roman\b1\pos(276,321.164)}Episode 21
+Dialogue: 0,0:01:32.36,0:01:32.40,sign_generic,Sign,0,0,0,,{\fs16\c&HFEFDFE&\3c&H595C8B&\shad1\bord0\4c&H646F97&\an1\fnTimes New Roman\b1\pos(338,318)}The Vampire Princess, Benetnasch Appeared!
+Dialogue: 0,0:01:32.40,0:01:34.14,sign_generic,Sign,0,0,0,,{\an2\c&HFEFDFE&\shad1\bord0\4c&H564C4E&\fnTimes New Roman\b1\pos(269,317.001)}Episode {\t(320,612,\c&H0600A9&)}21
+Dialogue: 0,0:01:32.40,0:01:34.14,sign_generic,Sign,0,0,0,,{\an1\fs16\c&HFEFDFE&\shad1\bord0\4c&H564C4E&\fnTimes New Roman\b1\pos(338,316)\t(320,612,\c&H0600A9&)}The {\c&HFEFDFE&}Vampire Princess, Benetnasch Appeared!
+Dialogue: 0,0:01:34.14,0:01:34.18,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\fs16\pos(342,314)\c&H0600A9&}The {\c&HFEFDFE&}Vampire Princess, Benetnasch Appeared!
+Dialogue: 0,0:01:34.14,0:01:34.18,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\i1\fs16\pos(350,315)\c&H0600A9&}The {\c&HFEFDFE&}Vampire Princess, Benetnasch Appeared!
+Dialogue: 0,0:01:34.14,0:01:34.18,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\pos(262,315.467)}Episode {\c&H0600A9&)}21
+Dialogue: 0,0:01:34.14,0:01:34.18,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\i1\pos(266,315.467)}Episode {\c&H0600A9&)}21
+Dialogue: 0,0:01:34.18,0:01:34.22,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\i1\fs16\pos(348,314)\c&H0600A9&}The {\c&HFEFDFE&}Vampire Princess, Benetnasch Appeared!
+Dialogue: 0,0:01:34.18,0:01:34.22,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\i1\fs16\pos(346,315)\c&H0600A9&}The {\c&HFEFDFE&}Vampire Princess, Benetnasch Appeared!
+Dialogue: 0,0:01:34.18,0:01:34.22,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\i1\pos(277,316.667)}Episode {\c&H0600A9&)}21
+Dialogue: 0,0:01:34.18,0:01:34.22,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\i1\pos(274,316.667)}Episode {\c&H0600A9&)}21
+Dialogue: 0,0:01:34.22,0:01:34.30,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\fs16\pos(359,316)\c&H0600A9&}The {\c&HFEFDFE&}Vampire Princess, Benetnasch Appeared!
+Dialogue: 0,0:01:34.22,0:01:34.30,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\i1\fs16\pos(353,315)\c&H0600A9&}The {\c&HFEFDFE&}Vampire Princess, Benetnasch Appeared!
+Dialogue: 0,0:01:34.22,0:01:34.30,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\pos(290,317.733)}Episode {\c&H0600A9&)}21
+Dialogue: 0,0:01:34.22,0:01:34.30,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\i1\pos(284,317.733)}Episode {\c&H0600A9&)}21
+Dialogue: 0,0:01:34.30,0:01:34.35,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\fs16\pos(352,315)\c&H0600A9&}The {\c&HFEFDFE&}Vampire Princess, Benetnasch Appeared!
+Dialogue: 0,0:01:34.30,0:01:34.35,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\i1\fs16\pos(352,314)\c&H0600A9&}The {\c&HFEFDFE&}Vampire Princess, Benetnasch Appeared!
+Dialogue: 0,0:01:34.30,0:01:34.35,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\pos(289,316.8)}Episode {\c&H0600A9&)}21
+Dialogue: 0,0:01:34.30,0:01:34.35,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\i1\pos(288,316.8)}Episode {\c&H0600A9&)}21
+Dialogue: 0,0:01:34.35,0:01:34.39,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\fs16\pos(349,316)\c&H0600A9&}The {\c&HFEFDFE&}Vampire Princess, Benetnasch Appeared!
+Dialogue: 0,0:01:34.35,0:01:34.39,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\i1\fs16\pos(352,315)\c&H0600A9&}The {\c&HFEFDFE&}Vampire Princess, Benetnasch Appeared!
+Dialogue: 0,0:01:34.35,0:01:34.39,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\pos(290,316.933)}Episode {\c&H0600A9&)}21
+Dialogue: 0,0:01:34.35,0:01:34.39,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\i1\pos(291,316.933)}Episode {\c&H0600A9&)}21
+Dialogue: 0,0:01:34.39,0:01:35.14,sign_generic,Sign,0,0,0,,{\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\fs16\pos(337,315)\c&H0600A9&}The {\c&HFEFDFE&}Vampire Princess, Benetnasch Appeared!
+Dialogue: 0,0:01:34.39,0:01:35.14,sign_generic,Sign,0,0,0,,{\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\pos(272,315.467)}Episode {\c&H0600A9&)}21
+Dialogue: 0,0:01:34.92,0:01:38.66,top,Lufas,0,0,0,,Tyrving, the land at the northernmost \Nreaches of humanity's habitat…
+Dialogue: 0,0:01:35.14,0:01:35.18,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\fs16\pos(358,315)\c&H0600A9&}The {\c&HFEFDFE&}Vampire Princess, Benetnasch Appeared!
+Dialogue: 0,0:01:35.14,0:01:35.18,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\i1\fs16\pos(358,314)\c&H0600A9&}The {\c&HFEFDFE&}Vampire Princess, Benetnasch Appeared!
+Dialogue: 0,0:01:35.14,0:01:35.18,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\i1\pos(291,317.6)}Episode {\c&H0600A9&)}21
+Dialogue: 0,0:01:35.14,0:01:35.18,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\pos(291,317.6)}Episode {\c&H0600A9&)}21
+Dialogue: 0,0:01:35.18,0:01:35.22,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\fs16\pos(349,314)\c&H0600A9&}The {\c&HFEFDFE&}Vampire Princess, Benetnasch Appeared!
+Dialogue: 0,0:01:35.18,0:01:35.22,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\i1\fs16\pos(345,315)\c&H0600A9&}The {\c&HFEFDFE&}Vampire Princess, Benetnasch Appeared!
+Dialogue: 0,0:01:35.18,0:01:35.22,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\pos(286,316)}Episode {\c&H0600A9&)}21
+Dialogue: 0,0:01:35.18,0:01:35.22,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\i1\pos(282,316)}Episode {\c&H0600A9&)}21
+Dialogue: 0,0:01:35.22,0:01:35.30,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\i1\fs16\pos(346,315)\c&H0600A9&}The {\c&HFEFDFE&}Vampire Princess, Benetnasch Appeared!
+Dialogue: 0,0:01:35.22,0:01:35.30,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\fs16\pos(344,314)\c&H0600A9&}The {\c&HFEFDFE&}Vampire Princess, Benetnasch Appeared!
+Dialogue: 0,0:01:35.22,0:01:35.30,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\i1\pos(278,318.267)}Episode {\c&H0600A9&)}21
+Dialogue: 0,0:01:35.22,0:01:35.30,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\pos(276,318.267)}Episode {\c&H0600A9&)}21
+Dialogue: 0,0:01:35.30,0:01:35.35,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\fs16\pos(352,316)\c&H0600A9&}The {\c&HFEFDFE&}Vampire Princess, Benetnasch Appeared!
+Dialogue: 0,0:01:35.30,0:01:35.35,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\i1\fs16\pos(352,315)\c&H0600A9&}The {\c&HFEFDFE&}Vampire Princess, Benetnasch Appeared!
+Dialogue: 0,0:01:35.30,0:01:35.35,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\pos(285,318.533)}Episode {\c&H0600A9&)}21
+Dialogue: 0,0:01:35.30,0:01:35.35,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\i1\pos(285,318.533)}Episode {\c&H0600A9&)}21
+Dialogue: 0,0:01:35.35,0:01:35.39,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\i1\fs16\pos(354,315)\c&H0600A9&}The {\c&HFEFDFE&}Vampire Princess, Benetnasch Appeared!
+Dialogue: 0,0:01:35.35,0:01:35.39,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\fs16\pos(355,314)\c&H0600A9&}The {\c&HFEFDFE&}Vampire Princess, Benetnasch Appeared!
+Dialogue: 0,0:01:35.35,0:01:35.39,sign_generic,Sign,0,0,0,,{\clip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\i1\pos(291,316.666)}Episode {\c&H0600A9&)}21
+Dialogue: 0,0:01:35.35,0:01:35.39,sign_generic,Sign,0,0,0,,{\iclip(0,290,640,307)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\pos(292,316.666)}Episode {\c&H0600A9&)}21
+Dialogue: 0,0:01:35.39,0:01:37.15,sign_generic,Sign,0,0,0,,{\fad(0,538)\shad1\bord0\4c&H564C4E&\c&H0600A9&\an1\fnTimes New Roman\b1\3c&H180E2D&\fs16\pos(338,315)\c&H0600A9&}The {\c&HFEFDFE&}Vampire Princess, Benetnasch Appeared!
+Dialogue: 0,0:01:35.39,0:01:37.15,sign_generic,Sign,0,0,0,,{\fad(0,538)\shad1\bord0\4c&H564C4E&\c&HFFFEFE&\an2\fnTimes New Roman\b1\3c&H5A5455&\pos(271,316.667)}Episode {\c&H0600A9&)}21
+Dialogue: 0,0:01:38.66,0:01:42.73,Default,Lufas,0,0,0,,It's ruled by Leon, and home to \Nthose not recognized by humanity.
+Dialogue: 0,0:01:43.08,0:01:45.95,Default,Lufas,0,0,0,,The land where demihumans live, huh?
+Dialogue: 0,0:01:46.59,0:01:49.48,Default,Lufas,0,0,0,,Still, we're surprised it hasn't \Nbeen conquered by the devilfolk
+Dialogue: 0,0:01:49.48,0:01:51.30,Default,Lufas,0,0,0,,when it's so close to their habitat.
+Dialogue: 0,0:01:51.30,0:01:53.25,Default,Dina,0,0,0,,That's because Mjolnir,
+Dialogue: 0,0:01:53.25,0:01:56.46,Default,Dina,0,0,0,,the nation led by Benetnasch and \Nenveloped in darkness, is close by.
+Dialogue: 0,0:01:56.46,0:02:01.08,Default,Dina,0,0,0,,The devilfolk actually have tried to \Ninvade it and expand their territory,
+Dialogue: 0,0:02:01.08,0:02:04.20,Default,Dina,0,0,0,,but Benetnasch crushed \Nthem, and it went terribly.
+Dialogue: 0,0:02:04.83,0:02:07.48,Default,Lufas,0,0,0,,The Devil King didn't fight Benet?
+Dialogue: 0,0:02:07.83,0:02:09.88,Default,Dina,0,0,0,,Apparently they had a skirmish,
+Dialogue: 0,0:02:09.88,0:02:13.06,Default,Dina,0,0,0,,but both withdrew without \Nusing their full might.
+Dialogue: 0,0:02:13.06,0:02:13.95,Default,Lufas,0,0,0,,Hmm.
+Dialogue: 0,0:02:14.27,0:02:15.76,italics,Lufas,0,0,0,,I'd rather not run into her.
+Dialogue: 0,0:02:15.76,0:02:20.15,italics,Lufas,0,0,0,,From what I've heard, she would \Nnot retreat if we met in combat.
+Dialogue: 0,0:02:21.01,0:02:24.79,Default,Lufas,0,0,0,,There won't be an issue as long \Nas Benet doesn't notice us.
+Dialogue: 0,0:02:24.79,0:02:26.32,Default,Aigokeros,0,0,0,,She'll notice.
+Dialogue: 0,0:02:26.32,0:02:27.50,Default,Aigokeros,0,0,0,,Most certainly.
+Dialogue: 0,0:02:27.87,0:02:29.51,italics,Lufas,0,0,0,,My hope was squashed flat!
+Dialogue: 0,0:02:29.91,0:02:33.28,Default,Aigokeros,0,0,0,,Vampires are the beings \Nclosest to us devils.
+Dialogue: 0,0:02:33.28,0:02:37.72,Default,Aigokeros,0,0,0,,There's no way she won't notice the \Naura emanating from you, Lady Lufas.
+Dialogue: 0,0:03:01.63,0:03:03.70,stats,Sign,0,0,0,,{\fs12\c&HFCFDFF&\fad(90,0)\t(90,257,\c&HFCFFDF&)\4c&HFAFE7F&\t(90,257,\4c&HB9C45F&)\3c&HFAFE7F&\t(90,257,\3c&HB9C45F&)\bord1.5\shad\pos(486.619,324.096)}Benetnasch
+Dialogue: 0,0:03:03.70,0:03:05.08,Default,Aries,0,0,0,,Benetnasch!
+Dialogue: 0,0:03:05.08,0:03:07.87,Default,Aigokeros,0,0,0,,So you've brazenly come to us, then?
+Dialogue: 0,0:03:09.31,0:03:12.43,Default,Benetnasch,0,0,0,,It's been a long time, Lufas Maphaahl.
+Dialogue: 0,0:03:12.43,0:03:14.76,Default,Benetnasch,0,0,0,,Two hundred years and a few months.
+Dialogue: 0,0:03:15.56,0:03:18.30,Default,Benetnasch,0,0,0,,I'm glad to see you still live.
+Dialogue: 0,0:03:19.79,0:03:22.01,Default,Lufas,0,0,0,,It looks like you haven't changed either.
+Dialogue: 0,0:03:22.01,0:03:23.71,Default,Benetnasch,0,0,0,,I haven't changed.
+Dialogue: 0,0:03:23.71,0:03:27.02,Default,Benetnasch,0,0,0,,Time has been stopped for \Nme ever since that moment.
+Dialogue: 0,0:03:27.66,0:03:32.57,sign_generic,Sign,0,0,0,,{\an1\fad(1382,0)\b1\bord1\blur1\3a&H40&\c&H222222&\fs15\3c&HFFFFFF&\pos(44.667,297.667)}200 Years and 4 Months Ago…
+Dialogue: 0,0:03:34.72,0:03:36.45,flashback,Benetnasch,0,0,0,,Here I come, Maphaahl!
+Dialogue: 0,0:03:36.45,0:03:38.44,flashback,Benetnasch,0,0,0,,Let's end it with this blow!
+Dialogue: 0,0:03:38.91,0:03:41.74,flashback,Lufas,0,0,0,,Yes. Come, Benet!
+Dialogue: 0,0:03:48.67,0:03:50.71,flashback italics,Benetnasch,0,0,0,,What?! Interference magic?!
+Dialogue: 0,0:03:58.24,0:03:59.72,flashback,Benetnasch,0,0,0,,Stay out of this! All of you!
+Dialogue: 0,0:04:00.06,0:04:02.25,flashback,Benetnasch,0,0,0,,What do you think you're… doing?
+Dialogue: 0,0:04:03.68,0:04:05.79,flashback,Benetnasch,0,0,0,,You're brimming with divine power?!
+Dialogue: 0,0:04:10.03,0:04:11.69,flashback,Benetnasch,0,0,0,,How dare you!
+Dialogue: 0,0:04:12.59,0:04:16.56,flashback,Lufas,0,0,0,,Apologies, Benet. We must wait \Nand settle this another time.
+Dialogue: 0,0:04:16.56,0:04:18.47,flashback,Benetnasch,0,0,0,,W-Wait, Maphaahl!
+Dialogue: 0,0:04:18.47,0:04:21.71,flashback,Lufas,0,0,0,,Worry not. We shall return.
+Dialogue: 0,0:04:21.71,0:04:24.37,flashback,Lufas,0,0,0,,Keep your fangs sharp until then.
+Dialogue: 0,0:04:26.66,0:04:30.64,flashback,Benetnasch,0,0,0,,Maphaahl!
+Dialogue: 0,0:04:33.68,0:04:36.71,Default,Benetnasch,0,0,0,,You never returned.
+Dialogue: 0,0:04:37.34,0:04:41.51,Default,Benetnasch,0,0,0,,I haven't been able to change since \Nthat moment, even if I wanted to.
+Dialogue: 0,0:04:44.22,0:04:46.68,Default,Benetnasch,0,0,0,,I wouldn't do that, puppet.
+Dialogue: 0,0:04:46.91,0:04:49.77,Default,Benetnasch,0,0,0,,I'm in an unusually good mood right now.
+Dialogue: 0,0:04:49.77,0:04:52.09,Default,Benetnasch,0,0,0,,I'm willing to let you pass \Nif you stand back;
+Dialogue: 0,0:04:52.09,0:04:55.40,Default,Benetnasch,0,0,0,,but if you get in the way \Nof my reunion with Maphaahl,
+Dialogue: 0,0:04:56.75,0:04:59.03,Default,Benetnasch,0,0,0,,I can't guarantee your safety.
+Dialogue: 0,0:05:05.60,0:05:06.91,italics,Lufas,0,0,0,,What impressive power.
+Dialogue: 0,0:05:07.27,0:05:09.95,Default,Benetnasch,0,0,0,,The same goes for the rest of \Nyou, Twelve Heavenly Stars.
+Dialogue: 0,0:05:09.95,0:05:12.44,Default,Benetnasch,0,0,0,,I'll admit you're each somewhat capable,
+Dialogue: 0,0:05:12.44,0:05:14.35,Default,Benetnasch,0,0,0,,but you're no match for me.
+Dialogue: 0,0:05:14.35,0:05:17.42,Default,Benetnasch,0,0,0,,If you don't want to die, then \Ngo tremble on the sidelines.
+Dialogue: 0,0:05:17.75,0:05:18.60,Default,Scorpius,0,0,0,,Wow!
+Dialogue: 0,0:05:18.60,0:05:21.38,Default,Scorpius,0,0,0,,Listen to you talk, pipsqueak!
+Dialogue: 0,0:05:22.37,0:05:24.35,Default,Aigokeros,0,0,0,,You dare to mock me?
+Dialogue: 0,0:05:24.35,0:05:25.38,Default,Lufas,0,0,0,,Stand down!
+Dialogue: 0,0:05:25.59,0:05:26.81,Default,Lufas,0,0,0,,Do not fall for her provocation.
+Dialogue: 0,0:05:29.89,0:05:31.18,Default,Benetnasch,0,0,0,,Wise choice.
+Dialogue: 0,0:05:32.60,0:05:35.98,Default,Benetnasch,0,0,0,,You're the only one \Ncapable of fighting me.
+Dialogue: 0,0:05:37.86,0:05:40.58,Default,Benetnasch,0,0,0,,I have but one desire.
+Dialogue: 0,0:05:40.58,0:05:43.84,Default,Benetnasch,0,0,0,,I want to completely settle \Nour score, one-on-one,
+Dialogue: 0,0:05:44.91,0:05:48.62,Default,Benetnasch,0,0,0,,without any outside interference.
+Dialogue: 0,0:05:49.13,0:05:52.33,Default,Lufas,0,0,0,,Are you suggesting you came \Nhere simply to tell me that?
+Dialogue: 0,0:05:52.98,0:05:55.15,Default,Benetnasch,0,0,0,,Don't run away, Maphaahl.
+Dialogue: 0,0:05:55.54,0:06:00.80,Default,Benetnasch,0,0,0,,I've waited over two hundred \Nyears just to settle our score.
+Dialogue: 0,0:06:00.80,0:06:01.94,Default,Lufas,0,0,0,,Worry not.
+Dialogue: 0,0:06:01.94,0:06:04.29,Default,Lufas,0,0,0,,It's an offer from an old friend.
+Dialogue: 0,0:06:04.29,0:06:06.27,Default,Lufas,0,0,0,,We shall gratefully accept.
+Dialogue: 0,0:06:07.31,0:06:08.61,Default,Benetnasch,0,0,0,,That's good.
+Dialogue: 0,0:06:08.61,0:06:10.99,Default,Benetnasch,0,0,0,,I'm the only one allowed to kill you,
+Dialogue: 0,0:06:10.99,0:06:13.31,Default,Benetnasch,0,0,0,,and you're the only one \Nallowed to kill me.
+Dialogue: 0,0:06:13.31,0:06:14.52,Default,Benetnasch,0,0,0,,I won't compromise on that.
+Dialogue: 0,0:06:16.77,0:06:20.11,Default,Benetnasch,0,0,0,,This time we'll go until one of us dies!
+Dialogue: 0,0:06:22.19,0:06:23.27,Default,Benetnasch,0,0,0,,Farewell.
+Dialogue: 0,0:06:23.27,0:06:24.96,Default,Benetnasch,0,0,0,,I look forward to our next meeting!
+Dialogue: 0,0:06:29.28,0:06:30.33,italics,Lufas,0,0,0,,What do I do?
+Dialogue: 0,0:06:30.33,0:06:32.23,italics,Lufas,0,0,0,,That girl's got some big feelings!
+Dialogue: 0,0:06:34.12,0:06:35.51,Default,Dina,0,0,0,,What are you going to do?
+Dialogue: 0,0:06:35.91,0:06:39.00,Default,Lufas,0,0,0,,You all head on toward Leon as planned.
+Dialogue: 0,0:06:39.51,0:06:41.34,Default,Lufas,0,0,0,,We shall head to Mjolnir.
+Dialogue: 0,0:06:42.21,0:06:44.69,Default,Lufas,0,0,0,,So we can settle things with Benet.
+Dialogue: 0,0:06:49.07,0:06:52.35,Default,Castor,0,0,0,,Before we reach the demihuman \Nvillage where the centaurs live,
+Dialogue: 0,0:06:52.35,0:06:54.06,Default,Castor,0,0,0,,I'd like you all to drink those.
+Dialogue: 0,0:06:54.06,0:06:56.12,Default,Castor,0,0,0,,Once you drink those potions,
+Dialogue: 0,0:06:56.12,0:06:59.27,Default,Castor,0,0,0,,you'll be able to change how you \Nlook for roughly three hours.
+Dialogue: 0,0:06:59.27,0:07:01.21,Default,Kross,0,0,0,,A-Are you sure?
+Dialogue: 0,0:07:01.21,0:07:03.59,Default,Kross,0,0,0,,These seem like rather valuable potions.
+Dialogue: 0,0:07:03.93,0:07:06.35,Default,Castor,0,0,0,,Not to us, they aren't.
+Dialogue: 0,0:07:06.75,0:07:08.43,Default,Castor,0,0,0,,Go ahead and use them.
+Dialogue: 0,0:07:10.03,0:07:14.23,Default,Kross,0,0,0,,I suppose we have to in order to avoid \Nthe demihumans' suspicion.
+Dialogue: 0,0:07:14.88,0:07:15.61,Default,Kross,0,0,0,,Okay then…
+Dialogue: 0,0:07:31.86,0:07:32.77,Default,Sei,0,0,0,,I'm a…?
+Dialogue: 0,0:07:33.21,0:07:35.22,Default,Castor,0,0,0,,That's a monster known as an ogre.
+Dialogue: 0,0:07:35.55,0:07:37.85,Default,Virgo,0,0,0,,Wow, so pretty!
+Dialogue: 0,0:07:42.10,0:07:44.65,Default,Gantz,0,0,0,,Oh? This is quite impressive.
+Dialogue: 0,0:07:45.01,0:07:48.22,Default,Gantz,0,0,0,,I can't even tell it's an \Nillusion without touching it.
+Dialogue: 0,0:07:48.73,0:07:51.08,Default,Jean,0,0,0,,It feels kind of strange.
+Dialogue: 0,0:07:51.08,0:07:53.10,Default,Jean,0,0,0,,It looks like my lower half \Nis the body of a horse,
+Dialogue: 0,0:07:53.10,0:07:56.33,Default,Jean,0,0,0,,but I can still feel myself \Nwalking on two legs.
+Dialogue: 0,0:07:56.33,0:07:59.25,Default,Petto,0,0,0,,I'm not sure I like this.
+Dialogue: 0,0:08:00.29,0:08:01.49,Default,Petto,0,0,0,,Meow!
+Dialogue: 0,0:08:09.92,0:08:11.80,Default,ViceCaptain,0,0,0,,Transformation complete.
+Dialogue: 0,0:08:13.12,0:08:15.18,Default,Sei,0,0,0,,Umm, Castor-san?
+Dialogue: 0,0:08:15.18,0:08:16.24,Default,Castor,0,0,0,,I'm sorry.
+Dialogue: 0,0:08:16.24,0:08:18.02,Default,Castor,0,0,0,,It seems I made a mistake.
+Dialogue: 0,0:08:18.02,0:08:20.73,Default,Castor,0,0,0,,That was an item for parties.
+Dialogue: 0,0:08:21.05,0:08:23.91,Default,Sei,0,0,0,,What are we going to do \Nwith those creatures?
+Dialogue: 0,0:08:23.91,0:08:25.98,Default,Castor,0,0,0,,Cover them in some cloth?
+Dialogue: 0,0:08:27.26,0:08:32.70,Default,Sei,0,0,0,,Riding a bike and dealing out \Ncool kicks doesn't suit him.
+Dialogue: 0,0:08:32.91,0:08:35.86,Default,Kross,0,0,0,,What is it, Sei? Why the \Ndisappointed expression?
+Dialogue: 0,0:08:35.86,0:08:38.16,Default,Sei,0,0,0,,N-No, it's nothing.
+Dialogue: 0,0:08:38.67,0:08:40.55,Default,Sei,0,0,0,,You're not going to drink one, Castor-san?
+Dialogue: 0,0:08:40.91,0:08:42.37,Default,Castor,0,0,0,,I'm a fairy,
+Dialogue: 0,0:08:42.37,0:08:43.88,Default,Castor,0,0,0,,so I don't need to drink it.
+Dialogue: 0,0:08:44.69,0:08:46.55,italics,Sei,0,0,0,,Is that really fine?
+Dialogue: 0,0:08:46.55,0:08:49.59,italics,Sei,0,0,0,,He looks exactly like a human, though.
+Dialogue: 0,0:08:50.67,0:08:52.30,Default,Petto,0,0,0,,It's coming into view.
+Dialogue: 0,0:08:52.30,0:08:54.85,Default,Virgo,0,0,0,,So that's the centaur village.
+Dialogue: 0,0:08:56.71,0:08:57.98,Default,ViceCaptain,0,0,0,,Let's go then.
+Dialogue: 0,0:08:57.98,0:08:59.28,Default,Sei,0,0,0,,Oh, excuse me.
+Dialogue: 0,0:08:59.28,0:09:01.23,Default,Sei,0,0,0,,You two, please wait here.
+Dialogue: 0,0:09:01.23,0:09:02.34,Default,Sei,0,0,0,,Seriously.
+Dialogue: 0,0:09:03.53,0:09:04.76,Default,ViceCaptain,0,0,0,,Why?
+Dialogue: 0,0:09:05.10,0:09:06.19,Default,Sei,0,0,0,,Umm…
+Dialogue: 0,0:09:06.19,0:09:07.77,Default,Sei,0,0,0,,To keep watch!
+Dialogue: 0,0:09:07.77,0:09:10.49,Default,Sei,0,0,0,,Please keep a lookout on the surrounding \Narea while we're in the village!
+Dialogue: 0,0:09:11.51,0:09:12.63,Default,ViceCaptain,0,0,0,,Very well!
+Dialogue: 0,0:09:15.69,0:09:18.79,Default,Derby,0,0,0,,Leon's men? What are you here for?
+Dialogue: 0,0:09:18.79,0:09:19.54,Default,Sei,0,0,0,,Huh?
+Dialogue: 0,0:09:19.54,0:09:21.93,Default,Sei,0,0,0,,No, we're not Leon's subordinates.
+Dialogue: 0,0:09:23.25,0:09:27.63,Default,Jean,0,0,0,,We came here to escape \Npersecution from humans.
+Dialogue: 0,0:09:31.78,0:09:32.46,Default,Jean,0,0,0,,Oh?
+Dialogue: 0,0:09:33.27,0:09:34.70,Default,Derby,0,0,0,,Is that so?
+Dialogue: 0,0:09:34.70,0:09:36.23,Default,Derby,0,0,0,,Sorry about that then.
+Dialogue: 0,0:09:36.23,0:09:38.76,Default,Derby,0,0,0,,We're a little on edge.
+Dialogue: 0,0:09:38.76,0:09:40.39,Default,Jean,0,0,0,,Has something happened?
+Dialogue: 0,0:09:40.39,0:09:43.60,Default,Gantz,0,0,0,,We heard that demihumans were \Nunder Leon's protection?
+Dialogue: 0,0:09:43.82,0:09:47.48,Default,Gantz,0,0,0,,So why would it have been a \Nproblem if we were with him?
+Dialogue: 0,0:09:47.99,0:09:49.82,Default,Jean,0,0,0,,Well I'm betting that's not the case.
+Dialogue: 0,0:09:50.20,0:09:51.60,Default,Derby,0,0,0,,Hmm…
+Dialogue: 0,0:09:51.60,0:09:54.11,Default,Derby,0,0,0,,I guess that's what's \Nbeing shared outside?
+Dialogue: 0,0:09:54.11,0:10:00.04,Default,Derby,0,0,0,,I suppose it might be true that we \Ncentaurs are currently under his umbrella.
+Dialogue: 0,0:10:01.50,0:10:06.31,Default,Derby,0,0,0,,Though we—or rather—our \Nleader, Lord Sagittarius,
+Dialogue: 0,0:10:06.31,0:10:11.04,Default,Derby,0,0,0,,didn't agree to join Leon.
+Dialogue: 0,0:10:11.04,0:10:13.72,Default,Derby,0,0,0,,We actually turned down his offer.
+Dialogue: 0,0:10:14.35,0:10:19.93,Default,Derby,0,0,0,,However, Leon threatened Lord Sagittarius \Nwith the destruction of our village
+Dialogue: 0,0:10:19.93,0:10:21.97,Default,Derby,0,0,0,,if we didn't follow him.
+Dialogue: 0,0:10:22.39,0:10:24.58,Default,Derby,0,0,0,,It's truly frustrating!
+Dialogue: 0,0:10:24.58,0:10:27.15,Default,Derby,0,0,0,,We regret our own powerlessness!
+Dialogue: 0,0:10:27.15,0:10:34.11,Default,Derby,0,0,0,,Because of us, Lord Sagittarius is \Nforced to cooperate against his will.
+Dialogue: 0,0:10:34.55,0:10:36.43,Default,Virgo,0,0,0,,I understand what's going on now.
+Dialogue: 0,0:10:37.30,0:10:41.19,Default,Jean,0,0,0,,They why don't you just abandon \Nthis place and run away?
+Dialogue: 0,0:10:41.19,0:10:43.91,Default,Gantz,0,0,0,,That would let Sagittarius \Nbe free too, right?
+Dialogue: 0,0:10:44.40,0:10:48.88,Default,Derby,0,0,0,,He's placed lookouts in the forest \Nto prevent us from doing so.
+Dialogue: 0,0:10:49.59,0:10:50.59,Default,Jean,0,0,0,,Lookouts?
+Dialogue: 0,0:10:52.91,0:10:57.52,Default,Derby,0,0,0,,People capable of becoming our \Nexecutioners at Leon's command,
+Dialogue: 0,0:10:57.52,0:10:59.41,Default,Derby,0,0,0,,the loathsome scum.
+Dialogue: 0,0:11:00.61,0:11:03.64,Default,Derby,0,0,0,,Well, let's not keep \Ntalking here forever.
+Dialogue: 0,0:11:03.64,0:11:05.75,Default,Derby,0,0,0,,You all should come to my house.
+Dialogue: 0,0:11:07.90,0:11:08.95,Default,Derby,0,0,0,,Now then…
+Dialogue: 0,0:11:09.27,0:11:13.15,Default,Derby,0,0,0,,You all aren't the races \Nyou appear to be, are you?
+Dialogue: 0,0:11:13.36,0:11:18.47,Default,Derby,0,0,0,,Your footsteps sounded like those \Nof creatures who walk on two legs.
+Dialogue: 0,0:11:19.34,0:11:21.56,Default,Derby,0,0,0,,You all are human, aren't you?
+Dialogue: 0,0:11:21.56,0:11:22.90,Default,Derby,0,0,0,,Is your goal
+Dialogue: 0,0:11:22.90,0:11:25.06,Default,Derby,0,0,0,,to assess the fighting \Nstrength of the demihumans
+Dialogue: 0,0:11:25.06,0:11:27.37,Default,Derby,0,0,0,,who might soon go to war with you?
+Dialogue: 0,0:11:27.37,0:11:28.83,Default,Kross,0,0,0,,I'm surprised.
+Dialogue: 0,0:11:28.83,0:11:30.59,Default,Kross,0,0,0,,That's impressive, wise one of the forest.
+Dialogue: 0,0:11:30.59,0:11:32.16,Default,Derby,0,0,0,,Did I get it right?
+Dialogue: 0,0:11:32.16,0:11:34.44,Default,Kross,0,0,0,,You're right that we are humans.
+Dialogue: 0,0:11:34.44,0:11:37.56,Default,Kross,0,0,0,,However, you're wrong about our goal.
+Dialogue: 0,0:11:37.56,0:11:40.21,Default,Derby,0,0,0,,You called me a wise one of the forest.
+Dialogue: 0,0:11:40.21,0:11:42.31,Default,Derby,0,0,0,,Are you an elf by chance?
+Dialogue: 0,0:11:43.24,0:11:48.96,Default,Kross,0,0,0,,Our goal is to investigate the reason why \NSagittarius is cooperating with Leon.
+Dialogue: 0,0:11:48.96,0:11:50.79,Default,Kross,0,0,0,,That's why we disguised ourselves.
+Dialogue: 0,0:11:50.79,0:11:51.67,Default,Derby,0,0,0,,What?!
+Dialogue: 0,0:11:51.67,0:11:52.86,Default,Derby,0,0,0,,Really then?
+Dialogue: 0,0:11:53.50,0:11:56.83,Default,Kross,0,0,0,,We've already achieved that initial goal.
+Dialogue: 0,0:11:56.83,0:12:00.10,Default,Kross,0,0,0,,So now that just leaves \Nfreeing you all from here.
+Dialogue: 0,0:12:00.45,0:12:02.78,Default,Derby,0,0,0,,Please help us.
+Dialogue: 0,0:12:02.78,0:12:04.50,Default,Derby,0,0,0,,We can't stand to keep being the reason
+Dialogue: 0,0:12:04.50,0:12:08.35,Default,Derby,0,0,0,,Sagittarius is compelled to work for him.
+Dialogue: 0,0:12:08.35,0:12:09.71,Default,Kross,0,0,0,,Of course we will!
+Dialogue: 0,0:12:14.51,0:12:15.26,Default,Centaur,0,0,0,,Elder Derby!
+Dialogue: 0,0:12:15.72,0:12:17.67,Default,Derby,0,0,0,,What's all this ruckus about?
+Dialogue: 0,0:12:17.67,0:12:18.78,Default,Centaur,0,0,0,,My apologies!
+Dialogue: 0,0:12:18.78,0:12:20.61,Default,Centaur,0,0,0,,Sargess and his men have appeared!
+Dialogue: 0,0:12:21.83,0:12:23.14,Default,Sei,0,0,0,,Sargess!
+Dialogue: 0,0:12:23.56,0:12:24.99,Default,Derby,0,0,0,,You know him?
+Dialogue: 0,0:12:25.55,0:12:26.27,Default,Sei,0,0,0,,Yes.
+Dialogue: 0,0:12:26.72,0:12:28.81,Default,Virgo,0,0,0,,The spider demihuman from back then?
+Dialogue: 0,0:12:29.63,0:12:31.77,italics,Sei,0,0,0,,Did he come here looking for us?
+Dialogue: 0,0:12:31.77,0:12:35.61,Default,Derby,0,0,0,,He's the one in charge of \Nthese demihuman villages.
+Dialogue: 0,0:12:35.61,0:12:38.08,Default,Derby,0,0,0,,It could be a simple inspection.
+Dialogue: 0,0:12:38.08,0:12:40.78,Default,Derby,0,0,0,,You all stay here.
+Dialogue: 0,0:12:45.34,0:12:47.45,title,Sign,0,0,0,,{\an8\c&H0AFF25&\pos(136,126.666)}Tyrving
+Dialogue: 0,0:12:48.95,0:12:50.92,Default,Libra,0,0,0,,Multiple life-forms detected.
+Dialogue: 0,0:12:50.92,0:12:54.30,Default,Libra,0,0,0,,Matching records for snakefolk, \Ngiants, insectfolk…
+Dialogue: 0,0:12:54.30,0:12:55.71,Default,Libra,0,0,0,,There's no mistake.
+Dialogue: 0,0:12:55.71,0:12:56.93,Default,Libra,0,0,0,,We're in Tyrving.
+Dialogue: 0,0:12:57.36,0:13:00.97,Default,Aries,0,0,0,,I bet Leon is in that \Nneedlessly large castle.
+Dialogue: 0,0:13:00.97,0:13:02.75,Default,Karkinos,0,0,0,,Well, what do we do now?
+Dialogue: 0,0:13:02.75,0:13:06.35,Default,Karkinos,0,0,0,,There's no reason for us to fight in our \Nenemy's territory on purpose, right?
+Dialogue: 0,0:13:06.79,0:13:08.79,Default,Libra,0,0,0,,There's only one option we should pursue.
+Dialogue: 0,0:13:11.67,0:13:13.73,Default,Libra,0,0,0,,A preemptive strike.
+Dialogue: 0,0:13:14.38,0:13:16.32,Default,Aigokeros,0,0,0,,I absolutely agree.
+Dialogue: 0,0:13:16.79,0:13:18.19,Default,Dina,0,0,0,,Let's get him!
+Dialogue: 0,0:13:18.87,0:13:19.95,Default,Aries,0,0,0,,Yeah.
+Dialogue: 0,0:13:19.95,0:13:22.61,Default,Scorpius,0,0,0,,Naughty boys need to be punished.
+Dialogue: 0,0:13:22.61,0:13:25.66,Default,Karkinos,0,0,0,,You all go fight!
+Dialogue: 0,0:13:25.66,0:13:28.29,Default,Libra,0,0,0,,Zubel El Genubi, maximum output.
+Dialogue: 0,0:13:28.59,0:13:29.69,Default,Aigokeros,0,0,0,,Die!
+Dialogue: 0,0:13:29.69,0:13:31.25,Default,Aigokeros,0,0,0,,Deneb Algedi!
+Dialogue: 0,0:13:31.49,0:13:33.21,Default,Dina,0,0,0,,Aqua Judge Gavel!
+Dialogue: 0,0:13:33.47,0:13:34.84,Default,Aries,0,0,0,,Mesarthim!
+Dialogue: 0,0:13:35.39,0:13:36.80,Default,Scorpius,0,0,0,,Grafias!
+Dialogue: 0,0:13:37.81,0:13:39.76,sign_generic,Sign,0,0,0,,{\b1\an2\fs10\c&HD4CEC2&\3c&H807959&\pos(321.332,317.667)}Has {\3c&H79735B&}no {\3c&H8D8870&}long-r{\3c&H8C866F&}a{\3c&H756F63&}nge a{\3c&H5D5B47&}ttacks.
+Dialogue: 0,0:13:37.99,0:13:39.76,Default,Karkinos,0,0,0,,Hey, hey, hey!
+Dialogue: 0,0:13:39.76,0:13:40.63,Default,Libra,0,0,0,,Fire!
+Dialogue: 0,0:13:42.79,0:13:44.26,Default,Libra,0,0,0,,I'll fire another shot.
+Dialogue: 0,0:13:44.26,0:13:46.36,Default,Libra,0,0,0,,Keep up the long-ranged attacks.
+Dialogue: 0,0:13:46.36,0:13:47.31,Default,Libra,0,0,0,,Here he comes!
+Dialogue: 0,0:13:59.31,0:14:00.36,Default,Leon,0,0,0,,Hey.
+Dialogue: 0,0:14:01.51,0:14:04.87,Default,Leon,0,0,0,,Now this brings me back.
+Dialogue: 0,0:14:02.78,0:14:06.07,stats,Sign,0,0,0,,{\fs12\c&HFCFDFF&\fad(90,0)\t(90,257,\c&HFCFFDF&)\4c&HFAFE7F&\t(90,257,\4c&HB9C45F&)\3c&HFAFE7F&\t(90,257,\3c&HB9C45F&)\bord1.5\shad\pos(164.619,322.096)}Leon
+Dialogue: 0,0:14:06.32,0:14:07.17,Default,Aries,0,0,0,,Leon.
+Dialogue: 0,0:14:07.82,0:14:09.36,Default,Sagittarius,0,0,0,,You're all here?
+Dialogue: 0,0:14:11.51,0:14:13.00,Default,Aries,0,0,0,,Sagittarius.
+Dialogue: 0,0:14:13.29,0:14:15.35,Default,Scorpius,0,0,0,,It's feeling stuffy in here.
+Dialogue: 0,0:14:15.35,0:14:16.88,Default,Scorpius,0,0,0,,So oppressive.
+Dialogue: 0,0:14:16.88,0:14:19.00,Default,Leon,0,0,0,,Lufas isn't here?
+Dialogue: 0,0:14:19.00,0:14:21.97,Default,Leon,0,0,0,,Looks like this'll be a boring battle.
+Dialogue: 0,0:14:22.25,0:14:25.18,Default,Aigokeros,0,0,0,,You sure talk big for a foul traitor.
+Dialogue: 0,0:14:29.99,0:14:31.85,Default,Aigokeros,0,0,0,,Lament your choices.
+Dialogue: 0,0:14:36.49,0:14:38.19,Default,Leon,0,0,0,,What's this?
+Dialogue: 0,0:14:38.57,0:14:41.28,Default,Leon,0,0,0,,That was an awfully weak punch you threw.
+Dialogue: 0,0:14:41.28,0:14:43.90,Default,Leon,0,0,0,,{\i1}This{\i0} is how you throw a punch!
+Dialogue: 0,0:14:48.12,0:14:49.40,Default,Aries,0,0,0,,Aigokeros?!
+Dialogue: 0,0:14:50.45,0:14:51.20,Default,Aries,0,0,0,,Why you!
+Dialogue: 0,0:15:00.11,0:15:03.25,Default,Scorpius,0,0,0,,You let your guard down,\Nyou big dummy!
+Dialogue: 0,0:15:03.84,0:15:08.66,Default,Scorpius,0,0,0,,Of course, you know the effect of \Nmy Shaula Skill too, don't you?
+Dialogue: 0,0:15:08.66,0:15:10.52,Default,Scorpius,0,0,0,,Once you're injected with this poison,
+Dialogue: 0,0:15:10.52,0:15:13.94,Default,Scorpius,0,0,0,,it'll never go away unless \Nyou use an Elixir or
+Dialogue: 0,0:15:14.34,0:15:16.81,Default,Scorpius,0,0,0,,one of the highest grade heaven-arts.
+Dialogue: 0,0:15:16.81,0:15:20.90,Default,Scorpius,0,0,0,,It doesn't matter how strong you are!
+Dialogue: 0,0:15:28.06,0:15:29.91,Default,Leon,0,0,0,,You're the idiot!
+Dialogue: 0,0:15:30.31,0:15:32.54,Default,Leon,0,0,0,,That just means that \NI need to kill you all
+Dialogue: 0,0:15:32.54,0:15:36.08,Default,Leon,0,0,0,,before your poison can finish spreading!
+Dialogue: 0,0:15:37.11,0:15:38.55,Default,Aries,0,0,0,,He really is strong!
+Dialogue: 0,0:15:39.77,0:15:43.05,Default,Libra,0,0,0,,Don't underestimate us, Leon.
+Dialogue: 0,0:15:43.40,0:15:44.31,Default,Leon,0,0,0,,Huh?!
+Dialogue: 0,0:15:44.77,0:15:46.55,Default,Libra,0,0,0,,Program selection.
+Dialogue: 0,0:15:48.81,0:15:50.76,Default,Libra,0,0,0,,Activate Brachium!
+Dialogue: 0,0:16:00.51,0:16:01.75,Default,Leon,0,0,0,,Weak!
+Dialogue: 0,0:16:11.77,0:16:13.43,Default,Libra,0,0,0,,Armament selection!
+Dialogue: 0,0:16:13.43,0:16:14.49,Default,Libra,0,0,0,,Astraia!
+Dialogue: 0,0:16:16.93,0:16:17.45,Default,Leon,0,0,0,,Hmm?!
+Dialogue: 0,0:16:17.45,0:16:18.67,Default,Leon,0,0,0,,What's that?!
+Dialogue: 0,0:16:23.46,0:16:24.92,Default,Leon,0,0,0,,So annoying!
+Dialogue: 0,0:16:29.97,0:16:31.43,Default,Libra,0,0,0,,Astraia!
+Dialogue: 0,0:16:31.84,0:16:33.18,Default,Leon,0,0,0,,That's damn annoying!
+Dialogue: 0,0:16:33.18,0:16:34.25,Default,Libra,0,0,0,,Link!
+Dialogue: 0,0:16:45.65,0:16:47.07,Default,Libra,0,0,0,,Transformation complete!
+Dialogue: 0,0:16:49.23,0:16:50.19,Default,Libra,0,0,0,,At the ready!
+Dialogue: 0,0:16:51.28,0:16:52.48,Default,Libra,0,0,0,,Maximum firepower.
+Dialogue: 0,0:16:52.48,0:16:53.38,Default,Leon,0,0,0,,What is that thing?!
+Dialogue: 0,0:16:53.38,0:16:54.98,Default,Libra,0,0,0,,Release all cannons.
+Dialogue: 0,0:16:55.77,0:16:56.66,Default,Libra,0,0,0,,Full fire!
+Dialogue: 0,0:17:09.19,0:17:10.32,Default,Leon,0,0,0,,Sagittarius!
+Dialogue: 0,0:17:10.32,0:17:11.12,Default,Sagittarius,0,0,0,,Right.
+Dialogue: 0,0:17:12.59,0:17:13.97,Default,Sagittarius,0,0,0,,Al Nassr!
+Dialogue: 0,0:17:16.43,0:17:18.61,Default,Leon,0,0,0,,You're mine!
+Dialogue: 0,0:17:26.10,0:17:27.47,Default,Leon,0,0,0,,Now to finish you!
+Dialogue: 0,0:17:29.11,0:17:30.61,Default,Karkinos,0,0,0,,Tsk, tsk, tsk!
+Dialogue: 0,0:17:30.61,0:17:31.57,Default,Leon,0,0,0,,Hmm?!
+Dialogue: 0,0:17:31.57,0:17:34.91,Default,Karkinos,0,0,0,,Have you forgotten about me, Leon?
+Dialogue: 0,0:17:36.39,0:17:37.62,Default,Karkinos,0,0,0,,You can have this back.
+Dialogue: 0,0:17:38.20,0:17:39.22,Default,Karkinos,0,0,0,,Acubens!
+Dialogue: 0,0:17:44.41,0:17:45.42,Default,Leon,0,0,0,,You bastard!
+Dialogue: 0,0:17:47.07,0:17:51.71,Default,Leon,0,0,0,,All you can do is wait for your enemy\Nto attack, you stupid crustacean!
+Dialogue: 0,0:17:51.71,0:17:54.62,Default,Karkinos,0,0,0,,Yes! Yes! Yes!
+Dialogue: 0,0:17:54.62,0:17:57.10,Default,Karkinos,0,0,0,,You're right that that's all I can do.
+Dialogue: 0,0:17:57.10,0:17:59.39,Default,Karkinos,0,0,0,,But because that's all I can do,
+Dialogue: 0,0:17:59.79,0:18:02.85,Default,Karkinos,0,0,0,,no one can ever beat me in that regard.
+Dialogue: 0,0:18:02.85,0:18:03.81,Default,Leon,0,0,0,,Huh?!
+Dialogue: 0,0:18:09.17,0:18:10.44,Default,Leon,0,0,0,,You bastard!
+Dialogue: 0,0:18:10.44,0:18:11.57,Default,Sagittarius,0,0,0,,Stop it, Leon!
+Dialogue: 0,0:18:11.57,0:18:12.41,Default,Sagittarius,0,0,0,,Don't attack!
+Dialogue: 0,0:18:12.41,0:18:15.57,Default,Sagittarius,0,0,0,,All he can do is wait for \Nyou and then counterattack!
+Dialogue: 0,0:18:15.99,0:18:17.08,Default,Leon,0,0,0,,Shut up!
+Dialogue: 0,0:18:28.09,0:18:28.91,Default,Karkinos,0,0,0,,Leon…
+Dialogue: 0,0:18:31.70,0:18:33.59,Default,Karkinos,0,0,0,,come on!
+Dialogue: 0,0:18:44.81,0:18:47.23,Default,Libra,0,0,0,,Karkinos's role is to tank.
+Dialogue: 0,0:18:47.23,0:18:51.61,Default,Libra,0,0,0,,He shines the most when protecting \Nallies in party battles.
+Dialogue: 0,0:18:52.23,0:18:57.54,Default,Libra,0,0,0,,And Leon's strength lies in his high \Nstats granting him the power to crush foes
+Dialogue: 0,0:18:57.54,0:18:59.58,Default,Libra,0,0,0,,head-on without relying on skills.
+Dialogue: 0,0:18:59.99,0:19:04.47,Default,Libra,0,0,0,,As such, Karkinos's specialization \Nin defense and counterattacks is
+Dialogue: 0,0:19:05.04,0:19:06.29,Default,Libra,0,0,0,,the worst match-up for him.
+Dialogue: 0,0:19:18.42,0:19:19.05,Default,Karkinos,0,0,0,,Hey.
+Dialogue: 0,0:19:20.96,0:19:21.59,Default,Dina,0,0,0,,Hey!
+Dialogue: 0,0:19:23.54,0:19:25.02,Default,Karkinos,0,0,0,,Bring it!
+Dialogue: 0,0:19:25.48,0:19:26.19,Default,Sagittarius,0,0,0,,Tsk!
+Dialogue: 0,0:19:32.86,0:19:34.15,Default,Karkinos,0,0,0,,Checkmate.
+Dialogue: 0,0:19:34.15,0:19:35.88,Default,Karkinos,0,0,0,,That's the match, Leon.
+Dialogue: 0,0:19:36.19,0:19:37.55,Default,Leon,0,0,0,,Screw you!
+Dialogue: 0,0:19:37.55,0:19:41.08,Default,Leon,0,0,0,,I'm not going to lose \Nto weak trash like you!
+Dialogue: 0,0:19:40.46,0:19:41.67,top,Aigokeros,0,0,0,,I'm sick of hearing that.
+Dialogue: 0,0:19:47.88,0:19:49.63,Default,Scorpius,0,0,0,,I'm so sorry.
+Dialogue: 0,0:19:50.03,0:19:55.73,Default,Scorpius,0,0,0,,I can't hear the words of even weaker \Ntrash who would lose to such weak trash!
+Dialogue: 0,0:19:55.73,0:19:58.83,Default,Scorpius,0,0,0,,Quit barking like you're important, \Nyou towering mountain of shit
+Dialogue: 0,0:19:58.83,0:20:01.25,Default,Scorpius,0,0,0,,who betrayed Lady Lufas!
+Dialogue: 0,0:20:02.06,0:20:02.87,Default,Scorpius,0,0,0,,Hey, it's true, right?!
+Dialogue: 0,0:20:02.87,0:20:03.93,Default,Scorpius,0,0,0,,Say something already!
+Dialogue: 0,0:20:03.93,0:20:05.37,Default,Scorpius,0,0,0,,You all agree, don't you?!
+Dialogue: 0,0:20:05.37,0:20:06.99,top,Scorpius,0,0,0,,I mean, Lady Lufas is \Nabsolutely in the right,
+Dialogue: 0,0:20:06.99,0:20:09.72,top,Scorpius,0,0,0,,so of course this guy who dared to defy \Nher is entirely in the wrong, yeah?!
+Dialogue: 0,0:20:07.13,0:20:08.45,Default,Aries,0,0,0,,What now?
+Dialogue: 0,0:20:08.45,0:20:09.72,Default,Aries,0,0,0,,Should we stop her?
+Dialogue: 0,0:20:09.72,0:20:11.43,Default,Aigokeros,0,0,0,,There's no need for that.
+Dialogue: 0,0:20:09.72,0:20:13.02,top,Scorpius,0,0,0,,Why can't you understand something \Nso simple, you big idiot?!
+Dialogue: 0,0:20:11.44,0:20:12.38,Default,Libra,0,0,0,,No.
+Dialogue: 0,0:20:12.38,0:20:13.96,Default,Libra,0,0,0,,Even if he is a traitor,
+Dialogue: 0,0:20:13.02,0:20:16.78,top,Scorpius,0,0,0,,Oh, right, it's because you're \Nnot thinking at all, isn't it?!
+Dialogue: 0,0:20:13.96,0:20:17.40,Default,Libra,0,0,0,,we cannot kill him without \NMaster's permission.
+Dialogue: 0,0:20:16.78,0:20:17.75,top,Scorpius,0,0,0,,Come on! Come on, come on!
+Dialogue: 0,0:20:17.74,0:20:20.62,Default,Libra,0,0,0,,Let's stop her when he's right \Non the very verge of death.
+Dialogue: 0,0:20:17.75,0:20:21.15,top,Scorpius,0,0,0,,Rub your filthy face against the \Nground and apologize to Lady Lufas!
+Dialogue: 0,0:20:21.15,0:20:23.38,top,Scorpius,0,0,0,,Admit that you're a dumb a piece \Nof trash who's entirely at fault,
+Dialogue: 0,0:20:22.12,0:20:24.50,italics,Leon,0,0,0,,I won't admit that! Not ever!
+Dialogue: 0,0:20:23.38,0:20:25.12,top,Scorpius,0,0,0,,beg for her forgiveness!
+Dialogue: 0,0:20:24.50,0:20:26.83,italics,Leon,0,0,0,,I'll never admit that!
+Dialogue: 0,0:20:28.03,0:20:30.33,Default,Alovenus,0,0,0,,Do you seek power?
+Dialogue: 0,0:20:31.76,0:20:36.13,Default,Alovenus,0,0,0,,If you wish for it,\NI could grant it to you.
+Dialogue: 0,0:20:37.59,0:20:39.79,Default,Leon,0,0,0,,Yes, power.
+Dialogue: 0,0:20:39.79,0:20:42.27,Default,Leon,0,0,0,,If I had more power,\NI wouldn't lose to anyone.
+Dialogue: 0,0:20:42.27,0:20:44.72,Default,Leon,0,0,0,,I could even challenge Lufas.
+Dialogue: 0,0:20:45.27,0:20:46.54,Default,Leon,0,0,0,,Skip the pitch.
+Dialogue: 0,0:20:46.54,0:20:49.27,Default,Leon,0,0,0,,Don't waste time prattling on and \Nhand over that power already!
+Dialogue: 0,0:20:49.27,0:20:51.84,Default,Leon,0,0,0,,Just shut up and present \Nthat power to me!
+Dialogue: 0,0:20:52.72,0:20:54.15,Default,Alovenus,0,0,0,,Very well then.
+Dialogue: 0,0:20:54.69,0:20:57.24,Default,Alovenus,0,0,0,,I shall grant your wish.
+Dialogue: 0,0:21:05.13,0:21:08.12,title,Sign,0,0,0,,{\fs40\an8\pos(440,154.667)\c&H3344DC&}Mjolnir
+Dialogue: 0,0:21:07.01,0:21:07.74,Default,Lufas,0,0,0,,Hmm…
+Dialogue: 0,0:21:08.12,0:21:11.22,Default,Lufas,0,0,0,,Mjolnir, the nation of eternal night.
+Dialogue: 0,0:21:11.58,0:21:13.58,Default,Lufas,0,0,0,,Maybe we'll do a bit of sightseeing?
+Dialogue: 0,0:21:15.87,0:21:16.97,Default,Benet,0,0,0,,Hey, come on!
+Dialogue: 0,0:21:19.23,0:21:20.05,Default,Lufas,0,0,0,,Benet?
+Dialogue: 0,0:21:20.47,0:21:22.60,Default,Benetnasch,0,0,0,,I was wondering what you were up to
+Dialogue: 0,0:21:22.60,0:21:25.37,Default,Benetnasch,0,0,0,,when you didn't show up\Nwhile I waited in the castle.
+Dialogue: 0,0:21:25.37,0:21:27.52,Default,Benetnasch,0,0,0,,That's some nerve you \Nhave, trying to sightsee.
+Dialogue: 0,0:21:27.52,0:21:29.48,Default,Lufas,0,0,0,,Well, don't be so hasty.
+Dialogue: 0,0:21:29.48,0:21:31.81,Default,Lufas,0,0,0,,We do plan on heading to you afterward.
+Dialogue: 0,0:21:32.33,0:21:35.55,Default,Lufas,0,0,0,,By the way, any good \Nspots you'd recommend?
+Dialogue: 0,0:21:35.55,0:21:38.35,Default,Lufas,0,0,0,,We've been searching for a souvenir \Nshop, but we haven't found any.
+Dialogue: 0,0:21:38.75,0:21:41.75,Default,Benetnasch,0,0,0,,Have you grown more easygoing?
+Dialogue: 0,0:21:41.75,0:21:42.99,Default,Lufas,0,0,0,,We hear that often.
+Dialogue: 0,0:21:43.25,0:21:45.58,Default,Benetnasch,0,0,0,,At any rate, stop wasting time here, and—
+Dialogue: 0,0:21:45.58,0:21:47.66,Default,Lufas,0,0,0,,No need to be so strict about it.
+Dialogue: 0,0:21:47.66,0:21:49.14,Default,Lufas,0,0,0,,We finally managed to reunite,
+Dialogue: 0,0:21:49.14,0:21:51.99,Default,Lufas,0,0,0,,so it would be boring if we started \Nkilling each other right away.
+Dialogue: 0,0:21:51.99,0:21:55.52,Default,Lufas,0,0,0,,Come on, tell us what the\Ncapital has to offer.
+Dialogue: 0,0:21:58.81,0:22:00.71,Default,Lufas,0,0,0,,Perhaps we should just go home…
+Dialogue: 0,0:22:02.67,0:22:04.01,Default,Benetnasch,0,0,0,,I'll show you around.
+Dialogue: 0,0:22:04.01,0:22:04.84,Default,Benetnasch,0,0,0,,Follow me.
+
