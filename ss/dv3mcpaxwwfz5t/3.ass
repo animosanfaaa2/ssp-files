@@ -1,0 +1,361 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:32.29,0:01:37.15,Cart_A_Tim,CARTEL,0,0,0,,{\fad(133,493)\fs18\bord0\shad1\4a&H60&\pos(395.41,294.46)}Episodio {\t(425,717,\c&H0900B7&)}21  {\c&HFFFFFF&} ¡Apareció {\t(425,717,\c&H0900B7&)}Benetnasch, {\c&HFFFFFF&}la princesa vampira!
+Dialogue: 1,0:01:34.92,0:01:38.66,Gen_Main_Up,Lufas,0,0,0,,Tyrving, en el extremo norte\Ndel territorio humano…
+Dialogue: 0,0:01:38.73,0:01:42.73,Gen_Main,Lufas,0,0,0,,Leo es su líder, y allí viven\Nlos no reconocidos como humanos.
+Dialogue: 0,0:01:43.08,0:01:45.95,Gen_Main,Lufas,0,0,0,,La tierra de los semihumanos, ¿eh?
+Dialogue: 0,0:01:46.59,0:01:51.30,Gen_Main,Lufas,0,0,0,,Aun así, me sorprende que no la invadan\Ncon los demonios tan cerca.
+Dialogue: 0,0:01:51.37,0:01:53.15,Gen_Main,Dina,0,0,0,,Es porque cerca está Mjolnir,
+Dialogue: 0,0:01:53.25,0:01:56.46,Gen_Main,Dina,0,0,0,,el país sumido en tinieblas\Nque dirige Benetnasch.
+Dialogue: 0,0:01:56.54,0:02:01.08,Gen_Main,Dina,0,0,0,,De hecho, los demonios lo invadieron\Npara ampliar su territorio,
+Dialogue: 0,0:02:01.17,0:02:04.20,Gen_Main,Dina,0,0,0,,pero Benetnasch los aplastó\Ny les fue fatal.
+Dialogue: 0,0:02:04.83,0:02:07.48,Gen_Main,Lufas,0,0,0,,¿El rey demonio no peleó con Benet?
+Dialogue: 0,0:02:07.83,0:02:09.79,Gen_Main,Dina,0,0,0,,Parece que hubo una escaramuza,
+Dialogue: 0,0:02:09.88,0:02:12.96,Gen_Main,Dina,0,0,0,,pero ambos se retiraron\Nsin usar toda su fuerza.
+Dialogue: 0,0:02:13.95,0:02:15.76,Gen_Italics,Lufas,0,0,0,,No quiero encontrármela…
+Dialogue: 0,0:02:15.81,0:02:20.15,Gen_Italics,Lufas,0,0,0,,Por lo que oigo,\Ncontra mí jamás se retiraría…
+Dialogue: 0,0:02:21.01,0:02:24.79,Gen_Main,Lufas,0,0,0,,Si Benet no nota mi presencia,\Nno habrá ningún problema…
+Dialogue: 0,0:02:24.86,0:02:27.50,Gen_Main,Aigokeros,0,0,0,,La notará. Sin duda alguna.
+Dialogue: 0,0:02:27.87,0:02:29.51,Gen_Italics,Lufas,0,0,0,,¡Me lo negó sin más!
+Dialogue: 0,0:02:29.91,0:02:33.19,Gen_Main,Aigokeros,0,0,0,,Los vampiros son lo más afín\Na nosotros, los demonios.
+Dialogue: 0,0:02:33.28,0:02:37.72,Gen_Main,Aigokeros,0,0,0,,Es imposible que no note\Nel aura demoníaca que emana de usted.
+Dialogue: 0,0:03:01.63,0:03:03.70,Cart_A_Tre,CARTEL,0,0,0,,{\an2\fad(170,0)\bord1.5\blur2\fs16\3c&H99B91A&\pos(491.79,270.08)}Benetnasch
+Dialogue: 0,0:03:03.70,0:03:04.97,Gen_Main,Aries,0,0,0,,¡Benetnasch!
+Dialogue: 0,0:03:05.08,0:03:07.87,Gen_Main,Aigokeros,0,0,0,,¿Así que te presentas tan campante?
+Dialogue: 0,0:03:09.31,0:03:12.31,Gen_Main,Benetnasch,0,0,0,,Cuánto tiempo, Lufas Maphaahl.
+Dialogue: 0,0:03:12.43,0:03:14.76,Gen_Main,Benetnasch,0,0,0,,Doscientos años y cuatro meses.
+Dialogue: 0,0:03:15.56,0:03:18.30,Gen_Main,Benetnasch,0,0,0,,Me alegra que sigas con vida.
+Dialogue: 0,0:03:19.79,0:03:22.01,Gen_Main,Lufas,0,0,0,,Veo que tú tampoco has cambiado.
+Dialogue: 0,0:03:22.08,0:03:23.62,Gen_Main,Benetnasch,0,0,0,,No he cambiado.
+Dialogue: 0,0:03:23.71,0:03:27.02,Gen_Main,Benetnasch,0,0,0,,Desde aquel momento,\Nmi tiempo sigue detenido.
+Dialogue: 0,0:03:27.66,0:03:32.57,Cart_A_Tre,CARTEL,0,0,0,,{\an1\fad(1382,0)\bord1\blur2\b0\3a&H40&\c&H222222&\fs18\3c&HFFFFFF&\pos(43.21,297.67)}Hace 200 años y 4 meses…
+Dialogue: 0,0:03:34.72,0:03:36.34,Gen_Main,Benetnasch,0,0,0,,¡Aquí voy, Maphaahl!
+Dialogue: 0,0:03:36.45,0:03:38.44,Gen_Main,Benetnasch,0,0,0,,¡Acabemos con este golpe!
+Dialogue: 0,0:03:38.91,0:03:41.74,Gen_Main,Lufas,0,0,0,,Sí. ¡Ven, Benet!
+Dialogue: 0,0:03:48.67,0:03:50.71,Gen_Italics,Benetnasch,0,0,0,,¡¿Qué?! ¡¿Magia de interferencia?!
+Dialogue: 0,0:03:58.24,0:03:59.72,Gen_Main,Benetnasch,0,0,0,,¡No estorben, malditos!
+Dialogue: 0,0:04:00.06,0:04:02.25,Gen_Main,Benetnasch,0,0,0,,¿Qué significa… esto?
+Dialogue: 0,0:04:03.68,0:04:05.79,Gen_Main,Benetnasch,0,0,0,,¡¿Rebosan de poder divino?!
+Dialogue: 0,0:04:10.03,0:04:11.69,Gen_Main,Benetnasch,0,0,0,,¡Cómo te atreves!
+Dialogue: 0,0:04:12.59,0:04:16.56,Gen_Main,Lufas,0,0,0,,Perdona, Benet.\NLo zanjaremos en otra ocasión.
+Dialogue: 0,0:04:16.64,0:04:18.47,Gen_Main,Benetnasch,0,0,0,,¡Espera, Maphaahl!
+Dialogue: 0,0:04:18.55,0:04:21.59,Gen_Main,Lufas,0,0,0,,No te preocupes. Volveré sin falta.
+Dialogue: 0,0:04:21.71,0:04:24.37,Gen_Main,Lufas,0,0,0,,Hasta entonces, afila tus colmillos.
+Dialogue: 0,0:04:26.66,0:04:30.64,Gen_Main,Benetnasch,0,0,0,,¡Maphaahl!
+Dialogue: 0,0:04:33.68,0:04:36.71,Gen_Main,Benetnasch,0,0,0,,Y tú nunca volviste.
+Dialogue: 0,0:04:37.34,0:04:41.51,Gen_Main,Benetnasch,0,0,0,,Desde entonces,\Nno puedo cambiar aunque quiera.
+Dialogue: 0,0:04:44.22,0:04:46.68,Gen_Main,Benetnasch,0,0,0,,Ni lo intentes, marioneta.
+Dialogue: 0,0:04:46.91,0:04:49.66,Gen_Main,Benetnasch,0,0,0,,Hoy estoy de buen humor,\Nlo cual es raro.
+Dialogue: 0,0:04:49.77,0:04:52.09,Gen_Main,Benetnasch,0,0,0,,Si no haces nada, te dejaré ir,
+Dialogue: 0,0:04:52.17,0:04:55.40,Gen_Main,Benetnasch,0,0,0,,pero si estorbas en mi reencuentro\Ncon Maphaahl,
+Dialogue: 0,0:04:56.75,0:04:59.03,Gen_Main,Benetnasch,0,0,0,,no garantizo que salgas ilesa.
+Dialogue: 0,0:05:05.60,0:05:06.91,Gen_Italics,Lufas,0,0,0,,Qué gran poder…
+Dialogue: 0,0:05:07.27,0:05:09.95,Gen_Main,Benetnasch,0,0,0,,Lo mismo va para ustedes, doce astros.
+Dialogue: 0,0:05:10.02,0:05:14.23,Gen_Main,Benetnasch,0,0,0,,Admito que tienen algo de habilidad,\Npero no son rivales para mí.
+Dialogue: 0,0:05:14.35,0:05:17.42,Gen_Main,Benetnasch,0,0,0,,Si no quieren morir,\Nquédense temblando en un rincón.
+Dialogue: 0,0:05:17.60,0:05:18.60,Gen_Main,Scorpius,0,0,0,,¡Vaya!
+Dialogue: 0,0:05:18.66,0:05:21.38,Gen_Main,Scorpius,0,0,0,,¡Qué atrevida eres, pequeñita!
+Dialogue: 0,0:05:22.37,0:05:24.28,Gen_Main,Aigokeros,0,0,0,,¿Osas burlarte de nosotros?
+Dialogue: 0,0:05:24.38,0:05:25.38,Gen_Main,Lufas,0,0,0,,¡Atrás!
+Dialogue: 0,0:05:25.59,0:05:26.81,Gen_Main,Lufas,0,0,0,,No le sigan el juego.
+Dialogue: 0,0:05:29.89,0:05:31.18,Gen_Main,Benetnasch,0,0,0,,Sabia decisión.
+Dialogue: 0,0:05:32.60,0:05:35.98,Gen_Main,Benetnasch,0,0,0,,Solo tú eres capaz de pelear conmigo.
+Dialogue: 0,0:05:37.86,0:05:40.46,Gen_Main,Benetnasch,0,0,0,,Solo tengo un deseo.
+Dialogue: 0,0:05:40.58,0:05:43.84,Gen_Main,Benetnasch,0,0,0,,Esta vez quiero zanjarlo todo contigo,
+Dialogue: 0,0:05:44.91,0:05:48.62,Gen_Main,Benetnasch,0,0,0,,a solas y sin que nadie interfiera.
+Dialogue: 0,0:05:49.13,0:05:52.33,Gen_Main,Lufas,0,0,0,,¿Dices que viniste solo a decirme eso?
+Dialogue: 0,0:05:52.98,0:05:55.15,Gen_Main,Benetnasch,0,0,0,,No vayas a huir, Maphaahl.
+Dialogue: 0,0:05:55.54,0:06:00.80,Gen_Main,Benetnasch,0,0,0,,Esperé 200 largos años\Nsolo para zanjar lo nuestro.
+Dialogue: 0,0:06:00.87,0:06:01.94,Gen_Main,Lufas,0,0,0,,No te preocupes.
+Dialogue: 0,0:06:01.99,0:06:04.29,Gen_Main,Lufas,0,0,0,,Es la invitación de una vieja amiga.
+Dialogue: 0,0:06:04.37,0:06:06.27,Gen_Main,Lufas,0,0,0,,La acepto con gusto.
+Dialogue: 0,0:06:07.31,0:06:08.49,Gen_Main,Benetnasch,0,0,0,,Entonces, bien.
+Dialogue: 0,0:06:08.61,0:06:13.20,Gen_Main,Benetnasch,0,0,0,,Solo yo tengo derecho a matarte,\Ny solo tú tienes derecho a matarme.
+Dialogue: 0,0:06:13.31,0:06:14.52,Gen_Main,Benetnasch,0,0,0,,No cederé en eso.
+Dialogue: 0,0:06:16.77,0:06:20.11,Gen_Main,Benetnasch,0,0,0,,¡Esta vez pelearemos\Nhasta que una de las dos muera!
+Dialogue: 0,0:06:22.19,0:06:23.27,Gen_Main,Benetnasch,0,0,0,,Hasta entonces.
+Dialogue: 0,0:06:23.35,0:06:24.96,Gen_Main,Benetnasch,0,0,0,,¡Te estaré esperando!
+Dialogue: 0,0:06:29.28,0:06:30.33,Gen_Italics,Lufas,0,0,0,,¿Qué hago?
+Dialogue: 0,0:06:30.40,0:06:32.23,Gen_Italics,Lufas,0,0,0,,Esa chica es muy intensa…
+Dialogue: 0,0:06:34.12,0:06:35.51,Gen_Main,Dina,0,0,0,,¿Qué piensa hacer?
+Dialogue: 0,0:06:35.91,0:06:39.00,Gen_Main,Lufas,0,0,0,,Ustedes vayan por Leo, como planeamos.
+Dialogue: 0,0:06:39.51,0:06:41.34,Gen_Main,Lufas,0,0,0,,Yo iré a Mjolnir.
+Dialogue: 0,0:06:42.21,0:06:44.69,Gen_Main,Lufas,0,0,0,,Para zanjar las cosas con Benet.
+Dialogue: 0,0:06:49.07,0:06:54.06,Gen_Main,Castor,0,0,0,,Antes de ir a la aldea de los centauros,\Nquiero que beban eso.
+Dialogue: 0,0:06:54.13,0:06:55.99,Gen_Main,Castor,0,0,0,,Si beben esta poción mágica,
+Dialogue: 0,0:06:56.12,0:06:59.27,Gen_Main,Castor,0,0,0,,parecerán tener otra forma\Ndurante unas tres horas.
+Dialogue: 0,0:06:59.34,0:07:01.08,Gen_Main,Kross,0,0,0,,¿Está seguro?
+Dialogue: 0,0:07:01.21,0:07:03.59,Gen_Main,Kross,0,0,0,,Parecen pociones muy valiosas.
+Dialogue: 0,0:07:03.93,0:07:06.35,Gen_Main,Castor,0,0,0,,Para nosotros no lo son tanto.
+Dialogue: 0,0:07:06.75,0:07:08.43,Gen_Main,Castor,0,0,0,,Úsenlas con confianza.
+Dialogue: 0,0:07:10.03,0:07:14.23,Gen_Main,Kross,0,0,0,,Para no alertar a los semihumanos,\Nno nos queda otra opción.
+Dialogue: 0,0:07:14.86,0:07:15.86,Gen_Main,Kross,0,0,0,,Entonces…
+Dialogue: 0,0:07:31.83,0:07:32.83,Gen_Main,Sei,0,0,0,,¿Esto es…?
+Dialogue: 0,0:07:33.21,0:07:35.22,Gen_Main,Castor,0,0,0,,Es un monstruo llamado ogro.
+Dialogue: 0,0:07:35.55,0:07:37.85,Gen_Main,Virgo,0,0,0,,¡Ay, qué bonitas!
+Dialogue: 0,0:07:42.10,0:07:44.65,Gen_Main,Gantz,0,0,0,,Vaya… Esto es impresionante.
+Dialogue: 0,0:07:45.01,0:07:48.22,Gen_Main,Gantz,0,0,0,,Si no lo tocas,\Nni se nota que es una ilusión.
+Dialogue: 0,0:07:48.73,0:07:50.97,Gen_Main,Jean,0,0,0,,Se siente un poco raro.
+Dialogue: 0,0:07:51.08,0:07:56.33,Gen_Main,Jean,0,0,0,,Abajo me veo como caballo,\Npero siento que sigo en dos piernas.
+Dialogue: 0,0:07:56.40,0:07:59.25,Gen_Main,Kaineko,0,0,0,,No sé si esto me convence…
+Dialogue: 0,0:08:09.92,0:08:11.80,Gen_Main,ViceCaptain,0,0,0,,Transformación completa.
+Dialogue: 0,0:08:13.12,0:08:15.07,Gen_Main,Sei,0,0,0,,Este… ¿Castor?
+Dialogue: 0,0:08:15.18,0:08:16.24,Gen_Main,Castor,0,0,0,,Lo siento.
+Dialogue: 0,0:08:16.29,0:08:18.02,Gen_Main,Castor,0,0,0,,Parece que me equivoqué.
+Dialogue: 0,0:08:18.09,0:08:20.73,Gen_Main,Castor,0,0,0,,Era un objeto de broma para fiestas.
+Dialogue: 0,0:08:21.05,0:08:23.91,Gen_Main,Sei,0,0,0,,¿Qué hacemos con esas criaturas?
+Dialogue: 0,0:08:23.97,0:08:25.98,Gen_Main,Castor,0,0,0,,¿Los cubrimos con una tela?
+Dialogue: 0,0:08:27.26,0:08:32.70,Gen_Main,Sei,0,0,0,,No le queda eso de andar en moto\Ny dar patadas geniales.
+Dialogue: 0,0:08:32.91,0:08:35.86,Gen_Main,Kross,0,0,0,,¿Qué pasa, Sei?\N¿Por qué esa cara de decepción?
+Dialogue: 0,0:08:35.94,0:08:38.16,Gen_Main,Sei,0,0,0,,No, no es nada.
+Dialogue: 0,0:08:38.67,0:08:40.55,Gen_Main,Sei,0,0,0,,¿Usted no va a beber, Castor?
+Dialogue: 0,0:08:40.91,0:08:43.88,Gen_Main,Castor,0,0,0,,Como soy un hada,\Nno me hace falta beberla.
+Dialogue: 0,0:08:44.69,0:08:46.44,Gen_Italics,Sei,0,0,0,,¿De verdad con eso basta?
+Dialogue: 0,0:08:46.55,0:08:49.59,Gen_Italics,Sei,0,0,0,,Pero si parece totalmente humano…
+Dialogue: 0,0:08:50.67,0:08:52.30,Gen_Main,Kaineko,0,0,0,,Ya se alcanza a ver.
+Dialogue: 0,0:08:52.37,0:08:54.85,Gen_Main,Virgo,0,0,0,,Esa es la aldea de los centauros.
+Dialogue: 0,0:08:56.71,0:08:57.98,Gen_Main,ViceCaptain,0,0,0,,Entonces, vamos.
+Dialogue: 0,0:08:58.04,0:08:59.16,Gen_Main,Sei,0,0,0,,Ah, disculpen.
+Dialogue: 0,0:08:59.28,0:09:01.23,Gen_Main,Sei,0,0,0,,Ustedes dos, esperen aquí.
+Dialogue: 0,0:09:01.30,0:09:02.34,Gen_Main,Sei,0,0,0,,En serio.
+Dialogue: 0,0:09:03.53,0:09:04.76,Gen_Main,ViceCaptain,0,0,0,,¿Por qué?
+Dialogue: 0,0:09:05.10,0:09:06.19,Gen_Main,Sei,0,0,0,,Este…
+Dialogue: 0,0:09:06.26,0:09:07.67,Gen_Main,Sei,0,0,0,,¡Para vigilar!
+Dialogue: 0,0:09:07.77,0:09:10.49,Gen_Main,Sei,0,0,0,,¡Vigilen la zona\Nmientras estamos en la aldea!
+Dialogue: 0,0:09:11.51,0:09:12.63,Gen_Main,ViceCaptain,0,0,0,,¡Entendido!
+Dialogue: 0,0:09:15.69,0:09:18.79,Gen_Main,Derby,0,0,0,,¿Gente de Leo? ¿Qué quieren?
+Dialogue: 0,0:09:19.61,0:09:21.93,Gen_Main,Sei,0,0,0,,No, no somos subordinados de Leo…
+Dialogue: 0,0:09:23.25,0:09:27.63,Gen_Main,Jean,0,0,0,,Vinimos aquí para huir\Nde la discriminación de los humanos.
+Dialogue: 0,0:09:33.27,0:09:34.61,Gen_Main,Derby,0,0,0,,Ah, era eso.
+Dialogue: 0,0:09:34.70,0:09:36.23,Gen_Main,Derby,0,0,0,,Disculpen, entonces.
+Dialogue: 0,0:09:36.29,0:09:38.66,Gen_Main,Derby,0,0,0,,Andamos un poco tensos.
+Dialogue: 0,0:09:38.76,0:09:40.39,Gen_Main,Jean,0,0,0,,¿Pasó algo?
+Dialogue: 0,0:09:40.46,0:09:43.60,Gen_Main,Gantz,0,0,0,,Oí que los semihumanos\Nestaban bajo el mando de Leo.
+Dialogue: 0,0:09:43.82,0:09:47.48,Gen_Main,Gantz,0,0,0,,Entonces, ¿qué problema habría\Nsi fuéramos de los suyos?
+Dialogue: 0,0:09:47.99,0:09:49.82,Gen_Main,Jean,0,0,0,,Aunque no lo somos, claro.
+Dialogue: 0,0:09:50.20,0:09:51.50,Gen_Main,Derby,0,0,0,,Ah, sí…
+Dialogue: 0,0:09:51.60,0:09:54.11,Gen_Main,Derby,0,0,0,,Así que eso se dice afuera…
+Dialogue: 0,0:09:54.18,0:10:00.04,Gen_Main,Derby,0,0,0,,Quizá sea cierto que hoy los centauros\Nestamos bajo su mando…
+Dialogue: 0,0:10:01.50,0:10:06.31,Gen_Main,Derby,0,0,0,,Nosotros… o más bien nuestro líder,\Nel señor Sagitario,
+Dialogue: 0,0:10:06.36,0:10:10.94,Gen_Main,Derby,0,0,0,,nunca vio bien aliarse con Leo.
+Dialogue: 0,0:10:11.04,0:10:13.72,Gen_Main,Derby,0,0,0,,De hecho, rechazó su invitación.
+Dialogue: 0,0:10:14.35,0:10:19.93,Gen_Main,Derby,0,0,0,,Pero Leo amenazó al señor Sagitario\Ncon destruir nuestra aldea
+Dialogue: 0,0:10:20.00,0:10:21.97,Gen_Main,Derby,0,0,0,,si no lo obedecía.
+Dialogue: 0,0:10:22.39,0:10:24.45,Gen_Main,Derby,0,0,0,,¡Es tan frustrante!
+Dialogue: 0,0:10:24.58,0:10:27.15,Gen_Main,Derby,0,0,0,,¡Odio mi propia impotencia!
+Dialogue: 0,0:10:27.21,0:10:34.11,Gen_Main,Derby,0,0,0,,Por culpa nuestra,\Nel señor Sagitario coopera a la fuerza.
+Dialogue: 0,0:10:34.55,0:10:36.43,Gen_Main,Virgo,0,0,0,,Ya entiendo la situación.
+Dialogue: 0,0:10:37.30,0:10:41.09,Gen_Main,Jean,0,0,0,,Entonces, ¿por qué no abandonan\Nla aldea y huyen de una vez?
+Dialogue: 0,0:10:41.19,0:10:43.91,Gen_Main,Gantz,0,0,0,,Así Sagitario también sería libre, ¿no?
+Dialogue: 0,0:10:44.40,0:10:48.88,Gen_Main,Derby,0,0,0,,Para impedirlo,\Nhay vigilantes en este bosque.
+Dialogue: 0,0:10:49.59,0:10:50.59,Gen_Main,Jean,0,0,0,,¿Vigilantes?
+Dialogue: 0,0:10:52.91,0:10:57.52,Gen_Main,Derby,0,0,0,,Si Leo lo ordena,\Nserán también nuestros verdugos.
+Dialogue: 0,0:10:57.58,0:10:59.41,Gen_Main,Derby,0,0,0,,Los muy malditos…
+Dialogue: 0,0:11:00.61,0:11:03.53,Gen_Main,Derby,0,0,0,,Bueno, no es lugar para hablar.
+Dialogue: 0,0:11:03.64,0:11:05.75,Gen_Main,Derby,0,0,0,,Vengan a mi casa.
+Dialogue: 0,0:11:07.90,0:11:08.95,Gen_Main,Derby,0,0,0,,Veamos…
+Dialogue: 0,0:11:09.27,0:11:13.15,Gen_Main,Derby,0,0,0,,Ustedes no son de las razas\Nque aparentan, ¿verdad?
+Dialogue: 0,0:11:13.36,0:11:18.47,Gen_Main,Derby,0,0,0,,Sus pasos me sonaron\Na los de criaturas de dos piernas…
+Dialogue: 0,0:11:19.34,0:11:21.56,Gen_Main,Derby,0,0,0,,Ustedes son de la humanidad, ¿no?
+Dialogue: 0,0:11:21.64,0:11:22.80,Gen_Main,Derby,0,0,0,,¿Su objetivo…
+Dialogue: 0,0:11:22.90,0:11:27.37,Gen_Main,Derby,0,0,0,,es medir la fuerza de los semihumanos\Npor si pronto estalla una guerra?
+Dialogue: 0,0:11:27.44,0:11:28.73,Gen_Main,Kross,0,0,0,,Me sorprende.
+Dialogue: 0,0:11:28.83,0:11:30.59,Gen_Main,Kross,0,0,0,,Digno de un sabio del bosque.
+Dialogue: 0,0:11:30.65,0:11:32.06,Gen_Main,Derby,0,0,0,,¿Acerté?
+Dialogue: 0,0:11:32.16,0:11:34.44,Gen_Main,Kross,0,0,0,,Es cierto que somos humanos.
+Dialogue: 0,0:11:34.49,0:11:37.44,Gen_Main,Kross,0,0,0,,Pero nuestro objetivo es otro.
+Dialogue: 0,0:11:37.56,0:11:40.21,Gen_Main,Derby,0,0,0,,Nos llamas sabios del bosque…
+Dialogue: 0,0:11:40.29,0:11:42.31,Gen_Main,Derby,0,0,0,,¿Acaso eres un elfo?
+Dialogue: 0,0:11:43.24,0:11:48.87,Gen_Main,Kross,0,0,0,,Nuestro objetivo es investigar\Npor qué Sagitario coopera con Leo.
+Dialogue: 0,0:11:48.96,0:11:50.66,Gen_Main,Kross,0,0,0,,Por eso nos disfrazamos.
+Dialogue: 0,0:11:50.72,0:11:52.86,Gen_Main,Derby,0,0,0,,¡Vaya! Así que era eso.
+Dialogue: 0,0:11:53.50,0:11:56.71,Gen_Main,Kross,0,0,0,,Y ese objetivo ya está cumplido.
+Dialogue: 0,0:11:56.83,0:12:00.10,Gen_Main,Kross,0,0,0,,Ahora solo falta liberarlos de aquí.
+Dialogue: 0,0:12:00.45,0:12:02.68,Gen_Main,Derby,0,0,0,,Permítannos ayudar, por favor.
+Dialogue: 0,0:12:02.78,0:12:08.22,Gen_Main,Derby,0,0,0,,No podemos ser para siempre\Nla cadena que ata al señor Sagitario.
+Dialogue: 0,0:12:08.35,0:12:09.71,Gen_Main,Kross,0,0,0,,Por supuesto.
+Dialogue: 0,0:12:14.27,0:12:15.27,Gen_Main,Centaur,0,0,0,,¡Señor Derby!
+Dialogue: 0,0:12:15.72,0:12:17.67,Gen_Main,Derby,0,0,0,,¿A qué viene tanto alboroto?
+Dialogue: 0,0:12:17.74,0:12:18.78,Gen_Main,Centaur,0,0,0,,¡Traigo noticias!
+Dialogue: 0,0:12:18.87,0:12:20.61,Gen_Main,Centaur,0,0,0,,¡Llegaron Sargess y los suyos!
+Dialogue: 0,0:12:21.83,0:12:23.14,Gen_Main,Sei,0,0,0,,¡Sargess!
+Dialogue: 0,0:12:23.56,0:12:24.99,Gen_Main,Derby,0,0,0,,¿Lo conoces?
+Dialogue: 0,0:12:25.28,0:12:26.28,Gen_Main,Sei,0,0,0,,Sí.
+Dialogue: 0,0:12:26.72,0:12:28.81,Gen_Main,Virgo,0,0,0,,¿El semihumano araña de aquella vez?
+Dialogue: 0,0:12:29.63,0:12:31.77,Gen_Italics,Sei,0,0,0,,¿Habrá venido a buscarnos?
+Dialogue: 0,0:12:31.84,0:12:35.61,Gen_Main,Derby,0,0,0,,Él es quien dirige\Nestas aldeas de semihumanos.
+Dialogue: 0,0:12:35.68,0:12:38.08,Gen_Main,Derby,0,0,0,,Quizá sea una simple ronda.
+Dialogue: 0,0:12:38.14,0:12:40.78,Gen_Main,Derby,0,0,0,,Ustedes quédense aquí.
+Dialogue: 0,0:12:45.34,0:12:47.45,Cart_A_Tre,CARTEL,0,0,0,,{\an2\fsp3\bord0\fnImpact\fs30\c&H0AFF25&\pos(320,129.58)}Tyrving
+Dialogue: 0,0:12:48.95,0:12:50.92,Gen_Main,Libra,0,0,0,,Múltiples señales de vida.
+Dialogue: 0,0:12:50.98,0:12:54.30,Gen_Main,Libra,0,0,0,,Coinciden con gente serpiente,\Ngigantes y gente insecto…
+Dialogue: 0,0:12:54.36,0:12:55.71,Gen_Main,Libra,0,0,0,,No hay duda.
+Dialogue: 0,0:12:55.78,0:12:56.93,Gen_Main,Libra,0,0,0,,Es Tyrving.
+Dialogue: 0,0:12:57.36,0:13:00.86,Gen_Main,Aries,0,0,0,,Leo debe estar en ese castillo\Ntan innecesariamente grande.
+Dialogue: 0,0:13:00.97,0:13:02.65,Gen_Main,Karkinos,0,0,0,,Veamos, ¿qué hacemos?
+Dialogue: 0,0:13:02.75,0:13:06.35,Gen_Main,Karkinos,0,0,0,,No hay por qué ir a pelear\Nen su {\i1}territory{\i0}, ¿o sí?
+Dialogue: 0,0:13:06.79,0:13:08.79,Gen_Main,Libra,0,0,0,,Solo hay una opción…
+Dialogue: 0,0:13:11.67,0:13:13.73,Gen_Main,Libra,0,0,0,,Un ataque preventivo.
+Dialogue: 0,0:13:14.38,0:13:16.32,Gen_Main,Aigokeros,0,0,0,,Totalmente de acuerdo.
+Dialogue: 0,0:13:16.79,0:13:18.19,Gen_Main,Dina,0,0,0,,¡Hagámoslo!
+Dialogue: 0,0:13:18.87,0:13:19.95,Gen_Main,Aries,0,0,0,,Sí.
+Dialogue: 0,0:13:20.01,0:13:22.61,Gen_Main,Scorpius,0,0,0,,A los niños malos hay que castigarlos.
+Dialogue: 0,0:13:22.68,0:13:25.66,Gen_Main,Karkinos,0,0,0,,{\i1}You… Fight!{\i0}
+Dialogue: 0,0:13:25.73,0:13:28.29,Gen_Main,Libra,0,0,0,,Zuben El Genubi, potencia máxima.
+Dialogue: 0,0:13:28.59,0:13:29.60,Gen_Main,Aigokeros,0,0,0,,¡Muere!
+Dialogue: 0,0:13:29.69,0:13:31.25,Gen_Main,Aigokeros,0,0,0,,¡Deneb Algedi!
+Dialogue: 0,0:13:31.49,0:13:33.21,Gen_Main,Dina,0,0,0,,¡Mazo del juicio acuático!
+Dialogue: 0,0:13:33.47,0:13:34.84,Gen_Main,Aries,0,0,0,,¡Mesarthim!
+Dialogue: 0,0:13:35.39,0:13:36.80,Gen_Main,Scorpius,0,0,0,,¡Grafias!
+Dialogue: 0,0:13:37.81,0:13:39.76,Cart_A_Tre,CARTEL,0,0,0,,{\an2\b0\pos(320,272.36)\alpha&H20&\blur1\fs16\3c&H4C4824&}Sin ataques a distancia
+Dialogue: 1,0:13:37.99,0:13:39.65,Gen_Main,Karkinos,0,0,0,,{\i1}Hey! Hey! Hey!{\i0}
+Dialogue: 0,0:13:39.74,0:13:40.74,Gen_Main,Libra,0,0,0,,¡Fuego!
+Dialogue: 0,0:13:42.79,0:13:44.26,Gen_Main,Libra,0,0,0,,Dispararé otra vez.
+Dialogue: 0,0:13:44.33,0:13:46.24,Gen_Main,Libra,0,0,0,,Sigamos atacando a distancia.
+Dialogue: 0,0:13:46.33,0:13:47.33,Gen_Main,Libra,0,0,0,,¡Ahí viene!
+Dialogue: 0,0:13:59.31,0:14:00.36,Gen_Main,Leon,0,0,0,,Hola…
+Dialogue: 1,0:14:01.51,0:14:04.87,Gen_Main,Leon,0,0,0,,Cuántas caras conocidas veo aquí…
+Dialogue: 0,0:14:02.74,0:14:06.07,Cart_A_Tre,CARTEL,0,0,0,,{\an2\fad(170,0)\bord1.5\blur2\fs19\3c&H99B91A&\pos(163.79,267.13)}Leo
+Dialogue: 0,0:14:06.31,0:14:07.31,Gen_Main,Aries,0,0,0,,Leo…
+Dialogue: 0,0:14:07.82,0:14:09.36,Gen_Main,Sagittarius,0,0,0,,Están todos…
+Dialogue: 0,0:14:11.51,0:14:13.00,Gen_Main,Aries,0,0,0,,Sagitario…
+Dialogue: 0,0:14:13.29,0:14:15.35,Gen_Main,Scorpius,0,0,0,,Ay… Qué bochorno hace aquí.
+Dialogue: 0,0:14:15.40,0:14:16.88,Gen_Main,Scorpius,0,0,0,,Qué sofocante.
+Dialogue: 0,0:14:16.94,0:14:18.90,Gen_Main,Leon,0,0,0,,¿Lufas no vino?
+Dialogue: 0,0:14:19.00,0:14:21.97,Gen_Main,Leon,0,0,0,,Parece que será una pelea aburrida.
+Dialogue: 0,0:14:22.25,0:14:25.18,Gen_Main,Aigokeros,0,0,0,,Hablas mucho para ser un vil traidor.
+Dialogue: 0,0:14:29.99,0:14:31.85,Gen_Main,Aigokeros,0,0,0,,¡Arrepiéntete!
+Dialogue: 0,0:14:36.49,0:14:38.19,Gen_Main,Leon,0,0,0,,¿Qué fue eso?
+Dialogue: 0,0:14:38.57,0:14:41.28,Gen_Main,Leon,0,0,0,,Qué golpe tan débil el tuyo…
+Dialogue: 0,0:14:41.34,0:14:43.90,Gen_Main,Leon,0,0,0,,¡Los golpes se dan así!
+Dialogue: 0,0:14:48.12,0:14:49.40,Gen_Main,Aries,0,0,0,,¡¿Aigokeros?!
+Dialogue: 0,0:14:50.22,0:14:51.22,Gen_Main,Aries,0,0,0,,¡Maldito!
+Dialogue: 0,0:15:00.11,0:15:03.25,Gen_Main,Scorpius,0,0,0,,Bajaste demasiado la guardia, tontito.
+Dialogue: 0,0:15:03.84,0:15:08.57,Gen_Main,Scorpius,0,0,0,,Tú también conoces, claro,\Nel efecto de mi habilidad Shaula, ¿no?
+Dialogue: 0,0:15:08.66,0:15:13.94,Gen_Main,Scorpius,0,0,0,,Una vez inyectado este veneno,\Njamás desaparece si no usas un elixir
+Dialogue: 0,0:15:14.34,0:15:16.81,Gen_Main,Scorpius,0,0,0,,o las artes divinas de mayor nivel.
+Dialogue: 0,0:15:16.88,0:15:20.90,Gen_Main,Scorpius,0,0,0,,¡Por muy fuerte que seas, no impor…!
+Dialogue: 0,0:15:28.06,0:15:29.91,Gen_Main,Leon,0,0,0,,¡La tonta eres tú!
+Dialogue: 0,0:15:30.31,0:15:36.08,Gen_Main,Leon,0,0,0,,¡Solo tengo que matarlos a todos\Nantes de que el veneno me haga efecto!
+Dialogue: 0,0:15:37.11,0:15:38.55,Gen_Main,Aries,0,0,0,,¡Sí que es fuerte!
+Dialogue: 0,0:15:39.77,0:15:43.05,Gen_Main,Libra,0,0,0,,No te confíes demasiado, Leo.
+Dialogue: 0,0:15:43.37,0:15:44.37,Gen_Main,Leon,0,0,0,,¿Ah?
+Dialogue: 0,0:15:44.77,0:15:46.55,Gen_Main,Libra,0,0,0,,Selección de programa.
+Dialogue: 0,0:15:48.81,0:15:50.76,Gen_Main,Libra,0,0,0,,¡Activando Brachium!
+Dialogue: 0,0:16:00.51,0:16:01.75,Gen_Main,Leon,0,0,0,,¡Muy débil!
+Dialogue: 0,0:16:11.77,0:16:13.43,Gen_Main,Libra,0,0,0,,¡Selección de armamento!
+Dialogue: 0,0:16:13.48,0:16:14.49,Gen_Main,Libra,0,0,0,,¡Astraia!
+Dialogue: 0,0:16:17.52,0:16:18.67,Gen_Main,Leon,0,0,0,,¡¿Qué es eso?!
+Dialogue: 0,0:16:23.46,0:16:24.92,Gen_Main,Leon,0,0,0,,¡Qué molesto!
+Dialogue: 0,0:16:29.97,0:16:31.43,Gen_Main,Libra,0,0,0,,¡Astraia!
+Dialogue: 0,0:16:31.84,0:16:33.18,Gen_Main,Leon,0,0,0,,¡Maldita molestia!
+Dialogue: 0,0:16:33.25,0:16:34.25,Gen_Main,Libra,0,0,0,,¡Enlace!
+Dialogue: 0,0:16:45.65,0:16:47.07,Gen_Main,Libra,0,0,0,,¡Fusión completa!
+Dialogue: 0,0:16:49.22,0:16:50.22,Gen_Main,Libra,0,0,0,,¡Aquí voy!
+Dialogue: 0,0:16:51.28,0:16:53.38,Gen_Main,Libra/Leon,0,0,0,,-Fuego al máximo.\N-¡¿Qué es eso?!
+Dialogue: 0,0:16:53.43,0:16:54.98,Gen_Main,Libra,0,0,0,,Todos los cañones, listos.
+Dialogue: 0,0:16:55.77,0:16:56.77,Gen_Main,Libra,0,0,0,,¡Fuego total!
+Dialogue: 0,0:17:09.19,0:17:11.15,Gen_Main,Leon/Sagittarius,0,0,0,,-¡Sagitario!\N-Sí.
+Dialogue: 0,0:17:12.59,0:17:13.97,Gen_Main,Sagittarius,0,0,0,,¡Al Nassr!
+Dialogue: 0,0:17:16.43,0:17:18.61,Gen_Main,Leon,0,0,0,,¡Te tengo!
+Dialogue: 0,0:17:26.10,0:17:27.47,Gen_Main,Leon,0,0,0,,¡El golpe de gracia!
+Dialogue: 0,0:17:31.64,0:17:34.91,Gen_Main,Karkinos,0,0,0,,¿No te estás olvidando de mí, Leo?
+Dialogue: 0,0:17:36.39,0:17:37.62,Gen_Main,Karkinos,0,0,0,,Te lo devuelvo.
+Dialogue: 0,0:17:38.20,0:17:39.22,Gen_Main,Karkinos,0,0,0,,¡Acubens!
+Dialogue: 0,0:17:44.41,0:17:45.42,Gen_Main,Leon,0,0,0,,¡Maldito!
+Dialogue: 0,0:17:47.07,0:17:51.71,Gen_Main,Leon,0,0,0,,¡Solo sabes esperar a que te ataquen,\Ncangrejo inútil!
+Dialogue: 0,0:17:51.78,0:17:54.53,Gen_Main,Karkinos,0,0,0,,{\i1}Yes! Yes! Yes!{\i0}
+Dialogue: 0,0:17:54.62,0:17:57.10,Gen_Main,Karkinos,0,0,0,,Es cierto que solo sé hacer eso.
+Dialogue: 0,0:17:57.16,0:17:59.39,Gen_Main,Karkinos,0,0,0,,Pero justo porque solo sé hacer eso,
+Dialogue: 0,0:17:59.79,0:18:02.74,Gen_Main,Karkinos,0,0,0,,en ese terreno nadie me supera.
+Dialogue: 0,0:18:09.17,0:18:10.44,Gen_Main,Leon,0,0,0,,¡Maldito!
+Dialogue: 0,0:18:10.51,0:18:12.41,Gen_Main,Sagittarius,0,0,0,,¡Detente, Leo! ¡No lo ataques!
+Dialogue: 0,0:18:12.47,0:18:15.57,Gen_Main,Sagittarius,0,0,0,,¡Él solo puede esperar y contraatacar!
+Dialogue: 0,0:18:15.99,0:18:17.08,Gen_Main,Leon,0,0,0,,¡Cállate!
+Dialogue: 0,0:18:28.07,0:18:29.07,Gen_Main,Karkinos,0,0,0,,Leo,
+Dialogue: 0,0:18:31.70,0:18:33.59,Gen_Main,Karkinos,0,0,0,,{\i1}come on!{\i0}
+Dialogue: 0,0:18:44.81,0:18:47.12,Gen_Main,Libra,0,0,0,,El papel de Karkinos es ser "escudo".
+Dialogue: 0,0:18:47.23,0:18:51.61,Gen_Main,Libra,0,0,0,,Brilla más que nunca al proteger\Na sus aliados en batallas de grupo.
+Dialogue: 0,0:18:52.23,0:18:57.42,Gen_Main,Libra,0,0,0,,Y la fuerza de Leo está en aplastar\Nde frente con sus estadísticas brutales,
+Dialogue: 0,0:18:57.54,0:18:59.58,Gen_Main,Libra,0,0,0,,sin recurrir a habilidades.
+Dialogue: 0,0:18:59.99,0:19:04.47,Gen_Main,Libra,0,0,0,,Por eso, Karkinos, que se especializa\Nen defensa y contraataque,
+Dialogue: 0,0:19:05.04,0:19:06.29,Gen_Main,Libra,0,0,0,,es su peor rival.
+Dialogue: 0,0:19:18.41,0:19:19.41,Gen_Main,Karkinos,0,0,0,,{\i1}Hey.{\i0}
+Dialogue: 0,0:19:20.96,0:19:21.96,Gen_Main,Dina,0,0,0,,Toma.
+Dialogue: 0,0:19:23.54,0:19:25.02,Gen_Main,Karkinos,0,0,0,,{\i1}Bring it!{\i0}
+Dialogue: 0,0:19:32.86,0:19:34.04,Gen_Main,Karkinos,0,0,0,,{\i1}Checkmate.{\i0}
+Dialogue: 0,0:19:34.15,0:19:35.88,Gen_Main,Karkinos,0,0,0,,Se acabó el combate, Leo.
+Dialogue: 0,0:19:36.19,0:19:37.42,Gen_Main,Leon,0,0,0,,¡Maldición!
+Dialogue: 0,0:19:37.55,0:19:41.08,Gen_Main,Leon,0,0,0,,¡Yo no pierdo ante basura de su nivel!
+Dialogue: 0,0:19:40.46,0:19:41.67,Gen_Main_Up,Aigokeros,0,0,0,,Silencio.
+Dialogue: 0,0:19:47.88,0:19:49.63,Gen_Main,Scorpius,0,0,0,,Ay, lo siento mucho.
+Dialogue: 0,0:19:50.03,0:19:55.61,Gen_Main,Scorpius,0,0,0,,Es que no oigo a la basura aún peor\Nque pierde ante basura de bajo nivel.
+Dialogue: 0,0:19:55.73,0:19:58.83,Gen_Main,Scorpius,0,0,0,,¡Deja de ladrar tanto,\Nenorme montaña de porquería
+Dialogue: 0,0:19:58.91,0:20:01.25,Gen_Main,Scorpius,0,0,0,,que traicionó a la señora Lufas!
+Dialogue: 0,0:20:02.06,0:20:03.93,Gen_Main,Scorpius,0,0,0,,¿Verdad que sí? ¡Di algo!
+Dialogue: 0,0:20:04.00,0:20:05.24,Gen_Main,Scorpius,0,0,0,,Todos lo creen, ¿no?
+Dialogue: 0,0:20:05.37,0:20:06.99,Gen_Main_Up,Scorpius,0,0,0,,¡La señora Lufas es infalible,
+Dialogue: 0,0:20:07.04,0:20:09.72,Gen_Main_Up,Scorpius,0,0,0,,así que quien la desafía\Ntiene toda la culpa!
+Dialogue: 0,0:20:07.13,0:20:08.33,Gen_Main,Aries,0,0,0,,¿Qué hacemos?
+Dialogue: 0,0:20:08.45,0:20:09.72,Gen_Main,Aries,0,0,0,,¿La detenemos?
+Dialogue: 0,0:20:09.80,0:20:13.02,Gen_Main_Up,Scorpius,0,0,0,,¡¿Cómo no entiendes\Nalgo tan obvio, tontito?!
+Dialogue: 0,0:20:09.80,0:20:11.33,Gen_Main,Aigokeros,0,0,0,,No hace falta.
+Dialogue: 0,0:20:11.44,0:20:13.96,Gen_Main,Libra,0,0,0,,No. Aunque sea un traidor,
+Dialogue: 0,0:20:13.09,0:20:16.63,Gen_Main_Up,Scorpius,0,0,0,,¡Ah, claro! ¡Es porque no piensas nada!
+Dialogue: 0,0:20:14.01,0:20:17.40,Gen_Main,Libra,0,0,0,,no podemos matarlo\Nsin permiso de la señora.
+Dialogue: 0,0:20:16.74,0:20:17.75,Gen_Main_Up,Scorpius,0,0,0,,¡Vamos, vamos!
+Dialogue: 0,0:20:17.74,0:20:20.62,Gen_Main,Libra,0,0,0,,La detendremos\Ncuando esté a punto de morir.
+Dialogue: 0,0:20:17.80,0:20:21.05,Gen_Main_Up,Scorpius,0,0,0,,¡Pega esa sucia cabeza al suelo\Ny pídele perdón a la señora!
+Dialogue: 0,0:20:21.15,0:20:23.38,Gen_Main_Up,Scorpius,0,0,0,,¡Admite que eres un tonto y una basura
+Dialogue: 0,0:20:22.12,0:20:24.50,Gen_Italics,Leon,0,0,0,,No lo admito… ¡Jamás!
+Dialogue: 0,0:20:23.44,0:20:25.12,Gen_Main_Up,Scorpius,0,0,0,,y suplica su perdón!
+Dialogue: 0,0:20:24.56,0:20:26.83,Gen_Italics,Leon,0,0,0,,¡Nunca lo voy a admitir!
+Dialogue: 0,0:20:28.03,0:20:30.33,Gen_Main,Alovenus,0,0,0,,¿Deseas poder?
+Dialogue: 0,0:20:31.76,0:20:36.13,Gen_Main,Alovenus,0,0,0,,Si así lo deseas, te daré poder.
+Dialogue: 0,0:20:37.59,0:20:39.69,Gen_Main,Leon,0,0,0,,Sí, poder.
+Dialogue: 0,0:20:39.79,0:20:42.27,Gen_Main,Leon,0,0,0,,Con poder, no perdería ante nadie.
+Dialogue: 0,0:20:42.33,0:20:44.72,Gen_Main,Leon,0,0,0,,Alcanzaría incluso a Lufas.
+Dialogue: 0,0:20:45.27,0:20:46.45,Gen_Main,Leon,0,0,0,,Sin discursos.
+Dialogue: 0,0:20:46.54,0:20:49.27,Gen_Main,Leon,0,0,0,,¡Deja de parlotear\Ny dame ese poder de una vez!
+Dialogue: 0,0:20:49.34,0:20:51.84,Gen_Main,Leon,0,0,0,,¡Cállate y ofrécemelo como tributo!
+Dialogue: 0,0:20:52.72,0:20:54.15,Gen_Main,Alovenus,0,0,0,,Muy bien.
+Dialogue: 0,0:20:54.69,0:20:57.24,Gen_Main,Alovenus,0,0,0,,Te concederé tu deseo.
+Dialogue: 0,0:21:05.13,0:21:08.12,Cart_A_Tre,CARTEL,0,0,0,,{\an2\fsp3\bord0\fnImpact\fs30\c&H3344DC&\pos(320,118.3)}Mjolnir
+Dialogue: 1,0:21:06.98,0:21:07.98,Gen_Main,Lufas,0,0,0,,Mmm…
+Dialogue: 0,0:21:08.12,0:21:11.22,Gen_Main,Lufas,0,0,0,,Mjolnir, el país de la noche eterna…
+Dialogue: 0,0:21:11.58,0:21:13.58,Gen_Main,Lufas,0,0,0,,¿Y si hago un poco de turismo?
+Dialogue: 0,0:21:15.87,0:21:16.97,Gen_Main,Benet,0,0,0,,¡Oye, tú!
+Dialogue: 0,0:21:19.06,0:21:20.07,Gen_Main,Lufas,0,0,0,,¿Benet?
+Dialogue: 0,0:21:20.47,0:21:25.28,Gen_Main,Benetnasch,0,0,0,,Como no llegabas al castillo,\Nvine a ver qué estabas haciendo.
+Dialogue: 0,0:21:25.37,0:21:27.52,Gen_Main,Benetnasch,0,0,0,,Qué descaro, andar de turista.
+Dialogue: 0,0:21:27.58,0:21:29.37,Gen_Main,Lufas,0,0,0,,Vamos, no te impacientes.
+Dialogue: 0,0:21:29.48,0:21:31.81,Gen_Main,Lufas,0,0,0,,Pensaba ir a verte después.
+Dialogue: 0,0:21:32.33,0:21:35.46,Gen_Main,Lufas,0,0,0,,A todo esto,\N¿me recomiendas algún sitio turístico?
+Dialogue: 0,0:21:35.55,0:21:38.35,Gen_Main,Lufas,0,0,0,,Busco una tienda de recuerdos\Ny no la encuentro.
+Dialogue: 0,0:21:38.75,0:21:41.63,Gen_Main,Benetnasch,0,0,0,,Oye, ¿te volviste más despreocupada?
+Dialogue: 0,0:21:41.75,0:21:42.99,Gen_Main,Lufas,0,0,0,,Me lo dicen mucho.
+Dialogue: 0,0:21:43.25,0:21:45.58,Gen_Main,Benetnasch,0,0,0,,En fin, deja de perder el tiempo y…
+Dialogue: 0,0:21:45.64,0:21:47.55,Gen_Main,Lufas,0,0,0,,No seas tan cuadrada.
+Dialogue: 0,0:21:47.66,0:21:51.99,Gen_Main,Lufas,0,0,0,,Tras tanto sin vernos,\Nsería aburrido matarnos enseguida.
+Dialogue: 0,0:21:52.07,0:21:55.52,Gen_Main,Lufas,0,0,0,,Vamos, muéstrame lo mejor de la capital.
+Dialogue: 0,0:21:58.81,0:22:00.71,Gen_Main,Lufas,0,0,0,,O mejor me voy…
+Dialogue: 0,0:22:02.67,0:22:04.86,Gen_Main,Benetnasch,0,0,0,,Yo te guío. Sígueme.
+Dialogue: 0,0:23:35.77,0:23:40.02,Cart_A_Tre,CARTEL,0,0,0,,{\fs16\bord1}Traducción: Nicolás Sepúlveda\NEdición: Antonio LB\NControl de calidad: Néstor Rubio
+
