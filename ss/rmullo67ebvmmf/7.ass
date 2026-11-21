@@ -1,0 +1,327 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Bold,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,0,0,20,1
+Style: Internal,Arial Bold,23,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,2,0,0,20,0
+Style: Top,Arial Bold,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,8,0,0,20,1
+Style: Flashback,Arial Bold,23,&H00F7ECEB,&H000000FF,&H004D0701,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,0,0,20,0
+Style: Flashback Internal,Arial Bold,23,&H00F7ECEB,&H000000FF,&H004D0701,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,2,0,0,20,0
+Style: TypePlaceholder,Arial Bold,19,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.56,0:00:01.73,Default,Noelle,0,0,0,S2 07 QC,Wir haben nicht aufgegeben!
+Dialogue: 0,0:00:02.84,0:00:06.49,Default,Noelle,0,0,0,S2 07 QC,Das ist unser Sieg, Megicula!
+Dialogue: 0,0:00:07.79,0:00:09.93,Internal,Megicula,0,0,0,S2 07 QC,Offenbar saß ich einem Irrtum auf, …
+Dialogue: 0,0:00:10.40,0:00:14.83,Internal,Megicula,0,0,0,S2 07 QC,was eure wahre Stärke betrifft.
+Dialogue: 0,0:00:20.33,0:00:24.76,Default,Acier,0,0,0,S2 07 QC,Ihr beiden seid wirklich stark geworden.
+Dialogue: 0,0:01:59.56,0:02:04.94,TypePlaceholder,Types,0,0,0,,{\fnGeorgia\b1\fs25\pos(320,235)\bord2.5\c&HFFFFFF&\3c&H000000&\blur5\3a&H74&}Das Herz eines Teufels
+Dialogue: 0,0:01:59.56,0:02:04.94,TypePlaceholder,Types,0,0,0,,{\fnGeorgia\b1\fs14\bord1.5\c&HFFFFFF&\3c&H000000&\blur3\3a&H74&\pos(502.5,68.5)}Seite
+Dialogue: 0,0:02:26.04,0:02:28.29,Default,Asta,0,0,0,,Du hast das gerockt, Noelle!
+Dialogue: 0,0:02:28.55,0:02:30.17,Default,Noelle,0,0,0,,Asta und Lolopechika!
+Dialogue: 0,0:02:31.06,0:02:34.37,Default,Noelle,0,0,0,,Da Megicula jetzt besiegt ist,\Nsollte sich Lolopechikas Fluch lösen.
+Dialogue: 0,0:02:39.52,0:02:42.69,Default,Asta,0,0,0,,Oh! Königin Lolopechika!\NIhr öffnet die Augen?
+Dialogue: 0,0:02:45.95,0:02:49.04,Default,Lolopechika,0,0,0,,Tut mir leid, tut mir leid!\NVerzeih mir, dass ich nackt bin!
+Dialogue: 0,0:02:49.04,0:02:52.07,Default,Asta,0,0,0,,Seid unbesorgt! Ich habe\Nnicht ein My von Euch gesehen!
+Dialogue: 0,0:02:52.07,0:02:54.55,Default,Noelle,0,0,0,,Was treibst du denn da, Nerv-Asta?!
+Dialogue: 0,0:02:54.55,0:02:56.82,Default,Asta,0,0,0,,Nein, ich hab doch gar nichts gemacht!
+Dialogue: 0,0:02:57.52,0:02:58.83,Default,Noelle,0,0,0,,Lolopechika!
+Dialogue: 0,0:03:00.17,0:03:02.16,Default,Noelle,0,0,0,,Ich bin so froh, dass du lebst!
+Dialogue: 0,0:03:02.16,0:03:04.65,Default,Undine,0,0,0,,Lolopechika!
+Dialogue: 0,0:03:04.65,0:03:06.30,Default,Lolopechika,0,0,0,,Noelle …
+Dialogue: 0,0:03:06.30,0:03:07.75,Default,Lolopechika,0,0,0,,Undine …
+Dialogue: 0,0:03:08.03,0:03:10.42,Default,Asta,0,0,0,,Was sollte das auf einmal, Noelle?!
+Dialogue: 0,0:03:10.42,0:03:13.53,Default,Noelle,0,0,0,,Halt die Klappe, Nerv-Asta!\NDu hast doch …
+Dialogue: 0,0:03:15.15,0:03:15.84,Default,Asta,0,0,0,,Hö?
+Dialogue: 0,0:03:16.10,0:03:19.60,Internal,Noelle,0,0,0,,Was mach ich denn jetzt? Eigentlich\Nfreue ich mich, ihn endlich wiederzusehen.
+Dialogue: 0,0:03:19.60,0:03:20.68,Default,Asta,0,0,0,,Was hast du, Noelle?
+Dialogue: 0,0:03:20.68,0:03:24.60,Internal,Noelle,0,0,0,,Vor lauter Scham trau ich mich nicht,\Nihm ins Gesicht zu sehen!
+Dialogue: 0,0:03:23.15,0:03:24.60,Top,Asta,0,0,0,,He, Noelle!
+Dialogue: 0,0:03:24.85,0:03:28.02,Default,Noelle,0,0,0,,Es ist nichts, Nerv-Asta!
+Dialogue: 0,0:03:31.74,0:03:34.17,Internal,Nozel,0,0,0,,Der Fluch mag jetzt aufgehoben sein,
+Dialogue: 0,0:03:34.17,0:03:37.69,Internal,Nozel,0,0,0,,aber ich hab keinen blassen Schimmer,\Nwie ich jetzt mit Noelle umgehen soll!
+Dialogue: 0,0:03:37.69,0:03:39.53,Default,Noelle,0,0,0,,Bruder Nozel?
+Dialogue: 0,0:03:39.53,0:03:41.66,Default,Rill,0,0,0,,Verzeih mir, Charlotte.
+Dialogue: 0,0:03:42.17,0:03:45.29,Default,Rill,0,0,0,,Der Effekt meiner Magie\Nwird bald nachlassen.
+Dialogue: 0,0:03:45.72,0:03:49.24,Internal,Rill,0,0,0,,Es hat auch dieses Mal wieder nicht\Nfür mein Meisterwerk gereicht.
+Dialogue: 0,0:03:49.57,0:03:52.09,Internal,Rill,0,0,0,,Für mein Meisterwerk\Nbraucht es eben doch …
+Dialogue: 0,0:03:52.09,0:03:54.17,Default,Charlotte,0,0,0,,Wofür entschuldigst du dich, Rill?
+Dialogue: 0,0:03:54.63,0:03:57.28,Default,Charlotte,0,0,0,,Nur dank dir konnte ich kämpfen.
+Dialogue: 0,0:03:58.27,0:03:59.55,Default,Charlotte,0,0,0,,Dafür bin ich dir dankbar.
+Dialogue: 0,0:04:01.12,0:04:02.22,Default,Charlotte,0,0,0,,Außerdem …
+Dialogue: 0,0:04:02.60,0:04:05.27,Default,Charlotte,0,0,0,,dürfen wir noch nicht sterben.
+Dialogue: 0,0:04:05.83,0:04:06.93,Default,Charlotte,0,0,0,,Oder etwa nicht?
+Dialogue: 0,0:04:08.98,0:04:10.81,Default,Luck,0,0,0,,He!
+Dialogue: 0,0:04:10.81,0:04:11.99,Default,Noelle,0,0,0,,Luck!
+Dialogue: 0,0:04:11.99,0:04:13.91,Default,Luck,0,0,0,,Das war der Wahnsinn, Noelle!
+Dialogue: 0,0:04:13.91,0:04:16.74,Default,Luck,0,0,0,,Unfassbar, dass du einen\Nranghöchsten Teufel besiegt hast.
+Dialogue: 0,0:04:22.26,0:04:25.29,Default,Luck,0,0,0,,Man darf sich echt nicht\Nauf die faule Haut legen.
+Dialogue: 0,0:04:25.65,0:04:26.79,Default,Lolopechika,0,0,0,,Gaja!
+Dialogue: 0,0:04:26.79,0:04:28.49,Default,Gaja,0,0,0,,Königin Lolopechika …
+Dialogue: 0,0:04:28.96,0:04:30.54,Default,Gaja,0,0,0,,Zum Glück seid Ihr wo…
+Dialogue: 0,0:04:37.34,0:04:38.37,Default,Noelle,0,0,0,,Gaja!
+Dialogue: 0,0:04:40.14,0:04:42.84,Default,Noelle,0,0,0,,Ordensführerin Charlotte\Nund Ordensführer Rill!
+Dialogue: 0,0:04:46.36,0:04:49.98,Internal,Lolopechika,0,0,0,,Wasserheilmagie: Aquenelle Lore!
+Dialogue: 0,0:04:53.68,0:04:58.13,Internal,Lolopechika,0,0,0,,Meine Magie kann\Ndiese Wunden nicht heilen …
+Dialogue: 0,0:04:58.73,0:05:01.89,Default,Lolopechika,0,0,0,,Oh nein …\NDabei haben sie mich gerettet …
+Dialogue: 0,0:05:01.89,0:05:04.74,Default,Lolopechika,0,0,0,,Ich … Ich …
+Dialogue: 0,0:05:04.74,0:05:08.18,Internal,Asta,0,0,0,,Mit meinem Dämonenauslöscher\Nkann ich keine Wunden heilen.
+Dialogue: 0,0:05:08.18,0:05:10.83,Default,Asta,0,0,0,,Scheiße!\NKann man da denn gar nichts tun?
+Dialogue: 0,0:05:11.96,0:05:13.30,Internal,Noelle,0,0,0,,Das darf nicht sein …
+Dialogue: 0,0:05:13.94,0:05:17.01,Default,Noelle,0,0,0,,Menschen, die das Richtige getan\Nund sich angestrengt haben,
+Dialogue: 0,0:05:17.01,0:05:19.55,Default,Noelle,0,0,0,,dürfen doch nicht einfach so sterben!
+Dialogue: 0,0:05:19.84,0:05:22.23,Default,Nacht,0,0,0,,Dagegen sind wir machtlos.
+Dialogue: 0,0:05:22.80,0:05:24.51,Default,Asta,0,0,0,,Vizeordensführer Nacht!
+Dialogue: 0,0:05:24.83,0:05:27.16,Default,Nacht,0,0,0,,Ihr habt einen\Nhochrangigen Teufel besiegt.
+Dialogue: 0,0:05:27.58,0:05:29.68,Default,Nacht,0,0,0,,Gebt euch damit zufrieden.
+Dialogue: 0,0:05:30.02,0:05:33.67,Default,Nacht,0,0,0,,Nicht immer werden jene,\Ndie das Richtige tun, dafür belohnt.
+Dialogue: 0,0:05:33.67,0:05:35.19,Default,Nacht,0,0,0,,Das ist die bittere Realität.
+Dialogue: 0,0:05:36.24,0:05:38.69,Internal,Nacht,0,0,0,,Ich wünschte,\Nihr würdet belohnt werden.
+Dialogue: 0,0:05:38.69,0:05:41.05,Default,Luck,0,0,0,,Sag mal, hast du sie mitgebracht?
+Dialogue: 0,0:05:41.05,0:05:41.74,Default,Nacht,0,0,0,,Ja.
+Dialogue: 0,0:05:42.73,0:05:44.20,Default,Nacht,0,0,0,,Aber es könnte zu spät sein.
+Dialogue: 0,0:05:49.63,0:05:50.72,Default,Noelle,0,0,0,,Nein!
+Dialogue: 0,0:05:54.05,0:05:55.42,Default,Noelle,0,0,0,,Wir reden hier von Mimosa!
+Dialogue: 0,0:05:57.66,0:06:00.09,Default,Mimosa,0,0,0,,Ich werde niemanden sterben lassen!
+Dialogue: 0,0:06:03.14,0:06:05.44,Internal,Mimosa,0,0,0,,Ultimative Pflanzenmagie:
+Dialogue: 0,0:06:06.45,0:06:08.63,Internal,Mimosa,0,0,0,,Traumland der Blumenprinzessin!
+Dialogue: 0,0:06:13.10,0:06:15.77,Internal,Nacht,0,0,0,,Diese Heilmagie …
+Dialogue: 0,0:06:15.77,0:06:18.36,Default,Noelle,0,0,0,,Man darf die Realität auch\Nmal auf den Kopf stellen.
+Dialogue: 0,0:06:19.09,0:06:20.61,Default,Noelle,0,0,0,,Denn das macht …
+Dialogue: 0,0:06:21.56,0:06:22.85,Default,Noelle,0,0,0,,die Magie aus, oder?
+Dialogue: 0,0:06:23.61,0:06:25.38,Default,Lolopechika,0,0,0,,Gaja …
+Dialogue: 0,0:06:25.38,0:06:30.74,Default,Asta,0,0,0,,Rill! Ordensführerin Charlotte!\NIch bin ja so froh!
+Dialogue: 0,0:06:30.74,0:06:33.96,Default,Asta,0,0,0,,Du bist umwerfend, Mimosa!
+Dialogue: 0,0:06:35.42,0:06:37.48,Default,Lolopechika,0,0,0,,Das alles nur meinetwegen …
+Dialogue: 0,0:06:37.48,0:06:39.86,Default,Lolopechika,0,0,0,,Es tut mir so leid! Verzeih mir!
+Dialogue: 0,0:06:39.86,0:06:43.67,Default,Gaja,0,0,0,,Schon gut, das ist doch\Nmeine Pflicht als Geisterwächter.
+Dialogue: 0,0:06:43.67,0:06:48.17,Default,Noelle,0,0,0,,Ihr habt euch doch wohl noch\Nmehr zu sagen, oder? Na los!
+Dialogue: 0,0:06:52.90,0:06:54.37,Default,Gaja,0,0,0,,Ich liebe Euch.
+Dialogue: 0,0:06:58.32,0:07:00.23,Default,Gaja,0,0,0,,Aber nicht als meine Königin,
+Dialogue: 0,0:07:00.23,0:07:03.55,Default,Gaja,0,0,0,,sondern Euch selbst als Frau.
+Dialogue: 0,0:07:08.41,0:07:10.35,Default,Noelle,0,0,0,,Nein, halt! Hör mal!
+Dialogue: 0,0:07:10.35,0:07:11.73,Default,Gaja,0,0,0,,War das falsch?
+Dialogue: 0,0:07:11.73,0:07:14.75,Default,Undine,0,0,0,,Lolopechika gehört allein mir!
+Dialogue: 0,0:07:15.08,0:07:17.61,Default,Undine,0,0,0,,Aber wenn du es bist, Gaja …
+Dialogue: 0,0:07:20.07,0:07:24.26,Default,Nozel,0,0,0,,Es ist zwar ärgerlich, aber Noelle\Nist nur dank ihm stärker geworden.
+Dialogue: 0,0:07:25.00,0:07:29.09,Default,Nozel,0,0,0,,Ich muss Yami, diesen Hund,\Nunbedingt retten.
+Dialogue: 0,0:07:31.63,0:07:33.72,Internal,Nacht,0,0,0,,Sie scheinen
+Dialogue: 0,0:07:33.72,0:07:37.85,Internal,Nacht,0,0,0,,mehr Stärke erlangt zu haben,\Nals ich mir ausgemalt hätte.
+Dialogue: 0,0:07:38.87,0:07:41.40,Internal,Nacht,0,0,0,,Jetzt ist nur noch\Nein Mitglied der Dark Triad …
+Dialogue: 0,0:07:41.86,0:07:44.61,TypePlaceholder,,0,0,0,,{\fad(0,850)\fnGeorgia\b1\c&HFFFFFF&\fs21\pos(320,205)}Kurz vor dem Sieg über Megicula
+Dialogue: 0,0:07:42.29,0:07:43.65,Internal,Nacht,0,0,0,,übrig.
+Dialogue: 0,0:07:49.54,0:07:52.57,Default,Zenon,0,0,0,,Eine Fortsetzung wäre\Ndie reinste Zeitverschwendung.
+Dialogue: 0,0:07:52.57,0:07:54.75,Default,Zenon,0,0,0,,Wollen wir es beenden?
+Dialogue: 0,0:07:57.42,0:08:00.04,Default,Langris,0,0,0,,Scheiße, was geht nur mit dem ab?
+Dialogue: 0,0:08:00.04,0:08:01.13,Default,Yuno,0,0,0,,Langris …
+Dialogue: 0,0:08:02.32,0:08:06.13,Default,Yuno,0,0,0,,Verschaff mir drei Minuten!\NMein nächster Schlag wird es entscheiden!
+Dialogue: 0,0:08:07.71,0:08:09.94,Internal,Yuno,0,0,0,,Es gibt Magie, die ihn töten kann.
+Dialogue: 0,0:08:10.37,0:08:13.01,Internal,Yuno,0,0,0,,Ich benötige nur Zeit,\Num meine magische Kraft zu bündeln.
+Dialogue: 0,0:08:13.88,0:08:17.27,Internal,Yuno,0,0,0,,Ich kann sie nicht abfeuern,\Nwenn ich nebenbei noch ausweichen muss.
+Dialogue: 0,0:08:18.15,0:08:20.19,Internal,Yuno,0,0,0,,Um ihn zu besiegen …
+Dialogue: 0,0:08:20.74,0:08:24.44,Internal,Langris,0,0,0,,Dann muss ich wohl\Nals Lockvogel Yuno beschützen!
+Dialogue: 0,0:08:24.91,0:08:29.90,Internal,Langris,0,0,0,,Aber ich kann nur mit Yunos Hilfe\Nseinen Angriffen ausweichen,
+Dialogue: 0,0:08:29.90,0:08:33.24,Internal,Langris,0,0,0,,da ist es mir unmöglich,\Nganze drei Minuten rauszuholen!
+Dialogue: 0,0:08:33.96,0:08:36.70,Internal,Yuno & Langris,0,0,0,,Trotzdem bleibt mir keine andere Wahl!
+Dialogue: 0,0:08:38.70,0:08:42.46,Default,Yuno,0,0,0,,Da du der stärkste Raummagier\Ndes Königreichs Clover bist,
+Dialogue: 0,0:08:42.46,0:08:45.21,Default,Yuno,0,0,0,,solltest du es so langsam\Nerkannt haben, oder?
+Dialogue: 0,0:08:45.67,0:08:49.34,Default,Yuno,0,0,0,,Du wirst dich doch wohl nicht\Nweiterhin so treffen lassen, oder?
+Dialogue: 0,0:08:52.22,0:08:55.97,Default,Zenon,0,0,0,,Mir ist das Ausmaß\Neurer Kraft längst bekannt.
+Dialogue: 0,0:08:57.12,0:09:00.91,Internal,Langris,0,0,0,,Den meisten ist es innerhalb seiner „Absoluten\NAbwehr“ und „Ermächtigung des Mana-Raums“
+Dialogue: 0,0:09:00.91,0:09:04.11,Internal,Langris,0,0,0,,nicht einmal erlaubt,\Nihre Magie einzusetzen.
+Dialogue: 0,0:09:04.44,0:09:06.99,Internal,Langris,0,0,0,,Nur wer eine vergleichbare Menge\Nmagischer Kraft besitzt,
+Dialogue: 0,0:09:06.99,0:09:09.36,Internal,Langris,0,0,0,,kann seine eigene\NMagie einsetzen.
+Dialogue: 0,0:09:09.75,0:09:11.86,Internal,Langris,0,0,0,,Yuno wird vom Mana geliebt
+Dialogue: 0,0:09:11.86,0:09:14.04,Internal,Langris,0,0,0,,und kann sich\Nso seiner Kontrolle entziehen.
+Dialogue: 0,0:09:16.51,0:09:18.16,Internal,Langris,0,0,0,,Und dann …
+Dialogue: 0,0:09:19.05,0:09:22.45,Internal,Langris,0,0,0,,wären da noch Raummagier,\Ndie die Manazone erreicht haben!
+Dialogue: 0,0:09:26.30,0:09:27.23,Default,Zenon,0,0,0,,Oho.
+Dialogue: 0,0:09:27.80,0:09:30.39,Internal,Zenon,0,0,0,,Innerhalb meiner „Absoluten Abwehr“
+Dialogue: 0,0:09:30.39,0:09:33.26,Internal,Zenon,0,0,0,,hat er sich einen, wenn auch\Nnur kleinen, Raum geschaffen.
+Dialogue: 0,0:09:33.26,0:09:37.75,Default,Yuno,0,0,0,,Du kannst es, wenn du nur willst,\Nwas? So kenn ich dich.
+Dialogue: 0,0:09:37.75,0:09:42.19,Default,Langris,0,0,0,,Meine Güte. Ich habe wirklich einen\Nunausstehlichen jüngeren Kollegen mit dir.
+Dialogue: 0,0:09:43.15,0:09:46.54,Internal,Langris,0,0,0,,Seit er in den Orden eingetreten ist,\Nist er vorlaut und überheblich.
+Dialogue: 0,0:09:46.54,0:09:49.53,Default,Langris,0,0,0,,Aber für diese Attitüde legt er auch\Ndas nötige Können an den Tag.
+Dialogue: 0,0:09:50.09,0:09:53.95,Internal,Langris,0,0,0,,Wenn ich jetzt so darüber nachdenke,\Nzwei Hähne auf einem Mist vertragen sich nicht.
+Dialogue: 0,0:09:54.57,0:09:58.23,Internal,Langris,0,0,0,,Doch deshalb werde ich noch\Nlange nicht den Schwanz einziehen.
+Dialogue: 0,0:09:58.54,0:10:01.98,Internal,Langris,0,0,0,,Einer wie du wird mich\Nniemals übertreffen.
+Dialogue: 0,0:10:03.96,0:10:08.04,Default,Zenon,0,0,0,,Letztendlich habt ihr dennoch\Nkeine Möglichkeit, mich anzugreifen.
+Dialogue: 0,0:10:08.04,0:10:11.38,Default,Zenon,0,0,0,,Euch mangelt es jetzt an einer Magie,\Ndie mich besiegen kann.
+Dialogue: 0,0:10:13.15,0:10:16.14,Internal,Langris,0,0,0,,Seine magische Kraft\Nspielt in einer anderen Liga!
+Dialogue: 0,0:10:16.14,0:10:18.14,Internal,Langris,0,0,0,,Das werde ich nicht lange durchstehen.
+Dialogue: 0,0:10:20.05,0:10:22.27,Internal,Langris,0,0,0,,Bitte mach schnell dein Ding!
+Dialogue: 0,0:10:22.59,0:10:24.35,Internal,Yuno,0,0,0,,Ich ziehe es jetzt durch!
+Dialogue: 0,0:10:25.70,0:10:26.61,Internal,Langris,0,0,0,,Richtig.
+Dialogue: 0,0:10:26.61,0:10:29.40,Internal,Langris,0,0,0,,Meine Raummagie war unschlagbar.
+Dialogue: 0,0:10:30.62,0:10:33.15,Internal,Langris,0,0,0,,Das wird schon, wenn ich alles gebe.
+Dialogue: 0,0:10:33.57,0:10:37.16,Internal,Langris,0,0,0,,Mit mir wird dieser Orden\Nder stärkste von allen.
+Dialogue: 0,0:10:37.80,0:10:40.80,Internal,Langris,0,0,0,,Aber deine Stärke ist anders.
+Dialogue: 0,0:10:41.93,0:10:44.79,Internal,Langris,0,0,0,,Es ist, als würdest\Ndu mir Rückenwind geben.
+Dialogue: 0,0:10:45.17,0:10:46.46,Internal,Langris,0,0,0,,Als würden wir gemeinsam abheben.
+Dialogue: 0,0:10:47.19,0:10:50.21,Internal,Langris,0,0,0,,Deine Stärke war\Nkeine Selbstgefälligkeit.
+Dialogue: 0,0:10:52.82,0:10:55.97,Internal,Langris,0,0,0,,Dein Ehrgeiz hat alle angesteckt
+Dialogue: 0,0:10:55.97,0:10:57.52,Internal,Langris,0,0,0,,und stärker gemacht.
+Dialogue: 0,0:11:00.45,0:11:04.10,Default,Langris,0,0,0,,Es ärgert mich,\Naber ich muss es mir eingestehen.
+Dialogue: 0,0:11:04.94,0:11:06.44,Default,Langris,0,0,0,,Du bist …
+Dialogue: 0,0:11:06.44,0:11:09.89,Default,Langris,0,0,0,,der Vizeordensführer\Nder Goldenen Morgendämmerung!
+Dialogue: 0,0:11:10.65,0:11:13.75,Default,Zenon,0,0,0,,Im Angesicht von\Nüberwältigender Macht
+Dialogue: 0,0:11:13.75,0:11:17.37,Default,Zenon,0,0,0,,sind Gefühle, Entschlossenheit\Nund alles andere bedeutungslos.
+Dialogue: 0,0:11:20.86,0:11:22.62,Default,Zenon,0,0,0,,Es gibt nur eine Realität.
+Dialogue: 0,0:11:22.62,0:11:26.96,Default,Zenon,0,0,0,,Und zwar, dass ich\Nstärker bin als ihr alle.
+Dialogue: 0,0:11:27.77,0:11:29.46,Default,Langris,0,0,0,,„Och, na dann!“
+Dialogue: 0,0:11:29.91,0:11:33.36,Default,Langris,0,0,0,,Das kann ich ja jetzt wohl kaum sagen\Nund einen Rückzieher machen!
+Dialogue: 0,0:11:38.90,0:11:40.39,Default,Langris,0,0,0,,Wir …
+Dialogue: 0,0:11:40.81,0:11:43.04,Default,Langris,0,0,0,,sind die allerstärksten magischen Ritter!
+Dialogue: 0,0:11:43.04,0:11:45.53,Default,Langris,0,0,0,,Die Goldene Morgendämmerung!
+Dialogue: 0,0:11:46.17,0:11:47.75,Default,Yuno,0,0,0,,Auch du …
+Dialogue: 0,0:11:48.98,0:11:51.98,Default,Yuno,0,0,0,,kannst es auf den Tod\Nnicht ausstehen, zu verlieren!
+Dialogue: 0,0:11:52.95,0:11:55.20,Internal,Yuno,0,0,0,,Windgeisterschaffungsmagie:
+Dialogue: 0,0:11:55.20,0:11:56.90,Internal,Yuno,0,0,0,,Spirit of Euros!
+Dialogue: 0,0:12:12.20,0:12:14.18,Internal,Zenon,0,0,0,,Dieses Tempo …
+Dialogue: 0,0:12:14.73,0:12:18.76,Internal,Zenon,0,0,0,,Er hat meinen Körper\Nvollständig durchbohrt.
+Dialogue: 0,0:12:20.91,0:12:23.89,Default,Yuno,0,0,0,,Das ist unser Sieg aus Beharrlichkeit!
+Dialogue: 0,0:12:29.44,0:12:30.74,Default,Zenon,0,0,0,,Allen …
+Dialogue: 0,0:12:39.58,0:12:41.07,Flashback,Vanica,0,0,0,,Was stimmt nicht mit dir?
+Dialogue: 0,0:12:42.33,0:12:46.00,Flashback,Vanica,0,0,0,,Hast du dich schon wieder\Ngeprügelt? Du Nichtsnutz!
+Dialogue: 0,0:12:46.00,0:12:47.58,Flashback,Dante,0,0,0,,Also wirklich …
+Dialogue: 0,0:12:47.58,0:12:50.58,Flashback,Dante,0,0,0,,Wie kann mein kleiner Bruder\Nnur so eine Nullnummer sein?
+Dialogue: 0,0:12:56.57,0:12:59.34,Flashback,Lucius,0,0,0,,Sei ganz unbesorgt, Zenon.
+Dialogue: 0,0:13:01.34,0:13:02.65,Flashback,Zenon,0,0,0,,Bruderherz …
+Dialogue: 0,0:13:03.06,0:13:05.90,Flashback,Lucius,0,0,0,,Du ähnelst mir am meisten.
+Dialogue: 0,0:13:08.83,0:13:11.48,Flashback,Lucius,0,0,0,,Mehr als Dante oder Vanica
+Dialogue: 0,0:13:11.48,0:13:13.98,Flashback,Lucius,0,0,0,,hast du das Zeug dazu,\Nvon einem Teufel besessen zu werden.
+Dialogue: 0,0:13:23.28,0:13:25.43,Flashback,Junge 1,0,0,0,,Du bist voll stark, John!
+Dialogue: 0,0:13:25.43,0:13:29.44,Flashback,John,0,0,0,,Du gruseliger Zwerg, dem aus\Ndem ganzen Körper Knochen ragen!
+Dialogue: 0,0:13:29.82,0:13:33.88,Flashback,John,0,0,0,,Ich bin der Sohn eines Offiziers\Nder Magischen Verteidigungskräfte!
+Dialogue: 0,0:13:33.88,0:13:37.09,Flashback,John,0,0,0,,Dich mach ich fertig!
+Dialogue: 0,0:13:38.92,0:13:40.04,Flashback,John,0,0,0,,Ist das heiß!
+Dialogue: 0,0:13:40.04,0:13:41.65,Flashback,Allen,0,0,0,,Was laberst du da?
+Dialogue: 0,0:13:42.43,0:13:45.45,Flashback,Allen,0,0,0,,Das ist doch bloß\Neine ungewöhnliche Magie.
+Dialogue: 0,0:13:45.45,0:13:47.10,Flashback,John,0,0,0,,Urgs, Allen!
+Dialogue: 0,0:13:47.10,0:13:49.24,Flashback,John,0,0,0,,Nichts wie weg!
+Dialogue: 0,0:13:49.24,0:13:51.75,Flashback,Allen,0,0,0,,Sohn eines Offiziers der\NMagischen Verteidigungskräfte …
+Dialogue: 0,0:13:51.75,0:13:53.23,Flashback,Allen,0,0,0,,So eine Lachnummer.
+Dialogue: 0,0:13:55.29,0:13:56.48,Flashback,Allen,0,0,0,,Ich bin Allen!
+Dialogue: 0,0:13:56.48,0:13:59.28,Flashback,Allen,0,0,0,,Du hast da ja scheinbar\N’ne echt starke Magie.
+Dialogue: 0,0:14:02.90,0:14:05.74,Flashback,Allen,0,0,0,,Alle haben Angst und sind verunsichert.
+Dialogue: 0,0:14:06.23,0:14:09.48,Flashback,Allen,0,0,0,,Das Königreich Spade\Nist immerzu eingeschneit.
+Dialogue: 0,0:14:09.48,0:14:11.68,Flashback,Allen,0,0,0,,Ständig kommt es zu Bürgerkriegen
+Dialogue: 0,0:14:11.68,0:14:14.59,Flashback,Allen,0,0,0,,und das Königreich Diamond\Nfällt bei uns ein.
+Dialogue: 0,0:14:15.33,0:14:20.11,Flashback,Allen,0,0,0,,Ich möchte stark werden und so die\NBürger beschützen, die vor Angst zittern.
+Dialogue: 0,0:14:21.37,0:14:23.15,Flashback,Allen,0,0,0,,Ich möchte jemand werden,
+Dialogue: 0,0:14:23.15,0:14:26.34,Flashback,Allen,0,0,0,,der in diesem zugefrorerenen Land\Neine Flamme der Hoffnung entzündet.
+Dialogue: 0,0:14:28.94,0:14:30.00,Flashback,Allen,0,0,0,,Deshalb …
+Dialogue: 0,0:14:30.75,0:14:34.35,Flashback,Allen,0,0,0,,möchte ich der Kommandant der\NMagischen Verteidigungskräfte werden!
+Dialogue: 0,0:14:35.61,0:14:36.73,Flashback,Zenon,0,0,0,,Ich auch …
+Dialogue: 0,0:14:38.89,0:14:40.97,Flashback,Zenon,0,0,0,,Ich möchte auch Kommandant werden.
+Dialogue: 0,0:14:41.40,0:14:44.35,Flashback,Allen,0,0,0,,Das macht uns dann zu Rivalen!
+Dialogue: 0,0:14:44.67,0:14:48.04,Flashback,Allen,0,0,0,,Streiten wir uns darum,\Nwer Kommandant wird!
+Dialogue: 0,0:15:01.01,0:15:03.63,Flashback,Zenon,0,0,0,,Es tut mir aufrichtig leid, Bruder.
+Dialogue: 0,0:15:05.10,0:15:05.72,Flashback,Zenon,0,0,0,,Ich habe …
+Dialogue: 0,0:15:06.76,0:15:09.19,Flashback,Zenon,0,0,0,,kein Interesse daran,\Nvon einem Teufel besessen zu werden.
+Dialogue: 0,0:15:13.17,0:15:17.25,Flashback,Soldat 1,0,0,0,,Gratuliere zu eurem Eintritt in die vierte\NDivision der Magischen Verteidigungskräfte!
+Dialogue: 0,0:15:17.90,0:15:20.77,Flashback,Soldat 2,0,0,0,,Die beiden Neuzugänge\Ndieses Jahr wollen direkt loslegen.
+Dialogue: 0,0:15:20.77,0:15:23.99,Flashback,Soldat 2,0,0,0,,Vor allem der\NKnochenmagier Zenon ist ein Genie!
+Dialogue: 0,0:15:24.72,0:15:27.62,Flashback,Soldat 1,0,0,0,,Nordwestlich der Stadt Lawton\Nist ein Dungeon erschienen!
+Dialogue: 0,0:15:27.62,0:15:30.50,Flashback,Soldat 1,0,0,0,,Die 4. Division soll unverzüglich\Nmit der Erkundung beginnen!
+Dialogue: 0,0:15:30.50,0:15:32.74,Flashback,Allen,0,0,0,,Dieses Mal werde ich\Nnicht verlieren, Zenon!
+Dialogue: 0,0:15:35.00,0:15:37.62,Flashback,Zenon,0,0,0,,Bei einer Mission gibt es\Nkeine Sieger und Verlierer, Allen.
+Dialogue: 0,0:15:37.62,0:15:40.33,Flashback,Allen,0,0,0,,Du bist immer so bierernst!
+Dialogue: 0,0:15:52.48,0:15:53.35,Flashback,Soldat 2,0,0,0,,Unmöglich …
+Dialogue: 0,0:15:53.35,0:15:55.38,Flashback,Soldat 2,0,0,0,,Hier drin war also ein Teufel versiegelt.
+Dialogue: 0,0:15:55.38,0:15:59.53,Flashback,Soldat 3,0,0,0,,Was für eine Macht … Wenn das\Nso weitergeht, werden wir ausgelöscht.
+Dialogue: 0,0:16:00.89,0:16:02.69,Flashback Internal,Zenon,0,0,0,,Um den zu besiegen, …
+Dialogue: 0,0:16:03.17,0:16:07.03,Flashback Internal,Zenon,0,0,0,,muss ich wohl oder übel meine stärkste Magie\Nmit meiner gesamten magischen Kraft abfeuern.
+Dialogue: 0,0:16:07.72,0:16:10.89,Flashback Internal,Zenon,0,0,0,,Aber mir bietet sich\Nkeine Gelegenheit, um ihn zu treffen.
+Dialogue: 0,0:16:11.55,0:16:15.20,Flashback,Allen,0,0,0,,Ich werde der Kommandant\Nder Magischen Verteidigungskräfte!
+Dialogue: 0,0:16:18.20,0:16:20.96,Flashback,Allen,0,0,0,,In so einem Loch darf ich nicht verlieren!
+Dialogue: 0,0:16:20.96,0:16:22.94,Flashback,Zenon,0,0,0,,Allen!
+Dialogue: 0,0:16:22.94,0:16:25.31,Flashback Internal,Zenon,0,0,0,,So kannst du bloß Zeit schinden!
+Dialogue: 0,0:16:28.27,0:16:30.14,Flashback Internal,Zenon,0,0,0,,Das ist die einzige Gelegenheit.
+Dialogue: 0,0:16:30.74,0:16:33.24,Flashback Internal,Zenon,0,0,0,,Wenn ich jetzt zaubere,\Nkann ich den Teufel besiegen.
+Dialogue: 0,0:16:33.24,0:16:35.05,Flashback Internal,Zenon,0,0,0,,Zusammen mit Allen …
+Dialogue: 0,0:16:36.12,0:16:38.14,Flashback Internal,Zenon,0,0,0,,Wenn ich ihn jetzt nicht töte,
+Dialogue: 0,0:16:38.14,0:16:40.40,Flashback Internal,Zenon,0,0,0,,werden hier alle, mich eingeschlossen …
+Dialogue: 0,0:16:41.26,0:16:42.47,Flashback Internal,Zenon,0,0,0,,sterben.
+Dialogue: 0,0:16:43.86,0:16:46.58,Flashback Internal,Zenon,0,0,0,,Und das Königreich\Nwürde zu Schaden kommen.
+Dialogue: 0,0:16:46.58,0:16:50.16,Flashback Internal,Zenon,0,0,0,,Mindestens die Menschen in der\Nnahegelegenen Stadt würden sterben.
+Dialogue: 0,0:17:01.90,0:17:04.92,Flashback,Allen,0,0,0,,Ich bin noch lange nicht fertig!
+Dialogue: 0,0:17:10.77,0:17:15.54,Flashback Internal,Zenon,0,0,0,,Ohne wahre Macht sind Gefühle\Nund Entschlossenheit bedeutungslos.
+Dialogue: 0,0:17:18.23,0:17:21.03,Flashback Internal,Zenon,0,0,0,,Die Schwachen müssen entfernt werden.
+Dialogue: 0,0:17:24.04,0:17:27.94,Flashback Internal,Zenon,0,0,0,,Nur überwältigende Macht ist absolut!
+Dialogue: 0,0:17:29.47,0:17:33.00,Flashback Internal,Zenon,0,0,0,,Wenn selbst ein einfacher Teufel\Nschon so stark ist, dann …
+Dialogue: 0,0:17:34.06,0:17:35.23,Flashback,Zenon,0,0,0,,Bruder.
+Dialogue: 0,0:17:37.09,0:17:40.66,Flashback,Zenon,0,0,0,,Mach mich von einem Teufel besessen.
+Dialogue: 0,0:17:44.38,0:17:47.92,Flashback,Zenon,0,0,0,,Beelzebub, das ist unser Handel.
+Dialogue: 0,0:17:47.92,0:17:50.65,Flashback,Zenon,0,0,0,,Verleih mir das Herz eines Teufels.
+Dialogue: 0,0:17:52.65,0:17:54.84,Flashback,Beelzebub,0,0,0,,Ein Herz darf es sein?
+Dialogue: 0,0:17:59.66,0:18:03.79,Flashback,Beelzebub,0,0,0,,Was bist du willens, mir als\NGegenleistung dafür darzubieten?
+Dialogue: 0,0:18:03.79,0:18:05.93,Flashback,Zenon,0,0,0,,Mein ganzes Selbst.
+Dialogue: 0,0:18:07.34,0:18:12.35,Flashback,Zenon,0,0,0,,Ich verspreche dir für das\NFortbestehen des Königreichs Spade,
+Dialogue: 0,0:18:12.35,0:18:15.45,Flashback,Zenon,0,0,0,,dass du meine Seele haben kannst.
+Dialogue: 0,0:18:18.35,0:18:19.71,Flashback,Beelzebub,0,0,0,,Abgemacht.
+Dialogue: 0,0:18:20.63,0:18:22.49,Flashback,Beelzebub,0,0,0,,Das sollst du haben!
+Dialogue: 0,0:18:33.97,0:18:35.40,Default,Yuno,0,0,0,,Bitte … was?
+Dialogue: 0,0:18:43.85,0:18:45.61,Internal,Yuno,0,0,0,,Dieses Gefühl …
+Dialogue: 0,0:18:46.45,0:18:48.11,Internal,Yuno,0,0,0,,Es ist wie bei ihm!
+Dialogue: 0,0:18:48.37,0:18:52.03,Default,Zenon,0,0,0,,Da ich nun das Herz\Neines Teufels erlangt habe,
+Dialogue: 0,0:18:52.03,0:18:55.74,Default,Zenon,0,0,0,,habe ich noch überwältigendere\NStärke gewonnen.
+Dialogue: 0,0:18:56.01,0:19:00.46,Internal,Langris,0,0,0,,Er setzt die Kraft eines Teufels ein\Nund besitzt auch das Herz eines Teufels.
+Dialogue: 0,0:19:00.46,0:19:02.25,Internal,Langris,0,0,0,,Ist er damit nicht längst …
+Dialogue: 0,0:19:03.25,0:19:04.89,Internal,Langris,0,0,0,,zum Teufel geworden?
+Dialogue: 0,0:19:21.85,0:19:24.81,Default,Zenon,0,0,0,,Dein Pfeilangriff von vorhin …
+Dialogue: 0,0:19:25.87,0:19:29.94,Default,Zenon,0,0,0,,Um deinen Kameraden nicht zu treffen,\Nhast du leicht die Richtung geändert,
+Dialogue: 0,0:19:29.94,0:19:32.86,Default,Zenon,0,0,0,,und so mein Herz verfehlt.
+Dialogue: 0,0:19:35.14,0:19:39.44,Default,Zenon,0,0,0,,Wenn du deinen Kameraden erwischt\Nund so mitten in mein Herz getroffen hättest, …
+Dialogue: 0,0:19:40.21,0:19:42.70,Default,Zenon,0,0,0,,wäre der Sieg dein gewesen.
+Dialogue: 0,0:20:11.70,0:20:16.03,Default,Zenon,0,0,0,,Du bist dem Tod von der Schippe gesprungen\Nund immer noch nur im Weg?
+Dialogue: 0,0:20:17.08,0:20:19.05,Default,Zenon,0,0,0,,Ich werde dich von deinem Elend erlösen.
+Dialogue: 0,0:20:28.12,0:20:30.39,Default,Finral,0,0,0,,Hallöchen, Langris.
+Dialogue: 0,0:20:30.39,0:20:31.58,Default,Langris,0,0,0,,Finral!
+Dialogue: 0,0:20:31.58,0:20:33.34,Default,Zenon,0,0,0,,Er …
+Dialogue: 0,0:20:34.34,0:20:37.22,Default,Langris,0,0,0,,Keine Ahnung, warum du hier bist,
+Dialogue: 0,0:20:37.22,0:20:39.63,Default,Langris,0,0,0,,aber bist du etwa wieder\Nzu meiner Rettung hergekommen?
+Dialogue: 0,0:20:40.00,0:20:43.89,Internal,Finral,0,0,0,,Als ich euch beide hier entdeckt habe,\Nmusste ich einfach hereilen.
+Dialogue: 0,0:20:44.30,0:20:45.52,Default,Finral,0,0,0,,Als ob!
+Dialogue: 0,0:20:45.95,0:20:48.95,Default,Finral,0,0,0,,Der hat unseren Ordensführer entführt.
+Dialogue: 0,0:20:48.95,0:20:50.81,Default,Finral,0,0,0,,Und zwar mit Raummagie.
+Dialogue: 0,0:20:51.46,0:20:54.32,Default,Finral,0,0,0,,So jemanden kann ich doch\Nnicht einfach ziehen lassen!
+Dialogue: 0,0:20:55.67,0:20:56.69,Internal,Finral,0,0,0,,Verzeihen Sie mir …
+Dialogue: 0,0:20:56.69,0:21:00.07,Internal,Finral,0,0,0,,Ich lege einen\Nkleinen Umweg ein, Herr Yami!
+Dialogue: 0,0:21:00.84,0:21:04.22,Internal,Finral,0,0,0,,Ich werde Langris direkt mit „Flügelschlag\Ndes gefallenen Engels“ treffen.
+Dialogue: 0,0:21:05.02,0:21:06.98,Internal,Finral,0,0,0,,Sofortige Teleportation!
+Dialogue: 0,0:21:08.18,0:21:09.91,Internal,Finral,0,0,0,,Dank Langris’ Manazone
+Dialogue: 0,0:21:09.91,0:21:13.21,Internal,Finral,0,0,0,,kann ich sogar innerhalb von Zenons\N„Absoluter Abwehr“ zaubern!
+Dialogue: 0,0:21:13.92,0:21:16.22,Internal,Langris,0,0,0,,Finrals Teleportation besticht
+Dialogue: 0,0:21:16.22,0:21:18.21,Internal,Langris,0,0,0,,durch Schnelligkeit und Präzision.
+Dialogue: 0,0:21:18.74,0:21:22.34,Default,Finral,0,0,0,,Solange wir beide an einem\NStrang ziehen, können wir kämpfen!
+Dialogue: 0,0:21:22.34,0:21:23.85,Default,Finral,0,0,0,,Oder etwa nicht, Langris?
+Dialogue: 0,0:21:25.29,0:21:26.68,Default,Langris,0,0,0,,Meine Güte …
+Dialogue: 0,0:21:26.96,0:21:28.68,Default,Langris,0,0,0,,Werd mal nicht frech, Bruderherz!
+Dialogue: 0,0:21:34.23,0:21:37.21,Internal,Finral,0,0,0,,Langris’ Körper hält\Ndas nicht mehr lange durch!
+Dialogue: 0,0:21:37.21,0:21:38.61,Internal,Finral,0,0,0,,Wir müssen das schnell beenden!
+Dialogue: 0,0:21:39.44,0:21:42.18,Internal,Zenon,0,0,0,,Ich habe die Geschwindigkeit\Nund das Timing
+Dialogue: 0,0:21:42.18,0:21:46.17,Internal,Zenon,0,0,0,,seiner Teleportationen erkannt …\Nund worauf sie es abgesehen haben.
+Dialogue: 0,0:21:46.17,0:21:48.95,Internal,Zenon,0,0,0,,Der Moment, wenn ihr es\Nentscheiden wollt, wird euer letzter sein.
+Dialogue: 0,0:21:49.42,0:21:50.75,Internal,Zenon,0,0,0,,Wenn sie sich nähern, …
+Dialogue: 0,0:21:50.75,0:21:52.96,Internal,Finral,0,0,0,,… um in die Manazone zu gelangen!
+Dialogue: 0,0:21:57.15,0:21:58.63,Internal,Zenon,0,0,0,,Das ist euer Ende.
+Dialogue: 0,0:22:01.10,0:22:02.29,Internal,Zenon,0,0,0,,Was?
+Dialogue: 0,0:22:03.91,0:22:06.80,Internal,Finral,0,0,0,,Ich erhöhe die Teleportgeschwindigkeit\Ndurch die Mana Method!
+Dialogue: 0,0:22:07.22,0:22:09.75,Internal,Finral,0,0,0,,Und Langris zerschneidet\Nmit seiner Magie den Raum!
+Dialogue: 0,0:22:09.75,0:22:13.10,Internal,Finral,0,0,0,,Wie stark die Verteidigung\Ndes Gegners dann ist, …
+Dialogue: 0,0:22:13.52,0:22:15.37,Internal,Finral & Langris,0,0,0,,… ist komplett egal!
+Dialogue: 0,0:22:27.45,0:22:31.45,TypePlaceholder,Credits,0,0,0,,{\fad(0,800)\fnArial\an8\bord2\fs23\3c&H000000&\c&HFFFFFF&\b1}Übersetzung: Jacqueline Philippi
+Dialogue: 0,0:22:31.45,0:22:35.46,TypePlaceholder,Credits,0,0,0,,{\fnArial\an8\bord2\fs23\3c&H000000&\c&HFFFFFF&\b1}Spotting, Revision & Typesetting: Jörg Bauer
+Dialogue: 0,0:22:35.46,0:22:39.46,TypePlaceholder,Credits,0,0,0,,{\fnArial\an8\bord2\fs23\3c&H000000&\c&HFFFFFF&\b1}Qualitätskontrolle: Victoria Zach
+Dialogue: 0,0:22:39.46,0:22:42.47,TypePlaceholder,Credits,0,0,0,,{\fnArial\an8\bord2\fs23\3c&H000000&\c&HFFFFFF&\b1}Projektleitung: Tobias Philippi
+
