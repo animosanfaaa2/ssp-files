@@ -1,0 +1,346 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: sign_generic,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:25.38,0:00:29.00,Default,Saviz,0,0,0,,These are the people \NI'm tasked to protect.
+Dialogue: 0,0:00:29.00,0:00:32.29,Default,Fia,0,0,0,,I was just thinking the same thing.
+Dialogue: 0,0:00:32.29,0:00:35.17,Default,Fia,0,0,0,,This is the beautiful \Ntown I need to protect.
+Dialogue: 0,0:00:36.01,0:00:37.92,Default,Saviz,0,0,0,,Spoken like a leader.
+Dialogue: 0,0:00:42.28,0:00:46.56,Default,Saviz,0,0,0,,Your hair is the same color \Nas the Náv Kingdom flag.
+Dialogue: 0,0:00:46.56,0:00:48.44,Default,Fia,0,0,0,,Huh? Is it?
+Dialogue: 0,0:00:49.30,0:00:52.35,Default,Saviz,0,0,0,,You're lucky you don't have saint powers.
+Dialogue: 0,0:00:52.35,0:00:57.31,Default,Saviz,0,0,0,,You'd have been held up like an icon \Nif you'd had even a hint of them.
+Dialogue: 0,0:00:57.99,0:01:00.32,Default,Saviz,0,0,0,,Sorry to make you come here.
+Dialogue: 0,0:01:00.90,0:01:03.82,Default,Saviz,0,0,0,,I had a feeling your hair color \Nwas similar to the flag,
+Dialogue: 0,0:01:03.82,0:01:05.40,Default,Saviz,0,0,0,,and I wanted to compare.
+Dialogue: 0,0:01:06.40,0:01:09.46,Default,Fia,0,0,0,,You have a bit of a childish side, \Nhuh, Grand Master?
+Dialogue: 0,0:01:09.80,0:01:13.34,Default,Saviz,0,0,0,,Fia, don't ever dye your hair.
+Dialogue: 0,0:01:13.34,0:01:14.55,Default,Fia,0,0,0,,Of course.
+Dialogue: 0,0:01:14.55,0:01:19.09,Default,Fia,0,0,0,,My hair's always been this color.
+Dialogue: 0,0:01:19.10,0:01:23.93,Default,Fia,0,0,0,,I've loved this color \Nfor a really long time.
+Dialogue: 0,0:02:55.36,0:03:00.03,top,sign,0,0,0,,EPISODE 9\NFIA, TO SUTHERLAND
+Dialogue: 0,0:02:55.77,0:02:58.39,Default,Fia,0,0,0,,Fia Ruud has returned!
+Dialogue: 0,0:02:58.77,0:03:00.27,Default,Cyril,0,0,0,,Welcome back, Fia.
+Dialogue: 0,0:03:01.03,0:03:04.78,Default,Cyril,0,0,0,,Good work with the Fourth \NMonster Tamer Knight Brigade.
+Dialogue: 0,0:03:05.19,0:03:07.66,Default,Cyril,0,0,0,,I'm glad you're home safe.
+Dialogue: 0,0:03:07.66,0:03:13.79,Default,Cyril,0,0,0,,I've been informed by Zackary and Quentin \Nthat you carried out your duties well.
+Dialogue: 0,0:03:13.80,0:03:19.29,Default,Cyril,0,0,0,,I'm honored that other captains would \Nheap praise on my subordinate.
+Dialogue: 0,0:03:19.29,0:03:21.59,Default,Fia,0,0,0,,S-Sorry?
+Dialogue: 0,0:03:21.60,0:03:24.67,italics,Fia (M),0,0,0,,I never had a chance \Nto quantify the familiars' lives,
+Dialogue: 0,0:03:24.67,0:03:27.80,italics,Fia (M),0,0,0,,and it was Zavilia that did the \Nmost in searching for the black dragon...
+Dialogue: 0,0:03:27.80,0:03:29.72,italics,Fia (M),0,0,0,,Why am I the one getting praise?
+Dialogue: 0,0:03:30.16,0:03:32.56,Default,Cyril,0,0,0,,By the way, how are you feeling?
+Dialogue: 0,0:03:32.56,0:03:33.56,Default,Fia,0,0,0,,Huh?
+Dialogue: 0,0:03:34.05,0:03:39.66,Default,Cyril,0,0,0,,You were saddened last night that your \Ndear friend was going somewhere far away.
+Dialogue: 0,0:03:47.84,0:03:48.56,Default,Fia,0,0,0,,Sorry?
+Dialogue: 0,0:03:41.57,0:03:46.32,Default,Cyril,0,0,0,,Remember? You and \NI became friends yesterday.
+Dialogue: 0,0:03:48.56,0:03:52.32,Default,Cyril,0,0,0,,You said you were sad that \Na close friend of yours was going away,
+Dialogue: 0,0:03:52.32,0:03:57.89,Default,Cyril,0,0,0,,and I offered to be your friend \Nin their place, and you agreed.
+Dialogue: 0,0:03:57.90,0:03:59.33,Default,Fia,0,0,0,,N-No way!
+Dialogue: 0,0:03:59.33,0:04:03.93,Default,Fia,0,0,0,,I would never agree \Nto becoming friends with you!
+Dialogue: 0,0:04:03.93,0:04:04.80,Default,Cyril,0,0,0,,Oh?
+Dialogue: 0,0:04:04.80,0:04:09.12,Default,Cyril,0,0,0,,Come to think of it, you do forget \Neverything when you get drunk.
+Dialogue: 0,0:04:09.12,0:04:11.91,Default,Cyril,0,0,0,,Do you remember anything from last night?
+Dialogue: 0,0:04:11.91,0:04:14.21,Default,Fia,0,0,0,,W-Well...
+Dialogue: 0,0:04:14.21,0:04:17.43,Default,Cyril,0,0,0,,I think I'm quite \Nthe catch as far as friends go.
+Dialogue: 0,0:04:20.93,0:04:23.27,Default,Fia,0,0,0,,A-All right.
+Dialogue: 0,0:04:23.27,0:04:27.86,Default,Fia,0,0,0,,You aren't a replacement for Zavilia, \Nbut you are my friend, Captain Cyril.
+Dialogue: 0,0:04:29.64,0:04:31.86,Default,Cyril,0,0,0,,Thank you, Fia.
+Dialogue: 0,0:04:32.37,0:04:36.24,Default,Cyril,0,0,0,,Now, Fia, as a friend, \NI have a favor to ask of you.
+Dialogue: 0,0:04:36.24,0:04:41.54,Default,Fia,0,0,0,,S-So all that stuff about being friends \Nwas just an excuse for something?!
+Dialogue: 0,0:04:41.54,0:04:43.39,Default,Cyril,0,0,0,,You said it yourself.
+Dialogue: 0,0:04:43.61,0:04:47.32,Default,Cyril,0,0,0,,To be friends means to talk \Ntogether, go places together,
+Dialogue: 0,0:04:47.32,0:04:49.76,Default,Cyril,0,0,0,,and to share a lot with one another.
+Dialogue: 0,0:04:49.76,0:04:52.67,Default,Fia,0,0,0,,I... agree, but...
+Dialogue: 0,0:04:52.67,0:04:55.52,Default,Fia,0,0,0,,What exactly is it that you'd \Nlike to share, Captain?
+Dialogue: 0,0:04:56.28,0:04:58.22,Default,Cyril,0,0,0,,My memories.
+Dialogue: 0,0:04:58.98,0:05:00.29,Default,Fia,0,0,0,,Your memories?
+Dialogue: 0,0:05:00.29,0:05:01.14,Default,Cyril,0,0,0,,Yes.
+Dialogue: 0,0:05:01.89,0:05:04.52,Default,Cyril,0,0,0,,There's a place that's special to me.
+Dialogue: 0,0:05:04.52,0:05:09.67,Default,Cyril,0,0,0,,I go there every year around this time \Nso that I don't forget my past deeds.
+Dialogue: 0,0:05:09.67,0:05:11.54,Default,Cyril,0,0,0,,I'm wondering if you'd like to join me.
+Dialogue: 0,0:05:11.80,0:05:14.84,Default,Fia,0,0,0,,Where might that be?
+Dialogue: 0,0:05:14.84,0:05:16.67,Default,Cyril,0,0,0,,A place in my domain.
+Dialogue: 0,0:05:16.68,0:05:17.91,Default,Fia,0,0,0,,Your domain?
+Dialogue: 0,0:05:18.65,0:05:22.30,Default,Fia,0,0,0,,Speaking of which,\Nwhat was your family name again?
+Dialogue: 0,0:05:22.30,0:05:27.32,Default,Cyril,0,0,0,,Fia. You say that like you just \Nhappen to have forgotten,
+Dialogue: 0,0:05:27.32,0:05:31.22,Default,Cyril,0,0,0,,but you've never known my family \Nname to begin with, have you?
+Dialogue: 0,0:05:31.42,0:05:32.68,Default,Cyril,0,0,0,,It's Sutherland.
+Dialogue: 0,0:05:32.68,0:05:33.97,Default,Fia,0,0,0,,Sutherland?!
+Dialogue: 0,0:05:33.97,0:05:35.28,italics,Fia (M),0,0,0,,Oh, no!
+Dialogue: 0,0:05:35.28,0:05:38.61,italics,Fia (M),0,0,0,,That's the domain of the Blue Knight \Nwho guarded me in my past life!
+Dialogue: 0,0:05:39.02,0:05:42.28,Default,Fia,0,0,0,,C-Captain Cyril, are you \Na descendant of the Blue Knight?
+Dialogue: 0,0:05:42.28,0:05:47.36,Default,Cyril,0,0,0,,I'm surprised you know of such \Nan obscure figure as the Blue Knight.
+Dialogue: 0,0:05:47.36,0:05:48.44,Default,Fia,0,0,0,,Huh?
+Dialogue: 0,0:05:48.66,0:05:54.05,Default,Fia,0,0,0,,I thought the Blue Knight and White Knight \Nwere the two most capable knights,
+Dialogue: 0,0:05:54.05,0:05:57.08,Default,Fia,0,0,0,,named after the blue \Nand white of the flag.
+Dialogue: 0,0:05:57.36,0:05:59.54,Default,Cyril,0,0,0,,It's been over three\N hundred years since
+Dialogue: 0,0:05:59.54,0:06:03.75,Default,Cyril,0,0,0,,the kingdom flag had blue \Nand white on its flag.
+Dialogue: 0,0:06:03.75,0:06:08.70,Default,Cyril,0,0,0,,The current flag of the Náv Kingdom \Nis the black dragon emblem on red.
+Dialogue: 0,0:06:08.70,0:06:09.96,italics,Fia (M),0,0,0,,I forgot about that.
+Dialogue: 0,0:06:10.26,0:06:16.30,Default,Fia,0,0,0,,Um... does that mean the most \Nfamous knight is the Red Knight?
+Dialogue: 0,0:06:16.30,0:06:18.83,Default,Cyril,0,0,0,,Red is a forbidden color, Fia.
+Dialogue: 0,0:06:18.83,0:06:21.47,Default,Cyril,0,0,0,,No one is allowed to use it.
+Dialogue: 0,0:06:21.47,0:06:23.47,Default,Fia,0,0,0,,Huh? It is?
+Dialogue: 0,0:06:23.47,0:06:26.78,Default,Cyril,0,0,0,,Yes. Red is the color of the Great Saint.
+Dialogue: 0,0:06:26.78,0:06:31.96,Default,Cyril,0,0,0,,We returned the Red \Nof the Great Saint to the Great Saint.
+Dialogue: 0,0:06:31.96,0:06:34.28,Default,Fia,0,0,0,,The Red of the Great Saint?
+Dialogue: 0,0:06:34.28,0:06:39.38,Default,Fia,0,0,0,,Come to think of it, no one's \Nselling red clothes or red curtains.
+Dialogue: 0,0:06:39.38,0:06:43.48,Default,Fia,0,0,0,,S-So, are you a descendant \Nof the Blue Knight?
+Dialogue: 0,0:06:43.48,0:06:45.50,Default,Cyril,0,0,0,,Unfortunately, I am not.
+Dialogue: 0,0:06:45.50,0:06:48.37,Default,Cyril,0,0,0,,The last Blue Knight had no successor,
+Dialogue: 0,0:06:48.37,0:06:52.80,Default,Cyril,0,0,0,,and so the Sutherland domain \Nwas handed over to the kingdom.
+Dialogue: 0,0:06:52.80,0:06:56.67,Default,Cyril,0,0,0,,About thirty years ago, \Nit was entrusted to my father.
+Dialogue: 0,0:06:56.67,0:06:58.68,Default,Fia,0,0,0,,I-I see.
+Dialogue: 0,0:06:59.16,0:07:00.53,italics,Fia (M),0,0,0,,The Blue Knight...
+Dialogue: 0,0:07:00.53,0:07:03.08,italics,Fia (M),0,0,0,,He loved Sutherland.
+Dialogue: 0,0:07:03.64,0:07:06.60,italics,Fia (M),0,0,0,,So his tomb must be there.
+Dialogue: 0,0:07:06.95,0:07:12.16,italics,Fia (M),0,0,0,,Maybe I'll visit his grave \Nwhen I go there with Captain Cyril.
+Dialogue: 0,0:07:13.91,0:07:15.30,Default,Fia,0,0,0,,Understood.
+Dialogue: 0,0:07:15.30,0:07:17.20,Default,Fia,0,0,0,,I'll accompany you there.
+Dialogue: 0,0:07:18.00,0:07:19.56,Default,Cyril,0,0,0,,Thank you.
+Dialogue: 0,0:07:22.49,0:07:26.52,italics,Fia (M),0,0,0,,I was worried he might ask me \Nfor a lot more, but this isn't a big deal.
+Dialogue: 0,0:07:26.52,0:07:28.17,Default,Fabian,0,0,0,,Oh, Fia.
+Dialogue: 0,0:07:28.17,0:07:29.42,Default,Fabian,0,0,0,,Long time.
+Dialogue: 0,0:07:29.42,0:07:30.92,Default,Fia,0,0,0,,Oh, Fabian.
+Dialogue: 0,0:07:31.23,0:07:35.55,Default,Fia,0,0,0,,You've become even more princely \Nin the short time we've been apart.
+Dialogue: 0,0:07:35.85,0:07:38.68,Default,Fabian,0,0,0,,Were you reporting to Captain Cyril?
+Dialogue: 0,0:07:38.68,0:07:39.55,Default,Fia,0,0,0,,Yes.
+Dialogue: 0,0:07:39.55,0:07:43.18,Default,Fabian,0,0,0,,I heard he's headed \Nto the Sutherland domain
+Dialogue: 0,0:07:43.18,0:07:46.12,Default,Fabian,0,0,0,,on behalf of His \NHighness's brother, Saviz.
+Dialogue: 0,0:07:46.12,0:07:46.84,Default,Fia,0,0,0,,Huh...
+Dialogue: 0,0:07:47.62,0:07:51.96,Default,Fia,0,0,0,,Did you just say on behalf \Nof His Highness's brother?
+Dialogue: 0,0:07:51.96,0:07:52.82,Default,Fabian,0,0,0,,Yup.
+Dialogue: 0,0:07:52.82,0:07:56.95,Default,Fia,0,0,0,,So we're going on official kingdom \Nbusiness and not on knight business?!
+Dialogue: 0,0:07:56.95,0:07:58.75,Default,Fia,0,0,0,,He never told me!
+Dialogue: 0,0:08:06.99,0:08:08.29,Default,Cyril,0,0,0,,What's the matter?
+Dialogue: 0,0:08:08.76,0:08:10.94,Default,Fia,0,0,0,,Err, well...
+Dialogue: 0,0:08:10.94,0:08:14.89,Default,Fia,0,0,0,,This building is \Nfor the grand master, right?
+Dialogue: 0,0:08:14.89,0:08:17.54,Default,Fia,0,0,0,,So, I was just thinking, \Nmaybe there should be
+Dialogue: 0,0:08:17.54,0:08:21.02,Default,Fia,0,0,0,,portraits of high knights \Nand not of the Great Saint.
+Dialogue: 0,0:08:21.38,0:08:28.88,Default,Cyril,0,0,0,,You have a point, but this portrait \Nhas been here for three hundred years.
+Dialogue: 0,0:08:28.88,0:08:31.10,Default,Fia,0,0,0,,Three hundred years...
+Dialogue: 0,0:08:31.10,0:08:35.28,Default,Cyril,0,0,0,,The Black Dragon Knights'\Nfounding grand master commanded
+Dialogue: 0,0:08:35.28,0:08:39.44,Default,Cyril,0,0,0,,that this portrait be kept here forever.
+Dialogue: 0,0:08:39.44,0:08:43.79,italics,Fia (M),0,0,0,,There were no Black Dragon Knights \Nwhen I was alive, though...
+Dialogue: 0,0:08:50.54,0:08:53.55,Default,Saviz,0,0,0,,I hear you're leaving with Cyril \Nfor Sutherland in three days.
+Dialogue: 0,0:08:53.56,0:08:54.62,Default,Fia,0,0,0,,Yes.
+Dialogue: 0,0:08:54.62,0:08:57.18,Default,Cyril,0,0,0,,I haven't shared the details \Nof the trip with Fia yet.
+Dialogue: 0,0:08:57.37,0:09:01.56,Default,Cyril,0,0,0,,I thought it might be best \Nto do so in your presence.
+Dialogue: 0,0:09:01.75,0:09:02.84,Default,Saviz,0,0,0,,I see.
+Dialogue: 0,0:09:04.01,0:09:07.34,Default,Saviz,0,0,0,,Fia, Sutherland suffered a civil war
+Dialogue: 0,0:09:07.34,0:09:10.84,Default,Saviz,0,0,0,,ten years ago called \Nthe Lament of Sutherland.
+Dialogue: 0,0:09:11.19,0:09:15.32,Default,Saviz,0,0,0,,And many of those people have \Nyet to recover from the wounds.
+Dialogue: 0,0:09:15.95,0:09:21.24,Default,Saviz,0,0,0,,They may still resent the knights for\N failing to put an end to the conflict.
+Dialogue: 0,0:09:22.64,0:09:24.51,Default,Saviz,0,0,0,,You're still a trainee.
+Dialogue: 0,0:09:24.91,0:09:27.94,Default,Saviz,0,0,0,,Be there as a {\i1}future{\i0} knight.
+Dialogue: 0,0:09:28.44,0:09:32.39,Default,Saviz,0,0,0,,Not as a knight now, \Nbut as a neutral observer.
+Dialogue: 0,0:09:33.48,0:09:37.84,Default,Saviz,0,0,0,,See with your own eyes \Nwho must be removed.
+Dialogue: 0,0:09:39.09,0:09:40.84,Default,Fia,0,0,0,,Understood.
+Dialogue: 0,0:09:40.84,0:09:44.17,Default,Cyril,0,0,0,,The Great Saint has \Na strong following there.
+Dialogue: 0,0:09:44.53,0:09:48.92,Default,Cyril,0,0,0,,That's what I failed \Nto understand ten years ago.
+Dialogue: 0,0:09:48.92,0:09:52.52,Default,Fia,0,0,0,,Not the saints,\Nbut the Great Saints specifically?
+Dialogue: 0,0:09:52.52,0:09:54.50,Default,Fia,0,0,0,,Speaking of which...
+Dialogue: 0,0:09:54.50,0:09:58.20,Default,Fia,0,0,0,,Which of the Great Saints \Nis the most popular?
+Dialogue: 0,0:09:58.20,0:10:01.20,Default,Cyril,0,0,0,,Great Saint Serafina, of course.
+Dialogue: 0,0:10:01.20,0:10:03.70,italics,Fia (M),0,0,0,,I'm number one?!
+Dialogue: 0,0:10:03.71,0:10:07.70,Default,Cyril,0,0,0,,There's only ever been \None Great Saint, after all.
+Dialogue: 0,0:10:08.70,0:10:09.47,Default,Fia,0,0,0,,Huh?
+Dialogue: 0,0:10:09.47,0:10:11.08,italics,Fia (M),0,0,0,,J-Just one?
+Dialogue: 0,0:10:11.08,0:10:14.12,italics,Fia (M),0,0,0,,Only one that earned \Nthe title of Great Saint?
+Dialogue: 0,0:10:15.22,0:10:17.97,italics,Fia (M),0,0,0,,No wonder I'm number one, then.
+Dialogue: 0,0:10:17.97,0:10:20.34,Default,Saviz,0,0,0,,The people of Sutherland will no doubt
+Dialogue: 0,0:10:20.34,0:10:23.15,Default,Saviz,0,0,0,,respond to the color \Nof your hair and eyes.
+Dialogue: 0,0:10:23.15,0:10:25.96,Default,Saviz,0,0,0,,They're the same as the\Nlegendary Great Saint.
+Dialogue: 0,0:10:25.96,0:10:30.86,Default,Saviz,0,0,0,,There's no telling what might happen. \NNever be on your own.
+Dialogue: 0,0:10:31.22,0:10:32.22,Default,Fia,0,0,0,,Yes, sir.
+Dialogue: 0,0:10:32.60,0:10:36.23,Default,Saviz,0,0,0,,That combination of colors \Nis absolutely unique.
+Dialogue: 0,0:10:36.23,0:10:37.65,Default,Saviz,0,0,0,,Be careful.
+Dialogue: 0,0:10:40.23,0:10:43.32,Default,Fia,0,0,0,,An absolutely unique combination, huh?
+Dialogue: 0,0:10:48.32,0:10:50.08,Default,Fia,0,0,0,,Oh, yeah...
+Dialogue: 0,0:10:50.32,0:10:55.36,Default,Fia,0,0,0,,I remember people talking about it.
+Dialogue: 0,0:11:10.76,0:11:11.71,flashback,Canopus,0,0,0,,Your Highness!
+Dialogue: 0,0:11:12.19,0:11:13.48,flashback,Canopus,0,0,0,,Your Highness!
+Dialogue: 0,0:11:13.48,0:11:17.23,flashback,Canopus,0,0,0,,Your Highness, how many \Ntimes do I need to tell you?!
+Dialogue: 0,0:11:17.23,0:11:18.59,flashback,Canopus,0,0,0,,Good grief!
+Dialogue: 0,0:11:18.59,0:11:21.64,flashback,Canopus,0,0,0,,You're the one-and-only Great Saint! \NWhat are you doing?!
+Dialogue: 0,0:11:21.64,0:11:26.21,flashback,Seraphina,0,0,0,,I just couldn't wait \Nto see your domain, Canopus.
+Dialogue: 0,0:11:26.21,0:11:28.53,flashback,Seraphina,0,0,0,,So I was just in a little bit of a hurry.
+Dialogue: 0,0:11:28.53,0:11:29.78,flashback,Canopus,0,0,0,,A little?
+Dialogue: 0,0:11:29.78,0:11:31.24,flashback,Canopus,0,0,0,,A little bit, you say?
+Dialogue: 0,0:11:32.78,0:11:37.51,flashback,Canopus,0,0,0,,You rode your horse for two days and \Nnights, and you call that "a little"?
+Dialogue: 0,0:11:37.51,0:11:39.25,flashback,Canopus,0,0,0,,Knock it off!
+Dialogue: 0,0:11:40.49,0:11:42.07,flashback,Seraphina,0,0,0,,I'm sorry.
+Dialogue: 0,0:11:44.86,0:11:46.44,flashback,Canopus,0,0,0,,Unbelievable.
+Dialogue: 0,0:11:46.44,0:11:49.15,flashback,Canopus,0,0,0,,You never seem to know when to stop.
+Dialogue: 0,0:11:49.15,0:11:51.79,flashback,Canopus,0,0,0,,I am your guardian knight.
+Dialogue: 0,0:11:51.79,0:11:56.02,flashback,Canopus,0,0,0,,My duty is to escort and assist you.
+Dialogue: 0,0:11:56.59,0:11:57.84,flashback,Canopus,0,0,0,,But right now,
+Dialogue: 0,0:11:57.86,0:12:03.80,flashback,Canopus,0,0,0,,as the lord of the Sutherland domain, \NI am indebted to you for your efforts.
+Dialogue: 0,0:12:06.37,0:12:08.32,italics,Fia (M),0,0,0,,Hey, Canopus...
+Dialogue: 0,0:12:09.12,0:12:11.09,italics,Fia (M),0,0,0,,I'm going to go see what's become of your
+Dialogue: 0,0:12:11.09,0:12:13.56,italics,Fia (M),0,0,0,,domain three hundred \Nyears later on your behalf.
+Dialogue: 0,0:12:17.54,0:12:23.66,italics,Fia (M),0,0,0,,Our visiting group is headed \Ndue south to Sutherland.
+Dialogue: 0,0:12:24.04,0:12:30.52,italics,Fia (M),0,0,0,,Náv is a kingdom by the ocean, ruling \Nover the whole west side of the continent.
+Dialogue: 0,0:12:28.76,0:12:32.81,top,sign,0,0,0,,NÁV KINGDOM\NROYAL CAPITAL\NSUTHERLAND
+Dialogue: 0,0:12:31.38,0:12:34.87,italics,Fia (M),0,0,0,,Sutherland is at \Nthe southernmost point of the kingdom.
+Dialogue: 0,0:12:34.88,0:12:36.49,italics,Fia (M),0,0,0,,It takes roughly ten days by carriage
+Dialogue: 0,0:12:36.49,0:12:38.36,italics,Fia (M),0,0,0,,from the capital \Nin the center of the kingdom.
+Dialogue: 0,0:12:38.68,0:12:42.80,italics,Fia (M),0,0,0,,The grand master made a good decision \Nin choosing Cyril for his delegate.
+Dialogue: 0,0:12:42.81,0:12:47.36,italics,Fia (M),0,0,0,,He wears noble clothes so well. \NYou would never doubt that he's a royal.
+Dialogue: 0,0:12:48.45,0:12:51.37,italics,Fia (M),0,0,0,,It feels great going to new places.
+Dialogue: 0,0:12:51.66,0:12:55.87,italics,Fia (M),0,0,0,,Unfamiliar sights, children curious \Nabout the knights...
+Dialogue: 0,0:12:59.29,0:13:04.76,italics,Fia (M),0,0,0,,As I recall, the people of Sutherland \Nwere mild-mannered and gentle.
+Dialogue: 0,0:13:04.99,0:13:07.08,italics,Fia (M),0,0,0,,I can't wait to meet them.
+Dialogue: 0,0:13:11.76,0:13:15.33,Default,Fabian,0,0,0,,Unbelievable that Sutherland \Nis this way now...
+Dialogue: 0,0:13:16.92,0:13:20.30,Default,Fabian,0,0,0,,No one's coming to greet their lord.
+Dialogue: 0,0:13:23.00,0:13:25.60,Default,Kurtis,0,0,0,,It's been a while, Captain Cyril.
+Dialogue: 0,0:13:25.61,0:13:29.16,Default,Kurtis,0,0,0,,I'm grateful that \Nyou've come all this way.
+Dialogue: 0,0:13:29.17,0:13:30.47,Default,Cyril,0,0,0,,Kurtis.
+Dialogue: 0,0:13:30.47,0:13:34.16,Default,Cyril,0,0,0,,You're a captain yourself, sir.\N We're peers.
+Dialogue: 0,0:13:34.16,0:13:36.24,Default,Cyril,0,0,0,,Please just call me Cyril.
+Dialogue: 0,0:13:36.66,0:13:41.01,Default,Kurtis,0,0,0,,In that case, Captain Cyril, \Nplease stop calling me "sir."
+Dialogue: 0,0:13:41.02,0:13:42.16,Default,Cyril,0,0,0,,How tiresome.
+Dialogue: 0,0:13:44.58,0:13:45.88,Default,Cyril,0,0,0,,I'll introduce you.
+Dialogue: 0,0:13:45.88,0:13:48.50,Default,Cyril,0,0,0,,This is Captain Kurtis \Nof the Thirteenth Knight Brigade.
+Dialogue: 0,0:13:48.51,0:13:49.92,Default,Kurtis,0,0,0,,Pleased to meet you.
+Dialogue: 0,0:13:50.22,0:13:53.60,Default,Kurtis,0,0,0,,I'm Kurtis Bannister. I look \Nforward to getting to know you.
+Dialogue: 0,0:13:50.97,0:13:54.43,top,sign,0,0,0,,THIRTEENTH KNIGHT BRIGADE CAPTAIN\NKURTIS BANNISTER
+Dialogue: 0,0:13:55.68,0:13:57.18,Default,Kurtis,0,0,0,,Duchess!
+Dialogue: 0,0:13:58.32,0:14:01.95,Default,Fia,0,0,0,,Huh? Are you talking about me?
+Dialogue: 0,0:14:01.95,0:14:06.53,Default,Fia,0,0,0,,Do you mean that \NI'm as graceful as a duchess?
+Dialogue: 0,0:14:06.53,0:14:10.44,Default,Fabian,0,0,0,,No, I'm pretty sure he's \Nmistaking you for the duchess.
+Dialogue: 0,0:14:10.44,0:14:13.57,Default,Fia,0,0,0,,What?! You mean there's a duke here?!
+Dialogue: 0,0:14:16.80,0:14:20.96,Default,Fia,0,0,0,,Huh? Did I say something wrong?
+Dialogue: 0,0:14:23.78,0:14:25.96,Default,Cyril,0,0,0,,Hello, Lady Fia.
+Dialogue: 0,0:14:25.96,0:14:28.45,Default,Cyril,0,0,0,,I'm Cyril, Duke of Sutherland.
+Dialogue: 0,0:14:29.09,0:14:33.01,Default,Cyril,0,0,0,,You truly don't take any \Ninterest in me, do you?
+Dialogue: 0,0:14:33.23,0:14:36.90,Default,Cyril,0,0,0,,Everyone knows that I'm the duke.
+Dialogue: 0,0:14:36.90,0:14:40.77,Default,Cyril,0,0,0,,This would be a good time to let me know \Nif you have any questions.
+Dialogue: 0,0:14:41.85,0:14:43.26,Default,Fia,0,0,0,,S-So then...
+Dialogue: 0,0:14:43.26,0:14:50.24,Default,Fia,0,0,0,,Do I look so much like your wife \Nthat I'd be mistaken for her?
+Dialogue: 0,0:14:50.57,0:14:56.44,Default,Fia,0,0,0,,N-No, I wasn't wondering if \NI'm your type or anything like that!
+Dialogue: 0,0:14:56.44,0:14:59.33,Default,Fia,0,0,0,,That's not what I'm asking!
+Dialogue: 0,0:15:00.08,0:15:02.08,Default,Cyril,0,0,0,,I'm single.
+Dialogue: 0,0:15:02.40,0:15:06.71,Default,Cyril,0,0,0,,Cyril Sutherland, twenty-seven \Nyears old, 187 centimeters,
+Dialogue: 0,0:15:06.71,0:15:09.76,Default,Cyril,0,0,0,,both parents deceased, only child.
+Dialogue: 0,0:15:10.51,0:15:13.40,Default,Cyril,0,0,0,,My father was the younger \Nbrother of the previous king.
+Dialogue: 0,0:15:13.40,0:15:14.65,Default,Cyril,0,0,0,,In other words,
+Dialogue: 0,0:15:14.65,0:15:18.11,Default,Cyril,0,0,0,,I'm second in line \Nfor the throne as well as a duke,
+Dialogue: 0,0:15:18.11,0:15:20.85,Default,Cyril,0,0,0,,and I serve as the captain \Nof the First Brigade.
+Dialogue: 0,0:15:20.85,0:15:23.67,Default,Fia,0,0,0,,S-Second in line for the throne...
+Dialogue: 0,0:15:23.98,0:15:28.73,Default,Cyril,0,0,0,,I suspect Kurtis is referring to my \Nmother, who passed away ten years ago.
+Dialogue: 0,0:15:28.94,0:15:33.61,Default,Cyril,0,0,0,,She had red hair like yours.
+Dialogue: 0,0:15:33.62,0:15:36.55,Default,Fia,0,0,0,,Captain Kurtis, I'm fifteen years old.
+Dialogue: 0,0:15:36.55,0:15:40.12,Default,Fia,0,0,0,,And you thought I'd have such a big son?
+Dialogue: 0,0:15:40.12,0:15:43.35,Default,Fia,0,0,0,,I'd never want to have such a \Ncapable, unassailable son!
+Dialogue: 0,0:15:43.35,0:15:45.13,Default,Kurtis,0,0,0,,M-My apologies.
+Dialogue: 0,0:15:45.33,0:15:48.04,Default,Kurtis,0,0,0,,My eyesight isn't very good.
+Dialogue: 0,0:15:48.04,0:15:51.18,Default,Kurtis,0,0,0,,I hadn't seen red hair \Non this land for a decade.
+Dialogue: 0,0:15:51.18,0:15:54.10,Default,Kurtis,0,0,0,,That was inappropriate of me.
+Dialogue: 0,0:15:55.52,0:15:59.10,Default,Kurtis,0,0,0,,Yup, up close, you're certainly a cute \Nbut fierce-looking lady knight.
+Dialogue: 0,0:15:59.10,0:16:03.64,Default,Kurtis,0,0,0,,That must be why I mistook your \Ndignified aura for that of the duchess.
+Dialogue: 0,0:16:03.64,0:16:05.89,Default,Fia,0,0,0,,I-I see.
+Dialogue: 0,0:16:07.11,0:16:08.76,Default,Fia,0,0,0,,Fabian, did you hear that?
+Dialogue: 0,0:16:08.76,0:16:12.86,Default,Fia,0,0,0,,Apparently, my overflowing gracefulness \Nis what caused his misunderstanding.
+Dialogue: 0,0:16:19.21,0:16:22.11,Default,Fia,0,0,0,,We're staying for ten days, right?
+Dialogue: 0,0:16:22.11,0:16:23.24,Default,Fabian,0,0,0,,Yeah.
+Dialogue: 0,0:16:24.83,0:16:28.25,italics,Fia (M),0,0,0,,This is the land that Canopus loved...
+Dialogue: 0,0:16:28.25,0:16:33.76,Default,Fabian,0,0,0,,Captain Cyril mentioned \Nthat the ceremony is in a week.
+Dialogue: 0,0:16:33.96,0:16:35.65,Default,Fia,0,0,0,,The ceremony...
+Dialogue: 0,0:16:35.68,0:16:40.08,Default,Fia,0,0,0,,The royal family visits \Nthe land to pray for the people
+Dialogue: 0,0:16:40.08,0:16:44.68,Default,Fia,0,0,0,,of Sutherland whose lives were lost \Nin the Lament of Sutherland.
+Dialogue: 0,0:16:45.27,0:16:48.84,Default,Fabian,0,0,0,,And I'm told that it wasn't just \Nthe people of Sutherland,
+Dialogue: 0,0:16:48.84,0:16:53.28,Default,Fabian,0,0,0,,but also Captain Cyril's mother \Nand father, who lost their lives.
+Dialogue: 0,0:16:53.28,0:16:54.22,Default,Fia,0,0,0,,Yes.
+Dialogue: 0,0:17:03.23,0:17:04.97,Default,Kai,0,0,0,,The Great Saint!
+Dialogue: 0,0:17:11.06,0:17:12.42,Default,Eddy,0,0,0,,Red hair!
+Dialogue: 0,0:17:12.42,0:17:13.21,Default,Allie,0,0,0,,Golden eyes!
+Dialogue: 0,0:17:13.21,0:17:14.67,Default,Kai,0,0,0,,It's the Great Saint!
+Dialogue: 0,0:17:20.15,0:17:21.56,Default,Kai,0,0,0,,Great Saint!
+Dialogue: 0,0:17:22.65,0:17:25.35,Default,Fia,0,0,0,,Oh, you're pretty strong \Nif you can shove me down!
+Dialogue: 0,0:17:27.09,0:17:30.49,Default,Kai,0,0,0,,Stop! Stop it!
+Dialogue: 0,0:17:30.49,0:17:31.98,Default,Cyril,0,0,0,,You sure are having fun, Fia.
+Dialogue: 0,0:17:32.93,0:17:34.98,Default,Fia,0,0,0,,Oh, Captain Cyril.
+Dialogue: 0,0:17:38.96,0:17:40.96,Default,Fia,0,0,0,,Yes, well...
+Dialogue: 0,0:17:40.96,0:17:43.88,Default,Fia,0,0,0,,Uh... We're training.
+Dialogue: 0,0:17:53.17,0:17:56.12,Default,Fia,0,0,0,,They're such good, energetic kids.
+Dialogue: 0,0:17:56.12,0:17:57.27,Default,Cyril,0,0,0,,Indeed.
+Dialogue: 0,0:17:57.27,0:18:00.38,Default,Cyril,0,0,0,,It's my hope that they can \Ncontinue to live well here.
+Dialogue: 0,0:18:00.38,0:18:03.40,Default,Fia,0,0,0,,I'm sure they will, \Nunder your leadership.
+Dialogue: 0,0:18:03.40,0:18:04.75,Default,Cyril,0,0,0,,I'm not so sure.
+Dialogue: 0,0:18:06.59,0:18:11.50,Default,Cyril,0,0,0,,I'm quite sure those children left \Nbecause they saw me.
+Dialogue: 0,0:18:16.44,0:18:18.00,Default,Fia,0,0,0,,So...
+Dialogue: 0,0:18:18.00,0:18:21.65,Default,Fia,0,0,0,,Are you and Captain Kurtis close?
+Dialogue: 0,0:18:21.82,0:18:27.79,Default,Kurtis,0,0,0,,I used to serve in the First \NBrigade under Captain Cyril.
+Dialogue: 0,0:18:27.97,0:18:31.03,Default,Kurtis,0,0,0,,I was just another knight \Nwhen he tapped me
+Dialogue: 0,0:18:31.03,0:18:35.42,Default,Kurtis,0,0,0,,to be the captain of the\N Thirteenth Knight Brigade.
+Dialogue: 0,0:18:35.43,0:18:39.68,Default,Cyril,0,0,0,,Kurtis used to accompany me on\Nmy annual visits here year after year.
+Dialogue: 0,0:18:40.03,0:18:43.71,Default,Cyril,0,0,0,,The people of this land \Naren't very fond of the knights,
+Dialogue: 0,0:18:43.71,0:18:49.08,Default,Cyril,0,0,0,,except for Kurtis, whom they've \Naccepted as one of their own.
+Dialogue: 0,0:18:50.10,0:18:52.52,Default,Kurtis,0,0,0,,I'm quite lacking in skill,
+Dialogue: 0,0:18:52.52,0:18:57.23,Default,Kurtis,0,0,0,,but he nominated me for captain solely \Nfor my affinity with the people.
+Dialogue: 0,0:18:57.23,0:19:01.18,Default,Cyril,0,0,0,,You're plenty skilled, Kurtis.
+Dialogue: 0,0:19:01.64,0:19:03.84,Default,Kurtis,0,0,0,,I appreciate your kindness,
+Dialogue: 0,0:19:04.40,0:19:09.41,Default,Kurtis,0,0,0,,but I'm well past being \Ndisappointed in how weak I am.
+Dialogue: 0,0:19:09.68,0:19:12.76,Default,Kurtis,0,0,0,,Now, I have a clear \Nunderstanding of my own abilities,
+Dialogue: 0,0:19:12.76,0:19:15.43,Default,Kurtis,0,0,0,,and I put them to use as best I can.
+Dialogue: 0,0:19:16.24,0:19:18.30,Default,Cyril,0,0,0,,Pardon me, then.
+Dialogue: 0,0:19:23.37,0:19:25.68,Default,Cyril,0,0,0,,Fia, I have a request.
+Dialogue: 0,0:19:29.19,0:19:31.40,Default,Fia,0,0,0,,C-Captain Cyril?
+Dialogue: 0,0:19:33.75,0:19:39.32,Default,Cyril,0,0,0,,I'm asking as a friend, \Nso you have the right to refuse.
+Dialogue: 0,0:19:40.81,0:19:45.37,Default,Cyril,0,0,0,,As you experienced when those children \Ncalled you Great Saint earlier,
+Dialogue: 0,0:19:45.37,0:19:49.16,Default,Cyril,0,0,0,,red hair makes the people of this \Nland think of the Great Saint.
+Dialogue: 0,0:19:49.48,0:19:53.37,Default,Cyril,0,0,0,,At the same time, my mother,
+Dialogue: 0,0:19:53.37,0:19:57.33,Default,Cyril,0,0,0,,who also had red hair, was the cause \Nof the Lament of Sutherland.
+Dialogue: 0,0:19:57.56,0:20:00.35,Default,Cyril,0,0,0,,Therefore, those who witnessed \Nthe incident tend to
+Dialogue: 0,0:20:00.35,0:20:03.23,Default,Cyril,0,0,0,,react sharply\Nto those with red hair.
+Dialogue: 0,0:20:04.45,0:20:07.62,Default,Cyril,0,0,0,,This land has been frozen \Nin time for ten years.
+Dialogue: 0,0:20:08.08,0:20:10.98,Default,Cyril,0,0,0,,That does no one any good.
+Dialogue: 0,0:20:11.35,0:20:15.67,Default,Cyril,0,0,0,,We need a way to strengthen their hearts \Nin order to overcome this situation.
+Dialogue: 0,0:20:17.11,0:20:22.60,Default,Cyril,0,0,0,,Fia, may I ask you to take on that role?
+Dialogue: 0,0:20:22.60,0:20:23.66,Default,Fia,0,0,0,,Huh?
+Dialogue: 0,0:20:23.66,0:20:27.41,Default,Cyril,0,0,0,,The people have very strong \Nfeelings towards red hair.
+Dialogue: 0,0:20:27.41,0:20:29.95,Default,Cyril,0,0,0,,You may be exposed to danger.
+Dialogue: 0,0:20:31.37,0:20:35.42,Default,Cyril,0,0,0,,If you prefer not to, I can have \Nyou work in the lord's manor.
+Dialogue: 0,0:20:35.42,0:20:36.92,Default,Cyril,0,0,0,,You have nothing to worry about.
+Dialogue: 0,0:20:37.53,0:20:45.38,Default,Cyril,0,0,0,,Either way, I wanted you to see this land \Nfor yourself before you made a decision.
+Dialogue: 0,0:20:47.81,0:20:52.76,italics,Fia (M),0,0,0,,Of course. Captain Cyril is struggling.
+Dialogue: 0,0:20:53.17,0:20:58.94,italics,Fia (M),0,0,0,,He must have tried all sorts of things \Nin the ten years since he became lord.
+Dialogue: 0,0:20:58.94,0:21:01.80,italics,Fia (M),0,0,0,,None of it worked.
+Dialogue: 0,0:21:01.80,0:21:06.69,italics,Fia (M),0,0,0,,Now, he's grasping at straws, \Nasking an ordinary knight to help him.
+Dialogue: 0,0:21:07.00,0:21:09.71,italics,Fia (M),0,0,0,,He could have simply \Nordered me to do this,
+Dialogue: 0,0:21:09.71,0:21:15.20,italics,Fia (M),0,0,0,,but he went out of his way to make me a \Nfriend so that I had the right to refuse.
+Dialogue: 0,0:21:15.53,0:21:18.16,italics,Fia (M),0,0,0,,He's an unbelievably kind knight.
+Dialogue: 0,0:21:21.96,0:21:27.47,italics,Fia (M),0,0,0,,I would hate for the citizens \Nnot to see how kind he really is.
+Dialogue: 0,0:21:28.72,0:21:34.73,Default,Fia,0,0,0,,I think you're an outstanding duke, \Nand I like the people of Sutherland.
+Dialogue: 0,0:21:35.00,0:21:40.48,Default,Fia,0,0,0,,I think it's wrong that you can't come \Ntogether even though no one is at fault.
+Dialogue: 0,0:21:40.76,0:21:44.24,Default,Fia,0,0,0,,I don't know how useful I can be...
+Dialogue: 0,0:21:46.00,0:21:47.99,Default,Fia,0,0,0,,But I'd be honored to help.
+Dialogue: 0,0:21:55.72,0:21:57.94,Default,Cyril,0,0,0,,Thank you, Fia.
+Dialogue: 0,0:23:35.05,0:23:40.06,top,sign,0,0,0,,EPISODE 10\NTHE LAMENT OF SUTHERLAND
+
