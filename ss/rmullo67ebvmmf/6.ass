@@ -1,0 +1,318 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,20,20,20,1
+Style: Italique,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,2,20,20,20,1
+Style: TiretsDefault,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,1,20,20,20,1
+Style: page1,Arial,15,&H00FCFDFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,10,33,90,1
+Style: asatayuno,Arial,20,&H00FFFEFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,240,1
+Style: Sign,Arial,21,&H00FFFFFF,&H000000FF,&H00292929,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.56,0:00:02.19,Italique,Noelle,0,0,0,,Nous n’avons pas abandonné,
+Dialogue: 0,0:00:02.86,0:00:06.19,Italique,Noelle,0,0,0,,et c’est ce qui nous vaut la victoire,\NMegicula !
+Dialogue: 0,0:00:07.74,0:00:09.78,Italique,Megicula,0,0,0,,J’ai apparemment sous-estimé
+Dialogue: 0,0:00:10.36,0:00:14.49,Italique,Megicula,0,0,0,,la véritable force\Nde vous tous réunis…
+Dialogue: 0,0:00:20.50,0:00:24.63,Italique,Acier,0,0,0,,Vous êtes vraiment devenus plus forts,\Ntous les deux.
+Dialogue: 0,0:01:59.56,0:02:04.94,page1,sign,0,0,0,,PAGE 178
+Dialogue: 0,0:01:59.56,0:02:04.94,asatayuno,sign,0,0,0,,CŒUR DÉMONIAQUE
+Dialogue: 0,0:02:26.04,0:02:28.29,Default,Asta,0,0,0,,T’as trop géré, Noelle !
+Dialogue: 0,0:02:28.59,0:02:30.17,Default,Noelle,0,0,0,,Asta ! Lolopechka !
+Dialogue: 0,0:02:31.09,0:02:34.34,Default,Noelle,0,0,0,,Megicula est vaincue,\Net Lolopechka n’est plus maudite !
+Dialogue: 0,0:02:40.35,0:02:42.68,Default,Asta,0,0,0,,Vous avez repris vos esprits,\NLolopechka ?
+Dialogue: 0,0:02:46.15,0:02:48.81,Default,Lolopechka,0,0,0,,Je suis complètement nue,\Npardon !
+Dialogue: 0,0:02:48.98,0:02:52.07,Default,Asta,0,0,0,,Rassurez-vous !\NJe me suis pas rincé l’œil !
+Dialogue: 0,0:02:52.19,0:02:54.24,Default,Noelle,0,0,0,,Qu’est-ce que tu fiches,\NAstabruti ?
+Dialogue: 0,0:02:54.36,0:02:56.82,Default,Asta,0,0,0,,J’ai rien fait de mal !
+Dialogue: 0,0:02:57.53,0:02:58.82,Default,Noelle,0,0,0,,Lolopechka !
+Dialogue: 0,0:03:00.16,0:03:01.99,Default,Noelle,0,0,0,,Heureuse que tu sois en vie !
+Dialogue: 0,0:03:02.16,0:03:04.66,Default,Ondine,0,0,0,,Lolopechka !
+Dialogue: 0,0:03:04.83,0:03:06.08,Default,Lolopechka,0,0,0,,Noelle !
+Dialogue: 0,0:03:06.37,0:03:07.75,Default,Lolopechka,0,0,0,,Ondine !
+Dialogue: 0,0:03:08.13,0:03:10.42,Default,Asta,0,0,0,,Qu’est-ce qui te prend, Noelle ?
+Dialogue: 0,0:03:10.59,0:03:13.46,Default,Noelle,0,0,0,,Boucle-la, Astabruti !\NC’est ta faute !
+Dialogue: 0,0:03:16.13,0:03:19.51,Italique,Noelle,0,0,0,,Il m’arrive quoi ?\NJe suis pourtant contente de le revoir.
+Dialogue: 0,0:03:19.64,0:03:20.55,Default,Asta,0,0,0,,Alors, Noelle ?
+Dialogue: 0,0:03:20.72,0:03:23.02,Italique,Noelle,0,0,0,,Je suis tellement gênée\Nque je n’ose pas
+Dialogue: 0,0:03:23.14,0:03:24.60,TiretsDefault,Noelle/Asta,255,0,0,,– {\i1}le regarder !{\i0}\N– Noelle ?
+Dialogue: 0,0:03:24.81,0:03:28.02,Default,Noelle,0,0,0,,C’est bon, lâche-moi, Astabruti !
+Dialogue: 0,0:03:31.77,0:03:33.94,Italique,Nozel,0,0,0,,La malédiction est levée,
+Dialogue: 0,0:03:34.19,0:03:37.66,Italique,Nozel,0,0,0,,mais j’ignore encore\Ncomment me comporter avec Noelle !
+Dialogue: 0,0:03:37.82,0:03:39.53,Default,Noelle,0,0,0,,Nozel ?
+Dialogue: 0,0:03:39.70,0:03:41.58,Default,Rill,0,0,0,,Je suis désolé, Charlotte.
+Dialogue: 0,0:03:42.12,0:03:45.29,Default,Rill,0,0,0,,Les effets de mon sort\Nvont bientôt se dissiper.
+Dialogue: 0,0:03:45.83,0:03:49.21,Italique,Rill,0,0,0,,Je n’ai pas encore réussi\Nà créer mon chef-d’œuvre.
+Dialogue: 0,0:03:49.54,0:03:52.04,Italique,Rill,0,0,0,,C’est à peine\Nsi je l’ai effleuré du doigt.
+Dialogue: 0,0:03:52.21,0:03:53.92,Default,Charlotte,0,0,0,,Pourquoi t’excuses-tu, Rill ?
+Dialogue: 0,0:03:54.67,0:03:57.26,Default,Charlotte,0,0,0,,C’est grâce à toi\Nque j’ai pu combattre.
+Dialogue: 0,0:03:58.26,0:03:59.55,Default,Charlotte,0,0,0,,Je te remercie.
+Dialogue: 0,0:04:01.14,0:04:02.22,Default,Charlotte,0,0,0,,Et puis,
+Dialogue: 0,0:04:02.60,0:04:05.31,Default,Charlotte,0,0,0,,nous ne pouvons pas\Nmourir maintenant.
+Dialogue: 0,0:04:05.81,0:04:06.98,Default,Charlotte,0,0,0,,Je me trompe ?
+Dialogue: 0,0:04:09.14,0:04:10.56,Default,Luck,0,0,0,,Hé oh !
+Dialogue: 0,0:04:11.02,0:04:11.98,Default,Noelle,0,0,0,,Luck !
+Dialogue: 0,0:04:12.15,0:04:16.74,Default,Luck,0,0,0,,T’assures, Noelle !\NTu t’es fait un démon suprême !
+Dialogue: 0,0:04:22.28,0:04:24.91,Default,Luck,0,0,0,,Je peux pas être à la traîne…
+Dialogue: 0,0:04:25.58,0:04:26.79,Default,Lolopechka,0,0,0,,Gadjah !
+Dialogue: 0,0:04:27.00,0:04:28.46,Default,Gadjah,0,0,0,,Votre Majesté !
+Dialogue: 0,0:04:28.96,0:04:30.33,Default,Gadjah,0,0,0,,Heureux que vous n’ayez…
+Dialogue: 0,0:04:37.34,0:04:38.34,Default,Noelle,0,0,0,,Gadjah !
+Dialogue: 0,0:04:40.13,0:04:42.76,Default,Noelle,0,0,0,,Capitaine Charlotte !\NCapitaine Rill !
+Dialogue: 0,0:04:46.39,0:04:49.60,Italique,Lolopechka,0,0,0,,Magie régénératrice aqueuse.\NAquanelle lore !
+Dialogue: 0,0:04:53.69,0:04:55.44,Italique,Lolopechka,0,0,0,,Ma magie ne fonctionne pas !
+Dialogue: 0,0:04:55.61,0:04:58.15,Italique,Lolopechka,0,0,0,,Je ne peux pas soigner\Nleurs blessures !
+Dialogue: 0,0:04:58.74,0:05:01.78,Default,Lolopechka,0,0,0,,Ce n’est pas vrai !\NIls me sont venus en aide.
+Dialogue: 0,0:05:01.95,0:05:04.45,Default,Lolopechka,0,0,0,,Et moi… je…
+Dialogue: 0,0:05:05.03,0:05:07.95,Italique,Asta,0,0,0,,Annihilda ne pourra rien y faire.
+Dialogue: 0,0:05:08.12,0:05:10.83,Default,Asta,0,0,0,,Merde !\NIl doit bien y avoir un moyen !
+Dialogue: 0,0:05:11.92,0:05:13.29,Default,Noelle,0,0,0,,Bon sang !
+Dialogue: 0,0:05:13.96,0:05:16.75,Default,Noelle,0,0,0,,Ceux qui se sont battus\Npour faire le bien
+Dialogue: 0,0:05:17.00,0:05:19.55,Default,Noelle,0,0,0,,ne méritent pas\Nde mourir comme ça !
+Dialogue: 0,0:05:19.84,0:05:22.22,Default,Nacht,0,0,0,,On ne peut plus rien faire\Npour eux.
+Dialogue: 0,0:05:22.97,0:05:24.51,Default,Asta,0,0,0,,Vice-capitaine Nacht !
+Dialogue: 0,0:05:24.80,0:05:27.06,Default,Nacht,0,0,0,,Vous avez vaincu\Nun démon suprême.
+Dialogue: 0,0:05:27.47,0:05:29.64,Default,Nacht,0,0,0,,Vous devriez\Nvous estimer heureux.
+Dialogue: 0,0:05:30.23,0:05:33.52,Default,Nacht,0,0,0,,Ceux qui font le bien\Nne sont pas toujours récompensés.
+Dialogue: 0,0:05:33.69,0:05:35.19,Default,Nacht,0,0,0,,C’est la réalité.
+Dialogue: 0,0:05:36.27,0:05:38.28,Italique,Nacht,0,0,0,,J’aurais aimé\Nun autre dénouement.
+Dialogue: 0,0:05:38.90,0:05:40.69,Default,Luck,0,0,0,,Tu l’as amenée avec toi ?
+Dialogue: 0,0:05:40.86,0:05:41.74,Default,Nacht,0,0,0,,Oui.
+Dialogue: 0,0:05:42.74,0:05:44.11,Default,Nacht,0,0,0,,Mais je doute que…
+Dialogue: 0,0:05:49.66,0:05:50.79,Default,Noelle,0,0,0,,Tu te trompes.
+Dialogue: 0,0:05:54.04,0:05:55.38,Default,Noelle,0,0,0,,Mimosa peut y arriver !
+Dialogue: 0,0:05:57.63,0:06:00.09,Default,Mimosa,0,0,0,,Je ne laisserai personne mourir !
+Dialogue: 0,0:06:03.13,0:06:05.43,Italique,Mimosa,0,0,0,,Magie végétale ultime !
+Dialogue: 0,0:06:06.47,0:06:08.64,Italique,Mimosa,0,0,0,,L’utopie\Nde la princesse des fleurs !
+Dialogue: 0,0:06:13.44,0:06:15.35,Italique,Nacht,0,0,0,,Ce sort de régénération…
+Dialogue: 0,0:06:15.77,0:06:18.36,Default,Noelle,0,0,0,,On peut bien changer la réalité,\Nnon ?
+Dialogue: 0,0:06:19.02,0:06:20.61,Default,Noelle,0,0,0,,Parce que c’est ça,
+Dialogue: 0,0:06:21.49,0:06:22.86,Default,Noelle,0,0,0,,la magie, pas vrai ?
+Dialogue: 0,0:06:23.82,0:06:24.95,Default,Lolopechka,0,0,0,,Gadjah !
+Dialogue: 0,0:06:25.45,0:06:28.37,Default,Asta,0,0,0,,Rill ! Capitaine Charlotte !
+Dialogue: 0,0:06:28.53,0:06:30.74,Default,Asta,0,0,0,,Quel soulagement !
+Dialogue: 0,0:06:31.04,0:06:33.87,Default,Asta,0,0,0,,T’assures, Mimosa !
+Dialogue: 0,0:06:35.58,0:06:37.38,Default,Lolopechka,0,0,0,,Tu as failli mourir pour moi…
+Dialogue: 0,0:06:37.75,0:06:39.71,Default,Lolopechka,0,0,0,,Je suis tellement désolée !
+Dialogue: 0,0:06:39.84,0:06:43.67,Default,Gadjah,0,0,0,,Je n’ai fait que mon devoir\Nde gardien des esprits.
+Dialogue: 0,0:06:43.97,0:06:48.10,Default,Noelle,0,0,0,,Vous n’auriez pas autre chose\Nà vous dire, vous deux ?
+Dialogue: 0,0:06:52.93,0:06:54.39,Default,Gadjah,0,0,0,,Je vous aime.
+Dialogue: 0,0:06:58.36,0:07:00.23,Default,Gadjah,0,0,0,,Pas en tant que souveraine,
+Dialogue: 0,0:07:00.40,0:07:03.44,Default,Gadjah,0,0,0,,mais en tant que personne.
+Dialogue: 0,0:07:08.49,0:07:10.33,Default,Noelle,0,0,0,,Ah, euh… mon vieux…
+Dialogue: 0,0:07:10.45,0:07:11.70,Default,Gadjah,0,0,0,,Ce n’était pas ça ?
+Dialogue: 0,0:07:11.87,0:07:14.75,Default,Ondine,0,0,0,,Lolopechka m’appartient !
+Dialogue: 0,0:07:15.12,0:07:16.87,Default,Ondine,0,0,0,,Mais bon, si c’est toi, Gadjah…
+Dialogue: 0,0:07:20.05,0:07:24.26,Default,Nozel,0,0,0,,Ça me coûte de l’admettre, mais Noelle\Na progressé grâce à son capitaine.
+Dialogue: 0,0:07:25.01,0:07:28.76,Default,Nozel,0,0,0,,Nous devons absolument\Naller sauver ce fichu Yami.
+Dialogue: 0,0:07:31.76,0:07:33.39,Italique,Nacht,0,0,0,,Apparemment,
+Dialogue: 0,0:07:33.68,0:07:37.85,Italique,Nacht,0,0,0,,ils sont devenus bien plus forts\Nque je ne l’imaginais.
+Dialogue: 0,0:07:38.85,0:07:41.40,Italique,Nacht,0,0,0,,Il ne reste plus qu’un membre\Nde la Triade.
+Dialogue: 0,0:07:41.86,0:07:44.61,Sign,sign,0,0,0,,PEU DE TEMPS\NAVANT LA DÉFAITE DE MEGICULA
+Dialogue: 0,0:07:42.36,0:07:43.53,Italique,Nacht,0,0,0,,Le seul survivant…
+Dialogue: 0,0:07:49.45,0:07:52.24,Default,Zenon,0,0,0,,Vous perdez votre temps\Nà vous obstiner.
+Dialogue: 0,0:07:52.62,0:07:54.75,Default,Zenon,0,0,0,,Il est temps d’en finir.
+Dialogue: 0,0:07:57.41,0:08:00.00,Default,Langris,0,0,0,,Bordel ! Qu’est-ce qu’on fait ?
+Dialogue: 0,0:08:00.13,0:08:01.13,Default,Yuno,0,0,0,,Langris.
+Dialogue: 0,0:08:02.34,0:08:03.59,Default,Yuno,0,0,0,,Trois minutes.
+Dialogue: 0,0:08:03.92,0:08:05.88,Default,Yuno,0,0,0,,Je l’aurai à ma prochaine attaque.
+Dialogue: 0,0:08:07.72,0:08:09.93,Italique,Yuno,0,0,0,,Il existe un sort\Ncapable de l’abattre,
+Dialogue: 0,0:08:10.39,0:08:12.60,Italique,Yuno,0,0,0,,mais j’ai besoin\Nd’accumuler du mana.
+Dialogue: 0,0:08:13.85,0:08:17.27,Italique,Yuno,0,0,0,,Impossible de le lancer\Ntout en parant ses attaques.
+Dialogue: 0,0:08:18.14,0:08:20.19,Italique,Yuno,0,0,0,,Pour le battre…
+Dialogue: 0,0:08:20.73,0:08:24.19,Italique,Langris,0,0,0,,… je dois servir d’appât\Net protéger Yuno !
+Dialogue: 0,0:08:24.86,0:08:25.98,Italique,Langris,0,0,0,,Néanmoins,
+Dialogue: 0,0:08:26.15,0:08:29.74,Italique,Langris,0,0,0,,même avec l’aide de Yuno,\Nj’esquive ses attaques de justesse.
+Dialogue: 0,0:08:29.91,0:08:33.08,Italique,Langris,0,0,0,,Je ne pourrai pas tenir\Ntrois minutes.
+Dialogue: 0,0:08:33.95,0:08:36.70,Italique,Yuno/Langris,0,0,0,,Mais on n’a pas le choix !
+Dialogue: 0,0:08:38.71,0:08:42.33,Default,Yuno,0,0,0,,Tu es le meilleur\Nmage spatial de Clover.
+Dialogue: 0,0:08:42.50,0:08:44.84,Default,Yuno,0,0,0,,Tu commences à comprendre,\Nn’est-ce pas ?
+Dialogue: 0,0:08:45.67,0:08:49.34,Default,Yuno,0,0,0,,Tu ne vas quand même pas\Nte laisser faire sans réagir, hein ?
+Dialogue: 0,0:08:52.34,0:08:55.97,Default,Zenon,0,0,0,,Je sais déjà\Nde quoi vous êtes capables !
+Dialogue: 0,0:08:57.18,0:08:59.02,Italique,Langris,0,0,0,,Dans son espace absolu,
+Dialogue: 0,0:08:59.18,0:09:00.81,Italique,Langris,0,0,0,,la plupart des gens
+Dialogue: 0,0:09:00.94,0:09:04.11,Italique,Langris,0,0,0,,sont incapables\Nd’utiliser leur magie.
+Dialogue: 0,0:09:04.44,0:09:09.07,Italique,Langris,0,0,0,,Seuls ceux dont la puissance magique\Négale la sienne peuvent lancer des sorts.
+Dialogue: 0,0:09:09.70,0:09:13.91,Italique,Langris,0,0,0,,Ceux qui sont bénis par le mana,\Ncomme Yuno, échappent à son emprise.
+Dialogue: 0,0:09:16.49,0:09:17.79,Italique,Langris,0,0,0,,Mais aussi,
+Dialogue: 0,0:09:18.95,0:09:22.46,Italique,Langris,0,0,0,,les mages spatiaux\Nmaîtrisant le mana zone !
+Dialogue: 0,0:09:27.75,0:09:30.17,Italique,Zenon,0,0,0,,Il s’est créé son propre territoire,
+Dialogue: 0,0:09:30.34,0:09:33.26,Italique,Zenon,0,0,0,,aussi petit soit-il,\Ndans mon espace absolu.
+Dialogue: 0,0:09:33.47,0:09:37.31,Default,Yuno,0,0,0,,Tu vois que tu peux, quand tu veux.\NJ’en attendais pas moins.
+Dialogue: 0,0:09:37.68,0:09:42.19,Default,Langris,0,0,0,,Quel sale petit prétentieux,\Nfranchement !
+Dialogue: 0,0:09:43.19,0:09:46.44,Italique,Langris,0,0,0,,Dès son arrivée,\Nil était arrogant et insolent,
+Dialogue: 0,0:09:46.61,0:09:49.57,Italique,Langris,0,0,0,,mais il était assez doué\Npour se le permettre.
+Dialogue: 0,0:09:50.15,0:09:53.61,Italique,Langris,0,0,0,,Maintenant que j’y pense,\Nje me reconnais peut-être trop en lui.
+Dialogue: 0,0:09:54.62,0:09:58.12,Italique,Langris,0,0,0,,Mais je ne croyais pas une seconde\Nque tu pourrais me battre.
+Dialogue: 0,0:09:58.49,0:10:01.91,Italique,Langris,0,0,0,,Je pensais que\Ntu ne me dépasserais jamais.
+Dialogue: 0,0:10:04.17,0:10:07.92,Default,Zenon,0,0,0,,De toute façon,\Ntu n’as aucun moyen de m’attaquer.
+Dialogue: 0,0:10:08.17,0:10:11.38,Default,Zenon,0,0,0,,Aucun de vos sorts\Nne peut me vaincre.
+Dialogue: 0,0:10:13.13,0:10:15.72,Italique,Langris,0,0,0,,Sa puissance magique\Nest démesurée !
+Dialogue: 0,0:10:16.39,0:10:18.14,Italique,Langris,0,0,0,,Je ne tiendrai pas longtemps.
+Dialogue: 0,0:10:20.18,0:10:22.27,Italique,Langris,0,0,0,,Dépêche-toi, s’il te plaît !
+Dialogue: 0,0:10:22.56,0:10:24.31,Italique,Yuno,0,0,0,,Je m’y emploie !
+Dialogue: 0,0:10:25.73,0:10:29.36,Italique,Langris,0,0,0,,C’est vrai.\NMa magie spatiale était invincible.
+Dialogue: 0,0:10:30.61,0:10:32.90,Italique,Langris,0,0,0,,Je n’avais qu’à me donner à fond.
+Dialogue: 0,0:10:33.57,0:10:37.16,Italique,Langris,0,0,0,,Avec moi dans ses rangs,\Nma compagnie était la meilleure.
+Dialogue: 0,0:10:37.82,0:10:40.62,Italique,Langris,0,0,0,,Mais toi,\Nta force était d’une autre nature.
+Dialogue: 0,0:10:41.95,0:10:44.67,Italique,Langris,0,0,0,,Comme si ta magie\Nnous donnait l’élan
+Dialogue: 0,0:10:45.29,0:10:46.46,Italique,Langris,0,0,0,,pour voler ensemble.
+Dialogue: 0,0:10:47.21,0:10:50.55,Italique,Langris,0,0,0,,Ta force portait aussi les autres.
+Dialogue: 0,0:10:52.84,0:10:55.55,Italique,Langris,0,0,0,,Ta rage de vaincre\Nnous a fait nous surpasser.
+Dialogue: 0,0:10:56.09,0:10:57.47,Italique,Langris,0,0,0,,Elle nous a renforcés.
+Dialogue: 0,0:11:00.47,0:11:03.85,Default,Langris,0,0,0,,Je le reconnais à contrecœur,
+Dialogue: 0,0:11:04.98,0:11:06.14,Default,Langris,0,0,0,,mais c’est bien toi,
+Dialogue: 0,0:11:06.65,0:11:09.86,Default,Langris,0,0,0,,le vice-capitaine de l’Aube d’or !
+Dialogue: 0,0:11:10.69,0:11:13.61,Default,Zenon,0,0,0,,Face à un pouvoir écrasant,
+Dialogue: 0,0:11:13.78,0:11:17.16,Default,Zenon,0,0,0,,vos espoirs et votre obstination\Nsont complètement vains.
+Dialogue: 0,0:11:20.83,0:11:22.41,Default,Zenon,0,0,0,,Seule la réalité compte.
+Dialogue: 0,0:11:22.70,0:11:26.96,Default,Zenon,0,0,0,,Je suis tout simplement\Nbien plus fort que vous.
+Dialogue: 0,0:11:27.96,0:11:32.88,Default,Langris,0,0,0,,Ce n’est pas pour autant\Nqu’on va abandonner !
+Dialogue: 0,0:11:38.93,0:11:40.10,Default,Langris,0,0,0,,Nous sommes
+Dialogue: 0,0:11:40.85,0:11:45.27,Default,Langris,0,0,0,,l’Aube d’or,\Nla plus puissante des compagnies !
+Dialogue: 0,0:11:46.27,0:11:47.52,Default,Yuno,0,0,0,,Toi aussi…
+Dialogue: 0,0:11:49.23,0:11:51.98,Default,Yuno,0,0,0,,tu détestes perdre plus que tout !
+Dialogue: 0,0:11:52.98,0:11:56.90,Italique,Yuno,0,0,0,,Magie élémentaire du vent.\NSpirit of Euros !
+Dialogue: 0,0:12:12.29,0:12:14.17,Italique,Zenon,0,0,0,,Quelle vitesse !
+Dialogue: 0,0:12:14.76,0:12:18.76,Italique,Zenon,0,0,0,,Il a réussi à me transpercer\Nde part en part.
+Dialogue: 0,0:12:20.93,0:12:23.89,Default,Yuno,0,0,0,,C’est notre obstination\Nqui nous vaut la victoire !
+Dialogue: 0,0:12:29.48,0:12:30.60,Italique,Zenon,0,0,0,,Allen…
+Dialogue: 0,0:12:39.61,0:12:41.07,Italique,Vanika,0,0,0,,C’est quoi, ton problème ?
+Dialogue: 0,0:12:42.32,0:12:45.87,Italique,Vanika,0,0,0,,Tu t’es encore blessé ?\NEspèce de bon à rien !
+Dialogue: 0,0:12:45.99,0:12:47.29,Italique,Dante,0,0,0,,Toi alors…
+Dialogue: 0,0:12:47.62,0:12:50.25,Italique,Dante,0,0,0,,Tu fais honte à ton grand frère.
+Dialogue: 0,0:12:56.55,0:12:59.13,Italique,Lucius,0,0,0,,Ne t’en fais pas, Zenon.
+Dialogue: 0,0:13:01.47,0:13:02.55,Italique,Zenon,0,0,0,,Grand frère…
+Dialogue: 0,0:13:03.05,0:13:05.85,Italique,Lucius,0,0,0,,Tu es celui\Nqui me ressemble le plus.
+Dialogue: 0,0:13:08.81,0:13:11.31,Italique,Lucius,0,0,0,,Bien plus que Dante et Vanika.
+Dialogue: 0,0:13:11.57,0:13:13.81,Italique,Lucius,0,0,0,,Tu ferais un bon hôte\Npour un démon.
+Dialogue: 0,0:13:23.41,0:13:25.33,Italique,Gamin A,0,0,0,,T’es trop fort, John !
+Dialogue: 0,0:13:25.49,0:13:29.29,Italique,John,0,0,0,,Espèce de monstre !\NT’as des os qui te sortent du corps !
+Dialogue: 0,0:13:30.04,0:13:33.71,Italique,John,0,0,0,,Mon père fait partie\Nde la garde magique !
+Dialogue: 0,0:13:33.88,0:13:37.09,Italique,John,0,0,0,,Et je vais te démolir !
+Dialogue: 0,0:13:38.92,0:13:39.97,Italique,John,0,0,0,,Ah ! Ça brûle !
+Dialogue: 0,0:13:40.09,0:13:41.51,Italique,Allen,0,0,0,,Répète pour voir !
+Dialogue: 0,0:13:42.43,0:13:45.35,Italique,Allen,0,0,0,,Sa magie sort juste de l’ordinaire.
+Dialogue: 0,0:13:45.51,0:13:47.10,Italique,John,0,0,0,,Zut ! C’est Allen !
+Dialogue: 0,0:13:47.35,0:13:49.18,Italique,John,0,0,0,,Fichons le camp !
+Dialogue: 0,0:13:49.31,0:13:53.23,Italique,Allen,0,0,0,,Ces nazes font honte\Nà leurs parents de la garde magique.
+Dialogue: 0,0:13:55.31,0:13:56.48,Italique,Allen,0,0,0,,Je m’appelle Allen !
+Dialogue: 0,0:13:56.65,0:13:59.23,Italique,Allen,0,0,0,,Ta magie a l’air balèze.
+Dialogue: 0,0:14:02.95,0:14:05.37,Italique,Allen,0,0,0,,Tout le monde vit dans la peur.
+Dialogue: 0,0:14:06.24,0:14:09.45,Italique,Allen,0,0,0,,Le royaume de Spade\Nest toujours isolé par la neige.
+Dialogue: 0,0:14:09.58,0:14:11.37,Italique,Allen,0,0,0,,On se bat entre nous,
+Dialogue: 0,0:14:11.75,0:14:14.50,Italique,Allen,0,0,0,,et Diamond nous attaque aussi.
+Dialogue: 0,0:14:15.33,0:14:20.13,Italique,Allen,0,0,0,,Je veux devenir plus fort\Npour protéger mon peuple.
+Dialogue: 0,0:14:21.42,0:14:25.97,Italique,Allen,0,0,0,,Je veux faire naître une lueur d’espoir\Nsur ces terres gelées !
+Dialogue: 0,0:14:28.97,0:14:29.93,Italique,Allen,0,0,0,,C’est pourquoi
+Dialogue: 0,0:14:30.72,0:14:34.35,Italique,Allen,0,0,0,,je compte devenir capitaine en chef\Nde la garde magique !
+Dialogue: 0,0:14:35.60,0:14:36.73,Italique,Zenon,0,0,0,,Moi aussi…
+Dialogue: 0,0:14:38.94,0:14:40.86,Italique,Zenon,0,0,0,,je deviendrai capitaine en chef.
+Dialogue: 0,0:14:41.40,0:14:44.36,Italique,Allen,0,0,0,,Ça veut dire qu’on est rivaux,\Nalors !
+Dialogue: 0,0:14:44.70,0:14:47.91,Italique,Allen,0,0,0,,On verra lequel de nous deux\Ndeviendra capitaine en chef !
+Dialogue: 0,0:15:01.00,0:15:03.63,Italique,Zenon,0,0,0,,Je suis navré, grand frère.
+Dialogue: 0,0:15:04.99,0:15:06.05,Italique,Zenon,0,0,0,,Je ne veux pas
+Dialogue: 0,0:15:06.81,0:15:09.10,Italique,Zenon,0,0,0,,devenir l’hôte d’un démon.
+Dialogue: 0,0:15:13.18,0:15:17.23,Italique,Garde A,0,0,0,,Félicitations pour votre admission\Nau sein de la 4e brigade !
+Dialogue: 0,0:15:17.98,0:15:20.65,Italique,Garde B,0,0,0,,Nos deux recrues\Nsont déjà opérationnelles.
+Dialogue: 0,0:15:20.77,0:15:23.61,Italique,Garde B,0,0,0,,Zenon, surtout. C’est un génie.
+Dialogue: 0,0:15:24.74,0:15:27.57,Italique,Garde A,0,0,0,,Un donjon est apparu\Nau nord-ouest de Lawton !
+Dialogue: 0,0:15:27.70,0:15:29.74,Italique,Garde A,0,0,0,,Enquêtez sans délai,\Nla 4e brigade !
+Dialogue: 0,0:15:30.58,0:15:32.74,Italique,Allen,0,0,0,,Cette fois, je vais gagner, Zenon !
+Dialogue: 0,0:15:35.00,0:15:37.54,Italique,Zenon,0,0,0,,C’est une mission,\Npas un concours, Allen.
+Dialogue: 0,0:15:37.67,0:15:40.21,Italique,Allen,0,0,0,,Apprends à t’amuser un peu !
+Dialogue: 0,0:15:52.39,0:15:55.39,Italique,Garde B,0,0,0,,Bon sang ! Dire qu’un démon\Nétait enfermé là-dedans !
+Dialogue: 0,0:15:55.52,0:15:59.23,Italique,Garde C,0,0,0,,Il est bien trop puissant.\NSi ça continue, on va tous y passer !
+Dialogue: 0,0:16:00.94,0:16:02.69,Italique,Zenon,0,0,0,,Pour le vaincre,
+Dialogue: 0,0:16:03.32,0:16:06.86,Italique,Zenon,0,0,0,,je dois concentrer tout mon mana\Ndans mon meilleur sort.
+Dialogue: 0,0:16:07.74,0:16:10.82,Italique,Zenon,0,0,0,,Mais je ne trouve aucune faille\Npour le toucher.
+Dialogue: 0,0:16:11.53,0:16:15.20,Italique,Allen,0,0,0,,Je deviendrai\Ncapitaine en chef de la garde !
+Dialogue: 0,0:16:18.21,0:16:20.96,Italique,Allen,0,0,0,,Je peux pas être vaincu\Nmaintenant !
+Dialogue: 0,0:16:21.17,0:16:22.67,Italique,Zenon,0,0,0,,Allen !
+Dialogue: 0,0:16:22.92,0:16:25.13,Italique,Zenon,0,0,0,,Tout ce que tu vas faire…
+Dialogue: 0,0:16:28.30,0:16:29.84,Italique,Zenon,0,0,0,,c’est gagner du temps !
+Dialogue: 0,0:16:30.72,0:16:33.01,Italique,Zenon,0,0,0,,Je peux l’abattre\Nsi je frappe maintenant.
+Dialogue: 0,0:16:33.30,0:16:34.85,Italique,Zenon,0,0,0,,Et Allen avec lui…
+Dialogue: 0,0:16:36.06,0:16:37.77,Italique,Zenon,0,0,0,,Si je tarde à l’achever,
+Dialogue: 0,0:16:38.18,0:16:40.40,Italique,Zenon,0,0,0,,on va tous… moi compris…
+Dialogue: 0,0:16:41.23,0:16:42.31,Italique,Zenon,0,0,0,,mourir…
+Dialogue: 0,0:16:43.90,0:16:46.36,Italique,Zenon,0,0,0,,Et le pays en pâtira aussi…
+Dialogue: 0,0:16:46.53,0:16:50.16,Italique,Zenon,0,0,0,,Au minimum, les habitants\Nde la ville voisine mourront.
+Dialogue: 0,0:17:10.76,0:17:15.31,Italique,Zenon,0,0,0,,Sans pouvoir,\Nl’espoir et l’obstination sont vains.
+Dialogue: 0,0:17:18.27,0:17:20.85,Italique,Zenon,0,0,0,,Il faut sacrifier les faibles.
+Dialogue: 0,0:17:24.11,0:17:27.94,Italique,Zenon,0,0,0,,Seule compte\Nla puissance écrasante !
+Dialogue: 0,0:17:29.53,0:17:32.95,Italique,Zenon,0,0,0,,Si même un simple démon\Nest aussi puissant, alors…
+Dialogue: 0,0:17:34.03,0:17:35.28,Italique,Zenon,0,0,0,,Grand frère…
+Dialogue: 0,0:17:37.04,0:17:40.66,Italique,Zenon,0,0,0,,fais de moi un hôte démoniaque.
+Dialogue: 0,0:17:44.33,0:17:45.75,Italique,Zenon,0,0,0,,Belzebuth,
+Dialogue: 0,0:17:46.25,0:17:47.55,Italique,Zenon,0,0,0,,faisons un pacte.
+Dialogue: 0,0:17:48.17,0:17:50.59,Italique,Zenon,0,0,0,,Donne-moi un cœur de démon.
+Dialogue: 0,0:17:52.63,0:17:54.72,Italique,Belzebuth,0,0,0,,Un cœur, dis-tu ?
+Dialogue: 0,0:17:59.68,0:18:03.69,Italique,Belzebuth,0,0,0,,Et tu comptes m’offrir quoi,\Nen échange ?
+Dialogue: 0,0:18:03.85,0:18:05.77,Italique,Zenon,0,0,0,,Mon corps tout entier.
+Dialogue: 0,0:18:07.40,0:18:09.23,Italique,Zenon,0,0,0,,Comme convenu,
+Dialogue: 0,0:18:09.36,0:18:12.24,Italique,Zenon,0,0,0,,tant que le royaume de Spade\Nsubsiste,
+Dialogue: 0,0:18:12.40,0:18:15.20,Italique,Zenon,0,0,0,,je t’offrirai jusqu’à mon âme.
+Dialogue: 0,0:18:18.37,0:18:19.66,Italique,Belzebuth,0,0,0,,Très bien.
+Dialogue: 0,0:18:20.66,0:18:22.29,Italique,Belzebuth,0,0,0,,Je t’offre ce que tu veux.
+Dialogue: 0,0:18:33.97,0:18:35.64,Default,Yuno,0,0,0,,Comment ?
+Dialogue: 0,0:18:44.02,0:18:45.48,Italique,Yuno,0,0,0,,Cette sensation…
+Dialogue: 0,0:18:46.48,0:18:48.11,Italique,Yuno,0,0,0,,C’est comme contre ce démon !
+Dialogue: 0,0:18:48.44,0:18:51.78,Default,Zenon,0,0,0,,Maintenant que j’ai obtenu\Nun cœur de démon,
+Dialogue: 0,0:18:52.03,0:18:55.20,Default,Zenon,0,0,0,,je suis devenu\Nencore plus redoutable.
+Dialogue: 0,0:18:56.07,0:19:00.20,Italique,Langris,0,0,0,,Il utilise un pouvoir démoniaque\Net possède le cœur d’un démon.
+Dialogue: 0,0:19:00.45,0:19:02.25,Italique,Langris,0,0,0,,À ce stade,
+Dialogue: 0,0:19:03.25,0:19:04.83,Italique,Langris,0,0,0,,c’est lui, le démon !
+Dialogue: 0,0:19:22.10,0:19:24.81,Default,Zenon,0,0,0,,La flèche de tout à l’heure.
+Dialogue: 0,0:19:25.85,0:19:30.11,Default,Zenon,0,0,0,,Tu l’as légèrement déviée\Nafin d’épargner ton ami.
+Dialogue: 0,0:19:30.23,0:19:32.86,Default,Zenon,0,0,0,,Par conséquent,\Ntu as manqué mon cœur.
+Dialogue: 0,0:19:35.15,0:19:39.24,Default,Zenon,0,0,0,,Si tu avais transpercé ton ami\Net mon cœur d’un même tir,
+Dialogue: 0,0:19:40.16,0:19:42.70,Default,Zenon,0,0,0,,tu aurais gagné.
+Dialogue: 0,0:20:11.73,0:20:16.11,Default,Zenon,0,0,0,,Tu te mets encore en travers de ma route,\Nalors que tu tiens à peine debout ?
+Dialogue: 0,0:20:17.15,0:20:19.07,Default,Zenon,0,0,0,,Je vais abréger tes souffrances.
+Dialogue: 0,0:20:28.41,0:20:30.25,Default,Finral,0,0,0,,Salut, Langris.
+Dialogue: 0,0:20:30.38,0:20:31.58,Default,Langris,0,0,0,,Finral ?
+Dialogue: 0,0:20:31.83,0:20:33.38,Default,Zenon,0,0,0,,Ce type…
+Dialogue: 0,0:20:34.50,0:20:37.09,Default,Langris,0,0,0,,Je ne sais pas\Nce que tu viens faire ici.
+Dialogue: 0,0:20:37.26,0:20:39.63,Default,Langris,0,0,0,,Tu viens encore à mon secours ?
+Dialogue: 0,0:20:40.05,0:20:43.81,Italique,Finral,0,0,0,,Quand je vous ai vus, toi et l’autre,\Nj’ai bondi sans réfléchir.
+Dialogue: 0,0:20:44.29,0:20:45.33,Default,Finral,0,0,0,,Non.
+Dialogue: 0,0:20:45.93,0:20:48.69,Default,Finral,0,0,0,,Ce gars a enlevé mon capitaine
+Dialogue: 0,0:20:48.98,0:20:50.94,Default,Finral,0,0,0,,avec sa magie spatiale.
+Dialogue: 0,0:20:51.44,0:20:54.15,Default,Finral,0,0,0,,Je pouvais quand même pas\Npasser mon chemin.
+Dialogue: 0,0:20:55.69,0:20:56.69,Italique,Finral,0,0,0,,Désolé.
+Dialogue: 0,0:20:56.99,0:20:59.95,Italique,Finral,0,0,0,,Je fais un petit détour,\Ncapitaine Yami.
+Dialogue: 0,0:21:00.87,0:21:04.20,Italique,Finral,0,0,0,,Je lance le battement d’ailes\Nde l’ange déchu sur Langris.
+Dialogue: 0,0:21:05.03,0:21:06.91,Italique,Finral,0,0,0,,Déplacement instantané !
+Dialogue: 0,0:21:08.20,0:21:09.87,Italique,Finral,0,0,0,,Grâce au mana zone,
+Dialogue: 0,0:21:10.00,0:21:13.21,Italique,Finral,0,0,0,,Langris peut lancer des sorts\Ndans l’espace de Zenon.
+Dialogue: 0,0:21:13.92,0:21:18.21,Italique,Finral,0,0,0,,La téléportation de mon frère\Nest aussi rapide que précise.
+Dialogue: 0,0:21:18.76,0:21:22.05,Default,Finral,0,0,0,,Ensemble,\Nnous pouvons le combattre !
+Dialogue: 0,0:21:22.47,0:21:23.85,Default,Finral,0,0,0,,Je me trompe, Langris ?
+Dialogue: 0,0:21:25.26,0:21:26.47,Default,Langris,0,0,0,,Tu es vraiment
+Dialogue: 0,0:21:26.89,0:21:28.83,Default,Langris,0,0,0,,un frangin insupportable !
+Dialogue: 0,0:21:34.27,0:21:36.90,Italique,Finral,0,0,0,,Le corps de Langris\Nne tiendra pas longtemps !
+Dialogue: 0,0:21:37.03,0:21:38.40,Italique,Finral,0,0,0,,Faut en finir maintenant !
+Dialogue: 0,0:21:39.69,0:21:43.87,Italique,Zenon,0,0,0,,J’ai cerné la vitesse et le rythme\Nde ses téléportations.
+Dialogue: 0,0:21:44.03,0:21:45.87,Italique,Zenon,0,0,0,,Je sais ce qu’ils préparent.
+Dialogue: 0,0:21:46.20,0:21:48.95,Italique,Zenon,0,0,0,,S’ils tentent de m’achever,\Nc’en sera fini d’eux.
+Dialogue: 0,0:21:49.41,0:21:51.66,Italique,Zenon,0,0,0,,Pour m’attirer\Ndans son mana zone…
+Dialogue: 0,0:21:51.79,0:21:52.96,Italique,Langris,0,0,0,,… faut s’approcher !
+Dialogue: 0,0:21:57.13,0:21:58.63,Italique,Zenon,0,0,0,,C’est terminé.
+Dialogue: 0,0:22:01.09,0:22:02.13,Italique,Zenon,0,0,0,,Comment ?
+Dialogue: 0,0:22:03.84,0:22:06.80,Italique,Finral,0,0,0,,J’ai accru ma vitesse\Ngrâce au mana method !
+Dialogue: 0,0:22:07.26,0:22:09.60,Italique,Finral,0,0,0,,La magie de Langris\Ndéchire l’espace !
+Dialogue: 0,0:22:09.77,0:22:13.10,Italique,Finral,0,0,0,,Ta défense a beau être\Nhyper solide…
+Dialogue: 0,0:22:13.60,0:22:15.24,Italique,Langris/Finral,0,0,0,,… ça ne te sauvera pas !
+Dialogue: 0,0:23:45.24,0:23:47.24,Default,credits,0,0,0,,{\an8}Traduction : Chopparic\NAdaptation : DW512ZC
+Dialogue: 0,0:23:47.36,0:23:49.37,Default,credits,0,0,0,,{\an8}Repérage : Clément Hautavoine\NRelecture : Kiddo Maxx
+
