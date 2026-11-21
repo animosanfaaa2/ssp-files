@@ -1,0 +1,304 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: flashback italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: sign_TimesNewRoman,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: Ep Title,Trebuchet MS,24,&H0065A7CE,&H000000FF,&H64070805,&H000D1728,-1,-1,0,0,100,100,0,0,1,1,0,8,30,30,75,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.61,0:00:02.25,flashback,NOELLE,0,0,0,,We didn't give up!
+Dialogue: 0,0:00:02.86,0:00:06.49,flashback,NOELLE,0,0,0,,That's why we win this battle, Megicula!
+Dialogue: 0,0:00:07.80,0:00:14.44,flashback,MEGICULA,0,0,0,,It seems I misjudged…\Nyour true strength.
+Dialogue: 0,0:00:20.58,0:00:24.58,flashback,ACIER,0,0,0,,You two… have gotten so strong.
+Dialogue: 0,0:01:59.57,0:02:04.94,Ep Title,EPISODE TITLE,0,0,0,,{\pos(321,100)\c&HF7F8FF&}A Devil's Heart
+Dialogue: 0,0:02:26.04,0:02:28.29,main,ASTA,0,0,0,,Noelle! You did it!
+Dialogue: 0,0:02:28.68,0:02:30.17,main,NOELLE,0,0,0,,Asta! Loropechika!
+Dialogue: 0,0:02:31.20,0:02:34.26,main,NOELLE,0,0,0,,We defeated Megicula, so \NLoropechika's curse should be…
+Dialogue: 0,0:02:39.62,0:02:42.74,main,ASTA,0,0,0,,Oh! Queen Loropechika! Are you awake now?!
+Dialogue: 0,0:02:46.32,0:02:49.19,main,LOROPECHIKA,0,0,0,,I'm sorry! I'm so sorry! \NI'm sorry I'm naked!
+Dialogue: 0,0:02:49.19,0:02:52.07,main,ASTA,0,0,0,,Have no fear! I didn't see anything!
+Dialogue: 0,0:02:52.07,0:02:54.60,main,NOELLE,0,0,0,,What the hell are you doing, Stupidsta?!
+Dialogue: 0,0:02:54.60,0:02:56.82,main,ASTA,0,0,0,,Wait, I didn't do anything!
+Dialogue: 0,0:02:57.65,0:02:58.78,main,NOELLE,0,0,0,,Loropechika!
+Dialogue: 0,0:03:00.28,0:03:02.16,main,NOELLE,0,0,0,,I'm so glad you're alive!
+Dialogue: 0,0:03:02.16,0:03:04.66,main,SMALL UNDINE,0,0,0,,Loropechika!
+Dialogue: 0,0:03:04.66,0:03:07.75,main,LOROPECHIKA,0,0,0,,Noelle… Undine…
+Dialogue: 0,0:03:08.18,0:03:10.42,main,ASTA,0,0,0,,What's the big idea, Noelle?!
+Dialogue: 0,0:03:10.69,0:03:13.44,main,NOELLE,0,0,0,,Shut up, Stupidsta! It's because you…
+Dialogue: 0,0:03:16.20,0:03:17.37,italics,NOELLE (INT),0,0,0,,What do I do?
+Dialogue: 0,0:03:17.37,0:03:19.74,italics,NOELLE (INT),0,0,0,,I'm actually happy seeing \Nhim after so long, but…
+Dialogue: 0,0:03:19.74,0:03:20.81,main,ASTA,0,0,0,,What's wrong, Noelle?
+Dialogue: 0,0:03:20.81,0:03:24.60,italics,NOELLE (INT),0,0,0,,I'm so embarrassed that I can't\Neven look him in the eye!
+Dialogue: 0,0:03:23.12,0:03:24.60,top,ASTA,0,0,0,,Hey, Noelle?
+Dialogue: 0,0:03:24.60,0:03:28.02,main,NOELLE,0,0,0,,It's nothing, Stupidsta!
+Dialogue: 0,0:03:31.90,0:03:34.18,italics,NOZEL (INT),0,0,0,,The curse has been broken…
+Dialogue: 0,0:03:34.18,0:03:37.76,italics,NOZEL (INT),0,0,0,,but I don't know how I'm supposed \Nto interact with Noelle.
+Dialogue: 0,0:03:37.76,0:03:39.53,main,NOELLE,0,0,0,,Nozel?
+Dialogue: 0,0:03:39.53,0:03:45.29,main,RILL,0,0,0,,I'm sorry, Charlotte. My spell's \Ngoing to wear off soon.
+Dialogue: 0,0:03:45.94,0:03:49.18,italics,RILL (INT),0,0,0,,I couldn't achieve my ultimate \Nmasterpiece yet again.
+Dialogue: 0,0:03:49.68,0:03:52.18,italics,RILL (INT),0,0,0,,I guess my ultimate masterpiece is…
+Dialogue: 0,0:03:52.18,0:03:54.17,main,CHARLOTTE,0,0,0,,Why are you apologizing, Rill?
+Dialogue: 0,0:03:54.85,0:03:57.29,main,CHARLOTTE,0,0,0,,It's because of you that \NI was able to fight.
+Dialogue: 0,0:03:58.33,0:03:59.55,main,CHARLOTTE,0,0,0,,So thank you.
+Dialogue: 0,0:04:01.14,0:04:02.22,main,CHARLOTTE,0,0,0,,Not to mention…
+Dialogue: 0,0:04:02.64,0:04:06.88,main,CHARLOTTE,0,0,0,,We can't die just yet. Am I wrong?
+Dialogue: 0,0:04:08.98,0:04:10.81,main,LUCK,0,0,0,,Hey!
+Dialogue: 0,0:04:11.17,0:04:12.14,main,NOELLE,0,0,0,,Luck!
+Dialogue: 0,0:04:12.14,0:04:13.97,main,LUCK,0,0,0,,That was awesome, Noelle.
+Dialogue: 0,0:04:13.97,0:04:16.74,main,LUCK,0,0,0,,You beat a supreme devil.
+Dialogue: 0,0:04:22.28,0:04:24.90,main,LUCK,0,0,0,,I can't waste any time.
+Dialogue: 0,0:04:25.65,0:04:26.79,main,LOROPECHIKA,0,0,0,,Gaja!
+Dialogue: 0,0:04:26.79,0:04:28.41,main,GAJA,0,0,0,,Queen Loropechika.
+Dialogue: 0,0:04:29.00,0:04:30.54,main,GAJA,0,0,0,,Thank goodness you're sa—
+Dialogue: 0,0:04:37.34,0:04:38.28,main,NOELLE,0,0,0,,Gaja!
+Dialogue: 0,0:04:40.25,0:04:42.78,main,NOELLE,0,0,0,,Captain Charlotte! Captain Rill!
+Dialogue: 0,0:04:46.45,0:04:49.65,italics,LOROPECHIKA (INT),0,0,0,,Water Recovery Magic: Aquenelle Lore.
+Dialogue: 0,0:04:53.76,0:04:58.09,italics,LOROPECHIKA (INT),0,0,0,,My magic… can't heal these wounds!
+Dialogue: 0,0:04:58.81,0:05:04.42,main,LOROPECHIKA,0,0,0,,No… They just saved me… yet I… I…
+Dialogue: 0,0:05:05.13,0:05:08.23,italics,ASTA (INT),0,0,0,,My Demon-Destroyer can't \Ndo anything about injuries!
+Dialogue: 0,0:05:08.23,0:05:10.83,main,ASTA,0,0,0,,Damn it! Isn't there anything I can do?
+Dialogue: 0,0:05:11.97,0:05:13.21,italics,NOELLE (INT),0,0,0,,No…
+Dialogue: 0,0:05:14.04,0:05:16.72,main,NOELLE,0,0,0,,They did the right thing \Nand worked so hard…
+Dialogue: 0,0:05:17.10,0:05:19.55,main,NOELLE,0,0,0,,They can't just die like this!
+Dialogue: 0,0:05:19.55,0:05:22.18,main,NACHT,0,0,0,,There's nothing that can be done for them.
+Dialogue: 0,0:05:22.80,0:05:24.45,main,ASTA,0,0,0,,Vice Captain Nacht!
+Dialogue: 0,0:05:24.89,0:05:29.61,main,NACHT,0,0,0,,We defeated a supreme devil. \NWe should be happy with that.
+Dialogue: 0,0:05:30.02,0:05:33.70,main,NACHT,0,0,0,,Not everyone who's in the right \Nis necessarily rewarded for it.
+Dialogue: 0,0:05:33.70,0:05:35.19,main,NACHT,0,0,0,,That's reality.
+Dialogue: 0,0:05:36.37,0:05:38.21,italics,NACHT (INT),0,0,0,,Though I wish they were.
+Dialogue: 0,0:05:39.00,0:05:41.03,main,LUCK,0,0,0,,Hey, did you bring her?
+Dialogue: 0,0:05:41.03,0:05:41.74,main,NACHT,0,0,0,,Yeah.
+Dialogue: 0,0:05:42.89,0:05:44.20,main,NACHT,0,0,0,,But it's already…
+Dialogue: 0,0:05:49.68,0:05:50.70,main,NOELLE,0,0,0,,No!
+Dialogue: 0,0:05:54.18,0:05:55.40,main,NOELLE,0,0,0,,Mimosa can do this!
+Dialogue: 0,0:05:57.72,0:06:00.09,main,MIMOSA,0,0,0,,I won't let anyone die!
+Dialogue: 0,0:06:03.20,0:06:05.37,italics,MIMOSA (INT),0,0,0,,Ultimate Plant Magic…
+Dialogue: 0,0:06:06.49,0:06:08.57,italics,MIMOSA (INT),0,0,0,,Flower Princess Utopia.
+Dialogue: 0,0:06:13.45,0:06:15.40,italics,NACHT (INT),0,0,0,,This recovery spell is…
+Dialogue: 0,0:06:15.88,0:06:18.36,main,NOELLE,0,0,0,,We'll just overrule reality!
+Dialogue: 0,0:06:19.10,0:06:22.81,main,NOELLE,0,0,0,,Because that's what magic does, right?
+Dialogue: 0,0:06:23.89,0:06:25.24,main,LOROPECHIKA,0,0,0,,Gaja!
+Dialogue: 0,0:06:25.72,0:06:28.67,main,ASTA,0,0,0,,Rill! Captain Charlotte!
+Dialogue: 0,0:06:28.67,0:06:30.74,main,ASTA,0,0,0,,Thank goodness!
+Dialogue: 0,0:06:31.05,0:06:33.94,main,ASTA,0,0,0,,Mimosa, you're so awesome!
+Dialogue: 0,0:06:35.42,0:06:37.49,main,LOROPECHIKA,0,0,0,,All this for someone like me…
+Dialogue: 0,0:06:37.49,0:06:39.91,main,LOROPECHIKA,0,0,0,,I'm so sorry! I'm so sorry!
+Dialogue: 0,0:06:39.91,0:06:43.67,main,GAJA,0,0,0,,No. I just did my duty \Nas a Spirit Guardian.
+Dialogue: 0,0:06:43.96,0:06:48.13,main,NOELLE,0,0,0,,Seriously. Don't you two \Nhave something more to say?
+Dialogue: 0,0:06:52.94,0:06:54.30,main,GAJA,0,0,0,,I love you.
+Dialogue: 0,0:06:58.48,0:07:00.23,main,GAJA,0,0,0,,I don't mean as my queen.
+Dialogue: 0,0:07:00.23,0:07:03.65,main,GAJA,0,0,0,,You are the woman that I love.
+Dialogue: 0,0:07:08.56,0:07:10.46,main,NOELLE,0,0,0,,No, wait! Seriously?!
+Dialogue: 0,0:07:10.46,0:07:11.89,main,GAJA,0,0,0,,Did I say something wrong?
+Dialogue: 0,0:07:11.89,0:07:14.75,main,SMALL UNDINE,0,0,0,,Loropechika belongs to me!
+Dialogue: 0,0:07:15.20,0:07:17.26,main,SMALL UNDINE,0,0,0,,But if it's you, Gaja…
+Dialogue: 0,0:07:20.06,0:07:24.26,main,NOZEL,0,0,0,,I hate to admit it, but I guess it's \Nbecause of him that Noelle got stronger.
+Dialogue: 0,0:07:25.05,0:07:28.73,main,NOZEL,0,0,0,,We're just going to have to \Nsave Yami no matter what.
+Dialogue: 0,0:07:31.81,0:07:37.85,italics,NACHT (INT),0,0,0,,It appears as though they've grown far \Nmore powerful than I could've imagined.
+Dialogue: 0,0:07:38.93,0:07:41.42,italics,NACHT (INT),0,0,0,,Now there's only one member \Nof the Dark Triad left.
+Dialogue: 0,0:07:42.34,0:07:43.52,italics,NACHT (INT),0,0,0,,And the last one is…
+Dialogue: 0,0:07:41.86,0:07:44.62,sign_TimesNewRoman,SIGN,0,0,0,,{\an8\fad(0,790)}Right before Megicula's defeat
+Dialogue: 0,0:07:49.72,0:07:52.26,main,ZENON,0,0,0,,We're just wasting time now.
+Dialogue: 0,0:07:52.70,0:07:54.75,main,ZENON,0,0,0,,Let's end this.
+Dialogue: 0,0:07:57.50,0:08:00.19,main,LANGRIS,0,0,0,,Damn it… What do we do now?
+Dialogue: 0,0:08:00.19,0:08:01.13,main,YUNO,0,0,0,,Langris.
+Dialogue: 0,0:08:02.41,0:08:03.57,main,YUNO,0,0,0,,Give me three minutes!
+Dialogue: 0,0:08:04.01,0:08:06.13,main,YUNO,0,0,0,,I'll end this with the next attack.
+Dialogue: 0,0:08:07.81,0:08:12.54,italics,YUNO (INT),0,0,0,,I've got a spell that can beat him… \Nbut I need time to store up mana.
+Dialogue: 0,0:08:13.92,0:08:17.27,italics,YUNO (INT),0,0,0,,I can't fire it while \Nwe're on the defensive.
+Dialogue: 0,0:08:18.21,0:08:20.19,italics,YUNO (INT),0,0,0,,In order to defeat him…
+Dialogue: 0,0:08:20.77,0:08:24.44,italics,LANGRIS (INT),0,0,0,,I'll have to act as a \Ndecoy and protect Yuno.
+Dialogue: 0,0:08:24.94,0:08:25.92,italics,LANGRIS (INT),0,0,0,,But…
+Dialogue: 0,0:08:26.29,0:08:29.90,italics,LANGRIS (INT),0,0,0,,I'm only able to evade his \Nattacks with Yuno's help,
+Dialogue: 0,0:08:29.90,0:08:33.06,italics,LANGRIS (INT),0,0,0,,so it's impossible for me \Nto buy him three minutes…
+Dialogue: 0,0:08:34.01,0:08:36.70,italics,YUNO/LANGRIS (INT),0,0,0,,But we just have to do it!
+Dialogue: 0,0:08:38.73,0:08:42.53,main,YUNO,0,0,0,,You're the Clover Kingdom's \Nstrongest spatial mage,
+Dialogue: 0,0:08:42.53,0:08:45.21,main,YUNO,0,0,0,,so you're starting to see a \Nway through this, aren't you?
+Dialogue: 0,0:08:45.68,0:08:49.34,main,YUNO,0,0,0,,You're not just going to let \Nhim keep thrashing us, right?
+Dialogue: 0,0:08:52.22,0:08:56.30,main,ZENON,0,0,0,,I already know the extent of your powers.
+Dialogue: 0,0:08:57.22,0:09:00.99,italics,LANGRIS (INT),0,0,0,,Once you're within Zenon's Absolute \NSpace: Spatial Mana Dominion,
+Dialogue: 0,0:09:00.99,0:09:04.11,italics,LANGRIS (INT),0,0,0,,most people wouldn't even \Nbe able to use any magic.
+Dialogue: 0,0:09:04.45,0:09:09.36,italics,LANGRIS (INT),0,0,0,,The only ones who'd be able to are \Nthose with an equal amount of mana.
+Dialogue: 0,0:09:09.80,0:09:13.90,italics,LANGRIS (INT),0,0,0,,Those who are beloved by mana like \NYuno and managed to free themselves.
+Dialogue: 0,0:09:16.60,0:09:17.73,italics,LANGRIS (INT),0,0,0,,And…
+Dialogue: 0,0:09:19.16,0:09:22.46,italics,LANGRIS (INT),0,0,0,,spatial mages who've \Nmastered the Mana Zone!
+Dialogue: 0,0:09:26.38,0:09:27.45,main,ZENON,0,0,0,,Oho…
+Dialogue: 0,0:09:27.84,0:09:33.26,italics,ZENON (INT),0,0,0,,It may be small, but he created his own \Nterritory within my Absolute Space.
+Dialogue: 0,0:09:33.48,0:09:35.94,main,YUNO,0,0,0,,See? I knew you could do it.
+Dialogue: 0,0:09:35.94,0:09:37.36,main,YUNO,0,0,0,,Well done.
+Dialogue: 0,0:09:37.81,0:09:42.19,main,LANGRIS,0,0,0,,Seriously… You're such \Nan annoying little junior!
+Dialogue: 0,0:09:43.24,0:09:46.60,italics,LANGRIS (INT),0,0,0,,Ever since he joined, he was an \Ninsolent and presumptuous junior,
+Dialogue: 0,0:09:46.60,0:09:49.54,italics,LANGRIS (INT),0,0,0,,but he had the skills to back that up.
+Dialogue: 0,0:09:50.18,0:09:53.60,italics,LANGRIS (INT),0,0,0,,Looking back now, I think I might've \Nhated him because we're so similar.
+Dialogue: 0,0:09:54.64,0:09:58.17,italics,LANGRIS (INT),0,0,0,,But I never felt like I'd lose.
+Dialogue: 0,0:09:58.61,0:10:01.90,italics,LANGRIS (INT),0,0,0,,I never thought you'd \Nbe able to surpass me.
+Dialogue: 0,0:10:04.18,0:10:08.14,main,ZENON,0,0,0,,But in the end, you have \Nno way to attack me.
+Dialogue: 0,0:10:08.14,0:10:11.38,main,ZENON,0,0,0,,You have no spell that \Ncould defeat me now.
+Dialogue: 0,0:10:13.13,0:10:16.14,italics,LANGRIS (INT),0,0,0,,This guy's mana is completely \Nout of our league!
+Dialogue: 0,0:10:16.14,0:10:18.14,italics,LANGRIS (INT),0,0,0,,I'm not going to last long.
+Dialogue: 0,0:10:20.22,0:10:22.27,italics,LANGRIS (INT),0,0,0,,You'd better hurry it up!
+Dialogue: 0,0:10:22.65,0:10:24.34,italics,YUNO (INT),0,0,0,,I'm working on it!
+Dialogue: 0,0:10:25.82,0:10:29.37,italics,LANGRIS (INT),0,0,0,,That's right. My spatial \Nmagic was invincible.
+Dialogue: 0,0:10:30.65,0:10:32.82,italics,LANGRIS (INT),0,0,0,,If I did my best, that was all it took.
+Dialogue: 0,0:10:33.60,0:10:37.16,italics,LANGRIS (INT),0,0,0,,As long as I was there, \Nmy squad was the strongest.
+Dialogue: 0,0:10:37.89,0:10:40.70,italics,LANGRIS (INT),0,0,0,,But your strength was different.
+Dialogue: 0,0:10:42.05,0:10:44.65,italics,LANGRIS (INT),0,0,0,,It was as if you were giving us \Na push with that wind…
+Dialogue: 0,0:10:45.17,0:10:50.42,italics,LANGRIS (INT),0,0,0,,As if we were all flying together. \NYour strength wasn't self-centered.
+Dialogue: 0,0:10:52.88,0:10:55.60,italics,LANGRIS (INT),0,0,0,,The way you hated losing \Ninspired everyone
+Dialogue: 0,0:10:56.22,0:10:57.49,italics,LANGRIS (INT),0,0,0,,and made us stronger.
+Dialogue: 0,0:11:00.49,0:11:04.10,main,LANGRIS,0,0,0,,It's annoying, but I admit it.
+Dialogue: 0,0:11:05.05,0:11:09.78,main,LANGRIS,0,0,0,,You are indeed the Vice \NCaptain of the Golden Dawn!
+Dialogue: 0,0:11:10.70,0:11:13.82,main,ZENON,0,0,0,,In the face of overwhelming power,
+Dialogue: 0,0:11:13.82,0:11:17.52,main,ZENON,0,0,0,,emotions and tenacity \Nmean absolutely nothing.
+Dialogue: 0,0:11:20.93,0:11:26.96,main,ZENON,0,0,0,,All that exists is the reality that \NI'm more powerful than you both.
+Dialogue: 0,0:11:27.96,0:11:32.48,main,LANGRIS,0,0,0,,Yeah, but we can't just say, \N"Oh, really?" and back down!
+Dialogue: 0,0:11:38.94,0:11:40.39,main,LANGRIS,0,0,0,,We're…
+Dialogue: 0,0:11:40.89,0:11:45.49,main,LANGRIS,0,0,0,,the ultimate Magic Knight \NSquad, the Golden Dawn!
+Dialogue: 0,0:11:46.17,0:11:47.19,main,YUNO,0,0,0,,That's right.
+Dialogue: 0,0:11:49.25,0:11:51.98,main,YUNO,0,0,0,,You hate losing just as much as I do!
+Dialogue: 0,0:11:53.01,0:11:56.90,main,YUNO,0,0,0,,Wind Spirit Creation \NMagic: Spirit of Euros.
+Dialogue: 0,0:12:12.38,0:12:14.09,italics,ZENON (INT),0,0,0,,So fast…
+Dialogue: 0,0:12:14.84,0:12:18.76,italics,ZENON (INT),0,0,0,,To think it's possible to run \Nthis body completely through…
+Dialogue: 0,0:12:21.04,0:12:23.89,main,YUNO,0,0,0,,Our tenacity wins this one!
+Dialogue: 0,0:12:29.50,0:12:30.66,italics,ZENON (INT),0,0,0,,Allen…
+Dialogue: 0,0:12:39.64,0:12:41.07,flashback,YOUNG VANICA (FB),0,0,0,,What's wrong with you?
+Dialogue: 0,0:12:42.32,0:12:44.44,flashback,YOUNG VANICA (FB),0,0,0,,Did you get hurt again?
+Dialogue: 0,0:12:44.44,0:12:46.11,flashback,YOUNG VANICA (FB),0,0,0,,What a loser!
+Dialogue: 0,0:12:46.11,0:12:47.34,flashback,YOUNG DANTE (FB),0,0,0,,Honestly…
+Dialogue: 0,0:12:47.68,0:12:50.28,flashback,YOUNG DANTE (FB),0,0,0,,For someone who's my little \Nbrother, you're pathetic.
+Dialogue: 0,0:12:56.68,0:12:59.04,flashback,LUCIUS (FB),0,0,0,,Don't worry, Zenon.
+Dialogue: 0,0:13:01.56,0:13:02.58,flashback,YOUNG ZENON (FB),0,0,0,,Big Brother…
+Dialogue: 0,0:13:03.20,0:13:05.82,flashback,LUCIUS (FB),0,0,0,,You're the one who's most like me.
+Dialogue: 0,0:13:08.93,0:13:13.77,flashback,LUCIUS (FB),0,0,0,,You have greater aptitude as\Na devil host than Dante or Vanica.
+Dialogue: 0,0:13:18.28,0:13:19.41,flashback,BOY 1/BOY 2/JOHN (FB),0,0,0,,Hey!
+Dialogue: 0,0:13:20.44,0:13:21.68,flashback,JOHN (FB),0,0,0,,Take that!
+Dialogue: 0,0:13:23.28,0:13:25.64,flashback,BOY 1 (FB),0,0,0,,You're so strong, John!
+Dialogue: 0,0:13:25.64,0:13:29.40,flashback,JOHN (FB),0,0,0,,You creepy little guy. You've got \Nbones shooting out of your body.
+Dialogue: 0,0:13:30.04,0:13:37.10,flashback,JOHN (FB),0,0,0,,My dad's in the Mage Defense \NForce, so I'll slay you!
+Dialogue: 0,0:13:37.42,0:13:38.36,flashback,JOHN (FB),0,0,0,,Whoa!
+Dialogue: 0,0:13:38.92,0:13:40.12,flashback,JOHN (FB),0,0,0,,That's hot!
+Dialogue: 0,0:13:40.12,0:13:41.64,flashback,YOUNG ALLEN (FB),0,0,0,,What're you talking about?
+Dialogue: 0,0:13:42.43,0:13:45.53,flashback,YOUNG ALLEN (FB),0,0,0,,It's just a different type of magic!
+Dialogue: 0,0:13:45.53,0:13:47.48,flashback,JOHN (FB),0,0,0,,Gah, it's Allen!
+Dialogue: 0,0:13:47.48,0:13:49.48,flashback,JOHN (FB),0,0,0,,Run away!
+Dialogue: 0,0:13:49.48,0:13:53.23,flashback,YOUNG ALLEN (FB),0,0,0,,And you're the son of a Mage Defense \NForce member? How embarrassing.
+Dialogue: 0,0:13:55.34,0:13:56.48,flashback,YOUNG ALLEN (FB),0,0,0,,I'm Allen!
+Dialogue: 0,0:13:56.73,0:13:59.25,flashback,YOUNG ALLEN (FB),0,0,0,,Your magic looks super strong!
+Dialogue: 0,0:14:02.97,0:14:05.37,flashback,YOUNG ALLEN (FB),0,0,0,,Everyone's scared and nervous.
+Dialogue: 0,0:14:06.29,0:14:09.52,flashback,YOUNG ALLEN (FB),0,0,0,,The Spade Kingdom's always snowed in.
+Dialogue: 0,0:14:09.52,0:14:11.72,flashback,YOUNG ALLEN (FB),0,0,0,,There's a never-ending rebellion going on,
+Dialogue: 0,0:14:11.72,0:14:14.50,flashback,YOUNG ALLEN (FB),0,0,0,,and the Diamond Kingdom keeps invading.
+Dialogue: 0,0:14:15.45,0:14:20.17,flashback,YOUNG ALLEN (FB),0,0,0,,I want to get stronger so I can protect \Nthe citizens who are trembling in fear.
+Dialogue: 0,0:14:21.58,0:14:25.93,flashback,YOUNG ALLEN (FB),0,0,0,,I want to light the fire of \Nhope in this frozen land.
+Dialogue: 0,0:14:29.04,0:14:29.92,flashback,YOUNG ALLEN (FB),0,0,0,,So…
+Dialogue: 0,0:14:30.86,0:14:34.35,flashback,YOUNG ALLEN (FB),0,0,0,,I'm gonna become the commander \Nin chief of the Mage Defense Force.
+Dialogue: 0,0:14:35.74,0:14:36.65,flashback,YOUNG ZENON (FB),0,0,0,,Me, too.
+Dialogue: 0,0:14:38.98,0:14:40.82,flashback,YOUNG ZENON (FB),0,0,0,,I'll be the commander in chief, too.
+Dialogue: 0,0:14:41.48,0:14:44.36,flashback,YOUNG ALLEN (FB),0,0,0,,Then I guess that means we're rivals!
+Dialogue: 0,0:14:44.72,0:14:48.00,flashback,YOUNG ALLEN (FB),0,0,0,,Let's see who becomes \Nthe commander in chief!
+Dialogue: 0,0:15:01.12,0:15:03.63,flashback,TEEN ZENON (FB),0,0,0,,I'm very sorry, Big Brother.
+Dialogue: 0,0:15:05.13,0:15:09.05,flashback,TEEN ZENON (FB),0,0,0,,I have no interest in \Nbecoming a devil host.
+Dialogue: 0,0:15:13.26,0:15:17.22,flashback,MAGE DEFENSE FORCE MEMBER 1 (FB),0,0,0,,Congratulations on your admission to \Nthe Mage Defense Force 4th Division.
+Dialogue: 0,0:15:18.02,0:15:20.77,flashback,MAGE DEFENSE FORCE MEMBER 2 (FB),0,0,0,,Both of the new members \Nthis year are battle-ready!
+Dialogue: 0,0:15:20.77,0:15:23.61,flashback,MAGE DEFENSE FORCE MEMBER 2 (FB),0,0,0,,And Zenon, the one who uses \Nbone magic, is a genius!
+Dialogue: 0,0:15:24.81,0:15:27.70,flashback,MAGE DEFENSE FORCE MEMBER 1 (FB),0,0,0,,A dungeon has appeared to the \Nnorthwest of the town of Lawton!
+Dialogue: 0,0:15:27.70,0:15:29.74,flashback,MAGE DEFENSE FORCE MEMBER 1 (FB),0,0,0,,The 4th Division is to go \Nand investigate at once!
+Dialogue: 0,0:15:30.65,0:15:32.74,flashback,ALLEN (FB),0,0,0,,I'm not losing this time, Zenon.
+Dialogue: 0,0:15:35.00,0:15:37.64,flashback,TEEN ZENON (FB),0,0,0,,There's no winning or \Nlosing on missions, Allen.
+Dialogue: 0,0:15:37.64,0:15:40.33,flashback,ALLEN (FB),0,0,0,,Jeez, you're always so serious.
+Dialogue: 0,0:15:52.42,0:15:55.52,flashback,MAGE DEFENSE FORCE MEMBER 2 (FB),0,0,0,,I can't believe there was \Na devil sealed away in here!
+Dialogue: 0,0:15:55.52,0:15:59.26,flashback,MAGE DEFENSE FORCE MEMBER 3 (FB),0,0,0,,It's so powerful! At this rate, \Nwe'll all be wiped out!
+Dialogue: 0,0:16:01.02,0:16:02.69,flashback italics,TEEN ZENON (INT)(FB),0,0,0,,To defeat that thing…
+Dialogue: 0,0:16:03.42,0:16:07.04,flashback italics,TEEN ZENON (INT)(FB),0,0,0,,I'm gonna need to unleash a \Nspell that uses all of my mana.
+Dialogue: 0,0:16:07.77,0:16:10.82,flashback italics,TEEN ZENON (INT)(FB),0,0,0,,But it's not giving me a chance to hit it.
+Dialogue: 0,0:16:11.68,0:16:15.20,flashback,ALLEN (FB),0,0,0,,I'm… going to become the commander \Nin chief of the Mage Defense Force!
+Dialogue: 0,0:16:18.32,0:16:21.25,flashback,ALLEN (FB),0,0,0,,I can't lose here!
+Dialogue: 0,0:16:21.25,0:16:22.83,flashback,TEEN ZENON (FB),0,0,0,,Allen!
+Dialogue: 0,0:16:22.83,0:16:25.13,flashback italics,TEEN ZENON (INT)(FB),0,0,0,,All you'll do is buy time!
+Dialogue: 0,0:16:28.36,0:16:30.14,flashback italics,TEEN ZENON (INT)(FB),0,0,0,,This is my only chance!
+Dialogue: 0,0:16:30.70,0:16:33.10,flashback italics,TEEN ZENON (INT)(FB),0,0,0,,If I shoot now, I'll be able \Nto take out the devil…
+Dialogue: 0,0:16:33.45,0:16:35.01,flashback italics,TEEN ZENON (INT)(FB),0,0,0,,along with Allen.
+Dialogue: 0,0:16:36.28,0:16:40.40,flashback italics,TEEN ZENON (INT)(FB),0,0,0,,If I don't take it down now, \Nall of us, including myself…
+Dialogue: 0,0:16:41.34,0:16:42.37,flashback italics,TEEN ZENON (INT)(FB),0,0,0,,will die.
+Dialogue: 0,0:16:43.96,0:16:46.60,flashback italics,TEEN ZENON (INT)(FB),0,0,0,,Then there'll be even more \Nvictims throughout the kingdom.
+Dialogue: 0,0:16:46.60,0:16:50.16,flashback italics,TEEN ZENON (INT)(FB),0,0,0,,At the very least, the people \Nin the town nearby will die.
+Dialogue: 0,0:17:01.04,0:17:04.00,flashback,ALLEN (FB),0,0,0,,Not yet!
+Dialogue: 0,0:17:10.89,0:17:12.95,flashback italics,TEEN ZENON (INT)(FB),0,0,0,,Without power,
+Dialogue: 0,0:17:12.95,0:17:15.49,flashback italics,TEEN ZENON (INT)(FB),0,0,0,,emotions and tenacity \Nmean absolutely nothing.
+Dialogue: 0,0:17:18.34,0:17:20.82,flashback italics,TEEN ZENON (INT)(FB),0,0,0,,The weak need to be discarded.
+Dialogue: 0,0:17:24.18,0:17:27.94,flashback italics,TEEN ZENON (INT)(FB),0,0,0,,Overwhelming power is everything!
+Dialogue: 0,0:17:29.57,0:17:33.01,flashback italics,TEEN ZENON (INT)(FB),0,0,0,,If even some random devil \Nis that powerful…
+Dialogue: 0,0:17:34.12,0:17:35.25,flashback,TEEN ZENON (FB),0,0,0,,Big Brother.
+Dialogue: 0,0:17:37.21,0:17:40.66,flashback,TEEN ZENON (FB),0,0,0,,Please make me a devil host.
+Dialogue: 0,0:17:44.49,0:17:47.52,main,ZENON,0,0,0,,Beelzebub, let's make a deal.
+Dialogue: 0,0:17:47.92,0:17:50.57,main,ZENON,0,0,0,,Give me a devil's heart.
+Dialogue: 0,0:17:52.74,0:17:54.70,main,BEELZEBUB,0,0,0,,A heart?
+Dialogue: 0,0:17:59.76,0:18:03.83,main,BEELZEBUB,0,0,0,,And what are you going \Nto give me in return?
+Dialogue: 0,0:18:03.83,0:18:05.86,main,ZENON,0,0,0,,All of me.
+Dialogue: 0,0:18:07.46,0:18:12.44,main,ZENON,0,0,0,,If, as our contract states, the Spade \NKingdom is able to continue existing,
+Dialogue: 0,0:18:12.44,0:18:15.45,main,ZENON,0,0,0,,I'll even give you my soul.
+Dialogue: 0,0:18:18.46,0:18:19.65,main,BEELZEBUB,0,0,0,,Very well.
+Dialogue: 0,0:18:20.68,0:18:22.38,main,BEELZEBUB,0,0,0,,I'll give it to you.
+Dialogue: 0,0:18:34.04,0:18:35.54,main,YUNO,0,0,0,,What?
+Dialogue: 0,0:18:43.85,0:18:48.11,italics,YUNO,0,0,0,,This feeling… He's like that guy!
+Dialogue: 0,0:18:48.52,0:18:51.76,main,ZENON,0,0,0,,Now that I've acquired a devil's heart,
+Dialogue: 0,0:18:52.14,0:18:55.42,main,ZENON,0,0,0,,my strength is even more devastating.
+Dialogue: 0,0:18:56.14,0:19:00.08,italics,LANGRIS (INT),0,0,0,,He uses a devil's power, \Nand he has a devil's heart.
+Dialogue: 0,0:19:00.54,0:19:02.25,italics,LANGRIS (INT),0,0,0,,Isn't any human like that…
+Dialogue: 0,0:19:03.32,0:19:04.76,italics,LANGRIS (INT),0,0,0,,already a devil?
+Dialogue: 0,0:19:22.21,0:19:24.60,main,ZENON,0,0,0,,That arrow from a moment ago…
+Dialogue: 0,0:19:25.98,0:19:30.25,main,ZENON,0,0,0,,In order to avoid hitting your \Ncomrade, you diverted it slightly
+Dialogue: 0,0:19:30.25,0:19:32.86,main,ZENON,0,0,0,,and missed my heart.
+Dialogue: 0,0:19:35.15,0:19:39.49,main,ZENON,0,0,0,,If you had sacrificed your comrade \Nand shot through my heart,
+Dialogue: 0,0:19:40.24,0:19:42.70,main,ZENON,0,0,0,,you would've won.
+Dialogue: 0,0:20:11.78,0:20:13.70,main,ZENON,0,0,0,,You persistent little pest…
+Dialogue: 0,0:20:14.09,0:20:16.19,main,ZENON,0,0,0,,You still stand in my way?
+Dialogue: 0,0:20:17.26,0:20:19.14,main,ZENON,0,0,0,,I'll put you out of your misery.
+Dialogue: 0,0:20:28.48,0:20:30.50,main,FINRAL,0,0,0,,Heya, Langris!
+Dialogue: 0,0:20:30.50,0:20:31.58,main,LANGRIS,0,0,0,,Brother?
+Dialogue: 0,0:20:31.93,0:20:33.64,main,ZENON,0,0,0,,He's…
+Dialogue: 0,0:20:34.34,0:20:37.31,main,LANGRIS,0,0,0,,I don't know why you're here,
+Dialogue: 0,0:20:37.31,0:20:39.63,main,LANGRIS,0,0,0,,but are you trying to rescue me again?
+Dialogue: 0,0:20:40.14,0:20:43.90,italics,FINRAL (INT),0,0,0,,I saw Langris and that guy and \Nrushed out here without thinking.
+Dialogue: 0,0:20:44.47,0:20:45.52,main,FINRAL,0,0,0,,Nope!
+Dialogue: 0,0:20:46.09,0:20:51.05,main,FINRAL,0,0,0,,He took our captain using spatial magic.
+Dialogue: 0,0:20:51.50,0:20:54.77,main,FINRAL,0,0,0,,I can't let him get away with that.
+Dialogue: 0,0:20:55.72,0:20:56.69,italics,FINRAL (INT),0,0,0,,Sorry…
+Dialogue: 0,0:20:57.03,0:20:59.87,italics,FINRAL (INT),0,0,0,,I'm gonna take a little side trip, Yami!
+Dialogue: 0,0:21:00.89,0:21:04.17,italics,FINRAL (INT),0,0,0,,I'll apply Fallen Angel's \NWingbeat directly to Langris!
+Dialogue: 0,0:21:05.24,0:21:06.87,italics,FINRAL (INT),0,0,0,,Instant Teleportation!
+Dialogue: 0,0:21:08.23,0:21:10.01,italics,FINRAL (INT),0,0,0,,Langris's Mana Zone makes it possible
+Dialogue: 0,0:21:10.01,0:21:13.21,italics,FINRAL (INT),0,0,0,,to activate spells even within \NZenon's Absolute Space.
+Dialogue: 0,0:21:13.95,0:21:18.21,italics,LANGRIS (INT),0,0,0,,Finral's teleportation is \Nhighly agile and accurate.
+Dialogue: 0,0:21:18.89,0:21:22.42,main,FINRAL,0,0,0,,If we're together right now, we can fight!
+Dialogue: 0,0:21:22.42,0:21:23.85,main,FINRAL,0,0,0,,Isn't that right, Langris?
+Dialogue: 0,0:21:25.35,0:21:26.68,main,LANGRIS,0,0,0,,Honestly…
+Dialogue: 0,0:21:26.68,0:21:29.02,main,LANGRIS,0,0,0,,You're one insolent big brother!
+Dialogue: 0,0:21:34.31,0:21:37.28,italics,FINRAL (INT),0,0,0,,Langris won't last through a long battle!
+Dialogue: 0,0:21:37.28,0:21:38.32,italics,FINRAL (INT),0,0,0,,We'll settle this quick!
+Dialogue: 0,0:21:39.44,0:21:42.27,italics,ZENON (INT),0,0,0,,I know how fast he teleports now
+Dialogue: 0,0:21:42.27,0:21:46.13,italics,ZENON (INT),0,0,0,,and when he does it, \Nas well as what they're after.
+Dialogue: 0,0:21:46.13,0:21:48.95,italics,ZENON (INT),0,0,0,,When they come to settle \Nthis, I'll end them.
+Dialogue: 0,0:21:49.56,0:21:51.93,italics,ZENON (INT),0,0,0,,Once you enter my Mana Zone…
+Dialogue: 0,0:21:50.43,0:21:52.96,top,FINRAL (INT),0,0,0,,We'll get in close so we \Ncan enter his Mana Zone!
+Dialogue: 0,0:21:57.21,0:21:58.63,italics,ZENON (INT),0,0,0,,…it's over.
+Dialogue: 0,0:22:01.10,0:22:02.20,italics,ZENON (INT),0,0,0,,What?
+Dialogue: 0,0:22:03.90,0:22:06.80,italics,FINRAL (INT),0,0,0,,I used the Mana Method to boost our speed!
+Dialogue: 0,0:22:07.31,0:22:09.82,italics,FINRAL (INT),0,0,0,,Langris's magic gouges \Nthrough space itself!
+Dialogue: 0,0:22:09.82,0:22:13.06,italics,FINRAL (INT),0,0,0,,No matter how powerful \Nyou are, your defenses…
+Dialogue: 0,0:22:13.61,0:22:15.34,italics,FINRAL/LANGRIS (INT),0,0,0,,…won't mean a thing!
+
