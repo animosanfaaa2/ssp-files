@@ -1,0 +1,343 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:10.64,0:00:12.14,Default,Romelia,0,0,0,,Where am I?
+Dialogue: 0,0:00:52.25,0:00:54.83,Default,Elisabeth,0,0,0,,You still need to rest, Prince.
+Dialogue: 0,0:00:54.83,0:00:56.95,Default,Henri,0,0,0,,No, I'm fine.
+Dialogue: 0,0:00:57.35,0:01:01.84,Default,Henri,0,0,0,,You... saved me, Elisabeth?
+Dialogue: 0,0:01:04.40,0:01:05.44,Default,Elisabeth,0,0,0,,Yes.
+Dialogue: 0,0:01:17.97,0:01:20.36,Default,Doctor,0,0,0,,You're amazing, Lady Elisabeth.
+Dialogue: 0,0:01:20.36,0:01:24.80,Default,Doctor,0,0,0,,Thanks to your healing, \Nthe king is showing signs of recovery.
+Dialogue: 0,0:01:25.09,0:01:28.21,Default,Elisabeth,0,0,0,,But he's near the end \Nof his natural life.
+Dialogue: 0,0:01:28.55,0:01:31.57,Default,Elisabeth,0,0,0,,Healing can't fix the flow of time.
+Dialogue: 0,0:01:31.57,0:01:34.40,Default,Henri,0,0,0,,My father is grateful \Nthat you've freed him
+Dialogue: 0,0:01:34.40,0:01:36.40,Default,Henri,0,0,0,,from the pain of his illness.
+Dialogue: 0,0:01:36.82,0:01:39.87,Default,Henri,0,0,0,,You do so much for me...
+Dialogue: 0,0:01:40.09,0:01:43.83,Default,Elisabeth,0,0,0,,I'm just doing what I can. That's all.
+Dialogue: 0,0:01:44.08,0:01:46.99,Default,Henri,0,0,0,,I'm glad I was able \Nto see him so at peace.
+Dialogue: 0,0:01:47.44,0:01:50.30,Default,Henri,0,0,0,,Now I don't have to worry\N when I go to war.
+Dialogue: 0,0:01:51.73,0:01:53.57,Default,Elisabeth,0,0,0,,Go to war?
+Dialogue: 0,0:03:26.87,0:03:29.30,Default,Elisabeth,0,0,0,,Your next destination is Dacan?
+Dialogue: 0,0:03:29.51,0:03:33.93,Default,Henri,0,0,0,,It's where the demon king's army is \Nconcentrating most of its forces.
+Dialogue: 0,0:03:34.13,0:03:40.11,Default,Elisabeth,0,0,0,,But the Black Hawk Knights, the strongest \Nin the kingdom, are defending it, right?
+Dialogue: 0,0:03:40.39,0:03:42.87,Default,Elisabeth,0,0,0,,Can't you leave it to General Zarya?
+Dialogue: 0,0:03:42.87,0:03:47.33,Default,Henri,0,0,0,,If we remain on the defensive,\Nthe Demon King's army will defeat us.
+Dialogue: 0,0:03:47.33,0:03:50.51,Default,Elisabeth,0,0,0,,But if anything happens to you...
+Dialogue: 0,0:03:51.24,0:03:53.64,Default,Henri,0,0,0,,It was decided during the royal council.
+Dialogue: 0,0:03:53.64,0:03:54.89,Default,Henri,0,0,0,,Please understand.
+Dialogue: 0,0:03:55.40,0:03:58.79,Default,Henri,0,0,0,,As you know, I'm strong.
+Dialogue: 0,0:03:59.19,0:04:01.31,Default,Henri,0,0,0,,I'll come back safe, I promise.
+Dialogue: 0,0:04:12.59,0:04:14.13,Default,Seryure,0,0,0,,Come in.
+Dialogue: 0,0:04:14.13,0:04:16.91,Default,Secretary,0,0,0,,Excuse me, Master Seryure.
+Dialogue: 0,0:04:19.02,0:04:21.31,Default,Secretary,0,0,0,,As always, your etiquette\N is atrocious.
+Dialogue: 0,0:04:22.63,0:04:25.68,Default,Seryure,0,0,0,,The prince is finally joining \Nthe fight personally.
+Dialogue: 0,0:04:25.68,0:04:28.83,Default,Seryure,0,0,0,,Check the supply routes \Nfor the Dacan Plains.
+Dialogue: 0,0:04:28.83,0:04:31.49,Default,Seryure,0,0,0,,We're gonna sell a ton of weapons again!
+Dialogue: 0,0:04:31.78,0:04:34.03,Default,Seryure,0,0,0,,What kind of weapons should we take?
+Dialogue: 0,0:04:34.03,0:04:37.93,Default,Secretary,0,0,0,,Why don't you finish breakfast \Nbefore we discuss this?
+Dialogue: 0,0:04:37.93,0:04:39.71,Default,Seryure,0,0,0,,I told you I didn't need breakfast.
+Dialogue: 0,0:04:39.71,0:04:42.27,Default,Seryure,0,0,0,,You're the one forcing me to eat.
+Dialogue: 0,0:04:42.27,0:04:43.46,Default,Secretary,0,0,0,,I see.
+Dialogue: 0,0:04:43.46,0:04:46.03,Default,Secretary,0,0,0,,While you're eating your \Nunneeded breakfast, then...
+Dialogue: 0,0:04:46.03,0:04:51.87,Default,Secretary,0,0,0,,Here are today's reports, \Ncontracts, and letters for you.
+Dialogue: 0,0:04:51.87,0:04:55.64,Default,Seryure,0,0,0,,You're always talking about etiquette and\N manners. You're giving these to me now?
+Dialogue: 0,0:04:55.64,0:04:59.37,Default,Secretary,0,0,0,,Yes, since it seems \Nyou don't need time to eat.
+Dialogue: 0,0:04:59.37,0:05:02.27,Default,Seryure,0,0,0,,Wow, you're a mean secretary.
+Dialogue: 0,0:05:02.44,0:05:05.78,Default,Secretary,0,0,0,,Don't get grease on the ones\N that require a reply.
+Dialogue: 0,0:05:06.49,0:05:08.17,Default,Seryure,0,0,0,,Listen...
+Dialogue: 0,0:05:08.49,0:05:10.23,Default,Seryure,0,0,0,,Oh my.
+Dialogue: 0,0:05:10.53,0:05:13.08,Default,Seryure,0,0,0,,This is from Carolus, the place \Neveryone's talking about lately.
+Dialogue: 0,0:05:13.08,0:05:16.16,Default,Secretary,0,0,0,,I'm told its administrator was arrested.
+Dialogue: 0,0:05:16.16,0:05:17.29,Default,Seryure,0,0,0,,Yes.
+Dialogue: 0,0:05:17.29,0:05:21.98,Default,Seryure,0,0,0,,And it was taken over by the young lady \Nwho made the heir to Sella Company cry.
+Dialogue: 0,0:05:22.29,0:05:28.54,Default,Seryure,0,0,0,,Now, what would she want \Nfrom a humble merchant?
+Dialogue: 0,0:05:29.55,0:05:34.26,Default,Dars,0,0,0,,The vanguard has left \Nfor Guillier as planned.
+Dialogue: 0,0:05:34.52,0:05:38.07,Default,Hyde,0,0,0,,This expedition isn't going \Nto be cheap, either.
+Dialogue: 0,0:05:38.07,0:05:41.02,Default,Mary,0,0,0,,We'll be hard-pressed \Nfor funds for a while.
+Dialogue: 0,0:05:41.40,0:05:45.78,Default,Romelia,0,0,0,,I'll come up with an idea by the time the \Nnext inspector arrives to check our books.
+Dialogue: 0,0:05:45.78,0:05:49.11,Default,Dars,0,0,0,,But what kind of plan \Ncould you come up with?
+Dialogue: 0,0:05:49.36,0:05:53.32,Default,Romelia,0,0,0,,First, I plan to make allies\N of the merchants.
+Dialogue: 0,0:05:53.32,0:05:54.92,Default,Mary,0,0,0,,The merchants?
+Dialogue: 0,0:05:54.92,0:05:58.95,Default,Hyde,0,0,0,,But they won't do anything\N unless there's something in it for them.
+Dialogue: 0,0:05:59.23,0:06:03.30,Default,Dars,0,0,0,,That's correct. Is there \Nsomething we can offer?
+Dialogue: 0,0:06:03.60,0:06:08.75,Default,Romelia,0,0,0,,You all remember what I confiscated \Nfrom the bandits, yes?
+Dialogue: 0,0:06:09.44,0:06:13.42,Default,Romelia,0,0,0,,Reports say that many of those weapons \Nwere used against innocent merchants.
+Dialogue: 0,0:06:13.72,0:06:18.32,Default,Romelia,0,0,0,,I'll offer to have Carolus do patrols \Nto ensure this doesn't happen again.
+Dialogue: 0,0:06:18.32,0:06:23.32,Default,Hyde,0,0,0,,But from their perspective, we're the ones\N who sold the weapons to the bandits.
+Dialogue: 0,0:06:23.66,0:06:25.59,Default,Hyde,0,0,0,,Will they agree to it, given that?
+Dialogue: 0,0:06:25.59,0:06:28.16,Default,Romelia,0,0,0,,Serbeck was the man behind it,\N and he was arrested.
+Dialogue: 0,0:06:28.68,0:06:34.58,Default,Romelia,0,0,0,,So if we say we're atoning for \Nhis mistakes, it makes sense.
+Dialogue: 0,0:06:34.58,0:06:38.85,Default,Mary,0,0,0,,The merchants aren't going \Nto be fooled by that.
+Dialogue: 0,0:06:42.01,0:06:44.27,Default,Romelia,0,0,0,,Supply Magistrate Graves.
+Dialogue: 0,0:06:44.27,0:06:48.57,Default,Romelia,0,0,0,,I'd like to discuss a couple of things\N regarding supplies for the Guillier unit.
+Dialogue: 0,0:06:48.95,0:06:50.51,Default,Romelia,0,0,0,,Troop Magistrate Dars,
+Dialogue: 0,0:06:50.51,0:06:53.52,Default,Romelia,0,0,0,,may I borrow Graves for a moment?
+Dialogue: 0,0:06:53.52,0:06:57.32,Default,Dars,0,0,0,,A-All right... I don't mind.
+Dialogue: 0,0:06:57.32,0:07:00.20,Default,Graves,0,0,0,,Yes, I'm free to talk now.
+Dialogue: 0,0:07:00.20,0:07:03.35,Default,Romelia,0,0,0,,Thank you. I appreciate it.
+Dialogue: 0,0:07:04.57,0:07:07.81,Default,Graves,0,0,0,,Um, what do you want to talk about?
+Dialogue: 0,0:07:07.81,0:07:10.04,Default,Romelia,0,0,0,,There's a meeting \Nabout to be held in Millet.
+Dialogue: 0,0:07:10.55,0:07:13.02,Default,Romelia,0,0,0,,Can we talk on the way?
+Dialogue: 0,0:07:14.92,0:07:19.62,Default,Graves,0,0,0,,Thank you for appointing me\N as supply magistrate.
+Dialogue: 0,0:07:19.62,0:07:24.87,Default,Graves,0,0,0,,I'm not as strong as the younger troops,\N so I appreciate it.
+Dialogue: 0,0:07:25.21,0:07:26.60,Default,Graves,0,0,0,,E-Excuse me.
+Dialogue: 0,0:07:26.60,0:07:30.40,Default,Graves,0,0,0,,I'll do my best with the \Nsupply missions, of course!
+Dialogue: 0,0:07:30.85,0:07:35.73,Default,Romelia,0,0,0,,What do you think is most important\N when supplying an army?
+Dialogue: 0,0:07:35.73,0:07:38.20,Default,Graves,0,0,0,,Um... let me see.
+Dialogue: 0,0:07:38.20,0:07:40.06,Default,Graves,0,0,0,,Managing the supplies themselves.
+Dialogue: 0,0:07:40.06,0:07:41.93,Default,Graves,0,0,0,,Securing the transport routes.
+Dialogue: 0,0:07:41.93,0:07:46.41,Default,Graves,0,0,0,,Keeping everything running smoothly \Nso the troops can fight their best.
+Dialogue: 0,0:07:46.41,0:07:49.60,Default,Romelia,0,0,0,,Of course, those are all important.
+Dialogue: 0,0:07:49.60,0:07:52.02,Default,Romelia,0,0,0,,But the most important thing...
+Dialogue: 0,0:07:52.31,0:07:58.38,Default,Romelia,0,0,0,,is making everyone understand\N that you can't win without supplies.
+Dialogue: 0,0:07:59.28,0:08:02.80,Default,Romelia,0,0,0,,The young solders are strong, yes.
+Dialogue: 0,0:08:02.80,0:08:05.96,Default,Romelia,0,0,0,,And after a few victories, \Nthey'll gain confidence, too.
+Dialogue: 0,0:08:06.36,0:08:10.25,Default,Romelia,0,0,0,,But why is it that they're \Nable to fight at all?
+Dialogue: 0,0:08:10.54,0:08:13.68,Default,Romelia,0,0,0,,Why can they move on \Nto the next battlefield without problems?
+Dialogue: 0,0:08:14.18,0:08:18.73,Default,Romelia,0,0,0,,It's because the people in the rear\N are supporting them.
+Dialogue: 0,0:08:19.29,0:08:22.13,Default,Romelia,0,0,0,,If we don't properly value \Nthat important role,
+Dialogue: 0,0:08:22.39,0:08:27.55,Default,Romelia,0,0,0,,we won't be able to win \Nno matter how strong our soldiers are.
+Dialogue: 0,0:08:28.48,0:08:33.24,Default,Graves,0,0,0,,I'm ashamed to say I didn't realize \Nhow important the role is...
+Dialogue: 0,0:08:33.24,0:08:38.95,Default,Romelia,0,0,0,,But it's still thanks to your help that \Nwe were able to make it back to Carolus.
+Dialogue: 0,0:08:39.37,0:08:40.65,Default,Romelia,0,0,0,,I'm grateful.
+Dialogue: 0,0:08:40.65,0:08:41.57,Default,Graves,0,0,0,,No...
+Dialogue: 0,0:08:42.26,0:08:45.74,Default,Graves,0,0,0,,I, Graves, will endeavor to understand \Nthe importance of my role
+Dialogue: 0,0:08:45.74,0:08:47.80,Default,Graves,0,0,0,,and provide support to the troops!
+Dialogue: 0,0:08:47.80,0:08:50.15,Default,Romelia,0,0,0,,Good. Thank you.
+Dialogue: 0,0:08:50.70,0:08:52.22,Default,Graves,0,0,0,,That said...
+Dialogue: 0,0:08:52.22,0:08:54.89,Default,Graves,0,0,0,,Why are we going to negotiate with \Nthe Yalmark Merchant Association?
+Dialogue: 0,0:08:55.30,0:08:58.14,Default,Romelia,0,0,0,,Perhaps because of their head clerk's\N stance toward his work?
+Dialogue: 0,0:08:58.14,0:08:59.26,Default,Graves,0,0,0,,His stance?
+Dialogue: 0,0:08:59.56,0:09:02.99,Default,Romelia,0,0,0,,Money is meant to be spent, not earned.
+Dialogue: 0,0:09:02.99,0:09:06.34,Default,Romelia,0,0,0,,He seemed to understand that...
+Dialogue: 0,0:09:30.56,0:09:32.87,Default,Secretary,0,0,0,,The count's daughter is here to see you.
+Dialogue: 0,0:09:33.27,0:09:35.18,Default,Seryure,0,0,0,,Got it. I'll head there now.
+Dialogue: 0,0:09:35.89,0:09:37.67,Default,Seryure,0,0,0,,What was she like?
+Dialogue: 0,0:09:37.67,0:09:41.23,Default,Secretary,0,0,0,,She looks better in pants \Nthan a skirt, I believe.
+Dialogue: 0,0:09:41.23,0:09:43.23,Default,Seryure,0,0,0,,That's not what I meant.
+Dialogue: 0,0:09:43.62,0:09:46.17,Default,Seryure,0,0,0,,This is the famous young Lady Graham!
+Dialogue: 0,0:09:46.64,0:09:50.28,Default,Seryure,0,0,0,,Her letter just said that \Nshe wanted to meet, right?
+Dialogue: 0,0:09:50.28,0:09:53.42,Default,Seryure,0,0,0,,You didn't ask her why she's here?
+Dialogue: 0,0:09:53.42,0:09:56.76,Default,Secretary,0,0,0,,I believe that's the job\N of the head clerk.
+Dialogue: 0,0:09:56.76,0:09:58.52,Default,Seryure,0,0,0,,No interest, huh?
+Dialogue: 0,0:09:58.52,0:09:59.56,Default,Seryure,0,0,0,,Well, whatever.
+Dialogue: 0,0:09:59.98,0:10:03.28,Default,Seryure,0,0,0,,I can't wait to see what she's like.
+Dialogue: 0,0:10:05.23,0:10:07.65,Default,Seryure,0,0,0,,Sorry to keep you waiting, Lady Graham.
+Dialogue: 0,0:10:08.03,0:10:12.65,Default,Seryure,0,0,0,,I'm the head clerk \Nof the association, Seryure...
+Dialogue: 0,0:10:19.09,0:10:21.81,Default,Romelia,0,0,0,,A pleasure to meet you, Master Seryure.
+Dialogue: 0,0:10:21.81,0:10:24.19,Default,Romelia,0,0,0,,Please call me Romelia.
+Dialogue: 0,0:10:24.49,0:10:28.36,Default,Romelia,0,0,0,,I hope this is the beginning \Nof a long relationship...
+Dialogue: 0,0:10:29.63,0:10:31.68,Default,Seryure,0,0,0,,Lady Romelia, then.
+Dialogue: 0,0:10:32.35,0:10:35.75,Default,Seryure,0,0,0,,You look beautiful \Nin your military dress, too.
+Dialogue: 0,0:10:36.34,0:10:39.28,Default,Romelia,0,0,0,,I assumed you'd notice.
+Dialogue: 0,0:10:39.49,0:10:42.27,Default,Seryure,0,0,0,,Your dignity, your beauty...
+Dialogue: 0,0:10:42.27,0:10:44.24,Default,Seryure,0,0,0,,I could never forget them.
+Dialogue: 0,0:10:44.58,0:10:47.70,Default,Seryure,0,0,0,,You could've spoken to me directly.
+Dialogue: 0,0:10:48.13,0:10:50.41,Default,Romelia,0,0,0,,I will, next time.
+Dialogue: 0,0:10:53.15,0:10:55.80,Default,Seryure,0,0,0,,So what can I do for you?
+Dialogue: 0,0:10:55.80,0:11:02.34,Default,Seryure,0,0,0,,I can promise you we'll be more flexible\N and fair than Sella Company.
+Dialogue: 0,0:11:02.34,0:11:04.30,Default,Romelia,0,0,0,,You're well-informed.
+Dialogue: 0,0:11:04.99,0:11:07.54,Default,Romelia,0,0,0,,I'm glad we can skip the formalities.
+Dialogue: 0,0:11:08.34,0:11:13.51,Default,Romelia,0,0,0,,I'm actually planning to make \Na new center of the whole world.
+Dialogue: 0,0:11:13.51,0:11:17.07,Default,Romelia,0,0,0,,Are you interested in investing?
+Dialogue: 0,0:11:19.21,0:11:22.09,Default,Seryure,0,0,0,,Um, what do you mean?
+Dialogue: 0,0:11:22.09,0:11:26.03,Default,Romelia,0,0,0,,Of course, I'll explain everything.
+Dialogue: 0,0:11:26.26,0:11:31.01,Default,Romelia,0,0,0,,Right now, we're working to stabilize \Nlaw and order within Cashu.
+Dialogue: 0,0:11:31.01,0:11:35.04,Default,Seryure,0,0,0,,Y-Yes, I'm aware.
+Dialogue: 0,0:11:35.04,0:11:40.15,Default,Seryure,0,0,0,,I'm deeply moved by your concern\N for your own people.
+Dialogue: 0,0:11:40.15,0:11:43.23,Default,Romelia,0,0,0,,But that's not enough.
+Dialogue: 0,0:11:43.80,0:11:48.65,Default,Romelia,0,0,0,,There are still demons everywhere, and \Nthe demon king's army is still a threat.
+Dialogue: 0,0:11:49.17,0:11:53.41,Default,Romelia,0,0,0,,I'm afraid we don't have the money\Nto get the soldiers and weapons we want.
+Dialogue: 0,0:11:53.74,0:11:58.39,Default,Romelia,0,0,0,,And I'd like to ask the Yalmark \NMerchant Association for help.
+Dialogue: 0,0:11:58.64,0:11:59.97,Default,Seryure,0,0,0,,I see.
+Dialogue: 0,0:12:00.38,0:12:02.35,Default,Seryure,0,0,0,,I can understand how you must feel.
+Dialogue: 0,0:12:03.09,0:12:07.54,Default,Seryure,0,0,0,,But my lady, as a simple head clerk \Nwho's been exiled to the hinterlands,
+Dialogue: 0,0:12:07.54,0:12:09.65,Default,Seryure,0,0,0,,I can't speak on my own authority.
+Dialogue: 0,0:12:09.94,0:12:12.86,Default,Seryure,0,0,0,,We lack the history \Nand scale of Sella Company
+Dialogue: 0,0:12:12.86,0:12:17.49,Default,Seryure,0,0,0,,or the other major associations, and...
+Dialogue: 0,0:12:17.49,0:12:20.00,Default,Romelia,0,0,0,,You say that Yalmark \Nis too small to help?
+Dialogue: 0,0:12:20.34,0:12:23.64,Default,Romelia,0,0,0,,You have trade routes \Nall over the continent of Axis,
+Dialogue: 0,0:12:23.64,0:12:26.10,Default,Romelia,0,0,0,,and many of the outputs you've established
+Dialogue: 0,0:12:26.10,0:12:29.18,Default,Romelia,0,0,0,,have turned empty fields \Ninto thriving cities.
+Dialogue: 0,0:12:29.51,0:12:33.82,Default,Romelia,0,0,0,,I'm told you handle \Nhalf the trade in Millet.
+Dialogue: 0,0:12:33.82,0:12:37.05,Default,Romelia,0,0,0,,You're famous among \Nthe merchants, Seryure.
+Dialogue: 0,0:12:37.39,0:12:39.87,Default,Romelia,0,0,0,,As "the secret genius of Yalmark."
+Dialogue: 0,0:12:40.26,0:12:45.93,Default,Seryure,0,0,0,,I appreciate the compliment, \Nbut I'm still just a simple head clerk.
+Dialogue: 0,0:12:46.26,0:12:49.11,Default,Seryure,0,0,0,,I don't have the right to authorize \Nlarge amounts of spending.
+Dialogue: 0,0:12:51.26,0:12:52.79,Default,Romelia,0,0,0,,This aroma...
+Dialogue: 0,0:12:52.79,0:12:54.62,Default,Romelia,0,0,0,,This tea is from Camol, isn't it?
+Dialogue: 0,0:12:55.10,0:13:00.75,Default,Romelia,0,0,0,,And this teacup. It's made in a style \Nmy family has used for generations.
+Dialogue: 0,0:13:01.15,0:13:06.13,Default,Romelia,0,0,0,,And both of these require \Ncrossing the Mebium Sea.
+Dialogue: 0,0:13:06.13,0:13:07.37,Default,Secretary,0,0,0,,Yes.
+Dialogue: 0,0:13:07.37,0:13:10.34,Default,Secretary,0,0,0,,We only use these with special guests.
+Dialogue: 0,0:13:10.63,0:13:12.72,Default,Romelia,0,0,0,,That's an honor.
+Dialogue: 0,0:13:13.38,0:13:17.28,Default,Seryure,0,0,0,,I understand that \Nyou're someone I can trust.
+Dialogue: 0,0:13:17.28,0:13:18.89,Default,Seryure,0,0,0,,But I'm afraid—
+Dialogue: 0,0:13:18.89,0:13:20.19,Default,Romelia,0,0,0,,Don't worry!
+Dialogue: 0,0:13:20.60,0:13:23.20,Default,Romelia,0,0,0,,I'm not asking you to do this\N for nothing in return.
+Dialogue: 0,0:13:23.59,0:13:28.71,Default,Romelia,0,0,0,,Our new recruits will be patrolling \Nthe main roads of Cashu.
+Dialogue: 0,0:13:28.71,0:13:31.96,Default,Romelia,0,0,0,,If you can simply pay \Nfor them, for now...
+Dialogue: 0,0:13:32.38,0:13:35.25,Default,Seryure,0,0,0,,I see. They'd guard the roads, huh?
+Dialogue: 0,0:13:35.25,0:13:40.72,Default,Romelia,0,0,0,,You can work with other merchant\Nassociations to raise the funds...
+Dialogue: 0,0:13:41.00,0:13:42.63,Default,Romelia,0,0,0,,What do you think?
+Dialogue: 0,0:13:42.87,0:13:47.68,Default,Romelia,0,0,0,,It would remove the need \Nto pay for your own guards.
+Dialogue: 0,0:13:47.98,0:13:49.17,Default,Seryure,0,0,0,,True.
+Dialogue: 0,0:13:49.90,0:13:54.81,Default,Seryure,0,0,0,,There are bandits out there using \Nillegally purchased weapons, after all.
+Dialogue: 0,0:13:54.81,0:14:00.31,Default,Romelia,0,0,0,,We'll be working with the royal capital \Nto fix that, as well. Don't worry.
+Dialogue: 0,0:14:00.54,0:14:03.60,Default,Seryure,0,0,0,,Well, I can certainly help with that.
+Dialogue: 0,0:14:04.00,0:14:07.12,Default,Seryure,0,0,0,,I'll speak to the other merchants.
+Dialogue: 0,0:14:07.54,0:14:13.70,Default,Seryure,0,0,0,,But what does this have to do with \Nmaking "a new center of the world"?
+Dialogue: 0,0:14:14.03,0:14:15.32,Default,Seryure,0,0,0,,And more importantly...
+Dialogue: 0,0:14:15.32,0:14:17.30,Default,Seryure,0,0,0,,What do you mean by "center"?
+Dialogue: 0,0:14:18.23,0:14:20.79,Default,Romelia,0,0,0,,Even as we speak, the soldiers of Cashu
+Dialogue: 0,0:14:20.79,0:14:24.50,Default,Romelia,0,0,0,,are heading to fight \Nthe lesser demons in Guillier Gorge.
+Dialogue: 0,0:14:24.92,0:14:26.81,Default,Seryure,0,0,0,,Guillier? That's...
+Dialogue: 0,0:14:26.81,0:14:28.92,Default,Romelia,0,0,0,,Yes. Of course you're aware of it, yes?
+Dialogue: 0,0:14:29.25,0:14:33.09,Default,Romelia,0,0,0,,We're planning on doing \Na geological survey of the entire area.
+Dialogue: 0,0:14:33.09,0:14:34.89,Default,Seryure,0,0,0,,No, but...
+Dialogue: 0,0:14:35.45,0:14:38.81,Default,Seryure,0,0,0,,No one has ever cleared \Nthat area of demons before.
+Dialogue: 0,0:14:38.81,0:14:42.20,Default,Seryure,0,0,0,,And the stories of a gold vein\N are just rumors.
+Dialogue: 0,0:14:42.20,0:14:46.91,Default,Romelia,0,0,0,,Yes. That's why I'm only \Nsending my best men.
+Dialogue: 0,0:14:46.91,0:14:49.86,Default,Seryure,0,0,0,,Your best men?
+Dialogue: 0,0:14:50.93,0:14:55.15,Default,Seryure,0,0,0,,Well, if there's really gold there,\N it'd be worth a lot.
+Dialogue: 0,0:14:55.15,0:15:00.66,Default,Romelia,0,0,0,,No, the kingdom of Lionel would hold the \Nmining rights, so it's not worth much.
+Dialogue: 0,0:15:00.66,0:15:01.54,Default,Seryure,0,0,0,,Huh?
+Dialogue: 0,0:15:01.54,0:15:05.21,Default,Romelia,0,0,0,,But gold mining requires workers, yes?
+Dialogue: 0,0:15:06.46,0:15:09.18,Default,Romelia,0,0,0,,We'll make a town for them to live in!
+Dialogue: 0,0:15:09.18,0:15:13.84,Default,Romelia,0,0,0,,I'd like you to invest \Nin its creation and development!
+Dialogue: 0,0:15:14.41,0:15:18.10,Default,Romelia,0,0,0,,The tools they'll use, \Nthe food, the homes...
+Dialogue: 0,0:15:18.43,0:15:22.89,Default,Romelia,0,0,0,,As well as taverns and entertainment\Nthat appeals to rough men seeking fortune,
+Dialogue: 0,0:15:22.89,0:15:24.98,Default,Romelia,0,0,0,,and guards to protect it all as well.
+Dialogue: 0,0:15:25.21,0:15:30.07,Default,Romelia,0,0,0,,It's a more certain and longer-lasting way\N to make money than gold mining.
+Dialogue: 0,0:15:31.01,0:15:36.42,Default,Seryure,0,0,0,,You're making it sound wonderful, \Nbut what if the gold dries up?
+Dialogue: 0,0:15:36.42,0:15:39.71,Default,Seryure,0,0,0,,And if there isn't any gold, \Nthe whole investment...
+Dialogue: 0,0:15:39.71,0:15:43.41,Default,Romelia,0,0,0,,Yes. Which is why there's more\N to discuss, Seryure.
+Dialogue: 0,0:15:44.25,0:15:48.90,Default,Romelia,0,0,0,,For my part, I'd be happier \Nif the gold vein dried up fast.
+Dialogue: 0,0:15:49.61,0:15:51.34,Default,Romelia,0,0,0,,Look at this.
+Dialogue: 0,0:15:51.63,0:15:53.85,Default,Romelia,0,0,0,,On the other side of Guillier Gorge...
+Dialogue: 0,0:15:53.85,0:15:58.05,Default,Romelia,0,0,0,,Nobody knows this, but there's an inlet.
+Dialogue: 0,0:15:58.34,0:16:02.82,Default,Seryure,0,0,0,,Really? Big enough to dock ships?
+Dialogue: 0,0:16:02.82,0:16:03.78,Default,Romelia,0,0,0,,Really.
+Dialogue: 0,0:16:04.17,0:16:09.98,Default,Romelia,0,0,0,,It's surrounded by steep cliffs\Nand hard to find by sea.
+Dialogue: 0,0:16:09.98,0:16:11.31,Default,Seryure,0,0,0,,I see.
+Dialogue: 0,0:16:11.66,0:16:15.88,Default,Seryure,0,0,0,,But how do you know about it?
+Dialogue: 0,0:16:15.88,0:16:18.86,Default,Romelia,0,0,0,,When I was traveling \Nto defeat the demon king,
+Dialogue: 0,0:16:18.86,0:16:21.18,Default,Romelia,0,0,0,,we were caught in a storm \Nand thrown into the sea.
+Dialogue: 0,0:16:21.81,0:16:24.42,Default,Romelia,0,0,0,,By chance, we came ashore there.
+Dialogue: 0,0:16:24.87,0:16:25.87,Default,Seryure,0,0,0,,I see.
+Dialogue: 0,0:16:26.25,0:16:31.45,Default,Seryure,0,0,0,,I've heard stories that \Nthe prince's party came here, once.
+Dialogue: 0,0:16:34.50,0:16:38.95,Default,Romelia,0,0,0,,The kingdom of Lionel where we live \Nis located in the center of Axis,
+Dialogue: 0,0:16:38.95,0:16:41.50,Default,Romelia,0,0,0,,and is landlocked.
+Dialogue: 0,0:16:41.79,0:16:45.96,Default,Romelia,0,0,0,,This weakens us not just in terms \Nof defense, but trade as well.
+Dialogue: 0,0:16:45.96,0:16:47.26,Default,Seryure,0,0,0,,Yes.
+Dialogue: 0,0:16:47.49,0:16:51.15,Default,Seryure,0,0,0,,We have to pay customs fees \Nany time we want to transport something.
+Dialogue: 0,0:16:51.15,0:16:52.62,Default,Romelia,0,0,0,,But if we had a port?
+Dialogue: 0,0:16:52.98,0:16:56.46,Default,Romelia,0,0,0,,If we can establish a free route to the \Nsea on the other side of Guillier Gorge,
+Dialogue: 0,0:16:56.46,0:17:01.08,Default,Romelia,0,0,0,,the frontier region of Cashu \Nwill become the center of Lionel's trade.
+Dialogue: 0,0:17:01.70,0:17:05.62,Default,Romelia,0,0,0,,You had a difficult time getting \Nthese tea leaves here, I assume.
+Dialogue: 0,0:17:06.19,0:17:07.54,Default,Seryure,0,0,0,,Well...
+Dialogue: 0,0:17:07.54,0:17:10.65,Default,Romelia,0,0,0,,The village for the gold miners \Ncan be a stop on the way,
+Dialogue: 0,0:17:10.65,0:17:13.41,Default,Romelia,0,0,0,,but we'll make a road to the inlet.
+Dialogue: 0,0:17:13.41,0:17:17.75,Default,Romelia,0,0,0,,And we can use gold miners who failed \Nto find their fortune as laborers.
+Dialogue: 0,0:17:18.00,0:17:21.23,Default,Romelia,0,0,0,,The gold is finite, but the \Nflow of people is not.
+Dialogue: 0,0:17:21.23,0:17:23.43,Default,Romelia,0,0,0,,How about it, Seryure?
+Dialogue: 0,0:17:24.22,0:17:26.01,Default,Romelia,0,0,0,,Don't you think it's a good idea?
+Dialogue: 0,0:17:27.34,0:17:31.35,Default,Seryure,0,0,0,,They tell me I'm a coldhearted man\N who only cares about money.
+Dialogue: 0,0:17:31.35,0:17:34.26,Default,Seryure,0,0,0,,But I'm nothing compared to you, am I?
+Dialogue: 0,0:17:34.26,0:17:35.69,Default,Romelia,0,0,0,,Don't be silly.
+Dialogue: 0,0:17:36.02,0:17:39.85,Default,Romelia,0,0,0,,We're even giving people\N a place to work after the gold dries up.
+Dialogue: 0,0:17:39.85,0:17:41.92,Default,Romelia,0,0,0,,If anything, I'm being too nice.
+Dialogue: 0,0:17:41.92,0:17:43.22,Default,Seryure,0,0,0,,No, no.
+Dialogue: 0,0:17:43.22,0:17:45.09,Default,Seryure,0,0,0,,No, no, no, no.
+Dialogue: 0,0:17:45.40,0:17:47.85,Default,Seryure,0,0,0,,I do think it's a good idea.
+Dialogue: 0,0:17:47.85,0:17:49.09,Default,Seryure,0,0,0,,But...
+Dialogue: 0,0:17:49.87,0:17:54.26,Default,Seryure,0,0,0,,All right. Yalmark will provide \Na portion of the funds.
+Dialogue: 0,0:17:54.26,0:17:56.36,Default,Romelia,0,0,0,,A-A portion?
+Dialogue: 0,0:17:56.36,0:17:59.83,Default,Yalmark,0,0,0,,If there's no gold to be found, \Nno one will come to begin with.
+Dialogue: 0,0:18:01.81,0:18:03.42,Default,Seryure,0,0,0,,Don't worry.
+Dialogue: 0,0:18:03.70,0:18:08.10,Default,Seryure,0,0,0,,If you can meet our conditions, \Nwe'll think about investing more.
+Dialogue: 0,0:18:08.10,0:18:10.04,Default,Romelia,0,0,0,,Thank you.
+Dialogue: 0,0:18:10.35,0:18:15.31,Default,Seryure,0,0,0,,First, I'll look forward to good news\N from Guillier Gorge.
+Dialogue: 0,0:18:32.78,0:18:34.60,Default,Ray,0,0,0,,Wait! We're being watched!
+Dialogue: 0,0:18:37.80,0:18:38.90,Default,Ray,0,0,0,,Fall back!
+Dialogue: 0,0:18:44.41,0:18:49.83,Default,Seryure,0,0,0,,I sure didn't expect her to talk about \Nopening a trade route through Guillier.
+Dialogue: 0,0:18:49.83,0:18:51.85,Default,Secretary,0,0,0,,You're eating at your desk again.
+Dialogue: 0,0:18:52.21,0:18:57.03,Default,Seryure,0,0,0,,It's fine. We've got a lot \Nof things to get ready!
+Dialogue: 0,0:18:57.03,0:19:00.90,Default,Secretary,0,0,0,,Considering you only promised \Npartial funding, you seem quite happy.
+Dialogue: 0,0:19:00.90,0:19:02.22,Default,Seryure,0,0,0,,Do I?
+Dialogue: 0,0:19:02.22,0:19:04.24,Default,Seryure,0,0,0,,Oh, two sugars.
+Dialogue: 0,0:19:06.89,0:19:07.94,Default,Seryure,0,0,0,,Hot!
+Dialogue: 0,0:19:08.39,0:19:11.67,Default,Secretary,0,0,0,,You'll find 95 degrees is the right \Ntemperature for tea extraction.
+Dialogue: 0,0:19:12.02,0:19:15.75,Default,Secretary,0,0,0,,I only give you the best, Master Seryure.
+Dialogue: 0,0:19:16.91,0:19:18.41,Default,Seryure,0,0,0,,Hey...
+Dialogue: 0,0:19:18.41,0:19:19.72,Default,Secretary,0,0,0,,I hope you can build a port,
+Dialogue: 0,0:19:19.72,0:19:23.99,Default,Secretary,0,0,0,,and find some tea that can be \Nprepared at a lower temperature.
+Dialogue: 0,0:19:40.92,0:19:43.77,Default,Galle,0,0,0,,The infiltration party \Nstopped sending reports?
+Dialogue: 0,0:19:43.77,0:19:44.74,Default,Demon,0,0,0,,Yes.
+Dialogue: 0,0:19:44.74,0:19:50.99,Default,Demon,0,0,0,,Survivors say that they were wiped out\N by a knight in silver armor.
+Dialogue: 0,0:19:50.99,0:19:52.64,Default,Galle,0,0,0,,Silver armor?
+Dialogue: 0,0:19:52.64,0:19:56.79,Default,Demon,0,0,0,,He called himself \N"Crown Prince Henri," they say...
+Dialogue: 0,0:19:57.96,0:20:01.65,Default,Galle,0,0,0,,The one who claims\N to have slain His Majesty Zelgis?
+Dialogue: 0,0:20:01.65,0:20:05.65,Default,Demon,0,0,0,,G-General Galle, \Nthat hasn't been confirmed...
+Dialogue: 0,0:20:05.65,0:20:07.15,Default,Galle,0,0,0,,I know.
+Dialogue: 0,0:20:07.52,0:20:13.04,Default,Galle,0,0,0,,Continue to make contact with the \Nadvance teams and bring back information.
+Dialogue: 0,0:20:13.04,0:20:16.37,Default,Messenger,0,0,0,,General Galle, a request \Nhas just come in to join units.
+Dialogue: 0,0:20:16.77,0:20:18.06,Default,Galle,0,0,0,,Which units?
+Dialogue: 0,0:20:18.06,0:20:19.95,Default,Messenger,0,0,0,,I-It's...
+Dialogue: 0,0:20:20.84,0:20:24.89,Default,Officer,0,0,0,,I'm sorry, General Zarya.
+Dialogue: 0,0:20:24.89,0:20:28.01,Default,Officer,0,0,0,,I've failed...
+Dialogue: 0,0:20:28.01,0:20:29.41,Default,Zarya,0,0,0,,Nonsense.
+Dialogue: 0,0:20:29.41,0:20:31.87,Default,Zarya,0,0,0,,You've fought well.
+Dialogue: 0,0:20:32.64,0:20:36.88,Default,Officer,0,0,0,,I wanted to be a strong knight,\N like my father...
+Dialogue: 0,0:20:37.33,0:20:38.72,Default,Officer,0,0,0,,Father...
+Dialogue: 0,0:20:49.90,0:20:51.20,Default,Karena,0,0,0,,General Zarya.
+Dialogue: 0,0:20:51.70,0:20:53.09,Default,Zarya,0,0,0,,Karena?
+Dialogue: 0,0:20:53.09,0:20:54.66,Default,Zarya,0,0,0,,Go ahead. Speak.
+Dialogue: 0,0:20:54.66,0:20:55.73,Default,Karena,0,0,0,,Yes, sir.
+Dialogue: 0,0:20:55.73,0:20:58.40,Default,Karena,0,0,0,,I have a message from Prince Henri.
+Dialogue: 0,0:20:58.40,0:20:59.70,Default,Zarya,0,0,0,,From the prince?
+Dialogue: 0,0:20:59.70,0:21:04.44,Default,Zarya,0,0,0,,He'll be heading to Dacan \Nto take command...
+Dialogue: 0,0:21:04.78,0:21:05.85,Default,Zarya,0,0,0,,I see.
+Dialogue: 0,0:21:06.36,0:21:08.66,Default,Zarya,0,0,0,,There's more, yes?
+Dialogue: 0,0:21:09.64,0:21:12.91,Default,Karena,0,0,0,,"If we just wait for the demon king's army\N to exhaust themselves,
+Dialogue: 0,0:21:12.91,0:21:15.74,Default,Karena,0,0,0,,Lionel will never be at peace.
+Dialogue: 0,0:21:15.74,0:21:18.84,Default,Karena,0,0,0,,I will take command at Dacan myself.
+Dialogue: 0,0:21:18.84,0:21:21.13,Default,Karena,0,0,0,,You are to raise \Nthe soldier's morale," he says.
+Dialogue: 0,0:21:24.62,0:21:25.74,Default,Zarya,0,0,0,,What's going on?
+Dialogue: 0,0:21:25.74,0:21:27.30,Default,Soldier,0,0,0,,S-Sir!
+Dialogue: 0,0:21:29.04,0:21:29.97,Default,Zarya,0,0,0,,What?
+Dialogue: 0,0:21:30.38,0:21:33.03,Default,Zarya,0,0,0,,Why are the demons splitting their ranks?
+Dialogue: 0,0:21:42.03,0:21:44.11,Default,Galle,0,0,0,,We've lost contact with the homeland.
+Dialogue: 0,0:21:44.11,0:21:47.58,Default,Galle,0,0,0,,The landing force is alone \Non the enemy continent.
+Dialogue: 0,0:21:47.58,0:21:50.82,Default,Galle,0,0,0,,And now, we're dividing \Nour forces like fools...
+Dialogue: 0,0:21:51.12,0:21:53.82,Default,Galle,0,0,0,,What are they thinking?
+Dialogue: 0,0:21:54.16,0:21:56.24,Default,Galle,0,0,0,,Damn the monster of Goldea!
+Dialogue: 0,0:21:59.67,0:22:01.28,Default,Gallios,0,0,0,,War! War!
+Dialogue: 0,0:22:01.28,0:22:02.95,Default,Gallios,0,0,0,,Listen, men!
+Dialogue: 0,0:22:02.95,0:22:08.56,Default,Gallios,0,0,0,,Slaughter every foe you see!
+
