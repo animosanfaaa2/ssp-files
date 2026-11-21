@@ -1,0 +1,405 @@
+[Script Info]
+Title:
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+ScriptType: v4.00+
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: DCMain,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DCItalic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,20,20,18,0
+Style: DCFlashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: DCOverlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DCMainTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DCItalicTop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,8,20,20,18,0
+Style: DCFlashbackTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DCOverlapTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DCFlashbackItalic,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: DCFlashbackItalicTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DCOverlapItalic,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DCOverlapItalicTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: sign_episode_title,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00FCFFFF,&H00D4A947,-1,0,0,0,100,100,0,0,1,0,0,8,10,10,60,0
+Style: sign_episode_preview,Roboto Medium,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,7,20,20,23,0
+Style: sign_suspect,Trebuchet MS,18,&H00FFFFFF,&H000000FF,&H409D434C,&H40000000,0,0,0,0,100,100,0,0,1,2,0,5,10,10,10,0
+Style: sign_next_episode,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00464646,&H00D4A947,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,60,0
+Style: sign_hint_label,Impact,30,&H00191919,&H00A9A9A9,&H00E4E4E4,&H006D6D6D,0,0,0,0,100,90,0,0,3,3,0.3,5,10,10,10,0
+Style: sign_dont_miss,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H003B3B3B,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,4,10,10,10,0
+Style: sign_song_op_1206,Trebuchet MS,22,&H00E1E1E1,&H00FFFFFF,&H80000000,&H80000000,-1,0,0,0,100,90,1,0,1,0.5,1,5,10,10,10,0
+Style: sign_song_ed_1214,Verdana,14,&H00FFFFFF,&H007F7F7F,&H00000000,&H40232323,0,0,0,0,105,80,0,0,1,0.2,1.5,5,10,10,10,0
+Style: sign_later,Verdana,16,&H10FFFFFF,&H000000FF,&H80000000,&HA0000000,-1,0,0,0,100,100,0,0,1,0.5,1.5,5,10,10,10,0
+Style: sign_1221_handwritten_names,Comic Sans MS,14,&H00000000,&H00888888,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,0
+Style: sign_1221_detective_girls_1_thrilling,Verdana,18,&H005CB3ED,&H00000000,&H003272D1,&H003272D1,-1,0,0,0,130,100,0,0,1,0.1,1.5,5,10,10,10,0
+Style: sign_1221_detective_girls_2,Georgia,38,&H007624CC,&H00000000,&H00FFFFFF,&H003272D1,-1,0,0,0,100,100,0,0,1,2,0,5,10,10,10,0
+Style: sign_1221_phone_call,Arial,10,&H00EEECE6,&H008942E3,&H0086608D,&H00602C15,-1,0,0,0,100,100,0,0,3,0,0,5,10,10,10,0
+Style: sign_1221_newspaper_online,Roboto Medium,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,5,20,20,23,0
+Style: sign_1221_wedding_hall,Georgia,14,&H009E8D8D,&H00888888,&H00FDFDFC,&H00B1909E,-1,0,0,0,90,100,0,0,3,2,0,5,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.70,0:00:04.36,DCItalic,CONAN/NA,0,0,0,,Two crimes happened\Nin the same place years apart.
+Dialogue: 0,0:00:04.36,0:00:07.15,DCItalic,CONAN/NA,0,0,0,,We headed to the home\Nof Koike Toshiko-san,
+Dialogue: 0,0:00:07.15,0:00:12.62,DCItalic,CONAN/NA,0,0,0,,mother of the victim 20 years ago,\Nto find the truth.
+Dialogue: 0,0:00:13.12,0:00:14.99,DCItalic,CONAN/NA,0,0,0,,That's where we ran into...
+Dialogue: 0,0:00:15.34,0:00:17.22,DCFlashback,SONOKO,0,0,0,,Hey, you!
+Dialogue: 0,0:00:17.75,0:00:20.00,DCFlashback,SONOKO,0,0,0,,What are you doing over there?
+Dialogue: 0,0:00:22.00,0:00:26.01,sign_song_op_1206,SIGN,0,0,0,,{\fad(1,500)\an3\pos(358,158)\blur0.2}Ai no FIRE
+Dialogue: 0,0:00:22.00,0:00:26.01,sign_song_op_1206,SIGN,0,0,0,,{\fad(1,500)\an7\pos(263,200)\fs14\blur0.2}Song by Niihama Leon
+Dialogue: 0,0:00:37.62,0:00:39.31,DCItalic,CONAN,0,0,0,,Unquenchable love is the fuse!
+Dialogue: 0,0:00:39.31,0:00:41.88,DCItalic,CONAN,0,0,0,,Flames burn within\Nthese detective skills!
+Dialogue: 0,0:00:41.88,0:00:43.54,DCItalic,CONAN,0,0,0,,When the girls and boys get together,
+Dialogue: 0,0:00:43.54,0:00:45.24,DCItalic,CONAN,0,0,0,,the connecting pieces\Nlead to a breakthrough!
+Dialogue: 0,0:00:45.24,0:00:46.94,DCItalic,CONAN,0,0,0,,Always determining the one truth
+Dialogue: 0,0:00:46.94,0:00:48.91,DCItalic,CONAN,0,0,0,,with the body of a child\Nand the mind of an adult,
+Dialogue: 0,0:00:48.91,0:00:51.50,DCItalic,CONAN,0,0,0,,his name is Detective Conan!
+Dialogue: 0,0:02:18.12,0:02:24.00,sign_episode_title,SIGN,0,0,0,,{\fad(400,1)}Girls Day Mystery 5\N(Part Two)
+Dialogue: 0,0:02:18.24,0:02:21.43,DCItalic,CONAN,0,0,0,,"Girls Day Mystery 5, Part Two!"
+Dialogue: 0,0:02:24.00,0:02:30.86,DCMain,SONOKO,0,0,0,,It all started when Jirokichi-ojisama\Nreferred Toshiko-san to us.
+Dialogue: 0,0:02:30.86,0:02:36.26,DCMain,SONOKO,0,0,0,,As the Five Detective Girls,\Nwe've solved several difficult cases,
+Dialogue: 0,0:02:36.26,0:02:39.05,DCMain,SONOKO,0,0,0,,so she wanted our help.
+Dialogue: 0,0:02:39.42,0:02:42.06,DCMain,SONOKO,0,0,0,,First, I contacted Ran and Ayumi-chan.
+Dialogue: 0,0:02:42.34,0:02:44.69,DCMain,RAN,0,0,0,,I went to Sonoko's house.
+Dialogue: 0,0:02:44.69,0:02:47.33,DCMain,AYUMI,0,0,0,,And I got a hold of Ai-chan.
+Dialogue: 0,0:02:47.33,0:02:48.69,DCMain,ALL,0,0,0,,Yay!
+Dialogue: 0,0:02:48.69,0:02:55.45,DCMain,SONOKO,0,0,0,,Then we all went to visit Detective Sato,\Nwho's off today, with pear sweets.
+Dialogue: 0,0:02:55.45,0:02:58.20,DCMain,SONOKO,0,0,0,,And so, the whole team was assembled.
+Dialogue: 0,0:02:58.47,0:03:03.08,DCMain,SONOKO,0,0,0,,Then we came to see\NKoike Toshiko-san, our client.
+Dialogue: 0,0:03:07.56,0:03:11.21,DCFlashback,TOSHIKO,0,0,0,,So {\i1}you're{\i0} the little detectives.
+Dialogue: 0,0:03:11.21,0:03:14.72,sign_suspect,SIGN,0,0,0,,{\pos(320,293)}Koike Toshiko (72)
+Dialogue: 0,0:03:12.84,0:03:14.72,DCFlashbackTop,TOSHIKO,0,0,0,,Your reputation precedes you.
+Dialogue: 0,0:03:14.72,0:03:17.88,DCFlashback,RAN,0,0,0,,Sonoko, what did you tell her?
+Dialogue: 0,0:03:17.88,0:03:21.22,DCFlashback,SONOKO,0,0,0,,About our achievements, of course.
+Dialogue: 0,0:03:21.57,0:03:24.89,DCFlashback,TOSHIKO,0,0,0,,I have high hopes for you.
+Dialogue: 0,0:03:24.89,0:03:30.61,DCFlashback,TOSHIKO,0,0,0,,I tried a lot of things, but none of them\Nyielded very good results.
+Dialogue: 0,0:03:30.99,0:03:34.01,DCFlashback,SONOKO,0,0,0,,Now that {\i1}we're{\i0} here,\Nyou have nothing to worry about.
+Dialogue: 0,0:03:34.01,0:03:38.11,DCFlashback,SONOKO,0,0,0,,We'll instantly solve any case,\Nno matter how difficult!
+Dialogue: 0,0:03:38.11,0:03:41.12,DCFlashback,RAN,0,0,0,,You keep raising the bar...
+Dialogue: 0,0:03:41.69,0:03:45.82,DCFlashback,SONOKO,0,0,0,,Anyway, what did you want to discuss?
+Dialogue: 0,0:03:45.82,0:03:51.38,DCFlashback,TOSHIKO,0,0,0,,Right, about that. I'd like you\Nto find my husband's secret child.
+Dialogue: 0,0:03:51.78,0:03:53.30,DCFlashback,ALL,0,0,0,,A secret child?
+Dialogue: 0,0:03:53.66,0:03:56.42,DCFlashback,SATO,0,0,0,,Um, what do you mean by that?
+Dialogue: 0,0:03:56.42,0:03:59.27,DCFlashback,TOSHIKO,0,0,0,,Right, you'll need an explanation.
+Dialogue: 0,0:03:59.27,0:04:04.06,DCFlashback,TOSHIKO,0,0,0,,Three months ago, my husband\Nsuddenly passed away.
+Dialogue: 0,0:04:04.45,0:04:07.06,DCFlashback,SATO,0,0,0,,I'm sorry for your loss.
+Dialogue: 0,0:04:07.38,0:04:11.54,DCFlashback,TOSHIKO,0,0,0,,It's okay. It was so sudden that\NI did not even have time to grieve.
+Dialogue: 0,0:04:11.54,0:04:14.98,DCFlashback,TOSHIKO,0,0,0,,Anyway, after three frantic months,
+Dialogue: 0,0:04:14.98,0:04:19.46,DCFlashback,TOSHIKO,0,0,0,,I realized I'm getting old and\Ndon't have much longer to live.
+Dialogue: 0,0:04:19.46,0:04:23.33,DCFlashback,TOSHIKO,0,0,0,,I need to get my affairs in order.
+Dialogue: 0,0:04:23.72,0:04:25.20,DCFlashback,AYUMI,0,0,0,,What do you mean?
+Dialogue: 0,0:04:25.65,0:04:30.21,DCFlashback,TOSHIKO,0,0,0,,My husband was actually quite wealthy.
+Dialogue: 0,0:04:30.21,0:04:31.71,DCFlashback,AYUMI,0,0,0,,I see.
+Dialogue: 0,0:04:31.71,0:04:36.71,DCFlashback,SATO,0,0,0,,Koike Tatsuya-san was the head\Nof the Koike Real Estate group.
+Dialogue: 0,0:04:37.05,0:04:39.72,DCFlashback,SATO,0,0,0,,He was one of Japan's most\Nprominent millionaires.
+Dialogue: 0,0:04:40.07,0:04:47.04,DCFlashback,TOSHIKO,0,0,0,,At my age, I don't need much, and it isn't\Nas though I can take the money with me,
+Dialogue: 0,0:04:47.04,0:04:52.48,DCFlashback,TOSHIKO,0,0,0,,so I thought my husband's\Nsecret child could inherit it.
+Dialogue: 0,0:04:52.48,0:04:53.48,DCFlashback,RAN,0,0,0,,Excuse me...
+Dialogue: 0,0:04:53.48,0:04:54.48,DCFlashback,TOSHIKO,0,0,0,,Yes?
+Dialogue: 0,0:04:54.82,0:05:00.26,DCFlashback,RAN,0,0,0,,Your husband's secret child was\Nthe product of an affair, right?
+Dialogue: 0,0:05:00.26,0:05:03.62,DCFlashback,RAN,0,0,0,,Weren't you shocked to find it out?
+Dialogue: 0,0:05:03.62,0:05:07.44,DCFlashback,TOSHIKO,0,0,0,,Well, yes. I suppose I was.
+Dialogue: 0,0:05:07.44,0:05:09.25,DCFlashback,SONOKO,0,0,0,,Then why?
+Dialogue: 0,0:05:09.56,0:05:14.01,DCFlashback,TOSHIKO,0,0,0,,Perhaps I should say that at my age,\Nafter everything I've experienced,
+Dialogue: 0,0:05:14.01,0:05:18.76,DCFlashback,TOSHIKO,0,0,0,,my values and thinking have changed.
+Dialogue: 0,0:05:19.19,0:05:22.33,DCFlashback,TOSHIKO,0,0,0,,Yes, adultery is wrong,
+Dialogue: 0,0:05:22.33,0:05:28.27,DCFlashback,TOSHIKO,0,0,0,,but my desire to meet\Nhis child outweighs that.
+Dialogue: 0,0:05:28.27,0:05:31.14,DCFlashback,TOSHIKO,0,0,0,,I'm curious to know what they're like.
+Dialogue: 0,0:05:31.14,0:05:36.07,DCFlashback,HAIBARA,0,0,0,,It sounds like you're certain\Nhis secret child exists.
+Dialogue: 0,0:05:36.07,0:05:37.39,DCFlashback,TOSHIKO,0,0,0,,Of course I am.
+Dialogue: 0,0:05:37.39,0:05:42.74,DCFlashback,TOSHIKO,0,0,0,,Whenever he got drunk, he'd\Napologize to me through tears.
+Dialogue: 0,0:05:42.74,0:05:45.81,DCFlashback,TOSHIKO,0,0,0,,"I'm sorry for causing trouble!\NI'm sorry for cheating!
+Dialogue: 0,0:05:45.81,0:05:48.33,DCFlashback,TOSHIKO,0,0,0,,But you're my number one!"
+Dialogue: 0,0:05:48.33,0:05:50.44,DCFlashback,ALL,0,0,0,,He's an enemy to women everywhere.
+Dialogue: 0,0:05:51.33,0:05:57.88,DCFlashback,TOSHIKO,0,0,0,,About ten years ago, he got\Nreally drunk and told me,
+Dialogue: 0,0:05:57.88,0:06:03.13,DCFlashback,TOSHIKO,0,0,0,,"I think I might have a secret child.\NNo, I'm certain I have one."
+Dialogue: 0,0:06:03.13,0:06:05.01,DCFlashback,ALL,0,0,0,,An enemy to women everywhere.
+Dialogue: 0,0:06:05.01,0:06:07.77,DCFlashback,SONOKO,0,0,0,,How can you smile about that?
+Dialogue: 0,0:06:08.14,0:06:11.08,DCFlashback,TOSHIKO,0,0,0,,Like I said, when you get older,
+Dialogue: 0,0:06:11.08,0:06:16.53,DCFlashback,TOSHIKO,0,0,0,,most things don't surprise you anymore,\Nand your values change.
+Dialogue: 0,0:06:16.53,0:06:21.03,DCFlashback,TOSHIKO,0,0,0,,Besides, most men are dummies anyway.
+Dialogue: 0,0:06:21.43,0:06:23.14,DCFlashback,SATO,0,0,0,,How philosophical.
+Dialogue: 0,0:06:23.14,0:06:26.91,DCFlashback,HAIBARA,0,0,0,,I strongly agree men\Nare all dummies, though.
+Dialogue: 0,0:06:26.91,0:06:30.16,DCFlashback,TSOHIKO,0,0,0,,Will you take the job?
+Dialogue: 0,0:06:30.16,0:06:32.12,DCFlashback,SONOKO,0,0,0,,Y-Yes, of course!
+Dialogue: 0,0:06:32.12,0:06:33.21,DCFlashback,TOSHIKO,0,0,0,,In that case,
+Dialogue: 0,0:06:33.46,0:06:38.59,sign_1221_handwritten_names,SIGN,0,0,0,,{\pos(480,105)\alpha55\an4\fax0.3\fad(900,1)}Ozaki Momoko
+Dialogue: 0,0:06:33.46,0:06:38.59,sign_1221_handwritten_names,SIGN,0,0,0,,{\an4\fax0.3\fad(400,1)\pos(490,150)\alpha55}Okui Ume
+Dialogue: 0,0:06:33.46,0:06:38.59,sign_1221_handwritten_names,SIGN,0,0,0,,{\an4\fax0.3\fad(300,1)\pos(500,195)\alpha55}Sano Yoshie
+Dialogue: 0,0:06:33.94,0:06:38.59,DCFlashback,TOSHIKO,0,0,0,,here's the list of the women\Nmy husband dated and his phone.
+Dialogue: 0,0:06:39.12,0:06:41.60,DCFlashback,TOSHIKO,0,0,0,,It's locked and I don't\Nknow how to unlock it,
+Dialogue: 0,0:06:41.60,0:06:45.66,DCFlashback,TOSHIKO,0,0,0,,so I'd appreciate it if you could.
+Dialogue: 0,0:06:45.66,0:06:49.10,DCFlashback,TOSHIKO,0,0,0,,There could be clues on here.
+Dialogue: 0,0:06:49.42,0:06:54.10,DCFlashback,AYUMI,0,0,0,,What kind of person was your husband?
+Dialogue: 0,0:06:54.39,0:06:58.61,DCFlashback,TOSHIKO,0,0,0,,Well, he was a naughty fool.
+Dialogue: 0,0:06:58.61,0:07:00.49,DCFlashback,ALL,0,0,0,,An enemy to women everywhere.
+Dialogue: 0,0:07:00.98,0:07:03.33,DCFlashback,RAN,0,0,0,,What should we do now?
+Dialogue: 0,0:07:03.33,0:07:08.96,DCFlashback,SATO,0,0,0,,Our only option is to talk to the women\Non the list Toshiko-san gave us.
+Dialogue: 0,0:07:08.96,0:07:12.16,DCFlashback,SATO,0,0,0,,We'll gain an understanding\Nof Tatsuya-san from them
+Dialogue: 0,0:07:12.16,0:07:14.75,DCFlashback,SATO,0,0,0,,and try to deduce\Nhis phone unlock code.
+Dialogue: 0,0:07:14.75,0:07:19.28,DCFlashback,SONOKO,0,0,0,,It's hard to randomly guess\Na four-digit password.
+Dialogue: 0,0:07:19.28,0:07:23.01,DCFlashback,SONOKO,0,0,0,,First, we'll talk to these people.\NWe'll start with...
+Dialogue: 0,0:07:24.67,0:07:26.16,DCFlashbackTop,OZAKI,0,0,0,,Oh, my.
+Dialogue: 0,0:07:24.92,0:07:29.43,sign_suspect,SIGN,0,0,0,,{\pos(320,293)\fad(500,500)}Ozaki Momoko (68)
+Dialogue: 0,0:07:26.16,0:07:32.18,DCFlashbackTop,OZAKI,0,0,0,,It's so funny that you pretty young girls\Nare interested in ancient history.
+Dialogue: 0,0:07:32.18,0:07:37.94,DCFlashback,SONOKO,0,0,0,,So it's true you dated Koike Tatsuya-san?
+Dialogue: 0,0:07:37.94,0:07:41.28,DCFlashback,OZAKI,0,0,0,,Yes, but that was 50 years ago.
+Dialogue: 0,0:07:41.28,0:07:45.49,DCFlashback,OZAKI,0,0,0,,We were both young back then,\Nso we did some stupid things.
+Dialogue: 0,0:07:45.49,0:07:47.78,DCFlashback,SONOKO,0,0,0,,Like what exactly?
+Dialogue: 0,0:07:47.78,0:07:49.53,DCFlashback,OZAKI,0,0,0,,Well...
+Dialogue: 0,0:07:49.89,0:07:52.78,DCFlashback,OZAKI,0,0,0,,we stole a motorcycle\Nand went for a joyride.
+Dialogue: 0,0:07:52.78,0:07:54.25,DCFlashback,RAN,0,0,0,,A motorcycle?
+Dialogue: 0,0:07:54.25,0:07:56.16,DCFlashback,SATO,0,0,0,,Well, it was 50 years ago.
+Dialogue: 0,0:07:56.60,0:08:00.67,DCFlashback,SONOKO,0,0,0,,Do you have any memorable\Nanecdotes about Tatsuya-san?
+Dialogue: 0,0:08:00.67,0:08:04.46,DCFlashback,OZAKI,0,0,0,,Well, after graduating from school,
+Dialogue: 0,0:08:04.46,0:08:08.91,DCFlashback,OZAKI,0,0,0,,he seemed unsure about what to do next.
+Dialogue: 0,0:08:08.91,0:08:13.01,DCFlashback,OZAKI,0,0,0,,I still recall how he looked\Nwhen he'd forgotten
+Dialogue: 0,0:08:13.01,0:08:15.31,DCFlashback,OZAKI,0,0,0,,he was even worried about anything.
+Dialogue: 0,0:08:16.93,0:08:23.32,DCFlashback,SATO,0,0,0,,Forgive me for being direct,\Nbut do you have children?
+Dialogue: 0,0:08:23.66,0:08:26.57,DCFlashback,OZAKI,0,0,0,,Me? No, why?
+Dialogue: 0,0:08:26.88,0:08:31.95,DCFlashback,SATO,0,0,0,,Well, we're looking for someone\Nrelated to Tatsuya-san.
+Dialogue: 0,0:08:31.95,0:08:37.70,DCFlashback,OZAKI,0,0,0,,Now that I think about it,\Nmaybe I should've had a kid or two.
+Dialogue: 0,0:08:39.58,0:08:44.21,DCFlashback,RAN,0,0,0,,How would you describe Tatsuya-san?
+Dialogue: 0,0:08:44.21,0:08:49.34,DCFlashback,OZAKI,0,0,0,,Well, I'd say he was a naughty fool.
+Dialogue: 0,0:08:49.34,0:08:51.59,DCFlashback,ALL,0,0,0,,An enemy to women everywhere.
+Dialogue: 0,0:08:53.35,0:08:58.23,DCMain,KOGORO,0,0,0,,What an enviable—rather, imprudent man.
+Dialogue: 0,0:08:58.23,0:08:59.60,DCMain,RAN,0,0,0,,Dad.
+Dialogue: 0,0:08:59.60,0:09:01.57,DCMain,KOGORO,0,0,0,,What? Uh, nothing.
+Dialogue: 0,0:09:02.90,0:09:07.48,DCItalic,CONAN/ID,0,0,0,,An infidelity investigation\Nand a secret child. Could it be?
+Dialogue: 0,0:09:07.48,0:09:09.99,DCMain,SONOKO,0,0,0,,The next ex-girlfriend was...
+Dialogue: 0,0:09:11.86,0:09:13.62,DCMain,SONOKO,0,0,0,,Okui Ume-san.
+Dialogue: 0,0:09:16.35,0:09:21.20,DCFlashback,UME,0,0,0,,Oh, my. What cute detectives you are.
+Dialogue: 0,0:09:17.87,0:09:21.62,sign_suspect,SIGN,0,0,0,,{\pos(330,235)\fad(500,1)}Okui Ume (63)
+Dialogue: 0,0:09:21.95,0:09:25.87,DCFlashback,SATO,0,0,0,,Okui-san, we hear you're\Na jewelry designer.
+Dialogue: 0,0:09:25.87,0:09:29.88,DCFlashback,SONOKO,0,0,0,,What were you doing while\Nyou were dating Tatsuya-san?
+Dialogue: 0,0:09:29.88,0:09:34.26,DCFlashback,UME,0,0,0,,Tatsuya and I wanted to make names\Nfor ourselves as soon as possible.
+Dialogue: 0,0:09:34.66,0:09:38.76,DCFlashback,UME,0,0,0,,We went to Botswana\Nin Africa to dig for diamonds.
+Dialogue: 0,0:09:39.11,0:09:44.39,DCFlashback,UME,0,0,0,,We often soaked our feet in oases,\Nlooked up at giraffes,
+Dialogue: 0,0:09:44.39,0:09:48.15,DCFlashback,UME,0,0,0,,and sped across the Savannah\Nin our special-order 4WD vehicle.
+Dialogue: 0,0:09:48.54,0:09:52.78,DCFlashback,SONOKO,0,0,0,,What's your strongest\Nmemory of Tatsuya-san?
+Dialogue: 0,0:09:53.11,0:09:59.82,DCFlashback,UME,0,0,0,,Well, on our way to Kilimanjaro\Nin our private Cessna,
+Dialogue: 0,0:09:59.82,0:10:02.27,DCFlashback,UME,0,0,0,,the engine nearly stopped.
+Dialogue: 0,0:10:02.27,0:10:07.54,DCFlashback,UME,0,0,0,,Once we'd both accepted our deaths,\NTatsuya gave this to me.
+Dialogue: 0,0:10:07.54,0:10:09.05,DCFlashback,AYUMI,0,0,0,,It's a diamond.
+Dialogue: 0,0:10:09.43,0:10:14.30,DCFlashback,UME,0,0,0,,I asked if this was an engagement ring,\Nbut he didn't respond.
+Dialogue: 0,0:10:14.30,0:10:17.43,DCFlashback,UME,0,0,0,,Maybe I should've persisted,
+Dialogue: 0,0:10:17.43,0:10:20.06,DCFlashback,UME,0,0,0,,but we didn't know if we\Nwere about to live or die.
+Dialogue: 0,0:10:20.52,0:10:22.56,DCFlashback,UME,0,0,0,,I never got to ask him.
+Dialogue: 0,0:10:22.56,0:10:26.69,DCFlashback,HAIBARA,0,0,0,,But if you were that close, you\Nmust've been considering marriage.
+Dialogue: 0,0:10:27.03,0:10:29.82,DCFlashback,SONOKO,0,0,0,,Do you have any children?
+Dialogue: 0,0:10:29.82,0:10:33.82,DCFlashback,UME,0,0,0,,From Tatsuya? No, of course not.
+Dialogue: 0,0:10:33.82,0:10:38.87,DCFlashback,SATO,0,0,0,,Finally, how would you\Ndescribe Tatsuya-san?
+Dialogue: 0,0:10:38.87,0:10:43.62,DCFlashback,UME,0,0,0,,Well, I'd say he was a naughty fool.
+Dialogue: 0,0:10:43.62,0:10:45.87,DCFlashback,ALL,0,0,0,,An enemy to women everywhere.
+Dialogue: 0,0:10:47.83,0:10:51.38,DCMainTop,SONOKO,0,0,0,,The third ex-girlfriend\Nwas Sano Yoshie-san.
+Dialogue: 0,0:10:49.75,0:10:53.38,sign_suspect,SIGN,0,0,0,,{\pos(335,293)}Sano Yoshie (57)
+Dialogue: 0,0:10:51.38,0:10:53.38,DCFlashbackTop,SANO,0,0,0,,Welcome. Care for a drink?
+Dialogue: 0,0:10:53.38,0:10:55.61,DCFlashback,RAN,0,0,0,,No, thank you.
+Dialogue: 0,0:10:55.61,0:11:02.22,DCFlashback,SONOKO,0,0,0,,Cutting to the chase, do you have any\Nmemorable stories from dating Tatsuya-san?
+Dialogue: 0,0:11:02.60,0:11:07.73,DCFlashback,SANO,0,0,0,,Back then, we were always\Ndriving our truck somewhere.
+Dialogue: 0,0:11:08.18,0:11:10.36,DCFlashback,SATO,0,0,0,,Were you doing delivery work?
+Dialogue: 0,0:11:10.36,0:11:14.28,DCFlashback,SANO,0,0,0,,Yes. We'd go anywhere for a job.
+Dialogue: 0,0:11:14.67,0:11:17.91,DCFlashback,SANO,0,0,0,,I was a drifter, but he said,
+Dialogue: 0,0:11:17.91,0:11:22.04,DCFlashback,SANO,0,0,0,,"What you've done until now\Nwas definitely right."
+Dialogue: 0,0:11:22.45,0:11:27.46,DCFlashback,SANO,0,0,0,,Not many people can say that\Nabout another person's life.
+Dialogue: 0,0:11:27.46,0:11:30.04,DCFlashback,SANO,0,0,0,,I burst out laughing.
+Dialogue: 0,0:11:30.04,0:11:33.05,DCFlashback,RAN,0,0,0,,I see. So that happened.
+Dialogue: 0,0:11:34.65,0:11:39.30,DCFlashback,SANO,0,0,0,,But he still left me.
+Dialogue: 0,0:11:39.65,0:11:42.93,DCFlashback,SONOKO,0,0,0,,By the way, do you have children?
+Dialogue: 0,0:11:42.93,0:11:44.22,DCFlashback,SANO,0,0,0,,I do.
+Dialogue: 0,0:11:44.22,0:11:45.30,DCFlashback,ALL,0,0,0,,What?!
+Dialogue: 0,0:11:45.30,0:11:47.48,DCFlashback,RAN,0,0,0,,Are your children...
+Dialogue: 0,0:11:47.48,0:11:49.50,DCFlashback,SANO,0,0,0,,One boy and one girl.
+Dialogue: 0,0:11:49.50,0:11:53.48,DCFlashback,SANO,0,0,0,,Don't worry. They're both without\Na doubt my husband's children.
+Dialogue: 0,0:11:53.48,0:11:56.24,DCFlashback,SONOKO,0,0,0,,I see...
+Dialogue: 0,0:11:56.24,0:12:00.24,DCFlashback,AYUMI,0,0,0,,How would you describe Tatsuya-san?
+Dialogue: 0,0:12:00.24,0:12:02.12,DCFlashback,SANO,0,0,0,,A naughty fool.
+Dialogue: 0,0:12:02.12,0:12:04.37,DCFlashback,ALL,0,0,0,,An enemy to women everywhere.
+Dialogue: 0,0:12:06.29,0:12:11.63,DCMain,CONAN,0,0,0,,After all that investigating, all you\Nlearned was that he's a naughty old fool.
+Dialogue: 0,0:12:11.63,0:12:15.01,DCMain,AYUMI,0,0,0,,Actually, there's more.
+Dialogue: 0,0:12:15.01,0:12:19.71,DCMain,SONOKO,0,0,0,,We discovered a breakthrough\Nfrom a surprising hint.
+Dialogue: 0,0:12:25.20,0:12:28.27,DCFlashback,SATO,0,0,0,,We heard all the testimony\Nfrom his ex-girlfriends.
+Dialogue: 0,0:12:28.27,0:12:32.29,DCFlashback,AYUMI,0,0,0,,Then let's use our imaginations\Nlike we always do.
+Dialogue: 0,0:12:44.72,0:12:49.46,DCFlashback,ALL,0,0,0,,Thrilling Five Detective\NGirls High School!
+Dialogue: 0,0:12:49.46,0:12:53.63,sign_1221_detective_girls_1_thrilling,SIGN,0,0,0,,{\pos(320,18)\fad(300,1)\an2}THRILLING
+Dialogue: 0,0:12:49.46,0:12:53.63,sign_1221_detective_girls_2,SIGN,0,0,0,,{\an2\blur.03\pos(320,250)\fad(300,1)\bord4\c&HFFFFFF&\3c&H8F61A5&}5 Detective Girls
+Dialogue: 1,0:12:49.46,0:12:53.63,sign_1221_detective_girls_2,SIGN,0,0,0,,{\an2\blur.03\pos(320,250)\fad(300,1)}5 Detective Girls
+Dialogue: 0,0:12:55.59,0:12:57.17,DCFlashback,SONOKO,0,0,0,,Oh, no! I'm late!
+Dialogue: 0,0:13:02.42,0:13:03.83,DCFlashback,SONOKO,0,0,0,,Ow...
+Dialogue: 0,0:13:07.76,0:13:09.81,DCFlashback,SONOKO,0,0,0,,An enemy to women!
+Dialogue: 0,0:13:09.81,0:13:12.79,DCFlashback,AYUMI,0,0,0,,I wonder what they're like.
+Dialogue: 0,0:13:12.79,0:13:16.82,DCFlashback,AYUMI,0,0,0,,They might end up sitting next to you.
+Dialogue: 0,0:13:18.08,0:13:20.15,DCFlashback,TEACHER,0,0,0,,Let me introduce our transfer student.
+Dialogue: 0,0:13:22.77,0:13:25.45,DCFlashback,TATSUYA,0,0,0,,I'm Koike Tatsuya. Nice to meet you.
+Dialogue: 0,0:13:26.57,0:13:28.29,DCFlashback,HAIBARA,0,0,0,,An enemy to women!
+Dialogue: 0,0:13:29.83,0:13:33.96,DCFlashback,TATSUYA,0,0,0,,Just stay quiet and let me protect you.
+Dialogue: 0,0:13:33.96,0:13:35.85,DCFlashback,RAN,0,0,0,,Forgive my phrasing...
+Dialogue: 0,0:13:36.46,0:13:39.01,DCFlashback,RAN,0,0,0,,but you're an enemy to women!
+Dialogue: 0,0:13:39.92,0:13:42.80,DCFlashback,RAN,0,0,0,,This is how you kabedon.
+Dialogue: 0,0:13:43.34,0:13:45.93,DCFlashback,TATSUYA,0,0,0,,S-Scary...
+Dialogue: 0,0:13:46.38,0:13:50.77,DCFlashback,TATSUYA,0,0,0,,Hey, I feel like\NI could drown in your eyes.
+Dialogue: 0,0:13:52.31,0:13:54.56,DCFlashback,SATO,0,0,0,,An enemy to women!
+Dialogue: 0,0:14:03.64,0:14:06.32,DCFlashback,SATO,0,0,0,,We're all in perfect agreement.
+Dialogue: 0,0:14:06.32,0:14:08.33,DCFlashback,RAN,0,0,0,,I couldn't handle that.
+Dialogue: 0,0:14:08.67,0:14:14.08,DCFlashback,SONOKO,0,0,0,,Right? We could never understand\Na playboy like him.
+Dialogue: 0,0:14:15.39,0:14:17.07,DCFlashback,AYUMI,0,0,0,,Are you sure about that?
+Dialogue: 0,0:14:17.07,0:14:18.21,DCFlashback,ALL,0,0,0,,What?
+Dialogue: 0,0:14:18.21,0:14:24.84,DCFlashback,AYUMI,0,0,0,,Everyone, close your eyes and\Nimagine the person you love.
+Dialogue: 0,0:14:27.10,0:14:28.89,DCFlashback,AYUMI,0,0,0,,Now I have a question.
+Dialogue: 0,0:14:28.89,0:14:33.23,DCFlashback,AYUMI,0,0,0,,Is the person you're imagining\Na bit of a dummy?
+Dialogue: 0,0:14:33.56,0:14:35.85,DCFlashback,ALL,0,0,0,,He is kind of a dummy.
+Dialogue: 0,0:14:35.85,0:14:37.97,DCFlashback,AYUMI,0,0,0,,Next question.
+Dialogue: 0,0:14:37.97,0:14:42.99,DCFlashback,AYUMI,0,0,0,,Is the person you're imagining\Na bit naughty?
+Dialogue: 0,0:14:43.86,0:14:46.70,DCFlashback,SONOKO,0,0,0,,N-N-Naughty?!
+Dialogue: 0,0:14:46.70,0:14:51.36,DCFlashback,RAN,0,0,0,,D-Detective Sato, what counts as naughty?
+Dialogue: 0,0:14:51.36,0:14:54.67,DCFlashback,SATO,0,0,0,,What? Don't ask {\i1}me{\i0}!
+Dialogue: 0,0:14:54.67,0:14:59.31,DCFlashback,HAIBARA,0,0,0,,As the oldest, we need you\Nto clearly define it.
+Dialogue: 0,0:14:59.31,0:15:04.13,DCFlashback,SATO,0,0,0,,How can {\i1}you{\i0} say that? You're\Nfar more mature than me!
+Dialogue: 0,0:15:04.13,0:15:06.41,DCFlashback,AYUMI,0,0,0,,Then let me ask a different question.
+Dialogue: 0,0:15:06.41,0:15:08.79,DCFlashback,AYUMI,0,0,0,,Would you be turned off\Nif the person you love
+Dialogue: 0,0:15:08.79,0:15:12.96,DCFlashback,AYUMI,0,0,0,,were a little more assertive than usual?
+Dialogue: 0,0:15:14.46,0:15:16.98,DCFlashback,SONOKO,0,0,0,,Huh? I guess not.
+Dialogue: 0,0:15:16.98,0:15:19.15,DCFlashback,RAN,0,0,0,,It might even excite me.
+Dialogue: 0,0:15:19.53,0:15:20.98,DCFlashback,AYUMI,0,0,0,,Exactly.
+Dialogue: 0,0:15:20.98,0:15:23.76,DCFlashback,AYUMI,0,0,0,,Your impression of a person\Ncan change dramatically
+Dialogue: 0,0:15:23.76,0:15:27.66,DCFlashback,AYUMI,0,0,0,,depending on their phrasing\Nor your interpretation.
+Dialogue: 0,0:15:27.66,0:15:29.43,DCFlashback,RAN,0,0,0,,You might be right.
+Dialogue: 0,0:15:29.43,0:15:34.81,DCFlashback,SATO,0,0,0,,Put another way, an enemy\Nto women is actually a stud.
+Dialogue: 0,0:15:34.81,0:15:40.33,DCFlashback,HAIBARA,0,0,0,,Sometimes what looks unpleasant from\Nthe outside isn't for the people involved.
+Dialogue: 0,0:15:40.33,0:15:46.19,DCFlashback,SONOKO,0,0,0,,In other words, while we only see\NTatsuya-san as a dirty old man...
+Dialogue: 0,0:15:46.19,0:15:48.30,DCFlashback,RAN,0,0,0,,In the eyes of his\Nwife and ex-girlfriends...
+Dialogue: 0,0:15:48.30,0:15:52.31,DCFlashback,AYUMI,0,0,0,,Let's use our imaginations again with\Ndifferent perspectives and values.
+Dialogue: 0,0:15:52.31,0:15:53.43,DCFlashback,ALL,0,0,0,,Okay.
+Dialogue: 0,0:15:53.43,0:15:57.80,DCFlashback,SONOKO,0,0,0,,His wife did say you view things\Nmore philosophically when you age.
+Dialogue: 0,0:15:57.80,0:16:02.08,DCFlashback,RAN,0,0,0,,She also said he'd always cry and\Napologize to her when he drank.
+Dialogue: 0,0:16:02.08,0:16:04.86,DCFlashback,HAIBARA,0,0,0,,And that he said she was his number one.
+Dialogue: 0,0:16:04.86,0:16:08.95,DCFlashback,SONOKO,0,0,0,,Maybe they were actually madly in love.
+Dialogue: 0,0:16:09.57,0:16:14.71,DCFlashback,SATO,0,0,0,,But we tried 1045 for\N"Toshiko," and it didn't work.
+Dialogue: 0,0:16:15.23,0:16:19.70,DCFlashback,AYUMI,0,0,0,,Then how about this?\N1122 for "good couple."
+Dialogue: 0,0:16:19.70,0:16:22.62,DCFlashback,SONOKO,0,0,0,,No way is that it.
+Dialogue: 0,0:16:22.62,0:16:23.71,DCFlashback,AYUMI,0,0,0,,What?!
+Dialogue: 0,0:16:24.01,0:16:26.21,DCFlashback,ALL,0,0,0,,"Good couple?!"
+Dialogue: 0,0:16:26.21,0:16:29.09,DCMain,CONAN,0,0,0,,So, did you learn anything?
+Dialogue: 0,0:16:29.09,0:16:33.47,DCMain,SONOKO,0,0,0,,After searching his phone,\Nwe confirmed he did have a secret child.
+Dialogue: 0,0:16:33.47,0:16:36.21,DCMain,CHIBA,0,0,0,,What's their name?
+Dialogue: 0,0:16:36.59,0:16:38.42,DCMain,SONOKO,0,0,0,,Akiyama Mihoko-san.
+Dialogue: 0,0:16:38.42,0:16:43.15,DCMain,SONOKO,0,0,0,,She's the daughter of Akiyama Fuyumi-san,\Nwho he dated 25 years ago.
+Dialogue: 0,0:16:43.15,0:16:46.23,DCMain,CONAN,0,0,0,,Tatsuya-san's secret child was a woman?
+Dialogue: 0,0:16:46.23,0:16:49.61,DCMain,SONOKO,0,0,0,,Yup. Doesn't she look just like her mom?
+Dialogue: 0,0:16:49.61,0:16:51.62,DCMain,CONAN,0,0,0,,Then who...
+Dialogue: 0,0:16:52.08,0:16:55.86,DCMain,CONAN,0,0,0,,Hold on. It's not impossible, but...
+Dialogue: 0,0:16:56.68,0:16:59.00,DCMain,CONAN,0,0,0,,I see. There's more than one.
+Dialogue: 0,0:16:59.00,0:17:00.29,DCMain,RAN,0,0,0,,Conan-kun?
+Dialogue: 0,0:17:00.29,0:17:03.70,DCMain,CONAN,0,0,0,,Do you know where Mihoko-san is, too?
+Dialogue: 0,0:17:03.70,0:17:05.36,DCMain,SONOKO,0,0,0,,Of course.
+Dialogue: 0,0:17:05.36,0:17:06.49,DCMain,CONAN,0,0,0,,Good.
+Dialogue: 0,0:17:06.49,0:17:12.59,DCMain,CONAN,0,0,0,,Then could you contact her and\Nwarn her that her life's in danger?
+Dialogue: 0,0:17:12.59,0:17:13.68,DCMain,ALL,0,0,0,,What?
+Dialogue: 0,0:17:14.06,0:17:17.67,DCMain,CONAN,0,0,0,,Once you get in touch,\Ntake her someplace safe!
+Dialogue: 0,0:17:17.67,0:17:21.53,DCMain,CONAN,0,0,0,,Detective Takagi, let's go see\NMihoko-san as soon as possible.
+Dialogue: 0,0:17:21.53,0:17:23.06,DCMain,TAKAGI,0,0,0,,Got it.
+Dialogue: 0,0:17:23.06,0:17:24.15,DCMain,CONAN,0,0,0,,Mister, let's go.
+Dialogue: 0,0:17:24.15,0:17:25.32,DCMain,KOGORO,0,0,0,,What?
+Dialogue: 0,0:17:28.01,0:17:32.29,DCMain,SONOKO,0,0,0,,Mihoko-san is an office clerk\Nat Teitan Women's Junior College.
+Dialogue: 0,0:17:32.29,0:17:34.76,DCMain,SONOKO,0,0,0,,I think she's on her lunch break,
+Dialogue: 0,0:17:34.76,0:17:38.66,DCMain,SONOKO,0,0,0,,so she's probably having lunch\Nsomewhere near the school.
+Dialogue: 0,0:17:41.16,0:17:45.78,DCMain,SONOKO,0,0,0,,It's no use. I called the school,\Nbut they said she's not in.
+Dialogue: 0,0:17:45.78,0:17:46.95,DCMain,HAIBARA,0,0,0,,What about her phone?
+Dialogue: 0,0:17:46.95,0:17:49.26,DCMain,SONOKO,0,0,0,,I called, but she's not answering.
+Dialogue: 0,0:17:49.26,0:17:51.43,DCMain,RAN,0,0,0,,We just have to keep calling.
+Dialogue: 0,0:17:51.43,0:17:53.18,DCMain,SONOKO,0,0,0,,Yeah, you're right.
+Dialogue: 0,0:17:53.18,0:17:59.12,DCMain,HAIBARA,0,0,0,,So, could you tell\Nthe rest of us what's going on?
+Dialogue: 0,0:17:53.55,0:18:01.56,sign_1221_phone_call,SIGN,0,0,0,,{\frz20\fax0.3\fad(200,1)\an2\pos(185,170)}EDOGAWA CONAN
+Dialogue: 0,0:17:53.55,0:18:01.56,sign_1221_phone_call,SIGN,0,0,0,,{\frz20\fax0.3\fad(200,1)\an8\pos(212,194)}IN CALL
+Dialogue: 0,0:17:59.12,0:18:01.56,DCItalic,KOGORO,0,0,0,,Allow me to explain.
+Dialogue: 0,0:18:02.17,0:18:04.11,DCMain,KOGORO,0,0,0,,This case started for us
+Dialogue: 0,0:18:04.11,0:18:09.05,DCMain,KOGORO,0,0,0,,when Detective Mihashi was found\Nmurdered in the lake at the wedding hall.
+Dialogue: 0,0:18:09.94,0:18:15.03,DCMain,KOGORO,0,0,0,,While investigating the case, we came\Nacross a different 20-year-old murder.
+Dialogue: 0,0:18:11.90,0:18:13.61,sign_1221_newspaper_online,SIGN,0,0,0,,{\an9\fnTimes New Roman\b1\fscx80\pos(345,95)\c&H897166&\3c&HC3B3AA&}MILLIONAIRE'S\NSON MURDERED
+Dialogue: 0,0:18:15.03,0:18:17.49,sign_1221_wedding_hall,SIGN,0,0,0,,{\pos(500,90)\yshad3\fscx85\an2\frz2\fnGeorgia}KOIKE GARDEN WEDDING HALL
+Dialogue: 0,0:18:16.18,0:18:23.23,DCMain,KOGORO,0,0,0,,The wedding hall was the home\Nof Koike Toshiko-san, your client,
+Dialogue: 0,0:18:23.23,0:18:27.16,DCMain,KOGORO,0,0,0,,and her husband Tatsuya-san at the time.
+Dialogue: 0,0:18:28.20,0:18:31.38,DCMain,KOGORO,0,0,0,,Just as we began\Ninvestigating both cases,
+Dialogue: 0,0:18:31.38,0:18:36.03,DCMain,KOGORO,0,0,0,,someone set fire to\Nthe mansion to impede us.
+Dialogue: 0,0:18:36.64,0:18:38.64,DCMain,SONOKO,0,0,0,,What? Seriously?
+Dialogue: 0,0:18:38.64,0:18:42.93,DCItalicTop,KOGORO,0,0,0,,There's only one reason\Nthe culprit would do that.
+Dialogue: 0,0:18:38.64,0:18:47.15,sign_1221_phone_call,SIGN,0,0,0,,{\frz-120\fax0.9\an2\fs9\blur0.4\fscx70\move(532,296,247,296)\fad(200,1)}EDOGAWA CONAN
+Dialogue: 0,0:18:38.64,0:18:47.15,sign_1221_phone_call,SIGN,0,0,0,,{\frz-120\fax0.9\an8\fs9\blur0.4\fscx70\move(502,296,217,296)\fad(200,1)}IN CALL
+Dialogue: 0,0:18:42.93,0:18:47.15,DCItalicTop,KOGORO,0,0,0,,They feared us digging up\Nthe 20-year-old case.
+Dialogue: 0,0:18:47.15,0:18:50.06,DCMain,TAKAGI,0,0,0,,Did they kill Detective Mihashi\Nfor the same reason?
+Dialogue: 0,0:18:50.06,0:18:52.18,DCMain,KOGORO,0,0,0,,Almost certainly.
+Dialogue: 0,0:18:52.18,0:18:55.41,DCMain,KOGORO,0,0,0,,What the culprit wanted to hide was...
+Dialogue: 0,0:18:55.41,0:18:57.78,DCMain,SATO,0,0,0,,Toshiko-san and her husband's fortune?
+Dialogue: 0,0:18:57.78,0:19:03.86,DCMain,KOGORO,0,0,0,,Exactly. It came to me when\NI heard the girls' deduction.
+Dialogue: 0,0:19:03.86,0:19:08.92,DCMain,KOGORO,0,0,0,,But Mihoko-san doesn't match\Nthe criminal profile I imagined.
+Dialogue: 0,0:19:09.25,0:19:14.04,DCMain,CHIBA,0,0,0,,Detective Mihashi's killer\Nwas a strong man, right?
+Dialogue: 0,0:19:14.04,0:19:17.43,DCItalic,KOGORO,0,0,0,,In other words, there are\N{\i0}two{\i1} secret children.
+Dialogue: 0,0:19:21.24,0:19:24.38,DCMain,KOGORO,0,0,0,,Please hurry, Detective Sato.
+Dialogue: 0,0:19:24.38,0:19:28.18,DCMain,KOGORO,0,0,0,,The culprit probably\Nknows about Mihoko-san.
+Dialogue: 0,0:19:28.77,0:19:31.48,DCMain,KOGORO,0,0,0,,I doubt whoever killed\Nthe detective he hired
+Dialogue: 0,0:19:31.48,0:19:36.20,DCMain,KOGORO,0,0,0,,would ignore someone\Nwho'd halve his inheritance.
+Dialogue: 0,0:19:36.20,0:19:40.69,DCMain,TAKAGI,0,0,0,,By the way, Mori-san, who is the culprit?
+Dialogue: 0,0:19:40.69,0:19:42.49,DCMain,KOGORO,0,0,0,,You still don't know?
+Dialogue: 0,0:19:42.49,0:19:46.47,DCMain,KOGORO,0,0,0,,He could access the wedding hall\Nwithout rousing suspicion
+Dialogue: 0,0:19:46.47,0:19:52.04,DCMain,KOGORO,0,0,0,,and start a fire while we were doing\Nresearch in the reference room.
+Dialogue: 0,0:19:52.04,0:19:53.12,DCMain,KOGORO,0,0,0,,Conan.
+Dialogue: 0,0:19:53.12,0:19:54.21,DCMain,CONAN,0,0,0,,Here!
+Dialogue: 0,0:19:54.65,0:19:56.02,DCMain,TAKAGI,0,0,0,,Wh-What's this?
+Dialogue: 0,0:19:56.02,0:19:57.54,DCMain,CONAN,0,0,0,,Don't they look alike?
+Dialogue: 0,0:19:57.54,0:20:00.83,DCMain,CONAN,0,0,0,,This is Hayama Taro,\Nthe culprit in the 20-year-old case,
+Dialogue: 0,0:20:00.83,0:20:05.14,DCMain,CONAN,0,0,0,,and the culprit in this case,\Nhis son Manabe Katsuji.
+Dialogue: 0,0:20:05.48,0:20:11.28,DCItalic,KOGORO,0,0,0,,Somehow, Manabe recently learned\Nhe was related to Koike Tatsuya.
+Dialogue: 0,0:20:11.77,0:20:14.60,DCItalic,KOGORO,0,0,0,,He hired Detective Mihashi to confirm it,
+Dialogue: 0,0:20:14.60,0:20:19.03,DCItalic,KOGORO,0,0,0,,and then engaged in criminal activity\Nto acquire a massive inheritance.
+Dialogue: 0,0:20:19.58,0:20:21.41,DCMain,SATO,0,0,0,,Like father, like son.
+Dialogue: 0,0:20:21.41,0:20:26.54,DCMain,CHIBA,0,0,0,,Additionally, Hayama Taro was adopted\Nby the gardener Hayama Yoshiki
+Dialogue: 0,0:20:26.54,0:20:28.91,DCMain,CHIBA,0,0,0,,when he was eight years old.
+Dialogue: 0,0:20:29.49,0:20:32.39,DCMain,CHIBA,0,0,0,,His actual father was Koike Tatsuya.
+Dialogue: 0,0:20:32.39,0:20:37.62,DCMain,CHIBA,0,0,0,,Perhaps he had the gardener\Nand his wife adopt Taro
+Dialogue: 0,0:20:38.11,0:20:41.93,DCMain,CHIBA,0,0,0,,when his mother died so he\Ncould keep an eye on him.
+Dialogue: 0,0:20:42.41,0:20:47.78,DCMain,KOGORO,0,0,0,,He thought he was being a good parent,\Nbut Taro understood what was happening,
+Dialogue: 0,0:20:47.78,0:20:54.57,DCMain,KOGORO,0,0,0,,and seeing Koike Seiji be treated\Nlike his heir fostered resentment.
+Dialogue: 0,0:20:54.57,0:20:56.51,DCMain,TAKAGI,0,0,0,,And then he exploded.
+Dialogue: 0,0:20:56.51,0:21:00.57,DCMain,KOGORO,0,0,0,,That's probably what\Nhappened 20 years ago.
+Dialogue: 0,0:21:00.57,0:21:06.20,DCMainTop,HAIBARA,0,0,0,,And now, his son is about\Nto commit the same crime.
+Dialogue: 0,0:21:00.57,0:21:06.20,sign_1221_phone_call,SIGN,0,0,0,,{\frz-182\frx70\an2\fs24\blur0.4\pos(275,274)}EDOGAWA CONAN
+Dialogue: 0,0:21:00.57,0:21:06.20,sign_1221_phone_call,SIGN,0,0,0,,{\frz-182\frx75\an8\fs24\blur0.4\pos(275,244)}IN CALL
+Dialogue: 0,0:21:06.20,0:21:08.20,DCMain,CONAN,0,0,0,,The moon and the sun.
+Dialogue: 0,0:21:09.21,0:21:11.47,DCMain,CHIBA,0,0,0,,Is she picking up?
+Dialogue: 0,0:21:11.47,0:21:13.45,DCMain,SONOKO,0,0,0,,She's still not answering.
+Dialogue: 0,0:21:13.45,0:21:16.23,DCMain,AYUMI,0,0,0,,She might not want to answer\Na call from an unknown number.
+Dialogue: 0,0:21:16.23,0:21:19.90,DCMain,SONOKO,0,0,0,,I left her voicemails and messages, too.
+Dialogue: 0,0:21:19.90,0:21:21.19,DCItalic,MIHIKO,0,0,0,,Hello?
+Dialogue: 0,0:21:22.11,0:21:23.85,DCItalic,MIHIKO,0,0,0,,Who is this?
+Dialogue: 0,0:21:27.35,0:21:30.60,DCMain,MANABE,0,0,0,,This is it. Now is the time.
+Dialogue: 0,0:21:30.60,0:21:34.21,DCMain,MANABE,0,0,0,,This is the moment the moon\Nwill become the sun.
+Dialogue: 0,0:21:35.97,0:21:37.48,DCMain,MANABE,0,0,0,,I found you.
+Dialogue: 0,0:21:39.36,0:21:44.10,DCMain,MANABE,0,0,0,,When the sun is destroyed,\Nthe moon will replace it.
+Dialogue: 0,0:21:44.10,0:21:46.24,DCMain,MANABE,0,0,0,,I am the sun.
+Dialogue: 0,0:21:49.93,0:21:51.83,DCMain,MANABE,0,0,0,,Sorry about this!
+Dialogue: 0,0:21:53.08,0:21:54.74,DCMain,TAKAGI,0,0,0,,I don't think so!
+Dialogue: 0,0:22:00.28,0:22:02.05,DCMain,TAKAGI,0,0,0,,Culprit secured!
+Dialogue: 0,0:22:09.06,0:22:11.48,sign_song_ed_1214,SIGN,0,0,0,,{\an1\q2\pos(45,280)\blur0.2\fad(500,1)}Ai de Zenbu Dakishimete Aishite\N\NSong by Kuraki Mai
+Dialogue: 0,0:23:35.48,0:23:39.43,DCMain,HAIBARA,0,0,0,,The moon and the sun.\NI hope she fares better.
+Dialogue: 0,0:23:39.93,0:23:42.20,DCMain,RAN,0,0,0,,I'm sure she'll be okay.
+Dialogue: 0,0:23:44.99,0:24:09.01,sign_episode_preview,SIGN,0,0,0,,Episode Preview
+Dialogue: 0,0:23:45.53,0:23:48.67,DCMain,OSAMU,0,0,0,,You're welcome to stay at my mansion.
+Dialogue: 0,0:23:48.99,0:23:52.60,DCMain,AGASA,0,0,0,,Koyama-san isn't here yet.
+Dialogue: 0,0:23:52.60,0:23:56.25,DCMain,AKUTAYAMA,0,0,0,,I'm telling you, he's not in his room.
+Dialogue: 0,0:23:58.86,0:24:01.60,DCMain,AYUMI,0,0,0,,Hey, I hear it ringing over there.
+Dialogue: 0,0:24:03.75,0:24:05.11,DCMain,KAWAHATA,0,0,0,,Osamu-sama!
+Dialogue: 0,0:24:05.11,0:24:06.51,DCMain,MISHIMA,0,0,0,,What happened here?
+Dialogue: 0,0:24:07.21,0:24:08.30,DCMain,CONAN,0,0,0,,Ayumi-chan.
+Dialogue: 0,0:24:09.01,0:24:15.02,sign_next_episode,SIGN,0,0,0,,{\pos(320,55)}Mystery of the Rare Book Library
+Dialogue: 0,0:24:09.44,0:24:13.23,DCItalic,CONAN,0,0,0,,The next episode of Conan is\N"Mystery of the Rare Book Library!"
+Dialogue: 0,0:24:30.03,0:24:34.95,sign_hint_label,SIGN,0,0,0,,{\an2\fnImpact\pos(320,300)}{\3c&HA9A5A4&}\h{\3c&HABA6A5&}P{\3c&HADA9A7&}L{\3c&HB8B1AF&}A{\3c&HC1BBBA&}Y{\3c&HC7C1C0&}I{\3c&HDBD5D3&}N{\3c&HF0E9E6&}G{\3c&HEBE6E3&}\h{\3c&HE0DBD8&}C{\3c&HD6D0CF&}A{\3c&HBFBABA&}R{\3c&HB7B2B0&}D{\3c&HB3AEAB&}S\h
+Dialogue: 0,0:24:30.53,0:24:32.45,DCItalicTop,RAN,0,0,0,,Next Conan's hint!
+Dialogue: 0,0:24:32.45,0:24:34.14,DCItalicTop,CONAN,0,0,0,,Playing cards!
+Dialogue: 0,0:24:34.95,0:24:39.96,sign_dont_miss,SIGN,0,0,0,,{\pos(245,304)}Don't miss the next episode.
+Dialogue: 0,0:24:34.95,0:24:36.95,DCMainTop,SONOKO,0,0,0,,Nice work, Four Detective Boys!
+Dialogue: 0,0:24:36.95,0:24:38.21,DCMainTop,KOGORO,0,0,0,,You as well, Five Detective Girls!
+Dialogue: 0,0:24:38.21,0:24:39.05,DCMainTop,CONAN,0,0,0,,They're praising each other...
+Dialogue: 0,0:24:39.05,0:24:39.91,DCMainTop,KOGORO,0,0,0,,School!
+
