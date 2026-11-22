@@ -1,0 +1,285 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+Video Zoom Percent: 1
+Scroll Position: 0
+Active Line: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:10.88,0:00:12.84,Default,,0,0,0,,{\i1}- Taiyo.{\i0}\N{\i1}- Taiyo.{\i0}
+Dialogue: 0,0:00:12.93,0:00:14.51,Default,,0,0,0,,{\i1}Starszy bracie.{\i0}
+Dialogue: 0,0:00:16.76,0:00:19.60,Default,,0,0,0,,Starszy bracie?
+Dialogue: 0,0:00:20.68,0:00:22.31,Default,,0,0,0,,Wszystko w porządku, braciszku?
+Dialogue: 0,0:00:22.39,0:00:23.81,Default,,0,0,0,,Miałeś zły sen.
+Dialogue: 0,0:00:23.89,0:00:24.90,Default,,0,0,0,,Co takiego?
+Dialogue: 0,0:00:24.98,0:00:27.27,Default,,0,0,0,,Nic mi nie jest.
+Dialogue: 0,0:00:30.23,0:00:31.24,Default,,0,0,0,,Co?
+Dialogue: 0,0:00:34.28,0:00:35.41,Default,,0,0,0,,Co się stało?
+Dialogue: 0,0:00:36.82,0:00:37.82,Default,,0,0,0,,Hikaru?
+Dialogue: 0,0:00:37.91,0:00:38.91,Default,,0,0,0,,Co?
+Dialogue: 0,0:00:39.49,0:00:41.33,Default,,0,0,0,,Gdzie mama i tata?
+Dialogue: 0,0:00:41.83,0:00:44.54,Default,,0,0,0,,Nie śpią od wielu godzin.
+Dialogue: 0,0:00:46.83,0:00:48.09,Default,,0,0,0,,Udało się go obudzić!
+Dialogue: 0,0:00:48.17,0:00:49.55,Default,,0,0,0,,Dzień dobry, Taiyo.
+Dialogue: 0,0:00:49.63,0:00:51.88,Default,,0,0,0,,Śniadanie już na stole.
+Dialogue: 0,0:00:52.55,0:00:54.68,Default,,0,0,0,,To nie w twoim stylu zasypiać.
+Dialogue: 0,0:00:58.30,0:00:59.55,Default,,0,0,0,,Chodź, starszy braciszku.
+Dialogue: 0,0:00:59.64,0:01:02.56,Default,,0,0,0,,Zjedzmy śniadanie,\Nżebyśmy mogli znów się bawić!
+Dialogue: 0,0:01:02.64,0:01:04.14,Default,,0,0,0,,No tak.
+Dialogue: 0,0:01:19.91,0:01:24.83,Default,,0,0,0,,MISJA: RODZINA YOZAKURA
+Dialogue: 0,0:02:42.03,0:02:43.70,Default,,0,0,0,,Dzięki za śniadanie!
+Dialogue: 0,0:02:46.24,0:02:48.29,Default,,0,0,0,,Chwileczkę. Nie wszystko zjedzone.
+Dialogue: 0,0:02:48.37,0:02:50.96,Default,,0,0,0,,Jeśli nie będziesz porządnie jeść,\Nnigdy nie urośniesz.
+Dialogue: 0,0:02:51.04,0:02:54.54,Default,,0,0,0,,Spójrz na mnie. Zjadam dokładkę!
+Dialogue: 0,0:02:54.63,0:02:57.01,Default,,0,0,0,,To dlatego taki z ciebie grubas?
+Dialogue: 0,0:02:57.88,0:03:00.43,Default,,0,0,0,,- Też tak sądzisz, Hikaru?\N- Słucham?
+Dialogue: 0,0:03:00.51,0:03:02.43,Default,,0,0,0,,Tyjesz w średnim wieku?
+Dialogue: 0,0:03:02.51,0:03:03.72,Default,,0,0,0,,Ty też tak mówisz?
+Dialogue: 0,0:03:03.80,0:03:07.72,Default,,0,0,0,,Przyznaję, że ostatnio…\NNie zmieniaj tematu!
+Dialogue: 0,0:03:08.52,0:03:13.40,Default,,0,0,0,,Hikaru, pomogę ci,\Nzmiataj wszystko z talerza.
+Dialogue: 0,0:03:15.23,0:03:18.36,Default,,0,0,0,,Dzięki, Taiyo!
+Dialogue: 0,0:03:18.44,0:03:19.90,Default,,0,0,0,,Wow, starszy bracie!
+Dialogue: 0,0:03:19.99,0:03:21.49,Default,,0,0,0,,Nie jesteś pochlapany herbatą?
+Dialogue: 0,0:03:21.57,0:03:23.07,Default,,0,0,0,,Nie, wszystko w porządku.
+Dialogue: 0,0:03:23.16,0:03:26.16,Default,,0,0,0,,{\i1}Jak ja…? Przed chwilą…{\i0}
+Dialogue: 0,0:03:26.24,0:03:29.70,Default,,0,0,0,,Prawda? Może pojedziemy gdzieś w weekend?
+Dialogue: 0,0:03:29.79,0:03:32.58,Default,,0,0,0,,Dobry pomysł! Dokąd?
+Dialogue: 0,0:03:32.67,0:03:34.88,Default,,0,0,0,,Ja chcę na biwak!
+Dialogue: 0,0:03:34.96,0:03:36.67,Default,,0,0,0,,Biwak?
+Dialogue: 0,0:03:36.75,0:03:39.21,Default,,0,0,0,,Jak się zastanowić,\Nostatnio tego nie robiliśmy.
+Dialogue: 0,0:03:39.30,0:03:42.30,Default,,0,0,0,,Kiedy byłem młodszy,\Nmarzyłem o samotnym biwaku,
+Dialogue: 0,0:03:42.38,0:03:46.43,Default,,0,0,0,,przeczytałem mnóstwo magazynów\Ni kupiłem cały sprzęt,
+Dialogue: 0,0:03:46.51,0:03:49.68,Default,,0,0,0,,ale nigdy z niego nie skorzystałem.
+Dialogue: 0,0:03:49.77,0:03:51.89,Default,,0,0,0,,Też miałbyś ochotę, Taiyo?
+Dialogue: 0,0:03:51.98,0:03:53.02,Default,,0,0,0,,No…
+Dialogue: 0,0:03:53.10,0:03:54.65,Default,,0,0,0,,Mi pasuje wszystko.
+Dialogue: 0,0:03:54.73,0:03:56.61,Default,,0,0,0,,Nie przeszkodzi ci to w pracy, mamo?
+Dialogue: 0,0:03:56.69,0:03:59.07,Default,,0,0,0,,Oczywiście, że nie, wzięłam wolne.
+Dialogue: 0,0:03:59.15,0:04:01.70,Default,,0,0,0,,- Jesteś super!\N- Świetnie!
+Dialogue: 0,0:04:01.78,0:04:03.03,Default,,0,0,0,,Będzie fajnie!
+Dialogue: 0,0:04:08.08,0:04:10.91,Default,,0,0,0,,NACIŚNIJ!
+Dialogue: 0,0:04:11.75,0:04:13.96,Default,,0,0,0,,KONIEC GRY
+Dialogue: 0,0:04:14.04,0:04:16.50,Default,,0,0,0,,Co to było, starszy bracie?
+Dialogue: 0,0:04:16.59,0:04:18.38,Default,,0,0,0,,Przez ciebie przegraliśmy!
+Dialogue: 0,0:04:18.46,0:04:19.92,Default,,0,0,0,,Mój błąd.
+Dialogue: 0,0:04:20.51,0:04:24.76,Default,,0,0,0,,Nie jesteś dziś sobą.\NCały czas jesteś jak oszołomiony.
+Dialogue: 0,0:04:24.84,0:04:27.47,Default,,0,0,0,,Przepraszam, powtórzmy to!
+Dialogue: 0,0:04:27.55,0:04:29.97,Default,,0,0,0,,Tym razem skup się na grze!
+Dialogue: 0,0:04:30.06,0:04:31.48,Default,,0,0,0,,Zrozumiałem!
+Dialogue: 0,0:04:32.02,0:04:33.02,Default,,0,0,0,,{\an8}Ładowanie gry
+Dialogue: 0,0:04:33.10,0:04:35.40,Default,,0,0,0,,{\an8}Problem w tym, że za bardzo się otwierasz.
+Dialogue: 0,0:04:35.48,0:04:38.23,Default,,0,0,0,,Musisz patrzeć na całe pole.
+Dialogue: 0,0:04:38.94,0:04:41.82,Default,,0,0,0,,Tym razem na pewno się nam uda!
+Dialogue: 0,0:04:43.20,0:04:44.78,Default,,0,0,0,,{\i1}Co to było?{\i0}
+Dialogue: 0,0:04:45.95,0:04:47.37,Default,,0,0,0,,{\i1}Mam wrażenie, że…{\i0}
+Dialogue: 0,0:04:47.45,0:04:50.37,Default,,0,0,0,,{\i1}Zapominam o czymś ważnym.{\i0}
+Dialogue: 0,0:04:53.21,0:04:54.87,Default,,0,0,0,,{\i1}Nieważne.{\i0}
+Dialogue: 0,0:05:13.98,0:05:16.35,Default,,0,0,0,,{\i1}Starszy brat Shinzo! Kengo!{\i0}
+Dialogue: 0,0:05:20.44,0:05:21.69,Default,,0,0,0,,{\i1}Na statek?{\i0}
+Dialogue: 0,0:05:55.64,0:05:56.94,Default,,0,0,0,,Mutsumi!
+Dialogue: 0,0:06:08.95,0:06:11.28,Default,,0,0,0,,Starszy brat Kyoichiro!\NStarsza siostra Futaba!
+Dialogue: 0,0:06:11.37,0:06:13.74,Default,,0,0,0,,Starszy brat Shinzo!\NStarsza siostra Shion!
+Dialogue: 0,0:06:13.83,0:06:15.66,Default,,0,0,0,,Kengo! Nanao!
+Dialogue: 0,0:06:20.58,0:06:21.79,Default,,0,0,0,,{\i1}Wszyscy?{\i0}
+Dialogue: 0,0:06:24.38,0:06:27.30,Default,,0,0,0,,{\i1}To moc ojca?{\i0}
+Dialogue: 0,0:06:37.89,0:06:39.94,Default,,0,0,0,,{\i1}Skan statku zakończony.{\i0}
+Dialogue: 0,0:06:40.02,0:06:44.15,Default,,0,0,0,,{\i1}Wyczuwam wysoki poziom someinininy,{\i0}\N{\i1}rozrasta się po statku jak błąd systemu.{\i0}
+Dialogue: 0,0:06:44.23,0:06:47.36,Default,,0,0,0,,{\i1}Jeśli dojdzie do jednoczesnej eksplozji,{\i0}\N{\i1}zniszczy nie tylko statek.{\i0}
+Dialogue: 0,0:06:47.44,0:06:50.11,Default,,0,0,0,,{\i1}Znikną wszystkie okoliczne wody.{\i0}
+Dialogue: 0,0:06:50.20,0:06:52.32,Default,,0,0,0,,Udało się skontaktować z Yozakurami?
+Dialogue: 0,0:06:52.41,0:06:56.04,Default,,0,0,0,,{\i1}Moduły spłonęły,{\i0}\N{\i1}więc komunikacja jest niemożliwa.{\i0}
+Dialogue: 0,0:06:56.12,0:06:57.87,Default,,0,0,0,,Musimy ich ratować!
+Dialogue: 0,0:06:57.95,0:06:59.12,Default,,0,0,0,,Zaczekaj, Ryu.
+Dialogue: 0,0:07:00.12,0:07:01.33,Default,,0,0,0,,Nie zatrzymuj mnie.
+Dialogue: 0,0:07:02.21,0:07:06.30,Default,,0,0,0,,Nie możemy wejść na ślepo,\Nnie wiedząc, co się dzieje.
+Dialogue: 0,0:07:06.80,0:07:09.42,Default,,0,0,0,,Zgadzam się z prezesem.
+Dialogue: 0,0:07:11.72,0:07:12.97,Default,,0,0,0,,No dobra, w porządku.
+Dialogue: 0,0:07:13.97,0:07:17.10,Default,,0,0,0,,Giga, skontaktuj się z kontrolą portu.
+Dialogue: 0,0:07:17.18,0:07:19.43,Default,,0,0,0,,Poproś, żeby zwiększyli blokadę.
+Dialogue: 0,0:07:19.52,0:07:20.85,Default,,0,0,0,,{\i1}Przyjąłem!{\i0}
+Dialogue: 0,0:07:24.44,0:07:26.36,Default,,0,0,0,,Resztę zostawmy im.
+Dialogue: 0,0:07:27.36,0:07:30.03,Default,,0,0,0,,{\i1}Bez względu na to, jak teraz jest,{\i0}
+Dialogue: 0,0:07:31.40,0:07:33.16,Default,,0,0,0,,{\i1}jedynym, który może ocalić innych,{\i0}
+Dialogue: 0,0:07:34.78,0:07:36.08,Default,,0,0,0,,{\i1}jestem ja!{\i0}
+Dialogue: 0,0:07:50.05,0:07:54.76,Default,,0,0,0,,Wytłuc komitet powitalny,\Nktóry wysłałem? Bardzo brutalne.
+Dialogue: 0,0:07:54.84,0:07:57.22,Default,,0,0,0,,Zaczynasz przypominać Kyoichiro.
+Dialogue: 0,0:07:57.31,0:07:59.93,Default,,0,0,0,,Zaraz tu będzie.
+Dialogue: 0,0:08:21.29,0:08:23.75,Default,,0,0,0,,Witaj w domu, Taiyo.
+Dialogue: 0,0:08:24.83,0:08:26.13,Default,,0,0,0,,Pora na kolację.
+Dialogue: 0,0:08:26.63,0:08:27.96,Default,,0,0,0,,Siadaj.
+Dialogue: 0,0:08:40.01,0:08:41.89,Default,,0,0,0,,Co im zrobiłeś?
+Dialogue: 0,0:08:52.36,0:08:55.41,Default,,0,0,0,,Mój rozkwit to Sny.
+Dialogue: 0,0:08:57.32,0:08:58.95,Default,,0,0,0,,{\i1}Też je miałeś, prawda?{\i0}
+Dialogue: 0,0:08:59.03,0:09:03.37,Default,,0,0,0,,{\i1}Idealny sen,{\i0}\N{\i1}w którym ból i cierpienie nie istnieją.{\i0}
+Dialogue: 0,0:09:04.75,0:09:09.38,Default,,0,0,0,,Mój sen to wszystko\Notulone zapachem kwitnącej wiśni.
+Dialogue: 0,0:09:09.88,0:09:12.05,Default,,0,0,0,,Nikt się temu nie oprze.
+Dialogue: 0,0:09:12.13,0:09:16.76,Default,,0,0,0,,Z wyjątkiem ciebie, bo masz krew Tsubomi.
+Dialogue: 0,0:09:20.68,0:09:23.93,Default,,0,0,0,,Przywróć ich do pierwotnych postaci!
+Dialogue: 0,0:09:24.02,0:09:26.27,Default,,0,0,0,,Przywróciłem ich przecież.
+Dialogue: 0,0:09:26.77,0:09:29.40,Default,,0,0,0,,Są tym, kim powinna być moja rodzina.
+Dialogue: 0,0:09:30.36,0:09:31.86,Default,,0,0,0,,To ma być rodzina?
+Dialogue: 0,0:09:32.57,0:09:34.11,Default,,0,0,0,,Rodzina to…
+Dialogue: 0,0:09:37.70,0:09:39.32,Default,,0,0,0,,GRÓB RODZINY ASANO
+Dialogue: 0,0:09:40.03,0:09:41.99,Default,,0,0,0,,Rodzina jest…
+Dialogue: 0,0:09:43.66,0:09:47.42,Default,,0,0,0,,Mylisz się. Tym jest rodzina, Taiyo.
+Dialogue: 0,0:09:49.54,0:09:51.46,Default,,0,0,0,,Sam powinieneś wiedzieć.
+Dialogue: 0,0:09:51.96,0:09:54.09,Default,,0,0,0,,Rodziny są wątłe i efemeryczne.
+Dialogue: 0,0:09:54.71,0:09:57.97,Default,,0,0,0,,Dlatego postanowiłem\Nstworzyć moją od zera.
+Dialogue: 0,0:09:58.55,0:10:01.60,Default,,0,0,0,,Silną rodzinę,\Nktórej nie da się zniszczyć.
+Dialogue: 0,0:10:26.79,0:10:28.21,Default,,0,0,0,,Spóźniłem się.
+Dialogue: 0,0:10:28.29,0:10:31.92,Default,,0,0,0,,Przeklęty Kawashita.\NMasz czelność to zrobić…
+Dialogue: 0,0:10:32.00,0:10:34.71,Default,,0,0,0,,Ten chłopak należy do mnie.
+Dialogue: 0,0:10:39.84,0:10:41.43,Default,,0,0,0,,Zabieram cię z powrotem.
+Dialogue: 0,0:10:46.93,0:10:48.23,Default,,0,0,0,,{\i1}To nie sen.{\i0}
+Dialogue: 0,0:10:49.10,0:10:50.23,Default,,0,0,0,,{\i1}Pamiętam to.{\i0}
+Dialogue: 0,0:10:51.35,0:10:53.36,Default,,0,0,0,,{\i1}Myślałem, że to wizje.{\i0}
+Dialogue: 0,0:10:54.02,0:10:56.65,Default,,0,0,0,,Ratownicy zajmą się resztą.
+Dialogue: 0,0:10:57.15,0:10:59.86,Default,,0,0,0,,{\i1}Ale tego dnia na pewno{\i0}
+Dialogue: 0,0:11:00.78,0:11:01.82,Default,,0,0,0,,{\i1}ktoś był…{\i0}
+Dialogue: 0,0:11:05.66,0:11:09.16,Default,,0,0,0,,Cały ten czas nad tobą czuwałem.
+Dialogue: 0,0:11:10.46,0:11:12.63,Default,,0,0,0,,{\i1}Toczyłem walkę od środka,{\i0}
+Dialogue: 0,0:11:12.71,0:11:15.67,Default,,0,0,0,,{\i1}ale nie mogłem przerwać{\i0}\N{\i1}cyklu karmicznego Yozakurów.{\i0}
+Dialogue: 0,0:11:16.63,0:11:19.84,Default,,0,0,0,,{\i1}Potrzebowałem świeżej krwi.{\i0}
+Dialogue: 0,0:11:21.26,0:11:22.64,Default,,0,0,0,,{\i1}To było oczywiste.{\i0}
+Dialogue: 0,0:11:22.72,0:11:28.31,Default,,0,0,0,,{\i1}Nie ma nic lepszego dla Mutsumi{\i0}\N{\i1}niż zwykły chłopak z sąsiedztwa.{\i0}
+Dialogue: 0,0:11:37.82,0:11:41.57,Default,,0,0,0,,{\i1}To ja cię wybrałem.{\i0}
+Dialogue: 0,0:11:49.41,0:11:51.04,Default,,0,0,0,,{\i1}Nie obchodzi mnie,{\i0}
+Dialogue: 0,0:11:51.62,0:11:54.83,Default,,0,0,0,,{\i1}kogo muszę poświęcić,{\i0}\N{\i1}jeśli jest to dla waszego dobra.{\i0}
+Dialogue: 0,0:11:56.71,0:12:01.30,Default,,0,0,0,,To ja cię wzmocniłem.
+Dialogue: 0,0:12:08.35,0:12:12.56,Default,,0,0,0,,Prawda, Rozkwit Dziesięciu Tysięcy Kwiatów\Noprze się mojemu rozkwitowi.
+Dialogue: 0,0:12:13.10,0:12:17.44,Default,,0,0,0,,Lecz teraz, gdy twoje wspomnienia\Ncię niepokoją, otworzyłeś się.
+Dialogue: 0,0:12:18.07,0:12:20.90,Default,,0,0,0,,Jesteś teraz w środku snu,
+Dialogue: 0,0:12:21.44,0:12:23.45,Default,,0,0,0,,z którego nigdy się nie obudzisz.
+Dialogue: 0,0:12:24.07,0:12:27.08,Default,,0,0,0,,Idealna rodzina, którą sobie wyobraziłem,
+Dialogue: 0,0:12:27.16,0:12:29.99,Default,,0,0,0,,wreszcie się ziści, tu i teraz.
+Dialogue: 0,0:12:36.96,0:12:40.71,Default,,0,0,0,,Witaj, Taiyo, w rodzinie Yozakura.
+Dialogue: 0,0:12:53.69,0:12:55.27,Default,,0,0,0,,Do diabła z tą iluzją!
+Dialogue: 0,0:13:05.74,0:13:07.66,Default,,0,0,0,,Pokażę ci
+Dialogue: 0,0:13:08.32,0:13:12.54,Default,,0,0,0,,prawdziwe szczęście,\Nw którym nie brakuje ani jednej osoby.
+Dialogue: 0,0:13:13.66,0:13:16.17,Default,,0,0,0,,Możesz się zrelaksować.
+Dialogue: 0,0:13:16.67,0:13:19.09,Default,,0,0,0,,To nie twoja wina.
+Dialogue: 0,0:13:19.17,0:13:20.63,Default,,0,0,0,,Nie zrobiłeś nic złego.
+Dialogue: 0,0:13:21.13,0:13:26.05,Default,,0,0,0,,Poddaj się błogiemu marzeniu,\Nktórego szukałeś cały ten czas…
+Dialogue: 0,0:13:26.13,0:13:27.30,Default,,0,0,0,,Taiyo.
+Dialogue: 0,0:13:27.97,0:13:31.06,Default,,0,0,0,,Ale urosłeś, Taiyo.
+Dialogue: 0,0:13:48.03,0:13:49.20,Default,,0,0,0,,{\i1}Mamo.{\i0}
+Dialogue: 0,0:13:54.58,0:13:57.58,Default,,0,0,0,,Przepraszam,\Nże zostawiam cię samego, Taiyo.
+Dialogue: 0,0:13:59.00,0:14:02.59,Default,,0,0,0,,{\an8}CEREMONIA PRZYJĘCIA NOWYCH STUDENTÓW
+Dialogue: 0,0:14:14.56,0:14:15.56,Default,,0,0,0,,{\i1}Tato.{\i0}
+Dialogue: 0,0:14:16.60,0:14:19.60,Default,,0,0,0,,Tęskniłem za tobą, starszy braciszku!
+Dialogue: 0,0:14:24.69,0:14:27.15,Default,,0,0,0,,NACIŚNIJ!
+Dialogue: 0,0:14:27.95,0:14:30.07,Default,,0,0,0,,PRZEGRANA - WYGRANA
+Dialogue: 0,0:14:37.12,0:14:38.25,Default,,0,0,0,,{\i1}Hikaru.{\i0}
+Dialogue: 0,0:14:40.08,0:14:43.25,Default,,0,0,0,,Przestań. Nie mów o mojej rodzinie,
+Dialogue: 0,0:14:43.34,0:14:46.55,Default,,0,0,0,,używając fałszywych obrazów i głosów!
+Dialogue: 0,0:14:47.05,0:14:48.59,Default,,0,0,0,,{\i1}Nigdy więcej ich nie zobaczę.{\i0}
+Dialogue: 0,0:14:48.67,0:14:50.30,Default,,0,0,0,,{\i1}Nigdy z nimi nie porozmawiam.{\i0}
+Dialogue: 0,0:14:50.38,0:14:51.93,Default,,0,0,0,,{\i1}Nie mogę tam wrócić.{\i0}
+Dialogue: 0,0:14:52.01,0:14:54.35,Default,,0,0,0,,Nieważne, jak bardzo żałuję,\Njest już za późno.
+Dialogue: 0,0:14:54.43,0:14:56.85,Default,,0,0,0,,Nieważne, jak mi zależy, to nic nie da!
+Dialogue: 0,0:14:56.93,0:15:01.10,Default,,0,0,0,,{\i1}Modliłem się, krzyczałem,{\i0}\N{\i1}szalałem, płakałem…{\i0}
+Dialogue: 0,0:15:04.07,0:15:05.48,Default,,0,0,0,,W końcu to zaakceptowałem.
+Dialogue: 0,0:15:06.15,0:15:09.70,Default,,0,0,0,,Więc zaakceptuj jeszcze raz.
+Dialogue: 0,0:15:09.78,0:15:13.03,Default,,0,0,0,,Przyszłość,\Nktóra zawsze na ciebie czekała.
+Dialogue: 0,0:15:13.12,0:15:19.12,Default,,0,0,0,,W ten sposób fikcja stanie się\Nrzeczywistością, a kłamstwa prawdą.
+Dialogue: 0,0:15:22.54,0:15:24.09,Default,,0,0,0,,A potem zobaczysz…
+Dialogue: 0,0:15:32.34,0:15:33.43,Default,,0,0,0,,Jestem w domu!
+Dialogue: 0,0:15:34.30,0:15:35.60,Default,,0,0,0,,Starszy bracie!
+Dialogue: 0,0:15:37.06,0:15:38.72,Default,,0,0,0,,Szybciej, starszy braciszku!
+Dialogue: 0,0:15:38.81,0:15:41.81,Default,,0,0,0,,Karuzela starszego brata Nanao\Njest niesamowita!
+Dialogue: 0,0:15:41.89,0:15:45.40,Default,,0,0,0,,No już, Hikaru!\NNiepatrzenie przed siebie jest groźne.
+Dialogue: 0,0:15:45.48,0:15:47.61,Default,,0,0,0,,Hikaru jest pełen energii!
+Dialogue: 0,0:15:47.69,0:15:51.15,Default,,0,0,0,,Moje dzieci to chłopcy,\Nwięc nie mogę się zrelaksować.
+Dialogue: 0,0:15:51.24,0:15:53.45,Default,,0,0,0,,Dlatego tak się cieszę, że dziewczyna
+Dialogue: 0,0:15:53.53,0:15:56.99,Default,,0,0,0,,taka jak Mutsumi będzie panną młodą Taiyo!
+Dialogue: 0,0:15:58.20,0:16:00.79,Default,,0,0,0,,Tyle się tu dzieje, że ja też się cieszę!
+Dialogue: 0,0:16:00.87,0:16:03.83,Default,,0,0,0,,Panie Momo, co powie pan na drinka?
+Dialogue: 0,0:16:03.92,0:16:05.17,Default,,0,0,0,,Jak najbardziej!
+Dialogue: 0,0:16:05.25,0:16:08.00,Default,,0,0,0,,Może otworzę kolejną butelkę\NYozakura Blizzard?
+Dialogue: 0,0:16:08.09,0:16:12.30,Default,,0,0,0,,Hej, Taiyo! Hikaru!\NWracajcie tu natychmiast!
+Dialogue: 0,0:16:21.48,0:16:22.48,Default,,0,0,0,,{\i1}Nie.{\i0}
+Dialogue: 0,0:16:23.10,0:16:24.81,Default,,0,0,0,,{\i1}To nie jest rzeczywistość.{\i0}
+Dialogue: 0,0:16:25.44,0:16:26.44,Default,,0,0,0,,{\i1}A jednak…{\i0}
+Dialogue: 0,0:16:29.61,0:16:31.40,Default,,0,0,0,,Chodźmy, starszy braciszku.
+Dialogue: 0,0:16:41.79,0:16:42.79,Default,,0,0,0,,{\i1}Do diabła!{\i0}
+Dialogue: 0,0:16:58.26,0:17:00.81,Default,,0,0,0,,Starszy bracie…
+Dialogue: 0,0:17:07.81,0:17:12.86,Default,,0,0,0,,To w twoim stylu\Ntakie brutalnie wejście, Kyoichiro.
+Dialogue: 0,0:17:12.94,0:17:15.91,Default,,0,0,0,,Usiądź.
+Dialogue: 0,0:17:38.39,0:17:39.89,Default,,0,0,0,,Starszy brat Kyoichiro!
+Dialogue: 0,0:17:44.10,0:17:45.64,Default,,0,0,0,,Arachne: Sieć Bogini
+Dialogue: 0,0:17:45.73,0:17:48.52,Default,,0,0,0,,to niezniszczalna ściana,\Nktóra uszczelnia wszystko,
+Dialogue: 0,0:17:48.60,0:17:50.57,Default,,0,0,0,,tajna technika stalowej pajęczyny.
+Dialogue: 0,0:17:51.15,0:17:52.44,Default,,0,0,0,,No tak.
+Dialogue: 0,0:17:52.53,0:17:55.32,Default,,0,0,0,,Dlatego nie dotarł do niego zapach wiśni,
+Dialogue: 0,0:17:55.40,0:17:58.70,Default,,0,0,0,,a mój rozkwit\Nw ogóle na niego nie wpłynął.
+Dialogue: 0,0:17:59.95,0:18:03.24,Default,,0,0,0,,Widzę, że w końcu\Ngo udoskonaliłeś, Kyoichiro.
+Dialogue: 0,0:18:03.74,0:18:07.00,Default,,0,0,0,,Czuję nostalgię za dniami,\Nktóre spędziliśmy, wymyślając to razem.
+Dialogue: 0,0:18:07.08,0:18:10.84,Default,,0,0,0,,Umiejętności, które stworzyliśmy\Ndla dobra rodziny.
+Dialogue: 0,0:18:10.92,0:18:13.55,Default,,0,0,0,,Nie tak miało być.
+Dialogue: 0,0:18:17.01,0:18:18.80,Default,,0,0,0,,Ochronię rodzinę
+Dialogue: 0,0:18:18.88,0:18:21.97,Default,,0,0,0,,przed wszelkim złem
+Dialogue: 0,0:18:24.52,0:18:27.52,Default,,0,0,0,,i przede wszystkim, co teraz zrobię.
+Dialogue: 0,0:18:29.27,0:18:30.48,Default,,0,0,0,,Cudownie.
+Dialogue: 0,0:18:31.19,0:18:33.48,Default,,0,0,0,,Cudownie, Kyoichiro!
+Dialogue: 0,0:18:37.07,0:18:40.03,Default,,0,0,0,,{\i1}To prawda, że nie mogę zniszczyć{\i0}\N{\i1}Arachne: Sieci Bogini.{\i0}
+Dialogue: 0,0:18:40.11,0:18:41.12,Default,,0,0,0,,{\i1}Ale…{\i0}
+Dialogue: 0,0:18:41.70,0:18:45.04,Default,,0,0,0,,{\i1}To ja cię nauczyłem używać tych nici.{\i0}
+Dialogue: 0,0:18:45.66,0:18:48.41,Default,,0,0,0,,{\i1}Twoja technika nici jest twoją duszą.{\i0}
+Dialogue: 0,0:18:48.50,0:18:52.88,Default,,0,0,0,,{\i1}Metoda tkania pokazuje{\i0}\N{\i1}twoją miłość do rodziny.{\i0}
+Dialogue: 0,0:18:53.46,0:18:57.30,Default,,0,0,0,,{\i1}Może nie mogę jej złamać,{\i0}\N{\i1}ale mogę ją rozwikłać, zrozumieć,{\i0}
+Dialogue: 0,0:18:57.38,0:18:59.34,Default,,0,0,0,,{\i1}tak jak twoją duszę.{\i0}
+Dialogue: 0,0:18:59.43,0:19:04.68,Default,,0,0,0,,{\i1}Twój gniew i nienawiść do mnie?{\i0}\N{\i1}Nie potrzebujesz już takich wspomnień.{\i0}
+Dialogue: 0,0:19:04.76,0:19:08.27,Default,,0,0,0,,{\i1}Koniec z myśleniem, że musisz mnie zabić.{\i0}
+Dialogue: 0,0:19:08.85,0:19:13.19,Default,,0,0,0,,{\i1}Bo od teraz będziesz mnie kochał.{\i0}
+Dialogue: 0,0:19:43.89,0:19:46.10,Default,,0,0,0,,Już od samego ranka ciężko pracujesz!
+Dialogue: 0,0:19:47.39,0:19:48.39,Default,,0,0,0,,Tato.
+Dialogue: 0,0:19:49.35,0:19:52.10,Default,,0,0,0,,Może się ze mną zmierzysz?
+Dialogue: 0,0:19:59.28,0:20:03.74,Default,,0,0,0,,Masz niezły refleks, ale zbyt prosty.
+Dialogue: 0,0:20:03.82,0:20:07.79,Default,,0,0,0,,Musisz odpierać wiele ataków jedną nicią.
+Dialogue: 0,0:20:07.87,0:20:10.66,Default,,0,0,0,,Przytłoczyć wroga manewrami obronnymi.
+Dialogue: 0,0:20:14.96,0:20:19.17,Default,,0,0,0,,Jeśli to zrobisz,\Nzyskasz czas na atak na wroga.
+Dialogue: 0,0:20:25.05,0:20:28.51,Default,,0,0,0,,Dobry chłopak! Szybko się uczy.
+Dialogue: 0,0:20:28.60,0:20:29.68,Default,,0,0,0,,A teraz…
+Dialogue: 0,0:20:29.77,0:20:31.10,Default,,0,0,0,,Co jest?
+Dialogue: 0,0:20:31.73,0:20:33.35,Default,,0,0,0,,Wow!
+Dialogue: 0,0:20:33.44,0:20:35.81,Default,,0,0,0,,To rękawice stalowej pajęczyny.
+Dialogue: 0,0:20:35.90,0:20:38.90,Default,,0,0,0,,Pasują do ciebie bardziej\Nniż broń czy noże.
+Dialogue: 0,0:20:38.98,0:20:41.03,Default,,0,0,0,,Mamy takie same pary!
+Dialogue: 0,0:20:41.11,0:20:42.11,Default,,0,0,0,,Co?
+Dialogue: 0,0:20:42.19,0:20:45.61,Default,,0,0,0,,{\i1}Dotąd ćwiczyłeś gołymi rękoma,{\i0}
+Dialogue: 0,0:20:45.70,0:20:48.12,Default,,0,0,0,,{\i1}więc czułeś każdy ruch tych nici.{\i0}
+Dialogue: 0,0:20:48.20,0:20:51.75,Default,,0,0,0,,{\i1}Dzięki temu twoje nici{\i0}\N{\i1}są jeszcze ostrzejsze.{\i0}
+Dialogue: 0,0:20:51.83,0:20:55.92,Default,,0,0,0,,{\i1}Następnym krokiem jest zrozumienie{\i0}\N{\i1}prawdziwej natury tej mocy.{\i0}
+Dialogue: 0,0:20:56.92,0:20:59.92,Default,,0,0,0,,Jak chcesz wykorzystać tę moc?
+Dialogue: 0,0:21:00.59,0:21:03.88,Default,,0,0,0,,Użyję jej, by wszystkich chronić.
+Dialogue: 0,0:21:04.59,0:21:06.22,Default,,0,0,0,,Czyżby?
+Dialogue: 0,0:21:06.30,0:21:09.39,Default,,0,0,0,,Nitki przecinają wrogów\Ni otaczają sojuszników.
+Dialogue: 0,0:21:09.89,0:21:14.69,Default,,0,0,0,,Te rękawice może i są bronią,\Nale są też zbroją, która ochroni dłonie.
+Dialogue: 0,0:21:14.77,0:21:16.98,Default,,0,0,0,,Wkładam serce w tkanie ich,
+Dialogue: 0,0:21:17.06,0:21:19.52,Default,,0,0,0,,żeby nic ci się nie stało.
+Dialogue: 0,0:21:19.61,0:21:21.65,Default,,0,0,0,,Opiekuj się nimi.
+Dialogue: 0,0:21:21.73,0:21:23.53,Default,,0,0,0,,Dzięki, tato.
+Dialogue: 0,0:21:24.32,0:21:26.11,Default,,0,0,0,,Będę je pielęgnować.
+Dialogue: 0,0:21:34.91,0:21:38.38,Default,,0,0,0,,Nie musisz mi robić prania mózgu.
+Dialogue: 0,0:21:38.88,0:21:40.00,Default,,0,0,0,,Przecież
+Dialogue: 0,0:21:40.67,0:21:42.25,Default,,0,0,0,,kocham cię, tato.
+Dialogue: 0,0:21:42.76,0:21:44.13,Default,,0,0,0,,Zawsze.
+Dialogue: 0,0:21:47.18,0:21:51.18,Default,,0,0,0,,Dlatego powinienem był cię powstrzymać,\Nale nie mogłem tego zrobić.
+Dialogue: 0,0:21:51.68,0:21:52.68,Default,,0,0,0,,Bo
+Dialogue: 0,0:21:52.77,0:21:57.69,Default,,0,0,0,,miałem nadzieję, że moja rodzina wróci.
+Dialogue: 0,0:21:58.73,0:22:00.82,Default,,0,0,0,,{\i1}Choć wiedziałem, że do tego nie dojdzie.{\i0}
+Dialogue: 0,0:22:01.73,0:22:03.03,Default,,0,0,0,,Nie różnię się od ciebie,
+Dialogue: 0,0:22:03.11,0:22:04.24,Default,,0,0,0,,tato.
+Dialogue: 0,0:22:07.40,0:22:10.87,Default,,0,0,0,,Zakończmy to teraz… dla nas samych.
+Dialogue: 0,0:22:33.26,0:22:35.56,Default,,0,0,0,,Żegnaj, tato.
+Dialogue: 0,0:24:16.91,0:24:18.91,Default,,0,0,0,,Napisy: Małgorzata Ciborska
+
