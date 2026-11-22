@@ -1,0 +1,344 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DefaultItalics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DefaultTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DefaultItalicsTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DefaultOverlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: FlashbackItalics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: FlashbackTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: FlashbackItalicsTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Signs,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,0
+Style: Credits,Arial,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,30,30,18,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.91,0:00:04.93,Flashback,FRIEDRICH,0,0,0,,You have to escape, even if it's just you.
+Dialogue: 0,0:00:04.93,0:00:07.15,Flashback,CHRIS,0,0,0,,But... Father...
+Dialogue: 0,0:00:07.54,0:00:10.21,Flashback,FRIEDRICH,0,0,0,,I'll always love you, Chris.
+Dialogue: 0,0:00:12.00,0:00:14.34,Flashback,CHRIS,0,0,0,,Father! Father!
+Dialogue: 0,0:00:14.34,0:00:16.74,Flashback,CHRIS,0,0,0,,Father! Father!
+Dialogue: 0,0:00:18.14,0:00:20.54,Flashback,CHRIS,0,0,0,,Father! Father!
+Dialogue: 0,0:00:49.30,0:00:53.04,Flashback,CHRIS,0,0,0,,Father!
+Dialogue: 1,0:02:24.74,0:02:26.74,Signs,TITLE,0,0,0,,{\an7\fad(1359,308)\bord2\fnArial Black\c&HFFFF91&\3c&HF8C034&\blur1\pos(200,262)\frz14.71\4c&HFFFC65&\shad2}Reborn as a Space Mercenary:\NI Woke Up Piloting the Strongest Starship!
+Dialogue: 0,0:02:26.37,0:02:28.99,Signs,TITLE,0,0,0,,{\an7\fad(396,1)\bord2\fnArial Black\c&HF6FAFE&\3c&HA46B01&\frz14.71\pos(200,262)\4c&H00DFE2&\shad2}Reborn as a {\c&H00ECF6&\3c&H0D0812&}Space Mercenary:\N{\c&HFEFDFB&\3c&HAFA7A8&}I Woke Up Piloting the {\c&HFFFDFB&\3c&HC77F00&}Strongest Starship!
+Dialogue: 0,0:02:31.04,0:02:34.84,Signs,EPTITLE,0,0,0,,{\fad(736,888)\fnVerdana\c&HFFFFFF&\shad2\b0\blur3\t(27,736,\blur0.2)\t(3072,3947,\blur3)\pos(106,265)}Sleeping Beauty
+Dialogue: 0,0:02:38.42,0:02:40.56,Default,ELMA,0,0,0,,What should we do when we get there?
+Dialogue: 0,0:02:40.85,0:02:45.94,Default,MIMI,0,0,0,,I'd like to swim \Nand try some fresh seafood.
+Dialogue: 0,0:02:45.94,0:02:47.66,Default,MIMI,0,0,0,,They use natural ingredients.
+Dialogue: 0,0:02:47.66,0:02:50.68,Default,ELMA,0,0,0,,All you care about is food, Mimi.
+Dialogue: 0,0:02:50.68,0:02:53.35,Default,MIMI,0,0,0,,They have booze that's \Nonly available there, too.
+Dialogue: 0,0:02:53.35,0:02:55.05,Default,ELMA,0,0,0,,Tell me more.
+Dialogue: 0,0:02:55.05,0:02:55.82,Default,MIMI,0,0,0,,Certainly!
+Dialogue: 0,0:02:56.76,0:03:01.63,DefaultItalics,HIRO/ID,0,0,0,,We're headed to the Cierra Star System, \Nwhich is famous as a resort system.
+Dialogue: 0,0:03:02.71,0:03:07.43,DefaultItalics,HIRO/ID,0,0,0,,As long as they pay, even mercenaries \Ncan have fun planetside.
+Dialogue: 0,0:03:08.64,0:03:11.73,DefaultItalics,HIRO/ID,0,0,0,,And wealthy visitors attract \Nmoney-hungry space pirates.
+Dialogue: 0,0:03:12.14,0:03:14.27,DefaultItalics,HIRO/ID,0,0,0,,It's a decent place to make money.
+Dialogue: 0,0:03:15.67,0:03:17.66,Default,ELMA,0,0,0,,I don't like that face he's making.
+Dialogue: 0,0:03:17.66,0:03:19.76,Default,MIMI,0,0,0,,Me neither.
+Dialogue: 0,0:03:20.03,0:03:22.25,Default,HIRO,0,0,0,,We're currently using a hyperlane,
+Dialogue: 0,0:03:22.25,0:03:25.29,Default,HIRO,0,0,0,,a specialized extradimensional \Nroute for interstellar travel.
+Dialogue: 0,0:03:32.10,0:03:35.61,Default,ELMA,0,0,0,,Hyperlanes are immune \Nto external interference,
+Dialogue: 0,0:03:35.95,0:03:39.06,Default,ELMA,0,0,0,,which means we can do \Nwhatever we like en route.
+Dialogue: 0,0:03:39.44,0:03:42.22,Default,MIMI,0,0,0,,I-I see.
+Dialogue: 0,0:03:42.86,0:03:45.90,DefaultItalics,HIRO/ID,0,0,0,,Elma's physical capabilities \Nmust be bugged.
+Dialogue: 0,0:03:52.73,0:03:54.82,Default,MIMI,0,0,0,,Stopping hyperdrive.
+Dialogue: 0,0:03:54.82,0:03:57.38,Default,MIMI,0,0,0,,We've arrived in the Cierra Star System.
+Dialogue: 0,0:03:57.63,0:03:59.35,Default,ELMA,0,0,0,,Checking conditions.
+Dialogue: 0,0:03:59.35,0:04:00.59,Default,ELMA,0,0,0,,All green.
+Dialogue: 0,0:04:00.59,0:04:05.30,Default,HIRO,0,0,0,,Okay. We'll use our lightspeed drive \Nto reach the Cierra Prime colony.
+Dialogue: 0,0:04:17.27,0:04:18.51,Default,ELMA,0,0,0,,What is it?
+Dialogue: 0,0:04:18.51,0:04:21.67,Default,MIMI,0,0,0,,No matter how often I see it, \Nit's still beautiful.
+Dialogue: 0,0:04:21.67,0:04:24.83,Default,ELMA,0,0,0,,Yeah, but that's not all.
+Dialogue: 0,0:04:24.83,0:04:25.61,Default,MIMI,0,0,0,,What?
+Dialogue: 0,0:04:27.21,0:04:29.06,Default,ELMA,0,0,0,,Well, speak of the devil.
+Dialogue: 0,0:04:29.06,0:04:30.78,Default,ELMA,0,0,0,,Hiro, we've got an interdictor.
+Dialogue: 0,0:04:30.78,0:04:31.40,Default,HIRO,0,0,0,,I know.
+Dialogue: 0,0:04:31.40,0:04:34.11,Default,MIMI,0,0,0,,Um, what's an interdictor?
+Dialogue: 0,0:04:34.51,0:04:39.56,Default,ELMA,0,0,0,,An external force that interrupts \Na ship during lightspeed travel.
+Dialogue: 0,0:04:39.56,0:04:43.10,Default,ELMA,0,0,0,,They're typically warships \Non patrol, or...
+Dialogue: 0,0:04:43.10,0:04:45.25,Default,HIRO,0,0,0,,Cut the lightspeed drive.
+Dialogue: 0,0:04:45.25,0:04:47.05,Default,HIRO,0,0,0,,Switch back to regular navigation.
+Dialogue: 0,0:04:57.29,0:05:00.33,Default,MIMI,0,0,0,,Thirteen unidentified ships. \NThey've locked on to us.
+Dialogue: 0,0:05:00.33,0:05:02.99,Default,ELMA,0,0,0,,I'd say they're enemy ships, \Nnot unidentified.
+Dialogue: 0,0:05:02.99,0:05:04.48,Default,HIRO,0,0,0,,Deploy chaff.
+Dialogue: 0,0:05:04.48,0:05:05.94,Default,HIRO,0,0,0,,Bring weapons system online.
+Dialogue: 0,0:05:06.20,0:05:07.39,Default,ELMA,0,0,0,,Aye-aye, sir.
+Dialogue: 0,0:05:09.88,0:05:12.45,Default,HIRO,0,0,0,,Let's make some money!
+Dialogue: 0,0:05:24.37,0:05:28.30,Default,HIRO,0,0,0,,Situation over. That was underwhelming.
+Dialogue: 0,0:05:28.30,0:05:31.12,Default,ELMA,0,0,0,,This ship is just too powerful.
+Dialogue: 0,0:05:31.12,0:05:33.95,Default,ELMA,0,0,0,,It's got more energy output and \Nfirepower than a large warship.
+Dialogue: 0,0:05:33.95,0:05:35.85,Default,HIRO,0,0,0,,Yeah, but it's finicky.
+Dialogue: 0,0:05:36.49,0:05:38.39,Default,MIMI,0,0,0,,Um, Mr. Hiro.
+Dialogue: 0,0:05:38.39,0:05:39.48,Default,HIRO,0,0,0,,What's up?
+Dialogue: 0,0:05:39.48,0:05:41.31,Default,MIMI,0,0,0,,What do you suppose this is?
+Dialogue: 0,0:05:45.64,0:05:48.24,Default,MIMI,0,0,0,,I'm detecting a life sign \Nfrom inside the pod.
+Dialogue: 0,0:05:48.46,0:05:50.08,Default,ELMA,0,0,0,,Someone's inside.
+Dialogue: 0,0:05:50.58,0:05:52.23,Default,HIRO,0,0,0,,Can we pretend we didn't see it?
+Dialogue: 0,0:05:52.23,0:05:53.92,Default,ELMA,0,0,0,,Obviously not.
+Dialogue: 0,0:05:53.92,0:05:55.70,Default,HIRO,0,0,0,,Right.
+Dialogue: 0,0:05:57.60,0:06:00.52,Default,HIRO,0,0,0,,Mimi, prioritize recovering the pod.
+Dialogue: 0,0:06:01.11,0:06:04.08,Default,MIMI,0,0,0,,Roger. What {\i1}is{\i0} this?
+Dialogue: 0,0:06:04.39,0:06:06.54,Default,HIRO,0,0,0,,A cold sleep pod.
+Dialogue: 0,0:06:06.54,0:06:09.58,Default,HIRO,0,0,0,,It's an evacuation device \Nfound on passenger ships.
+Dialogue: 0,0:06:10.33,0:06:15.89,Default,ELMA,0,0,0,,Anyone who finds a drifting pod \Nis obligated to rescue it.
+Dialogue: 0,0:06:15.89,0:06:17.76,Default,ELMA,0,0,0,,Abandoning one is a serious crime.
+Dialogue: 0,0:06:17.76,0:06:22.23,Default,MIMI,0,0,0,,I see. Then why are you making that face?
+Dialogue: 0,0:06:22.23,0:06:26.43,Default,ELMA,0,0,0,,Whoever rescues the pod is required \Nto look after its occupant for a week.
+Dialogue: 0,0:06:26.79,0:06:30.29,Default,HIRO,0,0,0,,In other words, vacation and \Nwork will have to wait.
+Dialogue: 0,0:06:30.29,0:06:34.23,Default,MIMI,0,0,0,,Oh. Still, helping people is a good thing.
+Dialogue: 0,0:06:34.70,0:06:35.73,Default,HIRO,0,0,0,,That's true.
+Dialogue: 0,0:06:35.73,0:06:36.82,Default,ELMA,0,0,0,,Yeah.
+Dialogue: 0,0:06:57.83,0:07:02.24,Default,EMPLOYEE,0,0,0,,From its ID, we determined the pod \Ncame from a luxury passenger ship
+Dialogue: 0,0:07:02.24,0:07:04.18,Default,EMPLOYEE,0,0,0,,that disappeared three months ago.
+Dialogue: 0,0:07:04.53,0:07:06.76,Default,HIRO,0,0,0,,Which means the person inside...
+Dialogue: 0,0:07:06.76,0:07:09.16,Default,ELMA,0,0,0,,...is a merchant or noble?
+Dialogue: 0,0:07:09.16,0:07:12.37,Default,EMPLOYEE,0,0,0,,Yes. There's something strange, though.
+Dialogue: 0,0:07:12.37,0:07:14.53,Default,EMPLOYEE,0,0,0,,Look at the surface of the pod.
+Dialogue: 0,0:07:15.49,0:07:18.58,Default,ELMA,0,0,0,,The distress signal emitter \Nhas been destroyed.
+Dialogue: 0,0:07:18.87,0:07:21.39,Default,ELMA,0,0,0,,Someone didn't want it to be found?
+Dialogue: 0,0:07:21.39,0:07:23.60,Default,HIRO,0,0,0,,I can already tell \Nthis is gonna be a pain.
+Dialogue: 0,0:07:23.60,0:07:25.42,Default,EMPLOYEE,0,0,0,,My condolences.
+Dialogue: 0,0:07:25.42,0:07:28.18,Default,EMPLOYEE,0,0,0,,However, I'm sure you'll \Nbe repaid handsomely.
+Dialogue: 0,0:07:28.18,0:07:31.39,Default,EMPLOYEE,0,0,0,,Resuscitation complete. \NI'm unsealing the pod.
+Dialogue: 0,0:07:40.38,0:07:41.88,Default,HIRO,0,0,0,,Could you handle this?
+Dialogue: 0,0:07:41.88,0:07:42.65,Default,ELMA,0,0,0,,Sure.
+Dialogue: 0,0:07:46.77,0:07:50.82,Default,CHRIS,0,0,0,,Don't go, Father. Don't go.
+Dialogue: 0,0:07:51.12,0:07:53.28,Default,HIRO,0,0,0,,Uh, I'm...
+Dialogue: 0,0:07:53.28,0:07:55.96,Default,ELMA,0,0,0,,Let's get the paperwork \Nover with in the meantime.
+Dialogue: 0,0:07:55.96,0:07:56.82,Default,EMPLOYEE,0,0,0,,Yeah.
+Dialogue: 0,0:07:56.82,0:07:57.75,Default,HIRO,0,0,0,,Hey!
+Dialogue: 0,0:07:57.75,0:07:59.60,Default,ELMA,0,0,0,,Good luck with that.
+Dialogue: 0,0:08:07.33,0:08:08.69,Default,HIRO,0,0,0,,Fine.
+Dialogue: 0,0:08:18.15,0:08:20.72,Default,CHRIS,0,0,0,,Father...
+Dialogue: 0,0:08:22.40,0:08:23.89,Default,HIRO,0,0,0,,I'm not him.
+Dialogue: 0,0:08:26.63,0:08:28.90,Default,HIRO,0,0,0,,You were the only one I found.
+Dialogue: 0,0:08:29.58,0:08:31.12,Default,CHRIS,0,0,0,,I see.
+Dialogue: 0,0:08:33.68,0:08:38.03,Default,CHRIS,0,0,0,,Thank you for holding my hand.
+Dialogue: 0,0:08:38.84,0:08:40.11,Default,HIRO,0,0,0,,No problem.
+Dialogue: 0,0:08:48.87,0:08:51.82,Default,CHRIS,0,0,0,,My name is Christina Dalenwald.
+Dialogue: 0,0:08:52.35,0:08:57.60,Default,CHRIS,0,0,0,,I am the heir to House Dalenwald and the \Ndaughter of Count Friedrich Dalenwald.
+Dialogue: 0,0:08:58.05,0:09:03.22,DefaultItalics,HIRO/ID,0,0,0,,A young noble lady... and a \Ndestroyed distress signal emitter.
+Dialogue: 0,0:09:03.22,0:09:05.20,DefaultItalics,HIRO/ID,0,0,0,,Yeah, this definitely spells trouble.
+Dialogue: 0,0:09:05.20,0:09:08.46,Default,HIRO,0,0,0,,I'm Captain Hiro. I'm a \Nsilver-rank mercenary.
+Dialogue: 0,0:09:08.93,0:09:09.86,Default,HIRO,0,0,0,,Call me Hiro.
+Dialogue: 0,0:09:10.12,0:09:12.31,Default,CHRIS,0,0,0,,Certainly, Mr. Hiro.
+Dialogue: 0,0:09:12.69,0:09:15.54,Default,CHRIS,0,0,0,,Please call me Chris.
+Dialogue: 0,0:09:16.66,0:09:20.97,Default,CHRIS,0,0,0,,Could you describe my \Nsituation in detail?
+Dialogue: 0,0:09:24.79,0:09:25.96,Default,HIRO,0,0,0,,...and that's the story.
+Dialogue: 0,0:09:26.41,0:09:31.19,Default,HIRO,0,0,0,,We'll protect you until your family \Ncomes to get you. Don't worry.
+Dialogue: 0,0:09:32.81,0:09:33.88,Default,HIRO,0,0,0,,What's wrong?
+Dialogue: 0,0:09:35.30,0:09:38.37,Default,CHRIS,0,0,0,,You'll really protect me?
+Dialogue: 0,0:09:41.51,0:09:45.56,Default,CHRIS,0,0,0,,Will you really protect me, Mr. Hiro?
+Dialogue: 0,0:09:47.48,0:09:52.78,Default,HIRO,0,0,0,,Yeah. For a limited time, \NI'll serve as your knight, milady.
+Dialogue: 0,0:09:57.39,0:10:02.41,Default,HIRO,0,0,0,,I, Hiro, swear to protect \Nyou as your knight.
+Dialogue: 0,0:10:04.04,0:10:05.32,Default,HIRO,0,0,0,,Or something like that.
+Dialogue: 0,0:10:07.98,0:10:13.50,Default,CHRIS,0,0,0,,My personal knight? I feel like I've \Nbecome the protagonist of a holo-novel.
+Dialogue: 0,0:10:15.89,0:10:20.51,Default,CHRIS,0,0,0,,My father, Friedrich Dalenwald, \Nwas murdered.
+Dialogue: 0,0:10:20.81,0:10:21.98,Default,HIRO,0,0,0,,What?
+Dialogue: 0,0:10:21.98,0:10:27.44,Default,CHRIS,0,0,0,,The mastermind was Balthazar \NDalenwald, my uncle.
+Dialogue: 0,0:10:27.65,0:10:29.65,Default,HIRO,0,0,0,,Could there be some mistake?
+Dialogue: 0,0:10:30.13,0:10:31.24,Default,CHRIS,0,0,0,,No.
+Dialogue: 0,0:10:32.70,0:10:36.91,Default,CHRIS,0,0,0,,Both my parents sacrificed \Nthemselves so I could escape.
+Dialogue: 0,0:10:37.35,0:10:42.16,Default,CHRIS,0,0,0,,My uncle's agents must still be in the \NCierra Star System looking for me.
+Dialogue: 0,0:10:44.15,0:10:47.56,Default,CHRIS,0,0,0,,Um, could you forget \Nwhat I just told you?
+Dialogue: 0,0:10:47.56,0:10:48.28,Default,HIRO,0,0,0,,What?
+Dialogue: 0,0:10:48.65,0:10:53.78,Default,CHRIS,0,0,0,,I can't bring an outsider into \NDalenwald family matters.
+Dialogue: 0,0:10:53.78,0:10:56.00,Default,CHRIS,0,0,0,,So please, pretend I said nothing.
+Dialogue: 0,0:10:59.81,0:11:02.74,Default,HIRO,0,0,0,,Unfortunately, I already \Nswore I'd be your knight.
+Dialogue: 0,0:11:02.74,0:11:04.68,Default,HIRO,0,0,0,,I'm not taking that back.
+Dialogue: 0,0:11:05.00,0:11:05.63,Default,CHRIS,0,0,0,,What?
+Dialogue: 0,0:11:06.04,0:11:09.78,Default,HIRO,0,0,0,,In addition to being your knight, \NI'm also a mercenary.
+Dialogue: 0,0:11:10.21,0:11:12.57,Default,HIRO,0,0,0,,I require payment for my work.
+Dialogue: 0,0:11:12.57,0:11:15.59,Default,CHRIS,0,0,0,,Um, such as...?
+Dialogue: 0,0:11:15.59,0:11:20.02,Default,HIRO,0,0,0,,Anything. It's time to negotiate, milady.
+Dialogue: 0,0:11:20.39,0:11:22.59,Default,HIRO,0,0,0,,How will you reward me?
+Dialogue: 0,0:11:22.59,0:11:24.09,Default,CHRIS,0,0,0,,Reward you?
+Dialogue: 0,0:11:26.12,0:11:29.32,Default,CHRIS,0,0,0,,In that case, take this treasure of mine.
+Dialogue: 0,0:11:33.74,0:11:36.00,Default,HIRO,0,0,0,,Then I'll hold onto this.
+Dialogue: 0,0:11:36.41,0:11:38.18,Default,HIRO,0,0,0,,Once I finish defending you
+Dialogue: 0,0:11:38.18,0:11:43.46,Default,HIRO,0,0,0,,and receive my official reward from \NCount Dalenwald, I'll return it.
+Dialogue: 0,0:11:44.73,0:11:45.81,Default,CHRIS,0,0,0,,Okay.
+Dialogue: 0,0:11:49.30,0:11:52.37,Default,CHRIS,0,0,0,,I'm counting on you, my knight.
+Dialogue: 0,0:11:52.37,0:11:53.29,Default,HIRO,0,0,0,,As you wish.
+Dialogue: 0,0:12:00.57,0:12:05.99,Signs,TITLE,0,0,0,,{\fad(901,1)\fs12\fscx88\an7\bord1.5\fnArial Black\c&HF6FAFE&\3c&HA46B01&\frz14.71\4c&H1FEEFA&\shad1.5\pos(462,274)}Reborn as a {\c&H00ECF6&\3c&H0D0812&}Space Mercenary:\N{\c&HFEFDFB&\3c&HAFA7A8&}I Woke Up Piloting the {\c&HFFFDFB&\3c&HC77F00&}Strongest Starship!
+Dialogue: 0,0:12:05.99,0:12:11.00,Signs,TITLE,0,0,0,,{\fs12\fscx88\an7\bord1.5\fnArial Black\c&HF6FAFE&\3c&HA46B01&\frz14.71\4c&H1FEEFA&\shad1.5\pos(452,270)}Reborn as a {\c&H00ECF6&\3c&H0D0812&}Space Mercenary:\N{\c&HFEFDFB&\3c&HAFA7A8&}I Woke Up Piloting the {\c&HFFFDFB&\3c&HC77F00&}Strongest Starship!
+Dialogue: 0,0:12:11.19,0:12:14.45,Default,MIMI,0,0,0,,I'm Mimi. Nice to meet you, Chris.
+Dialogue: 0,0:12:15.64,0:12:18.60,DefaultItalics,HIRO/ID,0,0,0,,She must be happy to have a girl \Ncloser to her age on the ship.
+Dialogue: 0,0:12:22.73,0:12:24.34,Default,HIRO,0,0,0,,What's Elma's problem?
+Dialogue: 0,0:12:24.66,0:12:27.55,Default,MIMI,0,0,0,,This, probably.
+Dialogue: 0,0:12:27.55,0:12:29.89,Default,HIRO,0,0,0,,I'm gold rank?
+Dialogue: 0,0:12:30.57,0:12:32.95,Default,MIMI,0,0,0,,Congratulations, Mr. Hiro.
+Dialogue: 0,0:12:33.39,0:12:36.65,Default,HIRO,0,0,0,,So you're grumpy because \NI outrank you now.
+Dialogue: 0,0:12:36.65,0:12:39.26,Default,ELMA,0,0,0,,Nuh-uh. I'm just a little frustrated.
+Dialogue: 0,0:12:39.51,0:12:44.93,Default,HIRO,0,0,0,,Oh, please. Whatever our ranks, \Nyou'll always be the veteran between us.
+Dialogue: 0,0:12:44.93,0:12:46.87,Default,ELMA,0,0,0,,Are you riling me up? \NYou are, aren't you?
+Dialogue: 0,0:12:46.87,0:12:48.48,Default,ELMA,0,0,0,,You've got some nerve!
+Dialogue: 0,0:12:51.08,0:12:52.92,Default,HIRO,0,0,0,,How did you even do that?!
+Dialogue: 0,0:12:52.92,0:12:54.79,Default,HIRO,0,0,0,,I didn't have time to react!
+Dialogue: 0,0:12:54.79,0:12:56.37,Default,CHRIS,0,0,0,,U-Um...
+Dialogue: 0,0:12:56.37,0:12:59.05,Default,MIMI,0,0,0,,It's okay. They're actually good friends.
+Dialogue: 0,0:12:59.41,0:13:00.57,Default,CHRIS,0,0,0,,I see...
+Dialogue: 0,0:13:02.62,0:13:06.30,Default,ELMA,0,0,0,,Now that I've gotten that out of my \Nsystem, let's get down to business.
+Dialogue: 0,0:13:06.30,0:13:08.25,Default,HIRO,0,0,0,,S-Sure.
+Dialogue: 0,0:13:08.76,0:13:12.15,Default,HIRO,0,0,0,,Chris's real name is Christina Dalenwald.
+Dialogue: 0,0:13:12.15,0:13:14.63,Default,HIRO,0,0,0,,She's the daughter of Count Dalenwald.
+Dialogue: 0,0:13:15.31,0:13:19.77,Default,HIRO,0,0,0,,The details are in this holo-message \Nshe's sending to call for help.
+Dialogue: 0,0:13:20.79,0:13:24.33,Flashback,CHRIS,0,0,0,,Grandfather, it's me, Christina.
+Dialogue: 0,0:13:24.33,0:13:26.35,Flashback,CHRIS,0,0,0,,I know you've been worried.
+Dialogue: 0,0:13:27.53,0:13:31.24,Flashback,CHRIS,0,0,0,,We were attacked by my uncle, Balthazar.
+Dialogue: 0,0:13:31.90,0:13:36.07,Flashback,CHRIS,0,0,0,,My parents sacrificed themselves \Nso I could escape.
+Dialogue: 0,0:13:36.52,0:13:41.97,Flashback,CHRIS,0,0,0,,Fortunately, after I escaped, \NMr. Hiro here rescued me.
+Dialogue: 0,0:13:43.17,0:13:45.21,Flashback,HIRO,0,0,0,,My name is Captain Hiro.
+Dialogue: 0,0:13:45.94,0:13:52.18,Flashback,HIRO,0,0,0,,I'm just a mercenary, but I'll \Nuse everything at my disposal
+Dialogue: 0,0:13:52.18,0:13:55.37,Flashback,HIRO,0,0,0,,to protect Lady Christina \Nuntil you can come get her.
+Dialogue: 0,0:13:55.72,0:13:59.30,Flashback,CHRIS,0,0,0,,I've decided to entrust \Nmy fate to Mr. Hiro.
+Dialogue: 0,0:13:59.75,0:14:05.48,Flashback,CHRIS,0,0,0,,However, we'll need your help \Nto escape Balthazar's clutches.
+Dialogue: 0,0:14:06.10,0:14:10.38,Flashback,CHRIS,0,0,0,,I hope you'll come see me \Nas soon as possible.
+Dialogue: 0,0:14:12.92,0:14:16.16,Default,MIMI,0,0,0,,Oh, Chris!
+Dialogue: 0,0:14:17.87,0:14:21.97,Default,ELMA,0,0,0,,House Dalenwald's from \Nthe Dexar Star System.
+Dialogue: 0,0:14:21.97,0:14:24.73,Default,ELMA,0,0,0,,It'll take five days for your \Nholo-message to get there
+Dialogue: 0,0:14:24.73,0:14:27.00,Default,ELMA,0,0,0,,and at least ten for help to arrive.
+Dialogue: 0,0:14:27.40,0:14:29.88,Default,ELMA,0,0,0,,This is gonna be a huge pain in the ass.
+Dialogue: 0,0:14:29.88,0:14:32.10,Default,HIRO,0,0,0,,Yeah, so I'd like to do whatever we can.
+Dialogue: 0,0:14:32.34,0:14:33.56,Default,ELMA,0,0,0,,Right.
+Dialogue: 0,0:14:33.96,0:14:38.71,Default,ELMA,0,0,0,,If the enemy's from a count's house, \Nhe'll try to stop the message in transit.
+Dialogue: 0,0:14:38.71,0:14:42.96,Default,ELMA,0,0,0,,Fine. I'll use all my connections to \Nmake sure her message gets there.
+Dialogue: 0,0:14:42.96,0:14:44.73,Default,HIRO,0,0,0,,I knew you could do it, veteran.
+Dialogue: 0,0:14:44.73,0:14:45.79,Default,ELMA,0,0,0,,Jerk.
+Dialogue: 0,0:14:48.02,0:14:50.54,Default,HIRO,0,0,0,,Mimi, could you show Chris around?
+Dialogue: 0,0:14:50.54,0:14:54.28,Default,MIMI,0,0,0,,Got it. Let's go, Chris.
+Dialogue: 0,0:14:54.28,0:14:55.48,Default,CHRIS,0,0,0,,Oh, okay.
+Dialogue: 0,0:14:57.72,0:15:00.16,Default,HIRO,0,0,0,,Now, what should I do?
+Dialogue: 0,0:15:00.45,0:15:04.12,DefaultItalics,HIRO/ID,0,0,0,,Close-quarters combat should \Nbe avoided at all costs.
+Dialogue: 0,0:15:04.64,0:15:07.34,DefaultItalics,HIRO/ID,0,0,0,,If I have to fight, I'd like \Nto stick to my strengths.
+Dialogue: 0,0:15:07.34,0:15:10.60,DefaultItalics,HIRO/ID,0,0,0,,I'd rather use the Krishna \Nto fight a ship-to-ship battle.
+Dialogue: 0,0:15:12.36,0:15:16.49,DefaultItalics,HIRO/ID,0,0,0,,The best option is to hole up on the \NKrishna until help arrives, but...
+Dialogue: 0,0:15:19.43,0:15:20.30,Default,HIRO,0,0,0,,What's up?
+Dialogue: 0,0:15:20.30,0:15:22.28,Default,ELMA,0,0,0,,I'm being followed.
+Dialogue: 0,0:15:22.28,0:15:23.61,Default,HIRO,0,0,0,,What?!
+Dialogue: 0,0:15:26.55,0:15:27.93,Default,ELMA,0,0,0,,I'm back.
+Dialogue: 0,0:15:28.15,0:15:30.44,Default,ELMA,0,0,0,,I sent the message.
+Dialogue: 0,0:15:30.44,0:15:32.19,Default,HIRO,0,0,0,,I'm glad you're okay!
+Dialogue: 0,0:15:32.81,0:15:34.18,Default,ELMA,0,0,0,,Wh-Where'd that come from?
+Dialogue: 0,0:15:34.18,0:15:35.90,Default,HIRO,0,0,0,,I was worried about you.
+Dialogue: 0,0:15:35.90,0:15:38.56,Default,ELMA,0,0,0,,Well, you didn't need to be.
+Dialogue: 0,0:15:38.56,0:15:41.87,Default,ELMA,0,0,0,,Sometimes I don't know if your \Nusual confidence is an act or not.
+Dialogue: 0,0:15:44.79,0:15:45.95,Default,HIRO,0,0,0,,What?!
+Dialogue: 0,0:15:45.95,0:15:47.36,Default,ELMA,0,0,0,,Did that put you at ease?
+Dialogue: 0,0:15:47.69,0:15:48.80,Default,HIRO,0,0,0,,Yeah...
+Dialogue: 0,0:15:48.80,0:15:53.29,Default,CHRIS,0,0,0,,You can be surprisingly cute, Mr. Hiro.
+Dialogue: 0,0:15:53.29,0:15:55.26,Default,MIMI,0,0,0,,I've discovered a new side of you.
+Dialogue: 0,0:15:55.26,0:15:56.58,Default,HIRO,0,0,0,,You saw that?!
+Dialogue: 0,0:15:58.15,0:16:00.70,Default,HIRO,0,0,0,,We don't have time for this right now!
+Dialogue: 0,0:16:00.70,0:16:02.41,Default,HIRO,0,0,0,,Let's come up with our next move!
+Dialogue: 0,0:16:02.41,0:16:03.65,Default,MIMI & ELMA,0,0,0,,Okay.
+Dialogue: 0,0:16:09.10,0:16:10.63,Default,HIRO,0,0,0,,What'd you do with your tail?
+Dialogue: 0,0:16:10.63,0:16:12.04,Default,ELMA,0,0,0,,I lost them.
+Dialogue: 0,0:16:12.04,0:16:16.03,Default,ELMA,0,0,0,,But they saw my face, so it's only \Na matter of time until they find us here.
+Dialogue: 0,0:16:16.03,0:16:18.36,Default,HIRO,0,0,0,,So staying holed up here would be...
+Dialogue: 0,0:16:18.36,0:16:19.60,Default,ELMA,0,0,0,,Dangerous, for sure.
+Dialogue: 0,0:16:19.60,0:16:23.49,Default,ELMA,0,0,0,,They could poison our food \Nor water if we try to resupply.
+Dialogue: 0,0:16:25.41,0:16:29.34,Default,HIRO,0,0,0,,Or blow the dock up and make it \Nlook like an accident.
+Dialogue: 0,0:16:29.59,0:16:32.23,Default,ELMA,0,0,0,,Do you think they could cover it up?
+Dialogue: 0,0:16:32.79,0:16:35.40,Default,CHRIS,0,0,0,,Yes, with my uncle's power.
+Dialogue: 0,0:16:35.40,0:16:36.54,Default,HIRO,0,0,0,,Right.
+Dialogue: 0,0:16:46.73,0:16:47.43,Default,CHRIS,0,0,0,,Um...
+Dialogue: 0,0:16:49.07,0:16:50.11,Default,CHRIS,0,0,0,,Huh?
+Dialogue: 0,0:16:54.51,0:16:55.78,Default,HIRO,0,0,0,,Thanks.
+Dialogue: 0,0:17:05.53,0:17:09.22,Default,HIRO,0,0,0,,Hey, why don't we gather food \Nby attacking space pirates?
+Dialogue: 0,0:17:09.22,0:17:12.04,Default,ELMA,0,0,0,,Good idea. It's safer than buying it here.
+Dialogue: 0,0:17:12.34,0:17:15.91,Default,HIRO,0,0,0,,But they won't hesitate \Nto attack us out there.
+Dialogue: 0,0:17:17.09,0:17:18.21,Default,ELMA,0,0,0,,That's true.
+Dialogue: 0,0:17:18.50,0:17:22.23,Default,HIRO,0,0,0,,Should we try going to meet \NCount Dalenwald ourselves?
+Dialogue: 0,0:17:22.23,0:17:26.59,Default,ELMA,0,0,0,,With your skills and this ship, \Nit wouldn't be impossible, but...
+Dialogue: 0,0:17:26.59,0:17:29.57,Default,HIRO,0,0,0,,They'll be watching the \Nhyperlane and gateways.
+Dialogue: 0,0:17:29.57,0:17:30.93,Default,ELMA,0,0,0,,See? You already know the answer.
+Dialogue: 0,0:17:31.37,0:17:35.23,Default,ELMA,0,0,0,,By conventional navigation, \Nit'll take over a month.
+Dialogue: 0,0:17:35.23,0:17:39.66,Default,ELMA,0,0,0,,And worst case, we could pass Count \NDalenwald as he's coming to help us.
+Dialogue: 0,0:17:39.66,0:17:41.61,Default,HIRO,0,0,0,,That's a no-go, then.
+Dialogue: 0,0:17:41.82,0:17:43.76,Default,ELMA,0,0,0,,Mimi, could I get a drink, too?
+Dialogue: 0,0:17:43.76,0:17:45.50,Default,MIMI,0,0,0,,No alcohol for you.
+Dialogue: 0,0:17:45.50,0:17:47.59,Default,ELMA,0,0,0,,Aw, what?
+Dialogue: 0,0:17:58.85,0:18:00.46,Default,HIRO,0,0,0,,A resort system, huh?
+Dialogue: 0,0:18:01.77,0:18:03.63,Default,HIRO,0,0,0,,Let's take the opposite approach.
+Dialogue: 0,0:18:03.63,0:18:05.98,Default,HIRO,0,0,0,,Maybe it's okay if they chase us.
+Dialogue: 0,0:18:05.98,0:18:07.18,Default,CHRIS,0,0,0,,What?
+Dialogue: 0,0:18:09.37,0:18:11.13,Default,HIRO,0,0,0,,Anyway, that's the plan.
+Dialogue: 0,0:18:11.56,0:18:13.68,Default,MIMI,0,0,0,,B-But the cost...
+Dialogue: 0,0:18:13.68,0:18:16.03,Default,ELMA,0,0,0,,Let's ask the count to cover our expenses.
+Dialogue: 0,0:18:16.61,0:18:18.95,Default,HIRO,0,0,0,,When will the Krishna be ready to leave?
+Dialogue: 0,0:18:18.95,0:18:20.38,Default,ELMA,0,0,0,,Anytime.
+Dialogue: 0,0:18:21.06,0:18:24.95,Default,ELMA,0,0,0,,I didn't sit around doing nothing \Nwhile you were thinking.
+Dialogue: 0,0:18:24.95,0:18:26.62,Default,HIRO,0,0,0,,That's my OG.
+Dialogue: 0,0:18:26.62,0:18:29.29,Default,ELMA,0,0,0,,But we need to rest first.
+Dialogue: 0,0:18:29.29,0:18:31.48,Default,ELMA,0,0,0,,Let's be in top shape when we leave.
+Dialogue: 0,0:18:31.48,0:18:32.50,Default,HIRO,0,0,0,,Got it.
+Dialogue: 0,0:18:32.78,0:18:35.10,Default,HIRO,0,0,0,,Mimi, get us set up.
+Dialogue: 0,0:18:35.10,0:18:37.46,Default,HIRO,0,0,0,,Elma and I will rest in the meantime.
+Dialogue: 0,0:18:37.74,0:18:40.06,Default,ELMA,0,0,0,,Wake us if anything comes up.
+Dialogue: 0,0:18:40.06,0:18:42.17,Default,MIMI,0,0,0,,Okay. I'll handle it.
+Dialogue: 0,0:18:42.17,0:18:44.28,Default,HIRO,0,0,0,,All right. See you guys later.
+Dialogue: 0,0:18:54.01,0:18:55.73,Default,CHRIS,0,0,0,,Um, Ms. Mimi.
+Dialogue: 0,0:18:56.54,0:18:58.20,Default,CHRIS,0,0,0,,I'd like to talk to you.
+Dialogue: 0,0:19:05.42,0:19:06.95,Default,HIRO,0,0,0,,Is that you, Elma?
+Dialogue: 0,0:19:07.70,0:19:09.82,Default,HIRO,0,0,0,,Chris is here. Take care of yourself.
+Dialogue: 0,0:19:10.42,0:19:11.41,Default,HIRO,0,0,0,,What?!
+Dialogue: 0,0:19:15.62,0:19:16.91,Default,CHRIS,0,0,0,,U-Um...
+Dialogue: 0,0:19:18.88,0:19:22.28,Default,CHRIS,0,0,0,,P-Please be gentle.
+Dialogue: 0,0:19:22.28,0:19:23.22,Default,HIRO,0,0,0,,I'm not doing this.
+Dialogue: 0,0:19:23.22,0:19:23.81,Default,CHRIS,0,0,0,,What?
+Dialogue: 0,0:19:33.51,0:19:34.40,Default,HIRO,0,0,0,,Mimi.
+Dialogue: 0,0:19:34.40,0:19:35.38,Default,MIMI,0,0,0,,Yes?!
+Dialogue: 0,0:19:35.86,0:19:38.06,Default,HIRO,0,0,0,,You put Chris up to that, didn't you?
+Dialogue: 0,0:19:38.41,0:19:40.78,Default,MIMI,0,0,0,,I-I'm sorry.
+Dialogue: 0,0:19:40.78,0:19:44.28,Default,CHRIS,0,0,0,,It's not her fault. \NI brought up the idea.
+Dialogue: 0,0:19:44.91,0:19:45.74,Default,HIRO,0,0,0,,Why?
+Dialogue: 0,0:19:46.73,0:19:51.96,Default,CHRIS,0,0,0,,Um, the three of you are \Nsuch close friends.
+Dialogue: 0,0:19:52.90,0:19:56.64,Default,CHRIS,0,0,0,,I didn't want to be \Nthe only one left out.
+Dialogue: 0,0:19:58.92,0:20:01.11,Default,HIRO,0,0,0,,We're guarding you.
+Dialogue: 0,0:20:01.11,0:20:04.64,Default,HIRO,0,0,0,,I can't get involved with you, \Nnor do I want to.
+Dialogue: 0,0:20:04.64,0:20:05.60,Default,CHRIS,0,0,0,,But—
+Dialogue: 0,0:20:05.85,0:20:11.56,Default,HIRO,0,0,0,,If we did have relations, \Nwhat would your grandfather think?
+Dialogue: 0,0:20:11.82,0:20:12.61,Default,CHRIS,0,0,0,,What?
+Dialogue: 0,0:20:13.09,0:20:18.35,Default,HIRO,0,0,0,,He'd think some mercenary scoundrel \Nmade you damaged goods.
+Dialogue: 0,0:20:18.61,0:20:19.81,Default,CHRIS,0,0,0,,I...
+Dialogue: 0,0:20:20.06,0:20:22.99,Default,HIRO,0,0,0,,Getting carried away by \Nthat brief feeling you had
+Dialogue: 0,0:20:22.99,0:20:27.46,Default,HIRO,0,0,0,,would cause unnecessary strife \Nbetween me and Count Dalenwald.
+Dialogue: 0,0:20:27.46,0:20:28.49,Default,HIRO,0,0,0,,Am I wrong?
+Dialogue: 0,0:20:29.65,0:20:31.50,Default,CHRIS,0,0,0,,No, you're right.
+Dialogue: 0,0:20:31.97,0:20:38.58,Default,HIRO,0,0,0,,Christina Dalenwald, you should make \Nchoices appropriate to your noble status.
+Dialogue: 0,0:20:38.98,0:20:41.21,Default,HIRO,0,0,0,,That's my request as your knight.
+Dialogue: 0,0:20:41.58,0:20:44.43,Default,CHRIS,0,0,0,,I will. I'm sorry.
+Dialogue: 0,0:20:54.66,0:20:58.63,Default,HIRO,0,0,0,,Let's keep things uncomplicated, okay?
+Dialogue: 0,0:21:00.44,0:21:01.43,Default,CHRIS,0,0,0,,Okay.
+Dialogue: 0,0:21:06.98,0:21:08.96,Default,ELMA,0,0,0,,Main generator activated.
+Dialogue: 0,0:21:08.96,0:21:10.91,Default,MIMI,0,0,0,,All sensors operating normally.
+Dialogue: 0,0:21:10.91,0:21:13.09,Default,MIMI,0,0,0,,Our request to depart has been approved.
+Dialogue: 0,0:21:14.87,0:21:16.20,Default,HIRO,0,0,0,,Take us out.
+Dialogue: 0,0:21:16.20,0:21:17.40,Default,ELMA,0,0,0,,Aye-aye, sir.
+Dialogue: 0,0:21:23.00,0:21:25.58,Default,HIRO,0,0,0,,Now, let's go on vacation!
+Dialogue: 0,0:21:25.58,0:21:27.55,Default,CHRIS,0,0,0,,Vacation?
+Dialogue: 0,0:21:27.55,0:21:30.25,Default,MIMI,0,0,0,,Yes! I'm excited!
+Dialogue: 0,0:21:30.53,0:21:33.10,Default,ELMA,0,0,0,,We're gonna have a blast!
+Dialogue: 0,0:21:47.62,0:21:52.61,DefaultItalics,CHRIS,0,0,0,,We'll need your help to \Nescape Balthazar's clutches.
+Dialogue: 0,0:21:53.14,0:21:57.08,DefaultItalics,CHRIS,0,0,0,,I hope you'll come see me \Nas soon as possible.
+Dialogue: 0,0:22:06.09,0:22:10.09,Credits,CREDITS,0,0,0,,Translation: Sho Stifler\NEditing & Typesetting: Geoff Mazzolini
+Dialogue: 0,0:22:10.09,0:22:14.10,Credits,CREDITS,0,0,0,,Subtitle Timing: Edgar Cruz\NQuality Check: Alicia Ashby
+Dialogue: 0,0:23:35.01,0:23:40.09,Signs,NEXTEPTITLE,0,0,0,,{\fnTrebuchet MS\fs32\bord1.7\c&H2AFFFD&\3c&H171817&\pos(320,234)}The Resort Planet Cierra III
+
