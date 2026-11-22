@@ -1,0 +1,364 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+LayoutResX: 640
+LayoutResY: 360
+Audio File: ?video
+Video File: ..\CR_AceOfTheDiamond_S4E20_AODSIM0198_377045_video_ja-jp_J12861781.mp4
+Video Position: 31531
+Last Style Storage: Default
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: DiamondAce_Main,Adobe Arabic,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,10,10,20,1
+Style: DiamondAce_Main - Top,Adobe Arabic,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+Style: DiamondAce_Italics,Adobe Arabic,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,2,10,10,20,1
+Style: DiamondAce_Italics - Top,Adobe Arabic,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+Style: DiamondAce_Flashback,Adobe Arabic,26,&H00E6E6E6,&H000000FF,&H00300000,&H00300000,-1,0,0,0,100,100,0,0,1,1,0,2,10,10,20,0
+Style: DiamondAce_Flashback Italics,Adobe Arabic,26,&H00E6E6E6,&H000000FF,&H00300000,&H00300000,-1,-1,0,0,100,100,0,0,1,1,0,2,10,10,20,0
+Style: DiamondAce_Ep_Title,Adobe Arabic,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,15,40,67,1
+Style: DiamondAce_Announcer_Italics,Adobe Arabic,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Sign_Basic,Adobe Arabic,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Innings,Adobe Arabic,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,9,80,80,25,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.30,0:00:04.68,DiamondAce_Flashback,Fan A,0000,0000,0000,,!عاد ذلك الرّقم 7
+Dialogue: 0,0:00:04.68,0:00:06.13,DiamondAce_Flashback Italics,Aso,0000,0000,0000,,…أنا مسرور للغاية
+Dialogue: 0,0:00:06.13,0:00:08.68,DiamondAce_Flashback Italics,Aso,0000,0000,0000,,!يسرّني أنّني ألعب البيسبول
+Dialogue: 0,0:00:09.00,0:00:10.14,DiamondAce_Flashback,Kataoka,0000,0000,0000,,!ساوامورا
+Dialogue: 0,0:00:10.14,0:00:10.96,DiamondAce_Flashback,Sawamura,0000,0000,0000,,!حاضر
+Dialogue: 0,0:00:10.96,0:00:13.25,DiamondAce_Flashback,Kataoka,0000,0000,0000,,يُقارب فورويا المئة رمية
+Dialogue: 0,0:00:13.25,0:00:15.62,DiamondAce_Flashback,Kataoka,0000,0000,0000,,سيكون مُرهَقاً من استخدام كامل\Nقوّته منذ البداية
+Dialogue: 0,0:00:15.85,0:00:18.58,DiamondAce_Flashback,Kataoka,0000,0000,0000,,إذا بدأ يترنّح، فسوف أُدخلك
+Dialogue: 0,0:00:20.65,0:00:23.37,DiamondAce_Flashback,Dialogue,0000,0000,0000,,يبدأ إيناشيرو الصّناعيّة في النّصف الثّاني\Nمن الشّوط السّادس
+Dialogue: 0,0:00:23.37,0:00:26.11,DiamondAce_Flashback,Commentator,0000,0000,0000,,،في القاعدة الرّئيسيّة لاعب الحفرة 5\N!الرّامي، ناروميا
+Dialogue: 0,0:00:26.11,0:00:28.67,DiamondAce_Flashback,Commentator,0000,0000,0000,,إنّها الضّربة 532 له في هذه البطولة
+Dialogue: 0,0:00:28.67,0:00:31.17,DiamondAce_Flashback,Commentator,0000,0000,0000,,!من المُرعِب مُواجهته كضارب أيضاً
+Dialogue: 0,0:00:31.17,0:00:35.93,DiamondAce_Flashback Italics,Miyuki,0000,0000,0000,,أنا متأكّد بأنّه يريد التّنفيس عن إحباطه\Nمن التخلّي عن الصّدارة
+Dialogue: 0,0:00:36.20,0:00:37.52,DiamondAce_Flashback Italics,Miyuki,0000,0000,0000,,لن أسمح بحدوث ذلك
+Dialogue: 0,0:00:39.42,0:00:41.17,DiamondAce_Flashback,Maezono,0000,0000,0000,,!عليك بهم واحداً تلو الآخر
+Dialogue: 0,0:00:41.17,0:00:43.13,DiamondAce_Flashback,Haruichi,0000,0000,0000,,!فورويا-كن! إلى الهجوم
+Dialogue: 0,0:00:43.36,0:00:44.60,DiamondAce_Flashback,Kuramochi,0000,0000,0000,,!أذقه ما لديك
+Dialogue: 0,0:00:44.60,0:00:47.07,DiamondAce_Flashback,Aso,0000,0000,0000,,!أنا هنا! عُلِم
+Dialogue: 0,0:00:47.29,0:00:50.22,DiamondAce_Flashback Italics,Narumiya,0000,0000,0000,,…لن أدع هذا الأمر ينتهي بخروج وإصابة
+Dialogue: 0,0:00:50.22,0:00:51.51,DiamondAce_Flashback Italics,Narumiya,0000,0000,0000,,تعال إليّ يا فورويا
+Dialogue: 0,0:00:55.90,0:00:58.33,DiamondAce_Flashback,Commentator,0000,0000,0000,,!الرّمية الأولى سريعة، خطأ ضربة
+Dialogue: 0,0:00:58.75,0:01:01.07,DiamondAce_Flashback Italics,Miyuki,0000,0000,0000,,فعلَها في توقيت مُناسب
+Dialogue: 0,0:01:01.31,0:01:03.99,DiamondAce_Flashback Italics,Narumiya,0000,0000,0000,,تبّاً لك. لن أسقط
+Dialogue: 0,0:01:18.85,0:01:21.06,DiamondAce_Flashback Italics,Narumiya,0000,0000,0000,,إنّه يخرج عن السّيطرة
+Dialogue: 0,0:01:21.47,0:01:25.73,DiamondAce_Flashback Italics,Miyuki,0000,0000,0000,,…أنت تبذل جهداً كبيراً. عليك بكُرة أدنى وأبطأ
+Dialogue: 0,0:01:29.60,0:01:33.11,DiamondAce_Flashback,Commentator,0000,0000,0000,,ضربة قويّة نحو اليسار هي صيد\N!سهل بالنّسبة لآسو
+Dialogue: 0,0:01:33.92,0:01:35.82,DiamondAce_Flashback,Commentator,0000,0000,0000,,!يُمسك بها وبالتّالي الخروج الأوّل
+Dialogue: 0,0:01:36.09,0:01:39.28,DiamondAce_Flashback,Commentator,0000,0000,0000,,!المُحاولة الثّانية له ويخسر أمام فورويا من جديد
+Dialogue: 0,0:01:41.92,0:01:43.40,DiamondAce_Flashback,Furuya,0000,0000,0000,,سأُتابع
+Dialogue: 0,0:01:43.40,0:01:47.03,DiamondAce_Flashback,Furuya,0000,0000,0000,,ما دمتُ أستطيع لعب البيسبول، سأبقى\Nفي هذا الطّريق
+Dialogue: 0,0:01:48.86,0:01:51.18,DiamondAce_Flashback,Sawamura,0000,0000,0000,,!لا تُحاول إسقاطه بنفسك
+Dialogue: 0,0:01:51.18,0:01:52.37,DiamondAce_Flashback,Sawamura,0000,0000,0000,,!دع اللّاعبين الميدانيّين يُساعدونك
+Dialogue: 0,0:01:52.60,0:01:54.70,DiamondAce_Flashback Italics,Tadano,0000,0000,0000,,سيُنهَك عمّا قريب
+Dialogue: 0,0:01:55.37,0:01:57.31,DiamondAce_Flashback Italics,Tadano,0000,0000,0000,,…اجعله يرمي أكبر قدر مُمكن، و
+Dialogue: 0,0:02:07.10,0:02:10.43,DiamondAce_Flashback Italics,Furuya,0000,0000,0000,,مُهِّدَ الطّريق لأجلي منذ مجيئي إلى هنا
+Dialogue: 0,0:02:13.85,0:02:16.12,DiamondAce_Flashback Italics,Furuya,0000,0000,0000,,في البيسبول، أستطيع أن أكون أنا
+Dialogue: 0,0:02:16.93,0:02:18.29,DiamondAce_Flashback Italics,Furuya,0000,0000,0000,,قد أكون أنانيّاً
+Dialogue: 0,0:02:20.73,0:02:23.71,DiamondAce_Flashback Italics,Furuya,0000,0000,0000,,،لأنّ هذا المكان موجود هنا لأجلي\Nأستطيع القتال
+Dialogue: 0,0:02:29.68,0:02:32.03,DiamondAce_Flashback Italics,Furuya,0000,0000,0000,,!أستطيع ضربها بقوّتي الكاملة
+Dialogue: 0,0:02:34.08,0:02:36.05,DiamondAce_Flashback,Commentator,0000,0000,0000,,!إصابة! خروج له
+Dialogue: 0,0:02:36.05,0:02:39.01,DiamondAce_Main,Fan A,0000,0000,0000,,!مُذهل! سلسلة من رميات الـ 150 كم\سا
+Dialogue: 0,0:02:36.56,0:02:37.54,DiamondAce_Main - Top,Fan B,0000,0000,0000,,!بلا حدود
+Dialogue: 0,0:02:37.54,0:02:38.97,DiamondAce_Main - Top,Fan D,0000,0000,0000,,!فورويا مجنون
+Dialogue: 0,0:02:39.01,0:02:40.46,DiamondAce_Main,Fan C,0000,0000,0000,,!بأقصى قوّة
+Dialogue: 0,0:02:40.81,0:02:45.34,DiamondAce_Flashback,Kataoka,0000,0000,0000,,حميتَ تقدُّمَنا. لا شكاوى لديّ بشأن رميك
+Dialogue: 0,0:02:45.34,0:02:46.57,DiamondAce_Flashback,Tada,0000,0000,0000,,!أحسنت صنعاً
+Dialogue: 0,0:02:46.86,0:02:49.72,DiamondAce_Flashback,Kataoka,0000,0000,0000,,فورويا، ستكون في اليسار ابتداء\Nمن الشّوط السّابع
+Dialogue: 0,0:02:50.73,0:02:52.23,DiamondAce_Flashback,Kataoka,0000,0000,0000,,ساوامورا، ستدخل أنت
+Dialogue: 0,0:02:52.56,0:02:53.69,DiamondAce_Flashback,Sawamura,0000,0000,0000,,!حاضر
+Dialogue: 0,0:02:54.37,0:02:57.20,DiamondAce_Flashback Italics,Miyuki,0000,0000,0000,,سبب قدرته على استخدام كامل قوّته\Nمنذ الأشواط الأولى
+Dialogue: 0,0:02:57.61,0:02:59.30,DiamondAce_Flashback Italics,Miyuki,0000,0000,0000,,هو لأنّ ساوامورا كان هناك
+Dialogue: 0,0:02:59.91,0:03:03.13,DiamondAce_Flashback Italics,Miyuki,0000,0000,0000,,يمكننا نقل العصا من شخص لآخر\Nفي ظلّ أفضل الظّروف المُمكنة
+Dialogue: 0,0:03:06.86,0:03:08.04,DiamondAce_Flashback,Furuya,0000,0000,0000,,واظب على ذلك
+Dialogue: 0,0:03:08.38,0:03:10.96,DiamondAce_Flashback,Sawamura,0000,0000,0000,,!أجل. دع الأمر لي
+Dialogue: 0,0:04:41.00,0:04:45.43,DiamondAce_Ep_Title,sign,0000,0000,0000,,{\pos(116,295)}العصا
+Dialogue: 0,0:04:43.43,0:04:45.10,DiamondAce_Main,Furuya,0000,0000,0000,,أنا جاهز للعودة في أيّ وقت
+Dialogue: 0,0:04:45.79,0:04:47.39,DiamondAce_Main,Sawamura,0000,0000,0000,,لا، أنا بخير
+Dialogue: 0,0:04:47.39,0:04:49.80,DiamondAce_Main,Furuya,0000,0000,0000,,إذاً سأدعمك بقفّازي ومِضربي
+Dialogue: 0,0:04:50.57,0:04:52.91,DiamondAce_Main,Kuramochi,0000,0000,0000,,أينتقلون إلى اللّاعب الأوّل الآن؟
+Dialogue: 0,0:04:52.91,0:04:54.52,DiamondAce_Main,Shirasu,0000,0000,0000,,رامي كُرات بديل عنيف
+Dialogue: 0,0:04:54.81,0:04:56.44,DiamondAce_Main,Maezono,0000,0000,0000,,!أجل
+Dialogue: 0,0:04:56.44,0:05:00.00,DiamondAce_Main,Maezono,0000,0000,0000,,!لنفعلها في هذا الشّوط أيضاً\N!لا تدعوا أي رمية تتجاوزكم
+Dialogue: 0,0:05:00.00,0:05:00.89,DiamondAce_Main,All,0000,0000,0000,,!أجل
+Dialogue: 0,0:05:00.90,0:05:05.90,Innings,sign,0000,0000,0000,,{\fad(0,500)\pos(560,34)}النّصف الأوّل من الشّوط السّابع
+Dialogue: 0,0:05:01.11,0:05:04.49,DiamondAce_Main,Commentator,0000,0000,0000,,ندخل الشّوط السّابع بفارق نقطة واحدة
+Dialogue: 0,0:05:04.49,0:05:08.53,DiamondAce_Main,Commentator,0000,0000,0000,,تبدأ تشكيلة ثانويّة سيدو بلاعب الحفرة 8\Nالخاصّ بهم، رجل القاعدة الثّالثة، كانيمارو
+Dialogue: 0,0:05:14.98,0:05:18.45,DiamondAce_Main,Commentator,0000,0000,0000,,ضاربهم الأوّل، كانيمارو، يحرز الخروج\N!الأوّل من أرضيّة قصيرة
+Dialogue: 0,0:05:19.68,0:05:21.66,DiamondAce_Main,Adachi,0000,0000,0000,,إنّه يتّخذ الأمر على محمل شخصيّ
+Dialogue: 0,0:05:21.98,0:05:24.52,DiamondAce_Main,Nagata,0000,0000,0000,,لا يجوز أن يدع نقطةً أُخرى تُضاف للّائحة
+Dialogue: 0,0:05:25.30,0:05:28.10,DiamondAce_Main,Commentator,0000,0000,0000,,سيدو يرسل ضارباً بديلاً
+Dialogue: 0,0:05:28.41,0:05:32.72,DiamondAce_Main,Commentator,0000,0000,0000,,،يضرب للاعب الحفرة 9 آسو\N!إنّه كاورو يوي سنة أولى
+Dialogue: 0,0:05:33.35,0:05:35.26,DiamondAce_Main,Owada,0000,0000,0000,,يصبحون عنيفين
+Dialogue: 0,0:05:35.26,0:05:37.30,DiamondAce_Main,Mine,0000,0000,0000,,…يخرجون آسو-كن
+Dialogue: 0,0:05:38.49,0:05:40.02,DiamondAce_Italics,Mine,0000,0000,0000,,هل يُبدّلون الرُّماة هنا؟
+Dialogue: 0,0:05:40.74,0:05:43.40,DiamondAce_Main,Commentator,0000,0000,0000,,لم نره إلّا كضارب بديل حتّى الآن
+Dialogue: 0,0:05:43.40,0:05:45.56,DiamondAce_Main,Commentator,0000,0000,0000,,لكنّه كان قد حصدَ ثلاث ضربات\Nفي ثلاثة مواقع في الضّرب
+Dialogue: 0,0:05:45.56,0:05:48.68,DiamondAce_Main,Commentator,0000,0000,0000,,!صاعد مُتألّق واعد
+Dialogue: 0,0:05:48.95,0:05:52.61,DiamondAce_Main,Kukki,0000,0000,0000,,هذا جنون! أحد لاعبينا في السّنة\N!الأولى موجود في المُباراة
+Dialogue: 0,0:05:52.61,0:05:55.42,DiamondAce_Main,Seto,0000,0000,0000,,!ارفع رأسنا جميعاً
+Dialogue: 0,0:05:56.02,0:05:58.49,DiamondAce_Main,Masashi,0000,0000,0000,,لماذا لم أكن أنا؟
+Dialogue: 0,0:05:58.49,0:05:59.98,DiamondAce_Main,Akamatsu,0000,0000,0000,,يا لك من محظوظ
+Dialogue: 0,0:06:00.65,0:06:02.29,DiamondAce_Main,Sawamura,0000,0000,0000,,هذا يجعلك تشعر بفضول، صحيح؟
+Dialogue: 0,0:06:02.74,0:06:06.00,DiamondAce_Main,Aso,0000,0000,0000,,ابذل كُلّ ما لديك! يمكنك أن\N!ترتاح عندما تموت
+Dialogue: 0,0:06:06.36,0:06:11.23,DiamondAce_Flashback,Aso,0000,0000,0000,,دمجتُ ذلك مع روح رجل حديديّ\N!يحطّم الجدران
+Dialogue: 0,0:06:11.47,0:06:13.09,DiamondAce_Italics,Yui,0000,0000,0000,,…آسو-سينباي
+Dialogue: 0,0:06:27.99,0:06:29.03,DiamondAce_Italics,Yui,0000,0000,0000,,!إنّها سريعة
+Dialogue: 0,0:06:39.52,0:06:41.80,DiamondAce_Main,Commentator,0000,0000,0000,,!ثلاث ضربات فإقصاء
+Dialogue: 0,0:06:41.80,0:06:44.20,DiamondAce_Main,Commentator,0000,0000,0000,,!هناك خروج مرّتان في الشّوط سلفاً
+Dialogue: 0,0:06:47.18,0:06:49.03,DiamondAce_Main,Kukki,0000,0000,0000,,…ثلاث كُرات سريعة
+Dialogue: 0,0:06:49.03,0:06:51.71,DiamondAce_Main,Sedo,0000,0000,0000,,…لوّحَ يوي نحو تلك بشكل متأخِّر
+Dialogue: 0,0:06:52.08,0:06:56.44,DiamondAce_Italics,Yui,0000,0000,0000,,اللّاعبان الأكبر سنّاً حصدا نقطتين\Nمن هذا الشّخص؟
+Dialogue: 0,0:07:04.75,0:07:06.46,DiamondAce_Main,Commentator,0000,0000,0000,,!خروج له
+Dialogue: 0,0:07:10.86,0:07:14.79,DiamondAce_Main,Commentator,0000,0000,0000,,لاعب الارتكاز شيراكاوا يحصد الخروج\N!الثّالث بحركة سريعة
+Dialogue: 0,0:07:14.79,0:07:18.61,DiamondAce_Main,Commentator,0000,0000,0000,,اللّاعب الأوّل ناروميا يُسقِط\N!إحدى الأطراف في الشّوط السّابع
+Dialogue: 0,0:07:21.20,0:07:22.93,DiamondAce_Main,Yabe,0000,0000,0000,,!أجل! حسناً
+Dialogue: 0,0:07:22.93,0:07:24.80,DiamondAce_Main,Ezaki,0000,0000,0000,,!رمي ممتاز يا مي-سان
+Dialogue: 0,0:07:24.80,0:07:27.74,DiamondAce_Main,Tadano,0000,0000,0000,,!رمي ممتاز يا مي-سان! بدوت رائعاً
+Dialogue: 0,0:07:27.94,0:07:29.46,DiamondAce_Main,Tadano,0000,0000,0000,,!كان ذلك مُذهلاً
+Dialogue: 0,0:07:29.46,0:07:31.50,DiamondAce_Main,Narumiya,0000,0000,0000,,لا تبكِ أيُّها الأحمق
+Dialogue: 0,0:07:31.50,0:07:33.68,DiamondAce_Italics,Narumiya,0000,0000,0000,,مُحال أن أدع الأمر ينتهي هكذا
+Dialogue: 0,0:07:34.28,0:07:37.11,DiamondAce_Main,Fukui,0000,0000,0000,,!حسناً! حان دورنا للردّ الآن
+Dialogue: 0,0:07:37.11,0:07:39.13,DiamondAce_Main,Fukui,0000,0000,0000,,!فورويا سيتعب
+Dialogue: 0,0:07:39.13,0:07:41.13,DiamondAce_Main,Fukui,0000,0000,0000,,!لنستمرّ في إرهاقه
+Dialogue: 0,0:07:41.13,0:07:42.45,DiamondAce_Main,Inashiro,0000,0000,0000,,!أجل
+Dialogue: 0,0:07:42.84,0:07:47.95,DiamondAce_Announcer_Italics,Stadium Announcer,0000,0000,0000,,النّصف الثّاني من الشّوط السّابع، ثانويّة\Nسيدو ستُعلن عن بديل
+Dialogue: 0,0:07:48.55,0:07:51.75,DiamondAce_Announcer_Italics,Stadium Announcer,0000,0000,0000,,الرّامي، فورويا، سينتقل إلى الميدان الأيسر
+Dialogue: 0,0:07:51.75,0:07:54.50,DiamondAce_Announcer_Italics,Stadium Announcer,0000,0000,0000,,لاعب الحفرة 6، الميدان الأيسر، فورويا-كن
+Dialogue: 0,0:07:54.49,0:08:01.20,Sign_Basic,sign,0000,0000,0000,,{\fad(3375,0)\an8\b1\c&HF2EEF0&\bord0\shad0\frx16\fry346\fnArial\fay-.18\pos(360,52)\fax.02}توجو
+Dialogue: 0,0:07:54.49,0:08:01.20,Sign_Basic,sign,0000,0000,0000,,{\fad(3375,0)\an8\b1\c&HF2EEF0&\bord0\shad0\fnArial\fay-.17\pos(360,142)\fax.01\frx2\fry352}كانيمارو
+Dialogue: 0,0:07:54.49,0:08:01.20,Sign_Basic,sign,0000,0000,0000,,{\fad(3375,0)\an8\b1\c&HF2EEF0&\bord0\shad0\fnArial\fay-.15\pos(358,220)\fax.01\frx2\fry350}يوي
+Dialogue: 0,0:07:55.85,0:08:00.47,DiamondAce_Italics,Stadium Announcer,0000,0000,0000,,،بدلاً عن يوي-كن، الّذي ضربَ بديلاً من قبل
+Dialogue: 0,0:08:00.47,0:08:02.66,DiamondAce_Italics,Stadium Announcer,0000,0000,0000,,…لاعب الحفرة 9، الرّامي
+Dialogue: 0,0:08:06.00,0:08:08.59,Sign_Basic,sign,0000,0000,0000,,{\an8\b1\c&HF2EEF0&\bord0\shad0\fnArial\fay-.16\fax.01\frx2\fry352\fs30\pos(319,108)}كانيمارو
+Dialogue: 0,0:08:06.00,0:08:08.59,Sign_Basic,sign,0000,0000,0000,,{\an8\b1\c&HF2EEF0&\bord0\shad0\fnArial\fay-.16\fax.01\frx2\fry352\fs30\pos(314.66,249.33)}ساوامورا
+Dialogue: 0,0:08:06.32,0:08:07.74,DiamondAce_Italics,Stadium Announcer,0000,0000,0000,,ساوامورا-كن
+Dialogue: 0,0:08:10.71,0:08:14.26,DiamondAce_Italics - Top,Stadium Announcer,0000,0000,0000,,لاعب الحفرة 9، الرّامي، ساوامورا-كن
+Dialogue: 0,0:08:21.14,0:08:22.44,DiamondAce_Main,Sawamura,0000,0000,0000,,!مرحى
+Dialogue: 0,0:08:28.41,0:08:29.59,DiamondAce_Main,Sawamura,0000,0000,0000,,!جاهز
+Dialogue: 0,0:08:29.59,0:08:32.93,DiamondAce_Main,Commentator,0000,0000,0000,,!تنتقل ثانويّة سيدو إلى لاعبهم الأوّل
+Dialogue: 0,0:08:32.93,0:08:36.79,DiamondAce_Main,Commentator,0000,0000,0000,,اللّاعب الأوّل ساوامورا يستولي على\N!التلّة من ساتورو فورويا
+Dialogue: 0,0:08:37.60,0:08:38.86,DiamondAce_Main,Hideaki,0000,0000,0000,,!أيُعقَل هذا؟
+Dialogue: 0,0:08:38.86,0:08:40.04,DiamondAce_Main,Hideaki,0000,0000,0000,,بدؤوا بتحرّكاتهم من الآن؟
+Dialogue: 0,0:08:40.28,0:08:43.25,DiamondAce_Main,Narumiya,0000,0000,0000,,!هذا ليس عدلاً! أتتخلّى عنّي يا فورويا؟
+Dialogue: 0,0:08:43.25,0:08:48.45,DiamondAce_Italics,Tadano,0000,0000,0000,,كان يبذل كُلّ طاقته منذ البداية\Nمُتوقِّعاً أن يُحلّ مكانه؟
+Dialogue: 0,0:08:50.74,0:08:55.63,DiamondAce_Main,Commentator,0000,0000,0000,,في نصف النّهائي، ضدّ تشكيلة ثانويّة\N،إتشيدايسان القويّة
+Dialogue: 0,0:08:55.63,0:08:59.25,DiamondAce_Main,Commentator,0000,0000,0000,,كان قد أحرزَ نقطةً مُدهشة، مُتخلّياً عن\Nثلاث ضربات، وسَير واحد، ونقطة واحدة
+Dialogue: 0,0:08:59.75,0:09:03.16,DiamondAce_Main,Commentator,0000,0000,0000,,!اللّاعب الأوّل يستولي على التلّة أخيراً
+Dialogue: 0,0:09:03.60,0:09:05.89,DiamondAce_Main,Sedo,0000,0000,0000,,!الجميع مُرتعدون
+Dialogue: 0,0:09:05.89,0:09:09.61,DiamondAce_Main,Sedo,0000,0000,0000,,!جميعهم رأوا كيف رمى ضدّ إتشيدايسان
+Dialogue: 0,0:09:09.94,0:09:13.15,DiamondAce_Main,Fan A,0000,0000,0000,,أخرجوا فورويا عندما كان يرمي بشكل جيّد؟
+Dialogue: 0,0:09:13.15,0:09:15.70,DiamondAce_Main,Fan B,0000,0000,0000,,لكن كان يتخلّى عن كثير من المَسيرات
+Dialogue: 0,0:09:15.98,0:09:18.44,DiamondAce_Main,Fan C,0000,0000,0000,,يلعبون لحماية تقدُّمَهم بنقطة واحدة؟
+Dialogue: 0,0:09:18.44,0:09:20.91,DiamondAce_Main,Fan D,0000,0000,0000,,سيدو ما زال لديهم كاواكامي أيضاً، صحيح؟
+Dialogue: 0,0:09:21.21,0:09:23.78,DiamondAce_Main,Fan E,0000,0000,0000,,!اتّخذَ سيدو المُبادرة
+Dialogue: 0,0:09:24.12,0:09:28.06,DiamondAce_Main,Carlos,0000,0000,0000,,كان فورويا قويّاً، لكن هذا الرّجل\Nمُختلف تماماً
+Dialogue: 0,0:09:28.06,0:09:32.50,DiamondAce_Main,Shirasu,0000,0000,0000,,،في العام الماضي، كان كُلّ ما يملكه سرعتَه\N…ونوعيّته، وقوّته، لكن الآن
+Dialogue: 0,0:09:32.73,0:09:36.09,DiamondAce_Main,Yabe,0000,0000,0000,,حتّى في المُباريات التمرينيّة، سمعتُ\Nبأنّه كان لا يُقهَر
+Dialogue: 0,0:09:36.09,0:09:40.19,DiamondAce_Main,Carlos,0000,0000,0000,,ظننتُ بأنّ فورويا تخلّى عن رقم اللّاعب\N،الأوّل فقط لأنّه كان يؤدّي أداء رديئاً
+Dialogue: 0,0:09:40.19,0:09:42.66,DiamondAce_Main,Carlos,0000,0000,0000,,لكن نِزال رُماته مع أماهيسا غيّرَ رأيي
+Dialogue: 0,0:09:42.66,0:09:45.05,DiamondAce_Main,Shirasu,0000,0000,0000,,أنا متأكّد بأنّ الحماس ما زال مُشتعلاً فيه
+Dialogue: 0,0:09:45.47,0:09:49.37,DiamondAce_Italics,Narumiya,0000,0000,0000,,هل أنت رائع أم لا؟
+Dialogue: 0,0:09:50.65,0:09:54.54,DiamondAce_Italics,Narumiya,0000,0000,0000,,أيُّهما؟
+Dialogue: 0,0:09:57.18,0:10:01.50,DiamondAce_Italics,Narumiya,0000,0000,0000,,تعتقد بأنّك تستطيع الظّهور في خضمّ\Nالأحداث وتُجاريني؟
+Dialogue: 0,0:10:02.26,0:10:05.33,DiamondAce_Main,Miyuki,0000,0000,0000,,هل سمعت تلك الهُتافات عندما خرجت؟
+Dialogue: 0,0:10:05.33,0:10:06.49,DiamondAce_Main,Miyuki,0000,0000,0000,,كانت مُذهلة
+Dialogue: 0,0:10:06.49,0:10:08.27,DiamondAce_Main,Sawamura,0000,0000,0000,,!فاجأني ذلك أيضاً
+Dialogue: 0,0:10:08.27,0:10:09.46,DiamondAce_Main,Miyuki,0000,0000,0000,,!شابّ شهير
+Dialogue: 0,0:10:09.46,0:10:11.79,DiamondAce_Main,Sawamura,0000,0000,0000,,…لا، لا، لا، لا
+Dialogue: 0,0:10:11.79,0:10:12.93,DiamondAce_Main,Sawamura,0000,0000,0000,,!أتعتقد ذلك حقّاً؟
+Dialogue: 0,0:10:12.93,0:10:15.72,DiamondAce_Main,Miyuki,0000,0000,0000,,.ستُواجه لاعب الحفرة 8 أوّلاً\Nهل حفظتَ التّشكيلة؟
+Dialogue: 0,0:10:15.72,0:10:17.43,DiamondAce_Main,Sawamura,0000,0000,0000,,أنا على ما يُرام
+Dialogue: 0,0:10:17.43,0:10:19.30,DiamondAce_Main,Miyuki,0000,0000,0000,,!أعتمد عليك أيّها اللّاعب الأوّل
+Dialogue: 0,0:10:19.30,0:10:20.13,DiamondAce_Main,Sawamura,0000,0000,0000,,!حسناً
+Dialogue: 0,0:10:20.48,0:10:23.59,DiamondAce_Italics,Miyuki,0000,0000,0000,,والآن، كيف سيرمي؟
+Dialogue: 0,0:10:24.80,0:10:26.01,DiamondAce_Italics,Sawamura,0000,0000,0000,,…اللّاعب الأوّل
+Dialogue: 0,0:10:26.56,0:10:28.66,DiamondAce_Main,Sawamura,0000,0000,0000,,!ثلاثة أشواط للّعب
+Dialogue: 0,0:10:30.73,0:10:32.99,DiamondAce_Main,Sawamura,0000,0000,0000,,!والآن الاختبار الحقيقيّ الصّعب
+Dialogue: 0,0:10:33.56,0:10:37.91,DiamondAce_Main,Sawamura,0000,0000,0000,,،لنصمد بروح سيدو تلك، ونتلطّخ
+Dialogue: 0,0:10:38.34,0:10:41.27,DiamondAce_Main,Sawamura,0000,0000,0000,,!ونقاتل حتّى النّهاية
+Dialogue: 0,0:10:42.94,0:10:45.20,DiamondAce_Main,Sawamura,0000,0000,0000,,!ستُحلّق الكُرات نحوكم ثانية اليوم
+Dialogue: 0,0:10:45.58,0:10:49.17,DiamondAce_Main,Sawamura,0000,0000,0000,,!أيّها المُدافعون، تعاملوها معي رجاء
+Dialogue: 0,0:10:49.35,0:10:53.58,DiamondAce_Main,Maezono,0000,0000,0000,,!أجل! ها نحن أولاء، شِعار اللّاعب الأوّل
+Dialogue: 0,0:10:55.54,0:10:57.86,DiamondAce_Main,Haruichi,0000,0000,0000,,!هيّا بنا يا إيجون-كن
+Dialogue: 0,0:10:57.86,0:10:59.51,DiamondAce_Main,Kuramochi,0000,0000,0000,,!افعلها يا ساوامورا
+Dialogue: 0,0:11:09.90,0:11:13.27,DiamondAce_Main,Commentator,0000,0000,0000,,،في النّصف الثّاني من الشّوط السّابع\Nسيدو لديهم لاعبهم الأوّل في التلّة
+Dialogue: 0,0:11:13.27,0:11:16.31,DiamondAce_Main,Commentator,0000,0000,0000,,يرسل إيناشيرو الصّناعيّة لاعبَ\Nالحفرة 8 الخاصّ بهم، جينغوجي
+Dialogue: 0,0:11:17.13,0:11:20.28,DiamondAce_Italics,Jinguji,0000,0000,0000,,ساتورو فورويا، إيجون ساوامورا
+Dialogue: 0,0:11:20.65,0:11:23.99,DiamondAce_Italics,Jinguji,0000,0000,0000,,جذبتما كثيراً من الأنظار منذ الصّيف الماضي
+Dialogue: 0,0:11:24.29,0:11:26.37,DiamondAce_Italics,Jinguji,0000,0000,0000,,أتساءل إلى أيّ درجة أصبحا مغرورين
+Dialogue: 0,0:11:28.73,0:11:30.60,DiamondAce_Italics,Jinguji,0000,0000,0000,,ليس هذا العام فقط
+Dialogue: 0,0:11:30.60,0:11:32.51,DiamondAce_Italics,Jinguji,0000,0000,0000,,…العام المُقبل والّذي يليه
+Dialogue: 0,0:11:33.77,0:11:36.54,DiamondAce_Italics,Jinguji,0000,0000,0000,,ستقفان أمامنا
+Dialogue: 0,0:11:37.05,0:11:39.71,DiamondAce_Italics,Miyuki,0000,0000,0000,,تبدو تعابير وجهه مُتشنّجة
+Dialogue: 0,0:11:40.05,0:11:42.03,DiamondAce_Italics,Miyuki,0000,0000,0000,,إنّه ضارب يحبُّ التّلويح
+Dialogue: 0,0:11:42.03,0:11:44.49,DiamondAce_Italics,Miyuki,0000,0000,0000,,سيترتّب علينا توخّي الحذر\Nوالبقاء يقظين
+Dialogue: 0,0:11:45.25,0:11:49.23,DiamondAce_Main,Owada,0000,0000,0000,,بدخوله لأجل فورويا-كن… لا بُدّ أنّه مُتحمّس
+Dialogue: 0,0:11:49.23,0:11:52.51,DiamondAce_Main,Mine,0000,0000,0000,,،بصفته أعسر، إنّه نوع مُختلف عن فورويا-كن
+Dialogue: 0,0:11:52.51,0:11:56.81,DiamondAce_Main,Mine,0000,0000,0000,,لكنّه يحلّ مكانه بعد أن أدّى رميات\Nمُدهشة تزيد عن 150 كم\سا
+Dialogue: 0,0:11:57.77,0:12:01.61,DiamondAce_Italics,Mine,0000,0000,0000,,قرار واحد قد يُغيِّر مجرى المُباراة بأكمله
+Dialogue: 0,0:12:02.53,0:12:05.29,DiamondAce_Italics,Mine,0000,0000,0000,,لنرَ كم يمكن لهذا التغيُّر في الرّمي\Nأن يفلح بالنّسبة لهم
+Dialogue: 0,0:12:13.51,0:12:18.41,DiamondAce_Flashback,Fukui,0000,0000,0000,,كُرة سريعة مُضلِّلة فوق 130 يمكن\Nأن تحظى بإصابة تلويح
+Dialogue: 0,0:12:18.74,0:12:22.41,DiamondAce_Flashback,Fukui,0000,0000,0000,,الكُرات المُتغيِّرة الّتي تستطيع الانتقال جانبيّاً\Nأو من الأسفل من نفس طريق الملعب
+Dialogue: 0,0:12:22.41,0:12:25.53,DiamondAce_Flashback,Fukui,0000,0000,0000,,كلّ هذا بالإضافة إلى المُتباطئة… إنّه رامٍ مُخادع
+Dialogue: 0,0:12:26.14,0:12:30.00,DiamondAce_Flashback,Kunitomo,0000,0000,0000,,لكن الآن بعد أن تكيّفت عيناك على\N،كُرات فورويا السّريعة
+Dialogue: 0,0:12:30.00,0:12:32.68,DiamondAce_Flashback,Kunitomo,0000,0000,0000,,يمكنك وبسهولة أن تُجاري كُرات\Nساوامورا السّريعة
+Dialogue: 0,0:12:32.95,0:12:37.70,DiamondAce_Flashback,Kunitomo,0000,0000,0000,,قِف في صندوق الضّارب وحقّق إصابة\Nقبل أن يتغيّر مسارها كُلّياً
+Dialogue: 0,0:12:38.44,0:12:40.33,DiamondAce_Italics,Sawamura,0000,0000,0000,,…الأولى
+Dialogue: 0,0:12:41.20,0:12:45.82,DiamondAce_Italics,Miyuki,0000,0000,0000,,لن يُراقب الكُرة، بل سيتحيّن رميته
+Dialogue: 0,0:12:45.82,0:12:47.90,DiamondAce_Italics,Miyuki,0000,0000,0000,,نريد أن ندفعه للتّلويح
+Dialogue: 0,0:12:48.24,0:12:50.68,DiamondAce_Main,Commentator,0000,0000,0000,,،النّصف الأوّل من الشّوط السّابع\N…اللّاعب الأوّل ساوامورا
+Dialogue: 0,0:12:50.68,0:12:52.96,DiamondAce_Main,Commentator,0000,0000,0000,,!يستعدّ لرميته الأولى
+Dialogue: 0,0:12:53.91,0:12:56.08,DiamondAce_Italics,Miyuki,0000,0000,0000,,!والآن، هيّا بنا
+Dialogue: 0,0:12:56.33,0:12:58.39,DiamondAce_Italics,Jinguji,0000,0000,0000,,لديك تحكُّم ممتاز، صحيح؟
+Dialogue: 0,0:12:58.39,0:13:00.05,DiamondAce_Italics,Jinguji,0000,0000,0000,,لذا أستطيع انتظار رميتي
+Dialogue: 0,0:13:00.82,0:13:02.20,DiamondAce_Italics,Sawamura,0000,0000,0000,,ذلك اليوم
+Dialogue: 0,0:13:03.40,0:13:05.56,DiamondAce_Italics,Sawamura,0000,0000,0000,,…للتغلُّب على ذلك اليوم
+Dialogue: 0,0:13:05.88,0:13:08.12,DiamondAce_Italics,Sawamura,0000,0000,0000,,…قاتلتُ لعام كامل
+Dialogue: 0,0:13:15.39,0:13:17.72,DiamondAce_Italics,Sawamura,0000,0000,0000,,!مُؤمناً بأنّني أستطيع التغلُّب على ذلك
+Dialogue: 0,0:13:20.27,0:13:22.78,DiamondAce_Main,Commentator,0000,0000,0000,,!الرّمية الأولى هي خارجيّة فكُرة
+Dialogue: 0,0:13:22.78,0:13:24.85,DiamondAce_Italics,Miyuki,0000,0000,0000,,جاءت على إصبعه؟
+Dialogue: 0,0:13:25.72,0:13:29.21,DiamondAce_Italics,Sawamura,0000,0000,0000,,أنا مُتشنِّج. يجب أن أسترخي
+Dialogue: 0,0:13:29.21,0:13:31.25,DiamondAce_Italics,Sawamura,0000,0000,0000,,!أن أتّخذ الوضع المثاليّ
+Dialogue: 0,0:13:31.25,0:13:32.66,DiamondAce_Main,Maezono,0000,0000,0000,,!هوّن عليك يا رجل
+Dialogue: 0,0:13:32.66,0:13:34.62,DiamondAce_Main,Haruichi,0000,0000,0000,,!افعل ما هو معتاد
+Dialogue: 0,0:13:34.62,0:13:36.34,DiamondAce_Main,Kuramochi,0000,0000,0000,,!لقّنه درساً
+Dialogue: 0,0:13:36.55,0:13:38.32,DiamondAce_Italics,Sawamura,0000,0000,0000,,أخذتُ العصا منه
+Dialogue: 0,0:13:40.08,0:13:41.51,DiamondAce_Main,Commentator,0000,0000,0000,,!الرّمية الثّانية
+Dialogue: 0,0:13:41.80,0:13:44.09,DiamondAce_Italics,Sawamura,0000,0000,0000,,!لا يمكن أن أخذله
+Dialogue: 0,0:13:48.81,0:13:51.25,DiamondAce_Main,Commentator,0000,0000,0000,,!عالية وخارجيّة وبالتّالي كُرة مرّتان
+Dialogue: 0,0:13:51.93,0:13:53.23,DiamondAce_Main,Fan F,0000,0000,0000,,يتصدّر بالكُرات؟
+Dialogue: 0,0:13:53.23,0:13:54.43,DiamondAce_Main,Fan G,0000,0000,0000,,هذا نادر
+Dialogue: 0,0:13:54.64,0:13:56.57,DiamondAce_Main,Fan H,0000,0000,0000,,أتعتقد بأنّه يضغط على نفسه؟
+Dialogue: 0,0:13:56.57,0:14:00.27,DiamondAce_Main,Fan I,0000,0000,0000,,إنّها المرّة الأولى له كبديل\Nفي هذه البطولة، أجل
+Dialogue: 0,0:14:00.54,0:14:03.48,DiamondAce_Italics,Miyuki,0000,0000,0000,,،إنّه ذيل ترتيب الضّاربين\Nلكن سيحين دور مُقدّمة التّرتيب
+Dialogue: 0,0:14:03.48,0:14:05.98,DiamondAce_Italics,Miyuki,0000,0000,0000,,لا نريد وضع راكضين في القواعد
+Dialogue: 0,0:14:07.69,0:14:10.18,DiamondAce_Main,Sawamura,0000,0000,0000,,!أنا آسف! نسيتُ تماماً
+Dialogue: 0,0:14:10.18,0:14:11.66,DiamondAce_Main,Sawamura,0000,0000,0000,,!أمهلني لحظة فقط
+Dialogue: 0,0:14:12.81,0:14:13.90,DiamondAce_Main,Umpire,0000,0000,0000,,تريد وقتاً مُستقطعاً؟
+Dialogue: 0,0:14:13.90,0:14:16.11,DiamondAce_Main,Sawamura,0000,0000,0000,,!لا، لن يستغرق ذلك وقتاً
+Dialogue: 0,0:14:25.13,0:14:26.75,DiamondAce_Main,Fan J,0000,0000,0000,,نفَس عميق؟
+Dialogue: 0,0:14:26.75,0:14:27.80,DiamondAce_Main,Fan K,0000,0000,0000,,!الآن؟
+Dialogue: 0,0:14:28.05,0:14:31.22,DiamondAce_Main,Fan K,0000,0000,0000,,أوقفَ المُباراة لأجل ذلك؟
+Dialogue: 0,0:14:34.50,0:14:36.14,DiamondAce_Main,Fan L,0000,0000,0000,,ما مُشكلته؟
+Dialogue: 0,0:14:36.14,0:14:38.26,DiamondAce_Main,Fan M,0000,0000,0000,,!لا أعلم ما إن كان شديد الحساسيّة أو وقحاً
+Dialogue: 0,0:14:38.26,0:14:40.48,DiamondAce_Main,Fan N,0000,0000,0000,,!لكن هذا هو ساوامورا الّذي نعرفه
+Dialogue: 0,0:14:40.48,0:14:42.69,DiamondAce_Main,Fan N,0000,0000,0000,,!لا يوجد إيجون ساوامورا أكثر منه
+Dialogue: 0,0:14:43.10,0:14:45.89,DiamondAce_Main,Maezono,0000,0000,0000,,!إنّه وقتُك! أغرقها في العمق
+Dialogue: 0,0:14:46.37,0:14:48.30,DiamondAce_Main,Yui,0000,0000,0000,,فعلنا ذلك معه
+Dialogue: 0,0:14:51.35,0:14:53.06,DiamondAce_Main,Jinguji,0000,0000,0000,,…يا للعجب
+Dialogue: 0,0:14:54.22,0:14:56.77,DiamondAce_Main,Jinguji,0000,0000,0000,,أتحاول تهدئة أعصابك؟
+Dialogue: 0,0:14:56.77,0:14:59.48,DiamondAce_Main,Jinguji,0000,0000,0000,,…وكأنّك تعبِّر عن مدى خوفك
+Dialogue: 0,0:15:00.67,0:15:01.77,DiamondAce_Main,Sawamura,0000,0000,0000,,حسناً
+Dialogue: 0,0:15:02.50,0:15:06.68,DiamondAce_Italics,Jinguji,0000,0000,0000,,كُرة مرّتان. سيُجبَر على إرسال واحدة\Nنحو القاعدة الرّئيسيّة، وسأضربها بقوّة
+Dialogue: 0,0:15:06.68,0:15:09.73,DiamondAce_Italics,Miyuki,0000,0000,0000,,كنتُ أُفكِّر في أخذ وقت مُستقطع
+Dialogue: 0,0:15:09.73,0:15:12.37,DiamondAce_Italics,Miyuki,0000,0000,0000,,أنا مُمتنّ لأنّه يعرف نفسه جيّداً
+Dialogue: 0,0:15:12.85,0:15:15.66,DiamondAce_Italics,Miyuki,0000,0000,0000,,نحتاج فقط لرؤية أفضل رمية على الإطلاق
+Dialogue: 0,0:15:32.18,0:15:35.08,DiamondAce_Main,Commentator,0000,0000,0000,,الضّارب الأوّل جينغوجي يسدّد أرضيّةً\N!نحو لاعب الارتكاز
+Dialogue: 0,0:15:35.08,0:15:37.15,DiamondAce_Main,Commentator,0000,0000,0000,,!خروج واحد
+Dialogue: 0,0:15:37.15,0:15:39.62,DiamondAce_Main,Asada/Sedo/Kukki,0000,0000,0000,,!أجل! الرّقم تسعة
+Dialogue: 0,0:15:39.94,0:15:42.32,DiamondAce_Italics,Miyuki,0000,0000,0000,,أجل، هذه واحدة
+Dialogue: 0,0:15:42.67,0:15:45.79,DiamondAce_Italics,Miyuki,0000,0000,0000,,…هذا خروج مُهمّ. على هذا المُعدّل
+Dialogue: 0,0:15:49.23,0:15:52.83,DiamondAce_Main,Commentator,0000,0000,0000,,!قاطِعة داخليّة تمنحهم خروجين
+Dialogue: 0,0:15:53.07,0:15:54.72,DiamondAce_Main,Asada/Sedo/Kukki,0000,0000,0000,,!المُحسَّنة
+Dialogue: 0,0:15:54.72,0:15:56.37,DiamondAce_Main,Kadota,0000,0000,0000,,!ها نحن أولاء
+Dialogue: 0,0:15:56.37,0:15:58.37,DiamondAce_Main,Kadota,0000,0000,0000,,!هذا هو الرّمي الّذي نعرفه
+Dialogue: 0,0:15:58.37,0:15:59.35,DiamondAce_Main,Sawamura/Haruichi,0000,0000,0000,,!أجل
+Dialogue: 0,0:15:59.88,0:16:03.61,DiamondAce_Italics,Tadano,0000,0000,0000,,أراحَ نفسه من أجل استعادة توازُن الإيقاع؟
+Dialogue: 0,0:16:05.78,0:16:07.58,DiamondAce_Main,Commentator,0000,0000,0000,,!عدنا إلى مُقدِّمة ترتيب الضّاربين
+Dialogue: 0,0:16:07.58,0:16:09.78,DiamondAce_Main,Commentator,0000,0000,0000,,!الضّارب الأوّل ولاعب الميدان الأوسط، كارلوس
+Dialogue: 0,0:16:10.04,0:16:12.24,DiamondAce_Italics,Miyuki,0000,0000,0000,,الآن يبدأ الاختبار الحقيقيّ
+Dialogue: 0,0:16:14.15,0:16:16.66,DiamondAce_Main,Commentator,0000,0000,0000,,يحتاج إيناشيرو الصّناعيّة نقطةً واحدة
+Dialogue: 0,0:16:16.66,0:16:20.17,DiamondAce_Main,Commentator,0000,0000,0000,,يحتاجون رجلاً في القاعدة لجعل\N!ذلك يبدو مُمكناً
+Dialogue: 0,0:16:20.55,0:16:25.00,DiamondAce_Italics,Carlos,0000,0000,0000,,سأذكّرك بما حدث في الصّيف الفائت
+Dialogue: 0,0:16:31.71,0:16:34.01,DiamondAce_Main,Owada,0000,0000,0000,,!إنّه يملأ القاعدة الرّئيسيّة كُلّياً
+Dialogue: 0,0:16:34.23,0:16:36.80,DiamondAce_Main,Kadota,0000,0000,0000,,إنّه يسدُّ الدّاخل، على أمل\N!تحقيق ضربة بالرّمي
+Dialogue: 0,0:16:36.80,0:16:38.59,DiamondAce_Main,Sakada,0000,0000,0000,,!هذا ما فعلَه في العام الفائت
+Dialogue: 0,0:17:00.86,0:17:03.02,DiamondAce_Main,Tanba,0000,0000,0000,,إنّه يُثير توتّره
+Dialogue: 0,0:17:03.56,0:17:07.87,DiamondAce_Main,Tanba,0000,0000,0000,,.يمتلك كارلوس القوّةَ في هذا العام\Nحقّقَ عدداً من هوم ران
+Dialogue: 0,0:17:08.20,0:17:10.31,DiamondAce_Main,Tanba,0000,0000,0000,,من الخطير إرسال كُرة في المنطقة له
+Dialogue: 0,0:17:14.14,0:17:16.34,DiamondAce_Italics,Chris,0000,0000,0000,,لا تدع ذلك يؤثّر بك يا ساوامورا
+Dialogue: 0,0:17:17.27,0:17:19.30,DiamondAce_Italics,Chris,0000,0000,0000,,أرشده يا ميوكي
+Dialogue: 0,0:17:19.57,0:17:24.26,DiamondAce_Main,Kadota,0000,0000,0000,,،إذا كان سيملئ القاعدةَ الرّئيسيّة\N!فلا يستطيع ضرب رميات داخليّة
+Dialogue: 0,0:17:24.26,0:17:26.45,DiamondAce_Main,Watanabe,0000,0000,0000,,!إيناشيرو مُرتعدون أيضاً
+Dialogue: 0,0:17:26.45,0:17:28.23,DiamondAce_Main,Watanabe,0000,0000,0000,,!اضربه بكُل ما أوتيت من قوّة
+Dialogue: 0,0:17:28.59,0:17:29.69,DiamondAce_Italics,Chris,0000,0000,0000,,…هيّا
+Dialogue: 0,0:17:30.15,0:17:32.75,DiamondAce_Italics,Chris,0000,0000,0000,,!واجهه بما لديك الآن
+Dialogue: 0,0:17:40.71,0:17:43.92,DiamondAce_Main,Commentator,0000,0000,0000,,!الرّمية الأولى، كُرة مُتغيّرة خارجيّة! خطأ
+Dialogue: 0,0:17:44.52,0:17:46.36,DiamondAce_Italics,Miyuki,0000,0000,0000,,أجل، بدأ يُلوِّح
+Dialogue: 0,0:17:46.36,0:17:49.15,DiamondAce_Italics,Carlos,0000,0000,0000,,يمكن جعلها ساقِطة بتلك السّرعة؟
+Dialogue: 0,0:17:49.15,0:17:51.34,DiamondAce_Italics,Carlos,0000,0000,0000,,لكن أستطيع مُجاراتها
+Dialogue: 0,0:17:56.49,0:17:59.14,DiamondAce_Main,Commentator,0000,0000,0000,,!الرّمية الثّانية، كُرة سريعة! خطأ ضربة
+Dialogue: 0,0:17:59.82,0:18:02.36,DiamondAce_Main,Seki,0000,0000,0000,,!أجل! صاروا إصابتان
+Dialogue: 0,0:18:02.36,0:18:04.55,DiamondAce_Main,Seido,0000,0000,0000,,!رمية ممتازة يا ساوامورا
+Dialogue: 0,0:18:04.75,0:18:07.37,DiamondAce_Main,Owada,0000,0000,0000,,!بدأ يرمي نحو الدّاخل
+Dialogue: 0,0:18:07.37,0:18:11.55,DiamondAce_Main,Mine,0000,0000,0000,,رؤيتها تتقوّس داخليّاً تدفع كارلوس-كن\Nللتّلويح بشكل انعكاسي
+Dialogue: 0,0:18:11.96,0:18:14.72,DiamondAce_Main,Seido,0000,0000,0000,,!رمية إضافيّة واحدة! مرِّر الإبرة للدّاخل
+Dialogue: 0,0:18:14.72,0:18:16.36,DiamondAce_Main,Seido,0000,0000,0000,,!يمكنك رميها
+Dialogue: 0,0:18:16.36,0:18:18.94,DiamondAce_Italics,Carlos,0000,0000,0000,,!اهدأ! سأراها
+Dialogue: 0,0:18:26.28,0:18:28.28,DiamondAce_Main,Commentator,0000,0000,0000,,!الرّمية الثّالثة، مُتباطئة
+Dialogue: 0,0:18:28.28,0:18:30.95,DiamondAce_Main,Commentator,0000,0000,0000,,!بالكاد لامسَها كارلوس
+Dialogue: 0,0:18:30.95,0:18:32.59,DiamondAce_Italics,Carlos,0000,0000,0000,,…أيّها الوغد
+Dialogue: 0,0:18:35.87,0:18:39.85,DiamondAce_Main,Kawabata,0000,0000,0000,,!رائع، بالكاد يستطيع كارلوس مُجاراته
+Dialogue: 0,0:18:40.11,0:18:43.05,DiamondAce_Main,Kawabata,0000,0000,0000,,إيقاع ساوامورا الّذي رأيناه\N…في مُباراة إتشيدايسان
+Dialogue: 0,0:18:43.33,0:18:46.01,DiamondAce_Main,Kawabata,0000,0000,0000,,سيطر على الملعب تماماً
+Dialogue: 0,0:18:50.62,0:18:54.85,DiamondAce_Italics,Chris,0000,0000,0000,,بخلاف العام الماضي، عندما استطاع فقط\N،الهجوم على الطّريق الدّاخليّ
+Dialogue: 0,0:18:55.25,0:18:57.05,DiamondAce_Italics,Chris,0000,0000,0000,,لديه ترسانة ضخمة الآن
+Dialogue: 0,0:18:58.52,0:19:01.16,DiamondAce_Italics,Chris,0000,0000,0000,,في بطولة الخريف، خرجَ من قوقعته
+Dialogue: 0,0:19:02.11,0:19:05.94,DiamondAce_Italics,Chris,0000,0000,0000,,منذ الرّبيع، واجهَ العديد من المُنافسين
+Dialogue: 0,0:19:10.80,0:19:12.58,DiamondAce_Italics,Chris,0000,0000,0000,,إنّه مُختلف عن العام الماضي
+Dialogue: 0,0:19:26.41,0:19:28.05,DiamondAce_Italics,Carlos,0000,0000,0000,,هكذا إذاً
+Dialogue: 0,0:19:28.05,0:19:29.56,DiamondAce_Italics,Carlos,0000,0000,0000,,لن تتراجع إذاً؟
+Dialogue: 0,0:19:30.34,0:19:33.19,DiamondAce_Italics,Carlos,0000,0000,0000,,سيترتّب عليّ دفعك للخلف إذاً
+Dialogue: 0,0:19:33.85,0:19:35.49,DiamondAce_Main,Owada,0000,0000,0000,,عادَ إلى وقفته الأصليّة
+Dialogue: 0,0:19:35.98,0:19:39.14,DiamondAce_Main,Kukki,0000,0000,0000,,!أجل! ساوامورا-سينباي، اهزمه
+Dialogue: 0,0:19:39.14,0:19:40.98,DiamondAce_Main,Sedo,0000,0000,0000,,!اقضِ عليه في هذه الرّمية
+Dialogue: 0,0:19:41.35,0:19:42.73,DiamondAce_Main,Fukui,0000,0000,0000,,!لم ينتهِ الأمر بعد
+Dialogue: 0,0:19:43.76,0:19:46.06,DiamondAce_Main,Inashiro A,0000,0000,0000,,!كارلوس-سينباي، إنّها البداية فقط
+Dialogue: 0,0:19:46.06,0:19:47.20,DiamondAce_Main,Inashiro B,0000,0000,0000,,!كارلوس
+Dialogue: 0,0:19:51.52,0:19:54.19,DiamondAce_Flashback,Narumiya,0000,0000,0000,,يا له من هدر للمواهب
+Dialogue: 0,0:19:54.19,0:19:56.38,DiamondAce_Flashback,Narumiya,0000,0000,0000,,هل أنت تُفكِّر أصلاً عندما تتمرّن؟
+Dialogue: 0,0:19:58.23,0:20:01.29,DiamondAce_Flashback,Narumiya,0000,0000,0000,,أتريد تشكيل الفريق الأعظم معي؟
+Dialogue: 0,0:20:01.60,0:20:07.55,DiamondAce_Italics,Carlos,0000,0000,0000,,في ذلك اليوم، تقرّبَ مي ناروميا منّي\Nومهّد الطّريق لي
+Dialogue: 0,0:20:09.72,0:20:13.43,DiamondAce_Italics,Carlos,0000,0000,0000,,منذ مجيئي إلى هنا، تبعتُ قدَري
+Dialogue: 0,0:20:15.80,0:20:17.11,DiamondAce_Italics,Carlos,0000,0000,0000,,هذا لا يكفي
+Dialogue: 0,0:20:19.34,0:20:21.15,DiamondAce_Italics,Carlos,0000,0000,0000,,…مي ناروميا
+Dialogue: 0,0:20:21.40,0:20:23.10,DiamondAce_Italics,Carlos,0000,0000,0000,,…زملائي في الفريق
+Dialogue: 0,0:20:23.61,0:20:25.73,DiamondAce_Italics,Carlos,0000,0000,0000,,جميعهم أفسدوني
+Dialogue: 0,0:20:26.02,0:20:29.07,DiamondAce_Italics,Carlos,0000,0000,0000,,في كلّ يوم، أزداد طمعاً
+Dialogue: 0,0:20:31.67,0:20:32.95,DiamondAce_Italics,Carlos,0000,0000,0000,,هذا لا يكفي
+Dialogue: 0,0:20:34.12,0:20:36.56,DiamondAce_Italics,Carlos,0000,0000,0000,,نحن الفريق الأعظم
+Dialogue: 0,0:20:39.40,0:20:41.54,DiamondAce_Italics,Carlos,0000,0000,0000,,!نحن الملوك الحقيقيّون
+Dialogue: 0,0:20:41.54,0:20:43.43,DiamondAce_Italics,Carlos,0000,0000,0000,,!لا تعترض طريقنا
+Dialogue: 0,0:20:47.43,0:20:49.55,DiamondAce_Main,Commentator,0000,0000,0000,,!كُرة طويلة نحو المركز
+Dialogue: 0,0:20:49.80,0:20:51.57,DiamondAce_Main,Commentator,0000,0000,0000,,!توجو يُمسك الكرة
+Dialogue: 0,0:20:52.15,0:20:54.47,DiamondAce_Main,Commentator,0000,0000,0000,,!خروج ثلاث مرّات
+Dialogue: 0,0:20:54.47,0:20:56.43,DiamondAce_Main,Maezono,0000,0000,0000,,!أجل
+Dialogue: 0,0:20:56.61,0:20:57.68,DiamondAce_Main,Sawamura,0000,0000,0000,,!أجل
+Dialogue: 0,0:20:57.68,0:21:00.65,DiamondAce_Main,Commentator,0000,0000,0000,,دخلَ اللّاعب الأوّل ساوامورا بديلاً\N!في هذا الشّوط
+Dialogue: 0,0:21:00.65,0:21:01.97,DiamondAce_Main - Top,Miyuki,0000,0000,0000,,!مرحى
+Dialogue: 0,0:21:01.15,0:21:06.19,DiamondAce_Main,Commentator,0000,0000,0000,,!يُتابع عن ساتورو فورويا ويبرز لنا رمياً مُدهشاً
+Dialogue: 0,0:21:06.85,0:21:10.21,DiamondAce_Main,Seido,0000,0000,0000,,!أجل، أجل! أجل، أجل، أجل
+Dialogue: 0,0:21:11.52,0:21:13.28,DiamondAce_Main,Sawamura,0000,0000,0000,,!كانت تلك عالية قليلاً
+Dialogue: 0,0:21:13.54,0:21:15.49,DiamondAce_Main,Miyuki,0000,0000,0000,,يسرّني أنّك أدركت ذلك
+Dialogue: 0,0:21:20.17,0:21:23.01,DiamondAce_Italics,Carlos,0000,0000,0000,,اللّعنة! لم أفعلها تماماً
+Dialogue: 0,0:21:29.61,0:21:33.13,DiamondAce_Main,Narumiya,0000,0000,0000,,أعتقد بأنّ أداء العام الماضي\Nلم يكن مُجرّد مزحة
+Dialogue: 0,0:21:33.46,0:21:34.63,DiamondAce_Italics,Tadano,0000,0000,0000,,…مي-سان
+Dialogue: 0,0:21:35.44,0:21:38.34,DiamondAce_Main,Narumiya,0000,0000,0000,,يروقني هذا. لا بأس على الإطلاق
+Dialogue: 0,0:21:44.05,0:21:47.94,DiamondAce_Italics,Narumiya,0000,0000,0000,,أتريدون أن تتكاثروا عليّ وتُسقطوني؟
+Dialogue: 0,0:21:48.71,0:21:50.85,DiamondAce_Main,Narumiya,0000,0000,0000,,لا أمانع ذلك البتّة
+Dialogue: 0,0:23:26.53,0:23:30.77,DiamondAce_Main,Kataoka,0000,0000,0000,,الحلقة القادمة من اللّاعب الأوّل الماسيّ\N-الفصل 2 -الموسم الثّاني
+Dialogue: 0,0:23:31.09,0:23:32.60,DiamondAce_Main,Kataoka,0000,0000,0000,,"حشد الأقوياء"
+Dialogue: 0,0:23:31.18,0:23:37.15,Sign_Basic,sign,0000,0000,0000,,{\pos(118,135)\fad(500,0)\fnTimes New Roman\b1}الحلقة القادمة
+Dialogue: 0,0:23:31.18,0:23:37.15,Sign_Basic,sign,0000,0000,0000,,{\pos(320,265)\fad(500,0)\fnTimes New Roman\b1\fs30}"حشد الأقوياء"
+Dialogue: 0,0:23:32.84,0:23:34.84,DiamondAce_Main,Kataoka,0000,0000,0000,,!اطمح للفوز بالبطولة الوطنيّة
+
