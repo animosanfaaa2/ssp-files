@@ -1,0 +1,363 @@
+[Script Info]
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+ScriptType: v4.00+
+YCbCr Matrix: TV.709
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Trebuchet MS,22,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,40,40,15,0
+Style: Top,Trebuchet MS,22,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,40,40,15,0
+Style: Italics,Trebuchet MS,22,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,40,40,15,0
+Style: Italics-Top,Trebuchet MS,22,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,40,40,15,0
+Style: Flashback,Trebuchet MS,22,&H00FFFFFF,&H000019FF,&H00430400,&H00430400,-1,0,0,0,100,100,0,0,1,2,1,2,40,40,15,1
+Style: Flashback-Top,Trebuchet MS,22,&H00FFFFFF,&H000019FF,&H00430400,&H00430400,-1,0,0,0,100,100,0,0,1,2,1,8,40,40,15,1
+Style: Flashback-Italics,Trebuchet MS,22,&H00FFFFFF,&H000019FF,&H00430400,&H00430400,-1,-1,0,0,100,100,0,0,1,2,1,2,40,40,15,1
+Style: Flashback-Italics-Top,Trebuchet MS,22,&H00FFFFFF,&H000019FF,&H00430400,&H00430400,-1,-1,0,0,100,100,0,0,1,2,1,8,40,40,15,1
+Style: Flashback-Inside,Trebuchet MS,22,&H00CCCCCC,&H000019FF,&H00430400,&H00430400,-1,0,0,0,100,100,0,0,1,2,1,2,40,40,15,1
+Style: Flashback-Inside-Italics,Trebuchet MS,22,&H00CCCCCC,&H000019FF,&H00430400,&H00430400,-1,-1,0,0,100,100,0,0,1,2,1,2,40,40,15,1
+Style: Narration,Trebuchet MS,22,&H00FFFFFF,&H000019FF,&H00000857,&H00000857,-1,-1,0,0,100,100,0,0,1,2,1,2,40,40,15,1
+Style: Narration-Top,Trebuchet MS,22,&H00FFFFFF,&H000019FF,&H00000857,&H00000857,-1,-1,0,0,100,100,0,0,1,2,1,8,40,40,15,1
+Style: Sign,Tahoma,22,&H00000000,&H000019FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,5,5,15,0
+Style: Opening,Times New Roman,22,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,40,40,15,0
+Style: Ending,Times New Roman,22,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,40,40,15,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.45,0:00:07.60,Main,,0,0,0,,Right now, as long as the two of us\Nare together, we can fight.
+Dialogue: 0,0:00:07.96,0:00:10.80,Main,,0,0,0,,Right, Langris?
+Dialogue: 0,0:00:10.85,0:00:12.16,Main,,0,0,0,,Honestly...
+Dialogue: 0,0:00:12.21,0:00:14.54,Main,,0,0,0,,What a cheeky Nii-san!
+Dialogue: 0,0:00:14.98,0:00:17.36,Main,,0,0,0,,His spatial movement speed...
+Dialogue: 0,0:00:17.41,0:00:19.34,Main,,0,0,0,,I've got the timing down.
+Dialogue: 0,0:00:19.54,0:00:21.20,Main,,0,0,0,,And what they're after too...
+Dialogue: 0,0:00:21.25,0:00:24.44,Main,,0,0,0,,The moment they go for the kill\Nis their end.
+Dialogue: 0,0:00:24.76,0:00:27.79,Main,,0,0,0,,To get into the Mana Zone, close in!
+Dialogue: 0,0:00:31.95,0:00:33.15,Main,,0,0,0,,It's over—
+Dialogue: 0,0:00:35.15,0:00:35.98,Main,,0,0,0,,What?
+Dialogue: 0,0:00:37.65,0:00:40.32,Main,,0,0,0,,Boost movement speed with Mana Method!
+Dialogue: 0,0:00:40.58,0:00:42.53,Main,,0,0,0,,Langris's magic gouges out space!
+Dialogue: 0,0:00:42.58,0:00:48.48,Main,,0,0,0,,No matter how strong\Nyour defense is... it doesn't matter!
+Dialogue: 0,0:01:00.62,0:01:03.01,Main,,0,0,0,,I...
+Dialogue: 0,0:01:03.12,0:01:05.20,Main,,0,0,0,,How many seconds...
+Dialogue: 0,0:01:05.25,0:01:09.56,Main,,0,0,0,,No, how many minutes was I out?
+Dialogue: 0,0:01:09.95,0:01:14.05,Main,,0,0,0,,Zenon... Langris-san...
+Dialogue: 0,0:01:20.85,0:01:22.57,Main,,0,0,0,,That's...
+Dialogue: 0,0:01:22.62,0:01:28.27,Main,,0,0,0,,Asta's squadmate...\NLangris-san's brother...
+Dialogue: 0,0:01:28.32,0:01:30.50,Main,,0,0,0,,Langris-san...
+Dialogue: 0,0:01:30.65,0:01:34.32,Main,,0,0,0,,Even his spatial magic\Nthat erases everything...
+Dialogue: 0,0:01:35.15,0:01:39.10,Main,,0,0,0,,couldn't destroy the devil's heart.
+Dialogue: 0,0:01:39.75,0:01:42.85,Main,,0,0,0,,They're both gonna get killed!
+Dialogue: 0,0:01:43.55,0:01:46.13,Main,,0,0,0,,Don't just lie here!
+Dialogue: 0,0:01:46.35,0:01:48.95,Main,,0,0,0,,Come on, get up!
+Dialogue: 0,0:01:50.15,0:01:52.10,Main,,0,0,0,,What am I doing?
+Dialogue: 0,0:01:52.18,0:01:53.19,Main,,0,0,0,,Move,
+Dialogue: 0,0:01:53.55,0:01:55.25,Main,,0,0,0,,move, dammit!
+Dialogue: 0,0:01:55.65,0:01:59.22,Main,,0,0,0,,I'm not done yet...!
+Dialogue: 0,0:02:03.25,0:02:07.92,Main,,0,0,0,,...What else could I even do?
+Dialogue: 0,0:02:08.96,0:02:11.12,Main,,0,0,0,,Nothing worked.
+Dialogue: 0,0:02:12.75,0:02:15.38,Main,,0,0,0,,Even if I get up, what can I do?
+Dialogue: 0,0:02:17.28,0:02:19.52,Main,,0,0,0,,I win.
+Dialogue: 0,0:02:20.55,0:02:24.58,Main,,0,0,0,,Were my choices... wrong?
+Dialogue: 0,0:02:25.60,0:02:27.42,Main,,0,0,0,,We got crushed once,
+Dialogue: 0,0:02:27.86,0:02:30.83,Main,,0,0,0,,half our comrades were killed...
+Dialogue: 0,0:02:30.95,0:02:33.63,Main,,0,0,0,,I talked big at the captains' meeting...
+Dialogue: 0,0:02:33.68,0:02:37.47,Main,,0,0,0,,got them to pick me for the unit...
+Dialogue: 0,0:02:37.52,0:02:42.89,Main,,0,0,0,,trained like crazy...
+Dialogue: 0,0:02:42.94,0:02:44.16,Main,,0,0,0,,and...
+Dialogue: 0,0:02:44.78,0:02:47.14,Main,,0,0,0,,this is how it ends?
+Dialogue: 0,0:02:49.70,0:02:55.24,Main,,0,0,0,,Was this all I ever was...?
+Dialogue: 0,0:02:55.55,0:02:58.69,Main,,0,0,0,,Everyone called me a genius,
+Dialogue: 0,0:02:58.74,0:03:02.72,Main,,0,0,0,,the village's hope... I was chosen,
+Dialogue: 0,0:03:02.88,0:03:04.82,Main,,0,0,0,,recognized,
+Dialogue: 0,0:03:05.22,0:03:08.66,Main,,0,0,0,,envied, hated,
+Dialogue: 0,0:03:08.88,0:03:10.60,Main,,0,0,0,,entrusted,
+Dialogue: 0,0:03:11.95,0:03:13.01,Main,,0,0,0,,I lost...
+Dialogue: 0,0:03:13.06,0:03:15.34,Main,,0,0,0,,and I made a vow.
+Dialogue: 0,0:03:15.98,0:03:21.88,Main,,0,0,0,,I... made a vow with him.\NAnd I...
+Dialogue: 0,0:03:25.35,0:03:27.84,Main,,0,0,0,,...I'm better than this!
+Dialogue: 0,0:03:31.15,0:03:32.44,Main,,0,0,0,,That's right.
+Dialogue: 0,0:03:35.15,0:03:36.78,Main,,0,0,0,,I am you.
+Dialogue: 0,0:03:37.86,0:03:38.73,Main,,0,0,0,,But
+Dialogue: 0,0:03:38.78,0:03:42.95,Main,,0,0,0,,you should have power of your own too...
+Dialogue: 0,0:03:46.75,0:03:47.93,Main,,0,0,0,,Grim...
+Dialogue: 0,0:03:47.98,0:03:50.43,Main,,0,0,0,,...oire?
+Dialogue: 0,0:03:55.75,0:03:59.29,Main,,0,0,0,,Just as I thought... Yuno-sama is...
+Dialogue: 0,0:03:59.34,0:04:05.25,Main,,0,0,0,,So his wind magic really comes from\NLicht-san and Tetia-san's line...
+Dialogue: 0,0:04:05.30,0:04:11.26,Main,,0,0,0,,I'm... gonna save the captain...\Nand everyone...
+Dialogue: 0,0:04:12.05,0:04:15.78,Main,,0,0,0,,save the kingdom,\Nand become the Wizard King!
+Dialogue: 0,0:04:15.83,0:04:17.60,Main,,0,0,0,,That's why
+Dialogue: 0,0:04:17.66,0:04:20.24,Main,,0,0,0,,I'm gonna beat you!
+Dialogue: 0,0:04:27.34,0:04:33.09,Opening,Song,0,0,0,,On the rooftop late at night,\NI held my breath, searching for a light
+Dialogue: 0,0:04:33.14,0:04:34.77,Opening,Song,0,0,0,,with no name
+Dialogue: 0,0:04:34.82,0:04:38.53,Opening,Song,0,0,0,,The farther I drifted from the world,\Nthe more my heart started racing
+Dialogue: 0,0:04:38.58,0:04:43.86,Opening,Song,0,0,0,,At a distance I knew I'd never reach,\NI still couldn't look away
+Dialogue: 0,0:04:43.96,0:04:49.15,Opening,Song,0,0,0,,In the gap between dreams and reality,\NI just couldn't stand still
+Dialogue: 0,0:04:49.20,0:04:49.65,Opening,Song,0,0,0,,Every time
+Dialogue: 0,0:04:49.70,0:04:53.76,Opening,Song,0,0,0,,someone said "that's enough,"
+Dialogue: 0,0:04:53.81,0:04:58.09,Opening,Song,0,0,0,,the finish line moved somewhere else
+Dialogue: 0,0:04:58.17,0:05:02.52,Opening,Song,0,0,0,,Not knowing how to give up,
+Dialogue: 0,0:05:02.57,0:05:07.57,Opening,Song,0,0,0,,I just ended up making it this far\NThe star I still can't even see
+Dialogue: 0,0:05:07.62,0:05:10.31,Opening,Song,0,0,0,,I can't grab it,
+Dialogue: 0,0:05:10.36,0:05:15.53,Opening,Song,0,0,0,,so I hold it close on the nights I lose
+Dialogue: 0,0:05:15.58,0:05:20.92,Opening,Song,0,0,0,,Every wish that never came true\Nleft its mark on me
+Dialogue: 0,0:05:20.97,0:05:26.19,Opening,Song,0,0,0,,The reason that never faded\Nis sparkling in my chest
+Dialogue: 0,0:05:26.24,0:05:31.62,Opening,Song,0,0,0,,Even if it never reaches,\NI'll keep reaching out
+Dialogue: 0,0:05:31.67,0:05:36.94,Opening,Song,0,0,0,,I never quit, and that alone\Nis why I can't end it yet
+Dialogue: 0,0:05:36.99,0:05:41.90,Opening,Song,0,0,0,,Even with no reward,\Nas long as I don't let it end,
+Dialogue: 0,0:05:41.95,0:05:47.28,Opening,Song,0,0,0,,the story that lies ahead\Nisn't a defeat
+Dialogue: 0,0:05:47.30,0:05:51.95,Sign,Sign,0,0,0,,{\fnTimes New Roman\fs15\blur2\c&HFFFFFF&\3c&H0F0636&\pos(501,28)}Page
+Dialogue: 0,0:05:47.30,0:05:51.95,Sign,Sign,0,0,0,,{\fnTimes New Roman\blur2\c&HFFFFFF&\3c&H0F0636&\pos(334,98)}Yuno Grinberryall
+Dialogue: 0,0:05:53.48,0:05:55.40,Main,,0,0,0,,What's going on?
+Dialogue: 0,0:05:56.75,0:06:01.58,Main,,0,0,0,,Two grimoires? What on earth...?
+Dialogue: 0,0:06:01.86,0:06:03.25,Main,,0,0,0,,What...?
+Dialogue: 0,0:06:09.15,0:06:11.58,Main,,0,0,0,,The Spade Kingdom's royal family
+Dialogue: 0,0:06:11.63,0:06:16.26,Main,,0,0,0,,has passed down special magic\Nfor generations.
+Dialogue: 0,0:06:18.02,0:06:20.30,Main,,0,0,0,,His father, Royce, was the sun.
+Dialogue: 0,0:06:22.28,0:06:24.16,Main,,0,0,0,,His mother, Ciel, was the moon.
+Dialogue: 0,0:06:25.72,0:06:26.72,Main,,0,0,0,,And
+Dialogue: 0,0:06:26.86,0:06:30.60,Main,,0,0,0,,Yuno Grinberryall,\Nwho inherited their blood...
+Dialogue: 0,0:06:32.56,0:06:34.80,Main,,0,0,0,,...has Star Magic.
+Dialogue: 0,0:06:36.51,0:06:40.16,Main,,0,0,0,,You're a child of the royal family.
+Dialogue: 0,0:06:40.85,0:06:44.75,Main,,0,0,0,,I feel like I've finally met
+Dialogue: 0,0:06:44.80,0:06:46.70,Main,,0,0,0,,the real Yuno.
+Dialogue: 0,0:06:46.75,0:06:50.56,Main,,0,0,0,,Yeah. But this power alone won't win it.
+Dialogue: 0,0:06:51.25,0:06:54.35,Main,,0,0,0,,Store up power inside me, Bell.
+Dialogue: 0,0:06:54.35,0:06:57.05,Main,,0,0,0,,Okay!
+Dialogue: 0,0:07:00.24,0:07:02.68,Main,,0,0,0,,Thanks to you two, I made it in time.
+Dialogue: 0,0:07:03.13,0:07:08.59,Main,,0,0,0,,Leave the rest to me. Go back to the\Nhealing mages and get treated...
+Dialogue: 0,0:07:09.05,0:07:13.41,Main,,0,0,0,,A four-leaf grimoire,\Nand a second one on top of that...
+Dialogue: 0,0:07:13.46,0:07:14.78,Main,,0,0,0,,Seriously,
+Dialogue: 0,0:07:15.68,0:07:17.71,Main,,0,0,0,,what are you?
+Dialogue: 0,0:07:18.50,0:07:22.90,Main,,0,0,0,,I'm the Golden Dawn's Vice-Captain,\Nremember?
+Dialogue: 0,0:07:23.98,0:07:27.04,Main,,0,0,0,,Heh... It's all yours!
+Dialogue: 0,0:07:30.15,0:07:31.51,Main,,0,0,0,,Star Magic...
+Dialogue: 0,0:07:32.15,0:07:35.98,Main,,0,0,0,,Quartile Scutum!
+Dialogue: 0,0:07:39.85,0:07:44.22,Main,,0,0,0,,There's no way back for you\Nfrom subspace.
+Dialogue: 0,0:07:45.38,0:07:49.22,Main,,0,0,0,,Star Magic... Conjunction!
+Dialogue: 0,0:07:49.54,0:07:50.39,Main,,0,0,0,,Oh...
+Dialogue: 0,0:07:50.44,0:07:52.86,Main,,0,0,0,,Instant teleport to a star!
+Dialogue: 0,0:07:53.35,0:07:56.49,Main,,0,0,0,,This page was etched\Nso I could beat you!
+Dialogue: 0,0:07:58.08,0:08:01.80,Main,,0,0,0,,Quartile Hasta!
+Dialogue: 0,0:08:05.65,0:08:07.45,Main,,0,0,0,,I'll prove that every choice\NI've made up to now
+Dialogue: 0,0:08:07.50,0:08:11.13,Main,,0,0,0,,wasn't wrong!
+Dialogue: 0,0:08:12.65,0:08:14.13,Main,,0,0,0,,I'll save everyone,
+Dialogue: 0,0:08:14.18,0:08:18.80,Main,,0,0,0,,save the kingdom,\Nand become the Wizard King!
+Dialogue: 0,0:08:19.16,0:08:20.95,Main,,0,0,0,,I...
+Dialogue: 0,0:08:22.40,0:08:25.14,Main,,0,0,0,,want to crush you!
+Dialogue: 0,0:08:35.85,0:08:38.35,Main,,0,0,0,,I'm...
+Dialogue: 0,0:08:38.40,0:08:38.93,Main,,0,0,0,,right!
+Dialogue: 0,0:08:46.05,0:08:47.27,Main,,0,0,0,,I'm...
+Dialogue: 0,0:08:47.32,0:08:48.93,Main,,0,0,0,,gonna win!
+Dialogue: 0,0:08:58.75,0:09:01.05,Main,,0,0,0,,Star Magic...
+Dialogue: 0,0:09:01.10,0:09:01.99,Main,,0,0,0,,Quartile!
+Dialogue: 0,0:09:05.01,0:09:07.96,Main,,0,0,0,,Bone... Whip!
+Dialogue: 0,0:09:08.22,0:09:10.44,Main,,0,0,0,,Haaah!
+Dialogue: 0,0:09:16.86,0:09:21.59,Main,,0,0,0,,Bone... combined with Spatial Magic...
+Dialogue: 0,0:09:21.64,0:09:24.93,Main,,0,0,0,,Demonic Dáinsleif...
+Dialogue: 0,0:09:28.65,0:09:30.27,Main,,0,0,0,,Space...
+Dialogue: 0,0:09:30.32,0:09:31.37,Main,,0,0,0,,Severance...
+Dialogue: 0,0:09:32.26,0:09:37.31,Main,,0,0,0,,Spatial severance... It can't be blocked!
+Dialogue: 0,0:09:38.75,0:09:40.97,Main,,0,0,0,,Broken stars can't
+Dialogue: 0,0:09:41.02,0:09:42.61,Main,,0,0,0,,regenerate for a while!
+Dialogue: 0,0:09:42.66,0:09:46.80,Main,,0,0,0,,The weak die so easily...!
+Dialogue: 0,0:09:46.95,0:09:50.06,Main,,0,0,0,,It's impossible to protect them all.
+Dialogue: 0,0:09:50.15,0:09:52.50,Main,,0,0,0,,So we'll destroy them once.
+Dialogue: 0,0:09:53.37,0:09:55.42,Main,,0,0,0,,And then regenerate them.
+Dialogue: 0,0:09:55.75,0:09:58.93,Main,,0,0,0,,This time, in bodies that never die.
+Dialogue: 0,0:09:58.98,0:10:03.97,Main,,0,0,0,,With the magic of us four Zogratis\Nsiblings, who've gained devil power,
+Dialogue: 0,0:10:04.02,0:10:07.47,Main,,0,0,0,,we can remake humanity.
+Dialogue: 0,0:10:07.65,0:10:10.75,Main,,0,0,0,,A happy nation free\Nfrom the fear of death...
+Dialogue: 0,0:10:10.80,0:10:14.58,Main,,0,0,0,,Let's build a truly peaceful\NSpade Kingdom.
+Dialogue: 0,0:10:17.15,0:10:22.78,Main,,0,0,0,,Everything... is for the good\Nof the Spade Kingdom!
+Dialogue: 0,0:10:25.45,0:10:28.06,Main,,0,0,0,,Let's hit him with our trump card!
+Dialogue: 0,0:10:47.55,0:10:49.51,Main,,0,0,0,,Spirit...
+Dialogue: 0,0:10:54.45,0:10:55.27,Main,,0,0,0,,of Boreas!
+Dialogue: 0,0:10:55.61,0:10:58.33,Italics,Song,0,0,0,,Believing it'll come true...
+Dialogue: 0,0:11:02.16,0:11:04.38,Italics,Song,0,0,0,,Overflowing, I'll hold it tight
+Dialogue: 0,0:11:04.43,0:11:09.49,Italics,Song,0,0,0,,Even if it turns out to be pain
+Dialogue: 0,0:11:09.54,0:11:11.24,Italics,Song,0,0,0,,If it can come true
+Dialogue: 0,0:11:11.83,0:11:14.78,Italics,Song,0,0,0,,For real
+Dialogue: 0,0:11:14.96,0:11:17.28,Italics,Song,0,0,0,,Let this love go on
+Dialogue: 0,0:11:17.96,0:11:20.44,Main,,0,0,0,,I've wiped out every star.
+Dialogue: 0,0:11:21.45,0:11:25.06,Main,,0,0,0,,No teleporting, and no defending.
+Dialogue: 0,0:11:25.11,0:11:28.52,Main,,0,0,0,,You've got no way\Nto destroy a devil's heart.
+Dialogue: 0,0:11:29.80,0:11:32.16,Main,,0,0,0,,This time, it's really over.
+Dialogue: 0,0:11:37.05,0:11:38.55,Main,,0,0,0,,Saint Stage...
+Dialogue: 0,0:11:38.60,0:11:44.27,Main,,0,0,0,,is reached when the resonance between\Na spirit and its host nears 100%.
+Dialogue: 0,0:11:44.32,0:11:49.97,Main,,0,0,0,,It's a domain that Yuno reached by\Nfighting on, right on the edge
+Dialogue: 0,0:11:50.02,0:11:54.29,Main,,0,0,0,,between life and death,\Nagain and again.
+Dialogue: 0,0:11:54.45,0:11:56.92,Main,,0,0,0,,The power to destroy devils.
+Dialogue: 0,0:11:58.85,0:12:02.11,Main,,0,0,0,,In the face of overwhelming power,
+Dialogue: 0,0:12:02.16,0:12:05.69,Main,,0,0,0,,everything is meaningless...
+Dialogue: 0,0:12:06.15,0:12:09.85,Main,,0,0,0,,I win!
+Dialogue: 0,0:12:15.85,0:12:18.00,Main,,0,0,0,,The stronger I get,
+Dialogue: 0,0:12:18.48,0:12:23.55,Main,,0,0,0,,the more new stars are born...\NConjunction!
+Dialogue: 0,0:12:24.96,0:12:28.96,Main,,0,0,0,,This is... our victory!
+Dialogue: 0,0:12:30.85,0:12:33.95,Main,,0,0,0,,Saint Spirit of Zephyr!
+Dialogue: 0,0:12:36.48,0:12:38.98,Main,,0,0,0,,Hah!
+Dialogue: 0,0:12:41.04,0:12:46.43,Main,,0,0,0,,From the moment we first met,\NI sensed something in you
+Dialogue: 0,0:12:46.48,0:12:47.70,Main,,0,0,0,,that was like me.
+Dialogue: 0,0:12:49.05,0:12:53.39,Main,,0,0,0,,Where did you and I go different ways?
+Dialogue: 0,0:12:58.25,0:12:59.46,Main,,0,0,0,,I dunno.
+Dialogue: 0,0:13:01.27,0:13:03.50,Main,,0,0,0,,I'm still on my way there too.
+Dialogue: 0,0:13:04.01,0:13:07.34,Main,,0,0,0,,To the promise I made with him...
+Dialogue: 0,0:13:08.95,0:13:12.20,Main,,0,0,0,,Then we're rivals!
+Dialogue: 0,0:13:13.55,0:13:16.76,Main,,0,0,0,,Let's see which of us\Nbecomes Commander-in-Chief!
+Dialogue: 0,0:13:27.78,0:13:29.28,Main,,0,0,0,,What the?!
+Dialogue: 0,0:13:29.33,0:13:31.16,Main,,0,0,0,,It's totally collapsing!
+Dialogue: 0,0:13:34.35,0:13:36.74,Main,,0,0,0,,Looks like Yuno defeated Zenon.
+Dialogue: 0,0:13:37.85,0:13:38.84,Main,,0,0,0,,Yuno...
+Dialogue: 0,0:13:40.32,0:13:44.00,Main,,0,0,0,,That's every member\Nof the Dark Triad defeated.
+Dialogue: 0,0:13:45.25,0:13:45.74,Main,,0,0,0,,And yet...
+Dialogue: 0,0:13:45.74,0:13:49.15,Main,,0,0,0,,why won't the Qliphoth Advent stop?
+Dialogue: 0,0:13:52.95,0:13:54.02,Main,,0,0,0,,Dammit,
+Dialogue: 0,0:13:54.55,0:14:00.37,Main,,0,0,0,,no matter how many we take down,\Nmore just keep popping up...
+Dialogue: 0,0:14:00.42,0:14:01.21,Main,,0,0,0,,Wizard King,
+Dialogue: 0,0:14:01.26,0:14:02.98,Main,,0,0,0,,what's wrong?
+Dialogue: 0,0:14:06.55,0:14:08.95,Main,,0,0,0,,Something's off.
+Dialogue: 0,0:14:09.85,0:14:13.95,Main,,0,0,0,,I feel like something huge\Nis about to come out...
+Dialogue: 0,0:14:15.97,0:14:20.75,Main,,0,0,0,,That was wonderful, your Dream Magic.
+Dialogue: 0,0:14:21.05,0:14:22.98,Main,,0,0,0,,Truly unbeatable magic.
+Dialogue: 0,0:14:23.78,0:14:26.64,Main,,0,0,0,,That is, if my magic hadn't gained\Na devil's power
+Dialogue: 0,0:14:27.02,0:14:31.90,Main,,0,0,0,,and the ability to interfere\Neven with concepts.
+Dialogue: 0,0:14:32.52,0:14:35.56,Main,,0,0,0,,I followed Nacht-kun's devil here, but
+Dialogue: 0,0:14:35.80,0:14:41.52,Main,,0,0,0,,nobody told big sis this guy\Nwas so dangerous.
+Dialogue: 0,0:14:43.66,0:14:48.62,Main,,0,0,0,,Until the next gate opens,\NI'll have fun toying with you.
+Dialogue: 0,0:14:49.16,0:14:53.97,Main,,0,0,0,,I'm not interested in you, so if you\Ntake back your betrayal, I'll forgive you,
+Dialogue: 0,0:14:54.02,0:14:55.61,Main,,0,0,0,,Lotus-kun.
+Dialogue: 0,0:14:56.15,0:14:57.36,Main,,0,0,0,,Sorry, but
+Dialogue: 0,0:14:57.41,0:15:00.14,Main,,0,0,0,,that's not gonna happen.
+Dialogue: 0,0:15:00.54,0:15:06.84,Main,,0,0,0,,In the world you're trying to make,\Nmy family couldn't live with a smile.
+Dialogue: 0,0:15:07.65,0:15:12.60,Main,,0,0,0,,Affection for family?\NI have no need for that anymore.
+Dialogue: 0,0:15:13.56,0:15:16.70,Main,,0,0,0,,After all, I'm nothing but a messenger
+Dialogue: 0,0:15:17.38,0:15:20.11,Main,,0,0,0,,for the strongest devil, Lucifero.
+Dialogue: 0,0:15:21.25,0:15:26.04,Main,,0,0,0,,Unlike Dante, you understand things.\NI like that.
+Dialogue: 0,0:15:26.84,0:15:32.61,Main,,0,0,0,,Megicula seemed to think\Nshe'd outsmarted me,
+Dialogue: 0,0:15:33.05,0:15:36.80,Main,,0,0,0,,but she made a fine test subject.
+Dialogue: 0,0:15:37.67,0:15:40.90,Main,,0,0,0,,The second gate will open soon.
+Dialogue: 0,0:15:40.98,0:15:44.36,Main,,0,0,0,,Once it does, I can come out.
+Dialogue: 0,0:15:45.15,0:15:48.60,Main,,0,0,0,,I've remade the Qliphoth tree\Nwith my magic.
+Dialogue: 0,0:15:48.65,0:15:51.62,Main,,0,0,0,,We don't need the Dark Triad anymore.
+Dialogue: 0,0:15:52.56,0:15:58.20,Main,,0,0,0,,As long as we have their magic and lives\Nas the core, the gate to Hell will open.
+Dialogue: 0,0:15:59.35,0:16:00.26,Main,,0,0,0,,Yami,
+Dialogue: 0,0:16:00.50,0:16:04.76,Main,,0,0,0,,William... Heh heh heh...
+Dialogue: 0,0:16:05.35,0:16:07.65,Main,,0,0,0,,You've got front-row seats.
+Dialogue: 0,0:16:07.70,0:16:11.10,Main,,0,0,0,,Modification Magic: Operation.
+Dialogue: 0,0:16:11.45,0:16:17.22,Main,,0,0,0,,Let's watch the Demon King's\Ndescent together... if you're still alive.
+Dialogue: 0,0:16:17.56,0:16:21.58,Main,,0,0,0,,Ugh, this is such a drag.
+Dialogue: 0,0:16:22.25,0:16:24.62,Main,,0,0,0,,Normally, I'd just run away.
+Dialogue: 0,0:16:25.48,0:16:26.98,Main,,0,0,0,,But I can't run,
+Dialogue: 0,0:16:27.03,0:16:29.66,Main,,0,0,0,,and I can't die either.
+Dialogue: 0,0:16:30.00,0:16:31.16,Main,,0,0,0,,I'm going home alive.
+Dialogue: 0,0:16:31.21,0:16:34.45,Main,,0,0,0,,Back to my family...
+Dialogue: 0,0:16:46.45,0:16:48.30,Main,,0,0,0,,What's that sound?
+Dialogue: 0,0:16:57.75,0:16:59.68,Main,,0,0,0,,We came to get you!
+Dialogue: 0,0:17:00.58,0:17:02.03,Main,,0,0,0,,Captain Yami!
+Dialogue: 0,0:17:02.08,0:17:04.04,Main,,0,0,0,,Hey!
+Dialogue: 0,0:17:06.95,0:17:08.96,Main,,0,0,0,,We kinda broke a bunch of stuff!
+Dialogue: 0,0:17:09.35,0:17:10.91,Main,,0,0,0,,It's fine, it's the enemy's hideout!
+Dialogue: 0,0:17:10.96,0:17:14.87,Main,,0,0,0,,No, it originally belonged to\Nthe Spade Kingdom's royal family—
+Dialogue: 0,0:17:15.15,0:17:19.15,Main,,0,0,0,,Quit whining and save\Nthe captain, you guys!
+Dialogue: 0,0:17:19.20,0:17:23.30,Main,,0,0,0,,Heh, another wild bunch showed up.
+Dialogue: 0,0:17:23.36,0:17:25.16,Main,,0,0,0,,Saved our skins, though.
+Dialogue: 0,0:17:25.22,0:17:28.35,Main,,0,0,0,,Perfect timing,\NBlack Bulls, everyone!
+Dialogue: 0,0:17:28.40,0:17:31.14,Main,,0,0,0,,Big sis is so happy to see you again!
+Dialogue: 0,0:17:31.36,0:17:32.80,Main,,0,0,0,,Heh heh heh.
+Dialogue: 0,0:17:33.15,0:17:35.99,Main,,0,0,0,,The ones Dante told me about...
+Dialogue: 0,0:17:36.04,0:17:39.20,Main,,0,0,0,,What a lineup of fascinating magic.
+Dialogue: 0,0:17:40.74,0:17:42.94,Main,,0,0,0,,They'll be well worth dissecting.
+Dialogue: 0,0:17:43.06,0:17:44.60,Main,,0,0,0,,I can't wait to get started.
+Dialogue: 0,0:17:45.42,0:17:48.68,Main,,0,0,0,,His mana's similar,\Nbut he's not Dark Triad.
+Dialogue: 0,0:17:48.92,0:17:50.30,Main,,0,0,0,,Who the heck are you?!
+Dialogue: 0,0:17:51.45,0:17:53.08,Main,,0,0,0,,Who cares who he is!
+Dialogue: 0,0:17:53.44,0:17:55.94,Main,,0,0,0,,He's in the way of saving the captain!
+Dialogue: 0,0:17:56.20,0:17:57.48,Main,,0,0,0,,Move!
+Dialogue: 0,0:17:57.92,0:18:00.99,Main,,0,0,0,,Modification Magic: Operation!
+Dialogue: 0,0:18:04.20,0:18:06.32,Main,,0,0,0,,Rouge's power isn't working?!
+Dialogue: 0,0:18:06.58,0:18:10.88,Main,,0,0,0,,My Modification Magic can now\Ninterfere even with concepts.
+Dialogue: 0,0:18:11.56,0:18:15.58,Main,,0,0,0,,Once I touch you, you're finished.
+Dialogue: 0,0:18:17.37,0:18:18.85,Main,,0,0,0,,Ugh... Huh?
+Dialogue: 0,0:18:21.08,0:18:24.68,Main,,0,0,0,,Hmm... Their very structure
+Dialogue: 0,0:18:24.73,0:18:26.24,Main,,0,0,0,,has actually changed...
+Dialogue: 0,0:18:27.16,0:18:29.72,Main,,0,0,0,,I've never seen magic like this.
+Dialogue: 0,0:18:30.68,0:18:34.44,Main,,0,0,0,,Transformation Magic\Ncan only change appearances.
+Dialogue: 0,0:18:35.05,0:18:38.11,Main,,0,0,0,,If I had to give it a name...
+Dialogue: 0,0:18:39.75,0:18:41.78,Main,,0,0,0,,Transmutation Magic!
+Dialogue: 0,0:18:42.18,0:18:48.54,Main,,0,0,0,,Wonderful! I want to tinker with it...\NBut can you block this many?
+Dialogue: 0,0:18:50.65,0:18:55.11,Main,,0,0,0,,Eek... It takes so much focus\NI can't transform... So embarrassing...
+Dialogue: 0,0:18:55.16,0:19:00.11,Main,,0,0,0,,This is no time for that, you idiot...\NJust shut up for now,
+Dialogue: 0,0:19:00.16,0:19:02.40,Main,,0,0,0,,and look at me!
+Dialogue: 0,0:19:03.26,0:19:07.94,Main,,0,0,0,,Mirror Magic: Mirrors Brigade!
+Dialogue: 0,0:19:08.26,0:19:10.01,Main,,0,0,0,,Magic Convert!
+Dialogue: 0,0:19:16.73,0:19:22.90,Main,,0,0,0,,Then how about this magic of mine,\Nchosen by the strongest devil?
+Dialogue: 0,0:19:23.61,0:19:25.14,Main,,0,0,0,,Gravity Magic:
+Dialogue: 0,0:19:25.60,0:19:27.50,Main,,0,0,0,,Demon King's Presence!
+Dialogue: 0,0:19:29.85,0:19:32.80,Main,,0,0,0,,Gravity can't be transmuted, can it?
+Dialogue: 0,0:19:33.38,0:19:36.18,Main,,0,0,0,,Then we'll break it down on our end.
+Dialogue: 0,0:19:37.17,0:19:40.12,Main,,0,0,0,,Back then...
+Dialogue: 0,0:19:41.25,0:19:45.84,Main,,0,0,0,,I couldn't protect anyone...
+Dialogue: 0,0:19:46.98,0:19:51.55,Main,,0,0,0,,But now... I'm here...
+Dialogue: 0,0:19:52.05,0:19:52.54,Main,,0,0,0,,Gordon?!
+Dialogue: 0,0:19:52.54,0:19:53.89,Main,,0,0,0,,You came back?!
+Dialogue: 0,0:19:53.94,0:19:56.04,Main,,0,0,0,,From that creepy family home of yours?
+Dialogue: 0,0:19:56.09,0:19:58.56,Main,,0,0,0,,I... No, the captain...
+Dialogue: 0,0:19:58.65,0:19:59.67,Main,,0,0,0,,Wh-What?
+Dialogue: 0,0:19:59.72,0:20:00.72,Main,,0,0,0,,...I'm gonna save the captain.
+Dialogue: 0,0:20:00.77,0:20:03.78,Main,,0,0,0,,Still can't understand a word he says.
+Dialogue: 0,0:20:03.98,0:20:06.84,Main,,0,0,0,,After half a year of research\Nand training, I found the answer:
+Dialogue: 0,0:20:07.58,0:20:10.24,Main,,0,0,0,,Poison, transformed, becomes medicine.
+Dialogue: 0,0:20:11.48,0:20:16.45,Main,,0,0,0,,My Curse Magic now\Nturns curses into strength.
+Dialogue: 0,0:20:16.50,0:20:19.61,Main,,0,0,0,,Detox Curse Magic:
+Dialogue: 0,0:20:20.36,0:20:23.31,Main,,0,0,0,,Neighbor of the Curse God!
+Dialogue: 0,0:20:23.48,0:20:30.69,Main,,0,0,0,,Choosing where the mana\Nis absorbed to... Wh-What...?
+Dialogue: 0,0:20:52.34,0:20:53.70,Main,,0,0,0,,Something's wrong.
+Dialogue: 0,0:20:54.10,0:20:57.76,Main,,0,0,0,,I should've gained the ultimate power...
+Dialogue: 0,0:21:01.66,0:21:05.67,Main,,0,0,0,,Hey!\NWhy are you guys here too?!
+Dialogue: 0,0:21:05.72,0:21:09.04,Main,,0,0,0,,Oh my, where were you dawdling?
+Dialogue: 0,0:21:09.30,0:21:13.25,Main,,0,0,0,,Whoa! It's all thanks to\Nthis huge hole you guys made!
+Dialogue: 0,0:21:13.30,0:21:16.59,Main,,0,0,0,,Heh heh heh,\Ngot held up dealing with small fry.
+Dialogue: 0,0:21:16.75,0:21:19.62,Main,,0,0,0,,Hey, it's been a while, you two.
+Dialogue: 0,0:21:19.84,0:21:21.90,Main,,0,0,0,,Not that I was worried or anything.
+Dialogue: 0,0:21:22.11,0:21:25.46,Main,,0,0,0,,Somehow or other,\Neveryone ended up together.
+Dialogue: 0,0:21:25.65,0:21:27.75,Main,,0,0,0,,Thanks for sealing my wounds.
+Dialogue: 0,0:21:27.95,0:21:29.32,Main,,0,0,0,,You're welcome?
+Dialogue: 0,0:21:29.37,0:21:32.92,Main,,0,0,0,,Anyway, everyone, eat something first!
+Dialogue: 0,0:21:33.40,0:21:37.94,Main,,0,0,0,,Yes, my countless experiments\Nhave raised me to a higher plane!
+Dialogue: 0,0:21:38.20,0:21:42.25,Main,,0,0,0,,And I have the talent\Nto host the strongest devil!
+Dialogue: 0,0:21:42.30,0:21:46.38,Main,,0,0,0,,Ugh... With the strongest devil's power,
+Dialogue: 0,0:21:46.43,0:21:50.10,Main,,0,0,0,,there should be nothing I can't do...!
+Dialogue: 0,0:21:57.66,0:22:00.42,Main,,0,0,0,,So you must be the enemy's\Nlast devil host,
+Dialogue: 0,0:22:00.85,0:22:03.62,Main,,0,0,0,,that Diamond Kingdom\Nmage-scientist, Morris?
+Dialogue: 0,0:22:04.75,0:22:06.94,Main,,0,0,0,,Whoever, whatever.
+Dialogue: 0,0:22:07.55,0:22:12.88,Main,,0,0,0,,There's only one thing we wanna say!
+Dialogue: 0,0:22:12.93,0:22:14.95,Main,,0,0,0,,Our captain...
+Dialogue: 0,0:22:15.55,0:22:17.45,Main,,0,0,0,,...give him back!
+Dialogue: 0,0:22:27.51,0:22:30.16,Ending,Song,0,0,0,,Bearing the mark of "no,"
+Dialogue: 0,0:22:30.74,0:22:33.74,Ending,Song,0,0,0,,this proof that won't let me go
+Dialogue: 0,0:22:35.16,0:22:41.74,Ending,Song,0,0,0,,Everything decided by the talent\Nwe're born with, a prank played by God
+Dialogue: 0,0:22:43.22,0:22:48.69,Ending,Song,0,0,0,,On this long and endless journey,\Nthe one I can't do without is you
+Dialogue: 0,0:22:48.74,0:22:53.07,Ending,Song,0,0,0,,Instead of just waiting on "chance,"\NI make miracles with this "stubbornness"
+Dialogue: 0,0:22:53.12,0:22:58.34,Ending,Song,0,0,0,,Beyond the fog, the sunrise. So let's run\Nthrough the night together, you and me
+Dialogue: 0,0:22:58.46,0:23:00.67,Ending,Song,0,0,0,,Why don't we go
+Dialogue: 0,0:23:00.72,0:23:04.25,Ending,Song,0,0,0,,Down the Yellow Brick Road
+Dialogue: 0,0:23:04.30,0:23:06.70,Ending,Song,0,0,0,,walking side by side?
+Dialogue: 0,0:23:06.78,0:23:09.38,Ending,Song,0,0,0,,So why don't we go
+Dialogue: 0,0:23:10.66,0:23:12.43,Ending,Song,0,0,0,,Down the Yellow Brick Road?
+Dialogue: 0,0:23:12.48,0:23:15.65,Ending,Song,0,0,0,,You and me\NEvery day we see something new
+Dialogue: 0,0:23:15.70,0:23:19.22,Ending,Song,0,0,0,,That I'd never turn back again
+Dialogue: 0,0:23:19.40,0:23:22.92,Ending,Song,0,0,0,,is what I swore to you
+Dialogue: 0,0:23:24.00,0:23:28.69,Ending,Song,0,0,0,,But when I look back, the footprints
+Dialogue: 0,0:23:28.74,0:23:33.44,Ending,Song,0,0,0,,are still there, never fading.\NWhy don't we go
+Dialogue: 0,0:23:35.08,0:23:36.81,Ending,Song,0,0,0,,Down the Yellow Brick Road?
+Dialogue: 0,0:23:36.86,0:23:40.61,Ending,Song,0,0,0,,You and me\NEvery day we see something new
+Dialogue: 0,0:23:40.66,0:23:45.05,Ending,Song,0,0,0,,Something new
+Dialogue: 0,0:23:45.10,0:23:49.08,Ending,Song,0,0,0,,Every day we see something new
+Comment: 0,0:00:00.00,0:00:00.00,Main,TITLE,0,0,0,,Yuno Grinberryall
+Comment: 0,0:00:00.00,0:00:00.00,Main,DESC,0,0,0,,Yuno awakens his Star Magic and takes down Zenon.
+
+
