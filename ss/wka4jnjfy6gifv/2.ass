@@ -1,0 +1,371 @@
+[Script Info]
+Title:
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+ScriptType: v4.00+
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,40,40,15,0
+Style: Sign,Arial,22,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,40,40,15,1
+Style: Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,40,40,15,0
+Style: Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,40,40,15,0
+Style: Italics-Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,40,40,15,0
+Style: Flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,40,40,15,1
+Style: Flashback-Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,8,40,40,15,1
+Style: Flashback-Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,2,40,40,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.40,0:00:03.61,Sign,Sign,0,0,0,,{\fad(550,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(170,307)}Informações de Vigo
+Dialogue: 0,0:00:00.58,0:00:04.37,Top,Licia,0,0,0,,Eu acredito que há alguém\Npor trás do Vigo-san.
+Dialogue: 0,0:00:05.10,0:00:07.80,Default,Rosell,0,0,0,,Talvez o Borotz-san tenha\Nmanipulado o Vigo-san
+Dialogue: 0,0:00:07.80,0:00:10.41,Default,Rosell,0,0,0,,para que ele prejudicasse Canarre.
+Dialogue: 0,0:00:10.41,0:00:14.82,Default,Rosell,0,0,0,,Itens mágicos que te deixam invisível\Nsão raros e difíceis de conseguir.
+Dialogue: 0,0:00:14.82,0:00:18.91,Default,Rosell,0,0,0,,Acredito que ele deva ter armado\Npara que isso chegasse até o Vigo-san.
+Dialogue: 0,0:00:19.50,0:00:22.42,Default,Licia,0,0,0,,Além disso, algo que ele disse me incomodou.
+Dialogue: 0,0:00:22.42,0:00:24.91,Flashback,Vigo,0,0,0,,Aliás, o infeliz do Borotz
+Dialogue: 0,0:00:24.91,0:00:27.82,Flashback,Vigo,0,0,0,,disse que não podia deixar\No jovem mestre vivo.
+Dialogue: 0,0:00:27.82,0:00:31.43,Flashback,Vigo,0,0,0,,Estão falando por aí que ele\Nvai mandar um assassino.
+Dialogue: 0,0:00:31.43,0:00:35.01,Default,Charlotte,0,0,0,,Mas por que ele chegaria a falar isso?
+Dialogue: 0,0:00:35.01,0:00:39.06,Default,Rosell,0,0,0,,Pro inimigo, talvez ele não se importe\Nse essa informação vazar ou não.
+Dialogue: 0,0:00:40.08,0:00:42.89,Default,Rosell,0,0,0,,Se o Ars-sama ficar com medo\Ne se enclausurar na mansão,
+Dialogue: 0,0:00:42.89,0:00:46.38,Default,Rosell,0,0,0,,não poderá obter mais aliados\Ne Canarre ficará estagnada.
+Dialogue: 0,0:00:46.38,0:00:49.89,Default,Rosell,0,0,0,,Por outro lado, mesmo que continue\Nem busca de aliados,
+Dialogue: 0,0:00:49.89,0:00:53.07,Default,Rosell,0,0,0,,isso facilitaria para o assassino matá-lo.
+Dialogue: 0,0:00:53.07,0:00:56.80,Default,Rosell,0,0,0,,O poder do Ars-sama acontece\Nao encontrar-se com as pessoas.
+Dialogue: 0,0:00:56.80,0:00:59.58,Default,Rosell,0,0,0,,Talvez seja uma estratégia pensando nisso.
+Dialogue: 0,0:00:59.58,0:01:03.93,Default,Ars,0,0,0,,De fato, não consigo usar meu talento\Nsem me encontrar com as pessoas.
+Dialogue: 0,0:01:03.93,0:01:08.25,Default,Ars,0,0,0,,Contudo, acho que conseguiria\Nidentificar o assassino se o visse.
+Dialogue: 0,0:01:08.68,0:01:11.97,Default,Ars,0,0,0,,Se está testando meus olhos,\Naceito o desafio.
+Dialogue: 0,0:01:12.27,0:01:16.10,Default,Rietz,0,0,0,,Porém, Ars-sama,\Nquero que tome muito cuidado.
+Dialogue: 0,0:01:16.42,0:01:20.59,Default,Rietz,0,0,0,,Não sabemos se vamos\Nnos deparar com o assassino.
+Dialogue: 0,0:01:21.32,0:01:24.31,Default,2ª Esposa,0,0,0,,Entendeu, não é? Dê o seu melhor.
+Dialogue: 0,0:02:49.29,0:02:55.03,Sign,Anime Title,0,0,0,,{\fnArial\an8\fs14\b1\blur2\c&H000000&\3c&HDDFAFF&\4c&H8CC8E8&\pos(477.23,195.59)}Como um aristocrata reencarnado,\N\N{\fs16\blur3\c&HFFF9FA&\shad0\3c&HACB330&}vou{\3c&HB7BA4C&} usar {\3c&H9CBE59&}minha habilidade{\3c&H9CBE59&} de\N{\3c&HA7C18B&}{\3c&H7FB69B&}{\3c&H9CBE59&}avaliação para {\3c&HA7C18B&}crescer {\3c&H69BCA5&}na vida
+Dialogue: 0,0:02:49.29,0:02:55.03,Sign,Anime Title,0,0,0,,{\an8\fnArial\bord2\blur2\fs16\c&H2CBFC9&\3c&HDDFAFF&\pos(475.75,257.68)}3ª {\b1\blur2\bord2\c&H000000&\3c&HDDFAFF&\4c&H8CC8E8&}Temporada
+Dialogue: 0,0:02:55.24,0:02:57.74,Sign,Sign,0,0,0,,{\fad(500,480)\shad0\bord1\blur1\fnArial Black\c&HD6D1D2&\pos(320,292)\3c&H161B1A&}Uma semana atrás
+Dialogue: 0,0:02:56.09,0:03:00.62,Top,Ars,0,0,0,,Não juntaram gente demais?!\NTem mais que o dobro da outra vez!
+Dialogue: 0,0:02:57.91,0:03:01.12,Sign,Sign,0,0,0,,{\fad(520,480)\fs14\an3\shad1\bord1\fnTimes New Roman\b1\c&HCACAC9&\3c&H302F2E&\4c&H302F2E&\pos(605.83,316.351)}Episódio 33\N{\fs17}Sentimentos de Muitos Anos
+Dialogue: 0,0:03:00.62,0:03:03.42,Top,Rietz,0,0,0,,É porque Canarre teve\Nconquistas de guerra.
+Dialogue: 0,0:03:03.42,0:03:06.44,Default,Rietz,0,0,0,,Lugares que vencem a guerra\Ntêm tratamento melhor.
+Dialogue: 0,0:03:06.44,0:03:09.52,Default,Rietz,0,0,0,,Ser militar no Castelo de Canarre\Né um trabalho popular.
+Dialogue: 0,0:03:09.52,0:03:13.61,Default,Charlotte,0,0,0,,E teve mais mulheres se candidatando\Ndepois que a Musha veio.
+Dialogue: 0,0:03:13.61,0:03:16.09,Default,Rosell,0,0,0,,Também temos mais candidatos\Nde outras províncias.
+Dialogue: 0,0:03:16.09,0:03:18.24,Default,Rosell,0,0,0,,Temos uma gama maior\Nde possibilidades.
+Dialogue: 0,0:03:18.24,0:03:21.48,Italics,Ars,0,0,0,,Entendo. Tudo está conectado.
+Dialogue: 0,0:03:21.48,0:03:25.36,Italics,Ars,0,0,0,,Com mais pessoas talentosas,\Npodemos ganhar batalhas.
+Dialogue: 0,0:03:25.36,0:03:28.13,Italics,Ars,0,0,0,,E então, conseguimos\Njuntar ainda mais pessoas.
+Dialogue: 0,0:03:28.60,0:03:32.27,Italics,Ars,0,0,0,,Realmente, não posso temer\Num assassino e não ver pessoas.
+Dialogue: 0,0:03:32.72,0:03:36.78,Italics,Ars,0,0,0,,Preciso parar essa situação,\Ntambém pelo bem de Canarre.
+Dialogue: 0,0:03:36.78,0:03:40.03,Sign,Sign,0,0,0,,{\fad(550,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(170,307)}Novas Contratações
+Dialogue: 0,0:03:37.50,0:03:40.03,Top,Rietz,0,0,0,,Próximo, por favor.
+Dialogue: 0,0:03:47.92,0:03:59.93,Sign,Sign,0,0,0,,{\fad(1,1)\shad0\fnArial\blur2\bord3\fs18\b1\3c&HC0DA59&\4c&HCFDB77&\c&HF9F7E7&\pos(222,272)}Enan Rueges, 21
+Dialogue: 0,0:03:47.92,0:03:59.93,Sign,Sign,0,0,0,,{\fad(1,1)\an7\fnArial\fs16\b1\c&H868123&\3c&HF8FF4A&\4c&HF8FF4A&}Liderança  Proeza  Inventividade\N\N\N\N\N\N\N\N\NAmbição
+Dialogue: 0,0:03:47.92,0:03:59.93,Sign,Sign,0,0,0,,{\an8\fad(1,1)\fnArial\fs16\b1\c&H868123&\3c&HF8FF4A&\4c&HF8FF4A&\pos(489,146)}Infantaria D  Cavalaria D  Arquearia D\N\N\N\N\N\NMagia D  Construtor B  Forja S\N\N\N\N\N\NNaval B  Aéreo B  Estrategista C
+Dialogue: 0,0:03:47.92,0:03:52.71,Italics,Ars,0,0,0,,Só hoje encontrei mais de 50 pessoas,\Nmas sua Inventividade é a maior de todas!
+Dialogue: 0,0:03:52.71,0:03:54.85,Italics,Ars,0,0,0,,Além disso, ela tem aptidão S de Forja!
+Dialogue: 0,0:03:54.85,0:03:57.65,Italics,Ars,0,0,0,,Não vejo estatísticas tão altas\Ndesde que conheci o Shin-san!
+Dialogue: 0,0:03:57.65,0:04:01.47,Italics,Ars,0,0,0,,Talvez ela possa ajudar o Shin-san\Ncom o desenvolvimento da nave!
+Dialogue: 0,0:03:59.93,0:04:04.45,Sign,Sign,0,0,0,,{\fad(1,1)\an8\fnArial\fs16\b1\c&H235B86&\3c&H5CE8F9&\4c&HF8FF4A&\pos(320,110)}Ano 191 do Calendário Imperial, nascida em Missian.\NOs pais estão vivos, tem dois irmãos mais velhos.
+Dialogue: 0,0:04:01.90,0:04:04.43,Italics,Ars,0,0,0,,Não parece ter nada estranho\Nno histórico dela.
+Dialogue: 0,0:04:04.43,0:04:08.08,Italics,Ars,0,0,0,,Além disso, ela tem pouca habilidade\Nem luta pra ser uma assassina.
+Dialogue: 0,0:04:08.08,0:04:10.94,Italics,Ars,0,0,0,,Não achei que ainda encontraria\Nalguém tão talentoso!
+Dialogue: 0,0:04:11.50,0:04:14.83,Default,Ars,0,0,0,,Sou Ars Louvent, senhor de Canarre.
+Dialogue: 0,0:04:14.83,0:04:17.44,Default,Ars,0,0,0,,Posso saber seu nome?
+Dialogue: 0,0:04:24.58,0:04:28.83,Sign,Sign,0,0,0,,{\an8}Como não posso falar, será que\Neu poderia me comunicar pela escrita?
+Dialogue: 0,0:04:30.20,0:04:32.62,Default,Ars,0,0,0,,Claro que sim!
+Dialogue: 0,0:04:36.42,0:04:37.84,Sign,Sign,0,0,0,,{\an8}Meu nome é Enan Rueges\Ne vim de Coumeire.
+Dialogue: 0,0:04:38.98,0:04:40.88,Default,Ars,0,0,0,,Enan Rueges-san.
+Dialogue: 0,0:04:40.88,0:04:43.35,Default,Ars,0,0,0,,Você veio de Coumeire, então.
+Dialogue: 0,0:04:43.72,0:04:46.10,Default,Ars,0,0,0,,Você tem uma letra bem bonita.
+Dialogue: 0,0:04:48.73,0:04:50.25,Default,Ars,0,0,0,,Por que se candidatou?
+Dialogue: 0,0:04:52.15,0:04:57.99,Sign,Sign,0,0,0,,{\an8}Gostaria de lhe ser útil.
+Dialogue: 0,0:04:53.04,0:04:57.99,Default,Ars,0,0,0,,Gostaria de ser útil? Entendi.
+Dialogue: 0,0:04:58.42,0:05:02.11,Default,Ars,0,0,0,,Bom, sei que é repentino,\Nmas já está contratada!
+Dialogue: 0,0:05:04.49,0:05:05.59,Default,Rietz,0,0,0,,Assine aqui.
+Dialogue: 0,0:05:23.09,0:05:25.61,Default,Rietz,0,0,0,,Ela parecia estar receosa.
+Dialogue: 0,0:05:25.61,0:05:27.06,Default,Rietz,0,0,0,,Será que tudo bem?
+Dialogue: 0,0:05:27.06,0:05:31.83,Default,Ars,0,0,0,,Sim. Não parecia ter nada suspeito\Ne não acho que ela seja uma assassina.
+Dialogue: 0,0:05:31.83,0:05:33.87,Default,Charlotte,0,0,0,,Espere aí!
+Dialogue: 0,0:05:33.87,0:05:37.40,Default,Charlotte,0,0,0,,Meu instinto feminino\Nestá gritando. Ela é suspeita!
+Dialogue: 0,0:05:38.57,0:05:39.60,Default,Licia,0,0,0,,Sim.
+Dialogue: 0,0:05:39.89,0:05:44.72,Default,Licia,0,0,0,,É estranho ela ter uma letra tão bonita,\Nsem sequer ter origem nobre.
+Dialogue: 0,0:05:44.72,0:05:48.54,Default,Licia,0,0,0,,Ars-sama. Que tal investigarmos sobre ela?
+Dialogue: 0,0:05:48.54,0:05:51.04,Default,Pham,0,0,0,,Eu concordo com as duas.
+Dialogue: 0,0:05:51.04,0:05:54.04,Default,Ars,0,0,0,,Por que acha isso, Pham-san?
+Dialogue: 0,0:05:54.04,0:05:57.14,Default,Pham,0,0,0,,Não sei qual o objetivo daquela mulher,
+Dialogue: 0,0:05:57.14,0:06:00.55,Default,Pham,0,0,0,,mas estava observando o interior\Ndo castelo e anotando umas coisas.
+Dialogue: 0,0:06:00.55,0:06:02.43,Default,Ars,0,0,0,,É mesmo?
+Dialogue: 0,0:06:02.43,0:06:03.60,Default,Ars,0,0,0,,Tudo bem.
+Dialogue: 0,0:06:03.60,0:06:06.93,Default,Ars,0,0,0,,Pham-san, posso pedir\Npara que investigue a Enan-san?
+Dialogue: 0,0:06:06.93,0:06:08.27,Default,Pham,0,0,0,,Deixa comigo.
+Dialogue: 0,0:06:22.34,0:06:26.32,Default,2ª Esposa,0,0,0,,Sei. Quer dizer que você conseguiu\Ncair no gosto do Ars-sama.
+Dialogue: 0,0:06:30.83,0:06:33.31,Default,Ars,0,0,0,,A Enan-san é uma empregada?
+Dialogue: 0,0:06:33.31,0:06:34.51,Default,Pham,0,0,0,,Sim.
+Dialogue: 0,0:06:34.51,0:06:38.59,Default,Pham,0,0,0,,Depois de segui-la, a vi entrando numa mansão\Nde um comerciante de Coumeire.
+Dialogue: 0,0:06:39.07,0:06:42.09,Default,Pham,0,0,0,,Parece que ela se dedica a essa família.
+Dialogue: 0,0:06:42.40,0:06:44.62,Default,Ars,0,0,0,,E por que ela viria pra cá?
+Dialogue: 0,0:06:44.62,0:06:47.22,Default,Ars,0,0,0,,Se são comerciantes,\No salário deve ser bom.
+Dialogue: 0,0:06:47.50,0:06:50.63,Top,Pham,0,0,0,,Deixa comigo. Eu vou descobrir!
+Dialogue: 0,0:06:49.76,0:06:52.89,Sign,Sign,0,0,0,,{\fad(550,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(170,307)}Infiltração como Empregada
+Dialogue: 0,0:06:55.48,0:06:59.48,Default,Pham (Lynn),0,0,0,,Desculpa a demora, senhora!\NAcabou de sair do forno!
+Dialogue: 0,0:06:59.48,0:07:02.99,Default,2ª Esposa,0,0,0,,Que incrível! Todos parecem deliciosos.
+Dialogue: 0,0:07:02.99,0:07:07.97,Default,2ª Esposa,0,0,0,,Você é cheia de charme e fofa também.\NAinda bem que te contratei.
+Dialogue: 0,0:07:08.32,0:07:09.99,Default,2ª Esposa,0,0,0,,Em comparação…
+Dialogue: 0,0:07:09.99,0:07:13.12,Default,2ª Esposa,0,0,0,,Aquela garota é tão pra dentro,\Nque desgosto.
+Dialogue: 0,0:07:13.12,0:07:15.58,Default,2ª Esposa,0,0,0,,Vamos todas comer juntas.
+Dialogue: 0,0:07:15.58,0:07:16.56,Default,Maids,0,0,0,,Sim.
+Dialogue: 0,0:07:17.12,0:07:21.63,Default,Pham (Lynn),0,0,0,,Er… A senhora não é meio\Ndura demais com a Enan?
+Dialogue: 0,0:07:21.63,0:07:25.71,Default,Maid A,0,0,0,,Pois é. Ela normalmente é muito boazinha,
+Dialogue: 0,0:07:25.71,0:07:29.01,Default,Maid A,0,0,0,,mas é fria com a Enan\Ne não sabemos por quê.
+Dialogue: 0,0:07:29.01,0:07:32.36,Default,Maid A,0,0,0,,Dentre as empregadas,\Nela é a que trabalha melhor.
+Dialogue: 0,0:07:32.36,0:07:36.59,Default,Maid A,0,0,0,,Enan é a única que trabalha aqui\Ndesde a primeira esposa.
+Dialogue: 0,0:07:37.12,0:07:40.62,Default,Pham (Lynn),0,0,0,,Nossa, mas essa mansão é tão grande!
+Dialogue: 0,0:07:40.62,0:07:45.11,Default,Maid A,0,0,0,,Pois é! Em Coumeire, somos um\Ndentre os maiores comerciantes!
+Dialogue: 0,0:07:45.11,0:07:49.07,Default,Maid A,0,0,0,,O patrão anda pelo mundo todo,\Nentão quase não fica em casa.
+Dialogue: 0,0:07:49.07,0:07:51.76,Default,Maid A,0,0,0,,Aparentemente, a primeira esposa\Nera impressionante,
+Dialogue: 0,0:07:51.76,0:07:53.60,Default,Maid A,0,0,0,,mas parece que faleceu por doença.
+Dialogue: 0,0:07:53.60,0:07:57.29,Default,Maid A,0,0,0,,Então a senhora de agora veio\Ncomo segunda esposa.
+Dialogue: 0,0:07:58.87,0:08:01.00,Default,Pham,0,0,0,,Nossa. E por que a Enan não fala?
+Dialogue: 0,0:08:01.00,0:08:01.92,Default,Pham,0,0,0,,Doença?
+Dialogue: 0,0:08:01.92,0:08:03.36,Default,Maid A,0,0,0,,Não sei.
+Dialogue: 0,0:08:03.36,0:08:06.92,Default,Maid A,0,0,0,,Mas parece que ela falava\Nna época da primeira esposa.
+Dialogue: 0,0:08:06.92,0:08:09.44,Default,Pham,0,0,0,,Não aconteceu nada de diferente\Ncom ela recentemente?
+Dialogue: 0,0:08:09.44,0:08:12.82,Default,Pham,0,0,0,,Tipo, ela estar frequentando\Na província de Seitz.
+Dialogue: 0,0:08:12.82,0:08:14.96,Default,Maid A,0,0,0,,Nunca fiquei sabendo disso.
+Dialogue: 0,0:08:14.96,0:08:16.87,Default,Maid A,0,0,0,,Ela nasceu em Coumeire,
+Dialogue: 0,0:08:16.87,0:08:19.42,Top,Maid A,0,0,0,,por isso nunca deve ter\Nsaído de Canarre, sabe?
+Dialogue: 0,0:08:17.31,0:08:19.42,Italics,Pham,0,0,0,,Enan Rueges.
+Dialogue: 0,0:08:19.42,0:08:21.87,Italics,Pham,0,0,0,,Há muitas incógnitas sobre ela.
+Dialogue: 0,0:08:21.87,0:08:24.32,Italics,Pham,0,0,0,,Vou ter que fazer contato direto.
+Dialogue: 0,0:08:25.72,0:08:29.07,Default,Maid A,0,0,0,,Hã? Vai mandar a Enan fazer isso sozinha?!
+Dialogue: 0,0:08:29.07,0:08:32.13,Default,2ª Esposa,0,0,0,,A esposa do marquês vem aqui.
+Dialogue: 0,0:08:32.13,0:08:34.58,Default,2ª Esposa,0,0,0,,Precisamos limpar agora.
+Dialogue: 0,0:08:34.58,0:08:37.33,Default,Maid A,0,0,0,,Só que o dia está acabando.
+Dialogue: 0,0:08:37.33,0:08:39.25,Default,Maid A,0,0,0,,Se é o caso, nós podemos ajudar!
+Dialogue: 0,0:08:39.25,0:08:42.90,Default,2ª Esposa,0,0,0,,Ora, mas eu confio\Nnas habilidades da Enan.
+Dialogue: 0,0:08:42.90,0:08:44.96,Default,2ª Esposa,0,0,0,,Você, que é tão habilidosa,\Nconsegue, não é?
+Dialogue: 0,0:08:46.96,0:08:49.28,Default,2ª Esposa,0,0,0,,Vocês não podem ajudá-la.
+Dialogue: 0,0:08:49.28,0:08:52.29,Default,2ª Esposa,0,0,0,,Vamos entrar, logo vai chover.
+Dialogue: 0,0:09:06.86,0:09:10.09,Default,Pham (Lynn),0,0,0,,É coisa demais pra fazer\Nsozinha. Eu te ajudo.
+Dialogue: 0,0:09:24.73,0:09:27.04,Default,Pham (Lynn),0,0,0,,Acabamos!
+Dialogue: 0,0:09:27.04,0:09:29.16,Default,Pham (Lynn),0,0,0,,Ai, cansei!
+Dialogue: 0,0:09:29.16,0:09:33.50,Default,Pham (Lynn),0,0,0,,Que coisa, a senhora pediu\Nalgo impossível, hein?
+Dialogue: 0,0:09:33.50,0:09:36.52,Default,Pham (Lynn),0,0,0,,Hum? Obrigada?
+Dialogue: 0,0:09:36.52,0:09:38.87,Default,Pham (Lynn),0,0,0,,Ah, nem se incomode!
+Dialogue: 0,0:09:38.87,0:09:43.02,Default,Pham (Lynn),0,0,0,,Até porque pudemos ver a cara\Nde passada da senhora! Foi ótimo.
+Dialogue: 0,0:09:44.33,0:09:46.77,Sign,Sign,0,0,0,,Queria enquadrar aquela cara e colocar na entrada.
+Dialogue: 0,0:09:47.53,0:09:50.19,Default,Pham (Lynn),0,0,0,,Seria ótimo!
+Dialogue: 0,0:09:50.19,0:09:54.47,Default,Pham (Lynn),0,0,0,,Só que aí não receberíamos mais visitas.
+Dialogue: 0,0:09:54.47,0:09:56.49,Sign,Sign,0,0,0,,{\an8}Embaixo, colocaríamos a legenda\N"Momento Impactante da Senhora da Casa"
+Dialogue: 0,0:09:57.33,0:10:00.09,Italics,Pham,0,0,0,,Eu achei que ela era toda deprê.
+Dialogue: 0,0:10:00.09,0:10:02.33,Italics,Pham,0,0,0,,Não é como se essa fosse\Nsua personalidade.
+Dialogue: 0,0:10:02.33,0:10:05.08,Italics,Pham,0,0,0,,E ela foi bem meticulosa\Nna hora de tirar a grama.
+Dialogue: 0,0:10:05.08,0:10:09.07,Italics,Pham,0,0,0,,Parece que o Ars não estava errado\Nem ver talento nela.
+Dialogue: 0,0:10:09.07,0:10:11.87,Italics,Pham,0,0,0,,Vou continuar infiltrado e observar mais.
+Dialogue: 0,0:10:42.26,0:10:45.27,Italics,Pham,0,0,0,,O que ela vai fazer tão tarde?
+Dialogue: 0,0:10:47.60,0:10:50.50,Italics,Pham,0,0,0,,Aonde ela pretende ir?
+Dialogue: 0,0:10:53.36,0:10:57.01,Sign,BREAK,0,0,0,,{\fad(450,0)\fnArial\fs8\b1\an1\c&H000000&\3c&HDDFAFF&\4c&H8CC8E8&\pos(474.88,264.66)}Como um aristocrata reencarnado,\N\N{\fs11\c&HFFF9FA&\shad0\3c&HACB330&}Vou{\3c&HB7BA4C&} usar {\3c&H9CBE59&}minha habilidade{\3c&H9CBE59&}\Nde {\3c&HA7C18B&}{\3c&H7FB69B&}{\3c&H9CBE59&}avaliação para {\3c&HA7C18B&}crescer {\3c&H69BCA5&}na vida
+Dialogue: 0,0:10:53.48,0:10:55.16,Italics,Pham,0,0,0,,Sumiu?!
+Dialogue: 0,0:10:57.03,0:11:00.36,Sign,BREAK,0,0,0,,{\fad(450,408)\fnArial\fs8\b1\an1\c&H000000&\3c&HDDFAFF&\4c&H8CC8E8&\pos(33.73,264.73)}Como um aristocrata reencarnado,\N\N{\fs11\c&HFFF9FA&\shad0\3c&HACB330&}Vou{\3c&HB7BA4C&} usar {\3c&H9CBE59&}minha habilidade{\3c&H9CBE59&}\Nde {\3c&HA7C18B&}{\3c&H7FB69B&}{\3c&H9CBE59&}avaliação para {\3c&HA7C18B&}crescer {\3c&H69BCA5&}na vida
+Dialogue: 0,0:11:00.72,0:11:04.02,Sign,Sign,0,0,0,,{\fad(550,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(170,307)}Mistério de Enan
+Dialogue: 0,0:11:00.72,0:11:04.02,Italics-Top,Pham,0,0,0,,A Enan sumiu aqui ontem de noite.
+Dialogue: 0,0:11:04.02,0:11:06.02,Italics,Pham,0,0,0,,Mas como?
+Dialogue: 0,0:11:35.64,0:11:40.02,Default,Pham,0,0,0,,Como o Ars disse,\Nela parece ser habilidosa.
+Dialogue: 0,0:11:41.53,0:11:42.62,Italics,Pham,0,0,0,,Isso…!
+Dialogue: 0,0:11:42.62,0:11:44.68,Italics,Pham,0,0,0,,Material sobre ervas venenosas?!
+Dialogue: 0,0:11:44.68,0:11:48.04,Default,Pham,0,0,0,,A Enan está tentando envenenar o Ars?
+Dialogue: 0,0:11:54.19,0:11:55.79,Default,Pham,0,0,0,,Um diário?
+Dialogue: 0,0:11:56.14,0:11:57.69,Flashback-Italics,Enan,0,0,0,,Oito de julho,
+Dialogue: 0,0:11:57.69,0:11:59.64,Flashback-Italics,Enan,0,0,0,,para treinar minha escrita,
+Dialogue: 0,0:11:59.64,0:12:02.00,Flashback-Italics,Enan,0,0,0,,decidi começar um diário a partir de hoje.
+Dialogue: 0,0:12:03.02,0:12:05.70,Flashback-Top,Enan,0,0,0,,Veja, senhora! Consegui!
+Dialogue: 0,0:12:03.20,0:12:05.66,Sign,Sign,0,0,0,,{\fad(480,1)\fs19\shad1\bord1\fnTimes New Roman\b1\c&HCFCDCF&\3c&H3E3F41&\4c&H232C28&\pos(322.67,296)}Enan, 15 anos
+Dialogue: 0,0:12:05.70,0:12:09.78,Flashback-Top,1ª Esposa,0,0,0,,Nossa, Enan! Você é muito melhor que eu!
+Dialogue: 0,0:12:09.78,0:12:12.80,Flashback,1ª Esposa,0,0,0,,Você aprende tudo que a gente ensina.
+Dialogue: 0,0:12:12.80,0:12:15.21,Flashback,1ª Esposa,0,0,0,,Você aprende tão rápido.
+Dialogue: 0,0:12:15.60,0:12:18.11,Italics,Enan,0,0,0,,Eu entrei nesta mansão\Ncomo empregada dedicada,
+Dialogue: 0,0:12:18.11,0:12:20.71,Italics,Enan,0,0,0,,e a senhora da casa\Nme ensinou muitas coisas.
+Dialogue: 0,0:12:20.71,0:12:24.18,Flashback,1ª Esposa,0,0,0,,Presta atenção. É pra manter em segredo\Ndo meu marido sobre este quartinho.
+Dialogue: 0,0:12:24.18,0:12:26.72,Flashback,Enan,0,0,0,,Sim! É o nosso segredinho.
+Dialogue: 0,0:12:27.11,0:12:28.59,Flashback,1ª Esposa,0,0,0,,Sabe, Enan.
+Dialogue: 0,0:12:29.27,0:12:32.47,Flashback,1ª Esposa,0,0,0,,É melhor que um dia\Nvocê saia desta mansão.
+Dialogue: 0,0:12:32.47,0:12:34.98,Flashback,1ª Esposa,0,0,0,,Eu te libero das obrigações\Ncom esta família.
+Dialogue: 0,0:12:34.98,0:12:38.90,Flashback,Enan,0,0,0,,Hã? Por quê?!\NEu não faço os afazeres direito?
+Dialogue: 0,0:12:38.90,0:12:43.11,Flashback,1ª Esposa,0,0,0,,Não é isso. É que é um desperdício\Nque fique aqui como empregada.
+Dialogue: 0,0:12:43.11,0:12:46.78,Flashback,1ª Esposa,0,0,0,,Estude, tenha uma profissão\Ne seja independente.
+Dialogue: 0,0:12:46.78,0:12:49.62,Flashback,1ª Esposa,0,0,0,,Vai poder ganhar muito mais do que agora.
+Dialogue: 0,0:12:49.98,0:12:51.02,Flashback,1ª Esposa,0,0,0,,Vejamos.
+Dialogue: 0,0:12:51.02,0:12:54.50,Flashback,1ª Esposa,0,0,0,,Você tem dedos habilidosos.\NPor que não vira uma artesã?
+Dialogue: 0,0:12:55.04,0:12:58.00,Flashback,1ª Esposa,0,0,0,,Você com certeza seria\Numa artesã incrível.
+Dialogue: 0,0:13:01.26,0:13:05.47,Flashback,Enan,0,0,0,,Mas, senhora! Eu quero ficar\Ncom a senhora pra sempre!
+Dialogue: 0,0:13:05.47,0:13:08.07,Flashback,1ª Esposa,0,0,0,,Poxa, você não tem jeito.
+Dialogue: 0,0:13:08.07,0:13:09.73,Flashback,1ª Esposa,0,0,0,,Eu até fico feliz com isso.
+Dialogue: 0,0:13:09.73,0:13:11.97,Flashback,1ª Esposa,0,0,0,,É mesmo. Você sabe escrever?
+Dialogue: 0,0:13:12.44,0:13:13.53,Flashback,Enan,0,0,0,,Não…
+Dialogue: 0,0:13:13.53,0:13:16.48,Flashback,1ª Esposa,0,0,0,,É? Pois eu te ensino.
+Dialogue: 0,0:13:17.14,0:13:18.36,Italics,Enan,0,0,0,,Depois disso,
+Dialogue: 0,0:13:18.36,0:13:21.48,Italics,Enan,0,0,0,,a senhora faleceu por\Numa doença desconhecida.
+Dialogue: 0,0:13:23.48,0:13:28.69,Default,Pham,0,0,0,,A letra da Enan é bonita,\Nporque ela aprendeu com a primeira esposa.
+Dialogue: 0,0:13:37.25,0:13:41.09,Default,Pham (Lynn),0,0,0,,Já está na hora do almoço. Vamos comer.
+Dialogue: 0,0:13:45.26,0:13:49.90,Default,Pham (Lynn),0,0,0,,Eu tenho que comprar umas coisas\Nque a senhora me pediu.
+Dialogue: 0,0:13:49.90,0:13:52.26,Default,Pham (Lynn),0,0,0,,Ah, é mesmo?
+Dialogue: 0,0:13:55.02,0:13:57.89,Default,Maid A,0,0,0,,Ah, até parece, né?
+Dialogue: 0,0:13:57.89,0:14:01.27,Default,Pham (Lynn),0,0,0,,Ei. Aonde a Enan foi fazer as compras?
+Dialogue: 0,0:14:01.27,0:14:04.27,Default,Maid A,0,0,0,,Hã? Ela não tinha essa tarefa hoje.
+Dialogue: 0,0:14:04.27,0:14:08.54,Default,Maid A,0,0,0,,Às vezes ela some na hora do almoço mesmo.
+Dialogue: 0,0:14:08.54,0:14:10.28,Default,Maid B,0,0,0,,É mesmo, tem razão.
+Dialogue: 0,0:14:10.82,0:14:13.03,Italics,Pham,0,0,0,,Vou segui-la na próxima.
+Dialogue: 0,0:14:13.03,0:14:15.29,Default,Guarda A,0,0,0,,Ei, acabou a birita.
+Dialogue: 0,0:14:16.53,0:14:19.63,Default,Guarda A,0,0,0,,Opa, essa tem uma carinha linda, hein?
+Dialogue: 0,0:14:19.63,0:14:23.04,Default,Maid A,0,0,0,,Ei, pare com isso. Ela acabou de entrar!
+Dialogue: 0,0:14:23.04,0:14:27.05,Default,Maid A,0,0,0,,A gente entregou tanto e já acabou?!
+Dialogue: 0,0:14:27.05,0:14:30.30,Default,Maid B,0,0,0,,Você tá bem, Lynn-chan?\NDeve ter se assustado.
+Dialogue: 0,0:14:30.30,0:14:33.24,Default,Pham (Lynn),0,0,0,,Quem são aqueles mal-encarados?
+Dialogue: 0,0:14:33.24,0:14:36.18,Default,Maid B,0,0,0,,São uns guardas\Nque a atual senhora contratou.
+Dialogue: 0,0:14:36.18,0:14:38.19,Default,Maid B,0,0,0,,Eles moram aqui.
+Dialogue: 0,0:14:38.19,0:14:41.02,Default,Maid B,0,0,0,,Não sabemos muito desse povo…
+Dialogue: 0,0:14:41.02,0:14:44.26,Default,Maid B,0,0,0,,Eles bebem desde cedo e vivem apostando.
+Dialogue: 0,0:14:44.26,0:14:47.82,Default,Maid C,0,0,0,,Não sei por que ela contratou essa gente.
+Dialogue: 0,0:14:53.34,0:14:54.32,Default,2ª Esposa,0,0,0,,Então?
+Dialogue: 0,0:14:54.32,0:14:57.33,Default,2ª Esposa,0,0,0,,Não recebeu contato\Ndo Castelo de Canarre ainda?
+Dialogue: 0,0:14:57.33,0:15:00.75,Sign,Sign,0,0,0,,{\fad(550,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(170,307)}A Verdade
+Dialogue: 0,0:14:57.78,0:15:00.83,Top,2ª Esposa,0,0,0,,Será que não vão te chamar logo?
+Dialogue: 0,0:15:01.18,0:15:05.59,Default,2ª Esposa,0,0,0,,Parece que ainda não consegue usar\Na garganta que eu esmaguei naquele dia.
+Dialogue: 0,0:15:08.92,0:15:12.77,Italics,Enan,0,0,0,,Depois que a primeira esposa\Nfaleceu repentinamente por doença,
+Dialogue: 0,0:15:12.77,0:15:15.27,Italics,Enan,0,0,0,,uma nova senhora veio.
+Dialogue: 0,0:15:16.10,0:15:19.13,Italics,Enan,0,0,0,,Parece que ela era amiga da outra senhora
+Dialogue: 0,0:15:19.13,0:15:22.96,Italics,Enan,0,0,0,,e era muito gentil, tentando\Nme confortar enquanto eu estava triste.
+Dialogue: 0,0:15:23.72,0:15:25.23,Italics,Enan,0,0,0,,Até aquela noite.
+Dialogue: 0,0:15:26.18,0:15:28.98,Flashback,Enan,0,0,0,,{\fad(850,0)}Hã? Vão transferir a sepultura agora?
+Dialogue: 0,0:15:28.98,0:15:34.28,Flashback,Enan,0,0,0,,De fato, o senhor disse que queria\Ntransferir para um lugar mais ensolarado,
+Dialogue: 0,0:15:34.28,0:15:37.56,Flashback,Enan,0,0,0,,mas não podemos fazer isso\Ndepois que ele voltar da viagem?
+Dialogue: 0,0:15:37.56,0:15:40.60,Flashback,2ª Esposa,0,0,0,,Eu não quero que ele tenha trabalho.
+Dialogue: 0,0:15:40.60,0:15:43.62,Flashback,2ª Esposa,0,0,0,,Como é perigoso,\Nnão precisa ajudar, tá bom?
+Dialogue: 0,0:15:47.16,0:15:51.34,Flashback,Enan,0,0,0,,Não posso deixar que eles\Nfaçam isso nessa tempestade.
+Dialogue: 0,0:15:51.34,0:15:53.39,Flashback,Enan,0,0,0,,Vou lá ajudar e…
+Dialogue: 0,0:15:54.34,0:15:57.73,Flashback,Guarda A,0,0,0,,Saco. Deu nisso porque você\Nusou erva venenosa para matá-la.
+Dialogue: 0,0:15:57.73,0:15:59.48,Flashback,2ª Esposa,0,0,0,,O melhor método para matá-la
+Dialogue: 0,0:15:59.48,0:16:03.67,Flashback,2ª Esposa,0,0,0,,era fazer com que bebesse\No chá infusionado com erva deo.
+Dialogue: 0,0:16:03.67,0:16:07.23,Flashback,2ª Esposa,0,0,0,,Graças a isso, ninguém desconfia\Nque a matei com veneno.
+Dialogue: 0,0:16:07.23,0:16:09.53,Flashback,2ª Esposa,0,0,0,,Vamos, terminem isso logo.
+Dialogue: 0,0:16:09.53,0:16:13.24,Flashback,2ª Esposa,0,0,0,,Será um problema se alguém vir os ossos dela\Nde outra cor por causa do veneno.
+Dialogue: 0,0:16:13.58,0:16:16.74,Flashback-Italics,Enan,0,0,0,,Não acredito! A senhora…
+Dialogue: 0,0:16:20.60,0:16:22.41,Flashback-Italics,Enan,0,0,0,,Ela foi morta?!
+Dialogue: 0,0:16:22.41,0:16:23.91,Flashback,2ª Esposa,0,0,0,,Ora, Enan.
+Dialogue: 0,0:16:23.91,0:16:24.76,Flashback,Enan,0,0,0,,Por quê?
+Dialogue: 0,0:16:24.76,0:16:28.30,Flashback,Enan,0,0,0,,Por que a matou? Não eram amigas?!
+Dialogue: 0,0:16:28.30,0:16:31.31,Flashback,2ª Esposa,0,0,0,,Por quê? Ela tava me atrapalhando, oras.
+Dialogue: 0,0:16:31.31,0:16:33.80,Flashback,2ª Esposa,0,0,0,,Casar-se com um comerciante\Ntraz mais estabilidade, né?
+Dialogue: 0,0:16:34.11,0:16:35.84,Flashback,Enan,0,0,0,,Só por isso?
+Dialogue: 0,0:16:36.78,0:16:38.55,Flashback,Enan,0,0,0,,Não acredito que a matou…
+Dialogue: 0,0:16:38.55,0:16:40.38,Flashback,Enan,0,0,0,,Não vou perdoá-la!
+Dialogue: 0,0:16:40.73,0:16:43.76,Flashback,Guarda B,0,0,0,,O que fazemos com ela? Vamos matá-la?
+Dialogue: 0,0:16:43.76,0:16:47.16,Flashback,Guarda A,0,0,0,,Idiota. Vão suspeitar\Nse outra morrer em seguida.
+Dialogue: 0,0:16:47.16,0:16:49.71,Flashback,Guarda C,0,0,0,,O senhor também a mima bastante.
+Dialogue: 0,0:16:49.71,0:16:52.07,Flashback,Guarda C,0,0,0,,Não podemos dispensá-la sem motivo.
+Dialogue: 0,0:16:52.60,0:16:54.44,Flashback,2ª Esposa,0,0,0,,Ora, vejamos.
+Dialogue: 0,0:16:54.44,0:16:57.20,Flashback,2ª Esposa,0,0,0,,Podem machucá-la a ponto
+Dialogue: 0,0:16:57.20,0:16:59.82,Flashback,2ª Esposa,0,0,0,,de ela não ter vontade de falar.
+Dialogue: 0,0:17:03.75,0:17:06.00,Italics,Enan,0,0,0,,Depois que esmagaram minha garganta,
+Dialogue: 0,0:17:06.00,0:17:08.08,Italics,Enan,0,0,0,,eu não conseguia mais falar.
+Dialogue: 0,0:17:08.58,0:17:11.59,Italics,Enan,0,0,0,,Também se desfizeram das provas.
+Dialogue: 0,0:17:11.59,0:17:14.35,Italics,Enan,0,0,0,,Desse jeito, não poderei vingá-la.
+Dialogue: 0,0:17:16.47,0:17:18.47,Italics,Enan,0,0,0,,Eu preciso…
+Dialogue: 0,0:17:18.96,0:17:21.51,Italics,Enan,0,0,0,,Expor essa verdade para todo mundo!
+Dialogue: 0,0:17:23.97,0:17:26.78,Default,Guarda C,0,0,0,,E o que faremos agora?
+Dialogue: 0,0:17:26.78,0:17:30.69,Default,2ª Esposa,0,0,0,,Vamos usá-la para que comprem\Nnossos produtos pro Castelo de Canarre.
+Dialogue: 0,0:17:30.69,0:17:35.52,Default,2ª Esposa,0,0,0,,Um governante com certeza paga bem,\Nentão vamos ficar mais ricos.
+Dialogue: 0,0:17:35.52,0:17:37.11,Default,Guarda B,0,0,0,,Essa é a senhora da casa.
+Dialogue: 0,0:17:37.33,0:17:38.87,Sign,Sign,0,0,0,,{\an8}Não seguirei mais suas ordens.\NVou reportar…
+Dialogue: 0,0:17:38.86,0:17:42.29,Default,2ª Esposa,0,0,0,,"Não seguirei mais suas ordens.
+Dialogue: 0,0:17:42.29,0:17:45.20,Default,2ª Esposa,0,0,0,,Vou reportar ao Ars-sama\Nsobre o seu crime.
+Dialogue: 0,0:17:45.20,0:17:47.45,Default,2ª Esposa,0,0,0,,Antes que eu faça isso, entregue-se."
+Dialogue: 0,0:17:48.83,0:17:52.46,Default,2ª Esposa,0,0,0,,Esqueceu o que acontece\Nse você se voltar contra mim?
+Dialogue: 0,0:17:57.09,0:17:58.60,Default,Pham,0,0,0,,Podem parar!
+Dialogue: 0,0:17:58.60,0:18:01.84,Default,Pham,0,0,0,,Não achei que a esposa\Nde um comerciante era uma assassina.
+Dialogue: 0,0:18:01.84,0:18:03.84,Default,2ª Esposa,0,0,0,,Você é a minha empregada…
+Dialogue: 0,0:18:03.84,0:18:05.10,Default,2ª Esposa,0,0,0,,Não, quem é você?
+Dialogue: 0,0:18:05.10,0:18:07.07,Default,Pham,0,0,0,,Imagino sua frustração, Enan.
+Dialogue: 0,0:18:07.07,0:18:08.62,Default,Pham,0,0,0,,Agora está tudo bem.
+Dialogue: 0,0:18:08.62,0:18:10.01,Default,Pham,0,0,0,,Deixe o resto comigo.
+Dialogue: 0,0:18:10.85,0:18:13.64,Default,2ª Esposa,0,0,0,,Vou esmagar sua garganta também!
+Dialogue: 0,0:18:14.24,0:18:16.26,Default,Pham,0,0,0,,Você é precipitada, coroa.
+Dialogue: 0,0:18:16.26,0:18:17.20,Default,2ª Esposa,0,0,0,,Homens!
+Dialogue: 0,0:18:28.42,0:18:30.16,Default,Pham,0,0,0,,Você perguntou quem sou, né?
+Dialogue: 0,0:18:30.16,0:18:31.93,Default,Pham,0,0,0,,Meu nome é Pham.
+Dialogue: 0,0:18:31.93,0:18:34.91,Default,Pham,0,0,0,,Servo do governante de Canarre,\NArs Louvent.
+Dialogue: 0,0:18:34.91,0:18:37.92,Default,Pham,0,0,0,,E também o capitão do grupo\Nde mercenários Sombras.
+Dialogue: 0,0:18:37.92,0:18:39.92,Default,Guarda C,0,0,0,,U-Um enviado de Canarre?!
+Dialogue: 0,0:18:39.92,0:18:42.80,Default,2ª Esposa,0,0,0,,E daí? Você não tem provas!
+Dialogue: 0,0:18:43.58,0:18:46.71,Default,Pham,0,0,0,,Restos dos itens queimados\Nque usaram pra cavar a cova.
+Dialogue: 0,0:18:46.71,0:18:48.82,Default,Pham,0,0,0,,Depoimento do vendedor da erva venenosa.
+Dialogue: 0,0:18:48.82,0:18:53.81,Default,Pham,0,0,0,,E uma lista de componentes tóxicos\Ndetectados nos ossos da primeira esposa.
+Dialogue: 0,0:18:53.81,0:18:55.57,Default,Pham,0,0,0,,Não é, Enan?
+Dialogue: 0,0:18:57.06,0:18:59.62,Top,2ª Esposa,0,0,0,,Isso é tudo armado!
+Dialogue: 0,0:18:57.12,0:19:00.49,Sign,Sign,0,0,0,,{\fad(550,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(170,307)}Enan Rueges
+Dialogue: 0,0:18:59.62,0:19:02.27,Top,2ª Esposa,0,0,0,,Afinal, joguei os ossos no rio\Npara a correnteza levar…
+Dialogue: 0,0:19:05.87,0:19:08.25,Sign,Enan,0,0,0,,{\an8}É o osso da esposa falecida.
+Dialogue: 0,0:19:18.44,0:19:20.07,Flashback-Italics,Enan,0,0,0,,Senhora…
+Dialogue: 0,0:19:20.97,0:19:24.97,Default,2ª Esposa,0,0,0,,Não… Eu achei que foi perfeito!
+Dialogue: 0,0:19:27.24,0:19:30.27,Italics,Enan,0,0,0,,Eu não me importo que tenham\Nesmagado minha garganta.
+Dialogue: 0,0:19:30.80,0:19:31.78,Italics,Enan,0,0,0,,Mas…
+Dialogue: 0,0:19:32.23,0:19:36.93,Italics,Enan,0,0,0,,jamais vou perdoar que tenha assassinado\Na senhora que eu tanto amava!
+Dialogue: 0,0:19:40.23,0:19:41.74,Default,Ars,0,0,0,,Foi isso que aconteceu?!
+Dialogue: 0,0:19:41.74,0:19:43.98,Default,Pham,0,0,0,,Aí essa segunda esposa foi presa.
+Dialogue: 0,0:19:43.98,0:19:49.37,Default,Pham,0,0,0,,Por assassinato e agressão, ela e os capangas\Nficarão presos por um tempo.
+Dialogue: 0,0:19:49.37,0:19:53.50,Default,Rietz,0,0,0,,Foi por isso que a Enan-san agiu estranho.
+Dialogue: 0,0:19:53.92,0:19:55.20,Default,Ars,0,0,0,,Esse incidente…
+Dialogue: 0,0:19:55.20,0:19:58.70,Default,Ars,0,0,0,,Eu tenho responsabilidade como\Nsenhor daqui por não ter notado isso.
+Dialogue: 0,0:19:58.70,0:20:02.63,Default,Ars,0,0,0,,Caso aconteça algo daqui pra frente,\Nquero que me avise, não importa o que seja.
+Dialogue: 0,0:20:02.63,0:20:07.51,Default,Ars,0,0,0,,Afinal, estou aqui para proteger\Npessoas boas de Canarre, assim como você.
+Dialogue: 0,0:20:09.01,0:20:11.07,Default,Ars,0,0,0,,Se bem que é uma pena.
+Dialogue: 0,0:20:11.07,0:20:14.52,Default,Ars,0,0,0,,Não achei que não tinha vindo aqui\Npara se tornar minha serva.
+Dialogue: 0,0:20:14.52,0:20:17.10,Default,Ars,0,0,0,,Peço que retorne com cuidado.
+Dialogue: 0,0:20:17.10,0:20:19.02,Default,Ars,0,0,0,,Desejo que seja feliz.
+Dialogue: 0,0:20:20.96,0:20:22.78,Default,Pham,0,0,0,,Tem certeza disso, Enan?
+Dialogue: 0,0:20:22.78,0:20:25.83,Default,Pham,0,0,0,,Vai voltar a ser uma empregada?
+Dialogue: 0,0:20:25.83,0:20:27.72,Default,Pham,0,0,0,,Aqui é um bom lugar.
+Dialogue: 0,0:20:27.72,0:20:30.68,Default,Pham,0,0,0,,Você poderá melhorar suas habilidades.
+Dialogue: 0,0:20:30.68,0:20:33.63,Default,Pham,0,0,0,,A antiga senhora desejava isso também, não?
+Dialogue: 0,0:20:38.42,0:20:43.24,Italics,Enan,0,0,0,,Se trabalharmos juntos,\Npoderemos ser mais amigos?
+Dialogue: 0,0:20:45.17,0:20:47.04,Default,Pham,0,0,0,,Claro, com certeza.
+Dialogue: 0,0:20:47.48,0:20:50.60,Default,Pham,0,0,0,,Ars! A Enan vai trabalhar aqui!
+Dialogue: 0,0:20:50.60,0:20:52.31,Default,Ars,0,0,0,,Hã? É sério?!
+Dialogue: 0,0:20:54.23,0:20:55.11,Sign,Sign,0,0,0,,{\an8}Conto com você.
+Dialogue: 0,0:20:54.93,0:20:56.43,Italics,Enan,0,0,0,,Conto com você.
+Dialogue: 0,0:20:57.31,0:21:00.31,Top,Mireille,0,0,0,,Ele está ali no celeiro.
+Dialogue: 0,0:20:57.32,0:21:00.07,Sign,Sign,0,0,0,,{\fad(500,480)\shad0\bord1\blur1\fnArial Black\c&HC9CBCE&\pos(320,292)\3c&H161B1A&}Lamberg - Mansão dos Louvent
+Dialogue: 0,0:21:00.31,0:21:02.47,Default,Mireille,0,0,0,,Bom, vai lá e vê no que dá.
+Dialogue: 0,0:21:05.36,0:21:07.18,Default,Shin,0,0,0,,Eita, calma aí!
+Dialogue: 0,0:21:07.18,0:21:08.29,Default,Shin,0,0,0,,Não caia…!
+Dialogue: 0,0:21:08.29,0:21:11.82,Default,Shin,0,0,0,,Poxa, de novo…
+Dialogue: 0,0:21:16.58,0:21:18.94,Default,Shin,0,0,0,,Minha nave não é incrível?
+Dialogue: 0,0:21:18.94,0:21:22.59,Default,Shin,0,0,0,,Se isso voar, poderemos usar\Nmetade de pedras mágicas…
+Dialogue: 0,0:21:22.59,0:21:25.09,Default,Shin,0,0,0,,Hã? A curvatura da madeira não está boa?
+Dialogue: 0,0:21:25.09,0:21:26.21,Default,Shin,0,0,0,,Hã? Que parte?!
+Dialogue: 0,0:21:28.08,0:21:32.51,Italics,Enan,0,0,0,,Se não deixar a beirada da asa mais angulada,\Nterá muita resistência do ar.
+Dialogue: 0,0:21:32.51,0:21:35.07,Default,Shin,0,0,0,,Só que fazer essa curvatura que é difícil.
+Dialogue: 0,0:21:35.07,0:21:37.55,Default,Shin,0,0,0,,É uma madeira leve,\Nmas difícil de manusear.
+Dialogue: 0,0:21:38.10,0:21:39.86,Italics,Enan,0,0,0,,Acho que consigo.
+Dialogue: 0,0:21:39.86,0:21:42.18,Default,Shin,0,0,0,,Sério?! Você é incrível!
+Dialogue: 0,0:21:42.18,0:21:44.34,Default,Shin,0,0,0,,Será que poderia me ajudar, então?!
+Dialogue: 0,0:21:44.34,0:21:46.11,Italics,Enan,0,0,0,,Falaram pra eu vir aqui pra isso…
+Dialogue: 0,0:21:46.11,0:21:50.33,Default,Shin,0,0,0,,Ah, que ótimo! Vai me ajudar muito,\Nporque não tenho ninguém que me ajude!
+Dialogue: 0,0:21:51.49,0:21:54.44,Default,Shin,0,0,0,,Oh, seu nome é Enan?\NConto com sua ajuda, hein?
+Dialogue: 0,0:21:55.56,0:21:59.56,Default,CRED,0,0,0,,- Legendas brasileiras -\NTradução: Sayuri Tanamate
+Dialogue: 0,0:21:59.56,0:22:03.56,Default,CRED,0,0,0,,Temporização e edição:\NJohannes Lochter
+Dialogue: 0,0:22:03.56,0:22:07.56,Default,CRED,0,0,0,,Revisão: Hellia Nakatsu
+Dialogue: 0,0:22:07.56,0:22:11.56,Default,CRED,0,0,0,,Produção: Gustavo Hoffmann
+Dialogue: 0,0:23:25.48,0:23:28.67,Default,Ars,0,0,0,,Que bom que conseguiu\Numa nova amiga, Pham-san!
+Dialogue: 0,0:23:28.67,0:23:29.48,Default,Pham,0,0,0,,Pois é.
+Dialogue: 0,0:23:29.48,0:23:32.16,Default,Ars,0,0,0,,Aliás, você tem amigos?
+Dialogue: 0,0:23:32.16,0:23:35.62,Default,Pham,0,0,0,,Ars, vou querer uma compensação\Ndez vezes maior dessa vez.
+Dialogue: 0,0:23:35.62,0:23:37.52,Default,Ars,0,0,0,,Eita, misericórdia!
+Dialogue: 0,0:23:37.52,0:23:39.60,Default,Ars,0,0,0,,Próximo episódio: "Os Dois Talentos".
+Dialogue: 0,0:23:37.65,0:23:40.02,Sign,Sign,0,0,0,,{\fad(480,1)\fs12\an3\shad1\bord1\fnTimes New Roman\b1\c&HC8CCC9&\3c&H232C28&\4c&H232C28&\fs14\pos(608.618,165.957)}Próximo episódio\N{\fs16}Os Dois Talentos
+
