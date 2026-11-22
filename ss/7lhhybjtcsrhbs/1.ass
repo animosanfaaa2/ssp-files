@@ -1,0 +1,37 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+Timer: 0.0000
+WrapStyle: 0
+YCbCr Matrix: TV.601
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: TopLeft,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,7,10,10,18,0
+Style: TopCenter,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: TopRight,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,9,10,10,18,0
+Style: CenterLeft,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,4,10,10,18,0
+Style: CenterCenter,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,5,10,10,18,0
+Style: CenterRight,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,6,10,10,18,0
+Style: BottomLeft,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,1,10,10,18,0
+Style: BottomCenter,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: BottomRight,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,3,10,10,18,0
+Style: Signs_Fix,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.35,Signs_Fix,SIGN,0,0,0,,{\fad(500,500)\shad0\bord1\blur1\fnArial Black\c&HD6D1D2&\pos(320,292)\3c&H161B1A&}Castle Canarre
+Dialogue: 0,0:02:10.40,0:02:13.77,Signs_Fix,SIGN,0,0,0,,{\fad(520,480)\fs14\an3\shad1\bord1\fnTimes New Roman\b1\c&HCACAC9&\3c&H302F2E&\4c&H302F2E&\pos(605.83,316.351)}Episode 31   {\fs16}Off to Save Ars
+Dialogue: 0,0:08:03.75,0:08:07.17,Signs_Fix,SIGN,0,0,0,,{\fad(500,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(175,307)}Zaht's Infiltration
+Dialogue: 0,0:10:44.24,0:10:47.62,Signs_Fix,SIGN,0,0,0,,{\fad(500,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(175,307)}Rikuya Fujimiya
+Dialogue: 0,0:11:32.62,0:11:34.96,Signs_Fix,SIGN,0,0,0,,{\fad(500,500)\shad0\bord1\blur1\fnArial Black\c&HD6D1D2&\pos(320,292)\3c&H161B1A&}Ten Years Ago   Kingdom of Yoh
+Dialogue: 0,0:18:22.95,0:18:26.33,Signs_Fix,SIGN,0,0,0,,{\fad(500,430)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HC6CCCE&\3c&H161B1A&\pos(175,307)}Vigo's Torture
+Dialogue: 0,0:18:45.47,0:18:51.10,Signs_Fix,SIGN,0,0,0,,{\bord1\fnArial Black\fs16\an8\c&H139CC9&\3c&HFFFFFF&\4c&H3BE8F7&}...soldier of Seitz, led his men to form a bandit group\N after defeat at the Coumeire River...
+Dialogue: 0,0:23:39.57,0:23:49.57,Signs_Fix,SIGN,0,0,0,,{\fad(480,1)\fs12\an3\shad1\bord1\fnTimes New Roman\b1\c&HC8CCC9&\3c&H232C28&\4c&H232C28&\fs14\pos(605,165.957)}Next Time   {\fs16}What a King Needs
+
