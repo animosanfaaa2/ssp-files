@@ -1,0 +1,312 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: sign_generic,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.30,0:00:04.55,italics,computer,0,0,0,,House in Akisaki Komagane-cho \Ncompletely destroyed by fire.
+Dialogue: 0,0:00:04.55,0:00:07.19,italics,computer,0,0,0,,Homicide by arson. No reports.
+Dialogue: 0,0:00:07.59,0:00:10.53,italics,computer,0,0,0,,Ootemon Building, \Nhigh-value target eliminated.
+Dialogue: 0,0:00:10.53,0:00:13.49,italics,computer,0,0,0,,Currently under a media blackout.
+Dialogue: 0,0:00:13.49,0:00:16.08,italics,computer,0,0,0,,Pier 2, warehouse 7…
+Dialogue: 0,0:00:16.08,0:00:20.75,italics,computer,0,0,0,,Guest in room 306's assignment:\Ncomplete. No reports.
+Dialogue: 0,0:00:22.85,0:00:24.19,main,Sara,0,0,0,,This is Haizaki.
+Dialogue: 0,0:00:24.19,0:00:27.26,main,Sara,0,0,0,,How is the follow-up service progressing \Nfor Machinami-sama in room 306?
+Dialogue: 0,0:00:27.26,0:00:29.95,italics,Roy,0,0,0,,The clean-up crew is already on site.
+Dialogue: 0,0:00:29.95,0:00:32.76,italics,Roy,0,0,0,,Our guest is returning to \Nthe hotel without assistance.
+Dialogue: 0,0:00:33.26,0:00:35.60,italics,Roy,0,0,0,,Estimated time of arrival: two hours.
+Dialogue: 0,0:00:35.60,0:00:37.73,main,Sara,0,0,0,,Understood. I will remain on standby.
+Dialogue: 0,0:00:40.96,0:00:43.33,main,Koshiba,0,0,0,,Well, Sara-senpai, I'll be on my way.
+Dialogue: 0,0:00:44.61,0:00:47.77,main,Ikuro,0,0,0,,Oh, Koshiba-san.\NAre you done for the day?
+Dialogue: 0,0:00:49.08,0:00:51.38,main,Koshiba,0,0,0,,I heard that the guest in \Nroom 306, Machinami-sama,
+Dialogue: 0,0:00:51.38,0:00:53.49,main,Koshiba,0,0,0,,will be back in an hour and a half.
+Dialogue: 0,0:00:54.00,0:00:55.33,main,Ikuro,0,0,0,,Oh. Right.
+Dialogue: 0,0:00:55.80,0:00:57.12,main,Koshiba,0,0,0,,Don't slack off.
+Dialogue: 0,0:00:57.59,0:00:59.38,main,Ikuro,0,0,0,,Uh, right.
+Dialogue: 0,0:00:59.38,0:01:00.47,main,Koshiba,0,0,0,,Later.
+Dialogue: 0,0:01:00.47,0:01:02.60,main,Ikuro,0,0,0,,Um, good work today.
+Dialogue: 0,0:01:18.97,0:01:21.66,main,Koshiba,0,0,0,,Ugh. The price of cigarettes \Nwent up again?
+Dialogue: 0,0:01:22.45,0:01:24.56,main,Koshiba,0,0,0,,Seriously, what's up \Nwith the cost of living?
+Dialogue: 0,0:01:25.09,0:01:26.73,main,Koshiba,0,0,0,,Can't we catch a break?
+Dialogue: 0,0:01:27.55,0:01:28.87,main,Hikaru,0,0,0,,Uh-huh…
+Dialogue: 0,0:01:28.87,0:01:30.90,main,Koshiba,0,0,0,,Number 27, please.
+Dialogue: 0,0:01:30.90,0:01:32.07,main,Hikaru,0,0,0,,Right away.
+Dialogue: 0,0:01:32.07,0:01:34.57,sign_generic,Sign,0,0,0,,{\c&H3619F2&\fnImpact\3c&H2D2D2D&\t(0,1685,\fs18)\bord0.25\frz357.9\frx24\fry24\move(436.667,249.334,466,222,0,1685)}Staff {\c&H29FF37&}Pick!
+Dialogue: 0,0:01:32.07,0:01:34.57,sign_generic,Sign,0,0,0,,{\fnImpact\bord0.25\c&H3218ED&\t(0,1685,\fs18)\frx4\fry16\move(305.333,319.333,362,278.667,0,1685)}Character {\c&H22FF35&}Raffle
+Dialogue: 0,0:01:32.07,0:01:34.57,sign_generic,Sign,0,0,0,,{\fs15\fnImpact\bord0.25\t(0,1685,\fs13)\frx4\fry14\frz356.6\c&H4F30ED&\3c&H433673&\move(144.667,63.333,229.333,74,0,1685)}Assassin\NDetective
+Dialogue: 0,0:01:33.04,0:01:34.57,main,Koshiba,0,0,0,,And one try at this.
+Dialogue: 0,0:01:34.87,0:01:35.97,main,Koshiba,0,0,0,,This one, I guess.
+Dialogue: 0,0:01:35.69,0:01:37.37,sign_generic,Sign,0,0,0,,{\fs10\fnImpact\bord0.25\c&H3219DB&\frz300.2\pos(438.667,168.667)\frx12\fry10}Character{\c&H28ED33&} Raffle
+Dialogue: 0,0:01:36.29,0:01:37.35,main,Hikaru,0,0,0,,Here you go.
+Dialogue: 0,0:01:38.89,0:01:41.00,main,Koshiba,0,0,0,,I forgot my wallet!
+Dialogue: 0,0:01:42.84,0:01:44.84,main,Koshiba,0,0,0,,Which one do I buy?
+Dialogue: 0,0:01:46.82,0:01:48.23,main,Hikaru,0,0,0,,I'm so sorry.
+Dialogue: 0,0:01:48.23,0:01:50.88,main,Hikaru,0,0,0,,You must really like {\i1}Assassin Detective{\i0}.
+Dialogue: 0,0:01:50.88,0:01:54.04,main,Koshiba,0,0,0,,Huh? No, not really.
+Dialogue: 0,0:01:54.04,0:01:54.76,main,Hikaru,0,0,0,,Huh?
+Dialogue: 0,0:01:54.76,0:01:57.18,sign_generic,Sign,0,0,0,,{\c&H2E11DE&\fnImpact\3c&H2D2D2D&\bord0.25\pos(394,280.667)\frx30\fry24\frz355.4}Staff {\c&H22F32F&}Pick!
+Dialogue: 0,0:01:54.76,0:01:57.18,sign_generic,Sign,0,0,0,,{\fnImpact\bord0.25\c&H3218ED&\pos(262,328.667)\frx2\fry16}Character {\c&H22FF35&}Raffle
+Dialogue: 0,0:01:54.76,0:01:57.18,sign_generic,Sign,0,0,0,,{\fs15\fnImpact\bord0.25\frx4\fry14\frz356.6\c&H4F30ED&\3c&H433673&\pos(119.333,88)}Assassin\NDetective
+Dialogue: 1,0:01:55.13,0:01:57.18,main,Koshiba,0,0,0,,The display looked cute, that's all.
+Dialogue: 0,0:01:58.64,0:02:01.88,main,Koshiba,0,0,0,,I just can't resist cute things.
+Dialogue: 0,0:02:01.88,0:02:04.10,main,Koshiba,0,0,0,,Hmm… What should I do?
+Dialogue: 0,0:02:08.11,0:02:10.94,main,Hikaru,0,0,0,,I'm not giving it to you. It's a loan.
+Dialogue: 0,0:02:12.95,0:02:17.41,main,Hikaru,0,0,0,,I'm the one who drew that display, \Nso I'm taking responsibility for it.
+Dialogue: 0,0:02:19.87,0:02:24.13,main,Hikaru,0,0,0,,That brings back memories. \NI used to be like that, too.
+Dialogue: 0,0:02:25.71,0:02:31.57,main,Koshiba,0,0,0,,Matsuki-san, you shouldn't \Nlend money that easily.
+Dialogue: 0,0:02:34.15,0:02:36.06,main,Koshiba,0,0,0,,So, this 500 yen…
+Dialogue: 0,0:02:36.06,0:02:38.60,main,Koshiba,0,0,0,,Will you lend it to me until \Nthe whole raffle's done?
+Dialogue: 0,0:02:38.60,0:02:40.71,main,Hikaru,0,0,0,,Sure, but why?
+Dialogue: 0,0:02:41.44,0:02:42.95,main,Koshiba,0,0,0,,I'm out of cash.
+Dialogue: 0,0:02:43.93,0:02:48.27,main,Hikaru,0,0,0,,I don't even know your name. \NI'm not getting on a bike with you.
+Dialogue: 0,0:02:49.45,0:02:52.14,main,Koshiba,0,0,0,,Everyone I know calls me Koshiba.
+Dialogue: 0,0:02:52.49,0:02:54.95,main,Koshiba,0,0,0,,And you're… Matsuki?
+Dialogue: 0,0:02:58.77,0:02:59.83,main,Koshiba,0,0,0,,Hey!
+Dialogue: 0,0:02:59.83,0:03:01.41,sign_generic,Sign,0,0,0,,{\t(2811,3270,\blur2)\bord0\b1\fs12\c&H1D2F20&\3c&H29492F&\frz41.34\pos(132.666,64.666)}D Prize Plushie
+Dialogue: 0,0:03:01.41,0:03:03.59,main,Koshiba,0,0,0,,Let's just pretend it's cute.
+Dialogue: 0,0:03:04.35,0:03:05.54,main,Hikaru,0,0,0,,Hikaru.
+Dialogue: 0,0:03:08.03,0:03:09.63,main,Hikaru,0,0,0,,Hikaru Matsuki.
+Dialogue: 0,0:03:10.45,0:03:13.76,main,Koshiba,0,0,0,,Have you always been good at drawing?
+Dialogue: 0,0:03:14.95,0:03:17.08,main,Hikaru,0,0,0,,I don't know about way back, but…
+Dialogue: 0,0:03:18.39,0:03:21.09,main,Hikaru,0,0,0,,my big sister complimented me.
+Dialogue: 0,0:03:22.66,0:03:24.24,main,Koshiba,0,0,0,,Hey! Ikuro!
+Dialogue: 0,0:03:24.24,0:03:26.65,main,Koshiba,0,0,0,,I told you not to touch those!
+Dialogue: 0,0:03:31.64,0:03:34.40,main,Hikaru,0,0,0,,I just came back from a \Ncremation. My older sister's.
+Dialogue: 0,0:03:36.61,0:03:39.49,main,Hikaru,0,0,0,,I'm in mourning clothes, \Nso it's hard to ask, right?
+Dialogue: 0,0:03:40.65,0:03:42.84,main,Hikaru,0,0,0,,So I told you everything myself.
+Dialogue: 0,0:03:43.92,0:03:45.97,main,Hikaru,0,0,0,,I'm okay.
+Dialogue: 0,0:03:45.97,0:03:49.25,main,Hikaru,0,0,0,,I already knew we didn't \Nhave much time left.
+Dialogue: 0,0:03:49.25,0:03:51.17,main,Hikaru,0,0,0,,And I've been preparing this whole time.
+Dialogue: 0,0:03:51.78,0:03:55.07,main,Hikaru,0,0,0,,But when the cremation \Nwas over and I went home…
+Dialogue: 0,0:03:55.44,0:03:58.02,main,Hikaru,0,0,0,,I didn't know what to do.
+Dialogue: 0,0:04:00.70,0:04:03.11,main,Hikaru,0,0,0,,Take me to the ocean.
+Dialogue: 0,0:04:03.64,0:04:05.64,main,Hikaru,0,0,0,,The wind feels so good!
+Dialogue: 0,0:04:06.06,0:04:08.77,main,Koshiba,0,0,0,,Hey! Why the ocean?
+Dialogue: 0,0:04:08.77,0:04:10.56,main,Hikaru,0,0,0,,The picture diary.
+Dialogue: 0,0:04:10.56,0:04:11.44,main,Koshiba,0,0,0,,What?
+Dialogue: 0,0:04:11.44,0:04:13.04,main,Hikaru,0,0,0,,The picture diary!
+Dialogue: 0,0:04:13.04,0:04:15.54,main,Hikaru,0,0,0,,When we were kids, my sister and I
+Dialogue: 0,0:04:15.54,0:04:18.15,main,Hikaru,0,0,0,,used a picture diary \Nas an exchange diary!
+Dialogue: 0,0:04:18.15,0:04:22.16,main,Hikaru,0,0,0,,It ended on a day we went to the ocean.
+Dialogue: 0,0:04:25.12,0:04:28.85,main,Sara,0,0,0,,Understood. We will undertake \Nthe care of your younger sister.
+Dialogue: 0,0:04:28.85,0:04:33.17,main,Hikaru,0,0,0,,And I want to remember \Nwhy we stopped there!
+Dialogue: 0,0:04:34.31,0:04:38.39,main,Hikaru,0,0,0,,Well, I can't ask her about the \Npicture diary anymore, can I?
+Dialogue: 0,0:04:44.88,0:04:47.31,main,Hikaru,0,0,0,,I'll buy you a coffee.
+Dialogue: 0,0:04:51.61,0:04:56.23,main,Koshiba,0,0,0,,Sara-senpai, thank you \Nfor taking over my late shift.
+Dialogue: 0,0:04:58.93,0:05:01.35,main,Sara,0,0,0,,I'll leave it to you, Koshiba…
+Dialogue: 0,0:05:02.45,0:05:06.74,main,Sara,0,0,0,,to fulfill the dying service that \Nhired killer Mitsuru Matsuki-sama
+Dialogue: 0,0:05:07.31,0:05:09.81,italics,Sara,0,0,0,,gifted to her younger sister.
+Dialogue: 0,0:05:15.84,0:05:18.96,sign_generic,Sign,0,0,0,,{\c&HE3E6E4&\bord0\blur0.25\b1\fnTimes New Roman\an1\fs15\pos(150,235.6)}Not human; like a monster
+Dialogue: 0,0:05:15.84,0:05:18.96,sign_generic,Sign,0,0,0,,{\c&HE3E6E4&\bord0\blur0.25\b1\fnTimes New Roman\an1\fs15\pos(150,275.4)}Lacking human kindness or weakness
+Dialogue: 0,0:05:15.84,0:05:18.96,sign_generic,Sign,0,0,0,,{\c&HE3E6E4&\bord0\blur0.25\b1\fnTimes New Roman\an1\fs15\pos(150,319.6)}Ruthless; cruel
+Dialogue: 0,0:05:15.84,0:05:18.96,sign_generic,Sign,0,0,0,,{\c&HE8EBE9&\blur0.5\fnTimes New Roman\b1\fs40\bord0\pos(320,60)}Inhuman
+Dialogue: 0,0:06:49.26,0:06:53.31,sign_generic,Sign,0,0,0,,{\c&HFBFEFE&\3c&H282925&\bord0.1\shad0.5\blur1\b1\fnTimes New Roman\an1\fade(439,437)\pos(209,318.333)}Motorcycle Diaries 2
+Dialogue: 0,0:06:56.29,0:06:57.56,main,Hikaru,0,0,0,,Now I feel warmer.
+Dialogue: 0,0:06:59.54,0:07:02.32,main,Koshiba,0,0,0,,So is this place we're going to up ahead?
+Dialogue: 0,0:07:03.96,0:07:06.32,main,Hikaru,0,0,0,,Yeah, just keep going straight.
+Dialogue: 0,0:07:06.65,0:07:08.88,main,Hikaru,0,0,0,,There's a parking lot along the beach.
+Dialogue: 0,0:07:36.79,0:07:38.40,main,Hikaru,0,0,0,,This is it. Stop!
+Dialogue: 0,0:07:39.74,0:07:41.00,main,Hikaru,0,0,0,,We're here.
+Dialogue: 0,0:07:42.03,0:07:43.98,main,Hikaru,0,0,0,,We made it, Koshiba!
+Dialogue: 0,0:07:46.03,0:07:47.38,main,Hikaru,0,0,0,,But…
+Dialogue: 0,0:07:48.03,0:07:49.75,main,Hikaru,0,0,0,,But, you know…
+Dialogue: 0,0:07:50.41,0:07:52.60,main,Hikaru,0,0,0,,It's freezing!
+Dialogue: 0,0:07:53.02,0:07:56.80,main,Hikaru,0,0,0,,And this wind is insane!
+Dialogue: 0,0:07:59.15,0:08:00.80,main,Koshiba,0,0,0,,You sure this is the place?
+Dialogue: 0,0:08:00.80,0:08:03.52,main,Koshiba,0,0,0,,You were still little the last \Ntime you came here, right?
+Dialogue: 0,0:08:16.42,0:08:19.09,main,Hikaru,0,0,0,,Yeah. I'm sure this is it.
+Dialogue: 0,0:08:26.23,0:08:30.08,main,Koshiba,0,0,0,,If you want to go down to the beach, \NI'll park the bike here and—
+Dialogue: 0,0:08:30.08,0:08:31.47,main,Hikaru,0,0,0,,It's no good.
+Dialogue: 0,0:08:32.37,0:08:36.66,main,Hikaru,0,0,0,,I know this is the right place, \Nbut I can't remember.
+Dialogue: 0,0:08:40.93,0:08:43.70,main,Hikaru,0,0,0,,Why did we stop using the picture diary?
+Dialogue: 0,0:08:46.41,0:08:50.30,italics,young Hikaru,0,0,0,,We finally arrived at the beach \NI've been looking forward to!
+Dialogue: 0,0:08:50.30,0:08:54.66,italics,young Hikaru,0,0,0,,It's already nighttime today, but \Ntomorrow we're going to swim lots!
+Dialogue: 0,0:08:55.13,0:08:58.02,italics,young Hikaru,0,0,0,,I wonder if I'll meet any fishies.
+Dialogue: 0,0:08:55.13,0:08:58.02,top,Koshiba,0,0,0,,"I wonder if I'll meet any fishies."
+Dialogue: 0,0:08:58.02,0:09:01.22,main,Hikaru,0,0,0,,Hey! Don't look at other people's \Ndiaries without permission!
+Dialogue: 0,0:09:01.22,0:09:04.64,main,Koshiba,0,0,0,,Hmm. It looks like you were \Nhaving fun up to that point.
+Dialogue: 0,0:09:04.64,0:09:05.78,main,Koshiba,0,0,0,,But…
+Dialogue: 0,0:09:05.78,0:09:09.32,main,Hikaru,0,0,0,,Yeah. The next page is torn out.
+Dialogue: 0,0:09:10.03,0:09:11.57,main,Hikaru,0,0,0,,I wonder why.
+Dialogue: 0,0:09:12.27,0:09:15.67,main,Koshiba,0,0,0,,Did you write about the day \Nafter you came to this beach?
+Dialogue: 0,0:09:16.65,0:09:18.29,main,Hikaru,0,0,0,,I don't know.
+Dialogue: 0,0:09:22.20,0:09:25.21,main,Hikaru,0,0,0,,The smell of the salt air is nostalgic, \Nbut it's not working.
+Dialogue: 0,0:09:32.22,0:09:37.63,sign_generic,Sign,0,0,0,,{\fs8\bord0.5\fnComic Sans MS\b1\c&H5A2F3B&\3c&H622C35&\t(0,4934,\c&H372431&)\frz329.8\frx16\fry0\move(403.333,130,500.333,372.667,0,5398)}Picture Diary
+Dialogue: 0,0:09:34.88,0:09:39.93,main,Hikaru,0,0,0,,The thing is, there's more to \Nwhy I want to remember.
+Dialogue: 0,0:09:42.46,0:09:46.73,main,Hikaru,0,0,0,,They said my sister was \Nreading this on her last day.
+Dialogue: 0,0:09:43.73,0:09:46.73,sign_generic,Sign,0,0,0,,{\fs12\t(0,3000,\fs13)\bord0\fnComic Sans MS\c&H555969&\frz24.94\move(366.666,263.334,368.667,271.333,0,2981)}Mitsuru, Hikaru Matsuki
+Dialogue: 0,0:09:43.73,0:09:46.73,sign_generic,Sign,0,0,0,,{\fs12\t(0,3000,\fs13)\bord0.5\fnComic Sans MS\b1\c&H5955BE&\3c&H6D6AA9&\frz23.71\move(275.333,112,270,106.667,0,2981)}Picture Diary
+Dialogue: 0,0:09:49.23,0:09:51.24,sign_generic,Sign,0,0,0,,{\fs15\bord0\fnComic Sans MS\c&H2A2323&\pos(275.333,318)\frz339.9}Mitsuru, Hikaru Matsuki
+Dialogue: 0,0:09:49.23,0:09:51.24,sign_generic,Sign,0,0,0,,{\fs15\bord0.5\fnComic Sans MS\b1\c&H642F40&\3c&H47202A&\frz342.7\pos(352,92)\frx14\fry2}Picture Diary
+Dialogue: 1,0:09:49.88,0:09:51.24,main,Hikaru,0,0,0,,But…
+Dialogue: 0,0:09:51.24,0:09:54.03,main,Hikaru,0,0,0,,if I still can't remember…
+Dialogue: 0,0:09:54.03,0:09:56.74,main,Hikaru,0,0,0,,maybe that means it's okay if I don't?
+Dialogue: 0,0:10:05.54,0:10:08.55,sign_generic,Sign,0,0,0,,{\b1\c&HFDFEEC&\bord0\fs8\frz350.2\frx10\fry2\move(365.333,65.333,365.333,46.667,0,2984)}Today
+Dialogue: 0,0:10:05.54,0:10:08.54,sign_generic,Sign,0,0,0,,{\b1\c&HFDFEEC&\bord0\fs8\frx10\fry2\frz348.8\move(358.666,92.666,358.666,73,0,3000)}Unread Messages Below
+Dialogue: 0,0:10:05.54,0:10:08.54,sign_generic,Sign,0,0,0,,{\b1\c&HFDFEEC&\bord0\fs8\frx10\fry2\frz348.8\move(250.666,101.333,250.666,82,0,3000)}Aunt
+Dialogue: 0,0:10:05.54,0:10:08.54,sign_generic,Sign,0,0,0,,{\b1\c&HFDFCFA&\bord0\frx10\fry2\frz348.8\move(341.999,44,341.999,25,0,3000)}Aunt (2)
+Dialogue: 0,0:10:05.54,0:10:08.54,sign_generic,Sign,0,0,0,,{\an4\b1\fs10\3c&HB6FE6E&\c&H8C9646&\frz350\move(246,199.334,246,180,0,3000)}Hikaru-chan, thank you for\Nhanging in there all this time.
+Dialogue: 0,0:10:10.46,0:10:14.22,sign_generic,Sign,0,0,0,,{\b1\c&HFDFCFA&\bord0\frx10\fry2\frz348.8\pos(341.999,25)}Aunt (2)
+Dialogue: 0,0:10:10.46,0:10:12.09,sign_generic,Sign,0,0,0,,{\fad(0,62)\an4\b1\fs10\3c&HB6FE6E&\c&HA29F3F&\frz350\pos(260.667,94.001)}Hikaru-chan, thank you for\Nhanging in there all this time.
+Dialogue: 0,0:10:10.46,0:10:12.06,sign_generic,Sign,0,0,0,,{\an4\b1\fs10\3c&HB6FE6E&\c&HA29F3F&\frz350\fad(233,50)\pos(252,150.668)}I'm sure your big sister
+Dialogue: 0,0:10:12.09,0:10:14.22,sign_generic,Sign,0,0,0,,{\fad(104,0)\an4\b1\fs10\3c&HB6FE6E&\c&HA29F3F&\frz350\pos(274,33.334)}Hikaru-chan, thank you for\Nhanging in there all this time.
+Dialogue: 0,0:10:12.11,0:10:14.22,sign_generic,Sign,0,0,0,,{\an4\b1\fs10\3c&HB6FE6E&\c&HA29F3F&\frz350\fad(84,0)\pos(263.333,89.335)}I'm sure your big sister
+Dialogue: 0,0:10:12.22,0:10:14.22,sign_generic,Sign,0,0,0,,{\an4\b1\fs10\3c&HB6FE6E&\c&HA29F3F&\fad(225,0)\pos(252,153.668)\frz349.5}was happy right up to the very end.
+Dialogue: 0,0:10:20.57,0:10:21.53,main,Koshiba,0,0,0,,Hikaru.
+Dialogue: 0,0:10:23.80,0:10:25.46,main,Hikaru,0,0,0,,It's hilarious.
+Dialogue: 0,0:10:27.52,0:10:30.94,main,Hikaru,0,0,0,,All these people who didn't \Nhelp us one little bit
+Dialogue: 0,0:10:31.32,0:10:34.84,main,Hikaru,0,0,0,,are saying whatever they want \Nabout my sister. Must be nice, right?
+Dialogue: 0,0:10:35.57,0:10:38.58,main,Hikaru,0,0,0,,Back when the two of us ended up alone…
+Dialogue: 0,0:10:39.10,0:10:42.20,main,Hikaru,0,0,0,,and when we found out about \Nmy sister's illness, too…
+Dialogue: 0,0:10:42.57,0:10:45.60,main,Hikaru,0,0,0,,They wrapped it up neatly as a sad story,
+Dialogue: 0,0:10:45.60,0:10:49.46,main,Hikaru,0,0,0,,and they were satisfied with that, \Nso they were able to forget.
+Dialogue: 0,0:10:49.46,0:10:51.88,sign_generic,Sign,0,0,0,,{\fs25\bord0.5\fnComic Sans MS\b1\c&H493047&\frz287.1\pos(406.667,298)}Picture Diary
+Dialogue: 0,0:10:51.77,0:10:53.13,main,Hikaru,0,0,0,,So…
+Dialogue: 0,0:10:51.88,0:10:51.96,sign_generic,Sign,0,0,0,,{\fs25\bord0.5\fnComic Sans MS\b1\c&H493047&\frz287.1\pos(406,310)}Picture Diary
+Dialogue: 0,0:10:51.96,0:10:52.04,sign_generic,Sign,0,0,0,,{\fs25\bord0.5\fnComic Sans MS\b1\c&H493047&\frz287.1\pos(404,314.667)}Picture Diary
+Dialogue: 0,0:10:52.04,0:10:52.13,sign_generic,Sign,0,0,0,,{\fs25\bord0.5\fnComic Sans MS\b1\c&H493047&\frz287.1\pos(405.334,321.333)}Picture Diary
+Dialogue: 0,0:10:52.13,0:10:53.13,sign_generic,Sign,0,0,0,,{\fs25\bord0.5\fnComic Sans MS\b1\c&H493047&\frz287.1\pos(405.334,324.666)}Picture Diary
+Dialogue: 0,0:10:56.00,0:10:59.05,main,Hikaru,0,0,0,,What about me? \NEven if I wanted to forget, I can't!
+Dialogue: 0,0:11:01.14,0:11:03.97,main,Hikaru,0,0,0,,You know, I… I…
+Dialogue: 0,0:11:06.67,0:11:09.64,main,Hikaru,0,0,0,,When my sister was bedridden, \NI stood next to her
+Dialogue: 0,0:11:09.64,0:11:13.36,main,Hikaru,0,0,0,,and I whispered, "Give me a break." \NWhat about that?
+Dialogue: 0,0:11:13.76,0:11:15.28,main,Hikaru,0,0,0,,And when she died…
+Dialogue: 0,0:11:15.28,0:11:18.68,main,Hikaru,0,0,0,,When she died, part of me \Nwas relieved. What about that?
+Dialogue: 0,0:11:19.53,0:11:22.42,main,Hikaru,0,0,0,,I thought, "I don't have to \Nlook after her anymore."
+Dialogue: 0,0:11:22.42,0:11:24.57,main,Hikaru,0,0,0,,"It's finally over."
+Dialogue: 0,0:11:24.98,0:11:26.79,main,Hikaru,0,0,0,,What about that?
+Dialogue: 0,0:11:28.78,0:11:30.01,main,Hikaru,0,0,0,,That's why…
+Dialogue: 0,0:11:34.46,0:11:37.09,main,Hikaru,0,0,0,,That's why I…
+Dialogue: 0,0:11:49.76,0:11:52.52,main,Hikaru,0,0,0,,I painted because \NI wanted to forget, but…
+Dialogue: 0,0:11:57.20,0:11:58.26,flashback,Hikaru,0,0,0,,What is it?
+Dialogue: 0,0:12:00.19,0:12:03.42,flashback,Mitsuru,0,0,0,,This might be…
+Dialogue: 0,0:12:03.42,0:12:08.17,flashback,Mitsuru,0,0,0,,my last time… coming home…
+Dialogue: 0,0:12:12.17,0:12:14.59,flashback,Mitsuru,0,0,0,,Hey… That painting…
+Dialogue: 0,0:12:14.92,0:12:15.96,flashback,Hikaru,0,0,0,,Painting?
+Dialogue: 0,0:12:16.58,0:12:17.73,flashback,Mitsuru,0,0,0,,Show it to me.
+Dialogue: 0,0:12:19.26,0:12:23.93,main,Hikaru,0,0,0,,I wasn't planning to show \Nit to her at all, but…
+Dialogue: 0,0:12:24.35,0:12:27.02,flashback,Mitsuru,0,0,0,,Please… show me.
+Dialogue: 0,0:12:39.78,0:12:43.41,main,Hikaru,0,0,0,,I did it for me.
+Dialogue: 0,0:12:44.26,0:12:47.41,main,Hikaru,0,0,0,,To force that never-changing\Nday-to-day out of me.
+Dialogue: 0,0:12:47.77,0:12:50.79,main,Hikaru,0,0,0,,To bleach my sullied emotions.
+Dialogue: 0,0:12:52.01,0:12:54.12,main,Hikaru,0,0,0,,To forget everything.
+Dialogue: 0,0:12:55.35,0:12:58.40,main,Hikaru,0,0,0,,That's why I painted my sister's ending…
+Dialogue: 0,0:13:06.93,0:13:11.65,main,Hikaru,0,0,0,,but even if I wanted to forget, \NI can't forget anymore!
+Dialogue: 0,0:13:21.38,0:13:22.65,main,Hikaru,0,0,0,,Sis!
+Dialogue: 0,0:13:30.62,0:13:31.78,main,Koshiba,0,0,0,,Don't let go!
+Dialogue: 0,0:13:31.78,0:13:33.45,main,Koshiba,0,0,0,,Hikaru, we're going.
+Dialogue: 0,0:13:33.45,0:13:34.90,main,Hikaru,0,0,0,,What? But…
+Dialogue: 0,0:13:36.75,0:13:38.71,main,Koshiba,0,0,0,,Hang on tight!
+Dialogue: 0,0:13:38.71,0:13:40.01,main,Hikaru,0,0,0,,Koshiba?
+Dialogue: 0,0:13:44.52,0:13:47.47,main,Hikaru,0,0,0,,Koshiba, this is too fast! It's too fast!
+Dialogue: 0,0:13:47.47,0:13:51.52,main,Koshiba,0,0,0,,You know, I absolutely hate \Nsweet, sappy stories.
+Dialogue: 0,0:13:52.57,0:13:55.80,main,Koshiba,0,0,0,,The more I listen, \Nthe more irritated I get.
+Dialogue: 0,0:13:57.44,0:14:01.53,main,Koshiba,0,0,0,,I mean, what more could you have done?
+Dialogue: 0,0:14:02.53,0:14:03.49,main,Koshiba,0,0,0,,Get angry!
+Dialogue: 0,0:14:06.70,0:14:10.45,main,Koshiba,0,0,0,,Get angry at all the things that \Nmade you hate your sister!
+Dialogue: 0,0:14:10.81,0:14:13.42,main,Koshiba,0,0,0,,At the illness that burned up her life!
+Dialogue: 0,0:14:13.81,0:14:15.54,main,Koshiba,0,0,0,,At all your relatives \Nwho didn't do a thing
+Dialogue: 0,0:14:15.54,0:14:18.42,main,Koshiba,0,0,0,,and still showed up at the funeral to cry!
+Dialogue: 0,0:14:18.42,0:14:21.84,main,Koshiba,0,0,0,,At the society that \Ndidn't help you at all!
+Dialogue: 0,0:14:22.22,0:14:27.05,main,Koshiba,0,0,0,,And if something's still worth \Nreaching out for, don't let go of it!
+Dialogue: 0,0:14:29.99,0:14:33.44,main,Koshiba,0,0,0,,You're human! You're gonna \Nforget eventually anyway!
+Dialogue: 0,0:14:42.78,0:14:45.70,main,Koshiba,0,0,0,,So if you can't forget…
+Dialogue: 0,0:14:49.77,0:14:52.54,main,Koshiba,0,0,0,,then for now, why not just hold it close?
+Dialogue: 0,0:15:04.36,0:15:07.47,italics,Hikaru,0,0,0,,Oh. That's right.
+Dialogue: 0,0:15:08.87,0:15:10.28,italics,Hikaru,0,0,0,,I…
+Dialogue: 0,0:15:49.86,0:15:53.29,italics,Hikaru,0,0,0,,I… almost drowned.
+Dialogue: 0,0:15:57.94,0:15:59.57,italics,Hikaru,0,0,0,,And then…
+Dialogue: 0,0:16:10.91,0:16:12.95,flashback,young Hikaru,0,0,0,,Why are you drawing that?!
+Dialogue: 0,0:16:13.70,0:16:15.66,flashback,young Hikaru,0,0,0,,Mii-chan, you meanie!
+Dialogue: 0,0:16:17.04,0:16:18.32,flashback,young Mitsuru,0,0,0,,Hikaru…
+Dialogue: 0,0:16:18.90,0:16:20.90,flashback,young Hikaru,0,0,0,,I'm not doing the diary anymore!
+Dialogue: 0,0:16:23.63,0:16:25.34,flashback,young Mitsuru,0,0,0,,You're going to stop?
+Dialogue: 0,0:16:25.34,0:16:28.10,flashback,young Hikaru,0,0,0,,Yes! I'm stopping!
+Dialogue: 0,0:16:28.10,0:16:31.98,flashback,young Mitsuru,0,0,0,,But… I love your drawings.
+Dialogue: 0,0:16:48.66,0:16:49.87,main,Koshiba,0,0,0,,Hikaru!
+Dialogue: 0,0:16:54.81,0:16:55.99,main,Koshiba,0,0,0,,Hikaru?
+Dialogue: 0,0:17:01.61,0:17:04.97,main,Hikaru,0,0,0,,I remembered, Sis.
+Dialogue: 0,0:17:07.72,0:17:09.92,top,Koshiba,0,0,0,,{\i1}Hotel Inhuhmans{\i0}.
+Dialogue: 0,0:17:14.57,0:17:16.34,italics,audio,0,0,0,,The true culprits are \Nburied in the darkness.
+Dialogue: 0,0:17:16.34,0:17:19.12,italics,audio,0,0,0,,{\i0}Assassin Detective{\i1}! \NNow airing to rave reviews!
+Dialogue: 0,0:17:19.62,0:17:22.27,main,Ikuro,0,0,0,,Huh. So that's what this is…
+Dialogue: 0,0:17:22.27,0:17:24.06,main,Ikuro,0,0,0,,Hey, Sara-san.
+Dialogue: 0,0:17:25.34,0:17:26.60,main,Sara,0,0,0,,What is it?
+Dialogue: 0,0:17:26.60,0:17:28.30,main,Ikuro,0,0,0,,It's Koshiba-san.
+Dialogue: 0,0:17:28.30,0:17:32.07,main,Ikuro,0,0,0,,They didn't tell me \Nanything about this last job.
+Dialogue: 0,0:17:32.72,0:17:36.51,main,Ikuro,0,0,0,,Mitsuru-sama wanted her younger sister \Nto be able to accept her death,
+Dialogue: 0,0:17:36.51,0:17:38.74,main,Ikuro,0,0,0,,and asking us to help \Ngive her the strength
+Dialogue: 0,0:17:38.74,0:17:41.61,main,Ikuro,0,0,0,,was Mitsuru Matsuki-sama's last wish.
+Dialogue: 0,0:17:42.08,0:17:45.06,main,Sara,0,0,0,,Oh. That was probably \Nout of embarrassment.
+Dialogue: 0,0:17:45.06,0:17:47.92,main,Ikuro,0,0,0,,Really? We're talking \Nabout Koshiba-san here.
+Dialogue: 0,0:17:47.92,0:17:51.59,main,Sara,0,0,0,,They may not get as close \Nto others as you do,
+Dialogue: 0,0:17:52.17,0:17:54.91,main,Sara,0,0,0,,but they probably stick with \Nother people more than you do.
+Dialogue: 0,0:18:04.72,0:18:06.54,main,older sister,0,0,0,,Hey, don't run!
+Dialogue: 0,0:18:12.61,0:18:16.32,main,Sara,0,0,0,,Koshiba is, for better or worse… \Nclumsy at certain things.
+Dialogue: 0,0:19:24.23,0:19:26.23,main,Hikaru,0,0,0,,Welcome in.
+Dialogue: 0,0:19:29.23,0:19:31.41,main,Koshiba,0,0,0,,Man, that cold wrecked your voice.
+Dialogue: 0,0:19:31.98,0:19:34.45,main,Hikaru,0,0,0,,I fell in the ocean in \Nthe middle of winter.
+Dialogue: 0,0:19:34.45,0:19:36.93,main,Hikaru,0,0,0,,I'm lucky to even be alive.
+Dialogue: 0,0:19:36.93,0:19:38.59,main,Hikaru,0,0,0,,My phone did die, though.
+Dialogue: 0,0:19:40.50,0:19:44.00,main,Hikaru,0,0,0,,I've gotta buy a new one.
+Dialogue: 0,0:19:44.38,0:19:49.92,main,Hikaru,0,0,0,,Though, I was thinking of taking \Nthis chance to ditch all my relatives.
+Dialogue: 0,0:19:51.19,0:19:53.92,main,Koshiba,0,0,0,,Sure, why not? \NBut what about the other thing?
+Dialogue: 0,0:19:55.23,0:19:56.81,main,Koshiba,0,0,0,,Did it end up okay?
+Dialogue: 0,0:19:57.79,0:19:59.61,main,Hikaru,0,0,0,,Oh! Hang on a sec.
+Dialogue: 0,0:20:00.68,0:20:02.68,main,Koshiba,0,0,0,,Huh? What's that about?
+Dialogue: 0,0:20:09.19,0:20:10.02,sign_generic,Sign,0,0,0,,{\fs12\bord0.5\fnComic Sans MS\b1\c&H697296&\pos(298,92)\3c&H3F4144&}Picture Diary
+Dialogue: 0,0:20:10.02,0:20:10.10,sign_generic,Sign,0,0,0,,{\fs12\bord0.5\fnComic Sans MS\b1\c&H697296&\3c&H3F4144&\frz9.075\pos(222.666,116)}Picture Diary
+Dialogue: 0,0:20:10.10,0:20:10.18,sign_generic,Sign,0,0,0,,{\fs12\bord0.5\fnComic Sans MS\b1\c&H697296&\3c&H3F4144&\pos(184.667,126.667)\frz13.13}Picture Diary
+Dialogue: 0,0:20:10.18,0:20:11.65,sign_generic,Sign,0,0,0,,{\fs12\bord0.5\fnComic Sans MS\b1\c&H697296&\3c&H3F4144&\frz17.56\pos(146,138)}Picture Diary
+Dialogue: 0,0:20:10.25,0:20:11.65,main,Hikaru,0,0,0,,Ta-da.
+Dialogue: 0,0:20:11.89,0:20:12.02,sign_generic,Sign,0,0,0,,{\fs18\bord0\fnComic Sans MS\c&H4B4D4C&\pos(202.667,54)\frx38\fry4\frz26.43}Mituru, Hikaru Matsuki
+Dialogue: 0,0:20:12.02,0:20:12.14,sign_generic,Sign,0,0,0,,{\fs18\bord0\fnComic Sans MS\c&H4B4D4C&\frx38\fry4\frz26.43\pos(320.667,168.667)}Mituru, Hikaru Matsuki
+Dialogue: 0,0:20:12.14,0:20:14.27,sign_generic,Sign,0,0,0,,{\fs18\bord0\fnComic Sans MS\c&H4B4D4C&\frx38\fry4\frz26.43\pos(370,218)}Mituru, Hikaru Matsuki
+Dialogue: 0,0:20:12.14,0:20:14.27,sign_generic,Sign,0,0,0,,{\fs15\bord0.5\fnComic Sans MS\b1\c&H707797&\3c&H37343A&\pos(166,43.333)\frx40\fry4\frz22.39}Picture Diary
+Dialogue: 0,0:20:12.47,0:20:14.90,main,Koshiba,0,0,0,,Whoa. It's all creased and wrinkled.
+Dialogue: 0,0:20:14.27,0:20:14.40,sign_generic,Sign,0,0,0,,{\fs15\bord0.5\fnComic Sans MS\b1\c&H707797&\3c&H37343A&\frx40\fry4\frz22.39\pos(170.667,48.666)}Picture Diary
+Dialogue: 0,0:20:14.27,0:20:14.40,sign_generic,Sign,0,0,0,,{\fs18\bord0\fnComic Sans MS\c&H4B4D4C&\frx38\fry4\frz26.43\pos(380,221.333)}Mituru, Hikaru Matsuki
+Dialogue: 0,0:20:14.40,0:20:14.52,sign_generic,Sign,0,0,0,,{\fs15\bord0.5\fnComic Sans MS\b1\c&H707797&\3c&H37343A&\frx40\fry4\frz22.39\pos(181.333,60)}Picture Diary
+Dialogue: 0,0:20:14.40,0:20:14.52,sign_generic,Sign,0,0,0,,{\fs18\bord0\fnComic Sans MS\c&H4B4D4C&\frx38\fry4\frz26.43\pos(388,234.667)}Mituru, Hikaru Matsuki
+Dialogue: 0,0:20:14.52,0:20:14.65,sign_generic,Sign,0,0,0,,{\fs15\bord0.5\fnComic Sans MS\b1\c&H707797&\3c&H37343A&\frx40\fry4\frz22.39\pos(200,73.333)}Picture Diary
+Dialogue: 0,0:20:14.52,0:20:14.65,sign_generic,Sign,0,0,0,,{\fs18\bord0\fnComic Sans MS\c&H4B4D4C&\frx38\fry4\frz26.43\pos(407.334,246.667)}Mituru, Hikaru Matsuki
+Dialogue: 0,0:20:14.65,0:20:14.77,sign_generic,Sign,0,0,0,,{\fs15\bord0.5\fnComic Sans MS\b1\c&H707797&\3c&H37343A&\frx40\fry4\frz22.39\pos(220.667,90.666)}Picture Diary
+Dialogue: 0,0:20:14.65,0:20:14.77,sign_generic,Sign,0,0,0,,{\fs18\bord0\fnComic Sans MS\c&H4B4D4C&\frx38\fry4\frz26.43\pos(428.667,262)}Mituru, Hikaru Matsuki
+Dialogue: 0,0:20:14.77,0:20:14.90,sign_generic,Sign,0,0,0,,{\fs15\bord0.5\fnComic Sans MS\b1\c&H707797&\3c&H37343A&\frx40\fry4\frz22.39\pos(232.667,108)}Picture Diary
+Dialogue: 0,0:20:14.77,0:20:14.90,sign_generic,Sign,0,0,0,,{\fs18\bord0\fnComic Sans MS\c&H4B4D4C&\frx38\fry4\frz26.43\pos(444,279.333)}Mituru, Hikaru Matsuki
+Dialogue: 0,0:20:14.90,0:20:16.53,main,Koshiba,0,0,0,,It's a mess.
+Dialogue: 0,0:20:19.67,0:20:21.93,main,Hikaru,0,0,0,,I drew it without asking…
+Dialogue: 0,0:20:22.49,0:20:25.96,main,Hikaru,0,0,0,,but it's cute, so \Nyou'll forgive me, right?
+Dialogue: 0,0:20:27.43,0:20:31.14,italics,Hikaru,0,0,0,,January. On the way home \Nfrom my sister's funeral,
+Dialogue: 0,0:20:31.14,0:20:33.25,italics,Hikaru,0,0,0,,I went to that beach \Nfor the first time in ages.
+Dialogue: 0,0:20:34.95,0:20:38.88,italics,Hikaru,0,0,0,,In the middle of winter, \Nlate at night, on a weirdo's bike.
+Dialogue: 0,0:20:39.83,0:20:43.93,italics,Hikaru,0,0,0,,It was super cold, \Nbut the wind felt good.
+Dialogue: 0,0:20:43.93,0:20:45.25,italics,Hikaru,0,0,0,,It was so strange.
+Dialogue: 0,0:20:47.14,0:20:50.94,sign_generic,Sign,0,0,0,,{\fs12\bord0.5\fnComic Sans MS\b1\c&H2A457D&\3c&H232B35&\pos(336,295.333)\frz343.8\frx350\fry4}Picture Diary
+Dialogue: 0,0:20:47.58,0:20:50.54,main,Koshiba,0,0,0,,Hey, come on. I'm cuter than this.
+Dialogue: 0,0:20:57.12,0:20:58.76,italics,Hikaru,0,0,0,,And then, guess what?
+Dialogue: 0,0:20:58.76,0:21:02.84,italics,Hikaru,0,0,0,,I nearly drowned in the ocean again.
+Dialogue: 0,0:21:25.57,0:21:29.91,sign_generic,Credits,0,0,0,,{\fad(819,709)\an7\shad0\bord1.5\b1\fnTimes New Roman\fs16\3c&H222222&\c&HFFFFFF&\pos(17,11.333)}Translator:\NElanor Sakamoto\N\NTimer:\NMariana Martinez\N\NEditor:\NGabriella Alabanza\N\NQuality Control:\NS. Bilyeu\N\NFinal Quality Control:\NBecky Cottrill
+Dialogue: 0,0:22:46.22,0:22:47.64,main,Hikaru,0,0,0,,Time for a little break.
+Dialogue: 0,0:22:52.84,0:22:54.64,main,Hikaru,0,0,0,,Seriously?
+Dialogue: 0,0:22:55.47,0:22:56.65,main,Hikaru,0,0,0,,Hey, this…
+Dialogue: 0,0:22:59.19,0:23:00.90,main,Hikaru,0,0,0,,This is my sister's…
+Dialogue: 0,0:23:17.04,0:23:19.07,main,Hikaru,0,0,0,,What? Are you serious?
+Dialogue: 0,0:23:21.33,0:23:23.12,main,Hikaru,0,0,0,,You were still drawing.
+Dialogue: 0,0:23:29.97,0:23:34.98,sign_generic,Sign,0,0,0,,{\c&HFFFFFF&\blur0.25\bord0\fnTimes New Roman\fs20\b1\an1\pos(285.201,227)}Wandering Bird
+Dialogue: 0,0:23:29.97,0:23:34.98,sign_generic,Sign,0,0,0,,{\c&HFFFFFF&\3c&H152D37&\blur0.25\bord0\fnTimes New Roman\an2\b1\pos(320.8,146.8)}Next Time
+
