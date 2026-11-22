@@ -1,0 +1,351 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: TopCenter,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0015,1
+Style: BottomCenter,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.29,0:00:04.58,BottomCenter,,0000,0000,0000,,Il settimo battitore è tornato!
+Dialogue: 0,0:00:04.67,0:00:06.04,BottomCenter,,0000,0000,0000,,{\i1}Sono felice…{\i0}
+Dialogue: 0,0:00:06.13,0:00:08.67,BottomCenter,,0000,0000,0000,,{\i1}Sono così felice{\i0}\N{\i1}di poter giocare a baseball!{\i0}
+Dialogue: 0,0:00:09.00,0:00:10.04,BottomCenter,,0000,0000,0000,,Sawamura!
+Dialogue: 0,0:00:10.13,0:00:13.17,BottomCenter,,0000,0000,0000,,- Sì!\N- Furuya è vicino ai cento lanci.
+Dialogue: 0,0:00:13.25,0:00:15.75,BottomCenter,,0000,0000,0000,,Va a tavoletta dal primo inning,\Nsarà esausto.
+Dialogue: 0,0:00:15.83,0:00:18.58,BottomCenter,,0000,0000,0000,,Se inizia a sembrare malfermo,\Nti metto in campo.
+Dialogue: 0,0:00:20.67,0:00:23.29,BottomCenter,,0000,0000,0000,,Seconda metà del sesto inning,\NInashiro in attacco.
+Dialogue: 0,0:00:23.38,0:00:26.04,BottomCenter,,0000,0000,0000,,Si prepara il quinto battitore\Ne lanciatore, Narumiya!
+Dialogue: 0,0:00:26.13,0:00:28.58,BottomCenter,,0000,0000,0000,,Durante il torneo\Nha tenuto una media di.532,
+Dialogue: 0,0:00:28.67,0:00:31.08,BottomCenter,,0000,0000,0000,,confermandosi anche\Nun eccellente battitore!
+Dialogue: 0,0:00:31.17,0:00:35.92,BottomCenter,,0000,0000,0000,,{\i1}Vorrà sicuramente sfogare la frustrazione{\i0}\N{\i1}di aver perso il vantaggio.{\i0}
+Dialogue: 0,0:00:36.21,0:00:37.50,BottomCenter,,0000,0000,0000,,{\i1}Ma non glielo permetteremo.{\i0}
+Dialogue: 0,0:00:39.42,0:00:41.08,BottomCenter,,0000,0000,0000,,Buttali fuori uno alla volta!
+Dialogue: 0,0:00:41.17,0:00:43.13,BottomCenter,,0000,0000,0000,,Furuya-kun! Tienili sotto pressione!
+Dialogue: 0,0:00:43.38,0:00:44.50,BottomCenter,,0000,0000,0000,,Lascia pure che colpisca!
+Dialogue: 0,0:00:44.58,0:00:47.21,BottomCenter,,0000,0000,0000,,Sono pronto, non preoccuparti!
+Dialogue: 0,0:00:47.29,0:00:50.13,BottomCenter,,0000,0000,0000,,{\i1}Eliminarti non mi è bastato.{\i0}
+Dialogue: 0,0:00:50.21,0:00:51.50,BottomCenter,,0000,0000,0000,,{\i1}Fatti sotto, Furuya.{\i0}
+Dialogue: 0,0:00:55.92,0:00:58.33,BottomCenter,,0000,0000,0000,,Si parte con una palla veloce\Nbattuta in foul!
+Dialogue: 0,0:00:58.75,0:01:01.21,BottomCenter,,0000,0000,0000,,{\i1}Il tempismo era giusto.{\i0}
+Dialogue: 0,0:01:01.29,0:01:04.00,BottomCenter,,0000,0000,0000,,{\i1}Tanto non mi muovo da qui, bastardo.{\i0}
+Dialogue: 0,0:01:18.83,0:01:21.04,BottomCenter,,0000,0000,0000,,{\i1}Sta perdendo il controllo.{\i0}
+Dialogue: 0,0:01:21.46,0:01:23.25,BottomCenter,,0000,0000,0000,,{\i1}Ti stai sforzando troppo.{\i0}
+Dialogue: 0,0:01:23.33,0:01:25.75,BottomCenter,,0000,0000,0000,,{\i1}Rallenta e abbassa la traiettoria…{\i0}
+Dialogue: 0,0:01:29.58,0:01:33.13,BottomCenter,,0000,0000,0000,,Una battuta solida verso sinistra,\Nuna preda facile per Aso!
+Dialogue: 0,0:01:33.92,0:01:36.00,BottomCenter,,0000,0000,0000,,Presa al volo, ed ecco il primo eliminato!
+Dialogue: 0,0:01:36.08,0:01:39.29,BottomCenter,,0000,0000,0000,,Anche nel secondo giro di battuta\Nè Furuya a spuntarla!
+Dialogue: 0,0:01:41.92,0:01:43.33,BottomCenter,,0000,0000,0000,,{\i1}Voglio continuare.{\i0}
+Dialogue: 0,0:01:43.42,0:01:47.04,BottomCenter,,0000,0000,0000,,{\i1}Finché potrò giocare a baseball,{\i0}\N{\i1}questa sarà la mia strada.{\i0}
+Dialogue: 0,0:01:48.88,0:01:51.08,BottomCenter,,0000,0000,0000,,Non cercare di affrontarlo da solo!
+Dialogue: 0,0:01:51.17,0:01:52.38,BottomCenter,,0000,0000,0000,,La difesa è lì per aiutarti!
+Dialogue: 0,0:01:52.71,0:01:55.08,BottomCenter,,0000,0000,0000,,{\i1}Ormai sarà al limite.{\i0}
+Dialogue: 0,0:01:55.50,0:01:57.33,BottomCenter,,0000,0000,0000,,{\i1}Farò salire il più possibile{\i0}\N{\i1}il conto lanci…{\i0}
+Dialogue: 0,0:02:07.08,0:02:10.42,BottomCenter,,0000,0000,0000,,{\i1}La mia strada è stata chiara{\i0}\N{\i1}fin da quando sono arrivato qui.{\i0}
+Dialogue: 0,0:02:13.83,0:02:16.13,BottomCenter,,0000,0000,0000,,{\i1}Nel baseball, posso essere me stesso.{\i0}
+Dialogue: 0,0:02:16.92,0:02:18.29,BottomCenter,,0000,0000,0000,,{\i1}Posso essere egoista.{\i0}
+Dialogue: 0,0:02:20.75,0:02:23.71,BottomCenter,,0000,0000,0000,,{\i1}Perché questo è il mio posto,{\i0}\N{\i1}quello in cui posso combattere!{\i0}
+Dialogue: 0,0:02:29.67,0:02:32.04,BottomCenter,,0000,0000,0000,,{\i1}Qui posso tirare fuori tutta la mia forza!{\i0}
+Dialogue: 0,0:02:34.08,0:02:35.96,BottomCenter,,0000,0000,0000,,Strike! Battitore eliminato!
+Dialogue: 0,0:02:36.04,0:02:38.92,BottomCenter,,0000,0000,0000,,Sto male!\NLanci da 150 km/h uno in fila all'altro!
+Dialogue: 0,0:02:39.00,0:02:40.46,BottomCenter,,0000,0000,0000,,Furuya!
+Dialogue: 0,0:02:40.79,0:02:43.00,BottomCenter,,0000,0000,0000,,Hai protetto il nostro vantaggio.
+Dialogue: 0,0:02:43.08,0:02:45.25,BottomCenter,,0000,0000,0000,,Hai lanciato in modo impeccabile.
+Dialogue: 0,0:02:45.33,0:02:46.58,BottomCenter,,0000,0000,0000,,Sei stato bravissimo!
+Dialogue: 0,0:02:46.88,0:02:49.71,BottomCenter,,0000,0000,0000,,Furuya, dal settimo inning\Nentrerai come esterno sinistro.
+Dialogue: 0,0:02:50.75,0:02:52.25,BottomCenter,,0000,0000,0000,,Sawamura, tocca a te.
+Dialogue: 0,0:02:52.54,0:02:53.71,BottomCenter,,0000,0000,0000,,Sissignore!
+Dialogue: 0,0:02:54.38,0:02:57.21,BottomCenter,,0000,0000,0000,,{\i1}Se ha potuto lanciare{\i0}\N{\i1}al massimo fin dai primi inning{\i0}
+Dialogue: 0,0:02:57.63,0:02:59.29,BottomCenter,,0000,0000,0000,,{\i1}è perché c'era Sawamura pronto.{\i0}
+Dialogue: 0,0:02:59.92,0:03:03.13,BottomCenter,,0000,0000,0000,,{\i1}E ora possiamo passare il testimone{\i0}\N{\i1}nelle condizioni migliori possibili.{\i0}
+Dialogue: 0,0:03:06.88,0:03:08.04,BottomCenter,,0000,0000,0000,,Adesso tocca a te.
+Dialogue: 0,0:03:08.38,0:03:10.96,BottomCenter,,0000,0000,0000,,Lo so, sono pronto!
+Dialogue: 0,0:04:41.00,0:04:43.50,TopCenter,,0000,0000,0000,,IL TESTIMONE
+Dialogue: 0,0:04:43.58,0:04:45.00,BottomCenter,,0000,0000,0000,,Io sono pronto a rientrare quando serve.
+Dialogue: 0,0:04:45.79,0:04:47.29,BottomCenter,,0000,0000,0000,,Tranquillo, non servirà.
+Dialogue: 0,0:04:47.38,0:04:49.79,BottomCenter,,0000,0000,0000,,Allora ti aiuterò con mazza e guantone.
+Dialogue: 0,0:04:50.58,0:04:52.83,BottomCenter,,0000,0000,0000,,Mettiamo in campo l'asso proprio ora, eh?
+Dialogue: 0,0:04:52.92,0:04:54.50,BottomCenter,,0000,0000,0000,,Un cambio aggressivo.
+Dialogue: 0,0:04:54.79,0:04:56.38,BottomCenter,,0000,0000,0000,,E andiamo!
+Dialogue: 0,0:04:56.46,0:04:59.92,BottomCenter,,0000,0000,0000,,Carichi anche questo inning!\NNon facciamoci sfuggire mezza palla!
+Dialogue: 0,0:05:00.00,0:05:01.04,BottomCenter,,0000,0000,0000,,Sì!
+Dialogue: 0,0:05:01.13,0:05:04.42,BottomCenter,,0000,0000,0000,,Il settimo inning parte\Ncon un solo punto di distacco.
+Dialogue: 0,0:05:04.50,0:05:08.54,BottomCenter,,0000,0000,0000,,Si prepara, per la Seido,\Nl'ottavo battitore e terza base Kanemaru.
+Dialogue: 0,0:05:14.96,0:05:18.46,BottomCenter,,0000,0000,0000,,Kanemaru apre l'inning con una battuta\Ncorta che rimbalza a terra, eliminato!
+Dialogue: 0,0:05:19.67,0:05:21.67,BottomCenter,,0000,0000,0000,,L'ha presa sul personale…
+Dialogue: 0,0:05:21.96,0:05:24.50,BottomCenter,,0000,0000,0000,,Non può cedere altri punti.
+Dialogue: 0,0:05:25.29,0:05:28.08,BottomCenter,,0000,0000,0000,,La Seido mette in campo\Nun sostituto battitore.
+Dialogue: 0,0:05:28.42,0:05:32.71,BottomCenter,,0000,0000,0000,,Il nono battitore Aso viene sostituito\Ndalla matricola Yui Kaoru!
+Dialogue: 0,0:05:33.33,0:05:35.17,BottomCenter,,0000,0000,0000,,Sono molto aggressivi.
+Dialogue: 0,0:05:35.25,0:05:37.29,BottomCenter,,0000,0000,0000,,Hanno fatto uscire Aso-kun…
+Dialogue: 0,0:05:38.50,0:05:40.00,BottomCenter,,0000,0000,0000,,{\i1}Vogliono sostituire il lanciatore ora?{\i0}
+Dialogue: 0,0:05:40.75,0:05:43.38,BottomCenter,,0000,0000,0000,,È entrato in campo tre volte, finora,\Nsempre come sostituto,
+Dialogue: 0,0:05:43.46,0:05:45.46,BottomCenter,,0000,0000,0000,,ma ha sempre battuto una valida.
+Dialogue: 0,0:05:45.54,0:05:48.67,BottomCenter,,0000,0000,0000,,Un giocatore esordiente,\Nma dal grande potenziale!
+Dialogue: 0,0:05:48.96,0:05:52.54,BottomCenter,,0000,0000,0000,,Assurdo!\NFanno giocare uno del nostro anno!
+Dialogue: 0,0:05:52.63,0:05:55.42,BottomCenter,,0000,0000,0000,,Vai e lascia il segno,\Nrendici tutti orgogliosi!
+Dialogue: 0,0:05:56.00,0:05:58.42,BottomCenter,,0000,0000,0000,,Perché non far entrare me?
+Dialogue: 0,0:05:58.50,0:05:59.96,BottomCenter,,0000,0000,0000,,Fortunato lui…
+Dialogue: 0,0:06:00.67,0:06:02.29,BottomCenter,,0000,0000,0000,,Stuzzica la curiosità, eh?
+Dialogue: 0,0:06:02.75,0:06:06.00,BottomCenter,,0000,0000,0000,,Metticela tutta!\NRaccoglierò io i tuoi resti!
+Dialogue: 0,0:06:06.38,0:06:11.38,BottomCenter,,0000,0000,0000,,Ci ho infuso l'anima di un uomo d'acciaio,\Nche ha battuto pure il muro!
+Dialogue: 0,0:06:11.46,0:06:13.08,BottomCenter,,0000,0000,0000,,{\i1}Aso-senpai…{\i0}
+Dialogue: 0,0:06:28.00,0:06:29.04,BottomCenter,,0000,0000,0000,,{\i1}Che velocità!{\i0}
+Dialogue: 0,0:06:39.50,0:06:41.71,BottomCenter,,0000,0000,0000,,Tre su tre, strikeout!
+Dialogue: 0,0:06:41.79,0:06:44.21,BottomCenter,,0000,0000,0000,,Siamo già a due eliminati!
+Dialogue: 0,0:06:47.17,0:06:48.96,BottomCenter,,0000,0000,0000,,Tre palle veloci…
+Dialogue: 0,0:06:49.04,0:06:51.71,BottomCenter,,0000,0000,0000,,E hai visto con che ritardo\Nha battuto Yui?
+Dialogue: 0,0:06:52.08,0:06:56.46,BottomCenter,,0000,0000,0000,,{\i1}I senpai hanno fatto due punti{\i0}\N{\i1}contro questo tizio?!{\i0}
+Dialogue: 0,0:07:04.75,0:07:06.46,BottomCenter,,0000,0000,0000,,Eliminato!
+Dialogue: 0,0:07:10.88,0:07:14.71,BottomCenter,,0000,0000,0000,,La reazione fulminea dell'interbase\NShirakawa porta la terza eliminazione!
+Dialogue: 0,0:07:14.79,0:07:18.63,BottomCenter,,0000,0000,0000,,L'asso Narumiya elimina tre battitori\Ndi fila in questo settimo inning!
+Dialogue: 0,0:07:21.21,0:07:22.83,BottomCenter,,0000,0000,0000,,Bene! Ok!
+Dialogue: 0,0:07:22.92,0:07:24.71,BottomCenter,,0000,0000,0000,,Bei lanci, Mei-san!
+Dialogue: 0,0:07:24.79,0:07:27.88,BottomCenter,,0000,0000,0000,,Sei andato alla grande, Mei-san!\NLanci perfetti!
+Dialogue: 0,0:07:27.96,0:07:29.38,BottomCenter,,0000,0000,0000,,Davvero spettacolare!
+Dialogue: 0,0:07:29.46,0:07:31.42,BottomCenter,,0000,0000,0000,,Non piangere, scemo.
+Dialogue: 0,0:07:31.50,0:07:33.67,BottomCenter,,0000,0000,0000,,Ti pare avrei potuto\Nlasciar finire la partita così?
+Dialogue: 0,0:07:34.29,0:07:37.04,BottomCenter,,0000,0000,0000,,Bene, ora è il momento\Ndi fargliela pagare!
+Dialogue: 0,0:07:37.13,0:07:39.04,BottomCenter,,0000,0000,0000,,Furuya sarà stanco morto!
+Dialogue: 0,0:07:39.13,0:07:41.04,BottomCenter,,0000,0000,0000,,Teniamolo sotto pressione!
+Dialogue: 0,0:07:41.13,0:07:42.46,BottomCenter,,0000,0000,0000,,Sì!
+Dialogue: 0,0:07:42.83,0:07:44.17,BottomCenter,,0000,0000,0000,,{\i1}La Scuola Superiore Seido{\i0}
+Dialogue: 0,0:07:44.25,0:07:47.96,BottomCenter,,0000,0000,0000,,{\i1}annuncia una sostituzione{\i0}\N{\i1}nella seconda metà del settimo inning.{\i0}
+Dialogue: 0,0:07:48.54,0:07:51.67,BottomCenter,,0000,0000,0000,,{\i1}Furuya, il lanciatore,{\i0}\N{\i1}si sposterà come esterno sinistro.{\i0}
+Dialogue: 0,0:07:51.75,0:07:54.42,BottomCenter,,0000,0000,0000,,{\i1}Sesto battitore{\i0}\N{\i1}ed esterno sinistro, Furuya-kun.{\i0}
+Dialogue: 0,0:07:54.50,0:07:55.88,TopCenter,,0000,0000,0000,,7 FURUYA, 8 TOJO\N5 KANEMARU, YUI
+Dialogue: 0,0:07:55.96,0:08:00.38,BottomCenter,,0000,0000,0000,,{\i1}Prende il posto di Yui-kun,{\i0}\N{\i1}entrato in precedenza come sostituto,{\i0}
+Dialogue: 0,0:08:00.46,0:08:02.67,BottomCenter,,0000,0000,0000,,{\i1}il nono battitore e lanciatore…{\i0}
+Dialogue: 0,0:08:06.33,0:08:07.75,BottomCenter,,0000,0000,0000,,{\i1}Sawamura-kun.{\i0}
+Dialogue: 0,0:08:10.71,0:08:12.67,BottomCenter,,0000,0000,0000,,{\i1}Nono battitore e lanciatore,{\i0}
+Dialogue: 0,0:08:13.04,0:08:14.25,BottomCenter,,0000,0000,0000,,{\i1}Sawamura-kun.{\i0}
+Dialogue: 0,0:08:21.13,0:08:22.46,BottomCenter,,0000,0000,0000,,Avanti!
+Dialogue: 0,0:08:28.42,0:08:29.50,BottomCenter,,0000,0000,0000,,Pronti?!
+Dialogue: 0,0:08:29.58,0:08:32.83,BottomCenter,,0000,0000,0000,,La Seido mette in campo il suo asso!
+Dialogue: 0,0:08:32.92,0:08:36.79,BottomCenter,,0000,0000,0000,,L'asso Sawamura\Nprende il posto di Furuya Satoru!
+Dialogue: 0,0:08:37.58,0:08:38.79,BottomCenter,,0000,0000,0000,,Ma sul serio?!
+Dialogue: 0,0:08:38.88,0:08:40.21,BottomCenter,,0000,0000,0000,,Lo sostituiscono di già?
+Dialogue: 0,0:08:40.29,0:08:43.17,BottomCenter,,0000,0000,0000,,Non vale!\NFuruya, sul serio scappi così?!
+Dialogue: 0,0:08:43.25,0:08:48.46,BottomCenter,,0000,0000,0000,,{\i1}Ha lanciato senza risparmiarsi da subito{\i0}\N{\i1}sapendo che l'avrebbero sostituito?{\i0}
+Dialogue: 0,0:08:50.75,0:08:55.54,BottomCenter,,0000,0000,0000,,Sawamura è reduce da un'ottima\Nprestazione con la temibile Ichidaisan,
+Dialogue: 0,0:08:55.63,0:08:59.25,BottomCenter,,0000,0000,0000,,a cui ha ceduto solo tre valide,\Nuna base e un punto.
+Dialogue: 0,0:08:59.75,0:09:03.17,BottomCenter,,0000,0000,0000,,L'asso si prepara finalmente a lanciare!
+Dialogue: 0,0:09:03.58,0:09:05.79,BottomCenter,,0000,0000,0000,,Stanno tutti uscendo di testa!
+Dialogue: 0,0:09:05.88,0:09:09.63,BottomCenter,,0000,0000,0000,,E ci credo, hanno visto\Ncome ha lanciato con la Ichidaisan!
+Dialogue: 0,0:09:09.96,0:09:13.08,BottomCenter,,0000,0000,0000,,Furuya lanciava ancora bene\Ne l'hanno sostituito?
+Dialogue: 0,0:09:13.17,0:09:15.88,BottomCenter,,0000,0000,0000,,Beh, dopo l'ennesima base su ball…
+Dialogue: 0,0:09:15.96,0:09:18.38,BottomCenter,,0000,0000,0000,,Quindi giocano\Nper conservare il vantaggio.
+Dialogue: 0,0:09:18.46,0:09:20.92,BottomCenter,,0000,0000,0000,,Ma poi, la Seido\Nnon ha mica anche Kawakami?
+Dialogue: 0,0:09:21.21,0:09:23.79,BottomCenter,,0000,0000,0000,,La Seido ha preso l'iniziativa!
+Dialogue: 0,0:09:24.13,0:09:27.96,BottomCenter,,0000,0000,0000,,Furuya era tosto,\Nma questo qui è tutt'altra cosa.
+Dialogue: 0,0:09:28.04,0:09:32.67,BottomCenter,,0000,0000,0000,,L'anno scorso aveva solo velocità,\Nvarietà e potenza, ma adesso…
+Dialogue: 0,0:09:32.75,0:09:36.00,BottomCenter,,0000,0000,0000,,Da quanto so, anche nelle\Npartite di allenamento è imbattibile.
+Dialogue: 0,0:09:36.08,0:09:40.13,BottomCenter,,0000,0000,0000,,Pensavo che Furuya avesse lasciato il\Nruolo di asso perché stava andando male,
+Dialogue: 0,0:09:40.21,0:09:42.58,BottomCenter,,0000,0000,0000,,ma la sfida con Amahisa mi ha smentito.
+Dialogue: 0,0:09:42.67,0:09:45.04,BottomCenter,,0000,0000,0000,,Sarà ancora carico da quel trionfo.
+Dialogue: 0,0:09:45.46,0:09:47.75,BottomCenter,,0000,0000,0000,,{\i1}Allora, sei eccezionale?{\i0}
+Dialogue: 0,0:09:47.83,0:09:49.38,BottomCenter,,0000,0000,0000,,{\i1}O sei uno come tanti?{\i0}
+Dialogue: 0,0:09:50.67,0:09:52.46,BottomCenter,,0000,0000,0000,,{\i1}Cosa sei?{\i0}
+Dialogue: 0,0:09:53.50,0:09:54.54,BottomCenter,,0000,0000,0000,,{\i1}Fammi vedere.{\i0}
+Dialogue: 0,0:09:57.17,0:10:01.50,BottomCenter,,0000,0000,0000,,{\i1}Pensi davvero di poter entrare in campo{\i0}\N{\i1}a metà partita e tenere il passo con me?{\i0}
+Dialogue: 0,0:10:02.25,0:10:05.25,BottomCenter,,0000,0000,0000,,Hai sentito come urlavano, sugli spalti,\Nquando sei entrato?
+Dialogue: 0,0:10:05.33,0:10:06.42,BottomCenter,,0000,0000,0000,,Straordinario.
+Dialogue: 0,0:10:06.50,0:10:08.17,BottomCenter,,0000,0000,0000,,Nemmeno io me l'aspettavo!
+Dialogue: 0,0:10:08.25,0:10:09.38,BottomCenter,,0000,0000,0000,,Sei una celebrità!
+Dialogue: 0,0:10:09.46,0:10:11.71,BottomCenter,,0000,0000,0000,,No no no no, dai…
+Dialogue: 0,0:10:11.79,0:10:12.83,BottomCenter,,0000,0000,0000,,Dici?!
+Dialogue: 0,0:10:12.92,0:10:15.63,BottomCenter,,0000,0000,0000,,Partirai con l'ottavo battitore.\NHai memorizzato il giro?
+Dialogue: 0,0:10:15.71,0:10:17.33,BottomCenter,,0000,0000,0000,,Sì, ce li ho in testa.
+Dialogue: 0,0:10:17.42,0:10:20.13,BottomCenter,,0000,0000,0000,,- Contiamo su di te, asso!\N- Pronto!
+Dialogue: 0,0:10:20.50,0:10:23.58,BottomCenter,,0000,0000,0000,,{\i1}Bene, ora vediamo come lancerà.{\i0}
+Dialogue: 0,0:10:24.79,0:10:26.00,BottomCenter,,0000,0000,0000,,{\i1}"Asso"…{\i0}
+Dialogue: 0,0:10:26.54,0:10:28.67,BottomCenter,,0000,0000,0000,,Mancano tre inning!
+Dialogue: 0,0:10:30.75,0:10:33.00,BottomCenter,,0000,0000,0000,,È qui che inizia la vera sfida!
+Dialogue: 0,0:10:33.54,0:10:36.67,BottomCenter,,0000,0000,0000,,È il momento di stringere i denti\Nin pieno spirito Seido,
+Dialogue: 0,0:10:36.75,0:10:37.92,BottomCenter,,0000,0000,0000,,sporcarci le mani…
+Dialogue: 0,0:10:38.33,0:10:41.25,BottomCenter,,0000,0000,0000,,e dare il massimo fino all'ultimo istante!
+Dialogue: 0,0:10:42.96,0:10:45.21,BottomCenter,,0000,0000,0000,,Perché vi arriveranno\Nbattute su battute,
+Dialogue: 0,0:10:45.58,0:10:49.25,BottomCenter,,0000,0000,0000,,perciò tenetevi pronti\Na salvarmi la pelle!
+Dialogue: 0,0:10:49.33,0:10:53.58,BottomCenter,,0000,0000,0000,,Eccolo!\NIl motto del nostro asso, ci siamo!
+Dialogue: 0,0:10:55.54,0:10:57.79,BottomCenter,,0000,0000,0000,,Andiamo, Eijun-kun!
+Dialogue: 0,0:10:57.88,0:10:59.50,BottomCenter,,0000,0000,0000,,Buttali fuori, Sawamura!
+Dialogue: 0,0:11:09.92,0:11:13.17,BottomCenter,,0000,0000,0000,,Seconda metà del settimo inning,\Nla Seido ha schierato il suo asso.
+Dialogue: 0,0:11:13.25,0:11:16.29,BottomCenter,,0000,0000,0000,,Si prepara l'ottavo battitore\Ndella Inashiro, Jinguji.
+Dialogue: 0,0:11:17.13,0:11:20.29,BottomCenter,,0000,0000,0000,,{\i1}Furuya Satoru. Sawamura Eijun.{\i0}
+Dialogue: 0,0:11:20.67,0:11:24.00,BottomCenter,,0000,0000,0000,,{\i1}Dalla scorsa estate{\i0}\N{\i1}siete sempre al centro dell'attenzione.{\i0}
+Dialogue: 0,0:11:24.29,0:11:26.38,BottomCenter,,0000,0000,0000,,{\i1}Chissà se vi siete montati la testa.{\i0}
+Dialogue: 0,0:11:28.75,0:11:30.50,BottomCenter,,0000,0000,0000,,{\i1}Non succederà solo quest'anno.{\i0}
+Dialogue: 0,0:11:30.58,0:11:32.50,BottomCenter,,0000,0000,0000,,{\i1}Anche il prossimo e quello dopo ancora…{\i0}
+Dialogue: 0,0:11:33.75,0:11:36.54,BottomCenter,,0000,0000,0000,,{\i1}sarete sempre lì, davanti a noi.{\i0}
+Dialogue: 0,0:11:37.04,0:11:39.71,BottomCenter,,0000,0000,0000,,{\i1}Ha un'espressione un po' dura.{\i0}
+Dialogue: 0,0:11:40.04,0:11:41.96,BottomCenter,,0000,0000,0000,,{\i1}Questo qui ha la battuta facile.{\i0}
+Dialogue: 0,0:11:42.04,0:11:44.50,BottomCenter,,0000,0000,0000,,{\i1}Non dobbiamo abbassare la guardia.{\i0}
+Dialogue: 0,0:11:45.25,0:11:49.17,BottomCenter,,0000,0000,0000,,Entrare in sostituzione di Furuya-kun…\Nchissà come sarà emozionato.
+Dialogue: 0,0:11:49.25,0:11:52.42,BottomCenter,,0000,0000,0000,,È un mancino, uno stile\Ncompletamente diverso da Furuya-kun,
+Dialogue: 0,0:11:52.50,0:11:56.79,BottomCenter,,0000,0000,0000,,che però ha tirato fuori lanci incredibili\Ne superato i 150 km/h.
+Dialogue: 0,0:11:57.75,0:12:01.63,BottomCenter,,0000,0000,0000,,{\i1}Basta una decisione a cambiare{\i0}\N{\i1}la direzione dell'intera partita.{\i0}
+Dialogue: 0,0:12:02.54,0:12:05.29,BottomCenter,,0000,0000,0000,,{\i1}Chissà come influirà{\i0}\N{\i1}questa sostituzione…{\i0}
+Dialogue: 0,0:12:13.50,0:12:18.42,BottomCenter,,0000,0000,0000,,Ha una palla veloce subdola, sopra\Ni 130 km/h, perfetta per forzare strike.
+Dialogue: 0,0:12:18.75,0:12:22.33,BottomCenter,,0000,0000,0000,,Spezzate che si muovono lateralmente\No verticalmente dalla stessa traiettoria.
+Dialogue: 0,0:12:22.42,0:12:25.54,BottomCenter,,0000,0000,0000,,E in più un change-up,\Nè un lanciatore insidioso.
+Dialogue: 0,0:12:26.13,0:12:29.92,BottomCenter,,0000,0000,0000,,Voi però vi siete abituati\Nalle palle veloci di Furuya,
+Dialogue: 0,0:12:30.00,0:12:32.67,BottomCenter,,0000,0000,0000,,riuscirete a seguire\Nquelle di Sawamura senza problemi.
+Dialogue: 0,0:12:32.96,0:12:34.75,BottomCenter,,0000,0000,0000,,Rimanete nell'area di battuta
+Dialogue: 0,0:12:35.25,0:12:37.71,BottomCenter,,0000,0000,0000,,e colpite prima che finiscano la curva.
+Dialogue: 0,0:12:38.46,0:12:40.33,BottomCenter,,0000,0000,0000,,{\i1}Primo lancio…{\i0}
+Dialogue: 0,0:12:41.21,0:12:45.75,BottomCenter,,0000,0000,0000,,{\i1}Non seguirà la palla,{\i0}\N{\i1}aspetterà un lancio specifico.{\i0}
+Dialogue: 0,0:12:45.83,0:12:47.92,BottomCenter,,0000,0000,0000,,{\i1}Quello che vogliamo è farlo battere.{\i0}
+Dialogue: 0,0:12:48.25,0:12:50.58,BottomCenter,,0000,0000,0000,,Seconda metà del settimo inning,\Nl'asso Sawamura…
+Dialogue: 0,0:12:50.67,0:12:52.96,BottomCenter,,0000,0000,0000,,si prepara al primo lancio!
+Dialogue: 0,0:12:53.92,0:12:56.25,BottomCenter,,0000,0000,0000,,{\i1}Avanti, andiamo!{\i0}
+Dialogue: 0,0:12:56.33,0:12:58.29,BottomCenter,,0000,0000,0000,,{\i1}Hai un ottimo controllo, dico bene?{\i0}
+Dialogue: 0,0:12:58.38,0:13:00.04,BottomCenter,,0000,0000,0000,,{\i1}Posso aspettare il lancio giusto.{\i0}
+Dialogue: 0,0:13:00.83,0:13:02.21,BottomCenter,,0000,0000,0000,,{\i1}Quel giorno.{\i0}
+Dialogue: 0,0:13:03.42,0:13:05.54,BottomCenter,,0000,0000,0000,,{\i1}Per lasciarmi alle spalle quel giorno…{\i0}
+Dialogue: 0,0:13:05.88,0:13:08.13,BottomCenter,,0000,0000,0000,,{\i1}ho lottato un anno intero…{\i0}
+Dialogue: 0,0:13:15.38,0:13:17.71,BottomCenter,,0000,0000,0000,,{\i1}convinto che ce l'avrei potuta fare!{\i0}
+Dialogue: 0,0:13:20.25,0:13:22.71,BottomCenter,,0000,0000,0000,,Il primo lancio è esterno, ball!
+Dialogue: 0,0:13:22.79,0:13:24.83,BottomCenter,,0000,0000,0000,,{\i1}Si è incastrato col dito?{\i0}
+Dialogue: 0,0:13:25.71,0:13:26.88,BottomCenter,,0000,0000,0000,,{\i1}Sono rigido.{\i0}
+Dialogue: 0,0:13:27.42,0:13:29.13,BottomCenter,,0000,0000,0000,,{\i1}Devo sciogliermi.{\i0}
+Dialogue: 0,0:13:29.21,0:13:31.17,BottomCenter,,0000,0000,0000,,{\i1}Assumere la postura giusta!{\i0}
+Dialogue: 0,0:13:31.25,0:13:32.58,BottomCenter,,0000,0000,0000,,Tranquillo, non t'agitare!
+Dialogue: 0,0:13:32.67,0:13:34.54,BottomCenter,,0000,0000,0000,,Fai come sempre!
+Dialogue: 0,0:13:34.63,0:13:36.46,BottomCenter,,0000,0000,0000,,Lascialo battere!
+Dialogue: 0,0:13:36.54,0:13:38.33,BottomCenter,,0000,0000,0000,,{\i1}Mi ha passato il testimone.{\i0}
+Dialogue: 0,0:13:40.08,0:13:41.50,BottomCenter,,0000,0000,0000,,Ecco il secondo lancio!
+Dialogue: 0,0:13:41.79,0:13:44.08,BottomCenter,,0000,0000,0000,,{\i1}Non posso deluderlo!{\i0}
+Dialogue: 0,0:13:48.79,0:13:51.25,BottomCenter,,0000,0000,0000,,Alta ed esterna, ball due!
+Dialogue: 0,0:13:51.92,0:13:53.17,BottomCenter,,0000,0000,0000,,Ball così, all'inizio?
+Dialogue: 0,0:13:53.25,0:13:54.54,BottomCenter,,0000,0000,0000,,Davvero strano.
+Dialogue: 0,0:13:54.63,0:13:56.50,BottomCenter,,0000,0000,0000,,Secondo te si sta sforzando troppo?
+Dialogue: 0,0:13:56.58,0:14:00.25,BottomCenter,,0000,0000,0000,,Beh, è la prima volta che entra\Ncome sostituto, in questo campionato…
+Dialogue: 0,0:14:00.54,0:14:03.42,BottomCenter,,0000,0000,0000,,{\i1}Sono gli ultimi battitori,{\i0}\N{\i1}ma il giro sta per ricominciare.{\i0}
+Dialogue: 0,0:14:03.50,0:14:05.96,BottomCenter,,0000,0000,0000,,{\i1}Non possiamo permetterci{\i0}\N{\i1}di avere corridori in base.{\i0}
+Dialogue: 0,0:14:07.71,0:14:10.08,BottomCenter,,0000,0000,0000,,Chiedo scusa, ho dimenticato una cosa!
+Dialogue: 0,0:14:10.17,0:14:11.67,BottomCenter,,0000,0000,0000,,Datemi un minuto soltanto!
+Dialogue: 0,0:14:12.79,0:14:13.83,BottomCenter,,0000,0000,0000,,Vuoi un time out?
+Dialogue: 0,0:14:13.92,0:14:16.13,BottomCenter,,0000,0000,0000,,No, no, faccio in un momento!
+Dialogue: 0,0:14:25.13,0:14:26.67,BottomCenter,,0000,0000,0000,,Esercizi di respirazione?
+Dialogue: 0,0:14:26.75,0:14:27.96,BottomCenter,,0000,0000,0000,,Ma adesso?!
+Dialogue: 0,0:14:28.04,0:14:31.21,BottomCenter,,0000,0000,0000,,Ha interrotto la partita per questo?
+Dialogue: 0,0:14:34.50,0:14:36.04,BottomCenter,,0000,0000,0000,,Ma che problemi ha?
+Dialogue: 0,0:14:36.13,0:14:38.17,BottomCenter,,0000,0000,0000,,Non so se è un tipo\Nipersensibile o sfacciato!
+Dialogue: 0,0:14:38.25,0:14:40.42,BottomCenter,,0000,0000,0000,,Ma è proprio il nostro Sawamura!
+Dialogue: 0,0:14:40.50,0:14:42.71,BottomCenter,,0000,0000,0000,,Questa è una mossa\Nda Sawamura Eijun!
+Dialogue: 0,0:14:43.08,0:14:45.88,BottomCenter,,0000,0000,0000,,È il tuo momento, prenditi il tuo tempo!
+Dialogue: 0,0:14:46.38,0:14:48.29,BottomCenter,,0000,0000,0000,,Lo facevamo assieme.
+Dialogue: 0,0:14:51.33,0:14:53.04,BottomCenter,,0000,0000,0000,,Ma seriamente…
+Dialogue: 0,0:14:54.21,0:14:56.67,BottomCenter,,0000,0000,0000,,{\i1}Cos'è, cerchi di calmare i nervi?{\i0}
+Dialogue: 0,0:14:56.75,0:14:59.50,BottomCenter,,0000,0000,0000,,{\i1}Tanto vale prendere un megafono{\i0}\N{\i1}e urlare che sei nervoso…{\i0}
+Dialogue: 0,0:15:00.67,0:15:01.75,BottomCenter,,0000,0000,0000,,Bene.
+Dialogue: 0,0:15:02.50,0:15:06.58,BottomCenter,,0000,0000,0000,,{\i1}Due ball. Ora dovrà tenerla in{\i0}\N{\i1}zona di strike, e lì la sparerò in orbita.{\i0}
+Dialogue: 0,0:15:06.67,0:15:09.67,BottomCenter,,0000,0000,0000,,{\i1}Stavo giusto per chiedere un time out.{\i0}
+Dialogue: 0,0:15:09.75,0:15:12.38,BottomCenter,,0000,0000,0000,,{\i1}Per fortuna si conosce molto bene.{\i0}
+Dialogue: 0,0:15:12.83,0:15:15.67,BottomCenter,,0000,0000,0000,,{\i1}Ora dobbiamo vederti{\i0}\N{\i1}al meglio della tua forma!{\i0}
+Dialogue: 0,0:15:32.17,0:15:35.00,BottomCenter,,0000,0000,0000,,La palla rimbalza verso l'interbase\Ne Jinguji viene eliminato!
+Dialogue: 0,0:15:35.08,0:15:37.08,BottomCenter,,0000,0000,0000,,La prima eliminazione!
+Dialogue: 0,0:15:37.17,0:15:39.63,BottomCenter,,0000,0000,0000,,Vai così, numero 9!
+Dialogue: 0,0:15:39.96,0:15:42.33,BottomCenter,,0000,0000,0000,,{\i1}Bene, fuori uno.{\i0}
+Dialogue: 0,0:15:42.67,0:15:45.79,BottomCenter,,0000,0000,0000,,{\i1}Un'eliminazione preziosa.{\i0}\N{\i1}Se continua così…{\i0}
+Dialogue: 0,0:15:49.25,0:15:53.00,BottomCenter,,0000,0000,0000,,Un cutter interno\Nfrutta l'eliminazione numero due!
+Dialogue: 0,0:15:53.08,0:15:54.63,BottomCenter,,0000,0000,0000,,Versione migliorata!
+Dialogue: 0,0:15:54.71,0:15:56.29,BottomCenter,,0000,0000,0000,,E andiamo, così si fa!
+Dialogue: 0,0:15:56.38,0:15:58.29,BottomCenter,,0000,0000,0000,,Questi sono i lanci che vogliamo!
+Dialogue: 0,0:15:58.38,0:15:59.33,BottomCenter,,0000,0000,0000,,Evvai!
+Dialogue: 0,0:15:59.88,0:16:03.63,BottomCenter,,0000,0000,0000,,{\i1}Si è concesso una pausa{\i0}\N{\i1}per riprendere il ritmo?{\i0}
+Dialogue: 0,0:16:05.79,0:16:07.50,BottomCenter,,0000,0000,0000,,Si riparte dall'inizio del giro
+Dialogue: 0,0:16:07.58,0:16:09.96,BottomCenter,,0000,0000,0000,,col primo battitore\Ned esterno centrale, Carlos!
+Dialogue: 0,0:16:10.04,0:16:12.25,BottomCenter,,0000,0000,0000,,{\i1}Bene, lui sarà il primo vero test.{\i0}
+Dialogue: 0,0:16:14.17,0:16:16.58,BottomCenter,,0000,0000,0000,,La Inashiro ha bisogno di un punto.
+Dialogue: 0,0:16:16.67,0:16:20.17,BottomCenter,,0000,0000,0000,,Cercheranno subito di mettere\Nun uomo in base per concretizzarlo!
+Dialogue: 0,0:16:20.54,0:16:25.00,BottomCenter,,0000,0000,0000,,{\i1}Ora ti ricorderò io{\i0}\N{\i1}com'è andata la scorsa estate.{\i0}
+Dialogue: 0,0:16:31.71,0:16:34.17,BottomCenter,,0000,0000,0000,,È praticamente attaccato\Nalla zona di strike!
+Dialogue: 0,0:16:34.25,0:16:36.71,BottomCenter,,0000,0000,0000,,Spera di venire colpito\Nbloccando la traiettoria interna!
+Dialogue: 0,0:16:36.79,0:16:38.58,BottomCenter,,0000,0000,0000,,La stessa mossa dell'anno scorso!
+Dialogue: 0,0:17:00.88,0:17:03.00,BottomCenter,,0000,0000,0000,,Lo sta mettendo in difficoltà.
+Dialogue: 0,0:17:03.71,0:17:07.88,BottomCenter,,0000,0000,0000,,Carlos ha già fatto diversi home run,\Nquest'anno ha potenza da vendere.
+Dialogue: 0,0:17:08.21,0:17:10.29,BottomCenter,,0000,0000,0000,,Dargli un lancio\Nin zona di strike è un azzardo.
+Dialogue: 0,0:17:14.13,0:17:16.33,BottomCenter,,0000,0000,0000,,{\i1}Non farti scomporre, Sawamura.{\i0}
+Dialogue: 0,0:17:17.25,0:17:19.29,BottomCenter,,0000,0000,0000,,{\i1}E tu guidalo, Miyuki.{\i0}
+Dialogue: 0,0:17:19.58,0:17:24.17,BottomCenter,,0000,0000,0000,,Se sta così vicino alla zona di strike,\Nnon può colpire i lanci interni!
+Dialogue: 0,0:17:24.25,0:17:26.38,BottomCenter,,0000,0000,0000,,Anche la Inashiro è nel panico!
+Dialogue: 0,0:17:26.46,0:17:28.25,BottomCenter,,0000,0000,0000,,Lancia e fallo sudare!
+Dialogue: 0,0:17:28.58,0:17:29.71,BottomCenter,,0000,0000,0000,,{\i1}Vai…{\i0}
+Dialogue: 0,0:17:30.17,0:17:32.75,BottomCenter,,0000,0000,0000,,{\i1}Fategli vedere cosa sapete fare!{\i0}
+Dialogue: 0,0:17:40.71,0:17:43.92,BottomCenter,,0000,0000,0000,,Si parte con una spezzata esterna, foul!
+Dialogue: 0,0:17:44.50,0:17:46.29,BottomCenter,,0000,0000,0000,,{\i1}Sta già cercando di colpirla.{\i0}
+Dialogue: 0,0:17:46.38,0:17:49.08,BottomCenter,,0000,0000,0000,,{\i1}Le riesce a far abbassare{\i0}\N{\i1}a quella velocità?{\i0}
+Dialogue: 0,0:17:49.17,0:17:51.33,BottomCenter,,0000,0000,0000,,{\i1}Non importa, posso starci dietro.{\i0}
+Dialogue: 0,0:17:56.50,0:17:59.13,BottomCenter,,0000,0000,0000,,Secondo lancio, una palla veloce! Foul!
+Dialogue: 0,0:17:59.83,0:18:02.29,BottomCenter,,0000,0000,0000,,Così! E siamo a due strike!
+Dialogue: 0,0:18:02.38,0:18:04.67,BottomCenter,,0000,0000,0000,,Bei lanci, Sawamura!
+Dialogue: 0,0:18:04.75,0:18:07.29,BottomCenter,,0000,0000,0000,,Ha iniziato a lanciare interno!
+Dialogue: 0,0:18:07.38,0:18:11.54,BottomCenter,,0000,0000,0000,,La traiettoria che devia verso l'interno\Nspinge Carlos-kun a battere d'istinto.
+Dialogue: 0,0:18:11.96,0:18:14.63,BottomCenter,,0000,0000,0000,,Manca un lancio solo!\NResta interno, sul filo!
+Dialogue: 0,0:18:14.71,0:18:16.29,BottomCenter,,0000,0000,0000,,Puoi farcela!
+Dialogue: 0,0:18:16.38,0:18:18.96,BottomCenter,,0000,0000,0000,,{\i1}Calma, riuscirò a vederla arrivare!{\i0}
+Dialogue: 0,0:18:26.29,0:18:28.21,BottomCenter,,0000,0000,0000,,Il terzo lancio è un change-up!
+Dialogue: 0,0:18:28.29,0:18:30.88,BottomCenter,,0000,0000,0000,,Carlos la sfiora appena!
+Dialogue: 0,0:18:30.96,0:18:32.58,BottomCenter,,0000,0000,0000,,{\i1}Razza di piccolo…{\i0}
+Dialogue: 0,0:18:35.88,0:18:39.83,BottomCenter,,0000,0000,0000,,Assurdo!\NCarlos non riesce quasi a stargli dietro!
+Dialogue: 0,0:18:40.13,0:18:43.04,BottomCenter,,0000,0000,0000,,Sawamura ha lo stesso ritmo\Ndella partita con la Ichidaisan…
+Dialogue: 0,0:18:43.33,0:18:46.00,BottomCenter,,0000,0000,0000,,e ha contagiato tutto lo stadio!
+Dialogue: 0,0:18:50.63,0:18:54.83,BottomCenter,,0000,0000,0000,,{\i1}L'anno scorso riusciva{\i0}\N{\i1}ad attaccare solo all'interno,{\i0}
+Dialogue: 0,0:18:55.25,0:18:57.04,BottomCenter,,0000,0000,0000,,{\i1}ma ora ha un vero arsenale.{\i0}
+Dialogue: 0,0:18:58.50,0:19:01.17,BottomCenter,,0000,0000,0000,,{\i1}Durante il torneo autunnale è sbocciato.{\i0}
+Dialogue: 0,0:19:02.13,0:19:05.96,BottomCenter,,0000,0000,0000,,{\i1}Dalla primavera a oggi{\i0}\N{\i1}ha affrontato parecchi avversari.{\i0}
+Dialogue: 0,0:19:10.79,0:19:12.58,BottomCenter,,0000,0000,0000,,{\i1}È molto cambiato, in un anno.{\i0}
+Dialogue: 0,0:19:26.42,0:19:27.96,BottomCenter,,0000,0000,0000,,{\i1}D'accordo.{\i0}
+Dialogue: 0,0:19:28.04,0:19:29.54,BottomCenter,,0000,0000,0000,,{\i1}Non vuoi arrenderti, eh?{\i0}
+Dialogue: 0,0:19:30.33,0:19:33.21,BottomCenter,,0000,0000,0000,,{\i1}Allora dovrò schiacciarti con la forza.{\i0}
+Dialogue: 0,0:19:33.83,0:19:35.50,BottomCenter,,0000,0000,0000,,Si è rimesso nella posizione iniziale.
+Dialogue: 0,0:19:35.96,0:19:39.04,BottomCenter,,0000,0000,0000,,Così! Sawamura-senpai l'ha spuntata!
+Dialogue: 0,0:19:39.13,0:19:40.96,BottomCenter,,0000,0000,0000,,E ora finiscilo con questo lancio!
+Dialogue: 0,0:19:41.33,0:19:42.75,BottomCenter,,0000,0000,0000,,Non è finita!
+Dialogue: 0,0:19:43.75,0:19:45.96,BottomCenter,,0000,0000,0000,,Carlos-senpai, abbiamo appena iniziato!
+Dialogue: 0,0:19:46.04,0:19:47.21,BottomCenter,,0000,0000,0000,,Carlos!
+Dialogue: 0,0:19:51.50,0:19:54.13,BottomCenter,,0000,0000,0000,,È un peccato sprecare così il talento!
+Dialogue: 0,0:19:54.21,0:19:56.38,BottomCenter,,0000,0000,0000,,Ma tu pensi, mentre ti alleni?
+Dialogue: 0,0:19:58.25,0:20:01.29,BottomCenter,,0000,0000,0000,,Ti va di venire con me e mettere su\Nla squadra più forte del mondo?
+Dialogue: 0,0:20:01.58,0:20:07.54,BottomCenter,,0000,0000,0000,,{\i1}Quel giorno, Narumiya Mei{\i0}\N{\i1}mi avvicinò e mi diede un percorso.{\i0}
+Dialogue: 0,0:20:09.71,0:20:13.42,BottomCenter,,0000,0000,0000,,{\i1}Da quando sono arrivato qui,{\i0}\N{\i1}ho seguito il destino.{\i0}
+Dialogue: 0,0:20:15.79,0:20:17.13,BottomCenter,,0000,0000,0000,,{\i1}Ma non mi basta.{\i0}
+Dialogue: 0,0:20:19.33,0:20:21.33,BottomCenter,,0000,0000,0000,,{\i1}Narumiya Mei…{\i0}
+Dialogue: 0,0:20:21.42,0:20:23.08,BottomCenter,,0000,0000,0000,,{\i1}I miei compagni…{\i0}
+Dialogue: 0,0:20:23.63,0:20:25.92,BottomCenter,,0000,0000,0000,,{\i1}Mi hanno proprio corrotto.{\i0}
+Dialogue: 0,0:20:26.00,0:20:29.08,BottomCenter,,0000,0000,0000,,{\i1}Ogni giorno ho più fame di prima.{\i0}
+Dialogue: 0,0:20:31.67,0:20:32.96,BottomCenter,,0000,0000,0000,,{\i1}Non mi basta.{\i0}
+Dialogue: 0,0:20:34.13,0:20:36.54,BottomCenter,,0000,0000,0000,,{\i1}Noi siamo la squadra più forte al mondo.{\i0}
+Dialogue: 0,0:20:39.42,0:20:41.46,BottomCenter,,0000,0000,0000,,{\i1}Noi siamo i veri re!{\i0}
+Dialogue: 0,0:20:41.54,0:20:43.42,BottomCenter,,0000,0000,0000,,{\i1}E voi non ci ostacolerete!{\i0}
+Dialogue: 0,0:20:47.42,0:20:49.71,BottomCenter,,0000,0000,0000,,La palla vola al centro!
+Dialogue: 0,0:20:49.79,0:20:51.58,BottomCenter,,0000,0000,0000,,Presa al volo da Tojo!
+Dialogue: 0,0:20:52.17,0:20:54.38,BottomCenter,,0000,0000,0000,,E abbiamo la terza eliminazione!
+Dialogue: 0,0:20:54.46,0:20:56.54,BottomCenter,,0000,0000,0000,,Sì!
+Dialogue: 0,0:20:56.63,0:20:57.58,BottomCenter,,0000,0000,0000,,Evvai!
+Dialogue: 0,0:20:57.67,0:21:00.58,BottomCenter,,0000,0000,0000,,L'asso Sawamura\Nè entrato in campo in questo inning!
+Dialogue: 0,0:21:00.67,0:21:01.67,BottomCenter,,0000,0000,0000,,Bene!
+Dialogue: 0,0:21:01.75,0:21:06.21,BottomCenter,,0000,0000,0000,,Ha raccolto il testimone di Furuya Satoru\Ne sfoderato dei lanci straordinari!
+Dialogue: 0,0:21:06.83,0:21:10.21,BottomCenter,,0000,0000,0000,,Sì, sì, sì! Sì, sì, sì!
+Dialogue: 0,0:21:11.50,0:21:13.46,BottomCenter,,0000,0000,0000,,Quella era un po' altina!
+Dialogue: 0,0:21:13.54,0:21:15.50,BottomCenter,,0000,0000,0000,,Basta che tu te ne sia accorto.
+Dialogue: 0,0:21:20.17,0:21:23.00,BottomCenter,,0000,0000,0000,,{\i1}'Fanculo! Non sono riuscito{\i0}\N{\i1}a prenderla come si deve!{\i0}
+Dialogue: 0,0:21:29.63,0:21:33.13,BottomCenter,,0000,0000,0000,,Direi che l'anno scorso\Nnon è stato un colpo di fortuna.
+Dialogue: 0,0:21:33.46,0:21:34.63,BottomCenter,,0000,0000,0000,,{\i1}Mei-san…{\i0}
+Dialogue: 0,0:21:35.46,0:21:38.33,BottomCenter,,0000,0000,0000,,Mi piace. Niente male, devo dirlo.
+Dialogue: 0,0:21:44.04,0:21:47.96,BottomCenter,,0000,0000,0000,,{\i1}Voi due volete coalizzarvi{\i0}\N{\i1}contro di me per abbattermi?{\i0}
+Dialogue: 0,0:21:48.71,0:21:50.83,BottomCenter,,0000,0000,0000,,Niente male davvero.
+Dialogue: 0,0:23:26.54,0:23:30.75,BottomCenter,,0000,0000,0000,,Nel prossimo episodio di\N"Ace of the Diamond Act II Stagione 2"…
+Dialogue: 0,0:23:31.08,0:23:32.75,BottomCenter,,0000,0000,0000,,"Un gruppo dei più forti".
+Dialogue: 0,0:23:32.83,0:23:34.83,BottomCenter,,0000,0000,0000,,Vinceremo il titolo nazionale!
+Dialogue: 0,0:23:34.92,0:23:36.79,TopCenter,,0000,0000,0000,,PROSSIMO EPISODIO\N"UN GRUPPO DEI PIÙ FORTI"
+
