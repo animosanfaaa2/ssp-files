@@ -1,0 +1,331 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,20,20,20,1
+Style: Italique,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,2,20,20,20,1
+Style: TiretsDefault,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,1,20,20,20,1
+Style: TiretsItalique,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,1,20,20,20,1
+Style: SignWhite,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,25,1
+Style: TitreEpisode,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,110,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.40,0:00:04.69,Italique,Public A,0,0,0,,Le nº 7 est de retour\Nsur le terrain !
+Dialogue: 0,0:00:04.82,0:00:08.70,Italique,Aso,0,0,0,,Ça a fini par payer,\Nde jouer au baseball !
+Dialogue: 0,0:00:09.07,0:00:10.78,TiretsItalique,Kataoka/Sawamura,258,0,0,,– Sawamura !\N– Oui ?
+Dialogue: 0,0:00:10.92,0:00:13.08,Italique,Kataoka,0,0,0,,Furuya a lancé\Npas loin de cent balles.
+Dialogue: 0,0:00:13.22,0:00:15.62,Italique,Kataoka,0,0,0,,Depuis le début,\Nil ne se ménage pas.
+Dialogue: 0,0:00:15.95,0:00:18.58,Italique,Kataoka,0,0,0,,S’il fatigue,\Ntu le remplaceras aussitôt.
+Dialogue: 0,0:00:20.79,0:00:23.38,Italique,Commentateur,0,0,0,,Fin de la 6e manche.\NInashiro attaque
+Dialogue: 0,0:00:23.50,0:00:25.96,Italique,Commentateur,0,0,0,,avec le 5e batteur, Narumiya !
+Dialogue: 0,0:00:26.13,0:00:28.67,Italique,Commentateur,0,0,0,,Durant ce tournoi,\Nil a une moyenne de 0,532.
+Dialogue: 0,0:00:28.80,0:00:31.18,Italique,Commentateur,0,0,0,,Même à la batte,\Nil est redoutable !
+Dialogue: 0,0:00:31.34,0:00:33.64,Italique,Miyuki,0,0,0,,Il doit être vexé\Nd’avoir perdu des points
+Dialogue: 0,0:00:33.76,0:00:35.93,Italique,Miyuki,0,0,0,,et il veut se rattraper, j’imagine.
+Dialogue: 0,0:00:36.27,0:00:37.56,Italique,Miyuki,0,0,0,,Mais pas question.
+Dialogue: 0,0:00:39.48,0:00:41.19,Italique,Maezono,0,0,0,,Élimine-les un à un !
+Dialogue: 0,0:00:41.40,0:00:43.15,Italique,Haruichi,0,0,0,,Passe à l’attaque, Furuya !
+Dialogue: 0,0:00:43.36,0:00:44.61,Italique,Kuramochi,0,0,0,,Force-les à frapper !
+Dialogue: 0,0:00:44.77,0:00:47.07,Italique,Aso,0,0,0,,T’inquiète, je suis là !
+Dialogue: 0,0:00:47.40,0:00:51.53,Italique,Narumiya,0,0,0,,L’avoir éliminé sur strikes a pas suffi\Nà m’apaiser. Ramène-toi, Furuya.
+Dialogue: 0,0:00:55.95,0:00:58.37,Italique,Commentateur,0,0,0,,Le premier lancer est une droite !\NFausse !
+Dialogue: 0,0:00:58.83,0:01:01.08,Italique,Miyuki,0,0,0,,Il a saisi le timing.
+Dialogue: 0,0:01:01.33,0:01:04.04,Italique,Narumiya,0,0,0,,Bon sang. Ses balles\Nne perdent pas en puissance.
+Dialogue: 0,0:01:19.02,0:01:21.06,Italique,Narumiya,0,0,0,,Il est déchaîné !
+Dialogue: 0,0:01:21.52,0:01:23.15,Italique,Miyuki,0,0,0,,Il s’est raidi un peu.
+Dialogue: 0,0:01:23.35,0:01:25.73,Italique,Miyuki,0,0,0,,Lance plutôt une balle rapide\Nvers le bas !
+Dialogue: 0,0:01:29.78,0:01:33.11,Italique,Commentateur,0,0,0,,Un coup dans le champ gauche,\Nla zone d’Aso !
+Dialogue: 0,0:01:34.03,0:01:35.83,Italique,Commentateur,0,0,0,,Il l’attrape ! Un retrait !
+Dialogue: 0,0:01:36.16,0:01:39.29,Italique,Commentateur,0,0,0,,Une fois de plus,\NNarumiya est vaincu par Furuya !
+Dialogue: 0,0:01:42.00,0:01:43.25,Italique,Furuya,0,0,0,,Ce n’est pas fini.
+Dialogue: 0,0:01:43.50,0:01:47.04,Italique,Furuya,0,0,0,,Tant que je jouerai au baseball,\Nla route continuera.
+Dialogue: 0,0:01:48.92,0:01:52.38,Italique,Sawamura,0,0,0,,N’essaie pas de tout faire toi-même !\NFie-toi aux défenseurs !
+Dialogue: 0,0:01:52.76,0:01:55.14,Italique,Tadano,0,0,0,,Il devrait être bientôt\Nà bout de forces.
+Dialogue: 0,0:01:55.47,0:01:57.35,Italique,Tadano,0,0,0,,Il faut que je le fasse lancer.
+Dialogue: 0,0:02:07.19,0:02:10.44,Italique,Furuya,0,0,0,,J’ai trouvé ma voie\Nen venant à Seido.
+Dialogue: 0,0:02:13.95,0:02:16.57,Italique,Furuya,0,0,0,,Le baseball\Nme permet de m’exprimer.
+Dialogue: 0,0:02:17.03,0:02:18.28,Italique,Furuya,0,0,0,,Je peux être égoïste.
+Dialogue: 0,0:02:20.87,0:02:23.71,Italique,Furuya,0,0,0,,Grâce à cet endroit,\Nje peux me battre.
+Dialogue: 0,0:02:29.84,0:02:32.09,Italique,Furuya,0,0,0,,Je peux donner tout ce que j’ai !
+Dialogue: 0,0:02:34.09,0:02:36.05,Italique,Commentateur,0,0,0,,Strike ! Batteur éliminé !
+Dialogue: 0,0:02:36.22,0:02:38.80,Italique,Public A,0,0,0,,Il a enchaîné\Nles balles à 150 km/h !
+Dialogue: 0,0:02:38.97,0:02:40.47,Italique,Public,0,0,0,,Furuya !
+Dialogue: 0,0:02:40.93,0:02:45.31,Italique,Kataoka,0,0,0,,Tu as su préserver notre avance.\NJe n’ai rien à redire.
+Dialogue: 0,0:02:45.44,0:02:46.56,Italique,Ota,0,0,0,,C’était remarquable !
+Dialogue: 0,0:02:46.98,0:02:49.82,Italique,Kataoka,0,0,0,,À partir de la 7e manche,\Ntu seras au champ gauche.
+Dialogue: 0,0:02:50.86,0:02:52.23,Italique,Kataoka,0,0,0,,Sawamura, à toi de jouer !
+Dialogue: 0,0:02:52.65,0:02:53.69,Italique,Sawamura,0,0,0,,D’accord !
+Dialogue: 0,0:02:54.45,0:02:57.32,Italique,Miyuki,0,0,0,,Il a pu lancer à fond\Ndès la première manche
+Dialogue: 0,0:02:57.70,0:02:59.37,Italique,Miyuki,0,0,0,,parce que Sawamura est là.
+Dialogue: 0,0:02:59.99,0:03:03.37,Italique,Miyuki,0,0,0,,Ainsi, il lui cède la place\Ndans de bonnes conditions.
+Dialogue: 0,0:03:06.96,0:03:08.17,Italique,Furuya,0,0,0,,Je te passe le relais.
+Dialogue: 0,0:03:08.46,0:03:10.96,Italique,Sawamura,0,0,0,,Ouais, je prends la suite !
+Dialogue: 0,0:04:41.01,0:04:45.43,TitreEpisode,sign,0,0,0,,{\blur0.5\pos(108,274)}RELAIS
+Dialogue: 0,0:04:43.60,0:04:45.18,Default,Furuya,0,0,0,,Je te remplace quand tu veux.
+Dialogue: 0,0:04:45.93,0:04:47.39,Default,Sawamura,0,0,0,,Pas la peine.
+Dialogue: 0,0:04:47.60,0:04:49.77,Default,Furuya,0,0,0,,Je t’appuierai en défense\Net à la batte.
+Dialogue: 0,0:04:50.64,0:04:52.81,Default,Kuramochi,0,0,0,,Le nº 1 entre en scène.
+Dialogue: 0,0:04:52.94,0:04:54.57,Default,Shirasu,0,0,0,,C’est un choix agressif.
+Dialogue: 0,0:04:56.61,0:04:59.82,Default,Maezono,0,0,0,,On va continuer sur notre lancée\Net attaquer sans relâche !
+Dialogue: 0,0:04:59.95,0:05:00.90,Default,Seido,0,0,0,,Ouais !
+Dialogue: 0,0:05:00.90,0:05:05.91,SignWhite,sign,0,0,0,,{\blur0.5\fad(0,522)}DÉBUT DE LA 7E MANCHE
+Dialogue: 0,0:05:01.20,0:05:04.33,Italique,Commentateur,0,0,0,,Le lycée Seido mène d’un point\Nau début de la 7e manche.
+Dialogue: 0,0:05:04.45,0:05:08.50,Italique,Commentateur,0,0,0,,Il commence son attaque\Navec le 8e batteur et 3e base, Kanemaru.
+Dialogue: 0,0:05:15.09,0:05:18.51,Italique,Commentateur,0,0,0,,La balle roule jusqu’à l’arrêt-court.\NUn retrait !
+Dialogue: 0,0:05:19.76,0:05:21.68,Default,Adachi,0,0,0,,Il est gonflé à bloc.
+Dialogue: 0,0:05:22.05,0:05:24.47,Default,Nagata,0,0,0,,Il ne veut pas céder\Nun point de plus.
+Dialogue: 0,0:05:25.43,0:05:28.10,Italique,Commentateur,0,0,0,,Seido envoie\Nun batteur suppléant.
+Dialogue: 0,0:05:28.52,0:05:32.73,Italique,Commentateur,0,0,0,,Le seconde Kaoru Yui\Nremplace le 9e batteur, Aso.
+Dialogue: 0,0:05:33.48,0:05:35.11,Default,Owada,0,0,0,,Ils enfoncent le clou.
+Dialogue: 0,0:05:35.27,0:05:37.32,Default,Mine,0,0,0,,Aso reste sur le banc ?
+Dialogue: 0,0:05:38.65,0:05:40.03,Italique,Mine,0,0,0,,Ils changent de lanceur ?
+Dialogue: 0,0:05:40.94,0:05:45.41,Italique,Commentateur,0,0,0,,Il a frappé un coup sûr à chacune\Nde ses trois participations précédentes.
+Dialogue: 0,0:05:45.57,0:05:48.70,Italique,Commentateur,0,0,0,,Ce jeune joueur brille à la batte !
+Dialogue: 0,0:05:49.16,0:05:52.37,Default,Kuki,0,0,0,,Trop fort !\NUn seconde joue dans un match décisif !
+Dialogue: 0,0:05:52.50,0:05:55.42,Default,Seto,0,0,0,,Tu nous représentes tous,\Nalors laisse ta marque !
+Dialogue: 0,0:05:56.17,0:05:58.50,Default,Masashi,0,0,0,,Pourquoi je n’ai pas été choisi ?
+Dialogue: 0,0:05:58.67,0:05:59.96,Default,Akamatsu,0,0,0,,Quel veinard !
+Dialogue: 0,0:06:00.71,0:06:02.26,Default,Sawamura,0,0,0,,Tu veux pas rater ça, hein ?
+Dialogue: 0,0:06:02.84,0:06:06.01,Default,Aso,0,0,0,,Donne tout ce que tu as !\NJe ramasserai tes restes !
+Dialogue: 0,0:06:06.47,0:06:11.23,Italique,Aso,0,0,0,,J’y ai infusé mon âme d’acier\Nque même les murs n’arrêtent pas !
+Dialogue: 0,0:06:11.68,0:06:13.06,Italique,Yui,0,0,0,,Aso…
+Dialogue: 0,0:06:27.99,0:06:29.16,Italique,Yui,0,0,0,,C’est hyper rapide !
+Dialogue: 0,0:06:39.63,0:06:44.22,Italique,Commentateur,0,0,0,,Élimination sur strikes !\NC’est déjà le deuxième retrait !
+Dialogue: 0,0:06:47.39,0:06:49.01,Default,Kuki,0,0,0,,C’étaient trois droites.
+Dialogue: 0,0:06:49.14,0:06:51.72,Default,Seto,0,0,0,,Pourtant,\NYui les a toutes loupées…
+Dialogue: 0,0:06:52.18,0:06:53.85,Italique,Yui,0,0,0,,Comment les autres ont réussi
+Dialogue: 0,0:06:54.18,0:06:56.44,Italique,Yui,0,0,0,,à marquer deux points contre lui ?
+Dialogue: 0,0:07:04.86,0:07:06.49,Italique,Commentateur,0,0,0,,Éliminé !
+Dialogue: 0,0:07:10.95,0:07:14.66,Italique,Commentateur,0,0,0,,Shirakawa rattrape la balle aisément !\NTrois retraits !
+Dialogue: 0,0:07:14.79,0:07:18.63,Italique,Commentateur,0,0,0,,Le nº 1 Narumiya clôt la manche\Nen trois batteurs !
+Dialogue: 0,0:07:21.34,0:07:22.71,Default,Yabe,0,0,0,,Super ! Bravo !
+Dialogue: 0,0:07:22.84,0:07:24.80,Default,Ezaki,0,0,0,,Bien lancé, Mei !
+Dialogue: 0,0:07:25.05,0:07:27.76,Default,Tadano,0,0,0,,Bien joué, Mei !\NTes lancers ont tout dézingué.
+Dialogue: 0,0:07:27.99,0:07:29.47,Default,Tadano,0,0,0,,C’était incroyable !
+Dialogue: 0,0:07:29.68,0:07:31.43,Default,Narumiya,0,0,0,,Arrête de pleurnicher, imbécile !
+Dialogue: 0,0:07:31.56,0:07:33.68,Default,Narumiya,0,0,0,,Pas question\Nque ça se finisse ainsi.
+Dialogue: 0,0:07:34.48,0:07:37.02,Default,Fukui,0,0,0,,Allez, c’est notre tour d’attaquer !
+Dialogue: 0,0:07:37.14,0:07:41.15,Default,Fukui,0,0,0,,Furuya doit être fatigué.\NC’est le moment de le démolir.
+Dialogue: 0,0:07:41.32,0:07:42.40,Default,Inashiro,0,0,0,,Ouais !
+Dialogue: 0,0:07:42.86,0:07:47.95,Italique,Annonce,0,0,0,,Fin de la 7e manche. Le lycée Seido\Nannonce un changement de joueur.
+Dialogue: 0,0:07:48.66,0:07:51.40,Italique,Annonce,0,0,0,,Furuya, le lanceur,\Npasse au champ gauche.
+Dialogue: 0,0:07:51.74,0:07:55.08,Italique,Annonce,0,0,0,,Furuya,\N8e batteur et champ gauche.
+Dialogue: 0,0:07:55.91,0:08:00.42,Italique,Annonce,0,0,0,,À la place de Yui,\Nqui était batteur suppléant,
+Dialogue: 0,0:08:00.63,0:08:02.67,Italique,Annonce,0,0,0,,il y aura\Nle 9e batteur et lanceur…
+Dialogue: 0,0:08:06.42,0:08:07.80,Italique,Annonce,0,0,0,,Sawamura.
+Dialogue: 0,0:08:10.72,0:08:14.26,Italique,Annonce,0,0,0,,Sawamura, 9e batteur et lanceur.
+Dialogue: 0,0:08:28.53,0:08:29.53,Default,Sawamura,0,0,0,,Bonjour !
+Dialogue: 0,0:08:29.70,0:08:32.82,Italique,Commentateur,0,0,0,,Le lycée Seido remplace Furuya
+Dialogue: 0,0:08:32.95,0:08:36.79,Italique,Commentateur,0,0,0,,et envoie son nº 1, Sawamura,\Nsur le monticule !
+Dialogue: 0,0:08:37.66,0:08:40.04,Default,Yoshizawa (Hideaki),0,0,0,,Sérieux ? C’est pas un peu tôt ?
+Dialogue: 0,0:08:40.33,0:08:43.25,Default,Narumiya,0,0,0,,C’est pas juste !\NReste jusqu’au bout, Furuya !
+Dialogue: 0,0:08:43.42,0:08:45.38,Italique,Tadano,0,0,0,,Il lançait sans se ménager
+Dialogue: 0,0:08:45.55,0:08:48.47,Italique,Tadano,0,0,0,,parce qu’il prévoyait ce relais\Ndepuis le début ?
+Dialogue: 0,0:08:50.81,0:08:55.51,Italique,Commentateur,0,0,0,,Lors de la demi-finale contre Ichidaisan,\Nil a atteint un batteur,
+Dialogue: 0,0:08:55.64,0:08:59.27,Italique,Commentateur,0,0,0,,mais n’a cédé que trois coups sûrs\Net un point.
+Dialogue: 0,0:08:59.81,0:09:03.27,Italique,Commentateur,0,0,0,,Pour parer à toute éventualité,\NSeido envoie son nº 1 !
+Dialogue: 0,0:09:03.77,0:09:05.90,Default,Seto,0,0,0,,Quel accueil de fou !
+Dialogue: 0,0:09:06.02,0:09:09.61,Default,Seto,0,0,0,,La foule se souvient\Nde sa performance contre Ichidaisan !
+Dialogue: 0,0:09:10.07,0:09:12.95,Default,Public A,0,0,0,,Furuya assurait,\Nmais ils l’ont remplacé…
+Dialogue: 0,0:09:13.24,0:09:15.70,Default,Public B,0,0,0,,Il a donné\Nbeaucoup de bases sur balles.
+Dialogue: 0,0:09:16.03,0:09:18.29,Default,Public C,0,0,0,,Ils protègent\Nleur avance d’un point ?
+Dialogue: 0,0:09:18.45,0:09:20.91,Default,Public D,0,0,0,,Sûrement,\Nsurtout qu’ils ont encore Kawakami.
+Dialogue: 0,0:09:21.29,0:09:23.83,Default,Public E,0,0,0,,Seido a pris les devants !
+Dialogue: 0,0:09:24.33,0:09:27.75,Default,Carlos,0,0,0,,Furuya était déjà pénible,\Net lui, ce n’est pas mieux.
+Dialogue: 0,0:09:28.01,0:09:32.51,Default,Shirakawa,0,0,0,,Ses lancers sont beaucoup plus rapides\Net variés que l’année dernière.
+Dialogue: 0,0:09:32.80,0:09:35.93,Default,Yabe,0,0,0,,Il a tout déchiré\Nlors des matchs amicaux, il paraît.
+Dialogue: 0,0:09:36.10,0:09:40.10,Default,Carlos,0,0,0,,Je croyais qu’il n’avait récupéré le nº 1\Nqu’à cause des soucis de Furuya,
+Dialogue: 0,0:09:40.23,0:09:42.56,Default,Carlos,0,0,0,,mais vu son duel contre Amahisa…
+Dialogue: 0,0:09:42.69,0:09:45.06,Default,Shirakawa,0,0,0,,Il est parti sur sa lancée,\Nc’est clair.
+Dialogue: 0,0:09:45.65,0:09:49.36,Italique,Narumiya,0,0,0,,En fin de compte,\Ntu es balèze ou pas ?
+Dialogue: 0,0:09:50.74,0:09:52.45,Italique,Narumiya,0,0,0,,Qu’est-ce qu’il en est vraiment,
+Dialogue: 0,0:09:53.49,0:09:54.57,Italique,Narumiya,0,0,0,,au juste ?
+Dialogue: 0,0:09:57.37,0:10:01.50,Italique,Narumiya,0,0,0,,Tu arriveras à suivre\Nen débarquant en cours de match ?
+Dialogue: 0,0:10:02.46,0:10:06.34,Default,Miyuki,0,0,0,,Tu as entendu la réaction de la foule\Nà ton arrivée ? C’était dément.
+Dialogue: 0,0:10:06.50,0:10:08.17,Default,Sawamura,0,0,0,,J’en reviens pas moi-même.
+Dialogue: 0,0:10:08.30,0:10:09.46,Default,Miyuki,0,0,0,,T’es une vraie star.
+Dialogue: 0,0:10:09.71,0:10:12.84,Default,Sawamura,0,0,0,,Mais non, voyons !\NTu le penses vraiment ?
+Dialogue: 0,0:10:12.97,0:10:16.04,Default,Miyuki,0,0,0,,On débute par le 8e batteur.\NTu te souviens de l’ordre ?
+Dialogue: 0,0:10:16.22,0:10:17.43,Default,Sawamura,0,0,0,,Oui, c’est bon.
+Dialogue: 0,0:10:17.60,0:10:19.14,Default,Miyuki,0,0,0,,Je compte sur toi, nº 1 !
+Dialogue: 0,0:10:19.26,0:10:20.14,Default,Sawamura,0,0,0,,D’accord !
+Dialogue: 0,0:10:20.64,0:10:23.60,Italique,Miyuki,0,0,0,,Reste à voir\Nce que vont donner ses lancers.
+Dialogue: 0,0:10:24.81,0:10:26.02,Italique,Sawamura,0,0,0,,Je suis le nº 1…
+Dialogue: 0,0:10:26.73,0:10:28.69,Default,Sawamura,0,0,0,,Plus que trois manches !
+Dialogue: 0,0:10:30.86,0:10:33.20,Default,Sawamura,0,0,0,,Tout va se jouer\Nà partir de maintenant !
+Dialogue: 0,0:10:33.78,0:10:37.91,Default,Sawamura,0,0,0,,Puisons dans l’esprit de Seido\Net combattons jusqu’au bout
+Dialogue: 0,0:10:38.37,0:10:41.29,Default,Sawamura,0,0,0,,avec ténacité\Net sans nous préoccuper des apparences !
+Dialogue: 0,0:10:43.04,0:10:45.21,Default,Sawamura,0,0,0,,Je vais attaquer sans relâche,
+Dialogue: 0,0:10:45.71,0:10:49.17,Default,Sawamura,0,0,0,,alors je compte sur vous,\Nmessieurs les défenseurs !
+Dialogue: 0,0:10:49.38,0:10:53.59,Default,Maezono,0,0,0,,Ouais, bien dit !\NNotre nº 1 a parlé !
+Dialogue: 0,0:10:55.76,0:10:57.76,Default,Haruichi,0,0,0,,C’est parti, Eijun !
+Dialogue: 0,0:10:57.89,0:10:59.51,Default,Kuramochi,0,0,0,,Vas-y, Sawamura !
+Dialogue: 0,0:11:09.94,0:11:13.24,Italique,Commentateur,0,0,0,,Fin de la 7e manche.\NSeido a envoyé son nº 1 sur le terrain.
+Dialogue: 0,0:11:13.36,0:11:16.32,Italique,Commentateur,0,0,0,,Inashiro attaque avec le 8e batteur,\NJinguji !
+Dialogue: 0,0:11:17.28,0:11:20.24,Italique,Jinguji,0,0,0,,Satoru Furuya…\NEijun Sawamura…
+Dialogue: 0,0:11:20.83,0:11:24.04,Italique,Jinguji,0,0,0,,Deux joueurs de mon âge\Nqui étonnent depuis l’an dernier.
+Dialogue: 0,0:11:24.41,0:11:26.37,Italique,Jinguji,0,0,0,,Ils m’avaient marqué.
+Dialogue: 0,0:11:28.83,0:11:32.59,Italique,Jinguji,0,0,0,,J’avais compris\Nque pendant encore deux ans,
+Dialogue: 0,0:11:33.84,0:11:36.55,Italique,Jinguji,0,0,0,,ils se dresseraient\Nsur notre chemin.
+Dialogue: 0,0:11:37.22,0:11:39.68,Italique,Miyuki,0,0,0,,Il a l’air un poil trop tendu\Nà mon goût.
+Dialogue: 0,0:11:40.13,0:11:41.96,Italique,Miyuki,0,0,0,,Ce batteur n’hésite pas à frapper.
+Dialogue: 0,0:11:42.09,0:11:44.48,Italique,Miyuki,0,0,0,,Il ne faut pas lui lancer\Nde balle facile.
+Dialogue: 0,0:11:45.39,0:11:49.15,Default,Owada,0,0,0,,Il doit être gonflé à bloc,\Nen relevant Furuya.
+Dialogue: 0,0:11:49.31,0:11:52.36,Default,Mine,0,0,0,,Il est gaucher\Net a un style très différent.
+Dialogue: 0,0:11:52.61,0:11:56.86,Default,Mine,0,0,0,,Furuya a arrosé Inashiro\Nde balles à plus de 150 km/h.
+Dialogue: 0,0:11:57.86,0:12:01.66,Italique,Mine,0,0,0,,La moindre directive\Npeut changer le cours du match.
+Dialogue: 0,0:12:02.66,0:12:05.29,Italique,Mine,0,0,0,,Voyons quel impact\Naura ce relais…
+Dialogue: 0,0:12:13.59,0:12:15.76,Italique,Fukui,0,0,0,,Il lance des droites\Nà près de 140 km/h
+Dialogue: 0,0:12:15.92,0:12:18.47,Italique,Fukui,0,0,0,,dont l’accélération\Ndéstabilise le batteur.
+Dialogue: 0,0:12:18.93,0:12:22.35,Italique,Fukui,0,0,0,,Ses balles à effet virent\Nsur les côtés ou en bas.
+Dialogue: 0,0:12:22.51,0:12:25.56,Italique,Fukui,0,0,0,,En plus,\Nil maîtrise le changement de vitesse.
+Dialogue: 0,0:12:26.22,0:12:29.85,Italique,Kunitomo,0,0,0,,Puisque vos yeux se sont habitués\Naux droites de Furuya,
+Dialogue: 0,0:12:30.06,0:12:32.69,Italique,Kunitomo,0,0,0,,vous suivrez sans peine\Nles lancers de Sawamura.
+Dialogue: 0,0:12:33.02,0:12:34.78,Italique,Kunitomo,0,0,0,,Avancez-vous le plus possible
+Dialogue: 0,0:12:35.28,0:12:37.69,Italique,Kunitomo,0,0,0,,et frappez\Navant que la balle dévie.
+Dialogue: 0,0:12:38.49,0:12:40.32,Italique,Sawamura,0,0,0,,Il s’est posté tout devant.
+Dialogue: 0,0:12:41.36,0:12:45.74,Italique,Miyuki,0,0,0,,On ne dirait pas qu’il veut observer,\Nmais qu’il a choisi sa cible.
+Dialogue: 0,0:12:45.87,0:12:47.91,Italique,Miyuki,0,0,0,,S’il compte frapper,\Nça nous arrange.
+Dialogue: 0,0:12:48.37,0:12:53.00,Italique,Commentateur,0,0,0,,Fin de la 7e manche. Le nº 1 Sawamura\Nprépare son premier lancer !
+Dialogue: 0,0:12:54.04,0:12:56.09,Italique,Miyuki,0,0,0,,Allez, c’est parti !
+Dialogue: 0,0:12:56.34,0:13:00.05,Italique,Jinguji,0,0,0,,Il lance avec précision, hein ?\NIl n’y a pas à hésiter, alors.
+Dialogue: 0,0:13:00.97,0:13:02.34,Italique,Sawamura,0,0,0,,Depuis ce jour-là…
+Dialogue: 0,0:13:03.43,0:13:05.56,Italique,Sawamura,0,0,0,,on s’est battus toute une année
+Dialogue: 0,0:13:05.89,0:13:08.14,Italique,Sawamura,0,0,0,,pour surmonter cette défaite.
+Dialogue: 0,0:13:15.40,0:13:17.73,Italique,Sawamura,0,0,0,,Il est temps de tourner la page !
+Dialogue: 0,0:13:20.36,0:13:22.78,Italique,Commentateur,0,0,0,,Le premier lancer est hors zone !\NBalle !
+Dialogue: 0,0:13:22.95,0:13:24.78,Italique,Miyuki,0,0,0,,Ses doigts l’ont accrochée ?
+Dialogue: 0,0:13:25.87,0:13:26.95,Italique,Sawamura,0,0,0,,Je suis trop tendu.
+Dialogue: 0,0:13:27.37,0:13:31.16,Italique,Sawamura,0,0,0,,Il faut que je lance plus souplement\Npour que ce soit parfait !
+Dialogue: 0,0:13:31.33,0:13:32.67,Default,Maezono,0,0,0,,Relax, mon vieux !
+Dialogue: 0,0:13:32.83,0:13:34.63,Default,Haruichi,0,0,0,,Fais comme d’habitude !
+Dialogue: 0,0:13:34.79,0:13:36.34,Default,Kuramochi,0,0,0,,Oblige-le à frapper !
+Dialogue: 0,0:13:36.59,0:13:38.34,Italique,Sawamura,0,0,0,,Furuya m’a passé le relais.
+Dialogue: 0,0:13:40.22,0:13:41.51,Italique,Commentateur,0,0,0,,Deuxième lancer !
+Dialogue: 0,0:13:41.93,0:13:44.09,Italique,Sawamura,0,0,0,,Pas question de me louper !
+Dialogue: 0,0:13:48.93,0:13:51.27,Default,Commentateur,0,0,0,,Une balle haute hors zone !
+Dialogue: 0,0:13:51.98,0:13:54.44,TiretsDefault,Public F/Public G,215,0,0,,– Encore une balle ?\N– Ça lui ressemble pas.
+Dialogue: 0,0:13:54.73,0:13:56.44,Default,Public H,0,0,0,,Il doit stresser.
+Dialogue: 0,0:13:56.61,0:14:00.28,Default,Public I,0,0,0,,C’est la première fois du tournoi\Nqu’il relève un autre lanceur.
+Dialogue: 0,0:14:00.61,0:14:03.24,Italique,Miyuki,0,0,0,,Les meilleurs batteurs\Nsont pas loin derrière.
+Dialogue: 0,0:14:03.53,0:14:05.99,Italique,Miyuki,0,0,0,,Ce serait pas bon\Nd’accumuler les coureurs.
+Dialogue: 0,0:14:07.91,0:14:11.66,Default,Sawamura,0,0,0,,Excusez-moi, j’ai oublié un truc !\NUn instant, s’il vous plaît !
+Dialogue: 0,0:14:12.91,0:14:13.83,Default,Arbitre,0,0,0,,Un temps mort ?
+Dialogue: 0,0:14:14.00,0:14:16.13,Default,Sawamura,0,0,0,,Pas la peine, ce sera rapide !
+Dialogue: 0,0:14:25.30,0:14:27.80,TiretsDefault,Public J/Public K,182,0,0,,– Un exercice de respiration ?\N– Maintenant ?
+Dialogue: 0,0:14:28.14,0:14:31.22,Default,Public K,0,0,0,,Il a mis le match en pause\Net prend tout son temps !
+Dialogue: 0,0:14:34.56,0:14:35.98,Default,Public L,0,0,0,,Il est dingue, ce mec !
+Dialogue: 0,0:14:36.15,0:14:38.27,Default,Public M,0,0,0,,T’es délicat ou gonflé ?\NFaut savoir !
+Dialogue: 0,0:14:38.48,0:14:42.69,Default,Public N,0,0,0,,On ne le refera pas !\NIl est comme ça, Eijun Sawamura !
+Dialogue: 0,0:14:43.19,0:14:45.91,Default,Maezono,0,0,0,,Profite de ce moment\Npour respirer un grand coup !
+Dialogue: 0,0:14:46.49,0:14:48.33,Default,Yui,0,0,0,,Ça me rappelle des souvenirs.
+Dialogue: 0,0:14:51.49,0:14:53.04,Default,Jinguji,0,0,0,,Il est sérieux, là ?
+Dialogue: 0,0:14:54.33,0:14:56.67,Italique,Jinguji,0,0,0,,Ça suffira vraiment à le calmer ?
+Dialogue: 0,0:14:56.83,0:14:59.46,Italique,Jinguji,0,0,0,,C’est comme s’il proclamait\Nêtre trop fébrile.
+Dialogue: 0,0:15:02.51,0:15:06.68,Italique,Jinguji,0,0,0,,Déjà deux balles…\NLa moindre balle facile, je la dégomme !
+Dialogue: 0,0:15:06.93,0:15:09.55,Italique,Miyuki,0,0,0,,J’hésitais justement\Nà demander un temps mort.
+Dialogue: 0,0:15:09.85,0:15:12.39,Italique,Miyuki,0,0,0,,Heureusement,\Nil a pris les devants.
+Dialogue: 0,0:15:12.97,0:15:15.60,Italique,Miyuki,0,0,0,,À présent,\Nj’attends un lancer du tonnerre.
+Dialogue: 0,0:15:32.24,0:15:37.17,Italique,Commentateur,0,0,0,,Jinguji fait rouler la balle\Njusqu’à l’arrêt-court ! Un retrait !
+Dialogue: 0,0:15:37.37,0:15:39.63,Default,Seto/Asada/Kuki,0,0,0,,Génial ! C’était la numéro neuf !
+Dialogue: 0,0:15:40.04,0:15:42.34,Italique,Miyuki,0,0,0,,Bien ! Voilà déjà un retrait.
+Dialogue: 0,0:15:42.84,0:15:44.59,Italique,Miyuki,0,0,0,,Ça va jouer en notre faveur.
+Dialogue: 0,0:15:44.76,0:15:45.80,Italique,Miyuki,0,0,0,,Continuons !
+Dialogue: 0,0:15:49.18,0:15:52.85,Italique,Commentateur,0,0,0,,Une coupée qui vire à l’intérieur,\Net déjà un deuxième retrait !
+Dialogue: 0,0:15:53.10,0:15:54.43,Default,Seto/Asada/Kuki,0,0,0,,La coupée améliorée !
+Dialogue: 0,0:15:54.89,0:15:58.14,Default,Kadota,0,0,0,,Ça y est, c’est parti !\NIl a retrouvé son rythme habituel !
+Dialogue: 0,0:15:59.98,0:16:03.61,Italique,Tadano,0,0,0,,Il a pris de son propre chef\Nun instant pour se ressaisir.
+Dialogue: 0,0:16:05.86,0:16:09.78,Italique,Commentateur,0,0,0,,C’est à nouveau le tour du 1er batteur\Net champ centre, Carlos !
+Dialogue: 0,0:16:10.20,0:16:12.24,Italique,Miyuki,0,0,0,,On passe aux choses sérieuses.
+Dialogue: 0,0:16:14.20,0:16:16.54,Italique,Commentateur,0,0,0,,Inashiro a un point de retard.
+Dialogue: 0,0:16:16.75,0:16:20.17,Italique,Commentateur,0,0,0,,C’est le moment de créer une opportunité\Nen obtenant une base !
+Dialogue: 0,0:16:20.67,0:16:22.88,Italique,Carlos,0,0,0,,Je me charge\Nde lui remettre en mémoire
+Dialogue: 0,0:16:23.17,0:16:25.01,Italique,Carlos,0,0,0,,l’été dernier.
+Dialogue: 0,0:16:31.76,0:16:34.01,Default,Owada,0,0,0,,Il est pratiquement sur le marbre !
+Dialogue: 0,0:16:34.31,0:16:36.73,Default,Kadota,0,0,0,,Il veut l’empêcher\Nde lancer à l’intérieur !
+Dialogue: 0,0:16:36.85,0:16:38.60,Default,Sakata,0,0,0,,C’est comme l’année dernière.
+Dialogue: 0,0:17:01.08,0:17:03.00,Default,Tanba,0,0,0,,Il essaie de le déconcentrer.
+Dialogue: 0,0:17:03.75,0:17:07.88,Default,Tanba,0,0,0,,Carlos a gagné en puissance,\Nassez pour frapper un home run.
+Dialogue: 0,0:17:08.38,0:17:10.30,Default,Tanba,0,0,0,,Faut pas flancher face à lui.
+Dialogue: 0,0:17:14.18,0:17:16.60,Italique,Chris,0,0,0,,Ne le laisse pas te perturber,\NSawamura.
+Dialogue: 0,0:17:17.31,0:17:19.31,Italique,Chris,0,0,0,,Tu dois l’aider, Miyuki.
+Dialogue: 0,0:17:19.77,0:17:24.27,Default,Kadota,0,0,0,,Il est trop près de la base\Npour frapper une balle à l’intérieur !
+Dialogue: 0,0:17:24.48,0:17:28.23,Default,Watanabe,0,0,0,,Inashiro tente le tout pour le tout !\NN’hésitez pas à attaquer !
+Dialogue: 0,0:17:28.69,0:17:29.69,Italique,Chris,0,0,0,,Allez-y.
+Dialogue: 0,0:17:30.32,0:17:32.74,Italique,Chris,0,0,0,,Montrez-leur\Nque vous avez progressé !
+Dialogue: 0,0:17:40.79,0:17:43.96,Italique,Commentateur,0,0,0,,Une balle à effet vers l’extérieur !\NFausse !
+Dialogue: 0,0:17:44.67,0:17:46.38,Italique,Miyuki,0,0,0,,J’en étais sûr. Il a frappé.
+Dialogue: 0,0:17:46.54,0:17:49.01,Italique,Carlos,0,0,0,,Elle plonge\Navec autant de vitesse ?
+Dialogue: 0,0:17:49.30,0:17:51.34,Italique,Carlos,0,0,0,,Mais ça va, j’arrive à suivre.
+Dialogue: 0,0:17:56.55,0:17:59.18,Italique,Commentateur,0,0,0,,Le deuxième lancer est une droite !\NFausse !
+Dialogue: 0,0:18:00.06,0:18:02.19,Default,Seki,0,0,0,,Super ! Il est dos au mur !
+Dialogue: 0,0:18:02.31,0:18:04.56,Default,Joueur de Seido,0,0,0,,Bien joué, Sawamura !
+Dialogue: 0,0:18:04.77,0:18:07.23,Default,Owada,0,0,0,,Finalement,\Nil a lancé à l’intérieur !
+Dialogue: 0,0:18:07.36,0:18:11.53,Default,Mine,0,0,0,,De l’extérieur à l’intérieur…\NCarlos a réagi sans réfléchir.
+Dialogue: 0,0:18:11.99,0:18:14.24,Default,Joueur de Seido,0,0,0,,Renvoies-en une à l’intérieur !
+Dialogue: 0,0:18:14.57,0:18:16.24,Default,Joueur de Seido,0,0,0,,Tu en es capable !
+Dialogue: 0,0:18:16.41,0:18:18.96,Italique,Carlos,0,0,0,,Calmez votre joie !\NJe vois tout clairement !
+Dialogue: 0,0:18:26.38,0:18:30.80,Italique,Commentateur,0,0,0,,Changement de vitesse !\NCarlos l’a touché tant bien que mal !
+Dialogue: 0,0:18:30.96,0:18:32.59,Italique,Carlos,0,0,0,,L’enfoiré…
+Dialogue: 0,0:18:36.09,0:18:39.85,Default,Kawabata,0,0,0,,C’est fou !\NCarlos galère pour tenir le coup !
+Dialogue: 0,0:18:40.18,0:18:43.06,Default,Kawabata,0,0,0,,Sawamura impose sa cadence,\Ncomme contre Ichidaisan.
+Dialogue: 0,0:18:43.48,0:18:46.02,Default,Kawabata,0,0,0,,Il contrôle complètement\Nla situation.
+Dialogue: 0,0:18:50.69,0:18:54.82,Italique,Chris,0,0,0,,Tandis que l’an dernier,\Nil ne savait qu’attaquer à l’intérieur,
+Dialogue: 0,0:18:55.36,0:18:57.16,Italique,Chris,0,0,0,,il a à présent beaucoup d’options.
+Dialogue: 0,0:18:58.70,0:19:01.29,Italique,Chris,0,0,0,,Lors du tournoi d’automne,\Nil a pris son envol,
+Dialogue: 0,0:19:01.87,0:19:06.05,Italique,Chris,0,0,0,,et depuis le printemps,\Nil a affronté de nombreux rivaux.
+Dialogue: 0,0:19:10.96,0:19:12.59,Italique,Chris,0,0,0,,Il a fait peau neuve.
+Dialogue: 0,0:19:26.56,0:19:29.56,Italique,Carlos,0,0,0,,Alors comme ça,\Ntu refuses de céder ?
+Dialogue: 0,0:19:30.44,0:19:33.23,Italique,Carlos,0,0,0,,Dans ce cas,\Non va bien voir qui écrasera l’autre !
+Dialogue: 0,0:19:34.03,0:19:35.53,Default,Owada,0,0,0,,Il a changé de posture.
+Dialogue: 0,0:19:36.74,0:19:38.87,Default,Kuki,0,0,0,,Le cran de Sawamura\Nl’a fait reculer !
+Dialogue: 0,0:19:38.99,0:19:41.03,Default,Seto,0,0,0,,Finis-le direct !
+Dialogue: 0,0:19:41.37,0:19:42.66,Default,Fukui,0,0,0,,Accroche-toi !
+Dialogue: 0,0:19:43.87,0:19:45.87,Default,Joueur d’Inashiro A,0,0,0,,Tu peux encore y arriver, Carlos !
+Dialogue: 0,0:19:46.04,0:19:47.21,Default,Joueur d’Inashiro B,0,0,0,,Carlos !
+Dialogue: 0,0:19:51.71,0:19:54.09,Italique,Narumiya,0,0,0,,Tu as du talent,\Nmais tu ne l’exploites pas.
+Dialogue: 0,0:19:54.26,0:19:56.38,Italique,Narumiya,0,0,0,,Tu réfléchis,\Nquand tu t’entraînes ?
+Dialogue: 0,0:19:58.30,0:20:01.30,Italique,Narumiya,0,0,0,,Ça te dit de former\Nune équipe de champions avec moi ?
+Dialogue: 0,0:20:01.72,0:20:02.89,Italique,Carlos,0,0,0,,Ce jour-là,
+Dialogue: 0,0:20:03.22,0:20:05.77,Italique,Carlos,0,0,0,,Mei Narumiya m’a tendu la main,
+Dialogue: 0,0:20:05.93,0:20:07.81,Italique,Carlos,0,0,0,,et j’ai trouvé ma voie.
+Dialogue: 0,0:20:09.94,0:20:13.44,Italique,Carlos,0,0,0,,Depuis mon arrivée ici,\Nmon avenir est tout tracé.
+Dialogue: 0,0:20:15.94,0:20:17.15,Italique,Carlos,0,0,0,,Ça ne me suffit pas.
+Dialogue: 0,0:20:19.49,0:20:21.16,Italique,Carlos,0,0,0,,Mei Narumiya
+Dialogue: 0,0:20:21.49,0:20:23.12,Italique,Carlos,0,0,0,,et les autres joueurs
+Dialogue: 0,0:20:23.74,0:20:25.87,Italique,Carlos,0,0,0,,déteignent sur moi peu à peu.
+Dialogue: 0,0:20:26.16,0:20:29.08,Italique,Carlos,0,0,0,,Mon avidité croît de jour en jour.
+Dialogue: 0,0:20:31.75,0:20:32.92,Italique,Carlos,0,0,0,,Il m’en faut plus.
+Dialogue: 0,0:20:34.21,0:20:36.55,Italique,Carlos,0,0,0,,Nous sommes les meilleurs.
+Dialogue: 0,0:20:39.43,0:20:43.43,Italique,Carlos,0,0,0,,Nous sommes les champions.\NDégagez de notre chemin !
+Dialogue: 0,0:20:47.56,0:20:49.56,Italique,Commentateur,0,0,0,,Une grosse frappe au centre !
+Dialogue: 0,0:20:49.89,0:20:51.69,Italique,Commentateur,0,0,0,,Tojo rattrape la balle !
+Dialogue: 0,0:20:52.23,0:20:54.48,Italique,Commentateur,0,0,0,,Trois retraits !
+Dialogue: 0,0:20:57.61,0:21:00.66,Italique,Commentateur,0,0,0,,Lors de cette manche,\NSawamura a pris le relais.
+Dialogue: 0,0:21:01.24,0:21:02.87,Italique,Commentateur,0,0,0,,À l’instar de Satoru Furuya,
+Dialogue: 0,0:21:03.20,0:21:06.20,Italique,Commentateur,0,0,0,,il a lancé à la perfection !
+Dialogue: 0,0:21:06.83,0:21:10.00,Default,Joueurs de Seido,0,0,0,,Ouais, ouais, ouais ! Bien joué !
+Dialogue: 0,0:21:11.58,0:21:13.29,Default,Sawamura,0,0,0,,C’était un peu haut, hein ?
+Dialogue: 0,0:21:13.62,0:21:15.50,Default,Miyuki,0,0,0,,Tant que tu en es conscient…
+Dialogue: 0,0:21:20.30,0:21:21.34,Default,Carlos,0,0,0,,Bon sang !
+Dialogue: 0,0:21:21.55,0:21:23.01,Italique,Carlos,0,0,0,,J’ai manqué de force.
+Dialogue: 0,0:21:29.77,0:21:33.15,Default,Narumiya,0,0,0,,Finalement, l’an dernier,\Nc’était que du bluff.
+Dialogue: 0,0:21:33.52,0:21:34.56,Italique,Tadano,0,0,0,,Mei…
+Dialogue: 0,0:21:35.61,0:21:38.32,Default,Narumiya,0,0,0,,Pas mal… Ça me plaît bien.
+Dialogue: 0,0:21:44.20,0:21:47.95,Italique,Narumiya,0,0,0,,Vous vous y mettez à deux\Npour me vaincre, c’est ça ?
+Dialogue: 0,0:21:48.79,0:21:50.79,Default,Narumiya,0,0,0,,C’est plutôt flatteur.
+Dialogue: 0,0:23:17.83,0:23:19.84,Default,crédits,0,0,0,,{\an8}Traduction, adaptation :\NEmeline Cablé
+Dialogue: 0,0:23:19.96,0:23:21.96,Default,crédits,0,0,0,,{\an8}Repérage : Clément Hautavoine\NRelecture : DW512ZC
+Dialogue: 0,0:23:26.61,0:23:30.94,Italique,Narration,0,0,0,,La prochaine fois\Ndans {\i0}Ace of Diamond Act II{\i1}, saison 2,
+Dialogue: 0,0:23:31.10,0:23:32.60,Italique,Narration,0,0,0,,« Horde de champions ».
+Dialogue: 0,0:23:32.93,0:23:34.85,Italique,Narration,0,0,0,,Objectif nº 1 national !
+
