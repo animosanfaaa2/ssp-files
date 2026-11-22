@@ -1,0 +1,393 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,15,1
+Style: Main - Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,15,0
+Style: Main - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,15,0
+Style: Main - Top + Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,15,0
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H008E3B00,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,15,1
+Style: Flashback - Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H008E3B00,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,15,1
+Style: Flashback - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H008E3B00,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,15,1
+Style: sign_generic,arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.27,0:00:03.69,Default,SIGN,0,0,0,,{\fad(600,500)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HD4D4D4&\3c&H161B1A&\4c&H000000&\4a&H18&\pos(173.929,353.5)}Le informazioni di Vigo
+Dialogue: 0,0:00:00.79,0:00:04.43,Main - Top,Licia,0,0,0,,Sono convinta che ci sia qualcun altro\Ndietro l'operazione di Vigo.
+Dialogue: 0,0:00:05.25,0:00:07.74,Default,Rosell,0,0,0,,Forse è stato Borotz a spingerlo qui
+Dialogue: 0,0:00:07.74,0:00:10.48,Default,Rosell,0,0,0,,per cercare di destabilizzare Canarre.
+Dialogue: 0,0:00:10.48,0:00:13.07,Default,Rosell,0,0,0,,Gli oggetti magici che rendono\Ninvisibili sono rari.
+Dialogue: 0,0:00:13.07,0:00:14.98,Default,Rosell,0,0,0,,Non si trovano certo per caso.
+Dialogue: 0,0:00:14.98,0:00:18.91,Default,Rosell,0,0,0,,Potrebbe aver fatto in modo\Ndi farli finire nelle mani di Vigo.
+Dialogue: 0,0:00:19.51,0:00:22.42,Default,Licia,0,0,0,,Un'altra cosa che ha detto\Nmi dà molto da pensare…
+Dialogue: 0,0:00:22.82,0:00:24.89,Flashback,Vigo,0,0,0,,Ora che ci penso, Borotz disse anche
+Dialogue: 0,0:00:24.89,0:00:27.79,Flashback,Vigo,0,0,0,,che il ragazzino non poteva\Nessere lasciato in vita.
+Dialogue: 0,0:00:27.79,0:00:31.42,Flashback,Vigo,0,0,0,,Diceva anche di voler mandare\Ndegli assassini.
+Dialogue: 0,0:00:31.42,0:00:35.00,Default,Charlotte,0,0,0,,Però, perché avrebbe dovuto dirlo\Ntanto apertamente?
+Dialogue: 0,0:00:35.00,0:00:39.06,Default,Rosell,0,0,0,,È probabile che non gli importi\Nse lo veniamo a sapere.
+Dialogue: 0,0:00:40.03,0:00:42.96,Default,Rosell,0,0,0,,Se padron Ars si fosse isolato\Nper paura dei sicari,
+Dialogue: 0,0:00:42.96,0:00:46.53,Default,Rosell,0,0,0,,avrebbe fermato i reclutamenti,\Nbloccando la crescita di Canarre.
+Dialogue: 0,0:00:46.53,0:00:49.84,Default,Rosell,0,0,0,,Al contrario, se avesse\Ncontinuato senza scoprirlo,
+Dialogue: 0,0:00:49.84,0:00:53.07,Default,Rosell,0,0,0,,avrebbero potuto inviare\Ngli assassini a ucciderlo.
+Dialogue: 0,0:00:53.45,0:00:56.88,Default,Rosell,0,0,0,,La sua capacità funziona\Nsoltanto di persona.
+Dialogue: 0,0:00:56.88,0:00:59.58,Default,Rosell,0,0,0,,Il suo piano è usare\Nquesto aspetto contro di lui.
+Dialogue: 0,0:00:59.58,0:01:03.83,Default,Ars,0,0,0,,In effetti, il mio potere\Nha effetto solo su chi ho davanti.
+Dialogue: 0,0:01:03.83,0:01:08.59,Default,Ars,0,0,0,,Però dovrei essere in grado\Ndi identificare un assassino.
+Dialogue: 0,0:01:08.59,0:01:11.96,Default,Ars,0,0,0,,Se vuole mettere alla prova\Nil mio occhio, accetto la sfida.
+Dialogue: 0,0:01:12.38,0:01:13.93,Default,Rietz,0,0,0,,Tuttavia, padron Ars…
+Dialogue: 0,0:01:13.93,0:01:16.09,Default,Rietz,0,0,0,,penso che dovreste essere più cauto.
+Dialogue: 0,0:01:16.51,0:01:20.41,Default,Rietz,0,0,0,,Per quanto ne sappiamo, chiunque\Nincontrerete potrebbe essere un sicario.
+Dialogue: 0,0:01:21.39,0:01:22.84,Default,Madam,0,0,0,,Hai capito qual è il piano?
+Dialogue: 0,0:01:22.84,0:01:24.29,Default,Madam,0,0,0,,Allora non deludermi.
+Dialogue: 0,0:02:49.27,0:02:55.03,Default,SIGN,0,0,0,,{\fad(3420,1960)\fnArial\fs10\b1\c&H000000&\3c&HDDFAFF&\4c&H8CC8E8&\pos(330.339,37.153)}As a Reincarnated Aristocrat,\N\N{\fs12\c&HE1B858&\shad0\blur2\3c&HF5F5F5&}I'll {\c&HE4BB62&}U{\c&HDABE63&}s{\c&HD3C466&}e {\c&HC2BD71&}M{\c&HC0BB6E&}y {\c&HC2C276&}A{\c&HC2C873&}p{\c&HBDC57A&}p{\c&HBBCA77&}r{\c&HB9C582&}a{\c&HB3CB7F&}i{\c&HAEC780&}s{\c&HAECA7A&}al {\c&HB0CB83&}Sk{\c&H9ECA80&}il{\c&HA1C68F&}l t{\c&HAECB92&}o R{\c&H9DCC9A&}is{\c&H9BC9A1&}e {\c&H89D2AC&}in {\c&H8ECFA9&}the {\c&H96D1AF&}W{\c&H98D2B5&}o{\c&H80D4BB&}r{\c&HA6DCC0&}l{\c&HADE1C4&}d
+Dialogue: 0,0:02:49.27,0:02:55.03,Default,SIGN,0,0,0,,{\fnArial\fs10\b1\c&H000000&\3c&HDDFAFF&\4c&H8CC8E8&\pos(330.339,37.153)}As a Reincarnated Aristocrat,\N\N{\fs12\c&HE1B858&\shad0\blur2\3c&HF5F5F5&}I'll {\c&HE4BB62&}U{\c&HDABE63&}s{\c&HD3C466&}e {\c&HC2BD71&}M{\c&HC0BB6E&}y {\c&HC2C276&}A{\c&HC2C873&}p{\c&HBDC57A&}p{\c&HBBCA77&}r{\c&HB9C582&}a{\c&HB3CB7F&}i{\c&HAEC780&}s{\c&HAECA7A&}al {\c&HB0CB83&}Sk{\c&H9ECA80&}il{\c&HA1C68F&}l t{\c&HAECB92&}o R{\c&H9DCC9A&}is{\c&H9BC9A1&}e {\c&H89D2AC&}in {\c&H8ECFA9&}the {\c&H96D1AF&}W{\c&H98D2B5&}o{\c&H80D4BB&}r{\c&HA6DCC0&}l{\c&HADE1C4&}d
+Dialogue: 0,0:02:49.27,0:02:55.03,Default,SIGN,0,0,0,,{\an8\fad(920,1960)\fnArial\fs8\b1\shad0\blur2\c&H000000&\3c&HDDFAFF&\4c&H8CC8E8&\pos(430.64,43.901)}Season {\fs10\c&H2CBFC9&}3
+Dialogue: 0,0:02:49.27,0:02:55.03,Default,SIGN,0,0,0,,{\an8\fad(920,1960)\fnArial\fs8\b1\shad0\blur2\c&H000000&\3c&HDDFAFF&\4c&H8CC8E8&\pos(430.64,43.901)}Season {\fs10\c&H2CBFC9&}3
+Dialogue: 0,0:02:55.02,0:02:57.78,Default,SIGN,0,0,0,,{\fad(600,500)\shad0\bord1\blur1\fnArial Black\c&HD6D1D2&\3c&H161B1A&\pos(319.773,343.786)}Una settimana dopo
+Dialogue: 0,0:02:55.87,0:02:57.78,Main - Top,Ars,0,0,0,,Sono venute così tante persone?!
+Dialogue: 0,0:02:57.78,0:03:00.61,Main - Top,Ars,0,0,0,,Sono più del doppio\Ndi quelle dell'ultima volta!
+Dialogue: 0,0:02:57.78,0:03:01.16,sign_generic,SIGN,0,0,0,,{\fad(550,480)\fs14\an3\shad1\bord1\fnTimes New Roman\b1\c&HDBE1E3&\3c&H353736&\4c&H302F2E&\3a&H1E&\4a&H45&\pos(604.941,315.907)}Episodio 33    Sentimenti duraturi
+Dialogue: 0,0:03:00.61,0:03:03.49,Main - Top,Rietz,0,0,0,,È per via dei successi\Nin battaglia di Canarre.
+Dialogue: 0,0:03:03.49,0:03:06.83,Default,Rietz,0,0,0,,Una fazione vittoriosa può permettersi\Nuna paga migliore.
+Dialogue: 0,0:03:06.83,0:03:09.76,Default,Rietz,0,0,0,,In molti ambiscono\Na un incarico militare qui al castello.
+Dialogue: 0,0:03:09.76,0:03:13.25,Default,Charlotte,0,0,0,,E dopo Musia, persino le donne\Nsono aumentate!
+Dialogue: 0,0:03:13.73,0:03:16.12,Default,Rosell,0,0,0,,Arrivano anche candidati\Nda altre province,
+Dialogue: 0,0:03:16.12,0:03:18.26,Default,Rosell,0,0,0,,quindi ora avremo molta più scelta!
+Dialogue: 0,0:03:18.26,0:03:21.58,Main - Italics,Ars,0,0,0,,Capisco. È tutto collegato…
+Dialogue: 0,0:03:21.58,0:03:25.36,Main - Italics,Ars,0,0,0,,Trovare alleati di talento\Nporta vittorie in battaglia.
+Dialogue: 0,0:03:25.36,0:03:27.77,Main - Italics,Ars,0,0,0,,E questo fa arrivare nuove reclute abili.
+Dialogue: 0,0:03:28.64,0:03:32.27,Main - Italics,Ars,0,0,0,,Non posso rifiutarmi di incontrare\Ni candidati per paura degli assassini.
+Dialogue: 0,0:03:32.81,0:03:36.77,Main - Italics,Ars,0,0,0,,Anche per il bene di Canarre,\Ndevo mantenere il ritmo.
+Dialogue: 0,0:03:36.77,0:03:40.03,Default,SIGN,0,0,0,,{\fad(600,500)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HD4D4D4&\3c&H161B1A&\4c&H000000&\4a&H18&\pos(173.929,353.5)}Una nuova recluta
+Dialogue: 0,0:03:37.68,0:03:39.72,Default,Rietz,0,0,0,,Il prossimo, prego.
+Dialogue: 0,0:03:47.91,0:03:59.92,sign_generic,SIGN,0,0,0,,{\fs19\fnVerdana\bord2\blur2\b1\c&HF2FFDB&\3c&HCCDF6B&\pos(320,351.545)}Enan Rueges
+Dialogue: 0,0:03:48.24,0:03:50.84,Main - Top + Italics,Ars,0,0,0,,Ho valutato più di cinquanta persone oggi,
+Dialogue: 0,0:03:50.84,0:03:52.83,Main - Top + Italics,Ars,0,0,0,,ma nessuna aveva un ingegno così alto!
+Dialogue: 0,0:03:52.83,0:03:54.94,Main - Top + Italics,Ars,0,0,0,,E ha affinità S per Costruttore!
+Dialogue: 0,0:03:54.94,0:03:57.68,Main - Top + Italics,Ars,0,0,0,,Finora l'unico ad averla\Ncosì alta era Shin!
+Dialogue: 0,0:03:57.68,0:04:01.32,Main - Top + Italics,Ars,0,0,0,,Forse potrebbe aiutarlo\Na progettare l'aeronave!
+Dialogue: 0,0:03:59.92,0:04:04.43,sign_generic,SIGN,0,0,0,,{\fade(1000,0)\fnVerdana\bord2\blur0.5\b1\fs17\c&H3D91D8&\3c&HADE8FF&\pos(320,101.5)}Nata a Missian, nell'anno 191 del calendario imperiale. Genitori deceduti, due fratelli maggiori…
+Dialogue: 0,0:04:02.01,0:04:04.43,Main - Italics,Ars,0,0,0,,Nel suo passato non vedo\Nnulla di sospetto.
+Dialogue: 0,0:04:04.82,0:04:08.16,Main - Italics,Ars,0,0,0,,E le statistiche fisiche sembrano\Nbasse per un'assassina.
+Dialogue: 0,0:04:08.16,0:04:10.93,Main - Italics,Ars,0,0,0,,Questo è davvero un colpo di fortuna!
+Dialogue: 0,0:04:11.72,0:04:15.07,Default,Ars,0,0,0,,Io sono Ars Louvent,\Ncapodistretto di Canarre.
+Dialogue: 0,0:04:15.07,0:04:17.16,Default,Ars,0,0,0,,Potresti dirmi come ti chiami?
+Dialogue: 0,0:04:24.57,0:04:28.83,sign_generic,SIGN,0,0,0,,{\fs16\b1\shad0\bord1\blur1\fnComic Sans MS\c&HD6D1D2&\3c&H161B1A&\pos(318.473,342.091)}Visto che non posso parlare, potrebbe concedermi di comunicare per iscritto?
+Dialogue: 0,0:04:30.47,0:04:32.54,Default,Ars,0,0,0,,Sì, certamente.
+Dialogue: 0,0:04:39.11,0:04:41.11,Default,Ars,0,0,0,,Enan Rueges.
+Dialogue: 0,0:04:41.11,0:04:43.34,Default,Ars,0,0,0,,E vieni da Coumeire,\Nho capito bene?
+Dialogue: 0,0:04:43.90,0:04:46.09,Default,Ars,0,0,0,,Hai una calligrafia incantevole.
+Dialogue: 0,0:04:48.72,0:04:50.36,Default,Ars,0,0,0,,Perché hai deciso di candidarti?
+Dialogue: 0,0:04:53.51,0:04:56.12,Default,Ars,0,0,0,,Speravi di poterti rendere utile?
+Dialogue: 0,0:04:56.12,0:04:57.98,Default,Ars,0,0,0,,Ma certo, capisco…
+Dialogue: 0,0:04:58.40,0:05:02.11,Default,Ars,0,0,0,,Allora, sarei ben lieto\Ndi assumerti immediatamente!
+Dialogue: 0,0:05:04.49,0:05:05.73,Default,Rietz,0,0,0,,Firma pure qui.
+Dialogue: 0,0:05:23.23,0:05:25.81,Default,Rietz,0,0,0,,Per qualche motivo,\Nsembrava quasi combattuta.
+Dialogue: 0,0:05:25.81,0:05:27.03,Default,Rietz,0,0,0,,Sarà davvero il caso?
+Dialogue: 0,0:05:27.03,0:05:30.04,Default,Ars,0,0,0,,Sì, in lei non ho visto\Nnulla di preoccupante.
+Dialogue: 0,0:05:30.04,0:05:32.06,Default,Ars,0,0,0,,Dubito che sia un'assassina!
+Dialogue: 0,0:05:32.06,0:05:33.89,Default,Charlotte,0,0,0,,Aspetta un attimo.
+Dialogue: 0,0:05:33.89,0:05:37.39,Default,Charlotte,0,0,0,,Il mio intuito femminile mi dice\Nche c'è qualcosa che non va!
+Dialogue: 0,0:05:38.87,0:05:39.91,Default,Licia,0,0,0,,Concordo.
+Dialogue: 0,0:05:39.91,0:05:45.01,Default,Licia,0,0,0,,È piuttosto strano che una popolana\Nabbia una così bella calligrafia.
+Dialogue: 0,0:05:45.01,0:05:48.71,Default,Licia,0,0,0,,Nobile Ars, penso che dovresti prima\Nfare ricerche su di lei.
+Dialogue: 0,0:05:48.71,0:05:51.03,Default,Pham,0,0,0,,Anch'io sono d'accordo con loro.
+Dialogue: 0,0:05:51.03,0:05:54.15,Default,Ars,0,0,0,,Pham! Cosa te lo fa dire?
+Dialogue: 0,0:05:54.15,0:05:57.41,Default,Pham,0,0,0,,Non so bene quale sia\Nlo scopo di quella donna,
+Dialogue: 0,0:05:57.41,0:06:00.54,Default,Pham,0,0,0,,ma ha girato per tutto il castello\Nprendendo appunti.
+Dialogue: 0,0:06:00.54,0:06:02.26,Default,Ars,0,0,0,,Questo non lo sapevo.
+Dialogue: 0,0:06:02.26,0:06:03.80,Default,Ars,0,0,0,,Allora va bene.
+Dialogue: 0,0:06:03.80,0:06:06.92,Default,Ars,0,0,0,,Pham, posso chiederti\Ndi indagare su Enan?
+Dialogue: 0,0:06:07.22,0:06:08.38,Default,Pham,0,0,0,,Nessun problema.
+Dialogue: 0,0:06:22.46,0:06:23.32,Default,Madam,0,0,0,,Capisco.
+Dialogue: 0,0:06:23.60,0:06:26.32,Default,Madam,0,0,0,,Quindi sei riuscita a farti assumere\Ndal nobile Ars?
+Dialogue: 0,0:06:31.13,0:06:33.33,Default,Ars,0,0,0,,Enan è una domestica?!
+Dialogue: 0,0:06:33.60,0:06:34.56,Default,Pham,0,0,0,,Già.
+Dialogue: 0,0:06:34.56,0:06:38.58,Default,Pham,0,0,0,,L'ho seguita fino alla villa\Ndi un mercante di Coumeire.
+Dialogue: 0,0:06:39.26,0:06:42.08,Default,Pham,0,0,0,,A quanto pare vive e lavora\Nin quella casa.
+Dialogue: 0,0:06:42.48,0:06:44.70,Default,Ars,0,0,0,,Ma allora per quale motivo\Nè venuta qui?
+Dialogue: 0,0:06:44.70,0:06:47.22,Default,Ars,0,0,0,,Un ricco mercante dovrebbe\Npoterla pagare bene…
+Dialogue: 0,0:06:47.68,0:06:48.78,Default,Pham,0,0,0,,Non preoccuparti.
+Dialogue: 0,0:06:48.78,0:06:50.55,Default,Pham,0,0,0,,Lo scoprirò di sicuro.
+Dialogue: 0,0:06:49.30,0:06:53.22,Default,SIGN,0,0,0,,{\fad(600,500)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HD4D4D4&\3c&H161B1A&\4c&H000000&\4a&H18&\pos(173.929,353.5)}La domestica infiltrata
+Dialogue: 0,0:06:55.95,0:06:57.90,Default,Pham,0,0,0,,Ecco a voi, padrona!
+Dialogue: 0,0:06:57.90,0:06:59.48,Default,Pham,0,0,0,,Dolci appena sfornati!
+Dialogue: 0,0:06:59.48,0:07:01.55,Default,Madam,0,0,0,,Oh, che meraviglia!
+Dialogue: 0,0:07:01.55,0:07:02.98,Default,Madam,0,0,0,,Hanno un aspetto delizioso.
+Dialogue: 0,0:07:03.31,0:07:05.86,Default,Madam,0,0,0,,Come sei tenera e graziosa, Lynn.
+Dialogue: 0,0:07:05.86,0:07:07.99,Default,Madam,0,0,0,,Ho fatto proprio bene ad assumerti.
+Dialogue: 0,0:07:08.43,0:07:09.99,Default,Madam,0,0,0,,Al contrario di lei…
+Dialogue: 0,0:07:10.40,0:07:13.12,Default,Madam,0,0,0,,Quella piccola disgraziata\Nè sempre malinconica.
+Dialogue: 0,0:07:13.48,0:07:15.70,Default,Madam,0,0,0,,Venite, mangiamoli tutte insieme.
+Dialogue: 0,0:07:15.70,0:07:16.61,Default,Maids,0,0,0,,Sì, padrona!
+Dialogue: 0,0:07:17.12,0:07:18.48,Default,Pham,0,0,0,,Scusa…
+Dialogue: 0,0:07:18.48,0:07:21.63,Default,Pham,0,0,0,,Non sembra anche a te che la padrona\Nsia stranamente dura con Enan?
+Dialogue: 0,0:07:21.63,0:07:23.38,Default,Maid A,0,0,0,,Sì, è evidente!
+Dialogue: 0,0:07:23.38,0:07:25.80,Default,Maid A,0,0,0,,Con tutte le altre è gentilissima,
+Dialogue: 0,0:07:25.80,0:07:29.01,Default,Maid A,0,0,0,,ma con Enan è sempre crudele,\Nper qualche motivo!
+Dialogue: 0,0:07:29.40,0:07:32.40,Default,Maid A,0,0,0,,E dire che è la domestica\Npiù abile di tutta la magione.
+Dialogue: 0,0:07:32.40,0:07:33.52,Default,Maid A,0,0,0,,È l'unica che lavora qui
+Dialogue: 0,0:07:33.70,0:07:36.89,Default,Maid A,0,0,0,,sin da quando c'era ancora\Nla precedente padrona!
+Dialogue: 0,0:07:37.37,0:07:40.64,Default,Pham,0,0,0,,Comunque, certo che questa villa\Nè proprio gigantesca!
+Dialogue: 0,0:07:40.64,0:07:41.88,Default,Maid A,0,0,0,,Vero?!
+Dialogue: 0,0:07:41.88,0:07:45.16,Default,Maid A,0,0,0,,Serviamo la più influente\Nfamiglia di mercanti di Coumeire!
+Dialogue: 0,0:07:45.16,0:07:49.20,Default,Maid A,0,0,0,,Però il padrone è quasi sempre via\Nper viaggi d'affari in tutto il mondo.
+Dialogue: 0,0:07:49.20,0:07:51.68,Default,Maid A,0,0,0,,Pare che la prima moglie\Nfosse una bella persona,
+Dialogue: 0,0:07:51.68,0:07:53.16,Default,Maid A,0,0,0,,ma si ammalò gravemente
+Dialogue: 0,0:07:53.54,0:07:57.29,Default,Maid A,0,0,0,,e, quando venne a mancare,\Nlui si risposò con l'attuale padrona.
+Dialogue: 0,0:07:58.92,0:08:01.07,Default,Pham,0,0,0,,E come mai Enan non dice una parola?
+Dialogue: 0,0:08:01.07,0:08:01.91,Default,Pham,0,0,0,,È forse malata?
+Dialogue: 0,0:08:01.91,0:08:03.44,Default,Maid A,0,0,0,,Non saprei proprio.
+Dialogue: 0,0:08:03.44,0:08:06.92,Default,Maid A,0,0,0,,Però ho sentito che quando c'era\Nl'altra padrona riusciva a parlare.
+Dialogue: 0,0:08:06.92,0:08:09.56,Default,Pham,0,0,0,,Ha fatto qualcosa\Ndi particolare ultimamente?
+Dialogue: 0,0:08:09.56,0:08:12.74,Default,Pham,0,0,0,,Magari… un viaggio\Nnella provincia di Seitz?
+Dialogue: 0,0:08:12.74,0:08:15.17,Default,Maid A,0,0,0,,Non credo abbia fatto\Nnulla del genere.
+Dialogue: 0,0:08:15.17,0:08:16.93,Default,Maid A,0,0,0,,È nata qui a Coumeire.
+Dialogue: 0,0:08:16.93,0:08:19.62,Default,Maid A,0,0,0,,E per quanto ne so,\Nnon ha mai lasciato Canarre.
+Dialogue: 0,0:08:17.64,0:08:19.62,Main - Top + Italics,Pham,0,0,0,,Enan Rueges…
+Dialogue: 0,0:08:19.62,0:08:21.70,Main - Italics,Pham,0,0,0,,So ancora troppo poco su di lei.
+Dialogue: 0,0:08:21.99,0:08:24.31,Main - Italics,Pham,0,0,0,,Dovrò avvicinarla direttamente.
+Dialogue: 0,0:08:26.57,0:08:29.07,Default,Maid A,0,0,0,,Volete che se ne occupi Enan da sola?!
+Dialogue: 0,0:08:29.37,0:08:32.32,Default,Madam,0,0,0,,Tra due giorni verrà\Nla duchessa a farci visita.
+Dialogue: 0,0:08:32.32,0:08:34.58,Default,Madam,0,0,0,,Per cui qui dev'essere impeccabile.
+Dialogue: 0,0:08:34.96,0:08:37.36,Default,Maid A,0,0,0,,Però… si sta già facendo buio.
+Dialogue: 0,0:08:37.36,0:08:39.24,Default,Maid A,0,0,0,,Almeno permetteteci di aiutar—
+Dialogue: 0,0:08:39.24,0:08:43.01,Default,Madam,0,0,0,,Cielo, io ho piena fiducia\Nnelle capacità di Enan.
+Dialogue: 0,0:08:43.01,0:08:44.96,Default,Madam,0,0,0,,Sei in grado di farcela, non è vero?
+Dialogue: 0,0:08:46.96,0:08:49.36,Default,Madam,0,0,0,,Che nessuna di voi provi ad aiutarla.
+Dialogue: 0,0:08:49.36,0:08:52.40,Default,Madam,0,0,0,,Forza, rientriamo\Nprima che inizi a piovere.
+Dialogue: 0,0:09:07.22,0:09:08.86,Default,Pham,0,0,0,,Non dev'essere facile da sola.
+Dialogue: 0,0:09:08.86,0:09:10.08,Default,Pham,0,0,0,,Ti do una mano.
+Dialogue: 0,0:09:24.81,0:09:27.12,Default,Pham,0,0,0,,Ce l'abbiamo fatta!
+Dialogue: 0,0:09:27.12,0:09:29.16,Default,Pham,0,0,0,,Accidenti, sono distrutta.
+Dialogue: 0,0:09:29.16,0:09:30.13,Default,Pham,0,0,0,,Ma guarda tu,
+Dialogue: 0,0:09:30.41,0:09:33.71,Default,Pham,0,0,0,,la padrona è stata crudele\Na chiederti di ripulire da sola.
+Dialogue: 0,0:09:34.29,0:09:36.51,Default,Pham,0,0,0,,Mi ringrazi?
+Dialogue: 0,0:09:36.51,0:09:38.98,Default,Pham,0,0,0,,Figurati, non ce n'è bisogno!
+Dialogue: 0,0:09:38.98,0:09:42.87,Default,Pham,0,0,0,,Mi basterà poter vedere\Nla faccia attonita della padrona.
+Dialogue: 0,0:09:44.31,0:09:46.94,sign_generic,SIGN,0,0,0,,{\fs16\b1\shad0\bord1\blur1\fnComic Sans MS\c&HD6D1D2&\3c&H161B1A&\pos(318.473,342.091)}Mi piacerebbe incorniciarla ed esporla nell'atrio.
+Dialogue: 0,0:09:47.91,0:09:50.19,Default,Pham,0,0,0,,L'hai detto, sarebbe fantastico!
+Dialogue: 0,0:09:50.69,0:09:53.65,Default,Pham,0,0,0,,Però scommetto che farebbe\Nscappare via gli ospiti.
+Dialogue: 0,0:09:53.65,0:09:56.49,sign_generic,SIGN,0,0,0,,{\fs16\b1\shad0\bord1\blur1\fnComic Sans MS\c&HD6D1D2&\3c&H161B1A&\pos(318.473,342.091)}E sotto ci sarebbe una targa con scritto "La signora scioccata".
+Dialogue: 0,0:09:57.44,0:10:00.04,Main - Italics,Pham,0,0,0,,Credevo fosse una tipa seria e cupa,
+Dialogue: 0,0:10:00.04,0:10:02.48,Main - Italics,Pham,0,0,0,,ma vedo che non è quello\Nil suo vero volto.
+Dialogue: 0,0:10:02.48,0:10:05.13,Main - Italics,Pham,0,0,0,,Tra l'altro, è stata eccellente\Na curare il giardino.
+Dialogue: 0,0:10:05.13,0:10:08.55,Main - Italics,Pham,0,0,0,,Le sue abilità sembrano senz'altro\Nconformi a quanto detto da Ars.
+Dialogue: 0,0:10:09.15,0:10:12.04,Main - Italics,Pham,0,0,0,,Suppongo sia il caso\Ndi osservarla ancora un po'.
+Dialogue: 0,0:10:42.55,0:10:44.96,Main - Italics,Pham,0,0,0,,Cosa starà facendo\Na quest'ora della notte?
+Dialogue: 0,0:10:47.75,0:10:49.63,Main - Italics,Pham,0,0,0,,Si può sapere dove sta andando?
+Dialogue: 0,0:10:53.25,0:10:57.02,Default,SIGN,0,0,0,,{\fad(700,0)\fnArial\fs8\b1\an1\c&H000000&\3c&HDDFAFF&\4c&H8CC8E8&\pos(487.761,266)}As a Reincarnated Aristocrat,\N\N{\fs10\c&HFFF9FA&\shad0\3c&HACB330&}I'll {\3c&HB7BA4C&}Use {\3c&H9CBE59&}My {\3c&HA7C18B&}Appraisal {\3c&H7FB69B&}Skill\N\h\h\h\h\h\h\h\h\h\h\h\h\h{\3c&H9CBE59&}to {\3c&HA7C18B&}Rise in the {\3c&H69BCA5&}World
+Dialogue: 0,0:10:53.83,0:10:55.11,Main - Italics,Pham,0,0,0,,È sparita?!
+Dialogue: 0,0:10:57.02,0:11:00.36,Default,SIGN,0,0,0,,{\fad(500,500)\fnArial\fs8\b1\an1\c&H000000&\3c&HDDFAFF&\4c&H8CC8E8&\pos(34.872,266)}As a Reincarnated Aristocrat,\N\N{\fs10\c&HFFF9FA&\shad0\3c&HACB330&}I'll {\3c&HB7BA4C&}Use {\3c&H9CBE59&}My {\3c&HA7C18B&}Appraisal {\3c&H7FB69B&}Skill\N\h\h\h\h\h\h\h\h\h\h\h\h\h{\3c&H9CBE59&}to {\3c&HA7C18B&}Rise in the {\3c&H69BCA5&}World
+Dialogue: 0,0:11:00.55,0:11:04.01,Main - Top + Italics,Pham,0,0,0,,Quando l'ho seguita ieri notte,\NEnan è sparita in questo punto.
+Dialogue: 0,0:11:00.55,0:11:04.01,Default,SIGN,0,0,0,,{\fad(600,500)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HD4D4D4&\3c&H161B1A&\4c&H000000&\4a&H18&\pos(173.929,353.5)}Il segreto di Enan
+Dialogue: 0,0:11:04.01,0:11:05.70,Main - Italics,Pham,0,0,0,,Come avrà fatto?
+Dialogue: 0,0:11:35.98,0:11:39.74,Default,Pham,0,0,0,,Pare proprio che Ars avesse\Nragione riguardo alle sue abilità.
+Dialogue: 0,0:11:41.66,0:11:44.68,Default,Pham,0,0,0,,Ma queste… sono informazioni\Nsu dei veleni?
+Dialogue: 0,0:11:44.99,0:11:47.96,Default,Pham,0,0,0,,Che Enan stia cercando\Ndi avvelenare Ars?
+Dialogue: 0,0:11:54.19,0:11:55.44,Default,Pham,0,0,0,,Un diario?
+Dialogue: 0,0:11:56.18,0:11:57.83,Main - Italics,Enan,0,0,0,,Otto luglio.
+Dialogue: 0,0:11:57.83,0:11:59.80,Main - Italics,Enan,0,0,0,,Per esercitarmi nella scrittura,
+Dialogue: 0,0:11:59.80,0:12:02.04,Main - Italics,Enan,0,0,0,,da oggi inizierò a tenere un diario.
+Dialogue: 0,0:12:03.20,0:12:05.70,Flashback - Top,Enan,0,0,0,,Guardate, padrona! L'ho finita!
+Dialogue: 0,0:12:03.20,0:12:05.70,sign_generic,SIGN,0,0,0,,{\fad(500,500)\fs20\b1\shad0\bord1\blur1\fnTimes New Roman\c&HD6D1D2&\3c&H161B1A&\pos(318.473,348.491)}Enan  15 anni
+Dialogue: 0,0:12:05.70,0:12:09.83,Flashback,Former Madam,0,0,0,,Cielo, Enan! Sei diventata\Nancora più brava di me.
+Dialogue: 0,0:12:09.83,0:12:12.88,Flashback,Former Madam,0,0,0,,Non c'è che dire, riesci in\Nqualsiasi cosa ti si insegni.
+Dialogue: 0,0:12:12.88,0:12:15.21,Flashback,Former Madam,0,0,0,,E impari anche a gran velocità.
+Dialogue: 0,0:12:15.70,0:12:18.21,Main - Italics,Enan,0,0,0,,Sono venuta a lavorare qui\Ncome domestica,
+Dialogue: 0,0:12:18.21,0:12:20.75,Main - Italics,Enan,0,0,0,,ma la padrona mi ha insegnato\Ntantissime cose.
+Dialogue: 0,0:12:20.75,0:12:24.16,Flashback,Former Madam,0,0,0,,Ascolta, non dire nulla a mio marito\Ndi questa stanza, va bene?
+Dialogue: 0,0:12:24.16,0:12:27.10,Flashback,Enan,0,0,0,,Certamente! Allora sarà\Nil nostro piccolo segreto.
+Dialogue: 0,0:12:27.38,0:12:28.73,Flashback,Former Madam,0,0,0,,Senti, Enan…
+Dialogue: 0,0:12:29.27,0:12:32.40,Flashback,Former Madam,0,0,0,,Non credo che dovresti restare\Nqui per sempre.
+Dialogue: 0,0:12:32.40,0:12:34.98,Flashback,Former Madam,0,0,0,,Un giorno ti libererò\Ndai tuoi obblighi verso di noi.
+Dialogue: 0,0:12:34.98,0:12:36.81,Flashback,Enan,0,0,0,,Eh? M-Ma perché dite questo?
+Dialogue: 0,0:12:36.81,0:12:39.05,Flashback,Enan,0,0,0,,Forse non sono brava nelle faccende?
+Dialogue: 0,0:12:39.05,0:12:43.16,Flashback,Former Madam,0,0,0,,Niente affatto. È solo che sei\Nsprecata come domestica.
+Dialogue: 0,0:12:43.16,0:12:46.78,Flashback,Former Madam,0,0,0,,Dovresti studiare, imparare un mestiere\Ne diventare indipendente.
+Dialogue: 0,0:12:46.78,0:12:49.62,Flashback,Former Madam,0,0,0,,In questo modo, potresti\Nguadagnare molto di più.
+Dialogue: 0,0:12:50.02,0:12:52.95,Flashback,Former Madam,0,0,0,,Ma certo, visto che sei così brava\Nnei lavori manuali,
+Dialogue: 0,0:12:52.95,0:12:54.50,Flashback,Former Madam,0,0,0,,perché non diventi un'artigiana?
+Dialogue: 0,0:12:55.02,0:12:57.72,Flashback,Former Madam,0,0,0,,Sono certa che te la caveresti\Negregiamente!
+Dialogue: 0,0:13:01.29,0:13:05.47,Flashback,Enan,0,0,0,,Però, padrona… io preferirei restare\Nper sempre qui con voi!
+Dialogue: 0,0:13:05.81,0:13:08.23,Flashback,Former Madam,0,0,0,,Suvvia, che sciocca che sei.
+Dialogue: 0,0:13:08.23,0:13:09.68,Flashback,Former Madam,0,0,0,,Però mi fa piacere sentirlo.
+Dialogue: 0,0:13:09.92,0:13:11.97,Flashback,Former Madam,0,0,0,,A proposito, tu sai scrivere?
+Dialogue: 0,0:13:12.45,0:13:13.52,Flashback,Enan,0,0,0,,No…
+Dialogue: 0,0:13:13.52,0:13:16.06,Flashback,Former Madam,0,0,0,,Allora ti insegnerò io!
+Dialogue: 0,0:13:17.23,0:13:21.48,Main - Italics,Enan,0,0,0,,Poco tempo dopo, la padrona è deceduta\Nper via di un male sconosciuto.
+Dialogue: 0,0:13:23.88,0:13:26.18,Default,Pham,0,0,0,,Quindi è per questo\Nche sa scrivere così bene.
+Dialogue: 0,0:13:26.18,0:13:28.80,Default,Pham,0,0,0,,È stata la precedente\Npadrona a insegnarglielo.
+Dialogue: 0,0:13:37.52,0:13:39.31,Default,Pham,0,0,0,,Ma guarda, è già ora di pranzo!
+Dialogue: 0,0:13:39.31,0:13:40.86,Default,Pham,0,0,0,,Su, andiamo a mangiare!
+Dialogue: 0,0:13:45.55,0:13:50.10,Default,Pham,0,0,0,,"Devo andare a fare compere\Nper conto della padrona."
+Dialogue: 0,0:13:50.10,0:13:51.84,Default,Pham,0,0,0,,Ah, allora va bene!
+Dialogue: 0,0:13:55.02,0:13:57.04,Default,Maids,0,0,0,,Ma no, non è affatto vero.
+Dialogue: 0,0:13:57.04,0:13:58.90,Main - Top + Italics,Maids,0,0,0,,Io penso che ti starebbe benissimo!
+Dialogue: 0,0:13:58.22,0:14:01.27,Default,Pham,0,0,0,,Sentite, di preciso Enan\Ndov'è andata a fare compere?
+Dialogue: 0,0:14:01.27,0:14:04.28,Default,Maid A,0,0,0,,Eh? Veramente oggi\Nnon è giornata di compere.
+Dialogue: 0,0:14:04.67,0:14:08.60,Default,Maid A,0,0,0,,Di tanto in tanto capita che sparisca\Nintorno a mezzogiorno.
+Dialogue: 0,0:14:08.60,0:14:10.28,Default,Maid B,0,0,0,,In effetti, hai ragione.
+Dialogue: 0,0:14:10.28,0:14:13.03,Main - Top,Maid C,0,0,0,,Mi chiedo che cosa stia facendo…
+Dialogue: 0,0:14:10.82,0:14:13.03,Main - Italics,Pham,0,0,0,,La prossima volta dovrò seguirla.
+Dialogue: 0,0:14:13.03,0:14:15.29,Default,Bodyguard A,0,0,0,,Ehi, abbiamo finito l'alcol.
+Dialogue: 0,0:14:16.52,0:14:19.04,Default,Bodyguard A,0,0,0,,Oh, certo che sei proprio una bellezza.
+Dialogue: 0,0:14:19.39,0:14:21.40,Default,Maid A,0,0,0,,Insomma, lasciatela in pace!
+Dialogue: 0,0:14:21.40,0:14:23.04,Default,Maid A,0,0,0,,È qui solo da poco.
+Dialogue: 0,0:14:21.40,0:14:23.04,Main - Top,Bodyguards,0,0,0,,Già, pure questa non è male.
+Dialogue: 0,0:14:23.04,0:14:24.80,Main - Top,Bodyguards,0,0,0,,Ha tutte le curve a posto!
+Dialogue: 0,0:14:23.41,0:14:27.05,Default,Maid A,0,0,0,,Ma guarda tu, vi siete già scolati tutto?
+Dialogue: 0,0:14:24.80,0:14:26.27,Main - Top,Bodyguards,0,0,0,,Portiamola con noi!
+Dialogue: 0,0:14:27.05,0:14:30.30,Default,Maid B,0,0,0,,Va tutto bene, Lynn?\NDevi esserti presa un bello spavento…
+Dialogue: 0,0:14:30.61,0:14:33.24,Default,Pham,0,0,0,,Chi erano quegli uomini così scortesi?
+Dialogue: 0,0:14:33.24,0:14:36.20,Default,Maid B,0,0,0,,Sono le guardie del corpo\Nassunte dalla padrona.
+Dialogue: 0,0:14:36.20,0:14:38.18,Default,Maid B,0,0,0,,Anche loro vivono e lavorano qui.
+Dialogue: 0,0:14:38.70,0:14:41.12,Default,Maid B,0,0,0,,È gente completamente imprevedibile.
+Dialogue: 0,0:14:41.12,0:14:44.39,Default,Maid B,0,0,0,,Non fanno altro che bere\Ne giocare d'azzardo tutto il giorno…
+Dialogue: 0,0:14:44.39,0:14:47.38,Default,Maid C,0,0,0,,Proprio non capisco\Nper quale motivo li abbia assunti.
+Dialogue: 0,0:14:53.31,0:14:54.33,Default,Madam,0,0,0,,Allora?
+Dialogue: 0,0:14:54.33,0:14:57.33,Default,Madam,0,0,0,,Ancora nessuna notizia\Ndal castello di Canarre?
+Dialogue: 0,0:14:57.33,0:15:00.83,Default,SIGN,0,0,0,,{\fad(600,500)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HD4D4D4&\3c&H161B1A&\4c&H000000&\4a&H18&\pos(173.929,353.5)}Verità
+Dialogue: 0,0:14:58.62,0:15:00.45,Main - Top,Madam,0,0,0,,Spero facciano in fretta…
+Dialogue: 0,0:15:01.33,0:15:05.59,Default,Madam,0,0,0,,Vedo che la tua gola non si è mai ripresa\Ndalla lezione che ti abbiamo dato.
+Dialogue: 0,0:15:09.18,0:15:12.57,Main - Italics,Enan,0,0,0,,Dopo l'improvvisa morte\Nper malattia della padrona,
+Dialogue: 0,0:15:13.01,0:15:15.34,Main - Italics,Enan,0,0,0,,alla villa è giunta una nuova signora.
+Dialogue: 0,0:15:16.35,0:15:19.15,Main - Italics,Enan,0,0,0,,Ha detto di essere un'amica\Ndella compianta padrona.
+Dialogue: 0,0:15:19.15,0:15:21.52,Main - Italics,Enan,0,0,0,,Vedendomi depressa,\Nha persino cercato di tirarmi su.
+Dialogue: 0,0:15:21.52,0:15:23.14,Main - Italics,Enan,0,0,0,,Credevo fosse buona e gentile…
+Dialogue: 0,0:15:23.73,0:15:25.23,Main - Italics,Enan,0,0,0,,fino a quella notte.
+Dialogue: 0,0:15:26.61,0:15:28.99,Flashback,Enan,0,0,0,,Volete spostare la tomba adesso?
+Dialogue: 0,0:15:29.28,0:15:34.42,Flashback,Enan,0,0,0,,Il padrone aveva detto di volerla portare\Nin un luogo con una bella vista, però…
+Dialogue: 0,0:15:34.42,0:15:37.61,Flashback,Enan,0,0,0,,non dovremmo aspettare il suo ritorno?
+Dialogue: 0,0:15:37.61,0:15:40.85,Flashback,Madam,0,0,0,,Non voglio disturbare mio marito\Nper una cosa simile.
+Dialogue: 0,0:15:40.85,0:15:43.63,Flashback,Madam,0,0,0,,Però sarà pericoloso,\Nquindi tu resta pure qui.
+Dialogue: 0,0:15:47.10,0:15:51.04,Flashback,Enan,0,0,0,,Con questo tempo, non posso certo\Nlasciare la padrona e gli altri da soli.
+Dialogue: 0,0:15:51.34,0:15:53.22,Flashback,Enan,0,0,0,,Li aiuterò come posso e…
+Dialogue: 0,0:15:54.34,0:15:57.72,Flashback,Bodyguard A,0,0,0,,Accidenti, usare quel veleno\Nè stata una pessima idea.
+Dialogue: 0,0:15:58.07,0:15:59.48,Flashback,Madam,0,0,0,,Era il modo migliore.
+Dialogue: 0,0:15:59.71,0:16:03.65,Flashback,Madam,0,0,0,,Il tè infuso con le foglie di deo\Nnon lascia tracce evidenti.
+Dialogue: 0,0:16:03.65,0:16:07.23,Flashback,Madam,0,0,0,,Per questo nessuno\Nha sospettato l'avvelenamento!
+Dialogue: 0,0:16:07.23,0:16:09.59,Flashback,Madam,0,0,0,,Avanti, ripulite tutto in fretta!
+Dialogue: 0,0:16:09.59,0:16:13.24,Flashback,Madam,0,0,0,,Nessuno deve vedere le ossa\Nmacchiate dalla tossina.
+Dialogue: 0,0:16:13.68,0:16:14.74,Flashback - Italics,Enan,0,0,0,,Non è possibile!
+Dialogue: 0,0:16:15.42,0:16:16.74,Flashback - Italics,Enan,0,0,0,,La padrona…
+Dialogue: 0,0:16:20.75,0:16:22.41,Flashback - Italics,Enan,0,0,0,,è stata uccisa?!
+Dialogue: 0,0:16:22.41,0:16:23.92,Flashback,Madam,0,0,0,,Oh, sei tu, Enan?
+Dialogue: 0,0:16:23.92,0:16:26.45,Flashback,Enan,0,0,0,,Perché? Perché l'avete uccisa?!
+Dialogue: 0,0:16:26.45,0:16:28.29,Flashback,Enan,0,0,0,,Credevo foste amiche!
+Dialogue: 0,0:16:28.73,0:16:31.56,Flashback,Madam,0,0,0,,Che domande.\NPerché mi era d'intralcio.
+Dialogue: 0,0:16:31.56,0:16:33.80,Flashback,Madam,0,0,0,,Come moglie di un mercante\Nho il futuro assicurato.
+Dialogue: 0,0:16:34.15,0:16:35.92,Flashback,Enan,0,0,0,,Sarebbe questo l'unico motivo?
+Dialogue: 0,0:16:36.86,0:16:38.56,Flashback,Enan,0,0,0,,Come hai osato…
+Dialogue: 0,0:16:39.03,0:16:40.72,Flashback,Enan,0,0,0,,Non la passerai liscia!
+Dialogue: 0,0:16:40.72,0:16:43.69,Flashback,Bodyguard B,0,0,0,,Che ne facciamo di lei? La uccidiamo?
+Dialogue: 0,0:16:43.69,0:16:47.35,Flashback,Bodyguard A,0,0,0,,Idiota. Due morti a poca distanza\Nsarebbero troppo sospette.
+Dialogue: 0,0:16:47.35,0:16:49.71,Flashback,Bodyguard C,0,0,0,,Ed è una prediletta del padrone,
+Dialogue: 0,0:16:49.71,0:16:52.07,Flashback,Bodyguard C,0,0,0,,quindi non possiamo\Nmandarla via senza motivo.
+Dialogue: 0,0:16:52.51,0:16:54.45,Flashback,Madam,0,0,0,,Vediamo, in tal caso…
+Dialogue: 0,0:16:54.82,0:16:57.20,Flashback,Madam,0,0,0,,Occupatevi di lei,\Nspezzatela quanto basta…
+Dialogue: 0,0:16:57.61,0:16:59.47,Flashback,Madam,0,0,0,,per farle tenere la bocca chiusa.
+Dialogue: 0,0:17:03.86,0:17:08.08,Main - Italics,Enan,0,0,0,,Mi hanno schiacciato la gola\Nfino al punto da togliermi la voce.
+Dialogue: 0,0:17:08.74,0:17:11.30,Main - Italics,Enan,0,0,0,,E poi si sono liberati\Nanche di tutte le prove.
+Dialogue: 0,0:17:11.86,0:17:14.35,Main - Italics,Enan,0,0,0,,Così la padrona\Nnon potrà mai riposare in pace.
+Dialogue: 0,0:17:16.82,0:17:18.12,Main - Italics,Enan,0,0,0,,Troverò un modo…
+Dialogue: 0,0:17:18.88,0:17:21.26,Main - Italics,Enan,0,0,0,,per portare alla luce i loro crimini!
+Dialogue: 0,0:17:23.98,0:17:26.76,Default,Bodyguard C,0,0,0,,Allora, che cosa\Navete intenzione di fare?
+Dialogue: 0,0:17:26.76,0:17:30.71,Default,Madam,0,0,0,,Mi servirò di lei per vendere i nostri\Nprodotti al castello di Canarre.
+Dialogue: 0,0:17:30.71,0:17:33.20,Default,Madam,0,0,0,,Il capodistretto paga piuttosto bene.
+Dialogue: 0,0:17:33.20,0:17:35.58,Default,Madam,0,0,0,,Così diventeremo ancora più ricchi!
+Dialogue: 0,0:17:35.58,0:17:37.11,Default,Bodyguard B,0,0,0,,Non vi smentite mai, padrona!
+Dialogue: 0,0:17:38.87,0:17:42.29,Default,Madam,0,0,0,,"Non intendo più eseguire i vostri ordini.
+Dialogue: 0,0:17:42.29,0:17:45.25,Default,Madam,0,0,0,,Denuncerò i vostri crimini al nobile Ars.
+Dialogue: 0,0:17:45.25,0:17:47.63,Default,Madam,0,0,0,,Prima che lo faccia,\Nvi consiglio di confessare."
+Dialogue: 0,0:17:48.84,0:17:52.47,Default,Madam,0,0,0,,Hai già dimenticato cosa succede\Na chi osa opporsi a me?
+Dialogue: 0,0:17:57.10,0:17:58.64,Default,Pham,0,0,0,,Adesso basta.
+Dialogue: 0,0:17:58.64,0:18:01.85,Default,Pham,0,0,0,,Quindi hai ucciso\Nla prima moglie del mercante.
+Dialogue: 0,0:18:01.85,0:18:03.86,Default,Madam,0,0,0,,Tu sei una delle domestiche…
+Dialogue: 0,0:18:03.86,0:18:05.10,Default,Madam,0,0,0,,No, chi sei in realtà?!
+Dialogue: 0,0:18:05.10,0:18:07.15,Default,Pham,0,0,0,,Non dev'essere stato facile per te, Enan.
+Dialogue: 0,0:18:07.15,0:18:09.97,Default,Pham,0,0,0,,Puoi stare tranquilla.\NOra me ne occuperò io.
+Dialogue: 0,0:18:10.86,0:18:13.86,Default,Madam,0,0,0,,Vorrà dire che farò schiacciare\Nanche la tua gola!
+Dialogue: 0,0:18:14.32,0:18:16.35,Default,Pham,0,0,0,,Sei fin troppo impulsiva, vecchia.
+Dialogue: 0,0:18:16.35,0:18:17.20,Default,Madam,0,0,0,,Fate qualcosa!
+Dialogue: 0,0:18:17.69,0:18:18.40,Default,Bodyguard A/B,0,0,0,,Sissignora!
+Dialogue: 0,0:18:28.64,0:18:30.17,Default,Pham,0,0,0,,Volevi sapere chi sono?
+Dialogue: 0,0:18:30.17,0:18:31.92,Default,Pham,0,0,0,,Mi chiamo Pham.
+Dialogue: 0,0:18:31.92,0:18:35.00,Default,Pham,0,0,0,,Sono un sottoposto di Ars Louvent,\Ncapodistretto di Canarre.
+Dialogue: 0,0:18:35.00,0:18:37.93,Default,Pham,0,0,0,,Inoltre, comando la Shadow!
+Dialogue: 0,0:18:37.93,0:18:39.93,Default,Bodyguard C,0,0,0,,È-È un ufficiale di Canarre?!
+Dialogue: 0,0:18:39.93,0:18:42.81,Default,Madam,0,0,0,,E che importa? Non hai alcuna prova di…
+Dialogue: 0,0:18:43.62,0:18:46.72,Default,Pham,0,0,0,,Ecco i resti bruciati degli attrezzi\Nusati per scavare,
+Dialogue: 0,0:18:46.72,0:18:48.86,Default,Pham,0,0,0,,la testimonianza di chi\Nti ha venduto il veleno
+Dialogue: 0,0:18:48.86,0:18:49.77,Default,Pham,0,0,0,,e anche…
+Dialogue: 0,0:18:49.77,0:18:53.82,Default,Pham,0,0,0,,un'analisi della tossina estratta\Ndalle ossa della defunta padrona.
+Dialogue: 0,0:18:54.08,0:18:55.57,Default,Pham,0,0,0,,Dico bene, Enan?
+Dialogue: 0,0:18:57.07,0:18:59.52,Main - Top,Madam,0,0,0,,Ma no, è tutta una montatura!
+Dialogue: 0,0:18:57.07,0:19:00.49,Default,SIGN,0,0,0,,{\fad(600,500)\shad1\bord0\fnTimes New Roman\b1\fs18\c&HD4D4D4&\3c&H161B1A&\4c&H000000&\4a&H18&\pos(173.929,353.5)}Enan Rueges
+Dialogue: 0,0:18:59.52,0:19:02.41,Main - Top,Madam,0,0,0,,Insomma, abbiamo\Ngettato le ossa nel fiume!
+Dialogue: 0,0:19:06.06,0:19:08.42,Main - Italics,Enan,0,0,0,,Quest'osso appartiene\Nalla defunta padrona.
+Dialogue: 0,0:19:18.46,0:19:19.98,Flashback - Italics,Enan,0,0,0,,Padrona…
+Dialogue: 0,0:19:21.46,0:19:22.82,Default,Madam,0,0,0,,Non è possibile!
+Dialogue: 0,0:19:22.82,0:19:24.98,Default,Madam,0,0,0,,Credevo di aver eliminato\Nogni traccia!
+Dialogue: 0,0:19:27.23,0:19:30.30,Main - Italics,Enan,0,0,0,,Non m'importa che mi abbiate\Nstrappato la voce.
+Dialogue: 0,0:19:30.84,0:19:31.62,Main - Italics,Enan,0,0,0,,Però…
+Dialogue: 0,0:19:32.56,0:19:36.84,Main - Italics,Enan,0,0,0,,Non posso perdonarvi per aver ucciso\Nla mia adorata padrona!
+Dialogue: 0,0:19:40.41,0:19:41.74,Default,Ars,0,0,0,,È una storia incredibile!
+Dialogue: 0,0:19:41.74,0:19:44.04,Default,Pham,0,0,0,,La seconda moglie del mercante\Nè stata arrestata,
+Dialogue: 0,0:19:44.04,0:19:49.38,Default,Pham,0,0,0,,così come i suoi sgherri, e dovranno\Nrispondere di omicidio e lesioni gravi.
+Dialogue: 0,0:19:49.69,0:19:53.21,Default,Rietz,0,0,0,,Quindi è per questo che Enan\Nsi comportava in modo strano.
+Dialogue: 0,0:19:54.02,0:19:55.09,Default,Ars,0,0,0,,Come capodistretto,
+Dialogue: 0,0:19:55.09,0:19:58.80,Default,Ars,0,0,0,,mi assumo la responsabilità\Ndi non essermene reso conto prima.
+Dialogue: 0,0:19:58.80,0:20:02.81,Default,Ars,0,0,0,,Se dovessi avere bisogno di qualcosa,\Nanche piccola, non esitare a chiedere.
+Dialogue: 0,0:20:02.81,0:20:07.51,Default,Ars,0,0,0,,Ho il compito di proteggere\Nla brava gente di Canarre, inclusa te.
+Dialogue: 0,0:20:09.02,0:20:11.10,Default,Ars,0,0,0,,Però certo che è un vero peccato!
+Dialogue: 0,0:20:11.10,0:20:14.81,Default,Ars,0,0,0,,Quindi non eri venuta qui\Nper lavorare per me…
+Dialogue: 0,0:20:14.81,0:20:17.15,Default,Ars,0,0,0,,Fa' un buon rientro a casa.
+Dialogue: 0,0:20:17.15,0:20:19.03,Default,Ars,0,0,0,,Ti auguro ogni bene.
+Dialogue: 0,0:20:21.05,0:20:22.78,Default,Pham,0,0,0,,Sei davvero soddisfatta, Enan?
+Dialogue: 0,0:20:23.13,0:20:25.96,Default,Pham,0,0,0,,Sul serio vuoi tornare a essere\Nuna domestica?
+Dialogue: 0,0:20:25.96,0:20:27.66,Default,Pham,0,0,0,,Questo è un bel posto.
+Dialogue: 0,0:20:27.66,0:20:30.95,Default,Pham,0,0,0,,Qui potresti sfruttare\Nappieno le tue abilità.
+Dialogue: 0,0:20:30.95,0:20:33.92,Default,Pham,0,0,0,,Non è la stessa cosa che desiderava\Nla tua padrona?
+Dialogue: 0,0:20:38.80,0:20:40.39,Main - Italics,Enan,0,0,0,,Se lavorassimo insieme,
+Dialogue: 0,0:20:40.39,0:20:41.54,Main - Italics,Enan,0,0,0,,allora tu e io
+Dialogue: 0,0:20:41.54,0:20:43.27,Main - Italics,Enan,0,0,0,,potremmo diventare buoni amici?
+Dialogue: 0,0:20:45.15,0:20:46.96,Default,Pham,0,0,0,,Certo, non c'è dubbio.
+Dialogue: 0,0:20:47.81,0:20:50.64,Default,Pham,0,0,0,,Ars! Enan vorrebbe lavorare per te!
+Dialogue: 0,0:20:50.64,0:20:52.31,Default,Ars,0,0,0,,Eh? Sul serio?
+Dialogue: 0,0:20:54.88,0:20:56.68,Main - Italics,Enan,0,0,0,,Sono impaziente di cominciare.
+Dialogue: 0,0:20:57.31,0:21:00.32,Default,SIGN,0,0,0,,{\fad(500,500)\shad0\bord1\blur1\fnArial Black\c&HD6D1D2&\3c&H161B1A&\pos(318.059,345.5)}Villa Louvent, Lamberg
+Dialogue: 0,0:20:57.70,0:21:00.32,Main - Top,Mireille,0,0,0,,Il tipo che cerchi è in quel capanno.
+Dialogue: 0,0:21:00.59,0:21:02.43,Default,Mireille,0,0,0,,Beh, ti auguro buona fortuna.
+Dialogue: 0,0:21:05.79,0:21:08.28,Default,Shin,0,0,0,,Fermati, aspetta! Non cadere!
+Dialogue: 0,0:21:08.75,0:21:11.01,Default,Shin,0,0,0,,Accidenti, di nuovo!
+Dialogue: 0,0:21:16.90,0:21:18.96,Default,Shin,0,0,0,,Bella la mia macchina volante, eh?
+Dialogue: 0,0:21:18.96,0:21:22.59,Default,Shin,0,0,0,,Quando sarà completa, serviranno\Nmetà delle magipietre previste e…
+Dialogue: 0,0:21:22.59,0:21:25.14,Default,Shin,0,0,0,,Eh? "La curvatura del legno è sbagliata"?
+Dialogue: 0,0:21:25.14,0:21:26.35,Default,Shin,0,0,0,,Ma dove?
+Dialogue: 0,0:21:28.21,0:21:32.53,Main - Italics,Enan,0,0,0,,La punta delle ali dev'essere\Npiù affusolata per evitare resistenza.
+Dialogue: 0,0:21:32.53,0:21:35.08,Default,Shin,0,0,0,,Sì, però curvarle\Nnel modo giusto non è facile.
+Dialogue: 0,0:21:35.08,0:21:37.74,Default,Shin,0,0,0,,Il legno è leggero,\Nma non è facile modellarlo…
+Dialogue: 0,0:21:38.22,0:21:39.86,Main - Italics,Enan,0,0,0,,Penso di poterci riuscire.
+Dialogue: 0,0:21:39.86,0:21:40.85,Default,Shin,0,0,0,,Dici sul serio?!
+Dialogue: 0,0:21:40.85,0:21:44.32,Default,Shin,0,0,0,,Ma sei incredibile!\NVuoi aiutarmi con i progetti?
+Dialogue: 0,0:21:44.32,0:21:46.12,Main - Italics,Enan,0,0,0,,Mi hanno mandata qui per questo.
+Dialogue: 0,0:21:46.12,0:21:49.99,Default,Shin,0,0,0,,Oh, capisco! Avevo giusto bisogno\Ndi una mano! Mi sarai di grande aiuto!
+Dialogue: 0,0:21:51.49,0:21:55.00,Default,Shin,0,0,0,,Oh, quindi ti chiami Enan?\NSarà un piacere lavorare con te!
+Dialogue: 0,0:23:25.73,0:23:28.80,Default,Ars,0,0,0,,Non è bello fare nuove amicizie, Pham?
+Dialogue: 0,0:23:28.80,0:23:29.53,Default,Pham,0,0,0,,Sì.
+Dialogue: 0,0:23:29.53,0:23:32.12,Default,Ars,0,0,0,,A proposito,\Nper caso hai altri amici?
+Dialogue: 0,0:23:32.12,0:23:35.58,Default,Pham,0,0,0,,Ars, per quest'incarico chiedo\Ndieci volte il solito compenso.
+Dialogue: 0,0:23:35.58,0:23:37.52,Default,Ars,0,0,0,,M-Mi dispiace!
+Dialogue: 0,0:23:37.52,0:23:39.85,sign_generic,SIGN,0,0,0,,{\fad(480,1)\fs12\an3\shad1\bord0.5\fnTimes New Roman\b1\c&HD0D0D2&\3c&H4E4E57&\4c&H111116&\fs14\pos(605,165.957)\4a&H3C&}Prossimo episodio\N{\fs16}Due talenti eccezionali
+Dialogue: 0,0:23:37.52,0:23:40.02,Default,Ars,0,0,0,,Prossimo episodio,\N"Due talenti eccezionali".
+
