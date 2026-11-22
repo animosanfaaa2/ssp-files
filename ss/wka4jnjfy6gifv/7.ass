@@ -1,0 +1,359 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Bold,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,0,0,20,1
+Style: Internal,Arial Bold,23,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,2,0,0,20,0
+Style: Internal Top,Arial Bold,23,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,8,0,0,20,0
+Style: Top,Arial Bold,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,8,0,0,20,1
+Style: Top Internal,Arial Bold,23,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,8,0,0,20,1
+Style: Flashback,Arial Bold,23,&H00F7ECEB,&H000000FF,&H004D0701,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,0,0,20,0
+Style: Flashback Internal,Arial Bold,23,&H00F7ECEB,&H000000FF,&H004D0701,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,2,0,0,20,0
+Style: Flashback Top,Arial Bold,23,&H00F7ECEB,&H000000FF,&H004D0701,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,8,0,0,20,0
+Style: TypePlaceholder,Arial Bold,19,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.31,0:00:03.72,TypePlaceholder,,0,0,0,,{\bord1\blur4\fad(475,475)\fnTimes New Roman\c&HFFFFFF&\3c&H000000&\pos(175.07,288.53)}Vigos Informationen
+Dialogue: 0,0:00:00.70,0:00:04.37,Top,Licia,0,0,0,,Ich glaube, hinter Vigo\Nsteckt ein Drahtzieher.
+Dialogue: 0,0:00:05.20,0:00:07.72,Default,Rosell,0,0,0,,Borotts hat Vigo\Nbestimmt dazu angestiftet,
+Dialogue: 0,0:00:07.72,0:00:10.51,Default,Rosell,0,0,0,,Canarre Schaden zuzufügen.
+Dialogue: 0,0:00:10.51,0:00:14.85,Default,Rosell,0,0,0,,Die Magiegegenstände, mit denen man\Nunsichtbar wird, sind auch sehr selten.
+Dialogue: 0,0:00:14.85,0:00:18.91,Default,Rosell,0,0,0,,Er hat vermutlich dafür gesorgt,\Ndass Vigo daran kommt.
+Dialogue: 0,0:00:19.47,0:00:22.42,Default,Licia,0,0,0,,Außerdem hat er\Netwas Interessantes gesagt.
+Dialogue: 0,0:00:22.42,0:00:27.72,Flashback,Vigo,0,0,0,,Ach ja, Borotts hat gesagt, dass er\Nden jungen Herrn nicht am Leben lassen kann.
+Dialogue: 0,0:00:27.72,0:00:31.43,Flashback,Vigo,0,0,0,,Er meinte ständig, dass er\Nnotfalls auch Attentäter schickt.
+Dialogue: 0,0:00:31.43,0:00:34.85,Default,Charlotte,0,0,0,,Aber warum würde er\Ndas so offen erzählen?
+Dialogue: 0,0:00:34.85,0:00:39.06,Default,Rosell,0,0,0,,Vermutlich ist es ihm egal,\Nob wir davon erfahren.
+Dialogue: 0,0:00:39.97,0:00:42.87,Default,Rosell,0,0,0,,Wenn Meister Ars sich aus\NFurcht vor Attentätern versteckt,
+Dialogue: 0,0:00:42.87,0:00:46.37,Default,Rosell,0,0,0,,findet er keine weiteren Talente\Nund Canarre wird nicht stärker.
+Dialogue: 0,0:00:46.37,0:00:49.77,Default,Rosell,0,0,0,,Sucht er aber ahnungslos\Nweiter nach Talenten,
+Dialogue: 0,0:00:49.77,0:00:53.07,Default,Rosell,0,0,0,,fällt Meister Ars den\NAttentätern zum Opfer.
+Dialogue: 0,0:00:53.40,0:00:56.72,Default,Rosell,0,0,0,,Meister Ars muss Menschen treffen,\Num seine Fähigkeit einzusetzen.
+Dialogue: 0,0:00:56.72,0:00:59.58,Default,Rosell,0,0,0,,Diese Strategie nutzt das gegen ihn aus.
+Dialogue: 0,0:00:59.58,0:01:03.85,Default,Ars,0,0,0,,Es stimmt, dass ich Menschen\Ntreffen muss, um meine Kraft zu verwenden.
+Dialogue: 0,0:01:03.85,0:01:08.17,Default,Ars,0,0,0,,Aber ich glaube, ich kann Attentäter\Nerkennen, wenn sie auftauchen.
+Dialogue: 0,0:01:08.70,0:01:11.97,Default,Ars,0,0,0,,Wenn sie meine Augen auf die\NProbe stellen wollen, dann gern.
+Dialogue: 0,0:01:12.30,0:01:16.10,Default,Rietz,0,0,0,,Bitte passt gut auf, Meister Ars.
+Dialogue: 0,0:01:16.47,0:01:20.35,Default,Rietz,0,0,0,,Wir können nicht wissen, ob der\Nnächste Besucher nicht ein Attentäter ist.
+Dialogue: 0,0:01:21.25,0:01:24.20,Default,Hausherrin,0,0,0,,Du hast verstanden, nicht?\NStell dich geschickt an.
+Dialogue: 0,0:02:49.27,0:02:55.03,TypePlaceholder,,0,0,0,,{\an3\fs15\bord2.5\blur1\fscy120\fad(0,0)\fnTrebuchet MS\c&H0F0D34&\3c&H58CCE3&\pos(230.76,85.76)\b1}As a Reincarnated Aristocrat,\N{\bord2\blur2\fs18\fnGeorgia\i1\fax0.2\c&HFFFFFF&\3c&HD2C26E&}I’ll {\3c&HBCCC80&}Use{\3c&HBACCAB&} My {\3c&H8CC9B2&}Appraisal {\3c&H65C9B1&}Skill\N{\3c&HD5C277&}to {\3c&HBDC78E&}Rise{\3c&HB0CFA9&} in{\3c&H98D4B3&} the{\3c&H64D4BB&} World
+Dialogue: 1,0:02:49.27,0:02:55.03,TypePlaceholder,,0,0,0,,{\an3\fs15\bord1.5\blur1\fscy120\fad(0,0)\fnTrebuchet MS\c&H0F0D34&\3c&HEEF8F9&\pos(230.76,85.76)\b1}As a Reincarnated Aristocrat,\N{\bord2\blur2\fs18\fnGeorgia\i1\fax0.2\c&HFFFFFF&\3c&HD2C26E&}I’ll {\3c&HBCCC80&}Use{\3c&HBACCAB&} My {\3c&H8CC9B2&}Appraisal {\3c&H65C9B1&}Skill\N{\3c&HD5C277&}to {\3c&HBDC78E&}Rise{\3c&HB0CFA9&} in{\3c&H98D4B3&} the{\3c&H64D4BB&} World
+Dialogue: 1,0:02:49.27,0:02:55.03,TypePlaceholder,,0,0,0,,{\an3\fs10\bord1.5\blur1\fscy120\fad(0,0)\fnTrebuchet MS\c&H0F0D34&\3c&HEEF8F9&\pos(227.92,107.8)\b1}Staffel {\bord2\blur2\fs22\fnGeorgia\i1\fax0.2\c&H40D0DD&\3c&HCCEFF3&}3
+Dialogue: 0,0:02:55.28,0:02:57.78,TypePlaceholder,,0,0,0,,{\fad(425,475)\bord1\shad0.5\fnVerdana\c&HCFCFCC&\3c&H39393D&\4c&H292E2E&\pos(320.75,273.49)\b1}Eine Woche später
+Dialogue: 0,0:02:55.45,0:02:57.78,Top,Ars,0,0,0,,Sind das nicht viel zu viele?!
+Dialogue: 0,0:02:57.78,0:03:00.62,Top,Ars,0,0,0,,Das sind mehr als doppelt\Nso viele wie beim letzten Mal!
+Dialogue: 0,0:02:57.89,0:03:01.14,TypePlaceholder,,0,0,0,,{\xshad1\fad(500,450)\c&HC6CFC9&\fnGeorgia\fscy120\fs17\an3\4c&H000000&\pos(608.74,316.53)\b1}Episode {\fscy150}33  {\fscy120}Ein lang gehegter Wunsch
+Dialogue: 0,0:03:00.62,0:03:03.37,Top,Rietz,0,0,0,,Das liegt daran, dass Canarre\Nim Kampf erfolgreich war.
+Dialogue: 0,0:03:03.37,0:03:06.65,Default,Rietz,0,0,0,,Wo Schlachten gewonnen werden,\Nwird man gut belohnt.
+Dialogue: 0,0:03:06.65,0:03:09.60,Default,Rietz,0,0,0,,Der Dienst auf Burg Canarre\Nist mittlerweile sehr begehrt.
+Dialogue: 0,0:03:09.60,0:03:13.26,Default,Charlotte,0,0,0,,Seit Musha hier ist,\Nmelden sich auch mehr Frauen, nicht?
+Dialogue: 0,0:03:13.62,0:03:18.26,Default,Rosell,0,0,0,,Die Auswahl an Bewerbern aus anderen\NProvinzen wird auch immer größer.
+Dialogue: 0,0:03:18.26,0:03:21.37,Internal,Ars,0,0,0,,Verstehe. Das hängt alles zusammen.
+Dialogue: 0,0:03:21.37,0:03:25.20,Internal,Ars,0,0,0,,Wer fähige Leute hat,\Nkann Schlachten gewinnen.
+Dialogue: 0,0:03:25.20,0:03:27.77,Internal,Ars,0,0,0,,Das zieht noch mehr fähige Leute an.
+Dialogue: 0,0:03:28.45,0:03:31.82,Internal,Ars,0,0,0,,Es wäre falsch, aus Angst vor Attentätern\Nniemanden mehr zu empfangen.
+Dialogue: 0,0:03:32.65,0:03:36.77,Internal,Ars,0,0,0,,Um Canarres willen darf ich\Ndiese Dynamik nicht unterbrechen.
+Dialogue: 0,0:03:36.77,0:03:40.03,TypePlaceholder,,0,0,0,,{\bord1\blur4\fad(475,475)\fnTimes New Roman\c&HFFFFFF&\3c&H000000&\pos(175.07,288.53)}Ein neues Talent
+Dialogue: 0,0:03:37.37,0:03:39.60,Top,Rietz,0,0,0,,Der Nächste, bitte.
+Dialogue: 0,0:03:47.92,0:03:52.70,Top Internal,Ars,0,0,0,,Ich habe heute schon fünfzig Leute gesehen,\Naber ihr Intelligenzwert ist überragend!
+Dialogue: 0,0:03:47.91,0:03:59.92,TypePlaceholder,SIGN,0,0,0,,{\fad(0,0)\shad0\3c&H9AA535&\bord4\p1\c&HFDFDFB&\fscx106\fscy806\pos(317.14,271.34)}m 0 0 l 465 0 l 465 9 l 0 9 l 0 0
+Dialogue: 1,0:03:47.91,0:03:59.92,TypePlaceholder,SIGN,0,0,0,,{\fad(0,0)\shad0\3c&HFDFDFB&\bord2\p1\c&HF9FF8B&\fscx106\fscy806\pos(317.14,271.34)}m 0 0 l 465 0 l 465 9 l 0 9 l 0 0
+Dialogue: 2,0:03:47.91,0:03:59.92,TypePlaceholder,,0,0,0,,{\fad(0,0)\fs13\c&H989E5C&\fnTimes New Roman\pos(317.06,281.61)\b1}Infanterist D | Kavallerist D | Bogenschütze D | Magiesoldat D | Festungsbau B\NWaffen S | Marine B | Luftwaffe B | Strategie C\NAmbition 0-0 | Führungskraft 2-22 | Kampfgeist 12-21 | Intelligenz 56-80 | Politik ??-??
+Dialogue: 2,0:03:47.91,0:03:59.92,TypePlaceholder,,0,0,0,,{\fad(0,0)\fad(0,0)\bord2\blur2\c&HFFFFFF&\fnTimes New Roman\3c&HD9E570&\pos(315.43,323.35)}Enan Lujes - 21 weiblich
+Dialogue: 0,0:03:52.70,0:03:54.70,Internal Top,Ars,0,0,0,,Außerdem hat sie die Waffeneignung S!
+Dialogue: 0,0:03:54.70,0:03:57.47,Internal Top,Ars,0,0,0,,So hohe Statuswerte habe ich\Nseit Shin nicht mehr gesehen!
+Dialogue: 0,0:03:57.47,0:04:01.35,Top Internal,Ars,0,0,0,,Sie könnte Shin bei der\NLuftschiffentwicklung helfen.
+Dialogue: 0,0:03:59.92,0:04:04.43,TypePlaceholder,SIGN,0,0,0,,{\fad(0,0)\shad0\3c&H5A9AEB&\bord4\p1\c&HFDFDFB&\fscx106\fscy806\pos(329.87,316.63)}m 0 0 l 450 0 l 450 4 l 0 4 l 0 0
+Dialogue: 1,0:03:59.92,0:04:04.43,TypePlaceholder,SIGN,0,0,0,,{\fad(0,0)\shad0\3c&HFDFDFB&\bord2\p1\c&H7FF5FD&\fscx106\fscy806\pos(329.87,316.63)}m 0 0 l 450 0 l 450 4 l 0 4 l 0 0
+Dialogue: 2,0:03:59.92,0:04:04.43,TypePlaceholder,,0,0,0,,{\fad(0,0)\fs13\c&H5999EB&\fnTimes New Roman\pos(329.79,326.9)\b1}Geboren im Kaiserjahr 191 in Missian. Beide Elternteile leben noch. Sie hat zwei Brüder …
+Dialogue: 0,0:04:02.00,0:04:04.43,Top Internal,Ars,0,0,0,,Ihr Werdegang wirkt\Nebenfalls unverdächtig.
+Dialogue: 0,0:04:04.70,0:04:08.00,Internal,Ars,0,0,0,,Für eine Attentäterin hat sie\Nauch viel zu wenig Kampfgeist.
+Dialogue: 0,0:04:08.00,0:04:10.94,Internal,Ars,0,0,0,,Kaum zu glauben, dass noch\Nso ein Talent aufgetaucht ist!
+Dialogue: 0,0:04:11.62,0:04:14.92,Default,Ars,0,0,0,,Ich bin der Herr über\NBurg Canarre, Ars Louvent.
+Dialogue: 0,0:04:14.92,0:04:17.00,Default,Ars,0,0,0,,Darf ich nach Ihrem Namen fragen?
+Dialogue: 0,0:04:24.57,0:04:28.83,TypePlaceholder,,0,0,0,,{\fad(0,0)\bord1\shad0.5\fnVerdana\c&HCFCFCC&\3c&H39393D&\4c&H292E2E&\pos(320.75,273.49)\b1}Da ich nicht sprechen kann, darf ich stattdessen schreiben?
+Dialogue: 0,0:04:30.27,0:04:32.45,Default,Ars,0,0,0,,Ja, natürlich.
+Dialogue: 0,0:04:38.90,0:04:43.35,Default,Ars,0,0,0,,Enan Lujes? Sie sind\Naus Coumeire gekommen?
+Dialogue: 0,0:04:43.90,0:04:46.10,Default,Ars,0,0,0,,Sie haben eine\Nwirklich schöne Handschrift.
+Dialogue: 0,0:04:48.73,0:04:50.20,Default,Ars,0,0,0,,Warum bewerben Sie sich?
+Dialogue: 0,0:04:53.32,0:04:55.95,Default,Ars,0,0,0,,„Weil ich mich nützlich machen will.“
+Dialogue: 0,0:04:55.95,0:04:57.99,Default,Ars,0,0,0,,Verstehe, so ist das also.
+Dialogue: 0,0:04:58.27,0:05:02.11,Default,Ars,0,0,0,,Dann würde ich Sie gern\Nohne Umschweife einstellen!
+Dialogue: 0,0:05:04.50,0:05:05.47,Default,Rietz,0,0,0,,Hier, bitte.
+Dialogue: 0,0:05:23.02,0:05:26.90,Default,Rietz,0,0,0,,Sie schien ein wenig verdutzt zu sein.\NIst wirklich alles in Ordnung?
+Dialogue: 0,0:05:26.90,0:05:29.90,Default,Ars,0,0,0,,Ja. An ihr war nichts verdächtig.
+Dialogue: 0,0:05:29.90,0:05:31.90,Default,Ars,0,0,0,,Sie ist wohl keine Attentäterin.
+Dialogue: 0,0:05:31.90,0:05:33.90,Default,Charlotte,0,0,0,,Warte doch mal kurz.
+Dialogue: 0,0:05:33.90,0:05:37.40,Default,Charlotte,0,0,0,,Meine weibliche Intuition sagt mir,\Ndass sie verdächtig ist!
+Dialogue: 0,0:05:37.40,0:05:38.57,Default,Ars,0,0,0,,Was?
+Dialogue: 0,0:05:38.57,0:05:39.77,Default,Licia,0,0,0,,Ja.
+Dialogue: 0,0:05:39.77,0:05:44.55,Default,Licia,0,0,0,,Es ist ungewöhnlich, dass sie eine schöne\NHandschrift hat, ohne aus dem Adel zu stammen.
+Dialogue: 0,0:05:44.97,0:05:48.57,Default,Licia,0,0,0,,Ars, wir sollten sie etwas\Ngenauer überprüfen lassen.
+Dialogue: 0,0:05:48.57,0:05:51.04,Default,Fam,0,0,0,,Ich bin derselben\NMeinung wie die beiden.
+Dialogue: 0,0:05:51.04,0:05:54.02,Default,Ars,0,0,0,*,Fam! Wieso glaubst du das?
+Dialogue: 0,0:05:54.02,0:05:57.22,Default,Fam,0,0,0,,Ich weiß zwar nicht, was ihr Ziel ist,
+Dialogue: 0,0:05:57.22,0:06:00.55,Default,Fam,0,0,0,,aber sie hat sich in der Burg\Numgesehen und Notizen gemacht.
+Dialogue: 0,0:06:00.55,0:06:02.22,Default,Ars,0,0,0,,Das hat sie?
+Dialogue: 0,0:06:02.22,0:06:06.93,Default,Ars,0,0,0,,Verstanden. Kann ich dich darum\Nbitten, sie zu überprüfen, Fam?
+Dialogue: 0,0:06:06.93,0:06:08.32,Default,Fam,0,0,0,,Natürlich.
+Dialogue: 0,0:06:22.32,0:06:26.32,Default,Hausherrin,0,0,0,,Du hast dich also geschickt bei\NOberhaupt Ars eingeschmeichelt.
+Dialogue: 0,0:06:30.83,0:06:33.33,Default,Ars,0,0,0,,Enan ist ein Dienstmädchen?!
+Dialogue: 0,0:06:33.33,0:06:38.59,Default,Fam,0,0,0,,Ja. Ich bin ihr gefolgt und sie ist in ein\NHändleranwesen in Coumeire gegangen.
+Dialogue: 0,0:06:39.05,0:06:42.09,Default,Fam,0,0,0,,Sie scheint dort als\NDienstmädchen zu arbeiten.
+Dialogue: 0,0:06:42.37,0:06:44.60,Default,Ars,0,0,0,,Warum kommt so jemand zu uns?
+Dialogue: 0,0:06:44.60,0:06:47.22,Default,Ars,0,0,0,,Bei einem Händler verdient\Nsie doch bestimmt gut.
+Dialogue: 0,0:06:47.50,0:06:50.42,Top,Fam,0,0,0,,Verlass dich auf mich.\NIch finde das heraus.
+Dialogue: 0,0:06:49.62,0:06:52.92,TypePlaceholder,,0,0,0,,{\bord1\blur4\fad(475,475)\fnTimes New Roman\c&HFFFFFF&\3c&H000000&\pos(175.07,288.53)}Infiltration als Dienstmädchen
+Dialogue: 0,0:06:55.75,0:06:59.48,Default,Rin (Fam),0,0,0,,Vielen Dank für Ihre Geduld, Hausherrin!\NHier, frisch aus dem Ofen!
+Dialogue: 0,0:06:59.48,0:07:02.99,Default,Hausherrin,0,0,0,,Wie toll! Das sieht alles köstlich aus!
+Dialogue: 0,0:07:02.99,0:07:07.99,Default,Hausherrin,0,0,0,,Rin, du bist so charmant und niedlich.\NZum Glück habe ich dich eingestellt.
+Dialogue: 0,0:07:08.27,0:07:09.99,Default,Hausherrin,0,0,0,,Verglichen mit dir …
+Dialogue: 0,0:07:10.30,0:07:13.12,Default,Hausherrin,0,0,0,,ist sie so düster und trübselig.\NWirklich unangenehm.
+Dialogue: 0,0:07:13.12,0:07:15.55,Default,Hausherrin,0,0,0,,Kommt, lasst uns gemeinsam essen.
+Dialogue: 0,0:07:15.55,0:07:16.50,Default,Dienstmädchen,0,0,0,,Ja!
+Dialogue: 0,0:07:17.12,0:07:21.63,Default,Rin (Fam),0,0,0,,Sag doch, ist die Hausherrin nicht\Nein wenig streng zu Enan?
+Dialogue: 0,0:07:21.63,0:07:23.38,Default,Dienstmädchen A,0,0,0,,Ja, das ist sie.
+Dialogue: 0,0:07:23.38,0:07:25.72,Default,Dienstmädchen A,0,0,0,,Eigentlich ist sie ein\Nsehr freundlicher Mensch,
+Dialogue: 0,0:07:25.72,0:07:29.01,Default,Dienstmädchen A,0,0,0,,aber aus irgendeinem Grund\Nist sie zu Enan sehr kalt.
+Dialogue: 0,0:07:29.01,0:07:32.35,Default,Dienstmädchen A,0,0,0,,Dabei erledigt Enan ihre Arbeit\Nam besten von uns allen.
+Dialogue: 0,0:07:32.35,0:07:36.42,Default,Dienstmädchen A,0,0,0,,Sie ist die Einzige, die schon seit der\NZeit der früheren Hausherrin hier arbeitet.
+Dialogue: 0,0:07:37.11,0:07:40.57,Default,Rin (Fam),0,0,0,,Das hier ist wirklich\Nein riesiges Anwesen!
+Dialogue: 0,0:07:40.57,0:07:45.00,Default,Dienstmädchen A,0,0,0,,Nicht wahr? Unser Haus ist eines\Nder angesehensten in Coumeire.
+Dialogue: 0,0:07:45.00,0:07:49.00,Default,Dienstmädchen A,0,0,0,,Der Hausherr reist allerdings in der\Nganzen Welt umher. Er ist kaum hier.
+Dialogue: 0,0:07:49.00,0:07:51.58,Default,Dienstmädchen A,0,0,0,,Die frühere Hausherrin soll\Nwunderbar gewesen sein,
+Dialogue: 0,0:07:51.58,0:07:53.16,Default,Dienstmädchen A,0,0,0,,aber sie erlag einer Krankheit.
+Dialogue: 0,0:07:53.16,0:07:57.29,Default,Dienstmädchen A,0,0,0,,Dann kam die jetzige\NHausherrin als neue Ehefrau.
+Dialogue: 0,0:07:57.29,0:08:01.76,Default,Rin (Fam),0,0,0,,Aha. Warum spricht Enan\Ndenn nicht? Ist sie krank?
+Dialogue: 0,0:08:01.76,0:08:06.77,Default,Dienstmädchen A,0,0,0,,Keine Ahnung. Zur Zeit der früheren Hausherrin\Nsoll sie normal gesprochen haben.
+Dialogue: 0,0:08:06.77,0:08:09.42,Default,Rin (Fam),0,0,0,,Verhält sie sich in\Nletzter Zeit seltsam?
+Dialogue: 0,0:08:09.42,0:08:12.72,Default,Rin (Fam),0,0,0,,Geht sie vielleicht manchmal\Nnach Seitz oder so?
+Dialogue: 0,0:08:12.72,0:08:15.07,Default,Dienstmädchen A,0,0,0,,Davon hab ich noch nie was gehört.
+Dialogue: 0,0:08:15.07,0:08:17.31,Default,Dienstmädchen A,0,0,0,,Sie stammt aus Coumeire und hat Canarre
+Dialogue: 0,0:08:17.31,0:08:19.25,Default,Dienstmädchen A,0,0,0,,bestimmt noch nie verlassen.
+Dialogue: 0,0:08:17.31,0:08:19.25,Internal,Fam,0,0,0,,Enan Lujes.
+Dialogue: 0,0:08:19.25,0:08:21.75,Internal,Fam,0,0,0,,Ich weiß noch viel zu wenig über sie.
+Dialogue: 0,0:08:21.75,0:08:24.32,Internal,Fam,0,0,0,,Ich muss wohl direkt\NKontakt zu ihr aufnehmen.
+Dialogue: 0,0:08:25.55,0:08:29.07,Default,Dienstmädchen A,0,0,0,,Was? Enan soll das alles allein tun?!
+Dialogue: 0,0:08:29.07,0:08:32.15,Default,Hausherrin,0,0,0,,Übermorgen kommt die Frau des Marquis.
+Dialogue: 0,0:08:32.15,0:08:34.58,Default,Hausherrin,0,0,0,,Bis dahin muss alles sauber sein.
+Dialogue: 0,0:08:34.58,0:08:37.42,Default,Dienstmädchen A,0,0,0,,Aber es wird doch schon dunkel.
+Dialogue: 0,0:08:37.42,0:08:39.25,Default,Dienstmädchen A,0,0,0,,Wir sollten ihr wenigstens helfen …
+Dialogue: 0,0:08:39.25,0:08:42.87,Default,Hausherrin,0,0,0,,Ach was. Ich weiß Enans\NFähigkeiten zu schätzen.
+Dialogue: 0,0:08:42.87,0:08:44.96,Default,Hausherrin,0,0,0,,So geschickt, wie sie ist,\Nschafft sie das.
+Dialogue: 0,0:08:46.96,0:08:49.27,Default,Hausherrin,0,0,0,,Niemand darf ihr helfen.
+Dialogue: 0,0:08:49.27,0:08:52.20,Default,Hausherrin,0,0,0,,Kommt, es wird bald regnen.\NGehen wir hinein.
+Dialogue: 0,0:09:07.12,0:09:09.92,Default,Rin (Fam),0,0,0,,Das ist doch viel zu viel für\Ndich allein. Ich helfe dir.
+Dialogue: 0,0:09:25.13,0:09:29.00,Default,Rin (Fam),0,0,0,,Fertig! Ich bin echt erledigt!
+Dialogue: 0,0:09:29.00,0:09:30.13,Default,Rin (Fam),0,0,0,,Also echt.
+Dialogue: 0,0:09:30.13,0:09:33.42,Default,Rin (Fam),0,0,0,,Die Hausherrin verlangt\Nwirklich Unmögliches.
+Dialogue: 0,0:09:34.22,0:09:36.40,Default,Rin (Fam),0,0,0,,„Danke“, sagst du?
+Dialogue: 0,0:09:36.40,0:09:38.85,Default,Rin (Fam),0,0,0,,Aber nicht doch. Gar kein Problem.
+Dialogue: 0,0:09:38.85,0:09:42.75,Default,Rin (Fam),0,0,0,,Ihr verdutztes Gesicht\Nwar die Sache wert!
+Dialogue: 0,0:09:44.31,0:09:46.92,TypePlaceholder,,0,0,0,,{\fad(0,0)\bord1\shad0.5\fnVerdana\c&HCFCFCC&\3c&H39393D&\4c&H292E2E&\pos(320.75,273.49)\b1}Das Gesicht sollten wir einrahmen und am Eingang aufhängen.
+Dialogue: 0,0:09:47.87,0:09:49.72,Default,Rin (Fam),0,0,0,,Das wär’s!
+Dialogue: 0,0:09:50.19,0:09:53.64,Default,Rin (Fam),0,0,0,,Ja, aber dann\Nkommen keine Gäste mehr.
+Dialogue: 0,0:09:53.64,0:09:56.49,TypePlaceholder,,0,0,0,,{\fad(0,0)\bord1\shad0.5\fnVerdana\c&HCFCFCC&\3c&H39393D&\4c&H292E2E&\pos(320.75,273.49)\b1}Hängen wir darunter ein Schild mit der Aufschrift „Die geschockte Hausherrin“.
+Dialogue: 0,0:09:57.35,0:10:02.30,Internal,Fam,0,0,0,,Ich dachte, sie wäre ziemlich verschlossen,\Naber das ist sie eigentlich nicht.
+Dialogue: 0,0:10:02.30,0:10:05.02,Internal,Fam,0,0,0,,Vorhin hat sie sich beim\NUnkrautziehen gut angestellt.
+Dialogue: 0,0:10:05.02,0:10:08.37,Internal,Fam,0,0,0,,Ars hat sich in ihren Fähigkeiten\Nbestimmt nicht getäuscht.
+Dialogue: 0,0:10:09.02,0:10:11.92,Internal,Fam,0,0,0,,Ich sollte noch weiter hier\Nbleiben und sie beobachten.
+Dialogue: 0,0:10:42.37,0:10:44.87,Internal,Fam,0,0,0,,Was will sie denn mitten in der Nacht?
+Dialogue: 0,0:10:47.50,0:10:49.52,Internal,Fam,0,0,0,,Wohin geht sie?
+Dialogue: 0,0:10:53.38,0:10:57.01,TypePlaceholder,,0,0,0,,{\an3\fs11\bord2\blur1\fscy120\fad(525,0)\fnTrebuchet MS\c&H0F0D34&\3c&H58CCE3&\pos(174.35,63.12)\b1}As a Reincarnated Aristocrat,\N{\bord2\blur2\fs15\fnGeorgia\i1\fax0.2\c&HFFFFFF&\3c&HD2C26E&}I’ll {\3c&HBCCC80&}Use{\3c&HBACCAB&} My {\3c&H8CC9B2&}Appraisal {\3c&H65C9B1&}Skill\N{\3c&HD5C277&}to {\3c&HBDC78E&}Rise{\3c&HB0CFA9&} in{\3c&H98D4B3&} the{\3c&H64D4BB&} World
+Dialogue: 1,0:10:53.38,0:10:57.01,TypePlaceholder,,0,0,0,,{\an3\fs11\bord1.5\blur1\fscy120\fad(525,0)\fnTrebuchet MS\c&H0F0D34&\3c&HEEF8F9&\pos(174.35,63.12)\b1}As a Reincarnated Aristocrat,\N{\bord2\blur2\fs15\fnGeorgia\i1\fax0.2\c&HFFFFFF&\3c&HD2C26E&}I’ll {\3c&HBCCC80&}Use{\3c&HBACCAB&} My {\3c&H8CC9B2&}Appraisal {\3c&H65C9B1&}Skill\N{\3c&HD5C277&}to {\3c&HBDC78E&}Rise{\3c&HB0CFA9&} in{\3c&H98D4B3&} the{\3c&H64D4BB&} World
+Dialogue: 0,0:10:53.48,0:10:54.97,Internal,Fam,0,0,0,,Sie ist verschwunden?!
+Dialogue: 0,0:10:57.01,0:11:00.42,TypePlaceholder,,0,0,0,,{\an3\fs11\bord2\blur1\fscy120\fad(475,525)\fnTrebuchet MS\c&H0F0D34&\3c&H58CCE3&\pos(616.48,63.59)\b1}As a Reincarnated Aristocrat,\N{\bord2\blur2\fs15\fnGeorgia\i1\fax0.2\c&HFFFFFF&\3c&HD2C26E&}I’ll {\3c&HBCCC80&}Use{\3c&HBACCAB&} My {\3c&H8CC9B2&}Appraisal {\3c&H65C9B1&}Skill\N{\3c&HD5C277&}to {\3c&HBDC78E&}Rise{\3c&HB0CFA9&} in{\3c&H98D4B3&} the{\3c&H64D4BB&} World
+Dialogue: 1,0:10:57.01,0:11:00.39,TypePlaceholder,,0,0,0,,{\an3\fs11\bord1.5\blur1\fscy120\fad(475,525)\fnTrebuchet MS\c&H0F0D34&\3c&HEEF8F9&\pos(616.48,63.59)\b1}As a Reincarnated Aristocrat,\N{\bord2\blur2\fs15\fnGeorgia\i1\fax0.2\c&HFFFFFF&\3c&HD2C26E&}I’ll {\3c&HBCCC80&}Use{\3c&HBACCAB&} My {\3c&H8CC9B2&}Appraisal {\3c&H65C9B1&}Skill\N{\3c&HD5C277&}to {\3c&HBDC78E&}Rise{\3c&HB0CFA9&} in{\3c&H98D4B3&} the{\3c&H64D4BB&} World
+Dialogue: 0,0:11:00.42,0:11:03.35,Top Internal,Fam,0,0,0,,Gestern ist Enan hier verschwunden.
+Dialogue: 0,0:11:00.58,0:11:04.00,TypePlaceholder,,0,0,0,,{\bord1\blur4\fad(475,475)\fnTimes New Roman\c&HFFFFFF&\3c&H000000&\pos(175.07,288.53)}Enans Geheimnis
+Dialogue: 0,0:11:03.90,0:11:05.60,Internal,Fam,0,0,0,,Aber wie?
+Dialogue: 0,0:11:35.77,0:11:39.60,Default,Fam,0,0,0,,So, wie Ars gesagt hat,\Nist sie begabt.
+Dialogue: 0,0:11:41.45,0:11:44.22,Default,Fam,0,0,0,,Sind das Unterlagen\Nüber Giftpflanzen?
+Dialogue: 0,0:11:44.67,0:11:47.87,Default,Fam,0,0,0,,Will sie Ars\Netwa mit Gift ermorden?
+Dialogue: 0,0:11:54.18,0:11:55.30,Default,Fam,0,0,0,,Ein Tagebuch.
+Dialogue: 0,0:11:56.05,0:11:59.70,Internal,Enan,0,0,0,,8. Juli. Um das Schreiben zu üben,
+Dialogue: 0,0:11:59.70,0:12:01.90,Internal,Enan,0,0,0,,will ich von heute an\Nein Tagebuch führen.
+Dialogue: 0,0:12:03.19,0:12:05.69,Flashback Top,Junge Enan,0,0,0,,Sehen Sie doch, Hausherrin!\NEs ist fertig!
+Dialogue: 0,0:12:03.20,0:12:05.70,TypePlaceholder,,0,0,0,,{\fad(475,475)\blur1\fscy105\bord0.5\xshad1\fs16\an2\fnTimes New Roman\c&HD0CECE&\3c&H363C3A&\4c&H1C222C&\pos(322.6,295.93)\b1}Enan, 15 Jahre alt
+Dialogue: 0,0:12:05.69,0:12:09.67,Flashback,Frühere Hausherrin,0,0,0,,Ach, Enan. Du bist darin\Nviel besser als ich.
+Dialogue: 0,0:12:09.67,0:12:12.72,Flashback,Frühere Hausherrin,0,0,0,,Du lernst alles sofort,\Nwas man dir beibringt.
+Dialogue: 0,0:12:12.72,0:12:15.20,Flashback,Frühere Hausherrin,0,0,0,,Du bist so schnell von Begriff.
+Dialogue: 0,0:12:15.57,0:12:18.07,Internal,Enan,0,0,0,,Ich kam als Dienstmädchen\Nauf das Anwesen,
+Dialogue: 0,0:12:18.07,0:12:20.70,Internal,Enan,0,0,0,,doch die Hausherrin\Nbrachte mir viel bei.
+Dialogue: 0,0:12:20.70,0:12:24.12,Flashback,Frühere Hausherrin,0,0,0,,Hör zu. Von diesem Zimmer darfst\Ndu meinem Mann nichts sagen.
+Dialogue: 0,0:12:24.12,0:12:26.71,Flashback,Junge Enan,0,0,0,,Jawohl! Das ist unser Geheimnis!
+Dialogue: 0,0:12:27.25,0:12:28.62,Flashback,Frühere Hausherrin,0,0,0,,Hör zu, Enan.
+Dialogue: 0,0:12:29.27,0:12:32.32,Flashback,Frühere Hausherrin,0,0,0,,Du solltest irgendwann\Ndas Anwesen verlassen.
+Dialogue: 0,0:12:32.32,0:12:35.10,Flashback,Frühere Hausherrin,0,0,0,,Dann entlasse ich dich aus dem Dienst.
+Dialogue: 0,0:12:35.10,0:12:38.92,Flashback,Junge Enan,0,0,0,,Was? Warum denn? Weil ich nicht\Ngut in der Hausarbeit bin?
+Dialogue: 0,0:12:38.92,0:12:43.02,Flashback,Frühere Hausherrin,0,0,0,,Nein, sondern weil du zu Höherem\Nbestimmt bist als nur zum Dienstmädchen.
+Dialogue: 0,0:12:43.02,0:12:46.57,Flashback,Frühere Hausherrin,0,0,0,,Lerne so viel wie möglich, ergreife einen\NBeruf und mach dich selbstständig.
+Dialogue: 0,0:12:46.57,0:12:49.49,Flashback,Frühere Hausherrin,0,0,0,,Dann kannst du viel\Nmehr als jetzt verdienen.
+Dialogue: 0,0:12:49.87,0:12:54.62,Flashback,Frühere Hausherrin,0,0,0,,Ach ja, weil du so geschickt bist,\Nkönntest du Handwerkerin werden.
+Dialogue: 0,0:12:54.92,0:12:57.60,Flashback,Frühere Hausherrin,0,0,0,,Du wärst bestimmt eine\Nwunderbare Handwerkerin.
+Dialogue: 0,0:13:01.33,0:13:05.46,Flashback,Junge Enan,0,0,0,,Aber ich will für immer\Nbei Ihnen bleiben, Hausherrin!
+Dialogue: 0,0:13:05.75,0:13:08.07,Flashback,Frühere Hausherrin,0,0,0,,Da hilft wohl nichts.
+Dialogue: 0,0:13:08.07,0:13:09.82,Flashback,Frühere Hausherrin,0,0,0,,Das freut mich.
+Dialogue: 0,0:13:09.82,0:13:11.97,Flashback,Frühere Hausherrin,0,0,0,,Ach ja, kannst du schreiben?
+Dialogue: 0,0:13:12.47,0:13:13.45,Flashback,Junge Enan,0,0,0,,Nein.
+Dialogue: 0,0:13:13.45,0:13:16.00,Flashback,Frühere Hausherrin,0,0,0,,Dann bringe ich es dir bei.
+Dialogue: 0,0:13:17.15,0:13:21.48,Internal,Enan,0,0,0,,Danach starb sie an\Neiner unbekannten Krankheit.
+Dialogue: 0,0:13:23.77,0:13:28.70,Default,Fam,0,0,0,,Ihre Handschrift ist also schön, weil es\Nihr die frühere Hausherrin beigebracht hat.
+Dialogue: 0,0:13:37.24,0:13:40.75,Default,Rin (Fam),0,0,0,,Es ist schon Mittagspause.\NLass uns essen gehen.
+Dialogue: 0,0:13:45.55,0:13:49.95,Default,Rin (Fam),0,0,0,,„Ich muss im Auftrag der\NHausherrin einkaufen gehen.“
+Dialogue: 0,0:13:49.95,0:13:51.67,Default,Rin (Fam),0,0,0,,Aha, verstehe.
+Dialogue: 0,0:13:55.14,0:13:57.10,Default,Dienstmädchen A,0,0,0,,So ist das nicht.
+Dialogue: 0,0:13:57.89,0:14:01.27,Default,Rin (Fam),0,0,0,,Sagt doch, wohin ist Enan\Neinkaufen gegangen?
+Dialogue: 0,0:14:01.27,0:14:04.27,Default,Dienstmädchen A,0,0,0,,Was? Heute gibt es\Ndoch nichts zu besorgen.
+Dialogue: 0,0:14:04.57,0:14:08.45,Default,Dienstmädchen A,0,0,0,,Manchmal verschwindet\Nsie mittags einfach so.
+Dialogue: 0,0:14:08.45,0:14:10.28,Default,Dienstmädchen B,0,0,0,,Stimmt, wo du’s sagst.
+Dialogue: 0,0:14:10.28,0:14:12.30,Default,Dienstmädchen C,0,0,0,,Was tut sie wohl gerade?
+Dialogue: 0,0:14:10.72,0:14:13.03,Internal,Fam,0,0,0,,Nächstes Mal folge ich ihr.
+Dialogue: 0,0:14:13.03,0:14:15.28,Default,Leibwächter A,0,0,0,,Hey, der Alkohol ist alle.
+Dialogue: 0,0:14:16.35,0:14:19.03,Default,Leibwächter A,0,0,0,,Du siehst ja ganz niedlich aus.
+Dialogue: 0,0:14:19.03,0:14:23.04,Default,Dienstmädchen A,0,0,0,,Hey, lasst das sein! Sie ist gerade\Nerst eingestellt worden!
+Dialogue: 0,0:14:23.04,0:14:27.04,Default,Dienstmädchen A,0,0,0,,Ihr habt schon alles getrunken,\Nwas ich euch gebracht habe?
+Dialogue: 0,0:14:23.04,0:14:24.72,Top,Leibwächter A,0,0,0,,Nehmen wir alles mit.
+Dialogue: 0,0:14:24.72,0:14:26.05,Top,Leibwächter B,0,0,0,,Gehen wir.
+Dialogue: 0,0:14:27.04,0:14:30.30,Default,Dienstmädchen B,0,0,0,,Alles in Ordnung, Rin? Die haben\Ndich bestimmt erschreckt.
+Dialogue: 0,0:14:30.30,0:14:33.12,Default,Fam (Rin),0,0,0,,Was sind das für seltsame Gestalten?
+Dialogue: 0,0:14:33.12,0:14:36.05,Default,Dienstmädchen B,0,0,0,,Die Hausherrin hat\Ndiese Leibwächter angestellt.
+Dialogue: 0,0:14:36.05,0:14:38.30,Default,Dienstmädchen B,0,0,0,,Sie wohnen auf dem Anwesen.
+Dialogue: 0,0:14:38.60,0:14:40.92,Default,Dienstmädchen B,0,0,0,,Keiner weiß, was das für Kerle sind.
+Dialogue: 0,0:14:40.92,0:14:44.22,Default,Dienstmädchen B,0,0,0,,Die saufen schon tagsüber und\Nspielen nur um Geld.
+Dialogue: 0,0:14:44.22,0:14:47.20,Default,Dienstmädchen C,0,0,0,,Keine Ahnung, warum die\NHausherrin die eingestellt hat.
+Dialogue: 0,0:14:53.10,0:14:54.32,Default,Hausherrin,0,0,0,,Und?
+Dialogue: 0,0:14:54.32,0:14:57.33,Default,Hausherrin,0,0,0,,Immer noch keine\NNachricht aus Burg Canarre?
+Dialogue: 0,0:14:57.33,0:15:00.83,TypePlaceholder,,0,0,0,,{\bord1\blur4\fad(475,475)\fnTimes New Roman\c&HFFFFFF&\3c&H000000&\pos(175.07,288.53)}Die Wahrheit
+Dialogue: 0,0:14:57.77,0:15:00.32,Top,Hausherrin,0,0,0,,Hoffentlich kommt da bald was.
+Dialogue: 0,0:15:01.22,0:15:05.58,Default,Hausherrin,0,0,0,,Deine Stimme ist also immer noch hinüber,\Nseit ich dir die Kehle ruiniert habe.
+Dialogue: 0,0:15:08.97,0:15:12.45,Internal,Enan,0,0,0,,Nachdem die frühere Hausherrin\Nplötzlich an einer Krankheit starb, …
+Dialogue: 0,0:15:12.87,0:15:15.20,Internal,Enan,0,0,0,,kam eine neue Hausherrin.
+Dialogue: 0,0:15:16.12,0:15:19.05,Internal,Enan,0,0,0,,Sie war angeblich eine Freundin\Nder früheren Hausherrin.
+Dialogue: 0,0:15:19.05,0:15:22.90,Internal,Enan,0,0,0,,Sie war freundlich und munterte\Nmich in meiner Trauer auf.
+Dialogue: 0,0:15:23.72,0:15:25.23,Internal,Enan,0,0,0,,Bis zu jener Nacht …
+Dialogue: 0,0:15:25.98,0:15:28.98,Flashback,Enan,0,0,0,,Was? Sie wollen\Ndas Grab jetzt verlegen?
+Dialogue: 0,0:15:28.98,0:15:34.17,Flashback,Enan,0,0,0,,Der Hausherr hat zwar gesagt, er will das Grab\Nan einen Ort mit schöner Aussicht verlegen, …
+Dialogue: 0,0:15:34.17,0:15:37.47,Flashback,Enan,0,0,0,,aber sollten wir nicht warten,\Nbis er von seiner Reise zurück ist?
+Dialogue: 0,0:15:37.47,0:15:40.75,Flashback,Hausherrin,0,0,0,,Ich will ihm keine Umstände machen.
+Dialogue: 0,0:15:40.75,0:15:43.62,Flashback,Hausherrin,0,0,0,,Außerdem ist das gefährlich.\NDu musst nicht helfen.
+Dialogue: 0,0:15:46.92,0:15:50.92,Flashback,Enan,0,0,0,,Bei diesem Sturm kann ich sie\Ndas nicht allein machen lassen.
+Dialogue: 0,0:15:51.33,0:15:53.05,Flashback,Enan,0,0,0,,Ich helfe auch mit.
+Dialogue: 0,0:15:54.34,0:15:57.84,Flashback,Leibwächter A,0,0,0,,Das kommt davon, wenn man\Njemanden mit Giftpflanzen umbringt.
+Dialogue: 0,0:15:57.84,0:15:59.34,Flashback,Hausherrin,0,0,0,,Um sie zu töten, …
+Dialogue: 0,0:15:59.65,0:16:03.47,Flashback,Hausherrin,0,0,0,,war ein Tee aus Deokraut\Ndie beste Wahl.
+Dialogue: 0,0:16:03.47,0:16:07.23,Flashback,Hausherrin,0,0,0,,Deshalb hat niemand vermutet,\Ndass sie vergiftet wurde.
+Dialogue: 0,0:16:07.23,0:16:09.42,Flashback,Hausherrin,0,0,0,,Räum schnell alles weg.
+Dialogue: 0,0:16:09.42,0:16:13.23,Flashback,Hausherrin,0,0,0,,Wenn jemand die vom Gift verfärbten\NKnochen sieht, haben wir ein Problem.
+Dialogue: 0,0:16:13.55,0:16:14.73,Flashback Internal,Enan,0,0,0,,Das darf nicht wahr sein!
+Dialogue: 0,0:16:15.20,0:16:16.73,Flashback Internal,Enan,0,0,0,,Die Hausherrin …
+Dialogue: 0,0:16:20.57,0:16:22.41,Flashback Internal,Enan,0,0,0,,wurde ermordet!
+Dialogue: 0,0:16:22.41,0:16:23.91,Flashback,Hausherrin,0,0,0,,Du bist das, Enan?
+Dialogue: 0,0:16:23.91,0:16:28.30,Flashback,Enan,0,0,0,,Warum? Warum haben Sie sie getötet?\NWaren Sie nicht Freundinnen?!
+Dialogue: 0,0:16:28.30,0:16:31.42,Flashback,Hausherrin,0,0,0,,Warum? Weil sie mir im Weg war.
+Dialogue: 0,0:16:31.42,0:16:33.79,Flashback,Hausherrin,0,0,0,,Wenn man einen Händler heiratet,\Nhat man ausgesorgt.
+Dialogue: 0,0:16:34.10,0:16:35.79,Flashback,Enan,0,0,0,,Nur aus diesem Grund?
+Dialogue: 0,0:16:36.80,0:16:38.55,Flashback,Enan,0,0,0,,Wie konnten Sie das der Hausherrin …
+Dialogue: 0,0:16:38.87,0:16:40.27,Flashback,Enan,0,0,0,,Das verzeihe ich Ihnen nicht!
+Dialogue: 0,0:16:40.73,0:16:42.50,Flashback,Leibwächter B,0,0,0,,Was tun wir mit ihr?
+Dialogue: 0,0:16:42.50,0:16:43.72,Flashback,Leibwächter B,0,0,0,,Bringen wir sie um?
+Dialogue: 0,0:16:43.72,0:16:47.25,Flashback,Leibwächter A,0,0,0,,Dummkopf. Wenn hier zwei hintereinander\Nsterben, ist das verdächtig.
+Dialogue: 0,0:16:47.25,0:16:52.06,Flashback,Leibwächter C,0,0,0,,Der Hausherr mag sie sehr. Grundlos\Nentlassen kann man sie da nicht.
+Dialogue: 0,0:16:52.45,0:16:54.44,Flashback,Hausherrin,0,0,0,,Dann bleibt nur eines.
+Dialogue: 0,0:16:54.77,0:16:57.32,Flashback,Hausherrin,0,0,0,,Richtet sie so schlimm zu,
+Dialogue: 0,0:16:57.32,0:16:59.25,Flashback,Hausherrin,0,0,0,,dass sie nicht mehr\Ndarüber sprechen will.
+Dialogue: 0,0:17:03.70,0:17:08.08,Internal,Enan,0,0,0,,Sie verletzten meine Kehle so schwer,\Ndass ich nicht mehr sprechen konnte.
+Dialogue: 0,0:17:08.65,0:17:11.58,Internal,Enan,0,0,0,,Auch die Beweise wurden beseitigt.
+Dialogue: 0,0:17:11.58,0:17:14.30,Internal,Enan,0,0,0,,Wenn ich nichts tue,\Nerfährt sie nie Gerechtigkeit.
+Dialogue: 0,0:17:16.80,0:17:17.92,Internal,Enan,0,0,0,,Ich werde …
+Dialogue: 0,0:17:18.87,0:17:21.05,Internal,Enan,0,0,0,,dieses Verbrechen ans Licht bringen!
+Dialogue: 0,0:17:23.97,0:17:26.65,Default,Leibwächter C,0,0,0,,Und? Was tun wir jetzt?
+Dialogue: 0,0:17:26.65,0:17:30.60,Default,Hausherrin,0,0,0,,Wir benutzen sie, um unsere Waren\Nan Burg Canarre zu verkaufen.
+Dialogue: 0,0:17:30.60,0:17:33.15,Default,Hausherrin,0,0,0,,Weil das Oberhaupt gut bezahlt,
+Dialogue: 0,0:17:33.15,0:17:35.57,Default,Hausherrin,0,0,0,,werden wir damit noch reicher.
+Dialogue: 0,0:17:35.57,0:17:37.11,Default,Leibwächter B,0,0,0,,Wirklich genial, Herrin!
+Dialogue: 0,0:17:38.86,0:17:42.17,Default,Hausherrin,0,0,0,,„Ich folge Ihren Befehlen nicht mehr.
+Dialogue: 0,0:17:42.17,0:17:45.15,Default,Hausherrin,0,0,0,,Ich werde Oberhaupt Ars\Nvon Ihren Verbrechen berichten.
+Dialogue: 0,0:17:45.15,0:17:47.57,Default,Hausherrin,0,0,0,,Stellt euch davor freiwillig!“
+Dialogue: 0,0:17:48.83,0:17:52.46,Default,Hausherrin,0,0,0,,Hast du vergessen, was passiert,\Nwenn du dich mir widersetzt?
+Dialogue: 0,0:17:57.09,0:18:01.84,Default,Fam,0,0,0,,Bis hierher und nicht weiter! Die Herrin eines\NHandelshauses ist also eine Mörderin.
+Dialogue: 0,0:18:01.84,0:18:05.09,Default,Hausherrin,0,0,0,,Du bist doch eines unserer Dienstmädchen!\NNein, wer bist du?!
+Dialogue: 0,0:18:05.09,0:18:08.42,Default,Fam,0,0,0,,Du hast viel durchgemacht,\NEnan. Jetzt ist alles gut.
+Dialogue: 0,0:18:08.42,0:18:09.35,Default,Fam,0,0,0,,Ich regle das.
+Dialogue: 0,0:18:10.85,0:18:12.98,Default,Hausherrin,0,0,0,,Ich zerquetsche dir auch die Kehle!
+Dialogue: 0,0:18:14.20,0:18:16.17,Default,Fam,0,0,0,,Ziemlich voreilig, Alte.
+Dialogue: 0,0:18:16.17,0:18:17.20,Default,Hausherrin,0,0,0,,Männer!
+Dialogue: 0,0:18:28.65,0:18:30.16,Default,Fam,0,0,0,,Du wolltest wissen, wer ich bin?
+Dialogue: 0,0:18:30.16,0:18:34.77,Default,Fam,0,0,0,,Ich bin Fam, ein Gefolgsmann des\NOberhaupts von Canarre, Ars Louvent.
+Dialogue: 0,0:18:34.77,0:18:37.92,Default,Fam,0,0,0,,Außerdem bin ich der Anführer\Nder Shadow-Söldnertruppe.
+Dialogue: 0,0:18:37.92,0:18:39.92,Default,Leibwächter C,0,0,0,,Der dient Canarre?!
+Dialogue: 0,0:18:39.92,0:18:42.80,Default,Hausherrin,0,0,0,,Und was jetzt?! Du hast nicht\Nden geringsten Beweis!
+Dialogue: 0,0:18:43.52,0:18:46.62,Default,Fam,0,0,0,,Die verbrannten Werkzeuge,\Nmit denen das Grab ausgehoben wurde.
+Dialogue: 0,0:18:46.62,0:18:48.82,Default,Fam,0,0,0,,Die Aussage des\NGiftpflanzenverkäufers.
+Dialogue: 0,0:18:48.82,0:18:53.81,Default,Fam,0,0,0,,Und der Bericht über das Gift, das in den\NKnochen der Hausherrin gefunden wurde.
+Dialogue: 0,0:18:53.81,0:18:55.56,Default,Fam,0,0,0,,Nicht wahr, Enan?
+Dialogue: 0,0:18:57.06,0:18:59.57,Top,Hausherrin,0,0,0,,Nein, das ist alles gefälscht!
+Dialogue: 0,0:18:57.07,0:19:00.48,TypePlaceholder,,0,0,0,,{\bord1\blur4\fad(475,475)\fnTimes New Roman\c&HFFFFFF&\3c&H000000&\pos(175.07,288.53)}Enan Lujes
+Dialogue: 0,0:18:59.57,0:19:02.35,Top,Hausherrin,0,0,0,,Ich habe ja alle Knochen\Nin den Fluss geworfen.
+Dialogue: 0,0:19:05.95,0:19:08.27,Internal,Enan,0,0,0,,Das sind die Knochen\Nder verstorbenen Hausherrin.
+Dialogue: 0,0:19:18.40,0:19:20.10,Flashback Internal,Enan,0,0,0,,Hausherrin …
+Dialogue: 0,0:19:20.96,0:19:24.96,Default,Hausherrin,0,0,0,,Ich dachte,\Nalles wäre perfekt gewesen.
+Dialogue: 0,0:19:27.22,0:19:30.15,Internal,Enan,0,0,0,,Dass meine Kehle zerstört\Nwurde, ist mir egal.
+Dialogue: 0,0:19:30.65,0:19:31.52,Internal,Enan,0,0,0,,Aber …
+Dialogue: 0,0:19:32.22,0:19:36.65,Internal,Enan,0,0,0,,ich verzeihe dir niemals, dass du\Nmeine geliebte Hausherrin getötet hast!
+Dialogue: 0,0:19:40.23,0:19:41.73,Default,Ars,0,0,0,,Das alles ist passiert?!
+Dialogue: 0,0:19:41.73,0:19:44.00,Default,Fam,0,0,0,,Sie und ihre Handlanger\Nwurden festgenommen.
+Dialogue: 0,0:19:44.00,0:19:49.36,Default,Fam,0,0,0,,Wegen Mordes und Körperverletzung kommen\Nsie so schnell nicht mehr aus dem Gefängnis.
+Dialogue: 0,0:19:49.36,0:19:53.05,Default,Rietz,0,0,0,,Deshalb hat Enan\Nsich so seltsam verhalten.
+Dialogue: 0,0:19:53.90,0:19:58.20,Default,Ars,0,0,0,,Als Landesherr trage ich die Verantwortung\Ndafür, das nicht bemerkt zu haben.
+Dialogue: 0,0:19:58.72,0:20:02.75,Default,Ars,0,0,0,,Wenn Sie künftig Probleme haben,\Nkönnen Sie sich jederzeit an mich wenden.
+Dialogue: 0,0:20:02.75,0:20:07.15,Default,Ars,0,0,0,,Es ist meine Aufgabe, rechtschaffene Bürger\NCanarres wie Sie zu beschützen.
+Dialogue: 0,0:20:09.01,0:20:10.97,Default,Ars,0,0,0,,Aber wirklich schade.
+Dialogue: 0,0:20:10.97,0:20:14.65,Default,Ars,0,0,0,,Sie waren also nicht hier,\Num Gefolgsfrau zu werden.
+Dialogue: 0,0:20:14.65,0:20:19.02,Default,Ars,0,0,0,,Bitte kommen Sie gut nach Hause.\NIch wünsche Ihnen alles Gute.
+Dialogue: 0,0:20:20.85,0:20:22.77,Default,Fam,0,0,0,,Ist dir das recht so, Enan?
+Dialogue: 0,0:20:23.05,0:20:25.80,Default,Fam,0,0,0,,Willst du wieder\Nals Dienstmädchen arbeiten?
+Dialogue: 0,0:20:25.80,0:20:30.45,Default,Fam,0,0,0,,Das hier ist ein guter Ort. Hier kannst\Ndu deine Talente weiter entfalten.
+Dialogue: 0,0:20:30.87,0:20:33.91,Default,Fam,0,0,0,,Hätte sich das deine frühere\NHausherrin nicht gewünscht?
+Dialogue: 0,0:20:38.75,0:20:43.12,Internal,Enan,0,0,0,,Können wir noch bessere Freunde werden,\Nwenn wir gemeinsam arbeiten?
+Dialogue: 0,0:20:44.87,0:20:46.82,Default,Fam,0,0,0,,Ja, ganz bestimmt.
+Dialogue: 0,0:20:47.48,0:20:50.57,Default,Fam,0,0,0,,Ars, Enan will bei uns arbeiten.
+Dialogue: 0,0:20:50.57,0:20:52.30,Default,Ars,0,0,0,,Was? Wirklich?!
+Dialogue: 0,0:20:54.82,0:20:56.45,Internal,Enan,0,0,0,,Sehr gern.
+Dialogue: 0,0:20:57.31,0:21:00.07,TypePlaceholder,,0,0,0,,{\fad(475,475)\bord1\shad0.5\fnVerdana\c&HCFCFCC&\3c&H39393D&\4c&H292E2E&\pos(320.75,273.49)\b1}Lamberg, Louvent-Residenz
+Dialogue: 0,0:20:57.60,0:21:00.31,Top,Mireille,0,0,0,,Er ist in diesem Schuppen.
+Dialogue: 0,0:21:00.31,0:21:02.31,Default,Mireille,0,0,0,,Du machst das schon irgendwie.
+Dialogue: 0,0:21:05.77,0:21:08.29,Default,Shin,0,0,0,,Warte, warte doch! Stürz nicht ab!
+Dialogue: 0,0:21:08.70,0:21:11.07,Default,Shin,0,0,0,,Ah, schon wieder!
+Dialogue: 0,0:21:16.58,0:21:18.87,Default,Shin,0,0,0,,Mein Luftschiff\Nist doch genial, nicht?
+Dialogue: 0,0:21:18.87,0:21:22.58,Default,Shin,0,0,0,,Wenn es fliegt, braucht es nur\Nnoch halb so viele Magiesteine …
+Dialogue: 0,0:21:22.58,0:21:25.00,Default,Shin,0,0,0,,Was? Das Holz ist nicht\Nstark genug gebogen?
+Dialogue: 0,0:21:25.00,0:21:26.27,Default,Shin,0,0,0,,Wo denn?!
+Dialogue: 0,0:21:28.10,0:21:32.45,Internal,Enan,0,0,0,,Die Flügelspitze muss stärker abgewinkelt\Nwerden, sonst gibt es zu viel Luftwiderstand.
+Dialogue: 0,0:21:32.45,0:21:35.00,Default,Shin,0,0,0,,Diese Krümmung\Nist schwer hinzukriegen.
+Dialogue: 0,0:21:35.00,0:21:37.62,Default,Shin,0,0,0,,Das Holz ist leicht,\Naber schwer zu bearbeiten.
+Dialogue: 0,0:21:38.10,0:21:39.85,Internal,Enan,0,0,0,,Vielleicht kann ich das.
+Dialogue: 0,0:21:39.85,0:21:44.25,Default,Shin,0,0,0,,Ernsthaft?! Du bist ja wunderbar!\NWillst du mir dabei helfen?
+Dialogue: 0,0:21:44.25,0:21:46.11,Internal,Enan,0,0,0,,Deswegen bin ich hierhergekommen.
+Dialogue: 0,0:21:46.11,0:21:49.98,Default,Shin,0,0,0,,Mir fehlen ja sowieso Leute.\NDas wäre mir eine große Hilfe!
+Dialogue: 0,0:21:51.49,0:21:54.47,Default,Shin,0,0,0,,Was? Du heißt Enan?\NAuf gute Zusammenarbeit!
+Dialogue: 0,0:21:55.58,0:21:59.08,TypePlaceholder,,0,0,0,,{\fscy110\fs17\c&HFFFFFF&\3c&HB49671&\bord2\fnTimes New Roman\b1\blur2}Übersetzung: Alexander Story\NSpotting: Michael Gohl
+Dialogue: 0,0:21:59.21,0:22:02.59,TypePlaceholder,,0,0,0,,{\fscy110\fs17\c&HFFFFFF&\3c&HB49671&\bord2\fnTimes New Roman\b1\blur2}Revision & Typesetting: Sandra Ritzer\NQualitätskontrolle: Daniel Wackenheim
+Dialogue: 0,0:22:05.21,0:22:08.47,TypePlaceholder,,0,0,0,,{\fscy110\fs17\c&HFFFFFF&\3c&HB49671&\bord2\fnTimes New Roman\b1\blur2}Projektleitung: Tobias Philippi
+Dialogue: 0,0:23:25.50,0:23:28.72,Default,Ars,0,0,0,,Ich freue mich, dass du eine\Nneue Freundin gefunden hast, Fam.
+Dialogue: 0,0:23:28.72,0:23:29.55,Default,Fam,0,0,0,,Ja, allerdings.
+Dialogue: 0,0:23:29.55,0:23:32.02,Default,Ars,0,0,0,,Hast du denn sonst\Nüberhaupt Freunde, Fam?
+Dialogue: 0,0:23:32.02,0:23:35.22,Default,Fam,0,0,0,,Ars, dieses Mal verlange\Nich die zehnfache Bezahlung.
+Dialogue: 0,0:23:35.22,0:23:37.52,Default,Ars,0,0,0,,B-Bitte hab Gnade!
+Dialogue: 0,0:23:37.52,0:23:39.50,Default,Ars,0,0,0,,Nächstes Mal: „Zwei Ausnahmetalente“.
+Dialogue: 0,0:23:37.64,0:23:39.98,TypePlaceholder,,0,0,0,,{\bord0.5\xshad1\fad(450,0)\c&HD2D0CA&\fnTimes New Roman\fscy120\fs15\an3\4c&H31302E&\3c&H464E55&\pos(605.85,165.6)\b1}Nächstes Mal:\N{\fs+2}Zwei Ausnahmetalente
+
