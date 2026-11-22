@@ -1,0 +1,284 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+Video Zoom Percent: 1
+Scroll Position: 0
+Active Line: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:10.88,0:00:12.84,Default,,0,0,0,,{\i1}- Taiyo!{\i0}\N{\i1}- Taiyo!{\i0}
+Dialogue: 0,0:00:12.93,0:00:14.51,Default,,0,0,0,,{\i1}Bátyó!{\i0}
+Dialogue: 0,0:00:16.76,0:00:19.60,Default,,0,0,0,,Bátyó!
+Dialogue: 0,0:00:20.68,0:00:22.31,Default,,0,0,0,,Jól vagy, bátyó?
+Dialogue: 0,0:00:22.39,0:00:23.81,Default,,0,0,0,,Rosszat álmodtál.
+Dialogue: 0,0:00:23.89,0:00:24.90,Default,,0,0,0,,Mi?
+Dialogue: 0,0:00:24.98,0:00:27.27,Default,,0,0,0,,Igen, jól vagyok.
+Dialogue: 0,0:00:30.23,0:00:31.24,Default,,0,0,0,,Mi az?
+Dialogue: 0,0:00:34.28,0:00:35.41,Default,,0,0,0,,Mi a baj?
+Dialogue: 0,0:00:36.82,0:00:37.82,Default,,0,0,0,,Hikaru!
+Dialogue: 0,0:00:37.91,0:00:38.91,Default,,0,0,0,,Igen?
+Dialogue: 0,0:00:39.49,0:00:41.33,Default,,0,0,0,,Hol van anya és apa?
+Dialogue: 0,0:00:41.83,0:00:44.54,Default,,0,0,0,,Már órákkal ezelőtt felkeltek.
+Dialogue: 0,0:00:46.83,0:00:48.09,Default,,0,0,0,,Felébresztettem.
+Dialogue: 0,0:00:48.17,0:00:49.55,Default,,0,0,0,,Jó reggelt, Taiyo!
+Dialogue: 0,0:00:49.63,0:00:51.88,Default,,0,0,0,,A reggeli már tálalva.
+Dialogue: 0,0:00:52.55,0:00:54.68,Default,,0,0,0,,Nem szoktál te ennyit aludni.
+Dialogue: 0,0:00:58.30,0:00:59.55,Default,,0,0,0,,Gyerünk!
+Dialogue: 0,0:00:59.64,0:01:02.56,Default,,0,0,0,,Reggelizzünk meg gyorsan,\Nhogy aztán játszhassunk.
+Dialogue: 0,0:01:02.64,0:01:04.14,Default,,0,0,0,,Jó.
+Dialogue: 0,0:01:19.91,0:01:24.83,Default,,0,0,0,,KÜLDETÉS: A YOZAKURA CSALÁD
+Dialogue: 0,0:02:42.03,0:02:43.70,Default,,0,0,0,,Köszi a reggelit!
+Dialogue: 0,0:02:46.24,0:02:48.29,Default,,0,0,0,,Várj csak! Még nem üres a tányérod.
+Dialogue: 0,0:02:48.37,0:02:50.96,Default,,0,0,0,,Ha nem eszel rendesen, sosem nősz meg.
+Dialogue: 0,0:02:51.04,0:02:54.54,Default,,0,0,0,,Így van. Nézz csak rám! Én repetázom.
+Dialogue: 0,0:02:54.63,0:02:57.01,Default,,0,0,0,,Azért ilyen nagy a hasad mostanában?
+Dialogue: 0,0:02:57.88,0:03:00.43,Default,,0,0,0,,- Te is így gondolod, Hikaru?\N- Mi?
+Dialogue: 0,0:03:00.51,0:03:02.43,Default,,0,0,0,,Hízol, ahogy öregszel?
+Dialogue: 0,0:03:02.51,0:03:03.72,Default,,0,0,0,,Már te is, drágám?
+Dialogue: 0,0:03:03.80,0:03:07.72,Default,,0,0,0,,Nos, bevallom, mostanában…\NHé, ne válts témát!
+Dialogue: 0,0:03:08.52,0:03:13.40,Default,,0,0,0,,Gyerünk, Hikaru!\NSegítek kiüríteni a tányérodat.
+Dialogue: 0,0:03:15.23,0:03:18.36,Default,,0,0,0,,- Hűha!\N- Köszi, Taiyo.
+Dialogue: 0,0:03:18.44,0:03:19.90,Default,,0,0,0,,Hűha, bátyó!
+Dialogue: 0,0:03:19.99,0:03:21.49,Default,,0,0,0,,Nem fröccsent rád a tea?
+Dialogue: 0,0:03:21.57,0:03:23.07,Default,,0,0,0,,Nem, minden rendben.
+Dialogue: 0,0:03:23.16,0:03:26.16,Default,,0,0,0,,{\i1}Hogy csináltam… az előbb…{\i0}
+Dialogue: 0,0:03:26.24,0:03:29.70,Default,,0,0,0,,Eszembe jutott valami.\NUtazzunk el valahová a hétvégén!
+Dialogue: 0,0:03:29.79,0:03:32.58,Default,,0,0,0,,Jó ötlet! Hová akartok menni?
+Dialogue: 0,0:03:32.67,0:03:34.88,Default,,0,0,0,,Én kempingezni akarok.
+Dialogue: 0,0:03:34.96,0:03:36.67,Default,,0,0,0,,Kempingezni, mi?
+Dialogue: 0,0:03:36.75,0:03:39.21,Default,,0,0,0,,Most, hogy mondod, mostanában nem voltunk.
+Dialogue: 0,0:03:39.30,0:03:42.30,Default,,0,0,0,,Fiatalabb koromban arról álmodtam,\Nhogy egyedül kempingezem,
+Dialogue: 0,0:03:42.38,0:03:46.43,Default,,0,0,0,,ezért elolvastam egy csomó magazint,\Nés megvettem az összes felszerelést…
+Dialogue: 0,0:03:46.51,0:03:49.68,Default,,0,0,0,,de végül nem használtam őket.
+Dialogue: 0,0:03:49.77,0:03:51.89,Default,,0,0,0,,Neked is lenne hozzá kedved, Taiyo?
+Dialogue: 0,0:03:53.10,0:03:54.65,Default,,0,0,0,,Nekem bármi megfelel.
+Dialogue: 0,0:03:54.73,0:03:56.61,Default,,0,0,0,,Elengednek a munkahelyedről, anya?
+Dialogue: 0,0:03:56.69,0:03:59.07,Default,,0,0,0,,Persze. Vettem ki szabadságot.
+Dialogue: 0,0:03:59.15,0:04:01.70,Default,,0,0,0,,- Szuper!\N- Így kell ezt.
+Dialogue: 0,0:04:01.78,0:04:03.03,Default,,0,0,0,,Jó móka lesz.
+Dialogue: 0,0:04:08.08,0:04:10.91,Default,,0,0,0,,NYOMD MEG!
+Dialogue: 0,0:04:11.75,0:04:13.96,Default,,0,0,0,,VÉGE A JÁTÉKNAK
+Dialogue: 0,0:04:14.04,0:04:16.50,Default,,0,0,0,,Ne már, mi volt ez?
+Dialogue: 0,0:04:16.59,0:04:18.38,Default,,0,0,0,,Vesztettünk miattad.
+Dialogue: 0,0:04:18.46,0:04:19.92,Default,,0,0,0,,Bocs, elszúrtam.
+Dialogue: 0,0:04:20.51,0:04:24.76,Default,,0,0,0,,Ma nem vagy önmagad.\NVégig máshoz járt az eszed.
+Dialogue: 0,0:04:24.84,0:04:27.47,Default,,0,0,0,,Sajnálom, oké? Kezdjük újra!
+Dialogue: 0,0:04:27.55,0:04:29.97,Default,,0,0,0,,De most koncentrálj a játékra!
+Dialogue: 0,0:04:30.06,0:04:31.48,Default,,0,0,0,,Rendben.
+Dialogue: 0,0:04:32.02,0:04:33.02,Default,,0,0,0,,{\an8}BETÖLTÉS
+Dialogue: 0,0:04:33.10,0:04:35.40,Default,,0,0,0,,{\an8}Az a baj, hogy túl nagy\Ntámadási felületet hagysz.
+Dialogue: 0,0:04:35.48,0:04:38.23,Default,,0,0,0,,Az egész területet szemmel kell tartanod.
+Dialogue: 0,0:04:38.94,0:04:41.82,Default,,0,0,0,,Jól van, most végigcsináljuk.
+Dialogue: 0,0:04:43.20,0:04:44.78,Default,,0,0,0,,{\i1}Mi volt az?{\i0}
+Dialogue: 0,0:04:45.95,0:04:47.37,Default,,0,0,0,,{\i1}Mintha…{\i0}
+Dialogue: 0,0:04:47.45,0:04:50.37,Default,,0,0,0,,{\i1}elfelejtettem volna valami fontosat.{\i0}
+Dialogue: 0,0:04:53.21,0:04:54.87,Default,,0,0,0,,{\i1}Mindegy.{\i0}
+Dialogue: 0,0:05:13.98,0:05:16.35,Default,,0,0,0,,{\i1}Shinzo! Kengo!{\i0}
+Dialogue: 0,0:05:20.44,0:05:21.69,Default,,0,0,0,,{\i1}A hajóra visz?{\i0}
+Dialogue: 0,0:05:55.64,0:05:56.94,Default,,0,0,0,,Mutsumi!
+Dialogue: 0,0:06:08.95,0:06:11.28,Default,,0,0,0,,Kyoichiro! Futaba!
+Dialogue: 0,0:06:11.37,0:06:13.74,Default,,0,0,0,,Shinzo! Shion!
+Dialogue: 0,0:06:13.83,0:06:15.66,Default,,0,0,0,,Kengo! Nanao!
+Dialogue: 0,0:06:20.58,0:06:21.79,Default,,0,0,0,,{\i1}Mindegyikük?{\i0}
+Dialogue: 0,0:06:24.38,0:06:27.30,Default,,0,0,0,,{\i1}Ez apa ereje?{\i0}
+Dialogue: 0,0:06:37.89,0:06:39.94,Default,,0,0,0,,{\i1}A hajó letapogatása befejeződött.{\i0}
+Dialogue: 0,0:06:40.02,0:06:44.15,Default,,0,0,0,,{\i1}Nagy mennyiségű someinint észlelek,{\i0}\N{\i1}ami vírusként terjed a hajón.{\i0}
+Dialogue: 0,0:06:44.23,0:06:47.36,Default,,0,0,0,,{\i1}Egyidejű robbanás esetén{\i0}\N{\i1}nemcsak a hajó semmisül meg,{\i0}
+Dialogue: 0,0:06:47.44,0:06:50.11,Default,,0,0,0,,{\i1}de környező vizek is.{\i0}
+Dialogue: 0,0:06:50.20,0:06:52.32,Default,,0,0,0,,Sikerült kapcsolatba lépned\Na Yozakurákkal?
+Dialogue: 0,0:06:52.41,0:06:56.04,Default,,0,0,0,,{\i1}Elégtek a modulok,{\i0}\N{\i1}nem működik a kommunikáció.{\i0}
+Dialogue: 0,0:06:56.12,0:06:57.87,Default,,0,0,0,,Meg kell mentenünk őket.
+Dialogue: 0,0:06:57.95,0:06:59.12,Default,,0,0,0,,Várj, Ryu!
+Dialogue: 0,0:07:00.12,0:07:01.33,Default,,0,0,0,,Ne próbálj megállítani!
+Dialogue: 0,0:07:02.21,0:07:06.30,Default,,0,0,0,,Nem mehetünk oda,\Namíg nem tudjuk, mi folyik ott.
+Dialogue: 0,0:07:06.80,0:07:09.42,Default,,0,0,0,,Ebben az elnökkel értek egyet.
+Dialogue: 0,0:07:11.72,0:07:12.97,Default,,0,0,0,,Jó, hát legyen.
+Dialogue: 0,0:07:13.97,0:07:17.10,Default,,0,0,0,,Giga, vedd fel a kapcsolatot\Na kikötői irányítóközponttal!
+Dialogue: 0,0:07:17.18,0:07:19.43,Default,,0,0,0,,Kérd meg őket,\Nhogy terjesszék ki a blokádot!
+Dialogue: 0,0:07:19.52,0:07:20.85,Default,,0,0,0,,{\i1}Vettem!{\i0}
+Dialogue: 0,0:07:24.44,0:07:26.36,Default,,0,0,0,,A többit bízzuk rájuk!
+Dialogue: 0,0:07:27.36,0:07:30.03,Default,,0,0,0,,{\i1}Bármi történjék is,{\i0}\N{\i1}a jelenlegi helyzetben…{\i0}
+Dialogue: 0,0:07:31.40,0:07:33.16,Default,,0,0,0,,{\i1}az egyetlen, aki megmentheti őket…{\i0}
+Dialogue: 0,0:07:34.78,0:07:36.08,Default,,0,0,0,,{\i1}én vagyok!{\i0}
+Dialogue: 0,0:07:50.05,0:07:54.76,Default,,0,0,0,,Lemészároltad a fogadóbizottságot,\Nte vadember.
+Dialogue: 0,0:07:54.84,0:07:57.22,Default,,0,0,0,,Egyre jobban hasonlítasz Kyoichiróra.
+Dialogue: 0,0:07:57.31,0:07:59.93,Default,,0,0,0,,Ő is mindjárt itt lesz.
+Dialogue: 0,0:08:21.29,0:08:23.75,Default,,0,0,0,,Üdv itthon, Taiyo!
+Dialogue: 0,0:08:24.83,0:08:26.13,Default,,0,0,0,,Ideje vacsorázni.
+Dialogue: 0,0:08:26.63,0:08:27.96,Default,,0,0,0,,Ülj le!
+Dialogue: 0,0:08:40.01,0:08:41.89,Default,,0,0,0,,Mit tettél velük?
+Dialogue: 0,0:08:52.36,0:08:55.41,Default,,0,0,0,,Az én virágzásom az „álmok”.
+Dialogue: 0,0:08:57.32,0:08:58.95,Default,,0,0,0,,{\i1}Te is álmodtál, igaz?{\i0}
+Dialogue: 0,0:08:59.03,0:09:03.37,Default,,0,0,0,,{\i1}Egy tökéletes álmot,{\i0}\N{\i1}amiben nincs fájdalom és szenvedés.{\i0}
+Dialogue: 0,0:09:04.75,0:09:09.38,Default,,0,0,0,,Minden, amit beleng\Nez a cseresznyevirág-illat, az én álmom.
+Dialogue: 0,0:09:09.88,0:09:12.05,Default,,0,0,0,,Senki sem tud ellenállni neki.
+Dialogue: 0,0:09:12.13,0:09:16.76,Default,,0,0,0,,Téged kivéve,\Nmert Tsubomi vére folyik az ereidben.
+Dialogue: 0,0:09:20.68,0:09:23.93,Default,,0,0,0,,Változtasd vissza őket!
+Dialogue: 0,0:09:24.02,0:09:26.27,Default,,0,0,0,,Visszaváltoztattam.
+Dialogue: 0,0:09:26.77,0:09:29.40,Default,,0,0,0,,Olyanná, amilyennek a családomnak\Nlennie kellene.
+Dialogue: 0,0:09:30.36,0:09:31.86,Default,,0,0,0,,Ezt nevezed te családnak?
+Dialogue: 0,0:09:32.57,0:09:34.11,Default,,0,0,0,,A család…
+Dialogue: 0,0:09:37.70,0:09:39.32,Default,,0,0,0,,ASANO CSALÁDI SÍR
+Dialogue: 0,0:09:40.03,0:09:41.99,Default,,0,0,0,,A család…
+Dialogue: 0,0:09:43.66,0:09:47.42,Default,,0,0,0,,Tévedsz. Ilyen egy család, Taiyo.
+Dialogue: 0,0:09:49.54,0:09:51.46,Default,,0,0,0,,Ezt neked is tudnod kellene.
+Dialogue: 0,0:09:51.96,0:09:54.09,Default,,0,0,0,,A családok törékenyek és rövid életűek.
+Dialogue: 0,0:09:54.71,0:09:57.97,Default,,0,0,0,,Ezért döntöttem úgy,\Nhogy a semmiből teremtek egyet.
+Dialogue: 0,0:09:58.55,0:10:01.60,Default,,0,0,0,,Egy erős családot,\Namit nem lehet elpusztítani.
+Dialogue: 0,0:10:26.79,0:10:28.21,Default,,0,0,0,,Szóval elkéstem.
+Dialogue: 0,0:10:28.29,0:10:31.92,Default,,0,0,0,,Átkozott Kawashita!\NHogy merészelte ezt tenni…
+Dialogue: 0,0:10:32.00,0:10:34.71,Default,,0,0,0,,Ez a fiú az enyém.
+Dialogue: 0,0:10:39.84,0:10:41.43,Default,,0,0,0,,Visszahozlak.
+Dialogue: 0,0:10:46.93,0:10:48.23,Default,,0,0,0,,{\i1}Ez nem álom.{\i0}
+Dialogue: 0,0:10:49.10,0:10:50.23,Default,,0,0,0,,{\i1}Erre emlékszem.{\i0}
+Dialogue: 0,0:10:51.35,0:10:53.36,Default,,0,0,0,,{\i1}Azt hittem, csak képzelődöm.{\i0}
+Dialogue: 0,0:10:54.02,0:10:56.65,Default,,0,0,0,,A többit már elintézik a mentősök.
+Dialogue: 0,0:10:57.15,0:10:59.86,Default,,0,0,0,,{\i1}De biztos vagyok benne, hogy aznap…{\i0}
+Dialogue: 0,0:11:00.78,0:11:01.82,Default,,0,0,0,,{\i1}valaki…{\i0}
+Dialogue: 0,0:11:05.66,0:11:09.16,Default,,0,0,0,,Mindvégig vigyáztam rád.
+Dialogue: 0,0:11:10.46,0:11:12.63,Default,,0,0,0,,{\i1}Bármennyire is küzdöttem magamban,{\i0}
+Dialogue: 0,0:11:12.71,0:11:15.67,Default,,0,0,0,,{\i1}nem tudtam megtörni{\i0}\N{\i1}a Yozakura család karmikus körforgását.{\i0}
+Dialogue: 0,0:11:16.63,0:11:19.84,Default,,0,0,0,,{\i1}Ezért friss vérre volt szükségem.{\i0}
+Dialogue: 0,0:11:21.26,0:11:22.64,Default,,0,0,0,,{\i1}Nem volt nehéz.{\i0}
+Dialogue: 0,0:11:22.72,0:11:28.31,Default,,0,0,0,,{\i1}Ki illene jobban Mutsumihoz, mint egy{\i0}\N{\i1}ilyen egyszerű, hétköznapi helyi fiú.{\i0}
+Dialogue: 0,0:11:37.82,0:11:41.57,Default,,0,0,0,,{\i1}Én választottalak téged.{\i0}
+Dialogue: 0,0:11:49.41,0:11:51.04,Default,,0,0,0,,{\i1}Nem érdekel,{\i0}
+Dialogue: 0,0:11:51.62,0:11:54.83,Default,,0,0,0,,{\i1}kit kell feláldoznom,{\i0}\N{\i1}ha mindnyájatokért teszem.{\i0}
+Dialogue: 0,0:11:56.71,0:12:01.30,Default,,0,0,0,,Én tettelek erőssé.
+Dialogue: 0,0:12:08.35,0:12:12.56,Default,,0,0,0,,Igaz, a 10 000 virág bőséges virágzása\Nellen tud állni a virágzásomnak.
+Dialogue: 0,0:12:13.10,0:12:17.44,Default,,0,0,0,,De most, hogy felkavartak az emlékeid,\Nvédtelenné váltál.
+Dialogue: 0,0:12:18.07,0:12:20.90,Default,,0,0,0,,Most épp egy álomban vagy…
+Dialogue: 0,0:12:21.44,0:12:23.45,Default,,0,0,0,,amiből soha nem fogsz ébredni.
+Dialogue: 0,0:12:24.07,0:12:27.08,Default,,0,0,0,,Itt és most végre teljessé válik
+Dialogue: 0,0:12:27.16,0:12:29.99,Default,,0,0,0,,a tökéletes család, amit megálmodtam.
+Dialogue: 0,0:12:36.96,0:12:40.71,Default,,0,0,0,,Köszöntelek a Yozakura családban, Taiyo!
+Dialogue: 0,0:12:53.69,0:12:55.27,Default,,0,0,0,,A fenébe ezzel az illúzióval!
+Dialogue: 0,0:13:05.74,0:13:07.66,Default,,0,0,0,,Hadd mutassam meg…
+Dialogue: 0,0:13:08.32,0:13:12.54,Default,,0,0,0,,milyen az igazi boldogság,\Namikor senki sem hiányzik.
+Dialogue: 0,0:13:13.66,0:13:16.17,Default,,0,0,0,,Nyugodtan lazíthatsz.
+Dialogue: 0,0:13:16.67,0:13:19.09,Default,,0,0,0,,Nem te tehetsz róla.
+Dialogue: 0,0:13:19.17,0:13:20.63,Default,,0,0,0,,Semmi rosszat nem tettél.
+Dialogue: 0,0:13:21.13,0:13:26.05,Default,,0,0,0,,Add meg magad a boldog álomnak,\Namit oly régóta kerestél,
+Dialogue: 0,0:13:26.13,0:13:27.30,Default,,0,0,0,,Taiyo!
+Dialogue: 0,0:13:27.97,0:13:31.06,Default,,0,0,0,,Hogy megnőttél, Taiyo!
+Dialogue: 0,0:13:48.03,0:13:49.20,Default,,0,0,0,,{\i1}Anya!{\i0}
+Dialogue: 0,0:13:54.58,0:13:57.58,Default,,0,0,0,,Ne haragudj, hogy magadra hagytunk, Taiyo!
+Dialogue: 0,0:13:59.00,0:14:02.59,Default,,0,0,0,,{\an8}TANÉVNYITÓ ÜNNEPSÉG
+Dialogue: 0,0:14:14.56,0:14:15.56,Default,,0,0,0,,{\i1}Apa!{\i0}
+Dialogue: 0,0:14:16.60,0:14:19.60,Default,,0,0,0,,Hiányoztál, bátyó!
+Dialogue: 0,0:14:24.69,0:14:27.15,Default,,0,0,0,,NYOMD MEG!
+Dialogue: 0,0:14:27.95,0:14:30.07,Default,,0,0,0,,VESZTES - GYŐZTES
+Dialogue: 0,0:14:37.12,0:14:38.25,Default,,0,0,0,,{\i1}Hikaru!{\i0}
+Dialogue: 0,0:14:40.08,0:14:43.25,Default,,0,0,0,,Hagyd abba! Ne beszélj a családomról
+Dialogue: 0,0:14:43.34,0:14:46.55,Default,,0,0,0,,ilyen hamis képekkel és hangokkal!
+Dialogue: 0,0:14:47.05,0:14:48.59,Default,,0,0,0,,{\i1}Soha többé nem láthatom őket.{\i0}
+Dialogue: 0,0:14:48.67,0:14:50.30,Default,,0,0,0,,{\i1}Soha többé nem beszélhetek velük.{\i0}
+Dialogue: 0,0:14:50.38,0:14:51.93,Default,,0,0,0,,{\i1}Nem térhetek vissza.{\i0}
+Dialogue: 0,0:14:52.01,0:14:54.35,Default,,0,0,0,,Hiába bánok bármit is, már túl késő.
+Dialogue: 0,0:14:54.43,0:14:56.85,Default,,0,0,0,,Hiába fontosak nekem,\Nmár semmin sem változtathatok.
+Dialogue: 0,0:14:56.93,0:15:01.10,Default,,0,0,0,,{\i1}Imádkoztam, üvöltöttem, tomboltam, sírtam…{\i0}
+Dialogue: 0,0:15:04.07,0:15:05.48,Default,,0,0,0,,és elfogadtam.
+Dialogue: 0,0:15:06.15,0:15:09.70,Default,,0,0,0,,Akkor fogadd el újra
+Dialogue: 0,0:15:09.78,0:15:13.03,Default,,0,0,0,,a neked szánt jövőt!
+Dialogue: 0,0:15:13.12,0:15:19.12,Default,,0,0,0,,Így a fikció valósággá válik,\Na hazugságok pedig igazsággá.
+Dialogue: 0,0:15:22.54,0:15:24.09,Default,,0,0,0,,Majd meglátod…
+Dialogue: 0,0:15:32.34,0:15:33.43,Default,,0,0,0,,Megjöttem!
+Dialogue: 0,0:15:34.30,0:15:35.60,Default,,0,0,0,,Bátyó!
+Dialogue: 0,0:15:37.06,0:15:38.72,Default,,0,0,0,,Siess!
+Dialogue: 0,0:15:38.81,0:15:41.81,Default,,0,0,0,,Nanao körhintája baromi jó!
+Dialogue: 0,0:15:41.89,0:15:45.40,Default,,0,0,0,,Ejnye, Hikaru! Nézz a lábad elé!
+Dialogue: 0,0:15:45.48,0:15:47.61,Default,,0,0,0,,Hikaru tele van energiával.
+Dialogue: 0,0:15:47.69,0:15:51.15,Default,,0,0,0,,Két fiam van,\Nígy egy nyugodt percem sincs.
+Dialogue: 0,0:15:51.24,0:15:53.45,Default,,0,0,0,,Ezért örülök annyira, hogy egy olyan lány
+Dialogue: 0,0:15:53.53,0:15:56.99,Default,,0,0,0,,lett Taiyo menyasszonya, mint Mutsumi.
+Dialogue: 0,0:15:58.20,0:16:00.79,Default,,0,0,0,,Most nagy itt a nyüzsgés,\Nígy én is boldog vagyok.
+Dialogue: 0,0:16:00.87,0:16:03.83,Default,,0,0,0,,Momo úr, mit szólna egy italhoz ma este?
+Dialogue: 0,0:16:03.92,0:16:05.17,Default,,0,0,0,,Remek ötlet.
+Dialogue: 0,0:16:05.25,0:16:08.00,Default,,0,0,0,,Kibontok még egy üveg Yozakura Hóvihart.
+Dialogue: 0,0:16:08.09,0:16:12.30,Default,,0,0,0,,Hé, Taiyo! Hikaru! Azonnal gyertek vissza!
+Dialogue: 0,0:16:21.48,0:16:22.48,Default,,0,0,0,,{\i1}Nem.{\i0}
+Dialogue: 0,0:16:23.10,0:16:24.81,Default,,0,0,0,,{\i1}Ez nem a valóság.{\i0}
+Dialogue: 0,0:16:25.44,0:16:26.44,Default,,0,0,0,,{\i1}És mégis…{\i0}
+Dialogue: 0,0:16:29.61,0:16:31.40,Default,,0,0,0,,Gyere, bátyó!
+Dialogue: 0,0:16:41.79,0:16:42.79,Default,,0,0,0,,{\i1}A fenébe!{\i0}
+Dialogue: 0,0:16:58.26,0:17:00.81,Default,,0,0,0,,Bátyó…
+Dialogue: 0,0:17:07.81,0:17:12.86,Default,,0,0,0,,Jellemző rád\Nez az erőszakos belépő, Kyoichiro.
+Dialogue: 0,0:17:12.94,0:17:15.91,Default,,0,0,0,,Na, ülj csak le!
+Dialogue: 0,0:17:38.39,0:17:39.89,Default,,0,0,0,,Kyoichiro!
+Dialogue: 0,0:17:44.10,0:17:45.64,Default,,0,0,0,,Arakhné, az istennő hálója,
+Dialogue: 0,0:17:45.73,0:17:48.52,Default,,0,0,0,,a mindent lezáró, áttörhetetlen fal,
+Dialogue: 0,0:17:48.60,0:17:50.57,Default,,0,0,0,,egy titkos acélpóktechnika.
+Dialogue: 0,0:17:51.15,0:17:52.44,Default,,0,0,0,,Értem.
+Dialogue: 0,0:17:52.53,0:17:55.32,Default,,0,0,0,,Ezért nem érte el\Na cseresznyevirág illata,
+Dialogue: 0,0:17:55.40,0:17:58.70,Default,,0,0,0,,és ezért nem hatott rá a virágzásom.
+Dialogue: 0,0:17:59.95,0:18:03.24,Default,,0,0,0,,Látom, végre tökéletesítetted, Kyoichiro.
+Dialogue: 0,0:18:03.74,0:18:07.00,Default,,0,0,0,,Hiányoznak a napok,\Namiket a kidolgozásával töltöttünk.
+Dialogue: 0,0:18:07.08,0:18:10.84,Default,,0,0,0,,Ezt a képességet\Na család érdekében fejlesztettük ki.
+Dialogue: 0,0:18:10.92,0:18:13.55,Default,,0,0,0,,Vagyis nem erre való.
+Dialogue: 0,0:18:17.01,0:18:18.80,Default,,0,0,0,,Meg fogom védeni a családomat
+Dialogue: 0,0:18:18.88,0:18:21.97,Default,,0,0,0,,mindenféle gonosztól, és…
+Dialogue: 0,0:18:24.52,0:18:27.52,Default,,0,0,0,,mindattól, amit most tenni fogok.
+Dialogue: 0,0:18:29.27,0:18:30.48,Default,,0,0,0,,Csodálatos!
+Dialogue: 0,0:18:31.19,0:18:33.48,Default,,0,0,0,,Ez csodálatos, Kyoichiro!
+Dialogue: 0,0:18:37.07,0:18:40.03,Default,,0,0,0,,{\i1}Igaz, hogy nem tudom{\i0}\N{\i1}elpusztítani Arakhnét, az istennő hálóját.{\i0}
+Dialogue: 0,0:18:40.11,0:18:41.12,Default,,0,0,0,,{\i1}De…{\i0}
+Dialogue: 0,0:18:41.70,0:18:45.04,Default,,0,0,0,,{\i1}én tanítottalak meg{\i0}\N{\i1}a fonalak használatára.{\i0}
+Dialogue: 0,0:18:45.66,0:18:48.41,Default,,0,0,0,,{\i1}A fonaltechnikád maga a lelked.{\i0}
+Dialogue: 0,0:18:48.50,0:18:52.88,Default,,0,0,0,,{\i1}A szövés módjából látszik,{\i0}\N{\i1}mennyire szereted a családodat.{\i0}
+Dialogue: 0,0:18:53.46,0:18:57.30,Default,,0,0,0,,{\i1}Áttörni talán nem tudom,{\i0}\N{\i1}de kibontani igen,{\i0}
+Dialogue: 0,0:18:57.38,0:18:59.34,Default,,0,0,0,,{\i1}ahogy a lelkedet is.{\i0}
+Dialogue: 0,0:18:59.43,0:19:04.68,Default,,0,0,0,,{\i1}Az irántam érzett dühöd és gyűlöleted…{\i0}\N{\i1}Már nincs szükséged ilyen emlékekre.{\i0}
+Dialogue: 0,0:19:04.76,0:19:08.27,Default,,0,0,0,,{\i1}Nem kell többé azt gondolnod,{\i0}\N{\i1}hogy meg kell ölnöd.{\i0}
+Dialogue: 0,0:19:08.85,0:19:13.19,Default,,0,0,0,,{\i1}Mert mostantól szeretni fogsz.{\i0}
+Dialogue: 0,0:19:43.89,0:19:46.10,Default,,0,0,0,,Már kora reggel keményen dolgozol.
+Dialogue: 0,0:19:47.39,0:19:48.39,Default,,0,0,0,,Apa!
+Dialogue: 0,0:19:49.35,0:19:52.10,Default,,0,0,0,,Most velem harcolj egy kicsit!
+Dialogue: 0,0:19:59.28,0:20:03.74,Default,,0,0,0,,A reflexeid nem rosszak,\Nde túl kiszámíthatóan mozogsz.
+Dialogue: 0,0:20:03.82,0:20:07.79,Default,,0,0,0,,Egyetlen fonallal\Nkell kivédened több támadást.
+Dialogue: 0,0:20:07.87,0:20:10.66,Default,,0,0,0,,Védekező mozdulatokkal\Nkerekedj az ellenfél fölé!
+Dialogue: 0,0:20:14.96,0:20:19.17,Default,,0,0,0,,Így időt nyerhetsz a visszatámadásra.
+Dialogue: 0,0:20:25.05,0:20:28.51,Default,,0,0,0,,Ez az, fiam! Gyorsan tanulsz.
+Dialogue: 0,0:20:28.60,0:20:29.68,Default,,0,0,0,,És most…
+Dialogue: 0,0:20:29.77,0:20:31.10,Default,,0,0,0,,Mi?
+Dialogue: 0,0:20:31.73,0:20:33.35,Default,,0,0,0,,Azta!
+Dialogue: 0,0:20:33.44,0:20:35.81,Default,,0,0,0,,Acélpókkesztyű.
+Dialogue: 0,0:20:35.90,0:20:38.90,Default,,0,0,0,,Jobban illik hozzád,\Nmint a pisztoly vagy a kés, nem?
+Dialogue: 0,0:20:38.98,0:20:41.03,Default,,0,0,0,,Egyébként az enyém is ilyen.
+Dialogue: 0,0:20:41.11,0:20:42.11,Default,,0,0,0,,Mi?
+Dialogue: 0,0:20:42.19,0:20:45.61,Default,,0,0,0,,{\i1}Eddig csupasz kézzel gyakoroltál,{\i0}
+Dialogue: 0,0:20:45.70,0:20:48.12,Default,,0,0,0,,{\i1}így a fonalak{\i0}\N{\i1}legapróbb rezdüléseit is érezted.{\i0}
+Dialogue: 0,0:20:48.20,0:20:51.75,Default,,0,0,0,,{\i1}És ennek köszönhetően{\i0}\N{\i1}még élesebbé váltak a fonalaid.{\i0}
+Dialogue: 0,0:20:51.83,0:20:55.92,Default,,0,0,0,,{\i1}A következő lépés{\i0}\N{\i1}megérteni ezen erő igazi természetét.{\i0}
+Dialogue: 0,0:20:56.92,0:20:59.92,Default,,0,0,0,,Mire akarod használni ezt az erőt?
+Dialogue: 0,0:21:00.59,0:21:03.88,Default,,0,0,0,,Arra, hogy mindenkit megvédjek.
+Dialogue: 0,0:21:04.59,0:21:06.22,Default,,0,0,0,,Valóban?
+Dialogue: 0,0:21:06.30,0:21:09.39,Default,,0,0,0,,Kettévágják az ellenségeidet,\Nés körülölelik a szövetségeseidet.
+Dialogue: 0,0:21:09.89,0:21:14.69,Default,,0,0,0,,A kesztyű nemcsak fegyver,\Nde a kezedet is védi.
+Dialogue: 0,0:21:14.77,0:21:16.98,Default,,0,0,0,,Szívem-lelkem beleadtam a szövésébe,
+Dialogue: 0,0:21:17.06,0:21:19.52,Default,,0,0,0,,hogy ne essen bajod.
+Dialogue: 0,0:21:19.61,0:21:21.65,Default,,0,0,0,,Vigyázz rá!
+Dialogue: 0,0:21:21.73,0:21:23.53,Default,,0,0,0,,Köszönöm, apa.
+Dialogue: 0,0:21:24.32,0:21:26.11,Default,,0,0,0,,Becsben fogom tartani.
+Dialogue: 0,0:21:34.91,0:21:38.38,Default,,0,0,0,,Azért az agyamat nem kell átmosnod, apa.
+Dialogue: 0,0:21:38.88,0:21:40.00,Default,,0,0,0,,Végül is…
+Dialogue: 0,0:21:40.67,0:21:42.25,Default,,0,0,0,,szeretlek.
+Dialogue: 0,0:21:42.76,0:21:44.13,Default,,0,0,0,,Akkor és most is.
+Dialogue: 0,0:21:47.18,0:21:51.18,Default,,0,0,0,,Ezért kellett volna megállítanom téged,\Nde nem tudtam megtenni.
+Dialogue: 0,0:21:51.68,0:21:52.68,Default,,0,0,0,,Mert…
+Dialogue: 0,0:21:52.77,0:21:57.69,Default,,0,0,0,,reméltem, hogy talán visszajön a családom.
+Dialogue: 0,0:21:58.73,0:22:00.82,Default,,0,0,0,,{\i1}Pedig tudtam, hogy sosem fog megtörténni.{\i0}
+Dialogue: 0,0:22:01.73,0:22:03.03,Default,,0,0,0,,Én sem vagyok más, mint…
+Dialogue: 0,0:22:03.11,0:22:04.24,Default,,0,0,0,,…te, apa.
+Dialogue: 0,0:22:07.40,0:22:10.87,Default,,0,0,0,,Vessünk véget ennek… a saját érdekünkben.
+Dialogue: 0,0:22:33.26,0:22:35.56,Default,,0,0,0,,Ég veled, apa!
+Dialogue: 0,0:24:16.91,0:24:18.91,Default,,0,0,0,,A feliratot fordította: Németh Zsófia
+
