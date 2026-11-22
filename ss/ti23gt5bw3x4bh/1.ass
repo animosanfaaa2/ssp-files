@@ -1,0 +1,86 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,75,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.8,3.8,2,50,50,38,1
+Style: Defaultv2,LTFinnegan Medium,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.3,1.5,2,135,135,53,0
+Style: signsv2,LTFinnegan Medium,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,1.5,8,10,10,53,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.51,0:00:02.80,Defaultv2,,0,0,0,,{\fs100}{\c&H2EAFFE&\4c&HFFFFFF&\3c&HFFFFFF&}U{\c&H1ECD8A&}m{\c&HEBB477&}a{\c&HA987F5&}y{\c&H2EAFFE&}u{\c&H1ECD8A&}r{\c&HEBB477&}u: {\c&HA987F5&\3c&HEBDCCD&}Fu{\c&HF08BA4&}l{\c&H10D2F5&}l {\c&HEBB477&}G{\c&H1ECD8B&}a{\c&H2EAFFF&}te{\c&H6689FF&}!\N
+Dialogue: 0,0:00:03.54,0:00:07.16,signsv2,,0,0,0,,Today, we're going to show what makes Tracen so amazing!
+Dialogue: 0,0:00:03.03,0:00:14.96,Defaultv2,,0,0,0,,{\fad(300,300)}{\fs55\pos(440,840)\3c&HA95EE3&\4c&HDED3F7&}Sakura Bakushin O
+Dialogue: 0,0:00:03.03,0:00:14.96,Defaultv2,,0,0,0,,{\fad(300,300)}{\fs55\pos(986,840)\3c&H612AC0&\4c&HD9C732&}North Flight
+Dialogue: 0,0:00:03.03,0:00:14.96,Defaultv2,,0,0,0,,{\fad(300,300)}{\fs55\pos(1556,840)\3c&H537BAB&\4c&HEFD8C6&}Yukino Bijin
+Dialogue: 0,0:00:07.60,0:00:10.94,signsv2,,0,0,0,,That's why we're all dressed to impress!
+Dialogue: 0,0:00:10.94,0:00:14.40,signsv2,,0,0,0,,We put on the glitz 'n' glam like real city girls!
+Dialogue: 0,0:00:14.40,0:00:18.70,signsv2,,0,0,0,,Full speed to the presentation area!\NBakushin, Bakushin!
+Dialogue: 0,0:00:19.57,0:00:21.28,Defaultv2,,0,0,0,,Okay!
+Dialogue: 0,0:00:22.95,0:00:26.20,Defaultv2,,0,0,0,,Our intro shot for the Tracen PR video went great!
+Dialogue: 0,0:00:26.75,0:00:29.83,Defaultv2,,0,0,0,,Let's keep it up and blast through the rest!
+Dialogue: 0,0:00:29.83,0:00:31.25,Defaultv2,,0,0,0,,Not so fast!
+Dialogue: 0,0:00:31.25,0:00:32.29,Defaultv2,,0,0,0,,Huh?
+Dialogue: 0,0:00:32.44,0:00:37.78,Defaultv2,,0,0,0,,{\fad(300,300)}{\fs55\pos(422,140)\3c&H401EA5&\4c&HD19B24&}Seeking The Pearl
+Dialogue: 0,0:00:32.44,0:00:37.78,Defaultv2,,0,0,0,,{\fad(300,300)}{\fs55\pos(1560,140)\3c&H676664&\4c&H7B166E&}Shinko Windy
+Dialogue: 0,0:00:32.29,0:00:35.59,Defaultv2,,0,0,0,,We are the twin twisters that chomp up the world!
+Dialogue: 0,0:00:35.59,0:00:37.63,Defaultv2,,0,0,0,,Worldwide Windy!
+Dialogue: 0,0:00:38.26,0:00:42.34,Defaultv2,,0,0,0,,Nobody shoots a video without the infamous Windy!
+Dialogue: 0,0:00:42.34,0:00:45.26,Defaultv2,,0,0,0,,Move over for the real stars of the show!
+Dialogue: 0,0:00:45.26,0:00:46.60,Defaultv2,,0,0,0,,Oh no!
+Dialogue: 0,0:00:46.72,0:00:48.43,Defaultv2,,0,0,0,,What are they scheming?
+Dialogue: 0,0:00:48.43,0:00:51.67,Defaultv2,,0,0,0,,The whole world will witness true fashion
+Dialogue: 0,0:00:51.67,0:00:53.98,Defaultv2,,0,0,0,,once we're done with this PR vid!
+Dialogue: 0,0:00:53.98,0:00:56.23,Defaultv2,,0,0,0,,Yup, we're hijacking your movie!
+Dialogue: 0,0:00:56.23,0:00:57.40,Defaultv2,,0,0,0,,Now!
+Dialogue: 0,0:00:57.61,0:01:00.61,Defaultv2,,0,0,0,,Prepare to be amazed!
+Dialogue: 0,0:01:01.11,0:01:02.91,Defaultv2,,0,0,0,,You won't get away with this!
+Dialogue: 0,0:01:02.91,0:01:05.24,Defaultv2,,0,0,0,,Hwaaa, what a pickle!
+Dialogue: 0,0:01:05.24,0:01:06.91,Defaultv2,,0,0,0,,Hold it right there!
+Dialogue: 0,0:01:09.10,0:01:16.57,Defaultv2,,0,0,0,,{\fad(300,0)}{\fs55\pos(570,930)\3c&H6E23D8&\4c&HB650C6&}Biko Pegasus
+Dialogue: 0,0:01:09.38,0:01:11.31,signsv2,,0,0,0,,Champion of justice and good kids
+Dialogue: 0,0:01:11.31,0:01:12.92,signsv2,,0,0,0,,I'm Justice Biko!
+Dialogue: 0,0:01:12.92,0:01:14.92,signsv2,,0,0,0,,Champion of hot pot and chanko
+Dialogue: 0,0:01:12.85,0:01:16.57,Defaultv2,,0,0,0,,{\fad(300,0)}{\fs55}{\pos(1465,930)\3c&HCB9228&\4c&H8C5CF2&}Hishi Akebono
+Dialogue: 0,0:01:14.92,0:01:16.54,signsv2,,0,0,0,,I'm Delicious Bono!
+Dialogue: 0,0:01:16.54,0:01:18.92,Defaultv2,,0,0,0,,So the dum-dum heroes showed up!
+Dialogue: 0,0:01:18.92,0:01:21.80,Defaultv2,,0,0,0,,Your evil ambitions end here, baddies!
+Dialogue: 0,0:01:21.80,0:01:23.30,Defaultv2,,0,0,0,,Charge!
+Dialogue: 0,0:01:25.60,0:01:27.64,Defaultv2,,0,0,0,,Missed me!
+Dialogue: 0,0:01:28.85,0:01:31.31,Defaultv2,,0,0,0,,You're no match for us!
+Dialogue: 0,0:01:31.31,0:01:32.10,Defaultv2,,0,0,0,,Take this!
+Dialogue: 0,0:01:35.27,0:01:37.69,Defaultv2,,0,0,0,,Not looking good!
+Dialogue: 0,0:01:37.69,0:01:39.78,Defaultv2,,0,0,0,,Don't give up, Biko!
+Dialogue: 0,0:01:39.78,0:01:42.03,Defaultv2,,0,0,0,,You can do it, Akebono!
+Dialogue: 0,0:01:44.53,0:01:48.16,Defaultv2,,0,0,0,,Raaah! Let's do this, Bono!\NRight!
+Dialogue: 0,0:01:48.16,0:01:51.50,Defaultv2,,0,0,0,,Carotene Charge Double!
+Dialogue: 0,0:01:53.79,0:01:56.46,Defaultv2,,0,0,0,,What on earth?!
+Dialogue: 0,0:01:56.75,0:01:57.71,Defaultv2,,0,0,0,,Ultimate technique...
+Dialogue: 0,0:01:57.71,0:02:00.67,Defaultv2,,0,0,0,,Pegasus Puuuuunch!
+Dialogue: 0,0:02:05.79,0:02:08.81,Defaultv2,,0,0,0,,Ugh, you haven't won yet...
+Dialogue: 0,0:02:08.81,0:02:10.43,Defaultv2,,0,0,0,,Now, Bono!
+Dialogue: 0,0:02:10.85,0:02:12.56,Defaultv2,,0,0,0,,Ultimate technique...
+Dialogue: 0,0:02:12.56,0:02:15.31,Defaultv2,,0,0,0,,Hot Pot Partyyy!
+Dialogue: 0,0:02:15.31,0:02:17.81,Defaultv2,,0,0,0,,That's taro soup from Iwate!
+Dialogue: 0,0:02:19.69,0:02:22.65,Defaultv2,,0,0,0,,Now that's buono!
+Dialogue: 0,0:02:24.61,0:02:27.74,Defaultv2,,0,0,0,,And so, our mighty heroes have once again saved the day!
+Dialogue: 0,0:02:28.16,0:02:32.64,Defaultv2,,0,0,0,,Keep on fighting for peace and justice, Biko and Bono!
+Dialogue: 0,0:02:30.58,0:02:32.66,signsv2,,0,0,0,,That wraps up our PR video!
+Dialogue: 0,0:02:34.10,0:02:37.76,Defaultv2,,0,0,0,,Olé! Olé! Samba! Legs going crazy, hands up!
+Dialogue: 0,0:02:37.76,0:02:39.69,Defaultv2,,0,0,0,,Give in and let the dance flow!
+Dialogue: 0,0:02:39.69,0:02:40.65,Defaultv2,,0,0,0,,Yaaaay!
+Dialogue: 0,0:02:40.65,0:02:45.78,Defaultv2,,0,0,0,,Olé! Olé! Keep up!\NDon't stop, we've got a lot more song to go!
+Dialogue: 0,0:02:45.78,0:02:47.19,Defaultv2,,0,0,0,,{\i1}(Here we go, samba!)
+Dialogue: 0,0:02:47.19,0:02:49.60,Defaultv2,,0,0,0,,Samba! Every day a samba!
+Dialogue: 0,0:02:49.60,0:02:52.78,Defaultv2,,0,0,0,,Uma, Uma! Samba! Samba! Samba!
+Dialogue: 0,0:02:52.78,0:02:53.54,Defaultv2,,0,0,0,,{\i1}(Uma samba?!)
+Dialogue: 0,0:02:53.54,0:02:55.67,Defaultv2,,0,0,0,,Samba! Let's go faster! Samba!
+Dialogue: 0,0:02:55.67,0:02:59.47,Defaultv2,,0,0,0,,Come on, come on! Samba!\NSamba! Samba! Samba!
+Dialogue: 0,0:02:59.47,0:03:01.86,Defaultv2,,0,0,0,,Yuru yuru samba!
+
