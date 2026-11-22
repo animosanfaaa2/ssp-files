@@ -1,0 +1,412 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: sign_generic,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,18,1
+Style: high,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,50,1
+Style: highitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,50,1
+Style: screen_text,Verdana,20,&H00F0E8E4,&H000000FF,&H006F635C,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.69,screen_text,Sign,0,0,0,,{\fs15\c&HDCD5CC&\3c&H59534F&\pos(215.333,85.334)}Tzedakah Guild
+Dialogue: 0,0:00:00.00,0:00:02.69,screen_text,Sign,0,0,0,,{\b0\fs12\an1\c&HDCD5CC&\3c&H736359&\pos(151.333,154.001)}Jishuka
+Dialogue: 0,0:00:00.00,0:00:02.69,screen_text,Sign,0,0,0,,{\b0\fs10\an1\c&HEEEAE8&\3c&H736763&\pos(366,154.001)}Global Rank
+Dialogue: 0,0:00:00.00,0:00:02.69,screen_text,Sign,0,0,0,,{\b0\fs12\an1\c&HDCD5CC&\3c&H736359&\pos(150,223.001)}Pon
+Dialogue: 0,0:00:00.00,0:00:02.69,screen_text,Sign,0,0,0,,{\b0\fs12\an1\c&HDCD5CC&\3c&H736359&\pos(147.333,289.667)}Regas
+Dialogue: 0,0:00:00.00,0:00:02.69,screen_text,Sign,0,0,0,,{\b0\fs10\an1\c&HEEEAE8&\3c&H736763&\pos(366.667,221.334)}Global Rank
+Dialogue: 0,0:00:00.00,0:00:02.69,screen_text,Sign,0,0,0,,{\b0\fs10\an1\c&HEEEAE8&\3c&H736763&\pos(368,289.334)}Global Rank
+Dialogue: 0,0:00:04.40,0:00:07.65,screen_text,Sign,0,0,0,,{\fs28\c&HDCD5CC&\3c&H59534F&\move(143.333,60,143.333,-26,0,3250)}Tzedakah Guild
+Dialogue: 0,0:00:04.40,0:00:07.65,screen_text,Sign,0,0,0,,{\b0\fs23\an1\c&HDED0C3&\3c&H5E5550&\move(28,180.668,28,94.668,0,3250)}Jishuka
+Dialogue: 0,0:00:04.40,0:00:07.65,screen_text,Sign,0,0,0,,{\b0\fs23\an1\c&HDED0C3&\3c&H5E5550&\move(20.667,298.001,20.667,212,0,3250)}Pon
+Dialogue: 0,0:00:04.40,0:00:07.65,screen_text,Sign,0,0,0,,{\b0\fs23\an1\c&HDED0C3&\3c&H5E5550&\move(20.667,415.333,20.667,329.333,0,3250)}Regas
+Dialogue: 0,0:00:04.40,0:00:07.65,screen_text,Sign,0,0,0,,{\b0\fs17\an1\c&HDED0C3&\3c&H5E5550&\move(406.667,183.335,406.667,97.335,0,3250)}Global Rank
+Dialogue: 0,0:00:04.40,0:00:07.65,screen_text,Sign,0,0,0,,{\b0\fs17\an1\c&HDED0C3&\3c&H5E5550&\move(406.667,298.335,406.667,212.335,0,3250)}Global Rank
+Dialogue: 0,0:00:04.40,0:00:07.65,screen_text,Sign,0,0,0,,{\b0\fs17\an1\c&HDED0C3&\3c&H5E5550&\move(406.667,415.335,406.667,329.335,0,3250)}Global Rank
+Dialogue: 0,0:00:04.83,0:00:07.65,italics,Grid,0,0,0,,Every one of them is above level 200?!
+Dialogue: 1,0:00:07.65,0:00:10.65,italics,Grid,0,0,0,,{\i0}And{\i1} they're all top-ranked players?!
+Dialogue: 0,0:00:07.65,0:00:08.48,screen_text,Sign,0,0,0,,{\fs32\c&HE3E2E0&\3c&H5C5652&\frz356.5\pos(187.332,44.667)\frx12\fry6}Tzedakah Guild
+Dialogue: 0,0:00:07.65,0:00:08.48,screen_text,Sign,0,0,0,,{\an1\b0\fs32\c&HE3E2E0&\3c&H5C5652&\frz356.5\pos(39.332,216)\frx10\fry2}Jishuka
+Dialogue: 0,0:00:07.65,0:00:08.48,screen_text,Sign,0,0,0,,{\an1\b0\fs15\c&HE3E2E0&\3c&H5C5652&\frz0.9709\frx6\fry16\pos(486.665,216)}Global Ranking
+Dialogue: 0,0:00:08.48,0:00:09.29,screen_text,Sign,0,0,0,,{\an1\b0\fs20\c&HCDC8C4&\3c&H534C47&\frz7.341\frx18\fry324\pos(51.332,60)}Jishuka
+Dialogue: 0,0:00:08.48,0:00:09.29,screen_text,Sign,0,0,0,,{\an1\b0\fs20\c&HCDC8C4&\3c&H534C47&\frx18\fry324\pos(33.332,194.667)\frz3.011}Pon
+Dialogue: 0,0:00:08.48,0:00:09.29,screen_text,Sign,0,0,0,,{\an1\b0\fs20\c&HCDC8C4&\3c&H534C47&\pos(13.999,334.667)\frz357.3\frx10\fry322}Regas
+Dialogue: 0,0:00:08.48,0:00:09.29,screen_text,Sign,0,0,0,,{\an1\b0\fs19\c&HCDC8C4&\3c&H534C47&\frx14\fry332\frz4.719\pos(405.999,161.334)}Global Ranking
+Dialogue: 0,0:00:08.48,0:00:09.29,screen_text,Sign,0,0,0,,{\an1\b0\fs19\c&HCDC8C4&\3c&H534C47&\pos(396.666,353.334)\frx0\fry334\frz357.6}Global Ranking
+Dialogue: 0,0:00:09.29,0:00:10.23,screen_text,Sign,0,0,0,,{\an1\b0\fs34\c&HCDC8C4&\3c&H534C47&\pos(39.332,172)}Regas
+Dialogue: 0,0:00:09.29,0:00:10.23,screen_text,Sign,0,0,0,,{\an1\b0\fs14\c&HCDC8C4&\3c&H534C47&\frx2\fry22\pos(507.999,168.667)}Global Ranking
+Dialogue: 0,0:00:09.29,0:00:10.23,screen_text,Sign,0,0,0,,{\an1\b0\fs14\c&HCDC8C4&\3c&H534C47&\pos(500.666,18.667)\frz353.5\frx12\fry26}Global Ranking
+Dialogue: 0,0:00:09.29,0:00:10.23,screen_text,Sign,0,0,0,,{\an1\b0\fs14\c&HCDC8C4&\3c&H534C47&\frx2\fry22\pos(518.666,320.667)\frz7.052}Global Ranking
+Dialogue: 0,0:00:11.71,0:00:13.95,screen_text,Sign,0,0,0,,{\b0\fs26\an1\c&HC7C2BD&\3c&H504843&\fad(500,0)\pos(36.666,38.001)}Duval
+Dialogue: 0,0:00:11.71,0:00:13.95,screen_text,Sign,0,0,0,,{\b0\fs16\an1\c&HC7C2BD&\3c&H5D5752&\fad(500,0)\pos(415.333,41.335)}Global Rank
+Dialogue: 0,0:00:11.71,0:00:13.95,screen_text,Sign,0,0,0,,{\b0\fs26\an1\c&HC7C2BD&\3c&H504843&\fad(500,0)\pos(32.666,158.668)}Grid
+Dialogue: 0,0:00:11.71,0:00:13.95,screen_text,Sign,0,0,0,,{\b0\fs16\an1\c&HC7C2BD&\3c&H5D5752&\fad(500,0)\pos(402.666,159.335)}Global Rank
+Dialogue: 0,0:00:11.71,0:00:13.95,screen_text,Sign,0,0,0,,{\b0\fs16\an1\c&HC7C2BD&\3c&H5D5752&\fad(500,0)\pos(499.333,159.335)}Unranked
+Dialogue: 0,0:00:13.95,0:00:15.70,italics,Grid,0,0,0,,Shit!
+Dialogue: 0,0:00:17.45,0:00:19.02,Default,Toban,0,0,0,,Level 95?
+Dialogue: 0,0:00:19.02,0:00:20.97,Default,Vantner,0,0,0,,Is he a noob?\NOr does he just suck?
+Dialogue: 0,0:00:23.29,0:00:25.61,Default,Regas,0,0,0,,Don't worry, Grid-san.
+Dialogue: 0,0:00:25.61,0:00:27.37,Default,Regas,0,0,0,,It's fine!
+Dialogue: 0,0:00:27.37,0:00:30.69,Default,Grid,0,0,0,,Macho! You're such a nice guy!
+Dialogue: 0,0:00:30.69,0:00:33.01,Default,Regas,0,0,0,,Keep a tight grip on that shield, okay?
+Dialogue: 0,0:00:33.84,0:00:35.05,Default,Regas,0,0,0,,Off you go!
+Dialogue: 0,0:01:01.26,0:01:02.79,sign_generic,Sign,0,0,0,,{\fad(51,0)\bord3\blur2\an1\fs17\b1\fnGeorgia\c&H095DF8&\3c&HBFBEC1&\t(0,1469,\fs16)\move(365.999,253.999,359.333,248.667,0,1450)}O{\c&H0A27EB&}v{\c&H1828CE&}e{\c&H1026F3&\}r{\c&H1705C3&}g{\c&H1306A0&}e{\c&H0F028F&}a{\c&H090544&}r{\c&H211D2F&}e{\c&H000000&}d
+Dialogue: 0,0:01:02.79,0:01:05.89,sign_generic,Sign,0,0,0,,{\fad(0,1080)\bord3\blur2\an1\fs16\b1\fnGeorgia\c&H095DF8&\3c&HBFBEC1&\t(0,273,\3c&HFEFEFE&)\t(0,273,\c&H252525&)\pos(359.333,248.667)}O{\c&H0A27EB&\t(0,273,\c&H666767&)}v{\c&H1828CE&\t(0,273,\c&H363636&)}e{\c&H1026F3&\t(0,273,\c&H7E7E7E&)}r{\c&H1705C3&\t(0,273,\c&H5E5E5E&)}g{\c&H1306A0&\t(0,273,\c&H252525&)}e{\c&H0F028F&\t(0,273,\c&H666767&)}a{\c&H090544&\t(0,273,\c&H363636&)}r{\c&H211D2F&\t(0,273,\c&H7E7E7E&)}e{\c&H000000&\t(0,273,\c&H5E5E5E&)}d
+Dialogue: 0,0:02:12.06,0:02:13.73,Default,Regas,0,0,0,,Here I go!
+Dialogue: 0,0:02:21.13,0:02:24.12,Default,Malaxus,0,0,0,,You threw your lifeline right at me?
+Dialogue: 0,0:02:25.94,0:02:27.08,Default,Regas,0,0,0,,Take the dogs, Grid-san!
+Dialogue: 0,0:02:27.08,0:02:29.37,Default,Grid,0,0,0,,I'm not a petsitter!
+Dialogue: 0,0:02:41.40,0:02:46.22,Default,Malaxus,0,0,0,,Fools! No attacks can \Nbreak through my defenses!
+Dialogue: 0,0:02:47.37,0:02:48.83,Default,Malaxus,0,0,0,,What speed!
+Dialogue: 0,0:02:52.50,0:02:55.19,Default,Malaxus,0,0,0,,He's changing his target with each punch!
+Dialogue: 0,0:02:56.19,0:02:57.99,Default,Regas,0,0,0,,Penetrating Fist!
+Dialogue: 0,0:03:00.33,0:03:04.45,Default,Malaxus,0,0,0,,Impudent maggots!
+Dialogue: 0,0:03:10.58,0:03:13.29,Default,Vantner,0,0,0,,You did it! Nice work, Regas!
+Dialogue: 0,0:03:17.05,0:03:18.08,Default,Toban,0,0,0,,Not yet!
+Dialogue: 0,0:03:18.08,0:03:22.47,Default,Toban,0,0,0,,If we can't deal with his shield,\Nhe'll just recover again!
+Dialogue: 0,0:03:23.05,0:03:28.23,Default,Malaxus,0,0,0,,You maggots cannot break my barrier...
+Dialogue: 0,0:03:29.53,0:03:33.77,Default,Jishuka,0,0,0,,Sorry, but I've figured out how \Nthat cape of yours works.
+Dialogue: 0,0:03:34.52,0:03:37.40,Default,Jishuka,0,0,0,,You can't block attacks \Nthat catch you off-guard.
+Dialogue: 0,0:03:37.40,0:03:38.82,Default,Jishuka,0,0,0,,Which means...
+Dialogue: 0,0:03:42.24,0:03:46.12,Default,Jishuka,0,0,0,,You need to focus your \Nshield when you attack.
+Dialogue: 0,0:03:46.12,0:03:48.37,Default,Jishuka,0,0,0,,And if I don't give you\Na chance to focus...
+Dialogue: 0,0:03:49.20,0:03:51.08,Default,Regas,0,0,0,,Yellow Dragon Fangs!
+Dialogue: 0,0:03:56.89,0:03:58.09,Default,Pon,0,0,0,,Not bad!
+Dialogue: 0,0:03:58.09,0:04:01.30,Default,Vantner,0,0,0,,Leave the rest to us!
+Dialogue: 0,0:04:26.91,0:04:28.41,Default,Malaxus,0,0,0,,Another insect?
+Dialogue: 0,0:04:33.75,0:04:36.96,Default,Malaxus,0,0,0,,You damned maggots!
+Dialogue: 0,0:05:11.45,0:05:15.91,Default,Malaxus,0,0,0,,Do not underestimate my magic!
+Dialogue: 0,0:05:15.91,0:05:17.58,Default,Malaxus,0,0,0,,Divine Punishment!
+Dialogue: 0,0:05:27.60,0:05:29.47,Default,Malaxus,0,0,0,,Die! Die!
+Dialogue: 0,0:05:29.47,0:05:32.64,Default,Malaxus,0,0,0,,This is the power of Yatan!
+Dialogue: 0,0:05:34.94,0:05:37.85,Default,Jishuka,0,0,0,,I won't let my comrades die.
+Dialogue: 0,0:05:38.26,0:05:40.52,Default,Jishuka,0,0,0,,I'll stop you right here...
+Dialogue: 0,0:05:41.07,0:05:43.30,Default,Jishuka,0,0,0,,even if it takes everything I've got!
+Dialogue: 0,0:05:50.20,0:05:52.91,Default,Jishuka,0,0,0,,Burn within immortal fire!
+Dialogue: 0,0:05:56.25,0:05:58.06,Default,Jishuka,0,0,0,,Phoenix...
+Dialogue: 0,0:06:01.16,0:06:03.96,Default,Jishuka,0,0,0,,Arrow!
+Dialogue: 0,0:06:24.55,0:06:27.57,Default,Malaxus,0,0,0,,You're finished, maggots!
+Dialogue: 0,0:06:32.68,0:06:34.28,Default,Jishuka,0,0,0,,Is this it?
+Dialogue: 0,0:06:39.96,0:06:42.50,Default,Grid,0,0,0,,Hey, don't let him beat you!
+Dialogue: 0,0:06:42.50,0:06:44.56,Default,Grid,0,0,0,,You're supposed to be the strongest guild!
+Dialogue: 0,0:06:45.84,0:06:48.47,screen_text,Sign,0,0,0,,{\fs15\b0\c&HC7A7C8&\3c&H835B7F&\move(-32.333,243.333,130.333,243.333,0,2630)}Maximum Mana
+Dialogue: 0,0:06:45.84,0:06:48.47,screen_text,Sign,0,0,0,,{\fs15\b0\c&HE1C7E8&\3c&H8B6A92&\move(149.333,243.333,311.333,243.333,0,2630)}Defense
+Dialogue: 0,0:06:45.84,0:06:48.47,screen_text,Sign,0,0,0,,{\fs15\b0\c&HE1C7E8&\3c&H996EA1&\move(327.666,243.333,489.667,243.333,0,2630)}Physical Attack
+Dialogue: 0,0:06:45.84,0:06:48.47,screen_text,Sign,0,0,0,,{\fs15\b0\c&HDFBAE5&\3c&H9E61AF&\move(508.666,243.333,670.667,243.333,0,2630)}Stamina
+Dialogue: 0,0:06:47.03,0:06:49.16,Default,Grid,0,0,0,,My maximum mana has increased!
+Dialogue: 0,0:06:49.67,0:06:50.66,Default,Grid,0,0,0,,If I try now...
+Dialogue: 0,0:06:51.43,0:06:54.56,Default,Malaxus,0,0,0,,Enjoy your last moments!
+Dialogue: 0,0:06:55.43,0:06:58.39,Default,Malaxus,0,0,0,,Let me hear your screams as you perish!
+Dialogue: 0,0:07:15.03,0:07:17.43,Default,Grid,0,0,0,,Let's end this already!
+Dialogue: 0,0:07:23.50,0:07:25.58,Default,Grid,0,0,0,,Pagma's Sword Dance!
+Dialogue: 0,0:07:30.97,0:07:31.98,Default,Grid,0,0,0,,Satsu!
+Dialogue: 0,0:07:33.93,0:07:38.78,Default,Malaxus,0,0,0,,H-How... How could I be defeated?
+Dialogue: 0,0:07:42.62,0:07:46.77,screen_text,Sign,0,0,0,,{\fad(92,0)\b0\frz352.8\move(338,120,316,120,0,4137)\fax0.15\frx2\fry16}You have defeated Malaxus,\NThe Sixth Servant of Yatan
+Dialogue: 0,0:07:42.77,0:07:46.77,italics,System,0,0,0,,You are now permanently an \Nenemy of the Yatan Church.
+Dialogue: 0,0:07:47.11,0:07:51.65,italics,System,0,0,0,,Party leader Jishuka has received \N3,820,000 gold as a reward.
+Dialogue: 0,0:07:51.65,0:07:52.79,italics,System,0,0,0,,Items dropped:
+Dialogue: 0,0:07:52.79,0:07:54.46,italics,System,0,0,0,,8x Blessed Weapon Enhancement Stones,
+Dialogue: 0,0:07:54.46,0:07:57.12,italics,System,0,0,0,,8x Blessed Armor Enhancement Stones,
+Dialogue: 0,0:07:57.12,0:07:59.51,italics,System,0,0,0,,3x Supreme Magic Stones,
+Dialogue: 0,0:07:59.51,0:08:02.26,italicstop,System,0,0,0,,Malaxus's Cloak, Malaxus's Mask,
+Dialogue: 0,0:08:02.00,0:08:05.41,italics,Jishuka,0,0,0,,He's under level 100, \Nbut he defeated Malaxus?
+Dialogue: 0,0:08:02.26,0:08:05.41,italicstop,System,0,0,0,,Dark Magic Orb.
+Dialogue: 0,0:08:08.06,0:08:09.06,Default,Jishuka,0,0,0,,Grid...
+Dialogue: 0,0:08:09.82,0:08:12.89,Default,Grid,0,0,0,,You set the drop rule so \Nthe leader gets the items?
+Dialogue: 0,0:08:12.89,0:08:14.97,Default,Grid,0,0,0,,You lied to me?
+Dialogue: 0,0:08:16.65,0:08:19.93,Default,Jishuka,0,0,0,,Don't worry. I'll keep my promise.
+Dialogue: 0,0:08:20.37,0:08:22.19,Default,Vantner,0,0,0,,Nice, Grid!
+Dialogue: 0,0:08:22.19,0:08:24.02,Default,Pon,0,0,0,,You're so strong!
+Dialogue: 0,0:08:24.33,0:08:26.08,Default,Regas,0,0,0,,This is thanks to you, Grid-san!
+Dialogue: 0,0:08:26.08,0:08:27.20,Default,Zednos,0,0,0,,Thank you!
+Dialogue: 0,0:08:27.20,0:08:29.11,Default,Laella,0,0,0,,You were so cool, Grid-san!
+Dialogue: 0,0:08:29.11,0:08:31.57,Default,Grid,0,0,0,,Aw, it was nothing...
+Dialogue: 0,0:08:31.57,0:08:33.65,Default,Grid,0,0,0,,I mean... forget that!
+Dialogue: 0,0:08:33.65,0:08:35.44,Default,Grid,0,0,0,,Let's divide up the items!
+Dialogue: 0,0:08:36.25,0:08:39.41,Default,Pon,0,0,0,,You're amazing in a lot of ways, really.
+Dialogue: 1,0:08:43.12,0:08:45.58,screen_text,Sign,0,0,0,,{\b1\c&H7050CA&\bord1\3c&H514843&\blur0.5\fs10\an8\pos(530,12.667)}Malaxus's Cloak\N{\b0\c&HCACFCF&\fs8}Class: {\c&H51349D&}Unique\N{\c&HCACFCF&\fs10}Durability: 35/81\NDefense: 15\NWeight: 10\N\N{\fs8}*Intelligence: +200\N*<Stench of Blood>\NThe smell of blood follows you everywhere.\NMonsters and beasts are more likely to\Nattack you, and others will dislike you.\NEquip Condition: Level 200+
+Dialogue: 0,0:08:43.12,0:08:45.58,screen_text,Sign,0,0,0,,{\an9\bord0\p1\fscy220\alpha&H20&\c&H5F553E&}m 0 0 l 200 0 200 48 0 48
+Dialogue: 0,0:08:43.34,0:08:45.58,Default,Vantner,0,0,0,,I can't use this cape.
+Dialogue: 0,0:08:45.58,0:08:47.91,Default,Vantner,0,0,0,,"Stench of Blood" is \Ntoo much of a penalty.
+Dialogue: 0,0:08:47.91,0:08:50.80,Default,Faker,0,0,0,,And only Malaxus could \Nuse its defense ability.
+Dialogue: 1,0:08:50.80,0:08:52.76,screen_text,Sign,0,0,0,,{\b1\c&H7050CA&\bord1\3c&H514843&\blur0.5\fs10\an8\pos(530,12.667)}Malaxus's Mask\N{\b0\c&HCACFCF&\fs8}Class: {\c&H51349D&}Unique\N{\c&HCACFCF&\fs10}Durability: 11/20\NAll Elemental Resistances: +5%\NWeight: 1\N\N{\fs8}*Casting Time:-20%\NEquip Condition: Level 200+
+Dialogue: 0,0:08:50.80,0:08:52.76,screen_text,Sign,0,0,0,,{\an9\bord0\p1\fscy220\alpha&H20&\c&H5F553E&}m 0 0 l 200 0 200 33 0 33
+Dialogue: 0,0:08:51.10,0:08:53.60,Default,Zednos,0,0,0,,The mask is a pretty good item!
+Dialogue: 0,0:08:53.60,0:08:56.30,Default,Laella,0,0,0,,So is this orb!
+Dialogue: 1,0:08:55.22,0:08:57.18,screen_text,Sign,0,0,0,,{\b1\c&H7050CA&\bord1\3c&H514843&\blur0.5\fs10\an8\pos(530,12.667)}Dark Magic Orb\N{\b0\c&HCACFCF&\fs8}Class: {\c&H51349D&}Unique\N{\c&HCACFCF&\fs10}Durability: 90/130\NMagic Amplification: +14%\NDark Magic Elemental Power: +20%\NSpell Slots: 4\NWeight: 80\N\N{\fs8}Equip Conditions: Level 200\h\h\h\hIntelligence 500+
+Dialogue: 0,0:08:55.22,0:08:57.18,screen_text,Sign,0,0,0,,{\an9\bord0\p1\fscy220\alpha&H20&\c&H5F553E&}m 0 0 l 200 0 200 40 0 40
+Dialogue: 0,0:08:57.18,0:09:01.15,Default,Jishuka,0,0,0,,But we're going to have \Nto give up on one of them.
+Dialogue: 0,0:09:01.15,0:09:03.00,Default,Grid,0,0,0,,I'll take the cape.
+Dialogue: 0,0:09:03.34,0:09:04.39,Default,Regas,0,0,0,,Grid-san?
+Dialogue: 0,0:09:04.39,0:09:08.05,Default,Jishuka,0,0,0,,Why would you want that?\NIt's the least valuable of them all.
+Dialogue: 0,0:09:10.90,0:09:13.69,Default,Grid,0,0,0,,No, I want the cape.
+Dialogue: 0,0:09:15.94,0:09:18.82,Default,Jishuka,0,0,0,,You're a weird dude.
+Dialogue: 0,0:09:19.35,0:09:21.41,Default,Jishuka,0,0,0,,Then we'll take the mask.
+Dialogue: 0,0:09:21.84,0:09:26.96,Default,Jishuka,0,0,0,,You can have all the money from the \Nraid. We couldn't have won without you.
+Dialogue: 0,0:09:26.96,0:09:29.03,Default,Grid,0,0,0,,You're a generous lady!
+Dialogue: 0,0:09:29.03,0:09:31.75,Default,Regas,0,0,0,,Grid-san, good work today!
+Dialogue: 0,0:09:31.75,0:09:34.65,Default,Regas,0,0,0,,I'll help you look for your \Nstolen item another time.
+Dialogue: 0,0:09:34.65,0:09:37.13,Default,Grid,0,0,0,,Oh, you'll help me?
+Dialogue: 0,0:09:37.13,0:09:40.69,Default,Regas,0,0,0,,Of course! I'll keep my promise!
+Dialogue: 0,0:09:41.45,0:09:44.26,Default,Jishuka,0,0,0,,Until we meet again, Grid.
+Dialogue: 0,0:09:49.38,0:09:51.42,Default,Grid,0,0,0,,They were really nice.
+Dialogue: 0,0:09:51.42,0:09:54.02,Default,Grid,0,0,0,,I'd like to get some rest, but...
+Dialogue: 0,0:09:55.03,0:09:59.44,Default,Grid,0,0,0,,Seeing an unexplored cave makes me \Nwant to go treasure hunting, you know?
+Dialogue: 0,0:10:01.01,0:10:08.23,Default,Sakaeda,0,0,0,,The death of High Priest Malaxus \Nis sure to weaken the Yatan Church.
+Dialogue: 0,0:10:08.23,0:10:08.87,Default,Hinako,0,0,0,,Yes.
+Dialogue: 0,0:10:09.28,0:10:12.00,Default,Hinako,0,0,0,,The players who were participating \Nin the Yatan quests
+Dialogue: 0,0:10:12.00,0:10:14.24,Default,Hinako,0,0,0,,have all moved on to other ones.
+Dialogue: 0,0:10:14.62,0:10:17.93,Default,Sakaeda,0,0,0,,It was the largest event since \Nthe beginning of {\i1}Satisfy{\i0}...
+Dialogue: 0,0:10:18.55,0:10:22.33,Default,Sakaeda,0,0,0,,To think war with the Yatan \Ncult would end in this way.
+Dialogue: 0,0:10:24.04,0:10:28.35,Default,Sakaeda,0,0,0,,He continues to exceed our \Nexpectations in every way.
+Dialogue: 0,0:10:29.07,0:10:33.45,Default,Sakaeda,0,0,0,,But the curse of Yatan will \Nnot be so easily broken.
+Dialogue: 0,0:10:37.82,0:10:39.03,Default,Cassus,0,0,0,,This is...
+Dialogue: 0,0:10:41.45,0:10:44.11,Default,Isabel,0,0,0,,A Yatan curse?
+Dialogue: 0,0:10:50.73,0:10:53.79,Default,Doran,0,0,0,,Irene-sama! Irene-sama!
+Dialogue: 0,0:10:56.57,0:10:59.90,Default,Doran,0,0,0,,My lady, it's time.
+Dialogue: 0,0:11:02.70,0:11:03.73,Default,Irene,0,0,0,,Doran...
+Dialogue: 0,0:11:04.94,0:11:08.64,Default,Doran,0,0,0,,You remember the man I spoke of, yes?
+Dialogue: 0,0:11:09.45,0:11:12.28,Default,Doran,0,0,0,,He came at the perfect time.
+Dialogue: 0,0:11:12.28,0:11:14.66,Default,Doran,0,0,0,,Don't let him run off.
+Dialogue: 0,0:11:15.69,0:11:18.82,Default,Doran,0,0,0,,The man who recognizes that ring...
+Dialogue: 0,0:11:27.01,0:11:31.58,Default,Grid,0,0,0,,I thought I recognized that... \NIt's Doran's Ring, huh?
+Dialogue: 0,0:11:39.92,0:11:42.76,Default,Grid,0,0,0,,We meet again, Irene-sama.
+Dialogue: 0,0:11:43.12,0:11:47.88,Default,Irene,0,0,0,,You're... Grid-san, who made \Nthe Sword of Transcendence?
+Dialogue: 0,0:11:47.88,0:11:51.85,Default,Grid,0,0,0,,I was expecting treasure, so I was \Nsurprised to find you instead!
+Dialogue: 0,0:11:52.55,0:11:55.82,italics,System,0,0,0,,Quest: "Escort the\NNoblewoman (A)" has begun.
+Dialogue: 1,0:11:53.23,0:11:58.94,screen_text,Sign,0,0,0,,{\b0\c&HD8D2CF&\bord1\3c&H514843&\blur0.5\fs9\an8\pos(528,12.667)}Quest\N{\b1}Escort the Noblewoman (A){\b0}\N\NIrene is weak after being kidnapped\Nby the Yatan Church a second time.\NEscort her to the castle.\N\NClear Condition: Return with Irene to Winstone Castle\NClear Reward: Max relationship with Irene\N"Doran's Ring"\N*When you max out your relationship with an NPC\Nof the opposite gender, there is a high probability\Nof a special event.\N\NFailure: Irene may die.\NRelationship with Earl Steim reset.\N*Irene's death will cause Earl Steim\Nto go mad and plunge northern Eternal into chaos.
+Dialogue: 0,0:11:53.23,0:11:58.94,screen_text,Sign,0,0,0,,{\an9\bord0\p1\fscy220\alpha&H20&\c&H886754&}m 0 0 l 205 0 205 70 0 70
+Dialogue: 0,0:11:55.82,0:11:58.94,italics,Grid,0,0,0,,She was going to be \Nsacrificed to Yatan again?
+Dialogue: 1,0:11:58.94,0:11:59.90,screen_text,Sign,0,0,0,,{\b0\c&HD8D2CF&\bord1\3c&H514843&\blur0.5\fs9\an8\pos(528,12.667)\b1}Escort the Noblewoman (A){\b0}\N\NIrene is weak after being kidnapped\Nby the Yatan Church a second time.\NEscort her to the castle.\N\NClear Condition: Return with Irene to Winstone Castle\NClear Reward: Max Relationship with Irene\N"Doran's Ring"\N*When you max out your relationship with an NPC\Nof the opposite gender, there is a high probability\Nof a special event.
+Dialogue: 0,0:11:58.94,0:11:59.90,screen_text,Sign,0,0,0,,{\an9\bord0\p1\fscy220\alpha&H20&\c&H886754&}m 0 0 l 205 0 205 48 0 48
+Dialogue: 0,0:12:00.12,0:12:02.36,italics,Grid,0,0,0,,Doran's Ring is the reward?
+Dialogue: 0,0:12:02.36,0:12:03.65,italics,Grid,0,0,0,,It's finally here!
+Dialogue: 0,0:12:03.65,0:12:06.51,italics,Grid,0,0,0,,My chance to get a great item \Nthat symbolizes Doran's wishes!
+Dialogue: 0,0:12:06.51,0:12:09.13,italics,Grid,0,0,0,,I could sell it for a ton at auction!
+Dialogue: 0,0:12:09.13,0:12:13.26,italics,Grid,0,0,0,,Plus, if I can max out my \Nrelationship with Irene,
+Dialogue: 0,0:12:13.26,0:12:16.15,italics,Grid,0,0,0,,it's likely to trigger a special event!
+Dialogue: 0,0:12:16.15,0:12:17.04,Default,Cultists,0,0,0,,Heretic!
+Dialogue: 0,0:12:17.53,0:12:19.80,Default,Cultists,0,0,0,,He killed Malaxus-sama!
+Dialogue: 0,0:12:19.80,0:12:20.98,Default,Cultists,0,0,0,,Don't let him leave alive!
+Dialogue: 0,0:12:20.98,0:12:22.91,Default,Grid,0,0,0,,Irene-sama, let's go!
+Dialogue: 0,0:12:24.88,0:12:27.03,Default,Grid,0,0,0,,Hang on tight!
+Dialogue: 0,0:12:27.03,0:12:28.68,Default,Grid,0,0,0,,Fast Reflexes!
+Dialogue: 0,0:12:32.10,0:12:36.81,italics,Grid,0,0,0,,If I max out my relationship with Irene, \NI can get the ring and also marry her!
+Dialogue: 0,0:12:37.71,0:12:41.57,italics,Grid,0,0,0,,If she owns this territory and \NI marry her, that means {\i0}I{\i1} own it!
+Dialogue: 0,0:12:41.91,0:12:45.02,italics,Grid,0,0,0,,Which means I get all the tax money!
+Dialogue: 0,0:12:45.02,0:12:47.66,Default,Grid,0,0,0,,Out of the way! Blade Wind!
+Dialogue: 0,0:12:53.63,0:12:56.50,Default,Irene,0,0,0,,Grid-san, how are you so strong?
+Dialogue: 0,0:12:56.72,0:12:58.53,Default,Irene,0,0,0,,You're only a blacksmith.
+Dialogue: 0,0:12:58.53,0:13:02.84,Default,Grid,0,0,0,,Well, it's basically all \Nthanks to my items!
+Dialogue: 0,0:13:04.33,0:13:05.55,Default,Phoenix,0,0,0,,Irene-sama!
+Dialogue: 0,0:13:06.15,0:13:07.83,Default,Phoenix,0,0,0,,I'm so glad you're safe!
+Dialogue: 0,0:13:08.96,0:13:12.43,Default,Phoenix,0,0,0,,We will never forget this debt!
+Dialogue: 0,0:13:13.48,0:13:17.27,Default,Irene,0,0,0,,Grid-san, all of Winstone owes you a debt.
+Dialogue: 0,0:13:17.54,0:13:19.27,screen_text,Sign,0,0,0,,{\b0\fs10\fad(215,0)\pos(311.333,94.667)\frz357.2\frx356\fry354\c&HBBADB4&\3c&H766A70&}Quest
+Dialogue: 0,0:13:17.54,0:13:19.27,screen_text,Sign,0,0,0,,{\fs10\fad(215,0)\frz357.2\c&HEAE7E6&\3c&H766A70&\pos(310,136)\frx358\fry352}Escort the Noblewoman (A)
+Dialogue: 0,0:13:17.92,0:13:19.27,italics,System,0,0,0,,Quest clear.
+Dialogue: 0,0:13:17.96,0:13:19.27,screen_text,Sign,0,0,0,,{\b0\fs24\fad(420,0)\frz357.2\c&HD4CED1&\3c&H766A70&\frx356\fry350\pos(306.667,158)}Quest clear!
+Dialogue: 0,0:13:17.96,0:13:19.27,screen_text,Sign,0,0,0,,{\b0\fs24\fad(420,0)\c&HD4CED1&\3c&H766A70&\frx356\fry350\pos(298,236.667)\frz356.7}You got the clear reward!
+Dialogue: 0,0:13:19.81,0:13:22.58,italics,System,0,0,0,,Relationship with Irene has maxed out.
+Dialogue: 0,0:13:22.58,0:13:27.40,italics,Grid,0,0,0,,I couldn't save her last time... \Nbut maybe I've changed a bit.
+Dialogue: 0,0:13:27.78,0:13:31.45,Default,Irene,0,0,0,,This belonged to a man \Nwho once saved my life.
+Dialogue: 0,0:13:31.45,0:13:33.04,Default,Irene,0,0,0,,Please, take good care of it.
+Dialogue: 0,0:13:33.90,0:13:35.66,Default,Grid,0,0,0,,Yes, of course.
+Dialogue: 0,0:13:37.81,0:13:39.21,screen_text,Sign,0,0,0,,{\fad(132,0)\pos(320,116.667)}Doran's Ring\N{\b0}is now bound to your account.
+Dialogue: 0,0:13:39.21,0:13:42.09,italics,Grid,0,0,0,,Bound?! So I can't sell it!
+Dialogue: 0,0:13:42.09,0:13:44.42,italics,Grid,0,0,0,,I was gonna put it up at auction!
+Dialogue: 0,0:13:44.74,0:13:47.13,Default,Irene,0,0,0,,Please come see me again, okay?
+Dialogue: 0,0:13:47.72,0:13:48.80,Default,Grid,0,0,0,,Okay...
+Dialogue: 0,0:13:58.45,0:14:02.50,Default,Seira,0,0,0,,Brother, this place looks so \Nexpensive... Is this okay?
+Dialogue: 0,0:14:02.50,0:14:05.91,Default,Takumi,0,0,0,,Yeah, I'm about to get a bunch \Nof money from the game.
+Dialogue: 0,0:14:06.49,0:14:09.03,Default,Takumi,0,0,0,,I'll bring Mom and Dad here \Nsoon. Don't worry about it.
+Dialogue: 0,0:14:12.11,0:14:13.43,italics,Yura,0,0,0,,That's him.
+Dialogue: 0,0:14:18.37,0:14:20.88,italics,Yura,0,0,0,,I can't believe I'm seeing \Nhim in real life...
+Dialogue: 0,0:14:21.06,0:14:22.34,sign_generic,Sign,0,0,0,,{\bord0\fs15\b1\an1\fad(91,0)\fnArial\c&H7D7B4C&\frx8\fry0\pos(292,252)\frz14.5}I want you to look into this man.
+Dialogue: 0,0:14:24.31,0:14:25.76,Default,Seira,0,0,0,,It's delicious!
+Dialogue: 0,0:14:27.10,0:14:28.48,Default,Grid,0,0,0,,Take time to savor it.
+Dialogue: 0,0:14:30.09,0:14:32.05,sign_generic,Sign,0,0,0,,{\an1\bord0\c&HD7BC6E&\frz13.76\pos(212.666,146.667)\frx12\fry356}Message
+Dialogue: 0,0:14:30.09,0:14:32.05,sign_generic,Sign,0,0,0,,{\b1\an1\bord0\c&H514E48&\frz13.76\frx12\fry356\pos(221.999,184)}Arisa
+Dialogue: 0,0:14:30.09,0:14:32.05,sign_generic,Sign,0,0,0,,{\fs15\an1\bord0\c&HC5AB58&\frz13.76\frx12\fry356\pos(227.333,220.667)}It's been so long...
+Dialogue: 0,0:14:31.00,0:14:32.05,Default,Grid,0,0,0,,Arisa?!
+Dialogue: 0,0:14:35.05,0:14:36.02,italics,Grid,0,0,0,,My...
+Dialogue: 0,0:14:37.20,0:14:38.35,italics,Grid,0,0,0,,first love!
+Dialogue: 0,0:14:38.60,0:14:41.12,Default,Grid,0,0,0,,Seira, eat fast!
+Dialogue: 0,0:14:51.16,0:14:53.53,italics,Grid,0,0,0,,Th-This isn't a dream, right?
+Dialogue: 0,0:14:53.53,0:14:56.62,Default,Arisa,0,0,0,,Takumi-kun, you seem different.
+Dialogue: 0,0:14:57.04,0:14:59.08,Default,Grid,0,0,0,,D-Do I?
+Dialogue: 0,0:14:59.74,0:15:01.11,italics,Grid,0,0,0,,She's so cute!
+Dialogue: 0,0:15:01.85,0:15:04.16,italics,Grid,0,0,0,,I have to tell her how I feel...
+Dialogue: 0,0:15:06.88,0:15:09.72,Default,Arisa,0,0,0,,Your haircut and clothes are so nice.
+Dialogue: 0,0:15:10.96,0:15:12.69,Default,Grid,0,0,0,,A-Are they?
+Dialogue: 0,0:15:12.69,0:15:16.53,italics,Grid,0,0,0,,Well, I did spend 120,000 yen at \Na fancy store and beauty parlor!
+Dialogue: 0,0:15:16.53,0:15:19.82,Default,Arisa,0,0,0,,Did you get a job at a big company?
+Dialogue: 0,0:15:19.82,0:15:22.43,Default,Arisa,0,0,0,,You always did work so hard.
+Dialogue: 0,0:15:22.43,0:15:24.36,Default,Grid,0,0,0,,D-Did I?
+Dialogue: 0,0:15:24.58,0:15:27.53,Default,Arisa,0,0,0,,I always liked that about you.
+Dialogue: 0,0:15:32.20,0:15:33.26,Default,Grid,0,0,0,,I...
+Dialogue: 0,0:15:34.72,0:15:38.36,Default,Grid,0,0,0,,I-I've always liked you...
+Dialogue: 0,0:15:38.80,0:15:39.97,Default,Arisa,0,0,0,,Takumi-kun...
+Dialogue: 0,0:15:43.13,0:15:43.79,Default,Grid,0,0,0,,Um...
+Dialogue: 0,0:15:43.79,0:15:45.73,Default,Arisa,0,0,0,,I'm gonna go touch up my makeup.
+Dialogue: 0,0:15:45.73,0:15:47.29,Default,Grid,0,0,0,,O-Okay.
+Dialogue: 0,0:15:49.50,0:15:52.05,italics,Grid,0,0,0,,I-I might actually get to date her...
+Dialogue: 0,0:15:52.95,0:15:55.26,italics,Grid,0,0,0,,I should run to the bathroom, too.
+Dialogue: 0,0:15:55.49,0:15:57.09,italics,Grid,0,0,0,,I don't want to ruin the moment.
+Dialogue: 0,0:15:57.09,0:15:59.22,Default,Arisa,0,0,0,,God, he's a mess.
+Dialogue: 0,0:15:59.60,0:16:02.57,Default,Arisa,0,0,0,,His hairstyle and outfit look so stupid.
+Dialogue: 0,0:16:02.57,0:16:06.60,Default,Arisa,0,0,0,,And all he said was stuff like, \N"Do I?" It was so boring!
+Dialogue: 0,0:16:06.60,0:16:07.65,Default,Arisa,0,0,0,,Oh, and then...
+Dialogue: 0,0:16:08.08,0:16:11.72,Default,Arisa,0,0,0,, he was about to ask me \Nto be his girlfriend! Ew!
+Dialogue: 0,0:16:13.16,0:16:16.53,Default,Arisa,0,0,0,,But I'm pretty sure I can talk \Nhim into going to the reunion.
+Dialogue: 0,0:16:16.92,0:16:19.69,Default,Arisa,0,0,0,,I'll win the bet for sure.
+Dialogue: 0,0:16:22.31,0:16:24.48,italics,Grid,0,0,0,,I thought I had changed a little.
+Dialogue: 0,0:16:26.30,0:16:31.92,italics,Grid,0,0,0,,But even if I make money or buy \Nexpensive clothes, it doesn't matter.
+Dialogue: 0,0:16:33.25,0:16:34.68,italics,Grid,0,0,0,,It doesn't matter...
+Dialogue: 0,0:16:35.47,0:16:37.80,italics,Grid,0,0,0,,In the end, I'm still worthless.
+Dialogue: 0,0:16:41.04,0:16:42.27,italics,Grid,0,0,0,,I need to work...
+Dialogue: 0,0:16:43.73,0:16:45.46,italics,Grid,0,0,0,,I need to pay off that debt...
+Dialogue: 0,0:16:47.29,0:16:50.83,italics,Grid,0,0,0,,But is money all I need?
+Dialogue: 0,0:16:53.95,0:16:56.25,Default,Jishuka,0,0,0,,We all talked it over,
+Dialogue: 0,0:16:56.62,0:16:59.53,Default,Jishuka,0,0,0,,and we want to officially ask \Nyou to join the Tzedakah Guild.
+Dialogue: 0,0:17:00.66,0:17:03.03,Default,Jishuka,0,0,0,,We need your strength, Grid.
+Dialogue: 0,0:17:04.15,0:17:06.16,Default,Grid,0,0,0,,I appreciate it.
+Dialogue: 0,0:17:06.16,0:17:08.15,Default,Grid,0,0,0,,I'm not moving my shop, though.
+Dialogue: 0,0:17:08.15,0:17:10.44,Default,Grid,0,0,0,,This is my forge.
+Dialogue: 0,0:17:10.92,0:17:12.05,Default,Jishuka,0,0,0,,That's fine.
+Dialogue: 0,0:17:12.84,0:17:14.73,Default,Jishuka,0,0,0,,What we need is you.
+Dialogue: 0,0:17:16.53,0:17:19.85,italics,Grid,0,0,0,,If I can sell equipment to the \Nguild members and get rich,
+Dialogue: 0,0:17:20.12,0:17:22.22,italics,Grid,0,0,0,,I can show Arisa how \Nwrong she was about me.
+Dialogue: 0,0:17:23.37,0:17:25.59,Default,Grid,0,0,0,,Fine, I'll join.
+Dialogue: 1,0:17:25.87,0:17:27.15,screen_text,Sign,0,0,0,,{\fad(133,0)\b0\c&HD8D2CF&\bord1\3c&H514843&\blur0.5\fs9\an7\pos(438.667,14)}Guild Name: Tzedakah\NLevel: 5\NFame: 612,140\NMaster: Jishuka\NMembers: 18/80\NAffiliation: None\NAlliances: None\NEnemies: Kingdom of Rio, Flame Dragon Trauka,\NYatan Church, Ironwind Gang, Heldin Clan,\NKauchi Clan\NAlignment: Neutral\NTerritory: None
+Dialogue: 0,0:17:25.87,0:17:27.15,screen_text,Sign,0,0,0,,{\fad(133,0)\an9\bord0\p1\fscy220\alpha&H20&\c&H886754&}m 0 0 l 200 0 200 53 0 53
+Dialogue: 0,0:17:27.15,0:17:30.38,Default,Jishuka,0,0,0,,Thank you. We've been \Nlooking for you forever.
+Dialogue: 0,0:17:30.69,0:17:34.41,Default,Grid,0,0,0,,S-So? Whose equipment do I make first?
+Dialogue: 0,0:17:34.41,0:17:38.20,Default,Toban,0,0,0,,First, we'd like a spear for Pon. \NHe's the core of our front line.
+Dialogue: 0,0:17:38.20,0:17:40.87,Default,Jishuka,0,0,0,,Make something for me after that.
+Dialogue: 0,0:17:41.21,0:17:42.41,italics,Grid,0,0,0,,She's cute...
+Dialogue: 0,0:17:42.99,0:17:46.41,italics,Grid,0,0,0,,Wait, no! I won't let women\Ndeceive me anymore!
+Dialogue: 0,0:17:46.83,0:17:50.43,Default,Chris,0,0,0,,I heard that Tzedakah has \Nhired a good blacksmith.
+Dialogue: 0,0:17:50.84,0:17:53.79,Default,Chris,0,0,0,,They're increasing in strength \Nafter defeating Malaxus, it seems.
+Dialogue: 0,0:17:55.39,0:17:59.55,Default,Chris,0,0,0,,We have territory here in \NFedero, in southern Eternal,
+Dialogue: 0,0:17:59.95,0:18:04.27,Default,Chris,0,0,0,,but we failed to recruit \Nthe top blacksmith, Panmir.
+Dialogue: 0,0:18:05.00,0:18:09.81,Default,Chris,0,0,0,,We're going to recruit the Tzedakah \Nblacksmith to join the Giant Guild.
+Dialogue: 0,0:18:12.17,0:18:14.78,Default,Jishuka,0,0,0,,Find Grid's shield at all costs!
+Dialogue: 0,0:18:14.78,0:18:16.23,Default,Jishuka,0,0,0,,Everyone, work hard!
+Dialogue: 0,0:18:20.13,0:18:21.32,italics,Grid,0,0,0,,Damn it...
+Dialogue: 0,0:18:21.32,0:18:24.41,italics,Grid,0,0,0,,Even after all that,\NI still need to work?
+Dialogue: 0,0:18:27.35,0:18:29.55,Default,Grid,0,0,0,,Okay, it's looking good!
+Dialogue: 0,0:18:29.55,0:18:32.92,Default,Grid,0,0,0,,You're a lot prettier than Arisa!
+Dialogue: 0,0:18:36.11,0:18:39.79,Default,Kid,0,0,0,,Hey, Chris-san from the Giant \NGuild wants to talk to you.
+Dialogue: 0,0:18:39.79,0:18:41.22,Default,Kid,0,0,0,,Just follow me. Don't resist.
+Dialogue: 0,0:18:43.37,0:18:44.31,Default,Grid,0,0,0,,Are you kidding me?
+Dialogue: 0,0:18:44.31,0:18:46.18,Default,Kid,0,0,0,,Say what?
+Dialogue: 0,0:18:46.82,0:18:49.61,Default,Kid,0,0,0,,If you resist the Giant Guild...
+Dialogue: 0,0:18:49.61,0:18:54.68,Default,Grid,0,0,0,,Do you now how many goddamn hours \NI spent on that thing, asshole?!
+Dialogue: 0,0:18:53.02,0:18:55.40,italicstop,System,0,0,0,,The Blacksmith's Wrath has activated.
+Dialogue: 0,0:19:00.12,0:19:04.01,Default,Guild Member,0,0,0,,Hey! D-Do you know what \Nwe're going to do to you?!
+Dialogue: 0,0:19:03.13,0:19:05.35,top,Grid,0,0,0,,I don't care!
+Dialogue: 0,0:19:05.35,0:19:08.48,Default,Grid,0,0,0,,I'm trying to make money, \Nand you're interrupting!
+Dialogue: 0,0:19:09.52,0:19:12.21,Default,Grid,0,0,0,,Unyielding Justice!
+Dialogue: 0,0:19:12.56,0:19:22.93,sign_generic,Sign,0,0,0,,{\fs18\bord0\fnArial Black\fad(258,0)\c&H1A1D1C&\pos(320,280.333)}Psychopath Appears in {\i1}Satisfy{\i0}!!
+Dialogue: 0,0:19:13.99,0:19:17.96,italicstop,MC,0,0,0,,The following footage \Nwas provided by a user.
+Dialogue: 0,0:19:18.22,0:19:22.93,italicstop,MC,0,0,0,,It may be upsetting for some viewers \Ndue to its shocking nature.
+Dialogue: 0,0:19:21.95,0:19:22.93,sign_generic,Sign,0,0,0,,{\fad(85,0)\fnArial Black\bord0\fs15\pos(108.667,118)}Warning
+Dialogue: 0,0:19:21.95,0:19:22.93,sign_generic,Sign,0,0,0,,{\fad(85,0)\fnArial Black\bord0\fs15\pos(271.334,118)}Warning
+Dialogue: 0,0:19:21.95,0:19:22.93,sign_generic,Sign,0,0,0,,{\fad(85,0)\fnArial Black\bord8\fs20\3c&H030072&\pos(192.667,148.668)}Attention Viewers!
+Dialogue: 0,0:19:21.95,0:19:22.93,sign_generic,Sign,0,0,0,,{\fad(85,0)\fnArial Black\bord3\fs8\3c&H030072&\pos(191.334,173.668)}The following footage may be unsuitable for some audiences.
+Dialogue: 0,0:19:24.76,0:19:27.85,italics,MC,0,0,0,,Debate is spreading about \Nwhether action should be taken
+Dialogue: 0,0:19:28.20,0:19:30.27,italics,MC,0,0,0,,against in-game psychopaths.
+Dialogue: 0,0:19:32.47,0:19:36.57,Default,Chris,0,0,0,,We'll get you for this, Tzedakah!
+Dialogue: 0,0:19:38.26,0:19:40.82,Default,Jishuka,0,0,0,,Hey, how long are you going to sleep?
+Dialogue: 0,0:19:41.44,0:19:43.03,Default,Jishuka,0,0,0,,Grid, wake up!
+Dialogue: 0,0:19:43.03,0:19:44.34,Default,Jishuka,0,0,0,,Wake up!
+Dialogue: 0,0:19:44.34,0:19:46.33,Default,Jishuka,0,0,0,,What happened with the \Nequipment we asked for?
+Dialogue: 0,0:19:52.19,0:19:54.34,Default,Grid,0,0,0,,I managed to finish it, somehow...
+Dialogue: 0,0:19:54.72,0:19:56.14,Default,Jishuka,0,0,0,,Amazing.
+Dialogue: 0,0:19:56.14,0:19:59.09,Default,Jishuka,0,0,0,,Even the Giant Guild couldn't stop you.
+Dialogue: 0,0:19:59.97,0:20:02.76,Default,Grid,0,0,0,,Everyone thinks I'm a psychopath now.
+Dialogue: 0,0:20:02.76,0:20:07.39,Default,Grid,0,0,0,,But working out some anger might've \Nhelped me make something even better.
+Dialogue: 0,0:20:07.77,0:20:09.68,Default,Pon,0,0,0,,W-Wow...
+Dialogue: 0,0:20:09.68,0:20:12.73,Default,Grid,0,0,0,,Right? You'll be paying for it, right?
+Dialogue: 0,0:20:13.79,0:20:14.77,Default,Pon,0,0,0,,Yeah.
+Dialogue: 0,0:20:14.77,0:20:16.77,Default,Pon,0,0,0,,How about 800,000 gold?
+Dialogue: 0,0:20:16.77,0:20:18.66,italics,Grid,0,0,0,,8-800,000 gold?!
+Dialogue: 0,0:20:18.66,0:20:21.07,italics,Grid,0,0,0,,That's 96 million yen!
+Dialogue: 0,0:20:21.88,0:20:26.62,italics,Grid,0,0,0,,I only got 220,000 for the legendary \NSword of Transcendence!
+Dialogue: 0,0:20:26.62,0:20:29.29,italics,Grid,0,0,0,,Are they so stupid they don't\Nrealize they're overpaying?
+Dialogue: 0,0:20:29.52,0:20:31.54,Default,Vantner,0,0,0,,How come only Pon gets something?!
+Dialogue: 0,0:20:31.54,0:20:32.97,Default,Vantner,0,0,0,,It's gotta be a fake!
+Dialogue: 0,0:20:32.97,0:20:34.31,Default,Vantner,0,0,0,,Throw it away!
+Dialogue: 0,0:20:34.31,0:20:35.31,Default,Grid,0,0,0,,Now, now.
+Dialogue: 0,0:20:35.31,0:20:38.04,Default,Grid,0,0,0,,I've got one for you, \Nold man. So calm down.
+Dialogue: 0,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\blur1\bord0.75\fs15\c&H644CD2&\3c&H484032&\fad(130,0)\pos(320,98)}Absolute Double Axe of Laceration
+Dialogue: 1,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\fs12\fad(90,0)\b0\c&HE8E8E8&\pos(309.334,142.667)}Class: {\c&H644CD2&\3c&H484032&}Unique
+Dialogue: 0,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\fad(90,0)\blur2\an7\bord0\p1\fscy220\alpha&H10&\c&H695F48&\b0\pos(269.332,141.333)}m 0 0 l 108 0 108 10 0 10
+Dialogue: 1,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\an3\fs20\fad(90,0)\b0\c&HE8E8E8&\pos(290.666,187.333)}Durability
+Dialogue: 1,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\an3\fs20\fad(90,0)\b0\c&HE8E8E8&\pos(282.668,212.667)}Attack
+Dialogue: 1,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\an3\fs20\fad(90,0)\b0\c&HE8E8E8&\pos(334.001,238)}Critical Hit Chance
+Dialogue: 1,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\an3\fs20\fad(90,0)\b0\c&HE8E8E8&\pos(355.999,264)}Critical Hit Damage
+Dialogue: 1,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\an8\fs15\fad(90,0)\b0\c&HE8E8E8&\pos(320,276.666)}*Chance of Double Attack
+Dialogue: 1,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\an8\fs15\fad(90,0)\b0\c&HE8E8E8&\pos(320,293.999)}*Critical causes blood loss/confusion
+Dialogue: 0,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\fad(90,0)\blur2\an7\bord0\p1\fscy220\alpha&H10&\c&H625944&\b0\pos(203.998,162.666)}m 0 0 l 88 0 88 12 0 12
+Dialogue: 0,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\fad(90,0)\blur2\an7\bord0\p1\fscy220\alpha&H10&\c&H5C543C&\b0\pos(196.665,190.666)}m 0 0 l 88 0 88 12 0 12
+Dialogue: 0,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\fad(90,0)\blur2\an7\bord0\p1\fscy220\alpha&H10&\c&H574F39&\b0\pos(213.331,217.999)}m 0 0 l 128 0 128 12 0 12
+Dialogue: 0,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\fad(90,0)\blur2\an7\bord0\p1\fscy220\alpha&H10&\c&H574F39&\b0\pos(189.998,242.665)}m 0 0 l 168 0 168 12 0 12
+Dialogue: 0,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\fad(90,0)\blur2\an7\bord0\p1\fscy220\alpha&H10&\c&H574F39&\b0\pos(205.331,276.666)}m 0 0 l 203 0 240 16 0 15
+Dialogue: 0,0:20:43.61,0:20:45.99,Default,Vantner,0,0,0,,My axe I asked you to repair!
+Dialogue: 0,0:20:45.99,0:20:47.55,Default,Vantner,0,0,0,,It has a new skill!
+Dialogue: 0,0:20:47.55,0:20:52.72,Default,Grid,0,0,0,,If I Appraise equipment,\NI can find its hidden skills!
+Dialogue: 0,0:20:52.72,0:20:54.97,Default,Vantner,0,0,0,,I've never heard of that before!
+Dialogue: 0,0:20:54.97,0:20:57.11,Default,Toban,0,0,0,,Then Appraise mine, too!
+Dialogue: 0,0:20:57.40,0:21:00.41,Default,Grid,0,0,0,,I'll give you a deal \Nand do it for thirty gold.
+Dialogue: 0,0:21:00.41,0:21:02.61,Default,Grid,0,0,0,,Sometimes, they don't have hidden skills,
+Dialogue: 0,0:21:02.61,0:21:05.28,Default,Grid,0,0,0,,but if it does, you owe \Nme another 300 gol—
+Dialogue: 0,0:21:04.30,0:21:05.28,top,Faker,0,0,0,,My weapon, too!
+Dialogue: 0,0:21:05.28,0:21:06.89,Default,Laella,0,0,0,,My armor, too!
+Dialogue: 0,0:21:06.89,0:21:08.14,Default,Zednos,0,0,0,,Mine, too!
+Dialogue: 0,0:21:08.14,0:21:10.62,Default,Grid,0,0,0,,Shut up! Decide on an order!
+Dialogue: 0,0:21:10.92,0:21:11.95,Default,Zednos,0,0,0,,Okay!
+Dialogue: 0,0:21:11.95,0:21:12.81,Default,Faker,0,0,0,,Rock, paper, scissors.
+Dialogue: 0,0:21:12.81,0:21:14.21,Default,Laella,0,0,0,,Draw lots.
+Dialogue: 0,0:21:14.67,0:21:16.37,Default,Ventner,0,0,0,,Do ghost leg.
+Dialogue: 0,0:21:17.91,0:21:18.80,italics,Grid,0,0,0,,Sheesh...
+Dialogue: 0,0:21:18.80,0:21:20.68,italics,Grid,0,0,0,,They sure are loud.
+Dialogue: 0,0:21:20.68,0:21:22.71,italics,Grid,0,0,0,,It's like they're all friends.
+Dialogue: 0,0:21:23.77,0:21:26.60,Default,Jishuka,0,0,0,,We've been struggling lately.
+Dialogue: 0,0:21:27.01,0:21:31.01,Default,Jishuka,0,0,0,,But now everyone is pumped. \NIt's all thanks to you.
+Dialogue: 0,0:21:31.01,0:21:32.27,Default,Grid,0,0,0,,Jishuka...
+Dialogue: 0,0:21:32.27,0:21:35.06,Default,Jishuka,0,0,0,,The power to create valuable items...
+Dialogue: 0,0:21:35.06,0:21:37.45,Default,Jishuka,0,0,0,,And swordsmanship strong \Nenough to defeat Malaxus.
+Dialogue: 0,0:21:38.26,0:21:39.48,Default,Jishuka,0,0,0,,Grid...
+Dialogue: 0,0:21:39.48,0:21:42.74,Default,Jishuka,0,0,0,,You must have a legendary job, right?
+Dialogue: 0,0:21:43.59,0:21:44.91,italics,Grid,0,0,0,,She figured it out?
+Dialogue: 0,0:21:45.27,0:21:47.74,italics,Grid,0,0,0,,I didn't expect to keep it \Na secret for long, but...
+Dialogue: 0,0:21:48.91,0:21:50.99,italics,Grid,0,0,0,,Why does she look so sexy?
+Dialogue: 0,0:21:52.28,0:21:53.95,Default,Grid,0,0,0,,Well... you know.
+Dialogue: 0,0:21:55.45,0:21:58.12,Default,Jishuka,0,0,0,,I'm so glad you joined us!
+Dialogue: 0,0:21:58.81,0:22:02.89,italics,Grid,0,0,0,,S-Some bad stuff happened \Nin real life, but...
+Dialogue: 0,0:22:03.55,0:22:06.01,italics,Grid,0,0,0,,G-Get a hold of yourself, Takumi!
+Dialogue: 0,0:22:06.01,0:22:08.43,italics,Grid,0,0,0,,You won't let women deceive you anymore!
+
