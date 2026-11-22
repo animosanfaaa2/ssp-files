@@ -1,0 +1,37 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: DefaultItalics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: DefaultTop,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: DefaultItalicsTop,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: DefaultOverlap,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Flashback,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: FlashbackItalics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: FlashbackTop,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: FlashbackItalicsTop,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: Narration,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: Signs,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,0
+Style: Credits,Arial,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,30,30,18,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:02:24.74,0:02:26.74,Signs,TITLE,0,0,0,,{\an7\fad(1359,308)\bord2\fnArial Black\c&HFFFF91&\3c&HF8C034&\blur1\pos(200,262)\frz14.71\4c&HFFFC65&\shad2}Reborn as a Space Mercenary:\NI Woke Up Piloting the Strongest Starship!
+Dialogue: 0,0:02:26.37,0:02:28.99,Signs,TITLE,0,0,0,,{\an7\fad(396,1)\bord2\fnArial Black\c&HF6FAFE&\3c&HA46B01&\frz14.71\pos(200,262)\4c&H00DFE2&\shad2}Reborn as a {\c&H00ECF6&\3c&H0D0812&}Space Mercenary:\N{\c&HFEFDFB&\3c&HAFA7A8&}I Woke Up Piloting the {\c&HFFFDFB&\3c&HC77F00&}Strongest Starship!
+Dialogue: 0,0:02:31.04,0:02:34.84,Signs,EPTITLE,0,0,0,,{\fad(736,888)\fnVerdana\c&HFFFFFF&\shad2\b0\blur3\t(27,736,\blur0.2)\t(3072,3947,\blur3)\pos(106,265)}Sleeping Beauty
+Dialogue: 0,0:12:00.57,0:12:05.99,Signs,TITLE,0,0,0,,{\fad(901,1)\fs12\fscx88\an7\bord1.5\fnArial Black\c&HF6FAFE&\3c&HA46B01&\frz14.71\4c&H1FEEFA&\shad1.5\pos(462,274)}Reborn as a {\c&H00ECF6&\3c&H0D0812&}Space Mercenary:\N{\c&HFEFDFB&\3c&HAFA7A8&}I Woke Up Piloting the {\c&HFFFDFB&\3c&HC77F00&}Strongest Starship!
+Dialogue: 0,0:12:05.99,0:12:11.00,Signs,TITLE,0,0,0,,{\fs12\fscx88\an7\bord1.5\fnArial Black\c&HF6FAFE&\3c&HA46B01&\frz14.71\4c&H1FEEFA&\shad1.5\pos(452,270)}Reborn as a {\c&H00ECF6&\3c&H0D0812&}Space Mercenary:\N{\c&HFEFDFB&\3c&HAFA7A8&}I Woke Up Piloting the {\c&HFFFDFB&\3c&HC77F00&}Strongest Starship!
+Dialogue: 0,0:23:35.01,0:23:40.09,Signs,NEXTEPTITLE,0,0,0,,{\fnTrebuchet MS\fs32\bord1.7\c&H2AFFFD&\3c&H171817&\pos(320,234)}The Resort Planet Cierra III
+
