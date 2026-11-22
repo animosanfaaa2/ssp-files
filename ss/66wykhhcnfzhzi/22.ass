@@ -1,0 +1,279 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+Video Zoom Percent: 1
+Scroll Position: 0
+Active Line: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:10.88,0:00:12.84,Default,,0,0,0,,{\i1}-Taijo.{\i0}\N{\i1}-Taijo.{\i0}
+Dialogue: 0,0:00:12.93,0:00:14.51,Default,,0,0,0,,{\i1}Bráško.{\i0}
+Dialogue: 0,0:00:16.76,0:00:19.60,Default,,0,0,0,,Bráško!
+Dialogue: 0,0:00:20.68,0:00:22.31,Default,,0,0,0,,Jsi v pohodě, bráško?
+Dialogue: 0,0:00:22.39,0:00:23.81,Default,,0,0,0,,Měl jsi zlý sen.
+Dialogue: 0,0:00:24.98,0:00:27.27,Default,,0,0,0,,Jo, jsem v pohodě.
+Dialogue: 0,0:00:34.28,0:00:35.41,Default,,0,0,0,,Co se děje?
+Dialogue: 0,0:00:36.82,0:00:37.82,Default,,0,0,0,,Hikaru?
+Dialogue: 0,0:00:37.91,0:00:38.91,Default,,0,0,0,,Co je?
+Dialogue: 0,0:00:39.49,0:00:41.33,Default,,0,0,0,,Kde jsou máma s tátou?
+Dialogue: 0,0:00:41.83,0:00:44.54,Default,,0,0,0,,Jsou vzhůru už dávno.
+Dialogue: 0,0:00:46.83,0:00:48.09,Default,,0,0,0,,Vzbudil jsem ho.
+Dialogue: 0,0:00:48.17,0:00:49.55,Default,,0,0,0,,Dobré ráno, Taijo.
+Dialogue: 0,0:00:49.63,0:00:51.88,Default,,0,0,0,,Snídaně už je na stole.
+Dialogue: 0,0:00:52.55,0:00:54.68,Default,,0,0,0,,Většinou takhle dlouho nespíš.
+Dialogue: 0,0:00:58.30,0:00:59.55,Default,,0,0,0,,Pojď, bráško.
+Dialogue: 0,0:00:59.64,0:01:02.56,Default,,0,0,0,,Rychle se nasnídáme,\Nať si můžeme zas hrát.
+Dialogue: 0,0:01:02.64,0:01:04.14,Default,,0,0,0,,Jasně.
+Dialogue: 0,0:01:19.91,0:01:24.83,Default,,0,0,0,,MISE: RODINA YOZAKURA
+Dialogue: 0,0:02:42.03,0:02:43.70,Default,,0,0,0,,Díky za snídani!
+Dialogue: 0,0:02:46.24,0:02:48.29,Default,,0,0,0,,Počkej. Ještě jsi nedojedl.
+Dialogue: 0,0:02:48.37,0:02:50.96,Default,,0,0,0,,Musíš pořádně jíst, abys vyrostl.
+Dialogue: 0,0:02:51.04,0:02:54.54,Default,,0,0,0,,Jo! Podívej se na mě. Přidal jsem si.
+Dialogue: 0,0:02:54.63,0:02:57.01,Default,,0,0,0,,Proto máš tak veliký břicho?
+Dialogue: 0,0:02:57.88,0:03:00.43,Default,,0,0,0,,-To fakt má, viď, Hikaru?\N-Cože?
+Dialogue: 0,0:03:00.51,0:03:02.43,Default,,0,0,0,,Že bys začínal dědkovatět?
+Dialogue: 0,0:03:02.51,0:03:03.72,Default,,0,0,0,,Nezačínej i ty, zlato.
+Dialogue: 0,0:03:03.80,0:03:07.72,Default,,0,0,0,,No, poslední dobou… Hele, neměň téma!
+Dialogue: 0,0:03:08.52,0:03:13.40,Default,,0,0,0,,Šup, Hikaru.\NJá ti s tím pomůžu, tak to dojez.
+Dialogue: 0,0:03:15.23,0:03:18.36,Default,,0,0,0,,-Ty jo!\N-Díky, Taijo!
+Dialogue: 0,0:03:18.44,0:03:19.90,Default,,0,0,0,,Ty jo, bráško!
+Dialogue: 0,0:03:19.99,0:03:21.49,Default,,0,0,0,,Nepolil ses?
+Dialogue: 0,0:03:21.57,0:03:23.07,Default,,0,0,0,,Ne, jsem v pohodě.
+Dialogue: 0,0:03:23.16,0:03:26.16,Default,,0,0,0,,{\i1}Jak jsem to jenom…{\i0}
+Dialogue: 0,0:03:26.24,0:03:29.70,Default,,0,0,0,,Mám nápad! Nezajedeme o víkendu někam?
+Dialogue: 0,0:03:29.79,0:03:32.58,Default,,0,0,0,,No proč ne. Kam byste se chtěli podívat?
+Dialogue: 0,0:03:32.67,0:03:34.88,Default,,0,0,0,,Já chci tábořit!
+Dialogue: 0,0:03:34.96,0:03:36.67,Default,,0,0,0,,Tábořit, jo?
+Dialogue: 0,0:03:36.75,0:03:39.21,Default,,0,0,0,,To jsme už dlouho nepodnikli.
+Dialogue: 0,0:03:39.30,0:03:42.30,Default,,0,0,0,,Když jsem byl mladší,\Nsnil jsem, že budu jednou tábořit sám,
+Dialogue: 0,0:03:42.38,0:03:46.43,Default,,0,0,0,,takže jsem si o tom četl v časopisech\Na nakoupil veškeré vybavení…
+Dialogue: 0,0:03:46.51,0:03:49.68,Default,,0,0,0,,a nakonec ho ani nepoužil.
+Dialogue: 0,0:03:49.77,0:03:51.89,Default,,0,0,0,,Taky bys chtěl tábořit, Taijo?
+Dialogue: 0,0:03:53.10,0:03:54.65,Default,,0,0,0,,Klidně můžeme.
+Dialogue: 0,0:03:54.73,0:03:56.61,Default,,0,0,0,,Ale nemáš práci, mami?
+Dialogue: 0,0:03:56.69,0:03:59.07,Default,,0,0,0,,Neboj. Vzala jsem si volno.
+Dialogue: 0,0:03:59.15,0:04:01.70,Default,,0,0,0,,-Super!\N-Paráda!
+Dialogue: 0,0:04:01.78,0:04:03.03,Default,,0,0,0,,Moc si to užijeme.
+Dialogue: 0,0:04:08.08,0:04:10.91,Default,,0,0,0,,ZMÁČKNI TO!
+Dialogue: 0,0:04:11.75,0:04:13.96,Default,,0,0,0,,KONEC HRY
+Dialogue: 0,0:04:14.04,0:04:16.50,Default,,0,0,0,,Bráško, co to bylo?
+Dialogue: 0,0:04:16.59,0:04:18.38,Default,,0,0,0,,Kvůli tobě jsme prohráli.
+Dialogue: 0,0:04:18.46,0:04:19.92,Default,,0,0,0,,Promiň.
+Dialogue: 0,0:04:20.51,0:04:24.76,Default,,0,0,0,,Dneska nejsi ve své kůži.\NCelou dobu jsi úplně mimo.
+Dialogue: 0,0:04:24.84,0:04:27.47,Default,,0,0,0,,Promiň. Zkusíme to znovu.
+Dialogue: 0,0:04:27.55,0:04:29.97,Default,,0,0,0,,Tentokrát dávej pozor!
+Dialogue: 0,0:04:30.06,0:04:31.48,Default,,0,0,0,,Jasňačka.
+Dialogue: 0,0:04:32.02,0:04:33.02,Default,,0,0,0,,{\an8}Načítání
+Dialogue: 0,0:04:33.10,0:04:35.40,Default,,0,0,0,,{\an8}Problém je, že se vůbec nechráníš.
+Dialogue: 0,0:04:35.48,0:04:38.23,Default,,0,0,0,,Musíš sledovat celou obrazovku.
+Dialogue: 0,0:04:38.94,0:04:41.82,Default,,0,0,0,,Tak jo, tentokrát to vyhrajeme.
+Dialogue: 0,0:04:43.20,0:04:44.78,Default,,0,0,0,,{\i1}Co to bylo?{\i0}
+Dialogue: 0,0:04:45.95,0:04:47.37,Default,,0,0,0,,{\i1}Jako bych…{\i0}
+Dialogue: 0,0:04:47.45,0:04:50.37,Default,,0,0,0,,{\i1}zapomněl něco důležitého.{\i0}
+Dialogue: 0,0:04:53.21,0:04:54.87,Default,,0,0,0,,{\i1}No, to je jedno.{\i0}
+Dialogue: 0,0:05:13.98,0:05:16.35,Default,,0,0,0,,{\i1}Brácha Šinzo! Kengo!{\i0}
+Dialogue: 0,0:05:20.44,0:05:21.69,Default,,0,0,0,,{\i1}Vrací se na loď?{\i0}
+Dialogue: 0,0:05:55.64,0:05:56.94,Default,,0,0,0,,Mucumi!
+Dialogue: 0,0:06:08.95,0:06:11.28,Default,,0,0,0,,Brácho Kjoičiro! Ségro Futabo!
+Dialogue: 0,0:06:11.37,0:06:13.74,Default,,0,0,0,,Brácho Šinzo! Ségro Šion!
+Dialogue: 0,0:06:13.83,0:06:15.66,Default,,0,0,0,,Kengo! Nanao!
+Dialogue: 0,0:06:20.58,0:06:21.79,Default,,0,0,0,,{\i1}Dostal všechny?{\i0}
+Dialogue: 0,0:06:24.38,0:06:27.30,Default,,0,0,0,,{\i1}Tohle je otcova moc?{\i0}
+Dialogue: 0,0:06:37.89,0:06:39.94,Default,,0,0,0,,{\i1}Sken lodi dokončen.{\i0}
+Dialogue: 0,0:06:40.02,0:06:44.15,Default,,0,0,0,,{\i1}Zachytil jsem vysokou hladinu someininu,{\i0}\N{\i1}co se po lodi šíří jako mor.{\i0}
+Dialogue: 0,0:06:44.23,0:06:47.36,Default,,0,0,0,,{\i1}Jestli dojde k souběžnému výbuchu,{\i0}\N{\i1}nezničí to jenom loď.{\i0}
+Dialogue: 0,0:06:47.44,0:06:50.11,Default,,0,0,0,,{\i1}Vypaří i veškerou vodu v okolí.{\i0}
+Dialogue: 0,0:06:50.20,0:06:52.32,Default,,0,0,0,,Podařilo se ti kontaktovat Jozakurovy?
+Dialogue: 0,0:06:52.41,0:06:56.04,Default,,0,0,0,,{\i1}Moduly byly spáleny,{\i0}\N{\i1}takže komunikace je nemožná.{\i0}
+Dialogue: 0,0:06:56.12,0:06:57.87,Default,,0,0,0,,Musíme je zachránit!
+Dialogue: 0,0:06:57.95,0:06:59.12,Default,,0,0,0,,Počkej, Ryu.
+Dialogue: 0,0:07:00.12,0:07:01.33,Default,,0,0,0,,Nezastavuj mě.
+Dialogue: 0,0:07:02.21,0:07:06.30,Default,,0,0,0,,Nemůžeme tam jít naslepo,\Nkdyž nevíme, co se děje.
+Dialogue: 0,0:07:06.80,0:07:09.42,Default,,0,0,0,,Souhlasím s předsedou.
+Dialogue: 0,0:07:11.72,0:07:12.97,Default,,0,0,0,,No dobrá.
+Dialogue: 0,0:07:13.97,0:07:17.10,Default,,0,0,0,,Gigo, kontaktuj velín přístavu.
+Dialogue: 0,0:07:17.18,0:07:19.43,Default,,0,0,0,,Požádej je, ať rozšíří blokádu.
+Dialogue: 0,0:07:19.52,0:07:20.85,Default,,0,0,0,,{\i1}Rozkaz!{\i0}
+Dialogue: 0,0:07:24.44,0:07:26.36,Default,,0,0,0,,Zbytek necháme na nich.
+Dialogue: 0,0:07:27.36,0:07:30.03,Default,,0,0,0,,{\i1}Každopádně s tím, jak se teď věci mají…{\i0}
+Dialogue: 0,0:07:31.40,0:07:33.16,Default,,0,0,0,,{\i1}můžu ostatní zachránit…{\i0}
+Dialogue: 0,0:07:34.78,0:07:36.08,Default,,0,0,0,,{\i1}jenom já!{\i0}
+Dialogue: 0,0:07:50.05,0:07:54.76,Default,,0,0,0,,Přeseknout uvítací výbor,\Nco jsem poslal, je velmi barbarské.
+Dialogue: 0,0:07:54.84,0:07:57.22,Default,,0,0,0,,Jsi celý Kjoičiro.
+Dialogue: 0,0:07:57.31,0:07:59.93,Default,,0,0,0,,Ten dorazí za chvíli.
+Dialogue: 0,0:08:21.29,0:08:23.75,Default,,0,0,0,,Vítej doma, Taijo.
+Dialogue: 0,0:08:24.83,0:08:26.13,Default,,0,0,0,,Podává se večeře.
+Dialogue: 0,0:08:26.63,0:08:27.96,Default,,0,0,0,,Posaď se.
+Dialogue: 0,0:08:40.01,0:08:41.89,Default,,0,0,0,,Cos jim provedl?
+Dialogue: 0,0:08:52.36,0:08:55.41,Default,,0,0,0,,Mým rozkvětem jsou „Sny“.
+Dialogue: 0,0:08:57.32,0:08:58.95,Default,,0,0,0,,{\i1}Taky jsi ho měl, ne?{\i0}
+Dialogue: 0,0:08:59.03,0:09:03.37,Default,,0,0,0,,{\i1}Ideální sen,{\i0}\N{\i1}kde bolest a utrpení neexistují.{\i0}
+Dialogue: 0,0:09:04.75,0:09:09.38,Default,,0,0,0,,Vůně třešní vše zahaluje do mého snu.
+Dialogue: 0,0:09:09.88,0:09:12.05,Default,,0,0,0,,Není živé duše, která by tomu odolala.
+Dialogue: 0,0:09:12.13,0:09:16.76,Default,,0,0,0,,Tedy s výjimkou tebe,\Nprotože máš Cubomiinu krev.
+Dialogue: 0,0:09:20.68,0:09:23.93,Default,,0,0,0,,Vrať je všechny zpátky,\Naby byli jako dřív!
+Dialogue: 0,0:09:24.02,0:09:26.27,Default,,0,0,0,,To jsem udělal.
+Dialogue: 0,0:09:26.77,0:09:29.40,Default,,0,0,0,,Proměnil je na to,\Nčím moje rodina měla být.
+Dialogue: 0,0:09:30.36,0:09:31.86,Default,,0,0,0,,Tomuhle říkáš rodina?
+Dialogue: 0,0:09:32.57,0:09:34.11,Default,,0,0,0,,Rodina je…
+Dialogue: 0,0:09:37.70,0:09:39.32,Default,,0,0,0,,RODINNÝ HROB ASANOVÝCH
+Dialogue: 0,0:09:40.03,0:09:41.99,Default,,0,0,0,,Rodina je…
+Dialogue: 0,0:09:43.66,0:09:47.42,Default,,0,0,0,,Mýlíš se. Tohle je rodina, Taijo.
+Dialogue: 0,0:09:49.54,0:09:51.46,Default,,0,0,0,,Sám bys to měl vědět.
+Dialogue: 0,0:09:51.96,0:09:54.09,Default,,0,0,0,,Rodiny jsou křehké a pomíjivé.
+Dialogue: 0,0:09:54.71,0:09:57.97,Default,,0,0,0,,Proto jsem se rozhodl\Nsi ji celou vybudovat sám.
+Dialogue: 0,0:09:58.55,0:10:01.60,Default,,0,0,0,,Silnou rodinu,\Nkterá nemůže být nikdy zničena.
+Dialogue: 0,0:10:26.79,0:10:28.21,Default,,0,0,0,,Je moc pozdě.
+Dialogue: 0,0:10:28.29,0:10:31.92,Default,,0,0,0,,Zatracený Kawašita. Ten má ale drzost…
+Dialogue: 0,0:10:32.00,0:10:34.71,Default,,0,0,0,,Tenhle chlapec patří mně.
+Dialogue: 0,0:10:39.84,0:10:41.43,Default,,0,0,0,,Beru si tě zpátky.
+Dialogue: 0,0:10:46.93,0:10:48.23,Default,,0,0,0,,{\i1}To není sen.{\i0}
+Dialogue: 0,0:10:49.10,0:10:50.23,Default,,0,0,0,,{\i1}Tohle si pamatuju.{\i0}
+Dialogue: 0,0:10:51.35,0:10:53.36,Default,,0,0,0,,{\i1}Myslel jsem, že mám vidiny.{\i0}
+Dialogue: 0,0:10:54.02,0:10:56.65,Default,,0,0,0,,O zbytek se postarají záchranáři.
+Dialogue: 0,0:10:57.15,0:10:59.86,Default,,0,0,0,,{\i1}Ale ten den někdo…{\i0}
+Dialogue: 0,0:11:00.78,0:11:01.82,Default,,0,0,0,,{\i1}určitě…{\i0}
+Dialogue: 0,0:11:05.66,0:11:09.16,Default,,0,0,0,,Dohlížel jsem na tebe celou tu dobu.
+Dialogue: 0,0:11:10.46,0:11:12.63,Default,,0,0,0,,{\i1}Ačkoli jsem se snažil,{\i0}
+Dialogue: 0,0:11:12.71,0:11:15.67,Default,,0,0,0,,{\i1}karmický cyklus Jozakurových{\i0}\N{\i1}jsem prolomit nedokázal.{\i0}
+Dialogue: 0,0:11:16.63,0:11:19.84,Default,,0,0,0,,{\i1}Potřeboval jsem čerstvou krev.{\i0}
+Dialogue: 0,0:11:21.26,0:11:22.64,Default,,0,0,0,,{\i1}Vlastně to bylo nasnadě.{\i0}
+Dialogue: 0,0:11:22.72,0:11:28.31,Default,,0,0,0,,{\i1}K Mucumi se nejlépe hodil obyčejný,{\i0}\N{\i1}nedotčený hoch ze sousedství.{\i0}
+Dialogue: 0,0:11:37.82,0:11:41.57,Default,,0,0,0,,{\i1}To já si tě vybral.{\i0}
+Dialogue: 0,0:11:49.41,0:11:51.04,Default,,0,0,0,,{\i1}Je mi jedno,{\i0}
+Dialogue: 0,0:11:51.62,0:11:54.83,Default,,0,0,0,,{\i1}koho musím obětovat,{\i0}\N{\i1}abych nás všechny zachránil.{\i0}
+Dialogue: 0,0:11:56.71,0:12:01.30,Default,,0,0,0,,To já tě udělal silným.
+Dialogue: 0,0:12:08.35,0:12:12.56,Default,,0,0,0,,Pravda. Bujný rozkvět deseti tisíc květů\Nmému rozkvětu odolá.
+Dialogue: 0,0:12:13.10,0:12:17.44,Default,,0,0,0,,Ale když tebou teď otřásly vzpomínky,\Nnechráníš se.
+Dialogue: 0,0:12:18.07,0:12:20.90,Default,,0,0,0,,Jsi uprostřed snu…
+Dialogue: 0,0:12:21.44,0:12:23.45,Default,,0,0,0,,ze kterého se nikdy neprobudíš.
+Dialogue: 0,0:12:24.07,0:12:27.08,Default,,0,0,0,,Ideální rodina, o níž jsem snil,
+Dialogue: 0,0:12:27.16,0:12:29.99,Default,,0,0,0,,tu konečně vznikne.
+Dialogue: 0,0:12:36.96,0:12:40.71,Default,,0,0,0,,Taijo, vítej v rodině Jozakurových.
+Dialogue: 0,0:12:53.69,0:12:55.27,Default,,0,0,0,,Tu iluzi si strč někam!
+Dialogue: 0,0:13:05.74,0:13:07.66,Default,,0,0,0,,Ukážu ti…
+Dialogue: 0,0:13:08.32,0:13:12.54,Default,,0,0,0,,skutečnou blaženost,\Nkdy nechybí ani jeden člověk.
+Dialogue: 0,0:13:13.66,0:13:16.17,Default,,0,0,0,,Můžeš se uvolnit.
+Dialogue: 0,0:13:16.67,0:13:19.09,Default,,0,0,0,,Za nic z toho nemůžeš.
+Dialogue: 0,0:13:19.17,0:13:20.63,Default,,0,0,0,,Neudělal jsi nic špatného.
+Dialogue: 0,0:13:21.13,0:13:26.05,Default,,0,0,0,,Odevzdej se blaženému snu,\Npo kterém jsi celou tu dobu toužil…
+Dialogue: 0,0:13:26.13,0:13:27.30,Default,,0,0,0,,Taijo.
+Dialogue: 0,0:13:27.97,0:13:31.06,Default,,0,0,0,,Vyrostl jsi, Taijo.
+Dialogue: 0,0:13:48.03,0:13:49.20,Default,,0,0,0,,{\i1}Mami.{\i0}
+Dialogue: 0,0:13:54.58,0:13:57.58,Default,,0,0,0,,Promiň, že jsme tě\Nnechali samotného, Taijo.
+Dialogue: 0,0:13:59.00,0:14:02.59,Default,,0,0,0,,{\an8}IMATRIKULACE
+Dialogue: 0,0:14:14.56,0:14:15.56,Default,,0,0,0,,{\i1}Tati.{\i0}
+Dialogue: 0,0:14:16.60,0:14:19.60,Default,,0,0,0,,Chyběl jsi mi, bráško.
+Dialogue: 0,0:14:24.69,0:14:27.15,Default,,0,0,0,,ZMÁČKNI TO!
+Dialogue: 0,0:14:27.95,0:14:30.07,Default,,0,0,0,,PROHRA – VÝHRA
+Dialogue: 0,0:14:37.12,0:14:38.25,Default,,0,0,0,,{\i1}Hikaru.{\i0}
+Dialogue: 0,0:14:40.08,0:14:43.25,Default,,0,0,0,,Přestaň. Nemluv o mojí rodině,
+Dialogue: 0,0:14:43.34,0:14:46.55,Default,,0,0,0,,když používáš ty falešné obrazy a hlasy!
+Dialogue: 0,0:14:47.05,0:14:48.59,Default,,0,0,0,,{\i1}Už je nikdy neuvidím.{\i0}
+Dialogue: 0,0:14:48.67,0:14:50.30,Default,,0,0,0,,{\i1}Už s nimi nikdy nepromluvím.{\i0}
+Dialogue: 0,0:14:50.38,0:14:51.93,Default,,0,0,0,,{\i1}Nikdy se nemůžu vrátit.{\i0}
+Dialogue: 0,0:14:52.01,0:14:54.35,Default,,0,0,0,,Ať toho lituju sebevíc, je moc pozdě.
+Dialogue: 0,0:14:54.43,0:14:56.85,Default,,0,0,0,,Ať už je mám rád sebevíc,\Nk ničemu to není!
+Dialogue: 0,0:14:56.93,0:15:01.10,Default,,0,0,0,,{\i1}Modlil jsem se, křičel, vztekal, brečel…{\i0}
+Dialogue: 0,0:15:04.07,0:15:05.48,Default,,0,0,0,,a přijal to.
+Dialogue: 0,0:15:06.15,0:15:09.70,Default,,0,0,0,,Tak to přijmi ještě jednou.
+Dialogue: 0,0:15:09.78,0:15:13.03,Default,,0,0,0,,Budoucnost, která ti vždy měla náležet.
+Dialogue: 0,0:15:13.12,0:15:19.12,Default,,0,0,0,,Fikce se stane realitou\Na lži se stanou pravdou.
+Dialogue: 0,0:15:22.54,0:15:24.09,Default,,0,0,0,,A pak uvidíš…
+Dialogue: 0,0:15:32.34,0:15:33.43,Default,,0,0,0,,Jsem doma!
+Dialogue: 0,0:15:34.30,0:15:35.60,Default,,0,0,0,,Bráško!
+Dialogue: 0,0:15:37.06,0:15:38.72,Default,,0,0,0,,Rychle, bráško!
+Dialogue: 0,0:15:38.81,0:15:41.81,Default,,0,0,0,,Kolotoč bráchy Nanaa je naprosto boží!
+Dialogue: 0,0:15:41.89,0:15:45.40,Default,,0,0,0,,No tak, Hikaru! Dívej se, kam šlapeš.
+Dialogue: 0,0:15:45.48,0:15:47.61,Default,,0,0,0,,Hikaru je plný energie!
+Dialogue: 0,0:15:47.69,0:15:51.15,Default,,0,0,0,,Mám dva kluky,\Nmusím být neustále ve střehu.
+Dialogue: 0,0:15:51.24,0:15:53.45,Default,,0,0,0,,Proto jsem tak ráda,
+Dialogue: 0,0:15:53.53,0:15:56.99,Default,,0,0,0,,že Taijovou nevěstou je dívka jako Mucumi.
+Dialogue: 0,0:15:58.20,0:16:00.79,Default,,0,0,0,,Je tu krásně živo, taky mám velkou radost.
+Dialogue: 0,0:16:00.87,0:16:03.83,Default,,0,0,0,,Pane Momo, nedáme si večer skleničku?
+Dialogue: 0,0:16:03.92,0:16:05.17,Default,,0,0,0,,To zní dobře!
+Dialogue: 0,0:16:05.25,0:16:08.00,Default,,0,0,0,,Otevřu další láhev Jozakurovy vánice.
+Dialogue: 0,0:16:08.09,0:16:12.30,Default,,0,0,0,,Taijo, Hikaru! Hned se vraťte!
+Dialogue: 0,0:16:21.48,0:16:22.48,Default,,0,0,0,,{\i1}Ne.{\i0}
+Dialogue: 0,0:16:23.10,0:16:24.81,Default,,0,0,0,,{\i1}Tohle není realita.{\i0}
+Dialogue: 0,0:16:25.44,0:16:26.44,Default,,0,0,0,,{\i1}A přesto…{\i0}
+Dialogue: 0,0:16:29.61,0:16:31.40,Default,,0,0,0,,Pojď, bráško.
+Dialogue: 0,0:16:41.79,0:16:42.79,Default,,0,0,0,,{\i1}Ksakru!{\i0}
+Dialogue: 0,0:16:58.26,0:17:00.81,Default,,0,0,0,,Brácho…
+Dialogue: 0,0:17:07.81,0:17:12.86,Default,,0,0,0,,Násilný vstup, to jsi celý ty, Kjoičiro.
+Dialogue: 0,0:17:12.94,0:17:15.91,Default,,0,0,0,,Posaď se.
+Dialogue: 0,0:17:38.39,0:17:39.89,Default,,0,0,0,,Brácho Kjoičiro!
+Dialogue: 0,0:17:44.10,0:17:45.64,Default,,0,0,0,,Arachné, bohynina pavučina…
+Dialogue: 0,0:17:45.73,0:17:48.52,Default,,0,0,0,,nepřekonatelná zeď, která všechno uzavře,
+Dialogue: 0,0:17:48.60,0:17:50.57,Default,,0,0,0,,tajná technika ocelového pavouka.
+Dialogue: 0,0:17:51.15,0:17:52.44,Default,,0,0,0,,Chápu.
+Dialogue: 0,0:17:52.53,0:17:55.32,Default,,0,0,0,,Proto necítí vůni třešňového květu
+Dialogue: 0,0:17:55.40,0:17:58.70,Default,,0,0,0,,a můj rozkvět ho neovlivnil.
+Dialogue: 0,0:17:59.95,0:18:03.24,Default,,0,0,0,,Konečně jsi to zdokonalil, Kjoičiro.
+Dialogue: 0,0:18:03.74,0:18:07.00,Default,,0,0,0,,S láskou vzpomínám na časy,\Nkdy jsme to spolu vymýšleli.
+Dialogue: 0,0:18:07.08,0:18:10.84,Default,,0,0,0,,Dovednost, kterou jsme vytvořili\Npro dobro rodiny.
+Dialogue: 0,0:18:10.92,0:18:13.55,Default,,0,0,0,,Takže takhle se používat nemá.
+Dialogue: 0,0:18:17.01,0:18:18.80,Default,,0,0,0,,Svou rodinu ochráním…
+Dialogue: 0,0:18:18.88,0:18:21.97,Default,,0,0,0,,před vším zlem…
+Dialogue: 0,0:18:24.52,0:18:27.52,Default,,0,0,0,,a před vším, co se teď chystám udělat.
+Dialogue: 0,0:18:29.27,0:18:30.48,Default,,0,0,0,,Nádhera.
+Dialogue: 0,0:18:31.19,0:18:33.48,Default,,0,0,0,,To je nádhera, Kjoičiro!
+Dialogue: 0,0:18:37.07,0:18:40.03,Default,,0,0,0,,{\i1}Arachné, bohyninu pavučinu{\i0}\N{\i1}zničit nedokážu,{\i0}
+Dialogue: 0,0:18:40.11,0:18:41.12,Default,,0,0,0,,{\i1}ale…{\i0}
+Dialogue: 0,0:18:41.70,0:18:45.04,Default,,0,0,0,,{\i1}To já tě naučil, jak ta vlákna používat.{\i0}
+Dialogue: 0,0:18:45.66,0:18:48.41,Default,,0,0,0,,{\i1}Vlákna vycházejí přímo z tvé duše.{\i0}
+Dialogue: 0,0:18:48.50,0:18:52.88,Default,,0,0,0,,{\i1}Tvá technika tkaní ukazuje,{\i0}\N{\i1}jak svou rodinu miluješ.{\i0}
+Dialogue: 0,0:18:53.46,0:18:57.30,Default,,0,0,0,,{\i1}Možná ji nedokážu zlomit,{\i0}\N{\i1}ale můžu ji rozmotat,{\i0}
+Dialogue: 0,0:18:57.38,0:18:59.34,Default,,0,0,0,,{\i1}stejně jako tvou duši.{\i0}
+Dialogue: 0,0:18:59.43,0:19:04.68,Default,,0,0,0,,{\i1}Tvůj vztek a nenávist vůči mně,{\i0}\N{\i1}tyto vzpomínky už nepotřebuješ.{\i0}
+Dialogue: 0,0:19:04.76,0:19:08.27,Default,,0,0,0,,{\i1}Přestaneš si myslet, že mě musíš zabít.{\i0}
+Dialogue: 0,0:19:08.85,0:19:13.19,Default,,0,0,0,,{\i1}Odteď mě totiž budeš milovat.{\i0}
+Dialogue: 0,0:19:43.89,0:19:46.10,Default,,0,0,0,,Pustil ses do toho pěkně brzy.
+Dialogue: 0,0:19:47.39,0:19:48.39,Default,,0,0,0,,Tati.
+Dialogue: 0,0:19:49.35,0:19:52.10,Default,,0,0,0,,Co říkáš na trénink?
+Dialogue: 0,0:19:59.28,0:20:03.74,Default,,0,0,0,,Reflexy máš dobré, ale je to moc rovné.
+Dialogue: 0,0:20:03.82,0:20:07.79,Default,,0,0,0,,Musíš odrazit více útoků jediným vláknem.
+Dialogue: 0,0:20:07.87,0:20:10.66,Default,,0,0,0,,Zahltit nepřítele obrannými manévry.
+Dialogue: 0,0:20:14.96,0:20:19.17,Default,,0,0,0,,Když to zvládneš,\Nbudeš mít čas na protiútok.
+Dialogue: 0,0:20:25.05,0:20:28.51,Default,,0,0,0,,To je můj kluk! Učíš se rychle.
+Dialogue: 0,0:20:28.60,0:20:29.68,Default,,0,0,0,,A teď…
+Dialogue: 0,0:20:33.44,0:20:35.81,Default,,0,0,0,,To jsou rukavice ocelového pavouka.
+Dialogue: 0,0:20:35.90,0:20:38.90,Default,,0,0,0,,Hodí se k tobě víc\Nnež zbraně a nože, nemyslíš?
+Dialogue: 0,0:20:38.98,0:20:41.03,Default,,0,0,0,,A navíc spolu ladíme!
+Dialogue: 0,0:20:42.19,0:20:45.61,Default,,0,0,0,,{\i1}Doteď jsi cvičil s holýma rukama,{\i0}
+Dialogue: 0,0:20:45.70,0:20:48.12,Default,,0,0,0,,{\i1}takže jsi cítil každý pohyb vláken.{\i0}
+Dialogue: 0,0:20:48.20,0:20:51.75,Default,,0,0,0,,{\i1}Díky tomu jsi je vypiloval k dokonalosti.{\i0}
+Dialogue: 0,0:20:51.83,0:20:55.92,Default,,0,0,0,,{\i1}Nyní musíš pochopit{\i0}\N{\i1}skutečnou podstatu své moci.{\i0}
+Dialogue: 0,0:20:56.92,0:20:59.92,Default,,0,0,0,,Jak ji chceš používat?
+Dialogue: 0,0:21:00.59,0:21:03.88,Default,,0,0,0,,Použiju ji, abych všechny ochránil.
+Dialogue: 0,0:21:04.59,0:21:06.22,Default,,0,0,0,,Opravdu?
+Dialogue: 0,0:21:06.30,0:21:09.39,Default,,0,0,0,,Vlákna trhají tvé nepřátele\Na chrání tvé spojence.
+Dialogue: 0,0:21:09.89,0:21:14.69,Default,,0,0,0,,Rukavice mohou být zbraně,\Nale i brnění, které tvé ruce ochrání.
+Dialogue: 0,0:21:14.77,0:21:16.98,Default,,0,0,0,,Do jejich tkaní jsem vložil své srdce,
+Dialogue: 0,0:21:17.06,0:21:19.52,Default,,0,0,0,,aby se ti nic nestalo.
+Dialogue: 0,0:21:19.61,0:21:21.65,Default,,0,0,0,,Dobře se o ně starej.
+Dialogue: 0,0:21:21.73,0:21:23.53,Default,,0,0,0,,Díky, tati.
+Dialogue: 0,0:21:24.32,0:21:26.11,Default,,0,0,0,,Budu si jich vážit.
+Dialogue: 0,0:21:34.91,0:21:38.38,Default,,0,0,0,,Vymývat mozek mi skutečně nemusíš, tati.
+Dialogue: 0,0:21:38.88,0:21:40.00,Default,,0,0,0,,Koneckonců…
+Dialogue: 0,0:21:40.67,0:21:42.25,Default,,0,0,0,,tě mám rád.
+Dialogue: 0,0:21:42.76,0:21:44.13,Default,,0,0,0,,Tehdy i teď.
+Dialogue: 0,0:21:47.18,0:21:51.18,Default,,0,0,0,,Proto jsem tě měl zastavit,\Nale nedokázal jsem to.
+Dialogue: 0,0:21:51.68,0:21:52.68,Default,,0,0,0,,Protože…
+Dialogue: 0,0:21:52.77,0:21:57.69,Default,,0,0,0,,jsem doufal, že se moje rodina vrátí.
+Dialogue: 0,0:21:58.73,0:22:00.82,Default,,0,0,0,,{\i1}I když jsem věděl, že se to nestane.{\i0}
+Dialogue: 0,0:22:01.73,0:22:03.03,Default,,0,0,0,,Jsem úplně stejný…
+Dialogue: 0,0:22:03.11,0:22:04.24,Default,,0,0,0,,Jako ty, tati.
+Dialogue: 0,0:22:07.40,0:22:10.87,Default,,0,0,0,,Skončeme to teď… pro naše dobro.
+Dialogue: 0,0:22:33.26,0:22:35.56,Default,,0,0,0,,Sbohem, tati.
+Dialogue: 0,0:24:16.91,0:24:18.91,Default,,0,0,0,,České titulky Pavlína Tajnerová
+
