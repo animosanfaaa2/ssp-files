@@ -1,0 +1,355 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.35,0:00:03.69,Cart_A_Tre,CARTEL,0,0,0,,{\fad(500,450)\fnGeorgia\fscx85\shad1\bord0\c&HC8C8C8&\pos(174,286)}La información de Vigo
+Dialogue: 1,0:00:00.79,0:00:04.43,Gen_Main_Up,Licia,0,0,0,,Creo que había una mente maestra\Ndetrás de la operación de Vigo.
+Dialogue: 0,0:00:05.25,0:00:10.42,Gen_Main,Rosell,0,0,0,,Quizás Borotz dirigía a Vigo\Npara debilitar Canarre.
+Dialogue: 0,0:00:10.51,0:00:13.07,Gen_Main,Rosell,0,0,0,,Los objetos mágicos\Nde invisibilidad son valiosos
+Dialogue: 0,0:00:13.16,0:00:14.98,Gen_Main,Rosell,0,0,0,,y difíciles de conseguir.
+Dialogue: 0,0:00:15.08,0:00:18.91,Gen_Main,Rosell,0,0,0,,Tal vez arregló todo\Npara poner uno en manos de Vigo.
+Dialogue: 0,0:00:19.51,0:00:22.41,Gen_Main,Licia,0,0,0,,También me preocupa\Notra cosa que mencionó…
+Dialogue: 0,0:00:22.82,0:00:27.79,Gen_Main,Vigo,0,0,0,,Ahora que recuerdo, Borotz dijo\Nque no podíamos dejar con vida al chico.
+Dialogue: 0,0:00:27.88,0:00:31.42,Gen_Main,Vigo,0,0,0,,También estuvo preguntando\Npor ahí sobre asesinos.
+Dialogue: 0,0:00:31.51,0:00:35.00,Gen_Main,Charlotte,0,0,0,,Pero ¿por qué lo haría\Ntan abiertamente?
+Dialogue: 0,0:00:35.10,0:00:39.06,Gen_Main,Rosell,0,0,0,,Probablemente no le importe\Nque nos enteremos.
+Dialogue: 0,0:00:39.78,0:00:42.96,Gen_Main,Rosell,0,0,0,,Si Ars se encierra en su mansión\Npor miedo a que lo asesinen,
+Dialogue: 0,0:00:43.06,0:00:46.53,Gen_Main,Rosell,0,0,0,,no podrá reclutar a nadie más\Ny Canarre se estancará.
+Dialogue: 0,0:00:46.61,0:00:49.84,Gen_Main,Rosell,0,0,0,,Pero si no se entera\Ny sigue contratando gente,
+Dialogue: 0,0:00:49.90,0:00:53.07,Gen_Main,Rosell,0,0,0,,simplemente pueden enviar\Na su asesino para matarlo.
+Dialogue: 0,0:00:53.45,0:00:56.88,Gen_Main,Rosell,0,0,0,,El poder de Ars solo es útil\Nsi ve a alguien cara a cara.
+Dialogue: 0,0:00:56.95,0:00:59.58,Gen_Main,Rosell,0,0,0,,Parece que planea usar eso\Nen su contra.
+Dialogue: 0,0:00:59.66,0:01:04.00,Gen_Main,Ars,0,0,0,,Es cierto. No puedo usar mi poder\Nhasta ver a alguien en persona.
+Dialogue: 0,0:01:04.09,0:01:08.76,Gen_Main,Ars,0,0,0,,Pero creo que podría identificar\Nal asesino en cuanto lo vea.
+Dialogue: 0,0:01:08.84,0:01:11.96,Gen_Main,Ars,0,0,0,,Si quiere poner a prueba mis ojos,\Naceptaré su desafío.
+Dialogue: 0,0:01:12.38,0:01:16.09,Gen_Main,Rietz,0,0,0,,Aun así, señorito Ars,\Ndebe tener cuidado.
+Dialogue: 0,0:01:16.51,0:01:20.41,Gen_Main,Rietz,0,0,0,,Cualquiera con quien se encuentre\Npodría ser un asesino.
+Dialogue: 0,0:01:21.39,0:01:24.29,Gen_Main,Madam,0,0,0,,¿Quedó claro el plan?\NAsegúrate de hacerlo bien.
+Dialogue: 0,0:02:49.27,0:02:55.03,Cart_A_Tre,CARTEL,0,0,0,,{\q2\fnGeorgia\fs18\fscy110\blur2\3c&HD3C573&\pos(320,289.57)}A{\3c&HD2C574&}s {\3c&HCFC475&}a {\3c&HCCC476&}R{\3c&HCAC476&}e{\3c&HC9C377&}i{\3c&HC8C378&}n{\3c&HC6C378&}c{\3c&HC5C379&}a{\3c&HC3C279&}r{\3c&HC2C27A&}n{\3c&HC0C27A&}a{\3c&HBFC27B&}t{\3c&HBEC17C&}e{\3c&HBCC17C&}d {\3c&HB9C17D&}A{\3c&HB8C07E&}r{\3c&HB6C07E&}i{\3c&HB5C07F&}s{\3c&HB4C080&}t{\3c&HB2BF80&}o{\3c&HB1BF81&}c{\3c&HAFBF81&}r{\3c&HAEBF82&}a{\3c&HACBE82&}t{\3c&HABBE83&}, {\3c&HA8BE84&}I{\3c&HA7BD85&}'{\3c&HA5BD85&}l{\3c&HA4BD86&}l {\3c&HA1BC87&}U{\3c&HA0BC88&}s{\3c&H9EBC88&}e {\3c&H9BBB89&}M{\3c&H9ABB8A&}y {\3c&H97BB8B&}A{\3c&H96BA8C&}p{\3c&H94BA8C&}p{\3c&H93BA8D&}r{\3c&H91BA8D&}a{\3c&H90B98E&}i{\3c&H8EB98E&}s{\3c&H8DB98F&}a{\3c&H8CB990&}l {\3c&H89B891&}S{\3c&H87B891&}k{\3c&H86B892&}i{\3c&H84B792&}l{\3c&H83B793&}l {\3c&H80B794&}t{\3c&H7FB695&}o {\3c&H7CB696&}R{\3c&H7AB696&}i{\3c&H79B597&}s{\3c&H78B598&}e {\3c&H75B599&}i{\3c&H73B499&}n {\3c&H70B49A&}t{\3c&H6FB49B&}h{\3c&H6EB39C&}e {\3c&H6BB39D&}W{\3c&H69B39D&}o{\3c&H68B29E&}r{\3c&H66B29E&}l{\3c&H65B29F&}d\N{\c&H13142B&\3c&HFFFFFF&}Temporada {\c&H28C6E1&}3
+Dialogue: 0,0:02:55.28,0:02:57.78,Cart_A_Tre,CARTEL,0,0,0,,{\fad(500,478)\bord1.5\blur0.5\fnArial Black\c&HDCDCDC&\pos(320,270)\3c&H242424&\fs22}Una semana después
+Dialogue: 1,0:02:55.87,0:02:57.78,Gen_Main_Up,Ars,0,0,0,,¡¿No hay demasiada gente?!
+Dialogue: 0,0:02:57.78,0:03:01.16,Cart_A_Tre,CARTEL,0,0,0,,{\fad(500,500)\fs16\an3\shad0.7\bord1\blur0.5\c&HD0D0D0&\3c&H434343&\4c&H393939&\pos(601.04,315.96)}Episodio 33\NSentimientos de tantos años
+Dialogue: 1,0:02:57.87,0:03:00.61,Gen_Main_Up,Ars,0,0,0,,¡Vino más del doble que la última vez!
+Dialogue: 1,0:03:00.70,0:03:03.49,Gen_Main_Up,Rietz,0,0,0,,Es todo gracias al éxito\Nde Canarre en la batalla.
+Dialogue: 0,0:03:03.58,0:03:06.58,Gen_Main,Rietz,0,0,0,,Nuestra victoria se traduce\Nen una mejor paga.
+Dialogue: 0,0:03:06.67,0:03:09.76,Gen_Main,Rietz,0,0,0,,Los puestos militares del castillo\Nson muy codiciados.
+Dialogue: 0,0:03:09.84,0:03:13.25,Gen_Main,Charlotte,0,0,0,,¡Y, gracias a Musia,\Nahora tenemos más reclutas mujeres!
+Dialogue: 0,0:03:13.62,0:03:15.97,Gen_Main,Rosell,0,0,0,,También hay postulantes\Nde otras provincias.
+Dialogue: 0,0:03:16.06,0:03:18.26,Gen_Main,Rosell,0,0,0,,¡Eso nos da mucha más variedad!
+Dialogue: 0,0:03:18.34,0:03:21.58,Gen_Italics,Ars,0,0,0,,Ya veo. Todo está conectado…
+Dialogue: 0,0:03:21.68,0:03:25.01,Gen_Italics,Ars,0,0,0,,Conseguir gente talentosa\Nnos permite ganar batallas,
+Dialogue: 0,0:03:25.10,0:03:27.77,Gen_Italics,Ars,0,0,0,,y eso nos permite reclutar\Naún más gente talentosa.
+Dialogue: 0,0:03:28.64,0:03:32.27,Gen_Italics,Ars,0,0,0,,No puedo negarme a recibir gente\Npor miedo a los asesinos.
+Dialogue: 0,0:03:32.81,0:03:36.77,Gen_Italics,Ars,0,0,0,,Tengo que mantener este impulso\Npor el bien de Canarre.
+Dialogue: 0,0:03:36.77,0:03:40.03,Cart_A_Tre,CARTEL,0,0,0,,{\fad(500,450)\fnGeorgia\fscx85\shad1\bord0\c&HC8C8C8&\pos(174,286)}Un nuevo talento
+Dialogue: 1,0:03:37.68,0:03:40.03,Gen_Main_Up,Rietz,0,0,0,,Siguiente, por favor.
+Dialogue: 0,0:03:47.91,0:03:59.92,Cart_A_Tre,CARTEL,0,0,0,,{\an2\fnArial Black\blur2\bord2\fs18\3c&HC0DA59&\4c&HCFDB77&\c&HF9FEC9&\pos(322.91,291.33)}Enan Rueges   21   Mujer
+Dialogue: 0,0:03:47.91,0:03:59.92,Cart_A_Tim,CARTEL,0,0,0,,{\fs12\c&H868123&\3c&HFCFF94&\pos(504,106.35)}Infantería: D   Caballería: D    Tiro con arco: D
+Dialogue: 0,0:03:47.91,0:03:59.92,Cart_A_Tim,CARTEL,0,0,0,,{\fs12\c&H868123&\3c&HFCFF94&\pos(508.23,156.23)}Magia: D   Construcción: B   Herrería: S
+Dialogue: 0,0:03:47.91,0:03:59.92,Cart_A_Tim,CARTEL,0,0,0,,{\fs14\c&H868123&\3c&HFCFF94&\pos(57.42,104.47)}Ambición: 0/0
+Dialogue: 0,0:03:47.91,0:03:59.92,Cart_A_Tim,CARTEL,0,0,0,,{\fs12\c&H868123&\3c&HFCFF94&\pos(511.53,209.41)}Marinería: B   Destreza aérea: B   Estrategia: C
+Dialogue: 0,0:03:47.91,0:03:59.92,Cart_A_Tim,CARTEL,0,0,0,,{\fs14\c&H868123&\3c&HFCFF94&\pos(139.29,30.59)}Destreza: 12/21
+Dialogue: 0,0:03:47.91,0:03:59.92,Cart_A_Tim,CARTEL,0,0,0,,{\fs14\c&H868123&\3c&HFCFF94&\pos(232.94,9.88)}Ingenio: 56/80
+Dialogue: 0,0:03:47.91,0:03:59.92,Cart_A_Tim,CARTEL,0,0,0,,{\fs14\c&H868123&\3c&HFCFF94&\pos(56.24,15.45)}Liderazgo: 2/22
+Dialogue: 1,0:03:48.24,0:03:52.58,Gen_Italics_top,Ars,0,0,0,,¡Vi a más de cincuenta personas hoy\Ny su Ingenio es el mejor por mucho!
+Dialogue: 1,0:03:52.67,0:03:54.94,Gen_Italics_top,Ars,0,0,0,,¡También tiene rango S en herrería!
+Dialogue: 1,0:03:55.01,0:03:57.42,Gen_Italics_top,Ars,0,0,0,,¡No había visto\Ntanto talento desde Shin!
+Dialogue: 2,0:03:57.54,0:04:01.48,Gen_Italics_top,Ars,0,0,0,,¡Quizá pueda ayudarlo\Na desarrollar su aeronave!
+Dialogue: 0,0:03:59.92,0:04:04.43,Cart_A_Tre,CARTEL,0,0,0,,{\an7\p1\fscx320\alpha&H20&\fscy50\blur2\1c&H3BF6FA&\3c&H78A2EF&\bord2\pos(0,6)}m 0 0 l 200 0 200 50 0 50{\p0}
+Dialogue: 1,0:03:59.93,0:04:04.43,Cart_A_Tre,CARTEL,0,0,0,,{\an4\bord1\blur1\fnGeorgia\q2\an8\c&H1788E9&\3c&HFFFFFF&\4c&H3BE8F7&\move(514.3,18.67,-423.55,18.67,18,5618)}Nacida en el 191 del calendario imperial en Missian. Padres fallecidos, dos hermanos mayores…
+Dialogue: 2,0:04:02.01,0:04:04.43,Gen_Italics,Ars,0,0,0,,No hay nada sospechoso\Nen su historial.
+Dialogue: 0,0:04:04.74,0:04:08.01,Gen_Italics,Ars,0,0,0,,Y sus estadísticas físicas\Nparecen bajas para una asesina.
+Dialogue: 0,0:04:08.10,0:04:10.93,Gen_Italics,Ars,0,0,0,,Nunca pensé que todavía\Nhubiera gente tan talentosa.
+Dialogue: 0,0:04:11.72,0:04:15.07,Gen_Main,Ars,0,0,0,,Soy Ars Louvent,\Nseñor del distrito de Canarre.
+Dialogue: 0,0:04:15.15,0:04:17.44,Gen_Main,Ars,0,0,0,,¿Le importaría decirme su nombre?
+Dialogue: 0,0:04:24.57,0:04:28.83,Cart_A_Tre,CARTEL,0,0,0,,{\fnArial\fs15\shad0\bord1.2\pos(320,295)\c&HB7B7B7&\3c&H323234&\b1\an2}No puedo hablar. ¿Podría comunicarme por escrito?
+Dialogue: 0,0:04:30.47,0:04:32.54,Gen_Main,Ars,0,0,0,,Sí, por supuesto.
+Dialogue: 0,0:04:39.11,0:04:41.11,Gen_Main,Ars,0,0,0,,Enan Rueges, ¿verdad?
+Dialogue: 0,0:04:41.18,0:04:43.34,Gen_Main,Ars,0,0,0,,¿Y proviene de Coumeire?
+Dialogue: 0,0:04:43.90,0:04:46.09,Gen_Main,Ars,0,0,0,,Tiene una caligrafía hermosa.
+Dialogue: 0,0:04:48.72,0:04:50.36,Gen_Main,Ars,0,0,0,,¿Por qué decidió postularse?
+Dialogue: 0,0:04:53.51,0:04:55.97,Gen_Main,Ars,0,0,0,,¿Quería ser de ayuda?
+Dialogue: 0,0:04:56.06,0:04:57.98,Gen_Main,Ars,0,0,0,,Ya veo.
+Dialogue: 0,0:04:58.40,0:05:02.11,Gen_Main,Ars,0,0,0,,¡Bien, quisiera contratarla\Nde inmediato!
+Dialogue: 0,0:05:04.49,0:05:05.73,Gen_Main,Rietz,0,0,0,,Aquí tiene.
+Dialogue: 0,0:05:23.23,0:05:25.53,Gen_Main,Rietz,0,0,0,,Parecía algo desconcertada.
+Dialogue: 0,0:05:25.78,0:05:27.03,Gen_Main,Rietz,0,0,0,,¿Está seguro de esto?
+Dialogue: 0,0:05:27.10,0:05:30.04,Gen_Main,Ars,0,0,0,,Sí. No vi nada de qué preocuparse.
+Dialogue: 0,0:05:30.14,0:05:32.06,Gen_Main,Ars,0,0,0,,No creo que sea una asesina.
+Dialogue: 0,0:05:32.14,0:05:33.60,Gen_Main,Charlotte,0,0,0,,Espera un momento.
+Dialogue: 0,0:05:33.86,0:05:37.39,Gen_Main,Charlotte,0,0,0,,¡Mi intuición femenina\Nme dice que trama algo!
+Dialogue: 0,0:05:38.87,0:05:44.63,Gen_Main,Licia,0,0,0,,Sí, es inusual que una plebeya\Ntenga una caligrafía tan bella.
+Dialogue: 0,0:05:45.07,0:05:48.71,Gen_Main,Licia,0,0,0,,Ars, te aconsejo que la investigues.
+Dialogue: 0,0:05:48.79,0:05:51.03,Gen_Main,Pham,0,0,0,,Estoy de acuerdo con las dos.
+Dialogue: 0,0:05:51.12,0:05:54.15,Gen_Main,Ars,0,0,0,,¡Pham! ¿Por qué piensas eso?
+Dialogue: 0,0:05:54.25,0:05:57.41,Gen_Main,Pham,0,0,0,,No sé qué busca esa mujer,
+Dialogue: 0,0:05:57.50,0:06:00.54,Gen_Main,Pham,0,0,0,,pero estuvo examinando el castillo\Ny anotando cosas.
+Dialogue: 0,0:06:00.63,0:06:02.44,Gen_Main,Ars,0,0,0,,No lo sabía.
+Dialogue: 0,0:06:02.51,0:06:03.86,Gen_Main,Ars,0,0,0,,De acuerdo.
+Dialogue: 0,0:06:03.93,0:06:06.92,Gen_Main,Ars,0,0,0,,Pham, ¿puedo pedirte\Nque investigues a Enan?
+Dialogue: 0,0:06:07.22,0:06:08.38,Gen_Main,Pham,0,0,0,,Claro.
+Dialogue: 0,0:06:22.32,0:06:23.32,Gen_Main,Madam,0,0,0,,Ya veo.
+Dialogue: 0,0:06:23.60,0:06:26.32,Gen_Main,Madam,0,0,0,,¿Así que lograste\Nque el señor Ars te contratara?
+Dialogue: 0,0:06:31.13,0:06:33.33,Gen_Main,Ars,0,0,0,,¡¿Enan es sirvienta?!
+Dialogue: 0,0:06:33.60,0:06:38.58,Gen_Main,Pham,0,0,0,,Sí. La seguí hasta la residencia\Nde un mercader en Coumeire.
+Dialogue: 0,0:06:39.26,0:06:42.08,Gen_Main,Pham,0,0,0,,Parece que vive ahí\Ny está al servicio de la familia.
+Dialogue: 0,0:06:42.48,0:06:44.70,Gen_Main,Ars,0,0,0,,¿Por qué habrá venido con nosotros?
+Dialogue: 0,0:06:44.80,0:06:47.21,Gen_Main,Ars,0,0,0,,Debe tener un buen sueldo ahí…
+Dialogue: 1,0:06:47.68,0:06:50.55,Gen_Main_Up,Pham,0,0,0,,No te preocupes. Voy a averiguarlo.
+Dialogue: 0,0:06:49.64,0:06:52.89,Cart_A_Tre,CARTEL,0,0,0,,{\fad(500,450)\fnGeorgia\fscx85\shad1\bord0\c&HC8C8C8&\pos(174,286)}Infiltración como sirvienta
+Dialogue: 0,0:06:55.95,0:06:59.48,Gen_Main,Pham,0,0,0,,¡Aquí tiene, señora!\N¡Están recién salidos del horno!
+Dialogue: 0,0:06:59.57,0:07:01.55,Gen_Main,Madam,0,0,0,,¡Qué maravilla!
+Dialogue: 0,0:07:01.65,0:07:02.98,Gen_Main,Madam,0,0,0,,Todos se ven deliciosos.
+Dialogue: 0,0:07:03.31,0:07:05.86,Gen_Main,Madam,0,0,0,,Eres tan dulce y encantadora, Lynn.
+Dialogue: 0,0:07:05.95,0:07:07.99,Gen_Main,Madam,0,0,0,,Me alegra tanto haberte contratado.
+Dialogue: 0,0:07:08.43,0:07:09.99,Gen_Main,Madam,0,0,0,,En comparación…
+Dialogue: 0,0:07:10.40,0:07:13.12,Gen_Main,Madam,0,0,0,,mira a esa chica tan sombría.
+Dialogue: 0,0:07:13.48,0:07:15.70,Gen_Main,Madam,0,0,0,,Disfrutemos de esto juntas.
+Dialogue: 0,0:07:15.79,0:07:16.79,Gen_Main,Maids,0,0,0,,¡Sí, señora!
+Dialogue: 0,0:07:17.12,0:07:21.62,Gen_Main,Pham,0,0,0,,Oye, ¿no te parece que la señora\Nes demasiado dura con Enan?
+Dialogue: 0,0:07:21.71,0:07:23.38,Gen_Main,Maid A,0,0,0,,¡Totalmente!
+Dialogue: 0,0:07:23.46,0:07:25.80,Gen_Main,Maid A,0,0,0,,Es amable con todos los demás,
+Dialogue: 0,0:07:25.88,0:07:29.01,Gen_Main,Maid A,0,0,0,,¡pero por alguna razón\Nes cruel con Enan!
+Dialogue: 0,0:07:29.40,0:07:32.40,Gen_Main,Maid A,0,0,0,,Y eso que es la sirvienta\Nmás competente de la casa.
+Dialogue: 0,0:07:32.47,0:07:36.89,Gen_Main,Maid A,0,0,0,,Es la única que está aquí\Ndesde la época de la señora anterior.
+Dialogue: 0,0:07:37.37,0:07:40.64,Gen_Main,Pham,0,0,0,,A propósito, esta mansión es enorme.
+Dialogue: 0,0:07:40.73,0:07:41.88,Gen_Main,Maid A,0,0,0,,¿Verdad?
+Dialogue: 0,0:07:41.98,0:07:45.16,Gen_Main,Maid A,0,0,0,,Son la familia de mercaderes\Nmás importante de Coumeire.
+Dialogue: 0,0:07:45.24,0:07:49.13,Gen_Main,Maid A,0,0,0,,Aunque el señor casi nunca está,\Nporque viaja por todo el mundo.
+Dialogue: 0,0:07:49.22,0:07:51.68,Gen_Main,Maid A,0,0,0,,Oí que la señora anterior\Nera una gran persona,
+Dialogue: 0,0:07:51.78,0:07:53.60,Gen_Main,Maid A,0,0,0,,pero falleció de alguna enfermedad,
+Dialogue: 0,0:07:53.70,0:07:57.28,Gen_Main,Maid A,0,0,0,,y después el señor se casó\Ncon la señora actual.
+Dialogue: 0,0:07:58.92,0:08:01.92,Gen_Main,Pham,0,0,0,,¿Por qué Enan nunca habla?\N¿Está enferma?
+Dialogue: 0,0:08:02.00,0:08:03.44,Gen_Main,Maid A,0,0,0,,Ni idea.
+Dialogue: 0,0:08:03.50,0:08:06.92,Gen_Main,Maid A,0,0,0,,Pero oí que sí podía hablar\Ncuando estaba la señora anterior.
+Dialogue: 0,0:08:07.01,0:08:09.56,Gen_Main,Pham,0,0,0,,¿Ha hecho algo inusual últimamente?
+Dialogue: 0,0:08:09.64,0:08:12.74,Gen_Main,Pham,0,0,0,,¿Visitar la provincia de Seitz,\Npor ejemplo?
+Dialogue: 0,0:08:12.80,0:08:15.17,Gen_Main,Maid A,0,0,0,,Nunca escuché que hiciera algo así.
+Dialogue: 0,0:08:15.27,0:08:19.62,Gen_Main_Up,Maid A,0,0,0,,Nació en Coumeire y, hasta donde sé,\Nnunca ha salido de aquí.
+Dialogue: 0,0:08:17.64,0:08:19.62,Gen_Italics,Pham,0,0,0,,Enan Rueges…
+Dialogue: 0,0:08:19.69,0:08:21.99,Gen_Italics,Pham,0,0,0,,Hay demasiadas cosas que no sé.
+Dialogue: 0,0:08:22.06,0:08:24.31,Gen_Italics,Pham,0,0,0,,Tendré que establecer\Ncontacto directo.
+Dialogue: 0,0:08:26.56,0:08:29.07,Gen_Main,Maid A,0,0,0,,¿Quiere que Enan haga todo esto sola?
+Dialogue: 0,0:08:29.37,0:08:32.32,Gen_Main,Madam,0,0,0,,La duquesa vendrá de visita\Nen dos días.
+Dialogue: 0,0:08:32.41,0:08:34.57,Gen_Main,Madam,0,0,0,,Tenemos que dejar todo esto en orden.
+Dialogue: 0,0:08:34.96,0:08:37.36,Gen_Main,Maid A,0,0,0,,Pero ya está oscuro.
+Dialogue: 0,0:08:37.45,0:08:39.24,Gen_Main,Maid A,0,0,0,,Al menos déjenos ayudarla…
+Dialogue: 0,0:08:39.33,0:08:43.01,Gen_Main,Madam,0,0,0,,Oh, tengo en muy alta estima\Nlas habilidades de Enan.
+Dialogue: 0,0:08:43.09,0:08:44.96,Gen_Main,Madam,0,0,0,,Puedes hacerlo, ¿verdad?
+Dialogue: 0,0:08:46.96,0:08:49.36,Gen_Main,Madam,0,0,0,,Que nadie la ayude.
+Dialogue: 0,0:08:49.42,0:08:52.40,Gen_Main,Madam,0,0,0,,Vamos, entremos antes de que llueva.
+Dialogue: 0,0:09:07.22,0:09:10.08,Gen_Main,Pham,0,0,0,,Debe ser difícil hacerlo tú sola.\NTe ayudo.
+Dialogue: 0,0:09:24.81,0:09:27.12,Gen_Main,Pham,0,0,0,,¡Todo listo!
+Dialogue: 0,0:09:27.21,0:09:29.16,Gen_Main,Pham,0,0,0,,¡Estoy agotada!
+Dialogue: 0,0:09:29.26,0:09:33.71,Gen_Main,Pham,0,0,0,,No puedo creer que la señora\Nte pidiera algo tan irrazonable.
+Dialogue: 0,0:09:33.80,0:09:36.56,Gen_Main,Pham,0,0,0,,¿"Gracias"?
+Dialogue: 0,0:09:36.64,0:09:38.98,Gen_Main,Pham,0,0,0,,¡No fue nada!
+Dialogue: 0,0:09:39.06,0:09:42.87,Gen_Main,Pham,0,0,0,,¡Ya quiero ver la cara de asombro\Nde la señora!
+Dialogue: 0,0:09:44.31,0:09:46.94,Cart_A_Tre,CARTEL,0,0,0,,{\fnArial\fs15\shad0\bord1.2\pos(320,295)\c&HB7B7B7&\3c&H323234&\b1\an2}Me gustaría enmarcar su expresión y colocarla en el vestíbulo.
+Dialogue: 0,0:09:47.91,0:09:50.19,Gen_Main,Pham,0,0,0,,¡Eso estaría genial!
+Dialogue: 0,0:09:50.28,0:09:53.65,Gen_Main,Pham,0,0,0,,Pero así ahuyentaría a las visitas.
+Dialogue: 0,0:09:53.65,0:09:56.49,Cart_A_Tre,CARTEL,0,0,0,,{\fnArial\fs15\shad0\bord1.2\pos(320,295)\c&HB7B7B7&\3c&H323234&\b1\an2}La placa de abajo diría: "La señora en un instante de asombro".
+Dialogue: 0,0:09:57.44,0:10:02.26,Gen_Italics,Pham,0,0,0,,Pensé que era sombría,\Npero en realidad no lo es.
+Dialogue: 0,0:10:02.35,0:10:05.17,Gen_Italics,Pham,0,0,0,,Además, hizo un trabajo fantástico\Ncuidando el jardín.
+Dialogue: 0,0:10:05.25,0:10:08.55,Gen_Italics,Pham,0,0,0,,Sus habilidades están a la altura\Nde la evaluación de Ars.
+Dialogue: 0,0:10:09.15,0:10:12.04,Gen_Italics,Pham,0,0,0,,Supongo que debería quedarme\Na vigilarla un poco más.
+Dialogue: 0,0:10:42.55,0:10:44.96,Gen_Italics,Pham,0,0,0,,¿Qué andará haciendo a estas horas?
+Dialogue: 0,0:10:47.75,0:10:49.72,Gen_Italics,Pham,0,0,0,,¿Adónde demonios va?
+Dialogue: 0,0:10:53.83,0:10:55.11,Gen_Italics,Pham,0,0,0,,¡¿Desapareció?!
+Dialogue: 1,0:11:00.55,0:11:04.01,Gen_Italics_top,Pham,0,0,0,,Aquí es donde Enan\Ndesapareció anoche.
+Dialogue: 0,0:11:00.64,0:11:04.01,Cart_A_Tre,CARTEL,0,0,0,,{\fad(500,450)\fnGeorgia\fscx85\shad1\bord0\c&HC8C8C8&\pos(174,286)}El secreto de Enan
+Dialogue: 0,0:11:04.10,0:11:05.70,Gen_Italics,Pham,0,0,0,,¿Cómo lo hizo?
+Dialogue: 0,0:11:35.98,0:11:39.74,Gen_Main,Pham,0,0,0,,Parece que Ars tenía razón\Nsobre su talento.
+Dialogue: 0,0:11:41.66,0:11:44.68,Gen_Main,Pham,0,0,0,,¿Esos son documentos sobre venenos?
+Dialogue: 0,0:11:44.99,0:11:47.96,Gen_Main,Pham,0,0,0,,¿Enan estará intentando\Nenvenenar a Ars?
+Dialogue: 0,0:11:54.19,0:11:55.44,Gen_Main,Pham,0,0,0,,¿Un diario?
+Dialogue: 0,0:11:56.18,0:11:59.80,Gen_Italics,Enan,0,0,0,,8 de julio.\NPara practicar mi escritura,
+Dialogue: 0,0:11:59.87,0:12:02.04,Gen_Italics,Enan,0,0,0,,voy a empezar a llevar un diario.
+Dialogue: 1,0:12:03.20,0:12:05.70,Gen_Main_Up,Enan,0,0,0,,¡Mire, señora! ¡Lo terminé!
+Dialogue: 0,0:12:03.20,0:12:05.70,Cart_A_Tim,CARTEL,0,0,0,,{\fad(480,435)\bord1.5\blur0.4\c&HE4E4E4&\3c&H242424&\fs20\pos(320,274.48)}Enan, 15 años
+Dialogue: 0,0:12:05.79,0:12:09.87,Gen_Main,Former Madam,0,0,0,,¡Increíble, Enan!\NTe quedó mucho mejor que a mí.
+Dialogue: 0,0:12:09.96,0:12:12.88,Gen_Main,Former Madam,0,0,0,,En serio puedes hacer lo que sea\Nuna vez que te enseñan.
+Dialogue: 0,0:12:12.96,0:12:15.21,Gen_Main,Former Madam,0,0,0,,Aprendes todo muy rápido.
+Dialogue: 0,0:12:15.70,0:12:18.21,Gen_Italics,Enan,0,0,0,,Entré a servir en la mansión
+Dialogue: 0,0:12:18.30,0:12:20.75,Gen_Italics,Enan,0,0,0,,y la señora me enseñó muchas cosas.
+Dialogue: 0,0:12:20.84,0:12:24.16,Gen_Main,Former Madam,0,0,0,,No le hables al señor\Nde esta habitación, ¿de acuerdo?
+Dialogue: 0,0:12:24.22,0:12:27.10,Gen_Main,Enan,0,0,0,,¡Por supuesto!\NSerá nuestro secreto.
+Dialogue: 0,0:12:27.38,0:12:28.73,Gen_Main,Former Madam,0,0,0,,Escucha, Enan…
+Dialogue: 0,0:12:29.26,0:12:32.12,Gen_Main,Former Madam,0,0,0,,Creo que algún día\Ndeberías irte de la mansión.
+Dialogue: 0,0:12:32.21,0:12:34.98,Gen_Main,Former Madam,0,0,0,,En el futuro te liberaré\Nde tu servicio en esta casa.
+Dialogue: 0,0:12:35.07,0:12:39.05,Gen_Main,Enan,0,0,0,,¿Por qué? ¿Porque no soy buena\Ncon las tareas domésticas?
+Dialogue: 0,0:12:39.15,0:12:43.20,Gen_Main,Former Madam,0,0,0,,No, es que trabajar de sirvienta\Nes un desperdicio en tu caso.
+Dialogue: 0,0:12:43.28,0:12:46.78,Gen_Main,Former Madam,0,0,0,,Deberías estudiar, aprender un oficio\Ne independizarte.
+Dialogue: 0,0:12:46.87,0:12:49.62,Gen_Main,Former Madam,0,0,0,,Así te ganarás mucho mejor la vida.
+Dialogue: 0,0:12:50.02,0:12:54.50,Gen_Main,Former Madam,0,0,0,,Como eres tan hábil con las manos,\N¿qué tal si te vuelves artesana?
+Dialogue: 0,0:12:55.02,0:12:58.00,Gen_Main,Former Madam,0,0,0,,Seguro que te iría de maravilla.
+Dialogue: 0,0:13:01.29,0:13:05.47,Gen_Main,Enan,0,0,0,,¡Pero, señora, yo quiero quedarme\Ncon usted para siempre!
+Dialogue: 0,0:13:05.81,0:13:09.69,Gen_Main,Former Madam,0,0,0,,Ay, no tienes remedio.\NAunque me alegra oír eso.
+Dialogue: 0,0:13:09.94,0:13:11.97,Gen_Main,Former Madam,0,0,0,,Por cierto, ¿sabes escribir?
+Dialogue: 0,0:13:12.45,0:13:13.52,Gen_Main,Enan,0,0,0,,No.
+Dialogue: 0,0:13:13.61,0:13:16.06,Gen_Main,Former Madam,0,0,0,,¡Entonces voy a enseñarte!
+Dialogue: 0,0:13:17.23,0:13:21.48,Gen_Italics,Enan,0,0,0,,Poco después, la señora falleció\Nde una enfermedad desconocida.
+Dialogue: 0,0:13:23.88,0:13:28.80,Gen_Main,Pham,0,0,0,,Enan tiene tan buena caligrafía\Nporque le enseñó la señora anterior.
+Dialogue: 0,0:13:37.52,0:13:40.86,Gen_Main,Pham,0,0,0,,¡Oye, ya es hora de almorzar!\N¡Vamos a comer!
+Dialogue: 0,0:13:45.55,0:13:50.10,Gen_Main,Pham,0,0,0,,"Tengo que ir de compras\Npor encargo de la señora".
+Dialogue: 0,0:13:50.18,0:13:51.84,Gen_Main,Pham,0,0,0,,Ah, ya veo.
+Dialogue: 0,0:13:55.02,0:13:58.11,Gen_Main,Maids,0,0,0,,-No, eso no es cierto.\N-¡Creo que te quedaría genial!
+Dialogue: 0,0:13:58.22,0:14:01.27,Gen_Main,Pham,0,0,0,,Oigan, ¿hasta dónde fue Enan\Na hacer las compras?
+Dialogue: 0,0:14:01.36,0:14:04.28,Gen_Main,Maid A,0,0,0,,¿Qué? Se supone que hoy\Nnadie debía ir de compras.
+Dialogue: 0,0:14:04.67,0:14:08.60,Gen_Main,Maid A,0,0,0,,De vez en cuando\Ndesaparece al mediodía.
+Dialogue: 0,0:14:08.70,0:14:10.28,Gen_Main,Maid B,0,0,0,,Sí, es verdad.
+Dialogue: 0,0:14:10.37,0:14:13.03,Gen_Main,Maid C/Pham,0,0,0,,-¿Qué andará haciendo?\N-{\i1}La seguiré la próxima vez.{\i0}
+Dialogue: 0,0:14:13.12,0:14:15.29,Gen_Main,Bodyguard A,0,0,0,,Oye, se nos acabó el licor.
+Dialogue: 0,0:14:16.52,0:14:19.04,Gen_Main,Bodyguard A,0,0,0,,Vaya, pero qué preciosura.
+Dialogue: 0,0:14:19.39,0:14:21.31,Gen_Main,Maid A,0,0,0,,¡Déjala en paz!
+Dialogue: 0,0:14:21.40,0:14:23.04,Gen_Main,Bodyguards/Maid A,0,0,0,,-¡Es nueva!\N-¡Esta no está mal!
+Dialogue: 0,0:14:23.13,0:14:27.05,Gen_Main,Bodyguards/Maid A,0,0,0,,-¡Lo tiene todo! ¡Vamos a llevárnosla!\N-Por favor, ¿ya se bebieron todo eso?
+Dialogue: 0,0:14:27.14,0:14:30.30,Gen_Main,Maid B,0,0,0,,¿Estás bien, Lynn?\NSeguro que te asustaste…
+Dialogue: 0,0:14:30.61,0:14:33.24,Gen_Main,Pham,0,0,0,,¿Quiénes eran esos hombres\Ntan groseros?
+Dialogue: 0,0:14:33.31,0:14:36.20,Gen_Main,Maid B,0,0,0,,Son guardaespaldas\Nque contrató la señora.
+Dialogue: 0,0:14:36.27,0:14:38.18,Gen_Main,Maid B,0,0,0,,Viven y trabajan en la mansión.
+Dialogue: 0,0:14:38.70,0:14:41.12,Gen_Main,Maid B,0,0,0,,No sabemos bien\Nquiénes son en realidad.
+Dialogue: 0,0:14:41.19,0:14:44.39,Gen_Main,Maid B,0,0,0,,Lo único que hacen es beber\Ny apostar todo el día.
+Dialogue: 0,0:14:44.49,0:14:47.38,Gen_Main,Maid C,0,0,0,,¿Por qué los habrá contratado?
+Dialogue: 0,0:14:53.31,0:14:57.33,Gen_Main,Madam,0,0,0,,¿Alguna noticia\Ndel castillo de Canarre?
+Dialogue: 0,0:14:57.33,0:15:00.83,Cart_A_Tre,CARTEL,0,0,0,,{\fad(500,450)\fnGeorgia\fscx85\shad1\bord0\c&HC8C8C8&\pos(174,286)}La verdad
+Dialogue: 1,0:14:58.62,0:15:00.83,Gen_Main_Up,Madam,0,0,0,,Espero que suceda pronto…
+Dialogue: 0,0:15:01.33,0:15:05.59,Gen_Main,Madam,0,0,0,,Parece que aún no puedes usar\Nesa garganta que te destrozamos.
+Dialogue: 0,0:15:09.18,0:15:13.01,Gen_Italics,Enan,0,0,0,,Después de que mi señora falleciera\Nde una enfermedad repentina,
+Dialogue: 0,0:15:13.10,0:15:15.34,Gen_Italics,Enan,0,0,0,,llegó una nueva señora.
+Dialogue: 0,0:15:16.35,0:15:18.87,Gen_Italics,Enan,0,0,0,,Dijo que era amiga\Nde la señora anterior.
+Dialogue: 0,0:15:19.22,0:15:23.14,Gen_Italics,Enan,0,0,0,,Me animaba cuando estaba deprimida.\NEra una mujer muy amable…
+Dialogue: 0,0:15:23.73,0:15:25.23,Gen_Italics,Enan,0,0,0,,hasta aquella noche.
+Dialogue: 0,0:15:26.24,0:15:28.99,Gen_Main,Enan,0,0,0,,¿Va a trasladar su tumba ahora?
+Dialogue: 0,0:15:29.28,0:15:34.42,Gen_Main,Enan,0,0,0,,El señor dijo que quería cambiarla\Na un sitio con mejor vista, pero…
+Dialogue: 0,0:15:34.50,0:15:37.61,Gen_Main,Enan,0,0,0,,¿No deberíamos esperar\Na que regrese?
+Dialogue: 0,0:15:37.71,0:15:40.85,Gen_Main,Madam,0,0,0,,No quiero molestar al señor con esto.
+Dialogue: 0,0:15:40.92,0:15:43.63,Gen_Main,Madam,0,0,0,,Pero es peligroso,\Nasí que no hace falta que ayudes.
+Dialogue: 0,0:15:47.10,0:15:51.34,Gen_Main,Enan,0,0,0,,No puedo dejar solos en esta tormenta\Na la señora y a sus hombres.
+Dialogue: 0,0:15:51.43,0:15:53.22,Gen_Main,Enan,0,0,0,,Voy a darles una mano…
+Dialogue: 0,0:15:54.34,0:15:57.72,Gen_Main,Bodyguard A,0,0,0,,Ese veneno fue una pésima idea.
+Dialogue: 0,0:15:58.07,0:16:03.72,Gen_Main,Madam,0,0,0,,El té de hierbas deo\Nera la mejor forma de matarla.
+Dialogue: 0,0:16:03.82,0:16:07.23,Gen_Main,Madam,0,0,0,,¡Así nadie sospechó que fue veneno!
+Dialogue: 0,0:16:07.32,0:16:09.59,Gen_Main,Madam,0,0,0,,Vamos, desháganse de esto rápido.
+Dialogue: 0,0:16:09.66,0:16:13.24,Gen_Main,Madam,0,0,0,,Nadie puede ver que el veneno\Ncambió el color de los huesos.
+Dialogue: 0,0:16:13.68,0:16:14.74,Gen_Italics,Enan,0,0,0,,¡No puede ser!
+Dialogue: 0,0:16:15.42,0:16:16.74,Gen_Italics,Enan,0,0,0,,¡¿A la señora…
+Dialogue: 0,0:16:20.75,0:16:22.41,Gen_Italics,Enan,0,0,0,,la asesinaron?!
+Dialogue: 0,0:16:22.50,0:16:23.92,Gen_Main,Madam,0,0,0,,¿Eh? ¿Enan?
+Dialogue: 0,0:16:24.00,0:16:26.45,Gen_Main,Enan,0,0,0,,¿Por qué? ¡¿Por qué la mató?!
+Dialogue: 0,0:16:26.55,0:16:28.29,Gen_Main,Enan,0,0,0,,¡¿No eran amigas?!
+Dialogue: 0,0:16:28.73,0:16:31.35,Gen_Main,Madam,0,0,0,,¿Que por qué? Porque me estorbaba.
+Dialogue: 0,0:16:31.44,0:16:33.80,Gen_Main,Madam,0,0,0,,Casarse con un mercader\Nte asegura el futuro.
+Dialogue: 0,0:16:34.15,0:16:35.92,Gen_Main,Enan,0,0,0,,¿Solo por eso?
+Dialogue: 0,0:16:36.86,0:16:38.56,Gen_Main,Enan,0,0,0,,¿Cómo pudo hacerle eso…?
+Dialogue: 0,0:16:39.03,0:16:40.72,Gen_Main,Enan,0,0,0,,¡Nunca se lo perdonaré!
+Dialogue: 0,0:16:40.81,0:16:43.76,Gen_Main,Bodyguard B,0,0,0,,¿Qué hacemos con ella? ¿La matamos?
+Dialogue: 0,0:16:43.86,0:16:47.35,Gen_Main,Bodyguard A,0,0,0,,Idiota. Dos muertes seguidas\Nserían demasiado sospechosas.
+Dialogue: 0,0:16:47.44,0:16:52.07,Gen_Main,Bodyguard C,0,0,0,,Y el señor la aprecia, así que\Nno podemos despedirla sin motivo.
+Dialogue: 0,0:16:52.62,0:16:54.45,Gen_Main,Madam,0,0,0,,Pues entonces…
+Dialogue: 0,0:16:54.61,0:16:57.20,Gen_Main,Madam,0,0,0,,Con que se le quiten las ganas\Nde hablar bastará…
+Dialogue: 0,0:16:57.61,0:16:59.47,Gen_Main,Madam,0,0,0,,Háganla sufrir.
+Dialogue: 0,0:17:03.86,0:17:08.08,Gen_Italics,Enan,0,0,0,,Me destrozaron la garganta\Ny me quedé sin poder hablar.
+Dialogue: 0,0:17:08.74,0:17:11.59,Gen_Italics,Enan,0,0,0,,También se deshicieron\Nde las pruebas.
+Dialogue: 0,0:17:11.92,0:17:14.72,Gen_Italics,Enan,0,0,0,,Así, el alma de mi señora\Njamás descansará en paz.
+Dialogue: 0,0:17:16.82,0:17:21.26,Gen_Italics,Enan,0,0,0,,¡Voy a sacar a la luz su maldad!
+Dialogue: 0,0:17:23.98,0:17:26.76,Gen_Main,Bodyguard C,0,0,0,,Entonces, ¿qué hacemos ahora?
+Dialogue: 0,0:17:26.86,0:17:30.71,Gen_Main,Madam,0,0,0,,La usaremos para venderle mercancía\Nal castillo de Canarre.
+Dialogue: 0,0:17:30.78,0:17:33.20,Gen_Main,Madam,0,0,0,,Dicen que el señor de allí\Npaga muy bien.
+Dialogue: 0,0:17:33.28,0:17:35.58,Gen_Main,Madam,0,0,0,,¡Podremos hacernos aún más ricos!
+Dialogue: 0,0:17:35.66,0:17:37.11,Gen_Main,Bodyguard B,0,0,0,,¡Esa es nuestra señora!
+Dialogue: 0,0:17:38.87,0:17:42.38,Gen_Main,Madam,0,0,0,,"Ya no seguiré sus órdenes.
+Dialogue: 0,0:17:42.46,0:17:45.28,Gen_Main,Madam,0,0,0,,Denunciaré sus crímenes\Nante el señor Ars.
+Dialogue: 0,0:17:45.38,0:17:47.62,Gen_Main,Madam,0,0,0,,Antes de que lo haga,\Ndebería entregarse".
+Dialogue: 0,0:17:48.83,0:17:52.46,Gen_Main,Madam,0,0,0,,¿Olvidaste lo que pasa\Nsi te opones a mí?
+Dialogue: 0,0:17:57.09,0:17:58.64,Gen_Main,Pham,0,0,0,,¡Alto ahí!
+Dialogue: 0,0:17:58.72,0:18:01.85,Gen_Main,Pham,0,0,0,,Así que mataste a la anterior\Nesposa del mercader, ¿no?
+Dialogue: 0,0:18:01.94,0:18:03.86,Gen_Main,Madam,0,0,0,,Eres una de nuestras sirvientas…
+Dialogue: 0,0:18:03.94,0:18:05.10,Gen_Main,Madam,0,0,0,,No… ¡¿Quién eres tú?!
+Dialogue: 0,0:18:05.19,0:18:07.15,Gen_Main,Pham,0,0,0,,Debió ser muy duro para ti, Enan.
+Dialogue: 0,0:18:07.23,0:18:09.97,Gen_Main,Pham,0,0,0,,Ya todo está bien. Déjamelo a mí.
+Dialogue: 0,0:18:10.86,0:18:13.86,Gen_Main,Madam,0,0,0,,¡¿Quieres que te destroce\Nla garganta a ti también?!
+Dialogue: 0,0:18:14.32,0:18:17.20,Gen_Main,Pham/Madam,0,0,0,,-Qué señora tan precipitada.\N-¡Muchachos!
+Dialogue: 0,0:18:17.78,0:18:18.79,Gen_Main,Bodyguard A/B,0,0,0,,¡Sí, señora!
+Dialogue: 0,0:18:28.64,0:18:30.17,Gen_Main,Pham,0,0,0,,Preguntaste quién soy.
+Dialogue: 0,0:18:30.26,0:18:31.95,Gen_Main,Pham,0,0,0,,Mi nombre es Pham.
+Dialogue: 0,0:18:32.05,0:18:35.00,Gen_Main,Pham,0,0,0,,Soy vasallo de Ars Louvent,\Nseñor de Canarre.
+Dialogue: 0,0:18:35.09,0:18:37.92,Gen_Main,Pham,0,0,0,,Y también soy el líder\Nde la Compañía Shadow.
+Dialogue: 0,0:18:38.01,0:18:39.93,Gen_Main,Bodyguard C,0,0,0,,¡¿Vienes de Canarre?!
+Dialogue: 0,0:18:40.01,0:18:42.80,Gen_Main,Madam,0,0,0,,¿Y qué? No tienes pruebas…
+Dialogue: 0,0:18:43.46,0:18:46.47,Gen_Main,Pham,0,0,0,,Las herramientas calcinadas\Nque usaron para abrir la tumba,
+Dialogue: 0,0:18:46.56,0:18:48.86,Gen_Main,Pham,0,0,0,,el testimonio\Nde quien te vendió el veneno
+Dialogue: 0,0:18:48.94,0:18:53.82,Gen_Main,Pham,0,0,0,,y un análisis del veneno extraído\Nde los huesos de la señora anterior.
+Dialogue: 0,0:18:54.08,0:18:55.57,Gen_Main,Pham,0,0,0,,¿Verdad, Enan?
+Dialogue: 1,0:18:57.07,0:18:59.52,Gen_Main_Up,Madam,0,0,0,,¡Todo eso es un invento!
+Dialogue: 0,0:18:57.07,0:19:00.49,Cart_A_Tre,CARTEL,0,0,0,,{\fad(500,450)\fnGeorgia\fscx85\shad1\bord0\c&HC8C8C8&\pos(174,286)}Enan Rueges
+Dialogue: 1,0:18:59.62,0:19:02.41,Gen_Main_Up,Madam,0,0,0,,¡Si tiramos todos sus huesos al río!
+Dialogue: 0,0:19:06.06,0:19:08.42,Gen_Italics,Enan,0,0,0,,Este es un hueso\Nde mi difunta señora.
+Dialogue: 0,0:19:18.46,0:19:19.98,Gen_Italics,Enan,0,0,0,,Señora…
+Dialogue: 0,0:19:21.46,0:19:24.97,Gen_Main,Madam,0,0,0,,¡No puede ser!\N¡Creí que me había deshecho de todo!
+Dialogue: 0,0:19:27.22,0:19:30.30,Gen_Italics,Enan,0,0,0,,No me importa\Nque me haya quitado la voz.
+Dialogue: 0,0:19:30.84,0:19:31.86,Gen_Italics,Enan,0,0,0,,Pero…
+Dialogue: 0,0:19:32.56,0:19:36.84,Gen_Italics,Enan,0,0,0,,¡Jamás le perdonaré haber matado\Na mi querida señora!
+Dialogue: 0,0:19:40.24,0:19:41.74,Gen_Main,Ars,0,0,0,,¡¿Pasó todo eso?!
+Dialogue: 0,0:19:41.83,0:19:44.14,Gen_Main,Pham,0,0,0,,Arrestaron a la segunda esposa\Ndel mercader.
+Dialogue: 0,0:19:44.23,0:19:49.37,Gen_Main,Pham,0,0,0,,Ella y sus secuaces estarán presos\Nmucho tiempo por asesinato y lesiones.
+Dialogue: 0,0:19:49.69,0:19:53.50,Gen_Main,Rietz,0,0,0,,Con razón Enan actuaba\Nde forma tan extraña.
+Dialogue: 0,0:19:54.02,0:19:58.80,Gen_Main,Ars,0,0,0,,Como su señor, es culpa mía\Nno haberme dado cuenta de esto.
+Dialogue: 0,0:19:58.89,0:20:02.84,Gen_Main,Ars,0,0,0,,Si necesita algo, por mínimo que sea,\Nno dude en pedírmelo.
+Dialogue: 0,0:20:02.93,0:20:07.51,Gen_Main,Ars,0,0,0,,Mi deber es proteger a la buena gente\Nde Canarre, como usted.
+Dialogue: 0,0:20:09.02,0:20:11.10,Gen_Main,Ars,0,0,0,,¡Pero de verdad es una lástima!
+Dialogue: 0,0:20:11.19,0:20:14.81,Gen_Main,Ars,0,0,0,,Resulta que no había venido\Na trabajar para mí…
+Dialogue: 0,0:20:14.90,0:20:17.27,Gen_Main,Ars,0,0,0,,Vaya con cuidado de regreso a casa.
+Dialogue: 0,0:20:17.36,0:20:19.03,Gen_Main,Ars,0,0,0,,Le deseo lo mejor.
+Dialogue: 0,0:20:21.05,0:20:22.78,Gen_Main,Pham,0,0,0,,¿Te parece bien eso, Enan?
+Dialogue: 0,0:20:23.13,0:20:25.96,Gen_Main,Pham,0,0,0,,¿Volver allá a trabajar de sirvienta?
+Dialogue: 0,0:20:26.04,0:20:27.75,Gen_Main,Pham,0,0,0,,Este es un buen lugar.
+Dialogue: 0,0:20:27.83,0:20:30.40,Gen_Main,Pham,0,0,0,,Aquí puedes aprovechar\Ntu talento al máximo.
+Dialogue: 0,0:20:30.82,0:20:33.92,Gen_Main,Pham,0,0,0,,¿No es eso lo que habría querido\Ntu señora anterior?
+Dialogue: 0,0:20:38.80,0:20:43.27,Gen_Italics,Enan,0,0,0,,Si trabajamos juntos,\N¿podremos ser buenos amigos?
+Dialogue: 0,0:20:45.15,0:20:46.96,Gen_Main,Pham,0,0,0,,Sí, sin duda.
+Dialogue: 0,0:20:47.81,0:20:50.64,Gen_Main,Pham,0,0,0,,¡Ars! ¡Enan quiere trabajar aquí!
+Dialogue: 0,0:20:50.73,0:20:52.31,Gen_Main,Ars,0,0,0,,¿Qué? ¿Está segura?
+Dialogue: 0,0:20:54.88,0:20:56.68,Gen_Italics,Enan,0,0,0,,Será un gusto trabajar para usted.
+Dialogue: 0,0:20:57.31,0:21:00.07,Cart_A_Tre,CARTEL,0,0,0,,{\fad(500,500)\bord1.5\blur0.5\fnArial Black\c&HDCDCDC&\pos(320,270)\3c&H242424&\fs22}Mansión Louvent, Lamberg
+Dialogue: 1,0:20:57.70,0:21:00.32,Gen_Main_Up,Mireille,0,0,0,,Está en ese cobertizo de allá.
+Dialogue: 0,0:21:00.59,0:21:02.30,Gen_Main,Mireille,0,0,0,,Bueno, no te compliques la vida.
+Dialogue: 0,0:21:04.28,0:21:08.28,Gen_Main,Shin,0,0,0,,¡Espera, no te caigas todavía!
+Dialogue: 0,0:21:08.75,0:21:11.01,Gen_Main,Shin,0,0,0,,Otra vez…
+Dialogue: 0,0:21:16.90,0:21:18.96,Gen_Main,Shin,0,0,0,,Mi aeronave es genial, ¿verdad?
+Dialogue: 0,0:21:19.05,0:21:22.59,Gen_Main,Shin,0,0,0,,En cuanto logre volar,\Ngastará la mitad de piedras mágicas…
+Dialogue: 0,0:21:22.68,0:21:25.14,Gen_Main,Shin,0,0,0,,¿"La curva de la madera está mal"?
+Dialogue: 0,0:21:25.22,0:21:26.35,Gen_Main,Shin,0,0,0,,¿En qué sentido?
+Dialogue: 0,0:21:28.21,0:21:32.43,Gen_Italics,Enan,0,0,0,,Hay que afinar las puntas de las alas\No generarán resistencia al viento.
+Dialogue: 0,0:21:32.52,0:21:35.08,Gen_Main,Shin,0,0,0,,¡Sí, pero darle bien esa curva\Nes lo más difícil!
+Dialogue: 0,0:21:35.15,0:21:37.74,Gen_Main,Shin,0,0,0,,La madera es ligera,\Npero cuesta mucho moldearla…
+Dialogue: 0,0:21:38.22,0:21:39.86,Gen_Italics,Enan,0,0,0,,Creo que puedo hacerlo.
+Dialogue: 0,0:21:39.94,0:21:44.32,Gen_Main,Shin,0,0,0,,¡¿En serio?! ¡Eres increíble!\N¡¿Quieres ayudarme con el trabajo?!
+Dialogue: 0,0:21:44.41,0:21:46.11,Gen_Italics,Enan,0,0,0,,Para eso me pidieron que viniera.
+Dialogue: 0,0:21:46.20,0:21:49.99,Gen_Main,Shin,0,0,0,,¡No daba abasto trabajando solo!\N¡Me serás de muchísima ayuda!
+Dialogue: 0,0:21:51.49,0:21:55.00,Gen_Main,Shin,0,0,0,,Enan, ¿verdad?\N¡Será un gusto trabajar contigo!
+Dialogue: 0,0:23:17.79,0:23:25.01,Cart_A_Tre,CARTEL,0,0,0,,{\fs16\bord1}Traducción: Edward\NEdición: Antonio LB\NControl de calidad: Néstor Rubio
+Dialogue: 0,0:23:25.73,0:23:29.53,Gen_Main,Ars/Pham,0,0,0,,-¿Contento con tu nueva amiga, Pham?\N-Sí.
+Dialogue: 0,0:23:29.60,0:23:32.12,Gen_Main,Ars,0,0,0,,Por cierto, ¿tenías amigos antes?
+Dialogue: 0,0:23:32.22,0:23:35.58,Gen_Main,Pham,0,0,0,,Ars, por este trabajo te cobraré\Ndiez veces el pago habitual.
+Dialogue: 0,0:23:35.64,0:23:37.52,Gen_Main,Ars,0,0,0,,¡Por favor, perdóname!
+Dialogue: 1,0:23:37.60,0:23:40.02,Gen_Main,Ars,0,0,0,,Próximo episodio:\N"Dos talentos excepcionales".
+Dialogue: 0,0:23:37.65,0:23:40.02,Cart_A_Tre,CARTEL,0,0,0,,{\fad(500,0)\fs16\an3\shad0.7\bord1\blur0.5\c&HD0D0D0&\3c&H434343&\4c&H393939&\pos(600.47,165.65)}Próximo episodio\NDos talentos excepcionales
+
