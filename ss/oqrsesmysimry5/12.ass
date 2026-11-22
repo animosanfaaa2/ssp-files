@@ -1,0 +1,276 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 1
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Unicode MS,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,22,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.27,0:00:04.51,Default,,0,0,0,,Vụ cháy rụi nhà dân\Ntại thị trấn Akisaki-Komagane,
+Dialogue: 0,0:00:04.78,0:00:07.06,Default,,0,0,0,,án mạng do phóng hỏa, chưa đưa tin.
+Dialogue: 0,0:00:07.65,0:00:10.44,Default,,0,0,0,,Vụ ám sát nhân vật quan trọng\Ntại tòa nhà Otemon,
+Dialogue: 0,0:00:10.78,0:00:13.17,Default,,0,0,0,,hiện đang bị kiểm soát thông tin.
+Dialogue: 0,0:00:13.57,0:00:18.24,Default,,0,0,0,,Khách phòng 306, tại kho số 7,\Nbến cảng số 2,
+Dialogue: 0,0:00:18.48,0:00:20.82,Default,,0,0,0,,đã hoàn tất công việc, chưa đưa tin.
+Dialogue: 0,0:00:22.88,0:00:24.02,Default,,0,0,0,,Haizaki đây.
+Dialogue: 0,0:00:24.33,0:00:27.26,Default,,0,0,0,,Khâu hỗ trợ ngài Machinami\Nở phòng 306 thế nào rồi?
+Dialogue: 0,0:00:27.59,0:00:29.92,Default,,0,0,0,,Đội dọn dẹp đã tới hiện trường rồi.
+Dialogue: 0,0:00:30.17,0:00:32.56,Default,,0,0,0,,Khách bảo sẽ tự quay về.
+Dialogue: 0,0:00:33.26,0:00:35.47,Default,,0,0,0,,Dự kiến 2 tiếng nữa sẽ tới.
+Dialogue: 0,0:00:35.47,0:00:36.67,Default,,0,0,0,,Đã rõ.
+Dialogue: 0,0:00:36.67,0:00:37.73,Default,,0,0,0,,Tôi sẽ túc trực chờ.
+Dialogue: 0,0:00:40.80,0:00:43.20,Default,,0,0,0,,Vậy tiền bối Sara, em đi đây ạ.
+Dialogue: 0,0:00:44.70,0:00:47.63,Default,,0,0,0,,À, cậu Koshiba.\NHôm nay cậu hết ca rồi à?
+Dialogue: 0,0:00:48.08,0:00:48.72,Default,,0,0,0,,Hử?
+Dialogue: 0,0:00:49.17,0:00:53.48,Default,,0,0,0,,Nghe bảo ngài Machinami ở phòng 306,\Nmột tiếng rưỡi nữa mới về đấy.
+Dialogue: 0,0:00:54.12,0:00:55.33,Default,,0,0,0,,À vâng.
+Dialogue: 0,0:00:55.86,0:00:57.18,Default,,0,0,0,,Đừng có trốn việc.
+Dialogue: 0,0:00:57.56,0:00:59.02,Default,,0,0,0,,V-Vâng…
+Dialogue: 0,0:00:59.52,0:01:00.32,Default,,0,0,0,,Tôi đi đây.
+Dialogue: 0,0:01:00.63,0:01:02.58,Default,,0,0,0,,C-Cậu vất vả rồi.
+Dialogue: 0,0:01:19.75,0:01:21.58,Default,,0,0,0,,Thuốc lá lại tăng giá à?
+Dialogue: 0,0:01:22.49,0:01:24.58,Default,,0,0,0,,Vật giá dạo này bị sao vậy trời.
+Dialogue: 0,0:01:25.23,0:01:26.68,Default,,0,0,0,,Tha cho người ta đi mà!
+Dialogue: 0,0:01:27.64,0:01:28.75,Default,,0,0,0,,Vâng…
+Dialogue: 0,0:01:29.07,0:01:30.73,Default,,0,0,0,,Cho tôi gói số 27.
+Dialogue: 0,0:01:31.05,0:01:32.07,Default,,0,0,0,,Dạ vâng.
+Dialogue: 0,0:01:32.07,0:01:33.22,Default,,0,0,0,,THÁM TỬ SÁT THỦ - XỔ SỐ NHÂN VẬT\N(NHÂN VIÊN ĐỀ CỬ!)
+Dialogue: 0,0:01:33.22,0:01:34.57,Default,,0,0,0,,À, cho tôi bốc cái này.
+Dialogue: 0,0:01:35.00,0:01:35.95,Default,,0,0,0,,Lấy cái này đi.
+Dialogue: 0,0:01:36.25,0:01:37.37,Default,,0,0,0,,Của anh ạ.
+Dialogue: 0,0:01:38.87,0:01:41.00,Default,,0,0,0,,Chết dở! Quên ví mất rồi!
+Dialogue: 0,0:01:41.48,0:01:45.00,Default,,0,0,0,,Ui, chọn cái nào bây giờ…
+Dialogue: 0,0:01:46.86,0:01:48.04,Default,,0,0,0,,Xin lỗi ạ.
+Dialogue: 0,0:01:48.25,0:01:50.88,Default,,0,0,0,,Xem ra anh mê\NThám tử Sát thủ nhỉ.
+Dialogue: 0,0:01:50.88,0:01:51.64,Default,,0,0,0,,Hử?
+Dialogue: 0,0:01:51.94,0:01:52.86,Default,,0,0,0,,Không hẳn.
+Dialogue: 0,0:01:53.16,0:01:54.18,Default,,0,0,0,,Bình thường thôi.
+Dialogue: 0,0:01:54.35,0:01:54.76,Default,,0,0,0,,Hả?
+Dialogue: 0,0:01:55.15,0:01:57.18,Default,,0,0,0,,Tại cái bảng quảng cáo\Nvẽ cưng quá mà.
+Dialogue: 0,0:01:58.64,0:02:01.58,Default,,0,0,0,,Tôi vốn chẳng thể kìm lòng\Ntrước mấy thứ dễ thương.
+Dialogue: 0,0:02:01.95,0:02:04.20,Default,,0,0,0,,Hừm, tính sao bây giờ…
+Dialogue: 0,0:02:08.19,0:02:09.86,Default,,0,0,0,,Không phải cho không đâu.
+Dialogue: 0,0:02:09.86,0:02:10.94,Default,,0,0,0,,Coi như cho vay.
+Dialogue: 0,0:02:13.04,0:02:15.50,Default,,0,0,0,,Cái bảng quảng cáo đó là tôi vẽ.
+Dialogue: 0,0:02:15.82,0:02:17.40,Default,,0,0,0,,Kiểu như chịu trách nhiệm ấy.
+Dialogue: 0,0:02:19.94,0:02:21.45,Default,,0,0,0,,Thấy hoài niệm quá.
+Dialogue: 0,0:02:22.22,0:02:24.16,Default,,0,0,0,,Ngày xưa tôi cũng giống vậy.
+Dialogue: 0,0:02:25.97,0:02:27.29,Default,,0,0,0,,Cô Matsuki này.
+Dialogue: 0,0:02:28.68,0:02:31.48,Default,,0,0,0,,Sau này đừng có dễ dãi\Ncho người khác vay tiền thế.
+Dialogue: 0,0:02:34.18,0:02:38.05,Default,,0,0,0,,Đồng 500 yên này, cứ cho tôi vay\Nđến khi quay hết đợt nhé.
+Dialogue: 0,0:02:38.57,0:02:40.66,Default,,0,0,0,,Cũng được thôi, nhưng để làm gì?
+Dialogue: 0,0:02:41.58,0:02:42.93,Default,,0,0,0,,Lấy may ấy mà.
+Dialogue: 0,0:02:43.90,0:02:48.27,Default,,0,0,0,,Ai đời lại leo lên xe máy\Ncủa người còn chẳng biết tên.
+Dialogue: 0,0:02:49.61,0:02:52.12,Default,,0,0,0,,Mọi người hay gọi tôi là Koshiba.
+Dialogue: 0,0:02:52.63,0:02:54.64,Default,,0,0,0,,Còn cô là Matsuki à?
+Dialogue: 0,0:02:58.75,0:02:59.83,Default,,0,0,0,,Này!
+Dialogue: 0,0:02:59.83,0:03:01.41,Default,,0,0,0,,GIẢI D: THÚ BÔNG
+Dialogue: 0,0:03:01.41,0:03:03.62,Default,,0,0,0,,Cứ coi như là dễ thương đi.
+Dialogue: 0,0:03:04.30,0:03:05.43,Default,,0,0,0,,Hikaru.
+Dialogue: 0,0:03:08.10,0:03:09.63,Default,,0,0,0,,Matsuki Hikaru.
+Dialogue: 0,0:03:10.33,0:03:13.76,Default,,0,0,0,,Từ xưa Hikaru đã vẽ đẹp thế à?
+Dialogue: 0,0:03:15.22,0:03:17.08,Default,,0,0,0,,Hồi xưa thì cũng không biết nữa.
+Dialogue: 0,0:03:18.62,0:03:21.11,Default,,0,0,0,,Dù chị gái lúc nào cũng khen tôi.
+Dialogue: 0,0:03:22.68,0:03:23.97,Default,,0,0,0,,Này nhá! Ikuro!
+Dialogue: 0,0:03:24.36,0:03:26.59,Default,,0,0,0,,Tôi đã bảo là\Ncấm đụng vào rồi cơ mà!
+Dialogue: 0,0:03:31.70,0:03:34.40,Default,,0,0,0,,Tôi vừa mới đi hỏa táng chị tôi về.
+Dialogue: 0,0:03:36.61,0:03:39.30,Default,,0,0,0,,Tôi mặc đồ tang thế này\Nlàm anh khó hỏi đúng không?
+Dialogue: 0,0:03:40.76,0:03:42.64,Default,,0,0,0,,Nên tôi tự khai luôn cho nhanh.
+Dialogue: 0,0:03:44.14,0:03:45.42,Default,,0,0,0,,Tôi ổn mà.
+Dialogue: 0,0:03:45.93,0:03:49.15,Default,,0,0,0,,Dù sao tôi cũng biết chị ấy\Nkhông còn sống được bao lâu.
+Dialogue: 0,0:03:49.15,0:03:51.22,Default,,0,0,0,,Cũng đã chuẩn bị tinh thần\Ntừ lâu rồi.
+Dialogue: 0,0:03:51.74,0:03:52.61,Default,,0,0,0,,Nhưng mà…
+Dialogue: 0,0:03:52.92,0:03:58.08,Default,,0,0,0,,hỏa táng xong, về đến nhà,\Ntôi chẳng biết phải làm gì nữa.
+Dialogue: 0,0:04:00.85,0:04:02.94,Default,,0,0,0,,Hãy đưa tôi ra biển.
+Dialogue: 0,0:04:03.62,0:04:05.85,Default,,0,0,0,,Ôi, gió mát đã quá đi!
+Dialogue: 0,0:04:06.08,0:04:08.77,Default,,0,0,0,,Này! Sao lại đòi ra biển thế?
+Dialogue: 0,0:04:08.77,0:04:10.29,Default,,0,0,0,,Nhật ký tranh.
+Dialogue: 0,0:04:10.64,0:04:11.44,Default,,0,0,0,,Hả?
+Dialogue: 0,0:04:11.68,0:04:12.93,Default,,0,0,0,,Nhật ký tranh!
+Dialogue: 0,0:04:13.08,0:04:18.15,Default,,0,0,0,,Hồi bé tôi với chị\Nhay vẽ chung nhật ký tranh.
+Dialogue: 0,0:04:18.48,0:04:21.79,Default,,0,0,0,,Và lại dừng đúng vào cái ngày\Nđi biển đó.
+Dialogue: 0,0:04:25.15,0:04:26.66,Default,,0,0,0,,Tôi xin tiếp nhận.
+Dialogue: 0,0:04:27.15,0:04:28.53,Default,,0,0,0,,Về việc của em gái ngài.
+Dialogue: 0,0:04:29.05,0:04:33.17,Default,,0,0,0,,Tôi muốn nhớ lại xem\Nvì sao lại dừng ở đúng ngày đó!
+Dialogue: 0,0:04:34.27,0:04:38.48,Default,,0,0,0,,Tại giờ, đâu thể hỏi trực tiếp\Nchị ấy chuyện nhật ký nữa đâu.
+Dialogue: 0,0:04:45.00,0:04:47.31,Default,,0,0,0,,Tôi khao anh lon cà phê nhé.
+Dialogue: 0,0:04:51.71,0:04:52.93,Default,,0,0,0,,Tiền bối Sara.
+Dialogue: 0,0:04:53.33,0:04:56.23,Default,,0,0,0,,Cảm ơn chị đã nhận\Ntrực ca đêm thay em.
+Dialogue: 0,0:04:58.97,0:05:01.25,Default,,0,0,0,,Nhờ cả vào em đấy, Koshiba.
+Dialogue: 0,0:05:02.44,0:05:06.74,Default,,0,0,0,,Em hãy thực hiện Dịch vụ Lâm chung\Ncủa sát thủ Matsuki Mitsuru…
+Dialogue: 0,0:05:07.47,0:05:09.84,Default,,0,0,0,,dành cho em gái ngài ấy đi.
+Dialogue: 0,0:05:15.84,0:05:18.96,Default,,0,0,0,,1. PHI NHÂN TÍNH, QUÁI DỊ\N2. VÔ CẢM, KHÔNG CÓ TÍNH NGƯỜI\N3. MÁU LẠNH, TÀN NHẪN
+Dialogue: 0,0:06:39.63,0:06:44.97,Default,,0,0,0,,KHÁCH SẠN INHUMANS
+Dialogue: 0,0:06:49.30,0:06:53.27,Default,,0,0,0,,YÊU CẦU 21: NHẬT KÝ XE MÁY 2
+Dialogue: 0,0:06:56.11,0:06:57.56,Default,,0,0,0,,Ấm người hẳn lên.
+Dialogue: 0,0:06:59.27,0:07:02.32,Default,,0,0,0,,Giờ đang ở đoạn này nè.\NĐi tiếp phía trước à?
+Dialogue: 0,0:07:03.89,0:07:08.95,Default,,0,0,0,,Ừ, cứ đi thẳng thế này,\Ndọc bờ biển sẽ có một bãi đỗ xe.
+Dialogue: 0,0:07:36.98,0:07:38.40,Default,,0,0,0,,Ở đây! Dừng lại đi!
+Dialogue: 0,0:07:39.78,0:07:40.82,Default,,0,0,0,,Tới rồi!
+Dialogue: 0,0:07:42.11,0:07:43.67,Default,,0,0,0,,Tới nơi rồi, Koshiba ơi!
+Dialogue: 0,0:07:46.25,0:07:47.37,Default,,0,0,0,,Nhưng mà…
+Dialogue: 0,0:07:48.36,0:07:49.56,Default,,0,0,0,,Nhưng mà nhé…
+Dialogue: 0,0:07:50.51,0:07:52.25,Default,,0,0,0,,Lạnh quá trời!
+Dialogue: 0,0:07:53.00,0:07:56.69,Default,,0,0,0,,Mà gió thổi kinh thật đấy!
+Dialogue: 0,0:07:59.46,0:08:00.84,Default,,0,0,0,,Có đúng chỗ này không đấy?
+Dialogue: 0,0:08:00.84,0:08:03.50,Default,,0,0,0,,Hồi cô tới đây\Nlà lúc còn bé xíu đúng chứ?
+Dialogue: 0,0:08:16.49,0:08:17.35,Default,,0,0,0,,Ừ.
+Dialogue: 0,0:08:17.61,0:08:18.97,Default,,0,0,0,,Chắc chắn là ở đây.
+Dialogue: 0,0:08:26.33,0:08:30.13,Default,,0,0,0,,Nếu định xuống tận bãi cát\Nthì cứ để xe ở đây thôi.
+Dialogue: 0,0:08:30.13,0:08:31.60,Default,,0,0,0,,Không được rồi.
+Dialogue: 0,0:08:32.37,0:08:36.60,Default,,0,0,0,,Rõ ràng đúng chỗ này rồi\Nmà tôi vẫn chẳng nhớ ra nổi.
+Dialogue: 0,0:08:40.89,0:08:43.67,Default,,0,0,0,,Tại sao lại ngừng viết\Nnhật ký tranh chứ?
+Dialogue: 0,0:08:46.52,0:08:50.30,Default,,0,0,0,,Cuối cùng cũng được ra biển rồi nè!
+Dialogue: 0,0:08:50.52,0:08:54.71,Default,,0,0,0,,Hôm nay trời tối mất rồi,\Nnhưng ngày mai mình sẽ bơi cho thỏa thích.
+Dialogue: 0,0:08:55.20,0:08:57.85,Default,,0,0,0,,Liệu có được gặp bạn cá không nhỉ?
+Dialogue: 0,0:08:58.09,0:09:01.24,Default,,0,0,0,,Ơ, đừng có tự tiện\Nxem nhật ký của người ta chứ!
+Dialogue: 0,0:09:01.24,0:09:04.83,Default,,0,0,0,,Hừm, đúng là tới đoạn này\Nvẫn còn vui vẻ lắm.
+Dialogue: 0,0:09:04.83,0:09:05.81,Default,,0,0,0,,Nhưng mà…
+Dialogue: 0,0:09:05.81,0:09:06.67,Default,,0,0,0,,Ừ.
+Dialogue: 0,0:09:06.92,0:09:09.32,Default,,0,0,0,,Các trang sau bị xé mất rồi.
+Dialogue: 0,0:09:10.07,0:09:11.48,Default,,0,0,0,,Sao lại thế nhỉ?
+Dialogue: 0,0:09:12.29,0:09:15.49,Default,,0,0,0,,Trang bị xé là vẽ ngày hôm sau\Nkhi tới bãi biển này à?
+Dialogue: 0,0:09:16.86,0:09:18.08,Default,,0,0,0,,Chả biết nữa.
+Dialogue: 0,0:09:22.24,0:09:25.21,Default,,0,0,0,,Rõ ràng mùi gió biển\Nvẫn hoài niệm đến thế cơ mà.
+Dialogue: 0,0:09:34.94,0:09:36.05,Default,,0,0,0,,Này nhé.
+Dialogue: 0,0:09:36.59,0:09:39.80,Default,,0,0,0,,Lý do tôi muốn nhớ lại ấy,\Nthực ra vẫn còn nữa…
+Dialogue: 0,0:09:42.51,0:09:46.38,Default,,0,0,0,,Hình như vào ngày cuối cùng,\Nchị tôi đã đọc cuốn nhật ký này.
+Dialogue: 0,0:09:49.81,0:09:53.87,Default,,0,0,0,,Nhưng mà…\Nnếu tôi cứ quên luôn như vậy…
+Dialogue: 0,0:09:54.07,0:09:56.74,Default,,0,0,0,,thì có nghĩa là không cần nhớ lại\Ncũng không sao nhỉ?
+Dialogue: 0,0:10:05.54,0:10:08.55,Default,,0,0,0,,DÌ: HIKARU À, CẢM ƠN CHÁU\NVÌ SUỐT THỜI GIAN QUA ĐÃ CỐ GẮNG NHÉ
+Dialogue: 0,0:10:10.21,0:10:12.26,Default,,0,0,0,,CHỊ CHÁU CHẮC HẲN…
+Dialogue: 0,0:10:12.26,0:10:14.22,Default,,0,0,0,,ĐÃ RẤT HẠNH PHÚC\NCHO ĐẾN TẬN PHÚT CUỐI ĐẤY.
+Dialogue: 0,0:10:20.60,0:10:21.57,Default,,0,0,0,,Hikaru!
+Dialogue: 0,0:10:23.81,0:10:25.46,Default,,0,0,0,,Nực cười thật.
+Dialogue: 0,0:10:27.61,0:10:30.84,Default,,0,0,0,,Những kẻ chẳng giúp được tí nào,
+Dialogue: 0,0:10:31.44,0:10:34.75,Default,,0,0,0,,lại cứ thản nhiên nói về chị tôi\Nnhư thể hiểu rõ lắm ấy, hay thật sự.
+Dialogue: 0,0:10:35.65,0:10:38.48,Default,,0,0,0,,Lúc chỉ còn lại\Nhai chị em tôi cũng thế.
+Dialogue: 0,0:10:39.21,0:10:42.20,Default,,0,0,0,,Rồi cả lúc phát hiện ra\Nbệnh tình của chị cũng vậy.
+Dialogue: 0,0:10:42.55,0:10:45.63,Default,,0,0,0,,Họ cứ gói gọn thành\Nmột câu chuyện buồn thật đẹp,
+Dialogue: 0,0:10:45.63,0:10:49.46,Default,,0,0,0,,rồi tự thỏa mãn xong quên sạch\Nthì sướng quá rồi.
+Dialogue: 0,0:10:51.91,0:10:53.13,Default,,0,0,0,,Vậy còn tôi…
+Dialogue: 0,0:10:55.69,0:10:59.04,Default,,0,0,0,,Người muốn quên\Ncũng không tài nào quên được thì sao?
+Dialogue: 0,0:11:01.32,0:11:03.98,Default,,0,0,0,,Còn tôi… Còn tôi thì sao?
+Dialogue: 0,0:11:06.79,0:11:09.67,Default,,0,0,0,,Còn chuyện đứng bên cạnh\Nngười chị nằm liệt giường,
+Dialogue: 0,0:11:09.67,0:11:13.26,Default,,0,0,0,,nói khẽ không để chị nghe thấy rằng\N"tha cho em đi mà" thì sao?
+Dialogue: 0,0:11:13.45,0:11:15.07,Default,,0,0,0,,Còn chuyện khi chị ấy…
+Dialogue: 0,0:11:15.37,0:11:18.71,Default,,0,0,0,,khi chị ấy qua đời,\Ntôi lại có chút nhẹ nhõm thì sao?
+Dialogue: 0,0:11:19.49,0:11:22.40,Default,,0,0,0,,Chuyện thoáng nghĩ rằng\Ntừ nay không phải chăm sóc nữa rồi…
+Dialogue: 0,0:11:22.40,0:11:24.51,Default,,0,0,0,,cuối cùng cũng kết thúc rồi…
+Dialogue: 0,0:11:24.96,0:11:26.83,Default,,0,0,0,,thì sao đây?
+Dialogue: 0,0:11:28.73,0:11:30.09,Default,,0,0,0,,Thế nên…
+Dialogue: 0,0:11:34.46,0:11:37.27,Default,,0,0,0,,Thế nên… tôi…
+Dialogue: 0,0:11:49.61,0:11:52.52,Default,,0,0,0,,Rõ ràng tôi vẽ là để quên đi mà…
+Dialogue: 0,0:11:57.20,0:11:58.09,Default,,0,0,0,,Gì thế chị?
+Dialogue: 0,0:12:00.28,0:12:02.00,Default,,0,0,0,,Có lẽ đây…
+Dialogue: 0,0:12:02.51,0:12:05.13,Default,,0,0,0,,là lần cuối cùng…
+Dialogue: 0,0:12:06.24,0:12:08.17,Default,,0,0,0,,chị được về nhà…
+Dialogue: 0,0:12:12.24,0:12:14.59,Default,,0,0,0,,Này, bức tranh kia…
+Dialogue: 0,0:12:14.96,0:12:15.96,Default,,0,0,0,,Tranh ạ?
+Dialogue: 0,0:12:16.37,0:12:17.67,Default,,0,0,0,,Cho chị xem đi.
+Dialogue: 0,0:12:18.93,0:12:23.07,Default,,0,0,0,,Thực lòng tôi đâu có định\Ncho chị xem.
+Dialogue: 0,0:12:23.07,0:12:23.93,Default,,0,0,0,,Nhưng mà…
+Dialogue: 0,0:12:24.40,0:12:27.02,Default,,0,0,0,,Xin em, cho chị xem đi mà.
+Dialogue: 0,0:12:40.15,0:12:41.47,Default,,0,0,0,,Là tôi…
+Dialogue: 0,0:12:41.89,0:12:43.41,Default,,0,0,0,,Chỉ vì bản thân tôi…
+Dialogue: 0,0:12:44.31,0:12:47.41,Default,,0,0,0,,Để trút bỏ những ngày tháng\Nlặp đi lặp lại…
+Dialogue: 0,0:12:47.85,0:12:50.88,Default,,0,0,0,,Để tẩy trắng những cảm xúc vẩn đục…
+Dialogue: 0,0:12:51.95,0:12:54.00,Default,,0,0,0,,Để quên hết tất cả…
+Dialogue: 0,0:12:55.48,0:12:58.71,Default,,0,0,0,,Thế mà tôi lại vẽ\Nkhoảnh khắc cuối đời của chị…
+Dialogue: 0,0:13:06.81,0:13:11.65,Default,,0,0,0,,Dù có muốn quên, tôi cũng\Nchẳng thể nào quên được nữa rồi.
+Dialogue: 0,0:13:21.48,0:13:22.65,Default,,0,0,0,,Chị ơi!
+Dialogue: 0,0:13:30.91,0:13:32.58,Default,,0,0,0,,Đừng có buông ra! Hikaru!
+Dialogue: 0,0:13:32.58,0:13:33.61,Default,,0,0,0,,Đi thôi!
+Dialogue: 0,0:13:33.95,0:13:34.81,Default,,0,0,0,,Nhưng mà…
+Dialogue: 0,0:13:37.04,0:13:38.72,Default,,0,0,0,,Bám cho chắc vào đấy!
+Dialogue: 0,0:13:38.72,0:13:39.73,Default,,0,0,0,,Koshiba?
+Dialogue: 0,0:13:44.62,0:13:46.10,Default,,0,0,0,,Koshiba, nhanh quá!
+Dialogue: 0,0:13:46.10,0:13:47.47,Default,,0,0,0,,Nhanh quá đấy!
+Dialogue: 0,0:13:47.77,0:13:51.52,Default,,0,0,0,,Tôi ấy mà, ghét nhất là\Nmấy chuyện sến súa sướt mướt.
+Dialogue: 0,0:13:52.56,0:13:55.80,Default,,0,0,0,,Càng nghe càng thấy bực mình\Nkhông chịu nổi!
+Dialogue: 0,0:13:57.67,0:14:01.23,Default,,0,0,0,,Bởi vì, Hikaru\Ncòn làm được gì hơn nữa chứ?
+Dialogue: 0,0:14:02.53,0:14:03.49,Default,,0,0,0,,Nổi giận đi!
+Dialogue: 0,0:14:06.70,0:14:10.46,Default,,0,0,0,,Nổi giận với tất cả những thứ\Nđã khiến cô phải ghét chị mình.
+Dialogue: 0,0:14:10.82,0:14:13.40,Default,,0,0,0,,Nổi giận với căn bệnh\Nlấy mạng chị ấy.
+Dialogue: 0,0:14:13.80,0:14:18.42,Default,,0,0,0,,Với đám họ hàng chẳng làm được tích sự gì\Nmà đến đám tang lại bày đặt khóc lóc.
+Dialogue: 0,0:14:18.42,0:14:21.84,Default,,0,0,0,,Với cái xã hội chẳng thèm\Nchìa tay ra giúp đỡ!
+Dialogue: 0,0:14:22.41,0:14:23.32,Default,,0,0,0,,Thế nên là!
+Dialogue: 0,0:14:23.52,0:14:25.59,Default,,0,0,0,,Nếu vẫn còn muốn đưa tay níu giữ,
+Dialogue: 0,0:14:25.81,0:14:27.05,Default,,0,0,0,,thì đừng có buông tay!
+Dialogue: 0,0:14:29.99,0:14:33.44,Default,,0,0,0,,Con người ấy mà,\Nrồi kiểu gì cũng sẽ dần quên đi thôi.
+Dialogue: 0,0:14:43.03,0:14:43.84,Default,,0,0,0,,Thế nên!
+Dialogue: 0,0:14:44.07,0:14:45.70,Default,,0,0,0,,Nếu vẫn chưa thể quên được…
+Dialogue: 0,0:14:49.76,0:14:52.54,Default,,0,0,0,,thì bây giờ cứ ôm chặt lấy đi.
+Dialogue: 0,0:15:04.37,0:15:07.45,Default,,0,0,0,,À… phải rồi.
+Dialogue: 0,0:15:09.17,0:15:10.25,Default,,0,0,0,,Mình…
+Dialogue: 0,0:15:50.08,0:15:53.24,Default,,0,0,0,,Mình đã bị đuối nước…
+Dialogue: 0,0:15:57.96,0:15:59.51,Default,,0,0,0,,Rồi sau đó…
+Dialogue: 0,0:16:11.12,0:16:13.04,Default,,0,0,0,,Sao chị lại vẽ như thế?
+Dialogue: 0,0:16:13.76,0:16:15.66,Default,,0,0,0,,Chị Mii hâm!
+Dialogue: 0,0:16:17.04,0:16:18.25,Default,,0,0,0,,Hikaru…
+Dialogue: 0,0:16:19.03,0:16:20.69,Default,,0,0,0,,Ứ viết nhật ký nữa đâu!
+Dialogue: 0,0:16:23.60,0:16:25.31,Default,,0,0,0,,Em bỏ thật à?
+Dialogue: 0,0:16:25.31,0:16:27.80,Default,,0,0,0,,Bỏ luôn! Em bỏ luôn!
+Dialogue: 0,0:16:27.80,0:16:32.03,Default,,0,0,0,,Chị thì lại thích\Ntranh của Hikaru lắm đấy.
+Dialogue: 0,0:16:48.72,0:16:49.81,Default,,0,0,0,,Hikaru!
+Dialogue: 0,0:16:54.91,0:16:55.99,Default,,0,0,0,,Hikaru…
+Dialogue: 0,0:17:01.69,0:17:03.31,Default,,0,0,0,,Em nhớ ra rồi.
+Dialogue: 0,0:17:03.71,0:17:04.81,Default,,0,0,0,,Chị à.
+Dialogue: 0,0:17:07.90,0:17:09.92,Default,,0,0,0,,KHÁCH SẠN INHUMANS
+Dialogue: 0,0:17:14.59,0:17:16.51,Default,,0,0,0,,Chôn vùi hung thủ thực sự\Nvào bóng tối.
+Dialogue: 0,0:17:16.51,0:17:19.16,Default,,0,0,0,,Thám tử Sát thủ hiện đang phát sóng\Ncực kỳ ăn khách!
+Dialogue: 0,0:17:19.75,0:17:22.01,Default,,0,0,0,,À, thì ra là cái này à.
+Dialogue: 0,0:17:22.44,0:17:24.06,Default,,0,0,0,,Này, cô Sara.
+Dialogue: 0,0:17:25.41,0:17:26.61,Default,,0,0,0,,Chuyện gì vậy?
+Dialogue: 0,0:17:26.61,0:17:32.07,Default,,0,0,0,,Cậu Koshiba chẳng chịu kể cho tôi nghe\Nvề vụ lần trước gì cả.
+Dialogue: 0,0:17:32.75,0:17:36.24,Default,,0,0,0,,Di nguyện cuối đời\Ncủa ngài Matsuki Mitsuru là…
+Dialogue: 0,0:17:36.65,0:17:41.45,Default,,0,0,0,,muốn giúp cô em gái Hikaru\N"chấp nhận cái chết của mình" ấy.
+Dialogue: 0,0:17:42.33,0:17:44.99,Default,,0,0,0,,À, chẳng phải vì ngại sao?
+Dialogue: 0,0:17:45.22,0:17:47.72,Default,,0,0,0,,Hả? Koshiba mà cũng biết ngại á?
+Dialogue: 0,0:17:48.06,0:17:51.59,Default,,0,0,0,,Cậu ấy sẽ không dịu dàng\Nkề cận như anh Ikuro…
+Dialogue: 0,0:17:52.23,0:17:54.85,Default,,0,0,0,,nhưng có khi\Nlại theo sát hơn cả anh đấy.
+Dialogue: 0,0:18:04.64,0:18:06.56,Default,,0,0,0,,Này, đừng có chạy mà.
+Dialogue: 0,0:18:12.63,0:18:16.32,Default,,0,0,0,,Vì dù tốt hay xấu,\NKoshiba vẫn luôn vụng về như thế.
+Dialogue: 0,0:19:24.23,0:19:26.23,Default,,0,0,0,,Kính chào quý khách.
+Dialogue: 0,0:19:29.23,0:19:31.35,Default,,0,0,0,,Giọng khàn đặc như bị cảm rồi kìa.
+Dialogue: 0,0:19:32.29,0:19:36.52,Default,,0,0,0,,Rơi xuống biển giữa đêm đông,\Nkhông chết là may rồi.
+Dialogue: 0,0:19:37.04,0:19:38.69,Default,,0,0,0,,Dù cái điện thoại ngỏm rồi.
+Dialogue: 0,0:19:40.67,0:19:43.75,Default,,0,0,0,,Chắc phải đi mua điện thoại mới thôi.
+Dialogue: 0,0:19:44.37,0:19:49.92,Default,,0,0,0,,Mà, nhân dịp này cắt đứt luôn\Nquan hệ họ hàng đi cũng được.
+Dialogue: 0,0:19:51.33,0:19:52.48,Default,,0,0,0,,Cũng hay đấy chứ.
+Dialogue: 0,0:19:52.88,0:19:53.92,Default,,0,0,0,,Thế còn cái kia sao?
+Dialogue: 0,0:19:55.36,0:19:56.70,Default,,0,0,0,,Có bị làm sao không?
+Dialogue: 0,0:19:57.20,0:19:59.48,Default,,0,0,0,,À! Chờ tôi một chút nhé.
+Dialogue: 0,0:20:00.68,0:20:02.68,Default,,0,0,0,,Ủa? Gì thế?
+Dialogue: 0,0:20:09.19,0:20:10.40,Default,,0,0,0,,NHẬT KÝ TRANH
+Dialogue: 0,0:20:10.40,0:20:11.66,Default,,0,0,0,,Ten tèn!
+Dialogue: 0,0:20:12.51,0:20:14.90,Default,,0,0,0,,Ui, nhăn nhúm hết cả rồi.
+Dialogue: 0,0:20:14.90,0:20:16.53,Default,,0,0,0,,Tơi tả luôn mà.
+Dialogue: 0,0:20:19.71,0:20:21.93,Default,,0,0,0,,Tôi tự tiện vẽ thêm vào đấy.
+Dialogue: 0,0:20:22.49,0:20:25.97,Default,,0,0,0,,Nhưng vì dễ thương nên Koshiba\Nsẽ tha lỗi cho tôi chứ?
+Dialogue: 0,0:20:27.51,0:20:31.07,Default,,0,0,0,,Tháng 1, trên đường\Ntừ đám tang chị gái về,
+Dialogue: 0,0:20:31.07,0:20:33.25,Default,,0,0,0,,sau bao lâu\Nmình đã trở lại bãi biển ấy.
+Dialogue: 0,0:20:34.85,0:20:38.84,Default,,0,0,0,,Nửa đêm giữa mùa đông,\Ntrên xe máy của một anh chàng kỳ quặc.
+Dialogue: 0,0:20:39.78,0:20:41.38,Default,,0,0,0,,Lạnh thấu xương.
+Dialogue: 0,0:20:42.04,0:20:45.23,Default,,0,0,0,,Nhưng gió lại mát đến lạ kỳ.
+Dialogue: 0,0:20:47.58,0:20:50.55,Default,,0,0,0,,Này, trông tôi ngoài đời\Ndễ thương hơn nhiều nhé.
+Dialogue: 0,0:20:57.09,0:20:58.43,Default,,0,0,0,,Thế rồi nhá…
+Dialogue: 0,0:20:58.83,0:21:02.81,Default,,0,0,0,,mình lại một lần nữa\Nbị đuối nước ở đó.
+Dialogue: 0,0:22:46.25,0:22:47.64,Default,,0,0,0,,Nghỉ tay chút thôi.
+Dialogue: 0,0:22:52.39,0:22:54.16,Default,,0,0,0,,Ôi trời ạ…
+Dialogue: 0,0:22:55.55,0:22:56.65,Default,,0,0,0,,Đây là…
+Dialogue: 0,0:22:56.65,0:22:59.19,Default,,0,0,0,,SỔ VẼ PHÁC THẢO
+Dialogue: 0,0:22:59.36,0:23:00.90,Default,,0,0,0,,Sổ vẽ của chị…
+Dialogue: 0,0:23:17.07,0:23:19.09,Default,,0,0,0,,Gì vậy trời, thật là!
+Dialogue: 0,0:23:21.48,0:23:23.36,Default,,0,0,0,,Chị vẽ cả cái này à.
+Dialogue: 0,0:23:27.05,0:23:29.97,Default,,0,0,0,,CÒN TIẾP
+Dialogue: 0,0:23:29.97,0:23:34.98,Default,,0,0,0,,TẬP SAU: YÊU CẦU 22:\NWANDERVOGEL (LEO NÚI)
+
