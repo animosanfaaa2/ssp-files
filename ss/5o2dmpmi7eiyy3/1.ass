@@ -1,0 +1,396 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: sign_generic,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.12,0:00:06.48,Default,Erin,0,0,0,,Modern history is dull because there \Naren't any truly great figures in it.
+Dialogue: 0,0:00:06.48,0:00:08.61,Default,Pia,0,0,0,,Don't say that, Erin. She'll hear you.
+Dialogue: 0,0:00:08.92,0:00:14.91,italics,Pia (N),0,0,0,,We started our third year, and it felt \Nlike life was returning to normal.
+Dialogue: 0,0:00:15.53,0:00:20.23,italics,Pia (N),0,0,0,,After the condemnation scene,\NLady Amelia and the other fiancées
+Dialogue: 0,0:00:20.23,0:00:22.88,italics,Pia (N),0,0,0,,were summoned to the palace along \Nwith the heads of their families.
+Dialogue: 0,0:00:24.37,0:00:27.61,italics,Pia (N),0,0,0,,His Majesty gave them an opportunity \Nto give their own accounts,
+Dialogue: 0,0:00:27.61,0:00:30.82,italics,Pia (N),0,0,0,,apologize for what happened, and \Nformally break off the engagements.
+Dialogue: 0,0:00:31.50,0:00:33.97,italics,Pia (N),0,0,0,,He solemnly accepted their apologies
+Dialogue: 0,0:00:33.97,0:00:37.27,italics,Pia (N),0,0,0,,and calmly completed the paperwork to \Nformally nullify their engagements.
+Dialogue: 0,0:00:37.70,0:00:40.38,italics,Pia (N),0,0,0,,Count Cox, however,
+Dialogue: 0,0:00:40.64,0:00:45.76,italics,Pia (N),0,0,0,,bowed deeply and begged for a chance \Nto bring Henry back to his senses.
+Dialogue: 0,0:00:46.40,0:00:48.89,italics,Pia (N),0,0,0,,Erin still isn't sure what to think.
+Dialogue: 0,0:00:49.85,0:00:52.40,Default,Pia,0,0,0,,Erin, have you heard from Lord Henry?
+Dialogue: 0,0:00:52.40,0:00:54.73,Default,Erin,0,0,0,,Sometimes I get letters from him.
+Dialogue: 0,0:00:54.73,0:00:59.20,Default,Erin,0,0,0,,His hand must have been shaking at first \Nbecause the early ones were all smudged,
+Dialogue: 0,0:00:59.20,0:01:01.78,Default,Erin,0,0,0,,but recently, his writing \Nhas become much cleaner.
+Dialogue: 0,0:01:01.99,0:01:03.79,Default,Pia,0,0,0,,What sorts of things does he write about?
+Dialogue: 0,0:01:04.00,0:01:06.53,Default,Erin,0,0,0,,Mostly his daily routine and apologies.
+Dialogue: 0,0:01:06.53,0:01:08.53,Default,Erin,0,0,0,,I think I've had my fill \Nof apologies now, though.
+Dialogue: 0,0:01:08.83,0:01:11.04,Default,Pia,0,0,0,,Does that mean you've \Ndecided to accept them?
+Dialogue: 0,0:01:11.27,0:01:15.34,Default,Erin,0,0,0,,Well, yes. Henry was tricked, after all.
+Dialogue: 0,0:01:15.34,0:01:19.90,Default,Erin,0,0,0,,His father, the respected knight commander,\Nalso begged me to many times.
+Dialogue: 0,0:01:20.56,0:01:24.13,Default,Erin,0,0,0,,But I don't think I can \Nforgive him completely yet.
+Dialogue: 0,0:01:25.59,0:01:30.43,italics,Pia (M),0,0,0,,Erin's love for Henry was so deep \Nthat her eyes ran out of tears.
+Dialogue: 0,0:01:30.76,0:01:34.69,Default,Erin,0,0,0,,Pia, do you agree that I should \Ngo ahead and forgive him?
+Dialogue: 0,0:01:35.20,0:01:39.20,Default,Pia,0,0,0,,No, Erin. I'll always \Nsee it from your side.
+Dialogue: 1,0:02:00.14,0:02:05.97,sign_generic,text,0,0,0,,{\b1\fade(313,1)\an8\fnTimes New Roman\blur10\fade(1,200)\t(1,313,\blur0)\c&H6B44E4&}Even Though {\c&H4C9BB2&}I'm a {\c&H702FDE&}Super Timid {\c&H396BE7&}Noble Girl,\N{\c&H4C9BB2&}I Accepted the Bet from My {\c&HCDCE3B&}Cunning Fiancé
+Dialogue: 0,0:02:00.14,0:02:05.97,sign_generic,text,0,0,0,,{\b1\fade(313,1)\an8\fnTimes New Roman\blur10\fade(1,200)\t(1,313,\blur0)\bord3\c&H6B44E4&\3c&H7C9BAE&}Even Though {\c&H4C9BB2&}I'm a {\c&H702FDE&}Super Timid {\c&H396BE7&}Noble Girl,\N{\c&H4C9BB2&}I Accepted the Bet from My {\c&HCDCE3B&}Cunning Fiancé
+Dialogue: 0,0:03:13.13,0:03:17.05,sign_generic,text,0,0,0,,{\fade(500,400)\an7\fs15.7\blur2\3c&HC7653C&\bord1\c&HF8FFEE&\pos(342,312)}Episode 8: I Was No Longer an Evil Heiress
+Dialogue: 0,0:03:15.70,0:03:17.71,top,Erin,0,0,0,,Pia, how is Lord Rufus doing?
+Dialogue: 0,0:03:17.71,0:03:20.81,Default,Pia,0,0,0,,It seems like he's been even \Nbusier than usual recently.
+Dialogue: 0,0:03:21.98,0:03:24.75,Default,Pia,0,0,0,,Actually, I have a question, Erin.
+Dialogue: 0,0:03:24.75,0:03:27.88,Default,Pia,0,0,0,,What do you think makes a good present \Nfor someone very dear to you?
+Dialogue: 0,0:03:28.15,0:03:29.02,Default,Erin,0,0,0,,Why?
+Dialogue: 0,0:03:29.40,0:03:32.92,Default,Erin,0,0,0,,Oh, right. Lord Rufus's \Nbirthday is coming up soon.
+Dialogue: 0,0:03:32.92,0:03:34.65,Default,Erin,0,0,0,,What were you thinking of giving him?
+Dialogue: 0,0:03:34.65,0:03:39.78,Default,Pia,0,0,0,,Well, either an ammonite-embroidered \Nhandkerchief, ammonite-embroidered socks,
+Dialogue: 0,0:03:39.78,0:03:41.44,Default,Pia,0,0,0,,or ammonite-embroidered...
+Dialogue: 0,0:03:40.09,0:03:41.90,top,Erin,0,0,0,,I think I get the picture.
+Dialogue: 0,0:03:43.24,0:03:47.66,Default,Pia,0,0,0,,So what sorts of gifts do you usually \Ngive to your close friends, Erin?
+Dialogue: 0,0:03:47.91,0:03:54.02,Default,Erin,0,0,0,,Well, I gave Henry a self-defense knife, \Na sharpening stone and materials,
+Dialogue: 0,0:03:54.02,0:03:56.43,Default,Erin,0,0,0,,and two years ago, I got \Nus matching short swords.
+Dialogue: 0,0:03:58.04,0:04:01.31,Default,Erin,0,0,0,,I had our names engraved,\Nand they turned out really nice.
+Dialogue: 0,0:04:01.54,0:04:06.02,Default,Pia,0,0,0,,Engraved with your names? \NWhat a lovely idea! How romantic!
+Dialogue: 0,0:04:06.02,0:04:09.02,Default,Erin,0,0,0,,Yes. But for Lord Rufus...
+Dialogue: 0,0:04:09.02,0:04:12.03,Default,Erin,0,0,0,,Mike, as a man, what would you suggest?
+Dialogue: 0,0:04:12.35,0:04:16.36,Default,Mike,0,0,0,,Perhaps a common item that he \Ncan use in his day-to-day work.
+Dialogue: 0,0:04:16.36,0:04:20.36,Default,Pia,0,0,0,,His day-to-day work... \NSo like stationery?
+Dialogue: 0,0:04:20.36,0:04:24.14,Default,Erin,0,0,0,,Hey, that sounds great. \NHow about matching pens?
+Dialogue: 0,0:04:24.56,0:04:26.04,Default,Pia,0,0,0,,I think that's what I'll get!
+Dialogue: 0,0:04:26.04,0:04:29.01,Default,Erin,0,0,0,,Then why don't we go shopping \Nfor them together this weekend?
+Dialogue: 0,0:04:29.01,0:04:30.95,Default,Pia,0,0,0,,Yes, let's go, let's go!
+Dialogue: 0,0:04:33.68,0:04:36.99,italics,Pia (M),0,0,0,,This is going to be fun! Erin and \NI out on the town in our uniforms!
+Dialogue: 0,0:04:36.99,0:04:39.35,italics,Pia (M),0,0,0,,Well, Mike's with us, of course.
+Dialogue: 0,0:04:39.35,0:04:41.08,Default,Erin,0,0,0,,Pia! Mike!
+Dialogue: 0,0:04:41.96,0:04:43.18,Default,Pia,0,0,0,,Erin!
+Dialogue: 0,0:04:45.16,0:04:46.35,Default,Shop Owner,0,0,0,,Please come in.
+Dialogue: 0,0:04:50.94,0:04:53.74,Default,Pia,0,0,0,,Wow! There's so many.
+Dialogue: 0,0:04:54.01,0:04:56.11,Default,Pia,0,0,0,,Oh! This one is perfect!
+Dialogue: 0,0:04:56.53,0:05:00.54,Default,Pia,0,0,0,,Mike, would you try holding it? \NAs a man, what do you think?
+Dialogue: 0,0:05:01.05,0:05:04.11,Default,Mike,0,0,0,,It sits very nicely in the hand. \NI do believe he would appreciate this.
+Dialogue: 0,0:05:04.45,0:05:06.48,italics,Pia (M),0,0,0,,I wonder how it writes.
+Dialogue: 0,0:05:06.80,0:05:09.72,Default,Pia,0,0,0,,Excuse me, but I'd like \Nto try this one out.
+Dialogue: 0,0:05:09.72,0:05:10.50,Default,Shop Owner,0,0,0,,Hmm?
+Dialogue: 0,0:05:10.71,0:05:14.33,Default,Erin,0,0,0,,Pia, you can't just start using \None of their brand new pens.
+Dialogue: 0,0:05:14.33,0:05:16.50,Default,Pia,0,0,0,,Oh! I-I'm sorry!
+Dialogue: 0,0:05:16.72,0:05:19.39,italics,Pia (M),0,0,0,,I forgot! This isn't like my old life!
+Dialogue: 0,0:05:21.08,0:05:23.65,Default,Shop Owner,0,0,0,,How preposterous!
+Dialogue: 0,0:05:24.50,0:05:26.55,Default,Shop Owner,0,0,0,,Well, that was my first reaction
+Dialogue: 0,0:05:26.55,0:05:29.19,Default,Shop Owner,0,0,0,,simply because these are far \Ntoo expensive for students.
+Dialogue: 0,0:05:30.78,0:05:34.34,Default,Shop Owner,0,0,0,,But come to think of it, I have a few \Ndefective ones that you can try.
+Dialogue: 0,0:05:34.34,0:05:37.90,Default,Shop Owner,0,0,0,,Pick one that writes comfortably,\Nand I'll find you one similar to it.
+Dialogue: 0,0:05:37.90,0:05:40.51,Default,Pia,0,0,0,,Wow! Thank you very much!
+Dialogue: 0,0:05:40.85,0:05:43.65,Default,Shop Owner,0,0,0,,You're welcome. This may \Nactually be good for business.
+Dialogue: 0,0:05:45.36,0:05:47.90,Default,Pia,0,0,0,,This doesn't seem defective at all.
+Dialogue: 0,0:05:47.90,0:05:49.49,Default,Shop Owner,0,0,0,,Even if you can still write with it,
+Dialogue: 0,0:05:49.49,0:05:52.41,Default,Shop Owner,0,0,0,,I wouldn't sell anything with \Nscratches or a bent barrel.
+Dialogue: 0,0:05:52.65,0:05:55.28,Default,Erin,0,0,0,,I guess normal people can't \Nreally tell the difference.
+Dialogue: 0,0:05:55.50,0:05:58.03,Default,Pia,0,0,0,,What if once a year or so,
+Dialogue: 0,0:05:58.03,0:06:02.54,Default,Pia,0,0,0,,you tried holding a customer appreciation \Nsale and sold them at a reduced price?
+Dialogue: 0,0:06:02.77,0:06:05.48,Default,Shop Owner,0,0,0,,Yes, indeed! Do you have \Nany other suggestions?
+Dialogue: 0,0:06:05.48,0:06:06.18,Default,Mike,0,0,0,,Ahem!
+Dialogue: 0,0:06:07.54,0:06:10.56,Default,Shop Owner,0,0,0,,Oh! The crest of the black eagle!
+Dialogue: 0,0:06:10.56,0:06:15.78,Default,Pia,0,0,0,,Sir, I think I'll go with this one. \NI'd like two of these in amber.
+Dialogue: 0,0:06:15.78,0:06:17.43,Default,Shop Owner,0,0,0,,O-Of course!
+Dialogue: 0,0:06:17.43,0:06:19.80,Default,Pia,0,0,0,,Can you engrave names on them?
+Dialogue: 0,0:06:19.80,0:06:22.19,Default,Shop Owner,0,0,0,,Yes, as you wish!
+Dialogue: 0,0:06:22.19,0:06:25.91,Default,Erin,0,0,0,,What an excellent choice?\NWould you mind if I copied you, Pia?
+Dialogue: 0,0:06:25.91,0:06:26.94,Default,Pia,0,0,0,,Of course not!
+Dialogue: 0,0:06:27.35,0:06:29.82,Default,Erin,0,0,0,,Then, I'd like these two.
+Dialogue: 0,0:06:30.19,0:06:33.58,italics,Pia (M),0,0,0,,Red, like the color of Lord Henry's hair!
+Dialogue: 0,0:06:34.80,0:06:37.08,italics,Pia (M),0,0,0,,While the pens were being engraved,
+Dialogue: 0,0:06:37.08,0:06:41.51,italics,Pia (M),0,0,0,,we decided to rest at a store that \Nsells goods from the White domain.
+Dialogue: 0,0:06:42.74,0:06:45.71,Default,Pia,0,0,0,,Wow, it's almost like \Na tropical paradise.
+Dialogue: 0,0:06:45.71,0:06:50.03,Default,Erin,0,0,0,,Remember when you gave me tips \Nabout our fruits last year, Pia?
+Dialogue: 0,0:06:50.03,0:06:53.73,Default,Erin,0,0,0,,I convinced my father to open \Na specialty shop to sell them.
+Dialogue: 0,0:06:54.05,0:06:55.22,Default,Pia,0,0,0,,This was your idea?
+Dialogue: 0,0:06:55.44,0:06:59.08,Default,Erin,0,0,0,,Yes. I wanted to prove that even \Nif my engagement fell apart,
+Dialogue: 0,0:06:59.08,0:07:02.11,Default,Erin,0,0,0,,I could still find a way \Nto live a useful life.
+Dialogue: 0,0:07:02.37,0:07:05.11,italics,Pia (M),0,0,0,,Despite being the daughter of a marquis,
+Dialogue: 0,0:07:05.11,0:07:09.12,italics,Pia (M),0,0,0,,Erin has been thinking of ways to live a \Nproductive life even without marrying.
+Dialogue: 0,0:07:09.12,0:07:10.92,Default,Pia,0,0,0,,Erin, I love it!
+Dialogue: 0,0:07:10.92,0:07:13.99,Default,Pia,0,0,0,,This is exactly the type of luxurious \Nbusiness that ladies would be drawn to!
+Dialogue: 0,0:07:14.34,0:07:16.74,Default,Erin,0,0,0,,I'm afraid I'm not the \Nbest judge of that.
+Dialogue: 0,0:07:17.09,0:07:18.25,Default,Pia,0,0,0,,You aren't?
+Dialogue: 0,0:07:19.17,0:07:20.75,Default,Pia,0,0,0,,A fruit sandwich?
+Dialogue: 0,0:07:20.75,0:07:24.37,Default,Pia,0,0,0,,With red, yellow, and green, \Nit looks like a box of jewels!
+Dialogue: 0,0:07:24.63,0:07:27.25,Default,Erin,0,0,0,,Please enjoy. You too, \NMike. Help yourself.
+Dialogue: 0,0:07:27.25,0:07:28.26,Default,Mike,0,0,0,,Thank you.
+Dialogue: 0,0:07:28.51,0:07:29.89,Default,Pia,0,0,0,,Thank you for the food.
+Dialogue: 0,0:07:32.76,0:07:35.52,italics,Pia (M),0,0,0,,Is this a strawberry?\NAnd this one is a melon!
+Dialogue: 0,0:07:35.52,0:07:37.23,italics,Pia (M),0,0,0,,I've never seen them \Nin this world before.
+Dialogue: 0,0:07:38.98,0:07:43.40,Default,Mike,0,0,0,,This yellow fruit is delicious, \Nbut how much does it cost?
+Dialogue: 0,0:07:43.63,0:07:46.52,Default,Erin,0,0,0,,That's a kirin fruit. \NIt's around 5,000 gold.
+Dialogue: 0,0:07:46.76,0:07:50.29,Default,Mike,0,0,0,,That would probably be out \Nof reach for commoners.
+Dialogue: 0,0:07:50.65,0:07:53.61,italics,Pia (M),0,0,0,,It tastes like a cross between \Na banana and a mango.
+Dialogue: 0,0:07:53.61,0:07:55.58,italics,Pia (M),0,0,0,,If it were cheaper, \NI bet it would be very popular.
+Dialogue: 0,0:07:55.58,0:07:56.23,Default,Pia,0,0,0,,Oh!
+Dialogue: 0,0:07:56.63,0:08:02.03,Default,Pia,0,0,0,,Erin, what if you made a juice from it \Nwith milk and sold it for about 500 gold?
+Dialogue: 0,0:08:02.27,0:08:06.88,Default,Pia,0,0,0,,You could smash the kirin, mix it into \Nthe milk, and then add crushed ice.
+Dialogue: 0,0:08:07.22,0:08:10.44,Default,Erin,0,0,0,,Give me a moment.\NI'll try that right away.
+Dialogue: 0,0:08:10.44,0:08:11.76,Default,Erin,0,0,0,,Get the chef for me.
+Dialogue: 0,0:08:14.21,0:08:16.55,Default,Erin,0,0,0,,Delicious! This is really delicious!
+Dialogue: 0,0:08:16.76,0:08:19.66,Default,Pia,0,0,0,,I'm so glad! So the flavor's a winner.
+Dialogue: 0,0:08:19.66,0:08:22.84,Default,Pia,0,0,0,,Next, we'd need benches or somewhere \Ncustomers could sit down to drink...
+Dialogue: 0,0:08:22.13,0:08:23.58,top,Girls,0,0,0,,I finally got some!
+Dialogue: 0,0:08:23.58,0:08:25.28,Default,Girls,0,0,0,,These are so popular right now.
+Dialogue: 0,0:08:25.28,0:08:27.11,Default,Girls,0,0,0,,They sure are! I can't wait to eat mine!
+Dialogue: 0,0:08:27.11,0:08:29.07,Default,Girls,0,0,0,,I know they'll be delicious!
+Dialogue: 0,0:08:26.78,0:08:29.07,top,Pia,0,0,0,,Where are those bags from?
+Dialogue: 0,0:08:29.35,0:08:32.86,Default,Erin,0,0,0,,I've seen a lot of people \Nwith them recently.
+Dialogue: 0,0:08:32.86,0:08:37.69,Default,Erin,0,0,0,,There seems to be a store nearby that \Nsells a lot of very unusual sweets.
+Dialogue: 0,0:08:42.41,0:08:45.96,italics,Pia (M),0,0,0,,There are some just like sweets from \Nmy past life. Is that coincidence?
+Dialogue: 0,0:08:46.32,0:08:52.45,italics,Pia (M),0,0,0,,Until now, I thought Caroline was making \Nthe rainbow-colored cookies herself,
+Dialogue: 0,0:08:53.00,0:08:55.07,italics,Pia (M),0,0,0,,but what if she only pretended \N they were homemade
+Dialogue: 0,0:08:55.07,0:08:57.46,italics,Pia (M),0,0,0,,and was actually buying \Nthem from that shop?
+Dialogue: 0,0:08:57.90,0:09:02.43,Default,Erin,0,0,0,,Oh, our pens are probably ready \Nby now. Let's go get them!
+Dialogue: 0,0:09:12.36,0:09:15.61,Default,Pia,0,0,0,,Happy birthday to you, Lord Rufus!
+Dialogue: 0,0:09:15.61,0:09:19.56,Default,Rufus,0,0,0,,Pia! I'm sorry, I had no \Nidea that you were here!
+Dialogue: 0,0:09:19.56,0:09:23.11,Default,Rufus,0,0,0,,My mother did say I had a big \Nsurprise present coming,
+Dialogue: 0,0:09:23.11,0:09:25.37,Default,Rufus,0,0,0,,but I didn't even realize \Ntoday was my birthday!
+Dialogue: 0,0:09:25.70,0:09:27.95,Default,Pia,0,0,0,,It seems you had to work late again.
+Dialogue: 0,0:09:31.21,0:09:36.47,Default,Rufus,0,0,0,,That's why I want to get married soon. \NWe'd able to see each other all the time.
+Dialogue: 0,0:09:36.76,0:09:40.23,Default,Pia,0,0,0,,Would you like to see \Nthe gift I brought you?
+Dialogue: 0,0:09:42.23,0:09:46.89,Default,Rufus,0,0,0,,For me? Pia, I bet there's another \None, isn't there? Can I see it?
+Dialogue: 0,0:09:46.89,0:09:47.86,Default,Pia,0,0,0,,Huh?
+Dialogue: 0,0:09:47.86,0:09:49.77,italics,Pia (M),0,0,0,,Mike must have spilled the beans.
+Dialogue: 0,0:09:50.17,0:09:52.42,Default,Pia,0,0,0,,This one is, well, my pen.
+Dialogue: 0,0:09:52.42,0:09:53.64,Default,Rufus,0,0,0,,Mm-hmm.
+Dialogue: 0,0:09:53.64,0:09:56.65,Default,Rufus,0,0,0,,Do you think I could have the \None with your name on it?
+Dialogue: 0,0:09:56.65,0:09:57.77,Default,Pia,0,0,0,,Huh?
+Dialogue: 0,0:09:57.77,0:10:00.45,Default,Rufus,0,0,0,,Let's trade, Pia. Thanks.
+Dialogue: 0,0:10:00.92,0:10:03.95,Default,Pia,0,0,0,,But I've already started using mine.
+Dialogue: 0,0:10:03.95,0:10:06.65,Default,Rufus,0,0,0,,I want to keep it with me \Nsince you can't always be.
+Dialogue: 0,0:10:07.53,0:10:11.66,Default,Pia,0,0,0,,You've been working late \Nevery night, Lord Rufus.
+Dialogue: 0,0:10:11.66,0:10:12.73,Default,Rufus,0,0,0,,Yes.
+Dialogue: 0,0:10:13.15,0:10:16.58,Default,Rufus,0,0,0,,I have to until Second Prince \NEdward learns the ropes.
+Dialogue: 0,0:10:16.58,0:10:20.81,italics,Pia (M),0,0,0,,That's right. The second prince has \Nnow replaced the former crown prince.
+Dialogue: 0,0:10:20.81,0:10:24.45,italics,Pia (M),0,0,0,,His Highness Philip is still \Nunable to get out of bed
+Dialogue: 0,0:10:24.86,0:10:27.66,italics,Pia (M),0,0,0,,even though it's already been \Nfour months since the incident.
+Dialogue: 0,0:10:28.06,0:10:32.96,italics,Pia (M),0,0,0,,As such, His Majesty decided that he \Nwas not fit to assume the throne.
+Dialogue: 0,0:10:33.40,0:10:35.69,italics,Pia (M),0,0,0,,But Philip wasn't the\N only one struggling.
+Dialogue: 0,0:10:35.69,0:10:38.18,italics,Pia (M),0,0,0,,So were Lord Jeremy and Professor Guy.
+Dialogue: 0,0:10:38.18,0:10:41.98,italics,Pia (M),0,0,0,,Lord Henry was the only one who \Nseemed to be gradually recovering.
+Dialogue: 0,0:10:42.47,0:10:45.25,italics,Pia (M),0,0,0,,All of this was thanks to those \Nrainbow-colored cookies.
+Dialogue: 0,0:10:45.25,0:10:47.97,Default,Pia,0,0,0,,Have there been any new\Ndevelopments in the investigation?
+Dialogue: 0,0:10:47.97,0:10:52.63,Default,Rufus,0,0,0,,His Majesty issued a royal decree \Nand searched Baron Ramsay's estate.
+Dialogue: 0,0:10:52.63,0:10:54.11,Default,Pia,0,0,0,,A royal decree?
+Dialogue: 0,0:10:54.72,0:10:57.59,Default,Rufus,0,0,0,,Because despite being Caroline's father,
+Dialogue: 0,0:10:57.59,0:11:01.00,Default,Rufus,0,0,0,,Baron Ramsay kept refusing to \Nprovide a voluntary statement.
+Dialogue: 0,0:11:01.21,0:11:04.89,Default,Rufus,0,0,0,,He kept treating it like a mere breakup \Nscandal at His Highness's birthday party,
+Dialogue: 0,0:11:05.11,0:11:09.43,Default,Rufus,0,0,0,,when the issue is the actual \Nattempted murder of the prince.
+Dialogue: 0,0:11:09.43,0:11:13.15,Default,Pia,0,0,0,,So did the search turn \Nup anything useful?
+Dialogue: 0,0:11:13.15,0:11:14.56,Default,Rufus,0,0,0,,Nothing at all.
+Dialogue: 0,0:11:14.56,0:11:18.03,Default,Rufus,0,0,0,,Except that Baron Ramsay \Nwas no longer with us.
+Dialogue: 0,0:11:19.44,0:11:20.48,Default,Rufus,0,0,0,,Are you okay?
+Dialogue: 0,0:11:21.10,0:11:24.75,Default,Pia,0,0,0,,Yes. Did he leave a will?
+Dialogue: 0,0:11:24.75,0:11:25.71,Default,Rufus,0,0,0,,Mm-hmm.
+Dialogue: 0,0:11:26.10,0:11:29.70,Default,Rufus,0,0,0,,He wrote, "I must apologize for letting \Nmy daughter's romantic interests
+Dialogue: 0,0:11:29.70,0:11:32.99,Default,Rufus,0,0,0,,get out of hand. I hope to atone for it \Nwith my life." That was pretty much it.
+Dialogue: 0,0:11:33.34,0:11:36.88,Default,Pia,0,0,0,,Was it truly the Baron's own handwriting?
+Dialogue: 0,0:11:37.23,0:11:38.38,Default,Rufus,0,0,0,,I cannot say.
+Dialogue: 0,0:11:38.65,0:11:42.01,italics,Pia (M),0,0,0,,Which must mean that Lord \NRufus has his doubts.
+Dialogue: 0,0:11:42.45,0:11:45.00,Default,Pia,0,0,0,,So it seems like we're still in the dark.
+Dialogue: 0,0:11:45.27,0:11:48.28,Default,Rufus,0,0,0,,But the nationwide investigation \Nwill continue,
+Dialogue: 0,0:11:48.28,0:11:51.06,Default,Rufus,0,0,0,,especially for the sake of \NHis Highness and the others
+Dialogue: 0,0:11:51.06,0:11:52.82,Default,Rufus,0,0,0,,who are still suffering from this illness.
+Dialogue: 0,0:11:53.14,0:11:56.00,Default,Rufus,0,0,0,,We've got to find some clue that \Nwill lead us to an antidote.
+Dialogue: 0,0:11:56.64,0:12:00.36,italics,Pia (M),0,0,0,,He's already so busy with his work \Nas the prime minister's assistant,
+Dialogue: 0,0:12:00.36,0:12:04.33,italics,Pia (M),0,0,0,,and now, he has to prepare His Highness \NEdward to ascend to the throne.
+Dialogue: 0,0:12:04.33,0:12:08.78,italics,Pia (M),0,0,0,,I'm worry if Lord Rufus keeps living\N like this, his health won't hold up.
+Dialogue: 0,0:12:09.07,0:12:12.30,italics,Pia (M),0,0,0,,How can I convince him \Nto reduce his workload?
+Dialogue: 0,0:12:12.30,0:12:16.05,italics,Pia (M),0,0,0,,I know that he's too much of a \Nperfectionist to cut corners.
+Dialogue: 0,0:12:16.33,0:12:17.38,Default,Rufus,0,0,0,,Pia?
+Dialogue: 0,0:12:17.38,0:12:21.79,Default,Pia,0,0,0,,Huh? Oh, I'm sorry.\NI was lost in thought.
+Dialogue: 0,0:12:21.79,0:12:23.42,Default,Rufus,0,0,0,,Hmm? What's that?
+Dialogue: 0,0:12:25.04,0:12:28.55,Default,Pia,0,0,0,,I received a letter from Lord Henry.
+Dialogue: 0,0:12:28.55,0:12:30.54,Default,Pia,0,0,0,,He says he'll be returning \Nto the royal capital soon,
+Dialogue: 0,0:12:30.54,0:12:33.55,Default,Pia,0,0,0,,and he wants me to set up an opportunity \Nfor him to apologize to Erin.
+Dialogue: 0,0:12:33.55,0:12:36.77,Default,Pia,0,0,0,,I wanted to ask you for \Nyour thoughts on that.
+Dialogue: 0,0:12:37.00,0:12:42.12,Default,Rufus,0,0,0,,I see. But if he doesn't plan this \Ncarefully, it could backfire on him.
+Dialogue: 0,0:12:42.12,0:12:45.03,Default,Rufus,0,0,0,,Henry is an idiot, after all.\NDo you have any good ideas, Pia?
+Dialogue: 0,0:12:45.32,0:12:49.28,Default,Pia,0,0,0,,Lord Henry really needs to totally \Nsweep Erin off her feet all over again
+Dialogue: 0,0:12:49.28,0:12:52.71,Default,Pia,0,0,0,,by proving his devotion and convincing \Nher that he'll never ever cheat on her,
+Dialogue: 0,0:12:52.71,0:12:55.16,Default,Pia,0,0,0,,otherwise it will be \Na wasted opportunity.
+Dialogue: 0,0:12:55.69,0:12:58.45,Default,Rufus,0,0,0,,I agree. Okay then...
+Dialogue: 0,0:12:59.71,0:13:00.89,Default,Referee,0,0,0,,Hold!
+Dialogue: 0,0:13:01.10,0:13:02.55,Default,Referee,0,0,0,,The winner is Albert!
+Dialogue: 0,0:13:04.03,0:13:08.01,Default,Erin,0,0,0,,Aww, what a waste! He should \Nhave been quicker on his feet.
+Dialogue: 0,0:13:08.01,0:13:12.48,Default,Erin,0,0,0,,Anyway, isn't this an odd time of year \Nfor a sword fighting tournament?
+Dialogue: 0,0:13:12.48,0:13:14.33,Default,Pia,0,0,0,,Y-You think so?
+Dialogue: 0,0:13:14.33,0:13:16.54,Default,Erin,0,0,0,,I do think I needed the \Nchange of scenery though.
+Dialogue: 0,0:13:16.87,0:13:19.31,Default,Erin,0,0,0,,Thank you for inviting me, Pia.
+Dialogue: 0,0:13:22.28,0:13:24.35,Default,Pia,0,0,0,,What are those two doing?
+Dialogue: 0,0:13:24.35,0:13:28.06,Default,Erin,0,0,0,,That comes from an old wartime tradition.
+Dialogue: 0,0:13:28.06,0:13:30.37,Default,Erin,0,0,0,,The fighter will go up to his \Nfiancée or wife and say,
+Dialogue: 0,0:13:30.37,0:13:35.58,Default,Erin,0,0,0,,"I dedicate my victory to you," and \Nshe'll give him a handkerchief in return.
+Dialogue: 0,0:13:35.58,0:13:37.05,Default,Pia,0,0,0,,Huh.
+Dialogue: 0,0:13:40.05,0:13:42.43,Default,Erin,0,0,0,,Did you bring a handkerchief, Pia?
+Dialogue: 0,0:13:42.43,0:13:44.20,Default,Erin,0,0,0,,Isn't Lord Rufus fighting today?
+Dialogue: 0,0:13:44.20,0:13:46.28,Default,Pia,0,0,0,,Y-Yes, I brought five.
+Dialogue: 0,0:13:46.28,0:13:47.30,Default,Erin,0,0,0,,Five?
+Dialogue: 0,0:13:47.30,0:13:50.73,Default,Pia,0,0,0,,I prepared several for Lord \NRufus's birthday a few days ago,
+Dialogue: 0,0:13:50.73,0:13:54.80,Default,Pia,0,0,0,,but he was so pleased with the pen that \NI thought the timing wasn't right.
+Dialogue: 0,0:13:55.20,0:13:59.18,Default,Pia,0,0,0,,I knew today was going to be hot,\Nso I brought five to use for myself instead.
+Dialogue: 0,0:13:59.46,0:14:01.66,Default,Pia,0,0,0,,Would you like one of them, Erin?
+Dialogue: 0,0:14:01.66,0:14:03.86,Default,Erin,0,0,0,,No... I think I'll pass.
+Dialogue: 0,0:14:05.60,0:14:07.36,Default,Pia,0,0,0,,Oh. Okay.
+Dialogue: 0,0:14:09.73,0:14:12.49,Default,Referee,0,0,0,,Next is the fifth match. \NFighters step forward.
+Dialogue: 0,0:14:14.49,0:14:17.99,Default,Erin,0,0,0,,What? Pia, did you know he'd be here?
+Dialogue: 0,0:14:17.99,0:14:19.94,Default,Pia,0,0,0,,Yeah. Sorry.
+Dialogue: 0,0:14:19.94,0:14:21.06,Default,Erin,0,0,0,,No wonder.
+Dialogue: 0,0:14:21.06,0:14:24.51,Default,Erin,0,0,0,,I thought something was up when you \Ninvited me to a sword fighting tournament.
+Dialogue: 0,0:14:26.00,0:14:28.52,Default,Pia,0,0,0,,Who will Lord Henry's opponent be?
+Dialogue: 0,0:14:28.97,0:14:30.02,Default,Pia,0,0,0,,Huh?!
+Dialogue: 0,0:14:30.56,0:14:32.51,Default,Pia,0,0,0,,It's that guy who hit on me!
+Dialogue: 0,0:14:32.78,0:14:34.17,Default,Erin,0,0,0,,Hit on you?
+Dialogue: 0,0:14:34.75,0:14:37.23,Default,Erin,0,0,0,,That's Marius Baird,\Nson and heir to the count!
+Dialogue: 0,0:14:37.23,0:14:39.11,Default,Erin,0,0,0,,You know him, Pia?
+Dialogue: 0,0:14:39.11,0:14:41.35,Default,Pia,0,0,0,,I met him at the theater last year.
+Dialogue: 0,0:14:41.60,0:14:47.86,Default,Erin,0,0,0,,Pia, the Baird family and the Stan family \Nare fiercely opposed political rivals!
+Dialogue: 0,0:14:47.86,0:14:48.86,Default,Pia,0,0,0,,Huh?
+Dialogue: 0,0:14:49.12,0:14:53.77,Default,Erin,0,0,0,,As your friend, I should warn you that \Nsince you're Lord Rufus's fiancée,
+Dialogue: 0,0:14:53.77,0:14:56.12,Default,Erin,0,0,0,,you need to stay far away from that man.
+Dialogue: 0,0:14:56.12,0:14:59.30,Default,Pia,0,0,0,,Really? Thanks for letting me know.
+Dialogue: 0,0:14:59.30,0:15:03.03,Default,Pia,0,0,0,,But how embarrassing. I hadn't \Neven considered such a crucial—
+Dialogue: 0,0:15:02.43,0:15:04.59,top,Marius,0,0,0,,Pia Rockwell, heiress to the count!
+Dialogue: 0,0:15:06.49,0:15:11.79,Default,Marius,0,0,0,,Lady Pia, may I humbly ask that you grant \Nme the blessing of your handkerchief?
+Dialogue: 0,0:15:11.81,0:15:13.06,Default,Pia,0,0,0,,Huh?
+Dialogue: 0,0:15:13.26,0:15:18.04,Default,Marius,0,0,0,,It would give me the strength of 100 men, \Nand I will dedicate my victory to you!
+Dialogue: 0,0:15:21.32,0:15:23.23,italics,Pia (M),0,0,0,,Wh-What do I do now?
+Dialogue: 0,0:15:23.23,0:15:27.05,italics,Pia (M),0,0,0,,Can I really just say, "I cannot give \Nyou one because I am already engaged"
+Dialogue: 0,0:15:27.05,0:15:28.65,italics,Pia (M),0,0,0,,with all of these people watching?
+Dialogue: 0,0:15:28.65,0:15:32.09,italics,Pia (M),0,0,0,,No way! I'm far too timid to \Npull off something like that.
+Dialogue: 0,0:15:32.09,0:15:33.82,italics,Pia (M),0,0,0,,But if I do give him one...
+Dialogue: 0,0:15:33.82,0:15:34.69,Default,Erin,0,0,0,,Pia,
+Dialogue: 0,0:15:35.33,0:15:37.83,Default,Erin,0,0,0,,just know that I'm always on your side.
+Dialogue: 0,0:15:39.65,0:15:42.08,italics,Pia (M),0,0,0,,I have five... Oh, that's it!
+Dialogue: 0,0:15:52.15,0:15:55.45,Default,Marius,0,0,0,,Ah, you are my goddess! I am grateful.
+Dialogue: 0,0:15:55.45,0:15:56.38,Default,Marius,0,0,0,,And now victory is—
+Dialogue: 0,0:15:56.38,0:15:58.23,Default,Pia,0,0,0,,Thank you for the show of enthusiasm!
+Dialogue: 0,0:15:58.23,0:15:59.22,Default,Marius,0,0,0,,Uh...
+Dialogue: 0,0:15:59.42,0:16:02.96,Default,Pia,0,0,0,,I am so flattered to find someone today \Nto accept one of my meager handkerchiefs
+Dialogue: 0,0:16:02.96,0:16:06.75,Default,Pia,0,0,0,,and help spread awareness of \Nthe fossils it represents!
+Dialogue: 0,0:16:06.75,0:16:12.02,Default,Pia,0,0,0,,In fact, I prepared five of them, all \Nembroidered with images of ammonites!
+Dialogue: 0,0:16:12.53,0:16:15.86,Default,Pia,0,0,0,,I have four left for anyone \Nelse who is interested!
+Dialogue: 0,0:16:16.32,0:16:19.37,Default,Pia,0,0,0,,Indeed, fossils are \Ntruly wonderful things!
+Dialogue: 0,0:16:22.55,0:16:24.27,Default,Pia,0,0,0,,Erin!
+Dialogue: 0,0:16:24.27,0:16:27.26,Default,Erin,0,0,0,,Nice job! I'm impressed you pulled \Nthat off with no warning.
+Dialogue: 0,0:16:31.16,0:16:32.17,Default,Henry,0,0,0,,Oh!
+Dialogue: 0,0:16:32.66,0:16:33.89,Default,Henry,0,0,0,,Pia!
+Dialogue: 0,0:16:37.38,0:16:41.63,Default,Henry,0,0,0,,Gimme one of those creepy... uh, one of \Nthose fossil handkerchiefs too, okay?
+Dialogue: 0,0:16:43.18,0:16:45.40,Default,Erin,0,0,0,,You heard him, Pia. Go on.
+Dialogue: 0,0:16:45.40,0:16:47.53,Default,Pia,0,0,0,,You don't mind, Erin?
+Dialogue: 0,0:16:48.89,0:16:50.14,Default,Erin,0,0,0,,It's all right.
+Dialogue: 0,0:16:52.40,0:16:55.90,italics,Pia (M),0,0,0,,This way, the handkerchiefs will no \Nlonger represent anything special.
+Dialogue: 0,0:16:57.34,0:16:59.65,Default,Pia,0,0,0,,Thank you for doing this for me.
+Dialogue: 0,0:16:59.65,0:17:02.46,Default,Henry,0,0,0,,All good, all good.\NDon't worry about it, Pia.
+Dialogue: 0,0:17:02.75,0:17:05.33,Default,Henry,0,0,0,,But man, the design sure packs a punch!
+Dialogue: 0,0:17:06.08,0:17:07.16,Default,Henry,0,0,0,,Thanks!
+Dialogue: 0,0:17:07.16,0:17:11.08,Default,Henry,0,0,0,,Ladies and gentlemen,\Nlet's all support fossil research!
+Dialogue: 0,0:17:11.08,0:17:15.42,Default,Erin,0,0,0,,If you act like a sore loser today,\NI swear I'll never talk to you again.
+Dialogue: 0,0:17:15.67,0:17:17.92,Default,Referee,0,0,0,,The fifth match. Begin!
+Dialogue: 0,0:17:29.99,0:17:32.22,Default,Referee,0,0,0,,Hold! The winner is Henry!
+Dialogue: 0,0:17:32.54,0:17:35.49,Default,Pia,0,0,0,,Wow! He's as good as I imagined!
+Dialogue: 0,0:17:37.24,0:17:39.75,Default,Referee,0,0,0,,Next is the sixth match. \NFighters step forward.
+Dialogue: 0,0:17:40.49,0:17:46.67,Default,Pia,0,0,0,,I wonder if Lord Rufus already heard \Nthat I gave handkerchiefs to other men.
+Dialogue: 0,0:17:48.39,0:17:50.13,Default,Erin,0,0,0,,No doubt about it.
+Dialogue: 0,0:17:50.13,0:17:52.12,Default,Rufus,0,0,0,,Pia, a word?
+Dialogue: 0,0:17:52.88,0:17:54.13,italics,Pia,0,0,0,,I'm done for!
+Dialogue: 0,0:17:54.13,0:17:56.61,Default,Erin,0,0,0,,I'll collect your remains, Pia.
+Dialogue: 0,0:17:59.27,0:18:01.48,italics,Pia (M),0,0,0,,I can tell how mad he is.
+Dialogue: 0,0:18:01.48,0:18:05.76,italics,Pia (M),0,0,0,,Should I give him an ammonite handkerchief,\Nor would that make him even angrier?
+Dialogue: 0,0:18:06.43,0:18:09.18,italics,Pia (M),0,0,0,,Think! Think carefully, Pia!
+Dialogue: 0,0:18:09.52,0:18:14.24,italics,Pia (M),0,0,0,,What can I give him that won't \Nbe a distraction while he's fighting?
+Dialogue: 0,0:18:30.15,0:18:35.91,Default,Pia,0,0,0,,U-Um, please imagine me fighting \Nwith you, or something like that.
+Dialogue: 0,0:18:43.34,0:18:44.40,Default,Rufus,0,0,0,,Thank you.
+Dialogue: 0,0:18:45.12,0:18:48.37,Default,Rufus,0,0,0,,When I know I have you \Nbehind me, I cannot fail.
+Dialogue: 0,0:18:54.02,0:18:57.70,Default,Pia,0,0,0,,Do you think maybe I went \Na little overboard?
+Dialogue: 0,0:18:57.70,0:18:59.94,Default,Mike,0,0,0,,You went way overboard.
+Dialogue: 0,0:18:59.94,0:19:01.23,Default,Erin,0,0,0,,Gosh, Pia.
+Dialogue: 0,0:19:01.23,0:19:05.36,Default,Erin,0,0,0,,When you hand a boy one of your \Npersonal accessories like that,
+Dialogue: 0,0:19:05.36,0:19:08.14,Default,Erin,0,0,0,,it's basically the same as proclaiming, \N"I love you very much."
+Dialogue: 0,0:19:08.14,0:19:10.13,Default,Pia,0,0,0,,H-How would I know?!
+Dialogue: 0,0:19:10.13,0:19:14.35,Default,Erin,0,0,0,,On top of that, if you take off something \Nyou're wearing and hand it to him,
+Dialogue: 0,0:19:14.35,0:19:17.37,Default,Erin,0,0,0,,it's like saying,\N"Please love me as I am... naked."
+Dialogue: 0,0:19:17.37,0:19:18.84,Default,Pia,0,0,0,,Oh no!
+Dialogue: 0,0:19:18.84,0:19:20.56,Default,Referee,0,0,0,,The winner is Rufus!
+Dialogue: 0,0:19:26.19,0:19:31.60,italics,Pia (N),0,0,0,,Lord Rufus and Lord Henry both \Ncontinued to win after that.
+Dialogue: 0,0:19:31.81,0:19:33.85,Default,Referee,0,0,0,,We shall now hold the championship match.
+Dialogue: 0,0:19:36.45,0:19:38.10,Default,Pia,0,0,0,,Lord Rufus...
+Dialogue: 0,0:19:38.10,0:19:39.47,Default,Henry,0,0,0,,Erin!
+Dialogue: 0,0:19:41.22,0:19:44.21,Default,Henry,0,0,0,,If I win, gimme your handkerchief!
+Dialogue: 0,0:19:44.21,0:19:45.34,Default,Henry,0,0,0,,Okay thanks!
+Dialogue: 0,0:19:48.28,0:19:50.28,Default,Erin,0,0,0,,That dummy.
+Dialogue: 0,0:19:50.54,0:19:52.70,Default,Referee,0,0,0,,Championship match! Begin!
+Dialogue: 0,0:19:56.56,0:20:00.76,Default,Rufus,0,0,0,,You think you're gonna beat me after \Nhiding away like a coward for a year?
+Dialogue: 0,0:20:00.76,0:20:04.38,Default,Henry,0,0,0,,I sure do. Because I've \Ngot nothing left to lose.
+Dialogue: 0,0:20:12.56,0:20:17.07,Default,Pia,0,0,0,,Lord Rufus! You're the best!\N You're so cool!
+Dialogue: 0,0:20:17.07,0:20:18.75,Default,Pia,0,0,0,,So handsome!
+Dialogue: 0,0:20:17.31,0:20:18.06,top,Rufus,0,0,0,,Pia!
+Dialogue: 0,0:20:18.93,0:20:21.95,Default,Referee,0,0,0,,Hold! The winner is Henry!
+Dialogue: 0,0:20:23.68,0:20:27.15,Default,Pia,0,0,0,,Huh? Do you think maybe \Nthat was my fault?
+Dialogue: 0,0:20:27.15,0:20:29.45,Default,Mike,0,0,0,,I don't have to think. It was \Nclearly your fault, Lady Pia.
+Dialogue: 0,0:20:29.99,0:20:31.87,Default,Pia,0,0,0,,Oh, gosh.
+Dialogue: 0,0:20:32.36,0:20:34.36,Default,Pia,0,0,0,,Wait. Where's Erin?
+Dialogue: 0,0:20:37.08,0:20:38.05,Default,Pia,0,0,0,,Erin...
+Dialogue: 0,0:20:39.44,0:20:43.12,Default,Erin,0,0,0,,I'm not impressed by that win at all.
+Dialogue: 0,0:20:43.12,0:20:45.21,Default,Henry,0,0,0,,Mm-hmm. Of course not.
+Dialogue: 0,0:20:45.21,0:20:48.71,Default,Erin,0,0,0,,But some people say that \Nluck is just another skill.
+Dialogue: 0,0:20:52.68,0:20:54.96,Default,Henry,0,0,0,,Erin, I am so sorry.
+Dialogue: 0,0:20:55.35,0:20:58.46,Default,Henry,0,0,0,,Let me be your fiancé once again.
+Dialogue: 0,0:20:59.22,0:21:02.72,Default,Erin,0,0,0,,D-Don't talk about that here, dummy!
+Dialogue: 0,0:21:02.72,0:21:04.70,Default,Henry,0,0,0,,I'm not letting go until I get an answer.
+Dialogue: 0,0:21:05.14,0:21:08.21,Default,Erin,0,0,0,,You know I hate guys that cheat.
+Dialogue: 0,0:21:08.21,0:21:11.37,Default,Henry,0,0,0,,I do. I'll never let another \Nwoman distract me again.
+Dialogue: 0,0:21:11.37,0:21:13.50,Default,Henry,0,0,0,,I say that with everyone \Nhere as my witness.
+Dialogue: 0,0:21:14.77,0:21:18.00,Default,Erin,0,0,0,,Then I accept you again... as my fiancé.
+Dialogue: 0,0:21:18.38,0:21:20.49,Default,Henry,0,0,0,,Erin, thank you!
+Dialogue: 0,0:21:23.81,0:21:26.51,Default,Erin,0,0,0,,Hey, stop it! I'm getting dizzy!
+Dialogue: 0,0:21:27.07,0:21:30.01,Default,Pia,0,0,0,,Erin, I'm so happy for you.
+Dialogue: 0,0:21:43.96,0:21:45.76,Default,Henry,0,0,0,,Mmm, this is good!
+Dialogue: 0,0:21:45.76,0:21:47.41,Default,Erin,0,0,0,,It really is delicious.
+Dialogue: 0,0:21:48.58,0:21:50.40,Default,Pia,0,0,0,,The meat is so tender!
+Dialogue: 0,0:21:51.26,0:21:52.72,Default,Rufus,0,0,0,,I'm curious, Pia.
+Dialogue: 0,0:21:52.72,0:21:55.41,Default,Rufus,0,0,0,,Did you call out to me because \Nyou wanted Henry to win?
+Dialogue: 0,0:21:55.65,0:21:58.78,Default,Henry,0,0,0,,Come on, Rufus. Don't be a sore loser.
+Dialogue: 0,0:21:58.78,0:22:02.54,Default,Rufus,0,0,0,,Who do you think funded the \Ncompetition in the first place?
+Dialogue: 0,0:22:02.54,0:22:06.11,Default,Erin,0,0,0,,A-ha! I figured you were \Nin on it, Lord Rufus.
+Dialogue: 0,0:22:06.11,0:22:09.98,Default,Henry,0,0,0,,The fights were the real \Ndeal, though. Right, Pia?
+Dialogue: 0,0:22:09.98,0:22:13.94,Default,Pia,0,0,0,,Uh, yes. And, um, Lord Rufus,
+Dialogue: 0,0:22:13.94,0:22:16.42,Default,Pia,0,0,0,,I should apologize about \Nthe handkerchiefs.
+Dialogue: 0,0:22:16.42,0:22:19.26,Default,Pia,0,0,0,,I, um, didn't realize \Nthat would jinx you.
+Dialogue: 0,0:22:19.26,0:22:23.12,Default,Pia,0,0,0,,Just in case, I brought an extra \None for you. Would you accept it?
+Dialogue: 0,0:22:23.12,0:22:24.88,Default,Rufus,0,0,0,,Uh, no thanks.
+Dialogue: 0,0:22:24.88,0:22:26.69,Default,Pia,0,0,0,,Aww, really?
+Dialogue: 0,0:22:30.67,0:22:34.33,Default,Rufus,0,0,0,,Pia... on second thought, maybe \NI will take that handkerchief.
+Dialogue: 0,0:22:34.68,0:22:38.70,Default,Pia,0,0,0,,You're finally starting to realize \Nhow fabulous my handkerchiefs are?
+Dialogue: 0,0:22:41.20,0:22:43.01,Default,Erin,0,0,0,,There she goes again.
+Dialogue: 0,0:22:43.01,0:22:44.45,Default,Henry,0,0,0,,You're so silly, Pia.
+Dialogue: 0,0:22:44.45,0:22:45.68,Default,Pia,0,0,0,,Hmm?
+Dialogue: 0,0:23:01.60,0:23:07.07,sign_generic,credits; sign,0,0,0,,{\fs13\an7\fade(400,1)\bord1.5\blur0.5\3c&H8BC86F&\b1\c&HFFFFFF&}Translator:\N{\fs15}Michael Arnold\N\N{\fs13}Timer:\N{\fs15}Edgar Cruz\N\N{\fs13}Editor:\N{\fs15}Salem Alabanza\N\N{\fs13}Quality Control:\N{\fs15}S. Bilyeu\N\N{\fs13}Final Quality Control:\N{\fs15}Michelle Tymon
+Dialogue: 0,0:23:37.18,0:23:40.01,sign_generic,text,0,0,0,,{\fade(500,1)\fs14\blur2\3c&HA7D38E&\bord1\c&HF8FFEE&\b1\pos(284,313)}Next Time
+Dialogue: 0,0:23:37.18,0:23:40.01,sign_generic,text,0,0,0,,{\fade(500,1)\fs14\blur2\3c&HA7D38E&\bord1\c&HF8FFEE&\b1\an1\pos(326,313)}A New Bet with the Cunning Fiancé
+
