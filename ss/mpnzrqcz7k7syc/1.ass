@@ -1,0 +1,435 @@
+[Script Info]
+ScriptType: v4.00+
+ScaledBorderAndShadow: no
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 816
+LayoutResX: 1920
+LayoutResY: 816
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Character thoughts,Helvetica Neue,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,1,2,10,10,90,1
+Style: Default,Helvetica Neue,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,10,10,90,1
+Style: End Letter,Helvetica Neue,48,&H00FFFFFF,&H000000FF,&H00151515,&H00000000,-1,0,0,0,100,100,0,0,1,1.14,0.38,8,25,25,15,1
+Style: Ending Song,Kaushan Script,50,&H00FFFFFF,&H000000FF,&H32FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,2,0,1,0,0,7,50,50,0,1
+Style: Episode No. and Title,唯你主义浪漫行书,80,&H00FFFFFF,&H000304FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Map,唯你主义浪漫行书,60,&H00FFFFFF,&H000304FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Nameplates,唯你主义浪漫行书,60,&H00FFFFFF,&H000304FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Narrator Speaking,Helvetica Neue,48,&H00FFFFFF,&H000000FF,&H0092C93E,&H0049560A,-1,-1,0,0,100,100,0,0,1,1,1,2,10,10,90,1
+Style: Opening Song,Vexed Angel,48,&H000000FF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4.99999,2,2,10,10,100,1
+Style: Place,唯你主义浪漫行书,100,&H00FFFFFF,&H000304FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Preview & Recap,Bloody Terror,48,&H000000FF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Tablet,唯你主义浪漫行书,100,&H00FFFFFF,&H000304FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Token,唯你主义浪漫行书,80,&H00FFFFFF,&H000304FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Translation Notes,Helvetica Neue,30,&H00FFFFFF,&H000000FF,&H00151515,&H00000000,0,-1,0,0,100,100,0,0,1,1.14,0.38,8,25,25,15,1
+Style: Watermark,Helvetica Neue,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.01,0:00:47.11,Watermark,,0,0,0,,Subtitles by @Shridhuu on Discord
+Dialogue: 0,0:00:17.39,0:00:21.27,Nameplates,,0,0,0,,{\fad(300,300)}Adapted from Ergen's novel, Beyond Time's Gaze
+Dialogue: 0,0:00:47.11,0:00:50.19,Opening Song,,0,0,0,,{\fad(300,300)}♪All living beings open their eyes♪
+Dialogue: 0,0:00:54.27,0:00:57.51,Opening Song,,0,0,0,,{\fad(300,300)}♪The skies of Revered Ancient have shifted and changed♪
+Dialogue: 0,0:01:01.31,0:01:04.75,Opening Song,,0,0,0,,{\fad(300,300)}♪Endless seas of blood spread without bound♪
+Dialogue: 0,0:01:07.67,0:01:14.55,Opening Song,,0,0,0,,{\fad(300,300)}♪Beyond the timescape, heaven and earth know no divide♪
+Dialogue: 0,0:01:15.27,0:01:22.39,Opening Song,,0,0,0,,{\fad(300,300)}♪Crumbling mountains cannot bury the skeletal remains♪
+Dialogue: 0,0:01:22.43,0:01:29.03,Opening Song,,0,0,0,,{\fad(300,300)}♪The mortal multitude reduced to dust by crimson rain♪
+Dialogue: 0,0:01:29.63,0:01:43.63,Opening Song,,0,0,0,,{\fad(300,300)}♪Nourishing human hearts as desolate as an ocean♪
+Dialogue: 0,0:01:43.95,0:01:51.07,Opening Song,,0,0,0,,{\fad(300,300)}♪Bearing flesh and blood upon withered mountains♪
+Dialogue: 0,0:01:51.07,0:01:58.27,Opening Song,,0,0,0,,{\fad(300,300)}♪Marching into battle against heavens-defying ruin♪
+Dialogue: 0,0:01:58.27,0:02:07.55,Opening Song,,0,0,0,,{\fad(300,300)}♪With mortal courage and resolute will, forge...♪
+Dialogue: 0,0:02:07.59,0:02:12.23,Opening Song,,0,0,0,,{\fad(300,300)}♪An earth-shattering, heaven-turning upheaval!♪
+Dialogue: 0,0:02:26.15,0:02:49.19,Preview & Recap,,0,0,0,,{\fad(500,1000)\pos(200,280)}R\NE\NC\NA\NP
+Dialogue: 0,0:02:26.59,0:02:27.35,Default,,0,0,0,,Xu Qing,
+Dialogue: 0,0:02:28.03,0:02:29.71,Default,,0,0,0,,a small pond like Seven Blood Eyes
+Dialogue: 0,0:02:30.39,0:02:31.83,Default,,0,0,0,,no longer suits someone like you.
+Dialogue: 0,0:02:32.83,0:02:34.55,Default,,0,0,0,,People of the Seventh Peak, come on out!
+Dialogue: 0,0:02:37.07,0:02:38.19,Default,,0,0,0,,No!
+Dialogue: 0,0:02:39.99,0:02:41.67,Default,,0,0,0,,The eldest, second, and third
+Dialogue: 0,0:02:41.67,0:02:42.79,Default,,0,0,0,,have all gotten a finger;
+Dialogue: 0,0:02:43.03,0:02:44.87,Default,,0,0,0,,the fourth can't be left out either.
+Dialogue: 0,0:02:46.15,0:02:46.79,Default,,0,0,0,,What is that?!
+Dialogue: 0,0:02:49.23,0:02:54.19,Episode No. and Title,,0,0,0,,{\fad(300,300)\pos(960,800)\fscx80\fscy80}Episode 49\N{\c&H050E94&\fs120}Six
+Dialogue: 0,0:02:49.23,0:02:54.19,Translation Notes,,0,0,0,,T/N: 六 (Liù: Six). In Chinese finger counting, extending only the thumb and pinky forms the gesture for "six"; in slang, "6" also means "slick" or "next-level."
+Dialogue: 0,0:02:56.23,0:03:01.19,Nameplates,,0,0,0,,{\an4\fad(500,500)\fs60\pos(215,255)}Seventh Peak\NViolent Crimes Division
+Dialogue: 0,0:03:03.99,0:03:05.35,Default,,0,0,0,,Tonight we hunt down the Night Dove remnants!
+Dialogue: 0,0:03:03.99,0:03:05.35,Translation Notes,,0,0,0,,T/N: 余党 (Yúdǎng: Remnants). Surviving members or scattered holdouts of a hunted or defeated faction.
+Dialogue: 0,0:03:06.07,0:03:07.59,Default,,0,0,0,,Anyone acting suspiciously inside the city,
+Dialogue: 0,0:03:07.99,0:03:09.15,Default,,0,0,0,,arrest every last one of them!
+Dialogue: 0,0:03:07.99,0:03:09.15,Translation Notes,,0,0,0,,T/N: 缉拿 (Jīná: Hunt Down and Arrest). Formal law-enforcement term meaning to track down and apprehend fugitives.
+Dialogue: 0,0:03:17.55,0:03:18.67,Default,,0,0,0,,Xiao Pi,
+Dialogue: 0,0:03:19.31,0:03:21.35,Default,,0,0,0,,could it be because of this bunch of filthy rats
+Dialogue: 0,0:03:21.67,0:03:23.83,Default,,0,0,0,,that Brother Xu Qing hasn't had time to see me?
+Dialogue: 0,0:03:21.51,0:03:24.91,Nameplates,,0,0,0,,{\an4\fad(500,500)\pos(238.25,326)}Xiao Pi\N{\fs56}Spirit Pet Form
+Dialogue: 0,0:03:21.51,0:03:24.91,Translation Notes,,0,0,0,,T/N: 小皮 (Xiǎo Pí: Xiao Pi) & 灵宠形态 (Spirit Pet Form). Yan Yan's giant octopus Dao Protector (see E38) shrunk into pet form; "pí" means mischievous or rascally (called "Stinker" in the novel).
+Dialogue: 0,0:03:24.03,0:03:24.91,Default,,0,0,0,,So annoying!
+Dialogue: 0,0:03:25.23,0:03:27.43,Default,,0,0,0,,I'm going to gouge out all their eyes
+Dialogue: 0,0:03:27.83,0:03:29.43,Default,,0,0,0,,and gift them to Brother Xu Qing!
+Dialogue: 0,0:03:30.19,0:03:30.55,Default,,0,0,0,,Yes!
+Dialogue: 0,0:03:30.75,0:03:31.71,Default,,0,0,0,,That's what I'll do!
+Dialogue: 0,0:03:34.15,0:03:34.83,Default,,0,0,0,,All alone, huh?
+Dialogue: 0,0:03:34.15,0:03:34.83,Translation Notes,,0,0,0,,T/N: 落单 (Luòdān: Isolated / Straggler). Idiomatic phrase describing someone separated from their group without backup.
+Dialogue: 0,0:03:34.87,0:03:35.75,Nameplates,,0,0,0,,{\an4\fad(500,0)\pos(238.25,326)}Seventh Peak\NViolent Crimes Division\N{\fs56}Earth Division Captain
+Dialogue: 0,0:03:34.87,0:03:35.75,Translation Notes,,0,0,0,,T/N: 地部 (Dì Bù: Earth Division). One of the four departmental tiers of the Violent Crimes Division, ranked in the classical order Heaven (天), Earth (地), Mystic (玄), and Yellow (黄).
+Dialogue: 0,0:03:36.35,0:03:37.23,Default,,0,0,0,,Die!
+Dialogue: 0,0:03:45.63,0:03:46.51,Default,,0,0,0,,Xiao Pi,
+Dialogue: 0,0:03:46.83,0:03:47.59,Default,,0,0,0,,finish him off!
+Dialogue: 0,0:03:55.43,0:03:57.87,Nameplates,,0,0,0,,{\an6\fad(500,500)\pos(1683.76,234)}Octopus Xiao Pi\N{\fs56}Yan Yan's\N Dao Protector
+Dialogue: 0,0:03:55.71,0:03:57.71,Default,,0,0,0,,Nice job, Xiao Pi!
+Dialogue: 0,0:04:02.07,0:04:03.03,Default,,0,0,0,,Thank you, Your Highness Yan Yan!
+Dialogue: 0,0:04:03.63,0:04:05.67,Default,,0,0,0,,I'm your Director's fiancée.
+Dialogue: 0,0:04:06.27,0:04:07.71,Default,,0,0,0,,Tell everyone in the division:
+Dialogue: 0,0:04:08.03,0:04:08.95,Default,,0,0,0,,from now on, all of you
+Dialogue: 0,0:04:09.15,0:04:10.79,Default,,0,0,0,,are to call me Sister-in-Law!
+Dialogue: 0,0:04:09.15,0:04:10.79,Translation Notes,,0,0,0,,T/N: 嫂子 (Sǎozi: Sister-in-Law). Term for an elder brother's wife; in martial sects and brotherhoods, subordinates also use it respectfully for their leader's wife or fiancée.
+Dialogue: 0,0:04:11.19,0:04:11.43,Default,,0,0,0,,Yes!
+Dialogue: 0,0:04:11.79,0:04:12.03,Default,,0,0,0,,Sis-
+Dialogue: 0,0:04:12.51,0:04:13.35,Default,,0,0,0,,Sister-in-Law!
+Dialogue: 0,0:04:17.35,0:04:18.27,Default,,0,0,0,,Thank you, Sister-in-Law!
+Dialogue: 0,0:04:25.03,0:04:26.27,Default,,0,0,0,,Thank you, Sister-in-Law! Thank you, Sister-in-Law!
+Dialogue: 0,0:04:32.47,0:04:33.27,Default,,0,0,0,,Thank you, Sister-in-Law!
+Dialogue: 0,0:04:33.43,0:04:34.23,Default,,0,0,0,,Thank you, Sister-in-Law!
+Dialogue: 0,0:04:34.51,0:04:35.59,Default,,0,0,0,,Thank you, Sister-in-Law!
+Dialogue: 0,0:04:35.87,0:04:37.03,Default,,0,0,0,,No big deal, no big deal.
+Dialogue: 0,0:04:37.07,0:04:38.19,Default,,0,0,0,,No need to be so polite.
+Dialogue: 0,0:04:38.59,0:04:39.75,Default,,0,0,0,,Take it, take it!
+Dialogue: 0,0:04:40.03,0:04:41.63,Default,,0,0,0,,It's just a little token of appreciation from Sister-in-Law.
+Dialogue: 0,0:04:41.83,0:04:43.35,Default,,0,0,0,,From now on, all you brothers in the Violent Crimes Division,
+Dialogue: 0,0:04:43.51,0:04:45.43,Default,,0,0,0,,Sister-in-Law has you all covered!
+Dialogue: 0,0:04:43.51,0:04:45.43,Translation Notes,,0,0,0,,T/N: 罩着 (Zhàozhe: Covering / Backing Up). Colloquial slang meaning a strong patron shields and backs up their subordinates.
+Dialogue: 0,0:04:47.99,0:04:48.83,Default,,0,0,0,,Today,
+Dialogue: 0,0:04:49.07,0:04:51.07,Default,,0,0,0,,with so many people calling me Sister-in-Law,
+Dialogue: 0,0:04:51.39,0:04:53.87,Default,,0,0,0,,Brother Xu Qing is definitely going to notice me!
+Dialogue: 0,0:04:54.43,0:04:55.63,Default,,0,0,0,,When that happens,
+Dialogue: 0,0:04:55.87,0:04:58.91,Default,,0,0,0,,I'll get to be treated cruelly by Brother Xu Qing again!
+Dialogue: 0,0:05:00.39,0:05:02.95,Default,,0,0,0,,Will Brother Xu Qing slap my left cheek first,
+Dialogue: 0,0:05:04.51,0:05:06.51,Default,,0,0,0,,or my right cheek?
+Dialogue: 0,0:05:07.39,0:05:10.07,Default,,0,0,0,,Just thinking about it makes me so excited I can hardly stand it!
+Dialogue: 0,0:05:14.55,0:05:15.31,Default,,0,0,0,,Who's there?!
+Dialogue: 0,0:05:17.63,0:05:18.99,Default,,0,0,0,,Too terrifying!
+Dialogue: 0,0:05:19.15,0:05:19.87,Default,,0,0,0,,The Seventh Peak...
+Dialogue: 0,0:05:20.19,0:05:21.39,Default,,0,0,0,,they're all monsters!
+Dialogue: 0,0:05:21.63,0:05:22.95,Default,,0,0,0,,My hand!
+Dialogue: 0,0:05:23.23,0:05:24.99,Default,,0,0,0,,Countless treasures of heaven and earth...
+Dialogue: 0,0:05:25.63,0:05:27.75,Default,,0,0,0,,half a lifetime's painstaking effort went into tempering this hand!
+Dialogue: 0,0:05:25.63,0:05:27.75,Translation Notes,,0,0,0,,T/N: 半生心血 (Bànshēng xīnxuè: Half a Lifetime's Painstaking Effort). "Xīnxuè" literally means "heart's blood," denoting immense toil and resources poured into an endeavor.
+Dialogue: 0,0:05:29.15,0:05:29.71,Default,,0,0,0,,I'm not staying here!
+Dialogue: 0,0:05:29.95,0:05:31.91,Default,,0,0,0,,I'm going back to the Alliance, back to the Dark Serenity Sect!
+Dialogue: 0,0:05:34.75,0:05:36.39,Default,,0,0,0,,And who might you be?
+Dialogue: 0,0:05:36.75,0:05:38.79,Default,,0,0,0,,You blind fool!
+Dialogue: 0,0:05:36.75,0:05:38.79,Translation Notes,,0,0,0,,T/N: 不长眼 (Bù zhǎngyǎn: Blind Fool). Colloquial scolding literally meaning "without eyes," used for someone who foolishly offends the wrong person.
+Dialogue: 0,0:05:38.99,0:05:40.07,Default,,0,0,0,,My wonderful mood
+Dialogue: 0,0:05:40.11,0:05:41.23,Default,,0,0,0,,was completely ruined by you!
+Dialogue: 0,0:05:40.11,0:05:41.23,Translation Notes,,0,0,0,,T/N: 搅黄 (Jiǎohuáng: Ruined / Wrecked). Colloquial Chinese expression meaning to spoil or wreck a good mood or plan.
+Dialogue: 0,0:05:42.15,0:05:44.39,Default,,0,0,0,,Tell me, should I peel off your face,
+Dialogue: 0,0:05:44.79,0:05:46.79,Default,,0,0,0,,or gouge out your eyes?
+Dialogue: 0,0:05:47.03,0:05:47.27,Default,,0,0,0,,East-
+Dialogue: 0,0:05:47.51,0:05:49.19,Default,,0,0,0,,That little demoness from Eastnether Isle!
+Dialogue: 0,0:05:47.51,0:05:49.19,Translation Notes,,0,0,0,,T/N: 小魔女 (Xiǎo Mónǚ: Little Demoness). Yan Yan's notorious nickname across regional waters as Eastnether Isle's cruel and capricious young princess (see E38).
+Dialogue: 0,0:05:49.39,0:05:50.75,Default,,0,0,0,,Why is she here too?!
+Dialogue: 0,0:05:51.03,0:05:54.27,Default,,0,0,0,,Skinning you and gouging your eyes would be letting you off way too easy.
+Dialogue: 0,0:05:51.03,0:05:54.27,Translation Notes,,0,0,0,,T/N: 便宜你 (Piányi nǐ: Letting You Off Easy). Colloquial usage where "piányi" (normally "cheap") means handing down a punishment far too lenient.
+Dialogue: 0,0:05:55.07,0:05:58.19,Default,,0,0,0,,There's a place far better suited for you.
+Dialogue: 0,0:06:00.59,0:06:02.39,Nameplates,,0,0,0,,{\an4\fad(500,500)\fs60\pos(210,250)}Seventh Peak \NViolent Crimes\NDivision Cell Block
+Dialogue: 0,0:06:03.87,0:06:04.75,Character thoughts,,0,0,0,,After devouring these poisonous herbs,
+Dialogue: 0,0:06:05.47,0:06:06.87,Character thoughts,,0,0,0,,the poison grubs haven't improved much.
+Dialogue: 0,0:06:09.11,0:06:10.03,Default,,0,0,0,,Hey, Little Ah Qing!
+Dialogue: 0,0:06:10.35,0:06:11.27,Default,,0,0,0,,Did you get the gift?
+Dialogue: 0,0:06:11.99,0:06:12.59,Default,,0,0,0,,What gift?
+Dialogue: 0,0:06:13.63,0:06:14.23,Default,,0,0,0,,Good stuff, of course.
+Dialogue: 0,0:06:15.23,0:06:16.23,Default,,0,0,0,,Someone will deliver it to you.
+Dialogue: 0,0:06:16.83,0:06:17.95,Default,,0,0,0,,Remember to pay me, alright?
+Dialogue: 0,0:06:22.55,0:06:23.91,Default,,0,0,0,,Why do you get so touchy the second money comes up?
+Dialogue: 0,0:06:23.91,0:06:24.27,Default,,0,0,0,,Reporting, Director!
+Dialogue: 0,0:06:24.27,0:06:24.79,Default,,0,0,0,,I told you,
+Dialogue: 0,0:06:24.99,0:06:26.19,Default,,0,0,0,,do not disturb me during experiments.
+Dialogue: 0,0:06:26.75,0:06:27.51,Default,,0,0,0,,Forgive me, Director!
+Dialogue: 0,0:06:28.11,0:06:28.95,Default,,0,0,0,,Sister-in-Law came to bring you food;
+Dialogue: 0,0:06:29.07,0:06:29.95,Default,,0,0,0,,I didn't dare stop her.
+Dialogue: 0,0:06:30.07,0:06:30.67,Default,,0,0,0,,Sister-in-Law?
+Dialogue: 0,0:06:32.11,0:06:33.91,Default,,0,0,0,,Brother Xu Qing!
+Dialogue: 0,0:06:34.19,0:06:35.75,Default,,0,0,0,,I've come to see you!
+Dialogue: 0,0:06:36.23,0:06:36.59,Default,,0,0,0,,I-
+Dialogue: 0,0:06:36.83,0:06:37.63,Default,,0,0,0,,I'll take my leave now!
+Dialogue: 0,0:06:39.31,0:06:40.35,Default,,0,0,0,,Brother Xu Qing,
+Dialogue: 0,0:06:40.75,0:06:43.15,Default,,0,0,0,,I dug out countless Night Dove eyeballs
+Dialogue: 0,0:06:43.39,0:06:45.59,Default,,0,0,0,,to cook up this peerless delicacy!
+Dialogue: 0,0:06:43.39,0:06:45.59,Translation Notes,,0,0,0,,T/N: 绝世珍馐 (Juéshì zhēnxiū: Peerless Delicacy). Literary culinary phrase denoting an extraordinarily rare, exquisite gourmet dish.
+Dialogue: 0,0:06:46.11,0:06:47.43,Default,,0,0,0,,Just to make this dish,
+Dialogue: 0,0:06:47.75,0:06:49.91,Default,,0,0,0,,I even hurt my hand!
+Dialogue: 0,0:06:50.87,0:06:51.27,Default,,0,0,0,,I'm not hungry.
+Dialogue: 0,0:06:51.91,0:06:52.47,Default,,0,0,0,,Eat it yourself.
+Dialogue: 0,0:06:53.35,0:06:54.47,Character thoughts,,0,0,0,,He's changed.
+Dialogue: 0,0:06:54.71,0:06:55.87,Character thoughts,,0,0,0,,He isn't being mean to me anymore.
+Dialogue: 0,0:06:57.99,0:06:59.11,Default,,0,0,0,,Brother Xu Qing,
+Dialogue: 0,0:06:59.83,0:07:02.11,Default,,0,0,0,,I prepared another gift for you too.
+Dialogue: 0,0:07:02.43,0:07:03.67,Default,,0,0,0,,You're definitely going to love it!
+Dialogue: 0,0:07:08.03,0:07:08.31,Default,,0,0,0,,Wha-
+Dialogue: 0,0:07:09.03,0:07:10.19,Default,,0,0,0,,Where on earth did she bring me?!
+Dialogue: 0,0:07:12.55,0:07:12.91,Default,,0,0,0,,Is...
+Dialogue: 0,0:07:14.27,0:07:15.79,Default,,0,0,0,,Is this even still Seven Blood Eyes?!
+Dialogue: 0,0:07:17.91,0:07:18.59,Default,,0,0,0,,All these people...
+Dialogue: 0,0:07:19.63,0:07:20.59,Default,,0,0,0,,Xu Qing killed every single one of them?!
+Dialogue: 0,0:07:22.27,0:07:22.99,Default,,0,0,0,,Huang Yikun,
+Dialogue: 0,0:07:25.47,0:07:27.55,Default,,0,0,0,,you went to challenge the Seventh Peak?
+Dialogue: 0,0:07:28.59,0:07:29.83,Default,,0,0,0,,D-Don't come any closer!
+Dialogue: 0,0:07:30.27,0:07:30.99,Default,,0,0,0,,Brother Xu Qing,
+Dialogue: 0,0:07:31.91,0:07:34.07,Default,,0,0,0,,someone threw this guy into your harbor,
+Dialogue: 0,0:07:34.23,0:07:35.35,Default,,0,0,0,,and he even tried to ambush me!
+Dialogue: 0,0:07:36.47,0:07:38.15,Default,,0,0,0,,Seeing how strong and sturdy he is,
+Dialogue: 0,0:07:36.47,0:07:38.15,Translation Notes,,0,0,0,,T/N: 身强体壮 (Shēnqiáng tǐzhuàng: Strong and Sturdy). Four-character idiom describing a vigorous, muscular, resilient physique.
+Dialogue: 0,0:07:38.87,0:07:41.55,Default,,0,0,0,,he's perfect for Brother Xu Qing to experiment on!
+Dialogue: 0,0:07:44.87,0:07:46.63,Default,,0,0,0,,Brother Xu Qing,
+Dialogue: 0,0:07:46.95,0:07:48.67,Default,,0,0,0,,should we break every bone in his body
+Dialogue: 0,0:07:48.67,0:07:49.71,Default,,0,0,0,,and then poison him,
+Dialogue: 0,0:07:50.07,0:07:51.87,Default,,0,0,0,,or slice his belly open,
+Dialogue: 0,0:07:50.07,0:07:51.87,Translation Notes,,0,0,0,,T/N: 开膛破肚 (Kāitáng pòdù: Disembowel). Visceral idiom meaning to slice open someone's chest and abdomen.
+Dialogue: 0,0:07:51.95,0:07:53.27,Default,,0,0,0,,rip out his dharma apertures alive,
+Dialogue: 0,0:07:53.47,0:07:55.19,Default,,0,0,0,,and let him die in agony?
+Dialogue: 0,0:07:58.27,0:07:58.75,Default,,0,0,0,,Lunatic!
+Dialogue: 0,0:07:59.19,0:07:59.75,Default,,0,0,0,,Freak!
+Dialogue: 0,0:08:01.87,0:08:02.95,Default,,0,0,0,,Or...
+Dialogue: 0,0:08:03.43,0:08:05.67,Default,,0,0,0,,or slice him into 5,200 pieces
+Dialogue: 0,0:08:03.43,0:08:05.67,Translation Notes,,0,0,0,,T/N: 五千两百片 (5,200 Pieces). Wordplay on "520" (wǔ èr líng), a popular Chinese homophone for "I love you" (我爱你, wǒ ài nǐ).
+Dialogue: 0,0:08:05.83,0:08:07.43,Default,,0,0,0,,and study them slowly?
+Dialogue: 0,0:08:07.79,0:08:09.63,Default,,0,0,0,,Oh, it's so hard to choose!
+Dialogue: 0,0:08:11.35,0:08:12.55,Default,,0,0,0,,Brother Xu Qing,
+Dialogue: 0,0:08:12.79,0:08:14.03,Default,,0,0,0,,what do you think?
+Dialogue: 0,0:08:14.03,0:08:15.63,Default,,0,0,0,,For a freak like Yan Yan to fall for him,
+Dialogue: 0,0:08:15.99,0:08:17.47,Default,,0,0,0,,this Xu Qing must be even more horrifying!
+Dialogue: 0,0:08:17.79,0:08:18.47,Default,,0,0,0,,Today...
+Dialogue: 0,0:08:18.67,0:08:19.95,Default,,0,0,0,,I'm afraid I'm never walking out of here!
+Dialogue: 0,0:08:19.95,0:08:21.31,Default,,0,0,0,,Brother Xu Qing,
+Dialogue: 0,0:08:21.43,0:08:22.79,Default,,0,0,0,,which one
+Dialogue: 0,0:08:22.95,0:08:24.43,Default,,0,0,0,,do you like better?
+Dialogue: 0,0:08:32.03,0:08:32.71,Default,,0,0,0,,The reason I haven't killed you
+Dialogue: 0,0:08:33.51,0:08:34.67,Default,,0,0,0,,has nothing to do with your grandmother.
+Dialogue: 0,0:08:35.51,0:08:37.31,Default,,0,0,0,,It's only because you haven't crossed my bottom line yet.
+Dialogue: 0,0:08:38.83,0:08:39.83,Default,,0,0,0,,Keep this up,
+Dialogue: 0,0:08:40.27,0:08:42.07,Default,,0,0,0,,and you'll cross it very soon.
+Dialogue: 0,0:08:50.91,0:08:53.19,Default,,0,0,0,,Yes! That's the way!
+Dialogue: 0,0:08:53.95,0:08:56.75,Default,,0,0,0,,The way you changed earlier, I kind of didn't like it.
+Dialogue: 0,0:08:57.07,0:08:57.99,Default,,0,0,0,,And when I don't like you,
+Dialogue: 0,0:08:58.19,0:08:59.79,Default,,0,0,0,,I want to kill you.
+Dialogue: 0,0:09:01.35,0:09:01.95,Default,,0,0,0,,This woman...
+Dialogue: 0,0:09:02.43,0:09:03.43,Default,,0,0,0,,she's finding every creative way to court death
+Dialogue: 0,0:09:02.43,0:09:03.43,Translation Notes,,0,0,0,,T/N: 变着法儿作死 (Biànzhe fǎr zuōsǐ: Creatively Courting Death). Colloquial slang combining "finding every conceivable way" with "zuōsǐ" (recklessly inviting one's own doom).
+Dialogue: 0,0:09:03.87,0:09:05.51,Default,,0,0,0,,just to beg Xu Qing for a beating!
+Dialogue: 0,0:09:05.71,0:09:06.75,Default,,0,0,0,,Brother Xu Qing,
+Dialogue: 0,0:09:07.03,0:09:07.95,Default,,0,0,0,,whatever you want,
+Dialogue: 0,0:09:08.15,0:09:09.71,Default,,0,0,0,,I'll give you anything.
+Dialogue: 0,0:09:16.59,0:09:17.03,Default,,0,0,0,,Y-
+Dialogue: 0,0:09:17.39,0:09:18.23,Default,,0,0,0,,What are you going to do?!
+Dialogue: 0,0:09:22.95,0:09:23.47,Default,,0,0,0,,Don't...
+Dialogue: 0,0:09:23.55,0:09:24.35,Default,,0,0,0,,Don't come any closer!
+Dialogue: 0,0:09:26.03,0:09:27.59,Default,,0,0,0,,Take a deep breath.
+Dialogue: 0,0:09:28.03,0:09:29.71,Default,,0,0,0,,It'll be over fast.
+Dialogue: 0,0:09:30.51,0:09:31.15,Default,,0,0,0,,No!
+Dialogue: 0,0:09:38.75,0:09:39.91,Default,,0,0,0,,You've pushed me way too far!
+Dialogue: 0,0:09:38.75,0:09:39.91,Translation Notes,,0,0,0,,T/N: 欺人太甚 (Qīrén tàishèn: Pushing Someone Too Far). Classical idiom meaning to bully or humiliate someone past all tolerable limits.
+Dialogue: 0,0:09:40.83,0:09:42.03,Default,,0,0,0,,I'll fight you to the death!
+Dialogue: 0,0:09:43.95,0:09:44.63,Default,,0,0,0,,At worst,
+Dialogue: 0,0:09:45.15,0:09:46.35,Default,,0,0,0,,we'll both go down together!
+Dialogue: 0,0:09:45.15,0:09:46.35,Translation Notes,,0,0,0,,T/N: 鱼死网破 (Yúsǐ wǎngpò: The Fish Dies or the Net Breaks). Classical idiom for a desperate fight to the bitter end risking mutual destruction.
+Dialogue: 0,0:09:53.91,0:09:55.63,Default,,0,0,0,,Dark Serenity Fingers!
+Dialogue: 0,0:09:59.63,0:10:01.75,Default,,0,0,0,,Are you provoking me?
+Dialogue: 0,0:10:01.83,0:10:02.59,Default,,0,0,0,,When did she...?!
+Dialogue: 0,0:10:04.15,0:10:06.55,Default,,0,0,0,,I don't like your hand gesture.
+Dialogue: 0,0:10:04.15,0:10:06.55,Translation Notes,,0,0,0,,T/N: 手势 (Hand Gesture). In Chinese culture, sticking up one's pinky finger at someone is a classic gesture of contempt and belittling (the opposite of a thumbs-up), calling them weak or pathetic.
+Dialogue: 0,0:10:07.67,0:10:08.95,Default,,0,0,0,,Now,
+Dialogue: 0,0:10:09.39,0:10:10.87,Default,,0,0,0,,it looks much easier on the eyes.
+Dialogue: 0,0:10:09.39,0:10:10.87,Translation Notes,,0,0,0,,T/N: 顺眼 (Shùnyǎn: Easy on the Eyes). Colloquial expression meaning something now looks agreeable and no longer irritates the viewer.
+Dialogue: 0,0:10:21.99,0:10:23.43,Default,,0,0,0,,Brother Xu Qing,
+Dialogue: 0,0:10:23.55,0:10:24.35,Default,,0,0,0,,here you go.
+Dialogue: 0,0:10:30.51,0:10:32.15,Character thoughts,,0,0,0,,As a Chosen of the Seven Sect Alliance,
+Dialogue: 0,0:10:32.51,0:10:33.27,Character thoughts,,0,0,0,,besides the Dark Serenity Fingers,
+Dialogue: 0,0:10:34.07,0:10:35.15,Character thoughts,,0,0,0,,Huang Yikun must have other treasures.
+Dialogue: 0,0:10:36.71,0:10:37.55,Default,,0,0,0,,Spare me!
+Dialogue: 0,0:10:38.39,0:10:39.43,Default,,0,0,0,,I really
+Dialogue: 0,0:10:40.07,0:10:42.59,Nameplates,,0,0,0,,{\an4\fad(500,500)\fs60\pos(210,250)}Huang Yikun's\NStorage Ring
+Dialogue: 0,0:10:40.07,0:10:42.59,Translation Notes,,0,0,0,,T/N: 储物戒指 (Chǔwù Jièzhi: Storage Ring). A higher-grade spatial storage artifact worn on the finger, prized by elite cultivators over ordinary storage bags.
+Dialogue: 0,0:10:39.95,0:10:41.39,Default,,0,0,0,,have nothing left!
+Dialogue: 0,0:10:44.03,0:10:44.59,Default,,0,0,0,,Gone...
+Dialogue: 0,0:10:45.31,0:10:46.15,Default,,0,0,0,,Everything is gone...
+Dialogue: 0,0:10:48.11,0:10:48.55,Default,,0,0,0,,Guards!
+Dialogue: 0,0:10:49.31,0:10:50.55,Default,,0,0,0,,Put twenty dharma shackles on him
+Dialogue: 0,0:10:50.83,0:10:52.11,Default,,0,0,0,,and lock him up with Sima Ling.
+Dialogue: 0,0:10:52.79,0:10:53.67,Default,,0,0,0,,Finally...
+Dialogue: 0,0:10:54.67,0:10:55.51,Default,,0,0,0,,I'm free from this hell...
+Dialogue: 0,0:10:56.83,0:10:57.67,Default,,0,0,0,,Brother Xu Qing,
+Dialogue: 0,0:10:57.87,0:10:58.15,Default,,0,0,0,,tomorrow I-
+Dialogue: 0,0:10:58.15,0:10:58.51,Default,,0,0,0,,Scram.
+Dialogue: 0,0:11:01.63,0:11:03.03,Default,,0,0,0,,Brother Xu Qing,
+Dialogue: 0,0:11:03.43,0:11:04.27,Default,,0,0,0,,I think I...
+Dialogue: 0,0:11:05.39,0:11:07.39,Default,,0,0,0,,like you even more now!
+Dialogue: 0,0:11:08.95,0:11:10.95,Default,,0,0,0,,What a cold, ruthless man!
+Dialogue: 0,0:11:11.43,0:11:14.55,Default,,0,0,0,,I am definitely going to marry him!
+Dialogue: 0,0:11:16.15,0:11:16.43,Default,,0,0,0,,Master!
+Dialogue: 0,0:11:16.75,0:11:17.95,Default,,0,0,0,,For this Huang Yikun to temper his fingers
+Dialogue: 0,0:11:17.95,0:11:19.11,Default,,0,0,0,,to such a level,
+Dialogue: 0,0:11:19.15,0:11:20.91,Default,,0,0,0,,he must also be a nouveau riche playboy!
+Dialogue: 0,0:11:20.91,0:11:21.39,Default,,0,0,0,,Ah, no, no, no!
+Dialogue: 0,0:11:21.47,0:11:21.71,Default,,0,0,0,,A...
+Dialogue: 0,0:11:21.79,0:11:22.15,Default,,0,0,0,,god-tier...
+Dialogue: 0,0:11:22.35,0:11:22.87,Default,,0,0,0,,tycoon!
+Dialogue: 0,0:11:22.35,0:11:22.87,Translation Notes,,0,0,0,,T/N: 神壕 (Shénháo: God-Tier Tycoon). Internet slang a tier above "tǔháo" (nouveau riche playboy), denoting someone of unfathomable, godlike wealth.
+Dialogue: 0,0:11:25.23,0:11:26.03,Default,,0,0,0,,Rich-
+Dialogue: 0,0:11:26.11,0:11:26.39,Default,,0,0,0,,N-
+Dialogue: 0,0:11:26.91,0:11:27.35,Default,,0,0,0,,Nothing?!
+Dialogue: 0,0:11:27.83,0:11:29.43,Default,,0,0,0,,Could this Huang Yikun be a counterfeit Chosen?!
+Dialogue: 0,0:11:29.71,0:11:30.91,Default,,0,0,0,,This tiny stash is all he has?!
+Dialogue: 0,0:11:31.19,0:11:32.59,Default,,0,0,0,,Back in the day, this old man's Golden Vajra Sect treasury
+Dialogue: 0,0:11:32.59,0:11:33.75,Default,,0,0,0,,had a hundred times more than him!
+Dialogue: 0,0:11:34.79,0:11:36.31,Default,,0,0,0,,Don't tell me he poured his entire life savings
+Dialogue: 0,0:11:37.23,0:11:39.11,Default,,0,0,0,,into those five fingers of his?
+Dialogue: 0,0:11:40.15,0:11:41.47,Default,,0,0,0,,He really brought this misery on himself,
+Dialogue: 0,0:11:40.15,0:11:41.47,Translation Notes,,0,0,0,,T/N: 自讨苦吃 (Zìtǎo kǔchī: Bringing Misery on Oneself). Idiom literally meaning "to go looking for bitter food to eat," i.e., asking for trouble.
+Dialogue: 0,0:11:41.83,0:11:43.71,Default,,0,0,0,,daring to flaunt his treasures right in front of the Captain.
+Dialogue: 0,0:11:44.63,0:11:45.03,Default,,0,0,0,,Ooh!
+Dialogue: 0,0:11:45.43,0:11:46.39,Default,,0,0,0,,Aperture-Opening Pills!
+Dialogue: 0,0:11:45.43,0:11:46.39,Translation Notes,,0,0,0,,T/N: 开窍丹 (Kāiqiào Dān: Aperture-Opening Pill). Same class of rare mainland advancement pill as Sima Ling's 冲窍丹 (see E48), used to burst open stubborn dharma apertures.
+Dialogue: 0,0:11:46.71,0:11:48.03,Default,,0,0,0,,At least there's something useful in here.
+Dialogue: 0,0:11:48.19,0:11:48.91,Default,,0,0,0,,Otherwise, this time
+Dialogue: 0,0:11:48.91,0:11:50.03,Default,,0,0,0,,would've been a huge loss.
+Dialogue: 0,0:11:50.55,0:11:51.67,Default,,0,0,0,,Today, I'll use these pills
+Dialogue: 0,0:11:52.43,0:11:53.87,Default,,0,0,0,,to help me push for my third Life Flame!
+Dialogue: 0,0:11:57.83,0:11:58.63,Default,,0,0,0,,Third Life Flame...
+Dialogue: 0,0:12:00.07,0:12:00.79,Default,,0,0,0,,Ignite!
+Dialogue: 0,0:12:05.27,0:12:05.59,Default,,0,0,0,,Wh-
+Dialogue: 0,0:12:08.47,0:12:09.99,Default,,0,0,0,,Fiendish Xu hasn't even attempted Golden Core yet,
+Dialogue: 0,0:12:09.35,0:12:12.71,Nameplates,,0,0,0,,{\an4\fad(500,500)\fs60\pos(210,250)}Illusory\N Heavenly \NPalace
+Dialogue: 0,0:12:09.35,0:12:12.71,Translation Notes,,0,0,0,,T/N: 虚幻天宫之影 (Illusory Heavenly Palace). In cultivation lore, "Life Flames ignite to illuminate Heavenly Palaces" describes ascending from Foundation Establishment toward Golden Core, where Heavenly Palaces (天宫) are forged inside the dantian.
+Dialogue: 0,0:12:09.99,0:12:12.43,Default,,0,0,0,,and he's already manifested the phantom of a Heavenly Palace?!
+Dialogue: 0,0:12:13.67,0:12:16.31,Default,,0,0,0,,Fiendish Xu must be a True Dragon straight out of storybooks!
+Dialogue: 0,0:12:13.67,0:12:16.31,Translation Notes,,0,0,0,,T/N: 话本中的真龙 (True Dragon from Storybooks). "Huàběn" are traditional vernacular tales; a "True Dragon" (zhēnlóng) signifies a fated protagonist destined for supreme greatness.
+Dialogue: 0,0:12:16.75,0:12:17.79,Default,,0,0,0,,That Master Shengyun...
+Dialogue: 0,0:12:18.39,0:12:19.27,Default,,0,0,0,,probably is one too.
+Dialogue: 0,0:12:20.71,0:12:22.39,Default,,0,0,0,,Now we'll just see which of these two storybook True Dragons
+Dialogue: 0,0:12:22.55,0:12:24.23,Default,,0,0,0,,is stronger!
+Dialogue: 0,0:12:25.31,0:12:27.35,Default,,0,0,0,,Ever since Fiendish Xu took me in,
+Dialogue: 0,0:12:25.31,0:12:27.35,Translation Notes,,0,0,0,,T/N: 许魔头 (Xǔ Mótóu: Fiendish Xu). Youlingzi's private nickname for Xu Qing; "mótóu" means a ruthless demon fiend or devil overlord.
+Dialogue: 0,0:12:27.35,0:12:29.15,Default,,0,0,0,,he's been charging straight ahead in triumph!
+Dialogue: 0,0:12:27.35,0:12:29.15,Translation Notes,,0,0,0,,T/N: 高歌猛进 (Gāogē měngjìn: Charging Ahead in Triumph). Idiom literally meaning to advance boldly while singing loudly, describing unstoppable rapid progress.
+Dialogue: 0,0:12:29.35,0:12:29.91,Default,,0,0,0,,Wait...
+Dialogue: 0,0:12:30.03,0:12:31.71,Default,,0,0,0,,could I actually possess dragon-prospering aptitude?!
+Dialogue: 0,0:12:30.03,0:12:31.71,Translation Notes,,0,0,0,,T/N: 旺龙之资 (Wànglóng zhī zī: Dragon-Prospering Aptitude). Playful riff on fortune-telling terms like "wàngfū" (bringing luck to one's spouse), meaning an aura that helps one's "True Dragon" master rise.
+Dialogue: 0,0:12:31.99,0:12:33.55,Default,,0,0,0,,Whoever becomes my master
+Dialogue: 0,0:12:33.71,0:12:35.75,Default,,0,0,0,,rises higher and higher?!
+Dialogue: 0,0:12:36.27,0:12:37.75,Default,,0,0,0,,Those Chosen of the Seven Sect Alliance
+Dialogue: 0,0:12:37.83,0:12:39.27,Default,,0,0,0,,are all stopping at 120 dharma apertures
+Dialogue: 0,0:12:39.51,0:12:40.79,Default,,0,0,0,,without rushing into Golden Core.
+Dialogue: 0,0:12:41.35,0:12:42.43,Default,,0,0,0,,Perhaps beyond that,
+Dialogue: 0,0:12:42.79,0:12:44.15,Default,,0,0,0,,something else still exists.
+Dialogue: 0,0:12:44.71,0:12:45.59,Default,,0,0,0,,Looking at it that way,
+Dialogue: 0,0:12:45.83,0:12:46.91,Default,,0,0,0,,I'm still far too weak.
+Dialogue: 0,0:12:46.91,0:12:47.95,Default,,0,0,0,,Three Life Flames,
+Dialogue: 0,0:12:48.11,0:12:49.27,Default,,0,0,0,,surpassing Five-Flame battle prowess...
+Dialogue: 0,0:12:48.11,0:12:49.27,Translation Notes,,0,0,0,,T/N: 五火战力 (Five-Flame Battle Prowess). Ordinary human Foundation Establishment caps at Four Flames (120 apertures); surpassing Five-Flame combat power at Three Flames requires extraordinary foundations such as a Life Lamp and Imperial-Class legacy.
+Dialogue: 0,0:12:49.43,0:12:51.95,Default,,0,0,0,,Does Fiendish Xu have some misunderstanding of what "weak" means?!
+Dialogue: 0,0:12:52.11,0:12:52.83,Default,,0,0,0,,My trump cards
+Dialogue: 0,0:12:53.19,0:12:54.59,Default,,0,0,0,,need to be hidden even deeper.
+Dialogue: 0,0:12:54.99,0:12:55.55,Default,,0,0,0,,Shadow,
+Dialogue: 0,0:12:56.03,0:12:57.63,Default,,0,0,0,,add another layer of concealment over my Life Lamp.
+Dialogue: 0,0:12:58.35,0:12:59.75,Default,,0,0,0,,And cover up ten more of my dharma apertures.
+Dialogue: 0,0:12:59.91,0:13:01.07,Default,,0,0,0,,Well? Hurry up!
+Dialogue: 0,0:13:45.27,0:13:49.99,Nameplates,,0,0,0,,{\an4\fad(500,500)\fs60\pos(210,250)}Master Shengyun's\NSea of Consciousness
+Dialogue: 0,0:13:45.27,0:13:49.99,Translation Notes,,0,0,0,,T/N: 识海 (Shíhǎi: Sea of Consciousness). The inner spiritual and mental realm within a cultivator's mind where soul, divine sense, and memories reside.
+Dialogue: 0,0:14:12.15,0:14:13.55,Default,,0,0,0,,I knew you would come.
+Dialogue: 0,0:14:13.63,0:14:18.55,Nameplates,,0,0,0,,{\an4\fad(500,500)\fs60\pos(240,270)}Chu Shenglan\N{\fs56}Master Shengyun's\N Twin Brother
+Dialogue: 0,0:14:13.63,0:14:18.55,Translation Notes,,0,0,0,,T/N: 楚圣澜 (Chǔ Shènglán: Chu Shenglan). Twin younger brother of Chu Shengyun (Master Shengyun). "Lán" means surging waves or ripples, contrasting with "Yún" (sunlight) in Shengyun's name.
+Dialogue: 0,0:14:15.51,0:14:16.47,Default,,0,0,0,,These
+Dialogue: 0,0:14:17.03,0:14:18.31,Default,,0,0,0,,are all your favorite foods.
+Dialogue: 0,0:14:20.03,0:14:21.91,Default,,0,0,0,,You think I came because I'm greedy for food?
+Dialogue: 0,0:14:23.67,0:14:24.31,Default,,0,0,0,,Of course.
+Dialogue: 0,0:14:26.03,0:14:27.27,Default,,0,0,0,,Big Brother has always been a glutton.
+Dialogue: 0,0:14:28.63,0:14:30.15,Default,,0,0,0,,After all, it couldn't possibly be because
+Dialogue: 0,0:14:31.27,0:14:32.47,Default,,0,0,0,,you want to destroy me...
+Dialogue: 0,0:14:33.83,0:14:34.71,Default,,0,0,0,,once again?
+Dialogue: 0,0:14:44.55,0:14:46.15,Default,,0,0,0,,What kind of world did you see this time?
+Dialogue: 0,0:14:48.19,0:14:49.59,Default,,0,0,0,,That body...
+Dialogue: 0,0:14:50.19,0:14:51.63,Default,,0,0,0,,must feel so free, doesn't it?
+Dialogue: 0,0:14:53.59,0:14:54.63,Default,,0,0,0,,How enviable.
+Dialogue: 0,0:14:55.47,0:14:56.43,Default,,0,0,0,,Stay put and behave.
+Dialogue: 0,0:14:58.59,0:14:59.75,Default,,0,0,0,,Don't come out again.
+Dialogue: 0,0:15:03.31,0:15:04.51,Default,,0,0,0,,What a pity.
+Dialogue: 0,0:15:05.39,0:15:06.99,Default,,0,0,0,,I still wanted to chat with you a little longer.
+Dialogue: 0,0:15:09.03,0:15:11.55,Default,,0,0,0,,You must cherish that body well.
+Dialogue: 0,0:15:13.07,0:15:14.31,Default,,0,0,0,,After all, it is...
+Dialogue: 0,0:15:37.67,0:15:39.11,Default,,0,0,0,,When you kill someone,
+Dialogue: 0,0:15:40.27,0:15:41.91,Default,,0,0,0,,does your hand hurt?
+Dialogue: 0,0:15:54.67,0:15:57.11,Nameplates,,0,0,0,,{\an4\fad(500,500)\pos(210,250)}Young \NChu Shenglan
+Dialogue: 0,0:15:57.15,0:16:00.43,Nameplates,,0,0,0,,{\an6\fad(500,500)\pos(1700,250)}Young\N Chu Shengyun
+Dialogue: 0,0:16:02.19,0:16:03.11,Default,,0,0,0,,Big Brother,
+Dialogue: 0,0:16:05.39,0:16:08.03,Default,,0,0,0,,you're still not strong enough.
+Dialogue: 0,0:16:38.35,0:16:43.31,Nameplates,,0,0,0,,{\an4\fad(500,500)\pos(250,320)}Patriarch \NSoaring Cloud\N{\fs56}Dharma Avatar \NProjection
+Dialogue: 0,0:16:38.35,0:16:43.31,Translation Notes,,0,0,0,,T/N: 凌云老祖 (Patriarch Soaring Cloud) & 法相投影 (Dharma Avatar Projection). Founding patriarch of the Soaring Cloud Sword Sect and grandfather of Chu Shengyun, speaking remotely through a projected spiritual Dharma Avatar.
+Dialogue: 0,0:16:38.91,0:16:39.95,Default,,0,0,0,,Grandfather.
+Dialogue: 0,0:16:40.75,0:16:41.67,Default,,0,0,0,,What...
+Dialogue: 0,0:16:42.07,0:16:43.63,Default,,0,0,0,,did he say to you?
+Dialogue: 0,0:16:47.15,0:16:48.35,Default,,0,0,0,,Just a bit of meaningless noise.
+Dialogue: 0,0:16:49.51,0:16:50.63,Default,,0,0,0,,It seems
+Dialogue: 0,0:16:51.03,0:16:53.43,Default,,0,0,0,,you have suppressed him very well.
+Dialogue: 0,0:16:54.31,0:16:56.31,Default,,0,0,0,,If I couldn't even manage that much,
+Dialogue: 0,0:16:57.03,0:16:59.51,Default,,0,0,0,,how could I be worthy of being Grandfather's sole grandson?
+Dialogue: 0,0:17:02.63,0:17:04.51,Default,,0,0,0,,On this trip to Seven Blood Eyes,
+Dialogue: 0,0:17:04.99,0:17:06.95,Default,,0,0,0,,why did you leave in such a hurry?
+Dialogue: 0,0:17:07.75,0:17:09.31,Default,,0,0,0,,My objective for the trip was already achieved.
+Dialogue: 0,0:17:09.71,0:17:12.31,Default,,0,0,0,,Rather than keep putting on shows with no suspense,
+Dialogue: 0,0:17:12.63,0:17:14.63,Default,,0,0,0,,I'd rather seize the time to advance my cultivation.
+Dialogue: 0,0:17:15.51,0:17:16.99,Default,,0,0,0,,Besides, among my peers,
+Dialogue: 0,0:17:17.15,0:17:19.27,Default,,0,0,0,,not a single one has the potential to be my rival.
+Dialogue: 0,0:17:19.67,0:17:20.51,Default,,0,0,0,,Except...
+Dialogue: 0,0:17:22.75,0:17:23.27,Default,,0,0,0,,No.
+Dialogue: 0,0:17:23.75,0:17:25.07,Default,,0,0,0,,Not a single one.
+Dialogue: 0,0:17:25.63,0:17:27.35,Default,,0,0,0,,A Grand Era has arrived.
+Dialogue: 0,0:17:25.63,0:17:27.35,Translation Notes,,0,0,0,,T/N: 大时代 (Dà Shídài: Grand Era). Classic xianxia term for a turbulent golden age when heaven-defying prodigies, ancient legacies, and vast destined opportunities all emerge together.
+Dialogue: 0,0:17:27.67,0:17:29.31,Default,,0,0,0,,Chosen appear in droves,
+Dialogue: 0,0:17:29.31,0:17:31.03,Default,,0,0,0,,and monstrous prodigies rise everywhere.
+Dialogue: 0,0:17:29.31,0:17:31.03,Translation Notes,,0,0,0,,T/N: 妖孽 (Yāoniè: Monstrous Prodigy). Literally "wicked anomaly," used in xianxia to praise freakish geniuses whose talent defies common sense.
+Dialogue: 0,0:17:32.03,0:17:35.11,Default,,0,0,0,,Within this Grand Era lie grand destined opportunities.
+Dialogue: 0,0:17:36.15,0:17:37.15,Default,,0,0,0,,Anyone
+Dialogue: 0,0:17:37.63,0:17:39.87,Default,,0,0,0,,has the chance to rise above the crowd.
+Dialogue: 0,0:17:37.63,0:17:39.87,Translation Notes,,0,0,0,,T/N: 脱颖而出 (Tuōyǐng érchū: Rising Above the Crowd). Classical Warring States idiom of an awl's sharp tip piercing through a sack, meaning outstanding talent inevitably stands out.
+Dialogue: 0,0:17:41.11,0:17:43.83,Default,,0,0,0,,Some people are chosen by destiny;
+Dialogue: 0,0:17:44.39,0:17:45.55,Default,,0,0,0,,and some people
+Dialogue: 0,0:17:45.75,0:17:48.27,Default,,0,0,0,,choose their own destiny.
+Dialogue: 0,0:17:49.19,0:17:51.19,Default,,0,0,0,,If you ever encounter the latter,
+Dialogue: 0,0:17:51.55,0:17:53.67,Default,,0,0,0,,never, under any circumstances, let your guard down.
+Dialogue: 0,0:17:51.55,0:17:53.67,Translation Notes,,0,0,0,,T/N: 掉以轻心 (Diào yǐ qīngxīn: Letting One's Guard Down). Classical idiom warning against carelessness or treating a serious threat lightly.
+Dialogue: 0,0:17:54.47,0:17:56.19,Default,,0,0,0,,They are most likely
+Dialogue: 0,0:17:56.71,0:17:59.87,Default,,0,0,0,,wild beasts raised out of the darkness.
+Dialogue: 0,0:18:00.51,0:18:01.39,Default,,0,0,0,,You once told me
+Dialogue: 0,0:18:01.83,0:18:03.67,Default,,0,0,0,,the characters "Shengyun" represent light.
+Dialogue: 0,0:18:01.83,0:18:03.67,Translation Notes,,0,0,0,,T/N: 圣昀 (Shèngyún). "Shèng" means sacred or holy, and "Yún" is a literary character for sunlight; together they mean "Sacred Sunlight."
+Dialogue: 0,0:18:05.39,0:18:06.67,Default,,0,0,0,,Standing within the light,
+Dialogue: 0,0:18:06.95,0:18:07.91,Default,,0,0,0,,nothing can stand in my way.
+Dialogue: 0,0:18:06.95,0:18:07.91,Translation Notes,,0,0,0,,T/N: 无往不利 (Wúwǎng bùlì: Unstoppable Everywhere). Classical idiom meaning to succeed everywhere without encountering any hindrance.
+Dialogue: 0,0:18:13.15,0:18:14.79,Character thoughts,,0,0,0,,I will keep marching forward,
+Dialogue: 0,0:18:15.31,0:18:16.11,Character thoughts,,0,0,0,,until I
+Dialogue: 0,0:18:16.59,0:18:18.63,Character thoughts,,0,0,0,,tread the path of an Ancient Sovereign!
+Dialogue: 0,0:18:19.87,0:18:24.83,Nameplates,,0,0,0,,{\an4\fad(500,500)\pos(250,260)}Seven Blood\N Eyes Port\N{\fs56}Harbor 176
+Dialogue: 0,0:18:42.75,0:18:44.15,Default,,0,0,0,,What on earth is that thing?!
+Dialogue: 0,0:18:45.71,0:18:48.67,Nameplates,,0,0,0,,{\an4\fad(500,500)\pos(250,320)}Myriad-Bone\N Nether Ship\N{\fs56}Sima Ru's\N Dharmaship
+Dialogue: 0,0:18:45.71,0:18:48.67,Translation Notes,,0,0,0,,T/N: 万骨冥船 (Myriad-Bone Nether Ship) & 司马茹 (Sima Ru). Sinister bone dharmaship propelled by spectral hands, belonging to Sima Ru of the Sima Clan in the House of Grue Hunters.
+Dialogue: 0,0:18:45.35,0:18:47.03,Default,,0,0,0,,Sima Ru of the House of Grue Hunters,
+Dialogue: 0,0:18:48.23,0:18:49.83,Default,,0,0,0,,here to pay a visit to Seven Blood Eyes.
+Dialogue: 0,0:18:50.87,0:19:00.83,Translation Notes,,0,0,0,,{\an1\fad(300,300)\fscx80\fscy80}• BEYOND TIME'S GAZE JOURNAL •\N\N[Truly a "Six"~]\N• Old Six falling from the sky! (Kun *pfft*) ("Oh my, Huang Yikun, what kind of look is that? So handsome!")\N\N[Sis-Sister-in-Law?]\N• Sister-in-Law is here! Thanks, Sister-in-Law! All hail Sister-in-Law! Sister-in-Law is my god! ("Wait, what on earth did you do outside, hey?!")\N\N[You Play Real Wild...]\N• Kind benefactor's kinks... don't understand, but respect.\N\N[Fake Tycoon: Huang Yikun]\N• So poor! Can't be picky! Investing carries risk; never put all your eggs in one basket!\N\N[Where Did the Remaining Fingers Go...]\N• (First, Second, and Third Highnesses)\N\N[Third Life Flame, Ignited!]\N• Still, my trump cards need to be even stronger! My third Life Flame has finally ignited!
+Dialogue: 1,0:19:00.87,0:19:05.83,End Letter,,0,0,0,,{\an4\fad(800,800)\an5\fs48\fsp4\bord0.5\shad0\blur0.5\1c&H2A78C8&\3c&H2A78C8&\pos(12.91,667.1)}Soaring Cloud Sword Sect\N{\fad(800,800)\an7\fs32\fsp0.5\bord0.2\shad0\blur0.5\1c&H70C8F0&\3c&H70C8F0&\pos(13.35,637)}Supervisory upper sect of the First Peak and head of the Seven Sect Alliance's seven leading sects, the mightiest of this era, wielding a Taboo Magical Treasure.\NIts Chief Chosen Dao Child, Chu Shengyun, is the Alliance's number one Chosen of this generation; though not yet Golden Core, he surpasses Golden Core.\NChu Shengyun's grandfather is Patriarch Soaring Cloud, at Void Returning Tier 1 and a thousand years older than Xue Lianzi.\NPatriarch Soaring Cloud bestowed upon Chu Shengyun the Daoist title Master Shengyun, and assigned three Golden Core Dao Protectors to guard him at all times.
+Dialogue: 0,0:19:15.79,0:19:16.95,Default,,0,0,0,,Scan this QR code!
+Dialogue: 0,0:19:17.67,0:19:19.11,Default,,0,0,0,,In the future, come drink together with us on our dharmaboat!
+Dialogue: 0,0:19:21.71,0:19:22.47,Default,,0,0,0,,We're only missing you!
+Dialogue: 0,0:19:41.79,0:19:58.55,Preview & Recap,,0,0,0,,{\fad(300,300)\an4\pos(185,580)}Next \NEpisode \NPreview
+Dialogue: 0,0:21:03.47,0:21:08.03,Ending Song,,0,0,0,,♪Wind blows across the campfire nearly burning out♪
+Dialogue: 0,0:21:08.23,0:21:12.35,Ending Song,,0,0,0,,♪Who is humming that old ballad once more?♪
+Dialogue: 0,0:21:13.07,0:21:17.55,Ending Song,,0,0,0,,♪They say: Keep walking forward, never look back♪
+Dialogue: 0,0:21:17.55,0:21:22.47,Ending Song,,0,0,0,,♪Yet that lingering laughter still echoes in my ears♪
+Dialogue: 0,0:21:22.95,0:21:27.43,Ending Song,,0,0,0,,♪From every single scar, blossom flowers in full bloom♪
+Dialogue: 0,0:21:27.43,0:21:31.75,Ending Song,,0,0,0,,♪Remembering for me all the words left unsaid♪
+Dialogue: 0,0:21:32.27,0:21:36.83,Ending Song,,0,0,0,,♪I have seen so many choose to let go of their grasp♪
+Dialogue: 0,0:21:37.07,0:21:41.35,Ending Song,,0,0,0,,♪Yet that warmth and gentleness, I cannot bear to lose♪
+Dialogue: 0,0:21:41.87,0:21:45.87,Ending Song,,0,0,0,,♪It is not that I refuse to journey onward♪
+Dialogue: 0,0:21:46.27,0:21:51.27,Ending Song,,0,0,0,,♪I only fear walking so fast my soul is left stranded♪
+Dialogue: 0,0:21:51.75,0:21:56.67,Ending Song,,0,0,0,,♪Those lights of the departed have never truly strayed far♪
+Dialogue: 0,0:21:56.87,0:22:01.35,Ending Song,,0,0,0,,♪With every breath I take, I feel them right by my side♪
+Dialogue: 0,0:22:01.35,0:22:05.75,Ending Song,,0,0,0,,♪This is my sacred obsession, refusing to forget♪
