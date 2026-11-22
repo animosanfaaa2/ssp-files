@@ -1,0 +1,314 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,0,0,20,1
+Style: Internal,Arial,23,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,2,0,0,20,0
+Style: Flashback,Arial,23,&H00F7ECEB,&H000000FF,&H004D0701,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,0,0,20,0
+Style: TypePlaceholder,Verdana,19,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,8,10,10,20,1
+Style: TypePlaceholder - Box,Verdana,19,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,3,1,1,8,10,10,20,1
+Style: Top Internal,Arial,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,8,0,0,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.27,0:00:04.62,Default,KI Stimme,0,0,0,,Das Privathaus der Akisakis in\NKomagane brannte vollständig nieder.
+Dialogue: 0,0:00:04.62,0:00:07.45,Default,KI Stimme,0,0,0,,Der Mord dort wurde noch nicht gemeldet.
+Dialogue: 0,0:00:07.45,0:00:13.52,Default,KI Stimme,0,0,0,,Mord an VIP im Gebäude Otemon.\NEs gibt derzeit eine Nachrichtensperre.
+Dialogue: 0,0:00:13.52,0:00:18.46,Default,KI Stimme,0,0,0,,Gast in Zimmer 306 hat den Auftrag in\NLagerhalle Nr. 7 an Pier 2 abgeschlossen.
+Dialogue: 0,0:00:18.46,0:00:20.98,Default,KI Stimme,0,0,0,,Noch nicht gemeldet.
+Dialogue: 0,0:00:22.89,0:00:24.18,Default,Sara,0,0,0,,Hier spricht Haizaki.
+Dialogue: 0,0:00:24.18,0:00:27.26,Default,Sara,0,0,0,,Wie steht es um Fräulein\NMachinami aus Zimmer 306?
+Dialogue: 0,0:00:27.26,0:00:30.03,Default,Roi,0,0,0,,Der Reinigungstrupp ist bereits vor Ort.
+Dialogue: 0,0:00:30.03,0:00:32.57,Default,Roi,0,0,0,,Sie wird wohl\Nselbstständig zurückkehren.
+Dialogue: 0,0:00:33.26,0:00:35.53,Default,Roi,0,0,0,,Voraussichtliche Ankunft\Nin zwei Stunden.
+Dialogue: 0,0:00:35.53,0:00:37.73,Default,Sara,0,0,0,,Verstanden. Wir erwarten sie.
+Dialogue: 0,0:00:40.90,0:00:43.54,Default,Koshiba,0,0,0,,Also dann geh ich mal, Chefin.
+Dialogue: 0,0:00:44.67,0:00:48.08,Default,Ikuro,0,0,0,,Ah, Fräulein Koshiba.\NHaben Sie für heute Feierabend?
+Dialogue: 0,0:00:48.08,0:00:49.03,Default,Koshiba,0,0,0,,Huh?
+Dialogue: 0,0:00:49.03,0:00:53.49,Default,Koshiba,0,0,0,,Fräulein Machinami aus Zimmer 306\Nist in ca. eineinhalb Stunden wieder zurück.
+Dialogue: 0,0:00:54.05,0:00:55.87,Default,Ikuro,0,0,0,,Oh, okay.
+Dialogue: 0,0:00:55.87,0:00:57.28,Default,Koshiba,0,0,0,,Also nicht faulenzen.
+Dialogue: 0,0:00:57.59,0:00:59.36,Default,Ikuro,0,0,0,,Oh, äh, nein.
+Dialogue: 0,0:00:59.36,0:01:00.47,Default,Koshiba,0,0,0,,Bis dann.
+Dialogue: 0,0:01:00.47,0:01:02.58,Default,Ikuro,0,0,0,,Äh, schönen Feierabend.
+Dialogue: 0,0:01:19.00,0:01:21.78,Default,Koshiba,0,0,0,S2.0E7.0,Urgh. Der Tabakpreis ist\Nschon wieder gestiegen.
+Dialogue: 0,0:01:22.51,0:01:25.10,Default,Koshiba,0,0,0,S2.0E7.0,Was ist denn mit den Preisen los? Echt mal.
+Dialogue: 0,0:01:25.10,0:01:27.07,Default,Koshiba,0,0,0,S2.0E7.0,Die sollten mal auf die Bremse treten.
+Dialogue: 0,0:01:27.57,0:01:28.88,Default,Hikaru,0,0,0,S2.0E7.0,Ja …
+Dialogue: 0,0:01:28.88,0:01:30.93,Default,Koshiba,0,0,0,S2.0E7.0,Einmal die 27 bitte.
+Dialogue: 0,0:01:30.93,0:01:32.07,Default,Hikaru,0,0,0,S2.0E7.0,Gerne.
+Dialogue: 0,0:01:32.07,0:01:34.57,TypePlaceholder,INSERT,0,0,0,S2.0E7.0,{\an7\move(248,146,314.013,135.02,0,1645)\fscx75.994\fscy101.529\frz-9.741\frx-0.334\fry14.921\fax0.209\fay0\q2\fnImpact\fsp1\bord1\1c&H2e13e9&\3c&H000000&\t(0,1645,\fs15)}Charakter-{\1c&H1df430&}Lotterie
+Dialogue: 0,0:01:32.07,0:01:34.57,TypePlaceholder,INSERT,0,0,0,S2.0E7.0,{\an7\move(141,67,231.053,72.732,0,1645)\fscx75.994\fscy101.529\frz-9.741\frx-0.334\fry14.921\fax0.209\fay0\q2\fnImpact\fsp1\bord1\1c&H2e13e9&\3c&H000000&\t(0,1645,\fs15)}Assassin-Detektiv
+Dialogue: 0,0:01:32.07,0:01:34.57,TypePlaceholder,INSERT,0,0,0,S2.0E7.0,{\an7\move(380,224,420.901,200.974,0,1645)\t(0,1645,\fs15)\fscx87.359\fscy108.949\frz-4.796\frx-12.038\fry24.019\fax0.593\fay0\q2\fnImpact\fsp1\bord1\1c&H1df430&\3c&H000000&}Empfohlen von {\1c&H2e13e9&}Stack!
+Dialogue: 0,0:01:33.14,0:01:34.57,Default,Koshiba,0,0,0,S2.0E7.0,Und hiervon noch eins.
+Dialogue: 0,0:01:34.91,0:01:36.10,Default,Koshiba,0,0,0,S2.0E7.0,Das hier bitte.
+Dialogue: 0,0:01:35.70,0:01:37.37,TypePlaceholder,INSERT,0,0,0,S2.0E7.0,{\an7\org(426.338,205.927)\pos(426.338,205.927)\fscx38.259\fscy80.274\frz21.707\frx21.666\fry14.977\fax-0.017\fay0\q2\fnImpact\fsp1\bord1\1c&H2e13e9&\3c&H000000&}Charakter-{\1c&H1df430&}Lotterie
+Dialogue: 0,0:01:36.29,0:01:37.37,Default,Hikaru,0,0,0,S2.0E7.0,Hier bitte.
+Dialogue: 0,0:01:38.88,0:01:41.00,Default,Koshiba,0,0,0,S2.0E7.0,Ich hab meinen Geldbeutel vergessen?!
+Dialogue: 0,0:01:42.60,0:01:45.63,Default,Koshiba,0,0,0,S2.0E7.0,Was davon nehm ich jetzt?
+Dialogue: 0,0:01:46.85,0:01:50.88,Default,Hikaru,0,0,0,S2.0E7.0,Entschuldigen Sie, aber Sie scheinen den\NAssassin-Detektiv wohl sehr zu lieben.
+Dialogue: 0,0:01:50.88,0:01:54.21,Default,Koshiba,0,0,0,S2.0E7.0,Hm? Nee, der ist mir egal.
+Dialogue: 0,0:01:54.21,0:01:54.76,Default,Hikaru,0,0,0,S2.0E7.0,Huh?
+Dialogue: 0,0:01:54.76,0:01:57.18,TypePlaceholder,INSERT,0,0,0,S2.0E7.0,{\an7\pos(215.421,160.49)\fscx75.994\fscy101.529\frz-9.741\frx-0.334\fry14.921\fax0.209\fay0\q2\fnImpact\fsp1\bord1\1c&H2e13e9&\3c&H000000&}Charakter-{\1c&H1df430&}Lotterie
+Dialogue: 0,0:01:54.76,0:01:57.18,TypePlaceholder,INSERT,0,0,0,S2.0E7.0,{\an7\pos(115,86)\fscx75.994\fscy101.529\frz-9.741\frx-0.334\fry14.921\fax0.209\fay0\q2\fnImpact\fsp1\bord1\1c&H2e13e9&\3c&H000000&}Assassin-Detektiv
+Dialogue: 0,0:01:54.76,0:01:57.18,TypePlaceholder,INSERT,0,0,0,S2.0E7.0,{\an7\pos(348.002,260.002)\fscx87.359\fscy108.949\frz-4.796\frx-12.038\fry24.019\fax0.593\fay0\q2\fnImpact\fsp1\bord1\\1c&H1df430&\3c&H000000&}Empfohlen von {\1c&H2e13e9&}Stack!
+Dialogue: 0,0:01:55.09,0:01:57.18,Default,Koshiba,0,0,0,S2.0E7.0,Ich fand nur den Aufsteller süß.
+Dialogue: 0,0:01:58.64,0:02:01.88,Default,Koshiba,0,0,0,S2.0E7.0,Bei niedlichen Dingen werde ich schwach.
+Dialogue: 0,0:02:01.88,0:02:04.35,Default,Koshiba,0,0,0,S2.0E7.0,Mann, was mache ich jetzt?
+Dialogue: 0,0:02:06.76,0:02:07.78,Default,Koshiba,0,0,0,S2.0E7.0,Huh?
+Dialogue: 0,0:02:08.15,0:02:10.94,Default,Hikaru,0,0,0,S2.0E7.0,Das ist nicht geschenkt, nur geliehen.
+Dialogue: 0,0:02:13.01,0:02:15.65,Default,Hikaru,0,0,0,S2.0E7.0,Weil ich den Aufsteller entworfen habe.
+Dialogue: 0,0:02:15.65,0:02:17.68,Default,Hikaru,0,0,0,S2.0E7.0,Dafür übernehme ich die Verantwortung.
+Dialogue: 0,0:02:19.85,0:02:22.10,Default,Hikaru,0,0,0,S2.0E7.0,Das weckt Erinnerungen.
+Dialogue: 0,0:02:22.10,0:02:24.39,Default,Hikaru,0,0,0,S2.0E7.0,Bei uns lief es genauso.
+Dialogue: 0,0:02:25.71,0:02:27.55,Default,Koshiba,0,0,0,S2.0E7.0,Hören Sie, Fräulein Matsuki …
+Dialogue: 0,0:02:27.55,0:02:28.13,Default,Hikaru,0,0,0,S2.0E7.0,Huh?
+Dialogue: 0,0:02:28.60,0:02:31.50,Default,Koshiba,0,0,0,S2.0E7.0,Verleihen Sie lieber\Nnicht so einfach Geld.
+Dialogue: 0,0:02:34.16,0:02:36.15,Default,Koshiba,0,0,0,S2.0E7.0,Diese 500 Yen hier …
+Dialogue: 0,0:02:36.15,0:02:38.05,Default,Koshiba,0,0,0,S2.0E7.0,leihe ich mir, bis die Lotterie leer ist.
+Dialogue: 0,0:02:38.53,0:02:41.01,Default,Hikaru,0,0,0,S2.0E7.0,Schon okay, aber warum?
+Dialogue: 0,0:02:41.57,0:02:42.93,Default,Koshiba,0,0,0,S2.0E7.0,Aberglaube.
+Dialogue: 0,0:02:43.97,0:02:48.27,Default,Hikaru,0,0,0,S2.0E7.0,Ich steige bei keinem aufs Motorrad\Ndessen Namen ich nicht mal kenne.
+Dialogue: 0,0:02:49.49,0:02:52.49,Default,Koshiba,0,0,0,S2.0E7.0,Meine Freunde nennen mich Koshiba.
+Dialogue: 0,0:02:52.49,0:02:54.95,Default,Koshiba,0,0,0,S2.0E7.0,Ihrer war Matsuki, oder?
+Dialogue: 0,0:02:58.77,0:02:59.83,Default,Hikaru,0,0,0,S2.0E7.0,Hey!
+Dialogue: 0,0:02:59.83,0:03:01.42,TypePlaceholder,INSERT,0,0,0,S2.0E7.0,{\pos(134,104)\frz42\fnComic Sans MS\bord2\1c&H17251b&\3c&He9ffed&\b1}D-Preis Plüschfigur
+Dialogue: 0,0:03:01.42,0:03:03.77,Default,Koshiba,0,0,0,S2.0E7.0,Ich will was Niedliches.
+Dialogue: 0,0:03:04.23,0:03:05.75,Default,Hikaru,0,0,0,S2.0E7.0,Hikaru.
+Dialogue: 0,0:03:08.03,0:03:09.63,Default,Hikaru,0,0,0,S2.0E7.0,Ich heiße Hikaru Matsuki.
+Dialogue: 0,0:03:10.51,0:03:13.76,Default,Koshiba,0,0,0,S2.0E7.0,Konntest du schon immer\Ngut zeichnen, Hikaru?
+Dialogue: 0,0:03:15.02,0:03:17.25,Default,Hikaru,0,0,0,S2.0E7.0,Hm … seit wann weiß ich nicht.
+Dialogue: 0,0:03:18.43,0:03:21.47,Default,Hikaru,0,0,0,S2.0E7.0,Aber meine große Schwester\Nhat mich immer gelobt.
+Dialogue: 0,0:03:22.66,0:03:23.97,Default,Koshiba,0,0,0,S2.0E7.0,Hey! Ikurō!
+Dialogue: 0,0:03:24.25,0:03:26.98,Default,Koshiba,0,0,0,S2.0E7.0,Ich sagte doch: Finger weg!
+Dialogue: 0,0:03:31.54,0:03:34.40,Default,Hikaru,0,0,0,S2.0E7.0,Meine große Schwester wurde bestattet.
+Dialogue: 0,0:03:36.63,0:03:39.63,Default,Hikaru,0,0,0,S2.0E7.0,Du siehst ja, dass ich Trauerkleidung trage,\Nalso was soll’s?
+Dialogue: 0,0:03:40.61,0:03:42.82,Default,Hikaru,0,0,0,S2.0E7.0,Da spoiler ich dich lieber gleich.
+Dialogue: 0,0:03:44.05,0:03:45.93,Default,Hikaru,0,0,0,S2.0E7.0,Ist schon okay.
+Dialogue: 0,0:03:45.93,0:03:51.16,Default,Hikaru,0,0,0,S2.0E7.0,Ich wusste, dass nicht mehr viel Zeit bleibt\Nund war seit Langem darauf vorbereitet.
+Dialogue: 0,0:03:51.72,0:03:52.55,Default,Hikaru,0,0,0,S2.0E7.0,Aber …
+Dialogue: 0,0:03:52.55,0:03:55.38,Default,Hikaru,0,0,0,S2.0E7.0,als ich nach der\NEinäscherung nach Hause kam,
+Dialogue: 0,0:03:55.38,0:03:57.89,Default,Hikaru,0,0,0,S2.0E7.0,wusste ich nicht mehr was\Nich mit mir anfangen sollte.
+Dialogue: 0,0:04:00.77,0:04:03.64,Default,Hikaru,0,0,0,S2.0E7.0,Bring mich bitte ans Meer.
+Dialogue: 0,0:04:03.64,0:04:06.01,Default,Hikaru,0,0,0,S2.0E7.0,Der Wind fühlt sich gut an!
+Dialogue: 0,0:04:06.01,0:04:08.77,Default,Koshiba,0,0,0,S2.0E7.0,Sag, warum willst du ans Meer?
+Dialogue: 0,0:04:08.77,0:04:10.60,Default,Hikaru,0,0,0,S2.0E7.0,Wegen des Maltagebuchs …
+Dialogue: 0,0:04:10.60,0:04:11.44,Default,Koshiba,0,0,0,S2.0E7.0,Häh?!
+Dialogue: 0,0:04:11.44,0:04:13.11,Default,Hikaru,0,0,0,S2.0E7.0,Wegen des Maltagebuchs!
+Dialogue: 0,0:04:13.11,0:04:15.63,Default,Hikaru,0,0,0,S2.0E7.0,In unserer Kindheit haben\Nmeine Schwester und ich
+Dialogue: 0,0:04:15.63,0:04:18.15,Default,Hikaru,0,0,0,S2.0E7.0,ein Maltagebuch\Nals Tauschtagebuch geführt.
+Dialogue: 0,0:04:18.15,0:04:22.16,Default,Hikaru,0,0,0,S2.0E7.0,Es endet mit einem Eintrag\Nvon einem Tag am Meer.
+Dialogue: 0,0:04:25.06,0:04:28.81,Flashback,Sara,0,0,0,,Die Sache mit Ihrer\Njüngeren Schwester geht klar.
+Dialogue: 0,0:04:28.81,0:04:33.17,Default,Hikaru,0,0,0,S2.0E7.0,Ich will mich daran erinnern,\Nwarum es an dem Tag endete!
+Dialogue: 0,0:04:34.32,0:04:38.43,Default,Hikaru,0,0,0,S2.0E7.0,Weil ich die betreffende Person\Nnicht mehr nach dem Tagebuch fragen kann.
+Dialogue: 0,0:04:44.86,0:04:47.31,Default,Hikaru,0,0,0,S2.0E7.0,Ich lade dich auf ’nen Kaffee ein!
+Dialogue: 0,0:04:51.59,0:04:53.16,Default,Koshiba,0,0,0,S2.0E7.0,Chefin Sara …
+Dialogue: 0,0:04:53.16,0:04:56.23,Default,Koshiba,0,0,0,S2.0E7.0,Danke, dass Sie die Spätschicht\Nfür mich übernommen haben.
+Dialogue: 0,0:04:58.95,0:05:01.48,Default,Sara,0,0,0,S2.0E7.0,Ich zähle auf dich, Koshiba.
+Dialogue: 0,0:05:02.46,0:05:06.74,Default,Sara,0,0,0,,Erfülle den Dying-Service-Wunsch der\NAuftragsmörderin Mitsuru Machinami …
+Dialogue: 0,0:05:07.43,0:05:09.96,Default,Sara,0,0,0,,an ihrer jüngeren Schwester.
+Dialogue: 0,0:05:15.84,0:05:18.96,TypePlaceholder,INSERT,0,0,0,,{\pos(308.67,35.33)\fnTimes New Roman\c&HE8EBE8&\3c&HFFFFFF&\fs20\1a&H00&\4c&HFFFFFF&}Inhuman\N\N\N\N\N\N\N(adj.)
+Dialogue: 0,0:05:15.84,0:05:18.96,TypePlaceholder,INSERT,0,0,0,,{\an7\pos(348.01,242.66)\fnTimes New Roman\c&HE8EBE8&\fs20}1. unmenschlich, monströs\N2. nicht menschlich\N3. grausam, unbarmherzig
+Dialogue: 0,0:06:49.26,0:06:53.31,TypePlaceholder,TITEL,0,0,0,,{\an2\pos(414,311)\fad(500,500)\fnTimes New Roman\c&HFFFFFF&\bord1\blur2\3c&H000000&\3a&H70&}Motorcycle Diaries 2
+Dialogue: 0,0:06:56.02,0:06:58.23,Default,Hikaru,0,0,0,,Das wärmt etwas auf.
+Dialogue: 0,0:06:59.49,0:07:02.32,Default,Koshiba,0,0,0,,Wir sind jetzt hier. Wohin jetzt?
+Dialogue: 0,0:07:03.93,0:07:08.74,Default,Hikaru,0,0,0,,Gut. Wir fahren einfach weiter\Nbis zu einem Parkplatz an der Küste.
+Dialogue: 0,0:07:36.99,0:07:38.40,Default,Hikaru,0,0,0,,Da ist es! Halt an!
+Dialogue: 0,0:07:39.79,0:07:41.40,Default,Hikaru,0,0,0,,Wir sind da!
+Dialogue: 0,0:07:42.05,0:07:43.89,Default,Hikaru,0,0,0,,Wir sind wirklich hier, Koshiba!
+Dialogue: 0,0:07:46.30,0:07:47.44,Default,Hikaru,0,0,0,,Aber …
+Dialogue: 0,0:07:48.03,0:07:50.07,Default,Hikaru,0,0,0,,Aber trotz allem …
+Dialogue: 0,0:07:50.07,0:07:52.81,Default,Hikaru,0,0,0,,ist es saukalt!
+Dialogue: 0,0:07:52.81,0:07:54.08,Default,Hikaru,0,0,0,,Denn …
+Dialogue: 0,0:07:54.08,0:07:56.92,Default,Hikaru,0,0,0,,der Wind ist echt heftig!
+Dialogue: 0,0:07:59.32,0:08:00.81,Default,Koshiba,0,0,0,,Und es war wirklich hier?
+Dialogue: 0,0:08:00.81,0:08:03.50,Default,Koshiba,0,0,0,,Du warst ja noch sehr jung,\Nals du hier warst.
+Dialogue: 0,0:08:08.13,0:08:10.26,TypePlaceholder,INSERT,0,0,0,,{\fad(1525,0)\move(128,120,44,133,149,1400)\fnComic Sans MS\fax0.192301\fscx109.15\fscy115.34\frz-20.5346\frx-19.4006\fry-7.1078\bord2.00\c&H825AA7&}Crush-Ice
+Dialogue: 0,0:08:08.13,0:08:10.26,TypePlaceholder,INSERT,0,0,0,,{=0}{\fad(1525,0)\fnComic Sans MS\fax-0.141732\fscx97.66\fscy133.72\frz3.9658\frx-4.7229\fry-19.9211\bord2\c&H334258&\3c&HC0E1F4&\move(571.21,88.55,487.88,101.22,149,1400)}Frankfurter Würstchen
+Dialogue: 0,0:08:16.42,0:08:17.35,Default,Hikaru,0,0,0,,Uhm.
+Dialogue: 0,0:08:17.35,0:08:19.42,Default,Hikaru,0,0,0,,Wir waren definitiv hier.
+Dialogue: 0,0:08:26.20,0:08:30.14,Default,Koshiba,0,0,0,,Wenn du zum Strand runterwillst,\Npark ich das Motorrad hier.
+Dialogue: 0,0:08:30.14,0:08:31.60,Default,Hikaru,0,0,0,,Keine Chance.
+Dialogue: 0,0:08:31.60,0:08:32.37,Default,Koshiba,0,0,0,,Huh?
+Dialogue: 0,0:08:32.37,0:08:34.86,Default,Hikaru,0,0,0,,Obwohl das der richtige Ort ist,
+Dialogue: 0,0:08:34.86,0:08:37.08,Default,Hikaru,0,0,0,,kann ich mich nicht erinnern …
+Dialogue: 0,0:08:40.81,0:08:43.88,Default,Hikaru,0,0,0,,Warum haben wir mit\Ndem Maltagebuch aufgehört?
+Dialogue: 0,0:08:46.45,0:08:50.30,Default,Kind Hikaru,0,0,0,,Endlich sind wir am Meer,\Nauf das wir uns so gefreut haben!
+Dialogue: 0,0:08:50.30,0:08:55.08,Default,Kind Hikaru,0,0,0,,Es ist schon Nacht, aber morgen\Nwerden wir viel schwimmen gehen!
+Dialogue: 0,0:08:55.08,0:08:57.99,Default,Kind Hikaru,0,0,0,,Vielleicht treffen wir Fische …!
+Dialogue: 0,0:08:57.99,0:09:00.73,Default,Hikaru,0,0,0,,Also, man liest\Nkeine Tagebücher von Anderen!
+Dialogue: 0,0:09:01.09,0:09:02.23,Default,Koshiba,0,0,0,,Aha.
+Dialogue: 0,0:09:02.23,0:09:04.67,Default,Koshiba,0,0,0,,Klingt bis jetzt als hättet ihr viel Spaß.
+Dialogue: 0,0:09:04.67,0:09:05.73,Default,Koshiba,0,0,0,,Aber …
+Dialogue: 0,0:09:05.73,0:09:06.74,Default,Hikaru,0,0,0,,Ja.
+Dialogue: 0,0:09:06.74,0:09:09.32,Default,Hikaru,0,0,0,,Die nächste Seite wurde herausgerissen.
+Dialogue: 0,0:09:10.03,0:09:11.95,Default,Hikaru,0,0,0,,Warum nur?
+Dialogue: 0,0:09:12.28,0:09:15.67,Default,Koshiba,0,0,0,,Habt ihr dort gemalt was am Tag\Ndarauf am Meer passiert ist?
+Dialogue: 0,0:09:16.71,0:09:17.87,Default,Hikaru,0,0,0,,Keinen Schimmer.
+Dialogue: 0,0:09:20.53,0:09:25.21,Default,Hikaru,0,0,0,,Ach, und dabei weckt der salzige\NGeruch irgendwie Erinnerungen …
+Dialogue: 0,0:09:34.92,0:09:36.54,Default,Hikaru,0,0,0,,Weißt du …
+Dialogue: 0,0:09:36.54,0:09:40.23,Default,Hikaru,0,0,0,,es gibt noch einen weiteren Grund,\Nwarum ich mich erinnern will.
+Dialogue: 0,0:09:42.46,0:09:43.73,Default,Hikaru,0,0,0,,Meine Schwester …
+Dialogue: 0,0:09:43.73,0:09:46.28,Default,Hikaru,0,0,0,,hat an ihrem letzten Tag darin gelesen.
+Dialogue: 0,0:09:43.73,0:09:46.73,TypePlaceholder,INSERT,0,0,0,,{\fnComic Sans MS\bord1\1c&H4d45b5&\3c&H2e2e41&\frz24.36\move(244.67,61,242.67,52.33,19,2981)\b1}Maltagebuch
+Dialogue: 0,0:09:43.73,0:09:46.73,TypePlaceholder,INSERT,0,0,0,,{\fnComic Sans MS\bord3\3c&Hbebdd4&\1c&H20242e&\frz25.16\move(356.66,250.67,359.99,260,19,2981)}Mitsuru, Hikaru Matsuki
+Dialogue: 0,0:09:49.23,0:09:51.24,TypePlaceholder,INSERT,0,0,0,,{\pos(378.67,26.33)\fnComic Sans MS\bord1\1c&H5C2D40&\3c&H2e2e41&\frz342.8\b1}Maltagebuch
+Dialogue: 0,0:09:49.23,0:09:51.24,TypePlaceholder,INSERT,0,0,0,,{\pos(281.32,297.33)\fnComic Sans MS\bord3\3c&H795251&\1c&H20242e&\frz340.7}Mitsuru, Hikaru Matsuki
+Dialogue: 0,0:09:49.94,0:09:51.25,Default,Hikaru,0,0,0,,Aber …
+Dialogue: 0,0:09:51.25,0:09:54.11,Default,Hikaru,0,0,0,,da ich das alles vergessen habe,\Nheißt das dann,
+Dialogue: 0,0:09:54.11,0:09:56.76,Default,Hikaru,0,0,0,,dass es okay ist,\Nwenn ich mich nicht erinnere?
+Dialogue: 0,0:10:05.54,0:10:08.55,TypePlaceholder - Box,INSERT,0,0,0,,{\an7\pos(417.33,21.33)\c&HFFFFFF&\3c&HFBEC6F&\shadß}Kyoda\N{\c&HA7B950&\3c&HC0FF74&}Hikaru, vielen Dank\Nfür deine harte Arbeit.
+Dialogue: 0,0:10:10.21,0:10:14.22,TypePlaceholder - Box,INSERT,0,0,0,,{\an7\pos(417.33,21.33)\c&HFFFFFF&\3c&HFBEC6F&\shadß}Kyoda\N{\c&HA7B950&\3c&HC0FF74&}Hikaru, vielen Dank\Nfür deine harte Arbeit.\N\N{\3a&HFF&\1a&HFF&\t(274,400,\3a&H00&\1a&H00&)}Ich bin mir sicher deine\N\N{\3a&HFF&\1a&HFF&\t(2026,2151,\3a&H00&\1a&H00&)}große Schwester war\Nbis zum Schluss\Nsehr glücklich.
+Dialogue: 0,0:10:20.55,0:10:21.93,Default,Koshiba,0,0,0,,Hikaru.
+Dialogue: 0,0:10:23.92,0:10:25.63,Default,Hikaru,0,0,0,,Schon komisch.
+Dialogue: 0,0:10:27.57,0:10:31.00,Default,Hikaru,0,0,0,,Diejenigen, die nie geholfen haben, …
+Dialogue: 0,0:10:31.41,0:10:35.20,Default,Hikaru,0,0,0,,können über meine Schwester reden,\Nwie sie wollen, stimmt’s?
+Dialogue: 0,0:10:35.62,0:10:38.78,Default,Hikaru,0,0,0,,Selbst, als wir nur zu zweit waren …
+Dialogue: 0,0:10:39.11,0:10:42.20,Default,Hikaru,0,0,0,,Selbst als wir von der Krankheit\Nmeiner Schwester erfuhren …
+Dialogue: 0,0:10:42.46,0:10:45.61,Default,Hikaru,0,0,0,,konnten wir alles in eine schöne\Nund traurige Geschichte einbetten,
+Dialogue: 0,0:10:45.61,0:10:49.46,Default,Hikaru,0,0,0,,was allen genügte und was ihnen\Nerlaubte, es einfach zu vergessen, richtig?
+Dialogue: 0,0:10:51.82,0:10:53.13,Default,Hikaru,0,0,0,,Aber was ist dann mit mir?
+Dialogue: 0,0:10:55.99,0:10:59.39,Default,Hikaru,0,0,0,,Mit der, die nicht vergessen kann,\Nselbst wenn sie es will?!
+Dialogue: 0,0:11:01.28,0:11:03.96,Default,Hikaru,0,0,0,,Was ist … Was ist mit mir?!
+Dialogue: 0,0:11:06.52,0:11:09.61,Default,Hikaru,0,0,0,,Was ist mit dem Moment, als ich neben\Nmeiner schlafenden Schwester stand
+Dialogue: 0,0:11:09.61,0:11:13.68,Default,Hikaru,0,0,0,,und „Bitte, hab Erbarmen“ flehte,\Nwährend sie mich nicht hören konnte?
+Dialogue: 0,0:11:13.68,0:11:15.33,Default,Hikaru,0,0,0,,Oder dem Gefühl …
+Dialogue: 0,0:11:15.33,0:11:18.85,Default,Hikaru,0,0,0,,der Erleichterung,\Ndas ich nach ihrem Tod empfand?
+Dialogue: 0,0:11:19.50,0:11:22.39,Default,Hikaru,0,0,0,,Was ist mit den Gedanken,\Ndass ich mich jetzt
+Dialogue: 0,0:11:22.39,0:11:24.61,Default,Hikaru,0,0,0,,nicht mehr um sie kümmern muss …
+Dialogue: 0,0:11:25.00,0:11:26.82,Default,Hikaru,0,0,0,,und es endlich vorbei ist?
+Dialogue: 0,0:11:29.01,0:11:30.12,Default,Hikaru,0,0,0,,Deswegen …
+Dialogue: 0,0:11:34.48,0:11:37.25,Default,Hikaru,0,0,0,,Deswegen … habe ich …
+Dialogue: 0,0:11:49.80,0:11:52.52,Default,Hikaru,0,0,0,,es gemalt. Um zu vergessen.
+Dialogue: 0,0:11:57.20,0:11:58.34,Flashback,Hikaru,0,0,0,,Was ist?
+Dialogue: 0,0:12:00.23,0:12:02.48,Flashback,Mitsuru,0,0,0,,Das könnte das …
+Dialogue: 0,0:12:02.48,0:12:05.23,Flashback,Mitsuru,0,0,0,,letzte Mal … sein, dass ich …
+Dialogue: 0,0:12:05.88,0:12:08.17,Flashback,Mitsuru,0,0,0,,nach Hause komme …
+Dialogue: 0,0:12:12.24,0:12:12.71,Flashback,Mitsuru,0,0,0,,Also …
+Dialogue: 0,0:12:13.67,0:12:14.59,Flashback,Mitsuru,0,0,0,,dieses Bild …
+Dialogue: 0,0:12:14.96,0:12:15.96,Flashback,Hikaru,0,0,0,,Bild?
+Dialogue: 0,0:12:16.42,0:12:17.78,Flashback,Mitsuru,0,0,0,,Zeig es mir.
+Dialogue: 0,0:12:19.19,0:12:22.98,Default,Hikaru,0,0,0,,Ich hatte nie vor, es jemandem zu zeigen.
+Dialogue: 0,0:12:22.98,0:12:23.93,Default,Hikaru,0,0,0,,Aber …
+Dialogue: 0,0:12:24.54,0:12:25.96,Flashback,Mitsuru,0,0,0,,Bitte …
+Dialogue: 0,0:12:25.96,0:12:27.02,Flashback,Mitsuru,0,0,0,,zeig es mir …
+Dialogue: 0,0:12:40.23,0:12:41.62,Default,Hikaru,0,0,0,,Ich zeichnete …
+Dialogue: 0,0:12:41.96,0:12:44.28,Default,Hikaru,0,0,0,,es um meinetwillen.
+Dialogue: 0,0:12:44.28,0:12:47.41,Default,Hikaru,0,0,0,,Um meinem eintönigen\NAlltag Ausdruck zu verleihen, …
+Dialogue: 0,0:12:47.83,0:12:51.06,Default,Hikaru,0,0,0,,meine trüben Gedanken zu ordnen …
+Dialogue: 0,0:12:51.88,0:12:54.22,Default,Hikaru,0,0,0,,und alles zu vergessen …
+Dialogue: 0,0:12:55.44,0:12:58.50,Default,Hikaru,0,0,0,,Darum zeichnete ich die letzten\NMomente meiner Schwester.
+Dialogue: 0,0:13:07.09,0:13:11.65,Default,Hikaru,0,0,0,,Selbst wenn ich vergessen wollte,\Nkann ich es jetzt nicht mehr!
+Dialogue: 0,0:13:19.86,0:13:20.95,Default,Hikaru,0,0,0,,Oh nein!
+Dialogue: 0,0:13:21.43,0:13:22.82,Default,Hikaru,0,0,0,,Schwesterchen!
+Dialogue: 0,0:13:30.77,0:13:32.87,Default,Koshiba,0,0,0,,Lass nicht los, Hikaru!
+Dialogue: 0,0:13:32.87,0:13:34.07,Default,Koshiba,0,0,0,,Fahren wir!
+Dialogue: 0,0:13:34.07,0:13:35.17,Default,Hikaru,0,0,0,,Aber …!
+Dialogue: 0,0:13:36.75,0:13:38.75,Default,Koshiba,0,0,0,,Halt dich gut fest!
+Dialogue: 0,0:13:38.75,0:13:40.01,Default,Hikaru,0,0,0,,Koshiba!
+Dialogue: 0,0:13:44.63,0:13:47.47,Default,Hikaru,0,0,0,,Koshiba! Es ist zu schnell!\NViel zu schnell!
+Dialogue: 0,0:13:47.47,0:13:49.16,Default,Koshiba,0,0,0,,Weißt du …
+Dialogue: 0,0:13:49.16,0:13:51.52,Default,Koshiba,0,0,0,,Eigentlich hasse ich\Nrührselige Geschichten.
+Dialogue: 0,0:13:52.53,0:13:55.86,Default,Koshiba,0,0,0,,Je öfter ich welche höre,\Num so mehr nerven sie mich.
+Dialogue: 0,0:13:57.44,0:13:58.55,Default,Koshiba,0,0,0,,Aber …
+Dialogue: 0,0:13:58.93,0:14:01.53,Default,Koshiba,0,0,0,,was hättest du bitte\Nnoch tun sollen, Hikaru?
+Dialogue: 0,0:14:02.53,0:14:03.49,Default,Koshiba,0,0,0,,Sei wütend!
+Dialogue: 0,0:14:06.92,0:14:10.45,Default,Koshiba,0,0,0,,Auf alles, was dich dazu gebracht hat,\Ndeine große Schwester zu hassen!
+Dialogue: 0,0:14:10.45,0:14:13.42,Default,Koshiba,0,0,0,,Auf die Krankheit, die ihr\Ngewaltsam das Leben genommen hat!
+Dialogue: 0,0:14:13.81,0:14:18.42,Default,Koshiba,0,0,0,,Auf die Verwandten, die nichts weiter getan\Nhaben, als auf der Beerdigung zu weinen!
+Dialogue: 0,0:14:18.42,0:14:21.84,Default,Koshiba,0,0,0,,Auf die Gesellschaft,\Ndie dir nicht geholfen hat!
+Dialogue: 0,0:14:22.27,0:14:25.59,Default,Koshiba,0,0,0,,Darum: Wenn du immer noch\Ndie Hand nach ihr ausstreckst,
+Dialogue: 0,0:14:25.59,0:14:27.06,Default,Koshiba,0,0,0,,lass nicht los!
+Dialogue: 0,0:14:29.98,0:14:33.97,Default,Koshiba,0,0,0,,Die Menschen werden\Nsowieso irgendwann vergessen!
+Dialogue: 0,0:14:42.78,0:14:45.70,Default,Koshiba,0,0,0,,Wenn du also nicht vergessen kannst, …
+Dialogue: 0,0:14:49.72,0:14:52.54,Default,Koshiba,0,0,0,,ist es okay sie auch\Njetzt noch festzuhalten!
+Dialogue: 0,0:15:04.35,0:15:05.43,Internal,Hikaru,0,0,0,,Ja …
+Dialogue: 0,0:15:06.06,0:15:07.53,Internal,Hikaru,0,0,0,,Stimmt.
+Dialogue: 0,0:15:08.98,0:15:10.38,Internal,Hikaru,0,0,0,,Ich …
+Dialogue: 0,0:15:50.10,0:15:51.26,Internal,Hikaru,0,0,0,,Ich …
+Dialogue: 0,0:15:51.65,0:15:53.26,Internal,Hikaru,0,0,0,,bin fast ertrunken.
+Dialogue: 0,0:15:57.86,0:15:59.64,Internal,Hikaru,0,0,0,,Daraufhin …
+Dialogue: 0,0:16:10.91,0:16:13.12,Flashback,Kind Hikaru,0,0,0,,Warum malst du das?!
+Dialogue: 0,0:16:13.71,0:16:16.34,Flashback,Kind Hikaru,0,0,0,,Du bist blöd, Mi!
+Dialogue: 0,0:16:17.13,0:16:18.62,Flashback,Kind Mitsuru,0,0,0,,Aber Hikaru …?
+Dialogue: 0,0:16:18.96,0:16:21.01,Flashback,Kind Hikaru,0,0,0,,Wir hören mit dem Tagebuch auf!
+Dialogue: 0,0:16:23.62,0:16:25.37,Flashback,Kind Mitsuru,0,0,0,,Du willst aufhören?
+Dialogue: 0,0:16:25.37,0:16:27.80,Flashback,Kind Hikaru,0,0,0,,Wir hören auf! Ganz auf!
+Dialogue: 0,0:16:28.11,0:16:31.93,Flashback,Kind Mitsuru,0,0,0,,Obwohl ich deine Bilder so mag, Hikaru?
+Dialogue: 0,0:16:48.66,0:16:49.98,Default,Koshiba,0,0,0,,Hikaru!
+Dialogue: 0,0:16:54.95,0:16:55.99,Default,Koshiba,0,0,0,,Geht’s?
+Dialogue: 0,0:17:01.66,0:17:03.59,Default,Hikaru,0,0,0,,Ich kann mich erinnern,
+Dialogue: 0,0:17:03.59,0:17:05.03,Default,Hikaru,0,0,0,,Schwesterchen.
+Dialogue: 0,0:17:07.79,0:17:09.92,Top Internal,Koshiba,0,0,0,,Hotel Inhumans.
+Dialogue: 0,0:17:14.68,0:17:16.43,Default,Stimme,0,0,0,,Er begräbt den wahren Schuldigen!
+Dialogue: 0,0:17:16.43,0:17:19.27,Default,Stimme,0,0,0,,Assassin Detective erfreut sich\Nim TV großer Beliebtheit!
+Dialogue: 0,0:17:19.66,0:17:22.34,Default,Ikuro,0,0,0,,Ach, das ist das wohl.
+Dialogue: 0,0:17:22.34,0:17:24.06,Default,Ikuro,0,0,0,,Sagen Sie, Fräulein Sara …
+Dialogue: 0,0:17:25.39,0:17:26.61,Default,Sara,0,0,0,,Was ist?
+Dialogue: 0,0:17:26.61,0:17:28.28,Default,Ikuro,0,0,0,,Sie haben mir neulich gar nicht gesagt,
+Dialogue: 0,0:17:28.28,0:17:32.07,Default,Ikuro,0,0,0,,dass Fräulein Koshiba mitten\Nin einem Auftrag steckt.
+Dialogue: 0,0:17:32.83,0:17:36.48,Default,Ikuro,0,0,0,,Mitsuru Matsukis letzter Wunsch ist,\Ndass Koshiba ihrer Schwester,
+Dialogue: 0,0:17:36.48,0:17:41.69,Default,Ikuro,0,0,0,,Fräulein Hikaru, Kraft gibt,\Ndamit sie ihren Tod akzeptieren kann.
+Dialogue: 0,0:17:42.08,0:17:43.31,Default,Sara,0,0,0,,Genau.
+Dialogue: 0,0:17:43.31,0:17:45.11,Default,Sara,0,0,0,,Wäre Ihnen das nicht peinlich?
+Dialogue: 0,0:17:45.11,0:17:48.00,Default,Ikuro,0,0,0,,Hä? Ist es das Fräulein Koshiba etwa?
+Dialogue: 0,0:17:48.00,0:17:52.16,Default,Sara,0,0,0,,Sie mag vielleicht nicht so\Nverständnisvoll sein, wie Sie, Ikuro,
+Dialogue: 0,0:17:52.16,0:17:55.17,Default,Sara,0,0,0,,aber in diesem Fall kann sie\Nes wohl besser nachvollziehen.
+Dialogue: 0,0:17:55.17,0:17:56.60,Default,Ikuro,0,0,0,,Hm?
+Dialogue: 0,0:18:04.74,0:18:06.74,Default,Große Schwester,0,0,0,,Menno, zieh nicht so!
+Dialogue: 0,0:18:12.67,0:18:16.32,Default,Sara,0,0,0,,Koshiba ist tollpatschig.\NIm guten wie im schlechten Sinne.
+Dialogue: 0,0:19:24.23,0:19:26.23,Default,Hikaru,0,0,0,,Herzlich willkommen.
+Dialogue: 0,0:19:29.23,0:19:31.55,Default,Koshiba,0,0,0,,Deine Stimme\Nklingt ja furchtbar kratzig.
+Dialogue: 0,0:19:31.98,0:19:34.57,Default,Hikaru,0,0,0,,Natürlich, wenn man\Nmitten im Winter ins Meer fällt.
+Dialogue: 0,0:19:34.57,0:19:37.07,Default,Hikaru,0,0,0,,Ein Wunder,\Ndass wir nicht gestorben sind.
+Dialogue: 0,0:19:37.07,0:19:38.92,Default,Hikaru,0,0,0,,Mein Handy hat’s aber nicht überlebt.
+Dialogue: 0,0:19:40.54,0:19:43.98,Default,Hikaru,0,0,0,,Und ich kann mir kein\Nneues Smartphone leisten.
+Dialogue: 0,0:19:44.31,0:19:47.96,Default,Hikaru,0,0,0,,Na ja, ich glaube, es ist erst mal okay,\Ndie familiären Bande
+Dialogue: 0,0:19:47.96,0:19:49.92,Default,Hikaru,0,0,0,,so zu belassen, wie sie sind.
+Dialogue: 0,0:19:51.23,0:19:52.93,Default,Koshiba,0,0,0,,Klingt gut.
+Dialogue: 0,0:19:52.93,0:19:53.92,Default,Koshiba,0,0,0,,Und sonst?
+Dialogue: 0,0:19:53.92,0:19:54.84,Default,Hikaru,0,0,0,,Huh?
+Dialogue: 0,0:19:55.28,0:19:56.82,Default,Koshiba,0,0,0,,Alles gut?
+Dialogue: 0,0:19:57.20,0:19:59.70,Default,Hikaru,0,0,0,,Ach, warte kurz.
+Dialogue: 0,0:20:00.68,0:20:02.68,Default,Koshiba,0,0,0,,Häh? Was denn jetzt?
+Dialogue: 0,0:20:09.19,0:20:11.65,TypePlaceholder,INSERT,0,0,0,,{\fnComic Sans MS\bord1\1c&H535A8C&\3c&H2e2e41&\frz0.8284\t(852,1016,\frz16.51)\move(307.34,26.33,130.01,79,852,1016)\b1}Maltagebuch
+Dialogue: 0,0:20:09.19,0:20:11.65,TypePlaceholder,INSERT,0,0,0,,{\move(309,268,191.67,302.67,852,1016)\fnComic Sans MS\bord3\3c&HB4BFC4&\1c&H20242e&\frz0.8284\t(852,1016,\frz16.51)}Mitsuru, Hikaru Matsuki
+Dialogue: 0,0:20:10.26,0:20:11.65,Default,Hikaru,0,0,0,,Tadah!
+Dialogue: 0,0:20:12.42,0:20:14.90,Default,Koshiba,0,0,0,,Uh, hat’s das erwischt.
+Dialogue: 0,0:20:14.90,0:20:16.61,Default,Koshiba,0,0,0,,Voll lädiert.
+Dialogue: 0,0:20:19.65,0:20:22.12,Default,Hikaru,0,0,0,,Ich habe das gezeichnet,\Nohne dich vorher zu fragen, …
+Dialogue: 0,0:20:22.49,0:20:26.07,Default,Hikaru,0,0,0,,aber da es niedlich ist,\Nsiehst du mir das nach, oder?
+Dialogue: 0,0:20:27.46,0:20:28.73,Internal,Hikaru,0,0,0,,Im Januar,
+Dialogue: 0,0:20:28.75,0:20:31.08,Internal,Hikaru,0,0,0,,auf dem Rückweg von der\NBeerdigung meiner Schwester,
+Dialogue: 0,0:20:31.08,0:20:33.25,Internal,Hikaru,0,0,0,,war ich seit Langem wieder am Meer.
+Dialogue: 0,0:20:35.00,0:20:36.88,Internal,Hikaru,0,0,0,,Mitten in der Nacht, im tiefsten Winter,
+Dialogue: 0,0:20:36.88,0:20:38.95,Default,Hikaru,0,0,0,,mit dem Motorrad einer seltsamen Person.
+Dialogue: 0,0:20:39.80,0:20:41.96,Internal,Hikaru,0,0,0,,Es war superkalt,
+Dialogue: 0,0:20:41.96,0:20:45.40,Internal,Hikaru,0,0,0,,aber der Wind hat sich\Nseltsamerweise gut angefühlt.
+Dialogue: 0,0:20:47.14,0:20:50.94,TypePlaceholder,INSERT,0,0,0,,{\pos(362.67,244.33)\fnComic Sans MS\bord1\1c&H45538B&\3c&H2e2e41&\frz342.8\b1}Maltagebuch
+Dialogue: 0,0:20:47.67,0:20:50.94,Default,Koshiba,0,0,0,,Hey, ich bin viel niedlicher!
+Dialogue: 0,0:20:57.01,0:21:00.07,Internal,Hikaru,0,0,0,,Und dann wäre ich …
+Dialogue: 0,0:21:00.48,0:21:02.87,Internal,Hikaru,0,0,0,,beinah wieder im Meer ertrunken.
+Dialogue: 0,0:21:25.60,0:21:29.89,TypePlaceholder,CREDITS,0,0,0,,{\fad(700,700)\fnTimes New Roman\c&HFFFFFF&\bord1\blur2\3c&H000000&\3a&H70&}Übersetzung & Spotting: Bettina Spallek
+Dialogue: 0,0:21:30.23,0:21:34.81,TypePlaceholder,CREDITS,0,0,0,,{\fad(700,700)\fnTimes New Roman\c&HFFFFFF&\bord1\blur2\3c&H000000&\3a&H70&}Revision & Typesetting: Michael Ebersberger
+Dialogue: 0,0:21:35.19,0:21:39.15,TypePlaceholder,CREDITS,0,0,0,,{\fad(700,700)\fnTimes New Roman\c&HFFFFFF&\bord1\blur2\3c&H000000&\3a&H70&}Qualitätskontrolle: Daniel Wackenheim
+Dialogue: 0,0:21:39.49,0:21:44.41,TypePlaceholder,CREDITS,0,0,0,,{\fad(700,700)\fnTimes New Roman\c&HFFFFFF&\bord1\blur2\3c&H000000&\3a&H70&}Projektleitung: Tobias Philippi
+Dialogue: 0,0:22:46.28,0:22:48.41,Default,Hikaru,0,0,0,,Zeit für eine kleine Pause.
+Dialogue: 0,0:22:52.90,0:22:54.89,Default,Hikaru,0,0,0,,Ach, menno.
+Dialogue: 0,0:22:55.60,0:22:56.65,Default,Hikaru,0,0,0,,Das gehörte …
+Dialogue: 0,0:22:59.29,0:23:00.90,Default,Hikaru,0,0,0,,meiner Schwester.
+Dialogue: 0,0:23:17.04,0:23:19.09,Default,Hikaru,0,0,0,,Mensch, was fällt dir ein, …
+Dialogue: 0,0:23:21.47,0:23:23.38,Default,Hikaru,0,0,0,,mich einfach zu malen.
+Dialogue: 0,0:23:29.97,0:23:36.39,TypePlaceholder,TITEL,0,0,0,,{\pos(320,121.33)\fnTimes New Roman\c&HFFFFFF&\bord1\blur2\3c&H000000&\3a&H70&}Nächstes Mal\N\N\N\N\N\N\N\N\Nrequest 22. Wandervogel
+
+[Aegisub Extradata]
+Data: 0,_aegi_perspective_ambient_plane,e354.20;116.72#7C677.98;89.67#7C672.80;179.39#7C356.33;178.45
+
