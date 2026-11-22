@@ -1,0 +1,353 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Default - Isekai,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics - Isekai,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.23,0:00:17.24,Italics - Isekai,Noriko; Internal (J),0,0,0,,Once we enter the White Mist Woods,\Nthey say we can never leave.
+Dialogue: 0,0:00:17.77,0:00:22.87,Italics - Isekai,Noriko; Internal (J),0,0,0,,Is there really a monster here? \NIt looks like a normal forest.
+Dialogue: 0,0:00:26.13,0:00:27.31,Default,Agol,0,0,0,,This is...
+Dialogue: 0,0:00:27.84,0:00:32.13,Default,Agol,0,0,0,,The further we go in,\Nthe stranger the horses act.
+Dialogue: 0,0:00:35.04,0:00:38.57,Default,Koriki,0,0,0,,Whoa. Whoa. What's wrong?
+Dialogue: 0,0:00:38.57,0:00:39.71,Default,Rontarna,0,0,0,,Calm down!
+Dialogue: 0,0:00:43.15,0:00:45.23,Default,Izark,0,0,0,,We should abandon the horses here.
+Dialogue: 0,0:00:45.23,0:00:46.25,Default,Jeida,0,0,0,,Yes...
+Dialogue: 0,0:00:46.25,0:00:49.11,Default,Jeida,0,0,0,,They're unusually frightened.
+Dialogue: 0,0:00:50.34,0:00:52.60,Default,Gaya,0,0,0,,As expected in the Forest of Evil.
+Dialogue: 0,0:00:56.07,0:00:57.18,Italics - Isekai,Noriko; Internal (J),0,0,0,,I'm scared...
+Dialogue: 0,0:00:57.73,0:01:01.03,Italics - Isekai,Noriko; Internal (J),0,0,0,,But everyone else is so amazing.
+Dialogue: 0,0:01:01.03,0:01:04.63,Italics - Isekai,Noriko; Internal (J),0,0,0,,This must be their resolve \Nto keep fighting.
+Dialogue: 0,0:01:04.63,0:01:11.13,Italics - Isekai,Noriko; Internal (J),0,0,0,,Geena is clinging onto Mr. Agol, but she \Nstill has her fortune-telling powers.
+Dialogue: 0,0:01:11.58,0:01:13.74,Italics - Isekai,Noriko; Internal (J),0,0,0,,Will I be all right?
+Dialogue: 0,0:01:14.32,0:01:18.80,Italics - Isekai,Noriko; Internal (J),0,0,0,,All I have is the power to communicate \Ntelepathically with Izark.
+Dialogue: 0,0:01:20.55,0:01:23.32,Default,Gaya,0,0,0,,What's with that glittering bag?
+Dialogue: 0,0:01:23.32,0:01:24.77,Default,Barago,0,0,0,,It's the prize money.
+Dialogue: 0,0:01:24.77,0:01:25.65,Default,Gaya,0,0,0,,Prize money?
+Dialogue: 0,0:01:25.95,0:01:30.02,Default,Izark,0,0,0,,That idiot said he'd give me twenty \Nbags of gold if I won the match.
+Dialogue: 0,0:01:30.22,0:01:34.64,Default,Gaya,0,0,0,,So, you took advantage of the fact \Nthat he was unconscious to grab it?
+Dialogue: 0,0:01:35.24,0:01:36.71,Default,Gaya,0,0,0,,You...
+Dialogue: 0,0:01:40.08,0:01:41.74,Default,Gaya,0,0,0,,Good job!
+Dialogue: 0,0:01:41.74,0:01:44.30,Default,Gaya,0,0,0,,We'll need money from here on out.
+Dialogue: 0,0:01:44.30,0:01:46.51,Default,Gaya,0,0,0,,Well, it was the money he promised you!
+Dialogue: 0,0:01:46.51,0:01:48.42,Default,Gaya,0,0,0,,What's wrong with taking it?
+Dialogue: 0,0:01:48.75,0:01:52.36,Default,Gaya,0,0,0,,You should've taken the \Nchance to take more from him!
+Dialogue: 0,0:01:53.16,0:01:56.66,Default,Izark,0,0,0,,Well, let's go. Noriko, stay close to me.
+Dialogue: 0,0:01:57.30,0:01:58.43,Default,Noriko,0,0,0,,Yes!
+Dialogue: 0,0:02:01.03,0:02:05.55,Default,Barago,0,0,0,,I never thought he'd \Ntake revenge like that.
+Dialogue: 0,0:02:05.55,0:02:06.80,Default,Gaya,0,0,0,,What did he do?
+Dialogue: 0,0:02:07.20,0:02:11.56,Default,Barago,0,0,0,,As we were running away, \NIzark wrote on Nada's face!
+Dialogue: 0,0:02:12.14,0:02:14.56,Default,Servant,0,0,0,,We've found Lord Nada! He's safe!
+Dialogue: 0,0:02:14.56,0:02:15.95,Default,Kemil,0,0,0,,Lord Nada!
+Dialogue: 0,0:02:15.95,0:02:17.51,Default,Kemil,0,0,0,,I'm so glad you are safe!
+Dialogue: 0,0:02:18.33,0:02:21.36,Default,Kemil,0,0,0,,Who wrote "idiot" on his face?!
+Dialogue: 0,0:02:21.36,0:02:22.40,Default,Servant,0,0,0,,We don't know!
+Dialogue: 0,0:02:22.40,0:02:24.38,Default,Kemil,0,0,0,,Wipe it off before he wakes up!
+Dialogue: 0,0:02:24.38,0:02:26.90,Default,Maid,0,0,0,,It's written with dye! It won't come off!
+Dialogue: 0,0:02:34.13,0:02:35.84,italics,Irktule,0,0,0,,She has come...
+Dialogue: 0,0:02:49.53,0:02:51.31,italics,Irktule,0,0,0,,She has come!
+Dialogue: 0,0:03:00.20,0:03:06.41,top,text,0,0,0,,FROM FAR AWAY
+Dialogue: 0,0:04:23.45,0:04:27.66,top,text,0,0,0,,EPISODE 8: \NWHITE MIST WOODS
+Dialogue: 0,0:04:29.85,0:04:32.15,Default,Rontarna,0,0,0,,There was a settlement here?
+Dialogue: 0,0:04:32.50,0:04:38.00,Default,Jeida,0,0,0,,I heard the people of this settlement used \Nto hunt nearby and cultivate mushrooms.
+Dialogue: 0,0:04:38.00,0:04:41.24,Default,Rontarna,0,0,0,,I can't believe people used to \Nlive in a place like this...
+Dialogue: 0,0:04:41.71,0:04:44.72,Default,Jeida,0,0,0,,It was decades ago...
+Dialogue: 0,0:04:44.94,0:04:48.30,Default,Jeida,0,0,0,,Back then, this place \Nwas a peaceful forest...
+Dialogue: 0,0:04:54.46,0:04:56.24,Default,Barago,0,0,0,,That surprised me.
+Dialogue: 0,0:04:56.98,0:04:59.80,Default,Barago,0,0,0,,I was just wondering if \Nthere was anything to eat.
+Dialogue: 0,0:04:59.80,0:05:01.74,Default,Banadam,0,0,0,,Damn. You're such a glutton.
+Dialogue: 0,0:05:01.99,0:05:02.87,Default,Barago,0,0,0,,What?!
+Dialogue: 0,0:05:02.87,0:05:04.02,Default,Rontarna,0,0,0,,Banadam!
+Dialogue: 0,0:05:05.85,0:05:08.51,Italics - Isekai,Noriko; Internal (J),0,0,0,,Banadam seems to be on \Nedge for some reason.
+Dialogue: 0,0:05:10.59,0:05:12.25,Default,Noriko,0,0,0,,Oh. I'm sorry.
+Dialogue: 0,0:05:13.37,0:05:15.74,Default,Jeida,0,0,0,,The fact that we've come \Nacross the settlement here
+Dialogue: 0,0:05:15.74,0:05:18.80,Default,Jeida,0,0,0,,means we've made it to the \Ncenter of the forest.
+Dialogue: 0,0:05:18.80,0:05:21.44,Default,Jeida,0,0,0,,We're halfway there. Let's do our best.
+Dialogue: 0,0:05:24.38,0:05:27.45,Default,Agol,0,0,0,,I wonder where all the inhabitants went.
+Dialogue: 0,0:05:27.45,0:05:30.13,Default,Geena,0,0,0,,I can't see anything about the past.
+Dialogue: 0,0:05:30.13,0:05:35.09,Default,Gaya,0,0,0,,I'm guessing they all ran away \Nonce the monster appeared.
+Dialogue: 0,0:05:42.98,0:05:45.83,Default,Rontarna,0,0,0,,Doesn't this look like the \Nsettlement we just saw?
+Dialogue: 0,0:05:45.83,0:05:47.83,Default,Gaya,0,0,0,,No, no way.
+Dialogue: 0,0:05:47.83,0:05:50.61,Default,Gaya,0,0,0,,Most settlements look pretty similar.
+Dialogue: 0,0:05:50.61,0:05:51.90,Default,Barago,0,0,0,,He's not wrong.
+Dialogue: 0,0:05:52.38,0:05:54.66,Default,Barago,0,0,0,,This is definitely the same settlement.
+Dialogue: 0,0:05:56.66,0:05:58.42,Default,Banadam,0,0,0,,What the hell is going on?!
+Dialogue: 0,0:05:58.79,0:06:00.59,Default,Jeida,0,0,0,,Let's proceed carefully.
+Dialogue: 0,0:06:00.59,0:06:04.33,Default,Jeida,0,0,0,,We'll mark the entrance of \Nthe settlement this time.
+Dialogue: 0,0:06:16.22,0:06:17.65,Default,Rontarna,0,0,0,,You've got to be kidding me...
+Dialogue: 0,0:06:17.94,0:06:20.93,Default,Banadam,0,0,0,,Once you enter, you can never leave...
+Dialogue: 0,0:06:21.19,0:06:23.72,Default,Banadam,0,0,0,,Is this why they call this \Nthe Forest of Evil?!
+Dialogue: 0,0:06:24.51,0:06:28.83,Default,Koriki,0,0,0,,L-Let's try again. We'll be \Nmore careful this time...
+Dialogue: 0,0:06:28.83,0:06:29.81,Default,Banadam,0,0,0,,It's useless!
+Dialogue: 0,0:06:29.81,0:06:33.07,Default,Banadam,0,0,0,,We'll just keep doing the same thing \Nand wear ourselves out!
+Dialogue: 0,0:06:33.33,0:06:36.45,Default,Barago,0,0,0,,Hey, Izark. Any ideas?
+Dialogue: 0,0:06:36.62,0:06:39.94,Default,Izark,0,0,0,,No. This is a first for me, too.
+Dialogue: 0,0:06:42.20,0:06:46.91,Default,Banadam,0,0,0,,Even with that monstrous power, \Nyou're useless when it matters.
+Dialogue: 0,0:06:46.91,0:06:48.24,Default,Banadam,0,0,0,,What a disappointment.
+Dialogue: 0,0:06:48.24,0:06:51.59,Default,Gaya,0,0,0,,Banadam! Watch what you say!
+Dialogue: 0,0:06:51.59,0:06:53.05,Default,Banadam,0,0,0,,I'm just speaking the truth!
+Dialogue: 0,0:06:53.05,0:06:56.26,Default,Banadam,0,0,0,,Everyone is thinking the \Nsame thing, right?!
+Dialogue: 0,0:06:56.26,0:06:59.49,Italics - Isekai,Noriko; Internal (J),0,0,0,,Banadam has been irritated \Nthis whole time...
+Dialogue: 0,0:06:59.49,0:07:02.38,Italics - Isekai,Noriko; Internal (J),0,0,0,,Ever since we entered this forest...
+Dialogue: 0,0:07:03.85,0:07:06.61,Default,Banadam,0,0,0,,This is all Gaya's fault \Nin the first place!
+Dialogue: 0,0:07:07.05,0:07:09.86,Default,Banadam,0,0,0,,It's because Gaya took that \Nkid's words so seriously!
+Dialogue: 0,0:07:10.94,0:07:13.12,Default,Agol,0,0,0,,Hey, don't talk like that \Nin front of a child!
+Dialogue: 0,0:07:13.12,0:07:14.53,Default,Banadam,0,0,0,,I'm right, though!
+Dialogue: 0,0:07:14.53,0:07:16.45,Default,Banadam,0,0,0,,If we went through the \Ncheckpoints as I suggested,
+Dialogue: 0,0:07:16.45,0:07:17.74,Default,Banadam,0,0,0,,everything would've been fine!
+Dialogue: 0,0:07:17.74,0:07:22.55,Default,Barago,0,0,0,,It's pointless to say that now, but you \Njust keep going on and on. How annoying!
+Dialogue: 0,0:07:22.55,0:07:26.10,Default,Jeida,0,0,0,,Banadam, you are in the wrong. Apologize.
+Dialogue: 0,0:07:26.10,0:07:27.75,Default,Koriki,0,0,0,,Th-That's right!
+Dialogue: 0,0:07:28.85,0:07:31.51,Default,Banadam,0,0,0,,Wh-What's wrong with all of you?
+Dialogue: 0,0:07:33.50,0:07:37.63,Default,Banadam,0,0,0,,I only spoke the truth! \NWhat's wrong with that?!
+Dialogue: 0,0:07:37.63,0:07:38.88,Default,Noriko,0,0,0,,Wrong!
+Dialogue: 0,0:07:41.16,0:07:43.30,Default,Noriko,0,0,0,,Everyone, this is wrong!
+Dialogue: 0,0:07:43.30,0:07:44.49,Default,Noriko,0,0,0,,Horses...
+Dialogue: 0,0:07:44.49,0:07:47.56,Default,Noriko,0,0,0,,Like the horses... This is the same.
+Dialogue: 0,0:07:47.56,0:07:50.14,Default,Banadam,0,0,0,,What nonsense are you talking about?
+Dialogue: 0,0:07:50.14,0:07:51.74,Default,Banadam,0,0,0,,You're in the way! Move!
+Dialogue: 0,0:07:54.62,0:07:59.82,Default,Izark,0,0,0,,Something is trying to drive \Nus mad, just like the horses.
+Dialogue: 0,0:08:00.23,0:08:01.95,Default,Izark,0,0,0,,That's what Noriko is trying to say.
+Dialogue: 0,0:08:05.28,0:08:06.75,Default,Banadam,0,0,0,,N-No way!
+Dialogue: 0,0:08:06.75,0:08:10.02,Default,Banadam,0,0,0,,Then, are you saying that \NI'm crazy right now?!
+Dialogue: 0,0:08:10.02,0:08:12.29,Default,Banadam,0,0,0,,I haven't said anything strange!
+Dialogue: 0,0:08:12.56,0:08:15.30,Default,Noriko,0,0,0,,But Banadam was kind!
+Dialogue: 0,0:08:16.97,0:08:18.39,flashback,Banadam,0,0,0,,Sorry...
+Dialogue: 0,0:08:18.67,0:08:21.45,Default,Noriko,0,0,0,,You had the power to apologize!
+Dialogue: 0,0:08:22.03,0:08:23.14,flashback,Banadam,0,0,0,,Thank you.
+Dialogue: 0,0:08:23.61,0:08:25.97,Default,Noriko,0,0,0,,You know thank you!
+Dialogue: 0,0:08:25.97,0:08:28.87,Default,Noriko,0,0,0,,You never say something \Nterrible to a weak child!
+Dialogue: 0,0:08:29.85,0:08:31.09,Default,Banadam,0,0,0,,I...
+Dialogue: 0,0:08:32.56,0:08:33.95,Default,Noriko,0,0,0,,Remember!
+Dialogue: 0,0:08:45.60,0:08:46.57,Default,Banadam,0,0,0,,I...
+Dialogue: 0,0:08:48.04,0:08:50.03,Default,Banadam,0,0,0,,I can't believe I...
+Dialogue: 0,0:08:52.49,0:08:55.43,Default,Banadam,0,0,0,,Noriko, thank you.
+Dialogue: 0,0:08:59.35,0:09:01.13,Default,Gaya,0,0,0,,It's raining so suddenly!
+Dialogue: 0,0:09:01.13,0:09:02.45,Default,Agol,0,0,0,,It's raining so hard!
+Dialogue: 0,0:09:02.45,0:09:03.43,Default,Barago,0,0,0,,So cold!
+Dialogue: 0,0:09:03.43,0:09:04.96,Default,Agol,0,0,0,,Let's all take cover!
+Dialogue: 0,0:09:12.00,0:09:16.48,Default,Banadam,0,0,0,,I've been feeling really irritated \Nsince we entered the forest.
+Dialogue: 0,0:09:16.48,0:09:20.10,Default,Banadam,0,0,0,,I started to think it was \Nbecause of everyone around me
+Dialogue: 0,0:09:20.10,0:09:22.50,Default,Banadam,0,0,0,,and began to nitpick defensively.
+Dialogue: 0,0:09:22.93,0:09:25.12,Default,Banadam,0,0,0,,I have no idea how I've \Nbecome this way...
+Dialogue: 0,0:09:28.70,0:09:32.27,Default,Jeida,0,0,0,,That was certainly unlike Banadam.
+Dialogue: 0,0:09:32.27,0:09:36.12,Default,Koriki,0,0,0,,Yeah... I mean, he's always been \Na little short-tempered...
+Dialogue: 0,0:09:36.44,0:09:38.38,Default,Rontarna,0,0,0,,And a little simple-minded.
+Dialogue: 0,0:09:38.38,0:09:40.94,Default,Gaya,0,0,0,,Hot-blooded and reckless,
+Dialogue: 0,0:09:40.94,0:09:44.07,Default,Gaya,0,0,0,,but he's definitely not the type of \Nkid who would say things like that.
+Dialogue: 0,0:09:45.37,0:09:49.80,Default,Gaya,0,0,0,,Even so, we were affected \Nby the madness enough
+Dialogue: 0,0:09:49.80,0:09:51.66,Default,Gaya,0,0,0,,to not notice the anomaly.
+Dialogue: 0,0:09:52.48,0:09:56.65,Default,Banadam,0,0,0,,Um, so that's how all \Nof you thought of me?
+Dialogue: 0,0:10:00.37,0:10:03.10,Default,Agol,0,0,0,,Geena, can you see anything?
+Dialogue: 0,0:10:03.10,0:10:05.73,Default,Geena,0,0,0,,No, I'm sorry.
+Dialogue: 0,0:10:05.73,0:10:10.54,Default,Geena,0,0,0,,I was the one who saw this place... \Nand now, I can't see anything...
+Dialogue: 0,0:10:10.98,0:10:11.99,Default,Banadam/Gaya,0,0,0,,Oh.
+Dialogue: 0,0:10:12.74,0:10:15.87,Default,Banadam,0,0,0,,I'm sorry if what I said \Nearlier bothered you.
+Dialogue: 0,0:10:15.87,0:10:17.40,Default,Banadam,0,0,0,,I didn't mean it.
+Dialogue: 0,0:10:17.40,0:10:21.95,Default,Gaya,0,0,0,,Geena, Big Brother is bowing down \Nand apologizing! Bowing down!
+Dialogue: 0,0:10:21.95,0:10:23.15,Default,Banadam,0,0,0,,I'm sorry!
+Dialogue: 0,0:10:28.18,0:10:30.26,Default,Noriko,0,0,0,,Banadam is funny.
+Dialogue: 0,0:10:32.70,0:10:35.05,Italics - Isekai,Noriko; Internal (J),0,0,0,,I'm glad he's back to normal.
+Dialogue: 0,0:10:35.05,0:10:37.48,Italics - Isekai,Noriko; Internal (J),0,0,0,,He's much better like this.
+Dialogue: 0,0:10:40.47,0:10:42.79,flashback,Noriko,0,0,0,,But Banadam was kind!
+Dialogue: 0,0:10:46.14,0:10:51.46,Default,Jeida,0,0,0,,In short, it seems we must be \Ncareful of our own hearts here.
+Dialogue: 0,0:10:51.80,0:10:53.95,Default,Jeida,0,0,0,,Don't let yourselves be swayed.
+Dialogue: 0,0:10:53.95,0:10:58.74,Default,Jeida,0,0,0,,You must always be able to \Nobserve yourself objectively.
+Dialogue: 0,0:11:02.29,0:11:06.91,Default,Jeida,0,0,0,,We were able to get out of such a tense \Nsituation thanks to you, Noriko.
+Dialogue: 0,0:11:06.91,0:11:08.98,Default,Jeida,0,0,0,,Thank you. You saved all of us.
+Dialogue: 0,0:11:09.29,0:11:12.56,Default,Noriko,0,0,0,,I was thanked. Thanks to Izark.
+Dialogue: 0,0:11:12.56,0:11:14.20,Default,Izark,0,0,0,,I didn't do anything.
+Dialogue: 0,0:11:14.54,0:11:17.48,Default,Noriko,0,0,0,,But words you said for me saved us.
+Dialogue: 0,0:11:18.20,0:11:21.51,Italics - Isekai,Noriko; Internal (J),0,0,0,,I'm so happy I was of some help.
+Dialogue: 0,0:11:23.22,0:11:27.49,italics,Izark; Internal,0,0,0,,I wonder what would have happened \Nto me if Noriko didn't step in.
+Dialogue: 0,0:11:28.20,0:11:30.68,flashback,Banadam,0,0,0,,Even with that monstrous power...
+Dialogue: 0,0:11:33.74,0:11:35.38,flashback,Mother,0,0,0,,No! Don't come any closer!
+Dialogue: 0,0:11:35.70,0:11:37.55,flashback,Mother,0,0,0,,You monster!
+Dialogue: 0,0:11:37.55,0:11:38.54,flashback,Izark,0,0,0,,Mom...
+Dialogue: 0,0:11:39.49,0:11:41.78,italics,Izark; Internal,0,0,0,,That's a line I'm used to hearing.
+Dialogue: 0,0:11:41.78,0:11:43.83,italics,Izark; Internal,0,0,0,,Why am I so shaken now?
+Dialogue: 0,0:11:44.53,0:11:47.89,italics,Izark; Internal,0,0,0,,What am I afraid of?
+Dialogue: 0,0:11:48.48,0:11:52.42,italics,Izark; Internal,0,0,0,,Am I afraid of the day I turn into \Na monster because of the Awakening?
+Dialogue: 0,0:11:53.49,0:11:54.87,italics,Izark; Internal,0,0,0,,Or...
+Dialogue: 0,0:11:56.73,0:12:01.12,italics,Izark; Internal,0,0,0,,Is it the day that Noriko will \Nbecome afraid and leave me?
+Dialogue: 0,0:12:03.12,0:12:04.61,Default,Evil Voice,0,0,0,,Kill them...
+Dialogue: 0,0:12:05.59,0:12:07.22,Default,Evil Voice,0,0,0,,Kill them.
+Dialogue: 0,0:12:08.27,0:12:09.87,Default,Evil Voice,0,0,0,,Kill them!
+Dialogue: 0,0:12:14.59,0:12:16.07,Default,Agol,0,0,0,,The sound of the rain...?
+Dialogue: 0,0:12:17.70,0:12:18.67,Default,Izark,0,0,0,,Something's coming!
+Dialogue: 0,0:12:23.96,0:12:24.75,Default,Izark,0,0,0,,Noriko!
+Dialogue: 0,0:12:28.76,0:12:30.09,Default,Barago,0,0,0,,What the hell is that?!
+Dialogue: 0,0:12:30.09,0:12:32.47,Default,Gaya,0,0,0,,This must be it! The rumored monster!
+Dialogue: 0,0:12:36.99,0:12:40.24,Default,Izark,0,0,0,,This thing is targeting just Noriko!
+Dialogue: 0,0:12:44.64,0:12:45.60,Default,Izark,0,0,0,,Noriko!
+Dialogue: 0,0:12:47.87,0:12:48.90,Default,Banadam,0,0,0,,Outside!
+Dialogue: 0,0:12:51.55,0:12:52.95,Default,Izark,0,0,0,,Noriko!
+Dialogue: 0,0:12:58.83,0:13:03.94,Default,Noriko,0,0,0,,Izark! Izark! Izark!
+Dialogue: 0,0:13:05.81,0:13:07.53,Default,Banadam,0,0,0,,What the hell is that thing?!
+Dialogue: 0,0:13:07.53,0:13:09.33,Default,Izark,0,0,0,,Catch Noriko when she falls!
+Dialogue: 0,0:13:09.33,0:13:10.18,Default,Banadam,0,0,0,,Huh?
+Dialogue: 0,0:13:13.58,0:13:14.86,Default,Noriko,0,0,0,,Izark!
+Dialogue: 0,0:13:25.61,0:13:27.42,Default,Banadam,0,0,0,,A-Are you okay?
+Dialogue: 0,0:13:27.42,0:13:29.52,Default,Noriko,0,0,0,,Y-Yeah. Thank you.
+Dialogue: 0,0:13:29.84,0:13:31.05,Default,Noriko,0,0,0,,Where's Izark?!
+Dialogue: 0,0:13:37.00,0:13:37.99,Default,Noriko,0,0,0,,Izark!
+Dialogue: 0,0:13:43.01,0:13:46.02,Default,Agol,0,0,0,,This is just like human hair...
+Dialogue: 0,0:13:47.76,0:13:49.01,Default,Agol,0,0,0,,Please take care of Geena for me!
+Dialogue: 0,0:13:54.12,0:13:55.05,Default,Noriko,0,0,0,,Izark?!
+Dialogue: 0,0:13:55.39,0:13:58.66,Default,Izark,0,0,0,,Everyone... Protect Noriko...
+Dialogue: 0,0:14:00.79,0:14:03.57,Default,Noriko,0,0,0,,No! Izark!
+Dialogue: 0,0:14:02.73,0:14:03.57,top,Banadam,0,0,0,,Noriko!
+Dialogue: 0,0:14:03.79,0:14:07.56,Default,Noriko,0,0,0,,Izark! Izark! Izark!
+Dialogue: 0,0:14:10.58,0:14:11.94,italics,Noriko; Internal,0,0,0,,Izark!
+Dialogue: 0,0:14:13.45,0:14:14.57,italics,Izark,0,0,0,,Noriko...
+Dialogue: 0,0:14:15.12,0:14:16.07,italics,Izark,0,0,0,,Noriko!
+Dialogue: 0,0:14:17.08,0:14:18.91,italics,Izark,0,0,0,,I'm okay.
+Dialogue: 0,0:14:19.35,0:14:23.57,italics,Izark,0,0,0,,It's trying to crush me, \Nbut I'm holding on.
+Dialogue: 0,0:14:24.44,0:14:25.79,Default,Noriko,0,0,0,,Izark...
+Dialogue: 0,0:14:35.56,0:14:36.56,Default,Geena,0,0,0,,Dad.
+Dialogue: 0,0:14:37.39,0:14:38.31,Default,Barago,0,0,0,,Agol! What are you doing?!
+Dialogue: 0,0:14:38.57,0:14:42.54,Default,Agol,0,0,0,,Fire! If it's a monster made of hair, \Nit should be weak against fire!
+Dialogue: 0,0:14:43.88,0:14:44.69,Default,Agol,0,0,0,,It lit!
+Dialogue: 0,0:14:47.68,0:14:49.61,Default,Banadam,0,0,0,,Let's bring out more \Nfire from the house...
+Dialogue: 0,0:14:58.18,0:14:59.41,Default,Gaya,0,0,0,,It blocked the entrance!
+Dialogue: 0,0:15:17.41,0:15:19.82,Default,Izark,0,0,0,,Run! Please run!
+Dialogue: 0,0:15:19.82,0:15:21.53,Default,Izark,0,0,0,,Don't be caught by this thing!
+Dialogue: 0,0:15:22.37,0:15:25.27,Default,Agol,0,0,0,,Gaya! Barago! Rontarna! \NTake Noriko and run!
+Dialogue: 0,0:15:25.51,0:15:27.66,Default,Agol,0,0,0,,Everyone else, find something \Nto light on fire!
+Dialogue: 0,0:15:27.87,0:15:28.67,Default,Noriko,0,0,0,,But...
+Dialogue: 0,0:15:28.67,0:15:30.04,Default,Banadam,0,0,0,,Go, Noriko!
+Dialogue: 0,0:15:31.50,0:15:32.89,Default,Barago,0,0,0,,We'll leave it to you!
+Dialogue: 0,0:15:33.64,0:15:35.14,Default,Gaya,0,0,0,,Let's go, Noriko.
+Dialogue: 0,0:15:35.14,0:15:36.54,Default,Noriko,0,0,0,,But! But!
+Dialogue: 0,0:15:36.54,0:15:40.04,Default,Noriko,0,0,0,,I'm sorry! I'm sorry! I'm sorry!
+Dialogue: 0,0:15:40.04,0:15:42.41,Default,Gaya,0,0,0,,Why are you apologizing, Noriko?
+Dialogue: 0,0:15:44.10,0:15:49.22,Italics - Isekai,Noriko; Internal (J),0,0,0,,Everyone is in trouble \Nbecause I'm so weak!
+Dialogue: 0,0:15:49.22,0:15:53.18,Italics - Isekai,Noriko; Internal (J),0,0,0,,If only I had the power \Nto protect others!
+Dialogue: 0,0:15:59.49,0:16:01.72,Default,Barago,0,0,0,,Is something wrong with my eyes?
+Dialogue: 0,0:16:02.26,0:16:04.37,Default,Gaya,0,0,0,,This has nothing to do with your eyes.
+Dialogue: 0,0:16:04.37,0:16:06.12,Default,Gaya,0,0,0,,Mist is rolling in!
+Dialogue: 0,0:16:17.89,0:16:22.70,italics,Izark; Internal,0,0,0,,It looks like I have no choice but to \Nrely on the power sleeping inside of me.
+Dialogue: 0,0:16:23.17,0:16:25.03,italics,Izark; Internal,0,0,0,,Focus...
+Dialogue: 0,0:16:26.05,0:16:29.09,italics,Izark; Internal,0,0,0,,I have to be careful,\Nso I don't lose control...
+Dialogue: 0,0:16:29.43,0:16:32.77,Default,Monster,0,0,0,,Danger... Danger... Danger...
+Dialogue: 0,0:16:33.24,0:16:34.60,Default,Monster,0,0,0,,Won't let you!
+Dialogue: 0,0:16:46.52,0:16:48.50,flashback,Mom,0,0,0,,You're not my child!
+Dialogue: 0,0:16:48.50,0:16:49.72,flashback,Izark,0,0,0,,I didn't...
+Dialogue: 0,0:16:49.72,0:16:51.35,flashback,Mother,0,0,0,,No! Don't come any closer!
+Dialogue: 0,0:16:51.35,0:16:53.11,flashback,Mother,0,0,0,,You monster!
+Dialogue: 0,0:16:53.33,0:16:55.27,flashback,People,0,0,0,,Don't get close to him.
+Dialogue: 0,0:16:55.76,0:16:58.12,flashback,Mother,0,0,0,,Die, Izark!
+Dialogue: 0,0:16:58.87,0:17:00.12,flashback,Izark,0,0,0,,Mom!
+Dialogue: 0,0:17:02.79,0:17:06.01,flashback,Mom,0,0,0,,The knife... The knife \Nstabbed my shoulder!
+Dialogue: 0,0:17:06.01,0:17:07.74,flashback,Mom,0,0,0,,No!
+Dialogue: 0,0:17:08.19,0:17:09.64,Default,Izark,0,0,0,,Stop it!
+Dialogue: 0,0:17:09.64,0:17:11.25,italics,Izark; Internal,0,0,0,,This is a mental attack.
+Dialogue: 0,0:17:11.57,0:17:16.33,italics,Izark; Internal,0,0,0,,My brain is reacting to the fear and \Nanxiety this thing is feeding me...
+Dialogue: 0,0:17:17.26,0:17:21.77,flashback,Father,0,0,0,,We'll be able to prosper \Nbecause we're raising you.
+Dialogue: 0,0:17:21.77,0:17:27.28,flashback,Father,0,0,0,,We signed a contract to raise you \Nuntil you become the Sky Demon!
+Dialogue: 0,0:17:27.28,0:17:29.73,italics,Izark; Internal,0,0,0,,Stop it!
+Dialogue: 0,0:17:29.73,0:17:32.73,italics,Izark; Internal,0,0,0,,My consciousness is \Nbeing drawn to my past!
+Dialogue: 0,0:17:37.52,0:17:40.54,Default,Barago,0,0,0,,We escaped from that monster,
+Dialogue: 0,0:17:40.54,0:17:43.09,Default,Barago,0,0,0,,but we've also been separated \Nfrom Agol and the others.
+Dialogue: 0,0:17:43.09,0:17:47.41,Default,Gaya,0,0,0,,We're definitely still \Nin the forest though.
+Dialogue: 0,0:17:47.41,0:17:49.81,Default,Rontarna,0,0,0,,We need to reunite with \Nthe others somehow.
+Dialogue: 0,0:17:53.79,0:17:55.64,Default,Gaya,0,0,0,,Noriko, give me your hand.
+Dialogue: 0,0:17:55.64,0:17:58.81,Default,Gaya,0,0,0,,We'll easily lose sight of you in \Nthis fog if you fall behind.
+Dialogue: 0,0:17:58.81,0:18:00.58,Default,Noriko,0,0,0,,Oh, yes.
+Dialogue: 0,0:18:04.44,0:18:06.08,Default,Gaya,0,0,0,,Noriko!
+Dialogue: 0,0:18:07.95,0:18:11.09,flashback,Izark,0,0,0,,You're lying! I'm nothing like that!
+Dialogue: 0,0:18:11.09,0:18:13.22,flashback,Mother,0,0,0,,You'll become a monster someday!
+Dialogue: 0,0:18:13.22,0:18:15.23,flashback,Father,0,0,0,,We made a contract with a demon.
+Dialogue: 0,0:18:15.96,0:18:17.11,flashback,Mother,0,0,0,,The blood!
+Dialogue: 0,0:18:17.35,0:18:19.00,flashback,People,0,0,0,,Don't get close to him.
+Dialogue: 0,0:18:20.74,0:18:22.05,flashback,Man 1,0,0,0,,H-He's a monster!
+Dialogue: 0,0:18:22.75,0:18:23.60,flashback,Man 2,0,0,0,,Monster!
+Dialogue: 0,0:18:23.11,0:18:23.74,flashbacktop,Banadam,0,0,0,,Monster!
+Dialogue: 0,0:18:25.00,0:18:26.00,flashback,Mother,0,0,0,,Monster!
+Dialogue: 0,0:18:34.01,0:18:35.67,flashback,Noriko,0,0,0,,I wanted to see you.
+Dialogue: 0,0:18:36.83,0:18:37.76,italics,Izark; Internal,0,0,0,,Noriko!
+Dialogue: 0,0:18:56.61,0:18:57.86,Default,Irktule,0,0,0,,Noriko...
+Dialogue: 0,0:19:00.13,0:19:02.95,Default,Irktule,0,0,0,,Wake up. Hurry!
+Dialogue: 0,0:19:04.35,0:19:05.44,Default,Irktule,0,0,0,,Noriko!
+Dialogue: 0,0:19:09.46,0:19:11.63,Default,Noriko,0,0,0,,What's this sound?
+Dialogue: 0,0:19:11.63,0:19:14.26,Default,Irktule,0,0,0,,Wake up! It's coming!
+Dialogue: 0,0:19:14.75,0:19:15.99,Default,Noriko,0,0,0,,N-No way!
+Dialogue: 0,0:19:15.99,0:19:18.65,Default,Noriko,0,0,0,,Where? Where is it coming from?
+Dialogue: 0,0:19:18.65,0:19:20.55,Default,Noriko,0,0,0,,I can't see anything!
+Dialogue: 0,0:19:20.55,0:19:24.06,Default,Irktule,0,0,0,,Look over here, \Nin the direction of my image.
+Dialogue: 0,0:19:25.63,0:19:29.30,Default,Irktule,0,0,0,,Those are the remains of \Nthe forest dwellers.
+Dialogue: 0,0:19:29.80,0:19:32.22,Default,Irktule,0,0,0,,Help them, Noriko.
+Dialogue: 0,0:19:35.42,0:19:38.26,Italics - Isekai,Noriko; Internal (J),0,0,0,,The ghost from that night?
+Dialogue: 0,0:19:39.90,0:19:42.17,italics,Irktule; Internal,0,0,0,,What started it all?
+Dialogue: 0,0:19:42.17,0:19:45.38,italics,Irktule; Internal,0,0,0,,It was something so trivial, \Nno one can even remember.
+Dialogue: 0,0:19:46.14,0:19:50.54,italics,Irktule; Internal,0,0,0,,One argument... that eventually \Nengulfed everyone around it...
+Dialogue: 0,0:19:50.54,0:19:55.14,italics,Irktule; Internal,0,0,0,,That's what summoned that thing. \NIt was the beginning of a tragedy.
+Dialogue: 0,0:19:56.25,0:19:59.47,italics,Irktule; Internal,0,0,0,,Anger, hatred, and sadness...
+Dialogue: 0,0:19:59.80,0:20:02.50,italics,Irktule; Internal,0,0,0,,It filled their hearts \Nwith such things...
+Dialogue: 0,0:20:02.94,0:20:07.89,italics,Irktule; Internal,0,0,0,,Before they drew their blades\N and started killing each other...
+Dialogue: 0,0:20:08.31,0:20:11.19,italics,Irktule; Internal,0,0,0,,I wanted them to realize\N they were being manipulated.
+Dialogue: 0,0:20:13.04,0:20:14.93,Default,Noriko,0,0,0,,Then, is everyone...
+Dialogue: 0,0:20:15.41,0:20:16.97,Default,Irktule,0,0,0,,No one is left.
+Dialogue: 0,0:20:17.51,0:20:21.36,Default,Irktule,0,0,0,,All that's left are the \Nsouls trapped in hatred...
+Dialogue: 0,0:20:21.62,0:20:23.09,Default,Noriko,0,0,0,,No way!
+Dialogue: 0,0:20:23.09,0:20:27.61,Default,Irktule,0,0,0,,Clad in the souls filled with \Nhatred, it took that form.
+Dialogue: 0,0:20:28.74,0:20:31.68,Default,Irktule,0,0,0,,Then, it created a \Nbarrier over the forest,
+Dialogue: 0,0:20:31.68,0:20:36.62,Default,Irktule,0,0,0,,so none of the souls of the \Ninhabitants could leave...
+Dialogue: 0,0:20:38.51,0:20:40.81,Default,Irktule,0,0,0,,But I can hear them.
+Dialogue: 0,0:20:41.19,0:20:45.34,Default,Irktule,0,0,0,,The voices of the souls that have \Nrealized that something is wrong,
+Dialogue: 0,0:20:45.34,0:20:47.77,Default,Irktule,0,0,0,,even while being manipulated, \Nand are struggling to get free.
+Dialogue: 0,0:20:48.13,0:20:49.09,Default,Noriko,0,0,0,,Huh?
+Dialogue: 0,0:20:50.06,0:20:53.71,Default,Irktule,0,0,0,,I want to create an exit. Please help.
+Dialogue: 0,0:20:54.30,0:20:58.36,Default,Irktule,0,0,0,,As long as there's an exit,\Nyou can save everyone's souls.
+Dialogue: 0,0:20:58.94,0:21:00.84,Default,Irktule,0,0,0,,And your companions, too.
+Dialogue: 0,0:21:01.71,0:21:07.60,Default,Noriko,0,0,0,,U-Um, can I really help?
+Dialogue: 0,0:21:07.96,0:21:09.17,Default,Irktule,0,0,0,,Yes.
+Dialogue: 0,0:21:09.17,0:21:12.04,Default,Noriko,0,0,0,,But I have no powers...
+Dialogue: 0,0:21:12.58,0:21:13.86,Default,Irktule,0,0,0,,It's fine.
+Dialogue: 0,0:21:14.20,0:21:17.16,Default,Irktule,0,0,0,,It's something that you \Ncan do just as yourself.
+Dialogue: 0,0:21:18.65,0:21:20.42,Default,Noriko,0,0,0,,Just as myself...?
+Dialogue: 0,0:21:25.52,0:21:27.64,italics,Noriko; Internal,0,0,0,,M-My head!
+Dialogue: 0,0:21:32.83,0:21:35.06,italics,Izark; Internal,0,0,0,,I used too much power!
+Dialogue: 0,0:21:35.06,0:21:37.49,italics,Izark; Internal,0,0,0,,Every cell in my body is pulsing.
+Dialogue: 0,0:21:37.49,0:21:41.16,italics,Izark; Internal,0,0,0,,It's trying to turn me \Ninto something I'm not!
+Dialogue: 0,0:21:41.16,0:21:43.14,italics,Izark; Internal,0,0,0,,Shit! Calm down!
+Dialogue: 0,0:21:43.14,0:21:44.44,italics,Izark; Internal,0,0,0,,Calm down!
+Dialogue: 0,0:21:44.44,0:21:45.78,Default,Agol,0,0,0,,Izark?!
+Dialogue: 0,0:21:45.78,0:21:46.69,Default,Jeida,0,0,0,,Are you all right?!
+Dialogue: 0,0:21:47.92,0:21:49.04,Default,Gaya,0,0,0,,Everyone!
+Dialogue: 0,0:21:49.04,0:21:49.77,Default,Agol,0,0,0,,Is that you, Gaya?!
+Dialogue: 0,0:21:49.77,0:21:50.99,Default,Banadam,0,0,0,,You guys are okay!
+Dialogue: 0,0:21:50.99,0:21:53.81,Default,Gaya,0,0,0,,We're in trouble! Noriko was...
+Dialogue: 0,0:21:55.71,0:21:59.45,Default,Izark,0,0,0,,Noriko... What happened to Noriko?!
+Dialogue: 0,0:22:00.12,0:22:01.70,Default,Gaya,0,0,0,,Well...
+Dialogue: 0,0:22:10.03,0:22:13.45,top,credits,0,0,0,,Translator: Angela Tamae Liu
+Dialogue: 0,0:22:14.53,0:22:17.91,top,credits,0,0,0,,Timer: Edgar Cruz
+Dialogue: 0,0:22:19.04,0:22:22.46,top,credits,0,0,0,,Editor: Salem Alabanza
+Dialogue: 0,0:22:30.21,0:22:32.88,top,credits,0,0,0,,Quality Control: Gabriella Alabanza
+Dialogue: 0,0:22:33.55,0:22:36.55,top,credits,0,0,0,,Final Quality Control: Michelle Tymon
+Dialogue: 0,0:22:05.58,0:22:08.26,italics,Noriko,0,0,0,,Where am I?
+
