@@ -1,0 +1,111 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: main,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: top,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: italicstop,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: flashback,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: flashback italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: flashbacktop,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: flashbackitalicstop,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: overlap,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: overlaptop,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: overlap italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: sign_generic,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,18,1
+Style: high,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,50,1
+Style: highitalics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: screen_text,Verdana,20,&H00F0E8E4,&H000000FF,&H006F635C,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.69,screen_text,Sign,0,0,0,,{\fs15\c&HDCD5CC&\3c&H59534F&\pos(215.333,85.334)}Tzedakah Guild
+Dialogue: 0,0:00:00.00,0:00:02.69,screen_text,Sign,0,0,0,,{\b0\fs12\an1\c&HDCD5CC&\3c&H736359&\pos(151.333,154.001)}Jishuka
+Dialogue: 0,0:00:00.00,0:00:02.69,screen_text,Sign,0,0,0,,{\b0\fs10\an1\c&HEEEAE8&\3c&H736763&\pos(366,154.001)}Global Rank
+Dialogue: 0,0:00:00.00,0:00:02.69,screen_text,Sign,0,0,0,,{\b0\fs12\an1\c&HDCD5CC&\3c&H736359&\pos(150,223.001)}Pon
+Dialogue: 0,0:00:00.00,0:00:02.69,screen_text,Sign,0,0,0,,{\b0\fs12\an1\c&HDCD5CC&\3c&H736359&\pos(147.333,289.667)}Regas
+Dialogue: 0,0:00:00.00,0:00:02.69,screen_text,Sign,0,0,0,,{\b0\fs10\an1\c&HEEEAE8&\3c&H736763&\pos(366.667,221.334)}Global Rank
+Dialogue: 0,0:00:00.00,0:00:02.69,screen_text,Sign,0,0,0,,{\b0\fs10\an1\c&HEEEAE8&\3c&H736763&\pos(368,289.334)}Global Rank
+Dialogue: 0,0:00:04.40,0:00:07.65,screen_text,Sign,0,0,0,,{\fs28\c&HDCD5CC&\3c&H59534F&\move(143.333,60,143.333,-26,0,3250)}Tzedakah Guild
+Dialogue: 0,0:00:04.40,0:00:07.65,screen_text,Sign,0,0,0,,{\b0\fs23\an1\c&HDED0C3&\3c&H5E5550&\move(28,180.668,28,94.668,0,3250)}Jishuka
+Dialogue: 0,0:00:04.40,0:00:07.65,screen_text,Sign,0,0,0,,{\b0\fs23\an1\c&HDED0C3&\3c&H5E5550&\move(20.667,298.001,20.667,212,0,3250)}Pon
+Dialogue: 0,0:00:04.40,0:00:07.65,screen_text,Sign,0,0,0,,{\b0\fs23\an1\c&HDED0C3&\3c&H5E5550&\move(20.667,415.333,20.667,329.333,0,3250)}Regas
+Dialogue: 0,0:00:04.40,0:00:07.65,screen_text,Sign,0,0,0,,{\b0\fs17\an1\c&HDED0C3&\3c&H5E5550&\move(406.667,183.335,406.667,97.335,0,3250)}Global Rank
+Dialogue: 0,0:00:04.40,0:00:07.65,screen_text,Sign,0,0,0,,{\b0\fs17\an1\c&HDED0C3&\3c&H5E5550&\move(406.667,298.335,406.667,212.335,0,3250)}Global Rank
+Dialogue: 0,0:00:04.40,0:00:07.65,screen_text,Sign,0,0,0,,{\b0\fs17\an1\c&HDED0C3&\3c&H5E5550&\move(406.667,415.335,406.667,329.335,0,3250)}Global Rank
+Dialogue: 0,0:00:07.65,0:00:08.48,screen_text,Sign,0,0,0,,{\fs32\c&HE3E2E0&\3c&H5C5652&\frz356.5\pos(187.332,44.667)\frx12\fry6}Tzedakah Guild
+Dialogue: 0,0:00:07.65,0:00:08.48,screen_text,Sign,0,0,0,,{\an1\b0\fs32\c&HE3E2E0&\3c&H5C5652&\frz356.5\pos(39.332,216)\frx10\fry2}Jishuka
+Dialogue: 0,0:00:07.65,0:00:08.48,screen_text,Sign,0,0,0,,{\an1\b0\fs15\c&HE3E2E0&\3c&H5C5652&\frz0.9709\frx6\fry16\pos(486.665,216)}Global Ranking
+Dialogue: 0,0:00:08.48,0:00:09.29,screen_text,Sign,0,0,0,,{\an1\b0\fs20\c&HCDC8C4&\3c&H534C47&\frz7.341\frx18\fry324\pos(51.332,60)}Jishuka
+Dialogue: 0,0:00:08.48,0:00:09.29,screen_text,Sign,0,0,0,,{\an1\b0\fs20\c&HCDC8C4&\3c&H534C47&\frx18\fry324\pos(33.332,194.667)\frz3.011}Pon
+Dialogue: 0,0:00:08.48,0:00:09.29,screen_text,Sign,0,0,0,,{\an1\b0\fs20\c&HCDC8C4&\3c&H534C47&\pos(13.999,334.667)\frz357.3\frx10\fry322}Regas
+Dialogue: 0,0:00:08.48,0:00:09.29,screen_text,Sign,0,0,0,,{\an1\b0\fs19\c&HCDC8C4&\3c&H534C47&\frx14\fry332\frz4.719\pos(405.999,161.334)}Global Ranking
+Dialogue: 0,0:00:08.48,0:00:09.29,screen_text,Sign,0,0,0,,{\an1\b0\fs19\c&HCDC8C4&\3c&H534C47&\pos(396.666,353.334)\frx0\fry334\frz357.6}Global Ranking
+Dialogue: 0,0:00:09.29,0:00:10.23,screen_text,Sign,0,0,0,,{\an1\b0\fs34\c&HCDC8C4&\3c&H534C47&\pos(39.332,172)}Regas
+Dialogue: 0,0:00:09.29,0:00:10.23,screen_text,Sign,0,0,0,,{\an1\b0\fs14\c&HCDC8C4&\3c&H534C47&\frx2\fry22\pos(507.999,168.667)}Global Ranking
+Dialogue: 0,0:00:09.29,0:00:10.23,screen_text,Sign,0,0,0,,{\an1\b0\fs14\c&HCDC8C4&\3c&H534C47&\pos(500.666,18.667)\frz353.5\frx12\fry26}Global Ranking
+Dialogue: 0,0:00:09.29,0:00:10.23,screen_text,Sign,0,0,0,,{\an1\b0\fs14\c&HCDC8C4&\3c&H534C47&\frx2\fry22\pos(518.666,320.667)\frz7.052}Global Ranking
+Dialogue: 0,0:00:11.71,0:00:13.95,screen_text,Sign,0,0,0,,{\b0\fs26\an1\c&HC7C2BD&\3c&H504843&\fad(500,0)\pos(36.666,38.001)}Duval
+Dialogue: 0,0:00:11.71,0:00:13.95,screen_text,Sign,0,0,0,,{\b0\fs16\an1\c&HC7C2BD&\3c&H5D5752&\fad(500,0)\pos(415.333,41.335)}Global Rank
+Dialogue: 0,0:00:11.71,0:00:13.95,screen_text,Sign,0,0,0,,{\b0\fs26\an1\c&HC7C2BD&\3c&H504843&\fad(500,0)\pos(32.666,158.668)}Grid
+Dialogue: 0,0:00:11.71,0:00:13.95,screen_text,Sign,0,0,0,,{\b0\fs16\an1\c&HC7C2BD&\3c&H5D5752&\fad(500,0)\pos(402.666,159.335)}Global Rank
+Dialogue: 0,0:00:11.71,0:00:13.95,screen_text,Sign,0,0,0,,{\b0\fs16\an1\c&HC7C2BD&\3c&H5D5752&\fad(500,0)\pos(499.333,159.335)}Unranked
+Dialogue: 0,0:01:01.26,0:01:02.79,sign_generic,Sign,0,0,0,,{\fad(51,0)\bord3\blur2\an1\fs17\b1\fnGeorgia\c&H095DF8&\3c&HBFBEC1&\t(0,1469,\fs16)\move(365.999,253.999,359.333,248.667,0,1450)}O{\c&H0A27EB&}v{\c&H1828CE&}e{\c&H1026F3&\}r{\c&H1705C3&}g{\c&H1306A0&}e{\c&H0F028F&}a{\c&H090544&}r{\c&H211D2F&}e{\c&H000000&}d
+Dialogue: 0,0:01:02.79,0:01:05.89,sign_generic,Sign,0,0,0,,{\fad(0,1080)\bord3\blur2\an1\fs16\b1\fnGeorgia\c&H095DF8&\3c&HBFBEC1&\t(0,273,\3c&HFEFEFE&)\t(0,273,\c&H252525&)\pos(359.333,248.667)}O{\c&H0A27EB&\t(0,273,\c&H666767&)}v{\c&H1828CE&\t(0,273,\c&H363636&)}e{\c&H1026F3&\t(0,273,\c&H7E7E7E&)}r{\c&H1705C3&\t(0,273,\c&H5E5E5E&)}g{\c&H1306A0&\t(0,273,\c&H252525&)}e{\c&H0F028F&\t(0,273,\c&H666767&)}a{\c&H090544&\t(0,273,\c&H363636&)}r{\c&H211D2F&\t(0,273,\c&H7E7E7E&)}e{\c&H000000&\t(0,273,\c&H5E5E5E&)}d
+Dialogue: 0,0:06:45.84,0:06:48.47,screen_text,Sign,0,0,0,,{\fs15\b0\c&HC7A7C8&\3c&H835B7F&\move(-32.333,243.333,130.333,243.333,0,2630)}Maximum Mana
+Dialogue: 0,0:06:45.84,0:06:48.47,screen_text,Sign,0,0,0,,{\fs15\b0\c&HE1C7E8&\3c&H8B6A92&\move(149.333,243.333,311.333,243.333,0,2630)}Defense
+Dialogue: 0,0:06:45.84,0:06:48.47,screen_text,Sign,0,0,0,,{\fs15\b0\c&HE1C7E8&\3c&H996EA1&\move(327.666,243.333,489.667,243.333,0,2630)}Physical Attack
+Dialogue: 0,0:06:45.84,0:06:48.47,screen_text,Sign,0,0,0,,{\fs15\b0\c&HDFBAE5&\3c&H9E61AF&\move(508.666,243.333,670.667,243.333,0,2630)}Stamina
+Dialogue: 0,0:07:42.62,0:07:46.77,screen_text,Sign,0,0,0,,{\fad(92,0)\b0\frz352.8\move(338,120,316,120,0,4137)\fax0.15\frx2\fry16}You have defeated Malaxus,\NThe Sixth Servant of Yatan
+Dialogue: 1,0:08:43.12,0:08:45.58,screen_text,Sign,0,0,0,,{\b1\c&H7050CA&\bord1\3c&H514843&\blur0.5\fs10\an8\pos(530,12.667)}Malaxus's Cloak\N{\b0\c&HCACFCF&\fs8}Class: {\c&H51349D&}Unique\N{\c&HCACFCF&\fs10}Durability: 35/81\NDefense: 15\NWeight: 10\N\N{\fs8}*Intelligence: +200\N*<Stench of Blood>\NThe smell of blood follows you everywhere.\NMonsters and beasts are more likely to\Nattack you, and others will dislike you.\NEquip Condition: Level 200+
+Dialogue: 0,0:08:43.12,0:08:45.58,screen_text,Sign,0,0,0,,{\an9\bord0\p1\fscy220\alpha&H20&\c&H5F553E&}m 0 0 l 200 0 200 48 0 48
+Dialogue: 1,0:08:50.80,0:08:52.76,screen_text,Sign,0,0,0,,{\b1\c&H7050CA&\bord1\3c&H514843&\blur0.5\fs10\an8\pos(530,12.667)}Malaxus's Mask\N{\b0\c&HCACFCF&\fs8}Class: {\c&H51349D&}Unique\N{\c&HCACFCF&\fs10}Durability: 11/20\NAll Elemental Resistances: +5%\NWeight: 1\N\N{\fs8}*Casting Time:-20%\NEquip Condition: Level 200+
+Dialogue: 0,0:08:50.80,0:08:52.76,screen_text,Sign,0,0,0,,{\an9\bord0\p1\fscy220\alpha&H20&\c&H5F553E&}m 0 0 l 200 0 200 33 0 33
+Dialogue: 1,0:08:55.22,0:08:57.18,screen_text,Sign,0,0,0,,{\b1\c&H7050CA&\bord1\3c&H514843&\blur0.5\fs10\an8\pos(530,12.667)}Dark Magic Orb\N{\b0\c&HCACFCF&\fs8}Class: {\c&H51349D&}Unique\N{\c&HCACFCF&\fs10}Durability: 90/130\NMagic Amplification: +14%\NDark Magic Elemental Power: +20%\NSpell Slots: 4\NWeight: 80\N\N{\fs8}Equip Conditions: Level 200\h\h\h\hIntelligence 500+
+Dialogue: 0,0:08:55.22,0:08:57.18,screen_text,Sign,0,0,0,,{\an9\bord0\p1\fscy220\alpha&H20&\c&H5F553E&}m 0 0 l 200 0 200 40 0 40
+Dialogue: 1,0:11:53.23,0:11:58.94,screen_text,Sign,0,0,0,,{\b0\c&HD8D2CF&\bord1\3c&H514843&\blur0.5\fs9\an8\pos(528,12.667)}Quest\N{\b1}Escort the Noblewoman (A){\b0}\N\NIrene is weak after being kidnapped\Nby the Yatan Church a second time.\NEscort her to the castle.\N\NClear Condition: Return with Irene to Winstone Castle\NClear Reward: Max relationship with Irene\N"Doran's Ring"\N*When you max out your relationship with an NPC\Nof the opposite gender, there is a high probability\Nof a special event.\N\NFailure: Irene may die.\NRelationship with Earl Steim reset.\N*Irene's death will cause Earl Steim\Nto go mad and plunge northern Eternal into chaos.
+Dialogue: 0,0:11:53.23,0:11:58.94,screen_text,Sign,0,0,0,,{\an9\bord0\p1\fscy220\alpha&H20&\c&H886754&}m 0 0 l 205 0 205 70 0 70
+Dialogue: 1,0:11:58.94,0:11:59.90,screen_text,Sign,0,0,0,,{\b0\c&HD8D2CF&\bord1\3c&H514843&\blur0.5\fs9\an8\pos(528,12.667)\b1}Escort the Noblewoman (A){\b0}\N\NIrene is weak after being kidnapped\Nby the Yatan Church a second time.\NEscort her to the castle.\N\NClear Condition: Return with Irene to Winstone Castle\NClear Reward: Max Relationship with Irene\N"Doran's Ring"\N*When you max out your relationship with an NPC\Nof the opposite gender, there is a high probability\Nof a special event.
+Dialogue: 0,0:11:58.94,0:11:59.90,screen_text,Sign,0,0,0,,{\an9\bord0\p1\fscy220\alpha&H20&\c&H886754&}m 0 0 l 205 0 205 48 0 48
+Dialogue: 0,0:13:17.54,0:13:19.27,screen_text,Sign,0,0,0,,{\b0\fs10\fad(215,0)\pos(311.333,94.667)\frz357.2\frx356\fry354\c&HBBADB4&\3c&H766A70&}Quest
+Dialogue: 0,0:13:17.54,0:13:19.27,screen_text,Sign,0,0,0,,{\fs10\fad(215,0)\frz357.2\c&HEAE7E6&\3c&H766A70&\pos(310,136)\frx358\fry352}Escort the Noblewoman (A)
+Dialogue: 0,0:13:17.96,0:13:19.27,screen_text,Sign,0,0,0,,{\b0\fs24\fad(420,0)\frz357.2\c&HD4CED1&\3c&H766A70&\frx356\fry350\pos(306.667,158)}Quest clear!
+Dialogue: 0,0:13:17.96,0:13:19.27,screen_text,Sign,0,0,0,,{\b0\fs24\fad(420,0)\c&HD4CED1&\3c&H766A70&\frx356\fry350\pos(298,236.667)\frz356.7}You got the clear reward!
+Dialogue: 0,0:13:37.81,0:13:39.21,screen_text,Sign,0,0,0,,{\fad(132,0)\pos(320,116.667)}Doran's Ring\N{\b0}is now bound to your account.
+Dialogue: 0,0:14:21.06,0:14:22.34,sign_generic,Sign,0,0,0,,{\bord0\fs15\b1\an1\fad(91,0)\fnArial\c&H7D7B4C&\frx8\fry0\pos(292,252)\frz14.5}I want you to look into this man.
+Dialogue: 0,0:14:30.09,0:14:32.05,sign_generic,Sign,0,0,0,,{\an1\bord0\c&HD7BC6E&\frz13.76\pos(212.666,146.667)\frx12\fry356}Message
+Dialogue: 0,0:14:30.09,0:14:32.05,sign_generic,Sign,0,0,0,,{\b1\an1\bord0\c&H514E48&\frz13.76\frx12\fry356\pos(221.999,184)}Arisa
+Dialogue: 0,0:14:30.09,0:14:32.05,sign_generic,Sign,0,0,0,,{\fs15\an1\bord0\c&HC5AB58&\frz13.76\frx12\fry356\pos(227.333,220.667)}It's been so long...
+Dialogue: 1,0:17:25.87,0:17:27.15,screen_text,Sign,0,0,0,,{\fad(133,0)\b0\c&HD8D2CF&\bord1\3c&H514843&\blur0.5\fs9\an7\pos(438.667,14)}Guild Name: Tzedakah\NLevel: 5\NFame: 612,140\NMaster: Jishuka\NMembers: 18/80\NAffiliation: None\NAlliances: None\NEnemies: Kingdom of Rio, Flame Dragon Trauka,\NYatan Church, Ironwind Gang, Heldin Clan,\NKauchi Clan\NAlignment: Neutral\NTerritory: None
+Dialogue: 0,0:17:25.87,0:17:27.15,screen_text,Sign,0,0,0,,{\fad(133,0)\an9\bord0\p1\fscy220\alpha&H20&\c&H886754&}m 0 0 l 200 0 200 53 0 53
+Dialogue: 0,0:19:12.56,0:19:22.93,sign_generic,Sign,0,0,0,,{\fs18\bord0\fnArial Black\fad(258,0)\c&H1A1D1C&\pos(320,280.333)}Psychopath Appears in {\i1}Satisfy{\i0}!!
+Dialogue: 0,0:19:21.95,0:19:22.93,sign_generic,Sign,0,0,0,,{\fad(85,0)\fnArial Black\bord0\fs15\pos(108.667,118)}Warning
+Dialogue: 0,0:19:21.95,0:19:22.93,sign_generic,Sign,0,0,0,,{\fad(85,0)\fnArial Black\bord0\fs15\pos(271.334,118)}Warning
+Dialogue: 0,0:19:21.95,0:19:22.93,sign_generic,Sign,0,0,0,,{\fad(85,0)\fnArial Black\bord8\fs20\3c&H030072&\pos(192.667,148.668)}Attention Viewers!
+Dialogue: 0,0:19:21.95,0:19:22.93,sign_generic,Sign,0,0,0,,{\fad(85,0)\fnArial Black\bord3\fs8\3c&H030072&\pos(191.334,173.668)}The following footage may be unsuitable for some audiences.
+Dialogue: 0,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\blur1\bord0.75\fs15\c&H644CD2&\3c&H484032&\fad(130,0)\pos(320,98)}Absolute Double Axe of Laceration
+Dialogue: 1,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\fs12\fad(90,0)\b0\c&HE8E8E8&\pos(309.334,142.667)}Class: {\c&H644CD2&\3c&H484032&}Unique
+Dialogue: 0,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\fad(90,0)\blur2\an7\bord0\p1\fscy220\alpha&H10&\c&H695F48&\b0\pos(269.332,141.333)}m 0 0 l 108 0 108 10 0 10
+Dialogue: 1,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\an3\fs20\fad(90,0)\b0\c&HE8E8E8&\pos(290.666,187.333)}Durability
+Dialogue: 1,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\an3\fs20\fad(90,0)\b0\c&HE8E8E8&\pos(282.668,212.667)}Attack
+Dialogue: 1,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\an3\fs20\fad(90,0)\b0\c&HE8E8E8&\pos(334.001,238)}Critical Hit Chance
+Dialogue: 1,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\an3\fs20\fad(90,0)\b0\c&HE8E8E8&\pos(355.999,264)}Critical Hit Damage
+Dialogue: 1,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\an8\fs15\fad(90,0)\b0\c&HE8E8E8&\pos(320,276.666)}*Chance of Double Attack
+Dialogue: 1,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\an8\fs15\fad(90,0)\b0\c&HE8E8E8&\pos(320,293.999)}*Critical causes blood loss/confusion
+Dialogue: 0,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\fad(90,0)\blur2\an7\bord0\p1\fscy220\alpha&H10&\c&H625944&\b0\pos(203.998,162.666)}m 0 0 l 88 0 88 12 0 12
+Dialogue: 0,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\fad(90,0)\blur2\an7\bord0\p1\fscy220\alpha&H10&\c&H5C543C&\b0\pos(196.665,190.666)}m 0 0 l 88 0 88 12 0 12
+Dialogue: 0,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\fad(90,0)\blur2\an7\bord0\p1\fscy220\alpha&H10&\c&H574F39&\b0\pos(213.331,217.999)}m 0 0 l 128 0 128 12 0 12
+Dialogue: 0,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\fad(90,0)\blur2\an7\bord0\p1\fscy220\alpha&H10&\c&H574F39&\b0\pos(189.998,242.665)}m 0 0 l 168 0 168 12 0 12
+Dialogue: 0,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\fad(90,0)\blur2\an7\bord0\p1\fscy220\alpha&H10&\c&H574F39&\b0\pos(205.331,276.666)}m 0 0 l 203 0 240 16 0 15
+
