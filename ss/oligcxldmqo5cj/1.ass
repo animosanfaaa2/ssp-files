@@ -1,0 +1,257 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
+Style: Q0,Roboto Medium,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q1,Arial,27,&H00009BE2,&H00009BE2,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q2,Roboto Medium,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q3,Arial,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q4,Roboto Medium,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q5,Arial,40,&H0041F9FD,&H0041F9FD,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q6,Arial,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q7,Arial,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:04.00,0:00:06.58,Q0,,0,0,0,,Shichae! Shichae!
+Dialogue: 1,0:00:06.58,0:00:09.29,Q0,,0,0,0,,Zettai Kansei Kisei Jijitsu!
+Dialogue: 1,0:00:09.29,0:00:12.21,Q0,,0,0,0,,Shichae! Shichae!
+Dialogue: 1,0:00:12.21,0:00:14.83,Q0,,0,0,0,,Zettai Kansei Kisei Jijitsu!
+Dialogue: 1,0:00:15.00,0:00:17.75,Q0,,0,0,0,,Icha icha shitari chuki chuki shitari
+Dialogue: 1,0:00:17.75,0:00:20.38,Q0,,0,0,0,,Shichaitai toki ga shichai toki
+Dialogue: 1,0:00:20.38,0:00:23.42,Q0,,0,0,0,,Gaman shichau to bakuhatsu shichau
+Dialogue: 1,0:00:23.42,0:00:24.79,Q0,,0,0,0,,Odokashichau de
+Dialogue: 1,0:00:24.79,0:00:25.92,Q0,,0,0,0,,Honma ya de!
+Dialogue: 1,0:00:26.17,0:00:28.88,Q0,,0,0,0,,Dare datte dare datte dare datte shichau koto
+Dialogue: 1,0:00:28.88,0:00:30.13,Q0,,0,0,0,,Shichau? Shichau?
+Dialogue: 1,0:00:30.13,0:00:31.25,Q0,,0,0,0,,Dou schichau?!
+Dialogue: 1,0:00:31.54,0:00:32.83,Q0,,0,0,0,,Dou ka shichau
+Dialogue: 1,0:00:32.83,0:00:34.38,Q0,,0,0,0,,Shichattara sokkara
+Dialogue: 1,0:00:34.38,0:00:37.13,Q0,,0,0,0,,Afurechau kiken na adventure
+Dialogue: 1,0:00:37.13,0:00:38.21,Q0,,0,0,0,,Dou shichau?
+Dialogue: 1,0:00:38.21,0:00:39.92,Q0,,0,0,0,,Mou ii ka! tte nattara
+Dialogue: 1,0:00:39.92,0:00:42.79,Q0,,0,0,0,,Sugu datte shichaitai naa
+Dialogue: 1,0:00:42.79,0:00:43.92,Q0,,0,0,0,,Dou ka shichau
+Dialogue: 1,0:00:43.92,0:00:45.38,Q0,,0,0,0,,Soshitara dou shiyo
+Dialogue: 1,0:00:45.38,0:00:46.63,Q0,,0,0,0,,Dou ka shichau
+Dialogue: 1,0:00:46.63,0:00:48.13,Q0,,0,0,0,,Soshitara dou shichau
+Dialogue: 1,0:00:48.13,0:00:50.29,Q0,,0,0,0,,Dou shichau? Mo kou shichau mo
+Dialogue: 1,0:00:50.29,0:00:52.88,Q0,,0,0,0,,Nai desho shichau desho
+Dialogue: 1,0:00:52.88,0:00:54.13,Q0,,0,0,0,,Shichau desho
+Dialogue: 1,0:00:54.13,0:00:56.38,Q0,,0,0,0,,Shichae! Shichae!
+Dialogue: 1,0:00:56.38,0:00:58.83,Q0,,0,0,0,,Zettai Kansei Kisei Jijitsu!
+Dialogue: 1,0:01:09.08,0:01:13.08,Q2,,0,0,0,,Why have you just been reading that letter\Nand grinning for a while now?
+Dialogue: 1,0:01:14.54,0:01:15.83,Q2,,0,0,0,,At last...
+Dialogue: 1,0:01:16.29,0:01:20.38,Q2,,0,0,0,,the church has made me an official priest!
+Dialogue: 1,0:01:20.92,0:01:22.75,Q2,,0,0,0,,An official priest?
+Dialogue: 1,0:01:23.13,0:01:25.33,Q2,,0,0,0,,So you were a fake priest up until now?
+Dialogue: 1,0:01:25.67,0:01:27.00,Q2,,0,0,0,,I wasn't!
+Dialogue: 1,0:01:27.33,0:01:30.17,Q2,,0,0,0,,Those who graduate from the church's schooling
+Dialogue: 1,0:01:30.17,0:01:33.88,Q2,,0,0,0,,are obligated to act as adventurers for a time.
+Dialogue: 1,0:01:34.21,0:01:37.50,Q2,,0,0,0,,From there a percentage of their reward money
+Dialogue: 1,0:01:37.50,0:01:39.38,Q2,,0,0,0,,continues to be donated to the church.
+Dialogue: 1,0:01:39.38,0:01:42.00,Q2,,0,0,0,,And once you're met your quota,\Nyou're acknowledged as an official priest!
+Dialogue: 1,0:01:42.00,0:01:43.58,Q2,,0,0,0,,That's exploitative as hell!
+Dialogue: 1,0:01:43.75,0:01:48.13,Q2,,0,0,0,,It's amazing to become an official priest\Nin such a short period of time!
+Dialogue: 1,0:01:48.13,0:01:51.67,Q2,,0,0,0,,The official procedure will have to wait\Nfor a church inquisitor to arrive, but...
+Dialogue: 1,0:01:52.42,0:01:56.46,Q2,,0,0,0,,And he was getting all worked up\Nlike a little kid.
+Dialogue: 1,0:01:56.46,0:01:57.88,Q2,,0,0,0,,Really?
+Dialogue: 1,0:01:57.88,0:01:59.88,Q2,,0,0,0,,Roni's so amazing!
+Dialogue: 1,0:02:00.21,0:02:04.88,Q2,,0,0,0,,Being an official priest grants you\Nstanding and esteem.
+Dialogue: 1,0:02:05.54,0:02:10.88,Q2,,0,0,0,,But in that case, he may end up\Nleaving the party...
+Dialogue: 1,0:02:10.88,0:02:11.88,Q2,,0,0,0,,Huh?!
+Dialogue: 1,0:02:11.88,0:02:12.88,Q2,,0,0,0,,What?!
+Dialogue: 1,0:02:12.88,0:02:15.38,Q2,,0,0,0,,He might?! But why?!
+Dialogue: 1,0:02:15.38,0:02:17.21,Q2,,0,0,0,,Because that'd be more stable than
+Dialogue: 1,0:02:17.21,0:02:19.88,Q2,,0,0,0,,keeping on with the dangerous job\Nof being an adventurer.
+Dialogue: 1,0:02:20.67,0:02:23.29,Q2,,0,0,0,,Besides, when we first met him...
+Dialogue: 1,0:02:24.13,0:02:26.04,Q2,,0,0,0,,I am Roni Gardihaus.
+Dialogue: 1,0:02:26.04,0:02:31.17,Q2,,0,0,0,,My goal is to become a priest\Nrespected by the people.
+Dialogue: 1,0:02:31.75,0:02:33.67,Q2,,0,0,0,,That's what he said!
+Dialogue: 1,0:02:34.08,0:02:37.67,Q2,,0,0,0,,And you're just fine with that?!\NThat our party may be done for?!
+Dialogue: 1,0:02:37.67,0:02:40.46,Q2,,0,0,0,,We can't go getting in the way\Nof Roni's dream.
+Dialogue: 1,0:02:40.46,0:02:42.92,Q2,,0,0,0,,Stuff like this happens all the time.
+Dialogue: 1,0:02:44.58,0:02:47.92,Q2,,0,0,0,,So he's going to leave the party on his own\Nand live a life of dignified leisure?!
+Dialogue: 1,0:02:48.25,0:02:51.46,Q2,,0,0,0,,I can't accept that!
+Dialogue: 1,0:02:52.67,0:02:54.17,Q2,,0,0,0,,Hey, Roni!
+Dialogue: 1,0:02:54.17,0:02:56.21,Q2,,0,0,0,,You're going to abandon us?!
+Dialogue: 1,0:02:56.21,0:02:59.38,Q2,,0,0,0,,Even though we have a child?!\NTake proper responsibility!
+Dialogue: 1,0:02:59.38,0:03:00.67,Q2,,0,0,0,,Papa!
+Dialogue: 1,0:03:01.04,0:03:02.17,Q2,,0,0,0,,What...?
+Dialogue: 1,0:03:02.42,0:03:04.33,Q2,,0,0,0,,Pay your child-support!
+Dialogue: 1,0:03:04.33,0:03:05.63,Q2,,0,0,0,,What are you on about?!
+Dialogue: 1,0:03:05.63,0:03:07.04,Q2,,0,0,0,,Ah, Amona!
+Dialogue: 1,0:03:07.17,0:03:08.42,Q2,,0,0,0,,I'm begging you, do something about him!
+Dialogue: 1,0:03:07.17,0:03:08.42,Q4,,0,0,0,,Papa!
+Dialogue: 1,0:03:08.42,0:03:09.29,Q2,,0,0,0,,I'm begging you, do something about him!
+Dialogue: 1,0:03:08.42,0:03:09.29,Q4,,0,0,0,,See! You're making our child cry!
+Dialogue: 1,0:03:09.29,0:03:10.96,Q2,,0,0,0,,Um, well...
+Dialogue: 1,0:03:09.29,0:03:10.96,Q4,,0,0,0,,See! You're making our child cry!
+Dialogue: 1,0:03:10.96,0:03:11.71,Q2,,0,0,0,,Um, well...
+Dialogue: 1,0:03:12.13,0:03:17.00,Q2,,0,0,0,,If I happened... to get pregnant...
+Dialogue: 1,0:03:17.00,0:03:18.71,Q2,,0,0,0,,what would you do...?
+Dialogue: 1,0:03:18.71,0:03:20.17,Q2,,0,0,0,,Huh...?!
+Dialogue: 1,0:03:22.54,0:03:25.54,Q2,,0,0,0,,Darling!
+Dialogue: 1,0:03:26.13,0:03:29.17,Q2,,0,0,0,,See? That's your papa!
+Dialogue: 1,0:03:34.17,0:03:35.38,Q2,,0,0,0,,Amona!
+Dialogue: 1,0:03:35.63,0:03:36.96,Q2,,0,0,0,,Amona!
+Dialogue: 1,0:03:41.08,0:03:42.71,Q2,,0,0,0,,H-hold on...!
+Dialogue: 1,0:03:44.46,0:03:46.88,Q2,,0,0,0,,If you're that intense,
+Dialogue: 1,0:03:46.88,0:03:49.88,Q2,,0,0,0,,you'll scare the baby,
+Dialogue: 1,0:03:49.88,0:03:52.92,Q2,,0,0,0,,so take it slow... okay?
+Dialogue: 1,0:03:52.92,0:03:55.17,Q2,,0,0,0,,I-I couldn't!
+Dialogue: 1,0:03:55.17,0:03:57.54,Q2,,0,0,0,,That sort of thing would be far too immoral!
+Dialogue: 1,0:03:57.54,0:03:58.75,Q2,,0,0,0,,And kinky!
+Dialogue: 1,0:03:58.75,0:04:00.92,Q2,,0,0,0,,What exactly were you fantasizing about?
+Dialogue: 1,0:04:01.25,0:04:03.17,Q2,,0,0,0,,S-so Amona, are you...
+Dialogue: 1,0:04:03.17,0:04:05.42,Q2,,0,0,0,,are you really pregnant?!
+Dialogue: 1,0:04:05.42,0:04:08.92,Q2,,0,0,0,,Ah, no! That was just a hypothetical!
+Dialogue: 1,0:04:12.58,0:04:13.92,Q2,,0,0,0,,Geez...
+Dialogue: 1,0:04:15.04,0:04:17.08,Q2,,0,0,0,,Is this really any time to be relaxing?
+Dialogue: 1,0:04:17.08,0:04:22.71,Q2,,0,0,0,,Let me just warn you, if you leave the party\Nto go off and take up some tepid priest job,
+Dialogue: 1,0:04:22.71,0:04:25.96,Q2,,0,0,0,,I'll tell the church about all your perviness!
+Dialogue: 1,0:04:25.96,0:04:28.04,Q2,,0,0,0,,Huh?!
+Dialogue: 1,0:04:28.17,0:04:31.50,Q2,,0,0,0,,I'll expose all your fetishes,
+Dialogue: 1,0:04:31.50,0:04:35.63,Q2,,0,0,0,,and people will start\Ncalling you "Priest Nipplord"!
+Dialogue: 1,0:04:35.63,0:04:37.83,Q2,,0,0,0,,What's with that awful nickname?!
+Dialogue: 1,0:04:38.92,0:04:44.21,Q2,,0,0,0,,So don't go think you can go and\Nleave the party so easily...
+Dialogue: 1,0:04:44.71,0:04:47.71,Q2,,0,0,0,,Not after making me feel like this...
+Dialogue: 1,0:04:48.00,0:04:50.08,Q2,,0,0,0,,A-Amona...
+Dialogue: 1,0:04:52.67,0:04:55.08,Q2,,0,0,0,,What do you mean, leaving the party?
+Dialogue: 1,0:04:55.08,0:04:56.08,Q2,,0,0,0,,Huh?
+Dialogue: 1,0:04:56.92,0:05:00.42,Q2,,0,0,0,,So you're going to stay with the party
+Dialogue: 1,0:05:00.42,0:05:03.04,Q2,,0,0,0,,even after you become\Nan official priest, Roni?!
+Dialogue: 1,0:05:03.04,0:05:07.04,Q2,,0,0,0,,Looks like we jumped to\Nthe wrong conclusion there, huh?
+Dialogue: 1,0:05:07.29,0:05:10.79,Q2,,0,0,0,,Fighting monsters is fine work\Nfor a priest, after all.
+Dialogue: 1,0:05:10.79,0:05:13.83,Q2,,0,0,0,,I look forward to continuing to work together.
+Dialogue: 1,0:05:13.83,0:05:15.17,Q2,,0,0,0,,Of course!
+Dialogue: 1,0:05:15.17,0:05:18.33,Q2,,0,0,0,,This almost ended up being\Nthe final episode there.
+Dialogue: 1,0:05:20.54,0:05:21.88,Q2,,0,0,0,,Thinking about it...
+Dialogue: 1,0:05:21.88,0:05:24.13,Q2,,0,0,0,,If I happened...
+Dialogue: 1,0:05:24.13,0:05:26.63,Q2,,0,0,0,,I never gave her a proper response, did I?
+Dialogue: 1,0:05:27.83,0:05:29.08,Q2,,0,0,0,,Mr. Roni.
+Dialogue: 1,0:05:29.08,0:05:31.71,Q2,,0,0,0,,You've received a letter from the church.
+Dialogue: 1,0:05:31.71,0:05:33.83,Q2,,0,0,0,,Ah, thank you.
+Dialogue: 1,0:05:35.83,0:05:38.50,Q2,,0,0,0,,The four of us can keep on being a party!
+Dialogue: 1,0:05:38.50,0:05:40.50,Q2,,0,0,0,,Thank goodness! Right, Amona?!
+Dialogue: 1,0:05:40.50,0:05:42.96,Q2,,0,0,0,,Wh-why are you telling me that?!
+Dialogue: 1,0:05:42.96,0:05:46.04,Q2,,0,0,0,,I mean, you got all worried he was\Ngoing to abandon us, so...
+Dialogue: 1,0:05:46.33,0:05:47.33,Q2,,0,0,0,,Roni?!
+Dialogue: 1,0:05:47.33,0:05:48.33,Q2,,0,0,0,,She's coming...
+Dialogue: 1,0:05:48.33,0:05:49.21,Q2,,0,0,0,,Huh?
+Dialogue: 1,0:05:49.79,0:05:51.21,Q2,,0,0,0,,My teacher...
+Dialogue: 1,0:05:51.54,0:05:53.96,Q2,,0,0,0,,the Killer of the Unchaste, is coming!
+Dialogue: 1,0:05:55.08,0:05:56.71,Q2,,0,0,0,,"I'm Dating a Dark Summoner."
+Dialogue: 1,0:06:01.08,0:06:04.00,Q2,,0,0,0,,Roni's been really on edge\Nfor a bit now, hasn't he?
+Dialogue: 1,0:06:04.00,0:06:05.96,Q2,,0,0,0,,That's hardly a surprise.
+Dialogue: 1,0:06:05.96,0:06:08.50,Q2,,0,0,0,,His former teacher is coming.
+Dialogue: 1,0:06:08.50,0:06:14.42,Q2,,0,0,0,,She's an inquisitor so strict that they\Ncall her the "Killer of the Unchaste."
+Dialogue: 1,0:06:16.38,0:06:19.13,Q2,,0,0,0,,My apologies for the wait.
+Dialogue: 1,0:06:19.13,0:06:20.75,Q2,,0,0,0,,T-teacher!
+Dialogue: 1,0:06:21.08,0:06:23.21,Q2,,0,0,0,,It is a pleasure to meet you all.
+Dialogue: 1,0:06:23.21,0:06:26.83,Q2,,0,0,0,,I am Inquisitor Belle of the Holidens Church.
+Dialogue: 1,0:06:29.29,0:06:32.50,Q2,,0,0,0,,Thank you for always looking after\Nmy disciple Roni.
+Dialogue: 1,0:06:32.50,0:06:36.21,Q2,,0,0,0,,I've come today to formally greet you all
+Dialogue: 1,0:06:36.21,0:06:40.67,Q2,,0,0,0,,and handle Roni's official appointment\Nto the rank of priest.
+Dialogue: 1,0:06:40.67,0:06:44.83,Q2,,0,0,0,,Ah, don't mention it!\NRoni's always helping us out too!
+Dialogue: 1,0:06:45.04,0:06:47.79,Q2,,0,0,0,,Not sure why Roni was spooked.
+Dialogue: 1,0:06:47.79,0:06:50.79,Q2,,0,0,0,,She seems so kind and gentle-mannered.
+Dialogue: 1,0:06:51.29,0:06:54.79,Q2,,0,0,0,,Roni, I've heard tell of your deeds.
+Dialogue: 1,0:06:55.21,0:06:59.17,Q2,,0,0,0,,It would seem you have been properly\Ncontributing to the town as a priest.
+Dialogue: 1,0:06:59.17,0:07:01.04,Q2,,0,0,0,,Th-thank you!
+Dialogue: 1,0:07:01.42,0:07:05.13,Q2,,0,0,0,,Ah, yes, there are some other things\NI've heard as well.
+Dialogue: 1,0:07:05.54,0:07:10.58,Q2,,0,0,0,,Such as a woman's panting gasps\Nare often heard coming from your room...
+Dialogue: 1,0:07:14.96,0:07:18.04,Q2,,0,0,0,,Or that you've paraded naked around town...
+Dialogue: 1,0:07:18.21,0:07:22.50,Q2,,0,0,0,,Or that a priest was seen\Ncopulating in the back alleys...
+Dialogue: 1,0:07:22.50,0:07:26.08,Q2,,0,0,0,,And that his nipples were\Nalways perky and ready to go...
+Dialogue: 1,0:07:26.50,0:07:31.46,Q2,,0,0,0,,I have no idea what you\Ncould be referring to...
+Dialogue: 1,0:07:37.71,0:07:42.21,Q2,,0,0,0,,Recite section 20, commandment 7\Nof the Holidens holy teachings!
+Dialogue: 1,0:07:42.21,0:07:46.88,Q2,,0,0,0,,"A priest must exercise self-restraint,\Nnever falling prey to sensual desires"!
+Dialogue: 1,0:07:48.21,0:07:54.88,Q2,,0,0,0,,And have you been showing self-restraint?
+Dialogue: 1,0:07:54.88,0:07:58.00,Q2,,0,0,0,,Well, have you?!
+Dialogue: 1,0:07:58.75,0:08:00.58,Q2,,0,0,0,,M-m-my deepest apologies!
+Dialogue: 1,0:08:00.58,0:08:03.79,Q2,,0,0,0,,I, Roni the unchaste, have committed\Nthe sin of fornication!
+Dialogue: 1,0:08:03.79,0:08:05.50,Q2,,0,0,0,,You fool!
+Dialogue: 1,0:08:05.50,0:08:07.58,Q2,,0,0,0,,Give me 200 push-ups in repentance!
+Dialogue: 1,0:08:07.58,0:08:08.54,Q2,,0,0,0,,Yes, ma'am!
+Dialogue: 1,0:08:08.54,0:08:11.83,Q2,,0,0,0,,My apologies, but I must\Nstep away for a moment.
+Dialogue: 1,0:08:11.83,0:08:14.29,Q2,,0,0,0,,So, she's the gym teacher type, huh?
+Dialogue: 1,0:08:19.83,0:08:23.54,Q2,,0,0,0,,I see. So you're Roni's partner, are you?
+Dialogue: 1,0:08:24.75,0:08:26.79,Q2,,0,0,0,,What makes you think that?
+Dialogue: 1,0:08:28.00,0:08:31.29,Q2,,0,0,0,,Because you have taken care\Nto hide yourself.
+Dialogue: 1,0:08:32.00,0:08:35.63,Q2,,0,0,0,,The other two showed no guilt.
+Dialogue: 1,0:08:38.79,0:08:40.79,Q2,,0,0,0,,A shin...?!
+Dialogue: 1,0:08:42.25,0:08:43.96,Q2,,0,0,0,,I'm sure this must be a surprise.
+Dialogue: 1,0:08:43.96,0:08:47.79,Q2,,0,0,0,,That your apprentice was having\Nrelations with a shin of all things.
+Dialogue: 1,0:08:48.96,0:08:51.83,Q2,,0,0,0,,H-hey! It's bad enough to make you cry?!
+Dialogue: 1,0:08:52.50,0:08:54.71,Q2,,0,0,0,,No, I'm overjoyed...
+Dialogue: 1,0:08:54.71,0:08:55.79,Q2,,0,0,0,,Huh?
+Dialogue: 1,0:08:56.33,0:08:59.88,Q2,,0,0,0,,Roni has always strictly adhered\Nto the teachings,
+Dialogue: 1,0:08:59.88,0:09:03.42,Q2,,0,0,0,,but he was so fastidious that he\Nhad trouble interacting with others.
+Dialogue: 1,0:09:03.96,0:09:08.21,Q2,,0,0,0,,That was my one lingering concern\Nafter he graduated.
+Dialogue: 1,0:09:08.21,0:09:09.63,Q2,,0,0,0,,And yet...
+Dialogue: 1,0:09:10.13,0:09:15.13,Q2,,0,0,0,,He's formed a bond with you and found\Nsomething more precious than the precepts.
+Dialogue: 1,0:09:15.13,0:09:18.13,Q2,,0,0,0,,I believe he has truly grown a great deal.
+Dialogue: 1,0:09:18.54,0:09:22.08,Q2,,0,0,0,,I-it's nothing all that impressive...
+Dialogue: 1,0:09:22.08,0:09:24.63,Q2,,0,0,0,,But you've had sex, haven't you?
+Dialogue: 1,0:09:24.63,0:09:26.29,Q2,,0,0,0,,Y-yeah...
+Dialogue: 1,0:09:26.29,0:09:28.21,Q2,,0,0,0,,And you've kissed and everything?
+Dialogue: 1,0:09:28.21,0:09:30.67,Q2,,0,0,0,,We still haven't kissed...
+Dialogue: 1,0:09:30.67,0:09:32.46,Q2,,0,0,0,,You went past smooching\Nstraight to doing it?!
+Dialogue: 1,0:09:32.46,0:09:34.67,Q2,,0,0,0,,Your young lust is that far off the charts?!
+Dialogue: 1,0:09:34.67,0:09:37.38,Q2,,0,0,0,,Wait, do you like doing it\Nfrom behind, perhaps?!
+Dialogue: 1,0:09:37.38,0:09:39.17,Q2,,0,0,0,,You're really digging into the details!
+Dialogue: 1,0:09:39.17,0:09:41.38,Q2,,0,0,0,,And have you used this position?!
+Dialogue: 1,0:09:41.38,0:09:42.88,Q2,,0,0,0,,What's with that drawing?!
+Dialogue: 1,0:09:42.88,0:09:44.13,Q2,,0,0,0,,Ding-dong.
+Dialogue: 1,0:09:44.79,0:09:46.46,Q2,,0,0,0,,Teacher!
+Dialogue: 1,0:09:47.75,0:09:49.79,Q2,,0,0,0,,Amona did nothing wrong!
+Dialogue: 1,0:09:49.79,0:09:53.79,Q2,,0,0,0,,The fault lies solely with\Nmy lack of self-control!
+Dialogue: 1,0:09:54.88,0:09:57.21,Q2,,0,0,0,,Ms. Amona, is it?
+Dialogue: 1,0:09:57.21,0:10:00.29,Q2,,0,0,0,,I wasn't condemning her or the like.
+Dialogue: 1,0:10:00.79,0:10:03.67,Q2,,0,0,0,,My apologies for worrying\Nthe two of you as well.
+Dialogue: 1,0:10:04.83,0:10:08.88,Q2,,0,0,0,,I thought I'd need to give a lecture\Nto my foolish disciple.
+Dialogue: 1,0:10:08.88,0:10:11.88,Q2,,0,0,0,,And yet, it seems you have met\Nsome fine people, Roni.
+Dialogue: 1,0:10:12.46,0:10:15.08,Q2,,0,0,0,,Allow me to congratulate you\Non your new post.
+Dialogue: 1,0:10:15.08,0:10:19.08,Q2,,0,0,0,,Continue to work as hard as ever\Nas an official priest.
+Dialogue: 1,0:10:19.38,0:10:20.88,Q2,,0,0,0,,Teacher...!
+Dialogue: 1,0:10:21.50,0:10:23.83,Q2,,0,0,0,,Although you're off the hook for a lecture...
+Dialogue: 1,0:10:23.83,0:10:28.17,Q2,,0,0,0,,You must still be punished\Nfor disobeying the precepts!
+Dialogue: 1,0:10:28.17,0:10:31.67,Q2,,0,0,0,,Prepare yourself to receive\Nthe church's judgment!
+Dialogue: 1,0:10:31.67,0:10:33.33,Q2,,0,0,0,,R-right...!
+Dialogue: 1,0:10:36.08,0:10:40.71,Q2,,0,0,0,,Well then, I'll be praying for your\Ngood health from here on out, everyone.
+Dialogue: 1,0:10:40.71,0:10:45.96,Q2,,0,0,0,,And please take good care of Roni,\Nwon't you, Ms. Amona?
+Dialogue: 1,0:10:49.04,0:10:53.04,Q2,,0,0,0,,What did you talk to her about, Amona?
+Dialogue: 1,0:10:53.25,0:10:55.25,Q2,,0,0,0,,N-nothing, really...
+Dialogue: 1,0:10:55.96,0:10:58.04,Q2,,0,0,0,,Just stuff like this.
+Dialogue: 1,0:10:58.04,0:11:00.04,Q2,,0,0,0,,What's with that drawing?!
+Dialogue: 1,0:11:07.50,0:11:09.67,Q0,,0,0,0,,Suki kirai? Wakkannai
+Dialogue: 1,0:11:09.67,0:11:11.79,Q0,,0,0,0,,Doushitai? Soba ni itai
+Dialogue: 1,0:11:11.79,0:11:15.79,Q0,,0,0,0,,Sono nukumori hanashitakunai
+Dialogue: 1,0:11:16.75,0:11:21.21,Q0,,0,0,0,,Mada hayai? Aitai shiritai sono omoi
+Dialogue: 1,0:11:21.21,0:11:24.63,Q0,,0,0,0,,Demo kuchizuke wa ima ja nai
+Dialogue: 1,0:11:26.13,0:11:28.38,Q0,,0,0,0,,Kono mama no futari ja dame ka na?
+Dialogue: 1,0:11:28.38,0:11:30.71,Q0,,0,0,0,,Fureru dake ja tarinai ka na?
+Dialogue: 1,0:11:30.71,0:11:34.71,Q0,,0,0,0,,Atatakai jikan kimi o dakishimete ita
+Dialogue: 1,0:11:36.17,0:11:41.92,Q0,,0,0,0,,Kimi ga hoshii zenbu hoshii yo da kara ne
+Dialogue: 1,0:11:41.92,0:11:44.92,Q0,,0,0,0,,Suki ni shite iin da yo
+Dialogue: 1,0:11:45.46,0:11:51.29,Q0,,0,0,0,,Dare ka janakute kimi ga ii no ni ienai
+Dialogue: 1,0:11:51.29,0:11:54.88,Q0,,0,0,0,,Fukaku kakureta "I love you"
+Dialogue: 1,0:11:54.88,0:12:00.75,Q0,,0,0,0,,Kitto yobidasu kara mada naisho
+Dialogue: 0,0:01:07.79,0:01:12.63,Q1,,0,0,0,,{\pos(102.4,604.8)}{\an7}Episode 8: The Dark Summoner and the Church's Inquisitor
+Dialogue: 0,0:01:33.88,0:01:35.04,Q3,,0,0,0,,{\pos(755.2,108)}{\an7}Client
+Dialogue: 0,0:01:34.46,0:01:36.46,Q3,,0,0,0,,{\pos(524.8,396)}{\an7}Reward
+Dialogue: 0,0:01:37.50,0:01:39.04,Q3,,0,0,0,,{\pos(486.4,496.8)}{\an7}Priest
+Dialogue: 0,0:01:38.04,0:01:39.04,Q3,,0,0,0,,{\pos(217.6,309.6)}{\an7}Work worth doing
+Dialogue: 0,0:04:34.21,0:04:35.63,Q5,,0,0,0,,{\pos(512,180)}{\an7}Priest Nipplord
+Dialogue: 0,0:06:11.25,0:06:12.58,Q6,,0,0,0,,{\pos(448,57.6)}{\an7}Killer of
+Dialogue: 0,0:06:12.58,0:06:14.42,Q6,,0,0,0,,{\pos(448,57.6)}{\an7}Killer of the Unchaste
+Dialogue: 0,0:09:43.13,0:09:44.33,Q7,,0,0,0,,{\pos(281.6,496.8)}{\an7}A case of bad tastes due to a late sexual awakening
+
