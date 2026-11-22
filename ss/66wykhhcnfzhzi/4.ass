@@ -1,0 +1,285 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+Video Zoom Percent: 1
+Scroll Position: 0
+Active Line: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:10.88,0:00:12.84,Default,,0,0,0,,{\i1}-Taiyo.{\i0}\N{\i1}-Taiyo.{\i0}
+Dialogue: 0,0:00:12.93,0:00:14.51,Default,,0,0,0,,{\i1}Hermano mayor.{\i0}
+Dialogue: 0,0:00:16.76,0:00:19.60,Default,,0,0,0,,¿Hermano? ¡Hermano mayor!
+Dialogue: 0,0:00:20.68,0:00:22.31,Default,,0,0,0,,¿Estás bien, hermano mayor?
+Dialogue: 0,0:00:22.39,0:00:23.81,Default,,0,0,0,,Tenías una pesadilla.
+Dialogue: 0,0:00:23.89,0:00:24.90,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:00:24.98,0:00:27.27,Default,,0,0,0,,Sí, estoy bien.
+Dialogue: 0,0:00:30.23,0:00:31.24,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:00:34.28,0:00:35.41,Default,,0,0,0,,¿Qué pasa?
+Dialogue: 0,0:00:36.82,0:00:37.82,Default,,0,0,0,,¿Hikaru?
+Dialogue: 0,0:00:37.91,0:00:38.91,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:00:39.49,0:00:41.33,Default,,0,0,0,,¿Dónde están mamá y papá?
+Dialogue: 0,0:00:41.83,0:00:44.54,Default,,0,0,0,,Están despiertos hace horas.
+Dialogue: 0,0:00:46.83,0:00:48.09,Default,,0,0,0,,¡Lo desperté!
+Dialogue: 0,0:00:48.17,0:00:49.55,Default,,0,0,0,,Buenos días, Taiyo.
+Dialogue: 0,0:00:49.63,0:00:51.88,Default,,0,0,0,,El desayuno está en la mesa.
+Dialogue: 0,0:00:52.55,0:00:54.68,Default,,0,0,0,,No sueles quedarte dormido.
+Dialogue: 0,0:00:58.30,0:00:59.55,Default,,0,0,0,,Ven, hermano.
+Dialogue: 0,0:00:59.64,0:01:02.56,Default,,0,0,0,,Desayunemos rápido\Npara poder volver a jugar.
+Dialogue: 0,0:01:02.64,0:01:04.14,Default,,0,0,0,,Claro.
+Dialogue: 0,0:01:19.91,0:01:24.83,Default,,0,0,0,,LA MISIÓN DE LA FAMILIA YOZAKURA
+Dialogue: 0,0:02:42.03,0:02:43.70,Default,,0,0,0,,¡Gracias por el desayuno!
+Dialogue: 0,0:02:46.24,0:02:48.29,Default,,0,0,0,,Un momento. Dejaste comida en el plato.
+Dialogue: 0,0:02:48.37,0:02:50.96,Default,,0,0,0,,Si no comes bien, no vas a crecer.
+Dialogue: 0,0:02:51.04,0:02:54.54,Default,,0,0,0,,¡Es cierto! Mírame a mí,\Nvoy por el segundo plato.
+Dialogue: 0,0:02:54.63,0:02:57.01,Default,,0,0,0,,¿Por eso tienes la panza\Ncada vez más grande?
+Dialogue: 0,0:02:57.88,0:03:00.43,Default,,0,0,0,,-¿También lo notaste, Hikaru?\N-¿Qué?
+Dialogue: 0,0:03:00.51,0:03:02.43,Default,,0,0,0,,¿Estás engordando?
+Dialogue: 0,0:03:02.51,0:03:03.72,Default,,0,0,0,,No tú también, cariño.
+Dialogue: 0,0:03:03.80,0:03:07.72,Default,,0,0,0,,Aunque admito que últimamente…\NOye, ¡no cambies de tema!
+Dialogue: 0,0:03:08.52,0:03:13.40,Default,,0,0,0,,Vamos, Hikaru.\NTe ayudaré a que termines el plato.
+Dialogue: 0,0:03:15.23,0:03:18.36,Default,,0,0,0,,-¡Vaya!\N-Gracias, Taiyo.
+Dialogue: 0,0:03:18.44,0:03:19.90,Default,,0,0,0,,¡Vaya, hermano mayor!
+Dialogue: 0,0:03:19.99,0:03:21.49,Default,,0,0,0,,¿No te salpicaste con el té?
+Dialogue: 0,0:03:21.57,0:03:23.07,Default,,0,0,0,,No, estoy bien.
+Dialogue: 0,0:03:23.16,0:03:26.16,Default,,0,0,0,,{\i1}¿Cómo acabo de…?{\i0}
+Dialogue: 0,0:03:26.24,0:03:29.70,Default,,0,0,0,,¡Ya sé! ¿Por qué no vamos\Na algún lado este fin de semana?
+Dialogue: 0,0:03:29.79,0:03:32.58,Default,,0,0,0,,¡Buena idea! ¿Adónde quieren ir?
+Dialogue: 0,0:03:32.67,0:03:34.88,Default,,0,0,0,,¡Yo quiero ir de campamento!
+Dialogue: 0,0:03:34.96,0:03:36.67,Default,,0,0,0,,¿De campamento?
+Dialogue: 0,0:03:36.75,0:03:39.21,Default,,0,0,0,,Ahora que lo pienso,\Nhace mucho que no lo hacemos.
+Dialogue: 0,0:03:39.30,0:03:42.30,Default,,0,0,0,,Cuando era más joven,\Nsoñaba con ir a acampar solo,
+Dialogue: 0,0:03:42.38,0:03:46.43,Default,,0,0,0,,así que leí muchas revistas\Ny compré todos los elementos,
+Dialogue: 0,0:03:46.51,0:03:49.68,Default,,0,0,0,,pero al final nunca los usé.
+Dialogue: 0,0:03:49.77,0:03:51.89,Default,,0,0,0,,¿También te gustaría hacer eso, Taiyo?
+Dialogue: 0,0:03:51.98,0:03:53.02,Default,,0,0,0,,Bueno…
+Dialogue: 0,0:03:53.10,0:03:54.65,Default,,0,0,0,,Lo que quieran está bien.
+Dialogue: 0,0:03:54.73,0:03:56.61,Default,,0,0,0,,¿Podrás dejar el trabajo, mamá?
+Dialogue: 0,0:03:56.69,0:03:59.07,Default,,0,0,0,,¡Por supuesto! Me tomé unos días.
+Dialogue: 0,0:03:59.15,0:04:01.70,Default,,0,0,0,,-¡Eres genial!\N-¡Así se hace!
+Dialogue: 0,0:04:01.78,0:04:03.03,Default,,0,0,0,,¡Será divertido!
+Dialogue: 0,0:04:08.08,0:04:10.91,Default,,0,0,0,,PRESIONA
+Dialogue: 0,0:04:11.75,0:04:13.96,Default,,0,0,0,,FIN DEL JUEGO
+Dialogue: 0,0:04:14.04,0:04:16.50,Default,,0,0,0,,Vamos, hermano mayor, ¿qué fue eso?
+Dialogue: 0,0:04:16.59,0:04:18.38,Default,,0,0,0,,¡Perdimos por tu culpa!
+Dialogue: 0,0:04:18.46,0:04:19.92,Default,,0,0,0,,Disculpa.
+Dialogue: 0,0:04:20.51,0:04:24.76,Default,,0,0,0,,Hoy no eres el de siempre.\NEstás como aturdido todo el tiempo.
+Dialogue: 0,0:04:24.84,0:04:27.47,Default,,0,0,0,,Lo siento, ¿sí? Juguemos otra vez.
+Dialogue: 0,0:04:27.55,0:04:29.97,Default,,0,0,0,,Cielos, ¡concéntrate en el juego esta vez!
+Dialogue: 0,0:04:30.06,0:04:31.48,Default,,0,0,0,,¡Entendido!
+Dialogue: 0,0:04:32.02,0:04:33.02,Default,,0,0,0,,{\an8}Cargando
+Dialogue: 0,0:04:33.10,0:04:35.40,Default,,0,0,0,,{\an8}El problema es que te abres demasiado.
+Dialogue: 0,0:04:35.48,0:04:38.23,Default,,0,0,0,,Tienes que mirar todo el campo.
+Dialogue: 0,0:04:38.94,0:04:41.82,Default,,0,0,0,,Bien, esta vez pasaremos de nivel.
+Dialogue: 0,0:04:43.20,0:04:44.78,Default,,0,0,0,,{\i1}¿Qué fue eso?{\i0}
+Dialogue: 0,0:04:45.95,0:04:47.37,Default,,0,0,0,,{\i1}Siento que…{\i0}
+Dialogue: 0,0:04:47.45,0:04:50.37,Default,,0,0,0,,{\i1}Olvidé algo importante.{\i0}
+Dialogue: 0,0:04:53.21,0:04:54.87,Default,,0,0,0,,{\i1}Bueno, como sea.{\i0}
+Dialogue: 0,0:05:13.98,0:05:16.35,Default,,0,0,0,,{\i1}¡Hermano mayor Shinzo! ¡Kengo!{\i0}
+Dialogue: 0,0:05:20.44,0:05:21.69,Default,,0,0,0,,{\i1}¿Al barco?{\i0}
+Dialogue: 0,0:05:55.64,0:05:56.94,Default,,0,0,0,,¡Mutsumi!
+Dialogue: 0,0:06:08.95,0:06:11.28,Default,,0,0,0,,¡Hermano mayor Kyoichiro!\N¡Hermana mayor Futaba!
+Dialogue: 0,0:06:11.37,0:06:13.74,Default,,0,0,0,,¡Hermano mayor Shinzo!\N¡Hermana mayor Shion!
+Dialogue: 0,0:06:13.83,0:06:15.66,Default,,0,0,0,,¡Kengo! ¡Nanao!
+Dialogue: 0,0:06:20.58,0:06:21.79,Default,,0,0,0,,{\i1}¿Todos ellos?{\i0}
+Dialogue: 0,0:06:24.38,0:06:27.30,Default,,0,0,0,,{\i1}¿Ese es el poder de Padre?{\i0}
+Dialogue: 0,0:06:37.89,0:06:39.94,Default,,0,0,0,,{\i1}Escaneo del barco completo.{\i0}
+Dialogue: 0,0:06:40.02,0:06:44.15,Default,,0,0,0,,{\i1}Detecto altos niveles de someinina{\i0}\N{\i1}que se esparcen por todo el barco.{\i0}
+Dialogue: 0,0:06:44.23,0:06:47.36,Default,,0,0,0,,{\i1}Si hay una explosión simultánea,{\i0}\N{\i1}no solo desaparecerá el barco.{\i0}
+Dialogue: 0,0:06:47.44,0:06:50.11,Default,,0,0,0,,{\i1}Todas las aguas que lo rodean{\i0}\N{\i1}serán eliminadas.{\i0}
+Dialogue: 0,0:06:50.20,0:06:52.32,Default,,0,0,0,,¿Pudiste contactarte con los Yozakura?
+Dialogue: 0,0:06:52.41,0:06:56.04,Default,,0,0,0,,{\i1}Los módulos fueron incinerados,{\i0}\N{\i1}así que no hay comunicación.{\i0}
+Dialogue: 0,0:06:56.12,0:06:57.87,Default,,0,0,0,,¡Tenemos que rescatarlos!
+Dialogue: 0,0:06:57.95,0:06:59.12,Default,,0,0,0,,Espera, Ryu.
+Dialogue: 0,0:07:00.12,0:07:01.33,Default,,0,0,0,,No me detengas.
+Dialogue: 0,0:07:02.21,0:07:06.30,Default,,0,0,0,,No podemos ir a ciegas sin saber qué pasa.
+Dialogue: 0,0:07:06.80,0:07:09.42,Default,,0,0,0,,Esta vez coincido con el presidente.
+Dialogue: 0,0:07:11.72,0:07:12.97,Default,,0,0,0,,Bueno. Está bien.
+Dialogue: 0,0:07:13.97,0:07:17.10,Default,,0,0,0,,Giga, llama\Na la Sala de Control del Puerto.
+Dialogue: 0,0:07:17.18,0:07:19.43,Default,,0,0,0,,Pídeles que expandan el bloqueo.
+Dialogue: 0,0:07:19.52,0:07:20.85,Default,,0,0,0,,{\i1}¡Entendido!{\i0}
+Dialogue: 0,0:07:24.44,0:07:26.36,Default,,0,0,0,,Dejémosle el resto a ellos.
+Dialogue: 0,0:07:27.36,0:07:30.03,Default,,0,0,0,,{\i1}Sin importar qué,{\i0}\N{\i1}como están las cosas ahora,{\i0}
+Dialogue: 0,0:07:31.40,0:07:33.16,Default,,0,0,0,,{\i1}el único que puede salvarlos…{\i0}
+Dialogue: 0,0:07:34.78,0:07:36.08,Default,,0,0,0,,{\i1}¡soy yo!{\i0}
+Dialogue: 0,0:07:50.05,0:07:54.76,Default,,0,0,0,,Arrasaste con la fiesta de bienvenida\Nque te envié. Qué salvaje.
+Dialogue: 0,0:07:54.84,0:07:57.22,Default,,0,0,0,,Empiezas a parecerte a Kyoichiro.
+Dialogue: 0,0:07:57.31,0:07:59.93,Default,,0,0,0,,Él llegará pronto.
+Dialogue: 0,0:08:21.29,0:08:23.75,Default,,0,0,0,,Bienvenido a casa, Taiyo.
+Dialogue: 0,0:08:24.83,0:08:26.13,Default,,0,0,0,,Es hora de cenar.
+Dialogue: 0,0:08:26.63,0:08:27.96,Default,,0,0,0,,Siéntate.
+Dialogue: 0,0:08:40.01,0:08:41.89,Default,,0,0,0,,¿Qué les hiciste?
+Dialogue: 0,0:08:52.36,0:08:55.41,Default,,0,0,0,,Mi florecer es "Sueños".
+Dialogue: 0,0:08:57.32,0:08:58.95,Default,,0,0,0,,{\i1}Tuviste un sueño, ¿no?{\i0}
+Dialogue: 0,0:08:59.03,0:09:03.37,Default,,0,0,0,,{\i1}Un sueño ideal donde no existen{\i0}\N{\i1}el dolor y el sufrimiento.{\i0}
+Dialogue: 0,0:09:04.75,0:09:09.38,Default,,0,0,0,,Esta esencia de flor de cerezo\Nenvuelve todo mi sueño.
+Dialogue: 0,0:09:09.88,0:09:12.05,Default,,0,0,0,,No existe alma que pueda resistirse.
+Dialogue: 0,0:09:12.13,0:09:16.76,Default,,0,0,0,,Tú eres la única excepción,\Nporque tienes la sangre de Tsubomi.
+Dialogue: 0,0:09:20.68,0:09:23.93,Default,,0,0,0,,¡Vuelve a convertirlos en quienes eran!
+Dialogue: 0,0:09:24.02,0:09:26.27,Default,,0,0,0,,Ya los convertí.
+Dialogue: 0,0:09:26.77,0:09:29.40,Default,,0,0,0,,Es decir, en lo que mi familia debe ser.
+Dialogue: 0,0:09:30.36,0:09:31.86,Default,,0,0,0,,¿A esto llamas familia?
+Dialogue: 0,0:09:32.57,0:09:34.11,Default,,0,0,0,,Una familia es…
+Dialogue: 0,0:09:37.70,0:09:39.32,Default,,0,0,0,,TUMBA DE LA FAMILIA ASANO
+Dialogue: 0,0:09:40.03,0:09:41.99,Default,,0,0,0,,Una familia es…
+Dialogue: 0,0:09:43.66,0:09:47.42,Default,,0,0,0,,Te equivocas. Esto es una familia, Taiyo.
+Dialogue: 0,0:09:49.54,0:09:51.46,Default,,0,0,0,,Deberías saberlo bien.
+Dialogue: 0,0:09:51.96,0:09:54.09,Default,,0,0,0,,Las familias son frágiles y efímeras.
+Dialogue: 0,0:09:54.71,0:09:57.97,Default,,0,0,0,,Por eso decidí crear una desde cero.
+Dialogue: 0,0:09:58.55,0:10:01.60,Default,,0,0,0,,Una familia fuerte\Nque nunca pueda destruirse.
+Dialogue: 0,0:10:26.79,0:10:28.21,Default,,0,0,0,,Llegué demasiado tarde.
+Dialogue: 0,0:10:28.29,0:10:31.92,Default,,0,0,0,,Maldito Kawashita.\NTuvo las agallas de hacer esto…
+Dialogue: 0,0:10:32.00,0:10:34.71,Default,,0,0,0,,Este chico me pertenece.
+Dialogue: 0,0:10:39.84,0:10:41.43,Default,,0,0,0,,Te llevaré de regreso.
+Dialogue: 0,0:10:46.93,0:10:48.23,Default,,0,0,0,,{\i1}No es un sueño.{\i0}
+Dialogue: 0,0:10:49.10,0:10:50.23,Default,,0,0,0,,{\i1}Recuerdo esto.{\i0}
+Dialogue: 0,0:10:51.35,0:10:53.36,Default,,0,0,0,,{\i1}Pensé que imaginaba cosas.{\i0}
+Dialogue: 0,0:10:54.02,0:10:56.65,Default,,0,0,0,,Los paramédicos\Npueden encargarse del resto.
+Dialogue: 0,0:10:57.15,0:10:59.86,Default,,0,0,0,,{\i1}Pero ese día, estoy seguro{\i0}
+Dialogue: 0,0:11:00.78,0:11:01.82,Default,,0,0,0,,{\i1}de que alguien…{\i0}
+Dialogue: 0,0:11:05.66,0:11:09.16,Default,,0,0,0,,Te estuve observando todo este tiempo.
+Dialogue: 0,0:11:10.46,0:11:12.63,Default,,0,0,0,,{\i1}Por más que luchara,{\i0}
+Dialogue: 0,0:11:12.71,0:11:15.67,Default,,0,0,0,,{\i1}no podía romper{\i0}\N{\i1}el ciclo kármico de los Yozakura.{\i0}
+Dialogue: 0,0:11:16.63,0:11:19.84,Default,,0,0,0,,{\i1}Así que necesitaba sangre fresca.{\i0}
+Dialogue: 0,0:11:21.26,0:11:22.64,Default,,0,0,0,,{\i1}Fue una decisión fácil.{\i0}
+Dialogue: 0,0:11:22.72,0:11:28.31,Default,,0,0,0,,{\i1}Nada mejor para Mutsumi{\i0}\N{\i1}que un vecino simple y sincero como tú.{\i0}
+Dialogue: 0,0:11:37.82,0:11:41.57,Default,,0,0,0,,{\i1}Yo fui quien te eligió.{\i0}
+Dialogue: 0,0:11:49.41,0:11:51.04,Default,,0,0,0,,{\i1}No me importa{\i0}
+Dialogue: 0,0:11:51.62,0:11:54.83,Default,,0,0,0,,{\i1}a quién deba sacrificar{\i0}\N{\i1}si es por todos ustedes.{\i0}
+Dialogue: 0,0:11:56.71,0:12:01.30,Default,,0,0,0,,Yo soy el que te hizo fuerte.
+Dialogue: 0,0:12:08.35,0:12:12.56,Default,,0,0,0,,Sí, la Floración Profusa de 10 000 Flores\Npuede resistirse a mi florecer.
+Dialogue: 0,0:12:13.10,0:12:17.44,Default,,0,0,0,,Pero ahora que te afectan tus recuerdos,\Ndejaste una puerta abierta.
+Dialogue: 0,0:12:18.07,0:12:20.90,Default,,0,0,0,,Estás en medio de un sueño
+Dialogue: 0,0:12:21.44,0:12:23.45,Default,,0,0,0,,del que nunca despertarás.
+Dialogue: 0,0:12:24.07,0:12:27.08,Default,,0,0,0,,La familia ideal que imaginé
+Dialogue: 0,0:12:27.16,0:12:29.99,Default,,0,0,0,,se completará por fin, aquí y ahora.
+Dialogue: 0,0:12:36.96,0:12:40.71,Default,,0,0,0,,Taiyo, bienvenido a la familia Yozakura.
+Dialogue: 0,0:12:53.69,0:12:55.27,Default,,0,0,0,,¡Al diablo con esta ilusión!
+Dialogue: 0,0:13:05.74,0:13:07.66,Default,,0,0,0,,Déjame mostrarte
+Dialogue: 0,0:13:08.32,0:13:12.54,Default,,0,0,0,,la verdadera felicidad,\Ndonde no falta ninguna persona.
+Dialogue: 0,0:13:13.66,0:13:16.17,Default,,0,0,0,,Puedes relajarte.
+Dialogue: 0,0:13:16.67,0:13:19.09,Default,,0,0,0,,No puedes culparte por nada de esto.
+Dialogue: 0,0:13:19.17,0:13:20.63,Default,,0,0,0,,No hiciste nada malo.
+Dialogue: 0,0:13:21.13,0:13:26.05,Default,,0,0,0,,Entrégate al sueño feliz\Nque buscaste todo este tiempo…
+Dialogue: 0,0:13:26.13,0:13:27.30,Default,,0,0,0,,Taiyo.
+Dialogue: 0,0:13:27.97,0:13:31.06,Default,,0,0,0,,Creciste mucho, Taiyo.
+Dialogue: 0,0:13:48.03,0:13:49.20,Default,,0,0,0,,{\i1}Mamá.{\i0}
+Dialogue: 0,0:13:54.58,0:13:57.58,Default,,0,0,0,,Perdónanos por dejarte solo, Taiyo.
+Dialogue: 0,0:13:59.00,0:14:02.59,Default,,0,0,0,,{\an8}CEREMONIA DE MATRICULACIÓN
+Dialogue: 0,0:14:14.56,0:14:15.56,Default,,0,0,0,,{\i1}Papá.{\i0}
+Dialogue: 0,0:14:16.60,0:14:19.60,Default,,0,0,0,,¡Te extrañé, hermano mayor!
+Dialogue: 0,0:14:24.69,0:14:27.15,Default,,0,0,0,,¡PRESIONA!
+Dialogue: 0,0:14:27.95,0:14:30.07,Default,,0,0,0,,PERDEDOR - GANADOR
+Dialogue: 0,0:14:37.12,0:14:38.25,Default,,0,0,0,,{\i1}Hikaru.{\i0}
+Dialogue: 0,0:14:40.08,0:14:43.25,Default,,0,0,0,,Basta. ¡No hables de mi familia
+Dialogue: 0,0:14:43.34,0:14:46.55,Default,,0,0,0,,con esas imágenes y voces falsas!
+Dialogue: 0,0:14:47.05,0:14:48.59,Default,,0,0,0,,{\i1}No puedo volver a verlos.{\i0}
+Dialogue: 0,0:14:48.67,0:14:50.30,Default,,0,0,0,,{\i1}No puedo volver a hablar con ellos.{\i0}
+Dialogue: 0,0:14:50.38,0:14:51.93,Default,,0,0,0,,{\i1}No puedo volver atrás.{\i0}
+Dialogue: 0,0:14:52.01,0:14:54.35,Default,,0,0,0,,Por más que me arrepienta,\Nes demasiado tarde.
+Dialogue: 0,0:14:54.43,0:14:56.85,Default,,0,0,0,,Por más que me importe,\Nno servirá de nada.
+Dialogue: 0,0:14:56.93,0:15:01.10,Default,,0,0,0,,{\i1}Recé, grité, me enojé, lloré…{\i0}
+Dialogue: 0,0:15:04.07,0:15:05.48,Default,,0,0,0,,Y lo acepté.
+Dialogue: 0,0:15:06.15,0:15:09.70,Default,,0,0,0,,Entonces, acepta una vez más
+Dialogue: 0,0:15:09.78,0:15:13.03,Default,,0,0,0,,el futuro que siempre debiste tener.
+Dialogue: 0,0:15:13.12,0:15:19.12,Default,,0,0,0,,Así, la ficción se hará realidad\Ny las mentiras se convertirán en verdad.
+Dialogue: 0,0:15:22.54,0:15:24.09,Default,,0,0,0,,Y entonces…
+Dialogue: 0,0:15:32.34,0:15:33.43,Default,,0,0,0,,¡Ya llegué!
+Dialogue: 0,0:15:34.30,0:15:35.60,Default,,0,0,0,,¡Hermano mayor!
+Dialogue: 0,0:15:37.06,0:15:38.72,Default,,0,0,0,,Apúrate, hermano mayor.
+Dialogue: 0,0:15:38.81,0:15:41.81,Default,,0,0,0,,¡El carrusel del hermano mayor Nanao\Nes asombroso!
+Dialogue: 0,0:15:41.89,0:15:45.40,Default,,0,0,0,,¡Cuidado, Hikaru! Mira por dónde caminas.
+Dialogue: 0,0:15:45.48,0:15:47.61,Default,,0,0,0,,Hikaru tiene mucha energía.
+Dialogue: 0,0:15:47.69,0:15:51.15,Default,,0,0,0,,Con dos hijos varones,\Nnunca puedo descansar.
+Dialogue: 0,0:15:51.24,0:15:53.45,Default,,0,0,0,,Por eso me alegra mucho
+Dialogue: 0,0:15:53.53,0:15:56.99,Default,,0,0,0,,que una chica como Mutsumi\Nsea la novia de Taiyo.
+Dialogue: 0,0:15:58.20,0:16:00.79,Default,,0,0,0,,Aquí hay tanta vida que me siento feliz.
+Dialogue: 0,0:16:00.87,0:16:03.83,Default,,0,0,0,,Señor Momo, ¿bebemos algo esta noche?
+Dialogue: 0,0:16:03.92,0:16:05.17,Default,,0,0,0,,¡Me parece bien!
+Dialogue: 0,0:16:05.25,0:16:08.00,Default,,0,0,0,,¿Por qué no abrimos\Notra botella de Tormenta Yozakura?
+Dialogue: 0,0:16:08.09,0:16:12.30,Default,,0,0,0,,¡Taiyo! ¡Hikaru! ¡Vengan ya!
+Dialogue: 0,0:16:21.48,0:16:22.48,Default,,0,0,0,,{\i1}No.{\i0}
+Dialogue: 0,0:16:23.10,0:16:24.81,Default,,0,0,0,,{\i1}Esto no es la realidad.{\i0}
+Dialogue: 0,0:16:25.44,0:16:26.44,Default,,0,0,0,,{\i1}Y sin embargo…{\i0}
+Dialogue: 0,0:16:29.61,0:16:31.40,Default,,0,0,0,,Vamos, hermano mayor.
+Dialogue: 0,0:16:41.79,0:16:42.79,Default,,0,0,0,,{\i1}¡Maldita sea!{\i0}
+Dialogue: 0,0:16:58.26,0:17:00.81,Default,,0,0,0,,Hermano mayor…
+Dialogue: 0,0:17:07.81,0:17:12.86,Default,,0,0,0,,Qué propio de ti\Nhacer una entrada tan violenta, Kyoichiro.
+Dialogue: 0,0:17:12.94,0:17:15.91,Default,,0,0,0,,Ahora, ven a sentarte.
+Dialogue: 0,0:17:38.39,0:17:39.89,Default,,0,0,0,,¡Hermano mayor Kyoichiro!
+Dialogue: 0,0:17:44.10,0:17:45.64,Default,,0,0,0,,La Telaraña de la diosa Aracne…
+Dialogue: 0,0:17:45.73,0:17:48.52,Default,,0,0,0,,El muro inexpugnable que sella todo,
+Dialogue: 0,0:17:48.60,0:17:50.57,Default,,0,0,0,,una técnica secreta de la araña de acero.
+Dialogue: 0,0:17:51.15,0:17:52.44,Default,,0,0,0,,Ya veo.
+Dialogue: 0,0:17:52.53,0:17:55.32,Default,,0,0,0,,Por eso mi esencia de flor de cerezo\Nno podía llegar a él
+Dialogue: 0,0:17:55.40,0:17:58.70,Default,,0,0,0,,y mi florecer no lo afectó para nada.
+Dialogue: 0,0:17:59.95,0:18:03.24,Default,,0,0,0,,Veo que por fin\Nla perfeccionaste, Kyoichiro.
+Dialogue: 0,0:18:03.74,0:18:07.00,Default,,0,0,0,,Siento nostalgia por los días\Nque pasamos inventándola juntos.
+Dialogue: 0,0:18:07.08,0:18:10.84,Default,,0,0,0,,Una habilidad que creamos\Npor el bien de la familia.
+Dialogue: 0,0:18:10.92,0:18:13.55,Default,,0,0,0,,Así que no era esta la forma\Nen que debía usarse.
+Dialogue: 0,0:18:17.01,0:18:18.80,Default,,0,0,0,,Voy a proteger a mi familia
+Dialogue: 0,0:18:18.88,0:18:21.97,Default,,0,0,0,,de todos los males
+Dialogue: 0,0:18:24.52,0:18:27.52,Default,,0,0,0,,y de lo que estoy por hacer ahora.
+Dialogue: 0,0:18:29.27,0:18:30.48,Default,,0,0,0,,Maravilloso.
+Dialogue: 0,0:18:31.19,0:18:33.48,Default,,0,0,0,,¡Es maravilloso, Kyoichiro!
+Dialogue: 0,0:18:37.07,0:18:40.03,Default,,0,0,0,,{\i1}Es verdad que no puedo destruir{\i0}\N{\i1}la Telaraña de la diosa Aracne.{\i0}
+Dialogue: 0,0:18:40.11,0:18:41.12,Default,,0,0,0,,{\i1}Pero…{\i0}
+Dialogue: 0,0:18:41.70,0:18:45.04,Default,,0,0,0,,{\i1}Yo fui el que te enseñó a usar esos hilos.{\i0}
+Dialogue: 0,0:18:45.66,0:18:48.41,Default,,0,0,0,,{\i1}Tu técnica de hilado es tu alma.{\i0}
+Dialogue: 0,0:18:48.50,0:18:52.88,Default,,0,0,0,,{\i1}Tu método de entrelazado{\i0}\N{\i1}muestra tu amor por tu familia.{\i0}
+Dialogue: 0,0:18:53.46,0:18:57.30,Default,,0,0,0,,{\i1}Quizás no pueda romperlo,{\i0}\N{\i1}pero puedo desarmarlo,{\i0}
+Dialogue: 0,0:18:57.38,0:18:59.34,Default,,0,0,0,,{\i1}al igual que desarmo tu alma.{\i0}
+Dialogue: 0,0:18:59.43,0:19:04.68,Default,,0,0,0,,{\i1}Tu ira y odio hacia mí{\i0}\N{\i1}no necesitan estos recuerdos.{\i0}
+Dialogue: 0,0:19:04.76,0:19:08.27,Default,,0,0,0,,{\i1}Deja de pensar que debes matarme.{\i0}
+Dialogue: 0,0:19:08.85,0:19:13.19,Default,,0,0,0,,{\i1}Porque, desde ahora, vas a amarme.{\i0}
+Dialogue: 0,0:19:43.89,0:19:46.10,Default,,0,0,0,,¡Estás practicando desde muy temprano!
+Dialogue: 0,0:19:47.39,0:19:48.39,Default,,0,0,0,,Papá.
+Dialogue: 0,0:19:49.35,0:19:52.10,Default,,0,0,0,,¿Por qué no practicas conmigo?
+Dialogue: 0,0:19:59.28,0:20:03.74,Default,,0,0,0,,La velocidad de tus reflejos no está mal,\Npero son muy directos.
+Dialogue: 0,0:20:03.82,0:20:07.79,Default,,0,0,0,,Tienes que rechazar\Nmúltiples ataques con un solo hilo.
+Dialogue: 0,0:20:07.87,0:20:10.66,Default,,0,0,0,,Supera a tu enemigo\Ncon maniobras de defensa.
+Dialogue: 0,0:20:14.96,0:20:19.17,Default,,0,0,0,,Hazlo, y podrás ganar tiempo\Npara lanzar tu ataque.
+Dialogue: 0,0:20:25.05,0:20:28.51,Default,,0,0,0,,¡Ese es mi hijo! Aprendes muy rápido.
+Dialogue: 0,0:20:28.60,0:20:29.68,Default,,0,0,0,,Y ahora…
+Dialogue: 0,0:20:29.77,0:20:31.10,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:20:31.73,0:20:33.35,Default,,0,0,0,,¡Vaya!
+Dialogue: 0,0:20:33.44,0:20:35.81,Default,,0,0,0,,Son guantes de araña de acero.
+Dialogue: 0,0:20:35.90,0:20:38.90,Default,,0,0,0,,Te quedan mejor\Nque las armas o los cuchillos, ¿no?
+Dialogue: 0,0:20:38.98,0:20:41.03,Default,,0,0,0,,Por cierto, ¡tenemos los mismos!
+Dialogue: 0,0:20:41.11,0:20:42.11,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:20:42.19,0:20:45.61,Default,,0,0,0,,{\i1}Hasta ahora practicaste{\i0}\N{\i1}con las manos desnudas,{\i0}
+Dialogue: 0,0:20:45.70,0:20:48.12,Default,,0,0,0,,{\i1}así que sentiste{\i0}\N{\i1}cada movimiento de los hilos.{\i0}
+Dialogue: 0,0:20:48.20,0:20:51.75,Default,,0,0,0,,{\i1}Por eso, tus hilos{\i0}\N{\i1}son cada vez más filosos.{\i0}
+Dialogue: 0,0:20:51.83,0:20:55.92,Default,,0,0,0,,{\i1}El próximo paso es entender{\i0}\N{\i1}la verdadera naturaleza de ese poder.{\i0}
+Dialogue: 0,0:20:56.92,0:20:59.92,Default,,0,0,0,,¿Cómo quieres usar este poder?
+Dialogue: 0,0:21:00.59,0:21:03.88,Default,,0,0,0,,Usaré este poder para proteger a todos.
+Dialogue: 0,0:21:04.59,0:21:06.22,Default,,0,0,0,,¿Sí?
+Dialogue: 0,0:21:06.30,0:21:09.39,Default,,0,0,0,,Esos hilos cortan a tus enemigos\Ny envuelven a tus aliados.
+Dialogue: 0,0:21:09.89,0:21:14.69,Default,,0,0,0,,Los guantes son armas, pero también\Nuna armadura que protege tus manos.
+Dialogue: 0,0:21:14.77,0:21:16.98,Default,,0,0,0,,Puse mi corazón al hacerlos,
+Dialogue: 0,0:21:17.06,0:21:19.52,Default,,0,0,0,,para que no te lastimes.
+Dialogue: 0,0:21:19.61,0:21:21.65,Default,,0,0,0,,Cuídalos bien.
+Dialogue: 0,0:21:21.73,0:21:23.53,Default,,0,0,0,,Gracias, papá.
+Dialogue: 0,0:21:24.32,0:21:26.11,Default,,0,0,0,,Los atesoraré.
+Dialogue: 0,0:21:34.91,0:21:38.38,Default,,0,0,0,,No te esfuerces tanto\Nen lavarme el cerebro, papá.
+Dialogue: 0,0:21:38.88,0:21:40.00,Default,,0,0,0,,Después de todo…
+Dialogue: 0,0:21:40.67,0:21:42.25,Default,,0,0,0,,Yo te quiero, papá.
+Dialogue: 0,0:21:42.76,0:21:44.13,Default,,0,0,0,,Tanto antes como ahora.
+Dialogue: 0,0:21:47.18,0:21:51.18,Default,,0,0,0,,Por eso no pude detenerte,\Naunque debí hacerlo.
+Dialogue: 0,0:21:51.68,0:21:52.68,Default,,0,0,0,,Porque…
+Dialogue: 0,0:21:52.77,0:21:57.69,Default,,0,0,0,,Tenía la esperanza\Nde que mi familia regresara.
+Dialogue: 0,0:21:58.73,0:22:00.82,Default,,0,0,0,,{\i1}Aunque sabía que nunca iba a pasar.{\i0}
+Dialogue: 0,0:22:01.73,0:22:03.03,Default,,0,0,0,,No soy distinto…
+Dialogue: 0,0:22:03.11,0:22:04.24,Default,,0,0,0,,A ti, papá.
+Dialogue: 0,0:22:07.40,0:22:10.87,Default,,0,0,0,,Terminemos esto ahora… por nuestro bien.
+Dialogue: 0,0:22:33.26,0:22:35.56,Default,,0,0,0,,Adiós, papá.
+Dialogue: 0,0:24:16.91,0:24:18.91,Default,,0,0,0,,Subtitulado por Emilia Mas
+
