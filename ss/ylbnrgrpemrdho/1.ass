@@ -1,0 +1,114 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+Timer: 0.0000
+WrapStyle: 0
+YCbCr Matrix: TV.601
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: TopLeft,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,7,10,10,18,0
+Style: TopCenter,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,8,10,10,18,0
+Style: TopRight,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,9,10,10,18,0
+Style: CenterLeft,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,4,10,10,18,0
+Style: CenterCenter,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,5,10,10,18,0
+Style: CenterRight,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,6,10,10,18,0
+Style: BottomLeft,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,1,10,10,18,0
+Style: BottomCenter,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,2,10,10,18,0
+Style: BottomRight,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,3,10,10,18,0
+Style: Signs_Fix,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:09.24,Signs_Fix,SIGN,0,0,0,,{\bord0\shad0\b1\blur0.2\fs15\t(\fs14)\c&H515151&\move(208.5,56.5,212,59.5)}Team
+Dialogue: 0,0:00:00.00,0:00:09.24,Signs_Fix,SIGN,0,0,0,,{\bord0\shad0\b1\blur0.2\fs12\t(\fs11.5)\c&H515151&\move(288,55.5,289,59)}Points
+Dialogue: 0,0:00:00.00,0:00:09.24,Signs_Fix,SIGN,0,0,0,,{\bord0\shad0\b1\blur0.2\fs12\t(\fs11.5)\c&H515151&\move(330,55.5,329.5,59)}Wins
+Dialogue: 0,0:00:00.00,0:00:09.24,Signs_Fix,SIGN,0,0,0,,{\bord0\shad0\b1\blur0.2\fs12\t(\fs11.5)\c&H515151&\move(372,55.5,371,59)}Draws
+Dialogue: 0,0:00:00.00,0:00:09.24,Signs_Fix,SIGN,0,0,0,,{\bord0\shad0\b1\blur0.2\fs12\t(\fs11.5)\c&H515151&\move(415.5,55.5,412,59)}Losses
+Dialogue: 0,0:00:00.00,0:00:09.24,Signs_Fix,SIGN,0,0,0,,{\bord0\shad0\b1\blur0.2\fs10\t(\fs9.5)\c&H515151&\move(457.5,55.5,453,59)}Position
+Dialogue: 0,0:00:00.00,0:00:09.24,Signs_Fix,SIGN,0,0,0,,{\bord2\shad0\b1\blur0.2\fs12\t(\fs11.75)\c&H515151&\3c&HF4F4F4&\move(209,86,212.5,88.5)}Esperion
+Dialogue: 0,0:00:00.00,0:00:09.24,Signs_Fix,SIGN,0,0,0,,{\bord2\shad0\b1\blur0.2\fs12\t(\fs11.75)\c&H515151&\3c&HF4F4F4&\move(209.5,114,213,116.5)}Aomori Seiran
+Dialogue: 0,0:00:00.00,0:00:09.24,Signs_Fix,SIGN,0,0,0,,{\bord2\shad0\b1\blur0.2\fs12\t(\fs11.75)\c&H515151&\3c&HF4F4F4&\move(212,142.5,216,143.5)}Funabashi Academy
+Dialogue: 0,0:00:00.00,0:00:09.24,Signs_Fix,SIGN,0,0,0,,{\bord2\shad0\b1\blur0.2\fs12\t(\fs11.75)\c&H515151&\3c&HF4F4F4&\move(209,171,212.5,171)}FC Kashima
+Dialogue: 0,0:00:00.00,0:00:09.24,Signs_Fix,SIGN,0,0,0,,{\bord2\shad0\b1\blur0.2\fs12\t(\fs11.75)\c&H515151&\3c&HF4F4F4&\move(209,199,212.5,198.5)}Kashiwa Dai
+Dialogue: 0,0:00:00.00,0:00:09.24,Signs_Fix,SIGN,0,0,0,,{\bord2\shad0\b1\blur0.2\fs12\t(\fs11.75)\c&H515151&\3c&HF4F4F4&\move(209,228,212.5,226.5)}Soleil Kashiwa
+Dialogue: 0,0:00:00.00,0:00:09.24,Signs_Fix,SIGN,0,0,0,,{\bord2\shad0\b1\blur0.2\fs12\t(\fs11.75)\c&H515151&\3c&HF4F4F4&\move(209,256.5,212.5,254.5)}Omiya Aranciano
+Dialogue: 0,0:00:00.00,0:00:09.24,Signs_Fix,SIGN,0,0,0,,{\bord2\shad0\b1\blur0.2\fs12\t(\fs11.75)\c&H515151&\3c&HF4F4F4&\move(208,285,211.5,281.5)}Shimizu SC
+Dialogue: 0,0:00:00.00,0:00:09.24,Signs_Fix,SIGN,0,0,0,,{\bord2\shad0\b1\blur0.2\fs12\t(\fs11.75)\c&H515151&\3c&HF4F4F4&\move(209,312.5,212.5,308.5)}Balangale Sapporo
+Dialogue: 0,0:00:00.00,0:00:09.24,Signs_Fix,SIGN,0,0,0,,{\bord2\shad0\b1\blur0.2\fs12\t(\fs11.75)\c&H515151&\3c&HF4F4F4&\move(209,341,212.5,335.5)}Tokyo VANS
+Dialogue: 0,0:00:00.25,0:00:07.04,TopCenter,,0,0,0,,LEAGUE TABLE
+Dialogue: 0,0:02:31.63,0:02:36.15,Signs_Fix,SIGN,0,0,0,,{\fad(500,525)\fnArial\shad0.7\fs22\fscx90\b1\bord1.6\fsp0.5\blur0.2\3c&HA95C35&\4c&H744B35&\c&HFFFFFF&\pos(137,316)}Teach Me
+Dialogue: 0,0:02:34.13,0:02:40.06,Signs_Fix,SIGN,0,0,0,,{\bord0\blur0.2\shad0\fs15\an8\fax-0.16\fay0.065\b1\fscx95\c&H0A4432&\frx10\fry350\move(284,287,274,472)}Nikaido
+Dialogue: 0,0:02:34.13,0:02:40.06,Signs_Fix,SIGN,0,0,0,,{\bord0\blur0.2\shad0\fs15\an8\fax-0.16\fay0.065\b1\fscx95\c&H0A4432&\frx10\fry350\move(191.5,233.5,181.5,418.5)}Aoi
+Dialogue: 0,0:02:34.13,0:02:40.06,Signs_Fix,SIGN,0,0,0,,{\bord0\blur0.2\shad0\fs15\an8\fax-0.16\fay0.065\b1\fscx95\c&H0A4432&\frx10\fry350\move(244,244,234,429)}Togashi
+Dialogue: 0,0:02:34.13,0:02:40.06,Signs_Fix,SIGN,0,0,0,,{\bord0\blur0.2\shad0\fs15\an8\fax-0.16\fay0.06\b1\fscx95\c&H0A4432&\frx10\fry350\move(326,247.5,316,432.5)}Nagano
+Dialogue: 0,0:02:34.13,0:02:40.06,Signs_Fix,SIGN,0,0,0,,{\bord0\blur0.2\shad0\fs15\an8\fax-0.16\fay0.04\b1\fscx95\c&H0A4432&\frx10\fry350\move(405,250.5,395,435.5)}Sugiwara (B)
+Dialogue: 0,0:02:34.13,0:02:40.06,Signs_Fix,SIGN,0,0,0,,{\bord0\blur0.2\shad0\fs15\an8\fax-0.16\fay0.03\b1\fscx95\c&H0A4432&\frx10\fry350\move(240,170,230,355)}Ohtomo
+Dialogue: 0,0:02:34.13,0:02:40.06,Signs_Fix,SIGN,0,0,0,,{\bord0\blur0.2\shad0\fs15\an8\fax-0.16\fay0.01\b1\fscx95\c&H0A4432&\frx10\fry350\move(327.5,156,317.5,341)}Shimizu
+Dialogue: 0,0:02:34.13,0:02:40.06,Signs_Fix,SIGN,0,0,0,,{\bord0\blur0.2\shad0\fs15\an8\fax-0.16\fay0.01\b1\fscx95\c&H0A4432&\frx10\fry350\move(404.5,189.5,394.5,374.5)}Kuroda
+Dialogue: 0,0:02:34.13,0:02:40.06,Signs_Fix,SIGN,0,0,0,,{\bord0\blur0.2\shad0\fs14\an8\fax-0.16\fay0.008\b1\fscx95\c&H0A4432&\frx10\fry350\move(433,122,423,307)}Kobayakawa (B)
+Dialogue: 0,0:02:34.13,0:02:40.06,Signs_Fix,SIGN,0,0,0,,{\bord0\blur0.2\shad0\fs15\an8\fax-0.16\fay0.025\b1\fscx95\c&H0A4432&\move(314,130,304,315)\frx10\fry350}Osieck
+Dialogue: 0,0:02:34.13,0:02:40.06,Signs_Fix,SIGN,0,0,0,,{\bord0\blur0.2\shad0\fs13\an8\fax-0.16\fay0.025\b1\fscx95\c&H0A4432&\frx10\fry350\move(249,136.5,239,321.5)}Fujimiya (B)
+Dialogue: 0,0:02:34.13,0:02:40.06,Signs_Fix,SIGN,0,0,0,,{\bord0\blur0.2\shad0\fs13\an8\fax-0.16\fay0.025\b1\fscx95\c&H0A4432&\frx10\fry350\move(246.5,38,236.5,223)}Takasugi
+Dialogue: 0,0:02:34.13,0:02:40.06,Signs_Fix,SIGN,0,0,0,,{\bord0\blur0.2\shad0\fs13\an8\fax-0.16\fay0.025\b1\fscx95\c&H0A4432&\frx10\fry350\move(352,49,342,234)}Yoshitsune
+Dialogue: 0,0:02:34.13,0:02:40.06,Signs_Fix,SIGN,0,0,0,,{\bord0\blur0.2\shad0\fs13\an8\fax-0.16\fay0.025\b1\fscx95\c&H0A4432&\frx10\fry350\move(418.5,46.5,408.5,231.5)}Yuma
+Dialogue: 0,0:02:34.13,0:02:40.06,Signs_Fix,SIGN,0,0,0,,{\bord0\blur0.2\shad0\fs13\an8\fax-0.16\fay0.025\b1\fscx95\c&H0A4432&\frx10\fry350\move(269,-10,259,175)}Baba
+Dialogue: 0,0:02:34.13,0:02:40.06,Signs_Fix,SIGN,0,0,0,,{\bord0\blur0.2\shad0\fs13\an8\fax-0.16\fay0.025\b1\fscx95\c&H0A4432&\frx10\fry350\move(364,3,354,188)}Kiriki
+Dialogue: 0,0:02:34.13,0:02:40.06,Signs_Fix,SIGN,0,0,0,,{\bord0\blur0.2\shad0\fs13\an8\fax-0.16\fay0.025\b1\fscx95\c&H0A4432&\frx10\fry350\move(444,3,434,188)}Matsunaga
+Dialogue: 0,0:02:34.13,0:02:40.06,Signs_Fix,SIGN,0,0,0,,{\bord0\blur0.2\shad0\fs13\an8\fax-0.16\fay0.025\b1\fscx95\c&H0A4432&\frx10\fry350\move(242,-52,232,133)}Yamada
+Dialogue: 0,0:02:34.13,0:02:40.06,Signs_Fix,SIGN,0,0,0,,{\bord0\blur0.2\shad0\fs13\an8\fax-0.16\fay0.025\b1\fscx95\c&H0A4432&\frx10\fry350\move(312,-55,302,130)}Shimura
+Dialogue: 0,0:02:34.13,0:02:40.06,Signs_Fix,SIGN,0,0,0,,{\bord0\blur0.2\shad0\fs13\an8\fax-0.16\fay0.025\b1\fscx95\c&H0A4432&\frx10\fry350\move(386,-59,376,126)}Akutsu
+Dialogue: 0,0:02:34.13,0:02:40.06,Signs_Fix,SIGN,0,0,0,,{\bord0\blur0.2\shad0\fs13\an8\fax-0.16\fay0.025\b1\fscx95\c&H0A4432&\frx10\fry350\move(456,-40,446,145)}Kobayakawa
+Dialogue: 0,0:02:34.13,0:02:40.06,Signs_Fix,SIGN,0,0,0,,{\bord0\blur0.2\shad0\fs14\an8\fax-0.16\fay0.025\b1\fscx95\c&H0A4432&\frx10\fry350\move(396,-133,386,40)}Akiyama
+Dialogue: 0,0:04:34.10,0:04:36.63,Signs_Fix,SIGN,0,0,0,,{\an8\bord2.5\shad0\blur0.2\b1\fnVerdana\fs12\c&H595959&\3c&HF6F8F8&\pos(237,67.5)}Look across
+Dialogue: 0,0:04:35.38,0:04:36.63,Signs_Fix,SIGN,0,0,0,,{\an8\bord2.2\shad0\blur0.2\b1\fs12\c&H595959&\3c&HF6F8F8&\pos(273,125)}Move up!
+Dialogue: 0,0:05:56.64,0:05:58.34,Signs_Fix,SIGN,0,0,0,,{\alpha&H60&\t(30,250,\alpha&H00&)\fnArial\b1\blur0.2\fscx85\bord2\shad0\an8\fs14\pos(207,75)\3c&H4D4FD8&\c&H333251&}Opponent
+Dialogue: 0,0:05:58.34,0:05:58.63,Signs_Fix,SIGN,0,0,0,,{\fnArial\b1\blur0.2\fscx85\bord2\shad0\an8\fs14\move(207,75,203,91)\3c&H4D4FD8&\c&H333251&}Opponent
+Dialogue: 0,0:05:58.63,0:05:59.17,Signs_Fix,SIGN,0,0,0,,{\fnArial\b1\blur0.2\fscx85\bord2\shad0\an8\fs14\move(203,91,181,165)\3c&H4D4FD8&\c&H333251&}Opponent
+Dialogue: 0,0:05:59.17,0:05:59.42,Signs_Fix,SIGN,0,0,0,,{\fnArial\b1\blur0.2\fscx85\bord2\shad0\an8\fs14\move(181,165,170,204)\3c&H4D4FD8&\c&H333251&}Opponent
+Dialogue: 0,0:05:59.42,0:05:59.76,Signs_Fix,SIGN,0,0,0,,{\fnArial\b1\blur0.2\fscx85\bord2\shad0\an8\fs14\move(170,204,156,245)\3c&H4D4FD8&\c&H333251&}Opponent
+Dialogue: 0,0:05:59.76,0:06:00.01,Signs_Fix,SIGN,0,0,0,,{\fnArial\b1\blur0.2\fscx85\bord2\shad0\an8\fs14\move(156,245,153,256)\3c&H4D4FD8&\c&H333251&}Opponent
+Dialogue: 0,0:06:00.01,0:06:03.80,Signs_Fix,SIGN,0,0,0,,{\fnArial\b1\blur0.2\fscx85\bord2\shad0\an8\fs14\3c&H4D4FD8&\c&H333251&\pos(153,256)}Opponent
+Dialogue: 0,0:10:09.46,0:10:13.47,Signs_Fix,SIGN,0,0,0,,{\bord2\shad0\blur0.2\b1\fs12\3c&HC49F83&\c&H382B21&\frz343\move(231,30.5,231,-34.5)}Aoi's defending
+Dialogue: 0,0:10:09.46,0:10:13.47,Signs_Fix,SIGN,0,0,0,,{\bord2\shad0\blur0.2\b1\fs12\3c&HBB9A7E&\c&H382B21&\frz343.5\move(201,40.5,201,-24.5)}Sometimes, formation severely loses shape
+Dialogue: 0,0:10:09.46,0:10:13.47,Signs_Fix,SIGN,0,0,0,,{\bord2\shad0\blur0.2\b1\fs12\3c&HBB9A7E&\c&H382B21&\frz344.5\move(178.5,69.5,178.5,4.5)}15 mins into second half
+Dialogue: 0,0:10:09.46,0:10:13.47,Signs_Fix,SIGN,0,0,0,,{\bord2\shad0\blur0.2\b1\fs12\3c&HB5967B&\c&H382B21&\frz342\move(212,196,212,131)}After being lured out,
+Dialogue: 0,0:10:09.46,0:10:13.47,Signs_Fix,SIGN,0,0,0,,{\bord2\shad0\blur0.2\b1\fs12\3c&HB5967B&\c&H382B21&\frz343\move(145.5,190.5,145.5,125.5)}you became a solitary ball watcher
+Dialogue: 0,0:10:09.46,0:10:13.47,Signs_Fix,SIGN,0,0,0,,{\bord2\shad0\blur0.2\b1\fs12\3c&HB5967B&\c&H382B21&\frz343\move(155,235,155,170)}30 mins into second half
+Dialogue: 0,0:10:09.46,0:10:13.47,Signs_Fix,SIGN,0,0,0,,{\bord2\shad0\blur0.2\b1\fs12\3c&H9C7D64&\c&H382B21&\frz343\move(141,355,141,290)}When the other team counterattacked,
+Dialogue: 0,0:10:09.46,0:10:13.47,Signs_Fix,SIGN,0,0,0,,{\bord2\shad0\blur0.2\b1\fs12\3c&H96775F&\c&H382B21&\frz343\move(131.5,378,131.5,313)}you jumped in before the team got back
+Dialogue: 0,0:10:09.46,0:10:13.47,Signs_Fix,SIGN,0,0,0,,{\bord2\shad0\blur0.2\b1\fs12\3c&H96775F&\c&H382B21&\frz343\move(59.5,381.5,59.5,316.5)}and they bypassed you
+Dialogue: 0,0:10:09.46,0:10:13.47,Signs_Fix,SIGN,0,0,0,,{\bord2\shad0\blur0.2\b1\fs12\3c&HBD9D82&\c&H382B21&\frz353\frx10\fry358\fax-0.1\move(436.5,72.5,436.5,7.5)}You get lured out too easily
+Dialogue: 0,0:10:09.46,0:10:13.47,Signs_Fix,SIGN,0,0,0,,{\bord2\shad0\blur0.2\b1\fs12\3c&HBD9D82&\c&H382B21&\frz353\frx10\fax-0.1\fry358\move(463.5,102,463.5,37)}Kashiwa recognized that quite early on
+Dialogue: 0,0:10:09.46,0:10:13.47,Signs_Fix,SIGN,0,0,0,,{\bord2\shad0\blur0.2\b1\fs12\3c&HBD9D82&\c&H382B21&\frz355\frx10\fax-0.19\fry358\move(387.5,119,387.5,54)}Facing forward?
+Dialogue: 0,0:10:09.46,0:10:13.47,Signs_Fix,SIGN,0,0,0,,{\bord2\shad0\blur0.2\b1\fs12\3c&HBD9D82&\c&H382B21&\frz350\frx10\fax-0.1\fry358\move(526.5,140,526.5,75)}Need to face middle in certain situations
+Dialogue: 0,0:10:09.46,0:10:13.47,Signs_Fix,SIGN,0,0,0,,{\bord2\shad0\blur0.2\b1\fs12\3c&HBD9D82&\c&H382B21&\frz351.5\frx10\fax-0.15\fry358\move(460,158.5,460,93.5)}To master defensive formations, learn not
+Dialogue: 0,0:10:09.46,0:10:13.47,Signs_Fix,SIGN,0,0,0,,{\bord2\shad0\blur0.2\b1\fs12\3c&HBD9D82&\c&H382B21&\frz351.5\frx10\fax-0.15\fry358\move(448,184.5,448,119.5)}to be distracted by confirmation bias.
+Dialogue: 0,0:10:09.46,0:10:13.47,Signs_Fix,SIGN,0,0,0,,{\bord2\shad0\blur0.2\b1\fs12\3c&HBD9D82&\c&H382B21&\frz351.5\frx10\fax-0.15\fry358\move(427,207.5,427,142.5)}Once you master field of vision,
+Dialogue: 0,0:10:09.46,0:10:13.47,Signs_Fix,SIGN,0,0,0,,{\bord2\shad0\blur0.2\b1\fs12\3c&HAC8E73&\c&H382B21&\frz351.5\frx10\fax-0.15\fry358\move(423,234,423,169)}train yourself to correctly assess
+Dialogue: 0,0:10:09.46,0:10:13.47,Signs_Fix,SIGN,0,0,0,,{\bord2\shad0\blur0.2\b1\fs12\3c&HAC8E73&\c&H382B21&\frz351\frx10\fax-0.15\fry358\move(371.5,254.5,371.5,189.5)}what you see.
+Dialogue: 0,0:10:09.46,0:10:13.47,Signs_Fix,SIGN,0,0,0,,{\bord2\shad0\blur0.2\b1\fs12\3c&HA2836A&\c&H382B21&\frz349.2\frx10\fax-0.12\fry358\move(434,294,434,229)}There's a phrase: "Climate around the ball,"
+Dialogue: 0,0:10:09.46,0:10:13.47,Signs_Fix,SIGN,0,0,0,,{\bord2\shad0\blur0.2\b1\fs12\3c&HA2836A&\c&H382B21&\frz349.2\frx10\fax-0.12\fry358\move(430.5,322.5,430.5,257.5)}which refers to the situation around the ball.
+Dialogue: 0,0:10:09.46,0:10:13.47,Signs_Fix,SIGN,0,0,0,,{\bord2\shad0\blur0.2\b1\fs12\3c&H977961&\c&H382B21&\frz348.5\frx10\fax-0.12\fry358\move(431,354,431,289)}Watch the ball closely, as well as the whole field
+Dialogue: 0,0:10:09.46,0:10:13.47,Signs_Fix,SIGN,0,0,0,,{\bord2\shad0\blur0.2\b1\fs12\3c&H977961&\c&H382B21&\frz348.5\frx10\fax-0.12\fry358\move(442.5,385.5,442.5,320.5)}with your peripheral vision. Where the ball carrier is looking,
+Dialogue: 0,0:11:23.75,0:11:25.35,Signs_Fix,SIGN,0,0,0,,{\fad(420,500)\shad0\bord1.5\fs15\blur0.2\3c&H7C3716&\c&HB75556&\pos(170,305)}Goose-\Nbumps
+Dialogue: 0,0:13:31.00,0:13:33.50,Signs_Fix,SIGN,0,0,0,,{\fnGeorgia\bord0\shad0\b1\fs16\t(\fs16.5)\blur0.2\c&HE0BEA8&\move(405,276,406.5,280.5)}Bath
+Dialogue: 0,0:13:52.70,0:13:55.90,Signs_Fix,SIGN,0,0,0,,{\fad(350,0)\fnGeorgia\bord0\shad0\b1\fs15\blur0.2\c&HE0BEA8&\move(406,280,402.5,276,200,1675)}Bath
+Dialogue: 0,0:15:04.05,0:15:06.80,Signs_Fix,SIGN,0,0,0,,{\b1\bord1.5\shad0\blur0.2\fs18\3c&H74A0E2&\c&H5FCDF4&\move(84,113,84,96)}Smile
+Dialogue: 0,0:15:04.05,0:15:06.80,Signs_Fix,SIGN,0,0,0,,{\b1\bord1.5\shad0\blur0.2\fs18\3c&H74A0E2&\c&H5FCDF4&\move(139.5,179.5,139.5,162.5)}Smile
+Dialogue: 0,0:15:04.05,0:15:06.80,Signs_Fix,SIGN,0,0,0,,{\b1\bord1.5\shad0\blur0.2\fs14\3c&H74A0E2&\c&H5FCDF4&\move(166,71,166,54)}Smile
+Dialogue: 0,0:15:04.05,0:15:06.80,Signs_Fix,SIGN,0,0,0,,{\b1\bord1.5\shad0\blur0.2\fs14\3c&H74A0E2&\c&H5FCDF4&\move(539,226.5,539,209.5)}Smile
+Dialogue: 0,0:15:04.05,0:15:06.80,Signs_Fix,SIGN,0,0,0,,{\b1\bord1.5\shad0\blur0.2\fs13\3c&H74A0E2&\c&H5FCDF4&\move(88.5,248.5,88.5,231.5)}Smile
+Dialogue: 0,0:15:04.05,0:15:06.80,Signs_Fix,SIGN,0,0,0,,{\b1\bord1.5\shad0\blur0.2\fs20\3c&H74A0E2&\c&H5FCDF4&\move(482,119.5,482,102.5)}Smile
+Dialogue: 0,0:15:04.05,0:15:06.80,Signs_Fix,SIGN,0,0,0,,{\b1\bord1.5\shad0\blur0.2\fs22\3c&H74A0E2&\c&H5FCDF4&\move(537.5,70.5,537.5,53.5)}Smile
+Dialogue: 0,0:21:48.04,0:21:51.54,Signs_Fix,SIGN,0,0,0,,{\fad(500,500)\an7\fnArial\b1\fs16\4a&H00&\shad1.5\bord1.2\3c&H2D1718&\4c&H2D1718&\c&HC5969E&\pos(365,20)}Translation: Tomoko Takedani Sater\NTiming: Andy Ellis\NEditing: SMR\NQuality Control: William Haggard\NTranslation Check: David Saylor
+Dialogue: 0,0:24:26.65,0:24:30.25,Signs_Fix,SIGN,0,0,0,,{\fnArial\fs16\b1\fsp0.5\shad1.1\bord1.5\fscy105\blur0.2\3c&H954823&\4c&H954823&\pos(320,127)}Next Episode
+Dialogue: 0,0:24:26.65,0:24:30.25,Signs_Fix,SIGN,0,0,0,,{\fnArial\fs22\b1\fsp0.5\shad1.1\bord1.5\fscy105\blur0.32\3c&H954823&\4c&H954823&\pos(320,226)}Notebook
+Dialogue: 0,0:24:26.65,0:24:30.25,Signs_Fix,SIGN,0,0,0,,{\fs12\pos(320,326)\bord1.2\shad0\blur0.2}This is a work of fiction, and bears no relation to any actual persons, organizations, or names.
+
