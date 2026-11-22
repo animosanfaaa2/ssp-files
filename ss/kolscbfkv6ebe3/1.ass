@@ -1,0 +1,444 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: None
+PlayResX: 1920
+PlayResY: 816
+LayoutResX: 1920
+LayoutResY: 816
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Helvetica Neue,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,10,10,90,1
+Style: Character thoughts,Helvetica Neue,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,1,2,10,10,90,1
+Style: Ending Song,Kaushan Script,50,&H00FFFFFF,&H000000FF,&H32FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,2,0,1,0,0,7,50,50,0,1
+Style: Episode No. and Title,唯你主义浪漫行书,80,&H00FFFFFF,&H000304FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Map,唯你主义浪漫行书,60,&H00FFFFFF,&H000304FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Nameplates,唯你主义浪漫行书,60,&H00FFFFFF,&H000304FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Narrator Speaking,Helvetica Neue,48,&H00FFFFFF,&H000000FF,&H0092C93E,&H0049560A,-1,-1,0,0,100,100,0,0,1,1,1,2,10,10,90,1
+Style: Opening Song,Vexed Angel,48,&H000000FF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4.99999,2,2,10,10,100,1
+Style: Place,唯你主义浪漫行书,100,&H00FFFFFF,&H000304FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Preview & Recap,Bloody Terror,48,&H000000FF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Tablet,唯你主义浪漫行书,100,&H00FFFFFF,&H000304FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Token,唯你主义浪漫行书,80,&H00FFFFFF,&H000304FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Translation Notes,Helvetica Neue,30,&H00FFFFFF,&H000000FF,&H00151515,&H00000000,0,-1,0,0,100,100,0,0,1,1.14,0.38,8,25,25,15,1
+Style: Watermark,Helvetica Neue,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.01,0:00:47.11,Watermark,,0,0,0,,Subtitles by @Shridhuu on Discord
+Dialogue: 0,0:00:17.39,0:00:21.27,Nameplates,,0,0,0,,{\fad(300,300)}Adapted from Ergen's novel, Beyond Time's Gaze
+Dialogue: 0,0:00:47.11,0:00:50.19,Opening Song,,0,0,0,,{\fad(300,300)}♪All living beings open their eyes♪
+Dialogue: 0,0:00:54.27,0:00:57.51,Opening Song,,0,0,0,,{\fad(300,300)}♪The skies of Revered Ancient have shifted and changed♪
+Dialogue: 0,0:01:01.31,0:01:04.75,Opening Song,,0,0,0,,{\fad(300,300)}♪Endless seas of blood spread without bound♪
+Dialogue: 0,0:01:07.67,0:01:14.55,Opening Song,,0,0,0,,{\fad(300,300)}♪Beyond the timescape, heaven and earth know no divide♪
+Dialogue: 0,0:01:15.27,0:01:22.39,Opening Song,,0,0,0,,{\fad(300,300)}♪Crumbling mountains cannot bury the skeletal remains♪
+Dialogue: 0,0:01:22.43,0:01:29.03,Opening Song,,0,0,0,,{\fad(300,300)}♪The mortal multitude reduced to dust by crimson rain♪
+Dialogue: 0,0:01:29.63,0:01:43.63,Opening Song,,0,0,0,,{\fad(300,300)}♪Nourishing human hearts as desolate as an ocean♪
+Dialogue: 0,0:01:43.95,0:01:51.07,Opening Song,,0,0,0,,{\fad(300,300)}♪Bearing flesh and blood upon withered mountains♪
+Dialogue: 0,0:01:51.07,0:01:58.27,Opening Song,,0,0,0,,{\fad(300,300)}♪Marching into battle against heavens-defying ruin♪
+Dialogue: 0,0:01:58.27,0:02:07.55,Opening Song,,0,0,0,,{\fad(300,300)}♪With mortal courage and resolute will, forge...♪
+Dialogue: 0,0:02:07.59,0:02:12.23,Opening Song,,0,0,0,,{\fad(300,300)}♪An earth-shattering, heaven-turning upheaval!♪
+Dialogue: 0,0:02:26.15,0:02:49.19,Preview & Recap,,0,0,0,,{\fad(500,1000)\pos(200,280)}R\NE\NC\NA\NP
+Dialogue: 0,0:02:27.25,0:02:28.61,Default,,0,0,0,,A disorderly rabble!
+Dialogue: 0,0:02:28.69,0:02:30.57,Default,,0,0,0,,You dare interfere with the upper sect's business?!
+Dialogue: 0,0:02:31.21,0:02:33.77,Default,,0,0,0,,Take all Night Dove operatives here into custody!
+Dialogue: 0,0:02:34.81,0:02:35.77,Default,,0,0,0,,Anyone who resists:
+Dialogue: 0,0:02:36.45,0:02:37.69,Default,,0,0,0,,kill without mercy!
+Dialogue: 0,0:02:40.77,0:02:42.57,Default,,0,0,0,,The Seven Sect Alliance has arrived with aggressive momentum;
+Dialogue: 0,0:02:43.33,0:02:44.61,Default,,0,0,0,,a storm is already brewing on the horizon.
+Dialogue: 0,0:02:45.49,0:02:46.01,Default,,0,0,0,,My trump cards...
+Dialogue: 0,0:02:46.85,0:02:48.09,Default,,0,0,0,,still need to become stronger!
+Dialogue: 0,0:02:49.23,0:02:54.19,Episode No. and Title,,0,0,0,,{\fad(300,300)\pos(960,800)\fscx80\fscy80}Episode 48\N{\c&H050E94&\fs120}The Loving Seventh Peak
+Dialogue: 0,0:02:56.23,0:03:01.19,Nameplates,,0,0,0,,{\an4\fad(500,500)\fs60\pos(215.02,221)}Harbor 176
+Dialogue: 0,0:02:56.23,0:03:01.19,Translation Notes,,0,0,0,,T/N: 第一百七十六号港 (Harbor 176). Xu Qing's private dharmaskiff berth and station of the Seventh Peak Violent Crimes Division.
+Dialogue: 0,0:03:05.41,0:03:06.49,Character thoughts,,0,0,0,,I wonder what Sima Ling,
+Dialogue: 0,0:03:06.65,0:03:08.21,Character thoughts,,0,0,0,,as the House of Grue Hunters' top Chosen,
+Dialogue: 0,0:03:08.25,0:03:09.25,Character thoughts,,0,0,0,,is actually worth.
+Dialogue: 0,0:03:11.37,0:03:11.89,Character thoughts,,0,0,0,,A sealing mark?
+Dialogue: 0,0:03:11.37,0:03:11.89,Translation Notes,,0,0,0,,T/N: 禁制 (Jìnzhì: Sealing Mark). A soul-bound spiritual lock imprinted on storage items so only the owner can open them.
+Dialogue: 0,0:03:13.45,0:03:14.05,Default,,0,0,0,,Wipe it out for me.
+Dialogue: 0,0:03:32.53,0:03:32.93,Default,,0,0,0,,So many...!
+Dialogue: 0,0:03:34.89,0:03:35.93,Character thoughts,,0,0,0,,There must be nearly ten million!
+Dialogue: 0,0:03:38.09,0:03:38.81,Default,,0,0,0,,Holy crap!
+Dialogue: 0,0:03:39.17,0:03:40.17,Default,,0,0,0,,We struck it rich!
+Dialogue: 0,0:03:40.85,0:03:41.37,Default,,0,0,0,,Th-Th-This...
+Dialogue: 0,0:03:41.81,0:03:43.05,Default,,0,0,0,,How is this guy a Chosen?!
+Dialogue: 0,0:03:43.69,0:03:46.53,Default,,0,0,0,,He's clearly a nouveau riche playboy from Revered Ancient!
+Dialogue: 0,0:03:43.69,0:03:46.53,Translation Notes,,0,0,0,,T/N: 土豪 (Tǔháo: Nouveau Riche Playboy). Chinese colloquial slang for an obscenely wealthy person who flaunts extravagance.
+Dialogue: 0,0:04:01.13,0:04:01.57,Character thoughts,,0,0,0,,These...
+Dialogue: 0,0:04:02.37,0:04:03.97,Character thoughts,,0,0,0,,are all powerful sealed grues!
+Dialogue: 0,0:04:04.97,0:04:07.17,Character thoughts,,0,0,0,,Had my poison not caused the grues inside him to run wild,
+Dialogue: 0,0:04:07.53,0:04:08.45,Character thoughts,,0,0,0,,I'm afraid all of these items
+Dialogue: 0,0:04:08.85,0:04:10.17,Character thoughts,,0,0,0,,would have been unleashed against me.
+Dialogue: 0,0:04:16.61,0:04:17.41,Character thoughts,,0,0,0,,These magical artifacts
+Dialogue: 0,0:04:17.81,0:04:19.05,Character thoughts,,0,0,0,,are all built to manipulate grues,
+Dialogue: 0,0:04:19.37,0:04:21.01,Character thoughts,,0,0,0,,and require specific cultivation arts to wield.
+Dialogue: 0,0:04:21.97,0:04:22.25,Default,,0,0,0,,Hmm?
+Dialogue: 0,0:04:22.93,0:04:23.29,Default,,0,0,0,,What is this?
+Dialogue: 0,0:04:29.05,0:04:29.49,Default,,0,0,0,,Not good!
+Dialogue: 0,0:04:31.05,0:04:31.97,Character thoughts,,0,0,0,,Mutagen this dense...
+Dialogue: 0,0:04:32.49,0:04:33.93,Character thoughts,,0,0,0,,any mortal who touches it will die on the spot!
+Dialogue: 0,0:04:35.73,0:04:36.69,Default,,0,0,0,,Eat...
+Dialogue: 0,0:04:36.97,0:04:37.73,Default,,0,0,0,,Eat...
+Dialogue: 0,0:04:38.17,0:04:39.49,Default,,0,0,0,,Eat!
+Dialogue: 0,0:04:44.81,0:04:46.09,Default,,0,0,0,,Full.
+Dialogue: 0,0:04:47.63,0:04:50.55,Nameplates,,0,0,0,,{\an4\fad(500,500)\fs60\pos(219.03,267)}Taboo Magical\NTreasure\NFragment
+Dialogue: 0,0:04:47.63,0:04:50.55,Translation Notes,,0,0,0,,T/N: 禁忌法宝碎片 (Taboo Magical Treasure Fragment). A broken shard of an ancient Taboo Magical Treasure, supreme extinction-class relics steeped in dense forbidden-region mutagen.
+Dialogue: 0,0:04:48.13,0:04:49.05,Character thoughts,,0,0,0,,Upon this object...
+Dialogue: 0,0:04:49.89,0:04:51.37,Character thoughts,,0,0,0,,it actually carries the aura of a forbidden region!
+Dialogue: 0,0:04:56.49,0:04:57.45,Default,,0,0,0,,What is this thing?
+Dialogue: 0,0:04:58.25,0:04:59.41,Default,,0,0,0,,Fragmented...
+Dialogue: 0,0:04:59.85,0:05:00.61,Default,,0,0,0,,piece...
+Dialogue: 0,0:05:01.09,0:05:01.77,Default,,0,0,0,,Master, Master!
+Dialogue: 0,0:05:02.13,0:05:02.73,Default,,0,0,0,,Allow me!
+Dialogue: 0,0:05:06.37,0:05:06.97,Default,,0,0,0,,Little Shadow,
+Dialogue: 0,0:05:07.29,0:05:07.77,Default,,0,0,0,,come, come, come!
+Dialogue: 0,0:05:08.21,0:05:09.85,Default,,0,0,0,,Let's have a nice little chat.
+Dialogue: 0,0:05:13.85,0:05:14.41,Default,,0,0,0,,Oh?
+Dialogue: 0,0:05:15.17,0:05:15.73,Default,,0,0,0,,You mean...
+Dialogue: 0,0:05:16.37,0:05:16.77,Default,,0,0,0,,Mhm, mhm.
+Dialogue: 0,0:05:17.69,0:05:18.13,Default,,0,0,0,,It's trash?
+Dialogue: 0,0:05:18.49,0:05:18.85,Default,,0,0,0,,A relic?
+Dialogue: 0,0:05:19.29,0:05:19.73,Default,,0,0,0,,A treasure?!
+Dialogue: 0,0:05:20.17,0:05:20.37,Default,,0,0,0,,Wh-
+Dialogue: 0,0:05:20.81,0:05:21.09,Default,,0,0,0,,What?!
+Dialogue: 0,0:05:21.53,0:05:21.97,Default,,0,0,0,,Mi-Mi-
+Dialogue: 0,0:05:22.13,0:05:22.53,Default,,0,0,0,,Master!
+Dialogue: 0,0:05:22.89,0:05:23.45,Default,,0,0,0,,I was wrong!
+Dialogue: 0,0:05:23.65,0:05:24.69,Default,,0,0,0,,This guy isn't a nouveau riche playboy;
+Dialogue: 0,0:05:24.81,0:05:25.85,Default,,0,0,0,,he's a freaking God of Wealth!
+Dialogue: 0,0:05:24.81,0:05:25.85,Translation Notes,,0,0,0,,T/N: 财神 (Cáishén: God of Wealth). Traditional Chinese deity of wealth and prosperity; figuratively used for anyone bringing an absurd windfall.
+Dialogue: 0,0:05:26.49,0:05:27.13,Default,,0,0,0,,What you're holding
+Dialogue: 0,0:05:27.45,0:05:29.17,Default,,0,0,0,,is a fragment of a Taboo Magical Treasure!
+Dialogue: 0,0:05:29.49,0:05:30.05,Default,,0,0,0,,Little Shadow says
+Dialogue: 0,0:05:30.57,0:05:32.05,Default,,0,0,0,,once it absorbs this, it can make the fragment
+Dialogue: 0,0:05:32.37,0:05:34.33,Default,,0,0,0,,unleash tremendous might!
+Dialogue: 0,0:05:34.85,0:05:35.73,Character thoughts,,0,0,0,,Taboo...
+Dialogue: 0,0:05:36.41,0:05:38.21,Character thoughts,,0,0,0,,Taboo Magical Treasures possess the power to annihilate an entire sect.
+Dialogue: 0,0:05:38.97,0:05:39.77,Character thoughts,,0,0,0,,As for the shadow,
+Dialogue: 0,0:05:40.29,0:05:41.09,Character thoughts,,0,0,0,,it still isn't trustworthy enough.
+Dialogue: 0,0:05:41.65,0:05:42.61,Character thoughts,,0,0,0,,I can't risk handing this over to it.
+Dialogue: 0,0:05:43.33,0:05:44.29,Default,,0,0,0,,If you behave well,
+Dialogue: 0,0:05:44.85,0:05:46.45,Default,,0,0,0,,I'll consider letting you absorb it in the future.
+Dialogue: 0,0:05:58.57,0:05:59.65,Default,,0,0,0,,What's in this jade bottle?
+Dialogue: 0,0:06:03.19,0:06:06.31,Nameplates,,0,0,0,,{\an4\fad(500,500)\fs60\pos(247,305)}Aperture-Opening\NPill\N{\fs56}Major Sect\NAdvancement Pill
+Dialogue: 0,0:06:03.19,0:06:06.31,Translation Notes,,0,0,0,,T/N: 冲窍丹 (Chōngqiào Dān: Aperture-Opening Pill). Rare mainland cultivation pill crafted to force open stubborn dharma apertures in the Foundation Establishment Realm.
+Dialogue: 0,0:06:03.49,0:06:04.25,Default,,0,0,0,,Medicinal pills?
+Dialogue: 0,0:06:07.69,0:06:08.57,Character thoughts,,0,0,0,,Inside these pills,
+Dialogue: 0,0:06:09.13,0:06:10.97,Character thoughts,,0,0,0,,there seems to be extraordinarily dense dharma force.
+Dialogue: 0,0:06:11.69,0:06:14.69,Character thoughts,,0,0,0,,They must be aperture-opening pills major sect Chosen use to break limits.
+Dialogue: 0,0:06:16.69,0:06:18.21,Character thoughts,,0,0,0,,The dharma force inside these pills...
+Dialogue: 0,0:06:18.73,0:06:20.41,Character thoughts,,0,0,0,,makes a single one worth dozens of Soul Pills!
+Dialogue: 0,0:06:21.33,0:06:23.77,Character thoughts,,0,0,0,,I'll refine every single one of them right now.
+Dialogue: 0,0:06:52.97,0:06:54.77,Default,,0,0,0,,Eighty-eighth dharma aperture...
+Dialogue: 0,0:06:55.61,0:06:56.49,Default,,0,0,0,,Open!
+Dialogue: 0,0:07:02.41,0:07:03.05,Character thoughts,,0,0,0,,Not bad.
+Dialogue: 0,0:07:03.77,0:07:05.37,Character thoughts,,0,0,0,,I've opened up to my eighty-eighth dharma aperture.
+Dialogue: 0,0:07:06.41,0:07:07.33,Character thoughts,,0,0,0,,Open just two more,
+Dialogue: 0,0:07:07.81,0:07:09.21,Character thoughts,,0,0,0,,and I can ignite my third Life Flame!
+Dialogue: 0,0:07:07.81,0:07:09.21,Translation Notes,,0,0,0,,T/N: 第三团命火 (Third Life Flame). In Foundation Establishment, every 30 opened dharma apertures ignite a new Life Flame (30 / 60 / 90 / 120); 90 apertures ignite the third.
+Dialogue: 0,0:07:11.01,0:07:11.69,Character thoughts,,0,0,0,,Next,
+Dialogue: 0,0:07:11.93,0:07:12.97,Character thoughts,,0,0,0,,I'll head to the Violent Crimes Division cell block
+Dialogue: 0,0:07:13.81,0:07:15.17,Character thoughts,,0,0,0,,and use those Night Dove death row prisoners
+Dialogue: 0,0:07:15.77,0:07:17.61,Character thoughts,,0,0,0,,to fill in my final two dharma apertures.
+Dialogue: 0,0:07:18.31,0:07:21.47,Nameplates,,0,0,0,,{\an4\fad(500,500)\fs60\pos(247,305)}Dark Serenity Sect\NResidence\N{\fs56}Seven Peak City
+Dialogue: 0,0:07:18.31,0:07:21.47,Translation Notes,,0,0,0,,T/N: 玄幽宗行馆 (Dark Serenity Sect Residence). "Xíngguǎn" refers to temporary diplomatic lodging for visiting upper-sect dignitaries; Dark Serenity Sect is Seventh Peak's supervisory upper sect.
+Dialogue: 0,0:07:19.29,0:07:19.85,Default,,0,0,0,,Everyone,
+Dialogue: 0,0:07:20.41,0:07:21.49,Default,,0,0,0,,from the First to the Sixth Peak,
+Dialogue: 0,0:07:21.93,0:07:23.41,Default,,0,0,0,,we have challenged every single one,
+Dialogue: 0,0:07:23.73,0:07:24.65,Default,,0,0,0,,without a single defeat.
+Dialogue: 0,0:07:23.73,0:07:24.65,Translation Notes,,0,0,0,,T/N: 无一败绩 (Wú yī bàijì: Undefeated Streak). Idiom meaning "not a single defeat on record."
+Dialogue: 0,0:07:25.53,0:07:26.81,Default,,0,0,0,,Only Sima Ling
+Dialogue: 0,0:07:27.25,0:07:28.93,Default,,0,0,0,,ended up falling at Xu Qing's hands.
+Dialogue: 0,0:07:27.25,0:07:28.93,Translation Notes,,0,0,0,,T/N: 折在…手中 (Shé zài ... shǒuzhōng: Falling at Someone's Hands). Colloquial wuxia phrase meaning to suffer defeat or capture ("snapped") at someone's hands.
+Dialogue: 0,0:07:29.61,0:07:31.53,Default,,0,0,0,,That man's defeat of Sima Ling
+Dialogue: 0,0:07:31.85,0:07:33.05,Default,,0,0,0,,was likely no coincidence.
+Dialogue: 0,0:07:34.81,0:07:36.65,Default,,0,0,0,,This Xu Qing commands an Imperial-Class technique;
+Dialogue: 0,0:07:37.13,0:07:37.97,Default,,0,0,0,,he cannot be underestimated.
+Dialogue: 0,0:07:37.13,0:07:37.97,Translation Notes,,0,0,0,,T/N: 不容小觑 (Bùróng xiǎoqù: Cannot Be Underestimated). Classical idiom meaning not to be looked down on or taken lightly.
+Dialogue: 0,0:07:39.61,0:07:40.17,Default,,0,0,0,,No matter.
+Dialogue: 0,0:07:40.73,0:07:42.53,Default,,0,0,0,,I am just about to go tear down the Seventh Peak.
+Dialogue: 0,0:07:43.13,0:07:44.01,Default,,0,0,0,,As for Xu Qing,
+Dialogue: 0,0:07:44.41,0:07:45.41,Default,,0,0,0,,bringing him under my command would be ideal.
+Dialogue: 0,0:07:46.17,0:07:47.25,Default,,0,0,0,,If he refuses,
+Dialogue: 0,0:07:47.65,0:07:48.61,Default,,0,0,0,,I will simply destroy him.
+Dialogue: 0,0:07:49.65,0:07:50.37,Default,,0,0,0,,All of you,
+Dialogue: 0,0:07:50.79,0:07:53.95,Nameplates,,0,0,0,,{\an4\fad(500,500)\fs60\pos(247,305)}Violent Crimes\NDivision\N{\fs56}Seventh Peak
+Dialogue: 0,0:07:51.05,0:07:52.21,Default,,0,0,0,,just watch the outcome.
+Dialogue: 0,0:08:00.37,0:08:01.17,Default,,0,0,0,,Halt! Who goes there?!
+Dialogue: 0,0:08:04.49,0:08:05.13,Default,,0,0,0,,Insolent!
+Dialogue: 0,0:08:07.29,0:08:09.97,Default,,0,0,0,,When subsidiary-sect ants meet an upper-sect Chosen,
+Dialogue: 0,0:08:10.73,0:08:12.05,Default,,0,0,0,,how dare you not bow?!
+Dialogue: 0,0:08:10.73,0:08:12.05,Translation Notes,,0,0,0,,T/N: 安敢不拜 (Ān gǎn bù bài: How Dare You Not Bow). Classical phrasing where "ān" means "how" and "bài" means to bow in deference to a superior.
+Dialogue: 0,0:08:16.37,0:08:18.17,Default,,0,0,0,,Hand this item over to Xu Qing.
+Dialogue: 0,0:08:18.69,0:08:19.37,Default,,0,0,0,,Tell him
+Dialogue: 0,0:08:20.13,0:08:22.09,Default,,0,0,0,,I wish to bestow upon him a great destined opportunity.
+Dialogue: 0,0:08:21.83,0:08:25.11,Nameplates,,0,0,0,,{\an4\fad(500,500)\fs60\pos(247,305)}Dark Serenity\NPearl\N{\fs56}High-Tier Treasure
+Dialogue: 0,0:08:21.83,0:08:25.11,Translation Notes,,0,0,0,,T/N: 玄幽宝珠 (Dark Serenity Pearl). A high-tier spiritual treasure pearl crafted by the Dark Serenity Sect.
+Dialogue: 0,0:08:22.81,0:08:23.89,Default,,0,0,0,,He will naturally come out.
+Dialogue: 0,0:08:27.17,0:08:27.93,Character thoughts,,0,0,0,,This pearl...
+Dialogue: 0,0:08:28.85,0:08:29.89,Character thoughts,,0,0,0,,must have cost a fortune to forge.
+Dialogue: 0,0:08:28.85,0:08:29.89,Translation Notes,,0,0,0,,T/N: 造价不菲 (Zàojià bùfěi: Cost a Fortune). Classical phrase where "bùfěi" means far from cheap or enormously valuable.
+Dialogue: 0,0:08:38.37,0:08:39.05,Character thoughts,,0,0,0,,The Golden Crow...
+Dialogue: 0,0:08:40.21,0:08:40.89,Character thoughts,,0,0,0,,is craving it.
+Dialogue: 0,0:08:46.65,0:08:47.81,Default,,0,0,0,,With Two-Flame strength,
+Dialogue: 0,0:08:48.37,0:08:49.89,Default,,0,0,0,,paired with Golden Crow Assimilates Myriad Spirits,
+Dialogue: 0,0:08:50.41,0:08:51.89,Default,,0,0,0,,and topped off with lethal poison...
+Dialogue: 0,0:08:52.65,0:08:53.37,Default,,0,0,0,,Xu Qing,
+Dialogue: 0,0:08:54.09,0:08:55.73,Default,,0,0,0,,a small pond like Seven Blood Eyes
+Dialogue: 0,0:08:56.45,0:08:57.85,Default,,0,0,0,,no longer suits someone like you.
+Dialogue: 0,0:08:56.45,0:08:57.85,Translation Notes,,0,0,0,,T/N: 小池塘 (Small Pond). Alludes to the saying "a small pond cannot hold a big fish" (小池塘养不起大鱼), meaning a limited backwater cannot contain great talent.
+Dialogue: 0,0:09:00.49,0:09:01.45,Default,,0,0,0,,Who are you?
+Dialogue: 0,0:09:02.85,0:09:05.13,Default,,0,0,0,,I am sure you already know full well who I am.
+Dialogue: 0,0:09:07.73,0:09:08.45,Default,,0,0,0,,Captain...?
+Dialogue: 0,0:09:12.01,0:09:14.29,Default,,0,0,0,,I am Huang Yikun of the Dark Serenity Sect.
+Dialogue: 0,0:09:16.01,0:09:17.37,Default,,0,0,0,,You may address me as...
+Dialogue: 0,0:09:18.73,0:09:20.05,Default,,0,0,0,,Eldest Brother.
+Dialogue: 0,0:09:22.89,0:09:25.25,Default,,0,0,0,,Today I grant you an opportunity to join the upper sect.
+Dialogue: 0,0:09:26.33,0:09:26.77,Default,,0,0,0,,Naturally,
+Dialogue: 0,0:09:27.61,0:09:28.85,Default,,0,0,0,,the prerequisite for all of this
+Dialogue: 0,0:09:29.53,0:09:31.17,Default,,0,0,0,,is that you swear loyalty to me.
+Dialogue: 0,0:09:32.29,0:09:32.97,Default,,0,0,0,,Xu Qing,
+Dialogue: 0,0:09:33.53,0:09:34.81,Default,,0,0,0,,the Golden Crow you cultivate
+Dialogue: 0,0:09:35.21,0:09:36.73,Default,,0,0,0,,must be a flawed, incomplete version.
+Dialogue: 0,0:09:37.81,0:09:39.73,Default,,0,0,0,,Our Alliance Leader also wields the Golden Crow;
+Dialogue: 0,0:09:40.17,0:09:41.01,Default,,0,0,0,,the depth of his mastery
+Dialogue: 0,0:09:41.29,0:09:42.65,Default,,0,0,0,,is far beyond anything you could fathom.
+Dialogue: 0,0:09:43.73,0:09:46.13,Default,,0,0,0,,Even the Balefire Soulswallowing Scripture you all cultivate
+Dialogue: 0,0:09:46.61,0:09:49.57,Default,,0,0,0,,was created by our Alliance Leader from Golden Crow Assimilates Myriad Spirits.
+Dialogue: 0,0:09:50.37,0:09:51.61,Default,,0,0,0,,However, what the subsidiary sect cultivates
+Dialogue: 0,0:09:52.09,0:09:53.45,Default,,0,0,0,,is merely a low-level cultivation art.
+Dialogue: 0,0:09:54.57,0:09:56.09,Default,,0,0,0,,As for the high-level form...
+Dialogue: 0,0:09:58.11,0:10:03.07,Nameplates,,0,0,0,,{\an4\fad(500,500)\fs60\pos(247,305)}Dark Serenity\NFingers\N{\fs56}Ancient Dark\NSerenity Art
+Dialogue: 0,0:09:58.11,0:10:03.07,Translation Notes,,0,0,0,,T/N: 玄幽指 (Xuányōu Zhǐ: Dark Serenity Fingers). An ancient Dark Serenity Sect finger-refining secret art utilizing five treasure-nurtured fingers.
+Dialogue: 0,0:09:58.41,0:09:59.97,Default,,0,0,0,,These five fingers of mine
+Dialogue: 0,0:10:00.65,0:10:04.05,Default,,0,0,0,,were nurtured using countless precious treasures of heaven and earth.
+Dialogue: 0,0:10:00.65,0:10:04.05,Translation Notes,,0,0,0,,T/N: 天材地宝 (Tiāncái dìbǎo: Treasures of Heaven and Earth). Classical xianxia term for rare naturally formed spirit herbs, divine ores, and mystical materials.
+Dialogue: 0,0:10:04.61,0:10:07.13,Default,,0,0,0,,Wherever they point, life and death are mine to dictate!
+Dialogue: 0,0:10:04.61,0:10:07.13,Translation Notes,,0,0,0,,T/N: 生杀予夺 (Shēngshā yǔduó: Holding Power Over Life and Death). Classical idiom denoting absolute sovereign authority over who lives, dies, thrives, or is stripped of everything.
+Dialogue: 0,0:10:07.57,0:10:10.21,Default,,0,0,0,,It is called the Dark Serenity Fingers.
+Dialogue: 0,0:10:10.89,0:10:11.73,Default,,0,0,0,,This
+Dialogue: 0,0:10:11.77,0:10:14.53,Default,,0,0,0,,is the ultimate form of the Balefire Soulswallowing Scripture!
+Dialogue: 0,0:10:16.53,0:10:17.73,Default,,0,0,0,,If you swear loyalty to me,
+Dialogue: 0,0:10:18.49,0:10:19.73,Default,,0,0,0,,I will ask our Patriarch
+Dialogue: 0,0:10:19.77,0:10:21.41,Default,,0,0,0,,to bestow upon you the art of cultivating a single finger.
+Dialogue: 0,0:10:21.81,0:10:24.21,Default,,0,0,0,,Pairing it with Golden Crow Assimilates Myriad Spirits
+Dialogue: 0,0:10:24.61,0:10:27.29,Default,,0,0,0,,is the only way to unleash its true might!
+Dialogue: 0,0:10:28.33,0:10:28.93,Default,,0,0,0,,Combine it?
+Dialogue: 0,0:10:29.81,0:10:31.45,Character thoughts,,0,0,0,,The Golden Crow seems to only want to...
+Dialogue: 0,0:10:32.45,0:10:33.25,Character thoughts,,0,0,0,,swallow that hand whole.
+Dialogue: 0,0:10:33.77,0:10:34.85,Default,,0,0,0,,You need not say anything now.
+Dialogue: 0,0:10:35.37,0:10:38.45,Default,,0,0,0,,Soon, I will challenge the three Highnesses of your Seventh Peak.
+Dialogue: 0,0:10:35.37,0:10:38.45,Translation Notes,,0,0,0,,T/N: 第七峰三位殿下 (Three Highnesses of Seventh Peak). Each Seven Blood Eyes peak grants its top three Chosen apprentices the titles First (Grand), Second, and Third Highness.
+Dialogue: 0,0:10:39.17,0:10:40.13,Default,,0,0,0,,When next we meet,
+Dialogue: 0,0:10:40.85,0:10:42.97,Default,,0,0,0,,it will be the day the Seventh Peak's three Highnesses suffer crushing defeat,
+Dialogue: 0,0:10:43.53,0:10:45.77,Default,,0,0,0,,and I return to claim your answer.
+Dialogue: 0,0:10:49.69,0:10:51.09,Default,,0,0,0,,Things are always more fun around you!
+Dialogue: 0,0:10:53.89,0:10:55.49,Default,,0,0,0,,This is the first time I've ever met someone
+Dialogue: 0,0:10:55.53,0:10:56.53,Default,,0,0,0,,who brazenly shows off
+Dialogue: 0,0:10:56.57,0:10:57.49,Default,,0,0,0,,right in front of my face.
+Dialogue: 0,0:10:58.13,0:10:59.65,Default,,0,0,0,,The surprise came so suddenly,
+Dialogue: 0,0:10:59.93,0:11:01.05,Default,,0,0,0,,even I wasn't quite ready for it!
+Dialogue: 0,0:11:03.29,0:11:03.61,Default,,0,0,0,,Captain,
+Dialogue: 0,0:11:04.61,0:11:05.29,Default,,0,0,0,,what happened to your face?
+Dialogue: 0,0:11:07.29,0:11:08.05,Default,,0,0,0,,N-Nothing happened!
+Dialogue: 0,0:11:08.41,0:11:09.29,Default,,0,0,0,,Master Sixth beat you up.
+Dialogue: 0,0:11:12.93,0:11:13.25,Default,,0,0,0,,How...
+Dialogue: 0,0:11:13.49,0:11:14.49,Default,,0,0,0,,How could that be?!
+Dialogue: 0,0:11:15.17,0:11:17.53,Default,,0,0,0,,I just got used to staying invisible after last time!
+Dialogue: 0,0:11:17.97,0:11:18.37,Default,,0,0,0,,Anyway,
+Dialogue: 0,0:11:19.09,0:11:20.77,Default,,0,0,0,,isn't Huang Yikun about to challenge the Seventh Peak?
+Dialogue: 0,0:11:21.13,0:11:21.97,Default,,0,0,0,,I'm going to join the fun!
+Dialogue: 0,0:11:21.13,0:11:21.97,Translation Notes,,0,0,0,,T/N: 凑凑热闹 (Còu còu rènào: Join the Fun). Lively colloquial expression meaning to crowd around an exciting spectacle or poke one's nose into chaos for entertainment.
+Dialogue: 0,0:11:24.17,0:11:24.53,Default,,0,0,0,,Oh, right,
+Dialogue: 0,0:11:25.05,0:11:25.53,Default,,0,0,0,,Little Ah Qing.
+Dialogue: 0,0:11:26.45,0:11:28.45,Default,,0,0,0,,These sect challenges and string of losses
+Dialogue: 0,0:11:29.01,0:11:31.05,Default,,0,0,0,,are actually a scheme set up by those old codgers.
+Dialogue: 0,0:11:31.61,0:11:33.61,Default,,0,0,0,,It stirs up our disciples' hostility toward the Seven Sect Alliance,
+Dialogue: 0,0:11:33.89,0:11:35.69,Default,,0,0,0,,while also weeding out anyone with a disloyal heart.
+Dialogue: 0,0:11:33.89,0:11:35.69,Translation Notes,,0,0,0,,T/N: 筛一筛 / 离心 (Shāi yī shāi / Líxīn). "Shāi" means to sift with a sieve; "líxīn" refers to people whose hearts have drifted away or turned disloyal.
+Dialogue: 0,0:11:39.25,0:11:40.57,Default,,0,0,0,,Don't go getting any strange ideas yourself,
+Dialogue: 0,0:11:41.41,0:11:43.13,Default,,0,0,0,,otherwise when I have some big plan in the future,
+Dialogue: 0,0:11:43.45,0:11:44.65,Default,,0,0,0,,I'd have to travel all the way to another sect to find you!
+Dialogue: 0,0:11:50.47,0:11:54.47,Nameplates,,0,0,0,,{\an4\fad(500,500)\fs60\pos(226.98,273)}The Seventh Peak
+Dialogue: 0,0:12:08.97,0:12:10.65,Default,,0,0,0,,People of the Seventh Peak, come on out!
+Dialogue: 0,0:12:12.73,0:12:13.65,Default,,0,0,0,,Today,
+Dialogue: 0,0:12:14.61,0:12:16.09,Default,,0,0,0,,I'm going to fight ten of you at once!
+Dialogue: 0,0:12:26.01,0:12:26.65,Default,,0,0,0,,Hmph.
+Dialogue: 0,0:12:34.29,0:12:36.25,Character thoughts,,0,0,0,,Why is this Seventh Peak so quiet?
+Dialogue: 0,0:12:37.77,0:12:39.01,Default,,0,0,0,,They must be terrified of my might
+Dialogue: 0,0:12:39.05,0:12:40.09,Default,,0,0,0,,and too scared to show their faces.
+Dialogue: 0,0:12:40.77,0:12:41.37,Default,,0,0,0,,Very well then.
+Dialogue: 0,0:12:42.17,0:12:43.89,Default,,0,0,0,,I shall drag you bunch of cowardly rats
+Dialogue: 0,0:12:42.17,0:12:43.89,Translation Notes,,0,0,0,,T/N: 鼠辈 (Shǔbèi: Cowardly Rats). Classic Chinese contemptuous insult comparing enemies to lowly, skulking rats.
+Dialogue: 0,0:12:44.41,0:12:45.69,Default,,0,0,0,,out into the open one by one!
+Dialogue: 0,0:12:52.21,0:12:52.81,Character thoughts,,0,0,0,,Oh?
+Dialogue: 0,0:12:53.77,0:12:55.77,Character thoughts,,0,0,0,,Already a little mouse has popped out.
+Dialogue: 0,0:12:57.25,0:12:58.05,Default,,0,0,0,,Your Highness...
+Dialogue: 0,0:12:58.41,0:12:58.93,Default,,0,0,0,,Mmm.
+Dialogue: 0,0:12:59.49,0:13:00.73,Default,,0,0,0,,That strength is just right.
+Dialogue: 0,0:13:01.65,0:13:03.09,Default,,0,0,0,,Here's a grape for your trouble.
+Dialogue: 0,0:13:08.97,0:13:09.69,Character thoughts,,0,0,0,,That woman...
+Dialogue: 0,0:13:10.73,0:13:11.33,Character thoughts,,0,0,0,,Th-This...
+Dialogue: 0,0:13:11.73,0:13:12.37,Default,,0,0,0,,Let me feed you.
+Dialogue: 0,0:13:12.41,0:13:13.97,Character thoughts,,0,0,0,,Isn't that the one who came here with us...
+Dialogue: 0,0:13:14.73,0:13:16.09,Character thoughts,,0,0,0,,the Holy Maiden of the Taisi Immortal Sect?!
+Dialogue: 0,0:13:14.73,0:13:16.09,Translation Notes,,0,0,0,,T/N: 太司仙门圣女 (Holy Maiden of Taisi Immortal Sect). "Shèngnǚ" (Holy Maiden) is the supreme female Chosen/successor title of an upper sect; Taisi Immortal Sect is a prestigious mainland power.
+Dialogue: 0,0:13:17.21,0:13:17.45,Character thoughts,,0,0,0,,H-
+Dialogue: 0,0:13:17.65,0:13:18.73,Character thoughts,,0,0,0,,How did even the likes of her get...?!
+Dialogue: 0,0:13:20.21,0:13:21.17,Default,,0,0,0,,I heard
+Dialogue: 0,0:13:21.61,0:13:23.01,Default,,0,0,0,,you want to fight ten at once.
+Dialogue: 0,0:13:24.01,0:13:25.89,Default,,0,0,0,,I wonder which number I am?
+Dialogue: 0,0:13:26.97,0:13:28.05,Character thoughts,,0,0,0,,This man's cultivation base...
+Dialogue: 0,0:13:28.41,0:13:29.01,Character thoughts,,0,0,0,,and his aura...
+Dialogue: 0,0:13:29.33,0:13:29.57,Character thoughts,,0,0,0,,I...
+Dialogue: 0,0:13:29.93,0:13:31.25,Character thoughts,,0,0,0,,I can't see through any of it at all!
+Dialogue: 0,0:13:37.49,0:13:38.41,Default,,0,0,0,,Um, well...
+Dialogue: 0,0:13:39.17,0:13:40.41,Default,,0,0,0,,I'm not quite fully prepared today.
+Dialogue: 0,0:13:40.73,0:13:41.49,Default,,0,0,0,,Let's hold off on the challenge for now.
+Dialogue: 0,0:13:42.05,0:13:42.57,Default,,0,0,0,,Farewell!
+Dialogue: 0,0:13:45.37,0:13:46.21,Default,,0,0,0,,Oh?
+Dialogue: 0,0:13:49.93,0:13:51.73,Default,,0,0,0,,You've got no manners at all, do you?
+Dialogue: 0,0:13:53.13,0:13:53.97,Default,,0,0,0,,What are you doing?!
+Dialogue: 0,0:13:54.45,0:13:57.01,Default,,0,0,0,,I doubt you can beat me in a fight.
+Dialogue: 0,0:13:57.81,0:14:00.13,Default,,0,0,0,,I know you've had it tough in the Dark Serenity Sect.
+Dialogue: 0,0:14:00.77,0:14:03.05,Default,,0,0,0,,When it comes down to it, we're all our own people.
+Dialogue: 0,0:14:03.57,0:14:05.97,Default,,0,0,0,,And our own people shouldn't make things hard on each other.
+Dialogue: 0,0:14:03.57,0:14:05.97,Translation Notes,,0,0,0,,T/N: 自己人不为难自己人 (Zìjǐrén bù wéinán zìjǐrén). Colloquial saying meaning "one's own people shouldn't make things hard on one another."
+Dialogue: 0,0:14:06.53,0:14:07.89,Default,,0,0,0,,Everything is just business.
+Dialogue: 0,0:14:08.73,0:14:09.81,Default,,0,0,0,,I won't hide the price from you either:
+Dialogue: 0,0:14:10.33,0:14:12.61,Default,,0,0,0,,the going rate is ten million spirit stones.
+Dialogue: 0,0:14:13.01,0:14:13.97,Default,,0,0,0,,Hand it over,
+Dialogue: 0,0:14:14.41,0:14:15.33,Default,,0,0,0,,I'll concede defeat,
+Dialogue: 0,0:14:15.81,0:14:16.89,Default,,0,0,0,,and even let you record an image as proof.
+Dialogue: 0,0:14:17.29,0:14:18.17,Default,,0,0,0,,What do you say?
+Dialogue: 0,0:14:18.77,0:14:19.89,Default,,0,0,0,,I don't have that much!
+Dialogue: 0,0:14:21.45,0:14:22.37,Default,,0,0,0,,No money?
+Dialogue: 0,0:14:23.17,0:14:24.25,Default,,0,0,0,,No problem.
+Dialogue: 0,0:14:24.77,0:14:26.21,Default,,0,0,0,,Everything is open to negotiation.
+Dialogue: 0,0:14:28.09,0:14:29.85,Default,,0,0,0,,Those fingers of yours look pretty nice.
+Dialogue: 0,0:14:39.25,0:14:40.33,Default,,0,0,0,,Aaaah!
+Dialogue: 0,0:14:42.29,0:14:44.17,Default,,0,0,0,,I'll just take one to settle your debt.
+Dialogue: 0,0:14:46.57,0:14:47.49,Default,,0,0,0,,You win!
+Dialogue: 0,0:14:48.05,0:14:48.97,Default,,0,0,0,,I won't see you out!
+Dialogue: 0,0:14:48.05,0:14:48.97,Translation Notes,,0,0,0,,T/N: 不送哦 (Bù sòng o: Won't See You Out). Traditional hospitality calls for escorting departing guests out; saying "bù sòng" with a casual "o" is a dry, dismissive farewell.
+Dialogue: 0,0:14:56.61,0:14:57.45,Default,,0,0,0,,Bandit!
+Dialogue: 0,0:14:58.33,0:14:59.69,Default,,0,0,0,,This is outright robbery!
+Dialogue: 0,0:15:03.97,0:15:04.33,Default,,0,0,0,,Down the mountain.
+Dialogue: 0,0:15:04.85,0:15:05.53,Default,,0,0,0,,Hurry down the mountain!
+Dialogue: 0,0:15:04.85,0:15:05.53,Translation Notes,,0,0,0,,T/N: 宗门禁飞令 (Sect No-Fly Rule). Seven Blood Eyes forbids flying within mountain peak airspace, requiring travel down the peaks on foot.
+Dialogue: 0,0:15:11.09,0:15:11.77,Default,,0,0,0,,Aaaah!
+Dialogue: 0,0:15:25.33,0:15:26.69,Character thoughts,,0,0,0,,A fleshly body half a step into the Golden Core realm?!
+Dialogue: 0,0:15:25.33,0:15:26.69,Translation Notes,,0,0,0,,T/N: 肉身半步金丹 (Ròushēn Bànbù Jīndān: Fleshly Body Half-Step Golden Core). A physical body-refinement tier whose sheer bodily strength approaches the Golden Core Realm, just one step shy of crossing into it.
+Dialogue: 0,0:15:27.49,0:15:29.17,Character thoughts,,0,0,0,,Is this something a human can even achieve?!
+Dialogue: 0,0:15:32.57,0:15:33.29,Default,,0,0,0,,What's the matter?
+Dialogue: 0,0:15:34.29,0:15:35.89,Default,,0,0,0,,Didn't you say you were going to fight ten?
+Dialogue: 0,0:15:40.61,0:15:41.69,Default,,0,0,0,,If you don't make a move,
+Dialogue: 0,0:15:42.37,0:15:43.65,Default,,0,0,0,,then I'm coming at you!
+Dialogue: 0,0:15:53.29,0:15:53.77,Default,,0,0,0,,Wait...
+Dialogue: 0,0:15:54.05,0:15:54.69,Default,,0,0,0,,Wait a second!
+Dialogue: 0,0:16:10.77,0:16:11.09,Default,,0,0,0,,I...
+Dialogue: 0,0:16:11.89,0:16:12.69,Default,,0,0,0,,I'm still alive!
+Dialogue: 0,0:16:14.17,0:16:15.13,Default,,0,0,0,,Nice finger.
+Dialogue: 0,0:16:20.13,0:16:20.89,Default,,0,0,0,,I'll take it.
+Dialogue: 0,0:16:23.25,0:16:23.73,Default,,0,0,0,,Scram!
+Dialogue: 0,0:16:29.57,0:16:30.05,Default,,0,0,0,,My...
+Dialogue: 0,0:16:30.93,0:16:32.49,Default,,0,0,0,,My finger!
+Dialogue: 0,0:16:37.29,0:16:37.61,Default,,0,0,0,,I...
+Dialogue: 0,0:16:38.61,0:16:40.05,Default,,0,0,0,,I never should have come to issue a challenge!
+Dialogue: 0,0:16:40.89,0:16:41.89,Default,,0,0,0,,This is way too much bullying!
+Dialogue: 0,0:16:53.05,0:16:53.49,Default,,0,0,0,,Hmph.
+Dialogue: 0,0:16:54.65,0:16:56.81,Default,,0,0,0,,My third disciple is a greedy little schemer.
+Dialogue: 0,0:16:54.65,0:16:56.81,Translation Notes,,0,0,0,,T/N: 唯利是图 (Wéilì shìtú: Bent Solely on Profit). Classical idiom for a completely mercenary person who cares about nothing except profit and gain.
+Dialogue: 0,0:16:57.45,0:16:58.89,Default,,0,0,0,,All for some stupid finger,
+Dialogue: 0,0:16:59.09,0:17:00.65,Default,,0,0,0,,he's willing to sell out his own dignity.
+Dialogue: 0,0:17:01.49,0:17:02.57,Default,,0,0,0,,As for my second disciple...
+Dialogue: 0,0:17:02.65,0:17:03.73,Default,,0,0,0,,all she knows how to do is brute force things.
+Dialogue: 0,0:17:05.09,0:17:05.85,Default,,0,0,0,,Sigh.
+Dialogue: 0,0:17:06.53,0:17:08.05,Default,,0,0,0,,Still, she's got good luck.
+Dialogue: 0,0:17:11.41,0:17:12.05,Default,,0,0,0,,That man
+Dialogue: 0,0:17:12.45,0:17:13.49,Default,,0,0,0,,was like a venomous viper;
+Dialogue: 0,0:17:13.81,0:17:15.09,Default,,0,0,0,,if you told me he's Golden Core, I'd believe it.
+Dialogue: 0,0:17:15.77,0:17:17.13,Default,,0,0,0,,That woman possesses freakish strength,
+Dialogue: 0,0:17:17.61,0:17:19.37,Default,,0,0,0,,and both of them had their eyes on my fingers!
+Dialogue: 0,0:17:20.93,0:17:21.81,Default,,0,0,0,,Yikun!
+Dialogue: 0,0:17:22.49,0:17:23.25,Default,,0,0,0,,Who's there?!
+Dialogue: 0,0:17:23.77,0:17:25.29,Default,,0,0,0,,Yikun!
+Dialogue: 0,0:17:25.53,0:17:26.41,Default,,0,0,0,,Who is that?!
+Dialogue: 0,0:17:31.65,0:17:32.13,Default,,0,0,0,,Mmh...
+Dialogue: 0,0:17:33.05,0:17:33.73,Default,,0,0,0,,My, my...
+Dialogue: 0,0:17:33.93,0:17:35.73,Default,,0,0,0,,What exquisite quality!
+Dialogue: 0,0:17:33.93,0:17:35.73,Translation Notes,,0,0,0,,T/N: 成色 (Chéngsè: Purity / Quality Grade). Traditionally used to appraise the fineness and purity of gold, silver, or jade.
+Dialogue: 0,0:17:35.89,0:17:36.29,Default,,0,0,0,,Whoa!
+Dialogue: 0,0:17:37.77,0:17:38.37,Default,,0,0,0,,Hey!
+Dialogue: 0,0:17:39.97,0:17:40.89,Default,,0,0,0,,What happened here?
+Dialogue: 0,0:17:41.41,0:17:42.41,Default,,0,0,0,,Did my Second Sister beat you up?
+Dialogue: 0,0:17:43.73,0:17:44.41,Default,,0,0,0,,Who are you?
+Dialogue: 0,0:17:46.89,0:17:48.33,Default,,0,0,0,,You actually don't recognize me?
+Dialogue: 0,0:17:50.25,0:17:52.37,Default,,0,0,0,,Your older brother Huang Lingfei and I are great friends!
+Dialogue: 0,0:17:52.77,0:17:53.73,Default,,0,0,0,,Didn't he ever mention me to you?
+Dialogue: 0,0:17:55.45,0:17:55.93,Default,,0,0,0,,Well...
+Dialogue: 0,0:17:56.77,0:17:57.53,Default,,0,0,0,,I've never heard him say so.
+Dialogue: 0,0:17:57.85,0:17:58.41,Default,,0,0,0,,Aiya,
+Dialogue: 0,0:17:59.65,0:18:01.69,Default,,0,0,0,,Second Sister and Third Brother really went way too far!
+Dialogue: 0,0:18:03.81,0:18:04.17,Default,,0,0,0,,Here,
+Dialogue: 0,0:18:04.53,0:18:05.37,Default,,0,0,0,,take some medicinal pills
+Dialogue: 0,0:18:05.53,0:18:06.01,Default,,0,0,0,,to calm your nerves.
+Dialogue: 0,0:18:05.53,0:18:06.01,Translation Notes,,0,0,0,,T/N: 压压惊 (Yāyā jīng: Calming One's Nerves). Traditional Chinese custom of offering food, wine, or comforting medicine after someone experiences a fright.
+Dialogue: 0,0:18:07.85,0:18:08.45,Default,,0,0,0,,You are...
+Dialogue: 0,0:18:09.45,0:18:10.13,Default,,0,0,0,,First Highness?
+Dialogue: 0,0:18:09.45,0:18:10.13,Translation Notes,,0,0,0,,T/N: 大殿下 vs. 大师兄 (First Highness vs. Eldest Brother). "First Highness" is the formal Peak rank title, while "Eldest Brother" (Dàshīxiōng) is the intimate family-like sect address.
+Dialogue: 0,0:18:11.25,0:18:12.29,Default,,0,0,0,,Way too formal!
+Dialogue: 0,0:18:12.85,0:18:14.29,Default,,0,0,0,,Just call me Eldest Brother.
+Dialogue: 0,0:18:14.61,0:18:14.93,Default,,0,0,0,,El-
+Dialogue: 0,0:18:15.81,0:18:16.41,Default,,0,0,0,,Eldest Brother...
+Dialogue: 0,0:18:18.69,0:18:19.73,Default,,0,0,0,,Now that's more like it!
+Dialogue: 0,0:18:20.85,0:18:21.49,Default,,0,0,0,,Don't you worry.
+Dialogue: 0,0:18:21.85,0:18:22.09,Default,,0,0,0,,Come,
+Dialogue: 0,0:18:22.57,0:18:23.13,Default,,0,0,0,,let me see you down the mountain.
+Dialogue: 0,0:18:25.77,0:18:26.17,Default,,0,0,0,,No...
+Dialogue: 0,0:18:26.93,0:18:27.53,Default,,0,0,0,,N-No need!
+Dialogue: 0,0:18:29.45,0:18:30.57,Default,,0,0,0,,Oh?
+Dialogue: 0,0:18:32.37,0:18:32.97,Default,,0,0,0,,Alright then.
+Dialogue: 0,0:18:33.33,0:18:34.01,Default,,0,0,0,,Then I won't walk you down.
+Dialogue: 0,0:18:41.65,0:18:43.73,Character thoughts,,0,0,0,,It seems this First Highness is still the most sensible one.
+Dialogue: 0,0:18:41.65,0:18:43.73,Translation Notes,,0,0,0,,T/N: 明事理 (Míng shìlǐ: Sensible and Reasonable). Idiom meaning level-headed, fair, and understanding of reason and propriety.
+Dialogue: 0,0:18:46.37,0:18:46.65,Default,,0,0,0,,Oh,
+Dialogue: 0,0:18:47.05,0:18:47.57,Default,,0,0,0,,by the way!
+Dialogue: 0,0:18:48.09,0:18:49.85,Default,,0,0,0,,About the payment for those medicinal pills just now...
+Dialogue: 0,0:18:53.33,0:18:56.09,Default,,0,0,0,,I'll have to trouble you for that, Junior Brother.
+Dialogue: 0,0:18:56.53,0:18:57.05,Default,,0,0,0,,What?!
+Dialogue: 0,0:18:59.73,0:19:00.73,Default,,0,0,0,,What are you going to do?!
+Dialogue: 0,0:19:03.25,0:19:05.69,Default,,0,0,0,,Just one finger will be enough!
+Dialogue: 0,0:19:10.01,0:19:10.49,Default,,0,0,0,,No!
+Dialogue: 0,0:19:11.01,0:19:12.09,Default,,0,0,0,,No!!
+Dialogue: 0,0:19:20.33,0:19:21.41,Default,,0,0,0,,Out of all my disciples,
+Dialogue: 0,0:19:21.69,0:19:23.37,Default,,0,0,0,,the eldest is still the most reasonable.
+Dialogue: 0,0:19:25.93,0:19:26.29,Default,,0,0,0,,Yes, Master.
+Dialogue: 0,0:19:27.21,0:19:27.97,Default,,0,0,0,,Now,
+Dialogue: 0,0:19:28.37,0:19:30.01,Default,,0,0,0,,the eldest, second, and third
+Dialogue: 0,0:19:30.05,0:19:31.13,Default,,0,0,0,,have all gotten a finger;
+Dialogue: 0,0:19:31.85,0:19:33.65,Default,,0,0,0,,the fourth can't be left out either.
+Dialogue: 0,0:19:42.41,0:19:43.05,Default,,0,0,0,,What is that?!
+Dialogue: 0,0:19:48.07,0:19:58.03,Translation Notes,,0,0,0,,{\an1\fad(300,300)\fscx80\fscy80}• XU QING'S DIARY: RICH OVERNIGHT! (BUT MET A LUNATIC) •\N\N[Little Rat Stuffed Himself Full!]\N• Thanks for the loot drop, Big Bro Full-Kit! ("Struck it rich! Never seen this much money in my life!")\N\N[Dharma Apertures Skyrocketing, Three-Flame Countdown!]\N• (88 Apertures) Open two more dharma apertures and I can ignite my third Life Flame! Next up, go "borrow" some lifeforce from Night Dove in the dungeons~\N\N[Rambling "Senior Brother Huang" (Total Lunatic)]\N• Came asking me to swear loyalty and shamelessly claimed my Golden Crow is incomplete?... Still, the Golden Crow looks eager to eat his fingers.\N\N• YIKUN'S DIARY: TRAPPED IN A DEMON LAIR (ALL OF SEVENTH PEAK ARE LUNATICS!) •\N\N[Thought I Was an Unrivaled Big Shot, Until...]\N• (Reading "World of Lunatics" / Fingers claimed by: Third, Captain, Second) I got robbed by Seventh Peak!! Aaaah! You're all bandits! Zero martial honor!\N\N[Dignity Shattered]\N• Whose hand even is this... My fingers! My dignity! All gone! (Eyeballing drooling Xu Qing: "Don't tell me this guy is a little demon too...")
+Dialogue: 0,0:19:58.07,0:20:03.03,Translation Notes,,0,0,0,,{\an1\fad(300,300)\fscx80\fscy80}• TECHNIQUE LORE: DARK SERENITY FINGERS •\N\N• Origin of Golden Crow: Golden Crow Assimilates Myriad Spirits is an Imperial-Class secret art originating from the bronze dragon chariot. Its essence is a tyrannical body-refining art that devours all things and plunders racial talents; the complete version is self-contained and requires no auxiliary technique.\N• Derived Scripture: Having grasped only superficial fragments of Golden Crow Assimilates Myriad Spirits that proved weak alone, the Seven Sect Alliance Leader created the Balefire Soulswallowing Scripture based on his own comprehension.\N• Advanced Supplement: The advanced stage of the Balefire Soulswallowing Scripture is the Dark Serenity Fingers, created by the Alliance Leader merely as an auxiliary component to patch the flaws of his incomplete Golden Crow.
+Dialogue: 0,0:20:13.01,0:20:14.13,Default,,0,0,0,,Scan this QR code!
+Dialogue: 0,0:20:14.89,0:20:16.29,Default,,0,0,0,,In the future, come drink together with us on our dharmaboat!
+Dialogue: 0,0:20:18.93,0:20:19.65,Default,,0,0,0,,We're only missing you!
+Dialogue: 0,0:20:38.99,0:20:55.75,Preview & Recap,,0,0,0,,{\fad(300,300)\an4\pos(185,580)}Next \NEpisode \NPreview
+Dialogue: 0,0:22:00.67,0:22:05.23,Ending Song,,0,0,0,,♪Wind blows across the campfire nearly burning out♪
+Dialogue: 0,0:22:05.43,0:22:09.55,Ending Song,,0,0,0,,♪Who is humming that old ballad once more?♪
+Dialogue: 0,0:22:10.27,0:22:14.75,Ending Song,,0,0,0,,♪They say: Keep walking forward, never look back♪
+Dialogue: 0,0:22:14.75,0:22:19.67,Ending Song,,0,0,0,,♪Yet that lingering laughter still echoes in my ears♪
+Dialogue: 0,0:22:20.15,0:22:24.63,Ending Song,,0,0,0,,♪From every single scar, blossom flowers in full bloom♪
+Dialogue: 0,0:22:24.63,0:22:28.95,Ending Song,,0,0,0,,♪Remembering for me all the words left unsaid♪
+Dialogue: 0,0:22:29.47,0:22:34.03,Ending Song,,0,0,0,,♪I have seen so many choose to let go of their grasp♪
+Dialogue: 0,0:22:34.27,0:22:38.55,Ending Song,,0,0,0,,♪Yet that warmth and gentleness, I cannot bear to lose♪
+Dialogue: 0,0:22:39.07,0:22:43.07,Ending Song,,0,0,0,,♪It is not that I refuse to journey onward♪
+Dialogue: 0,0:22:43.47,0:22:48.47,Ending Song,,0,0,0,,♪I only fear walking so fast my soul is left stranded♪
+Dialogue: 0,0:22:48.95,0:22:53.87,Ending Song,,0,0,0,,♪Those lights of the departed have never truly strayed far♪
+Dialogue: 0,0:22:54.07,0:22:58.55,Ending Song,,0,0,0,,♪With every breath I take, I feel them right by my side♪
+Dialogue: 0,0:22:58.55,0:23:02.95,Ending Song,,0,0,0,,♪This is my sacred obsession, refusing to forget♪
