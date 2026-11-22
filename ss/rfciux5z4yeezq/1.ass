@@ -1,0 +1,804 @@
+[Script Info]
+Title:
+Original Script:
+Synch Point:
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+Timer: 100.0000
+YCbCr Matrix: TV.601
+LayoutResX: 0
+LayoutResY: 0
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,LTFinnegan Medium,78,&H00FFFFFF,&H00FFFFFF,&H00A867EC,&H64000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,15,15,53,1
+Style: OP Eng,LTFinnegan Medium,70,&H008E74EF,&H00FFFFFF,&H00FFFFFF,&H64000000,-1,0,0,0,100,100,2,0,1,2.7,0,8,15,15,30,1
+Style: OP Rom,LTFinnegan Medium,50,&H008E74EF,&H00FFFFFF,&H00FFFFFF,&H64000000,-1,0,0,0,100,100,2,0,1,2.7,0,2,15,15,5,1
+Style: ED Eng,Worn Gothic,87,&H009C6578,&H00FFFFFF,&H00FFFFFF,&H64000000,-1,0,0,0,100,100,2,0,1,2.2,2.8,8,90,90,17,1
+Style: ED Rom,Worn Gothic,60,&H009C6578,&H00FFFFFF,&H00FFFFFF,&H64000000,0,0,0,0,100,100,2,0,1,1.5,2.8,2,90,90,5,1
+Style: Preview,LTFinnegan Medium,140,&H00FFFFFF,&H00FFFFFF,&H00AE81FF,&H64000000,-1,0,0,0,100,100,0,0,1,8,6,2,15,15,53,1
+Style: Preview2,LTFinnegan Medium,140,&H00FFFFFF,&H00FFFFFF,&H00FDF66A,&H64000000,-1,0,0,0,100,100,0,0,1,25,0,2,15,15,53,1
+Style: Title,LTFinnegan Medium,160,&H00FFFFFF,&H00FFFFFF,&H00AE81FF,&H64000000,-1,0,0,0,100,100,0,0,1,10,0,2,15,15,53,1
+Style: test,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: TS,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Insert5 Eng,Italianno,130,&H00FFFFFF,&H00FFFFFF,&H003F2BDA,&H64FFFFFF,-1,0,0,0,100,100,0,0,1,3.4,0,9,15,36,0,1
+Style: Insert5 Rom,Italianno,100,&H00FFFFFF,&H00FFFFFF,&H003F2BDA,&H64FFFFFF,-1,0,0,0,100,100,0,0,1,3.4,0,9,15,36,30,1
+Style: Insert7 Eng,Hello Baby,80,&H00FFFFFF,&H00FFFFFF,&H00B36BDD,&H64FFFFFF,-1,0,0,0,100,100,0,0,1,3.7,0,9,15,15,15,1
+Style: Insert7 Rom,Hello Baby,55,&H00FFFFFF,&H00FFFFFF,&H00B36BDD,&H64FFFFFF,-1,0,0,0,100,100,0,0,1,3.4,0,9,15,15,66,1
+Style: Insert8 Eng,Milesdane Trial,80,&H00FFFFFF,&H00FFFFFF,&H00D3DB6F,&H64FFFFFF,-1,0,0,0,100,100,0,0,1,3.7,0,9,15,15,15,1
+Style: Insert8 Rom,Milesdane Trial,55,&H00FFFFFF,&H00FFFFFF,&H00D3DB6F,&H64FFFFFF,-1,0,0,0,100,100,0,0,1,3.4,0,9,15,15,66,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:01:50.01,0:01:55.00,TS,,0,0,0,,{\fnGT Maru Black\fs80\bord5\shad0\c&HFFD255&\3c&HFFFFFF&\clip(200.41,540.77,1700.54,648)\pos(967.71,709)}The Wish Granting Channel!
+Dialogue: 2,0:01:50.01,0:01:55.00,TS,,0,0,0,,{\fnGT Maru Black\fs80\bord5\shad0\c&HFCD25B&\3c&HFFFFFF&\clip(200,648,1700,650)\pos(967.71,709)}The Wish Granting Channel!
+Dialogue: 2,0:01:50.01,0:01:55.00,TS,,0,0,0,,{\fnGT Maru Black\fs80\bord5\shad0\c&HFBD36A&\3c&HFFFFFF&\clip(200,650,1700,652)\pos(967.71,709)}The Wish Granting Channel!
+Dialogue: 2,0:01:50.01,0:01:55.00,TS,,0,0,0,,{\fnGT Maru Black\fs80\bord5\shad0\c&HFBD76D&\3c&HFFFFFF&\clip(200,652,1700,654)\pos(967.71,709)}The Wish Granting Channel!
+Dialogue: 2,0:01:50.01,0:01:55.00,TS,,0,0,0,,{\fnGT Maru Black\fs80\bord5\shad0\c&HFCDE73&\3c&HFFFFFF&\clip(200,654,1700,657)\pos(967.71,709)}The Wish Granting Channel!
+Dialogue: 2,0:01:50.01,0:01:55.00,TS,,0,0,0,,{\fnGT Maru Black\fs80\bord5\shad0\c&HFCE27B&\3c&HFFFFFF&\clip(200,657,1700,659)\pos(967.71,709)}The Wish Granting Channel!
+Dialogue: 2,0:01:50.01,0:01:55.00,TS,,0,0,0,,{\fnGT Maru Black\fs80\bord5\shad0\c&HFCE781&\3c&HFFFFFF&\clip(200,659,1700,663)\pos(967.71,709)}The Wish Granting Channel!
+Dialogue: 2,0:01:50.01,0:01:55.00,TS,,0,0,0,,{\fnGT Maru Black\fs80\bord5\shad0\c&HFDEF88&\3c&HFFFFFF&\clip(200,663,1700,674)\pos(967.71,709)}The Wish Granting Channel!
+Dialogue: 2,0:01:50.01,0:01:55.00,TS,,0,0,0,,{\fnGT Maru Black\fs80\bord5\shad0\c&HFEF290&\3c&HFFFFFF&\clip(200,674,1700,675)\pos(967.71,709)}The Wish Granting Channel!
+Dialogue: 2,0:01:50.01,0:01:55.00,TS,,0,0,0,,{\fnGT Maru Black\fs80\bord5\shad0\c&HFCEF8F&\3c&HFFFFFF&\clip(200,675,1700,679)\pos(967.71,709)}The Wish Granting Channel!
+Dialogue: 2,0:01:50.01,0:01:55.00,TS,,0,0,0,,{\fnGT Maru Black\fs80\bord5\shad0\c&HFDEA86&\3c&HFFFFFF&\clip(200,679,1700,681)\pos(967.71,709)}The Wish Granting Channel!
+Dialogue: 2,0:01:50.01,0:01:55.00,TS,,0,0,0,,{\fnGT Maru Black\fs80\bord5\shad0\c&HFCE681&\3c&HFFFFFF&\clip(200,681,1700,683)\pos(967.71,709)}The Wish Granting Channel!
+Dialogue: 2,0:01:50.01,0:01:55.00,TS,,0,0,0,,{\fnGT Maru Black\fs80\bord5\shad0\c&HFCE27D&\3c&HFFFFFF&\clip(200,683,1700,686)\pos(967.71,709)}The Wish Granting Channel!
+Dialogue: 2,0:01:50.01,0:01:55.00,TS,,0,0,0,,{\fnGT Maru Black\fs80\bord5\shad0\c&HFCDB74&\3c&HFFFFFF&\clip(200,686,1700,688)\pos(967.71,709)}The Wish Granting Channel!
+Dialogue: 2,0:01:50.01,0:01:55.00,TS,,0,0,0,,{\fnGT Maru Black\fs80\bord5\shad0\c&HFCD86F&\3c&HFFFFFF&\clip(200,688,1700,689)\pos(967.71,709)}The Wish Granting Channel!
+Dialogue: 2,0:01:50.01,0:01:55.00,TS,,0,0,0,,{\fnGT Maru Black\fs80\bord5\shad0\c&HFBD66B&\3c&HFFFFFF&\clip(200,689,1700,690)\pos(967.71,709)}The Wish Granting Channel!
+Dialogue: 2,0:01:50.01,0:01:55.00,TS,,0,0,0,,{\fnGT Maru Black\fs80\bord5\shad0\c&HFED467&\3c&HFFFFFF&\clip(200,690,1700,692)\pos(967.71,709)}The Wish Granting Channel!
+Dialogue: 2,0:01:50.01,0:01:55.00,TS,,0,0,0,,{\fnGT Maru Black\fs80\bord5\shad0\c&HFAD15E&\3c&HFFFFFF&\clip(200,692,1700,694)\pos(967.71,709)}The Wish Granting Channel!
+Dialogue: 2,0:01:50.01,0:01:55.00,TS,,0,0,0,,{\fnGT Maru Black\fs80\bord5\shad0\c&HFACF57&\3c&HFFFFFF&\clip(284.45,694,1666.72,775.97)\pos(967.71,709)}The Wish Granting Channel!
+Dialogue: 1,0:01:50.01,0:01:55.00,TS,,0,0,0,,{\fnGT Maru Black\fs80\shad0\blur2\c&H000000&\3c&HFFFFFF&\pos(970.47,720.53)}The Wish Granting Channel!
+Dialogue: 0,0:01:50.01,0:01:55.00,TS,,0,0,0,,{\fnGT Maru Black\fs80\shad0\bord20\blur14\c&H000000&\3c&HFA91F7&\pos(967.71,709)}The Wish Granting Channel!
+Dialogue: 0,0:23:50.04,0:24:04.99,TS,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1}m 631 137 l 601 148 590 162 581 178 569 198 562 219 563 238 563 252 585 258 614 258 901 257 1028 252 1106 241 1125 237 1140 234 1149 231 1156 218 1156 199 1147 178 1108 154 1041 147 959 143 790 135
+Dialogue: 1,0:23:50.04,0:24:04.99,TS,,0,0,0,,{\c&H000000&\blur0.7\fnGT Maru Black\fs60\pos(856.1,240.44)}Today's AiPri Card!
+Dialogue: 0,0:23:50.04,0:24:04.99,TS,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HFA916B&}m 204 543 l 165 571 155 569 140 566 125 566 111 567 97 570 80 579 67 587 56 597 48 610 41 623 36 636 33 651 33 665 33 679 36 694 42 707 54 726 68 741 79 749 97 757 111 761 124 762 139 762 155 760 165 756 180 749 188 744 197 736 205 728 212 719 217 709 223 697 226 688 227 679 228 666 228 653 226 640 221 629 215 618 210 609 201 599 194 591 193 585
+Dialogue: 1,0:23:50.04,0:24:04.99,TS,,0,0,0,,{\blur0.7\fnGT Maru Black\fs54\pos(130.1,693.39)}Azumin
+Dialogue: 0,0:23:50.04,0:24:04.99,TS,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H60CBFA&}m 935 668 l 909 681 903 677 892 673 877 670 864 670 851 672 841 677 834 681 830 684 826 687 821 691 817 696 813 703 809 710 807 717 804 726 804 731 803 739 804 749 805 757 808 764 812 771 816 777 820 782 825 787 831 792 837 796 848 801 854 803 860 804 868 805 875 805 883 804 889 804 894 802 899 799 903 797 909 794 914 790 920 785 924 779 928 774 932 767 935 761 937 754 939 748 940 741 939 729 937 720 934 713 932 706 928 700 925 697 924 695
+Dialogue: 1,0:23:50.04,0:24:04.99,TS,,0,0,0,,{\blur0.7\fnGT Maru Black\fs35\pos(870.82,754.31)}Kyouka
+Dialogue: 0,0:23:50.04,0:24:04.99,TS,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HB247F1&}m 595 668 l 569 681 567 680 562 677 556 674 551 672 544 671 538 670 531 669 524 670 516 671 508 673 502 676 495 680 487 685 481 690 475 698 471 704 468 710 466 717 464 725 463 732 463 742 464 751 466 758 469 765 473 773 480 782 485 788 491 793 498 797 504 800 511 802 520 804 529 805 534 805 545 804 551 802 558 799 565 795 571 791 578 786 584 778 589 772 593 765 595 759 597 751 598 745 599 738 599 729 596 717 591 709 587 701 584 697
+Dialogue: 1,0:23:50.04,0:24:04.99,TS,,0,0,0,,{\blur0.7\fnGT Maru Black\fs40\pos(530.89,754.32)}Riori
+Dialogue: 0,0:23:50.04,0:24:04.99,TS,,0,0,0,,{\fnStone Punk\fs60\bord6\3c&HFC3601&\blur5\pos(1515.25,855.98)}Aoi
+Dialogue: 0,0:23:50.04,0:24:04.99,TS,,0,0,0,,{\fnStone Punk\fs60\bord6\pos(1504.52,1080)\3c&HFC3601&\blur5}Angel Sports
+Dialogue: 3,0:15:26.11,0:15:27.97,TS,,0,0,0,,{\fnPRK P GO HwanOkdol\fs70\c&HFCE289&\bord0\fad(340,0)\shad0\pos(1501.92,855.98)}Aoi
+Dialogue: 2,0:15:26.11,0:15:27.97,TS,,0,0,0,,{\fnPRK P GO HwanOkdol\fs70\c&H8D8D8D&\blur0.5\shad1\fad(340,0)\3c&H8D8D8D&\pos(1501.99,858.79)}Aoi
+Dialogue: 1,0:15:26.11,0:15:27.97,TS,,0,0,0,,{\fnPRK P GO HwanOkdol\fs70\c&HFDF2D7&\fad(340,0)\bord7\shad0\3c&HFDFEFD&\pos(1501.92,855.98)}Aoi
+Dialogue: 0,0:15:26.11,0:15:27.97,TS,,0,0,0,,{\fnPRK P GO HwanOkdol\fs70\c&HFDF2D6&\fad(340,0)\bord20\shad0\3c&H7BFFFD&\blur10\pos(1501.92,855.98)}Aoi
+Dialogue: 2,0:15:26.11,0:15:27.97,TS,,0,0,0,,{\fnGT Maru Medium\fs60\c&HF1C545&\fad(340,0)\bord2.5\shad0\3c&HFFF072&\pos(1496.87,1002.06)}Pure Heart Buzzlume\NBlue
+Dialogue: 1,0:15:26.11,0:15:27.97,TS,,0,0,0,,{\fnGT Maru Medium\fs60\c&HF1C545&\fad(340,0)\bord8\shad0\3c&HFEFFFE&\pos(1496.87,1002.06)}Pure Heart Buzzlume\NBlue
+Dialogue: 0,0:15:26.11,0:15:27.97,TS,,0,0,0,,{\fnGT Maru Medium\fs60\c&HFB63F9&\fad(340,0)\blur10\bord20\shad0\3c&H7BFFFD&\pos(1496.87,1002.06)}Pure Heart Buzzlume\NBlue
+Dialogue: 3,0:15:31.15,0:15:32.98,TS,,0,0,0,,{\fnPRK P GO HwanOkdol\fs70\c&HC484F6&\bord0\fad(340,0)\shad0\pos(366.76,855.98)}Inori
+Dialogue: 2,0:15:31.15,0:15:32.98,TS,,0,0,0,,{\fnPRK P GO HwanOkdol\fs70\c&H8D8D8D&\blur0.5\shad1\fad(340,0)\3c&H8D8D8D&\pos(366.83,858.79)}Inori
+Dialogue: 1,0:15:31.15,0:15:32.98,TS,,0,0,0,,{\fnPRK P GO HwanOkdol\fs70\c&HFDF2D7&\fad(340,0)\bord7\shad0\3c&HFDFEFD&\pos(366.76,855.98)}Inori
+Dialogue: 0,0:15:31.15,0:15:32.98,TS,,0,0,0,,{\fnPRK P GO HwanOkdol\fs70\c&HFDF2D6&\fad(340,0)\bord20\shad0\3c&HCDFFFB&\blur10\pos(366.76,855.98)}Inori
+Dialogue: 2,0:15:31.15,0:15:32.98,TS,,0,0,0,,{\fnGT Maru Medium\fs60\c&HB369F4&\fad(340,0)\bord2.5\shad0\3c&HD18EFA&\pos(362.82,1002.06)}Smile Heart Buzzlume\NPink
+Dialogue: 1,0:15:31.15,0:15:32.98,TS,,0,0,0,,{\fnGT Maru Medium\fs60\c&HF1C545&\fad(340,0)\bord8\shad0\3c&HFEFFFE&\pos(362.82,1002.06)}Smile Heart Buzzlume\NPink
+Dialogue: 0,0:15:31.15,0:15:32.98,TS,,0,0,0,,{\fnGT Maru Medium\fs60\c&HFB63F9&\fad(340,0)\blur10\bord20\shad0\3c&HCDFFFB&\pos(362.82,1002.06)}Smile Heart Buzzlume\NPink
+Dialogue: 4,0:24:05.02,0:24:15.88,TS,,0,0,0,,{\fad(0,0)\fnGT Maru Medium\bord3\fs75\shad0\3c&HC68CED&\fscx73\c&HA8FFFD&\pos(1659.33,260.71)}Next Episode
+Dialogue: 3,0:24:05.02,0:24:15.88,TS,,0,0,0,,{\fad(0,0)\fnGT Maru Medium\bord8\fs75\shad0\3c&HCB49F3&\fscx73\c&HA8FFFD&\pos(1659.33,260.71)}Next Episode
+Dialogue: 2,0:24:05.02,0:24:15.88,TS,,0,0,0,,{\fad(0,0)\fnGT Maru Medium\bord4\fs75\c&H000000&\shad0\3c&H000000&\fscx73\blur1\pos(1662.03,264.29)}Next Episode
+Dialogue: 1,0:24:05.02,0:24:15.88,TS,,0,0,0,,{\fad(0,0)\fnGT Maru Medium\fs75\bord13\c&H000000&\shad0\fscx73\blur6\3c&HFFFFFF&\pos(1659.33,260.71)}Next Episode
+Dialogue: 4,0:24:15.91,0:24:19.96,TS,,0,0,0,,{\fad(0,0)}{\fnGT Maru Medium\bord3\fs75\shad0\3c&HC68CED&\c&HA8FFFD&\pos(959.33,698.71)}The First Wish
+Dialogue: 3,0:24:15.91,0:24:20.01,TS,,0,0,0,,{\fad(0,0)}{\fnGT Maru Medium\bord7\fs75\shad0\3c&HCB49F3&\c&HA8FFFD&\pos(959.33,698.71)}The First Wish
+Dialogue: 2,0:24:15.91,0:24:20.01,TS,,0,0,0,,{\fad(0,0)}{\fnGT Maru Medium\bord4\fs75\c&H000000&\shad0\3c&H000000&\blur1\pos(962.03,702.29)}The First Wish
+Dialogue: 1,0:24:15.91,0:24:20.01,TS,,0,0,0,,{\fad(0,0)}{\fnGT Maru Medium\fs75\bord17\c&H000000&\shad0\blur10\3c&HFFFFFF&\pos(959.33,698.71)}The First Wish
+Dialogue: 1,0:00:20.46,0:00:25.12,OP Eng,,0,0,0,,{\fad(100,0)}Onegai! Onegai! Onegai!
+Dialogue: 0,0:00:20.46,0:00:25.12,OP Eng,,0,0,0,,{\fad(100,0)}{\bord8\blur12\fs70\shad0\3c&H9E87F4&\c&HFAF5C6&}Onegai! Onegai! Onegai!
+Dialogue: 1,0:00:25.12,0:00:27.25,OP Eng,,0,0,0,,Let's make it true right now
+Dialogue: 0,0:00:25.12,0:00:27.25,OP Eng,,0,0,0,,{\bord8\blur12\fs70\shad0\3c&H9E87F4&\c&HFAF5C6&}Let's make it true right now
+Dialogue: 1,0:00:27.25,0:00:29.21,OP Eng,,0,0,0,,{\fad(0,160}Let's go, AiPri!
+Dialogue: 0,0:00:27.25,0:00:29.21,OP Eng,,0,0,0,,{\fad(0,160}{\bord8\blur12\fs70\shad0\3c&H9E87F4&\c&HFAF5C6&}Let's go, AiPri!
+Dialogue: 1,0:00:29.98,0:00:31.39,OP Eng,,0,0,0,,{\fad(0,160}(Here we go!)
+Dialogue: 0,0:00:29.98,0:00:31.39,OP Eng,,0,0,0,,{\fad(0,160}{\bord8\blur12\fs70\shad0\3c&H9E87F4&\c&HFAF5C6&}(Here we go!)
+Dialogue: 1,0:00:42.28,0:00:44.18,OP Eng,,0,0,0,,{\fad(100,0)}It started with a dream
+Dialogue: 0,0:00:42.28,0:00:44.18,OP Eng,,0,0,0,,{\fad(100,0)}{\bord8\blur12\fs70\shad0\3c&H9E87F4&\c&HFAF5C6&}It started with a dream
+Dialogue: 1,0:00:44.18,0:00:47.39,OP Eng,,0,0,0,,Go after making your wishes true
+Dialogue: 0,0:00:44.18,0:00:47.39,OP Eng,,0,0,0,,{\bord8\blur12\fs70\shad0\3c&H9E87F4&\c&HFAF5C6&}Go after making your wishes true
+Dialogue: 1,0:00:47.39,0:00:50.73,OP Eng,,0,0,0,,The source of miracles no doubt is
+Dialogue: 0,0:00:47.39,0:00:50.73,OP Eng,,0,0,0,,{\bord8\blur12\fs70\shad0\3c&H9E87F4&\c&HFAF5C6&}The source of miracles no doubt is
+Dialogue: 1,0:00:50.73,0:00:52.65,OP Eng,,0,0,0,,a heart that believes!
+Dialogue: 0,0:00:50.73,0:00:52.65,OP Eng,,0,0,0,,{\bord8\blur12\fs70\shad0\3c&H9E87F4&\c&HFAF5C6&}a heart that believes!
+Dialogue: 1,0:00:52.65,0:00:54.90,OP Eng,,0,0,0,,When my determined heart
+Dialogue: 0,0:00:52.65,0:00:54.90,OP Eng,,0,0,0,,{\bord8\blur12\fs70\shad0\3c&H9E87F4&\c&HFAF5C6&}When my determined heart
+Dialogue: 1,0:00:54.90,0:00:57.45,OP Eng,,0,0,0,,Gets conveyed to all
+Dialogue: 0,0:00:54.90,0:00:57.45,OP Eng,,0,0,0,,{\bord8\blur12\fs70\shad0\3c&H9E87F4&\c&HFAF5C6&}Gets conveyed to all
+Dialogue: 1,0:00:57.45,0:00:58.82,OP Eng,,0,0,0,,I'll be taking
+Dialogue: 0,0:00:57.45,0:00:58.82,OP Eng,,0,0,0,,{\bord8\blur12\fs70\shad0\3c&H9E87F4&\c&HFAF5C6&}I'll be taking
+Dialogue: 1,0:00:58.85,0:01:00.12,OP Eng,,0,0,0,,One more step
+Dialogue: 0,0:00:58.85,0:01:00.12,OP Eng,,0,0,0,,{\bord8\blur12\fs70\shad0\3c&H9E87F4&\c&HFAF5C6&}One more step
+Dialogue: 1,0:01:00.12,0:01:02.91,OP Eng,,0,0,0,,Towards the next stage
+Dialogue: 0,0:01:00.12,0:01:02.91,OP Eng,,0,0,0,,{\bord8\blur12\fs70\shad0\3c&H9E87F4&\c&HFAF5C6&}Towards the next stage
+Dialogue: 1,0:01:02.91,0:01:05.41,OP Eng,,0,0,0,,With my radiant lives
+Dialogue: 0,0:01:02.91,0:01:05.41,OP Eng,,0,0,0,,{\bord8\blur12\fs70\shad0\3c&H9E87F4&\c&HFAF5C6&}With my radiant lives
+Dialogue: 1,0:01:05.41,0:01:08.04,OP Eng,,0,0,0,,My voice will pass the baton
+Dialogue: 0,0:01:05.41,0:01:08.04,OP Eng,,0,0,0,,{\bord8\blur12\fs70\shad0\3c&H9E87F4&\c&HFAF5C6&}My voice will pass the baton
+Dialogue: 1,0:01:08.04,0:01:10.83,OP Eng,,0,0,0,,And with all these prisms
+Dialogue: 0,0:01:08.04,0:01:10.83,OP Eng,,0,0,0,,{\bord8\blur12\fs70\shad0\3c&H9E87F4&\c&HFAF5C6&}And with all these prisms
+Dialogue: 1,0:01:10.83,0:01:12.92,OP Eng,,0,0,0,,our hearts will be one big Buzzlume
+Dialogue: 0,0:01:10.83,0:01:12.92,OP Eng,,0,0,0,,{\bord8\blur12\fs70\shad0\3c&H9E87F4&\c&HFAF5C6&}our hearts will be one big Buzzlume
+Dialogue: 1,0:01:12.92,0:01:14.92,OP Eng,,0,0,0,,I know you can't take your eyes off it!
+Dialogue: 0,0:01:12.92,0:01:14.92,OP Eng,,0,0,0,,{\bord8\blur12\fs70\shad0\3c&H9E87F4&\c&HFAF5C6&}I know you can't take your eyes off it!
+Dialogue: 1,0:01:14.92,0:01:15.80,OP Eng,,0,0,0,,(Let's go!)
+Dialogue: 0,0:01:14.92,0:01:15.80,OP Eng,,0,0,0,,{\bord8\blur12\fs70\shad0\3c&H9E87F4&\c&HFAF5C6&}(Let's go!)
+Dialogue: 1,0:01:15.80,0:01:18.51,OP Eng,,0,0,0,,Wishes come around! Everyone smiles!
+Dialogue: 0,0:01:15.80,0:01:18.51,OP Eng,,0,0,0,,{\bord8\blur12\fs70\shad0\3c&H9E87F4&\c&HFAF5C6&}Wishes come around! Everyone smiles!
+Dialogue: 1,0:01:18.51,0:01:21.39,OP Eng,,0,0,0,,And when together! (And when together!)
+Dialogue: 0,0:01:18.51,0:01:21.39,OP Eng,,0,0,0,,{\bord8\blur12\fs70\shad0\3c&H9E87F4&\c&HFAF5C6&}And when together! (And when together!)
+Dialogue: 1,0:01:21.39,0:01:24.14,OP Eng,,0,0,0,,Get back up as many times as it takes
+Dialogue: 0,0:01:21.39,0:01:24.14,OP Eng,,0,0,0,,{\bord8\blur12\fs70\shad0\3c&H9E87F4&\c&HFAF5C6&}Get back up as many times as it takes
+Dialogue: 1,0:01:24.14,0:01:26.52,OP Eng,,0,0,0,,A coord change with you!
+Dialogue: 0,0:01:24.14,0:01:26.52,OP Eng,,0,0,0,,{\bord8\blur12\fs70\shad0\3c&H9E87F4&\c&HFAF5C6&}A coord change with you!
+Dialogue: 1,0:01:26.52,0:01:28.10,OP Eng,,0,0,0,,Overlapping hearts!
+Dialogue: 0,0:01:26.52,0:01:28.10,OP Eng,,0,0,0,,{\bord8\blur12\fs70\shad0\3c&H9E87F4&\c&HFAF5C6&}Overlapping hearts!
+Dialogue: 1,0:01:28.10,0:01:29.06,OP Eng,,0,0,0,,The power of singing!
+Dialogue: 0,0:01:28.10,0:01:29.06,OP Eng,,0,0,0,,{\bord8\blur12\fs70\shad0\3c&H9E87F4&\c&HFAF5C6&}The power of singing!
+Dialogue: 1,0:01:29.06,0:01:31.90,OP Eng,,0,0,0,,It'll all reach them! (It'll all reach them!)
+Dialogue: 0,0:01:29.06,0:01:31.90,OP Eng,,0,0,0,,{\bord8\blur12\fs70\shad0\3c&H9E87F4&\c&HFAF5C6&}It'll all reach them! (It'll all reach them!)
+Dialogue: 1,0:01:31.90,0:01:34.90,OP Eng,,0,0,0,,And if you believe in it, the entire world will
+Dialogue: 0,0:01:31.90,0:01:34.90,OP Eng,,0,0,0,,{\bord8\blur12\fs70\shad0\3c&H9E87F4&\c&HFAF5C6&}And if you believe in it, the entire world will
+Dialogue: 1,0:01:34.90,0:01:37.03,OP Eng,,0,0,0,,Expand into one yell!
+Dialogue: 0,0:01:34.90,0:01:37.03,OP Eng,,0,0,0,,{\bord8\blur12\fs70\shad0\3c&H9E87F4&\c&HFAF5C6&}Expand into one yell!
+Dialogue: 1,0:01:37.03,0:01:41.55,OP Eng,,0,0,0,,{\fad(0,240}Onegai! Onegai! Onegai!
+Dialogue: 0,0:01:37.03,0:01:41.55,OP Eng,,0,0,0,,{\fad(0,240}{\bord8\blur12\fs70\shad0\3c&H9E87F4&\c&HFAF5C6&}Onegai! Onegai! Onegai!
+Dialogue: 1,0:01:41.69,0:01:45.88,OP Eng,,0,0,0,,{\fad(0,160}Make it true right now! Let's go, AiPri!
+Dialogue: 0,0:01:41.69,0:01:45.88,OP Eng,,0,0,0,,{\fad(0,160}{\bord8\blur12\fs70\shad0\3c&H9E87F4&\c&HFAF5C6&}Make it true right now! Let's go, AiPri!
+Dialogue: 1,0:00:20.46,0:00:25.12,OP Rom,,0,0,0,,{\fad(100,0}onegai onegai onegai
+Dialogue: 0,0:00:20.46,0:00:25.12,OP Rom,,0,0,0,,{\fad(100,0}{\bord7\blur3\shad0\3c&HCD83F4&\c&HFAF5C6&\pos(961.62,1074.92)}{\fad(0,150)\3c&H9E87F4&}onegai onegai onegai
+Dialogue: 1,0:00:25.12,0:00:27.25,OP Rom,,0,0,0,,ima koso kanaete
+Dialogue: 0,0:00:25.12,0:00:27.25,OP Rom,,0,0,0,,{\bord7\blur3\shad0\3c&HCD83F4&\c&HFAF5C6&\pos(961.62,1074.92)}ima koso kanaete
+Dialogue: 1,0:00:42.28,0:00:44.18,OP Rom,,0,0,0,,{\fad(100,0}yume kara hajimatta
+Dialogue: 0,0:00:42.28,0:00:44.18,OP Rom,,0,0,0,,{\fad(100,0}{\bord7\blur3\shad0\3c&HCD83F4&\c&HFAF5C6&\pos(961.62,1074.92)}yume kara hajimatta
+Dialogue: 1,0:00:44.18,0:00:47.39,OP Rom,,0,0,0,,kanaetai koto oikakete
+Dialogue: 0,0:00:44.18,0:00:47.39,OP Rom,,0,0,0,,{\bord7\blur3\shad0\3c&HCD83F4&\c&HFAF5C6&\pos(961.62,1074.92)}kanaetai koto oikakete
+Dialogue: 1,0:00:47.39,0:00:50.73,OP Rom,,0,0,0,,kitto kiseki no minamoto wa
+Dialogue: 0,0:00:47.39,0:00:50.73,OP Rom,,0,0,0,,{\bord7\blur3\shad0\3c&HCD83F4&\c&HFAF5C6&\pos(961.62,1074.92)}kitto kiseki no minamoto wa
+Dialogue: 1,0:00:50.73,0:00:52.65,OP Rom,,0,0,0,,shinjiru kimochi!
+Dialogue: 0,0:00:50.73,0:00:52.65,OP Rom,,0,0,0,,{\bord7\blur3\shad0\3c&HCD83F4&\c&HFAF5C6&\pos(961.62,1074.92)}shinjiru kimochi!
+Dialogue: 1,0:00:52.65,0:00:54.90,OP Rom,,0,0,0,,honki no dokidoki ga
+Dialogue: 0,0:00:52.65,0:00:54.90,OP Rom,,0,0,0,,{\bord7\blur3\shad0\3c&HCD83F4&\c&HFAF5C6&\pos(961.62,1074.92)}honki no dokidoki ga
+Dialogue: 1,0:00:54.90,0:00:57.45,OP Rom,,0,0,0,,massugu ni todoitara
+Dialogue: 0,0:00:54.90,0:00:57.45,OP Rom,,0,0,0,,{\bord7\blur3\shad0\3c&HCD83F4&\c&HFAF5C6&\pos(961.62,1074.92)}massugu ni todoitara
+Dialogue: 1,0:00:57.45,0:00:58.82,OP Rom,,0,0,0,,mata ippo
+Dialogue: 0,0:00:57.45,0:00:58.82,OP Rom,,0,0,0,,{\bord7\blur3\shad0\3c&HCD83F4&\c&HFAF5C6&\pos(961.62,1074.92)}mata ippo
+Dialogue: 1,0:00:58.85,0:01:00.12,OP Rom,,0,0,0,,fumi daseru
+Dialogue: 0,0:00:58.85,0:01:00.12,OP Rom,,0,0,0,,{\bord7\blur3\shad0\3c&HCD83F4&\c&HFAF5C6&\pos(961.62,1074.92)}fumi daseru
+Dialogue: 1,0:01:00.12,0:01:02.91,OP Rom,,0,0,0,,tsugi no suteeji e
+Dialogue: 0,0:01:00.12,0:01:02.91,OP Rom,,0,0,0,,{\bord7\blur3\shad0\3c&HCD83F4&\c&HFAF5C6&\pos(961.62,1074.92)}tsugi no suteeji e
+Dialogue: 1,0:01:02.91,0:01:05.41,OP Rom,,0,0,0,,kirakira no raibu de
+Dialogue: 0,0:01:02.91,0:01:05.41,OP Rom,,0,0,0,,{\bord7\blur3\shad0\3c&HCD83F4&\c&HFAF5C6&\pos(961.62,1074.92)}kirakira no raibu de
+Dialogue: 1,0:01:05.41,0:01:08.04,OP Rom,,0,0,0,,koe wo baton touch!
+Dialogue: 0,0:01:05.41,0:01:08.04,OP Rom,,0,0,0,,{\bord7\blur3\shad0\3c&HCD83F4&\c&HFAF5C6&\pos(961.62,1074.92)}koe wo baton touch!
+Dialogue: 1,0:01:08.04,0:01:10.83,OP Rom,,0,0,0,,arittake no purizumu de
+Dialogue: 0,0:01:08.04,0:01:10.83,OP Rom,,0,0,0,,{\bord7\blur3\shad0\3c&HCD83F4&\c&HFAF5C6&\pos(961.62,1074.92)}arittake no purizumu de
+Dialogue: 1,0:01:10.83,0:01:12.92,OP Rom,,0,0,0,,kokoro wo hitotsu ni buzzlume!
+Dialogue: 0,0:01:10.83,0:01:12.92,OP Rom,,0,0,0,,{\bord7\blur3\shad0\3c&HCD83F4&\c&HFAF5C6&\pos(961.62,1074.92)}kokoro wo hitotsu ni buzzlume!
+Dialogue: 1,0:01:12.92,0:01:14.92,OP Rom,,0,0,0,,hora me ga hanasenai!
+Dialogue: 0,0:01:12.92,0:01:14.92,OP Rom,,0,0,0,,{\bord7\blur3\shad0\3c&HCD83F4&\c&HFAF5C6&\pos(961.62,1074.92)}hora me ga hanasenai!
+Dialogue: 1,0:01:15.80,0:01:18.51,OP Rom,,0,0,0,,onegai meguru! minna sumairu!
+Dialogue: 0,0:01:15.80,0:01:18.51,OP Rom,,0,0,0,,{\bord7\blur3\shad0\3c&HCD83F4&\c&HFAF5C6&\pos(961.62,1074.92)}onegai meguru! minna sumairu!
+Dialogue: 1,0:01:18.51,0:01:21.39,OP Rom,,0,0,0,,tsunagetara! (tsunagetara!)
+Dialogue: 0,0:01:18.51,0:01:21.39,OP Rom,,0,0,0,,{\bord7\blur3\shad0\3c&HCD83F4&\c&HFAF5C6&\pos(961.62,1074.92)}tsunagetara! (tsunagetara!)
+Dialogue: 1,0:01:21.39,0:01:24.14,OP Rom,,0,0,0,,nando de mo tachi agatte
+Dialogue: 0,0:01:21.39,0:01:24.14,OP Rom,,0,0,0,,{\bord7\blur3\shad0\3c&HCD83F4&\c&HFAF5C6&\pos(961.62,1074.92)}nando de mo tachi agatte
+Dialogue: 1,0:01:24.14,0:01:26.52,OP Rom,,0,0,0,,kimi to koode chenji!
+Dialogue: 0,0:01:24.14,0:01:26.52,OP Rom,,0,0,0,,{\bord7\blur3\shad0\3c&HCD83F4&\c&HFAF5C6&\pos(961.62,1074.92)}kimi to koode chenji!
+Dialogue: 1,0:01:26.52,0:01:28.10,OP Rom,,0,0,0,,kasanaru kokoro!
+Dialogue: 0,0:01:26.52,0:01:28.10,OP Rom,,0,0,0,,{\bord7\blur3\shad0\3c&HCD83F4&\c&HFAF5C6&\pos(961.62,1074.92)}kasanaru kokoro!
+Dialogue: 1,0:01:28.10,0:01:29.06,OP Rom,,0,0,0,,uta no chikara!
+Dialogue: 0,0:01:28.10,0:01:29.06,OP Rom,,0,0,0,,{\bord7\blur3\shad0\3c&HCD83F4&\c&HFAF5C6&\pos(961.62,1074.92)}uta no chikara!
+Dialogue: 1,0:01:29.06,0:01:31.90,OP Rom,,0,0,0,,todoku kara! (todoku kara!)
+Dialogue: 0,0:01:29.06,0:01:31.90,OP Rom,,0,0,0,,{\bord7\blur3\shad0\3c&HCD83F4&\c&HFAF5C6&\pos(961.62,1074.92)}todoku kara! (todoku kara!)
+Dialogue: 1,0:01:31.90,0:01:34.90,OP Rom,,0,0,0,,shinjireba sekaijuu ni
+Dialogue: 0,0:01:31.90,0:01:34.90,OP Rom,,0,0,0,,{\bord7\blur3\shad0\3c&HCD83F4&\c&HFAF5C6&\pos(961.62,1074.92)}shinjireba sekaijuu ni
+Dialogue: 1,0:01:34.90,0:01:37.03,OP Rom,,0,0,0,,hirogatteku yell
+Dialogue: 0,0:01:34.90,0:01:37.03,OP Rom,,0,0,0,,{\bord7\blur3\shad0\3c&HCD83F4&\c&HFAF5C6&\pos(961.62,1074.92)}hirogatteku yell
+Dialogue: 1,0:01:37.03,0:01:41.55,OP Rom,,0,0,0,,{\fad(0,240}onegai onegai onegai
+Dialogue: 0,0:01:37.03,0:01:41.55,OP Rom,,0,0,0,,{\fad(0,240}{\bord7\blur3\shad0\3c&HCD83F4&\c&HFAF5C6&\pos(961.62,1074.92)}onegai onegai onegai
+Dialogue: 1,0:01:41.69,0:01:45.88,OP Rom,,0,0,0,,{\fad(0,160}ima koso kanaete let's go! aipri!
+Dialogue: 0,0:01:41.69,0:01:45.88,OP Rom,,0,0,0,,{\fad(0,160}{\bord7\blur3\shad0\3c&HCD83F4&\c&HFAF5C6&\pos(961.62,1074.92)}ima koso kanaete let's go! aipri!
+Dialogue: 1,0:22:35.78,0:22:41.75,ED Eng,,0,0,0,,{\fad(100,0}A city bathed in the soft light—you, looking up at the sky
+Dialogue: 0,0:22:35.78,0:22:41.75,ED Eng,,0,0,0,,{\fad(100,0}{\bord5\blur12\fs87\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(959.89,15.44)}A city bathed in the soft light—you, looking up at the sky
+Dialogue: 1,0:22:41.75,0:22:47.88,ED Eng,,0,0,0,,I wonder what dream is being reflected in those eyes
+Dialogue: 0,0:22:41.75,0:22:47.88,ED Eng,,0,0,0,,{\bord5\blur12\fs87\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(959.89,15.44)}I wonder what dream is being reflected in those eyes
+Dialogue: 1,0:22:47.88,0:22:53.89,ED Eng,,0,0,0,,No matter how silly it sounds, I'll hear it all
+Dialogue: 0,0:22:47.88,0:22:53.89,ED Eng,,0,0,0,,{\bord5\blur12\fs87\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(959.89,15.44)}No matter how silly it sounds, I'll hear it all
+Dialogue: 1,0:22:53.89,0:22:59.02,ED Eng,,0,0,0,,{\fad(0,400}I just want a bit more courage to take a step forward
+Dialogue: 0,0:22:53.89,0:22:59.02,ED Eng,,0,0,0,,{\fad(0,400}{\bord5\blur12\fs87\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(959.89,15.44)}I just want a bit more courage to take a step forward
+Dialogue: 1,0:22:59.24,0:23:05.56,ED Eng,,0,0,0,,{\fad(200,0)}The sound of the waves—in the moment the dancing wind suddenly loosened my hair
+Dialogue: 0,0:22:59.24,0:23:05.56,ED Eng,,0,0,0,,{\fad(200,0)}{\bord5\blur12\fs87\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(959.89,15.44)}The sound of the waves—in the moment the dancing wind suddenly loosened my hair
+Dialogue: 1,0:23:05.56,0:23:08.61,ED Eng,,0,0,0,,When my eyes met yours
+Dialogue: 0,0:23:05.56,0:23:08.61,ED Eng,,0,0,0,,{\bord5\blur12\fs87\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(959.89,15.44)}When my eyes met yours
+Dialogue: 1,0:23:08.61,0:23:10.57,ED Eng,,0,0,0,,That smile made my day
+Dialogue: 0,0:23:08.61,0:23:10.57,ED Eng,,0,0,0,,{\bord5\blur12\fs87\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(959.89,15.44)}That smile made my day
+Dialogue: 1,0:23:10.57,0:23:12.07,ED Eng,,0,0,0,,Those feelings shine so bright
+Dialogue: 0,0:23:10.57,0:23:12.07,ED Eng,,0,0,0,,{\bord5\blur12\fs87\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(959.89,15.44)}Those feelings shine so bright
+Dialogue: 1,0:23:12.07,0:23:14.78,ED Eng,,0,0,0,,And I feel it reached you
+Dialogue: 0,0:23:12.07,0:23:14.78,ED Eng,,0,0,0,,{\bord5\blur12\fs87\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(959.89,15.44)}And I feel it reached you
+Dialogue: 1,0:23:14.78,0:23:17.16,ED Eng,,0,0,0,,Through wish telepathy
+Dialogue: 0,0:23:14.78,0:23:17.16,ED Eng,,0,0,0,,{\bord5\blur12\fs87\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(959.89,15.44)}Through wish telepathy
+Dialogue: 1,0:23:17.16,0:23:20.16,ED Eng,,0,0,0,,It might be my imagination, but I got a feeling
+Dialogue: 0,0:23:17.16,0:23:20.16,ED Eng,,0,0,0,,{\bord5\blur12\fs87\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(959.89,15.44)}It might be my imagination, but I got a feeling
+Dialogue: 1,0:23:20.16,0:23:24.50,ED Eng,,0,0,0,,I will believe in it, in our story
+Dialogue: 0,0:23:20.16,0:23:24.50,ED Eng,,0,0,0,,{\bord5\blur12\fs87\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(959.89,15.44)}I will believe in it, in our story
+Dialogue: 1,0:23:24.50,0:23:29.25,ED Eng,,0,0,0,,I want to keep looking at your smile closely
+Dialogue: 0,0:23:24.50,0:23:29.25,ED Eng,,0,0,0,,{\bord5\blur12\fs87\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(959.89,15.44)}I want to keep looking at your smile closely
+Dialogue: 1,0:23:29.25,0:23:32.42,ED Eng,,0,0,0,,It's not just an impression, it's a sure feeling
+Dialogue: 0,0:23:29.25,0:23:32.42,ED Eng,,0,0,0,,{\bord5\blur12\fs87\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(959.89,15.44)}It's not just an impression, it's a sure feeling
+Dialogue: 1,0:23:32.42,0:23:36.72,ED Eng,,0,0,0,,Maybe we're already looking at the same dream together
+Dialogue: 0,0:23:32.42,0:23:36.72,ED Eng,,0,0,0,,{\bord5\blur12\fs87\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(959.89,15.44)}Maybe we're already looking at the same dream together
+Dialogue: 1,0:23:36.72,0:23:40.81,ED Eng,,0,0,0,,A dream-like miracle
+Dialogue: 0,0:23:36.72,0:23:40.81,ED Eng,,0,0,0,,{\bord5\blur12\fs87\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(959.89,15.44)}A dream-like miracle
+Dialogue: 1,0:23:40.81,0:23:42.81,ED Eng,,0,0,0,,I'll be wishing for it
+Dialogue: 0,0:23:40.81,0:23:42.81,ED Eng,,0,0,0,,{\bord5\blur12\fs87\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(959.89,15.44)}I'll be wishing for it
+Dialogue: 1,0:22:35.78,0:22:41.75,ED Rom,,0,0,0,,{\fad(100,0)\pos(606.4,1075)}awaku irozuku machi sora wo miageru kimi
+Dialogue: 0,0:22:35.78,0:22:41.75,ED Rom,,0,0,0,,{\fad(100,0)\pos(608.02,1074.92)}{\bord7\blur12\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(961.62,1074.92)}awaku irozuku machi sora wo miageru kimi
+Dialogue: 1,0:22:41.75,0:22:47.88,ED Rom,,0,0,0,,sono me ni donna yume utsushiteru no kana
+Dialogue: 0,0:22:41.75,0:22:47.88,ED Rom,,0,0,0,,{\bord7\blur12\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(961.62,1074.92)}sono me ni donna yume utsushiteru no kana
+Dialogue: 1,0:22:47.88,0:22:53.89,ED Rom,,0,0,0,,tawainai koto nara nandemo kikeru no ni
+Dialogue: 0,0:22:47.88,0:22:53.89,ED Rom,,0,0,0,,{\bord7\blur12\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(961.62,1074.92)}tawainai koto nara nandemo kikeru no ni
+Dialogue: 1,0:22:53.89,0:22:59.02,ED Rom,,0,0,0,,{\fad(0,400}ato sukoshi dake fumikomu yuuki ga hoshii
+Dialogue: 0,0:22:53.89,0:22:59.02,ED Rom,,0,0,0,,{\fad(0,400}{\bord7\blur12\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(961.62,1074.92)}ato sukoshi dake fumikomu yuuki ga hoshii
+Dialogue: 1,0:22:59.24,0:23:05.56,ED Rom,,0,0,0,,{\fad(200,0)}nami no oto agaru kaze ga fui ni kami hodoita shunkan ni
+Dialogue: 0,0:22:59.24,0:23:05.56,ED Rom,,0,0,0,,{\fad(200,0)}{\bord7\blur12\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(961.62,1074.92)}nami no oto agaru kaze ga fui ni kami hodoita shunkan ni
+Dialogue: 1,0:23:05.56,0:23:08.61,ED Rom,,0,0,0,,me ga atta kimi ga
+Dialogue: 0,0:23:05.56,0:23:08.61,ED Rom,,0,0,0,,{\bord7\blur12\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(961.62,1074.92)}me ga atta kimi ga
+Dialogue: 1,0:23:08.61,0:23:10.57,ED Rom,,0,0,0,,{\pos(708.8,1075)}hohoende
+Dialogue: 0,0:23:08.61,0:23:10.57,ED Rom,,0,0,0,,{\bord7\blur12\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(710.42,1074.92)}hohoende
+Dialogue: 1,0:23:10.57,0:23:12.07,ED Rom,,0,0,0,,{\pos(664,1075)}omoi ga
+Dialogue: 0,0:23:10.57,0:23:12.07,ED Rom,,0,0,0,,{\bord7\blur12\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(665.62,1074.92)}omoi ga
+Dialogue: 1,0:23:12.07,0:23:14.78,ED Rom,,0,0,0,,tsuuji aeta ki ga shita
+Dialogue: 0,0:23:12.07,0:23:14.78,ED Rom,,0,0,0,,{\bord7\blur12\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(961.62,1074.92)}tsuuji aeta ki ga shita
+Dialogue: 1,0:23:14.78,0:23:17.16,ED Rom,,0,0,0,,onegai terepashi
+Dialogue: 0,0:23:14.78,0:23:17.16,ED Rom,,0,0,0,,{\bord7\blur12\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(961.62,1074.92)}onegai terepashi
+Dialogue: 1,0:23:17.16,0:23:20.16,ED Rom,,0,0,0,,ki no sei kamo ne atarashii yokan
+Dialogue: 0,0:23:17.16,0:23:20.16,ED Rom,,0,0,0,,{\bord7\blur12\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(961.62,1074.92)}ki no sei kamo ne atarashii yokan
+Dialogue: 1,0:23:20.16,0:23:24.50,ED Rom,,0,0,0,,demo shinjitai watashitachi no story
+Dialogue: 0,0:23:20.16,0:23:24.50,ED Rom,,0,0,0,,{\bord7\blur12\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(961.62,1074.92)}demo shinjitai watashitachi no story
+Dialogue: 1,0:23:24.50,0:23:29.25,ED Rom,,0,0,0,,sono egao chikaku de mi tsuzuketai
+Dialogue: 0,0:23:24.50,0:23:29.25,ED Rom,,0,0,0,,{\bord7\blur12\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(961.62,1074.92)}sono egao chikaku de mi tsuzuketai
+Dialogue: 1,0:23:29.25,0:23:32.42,ED Rom,,0,0,0,,ki no sei janai tashika na kimochi
+Dialogue: 0,0:23:29.25,0:23:32.42,ED Rom,,0,0,0,,{\bord7\blur12\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(961.62,1074.92)}ki no sei janai tashika na kimochi
+Dialogue: 1,0:23:32.42,0:23:36.72,ED Rom,,0,0,0,,moshikashite mou onaji mirai miteru kana
+Dialogue: 0,0:23:32.42,0:23:36.72,ED Rom,,0,0,0,,{\bord7\blur12\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(961.62,1074.92)}moshikashite mou onaji mirai miteru kana
+Dialogue: 1,0:23:36.72,0:23:40.81,ED Rom,,0,0,0,,yume mitai na kiseki wo
+Dialogue: 0,0:23:36.72,0:23:40.81,ED Rom,,0,0,0,,{\bord7\blur12\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(961.62,1074.92)}yume mitai na kiseki wo
+Dialogue: 1,0:23:40.81,0:23:42.81,ED Rom,,0,0,0,,yappari onegai shichau na
+Dialogue: 0,0:23:40.81,0:23:42.81,ED Rom,,0,0,0,,{\bord7\blur12\shad0\3c&HD5A8A5&\c&HFAF5C6&\pos(961.62,1074.92)}yappari onegai shichau na
+Dialogue: 0,0:07:55.91,0:08:00.67,Insert5 Eng,,0,0,0,,Just find that fire
+Dialogue: 0,0:08:00.67,0:08:06.07,Insert5 Eng,,0,0,0,,{\3c&HDD6BB7&}Being honest to yourself
+Dialogue: 0,0:08:09.85,0:08:12.89,Insert5 Eng,,0,0,0,,Beyond the beyond of your eyes
+Dialogue: 0,0:08:12.89,0:08:15.56,Insert5 Eng,,0,0,0,,{\3c&HDD6BB7&}Even if now you feel lonely
+Dialogue: 0,0:08:15.56,0:08:21.40,Insert5 Eng,,0,0,0,,Always believe there is someone watching over you
+Dialogue: 0,0:08:22.05,0:08:25.41,Insert5 Eng,,0,0,0,,{\3c&HDD6BB7&}The more you try reaching for it
+Dialogue: 0,0:08:25.41,0:08:28.66,Insert5 Eng,,0,0,0,,The more hope you will grasp
+Dialogue: 0,0:08:28.66,0:08:33.71,Insert5 Eng,,0,0,0,,{\3c&HDD6BB7&}Then you {\3c&H3F2BDA&}never let it go
+Dialogue: 0,0:08:33.97,0:08:37.07,Insert5 Eng,,0,0,0,,{\3c&HDD6BB7&}Deep within your heart
+Dialogue: 0,0:08:37.07,0:08:40.92,Insert5 Eng,,0,0,0,,{\3c&HDD6BB7&}Many wishes will arise
+Dialogue: 0,0:08:40.92,0:08:43.97,Insert5 Eng,,0,0,0,,Don't just wait for the right time
+Dialogue: 0,0:08:43.97,0:08:48.42,Insert5 Eng,,0,0,0,,Just make them true yourself
+Dialogue: 0,0:08:50.39,0:08:51.55,Insert5 Eng,,0,0,0,,Burst on!
+Dialogue: 0,0:08:51.55,0:08:57.77,Insert5 Eng,,0,0,0,,Without passion, I cannot be myself
+Dialogue: 0,0:08:57.77,0:09:04.29,Insert5 Eng,,0,0,0,,Shed your sweat, {\3c&HDD6BB7&}make it look like fireworks
+Dialogue: 0,0:09:04.29,0:09:09.91,Insert5 Eng,,0,0,0,,As long as you have passion, you can overcome any limit
+Dialogue: 0,0:09:09.91,0:09:12.62,Insert5 Eng,,0,0,0,,{\3c&HDD6BB7&}Let out your flame
+Dialogue: 0,0:09:12.62,0:09:15.92,Insert5 Eng,,0,0,0,,And you'll outshine even the Sun
+Dialogue: 0,0:09:16.14,0:09:19.09,Insert5 Eng,,0,0,0,,Top Power!
+Dialogue: 0,0:09:19.37,0:09:20.34,Insert5 Eng,,0,0,0,,Burst on!
+Dialogue: 0,0:09:20.34,0:09:26.43,Insert5 Eng,,0,0,0,,Without passion, I cannot be myself
+Dialogue: 0,0:09:26.43,0:09:32.60,Insert5 Eng,,0,0,0,,Shed your sweat, {\3c&HDD6BB7&}make it look like fireworks
+Dialogue: 0,0:09:32.60,0:09:39.31,Insert5 Eng,,0,0,0,,As long as you have passion, you can overcome any limit
+Dialogue: 0,0:09:39.31,0:09:41.40,Insert5 Eng,,0,0,0,,Believe through your passion
+Dialogue: 0,0:09:41.40,0:09:44.82,Insert5 Eng,,0,0,0,,{\3c&HDD6BB7&}And let out your flame
+Dialogue: 0,0:09:44.82,0:09:48.27,Insert5 Eng,,0,0,0,,And if you find that fire, you'll overcome it
+Dialogue: 0,0:09:48.27,0:09:52.04,Insert5 Eng,,0,0,0,,Top Power!
+Dialogue: 0,0:09:52.33,0:09:56.03,Insert5 Eng,,0,0,0,,Overcome everything
+Dialogue: 0,0:09:56.03,0:09:58.91,Insert5 Eng,,0,0,0,,Top Power!
+Dialogue: 0,0:07:55.91,0:08:00.67,Insert5 Rom,,0,0,0,,{\pos(1884,110)}atsukunareba ii
+Dialogue: 0,0:08:00.67,0:08:06.07,Insert5 Rom,,0,0,0,,{\pos(1884,110)\3c&HDD6BB7&}motto sunao ni
+Dialogue: 0,0:08:09.85,0:08:12.89,Insert5 Rom,,0,0,0,,{\pos(1884,110)}hitomi no mukou no mukou
+Dialogue: 0,0:08:12.89,0:08:15.56,Insert5 Rom,,0,0,0,,{\pos(1884,110)\3c&HDD6BB7&}ima hitori bocchi de mo
+Dialogue: 0,0:08:15.56,0:08:21.40,Insert5 Rom,,0,0,0,,{\pos(1884,110)}kimi wo miteru dareka ga iru yo shinjite
+Dialogue: 0,0:08:22.05,0:08:25.41,Insert5 Rom,,0,0,0,,{\pos(1884,110)\3c&HDD6BB7&}senobi wo shita bun dake hora
+Dialogue: 0,0:08:25.41,0:08:28.66,Insert5 Rom,,0,0,0,,{\pos(1884,110)}kibou ni te ga todoku kara
+Dialogue: 0,0:08:28.66,0:08:33.71,Insert5 Rom,,0,0,0,,{\pos(1884,110)\3c&HDD6BB7&}ato wa {\3c&H3F2BDA&}gyutto hanasanai
+Dialogue: 0,0:08:33.97,0:08:37.07,Insert5 Rom,,0,0,0,,{\pos(1884,110)\3c&HDD6BB7&}kokoro no soko tsugi tsugi
+Dialogue: 0,0:08:37.07,0:08:40.92,Insert5 Rom,,0,0,0,,{\pos(1884,110)\3c&HDD6BB7&}mezamete yuku negai
+Dialogue: 0,0:08:40.92,0:08:43.97,Insert5 Rom,,0,0,0,,{\pos(1884,110)}itsuka wo matenai
+Dialogue: 0,0:08:43.97,0:08:48.42,Insert5 Rom,,0,0,0,,{\pos(1884,110)}jinbu de kanaenakya
+Dialogue: 0,0:08:50.39,0:08:51.55,Insert5 Rom,,0,0,0,,{\pos(1884,110)}hajiketa
+Dialogue: 0,0:08:51.55,0:08:57.77,Insert5 Rom,,0,0,0,,{\pos(1884,110)}passion ga nakucha watashi janai
+Dialogue: 0,0:08:57.77,0:09:04.29,Insert5 Rom,,0,0,0,,{\pos(1884,110)}ase yo hibana mitai ni {\3c&HDD6BB7&}zenryoku hikare
+Dialogue: 0,0:09:04.29,0:09:09.91,Insert5 Rom,,0,0,0,,{\pos(1884,110)}passion ga areba genkai mo dai toppa
+Dialogue: 0,0:09:09.91,0:09:12.62,Insert5 Rom,,0,0,0,,{\pos(1884,110)\3c&HDD6BB7&}tokihanatte mouretsu
+Dialogue: 0,0:09:12.62,0:09:15.92,Insert5 Rom,,0,0,0,,{\pos(1884,110)}taiyou made toppa
+Dialogue: 0,0:09:19.37,0:09:20.34,Insert5 Rom,,0,0,0,,{\pos(1884,110)}hajiketa
+Dialogue: 0,0:09:20.34,0:09:26.43,Insert5 Rom,,0,0,0,,{\pos(1884,110)}passion ga nakucha watashi janai
+Dialogue: 0,0:09:26.43,0:09:32.60,Insert5 Rom,,0,0,0,,{\pos(1884,110)}ase yo hibana mitai ni {\3c&HDD6BB7&}zenryoku hikare
+Dialogue: 0,0:09:32.60,0:09:39.31,Insert5 Rom,,0,0,0,,{\pos(1884,110)}passion ga areba genkai mo dai toppa
+Dialogue: 0,0:09:39.31,0:09:41.40,Insert5 Rom,,0,0,0,,{\pos(1884,110)}shinji nuite jounetsu
+Dialogue: 0,0:09:41.40,0:09:44.82,Insert5 Rom,,0,0,0,,{\pos(1884,110)\3c&HDD6BB7&}tokihanatte mouretsu
+Dialogue: 0,0:09:44.82,0:09:48.27,Insert5 Rom,,0,0,0,,{\pos(1884,110)}atsuku nareba toppa
+Dialogue: 0,0:09:52.33,0:09:56.03,Insert5 Rom,,0,0,0,,{\pos(1884,110)}subete wo toppa
+Dialogue: 0,0:12:05.29,0:12:06.95,Insert7 Eng,,0,0,0,,One, two, three, go!
+Dialogue: 0,0:12:06.95,0:12:08.16,Insert7 Eng,,0,0,0,,Everyone ready? Time to start!
+Dialogue: 0,0:12:08.20,0:12:08.86,Insert7 Eng,,0,0,0,,{\3c&H3F2BDA&}Ready to go!
+Dialogue: 0,0:12:08.86,0:12:09.62,Insert7 Eng,,0,0,0,,{\3c&H78D982&}Wait a second!
+Dialogue: 0,0:12:09.62,0:12:10.41,Insert7 Eng,,0,0,0,,Party norinori!
+Dialogue: 0,0:12:10.41,0:12:11.12,Insert7 Eng,,0,0,0,,{\3c&H3F2BDA&}A fiery one!
+Dialogue: 0,0:12:11.12,0:12:12.08,Insert7 Eng,,0,0,0,,{\3c&H78D982&}Thanks for waitin' sticker!
+Dialogue: 0,0:12:12.08,0:12:12.66,Insert7 Eng,,0,0,0,,Let's go!
+Dialogue: 0,0:12:12.66,0:12:13.13,Insert7 Eng,,0,0,0,,Coord?
+Dialogue: 0,0:12:13.13,0:12:13.43,Insert7 Eng,,0,0,0,,Check!
+Dialogue: 0,0:12:13.43,0:12:13.79,Insert7 Eng,,0,0,0,,Make-up?
+Dialogue: 0,0:12:13.79,0:12:14.12,Insert7 Eng,,0,0,0,,Check!
+Dialogue: 0,0:12:14.12,0:12:15.29,Insert7 Eng,,0,0,0,,{\3c&H78D982&}Root for everyone's {\3c&HB36BDD&}wishes!
+Dialogue: 0,0:12:15.29,0:12:17.00,Insert7 Eng,,0,0,0,,{\3c&H3F2BDA&}We'll be giving our all {\3c&HB36BDD&}today!
+Dialogue: 0,0:12:17.00,0:12:18.29,Insert7 Eng,,0,0,0,,One, two, yay-ay-oh!
+Dialogue: 0,0:12:18.29,0:12:19.86,Insert7 Eng,,0,0,0,,With a full-on drive!
+Dialogue: 0,0:12:19.86,0:12:21.38,Insert7 Eng,,0,0,0,,{\3c&H78D982&}Let's party!
+Dialogue: 0,0:12:21.38,0:12:22.79,Insert7 Eng,,0,0,0,,{\3c&H3F2BDA&}Have the guts to fight
+Dialogue: 0,0:12:22.79,0:12:23.58,Insert7 Eng,,0,0,0,,(fight!)
+Dialogue: 0,0:12:24.21,0:12:26.84,Insert7 Eng,,0,0,0,,A crisis becomes a chance
+Dialogue: 0,0:12:26.84,0:12:28.69,Insert7 Eng,,0,0,0,,So smile!
+Dialogue: 0,0:12:29.89,0:12:31.35,Insert7 Eng,,0,0,0,,{\3c&H78D982&}Everybody-body
+Dialogue: 0,0:12:31.35,0:12:32.85,Insert7 Eng,,0,0,0,,{\3c&H3F2BDA&}I want to grant
+Dialogue: 0,0:12:32.85,0:12:34.39,Insert7 Eng,,0,0,0,,All wishes
+Dialogue: 0,0:12:34.39,0:12:35.35,Insert7 Eng,,0,0,0,,Please!
+Dialogue: 0,0:12:35.35,0:12:37.94,Insert7 Eng,,0,0,0,,{\3c&H78D982&}I'll give you a push
+Dialogue: 0,0:12:37.94,0:12:41.15,Insert7 Eng,,0,0,0,,One, two, yay-ay-oh! (yay-ay-oh!)
+Dialogue: 0,0:12:41.15,0:12:43.69,Insert7 Eng,,0,0,0,,{\3c&H3F2BDA&}Passion engine, full steam ahead
+Dialogue: 0,0:12:44.09,0:12:46.99,Insert7 Eng,,0,0,0,,Love jet about to take off
+Dialogue: 0,0:12:46.99,0:12:51.83,Insert7 Eng,,0,0,0,,{\3c&H78D982&}Friendship at full throttle, launch!
+Dialogue: 0,0:12:51.83,0:12:55.07,Insert7 Eng,,0,0,0,,Let's pop on! Burst it open!
+Dialogue: 0,0:12:55.07,0:12:58.17,Insert7 Eng,,0,0,0,,And everyone will! Get together
+Dialogue: 0,0:12:58.17,0:12:59.03,Insert7 Eng,,0,0,0,,{\3c&H3F2BDA&}The things I{\3c&HB36BDD&} (I!)
+Dialogue: 0,0:12:59.03,0:12:59.78,Insert7 Eng,,0,0,0,,{\3c&H3F2BDA&}Want {\3c&HB36BDD&}(want!)
+Dialogue: 0,0:12:59.78,0:13:03.41,Insert7 Eng,,0,0,0,,to do the most, at full tilt!
+Dialogue: 0,0:13:03.41,0:13:06.73,Insert7 Eng,,0,0,0,,Let's pop on! Take my hand
+Dialogue: 0,0:13:06.73,0:13:09.26,Insert7 Eng,,0,0,0,,And with a spark! Shine on
+Dialogue: 0,0:13:09.26,0:13:10.51,Insert7 Eng,,0,0,0,,{\3c&H78D982&}You too are {\3c&HB36BDD&}(are!)
+Dialogue: 0,0:13:10.51,0:13:11.13,Insert7 Eng,,0,0,0,,{\3c&H78D982&}a sun {\3c&HB36BDD&}(sun!)
+Dialogue: 0,0:13:11.13,0:13:12.34,Insert7 Eng,,0,0,0,,{\3c&H3F2BDA&}Such radiance
+Dialogue: 0,0:13:12.34,0:13:15.97,Insert7 Eng,,0,0,0,,Let's all go party dancing! (GO!)
+Dialogue: 0,0:13:20.74,0:13:22.23,Insert7 Eng,,0,0,0,,Let's pop on!
+Dialogue: 0,0:13:22.23,0:13:23.61,Insert7 Eng,,0,0,0,,Convey it on
+Dialogue: 0,0:13:23.61,0:13:25.36,Insert7 Eng,,0,0,0,,{\3c&H78D982&}Melody go!
+Dialogue: 0,0:13:25.36,0:13:26.40,Insert7 Eng,,0,0,0,,Echo on
+Dialogue: 0,0:13:26.40,0:13:27.73,Insert7 Eng,,0,0,0,,{\3c&H3F2BDA&}Look at{\3c&HB36BDD&} (at!)
+Dialogue: 0,0:13:27.73,0:13:28.32,Insert7 Eng,,0,0,0,,{\3c&H3F2BDA&}This{\3c&HB36BDD&} (this!)
+Dialogue: 0,0:13:28.32,0:13:32.37,Insert7 Eng,,0,0,0,,It goes yay-ay-oh (yay-ay-oh!)
+Dialogue: 0,0:13:32.37,0:13:34.95,Insert7 Eng,,0,0,0,,Let's pop on! Grant it
+Dialogue: 0,0:13:34.95,0:13:37.74,Insert7 Eng,,0,0,0,,Dreaming on! Smile
+Dialogue: 0,0:13:37.74,0:13:39.25,Insert7 Eng,,0,0,0,,{\3c&H78D982&}You are my {\3c&HB36BDD&}(my!)
+Dialogue: 0,0:13:39.25,0:13:39.75,Insert7 Eng,,0,0,0,,{\3c&H78D982&}friend! {\3c&HB36BDD&}(friend!)
+Dialogue: 0,0:13:39.75,0:13:40.96,Insert7 Eng,,0,0,0,,Makes me so happy
+Dialogue: 0,0:13:40.96,0:13:44.15,Insert7 Eng,,0,0,0,,Everyone, party{\3c&H3F2BDA&} dancing go! {\3c&HB36BDD&}(GO!)
+Dialogue: 0,0:13:44.15,0:13:45.49,Insert7 Eng,,0,0,0,,Dancing go! (GO!)
+Dialogue: 0,0:13:45.49,0:13:47.77,Insert7 Eng,,0,0,0,,Dancing go! (GO!)
+Dialogue: 0,0:12:05.33,0:12:06.99,Insert7 Rom,,0,0,0,,wan tsu san hai
+Dialogue: 0,0:12:06.99,0:12:08.20,Insert7 Rom,,0,0,0,,junbi wa OK? hajimeru yo!
+Dialogue: 0,0:12:08.20,0:12:08.86,Insert7 Rom,,0,0,0,,{\3c&H3F2BDA&}pacchiri desu wa
+Dialogue: 0,0:12:08.86,0:12:09.62,Insert7 Rom,,0,0,0,,{\3c&H78D982&}mou chotto nano sa
+Dialogue: 0,0:12:09.62,0:12:10.41,Insert7 Rom,,0,0,0,,party norinori
+Dialogue: 0,0:12:10.41,0:12:11.12,Insert7 Rom,,0,0,0,,{\3c&H3F2BDA&}moemasu wa
+Dialogue: 0,0:12:11.12,0:12:12.08,Insert7 Rom,,0,0,0,,{\3c&H78D982&}omatase shiiru nano sa
+Dialogue: 0,0:12:12.66,0:12:13.13,Insert7 Rom,,0,0,0,,coord?
+Dialogue: 0,0:12:13.13,0:12:13.43,Insert7 Rom,,0,0,0,,yoshi!
+Dialogue: 0,0:12:13.43,0:12:13.79,Insert7 Rom,,0,0,0,,meiku?
+Dialogue: 0,0:12:13.79,0:12:14.12,Insert7 Rom,,0,0,0,,yoshi!
+Dialogue: 0,0:12:14.12,0:12:15.29,Insert7 Rom,,0,0,0,,{\3c&H78D982&}minna no onegai {\3c&HB36BDD&}ouen da!
+Dialogue: 0,0:12:15.29,0:12:17.00,Insert7 Rom,,0,0,0,,{\3c&H3F2BDA&}kyou mo genki ni {\3c&HB36BDD&}ganbarimasu!
+Dialogue: 0,0:12:17.00,0:12:18.29,Insert7 Rom,,0,0,0,,isse no de iei io
+Dialogue: 0,0:12:18.29,0:12:19.86,Insert7 Rom,,0,0,0,,yaruki baribari!
+Dialogue: 0,0:12:21.38,0:12:22.79,Insert7 Rom,,0,0,0,,{\3c&H3F2BDA&}gattsu de shoubu
+Dialogue: 0,0:12:22.79,0:12:23.58,Insert7 Rom,,0,0,0,,(shoubu!)
+Dialogue: 0,0:12:24.21,0:12:26.84,Insert7 Rom,,0,0,0,,pinchi wa chansu ni kaete
+Dialogue: 0,0:12:26.84,0:12:28.69,Insert7 Rom,,0,0,0,,waracchae!
+Dialogue: 0,0:12:31.35,0:12:32.85,Insert7 Rom,,0,0,0,,{\3c&H3F2BDA&}kanaetai
+Dialogue: 0,0:12:32.85,0:12:34.39,Insert7 Rom,,0,0,0,,onegaigoto
+Dialogue: 0,0:12:34.39,0:12:35.35,Insert7 Rom,,0,0,0,,onegai
+Dialogue: 0,0:12:35.35,0:12:37.94,Insert7 Rom,,0,0,0,,{\3c&H78D982&}senaka oshite ageru
+Dialogue: 0,0:12:37.94,0:12:41.15,Insert7 Rom,,0,0,0,,se no iei io (iei io)
+Dialogue: 0,0:12:41.15,0:12:43.69,Insert7 Rom,,0,0,0,,{\3c&H3F2BDA&}jounetsu engine zenkai
+Dialogue: 0,0:12:44.09,0:12:46.99,Insert7 Rom,,0,0,0,,daisuki jetto hassha shinkou
+Dialogue: 0,0:12:46.99,0:12:51.83,Insert7 Rom,,0,0,0,,{\3c&H78D982&}yuujou pawafuru surottoru tobase
+Dialogue: 0,0:12:51.83,0:12:55.07,Insert7 Rom,,0,0,0,,poppu ni ikon! hajikete!
+Dialogue: 0,0:12:55.07,0:12:58.17,Insert7 Rom,,0,0,0,,hito mo kitto! atsumatte
+Dialogue: 0,0:12:58.17,0:12:59.03,Insert7 Rom,,0,0,0,,{\3c&H3F2BDA&}ima ga sai {\3c&HB36BDD&}(sai!)
+Dialogue: 0,0:12:59.03,0:12:59.78,Insert7 Rom,,0,0,0,,{\3c&H3F2BDA&}kou {\3c&HB36BDD&}(kou!)
+Dialogue: 0,0:12:59.78,0:13:03.41,Insert7 Rom,,0,0,0,,yaritai koto ni masshigura
+Dialogue: 0,0:13:03.41,0:13:06.73,Insert7 Rom,,0,0,0,,poppu ni ikon! te wo totte
+Dialogue: 0,0:13:06.73,0:13:09.26,Insert7 Rom,,0,0,0,,kirameki to! kagayaite
+Dialogue: 0,0:13:09.26,0:13:10.51,Insert7 Rom,,0,0,0,,{\3c&H78D982&}kimi mo tai {\3c&HB36BDD&}(tai!)
+Dialogue: 0,0:13:10.51,0:13:11.13,Insert7 Rom,,0,0,0,,{\3c&H78D982&}you{\3c&HB36BDD&} (you!)
+Dialogue: 0,0:13:11.13,0:13:12.34,Insert7 Rom,,0,0,0,,{\3c&H3F2BDA&}mabushii ne
+Dialogue: 0,0:13:12.34,0:13:15.97,Insert7 Rom,,0,0,0,,minna de party dancing go! (GO!)
+Dialogue: 0,0:13:20.74,0:13:22.23,Insert7 Rom,,0,0,0,,poppu ni ikon
+Dialogue: 0,0:13:22.23,0:13:23.61,Insert7 Rom,,0,0,0,,todokete
+Dialogue: 0,0:13:25.36,0:13:26.40,Insert7 Rom,,0,0,0,,hibiite
+Dialogue: 0,0:13:26.40,0:13:27.73,Insert7 Rom,,0,0,0,,{\3c&H3F2BDA&}minnasai {\3c&HB36BDD&}(sai!)
+Dialogue: 0,0:13:27.73,0:13:28.32,Insert7 Rom,,0,0,0,,{\3c&H3F2BDA&}kou!{\3c&HB36BDD&} (kou!)
+Dialogue: 0,0:13:28.32,0:13:32.37,Insert7 Rom,,0,0,0,,aikotoba wa iei io! (iei io!)
+Dialogue: 0,0:13:32.37,0:13:34.95,Insert7 Rom,,0,0,0,,poppu ni ikon! kanaete
+Dialogue: 0,0:13:34.95,0:13:37.74,Insert7 Rom,,0,0,0,,dreaming to! waratte
+Dialogue: 0,0:13:37.74,0:13:39.25,Insert7 Rom,,0,0,0,,{\3c&H78D982&}kimi ga ai {\3c&HB36BDD&}(ai!)
+Dialogue: 0,0:13:39.25,0:13:39.75,Insert7 Rom,,0,0,0,,{\3c&H78D982&}bou! {\3c&HB36BDD&}(bou!)
+Dialogue: 0,0:13:39.75,0:13:40.96,Insert7 Rom,,0,0,0,,ureshii ne
+Dialogue: 0,0:13:40.96,0:13:44.15,Insert7 Rom,,0,0,0,,minna de party {\3c&H3F2BDA&}dancing go! {\3c&HB36BDD&}(GO!)
+Dialogue: 0,0:18:27.63,0:18:31.52,Insert8 Eng,,0,0,0,,The feelings I want to convey from within this light
+Dialogue: 0,0:18:31.52,0:18:34.97,Insert8 Eng,,0,0,0,,Blue Parade, let's jump!
+Dialogue: 0,0:18:49.33,0:18:52.94,Insert8 Eng,,0,0,0,,The town after the rain, the reflection of the Sun
+Dialogue: 0,0:18:52.94,0:18:56.53,Insert8 Eng,,0,0,0,,{\3c&H53D1D9&}We align our paces as we follow our dream
+Dialogue: 0,0:18:56.53,0:19:00.37,Insert8 Eng,,0,0,0,,{\3c&HDD6BB7&}I'm sure a new color can also join the mix
+Dialogue: 0,0:19:00.37,0:19:03.66,Insert8 Eng,,0,0,0,,And then we shine just like a rainbow
+Dialogue: 0,0:19:03.66,0:19:05.41,Insert8 Eng,,0,0,0,,We reach out our hands
+Dialogue: 0,0:19:05.41,0:19:07.38,Insert8 Eng,,0,0,0,,{\3c&HDD6BB7&}And the moment they touch
+Dialogue: 0,0:19:07.38,0:19:09.46,Insert8 Eng,,0,0,0,,Our smiles meet
+Dialogue: 0,0:19:09.46,0:19:11.37,Insert8 Eng,,0,0,0,,{\3c&H53D1D9&}I feel so happy
+Dialogue: 0,0:19:11.37,0:19:16.78,Insert8 Eng,,0,0,0,,It's not for someone else, I want to sing for your sake
+Dialogue: 0,0:19:16.78,0:19:18.44,Insert8 Eng,,0,0,0,,This is my wish
+Dialogue: 0,0:19:19.05,0:19:22.03,Insert8 Eng,,0,0,0,,Shine, shine, under the morning Sun
+Dialogue: 0,0:19:22.03,0:19:25.89,Insert8 Eng,,0,0,0,,Your courage will move you towards your dream
+Dialogue: 0,0:19:25.89,0:19:28.69,Insert8 Eng,,0,0,0,,Twinkle, twinkle, spread it on
+Dialogue: 0,0:19:28.69,0:19:29.56,Insert8 Eng,,0,0,0,,Then the sea will
+Dialogue: 0,0:19:29.56,0:19:31.46,Insert8 Eng,,0,0,0,,Gather all your {\3c&H53D1D9&}hope
+Dialogue: 0,0:19:31.46,0:19:33.41,Insert8 Eng,,0,0,0,,And shine onto your {\3c&HDD6BB7&}future
+Dialogue: 0,0:19:33.41,0:19:36.80,Insert8 Eng,,0,0,0,,Even your {\3c&H53D1D9&}smallest feelings
+Dialogue: 0,0:19:36.80,0:19:39.03,Insert8 Eng,,0,0,0,,{\3c&HDD6BB7&}Once joined together
+Dialogue: 0,0:19:39.45,0:19:41.22,Insert8 Eng,,0,0,0,,They become strong
+Dialogue: 0,0:19:41.22,0:19:45.26,Insert8 Eng,,0,0,0,,And can reach as far as you wish
+Dialogue: 0,0:19:45.26,0:19:47.42,Insert8 Eng,,0,0,0,,Look!
+Dialogue: 0,0:19:47.62,0:19:50.79,Insert8 Eng,,0,0,0,,Convey it, convey it, up to the night sky
+Dialogue: 0,0:19:50.79,0:19:54.42,Insert8 Eng,,0,0,0,,Your feelings can go beyond the heavens
+Dialogue: 0,0:19:54.42,0:19:57.59,Insert8 Eng,,0,0,0,,And when one, then another, becomes true
+Dialogue: 0,0:19:57.59,0:19:58.51,Insert8 Eng,,0,0,0,,Onto the stars
+Dialogue: 0,0:19:58.51,0:20:00.30,Insert8 Eng,,0,0,0,,You gather all your wishes
+Dialogue: 0,0:20:00.30,0:20:03.93,Insert8 Eng,,0,0,0,,And draw your own future
+Dialogue: 0,0:20:04.37,0:20:07.98,Insert8 Eng,,0,0,0,,Hello new world!
+Dialogue: 0,0:20:07.98,0:20:10.45,Insert8 Eng,,0,0,0,,We all will
+Dialogue: 0,0:20:10.45,0:20:14.78,Insert8 Eng,,0,0,0,,Draw our own
+Dialogue: 0,0:20:14.78,0:20:17.82,Insert8 Eng,,0,0,0,,Blue Parade
+Dialogue: 0,0:18:27.63,0:18:31.52,Insert8 Rom,,0,0,0,,hikari no naka de todoketai omoi
+Dialogue: 0,0:18:31.52,0:18:34.97,Insert8 Rom,,0,0,0,,blue parade issho ni jump
+Dialogue: 0,0:18:49.33,0:18:52.94,Insert8 Rom,,0,0,0,,ameagari no machi hansha suru sora
+Dialogue: 0,0:18:52.94,0:18:56.53,Insert8 Rom,,0,0,0,,{\3c&H53D1D9&}hohaba wo awasete yume wo oikakeru
+Dialogue: 0,0:18:56.53,0:19:00.37,Insert8 Rom,,0,0,0,,{\3c&HDD6BB7&}kitto chigau iro de mo mazari aeba
+Dialogue: 0,0:19:00.37,0:19:03.66,Insert8 Rom,,0,0,0,,niji mitai ni kagayakeru
+Dialogue: 0,0:19:03.66,0:19:05.41,Insert8 Rom,,0,0,0,,te wo nobaseba
+Dialogue: 0,0:19:05.41,0:19:07.38,Insert8 Rom,,0,0,0,,{\3c&HDD6BB7&}todoku sono shunkan
+Dialogue: 0,0:19:07.38,0:19:09.46,Insert8 Rom,,0,0,0,,warai aeru
+Dialogue: 0,0:19:09.46,0:19:11.37,Insert8 Rom,,0,0,0,,{\3c&H53D1D9&}ureshiku naru
+Dialogue: 0,0:19:11.37,0:19:16.78,Insert8 Rom,,0,0,0,,dareka no tame janai kimi no tame utaitai
+Dialogue: 0,0:19:16.78,0:19:18.44,Insert8 Rom,,0,0,0,,onegai
+Dialogue: 0,0:19:19.05,0:19:22.03,Insert8 Rom,,0,0,0,,hikare hikare asayake
+Dialogue: 0,0:19:22.03,0:19:25.89,Insert8 Rom,,0,0,0,,yuuki wa yume wo mezashite
+Dialogue: 0,0:19:25.89,0:19:28.69,Insert8 Rom,,0,0,0,,kirari kirari hirogareba
+Dialogue: 0,0:19:28.69,0:19:29.56,Insert8 Rom,,0,0,0,,umi ni
+Dialogue: 0,0:19:29.56,0:19:31.46,Insert8 Rom,,0,0,0,,kibou wo {\3c&H53D1D9&}atsume
+Dialogue: 0,0:19:31.46,0:19:33.41,Insert8 Rom,,0,0,0,,mirai wo{\3c&HDD6BB7&} terasu yo
+Dialogue: 0,0:19:33.41,0:19:36.80,Insert8 Rom,,0,0,0,,chiisa na{\3c&H53D1D9&} omoi mo
+Dialogue: 0,0:19:36.80,0:19:39.03,Insert8 Rom,,0,0,0,,{\3c&HDD6BB7&}tsunagareba
+Dialogue: 0,0:19:39.45,0:19:41.22,Insert8 Rom,,0,0,0,,tsuyoku
+Dialogue: 0,0:19:41.22,0:19:45.26,Insert8 Rom,,0,0,0,,tooku made todoku kara
+Dialogue: 0,0:19:45.26,0:19:47.42,Insert8 Rom,,0,0,0,,hora
+Dialogue: 0,0:19:47.62,0:19:50.79,Insert8 Rom,,0,0,0,,todoke todoke yozora made
+Dialogue: 0,0:19:50.79,0:19:54.42,Insert8 Rom,,0,0,0,,omoi wa sora no mukou e
+Dialogue: 0,0:19:54.42,0:19:57.59,Insert8 Rom,,0,0,0,,hitotsu hitotsu kanaetara
+Dialogue: 0,0:19:57.59,0:19:58.51,Insert8 Rom,,0,0,0,,hoshi ni
+Dialogue: 0,0:19:58.51,0:20:00.30,Insert8 Rom,,0,0,0,,negai wo nosete
+Dialogue: 0,0:20:00.30,0:20:03.93,Insert8 Rom,,0,0,0,,mirai wo egaku yo
+Dialogue: 0,0:20:07.98,0:20:10.45,Insert8 Rom,,0,0,0,,watashitachi de
+Dialogue: 0,0:20:10.45,0:20:14.78,Insert8 Rom,,0,0,0,,egaki dasu
+Dialogue: 0,0:00:00.88,0:00:06.64,Default,,0,0,0,,When I open the Mirror Compact,\N I turn into my stylish self with make-up and coords!
+Dialogue: 0,0:00:06.64,0:00:10.36,Default,,0,0,0,,This is Idol Princess: AiPri!
+Dialogue: 0,0:00:10.36,0:00:14.86,Default,,0,0,0,,What is the shining wish that sparkles deep within your heart?
+Dialogue: 0,0:00:14.86,0:00:18.98,Default,,0,0,0,,We'll grant everyone's wishes with our radiant lives!
+Dialogue: 0,0:01:55.90,0:01:58.01,Default,,0,0,0,,We'll grant everyone's wishes!
+Dialogue: 0,0:01:58.01,0:02:00.01,Default,,0,0,0,,Wish Granting Channel!
+Dialogue: 0,0:02:00.01,0:02:01.50,Default,,0,0,0,,Starting now!
+Dialogue: 0,0:02:02.68,0:02:04.19,Default,,0,0,0,,Inori norinori!
+Dialogue: 0,0:02:04.19,0:02:06.02,Default,,0,0,0,,Love is happiness!
+Dialogue: 0,0:02:06.02,0:02:07.58,Default,,0,0,0,,I'm Konomi Inori!
+Dialogue: 0,0:02:09.61,0:02:11.11,Default,,0,0,0,,OK!
+Dialogue: 0,0:02:11.11,0:02:14.11,Default,,0,0,0,,I'll make your dream come true!
+Dialogue: 0,0:02:14.11,0:02:15.40,Default,,0,0,0,,I'm Yumemiya Aoi!
+Dialogue: 0,0:02:18.18,0:02:20.23,Default,,0,0,0,,The fourth AiPri Fest!
+Dialogue: 0,0:02:20.23,0:02:21.44,Default,,0,0,0,,It really was exciting!
+Dialogue: 0,0:02:22.24,0:02:23.12,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:02:23.12,0:02:27.19,Default,,0,0,0,,Gumi-chan and Olivia-chan's live was just amazing!
+Dialogue: 0,0:02:27.19,0:02:31.78,Default,,0,0,0,,Their feelings towards their friends really got conveyed in that live!
+Dialogue: 0,0:02:32.35,0:02:37.74,Default,,0,0,0,,Aoi-chan's Pure Heart was so beautiful too! \NThey were literally shining!
+Dialogue: 0,0:02:38.14,0:02:39.36,Default,,0,0,0,,Thank you!
+Dialogue: 0,0:02:39.69,0:02:45.65,Default,,0,0,0,,The energy in Inori's Smile Heart's performance was also amazing!
+Dialogue: 0,0:02:48.53,0:02:52.78,Default,,0,0,0,,The Prifriends at Onegai Square were all smiles too!
+Dialogue: 0,0:02:52.78,0:02:54.85,Default,,0,0,0,,Fortu-chu!
+Dialogue: 0,0:02:54.85,0:02:59.19,Default,,0,0,0,,Aoi, Inori, why did you start without me-chu!?
+Dialogue: 0,0:02:59.52,0:03:01.34,Default,,0,0,0,,Fortu! I'm sorry!
+Dialogue: 0,0:03:01.60,0:03:04.16,Default,,0,0,0,,I was just chatting with Aoi-chan a bit!
+Dialogue: 0,0:03:06.01,0:03:08.33,Default,,0,0,0,,Gumigumi Stickers of Friendship!
+Dialogue: 0,0:03:08.33,0:03:10.88,Default,,0,0,0,,I'll grant it with them!
+Dialogue: 0,0:03:10.88,0:03:12.92,Default,,0,0,0,,I'm Tomosaka Gumi!
+Dialogue: 0,0:03:14.17,0:03:18.19,Default,,0,0,0,,I'll fly through the heavens with wings of courage!
+Dialogue: 0,0:03:18.19,0:03:20.69,Default,,0,0,0,,I am Yuuki Olivia!
+Dialogue: 0,0:03:21.66,0:03:24.68,Default,,0,0,0,,Gumi, Olivia, good afternoon-chu!
+Dialogue: 0,0:03:24.68,0:03:26.85,Default,,0,0,0,,Gumigumi good afternoon!
+Dialogue: 0,0:03:26.85,0:03:28.98,Default,,0,0,0,,Good afternoon, Fortu-san.
+Dialogue: 0,0:03:28.98,0:03:30.84,Default,,0,0,0,,You have already started, right?
+Dialogue: 0,0:03:30.84,0:03:32.32,Default,,0,0,0,,That's right-chu!
+Dialogue: 0,0:03:32.86,0:03:36.03,Default,,0,0,0,,We were talking about the fourth AiPri Fest!
+Dialogue: 0,0:03:36.40,0:03:40.03,Default,,0,0,0,,I'm glad we were able to grant Nobue-san's wish!
+Dialogue: 0,0:03:40.03,0:03:42.02,Default,,0,0,0,,She was thinking a lot about her friend!
+Dialogue: 0,0:03:42.20,0:03:45.20,Default,,0,0,0,,That auntie really was norinori!
+Dialogue: 0,0:03:45.42,0:03:50.86,Default,,0,0,0,,Koharu-san was also really happy to see that people were even more excited than during the previous AiPri Fest!
+Dialogue: 0,0:03:50.86,0:03:54.75,Default,,0,0,0,,The AiPri Club really has been helping us a lot.
+Dialogue: 0,0:03:54.75,0:03:59.18,Default,,0,0,0,,I also had so much fun performing as a duo with Emma-chan!
+Dialogue: 0,0:03:59.18,0:04:01.73,Default,,0,0,0,,She really feels like an older sister,
+Dialogue: 0,0:04:01.73,0:04:06.15,Default,,0,0,0,,and when together we got to play games and eat udon together!
+Dialogue: 0,0:04:06.23,0:04:07.88,Default,,0,0,0,,It was such a happy day!
+Dialogue: 0,0:04:07.88,0:04:10.44,Default,,0,0,0,,I wanted to eat some too-chu...
+Dialogue: 0,0:04:13.01,0:04:16.67,Default,,0,0,0,,Inori and Emma-san's duo was amazing!
+Dialogue: 0,0:04:16.67,0:04:18.24,Default,,0,0,0,,Thank you!
+Dialogue: 0,0:04:21.18,0:04:25.06,Default,,0,0,0,,But the third AiPri Fest sure was a big deal!
+Dialogue: 0,0:04:25.06,0:04:29.74,Default,,0,0,0,,Because it was a contest between our AiPri Fest and the High Sense Fest, right?
+Dialogue: 0,0:04:31.20,0:04:35.34,Default,,0,0,0,,To be all norinori, and perform—this is fun.
+Dialogue: 0,0:04:35.43,0:04:36.50,Default,,0,0,0,,Norinori!
+Dialogue: 0,0:04:36.50,0:04:40.02,Default,,0,0,0,,That was like Tate Gotou-san's love poems!
+Dialogue: 0,0:04:40.02,0:04:44.03,Default,,0,0,0,,More radiant than the summer sun—my sweet honey.
+Dialogue: 0,0:04:44.03,0:04:49.18,Default,,0,0,0,,They'll melt—your eyes, they are shaved ice.
+Dialogue: 0,0:04:49.48,0:04:51.69,Default,,0,0,0,,I never thought they'd bring out such a celeb!
+Dialogue: 0,0:04:51.69,0:04:54.02,Default,,0,0,0,,Sango-san really is incredible!
+Dialogue: 0,0:04:54.19,0:04:58.91,Default,,0,0,0,,Nana-chan said that right now he's on a journey to perfect his High Sense!
+Dialogue: 0,0:04:59.82,0:05:04.73,Default,,0,0,0,,The third AiPri Fest started with Nana-chan hyping up the crowd!
+Dialogue: 0,0:05:04.73,0:05:07.32,Default,,0,0,0,,We all got norinori too!
+Dialogue: 0,0:05:07.56,0:05:11.96,Default,,0,0,0,,But it sure was difficult to keep up with Nana-chan back when we first met...
+Dialogue: 0,0:05:12.21,0:05:15.04,Default,,0,0,0,,That's part of Nana-san's charm, though!
+Dialogue: 0,0:05:15.04,0:05:19.86,Default,,0,0,0,,Ohohoho! Did I just hear someone say my name, by any chance?
+Dialogue: 0,0:05:19.86,0:05:21.30,Default,,0,0,0,,Nana-san!
+Dialogue: 0,0:05:23.00,0:05:27.35,Default,,0,0,0,,I shall make the flames of your passion overcome their limits!
+Dialogue: 0,0:05:27.35,0:05:29.68,Default,,0,0,0,,I am Atami Nana!
+Dialogue: 0,0:05:30.31,0:05:33.40,Default,,0,0,0,,The radiant sparkle of hope!
+Dialogue: 0,0:05:33.40,0:05:34.50,Default,,0,0,0,,I can see it!
+Dialogue: 0,0:05:34.50,0:05:36.95,Default,,0,0,0,,I am Mochinaga Emma!
+Dialogue: 0,0:05:36.95,0:05:39.26,Default,,0,0,0,,Nana and Emma are here too-chu!
+Dialogue: 0,0:05:39.52,0:05:43.12,Default,,0,0,0,,Fortu, I brought a present for you.
+Dialogue: 0,0:05:43.52,0:05:45.87,Default,,0,0,0,,Donutchu-chu!
+Dialogue: 0,0:05:46.06,0:05:48.86,Default,,0,0,0,,I have also brought drinks for everyone!
+Dialogue: 0,0:05:48.86,0:05:50.84,Default,,0,0,0,,Thank you!
+Dialogue: 0,0:05:50.84,0:05:52.86,Default,,0,0,0,,Aoi, I'm leaving the rest to you-chu.
+Dialogue: 0,0:05:52.86,0:05:54.21,Default,,0,0,0,,Fortu!
+Dialogue: 0,0:05:54.21,0:05:56.53,Default,,0,0,0,,We lost her to the donuts...
+Dialogue: 0,0:05:56.53,0:05:59.70,Default,,0,0,0,,Fortu really loves donuts!
+Dialogue: 0,0:05:59.70,0:06:03.37,Default,,0,0,0,,I am very delighted she's enjoying my present.
+Dialogue: 0,0:06:03.66,0:06:04.55,Default,,0,0,0,,Gumigumi!
+Dialogue: 0,0:06:04.55,0:06:07.78,Default,,0,0,0,,It was Nana-chan's birthday the other day!
+Dialogue: 0,0:06:07.78,0:06:10.86,Default,,0,0,0,,Happy birthday, Nana-chan!
+Dialogue: 0,0:06:10.86,0:06:13.27,Default,,0,0,0,,Thank you very much!
+Dialogue: 0,0:06:13.48,0:06:20.11,Default,,0,0,0,,I shall continue to lead everyone with my passionate High Sense!
+Dialogue: 0,0:06:20.11,0:06:21.53,Default,,0,0,0,,Ohohohoho!
+Dialogue: 0,0:06:21.53,0:06:25.36,Default,,0,0,0,,I gotta learn with that forward-looking personality of yours!
+Dialogue: 0,0:06:25.36,0:06:29.60,Default,,0,0,0,,Not just forward-looking!\N It's also amazing how she never gives up!
+Dialogue: 0,0:06:29.85,0:06:33.87,Default,,0,0,0,,We could all see it back when we volunteered to help with fixing those plushies!
+Dialogue: 0,0:06:33.87,0:06:40.89,Default,,0,0,0,,That day, I realized how kind of a person Nana-san really is!
+Dialogue: 0,0:06:41.48,0:06:46.39,Default,,0,0,0,,Olivia-chan was also incredible back when she formed a duo with Nana-chan!
+Dialogue: 0,0:06:46.70,0:06:48.35,Default,,0,0,0,,Aah, enough!
+Dialogue: 0,0:06:48.35,0:06:49.85,Default,,0,0,0,,I'll say it!
+Dialogue: 0,0:06:49.85,0:06:51.00,Default,,0,0,0,,Wha!?
+Dialogue: 0,0:06:49.85,0:06:51.00,Default,,0,0,0,,Gumi!?
+Dialogue: 0,0:06:51.86,0:06:55.21,Default,,0,0,0,,You simply don't have the courage, Nana-san!
+Dialogue: 0,0:06:55.21,0:06:56.03,Default,,0,0,0,,Wha!?
+Dialogue: 0,0:06:56.19,0:07:00.91,Default,,0,0,0,,You actually want to do it, yet you keep hiding your own feelings!
+Dialogue: 0,0:07:01.11,0:07:02.35,Default,,0,0,0,,W-Wha...
+Dialogue: 0,0:07:02.35,0:07:07.04,Default,,0,0,0,,I want to become much closer friends with you, Nana-san!
+Dialogue: 0,0:07:07.04,0:07:12.96,Default,,0,0,0,,And that's because I love the cool and passionate AiPri Nana-san!
+Dialogue: 0,0:07:12.96,0:07:17.85,Default,,0,0,0,,After all, the reason why I said you should have the first live in the AiPri Fest,
+Dialogue: 0,0:07:17.85,0:07:22.22,Default,,0,0,0,,is because I think you are incredible, Nana-san!
+Dialogue: 0,0:07:22.22,0:07:24.77,Default,,0,0,0,,How come!? Why!?
+Dialogue: 0,0:07:24.77,0:07:26.05,Default,,0,0,0,,Why won't you...
+Dialogue: 0,0:07:26.05,0:07:28.86,Default,,0,0,0,,Why won't you just understand this!?
+Dialogue: 0,0:07:28.86,0:07:32.81,Default,,0,0,0,,Alan-niisan praised Nana-san after that!
+Dialogue: 0,0:07:32.88,0:07:36.18,Default,,0,0,0,,He said her passion was High Sense, and reminded him of Sango-san.
+Dialogue: 0,0:07:36.64,0:07:39.17,Default,,0,0,0,,I just did what anyone would do.
+Dialogue: 0,0:07:39.92,0:07:46.80,Default,,0,0,0,,I really could feel my hope grow thanks to Nana-san's passion in that duo live!
+Dialogue: 0,0:07:47.30,0:07:50.20,Default,,0,0,0,,Now I feel like watching that live again!
+Dialogue: 0,0:07:50.20,0:07:53.06,Default,,0,0,0,,Then, let's watch it-chu!
+Dialogue: 0,0:07:56.08,0:07:58.84,Default,,0,0,0,,Our live is today's first!
+Dialogue: 0,0:07:58.84,0:08:03.21,Default,,0,0,0,,A most passionate and High Sense choice!
+Dialogue: 0,0:08:03.21,0:08:06.86,Default,,0,0,0,,How was it to perform with me, Emma-san?
+Dialogue: 0,0:08:08.10,0:08:13.04,Default,,0,0,0,,I could really feel the passion embrace me as you sang, Nana-san.
+Dialogue: 0,0:08:13.04,0:08:17.19,Default,,0,0,0,,I got to sing a song of passionate hope. It was really fun.
+Dialogue: 0,0:08:17.19,0:08:22.03,Default,,0,0,0,,Nana-chan and Emma-chan's High Sense\N was truly norinori on fire!
+Dialogue: 0,0:08:22.19,0:08:22.90,Default,,0,0,0,,Right, Aoi-chan?
+Dialogue: 0,0:08:22.90,0:08:26.92,Default,,0,0,0,,Yeah, it was completely... High Sense!
+Dialogue: 0,0:08:26.92,0:08:29.00,Default,,0,0,0,,Um, definitely!
+Dialogue: 0,0:08:51.38,0:08:54.53,Default,,0,0,0,,Make your passion shine even more!
+Dialogue: 0,0:08:54.53,0:08:57.03,Default,,0,0,0,,Buzzlume Change!
+Dialogue: 0,0:08:57.03,0:09:00.08,Default,,0,0,0,,This is insane! It's a Buzzlume Change!
+Dialogue: 0,0:09:01.55,0:09:04.47,Default,,0,0,0,,May my burning passion reach you!
+Dialogue: 0,0:09:04.47,0:09:06.20,Default,,0,0,0,,Buzzlume Live, start!
+Dialogue: 0,0:09:06.72,0:09:10.86,Default,,0,0,0,,Their Buzzlume Change shines in the hue of passion-pyon!
+Dialogue: 0,0:09:10.86,0:09:14.20,Default,,0,0,0,,It was such a fiery Buzzlume Change!
+Dialogue: 0,0:09:14.20,0:09:16.72,Default,,0,0,0,,You can't help but feel captivated by its beauty!
+Dialogue: 0,0:10:01.83,0:10:05.20,Default,,0,0,0,,Nana-san and Emma-san both looked so cool!
+Dialogue: 0,0:10:05.20,0:10:08.24,Default,,0,0,0,,Ohohohoho! That's a given!
+Dialogue: 0,0:10:08.24,0:10:11.29,Default,,0,0,0,,Thank you very much, indeed.
+Dialogue: 0,0:10:11.29,0:10:14.10,Default,,0,0,0,,Emma-san, we just got a message.
+Dialogue: 0,0:10:14.35,0:10:16.51,Default,,0,0,0,,It's from Elp-chan!
+Dialogue: 0,0:10:16.51,0:10:19.66,Default,,0,0,0,,Is Elp-chan doing well?
+Dialogue: 0,0:10:19.66,0:10:22.03,Default,,0,0,0,,She really surprised everyone back then!
+Dialogue: 0,0:10:22.03,0:10:23.48,Default,,0,0,0,,That's right.
+Dialogue: 0,0:10:23.48,0:10:27.65,Default,,0,0,0,,To think that a Pricorn that ended up parting ways with Emma-san long ago
+Dialogue: 0,0:10:27.65,0:10:30.02,Default,,0,0,0,,would end up becoming an AiPri and visiting her again!
+Dialogue: 0,0:10:30.02,0:10:32.88,Default,,0,0,0,,That was quite an unexpected turn of events, wasn't it?
+Dialogue: 0,0:10:32.88,0:10:35.55,Default,,0,0,0,,Inori-san and everyone else has also been working hard!
+Dialogue: 0,0:10:35.55,0:10:39.22,Default,,0,0,0,,Like back when Inori-san's friend Mai-chan came visit her!
+Dialogue: 0,0:10:39.22,0:10:44.75,Default,,0,0,0,,Everyone supported her and helped her look for her penpal!
+Dialogue: 0,0:10:45.20,0:10:48.88,Default,,0,0,0,,Mai-chan was all smiles when she finally got to meet Ayaka-chan!
+Dialogue: 0,0:10:48.88,0:10:54.80,Default,,0,0,0,,I'll keep doing my norinori best \Nto bring smiles to all my beloved friends!
+Dialogue: 0,0:10:54.80,0:10:57.52,Default,,0,0,0,,I wanna make my friends smile too!
+Dialogue: 0,0:10:57.52,0:11:06.03,Default,,0,0,0,,I also wish to stir up my flames of passion even more, \Nas I aim towards my dream of bringing smiles to everyone!
+Dialogue: 0,0:11:07.04,0:11:12.58,Default,,0,0,0,,Back when my grandpa was hospitalized, Gumi-chan and Nana-chan really helped me out!
+Dialogue: 0,0:11:12.58,0:11:14.70,Default,,0,0,0,,Of course we did!
+Dialogue: 0,0:11:14.95,0:11:16.35,Default,,0,0,0,,Exactly!
+Dialogue: 0,0:11:16.35,0:11:21.37,Default,,0,0,0,,That's why I want to convey a \Nnorinori bunch of smiles to Grandpa!
+Dialogue: 0,0:11:21.37,0:11:23.26,Default,,0,0,0,,Through my live!
+Dialogue: 0,0:11:24.01,0:11:28.00,Default,,0,0,0,,Gumi-chan, Nana-chan. Will you help me?
+Dialogue: 0,0:11:29.28,0:11:31.02,Default,,0,0,0,,Of course!
+Dialogue: 0,0:11:31.02,0:11:34.67,Default,,0,0,0,,You can count with my passion!
+Dialogue: 0,0:11:35.19,0:11:36.35,Default,,0,0,0,,Let's do it!
+Dialogue: 0,0:11:36.76,0:11:38.53,Default,,0,0,0,,The three of us, together!
+Dialogue: 0,0:11:38.53,0:11:44.36,Default,,0,0,0,,The three of them all shared the same wish to make Inori's grandpa smile, and that's what made their live such a success!
+Dialogue: 0,0:11:41.74,0:11:43.12,Default,,0,0,0,,{\an8}Lady Goddess...
+Dialogue: 0,0:11:44.36,0:11:45.66,Default,,0,0,0,,{\an8}Please!
+Dialogue: 0,0:11:46.68,0:11:49.08,Default,,0,0,0,,Our hearts become one!
+Dialogue: 0,0:11:52.26,0:11:54.66,Default,,0,0,0,,Smile Change!
+Dialogue: 0,0:12:02.53,0:12:04.53,Default,,0,0,0,,It was our first trio live!
+Dialogue: 0,0:12:04.53,0:12:07.52,Default,,0,0,0,,We were all norinori, it was so fun!
+Dialogue: 0,0:12:07.52,0:12:11.52,Default,,0,0,0,,Yeah! We had a ton of fun!
+Dialogue: 0,0:12:11.52,0:12:12.88,Default,,0,0,0,,Right, Nana-chan?
+Dialogue: 0,0:12:13.01,0:12:13.71,Default,,0,0,0,,Yes.
+Dialogue: 0,0:12:13.71,0:12:17.10,Default,,0,0,0,,I saw something I could never see on my own.
+Dialogue: 0,0:12:17.62,0:12:20.85,Default,,0,0,0,,Inori and Gumi were both truly High Sense!
+Dialogue: 0,0:12:20.85,0:12:24.19,Default,,0,0,0,,Their trio live was so norinori!
+Dialogue: 0,0:12:25.04,0:12:27.36,Default,,0,0,0,,Norinori, indeed!
+Dialogue: 0,0:12:27.36,0:12:29.36,Default,,0,0,0,,It was so cute!
+Dialogue: 0,0:12:48.70,0:12:51.70,Default,,0,0,0,,Make what's deep within your heart shine even more!
+Dialogue: 0,0:12:51.70,0:12:54.02,Default,,0,0,0,,Buzzlume Change!
+Dialogue: 0,0:12:54.02,0:12:57.35,Default,,0,0,0,,This is insane! It's a Buzzlume Change!
+Dialogue: 0,0:12:57.35,0:13:00.69,Default,,0,0,0,,May our bustling hearts reach you!
+Dialogue: 0,0:13:00.69,0:13:03.36,Default,,0,0,0,,Buzzlume Live, start!
+Dialogue: 0,0:13:03.36,0:13:08.77,Default,,0,0,0,,A brand new miraculous trio is born at full-power!
+Dialogue: 0,0:13:51.04,0:13:53.11,Default,,0,0,0,,I love the dance on this part!
+Dialogue: 0,0:13:53.57,0:13:55.10,Default,,0,0,0,,I like it as well.
+Dialogue: 0,0:13:55.10,0:13:57.70,Default,,0,0,0,,I was so happy we could all get norinori like that!
+Dialogue: 0,0:13:57.70,0:13:58.82,Default,,0,0,0,,Gumigumi!
+Dialogue: 0,0:13:59.11,0:14:00.20,Default,,0,0,0,,Me too!
+Dialogue: 0,0:14:02.82,0:14:06.86,Default,,0,0,0,,Our Smile Heart's live was incredible, as you would expect.
+Dialogue: 0,0:14:06.86,0:14:08.54,Default,,0,0,0,,And it wasn't just us.
+Dialogue: 0,0:14:08.83,0:14:14.69,Default,,0,0,0,,Aoi-chan and the others also thought on it together,\N and performed a great live as Pure Heart!
+Dialogue: 0,0:14:15.16,0:14:19.54,Default,,0,0,0,,We all tend to be very cautious, so we had a bit of a slow start, though.
+Dialogue: 0,0:14:19.54,0:14:24.31,Default,,0,0,0,,If we are the type to tap a stone bridge many times before crossing it,
+Dialogue: 0,0:14:24.52,0:14:27.58,Default,,0,0,0,,Nana-san and the others are always racing full steam ahead!
+Dialogue: 0,0:14:27.58,0:14:30.68,Default,,0,0,0,,It's all about facing things with spirit!
+Dialogue: 0,0:14:31.06,0:14:33.52,Default,,0,0,0,,Inori racing full steam ahead! Buu-buu!
+Dialogue: 0,0:14:33.52,0:14:34.85,Default,,0,0,0,,Gumi too!
+Dialogue: 0,0:14:35.52,0:14:37.52,Default,,0,0,0,,Buu-buuu!
+Dialogue: 0,0:14:37.52,0:14:39.69,Default,,0,0,0,,Buu!
+Dialogue: 0,0:14:39.69,0:14:41.94,Default,,0,0,0,,They really are norinori!
+Dialogue: 0,0:14:42.21,0:14:44.36,Default,,0,0,0,,The Art Fest was also really fun!
+Dialogue: 0,0:14:44.36,0:14:47.00,Default,,0,0,0,,Enough to make me feel jealous!
+Dialogue: 0,0:14:47.00,0:14:50.73,Default,,0,0,0,,Are you not going to "buu-buu" with them, Nana-san?
+Dialogue: 0,0:14:50.73,0:14:54.70,Default,,0,0,0,,I-I'm a High Sense AiPri, you know?
+Dialogue: 0,0:14:54.70,0:14:56.09,Default,,0,0,0,,Do it, Nana-chan!
+Dialogue: 0,0:14:56.30,0:14:57.36,Default,,0,0,0,,It's fun!
+Dialogue: 0,0:14:57.36,0:15:00.03,Default,,0,0,0,,T-Then...
+Dialogue: 0,0:15:00.03,0:15:01.52,Default,,0,0,0,,{\an8}Buu-buu...
+Dialogue: 0,0:15:00.03,0:15:03.03,Default,,0,0,0,,We got to do our best as well!
+Dialogue: 0,0:15:03.03,0:15:04.47,Default,,0,0,0,,It's fine!
+Dialogue: 0,0:15:04.47,0:15:06.20,Default,,0,0,0,,I'm sure we can do it!
+Dialogue: 0,0:15:06.20,0:15:08.55,Default,,0,0,0,,Emma can see it.
+Dialogue: 0,0:15:08.55,0:15:14.82,Default,,0,0,0,,I'm sure the six of us will be able to shine hope onto the heart of the Goddess!
+Dialogue: 0,0:15:14.94,0:15:16.53,Default,,0,0,0,,Chu-chuchu!
+Dialogue: 0,0:15:16.53,0:15:19.68,Default,,0,0,0,,This was the first part of today's Wish Granting Channel-chu!
+Dialogue: 0,0:15:19.68,0:15:22.82,Default,,0,0,0,,There's more to come after this-chu!
+Dialogue: 0,0:15:33.52,0:15:34.79,Default,,0,0,0,,Chu-chuchu!
+Dialogue: 0,0:15:34.79,0:15:36.85,Default,,0,0,0,,Let's all do our best for the second part too-chu!
+Dialogue: 0,0:15:37.36,0:15:40.37,Default,,0,0,0,,Wish Granting Squad, you may continue-chu!
+Dialogue: 0,0:15:41.26,0:15:47.07,Default,,0,0,0,,This is the "Poem of the Goddess' Trials", \Nwhich has been passed down in my family for generations.
+Dialogue: 0,0:15:48.18,0:15:52.14,Default,,0,0,0,,A heart of passion / The seal of a friend's love.
+Dialogue: 0,0:15:52.37,0:15:56.92,Default,,0,0,0,,A heart of hope / The proof of a dreaming courage.
+Dialogue: 0,0:15:56.92,0:16:00.82,Default,,0,0,0,,Six hearts / A single dream.
+Dialogue: 0,0:16:01.70,0:16:05.07,Default,,0,0,0,,The Goddess' heart / A light of miracle.
+Dialogue: 0,0:16:05.66,0:16:07.03,Default,,0,0,0,,This is how it goes.
+Dialogue: 0,0:16:07.18,0:16:10.10,Default,,0,0,0,,So there are trials from the Goddess...?
+Dialogue: 0,0:16:10.10,0:16:16.79,Default,,0,0,0,,It is said that one must get through them in order to regain the Goddess' power and bring about a miracle.
+Dialogue: 0,0:16:18.66,0:16:24.09,Default,,0,0,0,,We have found something we must do in order for the Goddess to regain her power!
+Dialogue: 0,0:16:24.68,0:16:27.26,Default,,0,0,0,,We got to start moving towards our dreams!
+Dialogue: 0,0:16:27.90,0:16:34.06,Default,,0,0,0,,My dream is to make it so people from all around the world have the most High Sense smiles!
+Dialogue: 0,0:16:34.48,0:16:37.86,Default,,0,0,0,,Mine is to bring smiles to everyone through the light of hope.
+Dialogue: 0,0:16:38.52,0:16:45.03,Default,,0,0,0,,I want to be an AiPri who can help people think even more dearly of their friends!
+Dialogue: 0,0:16:45.45,0:16:50.21,Default,,0,0,0,,I want to believe more in my own courage\N and display this in my lives!
+Dialogue: 0,0:16:50.21,0:16:53.28,Default,,0,0,0,,By the way, I was just thinking about it...
+Dialogue: 0,0:16:53.28,0:16:55.58,Default,,0,0,0,,How about we perform right now?
+Dialogue: 0,0:16:55.98,0:16:58.18,Default,,0,0,0,,I was the thinking the same too!
+Dialogue: 0,0:16:58.18,0:17:03.92,Default,,0,0,0,,Then let's perform as Pure Heart, \Nso that we can grant everyone's dreams!
+Dialogue: 0,0:17:04.30,0:17:06.19,Default,,0,0,0,,This is my wish!
+Dialogue: 0,0:17:06.19,0:17:08.88,Default,,0,0,0,,Chu? Chu-chu!?
+Dialogue: 0,0:17:08.88,0:17:11.19,Default,,0,0,0,,Chuchu-chuchu!
+Dialogue: 0,0:17:14.70,0:17:17.64,Default,,0,0,0,,Wish catchu!
+Dialogue: 0,0:17:18.22,0:17:20.32,Default,,0,0,0,,Our hearts become one!
+Dialogue: 0,0:17:22.19,0:17:24.49,Default,,0,0,0,,Pure Change!
+Dialogue: 0,0:17:30.82,0:17:32.69,Default,,0,0,0,,Coord change, The Castle!
+Dialogue: 0,0:17:32.69,0:17:34.86,Default,,0,0,0,,Here we go!
+Dialogue: 0,0:17:39.03,0:17:41.03,Default,,0,0,0,,It's make-up time-chu!
+Dialogue: 0,0:17:43.88,0:17:45.04,Default,,0,0,0,,Cheeks!
+Dialogue: 0,0:17:46.70,0:17:48.08,Default,,0,0,0,,Lips!
+Dialogue: 0,0:17:49.04,0:17:51.04,Default,,0,0,0,,Cologne!
+Dialogue: 0,0:17:53.69,0:17:57.06,Default,,0,0,0,,Shine, Onegai Jewel!
+Dialogue: 0,0:17:57.86,0:17:59.71,Default,,0,0,0,,Coord change-chu!
+Dialogue: 0,0:17:59.71,0:18:03.66,Default,,0,0,0,,Today's coord is Pure Heart Buzzlume!
+Dialogue: 0,0:18:03.66,0:18:08.64,Default,,0,0,0,,Its highlight is the aurora-colored crystals that sparkle on the accessories and skirt!
+Dialogue: 0,0:18:10.50,0:18:12.19,Default,,0,0,0,,Amazing!
+Dialogue: 0,0:18:12.19,0:18:14.51,Default,,0,0,0,,Live stage, open!
+Dialogue: 0,0:18:15.07,0:18:17.08,Default,,0,0,0,,This is my wish-granting live!
+Dialogue: 0,0:18:17.38,0:18:19.70,Default,,0,0,0,,I will support everyone's feelings!
+Dialogue: 0,0:18:19.70,0:18:20.20,Default,,0,0,0,,Our dream,
+Dialogue: 0,0:18:20.20,0:18:20.79,Default,,0,0,0,,courage,
+Dialogue: 0,0:18:20.79,0:18:21.62,Default,,0,0,0,,and hope-filled
+Dialogue: 0,0:18:21.62,0:18:23.08,Default,,0,0,0,,live will now start!
+Dialogue: 0,0:18:23.09,0:18:23.87,Default,,0,0,0,,Chu!
+Dialogue: 0,0:19:09.70,0:19:13.55,Default,,0,0,0,,Make what's deep within your heart shine even more!
+Dialogue: 0,0:19:13.55,0:19:16.11,Default,,0,0,0,,Buzzlume Change!
+Dialogue: 0,0:19:16.11,0:19:19.86,Default,,0,0,0,,This is insane! It's a Buzzlume Change!
+Dialogue: 0,0:19:21.14,0:19:23.60,Default,,0,0,0,,May our sincere hearts reach you!
+Dialogue: 0,0:19:23.60,0:19:25.89,Default,,0,0,0,,Buzzlume Live, start!
+Dialogue: 0,0:19:25.89,0:19:31.96,Default,,0,0,0,,Their pure feelings reach straight into the hearts of the Prifriends-pyon!
+Dialogue: 0,0:20:30.16,0:20:34.30,Default,,0,0,0,,With every step, our squad feels more and more united as one!
+Dialogue: 0,0:20:34.64,0:20:35.59,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:20:35.59,0:20:39.81,Default,,0,0,0,,We're all doing our norinori best for the sake of our beloved Goddess!
+Dialogue: 0,0:20:40.24,0:20:41.26,Default,,0,0,0,,That's right.
+Dialogue: 0,0:20:41.26,0:20:45.38,Default,,0,0,0,,I also want to grant many wishes for the sake of the Goddess!
+Dialogue: 0,0:20:45.38,0:20:50.28,Default,,0,0,0,,That's my dream! And I will make it true through my lives!
+Dialogue: 0,0:20:52.20,0:20:54.76,Default,,0,0,0,,Fortu-chu!
+Dialogue: 0,0:20:57.40,0:20:59.80,Default,,0,0,0,,Onegai Prism-chu!
+Dialogue: 0,0:21:00.36,0:21:04.36,Default,,0,0,0,,Here's an AiPri card-chu!
+Dialogue: 0,0:21:04.36,0:21:08.24,Default,,0,0,0,,It's the Angel Sports card-chu!
+Dialogue: 0,0:21:09.62,0:21:11.00,Default,,0,0,0,,We did it!
+Dialogue: 0,0:21:11.00,0:21:12.92,Default,,0,0,0,,It's so cute!
+Dialogue: 0,0:21:12.92,0:21:16.52,Default,,0,0,0,,I can give my best \Nknowing everyone is here with me!
+Dialogue: 0,0:21:16.52,0:21:22.60,Default,,0,0,0,,Let's keep on going like this, and as our hearts become one, \Nwe will bring about the Goddess' Miracle!
+Dialogue: 0,0:21:22.60,0:21:26.56,Default,,0,0,0,,Then, in order for the hearts of the Wish Granting Squad to become one,
+Dialogue: 0,0:21:26.56,0:21:31.00,Default,,0,0,0,,I shall be holding a High Sense tea party!
+Dialogue: 0,0:21:31.27,0:21:32.62,Default,,0,0,0,,Yay!
+Dialogue: 0,0:21:32.90,0:21:36.02,Default,,0,0,0,,I'll be making matching headbands for everyone!
+Dialogue: 0,0:21:36.02,0:21:39.28,Default,,0,0,0,,Will there be d-d-d-donutchu!?
+Dialogue: 0,0:21:39.28,0:21:41.94,Default,,0,0,0,,I'll be bringing snacks with me!
+Dialogue: 0,0:21:41.94,0:21:44.04,Default,,0,0,0,,Then I'm happy-chu!
+Dialogue: 0,0:21:44.24,0:21:46.94,Default,,0,0,0,,Emma will be telling everyone's fortune!
+Dialogue: 0,0:21:46.94,0:21:49.52,Default,,0,0,0,,What will you be looking into?
+Dialogue: 0,0:21:49.52,0:21:52.18,Default,,0,0,0,,Maybe the results of their last test at school...
+Dialogue: 0,0:21:52.18,0:21:53.71,Default,,0,0,0,,Let's not do that!
+Dialogue: 0,0:21:53.71,0:21:58.12,Default,,0,0,0,,We're talking about AiPri, so let's focus on AiPri!
+Dialogue: 0,0:21:58.12,0:22:00.22,Default,,0,0,0,,I was just kidding.
+Dialogue: 0,0:22:00.80,0:22:05.02,Default,,0,0,0,,It's about time for today's Wish Granting Channel to end-chu!
+Dialogue: 0,0:22:05.43,0:22:06.38,Default,,0,0,0,,Already!?
+Dialogue: 0,0:22:06.94,0:22:09.52,Default,,0,0,0,,Then, Prifriends!
+Dialogue: 0,0:22:09.52,0:22:12.42,Default,,0,0,0,,Be sure to tune in to the next Wish Granting Channel!
+Dialogue: 0,0:22:12.78,0:22:15.12,Default,,0,0,0,,Until next time!
+Dialogue: 0,0:22:15.12,0:22:16.06,Default,,0,0,0,,Chu!
+Dialogue: 0,0:23:50.72,0:23:54.62,Default,,0,0,0,,Hello! I'm Azumin from the Onegai AiPri Club!
+Dialogue: 0,0:23:54.62,0:23:57.68,Default,,0,0,0,,The card Aoi got today is the Angel Sports!
+Dialogue: 0,0:23:57.68,0:23:59.96,Default,,0,0,0,,The wings on this coord look just so cute!
+Dialogue: 0,0:23:59.96,0:24:02.74,Default,,0,0,0,,It's a pastel blue piece of sports fashion!
+Dialogue: 0,0:24:02.74,0:24:04.99,Default,,0,0,0,,Stay tuned for next episode's card!
+Dialogue: 0,0:24:05.42,0:24:06.93,Default,,0,0,0,,I'm Yumemiya Aoi!
+Dialogue: 0,0:24:07.39,0:24:08.55,Default,,0,0,0,,Hey, Fortu.
+Dialogue: 0,0:24:08.55,0:24:10.89,Default,,0,0,0,,Do you remember that day?
+Dialogue: 0,0:24:11.52,0:24:13.85,Default,,0,0,0,,That rainy day when I first met you.
+Dialogue: 0,0:24:14.52,0:24:16.40,Default,,0,0,0,,Next time, on Onegai AiPri.
+Dialogue: 0,0:24:16.40,0:24:17.98,Default,,0,0,0,,The First Wish!
+Dialogue: 0,0:24:17.98,0:24:19.53,Default,,0,0,0,,Let's do AiPri together!
+
