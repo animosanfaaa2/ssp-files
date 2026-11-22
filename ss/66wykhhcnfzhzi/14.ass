@@ -1,0 +1,280 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+Video Zoom Percent: 1
+Scroll Position: 0
+Active Line: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:10.88,0:00:12.84,Default,,0,0,0,,{\i1}-Taiyo.{\i0}\N{\i1}-Taiyo.{\i0}
+Dialogue: 0,0:00:12.93,0:00:14.51,Default,,0,0,0,,{\i1}Isoveli.{\i0}
+Dialogue: 0,0:00:16.76,0:00:19.60,Default,,0,0,0,,Isoveli?
+Dialogue: 0,0:00:20.68,0:00:22.31,Default,,0,0,0,,Oletko kunnossa, isoveli?
+Dialogue: 0,0:00:22.39,0:00:23.81,Default,,0,0,0,,Näit pahaa unta.
+Dialogue: 0,0:00:24.98,0:00:27.27,Default,,0,0,0,,Olen ihan kunnossa.
+Dialogue: 0,0:00:34.28,0:00:35.41,Default,,0,0,0,,Mikä hätänä?
+Dialogue: 0,0:00:36.82,0:00:37.82,Default,,0,0,0,,Hikaru?
+Dialogue: 0,0:00:37.91,0:00:38.91,Default,,0,0,0,,Mitä?
+Dialogue: 0,0:00:39.49,0:00:41.33,Default,,0,0,0,,Missä äiti ja isä ovat?
+Dialogue: 0,0:00:41.83,0:00:44.54,Default,,0,0,0,,Ne kaksi ovat valvoneet tuntikausia.
+Dialogue: 0,0:00:46.83,0:00:48.09,Default,,0,0,0,,Herätin hänet!
+Dialogue: 0,0:00:48.17,0:00:49.55,Default,,0,0,0,,Huomenta, Taiyo.
+Dialogue: 0,0:00:49.63,0:00:51.88,Default,,0,0,0,,Aamiainen on jo pöydässä.
+Dialogue: 0,0:00:52.55,0:00:54.68,Default,,0,0,0,,Ei ole tapaistasi nukkua myöhään.
+Dialogue: 0,0:00:58.30,0:00:59.55,Default,,0,0,0,,Tule, isoveli.
+Dialogue: 0,0:00:59.64,0:01:02.56,Default,,0,0,0,,Syödään aamiainen,\Njotta voimme taas pelata!
+Dialogue: 0,0:01:02.64,0:01:04.14,Default,,0,0,0,,Selvä se.
+Dialogue: 0,0:01:19.91,0:01:24.83,Default,,0,0,0,,MISSION: YOZAKURA FAMILY
+Dialogue: 0,0:02:42.03,0:02:43.70,Default,,0,0,0,,Kiitos aamiaisesta!
+Dialogue: 0,0:02:46.24,0:02:48.29,Default,,0,0,0,,Hetkinen. Jätit ruokaa lautaselle.
+Dialogue: 0,0:02:48.37,0:02:50.96,Default,,0,0,0,,Jos et syö kunnolla, et koskaan kasvakaan.
+Dialogue: 0,0:02:51.04,0:02:54.54,Default,,0,0,0,,Juuri niin! Katso minua. Minä otin lisää!
+Dialogue: 0,0:02:54.63,0:02:57.01,Default,,0,0,0,,Eikö sinulla siksi olekin\Nnoin iso vatsa nykyään?
+Dialogue: 0,0:02:57.88,0:03:00.43,Default,,0,0,0,,-Huomaatko sinäkin sen, Hikaru?\N-Mitä?
+Dialogue: 0,0:03:00.51,0:03:02.43,Default,,0,0,0,,Oletko alkanut lihoa keski-iässä?
+Dialogue: 0,0:03:02.51,0:03:03.72,Default,,0,0,0,,Et kai sinäkin, kulta?
+Dialogue: 0,0:03:03.80,0:03:07.72,Default,,0,0,0,,No, viime aikoina…\NÄlä vaihda puheenaihetta!
+Dialogue: 0,0:03:08.52,0:03:13.40,Default,,0,0,0,,No niin, Hikaru. Minä autan sen kanssa.\NSiivoa lautasesi.
+Dialogue: 0,0:03:15.23,0:03:18.36,Default,,0,0,0,,-Oho!\N-Kiitos, Taiyo!
+Dialogue: 0,0:03:18.44,0:03:19.90,Default,,0,0,0,,Vau, isoveli!
+Dialogue: 0,0:03:19.99,0:03:21.49,Default,,0,0,0,,Eihän teetä läikkynyt päällesi?
+Dialogue: 0,0:03:21.57,0:03:23.07,Default,,0,0,0,,Ei, olen kunnossa.
+Dialogue: 0,0:03:23.16,0:03:26.16,Default,,0,0,0,,{\i1}Mitä minä tein?{\i0}
+Dialogue: 0,0:03:26.24,0:03:29.70,Default,,0,0,0,,Nyt keksin!\NMennäänkö jonnekin tänä viikonloppuna?
+Dialogue: 0,0:03:29.79,0:03:32.58,Default,,0,0,0,,Hyvä idea! Minne haluatte mennä?
+Dialogue: 0,0:03:32.67,0:03:34.88,Default,,0,0,0,,Minä haluan telttailemaan!
+Dialogue: 0,0:03:34.96,0:03:36.67,Default,,0,0,0,,Vai telttailemaan?
+Dialogue: 0,0:03:36.75,0:03:39.21,Default,,0,0,0,,Emme olekaan käyneet pitkään aikaan.
+Dialogue: 0,0:03:39.30,0:03:42.30,Default,,0,0,0,,Nuorempana haaveilin lähteväni\Nyksin retkeilemään,
+Dialogue: 0,0:03:42.38,0:03:46.43,Default,,0,0,0,,joten luin paljon lehtiä\Nja ostin varusteet,
+Dialogue: 0,0:03:46.51,0:03:49.68,Default,,0,0,0,,mutta en koskaan päässyt käyttämään niitä.
+Dialogue: 0,0:03:49.77,0:03:51.89,Default,,0,0,0,,Haluaisitko sinäkin retkeilemään, Taiyo?
+Dialogue: 0,0:03:53.10,0:03:54.65,Default,,0,0,0,,Minulle käy kaikki.
+Dialogue: 0,0:03:54.73,0:03:56.61,Default,,0,0,0,,Pääsetkö lähtemään töistä, äiti?
+Dialogue: 0,0:03:56.69,0:03:59.07,Default,,0,0,0,,Totta kai. Otin vapaata.
+Dialogue: 0,0:03:59.15,0:04:01.70,Default,,0,0,0,,-Vau! Olet mahtava!\N-Hienoa!
+Dialogue: 0,0:04:01.78,0:04:03.03,Default,,0,0,0,,Siitä tulee hauskaa!
+Dialogue: 0,0:04:08.08,0:04:10.91,Default,,0,0,0,,PAINA!
+Dialogue: 0,0:04:11.75,0:04:13.96,Default,,0,0,0,,PELI ON PÄÄTTYNYT
+Dialogue: 0,0:04:14.04,0:04:16.50,Default,,0,0,0,,Mitä tuo oli, isoveli?
+Dialogue: 0,0:04:16.59,0:04:18.38,Default,,0,0,0,,Sinun vuoksesi hävisimme!
+Dialogue: 0,0:04:18.46,0:04:19.92,Default,,0,0,0,,Anteeksi, minun mokani.
+Dialogue: 0,0:04:20.51,0:04:24.76,Default,,0,0,0,,Et ole oma itsesi tänään, isoveli.\NOlet muissa maailmoissa.
+Dialogue: 0,0:04:24.84,0:04:27.47,Default,,0,0,0,,Olen pahoillani. Pelataan uudestaan!
+Dialogue: 0,0:04:27.55,0:04:29.97,Default,,0,0,0,,Jestas, keskity peliin tällä kertaa!
+Dialogue: 0,0:04:30.06,0:04:31.48,Default,,0,0,0,,Selvä se!
+Dialogue: 0,0:04:32.02,0:04:33.02,Default,,0,0,0,,{\an8}LADATAAN
+Dialogue: 0,0:04:33.10,0:04:35.40,Default,,0,0,0,,{\an8}Ongelma on,\Nettet suojaa itseäsi riittävästi.
+Dialogue: 0,0:04:35.48,0:04:38.23,Default,,0,0,0,,Sinun on tarkkailtava koko kenttää.
+Dialogue: 0,0:04:38.94,0:04:41.82,Default,,0,0,0,,Tällä kertaa läpäisemme sen!
+Dialogue: 0,0:04:43.20,0:04:44.78,Default,,0,0,0,,{\i1}Mikä se oli?{\i0}
+Dialogue: 0,0:04:45.95,0:04:47.37,Default,,0,0,0,,{\i1}Tuntuu kuin -{\i0}
+Dialogue: 0,0:04:47.45,0:04:50.37,Default,,0,0,0,,{\i1}olisin unohtanut jotain tärkeää.{\i0}
+Dialogue: 0,0:04:53.21,0:04:54.87,Default,,0,0,0,,{\i1}Oli miten oli.{\i0}
+Dialogue: 0,0:05:13.98,0:05:16.35,Default,,0,0,0,,{\i1}Isoveli Shinzo! Kengo!{\i0}
+Dialogue: 0,0:05:20.44,0:05:21.69,Default,,0,0,0,,{\i1}Alukselle?{\i0}
+Dialogue: 0,0:05:55.64,0:05:56.94,Default,,0,0,0,,Mutsumi!
+Dialogue: 0,0:06:08.95,0:06:11.28,Default,,0,0,0,,Isoveli Kyoichiro! Isosisko Futaba!
+Dialogue: 0,0:06:11.37,0:06:13.74,Default,,0,0,0,,Isoveli Shinzo! Isosisko Shion!
+Dialogue: 0,0:06:13.83,0:06:15.66,Default,,0,0,0,,Kengo! Nanao!
+Dialogue: 0,0:06:20.58,0:06:21.79,Default,,0,0,0,,{\i1}Kaikkiko?{\i0}
+Dialogue: 0,0:06:24.38,0:06:27.30,Default,,0,0,0,,{\i1}Onko kyseessä isän voima?{\i0}
+Dialogue: 0,0:06:37.89,0:06:39.94,Default,,0,0,0,,{\i1}Aluksen skannaus valmis.{\i0}
+Dialogue: 0,0:06:40.02,0:06:44.15,Default,,0,0,0,,{\i1}Havaitsen korkeita määriä someiniinia,{\i0}\N{\i1}joka leviää ympäri alusta kuin virus.{\i0}
+Dialogue: 0,0:06:44.23,0:06:47.36,Default,,0,0,0,,{\i1}Jos samaan aikaan tapahtuu räjähdys,{\i0}\N{\i1}se ei tuhoa pelkästään alusta.{\i0}
+Dialogue: 0,0:06:47.44,0:06:50.11,Default,,0,0,0,,{\i1}Kaikki ympäröivät vedet tuhoutuvat.{\i0}
+Dialogue: 0,0:06:50.20,0:06:52.32,Default,,0,0,0,,Oletko saanut yhteyden Yozakuran väkeen?
+Dialogue: 0,0:06:52.41,0:06:56.04,Default,,0,0,0,,{\i1}Moduuleja on poltettu,{\i0}\N{\i1}joten viestintä ei onnistu.{\i0}
+Dialogue: 0,0:06:56.12,0:06:57.87,Default,,0,0,0,,Heidät on pelastettava!
+Dialogue: 0,0:06:57.95,0:06:59.12,Default,,0,0,0,,Odota, Ryu.
+Dialogue: 0,0:07:00.12,0:07:01.33,Default,,0,0,0,,Älä estä minua.
+Dialogue: 0,0:07:02.21,0:07:06.30,Default,,0,0,0,,Emme voi mennä sinne sokkona tietämättä,\Nmitä on tekeillä.
+Dialogue: 0,0:07:06.80,0:07:09.42,Default,,0,0,0,,Tuen tässä asiassa puheenjohtajaa.
+Dialogue: 0,0:07:11.72,0:07:12.97,Default,,0,0,0,,Hyvä on sitten.
+Dialogue: 0,0:07:13.97,0:07:17.10,Default,,0,0,0,,Giga, ota yhteys sataman valvomoon.
+Dialogue: 0,0:07:17.18,0:07:19.43,Default,,0,0,0,,Pyydä heitä laajentamaan saartoa.
+Dialogue: 0,0:07:19.52,0:07:20.85,Default,,0,0,0,,{\i1}Kuitti!{\i0}
+Dialogue: 0,0:07:24.44,0:07:26.36,Default,,0,0,0,,Jätetään loput heille.
+Dialogue: 0,0:07:27.36,0:07:30.03,Default,,0,0,0,,{\i1}Kävi miten kävi, tilanne on nyt se,{\i0}
+Dialogue: 0,0:07:31.40,0:07:33.16,Default,,0,0,0,,{\i1}että ainoa, joka voi pelastaa muut,{\i0}
+Dialogue: 0,0:07:34.78,0:07:36.08,Default,,0,0,0,,{\i1}olen minä!{\i0}
+Dialogue: 0,0:07:50.05,0:07:54.76,Default,,0,0,0,,Tuhosit sinulle lähettämäni\Ntervetulojoukot. Moukkamaista.
+Dialogue: 0,0:07:54.84,0:07:57.22,Default,,0,0,0,,Alat olla kuin Kyoichiro.
+Dialogue: 0,0:07:57.31,0:07:59.93,Default,,0,0,0,,Hän tulee pian tänne.
+Dialogue: 0,0:08:21.29,0:08:23.75,Default,,0,0,0,,Tervetuloa kotiin, Taiyo.
+Dialogue: 0,0:08:24.83,0:08:26.13,Default,,0,0,0,,On päivällisaika.
+Dialogue: 0,0:08:26.63,0:08:27.96,Default,,0,0,0,,Istuhan alas.
+Dialogue: 0,0:08:40.01,0:08:41.89,Default,,0,0,0,,Mitä teit heille?
+Dialogue: 0,0:08:52.36,0:08:55.41,Default,,0,0,0,,Kukintani on nimeltään unelmat.
+Dialogue: 0,0:08:57.32,0:08:58.95,Default,,0,0,0,,{\i1}Sinullakin oli sellainen, eikö?{\i0}
+Dialogue: 0,0:08:59.03,0:09:03.37,Default,,0,0,0,,{\i1}Ihannemaailma, jossa{\i0}\N{\i1}kipua ja kärsimystä ei ole olemassa.{\i0}
+Dialogue: 0,0:09:04.75,0:09:09.38,Default,,0,0,0,,Kaikki kirsikankukan tuoksun ympäröimä\Non minun unelmaani.
+Dialogue: 0,0:09:09.88,0:09:12.05,Default,,0,0,0,,Kukaan ei voi vastustaa sitä.
+Dialogue: 0,0:09:12.13,0:09:16.76,Default,,0,0,0,,Ainoa poikkeus olet sinä,\Nkoska sinussa virtaa Tsubomin verta.
+Dialogue: 0,0:09:20.68,0:09:23.93,Default,,0,0,0,,Palauta heidät kaikki ennalleen!
+Dialogue: 0,0:09:24.02,0:09:26.27,Default,,0,0,0,,Niinhän minä teinkin.
+Dialogue: 0,0:09:26.77,0:09:29.40,Default,,0,0,0,,Tällainen perheeni kuuluukin olla.
+Dialogue: 0,0:09:30.36,0:09:31.86,Default,,0,0,0,,Kutsutko tätä perheeksi?
+Dialogue: 0,0:09:32.57,0:09:34.11,Default,,0,0,0,,Perhe on…
+Dialogue: 0,0:09:37.70,0:09:39.32,Default,,0,0,0,,ASANON PERHEHAUTA
+Dialogue: 0,0:09:40.03,0:09:41.99,Default,,0,0,0,,Perhe on…
+Dialogue: 0,0:09:43.66,0:09:47.42,Default,,0,0,0,,Olet väärässä. Tätä perhe on, Taiyo.
+Dialogue: 0,0:09:49.54,0:09:51.46,Default,,0,0,0,,Sinun pitäisi tietää se itse.
+Dialogue: 0,0:09:51.96,0:09:54.09,Default,,0,0,0,,Perheet ovat hauraita ja katoavaisia.
+Dialogue: 0,0:09:54.71,0:09:57.97,Default,,0,0,0,,Siksi päätin luoda sellaisen itse.
+Dialogue: 0,0:09:58.55,0:10:01.60,Default,,0,0,0,,Vahvan perheen, jota ei voi tuhota.
+Dialogue: 0,0:10:26.79,0:10:28.21,Default,,0,0,0,,Minä siis myöhästyin.
+Dialogue: 0,0:10:28.29,0:10:31.92,Default,,0,0,0,,Kirottu Kawashita. Kuinka hän julkeaa…
+Dialogue: 0,0:10:32.00,0:10:34.71,Default,,0,0,0,,Tämä poika kuuluu minulle.
+Dialogue: 0,0:10:39.84,0:10:41.43,Default,,0,0,0,,Vien sinut takaisin.
+Dialogue: 0,0:10:46.93,0:10:48.23,Default,,0,0,0,,{\i1}Se ei ole unta.{\i0}
+Dialogue: 0,0:10:49.10,0:10:50.23,Default,,0,0,0,,{\i1}Muistan tämän.{\i0}
+Dialogue: 0,0:10:51.35,0:10:53.36,Default,,0,0,0,,{\i1}Luulin näkeväni näkyjä.{\i0}
+Dialogue: 0,0:10:54.02,0:10:56.65,Default,,0,0,0,,Ensihoitajat saavat hoitaa loput.
+Dialogue: 0,0:10:57.15,0:10:59.86,Default,,0,0,0,,{\i1}Mutta olen varma, että sinä päivänä{\i0}
+Dialogue: 0,0:11:00.78,0:11:01.82,Default,,0,0,0,,{\i1}joku oli…{\i0}
+Dialogue: 0,0:11:05.66,0:11:09.16,Default,,0,0,0,,Olen vahtinut sinua koko ajan.
+Dialogue: 0,0:11:10.46,0:11:12.63,Default,,0,0,0,,{\i1}Vaikka kamppailinkin sisäisesti,{\i0}
+Dialogue: 0,0:11:12.71,0:11:15.67,Default,,0,0,0,,{\i1}en pystynyt murtamaan{\i0}\N{\i1}Yozakuran karmasykliä.{\i0}
+Dialogue: 0,0:11:16.63,0:11:19.84,Default,,0,0,0,,{\i1}Joten tarvitsin tuoretta verta.{\i0}
+Dialogue: 0,0:11:21.26,0:11:22.64,Default,,0,0,0,,{\i1}Se oli aika helppoa.{\i0}
+Dialogue: 0,0:11:22.72,0:11:28.31,Default,,0,0,0,,{\i1}Mutsumille ei voi olla parempaa seuraa{\i0}\N{\i1}kuin kaltaisesi aito naapurinpoika.{\i0}
+Dialogue: 0,0:11:37.82,0:11:41.57,Default,,0,0,0,,{\i1}Minä valitsin sinut.{\i0}
+Dialogue: 0,0:11:49.41,0:11:51.04,Default,,0,0,0,,{\i1}En välitä,{\i0}
+Dialogue: 0,0:11:51.62,0:11:54.83,Default,,0,0,0,,{\i1}kenet joudun uhraamaan,{\i0}\N{\i1}jos teen sen teidän takianne.{\i0}
+Dialogue: 0,0:11:56.71,0:12:01.30,Default,,0,0,0,,Minä tein sinusta vahvan.
+Dialogue: 0,0:12:08.35,0:12:12.56,Default,,0,0,0,,Totta, 10 000 kukan kukinta\Nvoi vastustaa omaa kukintaani.
+Dialogue: 0,0:12:13.10,0:12:17.44,Default,,0,0,0,,Nyt kun muistosi järkyttävät sinua,\Nolet jättänyt itsesi avoimeksi.
+Dialogue: 0,0:12:18.07,0:12:20.90,Default,,0,0,0,,Olet keskellä unta,
+Dialogue: 0,0:12:21.44,0:12:23.45,Default,,0,0,0,,josta et koskaan herää.
+Dialogue: 0,0:12:24.07,0:12:27.08,Default,,0,0,0,,Unelmaperheeni, jonka kuvittelin,
+Dialogue: 0,0:12:27.16,0:12:29.99,Default,,0,0,0,,on vihdoin valmis tässä ja nyt.
+Dialogue: 0,0:12:36.96,0:12:40.71,Default,,0,0,0,,Tervetuloa Yozakuran perheeseen, Taiyo.
+Dialogue: 0,0:12:53.69,0:12:55.27,Default,,0,0,0,,Hiiteen tämä illuusio!
+Dialogue: 0,0:13:05.74,0:13:07.66,Default,,0,0,0,,Näytän teille
+Dialogue: 0,0:13:08.32,0:13:12.54,Default,,0,0,0,,todellisen onnen, josta ei puutu ketään.
+Dialogue: 0,0:13:13.66,0:13:16.17,Default,,0,0,0,,Voit rentoutua.
+Dialogue: 0,0:13:16.67,0:13:19.09,Default,,0,0,0,,Et ole syypää tähän.
+Dialogue: 0,0:13:19.17,0:13:20.63,Default,,0,0,0,,Et ole tehnyt mitään väärää.
+Dialogue: 0,0:13:21.13,0:13:26.05,Default,,0,0,0,,Antaudu autuaalle unelle,\Njota olet koko ajan etsinytkin.
+Dialogue: 0,0:13:26.13,0:13:27.30,Default,,0,0,0,,Taiyo.
+Dialogue: 0,0:13:27.97,0:13:31.06,Default,,0,0,0,,Olet kasvanut isoksi, Taiyo.
+Dialogue: 0,0:13:48.03,0:13:49.20,Default,,0,0,0,,{\i1}Äiti.{\i0}
+Dialogue: 0,0:13:54.58,0:13:57.58,Default,,0,0,0,,Anteeksi, että jätin sinut yksin, Taiyo.
+Dialogue: 0,0:13:59.00,0:14:02.59,Default,,0,0,0,,{\an8}KOULUNALOITUSJUHLA
+Dialogue: 0,0:14:14.56,0:14:15.56,Default,,0,0,0,,{\i1}Isä.{\i0}
+Dialogue: 0,0:14:16.60,0:14:19.60,Default,,0,0,0,,Olen kaivannut sinua, isoveli!
+Dialogue: 0,0:14:24.69,0:14:27.15,Default,,0,0,0,,PAINA!
+Dialogue: 0,0:14:27.95,0:14:30.07,Default,,0,0,0,,HÄVIÄJÄ - VOITTAJA
+Dialogue: 0,0:14:37.12,0:14:38.25,Default,,0,0,0,,{\i1}Hikaru.{\i0}
+Dialogue: 0,0:14:40.08,0:14:43.25,Default,,0,0,0,,Lopeta. Älä puhu perheestäni
+Dialogue: 0,0:14:43.34,0:14:46.55,Default,,0,0,0,,käyttämällä väärennettyjä kuvia ja ääniä!
+Dialogue: 0,0:14:47.05,0:14:48.59,Default,,0,0,0,,{\i1}En voi nähdä heitä enää koskaan.{\i0}
+Dialogue: 0,0:14:48.67,0:14:50.30,Default,,0,0,0,,{\i1}En voi puhua heille enää koskaan.{\i0}
+Dialogue: 0,0:14:50.38,0:14:51.93,Default,,0,0,0,,{\i1}En voi enää palata sinne.{\i0}
+Dialogue: 0,0:14:52.01,0:14:54.35,Default,,0,0,0,,Vaikka katuisin kuinka paljon,\Non liian myöhäistä.
+Dialogue: 0,0:14:54.43,0:14:56.85,Default,,0,0,0,,Vaikka kuinka välittäisin,\Nsiitä ei ole mitään hyötyä.
+Dialogue: 0,0:14:56.93,0:15:01.10,Default,,0,0,0,,{\i1}Rukoilin, huusin, raivosin, itkin…{\i0}
+Dialogue: 0,0:15:04.07,0:15:05.48,Default,,0,0,0,,Ja hyväksyin sen.
+Dialogue: 0,0:15:06.15,0:15:09.70,Default,,0,0,0,,Sitten sinun pitäisi hyväksyä vielä kerran
+Dialogue: 0,0:15:09.78,0:15:13.03,Default,,0,0,0,,tulevaisuus,\Njohon sinun oli aina määrä päätyä.
+Dialogue: 0,0:15:13.12,0:15:19.12,Default,,0,0,0,,Siten fiktiosta tulee todellisuutta,\Nja valheista tulee totta.
+Dialogue: 0,0:15:22.54,0:15:24.09,Default,,0,0,0,,Ja sitten näkee…
+Dialogue: 0,0:15:32.34,0:15:33.43,Default,,0,0,0,,Olen kotona!
+Dialogue: 0,0:15:34.30,0:15:35.60,Default,,0,0,0,,Isoveli!
+Dialogue: 0,0:15:37.06,0:15:38.72,Default,,0,0,0,,Pidä kiirettä, isoveli!
+Dialogue: 0,0:15:38.81,0:15:41.81,Default,,0,0,0,,Isoveli Nanaon karuselli on mahtava!
+Dialogue: 0,0:15:41.89,0:15:45.40,Default,,0,0,0,,Varovasti, Hikaru!\NKävellessä pitää katsoa eteenpäin.
+Dialogue: 0,0:15:45.48,0:15:47.61,Default,,0,0,0,,Hikaru on täynnä energiaa!
+Dialogue: 0,0:15:47.69,0:15:51.15,Default,,0,0,0,,Molemmat lapseni ovat poikia,\Njoten en saa hetken rauhaa.
+Dialogue: 0,0:15:51.24,0:15:53.45,Default,,0,0,0,,Siksi olen iloinen,
+Dialogue: 0,0:15:53.53,0:15:56.99,Default,,0,0,0,,että Mutsumi on Taiyon morsian!
+Dialogue: 0,0:15:58.20,0:16:00.79,Default,,0,0,0,,Täällä on nyt niin eloisaa,\Nettä minäkin olen onnellinen!
+Dialogue: 0,0:16:00.87,0:16:03.83,Default,,0,0,0,,Herra Momo, maistuisiko drinkki?
+Dialogue: 0,0:16:03.92,0:16:05.17,Default,,0,0,0,,Kuulostaa hyvältä!
+Dialogue: 0,0:16:05.25,0:16:08.00,Default,,0,0,0,,Jospa avaan toisen pullon\NYozakuran lumimyrskyä?
+Dialogue: 0,0:16:08.09,0:16:12.30,Default,,0,0,0,,Hei, Taiyo ja Hikaru! Tulkaa takaisin!
+Dialogue: 0,0:16:21.48,0:16:22.48,Default,,0,0,0,,{\i1}Ei.{\i0}
+Dialogue: 0,0:16:23.10,0:16:24.81,Default,,0,0,0,,{\i1}Tämä ei ole todellisuutta.{\i0}
+Dialogue: 0,0:16:25.44,0:16:26.44,Default,,0,0,0,,{\i1}Ja silti…{\i0}
+Dialogue: 0,0:16:29.61,0:16:31.40,Default,,0,0,0,,Mennään, isoveli.
+Dialogue: 0,0:16:41.79,0:16:42.79,Default,,0,0,0,,{\i1}Hemmetti!{\i0}
+Dialogue: 0,0:16:58.26,0:17:00.81,Default,,0,0,0,,Isoveli…
+Dialogue: 0,0:17:07.81,0:17:12.86,Default,,0,0,0,,Hyvin sinun tapaistasi\Ntehdä räväkkä sisääntulo, Kyoichiro.
+Dialogue: 0,0:17:12.94,0:17:15.91,Default,,0,0,0,,Istu alas.
+Dialogue: 0,0:17:38.39,0:17:39.89,Default,,0,0,0,,Isoveli Kyoichiro!
+Dialogue: 0,0:17:44.10,0:17:45.64,Default,,0,0,0,,Arachne, Jumalattaren verkko.
+Dialogue: 0,0:17:45.73,0:17:48.52,Default,,0,0,0,,Murtumaton muuri, joka eristää kaiken,
+Dialogue: 0,0:17:48.60,0:17:50.57,Default,,0,0,0,,salainen teräshämähäkkitekniikka.
+Dialogue: 0,0:17:51.15,0:17:52.44,Default,,0,0,0,,Ymmärrän.
+Dialogue: 0,0:17:52.53,0:17:55.32,Default,,0,0,0,,Siksi kirsikankukan tuoksu\Nei päässyt häneen käsiksi,
+Dialogue: 0,0:17:55.40,0:17:58.70,Default,,0,0,0,,eikä kukintani\Nvaikuttanut häneen lainkaan.
+Dialogue: 0,0:17:59.95,0:18:03.24,Default,,0,0,0,,Se on vihdoin täydellinen.\NYmmärrän, Kyoichiro.
+Dialogue: 0,0:18:03.74,0:18:07.00,Default,,0,0,0,,Muistelen lämmöllä päiviä,\Njolloin keksimme sen yhdessä.
+Dialogue: 0,0:18:07.08,0:18:10.84,Default,,0,0,0,,Taito, jonka loimme perheen vuoksi.
+Dialogue: 0,0:18:10.92,0:18:13.55,Default,,0,0,0,,Sitä ei siis pitänyt käyttää näin.
+Dialogue: 0,0:18:17.01,0:18:18.80,Default,,0,0,0,,Suojelen perhettäni
+Dialogue: 0,0:18:18.88,0:18:21.97,Default,,0,0,0,,kaikelta pahalta ja
+Dialogue: 0,0:18:24.52,0:18:27.52,Default,,0,0,0,,kaikelta, mitä aion tehdä nyt.
+Dialogue: 0,0:18:29.27,0:18:30.48,Default,,0,0,0,,Mahtavaa.
+Dialogue: 0,0:18:31.19,0:18:33.48,Default,,0,0,0,,Hienoa, Kyoichiro!
+Dialogue: 0,0:18:37.07,0:18:40.03,Default,,0,0,0,,{\i1}On totta, etten voi tuhota{\i0}\N{\i1}Arachnea, Jumalattaren verkkoa.{\i0}
+Dialogue: 0,0:18:40.11,0:18:41.12,Default,,0,0,0,,{\i1}Mutta…{\i0}
+Dialogue: 0,0:18:41.70,0:18:45.04,Default,,0,0,0,,{\i1}Minä opetin sinut käyttämään lankoja.{\i0}
+Dialogue: 0,0:18:45.66,0:18:48.41,Default,,0,0,0,,{\i1}Lankatekniikkasi on sielusi.{\i0}
+Dialogue: 0,0:18:48.50,0:18:52.88,Default,,0,0,0,,{\i1}Kudontamenetelmäsi osoittaa{\i0}\N{\i1}rakkautesi perhettäsi kohtaan.{\i0}
+Dialogue: 0,0:18:53.46,0:18:57.30,Default,,0,0,0,,{\i1}En ehkä voi rikkoa sitä,{\i0}\N{\i1}mutta voin purkaa sen,{\i0}
+Dialogue: 0,0:18:57.38,0:18:59.34,Default,,0,0,0,,{\i1}kuten voin purkaa sielusikin.{\i0}
+Dialogue: 0,0:18:59.43,0:19:04.68,Default,,0,0,0,,{\i1}Raivo ja viha, jota tunnet minua kohtaan…{\i0}\N{\i1}Et enää tarvitse sellaisia muistoja.{\i0}
+Dialogue: 0,0:19:04.76,0:19:08.27,Default,,0,0,0,,{\i1}Et enää usko,{\i0}\N{\i1}että sinun on tapettava minut.{\i0}
+Dialogue: 0,0:19:08.85,0:19:13.19,Default,,0,0,0,,{\i1}Tästä lähtien rakastat minua.{\i0}
+Dialogue: 0,0:19:43.89,0:19:46.10,Default,,0,0,0,,Olet työn touhussa jo varhain!
+Dialogue: 0,0:19:47.39,0:19:48.39,Default,,0,0,0,,Isä.
+Dialogue: 0,0:19:49.35,0:19:52.10,Default,,0,0,0,,Ottaisitko minut mukaan?
+Dialogue: 0,0:19:59.28,0:20:03.74,Default,,0,0,0,,Refleksisi eivät ole huonot,\Nmutta liikkeesi ovat liian suoraviivaisia.
+Dialogue: 0,0:20:03.82,0:20:07.79,Default,,0,0,0,,Sinun on torjuttava useita hyökkäyksiä\Nyhdellä ainoalla langalla.
+Dialogue: 0,0:20:07.87,0:20:10.66,Default,,0,0,0,,Murskata vihollinen puolustuksellasi.
+Dialogue: 0,0:20:14.96,0:20:19.17,Default,,0,0,0,,Tee se, niin saat\Naikaa hyökätä vihollista vastaan.
+Dialogue: 0,0:20:25.05,0:20:28.51,Default,,0,0,0,,Hyvä poika! Opit nopeasti.
+Dialogue: 0,0:20:28.60,0:20:29.68,Default,,0,0,0,,Ja nyt…
+Dialogue: 0,0:20:31.73,0:20:33.35,Default,,0,0,0,,Vau!
+Dialogue: 0,0:20:33.44,0:20:35.81,Default,,0,0,0,,Nämä ovat teräshämähäkin hanskat.
+Dialogue: 0,0:20:35.90,0:20:38.90,Default,,0,0,0,,Ne sopivat sinulle\Nenemmän kuin aseet tai veitset, vai mitä?
+Dialogue: 0,0:20:38.98,0:20:41.03,Default,,0,0,0,,Meillä on muuten samanlaiset!
+Dialogue: 0,0:20:42.19,0:20:45.61,Default,,0,0,0,,{\i1}Olet harjoitellut{\i0}\N{\i1}paljain käsin tähän asti,{\i0}
+Dialogue: 0,0:20:45.70,0:20:48.12,Default,,0,0,0,,{\i1}joten olet tuntenut{\i0}\N{\i1}kaikki lankojen liikkeet.{\i0}
+Dialogue: 0,0:20:48.20,0:20:51.75,Default,,0,0,0,,{\i1}Siksi langankäsittelytaitosi{\i0}\N{\i1}ovat hioutuneet.{\i0}
+Dialogue: 0,0:20:51.83,0:20:55.92,Default,,0,0,0,,{\i1}Seuraava askel on ymmärtää{\i0}\N{\i1}voiman todellinen luonne.{\i0}
+Dialogue: 0,0:20:56.92,0:20:59.92,Default,,0,0,0,,Miten haluat käyttää tätä voimaa?
+Dialogue: 0,0:21:00.59,0:21:03.88,Default,,0,0,0,,Käytän tätä voimaa kaikkien suojelemiseen.
+Dialogue: 0,0:21:04.59,0:21:06.22,Default,,0,0,0,,Niinkö?
+Dialogue: 0,0:21:06.30,0:21:09.39,Default,,0,0,0,,Langat pitävät viholliset loitolla\Nja suojaavat liittolaisiasi.
+Dialogue: 0,0:21:09.89,0:21:14.69,Default,,0,0,0,,Hanskat voivat olla ase,\Nmutta ne suojaavat myös käsiäsi.
+Dialogue: 0,0:21:14.77,0:21:16.98,Default,,0,0,0,,Panin koko sydämeni niiden kudontaan,
+Dialogue: 0,0:21:17.06,0:21:19.52,Default,,0,0,0,,jottet sinä loukkaantuisi.
+Dialogue: 0,0:21:19.61,0:21:21.65,Default,,0,0,0,,Pidä niistä hyvää huolta.
+Dialogue: 0,0:21:21.73,0:21:23.53,Default,,0,0,0,,Kiitos, isä.
+Dialogue: 0,0:21:24.32,0:21:26.11,Default,,0,0,0,,Vaalin niitä.
+Dialogue: 0,0:21:34.91,0:21:38.38,Default,,0,0,0,,Sinun ei tarvitse edes\Naivopestä minua, isä.
+Dialogue: 0,0:21:38.88,0:21:40.00,Default,,0,0,0,,Loppujen lopuksi
+Dialogue: 0,0:21:40.67,0:21:42.25,Default,,0,0,0,,minä rakastan sinua, isä.
+Dialogue: 0,0:21:42.76,0:21:44.13,Default,,0,0,0,,Silloin ja nyt.
+Dialogue: 0,0:21:47.18,0:21:51.18,Default,,0,0,0,,Siksi minun olisi pitänyt estää sinua,\Nmutta en voinut tehdä sitä.
+Dialogue: 0,0:21:51.68,0:21:52.68,Default,,0,0,0,,Koska
+Dialogue: 0,0:21:52.77,0:21:57.69,Default,,0,0,0,,toivoin kovasti, että perheeni palaisi.
+Dialogue: 0,0:21:58.73,0:22:00.82,Default,,0,0,0,,{\i1}Vaikka tiesin, ettei niin kävisi.{\i0}
+Dialogue: 0,0:22:01.73,0:22:03.03,Default,,0,0,0,,Me kaksi emme ole
+Dialogue: 0,0:22:03.11,0:22:04.24,Default,,0,0,0,,kovin erilaisia, isä.
+Dialogue: 0,0:22:07.40,0:22:10.87,Default,,0,0,0,,Lopetetaan tämä nyt, meidän vuoksemme.
+Dialogue: 0,0:22:33.26,0:22:35.56,Default,,0,0,0,,Hyvästi, isä.
+Dialogue: 0,0:24:16.91,0:24:18.91,Default,,0,0,0,,Käännös: Saara Patiris
+
