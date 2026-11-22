@@ -1,0 +1,335 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,20,20,20,1
+Style: Sign,Arial,21,&H00FFFFFF,&H000000FF,&H00292929,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,20,20,20,1
+Style: Italique,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,2,20,20,20,1
+Style: TiretsDefault,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,1,20,20,20,1
+Style: TiretsItalique,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2.5,0,1,20,20,20,1
+Style: Comps,Arial,20,&H00B4BD3C,&H000000FF,&H00F8FF8A,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.36,0:00:03.74,Sign,sign,0,0,0,,{\fad(465,500)\pos(175,270)}LES AVEUX DE BUIGO
+Dialogue: 0,0:00:00.74,0:00:04.46,Default,Lysia,0,0,0,,Il y a très certainement\Nquelqu’un derrière Buigo.
+Dialogue: 0,0:00:05.22,0:00:07.60,Default,Rossell,0,0,0,,Brotz l’aurait peut-être utilisé
+Dialogue: 0,0:00:07.78,0:00:10.40,Default,Rossell,0,0,0,,afin de porter préjudice\Nà Canarre.
+Dialogue: 0,0:00:10.72,0:00:14.82,Default,Rossell,0,0,0,,On ne se procure pas facilement\Ndes artefacts pouvant rendre invisible.
+Dialogue: 0,0:00:14.96,0:00:18.90,Default,Rossell,0,0,0,,Il se peut qu’il ait tout arrangé\Npour que Buigo les obtienne.
+Dialogue: 0,0:00:19.44,0:00:22.40,Default,Lysia,0,0,0,,Ce qu’il a dit\Nme préoccupe également.
+Dialogue: 0,0:00:22.84,0:00:27.54,Italique,Buigo,0,0,0,,Ah, et aussi, Brotz disait\Nqu’il fallait éliminer le petit seigneur.
+Dialogue: 0,0:00:27.74,0:00:31.42,Italique,Buigo,0,0,0,,Il répétait sans cesse\Nqu’il allait lui envoyer des assassins.
+Dialogue: 0,0:00:31.56,0:00:34.78,Default,Charlotte,0,0,0,,Mais pourquoi il irait crier ça\Nsur tous les toits ?
+Dialogue: 0,0:00:34.94,0:00:39.06,Default,Rossell,0,0,0,,Que l’ennemi le sache ou pas,\Nça ne change rien pour lui.
+Dialogue: 0,0:00:40.00,0:00:42.76,Default,Rossell,0,0,0,,Si jamais sire Ars se mure\Ndans son château,
+Dialogue: 0,0:00:42.90,0:00:46.22,Default,Rossell,0,0,0,,Canarre ne dénichera plus de talents\Net déclinera.
+Dialogue: 0,0:00:46.46,0:00:49.68,Default,Rossell,0,0,0,,Mais s’il poursuit son recrutement\Nsans faire attention,
+Dialogue: 0,0:00:49.82,0:00:53.06,Default,Rossell,0,0,0,,il se fera tuer par des assassins\Nenvoyés par Brotz.
+Dialogue: 0,0:00:53.42,0:00:56.66,Default,Rossell,0,0,0,,Le pouvoir de sire Ars\Nnaît de ses rencontres.
+Dialogue: 0,0:00:56.84,0:00:59.58,Default,Rossell,0,0,0,,Ce plan vise sûrement\Nà museler votre pouvoir.
+Dialogue: 0,0:00:59.78,0:01:03.78,Default,Ars,0,0,0,,En effet, il ne s’active\Nqu’en présence d’autrui,
+Dialogue: 0,0:01:03.94,0:01:08.32,Default,Ars,0,0,0,,mais je pense être en mesure\Nde démasquer ces assassins.
+Dialogue: 0,0:01:08.74,0:01:11.96,Default,Ars,0,0,0,,S’ils veulent tester mes yeux,\Nqu’ils s’approchent.
+Dialogue: 0,0:01:12.26,0:01:16.08,Default,Rietz,0,0,0,,Toutefois, sire Ars,\Nje vous prie de rester prudent.
+Dialogue: 0,0:01:16.50,0:01:20.58,Default,Rietz,0,0,0,,À l’avenir, nous ignorons\Nqui pourrait être un assassin.
+Dialogue: 0,0:01:21.36,0:01:24.26,Default,Madame,0,0,0,,Tu as bien compris ?\NNe va pas te louper !
+Dialogue: 0,0:02:49.26,0:02:55.02,Sign,sign,0,0,0,,{\fs20\pos(495.01,202.96)}As a {\c&H180D3D&\3c&HFFFFFF&}Reincarnated {\c&HFFFFFF&\3c&HCBBF7C&}Aristocrat\N{\3c&HB7C09D&}I’ll Use My Appraisal Skill\N{\3c&H94C39D&}to Rise in the World
+Dialogue: 0,0:02:55.28,0:02:57.78,Sign,sign,0,0,0,,{\fad(500,500)\pos(320,270)}UNE SEMAINE PLUS TARD
+Dialogue: 0,0:02:56.20,0:02:57.78,Default,Ars,0,0,0,,{\an8}Il y a trop d’aspirants !
+Dialogue: 0,0:02:57.90,0:03:01.16,Sign,sign,0,0,0,,{\fad(500,500)\fs14\blur2\3a&H80\pos(505,290)}ÉPISODE 33\N{\fs18}DES ANNÉES DE RANCŒUR
+Dialogue: 0,0:02:57.90,0:03:01.16,Sign,sign,0,0,0,,{\fad(500,500)\fs14\bord0\pos(505,290)}ÉPISODE 33\N{\fs18}DES ANNÉES DE RANCŒUR
+Dialogue: 0,0:02:57.98,0:03:00.60,Default,Ars,0,0,0,,{\an8}C’est le double\Nde la dernière fois !
+Dialogue: 0,0:03:00.82,0:03:03.30,Default,Rietz,0,0,0,,{\an8}C’est grâce aux exploits\Nde Canarre.
+Dialogue: 0,0:03:03.48,0:03:06.54,Default,Rietz,0,0,0,,Remporter des guerres\Nassure de bonnes conditions de vie.
+Dialogue: 0,0:03:06.82,0:03:09.54,Default,Rietz,0,0,0,,Beaucoup souhaitent\Nservir l’armée de Canarre.
+Dialogue: 0,0:03:09.70,0:03:13.24,Default,Charlotte,0,0,0,,Depuis l’arrivée de Musha,\Nil y a aussi plus de candidates.
+Dialogue: 0,0:03:13.72,0:03:18.26,Default,Rossell,0,0,0,,Certains viennent d’autres royaumes,\Nélargissant notre vivier de talents.
+Dialogue: 0,0:03:18.42,0:03:21.32,Italique,Ars,0,0,0,,Je vois, tout est lié.
+Dialogue: 0,0:03:21.54,0:03:25.14,Italique,Ars,0,0,0,,Réunir des talents\Nnous permet de gagner les guerres,
+Dialogue: 0,0:03:25.32,0:03:27.76,Italique,Ars,0,0,0,,et les victoires\Nattirent les talents.
+Dialogue: 0,0:03:28.68,0:03:31.92,Italique,Ars,0,0,0,,Je ne peux éviter les rencontres\Npar crainte des assassins.
+Dialogue: 0,0:03:32.76,0:03:36.76,Italique,Ars,0,0,0,,Pour le bien de Canarre,\Nje ne peux casser cette dynamique.
+Dialogue: 0,0:03:36.76,0:03:40.02,Sign,sign,0,0,0,,{\fad(465,500)\pos(175,280)}NOUVEAU TALENT
+Dialogue: 0,0:03:37.64,0:03:39.62,Default,Rietz,0,0,0,,Personne suivante, je vous prie.
+Dialogue: 0,0:03:47.90,0:03:59.92,Comps,sign,0,0,0,,{\fs20\3c&HB4BD3C&\c&HF8FF8A&\an8}ÉNANE ROUGES – 21 ANS
+Dialogue: 0,0:03:48.14,0:03:52.66,Italique,Ars,0,0,0,,Parmi les 50 candidats d’aujourd’hui,\Nsa sagesse est de loin la plus élevée !
+Dialogue: 0,0:03:52.80,0:03:57.38,Italique,Ars,0,0,0,,Et une aptitude S en armement ?\NJe n’ai pas vu ça depuis Shin !
+Dialogue: 0,0:03:57.56,0:04:01.48,Italique,Ars,0,0,0,,Elle pourrait peut-être l’aider\Nà concevoir son dirigeable.
+Dialogue: 0,0:03:59.92,0:04:04.42,Sign,sign,0,0,0,,NÉE EN 191, À MISSIAN\NPARENTS EN VIE, DEUX FRÈRES AÎNÉS
+Dialogue: 0,0:04:01.96,0:04:04.42,Italique,Ars,0,0,0,,Je ne vois rien de louche\Ndans son profil.
+Dialogue: 0,0:04:04.74,0:04:07.94,Italique,Ars,0,0,0,,Et sa force au combat est trop basse\Npour un assassin.
+Dialogue: 0,0:04:08.10,0:04:10.62,Italique,Ars,0,0,0,,Dire qu’il existe encore\Nde tels talents…
+Dialogue: 0,0:04:11.66,0:04:14.88,Default,Ars,0,0,0,,Je suis Ars Louvent,\Npréfet de Canarre.
+Dialogue: 0,0:04:15.06,0:04:17.14,Default,Ars,0,0,0,,Pouvez-vous vous présenter ?
+Dialogue: 0,0:04:24.56,0:04:28.82,Sign,sign,0,0,0,,NE POUVANT PARLER,\NPUIS-JE M’EXPRIMER PAR ÉCRIT ?
+Dialogue: 0,0:04:30.40,0:04:32.52,Default,Ars,0,0,0,,Oui, bien sûr.
+Dialogue: 0,0:04:39.02,0:04:43.34,Default,Ars,0,0,0,,« Énane Rouges. »\NVous venez de Coumeire, c’est ça ?
+Dialogue: 0,0:04:43.84,0:04:46.08,Default,Ars,0,0,0,,Votre écriture est très soignée.
+Dialogue: 0,0:04:48.92,0:04:50.34,Default,Ars,0,0,0,,Pourquoi postulez-vous ?
+Dialogue: 0,0:04:53.40,0:04:55.82,Default,Ars,0,0,0,,« Pour vous être utile. »
+Dialogue: 0,0:04:56.06,0:04:57.72,Default,Ars,0,0,0,,Je vois, c’est d’accord.
+Dialogue: 0,0:04:58.36,0:05:02.10,Default,Ars,0,0,0,,Dans ce cas, permettez-moi\Nde vous engager sans plus attendre !
+Dialogue: 0,0:05:04.66,0:05:05.74,Default,Rietz,0,0,0,,Remplissez ceci.
+Dialogue: 0,0:05:23.14,0:05:26.82,Default,Rietz,0,0,0,,Elle semblait un peu désemparée.\NEst-ce que tout ira bien ?
+Dialogue: 0,0:05:26.96,0:05:29.86,Default,Ars,0,0,0,,Oui, je n’ai rien lu\Nde suspect en elle.
+Dialogue: 0,0:05:30.00,0:05:31.84,Default,Ars,0,0,0,,Elle ne doit pas être un assassin.
+Dialogue: 0,0:05:31.98,0:05:33.56,Default,Charlotte,0,0,0,,Minute, là !
+Dialogue: 0,0:05:34.04,0:05:37.38,Default,Charlotte,0,0,0,,Mon intuition féminine\Nme dit qu’elle est louche !
+Dialogue: 0,0:05:38.78,0:05:39.76,Default,Lysia,0,0,0,,Je suis d’accord.
+Dialogue: 0,0:05:39.90,0:05:44.66,Default,Lysia,0,0,0,,Écrire avec une telle élégance\Nsans origine noble, c’est suspect.
+Dialogue: 0,0:05:44.94,0:05:48.52,Default,Lysia,0,0,0,,Sire Ars,\Nvous devriez enquêter sur elle.
+Dialogue: 0,0:05:48.68,0:05:51.02,Default,Famme,0,0,0,,Je partage l’avis de ces deux-là.
+Dialogue: 0,0:05:51.26,0:05:53.94,Default,Ars,0,0,0,,Famme,\Npourquoi pensez-vous cela ?
+Dialogue: 0,0:05:54.10,0:05:57.14,Default,Famme,0,0,0,,J’ignore l’objectif\Nde cette femme,
+Dialogue: 0,0:05:57.32,0:06:00.54,Default,Famme,0,0,0,,mais elle prenait des notes\Nen observant le château.
+Dialogue: 0,0:06:00.70,0:06:02.14,Default,Ars,0,0,0,,Elle a fait cela ?
+Dialogue: 0,0:06:02.36,0:06:06.92,Default,Ars,0,0,0,,Entendu. Famme, pourrais-je\Nvous demander d’enquêter sur elle ?
+Dialogue: 0,0:06:07.16,0:06:08.48,Default,Famme,0,0,0,,Compte sur moi.
+Dialogue: 0,0:06:22.44,0:06:26.32,Default,Madame,0,0,0,,Parfait, tu as réussi à t’attirer\Nles bonnes grâces de sire Ars.
+Dialogue: 0,0:06:31.10,0:06:33.32,Default,Ars,0,0,0,,Énane est une domestique ?
+Dialogue: 0,0:06:33.56,0:06:34.42,Default,Famme,0,0,0,,Oui.
+Dialogue: 0,0:06:34.58,0:06:38.58,Default,Famme,0,0,0,,Elle est entrée dans la maison\Nd’un marchand de Coumeire.
+Dialogue: 0,0:06:39.18,0:06:41.76,Default,Famme,0,0,0,,Apparemment,\Nelle y travaille comme servante.
+Dialogue: 0,0:06:42.44,0:06:44.44,Default,Ars,0,0,0,,Pourquoi a-t-elle postulé, alors ?
+Dialogue: 0,0:06:44.64,0:06:47.20,Default,Ars,0,0,0,,Elle devrait déjà\Nbien gagner sa vie.
+Dialogue: 0,0:06:47.62,0:06:50.54,Default,Famme,0,0,0,,T’en fais pas.\NJe m’occupe de tirer ça au clair.
+Dialogue: 0,0:06:49.60,0:06:52.98,Sign,sign,0,0,0,,{\fad(465,500)\pos(200,270)}INFILTRATION COMME DOMESTIQUE
+Dialogue: 0,0:06:55.86,0:06:59.48,Default,Famme,0,0,0,,Tenez, madame.\NIls sortent tout juste du four !
+Dialogue: 0,0:06:59.62,0:07:02.98,Default,Madame,0,0,0,,Quelle merveille !\NTout a l’air délicieux !
+Dialogue: 0,0:07:03.32,0:07:07.98,Default,Madame,0,0,0,,Tu es aussi belle que serviable, Rin.\NJ’ai bien fait de t’engager.
+Dialogue: 0,0:07:08.38,0:07:09.98,Default,Madame,0,0,0,,Contrairement à elle…
+Dialogue: 0,0:07:10.34,0:07:13.12,Default,Madame,0,0,0,,Cette fille est d’un sinistre…
+Dialogue: 0,0:07:13.42,0:07:15.50,Default,Madame,0,0,0,,Allez, régalons-nous\Ntous ensemble.
+Dialogue: 0,0:07:15.66,0:07:16.68,Default,Servantes,0,0,0,,Oui, madame.
+Dialogue: 0,0:07:17.30,0:07:21.62,Default,Famme,0,0,0,,Dis, Madame n’est pas\Nun peu dure avec Énane ?
+Dialogue: 0,0:07:21.76,0:07:23.38,Default,Servante A,0,0,0,,Si, c’est étrange.
+Dialogue: 0,0:07:23.52,0:07:25.60,Default,Servante A,0,0,0,,Elle est d’ordinaire très gentille,
+Dialogue: 0,0:07:25.78,0:07:29.00,Default,Servante A,0,0,0,,mais avec Énane,\Nelle est toujours acerbe.
+Dialogue: 0,0:07:29.32,0:07:32.18,Default,Servante A,0,0,0,,C’est pourtant\Nla plus compétente de nous toutes.
+Dialogue: 0,0:07:32.32,0:07:36.56,Default,Servante A,0,0,0,,Énane est la seule à être restée,\Ndu temps de la première épouse.
+Dialogue: 0,0:07:37.34,0:07:40.42,Default,Famme,0,0,0,,En tout cas, cette demeure\Nest vraiment immense !
+Dialogue: 0,0:07:40.60,0:07:44.90,Default,Servante A,0,0,0,,Eh oui ! C’est l’une des plus grandes\Nmaisons de commerce de Coumeire.
+Dialogue: 0,0:07:45.12,0:07:48.92,Default,Servante A,0,0,0,,Étant donné que Monsieur voyage\Nsans cesse, on le voit rarement ici.
+Dialogue: 0,0:07:49.10,0:07:53.16,Default,Servante A,0,0,0,,Sa première épouse avait un grand cœur,\Nmais la maladie l’a emportée.
+Dialogue: 0,0:07:53.52,0:07:56.96,Default,Servante A,0,0,0,,L’actuelle maîtresse de maison\Nest arrivée ensuite.
+Dialogue: 0,0:07:58.88,0:08:01.90,Default,Famme,0,0,0,,Pourquoi Énane ne parle pas ?\NElle est malade ?
+Dialogue: 0,0:08:02.06,0:08:03.20,Default,Servante A,0,0,0,,Qui sait ?
+Dialogue: 0,0:08:03.36,0:08:06.92,Default,Servante A,0,0,0,,Il paraît qu’elle parlait\Navec l’ancienne épouse.
+Dialogue: 0,0:08:07.06,0:08:09.34,Default,Famme,0,0,0,,Elle a changé de comportement,\Nrécemment ?
+Dialogue: 0,0:08:09.48,0:08:12.50,Default,Famme,0,0,0,,Du genre, elle s’est rendue à Seitz,\Nou autre part ?
+Dialogue: 0,0:08:12.66,0:08:14.94,Default,Servante A,0,0,0,,Non, pas à ma connaissance.
+Dialogue: 0,0:08:15.08,0:08:17.30,Default,Servante A,0,0,0,,Elle est originaire de Coumeire…
+Dialogue: 0,0:08:17.52,0:08:21.62,Italique,Famme,0,0,0,,Cette Énane Rouges\Na trop de zones d’ombre.
+Dialogue: 0,0:08:21.90,0:08:24.30,Italique,Famme,0,0,0,,Je vais devoir\Nl’approcher directement.
+Dialogue: 0,0:08:26.72,0:08:29.06,Default,Servante A,0,0,0,,Énane doit tout nettoyer\Ntoute seule ?
+Dialogue: 0,0:08:29.32,0:08:31.98,Default,Madame,0,0,0,,La marquise nous rend visite\Naprès-demain.
+Dialogue: 0,0:08:32.12,0:08:34.56,Default,Madame,0,0,0,,Tout doit être impeccable\Nau plus vite.
+Dialogue: 0,0:08:34.88,0:08:39.06,Default,Servante A,0,0,0,,Certes, mais la nuit va bientôt tomber.\NLaissez-nous au moins l’aider.
+Dialogue: 0,0:08:39.24,0:08:42.82,Default,Madame,0,0,0,,Je demande ça à Énane\Nparce que je l’en sais capable.
+Dialogue: 0,0:08:43.00,0:08:44.96,Default,Madame,0,0,0,,Tu sauras bien te débrouiller…
+Dialogue: 0,0:08:47.12,0:08:49.18,Default,Madame,0,0,0,,Interdiction de l’aider.
+Dialogue: 0,0:08:49.32,0:08:52.38,Default,Madame,0,0,0,,Dépêchons, il va bientôt pleuvoir.
+Dialogue: 0,0:09:07.18,0:09:10.12,Default,Famme,0,0,0,,Même à deux, ça prendra du temps.\NJe vais t’aider.
+Dialogue: 0,0:09:24.78,0:09:26.84,Default,Famme,0,0,0,,On a enfin fini !
+Dialogue: 0,0:09:27.10,0:09:28.94,Default,Famme,0,0,0,,Je suis exténuée !
+Dialogue: 0,0:09:29.10,0:09:33.52,Default,Famme,0,0,0,,Franchement,\NMadame nous demande l’impossible.
+Dialogue: 0,0:09:34.34,0:09:36.36,Default,Famme,0,0,0,,« Merci », tu dis ?
+Dialogue: 0,0:09:36.52,0:09:38.78,Default,Famme,0,0,0,,Ah, ne t’inquiète pas !
+Dialogue: 0,0:09:38.92,0:09:42.74,Default,Famme,0,0,0,,Voir la tête dépitée de Madame\Nvalait bien tous ces efforts.
+Dialogue: 0,0:09:44.30,0:09:46.94,Sign,sign,0,0,0,,IL FAUDRAIT L’ENCADRER À L’ENTRÉE
+Dialogue: 0,0:09:47.96,0:09:49.80,Default,Famme,0,0,0,,Excellente idée !
+Dialogue: 0,0:09:50.40,0:09:54.04,Default,Famme,0,0,0,,Mais si on faisait ça,\Nça ferait fuir les clients.
+Dialogue: 0,0:09:53.66,0:09:56.48,Sign,sign,0,0,0,,ON Y AJOUTERAIT UNE PLAQUE\N« LA STUPEUR »
+Dialogue: 0,0:09:57.42,0:10:02.16,Italique,Famme,0,0,0,,Je la croyais morose, au début,\Nmais ça n’a pas l’air d’être le cas.
+Dialogue: 0,0:10:02.44,0:10:04.98,Italique,Famme,0,0,0,,Elle était très à l’aise\Navec la faux.
+Dialogue: 0,0:10:05.12,0:10:08.40,Italique,Famme,0,0,0,,Ars n’a pas l’air de s’être trompé\Nsur ses capacités.
+Dialogue: 0,0:10:09.10,0:10:11.94,Italique,Famme,0,0,0,,Je vais rester\Nencore un peu infiltré.
+Dialogue: 0,0:10:42.52,0:10:44.96,Italique,Famme,0,0,0,,Qu’est-ce qu’elle fabrique\Nen pleine nuit ?
+Dialogue: 0,0:10:47.72,0:10:49.64,Italique,Famme,0,0,0,,Où est-ce qu’elle va ?
+Dialogue: 0,0:10:53.38,0:10:57.00,Sign,sign,0,0,0,,{\fs14\an3\fad(500,0)\pos(606.223,263.778)}As a {\c&H180D3D&\3c&HFFFFFF&}Reincarnated {\c&HFFFFFF&\3c&HCBBF7C&}Aristocrat\N{\3c&HB7C09D&}I’ll Use My Appraisal Skill\N{\3c&H94C39D&}to Rise in the World
+Dialogue: 0,0:10:53.82,0:10:55.18,Italique,Famme,0,0,0,,Elle a disparu ?
+Dialogue: 0,0:10:57.06,0:11:00.38,Sign,sign,0,0,0,,{\fs14\an1\fad(400,400)\pos(35.556,263.778)}As a {\c&H180D3D&\3c&HFFFFFF&}Reincarnated {\c&HFFFFFF&\3c&HCBBF7C&}Aristocrat\N{\3c&HB7C09D&}I’ll Use My Appraisal Skill\N{\3c&H94C39D&}to Rise in the World
+Dialogue: 0,0:11:00.60,0:11:03.50,Italique,Famme,0,0,0,,{\an8}C’est ici qu’Énane\Ns’est volatilisée, hier soir.
+Dialogue: 0,0:11:00.60,0:11:04.02,Sign,sign,0,0,0,,{\fad(465,500)\pos(175,280)}LE MYSTÈRE D’ÉNANE
+Dialogue: 0,0:11:04.02,0:11:05.60,Italique,Famme,0,0,0,,{\an8}Où a-t-elle pu disparaître ?
+Dialogue: 0,0:11:35.98,0:11:39.68,Default,Famme,0,0,0,,Ars avait raison,\Nses capacités semblent réelles.
+Dialogue: 0,0:11:41.66,0:11:44.32,Default,Famme,0,0,0,,Quoi ?\NDes notes sur des herbes toxiques ?
+Dialogue: 0,0:11:44.94,0:11:47.94,Default,Famme,0,0,0,,Elle chercherait\Nà empoisonner Ars ?
+Dialogue: 0,0:11:54.38,0:11:55.40,Default,Famme,0,0,0,,Un journal ?
+Dialogue: 0,0:11:56.16,0:11:57.68,Italique,Énane,0,0,0,,Le 8 juillet.
+Dialogue: 0,0:11:57.88,0:12:01.94,Italique,Énane,0,0,0,,Afin de m’exercer à écrire,\Nj’ai décidé de tenir un journal.
+Dialogue: 0,0:12:03.20,0:12:05.70,Sign,sign,0,0,0,,ÉNANE – 15 ANS
+Dialogue: 0,0:12:03.36,0:12:05.70,Italique,Énane,0,0,0,,Regardez, madame !\NJ’ai terminé !
+Dialogue: 0,0:12:05.86,0:12:09.68,Italique,Ancienne épouse,0,0,0,,Il est magnifique.\NTu es bien plus douée que moi.
+Dialogue: 0,0:12:09.86,0:12:12.66,Italique,Ancienne épouse,0,0,0,,Tu maîtrises aussitôt\Ntout ce qu’on t’enseigne.
+Dialogue: 0,0:12:12.84,0:12:15.20,Italique,Ancienne épouse,0,0,0,,Tu apprends vraiment vite.
+Dialogue: 0,0:12:15.64,0:12:18.00,Italique,Énane,0,0,0,,Madame m’a appris\Nénormément de choses,
+Dialogue: 0,0:12:18.13,0:12:20.52,Italique,Énane,0,0,0,,depuis mon entrée à son service.
+Dialogue: 0,0:12:20.70,0:12:23.96,Italique,Ancienne épouse,0,0,0,,D’accord ? Cette pièce doit rester\Ninconnue de mon époux.
+Dialogue: 0,0:12:24.12,0:12:26.84,Italique,Énane,0,0,0,,Entendu !\NCe sera notre secret à nous.
+Dialogue: 0,0:12:27.30,0:12:28.68,Italique,Ancienne épouse,0,0,0,,Dis, Énane.
+Dialogue: 0,0:12:29.40,0:12:32.22,Italique,Ancienne épouse,0,0,0,,Tu devras quitter cette maison,\Nun jour.
+Dialogue: 0,0:12:32.42,0:12:34.98,Italique,Ancienne épouse,0,0,0,,Je te libérerai de tes obligations.
+Dialogue: 0,0:12:35.68,0:12:38.82,Italique,Énane,0,0,0,,Pourquoi ? Je ne fais pas bien\Nles tâches ménagères ?
+Dialogue: 0,0:12:39.00,0:12:42.92,Italique,Ancienne épouse,0,0,0,,Au contraire, tu es bien trop douée\Npour rester domestique.
+Dialogue: 0,0:12:43.18,0:12:46.60,Italique,Ancienne épouse,0,0,0,,Tu dois apprendre un autre métier\Net devenir indépendante.
+Dialogue: 0,0:12:46.74,0:12:49.62,Italique,Ancienne épouse,0,0,0,,Tu gagneras davantage ainsi.
+Dialogue: 0,0:12:49.96,0:12:54.50,Italique,Ancienne épouse,0,0,0,,Voyons voir. Avec tes mains d’orfèvre,\Ntu devrais devenir artisane.
+Dialogue: 0,0:12:54.96,0:12:57.66,Italique,Ancienne épouse,0,0,0,,Tu feras une créatrice\Nd’exception.
+Dialogue: 0,0:13:01.26,0:13:05.46,Italique,Énane,0,0,0,,Non, madame ! Je souhaite\Nrester à vos côtés pour toujours.
+Dialogue: 0,0:13:05.74,0:13:08.04,Italique,Ancienne épouse,0,0,0,,Vraiment,\Ntu ne me laisses pas le choix.
+Dialogue: 0,0:13:08.20,0:13:09.70,Italique,Ancienne épouse,0,0,0,,Mais cela me touche.
+Dialogue: 0,0:13:09.90,0:13:11.96,Italique,Ancienne épouse,0,0,0,,Au fait, tu sais écrire ?
+Dialogue: 0,0:13:12.38,0:13:13.32,Italique,Énane,0,0,0,,Non…
+Dialogue: 0,0:13:13.48,0:13:16.02,Italique,Ancienne épouse,0,0,0,,D’accord, je vais t’apprendre !
+Dialogue: 0,0:13:17.16,0:13:21.48,Italique,Énane,0,0,0,,Peu après, Madame est décédée\Nd’une maladie inconnue.
+Dialogue: 0,0:13:23.82,0:13:28.80,Default,Famme,0,0,0,,Elle doit donc sa belle écriture\Nà l’ancienne épouse.
+Dialogue: 0,0:13:37.42,0:13:40.82,Default,Famme,0,0,0,,C’est déjà la pause déjeuner.\NAllons manger.
+Dialogue: 0,0:13:45.52,0:13:49.90,Default,Famme,0,0,0,,« J’ai une course à faire\Npour Madame. »
+Dialogue: 0,0:13:50.10,0:13:51.82,Default,Famme,0,0,0,,Ah, d’accord !
+Dialogue: 0,0:13:55.25,0:13:57.88,Default,Servante A,0,0,0,,Mais non, je suis sûre\Nque cela t’irait à ravir.
+Dialogue: 0,0:13:58.14,0:14:01.26,Default,Famme,0,0,0,,Au fait, où Énane est-elle partie\Nfaire les courses ?
+Dialogue: 0,0:14:01.46,0:14:04.28,Default,Servante A,0,0,0,,Hein ?\NCe n’est pas le jour des courses.
+Dialogue: 0,0:14:04.60,0:14:08.36,Default,Servante A,0,0,0,,Ça lui arrive de s’éclipser\Nà l’heure du déjeuner.
+Dialogue: 0,0:14:08.56,0:14:10.28,Default,Servante B,0,0,0,,Ah oui, c’est vrai.
+Dialogue: 0,0:14:10.76,0:14:12.70,Italique,Famme,0,0,0,,Ça vaut la peine de la suivre.
+Dialogue: 0,0:14:13.02,0:14:15.28,Default,Homme de main A,0,0,0,,Hé, on n’a plus\Nune goutte d’alcool.
+Dialogue: 0,0:14:16.44,0:14:19.04,Default,Homme de main A,0,0,0,,Oh, tu as un joli minois, toi.
+Dialogue: 0,0:14:19.42,0:14:23.04,Default,Servante A,0,0,0,,Hé oh ! L’embêtez pas !\NElle vient tout juste d’arriver.
+Dialogue: 0,0:14:23.22,0:14:27.04,Default,Servante A,0,0,0,,Bon sang, vous avez déjà bu\Ntout ce qu’on vous a donné ?
+Dialogue: 0,0:14:27.22,0:14:30.30,Default,Servante B,0,0,0,,Tout va bien, Rin ?\NTu as dû avoir peur.
+Dialogue: 0,0:14:30.46,0:14:33.02,Default,Famme,0,0,0,,Qui sont ces gens\Nà l’allure sinistre ?
+Dialogue: 0,0:14:33.18,0:14:36.00,Default,Servante B,0,0,0,,Madame les a fait venir\Npour protéger le domaine,
+Dialogue: 0,0:14:36.18,0:14:38.18,Default,Servante B,0,0,0,,et ils se sont installés ici.
+Dialogue: 0,0:14:38.62,0:14:40.90,Default,Servante B,0,0,0,,Ces types sont difficiles à cerner.
+Dialogue: 0,0:14:41.10,0:14:44.16,Default,Servante B,0,0,0,,Ils s’enivrent toute la journée\Net ne songent qu’à jouer.
+Dialogue: 0,0:14:44.34,0:14:47.34,Default,Servante C,0,0,0,,À se demander pourquoi\NMadame les a embauchés.
+Dialogue: 0,0:14:53.24,0:14:57.32,Default,Madame,0,0,0,,Et donc, le château de Canarre\Nne t’a toujours pas répondu ?
+Dialogue: 0,0:14:57.32,0:15:00.76,Sign,sign,0,0,0,,{\fad(465,500)\pos(175,280)}RÉVÉLATION
+Dialogue: 0,0:14:58.56,0:15:00.40,Default,Madame,0,0,0,,Ils tardent, dis donc.
+Dialogue: 0,0:15:01.24,0:15:05.58,Default,Madame,0,0,0,,Cette gorge que je t’ai écrasée\Nsemble toujours inutilisable.
+Dialogue: 0,0:15:09.12,0:15:12.60,Italique,Énane,0,0,0,,Peu après que la maladie\Na emporté Madame,
+Dialogue: 0,0:15:12.96,0:15:15.30,Italique,Énane,0,0,0,,une nouvelle épouse est arrivée.
+Dialogue: 0,0:15:16.28,0:15:19.02,Italique,Énane,0,0,0,,Elle disait avoir été\Nl’amie de la précédente
+Dialogue: 0,0:15:19.16,0:15:23.08,Italique,Énane,0,0,0,,et me remontait le moral,\Nà moi qui étais abattue.
+Dialogue: 0,0:15:23.92,0:15:25.22,Italique,Énane,0,0,0,,Jusqu’à cette nuit.
+Dialogue: 0,0:15:26.14,0:15:28.98,Italique,Énane,0,0,0,,Vous voulez déplacer sa tombe ?
+Dialogue: 0,0:15:29.24,0:15:34.16,Italique,Énane,0,0,0,,Certes, Monsieur voulait l’installer\Nvers un endroit qui a une belle vue,
+Dialogue: 0,0:15:34.36,0:15:37.34,Italique,Énane,0,0,0,,mais ne vaut-il pas mieux\Nattendre son retour ?
+Dialogue: 0,0:15:37.52,0:15:40.62,Italique,Madame,0,0,0,,Je ne souhaite pas l’importuner\Navec ces futilités.
+Dialogue: 0,0:15:40.78,0:15:43.62,Italique,Madame,0,0,0,,Tu n’as pas besoin de nous aider,\Nc’est dangereux.
+Dialogue: 0,0:15:47.06,0:15:50.98,Italique,Énane,0,0,0,,Je ne peux laisser Madame seule\Npar une telle tempête.
+Dialogue: 0,0:15:51.56,0:15:53.06,Italique,Énane,0,0,0,,Je me dois de l’aider.
+Dialogue: 0,0:15:54.48,0:15:57.72,Italique,Homme de main A,0,0,0,,Bordel, voilà où ça nous mène,\Nces herbes toxiques.
+Dialogue: 0,0:15:57.96,0:15:59.46,Italique,Madame,0,0,0,,Pour la faire disparaître,
+Dialogue: 0,0:15:59.70,0:16:03.46,Italique,Madame,0,0,0,,l’infusion d’herbe de deo\Nétait la solution la plus efficace.
+Dialogue: 0,0:16:03.64,0:16:07.22,Italique,Madame,0,0,0,,Grâce à cela,\Nnul n’a soupçonné un empoisonnement.
+Dialogue: 0,0:16:07.38,0:16:09.36,Italique,Madame,0,0,0,,Allez, qu’on en finisse vite.
+Dialogue: 0,0:16:09.56,0:16:13.24,Italique,Madame,0,0,0,,Tout cela aura été vain,\Nsi ses os révèlent les traces de poison.
+Dialogue: 0,0:16:13.62,0:16:14.74,Italique,Énane,0,0,0,,Ce n’est pas vrai…
+Dialogue: 0,0:16:15.40,0:16:16.74,Italique,Énane,0,0,0,,Madame…
+Dialogue: 0,0:16:20.66,0:16:22.40,Italique,Énane,0,0,0,,a été assassinée !
+Dialogue: 0,0:16:22.54,0:16:23.92,Italique,Madame,0,0,0,,Tiens donc, Énane ?
+Dialogue: 0,0:16:24.06,0:16:28.28,Italique,Énane,0,0,0,,Pourquoi ? Pourquoi l’avoir tuée ?\NCe n’était pas votre amie ?
+Dialogue: 0,0:16:28.66,0:16:31.40,Italique,Madame,0,0,0,,Pourquoi ?\NParce qu’elle me gênait.
+Dialogue: 0,0:16:31.54,0:16:33.80,Italique,Madame,0,0,0,,Tout le monde rêve\Nd’épouser un marchand.
+Dialogue: 0,0:16:34.06,0:16:35.92,Italique,Énane,0,0,0,,Seulement pour ça ?
+Dialogue: 0,0:16:36.88,0:16:38.56,Italique,Énane,0,0,0,,Comment avez-vous osé ?
+Dialogue: 0,0:16:39.00,0:16:40.40,Italique,Énane,0,0,0,,Vous le paierez !
+Dialogue: 0,0:16:40.86,0:16:43.56,Italique,Homme de main B,0,0,0,,On fait quoi d’elle ? On l’élimine ?
+Dialogue: 0,0:16:43.72,0:16:47.12,Italique,Homme de main A,0,0,0,,Non. Deux morts d’affilée,\Nça va éveiller les soupçons.
+Dialogue: 0,0:16:47.28,0:16:52.06,Italique,Homme de main C,0,0,0,,En plus, Monsieur l’a à la bonne.\NOn peut pas la virer sans raison.
+Dialogue: 0,0:16:52.50,0:16:54.44,Italique,Madame,0,0,0,,Dans ce cas, soit.
+Dialogue: 0,0:16:54.80,0:16:57.20,Italique,Madame,0,0,0,,Faites-lui passer\Nl’envie de moucharder.
+Dialogue: 0,0:16:57.58,0:16:59.34,Italique,Madame,0,0,0,,Réduisez-la au silence.
+Dialogue: 0,0:17:03.72,0:17:08.08,Italique,Énane,0,0,0,,La gorge écrasée,\Nje ne pouvais plus parler.
+Dialogue: 0,0:17:08.68,0:17:11.26,Italique,Énane,0,0,0,,Et toutes les preuves\Nont été détruites.
+Dialogue: 0,0:17:11.80,0:17:14.35,Italique,Énane,0,0,0,,Si rien n’est fait,\Njustice ne sera pas rendue.
+Dialogue: 0,0:17:16.80,0:17:18.14,Italique,Énane,0,0,0,,Je suis prête à tout
+Dialogue: 0,0:17:18.92,0:17:21.22,Italique,Énane,0,0,0,,pour exposer ce crime\Nau grand jour !
+Dialogue: 0,0:17:24.18,0:17:26.58,Default,Homme de main C,0,0,0,,Et ensuite, on fait quoi ?
+Dialogue: 0,0:17:26.72,0:17:30.54,Default,Madame,0,0,0,,On se servira d’elle pour vendre\Nnos produits au château de Canarre.
+Dialogue: 0,0:17:30.68,0:17:35.36,Default,Madame,0,0,0,,Vu que le préfet paie généreusement,\Nnous deviendrons encore plus riches.
+Dialogue: 0,0:17:35.50,0:17:37.10,Default,Homme de main A,0,0,0,,Ce plan est digne de vous.
+Dialogue: 0,0:17:39.00,0:17:42.14,Default,Madame,0,0,0,,« Je ne suivrai plus vos ordres.
+Dialogue: 0,0:17:42.30,0:17:45.12,Default,Madame,0,0,0,,Je ferai part de vos méfaits\Nà sire Ars.
+Dialogue: 0,0:17:45.28,0:17:47.72,Default,Madame,0,0,0,,Rendez-vous\Navant qu’il ne soit trop tard ! »
+Dialogue: 0,0:17:49.00,0:17:52.46,Default,Madame,0,0,0,,Aurais-tu oublié ce qu’il en coûte\Nde s’opposer à moi ?
+Dialogue: 0,0:17:57.34,0:18:01.84,Default,Famme,0,0,0,,Fini la mascarade. Dire que la femme\Nd’un marchand était une meurtrière…
+Dialogue: 0,0:18:02.02,0:18:05.10,Default,Madame,0,0,0,,Tu n’es pas notre servante ?\NQui es-tu, au juste ?
+Dialogue: 0,0:18:05.30,0:18:06.96,Default,Famme,0,0,0,,Ça a dû être dur, Énane.
+Dialogue: 0,0:18:07.10,0:18:09.88,Default,Famme,0,0,0,,Ton calvaire est terminé.\NLaisse-moi faire.
+Dialogue: 0,0:18:11.06,0:18:13.66,Default,Madame,0,0,0,,Tu veux que je t’écrase la gorge,\Nà toi aussi ?
+Dialogue: 0,0:18:14.48,0:18:16.14,Default,Famme,0,0,0,,Elle est impulsive, la vieille…
+Dialogue: 0,0:18:16.30,0:18:18.40,TiretsDefault,Madame / Homme de main A et B,237,0,0,,– Dépêchez-vous !\N– Oui !
+Dialogue: 0,0:18:28.62,0:18:30.16,Default,Famme,0,0,0,,Tu as demandé qui j’étais ?
+Dialogue: 0,0:18:30.32,0:18:34.78,Default,Famme,0,0,0,,Je suis Famme, vassal d’Ars Louvent,\Nle préfet de Canarre.
+Dialogue: 0,0:18:34.98,0:18:37.92,Default,Famme,0,0,0,,Et aussi,\Nle commandant des Shadow.
+Dialogue: 0,0:18:38.10,0:18:39.92,Default,Homme de main C,0,0,0,,Un envoyé de Canarre ?
+Dialogue: 0,0:18:40.18,0:18:42.80,Default,Madame,0,0,0,,Et alors ?\NVous n’avez pas la moindre preuve.
+Dialogue: 0,0:18:43.62,0:18:48.60,Default,Famme,0,0,0,,Les outils utilisés pour l’exhumation,\Nle témoignage du vendeur de poison
+Dialogue: 0,0:18:48.80,0:18:53.82,Default,Famme,0,0,0,,et la liste des toxines relevées\Ndans les ossements de l’ancienne épouse.
+Dialogue: 0,0:18:54.08,0:18:55.56,Default,Famme,0,0,0,,Pas vrai, Énane ?
+Dialogue: 0,0:18:57.06,0:19:00.50,Sign,sign,0,0,0,,{\fad(465,500)\pos(175,280)}ÉNANE ROUGES
+Dialogue: 0,0:18:57.06,0:18:59.40,Default,Madame,0,0,0,,{\an8}Tout cela n’est que foutaises !
+Dialogue: 0,0:18:59.54,0:19:02.32,Default,Madame,0,0,0,,{\an8}Nous avons jeté tous ses os\Ndans la rivière.
+Dialogue: 0,0:19:06.06,0:19:08.28,Italique,Énane,0,0,0,,Il s’agit de l’os de Madame.
+Dialogue: 0,0:19:18.48,0:19:19.98,Italique,Énane,0,0,0,,Madame…
+Dialogue: 0,0:19:21.48,0:19:24.96,Default,Madame,0,0,0,,Impossible.\NMon plan était pourtant parfait.
+Dialogue: 0,0:19:27.38,0:19:30.28,Italique,Énane,0,0,0,,Que ma gorge ait été écrasée\Nm’importe peu.
+Dialogue: 0,0:19:30.76,0:19:31.70,Italique,Énane,0,0,0,,Par contre,
+Dialogue: 0,0:19:32.48,0:19:36.78,Italique,Énane,0,0,0,,je ne vous pardonnerai jamais\Nd’avoir tué Madame !
+Dialogue: 0,0:19:40.42,0:19:41.74,Default,Ars,0,0,0,,Ce n’est pas vrai !
+Dialogue: 0,0:19:41.92,0:19:43.86,Default,Famme,0,0,0,,La seconde épouse a été arrêtée.
+Dialogue: 0,0:19:44.06,0:19:45.86,Default,Famme,0,0,0,,Avec toutes ces accusations,
+Dialogue: 0,0:19:46.02,0:19:49.36,Default,Famme,0,0,0,,elle ne sortira pas de sitôt,\Nde même que ses sbires.
+Dialogue: 0,0:19:49.62,0:19:53.14,Default,Rietz,0,0,0,,Cela explique\Nle comportement étrange d’Énane.
+Dialogue: 0,0:19:53.96,0:19:58.44,Default,Ars,0,0,0,,Étant le préfet de la région,\Nj’ai aussi une part de responsabilité.
+Dialogue: 0,0:19:58.76,0:20:02.62,Default,Ars,0,0,0,,À l’avenir, au moindre souci,\Nveuillez m’en faire part.
+Dialogue: 0,0:20:02.78,0:20:07.18,Default,Ars,0,0,0,,Mon devoir est de protéger\Nles honnêtes gens de Canarre.
+Dialogue: 0,0:20:09.18,0:20:10.92,Default,Ars,0,0,0,,Quel dommage, quand même !
+Dialogue: 0,0:20:11.06,0:20:14.54,Default,Ars,0,0,0,,Vous n’étiez donc pas venue\Npour devenir ma vassale.
+Dialogue: 0,0:20:14.72,0:20:18.74,Default,Ars,0,0,0,,Prenez garde en rentrant chez vous.\NJe vous souhaite le meilleur.
+Dialogue: 0,0:20:20.98,0:20:22.78,Default,Famme,0,0,0,,Ça te va comme fin, Énane ?
+Dialogue: 0,0:20:23.10,0:20:25.70,Default,Famme,0,0,0,,Tu vas retourner\Nà ta vie de domestique ?
+Dialogue: 0,0:20:25.92,0:20:30.48,Default,Famme,0,0,0,,Cet endroit n’est pas si mal.\NTu pourrais y développer tes talents.
+Dialogue: 0,0:20:30.92,0:20:33.92,Default,Famme,0,0,0,,Ton ancienne maîtresse\Nl’aurait sûrement souhaité.
+Dialogue: 0,0:20:38.80,0:20:43.14,Italique,Énane,0,0,0,,Si nous travaillions ensemble,\Npourrions-nous devenir amis ?
+Dialogue: 0,0:20:45.10,0:20:47.04,Default,Famme,0,0,0,,Ouais, c’est sûr.
+Dialogue: 0,0:20:47.74,0:20:50.42,Default,Famme,0,0,0,,Ars ! Énane semble motivée\Npour travailler ici.
+Dialogue: 0,0:20:50.60,0:20:52.30,Default,Ars,0,0,0,,Quoi ? Vous êtes d’accord ?
+Dialogue: 0,0:20:54.90,0:20:56.56,Italique,Énane,0,0,0,,Je m’en remets à vous.
+Dialogue: 0,0:20:57.30,0:21:00.07,Sign,sign,0,0,0,,{\fad(500,500)\pos(320,270)}DOMAINE LAMBERG, MAISON LOUVENT
+Dialogue: 0,0:20:57.64,0:21:00.08,Default,Mireille,0,0,0,,Il se trouve dans cette grange.
+Dialogue: 0,0:21:00.52,0:21:02.36,Default,Mireille,0,0,0,,Te mets pas trop la pression.
+Dialogue: 0,0:21:05.78,0:21:08.28,Default,Shin,0,0,0,,Non, reviens ici ! Ne tombe pas !
+Dialogue: 0,0:21:08.68,0:21:11.06,Default,Shin,0,0,0,,Ça a encore foiré…
+Dialogue: 0,0:21:16.86,0:21:18.78,Default,Shin,0,0,0,,Mon dirigeable en jette, pas vrai ?
+Dialogue: 0,0:21:18.94,0:21:22.58,Default,Shin,0,0,0,,S’il parvient à voler,\Nil faudra deux fois moins de pierres…
+Dialogue: 0,0:21:22.72,0:21:26.30,Default,Shin,0,0,0,,« La courbure est imparfaite… »\NHein ? Où ça ?
+Dialogue: 0,0:21:28.16,0:21:32.36,Italique,Énane,0,0,0,,À l’extrémité des ailes,\Nil faudrait davantage d’inclinaison.
+Dialogue: 0,0:21:32.52,0:21:34.92,Default,Shin,0,0,0,,Ouais,\Nmais c’est un endroit délicat.
+Dialogue: 0,0:21:35.06,0:21:37.74,Default,Shin,0,0,0,,C’est du bois léger,\Ndifficile à travailler.
+Dialogue: 0,0:21:38.18,0:21:39.66,Italique,Énane,0,0,0,,Je pense en être capable.
+Dialogue: 0,0:21:39.86,0:21:44.10,Default,Shin,0,0,0,,Sérieux ? T’es incroyable !\NTu veux bien m’aider dans mon travail ?
+Dialogue: 0,0:21:44.26,0:21:46.10,Italique,Énane,0,0,0,,C’est pour ça qu’on m’envoie.
+Dialogue: 0,0:21:46.24,0:21:49.98,Default,Shin,0,0,0,,Je manque justement de bras.\NTon aide sera précieuse !
+Dialogue: 0,0:21:51.48,0:21:54.60,Default,Shin,0,0,0,,Oh, tu t’appelles Énane ?\NJe compte sur toi, maintenant.
+Dialogue: 0,0:23:18.16,0:23:20.16,Default,crédits,0,0,0,,{\an8}Traduction : Franck Barcelo\NAdaptation : DW512ZC
+Dialogue: 0,0:23:23.00,0:23:25.00,Default,crédits,0,0,0,,{\an8}Repérage : Arthur Vignoles\NRelecture : Nagi
+Dialogue: 0,0:23:25.68,0:23:28.66,Italique,Ars,0,0,0,,Ravi que vous vous soyez fait\Nune nouvelle amie, Famme.
+Dialogue: 0,0:23:28.80,0:23:30.10,TiretsItalique,Famme / Ars,264,0,0,,– Oui.\N– D’ailleurs,
+Dialogue: 0,0:23:30.28,0:23:32.54,TiretsItalique,Ars / Famme,176,0,0,,– vous avez des amis, Famme ?\N– Ars !
+Dialogue: 0,0:23:32.76,0:23:35.22,Italique,Ars / Famme,0,0,0,,Ça te fera dix fois\Nle tarif habituel.
+Dialogue: 0,0:23:35.40,0:23:37.36,Italique,Ars,0,0,0,,Je vous demande pardon !
+Dialogue: 0,0:23:37.52,0:23:39.60,Italique,Ars,0,0,0,,Prochain épisode :\NDeux perles rares.
+
