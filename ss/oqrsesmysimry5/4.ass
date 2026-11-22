@@ -1,0 +1,282 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.30,0:00:04.55,Gen_Italics,Ordenador,0,0,0,,Casa de Akisaki Komagane-cho\Ncalcinada por completo.
+Dialogue: 0,0:00:04.65,0:00:07.19,Gen_Italics,Ordenador,0,0,0,,Homicidio por incendio provocado.\NSin noticias.
+Dialogue: 0,0:00:07.65,0:00:10.53,Gen_Italics,Ordenador,0,0,0,,Edificio Ootemon,\Nasesinato de una figura importante.
+Dialogue: 0,0:00:10.61,0:00:13.49,Gen_Italics,Ordenador,0,0,0,,De momento\Nno lo han cubierto los medios.
+Dialogue: 0,0:00:13.58,0:00:16.08,Gen_Italics,Ordenador,0,0,0,,Muelle dos, almacén siete…
+Dialogue: 0,0:00:16.16,0:00:20.75,Gen_Italics,Ordenador,0,0,0,,Trabajo de la habitación 306 completado.\NNada de lo que informar.
+Dialogue: 0,0:00:22.92,0:00:24.19,Gen_Main,Sara,0,0,0,,Haizaki al habla.
+Dialogue: 0,0:00:24.25,0:00:27.26,Gen_Main,Sara,0,0,0,,¿Cómo va el seguimiento\Ndel señor Machinami, de la 306?
+Dialogue: 0,0:00:27.34,0:00:29.95,Gen_Italics,Roy,0,0,0,,El equipo de limpieza ya ha llegado.
+Dialogue: 0,0:00:30.05,0:00:32.76,Gen_Italics,Roy,0,0,0,,El cliente volverá al hotel\Npor su propio pie.
+Dialogue: 0,0:00:33.35,0:00:35.60,Gen_Italics,Roy,0,0,0,,Estimamos que llegará en dos horas.
+Dialogue: 0,0:00:35.68,0:00:37.73,Gen_Main,Sara,0,0,0,,Entendido. Permaneceré a la espera.
+Dialogue: 0,0:00:41.06,0:00:43.33,Gen_Main,Koshiba,0,0,0,,Bueno, Sara, yo me voy ya.
+Dialogue: 0,0:00:44.69,0:00:47.77,Gen_Main,Ikuro,0,0,0,,Koshiba, ¿ya has terminado tu turno?
+Dialogue: 0,0:00:49.15,0:00:53.49,Gen_Main,Koshiba,0,0,0,,Por lo visto, Machinami, el de la 306,\Nvolverá en hora y media.
+Dialogue: 0,0:00:54.08,0:00:55.33,Gen_Main,Ikuro,0,0,0,,Vale.
+Dialogue: 0,0:00:55.87,0:00:57.12,Gen_Main,Koshiba,0,0,0,,No te duermas.
+Dialogue: 0,0:00:57.66,0:00:59.38,Gen_Main,Ikuro,0,0,0,,Vale.
+Dialogue: 0,0:00:59.46,0:01:00.47,Gen_Main,Koshiba,0,0,0,,Adiós.
+Dialogue: 0,0:01:00.54,0:01:02.60,Gen_Main,Ikuro,0,0,0,,Buen trabajo hoy.
+Dialogue: 0,0:01:19.06,0:01:21.66,Gen_Main,Koshiba,0,0,0,,Jo, ¿otra vez ha subido el tabaco?
+Dialogue: 0,0:01:22.52,0:01:24.56,Gen_Main,Koshiba,0,0,0,,Vaya tela con los precios.
+Dialogue: 0,0:01:25.19,0:01:26.73,Gen_Main,Koshiba,0,0,0,,Es un abuso, ¿verdad?
+Dialogue: 0,0:01:27.65,0:01:28.87,Gen_Main,Hikaru,0,0,0,,Sí…
+Dialogue: 0,0:01:28.94,0:01:30.90,Gen_Main,Koshiba,0,0,0,,Dame del 27, por favor.
+Dialogue: 0,0:01:30.99,0:01:32.07,Gen_Main,Hikaru,0,0,0,,Ahora mismo.
+Dialogue: 0,0:01:32.07,0:01:34.57,Cart_A_Tre,CARTEL,0,0,0,,{\an2\fs16\bord1.5\frx4\fry14\frz356\c&H4F30ED&\3c&HCBD951&\move(144,63,229,74,0,1685)}Detective\NAsesino
+Dialogue: 0,0:01:32.07,0:01:34.57,Cart_A_Tre,CARTEL,0,0,0,,{\bord0\c&H3218ED&\t(0,1685,\fs16)\frx4\fry16\move(305,319,362,278,0,1685)}Rifa {\c&H23D931&}de personajes
+Dialogue: 0,0:01:32.07,0:01:34.57,Cart_A_Tre,CARTEL,0,0,0,,{\fs18\c&H2E11DE&\3c&HFFFFFF&\t(0,1685,\fs16)\bord1\frz357\frx24\fry24\move(436,239,466,212,0,1685)}¡Recomendación\N{\c&H23D931&}del personal!
+Dialogue: 0,0:01:33.11,0:01:34.57,Gen_Main,Koshiba,0,0,0,,Y también uno de estos.
+Dialogue: 0,0:01:34.95,0:01:35.97,Gen_Main,Koshiba,0,0,0,,Este.
+Dialogue: 0,0:01:36.35,0:01:37.35,Gen_Main,Hikaru,0,0,0,,Toma.
+Dialogue: 0,0:01:38.95,0:01:41.00,Gen_Main,Koshiba,0,0,0,,Me he olvidado la cartera.
+Dialogue: 0,0:01:42.92,0:01:44.84,Gen_Main,Koshiba,0,0,0,,¿Cuál me llevo?
+Dialogue: 0,0:01:46.92,0:01:48.23,Gen_Main,Hikaru,0,0,0,,Lo siento.
+Dialogue: 0,0:01:48.30,0:01:50.88,Gen_Main,Hikaru,0,0,0,,Veo que te encanta\N{\i1}Detective Asesino{\i0}, ¿no?
+Dialogue: 0,0:01:50.97,0:01:54.04,Gen_Main,Koshiba,0,0,0,,No, no mucho.
+Dialogue: 0,0:01:54.76,0:01:57.18,Cart_A_Tre,CARTEL,0,0,0,,{\fs16\bord1.5\frx4\fry14\frz356\c&H4F30ED&\3c&HCBD951&\pos(118,56)}Detective\NAsesino
+Dialogue: 0,0:01:54.76,0:01:57.18,Cart_A_Tre,CARTEL,0,0,0,,{\bord0\c&H3218ED&\frx2\fry16\pos(238,161)\frz350\fax0.2}Rifa {\c&H23D931&}de personajes
+Dialogue: 0,0:01:54.76,0:01:57.18,Cart_A_Tre,CARTEL,0,0,0,,{\fs18\c&H2E11DE&\3c&HFFFFFF&\bord1\frx30\fry24\frz355\pos(402,263)}¡Recomendación\N{\c&H23D931&}del personal!
+Dialogue: 0,0:01:55.22,0:01:57.18,Gen_Main,Koshiba,0,0,0,,Es que el cartel es mono, nada más.
+Dialogue: 0,0:01:58.72,0:02:01.88,Gen_Main,Koshiba,0,0,0,,Me pierden las cosas adorables.
+Dialogue: 0,0:02:01.98,0:02:04.10,Gen_Main,Koshiba,0,0,0,,¿Qué hago?
+Dialogue: 0,0:02:08.19,0:02:10.94,Gen_Main,Hikaru,0,0,0,,No es un regalo, sino un préstamo.
+Dialogue: 0,0:02:13.03,0:02:17.41,Gen_Main,Hikaru,0,0,0,,Yo he dibujado ese cartel,\Nasí que la culpa es mía, más o menos.
+Dialogue: 0,0:02:19.95,0:02:24.13,Gen_Main,Hikaru,0,0,0,,Qué recuerdos. Yo también era así.
+Dialogue: 0,0:02:25.79,0:02:27.26,Gen_Main,Koshiba,0,0,0,,Matsuki,
+Dialogue: 0,0:02:28.71,0:02:31.57,Gen_Main,Koshiba,0,0,0,,no deberías prestar dinero\Ntan a la ligera.
+Dialogue: 0,0:02:34.22,0:02:36.06,Gen_Main,Koshiba,0,0,0,,Estos 500 yenes…
+Dialogue: 0,0:02:36.14,0:02:38.60,Gen_Main,Koshiba,0,0,0,,¿Me los prestas\Nhasta que termine la rifa?
+Dialogue: 0,0:02:38.68,0:02:40.71,Gen_Main,Hikaru,0,0,0,,Vale, pero ¿por qué?
+Dialogue: 0,0:02:41.52,0:02:42.95,Gen_Main,Koshiba,0,0,0,,Para tener suerte.
+Dialogue: 0,0:02:44.02,0:02:48.27,Gen_Main,Hikaru,0,0,0,,No pienso subirme\Na la moto de una desconocida.
+Dialogue: 0,0:02:49.52,0:02:52.14,Gen_Main,Koshiba,0,0,0,,Todo el mundo me llama Koshiba.
+Dialogue: 0,0:02:52.57,0:02:54.95,Gen_Main,Koshiba,0,0,0,,Y tú eres… ¿Matsuki?
+Dialogue: 0,0:02:58.83,0:02:59.83,Gen_Main,Koshiba,0,0,0,,Oye.
+Dialogue: 0,0:02:59.83,0:03:01.41,Cart_A_Tre,CARTEL,0,0,0,,{\bord1.5\fs16\c&H1D2F20&\3c&HF4FFF7&\frz41\t(2811,3270,\bord0\blur2)\pos(82,58)}Peluche del premio D
+Dialogue: 0,0:03:01.49,0:03:03.59,Gen_Main,Koshiba,0,0,0,,Fingiremos que es mono.
+Dialogue: 0,0:03:04.41,0:03:05.54,Gen_Main,Hikaru,0,0,0,,Hikaru.
+Dialogue: 0,0:03:08.13,0:03:09.63,Gen_Main,Hikaru,0,0,0,,Hikaru Matsuki.
+Dialogue: 0,0:03:10.54,0:03:13.76,Gen_Main,Koshiba,0,0,0,,Hikaru, ¿siempre se te ha dado\Ntan bien dibujar?
+Dialogue: 0,0:03:15.05,0:03:17.08,Gen_Main,Hikaru,0,0,0,,No sé antes, pero…
+Dialogue: 0,0:03:18.47,0:03:21.09,Gen_Main,Hikaru,0,0,0,,mi hermana siempre me felicitaba.
+Dialogue: 0,0:03:22.72,0:03:24.24,Gen_Main,Koshiba,0,0,0,,¡Oye! ¡Ikuro!
+Dialogue: 0,0:03:24.31,0:03:26.65,Gen_Main,Koshiba,0,0,0,,¿No te había dicho que no toques eso?
+Dialogue: 0,0:03:31.73,0:03:34.40,Gen_Main,Hikaru,0,0,0,,Vengo de incinerar a mi hermana mayor.
+Dialogue: 0,0:03:36.70,0:03:39.49,Gen_Main,Hikaru,0,0,0,,Cuesta preguntar\Npor qué voy de luto, ¿verdad?
+Dialogue: 0,0:03:40.74,0:03:42.84,Gen_Main,Hikaru,0,0,0,,Por eso, mejor te lo cuento yo.
+Dialogue: 0,0:03:43.99,0:03:45.97,Gen_Main,Hikaru,0,0,0,,Tranquila, estoy bien.
+Dialogue: 0,0:03:46.04,0:03:49.25,Gen_Main,Hikaru,0,0,0,,Sabía que no le quedaba mucho tiempo.
+Dialogue: 0,0:03:49.33,0:03:51.17,Gen_Main,Hikaru,0,0,0,,Me he estado preparando.
+Dialogue: 0,0:03:51.88,0:03:55.07,Gen_Main,Hikaru,0,0,0,,Pero después de incinerarla,\Nal volver a casa…
+Dialogue: 0,0:03:55.51,0:03:58.02,Gen_Main,Hikaru,0,0,0,,me he sentido vacía sin saber qué hacer.
+Dialogue: 0,0:04:00.80,0:04:03.11,Gen_Main,Hikaru,0,0,0,,Llévame a ver el mar.
+Dialogue: 0,0:04:03.72,0:04:05.64,Gen_Main,Hikaru,0,0,0,,¡Qué bien sienta el viento!
+Dialogue: 0,0:04:06.14,0:04:08.77,Gen_Main,Koshiba,0,0,0,,Oye, ¿por qué quieres ver el mar?
+Dialogue: 0,0:04:08.85,0:04:10.56,Gen_Main,Hikaru,0,0,0,,El diario ilustrado.
+Dialogue: 0,0:04:11.52,0:04:13.04,Gen_Main,Hikaru,0,0,0,,¡El diario ilustrado!
+Dialogue: 0,0:04:13.11,0:04:15.54,Gen_Main,Hikaru,0,0,0,,De pequeñas, mi hermana y yo
+Dialogue: 0,0:04:15.61,0:04:18.15,Gen_Main,Hikaru,0,0,0,,nos intercambiábamos\Nun diario ilustrado.
+Dialogue: 0,0:04:18.24,0:04:22.16,Gen_Main,Hikaru,0,0,0,,Se terminó el día\Nque fuimos a ver el mar.
+Dialogue: 0,0:04:25.20,0:04:28.85,Gen_Main,Sara,0,0,0,,Entendido.\NNos encargaremos de su hermana.
+Dialogue: 0,0:04:28.91,0:04:33.17,Gen_Main,Hikaru,0,0,0,,¡Quiero recordar por qué lo dejamos ahí!
+Dialogue: 0,0:04:34.38,0:04:38.39,Gen_Main,Hikaru,0,0,0,,Es que ya no puedo preguntarle\Npor el diario, ¿verdad?
+Dialogue: 0,0:04:44.97,0:04:47.31,Gen_Main,Hikaru,0,0,0,,Te invito a un café.
+Dialogue: 0,0:04:51.69,0:04:56.23,Gen_Main,Koshiba,0,0,0,,Sara, gracias por cubrirme\Nel turno de tarde.
+Dialogue: 0,0:04:59.03,0:05:01.35,Gen_Main,Sara,0,0,0,,Cuento contigo, Koshiba.
+Dialogue: 0,0:05:02.53,0:05:06.74,Gen_Main,Sara,0,0,0,,La asesina Mitsuru Matsuki\Nlo ha contratado para su hermana menor…
+Dialogue: 0,0:05:07.41,0:05:09.81,Gen_Main,Sara,0,0,0,,Te encargo ejecutar\Neste servicio de muerte.
+Dialogue: 0,0:05:15.84,0:05:18.96,Cart_A_Tre,CARTEL,0,0,0,,{\an7\bord0\pos(153,217)}Carente de bondad o debilidad humana
+Dialogue: 0,0:05:15.84,0:05:18.96,Cart_A_Tre,CARTEL,0,0,0,,{\an7\bord0\pos(153,259)}Despiadado, cruel
+Dialogue: 0,0:05:15.84,0:05:18.96,Cart_A_Tre,CARTEL,0,0,0,,{\bord0\fs30}Inhumano
+Dialogue: 0,0:05:15.84,0:05:18.96,Cart_A_Tre,CARTEL,0,0,0,,{\an7\bord0\pos(153,171)}No humano, que parece un monstruo
+Dialogue: 0,0:06:49.26,0:06:53.31,Cart_A_Tre,CARTEL,0,0,0,,{\fad(450,450)\an7\bord0.5\blur1\b0\fs22\pos(98,290)}petición 21.                 Diarios de motocicleta 2
+Dialogue: 0,0:06:56.35,0:06:57.56,Gen_Main,Hikaru,0,0,0,,Qué calentito.
+Dialogue: 0,0:06:59.61,0:07:02.32,Gen_Main,Koshiba,0,0,0,,Ahora estamos aquí.\N¿Está más adelante?
+Dialogue: 0,0:07:04.03,0:07:06.32,Gen_Main,Hikaru,0,0,0,,Sí, solo hay que seguir recto.
+Dialogue: 0,0:07:06.74,0:07:08.88,Gen_Main,Hikaru,0,0,0,,Al lado de la playa hay un aparcamiento.
+Dialogue: 0,0:07:36.89,0:07:38.40,Gen_Main,Hikaru,0,0,0,,Es aquí. ¡Para!
+Dialogue: 0,0:07:39.81,0:07:41.00,Gen_Main,Hikaru,0,0,0,,Ya hemos llegado.
+Dialogue: 0,0:07:42.11,0:07:43.98,Gen_Main,Hikaru,0,0,0,,¡Hemos llegado, Koshiba!
+Dialogue: 0,0:07:46.11,0:07:47.38,Gen_Main,Hikaru,0,0,0,,Pero…
+Dialogue: 0,0:07:48.11,0:07:49.75,Gen_Main,Hikaru,0,0,0,,Pero…
+Dialogue: 0,0:07:50.49,0:07:52.60,Gen_Main,Hikaru,0,0,0,,¡Qué frío, leñe!
+Dialogue: 0,0:07:53.12,0:07:56.80,Gen_Main,Hikaru,0,0,0,,¡Y vaya tela con el viento!
+Dialogue: 0,0:07:59.25,0:08:00.80,Gen_Main,Koshiba,0,0,0,,¿De verdad es aquí?
+Dialogue: 0,0:08:00.88,0:08:03.52,Gen_Main,Koshiba,0,0,0,,Cuando viniste eras pequeña, ¿no?
+Dialogue: 0,0:08:16.52,0:08:19.09,Gen_Main,Hikaru,0,0,0,,Sí. Estoy segura de que es aquí.
+Dialogue: 0,0:08:26.32,0:08:30.08,Gen_Main,Koshiba,0,0,0,,Si quieres bajar a la playa,\Naparcaré la moto y…
+Dialogue: 0,0:08:30.16,0:08:31.47,Gen_Main,Hikaru,0,0,0,,Es inútil.
+Dialogue: 0,0:08:32.45,0:08:36.66,Gen_Main,Hikaru,0,0,0,,Sé que es aquí, pero no lo recuerdo.
+Dialogue: 0,0:08:41.00,0:08:43.70,Gen_Main,Hikaru,0,0,0,,¿Por qué dejamos de escribir\Nen el diario ilustrado?
+Dialogue: 0,0:08:46.51,0:08:50.30,Gen_Italics,Hikaru,0,0,0,,¡Por fin hemos llegado a la playa!\N¡Lo estaba deseando!
+Dialogue: 0,0:08:50.38,0:08:54.66,Gen_Italics,Hikaru,0,0,0,,¡Hoy ya es de noche,\Npero mañana voy a nadar un montón!
+Dialogue: 0,0:08:55.22,0:08:58.02,Gen_Italics,Hikaru,0,0,0,,¿Podré ver algún pez?
+Dialogue: 0,0:08:55.22,0:08:58.02,Gen_Main_Up,Koshiba,0,0,0,,¿Podré ver algún pez?
+Dialogue: 0,0:08:58.10,0:09:01.22,Gen_Main,Hikaru,0,0,0,,¡Oye, no leas diarios ajenos\Nsin permiso!
+Dialogue: 0,0:09:01.31,0:09:05.78,Gen_Main,Koshiba,0,0,0,,Hasta ahí parece que\Nos lo estabais pasando bien, pero…
+Dialogue: 0,0:09:05.86,0:09:09.32,Gen_Main,Hikaru,0,0,0,,Sí. La página siguiente está arrancada.
+Dialogue: 0,0:09:10.11,0:09:11.57,Gen_Main,Hikaru,0,0,0,,¿Por qué será?
+Dialogue: 0,0:09:12.36,0:09:15.67,Gen_Main,Koshiba,0,0,0,,¿Dibujasteis ahí el día después\Nde llegar a la playa?
+Dialogue: 0,0:09:16.74,0:09:18.29,Gen_Main,Hikaru,0,0,0,,No lo sé.
+Dialogue: 0,0:09:22.29,0:09:25.21,Gen_Main,Hikaru,0,0,0,,El olor del mar me trae recuerdos…
+Dialogue: 1,0:09:32.22,0:09:37.63,Cart_A_Tre,CARTEL,0,0,0,,{\fs14\bord1\fnComic Sans MS\c&H5A2F3B&\3c&HA1615B&\t(0,4934,\c&H372431&)\frz330\frx16\move(403,126,500,368)}Diario ilustrado
+Dialogue: 2,0:09:34.97,0:09:39.93,Gen_Main,Hikaru,0,0,0,,¿Sabes una cosa? Hay otra razón\Npor la que quiero recordarlo.
+Dialogue: 2,0:09:42.56,0:09:46.73,Gen_Main,Hikaru,0,0,0,,Por lo visto, mi hermana leyó\Nel diario su último día de vida.
+Dialogue: 0,0:09:43.73,0:09:46.73,Cart_A_Tre,CARTEL,0,0,0,,{\fs18\t(\fs20)\bord1\fnComic Sans MS\c&H5955BE&\3c&HF1F2FB&\frz26\move(275,108,270,102)}Diario ilustrado
+Dialogue: 1,0:09:43.73,0:09:46.73,Cart_A_Tre,CARTEL,0,0,0,,{\an2\fs14\t(\fs15)\bord1\fnComic Sans MS\c&H555969&\frz25\move(366,263,368,271)\3c&HCFCFE3&}Mitsuru y Hikaru Matsuki
+Dialogue: 1,0:09:49.23,0:09:51.24,Cart_A_Tre,CARTEL,0,0,0,,{\fs15\bord0\fnComic Sans MS\c&H2A2323&\frz340\pos(279,302)}Mitsuru y Hikaru Matsuki
+Dialogue: 0,0:09:49.23,0:09:51.24,Cart_A_Tre,CARTEL,0,0,0,,{\fs18\bord0\fnComic Sans MS\c&H642F40&\frz342\frx14\fry2\pos(358,77)}Diario ilustrado
+Dialogue: 2,0:09:49.94,0:09:54.03,Gen_Main,Hikaru,0,0,0,,Pero si sigo sin recordarlo,
+Dialogue: 0,0:09:54.11,0:09:56.74,Gen_Main,Hikaru,0,0,0,,¿eso significa\Nque no hace falta que lo recuerde?
+Dialogue: 0,0:10:05.54,0:10:08.54,Cart_A_Tre,CARTEL,0,0,0,,{\an2\c&HFDFCFA&\bord0\frx10\fry2\frz349\move(341,44,341,25)}Tita (2)
+Dialogue: 0,0:10:05.54,0:10:08.54,Cart_A_Tre,CARTEL,0,0,0,,{\an7\fs16\3c&HB6FE6E&\c&H8C9646&\frz350\move(246,199,246,180)}Hikaru, gracias por esforzarte\Ntanto todo este tiempo.
+Dialogue: 0,0:10:05.54,0:10:08.54,Cart_A_Tre,CARTEL,0,0,0,,{\c&HFDFEEC&\bord0\fs14\frx10\fry2\frz349\an2\move(358,92,358,73)}Mensajes sin leer
+Dialogue: 0,0:10:05.54,0:10:08.54,Cart_A_Tre,CARTEL,0,0,0,,{\an2\c&HFDFEEC&\bord0\fs14\frx10\fry2\frz348\move(252,101,252,82)}Tita
+Dialogue: 0,0:10:05.54,0:10:08.55,Cart_A_Tre,CARTEL,0,0,0,,{\an2\c&HFDFEEC&\bord1\fs14\frz350\frx10\fry2\move(365,65,365,46)\3c&HFBEF72&}Hoy
+Dialogue: 0,0:10:10.46,0:10:12.06,Cart_A_Tre,CARTEL,0,0,0,,{\an4\fs14\3c&HB6FE6E&\c&HA29F3F&\frz350\fad(233,50)\pos(252,150)}Seguro que tu hermana
+Dialogue: 0,0:10:10.46,0:10:12.09,Cart_A_Tre,CARTEL,0,0,0,,{\fad(0,60)\an4\fs14\3c&HB6FE6E&\c&HA29F3F&\frz350\pos(260,94)}Hikaru, gracias por esforzarte\Ntanto todo este tiempo.
+Dialogue: 0,0:10:10.46,0:10:14.22,Cart_A_Tre,CARTEL,0,0,0,,{\c&HFDFCFA&\bord0\frx10\fry2\frz349\pos(347,6)}Tita (2)
+Dialogue: 0,0:10:12.11,0:10:14.22,Cart_A_Tre,CARTEL,0,0,0,,{\an4\fs14\3c&HB6FE6E&\c&HA29F3F&\frz350\fad(80,0)\pos(263,89)}Seguro que tu hermana
+Dialogue: 0,0:10:12.22,0:10:14.22,Cart_A_Tre,CARTEL,0,0,0,,{\an4\fs14\3c&HB6FE6E&\c&HA29F3F&\fad(225,0)\pos(252,153)\frz349}fue feliz hasta el final.
+Dialogue: 0,0:10:20.53,0:10:21.53,Gen_Main,Koshiba,0,0,0,,Hikaru.
+Dialogue: 0,0:10:23.89,0:10:25.46,Gen_Main,Hikaru,0,0,0,,Me resulta gracioso.
+Dialogue: 0,0:10:27.61,0:10:30.94,Gen_Main,Hikaru,0,0,0,,Quienes no nos ayudaron nada
+Dialogue: 0,0:10:31.40,0:10:34.84,Gen_Main,Hikaru,0,0,0,,dicen lo que quieren de mi hermana.\NQué conveniente, ¿eh?
+Dialogue: 0,0:10:35.66,0:10:38.58,Gen_Main,Hikaru,0,0,0,,Cuando las dos nos quedamos solas
+Dialogue: 0,0:10:39.20,0:10:42.20,Gen_Main,Hikaru,0,0,0,,y descubrimos que mi hermana enferma,
+Dialogue: 0,0:10:42.66,0:10:45.60,Gen_Main,Hikaru,0,0,0,,convirtieron nuestra historia\Nen algo triste y bonito
+Dialogue: 0,0:10:45.67,0:10:49.46,Gen_Main,Hikaru,0,0,0,,para poder quedarse tranquilos\Ny olvidarse de todo.
+Dialogue: 0,0:10:49.46,0:10:53.13,Cart_A_Tre,CARTEL,0,0,0,,{\fs26\bord0\fnComic Sans MS\c&H493047&\frz287\pos(424.67,282)}Diario ilustrado
+Dialogue: 0,0:10:51.84,0:10:53.13,Gen_Main,Hikaru,0,0,0,,Pero…
+Dialogue: 0,0:10:56.09,0:10:59.05,Gen_Main,Hikaru,0,0,0,,¿Y yo, qué?\N¡No puedo olvidarla aunque quiera!
+Dialogue: 0,0:11:01.22,0:11:03.97,Gen_Main,Hikaru,0,0,0,,Yo…
+Dialogue: 0,0:11:06.77,0:11:09.64,Gen_Main,Hikaru,0,0,0,,Cuando mi hermana estaba en la cama,
+Dialogue: 0,0:11:09.73,0:11:13.36,Gen_Main,Hikaru,0,0,0,,le susurré que no podía más.\N¿Qué pasa con eso?
+Dialogue: 0,0:11:13.86,0:11:15.28,Gen_Main,Hikaru,0,0,0,,Cuando murió…
+Dialogue: 0,0:11:15.36,0:11:18.68,Gen_Main,Hikaru,0,0,0,,Cuando murió, en el fondo sentí alivio.\N¿Qué pasa con eso?
+Dialogue: 0,0:11:19.62,0:11:22.42,Gen_Main,Hikaru,0,0,0,,Pensé que ya\Nno tendría que cuidar de ella
+Dialogue: 0,0:11:22.49,0:11:24.57,Gen_Main,Hikaru,0,0,0,,y que por fin había acabado todo.
+Dialogue: 0,0:11:25.08,0:11:26.79,Gen_Main,Hikaru,0,0,0,,¿Qué pasa con eso?
+Dialogue: 0,0:11:28.88,0:11:30.01,Gen_Main,Hikaru,0,0,0,,Por eso…
+Dialogue: 0,0:11:34.55,0:11:37.09,Gen_Main,Hikaru,0,0,0,,Por eso, yo…
+Dialogue: 0,0:11:49.86,0:11:52.52,Gen_Main,Hikaru,0,0,0,,Pintaba porque quería olvidar, pero…
+Dialogue: 0,0:11:57.20,0:11:58.26,Gen_Main,Hikaru,0,0,0,,¿Qué pasa?
+Dialogue: 0,0:12:00.28,0:12:03.42,Gen_Main,Mitsuru,0,0,0,,Puede que esta sea…
+Dialogue: 0,0:12:03.49,0:12:08.17,Gen_Main,Mitsuru,0,0,0,,la última vez… que vuelva a casa…
+Dialogue: 0,0:12:12.25,0:12:14.59,Gen_Main,Mitsuru,0,0,0,,Oye, ese cuadro…
+Dialogue: 0,0:12:14.96,0:12:15.96,Gen_Main,Hikaru,0,0,0,,¿El cuadro?
+Dialogue: 0,0:12:16.67,0:12:17.67,Gen_Main,Mitsuru,0,0,0,,Enséñamelo.
+Dialogue: 0,0:12:19.34,0:12:23.93,Gen_Main,Hikaru,0,0,0,,No tenía pensado enseñárselo, pero…
+Dialogue: 0,0:12:24.43,0:12:27.02,Gen_Main,Mitsuru,0,0,0,,Por favor, déjame verlo.
+Dialogue: 0,0:12:39.86,0:12:43.41,Gen_Main,Hikaru,0,0,0,,Lo hice por mí misma,
+Dialogue: 0,0:12:44.33,0:12:47.41,Gen_Main,Hikaru,0,0,0,,para sacar de mí\Nesos días que nunca cambiaban,
+Dialogue: 0,0:12:47.87,0:12:50.79,Gen_Main,Hikaru,0,0,0,,para blanquear mis sucias emociones…
+Dialogue: 0,0:12:52.08,0:12:54.12,Gen_Main,Hikaru,0,0,0,,y para olvidarlo todo.
+Dialogue: 0,0:12:55.42,0:12:58.40,Gen_Main,Hikaru,0,0,0,,Pinté el final de mi hermana y aun así…
+Dialogue: 0,0:13:07.02,0:13:11.65,Gen_Main,Hikaru,0,0,0,,¡Aunque quiera olvidar, no puedo!
+Dialogue: 0,0:13:21.45,0:13:22.65,Gen_Main,Hikaru,0,0,0,,¡Mitsuru!
+Dialogue: 0,0:13:30.71,0:13:31.78,Gen_Main,Koshiba,0,0,0,,¡No lo dejes ir!
+Dialogue: 0,0:13:31.87,0:13:33.45,Gen_Main,Koshiba,0,0,0,,¡Hikaru, nos vamos!
+Dialogue: 0,0:13:33.54,0:13:34.90,Gen_Main,Hikaru,0,0,0,,Pero…
+Dialogue: 0,0:13:36.84,0:13:38.71,Gen_Main,Koshiba,0,0,0,,¡Agárrate fuerte!
+Dialogue: 0,0:13:38.80,0:13:40.01,Gen_Main,Hikaru,0,0,0,,¿Koshiba?
+Dialogue: 0,0:13:44.59,0:13:47.47,Gen_Main,Hikaru,0,0,0,,¡Koshiba, vas muy rápido!\N¡Vas muy rápido!
+Dialogue: 0,0:13:47.56,0:13:51.52,Gen_Main,Koshiba,0,0,0,,Odio las historias empalagosas.
+Dialogue: 0,0:13:52.64,0:13:55.80,Gen_Main,Koshiba,0,0,0,,Cuanto más las escucho, más me cabrean.
+Dialogue: 0,0:13:57.52,0:14:01.53,Gen_Main,Koshiba,0,0,0,,Porque… ¿Qué más podrías haber hecho?
+Dialogue: 0,0:14:02.49,0:14:03.49,Gen_Main,Koshiba,0,0,0,,¡Enfádate!
+Dialogue: 0,0:14:06.78,0:14:10.45,Gen_Main,Koshiba,0,0,0,,¡Enfádate con todo\Nlo que te hizo odiar a tu hermana!
+Dialogue: 0,0:14:10.91,0:14:13.42,Gen_Main,Koshiba,0,0,0,,¡Con la enfermedad que se llevó su vida!
+Dialogue: 0,0:14:13.87,0:14:18.42,Gen_Main,Koshiba,0,0,0,,¡Con tus familiares que no hicieron nada\Ny lloraron en el funeral!
+Dialogue: 0,0:14:18.50,0:14:21.84,Gen_Main,Koshiba,0,0,0,,¡Con la sociedad que no te ayudó!
+Dialogue: 0,0:14:22.30,0:14:27.05,Gen_Main,Koshiba,0,0,0,,¡Por eso, si vas a estirar\Nla mano, no lo dejes ir!
+Dialogue: 0,0:14:30.06,0:14:33.44,Gen_Main,Koshiba,0,0,0,,¡La gente olvida tarde o temprano!
+Dialogue: 0,0:14:42.86,0:14:45.70,Gen_Main,Koshiba,0,0,0,,Por eso, si no puedes olvidar…
+Dialogue: 0,0:14:49.87,0:14:52.54,Gen_Main,Koshiba,0,0,0,,podrías abrazarlo de momento, ¿no?
+Dialogue: 0,0:15:04.42,0:15:07.47,Gen_Italics,Hikaru,0,0,0,,Es verdad.
+Dialogue: 0,0:15:08.97,0:15:10.28,Gen_Italics,Hikaru,0,0,0,,Yo…
+Dialogue: 0,0:15:49.93,0:15:53.29,Gen_Italics,Hikaru,0,0,0,,Por poco me ahogo…
+Dialogue: 0,0:15:58.02,0:15:59.57,Gen_Italics,Hikaru,0,0,0,,Después…
+Dialogue: 0,0:16:10.99,0:16:12.95,Gen_Main,Hikaru,0,0,0,,¿Por qué has dibujado eso?
+Dialogue: 0,0:16:13.79,0:16:15.66,Gen_Main,Hikaru,0,0,0,,¡Eres mala, Mii!
+Dialogue: 0,0:16:17.12,0:16:18.32,Gen_Main,Mitsuru,0,0,0,,Hikaru…
+Dialogue: 0,0:16:19.00,0:16:20.90,Gen_Main,Hikaru,0,0,0,,¡Ya no quiero seguir con el diario!
+Dialogue: 0,0:16:23.71,0:16:25.34,Gen_Main,Mitsuru,0,0,0,,¿Lo vas a dejar?
+Dialogue: 0,0:16:25.42,0:16:27.80,Gen_Main,Hikaru,0,0,0,,¡Sí, lo voy a dejar!
+Dialogue: 0,0:16:28.17,0:16:31.98,Gen_Main,Mitsuru,0,0,0,,Pero a mí me encantan\Ntus dibujos, Hikaru.
+Dialogue: 0,0:16:48.74,0:16:49.87,Gen_Main,Koshiba,0,0,0,,¡Hikaru!
+Dialogue: 0,0:16:54.91,0:16:55.99,Gen_Main,Koshiba,0,0,0,,¿Hikaru?
+Dialogue: 0,0:17:01.71,0:17:04.97,Gen_Main,Hikaru,0,0,0,,Ya me acuerdo, Mitsuru.
+Dialogue: 0,0:17:07.80,0:17:09.92,Gen_Main_Up,Koshiba,0,0,0,,Hotel Inhumans.
+Dialogue: 0,0:17:14.64,0:17:16.34,Gen_Italics,Audio,0,0,0,,El culpable está en la sombra.
+Dialogue: 0,0:17:16.43,0:17:19.12,Gen_Italics,Audio,0,0,0,,¡{\i0}Detective Asesino{\i1}!\NEl aclamado éxito ya disponible.
+Dialogue: 0,0:17:19.68,0:17:22.27,Gen_Main,Ikuro,0,0,0,,Así que era esto…
+Dialogue: 0,0:17:22.35,0:17:24.06,Gen_Main,Ikuro,0,0,0,,Oye, Sara.
+Dialogue: 0,0:17:25.44,0:17:26.60,Gen_Main,Sara,0,0,0,,Dime.
+Dialogue: 0,0:17:26.69,0:17:28.30,Gen_Main,Ikuro,0,0,0,,Se trata de Koshiba.
+Dialogue: 0,0:17:28.40,0:17:32.07,Gen_Main,Ikuro,0,0,0,,No me ha contado nada\Nde su último trabajo.
+Dialogue: 0,0:17:32.82,0:17:36.51,Gen_Main,Ikuro,0,0,0,,Mitsuru quería\Nque su hermana aceptara su muerte.
+Dialogue: 0,0:17:36.58,0:17:38.74,Gen_Main,Ikuro,0,0,0,,Nos ha pedido que le demos fuerzas.
+Dialogue: 0,0:17:38.83,0:17:41.61,Gen_Main,Ikuro,0,0,0,,Ese era el último deseo\Nde Mitsuru Matsuki.
+Dialogue: 0,0:17:42.17,0:17:45.06,Gen_Main,Sara,0,0,0,,Entonces, debe darle\Nmucha vergüenza, ¿no?
+Dialogue: 0,0:17:45.13,0:17:47.92,Gen_Main,Ikuro,0,0,0,,¿En serio? ¿A Koshiba?
+Dialogue: 0,0:17:48.00,0:17:51.59,Gen_Main,Sara,0,0,0,,Esa chica quizás no se acerca\Na los demás como tú, Ikuro,
+Dialogue: 0,0:17:52.26,0:17:54.86,Gen_Main,Sara,0,0,0,,pero tal vez los acompaña más que tú.
+Dialogue: 0,0:18:04.81,0:18:06.54,Gen_Main,Niña,0,0,0,,¡No corras!
+Dialogue: 0,0:18:12.70,0:18:16.32,Gen_Main,Sara,0,0,0,,Para bien o para mal,\NKoshiba es torpe para ciertas cosas.
+Dialogue: 0,0:19:24.31,0:19:26.23,Gen_Main,Hikaru,0,0,0,,Hola.
+Dialogue: 0,0:19:29.31,0:19:31.41,Gen_Main,Koshiba,0,0,0,,Menuda voz de resfriada tienes.
+Dialogue: 0,0:19:32.07,0:19:34.45,Gen_Main,Hikaru,0,0,0,,Normal, me he caído en el mar\Nen pleno invierno.
+Dialogue: 0,0:19:34.53,0:19:36.93,Gen_Main,Hikaru,0,0,0,,Mucho que no me morí, ¿sabes?
+Dialogue: 0,0:19:37.03,0:19:38.59,Gen_Main,Hikaru,0,0,0,,El que sí ha muerto es mi móvil.
+Dialogue: 0,0:19:40.58,0:19:44.00,Gen_Main,Hikaru,0,0,0,,Tendré que comprarme uno nuevo.
+Dialogue: 0,0:19:44.45,0:19:49.92,Gen_Main,Hikaru,0,0,0,,De paso, he pensado en aprovechar\Npara cortar el contacto con mi familia.
+Dialogue: 0,0:19:51.25,0:19:53.92,Gen_Main,Koshiba,0,0,0,,Me parece bien. ¿Y lo otro?
+Dialogue: 0,0:19:55.30,0:19:56.81,Gen_Main,Koshiba,0,0,0,,¿Ha quedado bien?
+Dialogue: 0,0:19:57.88,0:19:59.61,Gen_Main,Hikaru,0,0,0,,Espera un momento.
+Dialogue: 0,0:20:00.76,0:20:02.68,Gen_Main,Koshiba,0,0,0,,¿Qué le pasa?
+Dialogue: 0,0:20:10.31,0:20:11.65,Gen_Main,Hikaru,0,0,0,,¡Tachán!
+Dialogue: 0,0:20:12.57,0:20:14.90,Gen_Main,Koshiba,0,0,0,,Hala, está todo arrugado.
+Dialogue: 0,0:20:14.98,0:20:16.53,Gen_Main,Koshiba,0,0,0,,Menudo desastre.
+Dialogue: 0,0:20:19.74,0:20:21.93,Gen_Main,Hikaru,0,0,0,,Te he dibujado sin permiso,
+Dialogue: 0,0:20:22.58,0:20:25.96,Gen_Main,Hikaru,0,0,0,,pero ha quedado bien,\Nasí que espero que me perdones.
+Dialogue: 0,0:20:27.50,0:20:31.04,Gen_Italics,Hikaru,0,0,0,,Enero. De vuelta\Ndel funeral de mi hermana,
+Dialogue: 0,0:20:31.14,0:20:33.25,Gen_Italics,Hikaru,0,0,0,,volví a esa playa\Ndespués de mucho tiempo.
+Dialogue: 0,0:20:35.05,0:20:38.88,Gen_Italics,Hikaru,0,0,0,,Fui en pleno invierno, de noche\Ny en la moto de una desconocida.
+Dialogue: 0,0:20:39.93,0:20:43.93,Gen_Italics,Hikaru,0,0,0,,Hacía un frío de muerte,\Npero el viento era agradable.
+Dialogue: 0,0:20:44.01,0:20:45.25,Gen_Italics,Hikaru,0,0,0,,Fue muy raro.
+Dialogue: 0,0:20:47.68,0:20:50.54,Gen_Main,Koshiba,0,0,0,,Yo soy más guapa, ¿sabes?
+Dialogue: 0,0:20:57.19,0:20:58.76,Gen_Italics,Hikaru,0,0,0,,¿Y sabes qué pasó?
+Dialogue: 0,0:20:58.86,0:21:02.84,Gen_Italics,Hikaru,0,0,0,,Por poco me vuelvo a ahogar en el agua.
+Dialogue: 0,0:22:28.33,0:22:35.00,Cart_A_Tre,CARTEL,0,0,0,,{\b0\an9}Traducción: José María Pérez\NControl de calidad: Facu Salas
+Dialogue: 0,0:22:46.30,0:22:47.64,Gen_Main,Hikaru,0,0,0,,Voy a descansar un poco.
+Dialogue: 0,0:22:52.93,0:22:54.64,Gen_Main,Hikaru,0,0,0,,¿En serio?
+Dialogue: 0,0:22:55.56,0:22:56.65,Gen_Main,Hikaru,0,0,0,,Esto…
+Dialogue: 0,0:22:59.27,0:23:00.90,Gen_Main,Hikaru,0,0,0,,Es de mi hermana…
+Dialogue: 0,0:23:17.13,0:23:19.07,Gen_Main,Hikaru,0,0,0,,No puede ser…
+Dialogue: 0,0:23:21.42,0:23:23.12,Gen_Main,Hikaru,0,0,0,,¿Seguiste dibujando?
+Dialogue: 0,0:23:27.05,0:23:29.97,Cart_A_Tre,CARTEL,0,0,0,,{\bord0\c&HD8DBD8&\fs36\pos(527,245)}continuará
+Dialogue: 0,0:23:29.97,0:23:35.02,Cart_A_Tre,CARTEL,0,0,0,,{\bord0\fs22\pos(320,122)\b0}Próximo episodio
+Dialogue: 0,0:23:29.97,0:23:35.02,Cart_A_Tre,CARTEL,0,0,0,,{\bord0\fs22\b0\pos(290,210)}petición 22.                Ave errante
+
