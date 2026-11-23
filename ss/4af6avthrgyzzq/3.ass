@@ -1,0 +1,168 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: mainja,Noto Sans JP,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: topja,Noto Sans JP,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,0
+Style: credits,Noto Sans JP,15,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,7,15,15,15,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:08:12.89,0:08:15.70,credits,,0,0,0,,{\b1}転写\N編集者\Nリタイミング\NMUX・QC
+Dialogue: 0,0:08:12.89,0:08:15.70,credits,,0,0,0,,{\pos(80,15)}: NHK\N: geckyzz\N: geckyzz\N: geckyzz
+Dialogue: 0,0:00:04.13,0:00:05.00,mainja,,0,0,0,OPENING,レッツ　ゴー！
+Dialogue: 0,0:00:05.00,0:00:06.73,mainja,BAKER,0,0,0,OPENING,♬「コロッケパン　クリームパン」
+Dialogue: 0,0:00:06.73,0:00:09.08,mainja,BAKER,0,0,0,OPENING,♬「メロンパン　かめパン\N　　　　カレーパン　コッペパン」
+Dialogue: 0,0:00:09.08,0:00:12.42,mainja,BAKER,0,0,0,OPENING,♬「しろくまパン　クロワッサン\N　ドーナツ　フランスパン」
+Dialogue: 0,0:00:12.42,0:00:14.57,mainja,BAKER,0,0,0,OPENING,♬「チョココロネ　　　　　　　\Nさるパン　コーンパン」
+Dialogue: 0,0:00:14.57,0:00:16.26,mainja,BAKER,0,0,0,OPENING,♬「ぱんだパン　　　　　　　\Nピザパン　あんパン」
+Dialogue: 0,0:00:16.26,0:00:18.28,mainja,BAKER,0,0,0,OPENING,♬「ウインナーパン　　　　　　　\Nうさぎパン　こあらパン」
+Dialogue: 0,0:00:18.28,0:00:19.51,mainja,BAKER,0,0,0,OPENING,♬「食パン」
+Dialogue: 0,0:00:19.51,0:00:19.98,mainja,BAKER,0,0,0,OPENING,♬「……えっ！？」
+Dialogue: 0,0:00:20.25,0:00:22.75,mainja,PANDOROBO,0,0,0,OPENING,♬「おじさんがあっちをむいたら」
+Dialogue: 0,0:00:22.75,0:00:25.07,mainja,PANDOROBO,0,0,0,OPENING,♬「サササッ（サササッ）」
+Dialogue: 0,0:00:25.07,0:00:26.98,mainja,PANDOROBO,0,0,0,OPENING,♬「こっちをむいたら」
+Dialogue: 0,0:00:26.98,0:00:28.40,mainja,PANDOROBO,0,0,0,OPENING,♬「ピタッ（ピタッ）」
+Dialogue: 0,0:00:28.94,0:00:30.87,mainja,PANDOROBO,0,0,0,OPENING,♬「あっちをむいたら」
+Dialogue: 0,0:00:30.87,0:00:32.87,mainja,PANDOROBO,0,0,0,OPENING,♬「サササッ（サササッ）」
+Dialogue: 0,0:00:32.87,0:00:35.01,mainja,PANDOROBO,0,0,0,OPENING,♬「こっちをむいたら」
+Dialogue: 0,0:00:35.01,0:00:37.02,mainja,PANDOROBO,0,0,0,OPENING,♬「ピタッ（ピタッ）」
+Dialogue: 0,0:00:37.43,0:00:40.75,mainja,PANDOROBO,0,0,0,OPENING,♬「今だ！出口まで　　　　　　\Nいっきに　ピュ〜ン！」
+Dialogue: 0,0:00:40.75,0:00:42.67,mainja,PANDOROBO,0,0,0,OPENING,♬「しめしめ！　　　\Nやったぞ！」
+Dialogue: 0,0:00:42.67,0:00:44.67,mainja,PANDOROBO,0,0,0,OPENING,♬「いただきま〜す！！」
+Dialogue: 0,0:00:45.54,0:00:46.75,mainja,PANDOROBO,0,0,0,OPENING,♬「まずい」
+Dialogue: 0,0:00:47.43,0:00:50.35,mainja,PANDOROBO,0,0,0,OPENING,♬「パンどろぼう　　　　　　　　　\N（パンッパンッパンッパンッ）」
+Dialogue: 0,0:00:50.35,0:00:53.32,mainja,PANDOROBO,0,0,0,OPENING,♬「パンどろぼう　　　　　　　　　\N（パンッパンッパンッパンッ）」
+Dialogue: 0,0:00:53.32,0:00:56.46,mainja,PANDOROBO,0,0,0,OPENING,♬「パンどろぼう　　　　　　　　　\N（パンッパンッパンッパンッ）」
+Dialogue: 0,0:00:56.46,0:00:59.46,mainja,PANDOROBO,0,0,0,OPENING,♬「パンどろぼう　　　\Nパンどろぼう」
+Dialogue: 0,0:01:01.96,0:01:05.46,mainja,PANDOROBO,0,0,0,TITLE,「パンどろぼう　　　　　　　\Nパンしょくにんへのみち」
+Dialogue: 0,0:01:07.36,0:01:09.69,mainja,BAKER,0,0,0,,おはようございます
+Dialogue: 0,0:01:10.32,0:01:11.22,mainja,BAKER,0,0,0,,おや？
+Dialogue: 0,0:01:11.22,0:01:14.30,mainja,BAKER,0,0,0,,パンどろぼうはどこだ？
+Dialogue: 0,0:01:22.46,0:01:25.50,mainja,BAKER,0,0,0,,そのすがた　　　　　\N気に入ってるんですね
+Dialogue: 0,0:01:25.50,0:01:28.67,mainja,PANDOROBO,0,0,0,,やっぱり　　　　　　　　　\Nこのかっこうが一番落ち着く
+Dialogue: 0,0:01:29.21,0:01:30.80,mainja,PANDOROBO,0,0,0,,おじさんおはよう
+Dialogue: 0,0:01:30.80,0:01:34.47,mainja,PANDOROBO,0,0,0,,夜通しパンを作っていて、\Nうっかりねちゃった
+Dialogue: 0,0:01:34.47,0:01:37.26,mainja,BAKER,0,0,0,,それでこんなにパンがたくさん
+Dialogue: 0,0:01:39.10,0:01:41.77,mainja,PANDOROBO,0,0,0,,このパン、どうしようかな？
+Dialogue: 0,0:01:41.77,0:01:45.50,mainja,BAKER,0,0,0,,それなら、私のお店で　　\N売ってみたらどうですか？
+Dialogue: 0,0:01:46.18,0:01:49.44,mainja,BAKER,0,0,0,,たくさんの人に　　\N食べてもらえますよ
+Dialogue: 0,0:01:49.44,0:01:52.05,mainja,PANDOROBO,0,0,0,,えっ？いいの？
+Dialogue: 0,0:01:59.24,0:02:01.58,mainja,PANDOROBO,0,0,0,,おいしそうだ
+Dialogue: 0,0:02:05.56,0:02:07.48,mainja,BAKER,0,0,0,,さあ、開店です
+Dialogue: 0,0:02:12.59,0:02:16.57,mainja,PANDOROBO,0,0,0,,あれ？　　　　　　\Nお客さんが来ないぞ
+Dialogue: 0,0:02:17.78,0:02:19.45,mainja,PANDOROBO,0,0,0,,どうしたんだろう？
+Dialogue: 0,0:02:20.37,0:02:22.37,mainja,PANDOROBO,0,0,0,,向きが悪いからかな？
+Dialogue: 0,0:02:24.75,0:02:26.33,mainja,PANDOROBO,0,0,0,,それともこうかな？
+Dialogue: 0,0:02:34.01,0:02:36.26,mainja,PANDOROBO,0,0,0,,やっぱりだれも来ない…
+Dialogue: 0,0:02:37.05,0:02:39.26,mainja,PANDOROBO,0,0,0,,そうか！　　　\Nもしかしたら…
+Dialogue: 0,0:02:40.47,0:02:43.43,mainja,PANDOROBO,0,0,0,,きっとあいじょうが\N足りなかったんだな
+Dialogue: 0,0:02:45.87,0:02:48.98,mainja,PANDOROBO,0,0,0,,いとしいいとしい\Nいとしのパン
+Dialogue: 0,0:02:48.98,0:02:50.53,mainja,PANDOROBO,0,0,0,,おいしくな～れ
+Dialogue: 0,0:02:50.98,0:02:52.94,mainja,BAKER,0,0,0,,私もてつだいますよ
+Dialogue: 0,0:02:53.36,0:02:55.70,mainja,PANDOROBO,0,0,0,,いいよ、おれがやるよ
+Dialogue: 0,0:03:00.99,0:03:03.26,mainja,PANDOROBO,0,0,0,,やっぱりだれも来ない
+Dialogue: 0,0:03:03.83,0:03:06.00,mainja,BAKER,0,0,0,,気長に待つのが一番です
+Dialogue: 0,0:03:06.54,0:03:09.25,mainja,BAKER,0,0,0,,少しきゅうけいしてきたら\Nどうですか？
+Dialogue: 0,0:03:17.30,0:03:19.26,mainja,PANDOROBO,0,0,0,,こんなにおいしいパンなのに
+Dialogue: 0,0:03:20.05,0:03:23.14,mainja,PANDOROBO,0,0,0,,どうしたらみんな来てくれるかな？
+Dialogue: 0,0:03:24.31,0:03:27.10,mainja,STARLING,0,0,0,,♬「おれは　ようきな」
+Dialogue: 0,0:03:27.10,0:03:29.86,mainja,STARLING,0,0,0,,♬「歌う　ムクドリ」
+Dialogue: 0,0:03:29.86,0:03:32.48,mainja,STARLING,0,0,0,,♬「おなかがへった」
+Dialogue: 0,0:03:32.48,0:03:34.90,mainja,STARLING,0,0,0,,♬「何かほおばりたいな」
+Dialogue: 0,0:03:38.78,0:03:40.49,mainja,STARLING,0,0,0,,パン、見っけ！
+Dialogue: 0,0:03:41.74,0:03:43.76,mainja,STARLING,0,0,0,,いただきま～す！
+Dialogue: 0,0:03:50.75,0:03:52.25,mainja,PANDOROBO,0,0,0,,ささってる…
+Dialogue: 0,0:03:58.38,0:04:00.43,mainja,STARLING,0,0,0,,おい！何でパンが動くんだギャ⁉
+Dialogue: 0,0:04:00.89,0:04:02.01,mainja,PANDOROBO,0,0,0,,パンじゃない！
+Dialogue: 0,0:04:02.01,0:04:03.68,mainja,PANDOROBO,0,0,0,,おれはパンどろぼうだ
+Dialogue: 0,0:04:04.27,0:04:05.93,mainja,STARLING,0,0,0,,そうか、どろぼう…
+Dialogue: 0,0:04:05.93,0:04:07.85,mainja,STARLING,0,0,0,,えっ？どろぼうなのギャ？
+Dialogue: 0,0:04:08.56,0:04:11.31,mainja,PANDOROBO,0,0,0,,いいや、どろぼうはやめた
+Dialogue: 0,0:04:11.31,0:04:14.28,mainja,PANDOROBO,0,0,0,,今はこの森のパン屋で\Nパンを作ってるんだ
+Dialogue: 0,0:04:14.86,0:04:16.44,mainja,STARLING,0,0,0,,森のパン屋？
+Dialogue: 0,0:04:22.07,0:04:24.49,mainja,STARLING,0,0,0,,ぜんぜんお客がいないギャ～！
+Dialogue: 0,0:04:25.41,0:04:28.62,mainja,STARLING,0,0,0,,♬「ガラガラ　ガッカリ\Nお客はいない」
+Dialogue: 0,0:04:28.62,0:04:32.96,mainja,STARLING,0,0,0,,♬「パンも　まずいに　違いない」
+Dialogue: 0,0:04:34.67,0:04:36.09,mainja,PANDOROBO,0,0,0,,言ったな！
+Dialogue: 0,0:04:37.67,0:04:39.34,mainja,PANDOROBO,0,0,0,,なら食べてみろ！
+Dialogue: 0,0:04:47.64,0:04:49.44,mainja,STARLING,0,0,0,,ンギャ～…
+Dialogue: 0,0:04:49.44,0:04:51.98,mainja,STARLING,0,0,0,,おいしい～！！！
+Dialogue: 0,0:04:51.98,0:04:55.40,mainja,STARLING,0,0,0,,パンパン　パパパン\Nパン　　パパーン！
+Dialogue: 0,0:04:55.40,0:04:58.90,mainja,STARLING,0,0,0,,おいしすぎて　　　　　　\N歌わずにはいられないギャ
+Dialogue: 0,0:04:58.90,0:05:02.03,topja,STARLING,0,0,0,,♬「パパパン　パン　パパパーン」
+Dialogue: 0,0:05:02.03,0:05:04.91,topja,STARLING,0,0,0,,♬「おいしいパン　食べた」
+Dialogue: 0,0:05:04.91,0:05:07.58,topja,STARLING,0,0,0,,♬「パンどろぼうの」
+Dialogue: 0,0:05:07.58,0:05:10.87,topja,STARLING,0,0,0,,♬「おいしいパン　食べた」
+Dialogue: 0,0:05:10.87,0:05:13.79,topja,STARLING,0,0,0,,♬「パパパン　パン　パパパーン」
+Dialogue: 0,0:05:13.79,0:05:16.92,topja,STARLING,0,0,0,,♬「おいしいパン　食べた」
+Dialogue: 0,0:05:16.92,0:05:19.63,topja,STARLING,0,0,0,,♬「森のパン屋の」
+Dialogue: 0,0:05:19.63,0:05:23.26,topja,STARLING,0,0,0,,♬「おいしいパン　食べた」
+Dialogue: 0,0:05:23.26,0:05:25.76,topja,STARLING,0,0,0,,♬「パン　パン　パパパン　パン」
+Dialogue: 0,0:05:25.76,0:05:29.48,topja,STARLING,0,0,0,,♬「パパパン　パン　パン　パーン」
+Dialogue: 0,0:05:07.58,0:05:10.04,mainja,GIRRAFE,0,0,0,,パンどろぼうの…パン？
+Dialogue: 0,0:05:13.00,0:05:14.54,mainja,KOGUMA'S DAD,0,0,0,,また歌ってるぞ
+Dialogue: 0,0:05:14.54,0:05:16.92,mainja,KOGUMA'S MOM,0,0,0,,パンどろぼうって\Nこの間の…
+Dialogue: 0,0:05:16.92,0:05:18.69,mainja,KOGUMA,0,0,0,,ぜったい　　　　\Nあの走るパンだ！
+Dialogue: 0,0:05:20.76,0:05:22.39,mainja,KOUSAGI'S MOM,0,0,0,,パンどろぼうが？
+Dialogue: 0,0:05:22.39,0:05:25.14,mainja,KOUSAGI,0,0,0,,森のパン屋さんで　\Nパンを作ってるの？
+Dialogue: 0,0:05:35.27,0:05:37.78,mainja,PANDOROBO,0,0,0,,焼きたてのパンが…
+Dialogue: 0,0:05:40.90,0:05:44.62,mainja,PANDOROBO,0,0,0,,パンが…さめていく
+Dialogue: 0,0:05:50.12,0:05:51.46,mainja,PANDOROBO,0,0,0,,もう待てない！
+Dialogue: 0,0:05:51.46,0:05:53.25,mainja,PANDOROBO,0,0,0,,おれがパンを…
+Dialogue: 0,0:05:54.33,0:05:55.46,mainja,PANDOROBO,0,0,0,,おれがパンを…！
+Dialogue: 0,0:05:55.88,0:05:59.23,mainja,PANDOROBO,0,0,0,,町のみんなにとどけに行く———！
+Dialogue: 0,0:06:03.13,0:06:05.49,mainja,PANDOROBO,0,0,0,,うおおお～！
+Dialogue: 0,0:06:06.22,0:06:09.06,mainja,PANDOROBO,0,0,0,,{\fad(0,300)}何事だ～⁉
+Dialogue: 0,0:06:09.52,0:06:11.23,mainja,KOGUMA,0,0,0,,わあ～っ
+Dialogue: 0,0:06:11.68,0:06:13.31,mainja,KOGUMA,0,0,0,,パンがいっぱいだ！
+Dialogue: 0,0:06:13.31,0:06:15.35,mainja,KOGUMA'S MOM,0,0,0,,おいしそうなカレーパン
+Dialogue: 0,0:06:15.35,0:06:17.23,mainja,KOGUMA'S DAD,0,0,0,,クリームパンもあるぞ
+Dialogue: 0,0:06:18.32,0:06:21.61,mainja,HIPPO,0,0,0,,こんなおいしいパンははじめてだ
+Dialogue: 0,0:06:21.61,0:06:23.82,mainja,WHITE CAT,0,0,0,,またたくさん買っちゃって
+Dialogue: 0,0:06:23.82,0:06:25.74,mainja,GIRRAFE,0,0,0,,おいしいですからな
+Dialogue: 0,0:06:25.78,0:06:27.99,mainja,KOGUMA,0,0,0,,いいにおい！
+Dialogue: 0,0:06:38.46,0:06:41.59,mainja,PANDOROBO,0,0,0,,だれかにパンを食べてもらうって
+Dialogue: 0,0:06:41.59,0:06:43.42,mainja,PANDOROBO,0,0,0,,しあわせだなあ
+Dialogue: 0,0:06:45.05,0:06:47.55,mainja,BAKER,0,0,0,,パンどろぼうはみも心も
+Dialogue: 0,0:06:47.93,0:06:51.39,mainja,BAKER,0,0,0,,りっぱなパンしょくにんに\Nなったのですね
+Dialogue: 0,0:06:54.70,0:06:57.31,mainja,NARRATOR,0,0,0,,＜パンが大好きパンどろぼう➡
+Dialogue: 0,0:06:57.31,0:07:00.21,mainja,NARRATOR,0,0,0,,パンどろぼうのパンは　\Nたちまち大人気になり➡
+Dialogue: 0,0:07:00.21,0:07:03.15,mainja,NARRATOR,0,0,0,,森のパン屋はほんとうに➡
+Dialogue: 0,0:07:03.15,0:07:07.74,mainja,NARRATOR,0,0,0,,世界一おいしい　　　　　　　\N森のパン屋になったのでした＞
+Dialogue: 0,0:07:18.00,0:07:19.67,mainja,NARRATOR,0,0,0,,＜これから３人が➡
+Dialogue: 0,0:07:19.67,0:07:22.34,mainja,NARRATOR,0,0,0,,いろいろな所にかくれるよ＞
+Dialogue: 0,0:07:22.34,0:07:25.38,mainja,PANDOROBO,0,0,0,,だれが一番多く出てくるかな？
+Dialogue: 0,0:07:29.22,0:07:32.14,mainja,NARRATOR,0,0,0,,＜どこかな？どこかな？＞
+Dialogue: 0,0:07:32.60,0:07:34.43,mainja,PANDOROBO,0,0,0,,おれはここだ！
+Dialogue: 0,0:07:40.23,0:07:42.07,mainja,PANDOROBO,0,0,0,,早足のじゅつ
+Dialogue: 0,0:08:00.96,0:08:04.34,mainja,PANDOROBO,0,0,0,,今日はおれが一番多かったぞ！
+Dialogue: 0,0:08:04.34,0:08:06.13,mainja,NARRATOR,0,0,0,,＜やったねパンどろぼう！＞
+Dialogue: 0,0:08:06.84,0:08:08.09,mainja,NARRATOR,0,0,0,,＜またあそぼうね＞
+Dialogue: 0,0:08:08.76,0:08:10.01,mainja,PANDOROBO,0,0,0,,またな！
+Dialogue: 0,0:08:12.89,0:08:15.68,mainja,KYARI,0,0,0,ENDING,♬「パンパン　パパパンパンパン　パパパン」
+Dialogue: 0,0:08:15.68,0:08:18.52,mainja,KYARI,0,0,0,ENDING,♬「パンパン　パパパンパン　パパパン」
+Dialogue: 0,0:08:18.52,0:08:21.27,mainja,KYARI,0,0,0,ENDING,♬「パンパン　パパパンパンパン　パパパン」
+Dialogue: 0,0:08:21.27,0:08:24.15,mainja,KYARI,0,0,0,ENDING,♬「ワン、トゥ、スリー、フォー\NPang Pang Pang」
+Dialogue: 0,0:08:24.15,0:08:26.99,mainja,KYARI,0,0,0,ENDING,♬「パンパン　パパパンパンパン　パパパン」
+Dialogue: 0,0:08:26.99,0:08:29.82,mainja,KYARI,0,0,0,ENDING,♬「パンパン　パパパンパン　パパパン」
+Dialogue: 0,0:08:29.82,0:08:32.66,mainja,KYARI,0,0,0,ENDING,♬「パンパン　パパパンパンパン　パパパン」
+Dialogue: 0,0:08:32.66,0:08:35.49,mainja,KYARI,0,0,0,ENDING,♬「ワン、トゥ、スリー、フォー\NPang Pang Pang」
+Dialogue: 0,0:08:35.49,0:08:38.29,mainja,KYARI,0,0,0,ENDING,♬「ふわり　ふわり　麦の声」
+Dialogue: 0,0:08:38.29,0:08:41.13,mainja,KYARI,0,0,0,ENDING,♬「きょろり　きょろり　影が揺れ」
+Dialogue: 0,0:08:41.13,0:08:43.92,mainja,KYARI,0,0,0,ENDING,♬「するり　するり　朝が咲く」
+Dialogue: 0,0:08:43.92,0:08:46.80,mainja,KYARI,0,0,0,ENDING,♬「そろり　そろり　運ぶだけ」
+Dialogue: 0,0:08:46.80,0:08:49.55,mainja,KYARI,0,0,0,ENDING,♬「パンパン　パパパンパンパン　パパパン」
+Dialogue: 0,0:08:49.55,0:08:52.39,mainja,KYARI,0,0,0,ENDING,♬「パンパン　パパパンパン　パパパン」
+Dialogue: 0,0:08:52.39,0:08:55.31,mainja,KYARI,0,0,0,ENDING,♬「パンパン　パパパンパンパン　パパパン」
+Dialogue: 0,0:08:55.31,0:08:57.89,mainja,KYARI,0,0,0,ENDING,♬「ワン、トゥ、スリー、フォー\NPang Pang Pang」
+
