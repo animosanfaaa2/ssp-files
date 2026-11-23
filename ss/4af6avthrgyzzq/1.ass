@@ -1,0 +1,280 @@
+[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: main,Ubuntu,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: italics,Ubuntu,24,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: topitalic,Ubuntu,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,0
+Style: signtext,Ubuntu,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: credits,Ubuntu,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.7,0.7,7,15,15,15,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 99,0:08:12.89,0:08:15.70,credits,,0,0,0,,{\b1}TL\NRTM\NTS\NLR\NMX-QC
+Dialogue: 99,0:08:12.89,0:08:15.70,credits,,0,0,0,,{\pos(50,15)}: geckyzz\N: geckyzz\N: geckyzz, ToonsHub\N: geckyzz\N: geckyzz
+Dialogue: 99,0:00:02.53,0:00:03.72,italics,,0,0,0,OPENING,PANDOROBO
+Dialogue: 99,0:00:04.13,0:00:05.00,italics,,0,0,0,OPENING,♪ "Let's go!"
+Dialogue: 99,0:00:05.00,0:00:06.73,italics,BAKER,0,0,0,OPENING,♪ "Croquette bread, cream bread"
+Dialogue: 99,0:00:06.73,0:00:09.08,italics,BAKER,0,0,0,OPENING,♪ "Melon bread, turtle bread,\Ncurry bread, koppe bread"
+Dialogue: 99,0:00:09.08,0:00:12.42,italics,BAKER,0,0,0,OPENING,♪ "Polar bear bread, croissant,\Ndonut, French bread"
+Dialogue: 99,0:00:12.42,0:00:14.57,italics,BAKER,0,0,0,OPENING,♪ "Choco-cornet, monkey bread,\Ncorn bread"
+Dialogue: 99,0:00:14.57,0:00:16.26,italics,BAKER,0,0,0,OPENING,♪ "Panda bread, pizza bread,\Nred bean bread"
+Dialogue: 99,0:00:16.26,0:00:18.28,italics,BAKER,0,0,0,OPENING,♪ "Sausage bread, rabbit bread,\Nkoala bread"
+Dialogue: 99,0:00:18.28,0:00:19.51,italics,BAKER,0,0,0,OPENING,♪ "White bread"
+Dialogue: 99,0:00:19.51,0:00:19.98,italics,BAKER,0,0,0,OPENING,♪ "…Huh!?"
+Dialogue: 99,0:00:20.25,0:00:22.75,italics,PANDOROBO,0,0,0,OPENING,♪ "If the baker looks that way"
+Dialogue: 99,0:00:22.75,0:00:25.07,italics,PANDOROBO,0,0,0,OPENING,♪ "I'm sneaking (I'm sneaking)"
+Dialogue: 99,0:00:25.07,0:00:26.98,italics,PANDOROBO,0,0,0,OPENING,♪ "If he looks this way"
+Dialogue: 99,0:00:26.98,0:00:28.40,italics,PANDOROBO,0,0,0,OPENING,♪ "Freeze! (Freeze!)"
+Dialogue: 99,0:00:28.94,0:00:30.87,italics,PANDOROBO,0,0,0,OPENING,♪ "If the baker looks that way"
+Dialogue: 99,0:00:30.87,0:00:32.87,italics,PANDOROBO,0,0,0,OPENING,♪ "I'm sneaking (I'm sneaking)"
+Dialogue: 99,0:00:32.87,0:00:35.01,italics,PANDOROBO,0,0,0,OPENING,♪ "If he looks this way"
+Dialogue: 99,0:00:35.01,0:00:37.02,italics,PANDOROBO,0,0,0,OPENING,♪ "Freeze! (Freeze!)"
+Dialogue: 99,0:00:37.43,0:00:40.75,italics,PANDOROBO,0,0,0,OPENING,♪ "Now! Dash to the exit, whoosh!"
+Dialogue: 99,0:00:40.75,0:00:42.67,italics,PANDOROBO,0,0,0,OPENING,♪ "All right! I did it!"
+Dialogue: 99,0:00:42.67,0:00:44.67,italics,PANDOROBO,0,0,0,OPENING,♪ "Thanks for the food!"
+Dialogue: 99,0:00:45.54,0:00:46.75,italics,PANDOROBO,0,0,0,OPENING,♪ "Yuck!"
+Dialogue: 99,0:00:44.67,0:00:46.75,signtext,PANDOROBO,0,0,0,OPENING,{\fnGloria Hallelujah\b1\1c&H5A04FF&\pos(472,49.333)\3c&H5A04FF&\bord1\fad(500,0)}Disgusting
+Dialogue: 99,0:00:47.43,0:00:50.35,italics,PANDOROBO,0,0,0,OPENING,♪ "Bread Thief (Pan-pan-pan-pan)"
+Dialogue: 99,0:00:50.35,0:00:53.32,italics,PANDOROBO,0,0,0,OPENING,♪ "Bread Thief (Pan-pan-pan-pan)"
+Dialogue: 99,0:00:53.32,0:00:56.43,italics,PANDOROBO,0,0,0,OPENING,♪ "Bread Thief (Pan-pan-pan-pan)"
+Dialogue: 99,0:00:56.43,0:00:59.46,italics,PANDOROBO,0,0,0,OPENING,♪ "Bread Thief, Bread Thief"
+Dialogue: 99,0:00:56.43,0:00:59.29,signtext,PANDOROBO,0,0,0,OPENING,{\fnBeachday\move(320,145,320,250,960,1370)\1c&H0845E7&\3c&HFFFFFF&\bord10\t(900,1400,\3a&HFF&\1c&H0024FF&)}PANDOROBO
+Dialogue: 99,0:00:59.29,0:00:59.33,signtext,PANDOROBO,0,0,0,OPENING,{\fnBeachday\pos(320,250)\3a&HFF&\1c&H0024FF&)\clip(m 203 235 l 205 241 207 251 206 260 202 270 202 274 203 287 443 284 443 230 200 230)}PANDOROBO
+Dialogue: 99,0:00:59.33,0:00:59.36,signtext,PANDOROBO,0,0,0,OPENING,{\fnBeachday\pos(320,250)\3a&HFF&\1c&H0024FF&)\clip(m 267 235 l 270 245 268 255 264 262 263 268 265 276 264 284 443 284 443 230 264 232)}PANDOROBO
+Dialogue: 99,0:00:59.36,0:00:59.43,signtext,PANDOROBO,0,0,0,OPENING,{\fnBeachday\pos(320,250)\3a&HFF&\1c&H0024FF&)\iclip(m 215 270 l 215 265 215 261 216 257 216 253 218 249 220 244 223 240 227 236 329 232 333 236 335 240 338 242 338 246 338 250 338 253 337 256 336 259 336 262 334 265 333 268 333 270 332 272 216 273)}PANDOROBO
+Dialogue: 99,0:00:59.43,0:00:59.46,signtext,PANDOROBO,0,0,0,OPENING,{\fnBeachday\pos(320,250)\3a&HFF&\1c&H0024FF&)\iclip(m 257 275 l 256 270 257 267 257 264 258 259 260 254 261 250 263 247 264 243 266 242 264 238 262 236 260 234 340 225 349 227 356 228 362 231 367 233 373 240 376 244 378 248 378 252 379 255 378 259 378 263 378 265 376 269 374 272)}PANDOROBO
+Dialogue: 99,0:00:59.46,0:00:59.49,signtext,PANDOROBO,0,0,0,OPENING,{\fnBeachday\pos(320,250)\3a&HFF&\1c&H0024FF&)\iclip(m 316 271 l 315 266 315 263 315 258 316 253 317 249 318 244 321 241 322 238 324 236 323 233 321 229 319 227 397 219 402 220 412 221 423 225 430 231 434 238 437 245 437 248 437 250 437 253 437 255 436 259 435 261 435 265 432 266 432 268 431 270 318 275)}PANDOROBO
+Dialogue: 99,0:00:59.49,0:00:59.53,signtext,PANDOROBO,0,0,0,OPENING,{\fnBeachday\pos(320,250)\3a&HFF&\1c&H0024FF&)\iclip(m 378 276 l 376 271 375 265 375 260 376 255 377 248 380 242 384 236 387 232 384 229 473 218 479 221 494 233 498 244 498 252 494 263 492 267 492 271 492 276)}PANDOROBO
+Dialogue: 99,0:00:59.53,0:01:00.04,signtext,PANDOROBO,0,0,0,OPENING,{\fnBeachday\pos(320,250)\3a&HFF&\1c&H0024FF&}PANDOROBO
+Dialogue: 99,0:01:01.05,0:01:05.46,signtext,,0,0,0,,{\fad(950,0)\1a&HFF&\3c&HFFFFFF&\bord1.3\blur3\fnAller Display\pos(320,260)\fs40}The Bread Thief: Becoming a Baker
+Dialogue: 99,0:01:01.05,0:01:05.46,signtext,,0,0,0,,{\fad(950,0)\c&H2151CE&\fnAller Display\pos(320,260)\fs40}The Bread Thief: Becoming a Baker
+Dialogue: 0,0:01:01.96,0:01:05.46,main,PANDOROBO,0,0,0,TITLE,The Bread Thief:\NBecoming a Baker
+Dialogue: 0,0:01:07.36,0:01:09.69,main,BAKER,0,0,0,,Good morning.
+Dialogue: 0,0:01:10.32,0:01:11.22,main,BAKER,0,0,0,,Huh?
+Dialogue: 0,0:01:11.22,0:01:14.30,main,BAKER,0,0,0,,Where is he?
+Dialogue: 0,0:01:22.46,0:01:25.50,main,BAKER,0,0,0,,You really love\Nwearing that, don't you?
+Dialogue: 0,0:01:25.50,0:01:28.67,main,PANDOROBO,0,0,0,,Nothing beats the comfort\Nof this outfit.
+Dialogue: 0,0:01:29.21,0:01:30.80,main,PANDOROBO,0,0,0,,Good morning!
+Dialogue: 0,0:01:30.80,0:01:34.47,main,PANDOROBO,0,0,0,,I was up baking all night\Nand dozed off before I knew it.
+Dialogue: 0,0:01:34.47,0:01:37.26,main,BAKER,0,0,0,,So that's why\Nyou made so many breads?
+Dialogue: 0,0:01:39.10,0:01:41.77,main,PANDOROBO,0,0,0,,What should I do\Nwith all these breads?
+Dialogue: 0,0:01:41.77,0:01:45.50,main,BAKER,0,0,0,,Why don't you\Nsell them in my shop?
+Dialogue: 0,0:01:46.18,0:01:49.44,main,BAKER,0,0,0,,Lots of people will\Nget to enjoy them.
+Dialogue: 0,0:01:49.44,0:01:52.05,main,PANDOROBO,0,0,0,,Huh? Are you sure?
+Dialogue: 0,0:01:59.24,0:02:01.58,main,PANDOROBO,0,0,0,,Look how tasty they are!
+Dialogue: 1,0:02:01.58,0:02:09.58,signtext,せかいいちおいしい,0,0,0,,{\an8\c&H233A46&\fnGloria Hallelujah\fs30\3c&H233A46&\4c&H233A46&\bord0.3\move(330,133,330,-30,0,2836)\frx0\fry358}World's Most Delicious
+Dialogue: 1,0:02:01.58,0:02:09.58,signtext,もりのパンや,0,0,0,,{\an8\c&H233A46&\fnGloria Hallelujah\fs50\3c&H233A46&\4c&H233A46&\bord1\move(330,153,330,-10,0,2836)\frx0\fry358}Forest Bakery
+Dialogue: 0,0:02:05.56,0:02:07.48,main,BAKER,0,0,0,,All right, we're open!
+Dialogue: 0,0:02:12.07,0:02:12.59,signtext,せかいいちおいしい,0,0,0,,{\an8\c&H233A46&\fnGloria Hallelujah\fs7\3c&H233A46&\4c&H233A46&\bord0.1\pos(396.64,55.07)}World's Most Delicious
+Dialogue: 0,0:02:12.07,0:02:12.59,signtext,もりのパンや,0,0,0,,{\an8\c&H233A46&\fnGloria Hallelujah\fs14\3c&H233A46&\4c&H233A46&\bord0.3\pos(396.64,60.07)}Forest Bakery
+Dialogue: 0,0:02:12.59,0:02:16.57,main,PANDOROBO,0,0,0,,Huh?\NNobody's showing up.
+Dialogue: 0,0:02:17.78,0:02:19.45,main,PANDOROBO,0,0,0,,What's going on?
+Dialogue: 0,0:02:20.37,0:02:22.37,main,PANDOROBO,0,0,0,,Are they facing the wrong way?
+Dialogue: 0,0:02:24.75,0:02:26.33,main,PANDOROBO,0,0,0,,Maybe like this instead?
+Dialogue: 0,0:02:34.01,0:02:36.26,main,PANDOROBO,0,0,0,,Still nobody's coming…
+Dialogue: 0,0:02:37.05,0:02:39.26,main,PANDOROBO,0,0,0,,I know! Maybe…
+Dialogue: 0,0:02:40.47,0:02:43.43,main,PANDOROBO,0,0,0,,I didn't put enough love\Ninto making them!
+Dialogue: 0,0:02:45.87,0:02:48.98,main,PANDOROBO,0,0,0,,My dear, dear, {\i1}dearest{\i0} bread,
+Dialogue: 0,0:02:48.98,0:02:50.53,main,PANDOROBO,0,0,0,,get nice and yummy!
+Dialogue: 0,0:02:50.98,0:02:52.94,main,BAKER,0,0,0,,Let me help you.
+Dialogue: 0,0:02:53.36,0:02:55.70,main,PANDOROBO,0,0,0,,It's fine, I've got this!
+Dialogue: 0,0:02:57.26,0:03:03.26,main,せかいいちおいしい,0,0,0,,{\an8\c&H233A46&\fnGloria Hallelujah\fs24\3c&H233A46&\4c&H233A46&\bord0.1\pos(552.64,100.4)}World's Most Delicious
+Dialogue: 0,0:02:57.26,0:03:03.26,main,もりのパンや,0,0,0,,{\an8\c&H233A46&\fnGloria Hallelujah\fs30\3c&H233A46&\4c&H233A46&\bord0.4\pos(552.64,120.4)}Forest Bakery
+Dialogue: 0,0:03:00.99,0:03:03.26,main,PANDOROBO,0,0,0,,Still nobody's coming.
+Dialogue: 0,0:03:03.83,0:03:06.00,main,BAKER,0,0,0,,Patience is the key here.
+Dialogue: 0,0:03:06.54,0:03:09.25,main,BAKER,0,0,0,,Why don't you go\Ntake a little break?
+Dialogue: 0,0:03:17.30,0:03:19.26,main,PANDOROBO,0,0,0,,My breads are so delicious,
+Dialogue: 0,0:03:20.05,0:03:23.14,main,PANDOROBO,0,0,0,,{\an1}so how do I get everyone\Nto come try them?
+Dialogue: 0,0:03:24.31,0:03:27.10,topitalic,STARLING,0,0,0,,♪ "I'm a happy-go-lucky…"
+Dialogue: 0,0:03:27.10,0:03:29.86,topitalic,STARLING,0,0,0,,♪ "singing starling"
+Dialogue: 0,0:03:29.86,0:03:32.48,topitalic,STARLING,0,0,0,,♪ "My tummy's growling"
+Dialogue: 0,0:03:32.48,0:03:34.90,topitalic,STARLING,0,0,0,,♪ "Time to stuff my beak\Nwith something"
+Dialogue: 0,0:03:38.78,0:03:40.49,main,STARLING,0,0,0,,Bread spotted!
+Dialogue: 0,0:03:41.74,0:03:43.76,main,STARLING,0,0,0,,Thanks for the food!
+Dialogue: 0,0:03:50.75,0:03:52.25,main,PANDOROBO,0,0,0,,They got stuck…
+Dialogue: 0,0:03:58.38,0:04:00.43,main,STARLING,0,0,0,,Hey! Why is\Nthe bread moving, caw?!
+Dialogue: 0,0:04:00.89,0:04:02.01,main,PANDOROBO,0,0,0,,I'm not bread!
+Dialogue: 0,0:04:02.01,0:04:03.68,main,PANDOROBO,0,0,0,,I'm the Bread Thief!
+Dialogue: 0,0:04:04.27,0:04:05.93,main,STARLING,0,0,0,,I see, a thief…
+Dialogue: 0,0:04:05.93,0:04:07.85,main,STARLING,0,0,0,,Huh? A thief?!
+Dialogue: 0,0:04:08.56,0:04:11.31,main,PANDOROBO,0,0,0,,{\an3}Nope, I gave up stealing.
+Dialogue: 0,0:04:11.31,0:04:14.28,main,PANDOROBO,0,0,0,,{\an3}Now I bake bread right here\Nat the Forest Bakery.
+Dialogue: 0,0:04:14.86,0:04:16.44,main,STARLING,0,0,0,,The Forest Bakery?
+Dialogue: 0,0:04:22.07,0:04:24.49,main,STARLING,0,0,0,,The place is completely dead, caw!
+Dialogue: 0,0:04:25.41,0:04:28.62,italics,STARLING,0,0,0,,♪ "Empty and gloomy,\Nnot a soul in sight!"
+Dialogue: 0,0:04:28.62,0:04:32.96,italics,STARLING,0,0,0,,♪ "The bread must taste awful,\Nthat's gotta be right!"
+Dialogue: 0,0:04:34.67,0:04:36.09,main,PANDOROBO,0,0,0,,So that's how it is!
+Dialogue: 0,0:04:37.67,0:04:39.34,main,PANDOROBO,0,0,0,,Here, try a bite!
+Dialogue: 0,0:04:49.44,0:04:51.98,main,STARLING,0,0,0,,So good!!
+Dialogue: 0,0:04:51.98,0:04:55.40,main,STARLING,0,0,0,,Pan-pan, papa-pan,\Npan, pa-paaan!
+Dialogue: 0,0:04:55.40,0:04:58.90,main,STARLING,0,0,0,,It's so yummy\NI can't help singing, caw!
+Dialogue: 0,0:04:58.90,0:05:02.03,topitalic,STARLING,0,0,0,,♪ "Papa-pan, pan, papa-paaan"
+Dialogue: 0,0:05:02.03,0:05:04.91,topitalic,STARLING,0,0,0,,♪ "I ate yummy bread"
+Dialogue: 0,0:05:04.91,0:05:07.58,topitalic,STARLING,0,0,0,,{\an9}♪ "I ate yummy bread"
+Dialogue: 0,0:05:07.58,0:05:10.87,topitalic,STARLING,0,0,0,,{\an9}♪ "made by the Bread Thief"
+Dialogue: 0,0:05:10.87,0:05:13.79,topitalic,STARLING,0,0,0,,{\an9}♪ "Papa-pan, pan, papa-paaan"
+Dialogue: 0,0:05:13.79,0:05:16.92,topitalic,STARLING,0,0,0,,♪ "I ate yummy bread"
+Dialogue: 0,0:05:16.92,0:05:19.63,topitalic,STARLING,0,0,0,,♪ "I ate yummy bread"
+Dialogue: 0,0:05:19.63,0:05:23.26,topitalic,STARLING,0,0,0,,♪ "from the Forest Bakery"
+Dialogue: 0,0:05:23.26,0:05:25.76,topitalic,STARLING,0,0,0,,♪ "Pan, pan, papa-pan, pan"
+Dialogue: 0,0:05:25.76,0:05:29.48,topitalic,STARLING,0,0,0,,♪ "Papa-pan, pan, pan, paaan"
+Dialogue: 0,0:05:07.58,0:05:10.04,main,GIRAFFE,0,0,0,,The Bread Thief's… bread?
+Dialogue: 0,0:05:13.00,0:05:14.54,main,KOGUMA'S DAD,0,0,0,,He's at it again.
+Dialogue: 0,0:05:14.54,0:05:16.92,main,KOGUMA'S MOM,0,0,0,,The Bread Thief…\NCould that be from the other day?
+Dialogue: 0,0:05:16.92,0:05:18.69,main,KOGUMA,0,0,0,,That's gotta be\Nthat running bread!
+Dialogue: 0,0:05:20.76,0:05:22.39,main,KOUSAGI'S MOM,0,0,0,,The Bread Thief?
+Dialogue: 0,0:05:22.39,0:05:25.14,main,KOUSAGI,0,0,0,,He's baking bread\Nat the Forest Bakery?
+Dialogue: 0,0:05:34.31,0:05:37.82,signtext,,0,0,0,,{\c&H141F20&\fnWinkle\an9\fs25\bord3\3c&HFFFFFF&}Freshly Baked Times\N- 8 AM\N- 11 AM\N- 3 PM
+Dialogue: 0,0:05:35.27,0:05:37.82,main,PANDOROBO,0,0,0,,My fresh-baked breads…
+Dialogue: 0,0:05:40.90,0:05:44.62,main,PANDOROBO,0,0,0,,They're getting cold…
+Dialogue: 0,0:05:50.12,0:05:51.46,main,PANDOROBO,0,0,0,,I can't wait anymore!
+Dialogue: 0,0:05:51.46,0:05:53.25,main,PANDOROBO,0,0,0,,I'll bring the breads…
+Dialogue: 0,0:05:54.33,0:05:55.46,main,PANDOROBO,0,0,0,,I'll bring the breads…
+Dialogue: 0,0:05:55.88,0:05:59.23,main,PANDOROBO,0,0,0,,straight to everyone in town!
+Dialogue: 0,0:06:03.13,0:06:05.49,main,PANDOROBO,0,0,0,,Whoooa!
+Dialogue: 0,0:06:06.22,0:06:09.06,main,PANDOROBO,0,0,0,,{\fad(0,300)}What's going on?!
+Dialogue: 0,0:06:09.52,0:06:11.23,main,KOGUMA,0,0,0,,Whoa!
+Dialogue: 0,0:06:11.68,0:06:13.31,main,KOGUMA,0,0,0,,Look at all these breads!
+Dialogue: 0,0:06:13.31,0:06:15.35,main,KOGUMA'S MOM,0,0,0,,That curry bread looks delicious!
+Dialogue: 0,0:06:15.35,0:06:17.23,main,KOGUMA'S DAD,0,0,0,,They have cream bread too.
+Dialogue: 0,0:06:18.32,0:06:21.61,main,KABA (HIPPO),0,0,0,,I've never tasted bread\Nthis good before!
+Dialogue: 0,0:06:21.61,0:06:23.82,main,SHIRONEKO,0,0,0,,You bought a whole lot again.
+Dialogue: 0,0:06:23.82,0:06:25.74,main,GIRAFFE,0,0,0,,Can you blame them?\NThey're delicious.
+Dialogue: 0,0:06:25.78,0:06:27.99,main,KOGUMA,0,0,0,,Smells amazing!
+Dialogue: 0,0:06:38.46,0:06:41.59,main,PANDOROBO,0,0,0,,Seeing people enjoy my breads
+Dialogue: 0,0:06:41.59,0:06:43.42,main,PANDOROBO,0,0,0,,makes me so happy.
+Dialogue: 0,0:06:45.05,0:06:47.55,main,BAKER,0,0,0,,The Bread Thief has truly become
+Dialogue: 0,0:06:47.93,0:06:51.39,main,BAKER,0,0,0,,a proper baker,\Nin body and soul.
+Dialogue: 0,0:06:54.70,0:06:57.31,italics,NARRATOR,0,0,0,,The Bread Thief loves bread.
+Dialogue: 0,0:06:57.31,0:07:00.21,italics,NARRATOR,0,0,0,,His breads became an instant hit,
+Dialogue: 1,0:07:00.21,0:07:03.95,signtext,ほんとうにせかいいちおいしい　もりのパンや,0,0,0,,{\an7\c&H223238&\fnGloria Hallelujah\bord5\3c&HFFFFFF&\fs30}(Actually) World's Most Delicious\N{\fs40}The Forest Bakery
+Dialogue: 2,0:07:00.21,0:07:03.95,signtext,ほんとうにせかいいちおいしい　もりのパンや,0,0,0,,{\an7\c&H223238&\fnGloria Hallelujah\bord1\3c&H223238&\fs30}(Actually) World's Most Delicious\N{\fs40}The Forest Bakery
+Dialogue: 1,0:07:03.95,0:07:10.45,signtext,ほんとうにせかいいちおいしい　もりのパンや,0,0,0,,{\an9\c&H223238&\fnGloria Hallelujah\bord5\3c&HFFFFFF&\fs30}(Actually) World's Most Delicious\N{\fs40}The Forest Bakery
+Dialogue: 2,0:07:03.95,0:07:10.45,signtext,ほんとうにせかいいちおいしい　もりのパンや,0,0,0,,{\an9\c&H223238&\fnGloria Hallelujah\bord1\3c&H223238&\fs30}(Actually) World's Most Delicious\N{\fs40}The Forest Bakery
+Dialogue: 0,0:07:00.21,0:07:03.15,italics,NARRATOR,0,0,0,,and the Forest Bakery truly became
+Dialogue: 0,0:07:03.15,0:07:07.74,italics,NARRATOR,0,0,0,,the most delicious bakery\Nin the world.
+Dialogue: 1,0:07:13.18,0:07:13.22,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&HE7F9FF&\bord2.3\blur0.54\fscx100\fscy100\frz0\move(87.835,531.833,109.278,500.245,3,44)\3a&H00&\1a&HFF&\4a&HFF&\fscx143.865\fscy143.865\t(3,44,\fscx145.052\fscy145.052)}Let's Play
+Dialogue: 1,0:07:13.22,0:07:13.43,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&HE7F9FF&\bord2.3\blur0.54\fscx100\fscy100\frz0\move(109.278,500.245,227.286,340.669,4,213)\3a&H00&\1a&HFF&\4a&HFF&\fscx145.052\fscy145.052\t(4,213,\fscx154.357\fscy154.357)}Let's Play
+Dialogue: 1,0:07:13.43,0:07:13.47,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&HE7F9FF&\bord2.3\blur0.54\fscx100\fscy100\frz0\move(227.286,340.669,249.268,311.079,3,45)\3a&H00&\1a&HFF&\4a&HFF&\fscx154.357\fscy154.357\t(3,45,\fscx156.272\fscy156.272)}Let's Play
+Dialogue: 1,0:07:13.47,0:07:13.51,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&HE7F9FF&\bord2.3\blur0.54\fscx100\fscy100\frz0\move(249.268,311.079,297.388,296.319,5,46)\3a&H00&\1a&HFF&\4a&HFF&\fscx156.272\fscy156.272\t(5,46,\fscx152.91\fscy152.91)}Let's Play
+Dialogue: 1,0:07:13.51,0:07:13.55,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&HE7F9FF&\bord2.3\blur0.54\fscx100\fscy100\frz0\move(297.388,296.319,309.41,281.456,6,48)\3a&H00&\1a&HFF&\4a&HFF&\fscx152.91\fscy152.91\t(6,48,\fscx147.799\fscy147.799)}Let's Play
+Dialogue: 1,0:07:13.55,0:07:13.60,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&HE7F9FF&\bord2.3\blur0.54\fscx100\fscy100\frz0\move(309.41,281.456,311.113,270.061,8,50)\3a&H00&\1a&HFF&\4a&HFF&\fscx147.799\fscy147.799\t(8,50,\fscx142.836\fscy142.836)}Let's Play
+Dialogue: 1,0:07:13.60,0:07:13.64,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&HE7F9FF&\bord2.3\blur0.54\fscx100\fscy100\frz0\move(311.113,270.061,308.116,261.02,0,42)\3a&H00&\1a&HFF&\4a&HFF&\fscx142.836\fscy142.836\t(0,42,\fscx138.114\fscy138.114)}Let's Play
+Dialogue: 1,0:07:13.64,0:07:13.68,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&HE7F9FF&\bord2.3\blur0.54\fscx100\fscy100\frz0\move(308.116,261.02,302.794,253.671,2,43)\3a&H00&\1a&HFF&\4a&HFF&\fscx138.114\fscy138.114\t(2,43,\fscx133.742\fscy133.742)}Let's Play
+Dialogue: 1,0:07:13.68,0:07:13.72,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&HE7F9FF&\bord2.3\blur0.54\fscx100\fscy100\frz0\move(302.794,253.671,296.312,248.016,3,45)\3a&H00&\1a&HFF&\4a&HFF&\fscx133.742\fscy133.742\t(3,45,\fscx129.836\fscy129.836)}Let's Play
+Dialogue: 1,0:07:13.72,0:07:13.80,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&HE7F9FF&\bord2.3\blur0.54\fscx100\fscy100\frz0\move(296.312,248.016,283.265,239.788,5,88)\3a&H00&\1a&HFF&\4a&HFF&\fscx129.836\fscy129.836\t(5,88,\fscx123.303\fscy123.303)}Let's Play
+Dialogue: 1,0:07:13.80,0:07:13.89,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&HE7F9FF&\bord2.3\blur0.54\fscx100\fscy100\frz0\move(283.265,239.788,272.227,234.431,8,92)\3a&H00&\1a&HFF&\4a&HFF&\fscx123.303\fscy123.303\t(8,92,\fscx118.253\fscy118.253)}Let's Play
+Dialogue: 1,0:07:13.89,0:07:13.97,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&HE7F9FF&\bord2.3\blur0.54\fscx100\fscy100\frz0\move(272.227,234.431,263.112,230.848,2,85)\3a&H00&\1a&HFF&\4a&HFF&\fscx118.253\fscy118.253\t(2,85,\fscx114.328\fscy114.328)}Let's Play
+Dialogue: 1,0:07:13.97,0:07:14.05,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&HE7F9FF&\bord2.3\blur0.54\fscx100\fscy100\frz0\move(263.112,230.848,255.902,228.298,5,89)\3a&H00&\1a&HFF&\4a&HFF&\fscx114.328\fscy114.328\t(5,89,\fscx111.287\fscy111.287)}Let's Play
+Dialogue: 1,0:07:14.05,0:07:14.14,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&HE7F9FF&\bord2.3\blur0.54\fscx100\fscy100\frz0\move(255.902,228.298,250.004,226.439,9,92)\3a&H00&\1a&HFF&\4a&HFF&\fscx111.287\fscy111.287\t(9,92,\fscx108.838\fscy108.838)}Let's Play
+Dialogue: 1,0:07:14.14,0:07:14.26,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&HE7F9FF&\bord2.3\blur0.54\fscx100\fscy100\frz0\move(250.004,226.439,243.33,224.517,2,127)\3a&H00&\1a&HFF&\4a&HFF&\fscx108.838\fscy108.838\t(2,127,\fscx106.149\fscy106.149)}Let's Play
+Dialogue: 1,0:07:14.26,0:07:14.39,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&HE7F9FF&\bord2.3\blur0.54\fscx100\fscy100\frz0\move(243.33,224.517,238.46,223.264,7,132)\3a&H00&\1a&HFF&\4a&HFF&\fscx106.149\fscy106.149\t(7,132,\fscx104.161\fscy104.161)}Let's Play
+Dialogue: 1,0:07:14.39,0:07:14.55,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&HE7F9FF&\bord2.3\blur0.54\fscx100\fscy100\frz0\move(238.46,223.264,233.804,222.19,2,169)\3a&H00&\1a&HFF&\4a&HFF&\fscx104.161\fscy104.161\t(2,169,\fscx102.309\fscy102.309)}Let's Play
+Dialogue: 1,0:07:14.55,0:07:14.68,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&HE7F9FF&\bord2.3\blur0.54\fscx100\fscy100\frz0\move(233.804,222.19,231.452,221.68,9,134)\3a&H00&\1a&HFF&\4a&HFF&\fscx102.309\fscy102.309\t(9,134,\fscx101.358\fscy101.358)}Let's Play
+Dialogue: 1,0:07:14.68,0:07:14.89,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&HE7F9FF&\bord2.3\blur0.54\fscx100\fscy100\frz0\move(231.452,221.68,228.978,221.209,4,213)\3a&H00&\1a&HFF&\4a&HFF&\fscx101.358\fscy101.358\t(4,213,\fscx100.432\fscy100.432)}Let's Play
+Dialogue: 1,0:07:14.89,0:07:15.10,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&HE7F9FF&\bord2.3\blur0.54\fscx100\fscy100\frz0\move(228.978,221.209,228.051,221.006,3,211)\3a&H00&\1a&HFF&\4a&HFF&\fscx100.432\fscy100.432\t(3,211,\fscx100.015\fscy100.015)}Let's Play
+Dialogue: 1,0:07:15.10,0:07:17.47,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&HE7F9FF&\bord2.3\blur0.54\fscx100\fscy100\frz0\move(228.051,221.006,227.992,220.982,1,2379)\3a&H00&\1a&HFF&\4a&HFF&\fscx100.015\fscy100.015\t(1,2379,\fscx99.991\fscy99.991)}Let's Play
+Dialogue: 2,0:07:13.18,0:07:13.22,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(87.835,531.833,109.278,500.245,3,44)\alpha&H00&\fscx143.865\fscy143.865\t(3,44,\fscx145.052\fscy145.052)}Let's Play
+Dialogue: 2,0:07:13.22,0:07:13.43,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(109.278,500.245,227.286,340.669,4,213)\alpha&H00&\fscx145.052\fscy145.052\t(4,213,\fscx154.357\fscy154.357)}Let's Play
+Dialogue: 2,0:07:13.43,0:07:13.47,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(227.286,340.669,249.268,311.079,3,45)\alpha&H00&\fscx154.357\fscy154.357\t(3,45,\fscx156.272\fscy156.272)}Let's Play
+Dialogue: 2,0:07:13.47,0:07:13.51,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(249.268,311.079,297.388,296.319,5,46)\alpha&H00&\fscx156.272\fscy156.272\t(5,46,\fscx152.91\fscy152.91)}Let's Play
+Dialogue: 2,0:07:13.51,0:07:13.55,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(297.388,296.319,309.41,281.456,6,48)\alpha&H00&\fscx152.91\fscy152.91\t(6,48,\fscx147.799\fscy147.799)}Let's Play
+Dialogue: 2,0:07:13.55,0:07:13.60,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(309.41,281.456,311.113,270.061,8,50)\alpha&H00&\fscx147.799\fscy147.799\t(8,50,\fscx142.836\fscy142.836)}Let's Play
+Dialogue: 2,0:07:13.60,0:07:13.64,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(311.113,270.061,308.116,261.02,0,42)\alpha&H00&\fscx142.836\fscy142.836\t(0,42,\fscx138.114\fscy138.114)}Let's Play
+Dialogue: 2,0:07:13.64,0:07:13.68,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(308.116,261.02,302.794,253.671,2,43)\alpha&H00&\fscx138.114\fscy138.114\t(2,43,\fscx133.742\fscy133.742)}Let's Play
+Dialogue: 2,0:07:13.68,0:07:13.72,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(302.794,253.671,296.312,248.016,3,45)\alpha&H00&\fscx133.742\fscy133.742\t(3,45,\fscx129.836\fscy129.836)}Let's Play
+Dialogue: 2,0:07:13.72,0:07:13.80,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(296.312,248.016,283.265,239.788,5,88)\alpha&H00&\fscx129.836\fscy129.836\t(5,88,\fscx123.303\fscy123.303)}Let's Play
+Dialogue: 2,0:07:13.80,0:07:13.89,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(283.265,239.788,272.227,234.431,8,92)\alpha&H00&\fscx123.303\fscy123.303\t(8,92,\fscx118.253\fscy118.253)}Let's Play
+Dialogue: 2,0:07:13.89,0:07:13.97,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(272.227,234.431,263.112,230.848,2,85)\alpha&H00&\fscx118.253\fscy118.253\t(2,85,\fscx114.328\fscy114.328)}Let's Play
+Dialogue: 2,0:07:13.97,0:07:14.05,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(263.112,230.848,255.902,228.298,5,89)\alpha&H00&\fscx114.328\fscy114.328\t(5,89,\fscx111.287\fscy111.287)}Let's Play
+Dialogue: 2,0:07:14.05,0:07:14.14,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(255.902,228.298,250.004,226.439,9,92)\alpha&H00&\fscx111.287\fscy111.287\t(9,92,\fscx108.838\fscy108.838)}Let's Play
+Dialogue: 2,0:07:14.14,0:07:14.26,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(250.004,226.439,243.33,224.517,2,127)\alpha&H00&\fscx108.838\fscy108.838\t(2,127,\fscx106.149\fscy106.149)}Let's Play
+Dialogue: 2,0:07:14.26,0:07:14.39,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(243.33,224.517,238.46,223.264,7,132)\alpha&H00&\fscx106.149\fscy106.149\t(7,132,\fscx104.161\fscy104.161)}Let's Play
+Dialogue: 2,0:07:14.39,0:07:14.55,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(238.46,223.264,233.804,222.19,2,169)\alpha&H00&\fscx104.161\fscy104.161\t(2,169,\fscx102.309\fscy102.309)}Let's Play
+Dialogue: 2,0:07:14.55,0:07:14.68,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(233.804,222.19,231.452,221.68,9,134)\alpha&H00&\fscx102.309\fscy102.309\t(9,134,\fscx101.358\fscy101.358)}Let's Play
+Dialogue: 2,0:07:14.68,0:07:14.89,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(231.452,221.68,228.978,221.209,4,213)\alpha&H00&\fscx101.358\fscy101.358\t(4,213,\fscx100.432\fscy100.432)}Let's Play
+Dialogue: 2,0:07:14.89,0:07:15.10,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(228.978,221.209,228.051,221.006,3,211)\alpha&H00&\fscx100.432\fscy100.432\t(3,211,\fscx100.015\fscy100.015)}Let's Play
+Dialogue: 2,0:07:15.10,0:07:17.47,signtext,あそぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&H3092E6&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(228.051,221.006,227.992,220.982,1,2379)\alpha&H00&\fscx100.015\fscy100.015\t(1,2379,\fscx99.991\fscy99.991)}Let's Play
+Dialogue: 1,0:07:14.35,0:07:14.43,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&HE7F9FF&\bord2.2\blur0.54\fscx100\fscy100\frz0\move(359.998,439.748,360.011,335.002,1,84)\3a&H00&\1a&HFF&\4a&HFF&\fscx99.997\fscy99.997}Bread Thief!
+Dialogue: 1,0:07:14.43,0:07:14.47,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&HE7F9FF&\bord2.2\blur0.54\fscx100\fscy100\frz0\move(360.011,335.002,360.028,361.1,4,46)\3a&H00&\1a&HFF&\4a&HFF&\fscx99.993\fscy99.993}Bread Thief!
+Dialogue: 1,0:07:14.47,0:07:14.51,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&HE7F9FF&\bord2.2\blur0.54\fscx100\fscy100\frz0\move(360.028,361.1,360.013,376.748,6,47)\3a&H00&\1a&HFF&\4a&HFF&\fscx99.986\fscy99.986}Bread Thief!
+Dialogue: 1,0:07:14.51,0:07:14.55,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&HE7F9FF&\bord2.2\blur0.54\fscx100\fscy100\frz0\move(360.013,376.748,360.005,379.855,7,49)\3a&H00&\1a&HFF&\4a&HFF&\fscx99.992\fscy99.992}Bread Thief!
+Dialogue: 1,0:07:14.55,0:07:14.60,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&HE7F9FF&\bord2.2\blur0.54\fscx100\fscy100\frz0\move(360.005,379.855,360.013,368.22,9,51)\3a&H00&\1a&HFF&\4a&HFF&\fscx99.991\fscy99.991}Bread Thief!
+Dialogue: 1,0:07:14.60,0:07:14.64,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&HE7F9FF&\bord2.2\blur0.54\fscx100\fscy100\frz0\move(360.013,368.22,359.991,346.65,1,43)\3a&H00&\1a&HFF&\4a&HFF&\fscx99.988\fscy99.988}Bread Thief!
+Dialogue: 1,0:07:14.64,0:07:14.68,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&HE7F9FF&\bord2.2\blur0.54\fscx100\fscy100\frz0\move(359.991,346.65,360.016,334.992,3,44)\3a&H00&\1a&HFF&\4a&HFF&\fscx99.991\fscy99.991}Bread Thief!
+Dialogue: 1,0:07:14.68,0:07:14.72,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&HE7F9FF&\bord2.2\blur0.54\fscx100\fscy100\frz0\move(360.016,334.992,360.014,340.318,4,46)\3a&H00&\1a&HFF&\4a&HFF&\fscx99.99\fscy99.99}Bread Thief!
+Dialogue: 1,0:07:14.72,0:07:14.76,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&HE7F9FF&\bord2.2\blur0.54\fscx100\fscy100\frz0\move(360.014,340.318,360.005,353.723,6,48)\3a&H00&\1a&HFF&\4a&HFF&\fscx99.998\fscy99.998}Bread Thief!
+Dialogue: 1,0:07:14.76,0:07:14.80,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&HE7F9FF&\bord2.2\blur0.54\fscx100\fscy100\frz0\move(360.005,353.723,360.002,357.702,8,49)\3a&H00&\1a&HFF&\4a&HFF&\fscx99.989\fscy99.989}Bread Thief!
+Dialogue: 1,0:07:14.80,0:07:14.85,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&HE7F9FF&\bord2.2\blur0.54\fscx100\fscy100\frz0\move(360.002,357.702,360.007,351.252,9,51)\3a&H00&\1a&HFF&\4a&HFF&\fscx99.983\fscy99.983\t(9,51,\fscx99.997\fscy99.997)}Bread Thief!
+Dialogue: 1,0:07:14.85,0:07:14.89,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&HE7F9FF&\bord2.2\blur0.54\fscx100\fscy100\frz0\move(360.007,351.252,360.011,340.587,1,43)\3a&H00&\1a&HFF&\4a&HFF&\fscx99.997\fscy99.997}Bread Thief!
+Dialogue: 1,0:07:14.89,0:07:14.93,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&HE7F9FF&\bord2.2\blur0.54\fscx100\fscy100\frz0\move(360.011,340.587,360.003,334.999,3,45)\3a&H00&\1a&HFF&\4a&HFF&\fscx99.998\fscy99.998}Bread Thief!
+Dialogue: 1,0:07:14.93,0:07:14.97,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&HE7F9FF&\bord2.2\blur0.54\fscx100\fscy100\frz0\move(360.003,334.999,360.01,337.75,5,46)\3a&H00&\1a&HFF&\4a&HFF&\fscx100\fscy100}Bread Thief!
+Dialogue: 1,0:07:14.97,0:07:15.01,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&HE7F9FF&\bord2.2\blur0.54\fscx100\fscy100\frz0\move(360.01,337.75,360.015,343.841,6,48)\3a&H00&\1a&HFF&\4a&HFF&\fscx99.992\fscy99.992}Bread Thief!
+Dialogue: 1,0:07:15.01,0:07:15.06,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&HE7F9FF&\bord2.2\blur0.54\fscx100\fscy100\frz0\move(360.015,343.841,360.011,346.458,8,50)\3a&H00&\1a&HFF&\4a&HFF&\fscx99.998\fscy99.998}Bread Thief!
+Dialogue: 1,0:07:15.06,0:07:15.10,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&HE7F9FF&\bord2.2\blur0.54\fscx100\fscy100\frz0\move(360.011,346.458,360.034,343.673,0,41)\3a&H00&\1a&HFF&\4a&HFF&\fscx100\fscy100\t(0,41,\fscx99.989\fscy99.989)}Bread Thief!
+Dialogue: 1,0:07:15.10,0:07:15.14,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&HE7F9FF&\bord2.2\blur0.54\fscx100\fscy100\frz0\move(360.034,343.673,360.001,338.073,1,43)\3a&H00&\1a&HFF&\4a&HFF&\fscx99.989\fscy99.989}Bread Thief!
+Dialogue: 1,0:07:15.14,0:07:15.18,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&HE7F9FF&\bord2.2\blur0.54\fscx100\fscy100\frz0\move(360.001,338.073,360.016,334.994,3,45)\3a&H00&\1a&HFF&\4a&HFF&\fscx99.989\fscy99.989}Bread Thief!
+Dialogue: 1,0:07:15.18,0:07:17.47,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&HE7F9FF&\bord2.2\blur0.54\fscx100\fscy100\frz0\move(360.016,334.994,359.997,335.009,5,2299)\3a&H00&\1a&HFF&\4a&HFF&\fscx99.998\fscy99.998}Bread Thief!
+Dialogue: 2,0:07:14.35,0:07:14.43,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(359.998,439.748,360.011,335.002,1,84)\alpha&H00&\fscx99.997\fscy99.997}Bread Thief!
+Dialogue: 2,0:07:14.43,0:07:14.47,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(360.011,335.002,360.028,361.1,4,46)\alpha&H00&\fscx99.993\fscy99.993}Bread Thief!
+Dialogue: 2,0:07:14.47,0:07:14.51,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(360.028,361.1,360.013,376.748,6,47)\alpha&H00&\fscx99.986\fscy99.986}Bread Thief!
+Dialogue: 2,0:07:14.51,0:07:14.55,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(360.013,376.748,360.005,379.855,7,49)\alpha&H00&\fscx99.992\fscy99.992}Bread Thief!
+Dialogue: 2,0:07:14.55,0:07:14.60,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(360.005,379.855,360.013,368.22,9,51)\alpha&H00&\fscx99.991\fscy99.991}Bread Thief!
+Dialogue: 2,0:07:14.60,0:07:14.64,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(360.013,368.22,359.991,346.65,1,43)\alpha&H00&\fscx99.988\fscy99.988}Bread Thief!
+Dialogue: 2,0:07:14.64,0:07:14.68,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(359.991,346.65,360.016,334.992,3,44)\alpha&H00&\fscx99.991\fscy99.991}Bread Thief!
+Dialogue: 2,0:07:14.68,0:07:14.72,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(360.016,334.992,360.014,340.318,4,46)\alpha&H00&\fscx99.99\fscy99.99}Bread Thief!
+Dialogue: 2,0:07:14.72,0:07:14.76,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(360.014,340.318,360.005,353.723,6,48)\alpha&H00&\fscx99.998\fscy99.998}Bread Thief!
+Dialogue: 2,0:07:14.76,0:07:14.80,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(360.005,353.723,360.002,357.702,8,49)\alpha&H00&\fscx99.989\fscy99.989}Bread Thief!
+Dialogue: 2,0:07:14.80,0:07:14.85,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(360.002,357.702,360.007,351.252,9,51)\alpha&H00&\fscx99.983\fscy99.983\t(9,51,\fscx99.997\fscy99.997)}Bread Thief!
+Dialogue: 2,0:07:14.85,0:07:14.89,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(360.007,351.252,360.011,340.587,1,43)\alpha&H00&\fscx99.997\fscy99.997}Bread Thief!
+Dialogue: 2,0:07:14.89,0:07:14.93,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(360.011,340.587,360.003,334.999,3,45)\alpha&H00&\fscx99.998\fscy99.998}Bread Thief!
+Dialogue: 2,0:07:14.93,0:07:14.97,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(360.003,334.999,360.01,337.75,5,46)\alpha&H00&\fscx100\fscy100}Bread Thief!
+Dialogue: 2,0:07:14.97,0:07:15.01,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(360.01,337.75,360.015,343.841,6,48)\alpha&H00&\fscx99.992\fscy99.992}Bread Thief!
+Dialogue: 2,0:07:15.01,0:07:15.06,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(360.015,343.841,360.011,346.458,8,50)\alpha&H00&\fscx99.998\fscy99.998}Bread Thief!
+Dialogue: 2,0:07:15.06,0:07:15.10,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(360.011,346.458,360.034,343.673,0,41)\alpha&H00&\fscx100\fscy100\t(0,41,\fscx99.989\fscy99.989)}Bread Thief!
+Dialogue: 2,0:07:15.10,0:07:15.14,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(360.034,343.673,360.001,338.073,1,43)\alpha&H00&\fscx99.989\fscy99.989}Bread Thief!
+Dialogue: 2,0:07:15.14,0:07:15.18,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(360.001,338.073,360.016,334.994,3,45)\alpha&H00&\fscx99.989\fscy99.989}Bread Thief!
+Dialogue: 2,0:07:15.18,0:07:17.47,signtext,パンどろぼう,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs32\b0\i0\c&H2864DC&\3c&H1E305C&\bord0.9\blur0.54\fscx100\fscy100\frz0\move(360.016,334.994,359.997,335.009,5,2299)\alpha&H00&\fscx99.998\fscy99.998}Bread Thief!
+Dialogue: 0,0:07:13.42,0:07:16.42,topitalic,KIDS,0,0,0,SEGMENT,Let's Play, Bread Thief!
+Dialogue: 0,0:07:18.00,0:07:22.34,italics,NARRATOR,0,0,0,,Now, the three of them\Nare going to hide all over the place!
+Dialogue: 0,0:07:22.34,0:07:25.38,main,PANDOROBO,0,0,0,,Who's gonna pop up the most?
+Dialogue: 0,0:07:29.22,0:07:32.14,italics,NARRATOR,0,0,0,,Where are they?\NWhere are they?
+Dialogue: 0,0:07:32.60,0:07:34.43,main,PANDOROBO,0,0,0,,Over here!
+Dialogue: 0,0:07:40.23,0:07:42.07,italics,PANDOROBO,0,0,0,,Swift-feet technique!
+Dialogue: 0,0:07:56.01,0:08:08.44,signtext,パンどろぼうたち でてきたかいすう,0,0,0,,{\c&H06122F&\fnBack Nature\fs25\an7\pos(39.34,51.33)}Times Each One Popped Up
+Dialogue: 0,0:07:56.01,0:08:08.44,signtext,パンどろぼう,0,0,0,,{\c&H06122F&\fnBack Nature\fs25\an7\pos(46.01,120.66)}Bread Thief
+Dialogue: 0,0:07:56.01,0:08:08.44,signtext,こうさぎ,0,0,0,,{\c&H06122F&\fnBack Nature\fs25\an7\pos(46.01,204.66)}Kousagi
+Dialogue: 0,0:07:56.01,0:08:08.44,signtext,こぐま,0,0,0,,{\c&H06122F&\fnBack Nature\fs25\an7\pos(46.01,286.66)}Koguma
+Dialogue: 0,0:08:00.96,0:08:04.34,main,PANDOROBO,0,0,0,,I popped up the most today!
+Dialogue: 0,0:08:04.34,0:08:06.13,italics,NARRATOR,0,0,0,,Way to go, Bread Thief!
+Dialogue: 0,0:08:06.84,0:08:08.09,italics,NARRATOR,0,0,0,,Let's play again!
+Dialogue: 1,0:08:08.44,0:08:12.45,signtext,TS41,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&HC89846&\3c&HE7F9FF&\bord2\blur0.54\fscx100\fscy100\frz15\pos(171,158)\3a&H00&\1a&HFF&\4a&HFF&\fscx100\fscy100}See Ya!
+Dialogue: 2,0:08:08.44,0:08:12.45,signtext,TS41,0,0,0,,{\an5\q2\shad0\b0\i0\bord0\blur0.3\fnBeachday\fs29\b0\i0\c&HC89846&\3c&H5E4925&\bord0.8\blur0.54\fscx100\fscy100\frz15\pos(171,158)\alpha&H00&\fscx100\fscy100}See Ya!
+Dialogue: 0,0:08:08.76,0:08:10.01,main,PANDOROBO,0,0,0,,See ya!
+Dialogue: 0,0:08:12.89,0:08:15.68,italics,KYARI,0,0,0,ENDING,♪ "Pan-pan, papa-pan-pan-pan, papa-pan"
+Dialogue: 99,0:08:15.68,0:08:18.52,italics,KYARI,0,0,0,ENDING,♪ "Pan-pan, papa-pan-pan, papa-pan"
+Dialogue: 99,0:08:18.52,0:08:21.27,italics,KYARI,0,0,0,ENDING,♪ "Pan-pan, papa-pan-pan-pan, papa-pan"
+Dialogue: 99,0:08:21.27,0:08:24.15,italics,KYARI,0,0,0,ENDING,♪ "One, two, three, four,\Npang, pang, pang!"
+Dialogue: 99,0:08:24.15,0:08:26.99,italics,KYARI,0,0,0,ENDING,♪ "Pan-pan, papa-pan-pan-pan, papa-pan"
+Dialogue: 99,0:08:26.99,0:08:29.82,italics,KYARI,0,0,0,ENDING,♪ "Pan-pan, papa-pan-pan, papa-pan"
+Dialogue: 99,0:08:29.82,0:08:32.66,italics,KYARI,0,0,0,ENDING,♪ "Pan-pan, papa-pan-pan-pan, papa-pan"
+Dialogue: 99,0:08:32.66,0:08:35.49,italics,KYARI,0,0,0,ENDING,♪ "One, two, three, four,\Npang, pang, pang!"
+Dialogue: 99,0:08:35.49,0:08:38.29,italics,KYARI,0,0,0,ENDING,♪ "Softly, softly, whispers grain"
+Dialogue: 99,0:08:38.29,0:08:41.13,italics,KYARI,0,0,0,ENDING,♪ "Glancing, glancing,\Nshadows sway"
+Dialogue: 99,0:08:41.13,0:08:43.92,italics,KYARI,0,0,0,ENDING,♪ "Sliding, slding, morning wakes"
+Dialogue: 99,0:08:43.92,0:08:46.80,italics,KYARI,0,0,0,ENDING,♪ "Stepping, stepping,\Nonly carrying on"
+Dialogue: 99,0:08:46.80,0:08:49.55,italics,KYARI,0,0,0,ENDING,♪ "Pan-pan, papa-pan-pan-pan, papa-pan"
+Dialogue: 99,0:08:49.55,0:08:52.39,italics,KYARI,0,0,0,ENDING,♪ "Pan-pan, papa-pan-pan, papa-pan"
+Dialogue: 99,0:08:52.39,0:08:55.31,italics,KYARI,0,0,0,ENDING,♪ "Pan-pan, papa-pan-pan-pan, papa-pan"
+Dialogue: 99,0:08:55.31,0:08:57.89,italics,KYARI,0,0,0,ENDING,♪ "One, two, three, four,\Npang, pang, pang!"
+
